@@ -1,7 +1,9 @@
 GAME_ID,EVENT_ID,COMMENT_TX
+"PHI195605180",56,"ej,hutcf101,M,gorea901,Balls and strikes $Cardinal manager Hutchinson ejected by HP umpire Gore for arguing balls and strikes to unknown batter"
 "PHI195605202",15,"ej,burgs101,P,secof101,Balls and strikes Smoky Burgess ejected by HP umpire Frank Secory"
 "PHI195605202",23,"$Tom Acker injured"
 "PHI195605202",34,"$Alex Grammas called for interference for running into his own bunt"
+"PHI195605250",71,"ej,millb103,P,balll901,Balls and strikes $Phillies pitcher Miller ejected from bench by HP umpire Ballanfant for arguing balls and strikes"
 "PHI195605301",27,"$onto the roof"
 "PHI195605301",65,"31 minute rain delay"
 "PHI195606152",21,"ej,hackw102,P,delmv901,Balls and strikes ej,chith101,P,delmv901,Balls and strikes ej,fondd101,P,conlj102,Balls and strikes Warren Hacker and Harry Chiti ejected by HP umpire Vic Delmore arguing the strike zone; the Cubs bench threw towels and other equipment onto the field; Dee Fondy ejected by 1B umpire Jocko Conlan"
@@ -22,5 +24,6 @@ GAME_ID,EVENT_ID,COMMENT_TX
 "PHI195609140",0,"Protest=V"
 "PHI195609140",10,"$an attendant caught the ball down the LF line; it was ruled interference and the Braves argued that Del Ennis should have been held at 1B on the play; Braves manager Fred Haney protested the game"
 "PHI195609150",72,"$the Braves thought Richie Ashburn had struck out on the 1-2 pitch which was called a ball by HP umpire Shag Crawford"
-"PHI195609150",73,"ej,mathe101,P,craws901,Balls and strikes ej,hanef101,M,craws901,Balls and strikes ej,tannc101,P,craws901,Balls and strikes (Threw towels) Eddie Mathews, Chuck Tanner and Braves Manager Fred Haney ejected by HP umpire Shag Crawford arguing the previous pitch to Richie Ashburn; Tanner threw towels onto the field"
-"PHI195609150",75,"ej,trowb101,P,craws901,Balls and strikes ej,logaj101,P,craws901,Balls and strikes Bob Trowbridge ejected by HP umpire Shag Crawford as he left the field arguing the call to Richie Ashburn; Johnny Logan ejected by HP umpire Shag Crawford arguing the second strike"
+"PHI195609150",73,"ej,mathe101,P,craws901,Balls and strikes ej,hanef101,M,craws901,Balls and strikes ej,tannc101,P,craws901,Balls and strikes (Threw towels) $Braves Mathews and Tanner and Braves manager Haney ejected by HP umpire Crawford arguing the previous pitch to Richie Ashburn; Tanner threw towels onto the field"
+"PHI195609150",75,"ej,trowb101,P,craws901,Balls and strikes $Pitcher Trowbridge ejected by HP umpire Crawford as he left field for arguing the call to Richie Ashburn;"
+"PHI195609150",75,"ej,logaj101,P,craws901,Balls and strikes $Logan ejected by HP umpire Crawford after strike 2"

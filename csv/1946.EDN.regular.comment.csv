@@ -14,6 +14,7 @@ GAME_ID,EVENT_ID,COMMENT_TX
 "BSN194605121",41,"$five minute rain delay for showers in 5th inning"
 "PHI194605150",59,"$Waitkus hurt in this inning crashing into fence while chasing a foul ball"
 "PHI194604230",7,"ej,chapb102,M,dunnt901,Balls and strikes $Phillies manager Chapman ejected for arguing balls and strikes sometime in first inning"
+"PHI194605230",59,"ej,frisf101,M,mageg901,Balls and strikes (mimicking umpire appearance) $Pirate manager Frisch ejected by HP umpire Magerkurth for arguing balls and strikes and mimicking umpire's portly appearance"
 "BSN194605192",61,"$Prim doubled over in pain after the second pitch, but Boston manager Southworth insisted that he pitch to one batter, so he stayed in the game and struck out Fernandez"
 "PHI194606150",58,"$Hughes turned his ankle and could not score before Northey was out at third"
 "PHI194606150",62,"$Judd entered with 2-0 count, completed walk charged to Rowe"
@@ -47,3 +48,4 @@ GAME_ID,EVENT_ID,COMMENT_TX
 "CHN194609242",58,"$hit in head"
 "CHN194609242",87,"$Game called on account of darkness"
 "NY1194609262",38,"pbp ends here, rest deduced"
+"PHI194607252",51,"ej,frisf101,M,mageg901,Called third strike ej,russj102,P,mageg901,Called third strike $Pirate manager Frisch ejected by HP umpire Magerkurth along with player Russell for arguing strike 3 to Workman; Magerkurth also cleared the Pittsburgh bench but those players were allowed to enter the game later"

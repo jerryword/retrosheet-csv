@@ -1,5 +1,6 @@
 GAME_ID,EVENT_ID,COMMENT_TX
 "PHI197504140",1,"Debut game for Randy Tate"
+"PHI197505130",30,"ej,ozard801,M,olsea901,Balls and strikes $Phillies manager Ozark ejected by HP umpire Olsen for arguing balls and strikes while returning to dugout after mound visit"
 "PHI197505140",10,"ej,andes101,M,tatat901,Balls and strikes Reds Manager Sparky Anderson ejected by HP umpire Terry Tata"
 "PHI197505300",78,"Debut game for Larry Fritz"
 "PHI197505310",71,"$Cliff Johnson had pinch hit previously in this inning; officially his position is null for this home run"
@@ -10,6 +11,7 @@ GAME_ID,EVENT_ID,COMMENT_TX
 "PHI197506250",79,"$Frank Taveras called for interference for being out of batter's box"
 "PHI197507170",97,"$Larry Bowa saw 3B not covered on sacrifice"
 "PHI197507200",7,"missing play in PHI197507200"
+"PHI197507240",61,"ej,starh101,C,willb901,Balls and strikes $Braves coach Starrette ejected by HP umpire Williams for arguing balls and strikes"
 "PHI197508040",0,"Protest=V"
 "PHI197508040",32,"21 minute rain delay"
 "PHI197508040",59,"2:18 rain delay; Cubs manager Jim Marshall protested that the umpires should have called the game"
@@ -21,5 +23,5 @@ GAME_ID,EVENT_ID,COMMENT_TX
 "PHI197509052",7,"Rick Reuschel injured"
 "PHI197509080",0,"Protest=H"
 "PHI197509080",25,"$the Phillies protested the game, alleging that Greg Luzinski should only get one extra base on the overthrow"
-"PHI197509080",62,"ej,reedr001,P,froeb901,Arguing balls and strikes $Reed ejected by HP Froemming for arguing balls and strikes after he was removed"
+"PHI197509080",62,"ej,reedr001,P,froeb901,Arguing balls and strikes $Cardinals Reed ejected by HP umpire Froemming for arguing balls and strikes after he was removed"
 "PHI197509261",41,"$Greg Luzinski called for interference"

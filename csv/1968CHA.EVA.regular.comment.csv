@@ -1,6 +1,6 @@
 GAME_ID,EVENT_ID,COMMENT_TX
 "CHA196804211",70,"missing play in CHA196804211"
-"CHA196804300",0,"ej,fox-n101,C,ashfe901,Balls and strikes Senators Coach Nellie Fox ejected by HP umpire Emmett Ashford sometime in game"
+"CHA196804300",80,"ej,fox-n101,C,ashfe901,Balls and strikes $Senators coach Fox ejected by HP umpire Ashford for arguing ball 4 to Bradford"
 "CHA196805040",14,"Debut game for Bill Melton"
 "CHA196805040",30,"Rain"
 "CHA196805140",79,"Debut game for Marty Pattin"
@@ -8,7 +8,8 @@ GAME_ID,EVENT_ID,COMMENT_TX
 "CHA196805280",0,"$The game was played in Milwaukee"
 "CHA196805280",47,"ej,blefc101,P,stevj901,Bench jockeying Curt Blefary ejected by HP umpire Johnny Stevens"
 "CHA196805290",6,"$Pete Ward was hit on head"
-"CHA196806021",36,"ej,ermec101,M,ricej901,Interference non-call $Twins SS Cesar Tovar and LF Rich Reese stumbled around the ball boy in the LF corner; Twins manager Cal Ermer argued that the boy interfered with his players but 3B umpire John Rice said that the boy did not intentionally get in the way; Ermer ejected by Rice"
+"CHA196806021",36,"$Twins SS Cesar Tovar and LF Rich Reese stumbled around the ball boy in the LF corner; Twins manager Cal Ermer argued that the boy interfered with his players but 3B umpire John Rice said that the boy did not intentionally get in the way; Ermer was not ejected"
+"CHA196806022",56,"ej,ermec101,M,odomj901,Balk reversal ej,reesr101,P,odomj901,Balk reversal (threw towel) $Twins manager Ermer and pinch-hitter Reese ejected by HP umpire Odom for reversing balk call when Chicago pointed that Tovar was not in batter's box when balk was called; umpires agreed and reversed it; Reese threw towel on field"
 "CHA196806162",48,"missing play in CHA196806162"
 "CHA196806170",0,"$The game was played in Milwaukee"
 "CHA196806211",27,"Debut game for Danny Lazar"

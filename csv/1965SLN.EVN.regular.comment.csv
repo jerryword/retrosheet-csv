@@ -1,7 +1,7 @@
 GAME_ID,EVENT_ID,COMMENT_TX
 "SLN196504170",60,"$Debut game for Art Shamsky"
 "SLN196504190",70,"$Debut game for Nelson Briles"
-"SLN196505050",0,"ej,schuj103,C,pryop901,Balls and strikes Cardinals Coach Joe Schultz ejected by HP umpire Paul Pryor sometime in game"
+"SLN196505050",80,"ej,schuj103,C,pryop901,Balls and strikes $Cardinals coach Schultz ejected by HP umpire Pryor for arguing balls and strikes"
 "SLN196505170",69,"ej,schuj103,C,craws901,Call at HP Cardinals Coach Joe Schultz ejected by HP umpire Shag Crawford"
 "SLN196505180",14,"$over the roof"
 "SLN196505180",52,"$onto the roof"
@@ -30,5 +30,6 @@ GAME_ID,EVENT_ID,COMMENT_TX
 "SLN196509030",4,"$Debut game for Bobby Tolan"
 "SLN196509030",16,"Debut game for Greg Goossen"
 "SLN196509052",12,"$Debut game for George Kernek"
+"SLN196509061",10,"ej,boyek101,P,secof101,Call at 1B $Boyer ejected by 1B umpire Secory for arguing he had returned dafely to 1st; he also threw helmet"
 "SLN196509062",59,"$Debut game for Dennis Aust"
 "SLN196509170",46,"$Debut game for Larry Jaster"

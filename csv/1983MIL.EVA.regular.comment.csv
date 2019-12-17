@@ -4,7 +4,7 @@ GAME_ID,EVENT_ID,COMMENT_TX
 "MIL198306240",13,"SB may be with Vukovich at bat"
 "MIL198306240",59,"$Don Sutton's 3000th career strikeout"
 "MIL198306250",61,"$Rick Manning called for interference on steal attempt"
-"MIL198306300",0,"ej,garcd801,C,pales901,Throwing ball to pitcher Brewers coach Dave Garcia ejected by HP umpire Steve Palermo sometime in game for arguing about whether the catcher or the umpire would throw the ball to the pitcher"
+"MIL198306300",58,"ej,garcd801,C,pales901,Throwing ball to pitcher $Brewers coach Garcia ejected by HP umpire Palermo when umpire would not give ball to Garcia to throw to the pitcher"
 "MIL198307160",67,"$Kent Hrbek called for interference running the 1B line"
 "MIL198307181",35,"$delay when the lights went out"
 "MIL198307182",68,"ej,raded103,M,brinj901,Balls and strikes Rangers manager Doug Rader ejected by HP umpire Joe Brinkman"
@@ -19,3 +19,4 @@ GAME_ID,EVENT_ID,COMMENT_TX
 "MIL198309070",43,"Debut game for Jaime Cocanower"
 "MIL198309080",21,"DWS: fielding credit invented"
 "MIL198309250",22,"ej,moorc001,P,koscg901,Balls and strikes Charlie Moore ejected by HP umpire Greg Kosc"
+"MIL198309290",79,"ej,kuenh101,M,neudj901,Hit by pitch $Brewers manager Kuenn ejected by HP umpire Neudecker for arguing that Castillo was not hit by pitch"

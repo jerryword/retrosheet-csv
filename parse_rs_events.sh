@@ -1,10 +1,10 @@
 #!/bin/bash
 
 # Parse retrosheet event files
-dirs=(event/asg 
-  event/post 
-  event/regular)
-outdir=../csv
+dirs=(~/retrosheet/event/asg 
+  ~/retrosheet/event/post 
+  ~/retrosheet/event/regular)
+outdir=~/retrosheet-csv/csv
 touch team
 for dir in ${dirs[@]} 
 do

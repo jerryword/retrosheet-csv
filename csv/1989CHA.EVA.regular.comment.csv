@@ -25,6 +25,6 @@ GAME_ID,EVENT_ID,COMMENT_TX
 "CHA198909040",15,"60 minute rain delay"
 "CHA198909040",71,"$Lee Mazzilli hurt going to 3B"
 "CHA198909151",11,"$Claudell Washington lost the ball in the sun"
-"CHA198909160",13,"$1B umpire Jim Joyce hit by Jack Howell liner, left in fourth"
-"CHA198909160",25,"umpchange,4,ump1b,pales901 umpchange,4,ump2b,(None) $1B umpire Jim Joyce left with injury suffered in second"
+"CHA198909160",13,"umpchange,2,ump1b,pales901 umpchange,2,ump2b,(None) $1B umpire Joyce left when hit on wrist by ground ball; 2B umpire Palermo moved to 1st"
+"CHA198909160",25,"umpchange,4,ump1b,joycj901 umpchange,4,ump2b,pales901 $Umpire Joyce returned to 1st and Palermo back to 2nd"
 "CHA198909250",67,"$foul tip hit catcher Brian Harper on the wrist"
