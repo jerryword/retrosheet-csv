@@ -1,62 +1,31 @@
-"CLE196004190",0,"Debut for umpire Al Smith"FILENAME_TX","LINE_NUMBER_CT"
-
-"CLE196004190",6,"Debut game for Walt Bond"1960CLE.EVA.regular.comment.csv",2
-
-"CLE196004190",124,"Debut game for Carl Thomas"1960CLE.EVA.regular.comment.csv",3
-
-"CLE196004300",28,"ej,pierj102,P,ricej901,Called third strike Jim Piersall ejected by HP umpire John Rice"1960CLE.EVA.regular.comment.csv",4
-
-"CLE196005200",41,"$Short rain delay"1960CLE.EVA.regular.comment.csv",5
-
-"CLE196005220",0,"$20 minute rain delay before start of game"1960CLE.EVA.regular.comment.csv",6
-
-"CLE196005220",42,"ej,haleb101,P,hurle901,Balls and strikes ej,gordj101,M,hurle901,Balls and strikes $Indians Hale, not in game, and manager Gordon ejected by HP umpire Hurley for arguing balls and strikes while Phillips was batting"1960CLE.EVA.regular.comment.csv",7
-
-"CLE196005220",50,"$game called for rain after 1:17 delay"1960CLE.EVA.regular.comment.csv",8
-
-"CLE196006170",22,"$Ted Williams' 500th career homerun, becoming only the fourth player to reach this milestone"1960CLE.EVA.regular.comment.csv",9
-
-"CLE196006170",45,"$Vic Power's throw to 2B was late"1960CLE.EVA.regular.comment.csv",10
-
-"CLE196006180",19,"$Ike Delock deflected the ball to Frank Malzone"1960CLE.EVA.regular.comment.csv",11
-
-"CLE196006191",49,"ej,pierj102,P,stevj901,Balls and strikes Jim Piersall ejected by HP umpire Johnny Stevens"1960CLE.EVA.regular.comment.csv",12
-
-"CLE196006262",50,"ej,pierj102,P,soarh901,Call at 2B Jim Piersall ejected by 2B umpire Hank Soar"1960CLE.EVA.regular.comment.csv",13
-
-"CLE196007042",21,"$the Athletics argued that the home run was foul"1960CLE.EVA.regular.comment.csv",14
-
-"CLE196007060",61,"ej,tempj101,P,mckib901,Balls and strikes $Indians Temple ejected by HP umpire McKinley for arguing strike call"1960CLE.EVA.regular.comment.csv",15
-
-"CLE196007160",12,"ej,pierj102,P,drumc901,Balls and strikes $Jim Piersall ejected by HP umpire Cal Drummond"1960CLE.EVA.regular.comment.csv",16
-
-"CLE196007171",53,"ej,powev101,P,berrc103,Fighting ej,batte101,P,berrc103,Fighting Vic Power came up swinging after being tagged by Earl Battey; both benches cleared; Power and Battey ejected by HP umpire Charlie Berry"1960CLE.EVA.regular.comment.csv",17
-
-"CLE196007180",3,"$Woodie Held broke middle finger on right hand"1960CLE.EVA.regular.comment.csv",18
-
-"CLE196007180",31,"ej,hardm101,C,drumc901,Call at 1B ej,tannc101,P,drumc901,Call at 1B Chuck Tanner and Indians Coach Mel Harder ejected by 1B umpire Cal Drummond"1960CLE.EVA.regular.comment.csv",19
-
-"CLE196007200",15,"$Vic Power has now hit in 20 consecutive games"1960CLE.EVA.regular.comment.csv",20
-
-"CLE196008071",48,"ej,richp101,M,runge901,Call at 2B Orioles Manager Paul Richards ejected by 2B umpire Ed Runge who said that Marv Breeding was off the bag at 2B"1960CLE.EVA.regular.comment.csv",21
-
-"CLE196008072",3,"$39 minute rain delay"1960CLE.EVA.regular.comment.csv",22
-
-"CLE196008072",28,"$Jimmy Piersall's throw to 3B late, Breeding to 2B; Rocky Bridges threw to 2B but the ball went in CF"1960CLE.EVA.regular.comment.csv",23
-
-"CLE196008072",54,"$Dave Nicholson trapped off 1B"1960CLE.EVA.regular.comment.csv",24
-
-"CLE196008100",36,"$Ted Williams' 512th homerun, moving him past Mel Ott into third place, behind Babe Ruth and Jimmie Foxx"1960CLE.EVA.regular.comment.csv",25
-
-"CLE196008120",32,"ej,pierj102,P,stevj901,Arguing call at second $After Piersall was safe on his bunt, he saw 2nd base momentarily uncovered and tried for it; catcher Foiles had returned the ball to pitcher Bunning who was startled but threw to shortstop Fernandez in time to get Piersall who objected violently to the call and was immediately ejected by 2b umpire Stevens"1960CLE.EVA.regular.comment.csv",26
-
-"CLE196008180",35,"ej,pierj102,P,drumc901,Called third strike Jim Piersall ejected by HP umpire Cal Drummond"1960CLE.EVA.regular.comment.csv",27
-
-"CLE196009140",6,"Debut game for Ty Cline"1960CLE.EVA.regular.comment.csv",28
-
-"CLE196009160",0,"$Indians pitcher Jim Grant and bullpen coach Ted Wilks got into a racial argument during the singing of the National Anthem; Grant left the stadium without notifying Indians manager Jimmy Dykes, who suspened Grant for the rest of the season without pay"1960CLE.EVA.regular.comment.csv",29
-
-"CLE196009182",64,"Debut game for Chet Boak Debut game for Dave Wickersham"1960CLE.EVA.regular.comment.csv",30
-
-"CLE196009230",74,"ej,minom101,P,stewb902,Balls and strikes (Threw bat at pitcher) $Minoso ejected by HP umpire Stewart for throwing bat at pitcher"1960CLE.EVA.regular.comment.csv",31
-
+"CLE196004190",0,"Debut for umpire Al Smith","FILENAME_TX","LINE_NUMBER_CT"
+"CLE196004190",6,"Debut game for Walt Bond","1960CLE.EVA.regular.comment.csv",2
+"CLE196004190",124,"Debut game for Carl Thomas","1960CLE.EVA.regular.comment.csv",3
+"CLE196004300",28,"ej,pierj102,P,ricej901,Called third strike Jim Piersall ejected by HP umpire John Rice","1960CLE.EVA.regular.comment.csv",4
+"CLE196005200",41,"$Short rain delay","1960CLE.EVA.regular.comment.csv",5
+"CLE196005220",0,"$20 minute rain delay before start of game","1960CLE.EVA.regular.comment.csv",6
+"CLE196005220",42,"ej,haleb101,P,hurle901,Balls and strikes ej,gordj101,M,hurle901,Balls and strikes $Indians Hale, not in game, and manager Gordon ejected by HP umpire Hurley for arguing balls and strikes while Phillips was batting","1960CLE.EVA.regular.comment.csv",7
+"CLE196005220",50,"$game called for rain after 1:17 delay","1960CLE.EVA.regular.comment.csv",8
+"CLE196006170",22,"$Ted Williams' 500th career homerun, becoming only the fourth player to reach this milestone","1960CLE.EVA.regular.comment.csv",9
+"CLE196006170",45,"$Vic Power's throw to 2B was late","1960CLE.EVA.regular.comment.csv",10
+"CLE196006180",19,"$Ike Delock deflected the ball to Frank Malzone","1960CLE.EVA.regular.comment.csv",11
+"CLE196006191",49,"ej,pierj102,P,stevj901,Balls and strikes Jim Piersall ejected by HP umpire Johnny Stevens","1960CLE.EVA.regular.comment.csv",12
+"CLE196006262",50,"ej,pierj102,P,soarh901,Call at 2B Jim Piersall ejected by 2B umpire Hank Soar","1960CLE.EVA.regular.comment.csv",13
+"CLE196007042",21,"$the Athletics argued that the home run was foul","1960CLE.EVA.regular.comment.csv",14
+"CLE196007060",61,"ej,tempj101,P,mckib901,Balls and strikes $Indians Temple ejected by HP umpire McKinley for arguing strike call","1960CLE.EVA.regular.comment.csv",15
+"CLE196007160",12,"ej,pierj102,P,drumc901,Balls and strikes $Jim Piersall ejected by HP umpire Cal Drummond","1960CLE.EVA.regular.comment.csv",16
+"CLE196007171",53,"ej,powev101,P,berrc103,Fighting ej,batte101,P,berrc103,Fighting Vic Power came up swinging after being tagged by Earl Battey; both benches cleared; Power and Battey ejected by HP umpire Charlie Berry","1960CLE.EVA.regular.comment.csv",17
+"CLE196007180",3,"$Woodie Held broke middle finger on right hand","1960CLE.EVA.regular.comment.csv",18
+"CLE196007180",31,"ej,hardm101,C,drumc901,Call at 1B ej,tannc101,P,drumc901,Call at 1B Chuck Tanner and Indians Coach Mel Harder ejected by 1B umpire Cal Drummond","1960CLE.EVA.regular.comment.csv",19
+"CLE196007200",15,"$Vic Power has now hit in 20 consecutive games","1960CLE.EVA.regular.comment.csv",20
+"CLE196008071",48,"ej,richp101,M,runge901,Call at 2B Orioles Manager Paul Richards ejected by 2B umpire Ed Runge who said that Marv Breeding was off the bag at 2B","1960CLE.EVA.regular.comment.csv",21
+"CLE196008072",3,"$39 minute rain delay","1960CLE.EVA.regular.comment.csv",22
+"CLE196008072",28,"$Jimmy Piersall's throw to 3B late, Breeding to 2B; Rocky Bridges threw to 2B but the ball went in CF","1960CLE.EVA.regular.comment.csv",23
+"CLE196008072",54,"$Dave Nicholson trapped off 1B","1960CLE.EVA.regular.comment.csv",24
+"CLE196008100",36,"$Ted Williams' 512th homerun, moving him past Mel Ott into third place, behind Babe Ruth and Jimmie Foxx","1960CLE.EVA.regular.comment.csv",25
+"CLE196008120",32,"ej,pierj102,P,stevj901,Arguing call at second $After Piersall was safe on his bunt, he saw 2nd base momentarily uncovered and tried for it; catcher Foiles had returned the ball to pitcher Bunning who was startled but threw to shortstop Fernandez in time to get Piersall who objected violently to the call and was immediately ejected by 2b umpire Stevens","1960CLE.EVA.regular.comment.csv",26
+"CLE196008180",35,"ej,pierj102,P,drumc901,Called third strike Jim Piersall ejected by HP umpire Cal Drummond","1960CLE.EVA.regular.comment.csv",27
+"CLE196009140",6,"Debut game for Ty Cline","1960CLE.EVA.regular.comment.csv",28
+"CLE196009160",0,"$Indians pitcher Jim Grant and bullpen coach Ted Wilks got into a racial argument during the singing of the National Anthem; Grant left the stadium without notifying Indians manager Jimmy Dykes, who suspened Grant for the rest of the season without pay","1960CLE.EVA.regular.comment.csv",29
+"CLE196009182",64,"Debut game for Chet Boak Debut game for Dave Wickersham","1960CLE.EVA.regular.comment.csv",30
+"CLE196009230",74,"ej,minom101,P,stewb902,Balls and strikes (Threw bat at pitcher) $Minoso ejected by HP umpire Stewart for throwing bat at pitcher","1960CLE.EVA.regular.comment.csv",31

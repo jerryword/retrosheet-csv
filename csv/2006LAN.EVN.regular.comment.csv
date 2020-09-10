@@ -1,72 +1,36 @@
-"LAN200604140",1,"rain delayed start until 9:49 PM"FILENAME_TX","LINE_NUMBER_CT"
-
-"LAN200604140",46,"Dodgers pitcher Brad Penny left the game due to an injured arm, hurt on Finley's comebacker in the 4th"2006LAN.EVN.regular.comment.csv",2
-
-"LAN200604160",54,"$Kent hit in head, suffered concussion"2006LAN.EVN.regular.comment.csv",3
-
-"LAN200604160",59,"ej,hamut001,P,barkl901,Intentional HBP Dodgers pitcher Tim Hamulack ejected by HP umpire Lance Barksdale who ruled this was retaliation for Kent"2006LAN.EVN.regular.comment.csv",4
-
-"LAN200604170",16,"$originally ruled that ball hit runner, later changed to say that runner interfered with Oscar Nobles"2006LAN.EVN.regular.comment.csv",5
-
-"LAN200604190",59,"Cubs pitcher Scott Eyre left the game due to an injured knee Cubs first baseman Derrek Lee left the game due to an injured hand/wrist"2006LAN.EVN.regular.comment.csv",6
-
-"LAN200604190",65,"Dodgers catcher Sandy Alomar left the game due to an injured leg"2006LAN.EVN.regular.comment.csv",7
-
-"LAN200604230",49,"$Chad Tracy called for interference"2006LAN.EVN.regular.comment.csv",8
-
-"LAN200605050",74,"ej,cirij001,P,laynj901,Called third strike ej,yoste001,M,laynj901,Called third strike Brewers Jeff Cirillo & Mgr Ned Yost ejected by HP umpire Jerry Layne"2006LAN.EVN.regular.comment.csv",9
-
-"LAN200605090",4,"Dodgers left fielder Jason Repko left the game due to an injured foot/ankle"2006LAN.EVN.regular.comment.csv",10
-
-"LAN200605200",2,"fan interference"2006LAN.EVN.regular.comment.csv",11
-
-"LAN200605220",18,"Rockies second baseman Jamey Carroll left the game due to an injured foot/ankle"2006LAN.EVN.regular.comment.csv",12
-
-"LAN200606060",14,"Mets left fielder Cliff Floyd left the game due to an injured foot/ankle"2006LAN.EVN.regular.comment.csv",13
-
-"LAN200606230",74,"fan interference"2006LAN.EVN.regular.comment.csv",14
-
-"LAN200607030",74,"ej,choar001,P,barrt901,Intentional HBP ej,melvb001,M,barrt901,Intentional HBP Diamondbacks Randy Choate & Mgr Bob Melvin ejected by HP umpire Ted Barrett"2006LAN.EVN.regular.comment.csv",15
-
-"LAN200607070",48,"fan interference"2006LAN.EVN.regular.comment.csv",16
-
-"LAN200607090",37,"Giants shortstop Omar Vizquel left the game due to an injured leg"2006LAN.EVN.regular.comment.csv",17
-
-"LAN200607240",8,"umpchange,2,umphome,hoyej901 umpchange,2,ump1b,timmt901 umpchange,2,ump2b,(None) $HP umpire Derryl Cousins left after one inning because of knee problems"2006LAN.EVN.regular.comment.csv",18
-
-"LAN200607240",72,"$In and out of glove at wall, could have been E9"2006LAN.EVN.regular.comment.csv",19
-
-"LAN200607240",92,"ej,bochb002,M,timmt901,Call at 1B Padres Manager Bruce Bochy ejected by 1B umpire Tim Timmons"2006LAN.EVN.regular.comment.csv",20
-
-"LAN200607240",93,"bloop double over the glove of 2B Ramon Martinez"2006LAN.EVN.regular.comment.csv",21
-
-"LAN200607300",13,"Hendrickson caught spikes of front foot as he strode to plate, fell without throwing the ball"2006LAN.EVN.regular.comment.csv",22
-
-"LAN200607300",32,"Nationals catcher Brian Schneider left the game due to an injured back"2006LAN.EVN.regular.comment.csv",23
-
-"LAN200608070",43,"ej,foggj001,P,holbs901,Balls and strikes Rockies pitcher Josh Fogg ejected by HP umpire Sam Holbrook after he was removed by manager Clint Hurdle"2006LAN.EVN.regular.comment.csv",24
-
-"LAN200608070",49,"$Lugo stopped ball behind 2B, had no play at 1B, then caught Smith who had rounded 3B too far"2006LAN.EVN.regular.comment.csv",25
-
-"LAN200608090",27,"Lugo broke for home, but the Rockies called out to Francis, who stepped off the rubber and made a perfect throw to the right hand batter's box as Lugo slid in"2006LAN.EVN.regular.comment.csv",26
-
-"LAN200608090",66,"great play by Furcal in hole; no possible play at 1B"2006LAN.EVN.regular.comment.csv",27
-
-"LAN200608090",69,"Dodger catcher Martin faked throw to second, then had Holliday trapped off 3B; Rundown ensued and Holliday scored when catcher dropped ball as Holliday went by; error on catcher accounts for Hawpe taking 3B Probable correct scoring is SBH;SB2.1X3(25E2)"2006LAN.EVN.regular.comment.csv",28
-
-"LAN200608100",71,"ej,kingr001,P,wendh902,Balls and strikes $Pitcher King ejected by HP umpire Wendelstedt for arguing balls and strikes after being removed"2006LAN.EVN.regular.comment.csv",29
-
-"LAN200608160",43,"Marlins right fielder Cody Ross left the game due to an injured knee"2006LAN.EVN.regular.comment.csv",30
-
-"LAN200609020",38,"$Aaron Cook called for interference"2006LAN.EVN.regular.comment.csv",31
-
-"LAN200609030",79,"dribbler in front of plate, originally scored as E2, then single, then back to E2 after game"2006LAN.EVN.regular.comment.csv",32
-
-"LAN200609150",47,"Dodgers first baseman Nomar Garciaparra left the game due to an injured leg"2006LAN.EVN.regular.comment.csv",33
-
-"LAN200609150",51,"Broocail pulled hamstring and left"2006LAN.EVN.regular.comment.csv",34
-
-"LAN200609180",92,"$the fourth time in history a club has hit four consecutive homers"2006LAN.EVN.regular.comment.csv",35
-
-"LAN200609210",66,"ej,doumr001,P,gibsg901,Called third strike $Doumit ejected by HP umpire Gibson for arguing called third strike"2006LAN.EVN.regular.comment.csv",36
-
+"LAN200604140",1,"rain delayed start until 9:49 PM","FILENAME_TX","LINE_NUMBER_CT"
+"LAN200604140",46,"Dodgers pitcher Brad Penny left the game due to an injured arm, hurt on Finley's comebacker in the 4th","2006LAN.EVN.regular.comment.csv",2
+"LAN200604160",54,"$Kent hit in head, suffered concussion","2006LAN.EVN.regular.comment.csv",3
+"LAN200604160",59,"ej,hamut001,P,barkl901,Intentional HBP Dodgers pitcher Tim Hamulack ejected by HP umpire Lance Barksdale who ruled this was retaliation for Kent","2006LAN.EVN.regular.comment.csv",4
+"LAN200604170",16,"$originally ruled that ball hit runner, later changed to say that runner interfered with Oscar Nobles","2006LAN.EVN.regular.comment.csv",5
+"LAN200604190",59,"Cubs pitcher Scott Eyre left the game due to an injured knee Cubs first baseman Derrek Lee left the game due to an injured hand/wrist","2006LAN.EVN.regular.comment.csv",6
+"LAN200604190",65,"Dodgers catcher Sandy Alomar left the game due to an injured leg","2006LAN.EVN.regular.comment.csv",7
+"LAN200604230",49,"$Chad Tracy called for interference","2006LAN.EVN.regular.comment.csv",8
+"LAN200605050",74,"ej,cirij001,P,laynj901,Called third strike ej,yoste001,M,laynj901,Called third strike Brewers Jeff Cirillo & Mgr Ned Yost ejected by HP umpire Jerry Layne","2006LAN.EVN.regular.comment.csv",9
+"LAN200605090",4,"Dodgers left fielder Jason Repko left the game due to an injured foot/ankle","2006LAN.EVN.regular.comment.csv",10
+"LAN200605200",2,"fan interference","2006LAN.EVN.regular.comment.csv",11
+"LAN200605220",18,"Rockies second baseman Jamey Carroll left the game due to an injured foot/ankle","2006LAN.EVN.regular.comment.csv",12
+"LAN200606060",14,"Mets left fielder Cliff Floyd left the game due to an injured foot/ankle","2006LAN.EVN.regular.comment.csv",13
+"LAN200606230",74,"fan interference","2006LAN.EVN.regular.comment.csv",14
+"LAN200607030",74,"ej,choar001,P,barrt901,Intentional HBP ej,melvb001,M,barrt901,Intentional HBP Diamondbacks Randy Choate & Mgr Bob Melvin ejected by HP umpire Ted Barrett","2006LAN.EVN.regular.comment.csv",15
+"LAN200607070",48,"fan interference","2006LAN.EVN.regular.comment.csv",16
+"LAN200607090",37,"Giants shortstop Omar Vizquel left the game due to an injured leg","2006LAN.EVN.regular.comment.csv",17
+"LAN200607240",8,"umpchange,2,umphome,hoyej901 umpchange,2,ump1b,timmt901 umpchange,2,ump2b,(None) $HP umpire Derryl Cousins left after one inning because of knee problems","2006LAN.EVN.regular.comment.csv",18
+"LAN200607240",72,"$In and out of glove at wall, could have been E9","2006LAN.EVN.regular.comment.csv",19
+"LAN200607240",92,"ej,bochb002,M,timmt901,Call at 1B Padres Manager Bruce Bochy ejected by 1B umpire Tim Timmons","2006LAN.EVN.regular.comment.csv",20
+"LAN200607240",93,"bloop double over the glove of 2B Ramon Martinez","2006LAN.EVN.regular.comment.csv",21
+"LAN200607300",13,"Hendrickson caught spikes of front foot as he strode to plate, fell without throwing the ball","2006LAN.EVN.regular.comment.csv",22
+"LAN200607300",32,"Nationals catcher Brian Schneider left the game due to an injured back","2006LAN.EVN.regular.comment.csv",23
+"LAN200608070",43,"ej,foggj001,P,holbs901,Balls and strikes Rockies pitcher Josh Fogg ejected by HP umpire Sam Holbrook after he was removed by manager Clint Hurdle","2006LAN.EVN.regular.comment.csv",24
+"LAN200608070",49,"$Lugo stopped ball behind 2B, had no play at 1B, then caught Smith who had rounded 3B too far","2006LAN.EVN.regular.comment.csv",25
+"LAN200608090",27,"Lugo broke for home, but the Rockies called out to Francis, who stepped off the rubber and made a perfect throw to the right hand batter's box as Lugo slid in","2006LAN.EVN.regular.comment.csv",26
+"LAN200608090",66,"great play by Furcal in hole; no possible play at 1B","2006LAN.EVN.regular.comment.csv",27
+"LAN200608090",69,"Dodger catcher Martin faked throw to second, then had Holliday trapped off 3B; Rundown ensued and Holliday scored when catcher dropped ball as Holliday went by; error on catcher accounts for Hawpe taking 3B Probable correct scoring is SBH;SB2.1X3(25E2)","2006LAN.EVN.regular.comment.csv",28
+"LAN200608100",71,"ej,kingr001,P,wendh902,Balls and strikes $Pitcher King ejected by HP umpire Wendelstedt for arguing balls and strikes after being removed","2006LAN.EVN.regular.comment.csv",29
+"LAN200608160",43,"Marlins right fielder Cody Ross left the game due to an injured knee","2006LAN.EVN.regular.comment.csv",30
+"LAN200609020",38,"$Aaron Cook called for interference","2006LAN.EVN.regular.comment.csv",31
+"LAN200609030",79,"dribbler in front of plate, originally scored as E2, then single, then back to E2 after game","2006LAN.EVN.regular.comment.csv",32
+"LAN200609150",47,"Dodgers first baseman Nomar Garciaparra left the game due to an injured leg","2006LAN.EVN.regular.comment.csv",33
+"LAN200609150",51,"Broocail pulled hamstring and left","2006LAN.EVN.regular.comment.csv",34
+"LAN200609180",92,"$the fourth time in history a club has hit four consecutive homers","2006LAN.EVN.regular.comment.csv",35
+"LAN200609210",66,"ej,doumr001,P,gibsg901,Called third strike $Doumit ejected by HP umpire Gibson for arguing called third strike","2006LAN.EVN.regular.comment.csv",36

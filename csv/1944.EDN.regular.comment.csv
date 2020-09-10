@@ -1,132 +1,66 @@
-"SLN194405141",50,"$1b umpire Conlan originally ruled the play a home run, but after the ball had been returned to the infield he noticed it was cut and concluded it had hit the wire in front of the bleachers and returned the runners to 2nd and 3rd; Cardinal manager Southworth complained, but the ruling stood"FILENAME_TX","LINE_NUMBER_CT"
-
-"SLN194405141",65,"$Musial lost the fly in the sun and it bounced off his head"1944.EDN.regular.comment.csv",2
-
-"SLN194405141",70,"$Litwhiler reached second on fielder's choice, but the shortstop dropped ball and Litwhiler was out trying for 3rd; error charged to account for batter reaching second"1944.EDN.regular.comment.csv",3
-
-"SLN194405150",53,"pbp account ends here, rest deduced"1944.EDN.regular.comment.csv",4
-
-"PIT194405200",65,"$Hard smash off pitcher's shins, deflected to first, but pitcher covered base in time on a very close play"1944.EDN.regular.comment.csv",5
-
-"PIT194405211",29,"$Throw to 2nd was late, but still time to get batter"1944.EDN.regular.comment.csv",6
-
-"PIT194405211",47,"$Wasdell was not running hard to plate and did not cross before Triplett was tagged out, so no run"1944.EDN.regular.comment.csv",7
-
-"PIT194405212",0,"Suspend=19440705,,9,4,48"1944.EDN.regular.comment.csv",8
-
-"PIT194405212",26,"$Triplett injured in collision with Camelli and left game"1944.EDN.regular.comment.csv",9
-
-"PIT194405212",81,"suspended,19440705,PIT06,curfew $Game suspended at this point for Sunday law, completed on July 5"1944.EDN.regular.comment.csv",10
-
-"PIT194405212",81,"umpchange,9,umphome,stewb901 umpchange,9,ump1b,dunnt901 umpchange,9,ump3b,mageg901"1944.EDN.regular.comment.csv",11
-
-"PIT194405130",14,"$30 minute rain delay at this point pbp account ends here, rest deduced"1944.EDN.regular.comment.csv",12
-
-"CHN194404210",37,"pbp account ends here, rest deduced"1944.EDN.regular.comment.csv",13
-
-"CHN194404210",62,"$Erickson relieved with 2-0 count, walk charged to Burrows"1944.EDN.regular.comment.csv",14
-
-"PIT194404260",21,"Innings 4 through 6 from Chicago Sun"1944.EDN.regular.comment.csv",15
-
-"PIT194404260",55,"bottom of 7th from Chicago Herald-American"1944.EDN.regular.comment.csv",16
-
-"CHN194405130",29,"$Merullo overran first and was out as York scored - no RBI"1944.EDN.regular.comment.csv",17
-
-"CHN194405072",61,"ej,frisf101,M,conlj102,Arguing interference call $Zak fell as he rounded third, but Cubs threw behind Russell and got him as he rounded the base too far; Pirate Manager Frisch was ejected by umpire Conlan for arguing about Conlan's ruling that Frisch had interferred with a runner"1944.EDN.regular.comment.csv",18
-
-"PIT194406090",60,"$Hit foul pole"1944.EDN.regular.comment.csv",19
-
-"PIT194406090",87,"$Game called after rain delay of 45 minutes; replayed next day as part of doubleheader"1944.EDN.regular.comment.csv",20
-
-"PIT194406111",68,"ej,barrj106,P,mageg901,Balls and strikes ej,frisf101,M,mageg901,Balls and strikes $Barrett ejected for arguing strike 3; manager Frisch ejected as well"1944.EDN.regular.comment.csv",21
-
-"CHN194405211",6,"$Rain delay of 20 minutes (or 10 or 8)"1944.EDN.regular.comment.csv",22
-
-"CHN194405212",30,"ej,javea101,P,conlj102,Balls and strikes $Javery ejected by HP umpire Conlan with 2-0 count, walk charged to him"1944.EDN.regular.comment.csv",23
-
-"CHN194405212",80,"$Game called for rain"1944.EDN.regular.comment.csv",24
-
-"PHI194405260",33,"pbp account ends here,rest deduced"1944.EDN.regular.comment.csv",25
-
-"SLN194406140",32,"$Dallesandro pulled a leg muscle running out his single"1944.EDN.regular.comment.csv",26
-
-"SLN194406140",42,"pbp account ends here, rest deduced"1944.EDN.regular.comment.csv",27
-
-"PHI194406150",66,"ej,masip101,P,balll901,Called third strike $Masi ejected by HP umpire Ballanfant for arguing called third strike"1944.EDN.regular.comment.csv",28
-
-"SLN194406182",28,"umpchange,4,ump3b,(None) $3b Umpire Dunn left game due to heat"1944.EDN.regular.comment.csv",29
-
-"BSN194406221",45,"$40 minute rain delay at end of 6th inning"1944.EDN.regular.comment.csv",30
-
-"BSN194406222",42,"$Game called for darkness"1944.EDN.regular.comment.csv",31
-
-"PIT194406230",123,"$Game called for 1 AM curfew; replayed later"1944.EDN.regular.comment.csv",32
-
-"CHN194407022",64,"$Northey hit foul ball off foot and left game"1944.EDN.regular.comment.csv",33
-
-"CHN194407150",59,"ej,grimc101,M,barrg901,Balls and strikes $Chicago manager Grimm ejected by HP umpire Barr for arguing balls and strikes"1944.EDN.regular.comment.csv",34
-
-"PIT194408062",31,"ej,cameh101,P,goetl901,balls and strikes $Camelli ejected by plate umpire Goetz for arguing balls and strikes"1944.EDN.regular.comment.csv",35
-
-"PIT194408120",37,"pbp account ends here, rest deduced"1944.EDN.regular.comment.csv",36
-
-"PIT194408120",63,"$Weintraub injured left hand fielding Russell's grounder"1944.EDN.regular.comment.csv",37
-
-"PHI194407290",31,"ej,wasdj101,P,barrg901,Balls and strikes Jimmy Wasdell ejected by HP umpire George Barr"1944.EDN.regular.comment.csv",38
-
-"PHI194407290",48,"ej,fitzf101,M,barrg901,Balls and strikes ej,sheam102,C,barrg901,Balls and strikes $Phillies Manager Freddie Fitzsimmons and Coach Merv Shea ejected by HP umpire George Barr"1944.EDN.regular.comment.csv",39
-
-"CHN194408131",26,"$Hughes suffered a badly bruised left foot in collision with Northey on force out"1944.EDN.regular.comment.csv",40
-
-"CHN194408132",72,"$Erickson cut off Pafko's throw home and threw wildly to second, allowing Northey to score"1944.EDN.regular.comment.csv",41
-
-"PIT194408131",66,"$This really is a 2-RBI force play"1944.EDN.regular.comment.csv",42
-
-"CHN194408140",4,"$Williams dislocated index finger on foul tip by Triplett"1944.EDN.regular.comment.csv",43
-
-"PIT194408150",39,"$When ball 3 was called with Rescigno at bat, he thought it was ball 4 and went to 1st and Lopez went to second; umpire Conlan ordered Rescigno back to the plate, but left Lopez at second with a stolen base; Rescigno then walked"1944.EDN.regular.comment.csv",44
-
-"PIT194408150",72,"$Yes, Lopez did score from second on the force out as the Braves tried to complete the double play"1944.EDN.regular.comment.csv",45
-
-"PIT194408150",75,"$Colman hit his against the concrete wall making the catch  of Etchison's wall; he left game"1944.EDN.regular.comment.csv",46
-
-"CHN194408190",22,"$Dallesandro broke right wrist crashing into wall while chasing Nieman's double"1944.EDN.regular.comment.csv",47
-
-"CHN194408190",54,"$Pafko was spiked under right knee and left game"1944.EDN.regular.comment.csv",48
-
-"CHN194408170",38,"$left fielder Macon hurt his hand running into wall chasing foul ball by Merullo; he left game at end of inning"1944.EDN.regular.comment.csv",49
-
-"CHN194408170",89,"$Tobin hurt lef fielding Dallesandro's hit"1944.EDN.regular.comment.csv",50
-
-"PIT194408180",38,"$Yes, Mullen scored from second as the Pirates failes to complete the double play"1944.EDN.regular.comment.csv",51
-
-"CHN194408210",23,"pbp account ends here, rest deduced"1944.EDN.regular.comment.csv",52
-
-"CHN194408220",10,"pbp account ends here, rest deduced"1944.EDN.regular.comment.csv",53
-
-"BSN194408262",59,"$Kluttz left with a sore arm"1944.EDN.regular.comment.csv",54
-
-"BSN194407161",13,"$Huston rounded 2nd too far and Walker threw behind him"1944.EDN.regular.comment.csv",55
-
-"PIT194409042",49,"$Game called for rain"1944.EDN.regular.comment.csv",56
-
-"SLN194409122",32,"$Rubeling beat throw to second, but Gustine still retired"1944.EDN.regular.comment.csv",57
-
-"SLN194409102",19,"$Collision between Musial and Garms, both suffereing facial cuts and leg injuries, leaving game"1944.EDN.regular.comment.csv",58
-
-"NY1194409241",15,"$Lombardi split finger on foul by Ostermueller"1944.EDN.regular.comment.csv",59
-
-"BSN194410011",12,"$Wild throw on return to pitcher"1944.EDN.regular.comment.csv",60
-
-"BSN194410011",35,"$Speculation, but apparently Brewster rounded 3rd too far"1944.EDN.regular.comment.csv",61
-
-"NY1194409290",37,"pbp account ends here, rest deduced"1944.EDN.regular.comment.csv",62
-
-"CHN194407050",28,"pbp account ends here, rest deduced"1944.EDN.regular.comment.csv",63
-
-"NY1194410012",60,"$Game called by agreement, not rain or darkness"1944.EDN.regular.comment.csv",64
-
-"CHN194408302",47,"ej,frisf101,M,boggd901,Balls and strikes (Threw towel) $Pirate manager Frisch ejected by HP umpire Boggess for arguing balls and strikes to Nicholson; threw towel"1944.EDN.regular.comment.csv",65
-
-"CHN194408302",48,"$Rain delay for 21 minutes"1944.EDN.regular.comment.csv",66
-
+"SLN194405141",50,"$1b umpire Conlan originally ruled the play a home run, but after the ball had been returned to the infield he noticed it was cut and concluded it had hit the wire in front of the bleachers and returned the runners to 2nd and 3rd; Cardinal manager Southworth complained, but the ruling stood","FILENAME_TX","LINE_NUMBER_CT"
+"SLN194405141",65,"$Musial lost the fly in the sun and it bounced off his head","1944.EDN.regular.comment.csv",2
+"SLN194405141",70,"$Litwhiler reached second on fielder's choice, but the shortstop dropped ball and Litwhiler was out trying for 3rd; error charged to account for batter reaching second","1944.EDN.regular.comment.csv",3
+"SLN194405150",53,"pbp account ends here, rest deduced","1944.EDN.regular.comment.csv",4
+"PIT194405200",65,"$Hard smash off pitcher's shins, deflected to first, but pitcher covered base in time on a very close play","1944.EDN.regular.comment.csv",5
+"PIT194405211",29,"$Throw to 2nd was late, but still time to get batter","1944.EDN.regular.comment.csv",6
+"PIT194405211",47,"$Wasdell was not running hard to plate and did not cross before Triplett was tagged out, so no run","1944.EDN.regular.comment.csv",7
+"PIT194405212",0,"Suspend=19440705,,9,4,48","1944.EDN.regular.comment.csv",8
+"PIT194405212",26,"$Triplett injured in collision with Camelli and left game","1944.EDN.regular.comment.csv",9
+"PIT194405212",81,"suspended,19440705,PIT06,curfew $Game suspended at this point for Sunday law, completed on July 5","1944.EDN.regular.comment.csv",10
+"PIT194405212",81,"umpchange,9,umphome,stewb901 umpchange,9,ump1b,dunnt901 umpchange,9,ump3b,mageg901","1944.EDN.regular.comment.csv",11
+"PIT194405130",14,"$30 minute rain delay at this point pbp account ends here, rest deduced","1944.EDN.regular.comment.csv",12
+"CHN194404210",37,"pbp account ends here, rest deduced","1944.EDN.regular.comment.csv",13
+"CHN194404210",62,"$Erickson relieved with 2-0 count, walk charged to Burrows","1944.EDN.regular.comment.csv",14
+"PIT194404260",21,"Innings 4 through 6 from Chicago Sun","1944.EDN.regular.comment.csv",15
+"PIT194404260",55,"bottom of 7th from Chicago Herald-American","1944.EDN.regular.comment.csv",16
+"CHN194405130",29,"$Merullo overran first and was out as York scored - no RBI","1944.EDN.regular.comment.csv",17
+"CHN194405072",61,"ej,frisf101,M,conlj102,Arguing interference call $Zak fell as he rounded third, but Cubs threw behind Russell and got him as he rounded the base too far; Pirate Manager Frisch was ejected by umpire Conlan for arguing about Conlan's ruling that Frisch had interferred with a runner","1944.EDN.regular.comment.csv",18
+"PIT194406090",60,"$Hit foul pole","1944.EDN.regular.comment.csv",19
+"PIT194406090",87,"$Game called after rain delay of 45 minutes; replayed next day as part of doubleheader","1944.EDN.regular.comment.csv",20
+"PIT194406111",68,"ej,barrj106,P,mageg901,Balls and strikes ej,frisf101,M,mageg901,Balls and strikes $Barrett ejected for arguing strike 3; manager Frisch ejected as well","1944.EDN.regular.comment.csv",21
+"CHN194405211",6,"$Rain delay of 20 minutes (or 10 or 8)","1944.EDN.regular.comment.csv",22
+"CHN194405212",30,"ej,javea101,P,conlj102,Balls and strikes $Javery ejected by HP umpire Conlan with 2-0 count, walk charged to him","1944.EDN.regular.comment.csv",23
+"CHN194405212",80,"$Game called for rain","1944.EDN.regular.comment.csv",24
+"PHI194405260",33,"pbp account ends here,rest deduced","1944.EDN.regular.comment.csv",25
+"SLN194406140",32,"$Dallesandro pulled a leg muscle running out his single","1944.EDN.regular.comment.csv",26
+"SLN194406140",42,"pbp account ends here, rest deduced","1944.EDN.regular.comment.csv",27
+"PHI194406150",66,"ej,masip101,P,balll901,Called third strike $Masi ejected by HP umpire Ballanfant for arguing called third strike","1944.EDN.regular.comment.csv",28
+"SLN194406182",28,"umpchange,4,ump3b,(None) $3b Umpire Dunn left game due to heat","1944.EDN.regular.comment.csv",29
+"BSN194406221",45,"$40 minute rain delay at end of 6th inning","1944.EDN.regular.comment.csv",30
+"BSN194406222",42,"$Game called for darkness","1944.EDN.regular.comment.csv",31
+"PIT194406230",123,"$Game called for 1 AM curfew; replayed later","1944.EDN.regular.comment.csv",32
+"CHN194407022",64,"$Northey hit foul ball off foot and left game","1944.EDN.regular.comment.csv",33
+"CHN194407150",59,"ej,grimc101,M,barrg901,Balls and strikes $Chicago manager Grimm ejected by HP umpire Barr for arguing balls and strikes","1944.EDN.regular.comment.csv",34
+"PIT194408062",31,"ej,cameh101,P,goetl901,balls and strikes $Camelli ejected by plate umpire Goetz for arguing balls and strikes","1944.EDN.regular.comment.csv",35
+"PIT194408120",37,"pbp account ends here, rest deduced","1944.EDN.regular.comment.csv",36
+"PIT194408120",63,"$Weintraub injured left hand fielding Russell's grounder","1944.EDN.regular.comment.csv",37
+"PHI194407290",31,"ej,wasdj101,P,barrg901,Balls and strikes Jimmy Wasdell ejected by HP umpire George Barr","1944.EDN.regular.comment.csv",38
+"PHI194407290",48,"ej,fitzf101,M,barrg901,Balls and strikes ej,sheam102,C,barrg901,Balls and strikes $Phillies Manager Freddie Fitzsimmons and Coach Merv Shea ejected by HP umpire George Barr","1944.EDN.regular.comment.csv",39
+"CHN194408131",26,"$Hughes suffered a badly bruised left foot in collision with Northey on force out","1944.EDN.regular.comment.csv",40
+"CHN194408132",72,"$Erickson cut off Pafko's throw home and threw wildly to second, allowing Northey to score","1944.EDN.regular.comment.csv",41
+"PIT194408131",66,"$This really is a 2-RBI force play","1944.EDN.regular.comment.csv",42
+"CHN194408140",4,"$Williams dislocated index finger on foul tip by Triplett","1944.EDN.regular.comment.csv",43
+"PIT194408150",39,"$When ball 3 was called with Rescigno at bat, he thought it was ball 4 and went to 1st and Lopez went to second; umpire Conlan ordered Rescigno back to the plate, but left Lopez at second with a stolen base; Rescigno then walked","1944.EDN.regular.comment.csv",44
+"PIT194408150",72,"$Yes, Lopez did score from second on the force out as the Braves tried to complete the double play","1944.EDN.regular.comment.csv",45
+"PIT194408150",75,"$Colman hit his against the concrete wall making the catch  of Etchison's wall; he left game","1944.EDN.regular.comment.csv",46
+"CHN194408190",22,"$Dallesandro broke right wrist crashing into wall while chasing Nieman's double","1944.EDN.regular.comment.csv",47
+"CHN194408190",54,"$Pafko was spiked under right knee and left game","1944.EDN.regular.comment.csv",48
+"CHN194408170",38,"$left fielder Macon hurt his hand running into wall chasing foul ball by Merullo; he left game at end of inning","1944.EDN.regular.comment.csv",49
+"CHN194408170",89,"$Tobin hurt lef fielding Dallesandro's hit","1944.EDN.regular.comment.csv",50
+"PIT194408180",38,"$Yes, Mullen scored from second as the Pirates failes to complete the double play","1944.EDN.regular.comment.csv",51
+"CHN194408210",23,"pbp account ends here, rest deduced","1944.EDN.regular.comment.csv",52
+"CHN194408220",10,"pbp account ends here, rest deduced","1944.EDN.regular.comment.csv",53
+"BSN194408262",59,"$Kluttz left with a sore arm","1944.EDN.regular.comment.csv",54
+"BSN194407161",13,"$Huston rounded 2nd too far and Walker threw behind him","1944.EDN.regular.comment.csv",55
+"PIT194409042",49,"$Game called for rain","1944.EDN.regular.comment.csv",56
+"SLN194409122",32,"$Rubeling beat throw to second, but Gustine still retired","1944.EDN.regular.comment.csv",57
+"SLN194409102",19,"$Collision between Musial and Garms, both suffereing facial cuts and leg injuries, leaving game","1944.EDN.regular.comment.csv",58
+"NY1194409241",15,"$Lombardi split finger on foul by Ostermueller","1944.EDN.regular.comment.csv",59
+"BSN194410011",12,"$Wild throw on return to pitcher","1944.EDN.regular.comment.csv",60
+"BSN194410011",35,"$Speculation, but apparently Brewster rounded 3rd too far","1944.EDN.regular.comment.csv",61
+"NY1194409290",37,"pbp account ends here, rest deduced","1944.EDN.regular.comment.csv",62
+"CHN194407050",28,"pbp account ends here, rest deduced","1944.EDN.regular.comment.csv",63
+"NY1194410012",60,"$Game called by agreement, not rain or darkness","1944.EDN.regular.comment.csv",64
+"CHN194408302",47,"ej,frisf101,M,boggd901,Balls and strikes (Threw towel) $Pirate manager Frisch ejected by HP umpire Boggess for arguing balls and strikes to Nicholson; threw towel","1944.EDN.regular.comment.csv",65
+"CHN194408302",48,"$Rain delay for 21 minutes","1944.EDN.regular.comment.csv",66

@@ -1,70 +1,35 @@
-"SLN200904060",60,"Debut game for David Freese"FILENAME_TX","LINE_NUMBER_CT"
-
-"SLN200904070",7,"Debut game for Colby Rasmus"2009SLN.EVN.regular.comment.csv",2
-
-"SLN200904070",45,"Debut game for Donald Veal"2009SLN.EVN.regular.comment.csv",3
-
-"SLN200904210",71,"$Ryan Ludwick's throw from RF got away from 3B Joe Thurston and rolled towards the mound; Carlos Beltran tried to score but did not slide and was tagged out as he stepped on catcher Yadier Molina's foot"2009SLN.EVN.regular.comment.csv",4
-
-"SLN200904210",72,"$misplayed by LF Dan Murphy into a triple"2009SLN.EVN.regular.comment.csv",5
-
-"SLN200904240",33,"Cubs third baseman Aramis Ramirez left the game due to an injured leg"2009SLN.EVN.regular.comment.csv",6
-
-"SLN200904260",7,"Cubs first baseman Derrek Lee left the game due to an injured neck/shoulder"2009SLN.EVN.regular.comment.csv",7
-
-"SLN200905040",65,"$Cardinals center fielder Rick Ankiel tumbled face-first into the wall after catching the fly ball by Pedro Feliz; he was taken to the hospital; x-rays and scans showed no broken bones"2009SLN.EVN.regular.comment.csv",8
-
-"SLN200905070",67,"Debut game for Shane Robinson"2009SLN.EVN.regular.comment.csv",9
-
-"SLN200905170",9,"Brewers second baseman Rickie Weeks left the game due to an injured hand/wrist"2009SLN.EVN.regular.comment.csv",10
-
-"SLN200905170",69,"fan interference"2009SLN.EVN.regular.comment.csv",11
-
-"SLN200905240",32,"fan interference"2009SLN.EVN.regular.comment.csv",12
-
-"SLN200906010",13,"Reds pitcher Edinson Volquez left the game due to numbness in the fingers of his pitching hand"2009SLN.EVN.regular.comment.csv",13
-
-"SLN200906010",51,"$Rick Ankiel had rounded second and failed to touch the bag on the way back to first; he was called out on appeal"2009SLN.EVN.regular.comment.csv",14
-
-"SLN200906030",19,"Cardinals pitcher Kyle Lohse left the game due to an injured arm"2009SLN.EVN.regular.comment.csv",15
-
-"SLN200906050",57,"Debut game for Jess Todd"2009SLN.EVN.regular.comment.csv",16
-
-"SLN200906060",56,"Debut game for Blake Hawksworth"2009SLN.EVN.regular.comment.csv",17
-
-"SLN200906290",45,"Debut game for Clayton Mortensen"2009SLN.EVN.regular.comment.csv",18
-
-"SLN200907190",2,"$Jason Upton fouled the second pitch off the mask of HP umpire John Hirschbeck"2009SLN.EVN.regular.comment.csv",19
-
-"SLN200907190",3,"umpchange,1,ump2b,(None) $2B umpire Marty Foster left the field to change into his plate gear"2009SLN.EVN.regular.comment.csv",20
-
-"SLN200907190",8,"umpchange,2,umphome,fostm901 $Marty Foster took over behind the plate and John Hirschbeck left the game"2009SLN.EVN.regular.comment.csv",21
-
-"SLN200907290",93,"fan interference"2009SLN.EVN.regular.comment.csv",22
-
-"SLN200907290",97,"$Thurston hit an apparent double, but was out on appeal for missing 1B"2009SLN.EVN.regular.comment.csv",23
-
-"SLN200907300",17,"Cardinals shortstop Brendan Ryan left the game due to an injured foot/ankle"2009SLN.EVN.regular.comment.csv",24
-
-"SLN200907300",26,"$Casey Blake called out for interfering with catcher Yadier Molina"2009SLN.EVN.regular.comment.csv",25
-
-"SLN200907310",1,"fan interference"2009SLN.EVN.regular.comment.csv",26
-
-"SLN200908010",36,"ej,bourm001,P,emmep901,Call at 2B (threw helmet) $Bourn ejected by 2B umpire Emmel for arguing he was safe on steal attempt; he threw helmet in argument"2009SLN.EVN.regular.comment.csv",27
-
-"SLN200908010",36,"$Rodriguez left the game due to an injured leg"2009SLN.EVN.regular.comment.csv",28
-
-"SLN200908100",21,"Reds pitcher Johnny Cueto left the game due to an injured leg"2009SLN.EVN.regular.comment.csv",29
-
-"SLN200908120",7,"Reds pitcher Homer Bailey left the game due to an injured foot/ankle"2009SLN.EVN.regular.comment.csv",30
-
-"SLN200908160",49,"Padres pitcher Edward Mujica left the game due to an injured knee"2009SLN.EVN.regular.comment.csv",31
-
-"SLN200909010",53,"fan interference"2009SLN.EVN.regular.comment.csv",32
-
-"SLN200909120",60,"ej,larut101,M,gibsg901,Balls and strikes $Cardinals manager LaRussa ejected by HP umpire Gibson between innings for arguing balls and strikes"2009SLN.EVN.regular.comment.csv",33
-
-"SLN200909160",79,"fan interference"2009SLN.EVN.regular.comment.csv",34
-
-"SLN200909200",81,"$the relay throw to first by Ryan Theriot was off the bag towards the plate side and Derrek Lee failed to tag Ryan Ludwick as Skip Schumaker scored from third; however, 2B umpire Marty Foster called Ludwick out because Matt Holliday slid into Theriot at 2B way to the right of the bag and was not close enough to touch the bag; this interference call on Holliday resulted in no game-winning run and extra innings"2009SLN.EVN.regular.comment.csv",35
-
+"SLN200904060",60,"Debut game for David Freese","FILENAME_TX","LINE_NUMBER_CT"
+"SLN200904070",7,"Debut game for Colby Rasmus","2009SLN.EVN.regular.comment.csv",2
+"SLN200904070",45,"Debut game for Donald Veal","2009SLN.EVN.regular.comment.csv",3
+"SLN200904210",71,"$Ryan Ludwick's throw from RF got away from 3B Joe Thurston and rolled towards the mound; Carlos Beltran tried to score but did not slide and was tagged out as he stepped on catcher Yadier Molina's foot","2009SLN.EVN.regular.comment.csv",4
+"SLN200904210",72,"$misplayed by LF Dan Murphy into a triple","2009SLN.EVN.regular.comment.csv",5
+"SLN200904240",33,"Cubs third baseman Aramis Ramirez left the game due to an injured leg","2009SLN.EVN.regular.comment.csv",6
+"SLN200904260",7,"Cubs first baseman Derrek Lee left the game due to an injured neck/shoulder","2009SLN.EVN.regular.comment.csv",7
+"SLN200905040",65,"$Cardinals center fielder Rick Ankiel tumbled face-first into the wall after catching the fly ball by Pedro Feliz; he was taken to the hospital; x-rays and scans showed no broken bones","2009SLN.EVN.regular.comment.csv",8
+"SLN200905070",67,"Debut game for Shane Robinson","2009SLN.EVN.regular.comment.csv",9
+"SLN200905170",9,"Brewers second baseman Rickie Weeks left the game due to an injured hand/wrist","2009SLN.EVN.regular.comment.csv",10
+"SLN200905170",69,"fan interference","2009SLN.EVN.regular.comment.csv",11
+"SLN200905240",32,"fan interference","2009SLN.EVN.regular.comment.csv",12
+"SLN200906010",13,"Reds pitcher Edinson Volquez left the game due to numbness in the fingers of his pitching hand","2009SLN.EVN.regular.comment.csv",13
+"SLN200906010",51,"$Rick Ankiel had rounded second and failed to touch the bag on the way back to first; he was called out on appeal","2009SLN.EVN.regular.comment.csv",14
+"SLN200906030",19,"Cardinals pitcher Kyle Lohse left the game due to an injured arm","2009SLN.EVN.regular.comment.csv",15
+"SLN200906050",57,"Debut game for Jess Todd","2009SLN.EVN.regular.comment.csv",16
+"SLN200906060",56,"Debut game for Blake Hawksworth","2009SLN.EVN.regular.comment.csv",17
+"SLN200906290",45,"Debut game for Clayton Mortensen","2009SLN.EVN.regular.comment.csv",18
+"SLN200907190",2,"$Jason Upton fouled the second pitch off the mask of HP umpire John Hirschbeck","2009SLN.EVN.regular.comment.csv",19
+"SLN200907190",3,"umpchange,1,ump2b,(None) $2B umpire Marty Foster left the field to change into his plate gear","2009SLN.EVN.regular.comment.csv",20
+"SLN200907190",8,"umpchange,2,umphome,fostm901 $Marty Foster took over behind the plate and John Hirschbeck left the game","2009SLN.EVN.regular.comment.csv",21
+"SLN200907290",93,"fan interference","2009SLN.EVN.regular.comment.csv",22
+"SLN200907290",97,"$Thurston hit an apparent double, but was out on appeal for missing 1B","2009SLN.EVN.regular.comment.csv",23
+"SLN200907300",17,"Cardinals shortstop Brendan Ryan left the game due to an injured foot/ankle","2009SLN.EVN.regular.comment.csv",24
+"SLN200907300",26,"$Casey Blake called out for interfering with catcher Yadier Molina","2009SLN.EVN.regular.comment.csv",25
+"SLN200907310",1,"fan interference","2009SLN.EVN.regular.comment.csv",26
+"SLN200908010",36,"ej,bourm001,P,emmep901,Call at 2B (threw helmet) $Bourn ejected by 2B umpire Emmel for arguing he was safe on steal attempt; he threw helmet in argument","2009SLN.EVN.regular.comment.csv",27
+"SLN200908010",36,"$Rodriguez left the game due to an injured leg","2009SLN.EVN.regular.comment.csv",28
+"SLN200908100",21,"Reds pitcher Johnny Cueto left the game due to an injured leg","2009SLN.EVN.regular.comment.csv",29
+"SLN200908120",7,"Reds pitcher Homer Bailey left the game due to an injured foot/ankle","2009SLN.EVN.regular.comment.csv",30
+"SLN200908160",49,"Padres pitcher Edward Mujica left the game due to an injured knee","2009SLN.EVN.regular.comment.csv",31
+"SLN200909010",53,"fan interference","2009SLN.EVN.regular.comment.csv",32
+"SLN200909120",60,"ej,larut101,M,gibsg901,Balls and strikes $Cardinals manager LaRussa ejected by HP umpire Gibson between innings for arguing balls and strikes","2009SLN.EVN.regular.comment.csv",33
+"SLN200909160",79,"fan interference","2009SLN.EVN.regular.comment.csv",34
+"SLN200909200",81,"$the relay throw to first by Ryan Theriot was off the bag towards the plate side and Derrek Lee failed to tag Ryan Ludwick as Skip Schumaker scored from third; however, 2B umpire Marty Foster called Ludwick out because Matt Holliday slid into Theriot at 2B way to the right of the bag and was not close enough to touch the bag; this interference call on Holliday resulted in no game-winning run and extra innings","2009SLN.EVN.regular.comment.csv",35

@@ -1,70 +1,35 @@
-"SDN200904060",68,"Debut game for Luke Gregerson"FILENAME_TX","LINE_NUMBER_CT"
-
-"SDN200904070",54,"Debut game for Edwin Moreno"2009SDN.EVN.regular.comment.csv",2
-
-"SDN200904070",65,"Debut game for Ronald Belisario"2009SDN.EVN.regular.comment.csv",3
-
-"SDN200904080",1,"Debut game for Walter Silva"2009SDN.EVN.regular.comment.csv",4
-
-"SDN200904080",18,"Debut game for Everth Cabrera"2009SDN.EVN.regular.comment.csv",5
-
-"SDN200904250",19,"Padres pitcher Shawn Hill left the game due to an injured arm"2009SDN.EVN.regular.comment.csv",6
-
-"SDN200905160",49,"Reds pitcher Edinson Volquez left the game due to an injured back"2009SDN.EVN.regular.comment.csv",7
-
-"SDN200905160",51,"Debut game for Greg Burke"2009SDN.EVN.regular.comment.csv",8
-
-"SDN200905200",62,"ej,bochb002,M,cedeg901,Call at 1B San Francisco Giants Manager Bruce Bochy ejected by 1B umpire Gary Cederstrom"2009SDN.EVN.regular.comment.csv",9
-
-"SDN200905210",50,"Debut game for Jesus Guzman"2009SDN.EVN.regular.comment.csv",10
-
-"SDN200905220",8,"$Eckstein squared to bunt, pitch was up and in, hitting him in chest just below right collarbone; he stayed down for several minutes, then walked to first, but did not retake the field in the 2nd"2009SDN.EVN.regular.comment.csv",11
-
-"SDN200905220",13,"$Both benches warned"2009SDN.EVN.regular.comment.csv",12
-
-"SDN200906020",1,"Debut game for Antonio Bastardo"2009SDN.EVN.regular.comment.csv",13
-
-"SDN200906020",13,"$Peavy left game with the flu"2009SDN.EVN.regular.comment.csv",14
-
-"SDN200906030",46,"Phillies center fielder Shane Victorino left the game due to an injured leg"2009SDN.EVN.regular.comment.csv",15
-
-"SDN200906070",84,"Diamondbacks right fielder Justin Upton left the game due to an injured neck/shoulder"2009SDN.EVN.regular.comment.csv",16
-
-"SDN200906170",50,"Debut game for Mike Carp"2009SDN.EVN.regular.comment.csv",17
-
-"SDN200906190",14,"Athletics pitcher Josh Outman left the game due to an injured arm"2009SDN.EVN.regular.comment.csv",18
-
-"SDN200906190",86,"Debut game for Kyle Blanks"2009SDN.EVN.regular.comment.csv",19
-
-"SDN200906300",31,"Padres first baseman Adrian Gonzalez left the game due to a strained right knee after 3 pitches to Headley"2009SDN.EVN.regular.comment.csv",20
-
-"SDN200907020",72,"$after ball 1 to Tejada, play delayed for 52 minutes due to bee swarm in ball girl's jacket on left field side; bee keeper called to park"2009SDN.EVN.regular.comment.csv",21
-
-"SDN200907020",79,"$Short line drive trapped by right fielder, neither runner advanced"2009SDN.EVN.regular.comment.csv",22
-
-"SDN200907040",14,"San Diego Padres catcher Henry Blanco left the game due to an injured leg."2009SDN.EVN.regular.comment.csv",23
-
-"SDN200907050",110,"Debut game for Jose Lobaton"2009SDN.EVN.regular.comment.csv",24
-
-"SDN200907180",54,"$Edgar Gonzalez hit in head, down for 5 minutes, left field on cart, hospitalized overnight"2009SDN.EVN.regular.comment.csv",25
-
-"SDN200907190",1,"Debut game for Mat Latos"2009SDN.EVN.regular.comment.csv",26
-
-"SDN200908070",75,"$Mets bring in Pagan to be 5th infielder, all playing in"2009SDN.EVN.regular.comment.csv",27
-
-"SDN200908080",49,"ej,blacb001,M,barkl901,Call at HP $Cabrera beat the throw home by a wide margin; his hand hit the catcher's foot in front of the plate but he appeared to get it down on the plate as he slid past; HP umpire Lance Barksdale claimed his hand went over plate as he slid; Padres manager Bud Black ejected by Barksdale for arguing; for the next two innings fans booed every ball and strike call that was not for Padres"2009SDN.EVN.regular.comment.csv",28
-
-"SDN200908090",39,"umpchange,5,umphome,hudsm901 umpchange,5,ump2b,(None) $HP umpire Randy Marsh was struck by foul ball on the lower part of the mask off the bat of Luis Rodriguez"2009SDN.EVN.regular.comment.csv",29
-
-"SDN200908210",36,"Cardinals pitcher Kyle Lohse left the game due to an injured groin"2009SDN.EVN.regular.comment.csv",30
-
-"SDN200908310",51,"$Padres left fielder Oscar Salazar smashed his left knee into the scoreboard as he made a great over-the-shoulder catch"2009SDN.EVN.regular.comment.csv",31
-
-"SDN200909120",1,"Debut game for Esmil Rogers"2009SDN.EVN.regular.comment.csv",32
-
-"SDN200909150",61,"Debut game for Luis Durango"2009SDN.EVN.regular.comment.csv",33
-
-"SDN200909160",78,"Debut game for Cesar Ramos"2009SDN.EVN.regular.comment.csv",34
-
-"SDN200909300",33,"$on the grounder to second, Everth Cabrera was caught in a rundown between 3B and HP; Dodgers third baseman Mark Loretta dropped the throw but Cabrera ran into Loretta and they both fell down; Loretta locked his legs around one of Cabrera's ankles; obstruction was called by 3B umpire Greg Gibson and Cabrera awarded home on the play"2009SDN.EVN.regular.comment.csv",35
-
+"SDN200904060",68,"Debut game for Luke Gregerson","FILENAME_TX","LINE_NUMBER_CT"
+"SDN200904070",54,"Debut game for Edwin Moreno","2009SDN.EVN.regular.comment.csv",2
+"SDN200904070",65,"Debut game for Ronald Belisario","2009SDN.EVN.regular.comment.csv",3
+"SDN200904080",1,"Debut game for Walter Silva","2009SDN.EVN.regular.comment.csv",4
+"SDN200904080",18,"Debut game for Everth Cabrera","2009SDN.EVN.regular.comment.csv",5
+"SDN200904250",19,"Padres pitcher Shawn Hill left the game due to an injured arm","2009SDN.EVN.regular.comment.csv",6
+"SDN200905160",49,"Reds pitcher Edinson Volquez left the game due to an injured back","2009SDN.EVN.regular.comment.csv",7
+"SDN200905160",51,"Debut game for Greg Burke","2009SDN.EVN.regular.comment.csv",8
+"SDN200905200",62,"ej,bochb002,M,cedeg901,Call at 1B San Francisco Giants Manager Bruce Bochy ejected by 1B umpire Gary Cederstrom","2009SDN.EVN.regular.comment.csv",9
+"SDN200905210",50,"Debut game for Jesus Guzman","2009SDN.EVN.regular.comment.csv",10
+"SDN200905220",8,"$Eckstein squared to bunt, pitch was up and in, hitting him in chest just below right collarbone; he stayed down for several minutes, then walked to first, but did not retake the field in the 2nd","2009SDN.EVN.regular.comment.csv",11
+"SDN200905220",13,"$Both benches warned","2009SDN.EVN.regular.comment.csv",12
+"SDN200906020",1,"Debut game for Antonio Bastardo","2009SDN.EVN.regular.comment.csv",13
+"SDN200906020",13,"$Peavy left game with the flu","2009SDN.EVN.regular.comment.csv",14
+"SDN200906030",46,"Phillies center fielder Shane Victorino left the game due to an injured leg","2009SDN.EVN.regular.comment.csv",15
+"SDN200906070",84,"Diamondbacks right fielder Justin Upton left the game due to an injured neck/shoulder","2009SDN.EVN.regular.comment.csv",16
+"SDN200906170",50,"Debut game for Mike Carp","2009SDN.EVN.regular.comment.csv",17
+"SDN200906190",14,"Athletics pitcher Josh Outman left the game due to an injured arm","2009SDN.EVN.regular.comment.csv",18
+"SDN200906190",86,"Debut game for Kyle Blanks","2009SDN.EVN.regular.comment.csv",19
+"SDN200906300",31,"Padres first baseman Adrian Gonzalez left the game due to a strained right knee after 3 pitches to Headley","2009SDN.EVN.regular.comment.csv",20
+"SDN200907020",72,"$after ball 1 to Tejada, play delayed for 52 minutes due to bee swarm in ball girl's jacket on left field side; bee keeper called to park","2009SDN.EVN.regular.comment.csv",21
+"SDN200907020",79,"$Short line drive trapped by right fielder, neither runner advanced","2009SDN.EVN.regular.comment.csv",22
+"SDN200907040",14,"San Diego Padres catcher Henry Blanco left the game due to an injured leg.","2009SDN.EVN.regular.comment.csv",23
+"SDN200907050",110,"Debut game for Jose Lobaton","2009SDN.EVN.regular.comment.csv",24
+"SDN200907180",54,"$Edgar Gonzalez hit in head, down for 5 minutes, left field on cart, hospitalized overnight","2009SDN.EVN.regular.comment.csv",25
+"SDN200907190",1,"Debut game for Mat Latos","2009SDN.EVN.regular.comment.csv",26
+"SDN200908070",75,"$Mets bring in Pagan to be 5th infielder, all playing in","2009SDN.EVN.regular.comment.csv",27
+"SDN200908080",49,"ej,blacb001,M,barkl901,Call at HP $Cabrera beat the throw home by a wide margin; his hand hit the catcher's foot in front of the plate but he appeared to get it down on the plate as he slid past; HP umpire Lance Barksdale claimed his hand went over plate as he slid; Padres manager Bud Black ejected by Barksdale for arguing; for the next two innings fans booed every ball and strike call that was not for Padres","2009SDN.EVN.regular.comment.csv",28
+"SDN200908090",39,"umpchange,5,umphome,hudsm901 umpchange,5,ump2b,(None) $HP umpire Randy Marsh was struck by foul ball on the lower part of the mask off the bat of Luis Rodriguez","2009SDN.EVN.regular.comment.csv",29
+"SDN200908210",36,"Cardinals pitcher Kyle Lohse left the game due to an injured groin","2009SDN.EVN.regular.comment.csv",30
+"SDN200908310",51,"$Padres left fielder Oscar Salazar smashed his left knee into the scoreboard as he made a great over-the-shoulder catch","2009SDN.EVN.regular.comment.csv",31
+"SDN200909120",1,"Debut game for Esmil Rogers","2009SDN.EVN.regular.comment.csv",32
+"SDN200909150",61,"Debut game for Luis Durango","2009SDN.EVN.regular.comment.csv",33
+"SDN200909160",78,"Debut game for Cesar Ramos","2009SDN.EVN.regular.comment.csv",34
+"SDN200909300",33,"$on the grounder to second, Everth Cabrera was caught in a rundown between 3B and HP; Dodgers third baseman Mark Loretta dropped the throw but Cabrera ran into Loretta and they both fell down; Loretta locked his legs around one of Cabrera's ankles; obstruction was called by 3B umpire Greg Gibson and Cabrera awarded home on the play","2009SDN.EVN.regular.comment.csv",35

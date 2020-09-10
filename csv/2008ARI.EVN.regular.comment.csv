@@ -1,70 +1,35 @@
-"ARI200804090",37,"Diamondbacks first baseman Conor Jackson left the game due to an injured hand/wrist"FILENAME_TX","LINE_NUMBER_CT"
-
-"ARI200804130",11,"$Todd Helton lost the infield fly in the sun; Orlando Hudson thought he had to run when the ball fell to the ground; the throw beat Hudson to 2B and CLint Barmes stepped on the bag; since Hudson was not forced, he was safe; however, Hudson thought he was out and stepped away from 2B; Barmes then tagged Hudson"2008ARI.EVN.regular.comment.csv",2
-
-"ARI200804190",9,"$Orlando Hudson called for interference for running into his own bunt"2008ARI.EVN.regular.comment.csv",3
-
-"ARI200804200",61,"fan interference"2008ARI.EVN.regular.comment.csv",4
-
-"ARI200804220",59,"ej,bochb002,M,fleta901,Fair/foul call Giants Manager Bruce Bochy ejected by HP umpire Andy Fletcher; he argued that Arizona 3B Mark Reynolds touched a ball in fair territory that was ruled foul"2008ARI.EVN.regular.comment.csv",5
-
-"ARI200804290",27,"Debut game for Max Scherzer"2008ARI.EVN.regular.comment.csv",6
-
-"ARI200804290",72,"fan interference"2008ARI.EVN.regular.comment.csv",7
-
-"ARI200805020",6,"originally scored as single, changed to E4 next day"2008ARI.EVN.regular.comment.csv",8
-
-"ARI200805020",72,"$If he had been safe, Reyes would have been the first player to hit for cycle with IPHR since Harry Danning"2008ARI.EVN.regular.comment.csv",9
-
-"ARI200805050",26,"originally E6, changed next day to hit"2008ARI.EVN.regular.comment.csv",10
-
-"ARI200805280",52,"Diamondbacks pitcher Juan Cruz left the game due to an injured neck/shoulder"2008ARI.EVN.regular.comment.csv",11
-
-"ARI200805300",52,"$a foul tip by Micah Owings hit catcher Jesus Flores on the mask and went into the stands"2008ARI.EVN.regular.comment.csv",12
-
-"ARI200805300",61,"Nationals catcher Jesus Flores left the game due to a headache and nausea"2008ARI.EVN.regular.comment.csv",13
-
-"ARI200806140",81,"Debut game for Carlos Rosa"2008ARI.EVN.regular.comment.csv",14
-
-"ARI200806150",53,"Debut game for Leo Rosales"2008ARI.EVN.regular.comment.csv",15
-
-"ARI200806300",17,"Diamondbacks left fielder Eric Byrnes left the game due to strained hamstring, suffered while trying to steal 3rd"2008ARI.EVN.regular.comment.csv",16
-
-"ARI200806300",20,"fan interference"2008ARI.EVN.regular.comment.csv",17
-
-"ARI200806300",35,"$Snyder suffered testicular fracture when hit by foul ball with Corey Hart at bat in 4th. Onto DL next day"2008ARI.EVN.regular.comment.csv",18
-
-"ARI200807040",15,"Debut game for Nick Hundley"2008ARI.EVN.regular.comment.csv",19
-
-"ARI200807050",64,"$Diamondbacks pitcher Juan Cruz left after 3 pitches to Gonzalez with a strained left oblique. Onto DL"2008ARI.EVN.regular.comment.csv",20
-
-"ARI200807060",64,"$High throw from RF, originally E4, changed to E9 after game"2008ARI.EVN.regular.comment.csv",21
-
-"ARI200807220",59,"Debut game for Jamie D'Antona"2008ARI.EVN.regular.comment.csv",22
-
-"ARI200808090",56,"$hard grounder off the glove of third baseman Mark Reynolds; he ran down the line to retrieve the ball in foul territory while two runners scored; Reynolds threw to third trying to get Yunel Escobar but the throw was wild and fielded by pitcher Juan Cruz near the plate; Cruz threw to second and the ball went into center field, allowing Escobar to score"2008ARI.EVN.regular.comment.csv",23
-
-"ARI200808090",56,"Diamondbacks second baseman Orlando Hudson left with strained ligaments in his left wrist after colliding with Brian McCann during the previous play; he had surgery later that night when it was discovered he had a dislocated bone in his wrist; out for the rest of the season"2008ARI.EVN.regular.comment.csv",24
-
-"ARI200808090",86,"$Conor Jackson called for interference"2008ARI.EVN.regular.comment.csv",25
-
-"ARI200808240",21,"$Snyder had ball hit end of his glove and roll into Clark's for a 23 popup a la Bob Boone and Pete Rose in game 6 of 1980 World Series"2008ARI.EVN.regular.comment.csv",26
-
-"ARI200808290",48,"ej,melvb001,M,bellw901,Interference call $a fan reached out and caught the ball as Dodgers first baseman James Loney was sliding under the popup; 1B umpire Wally Bell ruled the batter out on fan interference; Diamondbacks Manager Bob Melvin argued the call and was ejected by Bell"2008ARI.EVN.regular.comment.csv",27
-
-"ARI200808290",52,"Debut game for Scott Elbert"2008ARI.EVN.regular.comment.csv",28
-
-"ARI200809010",37,"Cardinals left fielder Joe Mather left the game due to an injured hand/wrist"2008ARI.EVN.regular.comment.csv",29
-
-"ARI200809010",60,"ej,raucj001,P,iassd901,Balls and strikes Diamondbacks pitcher Jon Rauch ejected by HP umpire Dan Iassogna"2008ARI.EVN.regular.comment.csv",30
-
-"ARI200809020",78,"Debut game for Josh Whitesell"2008ARI.EVN.regular.comment.csv",31
-
-"ARI200809030",60,"ej,duncd101,C,scotd901,Balls and strikes Cardinals Pitching Coach Dave Duncan ejected by HP umpire Dale Scott"2008ARI.EVN.regular.comment.csv",32
-
-"ARI200809030",66,"Debut game for Jason Motte"2008ARI.EVN.regular.comment.csv",33
-
-"ARI200809130",62,"Debut game for Josh Roenicke"2008ARI.EVN.regular.comment.csv",34
-
-"ARI200809260",63,"ej,hurdc001,M,kulpr901,Call at 2B Rockies Manager Clint Hurdle ejected by 2B umpire Ron Kulpa"2008ARI.EVN.regular.comment.csv",35
-
+"ARI200804090",37,"Diamondbacks first baseman Conor Jackson left the game due to an injured hand/wrist","FILENAME_TX","LINE_NUMBER_CT"
+"ARI200804130",11,"$Todd Helton lost the infield fly in the sun; Orlando Hudson thought he had to run when the ball fell to the ground; the throw beat Hudson to 2B and CLint Barmes stepped on the bag; since Hudson was not forced, he was safe; however, Hudson thought he was out and stepped away from 2B; Barmes then tagged Hudson","2008ARI.EVN.regular.comment.csv",2
+"ARI200804190",9,"$Orlando Hudson called for interference for running into his own bunt","2008ARI.EVN.regular.comment.csv",3
+"ARI200804200",61,"fan interference","2008ARI.EVN.regular.comment.csv",4
+"ARI200804220",59,"ej,bochb002,M,fleta901,Fair/foul call Giants Manager Bruce Bochy ejected by HP umpire Andy Fletcher; he argued that Arizona 3B Mark Reynolds touched a ball in fair territory that was ruled foul","2008ARI.EVN.regular.comment.csv",5
+"ARI200804290",27,"Debut game for Max Scherzer","2008ARI.EVN.regular.comment.csv",6
+"ARI200804290",72,"fan interference","2008ARI.EVN.regular.comment.csv",7
+"ARI200805020",6,"originally scored as single, changed to E4 next day","2008ARI.EVN.regular.comment.csv",8
+"ARI200805020",72,"$If he had been safe, Reyes would have been the first player to hit for cycle with IPHR since Harry Danning","2008ARI.EVN.regular.comment.csv",9
+"ARI200805050",26,"originally E6, changed next day to hit","2008ARI.EVN.regular.comment.csv",10
+"ARI200805280",52,"Diamondbacks pitcher Juan Cruz left the game due to an injured neck/shoulder","2008ARI.EVN.regular.comment.csv",11
+"ARI200805300",52,"$a foul tip by Micah Owings hit catcher Jesus Flores on the mask and went into the stands","2008ARI.EVN.regular.comment.csv",12
+"ARI200805300",61,"Nationals catcher Jesus Flores left the game due to a headache and nausea","2008ARI.EVN.regular.comment.csv",13
+"ARI200806140",81,"Debut game for Carlos Rosa","2008ARI.EVN.regular.comment.csv",14
+"ARI200806150",53,"Debut game for Leo Rosales","2008ARI.EVN.regular.comment.csv",15
+"ARI200806300",17,"Diamondbacks left fielder Eric Byrnes left the game due to strained hamstring, suffered while trying to steal 3rd","2008ARI.EVN.regular.comment.csv",16
+"ARI200806300",20,"fan interference","2008ARI.EVN.regular.comment.csv",17
+"ARI200806300",35,"$Snyder suffered testicular fracture when hit by foul ball with Corey Hart at bat in 4th. Onto DL next day","2008ARI.EVN.regular.comment.csv",18
+"ARI200807040",15,"Debut game for Nick Hundley","2008ARI.EVN.regular.comment.csv",19
+"ARI200807050",64,"$Diamondbacks pitcher Juan Cruz left after 3 pitches to Gonzalez with a strained left oblique. Onto DL","2008ARI.EVN.regular.comment.csv",20
+"ARI200807060",64,"$High throw from RF, originally E4, changed to E9 after game","2008ARI.EVN.regular.comment.csv",21
+"ARI200807220",59,"Debut game for Jamie D'Antona","2008ARI.EVN.regular.comment.csv",22
+"ARI200808090",56,"$hard grounder off the glove of third baseman Mark Reynolds; he ran down the line to retrieve the ball in foul territory while two runners scored; Reynolds threw to third trying to get Yunel Escobar but the throw was wild and fielded by pitcher Juan Cruz near the plate; Cruz threw to second and the ball went into center field, allowing Escobar to score","2008ARI.EVN.regular.comment.csv",23
+"ARI200808090",56,"Diamondbacks second baseman Orlando Hudson left with strained ligaments in his left wrist after colliding with Brian McCann during the previous play; he had surgery later that night when it was discovered he had a dislocated bone in his wrist; out for the rest of the season","2008ARI.EVN.regular.comment.csv",24
+"ARI200808090",86,"$Conor Jackson called for interference","2008ARI.EVN.regular.comment.csv",25
+"ARI200808240",21,"$Snyder had ball hit end of his glove and roll into Clark's for a 23 popup a la Bob Boone and Pete Rose in game 6 of 1980 World Series","2008ARI.EVN.regular.comment.csv",26
+"ARI200808290",48,"ej,melvb001,M,bellw901,Interference call $a fan reached out and caught the ball as Dodgers first baseman James Loney was sliding under the popup; 1B umpire Wally Bell ruled the batter out on fan interference; Diamondbacks Manager Bob Melvin argued the call and was ejected by Bell","2008ARI.EVN.regular.comment.csv",27
+"ARI200808290",52,"Debut game for Scott Elbert","2008ARI.EVN.regular.comment.csv",28
+"ARI200809010",37,"Cardinals left fielder Joe Mather left the game due to an injured hand/wrist","2008ARI.EVN.regular.comment.csv",29
+"ARI200809010",60,"ej,raucj001,P,iassd901,Balls and strikes Diamondbacks pitcher Jon Rauch ejected by HP umpire Dan Iassogna","2008ARI.EVN.regular.comment.csv",30
+"ARI200809020",78,"Debut game for Josh Whitesell","2008ARI.EVN.regular.comment.csv",31
+"ARI200809030",60,"ej,duncd101,C,scotd901,Balls and strikes Cardinals Pitching Coach Dave Duncan ejected by HP umpire Dale Scott","2008ARI.EVN.regular.comment.csv",32
+"ARI200809030",66,"Debut game for Jason Motte","2008ARI.EVN.regular.comment.csv",33
+"ARI200809130",62,"Debut game for Josh Roenicke","2008ARI.EVN.regular.comment.csv",34
+"ARI200809260",63,"ej,hurdc001,M,kulpr901,Call at 2B Rockies Manager Clint Hurdle ejected by 2B umpire Ron Kulpa","2008ARI.EVN.regular.comment.csv",35

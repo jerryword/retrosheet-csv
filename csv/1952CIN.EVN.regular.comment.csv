@@ -1,72 +1,36 @@
-"CIN195204220",21,"ej,hemus101,P,robbs901,Balls and strikes (Threw bat) ej,stane101,M,robbs901,Balls and strikes (Shoved umpire) Solly Hemus and Cardinals Manager Eddie Stanky ejected by HP umpire Scotty Robb; Hemus threw his bat and Stanky shoved Robb"FILENAME_TX","LINE_NUMBER_CT"
-
-"CIN195204220",58,"ej,braza101,P,warnl101,Fair/foul call $Cardinal Brazle, not in game, ejected by 1B umpire Warneke for arguing that Musial's grounder was foul"1952CIN.EVN.regular.comment.csv",2
-
-"CIN195205042",24,"$Connie Ryan muffed the throw in from the outfield"1952CIN.EVN.regular.comment.csv",3
-
-"CIN195205042",78,"$off the LF pole"1952CIN.EVN.regular.comment.csv",4
-
-"CIN195205060",0,"ej,vancc101,P,dascf901,Bench jockeying Chris Van Cuyk ejected by HP umpire Frank Dascoli sometime in game"1952CIN.EVN.regular.comment.csv",5
-
-"CIN195205060",26,"$short PB"1952CIN.EVN.regular.comment.csv",6
-
-"CIN195205060",59,"$Andy Seminick sprained right ankle sliding into 2B"1952CIN.EVN.regular.comment.csv",7
-
-"CIN195205060",76,"$Billy Loes tried pick off but Gil Hodges half way to HP for bunt"1952CIN.EVN.regular.comment.csv",8
-
-"CIN195205230",0,"Debut for umpire Bill Engeln"1952CIN.EVN.regular.comment.csv",9
-
-"CIN195206040",85,"ej,jonew101,P,stewb901,Call at HP $3bman Jones ejected by HP umpire Stewart for arguing that Borkowski was out at home"1952CIN.EVN.regular.comment.csv",10
-
-"CIN195206050",22,"DIFF: apparently Hamner originally charged with error that led to two UR (see NY Times). However, our hit totals for CIN batters and ER for Drews match the film so apparently this was changed, but Hamner's error was not removed from the report"1952CIN.EVN.regular.comment.csv",11
-
-"CIN195206291",19,"$Cal Abrams scored during failed rundown of Bobby Adams"1952CIN.EVN.regular.comment.csv",12
-
-"CIN195206292",33,"$Bruce Edwards left with heat exhaustion"1952CIN.EVN.regular.comment.csv",13
-
-"CIN195207030",32,"7 minute rain delay"1952CIN.EVN.regular.comment.csv",14
-
-"CIN195207100",0,"$Hall of Fame Night at Crosley Field with Jimmie Foxx, Carl Hubbell, Cy Young, Charlie Gehringer, Kid Nichols, Mickey Cochrane, Connie Mack, Paul Waner, Tris Speaker, and Rogers Hornsby were in attendance"1952CIN.EVN.regular.comment.csv",15
-
-"CIN195207100",65,"$Joe Rossi rounded 2B too far"1952CIN.EVN.regular.comment.csv",16
-
-"CIN195207120",59,"$onto the LF roof"1952CIN.EVN.regular.comment.csv",17
-
-"CIN195207132",4,"$Debut for Dusty Rhodes"1952CIN.EVN.regular.comment.csv",18
-
-"CIN195207140",48,"Rain started"1952CIN.EVN.regular.comment.csv",19
-
-"CIN195207170",68,"ej,robij103,P,gugla901,Call at 2B (Kicked glove) $Eddie Pellagrini ran on delayed steal; Preacher Roe caught return throw from Roy Campanella and threw to 2B where Jackie Robinson thought he tagged Pellagrini out; Robinson protested violently, kicking his glove 20 feet in the air; Robinson ejected by 2B umpire Augie Guglielmo"1952CIN.EVN.regular.comment.csv",20
-
-"CIN195207170",71,"ej,cox-b101,P,gugla901,Call at 2B Billy Cox ejected by 2B umpire Augie Guglielmo for continuing earlier argument by Jackie Robinson"1952CIN.EVN.regular.comment.csv",21
-
-"CIN195207190",15,"$Joe Nuxhall lost the ball in the sun"1952CIN.EVN.regular.comment.csv",22
-
-"CIN195208050",0,"$Rogers Hornsby's first game as Reds manager"1952CIN.EVN.regular.comment.csv",23
-
-"CIN195208080",60,"ej,braza101,P,goetl901,Balls and strikes (from bench) $Pitcher Brazle ejected by HP umpire Goetz from bench at end of 7th for arguing balls and strikes"1952CIN.EVN.regular.comment.csv",24
-
-"CIN195208090",47,"1:10 rain delay"1952CIN.EVN.regular.comment.csv",25
-
-"CIN195208090",58,"$Dick Sisler mishandled Bill Johnson's throw at 1B"1952CIN.EVN.regular.comment.csv",26
-
-"CIN195208102",60,"$Willard Marshall lost the ball in the sun"1952CIN.EVN.regular.comment.csv",27
-
-"CIN195208102",65,"$Willard Marshall lost the ball in the sun"1952CIN.EVN.regular.comment.csv",28
-
-"CIN195208200",17,"$Grady Hatton injured by foul ball"1952CIN.EVN.regular.comment.csv",29
-
-"CIN195208220",2,"$Frank Hiller dove at 1B to record the out; he was struck on the face by Richie Ashburn's shoe; Hiller suffered a broken nose and cuts around his eyes"1952CIN.EVN.regular.comment.csv",30
-
-"CIN195208220",24,"$Curt Simmons left with a broken blood vessel in his right wrist after being struck by the line drive"1952CIN.EVN.regular.comment.csv",31
-
-"CIN195208242",68,"$game called due to darkness"1952CIN.EVN.regular.comment.csv",32
-
-"CIN195208312",2,"$Hal Jeffcoat rounded 2B too far"1952CIN.EVN.regular.comment.csv",33
-
-"CIN195209030",48,"$3 minute smoke delay"1952CIN.EVN.regular.comment.csv",34
-
-"CIN195209270",46,"$Ted Kluszewski left with a bloody, possibly broken, nose which was injured when he scored"1952CIN.EVN.regular.comment.csv",35
-
-"CIN195209280",56,"$Dick Groat lost the ball in the sun"1952CIN.EVN.regular.comment.csv",36
-
+"CIN195204220",21,"ej,hemus101,P,robbs901,Balls and strikes (Threw bat) ej,stane101,M,robbs901,Balls and strikes (Shoved umpire) Solly Hemus and Cardinals Manager Eddie Stanky ejected by HP umpire Scotty Robb; Hemus threw his bat and Stanky shoved Robb","FILENAME_TX","LINE_NUMBER_CT"
+"CIN195204220",58,"ej,braza101,P,warnl101,Fair/foul call $Cardinal Brazle, not in game, ejected by 1B umpire Warneke for arguing that Musial's grounder was foul","1952CIN.EVN.regular.comment.csv",2
+"CIN195205042",24,"$Connie Ryan muffed the throw in from the outfield","1952CIN.EVN.regular.comment.csv",3
+"CIN195205042",78,"$off the LF pole","1952CIN.EVN.regular.comment.csv",4
+"CIN195205060",0,"ej,vancc101,P,dascf901,Bench jockeying Chris Van Cuyk ejected by HP umpire Frank Dascoli sometime in game","1952CIN.EVN.regular.comment.csv",5
+"CIN195205060",26,"$short PB","1952CIN.EVN.regular.comment.csv",6
+"CIN195205060",59,"$Andy Seminick sprained right ankle sliding into 2B","1952CIN.EVN.regular.comment.csv",7
+"CIN195205060",76,"$Billy Loes tried pick off but Gil Hodges half way to HP for bunt","1952CIN.EVN.regular.comment.csv",8
+"CIN195205230",0,"Debut for umpire Bill Engeln","1952CIN.EVN.regular.comment.csv",9
+"CIN195206040",85,"ej,jonew101,P,stewb901,Call at HP $3bman Jones ejected by HP umpire Stewart for arguing that Borkowski was out at home","1952CIN.EVN.regular.comment.csv",10
+"CIN195206050",22,"DIFF: apparently Hamner originally charged with error that led to two UR (see NY Times). However, our hit totals for CIN batters and ER for Drews match the film so apparently this was changed, but Hamner's error was not removed from the report","1952CIN.EVN.regular.comment.csv",11
+"CIN195206291",19,"$Cal Abrams scored during failed rundown of Bobby Adams","1952CIN.EVN.regular.comment.csv",12
+"CIN195206292",33,"$Bruce Edwards left with heat exhaustion","1952CIN.EVN.regular.comment.csv",13
+"CIN195207030",32,"7 minute rain delay","1952CIN.EVN.regular.comment.csv",14
+"CIN195207100",0,"$Hall of Fame Night at Crosley Field with Jimmie Foxx, Carl Hubbell, Cy Young, Charlie Gehringer, Kid Nichols, Mickey Cochrane, Connie Mack, Paul Waner, Tris Speaker, and Rogers Hornsby were in attendance","1952CIN.EVN.regular.comment.csv",15
+"CIN195207100",65,"$Joe Rossi rounded 2B too far","1952CIN.EVN.regular.comment.csv",16
+"CIN195207120",59,"$onto the LF roof","1952CIN.EVN.regular.comment.csv",17
+"CIN195207132",4,"$Debut for Dusty Rhodes","1952CIN.EVN.regular.comment.csv",18
+"CIN195207140",48,"Rain started","1952CIN.EVN.regular.comment.csv",19
+"CIN195207170",68,"ej,robij103,P,gugla901,Call at 2B (Kicked glove) $Eddie Pellagrini ran on delayed steal; Preacher Roe caught return throw from Roy Campanella and threw to 2B where Jackie Robinson thought he tagged Pellagrini out; Robinson protested violently, kicking his glove 20 feet in the air; Robinson ejected by 2B umpire Augie Guglielmo","1952CIN.EVN.regular.comment.csv",20
+"CIN195207170",71,"ej,cox-b101,P,gugla901,Call at 2B Billy Cox ejected by 2B umpire Augie Guglielmo for continuing earlier argument by Jackie Robinson","1952CIN.EVN.regular.comment.csv",21
+"CIN195207190",15,"$Joe Nuxhall lost the ball in the sun","1952CIN.EVN.regular.comment.csv",22
+"CIN195208050",0,"$Rogers Hornsby's first game as Reds manager","1952CIN.EVN.regular.comment.csv",23
+"CIN195208080",60,"ej,braza101,P,goetl901,Balls and strikes (from bench) $Pitcher Brazle ejected by HP umpire Goetz from bench at end of 7th for arguing balls and strikes","1952CIN.EVN.regular.comment.csv",24
+"CIN195208090",47,"1:10 rain delay","1952CIN.EVN.regular.comment.csv",25
+"CIN195208090",58,"$Dick Sisler mishandled Bill Johnson's throw at 1B","1952CIN.EVN.regular.comment.csv",26
+"CIN195208102",60,"$Willard Marshall lost the ball in the sun","1952CIN.EVN.regular.comment.csv",27
+"CIN195208102",65,"$Willard Marshall lost the ball in the sun","1952CIN.EVN.regular.comment.csv",28
+"CIN195208200",17,"$Grady Hatton injured by foul ball","1952CIN.EVN.regular.comment.csv",29
+"CIN195208220",2,"$Frank Hiller dove at 1B to record the out; he was struck on the face by Richie Ashburn's shoe; Hiller suffered a broken nose and cuts around his eyes","1952CIN.EVN.regular.comment.csv",30
+"CIN195208220",24,"$Curt Simmons left with a broken blood vessel in his right wrist after being struck by the line drive","1952CIN.EVN.regular.comment.csv",31
+"CIN195208242",68,"$game called due to darkness","1952CIN.EVN.regular.comment.csv",32
+"CIN195208312",2,"$Hal Jeffcoat rounded 2B too far","1952CIN.EVN.regular.comment.csv",33
+"CIN195209030",48,"$3 minute smoke delay","1952CIN.EVN.regular.comment.csv",34
+"CIN195209270",46,"$Ted Kluszewski left with a bloody, possibly broken, nose which was injured when he scored","1952CIN.EVN.regular.comment.csv",35
+"CIN195209280",56,"$Dick Groat lost the ball in the sun","1952CIN.EVN.regular.comment.csv",36

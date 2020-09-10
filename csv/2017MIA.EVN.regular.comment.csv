@@ -1,144 +1,72 @@
-"MIA201704120",4,"replay,1,gordd002,MIA,barrt901,MIA02,,Y,M,ATL,C $when Dee Gordon was called safe at 1B, Braves manager Brian Snitker challenged the ruling; the call was overturned by replay"FILENAME_TX","LINE_NUMBER_CT"
-
-"MIA201704120",14,"$J.T. Riddle collected the first hit of his career on a checked swing at a pitch that bounced in front of HP"2017MIA.EVN.regular.comment.csv",2
-
-"MIA201704120",62,"replay,8,freef001,ATL,barrt901,MIA02,,N,M,ATL,A $when Dansby Swanson was called out at 2B, Braves manager Brian Snitker challenged the ruling; the call was upheld by replay; originally ruled as caught stealing, changed to no CS and no DP on 4-18-2017"2017MIA.EVN.regular.comment.csv",3
-
-"MIA201704130",41,"$originally scored as a single, changed to error on 04-19-2017, making 4 runs this inning unearned"2017MIA.EVN.regular.comment.csv",4
-
-"MIA201704130",63,"replay,7,brucj001,NYN,barrt901,MIA02,,Y,M,MIA,A replay,7,brucj001,NYN,barrt901,MIA02,,N,M,NYN,P $when Yoenis Cespedes was called safe at HP, Marlins manager Don Mattingly challenged the ruling; the call was overturned by replay; Mets manager Terry Collins then challenged A.J. Ellis blocking HP; the ruling that the catcher did not block was upheld by replay"2017MIA.EVN.regular.comment.csv",5
-
-"MIA201704140",63,"replay,7,yelic001,MIA,gormb901,MIA02,,N,M,MIA,A $when Miguel Rojas was called out at HP, Marlins manager Don Mattingly challenged the ruling; the call was upheld by replay"2017MIA.EVN.regular.comment.csv",6
-
-"MIA201704160",73,"replay,9,rojam002,MIA,gormb901,MIA02,,N,M,MIA,A replay,9,rojam002,MIA,gormb901,MIA02,,N,M,MIA,P $when Marcell Ozuna was called out at HP, Marlins manager Don Mattingly challenged the ruling; the call was upheld by replay; it was also determined that the catcher did not block HP"2017MIA.EVN.regular.comment.csv",7
-
-"MIA201704280",20,"replay,2,ngoeg001,PIT,kellj901,MIA02,,Y,M,PIT,C $when Gift Ngoepe was called out at 1B, Pirates manager Clint Hurdle challenged the ruling; the call was overturned by replay"2017MIA.EVN.regular.comment.csv",8
-
-"MIA201704280",56,"replay,6,bellj005,PIT,kellj901,MIA02,,N,M,PIT,C $when Josh Bell was called out at 1B, Pirates manager Clint Hurdle challenged the ruling; the call was upheld by replay"2017MIA.EVN.regular.comment.csv",9
-
-"MIA201705010",5,"replay,1,pradm001,MIA,reynj901,MIA02,,N,M,TBA,A $when Dee Gordon was called safe at 3B, Rays manager Kevin Cash challenged the ruling; the call was upheld by replay"2017MIA.EVN.regular.comment.csv",10
-
-"MIA201705010",51,"replay,7,souzs001,TBA,reynj901,MIA02,,N,M,MIA,E $when Steven Souza reached 1B, Marlins manager Don Mattingly challenged the slide at 2B by Kevin Kiermaier; the slide was ruled legal by replay"2017MIA.EVN.regular.comment.csv",11
-
-"MIA201705020",41,"Marlins pitcher Edinson Volquez left the game due to an injured hand"2017MIA.EVN.regular.comment.csv",12
-
-"MIA201705080",17,"ej,mattd001,M,wendh902,Balls and strikes Marlins Manager Don Mattingly ejected by HP umpire Hunter Wendelstedt"2017MIA.EVN.regular.comment.csv",13
-
-"MIA201705080",40,"replay,4,dietd001,MIA,westj901,MIA02,,N,M,MIA,A $when Derek Dietrich was called out at 2B, Marlins acting manager Tim Wallach challenged the ruling; the call was upheld by replay"2017MIA.EVN.regular.comment.csv",14
-
-"MIA201705090",5,"ej,yelic001,P,fleta901,Called third strike ej,mattd001,M,fleta901,Called third strike $Marlins center fielder Christian Yelich and Manager Don Mattingly ejected by HP umpire Andy Fletcher"2017MIA.EVN.regular.comment.csv",15
-
-"MIA201705090",71,"replay,9,wongk001,SLN,westj901,MIA02,,N,M,SLN,C $when Kolten Wong was called out at 1B, Cardinals manager Mike Matheny challenged the ruling; the call was upheld by replay"2017MIA.EVN.regular.comment.csv",16
-
-"MIA201705260",72,"Bud Norris left with sore knee after three pitches"2017MIA.EVN.regular.comment.csv",17
-
-"MIA201705260",75,"replay,8,yelic001,MIA,mealj901,MIA02,,Y,M,ANA,A $when Giancarlo Stanton was called safe at HP, Angels manager Mike Scioscia challenged the ruling; the call was overturned by replay"2017MIA.EVN.regular.comment.csv",18
-
-"MIA201705270",38,"replay,5,stanm004,MIA,mealj901,MIA02,,Y,M,ANA,A $when Dee Gordon was called safe at 1B, Angels manager Mike Scioscia challenged the ruling; the call was overturned by replay"2017MIA.EVN.regular.comment.csv",19
-
-"MIA201705270",59,"replay,8,pujoa001,ANA,mealj901,MIA02,,N,M,MIA,C $when Cameron Maybin was called safe at 3B, Marlins manager Don Mattingly challenged the ruling; the call was upheld by replay"2017MIA.EVN.regular.comment.csv",20
-
-"MIA201705280",52,"Angels center fielder Mike Trout left the game due to an injured hand"2017MIA.EVN.regular.comment.csv",21
-
-"MIA201705290",44,"replay,6,joset001,PHI,nelsj901,MIA02,,N,M,PHI,O $Tommy Joseph's fly to RF was ruled a foul ball after Giancarlo Stanton failed to make the catch; Phillies manager Pete Mackanin challenged the ruling; the call was upheld by replay"2017MIA.EVN.regular.comment.csv",22
-
-"MIA201705300",12,"Phillies pitcher Vince Velasquez left the game due to an injured elbow"2017MIA.EVN.regular.comment.csv",23
-
-"MIA201705300",29,"Marlins pitcher Justin Nicolino left the game due to an injured hand"2017MIA.EVN.regular.comment.csv",24
-
-"MIA201705300",47,"$originally scored as error, changed to single on 06-01-2017"2017MIA.EVN.regular.comment.csv",25
-
-"MIA201706010",25,"Diamondbacks Gregor Blanco left the game due to an injured hand"2017MIA.EVN.regular.comment.csv",26
-
-"MIA201706010",54,"replay,8,descd001,ARI,millb901,MIA02,,N,M,MIA,A $when Chris Herrmann was called safe at 2B, Marlins manager Don Mattingly challenged the ruling; the call was upheld by replay"2017MIA.EVN.regular.comment.csv",27
-
-"MIA201706010",56,"replay,8,fuenr001,ARI,millb901,MIA02,,Y,U,,C $when Reymond Fuentes was called safe at 1B, crew chief Bill Miller requested a review; the call was overturned by replay"2017MIA.EVN.regular.comment.csv",28
-
-"MIA201706030",0,"$No-hitter thrown by Edinson Volquez"2017MIA.EVN.regular.comment.csv",29
-
-"MIA201706030",22,"replay,4,goldp001,ARI,millb901,MIA02,,Y,M,MIA,C $when Paul Goldschmidt was called safe at 1B, Marlins manager Don Mattingly challenged the ruling; the call was overturned by replay"2017MIA.EVN.regular.comment.csv",30
-
-"MIA201706040",38,"replay,4,goldp001,ARI,millb901,MIA02,O,N,U,,H $Paul Goldschmidt's fly to CF struck the wall near the yellow stripe; crew chief Bill Miller requested a review, which upheld the call of double"2017MIA.EVN.regular.comment.csv",31
-
-"MIA201706140",24,"Athletics right fielder Matt Joyce left the game due to an injured head"2017MIA.EVN.regular.comment.csv",32
-
-"MIA201706190",50,"replay,5,ozunm001,MIA,demud901,MIA02,,Y,M,WAS,A $when Christian Yelich was called safe at 3B, Nationals manager Dusty Baker challenged the ruling; the call was overturned by replay"2017MIA.EVN.regular.comment.csv",33
-
-"MIA201706190",60,"ej,coloc002,P,torrc901,Balls and strikes Marlins Christian Colon ejected by HP umpire Carlos Torres"2017MIA.EVN.regular.comment.csv",34
-
-"MIA201706190",84,"$originally scored as single, changed to error on 06-20-2017, making run unearned"2017MIA.EVN.regular.comment.csv",35
-
-"MIA201706220",24,"$originally scored as GDP, but first runner out was not forced, so not GDP"2017MIA.EVN.regular.comment.csv",36
-
-"MIA201706220",40,"replay,5,almoa002,CHN,hallt901,MIA02,,Y,M,CHN,A $when Ian Happ was called out at 2B, Cubs manager Joe Maddon challenged the ruling; the call was overturned by replay"2017MIA.EVN.regular.comment.csv",37
-
-"MIA201706240",49,"$Marlins challenged call that Gordon was caught stealing; call upheld - caught stealing"2017MIA.EVN.regular.comment.csv",38
-
-"MIA201706250",5,"originally scored as error, changed to single on 06-27-2017, making the three runs this inning earned"2017MIA.EVN.regular.comment.csv",39
-
-"MIA201706250",38,"$Cubs Addison Russell left with injured shoulder"2017MIA.EVN.regular.comment.csv",40
-
-"MIA201706270",61,"$Mets Robert Gsellman left with injured leg"2017MIA.EVN.regular.comment.csv",41
-
-"MIA201706290",17,"$Marlins challenged call of safe at first; call upheld - error"2017MIA.EVN.regular.comment.csv",42
-
-"MIA201707140",15,"$originally scored as caught stealing of home for Pederson with throwing error on 2nd baseman; changed to caught stealing of second on Grandal with dropped catch error on 2nd baseman and assist to catcer"2017MIA.EVN.regular.comment.csv",43
-
-"MIA201707150",53,"$Cycle for Bellinger; first Dodger rookie to do it"2017MIA.EVN.regular.comment.csv",44
-
-"MIA201707180",5,"$Phillies challenged call that Gordon was safe at 1st; call was overturned - ground out"2017MIA.EVN.regular.comment.csv",45
-
-"MIA201707280",2,"$Marlins challenged call that Hamilton was safe on steal attempt; call was upheld - stolen base"2017MIA.EVN.regular.comment.csv",46
-
-"MIA201707290",5,"$Reds challenged call that Gordon was safe at 2nd for double; call was overturned - out trying to stretch"2017MIA.EVN.regular.comment.csv",47
-
-"MIA201707300",12,"$originally scored as single, changed to sacrifice and fielder's choice on 08-02-2017"2017MIA.EVN.regular.comment.csv",48
-
-"MIA201708120",0,"$Rockies manager Bud Black missed game with illness; bench coach Mike Redmond managed in his place"2017MIA.EVN.regular.comment.csv",49
-
-"MIA201708120",64,"ej,arenn001,P,hobep901,Arguing check swing third strike $Nolan Arenado was ejected by 1b umpire Hoberg for arguing call that he had swung for strike three"2017MIA.EVN.regular.comment.csv",50
-
-"MIA201708130",26,"$Marlins challenged call that McMahon was safe at 1st; call was overturned - out to complete double play"2017MIA.EVN.regular.comment.csv",51
-
-"MIA201708140",66,"$Marlins challenged call that Dietrich was out at home on on fielder's choice; call was upheld - out"2017MIA.EVN.regular.comment.csv",52
-
-"MIA201708160",67,"$Giants challenged call that Gordon was safe at first; call was overturned - ground out"2017MIA.EVN.regular.comment.csv",53
-
-"MIA201708250",32,"$originally scored as single, changed to error on 08-31-2017; the two runs in the inning are now unearned"2017MIA.EVN.regular.comment.csv",54
-
-"MIA201708260",19,"$Marlins challenged call that Margot was safe at 1st; call was overturned - ground out"2017MIA.EVN.regular.comment.csv",55
-
-"MIA201708310",26,"$originally scored as E6, changed to single on 09-01-2017"2017MIA.EVN.regular.comment.csv",56
-
-"MIA201708310",37,"$Marlins challenged call that Rupp was safe on pickoff attempt; call was overturned - pickoff at 2nd"2017MIA.EVN.regular.comment.csv",57
-
-"MIA201709020",16,"$Florimon dislocated his right ankle as he reached 1st base on his single"2017MIA.EVN.regular.comment.csv",58
-
-"MIA201709040",64,"$Nationals challenged call that Stanton was safe at 1st; call was overturned - ground out"2017MIA.EVN.regular.comment.csv",59
-
-"MIA201709050",31,"$Batter's interference on Dietrich"2017MIA.EVN.regular.comment.csv",60
-
-"MIA201709060",24,"$Marlins challenged call that Gordon was out at 1st; call was upheld - ground out"2017MIA.EVN.regular.comment.csv",61
-
-"MIA201709060",52,"$originally scored as E6, changed to single on 09-07-2017"2017MIA.EVN.regular.comment.csv",62
-
-"MIA201709150",0,"$Game was played in Milwaukee with Miami as home team since Miami could not play at home after Hurricane Irma"2017MIA.EVN.regular.comment.csv",63
-
-"MIA201709150",75,"ej,mattd001,M,addir901,Disputing batting out of turn $Marlins manager Mattingly ejected by HP umpire Additon for arguing that umpires had made mistakes in batting order positions of Brewers substitutions and that Pina was batting out of turn"2017MIA.EVN.regular.comment.csv",64
-
-"MIA201709160",0,"$Game was played in Milwaukee with Miami as home team since Miami could not play at home after Hurricane Irma"2017MIA.EVN.regular.comment.csv",65
-
-"MIA201709160",54,"$Brewers challenged call that pickoff attempt at 2nd after 2nd pitch was safe; call was upheld - pickoff attempt, not out"2017MIA.EVN.regular.comment.csv",66
-
-"MIA201709170",0,"$Game was played in Milwaukee with Miami as home team since Miami could not play at home after Hurricane Irma"2017MIA.EVN.regular.comment.csv",67
-
-"MIA201709170",9,"$Miguel Rojas left with injured shoulder"2017MIA.EVN.regular.comment.csv",68
-
-"MIA201709190",7,"$Mets challenged call that Yelich was safe at 1st; call was overturned - out to complete double play"2017MIA.EVN.regular.comment.csv",69
-
-"MIA201709200",17,"$Mets challenged call that Evans was out at 1st to complete double play; call was overturned - line out, no double play"2017MIA.EVN.regular.comment.csv",70
-
-"MIA201709290",69,"$Marlins challenged call that Flowers was safe at 1st; call was overturned - out at 1st to complete double play"2017MIA.EVN.regular.comment.csv",71
-
-"MIA201709300",81,"$Dietrich awarded home on obstruction by 3bman Ruiz"2017MIA.EVN.regular.comment.csv",72
-
+"MIA201704120",4,"replay,1,gordd002,MIA,barrt901,MIA02,,Y,M,ATL,C $when Dee Gordon was called safe at 1B, Braves manager Brian Snitker challenged the ruling; the call was overturned by replay","FILENAME_TX","LINE_NUMBER_CT"
+"MIA201704120",14,"$J.T. Riddle collected the first hit of his career on a checked swing at a pitch that bounced in front of HP","2017MIA.EVN.regular.comment.csv",2
+"MIA201704120",62,"replay,8,freef001,ATL,barrt901,MIA02,,N,M,ATL,A $when Dansby Swanson was called out at 2B, Braves manager Brian Snitker challenged the ruling; the call was upheld by replay; originally ruled as caught stealing, changed to no CS and no DP on 4-18-2017","2017MIA.EVN.regular.comment.csv",3
+"MIA201704130",41,"$originally scored as a single, changed to error on 04-19-2017, making 4 runs this inning unearned","2017MIA.EVN.regular.comment.csv",4
+"MIA201704130",63,"replay,7,brucj001,NYN,barrt901,MIA02,,Y,M,MIA,A replay,7,brucj001,NYN,barrt901,MIA02,,N,M,NYN,P $when Yoenis Cespedes was called safe at HP, Marlins manager Don Mattingly challenged the ruling; the call was overturned by replay; Mets manager Terry Collins then challenged A.J. Ellis blocking HP; the ruling that the catcher did not block was upheld by replay","2017MIA.EVN.regular.comment.csv",5
+"MIA201704140",63,"replay,7,yelic001,MIA,gormb901,MIA02,,N,M,MIA,A $when Miguel Rojas was called out at HP, Marlins manager Don Mattingly challenged the ruling; the call was upheld by replay","2017MIA.EVN.regular.comment.csv",6
+"MIA201704160",73,"replay,9,rojam002,MIA,gormb901,MIA02,,N,M,MIA,A replay,9,rojam002,MIA,gormb901,MIA02,,N,M,MIA,P $when Marcell Ozuna was called out at HP, Marlins manager Don Mattingly challenged the ruling; the call was upheld by replay; it was also determined that the catcher did not block HP","2017MIA.EVN.regular.comment.csv",7
+"MIA201704280",20,"replay,2,ngoeg001,PIT,kellj901,MIA02,,Y,M,PIT,C $when Gift Ngoepe was called out at 1B, Pirates manager Clint Hurdle challenged the ruling; the call was overturned by replay","2017MIA.EVN.regular.comment.csv",8
+"MIA201704280",56,"replay,6,bellj005,PIT,kellj901,MIA02,,N,M,PIT,C $when Josh Bell was called out at 1B, Pirates manager Clint Hurdle challenged the ruling; the call was upheld by replay","2017MIA.EVN.regular.comment.csv",9
+"MIA201705010",5,"replay,1,pradm001,MIA,reynj901,MIA02,,N,M,TBA,A $when Dee Gordon was called safe at 3B, Rays manager Kevin Cash challenged the ruling; the call was upheld by replay","2017MIA.EVN.regular.comment.csv",10
+"MIA201705010",51,"replay,7,souzs001,TBA,reynj901,MIA02,,N,M,MIA,E $when Steven Souza reached 1B, Marlins manager Don Mattingly challenged the slide at 2B by Kevin Kiermaier; the slide was ruled legal by replay","2017MIA.EVN.regular.comment.csv",11
+"MIA201705020",41,"Marlins pitcher Edinson Volquez left the game due to an injured hand","2017MIA.EVN.regular.comment.csv",12
+"MIA201705080",17,"ej,mattd001,M,wendh902,Balls and strikes Marlins Manager Don Mattingly ejected by HP umpire Hunter Wendelstedt","2017MIA.EVN.regular.comment.csv",13
+"MIA201705080",40,"replay,4,dietd001,MIA,westj901,MIA02,,N,M,MIA,A $when Derek Dietrich was called out at 2B, Marlins acting manager Tim Wallach challenged the ruling; the call was upheld by replay","2017MIA.EVN.regular.comment.csv",14
+"MIA201705090",5,"ej,yelic001,P,fleta901,Called third strike ej,mattd001,M,fleta901,Called third strike $Marlins center fielder Christian Yelich and Manager Don Mattingly ejected by HP umpire Andy Fletcher","2017MIA.EVN.regular.comment.csv",15
+"MIA201705090",71,"replay,9,wongk001,SLN,westj901,MIA02,,N,M,SLN,C $when Kolten Wong was called out at 1B, Cardinals manager Mike Matheny challenged the ruling; the call was upheld by replay","2017MIA.EVN.regular.comment.csv",16
+"MIA201705260",72,"Bud Norris left with sore knee after three pitches","2017MIA.EVN.regular.comment.csv",17
+"MIA201705260",75,"replay,8,yelic001,MIA,mealj901,MIA02,,Y,M,ANA,A $when Giancarlo Stanton was called safe at HP, Angels manager Mike Scioscia challenged the ruling; the call was overturned by replay","2017MIA.EVN.regular.comment.csv",18
+"MIA201705270",38,"replay,5,stanm004,MIA,mealj901,MIA02,,Y,M,ANA,A $when Dee Gordon was called safe at 1B, Angels manager Mike Scioscia challenged the ruling; the call was overturned by replay","2017MIA.EVN.regular.comment.csv",19
+"MIA201705270",59,"replay,8,pujoa001,ANA,mealj901,MIA02,,N,M,MIA,C $when Cameron Maybin was called safe at 3B, Marlins manager Don Mattingly challenged the ruling; the call was upheld by replay","2017MIA.EVN.regular.comment.csv",20
+"MIA201705280",52,"Angels center fielder Mike Trout left the game due to an injured hand","2017MIA.EVN.regular.comment.csv",21
+"MIA201705290",44,"replay,6,joset001,PHI,nelsj901,MIA02,,N,M,PHI,O $Tommy Joseph's fly to RF was ruled a foul ball after Giancarlo Stanton failed to make the catch; Phillies manager Pete Mackanin challenged the ruling; the call was upheld by replay","2017MIA.EVN.regular.comment.csv",22
+"MIA201705300",12,"Phillies pitcher Vince Velasquez left the game due to an injured elbow","2017MIA.EVN.regular.comment.csv",23
+"MIA201705300",29,"Marlins pitcher Justin Nicolino left the game due to an injured hand","2017MIA.EVN.regular.comment.csv",24
+"MIA201705300",47,"$originally scored as error, changed to single on 06-01-2017","2017MIA.EVN.regular.comment.csv",25
+"MIA201706010",25,"Diamondbacks Gregor Blanco left the game due to an injured hand","2017MIA.EVN.regular.comment.csv",26
+"MIA201706010",54,"replay,8,descd001,ARI,millb901,MIA02,,N,M,MIA,A $when Chris Herrmann was called safe at 2B, Marlins manager Don Mattingly challenged the ruling; the call was upheld by replay","2017MIA.EVN.regular.comment.csv",27
+"MIA201706010",56,"replay,8,fuenr001,ARI,millb901,MIA02,,Y,U,,C $when Reymond Fuentes was called safe at 1B, crew chief Bill Miller requested a review; the call was overturned by replay","2017MIA.EVN.regular.comment.csv",28
+"MIA201706030",0,"$No-hitter thrown by Edinson Volquez","2017MIA.EVN.regular.comment.csv",29
+"MIA201706030",22,"replay,4,goldp001,ARI,millb901,MIA02,,Y,M,MIA,C $when Paul Goldschmidt was called safe at 1B, Marlins manager Don Mattingly challenged the ruling; the call was overturned by replay","2017MIA.EVN.regular.comment.csv",30
+"MIA201706040",38,"replay,4,goldp001,ARI,millb901,MIA02,O,N,U,,H $Paul Goldschmidt's fly to CF struck the wall near the yellow stripe; crew chief Bill Miller requested a review, which upheld the call of double","2017MIA.EVN.regular.comment.csv",31
+"MIA201706140",24,"Athletics right fielder Matt Joyce left the game due to an injured head","2017MIA.EVN.regular.comment.csv",32
+"MIA201706190",50,"replay,5,ozunm001,MIA,demud901,MIA02,,Y,M,WAS,A $when Christian Yelich was called safe at 3B, Nationals manager Dusty Baker challenged the ruling; the call was overturned by replay","2017MIA.EVN.regular.comment.csv",33
+"MIA201706190",60,"ej,coloc002,P,torrc901,Balls and strikes Marlins Christian Colon ejected by HP umpire Carlos Torres","2017MIA.EVN.regular.comment.csv",34
+"MIA201706190",84,"$originally scored as single, changed to error on 06-20-2017, making run unearned","2017MIA.EVN.regular.comment.csv",35
+"MIA201706220",24,"$originally scored as GDP, but first runner out was not forced, so not GDP","2017MIA.EVN.regular.comment.csv",36
+"MIA201706220",40,"replay,5,almoa002,CHN,hallt901,MIA02,,Y,M,CHN,A $when Ian Happ was called out at 2B, Cubs manager Joe Maddon challenged the ruling; the call was overturned by replay","2017MIA.EVN.regular.comment.csv",37
+"MIA201706240",49,"$Marlins challenged call that Gordon was caught stealing; call upheld - caught stealing","2017MIA.EVN.regular.comment.csv",38
+"MIA201706250",5,"originally scored as error, changed to single on 06-27-2017, making the three runs this inning earned","2017MIA.EVN.regular.comment.csv",39
+"MIA201706250",38,"$Cubs Addison Russell left with injured shoulder","2017MIA.EVN.regular.comment.csv",40
+"MIA201706270",61,"$Mets Robert Gsellman left with injured leg","2017MIA.EVN.regular.comment.csv",41
+"MIA201706290",17,"$Marlins challenged call of safe at first; call upheld - error","2017MIA.EVN.regular.comment.csv",42
+"MIA201707140",15,"$originally scored as caught stealing of home for Pederson with throwing error on 2nd baseman; changed to caught stealing of second on Grandal with dropped catch error on 2nd baseman and assist to catcer","2017MIA.EVN.regular.comment.csv",43
+"MIA201707150",53,"$Cycle for Bellinger; first Dodger rookie to do it","2017MIA.EVN.regular.comment.csv",44
+"MIA201707180",5,"$Phillies challenged call that Gordon was safe at 1st; call was overturned - ground out","2017MIA.EVN.regular.comment.csv",45
+"MIA201707280",2,"$Marlins challenged call that Hamilton was safe on steal attempt; call was upheld - stolen base","2017MIA.EVN.regular.comment.csv",46
+"MIA201707290",5,"$Reds challenged call that Gordon was safe at 2nd for double; call was overturned - out trying to stretch","2017MIA.EVN.regular.comment.csv",47
+"MIA201707300",12,"$originally scored as single, changed to sacrifice and fielder's choice on 08-02-2017","2017MIA.EVN.regular.comment.csv",48
+"MIA201708120",0,"$Rockies manager Bud Black missed game with illness; bench coach Mike Redmond managed in his place","2017MIA.EVN.regular.comment.csv",49
+"MIA201708120",64,"ej,arenn001,P,hobep901,Arguing check swing third strike $Nolan Arenado was ejected by 1b umpire Hoberg for arguing call that he had swung for strike three","2017MIA.EVN.regular.comment.csv",50
+"MIA201708130",26,"$Marlins challenged call that McMahon was safe at 1st; call was overturned - out to complete double play","2017MIA.EVN.regular.comment.csv",51
+"MIA201708140",66,"$Marlins challenged call that Dietrich was out at home on on fielder's choice; call was upheld - out","2017MIA.EVN.regular.comment.csv",52
+"MIA201708160",67,"$Giants challenged call that Gordon was safe at first; call was overturned - ground out","2017MIA.EVN.regular.comment.csv",53
+"MIA201708250",32,"$originally scored as single, changed to error on 08-31-2017; the two runs in the inning are now unearned","2017MIA.EVN.regular.comment.csv",54
+"MIA201708260",19,"$Marlins challenged call that Margot was safe at 1st; call was overturned - ground out","2017MIA.EVN.regular.comment.csv",55
+"MIA201708310",26,"$originally scored as E6, changed to single on 09-01-2017","2017MIA.EVN.regular.comment.csv",56
+"MIA201708310",37,"$Marlins challenged call that Rupp was safe on pickoff attempt; call was overturned - pickoff at 2nd","2017MIA.EVN.regular.comment.csv",57
+"MIA201709020",16,"$Florimon dislocated his right ankle as he reached 1st base on his single","2017MIA.EVN.regular.comment.csv",58
+"MIA201709040",64,"$Nationals challenged call that Stanton was safe at 1st; call was overturned - ground out","2017MIA.EVN.regular.comment.csv",59
+"MIA201709050",31,"$Batter's interference on Dietrich","2017MIA.EVN.regular.comment.csv",60
+"MIA201709060",24,"$Marlins challenged call that Gordon was out at 1st; call was upheld - ground out","2017MIA.EVN.regular.comment.csv",61
+"MIA201709060",52,"$originally scored as E6, changed to single on 09-07-2017","2017MIA.EVN.regular.comment.csv",62
+"MIA201709150",0,"$Game was played in Milwaukee with Miami as home team since Miami could not play at home after Hurricane Irma","2017MIA.EVN.regular.comment.csv",63
+"MIA201709150",75,"ej,mattd001,M,addir901,Disputing batting out of turn $Marlins manager Mattingly ejected by HP umpire Additon for arguing that umpires had made mistakes in batting order positions of Brewers substitutions and that Pina was batting out of turn","2017MIA.EVN.regular.comment.csv",64
+"MIA201709160",0,"$Game was played in Milwaukee with Miami as home team since Miami could not play at home after Hurricane Irma","2017MIA.EVN.regular.comment.csv",65
+"MIA201709160",54,"$Brewers challenged call that pickoff attempt at 2nd after 2nd pitch was safe; call was upheld - pickoff attempt, not out","2017MIA.EVN.regular.comment.csv",66
+"MIA201709170",0,"$Game was played in Milwaukee with Miami as home team since Miami could not play at home after Hurricane Irma","2017MIA.EVN.regular.comment.csv",67
+"MIA201709170",9,"$Miguel Rojas left with injured shoulder","2017MIA.EVN.regular.comment.csv",68
+"MIA201709190",7,"$Mets challenged call that Yelich was safe at 1st; call was overturned - out to complete double play","2017MIA.EVN.regular.comment.csv",69
+"MIA201709200",17,"$Mets challenged call that Evans was out at 1st to complete double play; call was overturned - line out, no double play","2017MIA.EVN.regular.comment.csv",70
+"MIA201709290",69,"$Marlins challenged call that Flowers was safe at 1st; call was overturned - out at 1st to complete double play","2017MIA.EVN.regular.comment.csv",71
+"MIA201709300",81,"$Dietrich awarded home on obstruction by 3bman Ruiz","2017MIA.EVN.regular.comment.csv",72

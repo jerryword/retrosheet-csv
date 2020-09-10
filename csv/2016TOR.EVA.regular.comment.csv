@@ -1,136 +1,68 @@
-"TOR201604220",22,"replay,3,davik003,TOR,mealj901,TOR02,,Y,M,OAK,C $when Coco Crisp was called out at 2B, Athletics manager Bob Melvin challenged the ruling; the call was overturned by replay"FILENAME_TX","LINE_NUMBER_CT"
-
-"TOR201604220",34,"replay,4,encae001,TOR,mealj901,TOR02,,Y,M,OAK,C $when Edwin Encarnacion was called safe at 1B, Athletics manager Bob Melvin challenged the ruling; the call was overturned by replay"2016TOR.EVA.regular.comment.csv",2
-
-"TOR201604220",45,"Blue Jays catcher Russell Martin left the game due to an injured neck"2016TOR.EVA.regular.comment.csv",3
-
-"TOR201604220",84,"replay,9,carre001,TOR,mealj901,TOR02,,N,M,TOR,C $when Ezequiel Carrera was called out at 1B, Blue Jays manager John Gibbons challenged the ruling; the call was upheld by replay"2016TOR.EVA.regular.comment.csv",4
-
-"TOR201604230",41,"replay,5,phegj001,OAK,mealj901,TOR02,,Y,M,TOR,C $when Josh Phegley was called safe at 1B, Blue Jays manager John Gibbons challenged the ruling; the call was overturned by replay"2016TOR.EVA.regular.comment.csv",5
-
-"TOR201604240",15,"replay,2,ladet001,OAK,mealj901,TOR02,,Y,M,TOR,A $when Yonder Alonso was called safe at 2B, Blue Jays manager John Gibbons challenged the ruling; the call was overturned by replay"2016TOR.EVA.regular.comment.csv",6
-
-"TOR201604260",32,"replay,5,navad001,CHA,iassd901,TOR02,,Y,M,CHA,A $when Brett Lawrie was called out at 3B, White Sox manager Robin Ventura challenged the ruling; the call was overturned by replay"2016TOR.EVA.regular.comment.csv",7
-
-"TOR201604270",54,"ej,gibbj001,M,tumpj901,Checked swing Blue Jays Manager John Gibbons ejected by HP umpire John Tumpane"2016TOR.EVA.regular.comment.csv",8
-
-"TOR201605020",52,"replay,7,odorr001,TEX,holbs901,TOR02,,Y,M,TOR,M $when Mitch Moreland was ruled to have scored before Delino DeShields was tagged out at 2B, Blue Jays manager John Gibbons challenged the ruling; the call was overturned by replay, taking the run off the board"2016TOR.EVA.regular.comment.csv",9
-
-"TOR201605020",67,"replay,8,tulot001,TOR,holbs901,TOR02,,N,M,TOR,A $when Michael Saunders was called out at HP, Blue Jays manager John Gibbons challenged the ruling; the call was upheld by replay"2016TOR.EVA.regular.comment.csv",10
-
-"TOR201605020",73,"replay,9,pillk001,TOR,holbs901,TOR02,,N,U,,C $when Ryan Goins was called out at 2B, acting crew chief Sam Holbrook requested a review; the call was upheld by replay"2016TOR.EVA.regular.comment.csv",11
-
-"TOR201605030",66,"replay,9,desmi001,TEX,holbs901,TOR02,,Y,M,TEX,D $when Jose Bautista was ruled to have caught Ian Desmond's ball in RF, Rangers manager Jeff Banister challenged the ruling; the call was overturned by replay"2016TOR.EVA.regular.comment.csv",12
-
-"TOR201605060",74,"replay,9,crawc002,LAN,joycj901,TOR02,,N,M,LAN,C replay,9,crawc002,LAN,joycj901,TOR02,,N,M,TOR,E $when Joc Pederson was called out at 2B, Dodgers manager Dave Roberts challenged the ruling; the call was upheld; Blue Jays manager John Gibbons challenged the slide at 2B and the call was upheld as a legal slide by replay"2016TOR.EVA.regular.comment.csv",13
-
-"TOR201605070",22,"replay,3,gonza003,LAN,joycj901,TOR02,,Y,M,LAN,A $when Chase Utley was called out at 2B, Dodgers manager Dave Roberts challenged the ruling; the call was overturned by replay"2016TOR.EVA.regular.comment.csv",14
-
-"TOR201605160",40,"ej,gibbj001,M,wintm901,Called third strike Blue Jays Manager John Gibbons ejected by HP umpire Mike Winters"2016TOR.EVA.regular.comment.csv",15
-
-"TOR201605180",46,"replay,6,jennd002,TBA,wintm901,TOR02,,N,M,TOR,A $when Logan Morrison was called safe at 1B on a pickoff attempt, Blue Jays acting manager DeMarlo Hale challenged the ruling; the call was upheld by replay"2016TOR.EVA.regular.comment.csv",16
-
-"TOR201605280",13,"umpchange,2,umphome,gormb901 umpchange,2,ump3b,torrc901 umpchange,2,ump2b,(None) $HP umpire Mike DiMuro was struck on the mask by a foul ball by Devon Travis; 3B umpire Brian Gorman moved to HP with a 1-2 count on Travis; 2B umpire Carlos Torres moved to 3B"2016TOR.EVA.regular.comment.csv",17
-
-"TOR201605280",23,"replay,3,encae001,TOR,gormb901,TOR02,,N,M,BOS,I $when Edwin Encarnacion was ruled to have been hit by a pitch, Red Sox manager John Farrell challenged the ruling; the call was upheld by replay; Encarnacion checked his swing, which is not reviewable"2016TOR.EVA.regular.comment.csv",18
-
-"TOR201605280",74,"replay,8,smoaj001,TOR,gormb901,TOR02,,N,U,,C $when Michael Saunders was called safe at 2B, crew chief Brian Gorman requested a review; the call was upheld by replay"2016TOR.EVA.regular.comment.csv",19
-
-"TOR201605280",92,"$originally scored as single, changed to dropped catch error on 06-09-2016, removing RBI and making run unearned"2016TOR.EVA.regular.comment.csv",20
-
-"TOR201605290",87,"replay,10,travd001,TOR,gormb901,TOR02,,Y,M,BOS,I $when Devon Travis was ruled to have been hit by a pitch, Red Sox manager John Farrell challenged the ruling; the call was overturned by replay to a foul ball"2016TOR.EVA.regular.comment.csv",21
-
-"TOR201605310",28,"replay,4,encae001,TOR,culbf901,TOR02,,Y,M,NYA,C $when Edwin Encarnacion was called safe at 1B, Yankees manager Joe Girardi challenged the ruling; the call was overturned by replay"2016TOR.EVA.regular.comment.csv",22
-
-"TOR201606090",5,"replay,1,trumm001,BAL,kellj901,TOR02,,N,M,BAL,A $when Manny Machado was called out at HP, Orioles manager Buck Showalter challenged the ruling; the call was upheld by replay"2016TOR.EVA.regular.comment.csv",23
-
-"TOR201606090",59,"Blue Jays right fielder Jose Bautista left the game due to an injured leg"2016TOR.EVA.regular.comment.csv",24
-
-"TOR201606120",14,"$Mark Trumbo called for interference for running in fair territory when struck by the throw"2016TOR.EVA.regular.comment.csv",25
-
-"TOR201606130",66,"replay,8,pillk001,TOR,millb901,TOR02,,N,M,TOR,C $when Kevin Pillar was called out at 1B, Blue Jays manager John Gibbons challenged the ruling; the call was upheld by replay"2016TOR.EVA.regular.comment.csv",26
-
-"TOR201606140",23,"replay,3,herro001,PHI,millb901,TOR02,,Y,M,TOR,A $when Odubel Herrera was called safe at 2B, Blue Jays manager John Gibbons challenged the ruling; the call was overturned by replay"2016TOR.EVA.regular.comment.csv",27
-
-"TOR201606140",32,"Blue Jays left fielder Michael Saunders left the game due to an injured leg"2016TOR.EVA.regular.comment.csv",28
-
-"TOR201606210",5,"replay,1,carre001,TOR,everm901,TOR02,,Y,M,ARI,C $when Ezequiel Carrera was called safe at 1B, D-Backs manager Chip Hale challenged the ruling; the call was overturned by replay"2016TOR.EVA.regular.comment.csv",29
-
-"TOR201606220",68,"replay,9,seguj002,ARI,everm901,TOR02,,Y,M,TOR,C $when Jean Segura was called safe at 1B, Blue Jays manager John Gibons challenged the ruling; the call was overturned by replay"2016TOR.EVA.regular.comment.csv",30
-
-"TOR201607010",7,"ej,encae001,P,carav901,Called third strike (Bumped umpire) ej,gibbj001,M,carav901,Called third strike $Blue Jays designated hitter Edwin Encarnacion and manager John Gibbons ejected by HP umpire Vic Carapazza; Encarnacion bumped Carapazza"2016TOR.EVA.regular.comment.csv",31
-
-"TOR201607010",102,"ej,martr004,P,carav901,Checked swing Blue Jays catcher Russell Martin ejected by HP umpire Vic Carapazza"2016TOR.EVA.regular.comment.csv",32
-
-"TOR201607010",109,"replay,14,pillk001,TOR,hirsj901,TOR02,,Y,M,TOR,C $when Kevin Pillar was called out at 1B, Blue Jays acting manager DeMarlo Hale challenged the ruling; the call was overturned by replay"2016TOR.EVA.regular.comment.csv",33
-
-"TOR201607020",74,"replay,8,donaj001,TOR,hirsj901,TOR02,,Y,M,TOR,A $when Ezequiel Carrera was called out at HP, Blue Jays manager John Gibbons challenged the ruling; the call was overturned by replay and a run put on the board"2016TOR.EVA.regular.comment.csv",34
-
-"TOR201607020",81,"replay,9,kipnj001,CLE,hirsj901,TOR02,,N,M,TOR,A $when Rajai Davis was called safe at 2B, Blue Jays manager John Gibbons challenged the ruling; the call was upheld by replay"2016TOR.EVA.regular.comment.csv",35
-
-"TOR201607050",32,"$originally scored as E7, changed to double on 07-07-2016, making both runs in inning earned"2016TOR.EVA.regular.comment.csv",36
-
-"TOR201607070",53,"replay,6,carre001,TOR,westj901,TOR02,,N,M,TOR,A $when Kevin Pillar was called out at HP, Blue Jays manager John Gibbons challenged the ruling; the call was upheld by replay"2016TOR.EVA.regular.comment.csv",37
-
-"TOR201607090",54,"replay,7,kinsi001,DET,westj901,TOR02,,N,M,DET,A $when Andrew Romine was called out at 2B, Tigers manager Brad Ausmus challenged the ruling; the call was upheld by replay"2016TOR.EVA.regular.comment.csv",38
-
-"TOR201607220",17,"replay,3,aokin001,SEA,everm901,TOR02,,Y,M,SEA,A $when Nori Aoki was called out at 2B, Mariners manager Scott Servais challenged the ruling; the call was overturned by replay"2016TOR.EVA.regular.comment.csv",39
-
-"TOR201607230",49,"replay,6,omals001,SEA,everm901,TOR02,,N,M,TOR,C $when Shawn O'Malley was called safe at 1B, Blue Jays manager John Gibbons challenged the ruling; the call was upheld by replay"2016TOR.EVA.regular.comment.csv",40
-
-"TOR201607230",68,"$a fan reached over the wall and grabbed the ball for interference"2016TOR.EVA.regular.comment.csv",41
-
-"TOR201607240",42,"replay,6,barnd001,TOR,everm901,TOR02,,N,M,SEA,A $when Josh Thole was called safe at 3B, Mariners manager Scott Servais challenged the ruling; the call was upheld by replay"2016TOR.EVA.regular.comment.csv",42
-
-"TOR201607250",4,"replay,1,solay001,SDN,iassd901,TOR02,,Y,M,SDN,C $when Yangervis Solarte was called out at 1B, Padres manager Andy Green challenged the ruling; the call was overturned by replay"2016TOR.EVA.regular.comment.csv",43
-
-"TOR201607250",57,"replay,7,donaj001,TOR,iassd901,TOR02,,N,M,SDN,E replay,7,donaj001,TOR,iassd901,TOR02,,Y,M,SDN,C $when Josh Donaldson was called safe at 1B, Padres manager Andy Green challenged the ruling; the call was overturned by replay; pitcher Jose Dominguez was sitting on the bag when he caught the throw; Green also challenged the ruling on the slide at 2B; this call was upheld by replay as a legal slide"2016TOR.EVA.regular.comment.csv",44
-
-"TOR201607290",23,"replay,3,kim-h001,BAL,reynj901,TOR02,,N,M,BAL,O $Hyun Soo Kim's line drive to RF was called foul; Orioles manager Buck Showalter challenged the ruling but the call was upheld by replay"2016TOR.EVA.regular.comment.csv",45
-
-"TOR201607290",58,"replay,7,alvap001,BAL,reynj901,TOR02,,N,M,TOR,C $when Pedro Alvarez was called safe at 1B, Blue Jays manager John Gibbons challenged the ruling; the call was upheld by replay"2016TOR.EVA.regular.comment.csv",46
-
-"TOR201608090",42,"replay,5,beckt001,TBA,vanol901,TOR02,F,N,U,,H $Tim Beckham's fly to LF was ruled a foul ball; crew chief Larry Vanover requested a review, which upheld the call by replay"2016TOR.EVA.regular.comment.csv",47
-
-"TOR201608090",70,"$Mikie Mahtook called for interference for running in fair territory down the 1B line when the throw went into RF"2016TOR.EVA.regular.comment.csv",48
-
-"TOR201608100",64,"$a fan reached over the wall in foul territory and touched the ball for interference"2016TOR.EVA.regular.comment.csv",49
-
-"TOR201608130",13,"replay,2,kempt001,HOU,nelsj901,TOR02,,Y,M,TOR,O $when Tony Kemp's liner down the LF line was ruled a fair ball, Blue Jays manager John Gibbons challenged the ruling; the call was overturned by replay to a foul ball"2016TOR.EVA.regular.comment.csv",50
-
-"TOR201608130",66,"ej,gonzm002,P,eddid901,Balls and strikes $Gonzalez ejected by HP umpire Eddings for arguing balls and strikes"2016TOR.EVA.regular.comment.csv",51
-
-"TOR201608140",26,"replay,3,encae001,TOR,nelsj901,TOR02,,N,M,HOU,I $when Edwin Encarnacion was ruled to have been hit by a pitch, Astros manager A.J. Hinch challenged the ruling; the call was upheld by replay"2016TOR.EVA.regular.comment.csv",52
-
-"TOR201608140",31,"$originally scored as single, changed to error on 08-24-2016, making run unearned"2016TOR.EVA.regular.comment.csv",53
-
-"TOR201608140",51,"replay,6,cecid001,TOR,nelsj901,TOR02,,N,M,TOR,A $when Melvin Upton was called out at 2B, Blue Jays manager John Gibbons challenged the ruling; the call was upheld by replay"2016TOR.EVA.regular.comment.csv",54
-
-"TOR201608270",26,"replay,4,rosae001,MIN,hudsm901,TOR02,,N,M,TOR,A $when Trevor Plouffe was called safe at 3B, Blue Jays manager John Gibbons challenged the ruling; the call was upheld by replay"2016TOR.EVA.regular.comment.csv",55
-
-"TOR201609090",55,"$Hanley Ramirez and Troy Tulowitzki collided while Ramirez was moving to catch the popup; Tulo was called out for interference"2016TOR.EVA.regular.comment.csv",56
-
-"TOR201609100",22,"replay,3,donaj001,TOR,joycj901,TOR02,,Y,M,BOS,A $when Devon Travis was called safe at 3B, Red Sox manager John Farrell challenged the ruling; the call was overturned by replay"2016TOR.EVA.regular.comment.csv",57
-
-"TOR201609110",49,"replay,5,leons001,BOS,joycj901,TOR02,,N,M,TOR,A $when Brock Holt was called safe at 1B on a pickoff attempt, Blue Jays manager John Gibbons challenged the ruling; the call was upheld by replay"2016TOR.EVA.regular.comment.csv",58
-
-"TOR201609110",89,"replay,9,martr004,TOR,joycj901,TOR02,,N,U,,O ej,gibbj001,M,joycj901,Replay ruling $Russell Martin's fly to RF was ruled a fair ball but the umpires huddled and changed the call to a foul ball; Martin had reached 2B on the hit with Edwin Encarnacion moving to 3B; crew chief Jim Joyce requested a review, which upheld the call by replay as a foul ball; Blue Jays manager John Gibbons ejected by Joyce"2016TOR.EVA.regular.comment.csv",59
-
-"TOR201609120",39,"replay,6,travd001,TOR,hirsj901,TOR02,,N,M,TBA,A $when Devon Travis was called safe at 2B, Rays manager Kevin Cash challenged the ruling; the call was upheld by replay"2016TOR.EVA.regular.comment.csv",60
-
-"TOR201609120",65,"$Steven Souza fouled off the fifth pitch into and out of Russell Martin's glove; pitcher Roberto Ozuna turned and did his post-game celebration and the horn sounded at Rogers Centre; two pitches later, Souza hit a ball the the warning track in CF that looked like it might have been a home run but was caught to end the game; Souza and Martin briefly exchanged words over a misunderstanding of something Martin said; both benches cleared but the misunderstanding was quickly cleared up"2016TOR.EVA.regular.comment.csv",61
-
-"TOR201609260",6,"$Josh Donaldson unhappy with being hit on the elbow"2016TOR.EVA.regular.comment.csv",62
-
-"TOR201609260",12,"ej,giraj001,M,ticht901,Warnings to both teams $the first pitch was behind Chase Headley's legs; the second hit Headley; both teams warned by HP Umpire Todd Tichenor; both benches cleared; Yankees Manager Joe Girardi ejected by HP umpire Todd Tichenor"2016TOR.EVA.regular.comment.csv",63
-
-"TOR201609260",15,"ej,sevel001,P,ticht901,Intentional HBP ej,thomr801,C,ticht901,Intentional HBP ej,rothl101,C,ticht901,Intentional HBP $the first pitch barely missed Justin Smoak; when the second hit Smoak, Yankees pitcher Luis Severino ejected by HP umpire Todd Tichenor; both benches cleared again; Yankees Bench Coach Rob Thomson and Pitching Coach Larry Rothschild ejected by HP umpire Todd Tichenor"2016TOR.EVA.regular.comment.csv",64
-
-"TOR201609260",49,"replay,6,pillk001,TOR,hallt901,TOR02,,Y,M,TOR,C $when Kevin Pillar was called out at 1B, Blue Jays manager John Gibbons challenged the ruling; the call was overturned by replay"2016TOR.EVA.regular.comment.csv",65
-
-"TOR201609270",32,"replay,4,martr004,TOR,barrt901,TOR02,,N,M,TOR,A $when Russell Martin was called out at 2B, Blue Jays manager John Gibbons challenged the ruling; the call was upheld by replay"2016TOR.EVA.regular.comment.csv",66
-
-"TOR201609270",55,"ej,davic003,P,littw901,Called third strike ej,showb801,M,littw901,Called third strike $Orioles first baseman Chris Davis and Orioles Manager Buck Showalter ejected by HP umpire Will Little"2016TOR.EVA.regular.comment.csv",67
-
-"TOR201609290",56,"replay,7,tulot001,TOR,barrt901,TOR02,,Y,M,BAL,C $when Troy Tulowitzki was called safe at 1B, Orioles manager Buck Showalter challenged the ruling; the call was overturned by replay"2016TOR.EVA.regular.comment.csv",68
-
+"TOR201604220",22,"replay,3,davik003,TOR,mealj901,TOR02,,Y,M,OAK,C $when Coco Crisp was called out at 2B, Athletics manager Bob Melvin challenged the ruling; the call was overturned by replay","FILENAME_TX","LINE_NUMBER_CT"
+"TOR201604220",34,"replay,4,encae001,TOR,mealj901,TOR02,,Y,M,OAK,C $when Edwin Encarnacion was called safe at 1B, Athletics manager Bob Melvin challenged the ruling; the call was overturned by replay","2016TOR.EVA.regular.comment.csv",2
+"TOR201604220",45,"Blue Jays catcher Russell Martin left the game due to an injured neck","2016TOR.EVA.regular.comment.csv",3
+"TOR201604220",84,"replay,9,carre001,TOR,mealj901,TOR02,,N,M,TOR,C $when Ezequiel Carrera was called out at 1B, Blue Jays manager John Gibbons challenged the ruling; the call was upheld by replay","2016TOR.EVA.regular.comment.csv",4
+"TOR201604230",41,"replay,5,phegj001,OAK,mealj901,TOR02,,Y,M,TOR,C $when Josh Phegley was called safe at 1B, Blue Jays manager John Gibbons challenged the ruling; the call was overturned by replay","2016TOR.EVA.regular.comment.csv",5
+"TOR201604240",15,"replay,2,ladet001,OAK,mealj901,TOR02,,Y,M,TOR,A $when Yonder Alonso was called safe at 2B, Blue Jays manager John Gibbons challenged the ruling; the call was overturned by replay","2016TOR.EVA.regular.comment.csv",6
+"TOR201604260",32,"replay,5,navad001,CHA,iassd901,TOR02,,Y,M,CHA,A $when Brett Lawrie was called out at 3B, White Sox manager Robin Ventura challenged the ruling; the call was overturned by replay","2016TOR.EVA.regular.comment.csv",7
+"TOR201604270",54,"ej,gibbj001,M,tumpj901,Checked swing Blue Jays Manager John Gibbons ejected by HP umpire John Tumpane","2016TOR.EVA.regular.comment.csv",8
+"TOR201605020",52,"replay,7,odorr001,TEX,holbs901,TOR02,,Y,M,TOR,M $when Mitch Moreland was ruled to have scored before Delino DeShields was tagged out at 2B, Blue Jays manager John Gibbons challenged the ruling; the call was overturned by replay, taking the run off the board","2016TOR.EVA.regular.comment.csv",9
+"TOR201605020",67,"replay,8,tulot001,TOR,holbs901,TOR02,,N,M,TOR,A $when Michael Saunders was called out at HP, Blue Jays manager John Gibbons challenged the ruling; the call was upheld by replay","2016TOR.EVA.regular.comment.csv",10
+"TOR201605020",73,"replay,9,pillk001,TOR,holbs901,TOR02,,N,U,,C $when Ryan Goins was called out at 2B, acting crew chief Sam Holbrook requested a review; the call was upheld by replay","2016TOR.EVA.regular.comment.csv",11
+"TOR201605030",66,"replay,9,desmi001,TEX,holbs901,TOR02,,Y,M,TEX,D $when Jose Bautista was ruled to have caught Ian Desmond's ball in RF, Rangers manager Jeff Banister challenged the ruling; the call was overturned by replay","2016TOR.EVA.regular.comment.csv",12
+"TOR201605060",74,"replay,9,crawc002,LAN,joycj901,TOR02,,N,M,LAN,C replay,9,crawc002,LAN,joycj901,TOR02,,N,M,TOR,E $when Joc Pederson was called out at 2B, Dodgers manager Dave Roberts challenged the ruling; the call was upheld; Blue Jays manager John Gibbons challenged the slide at 2B and the call was upheld as a legal slide by replay","2016TOR.EVA.regular.comment.csv",13
+"TOR201605070",22,"replay,3,gonza003,LAN,joycj901,TOR02,,Y,M,LAN,A $when Chase Utley was called out at 2B, Dodgers manager Dave Roberts challenged the ruling; the call was overturned by replay","2016TOR.EVA.regular.comment.csv",14
+"TOR201605160",40,"ej,gibbj001,M,wintm901,Called third strike Blue Jays Manager John Gibbons ejected by HP umpire Mike Winters","2016TOR.EVA.regular.comment.csv",15
+"TOR201605180",46,"replay,6,jennd002,TBA,wintm901,TOR02,,N,M,TOR,A $when Logan Morrison was called safe at 1B on a pickoff attempt, Blue Jays acting manager DeMarlo Hale challenged the ruling; the call was upheld by replay","2016TOR.EVA.regular.comment.csv",16
+"TOR201605280",13,"umpchange,2,umphome,gormb901 umpchange,2,ump3b,torrc901 umpchange,2,ump2b,(None) $HP umpire Mike DiMuro was struck on the mask by a foul ball by Devon Travis; 3B umpire Brian Gorman moved to HP with a 1-2 count on Travis; 2B umpire Carlos Torres moved to 3B","2016TOR.EVA.regular.comment.csv",17
+"TOR201605280",23,"replay,3,encae001,TOR,gormb901,TOR02,,N,M,BOS,I $when Edwin Encarnacion was ruled to have been hit by a pitch, Red Sox manager John Farrell challenged the ruling; the call was upheld by replay; Encarnacion checked his swing, which is not reviewable","2016TOR.EVA.regular.comment.csv",18
+"TOR201605280",74,"replay,8,smoaj001,TOR,gormb901,TOR02,,N,U,,C $when Michael Saunders was called safe at 2B, crew chief Brian Gorman requested a review; the call was upheld by replay","2016TOR.EVA.regular.comment.csv",19
+"TOR201605280",92,"$originally scored as single, changed to dropped catch error on 06-09-2016, removing RBI and making run unearned","2016TOR.EVA.regular.comment.csv",20
+"TOR201605290",87,"replay,10,travd001,TOR,gormb901,TOR02,,Y,M,BOS,I $when Devon Travis was ruled to have been hit by a pitch, Red Sox manager John Farrell challenged the ruling; the call was overturned by replay to a foul ball","2016TOR.EVA.regular.comment.csv",21
+"TOR201605310",28,"replay,4,encae001,TOR,culbf901,TOR02,,Y,M,NYA,C $when Edwin Encarnacion was called safe at 1B, Yankees manager Joe Girardi challenged the ruling; the call was overturned by replay","2016TOR.EVA.regular.comment.csv",22
+"TOR201606090",5,"replay,1,trumm001,BAL,kellj901,TOR02,,N,M,BAL,A $when Manny Machado was called out at HP, Orioles manager Buck Showalter challenged the ruling; the call was upheld by replay","2016TOR.EVA.regular.comment.csv",23
+"TOR201606090",59,"Blue Jays right fielder Jose Bautista left the game due to an injured leg","2016TOR.EVA.regular.comment.csv",24
+"TOR201606120",14,"$Mark Trumbo called for interference for running in fair territory when struck by the throw","2016TOR.EVA.regular.comment.csv",25
+"TOR201606130",66,"replay,8,pillk001,TOR,millb901,TOR02,,N,M,TOR,C $when Kevin Pillar was called out at 1B, Blue Jays manager John Gibbons challenged the ruling; the call was upheld by replay","2016TOR.EVA.regular.comment.csv",26
+"TOR201606140",23,"replay,3,herro001,PHI,millb901,TOR02,,Y,M,TOR,A $when Odubel Herrera was called safe at 2B, Blue Jays manager John Gibbons challenged the ruling; the call was overturned by replay","2016TOR.EVA.regular.comment.csv",27
+"TOR201606140",32,"Blue Jays left fielder Michael Saunders left the game due to an injured leg","2016TOR.EVA.regular.comment.csv",28
+"TOR201606210",5,"replay,1,carre001,TOR,everm901,TOR02,,Y,M,ARI,C $when Ezequiel Carrera was called safe at 1B, D-Backs manager Chip Hale challenged the ruling; the call was overturned by replay","2016TOR.EVA.regular.comment.csv",29
+"TOR201606220",68,"replay,9,seguj002,ARI,everm901,TOR02,,Y,M,TOR,C $when Jean Segura was called safe at 1B, Blue Jays manager John Gibons challenged the ruling; the call was overturned by replay","2016TOR.EVA.regular.comment.csv",30
+"TOR201607010",7,"ej,encae001,P,carav901,Called third strike (Bumped umpire) ej,gibbj001,M,carav901,Called third strike $Blue Jays designated hitter Edwin Encarnacion and manager John Gibbons ejected by HP umpire Vic Carapazza; Encarnacion bumped Carapazza","2016TOR.EVA.regular.comment.csv",31
+"TOR201607010",102,"ej,martr004,P,carav901,Checked swing Blue Jays catcher Russell Martin ejected by HP umpire Vic Carapazza","2016TOR.EVA.regular.comment.csv",32
+"TOR201607010",109,"replay,14,pillk001,TOR,hirsj901,TOR02,,Y,M,TOR,C $when Kevin Pillar was called out at 1B, Blue Jays acting manager DeMarlo Hale challenged the ruling; the call was overturned by replay","2016TOR.EVA.regular.comment.csv",33
+"TOR201607020",74,"replay,8,donaj001,TOR,hirsj901,TOR02,,Y,M,TOR,A $when Ezequiel Carrera was called out at HP, Blue Jays manager John Gibbons challenged the ruling; the call was overturned by replay and a run put on the board","2016TOR.EVA.regular.comment.csv",34
+"TOR201607020",81,"replay,9,kipnj001,CLE,hirsj901,TOR02,,N,M,TOR,A $when Rajai Davis was called safe at 2B, Blue Jays manager John Gibbons challenged the ruling; the call was upheld by replay","2016TOR.EVA.regular.comment.csv",35
+"TOR201607050",32,"$originally scored as E7, changed to double on 07-07-2016, making both runs in inning earned","2016TOR.EVA.regular.comment.csv",36
+"TOR201607070",53,"replay,6,carre001,TOR,westj901,TOR02,,N,M,TOR,A $when Kevin Pillar was called out at HP, Blue Jays manager John Gibbons challenged the ruling; the call was upheld by replay","2016TOR.EVA.regular.comment.csv",37
+"TOR201607090",54,"replay,7,kinsi001,DET,westj901,TOR02,,N,M,DET,A $when Andrew Romine was called out at 2B, Tigers manager Brad Ausmus challenged the ruling; the call was upheld by replay","2016TOR.EVA.regular.comment.csv",38
+"TOR201607220",17,"replay,3,aokin001,SEA,everm901,TOR02,,Y,M,SEA,A $when Nori Aoki was called out at 2B, Mariners manager Scott Servais challenged the ruling; the call was overturned by replay","2016TOR.EVA.regular.comment.csv",39
+"TOR201607230",49,"replay,6,omals001,SEA,everm901,TOR02,,N,M,TOR,C $when Shawn O'Malley was called safe at 1B, Blue Jays manager John Gibbons challenged the ruling; the call was upheld by replay","2016TOR.EVA.regular.comment.csv",40
+"TOR201607230",68,"$a fan reached over the wall and grabbed the ball for interference","2016TOR.EVA.regular.comment.csv",41
+"TOR201607240",42,"replay,6,barnd001,TOR,everm901,TOR02,,N,M,SEA,A $when Josh Thole was called safe at 3B, Mariners manager Scott Servais challenged the ruling; the call was upheld by replay","2016TOR.EVA.regular.comment.csv",42
+"TOR201607250",4,"replay,1,solay001,SDN,iassd901,TOR02,,Y,M,SDN,C $when Yangervis Solarte was called out at 1B, Padres manager Andy Green challenged the ruling; the call was overturned by replay","2016TOR.EVA.regular.comment.csv",43
+"TOR201607250",57,"replay,7,donaj001,TOR,iassd901,TOR02,,N,M,SDN,E replay,7,donaj001,TOR,iassd901,TOR02,,Y,M,SDN,C $when Josh Donaldson was called safe at 1B, Padres manager Andy Green challenged the ruling; the call was overturned by replay; pitcher Jose Dominguez was sitting on the bag when he caught the throw; Green also challenged the ruling on the slide at 2B; this call was upheld by replay as a legal slide","2016TOR.EVA.regular.comment.csv",44
+"TOR201607290",23,"replay,3,kim-h001,BAL,reynj901,TOR02,,N,M,BAL,O $Hyun Soo Kim's line drive to RF was called foul; Orioles manager Buck Showalter challenged the ruling but the call was upheld by replay","2016TOR.EVA.regular.comment.csv",45
+"TOR201607290",58,"replay,7,alvap001,BAL,reynj901,TOR02,,N,M,TOR,C $when Pedro Alvarez was called safe at 1B, Blue Jays manager John Gibbons challenged the ruling; the call was upheld by replay","2016TOR.EVA.regular.comment.csv",46
+"TOR201608090",42,"replay,5,beckt001,TBA,vanol901,TOR02,F,N,U,,H $Tim Beckham's fly to LF was ruled a foul ball; crew chief Larry Vanover requested a review, which upheld the call by replay","2016TOR.EVA.regular.comment.csv",47
+"TOR201608090",70,"$Mikie Mahtook called for interference for running in fair territory down the 1B line when the throw went into RF","2016TOR.EVA.regular.comment.csv",48
+"TOR201608100",64,"$a fan reached over the wall in foul territory and touched the ball for interference","2016TOR.EVA.regular.comment.csv",49
+"TOR201608130",13,"replay,2,kempt001,HOU,nelsj901,TOR02,,Y,M,TOR,O $when Tony Kemp's liner down the LF line was ruled a fair ball, Blue Jays manager John Gibbons challenged the ruling; the call was overturned by replay to a foul ball","2016TOR.EVA.regular.comment.csv",50
+"TOR201608130",66,"ej,gonzm002,P,eddid901,Balls and strikes $Gonzalez ejected by HP umpire Eddings for arguing balls and strikes","2016TOR.EVA.regular.comment.csv",51
+"TOR201608140",26,"replay,3,encae001,TOR,nelsj901,TOR02,,N,M,HOU,I $when Edwin Encarnacion was ruled to have been hit by a pitch, Astros manager A.J. Hinch challenged the ruling; the call was upheld by replay","2016TOR.EVA.regular.comment.csv",52
+"TOR201608140",31,"$originally scored as single, changed to error on 08-24-2016, making run unearned","2016TOR.EVA.regular.comment.csv",53
+"TOR201608140",51,"replay,6,cecid001,TOR,nelsj901,TOR02,,N,M,TOR,A $when Melvin Upton was called out at 2B, Blue Jays manager John Gibbons challenged the ruling; the call was upheld by replay","2016TOR.EVA.regular.comment.csv",54
+"TOR201608270",26,"replay,4,rosae001,MIN,hudsm901,TOR02,,N,M,TOR,A $when Trevor Plouffe was called safe at 3B, Blue Jays manager John Gibbons challenged the ruling; the call was upheld by replay","2016TOR.EVA.regular.comment.csv",55
+"TOR201609090",55,"$Hanley Ramirez and Troy Tulowitzki collided while Ramirez was moving to catch the popup; Tulo was called out for interference","2016TOR.EVA.regular.comment.csv",56
+"TOR201609100",22,"replay,3,donaj001,TOR,joycj901,TOR02,,Y,M,BOS,A $when Devon Travis was called safe at 3B, Red Sox manager John Farrell challenged the ruling; the call was overturned by replay","2016TOR.EVA.regular.comment.csv",57
+"TOR201609110",49,"replay,5,leons001,BOS,joycj901,TOR02,,N,M,TOR,A $when Brock Holt was called safe at 1B on a pickoff attempt, Blue Jays manager John Gibbons challenged the ruling; the call was upheld by replay","2016TOR.EVA.regular.comment.csv",58
+"TOR201609110",89,"replay,9,martr004,TOR,joycj901,TOR02,,N,U,,O ej,gibbj001,M,joycj901,Replay ruling $Russell Martin's fly to RF was ruled a fair ball but the umpires huddled and changed the call to a foul ball; Martin had reached 2B on the hit with Edwin Encarnacion moving to 3B; crew chief Jim Joyce requested a review, which upheld the call by replay as a foul ball; Blue Jays manager John Gibbons ejected by Joyce","2016TOR.EVA.regular.comment.csv",59
+"TOR201609120",39,"replay,6,travd001,TOR,hirsj901,TOR02,,N,M,TBA,A $when Devon Travis was called safe at 2B, Rays manager Kevin Cash challenged the ruling; the call was upheld by replay","2016TOR.EVA.regular.comment.csv",60
+"TOR201609120",65,"$Steven Souza fouled off the fifth pitch into and out of Russell Martin's glove; pitcher Roberto Ozuna turned and did his post-game celebration and the horn sounded at Rogers Centre; two pitches later, Souza hit a ball the the warning track in CF that looked like it might have been a home run but was caught to end the game; Souza and Martin briefly exchanged words over a misunderstanding of something Martin said; both benches cleared but the misunderstanding was quickly cleared up","2016TOR.EVA.regular.comment.csv",61
+"TOR201609260",6,"$Josh Donaldson unhappy with being hit on the elbow","2016TOR.EVA.regular.comment.csv",62
+"TOR201609260",12,"ej,giraj001,M,ticht901,Warnings to both teams $the first pitch was behind Chase Headley's legs; the second hit Headley; both teams warned by HP Umpire Todd Tichenor; both benches cleared; Yankees Manager Joe Girardi ejected by HP umpire Todd Tichenor","2016TOR.EVA.regular.comment.csv",63
+"TOR201609260",15,"ej,sevel001,P,ticht901,Intentional HBP ej,thomr801,C,ticht901,Intentional HBP ej,rothl101,C,ticht901,Intentional HBP $the first pitch barely missed Justin Smoak; when the second hit Smoak, Yankees pitcher Luis Severino ejected by HP umpire Todd Tichenor; both benches cleared again; Yankees Bench Coach Rob Thomson and Pitching Coach Larry Rothschild ejected by HP umpire Todd Tichenor","2016TOR.EVA.regular.comment.csv",64
+"TOR201609260",49,"replay,6,pillk001,TOR,hallt901,TOR02,,Y,M,TOR,C $when Kevin Pillar was called out at 1B, Blue Jays manager John Gibbons challenged the ruling; the call was overturned by replay","2016TOR.EVA.regular.comment.csv",65
+"TOR201609270",32,"replay,4,martr004,TOR,barrt901,TOR02,,N,M,TOR,A $when Russell Martin was called out at 2B, Blue Jays manager John Gibbons challenged the ruling; the call was upheld by replay","2016TOR.EVA.regular.comment.csv",66
+"TOR201609270",55,"ej,davic003,P,littw901,Called third strike ej,showb801,M,littw901,Called third strike $Orioles first baseman Chris Davis and Orioles Manager Buck Showalter ejected by HP umpire Will Little","2016TOR.EVA.regular.comment.csv",67
+"TOR201609290",56,"replay,7,tulot001,TOR,barrt901,TOR02,,Y,M,BAL,C $when Troy Tulowitzki was called safe at 1B, Orioles manager Buck Showalter challenged the ruling; the call was overturned by replay","2016TOR.EVA.regular.comment.csv",68

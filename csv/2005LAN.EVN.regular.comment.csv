@@ -1,78 +1,39 @@
-"LAN200504120",57,"originally an E9 allowing runner on 2nd to 3rd, removed on 04-14"FILENAME_TX","LINE_NUMBER_CT"
-
-"LAN200504160",13,"Padres shortstop Khalil Greene left the game due to an injured hand/wrist Broken ring finger on right hand, out 3-4 weeks"2005LAN.EVN.regular.comment.csv",2
-
-"LAN200505010",68,"$Luis Gonzalez called for interference"2005LAN.EVN.regular.comment.csv",3
-
-"LAN200505020",42,"Nationals left fielder Terrmel Sledge left the game due to an injured leg"2005LAN.EVN.regular.comment.csv",4
-
-"LAN200505030",54,"Dodgers third baseman Jose Valentin left the game due to an injured knee"2005LAN.EVN.regular.comment.csv",5
-
-"LAN200505040",57,"Dodgers shortstop Cesar Izturis left the game due to an injured foot/ankle"2005LAN.EVN.regular.comment.csv",6
-
-"LAN200505140",21,"Braves pitcher Mike Hampton left game due to an injured arm"2005LAN.EVN.regular.comment.csv",7
-
-"LAN200505180",10,"Lowell lost foul pop in sun, hit in face, left game"2005LAN.EVN.regular.comment.csv",8
-
-"LAN200505180",11,"Debut game for Joe Dillon"2005LAN.EVN.regular.comment.csv",9
-
-"LAN200505200",38,"Angels RF Vladimir Guerrero left the game due to an injured neck/shoulder"2005LAN.EVN.regular.comment.csv",10
-
-"LAN200505310",46,"$Jason Dubois called for interference"2005LAN.EVN.regular.comment.csv",11
-
-"LAN200506010",1,"Debut game for John Koronka"2005LAN.EVN.regular.comment.csv",12
-
-"LAN200506040",56,"ej,perea001,P,fostm901,Called third strike ej,tracj101,M,fostm901,Called third strike $Perez and Dodgers manager Tracy ejected by HP umpire Foster for arguing called third strike"2005LAN.EVN.regular.comment.csv",13
-
-"LAN200506050",60,"Brewers catcher Damian Miller left the game due to an injured groin"2005LAN.EVN.regular.comment.csv",14
-
-"LAN200506070",43,"Tigers shortstop Carlos Guillen left the game due to an injured leg"2005LAN.EVN.regular.comment.csv",15
-
-"LAN200506070",53,"Debut game for Franquelis Osoria"2005LAN.EVN.regular.comment.csv",16
-
-"LAN200506100",37,"Twins LF Shannon Stewart left the game due to an injured hand/wrist"2005LAN.EVN.regular.comment.csv",17
-
-"LAN200506100",77,"$Hit screen high on fair pole"2005LAN.EVN.regular.comment.csv",18
-
-"LAN200506110",47,"Dodgers shortstop Cesar Izturis left the game due to an injured leg"2005LAN.EVN.regular.comment.csv",19
-
-"LAN200506280",27,"$Antonio Perez called for interference"2005LAN.EVN.regular.comment.csv",20
-
-"LAN200507030",50,"$Drew suffers broken wrist, plays 2 more inning, onto DL"2005LAN.EVN.regular.comment.csv",21
-
-"LAN200507140",20,"ej,pennb002,P,drakr901,Call at 1B (threw helmet) $Penny ejected by HP umpire Drake for arguing call that he had turned toward 2nd after overrunning 1st; he was ejected as he walked back to dugout"2005LAN.EVN.regular.comment.csv",22
-
-"LAN200507150",39,"Giants first baseman Lance Niekro left the game due to an injured back"2005LAN.EVN.regular.comment.csv",23
-
-"LAN200507160",80,"ej,alouf101,M,dowda901,Check swing ej,aloum001,P,dowda901,Check swing ej,torry001,P,dowda901,Check swing ej,cruzd001,P,dowda901,Check swing $Giants manager Alou and players Alou, Torrealba and Cruz ejected by 1B umpire Dowdy for arguing check swing; pitch in question would have ended game with a win for the Giants, but Phillips remained at bat and singled to win game; ejections came after game ended"2005LAN.EVN.regular.comment.csv",24
-
-"LAN200507250",60,"Dodgers pitcher Derek Lowe left the game with blister on finger"2005LAN.EVN.regular.comment.csv",25
-
-"LAN200507290",53,"Debut game for Jonathan Broxton"2005LAN.EVN.regular.comment.csv",26
-
-"LAN200508130",22,"$Jason Repko called for interference"2005LAN.EVN.regular.comment.csv",27
-
-"LAN200508230",41,"Rockies second baseman Luis Gonzalez left the game due to an injured hand/wrist"2005LAN.EVN.regular.comment.csv",28
-
-"LAN200508280",28,"Lamb broke late, easy out at home"2005LAN.EVN.regular.comment.csv",29
-
-"LAN200508280",50,"ej,biggc001,P,eddid901,HBP non-call ej,garnp001,M,eddid901,HBP non-call $Biggio and Astros manager Garner ejected by HP umpire Eddings for arguing Biggio had been hit; Eddings ruled he did not try to avoid pitch; after flying out, Biggio yelled at Eddings and was ejected; Astros manager Garner argued and was also ejected"2005LAN.EVN.regular.comment.csv",30
-
-"LAN200508280",65,"Off Phillips' glove. Originally ruled E3, changed after game"2005LAN.EVN.regular.comment.csv",31
-
-"LAN200509050",66,"Debut game for Dan Ortmeier"2005LAN.EVN.regular.comment.csv",32
-
-"LAN200509060",46,"Dodgers pitcher Brad Penny left the game due to an injured back"2005LAN.EVN.regular.comment.csv",33
-
-"LAN200509060",55,"Debut game for Brian Myrow"2005LAN.EVN.regular.comment.csv",34
-
-"LAN200509070",39,"Giants pitcher Jason Schmidt left the game due to an injured groin"2005LAN.EVN.regular.comment.csv",35
-
-"LAN200509120",17,"$Jeff Weaver called for interference"2005LAN.EVN.regular.comment.csv",36
-
-"LAN200509250",70,"Debut game for Ronny Paulino"2005LAN.EVN.regular.comment.csv",37
-
-"LAN200509280",38,"Shawn Estes left the game due to an injured foot/ankle"2005LAN.EVN.regular.comment.csv",38
-
-"LAN200509280",48,"Wilson Alvarez left the game due to an injured hand/wrist"2005LAN.EVN.regular.comment.csv",39
-
+"LAN200504120",57,"originally an E9 allowing runner on 2nd to 3rd, removed on 04-14","FILENAME_TX","LINE_NUMBER_CT"
+"LAN200504160",13,"Padres shortstop Khalil Greene left the game due to an injured hand/wrist Broken ring finger on right hand, out 3-4 weeks","2005LAN.EVN.regular.comment.csv",2
+"LAN200505010",68,"$Luis Gonzalez called for interference","2005LAN.EVN.regular.comment.csv",3
+"LAN200505020",42,"Nationals left fielder Terrmel Sledge left the game due to an injured leg","2005LAN.EVN.regular.comment.csv",4
+"LAN200505030",54,"Dodgers third baseman Jose Valentin left the game due to an injured knee","2005LAN.EVN.regular.comment.csv",5
+"LAN200505040",57,"Dodgers shortstop Cesar Izturis left the game due to an injured foot/ankle","2005LAN.EVN.regular.comment.csv",6
+"LAN200505140",21,"Braves pitcher Mike Hampton left game due to an injured arm","2005LAN.EVN.regular.comment.csv",7
+"LAN200505180",10,"Lowell lost foul pop in sun, hit in face, left game","2005LAN.EVN.regular.comment.csv",8
+"LAN200505180",11,"Debut game for Joe Dillon","2005LAN.EVN.regular.comment.csv",9
+"LAN200505200",38,"Angels RF Vladimir Guerrero left the game due to an injured neck/shoulder","2005LAN.EVN.regular.comment.csv",10
+"LAN200505310",46,"$Jason Dubois called for interference","2005LAN.EVN.regular.comment.csv",11
+"LAN200506010",1,"Debut game for John Koronka","2005LAN.EVN.regular.comment.csv",12
+"LAN200506040",56,"ej,perea001,P,fostm901,Called third strike ej,tracj101,M,fostm901,Called third strike $Perez and Dodgers manager Tracy ejected by HP umpire Foster for arguing called third strike","2005LAN.EVN.regular.comment.csv",13
+"LAN200506050",60,"Brewers catcher Damian Miller left the game due to an injured groin","2005LAN.EVN.regular.comment.csv",14
+"LAN200506070",43,"Tigers shortstop Carlos Guillen left the game due to an injured leg","2005LAN.EVN.regular.comment.csv",15
+"LAN200506070",53,"Debut game for Franquelis Osoria","2005LAN.EVN.regular.comment.csv",16
+"LAN200506100",37,"Twins LF Shannon Stewart left the game due to an injured hand/wrist","2005LAN.EVN.regular.comment.csv",17
+"LAN200506100",77,"$Hit screen high on fair pole","2005LAN.EVN.regular.comment.csv",18
+"LAN200506110",47,"Dodgers shortstop Cesar Izturis left the game due to an injured leg","2005LAN.EVN.regular.comment.csv",19
+"LAN200506280",27,"$Antonio Perez called for interference","2005LAN.EVN.regular.comment.csv",20
+"LAN200507030",50,"$Drew suffers broken wrist, plays 2 more inning, onto DL","2005LAN.EVN.regular.comment.csv",21
+"LAN200507140",20,"ej,pennb002,P,drakr901,Call at 1B (threw helmet) $Penny ejected by HP umpire Drake for arguing call that he had turned toward 2nd after overrunning 1st; he was ejected as he walked back to dugout","2005LAN.EVN.regular.comment.csv",22
+"LAN200507150",39,"Giants first baseman Lance Niekro left the game due to an injured back","2005LAN.EVN.regular.comment.csv",23
+"LAN200507160",80,"ej,alouf101,M,dowda901,Check swing ej,aloum001,P,dowda901,Check swing ej,torry001,P,dowda901,Check swing ej,cruzd001,P,dowda901,Check swing $Giants manager Alou and players Alou, Torrealba and Cruz ejected by 1B umpire Dowdy for arguing check swing; pitch in question would have ended game with a win for the Giants, but Phillips remained at bat and singled to win game; ejections came after game ended","2005LAN.EVN.regular.comment.csv",24
+"LAN200507250",60,"Dodgers pitcher Derek Lowe left the game with blister on finger","2005LAN.EVN.regular.comment.csv",25
+"LAN200507290",53,"Debut game for Jonathan Broxton","2005LAN.EVN.regular.comment.csv",26
+"LAN200508130",22,"$Jason Repko called for interference","2005LAN.EVN.regular.comment.csv",27
+"LAN200508230",41,"Rockies second baseman Luis Gonzalez left the game due to an injured hand/wrist","2005LAN.EVN.regular.comment.csv",28
+"LAN200508280",28,"Lamb broke late, easy out at home","2005LAN.EVN.regular.comment.csv",29
+"LAN200508280",50,"ej,biggc001,P,eddid901,HBP non-call ej,garnp001,M,eddid901,HBP non-call $Biggio and Astros manager Garner ejected by HP umpire Eddings for arguing Biggio had been hit; Eddings ruled he did not try to avoid pitch; after flying out, Biggio yelled at Eddings and was ejected; Astros manager Garner argued and was also ejected","2005LAN.EVN.regular.comment.csv",30
+"LAN200508280",65,"Off Phillips' glove. Originally ruled E3, changed after game","2005LAN.EVN.regular.comment.csv",31
+"LAN200509050",66,"Debut game for Dan Ortmeier","2005LAN.EVN.regular.comment.csv",32
+"LAN200509060",46,"Dodgers pitcher Brad Penny left the game due to an injured back","2005LAN.EVN.regular.comment.csv",33
+"LAN200509060",55,"Debut game for Brian Myrow","2005LAN.EVN.regular.comment.csv",34
+"LAN200509070",39,"Giants pitcher Jason Schmidt left the game due to an injured groin","2005LAN.EVN.regular.comment.csv",35
+"LAN200509120",17,"$Jeff Weaver called for interference","2005LAN.EVN.regular.comment.csv",36
+"LAN200509250",70,"Debut game for Ronny Paulino","2005LAN.EVN.regular.comment.csv",37
+"LAN200509280",38,"Shawn Estes left the game due to an injured foot/ankle","2005LAN.EVN.regular.comment.csv",38
+"LAN200509280",48,"Wilson Alvarez left the game due to an injured hand/wrist","2005LAN.EVN.regular.comment.csv",39

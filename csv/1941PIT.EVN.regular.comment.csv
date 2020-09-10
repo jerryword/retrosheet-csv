@@ -1,56 +1,28 @@
-"PIT194104200",47,"$rain started"FILENAME_TX","LINE_NUMBER_CT"
-
-"PIT194106140",0,"Play by Play from Boston Globe for first 3-1/2 innings"1941PIT.EVN.regular.comment.csv",2
-
-"PIT194106140",30,"End of play-by-play. Rest of game is deduced. $17 minute rain delay at start of fourth inning"1941PIT.EVN.regular.comment.csv",3
-
-"PIT194106150",0,"$This was scheduled as game 1 of a doubleheader, but game 2 was rained out in bottom of 3rd with PIT ahead 3-0"1941PIT.EVN.regular.comment.csv",4
-
-"PIT194106180",33,"$Game was suspended for 56 minutes to allow fans to listen to the Joe Louis / Billy Conn boxing match.  Conn was from Pittsburgh and was fighting for the heavyweight title."1941PIT.EVN.regular.comment.csv",5
-
-"PIT194106180",90,"$Game called after 11 innings due to curfew rule"1941PIT.EVN.regular.comment.csv",6
-
-"PIT194106250",2,"ej,durol101,M,mageg901,Balls and strikes Dodgers Manager Leo Durocher ejected by HP umpire George Magerkurth"1941PIT.EVN.regular.comment.csv",7
-
-"PIT194106250",47,"ej,frisf101,M,mageg901,Balls and strikes Pirates Manager Frankie Frisch ejected by HP umpire George Magerkurth"1941PIT.EVN.regular.comment.csv",8
-
-"PIT194106250",56,"ej,kellm801,C,dunnt901,Call at 3B $the ball caromed off Peewee Reese's glove; Pirates Coach Mike Kelly ejected by 3B umpire Tom Dunn"1941PIT.EVN.regular.comment.csv",9
-
-"PIT194106300",28,"SLN 3B Lake threw home late."1941PIT.EVN.regular.comment.csv",10
-
-"PIT194107252",3,"arbitrary 8 to 9"1941PIT.EVN.regular.comment.csv",11
-
-"PIT194107271",0,"fielding stats for Pit cannot be reconciled"1941PIT.EVN.regular.comment.csv",12
-
-"PIT194107271",13,"ej,franh101,P,barla901,Balls and strikes Herman Franks ejected by HP umpire Al Barlick"1941PIT.EVN.regular.comment.csv",13
-
-"PIT194107271",33,"$Peewee Reese called for interference for running into his own batted ball"1941PIT.EVN.regular.comment.csv",14
-
-"PIT194107272",66,"$Game called for Sunday curfew"1941PIT.EVN.regular.comment.csv",15
-
-"PIT194107290",69,"$game called for rain"1941PIT.EVN.regular.comment.csv",16
-
-"PIT194108031",12,"ej,carpb101,P,searz901,Balls and strikes $Carpenter was ejected for arguing the last pitch to Fletcher"1941PIT.EVN.regular.comment.csv",17
-
-"PIT194108031",44,"As Fletcher rounded first, McGee ran into him and the umpire awarded Fletcher second base for obstruction"1941PIT.EVN.regular.comment.csv",18
-
-"PIT194108032",63,"Game called for curfew due to Pennsylvania's Sunday Blue Laws"1941PIT.EVN.regular.comment.csv",19
-
-"PIT194108130",52,"ej,ellib103,P,stewb901,Arguing called third strike $Elliott was ejected by plate umpire Stewart for arguing called third strike"1941PIT.EVN.regular.comment.csv",20
-
-"PIT194109040",41,"$game called due to rain"1941PIT.EVN.regular.comment.csv",21
-
-"PIT194109052",52,"$game called due to rain"1941PIT.EVN.regular.comment.csv",22
-
-"PIT194109111",76,"This was the 2nd time in 5 days that Lamanna had been struck by a batted ball as a pinch runner in the 9th inning. On Sept. 6 vs. Phillies, he was struck by Hassett's batted ball"1941PIT.EVN.regular.comment.csv",23
-
-"PIT194109180",68,"ej,durol101,M,mageg901,Warning given Hugh Casey $Dodgers manager Leo Durocher argued the balk; Hugh Casey threw three consecutive pitches above and behind the head of Al Lopez; after the third such pitch, HP umpire George Magerkurth walked toward the mound; Dodgers Manager Leo Durocher ran back onto the field and was ejected by Magerkurth"1941PIT.EVN.regular.comment.csv",24
-
-"PIT194109231",43,"$DiMaggio overran 3b"1941PIT.EVN.regular.comment.csv",25
-
-"PIT194109232",5,"$Musial over-ran 2b"1941PIT.EVN.regular.comment.csv",26
-
-"PIT194109232",29,"$53, then Marion trapped off 2b and got into rundown (35) Crespi broke for plate, ss throw home, c drop"1941PIT.EVN.regular.comment.csv",27
-
-"PIT194109280",7,"$Eddie Joost left with an injured hand"1941PIT.EVN.regular.comment.csv",28
-
+"PIT194104200",47,"$rain started","FILENAME_TX","LINE_NUMBER_CT"
+"PIT194106140",0,"Play by Play from Boston Globe for first 3-1/2 innings","1941PIT.EVN.regular.comment.csv",2
+"PIT194106140",30,"End of play-by-play. Rest of game is deduced. $17 minute rain delay at start of fourth inning","1941PIT.EVN.regular.comment.csv",3
+"PIT194106150",0,"$This was scheduled as game 1 of a doubleheader, but game 2 was rained out in bottom of 3rd with PIT ahead 3-0","1941PIT.EVN.regular.comment.csv",4
+"PIT194106180",33,"$Game was suspended for 56 minutes to allow fans to listen to the Joe Louis / Billy Conn boxing match.  Conn was from Pittsburgh and was fighting for the heavyweight title.","1941PIT.EVN.regular.comment.csv",5
+"PIT194106180",90,"$Game called after 11 innings due to curfew rule","1941PIT.EVN.regular.comment.csv",6
+"PIT194106250",2,"ej,durol101,M,mageg901,Balls and strikes Dodgers Manager Leo Durocher ejected by HP umpire George Magerkurth","1941PIT.EVN.regular.comment.csv",7
+"PIT194106250",47,"ej,frisf101,M,mageg901,Balls and strikes Pirates Manager Frankie Frisch ejected by HP umpire George Magerkurth","1941PIT.EVN.regular.comment.csv",8
+"PIT194106250",56,"ej,kellm801,C,dunnt901,Call at 3B $the ball caromed off Peewee Reese's glove; Pirates Coach Mike Kelly ejected by 3B umpire Tom Dunn","1941PIT.EVN.regular.comment.csv",9
+"PIT194106300",28,"SLN 3B Lake threw home late.","1941PIT.EVN.regular.comment.csv",10
+"PIT194107252",3,"arbitrary 8 to 9","1941PIT.EVN.regular.comment.csv",11
+"PIT194107271",0,"fielding stats for Pit cannot be reconciled","1941PIT.EVN.regular.comment.csv",12
+"PIT194107271",13,"ej,franh101,P,barla901,Balls and strikes Herman Franks ejected by HP umpire Al Barlick","1941PIT.EVN.regular.comment.csv",13
+"PIT194107271",33,"$Peewee Reese called for interference for running into his own batted ball","1941PIT.EVN.regular.comment.csv",14
+"PIT194107272",66,"$Game called for Sunday curfew","1941PIT.EVN.regular.comment.csv",15
+"PIT194107290",69,"$game called for rain","1941PIT.EVN.regular.comment.csv",16
+"PIT194108031",12,"ej,carpb101,P,searz901,Balls and strikes $Carpenter was ejected for arguing the last pitch to Fletcher","1941PIT.EVN.regular.comment.csv",17
+"PIT194108031",44,"As Fletcher rounded first, McGee ran into him and the umpire awarded Fletcher second base for obstruction","1941PIT.EVN.regular.comment.csv",18
+"PIT194108032",63,"Game called for curfew due to Pennsylvania's Sunday Blue Laws","1941PIT.EVN.regular.comment.csv",19
+"PIT194108130",52,"ej,ellib103,P,stewb901,Arguing called third strike $Elliott was ejected by plate umpire Stewart for arguing called third strike","1941PIT.EVN.regular.comment.csv",20
+"PIT194109040",41,"$game called due to rain","1941PIT.EVN.regular.comment.csv",21
+"PIT194109052",52,"$game called due to rain","1941PIT.EVN.regular.comment.csv",22
+"PIT194109111",76,"This was the 2nd time in 5 days that Lamanna had been struck by a batted ball as a pinch runner in the 9th inning. On Sept. 6 vs. Phillies, he was struck by Hassett's batted ball","1941PIT.EVN.regular.comment.csv",23
+"PIT194109180",68,"ej,durol101,M,mageg901,Warning given Hugh Casey $Dodgers manager Leo Durocher argued the balk; Hugh Casey threw three consecutive pitches above and behind the head of Al Lopez; after the third such pitch, HP umpire George Magerkurth walked toward the mound; Dodgers Manager Leo Durocher ran back onto the field and was ejected by Magerkurth","1941PIT.EVN.regular.comment.csv",24
+"PIT194109231",43,"$DiMaggio overran 3b","1941PIT.EVN.regular.comment.csv",25
+"PIT194109232",5,"$Musial over-ran 2b","1941PIT.EVN.regular.comment.csv",26
+"PIT194109232",29,"$53, then Marion trapped off 2b and got into rundown (35) Crespi broke for plate, ss throw home, c drop","1941PIT.EVN.regular.comment.csv",27
+"PIT194109280",7,"$Eddie Joost left with an injured hand","1941PIT.EVN.regular.comment.csv",28

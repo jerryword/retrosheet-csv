@@ -1,68 +1,34 @@
-"PHI200304040",21,"Debut game for Chase Utley"FILENAME_TX","LINE_NUMBER_CT"
-
-"PHI200304050",30,"Phillies Kevin Millwood left the game due to an injured groin"2003PHI.EVN.regular.comment.csv",2
-
-"PHI200304060",49,"ej,bowal001,M,millb901,Call at 1B $Phillies manager Larry Bowa argued with 1B umpire Bill Miller about the call on Bobby Abreu; Bowa told Miller that he had missed two plays in the game; Bowa was ejected by Miller"2003PHI.EVN.regular.comment.csv",3
-
-"PHI200304080",45,"ej,cox-b103,M,danlk901,Called third strike on Sheffield ej,shefg001,P,danlk901,Called third strike Gary Sheffield and manager Bobby Cox ejected by HP umpire Kerwin Danley"2003PHI.EVN.regular.comment.csv",4
-
-"PHI200304140",48,"Phillies Vicente Padilla left the game due to an injured arm"2003PHI.EVN.regular.comment.csv",5
-
-"PHI200304260",1,"Debut game for Jerome Williams"2003PHI.EVN.regular.comment.csv",6
-
-"PHI200304260",31,"Giants Benito left with injured arm from HP"2003PHI.EVN.regular.comment.csv",7
-
-"PHI200305100",8,"Astros Wade Miller left the game due to an injured leg"2003PHI.EVN.regular.comment.csv",8
-
-"PHI200305130",54,"ej,gracm001,P,hollm901,Called third strike Diamondbacks Mark Grace ejected by HP umpire Matt Hollowell"2003PHI.EVN.regular.comment.csv",9
-
-"PHI200305130",55,"Houston broke finger fouling off bunt, then got a hit; onto DL next day, pin in finger"2003PHI.EVN.regular.comment.csv",10
-
-"PHI200305270",42,"Mets Roberto Alomar left the game due to an injured leg"2003PHI.EVN.regular.comment.csv",11
-
-"PHI200306030",0,"41 minute delay during game"2003PHI.EVN.regular.comment.csv",12
-
-"PHI200306030",42,"Mariners Jeff Cirillo left the game due to an injured knee; Cirillo ran into fence chasing Bell's foul in bottom 4th"2003PHI.EVN.regular.comment.csv",13
-
-"PHI200306040",0,"48 minute delay during game"2003PHI.EVN.regular.comment.csv",14
-
-"PHI200306081",38,"Athletics Chris Singleton left the game due to an injured back"2003PHI.EVN.regular.comment.csv",15
-
-"PHI200306170",44,"ej,cox-b103,M,culbf901,Balls and strikes (Foul tip non-call) $Braves manager Cox ejected by 1B umpire Culbreth for arguing that 2-2 pitch to Bell was a foul tip caught for strike 3; umpire initially agreed, but Phillies manager Bowa challenged that; umpires consulted and changed call, leading to Cox ejection"2003PHI.EVN.regular.comment.csv",16
-
-"PHI200306190",67,"ej,bowal001,M,craft901,Balls and strikes Phillies manager Larry Bowa ejected by HP umpire Terry Craft after 1-2 pitch to Lopez"2003PHI.EVN.regular.comment.csv",17
-
-"PHI200307040",58,"ej,bowal001,M,tscht901,Balls and strikes Phillies Manager Larry Bowa ejected by HP umpire Tim Tschida"2003PHI.EVN.regular.comment.csv",18
-
-"PHI200307170",81,"Expos Rocky Biddle left the game due to an injured back"2003PHI.EVN.regular.comment.csv",19
-
-"PHI200307290",18,"$Dave Roberts called for interference"2003PHI.EVN.regular.comment.csv",20
-
-"PHI200307310",0,"Steady rain fell throughout game, hard in 5th and 6th"2003PHI.EVN.regular.comment.csv",21
-
-"PHI200308030",57,"originally D9, changed to E9 on 9-04-2003!"2003PHI.EVN.regular.comment.csv",22
-
-"PHI200308170",73,"ej,larut101,M,davig901,Demanding ejection after HBP Cardinals Manager Tony Larussa ejected by 3B umpire Gerry Davis"2003PHI.EVN.regular.comment.csv",23
-
-"PHI200309010",70,"Throw dropped at 3rd and Lieberthal then went to 2nd"2003PHI.EVN.regular.comment.csv",24
-
-"PHI200309020",77,"ej,vidrj001,P,fichm901,Balls and strikes Expos Jose Vidro ejected by HP umpire Mike Fichter"2003PHI.EVN.regular.comment.csv",25
-
-"PHI200309030",8,"ej,bowal001,M,marqa901,Balls and strikes Phillies Manager Larry Bowa ejected by HP umpire Alfonso Marquez"2003PHI.EVN.regular.comment.csv",26
-
-"PHI200309170",76,"ej,bowal001,M,barkl901,Warning to pitcher HP umpire Lance Barksdale warned both teams; Phillies Manager Larry Bowa argued and was ejected by Barksdale"2003PHI.EVN.regular.comment.csv",27
-
-"PHI200309180",0,"$Game was scheduled for 7:05, but was moved to 1:05 in anticipation of Hurricane Isabel"2003PHI.EVN.regular.comment.csv",28
-
-"PHI200309270",0,"8 minute delay during game"2003PHI.EVN.regular.comment.csv",29
-
-"PHI200309270",48,"Debut game for Ryan Madson"2003PHI.EVN.regular.comment.csv",30
-
-"PHI200309270",61,"Debut game for Andy Machado"2003PHI.EVN.regular.comment.csv",31
-
-"PHI200309280",0,"2 minute delay during game"2003PHI.EVN.regular.comment.csv",32
-
-"PHI200309280",27,"Strange. Ball went past 1st baseman, hit runner, bounced back to 1st baseman who beat Rollins to bag"2003PHI.EVN.regular.comment.csv",33
-
-"PHI200309280",32,"The pitch to DeRosa hit his hand, but it was ruled a swing.  He left in much pain, X-rays showed no break"2003PHI.EVN.regular.comment.csv",34
-
+"PHI200304040",21,"Debut game for Chase Utley","FILENAME_TX","LINE_NUMBER_CT"
+"PHI200304050",30,"Phillies Kevin Millwood left the game due to an injured groin","2003PHI.EVN.regular.comment.csv",2
+"PHI200304060",49,"ej,bowal001,M,millb901,Call at 1B $Phillies manager Larry Bowa argued with 1B umpire Bill Miller about the call on Bobby Abreu; Bowa told Miller that he had missed two plays in the game; Bowa was ejected by Miller","2003PHI.EVN.regular.comment.csv",3
+"PHI200304080",45,"ej,cox-b103,M,danlk901,Called third strike on Sheffield ej,shefg001,P,danlk901,Called third strike Gary Sheffield and manager Bobby Cox ejected by HP umpire Kerwin Danley","2003PHI.EVN.regular.comment.csv",4
+"PHI200304140",48,"Phillies Vicente Padilla left the game due to an injured arm","2003PHI.EVN.regular.comment.csv",5
+"PHI200304260",1,"Debut game for Jerome Williams","2003PHI.EVN.regular.comment.csv",6
+"PHI200304260",31,"Giants Benito left with injured arm from HP","2003PHI.EVN.regular.comment.csv",7
+"PHI200305100",8,"Astros Wade Miller left the game due to an injured leg","2003PHI.EVN.regular.comment.csv",8
+"PHI200305130",54,"ej,gracm001,P,hollm901,Called third strike Diamondbacks Mark Grace ejected by HP umpire Matt Hollowell","2003PHI.EVN.regular.comment.csv",9
+"PHI200305130",55,"Houston broke finger fouling off bunt, then got a hit; onto DL next day, pin in finger","2003PHI.EVN.regular.comment.csv",10
+"PHI200305270",42,"Mets Roberto Alomar left the game due to an injured leg","2003PHI.EVN.regular.comment.csv",11
+"PHI200306030",0,"41 minute delay during game","2003PHI.EVN.regular.comment.csv",12
+"PHI200306030",42,"Mariners Jeff Cirillo left the game due to an injured knee; Cirillo ran into fence chasing Bell's foul in bottom 4th","2003PHI.EVN.regular.comment.csv",13
+"PHI200306040",0,"48 minute delay during game","2003PHI.EVN.regular.comment.csv",14
+"PHI200306081",38,"Athletics Chris Singleton left the game due to an injured back","2003PHI.EVN.regular.comment.csv",15
+"PHI200306170",44,"ej,cox-b103,M,culbf901,Balls and strikes (Foul tip non-call) $Braves manager Cox ejected by 1B umpire Culbreth for arguing that 2-2 pitch to Bell was a foul tip caught for strike 3; umpire initially agreed, but Phillies manager Bowa challenged that; umpires consulted and changed call, leading to Cox ejection","2003PHI.EVN.regular.comment.csv",16
+"PHI200306190",67,"ej,bowal001,M,craft901,Balls and strikes Phillies manager Larry Bowa ejected by HP umpire Terry Craft after 1-2 pitch to Lopez","2003PHI.EVN.regular.comment.csv",17
+"PHI200307040",58,"ej,bowal001,M,tscht901,Balls and strikes Phillies Manager Larry Bowa ejected by HP umpire Tim Tschida","2003PHI.EVN.regular.comment.csv",18
+"PHI200307170",81,"Expos Rocky Biddle left the game due to an injured back","2003PHI.EVN.regular.comment.csv",19
+"PHI200307290",18,"$Dave Roberts called for interference","2003PHI.EVN.regular.comment.csv",20
+"PHI200307310",0,"Steady rain fell throughout game, hard in 5th and 6th","2003PHI.EVN.regular.comment.csv",21
+"PHI200308030",57,"originally D9, changed to E9 on 9-04-2003!","2003PHI.EVN.regular.comment.csv",22
+"PHI200308170",73,"ej,larut101,M,davig901,Demanding ejection after HBP Cardinals Manager Tony Larussa ejected by 3B umpire Gerry Davis","2003PHI.EVN.regular.comment.csv",23
+"PHI200309010",70,"Throw dropped at 3rd and Lieberthal then went to 2nd","2003PHI.EVN.regular.comment.csv",24
+"PHI200309020",77,"ej,vidrj001,P,fichm901,Balls and strikes Expos Jose Vidro ejected by HP umpire Mike Fichter","2003PHI.EVN.regular.comment.csv",25
+"PHI200309030",8,"ej,bowal001,M,marqa901,Balls and strikes Phillies Manager Larry Bowa ejected by HP umpire Alfonso Marquez","2003PHI.EVN.regular.comment.csv",26
+"PHI200309170",76,"ej,bowal001,M,barkl901,Warning to pitcher HP umpire Lance Barksdale warned both teams; Phillies Manager Larry Bowa argued and was ejected by Barksdale","2003PHI.EVN.regular.comment.csv",27
+"PHI200309180",0,"$Game was scheduled for 7:05, but was moved to 1:05 in anticipation of Hurricane Isabel","2003PHI.EVN.regular.comment.csv",28
+"PHI200309270",0,"8 minute delay during game","2003PHI.EVN.regular.comment.csv",29
+"PHI200309270",48,"Debut game for Ryan Madson","2003PHI.EVN.regular.comment.csv",30
+"PHI200309270",61,"Debut game for Andy Machado","2003PHI.EVN.regular.comment.csv",31
+"PHI200309280",0,"2 minute delay during game","2003PHI.EVN.regular.comment.csv",32
+"PHI200309280",27,"Strange. Ball went past 1st baseman, hit runner, bounced back to 1st baseman who beat Rollins to bag","2003PHI.EVN.regular.comment.csv",33
+"PHI200309280",32,"The pitch to DeRosa hit his hand, but it was ruled a swing.  He left in much pain, X-rays showed no break","2003PHI.EVN.regular.comment.csv",34

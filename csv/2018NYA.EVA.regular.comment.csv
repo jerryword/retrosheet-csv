@@ -1,688 +1,344 @@
-"NYA201804050",61,"$Yankees challenged call that 7th pitch was a ball, claiming Gardner had been hit; call was upheld - ball, not hit by pitch"FILENAME_TX","LINE_NUMBER_CT"
-
-"NYA201804060",34,"$CC Sabathia left game with injured hip"2018NYA.EVA.regular.comment.csv",2
-
-"NYA201804060",53,"$Stanton got in rundown while Sanchez went to 3rd; Stanton ran past 3rd base down the line and was tagged; Orioles argued that it should be double play because Sanchez had passed Stanton; 3b umpire Kulpa ruled Stanton was out for abandoning the play, so no dp; Crew chief Meals agreed later that Kulpa was incorrect and Sanchez should have been out for passing Stanton; relevant rule is 5.06b"2018NYA.EVA.regular.comment.csv",3
-
-"NYA201804060",93,"$Yankees challenged call that Torreyes was out at first to complete double play; call was overturned - forcout, no DP"2018NYA.EVA.regular.comment.csv",4
-
-"NYA201804060",95,"$Umpire review of play at plate to be sure there was no obstruction; call was upheld - out at home"2018NYA.EVA.regular.comment.csv",5
-
-"NYA201804080",50,"$Yankees challenged call that Peterson was out at first; call was overturned - single to shortstop"2018NYA.EVA.regular.comment.csv",6
-
-"NYA201804170",13,"$originally scored as single with advance to second on error by 1bman; changed on 04-25-2018 to remove single; run later scored by Maybin now unearned"2018NYA.EVA.regular.comment.csv",7
-
-"NYA201804170",61,"$Marlins challenged call that Gardner was safe at 1st; call was overturned - ground out"2018NYA.EVA.regular.comment.csv",8
-
-"NYA201804220",65,"$Yankees challenged call that Austin was out at first; call was upheld - ground out"2018NYA.EVA.regular.comment.csv",9
-
-"NYA201804250",85,"$Twins challenged call that Escobar was out at first; call was upheld - ground out"2018NYA.EVA.regular.comment.csv",10
-
-"NYA201804260",2,"$Twins challenged call that Mauer was out at first to complete DP; call was overturned - force out, no DP"2018NYA.EVA.regular.comment.csv",11
-
-"NYA201804260",29,"$Twins challenged call that Gardner was safe at first on pickoff attempt after 2nd pitch; call was overturned - out on pickoff"2018NYA.EVA.regular.comment.csv",12
-
-"NYA201805040",29,"$Indians challenged call that Ramirez was out at 3rd; call was upheld - out on caught stealing"2018NYA.EVA.regular.comment.csv",13
-
-"NYA201805040",67,"ej,alony001,P,timmt901,Arguing called strike $Yonder Alonso ejected by plate umpire Timmons for arguing the called strike on his next to last pitch"2018NYA.EVA.regular.comment.csv",14
-
-"NYA201805100",13,"$Yankees challenged call that Vazquez was safe at first; call was overturned - ground out"2018NYA.EVA.regular.comment.csv",15
-
-"NYA201805120",80,"$Yankees challenged call that Olson was safe at home; call was overturned - out at home for double play"2018NYA.EVA.regular.comment.csv",16
-
-"NYA201805250",12,"$Yankees challenged call that Gregorius was out at first to complete double play; call was overturned - force out, no DP"2018NYA.EVA.regular.comment.csv",17
-
-"NYA201805260",51,"$Justin Upton left with an injured arm"2018NYA.EVA.regular.comment.csv",18
-
-"NYA201805280",15,"$Yankees challenged call that third pitch to Hicks was a ball, claiming it hit him; call was overturned - hit by pitch"2018NYA.EVA.regular.comment.csv",19
-
-"NYA201805300",58,"$runner interference"2018NYA.EVA.regular.comment.csv",20
-
-"NYA201806120",48,"$Yankees challenged call that Taylor was safe at 2nd on stolen base; call was overturned - out on caught stealing"2018NYA.EVA.regular.comment.csv",21
-
-"NYA201806130",23,"$Nationals challenged call that Turner was out at 1st; call was upheld - out on pickoff"2018NYA.EVA.regular.comment.csv",22
-
-"NYA201806130",62,"$Umpire review of play at second; call was upheld - out on caught stealing"2018NYA.EVA.regular.comment.csv",23
-
-"NYA201806160",3,"$Yankees challenged call that Bauers was safe at second on stolen base; call was overturned - on caught stealing for double play"2018NYA.EVA.regular.comment.csv",24
-
-"NYA201806300",57,"$Umpire review of ball hit by Devers; call was upheld - double, not home run"2018NYA.EVA.regular.comment.csv",25
-
-"NYA201806300",73,"$Red Sox challenged call that third pitch to Holt was hit foul in the outfield; call was upheld - foul ball"2018NYA.EVA.regular.comment.csv",26
-
-"NYA201807020",27,"Mound Visit"2018NYA.EVA.regular.comment.csv",27
-
-"NYA201807020",28,"Mound Visit"2018NYA.EVA.regular.comment.csv",28
-
-"NYA201807020",43,"Mound Visit"2018NYA.EVA.regular.comment.csv",29
-
-"NYA201807020",58,"Mound Visit"2018NYA.EVA.regular.comment.csv",30
-
-"NYA201807020",84,"Mound Visit"2018NYA.EVA.regular.comment.csv",31
-
-"NYA201807030",14,"Mound Visit"2018NYA.EVA.regular.comment.csv",32
-
-"NYA201807030",27,"Mound Visit"2018NYA.EVA.regular.comment.csv",33
-
-"NYA201807030",31,"Mound Visit"2018NYA.EVA.regular.comment.csv",34
-
-"NYA201807030",48,"Mound Visit"2018NYA.EVA.regular.comment.csv",35
-
-"NYA201807030",50,"Mound Visit"2018NYA.EVA.regular.comment.csv",36
-
-"NYA201807030",64,"Mound Visit"2018NYA.EVA.regular.comment.csv",37
-
-"NYA201807030",69,"Injury Delay"2018NYA.EVA.regular.comment.csv",38
-
-"NYA201807030",77,"Mound Visit"2018NYA.EVA.regular.comment.csv",39
-
-"NYA201807030",77,"Injury Delay"2018NYA.EVA.regular.comment.csv",40
-
-"NYA201807040",31,"$Freddie Freeman left with an injured arm"2018NYA.EVA.regular.comment.csv",41
-
-"NYA201807040",36,"Mound Visit"2018NYA.EVA.regular.comment.csv",42
-
-"NYA201807040",37,"$Gleyber Torres left with an injured leg"2018NYA.EVA.regular.comment.csv",43
-
-"NYA201807040",41,"Mound Visit"2018NYA.EVA.regular.comment.csv",44
-
-"NYA201807040",51,"Mound Visit"2018NYA.EVA.regular.comment.csv",45
-
-"NYA201807040",59,"Mound Visit"2018NYA.EVA.regular.comment.csv",46
-
-"NYA201807200",6,"Mound Visit"2018NYA.EVA.regular.comment.csv",47
-
-"NYA201807200",28,"Mound Visit"2018NYA.EVA.regular.comment.csv",48
-
-"NYA201807200",32,"Mound Visit"2018NYA.EVA.regular.comment.csv",49
-
-"NYA201807200",33,"Mound Visit"2018NYA.EVA.regular.comment.csv",50
-
-"NYA201807200",35,"$Yankees challenged that Bird was out at first; call was upheld - ground out"2018NYA.EVA.regular.comment.csv",51
-
-"NYA201807200",42,"Mound Visit"2018NYA.EVA.regular.comment.csv",52
-
-"NYA201807200",45,"Mound Visit"2018NYA.EVA.regular.comment.csv",53
-
-"NYA201807200",48,"Injury Delay"2018NYA.EVA.regular.comment.csv",54
-
-"NYA201807200",56,"Mound Visit"2018NYA.EVA.regular.comment.csv",55
-
-"NYA201807200",66,"Mound Visit"2018NYA.EVA.regular.comment.csv",56
-
-"NYA201807200",76,"Mound Visit"2018NYA.EVA.regular.comment.csv",57
-
-"NYA201807200",88,"Mound Visit"2018NYA.EVA.regular.comment.csv",58
-
-"NYA201807210",16,"ej,roesp801,C,vanol901,Arguing called third strike $Mets hitting coach Pat Roessler ejected by plate umpire Vanover for arguing called third strike"2018NYA.EVA.regular.comment.csv",59
-
-"NYA201807210",30,"$Fan interference"2018NYA.EVA.regular.comment.csv",60
-
-"NYA201807210",31,"Mound Visit"2018NYA.EVA.regular.comment.csv",61
-
-"NYA201807210",35,"Mound Visit"2018NYA.EVA.regular.comment.csv",62
-
-"NYA201807210",39,"ej,cabra002,P,wendh902,Arguing check swing strike three $Asdrubal Cabrera ejected by 3b umpire Wendelstedt for arguing check swing strike three"2018NYA.EVA.regular.comment.csv",63
-
-"NYA201807210",46,"Mound Visit"2018NYA.EVA.regular.comment.csv",64
-
-"NYA201807210",52,"Mound Visit"2018NYA.EVA.regular.comment.csv",65
-
-"NYA201807210",73,"Mound Visit"2018NYA.EVA.regular.comment.csv",66
-
-"NYA201807210",74,"Mound Visit"2018NYA.EVA.regular.comment.csv",67
-
-"NYA201807210",75,"Mound Visit"2018NYA.EVA.regular.comment.csv",68
-
-"NYA201807260",5,"Injury Delay $Hit on wrist, left 3 innings later, onto DL next day with chip fracture of the right ulnar styloid bone"2018NYA.EVA.regular.comment.csv",69
-
-"NYA201807260",21,"Mound Visit"2018NYA.EVA.regular.comment.csv",70
-
-"NYA201807260",33,"Mound Visit"2018NYA.EVA.regular.comment.csv",71
-
-"NYA201807260",34,"$Aaron Judge left with an injured wrist"2018NYA.EVA.regular.comment.csv",72
-
-"NYA201807260",38,"Injury Delay"2018NYA.EVA.regular.comment.csv",73
-
-"NYA201807260",39,"Mound Visit"2018NYA.EVA.regular.comment.csv",74
-
-"NYA201807260",46,"Mound Visit"2018NYA.EVA.regular.comment.csv",75
-
-"NYA201807260",48,"Mound Visit"2018NYA.EVA.regular.comment.csv",76
-
-"NYA201807260",72,"Mound Visit"2018NYA.EVA.regular.comment.csv",77
-
-"NYA201807260",74,"Injury Delay"2018NYA.EVA.regular.comment.csv",78
-
-"NYA201807260",77,"Mound Visit"2018NYA.EVA.regular.comment.csv",79
-
-"NYA201807281",15,"Injury Delay"2018NYA.EVA.regular.comment.csv",80
-
-"NYA201807281",21,"Mound Visit"2018NYA.EVA.regular.comment.csv",81
-
-"NYA201807281",31,"Mound Visit"2018NYA.EVA.regular.comment.csv",82
-
-"NYA201807281",41,"Mound Visit"2018NYA.EVA.regular.comment.csv",83
-
-"NYA201807281",53,"Mound Visit"2018NYA.EVA.regular.comment.csv",84
-
-"NYA201807281",56,"Mound Visit"2018NYA.EVA.regular.comment.csv",85
-
-"NYA201807281",57,"Mound Visit"2018NYA.EVA.regular.comment.csv",86
-
-"NYA201807281",66,"Mound Visit"2018NYA.EVA.regular.comment.csv",87
-
-"NYA201807281",67,"Mound Visit"2018NYA.EVA.regular.comment.csv",88
-
-"NYA201807281",71,"Mound Visit"2018NYA.EVA.regular.comment.csv",89
-
-"NYA201807282",10,"Mound Visit"2018NYA.EVA.regular.comment.csv",90
-
-"NYA201807282",11,"Injury Delay"2018NYA.EVA.regular.comment.csv",91
-
-"NYA201807282",24,"On-field Delay"2018NYA.EVA.regular.comment.csv",92
-
-"NYA201807282",26,"Mound Visit"2018NYA.EVA.regular.comment.csv",93
-
-"NYA201807282",39,"Injury Delay"2018NYA.EVA.regular.comment.csv",94
-
-"NYA201807282",40,"Mound Visit"2018NYA.EVA.regular.comment.csv",95
-
-"NYA201807282",42,"Mound Visit"2018NYA.EVA.regular.comment.csv",96
-
-"NYA201807282",45,"Mound Visit"2018NYA.EVA.regular.comment.csv",97
-
-"NYA201807282",49,"Mound Visit"2018NYA.EVA.regular.comment.csv",98
-
-"NYA201807282",50,"Mound Visit"2018NYA.EVA.regular.comment.csv",99
-
-"NYA201807282",51,"Mound Visit"2018NYA.EVA.regular.comment.csv",100
-
-"NYA201807282",56,"Mound Visit"2018NYA.EVA.regular.comment.csv",101
-
-"NYA201807282",62,"Mound Visit"2018NYA.EVA.regular.comment.csv",102
-
-"NYA201807282",74,"Mound Visit"2018NYA.EVA.regular.comment.csv",103
-
-"NYA201807282",76,"Mound Visit Mound Visit"2018NYA.EVA.regular.comment.csv",104
-
-"NYA201807282",83,"Mound Visit"2018NYA.EVA.regular.comment.csv",105
-
-"NYA201807290",8,"Injury Delay"2018NYA.EVA.regular.comment.csv",106
-
-"NYA201807290",29,"Mound Visit"2018NYA.EVA.regular.comment.csv",107
-
-"NYA201807290",34,"Mound Visit"2018NYA.EVA.regular.comment.csv",108
-
-"NYA201807290",40,"Mound Visit"2018NYA.EVA.regular.comment.csv",109
-
-"NYA201807290",43,"$Yankees challenged call that Hicks was out at 2nd to start DP; call was overturned - ground out, no force or DP"2018NYA.EVA.regular.comment.csv",110
-
-"NYA201807290",44,"Mound Visit"2018NYA.EVA.regular.comment.csv",111
-
-"NYA201807290",56,"Mound Visit"2018NYA.EVA.regular.comment.csv",112
-
-"NYA201807290",62,"$Royals challenged call that Torres was safe at 2nd; call was overturned - out on caught stealing"2018NYA.EVA.regular.comment.csv",113
-
-"NYA201807310",26,"Mound Visit"2018NYA.EVA.regular.comment.csv",114
-
-"NYA201807310",42,"Mound Visit"2018NYA.EVA.regular.comment.csv",115
-
-"NYA201807310",49,"Mound Visit"2018NYA.EVA.regular.comment.csv",116
-
-"NYA201807310",63,"Mound Visit"2018NYA.EVA.regular.comment.csv",117
-
-"NYA201807310",65,"Mound Visit"2018NYA.EVA.regular.comment.csv",118
-
-"NYA201808010",5,"$Batter's interference"2018NYA.EVA.regular.comment.csv",119
-
-"NYA201808010",11,"Mound Visit"2018NYA.EVA.regular.comment.csv",120
-
-"NYA201808010",14,"Mound Visit"2018NYA.EVA.regular.comment.csv",121
-
-"NYA201808010",27,"Mound Visit"2018NYA.EVA.regular.comment.csv",122
-
-"NYA201808010",28,"Mound Visit"2018NYA.EVA.regular.comment.csv",123
-
-"NYA201808010",69,"Mound Visit"2018NYA.EVA.regular.comment.csv",124
-
-"NYA201808010",72,"Mound Visit"2018NYA.EVA.regular.comment.csv",125
-
-"NYA201808010",76,"Mound Visit"2018NYA.EVA.regular.comment.csv",126
-
-"NYA201808010",82,"Mound Visit"2018NYA.EVA.regular.comment.csv",127
-
-"NYA201808090",7,"Mound Visit"2018NYA.EVA.regular.comment.csv",128
-
-"NYA201808090",31,"Mound Visit"2018NYA.EVA.regular.comment.csv",129
-
-"NYA201808090",68,"Mound Visit"2018NYA.EVA.regular.comment.csv",130
-
-"NYA201808090",69,"Mound Visit"2018NYA.EVA.regular.comment.csv",131
-
-"NYA201808090",69,"Mound Visit"2018NYA.EVA.regular.comment.csv",132
-
-"NYA201808100",34,"$Rangers challenged call that Robinson was out at second; call was overturned - stolen base"2018NYA.EVA.regular.comment.csv",133
-
-"NYA201808100",44,"Mound Visit"2018NYA.EVA.regular.comment.csv",134
-
-"NYA201808100",48,"Mound Visit"2018NYA.EVA.regular.comment.csv",135
-
-"NYA201808100",50,"Mound Visit"2018NYA.EVA.regular.comment.csv",136
-
-"NYA201808100",55,"Mound Visit"2018NYA.EVA.regular.comment.csv",137
-
-"NYA201808100",56,"Mound Visit"2018NYA.EVA.regular.comment.csv",138
-
-"NYA201808100",57,"Mound Visit"2018NYA.EVA.regular.comment.csv",139
-
-"NYA201808100",76,"Mound Visit"2018NYA.EVA.regular.comment.csv",140
-
-"NYA201808100",80,"Mound Visit"2018NYA.EVA.regular.comment.csv",141
-
-"NYA201808110",37,"Mound Visit"2018NYA.EVA.regular.comment.csv",142
-
-"NYA201808110",42,"Mound Visit"2018NYA.EVA.regular.comment.csv",143
-
-"NYA201808110",51,"Mound Visit"2018NYA.EVA.regular.comment.csv",144
-
-"NYA201808110",59,"Mound Visit"2018NYA.EVA.regular.comment.csv",145
-
-"NYA201808110",60,"Mound Visit"2018NYA.EVA.regular.comment.csv",146
-
-"NYA201808110",62,"Mound Visit"2018NYA.EVA.regular.comment.csv",147
-
-"NYA201808110",63,"Mound Visit"2018NYA.EVA.regular.comment.csv",148
-
-"NYA201808110",78,"Injury Delay"2018NYA.EVA.regular.comment.csv",149
-
-"NYA201808120",2,"Injury Delay"2018NYA.EVA.regular.comment.csv",150
-
-"NYA201808120",39,"Mound Visit"2018NYA.EVA.regular.comment.csv",151
-
-"NYA201808120",48,"Mound Visit"2018NYA.EVA.regular.comment.csv",152
-
-"NYA201808120",56,"$Yankees challenged call that DeShields was safe at first; call was upheld - single"2018NYA.EVA.regular.comment.csv",153
-
-"NYA201808120",57,"Mound Visit"2018NYA.EVA.regular.comment.csv",154
-
-"NYA201808120",63,"Mound Visit"2018NYA.EVA.regular.comment.csv",155
-
-"NYA201808130",13,"Injury Delay"2018NYA.EVA.regular.comment.csv",156
-
-"NYA201808130",42,"$Yankees challenged call that Conforto was safe at 2nd; call was overturned - out on caught stealing"2018NYA.EVA.regular.comment.csv",157
-
-"NYA201808130",58,"Mound Visit"2018NYA.EVA.regular.comment.csv",158
-
-"NYA201808130",63,"Mound Visit"2018NYA.EVA.regular.comment.csv",159
-
-"NYA201808130",72,"Mound Visit"2018NYA.EVA.regular.comment.csv",160
-
-"NYA201808130",77,"$Mets challenged call that Flores was out at second; call was upheld - force out"2018NYA.EVA.regular.comment.csv",161
-
-"NYA201808140",11,"Mound Visit"2018NYA.EVA.regular.comment.csv",162
-
-"NYA201808140",39,"Mound Visit"2018NYA.EVA.regular.comment.csv",163
-
-"NYA201808150",7,"$Yankees challenged call that Hicks was out at first; call was overturned - single"2018NYA.EVA.regular.comment.csv",164
-
-"NYA201808150",20,"Mound Visit"2018NYA.EVA.regular.comment.csv",165
-
-"NYA201808150",24,"Mound Visit"2018NYA.EVA.regular.comment.csv",166
-
-"NYA201808150",32,"Mound Visit"2018NYA.EVA.regular.comment.csv",167
-
-"NYA201808150",35,"Mound Visit"2018NYA.EVA.regular.comment.csv",168
-
-"NYA201808150",37,"Mound Visit"2018NYA.EVA.regular.comment.csv",169
-
-"NYA201808150",40,"$Rays challenged call that Torres was sage at first; call was overturne - ground out"2018NYA.EVA.regular.comment.csv",170
-
-"NYA201808150",42,"Mound Visit"2018NYA.EVA.regular.comment.csv",171
-
-"NYA201808150",68,"Mound Visit"2018NYA.EVA.regular.comment.csv",172
-
-"NYA201808150",69,"$Yankees challenged call that Smith was safe at second; call was overturned - out on caught stealing"2018NYA.EVA.regular.comment.csv",173
-
-"NYA201808150",81,"Mound Visit"2018NYA.EVA.regular.comment.csv",174
-
-"NYA201808160",13,"Mound Visit"2018NYA.EVA.regular.comment.csv",175
-
-"NYA201808160",46,"$Yankees challenged call that Hicks was out at 1st; call was overturne - single"2018NYA.EVA.regular.comment.csv",176
-
-"NYA201808160",49,"Mound Visit"2018NYA.EVA.regular.comment.csv",177
-
-"NYA201808160",64,"Mound Visit"2018NYA.EVA.regular.comment.csv",178
-
-"NYA201808160",65,"Injury Delay"2018NYA.EVA.regular.comment.csv",179
-
-"NYA201808160",66,"On-field Delay Mound Visit $Umpire review of ball hit by Stanton; call was overturne - double, not home run; Yankees argued he should have been allowed to third for triple"2018NYA.EVA.regular.comment.csv",180
-
-"NYA201808160",74,"Mound Visit"2018NYA.EVA.regular.comment.csv",181
-
-"NYA201808170",8,"Mound Visit"2018NYA.EVA.regular.comment.csv",182
-
-"NYA201808170",15,"Mound Visit"2018NYA.EVA.regular.comment.csv",183
-
-"NYA201808170",41,"Mound Visit"2018NYA.EVA.regular.comment.csv",184
-
-"NYA201808170",49,"Mound Visit"2018NYA.EVA.regular.comment.csv",185
-
-"NYA201808170",61,"$Game called for rain"2018NYA.EVA.regular.comment.csv",186
-
-"NYA201808180",18,"Mound Visit"2018NYA.EVA.regular.comment.csv",187
-
-"NYA201808180",28,"Mound Visit"2018NYA.EVA.regular.comment.csv",188
-
-"NYA201808180",42,"Injury Delay"2018NYA.EVA.regular.comment.csv",189
-
-"NYA201808180",43,"Mound Visit"2018NYA.EVA.regular.comment.csv",190
-
-"NYA201808180",48,"Mound Visit"2018NYA.EVA.regular.comment.csv",191
-
-"NYA201808180",53,"Mound Visit"2018NYA.EVA.regular.comment.csv",192
-
-"NYA201808180",56,"Mound Visit"2018NYA.EVA.regular.comment.csv",193
-
-"NYA201808180",58,"Mound Visit"2018NYA.EVA.regular.comment.csv",194
-
-"NYA201808180",69,"Mound Visit"2018NYA.EVA.regular.comment.csv",195
-
-"NYA201808180",77,"Mound Visit"2018NYA.EVA.regular.comment.csv",196
-
-"NYA201808180",79,"Mound Visit"2018NYA.EVA.regular.comment.csv",197
-
-"NYA201808190",10,"Mound Visit"2018NYA.EVA.regular.comment.csv",198
-
-"NYA201808190",11,"Injury Delay"2018NYA.EVA.regular.comment.csv",199
-
-"NYA201808190",15,"Mound Visit"2018NYA.EVA.regular.comment.csv",200
-
-"NYA201808190",24,"$Didi Gregorius left with an injured ankle, hurt in first inning collision at first base on his single"2018NYA.EVA.regular.comment.csv",201
-
-"NYA201808190",51,"Mound Visit"2018NYA.EVA.regular.comment.csv",202
-
-"NYA201808190",57,"$Blue Jays challenged call at first, claiming Andujar was out to complete double play; call was upheld - force out, no DP"2018NYA.EVA.regular.comment.csv",203
-
-"NYA201808190",60,"On-field Delay ej,gibbj001,M,viscj901,Arguing call at first $Toronto manager Gibbons ejected by 1b umpire Visconti for arguing call at first"2018NYA.EVA.regular.comment.csv",204
-
-"NYA201808190",61,"Mound Visit"2018NYA.EVA.regular.comment.csv",205
-
-"NYA201808190",80,"Mound Visit"2018NYA.EVA.regular.comment.csv",206
-
-"NYA201808270",18,"$White Sox challenged call that Engel was out at 2nd; call was upheld - out on caught stealing"2018NYA.EVA.regular.comment.csv",207
-
-"NYA201808270",26,"Mound Visit"2018NYA.EVA.regular.comment.csv",208
-
-"NYA201808270",27,"Mound Visit"2018NYA.EVA.regular.comment.csv",209
-
-"NYA201808270",54,"Mound Visit"2018NYA.EVA.regular.comment.csv",210
-
-"NYA201808270",57,"Mound Visit"2018NYA.EVA.regular.comment.csv",211
-
-"NYA201808270",70,"$Run orignally scored as earned, changed to unearned on 08-28-2018"2018NYA.EVA.regular.comment.csv",212
-
-"NYA201808270",77,"Mound Visit"2018NYA.EVA.regular.comment.csv",213
-
-"NYA201808280",36,"Mound Visit"2018NYA.EVA.regular.comment.csv",214
-
-"NYA201808280",46,"Mound Visit"2018NYA.EVA.regular.comment.csv",215
-
-"NYA201808280",54,"Mound Visit"2018NYA.EVA.regular.comment.csv",216
-
-"NYA201808280",55,"Mound Visit"2018NYA.EVA.regular.comment.csv",217
-
-"NYA201808280",67,"Mound Visit"2018NYA.EVA.regular.comment.csv",218
-
-"NYA201808290",12,"Mound Visit"2018NYA.EVA.regular.comment.csv",219
-
-"NYA201808290",14,"Injury Delay"2018NYA.EVA.regular.comment.csv",220
-
-"NYA201808290",36,"Mound Visit"2018NYA.EVA.regular.comment.csv",221
-
-"NYA201808290",39,"Mound Visit"2018NYA.EVA.regular.comment.csv",222
-
-"NYA201808290",52,"Injury Delay"2018NYA.EVA.regular.comment.csv",223
-
-"NYA201808300",31,"Mound Visit"2018NYA.EVA.regular.comment.csv",224
-
-"NYA201808300",36,"Mound Visit"2018NYA.EVA.regular.comment.csv",225
-
-"NYA201808300",42,"Mound Visit"2018NYA.EVA.regular.comment.csv",226
-
-"NYA201808300",43,"Mound Visit"2018NYA.EVA.regular.comment.csv",227
-
-"NYA201808300",48,"Mound Visit"2018NYA.EVA.regular.comment.csv",228
-
-"NYA201808300",53,"Mound Visit"2018NYA.EVA.regular.comment.csv",229
-
-"NYA201808300",57,"Mound Visit"2018NYA.EVA.regular.comment.csv",230
-
-"NYA201808300",58,"Mound Visit"2018NYA.EVA.regular.comment.csv",231
-
-"NYA201808300",79,"Mound Visit"2018NYA.EVA.regular.comment.csv",232
-
-"NYA201808310",36,"ej,boona001,M,lentn901,Arguing balls and strikes $New York manager Boone ejected by plate umpire Lentz for arguing balls and strikes"2018NYA.EVA.regular.comment.csv",233
-
-"NYA201808310",46,"Mound Visit"2018NYA.EVA.regular.comment.csv",234
-
-"NYA201808310",50,"Mound Visit"2018NYA.EVA.regular.comment.csv",235
-
-"NYA201808310",51,"Mound Visit"2018NYA.EVA.regular.comment.csv",236
-
-"NYA201808310",59,"Mound Visit"2018NYA.EVA.regular.comment.csv",237
-
-"NYA201808310",61,"Mound Visit"2018NYA.EVA.regular.comment.csv",238
-
-"NYA201808310",64,"Mound Visit"2018NYA.EVA.regular.comment.csv",239
-
-"NYA201808310",65,"Mound Visit"2018NYA.EVA.regular.comment.csv",240
-
-"NYA201808310",66,"Mound Visit"2018NYA.EVA.regular.comment.csv",241
-
-"NYA201808310",67,"Mound Visit"2018NYA.EVA.regular.comment.csv",242
-
-"NYA201808310",67,"ej,gardr001,M,nauep901,Arguing check swing $Detroit manager Gardenhire ejected by 1b umpire Nauert for arguing check swing"2018NYA.EVA.regular.comment.csv",243
-
-"NYA201808310",73,"Mound Visit"2018NYA.EVA.regular.comment.csv",244
-
-"NYA201809010",14,"$Tigers challenged call that Sanchez was safe at 1st on error; call was overturned - ground out"2018NYA.EVA.regular.comment.csv",245
-
-"NYA201809010",36,"Mound Visit Injury Delay"2018NYA.EVA.regular.comment.csv",246
-
-"NYA201809010",36,"$Daniel Norris left with an injured leg"2018NYA.EVA.regular.comment.csv",247
-
-"NYA201809010",40,"Mound Visit"2018NYA.EVA.regular.comment.csv",248
-
-"NYA201809010",50,"Mound Visit"2018NYA.EVA.regular.comment.csv",249
-
-"NYA201809010",52,"Mound Visit"2018NYA.EVA.regular.comment.csv",250
-
-"NYA201809010",55,"Mound Visit"2018NYA.EVA.regular.comment.csv",251
-
-"NYA201809010",65,"Mound Visit"2018NYA.EVA.regular.comment.csv",252
-
-"NYA201809010",68,"Injury Delay"2018NYA.EVA.regular.comment.csv",253
-
-"NYA201809020",17,"Mound Visit"2018NYA.EVA.regular.comment.csv",254
-
-"NYA201809020",31,"Mound Visit"2018NYA.EVA.regular.comment.csv",255
-
-"NYA201809020",33,"Mound Visit"2018NYA.EVA.regular.comment.csv",256
-
-"NYA201809020",58,"$3bman had to wait for Goodrum to go past him and Goodrum was called out for interference"2018NYA.EVA.regular.comment.csv",257
-
-"NYA201809020",64,"$Yankees challegned call that Reyes was safe at 1st; call was overturned - out on pickoff"2018NYA.EVA.regular.comment.csv",258
-
-"NYA201809020",67,"Mound Visit"2018NYA.EVA.regular.comment.csv",259
-
-"NYA201809020",70,"Mound Visit"2018NYA.EVA.regular.comment.csv",260
-
-"NYA201809020",71,"Mound Visit"2018NYA.EVA.regular.comment.csv",261
-
-"NYA201809020",72,"Injury Delay"2018NYA.EVA.regular.comment.csv",262
-
-"NYA201809020",78,"Mound Visit"2018NYA.EVA.regular.comment.csv",263
-
-"NYA201809020",87,"Mound Visit"2018NYA.EVA.regular.comment.csv",264
-
-"NYA201809140",7,"Mound Visit"2018NYA.EVA.regular.comment.csv",265
-
-"NYA201809140",11,"Mound Visit"2018NYA.EVA.regular.comment.csv",266
-
-"NYA201809140",29,"Mound Visit"2018NYA.EVA.regular.comment.csv",267
-
-"NYA201809140",45,"Mound Visit"2018NYA.EVA.regular.comment.csv",268
-
-"NYA201809140",60,"Mound Visit"2018NYA.EVA.regular.comment.csv",269
-
-"NYA201809140",62,"Mound Visit"2018NYA.EVA.regular.comment.csv",270
-
-"NYA201809140",81,"Mound Visit"2018NYA.EVA.regular.comment.csv",271
-
-"NYA201809150",9,"$Blue Jays challenged call that Hernandez was out at 1st; call was overturned - single"2018NYA.EVA.regular.comment.csv",272
-
-"NYA201809150",17,"Mound Visit On-field Delay"2018NYA.EVA.regular.comment.csv",273
-
-"NYA201809150",18,"ej,maill001,P,ortir901,Arguing balls and strikes ej,gibbj001,M,ortir901,Arguing balls and strikes $Toronto catcher Maile ejected from dugout by plate umpire Ortiz for arguing balls and strikes; Toronto manager Gibbons then ejected by Ortiz"2018NYA.EVA.regular.comment.csv",274
-
-"NYA201809150",24,"Mound Visit"2018NYA.EVA.regular.comment.csv",275
-
-"NYA201809150",35,"Mound Visit"2018NYA.EVA.regular.comment.csv",276
-
-"NYA201809150",43,"Mound Visit"2018NYA.EVA.regular.comment.csv",277
-
-"NYA201809150",44,"$Blue Jays challenged call that Jansen was out at 1st; call was overturned - safe on error"2018NYA.EVA.regular.comment.csv",278
-
-"NYA201809150",54,"Injury Delay"2018NYA.EVA.regular.comment.csv",279
-
-"NYA201809150",56,"Mound Visit"2018NYA.EVA.regular.comment.csv",280
-
-"NYA201809150",58,"Mound Visit"2018NYA.EVA.regular.comment.csv",281
-
-"NYA201809150",61,"Mound Visit"2018NYA.EVA.regular.comment.csv",282
-
-"NYA201809150",62,"Mound Visit"2018NYA.EVA.regular.comment.csv",283
-
-"NYA201809150",65,"Mound Visit"2018NYA.EVA.regular.comment.csv",284
-
-"NYA201809150",68,"Mound Visit"2018NYA.EVA.regular.comment.csv",285
-
-"NYA201809150",72,"Mound Visit"2018NYA.EVA.regular.comment.csv",286
-
-"NYA201809150",73,"Mound Visit"2018NYA.EVA.regular.comment.csv",287
-
-"NYA201809150",82,"On-field Delay"2018NYA.EVA.regular.comment.csv",288
-
-"NYA201809150",83,"Mound Visit"2018NYA.EVA.regular.comment.csv",289
-
-"NYA201809160",23,"$Yankees challenged call that Stanton was out returning to 1st; call was upheld - out to complete double play"2018NYA.EVA.regular.comment.csv",290
-
-"NYA201809160",51,"Mound Visit"2018NYA.EVA.regular.comment.csv",291
-
-"NYA201809160",57,"Mound Visit"2018NYA.EVA.regular.comment.csv",292
-
-"NYA201809180",20,"Mound Visit"2018NYA.EVA.regular.comment.csv",293
-
-"NYA201809180",24,"Mound Visit"2018NYA.EVA.regular.comment.csv",294
-
-"NYA201809180",48,"Mound Visit"2018NYA.EVA.regular.comment.csv",295
-
-"NYA201809180",56,"Mound Visit"2018NYA.EVA.regular.comment.csv",296
-
-"NYA201809180",56,"Mound Visit"2018NYA.EVA.regular.comment.csv",297
-
-"NYA201809180",71,"Mound Visit"2018NYA.EVA.regular.comment.csv",298
-
-"NYA201809190",5,"Mound Visit"2018NYA.EVA.regular.comment.csv",299
-
-"NYA201809190",19,"Mound Visit"2018NYA.EVA.regular.comment.csv",300
-
-"NYA201809190",51,"Mound Visit $Umpire review of Voit's hit; call was upheld - home run"2018NYA.EVA.regular.comment.csv",301
-
-"NYA201809190",55,"Mound Visit"2018NYA.EVA.regular.comment.csv",302
-
-"NYA201809190",67,"$Sam Travis left with an injured head"2018NYA.EVA.regular.comment.csv",303
-
-"NYA201809190",75,"Mound Visit Injury Delay"2018NYA.EVA.regular.comment.csv",304
-
-"NYA201809190",77,"Mound Visit"2018NYA.EVA.regular.comment.csv",305
-
-"NYA201809200",9,"Mound Visit"2018NYA.EVA.regular.comment.csv",306
-
-"NYA201809200",15,"Mound Visit"2018NYA.EVA.regular.comment.csv",307
-
-"NYA201809200",30,"Mound Visit"2018NYA.EVA.regular.comment.csv",308
-
-"NYA201809200",39,"Mound Visit"2018NYA.EVA.regular.comment.csv",309
-
-"NYA201809200",40,"Mound Visit"2018NYA.EVA.regular.comment.csv",310
-
-"NYA201809200",44,"Mound Visit"2018NYA.EVA.regular.comment.csv",311
-
-"NYA201809200",57,"Mound Visit"2018NYA.EVA.regular.comment.csv",312
-
-"NYA201809200",60,"Mound Visit"2018NYA.EVA.regular.comment.csv",313
-
-"NYA201809200",69,"Mound Visit"2018NYA.EVA.regular.comment.csv",314
-
-"NYA201809200",71,"Mound Visit"2018NYA.EVA.regular.comment.csv",315
-
-"NYA201809200",75,"Mound Visit"2018NYA.EVA.regular.comment.csv",316
-
-"NYA201809200",77,"Mound Visit"2018NYA.EVA.regular.comment.csv",317
-
-"NYA201809200",81,"Mound Visit"2018NYA.EVA.regular.comment.csv",318
-
-"NYA201809210",31,"Mound Visit"2018NYA.EVA.regular.comment.csv",319
-
-"NYA201809210",36,"Mound Visit"2018NYA.EVA.regular.comment.csv",320
-
-"NYA201809210",37,"Mound Visit"2018NYA.EVA.regular.comment.csv",321
-
-"NYA201809210",42,"Mound Visit"2018NYA.EVA.regular.comment.csv",322
-
-"NYA201809210",44,"Mound Visit"2018NYA.EVA.regular.comment.csv",323
-
-"NYA201809210",55,"Mound Visit"2018NYA.EVA.regular.comment.csv",324
-
-"NYA201809210",58,"Mound Visit"2018NYA.EVA.regular.comment.csv",325
-
-"NYA201809210",59,"Mound Visit"2018NYA.EVA.regular.comment.csv",326
-
-"NYA201809210",64,"Mound Visit"2018NYA.EVA.regular.comment.csv",327
-
-"NYA201809210",71,"Mound Visit"2018NYA.EVA.regular.comment.csv",328
-
-"NYA201809210",73,"Mound Visit"2018NYA.EVA.regular.comment.csv",329
-
-"NYA201809210",75,"Mound Visit"2018NYA.EVA.regular.comment.csv",330
-
-"NYA201809220",38,"Mound Visit"2018NYA.EVA.regular.comment.csv",331
-
-"NYA201809220",43,"Mound Visit"2018NYA.EVA.regular.comment.csv",332
-
-"NYA201809220",46,"Mound Visit"2018NYA.EVA.regular.comment.csv",333
-
-"NYA201809220",71,"$Orioles challenged call that Peterson was out at 2nd; call was overturned - stolen base"2018NYA.EVA.regular.comment.csv",334
-
-"NYA201809220",76,"Mound Visit"2018NYA.EVA.regular.comment.csv",335
-
-"NYA201809220",80,"Mound Visit"2018NYA.EVA.regular.comment.csv",336
-
-"NYA201809220",91,"Injury Delay"2018NYA.EVA.regular.comment.csv",337
-
-"NYA201809230",3,"Injury Delay"2018NYA.EVA.regular.comment.csv",338
-
-"NYA201809230",5,"Mound Visit"2018NYA.EVA.regular.comment.csv",339
-
-"NYA201809230",39,"Injury Delay"2018NYA.EVA.regular.comment.csv",340
-
-"NYA201809230",40,"$Breyvic Valera left with an injured hand"2018NYA.EVA.regular.comment.csv",341
-
-"NYA201809230",46,"Mound Visit"2018NYA.EVA.regular.comment.csv",342
-
-"NYA201809230",59,"Mound Visit"2018NYA.EVA.regular.comment.csv",343
-
-"NYA201809230",68,"Mound Visit"2018NYA.EVA.regular.comment.csv",344
-
+"NYA201804050",61,"$Yankees challenged call that 7th pitch was a ball, claiming Gardner had been hit; call was upheld - ball, not hit by pitch","FILENAME_TX","LINE_NUMBER_CT"
+"NYA201804060",34,"$CC Sabathia left game with injured hip","2018NYA.EVA.regular.comment.csv",2
+"NYA201804060",53,"$Stanton got in rundown while Sanchez went to 3rd; Stanton ran past 3rd base down the line and was tagged; Orioles argued that it should be double play because Sanchez had passed Stanton; 3b umpire Kulpa ruled Stanton was out for abandoning the play, so no dp; Crew chief Meals agreed later that Kulpa was incorrect and Sanchez should have been out for passing Stanton; relevant rule is 5.06b","2018NYA.EVA.regular.comment.csv",3
+"NYA201804060",93,"$Yankees challenged call that Torreyes was out at first to complete double play; call was overturned - forcout, no DP","2018NYA.EVA.regular.comment.csv",4
+"NYA201804060",95,"$Umpire review of play at plate to be sure there was no obstruction; call was upheld - out at home","2018NYA.EVA.regular.comment.csv",5
+"NYA201804080",50,"$Yankees challenged call that Peterson was out at first; call was overturned - single to shortstop","2018NYA.EVA.regular.comment.csv",6
+"NYA201804170",13,"$originally scored as single with advance to second on error by 1bman; changed on 04-25-2018 to remove single; run later scored by Maybin now unearned","2018NYA.EVA.regular.comment.csv",7
+"NYA201804170",61,"$Marlins challenged call that Gardner was safe at 1st; call was overturned - ground out","2018NYA.EVA.regular.comment.csv",8
+"NYA201804220",65,"$Yankees challenged call that Austin was out at first; call was upheld - ground out","2018NYA.EVA.regular.comment.csv",9
+"NYA201804250",85,"$Twins challenged call that Escobar was out at first; call was upheld - ground out","2018NYA.EVA.regular.comment.csv",10
+"NYA201804260",2,"$Twins challenged call that Mauer was out at first to complete DP; call was overturned - force out, no DP","2018NYA.EVA.regular.comment.csv",11
+"NYA201804260",29,"$Twins challenged call that Gardner was safe at first on pickoff attempt after 2nd pitch; call was overturned - out on pickoff","2018NYA.EVA.regular.comment.csv",12
+"NYA201805040",29,"$Indians challenged call that Ramirez was out at 3rd; call was upheld - out on caught stealing","2018NYA.EVA.regular.comment.csv",13
+"NYA201805040",67,"ej,alony001,P,timmt901,Arguing called strike $Yonder Alonso ejected by plate umpire Timmons for arguing the called strike on his next to last pitch","2018NYA.EVA.regular.comment.csv",14
+"NYA201805100",13,"$Yankees challenged call that Vazquez was safe at first; call was overturned - ground out","2018NYA.EVA.regular.comment.csv",15
+"NYA201805120",80,"$Yankees challenged call that Olson was safe at home; call was overturned - out at home for double play","2018NYA.EVA.regular.comment.csv",16
+"NYA201805250",12,"$Yankees challenged call that Gregorius was out at first to complete double play; call was overturned - force out, no DP","2018NYA.EVA.regular.comment.csv",17
+"NYA201805260",51,"$Justin Upton left with an injured arm","2018NYA.EVA.regular.comment.csv",18
+"NYA201805280",15,"$Yankees challenged call that third pitch to Hicks was a ball, claiming it hit him; call was overturned - hit by pitch","2018NYA.EVA.regular.comment.csv",19
+"NYA201805300",58,"$runner interference","2018NYA.EVA.regular.comment.csv",20
+"NYA201806120",48,"$Yankees challenged call that Taylor was safe at 2nd on stolen base; call was overturned - out on caught stealing","2018NYA.EVA.regular.comment.csv",21
+"NYA201806130",23,"$Nationals challenged call that Turner was out at 1st; call was upheld - out on pickoff","2018NYA.EVA.regular.comment.csv",22
+"NYA201806130",62,"$Umpire review of play at second; call was upheld - out on caught stealing","2018NYA.EVA.regular.comment.csv",23
+"NYA201806160",3,"$Yankees challenged call that Bauers was safe at second on stolen base; call was overturned - on caught stealing for double play","2018NYA.EVA.regular.comment.csv",24
+"NYA201806300",57,"$Umpire review of ball hit by Devers; call was upheld - double, not home run","2018NYA.EVA.regular.comment.csv",25
+"NYA201806300",73,"$Red Sox challenged call that third pitch to Holt was hit foul in the outfield; call was upheld - foul ball","2018NYA.EVA.regular.comment.csv",26
+"NYA201807020",27,"Mound Visit","2018NYA.EVA.regular.comment.csv",27
+"NYA201807020",28,"Mound Visit","2018NYA.EVA.regular.comment.csv",28
+"NYA201807020",43,"Mound Visit","2018NYA.EVA.regular.comment.csv",29
+"NYA201807020",58,"Mound Visit","2018NYA.EVA.regular.comment.csv",30
+"NYA201807020",84,"Mound Visit","2018NYA.EVA.regular.comment.csv",31
+"NYA201807030",14,"Mound Visit","2018NYA.EVA.regular.comment.csv",32
+"NYA201807030",27,"Mound Visit","2018NYA.EVA.regular.comment.csv",33
+"NYA201807030",31,"Mound Visit","2018NYA.EVA.regular.comment.csv",34
+"NYA201807030",48,"Mound Visit","2018NYA.EVA.regular.comment.csv",35
+"NYA201807030",50,"Mound Visit","2018NYA.EVA.regular.comment.csv",36
+"NYA201807030",64,"Mound Visit","2018NYA.EVA.regular.comment.csv",37
+"NYA201807030",69,"Injury Delay","2018NYA.EVA.regular.comment.csv",38
+"NYA201807030",77,"Mound Visit","2018NYA.EVA.regular.comment.csv",39
+"NYA201807030",77,"Injury Delay","2018NYA.EVA.regular.comment.csv",40
+"NYA201807040",31,"$Freddie Freeman left with an injured arm","2018NYA.EVA.regular.comment.csv",41
+"NYA201807040",36,"Mound Visit","2018NYA.EVA.regular.comment.csv",42
+"NYA201807040",37,"$Gleyber Torres left with an injured leg","2018NYA.EVA.regular.comment.csv",43
+"NYA201807040",41,"Mound Visit","2018NYA.EVA.regular.comment.csv",44
+"NYA201807040",51,"Mound Visit","2018NYA.EVA.regular.comment.csv",45
+"NYA201807040",59,"Mound Visit","2018NYA.EVA.regular.comment.csv",46
+"NYA201807200",6,"Mound Visit","2018NYA.EVA.regular.comment.csv",47
+"NYA201807200",28,"Mound Visit","2018NYA.EVA.regular.comment.csv",48
+"NYA201807200",32,"Mound Visit","2018NYA.EVA.regular.comment.csv",49
+"NYA201807200",33,"Mound Visit","2018NYA.EVA.regular.comment.csv",50
+"NYA201807200",35,"$Yankees challenged that Bird was out at first; call was upheld - ground out","2018NYA.EVA.regular.comment.csv",51
+"NYA201807200",42,"Mound Visit","2018NYA.EVA.regular.comment.csv",52
+"NYA201807200",45,"Mound Visit","2018NYA.EVA.regular.comment.csv",53
+"NYA201807200",48,"Injury Delay","2018NYA.EVA.regular.comment.csv",54
+"NYA201807200",56,"Mound Visit","2018NYA.EVA.regular.comment.csv",55
+"NYA201807200",66,"Mound Visit","2018NYA.EVA.regular.comment.csv",56
+"NYA201807200",76,"Mound Visit","2018NYA.EVA.regular.comment.csv",57
+"NYA201807200",88,"Mound Visit","2018NYA.EVA.regular.comment.csv",58
+"NYA201807210",16,"ej,roesp801,C,vanol901,Arguing called third strike $Mets hitting coach Pat Roessler ejected by plate umpire Vanover for arguing called third strike","2018NYA.EVA.regular.comment.csv",59
+"NYA201807210",30,"$Fan interference","2018NYA.EVA.regular.comment.csv",60
+"NYA201807210",31,"Mound Visit","2018NYA.EVA.regular.comment.csv",61
+"NYA201807210",35,"Mound Visit","2018NYA.EVA.regular.comment.csv",62
+"NYA201807210",39,"ej,cabra002,P,wendh902,Arguing check swing strike three $Asdrubal Cabrera ejected by 3b umpire Wendelstedt for arguing check swing strike three","2018NYA.EVA.regular.comment.csv",63
+"NYA201807210",46,"Mound Visit","2018NYA.EVA.regular.comment.csv",64
+"NYA201807210",52,"Mound Visit","2018NYA.EVA.regular.comment.csv",65
+"NYA201807210",73,"Mound Visit","2018NYA.EVA.regular.comment.csv",66
+"NYA201807210",74,"Mound Visit","2018NYA.EVA.regular.comment.csv",67
+"NYA201807210",75,"Mound Visit","2018NYA.EVA.regular.comment.csv",68
+"NYA201807260",5,"Injury Delay $Hit on wrist, left 3 innings later, onto DL next day with chip fracture of the right ulnar styloid bone","2018NYA.EVA.regular.comment.csv",69
+"NYA201807260",21,"Mound Visit","2018NYA.EVA.regular.comment.csv",70
+"NYA201807260",33,"Mound Visit","2018NYA.EVA.regular.comment.csv",71
+"NYA201807260",34,"$Aaron Judge left with an injured wrist","2018NYA.EVA.regular.comment.csv",72
+"NYA201807260",38,"Injury Delay","2018NYA.EVA.regular.comment.csv",73
+"NYA201807260",39,"Mound Visit","2018NYA.EVA.regular.comment.csv",74
+"NYA201807260",46,"Mound Visit","2018NYA.EVA.regular.comment.csv",75
+"NYA201807260",48,"Mound Visit","2018NYA.EVA.regular.comment.csv",76
+"NYA201807260",72,"Mound Visit","2018NYA.EVA.regular.comment.csv",77
+"NYA201807260",74,"Injury Delay","2018NYA.EVA.regular.comment.csv",78
+"NYA201807260",77,"Mound Visit","2018NYA.EVA.regular.comment.csv",79
+"NYA201807281",15,"Injury Delay","2018NYA.EVA.regular.comment.csv",80
+"NYA201807281",21,"Mound Visit","2018NYA.EVA.regular.comment.csv",81
+"NYA201807281",31,"Mound Visit","2018NYA.EVA.regular.comment.csv",82
+"NYA201807281",41,"Mound Visit","2018NYA.EVA.regular.comment.csv",83
+"NYA201807281",53,"Mound Visit","2018NYA.EVA.regular.comment.csv",84
+"NYA201807281",56,"Mound Visit","2018NYA.EVA.regular.comment.csv",85
+"NYA201807281",57,"Mound Visit","2018NYA.EVA.regular.comment.csv",86
+"NYA201807281",66,"Mound Visit","2018NYA.EVA.regular.comment.csv",87
+"NYA201807281",67,"Mound Visit","2018NYA.EVA.regular.comment.csv",88
+"NYA201807281",71,"Mound Visit","2018NYA.EVA.regular.comment.csv",89
+"NYA201807282",10,"Mound Visit","2018NYA.EVA.regular.comment.csv",90
+"NYA201807282",11,"Injury Delay","2018NYA.EVA.regular.comment.csv",91
+"NYA201807282",24,"On-field Delay","2018NYA.EVA.regular.comment.csv",92
+"NYA201807282",26,"Mound Visit","2018NYA.EVA.regular.comment.csv",93
+"NYA201807282",39,"Injury Delay","2018NYA.EVA.regular.comment.csv",94
+"NYA201807282",40,"Mound Visit","2018NYA.EVA.regular.comment.csv",95
+"NYA201807282",42,"Mound Visit","2018NYA.EVA.regular.comment.csv",96
+"NYA201807282",45,"Mound Visit","2018NYA.EVA.regular.comment.csv",97
+"NYA201807282",49,"Mound Visit","2018NYA.EVA.regular.comment.csv",98
+"NYA201807282",50,"Mound Visit","2018NYA.EVA.regular.comment.csv",99
+"NYA201807282",51,"Mound Visit","2018NYA.EVA.regular.comment.csv",100
+"NYA201807282",56,"Mound Visit","2018NYA.EVA.regular.comment.csv",101
+"NYA201807282",62,"Mound Visit","2018NYA.EVA.regular.comment.csv",102
+"NYA201807282",74,"Mound Visit","2018NYA.EVA.regular.comment.csv",103
+"NYA201807282",76,"Mound Visit Mound Visit","2018NYA.EVA.regular.comment.csv",104
+"NYA201807282",83,"Mound Visit","2018NYA.EVA.regular.comment.csv",105
+"NYA201807290",8,"Injury Delay","2018NYA.EVA.regular.comment.csv",106
+"NYA201807290",29,"Mound Visit","2018NYA.EVA.regular.comment.csv",107
+"NYA201807290",34,"Mound Visit","2018NYA.EVA.regular.comment.csv",108
+"NYA201807290",40,"Mound Visit","2018NYA.EVA.regular.comment.csv",109
+"NYA201807290",43,"$Yankees challenged call that Hicks was out at 2nd to start DP; call was overturned - ground out, no force or DP","2018NYA.EVA.regular.comment.csv",110
+"NYA201807290",44,"Mound Visit","2018NYA.EVA.regular.comment.csv",111
+"NYA201807290",56,"Mound Visit","2018NYA.EVA.regular.comment.csv",112
+"NYA201807290",62,"$Royals challenged call that Torres was safe at 2nd; call was overturned - out on caught stealing","2018NYA.EVA.regular.comment.csv",113
+"NYA201807310",26,"Mound Visit","2018NYA.EVA.regular.comment.csv",114
+"NYA201807310",42,"Mound Visit","2018NYA.EVA.regular.comment.csv",115
+"NYA201807310",49,"Mound Visit","2018NYA.EVA.regular.comment.csv",116
+"NYA201807310",63,"Mound Visit","2018NYA.EVA.regular.comment.csv",117
+"NYA201807310",65,"Mound Visit","2018NYA.EVA.regular.comment.csv",118
+"NYA201808010",5,"$Batter's interference","2018NYA.EVA.regular.comment.csv",119
+"NYA201808010",11,"Mound Visit","2018NYA.EVA.regular.comment.csv",120
+"NYA201808010",14,"Mound Visit","2018NYA.EVA.regular.comment.csv",121
+"NYA201808010",27,"Mound Visit","2018NYA.EVA.regular.comment.csv",122
+"NYA201808010",28,"Mound Visit","2018NYA.EVA.regular.comment.csv",123
+"NYA201808010",69,"Mound Visit","2018NYA.EVA.regular.comment.csv",124
+"NYA201808010",72,"Mound Visit","2018NYA.EVA.regular.comment.csv",125
+"NYA201808010",76,"Mound Visit","2018NYA.EVA.regular.comment.csv",126
+"NYA201808010",82,"Mound Visit","2018NYA.EVA.regular.comment.csv",127
+"NYA201808090",7,"Mound Visit","2018NYA.EVA.regular.comment.csv",128
+"NYA201808090",31,"Mound Visit","2018NYA.EVA.regular.comment.csv",129
+"NYA201808090",68,"Mound Visit","2018NYA.EVA.regular.comment.csv",130
+"NYA201808090",69,"Mound Visit","2018NYA.EVA.regular.comment.csv",131
+"NYA201808090",69,"Mound Visit","2018NYA.EVA.regular.comment.csv",132
+"NYA201808100",34,"$Rangers challenged call that Robinson was out at second; call was overturned - stolen base","2018NYA.EVA.regular.comment.csv",133
+"NYA201808100",44,"Mound Visit","2018NYA.EVA.regular.comment.csv",134
+"NYA201808100",48,"Mound Visit","2018NYA.EVA.regular.comment.csv",135
+"NYA201808100",50,"Mound Visit","2018NYA.EVA.regular.comment.csv",136
+"NYA201808100",55,"Mound Visit","2018NYA.EVA.regular.comment.csv",137
+"NYA201808100",56,"Mound Visit","2018NYA.EVA.regular.comment.csv",138
+"NYA201808100",57,"Mound Visit","2018NYA.EVA.regular.comment.csv",139
+"NYA201808100",76,"Mound Visit","2018NYA.EVA.regular.comment.csv",140
+"NYA201808100",80,"Mound Visit","2018NYA.EVA.regular.comment.csv",141
+"NYA201808110",37,"Mound Visit","2018NYA.EVA.regular.comment.csv",142
+"NYA201808110",42,"Mound Visit","2018NYA.EVA.regular.comment.csv",143
+"NYA201808110",51,"Mound Visit","2018NYA.EVA.regular.comment.csv",144
+"NYA201808110",59,"Mound Visit","2018NYA.EVA.regular.comment.csv",145
+"NYA201808110",60,"Mound Visit","2018NYA.EVA.regular.comment.csv",146
+"NYA201808110",62,"Mound Visit","2018NYA.EVA.regular.comment.csv",147
+"NYA201808110",63,"Mound Visit","2018NYA.EVA.regular.comment.csv",148
+"NYA201808110",78,"Injury Delay","2018NYA.EVA.regular.comment.csv",149
+"NYA201808120",2,"Injury Delay","2018NYA.EVA.regular.comment.csv",150
+"NYA201808120",39,"Mound Visit","2018NYA.EVA.regular.comment.csv",151
+"NYA201808120",48,"Mound Visit","2018NYA.EVA.regular.comment.csv",152
+"NYA201808120",56,"$Yankees challenged call that DeShields was safe at first; call was upheld - single","2018NYA.EVA.regular.comment.csv",153
+"NYA201808120",57,"Mound Visit","2018NYA.EVA.regular.comment.csv",154
+"NYA201808120",63,"Mound Visit","2018NYA.EVA.regular.comment.csv",155
+"NYA201808130",13,"Injury Delay","2018NYA.EVA.regular.comment.csv",156
+"NYA201808130",42,"$Yankees challenged call that Conforto was safe at 2nd; call was overturned - out on caught stealing","2018NYA.EVA.regular.comment.csv",157
+"NYA201808130",58,"Mound Visit","2018NYA.EVA.regular.comment.csv",158
+"NYA201808130",63,"Mound Visit","2018NYA.EVA.regular.comment.csv",159
+"NYA201808130",72,"Mound Visit","2018NYA.EVA.regular.comment.csv",160
+"NYA201808130",77,"$Mets challenged call that Flores was out at second; call was upheld - force out","2018NYA.EVA.regular.comment.csv",161
+"NYA201808140",11,"Mound Visit","2018NYA.EVA.regular.comment.csv",162
+"NYA201808140",39,"Mound Visit","2018NYA.EVA.regular.comment.csv",163
+"NYA201808150",7,"$Yankees challenged call that Hicks was out at first; call was overturned - single","2018NYA.EVA.regular.comment.csv",164
+"NYA201808150",20,"Mound Visit","2018NYA.EVA.regular.comment.csv",165
+"NYA201808150",24,"Mound Visit","2018NYA.EVA.regular.comment.csv",166
+"NYA201808150",32,"Mound Visit","2018NYA.EVA.regular.comment.csv",167
+"NYA201808150",35,"Mound Visit","2018NYA.EVA.regular.comment.csv",168
+"NYA201808150",37,"Mound Visit","2018NYA.EVA.regular.comment.csv",169
+"NYA201808150",40,"$Rays challenged call that Torres was sage at first; call was overturne - ground out","2018NYA.EVA.regular.comment.csv",170
+"NYA201808150",42,"Mound Visit","2018NYA.EVA.regular.comment.csv",171
+"NYA201808150",68,"Mound Visit","2018NYA.EVA.regular.comment.csv",172
+"NYA201808150",69,"$Yankees challenged call that Smith was safe at second; call was overturned - out on caught stealing","2018NYA.EVA.regular.comment.csv",173
+"NYA201808150",81,"Mound Visit","2018NYA.EVA.regular.comment.csv",174
+"NYA201808160",13,"Mound Visit","2018NYA.EVA.regular.comment.csv",175
+"NYA201808160",46,"$Yankees challenged call that Hicks was out at 1st; call was overturne - single","2018NYA.EVA.regular.comment.csv",176
+"NYA201808160",49,"Mound Visit","2018NYA.EVA.regular.comment.csv",177
+"NYA201808160",64,"Mound Visit","2018NYA.EVA.regular.comment.csv",178
+"NYA201808160",65,"Injury Delay","2018NYA.EVA.regular.comment.csv",179
+"NYA201808160",66,"On-field Delay Mound Visit $Umpire review of ball hit by Stanton; call was overturne - double, not home run; Yankees argued he should have been allowed to third for triple","2018NYA.EVA.regular.comment.csv",180
+"NYA201808160",74,"Mound Visit","2018NYA.EVA.regular.comment.csv",181
+"NYA201808170",8,"Mound Visit","2018NYA.EVA.regular.comment.csv",182
+"NYA201808170",15,"Mound Visit","2018NYA.EVA.regular.comment.csv",183
+"NYA201808170",41,"Mound Visit","2018NYA.EVA.regular.comment.csv",184
+"NYA201808170",49,"Mound Visit","2018NYA.EVA.regular.comment.csv",185
+"NYA201808170",61,"$Game called for rain","2018NYA.EVA.regular.comment.csv",186
+"NYA201808180",18,"Mound Visit","2018NYA.EVA.regular.comment.csv",187
+"NYA201808180",28,"Mound Visit","2018NYA.EVA.regular.comment.csv",188
+"NYA201808180",42,"Injury Delay","2018NYA.EVA.regular.comment.csv",189
+"NYA201808180",43,"Mound Visit","2018NYA.EVA.regular.comment.csv",190
+"NYA201808180",48,"Mound Visit","2018NYA.EVA.regular.comment.csv",191
+"NYA201808180",53,"Mound Visit","2018NYA.EVA.regular.comment.csv",192
+"NYA201808180",56,"Mound Visit","2018NYA.EVA.regular.comment.csv",193
+"NYA201808180",58,"Mound Visit","2018NYA.EVA.regular.comment.csv",194
+"NYA201808180",69,"Mound Visit","2018NYA.EVA.regular.comment.csv",195
+"NYA201808180",77,"Mound Visit","2018NYA.EVA.regular.comment.csv",196
+"NYA201808180",79,"Mound Visit","2018NYA.EVA.regular.comment.csv",197
+"NYA201808190",10,"Mound Visit","2018NYA.EVA.regular.comment.csv",198
+"NYA201808190",11,"Injury Delay","2018NYA.EVA.regular.comment.csv",199
+"NYA201808190",15,"Mound Visit","2018NYA.EVA.regular.comment.csv",200
+"NYA201808190",24,"$Didi Gregorius left with an injured ankle, hurt in first inning collision at first base on his single","2018NYA.EVA.regular.comment.csv",201
+"NYA201808190",51,"Mound Visit","2018NYA.EVA.regular.comment.csv",202
+"NYA201808190",57,"$Blue Jays challenged call at first, claiming Andujar was out to complete double play; call was upheld - force out, no DP","2018NYA.EVA.regular.comment.csv",203
+"NYA201808190",60,"On-field Delay ej,gibbj001,M,viscj901,Arguing call at first $Toronto manager Gibbons ejected by 1b umpire Visconti for arguing call at first","2018NYA.EVA.regular.comment.csv",204
+"NYA201808190",61,"Mound Visit","2018NYA.EVA.regular.comment.csv",205
+"NYA201808190",80,"Mound Visit","2018NYA.EVA.regular.comment.csv",206
+"NYA201808270",18,"$White Sox challenged call that Engel was out at 2nd; call was upheld - out on caught stealing","2018NYA.EVA.regular.comment.csv",207
+"NYA201808270",26,"Mound Visit","2018NYA.EVA.regular.comment.csv",208
+"NYA201808270",27,"Mound Visit","2018NYA.EVA.regular.comment.csv",209
+"NYA201808270",54,"Mound Visit","2018NYA.EVA.regular.comment.csv",210
+"NYA201808270",57,"Mound Visit","2018NYA.EVA.regular.comment.csv",211
+"NYA201808270",70,"$Run orignally scored as earned, changed to unearned on 08-28-2018","2018NYA.EVA.regular.comment.csv",212
+"NYA201808270",77,"Mound Visit","2018NYA.EVA.regular.comment.csv",213
+"NYA201808280",36,"Mound Visit","2018NYA.EVA.regular.comment.csv",214
+"NYA201808280",46,"Mound Visit","2018NYA.EVA.regular.comment.csv",215
+"NYA201808280",54,"Mound Visit","2018NYA.EVA.regular.comment.csv",216
+"NYA201808280",55,"Mound Visit","2018NYA.EVA.regular.comment.csv",217
+"NYA201808280",67,"Mound Visit","2018NYA.EVA.regular.comment.csv",218
+"NYA201808290",12,"Mound Visit","2018NYA.EVA.regular.comment.csv",219
+"NYA201808290",14,"Injury Delay","2018NYA.EVA.regular.comment.csv",220
+"NYA201808290",36,"Mound Visit","2018NYA.EVA.regular.comment.csv",221
+"NYA201808290",39,"Mound Visit","2018NYA.EVA.regular.comment.csv",222
+"NYA201808290",52,"Injury Delay","2018NYA.EVA.regular.comment.csv",223
+"NYA201808300",31,"Mound Visit","2018NYA.EVA.regular.comment.csv",224
+"NYA201808300",36,"Mound Visit","2018NYA.EVA.regular.comment.csv",225
+"NYA201808300",42,"Mound Visit","2018NYA.EVA.regular.comment.csv",226
+"NYA201808300",43,"Mound Visit","2018NYA.EVA.regular.comment.csv",227
+"NYA201808300",48,"Mound Visit","2018NYA.EVA.regular.comment.csv",228
+"NYA201808300",53,"Mound Visit","2018NYA.EVA.regular.comment.csv",229
+"NYA201808300",57,"Mound Visit","2018NYA.EVA.regular.comment.csv",230
+"NYA201808300",58,"Mound Visit","2018NYA.EVA.regular.comment.csv",231
+"NYA201808300",79,"Mound Visit","2018NYA.EVA.regular.comment.csv",232
+"NYA201808310",36,"ej,boona001,M,lentn901,Arguing balls and strikes $New York manager Boone ejected by plate umpire Lentz for arguing balls and strikes","2018NYA.EVA.regular.comment.csv",233
+"NYA201808310",46,"Mound Visit","2018NYA.EVA.regular.comment.csv",234
+"NYA201808310",50,"Mound Visit","2018NYA.EVA.regular.comment.csv",235
+"NYA201808310",51,"Mound Visit","2018NYA.EVA.regular.comment.csv",236
+"NYA201808310",59,"Mound Visit","2018NYA.EVA.regular.comment.csv",237
+"NYA201808310",61,"Mound Visit","2018NYA.EVA.regular.comment.csv",238
+"NYA201808310",64,"Mound Visit","2018NYA.EVA.regular.comment.csv",239
+"NYA201808310",65,"Mound Visit","2018NYA.EVA.regular.comment.csv",240
+"NYA201808310",66,"Mound Visit","2018NYA.EVA.regular.comment.csv",241
+"NYA201808310",67,"Mound Visit","2018NYA.EVA.regular.comment.csv",242
+"NYA201808310",67,"ej,gardr001,M,nauep901,Arguing check swing $Detroit manager Gardenhire ejected by 1b umpire Nauert for arguing check swing","2018NYA.EVA.regular.comment.csv",243
+"NYA201808310",73,"Mound Visit","2018NYA.EVA.regular.comment.csv",244
+"NYA201809010",14,"$Tigers challenged call that Sanchez was safe at 1st on error; call was overturned - ground out","2018NYA.EVA.regular.comment.csv",245
+"NYA201809010",36,"Mound Visit Injury Delay","2018NYA.EVA.regular.comment.csv",246
+"NYA201809010",36,"$Daniel Norris left with an injured leg","2018NYA.EVA.regular.comment.csv",247
+"NYA201809010",40,"Mound Visit","2018NYA.EVA.regular.comment.csv",248
+"NYA201809010",50,"Mound Visit","2018NYA.EVA.regular.comment.csv",249
+"NYA201809010",52,"Mound Visit","2018NYA.EVA.regular.comment.csv",250
+"NYA201809010",55,"Mound Visit","2018NYA.EVA.regular.comment.csv",251
+"NYA201809010",65,"Mound Visit","2018NYA.EVA.regular.comment.csv",252
+"NYA201809010",68,"Injury Delay","2018NYA.EVA.regular.comment.csv",253
+"NYA201809020",17,"Mound Visit","2018NYA.EVA.regular.comment.csv",254
+"NYA201809020",31,"Mound Visit","2018NYA.EVA.regular.comment.csv",255
+"NYA201809020",33,"Mound Visit","2018NYA.EVA.regular.comment.csv",256
+"NYA201809020",58,"$3bman had to wait for Goodrum to go past him and Goodrum was called out for interference","2018NYA.EVA.regular.comment.csv",257
+"NYA201809020",64,"$Yankees challegned call that Reyes was safe at 1st; call was overturned - out on pickoff","2018NYA.EVA.regular.comment.csv",258
+"NYA201809020",67,"Mound Visit","2018NYA.EVA.regular.comment.csv",259
+"NYA201809020",70,"Mound Visit","2018NYA.EVA.regular.comment.csv",260
+"NYA201809020",71,"Mound Visit","2018NYA.EVA.regular.comment.csv",261
+"NYA201809020",72,"Injury Delay","2018NYA.EVA.regular.comment.csv",262
+"NYA201809020",78,"Mound Visit","2018NYA.EVA.regular.comment.csv",263
+"NYA201809020",87,"Mound Visit","2018NYA.EVA.regular.comment.csv",264
+"NYA201809140",7,"Mound Visit","2018NYA.EVA.regular.comment.csv",265
+"NYA201809140",11,"Mound Visit","2018NYA.EVA.regular.comment.csv",266
+"NYA201809140",29,"Mound Visit","2018NYA.EVA.regular.comment.csv",267
+"NYA201809140",45,"Mound Visit","2018NYA.EVA.regular.comment.csv",268
+"NYA201809140",60,"Mound Visit","2018NYA.EVA.regular.comment.csv",269
+"NYA201809140",62,"Mound Visit","2018NYA.EVA.regular.comment.csv",270
+"NYA201809140",81,"Mound Visit","2018NYA.EVA.regular.comment.csv",271
+"NYA201809150",9,"$Blue Jays challenged call that Hernandez was out at 1st; call was overturned - single","2018NYA.EVA.regular.comment.csv",272
+"NYA201809150",17,"Mound Visit On-field Delay","2018NYA.EVA.regular.comment.csv",273
+"NYA201809150",18,"ej,maill001,P,ortir901,Arguing balls and strikes ej,gibbj001,M,ortir901,Arguing balls and strikes $Toronto catcher Maile ejected from dugout by plate umpire Ortiz for arguing balls and strikes; Toronto manager Gibbons then ejected by Ortiz","2018NYA.EVA.regular.comment.csv",274
+"NYA201809150",24,"Mound Visit","2018NYA.EVA.regular.comment.csv",275
+"NYA201809150",35,"Mound Visit","2018NYA.EVA.regular.comment.csv",276
+"NYA201809150",43,"Mound Visit","2018NYA.EVA.regular.comment.csv",277
+"NYA201809150",44,"$Blue Jays challenged call that Jansen was out at 1st; call was overturned - safe on error","2018NYA.EVA.regular.comment.csv",278
+"NYA201809150",54,"Injury Delay","2018NYA.EVA.regular.comment.csv",279
+"NYA201809150",56,"Mound Visit","2018NYA.EVA.regular.comment.csv",280
+"NYA201809150",58,"Mound Visit","2018NYA.EVA.regular.comment.csv",281
+"NYA201809150",61,"Mound Visit","2018NYA.EVA.regular.comment.csv",282
+"NYA201809150",62,"Mound Visit","2018NYA.EVA.regular.comment.csv",283
+"NYA201809150",65,"Mound Visit","2018NYA.EVA.regular.comment.csv",284
+"NYA201809150",68,"Mound Visit","2018NYA.EVA.regular.comment.csv",285
+"NYA201809150",72,"Mound Visit","2018NYA.EVA.regular.comment.csv",286
+"NYA201809150",73,"Mound Visit","2018NYA.EVA.regular.comment.csv",287
+"NYA201809150",82,"On-field Delay","2018NYA.EVA.regular.comment.csv",288
+"NYA201809150",83,"Mound Visit","2018NYA.EVA.regular.comment.csv",289
+"NYA201809160",23,"$Yankees challenged call that Stanton was out returning to 1st; call was upheld - out to complete double play","2018NYA.EVA.regular.comment.csv",290
+"NYA201809160",51,"Mound Visit","2018NYA.EVA.regular.comment.csv",291
+"NYA201809160",57,"Mound Visit","2018NYA.EVA.regular.comment.csv",292
+"NYA201809180",20,"Mound Visit","2018NYA.EVA.regular.comment.csv",293
+"NYA201809180",24,"Mound Visit","2018NYA.EVA.regular.comment.csv",294
+"NYA201809180",48,"Mound Visit","2018NYA.EVA.regular.comment.csv",295
+"NYA201809180",56,"Mound Visit","2018NYA.EVA.regular.comment.csv",296
+"NYA201809180",56,"Mound Visit","2018NYA.EVA.regular.comment.csv",297
+"NYA201809180",71,"Mound Visit","2018NYA.EVA.regular.comment.csv",298
+"NYA201809190",5,"Mound Visit","2018NYA.EVA.regular.comment.csv",299
+"NYA201809190",19,"Mound Visit","2018NYA.EVA.regular.comment.csv",300
+"NYA201809190",51,"Mound Visit $Umpire review of Voit's hit; call was upheld - home run","2018NYA.EVA.regular.comment.csv",301
+"NYA201809190",55,"Mound Visit","2018NYA.EVA.regular.comment.csv",302
+"NYA201809190",67,"$Sam Travis left with an injured head","2018NYA.EVA.regular.comment.csv",303
+"NYA201809190",75,"Mound Visit Injury Delay","2018NYA.EVA.regular.comment.csv",304
+"NYA201809190",77,"Mound Visit","2018NYA.EVA.regular.comment.csv",305
+"NYA201809200",9,"Mound Visit","2018NYA.EVA.regular.comment.csv",306
+"NYA201809200",15,"Mound Visit","2018NYA.EVA.regular.comment.csv",307
+"NYA201809200",30,"Mound Visit","2018NYA.EVA.regular.comment.csv",308
+"NYA201809200",39,"Mound Visit","2018NYA.EVA.regular.comment.csv",309
+"NYA201809200",40,"Mound Visit","2018NYA.EVA.regular.comment.csv",310
+"NYA201809200",44,"Mound Visit","2018NYA.EVA.regular.comment.csv",311
+"NYA201809200",57,"Mound Visit","2018NYA.EVA.regular.comment.csv",312
+"NYA201809200",60,"Mound Visit","2018NYA.EVA.regular.comment.csv",313
+"NYA201809200",69,"Mound Visit","2018NYA.EVA.regular.comment.csv",314
+"NYA201809200",71,"Mound Visit","2018NYA.EVA.regular.comment.csv",315
+"NYA201809200",75,"Mound Visit","2018NYA.EVA.regular.comment.csv",316
+"NYA201809200",77,"Mound Visit","2018NYA.EVA.regular.comment.csv",317
+"NYA201809200",81,"Mound Visit","2018NYA.EVA.regular.comment.csv",318
+"NYA201809210",31,"Mound Visit","2018NYA.EVA.regular.comment.csv",319
+"NYA201809210",36,"Mound Visit","2018NYA.EVA.regular.comment.csv",320
+"NYA201809210",37,"Mound Visit","2018NYA.EVA.regular.comment.csv",321
+"NYA201809210",42,"Mound Visit","2018NYA.EVA.regular.comment.csv",322
+"NYA201809210",44,"Mound Visit","2018NYA.EVA.regular.comment.csv",323
+"NYA201809210",55,"Mound Visit","2018NYA.EVA.regular.comment.csv",324
+"NYA201809210",58,"Mound Visit","2018NYA.EVA.regular.comment.csv",325
+"NYA201809210",59,"Mound Visit","2018NYA.EVA.regular.comment.csv",326
+"NYA201809210",64,"Mound Visit","2018NYA.EVA.regular.comment.csv",327
+"NYA201809210",71,"Mound Visit","2018NYA.EVA.regular.comment.csv",328
+"NYA201809210",73,"Mound Visit","2018NYA.EVA.regular.comment.csv",329
+"NYA201809210",75,"Mound Visit","2018NYA.EVA.regular.comment.csv",330
+"NYA201809220",38,"Mound Visit","2018NYA.EVA.regular.comment.csv",331
+"NYA201809220",43,"Mound Visit","2018NYA.EVA.regular.comment.csv",332
+"NYA201809220",46,"Mound Visit","2018NYA.EVA.regular.comment.csv",333
+"NYA201809220",71,"$Orioles challenged call that Peterson was out at 2nd; call was overturned - stolen base","2018NYA.EVA.regular.comment.csv",334
+"NYA201809220",76,"Mound Visit","2018NYA.EVA.regular.comment.csv",335
+"NYA201809220",80,"Mound Visit","2018NYA.EVA.regular.comment.csv",336
+"NYA201809220",91,"Injury Delay","2018NYA.EVA.regular.comment.csv",337
+"NYA201809230",3,"Injury Delay","2018NYA.EVA.regular.comment.csv",338
+"NYA201809230",5,"Mound Visit","2018NYA.EVA.regular.comment.csv",339
+"NYA201809230",39,"Injury Delay","2018NYA.EVA.regular.comment.csv",340
+"NYA201809230",40,"$Breyvic Valera left with an injured hand","2018NYA.EVA.regular.comment.csv",341
+"NYA201809230",46,"Mound Visit","2018NYA.EVA.regular.comment.csv",342
+"NYA201809230",59,"Mound Visit","2018NYA.EVA.regular.comment.csv",343
+"NYA201809230",68,"Mound Visit","2018NYA.EVA.regular.comment.csv",344

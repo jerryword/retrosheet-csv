@@ -1,70 +1,35 @@
-"PIT194704180",3,"$Bobby Adams called for interference for running into his own batted ball"FILENAME_TX","LINE_NUMBER_CT"
-
-"PIT194704180",49,"$the ball struck the bat as Hank Greenberg ducked an inside pitch"1947PIT.EVN.regular.comment.csv",2
-
-"PIT194704202",53,"$game called for darkness"1947PIT.EVN.regular.comment.csv",3
-
-"PIT194704240",0,"$the Cubs train was 3 hours late arriving in Pittsburgh and they weren't able to get into uniform until 30 minutes  before the scheduled start"1947PIT.EVN.regular.comment.csv",4
-
-"PIT194705100",8,"$Dick Sisler muffed the throw at 1B"1947PIT.EVN.regular.comment.csv",5
-
-"PIT194705112",65,"$game called for Sunday curfew"1947PIT.EVN.regular.comment.csv",6
-
-"PIT194705170",3,"ej,reisp101,P,jordl901,Call at 1B Pete Reiser ejected by 1B umpire Lou Jorda"1947PIT.EVN.regular.comment.csv",7
-
-"PIT194705170",75,"ej,stane101,P,boggd901,Balls and strikes (Threw bat) Eddie Stanky ejected by HP umpire Dusty Boggess for throwing his bat into the crowd, hitting an usher"1947PIT.EVN.regular.comment.csv",8
-
-"PIT194705182",73,"$game called for Sunday curfew"1947PIT.EVN.regular.comment.csv",9
-
-"PIT194705280",30,"$Greenberg came across field to make tag at 3rd base as Johnson rounded base too far; no RBI given for runner who scored from second"1947PIT.EVN.regular.comment.csv",10
-
-"PIT194705280",31,"pbp account ends here, rest deduced"1947PIT.EVN.regular.comment.csv",11
-
-"PIT194705280",57,"$One Cub runner reached base on E3 in 7th or 8th; it is put here as the first opportunity"1947PIT.EVN.regular.comment.csv",12
-
-"PIT194705280",81,"$Clear that Mauch for Greenberg AFTER Hank reached third"1947PIT.EVN.regular.comment.csv",13
-
-"PIT194706130",46,"$Frank McCormick rounded 2B too far"1947PIT.EVN.regular.comment.csv",14
-
-"PIT194706210",15,"$during the 2nd inning Billy Herman argued loudly with Phillies manager Ben Chapman; 1B umpire Al Barlick warned them"1947PIT.EVN.regular.comment.csv",15
-
-"PIT194706240",58,"$the fifth pitch to Carl Furillo was ruled a caught foul tip for strike 3 by HP umpire Bill Stewart but the Dodgers argued the call; 1B umpire Lee Ballanfant ruled the ball had stuck in the catcher's pad for a foul ball"1947PIT.EVN.regular.comment.csv",16
-
-"PIT194706240",61,"$Dixie Howell called for interference for running into his own bunt"1947PIT.EVN.regular.comment.csv",17
-
-"PIT194706240",73,"$ball four rolled to the backstop"1947PIT.EVN.regular.comment.csv",18
-
-"PIT194707061",70,"$Tiny Bonham left with heat exhaustion"1947PIT.EVN.regular.comment.csv",19
-
-"PIT194707230",3,"$Harry Walker fell between 1B and 2B"1947PIT.EVN.regular.comment.csv",20
-
-"PIT194707242",31,"ej,flete101,P,barrg901,Bench jockeying ej,hermb101,M,barrg901,Bench jockeying ej,wietw101,P,barrg901,Bench jockeying $Pirate manager Herman, players Fletcher and Wietelmann ejected by HP umpire Barr for bench jockeying"1947PIT.EVN.regular.comment.csv",21
-
-"PIT194707242",33,"ej,sewer101,P,barrg901,Out of uniform (Civilian clothes) $Pirate Sewell ejected by HP umpire for being on bench in civilian clothes; he pitched the 1st game"1947PIT.EVN.regular.comment.csv",22
-
-"PIT194707242",76,"$Andy Seminick spiked by Wally Westlake requiring 5 stitches"1947PIT.EVN.regular.comment.csv",23
-
-"PIT194707271",36,"pitch sequence uncertain"1947PIT.EVN.regular.comment.csv",24
-
-"PIT194707272",77,"$game called due to curfew"1947PIT.EVN.regular.comment.csv",25
-
-"PIT194708032",73,"$game called for curfew"1947PIT.EVN.regular.comment.csv",26
-
-"PIT194708170",81,"$second game called for rain in bottom of 5th with score 0-0; ruled no game"1947PIT.EVN.regular.comment.csv",27
-
-"PIT194709040",35,"ej,blooj101,P,conlj102,Call at 1B $Bloodworth ejected by 1B umpire Conlan for arguing call at 1B"1947PIT.EVN.regular.comment.csv",28
-
-"PIT194709060",23,"ej,bonht101,P,goetl901,Balls and strikes Tiny Bonham ejected by HP umpire Larry Goetz"1947PIT.EVN.regular.comment.csv",29
-
-"PIT194709080",51,"$Bobby Thomson left with knee issues"1947PIT.EVN.regular.comment.csv",30
-
-"PIT194709120",64,"$Ralph Kiner's 8th home run in 4 games"1947PIT.EVN.regular.comment.csv",31
-
-"PIT194709130",7,"$Connie Ryan collided with 1B umpire Babe Pinelli rounding 1B on apparent double"1947PIT.EVN.regular.comment.csv",32
-
-"PIT194709130",55,"$Elmer Singleton knocked down Bob Elliott and was warned by HP umpire Artie Gore"1947PIT.EVN.regular.comment.csv",33
-
-"PIT194709251",10,"ej,kauft101,C,rearb901,Balls and strikes Cardinals Coach Tony Kaufmann ejected by HP umpire Beans Reardon"1947PIT.EVN.regular.comment.csv",34
-
-"PIT194709251",12,"$Clyde Wares took over the 3B coaching box for the Cardinals"1947PIT.EVN.regular.comment.csv",35
-
+"PIT194704180",3,"$Bobby Adams called for interference for running into his own batted ball","FILENAME_TX","LINE_NUMBER_CT"
+"PIT194704180",49,"$the ball struck the bat as Hank Greenberg ducked an inside pitch","1947PIT.EVN.regular.comment.csv",2
+"PIT194704202",53,"$game called for darkness","1947PIT.EVN.regular.comment.csv",3
+"PIT194704240",0,"$the Cubs train was 3 hours late arriving in Pittsburgh and they weren't able to get into uniform until 30 minutes  before the scheduled start","1947PIT.EVN.regular.comment.csv",4
+"PIT194705100",8,"$Dick Sisler muffed the throw at 1B","1947PIT.EVN.regular.comment.csv",5
+"PIT194705112",65,"$game called for Sunday curfew","1947PIT.EVN.regular.comment.csv",6
+"PIT194705170",3,"ej,reisp101,P,jordl901,Call at 1B Pete Reiser ejected by 1B umpire Lou Jorda","1947PIT.EVN.regular.comment.csv",7
+"PIT194705170",75,"ej,stane101,P,boggd901,Balls and strikes (Threw bat) Eddie Stanky ejected by HP umpire Dusty Boggess for throwing his bat into the crowd, hitting an usher","1947PIT.EVN.regular.comment.csv",8
+"PIT194705182",73,"$game called for Sunday curfew","1947PIT.EVN.regular.comment.csv",9
+"PIT194705280",30,"$Greenberg came across field to make tag at 3rd base as Johnson rounded base too far; no RBI given for runner who scored from second","1947PIT.EVN.regular.comment.csv",10
+"PIT194705280",31,"pbp account ends here, rest deduced","1947PIT.EVN.regular.comment.csv",11
+"PIT194705280",57,"$One Cub runner reached base on E3 in 7th or 8th; it is put here as the first opportunity","1947PIT.EVN.regular.comment.csv",12
+"PIT194705280",81,"$Clear that Mauch for Greenberg AFTER Hank reached third","1947PIT.EVN.regular.comment.csv",13
+"PIT194706130",46,"$Frank McCormick rounded 2B too far","1947PIT.EVN.regular.comment.csv",14
+"PIT194706210",15,"$during the 2nd inning Billy Herman argued loudly with Phillies manager Ben Chapman; 1B umpire Al Barlick warned them","1947PIT.EVN.regular.comment.csv",15
+"PIT194706240",58,"$the fifth pitch to Carl Furillo was ruled a caught foul tip for strike 3 by HP umpire Bill Stewart but the Dodgers argued the call; 1B umpire Lee Ballanfant ruled the ball had stuck in the catcher's pad for a foul ball","1947PIT.EVN.regular.comment.csv",16
+"PIT194706240",61,"$Dixie Howell called for interference for running into his own bunt","1947PIT.EVN.regular.comment.csv",17
+"PIT194706240",73,"$ball four rolled to the backstop","1947PIT.EVN.regular.comment.csv",18
+"PIT194707061",70,"$Tiny Bonham left with heat exhaustion","1947PIT.EVN.regular.comment.csv",19
+"PIT194707230",3,"$Harry Walker fell between 1B and 2B","1947PIT.EVN.regular.comment.csv",20
+"PIT194707242",31,"ej,flete101,P,barrg901,Bench jockeying ej,hermb101,M,barrg901,Bench jockeying ej,wietw101,P,barrg901,Bench jockeying $Pirate manager Herman, players Fletcher and Wietelmann ejected by HP umpire Barr for bench jockeying","1947PIT.EVN.regular.comment.csv",21
+"PIT194707242",33,"ej,sewer101,P,barrg901,Out of uniform (Civilian clothes) $Pirate Sewell ejected by HP umpire for being on bench in civilian clothes; he pitched the 1st game","1947PIT.EVN.regular.comment.csv",22
+"PIT194707242",76,"$Andy Seminick spiked by Wally Westlake requiring 5 stitches","1947PIT.EVN.regular.comment.csv",23
+"PIT194707271",36,"pitch sequence uncertain","1947PIT.EVN.regular.comment.csv",24
+"PIT194707272",77,"$game called due to curfew","1947PIT.EVN.regular.comment.csv",25
+"PIT194708032",73,"$game called for curfew","1947PIT.EVN.regular.comment.csv",26
+"PIT194708170",81,"$second game called for rain in bottom of 5th with score 0-0; ruled no game","1947PIT.EVN.regular.comment.csv",27
+"PIT194709040",35,"ej,blooj101,P,conlj102,Call at 1B $Bloodworth ejected by 1B umpire Conlan for arguing call at 1B","1947PIT.EVN.regular.comment.csv",28
+"PIT194709060",23,"ej,bonht101,P,goetl901,Balls and strikes Tiny Bonham ejected by HP umpire Larry Goetz","1947PIT.EVN.regular.comment.csv",29
+"PIT194709080",51,"$Bobby Thomson left with knee issues","1947PIT.EVN.regular.comment.csv",30
+"PIT194709120",64,"$Ralph Kiner's 8th home run in 4 games","1947PIT.EVN.regular.comment.csv",31
+"PIT194709130",7,"$Connie Ryan collided with 1B umpire Babe Pinelli rounding 1B on apparent double","1947PIT.EVN.regular.comment.csv",32
+"PIT194709130",55,"$Elmer Singleton knocked down Bob Elliott and was warned by HP umpire Artie Gore","1947PIT.EVN.regular.comment.csv",33
+"PIT194709251",10,"ej,kauft101,C,rearb901,Balls and strikes Cardinals Coach Tony Kaufmann ejected by HP umpire Beans Reardon","1947PIT.EVN.regular.comment.csv",34
+"PIT194709251",12,"$Clyde Wares took over the 3B coaching box for the Cardinals","1947PIT.EVN.regular.comment.csv",35

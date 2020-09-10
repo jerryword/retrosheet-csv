@@ -1,64 +1,32 @@
-"MIN200604180",72,"ej,silvc001,P,mealj901,Balls and strikes after removal ej,gardr001,M,mealj901,Balls and strikes $Silva barked at HP umpire Jerry Meals as he exited; Twins pitcher Carlos Silva and Manager Ron Gardenhire ejected by HP umpire Jerry Meals"FILENAME_TX","LINE_NUMBER_CT"
-
-"MIN200605010",69,"ej,gardr001,M,davig901,Fair/foul (Kicked hat) $Twins manager Gardenhire ejected by HP umpire Davis for arguing that Castillo's grounder was foul; Gardenhire drop-kicked his hat"2006MIN.EVA.regular.comment.csv",2
-
-"MIN200605040",19,"Twins second baseman Luis Castillo left the game due to an injured leg"2006MIN.EVA.regular.comment.csv",3
-
-"MIN200605130",48,"ej,guilo001,M,scotd901,HBP call ej,coopd001,C,kulpr901,HBP call $White Sox manager Guillen and coach Cooper ejected by 1B umpire Scott for arguing that Cuddyer swung at the pitch that hit him"2006MIN.EVA.regular.comment.csv",4
-
-"MIN200605140",47,"Twins shortstop Juan Castro left the game due to an injured hand/wrist"2006MIN.EVA.regular.comment.csv",5
-
-"MIN200605140",84,"ej,gardr001,M,scotd901,Called third strike Twins Manager Ron Gardenhire ejected by HP umpire Dale Scott"2006MIN.EVA.regular.comment.csv",6
-
-"MIN200605240",37,"ej,gardr001,M,herna901,Obstruction call at 2B Twins Manager Ron Gardenhire ejected by 2B umpire Angel Hernandez for arguing the obstruction called by Hernandez on Nick Punto when he and Grady Sizemore got tangled at the bag as the ball rolled away"2006MIN.EVA.regular.comment.csv",7
-
-"MIN200605270",67,"$Carl Everett rounded 3B too far and the run scored before he was tagged out to end the inning"2006MIN.EVA.regular.comment.csv",8
-
-"MIN200606090",59,"Orioles third baseman Melvin Mora left the game due to an injured neck/shoulder"2006MIN.EVA.regular.comment.csv",9
-
-"MIN200606110",27,"ej,gardr001,M,rapue901,Foul tip call Twins Manager Ron Gardenhire ejected by HP umpire Ed Rapuano; he argued that there was no foul tip and Cuddyer checked his swing"2006MIN.EVA.regular.comment.csv",10
-
-"MIN200606150",55,"Twins pitcher Carlos Silva left the game due to an injured leg"2006MIN.EVA.regular.comment.csv",11
-
-"MIN200606240",17,"Cubs second baseman Tony Womack left the game due to an injured back"2006MIN.EVA.regular.comment.csv",12
-
-"MIN200606300",40,"ej,yoste001,M,onorb901,Call at 1B Brewers Manager Ned Yost ejected by 1B umpire Brian O'Nora"2006MIN.EVA.regular.comment.csv",13
-
-"MIN200607130",41,"Twins center fielder Lew Ford left the game due to an injured chest"2006MIN.EVA.regular.comment.csv",14
-
-"MIN200607140",56,"ej,puntn001,P,timmt901,Call at 3B ej,gardr001,M,timmt901,Call at 3B $Punto and Twins managern Gardenhire ejected by 3B umpire Timmons for arguing Punto was safe at 3rd"2006MIN.EVA.regular.comment.csv",15
-
-"MIN200607150",17,"Twins center fielder Torii Hunter left the game due to an injured foot/ankle"2006MIN.EVA.regular.comment.csv",16
-
-"MIN200607150",64,"Twins designated hitter Shannon Stewart left the game due to an injured foot/ankle"2006MIN.EVA.regular.comment.csv",17
-
-"MIN200607170",45,"Twins second baseman Nick Punto left the game due to an injured knee"2006MIN.EVA.regular.comment.csv",18
-
-"MIN200607170",69,"fan interference"2006MIN.EVA.regular.comment.csv",19
-
-"MIN200607300",14,"Twins Rondell White left the game due to an injured leg"2006MIN.EVA.regular.comment.csv",20
-
-"MIN200607300",68,"Bonderman took his pitching hand out of his glove while on the pitching plate and signaled for a fresh set of signs from the catcher. Balk"2006MIN.EVA.regular.comment.csv",21
-
-"MIN200607310",0,"Twins Mgr Ron Gardenhire missed the game due to the flu; 3B coach Scott Ullger managed the team"2006MIN.EVA.regular.comment.csv",22
-
-"MIN200608010",0,"Coach Scott Ullger managed in place of Ron Gardenhire who missed the game with flu-like symptoms"2006MIN.EVA.regular.comment.csv",23
-
-"MIN200608020",0,"Coach Scott Ullger managed in place of Ron Gardenhire who missed the game with flu-like symptoms"2006MIN.EVA.regular.comment.csv",24
-
-"MIN200608300",45,"Twins second baseman Luis Castillo left the game due to an injured foot/ankle"2006MIN.EVA.regular.comment.csv",25
-
-"MIN200609130",14,"$Liriano felt 'pop' in elbow on pitch in dirt, out for year"2006MIN.EVA.regular.comment.csv",26
-
-"MIN200609250",0,"KC Mgr Buddy Bell out for surgery to remove growth behind tonsils; bench coach Billy Doran running the team"2006MIN.EVA.regular.comment.csv",27
-
-"MIN200609270",49,"$Nick Punto called for interference"2006MIN.EVA.regular.comment.csv",28
-
-"MIN200609290",26,"White Sox left fielder Jerry Owens left the game due to an injured foot/ankle"2006MIN.EVA.regular.comment.csv",29
-
-"MIN200609300",8,"umpchange,2,ump1b,cuzzp901 umpchange,2,ump2b,(None) $1B umpire Brian O'Nora left to change into his plate gear"2006MIN.EVA.regular.comment.csv",30
-
-"MIN200609300",19,"umpchange,3,umphome,onorb901 $HP umpire Jerry Crawford left due to back problems"2006MIN.EVA.regular.comment.csv",31
-
-"MIN200609300",26,"umpchange,3,ump2b,meric901 umpchange,3,ump3b,crawj901 $umpire Jerry Crawford returns to the field at 3B and 3B umpire Chuck Meriwether moves to 2B"2006MIN.EVA.regular.comment.csv",32
-
+"MIN200604180",72,"ej,silvc001,P,mealj901,Balls and strikes after removal ej,gardr001,M,mealj901,Balls and strikes $Silva barked at HP umpire Jerry Meals as he exited; Twins pitcher Carlos Silva and Manager Ron Gardenhire ejected by HP umpire Jerry Meals","FILENAME_TX","LINE_NUMBER_CT"
+"MIN200605010",69,"ej,gardr001,M,davig901,Fair/foul (Kicked hat) $Twins manager Gardenhire ejected by HP umpire Davis for arguing that Castillo's grounder was foul; Gardenhire drop-kicked his hat","2006MIN.EVA.regular.comment.csv",2
+"MIN200605040",19,"Twins second baseman Luis Castillo left the game due to an injured leg","2006MIN.EVA.regular.comment.csv",3
+"MIN200605130",48,"ej,guilo001,M,scotd901,HBP call ej,coopd001,C,kulpr901,HBP call $White Sox manager Guillen and coach Cooper ejected by 1B umpire Scott for arguing that Cuddyer swung at the pitch that hit him","2006MIN.EVA.regular.comment.csv",4
+"MIN200605140",47,"Twins shortstop Juan Castro left the game due to an injured hand/wrist","2006MIN.EVA.regular.comment.csv",5
+"MIN200605140",84,"ej,gardr001,M,scotd901,Called third strike Twins Manager Ron Gardenhire ejected by HP umpire Dale Scott","2006MIN.EVA.regular.comment.csv",6
+"MIN200605240",37,"ej,gardr001,M,herna901,Obstruction call at 2B Twins Manager Ron Gardenhire ejected by 2B umpire Angel Hernandez for arguing the obstruction called by Hernandez on Nick Punto when he and Grady Sizemore got tangled at the bag as the ball rolled away","2006MIN.EVA.regular.comment.csv",7
+"MIN200605270",67,"$Carl Everett rounded 3B too far and the run scored before he was tagged out to end the inning","2006MIN.EVA.regular.comment.csv",8
+"MIN200606090",59,"Orioles third baseman Melvin Mora left the game due to an injured neck/shoulder","2006MIN.EVA.regular.comment.csv",9
+"MIN200606110",27,"ej,gardr001,M,rapue901,Foul tip call Twins Manager Ron Gardenhire ejected by HP umpire Ed Rapuano; he argued that there was no foul tip and Cuddyer checked his swing","2006MIN.EVA.regular.comment.csv",10
+"MIN200606150",55,"Twins pitcher Carlos Silva left the game due to an injured leg","2006MIN.EVA.regular.comment.csv",11
+"MIN200606240",17,"Cubs second baseman Tony Womack left the game due to an injured back","2006MIN.EVA.regular.comment.csv",12
+"MIN200606300",40,"ej,yoste001,M,onorb901,Call at 1B Brewers Manager Ned Yost ejected by 1B umpire Brian O'Nora","2006MIN.EVA.regular.comment.csv",13
+"MIN200607130",41,"Twins center fielder Lew Ford left the game due to an injured chest","2006MIN.EVA.regular.comment.csv",14
+"MIN200607140",56,"ej,puntn001,P,timmt901,Call at 3B ej,gardr001,M,timmt901,Call at 3B $Punto and Twins managern Gardenhire ejected by 3B umpire Timmons for arguing Punto was safe at 3rd","2006MIN.EVA.regular.comment.csv",15
+"MIN200607150",17,"Twins center fielder Torii Hunter left the game due to an injured foot/ankle","2006MIN.EVA.regular.comment.csv",16
+"MIN200607150",64,"Twins designated hitter Shannon Stewart left the game due to an injured foot/ankle","2006MIN.EVA.regular.comment.csv",17
+"MIN200607170",45,"Twins second baseman Nick Punto left the game due to an injured knee","2006MIN.EVA.regular.comment.csv",18
+"MIN200607170",69,"fan interference","2006MIN.EVA.regular.comment.csv",19
+"MIN200607300",14,"Twins Rondell White left the game due to an injured leg","2006MIN.EVA.regular.comment.csv",20
+"MIN200607300",68,"Bonderman took his pitching hand out of his glove while on the pitching plate and signaled for a fresh set of signs from the catcher. Balk","2006MIN.EVA.regular.comment.csv",21
+"MIN200607310",0,"Twins Mgr Ron Gardenhire missed the game due to the flu; 3B coach Scott Ullger managed the team","2006MIN.EVA.regular.comment.csv",22
+"MIN200608010",0,"Coach Scott Ullger managed in place of Ron Gardenhire who missed the game with flu-like symptoms","2006MIN.EVA.regular.comment.csv",23
+"MIN200608020",0,"Coach Scott Ullger managed in place of Ron Gardenhire who missed the game with flu-like symptoms","2006MIN.EVA.regular.comment.csv",24
+"MIN200608300",45,"Twins second baseman Luis Castillo left the game due to an injured foot/ankle","2006MIN.EVA.regular.comment.csv",25
+"MIN200609130",14,"$Liriano felt 'pop' in elbow on pitch in dirt, out for year","2006MIN.EVA.regular.comment.csv",26
+"MIN200609250",0,"KC Mgr Buddy Bell out for surgery to remove growth behind tonsils; bench coach Billy Doran running the team","2006MIN.EVA.regular.comment.csv",27
+"MIN200609270",49,"$Nick Punto called for interference","2006MIN.EVA.regular.comment.csv",28
+"MIN200609290",26,"White Sox left fielder Jerry Owens left the game due to an injured foot/ankle","2006MIN.EVA.regular.comment.csv",29
+"MIN200609300",8,"umpchange,2,ump1b,cuzzp901 umpchange,2,ump2b,(None) $1B umpire Brian O'Nora left to change into his plate gear","2006MIN.EVA.regular.comment.csv",30
+"MIN200609300",19,"umpchange,3,umphome,onorb901 $HP umpire Jerry Crawford left due to back problems","2006MIN.EVA.regular.comment.csv",31
+"MIN200609300",26,"umpchange,3,ump2b,meric901 umpchange,3,ump3b,crawj901 $umpire Jerry Crawford returns to the field at 3B and 3B umpire Chuck Meriwether moves to 2B","2006MIN.EVA.regular.comment.csv",32

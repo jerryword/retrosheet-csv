@@ -1,74 +1,37 @@
-"CHN197604170",104,"$Mike Schmidt's fourth homer in the game"FILENAME_TX","LINE_NUMBER_CT"
-
-"CHN197604210",0,"Suspend=19760422,,11,3,36"1976CHN.EVN.regular.comment.csv",2
-
-"CHN197604210",20,"30 minute rain delay"1976CHN.EVN.regular.comment.csv",3
-
-"CHN197604210",37,"31 minute rain delay with 1 strike count on Foote"1976CHN.EVN.regular.comment.csv",4
-
-"CHN197604210",47,"20 minute rain delay with 1 strike on Monday"1976CHN.EVN.regular.comment.csv",5
-
-"CHN197604210",54,"27 minute rain delay"1976CHN.EVN.regular.comment.csv",6
-
-"CHN197604210",63,"umpchange,7,ump3b,willb901 umpchange,7,ump2b,(None) suspended,19760422,CHI11,darkness $Game suspended for darkness, completed next day, but without umpire Harry Wendelstedt, who was ill"1976CHN.EVN.regular.comment.csv",7
-
-"CHN197605070",0,"Pitch totals by inning for Cubs pitchers:  1/9; 2/11; 3/19; 4/18 5/26; 6/23; 7/16; none for 8th and 9th. Pitch totals by inning for Reds pitchers:  1/7; 2/25; 3/15; 4/19; 5/21; 6/9; 7/14; none for 8th and 9th."1976CHN.EVN.regular.comment.csv",8
-
-"CHN197605080",0,"Pitch totals by inning for Cubs pitchers:  1/30; 2/21; 3/13; 4/36 5/22; 6/23; none for 7th, 8th and 9th. Pitch totals by inning for Reds pitchers:  1/35; 2/7; 3/13; 4/18; 5/13; 6/7; none for 7th, 8th and 9th."1976CHN.EVN.regular.comment.csv",9
-
-"CHN197605090",0,"Pitch totals by inning for Cubs pitchers:  1/16; 2/24 Pitch totals by inning for Reds pitchers:  1/16"1976CHN.EVN.regular.comment.csv",10
-
-"CHN197605090",81,"Debut game for Bruce Sutter"1976CHN.EVN.regular.comment.csv",11
-
-"CHN197605120",19,"$Rick Reuschel warned by HP umpire Frank Pulli"1976CHN.EVN.regular.comment.csv",12
-
-"CHN197605120",38,"$Jose Cardenal called for interference"1976CHN.EVN.regular.comment.csv",13
-
-"CHN197605130",50,"1:12 rain delay"1976CHN.EVN.regular.comment.csv",14
-
-"CHN197605290",72,"ej,kirke102,P,monte901,Called third strike Ed Kirkpatrick ejected by HP umpire Ed Montague"1976CHN.EVN.regular.comment.csv",15
-
-"CHN197605300",11,"$Dave Parker taken out because of wet field conditions"1976CHN.EVN.regular.comment.csv",16
-
-"CHN197605300",27,"$Frank Taveras failed to touch 2B"1976CHN.EVN.regular.comment.csv",17
-
-"CHN197606090",3,"missing play in CHN197606090"1976CHN.EVN.regular.comment.csv",18
-
-"CHN197606110",46,"$throw in dirt; bounce hits Bob Watson on nose"1976CHN.EVN.regular.comment.csv",19
-
-"CHN197606120",66,"ej,virdb101,M,dalej901,Balk call Astros Manager Bill Virdon ejected by HP umpire Jerry Dale"1976CHN.EVN.regular.comment.csv",20
-
-"CHN197606220",30,"1:05 rain delay"1976CHN.EVN.regular.comment.csv",21
-
-"CHN197606220",73,"$Buddy Schultz injured by Al Oliver line drive off of lower left leg"1976CHN.EVN.regular.comment.csv",22
-
-"CHN197606230",48,"30 minute rain delay with 0-1 count on Swisher"1976CHN.EVN.regular.comment.csv",23
-
-"CHN197606230",59,"33 minute rain delay with 2-0 count on Moreno"1976CHN.EVN.regular.comment.csv",24
-
-"CHN197606240",0,"2:12 rain delay before start of game"1976CHN.EVN.regular.comment.csv",25
-
-"CHN197606250",42,"$Bill Madlock fouled pitch off shin"1976CHN.EVN.regular.comment.csv",26
-
-"CHN197607050",33,"$Mick Kelleher called for interference for running into his own bunt"1976CHN.EVN.regular.comment.csv",27
-
-"CHN197608120",59,"ej,reusr001,P,kiblj901,Balls and strikes Rick Reuschel ejected by HP umpire John Kibler"1976CHN.EVN.regular.comment.csv",28
-
-"CHN197608120",62,"ej,grism101,C,pullf901,Call at 1B Cubs Coach Marv Grissom ejected by 3B umpire Frank Pulli ej,saulj801,C,pullf901,Call at 1B Cubs Coach Jim Saul ejected by 3B umpire Frank Pulli"1976CHN.EVN.regular.comment.csv",29
-
-"CHN197608270",31,"ej,marsj101,M,pullf901,Checked swing Cubs Manager Jim Marshall ejected by 1B umpire Frank Pulli"1976CHN.EVN.regular.comment.csv",30
-
-"CHN197609030",54,"Debut game for John Tamargo"1976CHN.EVN.regular.comment.csv",31
-
-"CHN197609060",25,"Debut game for Mike Krukow"1976CHN.EVN.regular.comment.csv",32
-
-"CHN197609070",47,"Debut game for Ed Putman"1976CHN.EVN.regular.comment.csv",33
-
-"CHN197609070",60,"Debut game for Lee Mazzilli"1976CHN.EVN.regular.comment.csv",34
-
-"CHN197609080",47,"Debut game for Jerry Tabb"1976CHN.EVN.regular.comment.csv",35
-
-"CHN197609170",81,"ej,madlb001,P,dalej901,Call at 1B (Threw bat) Bill Madlock ejected by HP umpire Jerry Dale"1976CHN.EVN.regular.comment.csv",36
-
-"CHN197609220",34,"$Duffy Dyer aggravated his bruised right collarbone"1976CHN.EVN.regular.comment.csv",37
-
+"CHN197604170",104,"$Mike Schmidt's fourth homer in the game","FILENAME_TX","LINE_NUMBER_CT"
+"CHN197604210",0,"Suspend=19760422,,11,3,36","1976CHN.EVN.regular.comment.csv",2
+"CHN197604210",20,"30 minute rain delay","1976CHN.EVN.regular.comment.csv",3
+"CHN197604210",37,"31 minute rain delay with 1 strike count on Foote","1976CHN.EVN.regular.comment.csv",4
+"CHN197604210",47,"20 minute rain delay with 1 strike on Monday","1976CHN.EVN.regular.comment.csv",5
+"CHN197604210",54,"27 minute rain delay","1976CHN.EVN.regular.comment.csv",6
+"CHN197604210",63,"umpchange,7,ump3b,willb901 umpchange,7,ump2b,(None) suspended,19760422,CHI11,darkness $Game suspended for darkness, completed next day, but without umpire Harry Wendelstedt, who was ill","1976CHN.EVN.regular.comment.csv",7
+"CHN197605070",0,"Pitch totals by inning for Cubs pitchers:  1/9; 2/11; 3/19; 4/18 5/26; 6/23; 7/16; none for 8th and 9th. Pitch totals by inning for Reds pitchers:  1/7; 2/25; 3/15; 4/19; 5/21; 6/9; 7/14; none for 8th and 9th.","1976CHN.EVN.regular.comment.csv",8
+"CHN197605080",0,"Pitch totals by inning for Cubs pitchers:  1/30; 2/21; 3/13; 4/36 5/22; 6/23; none for 7th, 8th and 9th. Pitch totals by inning for Reds pitchers:  1/35; 2/7; 3/13; 4/18; 5/13; 6/7; none for 7th, 8th and 9th.","1976CHN.EVN.regular.comment.csv",9
+"CHN197605090",0,"Pitch totals by inning for Cubs pitchers:  1/16; 2/24 Pitch totals by inning for Reds pitchers:  1/16","1976CHN.EVN.regular.comment.csv",10
+"CHN197605090",81,"Debut game for Bruce Sutter","1976CHN.EVN.regular.comment.csv",11
+"CHN197605120",19,"$Rick Reuschel warned by HP umpire Frank Pulli","1976CHN.EVN.regular.comment.csv",12
+"CHN197605120",38,"$Jose Cardenal called for interference","1976CHN.EVN.regular.comment.csv",13
+"CHN197605130",50,"1:12 rain delay","1976CHN.EVN.regular.comment.csv",14
+"CHN197605290",72,"ej,kirke102,P,monte901,Called third strike Ed Kirkpatrick ejected by HP umpire Ed Montague","1976CHN.EVN.regular.comment.csv",15
+"CHN197605300",11,"$Dave Parker taken out because of wet field conditions","1976CHN.EVN.regular.comment.csv",16
+"CHN197605300",27,"$Frank Taveras failed to touch 2B","1976CHN.EVN.regular.comment.csv",17
+"CHN197606090",3,"missing play in CHN197606090","1976CHN.EVN.regular.comment.csv",18
+"CHN197606110",46,"$throw in dirt; bounce hits Bob Watson on nose","1976CHN.EVN.regular.comment.csv",19
+"CHN197606120",66,"ej,virdb101,M,dalej901,Balk call Astros Manager Bill Virdon ejected by HP umpire Jerry Dale","1976CHN.EVN.regular.comment.csv",20
+"CHN197606220",30,"1:05 rain delay","1976CHN.EVN.regular.comment.csv",21
+"CHN197606220",73,"$Buddy Schultz injured by Al Oliver line drive off of lower left leg","1976CHN.EVN.regular.comment.csv",22
+"CHN197606230",48,"30 minute rain delay with 0-1 count on Swisher","1976CHN.EVN.regular.comment.csv",23
+"CHN197606230",59,"33 minute rain delay with 2-0 count on Moreno","1976CHN.EVN.regular.comment.csv",24
+"CHN197606240",0,"2:12 rain delay before start of game","1976CHN.EVN.regular.comment.csv",25
+"CHN197606250",42,"$Bill Madlock fouled pitch off shin","1976CHN.EVN.regular.comment.csv",26
+"CHN197607050",33,"$Mick Kelleher called for interference for running into his own bunt","1976CHN.EVN.regular.comment.csv",27
+"CHN197608120",59,"ej,reusr001,P,kiblj901,Balls and strikes Rick Reuschel ejected by HP umpire John Kibler","1976CHN.EVN.regular.comment.csv",28
+"CHN197608120",62,"ej,grism101,C,pullf901,Call at 1B Cubs Coach Marv Grissom ejected by 3B umpire Frank Pulli ej,saulj801,C,pullf901,Call at 1B Cubs Coach Jim Saul ejected by 3B umpire Frank Pulli","1976CHN.EVN.regular.comment.csv",29
+"CHN197608270",31,"ej,marsj101,M,pullf901,Checked swing Cubs Manager Jim Marshall ejected by 1B umpire Frank Pulli","1976CHN.EVN.regular.comment.csv",30
+"CHN197609030",54,"Debut game for John Tamargo","1976CHN.EVN.regular.comment.csv",31
+"CHN197609060",25,"Debut game for Mike Krukow","1976CHN.EVN.regular.comment.csv",32
+"CHN197609070",47,"Debut game for Ed Putman","1976CHN.EVN.regular.comment.csv",33
+"CHN197609070",60,"Debut game for Lee Mazzilli","1976CHN.EVN.regular.comment.csv",34
+"CHN197609080",47,"Debut game for Jerry Tabb","1976CHN.EVN.regular.comment.csv",35
+"CHN197609170",81,"ej,madlb001,P,dalej901,Call at 1B (Threw bat) Bill Madlock ejected by HP umpire Jerry Dale","1976CHN.EVN.regular.comment.csv",36
+"CHN197609220",34,"$Duffy Dyer aggravated his bruised right collarbone","1976CHN.EVN.regular.comment.csv",37

@@ -1,62 +1,31 @@
-"ARI201304080",26,"Pirates pitcher Wandy Rodriguez left the game due to an injured leg"FILENAME_TX","LINE_NUMBER_CT"
-
-"ARI201304130",30,"replay,4,goldp001,ARI,hirsj901,PHO01,O,N,I,,H $Paul Goldschmidt's fly hit the CF batter's eye wall just below the yellow stripe and was ruled in play; D-backs manager Kirk Gibson asked about the call so crew chief John Hirschbeck watched the replay and upheld the call"2013ARI.EVN.regular.comment.csv",2
-
-"ARI201304130",64,"ej,pennc001,P,reynj901,Called third strike (Slammed bat) Diamondbacks shortstop Cliff Pennington ejected by HP umpire Jim Reynolds when he slammed his bat on HP, breaking the bat"2013ARI.EVN.regular.comment.csv",3
-
-"ARI201304140",30,"Diamondbacks second baseman Aaron Hill left the game due to an injured wrist"2013ARI.EVN.regular.comment.csv",4
-
-"ARI201304250",30,"originally scored E5, changed to single on 5-02-2013, adds RBI and makes run earned"2013ARI.EVN.regular.comment.csv",5
-
-"ARI201304260",59,"$Diamondbacks shortstop Didi Gregorius was struck on the right side of the helmet by a 93-MPH fastball; he left with a contusion to the right temple"2013ARI.EVN.regular.comment.csv",6
-
-"ARI201304280",19,"Rockies shortstop Troy Tulowitzki left the game due to an injured shoulder"2013ARI.EVN.regular.comment.csv",7
-
-"ARI201304290",44,"ej,bochb002,M,millb901,Call at 1B Giants Manager Bruce Bochy ejected by 1B umpire Bill Miller"2013ARI.EVN.regular.comment.csv",8
-
-"ARI201304290",52,"Giants third baseman Pablo Sandoval left the game due to an injured elbow"2013ARI.EVN.regular.comment.csv",9
-
-"ARI201305130",55,"Braves center fielder B. J. Upton left the game due to an injured shoulder"2013ARI.EVN.regular.comment.csv",10
-
-"ARI201305150",20,"$originally scored as single, changed to E5 on 5-21-2013; makes run unearned"2013ARI.EVN.regular.comment.csv",11
-
-"ARI201305272",33,"Diamondbacks center fielder Gerardo Parra left the game due to an injured leg"2013ARI.EVN.regular.comment.csv",12
-
-"ARI201306070",21,"umpchange,3,ump1b,gibsg901 umpchange,3,ump2b,(None) $1B umpire Jerry Layne left after aggravating a rib injury; 2B umpire Greg Gibson moved to 1B"2013ARI.EVN.regular.comment.csv",13
-
-"ARI201306080",22,"Giants third baseman Pablo Sandoval left the game due to an injured foot"2013ARI.EVN.regular.comment.csv",14
-
-"ARI201306190",8,"Diamondbacks pitcher Trevor Cahill left the game due to an injured hip"2013ARI.EVN.regular.comment.csv",15
-
-"ARI201307050",21,"replay,3,polla001,ARI,scotd901,PHO01,O,N,I,,H $A.J. Pollock's fly hit the yellow stripe at the top of the fence in front of the LF bullpen; the ball caromed up and back onto the field and was ruled in play; the D-backs asked about the call so crew chief Dale Scott watched the replay and upheld the call"2013ARI.EVN.regular.comment.csv",16
-
-"ARI201307070",15,"Rockies pitcher Roy Oswalt left the game due to an injured leg"2013ARI.EVN.regular.comment.csv",17
-
-"ARI201307120",3,"$originally a sacrifice, but official scorer changed it to simple out after the game"2013ARI.EVN.regular.comment.csv",18
-
-"ARI201307230",21,"ej,sveud001,M,demud901,Called third strike $Cody Ransom flipped his bat and helmet away after being called out on strikes; as he removed his gloves, he shook his head slightly and walked away; HP umpire Dana DeMuth watched Ransom; Cubs manager Dale Sveum yelled from the bench at DeMuth, who ejected Sveum; Sveum came on the field and the two yelled at each other briefly; Sveum started laughing at something DeMuth said and walked away"2013ARI.EVN.regular.comment.csv",19
-
-"ARI201307250",51,"$Wade MIley chopped the bunt; the ball struck Miley on the top of the helmet and Miley was called for interference"2013ARI.EVN.regular.comment.csv",20
-
-"ARI201307250",69,"fan interference"2013ARI.EVN.regular.comment.csv",21
-
-"ARI201307260",19,"Diamondbacks second baseman Aaron Hill left the game due to an injured leg"2013ARI.EVN.regular.comment.csv",22
-
-"ARI201307270",4,"error added on 08-16-2013, removing RBI and making run unearned"2013ARI.EVN.regular.comment.csv",23
-
-"ARI201308070",17,"Rays pitcher Chris Archer left the game due to an injured arm"2013ARI.EVN.regular.comment.csv",24
-
-"ARI201308110",13,"Diamondbacks right fielder Cody Ross left the game due to an injured leg"2013ARI.EVN.regular.comment.csv",25
-
-"ARI201308110",18,"$Geraldo Parra called for interference for running into his own bunt"2013ARI.EVN.regular.comment.csv",26
-
-"ARI201308120",20,"$Geraldo Parra ran on the pitch, which got by catcher Matt Wieters; Parra rounded 3B but Manny Machado got in the way as Parra rounded 3B; Machado called for obstruction"2013ARI.EVN.regular.comment.csv",27
-
-"ARI201308270",40,"Padres third baseman Chase Headley left the game due to an injured back"2013ARI.EVN.regular.comment.csv",28
-
-"ARI201309130",58,"originally scored as WP, changed to SB on 9-14-2013"2013ARI.EVN.regular.comment.csv",29
-
-"ARI201309180",29,"$Dodgers pitching coach Rick Honeycutt visited the mound and, before the at bat was completed, manager Don Mattingly went out to change pitchers; HP umpire Joe West would not allow Mattingly to do so because of the previous visit during the same at bat"2013ARI.EVN.regular.comment.csv",30
-
-"ARI201309180",53,"ej,gonza003,P,fleta901,Call at HP Dodgers first baseman Adrian Gonzalez ejected by 2B umpire Andy Fletcher for telling Fletcher that 1B umpire Jim Joyce did not hustle to get into position to make the call at HP on Michael Young"2013ARI.EVN.regular.comment.csv",31
-
+"ARI201304080",26,"Pirates pitcher Wandy Rodriguez left the game due to an injured leg","FILENAME_TX","LINE_NUMBER_CT"
+"ARI201304130",30,"replay,4,goldp001,ARI,hirsj901,PHO01,O,N,I,,H $Paul Goldschmidt's fly hit the CF batter's eye wall just below the yellow stripe and was ruled in play; D-backs manager Kirk Gibson asked about the call so crew chief John Hirschbeck watched the replay and upheld the call","2013ARI.EVN.regular.comment.csv",2
+"ARI201304130",64,"ej,pennc001,P,reynj901,Called third strike (Slammed bat) Diamondbacks shortstop Cliff Pennington ejected by HP umpire Jim Reynolds when he slammed his bat on HP, breaking the bat","2013ARI.EVN.regular.comment.csv",3
+"ARI201304140",30,"Diamondbacks second baseman Aaron Hill left the game due to an injured wrist","2013ARI.EVN.regular.comment.csv",4
+"ARI201304250",30,"originally scored E5, changed to single on 5-02-2013, adds RBI and makes run earned","2013ARI.EVN.regular.comment.csv",5
+"ARI201304260",59,"$Diamondbacks shortstop Didi Gregorius was struck on the right side of the helmet by a 93-MPH fastball; he left with a contusion to the right temple","2013ARI.EVN.regular.comment.csv",6
+"ARI201304280",19,"Rockies shortstop Troy Tulowitzki left the game due to an injured shoulder","2013ARI.EVN.regular.comment.csv",7
+"ARI201304290",44,"ej,bochb002,M,millb901,Call at 1B Giants Manager Bruce Bochy ejected by 1B umpire Bill Miller","2013ARI.EVN.regular.comment.csv",8
+"ARI201304290",52,"Giants third baseman Pablo Sandoval left the game due to an injured elbow","2013ARI.EVN.regular.comment.csv",9
+"ARI201305130",55,"Braves center fielder B. J. Upton left the game due to an injured shoulder","2013ARI.EVN.regular.comment.csv",10
+"ARI201305150",20,"$originally scored as single, changed to E5 on 5-21-2013; makes run unearned","2013ARI.EVN.regular.comment.csv",11
+"ARI201305272",33,"Diamondbacks center fielder Gerardo Parra left the game due to an injured leg","2013ARI.EVN.regular.comment.csv",12
+"ARI201306070",21,"umpchange,3,ump1b,gibsg901 umpchange,3,ump2b,(None) $1B umpire Jerry Layne left after aggravating a rib injury; 2B umpire Greg Gibson moved to 1B","2013ARI.EVN.regular.comment.csv",13
+"ARI201306080",22,"Giants third baseman Pablo Sandoval left the game due to an injured foot","2013ARI.EVN.regular.comment.csv",14
+"ARI201306190",8,"Diamondbacks pitcher Trevor Cahill left the game due to an injured hip","2013ARI.EVN.regular.comment.csv",15
+"ARI201307050",21,"replay,3,polla001,ARI,scotd901,PHO01,O,N,I,,H $A.J. Pollock's fly hit the yellow stripe at the top of the fence in front of the LF bullpen; the ball caromed up and back onto the field and was ruled in play; the D-backs asked about the call so crew chief Dale Scott watched the replay and upheld the call","2013ARI.EVN.regular.comment.csv",16
+"ARI201307070",15,"Rockies pitcher Roy Oswalt left the game due to an injured leg","2013ARI.EVN.regular.comment.csv",17
+"ARI201307120",3,"$originally a sacrifice, but official scorer changed it to simple out after the game","2013ARI.EVN.regular.comment.csv",18
+"ARI201307230",21,"ej,sveud001,M,demud901,Called third strike $Cody Ransom flipped his bat and helmet away after being called out on strikes; as he removed his gloves, he shook his head slightly and walked away; HP umpire Dana DeMuth watched Ransom; Cubs manager Dale Sveum yelled from the bench at DeMuth, who ejected Sveum; Sveum came on the field and the two yelled at each other briefly; Sveum started laughing at something DeMuth said and walked away","2013ARI.EVN.regular.comment.csv",19
+"ARI201307250",51,"$Wade MIley chopped the bunt; the ball struck Miley on the top of the helmet and Miley was called for interference","2013ARI.EVN.regular.comment.csv",20
+"ARI201307250",69,"fan interference","2013ARI.EVN.regular.comment.csv",21
+"ARI201307260",19,"Diamondbacks second baseman Aaron Hill left the game due to an injured leg","2013ARI.EVN.regular.comment.csv",22
+"ARI201307270",4,"error added on 08-16-2013, removing RBI and making run unearned","2013ARI.EVN.regular.comment.csv",23
+"ARI201308070",17,"Rays pitcher Chris Archer left the game due to an injured arm","2013ARI.EVN.regular.comment.csv",24
+"ARI201308110",13,"Diamondbacks right fielder Cody Ross left the game due to an injured leg","2013ARI.EVN.regular.comment.csv",25
+"ARI201308110",18,"$Geraldo Parra called for interference for running into his own bunt","2013ARI.EVN.regular.comment.csv",26
+"ARI201308120",20,"$Geraldo Parra ran on the pitch, which got by catcher Matt Wieters; Parra rounded 3B but Manny Machado got in the way as Parra rounded 3B; Machado called for obstruction","2013ARI.EVN.regular.comment.csv",27
+"ARI201308270",40,"Padres third baseman Chase Headley left the game due to an injured back","2013ARI.EVN.regular.comment.csv",28
+"ARI201309130",58,"originally scored as WP, changed to SB on 9-14-2013","2013ARI.EVN.regular.comment.csv",29
+"ARI201309180",29,"$Dodgers pitching coach Rick Honeycutt visited the mound and, before the at bat was completed, manager Don Mattingly went out to change pitchers; HP umpire Joe West would not allow Mattingly to do so because of the previous visit during the same at bat","2013ARI.EVN.regular.comment.csv",30
+"ARI201309180",53,"ej,gonza003,P,fleta901,Call at HP Dodgers first baseman Adrian Gonzalez ejected by 2B umpire Andy Fletcher for telling Fletcher that 1B umpire Jim Joyce did not hustle to get into position to make the call at HP on Michael Young","2013ARI.EVN.regular.comment.csv",31

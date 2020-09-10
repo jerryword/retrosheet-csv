@@ -1,146 +1,73 @@
-"NYN201704030",50,"New York Mets pitcher Noah Syndergaard left the game due to an injured hand"FILENAME_TX","LINE_NUMBER_CT"
-
-"NYN201704030",58,"replay,7,cabra002,NYN,kellj901,NYC20,,Y,M,NYN,A $when Wilmer Flores was called out at HP, Mets manager Terry Collins challenged the ruling; the call was overturned by replay"2017NYN.EVN.regular.comment.csv",2
-
-"NYN201704050",30,"replay,5,garca004,ATL,kellj901,NYC20,,Y,M,NYN,C $when Adonis Garcia was called safe at 1B, Mets manager Terry Collins challenged the ruling; the call was overturned by replay"2017NYN.EVN.regular.comment.csv",3
-
-"NYN201704080",53,"replay,7,yelic001,MIA,davig901,NYC20,,N,M,NYN,C $when Christian Yelich was called safe at 1B, Mets manager Terry Collins challenged the ruling; the call was upheld by replay"2017NYN.EVN.regular.comment.csv",4
-
-"NYN201704090",24,"replay,3,realj001,MIA,davig901,NYC20,,Y,M,MIA,C $when J.T. Realmuto was called out at 1B, Marlins manager Don Mattingly challenged the ruling; the call was overturned by replay"2017NYN.EVN.regular.comment.csv",5
-
-"NYN201704180",11,"$originally scored as wild pitch, changed to passed ball on 04-27-2017; run now unearned"2017NYN.EVN.regular.comment.csv",6
-
-"NYN201704180",66,"replay,8,blana001,PHI,holbs901,NYC20,,Y,M,NYN,S $when Andres Blanco's fly to LF bounced up and struck the wall above the orange line, the ball was ruled in play; Mets manager Terry Collins challenged the the ruling, and the call was overturned by replay to an automatic double, taking a run off the board"2017NYN.EVN.regular.comment.csv",7
-
-"NYN201704190",36,"Mets first baseman Lucas Duda left the game due to an injured elbow"2017NYN.EVN.regular.comment.csv",8
-
-"NYN201704190",50,"Mets catcher Travis d'Arnaud left the game due to an injured wrist"2017NYN.EVN.regular.comment.csv",9
-
-"NYN201704200",51,"Mets left fielder Yoenis Cespedes left the game due to an injured leg"2017NYN.EVN.regular.comment.csv",10
-
-"NYN201704210",83,"replay,11,renda001,WAS,demud901,NYC20,,N,M,NYN,A $when Bryce Harper was called safe at 3B, Mets manager Terry Collins challenged the ruling; the call was upheld by replay"2017NYN.EVN.regular.comment.csv",11
-
-"NYN201704220",56,"replay,7,renda001,WAS,demud901,NYC20,,Y,M,NYN,C $when Anthony Rendon was called safe at 1B, Mets manager Terry Collins challenged the ruling; the call was overturned by replay"2017NYN.EVN.regular.comment.csv",12
-
-"NYN201704230",56,"replay,8,harpb003,WAS,demud901,NYC20,,N,M,NYN,D $when Michael Conforto was ruled not to have caught the line drive, Mets manager Terry Collins challenged the ruling; the call was upheld by replay"2017NYN.EVN.regular.comment.csv",13
-
-"NYN201704260",6,"replay,1,markn001,ATL,nelsj901,NYC20,,Y,M,ATL,A $when Freddie Freeman was called out at HP, Braves manager Brian Snitker challenged the ruling; the call was overturned by replay"2017NYN.EVN.regular.comment.csv",14
-
-"NYN201704260",14,"Braves second baseman Brandon Phillips left the game due to an injured groin"2017NYN.EVN.regular.comment.csv",15
-
-"NYN201704260",80,"replay,9,wislm001,ATL,nelsj901,NYC20,,Y,M,NYN,C $when Matt Wisler was called safe at 1B, Mets manager Terry Collins challenged the ruling; the call was overturned by replay"2017NYN.EVN.regular.comment.csv",16
-
-"NYN201704270",27,"replay,4,petej002,ATL,nelsj901,NYC20,,Y,M,ATL,C $when Jace Peterson was called out at 1B, Braves manager Brian Snitker challenged the ruling; the call was overturned by replay"2017NYN.EVN.regular.comment.csv",17
-
-"NYN201704270",31,"Mets left fielder Yoenis Cespedes left the game due to an injured leg"2017NYN.EVN.regular.comment.csv",18
-
-"NYN201704270",47,"Braves pitcher R.A. Dickey left the game due to an injured leg"2017NYN.EVN.regular.comment.csv",19
-
-"NYN201704270",79,"replay,9,reyej001,NYN,nelsj901,NYC20,,N,M,ATL,A $when Curtis Granderson was called safe at HP, Braves manager Brian Snitker challenged the ruling; the call was upheld by replay"2017NYN.EVN.regular.comment.csv",20
-
-"NYN201705060",26,"Mets shortstop Asdrubal Cabrera left the game due to an injured hand"2017NYN.EVN.regular.comment.csv",21
-
-"NYN201705070",14,"Marlins third baseman Miguel Rojas left the game due to an injured hand"2017NYN.EVN.regular.comment.csv",22
-
-"NYN201705070",55,"Marlins third baseman Martin Prado left the game due to an injured leg"2017NYN.EVN.regular.comment.csv",23
-
-"NYN201705090",28,"replay,4,pench001,SFN,reynj901,NYC20,,N,M,SFN,C $when Hunter Pence was called out at 1B, Giants manager Bruce Bochy challenged the ruling; the call was upheld by replay"2017NYN.EVN.regular.comment.csv",24
-
-"NYN201705210",62,"replay,7,valbl001,ANA,cedeg901,NYC20,,Y,M,NYN,A $when Danny Espinosa was called safe at 2B, Mets manager Terry Collins challenged the ruling; the call was overturned by replay"2017NYN.EVN.regular.comment.csv",25
-
-"NYN201705230",47,"Mets right fielder Jay Bruce left the game due to an injured back"2017NYN.EVN.regular.comment.csv",26
-
-"NYN201705240",22,"Padres center fielder Manuel Margot left the game due to an injured leg"2017NYN.EVN.regular.comment.csv",27
-
-"NYN201705300",98,"replay,12,arcio002,MIL,culbf901,NYC20,,Y,M,NYN,C $when Manny Pina was called safe at 2B, Mets manager Terry Collins challenged the ruling; the call was overturned by replay"2017NYN.EVN.regular.comment.csv",28
-
-"NYN201706010",29,"ej,collt801,M,culbf901,Interference non-call $Wilmer Flores ran under the popup near the Brewers dugout but was bumped by the batboy; the ball dropped to the ground and interference was called on the play; then the umpires huddled and reversed the call, removing the interference; the rule states that the interference has to be intentional and it was not in this case; Mets Manager Terry Collins ejected by 3B umpire Fieldin Culbreth"2017NYN.EVN.regular.comment.csv",29
-
-"NYN201706040",53,"replay,7,jasoj001,PIT,reynj901,NYC20,,Y,M,PIT,C $when Josh Harrison was called out at 2B, Pirates manager Clint Hurdle challenged the ruling; the call was overturned by replay"2017NYN.EVN.regular.comment.csv",30
-
-"NYN201706040",53,"Pirates second baseman Josh Harrison left the game due to an injured leg"2017NYN.EVN.regular.comment.csv",31
-
-"NYN201706040",63,"replay,8,gossp001,PIT,reynj901,NYC20,,N,M,NYN,C $when Phil Gosselin was called safe at 1B, Mets manager Terry Collins challenged the ruling; the call was upheld by replay"2017NYN.EVN.regular.comment.csv",32
-
-"NYN201706120",41,"Mets left fielder Yoenis Cespedes left the game due to an injured foot"2017NYN.EVN.regular.comment.csv",33
-
-"NYN201706120",52,"replay,7,baezj001,CHN,wintm901,NYC20,,Y,M,NYN,C $when Javier Baez was called safe at 1B, Mets manager Terry Collins challenged the ruling; the call was overturned by replay"2017NYN.EVN.regular.comment.csv",34
-
-"NYN201706140",26,"Mets second baseman Neil Walker left the game due to an injured leg"2017NYN.EVN.regular.comment.csv",35
-
-"NYN201706140",44,"replay,5,rivet001,NYN,wintm901,NYC20,,Y,M,NYN,C $when T.J. Rivera was called out at 1B, Mets manager Terry Collins challenged the ruling; the call was overturned by replay"2017NYN.EVN.regular.comment.csv",36
-
-"NYN201706150",21,"replay,3,murpd006,WAS,gormb901,NYC20,,N,M,WAS,A $when Bryce Harper was called out at HP, Nationals manager Dusty Baker challenged the ruling; the call was upheld by replay"2017NYN.EVN.regular.comment.csv",37
-
-"NYN201706150",45,"Mets center fielder Juan Lagares left the game due to an injured hand"2017NYN.EVN.regular.comment.csv",38
-
-"NYN201706300",50,"$The ball dribbled about 10 feet up 1st base line, but Franco failed to run"2017NYN.EVN.regular.comment.csv",39
-
-"NYN201707010",9,"$Mets challenged tag on caught stealing; call upheld  - caught stealing"2017NYN.EVN.regular.comment.csv",40
-
-"NYN201707020",59,"$Phillies challenged call that Franco was out at first for double play; call was overturned - forceout"2017NYN.EVN.regular.comment.csv",41
-
-"NYN201707020",74,"$umpires reviewed call of forceout at 2nd; call overturned safe at 2nd on missed catch error"2017NYN.EVN.regular.comment.csv",42
-
-"NYN201707140",53,"$Mets challenged call that LeMahieu was safe at home; call was overturned - double play"2017NYN.EVN.regular.comment.csv",43
-
-"NYN201707160",75,"$originally scored as error, changed to single on 07-20-2017"2017NYN.EVN.regular.comment.csv",44
-
-"NYN201707180",16,"$originally scored as error, changed to RBI single on 08-02-2017, making run earned"2017NYN.EVN.regular.comment.csv",45
-
-"NYN201707180",25,"$Cardinals challenged call that Wong was caught stealing; call was overturned - stolen base"2017NYN.EVN.regular.comment.csv",46
-
-"NYN201707190",45,"$J.D. Martinez left with injured hand"2017NYN.EVN.regular.comment.csv",47
-
-"NYN201707200",60,"$Cardinals challenged call that Granderson was safe at 1st; call was overturned - ground out"2017NYN.EVN.regular.comment.csv",48
-
-"NYN201707210",34,"$Athletics challenged call that David was out at 2nd; call was overturned - stolen base"2017NYN.EVN.regular.comment.csv",49
-
-"NYN201707220",58,"$Mets challenged tag play at third that Conforto was out; call was overturned - safe at third on error"2017NYN.EVN.regular.comment.csv",50
-
-"NYN201708050",16,"$Mets challenged call that Rivera was out at 3rd; call was overturned - safe on missed catch error"2017NYN.EVN.regular.comment.csv",51
-
-"NYN201708050",64,"$Dodgers challenged call that Hernandez was out trying to advance; call was overturned - safe on wild pitch"2017NYN.EVN.regular.comment.csv",52
-
-"NYN201708060",4,"$Dodgers challenged call that Turner was out attempting to steal 2nd; call was overturned - stolen base"2017NYN.EVN.regular.comment.csv",53
-
-"NYN201708090",47,"$umpires reviewed call that Flores hit double; call was overturned - home run"2017NYN.EVN.regular.comment.csv",54
-
-"NYN201708160",11,"$d'Arnaud played third because of an injury to the regular Met's third baseman; he played second when roght-handed batters were up so he wouldn't have to worry about balls down the line; when left-handed batters were up he moved to third and Cabrera to 2nd"2017NYN.EVN.regular.comment.csv",55
-
-"NYN201708180",34,"$Marlins challenged call that Reynolds was safe at 1st; call was overturned - ground out"2017NYN.EVN.regular.comment.csv",56
-
-"NYN201708200",22,"$Mets challenged call that Conley was safe at 2nd on force; call was overturned - forceout, no single"2017NYN.EVN.regular.comment.csv",57
-
-"NYN201708210",55,"$Jeff Mathis left with injured hand"2017NYN.EVN.regular.comment.csv",58
-
-"NYN201708210",62,"$Mets challenged call that Cabrera was out at home; call was upheld - out at home"2017NYN.EVN.regular.comment.csv",59
-
-"NYN201708230",55,"$Diamondbacks challenged call that Lagares was safe at 1st; call was overturned - out to complete double play"2017NYN.EVN.regular.comment.csv",60
-
-"NYN201708240",35,"$Diamondbacks challenged call that Ray was out at 1st on sacrifice; call was overturned - safe for single"2017NYN.EVN.regular.comment.csv",61
-
-"NYN201708240",43,"$Michael Conforto left with injured shoulder"2017NYN.EVN.regular.comment.csv",62
-
-"NYN201709060",52,"$Game called for rain"2017NYN.EVN.regular.comment.csv",63
-
-"NYN201709070",26,"$Umpires reviewed Cabrera's ball to see if it were a home run; call was upheld - double"2017NYN.EVN.regular.comment.csv",64
-
-"NYN201709080",61,"$Mets challenged call, claiming that Ervin had violated the slide rule at 2nd; call was upheld - forceout"2017NYN.EVN.regular.comment.csv",65
-
-"NYN201709100",53,"$Cabrera left with injured ankle"2017NYN.EVN.regular.comment.csv",66
-
-"NYN201709100",64,"ej,genns001,P,lives901,Called third strike $Gennett ejected by HP umpire Livensparger for arguing Called third strike"2017NYN.EVN.regular.comment.csv",67
-
-"NYN201709100",73,"ej,collt801,M,laynj901,Replay ruling $Reds challenged call that Schebler was out at home; call overturned - safe; Mets manager Collins argued the replay ruling and was ejected by 1b umpire Layne"2017NYN.EVN.regular.comment.csv",68
-
-"NYN201709230",17,"$Mets challenged call that Stevenson was safe on pickoff after 1st pitch; call was upheld - pickoff attempt, no out"2017NYN.EVN.regular.comment.csv",69
-
-"NYN201709240",53,"$Mets challenged call that Evans was out returning to 1st; call was upheld - out to complete double play"2017NYN.EVN.regular.comment.csv",70
-
-"NYN201709251",15,"$Mets challenged call that Swanson was safe at first; call was overturned - forceout at 2nd"2017NYN.EVN.regular.comment.csv",71
-
-"NYN201709251",75,"$Braves challenged call that Swanson was out at 1st; call was upheld - ground out"2017NYN.EVN.regular.comment.csv",72
-
-"NYN201709270",1,"$Inciarte out for interferring with the catcher"2017NYN.EVN.regular.comment.csv",73
-
+"NYN201704030",50,"New York Mets pitcher Noah Syndergaard left the game due to an injured hand","FILENAME_TX","LINE_NUMBER_CT"
+"NYN201704030",58,"replay,7,cabra002,NYN,kellj901,NYC20,,Y,M,NYN,A $when Wilmer Flores was called out at HP, Mets manager Terry Collins challenged the ruling; the call was overturned by replay","2017NYN.EVN.regular.comment.csv",2
+"NYN201704050",30,"replay,5,garca004,ATL,kellj901,NYC20,,Y,M,NYN,C $when Adonis Garcia was called safe at 1B, Mets manager Terry Collins challenged the ruling; the call was overturned by replay","2017NYN.EVN.regular.comment.csv",3
+"NYN201704080",53,"replay,7,yelic001,MIA,davig901,NYC20,,N,M,NYN,C $when Christian Yelich was called safe at 1B, Mets manager Terry Collins challenged the ruling; the call was upheld by replay","2017NYN.EVN.regular.comment.csv",4
+"NYN201704090",24,"replay,3,realj001,MIA,davig901,NYC20,,Y,M,MIA,C $when J.T. Realmuto was called out at 1B, Marlins manager Don Mattingly challenged the ruling; the call was overturned by replay","2017NYN.EVN.regular.comment.csv",5
+"NYN201704180",11,"$originally scored as wild pitch, changed to passed ball on 04-27-2017; run now unearned","2017NYN.EVN.regular.comment.csv",6
+"NYN201704180",66,"replay,8,blana001,PHI,holbs901,NYC20,,Y,M,NYN,S $when Andres Blanco's fly to LF bounced up and struck the wall above the orange line, the ball was ruled in play; Mets manager Terry Collins challenged the the ruling, and the call was overturned by replay to an automatic double, taking a run off the board","2017NYN.EVN.regular.comment.csv",7
+"NYN201704190",36,"Mets first baseman Lucas Duda left the game due to an injured elbow","2017NYN.EVN.regular.comment.csv",8
+"NYN201704190",50,"Mets catcher Travis d'Arnaud left the game due to an injured wrist","2017NYN.EVN.regular.comment.csv",9
+"NYN201704200",51,"Mets left fielder Yoenis Cespedes left the game due to an injured leg","2017NYN.EVN.regular.comment.csv",10
+"NYN201704210",83,"replay,11,renda001,WAS,demud901,NYC20,,N,M,NYN,A $when Bryce Harper was called safe at 3B, Mets manager Terry Collins challenged the ruling; the call was upheld by replay","2017NYN.EVN.regular.comment.csv",11
+"NYN201704220",56,"replay,7,renda001,WAS,demud901,NYC20,,Y,M,NYN,C $when Anthony Rendon was called safe at 1B, Mets manager Terry Collins challenged the ruling; the call was overturned by replay","2017NYN.EVN.regular.comment.csv",12
+"NYN201704230",56,"replay,8,harpb003,WAS,demud901,NYC20,,N,M,NYN,D $when Michael Conforto was ruled not to have caught the line drive, Mets manager Terry Collins challenged the ruling; the call was upheld by replay","2017NYN.EVN.regular.comment.csv",13
+"NYN201704260",6,"replay,1,markn001,ATL,nelsj901,NYC20,,Y,M,ATL,A $when Freddie Freeman was called out at HP, Braves manager Brian Snitker challenged the ruling; the call was overturned by replay","2017NYN.EVN.regular.comment.csv",14
+"NYN201704260",14,"Braves second baseman Brandon Phillips left the game due to an injured groin","2017NYN.EVN.regular.comment.csv",15
+"NYN201704260",80,"replay,9,wislm001,ATL,nelsj901,NYC20,,Y,M,NYN,C $when Matt Wisler was called safe at 1B, Mets manager Terry Collins challenged the ruling; the call was overturned by replay","2017NYN.EVN.regular.comment.csv",16
+"NYN201704270",27,"replay,4,petej002,ATL,nelsj901,NYC20,,Y,M,ATL,C $when Jace Peterson was called out at 1B, Braves manager Brian Snitker challenged the ruling; the call was overturned by replay","2017NYN.EVN.regular.comment.csv",17
+"NYN201704270",31,"Mets left fielder Yoenis Cespedes left the game due to an injured leg","2017NYN.EVN.regular.comment.csv",18
+"NYN201704270",47,"Braves pitcher R.A. Dickey left the game due to an injured leg","2017NYN.EVN.regular.comment.csv",19
+"NYN201704270",79,"replay,9,reyej001,NYN,nelsj901,NYC20,,N,M,ATL,A $when Curtis Granderson was called safe at HP, Braves manager Brian Snitker challenged the ruling; the call was upheld by replay","2017NYN.EVN.regular.comment.csv",20
+"NYN201705060",26,"Mets shortstop Asdrubal Cabrera left the game due to an injured hand","2017NYN.EVN.regular.comment.csv",21
+"NYN201705070",14,"Marlins third baseman Miguel Rojas left the game due to an injured hand","2017NYN.EVN.regular.comment.csv",22
+"NYN201705070",55,"Marlins third baseman Martin Prado left the game due to an injured leg","2017NYN.EVN.regular.comment.csv",23
+"NYN201705090",28,"replay,4,pench001,SFN,reynj901,NYC20,,N,M,SFN,C $when Hunter Pence was called out at 1B, Giants manager Bruce Bochy challenged the ruling; the call was upheld by replay","2017NYN.EVN.regular.comment.csv",24
+"NYN201705210",62,"replay,7,valbl001,ANA,cedeg901,NYC20,,Y,M,NYN,A $when Danny Espinosa was called safe at 2B, Mets manager Terry Collins challenged the ruling; the call was overturned by replay","2017NYN.EVN.regular.comment.csv",25
+"NYN201705230",47,"Mets right fielder Jay Bruce left the game due to an injured back","2017NYN.EVN.regular.comment.csv",26
+"NYN201705240",22,"Padres center fielder Manuel Margot left the game due to an injured leg","2017NYN.EVN.regular.comment.csv",27
+"NYN201705300",98,"replay,12,arcio002,MIL,culbf901,NYC20,,Y,M,NYN,C $when Manny Pina was called safe at 2B, Mets manager Terry Collins challenged the ruling; the call was overturned by replay","2017NYN.EVN.regular.comment.csv",28
+"NYN201706010",29,"ej,collt801,M,culbf901,Interference non-call $Wilmer Flores ran under the popup near the Brewers dugout but was bumped by the batboy; the ball dropped to the ground and interference was called on the play; then the umpires huddled and reversed the call, removing the interference; the rule states that the interference has to be intentional and it was not in this case; Mets Manager Terry Collins ejected by 3B umpire Fieldin Culbreth","2017NYN.EVN.regular.comment.csv",29
+"NYN201706040",53,"replay,7,jasoj001,PIT,reynj901,NYC20,,Y,M,PIT,C $when Josh Harrison was called out at 2B, Pirates manager Clint Hurdle challenged the ruling; the call was overturned by replay","2017NYN.EVN.regular.comment.csv",30
+"NYN201706040",53,"Pirates second baseman Josh Harrison left the game due to an injured leg","2017NYN.EVN.regular.comment.csv",31
+"NYN201706040",63,"replay,8,gossp001,PIT,reynj901,NYC20,,N,M,NYN,C $when Phil Gosselin was called safe at 1B, Mets manager Terry Collins challenged the ruling; the call was upheld by replay","2017NYN.EVN.regular.comment.csv",32
+"NYN201706120",41,"Mets left fielder Yoenis Cespedes left the game due to an injured foot","2017NYN.EVN.regular.comment.csv",33
+"NYN201706120",52,"replay,7,baezj001,CHN,wintm901,NYC20,,Y,M,NYN,C $when Javier Baez was called safe at 1B, Mets manager Terry Collins challenged the ruling; the call was overturned by replay","2017NYN.EVN.regular.comment.csv",34
+"NYN201706140",26,"Mets second baseman Neil Walker left the game due to an injured leg","2017NYN.EVN.regular.comment.csv",35
+"NYN201706140",44,"replay,5,rivet001,NYN,wintm901,NYC20,,Y,M,NYN,C $when T.J. Rivera was called out at 1B, Mets manager Terry Collins challenged the ruling; the call was overturned by replay","2017NYN.EVN.regular.comment.csv",36
+"NYN201706150",21,"replay,3,murpd006,WAS,gormb901,NYC20,,N,M,WAS,A $when Bryce Harper was called out at HP, Nationals manager Dusty Baker challenged the ruling; the call was upheld by replay","2017NYN.EVN.regular.comment.csv",37
+"NYN201706150",45,"Mets center fielder Juan Lagares left the game due to an injured hand","2017NYN.EVN.regular.comment.csv",38
+"NYN201706300",50,"$The ball dribbled about 10 feet up 1st base line, but Franco failed to run","2017NYN.EVN.regular.comment.csv",39
+"NYN201707010",9,"$Mets challenged tag on caught stealing; call upheld  - caught stealing","2017NYN.EVN.regular.comment.csv",40
+"NYN201707020",59,"$Phillies challenged call that Franco was out at first for double play; call was overturned - forceout","2017NYN.EVN.regular.comment.csv",41
+"NYN201707020",74,"$umpires reviewed call of forceout at 2nd; call overturned safe at 2nd on missed catch error","2017NYN.EVN.regular.comment.csv",42
+"NYN201707140",53,"$Mets challenged call that LeMahieu was safe at home; call was overturned - double play","2017NYN.EVN.regular.comment.csv",43
+"NYN201707160",75,"$originally scored as error, changed to single on 07-20-2017","2017NYN.EVN.regular.comment.csv",44
+"NYN201707180",16,"$originally scored as error, changed to RBI single on 08-02-2017, making run earned","2017NYN.EVN.regular.comment.csv",45
+"NYN201707180",25,"$Cardinals challenged call that Wong was caught stealing; call was overturned - stolen base","2017NYN.EVN.regular.comment.csv",46
+"NYN201707190",45,"$J.D. Martinez left with injured hand","2017NYN.EVN.regular.comment.csv",47
+"NYN201707200",60,"$Cardinals challenged call that Granderson was safe at 1st; call was overturned - ground out","2017NYN.EVN.regular.comment.csv",48
+"NYN201707210",34,"$Athletics challenged call that David was out at 2nd; call was overturned - stolen base","2017NYN.EVN.regular.comment.csv",49
+"NYN201707220",58,"$Mets challenged tag play at third that Conforto was out; call was overturned - safe at third on error","2017NYN.EVN.regular.comment.csv",50
+"NYN201708050",16,"$Mets challenged call that Rivera was out at 3rd; call was overturned - safe on missed catch error","2017NYN.EVN.regular.comment.csv",51
+"NYN201708050",64,"$Dodgers challenged call that Hernandez was out trying to advance; call was overturned - safe on wild pitch","2017NYN.EVN.regular.comment.csv",52
+"NYN201708060",4,"$Dodgers challenged call that Turner was out attempting to steal 2nd; call was overturned - stolen base","2017NYN.EVN.regular.comment.csv",53
+"NYN201708090",47,"$umpires reviewed call that Flores hit double; call was overturned - home run","2017NYN.EVN.regular.comment.csv",54
+"NYN201708160",11,"$d'Arnaud played third because of an injury to the regular Met's third baseman; he played second when roght-handed batters were up so he wouldn't have to worry about balls down the line; when left-handed batters were up he moved to third and Cabrera to 2nd","2017NYN.EVN.regular.comment.csv",55
+"NYN201708180",34,"$Marlins challenged call that Reynolds was safe at 1st; call was overturned - ground out","2017NYN.EVN.regular.comment.csv",56
+"NYN201708200",22,"$Mets challenged call that Conley was safe at 2nd on force; call was overturned - forceout, no single","2017NYN.EVN.regular.comment.csv",57
+"NYN201708210",55,"$Jeff Mathis left with injured hand","2017NYN.EVN.regular.comment.csv",58
+"NYN201708210",62,"$Mets challenged call that Cabrera was out at home; call was upheld - out at home","2017NYN.EVN.regular.comment.csv",59
+"NYN201708230",55,"$Diamondbacks challenged call that Lagares was safe at 1st; call was overturned - out to complete double play","2017NYN.EVN.regular.comment.csv",60
+"NYN201708240",35,"$Diamondbacks challenged call that Ray was out at 1st on sacrifice; call was overturned - safe for single","2017NYN.EVN.regular.comment.csv",61
+"NYN201708240",43,"$Michael Conforto left with injured shoulder","2017NYN.EVN.regular.comment.csv",62
+"NYN201709060",52,"$Game called for rain","2017NYN.EVN.regular.comment.csv",63
+"NYN201709070",26,"$Umpires reviewed Cabrera's ball to see if it were a home run; call was upheld - double","2017NYN.EVN.regular.comment.csv",64
+"NYN201709080",61,"$Mets challenged call, claiming that Ervin had violated the slide rule at 2nd; call was upheld - forceout","2017NYN.EVN.regular.comment.csv",65
+"NYN201709100",53,"$Cabrera left with injured ankle","2017NYN.EVN.regular.comment.csv",66
+"NYN201709100",64,"ej,genns001,P,lives901,Called third strike $Gennett ejected by HP umpire Livensparger for arguing Called third strike","2017NYN.EVN.regular.comment.csv",67
+"NYN201709100",73,"ej,collt801,M,laynj901,Replay ruling $Reds challenged call that Schebler was out at home; call overturned - safe; Mets manager Collins argued the replay ruling and was ejected by 1b umpire Layne","2017NYN.EVN.regular.comment.csv",68
+"NYN201709230",17,"$Mets challenged call that Stevenson was safe on pickoff after 1st pitch; call was upheld - pickoff attempt, no out","2017NYN.EVN.regular.comment.csv",69
+"NYN201709240",53,"$Mets challenged call that Evans was out returning to 1st; call was upheld - out to complete double play","2017NYN.EVN.regular.comment.csv",70
+"NYN201709251",15,"$Mets challenged call that Swanson was safe at first; call was overturned - forceout at 2nd","2017NYN.EVN.regular.comment.csv",71
+"NYN201709251",75,"$Braves challenged call that Swanson was out at 1st; call was upheld - ground out","2017NYN.EVN.regular.comment.csv",72
+"NYN201709270",1,"$Inciarte out for interferring with the catcher","2017NYN.EVN.regular.comment.csv",73

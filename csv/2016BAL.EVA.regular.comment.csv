@@ -1,154 +1,77 @@
-"BAL201604060",32,"replay,4,hardj003,BAL,wintm901,BAL12,,N,M,MIN,A $when J.J. Hardy was called safe at 2B, Twins manager Paul Molitor challenged the ruling; the call was upheld by replay"FILENAME_TX","LINE_NUMBER_CT"
-
-"BAL201604100",41,"$run originally scored as earned, changed to unearned on 4-11-2016"2016BAL.EVA.regular.comment.csv",2
-
-"BAL201604100",45,"replay,5,davic003,BAL,demud901,BAL12,,Y,M,TBA,A $when Manny Machado was called safe at 1B, Rays manager Kevin Cash challenged the ruling; the call was overturned by replay"2016BAL.EVA.regular.comment.csv",3
-
-"BAL201604190",33,"replay,4,wietm001,BAL,hallt901,BAL12,,N,M,TOR,C $when Matt Wieters was called safe at 1B, Blue Jays manager John Gibbons challenged the ruling; the call was upheld by replay"2016BAL.EVA.regular.comment.csv",4
-
-"BAL201604190",47,"Orioles center fielder Adam Jones left the game due to an injured chest"2016BAL.EVA.regular.comment.csv",5
-
-"BAL201604190",55,"replay,7,wietm001,BAL,hallt901,BAL12,,N,U,,H $Matt Wieters' fly to RF was touched by a fan at the railing above the scoreboard; crew chief Tom Hallion requested a review, which upheld the call"2016BAL.EVA.regular.comment.csv",6
-
-"BAL201604210",10,"replay,1,machm001,BAL,hallt901,BAL12,,N,M,TOR,A $when Joey Rickard was called safe at 2B, Blue Jays manager John Gibbons challenged the ruling; the call was upheld by replay"2016BAL.EVA.regular.comment.csv",7
-
-"BAL201604210",46,"ej,wietm001,P,belld901,Checked swing Orioles catcher Matt Wieters ejected by HP umpire Dan Bellino"2016BAL.EVA.regular.comment.csv",8
-
-"BAL201604290",22,"replay,4,frazt001,CHA,davig901,BAL12,,N,M,BAL,E replay,4,frazt001,CHA,davig901,BAL12,,Y,M,BAL,C $when Todd Frazier was called safe at 1B, Orioles manager Buck Showalter challenged the ruling; the call was overturned by replay"2016BAL.EVA.regular.comment.csv",9
-
-"BAL201604290",63,"replay,8,jonea003,BAL,davig901,BAL12,,N,M,BAL,C $when Mark Trumbo was called out at 2B, Orioles manager Buck Showalter challenged the ruling; the call was upheld by replay"2016BAL.EVA.regular.comment.csv",10
-
-"BAL201604300",23,"replay,3,jonea003,BAL,davig901,BAL12,,N,M,CHA,E ej,ventr001,M,davig901,Replay ruling $when Manny Machado was ruled to have made a legal slide at 2B, White Sox manager Robin Ventura challenged the ruling; the call was upheld by replay; Ventura ejected by 1B umpire Gerry Davis for arguing the replay result"2016BAL.EVA.regular.comment.csv",11
-
-"BAL201604300",60,"replay,7,jacka001,CHA,davig901,BAL12,,N,M,BAL,A $when Brett Lawrie was called safe at HP, Orioles manager Buck Showalter challenged the ruling; the call was upheld by replay"2016BAL.EVA.regular.comment.csv",12
-
-"BAL201605010",49,"Orioles shortstop J. Hardy left the game due to an injured foot"2016BAL.EVA.regular.comment.csv",13
-
-"BAL201605030",49,"replay,6,casts001,NYA,marqa901,BAL12,,N,M,NYA,C $when Brian McCann was called out at 1B, Yankees manager Joe Girardi challenged the ruling; the call was upheld by replay"2016BAL.EVA.regular.comment.csv",14
-
-"BAL201605050",26,"ej,giraj001,M,guccc901,Balk non-call Yankees Manager Joe Girardi ejected by 3B umpire Chris Guccione"2016BAL.EVA.regular.comment.csv",15
-
-"BAL201605050",63,"replay,9,wietm001,BAL,vanol901,BAL12,,N,M,BAL,D $when Dustin Ackley was ruled to have caught Matt Wieters fly, Orioles manager Buck Showalter challenged the ruling; the call was upheld by replay"2016BAL.EVA.regular.comment.csv",16
-
-"BAL201605170",77,"replay,9,alvap001,BAL,davig901,BAL12,,N,M,BAL,C $when Hyun Soo Kim was called out at 2B, Orioles manager Buck Showalter challenged the ruling; the call was upheld by replay"2016BAL.EVA.regular.comment.csv",17
-
-"BAL201605300",20,"replay,3,hernm003,BOS,nelsj901,BAL12,,Y,M,BAL,C $when Marco Hernandez was called safe at 1B, Orioles manager Buck Showalter challenged the ruling; the call was overturned by replay"2016BAL.EVA.regular.comment.csv",18
-
-"BAL201605300",58,"replay,7,ortid001,BOS,nelsj901,BAL12,,Y,M,BAL,A $when Xander Bogaerts was called safe at 2B, Orioles manager Buck Showalter challenged the ruling; the call was overturned by replay"2016BAL.EVA.regular.comment.csv",19
-
-"BAL201605310",69,"replay,8,davic003,BAL,nelsj901,BAL12,F,N,U,,H $Chris Davis' fly to RF went over the pole and was ruled foul; crew chief Jeff Nelson requested a review, which upheld the call"2016BAL.EVA.regular.comment.csv",20
-
-"BAL201606010",17,"$Mike Wright threw a fast ball over Mookie Betts' head; both teams warned by HP umpire Doug Eddings; Betts had hit three homers the previous night and one more to start this game"2016BAL.EVA.regular.comment.csv",21
-
-"BAL201606020",26,"replay,4,davic003,BAL,nelsj901,BAL12,,N,M,BOS,E $when Chris Davis was ruled safe at 1B, Red Sox manager John Farrell challenged Manny Machado's slide at 2B; the slide was ruled legal by replay"2016BAL.EVA.regular.comment.csv",22
-
-"BAL201606030",17,"Yankees first baseman Mark Teixeira left the game due to an injured knee"2016BAL.EVA.regular.comment.csv",23
-
-"BAL201606040",26,"replay,4,gregd001,NYA,millb901,BAL12,F,N,U,,H $Didi Gregorius' fly to RF went over the pole and was ruled foul; crew chief Bill Miller requested a review, which upheld the call"2016BAL.EVA.regular.comment.csv",24
-
-"BAL201606060",48,"Royals third baseman Cheslor Cuthbert left the game due to an injured elbow"2016BAL.EVA.regular.comment.csv",25
-
-"BAL201606060",52,"$originally scored as single, changed to throwing error on 06-10-2016, making run unearned"2016BAL.EVA.regular.comment.csv",26
-
-"BAL201606070",23,"$Yordano Ventura threw a few pitches inside to Manny Machado; when Machado hit the ball to LF, he stood at HP and watched; then as he slowly moved to 1B, he yelled at Ventura; HP umpire Manny Gonzalez stood between the two players"2016BAL.EVA.regular.comment.csv",27
-
-"BAL201606070",26,"replay,3,cainl001,KCA,culbf901,BAL12,,Y,M,BAL,A $when Whit Merrifield was called safe at 2B, Orioles manager Buck Showalter challenged the ruling; the call was overturned by replay"2016BAL.EVA.regular.comment.csv",28
-
-"BAL201606070",49,"ej,machm001,P,culbf901,Fighting ej,venty001,P,culbf901,Fighting $Manny Machado was struck in the back by a fast ball; he charged the mound and landed at least one punch before he and Yordano Ventura fell to the ground; both benches emptied; 1B umpire CB Bucknor grabbed Machado and took him out of the brawl; Ventura and Machado ejected by 2B umpire Fieldin Culbreth"2016BAL.EVA.regular.comment.csv",29
-
-"BAL201606170",8,"$originally scored as single, changed to error on 06-28-2016, making run unearned"2016BAL.EVA.regular.comment.csv",30
-
-"BAL201606170",29,"replay,3,schoj001,BAL,scotd901,BAL12,,N,M,BAL,P $when Manny Machado was called out at HP, Orioles manager Buck Showalter challenged the ruling; the call was upheld by replay"2016BAL.EVA.regular.comment.csv",31
-
-"BAL201606190",1,"replay,1,carre001,TOR,scotd901,BAL12,F,N,U,,H $Ezequiel Carrera's fly to RF on the 2-2 pitch was ruled foul; crew chief Dale Scott requested a review, which was upheld the call by replay"2016BAL.EVA.regular.comment.csv",32
-
-"BAL201606190",19,"umpchange,2,umphome,davib902 umpchange,2,ump1b,barrl901 umpchange,2,ump2b,(None) $the 2-2 pitch was fouled by Ryan Flaherty and struck HP umpire Dale Scott in the groin area; he left the game; 1B umpire Bob Davidson moved to HP; 2B umpire Lance Barrett moved to 1B; 15 minute delay"2016BAL.EVA.regular.comment.csv",33
-
-"BAL201606190",20,"replay,2,flahr001,BAL,iassd901,BAL12,,Y,M,TOR,A $when Ryan Flaherty was called safe returning to 1B, Blue Jays manager John Gibbons challenged the ruling; the call was overturned by replay"2016BAL.EVA.regular.comment.csv",34
-
-"BAL201606190",60,"replay,7,carre001,TOR,iassd901,BAL12,,N,M,TOR,C $when Justin Smoak was called out at 2B, Blue Jays manager John Gibbons challenged the ruling; the call was upheld by replay"2016BAL.EVA.regular.comment.csv",35
-
-"BAL201606210",7,"replay,1,schir001,SDN,mealj901,BAL12,,Y,M,SDN,I $when Ryan Schimpf was ruled not to have been hit by a pitch, Padres manager Andy Green challenged the ruling; the call was overturned by replay"2016BAL.EVA.regular.comment.csv",36
-
-"BAL201606220",42,"replay,5,uptob001,SDN,mealj901,BAL12,F,N,U,,H $Melvin Upton's fly to LF was called foul; crew chief Jerry Meals requested a review, which upheld the call"2016BAL.EVA.regular.comment.csv",37
-
-"BAL201606220",48,"replay,5,davic003,BAL,mealj901,BAL12,,Y,M,BAL,I $when Chris Davis was ruled not to have been hit by a pitch and a run scored on an apparent wild pitch, Orioles manager Buck Showalter challenged the ruling; the call was overturned by replay"2016BAL.EVA.regular.comment.csv",38
-
-"BAL201606240",18,"replay,3,longe001,TBA,hudsm901,BAL12,,Y,M,BAL,I $when Evan Longoria was ruled to have been hit by a pitch, Orioles manager Buck Showalter challenged the ruling; the call was overturned by replay"2016BAL.EVA.regular.comment.csv",39
-
-"BAL201606252",69,"replay,8,deckj001,TBA,hudsm901,BAL12,,Y,M,TBA,A $when Nick Franklin was called out at 2B, Rays manager Kevin Cash challenged the ruling; the call was overturned by replay"2016BAL.EVA.regular.comment.csv",40
-
-"BAL201606260",44,"$originally scored as double, changed to triple on 07-26-2016"2016BAL.EVA.regular.comment.csv",41
-
-"BAL201607080",54,"Angels first baseman C. J. Cron left the game due to an injured hand"2016BAL.EVA.regular.comment.csv",42
-
-"BAL201607100",3,"replay,1,troum001,ANA,everm901,BAL12,,Y,M,ANA,P $when Kole Calhoun was called out at HP, Angels manager Mike Scioscia challenged the ruling; the call was overturned by replay"2016BAL.EVA.regular.comment.csv",43
-
-"BAL201607100",10,"Orioles left fielder Hyun Soo Kim left the game due to an injured leg"2016BAL.EVA.regular.comment.csv",44
-
-"BAL201607100",61,"ej,escoy001,P,timmt901,Checked swing (Drew home plate in dirt) $Angels third baseman Yunel Escobar ejected by HP umpire Tim Timmons for complaining about a checked swing call; he drew home plate in the dirt near 3B"2016BAL.EVA.regular.comment.csv",45
-
-"BAL201607220",55,"Indians third baseman Juan Uribe left the game due to an injured head"2016BAL.EVA.regular.comment.csv",46
-
-"BAL201607240",34,"replay,4,alvap001,BAL,gormb901,BAL12,,Y,M,BAL,C $when Pedro Alvarez was called out at 1B, Orioles manager Buck Showalter challenged the ruling; the call was overturned by replay"2016BAL.EVA.regular.comment.csv",47
-
-"BAL201607250",54,"replay,7,reimn001,BAL,hirsj901,BAL12,,Y,M,BAL,I $when Nolan Reimold was ruled not to have been hit by a pitch, Orioles manager Buck Showalter challenged the ruling; the call was overturned by replay"2016BAL.EVA.regular.comment.csv",48
-
-"BAL201607270",16,"replay,3,wietm001,BAL,hirsj901,BAL12,F,N,U,,H $Matt Wieters' fly down the RF line went out of the park over the top of the pole; the ball was ruled foul but crew chief John Hirschbeck requested a review; the call was upheld by replay"2016BAL.EVA.regular.comment.csv",49
-
-"BAL201607270",53,"replay,7,wietm001,BAL,hirsj901,BAL12,,Y,M,COL,A $when Matt Wieters was called safe at 2B, Rockies manager Walt Weiss challenged the ruling; the call was overturned by replay"2016BAL.EVA.regular.comment.csv",50
-
-"BAL201607270",62,"replay,8,kim-h001,BAL,hirsj901,BAL12,,N,M,BAL,C replay,8,kim-h001,BAL,hirsj901,BAL12,,Y,M,BAL,C $when Adam Jones was called out at 2B and Hyun Soo Kim was called out at 1B, Orioles manager Buck Showalter challenged both rulings; the call at 2B was upheld and the call at 1B was overturned by replay"2016BAL.EVA.regular.comment.csv",51
-
-"BAL201607270",65,"replay,9,gonzc001,COL,hirsj901,BAL12,,Y,M,COL,C $when Carlos Gonzalez was called out at 1B, Rockies manager Walt Weiss challenged the ruling; the call was overturned by replay"2016BAL.EVA.regular.comment.csv",52
-
-"BAL201608020",52,"replay,8,mazan001,TEX,laynj901,BAL12,,Y,M,BAL,I $when Nomar Mazara was ruled not to have been hit by a pitch at which he swung, the umpires huddled and told Orioles manager Buck Showalter that he could not challenge the swing; Showalter challenged the hit by pitch ruling and the call was overturned by replay; Lucroy was sent back to 1B on the dead ball after the decision, Rangers manager Jeff Banister talked to the umpires about the sequence of events"2016BAL.EVA.regular.comment.csv",53
-
-"BAL201608040",71,"replay,9,alvap001,BAL,laynj901,BAL12,,N,M,TEX,C $when Pedro Alvarez was called safe at 1B, Rangers manager Jeff Banister challenged the ruling; the call was upheld by replay"2016BAL.EVA.regular.comment.csv",54
-
-"BAL201608160",36,"Red Sox pitcher Eduardo Rodriguez left the game due to an injured leg"2016BAL.EVA.regular.comment.csv",55
-
-"BAL201608170",57,"$Game called for rain"2016BAL.EVA.regular.comment.csv",56
-
-"BAL201608200",21,"replay,3,gatte001,HOU,scotd901,BAL12,,Y,M,HOU,I $when Evan Gattis was ruled not to have been hit by a pitch, Astros manager A.J. Hinch challenged the ruling; the call was overturned by replay"2016BAL.EVA.regular.comment.csv",57
-
-"BAL201608200",49,"replay,6,altuj001,HOU,scotd901,BAL12,,N,U,,Q $Jose Altuve's fly struck the top of the wall in right center and was ruled in play; Astros manager A.J. Hinch talked with crew chief Dale Scott; the umpires huddled and the Scott requested a rules check, which upheld the call by replay"2016BAL.EVA.regular.comment.csv",58
-
-"BAL201608210",44,"replay,5,jonea003,BAL,scotd901,BAL12,,Y,M,HOU,A $when Adam Jones was called safe at 2B, Astros manager A.J. Hinch challenged the ruling; the call was overturned by replay"2016BAL.EVA.regular.comment.csv",59
-
-"BAL201608210",51,"replay,6,schoj001,BAL,scotd901,BAL12,,N,M,BAL,C $when Jonathan Schoop was called out at 1B, Orioles manager Buck Showalter challenged the ruling; the call was upheld by replay"2016BAL.EVA.regular.comment.csv",60
-
-"BAL201608210",62,"$Marwin Gonzalez was called for interference for running in fair territory"2016BAL.EVA.regular.comment.csv",61
-
-"BAL201608210",68,"replay,9,brega001,HOU,scotd901,BAL12,,N,M,HOU,A $when Teoscar Hernandez was called out at 2B, Astros manager A.J. Hinch challenged the ruling; the call was upheld by replay"2016BAL.EVA.regular.comment.csv",62
-
-"BAL201608210",73,"replay,9,davic003,BAL,scotd901,BAL12,,N,U,,C $when Chris Davis was called out at 1B, crew chief Dale Scott requested a review; the call was upheld by replay"2016BAL.EVA.regular.comment.csv",63
-
-"BAL201608220",23,"replay,3,schoj001,BAL,barrt901,BAL12,F,N,U,,H $Jonathan Schoop's fly to LF flew over the pole and was ruled fair and a homer; crew chief Ted Barrett requested a review, which upheld the call by replay"2016BAL.EVA.regular.comment.csv",64
-
-"BAL201608230",2,"replay,1,wertj001,WAS,barrt901,BAL12,,Y,M,BAL,A $when Trea Turner was called safe at 2B, Orioles manager Buck Showalter challenged the ruling; the call was overturned by replay"2016BAL.EVA.regular.comment.csv",65
-
-"BAL201608230",23,"replay,3,wertj001,WAS,barrt901,BAL12,,Y,M,BAL,A $when Trea Turner was called safe at 2B, Orioles manager Buck Showalter challenged the ruling; the call was overturned by replay"2016BAL.EVA.regular.comment.csv",66
-
-"BAL201608230",33,"replay,3,jonea003,BAL,barrt901,BAL12,,Y,M,BAL,C $when Adam Jones was called out at 1B, Orioles manager Buck Showalter challenged the ruling; the call was overturned by replay; this was the third successful challenge by the Orioles in the game"2016BAL.EVA.regular.comment.csv",67
-
-"BAL201608310",25,"umpchange,3,umphome,porta901 umpchange,3,ump2b,(None) $the first pitch to Hyun Soo Kim glanced off Russell Martin's glove and struck HP Umpire Jerry Layne on the top of the mask; Layne's mask was ripped off his head; Layne left the game and 2B Umpire Alan Porter moved to HP"2016BAL.EVA.regular.comment.csv",68
-
-"BAL201609020",21,"Yankees pitcher Chad Green left the game due to an injured elbow"2016BAL.EVA.regular.comment.csv",69
-
-"BAL201609030",35,"replay,5,gardb001,NYA,davig901,BAL12,,Y,M,BAL,C $when Brett Gardner was called safe at 1B, Orioles manager Buck Showalter challenged the ruling; the call was overturned by replay"2016BAL.EVA.regular.comment.csv",70
-
-"BAL201609150",46,"Rays left fielder Nick Franklin left the game due to an injured leg"2016BAL.EVA.regular.comment.csv",71
-
-"BAL201609160",74,"replay,9,ramia003,TBA,cedeg901,BAL12,,N,M,TBA,A $when Mikie Mahtook was called out at HP, Rays manager Kevin Cash challenged the ruling; the call was upheld by replay"2016BAL.EVA.regular.comment.csv",72
-
-"BAL201609180",31,"Orioles pitcher Wade Miley left the game due to an injured back"2016BAL.EVA.regular.comment.csv",73
-
-"BAL201609190",38,"replay,5,ramih003,BOS,everm901,BAL12,,Y,M,BAL,A $when Mookie Betts was called safe at 2B, Orioles manager Buck SHowalter challenged the ruling; the call was overturned by replay"2016BAL.EVA.regular.comment.csv",74
-
-"BAL201609230",73,"replay,9,jonea003,BAL,cedeg901,BAL12,,N,M,BAL,P $when J.J. Hardy was called out at HP, Orioles manager Buck Showalter challenged the ruling; the call was upheld by replay as no violation of the plate blocking rule"2016BAL.EVA.regular.comment.csv",75
-
-"BAL201609240",59,"$originally scored as E4, changed to single on 09-25-2016"2016BAL.EVA.regular.comment.csv",76
-
-"BAL201609250",37,"replay,5,seguj002,ARI,cedeg901,BAL12,,N,M,BAL,I $when Jean Segura was ruled to have been hit by a pitch, Orioles manager Buck Showalter challenged the ruling; the call was upheld by replay"2016BAL.EVA.regular.comment.csv",77
-
+"BAL201604060",32,"replay,4,hardj003,BAL,wintm901,BAL12,,N,M,MIN,A $when J.J. Hardy was called safe at 2B, Twins manager Paul Molitor challenged the ruling; the call was upheld by replay","FILENAME_TX","LINE_NUMBER_CT"
+"BAL201604100",41,"$run originally scored as earned, changed to unearned on 4-11-2016","2016BAL.EVA.regular.comment.csv",2
+"BAL201604100",45,"replay,5,davic003,BAL,demud901,BAL12,,Y,M,TBA,A $when Manny Machado was called safe at 1B, Rays manager Kevin Cash challenged the ruling; the call was overturned by replay","2016BAL.EVA.regular.comment.csv",3
+"BAL201604190",33,"replay,4,wietm001,BAL,hallt901,BAL12,,N,M,TOR,C $when Matt Wieters was called safe at 1B, Blue Jays manager John Gibbons challenged the ruling; the call was upheld by replay","2016BAL.EVA.regular.comment.csv",4
+"BAL201604190",47,"Orioles center fielder Adam Jones left the game due to an injured chest","2016BAL.EVA.regular.comment.csv",5
+"BAL201604190",55,"replay,7,wietm001,BAL,hallt901,BAL12,,N,U,,H $Matt Wieters' fly to RF was touched by a fan at the railing above the scoreboard; crew chief Tom Hallion requested a review, which upheld the call","2016BAL.EVA.regular.comment.csv",6
+"BAL201604210",10,"replay,1,machm001,BAL,hallt901,BAL12,,N,M,TOR,A $when Joey Rickard was called safe at 2B, Blue Jays manager John Gibbons challenged the ruling; the call was upheld by replay","2016BAL.EVA.regular.comment.csv",7
+"BAL201604210",46,"ej,wietm001,P,belld901,Checked swing Orioles catcher Matt Wieters ejected by HP umpire Dan Bellino","2016BAL.EVA.regular.comment.csv",8
+"BAL201604290",22,"replay,4,frazt001,CHA,davig901,BAL12,,N,M,BAL,E replay,4,frazt001,CHA,davig901,BAL12,,Y,M,BAL,C $when Todd Frazier was called safe at 1B, Orioles manager Buck Showalter challenged the ruling; the call was overturned by replay","2016BAL.EVA.regular.comment.csv",9
+"BAL201604290",63,"replay,8,jonea003,BAL,davig901,BAL12,,N,M,BAL,C $when Mark Trumbo was called out at 2B, Orioles manager Buck Showalter challenged the ruling; the call was upheld by replay","2016BAL.EVA.regular.comment.csv",10
+"BAL201604300",23,"replay,3,jonea003,BAL,davig901,BAL12,,N,M,CHA,E ej,ventr001,M,davig901,Replay ruling $when Manny Machado was ruled to have made a legal slide at 2B, White Sox manager Robin Ventura challenged the ruling; the call was upheld by replay; Ventura ejected by 1B umpire Gerry Davis for arguing the replay result","2016BAL.EVA.regular.comment.csv",11
+"BAL201604300",60,"replay,7,jacka001,CHA,davig901,BAL12,,N,M,BAL,A $when Brett Lawrie was called safe at HP, Orioles manager Buck Showalter challenged the ruling; the call was upheld by replay","2016BAL.EVA.regular.comment.csv",12
+"BAL201605010",49,"Orioles shortstop J. Hardy left the game due to an injured foot","2016BAL.EVA.regular.comment.csv",13
+"BAL201605030",49,"replay,6,casts001,NYA,marqa901,BAL12,,N,M,NYA,C $when Brian McCann was called out at 1B, Yankees manager Joe Girardi challenged the ruling; the call was upheld by replay","2016BAL.EVA.regular.comment.csv",14
+"BAL201605050",26,"ej,giraj001,M,guccc901,Balk non-call Yankees Manager Joe Girardi ejected by 3B umpire Chris Guccione","2016BAL.EVA.regular.comment.csv",15
+"BAL201605050",63,"replay,9,wietm001,BAL,vanol901,BAL12,,N,M,BAL,D $when Dustin Ackley was ruled to have caught Matt Wieters fly, Orioles manager Buck Showalter challenged the ruling; the call was upheld by replay","2016BAL.EVA.regular.comment.csv",16
+"BAL201605170",77,"replay,9,alvap001,BAL,davig901,BAL12,,N,M,BAL,C $when Hyun Soo Kim was called out at 2B, Orioles manager Buck Showalter challenged the ruling; the call was upheld by replay","2016BAL.EVA.regular.comment.csv",17
+"BAL201605300",20,"replay,3,hernm003,BOS,nelsj901,BAL12,,Y,M,BAL,C $when Marco Hernandez was called safe at 1B, Orioles manager Buck Showalter challenged the ruling; the call was overturned by replay","2016BAL.EVA.regular.comment.csv",18
+"BAL201605300",58,"replay,7,ortid001,BOS,nelsj901,BAL12,,Y,M,BAL,A $when Xander Bogaerts was called safe at 2B, Orioles manager Buck Showalter challenged the ruling; the call was overturned by replay","2016BAL.EVA.regular.comment.csv",19
+"BAL201605310",69,"replay,8,davic003,BAL,nelsj901,BAL12,F,N,U,,H $Chris Davis' fly to RF went over the pole and was ruled foul; crew chief Jeff Nelson requested a review, which upheld the call","2016BAL.EVA.regular.comment.csv",20
+"BAL201606010",17,"$Mike Wright threw a fast ball over Mookie Betts' head; both teams warned by HP umpire Doug Eddings; Betts had hit three homers the previous night and one more to start this game","2016BAL.EVA.regular.comment.csv",21
+"BAL201606020",26,"replay,4,davic003,BAL,nelsj901,BAL12,,N,M,BOS,E $when Chris Davis was ruled safe at 1B, Red Sox manager John Farrell challenged Manny Machado's slide at 2B; the slide was ruled legal by replay","2016BAL.EVA.regular.comment.csv",22
+"BAL201606030",17,"Yankees first baseman Mark Teixeira left the game due to an injured knee","2016BAL.EVA.regular.comment.csv",23
+"BAL201606040",26,"replay,4,gregd001,NYA,millb901,BAL12,F,N,U,,H $Didi Gregorius' fly to RF went over the pole and was ruled foul; crew chief Bill Miller requested a review, which upheld the call","2016BAL.EVA.regular.comment.csv",24
+"BAL201606060",48,"Royals third baseman Cheslor Cuthbert left the game due to an injured elbow","2016BAL.EVA.regular.comment.csv",25
+"BAL201606060",52,"$originally scored as single, changed to throwing error on 06-10-2016, making run unearned","2016BAL.EVA.regular.comment.csv",26
+"BAL201606070",23,"$Yordano Ventura threw a few pitches inside to Manny Machado; when Machado hit the ball to LF, he stood at HP and watched; then as he slowly moved to 1B, he yelled at Ventura; HP umpire Manny Gonzalez stood between the two players","2016BAL.EVA.regular.comment.csv",27
+"BAL201606070",26,"replay,3,cainl001,KCA,culbf901,BAL12,,Y,M,BAL,A $when Whit Merrifield was called safe at 2B, Orioles manager Buck Showalter challenged the ruling; the call was overturned by replay","2016BAL.EVA.regular.comment.csv",28
+"BAL201606070",49,"ej,machm001,P,culbf901,Fighting ej,venty001,P,culbf901,Fighting $Manny Machado was struck in the back by a fast ball; he charged the mound and landed at least one punch before he and Yordano Ventura fell to the ground; both benches emptied; 1B umpire CB Bucknor grabbed Machado and took him out of the brawl; Ventura and Machado ejected by 2B umpire Fieldin Culbreth","2016BAL.EVA.regular.comment.csv",29
+"BAL201606170",8,"$originally scored as single, changed to error on 06-28-2016, making run unearned","2016BAL.EVA.regular.comment.csv",30
+"BAL201606170",29,"replay,3,schoj001,BAL,scotd901,BAL12,,N,M,BAL,P $when Manny Machado was called out at HP, Orioles manager Buck Showalter challenged the ruling; the call was upheld by replay","2016BAL.EVA.regular.comment.csv",31
+"BAL201606190",1,"replay,1,carre001,TOR,scotd901,BAL12,F,N,U,,H $Ezequiel Carrera's fly to RF on the 2-2 pitch was ruled foul; crew chief Dale Scott requested a review, which was upheld the call by replay","2016BAL.EVA.regular.comment.csv",32
+"BAL201606190",19,"umpchange,2,umphome,davib902 umpchange,2,ump1b,barrl901 umpchange,2,ump2b,(None) $the 2-2 pitch was fouled by Ryan Flaherty and struck HP umpire Dale Scott in the groin area; he left the game; 1B umpire Bob Davidson moved to HP; 2B umpire Lance Barrett moved to 1B; 15 minute delay","2016BAL.EVA.regular.comment.csv",33
+"BAL201606190",20,"replay,2,flahr001,BAL,iassd901,BAL12,,Y,M,TOR,A $when Ryan Flaherty was called safe returning to 1B, Blue Jays manager John Gibbons challenged the ruling; the call was overturned by replay","2016BAL.EVA.regular.comment.csv",34
+"BAL201606190",60,"replay,7,carre001,TOR,iassd901,BAL12,,N,M,TOR,C $when Justin Smoak was called out at 2B, Blue Jays manager John Gibbons challenged the ruling; the call was upheld by replay","2016BAL.EVA.regular.comment.csv",35
+"BAL201606210",7,"replay,1,schir001,SDN,mealj901,BAL12,,Y,M,SDN,I $when Ryan Schimpf was ruled not to have been hit by a pitch, Padres manager Andy Green challenged the ruling; the call was overturned by replay","2016BAL.EVA.regular.comment.csv",36
+"BAL201606220",42,"replay,5,uptob001,SDN,mealj901,BAL12,F,N,U,,H $Melvin Upton's fly to LF was called foul; crew chief Jerry Meals requested a review, which upheld the call","2016BAL.EVA.regular.comment.csv",37
+"BAL201606220",48,"replay,5,davic003,BAL,mealj901,BAL12,,Y,M,BAL,I $when Chris Davis was ruled not to have been hit by a pitch and a run scored on an apparent wild pitch, Orioles manager Buck Showalter challenged the ruling; the call was overturned by replay","2016BAL.EVA.regular.comment.csv",38
+"BAL201606240",18,"replay,3,longe001,TBA,hudsm901,BAL12,,Y,M,BAL,I $when Evan Longoria was ruled to have been hit by a pitch, Orioles manager Buck Showalter challenged the ruling; the call was overturned by replay","2016BAL.EVA.regular.comment.csv",39
+"BAL201606252",69,"replay,8,deckj001,TBA,hudsm901,BAL12,,Y,M,TBA,A $when Nick Franklin was called out at 2B, Rays manager Kevin Cash challenged the ruling; the call was overturned by replay","2016BAL.EVA.regular.comment.csv",40
+"BAL201606260",44,"$originally scored as double, changed to triple on 07-26-2016","2016BAL.EVA.regular.comment.csv",41
+"BAL201607080",54,"Angels first baseman C. J. Cron left the game due to an injured hand","2016BAL.EVA.regular.comment.csv",42
+"BAL201607100",3,"replay,1,troum001,ANA,everm901,BAL12,,Y,M,ANA,P $when Kole Calhoun was called out at HP, Angels manager Mike Scioscia challenged the ruling; the call was overturned by replay","2016BAL.EVA.regular.comment.csv",43
+"BAL201607100",10,"Orioles left fielder Hyun Soo Kim left the game due to an injured leg","2016BAL.EVA.regular.comment.csv",44
+"BAL201607100",61,"ej,escoy001,P,timmt901,Checked swing (Drew home plate in dirt) $Angels third baseman Yunel Escobar ejected by HP umpire Tim Timmons for complaining about a checked swing call; he drew home plate in the dirt near 3B","2016BAL.EVA.regular.comment.csv",45
+"BAL201607220",55,"Indians third baseman Juan Uribe left the game due to an injured head","2016BAL.EVA.regular.comment.csv",46
+"BAL201607240",34,"replay,4,alvap001,BAL,gormb901,BAL12,,Y,M,BAL,C $when Pedro Alvarez was called out at 1B, Orioles manager Buck Showalter challenged the ruling; the call was overturned by replay","2016BAL.EVA.regular.comment.csv",47
+"BAL201607250",54,"replay,7,reimn001,BAL,hirsj901,BAL12,,Y,M,BAL,I $when Nolan Reimold was ruled not to have been hit by a pitch, Orioles manager Buck Showalter challenged the ruling; the call was overturned by replay","2016BAL.EVA.regular.comment.csv",48
+"BAL201607270",16,"replay,3,wietm001,BAL,hirsj901,BAL12,F,N,U,,H $Matt Wieters' fly down the RF line went out of the park over the top of the pole; the ball was ruled foul but crew chief John Hirschbeck requested a review; the call was upheld by replay","2016BAL.EVA.regular.comment.csv",49
+"BAL201607270",53,"replay,7,wietm001,BAL,hirsj901,BAL12,,Y,M,COL,A $when Matt Wieters was called safe at 2B, Rockies manager Walt Weiss challenged the ruling; the call was overturned by replay","2016BAL.EVA.regular.comment.csv",50
+"BAL201607270",62,"replay,8,kim-h001,BAL,hirsj901,BAL12,,N,M,BAL,C replay,8,kim-h001,BAL,hirsj901,BAL12,,Y,M,BAL,C $when Adam Jones was called out at 2B and Hyun Soo Kim was called out at 1B, Orioles manager Buck Showalter challenged both rulings; the call at 2B was upheld and the call at 1B was overturned by replay","2016BAL.EVA.regular.comment.csv",51
+"BAL201607270",65,"replay,9,gonzc001,COL,hirsj901,BAL12,,Y,M,COL,C $when Carlos Gonzalez was called out at 1B, Rockies manager Walt Weiss challenged the ruling; the call was overturned by replay","2016BAL.EVA.regular.comment.csv",52
+"BAL201608020",52,"replay,8,mazan001,TEX,laynj901,BAL12,,Y,M,BAL,I $when Nomar Mazara was ruled not to have been hit by a pitch at which he swung, the umpires huddled and told Orioles manager Buck Showalter that he could not challenge the swing; Showalter challenged the hit by pitch ruling and the call was overturned by replay; Lucroy was sent back to 1B on the dead ball after the decision, Rangers manager Jeff Banister talked to the umpires about the sequence of events","2016BAL.EVA.regular.comment.csv",53
+"BAL201608040",71,"replay,9,alvap001,BAL,laynj901,BAL12,,N,M,TEX,C $when Pedro Alvarez was called safe at 1B, Rangers manager Jeff Banister challenged the ruling; the call was upheld by replay","2016BAL.EVA.regular.comment.csv",54
+"BAL201608160",36,"Red Sox pitcher Eduardo Rodriguez left the game due to an injured leg","2016BAL.EVA.regular.comment.csv",55
+"BAL201608170",57,"$Game called for rain","2016BAL.EVA.regular.comment.csv",56
+"BAL201608200",21,"replay,3,gatte001,HOU,scotd901,BAL12,,Y,M,HOU,I $when Evan Gattis was ruled not to have been hit by a pitch, Astros manager A.J. Hinch challenged the ruling; the call was overturned by replay","2016BAL.EVA.regular.comment.csv",57
+"BAL201608200",49,"replay,6,altuj001,HOU,scotd901,BAL12,,N,U,,Q $Jose Altuve's fly struck the top of the wall in right center and was ruled in play; Astros manager A.J. Hinch talked with crew chief Dale Scott; the umpires huddled and the Scott requested a rules check, which upheld the call by replay","2016BAL.EVA.regular.comment.csv",58
+"BAL201608210",44,"replay,5,jonea003,BAL,scotd901,BAL12,,Y,M,HOU,A $when Adam Jones was called safe at 2B, Astros manager A.J. Hinch challenged the ruling; the call was overturned by replay","2016BAL.EVA.regular.comment.csv",59
+"BAL201608210",51,"replay,6,schoj001,BAL,scotd901,BAL12,,N,M,BAL,C $when Jonathan Schoop was called out at 1B, Orioles manager Buck Showalter challenged the ruling; the call was upheld by replay","2016BAL.EVA.regular.comment.csv",60
+"BAL201608210",62,"$Marwin Gonzalez was called for interference for running in fair territory","2016BAL.EVA.regular.comment.csv",61
+"BAL201608210",68,"replay,9,brega001,HOU,scotd901,BAL12,,N,M,HOU,A $when Teoscar Hernandez was called out at 2B, Astros manager A.J. Hinch challenged the ruling; the call was upheld by replay","2016BAL.EVA.regular.comment.csv",62
+"BAL201608210",73,"replay,9,davic003,BAL,scotd901,BAL12,,N,U,,C $when Chris Davis was called out at 1B, crew chief Dale Scott requested a review; the call was upheld by replay","2016BAL.EVA.regular.comment.csv",63
+"BAL201608220",23,"replay,3,schoj001,BAL,barrt901,BAL12,F,N,U,,H $Jonathan Schoop's fly to LF flew over the pole and was ruled fair and a homer; crew chief Ted Barrett requested a review, which upheld the call by replay","2016BAL.EVA.regular.comment.csv",64
+"BAL201608230",2,"replay,1,wertj001,WAS,barrt901,BAL12,,Y,M,BAL,A $when Trea Turner was called safe at 2B, Orioles manager Buck Showalter challenged the ruling; the call was overturned by replay","2016BAL.EVA.regular.comment.csv",65
+"BAL201608230",23,"replay,3,wertj001,WAS,barrt901,BAL12,,Y,M,BAL,A $when Trea Turner was called safe at 2B, Orioles manager Buck Showalter challenged the ruling; the call was overturned by replay","2016BAL.EVA.regular.comment.csv",66
+"BAL201608230",33,"replay,3,jonea003,BAL,barrt901,BAL12,,Y,M,BAL,C $when Adam Jones was called out at 1B, Orioles manager Buck Showalter challenged the ruling; the call was overturned by replay; this was the third successful challenge by the Orioles in the game","2016BAL.EVA.regular.comment.csv",67
+"BAL201608310",25,"umpchange,3,umphome,porta901 umpchange,3,ump2b,(None) $the first pitch to Hyun Soo Kim glanced off Russell Martin's glove and struck HP Umpire Jerry Layne on the top of the mask; Layne's mask was ripped off his head; Layne left the game and 2B Umpire Alan Porter moved to HP","2016BAL.EVA.regular.comment.csv",68
+"BAL201609020",21,"Yankees pitcher Chad Green left the game due to an injured elbow","2016BAL.EVA.regular.comment.csv",69
+"BAL201609030",35,"replay,5,gardb001,NYA,davig901,BAL12,,Y,M,BAL,C $when Brett Gardner was called safe at 1B, Orioles manager Buck Showalter challenged the ruling; the call was overturned by replay","2016BAL.EVA.regular.comment.csv",70
+"BAL201609150",46,"Rays left fielder Nick Franklin left the game due to an injured leg","2016BAL.EVA.regular.comment.csv",71
+"BAL201609160",74,"replay,9,ramia003,TBA,cedeg901,BAL12,,N,M,TBA,A $when Mikie Mahtook was called out at HP, Rays manager Kevin Cash challenged the ruling; the call was upheld by replay","2016BAL.EVA.regular.comment.csv",72
+"BAL201609180",31,"Orioles pitcher Wade Miley left the game due to an injured back","2016BAL.EVA.regular.comment.csv",73
+"BAL201609190",38,"replay,5,ramih003,BOS,everm901,BAL12,,Y,M,BAL,A $when Mookie Betts was called safe at 2B, Orioles manager Buck SHowalter challenged the ruling; the call was overturned by replay","2016BAL.EVA.regular.comment.csv",74
+"BAL201609230",73,"replay,9,jonea003,BAL,cedeg901,BAL12,,N,M,BAL,P $when J.J. Hardy was called out at HP, Orioles manager Buck Showalter challenged the ruling; the call was upheld by replay as no violation of the plate blocking rule","2016BAL.EVA.regular.comment.csv",75
+"BAL201609240",59,"$originally scored as E4, changed to single on 09-25-2016","2016BAL.EVA.regular.comment.csv",76
+"BAL201609250",37,"replay,5,seguj002,ARI,cedeg901,BAL12,,N,M,BAL,I $when Jean Segura was ruled to have been hit by a pitch, Orioles manager Buck Showalter challenged the ruling; the call was upheld by replay","2016BAL.EVA.regular.comment.csv",77

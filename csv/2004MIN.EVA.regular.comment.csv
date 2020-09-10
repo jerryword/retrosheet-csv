@@ -1,70 +1,35 @@
-"MIN200404050",24,"Debut game for Joe Mauer"FILENAME_TX","LINE_NUMBER_CT"
-
-"MIN200404060",22,"$Mauer hurt and left the game"2004MIN.EVA.regular.comment.csv",2
-
-"MIN200404060",33,"$Santana left with injured arm on 3-0 count"2004MIN.EVA.regular.comment.csv",3
-
-"MIN200404060",99,"$Hunter left with injury"2004MIN.EVA.regular.comment.csv",4
-
-"MIN200404070",31,"$LeCroy left with chest injoury"2004MIN.EVA.regular.comment.csv",5
-
-"MIN200404170",19,"Debut game for Andres Blanco"2004MIN.EVA.regular.comment.csv",6
-
-"MIN200404220",57,"$Stewart left with injured leg"2004MIN.EVA.regular.comment.csv",7
-
-"MIN200405110",19,"$Koskie left game with injured chest"2004MIN.EVA.regular.comment.csv",8
-
-"MIN200405120",67,"$Martinez' 300th home run"2004MIN.EVA.regular.comment.csv",9
-
-"MIN200406120",61,"ej,bowal001,M,craft901,Call at 3B Phillies Manager Larry Bowa ejected by 3B umpire Terry Craft"2004MIN.EVA.regular.comment.csv",10
-
-"MIN200407070",23,"ej,gardr001,M,guccc901,Asking for ejection after HBP Twins Manager Ron Gardenhire ejected by HP umpire Chris Guccione"2004MIN.EVA.regular.comment.csv",11
-
-"MIN200407090",68,"ej,jonej003,P,welkb901,Called third strike Jacque Jones ejected by HP umpire Bill Welke"2004MIN.EVA.regular.comment.csv",12
-
-"MIN200407310",40,"$Stewart left game with injured elbow"2004MIN.EVA.regular.comment.csv",13
-
-"MIN200408030",67,"Debut game for Jason Bartlett"2004MIN.EVA.regular.comment.csv",14
-
-"MIN200408050",32,"Debut game for Jesse Crain"2004MIN.EVA.regular.comment.csv",15
-
-"MIN200408070",14,"$Jones left game with injured knee"2004MIN.EVA.regular.comment.csv",16
-
-"MIN200408080",84,"$Rincon left game with injured leg"2004MIN.EVA.regular.comment.csv",17
-
-"MIN200408080",114,"$Crosby left game with injured back"2004MIN.EVA.regular.comment.csv",18
-
-"MIN200408090",76,"Debut game for Jairo Garcia"2004MIN.EVA.regular.comment.csv",19
-
-"MIN200408190",32,"$Hunter left game with injured neck"2004MIN.EVA.regular.comment.csv",20
-
-"MIN200408200",64,"Debut game for Fernando Cabrera"2004MIN.EVA.regular.comment.csv",21
-
-"MIN200408220",61,"$Morneau left game with injured hand"2004MIN.EVA.regular.comment.csv",22
-
-"MIN200408310",96,"$Nathan left game with injured hand"2004MIN.EVA.regular.comment.csv",23
-
-"MIN200408310",100,"Debut game for Jason Kubel"2004MIN.EVA.regular.comment.csv",24
-
-"MIN200409010",45,"$Rivas left game with injured foot"2004MIN.EVA.regular.comment.csv",25
-
-"MIN200409010",46,"Debut game for Terry Tiffee"2004MIN.EVA.regular.comment.csv",26
-
-"MIN200409020",58,"ej,gardr001,M,relic901,Call at 1B Twins Manager Ron Gardenhire ejected by 1B umpire Charlie Reliford"2004MIN.EVA.regular.comment.csv",27
-
-"MIN200409150",42,"$Silva left game with injured foot"2004MIN.EVA.regular.comment.csv",28
-
-"MIN200409170",48,"$Stewart left game with bruised ribs and a mild concussion after he caught his left foot on the bullpen mound and fell headfirst across the mound and landed against the fence while chasing a foul ball"2004MIN.EVA.regular.comment.csv",29
-
-"MIN200409170",57,"$Hunter dove for Palmeiro's blooper and his left knee hit the turf hard"2004MIN.EVA.regular.comment.csv",30
-
-"MIN200409170",66,"$Hunter left game due injured knee from previous inning"2004MIN.EVA.regular.comment.csv",31
-
-"MIN200410020",0,"Suspend=20041003,,5,5,66"2004MIN.EVA.regular.comment.csv",32
-
-"MIN200410020",75,"$Jones left game with an injured knee"2004MIN.EVA.regular.comment.csv",33
-
-"MIN200410020",98,"suspended,20041003,MIN03,pre-determined stop for football $Game suspended here at 2:33 PM so field could be prepared for University of Minnesota football game; game was completed the next day at 1:10 PM before regular game"2004MIN.EVA.regular.comment.csv",34
-
-"MIN200410030",33,"$Lohse left game with injured hand"2004MIN.EVA.regular.comment.csv",35
-
+"MIN200404050",24,"Debut game for Joe Mauer","FILENAME_TX","LINE_NUMBER_CT"
+"MIN200404060",22,"$Mauer hurt and left the game","2004MIN.EVA.regular.comment.csv",2
+"MIN200404060",33,"$Santana left with injured arm on 3-0 count","2004MIN.EVA.regular.comment.csv",3
+"MIN200404060",99,"$Hunter left with injury","2004MIN.EVA.regular.comment.csv",4
+"MIN200404070",31,"$LeCroy left with chest injoury","2004MIN.EVA.regular.comment.csv",5
+"MIN200404170",19,"Debut game for Andres Blanco","2004MIN.EVA.regular.comment.csv",6
+"MIN200404220",57,"$Stewart left with injured leg","2004MIN.EVA.regular.comment.csv",7
+"MIN200405110",19,"$Koskie left game with injured chest","2004MIN.EVA.regular.comment.csv",8
+"MIN200405120",67,"$Martinez' 300th home run","2004MIN.EVA.regular.comment.csv",9
+"MIN200406120",61,"ej,bowal001,M,craft901,Call at 3B Phillies Manager Larry Bowa ejected by 3B umpire Terry Craft","2004MIN.EVA.regular.comment.csv",10
+"MIN200407070",23,"ej,gardr001,M,guccc901,Asking for ejection after HBP Twins Manager Ron Gardenhire ejected by HP umpire Chris Guccione","2004MIN.EVA.regular.comment.csv",11
+"MIN200407090",68,"ej,jonej003,P,welkb901,Called third strike Jacque Jones ejected by HP umpire Bill Welke","2004MIN.EVA.regular.comment.csv",12
+"MIN200407310",40,"$Stewart left game with injured elbow","2004MIN.EVA.regular.comment.csv",13
+"MIN200408030",67,"Debut game for Jason Bartlett","2004MIN.EVA.regular.comment.csv",14
+"MIN200408050",32,"Debut game for Jesse Crain","2004MIN.EVA.regular.comment.csv",15
+"MIN200408070",14,"$Jones left game with injured knee","2004MIN.EVA.regular.comment.csv",16
+"MIN200408080",84,"$Rincon left game with injured leg","2004MIN.EVA.regular.comment.csv",17
+"MIN200408080",114,"$Crosby left game with injured back","2004MIN.EVA.regular.comment.csv",18
+"MIN200408090",76,"Debut game for Jairo Garcia","2004MIN.EVA.regular.comment.csv",19
+"MIN200408190",32,"$Hunter left game with injured neck","2004MIN.EVA.regular.comment.csv",20
+"MIN200408200",64,"Debut game for Fernando Cabrera","2004MIN.EVA.regular.comment.csv",21
+"MIN200408220",61,"$Morneau left game with injured hand","2004MIN.EVA.regular.comment.csv",22
+"MIN200408310",96,"$Nathan left game with injured hand","2004MIN.EVA.regular.comment.csv",23
+"MIN200408310",100,"Debut game for Jason Kubel","2004MIN.EVA.regular.comment.csv",24
+"MIN200409010",45,"$Rivas left game with injured foot","2004MIN.EVA.regular.comment.csv",25
+"MIN200409010",46,"Debut game for Terry Tiffee","2004MIN.EVA.regular.comment.csv",26
+"MIN200409020",58,"ej,gardr001,M,relic901,Call at 1B Twins Manager Ron Gardenhire ejected by 1B umpire Charlie Reliford","2004MIN.EVA.regular.comment.csv",27
+"MIN200409150",42,"$Silva left game with injured foot","2004MIN.EVA.regular.comment.csv",28
+"MIN200409170",48,"$Stewart left game with bruised ribs and a mild concussion after he caught his left foot on the bullpen mound and fell headfirst across the mound and landed against the fence while chasing a foul ball","2004MIN.EVA.regular.comment.csv",29
+"MIN200409170",57,"$Hunter dove for Palmeiro's blooper and his left knee hit the turf hard","2004MIN.EVA.regular.comment.csv",30
+"MIN200409170",66,"$Hunter left game due injured knee from previous inning","2004MIN.EVA.regular.comment.csv",31
+"MIN200410020",0,"Suspend=20041003,,5,5,66","2004MIN.EVA.regular.comment.csv",32
+"MIN200410020",75,"$Jones left game with an injured knee","2004MIN.EVA.regular.comment.csv",33
+"MIN200410020",98,"suspended,20041003,MIN03,pre-determined stop for football $Game suspended here at 2:33 PM so field could be prepared for University of Minnesota football game; game was completed the next day at 1:10 PM before regular game","2004MIN.EVA.regular.comment.csv",34
+"MIN200410030",33,"$Lohse left game with injured hand","2004MIN.EVA.regular.comment.csv",35

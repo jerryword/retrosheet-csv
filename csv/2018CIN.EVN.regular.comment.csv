@@ -1,634 +1,317 @@
-"CIN201804120",40,"$originally scored as E6, changed to single on 04-16-2018, making run he scored now earned"FILENAME_TX","LINE_NUMBER_CT"
-
-"CIN201804120",55,"$Cardinals challenged call that Ozuna was out at first; call was upheld - ground out"2018CIN.EVN.regular.comment.csv",2
-
-"CIN201804130",33,"$Cardinals challenged call that Mesoraco was safe at 1st; call was upheld - single"2018CIN.EVN.regular.comment.csv",3
-
-"CIN201804150",0,"$Rain delay of 2:36 before game started"2018CIN.EVN.regular.comment.csv",4
-
-"CIN201804150",68,"$Reds challenged call that throw had not gone out of play; call was overturned - batter awarded 2nd"2018CIN.EVN.regular.comment.csv",5
-
-"CIN201804150",71,"$Cardinals challenged call that Mesoraco was hit by pitch; call was upheld - hit by pitch"2018CIN.EVN.regular.comment.csv",6
-
-"CIN201804230",52,"umpchange,6,ump1b,onorb901 umpchange,6,ump2b,(None) 1b umpire Bucknor left for undisclosed reason"2018CIN.EVN.regular.comment.csv",7
-
-"CIN201804240",97,"$Braves challenged call that Markakis was out at first; call was upheld - ground out"2018CIN.EVN.regular.comment.csv",8
-
-"CIN201804250",48,"$Reds challenged call that Duvall was out at home; call was overturne - safe at home"2018CIN.EVN.regular.comment.csv",9
-
-"CIN201804250",80,"$Braves challenged call that Markakis was out at 1st to complete DP; call was overturned - force out, no DP"2018CIN.EVN.regular.comment.csv",10
-
-"CIN201804260",47,"$umpire review after foul on 2nd pitch; call was upheld - foul, not home run"2018CIN.EVN.regular.comment.csv",11
-
-"CIN201805010",48,"$Reds challenged call that Duvall was out at 2nd; call was upheld - out on pickoff"2018CIN.EVN.regular.comment.csv",12
-
-"CIN201805010",58,"$Umpire review to check Perez's ball; call was upheld - homer"2018CIN.EVN.regular.comment.csv",13
-
-"CIN201805020",13,"$Travis Shaw left with injured foot"2018CIN.EVN.regular.comment.csv",14
-
-"CIN201805060",3,"$both runs originally scored as earned, second one changed to unearned on 05-08-2018"2018CIN.EVN.regular.comment.csv",15
-
-"CIN201805060",7,"run originally scored as earned, changed to unearned on 05-08-2018"2018CIN.EVN.regular.comment.csv",16
-
-"CIN201805090",3,"$Flores batted when the batter should have been Cabrera; he struck out so the Reds did not comment; Cabrera then batted out of turn and hit a ground rule double; the correct batter was Bruce, who followed Flores in the lineup; the Reds pointed out the mistake and Bruce was called out per the rules; the Mets followed the correct order the rest of the game"2018CIN.EVN.regular.comment.csv",17
-
-"CIN201805180",77,"$originally scored as E4, changed to single on 05-30-2018"2018CIN.EVN.regular.comment.csv",18
-
-"CIN201805191",42,"$Cubs challenged call that Caratini was out at first; call was overturned - single"2018CIN.EVN.regular.comment.csv",19
-
-"CIN201805200",57,"ej,schwk001,P,tumpj901,Arguing called third strike $Kyle Schwarber ejected by plate umpire Tumpane for arguing called third strike"2018CIN.EVN.regular.comment.csv",20
-
-"CIN201805240",69,"$Pirates challenged call that Diaz was out at first; call was upheld - ground out"2018CIN.EVN.regular.comment.csv",21
-
-"CIN201806050",65,"$Reds challenged call that Winker was out at home; call was upheld - out at home"2018CIN.EVN.regular.comment.csv",22
-
-"CIN201806070",3,"$Reds challenged call that Blackmon was safe at first; call was overturned - double play"2018CIN.EVN.regular.comment.csv",23
-
-"CIN201806070",15,"$Rockies challenged call that Casali was safe at second; call was upheld - double"2018CIN.EVN.regular.comment.csv",24
-
-"CIN201806070",29,"$Reds challenged call that Wolters did not interfere at second; call was upheld - force out, no interference"2018CIN.EVN.regular.comment.csv",25
-
-"CIN201806090",75,"$Reds challenged call that Schebler was out at first; call was upheld - ground out"2018CIN.EVN.regular.comment.csv",26
-
-"CIN201806100",3,"$Reds challenged call that Pham was safe at second on double; call was overturned - single and out stretching"2018CIN.EVN.regular.comment.csv",27
-
-"CIN201806100",21,"$Cardinals challenged call that Ozuna's ball had been caught to to start double play; call was overturned - droppped for single"2018CIN.EVN.regular.comment.csv",28
-
-"CIN201806100",38,"$Cardinals challenged call that Hamilton was safe at third; call was upheld - safe advancing on wild pitch"2018CIN.EVN.regular.comment.csv",29
-
-"CIN201806200",50,"$Umpire review of ball hit by Suarez; call ws overturned - home run, not double"2018CIN.EVN.regular.comment.csv",30
-
-"CIN201806210",25,"$Reds challenged call that Peraza was out at second; call was overturned - stolen base"2018CIN.EVN.regular.comment.csv",31
-
-"CIN201806220",21,"$Cubs challenged call that Gimenez was out at first; call was overturned - safe on throwing error"2018CIN.EVN.regular.comment.csv",32
-
-"CIN201806220",52,"$Reds challenged call that Baez was hit by pitch; call was upheld - hit by pitch"2018CIN.EVN.regular.comment.csv",33
-
-"CIN201806230",10,"$Umpire reviewed call that ball hit by Contreras; call was upheld - home run"2018CIN.EVN.regular.comment.csv",34
-
-"CIN201806230",32,"ej,hydeb801,C,gibsg901,Timeout request $Chicago bench coach Brandon Hyde ejected by HP umpire Gibson after 4th pitch to Contreras; Contreras said that when he asked asked for a timeout Gibson said something he didn't like and bench coach Hyde was ejected for complaining from the bench"2018CIN.EVN.regular.comment.csv",35
-
-"CIN201806240",61,"$Cubs challenged call that Votto was safe at second; call was upheld - double"2018CIN.EVN.regular.comment.csv",36
-
-"CIN201806280",4,"$Christian Yelich left with an injured back"2018CIN.EVN.regular.comment.csv",37
-
-"CIN201806280",77,"$Originally scored as stolen base, changed to defensive indifference on 06-29-2018"2018CIN.EVN.regular.comment.csv",38
-
-"CIN201806290",52,"Ryan Braun left with an injured back"2018CIN.EVN.regular.comment.csv",39
-
-"CIN201806290",79,"$Reds challenged call that Gennett's fly was caught, claiming it was trapped; call was upheld - fly out"2018CIN.EVN.regular.comment.csv",40
-
-"CIN201807020",41,"Injury Delay"2018CIN.EVN.regular.comment.csv",41
-
-"CIN201807020",51,"Mound Visit"2018CIN.EVN.regular.comment.csv",42
-
-"CIN201807020",53,"Mound Visit"2018CIN.EVN.regular.comment.csv",43
-
-"CIN201807020",59,"Mound Visit"2018CIN.EVN.regular.comment.csv",44
-
-"CIN201807020",60,"Mound Visit"2018CIN.EVN.regular.comment.csv",45
-
-"CIN201807020",64,"Mound Visit"2018CIN.EVN.regular.comment.csv",46
-
-"CIN201807020",71,"Mound Visit"2018CIN.EVN.regular.comment.csv",47
-
-"CIN201807020",72,"$White Sox challenged call that Duvall was safe at first; call was upheld - safe on fielder's choice"2018CIN.EVN.regular.comment.csv",48
-
-"CIN201807020",73,"$Umpire review of call that Suarez was safe at home; call was upheld - safe"2018CIN.EVN.regular.comment.csv",49
-
-"CIN201807020",74,"Mound Visit"2018CIN.EVN.regular.comment.csv",50
-
-"CIN201807030",8,"Mound Visit"2018CIN.EVN.regular.comment.csv",51
-
-"CIN201807030",41,"Mound Visit"2018CIN.EVN.regular.comment.csv",52
-
-"CIN201807030",42,"Mound Visit"2018CIN.EVN.regular.comment.csv",53
-
-"CIN201807030",49,"Mound Visit"2018CIN.EVN.regular.comment.csv",54
-
-"CIN201807030",50,"Mound Visit"2018CIN.EVN.regular.comment.csv",55
-
-"CIN201807030",60,"Mound Visit"2018CIN.EVN.regular.comment.csv",56
-
-"CIN201807030",63,"Mound Visit"2018CIN.EVN.regular.comment.csv",57
-
-"CIN201807030",69,"Mound Visit"2018CIN.EVN.regular.comment.csv",58
-
-"CIN201807030",76,"$White Sox challenged call that Hamilton was safe at home; call was upheld - safe"2018CIN.EVN.regular.comment.csv",59
-
-"CIN201807030",87,"On-field Delay"2018CIN.EVN.regular.comment.csv",60
-
-"CIN201807030",95,"Mound Visit"2018CIN.EVN.regular.comment.csv",61
-
-"CIN201807030",96,"Mound Visit"2018CIN.EVN.regular.comment.csv",62
-
-"CIN201807030",105,"On-field Delay $Reds argued that Engel was running inside the line and interfered with throw as he collided with 1bman's arm; play is not reviewable, but Reds wanted umpire review, a request which was denied"2018CIN.EVN.regular.comment.csv",63
-
-"CIN201807030",107,"Mound Visit $Umpire review ball hit by Moncada which was over fence but brought back by right fielder who lost his glove and dropped the ball on the field; call was upheld - triple, not homer"2018CIN.EVN.regular.comment.csv",64
-
-"CIN201807030",109,"ej,riggj801,M,coope901,Intentional walk signal $Reds manager Riggleman ejected by HP umpire Cooper over over dispute on signal given for intentional walk"2018CIN.EVN.regular.comment.csv",65
-
-"CIN201807030",110,"Mound Visit"2018CIN.EVN.regular.comment.csv",66
-
-"CIN201807040",23,"Mound Visit"2018CIN.EVN.regular.comment.csv",67
-
-"CIN201807040",26,"Mound Visit"2018CIN.EVN.regular.comment.csv",68
-
-"CIN201807040",29,"Mound Visit"2018CIN.EVN.regular.comment.csv",69
-
-"CIN201807040",32,"On-field Delay"2018CIN.EVN.regular.comment.csv",70
-
-"CIN201807040",33,"Mound Visit"2018CIN.EVN.regular.comment.csv",71
-
-"CIN201807040",34,"Mound Visit"2018CIN.EVN.regular.comment.csv",72
-
-"CIN201807040",39,"Mound Visit"2018CIN.EVN.regular.comment.csv",73
-
-"CIN201807040",40,"On-field Delay"2018CIN.EVN.regular.comment.csv",74
-
-"CIN201807040",61,"Mound Visit"2018CIN.EVN.regular.comment.csv",75
-
-"CIN201807040",70,"Mound Visit"2018CIN.EVN.regular.comment.csv",76
-
-"CIN201807200",31,"Mound Visit"2018CIN.EVN.regular.comment.csv",77
-
-"CIN201807200",46,"Mound Visit"2018CIN.EVN.regular.comment.csv",78
-
-"CIN201807200",50,"Mound Visit"2018CIN.EVN.regular.comment.csv",79
-
-"CIN201807200",54,"Mound Visit"2018CIN.EVN.regular.comment.csv",80
-
-"CIN201807200",58,"Mound Visit"2018CIN.EVN.regular.comment.csv",81
-
-"CIN201807200",78,"Mound Visit"2018CIN.EVN.regular.comment.csv",82
-
-"CIN201807200",79,"Injury Delay"2018CIN.EVN.regular.comment.csv",83
-
-"CIN201807210",1,"Injury Delay"2018CIN.EVN.regular.comment.csv",84
-
-"CIN201807210",2,"$Pirates challenged call that Marte was out at second; call was upheld - single and out stretching"2018CIN.EVN.regular.comment.csv",85
-
-"CIN201807210",25,"Mound Visit"2018CIN.EVN.regular.comment.csv",86
-
-"CIN201807210",46,"Mound Visit"2018CIN.EVN.regular.comment.csv",87
-
-"CIN201807210",59,"$Umpire review ball hit by Casali; call was upheld - home run"2018CIN.EVN.regular.comment.csv",88
-
-"CIN201807210",59,"Mound Visit"2018CIN.EVN.regular.comment.csv",89
-
-"CIN201807210",77,"Injury Delay"2018CIN.EVN.regular.comment.csv",90
-
-"CIN201807220",14,"Mound Visit"2018CIN.EVN.regular.comment.csv",91
-
-"CIN201807220",30,"Mound Visit"2018CIN.EVN.regular.comment.csv",92
-
-"CIN201807220",62,"Mound Visit"2018CIN.EVN.regular.comment.csv",93
-
-"CIN201807220",63,"Mound Visit"2018CIN.EVN.regular.comment.csv",94
-
-"CIN201807230",36,"Mound Visit"2018CIN.EVN.regular.comment.csv",95
-
-"CIN201807230",38,"Mound Visit"2018CIN.EVN.regular.comment.csv",96
-
-"CIN201807230",44,"$Reds challenged call that Pham was safe at third for triple; call was overturned - double and out stretching; out was originally scored as 765; assist to CF added on 07-27-2018"2018CIN.EVN.regular.comment.csv",97
-
-"CIN201807230",51,"Mound Visit"2018CIN.EVN.regular.comment.csv",98
-
-"CIN201807230",61,"Mound Visit"2018CIN.EVN.regular.comment.csv",99
-
-"CIN201807230",63,"On-field Delay"2018CIN.EVN.regular.comment.csv",100
-
-"CIN201807230",65,"Mound Visit"2018CIN.EVN.regular.comment.csv",101
-
-"CIN201807240",20,"Mound Visit"2018CIN.EVN.regular.comment.csv",102
-
-"CIN201807240",47,"Mound Visit"2018CIN.EVN.regular.comment.csv",103
-
-"CIN201807240",48,"Mound Visit"2018CIN.EVN.regular.comment.csv",104
-
-"CIN201807240",54,"Mound Visit"2018CIN.EVN.regular.comment.csv",105
-
-"CIN201807240",68,"Mound Visit"2018CIN.EVN.regular.comment.csv",106
-
-"CIN201807240",73,"Mound Visit"2018CIN.EVN.regular.comment.csv",107
-
-"CIN201807240",76,"Mound Visit"2018CIN.EVN.regular.comment.csv",108
-
-"CIN201807240",77,"Mound Visit $Reds challenged call that Duvall was out at third; call was upheld - out on fielder's choice"2018CIN.EVN.regular.comment.csv",109
-
-"CIN201807240",82,"Mound Visit"2018CIN.EVN.regular.comment.csv",110
-
-"CIN201807240",88,"Mound Visit"2018CIN.EVN.regular.comment.csv",111
-
-"CIN201807250",5,"Mound Visit"2018CIN.EVN.regular.comment.csv",112
-
-"CIN201807250",24,"Mound Visit"2018CIN.EVN.regular.comment.csv",113
-
-"CIN201807250",41,"$Cardinals challenged call that Hamilton was safe at 1st on pickoff attempt; call was overturned - out on pickoff"2018CIN.EVN.regular.comment.csv",114
-
-"CIN201807250",45,"Mound Visit"2018CIN.EVN.regular.comment.csv",115
-
-"CIN201807250",53,"Mound Visit"2018CIN.EVN.regular.comment.csv",116
-
-"CIN201807250",68,"Mound Visit"2018CIN.EVN.regular.comment.csv",117
-
-"CIN201807250",69,"Mound Visit"2018CIN.EVN.regular.comment.csv",118
-
-"CIN201807260",6,"Mound Visit"2018CIN.EVN.regular.comment.csv",119
-
-"CIN201807260",15,"Mound Visit"2018CIN.EVN.regular.comment.csv",120
-
-"CIN201807260",40,"Mound Visit"2018CIN.EVN.regular.comment.csv",121
-
-"CIN201807260",51,"Mound Visit"2018CIN.EVN.regular.comment.csv",122
-
-"CIN201807260",69,"Mound Visit"2018CIN.EVN.regular.comment.csv",123
-
-"CIN201807270",19,"$Umpire review of ball hit by Herrera; call was upheld - homer"2018CIN.EVN.regular.comment.csv",124
-
-"CIN201807270",26,"Mound Visit"2018CIN.EVN.regular.comment.csv",125
-
-"CIN201807270",39,"Mound Visit"2018CIN.EVN.regular.comment.csv",126
-
-"CIN201807270",40,"Mound Visit"2018CIN.EVN.regular.comment.csv",127
-
-"CIN201807270",41,"Injury Delay"2018CIN.EVN.regular.comment.csv",128
-
-"CIN201807270",41,"$Amir Garrett left with an injured ankle"2018CIN.EVN.regular.comment.csv",129
-
-"CIN201807270",63,"Mound Visit"2018CIN.EVN.regular.comment.csv",130
-
-"CIN201807270",66,"Mound Visit"2018CIN.EVN.regular.comment.csv",131
-
-"CIN201807270",75,"Mound Visit"2018CIN.EVN.regular.comment.csv",132
-
-"CIN201807280",26,"Mound Visit"2018CIN.EVN.regular.comment.csv",133
-
-"CIN201807280",34,"Mound Visit"2018CIN.EVN.regular.comment.csv",134
-
-"CIN201807280",39,"$Reds challenged call that third pitch hit Hernandez; call was overturned - ball"2018CIN.EVN.regular.comment.csv",135
-
-"CIN201807280",43,"Mound Visit"2018CIN.EVN.regular.comment.csv",136
-
-"CIN201807280",56,"Mound Visit"2018CIN.EVN.regular.comment.csv",137
-
-"CIN201807280",64,"$Reds challenged call that Knapp was hit by pitch; call was upheld - hit by pitch"2018CIN.EVN.regular.comment.csv",138
-
-"CIN201807280",65,"Mound Visit"2018CIN.EVN.regular.comment.csv",139
-
-"CIN201807290",49,"Mound Visit"2018CIN.EVN.regular.comment.csv",140
-
-"CIN201807290",66,"Mound Visit"2018CIN.EVN.regular.comment.csv",141
-
-"CIN201807290",68,"Mound Visit"2018CIN.EVN.regular.comment.csv",142
-
-"CIN201807290",72,"Mound Visit"2018CIN.EVN.regular.comment.csv",143
-
-"CIN201808100",48,"Mound Visit"2018CIN.EVN.regular.comment.csv",144
-
-"CIN201808100",53,"Mound Visit"2018CIN.EVN.regular.comment.csv",145
-
-"CIN201808110",8,"Mound Visit"2018CIN.EVN.regular.comment.csv",146
-
-"CIN201808110",41,"$Reds challenged call that Peraza was out at second; call was upheld - out on caught stealing"2018CIN.EVN.regular.comment.csv",147
-
-"CIN201808110",55,"Mound Visit"2018CIN.EVN.regular.comment.csv",148
-
-"CIN201808110",62,"Mound Visit"2018CIN.EVN.regular.comment.csv",149
-
-"CIN201808110",63,"Mound Visit"2018CIN.EVN.regular.comment.csv",150
-
-"CIN201808110",68,"Mound Visit"2018CIN.EVN.regular.comment.csv",151
-
-"CIN201808110",69,"Mound Visit"2018CIN.EVN.regular.comment.csv",152
-
-"CIN201808110",70,"Injury Delay"2018CIN.EVN.regular.comment.csv",153
-
-"CIN201808120",42,"Mound Visit"2018CIN.EVN.regular.comment.csv",154
-
-"CIN201808120",50,"Mound Visit"2018CIN.EVN.regular.comment.csv",155
-
-"CIN201808120",54,"Mound Visit"2018CIN.EVN.regular.comment.csv",156
-
-"CIN201808120",57,"Mound Visit"2018CIN.EVN.regular.comment.csv",157
-
-"CIN201808120",69,"Mound Visit"2018CIN.EVN.regular.comment.csv",158
-
-"CIN201808130",14,"$Umpire review of blal hit by Barnhart; call upheld - home run"2018CIN.EVN.regular.comment.csv",159
-
-"CIN201808130",23,"Mound Visit"2018CIN.EVN.regular.comment.csv",160
-
-"CIN201808130",24,"On-field Delay"2018CIN.EVN.regular.comment.csv",161
-
-"CIN201808130",27,"Mound Visit"2018CIN.EVN.regular.comment.csv",162
-
-"CIN201808130",29,"Mound Visit"2018CIN.EVN.regular.comment.csv",163
-
-"CIN201808130",35,"Mound Visit"2018CIN.EVN.regular.comment.csv",164
-
-"CIN201808130",43,"Mound Visit"2018CIN.EVN.regular.comment.csv",165
-
-"CIN201808130",50,"Mound Visit"2018CIN.EVN.regular.comment.csv",166
-
-"CIN201808140",3,"Mound Visit"2018CIN.EVN.regular.comment.csv",167
-
-"CIN201808140",18,"Mound Visit"2018CIN.EVN.regular.comment.csv",168
-
-"CIN201808140",30,"$indians challenged call that Hamilton was safe at second; call was overturned - out on caught stealing"2018CIN.EVN.regular.comment.csv",169
-
-"CIN201808140",39,"Mound Visit"2018CIN.EVN.regular.comment.csv",170
-
-"CIN201808150",11,"Mound Visit"2018CIN.EVN.regular.comment.csv",171
-
-"CIN201808150",16,"Mound Visit"2018CIN.EVN.regular.comment.csv",172
-
-"CIN201808150",20,"Mound Visit"2018CIN.EVN.regular.comment.csv",173
-
-"CIN201808150",30,"On-field Delay"2018CIN.EVN.regular.comment.csv",174
-
-"CIN201808150",44,"Mound Visit"2018CIN.EVN.regular.comment.csv",175
-
-"CIN201808150",46,"Mound Visit"2018CIN.EVN.regular.comment.csv",176
-
-"CIN201808150",48,"Mound Visit"2018CIN.EVN.regular.comment.csv",177
-
-"CIN201808150",53,"Mound Visit"2018CIN.EVN.regular.comment.csv",178
-
-"CIN201808150",71,"$Indians challenged call that Kipnis was not hit by pitch; call was overturne - hit by pitch"2018CIN.EVN.regular.comment.csv",179
-
-"CIN201808170",42,"$Reds challenged call that Peraza was out at second; call was was upheld - out on caught stealing"2018CIN.EVN.regular.comment.csv",180
-
-"CIN201808170",43,"Mound Visit"2018CIN.EVN.regular.comment.csv",181
-
-"CIN201808170",58,"Mound Visit"2018CIN.EVN.regular.comment.csv",182
-
-"CIN201808170",62,"Mound Visit"2018CIN.EVN.regular.comment.csv",183
-
-"CIN201808170",64,"Mound Visit"2018CIN.EVN.regular.comment.csv",184
-
-"CIN201808170",68,"$Giants challenged call that Williams was safe at first; call was overturned - ground out"2018CIN.EVN.regular.comment.csv",185
-
-"CIN201808170",70,"Mound Visit Injury Delay"2018CIN.EVN.regular.comment.csv",186
-
-"CIN201808170",77,"$Giants challenged call that Hernandez was out at first; call was overturned - force out, no double play"2018CIN.EVN.regular.comment.csv",187
-
-"CIN201808170",78,"Mound Visit"2018CIN.EVN.regular.comment.csv",188
-
-"CIN201808180",41,"Mound Visit"2018CIN.EVN.regular.comment.csv",189
-
-"CIN201808180",47,"Mound Visit"2018CIN.EVN.regular.comment.csv",190
-
-"CIN201808180",55,"Mound Visit"2018CIN.EVN.regular.comment.csv",191
-
-"CIN201808180",59,"Mound Visit"2018CIN.EVN.regular.comment.csv",192
-
-"CIN201808180",61,"Mound Visit"2018CIN.EVN.regular.comment.csv",193
-
-"CIN201808180",65,"Mound Visit"2018CIN.EVN.regular.comment.csv",194
-
-"CIN201808190",23,"Mound Visit"2018CIN.EVN.regular.comment.csv",195
-
-"CIN201808190",27,"Mound Visit"2018CIN.EVN.regular.comment.csv",196
-
-"CIN201808190",30,"Mound Visit"2018CIN.EVN.regular.comment.csv",197
-
-"CIN201808190",51,"Mound Visit"2018CIN.EVN.regular.comment.csv",198
-
-"CIN201808190",52,"Mound Visit"2018CIN.EVN.regular.comment.csv",199
-
-"CIN201808190",53,"Mound Visit"2018CIN.EVN.regular.comment.csv",200
-
-"CIN201808190",59,"Mound Visit"2018CIN.EVN.regular.comment.csv",201
-
-"CIN201808190",60,"Mound Visit"2018CIN.EVN.regular.comment.csv",202
-
-"CIN201808190",65,"Mound Visit"2018CIN.EVN.regular.comment.csv",203
-
-"CIN201808190",69,"Mound Visit"2018CIN.EVN.regular.comment.csv",204
-
-"CIN201808280",10,"Mound Visit"2018CIN.EVN.regular.comment.csv",205
-
-"CIN201808280",11,"Injury Delay"2018CIN.EVN.regular.comment.csv",206
-
-"CIN201808280",21,"Mound Visit"2018CIN.EVN.regular.comment.csv",207
-
-"CIN201808280",23,"On-field Delay"2018CIN.EVN.regular.comment.csv",208
-
-"CIN201808280",35,"Mound Visit"2018CIN.EVN.regular.comment.csv",209
-
-"CIN201808280",57,"Mound Visit"2018CIN.EVN.regular.comment.csv",210
-
-"CIN201808280",59,"Mound Visit"2018CIN.EVN.regular.comment.csv",211
-
-"CIN201808280",64,"Mound Visit"2018CIN.EVN.regular.comment.csv",212
-
-"CIN201808280",70,"Mound Visit"2018CIN.EVN.regular.comment.csv",213
-
-"CIN201808280",75,"Mound Visit"2018CIN.EVN.regular.comment.csv",214
-
-"CIN201808280",76,"Mound Visit"2018CIN.EVN.regular.comment.csv",215
-
-"CIN201808280",85,"Mound Visit"2018CIN.EVN.regular.comment.csv",216
-
-"CIN201808290",3,"Mound Visit"2018CIN.EVN.regular.comment.csv",217
-
-"CIN201808290",38,"Mound Visit"2018CIN.EVN.regular.comment.csv",218
-
-"CIN201808290",40,"Mound Visit"2018CIN.EVN.regular.comment.csv",219
-
-"CIN201808290",45,"Mound Visit"2018CIN.EVN.regular.comment.csv",220
-
-"CIN201808290",58,"On-field Delay"2018CIN.EVN.regular.comment.csv",221
-
-"CIN201808290",61,"$Reds challenged call that Hamilton was out at 2nd; call was upheld - strikeout and caught stealing"2018CIN.EVN.regular.comment.csv",222
-
-"CIN201808290",63,"Mound Visit"2018CIN.EVN.regular.comment.csv",223
-
-"CIN201808290",64,"Mound Visit"2018CIN.EVN.regular.comment.csv",224
-
-"CIN201808290",66,"Injury Delay"2018CIN.EVN.regular.comment.csv",225
-
-"CIN201808290",79,"Mound Visit"2018CIN.EVN.regular.comment.csv",226
-
-"CIN201808290",84,"Mound Visit"2018CIN.EVN.regular.comment.csv",227
-
-"CIN201808290",87,"$Umpire review call that Hamilton was out at home; call was overturned - safe at home on wild pitch"2018CIN.EVN.regular.comment.csv",228
-
-"CIN201808290",95,"Mound Visit"2018CIN.EVN.regular.comment.csv",229
-
-"CIN201808290",98,"Mound Visit"2018CIN.EVN.regular.comment.csv",230
-
-"CIN201808300",14,"Mound Visit"2018CIN.EVN.regular.comment.csv",231
-
-"CIN201808300",33,"Mound Visit"2018CIN.EVN.regular.comment.csv",232
-
-"CIN201808300",42,"$Brewers challenged call tha Lorenzen was safe at 1st; call was overturned - out to complete double play"2018CIN.EVN.regular.comment.csv",233
-
-"CIN201808300",45,"Injury Delay"2018CIN.EVN.regular.comment.csv",234
-
-"CIN201808300",54,"Mound Visit"2018CIN.EVN.regular.comment.csv",235
-
-"CIN201808300",56,"$Reds challenged call that Aguilar was safe at 2nd on wild pitch; call was overturned - out advancing"2018CIN.EVN.regular.comment.csv",236
-
-"CIN201808300",57,"Mound Visit"2018CIN.EVN.regular.comment.csv",237
-
-"CIN201808300",58,"Mound Visit"2018CIN.EVN.regular.comment.csv",238
-
-"CIN201808300",59,"Injury Delay Mound Visit"2018CIN.EVN.regular.comment.csv",239
-
-"CIN201808300",62,"Mound Visit"2018CIN.EVN.regular.comment.csv",240
-
-"CIN201808300",75,"Injury Delay"2018CIN.EVN.regular.comment.csv",241
-
-"CIN201808300",78,"Injury Delay"2018CIN.EVN.regular.comment.csv",242
-
-"CIN201809060",29,"Mound Visit"2018CIN.EVN.regular.comment.csv",243
-
-"CIN201809060",30,"Mound Visit"2018CIN.EVN.regular.comment.csv",244
-
-"CIN201809060",35,"Mound Visit"2018CIN.EVN.regular.comment.csv",245
-
-"CIN201809060",36,"$Reds challenged call that Jankowski was safe at 2nd; call was upheld - stolen base"2018CIN.EVN.regular.comment.csv",246
-
-"CIN201809060",46,"Mound Visit"2018CIN.EVN.regular.comment.csv",247
-
-"CIN201809060",68,"$Padres challenged call that Margot was out at 1st to complete double play; call was overturned - force out, not DP"2018CIN.EVN.regular.comment.csv",248
-
-"CIN201809070",5,"Mound Visit"2018CIN.EVN.regular.comment.csv",249
-
-"CIN201809070",8,"$Padres challenged call that Schebler was safe at 1st; call was overturned - ground out"2018CIN.EVN.regular.comment.csv",250
-
-"CIN201809070",12,"$Padres challenged call that Margot was out at 1st; call was overturned - single"2018CIN.EVN.regular.comment.csv",251
-
-"CIN201809070",17,"Mound Visit"2018CIN.EVN.regular.comment.csv",252
-
-"CIN201809070",21,"Mound Visit"2018CIN.EVN.regular.comment.csv",253
-
-"CIN201809070",51,"Mound Visit"2018CIN.EVN.regular.comment.csv",254
-
-"CIN201809070",54,"Mound Visit"2018CIN.EVN.regular.comment.csv",255
-
-"CIN201809080",19,"Mound Visit"2018CIN.EVN.regular.comment.csv",256
-
-"CIN201809080",33,"Mound Visit"2018CIN.EVN.regular.comment.csv",257
-
-"CIN201809080",34,"Mound Visit"2018CIN.EVN.regular.comment.csv",258
-
-"CIN201809080",54,"$Game called for rain"2018CIN.EVN.regular.comment.csv",259
-
-"CIN201809090",37,"Mound Visit"2018CIN.EVN.regular.comment.csv",260
-
-"CIN201809090",45,"Mound Visit"2018CIN.EVN.regular.comment.csv",261
-
-"CIN201809090",51,"Mound Visit"2018CIN.EVN.regular.comment.csv",262
-
-"CIN201809090",61,"Mound Visit"2018CIN.EVN.regular.comment.csv",263
-
-"CIN201809090",71,"$Padres challenged call that Jankowski was out at 1st; call was upheld - ground out"2018CIN.EVN.regular.comment.csv",264
-
-"CIN201809100",6,"Mound Visit"2018CIN.EVN.regular.comment.csv",265
-
-"CIN201809100",26,"Mound Visit"2018CIN.EVN.regular.comment.csv",266
-
-"CIN201809100",37,"Mound Visit"2018CIN.EVN.regular.comment.csv",267
-
-"CIN201809100",45,"Mound Visit"2018CIN.EVN.regular.comment.csv",268
-
-"CIN201809100",63,"Mound Visit"2018CIN.EVN.regular.comment.csv",269
-
-"CIN201809100",68,"Mound Visit"2018CIN.EVN.regular.comment.csv",270
-
-"CIN201809100",71,"Mound Visit"2018CIN.EVN.regular.comment.csv",271
-
-"CIN201809100",71,"Mound Visit"2018CIN.EVN.regular.comment.csv",272
-
-"CIN201809100",85,"Mound Visit"2018CIN.EVN.regular.comment.csv",273
-
-"CIN201809110",51,"Mound Visit"2018CIN.EVN.regular.comment.csv",274
-
-"CIN201809110",52,"Mound Visit"2018CIN.EVN.regular.comment.csv",275
-
-"CIN201809110",54,"Mound Visit"2018CIN.EVN.regular.comment.csv",276
-
-"CIN201809110",58,"Mound Visit"2018CIN.EVN.regular.comment.csv",277
-
-"CIN201809120",27,"On-field Delay $Reds challenged call that Muncy was allowed to score from 1st on fan interference, claiming he should have been held at 3rd; call was upheld - run scores"2018CIN.EVN.regular.comment.csv",278
-
-"CIN201809120",30,"Mound Visit"2018CIN.EVN.regular.comment.csv",279
-
-"CIN201809120",35,"Mound Visit"2018CIN.EVN.regular.comment.csv",280
-
-"CIN201809120",38,"Mound Visit"2018CIN.EVN.regular.comment.csv",281
-
-"CIN201809120",50,"Mound Visit"2018CIN.EVN.regular.comment.csv",282
-
-"CIN201809120",51,"Mound Visit"2018CIN.EVN.regular.comment.csv",283
-
-"CIN201809120",63,"Mound Visit"2018CIN.EVN.regular.comment.csv",284
-
-"CIN201809120",75,"Mound Visit"2018CIN.EVN.regular.comment.csv",285
-
-"CIN201809250",32,"Mound Visit"2018CIN.EVN.regular.comment.csv",286
-
-"CIN201809250",63,"Mound Visit"2018CIN.EVN.regular.comment.csv",287
-
-"CIN201809250",65,"Mound Visit"2018CIN.EVN.regular.comment.csv",288
-
-"CIN201809250",71,"Mound Visit"2018CIN.EVN.regular.comment.csv",289
-
-"CIN201809250",74,"Mound Visit"2018CIN.EVN.regular.comment.csv",290
-
-"CIN201809250",76,"Mound Visit"2018CIN.EVN.regular.comment.csv",291
-
-"CIN201809260",23,"$Royals challenged call that Merrifield was out at 3rd; call was overturned - stolen base"2018CIN.EVN.regular.comment.csv",292
-
-"CIN201809260",30,"Mound Visit $Umpire review call that Bonifacio's hit was double; call was upheld - double on fant interference"2018CIN.EVN.regular.comment.csv",293
-
-"CIN201809260",33,"Mound Visit"2018CIN.EVN.regular.comment.csv",294
-
-"CIN201809260",45,"Mound Visit"2018CIN.EVN.regular.comment.csv",295
-
-"CIN201809260",50,"Mound Visit"2018CIN.EVN.regular.comment.csv",296
-
-"CIN201809260",66,"Mound Visit"2018CIN.EVN.regular.comment.csv",297
-
-"CIN201809260",73,"Mound Visit"2018CIN.EVN.regular.comment.csv",298
-
-"CIN201809280",4,"Mound Visit"2018CIN.EVN.regular.comment.csv",299
-
-"CIN201809280",22,"On-field Delay"2018CIN.EVN.regular.comment.csv",300
-
-"CIN201809280",27,"Mound Visit"2018CIN.EVN.regular.comment.csv",301
-
-"CIN201809280",36,"Mound Visit"2018CIN.EVN.regular.comment.csv",302
-
-"CIN201809280",45,"Mound Visit"2018CIN.EVN.regular.comment.csv",303
-
-"CIN201809280",49,"Mound Visit"2018CIN.EVN.regular.comment.csv",304
-
-"CIN201809280",57,"Mound Visit"2018CIN.EVN.regular.comment.csv",305
-
-"CIN201809280",61,"Mound Visit"2018CIN.EVN.regular.comment.csv",306
-
-"CIN201809290",26,"$Adam Frazier left with an injured leg"2018CIN.EVN.regular.comment.csv",307
-
-"CIN201809290",36,"$Jordy Mercer left with the game due to an injured arm"2018CIN.EVN.regular.comment.csv",308
-
-"CIN201809290",44,"Mound Visit"2018CIN.EVN.regular.comment.csv",309
-
-"CIN201809290",45,"Mound Visit"2018CIN.EVN.regular.comment.csv",310
-
-"CIN201809300",30,"Mound Visit"2018CIN.EVN.regular.comment.csv",311
-
-"CIN201809300",43,"Mound Visit"2018CIN.EVN.regular.comment.csv",312
-
-"CIN201809300",47,"Mound Visit"2018CIN.EVN.regular.comment.csv",313
-
-"CIN201809300",48,"Mound Visit"2018CIN.EVN.regular.comment.csv",314
-
-"CIN201809300",55,"Mound Visit"2018CIN.EVN.regular.comment.csv",315
-
-"CIN201809300",68,"Mound Visit"2018CIN.EVN.regular.comment.csv",316
-
-"CIN201809300",79,"Mound Visit"2018CIN.EVN.regular.comment.csv",317
-
+"CIN201804120",40,"$originally scored as E6, changed to single on 04-16-2018, making run he scored now earned","FILENAME_TX","LINE_NUMBER_CT"
+"CIN201804120",55,"$Cardinals challenged call that Ozuna was out at first; call was upheld - ground out","2018CIN.EVN.regular.comment.csv",2
+"CIN201804130",33,"$Cardinals challenged call that Mesoraco was safe at 1st; call was upheld - single","2018CIN.EVN.regular.comment.csv",3
+"CIN201804150",0,"$Rain delay of 2:36 before game started","2018CIN.EVN.regular.comment.csv",4
+"CIN201804150",68,"$Reds challenged call that throw had not gone out of play; call was overturned - batter awarded 2nd","2018CIN.EVN.regular.comment.csv",5
+"CIN201804150",71,"$Cardinals challenged call that Mesoraco was hit by pitch; call was upheld - hit by pitch","2018CIN.EVN.regular.comment.csv",6
+"CIN201804230",52,"umpchange,6,ump1b,onorb901 umpchange,6,ump2b,(None) 1b umpire Bucknor left for undisclosed reason","2018CIN.EVN.regular.comment.csv",7
+"CIN201804240",97,"$Braves challenged call that Markakis was out at first; call was upheld - ground out","2018CIN.EVN.regular.comment.csv",8
+"CIN201804250",48,"$Reds challenged call that Duvall was out at home; call was overturne - safe at home","2018CIN.EVN.regular.comment.csv",9
+"CIN201804250",80,"$Braves challenged call that Markakis was out at 1st to complete DP; call was overturned - force out, no DP","2018CIN.EVN.regular.comment.csv",10
+"CIN201804260",47,"$umpire review after foul on 2nd pitch; call was upheld - foul, not home run","2018CIN.EVN.regular.comment.csv",11
+"CIN201805010",48,"$Reds challenged call that Duvall was out at 2nd; call was upheld - out on pickoff","2018CIN.EVN.regular.comment.csv",12
+"CIN201805010",58,"$Umpire review to check Perez's ball; call was upheld - homer","2018CIN.EVN.regular.comment.csv",13
+"CIN201805020",13,"$Travis Shaw left with injured foot","2018CIN.EVN.regular.comment.csv",14
+"CIN201805060",3,"$both runs originally scored as earned, second one changed to unearned on 05-08-2018","2018CIN.EVN.regular.comment.csv",15
+"CIN201805060",7,"run originally scored as earned, changed to unearned on 05-08-2018","2018CIN.EVN.regular.comment.csv",16
+"CIN201805090",3,"$Flores batted when the batter should have been Cabrera; he struck out so the Reds did not comment; Cabrera then batted out of turn and hit a ground rule double; the correct batter was Bruce, who followed Flores in the lineup; the Reds pointed out the mistake and Bruce was called out per the rules; the Mets followed the correct order the rest of the game","2018CIN.EVN.regular.comment.csv",17
+"CIN201805180",77,"$originally scored as E4, changed to single on 05-30-2018","2018CIN.EVN.regular.comment.csv",18
+"CIN201805191",42,"$Cubs challenged call that Caratini was out at first; call was overturned - single","2018CIN.EVN.regular.comment.csv",19
+"CIN201805200",57,"ej,schwk001,P,tumpj901,Arguing called third strike $Kyle Schwarber ejected by plate umpire Tumpane for arguing called third strike","2018CIN.EVN.regular.comment.csv",20
+"CIN201805240",69,"$Pirates challenged call that Diaz was out at first; call was upheld - ground out","2018CIN.EVN.regular.comment.csv",21
+"CIN201806050",65,"$Reds challenged call that Winker was out at home; call was upheld - out at home","2018CIN.EVN.regular.comment.csv",22
+"CIN201806070",3,"$Reds challenged call that Blackmon was safe at first; call was overturned - double play","2018CIN.EVN.regular.comment.csv",23
+"CIN201806070",15,"$Rockies challenged call that Casali was safe at second; call was upheld - double","2018CIN.EVN.regular.comment.csv",24
+"CIN201806070",29,"$Reds challenged call that Wolters did not interfere at second; call was upheld - force out, no interference","2018CIN.EVN.regular.comment.csv",25
+"CIN201806090",75,"$Reds challenged call that Schebler was out at first; call was upheld - ground out","2018CIN.EVN.regular.comment.csv",26
+"CIN201806100",3,"$Reds challenged call that Pham was safe at second on double; call was overturned - single and out stretching","2018CIN.EVN.regular.comment.csv",27
+"CIN201806100",21,"$Cardinals challenged call that Ozuna's ball had been caught to to start double play; call was overturned - droppped for single","2018CIN.EVN.regular.comment.csv",28
+"CIN201806100",38,"$Cardinals challenged call that Hamilton was safe at third; call was upheld - safe advancing on wild pitch","2018CIN.EVN.regular.comment.csv",29
+"CIN201806200",50,"$Umpire review of ball hit by Suarez; call ws overturned - home run, not double","2018CIN.EVN.regular.comment.csv",30
+"CIN201806210",25,"$Reds challenged call that Peraza was out at second; call was overturned - stolen base","2018CIN.EVN.regular.comment.csv",31
+"CIN201806220",21,"$Cubs challenged call that Gimenez was out at first; call was overturned - safe on throwing error","2018CIN.EVN.regular.comment.csv",32
+"CIN201806220",52,"$Reds challenged call that Baez was hit by pitch; call was upheld - hit by pitch","2018CIN.EVN.regular.comment.csv",33
+"CIN201806230",10,"$Umpire reviewed call that ball hit by Contreras; call was upheld - home run","2018CIN.EVN.regular.comment.csv",34
+"CIN201806230",32,"ej,hydeb801,C,gibsg901,Timeout request $Chicago bench coach Brandon Hyde ejected by HP umpire Gibson after 4th pitch to Contreras; Contreras said that when he asked asked for a timeout Gibson said something he didn't like and bench coach Hyde was ejected for complaining from the bench","2018CIN.EVN.regular.comment.csv",35
+"CIN201806240",61,"$Cubs challenged call that Votto was safe at second; call was upheld - double","2018CIN.EVN.regular.comment.csv",36
+"CIN201806280",4,"$Christian Yelich left with an injured back","2018CIN.EVN.regular.comment.csv",37
+"CIN201806280",77,"$Originally scored as stolen base, changed to defensive indifference on 06-29-2018","2018CIN.EVN.regular.comment.csv",38
+"CIN201806290",52,"Ryan Braun left with an injured back","2018CIN.EVN.regular.comment.csv",39
+"CIN201806290",79,"$Reds challenged call that Gennett's fly was caught, claiming it was trapped; call was upheld - fly out","2018CIN.EVN.regular.comment.csv",40
+"CIN201807020",41,"Injury Delay","2018CIN.EVN.regular.comment.csv",41
+"CIN201807020",51,"Mound Visit","2018CIN.EVN.regular.comment.csv",42
+"CIN201807020",53,"Mound Visit","2018CIN.EVN.regular.comment.csv",43
+"CIN201807020",59,"Mound Visit","2018CIN.EVN.regular.comment.csv",44
+"CIN201807020",60,"Mound Visit","2018CIN.EVN.regular.comment.csv",45
+"CIN201807020",64,"Mound Visit","2018CIN.EVN.regular.comment.csv",46
+"CIN201807020",71,"Mound Visit","2018CIN.EVN.regular.comment.csv",47
+"CIN201807020",72,"$White Sox challenged call that Duvall was safe at first; call was upheld - safe on fielder's choice","2018CIN.EVN.regular.comment.csv",48
+"CIN201807020",73,"$Umpire review of call that Suarez was safe at home; call was upheld - safe","2018CIN.EVN.regular.comment.csv",49
+"CIN201807020",74,"Mound Visit","2018CIN.EVN.regular.comment.csv",50
+"CIN201807030",8,"Mound Visit","2018CIN.EVN.regular.comment.csv",51
+"CIN201807030",41,"Mound Visit","2018CIN.EVN.regular.comment.csv",52
+"CIN201807030",42,"Mound Visit","2018CIN.EVN.regular.comment.csv",53
+"CIN201807030",49,"Mound Visit","2018CIN.EVN.regular.comment.csv",54
+"CIN201807030",50,"Mound Visit","2018CIN.EVN.regular.comment.csv",55
+"CIN201807030",60,"Mound Visit","2018CIN.EVN.regular.comment.csv",56
+"CIN201807030",63,"Mound Visit","2018CIN.EVN.regular.comment.csv",57
+"CIN201807030",69,"Mound Visit","2018CIN.EVN.regular.comment.csv",58
+"CIN201807030",76,"$White Sox challenged call that Hamilton was safe at home; call was upheld - safe","2018CIN.EVN.regular.comment.csv",59
+"CIN201807030",87,"On-field Delay","2018CIN.EVN.regular.comment.csv",60
+"CIN201807030",95,"Mound Visit","2018CIN.EVN.regular.comment.csv",61
+"CIN201807030",96,"Mound Visit","2018CIN.EVN.regular.comment.csv",62
+"CIN201807030",105,"On-field Delay $Reds argued that Engel was running inside the line and interfered with throw as he collided with 1bman's arm; play is not reviewable, but Reds wanted umpire review, a request which was denied","2018CIN.EVN.regular.comment.csv",63
+"CIN201807030",107,"Mound Visit $Umpire review ball hit by Moncada which was over fence but brought back by right fielder who lost his glove and dropped the ball on the field; call was upheld - triple, not homer","2018CIN.EVN.regular.comment.csv",64
+"CIN201807030",109,"ej,riggj801,M,coope901,Intentional walk signal $Reds manager Riggleman ejected by HP umpire Cooper over over dispute on signal given for intentional walk","2018CIN.EVN.regular.comment.csv",65
+"CIN201807030",110,"Mound Visit","2018CIN.EVN.regular.comment.csv",66
+"CIN201807040",23,"Mound Visit","2018CIN.EVN.regular.comment.csv",67
+"CIN201807040",26,"Mound Visit","2018CIN.EVN.regular.comment.csv",68
+"CIN201807040",29,"Mound Visit","2018CIN.EVN.regular.comment.csv",69
+"CIN201807040",32,"On-field Delay","2018CIN.EVN.regular.comment.csv",70
+"CIN201807040",33,"Mound Visit","2018CIN.EVN.regular.comment.csv",71
+"CIN201807040",34,"Mound Visit","2018CIN.EVN.regular.comment.csv",72
+"CIN201807040",39,"Mound Visit","2018CIN.EVN.regular.comment.csv",73
+"CIN201807040",40,"On-field Delay","2018CIN.EVN.regular.comment.csv",74
+"CIN201807040",61,"Mound Visit","2018CIN.EVN.regular.comment.csv",75
+"CIN201807040",70,"Mound Visit","2018CIN.EVN.regular.comment.csv",76
+"CIN201807200",31,"Mound Visit","2018CIN.EVN.regular.comment.csv",77
+"CIN201807200",46,"Mound Visit","2018CIN.EVN.regular.comment.csv",78
+"CIN201807200",50,"Mound Visit","2018CIN.EVN.regular.comment.csv",79
+"CIN201807200",54,"Mound Visit","2018CIN.EVN.regular.comment.csv",80
+"CIN201807200",58,"Mound Visit","2018CIN.EVN.regular.comment.csv",81
+"CIN201807200",78,"Mound Visit","2018CIN.EVN.regular.comment.csv",82
+"CIN201807200",79,"Injury Delay","2018CIN.EVN.regular.comment.csv",83
+"CIN201807210",1,"Injury Delay","2018CIN.EVN.regular.comment.csv",84
+"CIN201807210",2,"$Pirates challenged call that Marte was out at second; call was upheld - single and out stretching","2018CIN.EVN.regular.comment.csv",85
+"CIN201807210",25,"Mound Visit","2018CIN.EVN.regular.comment.csv",86
+"CIN201807210",46,"Mound Visit","2018CIN.EVN.regular.comment.csv",87
+"CIN201807210",59,"$Umpire review ball hit by Casali; call was upheld - home run","2018CIN.EVN.regular.comment.csv",88
+"CIN201807210",59,"Mound Visit","2018CIN.EVN.regular.comment.csv",89
+"CIN201807210",77,"Injury Delay","2018CIN.EVN.regular.comment.csv",90
+"CIN201807220",14,"Mound Visit","2018CIN.EVN.regular.comment.csv",91
+"CIN201807220",30,"Mound Visit","2018CIN.EVN.regular.comment.csv",92
+"CIN201807220",62,"Mound Visit","2018CIN.EVN.regular.comment.csv",93
+"CIN201807220",63,"Mound Visit","2018CIN.EVN.regular.comment.csv",94
+"CIN201807230",36,"Mound Visit","2018CIN.EVN.regular.comment.csv",95
+"CIN201807230",38,"Mound Visit","2018CIN.EVN.regular.comment.csv",96
+"CIN201807230",44,"$Reds challenged call that Pham was safe at third for triple; call was overturned - double and out stretching; out was originally scored as 765; assist to CF added on 07-27-2018","2018CIN.EVN.regular.comment.csv",97
+"CIN201807230",51,"Mound Visit","2018CIN.EVN.regular.comment.csv",98
+"CIN201807230",61,"Mound Visit","2018CIN.EVN.regular.comment.csv",99
+"CIN201807230",63,"On-field Delay","2018CIN.EVN.regular.comment.csv",100
+"CIN201807230",65,"Mound Visit","2018CIN.EVN.regular.comment.csv",101
+"CIN201807240",20,"Mound Visit","2018CIN.EVN.regular.comment.csv",102
+"CIN201807240",47,"Mound Visit","2018CIN.EVN.regular.comment.csv",103
+"CIN201807240",48,"Mound Visit","2018CIN.EVN.regular.comment.csv",104
+"CIN201807240",54,"Mound Visit","2018CIN.EVN.regular.comment.csv",105
+"CIN201807240",68,"Mound Visit","2018CIN.EVN.regular.comment.csv",106
+"CIN201807240",73,"Mound Visit","2018CIN.EVN.regular.comment.csv",107
+"CIN201807240",76,"Mound Visit","2018CIN.EVN.regular.comment.csv",108
+"CIN201807240",77,"Mound Visit $Reds challenged call that Duvall was out at third; call was upheld - out on fielder's choice","2018CIN.EVN.regular.comment.csv",109
+"CIN201807240",82,"Mound Visit","2018CIN.EVN.regular.comment.csv",110
+"CIN201807240",88,"Mound Visit","2018CIN.EVN.regular.comment.csv",111
+"CIN201807250",5,"Mound Visit","2018CIN.EVN.regular.comment.csv",112
+"CIN201807250",24,"Mound Visit","2018CIN.EVN.regular.comment.csv",113
+"CIN201807250",41,"$Cardinals challenged call that Hamilton was safe at 1st on pickoff attempt; call was overturned - out on pickoff","2018CIN.EVN.regular.comment.csv",114
+"CIN201807250",45,"Mound Visit","2018CIN.EVN.regular.comment.csv",115
+"CIN201807250",53,"Mound Visit","2018CIN.EVN.regular.comment.csv",116
+"CIN201807250",68,"Mound Visit","2018CIN.EVN.regular.comment.csv",117
+"CIN201807250",69,"Mound Visit","2018CIN.EVN.regular.comment.csv",118
+"CIN201807260",6,"Mound Visit","2018CIN.EVN.regular.comment.csv",119
+"CIN201807260",15,"Mound Visit","2018CIN.EVN.regular.comment.csv",120
+"CIN201807260",40,"Mound Visit","2018CIN.EVN.regular.comment.csv",121
+"CIN201807260",51,"Mound Visit","2018CIN.EVN.regular.comment.csv",122
+"CIN201807260",69,"Mound Visit","2018CIN.EVN.regular.comment.csv",123
+"CIN201807270",19,"$Umpire review of ball hit by Herrera; call was upheld - homer","2018CIN.EVN.regular.comment.csv",124
+"CIN201807270",26,"Mound Visit","2018CIN.EVN.regular.comment.csv",125
+"CIN201807270",39,"Mound Visit","2018CIN.EVN.regular.comment.csv",126
+"CIN201807270",40,"Mound Visit","2018CIN.EVN.regular.comment.csv",127
+"CIN201807270",41,"Injury Delay","2018CIN.EVN.regular.comment.csv",128
+"CIN201807270",41,"$Amir Garrett left with an injured ankle","2018CIN.EVN.regular.comment.csv",129
+"CIN201807270",63,"Mound Visit","2018CIN.EVN.regular.comment.csv",130
+"CIN201807270",66,"Mound Visit","2018CIN.EVN.regular.comment.csv",131
+"CIN201807270",75,"Mound Visit","2018CIN.EVN.regular.comment.csv",132
+"CIN201807280",26,"Mound Visit","2018CIN.EVN.regular.comment.csv",133
+"CIN201807280",34,"Mound Visit","2018CIN.EVN.regular.comment.csv",134
+"CIN201807280",39,"$Reds challenged call that third pitch hit Hernandez; call was overturned - ball","2018CIN.EVN.regular.comment.csv",135
+"CIN201807280",43,"Mound Visit","2018CIN.EVN.regular.comment.csv",136
+"CIN201807280",56,"Mound Visit","2018CIN.EVN.regular.comment.csv",137
+"CIN201807280",64,"$Reds challenged call that Knapp was hit by pitch; call was upheld - hit by pitch","2018CIN.EVN.regular.comment.csv",138
+"CIN201807280",65,"Mound Visit","2018CIN.EVN.regular.comment.csv",139
+"CIN201807290",49,"Mound Visit","2018CIN.EVN.regular.comment.csv",140
+"CIN201807290",66,"Mound Visit","2018CIN.EVN.regular.comment.csv",141
+"CIN201807290",68,"Mound Visit","2018CIN.EVN.regular.comment.csv",142
+"CIN201807290",72,"Mound Visit","2018CIN.EVN.regular.comment.csv",143
+"CIN201808100",48,"Mound Visit","2018CIN.EVN.regular.comment.csv",144
+"CIN201808100",53,"Mound Visit","2018CIN.EVN.regular.comment.csv",145
+"CIN201808110",8,"Mound Visit","2018CIN.EVN.regular.comment.csv",146
+"CIN201808110",41,"$Reds challenged call that Peraza was out at second; call was upheld - out on caught stealing","2018CIN.EVN.regular.comment.csv",147
+"CIN201808110",55,"Mound Visit","2018CIN.EVN.regular.comment.csv",148
+"CIN201808110",62,"Mound Visit","2018CIN.EVN.regular.comment.csv",149
+"CIN201808110",63,"Mound Visit","2018CIN.EVN.regular.comment.csv",150
+"CIN201808110",68,"Mound Visit","2018CIN.EVN.regular.comment.csv",151
+"CIN201808110",69,"Mound Visit","2018CIN.EVN.regular.comment.csv",152
+"CIN201808110",70,"Injury Delay","2018CIN.EVN.regular.comment.csv",153
+"CIN201808120",42,"Mound Visit","2018CIN.EVN.regular.comment.csv",154
+"CIN201808120",50,"Mound Visit","2018CIN.EVN.regular.comment.csv",155
+"CIN201808120",54,"Mound Visit","2018CIN.EVN.regular.comment.csv",156
+"CIN201808120",57,"Mound Visit","2018CIN.EVN.regular.comment.csv",157
+"CIN201808120",69,"Mound Visit","2018CIN.EVN.regular.comment.csv",158
+"CIN201808130",14,"$Umpire review of blal hit by Barnhart; call upheld - home run","2018CIN.EVN.regular.comment.csv",159
+"CIN201808130",23,"Mound Visit","2018CIN.EVN.regular.comment.csv",160
+"CIN201808130",24,"On-field Delay","2018CIN.EVN.regular.comment.csv",161
+"CIN201808130",27,"Mound Visit","2018CIN.EVN.regular.comment.csv",162
+"CIN201808130",29,"Mound Visit","2018CIN.EVN.regular.comment.csv",163
+"CIN201808130",35,"Mound Visit","2018CIN.EVN.regular.comment.csv",164
+"CIN201808130",43,"Mound Visit","2018CIN.EVN.regular.comment.csv",165
+"CIN201808130",50,"Mound Visit","2018CIN.EVN.regular.comment.csv",166
+"CIN201808140",3,"Mound Visit","2018CIN.EVN.regular.comment.csv",167
+"CIN201808140",18,"Mound Visit","2018CIN.EVN.regular.comment.csv",168
+"CIN201808140",30,"$indians challenged call that Hamilton was safe at second; call was overturned - out on caught stealing","2018CIN.EVN.regular.comment.csv",169
+"CIN201808140",39,"Mound Visit","2018CIN.EVN.regular.comment.csv",170
+"CIN201808150",11,"Mound Visit","2018CIN.EVN.regular.comment.csv",171
+"CIN201808150",16,"Mound Visit","2018CIN.EVN.regular.comment.csv",172
+"CIN201808150",20,"Mound Visit","2018CIN.EVN.regular.comment.csv",173
+"CIN201808150",30,"On-field Delay","2018CIN.EVN.regular.comment.csv",174
+"CIN201808150",44,"Mound Visit","2018CIN.EVN.regular.comment.csv",175
+"CIN201808150",46,"Mound Visit","2018CIN.EVN.regular.comment.csv",176
+"CIN201808150",48,"Mound Visit","2018CIN.EVN.regular.comment.csv",177
+"CIN201808150",53,"Mound Visit","2018CIN.EVN.regular.comment.csv",178
+"CIN201808150",71,"$Indians challenged call that Kipnis was not hit by pitch; call was overturne - hit by pitch","2018CIN.EVN.regular.comment.csv",179
+"CIN201808170",42,"$Reds challenged call that Peraza was out at second; call was was upheld - out on caught stealing","2018CIN.EVN.regular.comment.csv",180
+"CIN201808170",43,"Mound Visit","2018CIN.EVN.regular.comment.csv",181
+"CIN201808170",58,"Mound Visit","2018CIN.EVN.regular.comment.csv",182
+"CIN201808170",62,"Mound Visit","2018CIN.EVN.regular.comment.csv",183
+"CIN201808170",64,"Mound Visit","2018CIN.EVN.regular.comment.csv",184
+"CIN201808170",68,"$Giants challenged call that Williams was safe at first; call was overturned - ground out","2018CIN.EVN.regular.comment.csv",185
+"CIN201808170",70,"Mound Visit Injury Delay","2018CIN.EVN.regular.comment.csv",186
+"CIN201808170",77,"$Giants challenged call that Hernandez was out at first; call was overturned - force out, no double play","2018CIN.EVN.regular.comment.csv",187
+"CIN201808170",78,"Mound Visit","2018CIN.EVN.regular.comment.csv",188
+"CIN201808180",41,"Mound Visit","2018CIN.EVN.regular.comment.csv",189
+"CIN201808180",47,"Mound Visit","2018CIN.EVN.regular.comment.csv",190
+"CIN201808180",55,"Mound Visit","2018CIN.EVN.regular.comment.csv",191
+"CIN201808180",59,"Mound Visit","2018CIN.EVN.regular.comment.csv",192
+"CIN201808180",61,"Mound Visit","2018CIN.EVN.regular.comment.csv",193
+"CIN201808180",65,"Mound Visit","2018CIN.EVN.regular.comment.csv",194
+"CIN201808190",23,"Mound Visit","2018CIN.EVN.regular.comment.csv",195
+"CIN201808190",27,"Mound Visit","2018CIN.EVN.regular.comment.csv",196
+"CIN201808190",30,"Mound Visit","2018CIN.EVN.regular.comment.csv",197
+"CIN201808190",51,"Mound Visit","2018CIN.EVN.regular.comment.csv",198
+"CIN201808190",52,"Mound Visit","2018CIN.EVN.regular.comment.csv",199
+"CIN201808190",53,"Mound Visit","2018CIN.EVN.regular.comment.csv",200
+"CIN201808190",59,"Mound Visit","2018CIN.EVN.regular.comment.csv",201
+"CIN201808190",60,"Mound Visit","2018CIN.EVN.regular.comment.csv",202
+"CIN201808190",65,"Mound Visit","2018CIN.EVN.regular.comment.csv",203
+"CIN201808190",69,"Mound Visit","2018CIN.EVN.regular.comment.csv",204
+"CIN201808280",10,"Mound Visit","2018CIN.EVN.regular.comment.csv",205
+"CIN201808280",11,"Injury Delay","2018CIN.EVN.regular.comment.csv",206
+"CIN201808280",21,"Mound Visit","2018CIN.EVN.regular.comment.csv",207
+"CIN201808280",23,"On-field Delay","2018CIN.EVN.regular.comment.csv",208
+"CIN201808280",35,"Mound Visit","2018CIN.EVN.regular.comment.csv",209
+"CIN201808280",57,"Mound Visit","2018CIN.EVN.regular.comment.csv",210
+"CIN201808280",59,"Mound Visit","2018CIN.EVN.regular.comment.csv",211
+"CIN201808280",64,"Mound Visit","2018CIN.EVN.regular.comment.csv",212
+"CIN201808280",70,"Mound Visit","2018CIN.EVN.regular.comment.csv",213
+"CIN201808280",75,"Mound Visit","2018CIN.EVN.regular.comment.csv",214
+"CIN201808280",76,"Mound Visit","2018CIN.EVN.regular.comment.csv",215
+"CIN201808280",85,"Mound Visit","2018CIN.EVN.regular.comment.csv",216
+"CIN201808290",3,"Mound Visit","2018CIN.EVN.regular.comment.csv",217
+"CIN201808290",38,"Mound Visit","2018CIN.EVN.regular.comment.csv",218
+"CIN201808290",40,"Mound Visit","2018CIN.EVN.regular.comment.csv",219
+"CIN201808290",45,"Mound Visit","2018CIN.EVN.regular.comment.csv",220
+"CIN201808290",58,"On-field Delay","2018CIN.EVN.regular.comment.csv",221
+"CIN201808290",61,"$Reds challenged call that Hamilton was out at 2nd; call was upheld - strikeout and caught stealing","2018CIN.EVN.regular.comment.csv",222
+"CIN201808290",63,"Mound Visit","2018CIN.EVN.regular.comment.csv",223
+"CIN201808290",64,"Mound Visit","2018CIN.EVN.regular.comment.csv",224
+"CIN201808290",66,"Injury Delay","2018CIN.EVN.regular.comment.csv",225
+"CIN201808290",79,"Mound Visit","2018CIN.EVN.regular.comment.csv",226
+"CIN201808290",84,"Mound Visit","2018CIN.EVN.regular.comment.csv",227
+"CIN201808290",87,"$Umpire review call that Hamilton was out at home; call was overturned - safe at home on wild pitch","2018CIN.EVN.regular.comment.csv",228
+"CIN201808290",95,"Mound Visit","2018CIN.EVN.regular.comment.csv",229
+"CIN201808290",98,"Mound Visit","2018CIN.EVN.regular.comment.csv",230
+"CIN201808300",14,"Mound Visit","2018CIN.EVN.regular.comment.csv",231
+"CIN201808300",33,"Mound Visit","2018CIN.EVN.regular.comment.csv",232
+"CIN201808300",42,"$Brewers challenged call tha Lorenzen was safe at 1st; call was overturned - out to complete double play","2018CIN.EVN.regular.comment.csv",233
+"CIN201808300",45,"Injury Delay","2018CIN.EVN.regular.comment.csv",234
+"CIN201808300",54,"Mound Visit","2018CIN.EVN.regular.comment.csv",235
+"CIN201808300",56,"$Reds challenged call that Aguilar was safe at 2nd on wild pitch; call was overturned - out advancing","2018CIN.EVN.regular.comment.csv",236
+"CIN201808300",57,"Mound Visit","2018CIN.EVN.regular.comment.csv",237
+"CIN201808300",58,"Mound Visit","2018CIN.EVN.regular.comment.csv",238
+"CIN201808300",59,"Injury Delay Mound Visit","2018CIN.EVN.regular.comment.csv",239
+"CIN201808300",62,"Mound Visit","2018CIN.EVN.regular.comment.csv",240
+"CIN201808300",75,"Injury Delay","2018CIN.EVN.regular.comment.csv",241
+"CIN201808300",78,"Injury Delay","2018CIN.EVN.regular.comment.csv",242
+"CIN201809060",29,"Mound Visit","2018CIN.EVN.regular.comment.csv",243
+"CIN201809060",30,"Mound Visit","2018CIN.EVN.regular.comment.csv",244
+"CIN201809060",35,"Mound Visit","2018CIN.EVN.regular.comment.csv",245
+"CIN201809060",36,"$Reds challenged call that Jankowski was safe at 2nd; call was upheld - stolen base","2018CIN.EVN.regular.comment.csv",246
+"CIN201809060",46,"Mound Visit","2018CIN.EVN.regular.comment.csv",247
+"CIN201809060",68,"$Padres challenged call that Margot was out at 1st to complete double play; call was overturned - force out, not DP","2018CIN.EVN.regular.comment.csv",248
+"CIN201809070",5,"Mound Visit","2018CIN.EVN.regular.comment.csv",249
+"CIN201809070",8,"$Padres challenged call that Schebler was safe at 1st; call was overturned - ground out","2018CIN.EVN.regular.comment.csv",250
+"CIN201809070",12,"$Padres challenged call that Margot was out at 1st; call was overturned - single","2018CIN.EVN.regular.comment.csv",251
+"CIN201809070",17,"Mound Visit","2018CIN.EVN.regular.comment.csv",252
+"CIN201809070",21,"Mound Visit","2018CIN.EVN.regular.comment.csv",253
+"CIN201809070",51,"Mound Visit","2018CIN.EVN.regular.comment.csv",254
+"CIN201809070",54,"Mound Visit","2018CIN.EVN.regular.comment.csv",255
+"CIN201809080",19,"Mound Visit","2018CIN.EVN.regular.comment.csv",256
+"CIN201809080",33,"Mound Visit","2018CIN.EVN.regular.comment.csv",257
+"CIN201809080",34,"Mound Visit","2018CIN.EVN.regular.comment.csv",258
+"CIN201809080",54,"$Game called for rain","2018CIN.EVN.regular.comment.csv",259
+"CIN201809090",37,"Mound Visit","2018CIN.EVN.regular.comment.csv",260
+"CIN201809090",45,"Mound Visit","2018CIN.EVN.regular.comment.csv",261
+"CIN201809090",51,"Mound Visit","2018CIN.EVN.regular.comment.csv",262
+"CIN201809090",61,"Mound Visit","2018CIN.EVN.regular.comment.csv",263
+"CIN201809090",71,"$Padres challenged call that Jankowski was out at 1st; call was upheld - ground out","2018CIN.EVN.regular.comment.csv",264
+"CIN201809100",6,"Mound Visit","2018CIN.EVN.regular.comment.csv",265
+"CIN201809100",26,"Mound Visit","2018CIN.EVN.regular.comment.csv",266
+"CIN201809100",37,"Mound Visit","2018CIN.EVN.regular.comment.csv",267
+"CIN201809100",45,"Mound Visit","2018CIN.EVN.regular.comment.csv",268
+"CIN201809100",63,"Mound Visit","2018CIN.EVN.regular.comment.csv",269
+"CIN201809100",68,"Mound Visit","2018CIN.EVN.regular.comment.csv",270
+"CIN201809100",71,"Mound Visit","2018CIN.EVN.regular.comment.csv",271
+"CIN201809100",71,"Mound Visit","2018CIN.EVN.regular.comment.csv",272
+"CIN201809100",85,"Mound Visit","2018CIN.EVN.regular.comment.csv",273
+"CIN201809110",51,"Mound Visit","2018CIN.EVN.regular.comment.csv",274
+"CIN201809110",52,"Mound Visit","2018CIN.EVN.regular.comment.csv",275
+"CIN201809110",54,"Mound Visit","2018CIN.EVN.regular.comment.csv",276
+"CIN201809110",58,"Mound Visit","2018CIN.EVN.regular.comment.csv",277
+"CIN201809120",27,"On-field Delay $Reds challenged call that Muncy was allowed to score from 1st on fan interference, claiming he should have been held at 3rd; call was upheld - run scores","2018CIN.EVN.regular.comment.csv",278
+"CIN201809120",30,"Mound Visit","2018CIN.EVN.regular.comment.csv",279
+"CIN201809120",35,"Mound Visit","2018CIN.EVN.regular.comment.csv",280
+"CIN201809120",38,"Mound Visit","2018CIN.EVN.regular.comment.csv",281
+"CIN201809120",50,"Mound Visit","2018CIN.EVN.regular.comment.csv",282
+"CIN201809120",51,"Mound Visit","2018CIN.EVN.regular.comment.csv",283
+"CIN201809120",63,"Mound Visit","2018CIN.EVN.regular.comment.csv",284
+"CIN201809120",75,"Mound Visit","2018CIN.EVN.regular.comment.csv",285
+"CIN201809250",32,"Mound Visit","2018CIN.EVN.regular.comment.csv",286
+"CIN201809250",63,"Mound Visit","2018CIN.EVN.regular.comment.csv",287
+"CIN201809250",65,"Mound Visit","2018CIN.EVN.regular.comment.csv",288
+"CIN201809250",71,"Mound Visit","2018CIN.EVN.regular.comment.csv",289
+"CIN201809250",74,"Mound Visit","2018CIN.EVN.regular.comment.csv",290
+"CIN201809250",76,"Mound Visit","2018CIN.EVN.regular.comment.csv",291
+"CIN201809260",23,"$Royals challenged call that Merrifield was out at 3rd; call was overturned - stolen base","2018CIN.EVN.regular.comment.csv",292
+"CIN201809260",30,"Mound Visit $Umpire review call that Bonifacio's hit was double; call was upheld - double on fant interference","2018CIN.EVN.regular.comment.csv",293
+"CIN201809260",33,"Mound Visit","2018CIN.EVN.regular.comment.csv",294
+"CIN201809260",45,"Mound Visit","2018CIN.EVN.regular.comment.csv",295
+"CIN201809260",50,"Mound Visit","2018CIN.EVN.regular.comment.csv",296
+"CIN201809260",66,"Mound Visit","2018CIN.EVN.regular.comment.csv",297
+"CIN201809260",73,"Mound Visit","2018CIN.EVN.regular.comment.csv",298
+"CIN201809280",4,"Mound Visit","2018CIN.EVN.regular.comment.csv",299
+"CIN201809280",22,"On-field Delay","2018CIN.EVN.regular.comment.csv",300
+"CIN201809280",27,"Mound Visit","2018CIN.EVN.regular.comment.csv",301
+"CIN201809280",36,"Mound Visit","2018CIN.EVN.regular.comment.csv",302
+"CIN201809280",45,"Mound Visit","2018CIN.EVN.regular.comment.csv",303
+"CIN201809280",49,"Mound Visit","2018CIN.EVN.regular.comment.csv",304
+"CIN201809280",57,"Mound Visit","2018CIN.EVN.regular.comment.csv",305
+"CIN201809280",61,"Mound Visit","2018CIN.EVN.regular.comment.csv",306
+"CIN201809290",26,"$Adam Frazier left with an injured leg","2018CIN.EVN.regular.comment.csv",307
+"CIN201809290",36,"$Jordy Mercer left with the game due to an injured arm","2018CIN.EVN.regular.comment.csv",308
+"CIN201809290",44,"Mound Visit","2018CIN.EVN.regular.comment.csv",309
+"CIN201809290",45,"Mound Visit","2018CIN.EVN.regular.comment.csv",310
+"CIN201809300",30,"Mound Visit","2018CIN.EVN.regular.comment.csv",311
+"CIN201809300",43,"Mound Visit","2018CIN.EVN.regular.comment.csv",312
+"CIN201809300",47,"Mound Visit","2018CIN.EVN.regular.comment.csv",313
+"CIN201809300",48,"Mound Visit","2018CIN.EVN.regular.comment.csv",314
+"CIN201809300",55,"Mound Visit","2018CIN.EVN.regular.comment.csv",315
+"CIN201809300",68,"Mound Visit","2018CIN.EVN.regular.comment.csv",316
+"CIN201809300",79,"Mound Visit","2018CIN.EVN.regular.comment.csv",317

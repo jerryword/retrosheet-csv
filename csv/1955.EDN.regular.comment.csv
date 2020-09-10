@@ -1,128 +1,64 @@
-"NY1195505070",32,"$the throw went into the stands"FILENAME_TX","LINE_NUMBER_CT"
-
-"NY1195505070",37,"speculation, but need to get Mays to 3rd - see picture in paper. Stories say Lockman trapped between 1B and 2B, so this play clearly not correct"1955.EDN.regular.comment.csv",2
-
-"NY1195505070",38,"$Willie Mays spiked Jack Sheppard and benches cleared but HP umpire Larry Goetz kept peace"1955.EDN.regular.comment.csv",3
-
-"MLN195506200",40,"ej,hanef101,M,donaa901,Call at HP Pirates manager Fred Haney ejected by HP umpire Augie Donatelli"1955.EDN.regular.comment.csv",4
-
-"MLN195506210",12,"$over 394 feet sign"1955.EDN.regular.comment.csv",5
-
-"MLN195506210",21,"$over 10' fence at 402 foot marker"1955.EDN.regular.comment.csv",6
-
-"NY1195507150",12,"$Gail Harris rounded 2B too far"1955.EDN.regular.comment.csv",7
-
-"NY1195507150",60,"Davey Williams left with chronic aching back"1955.EDN.regular.comment.csv",8
-
-"NY1195509202",27,"SB could be in 3rd"1955.EDN.regular.comment.csv",9
-
-"NY1195509202",46,"DIFF: Official record has RBI, but can't be with two outs"1955.EDN.regular.comment.csv",10
-
-"NY1195509212",4,"$Willie Mays ran into the wall, carried off field"1955.EDN.regular.comment.csv",11
-
-"NY1195509230",25,"strikeout could be in 6th"1955.EDN.regular.comment.csv",12
-
-"NY1195509230",41,"$over the roof"1955.EDN.regular.comment.csv",13
-
-"PIT195505210",55,"$Roberto Clemente threw behind Al Dark"1955.EDN.regular.comment.csv",14
-
-"PIT195507171",7,"425 feet"1955.EDN.regular.comment.csv",15
-
-"PIT195507171",9,"Whisenant struck out either here or in his next at-bat"1955.EDN.regular.comment.csv",16
-
-"PIT195507171",22,"Conjecture - required to make the innings work  correctly.  Whisenant had an OF assist so it's plausible."1955.EDN.regular.comment.csv",17
-
-"PIT195507171",41,"$Dick Cole was caught between 3B and HP; Nelson Burbrink made an errant throw to 3B"1955.EDN.regular.comment.csv",18
-
-"PIT195507171",56,"Surkont struck out Cole either here or in Cole's next plate appearance"1955.EDN.regular.comment.csv",19
-
-"PIT195507171",105,"$Bob Stephenson broke for 3B and Eddie O'Brien moved to cover the base; Ken Boyer lined the ball through the hole"1955.EDN.regular.comment.csv",20
-
-"PIT195507172",0,"Suspend=19550830,,1,0,45"1955.EDN.regular.comment.csv",21
-
-"PIT195507172",35,"$the Cardinals tried a hidden ball trick; Red Schoendienst held the ball near 2B; Harvey Haddix was called for the balk because he was on the mound without the ball"1955.EDN.regular.comment.csv",22
-
-"PIT195507172",55,"umpchange,8,umphome,secof101 umpchange,8,ump1b,goetl901 umpchange,8,ump2b,dascf901 umpchange,8,ump3b,warnl101 suspended,19550830,PIT06,curfew $the game suspended with a 3-2 count on Gene Freese due to Sunday 7:00pm curfew in Pennsylvania; resumed on 8/30 with new umpires"1955.EDN.regular.comment.csv",23
-
-"PIT195507172",55,"$Stan Musial was injured and had to be replaced when the game resumed"1955.EDN.regular.comment.csv",24
-
-"PIT195507172",57,"$missed sacrifice"1955.EDN.regular.comment.csv",25
-
-"PIT195508300",0,"$the suspended game of 7/17 completed before this one; the same pitchers who finished the suspended game started this one"1955.EDN.regular.comment.csv",26
-
-"PIT195508300",11,"$Stan Musial did not appear in the completion of the suspended game because of a hand injury; Musial only played long enough in this game (one inning in the field) to keep his consecutive games streak alive"1955.EDN.regular.comment.csv",27
-
-"PIT195508300",43,"$Harvey Haddix slipped throwing to 2B and Dick Groat just beat the throw"1955.EDN.regular.comment.csv",28
-
-"PIT195508300",51,"Face struck out Repulski either here or in the ninth."1955.EDN.regular.comment.csv",29
-
-"SLN195504171",40,"$Randy Jackson left with swollen right hand, the result of an insect bite"1955.EDN.regular.comment.csv",30
-
-"SLN195504172",32,"bogus pickoff, but need 3rd out"1955.EDN.regular.comment.csv",31
-
-"SLN195504172",55,"bogus, but there was CS and no RBI for Boyer"1955.EDN.regular.comment.csv",32
-
-"SLN195506150",8,"Long struck out either here or in the 7th inning."1955.EDN.regular.comment.csv",33
-
-"SLN195506150",11,"This walk and GDP likely happened either here or in the 6th inning."1955.EDN.regular.comment.csv",34
-
-"SLN195506150",12,"Repulski struck out either here or in the 7th inning."1955.EDN.regular.comment.csv",35
-
-"SLN195506150",16,"GDP likely happened either here or in the 5th inning."1955.EDN.regular.comment.csv",36
-
-"SLN195506150",31,"Unusual 24/DP not involving a strikeout; likely with Sarni at bat since one source had Sarni striking out in the  game.  May have happened in the 7th inning instead of here."1955.EDN.regular.comment.csv",37
-
-"SLN195506160",2,"Cole singled and was hit by a pitch in the first and third innings.  I put the single here in the first, but they may be reversed."1955.EDN.regular.comment.csv",38
-
-"SLN195506160",3,"Freese has two strikeouts in his four at-bats.  I put them in his first two at-bats, but they could have  been in any two of the four plate appearances."1955.EDN.regular.comment.csv",39
-
-"SLN195506160",9,"Virdon struck out either here or in the third inning."1955.EDN.regular.comment.csv",40
-
-"SLN195506160",14,"Peterson struck out in two of his three plate appearances, though it's not detailed exactly which two."1955.EDN.regular.comment.csv",41
-
-"SLN195506160",54,"Scorer 102 says Boyer made a great play on a short-hop smash in the 7th inning - it is either this play on Long or the next one on Groat."1955.EDN.regular.comment.csv",42
-
-"CHN195508010",9,"ej,hanef101,M,dixoh901,Call at 1B $Pirates manager Haney ejected by 1B umpire Dixon for arguing that Shepard was not out at 1st on DP"1955.EDN.regular.comment.csv",43
-
-"CHN195508010",67,"guessing on location of E7, but it had to be advance or FLE"1955.EDN.regular.comment.csv",44
-
-"MLN195508100",3,"$Stan Musial's 1000th extra base hit"1955.EDN.regular.comment.csv",45
-
-"MLN195508100",27,"$fan interference"1955.EDN.regular.comment.csv",46
-
-"MLN195508100",51,"$attempted squeeze bunt and ball fouled to screen, but ruled HBP, Milwaukee manager Charlie Grimm argued"1955.EDN.regular.comment.csv",47
-
-"MLN195508100",54,"$Two runs scored on force play as 1bman Crowe fielded ball very slowly; 2 RBI for Hemus"1955.EDN.regular.comment.csv",48
-
-"MLN195508100",76,"$Moon was caught between 2nd and 3rd; Crandall ran out to shortstop, but Moon broke for 3rd and beat throw from Crandall; Musial made it to 2nd and it was ruled double steal"1955.EDN.regular.comment.csv",49
-
-"SLN195508170",35,"$throw struck sliding runner at 3rd; Buhl tried to score"1955.EDN.regular.comment.csv",50
-
-"SLN195508170",48,"$Stan Musial went back to 3B on the grounder but Bill Virdon ran to 3B"1955.EDN.regular.comment.csv",51
-
-"SLN195508170",64,"ej,whisp101,P,balll901,Balls and strikes Pete Whisenant ejected by HP umpire Lee Ballanfant"1955.EDN.regular.comment.csv",52
-
-"PIT195508170",17,"$Richie Ashburn pulled muscle running out grounder"1955.EDN.regular.comment.csv",53
-
-"SLN195509080",53,"$Billy Gardner rounded 2B too far"1955.EDN.regular.comment.csv",54
-
-"MLN195509090",22,"E4 is a guess, but it did not put anyone on base"1955.EDN.regular.comment.csv",55
-
-"SLN195509100",43,"Game called for rain"1955.EDN.regular.comment.csv",56
-
-"MLN195509160",3,"$Stan Musial pulled muscle beating out hit"1955.EDN.regular.comment.csv",57
-
-"PIT195507042",33,"ej,littd102,P,engeb902,Balk call $Hank Thompson had been called out attempting to steal HP but balk was called and run scored; deluge of bottles at the  umpires who threatened to forfeit the game; 15 minute delay; Dick Littlefield ejected by HP umpire Bill Engeln"1955.EDN.regular.comment.csv",58
-
-"SLN195504160",0,"Ladies' Day crowd totaled 15,678"1955.EDN.regular.comment.csv",59
-
-"SLN195504160",11,"Into LF bleachers"1955.EDN.regular.comment.csv",60
-
-"SLN195504160",12,"Into LF bleachers"1955.EDN.regular.comment.csv",61
-
-"SLN195504160",13,"Onto the pavilion roof"1955.EDN.regular.comment.csv",62
-
-"SLN195504160",23,"Into RCF stands"1955.EDN.regular.comment.csv",63
-
-"SLN195504160",128,"Sauer and Banks let easy fly drop between them"1955.EDN.regular.comment.csv",64
-
+"NY1195505070",32,"$the throw went into the stands","FILENAME_TX","LINE_NUMBER_CT"
+"NY1195505070",37,"speculation, but need to get Mays to 3rd - see picture in paper. Stories say Lockman trapped between 1B and 2B, so this play clearly not correct","1955.EDN.regular.comment.csv",2
+"NY1195505070",38,"$Willie Mays spiked Jack Sheppard and benches cleared but HP umpire Larry Goetz kept peace","1955.EDN.regular.comment.csv",3
+"MLN195506200",40,"ej,hanef101,M,donaa901,Call at HP Pirates manager Fred Haney ejected by HP umpire Augie Donatelli","1955.EDN.regular.comment.csv",4
+"MLN195506210",12,"$over 394 feet sign","1955.EDN.regular.comment.csv",5
+"MLN195506210",21,"$over 10' fence at 402 foot marker","1955.EDN.regular.comment.csv",6
+"NY1195507150",12,"$Gail Harris rounded 2B too far","1955.EDN.regular.comment.csv",7
+"NY1195507150",60,"Davey Williams left with chronic aching back","1955.EDN.regular.comment.csv",8
+"NY1195509202",27,"SB could be in 3rd","1955.EDN.regular.comment.csv",9
+"NY1195509202",46,"DIFF: Official record has RBI, but can't be with two outs","1955.EDN.regular.comment.csv",10
+"NY1195509212",4,"$Willie Mays ran into the wall, carried off field","1955.EDN.regular.comment.csv",11
+"NY1195509230",25,"strikeout could be in 6th","1955.EDN.regular.comment.csv",12
+"NY1195509230",41,"$over the roof","1955.EDN.regular.comment.csv",13
+"PIT195505210",55,"$Roberto Clemente threw behind Al Dark","1955.EDN.regular.comment.csv",14
+"PIT195507171",7,"425 feet","1955.EDN.regular.comment.csv",15
+"PIT195507171",9,"Whisenant struck out either here or in his next at-bat","1955.EDN.regular.comment.csv",16
+"PIT195507171",22,"Conjecture - required to make the innings work  correctly.  Whisenant had an OF assist so it's plausible.","1955.EDN.regular.comment.csv",17
+"PIT195507171",41,"$Dick Cole was caught between 3B and HP; Nelson Burbrink made an errant throw to 3B","1955.EDN.regular.comment.csv",18
+"PIT195507171",56,"Surkont struck out Cole either here or in Cole's next plate appearance","1955.EDN.regular.comment.csv",19
+"PIT195507171",105,"$Bob Stephenson broke for 3B and Eddie O'Brien moved to cover the base; Ken Boyer lined the ball through the hole","1955.EDN.regular.comment.csv",20
+"PIT195507172",0,"Suspend=19550830,,1,0,45","1955.EDN.regular.comment.csv",21
+"PIT195507172",35,"$the Cardinals tried a hidden ball trick; Red Schoendienst held the ball near 2B; Harvey Haddix was called for the balk because he was on the mound without the ball","1955.EDN.regular.comment.csv",22
+"PIT195507172",55,"umpchange,8,umphome,secof101 umpchange,8,ump1b,goetl901 umpchange,8,ump2b,dascf901 umpchange,8,ump3b,warnl101 suspended,19550830,PIT06,curfew $the game suspended with a 3-2 count on Gene Freese due to Sunday 7:00pm curfew in Pennsylvania; resumed on 8/30 with new umpires","1955.EDN.regular.comment.csv",23
+"PIT195507172",55,"$Stan Musial was injured and had to be replaced when the game resumed","1955.EDN.regular.comment.csv",24
+"PIT195507172",57,"$missed sacrifice","1955.EDN.regular.comment.csv",25
+"PIT195508300",0,"$the suspended game of 7/17 completed before this one; the same pitchers who finished the suspended game started this one","1955.EDN.regular.comment.csv",26
+"PIT195508300",11,"$Stan Musial did not appear in the completion of the suspended game because of a hand injury; Musial only played long enough in this game (one inning in the field) to keep his consecutive games streak alive","1955.EDN.regular.comment.csv",27
+"PIT195508300",43,"$Harvey Haddix slipped throwing to 2B and Dick Groat just beat the throw","1955.EDN.regular.comment.csv",28
+"PIT195508300",51,"Face struck out Repulski either here or in the ninth.","1955.EDN.regular.comment.csv",29
+"SLN195504171",40,"$Randy Jackson left with swollen right hand, the result of an insect bite","1955.EDN.regular.comment.csv",30
+"SLN195504172",32,"bogus pickoff, but need 3rd out","1955.EDN.regular.comment.csv",31
+"SLN195504172",55,"bogus, but there was CS and no RBI for Boyer","1955.EDN.regular.comment.csv",32
+"SLN195506150",8,"Long struck out either here or in the 7th inning.","1955.EDN.regular.comment.csv",33
+"SLN195506150",11,"This walk and GDP likely happened either here or in the 6th inning.","1955.EDN.regular.comment.csv",34
+"SLN195506150",12,"Repulski struck out either here or in the 7th inning.","1955.EDN.regular.comment.csv",35
+"SLN195506150",16,"GDP likely happened either here or in the 5th inning.","1955.EDN.regular.comment.csv",36
+"SLN195506150",31,"Unusual 24/DP not involving a strikeout; likely with Sarni at bat since one source had Sarni striking out in the  game.  May have happened in the 7th inning instead of here.","1955.EDN.regular.comment.csv",37
+"SLN195506160",2,"Cole singled and was hit by a pitch in the first and third innings.  I put the single here in the first, but they may be reversed.","1955.EDN.regular.comment.csv",38
+"SLN195506160",3,"Freese has two strikeouts in his four at-bats.  I put them in his first two at-bats, but they could have  been in any two of the four plate appearances.","1955.EDN.regular.comment.csv",39
+"SLN195506160",9,"Virdon struck out either here or in the third inning.","1955.EDN.regular.comment.csv",40
+"SLN195506160",14,"Peterson struck out in two of his three plate appearances, though it's not detailed exactly which two.","1955.EDN.regular.comment.csv",41
+"SLN195506160",54,"Scorer 102 says Boyer made a great play on a short-hop smash in the 7th inning - it is either this play on Long or the next one on Groat.","1955.EDN.regular.comment.csv",42
+"CHN195508010",9,"ej,hanef101,M,dixoh901,Call at 1B $Pirates manager Haney ejected by 1B umpire Dixon for arguing that Shepard was not out at 1st on DP","1955.EDN.regular.comment.csv",43
+"CHN195508010",67,"guessing on location of E7, but it had to be advance or FLE","1955.EDN.regular.comment.csv",44
+"MLN195508100",3,"$Stan Musial's 1000th extra base hit","1955.EDN.regular.comment.csv",45
+"MLN195508100",27,"$fan interference","1955.EDN.regular.comment.csv",46
+"MLN195508100",51,"$attempted squeeze bunt and ball fouled to screen, but ruled HBP, Milwaukee manager Charlie Grimm argued","1955.EDN.regular.comment.csv",47
+"MLN195508100",54,"$Two runs scored on force play as 1bman Crowe fielded ball very slowly; 2 RBI for Hemus","1955.EDN.regular.comment.csv",48
+"MLN195508100",76,"$Moon was caught between 2nd and 3rd; Crandall ran out to shortstop, but Moon broke for 3rd and beat throw from Crandall; Musial made it to 2nd and it was ruled double steal","1955.EDN.regular.comment.csv",49
+"SLN195508170",35,"$throw struck sliding runner at 3rd; Buhl tried to score","1955.EDN.regular.comment.csv",50
+"SLN195508170",48,"$Stan Musial went back to 3B on the grounder but Bill Virdon ran to 3B","1955.EDN.regular.comment.csv",51
+"SLN195508170",64,"ej,whisp101,P,balll901,Balls and strikes Pete Whisenant ejected by HP umpire Lee Ballanfant","1955.EDN.regular.comment.csv",52
+"PIT195508170",17,"$Richie Ashburn pulled muscle running out grounder","1955.EDN.regular.comment.csv",53
+"SLN195509080",53,"$Billy Gardner rounded 2B too far","1955.EDN.regular.comment.csv",54
+"MLN195509090",22,"E4 is a guess, but it did not put anyone on base","1955.EDN.regular.comment.csv",55
+"SLN195509100",43,"Game called for rain","1955.EDN.regular.comment.csv",56
+"MLN195509160",3,"$Stan Musial pulled muscle beating out hit","1955.EDN.regular.comment.csv",57
+"PIT195507042",33,"ej,littd102,P,engeb902,Balk call $Hank Thompson had been called out attempting to steal HP but balk was called and run scored; deluge of bottles at the  umpires who threatened to forfeit the game; 15 minute delay; Dick Littlefield ejected by HP umpire Bill Engeln","1955.EDN.regular.comment.csv",58
+"SLN195504160",0,"Ladies' Day crowd totaled 15,678","1955.EDN.regular.comment.csv",59
+"SLN195504160",11,"Into LF bleachers","1955.EDN.regular.comment.csv",60
+"SLN195504160",12,"Into LF bleachers","1955.EDN.regular.comment.csv",61
+"SLN195504160",13,"Onto the pavilion roof","1955.EDN.regular.comment.csv",62
+"SLN195504160",23,"Into RCF stands","1955.EDN.regular.comment.csv",63
+"SLN195504160",128,"Sauer and Banks let easy fly drop between them","1955.EDN.regular.comment.csv",64

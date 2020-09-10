@@ -1,76 +1,38 @@
-"CHN196004260",3,"$Don Zimmer threw the ball into the Dodger dugout"FILENAME_TX","LINE_NUMBER_CT"
-
-"CHN196005030",48,"ej,darka101,P,conlj102,Called third strike Al Dark ejected by HP umpire Jocko Conlan"1960CHN.EVN.regular.comment.csv",2
-
-"CHN196005050",0,"$Lou Boudreau's first game as Cubs manager"1960CHN.EVN.regular.comment.csv",3
-
-"CHN196005152",63,"$running grab by Walt Moryn to save Don Cardwell's no-hitter"1960CHN.EVN.regular.comment.csv",4
-
-"CHN196005280",106,"$Sandy Koufax called for interference in collision with Earl Averill"1960CHN.EVN.regular.comment.csv",5
-
-"CHN196006070",18,"$Bob Skinner collided with Gino Cimoli"1960CHN.EVN.regular.comment.csv",6
-
-"CHN196006070",19,"fan interference"1960CHN.EVN.regular.comment.csv",7
-
-"CHN196006070",26,"$Paul Giel pulled leg muscle running to 1B in 3rd inning"1960CHN.EVN.regular.comment.csv",8
-
-"CHN196006080",65,"$the ball struck the yellow rail atop LF fence and caromed back into play"1960CHN.EVN.regular.comment.csv",9
-
-"CHN196006090",21,"ej,zimmd101,P,burkk101,Call at 3B Don Zimmer ejected by 3B umpire Ken Burkhart"1960CHN.EVN.regular.comment.csv",10
-
-"CHN196006100",43,"$Tony Taylor got to the bag too soon to take Bobby Malkmus' throw and then threw into the Cub dugout"1960CHN.EVN.regular.comment.csv",11
-
-"CHN196006300",28,"$Danny Murphy and Bob Will collided; Murphy injured tooth"1960CHN.EVN.regular.comment.csv",12
-
-"CHN196007030",33,"ej,robif103,P,conlj102,Bench jockeying Frank Robinson ejected by HP umpire Jocko Conlan for making mocking gestures toward Conlan from the bench"1960CHN.EVN.regular.comment.csv",13
-
-"CHN196007030",50,"$missed on hit and run attempt"1960CHN.EVN.regular.comment.csv",14
-
-"CHN196007042",109,"$game stopped due to darkness (tie game)"1960CHN.EVN.regular.comment.csv",15
-
-"CHN196007060",58,"Debut game for Ed Bauta"1960CHN.EVN.regular.comment.csv",16
-
-"CHN196007250",10,"$Ernie Banks struck on left knee and removed on stretcher"1960CHN.EVN.regular.comment.csv",17
-
-"CHN196007250",15,"Debut game for Leo Cardenas"1960CHN.EVN.regular.comment.csv",18
-
-"CHN196007250",44,"$Eddie Kasko beat out an infield hit; Bob Anderson's throw got away from Ed Bouchee with Bob Will backing up the play"1960CHN.EVN.regular.comment.csv",19
-
-"CHN196007250",70,"ej,nuxhj101,P,varge901,Call at 1B (Bumped umpire) $George Altman tapped to Gordy Coleman who tossed to Joe Nuxhall; 1B umpire Ed Vargo ruled Nuxhall failed to touch the bag; Nuxhall bumped Vargo and was ejected; Nuxhall continued to argue from the dugout and threw a bat onto the field"1960CHN.EVN.regular.comment.csv",20
-
-"CHN196008032",13,"Debut game for Joe Azcue"1960CHN.EVN.regular.comment.csv",21
-
-"CHN196008040",14,"ej,martb105,P,lands901,Fighting $Billy Martin claimed Jim Brewer threw at him and charged the mound; Martin punched Brewer on the head; both benches cleared; Martin ejected by HP umpire Stan Landes; Brewer left with broken jaw"1960CHN.EVN.regular.comment.csv",22
-
-"CHN196008040",62,"$Wally called for interference as he bumped Ed Bouchee"1960CHN.EVN.regular.comment.csv",23
-
-"CHN196008170",62,"$deflected line drive"1960CHN.EVN.regular.comment.csv",24
-
-"CHN196008180",52,"ej,thomf103,P,dascf901,Call at 1B Frank Thomas ejected by 1B umpire Frank Dascoli arguing that the over throw did not go into the dugout"1960CHN.EVN.regular.comment.csv",25
-
-"CHN196008230",1,"$deflected grounder"1960CHN.EVN.regular.comment.csv",26
-
-"CHN196008230",42,"$Dick Groat called for interference for running out of the baseline"1960CHN.EVN.regular.comment.csv",27
-
-"CHN196008240",78,"$Bob Skinner hurt his leg sliding into 2B"1960CHN.EVN.regular.comment.csv",28
-
-"CHN196008250",67,"ej,murtd101,M,gormt101,Called third strike Pirates Manager Danny Murtaugh ejected by HP umpire Tom Gorman"1960CHN.EVN.regular.comment.csv",29
-
-"CHN196008300",15,"$the ball stuck in the vines"1960CHN.EVN.regular.comment.csv",30
-
-"CHN196008312",30,"$Henry Aaron thought this was the third out and started for the Milwaukee dugout while Ernie Banks ran to 3B"1960CHN.EVN.regular.comment.csv",31
-
-"CHN196008312",89,"$Joe Adcock caught George Altman with the hidden ball trick"1960CHN.EVN.regular.comment.csv",32
-
-"CHN196009052",3,"ej,niemb101,P,craws901,Called third strike (Threw bat) Bob Nieman ejected by HP umpire Shag Crawford for throwing his bat"1960CHN.EVN.regular.comment.csv",33
-
-"CHN196009052",84,"$Game called on account of darkness"1960CHN.EVN.regular.comment.csv",34
-
-"CHN196009170",46,"fan interference"1960CHN.EVN.regular.comment.csv",35
-
-"CHN196009192",61,"$game called due to darkness"1960CHN.EVN.regular.comment.csv",36
-
-"CHN196009232",4,"$Lou Johnson called for interference"1960CHN.EVN.regular.comment.csv",37
-
-"CHN196009232",59,"$game called due to darkness"1960CHN.EVN.regular.comment.csv",38
-
+"CHN196004260",3,"$Don Zimmer threw the ball into the Dodger dugout","FILENAME_TX","LINE_NUMBER_CT"
+"CHN196005030",48,"ej,darka101,P,conlj102,Called third strike Al Dark ejected by HP umpire Jocko Conlan","1960CHN.EVN.regular.comment.csv",2
+"CHN196005050",0,"$Lou Boudreau's first game as Cubs manager","1960CHN.EVN.regular.comment.csv",3
+"CHN196005152",63,"$running grab by Walt Moryn to save Don Cardwell's no-hitter","1960CHN.EVN.regular.comment.csv",4
+"CHN196005280",106,"$Sandy Koufax called for interference in collision with Earl Averill","1960CHN.EVN.regular.comment.csv",5
+"CHN196006070",18,"$Bob Skinner collided with Gino Cimoli","1960CHN.EVN.regular.comment.csv",6
+"CHN196006070",19,"fan interference","1960CHN.EVN.regular.comment.csv",7
+"CHN196006070",26,"$Paul Giel pulled leg muscle running to 1B in 3rd inning","1960CHN.EVN.regular.comment.csv",8
+"CHN196006080",65,"$the ball struck the yellow rail atop LF fence and caromed back into play","1960CHN.EVN.regular.comment.csv",9
+"CHN196006090",21,"ej,zimmd101,P,burkk101,Call at 3B Don Zimmer ejected by 3B umpire Ken Burkhart","1960CHN.EVN.regular.comment.csv",10
+"CHN196006100",43,"$Tony Taylor got to the bag too soon to take Bobby Malkmus' throw and then threw into the Cub dugout","1960CHN.EVN.regular.comment.csv",11
+"CHN196006300",28,"$Danny Murphy and Bob Will collided; Murphy injured tooth","1960CHN.EVN.regular.comment.csv",12
+"CHN196007030",33,"ej,robif103,P,conlj102,Bench jockeying Frank Robinson ejected by HP umpire Jocko Conlan for making mocking gestures toward Conlan from the bench","1960CHN.EVN.regular.comment.csv",13
+"CHN196007030",50,"$missed on hit and run attempt","1960CHN.EVN.regular.comment.csv",14
+"CHN196007042",109,"$game stopped due to darkness (tie game)","1960CHN.EVN.regular.comment.csv",15
+"CHN196007060",58,"Debut game for Ed Bauta","1960CHN.EVN.regular.comment.csv",16
+"CHN196007250",10,"$Ernie Banks struck on left knee and removed on stretcher","1960CHN.EVN.regular.comment.csv",17
+"CHN196007250",15,"Debut game for Leo Cardenas","1960CHN.EVN.regular.comment.csv",18
+"CHN196007250",44,"$Eddie Kasko beat out an infield hit; Bob Anderson's throw got away from Ed Bouchee with Bob Will backing up the play","1960CHN.EVN.regular.comment.csv",19
+"CHN196007250",70,"ej,nuxhj101,P,varge901,Call at 1B (Bumped umpire) $George Altman tapped to Gordy Coleman who tossed to Joe Nuxhall; 1B umpire Ed Vargo ruled Nuxhall failed to touch the bag; Nuxhall bumped Vargo and was ejected; Nuxhall continued to argue from the dugout and threw a bat onto the field","1960CHN.EVN.regular.comment.csv",20
+"CHN196008032",13,"Debut game for Joe Azcue","1960CHN.EVN.regular.comment.csv",21
+"CHN196008040",14,"ej,martb105,P,lands901,Fighting $Billy Martin claimed Jim Brewer threw at him and charged the mound; Martin punched Brewer on the head; both benches cleared; Martin ejected by HP umpire Stan Landes; Brewer left with broken jaw","1960CHN.EVN.regular.comment.csv",22
+"CHN196008040",62,"$Wally called for interference as he bumped Ed Bouchee","1960CHN.EVN.regular.comment.csv",23
+"CHN196008170",62,"$deflected line drive","1960CHN.EVN.regular.comment.csv",24
+"CHN196008180",52,"ej,thomf103,P,dascf901,Call at 1B Frank Thomas ejected by 1B umpire Frank Dascoli arguing that the over throw did not go into the dugout","1960CHN.EVN.regular.comment.csv",25
+"CHN196008230",1,"$deflected grounder","1960CHN.EVN.regular.comment.csv",26
+"CHN196008230",42,"$Dick Groat called for interference for running out of the baseline","1960CHN.EVN.regular.comment.csv",27
+"CHN196008240",78,"$Bob Skinner hurt his leg sliding into 2B","1960CHN.EVN.regular.comment.csv",28
+"CHN196008250",67,"ej,murtd101,M,gormt101,Called third strike Pirates Manager Danny Murtaugh ejected by HP umpire Tom Gorman","1960CHN.EVN.regular.comment.csv",29
+"CHN196008300",15,"$the ball stuck in the vines","1960CHN.EVN.regular.comment.csv",30
+"CHN196008312",30,"$Henry Aaron thought this was the third out and started for the Milwaukee dugout while Ernie Banks ran to 3B","1960CHN.EVN.regular.comment.csv",31
+"CHN196008312",89,"$Joe Adcock caught George Altman with the hidden ball trick","1960CHN.EVN.regular.comment.csv",32
+"CHN196009052",3,"ej,niemb101,P,craws901,Called third strike (Threw bat) Bob Nieman ejected by HP umpire Shag Crawford for throwing his bat","1960CHN.EVN.regular.comment.csv",33
+"CHN196009052",84,"$Game called on account of darkness","1960CHN.EVN.regular.comment.csv",34
+"CHN196009170",46,"fan interference","1960CHN.EVN.regular.comment.csv",35
+"CHN196009192",61,"$game called due to darkness","1960CHN.EVN.regular.comment.csv",36
+"CHN196009232",4,"$Lou Johnson called for interference","1960CHN.EVN.regular.comment.csv",37
+"CHN196009232",59,"$game called due to darkness","1960CHN.EVN.regular.comment.csv",38

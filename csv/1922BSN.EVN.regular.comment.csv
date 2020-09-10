@@ -1,54 +1,27 @@
-"BSN192204280",74,"$Mickey O'Neil's throw hit Johnny Rawlings on the back of the head; Walter Barbare's return throw went to the grandstand"FILENAME_TX","LINE_NUMBER_CT"
-
-"BSN192205010",21,"$the fly ball fell safely near 1B; Hank Gowdy stayed at the bag Joe Oeschger ran slowly; George Kelly picked up the ball, touched the bag and tagged Gowdy"1922BSN.EVN.regular.comment.csv",2
-
-"BSN192206130",68,"$Cotton Tierney left with a bad back"1922BSN.EVN.regular.comment.csv",3
-
-"BSN192206130",77,"$the line drive struck Rube Marquard's leg, injuring him"1922BSN.EVN.regular.comment.csv",4
-
-"BSN192206140",62,"$Cliff Heathcote struck on the head by Hod Ford and knocked unconscious; Heathcote was carried off the field"1922BSN.EVN.regular.comment.csv",5
-
-"BSN192206160",62,"$Braves Manager Fred Mitchell chased from the coaching line to the bench when he entered an argument between Tony Boeckel and HP umpire Bill Klem; the argument started while Boeckel was awaiting his turn at bat"1922BSN.EVN.regular.comment.csv",6
-
-"BSN192206160",63,"ej,boect101,P,klemb901,Balls and strikes ej,mitcf101,M,klemb901,Balls and strikes Braves Manager Fred Mitchell and Tony Boeckel ejected by HP umpire Bill Klem"1922BSN.EVN.regular.comment.csv",7
-
-"BSN192206171",25,"Rain started"1922BSN.EVN.regular.comment.csv",8
-
-"BSN192206270",53,"$Fred Nicholson overslid 2B"1922BSN.EVN.regular.comment.csv",9
-
-"BSN192206280",72,"ej,oneim102,P,morac102,Balls and strikes Mickey O'Neil ejected by HP umpire Charlie Moran"1922BSN.EVN.regular.comment.csv",10
-
-"BSN192207261",31,"$Ray Grimes hurt his back in the fourth inning"1922BSN.EVN.regular.comment.csv",11
-
-"BSN192207262",38,"$Marty Callaghan left ill"1922BSN.EVN.regular.comment.csv",12
-
-"BSN192207270",9,"$Walton Cruise caught his spikes on the corner of HP and was carried from the field"1922BSN.EVN.regular.comment.csv",13
-
-"BSN192207270",78,"rain started"1922BSN.EVN.regular.comment.csv",14
-
-"BSN192208040",66,"game called after 30 minute rain delay with 2 out in the bottom of the ninth inning play,9,0,adamb104,??,,NP sub,braxg101,'Garland Braxton',1,9,1 play,9,0,adamb104,??,,K play,9,0,marar101,??,,6/L play,9,0,carem101,??,,53 play,9,1,power101,??,,HR8/IPHR play,9,1,chril103,??,,S8 play,9,1,nichf101,??,,K play,9,1,boect101,??,,7 play,9,1,holkw101,??,,D/78.1-3#"1922BSN.EVN.regular.comment.csv",15
-
-"BSN192208070",60,"pbp account ends here, rest deduced"1922BSN.EVN.regular.comment.csv",16
-
-"BSN192208091",1,"$Cardinals manager Branch Rickey claimed Frank Miller was doctoring the ball by rubbing sand into the seams; HP umpire Hank O'Day inspected ball and gave it back to Miller"1922BSN.EVN.regular.comment.csv",17
-
-"BSN192208100",64,"pbp account ends here, rest deduced"1922BSN.EVN.regular.comment.csv",18
-
-"BSN192208302",9,"$Hod Ford's throw to 1B hit Frank Parkinson on the head and caromed to dugout"1922BSN.EVN.regular.comment.csv",19
-
-"BSN192209051",51,"$Frank Miller out on appeal for missing 1B on apparent double"1922BSN.EVN.regular.comment.csv",20
-
-"BSN192209051",61,"$Walter Barbare out on appeal for missing 3B after apparently scoring a run"1922BSN.EVN.regular.comment.csv",21
-
-"BSN192209052",51,"$popup in front of the plate; Irish Meusel thought the ball would be caught and did not run"1922BSN.EVN.regular.comment.csv",22
-
-"BSN192209060",23,"rain started to fall"1922BSN.EVN.regular.comment.csv",23
-
-"BSN192209060",42,"game called after a 30 minute rain delay"1922BSN.EVN.regular.comment.csv",24
-
-"BSN192209132",68,"$the throw hit Carson Bigbee and rolled to Boston dugout"1922BSN.EVN.regular.comment.csv",25
-
-"BSN192209140",4,"$Ray Powell called for interference for running into his own batted ball"1922BSN.EVN.regular.comment.csv",26
-
-"BSN192209231",67,"ej,ofarb101,P,hartb901,Call at 1B $Jigger Statz scooped up Al Nixon's hit and faked a throw to 3B then threw behind Nixon; Ray Grimes thought Nixon was out and rolled the ball towards Fred Fussell; Tony Boeckel scored because of the misplay; Bob O'Farrell ejected by 1B umpire Bob Hart"1922BSN.EVN.regular.comment.csv",27
-
+"BSN192204280",74,"$Mickey O'Neil's throw hit Johnny Rawlings on the back of the head; Walter Barbare's return throw went to the grandstand","FILENAME_TX","LINE_NUMBER_CT"
+"BSN192205010",21,"$the fly ball fell safely near 1B; Hank Gowdy stayed at the bag Joe Oeschger ran slowly; George Kelly picked up the ball, touched the bag and tagged Gowdy","1922BSN.EVN.regular.comment.csv",2
+"BSN192206130",68,"$Cotton Tierney left with a bad back","1922BSN.EVN.regular.comment.csv",3
+"BSN192206130",77,"$the line drive struck Rube Marquard's leg, injuring him","1922BSN.EVN.regular.comment.csv",4
+"BSN192206140",62,"$Cliff Heathcote struck on the head by Hod Ford and knocked unconscious; Heathcote was carried off the field","1922BSN.EVN.regular.comment.csv",5
+"BSN192206160",62,"$Braves Manager Fred Mitchell chased from the coaching line to the bench when he entered an argument between Tony Boeckel and HP umpire Bill Klem; the argument started while Boeckel was awaiting his turn at bat","1922BSN.EVN.regular.comment.csv",6
+"BSN192206160",63,"ej,boect101,P,klemb901,Balls and strikes ej,mitcf101,M,klemb901,Balls and strikes Braves Manager Fred Mitchell and Tony Boeckel ejected by HP umpire Bill Klem","1922BSN.EVN.regular.comment.csv",7
+"BSN192206171",25,"Rain started","1922BSN.EVN.regular.comment.csv",8
+"BSN192206270",53,"$Fred Nicholson overslid 2B","1922BSN.EVN.regular.comment.csv",9
+"BSN192206280",72,"ej,oneim102,P,morac102,Balls and strikes Mickey O'Neil ejected by HP umpire Charlie Moran","1922BSN.EVN.regular.comment.csv",10
+"BSN192207261",31,"$Ray Grimes hurt his back in the fourth inning","1922BSN.EVN.regular.comment.csv",11
+"BSN192207262",38,"$Marty Callaghan left ill","1922BSN.EVN.regular.comment.csv",12
+"BSN192207270",9,"$Walton Cruise caught his spikes on the corner of HP and was carried from the field","1922BSN.EVN.regular.comment.csv",13
+"BSN192207270",78,"rain started","1922BSN.EVN.regular.comment.csv",14
+"BSN192208040",66,"game called after 30 minute rain delay with 2 out in the bottom of the ninth inning play,9,0,adamb104,??,,NP sub,braxg101,'Garland Braxton',1,9,1 play,9,0,adamb104,??,,K play,9,0,marar101,??,,6/L play,9,0,carem101,??,,53 play,9,1,power101,??,,HR8/IPHR play,9,1,chril103,??,,S8 play,9,1,nichf101,??,,K play,9,1,boect101,??,,7 play,9,1,holkw101,??,,D/78.1-3#","1922BSN.EVN.regular.comment.csv",15
+"BSN192208070",60,"pbp account ends here, rest deduced","1922BSN.EVN.regular.comment.csv",16
+"BSN192208091",1,"$Cardinals manager Branch Rickey claimed Frank Miller was doctoring the ball by rubbing sand into the seams; HP umpire Hank O'Day inspected ball and gave it back to Miller","1922BSN.EVN.regular.comment.csv",17
+"BSN192208100",64,"pbp account ends here, rest deduced","1922BSN.EVN.regular.comment.csv",18
+"BSN192208302",9,"$Hod Ford's throw to 1B hit Frank Parkinson on the head and caromed to dugout","1922BSN.EVN.regular.comment.csv",19
+"BSN192209051",51,"$Frank Miller out on appeal for missing 1B on apparent double","1922BSN.EVN.regular.comment.csv",20
+"BSN192209051",61,"$Walter Barbare out on appeal for missing 3B after apparently scoring a run","1922BSN.EVN.regular.comment.csv",21
+"BSN192209052",51,"$popup in front of the plate; Irish Meusel thought the ball would be caught and did not run","1922BSN.EVN.regular.comment.csv",22
+"BSN192209060",23,"rain started to fall","1922BSN.EVN.regular.comment.csv",23
+"BSN192209060",42,"game called after a 30 minute rain delay","1922BSN.EVN.regular.comment.csv",24
+"BSN192209132",68,"$the throw hit Carson Bigbee and rolled to Boston dugout","1922BSN.EVN.regular.comment.csv",25
+"BSN192209140",4,"$Ray Powell called for interference for running into his own batted ball","1922BSN.EVN.regular.comment.csv",26
+"BSN192209231",67,"ej,ofarb101,P,hartb901,Call at 1B $Jigger Statz scooped up Al Nixon's hit and faked a throw to 3B then threw behind Nixon; Ray Grimes thought Nixon was out and rolled the ball towards Fred Fussell; Tony Boeckel scored because of the misplay; Bob O'Farrell ejected by 1B umpire Bob Hart","1922BSN.EVN.regular.comment.csv",27

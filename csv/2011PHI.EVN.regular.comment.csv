@@ -1,74 +1,37 @@
-"PHI201104020",45,"Phillies center fielder Shane Victorino left the game due to an injured leg"FILENAME_TX","LINE_NUMBER_CT"
-
-"PHI201104030",72,"$This scoring is correct. Left fielder came and ball was carried by wind, deflecting off his glove to shortstop. Runner on 2nd had to hold as he thought ball might be caught, so he was easily forced"2011PHI.EVN.regular.comment.csv",2
-
-"PHI201104050",43,"fan interference"2011PHI.EVN.regular.comment.csv",3
-
-"PHI201104150",50,"Phillies pitcher Roy Oswalt left the game after straining his back while bunting"2011PHI.EVN.regular.comment.csv",4
-
-"PHI201104180",71,"Phillies pitcher J. C. Romero left the game due to an injured leg"2011PHI.EVN.regular.comment.csv",5
-
-"PHI201104200",16,"$Richie Weeks hit the ball down the first base line; it was rolling in foul territory near the grass but the spin carried the ball back into fair territory just before it reached the bag; Ryan Howard waited for the ball and once it crossed the line, he picked it up and stepped on the bag for the out; Weeks never ran, he was standing outside the batter's box when put out"2011PHI.EVN.regular.comment.csv",6
-
-"PHI201105010",59,"ej,manuc101,M,barkl901,Checked swing $the pitch was ruled a ball but the Mets asked for an appeal on the check swing by Brian Schneider; 3B umpire Lance Barksdale ruled a swing for the third strike; Phillies manager Charlie Manuel went out to Barksdale and was ejected"2011PHI.EVN.regular.comment.csv",7
-
-"PHI201105040",23,"ej,riggj801,M,marqa901,Called third strike $Adam LaRoche was called out on a pitch that started inside and moved onto the edge of the plate; he talked to HP umpire Alfonso Marquez as he walked away; Nationals Manager Jim Riggleman came out of the dugout to get LaRoche off the field and was talking with Marquez at the same time; after a brief exchange from a distance away, Riggleman was ejected by Marquez"2011PHI.EVN.regular.comment.csv",8
-
-"PHI201105060",52,"Phillies third baseman Placido Polanco left the game due to an injured foot"2011PHI.EVN.regular.comment.csv",9
-
-"PHI201105080",60,"Braves shortstop Alex Gonzalez left the game due to an injured groin"2011PHI.EVN.regular.comment.csv",10
-
-"PHI201105190",24,"Rockies left fielder Carlos Gonzalez left the game due to an injured groin"2011PHI.EVN.regular.comment.csv",11
-
-"PHI201105250",84,"replay,10,brucj001,CIN,gormb901,PHI13,I,N,I,,H $Jay Bruce's fly ball was caught and dropped by a fan at the fence; it was ruled a homer but, after a brief umpire conference, crew chief Brian Gorman watched the replay and upheld the call as the fan did not reach out over the fence to touch the ball"2011PHI.EVN.regular.comment.csv",12
-
-"PHI201105250",152,"$Phillies 2B Wilson Valdez, who had three hits in the game, moved to the mound and earned the win"2011PHI.EVN.regular.comment.csv",13
-
-"PHI201105260",39,"Reds pitcher Homer Bailey left the game due to an injured shoulder"2011PHI.EVN.regular.comment.csv",14
-
-"PHI201106060",45,"ej,blakc001,P,carlm901,Balls and strikes (From the dugout) $Casey Blake, angry after being called out for second straight time, continued to complain from dugout, started back on field and was ejected by HP umpire Mark Carlson"2011PHI.EVN.regular.comment.csv",15
-
-"PHI201106060",62,"$Ryan Howard swung and missed at strike two which bounced and hit him on the ankle, then bounced away; Chase Utley went to second but was called back because the ball was dead when it hit Howard"2011PHI.EVN.regular.comment.csv",16
-
-"PHI201106090",22,"$Rain delay of 1:17 while Howard was at bat; Lopez entered when game resumed and completed walk charged to Wells"2011PHI.EVN.regular.comment.csv",17
-
-"PHI201106090",73,"replay,9,colvt001,CHN,cedeg901,PHI13,I,Y,I,,H $Tyler Colvin's fly ball was touched by a fan who reached over the railing; the ball caromed into the seating area and was ruled a home run but Phillies manager Charlie Manuel asked about the call; crew chief Gary Cederstrom watched the replay and overturned the call to a double; he called both managers onto the field to explain the change but when Cubs manager Mike Quade started to argue (which is prohibited by the rules), Cederstrom walked away"2011PHI.EVN.regular.comment.csv",18
-
-"PHI201106120",53,"ej,manuc101,M,porta901,Called third strike Phillies Manager Charlie Manuel ejected while still in the dugout by HP umpire Alan Porter; when Manuel came on the field to argue, crew chief Gary Cederstrom came in from 2B and stood in front of Manuel; when Manuel tried to move around. Cederstrom mirrored Manuel's movements, thus preventing Manuel from getting to Porter"2011PHI.EVN.regular.comment.csv",19
-
-"PHI201106140",0,"$Delay of 1:20 at start of game"2011PHI.EVN.regular.comment.csv",20
-
-"PHI201106140",61,"Phillies pitcher Cole Hamels left the game due to an injured back"2011PHI.EVN.regular.comment.csv",21
-
-"PHI201106151",61,"$Marlins pitcher Edward Mujica left the game due to a right wrist sprain after colliding with Wilson Valdez at 1B; Mujica rolled over Valdez and landed on his hand"2011PHI.EVN.regular.comment.csv",22
-
-"PHI201106152",27,"fan interference"2011PHI.EVN.regular.comment.csv",23
-
-"PHI201106300",22,"$the line drive by Adrian Gonzalez hit pitcher Cole Hamels on the right (non-pitching) hand"2011PHI.EVN.regular.comment.csv",24
-
-"PHI201106300",28,"$Phillies pitcher Cole Hamels left the game due to a bruised right hand; he had some swelling and a few stitches in the hand"2011PHI.EVN.regular.comment.csv",25
-
-"PHI201107240",40,"Padres center fielder Cameron Maybin left the game due to an injured hip"2011PHI.EVN.regular.comment.csv",26
-
-"PHI201107240",65,"$Padres CF Chris Denorfia caught the ball over the top of the fence at the Phillies bullpen, taking a home run away from Raul Ibanez"2011PHI.EVN.regular.comment.csv",27
-
-"PHI201107250",18,"$Lee made a lob throw to first and Denorfia took off for home, beating Howard's throw to the plate"2011PHI.EVN.regular.comment.csv",28
-
-"PHI201107260",42,"$Chase Utley's fly hit the CF wall and caromed past Andres Torres"2011PHI.EVN.regular.comment.csv",29
-
-"PHI201107270",51,"$short popup not hit very high down first base line. Pitcher and catcher collided and ball bounced off catcher into foul ground"2011PHI.EVN.regular.comment.csv",30
-
-"PHI201107290",1,"$the flip throw by 2B Chase Utley was wild; batter-runner Xavier Paul started for 2B but stumbled; pitcher Roy Halladay backed up the play, retrieved the ball, ran to Paul, who was just standing on the baseline"2011PHI.EVN.regular.comment.csv",31
-
-"PHI201108120",46,"$fan interference; the ball girl picked up a ball in play"2011PHI.EVN.regular.comment.csv",32
-
-"PHI201108130",31,"$SS Ian Desmond threw to 2B in an attempt at a force play and the runner was called safe; Danny Espinosa, who had stretched for the throw, fell down and Wilson Valdez scored from 2B"2011PHI.EVN.regular.comment.csv",33
-
-"PHI201109070",44,"ej,gonzf801,M,scotd901,Reversal of call $1B umpire CB Bucknor ruled that RF Jason Heyward caught Placido Polanco's sinking liner; the umpires huddled and overturned the call to no catch; Braves Manager Fredi Gonzalez argued the reversal and was ejected by 3B umpire and crew chief Dale Scott"2011PHI.EVN.regular.comment.csv",34
-
-"PHI201109070",45,"$Chase Utley was hit on the helmet by a fast ball"2011PHI.EVN.regular.comment.csv",35
-
-"PHI201109070",62,"$Chase Utley left the game with a possible concussion"2011PHI.EVN.regular.comment.csv",36
-
-"PHI201109202",52,"Nationals right fielder Jayson Werth left the game due to an injured elbow"2011PHI.EVN.regular.comment.csv",37
-
+"PHI201104020",45,"Phillies center fielder Shane Victorino left the game due to an injured leg","FILENAME_TX","LINE_NUMBER_CT"
+"PHI201104030",72,"$This scoring is correct. Left fielder came and ball was carried by wind, deflecting off his glove to shortstop. Runner on 2nd had to hold as he thought ball might be caught, so he was easily forced","2011PHI.EVN.regular.comment.csv",2
+"PHI201104050",43,"fan interference","2011PHI.EVN.regular.comment.csv",3
+"PHI201104150",50,"Phillies pitcher Roy Oswalt left the game after straining his back while bunting","2011PHI.EVN.regular.comment.csv",4
+"PHI201104180",71,"Phillies pitcher J. C. Romero left the game due to an injured leg","2011PHI.EVN.regular.comment.csv",5
+"PHI201104200",16,"$Richie Weeks hit the ball down the first base line; it was rolling in foul territory near the grass but the spin carried the ball back into fair territory just before it reached the bag; Ryan Howard waited for the ball and once it crossed the line, he picked it up and stepped on the bag for the out; Weeks never ran, he was standing outside the batter's box when put out","2011PHI.EVN.regular.comment.csv",6
+"PHI201105010",59,"ej,manuc101,M,barkl901,Checked swing $the pitch was ruled a ball but the Mets asked for an appeal on the check swing by Brian Schneider; 3B umpire Lance Barksdale ruled a swing for the third strike; Phillies manager Charlie Manuel went out to Barksdale and was ejected","2011PHI.EVN.regular.comment.csv",7
+"PHI201105040",23,"ej,riggj801,M,marqa901,Called third strike $Adam LaRoche was called out on a pitch that started inside and moved onto the edge of the plate; he talked to HP umpire Alfonso Marquez as he walked away; Nationals Manager Jim Riggleman came out of the dugout to get LaRoche off the field and was talking with Marquez at the same time; after a brief exchange from a distance away, Riggleman was ejected by Marquez","2011PHI.EVN.regular.comment.csv",8
+"PHI201105060",52,"Phillies third baseman Placido Polanco left the game due to an injured foot","2011PHI.EVN.regular.comment.csv",9
+"PHI201105080",60,"Braves shortstop Alex Gonzalez left the game due to an injured groin","2011PHI.EVN.regular.comment.csv",10
+"PHI201105190",24,"Rockies left fielder Carlos Gonzalez left the game due to an injured groin","2011PHI.EVN.regular.comment.csv",11
+"PHI201105250",84,"replay,10,brucj001,CIN,gormb901,PHI13,I,N,I,,H $Jay Bruce's fly ball was caught and dropped by a fan at the fence; it was ruled a homer but, after a brief umpire conference, crew chief Brian Gorman watched the replay and upheld the call as the fan did not reach out over the fence to touch the ball","2011PHI.EVN.regular.comment.csv",12
+"PHI201105250",152,"$Phillies 2B Wilson Valdez, who had three hits in the game, moved to the mound and earned the win","2011PHI.EVN.regular.comment.csv",13
+"PHI201105260",39,"Reds pitcher Homer Bailey left the game due to an injured shoulder","2011PHI.EVN.regular.comment.csv",14
+"PHI201106060",45,"ej,blakc001,P,carlm901,Balls and strikes (From the dugout) $Casey Blake, angry after being called out for second straight time, continued to complain from dugout, started back on field and was ejected by HP umpire Mark Carlson","2011PHI.EVN.regular.comment.csv",15
+"PHI201106060",62,"$Ryan Howard swung and missed at strike two which bounced and hit him on the ankle, then bounced away; Chase Utley went to second but was called back because the ball was dead when it hit Howard","2011PHI.EVN.regular.comment.csv",16
+"PHI201106090",22,"$Rain delay of 1:17 while Howard was at bat; Lopez entered when game resumed and completed walk charged to Wells","2011PHI.EVN.regular.comment.csv",17
+"PHI201106090",73,"replay,9,colvt001,CHN,cedeg901,PHI13,I,Y,I,,H $Tyler Colvin's fly ball was touched by a fan who reached over the railing; the ball caromed into the seating area and was ruled a home run but Phillies manager Charlie Manuel asked about the call; crew chief Gary Cederstrom watched the replay and overturned the call to a double; he called both managers onto the field to explain the change but when Cubs manager Mike Quade started to argue (which is prohibited by the rules), Cederstrom walked away","2011PHI.EVN.regular.comment.csv",18
+"PHI201106120",53,"ej,manuc101,M,porta901,Called third strike Phillies Manager Charlie Manuel ejected while still in the dugout by HP umpire Alan Porter; when Manuel came on the field to argue, crew chief Gary Cederstrom came in from 2B and stood in front of Manuel; when Manuel tried to move around. Cederstrom mirrored Manuel's movements, thus preventing Manuel from getting to Porter","2011PHI.EVN.regular.comment.csv",19
+"PHI201106140",0,"$Delay of 1:20 at start of game","2011PHI.EVN.regular.comment.csv",20
+"PHI201106140",61,"Phillies pitcher Cole Hamels left the game due to an injured back","2011PHI.EVN.regular.comment.csv",21
+"PHI201106151",61,"$Marlins pitcher Edward Mujica left the game due to a right wrist sprain after colliding with Wilson Valdez at 1B; Mujica rolled over Valdez and landed on his hand","2011PHI.EVN.regular.comment.csv",22
+"PHI201106152",27,"fan interference","2011PHI.EVN.regular.comment.csv",23
+"PHI201106300",22,"$the line drive by Adrian Gonzalez hit pitcher Cole Hamels on the right (non-pitching) hand","2011PHI.EVN.regular.comment.csv",24
+"PHI201106300",28,"$Phillies pitcher Cole Hamels left the game due to a bruised right hand; he had some swelling and a few stitches in the hand","2011PHI.EVN.regular.comment.csv",25
+"PHI201107240",40,"Padres center fielder Cameron Maybin left the game due to an injured hip","2011PHI.EVN.regular.comment.csv",26
+"PHI201107240",65,"$Padres CF Chris Denorfia caught the ball over the top of the fence at the Phillies bullpen, taking a home run away from Raul Ibanez","2011PHI.EVN.regular.comment.csv",27
+"PHI201107250",18,"$Lee made a lob throw to first and Denorfia took off for home, beating Howard's throw to the plate","2011PHI.EVN.regular.comment.csv",28
+"PHI201107260",42,"$Chase Utley's fly hit the CF wall and caromed past Andres Torres","2011PHI.EVN.regular.comment.csv",29
+"PHI201107270",51,"$short popup not hit very high down first base line. Pitcher and catcher collided and ball bounced off catcher into foul ground","2011PHI.EVN.regular.comment.csv",30
+"PHI201107290",1,"$the flip throw by 2B Chase Utley was wild; batter-runner Xavier Paul started for 2B but stumbled; pitcher Roy Halladay backed up the play, retrieved the ball, ran to Paul, who was just standing on the baseline","2011PHI.EVN.regular.comment.csv",31
+"PHI201108120",46,"$fan interference; the ball girl picked up a ball in play","2011PHI.EVN.regular.comment.csv",32
+"PHI201108130",31,"$SS Ian Desmond threw to 2B in an attempt at a force play and the runner was called safe; Danny Espinosa, who had stretched for the throw, fell down and Wilson Valdez scored from 2B","2011PHI.EVN.regular.comment.csv",33
+"PHI201109070",44,"ej,gonzf801,M,scotd901,Reversal of call $1B umpire CB Bucknor ruled that RF Jason Heyward caught Placido Polanco's sinking liner; the umpires huddled and overturned the call to no catch; Braves Manager Fredi Gonzalez argued the reversal and was ejected by 3B umpire and crew chief Dale Scott","2011PHI.EVN.regular.comment.csv",34
+"PHI201109070",45,"$Chase Utley was hit on the helmet by a fast ball","2011PHI.EVN.regular.comment.csv",35
+"PHI201109070",62,"$Chase Utley left the game with a possible concussion","2011PHI.EVN.regular.comment.csv",36
+"PHI201109202",52,"Nationals right fielder Jayson Werth left the game due to an injured elbow","2011PHI.EVN.regular.comment.csv",37

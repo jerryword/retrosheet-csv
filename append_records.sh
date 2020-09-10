@@ -12,8 +12,8 @@ do
     {
     { gsub(/\n/, ",") }
     if (FNR==1) 
-      { print $0 "FILENAME_TX" "\",\"" "LINE_NUMBER_CT" "\"\n" }
-      else { print $0 basename(FILENAME) "\"," FNR "\n" }
+      { print $0 ",\"" "FILENAME_TX" "\",\"" "LINE_NUMBER_CT" "\"" }
+      else { print $0 ",\"" basename(FILENAME) "\"," FNR  }
     }
 ' $file
 done

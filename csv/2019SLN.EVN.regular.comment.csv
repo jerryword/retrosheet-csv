@@ -1,1196 +1,598 @@
-"SLN201904050",26,"Mound Visit"FILENAME_TX","LINE_NUMBER_CT"
-
-"SLN201904050",37,"Mound Visit"2019SLN.EVN.regular.comment.csv",2
-
-"SLN201904050",51,"Mound Visit Mound Visit"2019SLN.EVN.regular.comment.csv",3
-
-"SLN201904050",52,"On-field Delay $Padres questioned whether Ozuna's single had hit runner; umpires reviewed with New York and the ruling that the play is not reviewable"2019SLN.EVN.regular.comment.csv",4
-
-"SLN201904050",55,"Mound Visit"2019SLN.EVN.regular.comment.csv",5
-
-"SLN201904060",19,"Mound Visit"2019SLN.EVN.regular.comment.csv",6
-
-"SLN201904060",36,"Mound Visit"2019SLN.EVN.regular.comment.csv",7
-
-"SLN201904060",50,"Mound Visit"2019SLN.EVN.regular.comment.csv",8
-
-"SLN201904060",51,"Mound Visit"2019SLN.EVN.regular.comment.csv",9
-
-"SLN201904060",65,"Mound Visit"2019SLN.EVN.regular.comment.csv",10
-
-"SLN201904060",74,"Mound Visit"2019SLN.EVN.regular.comment.csv",11
-
-"SLN201904060",78,"$Fan interference"2019SLN.EVN.regular.comment.csv",12
-
-"SLN201904060",84,"Mound Visit"2019SLN.EVN.regular.comment.csv",13
-
-"SLN201904070",22,"$Padres challenged call that Bader was safe at 3rd; call was overturned - caught stealing"2019SLN.EVN.regular.comment.csv",14
-
-"SLN201904070",31,"Injury Delay"2019SLN.EVN.regular.comment.csv",15
-
-"SLN201904070",32,"Mound Visit"2019SLN.EVN.regular.comment.csv",16
-
-"SLN201904070",55,"Mound Visit"2019SLN.EVN.regular.comment.csv",17
-
-"SLN201904070",61,"Mound Visit"2019SLN.EVN.regular.comment.csv",18
-
-"SLN201904070",62,"Mound Visit"2019SLN.EVN.regular.comment.csv",19
-
-"SLN201904070",69,"Mound Visit"2019SLN.EVN.regular.comment.csv",20
-
-"SLN201904080",17,"Injury Delay"2019SLN.EVN.regular.comment.csv",21
-
-"SLN201904080",17,"$Ryu left with injured groin"2019SLN.EVN.regular.comment.csv",22
-
-"SLN201904080",35,"Mound Visit"2019SLN.EVN.regular.comment.csv",23
-
-"SLN201904080",45,"Mound Visit"2019SLN.EVN.regular.comment.csv",24
-
-"SLN201904080",65,"Mound Visit"2019SLN.EVN.regular.comment.csv",25
-
-"SLN201904090",11,"$Dodgers challenged call that Molina's ball had stayed in play; call was overturned - ground rule double, Ozuna returned to third"2019SLN.EVN.regular.comment.csv",26
-
-"SLN201904090",40,"Mound Visit"2019SLN.EVN.regular.comment.csv",27
-
-"SLN201904090",41,"Mound Visit"2019SLN.EVN.regular.comment.csv",28
-
-"SLN201904090",42,"Mound Visit"2019SLN.EVN.regular.comment.csv",29
-
-"SLN201904090",46,"Mound Visit"2019SLN.EVN.regular.comment.csv",30
-
-"SLN201904090",61,"Mound Visit"2019SLN.EVN.regular.comment.csv",31
-
-"SLN201904090",66,"Injury Delay"2019SLN.EVN.regular.comment.csv",32
-
-"SLN201904090",68,"Mound Visit"2019SLN.EVN.regular.comment.csv",33
-
-"SLN201904090",74,"Mound Visit"2019SLN.EVN.regular.comment.csv",34
-
-"SLN201904100",45,"Mound Visit"2019SLN.EVN.regular.comment.csv",35
-
-"SLN201904110",17,"Mound Visit"2019SLN.EVN.regular.comment.csv",36
-
-"SLN201904110",28,"Mound Visit"2019SLN.EVN.regular.comment.csv",37
-
-"SLN201904110",38,"Mound Visit"2019SLN.EVN.regular.comment.csv",38
-
-"SLN201904110",40,"$Corey Seager left with injured leg"2019SLN.EVN.regular.comment.csv",39
-
-"SLN201904110",52,"$Dodgers challenged call that Bader was hit by pitch; call was upheld - hit by pitch"2019SLN.EVN.regular.comment.csv",40
-
-"SLN201904110",63,"Mound Visit"2019SLN.EVN.regular.comment.csv",41
-
-"SLN201904110",68,"Mound Visit"2019SLN.EVN.regular.comment.csv",42
-
-"SLN201904190",2,"$Mets challenged call that Alonso was out at 1st; call was upheld - ground out"2019SLN.EVN.regular.comment.csv",43
-
-"SLN201904190",16,"Mound Visit"2019SLN.EVN.regular.comment.csv",44
-
-"SLN201904190",27,"Mound Visit"2019SLN.EVN.regular.comment.csv",45
-
-"SLN201904190",35,"Mound Visit"2019SLN.EVN.regular.comment.csv",46
-
-"SLN201904190",42,"Mound Visit"2019SLN.EVN.regular.comment.csv",47
-
-"SLN201904190",51,"Mound Visit"2019SLN.EVN.regular.comment.csv",48
-
-"SLN201904190",59,"Mound Visit"2019SLN.EVN.regular.comment.csv",49
-
-"SLN201904190",60,"$Umpire review ball hit by Thomas; call was overturned - home run not double On-field Delay"2019SLN.EVN.regular.comment.csv",50
-
-"SLN201904190",64,"Mound Visit"2019SLN.EVN.regular.comment.csv",51
-
-"SLN201904190",72,"Mound Visit"2019SLN.EVN.regular.comment.csv",52
-
-"SLN201904190",75,"Mound Visit"2019SLN.EVN.regular.comment.csv",53
-
-"SLN201904190",78,"Mound Visit"2019SLN.EVN.regular.comment.csv",54
-
-"SLN201904190",87,"Mound Visit"2019SLN.EVN.regular.comment.csv",55
-
-"SLN201904200",26,"Mound Visit"2019SLN.EVN.regular.comment.csv",56
-
-"SLN201904200",45,"Mound Visit"2019SLN.EVN.regular.comment.csv",57
-
-"SLN201904200",51,"Injury Delay"2019SLN.EVN.regular.comment.csv",58
-
-"SLN201904200",54,"Mound Visit"2019SLN.EVN.regular.comment.csv",59
-
-"SLN201904200",57,"$Carpenter left with an injured knee"2019SLN.EVN.regular.comment.csv",60
-
-"SLN201904200",67,"Injury Delay"2019SLN.EVN.regular.comment.csv",61
-
-"SLN201904210",20,"Mound Visit"2019SLN.EVN.regular.comment.csv",62
-
-"SLN201904210",24,"Mound Visit"2019SLN.EVN.regular.comment.csv",63
-
-"SLN201904210",41,"Mound Visit"2019SLN.EVN.regular.comment.csv",64
-
-"SLN201904210",58,"Injury Delay"2019SLN.EVN.regular.comment.csv",65
-
-"SLN201904210",58,"ej,callm001,M,emmep901,Arguing check swing $Cano was hit on hand by pitch and was awarded first base; however on appeal to 3b umpire Emmel it was ruled a half swing strike, so the hit by pitch was overturned; Mets manager Callaway argued the call was ejected by Emmel since arguing balls and strikes is not permissible; Lagares completed the at bat and struck out, which was charged to Cano"2019SLN.EVN.regular.comment.csv",66
-
-"SLN201904210",60,"Mound Visit"2019SLN.EVN.regular.comment.csv",67
-
-"SLN201904210",71,"$Mets challenged call that Thomas was out at 1st; call was overturned - ground out"2019SLN.EVN.regular.comment.csv",68
-
-"SLN201904220",38,"Mound Visit"2019SLN.EVN.regular.comment.csv",69
-
-"SLN201904220",45,"Mound Visit"2019SLN.EVN.regular.comment.csv",70
-
-"SLN201904220",54,"$originally scored as double, changed to two-base error on 04-25-2019, changing one run to unearned and another to team unearned"2019SLN.EVN.regular.comment.csv",71
-
-"SLN201904220",56,"Mound Visit"2019SLN.EVN.regular.comment.csv",72
-
-"SLN201904220",57,"Mound Visit"2019SLN.EVN.regular.comment.csv",73
-
-"SLN201904220",59,"Mound Visit"2019SLN.EVN.regular.comment.csv",74
-
-"SLN201904220",61,"Mound Visit"2019SLN.EVN.regular.comment.csv",75
-
-"SLN201904220",72,"Injury Delay"2019SLN.EVN.regular.comment.csv",76
-
-"SLN201904220",79,"Mound Visit"2019SLN.EVN.regular.comment.csv",77
-
-"SLN201904230",31,"Mound Visit"2019SLN.EVN.regular.comment.csv",78
-
-"SLN201904230",41,"Mound Visit"2019SLN.EVN.regular.comment.csv",79
-
-"SLN201904230",43,"Mound Visit"2019SLN.EVN.regular.comment.csv",80
-
-"SLN201904230",65,"Mound Visit"2019SLN.EVN.regular.comment.csv",81
-
-"SLN201904230",67,"$Cardinals challenged call that 4th pitch to Fowler was foul in outfield; call was upheld - foul ball"2019SLN.EVN.regular.comment.csv",82
-
-"SLN201904240",40,"Mound Visit"2019SLN.EVN.regular.comment.csv",83
-
-"SLN201904240",49,"Mound Visit"2019SLN.EVN.regular.comment.csv",84
-
-"SLN201904240",55,"Mound Visit"2019SLN.EVN.regular.comment.csv",85
-
-"SLN201904240",71,"Mound Visit"2019SLN.EVN.regular.comment.csv",86
-
-"SLN201904240",71,"Mound Visit"2019SLN.EVN.regular.comment.csv",87
-
-"SLN201904260",29,"Mound Visit"2019SLN.EVN.regular.comment.csv",88
-
-"SLN201904260",42,"Mound Visit"2019SLN.EVN.regular.comment.csv",89
-
-"SLN201904260",52,"Mound Visit"2019SLN.EVN.regular.comment.csv",90
-
-"SLN201904260",55,"Mound Visit"2019SLN.EVN.regular.comment.csv",91
-
-"SLN201904260",57,"Mound Visit"2019SLN.EVN.regular.comment.csv",92
-
-"SLN201904260",63,"Mound Visit"2019SLN.EVN.regular.comment.csv",93
-
-"SLN201904260",73,"Mound Visit"2019SLN.EVN.regular.comment.csv",94
-
-"SLN201904260",77,"Mound Visit"2019SLN.EVN.regular.comment.csv",95
-
-"SLN201904270",40,"Mound Visit"2019SLN.EVN.regular.comment.csv",96
-
-"SLN201904270",47,"Mound Visit"2019SLN.EVN.regular.comment.csv",97
-
-"SLN201904270",54,"Mound Visit"2019SLN.EVN.regular.comment.csv",98
-
-"SLN201904280",28,"Mound Visit"2019SLN.EVN.regular.comment.csv",99
-
-"SLN201904280",54,"Mound Visit"2019SLN.EVN.regular.comment.csv",100
-
-"SLN201904280",55,"Mound Visit"2019SLN.EVN.regular.comment.csv",101
-
-"SLN201904280",59,"Mound Visit"2019SLN.EVN.regular.comment.csv",102
-
-"SLN201904280",63,"$Cardinals challenged call that Fowler was out at 3rd; call was upheld - double and out stretching"2019SLN.EVN.regular.comment.csv",103
-
-"SLN201904280",69,"Mound Visit"2019SLN.EVN.regular.comment.csv",104
-
-"SLN201905060",28,"Mound Visit"2019SLN.EVN.regular.comment.csv",105
-
-"SLN201905060",35,"Mound Visit"2019SLN.EVN.regular.comment.csv",106
-
-"SLN201905060",36,"Mound Visit"2019SLN.EVN.regular.comment.csv",107
-
-"SLN201905060",61,"Mound Visit"2019SLN.EVN.regular.comment.csv",108
-
-"SLN201905060",67,"Mound Visit"2019SLN.EVN.regular.comment.csv",109
-
-"SLN201905070",12,"Mound Visit"2019SLN.EVN.regular.comment.csv",110
-
-"SLN201905070",13,"$Phillies challenged call that Hernandez was out at 2nd; call was overturned - force out"2019SLN.EVN.regular.comment.csv",111
-
-"SLN201905070",14,"Mound Visit"2019SLN.EVN.regular.comment.csv",112
-
-"SLN201905070",55,"Mound Visit"2019SLN.EVN.regular.comment.csv",113
-
-"SLN201905070",56,"$Fan interference"2019SLN.EVN.regular.comment.csv",114
-
-"SLN201905080",33,"Mound Visit"2019SLN.EVN.regular.comment.csv",115
-
-"SLN201905080",65,"Mound Visit"2019SLN.EVN.regular.comment.csv",116
-
-"SLN201905090",5,"Injury Delay"2019SLN.EVN.regular.comment.csv",117
-
-"SLN201905090",11,"Injury Delay"2019SLN.EVN.regular.comment.csv",118
-
-"SLN201905090",16,"Mound Visit"2019SLN.EVN.regular.comment.csv",119
-
-"SLN201905090",30,"Mound Visit"2019SLN.EVN.regular.comment.csv",120
-
-"SLN201905090",37,"Mound Visit"2019SLN.EVN.regular.comment.csv",121
-
-"SLN201905090",40,"Mound Visit"2019SLN.EVN.regular.comment.csv",122
-
-"SLN201905090",41,"Mound Visit"2019SLN.EVN.regular.comment.csv",123
-
-"SLN201905090",55,"Injury Delay"2019SLN.EVN.regular.comment.csv",124
-
-"SLN201905090",57,"Mound Visit"2019SLN.EVN.regular.comment.csv",125
-
-"SLN201905090",60,"Mound Visit"2019SLN.EVN.regular.comment.csv",126
-
-"SLN201905090",66,"Mound Visit"2019SLN.EVN.regular.comment.csv",127
-
-"SLN201905090",72,"Mound Visit"2019SLN.EVN.regular.comment.csv",128
-
-"SLN201905100",9,"Injury Delay"2019SLN.EVN.regular.comment.csv",129
-
-"SLN201905100",24,"Mound Visit"2019SLN.EVN.regular.comment.csv",130
-
-"SLN201905100",29,"Mound Visit"2019SLN.EVN.regular.comment.csv",131
-
-"SLN201905100",32,"Mound Visit"2019SLN.EVN.regular.comment.csv",132
-
-"SLN201905100",54,"Mound Visit"2019SLN.EVN.regular.comment.csv",133
-
-"SLN201905100",58,"Mound Visit"2019SLN.EVN.regular.comment.csv",134
-
-"SLN201905100",62,"Mound Visit"2019SLN.EVN.regular.comment.csv",135
-
-"SLN201905100",68,"Mound Visit Mound Visit"2019SLN.EVN.regular.comment.csv",136
-
-"SLN201905110",50,"Mound Visit"2019SLN.EVN.regular.comment.csv",137
-
-"SLN201905110",51,"$Cardinals challenged call that Fowler was out at 1st; call was upheld - ground out"2019SLN.EVN.regular.comment.csv",138
-
-"SLN201905110",54,"Injury Delay"2019SLN.EVN.regular.comment.csv",139
-
-"SLN201905110",59,"Mound Visit"2019SLN.EVN.regular.comment.csv",140
-
-"SLN201905110",60,"Mound Visit"2019SLN.EVN.regular.comment.csv",141
-
-"SLN201905120",6,"Mound Visit"2019SLN.EVN.regular.comment.csv",142
-
-"SLN201905120",16,"Mound Visit"2019SLN.EVN.regular.comment.csv",143
-
-"SLN201905120",44,"Mound Visit"2019SLN.EVN.regular.comment.csv",144
-
-"SLN201905120",62,"Mound Visit"2019SLN.EVN.regular.comment.csv",145
-
-"SLN201905120",72,"Mound Visit"2019SLN.EVN.regular.comment.csv",146
-
-"SLN201905120",74,"Injury Delay"2019SLN.EVN.regular.comment.csv",147
-
-"SLN201905120",77,"Mound Visit"2019SLN.EVN.regular.comment.csv",148
-
-"SLN201905120",81,"Mound Visit"2019SLN.EVN.regular.comment.csv",149
-
-"SLN201905221",21,"Mound Visit"2019SLN.EVN.regular.comment.csv",150
-
-"SLN201905221",40,"Mound Visit"2019SLN.EVN.regular.comment.csv",151
-
-"SLN201905221",53,"Mound Visit"2019SLN.EVN.regular.comment.csv",152
-
-"SLN201905221",54,"Mound Visit"2019SLN.EVN.regular.comment.csv",153
-
-"SLN201905221",58,"Injury Delay"2019SLN.EVN.regular.comment.csv",154
-
-"SLN201905221",65,"Mound Visit"2019SLN.EVN.regular.comment.csv",155
-
-"SLN201905222",8,"Mound Visit"2019SLN.EVN.regular.comment.csv",156
-
-"SLN201905222",11,"Injury Delay"2019SLN.EVN.regular.comment.csv",157
-
-"SLN201905222",22,"Mound Visit"2019SLN.EVN.regular.comment.csv",158
-
-"SLN201905222",29,"Mound Visit"2019SLN.EVN.regular.comment.csv",159
-
-"SLN201905222",56,"Mound Visit"2019SLN.EVN.regular.comment.csv",160
-
-"SLN201905222",64,"Mound Visit"2019SLN.EVN.regular.comment.csv",161
-
-"SLN201905222",67,"Mound Visit"2019SLN.EVN.regular.comment.csv",162
-
-"SLN201905222",68,"Mound Visit"2019SLN.EVN.regular.comment.csv",163
-
-"SLN201905240",22,"$Cardinals challenged call that Fowler was out at 2nd; call was overturned - single"2019SLN.EVN.regular.comment.csv",164
-
-"SLN201905240",51,"Mound Visit"2019SLN.EVN.regular.comment.csv",165
-
-"SLN201905240",52,"Mound Visit"2019SLN.EVN.regular.comment.csv",166
-
-"SLN201905240",59,"Mound Visit"2019SLN.EVN.regular.comment.csv",167
-
-"SLN201905240",68,"Injury Delay"2019SLN.EVN.regular.comment.csv",168
-
-"SLN201905250",49,"Mound Visit"2019SLN.EVN.regular.comment.csv",169
-
-"SLN201905250",53,"Mound Visit"2019SLN.EVN.regular.comment.csv",170
-
-"SLN201905250",61,"Injury Delay"2019SLN.EVN.regular.comment.csv",171
-
-"SLN201905250",62,"$Cardinals challenged call that DeJong was out at 1st to complete double play; call was overturned - force out, no DP"2019SLN.EVN.regular.comment.csv",172
-
-"SLN201905250",64,"Injury Delay Mound Visit"2019SLN.EVN.regular.comment.csv",173
-
-"SLN201905260",11,"Injury Delay"2019SLN.EVN.regular.comment.csv",174
-
-"SLN201905260",24,"Mound Visit"2019SLN.EVN.regular.comment.csv",175
-
-"SLN201905260",25,"Mound Visit"2019SLN.EVN.regular.comment.csv",176
-
-"SLN201905260",44,"Injury Delay Mound Visit"2019SLN.EVN.regular.comment.csv",177
-
-"SLN201905260",62,"Mound Visit"2019SLN.EVN.regular.comment.csv",178
-
-"SLN201905260",63,"Mound Visit"2019SLN.EVN.regular.comment.csv",179
-
-"SLN201905260",73,"Mound Visit"2019SLN.EVN.regular.comment.csv",180
-
-"SLN201905260",74,"Mound Visit $Cardinals challenged call that Riley was safe at 2nd; call was upheld - safe advancing"2019SLN.EVN.regular.comment.csv",181
-
-"SLN201905260",76,"Mound Visit"2019SLN.EVN.regular.comment.csv",182
-
-"SLN201905260",82,"Mound Visit"2019SLN.EVN.regular.comment.csv",183
-
-"SLN201905260",85,"Mound Visit"2019SLN.EVN.regular.comment.csv",184
-
-"SLN201905260",87,"Mound Visit"2019SLN.EVN.regular.comment.csv",185
-
-"SLN201905260",91,"Mound Visit"2019SLN.EVN.regular.comment.csv",186
-
-"SLN201905310",9,"Mound Visit"2019SLN.EVN.regular.comment.csv",187
-
-"SLN201905310",40,"Mound Visit"2019SLN.EVN.regular.comment.csv",188
-
-"SLN201905310",52,"Mound Visit"2019SLN.EVN.regular.comment.csv",189
-
-"SLN201905310",60,"On-field Delay"2019SLN.EVN.regular.comment.csv",190
-
-"SLN201905310",64,"Mound Visit"2019SLN.EVN.regular.comment.csv",191
-
-"SLN201905310",67,"Mound Visit"2019SLN.EVN.regular.comment.csv",192
-
-"SLN201905310",72,"Mound Visit"2019SLN.EVN.regular.comment.csv",193
-
-"SLN201905310",73,"Mound Visit"2019SLN.EVN.regular.comment.csv",194
-
-"SLN201905310",76,"Mound Visit"2019SLN.EVN.regular.comment.csv",195
-
-"SLN201905310",78,"Mound Visit"2019SLN.EVN.regular.comment.csv",196
-
-"SLN201906010",22,"Mound Visit"2019SLN.EVN.regular.comment.csv",197
-
-"SLN201906010",25,"Mound Visit"2019SLN.EVN.regular.comment.csv",198
-
-"SLN201906010",42,"On-field Delay"2019SLN.EVN.regular.comment.csv",199
-
-"SLN201906010",49,"Mound Visit"2019SLN.EVN.regular.comment.csv",200
-
-"SLN201906010",52,"Mound Visit"2019SLN.EVN.regular.comment.csv",201
-
-"SLN201906010",53,"Mound Visit"2019SLN.EVN.regular.comment.csv",202
-
-"SLN201906010",56,"On-field Delay Injury Delay"2019SLN.EVN.regular.comment.csv",203
-
-"SLN201906010",64,"Mound Visit"2019SLN.EVN.regular.comment.csv",204
-
-"SLN201906010",71,"Mound Visit"2019SLN.EVN.regular.comment.csv",205
-
-"SLN201906020",29,"Mound Visit"2019SLN.EVN.regular.comment.csv",206
-
-"SLN201906020",33,"Mound Visit"2019SLN.EVN.regular.comment.csv",207
-
-"SLN201906020",45,"Mound Visit"2019SLN.EVN.regular.comment.csv",208
-
-"SLN201906020",56,"Mound Visit"2019SLN.EVN.regular.comment.csv",209
-
-"SLN201906020",57,"Mound Visit"2019SLN.EVN.regular.comment.csv",210
-
-"SLN201906020",58,"$Cubs challenged call that Wong was safe at 2nd; call was upheld - stolen base"2019SLN.EVN.regular.comment.csv",211
-
-"SLN201906020",62,"Mound Visit"2019SLN.EVN.regular.comment.csv",212
-
-"SLN201906020",63,"Mound Visit"2019SLN.EVN.regular.comment.csv",213
-
-"SLN201906040",14,"Mound Visit"2019SLN.EVN.regular.comment.csv",214
-
-"SLN201906040",19,"Mound Visit"2019SLN.EVN.regular.comment.csv",215
-
-"SLN201906040",23,"$Cardinals challenged call that Votto was safe at 2nd; call was upheld - safe advancing on fly ball On-field Delay"2019SLN.EVN.regular.comment.csv",216
-
-"SLN201906040",32,"Mound Visit"2019SLN.EVN.regular.comment.csv",217
-
-"SLN201906040",43,"Mound Visit"2019SLN.EVN.regular.comment.csv",218
-
-"SLN201906040",68,"Injury Delay"2019SLN.EVN.regular.comment.csv",219
-
-"SLN201906040",71,"Mound Visit"2019SLN.EVN.regular.comment.csv",220
-
-"SLN201906060",4,"Mound Visit"2019SLN.EVN.regular.comment.csv",221
-
-"SLN201906060",22,"Mound Visit"2019SLN.EVN.regular.comment.csv",222
-
-"SLN201906060",34,"Mound Visit"2019SLN.EVN.regular.comment.csv",223
-
-"SLN201906060",41,"Injury Delay"2019SLN.EVN.regular.comment.csv",224
-
-"SLN201906060",56,"Mound Visit"2019SLN.EVN.regular.comment.csv",225
-
-"SLN201906060",57,"Mound Visit"2019SLN.EVN.regular.comment.csv",226
-
-"SLN201906060",58,"Mound Visit"2019SLN.EVN.regular.comment.csv",227
-
-"SLN201906060",68,"Mound Visit"2019SLN.EVN.regular.comment.csv",228
-
-"SLN201906170",43,"Mound Visit"2019SLN.EVN.regular.comment.csv",229
-
-"SLN201906170",59,"Mound Visit"2019SLN.EVN.regular.comment.csv",230
-
-"SLN201906180",50,"Mound Visit"2019SLN.EVN.regular.comment.csv",231
-
-"SLN201906180",52,"Mound Visit"2019SLN.EVN.regular.comment.csv",232
-
-"SLN201906180",53,"Mound Visit"2019SLN.EVN.regular.comment.csv",233
-
-"SLN201906180",62,"Mound Visit"2019SLN.EVN.regular.comment.csv",234
-
-"SLN201906180",64,"Mound Visit"2019SLN.EVN.regular.comment.csv",235
-
-"SLN201906190",35,"$Marlins challenged call that Edman was safe at 3rd; call was upheld - stolen base"2019SLN.EVN.regular.comment.csv",236
-
-"SLN201906190",39,"Mound Visit"2019SLN.EVN.regular.comment.csv",237
-
-"SLN201906190",43,"Mound Visit"2019SLN.EVN.regular.comment.csv",238
-
-"SLN201906190",44,"Mound Visit"2019SLN.EVN.regular.comment.csv",239
-
-"SLN201906190",45,"Mound Visit"2019SLN.EVN.regular.comment.csv",240
-
-"SLN201906190",58,"Mound Visit Mound Visit"2019SLN.EVN.regular.comment.csv",241
-
-"SLN201906190",59,"Mound Visit"2019SLN.EVN.regular.comment.csv",242
-
-"SLN201906190",73,"Mound Visit Mound Visit"2019SLN.EVN.regular.comment.csv",243
-
-"SLN201906190",74,"Mound Visit"2019SLN.EVN.regular.comment.csv",244
-
-"SLN201906200",25,"Mound Visit"2019SLN.EVN.regular.comment.csv",245
-
-"SLN201906200",35,"$Cooper left with injured arm"2019SLN.EVN.regular.comment.csv",246
-
-"SLN201906200",39,"Mound Visit"2019SLN.EVN.regular.comment.csv",247
-
-"SLN201906200",45,"Mound Visit"2019SLN.EVN.regular.comment.csv",248
-
-"SLN201906200",46,"Mound Visit"2019SLN.EVN.regular.comment.csv",249
-
-"SLN201906200",53,"Mound Visit"2019SLN.EVN.regular.comment.csv",250
-
-"SLN201906200",56,"$Marlins challenged call that Rojas was out going back to 1st; call was upheld - out"2019SLN.EVN.regular.comment.csv",251
-
-"SLN201906200",60,"Mound Visit"2019SLN.EVN.regular.comment.csv",252
-
-"SLN201906200",62,"Mound Visit"2019SLN.EVN.regular.comment.csv",253
-
-"SLN201906200",64,"Mound Visit"2019SLN.EVN.regular.comment.csv",254
-
-"SLN201906200",73,"Mound Visit"2019SLN.EVN.regular.comment.csv",255
-
-"SLN201906200",79,"$Alfaro left with injured hand"2019SLN.EVN.regular.comment.csv",256
-
-"SLN201906200",82,"Mound Visit Injury Delay"2019SLN.EVN.regular.comment.csv",257
-
-"SLN201906200",84,"On-field Delay"2019SLN.EVN.regular.comment.csv",258
-
-"SLN201906200",85,"Mound Visit"2019SLN.EVN.regular.comment.csv",259
-
-"SLN201906200",100,"Injury Delay Mound Visit $Umpire review of call that Martinez was safe at home; call was upheld - safe"2019SLN.EVN.regular.comment.csv",260
-
-"SLN201906200",101,"$Cardinals challenged call that Flaherty was out at 2nd; call was upheld - out on pickoff"2019SLN.EVN.regular.comment.csv",261
-
-"SLN201906210",4,"On-field Delay"2019SLN.EVN.regular.comment.csv",262
-
-"SLN201906210",5,"On-field Delay"2019SLN.EVN.regular.comment.csv",263
-
-"SLN201906210",16,"Injury Delay"2019SLN.EVN.regular.comment.csv",264
-
-"SLN201906210",23,"Mound Visit"2019SLN.EVN.regular.comment.csv",265
-
-"SLN201906210",28,"Mound Visit"2019SLN.EVN.regular.comment.csv",266
-
-"SLN201906210",31,"Mound Visit"2019SLN.EVN.regular.comment.csv",267
-
-"SLN201906210",47,"Mound Visit"2019SLN.EVN.regular.comment.csv",268
-
-"SLN201906210",50,"Mound Visit"2019SLN.EVN.regular.comment.csv",269
-
-"SLN201906210",54,"Mound Visit"2019SLN.EVN.regular.comment.csv",270
-
-"SLN201906210",55,"Mound Visit"2019SLN.EVN.regular.comment.csv",271
-
-"SLN201906210",65,"Mound Visit"2019SLN.EVN.regular.comment.csv",272
-
-"SLN201906210",67,"Mound Visit"2019SLN.EVN.regular.comment.csv",273
-
-"SLN201906210",68,"Mound Visit"2019SLN.EVN.regular.comment.csv",274
-
-"SLN201906220",3,"Injury Delay"2019SLN.EVN.regular.comment.csv",275
-
-"SLN201906220",36,"Mound Visit"2019SLN.EVN.regular.comment.csv",276
-
-"SLN201906220",53,"Mound Visit"2019SLN.EVN.regular.comment.csv",277
-
-"SLN201906220",58,"Mound Visit"2019SLN.EVN.regular.comment.csv",278
-
-"SLN201906220",67,"Mound Visit Injury Delay"2019SLN.EVN.regular.comment.csv",279
-
-"SLN201906230",4,"On-field Delay"2019SLN.EVN.regular.comment.csv",280
-
-"SLN201906230",20,"On-field Delay"2019SLN.EVN.regular.comment.csv",281
-
-"SLN201906230",22,"Mound Visit"2019SLN.EVN.regular.comment.csv",282
-
-"SLN201906230",26,"On-field Delay"2019SLN.EVN.regular.comment.csv",283
-
-"SLN201906230",36,"On-field Delay"2019SLN.EVN.regular.comment.csv",284
-
-"SLN201906230",41,"Mound Visit"2019SLN.EVN.regular.comment.csv",285
-
-"SLN201906230",43,"Mound Visit"2019SLN.EVN.regular.comment.csv",286
-
-"SLN201906230",44,"Mound Visit"2019SLN.EVN.regular.comment.csv",287
-
-"SLN201906230",45,"Mound Visit"2019SLN.EVN.regular.comment.csv",288
-
-"SLN201906230",51,"Injury Delay"2019SLN.EVN.regular.comment.csv",289
-
-"SLN201906230",53,"On-field Delay"2019SLN.EVN.regular.comment.csv",290
-
-"SLN201906230",68,"Mound Visit"2019SLN.EVN.regular.comment.csv",291
-
-"SLN201906230",69,"On-field Delay"2019SLN.EVN.regular.comment.csv",292
-
-"SLN201906230",73,"Mound Visit"2019SLN.EVN.regular.comment.csv",293
-
-"SLN201906230",82,"Mound Visit"2019SLN.EVN.regular.comment.csv",294
-
-"SLN201906230",86,"Mound Visit"2019SLN.EVN.regular.comment.csv",295
-
-"SLN201906250",18,"Mound Visit"2019SLN.EVN.regular.comment.csv",296
-
-"SLN201906250",35,"Mound Visit"2019SLN.EVN.regular.comment.csv",297
-
-"SLN201906250",42,"Mound Visit"2019SLN.EVN.regular.comment.csv",298
-
-"SLN201906250",45,"Mound Visit"2019SLN.EVN.regular.comment.csv",299
-
-"SLN201906250",72,"Mound Visit"2019SLN.EVN.regular.comment.csv",300
-
-"SLN201906260",11,"Injury Delay"2019SLN.EVN.regular.comment.csv",301
-
-"SLN201906260",52,"Mound Visit"2019SLN.EVN.regular.comment.csv",302
-
-"SLN201907120",30,"$Originally scored as single and E7, changed to double on 07-16-2019"2019SLN.EVN.regular.comment.csv",303
-
-"SLN201907120",31,"Injury Delay"2019SLN.EVN.regular.comment.csv",304
-
-"SLN201907120",45,"Mound Visit"2019SLN.EVN.regular.comment.csv",305
-
-"SLN201907120",46,"Mound Visit"2019SLN.EVN.regular.comment.csv",306
-
-"SLN201907120",49,"Mound Visit"2019SLN.EVN.regular.comment.csv",307
-
-"SLN201907120",57,"Mound Visit"2019SLN.EVN.regular.comment.csv",308
-
-"SLN201907120",58,"$Cardinals challenged call that Wong was out at 2nd; call was overturned - safe on error"2019SLN.EVN.regular.comment.csv",309
-
-"SLN201907120",61,"Mound Visit Mound Visit"2019SLN.EVN.regular.comment.csv",310
-
-"SLN201907120",68,"Mound Visit"2019SLN.EVN.regular.comment.csv",311
-
-"SLN201907130",10,"Mound Visit"2019SLN.EVN.regular.comment.csv",312
-
-"SLN201907130",14,"Mound Visit"2019SLN.EVN.regular.comment.csv",313
-
-"SLN201907130",15,"Mound Visit"2019SLN.EVN.regular.comment.csv",314
-
-"SLN201907130",55,"Mound Visit"2019SLN.EVN.regular.comment.csv",315
-
-"SLN201907130",66,"Mound Visit"2019SLN.EVN.regular.comment.csv",316
-
-"SLN201907130",67,"Mound Visit"2019SLN.EVN.regular.comment.csv",317
-
-"SLN201907140",27,"Mound Visit"2019SLN.EVN.regular.comment.csv",318
-
-"SLN201907140",44,"Mound Visit"2019SLN.EVN.regular.comment.csv",319
-
-"SLN201907140",55,"Mound Visit"2019SLN.EVN.regular.comment.csv",320
-
-"SLN201907140",59,"Mound Visit"2019SLN.EVN.regular.comment.csv",321
-
-"SLN201907140",71,"Mound Visit"2019SLN.EVN.regular.comment.csv",322
-
-"SLN201907140",73,"Mound Visit"2019SLN.EVN.regular.comment.csv",323
-
-"SLN201907150",19,"$Cardinals challenged call that Carpenter was out at 1st; call was overturned - single"2019SLN.EVN.regular.comment.csv",324
-
-"SLN201907150",22,"Mound Visit"2019SLN.EVN.regular.comment.csv",325
-
-"SLN201907150",26,"$Cardinals challenged call that Reynolds was safe at 2nd; call was upheld - double"2019SLN.EVN.regular.comment.csv",326
-
-"SLN201907150",42,"Mound Visit"2019SLN.EVN.regular.comment.csv",327
-
-"SLN201907150",54,"Injury Delay"2019SLN.EVN.regular.comment.csv",328
-
-"SLN201907150",54,"$Carpenter left after fouling 7th pitch off foot; X-rays negative; Edman completed strikeout charged to Carpenter"2019SLN.EVN.regular.comment.csv",329
-
-"SLN201907150",59,"Mound Visit"2019SLN.EVN.regular.comment.csv",330
-
-"SLN201907160",15,"Mound Visit"2019SLN.EVN.regular.comment.csv",331
-
-"SLN201907160",23,"On-field Delay"2019SLN.EVN.regular.comment.csv",332
-
-"SLN201907160",33,"$Cardinals challenged call that Newman was safe at 2nd; call was overturned - caught stealing"2019SLN.EVN.regular.comment.csv",333
-
-"SLN201907160",37,"On-field Delay Mound Visit"2019SLN.EVN.regular.comment.csv",334
-
-"SLN201907160",38,"On-field Delay $Pirates challenged call that Flaherty was safe at 3rd; call was overturned - caught stealing"2019SLN.EVN.regular.comment.csv",335
-
-"SLN201907160",46,"Mound Visit"2019SLN.EVN.regular.comment.csv",336
-
-"SLN201907160",49,"Mound Visit"2019SLN.EVN.regular.comment.csv",337
-
-"SLN201907160",52,"Mound Visit"2019SLN.EVN.regular.comment.csv",338
-
-"SLN201907160",64,"Mound Visit"2019SLN.EVN.regular.comment.csv",339
-
-"SLN201907170",18,"Mound Visit"2019SLN.EVN.regular.comment.csv",340
-
-"SLN201907170",20,"Mound Visit"2019SLN.EVN.regular.comment.csv",341
-
-"SLN201907170",32,"Mound Visit"2019SLN.EVN.regular.comment.csv",342
-
-"SLN201907170",37,"Mound Visit"2019SLN.EVN.regular.comment.csv",343
-
-"SLN201907170",60,"Mound Visit"2019SLN.EVN.regular.comment.csv",344
-
-"SLN201907170",64,"$Pirates challenged call that Cabrera was not hit by pitch; call was upheld - ball, not hit by pitch"2019SLN.EVN.regular.comment.csv",345
-
-"SLN201907170",71,"$Cardinals challenged call that Frazier did not commit slide interference; call was upheld - force out, no interference"2019SLN.EVN.regular.comment.csv",346
-
-"SLN201907170",74,"Mound Visit Injury Delay"2019SLN.EVN.regular.comment.csv",347
-
-"SLN201907260",26,"Mound Visit"2019SLN.EVN.regular.comment.csv",348
-
-"SLN201907260",45,"Mound Visit"2019SLN.EVN.regular.comment.csv",349
-
-"SLN201907260",54,"Mound Visit"2019SLN.EVN.regular.comment.csv",350
-
-"SLN201907260",57,"Mound Visit"2019SLN.EVN.regular.comment.csv",351
-
-"SLN201907260",58,"Mound Visit"2019SLN.EVN.regular.comment.csv",352
-
-"SLN201907260",60,"Injury Delay Mound Visit"2019SLN.EVN.regular.comment.csv",353
-
-"SLN201907260",63,"Mound Visit"2019SLN.EVN.regular.comment.csv",354
-
-"SLN201907260",65,"$Astros challenged call that O'Neill was safe at 1st; call was upheld - safe on pickoff attempt"2019SLN.EVN.regular.comment.csv",355
-
-"SLN201907260",71,"Mound Visit"2019SLN.EVN.regular.comment.csv",356
-
-"SLN201907260",72,"Mound Visit"2019SLN.EVN.regular.comment.csv",357
-
-"SLN201907270",2,"Injury Delay"2019SLN.EVN.regular.comment.csv",358
-
-"SLN201907270",20,"Mound Visit"2019SLN.EVN.regular.comment.csv",359
-
-"SLN201907270",21,"Mound Visit"2019SLN.EVN.regular.comment.csv",360
-
-"SLN201907270",52,"Mound Visit"2019SLN.EVN.regular.comment.csv",361
-
-"SLN201907270",58,"Mound Visit"2019SLN.EVN.regular.comment.csv",362
-
-"SLN201907270",63,"Mound Visit"2019SLN.EVN.regular.comment.csv",363
-
-"SLN201907270",70,"Injury Delay"2019SLN.EVN.regular.comment.csv",364
-
-"SLN201907270",78,"Mound Visit"2019SLN.EVN.regular.comment.csv",365
-
-"SLN201907280",8,"Mound Visit"2019SLN.EVN.regular.comment.csv",366
-
-"SLN201907280",40,"Mound Visit"2019SLN.EVN.regular.comment.csv",367
-
-"SLN201907280",43,"Mound Visit"2019SLN.EVN.regular.comment.csv",368
-
-"SLN201907280",50,"Mound Visit"2019SLN.EVN.regular.comment.csv",369
-
-"SLN201907280",53,"Mound Visit"2019SLN.EVN.regular.comment.csv",370
-
-"SLN201907280",68,"Mound Visit"2019SLN.EVN.regular.comment.csv",371
-
-"SLN201907280",73,"Mound Visit"2019SLN.EVN.regular.comment.csv",372
-
-"SLN201907300",41,"Mound Visit"2019SLN.EVN.regular.comment.csv",373
-
-"SLN201907300",45,"Mound Visit"2019SLN.EVN.regular.comment.csv",374
-
-"SLN201907300",47,"Mound Visit"2019SLN.EVN.regular.comment.csv",375
-
-"SLN201907300",56,"Mound Visit"2019SLN.EVN.regular.comment.csv",376
-
-"SLN201907300",65,"Mound Visit"2019SLN.EVN.regular.comment.csv",377
-
-"SLN201907310",20,"On-field Delay"2019SLN.EVN.regular.comment.csv",378
-
-"SLN201907310",31,"$Cubs challenged call that O'Neill was safe at 1st; call was upheld - single"2019SLN.EVN.regular.comment.csv",379
-
-"SLN201907310",43,"Mound Visit"2019SLN.EVN.regular.comment.csv",380
-
-"SLN201907310",45,"Mound Visit"2019SLN.EVN.regular.comment.csv",381
-
-"SLN201907310",60,"On-field Delay"2019SLN.EVN.regular.comment.csv",382
-
-"SLN201907310",61,"Mound Visit $Umpire review of ball hit by Baez; call overturned - double"2019SLN.EVN.regular.comment.csv",383
-
-"SLN201907310",65,"Mound Visit"2019SLN.EVN.regular.comment.csv",384
-
-"SLN201907310",72,"Mound Visit"2019SLN.EVN.regular.comment.csv",385
-
-"SLN201907310",73,"Mound Visit"2019SLN.EVN.regular.comment.csv",386
-
-"SLN201908010",46,"Mound Visit"2019SLN.EVN.regular.comment.csv",387
-
-"SLN201908010",59,"Mound Visit"2019SLN.EVN.regular.comment.csv",388
-
-"SLN201908090",10,"Injury Delay"2019SLN.EVN.regular.comment.csv",389
-
-"SLN201908090",24,"$Pirates challenged clal that Edman was safe at 3rd; call upheld - triple"2019SLN.EVN.regular.comment.csv",390
-
-"SLN201908090",29,"Mound Visit"2019SLN.EVN.regular.comment.csv",391
-
-"SLN201908090",34,"Mound Visit"2019SLN.EVN.regular.comment.csv",392
-
-"SLN201908090",45,"Mound Visit"2019SLN.EVN.regular.comment.csv",393
-
-"SLN201908090",52,"Mound Visit"2019SLN.EVN.regular.comment.csv",394
-
-"SLN201908090",53,"Mound Visit"2019SLN.EVN.regular.comment.csv",395
-
-"SLN201908090",60,"Mound Visit"2019SLN.EVN.regular.comment.csv",396
-
-"SLN201908090",65,"Mound Visit"2019SLN.EVN.regular.comment.csv",397
-
-"SLN201908090",66,"Mound Visit"2019SLN.EVN.regular.comment.csv",398
-
-"SLN201908100",7,"Mound Visit"2019SLN.EVN.regular.comment.csv",399
-
-"SLN201908100",11,"On-field Delay"2019SLN.EVN.regular.comment.csv",400
-
-"SLN201908100",27,"Mound Visit"2019SLN.EVN.regular.comment.csv",401
-
-"SLN201908100",46,"$Cardinals challenged call that Fowler was out at 2nd; call upheld - single and out stretching"2019SLN.EVN.regular.comment.csv",402
-
-"SLN201908100",48,"Mound Visit"2019SLN.EVN.regular.comment.csv",403
-
-"SLN201908100",49,"Mound Visit"2019SLN.EVN.regular.comment.csv",404
-
-"SLN201908100",64,"Mound Visit"2019SLN.EVN.regular.comment.csv",405
-
-"SLN201908110",17,"$Cardinals challenged call that Thomas was out at 1st; call upheld - ground out"2019SLN.EVN.regular.comment.csv",406
-
-"SLN201908110",20,"Mound Visit"2019SLN.EVN.regular.comment.csv",407
-
-"SLN201908110",32,"Mound Visit"2019SLN.EVN.regular.comment.csv",408
-
-"SLN201908110",35,"Mound Visit"2019SLN.EVN.regular.comment.csv",409
-
-"SLN201908110",36,"$Martinez left with an injured shoulder"2019SLN.EVN.regular.comment.csv",410
-
-"SLN201908110",38,"Mound Visit"2019SLN.EVN.regular.comment.csv",411
-
-"SLN201908110",47,"Mound Visit"2019SLN.EVN.regular.comment.csv",412
-
-"SLN201908110",52,"Mound Visit"2019SLN.EVN.regular.comment.csv",413
-
-"SLN201908110",56,"Mound Visit"2019SLN.EVN.regular.comment.csv",414
-
-"SLN201908110",63,"$Pirates challenged call that Fowler was safe at 1st; call overturned - ground out"2019SLN.EVN.regular.comment.csv",415
-
-"SLN201908110",65,"Mound Visit"2019SLN.EVN.regular.comment.csv",416
-
-"SLN201908110",70,"Mound Visit"2019SLN.EVN.regular.comment.csv",417
-
-"SLN201908110",79,"Mound Visit"2019SLN.EVN.regular.comment.csv",418
-
-"SLN201908190",40,"Mound Visit"2019SLN.EVN.regular.comment.csv",419
-
-"SLN201908190",47,"Mound Visit"2019SLN.EVN.regular.comment.csv",420
-
-"SLN201908190",48,"Mound Visit"2019SLN.EVN.regular.comment.csv",421
-
-"SLN201908190",56,"Mound Visit"2019SLN.EVN.regular.comment.csv",422
-
-"SLN201908200",26,"Mound Visit"2019SLN.EVN.regular.comment.csv",423
-
-"SLN201908200",30,"Mound Visit"2019SLN.EVN.regular.comment.csv",424
-
-"SLN201908200",31,"Mound Visit"2019SLN.EVN.regular.comment.csv",425
-
-"SLN201908200",33,"Mound Visit"2019SLN.EVN.regular.comment.csv",426
-
-"SLN201908200",43,"Mound Visit"2019SLN.EVN.regular.comment.csv",427
-
-"SLN201908200",46,"Mound Visit"2019SLN.EVN.regular.comment.csv",428
-
-"SLN201908200",51,"Mound Visit"2019SLN.EVN.regular.comment.csv",429
-
-"SLN201908200",52,"Mound Visit"2019SLN.EVN.regular.comment.csv",430
-
-"SLN201908200",55,"Mound Visit"2019SLN.EVN.regular.comment.csv",431
-
-"SLN201908200",64,"Mound Visit"2019SLN.EVN.regular.comment.csv",432
-
-"SLN201908200",68,"Mound Visit"2019SLN.EVN.regular.comment.csv",433
-
-"SLN201908210",3,"Mound Visit"2019SLN.EVN.regular.comment.csv",434
-
-"SLN201908210",32,"Mound Visit"2019SLN.EVN.regular.comment.csv",435
-
-"SLN201908210",35,"Mound Visit"2019SLN.EVN.regular.comment.csv",436
-
-"SLN201908210",49,"Injury Delay"2019SLN.EVN.regular.comment.csv",437
-
-"SLN201908210",51,"Mound Visit"2019SLN.EVN.regular.comment.csv",438
-
-"SLN201908210",59,"Mound Visit"2019SLN.EVN.regular.comment.csv",439
-
-"SLN201908210",60,"Mound Visit"2019SLN.EVN.regular.comment.csv",440
-
-"SLN201908210",67,"Mound Visit"2019SLN.EVN.regular.comment.csv",441
-
-"SLN201908210",71,"$Game called for rain"2019SLN.EVN.regular.comment.csv",442
-
-"SLN201908220",12,"On-field Delay"2019SLN.EVN.regular.comment.csv",443
-
-"SLN201908220",13,"Injury Delay"2019SLN.EVN.regular.comment.csv",444
-
-"SLN201908220",30,"$Originally scored as E6, changed to single on 08-29-2019"2019SLN.EVN.regular.comment.csv",445
-
-"SLN201908220",50,"Mound Visit"2019SLN.EVN.regular.comment.csv",446
-
-"SLN201908220",57,"Mound Visit"2019SLN.EVN.regular.comment.csv",447
-
-"SLN201908220",61,"Mound Visit"2019SLN.EVN.regular.comment.csv",448
-
-"SLN201908220",66,"Mound Visit"2019SLN.EVN.regular.comment.csv",449
-
-"SLN201908220",67,"Mound Visit"2019SLN.EVN.regular.comment.csv",450
-
-"SLN201908220",70,"Mound Visit"2019SLN.EVN.regular.comment.csv",451
-
-"SLN201908220",71,"Mound Visit"2019SLN.EVN.regular.comment.csv",452
-
-"SLN201908230",23,"Mound Visit"2019SLN.EVN.regular.comment.csv",453
-
-"SLN201908230",27,"Injury Delay"2019SLN.EVN.regular.comment.csv",454
-
-"SLN201908230",31,"Mound Visit"2019SLN.EVN.regular.comment.csv",455
-
-"SLN201908230",42,"Mound Visit"2019SLN.EVN.regular.comment.csv",456
-
-"SLN201908230",50,"Mound Visit"2019SLN.EVN.regular.comment.csv",457
-
-"SLN201908230",55,"Mound Visit"2019SLN.EVN.regular.comment.csv",458
-
-"SLN201908230",76,"Mound Visit"2019SLN.EVN.regular.comment.csv",459
-
-"SLN201908240",29,"Mound Visit"2019SLN.EVN.regular.comment.csv",460
-
-"SLN201908240",40,"Mound Visit"2019SLN.EVN.regular.comment.csv",461
-
-"SLN201908240",41,"Mound Visit"2019SLN.EVN.regular.comment.csv",462
-
-"SLN201908240",54,"Mound Visit"2019SLN.EVN.regular.comment.csv",463
-
-"SLN201908240",55,"ej,dazay001,P,emmep901,Called strike 3 $Daza ejected by HP umpire Emmel for arguing strike 3"2019SLN.EVN.regular.comment.csv",464
-
-"SLN201908240",55,"Injury Delay"2019SLN.EVN.regular.comment.csv",465
-
-"SLN201908250",19,"Injury Delay"2019SLN.EVN.regular.comment.csv",466
-
-"SLN201908250",20,"Mound Visit"2019SLN.EVN.regular.comment.csv",467
-
-"SLN201908250",22,"Mound Visit"2019SLN.EVN.regular.comment.csv",468
-
-"SLN201908250",47,"Mound Visit"2019SLN.EVN.regular.comment.csv",469
-
-"SLN201908250",54,"On-field Delay"2019SLN.EVN.regular.comment.csv",470
-
-"SLN201908250",60,"Mound Visit"2019SLN.EVN.regular.comment.csv",471
-
-"SLN201908250",69,"Mound Visit"2019SLN.EVN.regular.comment.csv",472
-
-"SLN201908311",12,"Mound Visit"2019SLN.EVN.regular.comment.csv",473
-
-"SLN201908311",35,"Mound Visit"2019SLN.EVN.regular.comment.csv",474
-
-"SLN201908311",40,"Mound Visit"2019SLN.EVN.regular.comment.csv",475
-
-"SLN201908311",52,"On-field Delay"2019SLN.EVN.regular.comment.csv",476
-
-"SLN201908311",62,"Mound Visit"2019SLN.EVN.regular.comment.csv",477
-
-"SLN201908311",67,"Mound Visit"2019SLN.EVN.regular.comment.csv",478
-
-"SLN201908311",69,"Mound Visit Mound Visit"2019SLN.EVN.regular.comment.csv",479
-
-"SLN201908311",71,"Mound Visit"2019SLN.EVN.regular.comment.csv",480
-
-"SLN201908311",74,"Mound Visit"2019SLN.EVN.regular.comment.csv",481
-
-"SLN201908311",76,"Mound Visit"2019SLN.EVN.regular.comment.csv",482
-
-"SLN201908312",50,"Mound Visit"2019SLN.EVN.regular.comment.csv",483
-
-"SLN201908312",51,"Injury Delay"2019SLN.EVN.regular.comment.csv",484
-
-"SLN201908312",51,"Mound Visit"2019SLN.EVN.regular.comment.csv",485
-
-"SLN201908312",53,"Mound Visit"2019SLN.EVN.regular.comment.csv",486
-
-"SLN201908312",56,"Mound Visit"2019SLN.EVN.regular.comment.csv",487
-
-"SLN201908312",61,"Mound Visit"2019SLN.EVN.regular.comment.csv",488
-
-"SLN201908312",67,"Mound Visit"2019SLN.EVN.regular.comment.csv",489
-
-"SLN201908312",68,"Mound Visit"2019SLN.EVN.regular.comment.csv",490
-
-"SLN201909011",27,"On-field Delay"2019SLN.EVN.regular.comment.csv",491
-
-"SLN201909011",50,"Injury Delay Mound Visit"2019SLN.EVN.regular.comment.csv",492
-
-"SLN201909011",59,"Mound Visit"2019SLN.EVN.regular.comment.csv",493
-
-"SLN201909011",60,"Mound Visit"2019SLN.EVN.regular.comment.csv",494
-
-"SLN201909011",62,"$Reds challenged call that Edman was safe at 2nd; call upheld - stolen base"2019SLN.EVN.regular.comment.csv",495
-
-"SLN201909011",69,"Mound Visit"2019SLN.EVN.regular.comment.csv",496
-
-"SLN201909012",25,"Mound Visit"2019SLN.EVN.regular.comment.csv",497
-
-"SLN201909012",38,"Mound Visit"2019SLN.EVN.regular.comment.csv",498
-
-"SLN201909012",39,"Injury Delay"2019SLN.EVN.regular.comment.csv",499
-
-"SLN201909012",39,"Mound Visit $Suarez left with injured hand"2019SLN.EVN.regular.comment.csv",500
-
-"SLN201909012",43,"On-field Delay"2019SLN.EVN.regular.comment.csv",501
-
-"SLN201909012",46,"Mound Visit"2019SLN.EVN.regular.comment.csv",502
-
-"SLN201909012",52,"Mound Visit"2019SLN.EVN.regular.comment.csv",503
-
-"SLN201909012",58,"ej,wardt001,C,millb901,Balls and strikes $Cincinnati hitting coach Turner Ward ejected by HP umpire Miller for arguing balls and strikes"2019SLN.EVN.regular.comment.csv",504
-
-"SLN201909012",72,"Mound Visit"2019SLN.EVN.regular.comment.csv",505
-
-"SLN201909012",73,"Mound Visit"2019SLN.EVN.regular.comment.csv",506
-
-"SLN201909020",40,"Mound Visit"2019SLN.EVN.regular.comment.csv",507
-
-"SLN201909020",53,"Mound Visit"2019SLN.EVN.regular.comment.csv",508
-
-"SLN201909020",59,"Mound Visit"2019SLN.EVN.regular.comment.csv",509
-
-"SLN201909020",61,"Mound Visit"2019SLN.EVN.regular.comment.csv",510
-
-"SLN201909040",19,"Mound Visit"2019SLN.EVN.regular.comment.csv",511
-
-"SLN201909040",20,"Mound Visit"2019SLN.EVN.regular.comment.csv",512
-
-"SLN201909040",49,"Mound Visit"2019SLN.EVN.regular.comment.csv",513
-
-"SLN201909040",60,"Mound Visit"2019SLN.EVN.regular.comment.csv",514
-
-"SLN201909040",63,"Mound Visit"2019SLN.EVN.regular.comment.csv",515
-
-"SLN201909040",66,"Mound Visit"2019SLN.EVN.regular.comment.csv",516
-
-"SLN201909040",67,"Mound Visit"2019SLN.EVN.regular.comment.csv",517
-
-"SLN201909040",73,"Mound Visit"2019SLN.EVN.regular.comment.csv",518
-
-"SLN201909040",80,"Mound Visit"2019SLN.EVN.regular.comment.csv",519
-
-"SLN201909040",80,"On-field Delay"2019SLN.EVN.regular.comment.csv",520
-
-"SLN201909040",86,"Mound Visit $Giants challenged call that Wong was safe at 1st; call overturned - out on sacrifice hit"2019SLN.EVN.regular.comment.csv",521
-
-"SLN201909040",90,"Mound Visit"2019SLN.EVN.regular.comment.csv",522
-
-"SLN201909050",4,"Mound Visit"2019SLN.EVN.regular.comment.csv",523
-
-"SLN201909050",27,"Mound Visit"2019SLN.EVN.regular.comment.csv",524
-
-"SLN201909050",30,"Mound Visit"2019SLN.EVN.regular.comment.csv",525
-
-"SLN201909130",4,"Mound Visit"2019SLN.EVN.regular.comment.csv",526
-
-"SLN201909130",21,"Mound Visit"2019SLN.EVN.regular.comment.csv",527
-
-"SLN201909130",24,"Mound Visit"2019SLN.EVN.regular.comment.csv",528
-
-"SLN201909130",48,"Mound Visit"2019SLN.EVN.regular.comment.csv",529
-
-"SLN201909130",49,"Mound Visit"2019SLN.EVN.regular.comment.csv",530
-
-"SLN201909130",52,"Mound Visit"2019SLN.EVN.regular.comment.csv",531
-
-"SLN201909140",43,"Mound Visit Mound Visit"2019SLN.EVN.regular.comment.csv",532
-
-"SLN201909140",50,"On-field Delay"2019SLN.EVN.regular.comment.csv",533
-
-"SLN201909140",54,"Mound Visit"2019SLN.EVN.regular.comment.csv",534
-
-"SLN201909140",58,"Mound Visit"2019SLN.EVN.regular.comment.csv",535
-
-"SLN201909140",64,"Mound Visit"2019SLN.EVN.regular.comment.csv",536
-
-"SLN201909150",17,"Injury Delay"2019SLN.EVN.regular.comment.csv",537
-
-"SLN201909150",18,"Mound Visit"2019SLN.EVN.regular.comment.csv",538
-
-"SLN201909150",29,"Mound Visit"2019SLN.EVN.regular.comment.csv",539
-
-"SLN201909150",32,"Mound Visit"2019SLN.EVN.regular.comment.csv",540
-
-"SLN201909150",45,"Mound Visit"2019SLN.EVN.regular.comment.csv",541
-
-"SLN201909150",48,"Mound Visit"2019SLN.EVN.regular.comment.csv",542
-
-"SLN201909150",56,"Mound Visit"2019SLN.EVN.regular.comment.csv",543
-
-"SLN201909150",57,"Mound Visit"2019SLN.EVN.regular.comment.csv",544
-
-"SLN201909150",64,"Mound Visit"2019SLN.EVN.regular.comment.csv",545
-
-"SLN201909150",68,"Mound Visit"2019SLN.EVN.regular.comment.csv",546
-
-"SLN201909150",70,"Mound Visit"2019SLN.EVN.regular.comment.csv",547
-
-"SLN201909150",71,"Mound Visit"2019SLN.EVN.regular.comment.csv",548
-
-"SLN201909150",74,"Mound Visit"2019SLN.EVN.regular.comment.csv",549
-
-"SLN201909150",75,"$Brewers challenged call that Cain was out at 2nd; call overturned - stolen base"2019SLN.EVN.regular.comment.csv",550
-
-"SLN201909150",79,"Mound Visit"2019SLN.EVN.regular.comment.csv",551
-
-"SLN201909150",80,"Mound Visit"2019SLN.EVN.regular.comment.csv",552
-
-"SLN201909160",10,"Mound Visit"2019SLN.EVN.regular.comment.csv",553
-
-"SLN201909160",31,"Mound Visit"2019SLN.EVN.regular.comment.csv",554
-
-"SLN201909160",60,"Mound Visit"2019SLN.EVN.regular.comment.csv",555
-
-"SLN201909160",63,"Mound Visit"2019SLN.EVN.regular.comment.csv",556
-
-"SLN201909160",66,"Mound Visit"2019SLN.EVN.regular.comment.csv",557
-
-"SLN201909160",73,"Mound Visit"2019SLN.EVN.regular.comment.csv",558
-
-"SLN201909170",25,"Mound Visit"2019SLN.EVN.regular.comment.csv",559
-
-"SLN201909170",26,"Mound Visit"2019SLN.EVN.regular.comment.csv",560
-
-"SLN201909170",45,"$Cardinals challenged call that Soto was safe at 2nd; call upheld - double"2019SLN.EVN.regular.comment.csv",561
-
-"SLN201909170",54,"Mound Visit"2019SLN.EVN.regular.comment.csv",562
-
-"SLN201909170",63,"Mound Visit"2019SLN.EVN.regular.comment.csv",563
-
-"SLN201909170",65,"Mound Visit"2019SLN.EVN.regular.comment.csv",564
-
-"SLN201909170",75,"On-field Delay"2019SLN.EVN.regular.comment.csv",565
-
-"SLN201909170",79,"Mound Visit"2019SLN.EVN.regular.comment.csv",566
-
-"SLN201909180",40,"$Nationals challenged call that Kendrick was out at 1st; call overturned - force out, not double play; also $Cardinals challenged call at 2nd, claiming Soto was guilty of slide interference; that call upheld - no interference"2019SLN.EVN.regular.comment.csv",567
-
-"SLN201909180",50,"Mound Visit"2019SLN.EVN.regular.comment.csv",568
-
-"SLN201909180",56,"Mound Visit"2019SLN.EVN.regular.comment.csv",569
-
-"SLN201909180",58,"Mound Visit"2019SLN.EVN.regular.comment.csv",570
-
-"SLN201909180",61,"Mound Visit"2019SLN.EVN.regular.comment.csv",571
-
-"SLN201909180",64,"$Nationals challenged call that Wong was safe at 2nd; call upheld - stolen base"2019SLN.EVN.regular.comment.csv",572
-
-"SLN201909270",19,"Mound Visit"2019SLN.EVN.regular.comment.csv",573
-
-"SLN201909270",21,"Mound Visit"2019SLN.EVN.regular.comment.csv",574
-
-"SLN201909270",40,"$Cardinals challenged call that Contreras was safe at 1st; call overturned - ground out"2019SLN.EVN.regular.comment.csv",575
-
-"SLN201909270",42,"Mound Visit"2019SLN.EVN.regular.comment.csv",576
-
-"SLN201909270",48,"Injury Delay"2019SLN.EVN.regular.comment.csv",577
-
-"SLN201909270",50,"Mound Visit"2019SLN.EVN.regular.comment.csv",578
-
-"SLN201909270",55,"Mound Visit"2019SLN.EVN.regular.comment.csv",579
-
-"SLN201909270",62,"Mound Visit"2019SLN.EVN.regular.comment.csv",580
-
-"SLN201909270",67,"Mound Visit"2019SLN.EVN.regular.comment.csv",581
-
-"SLN201909270",72,"Mound Visit"2019SLN.EVN.regular.comment.csv",582
-
-"SLN201909270",74,"Mound Visit"2019SLN.EVN.regular.comment.csv",583
-
-"SLN201909270",88,"$Originally scored as single, changed to throwing error on 10-08-2019"2019SLN.EVN.regular.comment.csv",584
-
-"SLN201909280",15,"On-field Delay"2019SLN.EVN.regular.comment.csv",585
-
-"SLN201909280",41,"Mound Visit"2019SLN.EVN.regular.comment.csv",586
-
-"SLN201909280",47,"Mound Visit"2019SLN.EVN.regular.comment.csv",587
-
-"SLN201909280",62,"Mound Visit"2019SLN.EVN.regular.comment.csv",588
-
-"SLN201909280",63,"Mound Visit"2019SLN.EVN.regular.comment.csv",589
-
-"SLN201909280",66,"Mound Visit"2019SLN.EVN.regular.comment.csv",590
-
-"SLN201909280",69,"On-field Delay"2019SLN.EVN.regular.comment.csv",591
-
-"SLN201909280",69,"Mound Visit"2019SLN.EVN.regular.comment.csv",592
-
-"SLN201909280",70,"Mound Visit"2019SLN.EVN.regular.comment.csv",593
-
-"SLN201909280",76,"Mound Visit"2019SLN.EVN.regular.comment.csv",594
-
-"SLN201909280",83,"Mound Visit"2019SLN.EVN.regular.comment.csv",595
-
-"SLN201909290",4,"Mound Visit"2019SLN.EVN.regular.comment.csv",596
-
-"SLN201909290",24,"Mound Visit"2019SLN.EVN.regular.comment.csv",597
-
-"SLN201909290",33,"Injury Delay"2019SLN.EVN.regular.comment.csv",598
-
+"SLN201904050",26,"Mound Visit","FILENAME_TX","LINE_NUMBER_CT"
+"SLN201904050",37,"Mound Visit","2019SLN.EVN.regular.comment.csv",2
+"SLN201904050",51,"Mound Visit Mound Visit","2019SLN.EVN.regular.comment.csv",3
+"SLN201904050",52,"On-field Delay $Padres questioned whether Ozuna's single had hit runner; umpires reviewed with New York and the ruling that the play is not reviewable","2019SLN.EVN.regular.comment.csv",4
+"SLN201904050",55,"Mound Visit","2019SLN.EVN.regular.comment.csv",5
+"SLN201904060",19,"Mound Visit","2019SLN.EVN.regular.comment.csv",6
+"SLN201904060",36,"Mound Visit","2019SLN.EVN.regular.comment.csv",7
+"SLN201904060",50,"Mound Visit","2019SLN.EVN.regular.comment.csv",8
+"SLN201904060",51,"Mound Visit","2019SLN.EVN.regular.comment.csv",9
+"SLN201904060",65,"Mound Visit","2019SLN.EVN.regular.comment.csv",10
+"SLN201904060",74,"Mound Visit","2019SLN.EVN.regular.comment.csv",11
+"SLN201904060",78,"$Fan interference","2019SLN.EVN.regular.comment.csv",12
+"SLN201904060",84,"Mound Visit","2019SLN.EVN.regular.comment.csv",13
+"SLN201904070",22,"$Padres challenged call that Bader was safe at 3rd; call was overturned - caught stealing","2019SLN.EVN.regular.comment.csv",14
+"SLN201904070",31,"Injury Delay","2019SLN.EVN.regular.comment.csv",15
+"SLN201904070",32,"Mound Visit","2019SLN.EVN.regular.comment.csv",16
+"SLN201904070",55,"Mound Visit","2019SLN.EVN.regular.comment.csv",17
+"SLN201904070",61,"Mound Visit","2019SLN.EVN.regular.comment.csv",18
+"SLN201904070",62,"Mound Visit","2019SLN.EVN.regular.comment.csv",19
+"SLN201904070",69,"Mound Visit","2019SLN.EVN.regular.comment.csv",20
+"SLN201904080",17,"Injury Delay","2019SLN.EVN.regular.comment.csv",21
+"SLN201904080",17,"$Ryu left with injured groin","2019SLN.EVN.regular.comment.csv",22
+"SLN201904080",35,"Mound Visit","2019SLN.EVN.regular.comment.csv",23
+"SLN201904080",45,"Mound Visit","2019SLN.EVN.regular.comment.csv",24
+"SLN201904080",65,"Mound Visit","2019SLN.EVN.regular.comment.csv",25
+"SLN201904090",11,"$Dodgers challenged call that Molina's ball had stayed in play; call was overturned - ground rule double, Ozuna returned to third","2019SLN.EVN.regular.comment.csv",26
+"SLN201904090",40,"Mound Visit","2019SLN.EVN.regular.comment.csv",27
+"SLN201904090",41,"Mound Visit","2019SLN.EVN.regular.comment.csv",28
+"SLN201904090",42,"Mound Visit","2019SLN.EVN.regular.comment.csv",29
+"SLN201904090",46,"Mound Visit","2019SLN.EVN.regular.comment.csv",30
+"SLN201904090",61,"Mound Visit","2019SLN.EVN.regular.comment.csv",31
+"SLN201904090",66,"Injury Delay","2019SLN.EVN.regular.comment.csv",32
+"SLN201904090",68,"Mound Visit","2019SLN.EVN.regular.comment.csv",33
+"SLN201904090",74,"Mound Visit","2019SLN.EVN.regular.comment.csv",34
+"SLN201904100",45,"Mound Visit","2019SLN.EVN.regular.comment.csv",35
+"SLN201904110",17,"Mound Visit","2019SLN.EVN.regular.comment.csv",36
+"SLN201904110",28,"Mound Visit","2019SLN.EVN.regular.comment.csv",37
+"SLN201904110",38,"Mound Visit","2019SLN.EVN.regular.comment.csv",38
+"SLN201904110",40,"$Corey Seager left with injured leg","2019SLN.EVN.regular.comment.csv",39
+"SLN201904110",52,"$Dodgers challenged call that Bader was hit by pitch; call was upheld - hit by pitch","2019SLN.EVN.regular.comment.csv",40
+"SLN201904110",63,"Mound Visit","2019SLN.EVN.regular.comment.csv",41
+"SLN201904110",68,"Mound Visit","2019SLN.EVN.regular.comment.csv",42
+"SLN201904190",2,"$Mets challenged call that Alonso was out at 1st; call was upheld - ground out","2019SLN.EVN.regular.comment.csv",43
+"SLN201904190",16,"Mound Visit","2019SLN.EVN.regular.comment.csv",44
+"SLN201904190",27,"Mound Visit","2019SLN.EVN.regular.comment.csv",45
+"SLN201904190",35,"Mound Visit","2019SLN.EVN.regular.comment.csv",46
+"SLN201904190",42,"Mound Visit","2019SLN.EVN.regular.comment.csv",47
+"SLN201904190",51,"Mound Visit","2019SLN.EVN.regular.comment.csv",48
+"SLN201904190",59,"Mound Visit","2019SLN.EVN.regular.comment.csv",49
+"SLN201904190",60,"$Umpire review ball hit by Thomas; call was overturned - home run not double On-field Delay","2019SLN.EVN.regular.comment.csv",50
+"SLN201904190",64,"Mound Visit","2019SLN.EVN.regular.comment.csv",51
+"SLN201904190",72,"Mound Visit","2019SLN.EVN.regular.comment.csv",52
+"SLN201904190",75,"Mound Visit","2019SLN.EVN.regular.comment.csv",53
+"SLN201904190",78,"Mound Visit","2019SLN.EVN.regular.comment.csv",54
+"SLN201904190",87,"Mound Visit","2019SLN.EVN.regular.comment.csv",55
+"SLN201904200",26,"Mound Visit","2019SLN.EVN.regular.comment.csv",56
+"SLN201904200",45,"Mound Visit","2019SLN.EVN.regular.comment.csv",57
+"SLN201904200",51,"Injury Delay","2019SLN.EVN.regular.comment.csv",58
+"SLN201904200",54,"Mound Visit","2019SLN.EVN.regular.comment.csv",59
+"SLN201904200",57,"$Carpenter left with an injured knee","2019SLN.EVN.regular.comment.csv",60
+"SLN201904200",67,"Injury Delay","2019SLN.EVN.regular.comment.csv",61
+"SLN201904210",20,"Mound Visit","2019SLN.EVN.regular.comment.csv",62
+"SLN201904210",24,"Mound Visit","2019SLN.EVN.regular.comment.csv",63
+"SLN201904210",41,"Mound Visit","2019SLN.EVN.regular.comment.csv",64
+"SLN201904210",58,"Injury Delay","2019SLN.EVN.regular.comment.csv",65
+"SLN201904210",58,"ej,callm001,M,emmep901,Arguing check swing $Cano was hit on hand by pitch and was awarded first base; however on appeal to 3b umpire Emmel it was ruled a half swing strike, so the hit by pitch was overturned; Mets manager Callaway argued the call was ejected by Emmel since arguing balls and strikes is not permissible; Lagares completed the at bat and struck out, which was charged to Cano","2019SLN.EVN.regular.comment.csv",66
+"SLN201904210",60,"Mound Visit","2019SLN.EVN.regular.comment.csv",67
+"SLN201904210",71,"$Mets challenged call that Thomas was out at 1st; call was overturned - ground out","2019SLN.EVN.regular.comment.csv",68
+"SLN201904220",38,"Mound Visit","2019SLN.EVN.regular.comment.csv",69
+"SLN201904220",45,"Mound Visit","2019SLN.EVN.regular.comment.csv",70
+"SLN201904220",54,"$originally scored as double, changed to two-base error on 04-25-2019, changing one run to unearned and another to team unearned","2019SLN.EVN.regular.comment.csv",71
+"SLN201904220",56,"Mound Visit","2019SLN.EVN.regular.comment.csv",72
+"SLN201904220",57,"Mound Visit","2019SLN.EVN.regular.comment.csv",73
+"SLN201904220",59,"Mound Visit","2019SLN.EVN.regular.comment.csv",74
+"SLN201904220",61,"Mound Visit","2019SLN.EVN.regular.comment.csv",75
+"SLN201904220",72,"Injury Delay","2019SLN.EVN.regular.comment.csv",76
+"SLN201904220",79,"Mound Visit","2019SLN.EVN.regular.comment.csv",77
+"SLN201904230",31,"Mound Visit","2019SLN.EVN.regular.comment.csv",78
+"SLN201904230",41,"Mound Visit","2019SLN.EVN.regular.comment.csv",79
+"SLN201904230",43,"Mound Visit","2019SLN.EVN.regular.comment.csv",80
+"SLN201904230",65,"Mound Visit","2019SLN.EVN.regular.comment.csv",81
+"SLN201904230",67,"$Cardinals challenged call that 4th pitch to Fowler was foul in outfield; call was upheld - foul ball","2019SLN.EVN.regular.comment.csv",82
+"SLN201904240",40,"Mound Visit","2019SLN.EVN.regular.comment.csv",83
+"SLN201904240",49,"Mound Visit","2019SLN.EVN.regular.comment.csv",84
+"SLN201904240",55,"Mound Visit","2019SLN.EVN.regular.comment.csv",85
+"SLN201904240",71,"Mound Visit","2019SLN.EVN.regular.comment.csv",86
+"SLN201904240",71,"Mound Visit","2019SLN.EVN.regular.comment.csv",87
+"SLN201904260",29,"Mound Visit","2019SLN.EVN.regular.comment.csv",88
+"SLN201904260",42,"Mound Visit","2019SLN.EVN.regular.comment.csv",89
+"SLN201904260",52,"Mound Visit","2019SLN.EVN.regular.comment.csv",90
+"SLN201904260",55,"Mound Visit","2019SLN.EVN.regular.comment.csv",91
+"SLN201904260",57,"Mound Visit","2019SLN.EVN.regular.comment.csv",92
+"SLN201904260",63,"Mound Visit","2019SLN.EVN.regular.comment.csv",93
+"SLN201904260",73,"Mound Visit","2019SLN.EVN.regular.comment.csv",94
+"SLN201904260",77,"Mound Visit","2019SLN.EVN.regular.comment.csv",95
+"SLN201904270",40,"Mound Visit","2019SLN.EVN.regular.comment.csv",96
+"SLN201904270",47,"Mound Visit","2019SLN.EVN.regular.comment.csv",97
+"SLN201904270",54,"Mound Visit","2019SLN.EVN.regular.comment.csv",98
+"SLN201904280",28,"Mound Visit","2019SLN.EVN.regular.comment.csv",99
+"SLN201904280",54,"Mound Visit","2019SLN.EVN.regular.comment.csv",100
+"SLN201904280",55,"Mound Visit","2019SLN.EVN.regular.comment.csv",101
+"SLN201904280",59,"Mound Visit","2019SLN.EVN.regular.comment.csv",102
+"SLN201904280",63,"$Cardinals challenged call that Fowler was out at 3rd; call was upheld - double and out stretching","2019SLN.EVN.regular.comment.csv",103
+"SLN201904280",69,"Mound Visit","2019SLN.EVN.regular.comment.csv",104
+"SLN201905060",28,"Mound Visit","2019SLN.EVN.regular.comment.csv",105
+"SLN201905060",35,"Mound Visit","2019SLN.EVN.regular.comment.csv",106
+"SLN201905060",36,"Mound Visit","2019SLN.EVN.regular.comment.csv",107
+"SLN201905060",61,"Mound Visit","2019SLN.EVN.regular.comment.csv",108
+"SLN201905060",67,"Mound Visit","2019SLN.EVN.regular.comment.csv",109
+"SLN201905070",12,"Mound Visit","2019SLN.EVN.regular.comment.csv",110
+"SLN201905070",13,"$Phillies challenged call that Hernandez was out at 2nd; call was overturned - force out","2019SLN.EVN.regular.comment.csv",111
+"SLN201905070",14,"Mound Visit","2019SLN.EVN.regular.comment.csv",112
+"SLN201905070",55,"Mound Visit","2019SLN.EVN.regular.comment.csv",113
+"SLN201905070",56,"$Fan interference","2019SLN.EVN.regular.comment.csv",114
+"SLN201905080",33,"Mound Visit","2019SLN.EVN.regular.comment.csv",115
+"SLN201905080",65,"Mound Visit","2019SLN.EVN.regular.comment.csv",116
+"SLN201905090",5,"Injury Delay","2019SLN.EVN.regular.comment.csv",117
+"SLN201905090",11,"Injury Delay","2019SLN.EVN.regular.comment.csv",118
+"SLN201905090",16,"Mound Visit","2019SLN.EVN.regular.comment.csv",119
+"SLN201905090",30,"Mound Visit","2019SLN.EVN.regular.comment.csv",120
+"SLN201905090",37,"Mound Visit","2019SLN.EVN.regular.comment.csv",121
+"SLN201905090",40,"Mound Visit","2019SLN.EVN.regular.comment.csv",122
+"SLN201905090",41,"Mound Visit","2019SLN.EVN.regular.comment.csv",123
+"SLN201905090",55,"Injury Delay","2019SLN.EVN.regular.comment.csv",124
+"SLN201905090",57,"Mound Visit","2019SLN.EVN.regular.comment.csv",125
+"SLN201905090",60,"Mound Visit","2019SLN.EVN.regular.comment.csv",126
+"SLN201905090",66,"Mound Visit","2019SLN.EVN.regular.comment.csv",127
+"SLN201905090",72,"Mound Visit","2019SLN.EVN.regular.comment.csv",128
+"SLN201905100",9,"Injury Delay","2019SLN.EVN.regular.comment.csv",129
+"SLN201905100",24,"Mound Visit","2019SLN.EVN.regular.comment.csv",130
+"SLN201905100",29,"Mound Visit","2019SLN.EVN.regular.comment.csv",131
+"SLN201905100",32,"Mound Visit","2019SLN.EVN.regular.comment.csv",132
+"SLN201905100",54,"Mound Visit","2019SLN.EVN.regular.comment.csv",133
+"SLN201905100",58,"Mound Visit","2019SLN.EVN.regular.comment.csv",134
+"SLN201905100",62,"Mound Visit","2019SLN.EVN.regular.comment.csv",135
+"SLN201905100",68,"Mound Visit Mound Visit","2019SLN.EVN.regular.comment.csv",136
+"SLN201905110",50,"Mound Visit","2019SLN.EVN.regular.comment.csv",137
+"SLN201905110",51,"$Cardinals challenged call that Fowler was out at 1st; call was upheld - ground out","2019SLN.EVN.regular.comment.csv",138
+"SLN201905110",54,"Injury Delay","2019SLN.EVN.regular.comment.csv",139
+"SLN201905110",59,"Mound Visit","2019SLN.EVN.regular.comment.csv",140
+"SLN201905110",60,"Mound Visit","2019SLN.EVN.regular.comment.csv",141
+"SLN201905120",6,"Mound Visit","2019SLN.EVN.regular.comment.csv",142
+"SLN201905120",16,"Mound Visit","2019SLN.EVN.regular.comment.csv",143
+"SLN201905120",44,"Mound Visit","2019SLN.EVN.regular.comment.csv",144
+"SLN201905120",62,"Mound Visit","2019SLN.EVN.regular.comment.csv",145
+"SLN201905120",72,"Mound Visit","2019SLN.EVN.regular.comment.csv",146
+"SLN201905120",74,"Injury Delay","2019SLN.EVN.regular.comment.csv",147
+"SLN201905120",77,"Mound Visit","2019SLN.EVN.regular.comment.csv",148
+"SLN201905120",81,"Mound Visit","2019SLN.EVN.regular.comment.csv",149
+"SLN201905221",21,"Mound Visit","2019SLN.EVN.regular.comment.csv",150
+"SLN201905221",40,"Mound Visit","2019SLN.EVN.regular.comment.csv",151
+"SLN201905221",53,"Mound Visit","2019SLN.EVN.regular.comment.csv",152
+"SLN201905221",54,"Mound Visit","2019SLN.EVN.regular.comment.csv",153
+"SLN201905221",58,"Injury Delay","2019SLN.EVN.regular.comment.csv",154
+"SLN201905221",65,"Mound Visit","2019SLN.EVN.regular.comment.csv",155
+"SLN201905222",8,"Mound Visit","2019SLN.EVN.regular.comment.csv",156
+"SLN201905222",11,"Injury Delay","2019SLN.EVN.regular.comment.csv",157
+"SLN201905222",22,"Mound Visit","2019SLN.EVN.regular.comment.csv",158
+"SLN201905222",29,"Mound Visit","2019SLN.EVN.regular.comment.csv",159
+"SLN201905222",56,"Mound Visit","2019SLN.EVN.regular.comment.csv",160
+"SLN201905222",64,"Mound Visit","2019SLN.EVN.regular.comment.csv",161
+"SLN201905222",67,"Mound Visit","2019SLN.EVN.regular.comment.csv",162
+"SLN201905222",68,"Mound Visit","2019SLN.EVN.regular.comment.csv",163
+"SLN201905240",22,"$Cardinals challenged call that Fowler was out at 2nd; call was overturned - single","2019SLN.EVN.regular.comment.csv",164
+"SLN201905240",51,"Mound Visit","2019SLN.EVN.regular.comment.csv",165
+"SLN201905240",52,"Mound Visit","2019SLN.EVN.regular.comment.csv",166
+"SLN201905240",59,"Mound Visit","2019SLN.EVN.regular.comment.csv",167
+"SLN201905240",68,"Injury Delay","2019SLN.EVN.regular.comment.csv",168
+"SLN201905250",49,"Mound Visit","2019SLN.EVN.regular.comment.csv",169
+"SLN201905250",53,"Mound Visit","2019SLN.EVN.regular.comment.csv",170
+"SLN201905250",61,"Injury Delay","2019SLN.EVN.regular.comment.csv",171
+"SLN201905250",62,"$Cardinals challenged call that DeJong was out at 1st to complete double play; call was overturned - force out, no DP","2019SLN.EVN.regular.comment.csv",172
+"SLN201905250",64,"Injury Delay Mound Visit","2019SLN.EVN.regular.comment.csv",173
+"SLN201905260",11,"Injury Delay","2019SLN.EVN.regular.comment.csv",174
+"SLN201905260",24,"Mound Visit","2019SLN.EVN.regular.comment.csv",175
+"SLN201905260",25,"Mound Visit","2019SLN.EVN.regular.comment.csv",176
+"SLN201905260",44,"Injury Delay Mound Visit","2019SLN.EVN.regular.comment.csv",177
+"SLN201905260",62,"Mound Visit","2019SLN.EVN.regular.comment.csv",178
+"SLN201905260",63,"Mound Visit","2019SLN.EVN.regular.comment.csv",179
+"SLN201905260",73,"Mound Visit","2019SLN.EVN.regular.comment.csv",180
+"SLN201905260",74,"Mound Visit $Cardinals challenged call that Riley was safe at 2nd; call was upheld - safe advancing","2019SLN.EVN.regular.comment.csv",181
+"SLN201905260",76,"Mound Visit","2019SLN.EVN.regular.comment.csv",182
+"SLN201905260",82,"Mound Visit","2019SLN.EVN.regular.comment.csv",183
+"SLN201905260",85,"Mound Visit","2019SLN.EVN.regular.comment.csv",184
+"SLN201905260",87,"Mound Visit","2019SLN.EVN.regular.comment.csv",185
+"SLN201905260",91,"Mound Visit","2019SLN.EVN.regular.comment.csv",186
+"SLN201905310",9,"Mound Visit","2019SLN.EVN.regular.comment.csv",187
+"SLN201905310",40,"Mound Visit","2019SLN.EVN.regular.comment.csv",188
+"SLN201905310",52,"Mound Visit","2019SLN.EVN.regular.comment.csv",189
+"SLN201905310",60,"On-field Delay","2019SLN.EVN.regular.comment.csv",190
+"SLN201905310",64,"Mound Visit","2019SLN.EVN.regular.comment.csv",191
+"SLN201905310",67,"Mound Visit","2019SLN.EVN.regular.comment.csv",192
+"SLN201905310",72,"Mound Visit","2019SLN.EVN.regular.comment.csv",193
+"SLN201905310",73,"Mound Visit","2019SLN.EVN.regular.comment.csv",194
+"SLN201905310",76,"Mound Visit","2019SLN.EVN.regular.comment.csv",195
+"SLN201905310",78,"Mound Visit","2019SLN.EVN.regular.comment.csv",196
+"SLN201906010",22,"Mound Visit","2019SLN.EVN.regular.comment.csv",197
+"SLN201906010",25,"Mound Visit","2019SLN.EVN.regular.comment.csv",198
+"SLN201906010",42,"On-field Delay","2019SLN.EVN.regular.comment.csv",199
+"SLN201906010",49,"Mound Visit","2019SLN.EVN.regular.comment.csv",200
+"SLN201906010",52,"Mound Visit","2019SLN.EVN.regular.comment.csv",201
+"SLN201906010",53,"Mound Visit","2019SLN.EVN.regular.comment.csv",202
+"SLN201906010",56,"On-field Delay Injury Delay","2019SLN.EVN.regular.comment.csv",203
+"SLN201906010",64,"Mound Visit","2019SLN.EVN.regular.comment.csv",204
+"SLN201906010",71,"Mound Visit","2019SLN.EVN.regular.comment.csv",205
+"SLN201906020",29,"Mound Visit","2019SLN.EVN.regular.comment.csv",206
+"SLN201906020",33,"Mound Visit","2019SLN.EVN.regular.comment.csv",207
+"SLN201906020",45,"Mound Visit","2019SLN.EVN.regular.comment.csv",208
+"SLN201906020",56,"Mound Visit","2019SLN.EVN.regular.comment.csv",209
+"SLN201906020",57,"Mound Visit","2019SLN.EVN.regular.comment.csv",210
+"SLN201906020",58,"$Cubs challenged call that Wong was safe at 2nd; call was upheld - stolen base","2019SLN.EVN.regular.comment.csv",211
+"SLN201906020",62,"Mound Visit","2019SLN.EVN.regular.comment.csv",212
+"SLN201906020",63,"Mound Visit","2019SLN.EVN.regular.comment.csv",213
+"SLN201906040",14,"Mound Visit","2019SLN.EVN.regular.comment.csv",214
+"SLN201906040",19,"Mound Visit","2019SLN.EVN.regular.comment.csv",215
+"SLN201906040",23,"$Cardinals challenged call that Votto was safe at 2nd; call was upheld - safe advancing on fly ball On-field Delay","2019SLN.EVN.regular.comment.csv",216
+"SLN201906040",32,"Mound Visit","2019SLN.EVN.regular.comment.csv",217
+"SLN201906040",43,"Mound Visit","2019SLN.EVN.regular.comment.csv",218
+"SLN201906040",68,"Injury Delay","2019SLN.EVN.regular.comment.csv",219
+"SLN201906040",71,"Mound Visit","2019SLN.EVN.regular.comment.csv",220
+"SLN201906060",4,"Mound Visit","2019SLN.EVN.regular.comment.csv",221
+"SLN201906060",22,"Mound Visit","2019SLN.EVN.regular.comment.csv",222
+"SLN201906060",34,"Mound Visit","2019SLN.EVN.regular.comment.csv",223
+"SLN201906060",41,"Injury Delay","2019SLN.EVN.regular.comment.csv",224
+"SLN201906060",56,"Mound Visit","2019SLN.EVN.regular.comment.csv",225
+"SLN201906060",57,"Mound Visit","2019SLN.EVN.regular.comment.csv",226
+"SLN201906060",58,"Mound Visit","2019SLN.EVN.regular.comment.csv",227
+"SLN201906060",68,"Mound Visit","2019SLN.EVN.regular.comment.csv",228
+"SLN201906170",43,"Mound Visit","2019SLN.EVN.regular.comment.csv",229
+"SLN201906170",59,"Mound Visit","2019SLN.EVN.regular.comment.csv",230
+"SLN201906180",50,"Mound Visit","2019SLN.EVN.regular.comment.csv",231
+"SLN201906180",52,"Mound Visit","2019SLN.EVN.regular.comment.csv",232
+"SLN201906180",53,"Mound Visit","2019SLN.EVN.regular.comment.csv",233
+"SLN201906180",62,"Mound Visit","2019SLN.EVN.regular.comment.csv",234
+"SLN201906180",64,"Mound Visit","2019SLN.EVN.regular.comment.csv",235
+"SLN201906190",35,"$Marlins challenged call that Edman was safe at 3rd; call was upheld - stolen base","2019SLN.EVN.regular.comment.csv",236
+"SLN201906190",39,"Mound Visit","2019SLN.EVN.regular.comment.csv",237
+"SLN201906190",43,"Mound Visit","2019SLN.EVN.regular.comment.csv",238
+"SLN201906190",44,"Mound Visit","2019SLN.EVN.regular.comment.csv",239
+"SLN201906190",45,"Mound Visit","2019SLN.EVN.regular.comment.csv",240
+"SLN201906190",58,"Mound Visit Mound Visit","2019SLN.EVN.regular.comment.csv",241
+"SLN201906190",59,"Mound Visit","2019SLN.EVN.regular.comment.csv",242
+"SLN201906190",73,"Mound Visit Mound Visit","2019SLN.EVN.regular.comment.csv",243
+"SLN201906190",74,"Mound Visit","2019SLN.EVN.regular.comment.csv",244
+"SLN201906200",25,"Mound Visit","2019SLN.EVN.regular.comment.csv",245
+"SLN201906200",35,"$Cooper left with injured arm","2019SLN.EVN.regular.comment.csv",246
+"SLN201906200",39,"Mound Visit","2019SLN.EVN.regular.comment.csv",247
+"SLN201906200",45,"Mound Visit","2019SLN.EVN.regular.comment.csv",248
+"SLN201906200",46,"Mound Visit","2019SLN.EVN.regular.comment.csv",249
+"SLN201906200",53,"Mound Visit","2019SLN.EVN.regular.comment.csv",250
+"SLN201906200",56,"$Marlins challenged call that Rojas was out going back to 1st; call was upheld - out","2019SLN.EVN.regular.comment.csv",251
+"SLN201906200",60,"Mound Visit","2019SLN.EVN.regular.comment.csv",252
+"SLN201906200",62,"Mound Visit","2019SLN.EVN.regular.comment.csv",253
+"SLN201906200",64,"Mound Visit","2019SLN.EVN.regular.comment.csv",254
+"SLN201906200",73,"Mound Visit","2019SLN.EVN.regular.comment.csv",255
+"SLN201906200",79,"$Alfaro left with injured hand","2019SLN.EVN.regular.comment.csv",256
+"SLN201906200",82,"Mound Visit Injury Delay","2019SLN.EVN.regular.comment.csv",257
+"SLN201906200",84,"On-field Delay","2019SLN.EVN.regular.comment.csv",258
+"SLN201906200",85,"Mound Visit","2019SLN.EVN.regular.comment.csv",259
+"SLN201906200",100,"Injury Delay Mound Visit $Umpire review of call that Martinez was safe at home; call was upheld - safe","2019SLN.EVN.regular.comment.csv",260
+"SLN201906200",101,"$Cardinals challenged call that Flaherty was out at 2nd; call was upheld - out on pickoff","2019SLN.EVN.regular.comment.csv",261
+"SLN201906210",4,"On-field Delay","2019SLN.EVN.regular.comment.csv",262
+"SLN201906210",5,"On-field Delay","2019SLN.EVN.regular.comment.csv",263
+"SLN201906210",16,"Injury Delay","2019SLN.EVN.regular.comment.csv",264
+"SLN201906210",23,"Mound Visit","2019SLN.EVN.regular.comment.csv",265
+"SLN201906210",28,"Mound Visit","2019SLN.EVN.regular.comment.csv",266
+"SLN201906210",31,"Mound Visit","2019SLN.EVN.regular.comment.csv",267
+"SLN201906210",47,"Mound Visit","2019SLN.EVN.regular.comment.csv",268
+"SLN201906210",50,"Mound Visit","2019SLN.EVN.regular.comment.csv",269
+"SLN201906210",54,"Mound Visit","2019SLN.EVN.regular.comment.csv",270
+"SLN201906210",55,"Mound Visit","2019SLN.EVN.regular.comment.csv",271
+"SLN201906210",65,"Mound Visit","2019SLN.EVN.regular.comment.csv",272
+"SLN201906210",67,"Mound Visit","2019SLN.EVN.regular.comment.csv",273
+"SLN201906210",68,"Mound Visit","2019SLN.EVN.regular.comment.csv",274
+"SLN201906220",3,"Injury Delay","2019SLN.EVN.regular.comment.csv",275
+"SLN201906220",36,"Mound Visit","2019SLN.EVN.regular.comment.csv",276
+"SLN201906220",53,"Mound Visit","2019SLN.EVN.regular.comment.csv",277
+"SLN201906220",58,"Mound Visit","2019SLN.EVN.regular.comment.csv",278
+"SLN201906220",67,"Mound Visit Injury Delay","2019SLN.EVN.regular.comment.csv",279
+"SLN201906230",4,"On-field Delay","2019SLN.EVN.regular.comment.csv",280
+"SLN201906230",20,"On-field Delay","2019SLN.EVN.regular.comment.csv",281
+"SLN201906230",22,"Mound Visit","2019SLN.EVN.regular.comment.csv",282
+"SLN201906230",26,"On-field Delay","2019SLN.EVN.regular.comment.csv",283
+"SLN201906230",36,"On-field Delay","2019SLN.EVN.regular.comment.csv",284
+"SLN201906230",41,"Mound Visit","2019SLN.EVN.regular.comment.csv",285
+"SLN201906230",43,"Mound Visit","2019SLN.EVN.regular.comment.csv",286
+"SLN201906230",44,"Mound Visit","2019SLN.EVN.regular.comment.csv",287
+"SLN201906230",45,"Mound Visit","2019SLN.EVN.regular.comment.csv",288
+"SLN201906230",51,"Injury Delay","2019SLN.EVN.regular.comment.csv",289
+"SLN201906230",53,"On-field Delay","2019SLN.EVN.regular.comment.csv",290
+"SLN201906230",68,"Mound Visit","2019SLN.EVN.regular.comment.csv",291
+"SLN201906230",69,"On-field Delay","2019SLN.EVN.regular.comment.csv",292
+"SLN201906230",73,"Mound Visit","2019SLN.EVN.regular.comment.csv",293
+"SLN201906230",82,"Mound Visit","2019SLN.EVN.regular.comment.csv",294
+"SLN201906230",86,"Mound Visit","2019SLN.EVN.regular.comment.csv",295
+"SLN201906250",18,"Mound Visit","2019SLN.EVN.regular.comment.csv",296
+"SLN201906250",35,"Mound Visit","2019SLN.EVN.regular.comment.csv",297
+"SLN201906250",42,"Mound Visit","2019SLN.EVN.regular.comment.csv",298
+"SLN201906250",45,"Mound Visit","2019SLN.EVN.regular.comment.csv",299
+"SLN201906250",72,"Mound Visit","2019SLN.EVN.regular.comment.csv",300
+"SLN201906260",11,"Injury Delay","2019SLN.EVN.regular.comment.csv",301
+"SLN201906260",52,"Mound Visit","2019SLN.EVN.regular.comment.csv",302
+"SLN201907120",30,"$Originally scored as single and E7, changed to double on 07-16-2019","2019SLN.EVN.regular.comment.csv",303
+"SLN201907120",31,"Injury Delay","2019SLN.EVN.regular.comment.csv",304
+"SLN201907120",45,"Mound Visit","2019SLN.EVN.regular.comment.csv",305
+"SLN201907120",46,"Mound Visit","2019SLN.EVN.regular.comment.csv",306
+"SLN201907120",49,"Mound Visit","2019SLN.EVN.regular.comment.csv",307
+"SLN201907120",57,"Mound Visit","2019SLN.EVN.regular.comment.csv",308
+"SLN201907120",58,"$Cardinals challenged call that Wong was out at 2nd; call was overturned - safe on error","2019SLN.EVN.regular.comment.csv",309
+"SLN201907120",61,"Mound Visit Mound Visit","2019SLN.EVN.regular.comment.csv",310
+"SLN201907120",68,"Mound Visit","2019SLN.EVN.regular.comment.csv",311
+"SLN201907130",10,"Mound Visit","2019SLN.EVN.regular.comment.csv",312
+"SLN201907130",14,"Mound Visit","2019SLN.EVN.regular.comment.csv",313
+"SLN201907130",15,"Mound Visit","2019SLN.EVN.regular.comment.csv",314
+"SLN201907130",55,"Mound Visit","2019SLN.EVN.regular.comment.csv",315
+"SLN201907130",66,"Mound Visit","2019SLN.EVN.regular.comment.csv",316
+"SLN201907130",67,"Mound Visit","2019SLN.EVN.regular.comment.csv",317
+"SLN201907140",27,"Mound Visit","2019SLN.EVN.regular.comment.csv",318
+"SLN201907140",44,"Mound Visit","2019SLN.EVN.regular.comment.csv",319
+"SLN201907140",55,"Mound Visit","2019SLN.EVN.regular.comment.csv",320
+"SLN201907140",59,"Mound Visit","2019SLN.EVN.regular.comment.csv",321
+"SLN201907140",71,"Mound Visit","2019SLN.EVN.regular.comment.csv",322
+"SLN201907140",73,"Mound Visit","2019SLN.EVN.regular.comment.csv",323
+"SLN201907150",19,"$Cardinals challenged call that Carpenter was out at 1st; call was overturned - single","2019SLN.EVN.regular.comment.csv",324
+"SLN201907150",22,"Mound Visit","2019SLN.EVN.regular.comment.csv",325
+"SLN201907150",26,"$Cardinals challenged call that Reynolds was safe at 2nd; call was upheld - double","2019SLN.EVN.regular.comment.csv",326
+"SLN201907150",42,"Mound Visit","2019SLN.EVN.regular.comment.csv",327
+"SLN201907150",54,"Injury Delay","2019SLN.EVN.regular.comment.csv",328
+"SLN201907150",54,"$Carpenter left after fouling 7th pitch off foot; X-rays negative; Edman completed strikeout charged to Carpenter","2019SLN.EVN.regular.comment.csv",329
+"SLN201907150",59,"Mound Visit","2019SLN.EVN.regular.comment.csv",330
+"SLN201907160",15,"Mound Visit","2019SLN.EVN.regular.comment.csv",331
+"SLN201907160",23,"On-field Delay","2019SLN.EVN.regular.comment.csv",332
+"SLN201907160",33,"$Cardinals challenged call that Newman was safe at 2nd; call was overturned - caught stealing","2019SLN.EVN.regular.comment.csv",333
+"SLN201907160",37,"On-field Delay Mound Visit","2019SLN.EVN.regular.comment.csv",334
+"SLN201907160",38,"On-field Delay $Pirates challenged call that Flaherty was safe at 3rd; call was overturned - caught stealing","2019SLN.EVN.regular.comment.csv",335
+"SLN201907160",46,"Mound Visit","2019SLN.EVN.regular.comment.csv",336
+"SLN201907160",49,"Mound Visit","2019SLN.EVN.regular.comment.csv",337
+"SLN201907160",52,"Mound Visit","2019SLN.EVN.regular.comment.csv",338
+"SLN201907160",64,"Mound Visit","2019SLN.EVN.regular.comment.csv",339
+"SLN201907170",18,"Mound Visit","2019SLN.EVN.regular.comment.csv",340
+"SLN201907170",20,"Mound Visit","2019SLN.EVN.regular.comment.csv",341
+"SLN201907170",32,"Mound Visit","2019SLN.EVN.regular.comment.csv",342
+"SLN201907170",37,"Mound Visit","2019SLN.EVN.regular.comment.csv",343
+"SLN201907170",60,"Mound Visit","2019SLN.EVN.regular.comment.csv",344
+"SLN201907170",64,"$Pirates challenged call that Cabrera was not hit by pitch; call was upheld - ball, not hit by pitch","2019SLN.EVN.regular.comment.csv",345
+"SLN201907170",71,"$Cardinals challenged call that Frazier did not commit slide interference; call was upheld - force out, no interference","2019SLN.EVN.regular.comment.csv",346
+"SLN201907170",74,"Mound Visit Injury Delay","2019SLN.EVN.regular.comment.csv",347
+"SLN201907260",26,"Mound Visit","2019SLN.EVN.regular.comment.csv",348
+"SLN201907260",45,"Mound Visit","2019SLN.EVN.regular.comment.csv",349
+"SLN201907260",54,"Mound Visit","2019SLN.EVN.regular.comment.csv",350
+"SLN201907260",57,"Mound Visit","2019SLN.EVN.regular.comment.csv",351
+"SLN201907260",58,"Mound Visit","2019SLN.EVN.regular.comment.csv",352
+"SLN201907260",60,"Injury Delay Mound Visit","2019SLN.EVN.regular.comment.csv",353
+"SLN201907260",63,"Mound Visit","2019SLN.EVN.regular.comment.csv",354
+"SLN201907260",65,"$Astros challenged call that O'Neill was safe at 1st; call was upheld - safe on pickoff attempt","2019SLN.EVN.regular.comment.csv",355
+"SLN201907260",71,"Mound Visit","2019SLN.EVN.regular.comment.csv",356
+"SLN201907260",72,"Mound Visit","2019SLN.EVN.regular.comment.csv",357
+"SLN201907270",2,"Injury Delay","2019SLN.EVN.regular.comment.csv",358
+"SLN201907270",20,"Mound Visit","2019SLN.EVN.regular.comment.csv",359
+"SLN201907270",21,"Mound Visit","2019SLN.EVN.regular.comment.csv",360
+"SLN201907270",52,"Mound Visit","2019SLN.EVN.regular.comment.csv",361
+"SLN201907270",58,"Mound Visit","2019SLN.EVN.regular.comment.csv",362
+"SLN201907270",63,"Mound Visit","2019SLN.EVN.regular.comment.csv",363
+"SLN201907270",70,"Injury Delay","2019SLN.EVN.regular.comment.csv",364
+"SLN201907270",78,"Mound Visit","2019SLN.EVN.regular.comment.csv",365
+"SLN201907280",8,"Mound Visit","2019SLN.EVN.regular.comment.csv",366
+"SLN201907280",40,"Mound Visit","2019SLN.EVN.regular.comment.csv",367
+"SLN201907280",43,"Mound Visit","2019SLN.EVN.regular.comment.csv",368
+"SLN201907280",50,"Mound Visit","2019SLN.EVN.regular.comment.csv",369
+"SLN201907280",53,"Mound Visit","2019SLN.EVN.regular.comment.csv",370
+"SLN201907280",68,"Mound Visit","2019SLN.EVN.regular.comment.csv",371
+"SLN201907280",73,"Mound Visit","2019SLN.EVN.regular.comment.csv",372
+"SLN201907300",41,"Mound Visit","2019SLN.EVN.regular.comment.csv",373
+"SLN201907300",45,"Mound Visit","2019SLN.EVN.regular.comment.csv",374
+"SLN201907300",47,"Mound Visit","2019SLN.EVN.regular.comment.csv",375
+"SLN201907300",56,"Mound Visit","2019SLN.EVN.regular.comment.csv",376
+"SLN201907300",65,"Mound Visit","2019SLN.EVN.regular.comment.csv",377
+"SLN201907310",20,"On-field Delay","2019SLN.EVN.regular.comment.csv",378
+"SLN201907310",31,"$Cubs challenged call that O'Neill was safe at 1st; call was upheld - single","2019SLN.EVN.regular.comment.csv",379
+"SLN201907310",43,"Mound Visit","2019SLN.EVN.regular.comment.csv",380
+"SLN201907310",45,"Mound Visit","2019SLN.EVN.regular.comment.csv",381
+"SLN201907310",60,"On-field Delay","2019SLN.EVN.regular.comment.csv",382
+"SLN201907310",61,"Mound Visit $Umpire review of ball hit by Baez; call overturned - double","2019SLN.EVN.regular.comment.csv",383
+"SLN201907310",65,"Mound Visit","2019SLN.EVN.regular.comment.csv",384
+"SLN201907310",72,"Mound Visit","2019SLN.EVN.regular.comment.csv",385
+"SLN201907310",73,"Mound Visit","2019SLN.EVN.regular.comment.csv",386
+"SLN201908010",46,"Mound Visit","2019SLN.EVN.regular.comment.csv",387
+"SLN201908010",59,"Mound Visit","2019SLN.EVN.regular.comment.csv",388
+"SLN201908090",10,"Injury Delay","2019SLN.EVN.regular.comment.csv",389
+"SLN201908090",24,"$Pirates challenged clal that Edman was safe at 3rd; call upheld - triple","2019SLN.EVN.regular.comment.csv",390
+"SLN201908090",29,"Mound Visit","2019SLN.EVN.regular.comment.csv",391
+"SLN201908090",34,"Mound Visit","2019SLN.EVN.regular.comment.csv",392
+"SLN201908090",45,"Mound Visit","2019SLN.EVN.regular.comment.csv",393
+"SLN201908090",52,"Mound Visit","2019SLN.EVN.regular.comment.csv",394
+"SLN201908090",53,"Mound Visit","2019SLN.EVN.regular.comment.csv",395
+"SLN201908090",60,"Mound Visit","2019SLN.EVN.regular.comment.csv",396
+"SLN201908090",65,"Mound Visit","2019SLN.EVN.regular.comment.csv",397
+"SLN201908090",66,"Mound Visit","2019SLN.EVN.regular.comment.csv",398
+"SLN201908100",7,"Mound Visit","2019SLN.EVN.regular.comment.csv",399
+"SLN201908100",11,"On-field Delay","2019SLN.EVN.regular.comment.csv",400
+"SLN201908100",27,"Mound Visit","2019SLN.EVN.regular.comment.csv",401
+"SLN201908100",46,"$Cardinals challenged call that Fowler was out at 2nd; call upheld - single and out stretching","2019SLN.EVN.regular.comment.csv",402
+"SLN201908100",48,"Mound Visit","2019SLN.EVN.regular.comment.csv",403
+"SLN201908100",49,"Mound Visit","2019SLN.EVN.regular.comment.csv",404
+"SLN201908100",64,"Mound Visit","2019SLN.EVN.regular.comment.csv",405
+"SLN201908110",17,"$Cardinals challenged call that Thomas was out at 1st; call upheld - ground out","2019SLN.EVN.regular.comment.csv",406
+"SLN201908110",20,"Mound Visit","2019SLN.EVN.regular.comment.csv",407
+"SLN201908110",32,"Mound Visit","2019SLN.EVN.regular.comment.csv",408
+"SLN201908110",35,"Mound Visit","2019SLN.EVN.regular.comment.csv",409
+"SLN201908110",36,"$Martinez left with an injured shoulder","2019SLN.EVN.regular.comment.csv",410
+"SLN201908110",38,"Mound Visit","2019SLN.EVN.regular.comment.csv",411
+"SLN201908110",47,"Mound Visit","2019SLN.EVN.regular.comment.csv",412
+"SLN201908110",52,"Mound Visit","2019SLN.EVN.regular.comment.csv",413
+"SLN201908110",56,"Mound Visit","2019SLN.EVN.regular.comment.csv",414
+"SLN201908110",63,"$Pirates challenged call that Fowler was safe at 1st; call overturned - ground out","2019SLN.EVN.regular.comment.csv",415
+"SLN201908110",65,"Mound Visit","2019SLN.EVN.regular.comment.csv",416
+"SLN201908110",70,"Mound Visit","2019SLN.EVN.regular.comment.csv",417
+"SLN201908110",79,"Mound Visit","2019SLN.EVN.regular.comment.csv",418
+"SLN201908190",40,"Mound Visit","2019SLN.EVN.regular.comment.csv",419
+"SLN201908190",47,"Mound Visit","2019SLN.EVN.regular.comment.csv",420
+"SLN201908190",48,"Mound Visit","2019SLN.EVN.regular.comment.csv",421
+"SLN201908190",56,"Mound Visit","2019SLN.EVN.regular.comment.csv",422
+"SLN201908200",26,"Mound Visit","2019SLN.EVN.regular.comment.csv",423
+"SLN201908200",30,"Mound Visit","2019SLN.EVN.regular.comment.csv",424
+"SLN201908200",31,"Mound Visit","2019SLN.EVN.regular.comment.csv",425
+"SLN201908200",33,"Mound Visit","2019SLN.EVN.regular.comment.csv",426
+"SLN201908200",43,"Mound Visit","2019SLN.EVN.regular.comment.csv",427
+"SLN201908200",46,"Mound Visit","2019SLN.EVN.regular.comment.csv",428
+"SLN201908200",51,"Mound Visit","2019SLN.EVN.regular.comment.csv",429
+"SLN201908200",52,"Mound Visit","2019SLN.EVN.regular.comment.csv",430
+"SLN201908200",55,"Mound Visit","2019SLN.EVN.regular.comment.csv",431
+"SLN201908200",64,"Mound Visit","2019SLN.EVN.regular.comment.csv",432
+"SLN201908200",68,"Mound Visit","2019SLN.EVN.regular.comment.csv",433
+"SLN201908210",3,"Mound Visit","2019SLN.EVN.regular.comment.csv",434
+"SLN201908210",32,"Mound Visit","2019SLN.EVN.regular.comment.csv",435
+"SLN201908210",35,"Mound Visit","2019SLN.EVN.regular.comment.csv",436
+"SLN201908210",49,"Injury Delay","2019SLN.EVN.regular.comment.csv",437
+"SLN201908210",51,"Mound Visit","2019SLN.EVN.regular.comment.csv",438
+"SLN201908210",59,"Mound Visit","2019SLN.EVN.regular.comment.csv",439
+"SLN201908210",60,"Mound Visit","2019SLN.EVN.regular.comment.csv",440
+"SLN201908210",67,"Mound Visit","2019SLN.EVN.regular.comment.csv",441
+"SLN201908210",71,"$Game called for rain","2019SLN.EVN.regular.comment.csv",442
+"SLN201908220",12,"On-field Delay","2019SLN.EVN.regular.comment.csv",443
+"SLN201908220",13,"Injury Delay","2019SLN.EVN.regular.comment.csv",444
+"SLN201908220",30,"$Originally scored as E6, changed to single on 08-29-2019","2019SLN.EVN.regular.comment.csv",445
+"SLN201908220",50,"Mound Visit","2019SLN.EVN.regular.comment.csv",446
+"SLN201908220",57,"Mound Visit","2019SLN.EVN.regular.comment.csv",447
+"SLN201908220",61,"Mound Visit","2019SLN.EVN.regular.comment.csv",448
+"SLN201908220",66,"Mound Visit","2019SLN.EVN.regular.comment.csv",449
+"SLN201908220",67,"Mound Visit","2019SLN.EVN.regular.comment.csv",450
+"SLN201908220",70,"Mound Visit","2019SLN.EVN.regular.comment.csv",451
+"SLN201908220",71,"Mound Visit","2019SLN.EVN.regular.comment.csv",452
+"SLN201908230",23,"Mound Visit","2019SLN.EVN.regular.comment.csv",453
+"SLN201908230",27,"Injury Delay","2019SLN.EVN.regular.comment.csv",454
+"SLN201908230",31,"Mound Visit","2019SLN.EVN.regular.comment.csv",455
+"SLN201908230",42,"Mound Visit","2019SLN.EVN.regular.comment.csv",456
+"SLN201908230",50,"Mound Visit","2019SLN.EVN.regular.comment.csv",457
+"SLN201908230",55,"Mound Visit","2019SLN.EVN.regular.comment.csv",458
+"SLN201908230",76,"Mound Visit","2019SLN.EVN.regular.comment.csv",459
+"SLN201908240",29,"Mound Visit","2019SLN.EVN.regular.comment.csv",460
+"SLN201908240",40,"Mound Visit","2019SLN.EVN.regular.comment.csv",461
+"SLN201908240",41,"Mound Visit","2019SLN.EVN.regular.comment.csv",462
+"SLN201908240",54,"Mound Visit","2019SLN.EVN.regular.comment.csv",463
+"SLN201908240",55,"ej,dazay001,P,emmep901,Called strike 3 $Daza ejected by HP umpire Emmel for arguing strike 3","2019SLN.EVN.regular.comment.csv",464
+"SLN201908240",55,"Injury Delay","2019SLN.EVN.regular.comment.csv",465
+"SLN201908250",19,"Injury Delay","2019SLN.EVN.regular.comment.csv",466
+"SLN201908250",20,"Mound Visit","2019SLN.EVN.regular.comment.csv",467
+"SLN201908250",22,"Mound Visit","2019SLN.EVN.regular.comment.csv",468
+"SLN201908250",47,"Mound Visit","2019SLN.EVN.regular.comment.csv",469
+"SLN201908250",54,"On-field Delay","2019SLN.EVN.regular.comment.csv",470
+"SLN201908250",60,"Mound Visit","2019SLN.EVN.regular.comment.csv",471
+"SLN201908250",69,"Mound Visit","2019SLN.EVN.regular.comment.csv",472
+"SLN201908311",12,"Mound Visit","2019SLN.EVN.regular.comment.csv",473
+"SLN201908311",35,"Mound Visit","2019SLN.EVN.regular.comment.csv",474
+"SLN201908311",40,"Mound Visit","2019SLN.EVN.regular.comment.csv",475
+"SLN201908311",52,"On-field Delay","2019SLN.EVN.regular.comment.csv",476
+"SLN201908311",62,"Mound Visit","2019SLN.EVN.regular.comment.csv",477
+"SLN201908311",67,"Mound Visit","2019SLN.EVN.regular.comment.csv",478
+"SLN201908311",69,"Mound Visit Mound Visit","2019SLN.EVN.regular.comment.csv",479
+"SLN201908311",71,"Mound Visit","2019SLN.EVN.regular.comment.csv",480
+"SLN201908311",74,"Mound Visit","2019SLN.EVN.regular.comment.csv",481
+"SLN201908311",76,"Mound Visit","2019SLN.EVN.regular.comment.csv",482
+"SLN201908312",50,"Mound Visit","2019SLN.EVN.regular.comment.csv",483
+"SLN201908312",51,"Injury Delay","2019SLN.EVN.regular.comment.csv",484
+"SLN201908312",51,"Mound Visit","2019SLN.EVN.regular.comment.csv",485
+"SLN201908312",53,"Mound Visit","2019SLN.EVN.regular.comment.csv",486
+"SLN201908312",56,"Mound Visit","2019SLN.EVN.regular.comment.csv",487
+"SLN201908312",61,"Mound Visit","2019SLN.EVN.regular.comment.csv",488
+"SLN201908312",67,"Mound Visit","2019SLN.EVN.regular.comment.csv",489
+"SLN201908312",68,"Mound Visit","2019SLN.EVN.regular.comment.csv",490
+"SLN201909011",27,"On-field Delay","2019SLN.EVN.regular.comment.csv",491
+"SLN201909011",50,"Injury Delay Mound Visit","2019SLN.EVN.regular.comment.csv",492
+"SLN201909011",59,"Mound Visit","2019SLN.EVN.regular.comment.csv",493
+"SLN201909011",60,"Mound Visit","2019SLN.EVN.regular.comment.csv",494
+"SLN201909011",62,"$Reds challenged call that Edman was safe at 2nd; call upheld - stolen base","2019SLN.EVN.regular.comment.csv",495
+"SLN201909011",69,"Mound Visit","2019SLN.EVN.regular.comment.csv",496
+"SLN201909012",25,"Mound Visit","2019SLN.EVN.regular.comment.csv",497
+"SLN201909012",38,"Mound Visit","2019SLN.EVN.regular.comment.csv",498
+"SLN201909012",39,"Injury Delay","2019SLN.EVN.regular.comment.csv",499
+"SLN201909012",39,"Mound Visit $Suarez left with injured hand","2019SLN.EVN.regular.comment.csv",500
+"SLN201909012",43,"On-field Delay","2019SLN.EVN.regular.comment.csv",501
+"SLN201909012",46,"Mound Visit","2019SLN.EVN.regular.comment.csv",502
+"SLN201909012",52,"Mound Visit","2019SLN.EVN.regular.comment.csv",503
+"SLN201909012",58,"ej,wardt001,C,millb901,Balls and strikes $Cincinnati hitting coach Turner Ward ejected by HP umpire Miller for arguing balls and strikes","2019SLN.EVN.regular.comment.csv",504
+"SLN201909012",72,"Mound Visit","2019SLN.EVN.regular.comment.csv",505
+"SLN201909012",73,"Mound Visit","2019SLN.EVN.regular.comment.csv",506
+"SLN201909020",40,"Mound Visit","2019SLN.EVN.regular.comment.csv",507
+"SLN201909020",53,"Mound Visit","2019SLN.EVN.regular.comment.csv",508
+"SLN201909020",59,"Mound Visit","2019SLN.EVN.regular.comment.csv",509
+"SLN201909020",61,"Mound Visit","2019SLN.EVN.regular.comment.csv",510
+"SLN201909040",19,"Mound Visit","2019SLN.EVN.regular.comment.csv",511
+"SLN201909040",20,"Mound Visit","2019SLN.EVN.regular.comment.csv",512
+"SLN201909040",49,"Mound Visit","2019SLN.EVN.regular.comment.csv",513
+"SLN201909040",60,"Mound Visit","2019SLN.EVN.regular.comment.csv",514
+"SLN201909040",63,"Mound Visit","2019SLN.EVN.regular.comment.csv",515
+"SLN201909040",66,"Mound Visit","2019SLN.EVN.regular.comment.csv",516
+"SLN201909040",67,"Mound Visit","2019SLN.EVN.regular.comment.csv",517
+"SLN201909040",73,"Mound Visit","2019SLN.EVN.regular.comment.csv",518
+"SLN201909040",80,"Mound Visit","2019SLN.EVN.regular.comment.csv",519
+"SLN201909040",80,"On-field Delay","2019SLN.EVN.regular.comment.csv",520
+"SLN201909040",86,"Mound Visit $Giants challenged call that Wong was safe at 1st; call overturned - out on sacrifice hit","2019SLN.EVN.regular.comment.csv",521
+"SLN201909040",90,"Mound Visit","2019SLN.EVN.regular.comment.csv",522
+"SLN201909050",4,"Mound Visit","2019SLN.EVN.regular.comment.csv",523
+"SLN201909050",27,"Mound Visit","2019SLN.EVN.regular.comment.csv",524
+"SLN201909050",30,"Mound Visit","2019SLN.EVN.regular.comment.csv",525
+"SLN201909130",4,"Mound Visit","2019SLN.EVN.regular.comment.csv",526
+"SLN201909130",21,"Mound Visit","2019SLN.EVN.regular.comment.csv",527
+"SLN201909130",24,"Mound Visit","2019SLN.EVN.regular.comment.csv",528
+"SLN201909130",48,"Mound Visit","2019SLN.EVN.regular.comment.csv",529
+"SLN201909130",49,"Mound Visit","2019SLN.EVN.regular.comment.csv",530
+"SLN201909130",52,"Mound Visit","2019SLN.EVN.regular.comment.csv",531
+"SLN201909140",43,"Mound Visit Mound Visit","2019SLN.EVN.regular.comment.csv",532
+"SLN201909140",50,"On-field Delay","2019SLN.EVN.regular.comment.csv",533
+"SLN201909140",54,"Mound Visit","2019SLN.EVN.regular.comment.csv",534
+"SLN201909140",58,"Mound Visit","2019SLN.EVN.regular.comment.csv",535
+"SLN201909140",64,"Mound Visit","2019SLN.EVN.regular.comment.csv",536
+"SLN201909150",17,"Injury Delay","2019SLN.EVN.regular.comment.csv",537
+"SLN201909150",18,"Mound Visit","2019SLN.EVN.regular.comment.csv",538
+"SLN201909150",29,"Mound Visit","2019SLN.EVN.regular.comment.csv",539
+"SLN201909150",32,"Mound Visit","2019SLN.EVN.regular.comment.csv",540
+"SLN201909150",45,"Mound Visit","2019SLN.EVN.regular.comment.csv",541
+"SLN201909150",48,"Mound Visit","2019SLN.EVN.regular.comment.csv",542
+"SLN201909150",56,"Mound Visit","2019SLN.EVN.regular.comment.csv",543
+"SLN201909150",57,"Mound Visit","2019SLN.EVN.regular.comment.csv",544
+"SLN201909150",64,"Mound Visit","2019SLN.EVN.regular.comment.csv",545
+"SLN201909150",68,"Mound Visit","2019SLN.EVN.regular.comment.csv",546
+"SLN201909150",70,"Mound Visit","2019SLN.EVN.regular.comment.csv",547
+"SLN201909150",71,"Mound Visit","2019SLN.EVN.regular.comment.csv",548
+"SLN201909150",74,"Mound Visit","2019SLN.EVN.regular.comment.csv",549
+"SLN201909150",75,"$Brewers challenged call that Cain was out at 2nd; call overturned - stolen base","2019SLN.EVN.regular.comment.csv",550
+"SLN201909150",79,"Mound Visit","2019SLN.EVN.regular.comment.csv",551
+"SLN201909150",80,"Mound Visit","2019SLN.EVN.regular.comment.csv",552
+"SLN201909160",10,"Mound Visit","2019SLN.EVN.regular.comment.csv",553
+"SLN201909160",31,"Mound Visit","2019SLN.EVN.regular.comment.csv",554
+"SLN201909160",60,"Mound Visit","2019SLN.EVN.regular.comment.csv",555
+"SLN201909160",63,"Mound Visit","2019SLN.EVN.regular.comment.csv",556
+"SLN201909160",66,"Mound Visit","2019SLN.EVN.regular.comment.csv",557
+"SLN201909160",73,"Mound Visit","2019SLN.EVN.regular.comment.csv",558
+"SLN201909170",25,"Mound Visit","2019SLN.EVN.regular.comment.csv",559
+"SLN201909170",26,"Mound Visit","2019SLN.EVN.regular.comment.csv",560
+"SLN201909170",45,"$Cardinals challenged call that Soto was safe at 2nd; call upheld - double","2019SLN.EVN.regular.comment.csv",561
+"SLN201909170",54,"Mound Visit","2019SLN.EVN.regular.comment.csv",562
+"SLN201909170",63,"Mound Visit","2019SLN.EVN.regular.comment.csv",563
+"SLN201909170",65,"Mound Visit","2019SLN.EVN.regular.comment.csv",564
+"SLN201909170",75,"On-field Delay","2019SLN.EVN.regular.comment.csv",565
+"SLN201909170",79,"Mound Visit","2019SLN.EVN.regular.comment.csv",566
+"SLN201909180",40,"$Nationals challenged call that Kendrick was out at 1st; call overturned - force out, not double play; also $Cardinals challenged call at 2nd, claiming Soto was guilty of slide interference; that call upheld - no interference","2019SLN.EVN.regular.comment.csv",567
+"SLN201909180",50,"Mound Visit","2019SLN.EVN.regular.comment.csv",568
+"SLN201909180",56,"Mound Visit","2019SLN.EVN.regular.comment.csv",569
+"SLN201909180",58,"Mound Visit","2019SLN.EVN.regular.comment.csv",570
+"SLN201909180",61,"Mound Visit","2019SLN.EVN.regular.comment.csv",571
+"SLN201909180",64,"$Nationals challenged call that Wong was safe at 2nd; call upheld - stolen base","2019SLN.EVN.regular.comment.csv",572
+"SLN201909270",19,"Mound Visit","2019SLN.EVN.regular.comment.csv",573
+"SLN201909270",21,"Mound Visit","2019SLN.EVN.regular.comment.csv",574
+"SLN201909270",40,"$Cardinals challenged call that Contreras was safe at 1st; call overturned - ground out","2019SLN.EVN.regular.comment.csv",575
+"SLN201909270",42,"Mound Visit","2019SLN.EVN.regular.comment.csv",576
+"SLN201909270",48,"Injury Delay","2019SLN.EVN.regular.comment.csv",577
+"SLN201909270",50,"Mound Visit","2019SLN.EVN.regular.comment.csv",578
+"SLN201909270",55,"Mound Visit","2019SLN.EVN.regular.comment.csv",579
+"SLN201909270",62,"Mound Visit","2019SLN.EVN.regular.comment.csv",580
+"SLN201909270",67,"Mound Visit","2019SLN.EVN.regular.comment.csv",581
+"SLN201909270",72,"Mound Visit","2019SLN.EVN.regular.comment.csv",582
+"SLN201909270",74,"Mound Visit","2019SLN.EVN.regular.comment.csv",583
+"SLN201909270",88,"$Originally scored as single, changed to throwing error on 10-08-2019","2019SLN.EVN.regular.comment.csv",584
+"SLN201909280",15,"On-field Delay","2019SLN.EVN.regular.comment.csv",585
+"SLN201909280",41,"Mound Visit","2019SLN.EVN.regular.comment.csv",586
+"SLN201909280",47,"Mound Visit","2019SLN.EVN.regular.comment.csv",587
+"SLN201909280",62,"Mound Visit","2019SLN.EVN.regular.comment.csv",588
+"SLN201909280",63,"Mound Visit","2019SLN.EVN.regular.comment.csv",589
+"SLN201909280",66,"Mound Visit","2019SLN.EVN.regular.comment.csv",590
+"SLN201909280",69,"On-field Delay","2019SLN.EVN.regular.comment.csv",591
+"SLN201909280",69,"Mound Visit","2019SLN.EVN.regular.comment.csv",592
+"SLN201909280",70,"Mound Visit","2019SLN.EVN.regular.comment.csv",593
+"SLN201909280",76,"Mound Visit","2019SLN.EVN.regular.comment.csv",594
+"SLN201909280",83,"Mound Visit","2019SLN.EVN.regular.comment.csv",595
+"SLN201909290",4,"Mound Visit","2019SLN.EVN.regular.comment.csv",596
+"SLN201909290",24,"Mound Visit","2019SLN.EVN.regular.comment.csv",597
+"SLN201909290",33,"Injury Delay","2019SLN.EVN.regular.comment.csv",598

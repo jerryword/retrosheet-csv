@@ -1,134 +1,67 @@
-"SLN201504150",27,"replay,3,hollm001,SLN,hirsj901,STL10,,Y,M,MIL,T $when the play was ruled a trap, Brewers manager Ron Roenicke challenged the ruling; the call was overturned by replay"FILENAME_TX","LINE_NUMBER_CT"
-
-"SLN201504170",70,"replay,9,negrk001,CIN,reynj901,STL10,,Y,M,CIN,I $when Krisopher Negron was ruled to have been not hit by a pitch, Reds manager Bryan Price challenged the ruling; the call was overturned by replay"2015SLN.EVN.regular.comment.csv",2
-
-"SLN201504180",9,"Cardinals left fielder Matt Holliday left the game due to an injured back"2015SLN.EVN.regular.comment.csv",3
-
-"SLN201504180",61,"replay,8,hamib001,CIN,reynj901,STL10,,N,M,SLN,C $when Billy Hamilton was called safe at 1B, Cardinals manager Mike Matheny challenged the ruling; the call was upheld by replay"2015SLN.EVN.regular.comment.csv",4
-
-"SLN201504180",69,"replay,8,kozmp001,SLN,reynj901,STL10,,N,M,CIN,C $when Pete Kozma was called safe at 1B, Reds manager Bryan Price challenged the ruling; the call was upheld by replay"2015SLN.EVN.regular.comment.csv",5
-
-"SLN201504290",43,"replay,5,carpm002,SLN,nelsj901,STL10,,N,M,PHI,A $when Peter Bourjos was called safe at HP, Phillies manager Ryne Sandberg challenged the ruling; the call was upheld by replay"2015SLN.EVN.regular.comment.csv",6
-
-"SLN201505010",53,"replay,7,moliy001,SLN,wintm901,STL10,,Y,M,SLN,U $when Jhonny Peralta was called out at 2B, Cardinals manager Mike Matheny challenged the ruling; the call was overturned by replay"2015SLN.EVN.regular.comment.csv",7
-
-"SLN201505010",58,"replay,8,rodrs002,PIT,wintm901,STL10,,N,M,PIT,A $when Sean Rodriguez was called out at 2B, Pirates manager Clint Hurdle challenged the ruling; the call was upheld by replay"2015SLN.EVN.regular.comment.csv",8
-
-"SLN201505010",65,"replay,9,walkn001,PIT,wintm901,STL10,,Y,U,,C $when Neil Walker was called out at 1B, crew chief Mike Winters requested a review; the call was overturned by replay"2015SLN.EVN.regular.comment.csv",9
-
-"SLN201505030",54,"Cardinals third baseman Matt Carpenter left the game due to an injured head"2015SLN.EVN.regular.comment.csv",10
-
-"SLN201505050",34,"replay,4,moliy001,SLN,hirsj901,STL10,,Y,M,CHN,C $when Yadier Molina was called safe at 1B, Cubs manager Joe Maddon challenged the ruling; the call was overturned by replay, taking a run off the board"2015SLN.EVN.regular.comment.csv",11
-
-"SLN201505060",2,"replay,1,coghc001,CHN,hirsj901,STL10,,N,M,CHN,A $when Dexter Fowler was called out at 1B, Cubs manager Joe Maddon challenegd the ruling; the call was upheld by replay"2015SLN.EVN.regular.comment.csv",12
-
-"SLN201505060",10,"replay,1,carpm002,SLN,hirsj901,STL10,,N,M,SLN,A $when Peter Bourjos was called out at 2B, Cardinals manager Mike Matheny challenged the ruling; the call was upheld by replay"2015SLN.EVN.regular.comment.csv",13
-
-"SLN201505060",45,"ej,maddj801,M,reybd901,Balls and strikes Cubs Manager Joe Maddon ejected by HP umpire D.J. Reyburn"2015SLN.EVN.regular.comment.csv",14
-
-"SLN201505160",88,"replay,10,adamm002,SLN,vanol901,STL10,,Y,M,SLN,D $when it was ruled Yoenis Cespedes caught the liner, Cardinals manager Mike Matheny challenged the ruling; the call was overturned by replay"2015SLN.EVN.regular.comment.csv",15
-
-"SLN201505170",42,"replay,5,peraj001,SLN,vanol901,STL10,,N,M,SLN,A $when Matt Carpenter was called out at HP, Cardinals manager Mike Matheny chalenged the ruling; the call was upheld by replay"2015SLN.EVN.regular.comment.csv",16
-
-"SLN201505260",47,"Cardinals first baseman Matt Adams left the game due to an injured leg"2015SLN.EVN.regular.comment.csv",17
-
-"SLN201505290",51,"ej,mattd001,M,wintm901,Balls and strikes Dodgers Manager Don Mattingly ejected by HP umpire Mike Winters"2015SLN.EVN.regular.comment.csv",18
-
-"SLN201505290",56,"replay,7,carpm002,SLN,wintm901,STL10,,N,M,LAN,A $when Kolten Wong was called safe at 2B, Dodgers acting manager Tim Wallach challenged the ruling; the call was upheld by replay"2015SLN.EVN.regular.comment.csv",19
-
-"SLN201505290",57,"ej,ellia001,P,wintm901,Balls and strikes Dodgers catcher A. J. Ellis ejected by HP umpire Mike Winters"2015SLN.EVN.regular.comment.csv",20
-
-"SLN201505310",68,"ej,turnj001,P,fostm901,Called third strike $Justin Turner ejected by HP Marty Foster after the game had ended"2015SLN.EVN.regular.comment.csv",21
-
-"SLN201506010",69,"replay,9,wongk001,SLN,westj901,STL10,,N,M,MIL,A $when Jason Heyward was called safe at 2B on a pickoff attempt, Brewers manager Craig Counsell challenged the ruling; the call was upheld by replay"2015SLN.EVN.regular.comment.csv",22
-
-"SLN201506020",47,"ej,hollm001,P,westj901,Called third strike ej,mathm001,M,westj901,Called third strike $Cardinals left fielder Matt Holliday and manager Mike Matheny ejected by HP umpire Joe West"2015SLN.EVN.regular.comment.csv",23
-
-"SLN201506120",28,"Royals pitcher Yordano Ventura left the game due to an injured hand"2015SLN.EVN.regular.comment.csv",24
-
-"SLN201507010",69,"$Fan interference"2015SLN.EVN.regular.comment.csv",25
-
-"SLN201507020",49,"ej,solay001,P,davib902,Checked swing (Threw helmet) Padres third baseman Yangervis Solarte ejected by HP umpire Bob Davidson"2015SLN.EVN.regular.comment.csv",26
-
-"SLN201507020",92,"replay,11,barmc001,SDN,wendh902,STL10,,Y,M,SDN,O $when Clint Barmes fly to RF was ruled a foul ball, Padres interim manager Pat Murphy challenged the ruling; the call was overturned to a fair ball; the ball had bounced into the seats"2015SLN.EVN.regular.comment.csv",27
-
-"SLN201507040",17,"replay,3,uptob001,SDN,wendh902,STL10,,N,M,SLN,C $when Melvin Upton was called safe at 1B, Cardinals manager Mike Matheny challenged the ruling; the call was upheld by replay"2015SLN.EVN.regular.comment.csv",28
-
-"SLN201507170",46,"ej,collt801,M,fairc901,Balls and strikes $Mets manager Collins ejected by HP umpire Fairchild for arguing balls and strikes after 3-0 pitch called strike"2015SLN.EVN.regular.comment.csv",29
-
-"SLN201507170",56,"replay,8,granc001,NYN,gibsg901,STL10,,N,M,SLN,C $when Curtis Granderson was called safe at 1B, Cardinals manager Mike Matheny challenged the ruling; the call was upheld by replay"2015SLN.EVN.regular.comment.csv",30
-
-"SLN201507190",53,"replay,7,phamt001,SLN,gibsg901,STL10,,Y,M,NYN,C $when Tommy Pham was called safe at 1B, Mets manager Terry Collins challenged the ruling; the call was overturned by replay"2015SLN.EVN.regular.comment.csv",31
-
-"SLN201507190",153,"replay,18,campe001,NYN,gibsg901,STL10,,Y,M,SLN,C $when Eric Cambell was called safe at 1B, Cardinals manager Mike Matheny challenged the ruling; the call was overturned by replay"2015SLN.EVN.regular.comment.csv",32
-
-"SLN201507230",22,"replay,3,cainl001,KCA,davig901,STL10,,Y,M,KCA,C $when Lorenzo Cain was called out at 1B, Royals manager Ned Yost challenged the ruling; the call was overturned by replay"2015SLN.EVN.regular.comment.csv",33
-
-"SLN201507230",37,"replay,4,johnd004,SLN,davig901,STL10,,N,M,SLN,A $when Randal Grichuk was called out at 3B, Cardinals manager Mike Matheny challenged the ruling; the call was upheld by replay"2015SLN.EVN.regular.comment.csv",34
-
-"SLN201507230",74,"$originally scored as defensive indifference, changed to stolen base on 07-31-2015"2015SLN.EVN.regular.comment.csv",35
-
-"SLN201507230",77,"$originally scored as defensive indifference, changed to stolen base on 07-31-2015"2015SLN.EVN.regular.comment.csv",36
-
-"SLN201507240",51,"replay,6,reynm001,SLN,mealj901,STL10,,Y,M,ATL,C $when Mark Reynolds was called safe at 1B, Braves manager Fredi Gonzalez challenged the ruling; the call was overturned by replay"2015SLN.EVN.regular.comment.csv",37
-
-"SLN201507240",56,"replay,7,piscs001,SLN,mealj901,STL10,,N,M,ATL,C $when Stephen Piscotty was called safe at 1B, Braves manager Fredi Gonzalez challenged the ruling; the call was upheld by replay"2015SLN.EVN.regular.comment.csv",38
-
-"SLN201507260",34,"replay,4,piscs001,SLN,mealj901,STL10,,Y,M,SLN,P $when Jason Heyward was called out at HP, Cardinals manager Mike Matheny challenged the ruling; the call was overturned by replay"2015SLN.EVN.regular.comment.csv",39
-
-"SLN201507290",6,"Cardinals left fielder Matt Holliday left the game due to an injured leg"2015SLN.EVN.regular.comment.csv",40
-
-"SLN201507300",57,"Rockies left fielder Corey Dickerson left the game due to a right rib contusion"2015SLN.EVN.regular.comment.csv",41
-
-"SLN201507300",62,"replay,7,stubd001,COL,nauep901,STL10,,N,M,SLN,C $when Drew Stubbs was called safe at 1B, Cardinals manager Mike Matheny challenged the ruling; the call was upheld by replay"2015SLN.EVN.regular.comment.csv",42
-
-"SLN201507310",18,"replay,2,carpm002,SLN,nauep901,STL10,O,N,U,,H $Matt Carpenter's fly to RF struck the top of the wall and caromed back onto the field; the ball was ruled in play; acting crew chief Paul Nauert requested a review, which upheld the call"2015SLN.EVN.regular.comment.csv",43
-
-"SLN201508010",1,"replay,1,blacc001,COL,nauep901,STL10,O,N,U,,H $Charlie Blackmon's fly to CF struck the top of the wall and caromed back onto the field; the ball was ruled in play but acting crew chief Paul Nauert requested a review; the call was upheld by replay"2015SLN.EVN.regular.comment.csv",44
-
-"SLN201508020",70,"$the ball was touched by a fan"2015SLN.EVN.regular.comment.csv",45
-
-"SLN201508110",10,"replay,1,heywj001,SLN,vanol901,STL10,,Y,M,SLN,C $when Jason Heyward was called out at 1B, Cardinals manager Mike Matheny challenged the ruling; the call was overturned by replay"2015SLN.EVN.regular.comment.csv",46
-
-"SLN201508120",20,"Pirates left fielder Starling Marte left the game due to an injured hand"2015SLN.EVN.regular.comment.csv",47
-
-"SLN201508120",24,"replay,3,peraj001,SLN,vanol901,STL10,,N,M,PIT,C $when Jhonny Peralta was called safe at 1B, Pirates manager Clint Hurdle challenged the ruling; the call was upheld by replay"2015SLN.EVN.regular.comment.csv",48
-
-"SLN201508120",70,"replay,8,piscs001,SLN,vanol901,STL10,,Y,M,SLN,A $when Yadier Molina was called out at 3B, Cardinals manager Mike Matheny challenged the ruling; the call was overturned by replay"2015SLN.EVN.regular.comment.csv",49
-
-"SLN201508130",80,"replay,9,kangj001,PIT,vanol901,STL10,,N,M,PIT,C $when Jung Ho Kang was called out at 1B, Pirates manager Clint Hurdle challenged the ruling; the call was upheld by replay"2015SLN.EVN.regular.comment.csv",50
-
-"SLN201508160",27,"Marlins pitcher David Phelps left the game due to an injured elbow"2015SLN.EVN.regular.comment.csv",51
-
-"SLN201508160",38,"replay,5,narvc001,MIA,davig901,STL10,,Y,M,MIA,A $when Adeiny Hechavarria was called out at HP, Marlins intermin manager Dan Jennings challenged the ruling; the call was overturned by replay"2015SLN.EVN.regular.comment.csv",52
-
-"SLN201508160",41,"$All runs this inning originally scored as unearned; last three changed to earned on 08-19-2015"2015SLN.EVN.regular.comment.csv",53
-
-"SLN201508160",58,"replay,7,bourj002,MIA,davig901,STL10,,Y,M,SLN,A $when Derek Dietrich was called safe at 2B, Cardinals manager Mike Matheny challenged the ruling; the call was overturned by replay"2015SLN.EVN.regular.comment.csv",54
-
-"SLN201508170",14,"Cardinals right fielder Jason Heyward left the game due to an injured leg"2015SLN.EVN.regular.comment.csv",55
-
-"SLN201508310",72,"replay,8,bourp001,SLN,hirsj901,STL10,,Y,M,WAS,C $when Peter Bourjos was called safe at 1B, Nationals manager Matt Williams challenged the ruling; the call was overturned by replay"2015SLN.EVN.regular.comment.csv",56
-
-"SLN201509010",48,"Cardinals first baseman Mark Reynolds left the game due to an injured wrist"2015SLN.EVN.regular.comment.csv",57
-
-"SLN201509010",74,"$originally scored as SH and E1, changed to dropped catch error on 09-02-2015, removin SH and making both runs in inning unearned"2015SLN.EVN.regular.comment.csv",58
-
-"SLN201509010",80,"replay,9,zimmr001,WAS,hirsj901,STL10,,Y,M,SLN,C $when Ryan Zimmerman was called safe at 1B, Cardinals manager Mike Matheny challenged the ruling; the call was overturned by replay"2015SLN.EVN.regular.comment.csv",59
-
-"SLN201509050",53,"replay,7,ramia001,PIT,cedeg901,STL10,,N,M,SLN,A $when Sean Rodriguez was called safe at 3B, Cardinals manager Mike Matheny challenged the ruling; the call was upheld by replay; 3B umpire Eric Cooper ruled that Matt Carpenter pushed Rodriguez off the base"2015SLN.EVN.regular.comment.csv",60
-
-"SLN201509070",36,"replay,4,heywj001,SLN,vanol901,STL10,,Y,M,SLN,O $when Jason Heyward's line drive to RF was ruled foul, Cardinals manager Mike Matheny challenged the ruling; the call was overturned by replay and Heyward was awarded a double; the ball had bounced into the seats"2015SLN.EVN.regular.comment.csv",61
-
-"SLN201509090",10,"replay,1,peraj001,SLN,vanol901,STL10,,N,M,CHN,A $when Jason Heyward was called safe at 2B, Cubs manager Joe Maddon challenged the ruling; the call was upheld by replay"2015SLN.EVN.regular.comment.csv",62
-
-"SLN201509230",44,"replay,6,gricr001,SLN,davig901,STL10,,N,M,SLN,I $when Randal Grichuk was ruled not to have been hit by a pitch, Cardinals manager Mike Matheny challenged the ruling; the call was upheld by replay"2015SLN.EVN.regular.comment.csv",63
-
-"SLN201509250",19,"replay,3,cruzt002,SLN,gormb901,STL10,,Y,M,SLN,A $when Tony Cruz was called out at 2B, Cardinals manager Mike Matheny challenged the ruling; the call was overturned by replay"2015SLN.EVN.regular.comment.csv",64
-
-"SLN201509250",66,"replay,8,peraj001,SLN,gormb901,STL10,,N,M,SLN,A $when Peter Bourjos was called out at 3B, Cardinals manager Mike Matheny challenged the ruling; the call was upheld by replay"2015SLN.EVN.regular.comment.csv",65
-
-"SLN201509260",40,"Cardinals third baseman Matt Carpenter left the game due to an injured hip"2015SLN.EVN.regular.comment.csv",66
-
-"SLN201509270",38,"replay,5,piscs001,SLN,gormb901,STL10,,N,M,SLN,A $when Matt Carpenter was called out at 3B, Cardinals manager Mike Matheny challenged the ruling; the call was upheld by replay"2015SLN.EVN.regular.comment.csv",67
-
+"SLN201504150",27,"replay,3,hollm001,SLN,hirsj901,STL10,,Y,M,MIL,T $when the play was ruled a trap, Brewers manager Ron Roenicke challenged the ruling; the call was overturned by replay","FILENAME_TX","LINE_NUMBER_CT"
+"SLN201504170",70,"replay,9,negrk001,CIN,reynj901,STL10,,Y,M,CIN,I $when Krisopher Negron was ruled to have been not hit by a pitch, Reds manager Bryan Price challenged the ruling; the call was overturned by replay","2015SLN.EVN.regular.comment.csv",2
+"SLN201504180",9,"Cardinals left fielder Matt Holliday left the game due to an injured back","2015SLN.EVN.regular.comment.csv",3
+"SLN201504180",61,"replay,8,hamib001,CIN,reynj901,STL10,,N,M,SLN,C $when Billy Hamilton was called safe at 1B, Cardinals manager Mike Matheny challenged the ruling; the call was upheld by replay","2015SLN.EVN.regular.comment.csv",4
+"SLN201504180",69,"replay,8,kozmp001,SLN,reynj901,STL10,,N,M,CIN,C $when Pete Kozma was called safe at 1B, Reds manager Bryan Price challenged the ruling; the call was upheld by replay","2015SLN.EVN.regular.comment.csv",5
+"SLN201504290",43,"replay,5,carpm002,SLN,nelsj901,STL10,,N,M,PHI,A $when Peter Bourjos was called safe at HP, Phillies manager Ryne Sandberg challenged the ruling; the call was upheld by replay","2015SLN.EVN.regular.comment.csv",6
+"SLN201505010",53,"replay,7,moliy001,SLN,wintm901,STL10,,Y,M,SLN,U $when Jhonny Peralta was called out at 2B, Cardinals manager Mike Matheny challenged the ruling; the call was overturned by replay","2015SLN.EVN.regular.comment.csv",7
+"SLN201505010",58,"replay,8,rodrs002,PIT,wintm901,STL10,,N,M,PIT,A $when Sean Rodriguez was called out at 2B, Pirates manager Clint Hurdle challenged the ruling; the call was upheld by replay","2015SLN.EVN.regular.comment.csv",8
+"SLN201505010",65,"replay,9,walkn001,PIT,wintm901,STL10,,Y,U,,C $when Neil Walker was called out at 1B, crew chief Mike Winters requested a review; the call was overturned by replay","2015SLN.EVN.regular.comment.csv",9
+"SLN201505030",54,"Cardinals third baseman Matt Carpenter left the game due to an injured head","2015SLN.EVN.regular.comment.csv",10
+"SLN201505050",34,"replay,4,moliy001,SLN,hirsj901,STL10,,Y,M,CHN,C $when Yadier Molina was called safe at 1B, Cubs manager Joe Maddon challenged the ruling; the call was overturned by replay, taking a run off the board","2015SLN.EVN.regular.comment.csv",11
+"SLN201505060",2,"replay,1,coghc001,CHN,hirsj901,STL10,,N,M,CHN,A $when Dexter Fowler was called out at 1B, Cubs manager Joe Maddon challenegd the ruling; the call was upheld by replay","2015SLN.EVN.regular.comment.csv",12
+"SLN201505060",10,"replay,1,carpm002,SLN,hirsj901,STL10,,N,M,SLN,A $when Peter Bourjos was called out at 2B, Cardinals manager Mike Matheny challenged the ruling; the call was upheld by replay","2015SLN.EVN.regular.comment.csv",13
+"SLN201505060",45,"ej,maddj801,M,reybd901,Balls and strikes Cubs Manager Joe Maddon ejected by HP umpire D.J. Reyburn","2015SLN.EVN.regular.comment.csv",14
+"SLN201505160",88,"replay,10,adamm002,SLN,vanol901,STL10,,Y,M,SLN,D $when it was ruled Yoenis Cespedes caught the liner, Cardinals manager Mike Matheny challenged the ruling; the call was overturned by replay","2015SLN.EVN.regular.comment.csv",15
+"SLN201505170",42,"replay,5,peraj001,SLN,vanol901,STL10,,N,M,SLN,A $when Matt Carpenter was called out at HP, Cardinals manager Mike Matheny chalenged the ruling; the call was upheld by replay","2015SLN.EVN.regular.comment.csv",16
+"SLN201505260",47,"Cardinals first baseman Matt Adams left the game due to an injured leg","2015SLN.EVN.regular.comment.csv",17
+"SLN201505290",51,"ej,mattd001,M,wintm901,Balls and strikes Dodgers Manager Don Mattingly ejected by HP umpire Mike Winters","2015SLN.EVN.regular.comment.csv",18
+"SLN201505290",56,"replay,7,carpm002,SLN,wintm901,STL10,,N,M,LAN,A $when Kolten Wong was called safe at 2B, Dodgers acting manager Tim Wallach challenged the ruling; the call was upheld by replay","2015SLN.EVN.regular.comment.csv",19
+"SLN201505290",57,"ej,ellia001,P,wintm901,Balls and strikes Dodgers catcher A. J. Ellis ejected by HP umpire Mike Winters","2015SLN.EVN.regular.comment.csv",20
+"SLN201505310",68,"ej,turnj001,P,fostm901,Called third strike $Justin Turner ejected by HP Marty Foster after the game had ended","2015SLN.EVN.regular.comment.csv",21
+"SLN201506010",69,"replay,9,wongk001,SLN,westj901,STL10,,N,M,MIL,A $when Jason Heyward was called safe at 2B on a pickoff attempt, Brewers manager Craig Counsell challenged the ruling; the call was upheld by replay","2015SLN.EVN.regular.comment.csv",22
+"SLN201506020",47,"ej,hollm001,P,westj901,Called third strike ej,mathm001,M,westj901,Called third strike $Cardinals left fielder Matt Holliday and manager Mike Matheny ejected by HP umpire Joe West","2015SLN.EVN.regular.comment.csv",23
+"SLN201506120",28,"Royals pitcher Yordano Ventura left the game due to an injured hand","2015SLN.EVN.regular.comment.csv",24
+"SLN201507010",69,"$Fan interference","2015SLN.EVN.regular.comment.csv",25
+"SLN201507020",49,"ej,solay001,P,davib902,Checked swing (Threw helmet) Padres third baseman Yangervis Solarte ejected by HP umpire Bob Davidson","2015SLN.EVN.regular.comment.csv",26
+"SLN201507020",92,"replay,11,barmc001,SDN,wendh902,STL10,,Y,M,SDN,O $when Clint Barmes fly to RF was ruled a foul ball, Padres interim manager Pat Murphy challenged the ruling; the call was overturned to a fair ball; the ball had bounced into the seats","2015SLN.EVN.regular.comment.csv",27
+"SLN201507040",17,"replay,3,uptob001,SDN,wendh902,STL10,,N,M,SLN,C $when Melvin Upton was called safe at 1B, Cardinals manager Mike Matheny challenged the ruling; the call was upheld by replay","2015SLN.EVN.regular.comment.csv",28
+"SLN201507170",46,"ej,collt801,M,fairc901,Balls and strikes $Mets manager Collins ejected by HP umpire Fairchild for arguing balls and strikes after 3-0 pitch called strike","2015SLN.EVN.regular.comment.csv",29
+"SLN201507170",56,"replay,8,granc001,NYN,gibsg901,STL10,,N,M,SLN,C $when Curtis Granderson was called safe at 1B, Cardinals manager Mike Matheny challenged the ruling; the call was upheld by replay","2015SLN.EVN.regular.comment.csv",30
+"SLN201507190",53,"replay,7,phamt001,SLN,gibsg901,STL10,,Y,M,NYN,C $when Tommy Pham was called safe at 1B, Mets manager Terry Collins challenged the ruling; the call was overturned by replay","2015SLN.EVN.regular.comment.csv",31
+"SLN201507190",153,"replay,18,campe001,NYN,gibsg901,STL10,,Y,M,SLN,C $when Eric Cambell was called safe at 1B, Cardinals manager Mike Matheny challenged the ruling; the call was overturned by replay","2015SLN.EVN.regular.comment.csv",32
+"SLN201507230",22,"replay,3,cainl001,KCA,davig901,STL10,,Y,M,KCA,C $when Lorenzo Cain was called out at 1B, Royals manager Ned Yost challenged the ruling; the call was overturned by replay","2015SLN.EVN.regular.comment.csv",33
+"SLN201507230",37,"replay,4,johnd004,SLN,davig901,STL10,,N,M,SLN,A $when Randal Grichuk was called out at 3B, Cardinals manager Mike Matheny challenged the ruling; the call was upheld by replay","2015SLN.EVN.regular.comment.csv",34
+"SLN201507230",74,"$originally scored as defensive indifference, changed to stolen base on 07-31-2015","2015SLN.EVN.regular.comment.csv",35
+"SLN201507230",77,"$originally scored as defensive indifference, changed to stolen base on 07-31-2015","2015SLN.EVN.regular.comment.csv",36
+"SLN201507240",51,"replay,6,reynm001,SLN,mealj901,STL10,,Y,M,ATL,C $when Mark Reynolds was called safe at 1B, Braves manager Fredi Gonzalez challenged the ruling; the call was overturned by replay","2015SLN.EVN.regular.comment.csv",37
+"SLN201507240",56,"replay,7,piscs001,SLN,mealj901,STL10,,N,M,ATL,C $when Stephen Piscotty was called safe at 1B, Braves manager Fredi Gonzalez challenged the ruling; the call was upheld by replay","2015SLN.EVN.regular.comment.csv",38
+"SLN201507260",34,"replay,4,piscs001,SLN,mealj901,STL10,,Y,M,SLN,P $when Jason Heyward was called out at HP, Cardinals manager Mike Matheny challenged the ruling; the call was overturned by replay","2015SLN.EVN.regular.comment.csv",39
+"SLN201507290",6,"Cardinals left fielder Matt Holliday left the game due to an injured leg","2015SLN.EVN.regular.comment.csv",40
+"SLN201507300",57,"Rockies left fielder Corey Dickerson left the game due to a right rib contusion","2015SLN.EVN.regular.comment.csv",41
+"SLN201507300",62,"replay,7,stubd001,COL,nauep901,STL10,,N,M,SLN,C $when Drew Stubbs was called safe at 1B, Cardinals manager Mike Matheny challenged the ruling; the call was upheld by replay","2015SLN.EVN.regular.comment.csv",42
+"SLN201507310",18,"replay,2,carpm002,SLN,nauep901,STL10,O,N,U,,H $Matt Carpenter's fly to RF struck the top of the wall and caromed back onto the field; the ball was ruled in play; acting crew chief Paul Nauert requested a review, which upheld the call","2015SLN.EVN.regular.comment.csv",43
+"SLN201508010",1,"replay,1,blacc001,COL,nauep901,STL10,O,N,U,,H $Charlie Blackmon's fly to CF struck the top of the wall and caromed back onto the field; the ball was ruled in play but acting crew chief Paul Nauert requested a review; the call was upheld by replay","2015SLN.EVN.regular.comment.csv",44
+"SLN201508020",70,"$the ball was touched by a fan","2015SLN.EVN.regular.comment.csv",45
+"SLN201508110",10,"replay,1,heywj001,SLN,vanol901,STL10,,Y,M,SLN,C $when Jason Heyward was called out at 1B, Cardinals manager Mike Matheny challenged the ruling; the call was overturned by replay","2015SLN.EVN.regular.comment.csv",46
+"SLN201508120",20,"Pirates left fielder Starling Marte left the game due to an injured hand","2015SLN.EVN.regular.comment.csv",47
+"SLN201508120",24,"replay,3,peraj001,SLN,vanol901,STL10,,N,M,PIT,C $when Jhonny Peralta was called safe at 1B, Pirates manager Clint Hurdle challenged the ruling; the call was upheld by replay","2015SLN.EVN.regular.comment.csv",48
+"SLN201508120",70,"replay,8,piscs001,SLN,vanol901,STL10,,Y,M,SLN,A $when Yadier Molina was called out at 3B, Cardinals manager Mike Matheny challenged the ruling; the call was overturned by replay","2015SLN.EVN.regular.comment.csv",49
+"SLN201508130",80,"replay,9,kangj001,PIT,vanol901,STL10,,N,M,PIT,C $when Jung Ho Kang was called out at 1B, Pirates manager Clint Hurdle challenged the ruling; the call was upheld by replay","2015SLN.EVN.regular.comment.csv",50
+"SLN201508160",27,"Marlins pitcher David Phelps left the game due to an injured elbow","2015SLN.EVN.regular.comment.csv",51
+"SLN201508160",38,"replay,5,narvc001,MIA,davig901,STL10,,Y,M,MIA,A $when Adeiny Hechavarria was called out at HP, Marlins intermin manager Dan Jennings challenged the ruling; the call was overturned by replay","2015SLN.EVN.regular.comment.csv",52
+"SLN201508160",41,"$All runs this inning originally scored as unearned; last three changed to earned on 08-19-2015","2015SLN.EVN.regular.comment.csv",53
+"SLN201508160",58,"replay,7,bourj002,MIA,davig901,STL10,,Y,M,SLN,A $when Derek Dietrich was called safe at 2B, Cardinals manager Mike Matheny challenged the ruling; the call was overturned by replay","2015SLN.EVN.regular.comment.csv",54
+"SLN201508170",14,"Cardinals right fielder Jason Heyward left the game due to an injured leg","2015SLN.EVN.regular.comment.csv",55
+"SLN201508310",72,"replay,8,bourp001,SLN,hirsj901,STL10,,Y,M,WAS,C $when Peter Bourjos was called safe at 1B, Nationals manager Matt Williams challenged the ruling; the call was overturned by replay","2015SLN.EVN.regular.comment.csv",56
+"SLN201509010",48,"Cardinals first baseman Mark Reynolds left the game due to an injured wrist","2015SLN.EVN.regular.comment.csv",57
+"SLN201509010",74,"$originally scored as SH and E1, changed to dropped catch error on 09-02-2015, removin SH and making both runs in inning unearned","2015SLN.EVN.regular.comment.csv",58
+"SLN201509010",80,"replay,9,zimmr001,WAS,hirsj901,STL10,,Y,M,SLN,C $when Ryan Zimmerman was called safe at 1B, Cardinals manager Mike Matheny challenged the ruling; the call was overturned by replay","2015SLN.EVN.regular.comment.csv",59
+"SLN201509050",53,"replay,7,ramia001,PIT,cedeg901,STL10,,N,M,SLN,A $when Sean Rodriguez was called safe at 3B, Cardinals manager Mike Matheny challenged the ruling; the call was upheld by replay; 3B umpire Eric Cooper ruled that Matt Carpenter pushed Rodriguez off the base","2015SLN.EVN.regular.comment.csv",60
+"SLN201509070",36,"replay,4,heywj001,SLN,vanol901,STL10,,Y,M,SLN,O $when Jason Heyward's line drive to RF was ruled foul, Cardinals manager Mike Matheny challenged the ruling; the call was overturned by replay and Heyward was awarded a double; the ball had bounced into the seats","2015SLN.EVN.regular.comment.csv",61
+"SLN201509090",10,"replay,1,peraj001,SLN,vanol901,STL10,,N,M,CHN,A $when Jason Heyward was called safe at 2B, Cubs manager Joe Maddon challenged the ruling; the call was upheld by replay","2015SLN.EVN.regular.comment.csv",62
+"SLN201509230",44,"replay,6,gricr001,SLN,davig901,STL10,,N,M,SLN,I $when Randal Grichuk was ruled not to have been hit by a pitch, Cardinals manager Mike Matheny challenged the ruling; the call was upheld by replay","2015SLN.EVN.regular.comment.csv",63
+"SLN201509250",19,"replay,3,cruzt002,SLN,gormb901,STL10,,Y,M,SLN,A $when Tony Cruz was called out at 2B, Cardinals manager Mike Matheny challenged the ruling; the call was overturned by replay","2015SLN.EVN.regular.comment.csv",64
+"SLN201509250",66,"replay,8,peraj001,SLN,gormb901,STL10,,N,M,SLN,A $when Peter Bourjos was called out at 3B, Cardinals manager Mike Matheny challenged the ruling; the call was upheld by replay","2015SLN.EVN.regular.comment.csv",65
+"SLN201509260",40,"Cardinals third baseman Matt Carpenter left the game due to an injured hip","2015SLN.EVN.regular.comment.csv",66
+"SLN201509270",38,"replay,5,piscs001,SLN,gormb901,STL10,,N,M,SLN,A $when Matt Carpenter was called out at 3B, Cardinals manager Mike Matheny challenged the ruling; the call was upheld by replay","2015SLN.EVN.regular.comment.csv",67

@@ -1,72 +1,36 @@
-"SFN198804090",18,"$Jose Uribe rounded 2B too far"FILENAME_TX","LINE_NUMBER_CT"
-
-"SFN198804090",25,"$ball bounced off Randy Ready's chin"1988SFN.EVN.regular.comment.csv",2
-
-"SFN198804130",64,"$Brett Butler's throw to 3B hit coach"1988SFN.EVN.regular.comment.csv",3
-
-"SFN198804130",89,"$Buddy Bell injured knee running after ball"1988SFN.EVN.regular.comment.csv",4
-
-"SFN198804230",57,"ej,brenb001,P,weyel901,Called third strike Bob Brenly ejected by HP umpire Lee Weyer"1988SFN.EVN.regular.comment.csv",5
-
-"SFN198804240",39,"$ball hit Fernando Valenzuela"1988SFN.EVN.regular.comment.csv",6
-
-"SFN198804270",24,"ej,leylj801,M,darlg901,Balls and strikes ej,may-m001,C,darlg901,Balls and strikes Pirates manager Jim Leyland and coach Milt May ejected by HP umpire Gary Darling"1988SFN.EVN.regular.comment.csv",7
-
-"SFN198804270",57,"$Barry Jones threw to Jose Lind (at normal position) not Rafael Belliard covering 2B"1988SFN.EVN.regular.comment.csv",8
-
-"SFN198805030",72,"Debut game for Gibson Alba"1988SFN.EVN.regular.comment.csv",9
-
-"SFN198805150",24,"Tim Teufel dropped a popup"1988SFN.EVN.regular.comment.csv",10
-
-"SFN198805170",49,"Debut game for Angel Escobar"1988SFN.EVN.regular.comment.csv",11
-
-"SFN198805180",40,"$Kevin Mitchell out on appeal for missinged 3B"1988SFN.EVN.regular.comment.csv",12
-
-"SFN198805200",5,"$Hubie Brooks called out for running into Rob Thompson"1988SFN.EVN.regular.comment.csv",13
-
-"SFN198805200",7,"$hit and run pitchout slapped through the right side"1988SFN.EVN.regular.comment.csv",14
-
-"SFN198805210",46,"$E2 throw on rundown after aborted squeeze"1988SFN.EVN.regular.comment.csv",15
-
-"SFN198806090",61,"ej,roeng001,P,harvd901,Balls and strikes Gary Roenicke ejected by HP umpire Doug Harvey"1988SFN.EVN.regular.comment.csv",16
-
-"SFN198806110",34,"ej,concd001,P,hirsm901,Called third strike Dave Concepcion ejected by HP umpire Mark Hirschbeck"1988SFN.EVN.regular.comment.csv",17
-
-"SFN198806200",14,"umpchange,3,ump1b,davib902 umpchange,3,ump2b,(None) $1B umpire Crawford hit on leg by errant pickoff throw in 1st inning and left at start of 3rd; 2B umpire Davidson moved to 1st and game finished with 3 umpires"1988SFN.EVN.regular.comment.csv",18
-
-"SFN198806210",42,"$Jose Uribe missed bag on force try but Benito Santiago rounded it too far"1988SFN.EVN.regular.comment.csv",19
-
-"SFN198806210",51,"umpchange,6,umphome,harvd901 umpchange,6,ump2b,(None) $HP umpire Crawfor left when hit on hand by foul; 2B umpire Harvey went behind plate and game was finished with 3 umpires"1988SFN.EVN.regular.comment.csv",20
-
-"SFN198806220",77,"$Kevin Mitchell called for interference"1988SFN.EVN.regular.comment.csv",21
-
-"SFN198807040",46,"ej,mitck001,P,mcshj901,Balls and strikes Kevin Mitchell ejected by HP umpire John McSherry"1988SFN.EVN.regular.comment.csv",22
-
-"SFN198807060",10,"Debut game for Gary Varsho"1988SFN.EVN.regular.comment.csv",23
-
-"SFN198807060",44,"$missed bunt on a squeeze play"1988SFN.EVN.regular.comment.csv",24
-
-"SFN198807262",76,"$Mike Davis lost ball in fog"1988SFN.EVN.regular.comment.csv",25
-
-"SFN198807262",92,"ej,crair101,M,bonig901,Balk call ej,krukm001,P,bonig901,Balk call $Giants Krukow, not in game, and manager Craig ejected by HP umpire Bonin for arguing balk call"1988SFN.EVN.regular.comment.csv",26
-
-"SFN198808020",27,"$Rick Reuschel strained right hamstring while running the bases"1988SFN.EVN.regular.comment.csv",27
-
-"SFN198808160",17,"$Joe Price injured left shoulder"1988SFN.EVN.regular.comment.csv",28
-
-"SFN198808170",14,"$Bob Melvin injured running to 2B"1988SFN.EVN.regular.comment.csv",29
-
-"SFN198808190",14,"Debut game for Shane Turner"1988SFN.EVN.regular.comment.csv",30
-
-"SFN198809050",1,"Debut game for Trevor Wilson"1988SFN.EVN.regular.comment.csv",31
-
-"SFN198809070",7,"Debut game for Tony Perezchica"1988SFN.EVN.regular.comment.csv",32
-
-"SFN198809070",78,"$Dion James called for interference with catcher Bob Melvin"1988SFN.EVN.regular.comment.csv",33
-
-"SFN198809090",7,"FLE7 inserted by D. Smith 3-10-89 to match TSN"1988SFN.EVN.regular.comment.csv",34
-
-"SFN198809090",92,"Debut game for Cameron Drew"1988SFN.EVN.regular.comment.csv",35
-
-"SFN198809110",12,"Debut game for Charlie Hayes"1988SFN.EVN.regular.comment.csv",36
-
+"SFN198804090",18,"$Jose Uribe rounded 2B too far","FILENAME_TX","LINE_NUMBER_CT"
+"SFN198804090",25,"$ball bounced off Randy Ready's chin","1988SFN.EVN.regular.comment.csv",2
+"SFN198804130",64,"$Brett Butler's throw to 3B hit coach","1988SFN.EVN.regular.comment.csv",3
+"SFN198804130",89,"$Buddy Bell injured knee running after ball","1988SFN.EVN.regular.comment.csv",4
+"SFN198804230",57,"ej,brenb001,P,weyel901,Called third strike Bob Brenly ejected by HP umpire Lee Weyer","1988SFN.EVN.regular.comment.csv",5
+"SFN198804240",39,"$ball hit Fernando Valenzuela","1988SFN.EVN.regular.comment.csv",6
+"SFN198804270",24,"ej,leylj801,M,darlg901,Balls and strikes ej,may-m001,C,darlg901,Balls and strikes Pirates manager Jim Leyland and coach Milt May ejected by HP umpire Gary Darling","1988SFN.EVN.regular.comment.csv",7
+"SFN198804270",57,"$Barry Jones threw to Jose Lind (at normal position) not Rafael Belliard covering 2B","1988SFN.EVN.regular.comment.csv",8
+"SFN198805030",72,"Debut game for Gibson Alba","1988SFN.EVN.regular.comment.csv",9
+"SFN198805150",24,"Tim Teufel dropped a popup","1988SFN.EVN.regular.comment.csv",10
+"SFN198805170",49,"Debut game for Angel Escobar","1988SFN.EVN.regular.comment.csv",11
+"SFN198805180",40,"$Kevin Mitchell out on appeal for missinged 3B","1988SFN.EVN.regular.comment.csv",12
+"SFN198805200",5,"$Hubie Brooks called out for running into Rob Thompson","1988SFN.EVN.regular.comment.csv",13
+"SFN198805200",7,"$hit and run pitchout slapped through the right side","1988SFN.EVN.regular.comment.csv",14
+"SFN198805210",46,"$E2 throw on rundown after aborted squeeze","1988SFN.EVN.regular.comment.csv",15
+"SFN198806090",61,"ej,roeng001,P,harvd901,Balls and strikes Gary Roenicke ejected by HP umpire Doug Harvey","1988SFN.EVN.regular.comment.csv",16
+"SFN198806110",34,"ej,concd001,P,hirsm901,Called third strike Dave Concepcion ejected by HP umpire Mark Hirschbeck","1988SFN.EVN.regular.comment.csv",17
+"SFN198806200",14,"umpchange,3,ump1b,davib902 umpchange,3,ump2b,(None) $1B umpire Crawford hit on leg by errant pickoff throw in 1st inning and left at start of 3rd; 2B umpire Davidson moved to 1st and game finished with 3 umpires","1988SFN.EVN.regular.comment.csv",18
+"SFN198806210",42,"$Jose Uribe missed bag on force try but Benito Santiago rounded it too far","1988SFN.EVN.regular.comment.csv",19
+"SFN198806210",51,"umpchange,6,umphome,harvd901 umpchange,6,ump2b,(None) $HP umpire Crawfor left when hit on hand by foul; 2B umpire Harvey went behind plate and game was finished with 3 umpires","1988SFN.EVN.regular.comment.csv",20
+"SFN198806220",77,"$Kevin Mitchell called for interference","1988SFN.EVN.regular.comment.csv",21
+"SFN198807040",46,"ej,mitck001,P,mcshj901,Balls and strikes Kevin Mitchell ejected by HP umpire John McSherry","1988SFN.EVN.regular.comment.csv",22
+"SFN198807060",10,"Debut game for Gary Varsho","1988SFN.EVN.regular.comment.csv",23
+"SFN198807060",44,"$missed bunt on a squeeze play","1988SFN.EVN.regular.comment.csv",24
+"SFN198807262",76,"$Mike Davis lost ball in fog","1988SFN.EVN.regular.comment.csv",25
+"SFN198807262",92,"ej,crair101,M,bonig901,Balk call ej,krukm001,P,bonig901,Balk call $Giants Krukow, not in game, and manager Craig ejected by HP umpire Bonin for arguing balk call","1988SFN.EVN.regular.comment.csv",26
+"SFN198808020",27,"$Rick Reuschel strained right hamstring while running the bases","1988SFN.EVN.regular.comment.csv",27
+"SFN198808160",17,"$Joe Price injured left shoulder","1988SFN.EVN.regular.comment.csv",28
+"SFN198808170",14,"$Bob Melvin injured running to 2B","1988SFN.EVN.regular.comment.csv",29
+"SFN198808190",14,"Debut game for Shane Turner","1988SFN.EVN.regular.comment.csv",30
+"SFN198809050",1,"Debut game for Trevor Wilson","1988SFN.EVN.regular.comment.csv",31
+"SFN198809070",7,"Debut game for Tony Perezchica","1988SFN.EVN.regular.comment.csv",32
+"SFN198809070",78,"$Dion James called for interference with catcher Bob Melvin","1988SFN.EVN.regular.comment.csv",33
+"SFN198809090",7,"FLE7 inserted by D. Smith 3-10-89 to match TSN","1988SFN.EVN.regular.comment.csv",34
+"SFN198809090",92,"Debut game for Cameron Drew","1988SFN.EVN.regular.comment.csv",35
+"SFN198809110",12,"Debut game for Charlie Hayes","1988SFN.EVN.regular.comment.csv",36
