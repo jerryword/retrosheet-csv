@@ -1,31 +1,30 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"WS1194905140",0,"$President Harry Truman in attendance"
-"WS1194905250",14,"$Senators manager Joe Kuhel claimed Larry Doby interfered with Sherry Robertson"
-"WS1194905250",17,"ej,kuhej101,M,boyej901,Call at 2B Senators Manager Joe Kuhel ejected by 3B umpire Jim Boyer for arguing call at 2nd"
-"WS1194905260",72,"game called for rain"
-"WS1194906200",55,"ej,appll101,P,summb901,Called third strike Luke Appling ejected by HP umpire Bill Summers"
-"WS1194906210",30,"$Don Wheeler injured by foul ball"
-"WS1194906300",40,"ej,haynj101,P,berrc103,Balk call Joe Haynes ejected by HP umpire Charlie Berry"
-"WS1194907010",55,"ej,kuhej101,M,papaj901,Arguing opposition was stalling $Washington manager Kuhel ejected by HP umpire Paparella for arguing Yankees were stalling before putting Phillips up to bat"
-"WS1194907030",93,"fielding credit invented"
-"WS1194907060",48,"play,6,0,tebbb101,??,,S9 play,6,0,kinde101,??,,PB.1-2 play,6,0,kinde101,??,,K $Game called for rain, plays washed out"
-"WS1194907070",0,"Suspend=19490820,,8,3,36"
-"WS1194907070",64,"umpchange,6,umphome,hurle901 umpchange,6,ump1b,mckib901 umpchange,6,ump2b,mcgob901 umpchange,6,ump3b,joner901 suspended,19490820,WAS09,catch train $Game suspended to allow the Red Sox to catch a train home; game completed 8/20 with new umpires"
-"WS1194907300",15,"$Sam Dente left with injured ankle (from previous game)"
-"WS1194909140",71,"Debut game for Jim Baumer who was injured warming up"
-"WS1194909232",65,"$Game called for darkness"
-"WS1194905140",0,"$President Harry Truman in attendance"
-"WS1194905250",14,"$Senators manager Joe Kuhel claimed Larry Doby interfered with Sherry Robertson"
-"WS1194905250",17,"ej,kuhej101,M,boyej901,Call at 2B Senators Manager Joe Kuhel ejected by 3B umpire Jim Boyer for arguing call at 2nd"
-"WS1194905260",72,"game called for rain"
-"WS1194906200",55,"ej,appll101,P,summb901,Called third strike Luke Appling ejected by HP umpire Bill Summers"
-"WS1194906210",30,"$Don Wheeler injured by foul ball"
-"WS1194906300",40,"ej,haynj101,P,berrc103,Balk call Joe Haynes ejected by HP umpire Charlie Berry"
-"WS1194907010",55,"ej,kuhej101,M,papaj901,Arguing opposition was stalling $Washington manager Kuhel ejected by HP umpire Paparella for arguing Yankees were stalling before putting Phillips up to bat"
-"WS1194907030",93,"fielding credit invented"
-"WS1194907060",48,"play,6,0,tebbb101,??,,S9 play,6,0,kinde101,??,,PB.1-2 play,6,0,kinde101,??,,K $Game called for rain, plays washed out"
-"WS1194907070",0,"Suspend=19490820,,8,3,36"
-"WS1194907070",64,"umpchange,6,umphome,hurle901 umpchange,6,ump1b,mckib901 umpchange,6,ump2b,mcgob901 umpchange,6,ump3b,joner901 suspended,19490820,WAS09,catch train $Game suspended to allow the Red Sox to catch a train home; game completed 8/20 with new umpires"
-"WS1194907300",15,"$Sam Dente left with injured ankle (from previous game)"
-"WS1194909140",71,"Debut game for Jim Baumer who was injured warming up"
-"WS1194909232",65,"$Game called for darkness"
+"WS1194905140",0,"$President Harry Truman in attendance"FILENAME_TX","LINE_NUMBER_CT"
+
+"WS1194905250",14,"$Senators manager Joe Kuhel claimed Larry Doby interfered with Sherry Robertson"1949WS1.EVA.regular.comment.csv",2
+
+"WS1194905250",17,"ej,kuhej101,M,boyej901,Call at 2B Senators Manager Joe Kuhel ejected by 3B umpire Jim Boyer for arguing call at 2nd"1949WS1.EVA.regular.comment.csv",3
+
+"WS1194905260",72,"game called for rain"1949WS1.EVA.regular.comment.csv",4
+
+"WS1194906200",55,"ej,appll101,P,summb901,Called third strike Luke Appling ejected by HP umpire Bill Summers"1949WS1.EVA.regular.comment.csv",5
+
+"WS1194906210",30,"$Don Wheeler injured by foul ball"1949WS1.EVA.regular.comment.csv",6
+
+"WS1194906300",40,"ej,haynj101,P,berrc103,Balk call Joe Haynes ejected by HP umpire Charlie Berry"1949WS1.EVA.regular.comment.csv",7
+
+"WS1194907010",55,"ej,kuhej101,M,papaj901,Arguing opposition was stalling $Washington manager Kuhel ejected by HP umpire Paparella for arguing Yankees were stalling before putting Phillips up to bat"1949WS1.EVA.regular.comment.csv",8
+
+"WS1194907030",93,"fielding credit invented"1949WS1.EVA.regular.comment.csv",9
+
+"WS1194907060",48,"play,6,0,tebbb101,??,,S9 play,6,0,kinde101,??,,PB.1-2 play,6,0,kinde101,??,,K $Game called for rain, plays washed out"1949WS1.EVA.regular.comment.csv",10
+
+"WS1194907070",0,"Suspend=19490820,,8,3,36"1949WS1.EVA.regular.comment.csv",11
+
+"WS1194907070",64,"umpchange,6,umphome,hurle901 umpchange,6,ump1b,mckib901 umpchange,6,ump2b,mcgob901 umpchange,6,ump3b,joner901 suspended,19490820,WAS09,catch train $Game suspended to allow the Red Sox to catch a train home; game completed 8/20 with new umpires"1949WS1.EVA.regular.comment.csv",12
+
+"WS1194907300",15,"$Sam Dente left with injured ankle (from previous game)"1949WS1.EVA.regular.comment.csv",13
+
+"WS1194909140",71,"Debut game for Jim Baumer who was injured warming up"1949WS1.EVA.regular.comment.csv",14
+
+"WS1194909232",65,"$Game called for darkness"1949WS1.EVA.regular.comment.csv",15
+

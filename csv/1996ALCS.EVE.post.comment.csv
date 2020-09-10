@@ -1,11 +1,10 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"NYA199610090",4,"$B.J. Surhoff lost the ball in the background"
-"NYA199610090",73,"ej,johnd105,M,garcr901,Fan interference non-call $a 12 year old fan leaned over the wall to catch ball; it caromed into the stands due to the interference and the kid becomes an instant hero in NYC; Orioles manager Dave Johnson argued the call with RF umpire Richie Garcia, who ejected Johnson"
-"NYA199610090",79,"$Derek Jeter called off Tim Raines and then could not get to the ball"
-"NYA199610090",84,"$Mariano Duncan hit in left bicep"
-"NYA199610100",53,"$Fan interference"
-"NYA199610090",4,"$B.J. Surhoff lost the ball in the background"
-"NYA199610090",73,"ej,johnd105,M,garcr901,Fan interference non-call $a 12 year old fan leaned over the wall to catch ball; it caromed into the stands due to the interference and the kid becomes an instant hero in NYC; Orioles manager Dave Johnson argued the call with RF umpire Richie Garcia, who ejected Johnson"
-"NYA199610090",79,"$Derek Jeter called off Tim Raines and then could not get to the ball"
-"NYA199610090",84,"$Mariano Duncan hit in left bicep"
-"NYA199610100",53,"$Fan interference"
+"NYA199610090",4,"$B.J. Surhoff lost the ball in the background"FILENAME_TX","LINE_NUMBER_CT"
+
+"NYA199610090",73,"ej,johnd105,M,garcr901,Fan interference non-call $a 12 year old fan leaned over the wall to catch ball; it caromed into the stands due to the interference and the kid becomes an instant hero in NYC; Orioles manager Dave Johnson argued the call with RF umpire Richie Garcia, who ejected Johnson"1996ALCS.EVE.post.comment.csv",2
+
+"NYA199610090",79,"$Derek Jeter called off Tim Raines and then could not get to the ball"1996ALCS.EVE.post.comment.csv",3
+
+"NYA199610090",84,"$Mariano Duncan hit in left bicep"1996ALCS.EVE.post.comment.csv",4
+
+"NYA199610100",53,"$Fan interference"1996ALCS.EVE.post.comment.csv",5
+

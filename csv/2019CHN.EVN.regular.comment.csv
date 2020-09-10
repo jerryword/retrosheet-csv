@@ -1,1243 +1,1242 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"CHN201904080",18,"Mound Visit"
-"CHN201904080",20,"Injury Delay"
-"CHN201904080",22,"Mound Visit"
-"CHN201904080",24,"Injury Delay"
-"CHN201904080",25,"Mound Visit"
-"CHN201904080",25,"$Jon Lester left with injured leg"
-"CHN201904080",32,"Mound Visit"
-"CHN201904100",41,"Mound Visit"
-"CHN201904100",64,"Mound Visit"
-"CHN201904100",68,"Mound Visit"
-"CHN201904100",69,"Mound Visit"
-"CHN201904110",28,"Injury Delay"
-"CHN201904110",36,"Mound Visit ej,maddj801,M,estam901,Arguing balls and strikes $Chicago manager Maddon ejected by plate umpire Estabrook for arguing balls and strikes"
-"CHN201904110",37,"On-field Delay"
-"CHN201904110",44,"Mound Visit"
-"CHN201904110",45,"On-field Delay"
-"CHN201904110",52,"Mound Visit"
-"CHN201904110",54,"Mound Visit"
-"CHN201904120",54,"Mound Visit"
-"CHN201904120",56,"Mound Visit"
-"CHN201904130",10,"Mound Visit"
-"CHN201904130",26,"Mound Visit"
-"CHN201904130",43,"Mound Visit"
-"CHN201904130",46,"Mound Visit"
-"CHN201904130",47,"Mound Visit"
-"CHN201904130",50,"Mound Visit"
-"CHN201904130",51,"Mound Visit"
-"CHN201904130",65,"Mound Visit"
-"CHN201904130",73,"Mound Visit"
-"CHN201904130",74,"Mound Visit"
-"CHN201904190",9,"Injury Delay"
-"CHN201904190",20,"On-field Delay"
-"CHN201904190",22,"Mound Visit"
-"CHN201904190",40,"Mound Visit"
-"CHN201904190",41,"Mound Visit"
-"CHN201904190",59,"Mound Visit"
-"CHN201904190",64,"Injury Delay"
-"CHN201904190",81,"Mound Visit"
-"CHN201904200",11,"Mound Visit"
-"CHN201904200",12,"Mound Visit"
-"CHN201904200",33,"Mound Visit"
-"CHN201904200",43,"Injury Delay"
-"CHN201904200",54,"Mound Visit"
-"CHN201904200",60,"Mound Visit"
-"CHN201904200",63,"On-field Delay"
-"CHN201904210",43,"Mound Visit"
-"CHN201904210",45,"Mound Visit"
-"CHN201904210",49,"Mound Visit"
-"CHN201904210",63,"Mound Visit"
-"CHN201904230",8,"Mound Visit"
-"CHN201904230",20,"On-field Delay"
-"CHN201904230",53,"Mound Visit"
-"CHN201904230",55,"Mound Visit"
-"CHN201904230",64,"Mound Visit"
-"CHN201904240",27,"Mound Visit"
-"CHN201904240",41,"Mound Visit"
-"CHN201904240",47,"Mound Visit"
-"CHN201904240",48,"Mound Visit"
-"CHN201904240",59,"Mound Visit"
-"CHN201904250",39,"Mound Visit"
-"CHN201904250",42,"Mound Visit"
-"CHN201904250",50,"Injury Delay"
-"CHN201904250",54,"Mound Visit"
-"CHN201904250",56,"Mound Visit"
-"CHN201904250",57,"$Dodgers challenged call that Seager was out at 2nd; call was upheld - ground out and advance"
-"CHN201904250",58,"Mound Visit"
-"CHN201905030",17,"$Cardinals challenged call that Wong was out at 2nd; call was upheld - force out"
-"CHN201905030",46,"Mound Visit"
-"CHN201905030",47,"Mound Visit"
-"CHN201905040",31,"Mound Visit"
-"CHN201905040",41,"$Descalso left with injured ankle"
-"CHN201905040",43,"Mound Visit"
-"CHN201905040",45,"Mound Visit"
-"CHN201905040",47,"Mound Visit"
-"CHN201905040",56,"Mound Visit"
-"CHN201905040",65,"Mound Visit"
-"CHN201905040",68,"Injury Delay Mound Visit"
-"CHN201905040",76,"$Cubs challenged call that ball hit by Baez was foul; call was upheld - foul ball"
-"CHN201905040",80,"On-field Delay"
-"CHN201905050",18,"Mound Visit"
-"CHN201905050",44,"Mound Visit"
-"CHN201905050",48,"Mound Visit"
-"CHN201905050",58,"Mound Visit"
-"CHN201905050",61,"Mound Visit"
-"CHN201905050",67,"Mound Visit"
-"CHN201905050",72,"Mound Visit"
-"CHN201905050",74,"Mound Visit"
-"CHN201905060",9,"Mound Visit"
-"CHN201905060",36,"Mound Visit"
-"CHN201905060",42,"Mound Visit"
-"CHN201905060",49,"Mound Visit"
-"CHN201905060",50,"Mound Visit"
-"CHN201905060",70,"Mound Visit"
-"CHN201905060",72,"Mound Visit"
-"CHN201905070",21,"Mound Visit"
-"CHN201905070",28,"On-field Delay"
-"CHN201905070",45,"$Cubs challenged call that Rojas was safe at 1st on pickoff attempt; call was upheld - safe at 1st"
-"CHN201905070",57,"Mound Visit"
-"CHN201905070",62,"On-field Delay"
-"CHN201905070",72,"$Marlins challenged call that Schwarber was hit by pitch; call was upheld - hit by pitch"
-"CHN201905070",72,"Mound Visit"
-"CHN201905070",74,"Mound Visit"
-"CHN201905080",61,"Mound Visit"
-"CHN201905080",63,"Mound Visit"
-"CHN201905080",65,"Mound Visit"
-"CHN201905090",9,"Mound Visit"
-"CHN201905090",26,"Mound Visit"
-"CHN201905090",76,"Mound Visit"
-"CHN201905100",36,"Injury Delay"
-"CHN201905100",40,"Mound Visit"
-"CHN201905100",42,"Mound Visit"
-"CHN201905100",47,"Mound Visit"
-"CHN201905100",50,"Mound Visit"
-"CHN201905100",53,"Mound Visit"
-"CHN201905100",55,"Mound Visit"
-"CHN201905100",60,"Mound Visit"
-"CHN201905100",75,"Mound Visit"
-"CHN201905110",44,"Mound Visit"
-"CHN201905110",47,"Mound Visit"
-"CHN201905110",55,"Mound Visit"
-"CHN201905110",56,"Mound Visit"
-"CHN201905110",59,"Mound Visit"
-"CHN201905110",69,"Mound Visit"
-"CHN201905110",74,"Mound Visit"
-"CHN201905110",82,"Mound Visit"
-"CHN201905110",84,"Mound Visit"
-"CHN201905110",94,"Mound Visit"
-"CHN201905110",95,"Mound Visit"
-"CHN201905110",99,"Mound Visit"
-"CHN201905110",101,"Mound Visit"
-"CHN201905120",31,"Mound Visit"
-"CHN201905120",56,"Mound Visit"
-"CHN201905200",17,"On-field Delay"
-"CHN201905200",41,"Mound Visit"
-"CHN201905200",44,"$Cubs challenged call that Segura was safe at 1st; call was upheld - force out, no double play"
-"CHN201905200",46,"Mound Visit"
-"CHN201905200",66,"Mound Visit"
-"CHN201905200",67,"Mound Visit"
-"CHN201905200",68,"On-field Delay $Umpire review of play at 1st; call was upheld - sacrifice"
-"CHN201905200",73,"Mound Visit"
-"CHN201905200",75,"Mound Visit"
-"CHN201905200",76,"$Phillies challenged call that Segura was out at 2nd; call was upheld - single and out stretching"
-"CHN201905200",85,"Mound Visit"
-"CHN201905200",87,"$Umpire review of play at 1st; call was upheld - double play"
-"CHN201905210",10,"Mound Visit"
-"CHN201905210",11,"Mound Visit"
-"CHN201905210",37,"On-field Delay On-field Delay $Phillies challenged call that Bryant's double was in play, claiming it bounced into stands; call was overturned - ground rule double, runner returned to 3rd"
-"CHN201905210",56,"Mound Visit"
-"CHN201905210",61,"Mound Visit"
-"CHN201905210",62,"Mound Visit"
-"CHN201905210",69,"Mound Visit"
-"CHN201905210",73,"Mound Visit"
-"CHN201905210",74,"Mound Visit"
-"CHN201905210",80,"$Phillies challenged call that Bryant was safe at home; call was upheld - fielder's choice scoring run"
-"CHN201905220",11,"Mound Visit"
-"CHN201905220",24,"$Cubs challenged call that Hernande was safe at 1st; call was upheld - safe on pickoff attempt"
-"CHN201905220",37,"Mound Visit"
-"CHN201905220",49,"Mound Visit"
-"CHN201905220",50,"Mound Visit"
-"CHN201905220",62,"Mound Visit"
-"CHN201905220",75,"Mound Visit"
-"CHN201905220",78,"Mound Visit"
-"CHN201905230",7,"Mound Visit"
-"CHN201905230",36,"Mound Visit"
-"CHN201905230",54,"Mound Visit"
-"CHN201905230",56,"Mound Visit"
-"CHN201905230",57,"Mound Visit"
-"CHN201905230",58,"$Cubs challenged call that Heyward was out at 3rd; call was upheld - force out at 3rd"
-"CHN201905230",66,"Mound Visit"
-"CHN201905230",70,"$Phillies challenged call that Rodriguez was out at 1st; call was overturned - infield single"
-"CHN201905230",71,"Mound Visit"
-"CHN201905230",79,"Mound Visit"
-"CHN201905230",86,"Mound Visit"
-"CHN201905230",87,"Mound Visit"
-"CHN201905240",3,"On-field Delay"
-"CHN201905240",28,"Mound Visit"
-"CHN201905240",34,"Mound Visit"
-"CHN201905240",35,"Mound Visit"
-"CHN201905240",58,"Mound Visit"
-"CHN201905240",60,"Mound Visit"
-"CHN201905240",66,"Mound Visit"
-"CHN201905240",71,"Mound Visit"
-"CHN201905240",72,"Mound Visit"
-"CHN201905240",77,"Mound Visit"
-"CHN201905250",18,"Mound Visit"
-"CHN201905250",32,"Mound Visit"
-"CHN201905250",39,"Mound Visit"
-"CHN201905250",53,"Mound Visit"
-"CHN201905250",67,"Mound Visit"
-"CHN201905250",75,"Mound Visit"
-"CHN201905250",80,"Mound Visit Mound Visit"
-"CHN201905260",24,"On-field Delay"
-"CHN201905260",39,"Injury Delay"
-"CHN201905260",40,"Mound Visit"
-"CHN201905260",49,"Mound Visit"
-"CHN201905260",50,"Mound Visit"
-"CHN201905260",54,"Injury Delay"
-"CHN201905260",58,"Mound Visit"
-"CHN201905260",62,"Mound Visit"
-"CHN201905260",83,"Mound Visit"
-"CHN201906030",39,"Mound Visit"
-"CHN201906030",42,"Mound Visit"
-"CHN201906030",44,"Mound Visit"
-"CHN201906030",45,"On-field Delay"
-"CHN201906030",48,"Mound Visit"
-"CHN201906030",53,"Mound Visit"
-"CHN201906040",47,"Injury Delay"
-"CHN201906040",51,"Mound Visit"
-"CHN201906040",52,"Mound Visit"
-"CHN201906050",40,"Mound Visit"
-"CHN201906050",41,"Mound Visit"
-"CHN201906050",43,"Mound Visit"
-"CHN201906050",47,"Mound Visit"
-"CHN201906050",48,"Mound Visit"
-"CHN201906050",51,"Mound Visit"
-"CHN201906050",57,"Mound Visit"
-"CHN201906050",59,"Mound Visit"
-"CHN201906050",66,"Mound Visit"
-"CHN201906060",1,"$Cubs challenged call that Tapia was safe at 1st; call was overturne - ground out"
-"CHN201906060",44,"Mound Visit"
-"CHN201906060",48,"Mound Visit"
-"CHN201906060",54,"Mound Visit"
-"CHN201906070",29,"Mound Visit"
-"CHN201906070",33,"Mikolas left with an injured arm"
-"CHN201906070",37,"On-field Delay"
-"CHN201906070",51,"Mound Visit"
-"CHN201906070",53,"Mound Visit"
-"CHN201906080",7,"Mound Visit"
-"CHN201906080",11,"Mound Visit"
-"CHN201906080",22,"On-field Delay"
-"CHN201906080",38,"Mound Visit"
-"CHN201906080",42,"On-field Delay"
-"CHN201906080",50,"Mound Visit"
-"CHN201906080",53,"Mound Visit"
-"CHN201906080",54,"Mound Visit"
-"CHN201906090",5,"Injury Delay"
-"CHN201906090",38,"Mound Visit"
-"CHN201906090",40,"Mound Visit Injury Delay"
-"CHN201906090",40,"$Wainwright left with an injured leg"
-"CHN201906090",54,"Mound Visit"
-"CHN201906090",68,"Mound Visit"
-"CHN201906090",71,"Mound Visit"
-"CHN201906180",3,"Mound Visit"
-"CHN201906180",40,"$Batter interference"
-"CHN201906180",42,"Mound Visit"
-"CHN201906180",44,"Mound Visit"
-"CHN201906180",47,"Mound Visit"
-"CHN201906180",58,"Mound Visit"
-"CHN201906180",63,"Mound Visit"
-"CHN201906190",9,"Mound Visit"
-"CHN201906190",11,"Mound Visit"
-"CHN201906190",31,"Mound Visit"
-"CHN201906190",33,"Mound Visit"
-"CHN201906190",36,"$Batter interference"
-"CHN201906190",48,"Mound Visit"
-"CHN201906190",54,"Mound Visit"
-"CHN201906190",70,"Mound Visit"
-"CHN201906200",8,"Injury Delay"
-"CHN201906200",9,"Mound Visit"
-"CHN201906200",24,"Mound Visit"
-"CHN201906200",27,"Mound Visit"
-"CHN201906200",28,"Mound Visit"
-"CHN201906200",35,"Mound Visit Injury Delay"
-"CHN201906200",71,"Mound Visit"
-"CHN201906200",72,"Mound Visit"
-"CHN201906210",17,"Mound Visit"
-"CHN201906210",41,"Mound Visit On-field Delay"
-"CHN201906210",42,"On-field Delay Mound Visit"
-"CHN201906210",51,"Mound Visit"
-"CHN201906210",56,"Mound Visit"
-"CHN201906210",63,"Mound Visit"
-"CHN201906220",15,"$Cubs challenged call that McNeil was safe at 2nd; call was overturned - single and out stretching"
-"CHN201906220",31,"Mound Visit"
-"CHN201906220",40,"Mound Visit"
-"CHN201906220",50,"Mound Visit"
-"CHN201906220",51,"$Mets challenged call that Smith was out at 2nd; call was overturned - single"
-"CHN201906220",58,"$Cubs challenged call that Lagares was safe at 1st; call was overturned - out to complete double play"
-"CHN201906220",61,"Mound Visit"
-"CHN201906220",76,"On-field Delay"
-"CHN201906220",79,"Mound Visit"
-"CHN201906230",19,"Mound Visit"
-"CHN201906230",38,"Mound Visit"
-"CHN201906230",48,"Mound Visit"
-"CHN201906230",55,"Mound Visit"
-"CHN201906230",64,"Mound Visit"
-"CHN201906230",65,"Mound Visit"
-"CHN201906230",66,"Mound Visit"
-"CHN201906240",11,"On-field Delay"
-"CHN201906240",38,"Mound Visit"
-"CHN201906240",41,"Mound Visit"
-"CHN201906240",63,"Mound Visit"
-"CHN201906250",12,"Mound Visit"
-"CHN201906250",29,"Mound Visit"
-"CHN201906250",33,"Mound Visit"
-"CHN201906250",37,"Mound Visit"
-"CHN201906250",38,"Mound Visit"
-"CHN201906250",61,"Mound Visit"
-"CHN201906250",62,"Mound Visit"
-"CHN201906250",66,"Mound Visit"
-"CHN201906260",23,"Mound Visit"
-"CHN201906260",52,"Mound Visit"
-"CHN201906260",54,"Mound Visit"
-"CHN201906260",67,"Mound Visit"
-"CHN201906260",68,"Mound Visit"
-"CHN201906260",69,"Mound Visit"
-"CHN201906260",71,"$Braves challenged call that Albies was out at 1st; call was upheld - ground out"
-"CHN201906270",31,"Mound Visit"
-"CHN201906270",37,"Mound Visit"
-"CHN201906270",39,"On-field Delay ej,gonzc001,P,lentn901,Arguing strike 3 $Gonzalez ejected by HP umpire Lentz for arguing strike 3"
-"CHN201906270",48,"Mound Visit"
-"CHN201906270",77,"Mound Visit"
-"CHN201906270",78,"Mound Visit"
-"CHN201907120",25,"Mound Visit"
-"CHN201907120",35,"Mound Visit"
-"CHN201907120",37,"Mound Visit"
-"CHN201907120",44,"Mound Visit"
-"CHN201907120",47,"Mound Visit"
-"CHN201907120",48,"Mound Visit"
-"CHN201907120",51,"Mound Visit"
-"CHN201907120",52,"Mound Visit"
-"CHN201907120",57,"Mound Visit"
-"CHN201907120",58,"Mound Visit"
-"CHN201907120",63,"Mound Visit"
-"CHN201907120",68,"$Cubs challenged call that Newman was safe at 1st; call was overturne - ground out"
-"CHN201907130",10,"Mound Visit"
-"CHN201907130",14,"Mound Visit"
-"CHN201907130",59,"$Cubs challenged call that Osuna was safe, claiming ball was trapped; call was upheld - single"
-"CHN201907130",63,"Mound Visit"
-"CHN201907130",69,"Mound Visit"
-"CHN201907130",80,"Mound Visit"
-"CHN201907140",20,"Mound Visit"
-"CHN201907140",38,"Mound Visit"
-"CHN201907140",47,"Mound Visit"
-"CHN201907140",54,"Mound Visit"
-"CHN201907140",55,"Mound Visit"
-"CHN201907150",19,"Mound Visit"
-"CHN201907150",30,"Mound Visit"
-"CHN201907150",41,"On-field Delay"
-"CHN201907150",46,"Mound Visit"
-"CHN201907150",51,"Mound Visit"
-"CHN201907150",56,"Mound Visit"
-"CHN201907150",63,"Mound Visit"
-"CHN201907150",67,"Mound Visit"
-"CHN201907150",74,"Mound Visit Mound Visit"
-"CHN201907160",6,"Mound Visit"
-"CHN201907160",33,"$Rizzo out for interferring with Dietrich who was trying to field ground ball"
-"CHN201907160",43,"Mound Visit"
-"CHN201907160",47,"Mound Visit"
-"CHN201907160",54,"Mound Visit"
-"CHN201907160",63,"Mound Visit"
-"CHN201907160",67,"Mound Visit"
-"CHN201907160",69,"Mound Visit"
-"CHN201907160",72,"Mound Visit"
-"CHN201907160",73,"Injury Delay"
-"CHN201907160",78,"Mound Visit"
-"CHN201907170",28,"Injury Delay"
-"CHN201907170",38,"Mound Visit"
-"CHN201907170",47,"$Reds challenged call that Iglesias was out at 1st; call was upheld - out on pickoff"
-"CHN201907170",49,"Mound Visit"
-"CHN201907170",52,"Mound Visit"
-"CHN201907170",58,"Mound Visit"
-"CHN201907170",64,"Mound Visit"
-"CHN201907170",66,"$Originally scored as defensive indifference, changed to to stolen base on 07-18-2019"
-"CHN201907190",6,"Mound Visit"
-"CHN201907190",26,"Injury Delay"
-"CHN201907190",28,"Mound Visit"
-"CHN201907190",33,"On-field Delay"
-"CHN201907190",40,"$Cubs challenged call that Renfroe was safe at 1st; call was overturned - ground out"
-"CHN201907190",44,"Mound Visit"
-"CHN201907190",49,"Mound Visit"
-"CHN201907190",66,"Mound Visit"
-"CHN201907200",10,"Mound Visit"
-"CHN201907200",33,"Mound Visit"
-"CHN201907200",75,"$Padres challenged call that Myers was out at 2nd; call was upheld - caught stealing"
-"CHN201907210",20,"Mound Visit"
-"CHN201907210",53,"$Cubs challenged call that Tatis was safe at 1st; call was upheld - safe on pitckoff attempt"
-"CHN201907210",62,"Mound Visit"
-"CHN201907210",63,"Mound Visit"
-"CHN201907210",64,"On-field Delay"
-"CHN201908020",10,"Mound Visit"
-"CHN201908020",30,"Mound Visit"
-"CHN201908020",55,"Mound Visit"
-"CHN201908020",61,"Mound Visit"
-"CHN201908020",62,"Mound Visit"
-"CHN201908020",68,"Mound Visit"
-"CHN201908020",72,"On-field Delay"
-"CHN201908030",3,"On-field Delay"
-"CHN201908030",38,"Mound Visit"
-"CHN201908030",40,"On-field Delay $Brewers challenged call that Cain was out at 1st; call overturned - single"
-"CHN201908030",42,"Mound Visit"
-"CHN201908030",44,"Mound Visit"
-"CHN201908030",50,"Mound Visit"
-"CHN201908030",52,"Mound Visit"
-"CHN201908030",54,"Injury Delay"
-"CHN201908030",59,"Mound Visit"
-"CHN201908030",64,"Mound Visit"
-"CHN201908030",66,"Mound Visit"
-"CHN201908030",68,"Mound Visit"
-"CHN201908030",72,"Mound Visit"
-"CHN201908040",9,"Mound Visit"
-"CHN201908040",22,"Mound Visit"
-"CHN201908040",40,"Mound Visit"
-"CHN201908040",60,"On-field Delay"
-"CHN201908040",61,"Mound Visit"
-"CHN201908050",15,"Mound Visit"
-"CHN201908050",22,"$Athletics challenged call that Castellanos was safe at 1st; call upheld - single"
-"CHN201908050",46,"Mound Visit"
-"CHN201908050",50,"Mound Visit"
-"CHN201908050",54,"Mound Visit"
-"CHN201908050",57,"Mound Visit"
-"CHN201908050",62,"Mound Visit"
-"CHN201908050",63,"Mound Visit"
-"CHN201908050",71,"Mound Visit"
-"CHN201908050",73,"Mound Visit"
-"CHN201908060",13,"Mound Visit"
-"CHN201908060",15,"Mound Visit"
-"CHN201908060",17,"Injury Delay $On 08-07-2019, assist given to 1bman, taken from pitcher; run now unearned"
-"CHN201908060",56,"Mound Visit"
-"CHN201908070",27,"Mound Visit"
-"CHN201908070",32,"Mound Visit"
-"CHN201908070",39,"Mound Visit"
-"CHN201908070",54,"Injury Delay"
-"CHN201908200",34,"Mound Visit"
-"CHN201908200",44,"$Cubs challenged call that Baez was out at 1st; call overturned - force out, not double play"
-"CHN201908200",53,"Mound Visit"
-"CHN201908200",63,"Mound Visit"
-"CHN201908210",19,"Mound Visit"
-"CHN201908210",39,"Mound Visit"
-"CHN201908210",53,"Mound Visit"
-"CHN201908210",62,"Mound Visit"
-"CHN201908210",63,"Mound Visit"
-"CHN201908210",68,"Mound Visit"
-"CHN201908210",86,"$Cubs challenged call that Schwarber was out at home; call upheld - out trying to score on single"
-"CHN201908220",42,"Mound Visit"
-"CHN201908220",49,"Mound Visit"
-"CHN201908220",54,"Mound Visit"
-"CHN201908230",27,"Mound Visit"
-"CHN201908230",28,"Mound Visit"
-"CHN201908230",36,"Mound Visit"
-"CHN201908230",74,"Mound Visit"
-"CHN201908240",18,"Mound Visit"
-"CHN201908240",21,"Mound Visit"
-"CHN201908240",40,"Mound Visit"
-"CHN201908240",41,"ej,happi001,P,carav901,Called strike 3 $Happ ejected by HP umpire Carapazza for arguing strike 3"
-"CHN201908240",42,"On-field Delay"
-"CHN201908240",47,"$Rizzo left with an injured back"
-"CHN201908240",48,"Mound Visit"
-"CHN201908240",48,"Mound Visit"
-"CHN201908240",54,"Mound Visit"
-"CHN201908240",55,"$Nationals challenged call that Parra was safe at 3rd; call overturned - double steal"
-"CHN201908240",62,"Mound Visit"
-"CHN201908240",67,"Mound Visit"
-"CHN201908240",81,"Mound Visit"
-"CHN201908240",85,"On-field Delay"
-"CHN201908250",32,"$Cubs challenged call that Strasburg was safe at 1st; call upheld - single"
-"CHN201908250",43,"Mound Visit"
-"CHN201908250",48,"Mound Visit"
-"CHN201908250",55,"Mound Visit"
-"CHN201908250",56,"Mound Visit"
-"CHN201908250",57,"Mound Visit"
-"CHN201908250",59,"Mound Visit"
-"CHN201908250",76,"Mound Visit Mound Visit"
-"CHN201908250",92,"Mound Visit"
-"CHN201908300",5,"On-field Delay"
-"CHN201908300",6,"$Brewers challenged call that Caratini was safe at 2nd; call overturned - single and out stretching"
-"CHN201908300",16,"Mound Visit"
-"CHN201908300",27,"Mound Visit Mound Visit"
-"CHN201908300",29,"Mound Visit"
-"CHN201908300",34,"Mound Visit"
-"CHN201908300",40,"$Hiura left with and injured leg"
-"CHN201908300",46,"Mound Visit"
-"CHN201908300",61,"Mound Visit"
-"CHN201908310",3,"Mound Visit"
-"CHN201908310",39,"Mound Visit"
-"CHN201908310",43,"Mound Visit"
-"CHN201908310",53,"Mound Visit"
-"CHN201908310",65,"Mound Visit"
-"CHN201909010",2,"Mound Visit"
-"CHN201909010",24,"Injury Delay"
-"CHN201909010",26,"Mound Visit"
-"CHN201909010",33,"Mound Visit"
-"CHN201909010",38,"Mound Visit"
-"CHN201909010",44,"Mound Visit"
-"CHN201909010",52,"Mound Visit"
-"CHN201909010",53,"Mound Visit"
-"CHN201909010",56,"ej,grany001,P,timmt901,Called strike 3 $Grandal ejected by HP umpire Timmons for arguing strike 3"
-"CHN201909010",59,"$Brewers challenged call that Thames was out at 2nd; call upheld - caught stealing"
-"CHN201909010",62,"Mound Visit"
-"CHN201909010",69,"Mound Visit"
-"CHN201909010",76,"Mound Visit"
-"CHN201909010",78,"$Umpire review of 3rd pitch to Happ; call upheld - ball, not hit by pitch"
-"CHN201909020",7,"$Cubs challenged clal that Bryant was out at 1st; call was overturned - force out, not double play"
-"CHN201909020",30,"Mound Visit"
-"CHN201909020",32,"Injury Delay"
-"CHN201909020",43,"Mound Visit"
-"CHN201909020",58,"Mound Visit"
-"CHN201909020",62,"Mound Visit"
-"CHN201909030",3,"On-field Delay"
-"CHN201909030",4,"Mound Visit"
-"CHN201909030",27,"Mound Visit"
-"CHN201909030",33,"Mound Visit"
-"CHN201909030",46,"Mound Visit"
-"CHN201909030",53,"Mound Visit"
-"CHN201909030",55,"On-field Delay"
-"CHN201909030",65,"Mound Visit"
-"CHN201909030",71,"Mound Visit"
-"CHN201909030",72,"$Mariners challenged call that Vogelbach was out at 2nd; call upheld - single and out stretching"
-"CHN201909030",76,"Mound Visit"
-"CHN201909130",5,"Mound Visit"
-"CHN201909130",7,"Mound Visit"
-"CHN201909130",13,"Mound Visit"
-"CHN201909130",28,"$Pirates challenged clal that Reyes was out at home, claiming catcher blocked plate with ball; call upheld - out at home"
-"CHN201909130",33,"Mound Visit"
-"CHN201909130",35,"Mound Visit"
-"CHN201909130",38,"Mound Visit"
-"CHN201909130",53,"Mound Visit"
-"CHN201909130",58,"$Cubs challegned clal that Bryant was out at 1st; call overturned - single"
-"CHN201909130",60,"Mound Visit"
-"CHN201909130",64,"Mound Visit"
-"CHN201909140",19,"Mound Visit"
-"CHN201909140",30,"$Pirates challenged call that Osuna was out at 1st; call overturned - single"
-"CHN201909140",37,"Mound Visit"
-"CHN201909140",48,"Mound Visit"
-"CHN201909140",49,"Mound Visit"
-"CHN201909140",59,"On-field Delay $Bote exchanged angry words with pitcher Holmes as he went to 1st; umpires intervened, benches did not empty and both teams received warnings"
-"CHN201909140",60,"Mound Visit"
-"CHN201909140",66,"Mound Visit"
-"CHN201909140",80,"On-field Delay ej,mapld001,P,marqa901,Hit batter after warning ej,maddj801,P,marqa901,Hit batter after warning $Picher Maples and Chicago manager Maddon ejected by HP umpire Marquez since warnings issued earlier"
-"CHN201909150",9,"Mound Visit"
-"CHN201909150",20,"Injury Delay"
-"CHN201909150",20,"$Rizzo left with an injured ankle"
-"CHN201909150",22,"Mound Visit"
-"CHN201909150",26,"Mound Visit"
-"CHN201909150",31,"Mound Visit"
-"CHN201909150",33,"Mound Visit"
-"CHN201909150",36,"$Pirates thought one of the runners who scored on triple had missed 3rd base so they appealead; however, the pitcher made a wild throw to 3rd in the attempt and the run scored"
-"CHN201909150",46,"Mound Visit"
-"CHN201909150",56,"Mound Visit"
-"CHN201909160",23,"Mound Visit"
-"CHN201909160",33,"Mound Visit"
-"CHN201909160",34,"Mound Visit"
-"CHN201909160",39,"Mound Visit"
-"CHN201909160",54,"Mound Visit"
-"CHN201909160",55,"Mound Visit"
-"CHN201909160",72,"Mound Visit Mound Visit"
-"CHN201909160",79,"Mound Visit"
-"CHN201909160",80,"Mound Visit"
-"CHN201909170",5,"Mound Visit"
-"CHN201909170",18,"On-field Delay"
-"CHN201909170",38,"Mound Visit"
-"CHN201909170",56,"Mound Visit"
-"CHN201909170",57,"Mound Visit"
-"CHN201909170",59,"Mound Visit"
-"CHN201909180",20,"Mound Visit"
-"CHN201909180",27,"On-field Delay $Reds challenged call that Castellanos as safe at 2nd; call upheld - double"
-"CHN201909180",40,"Mound Visit Mound Visit"
-"CHN201909180",41,"Mound Visit"
-"CHN201909180",48,"Mound Visit"
-"CHN201909180",49,"Mound Visit"
-"CHN201909180",52,"On-field Delay"
-"CHN201909180",54,"On-field Delay $Umpire review of ball hit by Contreras; call upheld - homer"
-"CHN201909180",61,"Mound Visit"
-"CHN201909180",67,"Mound Visit"
-"CHN201909180",70,"Mound Visit"
-"CHN201909180",72,"Mound Visit"
-"CHN201909180",76,"Mound Visit"
-"CHN201909180",78,"Mound Visit"
-"CHN201909180",79,"On-field Delay"
-"CHN201909180",81,"Mound Visit"
-"CHN201909190",2,"$Cubs challenged call that Wong was safe at 1st; call upheld - safe on pickoff attempt"
-"CHN201909190",35,"$Wong left with injured leg"
-"CHN201909190",38,"Mound Visit"
-"CHN201909190",39,"Mound Visit"
-"CHN201909190",41,"Mound Visit"
-"CHN201909190",42,"Mound Visit"
-"CHN201909190",55,"Mound Visit"
-"CHN201909190",60,"On-field Delay"
-"CHN201909190",67,"Mound Visit"
-"CHN201909190",70,"Mound Visit"
-"CHN201909190",75,"Mound Visit"
-"CHN201909200",14,"$Bote originally received RBI on this play, removed on 09-26-2019"
-"CHN201909200",15,"Mound Visit"
-"CHN201909200",19,"Mound Visit"
-"CHN201909200",25,"Mound Visit"
-"CHN201909200",31,"Injury Delay"
-"CHN201909200",33,"$Cardinals challenged call that Hoerner was safe at 1st; call overturned - ground out"
-"CHN201909200",36,"Mound Visit"
-"CHN201909200",42,"Mound Visit"
-"CHN201909200",43,"Mound Visit"
-"CHN201909200",45,"Mound Visit"
-"CHN201909200",47,"Mound Visit"
-"CHN201909200",49,"Mound Visit"
-"CHN201909200",53,"Mound Visit"
-"CHN201909200",58,"Mound Visit"
-"CHN201909200",63,"Mound Visit"
-"CHN201909200",72,"Mound Visit"
-"CHN201909200",76,"Mound Visit"
-"CHN201909200",78,"Mound Visit"
-"CHN201909210",9,"Mound Visit"
-"CHN201909210",10,"Mound Visit"
-"CHN201909210",23,"Mound Visit"
-"CHN201909210",29,"$Cubs challengd call that Schwarber was out at 3rd, call upheld - out advancing"
-"CHN201909210",34,"Mound Visit"
-"CHN201909210",35,"Mound Visit"
-"CHN201909210",37,"Mound Visit"
-"CHN201909210",42,"Mound Visit"
-"CHN201909210",49,"Mound Visit"
-"CHN201909210",50,"Mound Visit"
-"CHN201909210",71,"Mound Visit"
-"CHN201909210",72,"Mound Visit"
-"CHN201909210",75,"Mound Visit"
-"CHN201909210",81,"Mound Visit"
-"CHN201909210",85,"Mound Visit"
-"CHN201909210",89,"Mound Visit"
-"CHN201909220",23,"Injury Delay"
-"CHN201909220",23,"$Bryant left with an injured ankle which was hurt when he lipped on the wet base"
-"CHN201909220",52,"Mound Visit"
-"CHN201909220",57,"Mound Visit"
-"CHN201909220",61,"Mound Visit"
-"CHN201909220",63,"Mound Visit"
-"CHN201909220",69,"Mound Visit"
-"CHN201904080",18,"Mound Visit"
-"CHN201904080",20,"Injury Delay"
-"CHN201904080",22,"Mound Visit"
-"CHN201904080",24,"Injury Delay"
-"CHN201904080",25,"Mound Visit"
-"CHN201904080",25,"$Jon Lester left with injured leg"
-"CHN201904080",32,"Mound Visit"
-"CHN201904100",41,"Mound Visit"
-"CHN201904100",64,"Mound Visit"
-"CHN201904100",68,"Mound Visit"
-"CHN201904100",69,"Mound Visit"
-"CHN201904110",28,"Injury Delay"
-"CHN201904110",36,"Mound Visit ej,maddj801,M,estam901,Arguing balls and strikes $Chicago manager Maddon ejected by plate umpire Estabrook for arguing balls and strikes"
-"CHN201904110",37,"On-field Delay"
-"CHN201904110",44,"Mound Visit"
-"CHN201904110",45,"On-field Delay"
-"CHN201904110",52,"Mound Visit"
-"CHN201904110",54,"Mound Visit"
-"CHN201904120",54,"Mound Visit"
-"CHN201904120",56,"Mound Visit"
-"CHN201904130",10,"Mound Visit"
-"CHN201904130",26,"Mound Visit"
-"CHN201904130",43,"Mound Visit"
-"CHN201904130",46,"Mound Visit"
-"CHN201904130",47,"Mound Visit"
-"CHN201904130",50,"Mound Visit"
-"CHN201904130",51,"Mound Visit"
-"CHN201904130",65,"Mound Visit"
-"CHN201904130",73,"Mound Visit"
-"CHN201904130",74,"Mound Visit"
-"CHN201904190",9,"Injury Delay"
-"CHN201904190",20,"On-field Delay"
-"CHN201904190",22,"Mound Visit"
-"CHN201904190",40,"Mound Visit"
-"CHN201904190",41,"Mound Visit"
-"CHN201904190",59,"Mound Visit"
-"CHN201904190",64,"Injury Delay"
-"CHN201904190",81,"Mound Visit"
-"CHN201904200",11,"Mound Visit"
-"CHN201904200",12,"Mound Visit"
-"CHN201904200",33,"Mound Visit"
-"CHN201904200",43,"Injury Delay"
-"CHN201904200",54,"Mound Visit"
-"CHN201904200",60,"Mound Visit"
-"CHN201904200",63,"On-field Delay"
-"CHN201904210",43,"Mound Visit"
-"CHN201904210",45,"Mound Visit"
-"CHN201904210",49,"Mound Visit"
-"CHN201904210",63,"Mound Visit"
-"CHN201904230",8,"Mound Visit"
-"CHN201904230",20,"On-field Delay"
-"CHN201904230",53,"Mound Visit"
-"CHN201904230",55,"Mound Visit"
-"CHN201904230",64,"Mound Visit"
-"CHN201904240",27,"Mound Visit"
-"CHN201904240",41,"Mound Visit"
-"CHN201904240",47,"Mound Visit"
-"CHN201904240",48,"Mound Visit"
-"CHN201904240",59,"Mound Visit"
-"CHN201904250",39,"Mound Visit"
-"CHN201904250",42,"Mound Visit"
-"CHN201904250",50,"Injury Delay"
-"CHN201904250",54,"Mound Visit"
-"CHN201904250",56,"Mound Visit"
-"CHN201904250",57,"$Dodgers challenged call that Seager was out at 2nd; call was upheld - ground out and advance"
-"CHN201904250",58,"Mound Visit"
-"CHN201905030",17,"$Cardinals challenged call that Wong was out at 2nd; call was upheld - force out"
-"CHN201905030",46,"Mound Visit"
-"CHN201905030",47,"Mound Visit"
-"CHN201905040",31,"Mound Visit"
-"CHN201905040",41,"$Descalso left with injured ankle"
-"CHN201905040",43,"Mound Visit"
-"CHN201905040",45,"Mound Visit"
-"CHN201905040",47,"Mound Visit"
-"CHN201905040",56,"Mound Visit"
-"CHN201905040",65,"Mound Visit"
-"CHN201905040",68,"Injury Delay Mound Visit"
-"CHN201905040",76,"$Cubs challenged call that ball hit by Baez was foul; call was upheld - foul ball"
-"CHN201905040",80,"On-field Delay"
-"CHN201905050",18,"Mound Visit"
-"CHN201905050",44,"Mound Visit"
-"CHN201905050",48,"Mound Visit"
-"CHN201905050",58,"Mound Visit"
-"CHN201905050",61,"Mound Visit"
-"CHN201905050",67,"Mound Visit"
-"CHN201905050",72,"Mound Visit"
-"CHN201905050",74,"Mound Visit"
-"CHN201905060",9,"Mound Visit"
-"CHN201905060",36,"Mound Visit"
-"CHN201905060",42,"Mound Visit"
-"CHN201905060",49,"Mound Visit"
-"CHN201905060",50,"Mound Visit"
-"CHN201905060",70,"Mound Visit"
-"CHN201905060",72,"Mound Visit"
-"CHN201905070",21,"Mound Visit"
-"CHN201905070",28,"On-field Delay"
-"CHN201905070",45,"$Cubs challenged call that Rojas was safe at 1st on pickoff attempt; call was upheld - safe at 1st"
-"CHN201905070",57,"Mound Visit"
-"CHN201905070",62,"On-field Delay"
-"CHN201905070",72,"$Marlins challenged call that Schwarber was hit by pitch; call was upheld - hit by pitch"
-"CHN201905070",72,"Mound Visit"
-"CHN201905070",74,"Mound Visit"
-"CHN201905080",61,"Mound Visit"
-"CHN201905080",63,"Mound Visit"
-"CHN201905080",65,"Mound Visit"
-"CHN201905090",9,"Mound Visit"
-"CHN201905090",26,"Mound Visit"
-"CHN201905090",76,"Mound Visit"
-"CHN201905100",36,"Injury Delay"
-"CHN201905100",40,"Mound Visit"
-"CHN201905100",42,"Mound Visit"
-"CHN201905100",47,"Mound Visit"
-"CHN201905100",50,"Mound Visit"
-"CHN201905100",53,"Mound Visit"
-"CHN201905100",55,"Mound Visit"
-"CHN201905100",60,"Mound Visit"
-"CHN201905100",75,"Mound Visit"
-"CHN201905110",44,"Mound Visit"
-"CHN201905110",47,"Mound Visit"
-"CHN201905110",55,"Mound Visit"
-"CHN201905110",56,"Mound Visit"
-"CHN201905110",59,"Mound Visit"
-"CHN201905110",69,"Mound Visit"
-"CHN201905110",74,"Mound Visit"
-"CHN201905110",82,"Mound Visit"
-"CHN201905110",84,"Mound Visit"
-"CHN201905110",94,"Mound Visit"
-"CHN201905110",95,"Mound Visit"
-"CHN201905110",99,"Mound Visit"
-"CHN201905110",101,"Mound Visit"
-"CHN201905120",31,"Mound Visit"
-"CHN201905120",56,"Mound Visit"
-"CHN201905200",17,"On-field Delay"
-"CHN201905200",41,"Mound Visit"
-"CHN201905200",44,"$Cubs challenged call that Segura was safe at 1st; call was upheld - force out, no double play"
-"CHN201905200",46,"Mound Visit"
-"CHN201905200",66,"Mound Visit"
-"CHN201905200",67,"Mound Visit"
-"CHN201905200",68,"On-field Delay $Umpire review of play at 1st; call was upheld - sacrifice"
-"CHN201905200",73,"Mound Visit"
-"CHN201905200",75,"Mound Visit"
-"CHN201905200",76,"$Phillies challenged call that Segura was out at 2nd; call was upheld - single and out stretching"
-"CHN201905200",85,"Mound Visit"
-"CHN201905200",87,"$Umpire review of play at 1st; call was upheld - double play"
-"CHN201905210",10,"Mound Visit"
-"CHN201905210",11,"Mound Visit"
-"CHN201905210",37,"On-field Delay On-field Delay $Phillies challenged call that Bryant's double was in play, claiming it bounced into stands; call was overturned - ground rule double, runner returned to 3rd"
-"CHN201905210",56,"Mound Visit"
-"CHN201905210",61,"Mound Visit"
-"CHN201905210",62,"Mound Visit"
-"CHN201905210",69,"Mound Visit"
-"CHN201905210",73,"Mound Visit"
-"CHN201905210",74,"Mound Visit"
-"CHN201905210",80,"$Phillies challenged call that Bryant was safe at home; call was upheld - fielder's choice scoring run"
-"CHN201905220",11,"Mound Visit"
-"CHN201905220",24,"$Cubs challenged call that Hernande was safe at 1st; call was upheld - safe on pickoff attempt"
-"CHN201905220",37,"Mound Visit"
-"CHN201905220",49,"Mound Visit"
-"CHN201905220",50,"Mound Visit"
-"CHN201905220",62,"Mound Visit"
-"CHN201905220",75,"Mound Visit"
-"CHN201905220",78,"Mound Visit"
-"CHN201905230",7,"Mound Visit"
-"CHN201905230",36,"Mound Visit"
-"CHN201905230",54,"Mound Visit"
-"CHN201905230",56,"Mound Visit"
-"CHN201905230",57,"Mound Visit"
-"CHN201905230",58,"$Cubs challenged call that Heyward was out at 3rd; call was upheld - force out at 3rd"
-"CHN201905230",66,"Mound Visit"
-"CHN201905230",70,"$Phillies challenged call that Rodriguez was out at 1st; call was overturned - infield single"
-"CHN201905230",71,"Mound Visit"
-"CHN201905230",79,"Mound Visit"
-"CHN201905230",86,"Mound Visit"
-"CHN201905230",87,"Mound Visit"
-"CHN201905240",3,"On-field Delay"
-"CHN201905240",28,"Mound Visit"
-"CHN201905240",34,"Mound Visit"
-"CHN201905240",35,"Mound Visit"
-"CHN201905240",58,"Mound Visit"
-"CHN201905240",60,"Mound Visit"
-"CHN201905240",66,"Mound Visit"
-"CHN201905240",71,"Mound Visit"
-"CHN201905240",72,"Mound Visit"
-"CHN201905240",77,"Mound Visit"
-"CHN201905250",18,"Mound Visit"
-"CHN201905250",32,"Mound Visit"
-"CHN201905250",39,"Mound Visit"
-"CHN201905250",53,"Mound Visit"
-"CHN201905250",67,"Mound Visit"
-"CHN201905250",75,"Mound Visit"
-"CHN201905250",80,"Mound Visit Mound Visit"
-"CHN201905260",24,"On-field Delay"
-"CHN201905260",39,"Injury Delay"
-"CHN201905260",40,"Mound Visit"
-"CHN201905260",49,"Mound Visit"
-"CHN201905260",50,"Mound Visit"
-"CHN201905260",54,"Injury Delay"
-"CHN201905260",58,"Mound Visit"
-"CHN201905260",62,"Mound Visit"
-"CHN201905260",83,"Mound Visit"
-"CHN201906030",39,"Mound Visit"
-"CHN201906030",42,"Mound Visit"
-"CHN201906030",44,"Mound Visit"
-"CHN201906030",45,"On-field Delay"
-"CHN201906030",48,"Mound Visit"
-"CHN201906030",53,"Mound Visit"
-"CHN201906040",47,"Injury Delay"
-"CHN201906040",51,"Mound Visit"
-"CHN201906040",52,"Mound Visit"
-"CHN201906050",40,"Mound Visit"
-"CHN201906050",41,"Mound Visit"
-"CHN201906050",43,"Mound Visit"
-"CHN201906050",47,"Mound Visit"
-"CHN201906050",48,"Mound Visit"
-"CHN201906050",51,"Mound Visit"
-"CHN201906050",57,"Mound Visit"
-"CHN201906050",59,"Mound Visit"
-"CHN201906050",66,"Mound Visit"
-"CHN201906060",1,"$Cubs challenged call that Tapia was safe at 1st; call was overturne - ground out"
-"CHN201906060",44,"Mound Visit"
-"CHN201906060",48,"Mound Visit"
-"CHN201906060",54,"Mound Visit"
-"CHN201906070",29,"Mound Visit"
-"CHN201906070",33,"Mikolas left with an injured arm"
-"CHN201906070",37,"On-field Delay"
-"CHN201906070",51,"Mound Visit"
-"CHN201906070",53,"Mound Visit"
-"CHN201906080",7,"Mound Visit"
-"CHN201906080",11,"Mound Visit"
-"CHN201906080",22,"On-field Delay"
-"CHN201906080",38,"Mound Visit"
-"CHN201906080",42,"On-field Delay"
-"CHN201906080",50,"Mound Visit"
-"CHN201906080",53,"Mound Visit"
-"CHN201906080",54,"Mound Visit"
-"CHN201906090",5,"Injury Delay"
-"CHN201906090",38,"Mound Visit"
-"CHN201906090",40,"Mound Visit Injury Delay"
-"CHN201906090",40,"$Wainwright left with an injured leg"
-"CHN201906090",54,"Mound Visit"
-"CHN201906090",68,"Mound Visit"
-"CHN201906090",71,"Mound Visit"
-"CHN201906180",3,"Mound Visit"
-"CHN201906180",40,"$Batter interference"
-"CHN201906180",42,"Mound Visit"
-"CHN201906180",44,"Mound Visit"
-"CHN201906180",47,"Mound Visit"
-"CHN201906180",58,"Mound Visit"
-"CHN201906180",63,"Mound Visit"
-"CHN201906190",9,"Mound Visit"
-"CHN201906190",11,"Mound Visit"
-"CHN201906190",31,"Mound Visit"
-"CHN201906190",33,"Mound Visit"
-"CHN201906190",36,"$Batter interference"
-"CHN201906190",48,"Mound Visit"
-"CHN201906190",54,"Mound Visit"
-"CHN201906190",70,"Mound Visit"
-"CHN201906200",8,"Injury Delay"
-"CHN201906200",9,"Mound Visit"
-"CHN201906200",24,"Mound Visit"
-"CHN201906200",27,"Mound Visit"
-"CHN201906200",28,"Mound Visit"
-"CHN201906200",35,"Mound Visit Injury Delay"
-"CHN201906200",71,"Mound Visit"
-"CHN201906200",72,"Mound Visit"
-"CHN201906210",17,"Mound Visit"
-"CHN201906210",41,"Mound Visit On-field Delay"
-"CHN201906210",42,"On-field Delay Mound Visit"
-"CHN201906210",51,"Mound Visit"
-"CHN201906210",56,"Mound Visit"
-"CHN201906210",63,"Mound Visit"
-"CHN201906220",15,"$Cubs challenged call that McNeil was safe at 2nd; call was overturned - single and out stretching"
-"CHN201906220",31,"Mound Visit"
-"CHN201906220",40,"Mound Visit"
-"CHN201906220",50,"Mound Visit"
-"CHN201906220",51,"$Mets challenged call that Smith was out at 2nd; call was overturned - single"
-"CHN201906220",58,"$Cubs challenged call that Lagares was safe at 1st; call was overturned - out to complete double play"
-"CHN201906220",61,"Mound Visit"
-"CHN201906220",76,"On-field Delay"
-"CHN201906220",79,"Mound Visit"
-"CHN201906230",19,"Mound Visit"
-"CHN201906230",38,"Mound Visit"
-"CHN201906230",48,"Mound Visit"
-"CHN201906230",55,"Mound Visit"
-"CHN201906230",64,"Mound Visit"
-"CHN201906230",65,"Mound Visit"
-"CHN201906230",66,"Mound Visit"
-"CHN201906240",11,"On-field Delay"
-"CHN201906240",38,"Mound Visit"
-"CHN201906240",41,"Mound Visit"
-"CHN201906240",63,"Mound Visit"
-"CHN201906250",12,"Mound Visit"
-"CHN201906250",29,"Mound Visit"
-"CHN201906250",33,"Mound Visit"
-"CHN201906250",37,"Mound Visit"
-"CHN201906250",38,"Mound Visit"
-"CHN201906250",61,"Mound Visit"
-"CHN201906250",62,"Mound Visit"
-"CHN201906250",66,"Mound Visit"
-"CHN201906260",23,"Mound Visit"
-"CHN201906260",52,"Mound Visit"
-"CHN201906260",54,"Mound Visit"
-"CHN201906260",67,"Mound Visit"
-"CHN201906260",68,"Mound Visit"
-"CHN201906260",69,"Mound Visit"
-"CHN201906260",71,"$Braves challenged call that Albies was out at 1st; call was upheld - ground out"
-"CHN201906270",31,"Mound Visit"
-"CHN201906270",37,"Mound Visit"
-"CHN201906270",39,"On-field Delay ej,gonzc001,P,lentn901,Called third strike $Gonzalez ejected by HP umpire Lentz for arguing called third strike"
-"CHN201906270",48,"Mound Visit"
-"CHN201906270",77,"Mound Visit"
-"CHN201906270",78,"Mound Visit"
-"CHN201907120",25,"Mound Visit"
-"CHN201907120",35,"Mound Visit"
-"CHN201907120",37,"Mound Visit"
-"CHN201907120",44,"Mound Visit"
-"CHN201907120",47,"Mound Visit"
-"CHN201907120",48,"Mound Visit"
-"CHN201907120",51,"Mound Visit"
-"CHN201907120",52,"Mound Visit"
-"CHN201907120",57,"Mound Visit"
-"CHN201907120",58,"Mound Visit"
-"CHN201907120",63,"Mound Visit"
-"CHN201907120",68,"$Cubs challenged call that Newman was safe at 1st; call was overturne - ground out"
-"CHN201907130",10,"Mound Visit"
-"CHN201907130",14,"Mound Visit"
-"CHN201907130",59,"$Cubs challenged call that Osuna was safe, claiming ball was trapped; call was upheld - single"
-"CHN201907130",63,"Mound Visit"
-"CHN201907130",69,"Mound Visit"
-"CHN201907130",80,"Mound Visit"
-"CHN201907140",20,"Mound Visit"
-"CHN201907140",38,"Mound Visit"
-"CHN201907140",47,"Mound Visit"
-"CHN201907140",54,"Mound Visit"
-"CHN201907140",55,"Mound Visit"
-"CHN201907150",19,"Mound Visit"
-"CHN201907150",30,"Mound Visit"
-"CHN201907150",41,"On-field Delay"
-"CHN201907150",46,"Mound Visit"
-"CHN201907150",51,"Mound Visit"
-"CHN201907150",56,"Mound Visit"
-"CHN201907150",63,"Mound Visit"
-"CHN201907150",67,"Mound Visit"
-"CHN201907150",74,"Mound Visit Mound Visit"
-"CHN201907160",6,"Mound Visit"
-"CHN201907160",33,"$Rizzo out for interferring with Dietrich who was trying to field ground ball"
-"CHN201907160",43,"Mound Visit"
-"CHN201907160",47,"Mound Visit"
-"CHN201907160",54,"Mound Visit"
-"CHN201907160",63,"Mound Visit"
-"CHN201907160",67,"Mound Visit"
-"CHN201907160",69,"Mound Visit"
-"CHN201907160",72,"Mound Visit"
-"CHN201907160",73,"Injury Delay"
-"CHN201907160",78,"Mound Visit"
-"CHN201907170",28,"Injury Delay"
-"CHN201907170",38,"Mound Visit"
-"CHN201907170",47,"$Reds challenged call that Iglesias was out at 1st; call was upheld - out on pickoff"
-"CHN201907170",49,"Mound Visit"
-"CHN201907170",52,"Mound Visit"
-"CHN201907170",58,"Mound Visit"
-"CHN201907170",64,"Mound Visit"
-"CHN201907170",66,"$Originally scored as defensive indifference, changed to to stolen base on 07-18-2019"
-"CHN201907190",6,"Mound Visit"
-"CHN201907190",26,"Injury Delay"
-"CHN201907190",28,"Mound Visit"
-"CHN201907190",33,"On-field Delay"
-"CHN201907190",40,"$Cubs challenged call that Renfroe was safe at 1st; call was overturned - ground out"
-"CHN201907190",44,"Mound Visit"
-"CHN201907190",49,"Mound Visit"
-"CHN201907190",66,"Mound Visit"
-"CHN201907200",10,"Mound Visit"
-"CHN201907200",33,"Mound Visit"
-"CHN201907200",75,"$Padres challenged call that Myers was out at 2nd; call was upheld - caught stealing"
-"CHN201907210",20,"Mound Visit"
-"CHN201907210",53,"$Cubs challenged call that Tatis was safe at 1st; call was upheld - safe on pitckoff attempt"
-"CHN201907210",62,"Mound Visit"
-"CHN201907210",63,"Mound Visit"
-"CHN201907210",64,"On-field Delay"
-"CHN201908020",10,"Mound Visit"
-"CHN201908020",30,"Mound Visit"
-"CHN201908020",55,"Mound Visit"
-"CHN201908020",61,"Mound Visit"
-"CHN201908020",62,"Mound Visit"
-"CHN201908020",68,"Mound Visit"
-"CHN201908020",72,"On-field Delay"
-"CHN201908030",3,"On-field Delay"
-"CHN201908030",38,"Mound Visit"
-"CHN201908030",40,"On-field Delay $Brewers challenged call that Cain was out at 1st; call overturned - single"
-"CHN201908030",42,"Mound Visit"
-"CHN201908030",44,"Mound Visit"
-"CHN201908030",50,"Mound Visit"
-"CHN201908030",52,"Mound Visit"
-"CHN201908030",54,"Injury Delay"
-"CHN201908030",59,"Mound Visit"
-"CHN201908030",64,"Mound Visit"
-"CHN201908030",66,"Mound Visit"
-"CHN201908030",68,"Mound Visit"
-"CHN201908030",72,"Mound Visit"
-"CHN201908040",9,"Mound Visit"
-"CHN201908040",22,"Mound Visit"
-"CHN201908040",40,"Mound Visit"
-"CHN201908040",60,"On-field Delay"
-"CHN201908040",61,"Mound Visit"
-"CHN201908050",15,"Mound Visit"
-"CHN201908050",22,"$Athletics challenged call that Castellanos was safe at 1st; call upheld - single"
-"CHN201908050",46,"Mound Visit"
-"CHN201908050",50,"Mound Visit"
-"CHN201908050",54,"Mound Visit"
-"CHN201908050",57,"Mound Visit"
-"CHN201908050",62,"Mound Visit"
-"CHN201908050",63,"Mound Visit"
-"CHN201908050",71,"Mound Visit"
-"CHN201908050",73,"Mound Visit"
-"CHN201908060",13,"Mound Visit"
-"CHN201908060",15,"Mound Visit"
-"CHN201908060",17,"Injury Delay $On 08-07-2019, assist given to 1bman, taken from pitcher; run now unearned"
-"CHN201908060",56,"Mound Visit"
-"CHN201908070",27,"Mound Visit"
-"CHN201908070",32,"Mound Visit"
-"CHN201908070",39,"Mound Visit"
-"CHN201908070",54,"Injury Delay"
-"CHN201908200",34,"Mound Visit"
-"CHN201908200",44,"$Cubs challenged call that Baez was out at 1st; call overturned - force out, not double play"
-"CHN201908200",53,"Mound Visit"
-"CHN201908200",63,"Mound Visit"
-"CHN201908210",19,"Mound Visit"
-"CHN201908210",39,"Mound Visit"
-"CHN201908210",53,"Mound Visit"
-"CHN201908210",62,"Mound Visit"
-"CHN201908210",63,"Mound Visit"
-"CHN201908210",68,"Mound Visit"
-"CHN201908210",86,"$Cubs challenged call that Schwarber was out at home; call upheld - out trying to score on single"
-"CHN201908220",42,"Mound Visit"
-"CHN201908220",49,"Mound Visit"
-"CHN201908220",54,"Mound Visit"
-"CHN201908230",27,"Mound Visit"
-"CHN201908230",28,"Mound Visit"
-"CHN201908230",36,"Mound Visit"
-"CHN201908230",74,"Mound Visit"
-"CHN201908240",18,"Mound Visit"
-"CHN201908240",21,"Mound Visit"
-"CHN201908240",40,"Mound Visit"
-"CHN201908240",41,"ej,happi001,P,carav901,Called strike 3 $Happ ejected by HP umpire Carapazza for arguing strike 3"
-"CHN201908240",42,"On-field Delay"
-"CHN201908240",47,"$Rizzo left with an injured back"
-"CHN201908240",48,"Mound Visit"
-"CHN201908240",48,"Mound Visit"
-"CHN201908240",54,"Mound Visit"
-"CHN201908240",55,"$Nationals challenged call that Parra was safe at 3rd; call overturned - double steal"
-"CHN201908240",62,"Mound Visit"
-"CHN201908240",67,"Mound Visit"
-"CHN201908240",81,"Mound Visit"
-"CHN201908240",85,"On-field Delay"
-"CHN201908250",32,"$Cubs challenged call that Strasburg was safe at 1st; call upheld - single"
-"CHN201908250",43,"Mound Visit"
-"CHN201908250",48,"Mound Visit"
-"CHN201908250",55,"Mound Visit"
-"CHN201908250",56,"Mound Visit"
-"CHN201908250",57,"Mound Visit"
-"CHN201908250",59,"Mound Visit"
-"CHN201908250",76,"Mound Visit Mound Visit"
-"CHN201908250",92,"Mound Visit"
-"CHN201908300",5,"On-field Delay"
-"CHN201908300",6,"$Brewers challenged call that Caratini was safe at 2nd; call overturned - single and out stretching"
-"CHN201908300",16,"Mound Visit"
-"CHN201908300",27,"Mound Visit Mound Visit"
-"CHN201908300",29,"Mound Visit"
-"CHN201908300",34,"Mound Visit"
-"CHN201908300",40,"$Hiura left with and injured leg"
-"CHN201908300",46,"Mound Visit"
-"CHN201908300",61,"Mound Visit"
-"CHN201908310",3,"Mound Visit"
-"CHN201908310",39,"Mound Visit"
-"CHN201908310",43,"Mound Visit"
-"CHN201908310",53,"Mound Visit"
-"CHN201908310",65,"Mound Visit"
-"CHN201909010",2,"Mound Visit"
-"CHN201909010",24,"Injury Delay"
-"CHN201909010",26,"Mound Visit"
-"CHN201909010",33,"Mound Visit"
-"CHN201909010",38,"Mound Visit"
-"CHN201909010",44,"Mound Visit"
-"CHN201909010",52,"Mound Visit"
-"CHN201909010",53,"Mound Visit"
-"CHN201909010",56,"ej,grany001,P,timmt901,Called strike 3 $Grandal ejected by HP umpire Timmons for arguing strike 3"
-"CHN201909010",59,"$Brewers challenged call that Thames was out at 2nd; call upheld - caught stealing"
-"CHN201909010",62,"Mound Visit"
-"CHN201909010",69,"Mound Visit"
-"CHN201909010",76,"Mound Visit"
-"CHN201909010",78,"$Umpire review of 3rd pitch to Happ; call upheld - ball, not hit by pitch"
-"CHN201909020",7,"$Cubs challenged clal that Bryant was out at 1st; call was overturned - force out, not double play"
-"CHN201909020",30,"Mound Visit"
-"CHN201909020",32,"Injury Delay"
-"CHN201909020",43,"Mound Visit"
-"CHN201909020",58,"Mound Visit"
-"CHN201909020",62,"Mound Visit"
-"CHN201909030",3,"On-field Delay"
-"CHN201909030",4,"Mound Visit"
-"CHN201909030",27,"Mound Visit"
-"CHN201909030",33,"Mound Visit"
-"CHN201909030",46,"Mound Visit"
-"CHN201909030",53,"Mound Visit"
-"CHN201909030",55,"On-field Delay"
-"CHN201909030",65,"Mound Visit"
-"CHN201909030",71,"Mound Visit"
-"CHN201909030",72,"$Mariners challenged call that Vogelbach was out at 2nd; call upheld - single and out stretching"
-"CHN201909030",76,"Mound Visit"
-"CHN201909130",5,"Mound Visit"
-"CHN201909130",7,"Mound Visit"
-"CHN201909130",13,"Mound Visit"
-"CHN201909130",28,"$Pirates challenged clal that Reyes was out at home, claiming catcher blocked plate with ball; call upheld - out at home"
-"CHN201909130",33,"Mound Visit"
-"CHN201909130",35,"Mound Visit"
-"CHN201909130",38,"Mound Visit"
-"CHN201909130",53,"Mound Visit"
-"CHN201909130",58,"$Cubs challegned clal that Bryant was out at 1st; call overturned - single"
-"CHN201909130",60,"Mound Visit"
-"CHN201909130",64,"Mound Visit"
-"CHN201909140",19,"Mound Visit"
-"CHN201909140",30,"$Pirates challenged call that Osuna was out at 1st; call overturned - single"
-"CHN201909140",37,"Mound Visit"
-"CHN201909140",48,"Mound Visit"
-"CHN201909140",49,"Mound Visit"
-"CHN201909140",59,"On-field Delay $Bote exchanged angry words with pitcher Holmes as he went to 1st; umpires intervened, benches did not empty and both teams received warnings"
-"CHN201909140",60,"Mound Visit"
-"CHN201909140",66,"Mound Visit"
-"CHN201909140",80,"On-field Delay ej,mapld001,P,marqa901,Automatic ejection for HBP after warning ej,maddj801,M,marqa901,Automatic ejection for HBP after warning $Picher Maples and Cubs manager Maddon ejected by HP umpire Marquez since warnings issued earlier"
-"CHN201909150",9,"Mound Visit"
-"CHN201909150",20,"Injury Delay"
-"CHN201909150",20,"$Rizzo left with an injured ankle"
-"CHN201909150",22,"Mound Visit"
-"CHN201909150",26,"Mound Visit"
-"CHN201909150",31,"Mound Visit"
-"CHN201909150",33,"Mound Visit"
-"CHN201909150",36,"$Pirates thought one of the runners who scored on triple had missed 3rd base so they appealead; however, the pitcher made a wild throw to 3rd in the attempt and the run scored"
-"CHN201909150",46,"Mound Visit"
-"CHN201909150",56,"Mound Visit"
-"CHN201909160",23,"Mound Visit"
-"CHN201909160",33,"Mound Visit"
-"CHN201909160",34,"Mound Visit"
-"CHN201909160",39,"Mound Visit"
-"CHN201909160",54,"Mound Visit"
-"CHN201909160",55,"Mound Visit"
-"CHN201909160",72,"Mound Visit Mound Visit"
-"CHN201909160",79,"Mound Visit"
-"CHN201909160",80,"Mound Visit"
-"CHN201909170",5,"Mound Visit"
-"CHN201909170",18,"On-field Delay"
-"CHN201909170",38,"Mound Visit"
-"CHN201909170",56,"Mound Visit"
-"CHN201909170",57,"Mound Visit"
-"CHN201909170",59,"Mound Visit"
-"CHN201909180",20,"Mound Visit"
-"CHN201909180",27,"On-field Delay $Reds challenged call that Castellanos as safe at 2nd; call upheld - double"
-"CHN201909180",40,"Mound Visit Mound Visit"
-"CHN201909180",41,"Mound Visit"
-"CHN201909180",48,"Mound Visit"
-"CHN201909180",49,"Mound Visit"
-"CHN201909180",52,"On-field Delay"
-"CHN201909180",54,"On-field Delay $Umpire review of ball hit by Contreras; call upheld - homer"
-"CHN201909180",61,"Mound Visit"
-"CHN201909180",67,"Mound Visit"
-"CHN201909180",70,"Mound Visit"
-"CHN201909180",72,"Mound Visit"
-"CHN201909180",76,"Mound Visit"
-"CHN201909180",78,"Mound Visit"
-"CHN201909180",79,"On-field Delay"
-"CHN201909180",81,"Mound Visit"
-"CHN201909190",2,"$Cubs challenged call that Wong was safe at 1st; call upheld - safe on pickoff attempt"
-"CHN201909190",35,"$Wong left with injured leg"
-"CHN201909190",38,"Mound Visit"
-"CHN201909190",39,"Mound Visit"
-"CHN201909190",41,"Mound Visit"
-"CHN201909190",42,"Mound Visit"
-"CHN201909190",55,"Mound Visit"
-"CHN201909190",60,"On-field Delay"
-"CHN201909190",67,"Mound Visit"
-"CHN201909190",70,"Mound Visit"
-"CHN201909190",75,"Mound Visit"
-"CHN201909200",14,"$Bote originally received RBI on this play, removed on 09-26-2019"
-"CHN201909200",15,"Mound Visit"
-"CHN201909200",19,"Mound Visit"
-"CHN201909200",25,"Mound Visit"
-"CHN201909200",31,"Injury Delay"
-"CHN201909200",33,"$Cardinals challenged call that Hoerner was safe at 1st; call overturned - ground out"
-"CHN201909200",36,"Mound Visit"
-"CHN201909200",42,"Mound Visit"
-"CHN201909200",43,"Mound Visit"
-"CHN201909200",45,"Mound Visit"
-"CHN201909200",47,"Mound Visit"
-"CHN201909200",49,"Mound Visit"
-"CHN201909200",53,"Mound Visit"
-"CHN201909200",58,"Mound Visit"
-"CHN201909200",63,"Mound Visit"
-"CHN201909200",72,"Mound Visit"
-"CHN201909200",76,"Mound Visit"
-"CHN201909200",78,"Mound Visit"
-"CHN201909210",9,"Mound Visit"
-"CHN201909210",10,"Mound Visit"
-"CHN201909210",23,"Mound Visit"
-"CHN201909210",29,"$Cubs challengd call that Schwarber was out at 3rd, call upheld - out advancing"
-"CHN201909210",34,"Mound Visit"
-"CHN201909210",35,"Mound Visit"
-"CHN201909210",37,"Mound Visit"
-"CHN201909210",42,"Mound Visit"
-"CHN201909210",49,"Mound Visit"
-"CHN201909210",50,"Mound Visit"
-"CHN201909210",71,"Mound Visit"
-"CHN201909210",72,"Mound Visit"
-"CHN201909210",75,"Mound Visit"
-"CHN201909210",81,"Mound Visit"
-"CHN201909210",85,"Mound Visit"
-"CHN201909210",89,"Mound Visit"
-"CHN201909220",23,"Injury Delay"
-"CHN201909220",23,"$Bryant left with an injured ankle which was hurt when he lipped on the wet base"
-"CHN201909220",52,"Mound Visit"
-"CHN201909220",57,"Mound Visit"
-"CHN201909220",61,"Mound Visit"
-"CHN201909220",63,"Mound Visit"
-"CHN201909220",69,"Mound Visit"
+"CHN201904080",18,"Mound Visit"FILENAME_TX","LINE_NUMBER_CT"
+
+"CHN201904080",20,"Injury Delay"2019CHN.EVN.regular.comment.csv",2
+
+"CHN201904080",22,"Mound Visit"2019CHN.EVN.regular.comment.csv",3
+
+"CHN201904080",24,"Injury Delay"2019CHN.EVN.regular.comment.csv",4
+
+"CHN201904080",25,"Mound Visit"2019CHN.EVN.regular.comment.csv",5
+
+"CHN201904080",25,"$Jon Lester left with injured leg"2019CHN.EVN.regular.comment.csv",6
+
+"CHN201904080",32,"Mound Visit"2019CHN.EVN.regular.comment.csv",7
+
+"CHN201904100",41,"Mound Visit"2019CHN.EVN.regular.comment.csv",8
+
+"CHN201904100",64,"Mound Visit"2019CHN.EVN.regular.comment.csv",9
+
+"CHN201904100",68,"Mound Visit"2019CHN.EVN.regular.comment.csv",10
+
+"CHN201904100",69,"Mound Visit"2019CHN.EVN.regular.comment.csv",11
+
+"CHN201904110",28,"Injury Delay"2019CHN.EVN.regular.comment.csv",12
+
+"CHN201904110",36,"Mound Visit ej,maddj801,M,estam901,Arguing balls and strikes $Chicago manager Maddon ejected by plate umpire Estabrook for arguing balls and strikes"2019CHN.EVN.regular.comment.csv",13
+
+"CHN201904110",37,"On-field Delay"2019CHN.EVN.regular.comment.csv",14
+
+"CHN201904110",44,"Mound Visit"2019CHN.EVN.regular.comment.csv",15
+
+"CHN201904110",45,"On-field Delay"2019CHN.EVN.regular.comment.csv",16
+
+"CHN201904110",52,"Mound Visit"2019CHN.EVN.regular.comment.csv",17
+
+"CHN201904110",54,"Mound Visit"2019CHN.EVN.regular.comment.csv",18
+
+"CHN201904120",54,"Mound Visit"2019CHN.EVN.regular.comment.csv",19
+
+"CHN201904120",56,"Mound Visit"2019CHN.EVN.regular.comment.csv",20
+
+"CHN201904130",10,"Mound Visit"2019CHN.EVN.regular.comment.csv",21
+
+"CHN201904130",26,"Mound Visit"2019CHN.EVN.regular.comment.csv",22
+
+"CHN201904130",43,"Mound Visit"2019CHN.EVN.regular.comment.csv",23
+
+"CHN201904130",46,"Mound Visit"2019CHN.EVN.regular.comment.csv",24
+
+"CHN201904130",47,"Mound Visit"2019CHN.EVN.regular.comment.csv",25
+
+"CHN201904130",50,"Mound Visit"2019CHN.EVN.regular.comment.csv",26
+
+"CHN201904130",51,"Mound Visit"2019CHN.EVN.regular.comment.csv",27
+
+"CHN201904130",65,"Mound Visit"2019CHN.EVN.regular.comment.csv",28
+
+"CHN201904130",73,"Mound Visit"2019CHN.EVN.regular.comment.csv",29
+
+"CHN201904130",74,"Mound Visit"2019CHN.EVN.regular.comment.csv",30
+
+"CHN201904190",9,"Injury Delay"2019CHN.EVN.regular.comment.csv",31
+
+"CHN201904190",20,"On-field Delay"2019CHN.EVN.regular.comment.csv",32
+
+"CHN201904190",22,"Mound Visit"2019CHN.EVN.regular.comment.csv",33
+
+"CHN201904190",40,"Mound Visit"2019CHN.EVN.regular.comment.csv",34
+
+"CHN201904190",41,"Mound Visit"2019CHN.EVN.regular.comment.csv",35
+
+"CHN201904190",59,"Mound Visit"2019CHN.EVN.regular.comment.csv",36
+
+"CHN201904190",64,"Injury Delay"2019CHN.EVN.regular.comment.csv",37
+
+"CHN201904190",81,"Mound Visit"2019CHN.EVN.regular.comment.csv",38
+
+"CHN201904200",11,"Mound Visit"2019CHN.EVN.regular.comment.csv",39
+
+"CHN201904200",12,"Mound Visit"2019CHN.EVN.regular.comment.csv",40
+
+"CHN201904200",33,"Mound Visit"2019CHN.EVN.regular.comment.csv",41
+
+"CHN201904200",43,"Injury Delay"2019CHN.EVN.regular.comment.csv",42
+
+"CHN201904200",54,"Mound Visit"2019CHN.EVN.regular.comment.csv",43
+
+"CHN201904200",60,"Mound Visit"2019CHN.EVN.regular.comment.csv",44
+
+"CHN201904200",63,"On-field Delay"2019CHN.EVN.regular.comment.csv",45
+
+"CHN201904210",43,"Mound Visit"2019CHN.EVN.regular.comment.csv",46
+
+"CHN201904210",45,"Mound Visit"2019CHN.EVN.regular.comment.csv",47
+
+"CHN201904210",49,"Mound Visit"2019CHN.EVN.regular.comment.csv",48
+
+"CHN201904210",63,"Mound Visit"2019CHN.EVN.regular.comment.csv",49
+
+"CHN201904230",8,"Mound Visit"2019CHN.EVN.regular.comment.csv",50
+
+"CHN201904230",20,"On-field Delay"2019CHN.EVN.regular.comment.csv",51
+
+"CHN201904230",53,"Mound Visit"2019CHN.EVN.regular.comment.csv",52
+
+"CHN201904230",55,"Mound Visit"2019CHN.EVN.regular.comment.csv",53
+
+"CHN201904230",64,"Mound Visit"2019CHN.EVN.regular.comment.csv",54
+
+"CHN201904240",27,"Mound Visit"2019CHN.EVN.regular.comment.csv",55
+
+"CHN201904240",41,"Mound Visit"2019CHN.EVN.regular.comment.csv",56
+
+"CHN201904240",47,"Mound Visit"2019CHN.EVN.regular.comment.csv",57
+
+"CHN201904240",48,"Mound Visit"2019CHN.EVN.regular.comment.csv",58
+
+"CHN201904240",59,"Mound Visit"2019CHN.EVN.regular.comment.csv",59
+
+"CHN201904250",39,"Mound Visit"2019CHN.EVN.regular.comment.csv",60
+
+"CHN201904250",42,"Mound Visit"2019CHN.EVN.regular.comment.csv",61
+
+"CHN201904250",50,"Injury Delay"2019CHN.EVN.regular.comment.csv",62
+
+"CHN201904250",54,"Mound Visit"2019CHN.EVN.regular.comment.csv",63
+
+"CHN201904250",56,"Mound Visit"2019CHN.EVN.regular.comment.csv",64
+
+"CHN201904250",57,"$Dodgers challenged call that Seager was out at 2nd; call was upheld - ground out and advance"2019CHN.EVN.regular.comment.csv",65
+
+"CHN201904250",58,"Mound Visit"2019CHN.EVN.regular.comment.csv",66
+
+"CHN201905030",17,"$Cardinals challenged call that Wong was out at 2nd; call was upheld - force out"2019CHN.EVN.regular.comment.csv",67
+
+"CHN201905030",46,"Mound Visit"2019CHN.EVN.regular.comment.csv",68
+
+"CHN201905030",47,"Mound Visit"2019CHN.EVN.regular.comment.csv",69
+
+"CHN201905040",31,"Mound Visit"2019CHN.EVN.regular.comment.csv",70
+
+"CHN201905040",41,"$Descalso left with injured ankle"2019CHN.EVN.regular.comment.csv",71
+
+"CHN201905040",43,"Mound Visit"2019CHN.EVN.regular.comment.csv",72
+
+"CHN201905040",45,"Mound Visit"2019CHN.EVN.regular.comment.csv",73
+
+"CHN201905040",47,"Mound Visit"2019CHN.EVN.regular.comment.csv",74
+
+"CHN201905040",56,"Mound Visit"2019CHN.EVN.regular.comment.csv",75
+
+"CHN201905040",65,"Mound Visit"2019CHN.EVN.regular.comment.csv",76
+
+"CHN201905040",68,"Injury Delay Mound Visit"2019CHN.EVN.regular.comment.csv",77
+
+"CHN201905040",76,"$Cubs challenged call that ball hit by Baez was foul; call was upheld - foul ball"2019CHN.EVN.regular.comment.csv",78
+
+"CHN201905040",80,"On-field Delay"2019CHN.EVN.regular.comment.csv",79
+
+"CHN201905050",18,"Mound Visit"2019CHN.EVN.regular.comment.csv",80
+
+"CHN201905050",44,"Mound Visit"2019CHN.EVN.regular.comment.csv",81
+
+"CHN201905050",48,"Mound Visit"2019CHN.EVN.regular.comment.csv",82
+
+"CHN201905050",58,"Mound Visit"2019CHN.EVN.regular.comment.csv",83
+
+"CHN201905050",61,"Mound Visit"2019CHN.EVN.regular.comment.csv",84
+
+"CHN201905050",67,"Mound Visit"2019CHN.EVN.regular.comment.csv",85
+
+"CHN201905050",72,"Mound Visit"2019CHN.EVN.regular.comment.csv",86
+
+"CHN201905050",74,"Mound Visit"2019CHN.EVN.regular.comment.csv",87
+
+"CHN201905060",9,"Mound Visit"2019CHN.EVN.regular.comment.csv",88
+
+"CHN201905060",36,"Mound Visit"2019CHN.EVN.regular.comment.csv",89
+
+"CHN201905060",42,"Mound Visit"2019CHN.EVN.regular.comment.csv",90
+
+"CHN201905060",49,"Mound Visit"2019CHN.EVN.regular.comment.csv",91
+
+"CHN201905060",50,"Mound Visit"2019CHN.EVN.regular.comment.csv",92
+
+"CHN201905060",70,"Mound Visit"2019CHN.EVN.regular.comment.csv",93
+
+"CHN201905060",72,"Mound Visit"2019CHN.EVN.regular.comment.csv",94
+
+"CHN201905070",21,"Mound Visit"2019CHN.EVN.regular.comment.csv",95
+
+"CHN201905070",28,"On-field Delay"2019CHN.EVN.regular.comment.csv",96
+
+"CHN201905070",45,"$Cubs challenged call that Rojas was safe at 1st on pickoff attempt; call was upheld - safe at 1st"2019CHN.EVN.regular.comment.csv",97
+
+"CHN201905070",57,"Mound Visit"2019CHN.EVN.regular.comment.csv",98
+
+"CHN201905070",62,"On-field Delay"2019CHN.EVN.regular.comment.csv",99
+
+"CHN201905070",72,"$Marlins challenged call that Schwarber was hit by pitch; call was upheld - hit by pitch"2019CHN.EVN.regular.comment.csv",100
+
+"CHN201905070",72,"Mound Visit"2019CHN.EVN.regular.comment.csv",101
+
+"CHN201905070",74,"Mound Visit"2019CHN.EVN.regular.comment.csv",102
+
+"CHN201905080",61,"Mound Visit"2019CHN.EVN.regular.comment.csv",103
+
+"CHN201905080",63,"Mound Visit"2019CHN.EVN.regular.comment.csv",104
+
+"CHN201905080",65,"Mound Visit"2019CHN.EVN.regular.comment.csv",105
+
+"CHN201905090",9,"Mound Visit"2019CHN.EVN.regular.comment.csv",106
+
+"CHN201905090",26,"Mound Visit"2019CHN.EVN.regular.comment.csv",107
+
+"CHN201905090",76,"Mound Visit"2019CHN.EVN.regular.comment.csv",108
+
+"CHN201905100",36,"Injury Delay"2019CHN.EVN.regular.comment.csv",109
+
+"CHN201905100",40,"Mound Visit"2019CHN.EVN.regular.comment.csv",110
+
+"CHN201905100",42,"Mound Visit"2019CHN.EVN.regular.comment.csv",111
+
+"CHN201905100",47,"Mound Visit"2019CHN.EVN.regular.comment.csv",112
+
+"CHN201905100",50,"Mound Visit"2019CHN.EVN.regular.comment.csv",113
+
+"CHN201905100",53,"Mound Visit"2019CHN.EVN.regular.comment.csv",114
+
+"CHN201905100",55,"Mound Visit"2019CHN.EVN.regular.comment.csv",115
+
+"CHN201905100",60,"Mound Visit"2019CHN.EVN.regular.comment.csv",116
+
+"CHN201905100",75,"Mound Visit"2019CHN.EVN.regular.comment.csv",117
+
+"CHN201905110",44,"Mound Visit"2019CHN.EVN.regular.comment.csv",118
+
+"CHN201905110",47,"Mound Visit"2019CHN.EVN.regular.comment.csv",119
+
+"CHN201905110",55,"Mound Visit"2019CHN.EVN.regular.comment.csv",120
+
+"CHN201905110",56,"Mound Visit"2019CHN.EVN.regular.comment.csv",121
+
+"CHN201905110",59,"Mound Visit"2019CHN.EVN.regular.comment.csv",122
+
+"CHN201905110",69,"Mound Visit"2019CHN.EVN.regular.comment.csv",123
+
+"CHN201905110",74,"Mound Visit"2019CHN.EVN.regular.comment.csv",124
+
+"CHN201905110",82,"Mound Visit"2019CHN.EVN.regular.comment.csv",125
+
+"CHN201905110",84,"Mound Visit"2019CHN.EVN.regular.comment.csv",126
+
+"CHN201905110",94,"Mound Visit"2019CHN.EVN.regular.comment.csv",127
+
+"CHN201905110",95,"Mound Visit"2019CHN.EVN.regular.comment.csv",128
+
+"CHN201905110",99,"Mound Visit"2019CHN.EVN.regular.comment.csv",129
+
+"CHN201905110",101,"Mound Visit"2019CHN.EVN.regular.comment.csv",130
+
+"CHN201905120",31,"Mound Visit"2019CHN.EVN.regular.comment.csv",131
+
+"CHN201905120",56,"Mound Visit"2019CHN.EVN.regular.comment.csv",132
+
+"CHN201905200",17,"On-field Delay"2019CHN.EVN.regular.comment.csv",133
+
+"CHN201905200",41,"Mound Visit"2019CHN.EVN.regular.comment.csv",134
+
+"CHN201905200",44,"$Cubs challenged call that Segura was safe at 1st; call was upheld - force out, no double play"2019CHN.EVN.regular.comment.csv",135
+
+"CHN201905200",46,"Mound Visit"2019CHN.EVN.regular.comment.csv",136
+
+"CHN201905200",66,"Mound Visit"2019CHN.EVN.regular.comment.csv",137
+
+"CHN201905200",67,"Mound Visit"2019CHN.EVN.regular.comment.csv",138
+
+"CHN201905200",68,"On-field Delay $Umpire review of play at 1st; call was upheld - sacrifice"2019CHN.EVN.regular.comment.csv",139
+
+"CHN201905200",73,"Mound Visit"2019CHN.EVN.regular.comment.csv",140
+
+"CHN201905200",75,"Mound Visit"2019CHN.EVN.regular.comment.csv",141
+
+"CHN201905200",76,"$Phillies challenged call that Segura was out at 2nd; call was upheld - single and out stretching"2019CHN.EVN.regular.comment.csv",142
+
+"CHN201905200",85,"Mound Visit"2019CHN.EVN.regular.comment.csv",143
+
+"CHN201905200",87,"$Umpire review of play at 1st; call was upheld - double play"2019CHN.EVN.regular.comment.csv",144
+
+"CHN201905210",10,"Mound Visit"2019CHN.EVN.regular.comment.csv",145
+
+"CHN201905210",11,"Mound Visit"2019CHN.EVN.regular.comment.csv",146
+
+"CHN201905210",37,"On-field Delay On-field Delay $Phillies challenged call that Bryant's double was in play, claiming it bounced into stands; call was overturned - ground rule double, runner returned to 3rd"2019CHN.EVN.regular.comment.csv",147
+
+"CHN201905210",56,"Mound Visit"2019CHN.EVN.regular.comment.csv",148
+
+"CHN201905210",61,"Mound Visit"2019CHN.EVN.regular.comment.csv",149
+
+"CHN201905210",62,"Mound Visit"2019CHN.EVN.regular.comment.csv",150
+
+"CHN201905210",69,"Mound Visit"2019CHN.EVN.regular.comment.csv",151
+
+"CHN201905210",73,"Mound Visit"2019CHN.EVN.regular.comment.csv",152
+
+"CHN201905210",74,"Mound Visit"2019CHN.EVN.regular.comment.csv",153
+
+"CHN201905210",80,"$Phillies challenged call that Bryant was safe at home; call was upheld - fielder's choice scoring run"2019CHN.EVN.regular.comment.csv",154
+
+"CHN201905220",11,"Mound Visit"2019CHN.EVN.regular.comment.csv",155
+
+"CHN201905220",24,"$Cubs challenged call that Hernande was safe at 1st; call was upheld - safe on pickoff attempt"2019CHN.EVN.regular.comment.csv",156
+
+"CHN201905220",37,"Mound Visit"2019CHN.EVN.regular.comment.csv",157
+
+"CHN201905220",49,"Mound Visit"2019CHN.EVN.regular.comment.csv",158
+
+"CHN201905220",50,"Mound Visit"2019CHN.EVN.regular.comment.csv",159
+
+"CHN201905220",62,"Mound Visit"2019CHN.EVN.regular.comment.csv",160
+
+"CHN201905220",75,"Mound Visit"2019CHN.EVN.regular.comment.csv",161
+
+"CHN201905220",78,"Mound Visit"2019CHN.EVN.regular.comment.csv",162
+
+"CHN201905230",7,"Mound Visit"2019CHN.EVN.regular.comment.csv",163
+
+"CHN201905230",36,"Mound Visit"2019CHN.EVN.regular.comment.csv",164
+
+"CHN201905230",54,"Mound Visit"2019CHN.EVN.regular.comment.csv",165
+
+"CHN201905230",56,"Mound Visit"2019CHN.EVN.regular.comment.csv",166
+
+"CHN201905230",57,"Mound Visit"2019CHN.EVN.regular.comment.csv",167
+
+"CHN201905230",58,"$Cubs challenged call that Heyward was out at 3rd; call was upheld - force out at 3rd"2019CHN.EVN.regular.comment.csv",168
+
+"CHN201905230",66,"Mound Visit"2019CHN.EVN.regular.comment.csv",169
+
+"CHN201905230",70,"$Phillies challenged call that Rodriguez was out at 1st; call was overturned - infield single"2019CHN.EVN.regular.comment.csv",170
+
+"CHN201905230",71,"Mound Visit"2019CHN.EVN.regular.comment.csv",171
+
+"CHN201905230",79,"Mound Visit"2019CHN.EVN.regular.comment.csv",172
+
+"CHN201905230",86,"Mound Visit"2019CHN.EVN.regular.comment.csv",173
+
+"CHN201905230",87,"Mound Visit"2019CHN.EVN.regular.comment.csv",174
+
+"CHN201905240",3,"On-field Delay"2019CHN.EVN.regular.comment.csv",175
+
+"CHN201905240",28,"Mound Visit"2019CHN.EVN.regular.comment.csv",176
+
+"CHN201905240",34,"Mound Visit"2019CHN.EVN.regular.comment.csv",177
+
+"CHN201905240",35,"Mound Visit"2019CHN.EVN.regular.comment.csv",178
+
+"CHN201905240",58,"Mound Visit"2019CHN.EVN.regular.comment.csv",179
+
+"CHN201905240",60,"Mound Visit"2019CHN.EVN.regular.comment.csv",180
+
+"CHN201905240",66,"Mound Visit"2019CHN.EVN.regular.comment.csv",181
+
+"CHN201905240",71,"Mound Visit"2019CHN.EVN.regular.comment.csv",182
+
+"CHN201905240",72,"Mound Visit"2019CHN.EVN.regular.comment.csv",183
+
+"CHN201905240",77,"Mound Visit"2019CHN.EVN.regular.comment.csv",184
+
+"CHN201905250",18,"Mound Visit"2019CHN.EVN.regular.comment.csv",185
+
+"CHN201905250",32,"Mound Visit"2019CHN.EVN.regular.comment.csv",186
+
+"CHN201905250",39,"Mound Visit"2019CHN.EVN.regular.comment.csv",187
+
+"CHN201905250",53,"Mound Visit"2019CHN.EVN.regular.comment.csv",188
+
+"CHN201905250",67,"Mound Visit"2019CHN.EVN.regular.comment.csv",189
+
+"CHN201905250",75,"Mound Visit"2019CHN.EVN.regular.comment.csv",190
+
+"CHN201905250",80,"Mound Visit Mound Visit"2019CHN.EVN.regular.comment.csv",191
+
+"CHN201905260",24,"On-field Delay"2019CHN.EVN.regular.comment.csv",192
+
+"CHN201905260",39,"Injury Delay"2019CHN.EVN.regular.comment.csv",193
+
+"CHN201905260",40,"Mound Visit"2019CHN.EVN.regular.comment.csv",194
+
+"CHN201905260",49,"Mound Visit"2019CHN.EVN.regular.comment.csv",195
+
+"CHN201905260",50,"Mound Visit"2019CHN.EVN.regular.comment.csv",196
+
+"CHN201905260",54,"Injury Delay"2019CHN.EVN.regular.comment.csv",197
+
+"CHN201905260",58,"Mound Visit"2019CHN.EVN.regular.comment.csv",198
+
+"CHN201905260",62,"Mound Visit"2019CHN.EVN.regular.comment.csv",199
+
+"CHN201905260",83,"Mound Visit"2019CHN.EVN.regular.comment.csv",200
+
+"CHN201906030",39,"Mound Visit"2019CHN.EVN.regular.comment.csv",201
+
+"CHN201906030",42,"Mound Visit"2019CHN.EVN.regular.comment.csv",202
+
+"CHN201906030",44,"Mound Visit"2019CHN.EVN.regular.comment.csv",203
+
+"CHN201906030",45,"On-field Delay"2019CHN.EVN.regular.comment.csv",204
+
+"CHN201906030",48,"Mound Visit"2019CHN.EVN.regular.comment.csv",205
+
+"CHN201906030",53,"Mound Visit"2019CHN.EVN.regular.comment.csv",206
+
+"CHN201906040",47,"Injury Delay"2019CHN.EVN.regular.comment.csv",207
+
+"CHN201906040",51,"Mound Visit"2019CHN.EVN.regular.comment.csv",208
+
+"CHN201906040",52,"Mound Visit"2019CHN.EVN.regular.comment.csv",209
+
+"CHN201906050",40,"Mound Visit"2019CHN.EVN.regular.comment.csv",210
+
+"CHN201906050",41,"Mound Visit"2019CHN.EVN.regular.comment.csv",211
+
+"CHN201906050",43,"Mound Visit"2019CHN.EVN.regular.comment.csv",212
+
+"CHN201906050",47,"Mound Visit"2019CHN.EVN.regular.comment.csv",213
+
+"CHN201906050",48,"Mound Visit"2019CHN.EVN.regular.comment.csv",214
+
+"CHN201906050",51,"Mound Visit"2019CHN.EVN.regular.comment.csv",215
+
+"CHN201906050",57,"Mound Visit"2019CHN.EVN.regular.comment.csv",216
+
+"CHN201906050",59,"Mound Visit"2019CHN.EVN.regular.comment.csv",217
+
+"CHN201906050",66,"Mound Visit"2019CHN.EVN.regular.comment.csv",218
+
+"CHN201906060",1,"$Cubs challenged call that Tapia was safe at 1st; call was overturne - ground out"2019CHN.EVN.regular.comment.csv",219
+
+"CHN201906060",44,"Mound Visit"2019CHN.EVN.regular.comment.csv",220
+
+"CHN201906060",48,"Mound Visit"2019CHN.EVN.regular.comment.csv",221
+
+"CHN201906060",54,"Mound Visit"2019CHN.EVN.regular.comment.csv",222
+
+"CHN201906070",29,"Mound Visit"2019CHN.EVN.regular.comment.csv",223
+
+"CHN201906070",33,"Mikolas left with an injured arm"2019CHN.EVN.regular.comment.csv",224
+
+"CHN201906070",37,"On-field Delay"2019CHN.EVN.regular.comment.csv",225
+
+"CHN201906070",51,"Mound Visit"2019CHN.EVN.regular.comment.csv",226
+
+"CHN201906070",53,"Mound Visit"2019CHN.EVN.regular.comment.csv",227
+
+"CHN201906080",7,"Mound Visit"2019CHN.EVN.regular.comment.csv",228
+
+"CHN201906080",11,"Mound Visit"2019CHN.EVN.regular.comment.csv",229
+
+"CHN201906080",22,"On-field Delay"2019CHN.EVN.regular.comment.csv",230
+
+"CHN201906080",38,"Mound Visit"2019CHN.EVN.regular.comment.csv",231
+
+"CHN201906080",42,"On-field Delay"2019CHN.EVN.regular.comment.csv",232
+
+"CHN201906080",50,"Mound Visit"2019CHN.EVN.regular.comment.csv",233
+
+"CHN201906080",53,"Mound Visit"2019CHN.EVN.regular.comment.csv",234
+
+"CHN201906080",54,"Mound Visit"2019CHN.EVN.regular.comment.csv",235
+
+"CHN201906090",5,"Injury Delay"2019CHN.EVN.regular.comment.csv",236
+
+"CHN201906090",38,"Mound Visit"2019CHN.EVN.regular.comment.csv",237
+
+"CHN201906090",40,"Mound Visit Injury Delay"2019CHN.EVN.regular.comment.csv",238
+
+"CHN201906090",40,"$Wainwright left with an injured leg"2019CHN.EVN.regular.comment.csv",239
+
+"CHN201906090",54,"Mound Visit"2019CHN.EVN.regular.comment.csv",240
+
+"CHN201906090",68,"Mound Visit"2019CHN.EVN.regular.comment.csv",241
+
+"CHN201906090",71,"Mound Visit"2019CHN.EVN.regular.comment.csv",242
+
+"CHN201906180",3,"Mound Visit"2019CHN.EVN.regular.comment.csv",243
+
+"CHN201906180",40,"$Batter interference"2019CHN.EVN.regular.comment.csv",244
+
+"CHN201906180",42,"Mound Visit"2019CHN.EVN.regular.comment.csv",245
+
+"CHN201906180",44,"Mound Visit"2019CHN.EVN.regular.comment.csv",246
+
+"CHN201906180",47,"Mound Visit"2019CHN.EVN.regular.comment.csv",247
+
+"CHN201906180",58,"Mound Visit"2019CHN.EVN.regular.comment.csv",248
+
+"CHN201906180",63,"Mound Visit"2019CHN.EVN.regular.comment.csv",249
+
+"CHN201906190",9,"Mound Visit"2019CHN.EVN.regular.comment.csv",250
+
+"CHN201906190",11,"Mound Visit"2019CHN.EVN.regular.comment.csv",251
+
+"CHN201906190",31,"Mound Visit"2019CHN.EVN.regular.comment.csv",252
+
+"CHN201906190",33,"Mound Visit"2019CHN.EVN.regular.comment.csv",253
+
+"CHN201906190",36,"$Batter interference"2019CHN.EVN.regular.comment.csv",254
+
+"CHN201906190",48,"Mound Visit"2019CHN.EVN.regular.comment.csv",255
+
+"CHN201906190",54,"Mound Visit"2019CHN.EVN.regular.comment.csv",256
+
+"CHN201906190",70,"Mound Visit"2019CHN.EVN.regular.comment.csv",257
+
+"CHN201906200",8,"Injury Delay"2019CHN.EVN.regular.comment.csv",258
+
+"CHN201906200",9,"Mound Visit"2019CHN.EVN.regular.comment.csv",259
+
+"CHN201906200",24,"Mound Visit"2019CHN.EVN.regular.comment.csv",260
+
+"CHN201906200",27,"Mound Visit"2019CHN.EVN.regular.comment.csv",261
+
+"CHN201906200",28,"Mound Visit"2019CHN.EVN.regular.comment.csv",262
+
+"CHN201906200",35,"Mound Visit Injury Delay"2019CHN.EVN.regular.comment.csv",263
+
+"CHN201906200",71,"Mound Visit"2019CHN.EVN.regular.comment.csv",264
+
+"CHN201906200",72,"Mound Visit"2019CHN.EVN.regular.comment.csv",265
+
+"CHN201906210",17,"Mound Visit"2019CHN.EVN.regular.comment.csv",266
+
+"CHN201906210",41,"Mound Visit On-field Delay"2019CHN.EVN.regular.comment.csv",267
+
+"CHN201906210",42,"On-field Delay Mound Visit"2019CHN.EVN.regular.comment.csv",268
+
+"CHN201906210",51,"Mound Visit"2019CHN.EVN.regular.comment.csv",269
+
+"CHN201906210",56,"Mound Visit"2019CHN.EVN.regular.comment.csv",270
+
+"CHN201906210",63,"Mound Visit"2019CHN.EVN.regular.comment.csv",271
+
+"CHN201906220",15,"$Cubs challenged call that McNeil was safe at 2nd; call was overturned - single and out stretching"2019CHN.EVN.regular.comment.csv",272
+
+"CHN201906220",31,"Mound Visit"2019CHN.EVN.regular.comment.csv",273
+
+"CHN201906220",40,"Mound Visit"2019CHN.EVN.regular.comment.csv",274
+
+"CHN201906220",50,"Mound Visit"2019CHN.EVN.regular.comment.csv",275
+
+"CHN201906220",51,"$Mets challenged call that Smith was out at 2nd; call was overturned - single"2019CHN.EVN.regular.comment.csv",276
+
+"CHN201906220",58,"$Cubs challenged call that Lagares was safe at 1st; call was overturned - out to complete double play"2019CHN.EVN.regular.comment.csv",277
+
+"CHN201906220",61,"Mound Visit"2019CHN.EVN.regular.comment.csv",278
+
+"CHN201906220",76,"On-field Delay"2019CHN.EVN.regular.comment.csv",279
+
+"CHN201906220",79,"Mound Visit"2019CHN.EVN.regular.comment.csv",280
+
+"CHN201906230",19,"Mound Visit"2019CHN.EVN.regular.comment.csv",281
+
+"CHN201906230",38,"Mound Visit"2019CHN.EVN.regular.comment.csv",282
+
+"CHN201906230",48,"Mound Visit"2019CHN.EVN.regular.comment.csv",283
+
+"CHN201906230",55,"Mound Visit"2019CHN.EVN.regular.comment.csv",284
+
+"CHN201906230",64,"Mound Visit"2019CHN.EVN.regular.comment.csv",285
+
+"CHN201906230",65,"Mound Visit"2019CHN.EVN.regular.comment.csv",286
+
+"CHN201906230",66,"Mound Visit"2019CHN.EVN.regular.comment.csv",287
+
+"CHN201906240",11,"On-field Delay"2019CHN.EVN.regular.comment.csv",288
+
+"CHN201906240",38,"Mound Visit"2019CHN.EVN.regular.comment.csv",289
+
+"CHN201906240",41,"Mound Visit"2019CHN.EVN.regular.comment.csv",290
+
+"CHN201906240",63,"Mound Visit"2019CHN.EVN.regular.comment.csv",291
+
+"CHN201906250",12,"Mound Visit"2019CHN.EVN.regular.comment.csv",292
+
+"CHN201906250",29,"Mound Visit"2019CHN.EVN.regular.comment.csv",293
+
+"CHN201906250",33,"Mound Visit"2019CHN.EVN.regular.comment.csv",294
+
+"CHN201906250",37,"Mound Visit"2019CHN.EVN.regular.comment.csv",295
+
+"CHN201906250",38,"Mound Visit"2019CHN.EVN.regular.comment.csv",296
+
+"CHN201906250",61,"Mound Visit"2019CHN.EVN.regular.comment.csv",297
+
+"CHN201906250",62,"Mound Visit"2019CHN.EVN.regular.comment.csv",298
+
+"CHN201906250",66,"Mound Visit"2019CHN.EVN.regular.comment.csv",299
+
+"CHN201906260",23,"Mound Visit"2019CHN.EVN.regular.comment.csv",300
+
+"CHN201906260",52,"Mound Visit"2019CHN.EVN.regular.comment.csv",301
+
+"CHN201906260",54,"Mound Visit"2019CHN.EVN.regular.comment.csv",302
+
+"CHN201906260",67,"Mound Visit"2019CHN.EVN.regular.comment.csv",303
+
+"CHN201906260",68,"Mound Visit"2019CHN.EVN.regular.comment.csv",304
+
+"CHN201906260",69,"Mound Visit"2019CHN.EVN.regular.comment.csv",305
+
+"CHN201906260",71,"$Braves challenged call that Albies was out at 1st; call was upheld - ground out"2019CHN.EVN.regular.comment.csv",306
+
+"CHN201906270",31,"Mound Visit"2019CHN.EVN.regular.comment.csv",307
+
+"CHN201906270",37,"Mound Visit"2019CHN.EVN.regular.comment.csv",308
+
+"CHN201906270",39,"On-field Delay ej,gonzc001,P,lentn901,Called third strike $Gonzalez ejected by HP umpire Lentz for arguing called third strike"2019CHN.EVN.regular.comment.csv",309
+
+"CHN201906270",48,"Mound Visit"2019CHN.EVN.regular.comment.csv",310
+
+"CHN201906270",77,"Mound Visit"2019CHN.EVN.regular.comment.csv",311
+
+"CHN201906270",78,"Mound Visit"2019CHN.EVN.regular.comment.csv",312
+
+"CHN201907120",25,"Mound Visit"2019CHN.EVN.regular.comment.csv",313
+
+"CHN201907120",35,"Mound Visit"2019CHN.EVN.regular.comment.csv",314
+
+"CHN201907120",37,"Mound Visit"2019CHN.EVN.regular.comment.csv",315
+
+"CHN201907120",44,"Mound Visit"2019CHN.EVN.regular.comment.csv",316
+
+"CHN201907120",47,"Mound Visit"2019CHN.EVN.regular.comment.csv",317
+
+"CHN201907120",48,"Mound Visit"2019CHN.EVN.regular.comment.csv",318
+
+"CHN201907120",51,"Mound Visit"2019CHN.EVN.regular.comment.csv",319
+
+"CHN201907120",52,"Mound Visit"2019CHN.EVN.regular.comment.csv",320
+
+"CHN201907120",57,"Mound Visit"2019CHN.EVN.regular.comment.csv",321
+
+"CHN201907120",58,"Mound Visit"2019CHN.EVN.regular.comment.csv",322
+
+"CHN201907120",63,"Mound Visit"2019CHN.EVN.regular.comment.csv",323
+
+"CHN201907120",68,"$Cubs challenged call that Newman was safe at 1st; call was overturne - ground out"2019CHN.EVN.regular.comment.csv",324
+
+"CHN201907130",10,"Mound Visit"2019CHN.EVN.regular.comment.csv",325
+
+"CHN201907130",14,"Mound Visit"2019CHN.EVN.regular.comment.csv",326
+
+"CHN201907130",59,"$Cubs challenged call that Osuna was safe, claiming ball was trapped; call was upheld - single"2019CHN.EVN.regular.comment.csv",327
+
+"CHN201907130",63,"Mound Visit"2019CHN.EVN.regular.comment.csv",328
+
+"CHN201907130",69,"Mound Visit"2019CHN.EVN.regular.comment.csv",329
+
+"CHN201907130",80,"Mound Visit"2019CHN.EVN.regular.comment.csv",330
+
+"CHN201907140",20,"Mound Visit"2019CHN.EVN.regular.comment.csv",331
+
+"CHN201907140",38,"Mound Visit"2019CHN.EVN.regular.comment.csv",332
+
+"CHN201907140",47,"Mound Visit"2019CHN.EVN.regular.comment.csv",333
+
+"CHN201907140",54,"Mound Visit"2019CHN.EVN.regular.comment.csv",334
+
+"CHN201907140",55,"Mound Visit"2019CHN.EVN.regular.comment.csv",335
+
+"CHN201907150",19,"Mound Visit"2019CHN.EVN.regular.comment.csv",336
+
+"CHN201907150",30,"Mound Visit"2019CHN.EVN.regular.comment.csv",337
+
+"CHN201907150",41,"On-field Delay"2019CHN.EVN.regular.comment.csv",338
+
+"CHN201907150",46,"Mound Visit"2019CHN.EVN.regular.comment.csv",339
+
+"CHN201907150",51,"Mound Visit"2019CHN.EVN.regular.comment.csv",340
+
+"CHN201907150",56,"Mound Visit"2019CHN.EVN.regular.comment.csv",341
+
+"CHN201907150",63,"Mound Visit"2019CHN.EVN.regular.comment.csv",342
+
+"CHN201907150",67,"Mound Visit"2019CHN.EVN.regular.comment.csv",343
+
+"CHN201907150",74,"Mound Visit Mound Visit"2019CHN.EVN.regular.comment.csv",344
+
+"CHN201907160",6,"Mound Visit"2019CHN.EVN.regular.comment.csv",345
+
+"CHN201907160",33,"$Rizzo out for interferring with Dietrich who was trying to field ground ball"2019CHN.EVN.regular.comment.csv",346
+
+"CHN201907160",43,"Mound Visit"2019CHN.EVN.regular.comment.csv",347
+
+"CHN201907160",47,"Mound Visit"2019CHN.EVN.regular.comment.csv",348
+
+"CHN201907160",54,"Mound Visit"2019CHN.EVN.regular.comment.csv",349
+
+"CHN201907160",63,"Mound Visit"2019CHN.EVN.regular.comment.csv",350
+
+"CHN201907160",67,"Mound Visit"2019CHN.EVN.regular.comment.csv",351
+
+"CHN201907160",69,"Mound Visit"2019CHN.EVN.regular.comment.csv",352
+
+"CHN201907160",72,"Mound Visit"2019CHN.EVN.regular.comment.csv",353
+
+"CHN201907160",73,"Injury Delay"2019CHN.EVN.regular.comment.csv",354
+
+"CHN201907160",78,"Mound Visit"2019CHN.EVN.regular.comment.csv",355
+
+"CHN201907170",28,"Injury Delay"2019CHN.EVN.regular.comment.csv",356
+
+"CHN201907170",38,"Mound Visit"2019CHN.EVN.regular.comment.csv",357
+
+"CHN201907170",47,"$Reds challenged call that Iglesias was out at 1st; call was upheld - out on pickoff"2019CHN.EVN.regular.comment.csv",358
+
+"CHN201907170",49,"Mound Visit"2019CHN.EVN.regular.comment.csv",359
+
+"CHN201907170",52,"Mound Visit"2019CHN.EVN.regular.comment.csv",360
+
+"CHN201907170",58,"Mound Visit"2019CHN.EVN.regular.comment.csv",361
+
+"CHN201907170",64,"Mound Visit"2019CHN.EVN.regular.comment.csv",362
+
+"CHN201907170",66,"$Originally scored as defensive indifference, changed to to stolen base on 07-18-2019"2019CHN.EVN.regular.comment.csv",363
+
+"CHN201907190",6,"Mound Visit"2019CHN.EVN.regular.comment.csv",364
+
+"CHN201907190",26,"Injury Delay"2019CHN.EVN.regular.comment.csv",365
+
+"CHN201907190",28,"Mound Visit"2019CHN.EVN.regular.comment.csv",366
+
+"CHN201907190",33,"On-field Delay"2019CHN.EVN.regular.comment.csv",367
+
+"CHN201907190",40,"$Cubs challenged call that Renfroe was safe at 1st; call was overturned - ground out"2019CHN.EVN.regular.comment.csv",368
+
+"CHN201907190",44,"Mound Visit"2019CHN.EVN.regular.comment.csv",369
+
+"CHN201907190",49,"Mound Visit"2019CHN.EVN.regular.comment.csv",370
+
+"CHN201907190",66,"Mound Visit"2019CHN.EVN.regular.comment.csv",371
+
+"CHN201907200",10,"Mound Visit"2019CHN.EVN.regular.comment.csv",372
+
+"CHN201907200",33,"Mound Visit"2019CHN.EVN.regular.comment.csv",373
+
+"CHN201907200",75,"$Padres challenged call that Myers was out at 2nd; call was upheld - caught stealing"2019CHN.EVN.regular.comment.csv",374
+
+"CHN201907210",20,"Mound Visit"2019CHN.EVN.regular.comment.csv",375
+
+"CHN201907210",53,"$Cubs challenged call that Tatis was safe at 1st; call was upheld - safe on pitckoff attempt"2019CHN.EVN.regular.comment.csv",376
+
+"CHN201907210",62,"Mound Visit"2019CHN.EVN.regular.comment.csv",377
+
+"CHN201907210",63,"Mound Visit"2019CHN.EVN.regular.comment.csv",378
+
+"CHN201907210",64,"On-field Delay"2019CHN.EVN.regular.comment.csv",379
+
+"CHN201908020",10,"Mound Visit"2019CHN.EVN.regular.comment.csv",380
+
+"CHN201908020",30,"Mound Visit"2019CHN.EVN.regular.comment.csv",381
+
+"CHN201908020",55,"Mound Visit"2019CHN.EVN.regular.comment.csv",382
+
+"CHN201908020",61,"Mound Visit"2019CHN.EVN.regular.comment.csv",383
+
+"CHN201908020",62,"Mound Visit"2019CHN.EVN.regular.comment.csv",384
+
+"CHN201908020",68,"Mound Visit"2019CHN.EVN.regular.comment.csv",385
+
+"CHN201908020",72,"On-field Delay"2019CHN.EVN.regular.comment.csv",386
+
+"CHN201908030",3,"On-field Delay"2019CHN.EVN.regular.comment.csv",387
+
+"CHN201908030",38,"Mound Visit"2019CHN.EVN.regular.comment.csv",388
+
+"CHN201908030",40,"On-field Delay $Brewers challenged call that Cain was out at 1st; call overturned - single"2019CHN.EVN.regular.comment.csv",389
+
+"CHN201908030",42,"Mound Visit"2019CHN.EVN.regular.comment.csv",390
+
+"CHN201908030",44,"Mound Visit"2019CHN.EVN.regular.comment.csv",391
+
+"CHN201908030",50,"Mound Visit"2019CHN.EVN.regular.comment.csv",392
+
+"CHN201908030",52,"Mound Visit"2019CHN.EVN.regular.comment.csv",393
+
+"CHN201908030",54,"Injury Delay"2019CHN.EVN.regular.comment.csv",394
+
+"CHN201908030",59,"Mound Visit"2019CHN.EVN.regular.comment.csv",395
+
+"CHN201908030",64,"Mound Visit"2019CHN.EVN.regular.comment.csv",396
+
+"CHN201908030",66,"Mound Visit"2019CHN.EVN.regular.comment.csv",397
+
+"CHN201908030",68,"Mound Visit"2019CHN.EVN.regular.comment.csv",398
+
+"CHN201908030",72,"Mound Visit"2019CHN.EVN.regular.comment.csv",399
+
+"CHN201908040",9,"Mound Visit"2019CHN.EVN.regular.comment.csv",400
+
+"CHN201908040",22,"Mound Visit"2019CHN.EVN.regular.comment.csv",401
+
+"CHN201908040",40,"Mound Visit"2019CHN.EVN.regular.comment.csv",402
+
+"CHN201908040",60,"On-field Delay"2019CHN.EVN.regular.comment.csv",403
+
+"CHN201908040",61,"Mound Visit"2019CHN.EVN.regular.comment.csv",404
+
+"CHN201908050",15,"Mound Visit"2019CHN.EVN.regular.comment.csv",405
+
+"CHN201908050",22,"$Athletics challenged call that Castellanos was safe at 1st; call upheld - single"2019CHN.EVN.regular.comment.csv",406
+
+"CHN201908050",46,"Mound Visit"2019CHN.EVN.regular.comment.csv",407
+
+"CHN201908050",50,"Mound Visit"2019CHN.EVN.regular.comment.csv",408
+
+"CHN201908050",54,"Mound Visit"2019CHN.EVN.regular.comment.csv",409
+
+"CHN201908050",57,"Mound Visit"2019CHN.EVN.regular.comment.csv",410
+
+"CHN201908050",62,"Mound Visit"2019CHN.EVN.regular.comment.csv",411
+
+"CHN201908050",63,"Mound Visit"2019CHN.EVN.regular.comment.csv",412
+
+"CHN201908050",71,"Mound Visit"2019CHN.EVN.regular.comment.csv",413
+
+"CHN201908050",73,"Mound Visit"2019CHN.EVN.regular.comment.csv",414
+
+"CHN201908060",13,"Mound Visit"2019CHN.EVN.regular.comment.csv",415
+
+"CHN201908060",15,"Mound Visit"2019CHN.EVN.regular.comment.csv",416
+
+"CHN201908060",17,"Injury Delay $On 08-07-2019, assist given to 1bman, taken from pitcher; run now unearned"2019CHN.EVN.regular.comment.csv",417
+
+"CHN201908060",56,"Mound Visit"2019CHN.EVN.regular.comment.csv",418
+
+"CHN201908070",27,"Mound Visit"2019CHN.EVN.regular.comment.csv",419
+
+"CHN201908070",32,"Mound Visit"2019CHN.EVN.regular.comment.csv",420
+
+"CHN201908070",39,"Mound Visit"2019CHN.EVN.regular.comment.csv",421
+
+"CHN201908070",54,"Injury Delay"2019CHN.EVN.regular.comment.csv",422
+
+"CHN201908200",34,"Mound Visit"2019CHN.EVN.regular.comment.csv",423
+
+"CHN201908200",44,"$Cubs challenged call that Baez was out at 1st; call overturned - force out, not double play"2019CHN.EVN.regular.comment.csv",424
+
+"CHN201908200",53,"Mound Visit"2019CHN.EVN.regular.comment.csv",425
+
+"CHN201908200",63,"Mound Visit"2019CHN.EVN.regular.comment.csv",426
+
+"CHN201908210",19,"Mound Visit"2019CHN.EVN.regular.comment.csv",427
+
+"CHN201908210",39,"Mound Visit"2019CHN.EVN.regular.comment.csv",428
+
+"CHN201908210",53,"Mound Visit"2019CHN.EVN.regular.comment.csv",429
+
+"CHN201908210",62,"Mound Visit"2019CHN.EVN.regular.comment.csv",430
+
+"CHN201908210",63,"Mound Visit"2019CHN.EVN.regular.comment.csv",431
+
+"CHN201908210",68,"Mound Visit"2019CHN.EVN.regular.comment.csv",432
+
+"CHN201908210",86,"$Cubs challenged call that Schwarber was out at home; call upheld - out trying to score on single"2019CHN.EVN.regular.comment.csv",433
+
+"CHN201908220",42,"Mound Visit"2019CHN.EVN.regular.comment.csv",434
+
+"CHN201908220",49,"Mound Visit"2019CHN.EVN.regular.comment.csv",435
+
+"CHN201908220",54,"Mound Visit"2019CHN.EVN.regular.comment.csv",436
+
+"CHN201908230",27,"Mound Visit"2019CHN.EVN.regular.comment.csv",437
+
+"CHN201908230",28,"Mound Visit"2019CHN.EVN.regular.comment.csv",438
+
+"CHN201908230",36,"Mound Visit"2019CHN.EVN.regular.comment.csv",439
+
+"CHN201908230",74,"Mound Visit"2019CHN.EVN.regular.comment.csv",440
+
+"CHN201908240",18,"Mound Visit"2019CHN.EVN.regular.comment.csv",441
+
+"CHN201908240",21,"Mound Visit"2019CHN.EVN.regular.comment.csv",442
+
+"CHN201908240",40,"Mound Visit"2019CHN.EVN.regular.comment.csv",443
+
+"CHN201908240",41,"ej,happi001,P,carav901,Called strike 3 $Happ ejected by HP umpire Carapazza for arguing strike 3"2019CHN.EVN.regular.comment.csv",444
+
+"CHN201908240",42,"On-field Delay"2019CHN.EVN.regular.comment.csv",445
+
+"CHN201908240",47,"$Rizzo left with an injured back"2019CHN.EVN.regular.comment.csv",446
+
+"CHN201908240",48,"Mound Visit"2019CHN.EVN.regular.comment.csv",447
+
+"CHN201908240",48,"Mound Visit"2019CHN.EVN.regular.comment.csv",448
+
+"CHN201908240",54,"Mound Visit"2019CHN.EVN.regular.comment.csv",449
+
+"CHN201908240",55,"$Nationals challenged call that Parra was safe at 3rd; call overturned - double steal"2019CHN.EVN.regular.comment.csv",450
+
+"CHN201908240",62,"Mound Visit"2019CHN.EVN.regular.comment.csv",451
+
+"CHN201908240",67,"Mound Visit"2019CHN.EVN.regular.comment.csv",452
+
+"CHN201908240",81,"Mound Visit"2019CHN.EVN.regular.comment.csv",453
+
+"CHN201908240",85,"On-field Delay"2019CHN.EVN.regular.comment.csv",454
+
+"CHN201908250",32,"$Cubs challenged call that Strasburg was safe at 1st; call upheld - single"2019CHN.EVN.regular.comment.csv",455
+
+"CHN201908250",43,"Mound Visit"2019CHN.EVN.regular.comment.csv",456
+
+"CHN201908250",48,"Mound Visit"2019CHN.EVN.regular.comment.csv",457
+
+"CHN201908250",55,"Mound Visit"2019CHN.EVN.regular.comment.csv",458
+
+"CHN201908250",56,"Mound Visit"2019CHN.EVN.regular.comment.csv",459
+
+"CHN201908250",57,"Mound Visit"2019CHN.EVN.regular.comment.csv",460
+
+"CHN201908250",59,"Mound Visit"2019CHN.EVN.regular.comment.csv",461
+
+"CHN201908250",76,"Mound Visit Mound Visit"2019CHN.EVN.regular.comment.csv",462
+
+"CHN201908250",92,"Mound Visit"2019CHN.EVN.regular.comment.csv",463
+
+"CHN201908300",5,"On-field Delay"2019CHN.EVN.regular.comment.csv",464
+
+"CHN201908300",6,"$Brewers challenged call that Caratini was safe at 2nd; call overturned - single and out stretching"2019CHN.EVN.regular.comment.csv",465
+
+"CHN201908300",16,"Mound Visit"2019CHN.EVN.regular.comment.csv",466
+
+"CHN201908300",27,"Mound Visit Mound Visit"2019CHN.EVN.regular.comment.csv",467
+
+"CHN201908300",29,"Mound Visit"2019CHN.EVN.regular.comment.csv",468
+
+"CHN201908300",34,"Mound Visit"2019CHN.EVN.regular.comment.csv",469
+
+"CHN201908300",40,"$Hiura left with and injured leg"2019CHN.EVN.regular.comment.csv",470
+
+"CHN201908300",46,"Mound Visit"2019CHN.EVN.regular.comment.csv",471
+
+"CHN201908300",61,"Mound Visit"2019CHN.EVN.regular.comment.csv",472
+
+"CHN201908310",3,"Mound Visit"2019CHN.EVN.regular.comment.csv",473
+
+"CHN201908310",39,"Mound Visit"2019CHN.EVN.regular.comment.csv",474
+
+"CHN201908310",43,"Mound Visit"2019CHN.EVN.regular.comment.csv",475
+
+"CHN201908310",53,"Mound Visit"2019CHN.EVN.regular.comment.csv",476
+
+"CHN201908310",65,"Mound Visit"2019CHN.EVN.regular.comment.csv",477
+
+"CHN201909010",2,"Mound Visit"2019CHN.EVN.regular.comment.csv",478
+
+"CHN201909010",24,"Injury Delay"2019CHN.EVN.regular.comment.csv",479
+
+"CHN201909010",26,"Mound Visit"2019CHN.EVN.regular.comment.csv",480
+
+"CHN201909010",33,"Mound Visit"2019CHN.EVN.regular.comment.csv",481
+
+"CHN201909010",38,"Mound Visit"2019CHN.EVN.regular.comment.csv",482
+
+"CHN201909010",44,"Mound Visit"2019CHN.EVN.regular.comment.csv",483
+
+"CHN201909010",52,"Mound Visit"2019CHN.EVN.regular.comment.csv",484
+
+"CHN201909010",53,"Mound Visit"2019CHN.EVN.regular.comment.csv",485
+
+"CHN201909010",56,"ej,grany001,P,timmt901,Called strike 3 $Grandal ejected by HP umpire Timmons for arguing strike 3"2019CHN.EVN.regular.comment.csv",486
+
+"CHN201909010",59,"$Brewers challenged call that Thames was out at 2nd; call upheld - caught stealing"2019CHN.EVN.regular.comment.csv",487
+
+"CHN201909010",62,"Mound Visit"2019CHN.EVN.regular.comment.csv",488
+
+"CHN201909010",69,"Mound Visit"2019CHN.EVN.regular.comment.csv",489
+
+"CHN201909010",76,"Mound Visit"2019CHN.EVN.regular.comment.csv",490
+
+"CHN201909010",78,"$Umpire review of 3rd pitch to Happ; call upheld - ball, not hit by pitch"2019CHN.EVN.regular.comment.csv",491
+
+"CHN201909020",7,"$Cubs challenged clal that Bryant was out at 1st; call was overturned - force out, not double play"2019CHN.EVN.regular.comment.csv",492
+
+"CHN201909020",30,"Mound Visit"2019CHN.EVN.regular.comment.csv",493
+
+"CHN201909020",32,"Injury Delay"2019CHN.EVN.regular.comment.csv",494
+
+"CHN201909020",43,"Mound Visit"2019CHN.EVN.regular.comment.csv",495
+
+"CHN201909020",58,"Mound Visit"2019CHN.EVN.regular.comment.csv",496
+
+"CHN201909020",62,"Mound Visit"2019CHN.EVN.regular.comment.csv",497
+
+"CHN201909030",3,"On-field Delay"2019CHN.EVN.regular.comment.csv",498
+
+"CHN201909030",4,"Mound Visit"2019CHN.EVN.regular.comment.csv",499
+
+"CHN201909030",27,"Mound Visit"2019CHN.EVN.regular.comment.csv",500
+
+"CHN201909030",33,"Mound Visit"2019CHN.EVN.regular.comment.csv",501
+
+"CHN201909030",46,"Mound Visit"2019CHN.EVN.regular.comment.csv",502
+
+"CHN201909030",53,"Mound Visit"2019CHN.EVN.regular.comment.csv",503
+
+"CHN201909030",55,"On-field Delay"2019CHN.EVN.regular.comment.csv",504
+
+"CHN201909030",65,"Mound Visit"2019CHN.EVN.regular.comment.csv",505
+
+"CHN201909030",71,"Mound Visit"2019CHN.EVN.regular.comment.csv",506
+
+"CHN201909030",72,"$Mariners challenged call that Vogelbach was out at 2nd; call upheld - single and out stretching"2019CHN.EVN.regular.comment.csv",507
+
+"CHN201909030",76,"Mound Visit"2019CHN.EVN.regular.comment.csv",508
+
+"CHN201909130",5,"Mound Visit"2019CHN.EVN.regular.comment.csv",509
+
+"CHN201909130",7,"Mound Visit"2019CHN.EVN.regular.comment.csv",510
+
+"CHN201909130",13,"Mound Visit"2019CHN.EVN.regular.comment.csv",511
+
+"CHN201909130",28,"$Pirates challenged clal that Reyes was out at home, claiming catcher blocked plate with ball; call upheld - out at home"2019CHN.EVN.regular.comment.csv",512
+
+"CHN201909130",33,"Mound Visit"2019CHN.EVN.regular.comment.csv",513
+
+"CHN201909130",35,"Mound Visit"2019CHN.EVN.regular.comment.csv",514
+
+"CHN201909130",38,"Mound Visit"2019CHN.EVN.regular.comment.csv",515
+
+"CHN201909130",53,"Mound Visit"2019CHN.EVN.regular.comment.csv",516
+
+"CHN201909130",58,"$Cubs challegned clal that Bryant was out at 1st; call overturned - single"2019CHN.EVN.regular.comment.csv",517
+
+"CHN201909130",60,"Mound Visit"2019CHN.EVN.regular.comment.csv",518
+
+"CHN201909130",64,"Mound Visit"2019CHN.EVN.regular.comment.csv",519
+
+"CHN201909140",19,"Mound Visit"2019CHN.EVN.regular.comment.csv",520
+
+"CHN201909140",30,"$Pirates challenged call that Osuna was out at 1st; call overturned - single"2019CHN.EVN.regular.comment.csv",521
+
+"CHN201909140",37,"Mound Visit"2019CHN.EVN.regular.comment.csv",522
+
+"CHN201909140",48,"Mound Visit"2019CHN.EVN.regular.comment.csv",523
+
+"CHN201909140",49,"Mound Visit"2019CHN.EVN.regular.comment.csv",524
+
+"CHN201909140",59,"On-field Delay $Bote exchanged angry words with pitcher Holmes as he went to 1st; umpires intervened, benches did not empty and both teams received warnings"2019CHN.EVN.regular.comment.csv",525
+
+"CHN201909140",60,"Mound Visit"2019CHN.EVN.regular.comment.csv",526
+
+"CHN201909140",66,"Mound Visit"2019CHN.EVN.regular.comment.csv",527
+
+"CHN201909140",80,"On-field Delay ej,mapld001,P,marqa901,Automatic ejection for HBP after warning ej,maddj801,M,marqa901,Automatic ejection for HBP after warning $Picher Maples and Cubs manager Maddon ejected by HP umpire Marquez since warnings issued earlier"2019CHN.EVN.regular.comment.csv",528
+
+"CHN201909150",9,"Mound Visit"2019CHN.EVN.regular.comment.csv",529
+
+"CHN201909150",20,"Injury Delay"2019CHN.EVN.regular.comment.csv",530
+
+"CHN201909150",20,"$Rizzo left with an injured ankle"2019CHN.EVN.regular.comment.csv",531
+
+"CHN201909150",22,"Mound Visit"2019CHN.EVN.regular.comment.csv",532
+
+"CHN201909150",26,"Mound Visit"2019CHN.EVN.regular.comment.csv",533
+
+"CHN201909150",31,"Mound Visit"2019CHN.EVN.regular.comment.csv",534
+
+"CHN201909150",33,"Mound Visit"2019CHN.EVN.regular.comment.csv",535
+
+"CHN201909150",36,"$Pirates thought one of the runners who scored on triple had missed 3rd base so they appealead; however, the pitcher made a wild throw to 3rd in the attempt and the run scored"2019CHN.EVN.regular.comment.csv",536
+
+"CHN201909150",46,"Mound Visit"2019CHN.EVN.regular.comment.csv",537
+
+"CHN201909150",56,"Mound Visit"2019CHN.EVN.regular.comment.csv",538
+
+"CHN201909160",23,"Mound Visit"2019CHN.EVN.regular.comment.csv",539
+
+"CHN201909160",33,"Mound Visit"2019CHN.EVN.regular.comment.csv",540
+
+"CHN201909160",34,"Mound Visit"2019CHN.EVN.regular.comment.csv",541
+
+"CHN201909160",39,"Mound Visit"2019CHN.EVN.regular.comment.csv",542
+
+"CHN201909160",54,"Mound Visit"2019CHN.EVN.regular.comment.csv",543
+
+"CHN201909160",55,"Mound Visit"2019CHN.EVN.regular.comment.csv",544
+
+"CHN201909160",72,"Mound Visit Mound Visit"2019CHN.EVN.regular.comment.csv",545
+
+"CHN201909160",79,"Mound Visit"2019CHN.EVN.regular.comment.csv",546
+
+"CHN201909160",80,"Mound Visit"2019CHN.EVN.regular.comment.csv",547
+
+"CHN201909170",5,"Mound Visit"2019CHN.EVN.regular.comment.csv",548
+
+"CHN201909170",18,"On-field Delay"2019CHN.EVN.regular.comment.csv",549
+
+"CHN201909170",38,"Mound Visit"2019CHN.EVN.regular.comment.csv",550
+
+"CHN201909170",56,"Mound Visit"2019CHN.EVN.regular.comment.csv",551
+
+"CHN201909170",57,"Mound Visit"2019CHN.EVN.regular.comment.csv",552
+
+"CHN201909170",59,"Mound Visit"2019CHN.EVN.regular.comment.csv",553
+
+"CHN201909180",20,"Mound Visit"2019CHN.EVN.regular.comment.csv",554
+
+"CHN201909180",27,"On-field Delay $Reds challenged call that Castellanos as safe at 2nd; call upheld - double"2019CHN.EVN.regular.comment.csv",555
+
+"CHN201909180",40,"Mound Visit Mound Visit"2019CHN.EVN.regular.comment.csv",556
+
+"CHN201909180",41,"Mound Visit"2019CHN.EVN.regular.comment.csv",557
+
+"CHN201909180",48,"Mound Visit"2019CHN.EVN.regular.comment.csv",558
+
+"CHN201909180",49,"Mound Visit"2019CHN.EVN.regular.comment.csv",559
+
+"CHN201909180",52,"On-field Delay"2019CHN.EVN.regular.comment.csv",560
+
+"CHN201909180",54,"On-field Delay $Umpire review of ball hit by Contreras; call upheld - homer"2019CHN.EVN.regular.comment.csv",561
+
+"CHN201909180",61,"Mound Visit"2019CHN.EVN.regular.comment.csv",562
+
+"CHN201909180",67,"Mound Visit"2019CHN.EVN.regular.comment.csv",563
+
+"CHN201909180",70,"Mound Visit"2019CHN.EVN.regular.comment.csv",564
+
+"CHN201909180",72,"Mound Visit"2019CHN.EVN.regular.comment.csv",565
+
+"CHN201909180",76,"Mound Visit"2019CHN.EVN.regular.comment.csv",566
+
+"CHN201909180",78,"Mound Visit"2019CHN.EVN.regular.comment.csv",567
+
+"CHN201909180",79,"On-field Delay"2019CHN.EVN.regular.comment.csv",568
+
+"CHN201909180",81,"Mound Visit"2019CHN.EVN.regular.comment.csv",569
+
+"CHN201909190",2,"$Cubs challenged call that Wong was safe at 1st; call upheld - safe on pickoff attempt"2019CHN.EVN.regular.comment.csv",570
+
+"CHN201909190",35,"$Wong left with injured leg"2019CHN.EVN.regular.comment.csv",571
+
+"CHN201909190",38,"Mound Visit"2019CHN.EVN.regular.comment.csv",572
+
+"CHN201909190",39,"Mound Visit"2019CHN.EVN.regular.comment.csv",573
+
+"CHN201909190",41,"Mound Visit"2019CHN.EVN.regular.comment.csv",574
+
+"CHN201909190",42,"Mound Visit"2019CHN.EVN.regular.comment.csv",575
+
+"CHN201909190",55,"Mound Visit"2019CHN.EVN.regular.comment.csv",576
+
+"CHN201909190",60,"On-field Delay"2019CHN.EVN.regular.comment.csv",577
+
+"CHN201909190",67,"Mound Visit"2019CHN.EVN.regular.comment.csv",578
+
+"CHN201909190",70,"Mound Visit"2019CHN.EVN.regular.comment.csv",579
+
+"CHN201909190",75,"Mound Visit"2019CHN.EVN.regular.comment.csv",580
+
+"CHN201909200",14,"$Bote originally received RBI on this play, removed on 09-26-2019"2019CHN.EVN.regular.comment.csv",581
+
+"CHN201909200",15,"Mound Visit"2019CHN.EVN.regular.comment.csv",582
+
+"CHN201909200",19,"Mound Visit"2019CHN.EVN.regular.comment.csv",583
+
+"CHN201909200",25,"Mound Visit"2019CHN.EVN.regular.comment.csv",584
+
+"CHN201909200",31,"Injury Delay"2019CHN.EVN.regular.comment.csv",585
+
+"CHN201909200",33,"$Cardinals challenged call that Hoerner was safe at 1st; call overturned - ground out"2019CHN.EVN.regular.comment.csv",586
+
+"CHN201909200",36,"Mound Visit"2019CHN.EVN.regular.comment.csv",587
+
+"CHN201909200",42,"Mound Visit"2019CHN.EVN.regular.comment.csv",588
+
+"CHN201909200",43,"Mound Visit"2019CHN.EVN.regular.comment.csv",589
+
+"CHN201909200",45,"Mound Visit"2019CHN.EVN.regular.comment.csv",590
+
+"CHN201909200",47,"Mound Visit"2019CHN.EVN.regular.comment.csv",591
+
+"CHN201909200",49,"Mound Visit"2019CHN.EVN.regular.comment.csv",592
+
+"CHN201909200",53,"Mound Visit"2019CHN.EVN.regular.comment.csv",593
+
+"CHN201909200",58,"Mound Visit"2019CHN.EVN.regular.comment.csv",594
+
+"CHN201909200",63,"Mound Visit"2019CHN.EVN.regular.comment.csv",595
+
+"CHN201909200",72,"Mound Visit"2019CHN.EVN.regular.comment.csv",596
+
+"CHN201909200",76,"Mound Visit"2019CHN.EVN.regular.comment.csv",597
+
+"CHN201909200",78,"Mound Visit"2019CHN.EVN.regular.comment.csv",598
+
+"CHN201909210",9,"Mound Visit"2019CHN.EVN.regular.comment.csv",599
+
+"CHN201909210",10,"Mound Visit"2019CHN.EVN.regular.comment.csv",600
+
+"CHN201909210",23,"Mound Visit"2019CHN.EVN.regular.comment.csv",601
+
+"CHN201909210",29,"$Cubs challengd call that Schwarber was out at 3rd, call upheld - out advancing"2019CHN.EVN.regular.comment.csv",602
+
+"CHN201909210",34,"Mound Visit"2019CHN.EVN.regular.comment.csv",603
+
+"CHN201909210",35,"Mound Visit"2019CHN.EVN.regular.comment.csv",604
+
+"CHN201909210",37,"Mound Visit"2019CHN.EVN.regular.comment.csv",605
+
+"CHN201909210",42,"Mound Visit"2019CHN.EVN.regular.comment.csv",606
+
+"CHN201909210",49,"Mound Visit"2019CHN.EVN.regular.comment.csv",607
+
+"CHN201909210",50,"Mound Visit"2019CHN.EVN.regular.comment.csv",608
+
+"CHN201909210",71,"Mound Visit"2019CHN.EVN.regular.comment.csv",609
+
+"CHN201909210",72,"Mound Visit"2019CHN.EVN.regular.comment.csv",610
+
+"CHN201909210",75,"Mound Visit"2019CHN.EVN.regular.comment.csv",611
+
+"CHN201909210",81,"Mound Visit"2019CHN.EVN.regular.comment.csv",612
+
+"CHN201909210",85,"Mound Visit"2019CHN.EVN.regular.comment.csv",613
+
+"CHN201909210",89,"Mound Visit"2019CHN.EVN.regular.comment.csv",614
+
+"CHN201909220",23,"Injury Delay"2019CHN.EVN.regular.comment.csv",615
+
+"CHN201909220",23,"$Bryant left with an injured ankle which was hurt when he lipped on the wet base"2019CHN.EVN.regular.comment.csv",616
+
+"CHN201909220",52,"Mound Visit"2019CHN.EVN.regular.comment.csv",617
+
+"CHN201909220",57,"Mound Visit"2019CHN.EVN.regular.comment.csv",618
+
+"CHN201909220",61,"Mound Visit"2019CHN.EVN.regular.comment.csv",619
+
+"CHN201909220",63,"Mound Visit"2019CHN.EVN.regular.comment.csv",620
+
+"CHN201909220",69,"Mound Visit"2019CHN.EVN.regular.comment.csv",621
+

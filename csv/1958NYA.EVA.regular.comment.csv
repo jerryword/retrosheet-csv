@@ -1,65 +1,64 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"NYA195804190",63,"$Bobby Richardson called for interference for running out of the baseline"
-"NYA195804210",51,"$Don Larsen left with a tight arm"
-"NYA195804220",18,"missing play in NYA195804220"
-"NYA195804220",23,"41 minute rain delay in the bottom of the third"
-"NYA195805090",26,"$Mantle's homer went 450 feet to the monuments in center field"
-"NYA195806040",45,"$478 feet"
-"NYA195806051",63,"$Hank Bauer injured his right hand"
-"NYA195806082",77,"$Bobby Avila left with pulled muscle"
-"NYA195806112",36,"$lights turned on"
-"NYA195806112",52,"rain"
-"NYA195806122",98,"ej,houkr101,C,papaj901,Protesting warning to pitcher $Yankees coach Houk ejected by HP umpire Paparella for protesting warning to pitcher"
-"NYA195807050",93,"$Discarded: Malzone S5 $Discarded: Jensen S8.1-2 $Discarded: Berberet W.2-3;1-2 $Discarded: Gernert 62(3)/FO.2-3;1-2 $Discarded: Renna PH for Wall 9/SF.3-H;2-3 $Discarded: Sturdivant P for Monroe $Discarded: Klaus S4.3-H;1-2 $game stopped at 11:59 PM for curfew; games started on Saturday may not continue into Sunday; 7 batters had hit for the Red Sox and Gene Stephens was at the plate with 2 out"
-"NYA195807110",2,"$Billy Moran called for interference for sliding out of baseline"
-"NYA195807120",36,"$lights turned on"
-"NYA195807120",39,"27 minute rain delay"
-"NYA195807120",40,"58 minute rain delay"
-"NYA195807160",18,"$line drive tipped by Hank Bauer to Mickey Mantle"
-"NYA195807170",52,"$Gil McDougald called for interference for running into his own bunt"
-"NYA195808090",75,"$Bill Skowron pulled a muscle in his left leg"
-"NYA195808101",67,"$Ryne Duren strained left knee"
-"NYA195808120",58,"$410 feet"
-"NYA195808120",71,"$lights turned on"
-"NYA195808190",47,"$420 feet"
-"NYA195808220",17,"$Johnny Kucks called for interference"
-"NYA195809011",63,"$Jimmy Piersall called for interference"
-"NYA195809012",63,"$Enos Slaughter called out on appeal for leaving 3B base too soon"
-"NYA195809050",0,"18 minute rain delay before start of game"
-"NYA195809050",33,"$Russ Kemmerer called out on appeal for missing 2B on an apparent triple"
-"NYA195809071",9,"ej,kemmr101,P,papaj901,Bench jockeying Russ Kemmerer ejected by HP umpire Joe Paparella"
-"NYA195809072",50,"14 minute rain delay"
-"NYA195809260",87,"Rain"
-"NYA195809282",1,"$lights turned on"
-"NYA195804190",63,"$Bobby Richardson called for interference for running out of the baseline"
-"NYA195804210",51,"$Don Larsen left with a tight arm"
-"NYA195804220",18,"missing play in NYA195804220"
-"NYA195804220",23,"41 minute rain delay in the bottom of the third"
-"NYA195805090",26,"$Mantle's homer went 450 feet to the monuments in center field"
-"NYA195806040",45,"$478 feet"
-"NYA195806051",63,"$Hank Bauer injured his right hand"
-"NYA195806082",77,"$Bobby Avila left with pulled muscle"
-"NYA195806112",36,"$lights turned on"
-"NYA195806112",52,"rain"
-"NYA195806122",98,"ej,houkr101,C,papaj901,Protesting warning to pitcher $Yankees coach Houk ejected by HP umpire Paparella for protesting warning to pitcher"
-"NYA195807050",93,"$Discarded: Malzone S5 $Discarded: Jensen S8.1-2 $Discarded: Berberet W.2-3;1-2 $Discarded: Gernert 62(3)/FO.2-3;1-2 $Discarded: Renna PH for Wall 9/SF.3-H;2-3 $Discarded: Sturdivant P for Monroe $Discarded: Klaus S4.3-H;1-2 $game stopped at 11:59 PM for curfew; games started on Saturday may not continue into Sunday; 7 batters had hit for the Red Sox and Gene Stephens was at the plate with 2 out"
-"NYA195807110",2,"$Billy Moran called for interference for sliding out of baseline"
-"NYA195807120",36,"$lights turned on"
-"NYA195807120",39,"27 minute rain delay"
-"NYA195807120",40,"58 minute rain delay"
-"NYA195807160",18,"$line drive tipped by Hank Bauer to Mickey Mantle"
-"NYA195807170",52,"$Gil McDougald called for interference for running into his own bunt"
-"NYA195808090",75,"$Bill Skowron pulled a muscle in his left leg"
-"NYA195808101",67,"$Ryne Duren strained left knee"
-"NYA195808120",58,"$410 feet"
-"NYA195808120",71,"$lights turned on"
-"NYA195808190",47,"$420 feet"
-"NYA195808220",17,"$Johnny Kucks called for interference"
-"NYA195809011",63,"$Jimmy Piersall called for interference"
-"NYA195809012",63,"$Enos Slaughter called out on appeal for leaving 3B base too soon"
-"NYA195809050",0,"18 minute rain delay before start of game"
-"NYA195809050",33,"$Russ Kemmerer called out on appeal for missing 2B on an apparent triple"
-"NYA195809071",9,"ej,kemmr101,P,papaj901,Bench jockeying Russ Kemmerer ejected by HP umpire Joe Paparella"
-"NYA195809072",50,"14 minute rain delay"
-"NYA195809260",87,"Rain"
-"NYA195809282",1,"$lights turned on"
+"NYA195804190",63,"$Bobby Richardson called for interference for running out of the baseline"FILENAME_TX","LINE_NUMBER_CT"
+
+"NYA195804210",51,"$Don Larsen left with a tight arm"1958NYA.EVA.regular.comment.csv",2
+
+"NYA195804220",18,"missing play in NYA195804220"1958NYA.EVA.regular.comment.csv",3
+
+"NYA195804220",23,"41 minute rain delay in the bottom of the third"1958NYA.EVA.regular.comment.csv",4
+
+"NYA195805090",26,"$Mantle's homer went 450 feet to the monuments in center field"1958NYA.EVA.regular.comment.csv",5
+
+"NYA195806040",45,"$478 feet"1958NYA.EVA.regular.comment.csv",6
+
+"NYA195806051",63,"$Hank Bauer injured his right hand"1958NYA.EVA.regular.comment.csv",7
+
+"NYA195806082",77,"$Bobby Avila left with pulled muscle"1958NYA.EVA.regular.comment.csv",8
+
+"NYA195806112",36,"$lights turned on"1958NYA.EVA.regular.comment.csv",9
+
+"NYA195806112",52,"rain"1958NYA.EVA.regular.comment.csv",10
+
+"NYA195806122",98,"ej,houkr101,C,papaj901,Protesting warning to pitcher $Yankees coach Houk ejected by HP umpire Paparella for protesting warning to pitcher"1958NYA.EVA.regular.comment.csv",11
+
+"NYA195807050",93,"$Discarded: Malzone S5 $Discarded: Jensen S8.1-2 $Discarded: Berberet W.2-3;1-2 $Discarded: Gernert 62(3)/FO.2-3;1-2 $Discarded: Renna PH for Wall 9/SF.3-H;2-3 $Discarded: Sturdivant P for Monroe $Discarded: Klaus S4.3-H;1-2 $game stopped at 11:59 PM for curfew; games started on Saturday may not continue into Sunday; 7 batters had hit for the Red Sox and Gene Stephens was at the plate with 2 out"1958NYA.EVA.regular.comment.csv",12
+
+"NYA195807110",2,"$Billy Moran called for interference for sliding out of baseline"1958NYA.EVA.regular.comment.csv",13
+
+"NYA195807120",36,"$lights turned on"1958NYA.EVA.regular.comment.csv",14
+
+"NYA195807120",39,"27 minute rain delay"1958NYA.EVA.regular.comment.csv",15
+
+"NYA195807120",40,"58 minute rain delay"1958NYA.EVA.regular.comment.csv",16
+
+"NYA195807160",18,"$line drive tipped by Hank Bauer to Mickey Mantle"1958NYA.EVA.regular.comment.csv",17
+
+"NYA195807170",52,"$Gil McDougald called for interference for running into his own bunt"1958NYA.EVA.regular.comment.csv",18
+
+"NYA195808090",75,"$Bill Skowron pulled a muscle in his left leg"1958NYA.EVA.regular.comment.csv",19
+
+"NYA195808101",67,"$Ryne Duren strained left knee"1958NYA.EVA.regular.comment.csv",20
+
+"NYA195808120",58,"$410 feet"1958NYA.EVA.regular.comment.csv",21
+
+"NYA195808120",71,"$lights turned on"1958NYA.EVA.regular.comment.csv",22
+
+"NYA195808190",47,"$420 feet"1958NYA.EVA.regular.comment.csv",23
+
+"NYA195808220",17,"$Johnny Kucks called for interference"1958NYA.EVA.regular.comment.csv",24
+
+"NYA195809011",63,"$Jimmy Piersall called for interference"1958NYA.EVA.regular.comment.csv",25
+
+"NYA195809012",63,"$Enos Slaughter called out on appeal for leaving 3B base too soon"1958NYA.EVA.regular.comment.csv",26
+
+"NYA195809050",0,"18 minute rain delay before start of game"1958NYA.EVA.regular.comment.csv",27
+
+"NYA195809050",33,"$Russ Kemmerer called out on appeal for missing 2B on an apparent triple"1958NYA.EVA.regular.comment.csv",28
+
+"NYA195809071",9,"ej,kemmr101,P,papaj901,Bench jockeying Russ Kemmerer ejected by HP umpire Joe Paparella"1958NYA.EVA.regular.comment.csv",29
+
+"NYA195809072",50,"14 minute rain delay"1958NYA.EVA.regular.comment.csv",30
+
+"NYA195809260",87,"Rain"1958NYA.EVA.regular.comment.csv",31
+
+"NYA195809282",1,"$lights turned on"1958NYA.EVA.regular.comment.csv",32
+

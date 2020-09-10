@@ -1,89 +1,88 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"MIN198304170",15,"Debut game for Scott Ullger"
-"MIN198304170",80,"$Fred Lynn's popup hit a speaker"
-"MIN198305010",54,"ej,podrj101,C,sprim901,Balls and strikes $Twins coach Podres ejected by HP umpire Springstead for arguing balls and strikes from dugout"
-"MIN198305050",77,"$Ray Smith called for interference at 2B"
-"MIN198305060",10,"435 ft."
-"MIN198305070",3,"443 ft."
-"MIN198305080",20,"432 ft."
-"MIN198305160",79,"430 ft."
-"MIN198306010",78,"$Bobby Mitchell out trying to advance on pitch in the dirt"
-"MIN198306040",38,"455 ft."
-"MIN198306040",70,"441 ft."
-"MIN198306050",23,"Debut game for Greg Gagne"
-"MIN198306100",56,"timing assumed"
-"MIN198306130",6,"Debut game for Houston Jimenez"
-"MIN198306140",11,"Debut game for Cliff Pastornicky"
-"MIN198306300",9,"$ball hit the dome roof"
-"MIN198307020",4,"460 ft."
-"MIN198307020",76,"timing assumed"
-"MIN198307030",46,"426 ft."
-"MIN198307040",26,"421 ft."
-"MIN198307040",46,"425 ft."
-"MIN198307080",34,"Debut game for Mike Walters"
-"MIN198307130",48,"427 ft."
-"MIN198307250",10,"447 ft."
-"MIN198307250",24,"434 ft."
-"MIN198307260",5,"422 ft."
-"MIN198307260",49,"463 ft."
-"MIN198307270",47,"481 ft."
-"MIN198307270",64,"435 ft."
-"MIN198308012",1,"Debut game for Steve Brown"
-"MIN198308020",61,"$Darrell Brown called for interference with the SS"
-"MIN198308030",22,"437 ft."
-"MIN198308030",43,"433 ft."
-"MIN198308050",15,"429 ft."
-"MIN198308060",46,"428 ft."
-"MIN198308190",49,"447 ft."
-"MIN198308230",45,"420 ft."
-"MIN198308240",3,"426 ft."
-"MIN198309030",6,"Debut game for Tim Teufel"
-"MIN198309040",72,"$Tim Laudner announced but has no plate appearance in game"
-"MIN198309090",27,"424 ft."
-"MIN198309110",1,"Debut game for Jay Pettibone"
-"MIN198309110",44,"Debut game for Danny Jackson"
-"MIN198309170",57,"424 ft."
-"MIN198304170",15,"Debut game for Scott Ullger"
-"MIN198304170",80,"$Fred Lynn's popup hit a speaker"
-"MIN198305010",54,"ej,podrj101,C,sprim901,Balls and strikes $Twins coach Podres ejected by HP umpire Springstead for arguing balls and strikes from dugout"
-"MIN198305050",77,"$Ray Smith called for interference at 2B"
-"MIN198305060",10,"435 ft."
-"MIN198305070",3,"443 ft."
-"MIN198305080",20,"432 ft."
-"MIN198305160",79,"430 ft."
-"MIN198306010",78,"$Bobby Mitchell out trying to advance on pitch in the dirt"
-"MIN198306040",38,"455 ft."
-"MIN198306040",70,"441 ft."
-"MIN198306050",23,"Debut game for Greg Gagne"
-"MIN198306100",56,"timing assumed"
-"MIN198306130",6,"Debut game for Houston Jimenez"
-"MIN198306140",11,"Debut game for Cliff Pastornicky"
-"MIN198306300",9,"$ball hit the dome roof"
-"MIN198307020",4,"460 ft."
-"MIN198307020",76,"timing assumed"
-"MIN198307030",46,"426 ft."
-"MIN198307040",26,"421 ft."
-"MIN198307040",46,"425 ft."
-"MIN198307080",34,"Debut game for Mike Walters"
-"MIN198307130",48,"427 ft."
-"MIN198307250",10,"447 ft."
-"MIN198307250",24,"434 ft."
-"MIN198307260",5,"422 ft."
-"MIN198307260",49,"463 ft."
-"MIN198307270",47,"481 ft."
-"MIN198307270",64,"435 ft."
-"MIN198308012",1,"Debut game for Steve Brown"
-"MIN198308020",61,"$Darrell Brown called for interference with the SS"
-"MIN198308030",22,"437 ft."
-"MIN198308030",43,"433 ft."
-"MIN198308050",15,"429 ft."
-"MIN198308060",46,"428 ft."
-"MIN198308190",49,"447 ft."
-"MIN198308230",45,"420 ft."
-"MIN198308240",3,"426 ft."
-"MIN198309030",6,"Debut game for Tim Teufel"
-"MIN198309040",72,"$Tim Laudner announced but has no plate appearance in game"
-"MIN198309090",27,"424 ft."
-"MIN198309110",1,"Debut game for Jay Pettibone"
-"MIN198309110",44,"Debut game for Danny Jackson"
-"MIN198309170",57,"424 ft."
+"MIN198304170",15,"Debut game for Scott Ullger"FILENAME_TX","LINE_NUMBER_CT"
+
+"MIN198304170",80,"$Fred Lynn's popup hit a speaker"1983MIN.EVA.regular.comment.csv",2
+
+"MIN198305010",54,"ej,podrj101,C,sprim901,Balls and strikes $Twins coach Podres ejected by HP umpire Springstead for arguing balls and strikes from dugout"1983MIN.EVA.regular.comment.csv",3
+
+"MIN198305050",77,"$Ray Smith called for interference at 2B"1983MIN.EVA.regular.comment.csv",4
+
+"MIN198305060",10,"435 ft."1983MIN.EVA.regular.comment.csv",5
+
+"MIN198305070",3,"443 ft."1983MIN.EVA.regular.comment.csv",6
+
+"MIN198305080",20,"432 ft."1983MIN.EVA.regular.comment.csv",7
+
+"MIN198305160",79,"430 ft."1983MIN.EVA.regular.comment.csv",8
+
+"MIN198306010",78,"$Bobby Mitchell out trying to advance on pitch in the dirt"1983MIN.EVA.regular.comment.csv",9
+
+"MIN198306040",38,"455 ft."1983MIN.EVA.regular.comment.csv",10
+
+"MIN198306040",70,"441 ft."1983MIN.EVA.regular.comment.csv",11
+
+"MIN198306050",23,"Debut game for Greg Gagne"1983MIN.EVA.regular.comment.csv",12
+
+"MIN198306100",56,"timing assumed"1983MIN.EVA.regular.comment.csv",13
+
+"MIN198306130",6,"Debut game for Houston Jimenez"1983MIN.EVA.regular.comment.csv",14
+
+"MIN198306140",11,"Debut game for Cliff Pastornicky"1983MIN.EVA.regular.comment.csv",15
+
+"MIN198306300",9,"$ball hit the dome roof"1983MIN.EVA.regular.comment.csv",16
+
+"MIN198307020",4,"460 ft."1983MIN.EVA.regular.comment.csv",17
+
+"MIN198307020",76,"timing assumed"1983MIN.EVA.regular.comment.csv",18
+
+"MIN198307030",46,"426 ft."1983MIN.EVA.regular.comment.csv",19
+
+"MIN198307040",26,"421 ft."1983MIN.EVA.regular.comment.csv",20
+
+"MIN198307040",46,"425 ft."1983MIN.EVA.regular.comment.csv",21
+
+"MIN198307080",34,"Debut game for Mike Walters"1983MIN.EVA.regular.comment.csv",22
+
+"MIN198307130",48,"427 ft."1983MIN.EVA.regular.comment.csv",23
+
+"MIN198307250",10,"447 ft."1983MIN.EVA.regular.comment.csv",24
+
+"MIN198307250",24,"434 ft."1983MIN.EVA.regular.comment.csv",25
+
+"MIN198307260",5,"422 ft."1983MIN.EVA.regular.comment.csv",26
+
+"MIN198307260",49,"463 ft."1983MIN.EVA.regular.comment.csv",27
+
+"MIN198307270",47,"481 ft."1983MIN.EVA.regular.comment.csv",28
+
+"MIN198307270",64,"435 ft."1983MIN.EVA.regular.comment.csv",29
+
+"MIN198308012",1,"Debut game for Steve Brown"1983MIN.EVA.regular.comment.csv",30
+
+"MIN198308020",61,"$Darrell Brown called for interference with the SS"1983MIN.EVA.regular.comment.csv",31
+
+"MIN198308030",22,"437 ft."1983MIN.EVA.regular.comment.csv",32
+
+"MIN198308030",43,"433 ft."1983MIN.EVA.regular.comment.csv",33
+
+"MIN198308050",15,"429 ft."1983MIN.EVA.regular.comment.csv",34
+
+"MIN198308060",46,"428 ft."1983MIN.EVA.regular.comment.csv",35
+
+"MIN198308190",49,"447 ft."1983MIN.EVA.regular.comment.csv",36
+
+"MIN198308230",45,"420 ft."1983MIN.EVA.regular.comment.csv",37
+
+"MIN198308240",3,"426 ft."1983MIN.EVA.regular.comment.csv",38
+
+"MIN198309030",6,"Debut game for Tim Teufel"1983MIN.EVA.regular.comment.csv",39
+
+"MIN198309040",72,"$Tim Laudner announced but has no plate appearance in game"1983MIN.EVA.regular.comment.csv",40
+
+"MIN198309090",27,"424 ft."1983MIN.EVA.regular.comment.csv",41
+
+"MIN198309110",1,"Debut game for Jay Pettibone"1983MIN.EVA.regular.comment.csv",42
+
+"MIN198309110",44,"Debut game for Danny Jackson"1983MIN.EVA.regular.comment.csv",43
+
+"MIN198309170",57,"424 ft."1983MIN.EVA.regular.comment.csv",44
+

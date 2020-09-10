@@ -1,55 +1,54 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"MIL197204290",63,"$Bob Heise and Joe Lahoud collided; both left and received stitches over their right eyes"
-"MIL197205170",72,"Debut game for Bob Gallagher"
-"MIL197205300",11,"ej,kuenh101,C,hallb901,Balls and strikes Brewers Coach Harvey Kuenn ejected by HP umpire Bill Haller"
-"MIL197205310",43,"Ellie Rodriguez left with unknown injury after first inning collision"
-"MIL197206020",10,"2:24 rain delay"
-"MIL197206020",55,"23 minute rain delay"
-"MIL197206170",46,"450 ft"
-"MIL197206180",42,"ej,kirke102,P,nappl901,Balls and strikes Ed Kirkpatrick ejected by HP umpire Larry Napp"
-"MIL197206230",6,"Danny Cater left sick"
-"MIL197206240",3,"Luis Aparicio left with injured hand from sliding"
-"MIL197206240",57,"ej,harpt101,P,morgh901,Called strike 3 ej,kaske101,M,morgh901,Called strike 3 $Harper and Red Sox manager Kasko ejected by HP umpire Morgenweck for arguing called strike 3"
-"MIL197206240",58,"ej,siebs101,P,morgh901,Balls and strikes $Red Sox Siebert ejected by HP umpire Morgenweck for arguing balls and strikes with 3-0 count; Peters completed walk charged to Siebert"
-"MIL197206252",1,"Debut game for Lynn McGlothen"
-"MIL197206252",33,"$Carlton Fisk was safe but tagged out after overrunning the base when he did not slide"
-"MIL197206281",1,"Debut game for Gary Ryerson"
-"MIL197207220",23,"ej,carer001,P,sprim901,Called strike 3 to teammate $Twins Carew, not in game, ejected by HP umpire Springstead for arguing called strike 3 to Killebrew"
-"MIL197207272",1,"Debut game for Fred Holdsworth"
-"MIL197207290",36,"ej,crand102,M,odomj901,Checked swing Brewers Manager Del Crandall ejected by HP umpire Jim Odom"
-"MIL197208270",31,"missing play in MIL197208270"
-"MIL197208300",57,"ej,scotg102,P,malog901,Obscene gesture to fan $Brewerse Scott ejected by HP umpire Maloney for making obscene gesture to fan"
-"MIL197209121",55,"missing play in MIL197209121"
-"MIL197209121",56,"missing play in MIL197209121"
-"MIL197209121",57,"missing play in MIL197209121"
-"MIL197209121",59,"missing play in MIL197209121"
-"MIL197209121",64,"missing play in MIL197209121"
-"MIL197209122",64,"Game called after 50 minute rain delay"
-"MIL197209210",42,"Debut game for Larry Gowell"
-"MIL197204290",63,"$Bob Heise and Joe Lahoud collided; both left and received stitches over their right eyes"
-"MIL197205170",72,"Debut game for Bob Gallagher"
-"MIL197205300",11,"ej,kuenh101,C,hallb901,Balls and strikes Brewers Coach Harvey Kuenn ejected by HP umpire Bill Haller"
-"MIL197205310",43,"Ellie Rodriguez left with unknown injury after first inning collision"
-"MIL197206020",10,"2:24 rain delay"
-"MIL197206020",55,"23 minute rain delay"
-"MIL197206170",46,"450 ft"
-"MIL197206180",42,"ej,kirke102,P,nappl901,Balls and strikes Ed Kirkpatrick ejected by HP umpire Larry Napp"
-"MIL197206230",6,"Danny Cater left sick"
-"MIL197206240",3,"Luis Aparicio left with injured hand from sliding"
-"MIL197206240",57,"ej,harpt101,P,morgh901,Called strike 3 ej,kaske101,M,morgh901,Called strike 3 $Harper and Red Sox manager Kasko ejected by HP umpire Morgenweck for arguing called strike 3"
-"MIL197206240",58,"ej,siebs101,P,morgh901,Balls and strikes $Red Sox Siebert ejected by HP umpire Morgenweck for arguing balls and strikes with 3-0 count; Peters completed walk charged to Siebert"
-"MIL197206252",1,"Debut game for Lynn McGlothen"
-"MIL197206252",33,"$Carlton Fisk was safe but tagged out after overrunning the base when he did not slide"
-"MIL197206281",1,"Debut game for Gary Ryerson"
-"MIL197207220",23,"ej,carer001,P,sprim901,Called third strike to teammate $Twins Carew, not in game, ejected by HP umpire Springstead for arguing called strike 3 to Killebrew"
-"MIL197207272",1,"Debut game for Fred Holdsworth"
-"MIL197207290",36,"ej,crand102,M,odomj901,Checked swing Brewers Manager Del Crandall ejected by HP umpire Jim Odom"
-"MIL197208270",31,"missing play in MIL197208270"
-"MIL197208300",57,"ej,scotg102,P,malog901,Obscene gesture to fan $Brewerse Scott ejected by HP umpire Maloney for making obscene gesture to fan"
-"MIL197209121",55,"missing play in MIL197209121"
-"MIL197209121",56,"missing play in MIL197209121"
-"MIL197209121",57,"missing play in MIL197209121"
-"MIL197209121",59,"missing play in MIL197209121"
-"MIL197209121",64,"missing play in MIL197209121"
-"MIL197209122",64,"Game called after 50 minute rain delay"
-"MIL197209210",42,"Debut game for Larry Gowell"
+"MIL197204290",63,"$Bob Heise and Joe Lahoud collided; both left and received stitches over their right eyes"FILENAME_TX","LINE_NUMBER_CT"
+
+"MIL197205170",72,"Debut game for Bob Gallagher"1972MIL.EVA.regular.comment.csv",2
+
+"MIL197205300",11,"ej,kuenh101,C,hallb901,Balls and strikes Brewers Coach Harvey Kuenn ejected by HP umpire Bill Haller"1972MIL.EVA.regular.comment.csv",3
+
+"MIL197205310",43,"Ellie Rodriguez left with unknown injury after first inning collision"1972MIL.EVA.regular.comment.csv",4
+
+"MIL197206020",10,"2:24 rain delay"1972MIL.EVA.regular.comment.csv",5
+
+"MIL197206020",55,"23 minute rain delay"1972MIL.EVA.regular.comment.csv",6
+
+"MIL197206170",46,"450 ft"1972MIL.EVA.regular.comment.csv",7
+
+"MIL197206180",42,"ej,kirke102,P,nappl901,Balls and strikes Ed Kirkpatrick ejected by HP umpire Larry Napp"1972MIL.EVA.regular.comment.csv",8
+
+"MIL197206230",6,"Danny Cater left sick"1972MIL.EVA.regular.comment.csv",9
+
+"MIL197206240",3,"Luis Aparicio left with injured hand from sliding"1972MIL.EVA.regular.comment.csv",10
+
+"MIL197206240",57,"ej,harpt101,P,morgh901,Called strike 3 ej,kaske101,M,morgh901,Called strike 3 $Harper and Red Sox manager Kasko ejected by HP umpire Morgenweck for arguing called strike 3"1972MIL.EVA.regular.comment.csv",11
+
+"MIL197206240",58,"ej,siebs101,P,morgh901,Balls and strikes $Red Sox Siebert ejected by HP umpire Morgenweck for arguing balls and strikes with 3-0 count; Peters completed walk charged to Siebert"1972MIL.EVA.regular.comment.csv",12
+
+"MIL197206252",1,"Debut game for Lynn McGlothen"1972MIL.EVA.regular.comment.csv",13
+
+"MIL197206252",33,"$Carlton Fisk was safe but tagged out after overrunning the base when he did not slide"1972MIL.EVA.regular.comment.csv",14
+
+"MIL197206281",1,"Debut game for Gary Ryerson"1972MIL.EVA.regular.comment.csv",15
+
+"MIL197207220",23,"ej,carer001,P,sprim901,Called third strike to teammate $Twins Carew, not in game, ejected by HP umpire Springstead for arguing called strike 3 to Killebrew"1972MIL.EVA.regular.comment.csv",16
+
+"MIL197207272",1,"Debut game for Fred Holdsworth"1972MIL.EVA.regular.comment.csv",17
+
+"MIL197207290",36,"ej,crand102,M,odomj901,Checked swing Brewers Manager Del Crandall ejected by HP umpire Jim Odom"1972MIL.EVA.regular.comment.csv",18
+
+"MIL197208270",31,"missing play in MIL197208270"1972MIL.EVA.regular.comment.csv",19
+
+"MIL197208300",57,"ej,scotg102,P,malog901,Obscene gesture to fan $Brewerse Scott ejected by HP umpire Maloney for making obscene gesture to fan"1972MIL.EVA.regular.comment.csv",20
+
+"MIL197209121",55,"missing play in MIL197209121"1972MIL.EVA.regular.comment.csv",21
+
+"MIL197209121",56,"missing play in MIL197209121"1972MIL.EVA.regular.comment.csv",22
+
+"MIL197209121",57,"missing play in MIL197209121"1972MIL.EVA.regular.comment.csv",23
+
+"MIL197209121",59,"missing play in MIL197209121"1972MIL.EVA.regular.comment.csv",24
+
+"MIL197209121",64,"missing play in MIL197209121"1972MIL.EVA.regular.comment.csv",25
+
+"MIL197209122",64,"Game called after 50 minute rain delay"1972MIL.EVA.regular.comment.csv",26
+
+"MIL197209210",42,"Debut game for Larry Gowell"1972MIL.EVA.regular.comment.csv",27
+

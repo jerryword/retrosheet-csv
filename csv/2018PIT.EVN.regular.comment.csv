@@ -1,597 +1,596 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"PIT201804040",25,"$Umpire review to see if Sano's ball were a home run; call was upheld - double"
-"PIT201804040",58,"$Pirates challenged call that Rosario was safe on pickoff attempt after 7th pitch; call was upheld - safe on pickoff attempt"
-"PIT201804060",67,"$Reds challenged call that Gennett was out at first to complete double play; call was upheld - DP"
-"PIT201804080",26,"$Eugenio Suarez left game with injured hand"
-"PIT201804160",66,"$Rockies challenged call that Story was out at first; call was overturned - single"
-"PIT201804180",7,"$Pirates challenged call that Gonzalez was safe on pickoff attempt after 2nd pitch; call was upheld - safe on attempt"
-"PIT201804251",28,"$Pirates challenged call that Marte was out at 2nd on force; call was overturned - safe on dropped catch error"
-"PIT201804252",46,"$Tigers challenged call that Freese was safe at 1st; call was overturned - ground out"
-"PIT201804252",74,"$Tigers challenged call that Mercer was safe at home; call was upheld - safe at home"
-"PIT201804260",56,"$Pirates challenged call that Martin was safe at 1st; call was upheld - single"
-"PIT201804260",62,"ej,hurdc001,M,wintm901,Running out of baseline $3bman Goodrum attempted to tag Frazier, but missed him to apparently load the bases; 2b umpire Winters ruled that Frazier ran out of the baseline and was out; Pirate manager Hurdle argued with Winters and was ejected"
-"PIT201804260",70,"$umpire review to see if there were fan interference; call was upheld - home run"
-"PIT201805110",27,"$Jameson Taillon left with injured hand"
-"PIT201805110",57,"$Pirates challenged call that Moran was Moran was out at home; call was upheld - out at home"
-"PIT201805130",62,"$Pirates challenged call that Marte was out at first; call was overturned - single"
-"PIT201805150",12,"$Starling Marte left with an injured side"
-"PIT201805150",29,"$Francisco Cervelli left with an injured arm"
-"PIT201805150",53,"$White Sox challenged call that Frazier was safe at home; call was upheld - safe at home"
-"PIT201805160",16,"$White Sox challenged call that Rodriguez was safe at 3rd for triple; call was overturned - double and out stretching"
-"PIT201805160",59,"$Pirates challenged call that Bell was out at 2nd; call was overturned - Bell safe on dropped catch error"
-"PIT201805170",69,"ej,galvf001,P,littw901,Arguing called third strike $Freddy Galvis ejected by plate umpire Little for arguing called third strike"
-"PIT201805180",78,"$Padres challenged call that Dickerson was safe at 2nd; call was upheld - double"
-"PIT201805190",70,"$Pirates challenged call that Jankowski was safe at 2nd; call was upheld - stolen base"
-"PIT201805200",39,"$Pirates challenged call that Harrison was out at first; call was overturned - single"
-"PIT201805260",34,"$Cardinals challenged call that Polanco was safe at first; call was overturned - double play"
-"PIT201805280",57,"ej,hurdc001,M,welkb901,Arguing non-interference call $Pirates challenged call that Rizzo did not interfer with Diaz on his slide into plate; call was upheld - no interference; Pirates manage Hurdle was ejected by plate umpire Welke for arguing that there should have been interference"
-"PIT201805290",58,"$Umpire review of ball hit by Rizzo; call was upheld - homer"
-"PIT201805300",25,"$Umpire reviewed (rules check) for slide interference; call was upheld - force out, no DP"
-"PIT201806060",60,"$Pirates challenged call that Dickerson was out at first call was overturned - single"
-"PIT201806170",14,"$Reds challenged call that Mercer was hit by 3rd pitch; call was overturned - foul ball, not hit by pitch"
-"PIT201806170",73,"$Pirates challenged call that Bell was out at home; call was upheld - out at home"
-"PIT201806180",37,"$Brewers challenged call that Polanco was safe at second on stolen base; call was overturned - out on caught stealing"
-"PIT201806220",51,"$Pirates challenged call that Dyson was first at first, claiming that he had been tagged before reaching base; call was overturned - ground out"
-"PIT201806220",77,"$Pirates challenged call that Goldschmidt was out at home; call was upheld - out on fielder's choice"
-"PIT201806230",72,"$Pirates challenged call that Peralta was safe returning to first; call was overturned - out to complete double play"
-"PIT201807060",24,"Mound Visit"
-"PIT201807060",25,"Mound Visit"
-"PIT201807060",34,"Mound Visit"
-"PIT201807060",35,"Mound Visit"
-"PIT201807060",49,"Mound Visit"
-"PIT201807060",52,"Mound Visit"
-"PIT201807060",59,"Mound Visit"
-"PIT201807060",63,"$Phillies challenged call that Kingery was out at first; call was overturned - single"
-"PIT201807060",74,"Mound Visit"
-"PIT201807060",75,"Mound Visit"
-"PIT201807060",80,"Mound Visit"
-"PIT201807060",95,"$Pirates challenged call that Marte had struck out, claiming that ball had hit him; call was overturned - hit by pitch"
-"PIT201807060",100,"Injury Delay"
-"PIT201807070",9,"Injury Delay"
-"PIT201807070",19,"$Pirates challenged call that Franco was safe on dropped fly ball; call was overturned - fly out"
-"PIT201807070",48,"Mound Visit"
-"PIT201807070",49,"Mound Visit"
-"PIT201807070",55,"$Phillies challenged call that Franco was out at first; call was overturned - single"
-"PIT201807070",65,"Mound Visit"
-"PIT201807080",36,"Mound Visit"
-"PIT201807080",44,"Mound Visit"
-"PIT201807080",48,"Mound Visit"
-"PIT201807080",55,"Mound Visit"
-"PIT201807090",9,"Mound Visit"
-"PIT201807090",51,"Mound Visit"
-"PIT201807090",53,"On-field Delay"
-"PIT201807090",54,"Mound Visit"
-"PIT201807090",74,"Mound Visit"
-"PIT201807100",36,"Mound Visit"
-"PIT201807100",45,"Mound Visit"
-"PIT201807100",48,"Mound Visit"
-"PIT201807100",52,"$Pirates challenged call Polanco was out at first; call was overturned - single"
-"PIT201807100",53,"Mound Visit"
-"PIT201807100",63,"Mound Visit"
-"PIT201807100",80,"Mound Visit"
-"PIT201807110",4,"Mound Visit"
-"PIT201807110",38,"Mound Visit"
-"PIT201807110",49,"Injury Delay"
-"PIT201807110",52,"Mound Visit"
-"PIT201807110",56,"Mound Visit"
-"PIT201807120",31,"Mound Visit"
-"PIT201807120",43,"Mound Visit"
-"PIT201807120",52,"Mound Visit"
-"PIT201807120",78,"Mound Visit"
-"PIT201807120",79,"Mound Visit"
-"PIT201807120",80,"$Brewers challenged call that fourth pitch was hit foul in the outfield; call was upheld - foul ball"
-"PIT201807130",9,"Mound Visit"
-"PIT201807130",21,"$Eric Thames left with an injured leg"
-"PIT201807130",53,"Mound Visit"
-"PIT201807130",54,"Mound Visit"
-"PIT201807130",61,"Mound Visit"
-"PIT201807130",63,"Mound Visit"
-"PIT201807130",71,"Mound Visit"
-"PIT201807130",73,"$Pirates challenged call that Villar was safe at 3rd; call was upheld - double steal"
-"PIT201807130",74,"$Brewers challenged call that Broxton was out at 1st; call was upheld - ground out"
-"PIT201807141",6,"$Umpire review ball hit by Marte; call was upheld - homer"
-"PIT201807141",35,"Mound Visit"
-"PIT201807141",38,"Mound Visit"
-"PIT201807141",47,"Mound Visit"
-"PIT201807141",54,"Mound Visit"
-"PIT201807142",30,"Mound Visit"
-"PIT201807142",33,"On-field Delay"
-"PIT201807142",40,"Mound Visit"
-"PIT201807142",47,"Mound Visit"
-"PIT201807142",48,"$Brewers challenged call that Villar was out at third; call was upheld - out on advance"
-"PIT201807142",55,"Mound Visit"
-"PIT201807142",60,"Mound Visit"
-"PIT201807142",70,"Mound Visit"
-"PIT201807142",72,"Mound Visit"
-"PIT201807142",74,"Mound Visit"
-"PIT201807150",6,"$originally scored as error, changed to single on 07-24-2018"
-"PIT201807150",37,"$Josh Harrison left with an injured leg"
-"PIT201807150",42,"Mound Visit"
-"PIT201807150",45,"Mound Visit"
-"PIT201807150",56,"Mound Visit"
-"PIT201807150",60,"Mound Visit"
-"PIT201807150",64,"Mound Visit"
-"PIT201807150",65,"Mound Visit"
-"PIT201807150",67,"Mound Visit"
-"PIT201807150",71,"$Brewers challenged call that Cain was out at 3rd; call was upheld - out on caught stealing"
-"PIT201807150",75,"Mound Visit"
-"PIT201807150",77,"Mound Visit"
-"PIT201807150",82,"Mound Visit"
-"PIT201807150",87,"Mound Visit"
-"PIT201807260",1,"$Pirates challenged call that Rosario was safe at first; call was overturned - ground out, not single"
-"PIT201807260",6,"Mound Visit"
-"PIT201807260",31,"Mound Visit"
-"PIT201807260",35,"Mound Visit"
-"PIT201807260",40,"Mound Visit"
-"PIT201807260",67,"Mound Visit"
-"PIT201807260",72,"Mound Visit"
-"PIT201807270",5,"Mound Visit"
-"PIT201807270",17,"$Josh Bell left with an injured side"
-"PIT201807270",31,"Mound Visit"
-"PIT201807270",33,"Mound Visit"
-"PIT201807270",40,"Mound Visit"
-"PIT201807270",47,"Mound Visit"
-"PIT201807270",55,"Mound Visit"
-"PIT201807270",70,"Mound Visit"
-"PIT201807270",71,"Mound Visit"
-"PIT201807270",79,"Mound Visit"
-"PIT201807280",35,"Mound Visit"
-"PIT201807280",55,"Mound Visit"
-"PIT201807280",57,"Mound Visit"
-"PIT201807280",59,"Mound Visit"
-"PIT201807280",69,"Mound Visit"
-"PIT201807280",70,"Mound Visit"
-"PIT201807290",47,"Mound Visit"
-"PIT201807290",50,"Mound Visit"
-"PIT201807290",61,"Mound Visit"
-"PIT201807290",66,"$Pirates challenged call that Marte was out at 2nd; call was upheld - out on caught stealing"
-"PIT201807310",22,"Mound Visit"
-"PIT201807310",23,"On-field Delay"
-"PIT201807310",46,"Mound Visit"
-"PIT201807310",54,"Injury Delay Mound Visit $Pirates challenged call that Rizzo was hit by pitch; call was upheld - hit by pitch"
-"PIT201807310",55,"Mound Visit"
-"PIT201807310",62,"Mound Visit"
-"PIT201807310",69,"Mound Visit $Umpire review play at 3rd; call was overturned - double and out stretching"
-"PIT201808010",4,"Injury Delay"
-"PIT201808010",5,"Mound Visit"
-"PIT201808010",15,"Mound Visit"
-"PIT201808010",22,"Mound Visit"
-"PIT201808010",33,"On-field Delay"
-"PIT201808010",35,"umpchange,3,umphome,hicke901 umpchange,3,ump2b,(None) $Plate umpire Guccione hit in mask by foul ball during Heyward's at bat, left two batters later"
-"PIT201808010",73,"Mound Visit"
-"PIT201808030",7,"$Pirates challenged call that Marte was out at first; call was overturned - single"
-"PIT201808030",30,"Mound Visit"
-"PIT201808030",34,"Mound Visit"
-"PIT201808030",45,"Mound Visit"
-"PIT201808030",48,"$Run originally earned, changed to unearned on 08-05-2018"
-"PIT201808030",58,"Injury Delay"
-"PIT201808030",59,"Mound Visit"
-"PIT201808030",70,"Mound Visit"
-"PIT201808030",77,"$Dexter Fowler left with an injured foot"
-"PIT201808040",22,"Mound Visit"
-"PIT201808040",25,"Mound Visit"
-"PIT201808040",40,"Mound Visit"
-"PIT201808040",42,"Mound Visit"
-"PIT201808040",47,"Mound Visit"
-"PIT201808040",58,"Mound Visit"
-"PIT201808040",74,"Mound Visit"
-"PIT201808040",80,"Mound Visit"
-"PIT201808050",21,"Mound Visit"
-"PIT201808050",35,"Mound Visit"
-"PIT201808050",37,"Mound Visit"
-"PIT201808050",41,"Mound Visit"
-"PIT201808050",55,"Mound Visit"
-"PIT201808050",58,"Mound Visit"
-"PIT201808050",69,"$Pirates challenged call that Carpenter was safe at first; call was overturned - ground out"
-"PIT201808160",49,"Mound Visit"
-"PIT201808160",68,"Mound Visit"
-"PIT201808170",25,"Mound Visit"
-"PIT201808170",30,"Mound Visit"
-"PIT201808170",52,"Mound Visit"
-"PIT201808170",58,"Mound Visit"
-"PIT201808170",59,"$Pirates challenged call that Newman was out at 1st; call was upheld - out to complete double play"
-"PIT201808170",62,"Mound Visit"
-"PIT201808170",67,"Mound Visit"
-"PIT201808180",21,"Mound Visit"
-"PIT201808180",33,"Mound Visit"
-"PIT201808180",37,"$Pirates challenged call that Musgrove was out at first; call overturned - single"
-"PIT201808180",41,"$Cubs challenged that Heyward was out at first; call was overturned - single"
-"PIT201808180",59,"Mound Visit"
-"PIT201808190",17,"Mound Visit"
-"PIT201808190",46,"Mound Visit"
-"PIT201808190",47,"Mound Visit"
-"PIT201808190",56,"Mound Visit"
-"PIT201808190",58,"$Pirates challenged call at home, claiming Contreras had illegally blocked plate; call was upheld - out at home"
-"PIT201808190",62,"Injury Delay"
-"PIT201808190",69,"Mound Visit"
-"PIT201808190",71,"Mound Visit"
-"PIT201808190",73,"Mound Visit"
-"PIT201808190",81,"Mound Visit"
-"PIT201808190",85,"Mound Visit Fan interference"
-"PIT201808190",90,"Mound Visit"
-"PIT201808200",18,"Mound Visit"
-"PIT201808200",21,"Mound Visit"
-"PIT201808200",34,"$Chris Archer left with an injured leg"
-"PIT201808200",42,"Mound Visit"
-"PIT201808200",53,"Mound Visit $Umpire review of first pitch to Duvall; call was upheld - foul ball, not hmoe run"
-"PIT201808200",59,"Mound Visit"
-"PIT201808200",60,"$Pirates challenged call that Hechavarria was out at home; call was upheld - out at home"
-"PIT201808200",64,"Mound Visit"
-"PIT201808200",71,"Mound Visit"
-"PIT201808210",42,"$Pirates challenged call that Frazier was out at 2nd as 2bman and shorstop collided trying for throw from pitcher; Pirates no one had touched base while holding ball, but call was upheld - force out"
-"PIT201808210",50,"Mound Visit"
-"PIT201808210",63,"Injury Delay $Suzuki hit on left elbow and left game"
-"PIT201808210",66,"Mound Visit"
-"PIT201808220",23,"Mound Visit"
-"PIT201808220",34,"Mound Visit"
-"PIT201808220",51,"Mound Visit"
-"PIT201808220",52,"Mound Visit"
-"PIT201808220",53,"Mound Visit"
-"PIT201808220",60,"Mound Visit"
-"PIT201808220",67,"Mound Visit"
-"PIT201809030",45,"Mound Visit"
-"PIT201809030",51,"Mound Visit"
-"PIT201809030",55,"Mound Visit"
-"PIT201809030",57,"$Reds challenged call that Osuna was safe at home; call was upheld - safe at home"
-"PIT201809030",59,"Mound Visit"
-"PIT201809040",21,"Mound Visit"
-"PIT201809040",53,"Mound Visit"
-"PIT201809040",55,"Mound Visit"
-"PIT201809040",56,"Mound Visit"
-"PIT201809040",60,"Injury Delay"
-"PIT201809040",66,"Mound Visit"
-"PIT201809050",24,"Mound Visit"
-"PIT201809050",41,"Mound Visit"
-"PIT201809050",43,"Mound Visit"
-"PIT201809050",59,"Injury Delay"
-"PIT201809050",61,"Mound Visit"
-"PIT201809050",63,"On-field Delay"
-"PIT201809050",66,"Mound Visit"
-"PIT201809050",67,"Injury Delay"
-"PIT201809050",74,"Mound Visit"
-"PIT201809070",38,"Injury Delay"
-"PIT201809070",38,"$Dan Straily left with an injured back"
-"PIT201809070",48,"Injury Delay"
-"PIT201809070",48,"$Gregory Polanco left with an injured knee"
-"PIT201809070",51,"Mound Visit"
-"PIT201809070",64,"Mound Visit"
-"PIT201809080",30,"Mound Visit"
-"PIT201809080",49,"$Marlins challenged call that Reyes was safe at 1st; call was overutrned - ground out"
-"PIT201809080",59,"Mound Visit"
-"PIT201809080",64,"Mound Visit"
-"PIT201809170",35,"Injury Delay"
-"PIT201809170",36,"$Adam Frazier left with an injured knee, hurt on foul ball on pitch before his double"
-"PIT201809170",42,"Mound Visit"
-"PIT201809170",54,"Mound Visit"
-"PIT201809170",60,"Mound Visit"
-"PIT201809170",61,"$Pirates challgned call that Dickerson was out at 1st; call was upheld - ground out"
-"PIT201809170",62,"Mound Visit"
-"PIT201809170",65,"Mound Visit"
-"PIT201809180",46,"Mound Visit"
-"PIT201809180",59,"$Royals challenged call that Reyes was safe at 2nd; call was overturned - out on caught stealing"
-"PIT201809180",62,"Mound Visit"
-"PIT201809180",66,"Mound Visit"
-"PIT201809180",68,"Mound Visit"
-"PIT201809180",82,"Mound Visit"
-"PIT201809180",83,"Mound Visit"
-"PIT201809180",84,"Mound Visit"
-"PIT201809190",67,"Mound Visit"
-"PIT201809210",19,"Mound Visit"
-"PIT201809210",36,"Mound Visit"
-"PIT201809210",43,"Injury Delay"
-"PIT201809210",44,"Mound Visit Injury Delay"
-"PIT201809210",57,"ej,shawt001,P,fostm901,Arguing 3rd strike $Shaw ejected by plate umpire Foster for arguing 3rd strike"
-"PIT201809210",60,"Mound Visit"
-"PIT201809210",72,"Mound Visit"
-"PIT201809220",40,"Injury Delay"
-"PIT201809220",44,"Mound Visit"
-"PIT201809220",48,"Mound Visit"
-"PIT201809220",62,"Mound Visit"
-"PIT201809220",63,"Mound Visit"
-"PIT201809220",68,"Mound Visit"
-"PIT201809230",6,"Mound Visit"
-"PIT201809230",11,"$Umpire review of Arcia's hit; call was upheld - double on fan interference, not home run"
-"PIT201809230",18,"Mound Visit"
-"PIT201809230",46,"Mound Visit"
-"PIT201809230",47,"Mound Visit"
-"PIT201809230",49,"$Starling Marte left with an injured leg"
-"PIT201809230",55,"Mound Visit"
-"PIT201809230",56,"Mound Visit"
-"PIT201804040",25,"$Umpire review to see if Sano's ball were a home run; call was upheld - double"
-"PIT201804040",58,"$Pirates challenged call that Rosario was safe on pickoff attempt after 7th pitch; call was upheld - safe on pickoff attempt"
-"PIT201804060",67,"$Reds challenged call that Gennett was out at first to complete double play; call was upheld - DP"
-"PIT201804080",26,"$Eugenio Suarez left game with injured hand"
-"PIT201804160",66,"$Rockies challenged call that Story was out at first; call was overturned - single"
-"PIT201804180",7,"$Pirates challenged call that Gonzalez was safe on pickoff attempt after 2nd pitch; call was upheld - safe on attempt"
-"PIT201804251",28,"$Pirates challenged call that Marte was out at 2nd on force; call was overturned - safe on dropped catch error"
-"PIT201804252",46,"$Tigers challenged call that Freese was safe at 1st; call was overturned - ground out"
-"PIT201804252",74,"$Tigers challenged call that Mercer was safe at home; call was upheld - safe at home"
-"PIT201804260",56,"$Pirates challenged call that Martin was safe at 1st; call was upheld - single"
-"PIT201804260",62,"ej,hurdc001,M,wintm901,Running out of baseline $3bman Goodrum attempted to tag Frazier, but missed him to apparently load the bases; 2b umpire Winters ruled that Frazier ran out of the baseline and was out; Pirate manager Hurdle argued with Winters and was ejected"
-"PIT201804260",70,"$umpire review to see if there were fan interference; call was upheld - home run"
-"PIT201805110",27,"$Jameson Taillon left with injured hand"
-"PIT201805110",57,"$Pirates challenged call that Moran was Moran was out at home; call was upheld - out at home"
-"PIT201805130",62,"$Pirates challenged call that Marte was out at first; call was overturned - single"
-"PIT201805150",12,"$Starling Marte left with an injured side"
-"PIT201805150",29,"$Francisco Cervelli left with an injured arm"
-"PIT201805150",53,"$White Sox challenged call that Frazier was safe at home; call was upheld - safe at home"
-"PIT201805160",16,"$White Sox challenged call that Rodriguez was safe at 3rd for triple; call was overturned - double and out stretching"
-"PIT201805160",59,"$Pirates challenged call that Bell was out at 2nd; call was overturned - Bell safe on dropped catch error"
-"PIT201805170",69,"ej,galvf001,P,littw901,Called third strike $Galvis ejected by HP umpire Little for arguing called third strike"
-"PIT201805180",78,"$Padres challenged call that Dickerson was safe at 2nd; call was upheld - double"
-"PIT201805190",70,"$Pirates challenged call that Jankowski was safe at 2nd; call was upheld - stolen base"
-"PIT201805200",39,"$Pirates challenged call that Harrison was out at first; call was overturned - single"
-"PIT201805260",34,"$Cardinals challenged call that Polanco was safe at first; call was overturned - double play"
-"PIT201805280",57,"ej,hurdc001,M,welkb901,Arguing non-interference call $Pirates challenged call that Rizzo did not interfer with Diaz on his slide into plate; call was upheld - no interference; Pirates manage Hurdle was ejected by plate umpire Welke for arguing that there should have been interference"
-"PIT201805290",58,"$Umpire review of ball hit by Rizzo; call was upheld - homer"
-"PIT201805300",25,"$Umpire reviewed (rules check) for slide interference; call was upheld - force out, no DP"
-"PIT201806060",60,"$Pirates challenged call that Dickerson was out at first call was overturned - single"
-"PIT201806170",14,"$Reds challenged call that Mercer was hit by 3rd pitch; call was overturned - foul ball, not hit by pitch"
-"PIT201806170",73,"$Pirates challenged call that Bell was out at home; call was upheld - out at home"
-"PIT201806180",37,"$Brewers challenged call that Polanco was safe at second on stolen base; call was overturned - out on caught stealing"
-"PIT201806220",51,"$Pirates challenged call that Dyson was first at first, claiming that he had been tagged before reaching base; call was overturned - ground out"
-"PIT201806220",77,"$Pirates challenged call that Goldschmidt was out at home; call was upheld - out on fielder's choice"
-"PIT201806230",72,"$Pirates challenged call that Peralta was safe returning to first; call was overturned - out to complete double play"
-"PIT201807060",24,"Mound Visit"
-"PIT201807060",25,"Mound Visit"
-"PIT201807060",34,"Mound Visit"
-"PIT201807060",35,"Mound Visit"
-"PIT201807060",49,"Mound Visit"
-"PIT201807060",52,"Mound Visit"
-"PIT201807060",59,"Mound Visit"
-"PIT201807060",63,"$Phillies challenged call that Kingery was out at first; call was overturned - single"
-"PIT201807060",74,"Mound Visit"
-"PIT201807060",75,"Mound Visit"
-"PIT201807060",80,"Mound Visit"
-"PIT201807060",95,"$Pirates challenged call that Marte had struck out, claiming that ball had hit him; call was overturned - hit by pitch"
-"PIT201807060",100,"Injury Delay"
-"PIT201807070",9,"Injury Delay"
-"PIT201807070",19,"$Pirates challenged call that Franco was safe on dropped fly ball; call was overturned - fly out"
-"PIT201807070",48,"Mound Visit"
-"PIT201807070",49,"Mound Visit"
-"PIT201807070",55,"$Phillies challenged call that Franco was out at first; call was overturned - single"
-"PIT201807070",65,"Mound Visit"
-"PIT201807080",36,"Mound Visit"
-"PIT201807080",44,"Mound Visit"
-"PIT201807080",48,"Mound Visit"
-"PIT201807080",55,"Mound Visit"
-"PIT201807090",9,"Mound Visit"
-"PIT201807090",51,"Mound Visit"
-"PIT201807090",53,"On-field Delay"
-"PIT201807090",54,"Mound Visit"
-"PIT201807090",74,"Mound Visit"
-"PIT201807100",36,"Mound Visit"
-"PIT201807100",45,"Mound Visit"
-"PIT201807100",48,"Mound Visit"
-"PIT201807100",52,"$Pirates challenged call Polanco was out at first; call was overturned - single"
-"PIT201807100",53,"Mound Visit"
-"PIT201807100",63,"Mound Visit"
-"PIT201807100",80,"Mound Visit"
-"PIT201807110",4,"Mound Visit"
-"PIT201807110",38,"Mound Visit"
-"PIT201807110",49,"Injury Delay"
-"PIT201807110",52,"Mound Visit"
-"PIT201807110",56,"Mound Visit"
-"PIT201807120",31,"Mound Visit"
-"PIT201807120",43,"Mound Visit"
-"PIT201807120",52,"Mound Visit"
-"PIT201807120",78,"Mound Visit"
-"PIT201807120",79,"Mound Visit"
-"PIT201807120",80,"$Brewers challenged call that fourth pitch was hit foul in the outfield; call was upheld - foul ball"
-"PIT201807130",9,"Mound Visit"
-"PIT201807130",21,"$Eric Thames left with an injured leg"
-"PIT201807130",53,"Mound Visit"
-"PIT201807130",54,"Mound Visit"
-"PIT201807130",61,"Mound Visit"
-"PIT201807130",63,"Mound Visit"
-"PIT201807130",71,"Mound Visit"
-"PIT201807130",73,"$Pirates challenged call that Villar was safe at 3rd; call was upheld - double steal"
-"PIT201807130",74,"$Brewers challenged call that Broxton was out at 1st; call was upheld - ground out"
-"PIT201807141",6,"$Umpire review ball hit by Marte; call was upheld - homer"
-"PIT201807141",35,"Mound Visit"
-"PIT201807141",38,"Mound Visit"
-"PIT201807141",47,"Mound Visit"
-"PIT201807141",54,"Mound Visit"
-"PIT201807142",30,"Mound Visit"
-"PIT201807142",33,"On-field Delay"
-"PIT201807142",40,"Mound Visit"
-"PIT201807142",47,"Mound Visit"
-"PIT201807142",48,"$Brewers challenged call that Villar was out at third; call was upheld - out on advance"
-"PIT201807142",55,"Mound Visit"
-"PIT201807142",60,"Mound Visit"
-"PIT201807142",70,"Mound Visit"
-"PIT201807142",72,"Mound Visit"
-"PIT201807142",74,"Mound Visit"
-"PIT201807150",6,"$originally scored as error, changed to single on 07-24-2018"
-"PIT201807150",37,"$Josh Harrison left with an injured leg"
-"PIT201807150",42,"Mound Visit"
-"PIT201807150",45,"Mound Visit"
-"PIT201807150",56,"Mound Visit"
-"PIT201807150",60,"Mound Visit"
-"PIT201807150",64,"Mound Visit"
-"PIT201807150",65,"Mound Visit"
-"PIT201807150",67,"Mound Visit"
-"PIT201807150",71,"$Brewers challenged call that Cain was out at 3rd; call was upheld - out on caught stealing"
-"PIT201807150",75,"Mound Visit"
-"PIT201807150",77,"Mound Visit"
-"PIT201807150",82,"Mound Visit"
-"PIT201807150",87,"Mound Visit"
-"PIT201807260",1,"$Pirates challenged call that Rosario was safe at first; call was overturned - ground out, not single"
-"PIT201807260",6,"Mound Visit"
-"PIT201807260",31,"Mound Visit"
-"PIT201807260",35,"Mound Visit"
-"PIT201807260",40,"Mound Visit"
-"PIT201807260",67,"Mound Visit"
-"PIT201807260",72,"Mound Visit"
-"PIT201807270",5,"Mound Visit"
-"PIT201807270",17,"$Josh Bell left with an injured side"
-"PIT201807270",31,"Mound Visit"
-"PIT201807270",33,"Mound Visit"
-"PIT201807270",40,"Mound Visit"
-"PIT201807270",47,"Mound Visit"
-"PIT201807270",55,"Mound Visit"
-"PIT201807270",70,"Mound Visit"
-"PIT201807270",71,"Mound Visit"
-"PIT201807270",79,"Mound Visit"
-"PIT201807280",35,"Mound Visit"
-"PIT201807280",55,"Mound Visit"
-"PIT201807280",57,"Mound Visit"
-"PIT201807280",59,"Mound Visit"
-"PIT201807280",69,"Mound Visit"
-"PIT201807280",70,"Mound Visit"
-"PIT201807290",47,"Mound Visit"
-"PIT201807290",50,"Mound Visit"
-"PIT201807290",61,"Mound Visit"
-"PIT201807290",66,"$Pirates challenged call that Marte was out at 2nd; call was upheld - out on caught stealing"
-"PIT201807310",22,"Mound Visit"
-"PIT201807310",23,"On-field Delay"
-"PIT201807310",46,"Mound Visit"
-"PIT201807310",54,"Injury Delay Mound Visit $Pirates challenged call that Rizzo was hit by pitch; call was upheld - hit by pitch"
-"PIT201807310",55,"Mound Visit"
-"PIT201807310",62,"Mound Visit"
-"PIT201807310",69,"Mound Visit $Umpire review play at 3rd; call was overturned - double and out stretching"
-"PIT201808010",4,"Injury Delay"
-"PIT201808010",5,"Mound Visit"
-"PIT201808010",15,"Mound Visit"
-"PIT201808010",22,"Mound Visit"
-"PIT201808010",33,"On-field Delay"
-"PIT201808010",35,"umpchange,3,umphome,hicke901 umpchange,3,ump2b,(None) $Plate umpire Guccione hit in mask by foul ball during Heyward's at bat, left two batters later"
-"PIT201808010",73,"Mound Visit"
-"PIT201808030",7,"$Pirates challenged call that Marte was out at first; call was overturned - single"
-"PIT201808030",30,"Mound Visit"
-"PIT201808030",34,"Mound Visit"
-"PIT201808030",45,"Mound Visit"
-"PIT201808030",48,"$Run originally earned, changed to unearned on 08-05-2018"
-"PIT201808030",58,"Injury Delay"
-"PIT201808030",59,"Mound Visit"
-"PIT201808030",70,"Mound Visit"
-"PIT201808030",77,"$Dexter Fowler left with an injured foot"
-"PIT201808040",22,"Mound Visit"
-"PIT201808040",25,"Mound Visit"
-"PIT201808040",40,"Mound Visit"
-"PIT201808040",42,"Mound Visit"
-"PIT201808040",47,"Mound Visit"
-"PIT201808040",58,"Mound Visit"
-"PIT201808040",74,"Mound Visit"
-"PIT201808040",80,"Mound Visit"
-"PIT201808050",21,"Mound Visit"
-"PIT201808050",35,"Mound Visit"
-"PIT201808050",37,"Mound Visit"
-"PIT201808050",41,"Mound Visit"
-"PIT201808050",55,"Mound Visit"
-"PIT201808050",58,"Mound Visit"
-"PIT201808050",69,"$Pirates challenged call that Carpenter was safe at first; call was overturned - ground out"
-"PIT201808160",49,"Mound Visit"
-"PIT201808160",68,"Mound Visit"
-"PIT201808170",25,"Mound Visit"
-"PIT201808170",30,"Mound Visit"
-"PIT201808170",52,"Mound Visit"
-"PIT201808170",58,"Mound Visit"
-"PIT201808170",59,"$Pirates challenged call that Newman was out at 1st; call was upheld - out to complete double play"
-"PIT201808170",62,"Mound Visit"
-"PIT201808170",67,"Mound Visit"
-"PIT201808180",21,"Mound Visit"
-"PIT201808180",33,"Mound Visit"
-"PIT201808180",37,"$Pirates challenged call that Musgrove was out at first; call overturned - single"
-"PIT201808180",41,"$Cubs challenged that Heyward was out at first; call was overturned - single"
-"PIT201808180",59,"Mound Visit"
-"PIT201808190",17,"Mound Visit"
-"PIT201808190",46,"Mound Visit"
-"PIT201808190",47,"Mound Visit"
-"PIT201808190",56,"Mound Visit"
-"PIT201808190",58,"$Pirates challenged call at home, claiming Contreras had illegally blocked plate; call was upheld - out at home"
-"PIT201808190",62,"Injury Delay"
-"PIT201808190",69,"Mound Visit"
-"PIT201808190",71,"Mound Visit"
-"PIT201808190",73,"Mound Visit"
-"PIT201808190",81,"Mound Visit"
-"PIT201808190",85,"Mound Visit Fan interference"
-"PIT201808190",90,"Mound Visit"
-"PIT201808200",18,"Mound Visit"
-"PIT201808200",21,"Mound Visit"
-"PIT201808200",34,"$Chris Archer left with an injured leg"
-"PIT201808200",42,"Mound Visit"
-"PIT201808200",53,"Mound Visit $Umpire review of first pitch to Duvall; call was upheld - foul ball, not hmoe run"
-"PIT201808200",59,"Mound Visit"
-"PIT201808200",60,"$Pirates challenged call that Hechavarria was out at home; call was upheld - out at home"
-"PIT201808200",64,"Mound Visit"
-"PIT201808200",71,"Mound Visit"
-"PIT201808210",42,"$Pirates challenged call that Frazier was out at 2nd as 2bman and shorstop collided trying for throw from pitcher; Pirates no one had touched base while holding ball, but call was upheld - force out"
-"PIT201808210",50,"Mound Visit"
-"PIT201808210",63,"Injury Delay $Suzuki hit on left elbow and left game"
-"PIT201808210",66,"Mound Visit"
-"PIT201808220",23,"Mound Visit"
-"PIT201808220",34,"Mound Visit"
-"PIT201808220",51,"Mound Visit"
-"PIT201808220",52,"Mound Visit"
-"PIT201808220",53,"Mound Visit"
-"PIT201808220",60,"Mound Visit"
-"PIT201808220",67,"Mound Visit"
-"PIT201809030",45,"Mound Visit"
-"PIT201809030",51,"Mound Visit"
-"PIT201809030",55,"Mound Visit"
-"PIT201809030",57,"$Reds challenged call that Osuna was safe at home; call was upheld - safe at home"
-"PIT201809030",59,"Mound Visit"
-"PIT201809040",21,"Mound Visit"
-"PIT201809040",53,"Mound Visit"
-"PIT201809040",55,"Mound Visit"
-"PIT201809040",56,"Mound Visit"
-"PIT201809040",60,"Injury Delay"
-"PIT201809040",66,"Mound Visit"
-"PIT201809050",24,"Mound Visit"
-"PIT201809050",41,"Mound Visit"
-"PIT201809050",43,"Mound Visit"
-"PIT201809050",59,"Injury Delay"
-"PIT201809050",61,"Mound Visit"
-"PIT201809050",63,"On-field Delay"
-"PIT201809050",66,"Mound Visit"
-"PIT201809050",67,"Injury Delay"
-"PIT201809050",74,"Mound Visit"
-"PIT201809070",38,"Injury Delay"
-"PIT201809070",38,"$Dan Straily left with an injured back"
-"PIT201809070",48,"Injury Delay"
-"PIT201809070",48,"$Gregory Polanco left with an injured knee"
-"PIT201809070",51,"Mound Visit"
-"PIT201809070",64,"Mound Visit"
-"PIT201809080",30,"Mound Visit"
-"PIT201809080",49,"$Marlins challenged call that Reyes was safe at 1st; call was overutrned - ground out"
-"PIT201809080",59,"Mound Visit"
-"PIT201809080",64,"Mound Visit"
-"PIT201809170",35,"Injury Delay"
-"PIT201809170",36,"$Adam Frazier left with an injured knee, hurt on foul ball on pitch before his double"
-"PIT201809170",42,"Mound Visit"
-"PIT201809170",54,"Mound Visit"
-"PIT201809170",60,"Mound Visit"
-"PIT201809170",61,"$Pirates challgned call that Dickerson was out at 1st; call was upheld - ground out"
-"PIT201809170",62,"Mound Visit"
-"PIT201809170",65,"Mound Visit"
-"PIT201809180",46,"Mound Visit"
-"PIT201809180",59,"$Royals challenged call that Reyes was safe at 2nd; call was overturned - out on caught stealing"
-"PIT201809180",62,"Mound Visit"
-"PIT201809180",66,"Mound Visit"
-"PIT201809180",68,"Mound Visit"
-"PIT201809180",82,"Mound Visit"
-"PIT201809180",83,"Mound Visit"
-"PIT201809180",84,"Mound Visit"
-"PIT201809190",67,"Mound Visit"
-"PIT201809210",19,"Mound Visit"
-"PIT201809210",36,"Mound Visit"
-"PIT201809210",43,"Injury Delay"
-"PIT201809210",44,"Mound Visit Injury Delay"
-"PIT201809210",57,"ej,shawt001,P,fostm901,Arguing 3rd strike $Shaw ejected by plate umpire Foster for arguing 3rd strike"
-"PIT201809210",60,"Mound Visit"
-"PIT201809210",72,"Mound Visit"
-"PIT201809220",40,"Injury Delay"
-"PIT201809220",44,"Mound Visit"
-"PIT201809220",48,"Mound Visit"
-"PIT201809220",62,"Mound Visit"
-"PIT201809220",63,"Mound Visit"
-"PIT201809220",68,"Mound Visit"
-"PIT201809230",6,"Mound Visit"
-"PIT201809230",11,"$Umpire review of Arcia's hit; call was upheld - double on fan interference, not home run"
-"PIT201809230",18,"Mound Visit"
-"PIT201809230",46,"Mound Visit"
-"PIT201809230",47,"Mound Visit"
-"PIT201809230",49,"$Starling Marte left with an injured leg"
-"PIT201809230",55,"Mound Visit"
-"PIT201809230",56,"Mound Visit"
+"PIT201804040",25,"$Umpire review to see if Sano's ball were a home run; call was upheld - double"FILENAME_TX","LINE_NUMBER_CT"
+
+"PIT201804040",58,"$Pirates challenged call that Rosario was safe on pickoff attempt after 7th pitch; call was upheld - safe on pickoff attempt"2018PIT.EVN.regular.comment.csv",2
+
+"PIT201804060",67,"$Reds challenged call that Gennett was out at first to complete double play; call was upheld - DP"2018PIT.EVN.regular.comment.csv",3
+
+"PIT201804080",26,"$Eugenio Suarez left game with injured hand"2018PIT.EVN.regular.comment.csv",4
+
+"PIT201804160",66,"$Rockies challenged call that Story was out at first; call was overturned - single"2018PIT.EVN.regular.comment.csv",5
+
+"PIT201804180",7,"$Pirates challenged call that Gonzalez was safe on pickoff attempt after 2nd pitch; call was upheld - safe on attempt"2018PIT.EVN.regular.comment.csv",6
+
+"PIT201804251",28,"$Pirates challenged call that Marte was out at 2nd on force; call was overturned - safe on dropped catch error"2018PIT.EVN.regular.comment.csv",7
+
+"PIT201804252",46,"$Tigers challenged call that Freese was safe at 1st; call was overturned - ground out"2018PIT.EVN.regular.comment.csv",8
+
+"PIT201804252",74,"$Tigers challenged call that Mercer was safe at home; call was upheld - safe at home"2018PIT.EVN.regular.comment.csv",9
+
+"PIT201804260",56,"$Pirates challenged call that Martin was safe at 1st; call was upheld - single"2018PIT.EVN.regular.comment.csv",10
+
+"PIT201804260",62,"ej,hurdc001,M,wintm901,Running out of baseline $3bman Goodrum attempted to tag Frazier, but missed him to apparently load the bases; 2b umpire Winters ruled that Frazier ran out of the baseline and was out; Pirate manager Hurdle argued with Winters and was ejected"2018PIT.EVN.regular.comment.csv",11
+
+"PIT201804260",70,"$umpire review to see if there were fan interference; call was upheld - home run"2018PIT.EVN.regular.comment.csv",12
+
+"PIT201805110",27,"$Jameson Taillon left with injured hand"2018PIT.EVN.regular.comment.csv",13
+
+"PIT201805110",57,"$Pirates challenged call that Moran was Moran was out at home; call was upheld - out at home"2018PIT.EVN.regular.comment.csv",14
+
+"PIT201805130",62,"$Pirates challenged call that Marte was out at first; call was overturned - single"2018PIT.EVN.regular.comment.csv",15
+
+"PIT201805150",12,"$Starling Marte left with an injured side"2018PIT.EVN.regular.comment.csv",16
+
+"PIT201805150",29,"$Francisco Cervelli left with an injured arm"2018PIT.EVN.regular.comment.csv",17
+
+"PIT201805150",53,"$White Sox challenged call that Frazier was safe at home; call was upheld - safe at home"2018PIT.EVN.regular.comment.csv",18
+
+"PIT201805160",16,"$White Sox challenged call that Rodriguez was safe at 3rd for triple; call was overturned - double and out stretching"2018PIT.EVN.regular.comment.csv",19
+
+"PIT201805160",59,"$Pirates challenged call that Bell was out at 2nd; call was overturned - Bell safe on dropped catch error"2018PIT.EVN.regular.comment.csv",20
+
+"PIT201805170",69,"ej,galvf001,P,littw901,Called third strike $Galvis ejected by HP umpire Little for arguing called third strike"2018PIT.EVN.regular.comment.csv",21
+
+"PIT201805180",78,"$Padres challenged call that Dickerson was safe at 2nd; call was upheld - double"2018PIT.EVN.regular.comment.csv",22
+
+"PIT201805190",70,"$Pirates challenged call that Jankowski was safe at 2nd; call was upheld - stolen base"2018PIT.EVN.regular.comment.csv",23
+
+"PIT201805200",39,"$Pirates challenged call that Harrison was out at first; call was overturned - single"2018PIT.EVN.regular.comment.csv",24
+
+"PIT201805260",34,"$Cardinals challenged call that Polanco was safe at first; call was overturned - double play"2018PIT.EVN.regular.comment.csv",25
+
+"PIT201805280",57,"ej,hurdc001,M,welkb901,Arguing non-interference call $Pirates challenged call that Rizzo did not interfer with Diaz on his slide into plate; call was upheld - no interference; Pirates manage Hurdle was ejected by plate umpire Welke for arguing that there should have been interference"2018PIT.EVN.regular.comment.csv",26
+
+"PIT201805290",58,"$Umpire review of ball hit by Rizzo; call was upheld - homer"2018PIT.EVN.regular.comment.csv",27
+
+"PIT201805300",25,"$Umpire reviewed (rules check) for slide interference; call was upheld - force out, no DP"2018PIT.EVN.regular.comment.csv",28
+
+"PIT201806060",60,"$Pirates challenged call that Dickerson was out at first call was overturned - single"2018PIT.EVN.regular.comment.csv",29
+
+"PIT201806170",14,"$Reds challenged call that Mercer was hit by 3rd pitch; call was overturned - foul ball, not hit by pitch"2018PIT.EVN.regular.comment.csv",30
+
+"PIT201806170",73,"$Pirates challenged call that Bell was out at home; call was upheld - out at home"2018PIT.EVN.regular.comment.csv",31
+
+"PIT201806180",37,"$Brewers challenged call that Polanco was safe at second on stolen base; call was overturned - out on caught stealing"2018PIT.EVN.regular.comment.csv",32
+
+"PIT201806220",51,"$Pirates challenged call that Dyson was first at first, claiming that he had been tagged before reaching base; call was overturned - ground out"2018PIT.EVN.regular.comment.csv",33
+
+"PIT201806220",77,"$Pirates challenged call that Goldschmidt was out at home; call was upheld - out on fielder's choice"2018PIT.EVN.regular.comment.csv",34
+
+"PIT201806230",72,"$Pirates challenged call that Peralta was safe returning to first; call was overturned - out to complete double play"2018PIT.EVN.regular.comment.csv",35
+
+"PIT201807060",24,"Mound Visit"2018PIT.EVN.regular.comment.csv",36
+
+"PIT201807060",25,"Mound Visit"2018PIT.EVN.regular.comment.csv",37
+
+"PIT201807060",34,"Mound Visit"2018PIT.EVN.regular.comment.csv",38
+
+"PIT201807060",35,"Mound Visit"2018PIT.EVN.regular.comment.csv",39
+
+"PIT201807060",49,"Mound Visit"2018PIT.EVN.regular.comment.csv",40
+
+"PIT201807060",52,"Mound Visit"2018PIT.EVN.regular.comment.csv",41
+
+"PIT201807060",59,"Mound Visit"2018PIT.EVN.regular.comment.csv",42
+
+"PIT201807060",63,"$Phillies challenged call that Kingery was out at first; call was overturned - single"2018PIT.EVN.regular.comment.csv",43
+
+"PIT201807060",74,"Mound Visit"2018PIT.EVN.regular.comment.csv",44
+
+"PIT201807060",75,"Mound Visit"2018PIT.EVN.regular.comment.csv",45
+
+"PIT201807060",80,"Mound Visit"2018PIT.EVN.regular.comment.csv",46
+
+"PIT201807060",95,"$Pirates challenged call that Marte had struck out, claiming that ball had hit him; call was overturned - hit by pitch"2018PIT.EVN.regular.comment.csv",47
+
+"PIT201807060",100,"Injury Delay"2018PIT.EVN.regular.comment.csv",48
+
+"PIT201807070",9,"Injury Delay"2018PIT.EVN.regular.comment.csv",49
+
+"PIT201807070",19,"$Pirates challenged call that Franco was safe on dropped fly ball; call was overturned - fly out"2018PIT.EVN.regular.comment.csv",50
+
+"PIT201807070",48,"Mound Visit"2018PIT.EVN.regular.comment.csv",51
+
+"PIT201807070",49,"Mound Visit"2018PIT.EVN.regular.comment.csv",52
+
+"PIT201807070",55,"$Phillies challenged call that Franco was out at first; call was overturned - single"2018PIT.EVN.regular.comment.csv",53
+
+"PIT201807070",65,"Mound Visit"2018PIT.EVN.regular.comment.csv",54
+
+"PIT201807080",36,"Mound Visit"2018PIT.EVN.regular.comment.csv",55
+
+"PIT201807080",44,"Mound Visit"2018PIT.EVN.regular.comment.csv",56
+
+"PIT201807080",48,"Mound Visit"2018PIT.EVN.regular.comment.csv",57
+
+"PIT201807080",55,"Mound Visit"2018PIT.EVN.regular.comment.csv",58
+
+"PIT201807090",9,"Mound Visit"2018PIT.EVN.regular.comment.csv",59
+
+"PIT201807090",51,"Mound Visit"2018PIT.EVN.regular.comment.csv",60
+
+"PIT201807090",53,"On-field Delay"2018PIT.EVN.regular.comment.csv",61
+
+"PIT201807090",54,"Mound Visit"2018PIT.EVN.regular.comment.csv",62
+
+"PIT201807090",74,"Mound Visit"2018PIT.EVN.regular.comment.csv",63
+
+"PIT201807100",36,"Mound Visit"2018PIT.EVN.regular.comment.csv",64
+
+"PIT201807100",45,"Mound Visit"2018PIT.EVN.regular.comment.csv",65
+
+"PIT201807100",48,"Mound Visit"2018PIT.EVN.regular.comment.csv",66
+
+"PIT201807100",52,"$Pirates challenged call Polanco was out at first; call was overturned - single"2018PIT.EVN.regular.comment.csv",67
+
+"PIT201807100",53,"Mound Visit"2018PIT.EVN.regular.comment.csv",68
+
+"PIT201807100",63,"Mound Visit"2018PIT.EVN.regular.comment.csv",69
+
+"PIT201807100",80,"Mound Visit"2018PIT.EVN.regular.comment.csv",70
+
+"PIT201807110",4,"Mound Visit"2018PIT.EVN.regular.comment.csv",71
+
+"PIT201807110",38,"Mound Visit"2018PIT.EVN.regular.comment.csv",72
+
+"PIT201807110",49,"Injury Delay"2018PIT.EVN.regular.comment.csv",73
+
+"PIT201807110",52,"Mound Visit"2018PIT.EVN.regular.comment.csv",74
+
+"PIT201807110",56,"Mound Visit"2018PIT.EVN.regular.comment.csv",75
+
+"PIT201807120",31,"Mound Visit"2018PIT.EVN.regular.comment.csv",76
+
+"PIT201807120",43,"Mound Visit"2018PIT.EVN.regular.comment.csv",77
+
+"PIT201807120",52,"Mound Visit"2018PIT.EVN.regular.comment.csv",78
+
+"PIT201807120",78,"Mound Visit"2018PIT.EVN.regular.comment.csv",79
+
+"PIT201807120",79,"Mound Visit"2018PIT.EVN.regular.comment.csv",80
+
+"PIT201807120",80,"$Brewers challenged call that fourth pitch was hit foul in the outfield; call was upheld - foul ball"2018PIT.EVN.regular.comment.csv",81
+
+"PIT201807130",9,"Mound Visit"2018PIT.EVN.regular.comment.csv",82
+
+"PIT201807130",21,"$Eric Thames left with an injured leg"2018PIT.EVN.regular.comment.csv",83
+
+"PIT201807130",53,"Mound Visit"2018PIT.EVN.regular.comment.csv",84
+
+"PIT201807130",54,"Mound Visit"2018PIT.EVN.regular.comment.csv",85
+
+"PIT201807130",61,"Mound Visit"2018PIT.EVN.regular.comment.csv",86
+
+"PIT201807130",63,"Mound Visit"2018PIT.EVN.regular.comment.csv",87
+
+"PIT201807130",71,"Mound Visit"2018PIT.EVN.regular.comment.csv",88
+
+"PIT201807130",73,"$Pirates challenged call that Villar was safe at 3rd; call was upheld - double steal"2018PIT.EVN.regular.comment.csv",89
+
+"PIT201807130",74,"$Brewers challenged call that Broxton was out at 1st; call was upheld - ground out"2018PIT.EVN.regular.comment.csv",90
+
+"PIT201807141",6,"$Umpire review ball hit by Marte; call was upheld - homer"2018PIT.EVN.regular.comment.csv",91
+
+"PIT201807141",35,"Mound Visit"2018PIT.EVN.regular.comment.csv",92
+
+"PIT201807141",38,"Mound Visit"2018PIT.EVN.regular.comment.csv",93
+
+"PIT201807141",47,"Mound Visit"2018PIT.EVN.regular.comment.csv",94
+
+"PIT201807141",54,"Mound Visit"2018PIT.EVN.regular.comment.csv",95
+
+"PIT201807142",30,"Mound Visit"2018PIT.EVN.regular.comment.csv",96
+
+"PIT201807142",33,"On-field Delay"2018PIT.EVN.regular.comment.csv",97
+
+"PIT201807142",40,"Mound Visit"2018PIT.EVN.regular.comment.csv",98
+
+"PIT201807142",47,"Mound Visit"2018PIT.EVN.regular.comment.csv",99
+
+"PIT201807142",48,"$Brewers challenged call that Villar was out at third; call was upheld - out on advance"2018PIT.EVN.regular.comment.csv",100
+
+"PIT201807142",55,"Mound Visit"2018PIT.EVN.regular.comment.csv",101
+
+"PIT201807142",60,"Mound Visit"2018PIT.EVN.regular.comment.csv",102
+
+"PIT201807142",70,"Mound Visit"2018PIT.EVN.regular.comment.csv",103
+
+"PIT201807142",72,"Mound Visit"2018PIT.EVN.regular.comment.csv",104
+
+"PIT201807142",74,"Mound Visit"2018PIT.EVN.regular.comment.csv",105
+
+"PIT201807150",6,"$originally scored as error, changed to single on 07-24-2018"2018PIT.EVN.regular.comment.csv",106
+
+"PIT201807150",37,"$Josh Harrison left with an injured leg"2018PIT.EVN.regular.comment.csv",107
+
+"PIT201807150",42,"Mound Visit"2018PIT.EVN.regular.comment.csv",108
+
+"PIT201807150",45,"Mound Visit"2018PIT.EVN.regular.comment.csv",109
+
+"PIT201807150",56,"Mound Visit"2018PIT.EVN.regular.comment.csv",110
+
+"PIT201807150",60,"Mound Visit"2018PIT.EVN.regular.comment.csv",111
+
+"PIT201807150",64,"Mound Visit"2018PIT.EVN.regular.comment.csv",112
+
+"PIT201807150",65,"Mound Visit"2018PIT.EVN.regular.comment.csv",113
+
+"PIT201807150",67,"Mound Visit"2018PIT.EVN.regular.comment.csv",114
+
+"PIT201807150",71,"$Brewers challenged call that Cain was out at 3rd; call was upheld - out on caught stealing"2018PIT.EVN.regular.comment.csv",115
+
+"PIT201807150",75,"Mound Visit"2018PIT.EVN.regular.comment.csv",116
+
+"PIT201807150",77,"Mound Visit"2018PIT.EVN.regular.comment.csv",117
+
+"PIT201807150",82,"Mound Visit"2018PIT.EVN.regular.comment.csv",118
+
+"PIT201807150",87,"Mound Visit"2018PIT.EVN.regular.comment.csv",119
+
+"PIT201807260",1,"$Pirates challenged call that Rosario was safe at first; call was overturned - ground out, not single"2018PIT.EVN.regular.comment.csv",120
+
+"PIT201807260",6,"Mound Visit"2018PIT.EVN.regular.comment.csv",121
+
+"PIT201807260",31,"Mound Visit"2018PIT.EVN.regular.comment.csv",122
+
+"PIT201807260",35,"Mound Visit"2018PIT.EVN.regular.comment.csv",123
+
+"PIT201807260",40,"Mound Visit"2018PIT.EVN.regular.comment.csv",124
+
+"PIT201807260",67,"Mound Visit"2018PIT.EVN.regular.comment.csv",125
+
+"PIT201807260",72,"Mound Visit"2018PIT.EVN.regular.comment.csv",126
+
+"PIT201807270",5,"Mound Visit"2018PIT.EVN.regular.comment.csv",127
+
+"PIT201807270",17,"$Josh Bell left with an injured side"2018PIT.EVN.regular.comment.csv",128
+
+"PIT201807270",31,"Mound Visit"2018PIT.EVN.regular.comment.csv",129
+
+"PIT201807270",33,"Mound Visit"2018PIT.EVN.regular.comment.csv",130
+
+"PIT201807270",40,"Mound Visit"2018PIT.EVN.regular.comment.csv",131
+
+"PIT201807270",47,"Mound Visit"2018PIT.EVN.regular.comment.csv",132
+
+"PIT201807270",55,"Mound Visit"2018PIT.EVN.regular.comment.csv",133
+
+"PIT201807270",70,"Mound Visit"2018PIT.EVN.regular.comment.csv",134
+
+"PIT201807270",71,"Mound Visit"2018PIT.EVN.regular.comment.csv",135
+
+"PIT201807270",79,"Mound Visit"2018PIT.EVN.regular.comment.csv",136
+
+"PIT201807280",35,"Mound Visit"2018PIT.EVN.regular.comment.csv",137
+
+"PIT201807280",55,"Mound Visit"2018PIT.EVN.regular.comment.csv",138
+
+"PIT201807280",57,"Mound Visit"2018PIT.EVN.regular.comment.csv",139
+
+"PIT201807280",59,"Mound Visit"2018PIT.EVN.regular.comment.csv",140
+
+"PIT201807280",69,"Mound Visit"2018PIT.EVN.regular.comment.csv",141
+
+"PIT201807280",70,"Mound Visit"2018PIT.EVN.regular.comment.csv",142
+
+"PIT201807290",47,"Mound Visit"2018PIT.EVN.regular.comment.csv",143
+
+"PIT201807290",50,"Mound Visit"2018PIT.EVN.regular.comment.csv",144
+
+"PIT201807290",61,"Mound Visit"2018PIT.EVN.regular.comment.csv",145
+
+"PIT201807290",66,"$Pirates challenged call that Marte was out at 2nd; call was upheld - out on caught stealing"2018PIT.EVN.regular.comment.csv",146
+
+"PIT201807310",22,"Mound Visit"2018PIT.EVN.regular.comment.csv",147
+
+"PIT201807310",23,"On-field Delay"2018PIT.EVN.regular.comment.csv",148
+
+"PIT201807310",46,"Mound Visit"2018PIT.EVN.regular.comment.csv",149
+
+"PIT201807310",54,"Injury Delay Mound Visit $Pirates challenged call that Rizzo was hit by pitch; call was upheld - hit by pitch"2018PIT.EVN.regular.comment.csv",150
+
+"PIT201807310",55,"Mound Visit"2018PIT.EVN.regular.comment.csv",151
+
+"PIT201807310",62,"Mound Visit"2018PIT.EVN.regular.comment.csv",152
+
+"PIT201807310",69,"Mound Visit $Umpire review play at 3rd; call was overturned - double and out stretching"2018PIT.EVN.regular.comment.csv",153
+
+"PIT201808010",4,"Injury Delay"2018PIT.EVN.regular.comment.csv",154
+
+"PIT201808010",5,"Mound Visit"2018PIT.EVN.regular.comment.csv",155
+
+"PIT201808010",15,"Mound Visit"2018PIT.EVN.regular.comment.csv",156
+
+"PIT201808010",22,"Mound Visit"2018PIT.EVN.regular.comment.csv",157
+
+"PIT201808010",33,"On-field Delay"2018PIT.EVN.regular.comment.csv",158
+
+"PIT201808010",35,"umpchange,3,umphome,hicke901 umpchange,3,ump2b,(None) $Plate umpire Guccione hit in mask by foul ball during Heyward's at bat, left two batters later"2018PIT.EVN.regular.comment.csv",159
+
+"PIT201808010",73,"Mound Visit"2018PIT.EVN.regular.comment.csv",160
+
+"PIT201808030",7,"$Pirates challenged call that Marte was out at first; call was overturned - single"2018PIT.EVN.regular.comment.csv",161
+
+"PIT201808030",30,"Mound Visit"2018PIT.EVN.regular.comment.csv",162
+
+"PIT201808030",34,"Mound Visit"2018PIT.EVN.regular.comment.csv",163
+
+"PIT201808030",45,"Mound Visit"2018PIT.EVN.regular.comment.csv",164
+
+"PIT201808030",48,"$Run originally earned, changed to unearned on 08-05-2018"2018PIT.EVN.regular.comment.csv",165
+
+"PIT201808030",58,"Injury Delay"2018PIT.EVN.regular.comment.csv",166
+
+"PIT201808030",59,"Mound Visit"2018PIT.EVN.regular.comment.csv",167
+
+"PIT201808030",70,"Mound Visit"2018PIT.EVN.regular.comment.csv",168
+
+"PIT201808030",77,"$Dexter Fowler left with an injured foot"2018PIT.EVN.regular.comment.csv",169
+
+"PIT201808040",22,"Mound Visit"2018PIT.EVN.regular.comment.csv",170
+
+"PIT201808040",25,"Mound Visit"2018PIT.EVN.regular.comment.csv",171
+
+"PIT201808040",40,"Mound Visit"2018PIT.EVN.regular.comment.csv",172
+
+"PIT201808040",42,"Mound Visit"2018PIT.EVN.regular.comment.csv",173
+
+"PIT201808040",47,"Mound Visit"2018PIT.EVN.regular.comment.csv",174
+
+"PIT201808040",58,"Mound Visit"2018PIT.EVN.regular.comment.csv",175
+
+"PIT201808040",74,"Mound Visit"2018PIT.EVN.regular.comment.csv",176
+
+"PIT201808040",80,"Mound Visit"2018PIT.EVN.regular.comment.csv",177
+
+"PIT201808050",21,"Mound Visit"2018PIT.EVN.regular.comment.csv",178
+
+"PIT201808050",35,"Mound Visit"2018PIT.EVN.regular.comment.csv",179
+
+"PIT201808050",37,"Mound Visit"2018PIT.EVN.regular.comment.csv",180
+
+"PIT201808050",41,"Mound Visit"2018PIT.EVN.regular.comment.csv",181
+
+"PIT201808050",55,"Mound Visit"2018PIT.EVN.regular.comment.csv",182
+
+"PIT201808050",58,"Mound Visit"2018PIT.EVN.regular.comment.csv",183
+
+"PIT201808050",69,"$Pirates challenged call that Carpenter was safe at first; call was overturned - ground out"2018PIT.EVN.regular.comment.csv",184
+
+"PIT201808160",49,"Mound Visit"2018PIT.EVN.regular.comment.csv",185
+
+"PIT201808160",68,"Mound Visit"2018PIT.EVN.regular.comment.csv",186
+
+"PIT201808170",25,"Mound Visit"2018PIT.EVN.regular.comment.csv",187
+
+"PIT201808170",30,"Mound Visit"2018PIT.EVN.regular.comment.csv",188
+
+"PIT201808170",52,"Mound Visit"2018PIT.EVN.regular.comment.csv",189
+
+"PIT201808170",58,"Mound Visit"2018PIT.EVN.regular.comment.csv",190
+
+"PIT201808170",59,"$Pirates challenged call that Newman was out at 1st; call was upheld - out to complete double play"2018PIT.EVN.regular.comment.csv",191
+
+"PIT201808170",62,"Mound Visit"2018PIT.EVN.regular.comment.csv",192
+
+"PIT201808170",67,"Mound Visit"2018PIT.EVN.regular.comment.csv",193
+
+"PIT201808180",21,"Mound Visit"2018PIT.EVN.regular.comment.csv",194
+
+"PIT201808180",33,"Mound Visit"2018PIT.EVN.regular.comment.csv",195
+
+"PIT201808180",37,"$Pirates challenged call that Musgrove was out at first; call overturned - single"2018PIT.EVN.regular.comment.csv",196
+
+"PIT201808180",41,"$Cubs challenged that Heyward was out at first; call was overturned - single"2018PIT.EVN.regular.comment.csv",197
+
+"PIT201808180",59,"Mound Visit"2018PIT.EVN.regular.comment.csv",198
+
+"PIT201808190",17,"Mound Visit"2018PIT.EVN.regular.comment.csv",199
+
+"PIT201808190",46,"Mound Visit"2018PIT.EVN.regular.comment.csv",200
+
+"PIT201808190",47,"Mound Visit"2018PIT.EVN.regular.comment.csv",201
+
+"PIT201808190",56,"Mound Visit"2018PIT.EVN.regular.comment.csv",202
+
+"PIT201808190",58,"$Pirates challenged call at home, claiming Contreras had illegally blocked plate; call was upheld - out at home"2018PIT.EVN.regular.comment.csv",203
+
+"PIT201808190",62,"Injury Delay"2018PIT.EVN.regular.comment.csv",204
+
+"PIT201808190",69,"Mound Visit"2018PIT.EVN.regular.comment.csv",205
+
+"PIT201808190",71,"Mound Visit"2018PIT.EVN.regular.comment.csv",206
+
+"PIT201808190",73,"Mound Visit"2018PIT.EVN.regular.comment.csv",207
+
+"PIT201808190",81,"Mound Visit"2018PIT.EVN.regular.comment.csv",208
+
+"PIT201808190",85,"Mound Visit Fan interference"2018PIT.EVN.regular.comment.csv",209
+
+"PIT201808190",90,"Mound Visit"2018PIT.EVN.regular.comment.csv",210
+
+"PIT201808200",18,"Mound Visit"2018PIT.EVN.regular.comment.csv",211
+
+"PIT201808200",21,"Mound Visit"2018PIT.EVN.regular.comment.csv",212
+
+"PIT201808200",34,"$Chris Archer left with an injured leg"2018PIT.EVN.regular.comment.csv",213
+
+"PIT201808200",42,"Mound Visit"2018PIT.EVN.regular.comment.csv",214
+
+"PIT201808200",53,"Mound Visit $Umpire review of first pitch to Duvall; call was upheld - foul ball, not hmoe run"2018PIT.EVN.regular.comment.csv",215
+
+"PIT201808200",59,"Mound Visit"2018PIT.EVN.regular.comment.csv",216
+
+"PIT201808200",60,"$Pirates challenged call that Hechavarria was out at home; call was upheld - out at home"2018PIT.EVN.regular.comment.csv",217
+
+"PIT201808200",64,"Mound Visit"2018PIT.EVN.regular.comment.csv",218
+
+"PIT201808200",71,"Mound Visit"2018PIT.EVN.regular.comment.csv",219
+
+"PIT201808210",42,"$Pirates challenged call that Frazier was out at 2nd as 2bman and shorstop collided trying for throw from pitcher; Pirates no one had touched base while holding ball, but call was upheld - force out"2018PIT.EVN.regular.comment.csv",220
+
+"PIT201808210",50,"Mound Visit"2018PIT.EVN.regular.comment.csv",221
+
+"PIT201808210",63,"Injury Delay $Suzuki hit on left elbow and left game"2018PIT.EVN.regular.comment.csv",222
+
+"PIT201808210",66,"Mound Visit"2018PIT.EVN.regular.comment.csv",223
+
+"PIT201808220",23,"Mound Visit"2018PIT.EVN.regular.comment.csv",224
+
+"PIT201808220",34,"Mound Visit"2018PIT.EVN.regular.comment.csv",225
+
+"PIT201808220",51,"Mound Visit"2018PIT.EVN.regular.comment.csv",226
+
+"PIT201808220",52,"Mound Visit"2018PIT.EVN.regular.comment.csv",227
+
+"PIT201808220",53,"Mound Visit"2018PIT.EVN.regular.comment.csv",228
+
+"PIT201808220",60,"Mound Visit"2018PIT.EVN.regular.comment.csv",229
+
+"PIT201808220",67,"Mound Visit"2018PIT.EVN.regular.comment.csv",230
+
+"PIT201809030",45,"Mound Visit"2018PIT.EVN.regular.comment.csv",231
+
+"PIT201809030",51,"Mound Visit"2018PIT.EVN.regular.comment.csv",232
+
+"PIT201809030",55,"Mound Visit"2018PIT.EVN.regular.comment.csv",233
+
+"PIT201809030",57,"$Reds challenged call that Osuna was safe at home; call was upheld - safe at home"2018PIT.EVN.regular.comment.csv",234
+
+"PIT201809030",59,"Mound Visit"2018PIT.EVN.regular.comment.csv",235
+
+"PIT201809040",21,"Mound Visit"2018PIT.EVN.regular.comment.csv",236
+
+"PIT201809040",53,"Mound Visit"2018PIT.EVN.regular.comment.csv",237
+
+"PIT201809040",55,"Mound Visit"2018PIT.EVN.regular.comment.csv",238
+
+"PIT201809040",56,"Mound Visit"2018PIT.EVN.regular.comment.csv",239
+
+"PIT201809040",60,"Injury Delay"2018PIT.EVN.regular.comment.csv",240
+
+"PIT201809040",66,"Mound Visit"2018PIT.EVN.regular.comment.csv",241
+
+"PIT201809050",24,"Mound Visit"2018PIT.EVN.regular.comment.csv",242
+
+"PIT201809050",41,"Mound Visit"2018PIT.EVN.regular.comment.csv",243
+
+"PIT201809050",43,"Mound Visit"2018PIT.EVN.regular.comment.csv",244
+
+"PIT201809050",59,"Injury Delay"2018PIT.EVN.regular.comment.csv",245
+
+"PIT201809050",61,"Mound Visit"2018PIT.EVN.regular.comment.csv",246
+
+"PIT201809050",63,"On-field Delay"2018PIT.EVN.regular.comment.csv",247
+
+"PIT201809050",66,"Mound Visit"2018PIT.EVN.regular.comment.csv",248
+
+"PIT201809050",67,"Injury Delay"2018PIT.EVN.regular.comment.csv",249
+
+"PIT201809050",74,"Mound Visit"2018PIT.EVN.regular.comment.csv",250
+
+"PIT201809070",38,"Injury Delay"2018PIT.EVN.regular.comment.csv",251
+
+"PIT201809070",38,"$Dan Straily left with an injured back"2018PIT.EVN.regular.comment.csv",252
+
+"PIT201809070",48,"Injury Delay"2018PIT.EVN.regular.comment.csv",253
+
+"PIT201809070",48,"$Gregory Polanco left with an injured knee"2018PIT.EVN.regular.comment.csv",254
+
+"PIT201809070",51,"Mound Visit"2018PIT.EVN.regular.comment.csv",255
+
+"PIT201809070",64,"Mound Visit"2018PIT.EVN.regular.comment.csv",256
+
+"PIT201809080",30,"Mound Visit"2018PIT.EVN.regular.comment.csv",257
+
+"PIT201809080",49,"$Marlins challenged call that Reyes was safe at 1st; call was overutrned - ground out"2018PIT.EVN.regular.comment.csv",258
+
+"PIT201809080",59,"Mound Visit"2018PIT.EVN.regular.comment.csv",259
+
+"PIT201809080",64,"Mound Visit"2018PIT.EVN.regular.comment.csv",260
+
+"PIT201809170",35,"Injury Delay"2018PIT.EVN.regular.comment.csv",261
+
+"PIT201809170",36,"$Adam Frazier left with an injured knee, hurt on foul ball on pitch before his double"2018PIT.EVN.regular.comment.csv",262
+
+"PIT201809170",42,"Mound Visit"2018PIT.EVN.regular.comment.csv",263
+
+"PIT201809170",54,"Mound Visit"2018PIT.EVN.regular.comment.csv",264
+
+"PIT201809170",60,"Mound Visit"2018PIT.EVN.regular.comment.csv",265
+
+"PIT201809170",61,"$Pirates challgned call that Dickerson was out at 1st; call was upheld - ground out"2018PIT.EVN.regular.comment.csv",266
+
+"PIT201809170",62,"Mound Visit"2018PIT.EVN.regular.comment.csv",267
+
+"PIT201809170",65,"Mound Visit"2018PIT.EVN.regular.comment.csv",268
+
+"PIT201809180",46,"Mound Visit"2018PIT.EVN.regular.comment.csv",269
+
+"PIT201809180",59,"$Royals challenged call that Reyes was safe at 2nd; call was overturned - out on caught stealing"2018PIT.EVN.regular.comment.csv",270
+
+"PIT201809180",62,"Mound Visit"2018PIT.EVN.regular.comment.csv",271
+
+"PIT201809180",66,"Mound Visit"2018PIT.EVN.regular.comment.csv",272
+
+"PIT201809180",68,"Mound Visit"2018PIT.EVN.regular.comment.csv",273
+
+"PIT201809180",82,"Mound Visit"2018PIT.EVN.regular.comment.csv",274
+
+"PIT201809180",83,"Mound Visit"2018PIT.EVN.regular.comment.csv",275
+
+"PIT201809180",84,"Mound Visit"2018PIT.EVN.regular.comment.csv",276
+
+"PIT201809190",67,"Mound Visit"2018PIT.EVN.regular.comment.csv",277
+
+"PIT201809210",19,"Mound Visit"2018PIT.EVN.regular.comment.csv",278
+
+"PIT201809210",36,"Mound Visit"2018PIT.EVN.regular.comment.csv",279
+
+"PIT201809210",43,"Injury Delay"2018PIT.EVN.regular.comment.csv",280
+
+"PIT201809210",44,"Mound Visit Injury Delay"2018PIT.EVN.regular.comment.csv",281
+
+"PIT201809210",57,"ej,shawt001,P,fostm901,Arguing 3rd strike $Shaw ejected by plate umpire Foster for arguing 3rd strike"2018PIT.EVN.regular.comment.csv",282
+
+"PIT201809210",60,"Mound Visit"2018PIT.EVN.regular.comment.csv",283
+
+"PIT201809210",72,"Mound Visit"2018PIT.EVN.regular.comment.csv",284
+
+"PIT201809220",40,"Injury Delay"2018PIT.EVN.regular.comment.csv",285
+
+"PIT201809220",44,"Mound Visit"2018PIT.EVN.regular.comment.csv",286
+
+"PIT201809220",48,"Mound Visit"2018PIT.EVN.regular.comment.csv",287
+
+"PIT201809220",62,"Mound Visit"2018PIT.EVN.regular.comment.csv",288
+
+"PIT201809220",63,"Mound Visit"2018PIT.EVN.regular.comment.csv",289
+
+"PIT201809220",68,"Mound Visit"2018PIT.EVN.regular.comment.csv",290
+
+"PIT201809230",6,"Mound Visit"2018PIT.EVN.regular.comment.csv",291
+
+"PIT201809230",11,"$Umpire review of Arcia's hit; call was upheld - double on fan interference, not home run"2018PIT.EVN.regular.comment.csv",292
+
+"PIT201809230",18,"Mound Visit"2018PIT.EVN.regular.comment.csv",293
+
+"PIT201809230",46,"Mound Visit"2018PIT.EVN.regular.comment.csv",294
+
+"PIT201809230",47,"Mound Visit"2018PIT.EVN.regular.comment.csv",295
+
+"PIT201809230",49,"$Starling Marte left with an injured leg"2018PIT.EVN.regular.comment.csv",296
+
+"PIT201809230",55,"Mound Visit"2018PIT.EVN.regular.comment.csv",297
+
+"PIT201809230",56,"Mound Visit"2018PIT.EVN.regular.comment.csv",298
+

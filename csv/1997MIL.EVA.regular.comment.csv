@@ -1,23 +1,22 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"MIL199704170",79,"Debut game for Eddy Diaz"
-"MIL199704280",91,"Debut game for Sean Maloney"
-"MIL199705060",4,"ej,mcgwm001,P,garcr901,Balls and strikes Mark McGwire ejected by HP umpire Richie Garcia"
-"MIL199705070",79,"ej,bross001,P,fordd901,Call at HP ej,howea001,M,fordd901,Call at HP Scott Brosius and Athletics manager Art Howe ejected by HP umpire Dale Ford"
-"MIL199705110",22,"ej,collt801,M,brinj901,Call at home ej,fabrj001,P,brinj901,Call at home (while catching) Jorge Fabregas and Angels manager Terry Collins ejected by HP umpire Joe Brinkman"
-"MIL199705300",2,"umpchange,1,umphome,mcclt901 umpchange,1,ump2b,(None) $HP umpire Coble left when wrist injured on foul; 2B umpire McClelland went behind plate and game finished with 3 umpires"
-"MIL199705300",22,"ej,thomf001,P,,cclt901,Balls and strikes $Thomas ejected by HP umpire MCClelland for arguing balls and strikes"
-"MIL199705310",57,"Debut game for Antone Williamson"
-"MIL199707180",83,"Debut game for Ivan Cruz"
-"MIL199707281",1,"Debut game for Steve Woodard"
-"MIL199708290",68,"ej,kendj001,P,roe-r901,Catch/trap call Jason Kendall ejected by 3B umpire Rocky Roe arguing whether the ball had been caught"
-"MIL199704170",79,"Debut game for Eddy Diaz"
-"MIL199704280",91,"Debut game for Sean Maloney"
-"MIL199705060",4,"ej,mcgwm001,P,garcr901,Balls and strikes Mark McGwire ejected by HP umpire Richie Garcia"
-"MIL199705070",79,"ej,bross001,P,fordd901,Call at HP ej,howea001,M,fordd901,Call at HP Scott Brosius and Athletics manager Art Howe ejected by HP umpire Dale Ford"
-"MIL199705110",22,"ej,collt801,M,brinj901,Call at home ej,fabrj001,P,brinj901,Call at home (while catching) Jorge Fabregas and Angels manager Terry Collins ejected by HP umpire Joe Brinkman"
-"MIL199705300",2,"umpchange,1,umphome,mcclt901 umpchange,1,ump2b,(None) $HP umpire Coble left when wrist injured on foul; 2B umpire McClelland went behind plate and game finished with 3 umpires"
-"MIL199705300",22,"ej,thomf001,P,mcclt901,Called third strike $Thomas ejected by HP umpire McClelland for arguing called third strike"
-"MIL199705310",57,"Debut game for Antone Williamson"
-"MIL199707180",83,"Debut game for Ivan Cruz"
-"MIL199707281",1,"Debut game for Steve Woodard"
-"MIL199708290",68,"ej,kendj001,P,roe-r901,Catch/trap call Jason Kendall ejected by 3B umpire Rocky Roe arguing whether the ball had been caught"
+"MIL199704170",79,"Debut game for Eddy Diaz"FILENAME_TX","LINE_NUMBER_CT"
+
+"MIL199704280",91,"Debut game for Sean Maloney"1997MIL.EVA.regular.comment.csv",2
+
+"MIL199705060",4,"ej,mcgwm001,P,garcr901,Balls and strikes Mark McGwire ejected by HP umpire Richie Garcia"1997MIL.EVA.regular.comment.csv",3
+
+"MIL199705070",79,"ej,bross001,P,fordd901,Call at HP ej,howea001,M,fordd901,Call at HP Scott Brosius and Athletics manager Art Howe ejected by HP umpire Dale Ford"1997MIL.EVA.regular.comment.csv",4
+
+"MIL199705110",22,"ej,collt801,M,brinj901,Call at home ej,fabrj001,P,brinj901,Call at home (while catching) Jorge Fabregas and Angels manager Terry Collins ejected by HP umpire Joe Brinkman"1997MIL.EVA.regular.comment.csv",5
+
+"MIL199705300",2,"umpchange,1,umphome,mcclt901 umpchange,1,ump2b,(None) $HP umpire Coble left when wrist injured on foul; 2B umpire McClelland went behind plate and game finished with 3 umpires"1997MIL.EVA.regular.comment.csv",6
+
+"MIL199705300",22,"ej,thomf001,P,mcclt901,Called third strike $Thomas ejected by HP umpire McClelland for arguing called third strike"1997MIL.EVA.regular.comment.csv",7
+
+"MIL199705310",57,"Debut game for Antone Williamson"1997MIL.EVA.regular.comment.csv",8
+
+"MIL199707180",83,"Debut game for Ivan Cruz"1997MIL.EVA.regular.comment.csv",9
+
+"MIL199707281",1,"Debut game for Steve Woodard"1997MIL.EVA.regular.comment.csv",10
+
+"MIL199708290",68,"ej,kendj001,P,roe-r901,Catch/trap call Jason Kendall ejected by 3B umpire Rocky Roe arguing whether the ball had been caught"1997MIL.EVA.regular.comment.csv",11
+

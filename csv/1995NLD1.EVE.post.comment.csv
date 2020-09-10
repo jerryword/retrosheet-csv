@@ -1,27 +1,26 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"COL199510030",10,"Klesko out after turning wrong way beyond 1B ADM: check out pitches in next AB"
-"COL199510030",64,"ADM: Scorer has conflicting BR info here"
-"COL199510040",64,"Burks suffers concussion on dive for ball"
-"ATL199510060",0,"Game three of NLCS"
-"ATL199510060",21,"1-2 count on homer"
-"ATL199510060",37,"STRIKEOUT ON KDP WAS A K/C!!"
-"ATL199510060",37,"Blauser leaves with sprained ankle"
-"ATL199510060",47,"1-0 count on homer"
-"ATL199510070",22,"0-1 count on homer"
-"ATL199510070",30,"2-0 count on homer"
-"ATL199510070",46,"3-0 count on homer"
-"ATL199510070",51,"first pitch homer"
-"ATL199510070",52,"yes, S57"
-"COL199510030",10,"Klesko out after turning wrong way beyond 1B ADM: check out pitches in next AB"
-"COL199510030",64,"ADM: Scorer has conflicting BR info here"
-"COL199510040",64,"Burks suffers concussion on dive for ball"
-"ATL199510060",0,"Game three of NLCS"
-"ATL199510060",21,"1-2 count on homer"
-"ATL199510060",37,"STRIKEOUT ON KDP WAS A K/C!!"
-"ATL199510060",37,"Blauser leaves with sprained ankle"
-"ATL199510060",47,"1-0 count on homer"
-"ATL199510070",22,"0-1 count on homer"
-"ATL199510070",30,"2-0 count on homer"
-"ATL199510070",46,"3-0 count on homer"
-"ATL199510070",51,"first pitch homer"
-"ATL199510070",52,"yes, S57"
+"COL199510030",10,"Klesko out after turning wrong way beyond 1B ADM: check out pitches in next AB"FILENAME_TX","LINE_NUMBER_CT"
+
+"COL199510030",64,"ADM: Scorer has conflicting BR info here"1995NLD1.EVE.post.comment.csv",2
+
+"COL199510040",64,"Burks suffers concussion on dive for ball"1995NLD1.EVE.post.comment.csv",3
+
+"ATL199510060",0,"Game three of NLCS"1995NLD1.EVE.post.comment.csv",4
+
+"ATL199510060",21,"1-2 count on homer"1995NLD1.EVE.post.comment.csv",5
+
+"ATL199510060",37,"STRIKEOUT ON KDP WAS A K/C!!"1995NLD1.EVE.post.comment.csv",6
+
+"ATL199510060",37,"Blauser leaves with sprained ankle"1995NLD1.EVE.post.comment.csv",7
+
+"ATL199510060",47,"1-0 count on homer"1995NLD1.EVE.post.comment.csv",8
+
+"ATL199510070",22,"0-1 count on homer"1995NLD1.EVE.post.comment.csv",9
+
+"ATL199510070",30,"2-0 count on homer"1995NLD1.EVE.post.comment.csv",10
+
+"ATL199510070",46,"3-0 count on homer"1995NLD1.EVE.post.comment.csv",11
+
+"ATL199510070",51,"first pitch homer"1995NLD1.EVE.post.comment.csv",12
+
+"ATL199510070",52,"yes, S57"1995NLD1.EVE.post.comment.csv",13
+

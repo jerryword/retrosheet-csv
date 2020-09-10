@@ -1,63 +1,62 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"MIN199204120",1,"Debut game for Pat Mahomes"
-"MIN199205090",65,"Eric Plunk hit by Pedro Munoz line drive"
-"MIN199205120",61,"Debut game for Jeff Reboulet"
-"MIN199205300",48,"$pop up hit the roof of the dome"
-"MIN199205300",67,"$Deer pop up hit the roof again"
-"MIN199206030",4,"Debut game for J.T. Bruett"
-"MIN199206130",1,"Debut game for Shawn Jeter"
-"MIN199206130",70,"ej,fiskc001,P,phild901,Balls and strikes Carlton Fisk ejected by HP umpire Dave Phillips"
-"MIN199206140",15,"Shawn Jeter left with sprained left knee"
-"MIN199206140",51,"$Kirby Puckett missed cutoff man allowing batter to advance"
-"MIN199206170",38,"$liner caromed off Smiley's glove to Knoblauch"
-"MIN199206220",50,"$Chili Davis popout hit the roof"
-"MIN199207040",74,"ej,ripkc801,C,cousd901,Balls and strikes Cal Ripken Sr ejected by HP umpire Derryl Cousins for arguing balls and strikes"
-"MIN199207050",33,"$the ball boy interfered with ball in play"
-"MIN199207050",50,"Foul pop hit the roof"
-"MIN199207050",52,"$Chili Davis' long fly hit speaker in deep RF, caromed to second baseman McLemore; it would have been a home run"
-"MIN199207170",71,"DWS: note these mid-count switches"
-"MIN199207190",85,"$Jack Clark's foul popup hit the roof and was caught"
-"MIN199207300",55,"Pedro Munoz left with abdominal cramps"
-"MIN199208100",44,"$Kevin Reimer lost line drive in the lights"
-"MIN199208100",54,"$Shane Mack lost fly ball in the roof"
-"MIN199208100",61,"$Ruben Sierra lost ball in the lights"
-"MIN199208110",62,"Debut game for David Hulse"
-"MIN199208250",13,"$Gary Pettis lost fly ball in the dome roof"
-"MIN199208290",30,"$19-minute power failure delay"
-"MIN199209080",9,"Tino Martinez left with left groin strain"
-"MIN199209080",60,"Carl Willis hit in hand by batted ball"
-"MIN199209110",51,"Debut game for Derek Parks"
-"MIN199209120",49,"Bert Blyleven hit on the shin by Mack line drive"
-"MIN199209130",55,"$Scott Leius called for interference"
-"MIN199209290",21,"J.T. Bruett left with broken fourth toe on right foot"
-"MIN199204120",1,"Debut game for Pat Mahomes"
-"MIN199205090",65,"Eric Plunk hit by Pedro Munoz line drive"
-"MIN199205120",61,"Debut game for Jeff Reboulet"
-"MIN199205300",48,"$pop up hit the roof of the dome"
-"MIN199205300",67,"$Deer pop up hit the roof again"
-"MIN199206030",4,"Debut game for J.T. Bruett"
-"MIN199206130",1,"Debut game for Shawn Jeter"
-"MIN199206130",70,"ej,fiskc001,P,phild901,Balls and strikes Carlton Fisk ejected by HP umpire Dave Phillips"
-"MIN199206140",15,"Shawn Jeter left with sprained left knee"
-"MIN199206140",51,"$Kirby Puckett missed cutoff man allowing batter to advance"
-"MIN199206170",38,"$liner caromed off Smiley's glove to Knoblauch"
-"MIN199206220",50,"$Chili Davis popout hit the roof"
-"MIN199207040",74,"ej,ripkc801,C,cousd901,Balls and strikes Cal Ripken Sr ejected by HP umpire Derryl Cousins for arguing balls and strikes"
-"MIN199207050",33,"$the ball boy interfered with ball in play"
-"MIN199207050",50,"Foul pop hit the roof"
-"MIN199207050",52,"$Chili Davis' long fly hit speaker in deep RF, caromed to second baseman McLemore; it would have been a home run"
-"MIN199207170",71,"DWS: note these mid-count switches"
-"MIN199207190",85,"$Jack Clark's foul popup hit the roof and was caught"
-"MIN199207300",55,"Pedro Munoz left with abdominal cramps"
-"MIN199208100",44,"$Kevin Reimer lost line drive in the lights"
-"MIN199208100",54,"$Shane Mack lost fly ball in the roof"
-"MIN199208100",61,"$Ruben Sierra lost ball in the lights"
-"MIN199208110",62,"Debut game for David Hulse"
-"MIN199208250",13,"$Gary Pettis lost fly ball in the dome roof"
-"MIN199208290",30,"$19-minute power failure delay"
-"MIN199209080",9,"Tino Martinez left with left groin strain"
-"MIN199209080",60,"Carl Willis hit in hand by batted ball"
-"MIN199209110",51,"Debut game for Derek Parks"
-"MIN199209120",49,"Bert Blyleven hit on the shin by Mack line drive"
-"MIN199209130",55,"$Scott Leius called for interference"
-"MIN199209290",21,"J.T. Bruett left with broken fourth toe on right foot"
+"MIN199204120",1,"Debut game for Pat Mahomes"FILENAME_TX","LINE_NUMBER_CT"
+
+"MIN199205090",65,"Eric Plunk hit by Pedro Munoz line drive"1992MIN.EVA.regular.comment.csv",2
+
+"MIN199205120",61,"Debut game for Jeff Reboulet"1992MIN.EVA.regular.comment.csv",3
+
+"MIN199205300",48,"$pop up hit the roof of the dome"1992MIN.EVA.regular.comment.csv",4
+
+"MIN199205300",67,"$Deer pop up hit the roof again"1992MIN.EVA.regular.comment.csv",5
+
+"MIN199206030",4,"Debut game for J.T. Bruett"1992MIN.EVA.regular.comment.csv",6
+
+"MIN199206130",1,"Debut game for Shawn Jeter"1992MIN.EVA.regular.comment.csv",7
+
+"MIN199206130",70,"ej,fiskc001,P,phild901,Balls and strikes Carlton Fisk ejected by HP umpire Dave Phillips"1992MIN.EVA.regular.comment.csv",8
+
+"MIN199206140",15,"Shawn Jeter left with sprained left knee"1992MIN.EVA.regular.comment.csv",9
+
+"MIN199206140",51,"$Kirby Puckett missed cutoff man allowing batter to advance"1992MIN.EVA.regular.comment.csv",10
+
+"MIN199206170",38,"$liner caromed off Smiley's glove to Knoblauch"1992MIN.EVA.regular.comment.csv",11
+
+"MIN199206220",50,"$Chili Davis popout hit the roof"1992MIN.EVA.regular.comment.csv",12
+
+"MIN199207040",74,"ej,ripkc801,C,cousd901,Balls and strikes Cal Ripken Sr ejected by HP umpire Derryl Cousins for arguing balls and strikes"1992MIN.EVA.regular.comment.csv",13
+
+"MIN199207050",33,"$the ball boy interfered with ball in play"1992MIN.EVA.regular.comment.csv",14
+
+"MIN199207050",50,"Foul pop hit the roof"1992MIN.EVA.regular.comment.csv",15
+
+"MIN199207050",52,"$Chili Davis' long fly hit speaker in deep RF, caromed to second baseman McLemore; it would have been a home run"1992MIN.EVA.regular.comment.csv",16
+
+"MIN199207170",71,"DWS: note these mid-count switches"1992MIN.EVA.regular.comment.csv",17
+
+"MIN199207190",85,"$Jack Clark's foul popup hit the roof and was caught"1992MIN.EVA.regular.comment.csv",18
+
+"MIN199207300",55,"Pedro Munoz left with abdominal cramps"1992MIN.EVA.regular.comment.csv",19
+
+"MIN199208100",44,"$Kevin Reimer lost line drive in the lights"1992MIN.EVA.regular.comment.csv",20
+
+"MIN199208100",54,"$Shane Mack lost fly ball in the roof"1992MIN.EVA.regular.comment.csv",21
+
+"MIN199208100",61,"$Ruben Sierra lost ball in the lights"1992MIN.EVA.regular.comment.csv",22
+
+"MIN199208110",62,"Debut game for David Hulse"1992MIN.EVA.regular.comment.csv",23
+
+"MIN199208250",13,"$Gary Pettis lost fly ball in the dome roof"1992MIN.EVA.regular.comment.csv",24
+
+"MIN199208290",30,"$19-minute power failure delay"1992MIN.EVA.regular.comment.csv",25
+
+"MIN199209080",9,"Tino Martinez left with left groin strain"1992MIN.EVA.regular.comment.csv",26
+
+"MIN199209080",60,"Carl Willis hit in hand by batted ball"1992MIN.EVA.regular.comment.csv",27
+
+"MIN199209110",51,"Debut game for Derek Parks"1992MIN.EVA.regular.comment.csv",28
+
+"MIN199209120",49,"Bert Blyleven hit on the shin by Mack line drive"1992MIN.EVA.regular.comment.csv",29
+
+"MIN199209130",55,"$Scott Leius called for interference"1992MIN.EVA.regular.comment.csv",30
+
+"MIN199209290",21,"J.T. Bruett left with broken fourth toe on right foot"1992MIN.EVA.regular.comment.csv",31
+

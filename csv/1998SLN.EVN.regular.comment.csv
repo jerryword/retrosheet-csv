@@ -1,43 +1,42 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"SLN199803310",49,"$Tom Lampkin called for interference"
-"SLN199803310",54,"Debut game for Frank Lankford"
-"SLN199803310",71,"Debut game for Braden Looper"
-"SLN199804020",1,"Debut game for Cliff Politte"
-"SLN199804030",0,"Debuts for umpires Joseph Fugere and William Buchanan"
-"SLN199804030",38,"umpchange,4,ump1b,hirsm901 umpchange,4,ump2b,vanol901 umpchange,4,ump3b,froeb901"
-"SLN199805160",0,"ej,larut101,M,wintm901,Check swing Cardinals manager Tony LaRussa ejected by 3B umpire Mike Winters sometime in game"
-"SLN199805180",52,"Debut game for Rich Croushore"
-"SLN199806220",10,"Debut game for Gabe Alvarez"
-"SLN199807090",49,"$Shane Reynolds called for interference"
-"SLN199807100",70,"ej,everc001,P,darlg901,Balls and strikes Carl Everett ejected by HP umpire Gary Darling"
-"SLN199807150",77,"$Ed Taubensee called for interference"
-"SLN199807150",84,"ej,parkd001,C,crawj901,Balls and strikes ej,lansc001,C,crawj901,Balls and strikes Cardinals coaches Carney Lansford and Dave Parker ejected by HP umpire Jerry Crawford"
-"SLN199807180",81,"ej,jordb001,P,connp901,Balls and strikes Brian Jordan ejected by HP umpire Pat Connors"
-"SLN199807280",36,"ej,vinaf001,P,davib902,Call at 1B Fernando Vina ejected by 1B umpire Bob Davidson"
-"SLN199808070",70,"Debut game for Jose Nieves"
-"SLN199808120",90,"ej,tatif001,P,demud901,Called third strike Fernando Tatis ejected by HP umpire Dana DeMuth"
-"SLN199808250",2,"Debut game for Alex Gonzalez"
-"SLN199808260",0,"ej,leylj801,M,wendh901,Warning to pitcher Marlins manager Jim Leyland ejected by HP umpire Harry Wendelstedt sometime in game"
-"SLN199808290",6,"ej,duncd101,C,holbs901,Called third strike ej,larut101,M,holbs901,Called third strike ej,mcgwm001,P,holbs901,Called third strike $Mark McGwire, Cardinals manager Tony LaRussa and coach Dave Duncan ejected by HP umpire Sam Holbrook"
-"SLN199809080",48,"Debut game for J.D. Drew"
-"SLN199803310",49,"$Tom Lampkin called for interference"
-"SLN199803310",54,"Debut game for Frank Lankford"
-"SLN199803310",71,"Debut game for Braden Looper"
-"SLN199804020",1,"Debut game for Cliff Politte"
-"SLN199804030",0,"Debuts for umpires Joseph Fugere and William Buchanan"
-"SLN199804030",38,"umpchange,4,ump1b,hirsm901 umpchange,4,ump2b,vanol901 umpchange,4,ump3b,froeb901"
-"SLN199805160",42,"ej,larut101,M,wintm901,Check swing $Cardinals manager LaRussa ejected by 3B umpire Winters for arguing check swing strike 3 on Lankford"
-"SLN199805180",52,"Debut game for Rich Croushore"
-"SLN199806220",10,"Debut game for Gabe Alvarez"
-"SLN199807090",49,"$Shane Reynolds called for interference"
-"SLN199807100",70,"ej,everc001,P,darlg901,Balls and strikes Carl Everett ejected by HP umpire Gary Darling"
-"SLN199807150",77,"$Ed Taubensee called for interference"
-"SLN199807150",84,"ej,parkd001,C,crawj901,Balls and strikes ej,lansc001,C,crawj901,Balls and strikes Cardinals coaches Carney Lansford and Dave Parker ejected by HP umpire Jerry Crawford"
-"SLN199807180",81,"ej,jordb001,P,connp901,Balls and strikes Brian Jordan ejected by HP umpire Pat Connors"
-"SLN199807280",36,"ej,vinaf001,P,davib902,Call at 1B Fernando Vina ejected by 1B umpire Bob Davidson"
-"SLN199808070",70,"Debut game for Jose Nieves"
-"SLN199808120",90,"ej,tatif001,P,demud901,Called third strike Fernando Tatis ejected by HP umpire Dana DeMuth"
-"SLN199808250",2,"Debut game for Alex Gonzalez"
-"SLN199808260",64,"ej,leylj801,M,wendh901,Warning to pitcher $Marlins manager Leyland ejected by HP umpire Wendelstedt for issuing warning after first pitch to Jordan nearly hit him in the head"
-"SLN199808290",6,"ej,duncd101,C,holbs901,Called third strike ej,larut101,M,holbs901,Called third strike ej,mcgwm001,P,holbs901,Called third strike $McGwire, Cardinals manager LaRussa and coach Duncan ejected by HP umpire Holbrook for arguing called third strike"
-"SLN199809080",48,"Debut game for J.D. Drew"
+"SLN199803310",49,"$Tom Lampkin called for interference"FILENAME_TX","LINE_NUMBER_CT"
+
+"SLN199803310",54,"Debut game for Frank Lankford"1998SLN.EVN.regular.comment.csv",2
+
+"SLN199803310",71,"Debut game for Braden Looper"1998SLN.EVN.regular.comment.csv",3
+
+"SLN199804020",1,"Debut game for Cliff Politte"1998SLN.EVN.regular.comment.csv",4
+
+"SLN199804030",0,"Debuts for umpires Joseph Fugere and William Buchanan"1998SLN.EVN.regular.comment.csv",5
+
+"SLN199804030",38,"umpchange,4,ump1b,hirsm901 umpchange,4,ump2b,vanol901 umpchange,4,ump3b,froeb901"1998SLN.EVN.regular.comment.csv",6
+
+"SLN199805160",42,"ej,larut101,M,wintm901,Check swing $Cardinals manager LaRussa ejected by 3B umpire Winters for arguing check swing strike 3 on Lankford"1998SLN.EVN.regular.comment.csv",7
+
+"SLN199805180",52,"Debut game for Rich Croushore"1998SLN.EVN.regular.comment.csv",8
+
+"SLN199806220",10,"Debut game for Gabe Alvarez"1998SLN.EVN.regular.comment.csv",9
+
+"SLN199807090",49,"$Shane Reynolds called for interference"1998SLN.EVN.regular.comment.csv",10
+
+"SLN199807100",70,"ej,everc001,P,darlg901,Balls and strikes Carl Everett ejected by HP umpire Gary Darling"1998SLN.EVN.regular.comment.csv",11
+
+"SLN199807150",77,"$Ed Taubensee called for interference"1998SLN.EVN.regular.comment.csv",12
+
+"SLN199807150",84,"ej,parkd001,C,crawj901,Balls and strikes ej,lansc001,C,crawj901,Balls and strikes Cardinals coaches Carney Lansford and Dave Parker ejected by HP umpire Jerry Crawford"1998SLN.EVN.regular.comment.csv",13
+
+"SLN199807180",81,"ej,jordb001,P,connp901,Balls and strikes Brian Jordan ejected by HP umpire Pat Connors"1998SLN.EVN.regular.comment.csv",14
+
+"SLN199807280",36,"ej,vinaf001,P,davib902,Call at 1B Fernando Vina ejected by 1B umpire Bob Davidson"1998SLN.EVN.regular.comment.csv",15
+
+"SLN199808070",70,"Debut game for Jose Nieves"1998SLN.EVN.regular.comment.csv",16
+
+"SLN199808120",90,"ej,tatif001,P,demud901,Called third strike Fernando Tatis ejected by HP umpire Dana DeMuth"1998SLN.EVN.regular.comment.csv",17
+
+"SLN199808250",2,"Debut game for Alex Gonzalez"1998SLN.EVN.regular.comment.csv",18
+
+"SLN199808260",64,"ej,leylj801,M,wendh901,Warning to pitcher $Marlins manager Leyland ejected by HP umpire Wendelstedt for issuing warning after first pitch to Jordan nearly hit him in the head"1998SLN.EVN.regular.comment.csv",19
+
+"SLN199808290",6,"ej,duncd101,C,holbs901,Called third strike ej,larut101,M,holbs901,Called third strike ej,mcgwm001,P,holbs901,Called third strike $McGwire, Cardinals manager LaRussa and coach Duncan ejected by HP umpire Holbrook for arguing called third strike"1998SLN.EVN.regular.comment.csv",20
+
+"SLN199809080",48,"Debut game for J.D. Drew"1998SLN.EVN.regular.comment.csv",21
+

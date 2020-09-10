@@ -1,53 +1,52 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"MON197804221",75,"Debut game for Bob Reece"
-"MON197804240",26,"$Jerry Morales called for interference"
-"MON197804250",81,"$last game for Cardinals manager Vern Rapp"
-"MON197804260",0,"$First game with Jack Kroll interim Cardinals manager"
-"MON197805030",36,"$first Expo grand slam in Olympic Stadium"
-"MON197805110",77,"ej,montw101,P,tatat901,Balls and strikes ej,torrj101,M,tatat901,Balls and strikes Willie Montanez and Mets Manager Joe Torre ejected by HP umpire Terry Tata"
-"MON197805130",54,"$Warren Cromartie out on appeal for leaving 2B too soon"
-"MON197805310",40,"ej,valee001,P,harvd901,Fighting Ellis Valentine ejected by HP umpire Doug Harvey for instigating a fight with Dave Rader"
-"MON197806020",84,"ej,brisd801,C,Call at HP Giants coach Dave Bristol ejected by HP Umpire Jerry Dale"
-"MON197806030",0,"$start of game delayed by 20 minutes due to Ticketron breakdown"
-"MON197806040",65,"$Bill Madlock charged witherrorE when Jack Clark collided with him"
-"MON197806060",0,"Suspend=19780607,,0,2,34"
-"MON197806060",50,"suspended,19780607,MON02,power failure $game suspended due to power failure; resumed following evening"
-"MON197807021",13,"$Steve Swisher called for interference for running inside base line"
-"MON197807022",64,"Debut game for Gerry Pirtle"
-"MON197807141",76,"missing plays in MON197807141"
-"MON197808090",52,"missing play in MON197808090"
-"MON197808160",12,"ej,iviem101,P,varge901,Call at 1B Mike Ivie ejected by 1B umpire Ed Vargo"
-"MON197809060",62,"game rained out"
-"MON197809070",1,"Debut game for Bob James"
-"MON197809070",72,"$Sam Mejias' only ML pitching appearance"
-"MON197809070",81,"missing play in MON197809070"
-"MON197809080",0,"$Ellis Valentine refused to play after being fined for being late"
-"MON197809090",76,"Debut game for David Palmer"
-"MON197809100",5,"ej,scotr101,P,wendh901,Call at HP Rodney Scott ejected by HP umpire Harry Wendelstedt"
-"MON197809110",36,"$Dave Cash called for interference"
-"MON197804221",75,"Debut game for Bob Reece"
-"MON197804240",26,"$Jerry Morales called for interference"
-"MON197804250",81,"$last game for Cardinals manager Vern Rapp"
-"MON197804260",0,"$First game with Jack Kroll interim Cardinals manager"
-"MON197805030",36,"$first Expo grand slam in Olympic Stadium"
-"MON197805110",77,"ej,montw101,P,tatat901,Balls and strikes ej,torrj101,M,tatat901,Balls and strikes Willie Montanez and Mets Manager Joe Torre ejected by HP umpire Terry Tata"
-"MON197805130",54,"$Warren Cromartie out on appeal for leaving 2B too soon"
-"MON197805310",40,"ej,valee001,P,harvd901,Fighting Ellis Valentine ejected by HP umpire Doug Harvey for instigating a fight with Dave Rader"
-"MON197806020",84,"ej,brisd801,C,Call at HP Giants coach Dave Bristol ejected by HP Umpire Jerry Dale"
-"MON197806030",0,"$start of game delayed by 20 minutes due to Ticketron breakdown"
-"MON197806040",65,"$Bill Madlock charged witherrorE when Jack Clark collided with him"
-"MON197806060",0,"Suspend=19780607,,0,2,34"
-"MON197806060",50,"suspended,19780607,MON02,power failure $game suspended due to power failure; resumed following evening"
-"MON197807021",13,"$Steve Swisher called for interference for running inside base line"
-"MON197807022",64,"Debut game for Gerry Pirtle"
-"MON197807141",76,"missing plays in MON197807141"
-"MON197808090",52,"missing play in MON197808090"
-"MON197808160",12,"ej,iviem101,P,varge901,Call at 1B Mike Ivie ejected by 1B umpire Ed Vargo"
-"MON197809060",62,"game rained out"
-"MON197809070",1,"Debut game for Bob James"
-"MON197809070",72,"$Sam Mejias' only ML pitching appearance"
-"MON197809070",81,"missing play in MON197809070"
-"MON197809080",0,"$Ellis Valentine refused to play after being fined for being late"
-"MON197809090",76,"Debut game for David Palmer"
-"MON197809100",5,"ej,scotr101,P,wendh901,Call at HP Rodney Scott ejected by HP umpire Harry Wendelstedt"
-"MON197809110",36,"$Dave Cash called for interference"
+"MON197804221",75,"Debut game for Bob Reece"FILENAME_TX","LINE_NUMBER_CT"
+
+"MON197804240",26,"$Jerry Morales called for interference"1978MON.EVN.regular.comment.csv",2
+
+"MON197804250",81,"$last game for Cardinals manager Vern Rapp"1978MON.EVN.regular.comment.csv",3
+
+"MON197804260",0,"$First game with Jack Kroll interim Cardinals manager"1978MON.EVN.regular.comment.csv",4
+
+"MON197805030",36,"$first Expo grand slam in Olympic Stadium"1978MON.EVN.regular.comment.csv",5
+
+"MON197805110",77,"ej,montw101,P,tatat901,Balls and strikes ej,torrj101,M,tatat901,Balls and strikes Willie Montanez and Mets Manager Joe Torre ejected by HP umpire Terry Tata"1978MON.EVN.regular.comment.csv",6
+
+"MON197805130",54,"$Warren Cromartie out on appeal for leaving 2B too soon"1978MON.EVN.regular.comment.csv",7
+
+"MON197805310",40,"ej,valee001,P,harvd901,Fighting Ellis Valentine ejected by HP umpire Doug Harvey for instigating a fight with Dave Rader"1978MON.EVN.regular.comment.csv",8
+
+"MON197806020",84,"ej,brisd801,C,Call at HP Giants coach Dave Bristol ejected by HP Umpire Jerry Dale"1978MON.EVN.regular.comment.csv",9
+
+"MON197806030",0,"$start of game delayed by 20 minutes due to Ticketron breakdown"1978MON.EVN.regular.comment.csv",10
+
+"MON197806040",65,"$Bill Madlock charged witherrorE when Jack Clark collided with him"1978MON.EVN.regular.comment.csv",11
+
+"MON197806060",0,"Suspend=19780607,,0,2,34"1978MON.EVN.regular.comment.csv",12
+
+"MON197806060",50,"suspended,19780607,MON02,power failure $game suspended due to power failure; resumed following evening"1978MON.EVN.regular.comment.csv",13
+
+"MON197807021",13,"$Steve Swisher called for interference for running inside base line"1978MON.EVN.regular.comment.csv",14
+
+"MON197807022",64,"Debut game for Gerry Pirtle"1978MON.EVN.regular.comment.csv",15
+
+"MON197807141",76,"missing plays in MON197807141"1978MON.EVN.regular.comment.csv",16
+
+"MON197808090",52,"missing play in MON197808090"1978MON.EVN.regular.comment.csv",17
+
+"MON197808160",12,"ej,iviem101,P,varge901,Call at 1B Mike Ivie ejected by 1B umpire Ed Vargo"1978MON.EVN.regular.comment.csv",18
+
+"MON197809060",62,"game rained out"1978MON.EVN.regular.comment.csv",19
+
+"MON197809070",1,"Debut game for Bob James"1978MON.EVN.regular.comment.csv",20
+
+"MON197809070",72,"$Sam Mejias' only ML pitching appearance"1978MON.EVN.regular.comment.csv",21
+
+"MON197809070",81,"missing play in MON197809070"1978MON.EVN.regular.comment.csv",22
+
+"MON197809080",0,"$Ellis Valentine refused to play after being fined for being late"1978MON.EVN.regular.comment.csv",23
+
+"MON197809090",76,"Debut game for David Palmer"1978MON.EVN.regular.comment.csv",24
+
+"MON197809100",5,"ej,scotr101,P,wendh901,Call at HP Rodney Scott ejected by HP umpire Harry Wendelstedt"1978MON.EVN.regular.comment.csv",25
+
+"MON197809110",36,"$Dave Cash called for interference"1978MON.EVN.regular.comment.csv",26
+

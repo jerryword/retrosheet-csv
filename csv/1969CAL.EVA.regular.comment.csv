@@ -1,73 +1,72 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"CAL196904080",22,"$Bobby Knoop called out for passing runner; Mike Hegan injured on play"
-"CAL196904090",43,"Debut game for Pedro Borbon"
-"CAL196904110",54,"Debut game for Tom Tischinski"
-"CAL196904110",55,"Debut game for Charlie Walters"
-"CAL196904120",7,"ej,reicr101,P,barnl901,Called third strike Rick Reichardt ejected by HP umpire Larry Barnett"
-"CAL196905021",34,"$Tom Egan called for obstruction"
-"CAL196905021",50,"ej,johnl104,P,nappl901,Balls and strikes Lou Johnson ejected by HP umpire Larry Napp"
-"CAL196905030",20,"380 feet"
-"CAL196905030",67,"410 feet"
-"CAL196905040",39,"365 feet"
-"CAL196905040",41,"380 feet"
-"CAL196905040",53,"375 feet"
-"CAL196905090",0,"$Mike Nagy: 88 pitches; Andy Messersmith: 131 pitches"
-"CAL196905100",0,"$Jim McGlothlin: 123 pitches"
-"CAL196905280",47,"Debut game for Ken Tatum"
-"CAL196906202",1,"Debut game for Paul Edmondson"
-"CAL196906240",69,"ej,martb105,M,odomj901,Balls and strikes $Twins manager Martin ejected by HP umpire Odom for arguoing that ball 4 to Fregosi was really strike 3"
-"CAL196906250",51,"ej,reicr101,P,runge901,Call at 1B (threw helmet) $Reichardt ejected by 1B umpire Runge for arguing he was safe; also threw helmet"
-"CAL196906260",68,"$Frank Quilici rounded 3B too far"
-"CAL196907201",1,"Debut game for Vida Blue"
-"CAL196907250",22,"$Bobby Murcer hit head and left elbow on fence"
-"CAL196907290",70,"ej,amarr101,P,nappl901,Balls and strikes during teammate's at bat $Angels Amaro (not in game ejected by HP umpire Napp for arguing balls and strikes during Johnstone's at bat"
-"CAL196908160",57,"ej,hortt101,P,ashfe901,Called strike 3 $Horton ejected by HP umpire Ashford for arguing strike 3"
-"CAL196908190",49,"$Paul Blair pulled left lower rib muscle then singled"
-"CAL196908200",65,"$Boog Powell fell over bag and sprained left ankle"
-"CAL196909040",51,"Debut game for Jose Ortiz"
-"CAL196909050",54,"Debut game for Bob Spence"
-"CAL196909090",57,"Debut game for Tom Bradley"
-"CAL196909090",90,"Debut game for Marty Perez"
-"CAL196909100",22,"$Bill Butler left injured"
-"CAL196909100",94,"$Billy Harris is the 27th player used by Kansas City in this game"
-"CAL196909110",58,"Debut game for Randy Brown"
-"CAL196909190",80,"$missed squeeze"
-"CAL196909230",65,"$Don Mincher pulled a muscle running out the single"
-"CAL196909230",66,"$Danny Walton twisted his right knee and collapsed in the batters box, his season over"
-"CAL196909240",20,"406 ft"
-"CAL196904080",22,"$Bobby Knoop called out for passing runner; Mike Hegan injured on play"
-"CAL196904090",43,"Debut game for Pedro Borbon"
-"CAL196904110",54,"Debut game for Tom Tischinski"
-"CAL196904110",55,"Debut game for Charlie Walters"
-"CAL196904120",7,"ej,reicr101,P,barnl901,Called third strike Rick Reichardt ejected by HP umpire Larry Barnett"
-"CAL196905021",34,"$Tom Egan called for obstruction"
-"CAL196905021",50,"ej,johnl104,P,nappl901,Balls and strikes Lou Johnson ejected by HP umpire Larry Napp"
-"CAL196905030",20,"380 feet"
-"CAL196905030",67,"410 feet"
-"CAL196905040",39,"365 feet"
-"CAL196905040",41,"380 feet"
-"CAL196905040",53,"375 feet"
-"CAL196905090",0,"$Mike Nagy: 88 pitches; Andy Messersmith: 131 pitches"
-"CAL196905100",0,"$Jim McGlothlin: 123 pitches"
-"CAL196905280",47,"Debut game for Ken Tatum"
-"CAL196906202",1,"Debut game for Paul Edmondson"
-"CAL196906240",69,"ej,martb105,M,odomj901,Balls and strikes $Twins manager Martin ejected by HP umpire Odom for arguoing that ball 4 to Fregosi was really strike 3"
-"CAL196906250",51,"ej,reicr101,P,runge901,Call at 1B (threw helmet) $Reichardt ejected by 1B umpire Runge for arguing he was safe; also threw helmet"
-"CAL196906260",68,"$Frank Quilici rounded 3B too far"
-"CAL196907201",1,"Debut game for Vida Blue"
-"CAL196907250",22,"$Bobby Murcer hit head and left elbow on fence"
-"CAL196907290",70,"ej,amarr101,P,nappl901,Balls and strikes during teammate's at bat $Angels Amaro (not in game ejected by HP umpire Napp for arguing balls and strikes during Johnstone's at bat"
-"CAL196908160",57,"ej,hortt101,P,ashfe901,Called strike 3 $Horton ejected by HP umpire Ashford for arguing strike 3"
-"CAL196908190",49,"$Paul Blair pulled left lower rib muscle then singled"
-"CAL196908200",65,"$Boog Powell fell over bag and sprained left ankle"
-"CAL196909040",51,"Debut game for Jose Ortiz"
-"CAL196909050",54,"Debut game for Bob Spence"
-"CAL196909090",57,"Debut game for Tom Bradley"
-"CAL196909090",90,"Debut game for Marty Perez"
-"CAL196909100",22,"$Bill Butler left injured"
-"CAL196909100",94,"$Billy Harris is the 27th player used by Kansas City in this game"
-"CAL196909110",58,"Debut game for Randy Brown"
-"CAL196909190",80,"$missed squeeze"
-"CAL196909230",65,"$Don Mincher pulled a muscle running out the single"
-"CAL196909230",66,"$Danny Walton twisted his right knee and collapsed in the batters box, his season over"
-"CAL196909240",20,"406 ft"
+"CAL196904080",22,"$Bobby Knoop called out for passing runner; Mike Hegan injured on play"FILENAME_TX","LINE_NUMBER_CT"
+
+"CAL196904090",43,"Debut game for Pedro Borbon"1969CAL.EVA.regular.comment.csv",2
+
+"CAL196904110",54,"Debut game for Tom Tischinski"1969CAL.EVA.regular.comment.csv",3
+
+"CAL196904110",55,"Debut game for Charlie Walters"1969CAL.EVA.regular.comment.csv",4
+
+"CAL196904120",7,"ej,reicr101,P,barnl901,Called third strike Rick Reichardt ejected by HP umpire Larry Barnett"1969CAL.EVA.regular.comment.csv",5
+
+"CAL196905021",34,"$Tom Egan called for obstruction"1969CAL.EVA.regular.comment.csv",6
+
+"CAL196905021",50,"ej,johnl104,P,nappl901,Balls and strikes Lou Johnson ejected by HP umpire Larry Napp"1969CAL.EVA.regular.comment.csv",7
+
+"CAL196905030",20,"380 feet"1969CAL.EVA.regular.comment.csv",8
+
+"CAL196905030",67,"410 feet"1969CAL.EVA.regular.comment.csv",9
+
+"CAL196905040",39,"365 feet"1969CAL.EVA.regular.comment.csv",10
+
+"CAL196905040",41,"380 feet"1969CAL.EVA.regular.comment.csv",11
+
+"CAL196905040",53,"375 feet"1969CAL.EVA.regular.comment.csv",12
+
+"CAL196905090",0,"$Mike Nagy: 88 pitches; Andy Messersmith: 131 pitches"1969CAL.EVA.regular.comment.csv",13
+
+"CAL196905100",0,"$Jim McGlothlin: 123 pitches"1969CAL.EVA.regular.comment.csv",14
+
+"CAL196905280",47,"Debut game for Ken Tatum"1969CAL.EVA.regular.comment.csv",15
+
+"CAL196906202",1,"Debut game for Paul Edmondson"1969CAL.EVA.regular.comment.csv",16
+
+"CAL196906240",69,"ej,martb105,M,odomj901,Balls and strikes $Twins manager Martin ejected by HP umpire Odom for arguoing that ball 4 to Fregosi was really strike 3"1969CAL.EVA.regular.comment.csv",17
+
+"CAL196906250",51,"ej,reicr101,P,runge901,Call at 1B (threw helmet) $Reichardt ejected by 1B umpire Runge for arguing he was safe; also threw helmet"1969CAL.EVA.regular.comment.csv",18
+
+"CAL196906260",68,"$Frank Quilici rounded 3B too far"1969CAL.EVA.regular.comment.csv",19
+
+"CAL196907201",1,"Debut game for Vida Blue"1969CAL.EVA.regular.comment.csv",20
+
+"CAL196907250",22,"$Bobby Murcer hit head and left elbow on fence"1969CAL.EVA.regular.comment.csv",21
+
+"CAL196907290",70,"ej,amarr101,P,nappl901,Balls and strikes during teammate's at bat $Angels Amaro (not in game ejected by HP umpire Napp for arguing balls and strikes during Johnstone's at bat"1969CAL.EVA.regular.comment.csv",22
+
+"CAL196908160",57,"ej,hortt101,P,ashfe901,Called strike 3 $Horton ejected by HP umpire Ashford for arguing strike 3"1969CAL.EVA.regular.comment.csv",23
+
+"CAL196908190",49,"$Paul Blair pulled left lower rib muscle then singled"1969CAL.EVA.regular.comment.csv",24
+
+"CAL196908200",65,"$Boog Powell fell over bag and sprained left ankle"1969CAL.EVA.regular.comment.csv",25
+
+"CAL196909040",51,"Debut game for Jose Ortiz"1969CAL.EVA.regular.comment.csv",26
+
+"CAL196909050",54,"Debut game for Bob Spence"1969CAL.EVA.regular.comment.csv",27
+
+"CAL196909090",57,"Debut game for Tom Bradley"1969CAL.EVA.regular.comment.csv",28
+
+"CAL196909090",90,"Debut game for Marty Perez"1969CAL.EVA.regular.comment.csv",29
+
+"CAL196909100",22,"$Bill Butler left injured"1969CAL.EVA.regular.comment.csv",30
+
+"CAL196909100",94,"$Billy Harris is the 27th player used by Kansas City in this game"1969CAL.EVA.regular.comment.csv",31
+
+"CAL196909110",58,"Debut game for Randy Brown"1969CAL.EVA.regular.comment.csv",32
+
+"CAL196909190",80,"$missed squeeze"1969CAL.EVA.regular.comment.csv",33
+
+"CAL196909230",65,"$Don Mincher pulled a muscle running out the single"1969CAL.EVA.regular.comment.csv",34
+
+"CAL196909230",66,"$Danny Walton twisted his right knee and collapsed in the batters box, his season over"1969CAL.EVA.regular.comment.csv",35
+
+"CAL196909240",20,"406 ft"1969CAL.EVA.regular.comment.csv",36
+

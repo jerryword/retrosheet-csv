@@ -1,67 +1,66 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"KCA197704110",31,"390' HR"
-"KCA197704150",10,"440' HR"
-"KCA197704150",24,"ej,herzw101,M,clara901,Interference call Royals Manager Whitey Herzog ejected by 2B umpire Al Clark after Clark called Hal McRae for interference at 2B"
-"KCA197704160",58,"420' HR"
-"KCA197704160",76,"365' HR"
-"KCA197704170",4,"395' HR"
-"KCA197704270",76,"$Darrell Porter charged mound"
-"KCA197705010",52,"360' HR"
-"KCA197705030",44,"390' HR"
-"KCA197705040",0,"36 minute rain delay before start of game"
-"KCA197705040",1,"33 minute rain delay at 8:45pm"
-"KCA197705040",33,"Steve Stone left with stiffness in shoulder"
-"KCA197705090",46,"$Frank White out on appeal; did not retouch 2B on way back to 1B"
-"KCA197705100",58,"Bobby Grich safe on error at 2B then advanced to 3B"
-"KCA197706030",91,"$Dave Nelson,who moved to 3B after the catch, started home and was caught in a rundown to end the game"
-"KCA197706070",57,"ej,herzw101,M,dimul901,Position of runners aft fan interference Royals Manager Whitey Herzog ejected by HP umpire Lou DiMuro arguing that Darrell Porter would have scored from 1B without the fan interference"
-"KCA197706200",60,"ej,joner002,P,phild901,Call at 1B Ruppert Jones ejected by HP umpire Dave Phillips"
-"KCA197706220",43,"$Paul Splittorff hit by Craig Reynolds liner just below right knee in 5th"
-"KCA197707060",39,"ej,mcmuk101,P,brinj901,Bench jockeying Ken McMullen ejected by HP umpire Joe Brinkman"
-"KCA197707080",33,"ej,winkb801,M,pales901,Catch/trap call Athletics Manager Bobby Winkles ejected by 2B umpire Steve Palermo arguing that Amos Otis' fly was caught"
-"KCA197707160",58,"John Mayberry hurt right foot"
-"KCA197707270",96,"ej,fossr101,P,mckej901,Called third strike Ray Fosse ejected by HP umpire Jim McKean"
-"KCA197708050",42,"$Darrell Porter intentionally ran through pitcher Bart Johnson who covered the bag on the putout; the two had words but nothing happened beyond that"
-"KCA197708050",57,"ej,johnb105,P,phild901,Fighting with Darrell Porter ej,portd001,P,phild901,Fighting with Lamar Johnson Darrell Porter and Bart Johnson clash again; both are ejected by HP umpire Dave Phillips"
-"KCA197708070",68,"Debut game for Randy Wiles"
-"KCA197708200",41,"Mark Littell left with stiff back"
-"KCA197708210",74,"$high hopper to George Scott who waited for Bill Campbell to arrive"
-"KCA197709021",5,"Tom Poquette sprained left ankle"
-"KCA197709022",43,"Tom McMullen left with injured hand"
-"KCA197709152",55,"Paul Splittorff injured"
-"KCA197709170",74,"Debut game for Tom McMillan"
-"KCA197709180",12,"Debut game for Clint Hurdle"
-"KCA197709180",39,"Debut game for Byron McLaughlin"
-"KCA197704110",31,"390' HR"
-"KCA197704150",10,"440' HR"
-"KCA197704150",24,"ej,herzw101,M,clara901,Interference call Royals Manager Whitey Herzog ejected by 2B umpire Al Clark after Clark called Hal McRae for interference at 2B"
-"KCA197704160",58,"420' HR"
-"KCA197704160",76,"365' HR"
-"KCA197704170",4,"395' HR"
-"KCA197704270",76,"$Darrell Porter charged mound"
-"KCA197705010",52,"360' HR"
-"KCA197705030",44,"390' HR"
-"KCA197705040",0,"36 minute rain delay before start of game"
-"KCA197705040",1,"33 minute rain delay at 8:45pm"
-"KCA197705040",33,"Steve Stone left with stiffness in shoulder"
-"KCA197705090",46,"$Frank White out on appeal; did not retouch 2B on way back to 1B"
-"KCA197705100",58,"Bobby Grich safe on error at 2B then advanced to 3B"
-"KCA197706030",91,"$Dave Nelson,who moved to 3B after the catch, started home and was caught in a rundown to end the game"
-"KCA197706070",57,"ej,herzw101,M,dimul901,Position of runners aft fan interference Royals Manager Whitey Herzog ejected by HP umpire Lou DiMuro arguing that Darrell Porter would have scored from 1B without the fan interference"
-"KCA197706200",60,"ej,joner002,P,phild901,Call at 1B Ruppert Jones ejected by HP umpire Dave Phillips"
-"KCA197706220",43,"$Paul Splittorff hit by Craig Reynolds liner just below right knee in 5th"
-"KCA197707060",39,"ej,mcmuk101,P,brinj901,Bench jockeying Ken McMullen ejected by HP umpire Joe Brinkman"
-"KCA197707080",33,"ej,winkb801,M,pales901,Catch/trap call Athletics Manager Bobby Winkles ejected by 2B umpire Steve Palermo arguing that Amos Otis' fly was caught"
-"KCA197707160",58,"John Mayberry hurt right foot"
-"KCA197707270",96,"ej,fossr101,P,mckej901,Called third strike Ray Fosse ejected by HP umpire Jim McKean"
-"KCA197708050",42,"$Darrell Porter intentionally ran through pitcher Bart Johnson who covered the bag on the putout; the two had words but nothing happened beyond that"
-"KCA197708050",57,"ej,johnb105,P,phild901,Fighting with Darrell Porter ej,portd001,P,phild901,Fighting with Lamar Johnson Darrell Porter and Bart Johnson clash again; both are ejected by HP umpire Dave Phillips"
-"KCA197708070",68,"Debut game for Randy Wiles"
-"KCA197708200",41,"Mark Littell left with stiff back"
-"KCA197708210",74,"$high hopper to George Scott who waited for Bill Campbell to arrive"
-"KCA197709021",5,"Tom Poquette sprained left ankle"
-"KCA197709022",43,"Tom McMullen left with injured hand"
-"KCA197709152",55,"Paul Splittorff injured"
-"KCA197709170",74,"Debut game for Tom McMillan"
-"KCA197709180",12,"Debut game for Clint Hurdle"
-"KCA197709180",39,"Debut game for Byron McLaughlin"
+"KCA197704110",31,"390' HR"FILENAME_TX","LINE_NUMBER_CT"
+
+"KCA197704150",10,"440' HR"1977KCA.EVA.regular.comment.csv",2
+
+"KCA197704150",24,"ej,herzw101,M,clara901,Interference call Royals Manager Whitey Herzog ejected by 2B umpire Al Clark after Clark called Hal McRae for interference at 2B"1977KCA.EVA.regular.comment.csv",3
+
+"KCA197704160",58,"420' HR"1977KCA.EVA.regular.comment.csv",4
+
+"KCA197704160",76,"365' HR"1977KCA.EVA.regular.comment.csv",5
+
+"KCA197704170",4,"395' HR"1977KCA.EVA.regular.comment.csv",6
+
+"KCA197704270",76,"$Darrell Porter charged mound"1977KCA.EVA.regular.comment.csv",7
+
+"KCA197705010",52,"360' HR"1977KCA.EVA.regular.comment.csv",8
+
+"KCA197705030",44,"390' HR"1977KCA.EVA.regular.comment.csv",9
+
+"KCA197705040",0,"36 minute rain delay before start of game"1977KCA.EVA.regular.comment.csv",10
+
+"KCA197705040",1,"33 minute rain delay at 8:45pm"1977KCA.EVA.regular.comment.csv",11
+
+"KCA197705040",33,"Steve Stone left with stiffness in shoulder"1977KCA.EVA.regular.comment.csv",12
+
+"KCA197705090",46,"$Frank White out on appeal; did not retouch 2B on way back to 1B"1977KCA.EVA.regular.comment.csv",13
+
+"KCA197705100",58,"Bobby Grich safe on error at 2B then advanced to 3B"1977KCA.EVA.regular.comment.csv",14
+
+"KCA197706030",91,"$Dave Nelson,who moved to 3B after the catch, started home and was caught in a rundown to end the game"1977KCA.EVA.regular.comment.csv",15
+
+"KCA197706070",57,"ej,herzw101,M,dimul901,Position of runners aft fan interference Royals Manager Whitey Herzog ejected by HP umpire Lou DiMuro arguing that Darrell Porter would have scored from 1B without the fan interference"1977KCA.EVA.regular.comment.csv",16
+
+"KCA197706200",60,"ej,joner002,P,phild901,Call at 1B Ruppert Jones ejected by HP umpire Dave Phillips"1977KCA.EVA.regular.comment.csv",17
+
+"KCA197706220",43,"$Paul Splittorff hit by Craig Reynolds liner just below right knee in 5th"1977KCA.EVA.regular.comment.csv",18
+
+"KCA197707060",39,"ej,mcmuk101,P,brinj901,Bench jockeying Ken McMullen ejected by HP umpire Joe Brinkman"1977KCA.EVA.regular.comment.csv",19
+
+"KCA197707080",33,"ej,winkb801,M,pales901,Catch/trap call Athletics Manager Bobby Winkles ejected by 2B umpire Steve Palermo arguing that Amos Otis' fly was caught"1977KCA.EVA.regular.comment.csv",20
+
+"KCA197707160",58,"John Mayberry hurt right foot"1977KCA.EVA.regular.comment.csv",21
+
+"KCA197707270",96,"ej,fossr101,P,mckej901,Called third strike Ray Fosse ejected by HP umpire Jim McKean"1977KCA.EVA.regular.comment.csv",22
+
+"KCA197708050",42,"$Darrell Porter intentionally ran through pitcher Bart Johnson who covered the bag on the putout; the two had words but nothing happened beyond that"1977KCA.EVA.regular.comment.csv",23
+
+"KCA197708050",57,"ej,johnb105,P,phild901,Fighting with Darrell Porter ej,portd001,P,phild901,Fighting with Lamar Johnson Darrell Porter and Bart Johnson clash again; both are ejected by HP umpire Dave Phillips"1977KCA.EVA.regular.comment.csv",24
+
+"KCA197708070",68,"Debut game for Randy Wiles"1977KCA.EVA.regular.comment.csv",25
+
+"KCA197708200",41,"Mark Littell left with stiff back"1977KCA.EVA.regular.comment.csv",26
+
+"KCA197708210",74,"$high hopper to George Scott who waited for Bill Campbell to arrive"1977KCA.EVA.regular.comment.csv",27
+
+"KCA197709021",5,"Tom Poquette sprained left ankle"1977KCA.EVA.regular.comment.csv",28
+
+"KCA197709022",43,"Tom McMullen left with injured hand"1977KCA.EVA.regular.comment.csv",29
+
+"KCA197709152",55,"Paul Splittorff injured"1977KCA.EVA.regular.comment.csv",30
+
+"KCA197709170",74,"Debut game for Tom McMillan"1977KCA.EVA.regular.comment.csv",31
+
+"KCA197709180",12,"Debut game for Clint Hurdle"1977KCA.EVA.regular.comment.csv",32
+
+"KCA197709180",39,"Debut game for Byron McLaughlin"1977KCA.EVA.regular.comment.csv",33
+

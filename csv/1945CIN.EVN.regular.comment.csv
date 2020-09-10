@@ -1,47 +1,46 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"CIN194504170",34,"$Jim Russell homered but 1B umpire Ziggy Sears had called time before the pitch"
-"CIN194504280",68,"$Marty Marion left with a sprained right ankle"
-"CIN194506151",0,"$the game started in twilight"
-"CIN194506151",60,"$the lights are on"
-"CIN194506152",13,"$Bucky Walters spiked on right foot during play at HP"
-"CIN194507151",57,"$fourth hit by pitch by Charley Schanz"
-"CIN194507151",57,"$Jimmie Foxx, second on the career home run list with 531, pitching"
-"CIN194507191",30,"$Carden Gillenwater rounded 2B too far"
-"CIN194507192",94,"$as 3B umpire George Magerkurth left the field, he was attacked by a fan; the fan punched him in the stomach; Magerkurth gave the fan a black eye before Eddie Joost and Jim Tobin pulled him away"
-"CIN194508040",75,"$Cubs manager Charlie Grimm argued the call at 3B"
-"CIN194508040",76,"ej,grimc101,M,barrg901,Call at 3B $Cubs manager Charlie Grimm ejected by 3B umpire George Barr"
-"CIN194508310",35,"ej,salkb101,P,conlj102,Balls and strikes ej,frisf101,M,conlj102,Balls and strikes Bill Salkeld and Pirates manager Frank Frisch ejected by HP umpire Jocko Conlan"
-"CIN194509052",29,"ej,mccof101,P,goetl901,Interference non-call $Frank McCormick argued that the batted ball struck runner Jake Powell; McCormick ejected by 1B umpire Larry Goetz"
-"CIN194509052",54,"$Tony Daniels left with an unknown injury"
-"CIN194509060",20,"$Andy Seminick left with unknown injury"
-"CIN194509060",43,"$Jimmie Foxx, second on the career list with 532 home runs, pitches"
-"CIN194509072",55,"$onto the LF roof"
-"CIN194509100",57,"deleted plays in vis were D,W,13/SH,4,IW,K: home was 6,13"
-"CIN194509100",58,"game called due to rain with two out in the bottom of the eighth; game reverted to the sevneth inning; second game cancelled"
-"CIN194509130",19,"$George Hausman had advanced to 3B on the hit and run"
-"CIN194509150",13,"$Kermit Wahl batted out of turn and singled to CF; the proper batter, Woody Williams, was called out"
-"CIN194509261",17,"ej,mille104,P,dunnt901,Call at 2B $Shortstop Miller ejected by 1B umpire Dunn for arguing he had touched 2nd base for a force on Gionfriddo"
-"CIN194509271",53,"$Don Johnson leaped for the ball and then collided with 2B umpire Babe Pinelli; Johnson left with a wrenched neck"
-"CIN194504170",34,"$Jim Russell homered but 1B umpire Ziggy Sears had called time before the pitch"
-"CIN194504280",68,"$Marty Marion left with a sprained right ankle"
-"CIN194506151",0,"$the game started in twilight"
-"CIN194506151",60,"$the lights are on"
-"CIN194506152",13,"$Bucky Walters spiked on right foot during play at HP"
-"CIN194507151",57,"$fourth hit by pitch by Charley Schanz"
-"CIN194507151",57,"$Jimmie Foxx, second on the career home run list with 531, pitching"
-"CIN194507191",30,"$Carden Gillenwater rounded 2B too far"
-"CIN194507192",94,"$as 3B umpire George Magerkurth left the field, he was attacked by a fan; the fan punched him in the stomach; Magerkurth gave the fan a black eye before Eddie Joost and Jim Tobin pulled him away"
-"CIN194508040",75,"$Cubs manager Charlie Grimm argued the call at 3B"
-"CIN194508040",76,"ej,grimc101,M,barrg901,Call at 3B $Cubs manager Charlie Grimm ejected by 3B umpire George Barr"
-"CIN194508310",35,"ej,salkb101,P,conlj102,Balls and strikes ej,frisf101,M,conlj102,Balls and strikes Bill Salkeld and Pirates manager Frank Frisch ejected by HP umpire Jocko Conlan"
-"CIN194509052",29,"ej,mccof101,P,goetl901,Interference non-call $Frank McCormick argued that the batted ball struck runner Jake Powell; McCormick ejected by 1B umpire Larry Goetz"
-"CIN194509052",54,"$Tony Daniels left with an unknown injury"
-"CIN194509060",20,"$Andy Seminick left with unknown injury"
-"CIN194509060",43,"$Jimmie Foxx, second on the career list with 532 home runs, pitches"
-"CIN194509072",55,"$onto the LF roof"
-"CIN194509100",57,"deleted plays in vis were D,W,13/SH,4,IW,K: home was 6,13"
-"CIN194509100",58,"game called due to rain with two out in the bottom of the eighth; game reverted to the sevneth inning; second game cancelled"
-"CIN194509130",19,"$George Hausman had advanced to 3B on the hit and run"
-"CIN194509150",13,"$Kermit Wahl batted out of turn and singled to CF; the proper batter, Woody Williams, was called out"
-"CIN194509261",17,"ej,mille104,P,dunnt901,Call at 2B $Shortstop Miller ejected by 1B umpire Dunn for arguing he had touched 2nd base for a force on Gionfriddo"
-"CIN194509271",53,"$Don Johnson leaped for the ball and then collided with 2B umpire Babe Pinelli; Johnson left with a wrenched neck"
+"CIN194504170",34,"$Jim Russell homered but 1B umpire Ziggy Sears had called time before the pitch"FILENAME_TX","LINE_NUMBER_CT"
+
+"CIN194504280",68,"$Marty Marion left with a sprained right ankle"1945CIN.EVN.regular.comment.csv",2
+
+"CIN194506151",0,"$the game started in twilight"1945CIN.EVN.regular.comment.csv",3
+
+"CIN194506151",60,"$the lights are on"1945CIN.EVN.regular.comment.csv",4
+
+"CIN194506152",13,"$Bucky Walters spiked on right foot during play at HP"1945CIN.EVN.regular.comment.csv",5
+
+"CIN194507151",57,"$fourth hit by pitch by Charley Schanz"1945CIN.EVN.regular.comment.csv",6
+
+"CIN194507151",57,"$Jimmie Foxx, second on the career home run list with 531, pitching"1945CIN.EVN.regular.comment.csv",7
+
+"CIN194507191",30,"$Carden Gillenwater rounded 2B too far"1945CIN.EVN.regular.comment.csv",8
+
+"CIN194507192",94,"$as 3B umpire George Magerkurth left the field, he was attacked by a fan; the fan punched him in the stomach; Magerkurth gave the fan a black eye before Eddie Joost and Jim Tobin pulled him away"1945CIN.EVN.regular.comment.csv",9
+
+"CIN194508040",75,"$Cubs manager Charlie Grimm argued the call at 3B"1945CIN.EVN.regular.comment.csv",10
+
+"CIN194508040",76,"ej,grimc101,M,barrg901,Call at 3B $Cubs manager Charlie Grimm ejected by 3B umpire George Barr"1945CIN.EVN.regular.comment.csv",11
+
+"CIN194508310",35,"ej,salkb101,P,conlj102,Balls and strikes ej,frisf101,M,conlj102,Balls and strikes Bill Salkeld and Pirates manager Frank Frisch ejected by HP umpire Jocko Conlan"1945CIN.EVN.regular.comment.csv",12
+
+"CIN194509052",29,"ej,mccof101,P,goetl901,Interference non-call $Frank McCormick argued that the batted ball struck runner Jake Powell; McCormick ejected by 1B umpire Larry Goetz"1945CIN.EVN.regular.comment.csv",13
+
+"CIN194509052",54,"$Tony Daniels left with an unknown injury"1945CIN.EVN.regular.comment.csv",14
+
+"CIN194509060",20,"$Andy Seminick left with unknown injury"1945CIN.EVN.regular.comment.csv",15
+
+"CIN194509060",43,"$Jimmie Foxx, second on the career list with 532 home runs, pitches"1945CIN.EVN.regular.comment.csv",16
+
+"CIN194509072",55,"$onto the LF roof"1945CIN.EVN.regular.comment.csv",17
+
+"CIN194509100",57,"deleted plays in vis were D,W,13/SH,4,IW,K: home was 6,13"1945CIN.EVN.regular.comment.csv",18
+
+"CIN194509100",58,"game called due to rain with two out in the bottom of the eighth; game reverted to the sevneth inning; second game cancelled"1945CIN.EVN.regular.comment.csv",19
+
+"CIN194509130",19,"$George Hausman had advanced to 3B on the hit and run"1945CIN.EVN.regular.comment.csv",20
+
+"CIN194509150",13,"$Kermit Wahl batted out of turn and singled to CF; the proper batter, Woody Williams, was called out"1945CIN.EVN.regular.comment.csv",21
+
+"CIN194509261",17,"ej,mille104,P,dunnt901,Call at 2B $Shortstop Miller ejected by 1B umpire Dunn for arguing he had touched 2nd base for a force on Gionfriddo"1945CIN.EVN.regular.comment.csv",22
+
+"CIN194509271",53,"$Don Johnson leaped for the ball and then collided with 2B umpire Babe Pinelli; Johnson left with a wrenched neck"1945CIN.EVN.regular.comment.csv",23
+

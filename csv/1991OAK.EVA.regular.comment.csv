@@ -1,47 +1,46 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"OAK199104090",2,"Debut game for Chuck Knoblauch"
-"OAK199104110",1,"Debut game for Joe Slusarski"
-"OAK199104120",55,"Debut game for Dana Allison"
-"OAK199104130",1,"Debut game for Kirk Dressendorfer"
-"OAK199104140",85,"ej,steit001,P,brinj901,Checked swing Terry Steinbach ejected by 1B umpire Joe Brinkman for arguing a checked swing for strike three"
-"OAK199105050",39,"ej,larut101,M,welkt901,Balls and strikes Athletics manager Tony LaRussa ejected by HP umpire Tim Welke"
-"OAK199105080",10,"Dave Stewart left with left rib strain"
-"OAK199106050",53,"Joe Klink left after being hit with line drive"
-"OAK199106080",57,"Debut game for Johnny Guzman"
-"OAK199106260",69,"Debut game for Wayne Rosenthal"
-"OAK199106270",66,"ej,larut101,M,johnm901,Balls and strikes Athletics manager Tony LaRussa ejected by HP umpire Mark Johnson sometime in eighth"
-"OAK199107120",33,"ej,welcb001,P,meric901,Call at 1B Bob Welch ejected by 1B umpire Chuck Meriwether"
-"OAK199107190",46,"Debut game for Kevin Campbell"
-"OAK199108040",0,"ej,duncd101,C,craft901,Balls and strikes ej,larut101,M,craft901,Balls and strikes Athletics manager TOny LaRussa and coach Dave Duncan ejected by HP umpire Terry Craft sometime in game"
-"OAK199108060",62,"Debut game for Dave Fleming"
-"OAK199108070",7,"Debut game for Scott Brosius"
-"OAK199108250",66,"Debut game for Ron Witmeyer"
-"OAK199108260",41,"Jack Clark left with pulled right calf"
-"OAK199108270",68,"$Jody Reed was ruled out of the base line and batter Phil Plantier called out; Mike Brumley sent back to 2B"
-"OAK199108280",0,"ej,morgj101,M,kaisk901,Call at 1B Red Sox manager Joe Morgan ejected by 1B umpire Ken Kaiser sometime in game"
-"OAK199109010",0,"$Umpire Rocky Roe in hospital with irregular heartbeat"
-"OAK199109110",1,"Debut game for Todd Van Poppel"
-"OAK199109250",4,"Mike Boddicker injured on hard ground ball"
-"OAK199104090",2,"Debut game for Chuck Knoblauch"
-"OAK199104110",1,"Debut game for Joe Slusarski"
-"OAK199104120",55,"Debut game for Dana Allison"
-"OAK199104130",1,"Debut game for Kirk Dressendorfer"
-"OAK199104140",85,"ej,steit001,P,brinj901,Checked swing Terry Steinbach ejected by 1B umpire Joe Brinkman for arguing a checked swing for strike three"
-"OAK199105050",39,"ej,larut101,M,welkt901,Balls and strikes Athletics manager Tony LaRussa ejected by HP umpire Tim Welke"
-"OAK199105080",10,"Dave Stewart left with left rib strain"
-"OAK199106050",53,"Joe Klink left after being hit with line drive"
-"OAK199106080",57,"Debut game for Johnny Guzman"
-"OAK199106260",69,"Debut game for Wayne Rosenthal"
-"OAK199106270",62,"ej,larut101,M,cobld901,Called third strike $Athletics manager LaRussa ejected by 1B umpire Coble for arguing valled third strike"
-"OAK199107120",33,"ej,welcb001,P,meric901,Call at 1B $Pitcher Welch ejected by 1B umpire Meriwether for arguing Devereaux was out at 1st; umpire said Welch missed base after taking throw from 3bman"
-"OAK199107190",46,"Debut game for Kevin Campbell"
-"OAK199108040",69,"ej,duncd101,C,craft901,Balls and strikes ej,larut101,M,craft901,Balls and strikes $Athletics manager LaRussa and coach Duncan ejected by HP Craft for arguing balls and strikes while Bordick was at bat"
-"OAK199108060",62,"Debut game for Dave Fleming"
-"OAK199108070",7,"Debut game for Scott Brosius"
-"OAK199108250",66,"Debut game for Ron Witmeyer"
-"OAK199108260",41,"Jack Clark left with pulled right calf"
-"OAK199108270",68,"$Jody Reed was ruled out of the base line and batter Phil Plantier called out; Mike Brumley sent back to 2B"
-"OAK199108280",23,"ej,morgj101,M,kaisk901,Call at 1B $Red Sox manager Morgan ejected by 1B umpire Kaiser for arguing that Henderson was out at 1st"
-"OAK199109010",0,"$Umpire Rocky Roe in hospital with irregular heartbeat"
-"OAK199109110",1,"Debut game for Todd Van Poppel"
-"OAK199109250",4,"Mike Boddicker injured on hard ground ball"
+"OAK199104090",2,"Debut game for Chuck Knoblauch"FILENAME_TX","LINE_NUMBER_CT"
+
+"OAK199104110",1,"Debut game for Joe Slusarski"1991OAK.EVA.regular.comment.csv",2
+
+"OAK199104120",55,"Debut game for Dana Allison"1991OAK.EVA.regular.comment.csv",3
+
+"OAK199104130",1,"Debut game for Kirk Dressendorfer"1991OAK.EVA.regular.comment.csv",4
+
+"OAK199104140",85,"ej,steit001,P,brinj901,Checked swing Terry Steinbach ejected by 1B umpire Joe Brinkman for arguing a checked swing for strike three"1991OAK.EVA.regular.comment.csv",5
+
+"OAK199105050",39,"ej,larut101,M,welkt901,Balls and strikes Athletics manager Tony LaRussa ejected by HP umpire Tim Welke"1991OAK.EVA.regular.comment.csv",6
+
+"OAK199105080",10,"Dave Stewart left with left rib strain"1991OAK.EVA.regular.comment.csv",7
+
+"OAK199106050",53,"Joe Klink left after being hit with line drive"1991OAK.EVA.regular.comment.csv",8
+
+"OAK199106080",57,"Debut game for Johnny Guzman"1991OAK.EVA.regular.comment.csv",9
+
+"OAK199106260",69,"Debut game for Wayne Rosenthal"1991OAK.EVA.regular.comment.csv",10
+
+"OAK199106270",62,"ej,larut101,M,cobld901,Called third strike $Athletics manager LaRussa ejected by 1B umpire Coble for arguing valled third strike"1991OAK.EVA.regular.comment.csv",11
+
+"OAK199107120",33,"ej,welcb001,P,meric901,Call at 1B $Pitcher Welch ejected by 1B umpire Meriwether for arguing Devereaux was out at 1st; umpire said Welch missed base after taking throw from 3bman"1991OAK.EVA.regular.comment.csv",12
+
+"OAK199107190",46,"Debut game for Kevin Campbell"1991OAK.EVA.regular.comment.csv",13
+
+"OAK199108040",69,"ej,duncd101,C,craft901,Balls and strikes ej,larut101,M,craft901,Balls and strikes $Athletics manager LaRussa and coach Duncan ejected by HP Craft for arguing balls and strikes while Bordick was at bat"1991OAK.EVA.regular.comment.csv",14
+
+"OAK199108060",62,"Debut game for Dave Fleming"1991OAK.EVA.regular.comment.csv",15
+
+"OAK199108070",7,"Debut game for Scott Brosius"1991OAK.EVA.regular.comment.csv",16
+
+"OAK199108250",66,"Debut game for Ron Witmeyer"1991OAK.EVA.regular.comment.csv",17
+
+"OAK199108260",41,"Jack Clark left with pulled right calf"1991OAK.EVA.regular.comment.csv",18
+
+"OAK199108270",68,"$Jody Reed was ruled out of the base line and batter Phil Plantier called out; Mike Brumley sent back to 2B"1991OAK.EVA.regular.comment.csv",19
+
+"OAK199108280",23,"ej,morgj101,M,kaisk901,Call at 1B $Red Sox manager Morgan ejected by 1B umpire Kaiser for arguing that Henderson was out at 1st"1991OAK.EVA.regular.comment.csv",20
+
+"OAK199109010",0,"$Umpire Rocky Roe in hospital with irregular heartbeat"1991OAK.EVA.regular.comment.csv",21
+
+"OAK199109110",1,"Debut game for Todd Van Poppel"1991OAK.EVA.regular.comment.csv",22
+
+"OAK199109250",4,"Mike Boddicker injured on hard ground ball"1991OAK.EVA.regular.comment.csv",23
+

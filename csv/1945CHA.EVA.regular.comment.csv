@@ -1,55 +1,64 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"CHA194504200",39,"Throw pulled second baseman off bag"
-"CHA194504222",76,"$rounded third too far"
-"CHA194505180",17,"Michael's failed to touch second to get force"
-"CHA194505180",51,"Nagel's throw to 2nd was late"
-"CHA194505180",54,"Newspaper stories said ball should have been caught"
-"CHA194506060",24,"Ball hit off 2B glove, he retrieved it and threw wild to home"
-"CHA194506060",48,"Double to short RCF, CF threw wild to plate"
-"CHA194506071",38,"Pitch threw to 2B, but was late"
-"CHA194506071",52,"Dropped pop fly"
-"CHA194507021",15,"Ball hit 1B bag"
-"CHA194507021",38,"Ball hit scoreboard in LF"
-"CHA194507021",50,"Ground ball to 3rd, catcher dropped throw but recovered in time to tag the runner from 2nd"
-"CHA194507021",52,"Tresh steals 3rd and catcher throws wild to 3rd"
-"CHA194507021",58,"Grounder to 1B who threw to SS for the force SS threw wild trying for DP"
-"CHA194508030",43,"$Webb rounded third too far"
-"CHA194508040",18,"$Grove started off the field, thinking it was strike 3; $Tresh did too and rolled the ball to the mound; Newhouser alertly went to third, but Webb stayed at first"
-"CHA194508040",56,"$Play was indeed 63 as bunt went past 3bman"
-"CHA194508180",18,"ej,newss101,P,grieb901,Call at 2B $2bman Newsome ejected by base umpire Grieve for arguing that he had held ball on force attempt"
-"CHA194508180",21,"ej,haasm101,C,pipgg101,Balls and strikes $Chicago coach Haas ejected by HP umpire Pipgras for arguing balls and strikes"
-"CHA194508200",5,"Runner hesitated and did not score before out"
-"CHA194508200",41,"Ground ball to 1st, runner thought it foul and did not run"
-"CHA194508211",0,"1st game of a scheduled double header"
-"CHA194504200",39,"Throw pulled second baseman off bag"
-"CHA194504222",76,"$rounded third too far"
-"CHA194505180",17,"Michael's failed to touch second to get force"
-"CHA194505180",51,"Nagel's throw to 2nd was late"
-"CHA194505180",54,"Newspaper stories said ball should have been caught"
-"CHA194506060",24,"Ball hit off 2B glove, he retrieved it and threw wild to home"
-"CHA194506060",48,"Double to short RCF, CF threw wild to plate"
-"CHA194506071",38,"Pitch threw to 2B, but was late"
-"CHA194506071",52,"Dropped pop fly"
-"CHA194506130",30,"Hit & run"
-"CHA194506130",38,"Into LF seats"
-"CHA194506130",48,"Into LF seats"
-"CHA194506130",72,"Into LF seats"
-"CHA194506162",38,"Into LF seats"
-"CHA194506162",54,"Into RF pavilion"
-"CHA194507021",15,"Ball hit 1B bag"
-"CHA194507021",38,"Ball hit scoreboard in LF"
-"CHA194507021",50,"Ground ball to 3rd, catcher dropped throw but recovered in time to tag the runner from 2nd"
-"CHA194507021",52,"Tresh steals 3rd and catcher throws wild to 3rd"
-"CHA194507021",58,"Grounder to 1B who threw to SS for the force SS threw wild trying for DP"
-"CHA194507071",7,"Knerr took a leisurely full windup"
-"CHA194508030",43,"$Webb rounded third too far"
-"CHA194508040",18,"$Grove started off the field, thinking it was strike 3; $Tresh did too and rolled the ball to the mound; Newhouser alertly went to third, but Webb stayed at first"
-"CHA194508040",56,"$Play was indeed 63 as bunt went past 3bman"
-"CHA194508051",60,"Texas Leaguer"
-"CHA194508052",59,"Into LF stands"
-"CHA194508052",76,"Maier: great 1-handed stop"
-"CHA194508180",18,"ej,newss101,P,grieb901,Call at 2B $2bman Newsome ejected by base umpire Grieve for arguing that he had held ball on force attempt"
-"CHA194508180",21,"ej,haasm101,C,pipgg101,Balls and strikes $Chicago coach Haas ejected by HP umpire Pipgras for arguing balls and strikes"
-"CHA194508200",5,"Runner hesitated and did not score before out"
-"CHA194508200",41,"Ground ball to 1st, runner thought it foul and did not run"
-"CHA194508211",0,"1st game of a scheduled double header"
+"CHA194504200",39,"Throw pulled second baseman off bag"FILENAME_TX","LINE_NUMBER_CT"
+
+"CHA194504222",76,"$rounded third too far"1945CHA.EVA.regular.comment.csv",2
+
+"CHA194505180",17,"Michael's failed to touch second to get force"1945CHA.EVA.regular.comment.csv",3
+
+"CHA194505180",51,"Nagel's throw to 2nd was late"1945CHA.EVA.regular.comment.csv",4
+
+"CHA194505180",54,"Newspaper stories said ball should have been caught"1945CHA.EVA.regular.comment.csv",5
+
+"CHA194506060",24,"Ball hit off 2B glove, he retrieved it and threw wild to home"1945CHA.EVA.regular.comment.csv",6
+
+"CHA194506060",48,"Double to short RCF, CF threw wild to plate"1945CHA.EVA.regular.comment.csv",7
+
+"CHA194506071",38,"Pitch threw to 2B, but was late"1945CHA.EVA.regular.comment.csv",8
+
+"CHA194506071",52,"Dropped pop fly"1945CHA.EVA.regular.comment.csv",9
+
+"CHA194506130",30,"Hit & run"1945CHA.EVA.regular.comment.csv",10
+
+"CHA194506130",38,"Into LF seats"1945CHA.EVA.regular.comment.csv",11
+
+"CHA194506130",48,"Into LF seats"1945CHA.EVA.regular.comment.csv",12
+
+"CHA194506130",72,"Into LF seats"1945CHA.EVA.regular.comment.csv",13
+
+"CHA194506162",38,"Into LF seats"1945CHA.EVA.regular.comment.csv",14
+
+"CHA194506162",54,"Into RF pavilion"1945CHA.EVA.regular.comment.csv",15
+
+"CHA194507021",15,"Ball hit 1B bag"1945CHA.EVA.regular.comment.csv",16
+
+"CHA194507021",38,"Ball hit scoreboard in LF"1945CHA.EVA.regular.comment.csv",17
+
+"CHA194507021",50,"Ground ball to 3rd, catcher dropped throw but recovered in time to tag the runner from 2nd"1945CHA.EVA.regular.comment.csv",18
+
+"CHA194507021",52,"Tresh steals 3rd and catcher throws wild to 3rd"1945CHA.EVA.regular.comment.csv",19
+
+"CHA194507021",58,"Grounder to 1B who threw to SS for the force SS threw wild trying for DP"1945CHA.EVA.regular.comment.csv",20
+
+"CHA194507071",7,"Knerr took a leisurely full windup"1945CHA.EVA.regular.comment.csv",21
+
+"CHA194508030",43,"$Webb rounded third too far"1945CHA.EVA.regular.comment.csv",22
+
+"CHA194508040",18,"$Grove started off the field, thinking it was strike 3; $Tresh did too and rolled the ball to the mound; Newhouser alertly went to third, but Webb stayed at first"1945CHA.EVA.regular.comment.csv",23
+
+"CHA194508040",56,"$Play was indeed 63 as bunt went past 3bman"1945CHA.EVA.regular.comment.csv",24
+
+"CHA194508051",60,"Texas Leaguer"1945CHA.EVA.regular.comment.csv",25
+
+"CHA194508052",59,"Into LF stands"1945CHA.EVA.regular.comment.csv",26
+
+"CHA194508052",76,"Maier: great 1-handed stop"1945CHA.EVA.regular.comment.csv",27
+
+"CHA194508180",18,"ej,newss101,P,grieb901,Call at 2B $2bman Newsome ejected by base umpire Grieve for arguing that he had held ball on force attempt"1945CHA.EVA.regular.comment.csv",28
+
+"CHA194508180",21,"ej,haasm101,C,pipgg101,Balls and strikes $Chicago coach Haas ejected by HP umpire Pipgras for arguing balls and strikes"1945CHA.EVA.regular.comment.csv",29
+
+"CHA194508200",5,"Runner hesitated and did not score before out"1945CHA.EVA.regular.comment.csv",30
+
+"CHA194508200",41,"Ground ball to 1st, runner thought it foul and did not run"1945CHA.EVA.regular.comment.csv",31
+
+"CHA194508211",0,"1st game of a scheduled double header"1945CHA.EVA.regular.comment.csv",32
+

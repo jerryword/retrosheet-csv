@@ -1,45 +1,44 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"SFN200204120",27,"$#573 for Bonds tying Killebrew for 7th all-time"
-"SFN200204120",54,"Debut game for Brian Mallette"
-"SFN200204130",7,"$#574 for Bonds to pass Killebrew for 7th all-time"
-"SFN200204290",27,"originally scored as CS"
-"SFN200205030",39,"ej,boona001,P,laynj901,Call at 1B Reds Manager Bob Boone ejected by 1B umpire Jerry Layne in 6th"
-"SFN200205040",65,"ej,belld002,P,laynj901,Called third strike David Bell ejected by HP umpire Jerry Layne"
-"SFN200205270",7,"$infield shift on for Bonds"
-"SFN200205270",8,"yes, 45(1)/FO - shift"
-"SFN200205310",76,"steal, then E4 to 3rd, then out at home"
-"SFN200206020",60,"$#586 for Bonds tying Frank Robinson for 4th all-time"
-"SFN200207260",26,"Debut game for Tony Torcato"
-"SFN200208060",1,"Debut game for Steve Smyth"
-"SFN200208060",85,"ej,gonza001,P,klemj901,Called third strike Alex Gonzalez ejected by HP umpire Justin Klemm"
-"SFN200208090",48,"$home run #600 for Bonds; 4th player to reach that number"
-"SFN200208090",64,"$Lofton apparently injured"
-"SFN200208200",47,"originally ruled SF, changed next day Vaughn dropped throw on cutoff"
-"SFN200209050",49,"$Santiago hit on hand, left game"
-"SFN200209080",31,"$Santiago stole third while Anderson held ball between pitches"
-"SFN200209100",42,"Debut game for Luke Allen"
-"SFN200209150",70,"ej,baked002,M,hirsm901,Call at HP ej,righd001,C,hirsm901,Call at HP ej,santb001,P,hirsm901,Call at HP $Benito Santiago, Giants Manager Dusty Baker and Coach Dave Righetti ejected by HP umpire Mark Hirschbeck"
-"SFN200209250",5,"$Pitch off Aurilia's arm, then hit him in mouth"
-"SFN200209250",14,"$nice play by Snow on grounder; Nevin wandered past 3B and Hernandez got him trying to get back"
-"SFN200204120",27,"$#573 for Bonds tying Killebrew for 7th all-time"
-"SFN200204120",54,"Debut game for Brian Mallette"
-"SFN200204130",7,"$#574 for Bonds to pass Killebrew for 7th all-time"
-"SFN200204290",27,"originally scored as CS"
-"SFN200205030",46,"ej,boonb001,M,laynj901,Call at 1B $Reds manager Boone ejected by 1B umpire Layne for arguing that Shinjo was out at 1st to complete DP"
-"SFN200205040",65,"ej,belld002,P,laynj901,Called third strike David Bell ejected by HP umpire Jerry Layne"
-"SFN200205270",7,"$infield shift on for Bonds"
-"SFN200205270",8,"yes, 45(1)/FO - shift"
-"SFN200205310",76,"steal, then E4 to 3rd, then out at home"
-"SFN200206020",60,"$#586 for Bonds tying Frank Robinson for 4th all-time"
-"SFN200207260",26,"Debut game for Tony Torcato"
-"SFN200208060",1,"Debut game for Steve Smyth"
-"SFN200208060",85,"ej,gonza001,P,klemj901,Called third strike Alex Gonzalez ejected by HP umpire Justin Klemm"
-"SFN200208090",48,"$home run #600 for Bonds; 4th player to reach that number"
-"SFN200208090",64,"$Lofton apparently injured"
-"SFN200208200",47,"originally ruled SF, changed next day Vaughn dropped throw on cutoff"
-"SFN200209050",49,"$Santiago hit on hand, left game"
-"SFN200209080",31,"$Santiago stole third while Anderson held ball between pitches"
-"SFN200209100",42,"Debut game for Luke Allen"
-"SFN200209150",70,"ej,baked002,M,hirsm901,Call at HP ej,righd001,C,hirsm901,Call at HP ej,santb001,P,hirsm901,Call at HP $Benito Santiago, Giants Manager Dusty Baker and Coach Dave Righetti ejected by HP umpire Mark Hirschbeck"
-"SFN200209250",5,"$Pitch off Aurilia's arm, then hit him in mouth"
-"SFN200209250",14,"$nice play by Snow on grounder; Nevin wandered past 3B and Hernandez got him trying to get back"
+"SFN200204120",27,"$#573 for Bonds tying Killebrew for 7th all-time"FILENAME_TX","LINE_NUMBER_CT"
+
+"SFN200204120",54,"Debut game for Brian Mallette"2002SFN.EVN.regular.comment.csv",2
+
+"SFN200204130",7,"$#574 for Bonds to pass Killebrew for 7th all-time"2002SFN.EVN.regular.comment.csv",3
+
+"SFN200204290",27,"originally scored as CS"2002SFN.EVN.regular.comment.csv",4
+
+"SFN200205030",46,"ej,boonb001,M,laynj901,Call at 1B $Reds manager Boone ejected by 1B umpire Layne for arguing that Shinjo was out at 1st to complete DP"2002SFN.EVN.regular.comment.csv",5
+
+"SFN200205040",65,"ej,belld002,P,laynj901,Called third strike David Bell ejected by HP umpire Jerry Layne"2002SFN.EVN.regular.comment.csv",6
+
+"SFN200205270",7,"$infield shift on for Bonds"2002SFN.EVN.regular.comment.csv",7
+
+"SFN200205270",8,"yes, 45(1)/FO - shift"2002SFN.EVN.regular.comment.csv",8
+
+"SFN200205310",76,"steal, then E4 to 3rd, then out at home"2002SFN.EVN.regular.comment.csv",9
+
+"SFN200206020",60,"$#586 for Bonds tying Frank Robinson for 4th all-time"2002SFN.EVN.regular.comment.csv",10
+
+"SFN200207260",26,"Debut game for Tony Torcato"2002SFN.EVN.regular.comment.csv",11
+
+"SFN200208060",1,"Debut game for Steve Smyth"2002SFN.EVN.regular.comment.csv",12
+
+"SFN200208060",85,"ej,gonza001,P,klemj901,Called third strike Alex Gonzalez ejected by HP umpire Justin Klemm"2002SFN.EVN.regular.comment.csv",13
+
+"SFN200208090",48,"$home run #600 for Bonds; 4th player to reach that number"2002SFN.EVN.regular.comment.csv",14
+
+"SFN200208090",64,"$Lofton apparently injured"2002SFN.EVN.regular.comment.csv",15
+
+"SFN200208200",47,"originally ruled SF, changed next day Vaughn dropped throw on cutoff"2002SFN.EVN.regular.comment.csv",16
+
+"SFN200209050",49,"$Santiago hit on hand, left game"2002SFN.EVN.regular.comment.csv",17
+
+"SFN200209080",31,"$Santiago stole third while Anderson held ball between pitches"2002SFN.EVN.regular.comment.csv",18
+
+"SFN200209100",42,"Debut game for Luke Allen"2002SFN.EVN.regular.comment.csv",19
+
+"SFN200209150",70,"ej,baked002,M,hirsm901,Call at HP ej,righd001,C,hirsm901,Call at HP ej,santb001,P,hirsm901,Call at HP $Benito Santiago, Giants Manager Dusty Baker and Coach Dave Righetti ejected by HP umpire Mark Hirschbeck"2002SFN.EVN.regular.comment.csv",20
+
+"SFN200209250",5,"$Pitch off Aurilia's arm, then hit him in mouth"2002SFN.EVN.regular.comment.csv",21
+
+"SFN200209250",14,"$nice play by Snow on grounder; Nevin wandered past 3B and Hernandez got him trying to get back"2002SFN.EVN.regular.comment.csv",22
+

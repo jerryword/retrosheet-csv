@@ -1,23 +1,22 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"KCA199904180",0,"ej,muset101,M,cedeg901,Arguing after warning Royals manager Tony Muser ejected by HP umpire Gary Cederstrom sometime in game"
-"KCA199906280",0,"ej,whitf001,C,cousd901,Call at 1B Royals coach Frank White ejected by 1B umpire Derryl Cousins sometime in game"
-"KCA199907100",72,"Debut game for Ken Ray"
-"KCA199907230",63,"Debut game for Luis Vizcaino"
-"KCA199908250",0,"ej,muset101,M,mccol901,Fair/foul call on HR Royals manager Tony Muser ejected by 1B umpire Larry McCoy sometime in game"
-"KCA199909040",80,"Game called for rain with two outs in the top of the ninth"
-"KCA199909050",73,"Debut game for Mike Romano"
-"KCA199909130",0,"ej,muset101,M,shulj901,Balls and strikes (mocked umpire) Royals manager Tony Muser ejected by HP umpire John Shulock sometime in game"
-"KCA199909142",11,"Debut game for Mark Quinn"
-"KCA199909150",64,"Debut game for Lance Carter"
-"KCA199909290",38,"ej,loftk001,P,eddid901,Checked swing Kenny Lofton ejected by 3B umpire Doug Eddings after a check swing call for strike three"
-"KCA199904180",25,"ej,muset101,M,cedeg901,Arguing warning $Royals manager Muser ejected by HP umpire Cederstrom for arguing about warning after HBP"
-"KCA199906280",22,"ej,whitf001,C,cousd901,Call at 1B $Royals coach White ejected by 1B umpire Cousins for arguing call at 1B"
-"KCA199907100",72,"Debut game for Ken Ray"
-"KCA199907230",63,"Debut game for Luis Vizcaino"
-"KCA199908250",22,"ej,muset101,M,mccol901,HR call $Royals manager Muser ejected by 1B umpire McCoy for arguing that Damon's fly hit the foul pole; umpire ruled it hit the wall but RF did not run after ball since he knew it hit the pole, so Damon got IPHR"
-"KCA199909040",80,"Game called for rain with two outs in the top of the ninth"
-"KCA199909050",73,"Debut game for Mike Romano"
-"KCA199909130",72,"ej,muset101,M,shulj901,Balk call (mocked umpire) $Royals manager Muser ejected by HP umpire Shulock for arguing balk call"
-"KCA199909142",11,"Debut game for Mark Quinn"
-"KCA199909150",64,"Debut game for Lance Carter"
-"KCA199909290",38,"ej,loftk001,P,eddid901,Checked swing Kenny Lofton ejected by 3B umpire Doug Eddings after a check swing call for strike three"
+"KCA199904180",25,"ej,muset101,M,cedeg901,Arguing warning $Royals manager Muser ejected by HP umpire Cederstrom for arguing about warning after HBP"FILENAME_TX","LINE_NUMBER_CT"
+
+"KCA199906280",22,"ej,whitf001,C,cousd901,Call at 1B $Royals coach White ejected by 1B umpire Cousins for arguing call at 1B"1999KCA.EVA.regular.comment.csv",2
+
+"KCA199907100",72,"Debut game for Ken Ray"1999KCA.EVA.regular.comment.csv",3
+
+"KCA199907230",63,"Debut game for Luis Vizcaino"1999KCA.EVA.regular.comment.csv",4
+
+"KCA199908250",22,"ej,muset101,M,mccol901,HR call $Royals manager Muser ejected by 1B umpire McCoy for arguing that Damon's fly hit the foul pole; umpire ruled it hit the wall but RF did not run after ball since he knew it hit the pole, so Damon got IPHR"1999KCA.EVA.regular.comment.csv",5
+
+"KCA199909040",80,"Game called for rain with two outs in the top of the ninth"1999KCA.EVA.regular.comment.csv",6
+
+"KCA199909050",73,"Debut game for Mike Romano"1999KCA.EVA.regular.comment.csv",7
+
+"KCA199909130",72,"ej,muset101,M,shulj901,Balk call (mocked umpire) $Royals manager Muser ejected by HP umpire Shulock for arguing balk call"1999KCA.EVA.regular.comment.csv",8
+
+"KCA199909142",11,"Debut game for Mark Quinn"1999KCA.EVA.regular.comment.csv",9
+
+"KCA199909150",64,"Debut game for Lance Carter"1999KCA.EVA.regular.comment.csv",10
+
+"KCA199909290",38,"ej,loftk001,P,eddid901,Checked swing Kenny Lofton ejected by 3B umpire Doug Eddings after a check swing call for strike three"1999KCA.EVA.regular.comment.csv",11
+

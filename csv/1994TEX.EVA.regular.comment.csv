@@ -1,19 +1,20 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"TEX199404160",30,"ej,saboc001,P,shulj901,Called third strike Chris Sabo ejected by HP umpire John Shulock"
-"TEX199405100",0,"Suspend=19940511,,5,5,48 ej,kennk801,M,roe-r901,Claimed ball hit bat twice on bunt Rangers manager Kevin Kennedy ejected by HP umpire Rocky Roe sometime in game"
-"TEX199405100",72,"suspended,19940511,ARL02,curfew $ganme suspended for curfew and resumed the next day"
-"TEX199405270",0,"Debut for umpire Ted Barrett"
-"TEX199406120",55,"Debut game for Terry Burrows"
-"TEX199406130",60,"Debut game for Jeff Darwin"
-"TEX199406160",1,"Debut game for John Dettmer"
-"TEX199407270",51,"ej,cansj001,P,craft901,Called third strike Jose Canseco ejected by HP umpire Terry Craft"
-"TEX199404160",30,"ej,saboc001,P,shulj901,Called third strike Chris Sabo ejected by HP umpire John Shulock"
-"TEX199405100",0,"Suspend=19940511,,5,5,48"
-"TEX199405100",19,"$Rain delay of 2:48"
-"TEX199405100",55,"ej,kennk801,M,roe-r901,Interference non-call $Rangers manager Kennedy ejected by HP umpire Roe for arguing Easler had hit ball twice on his bunt and should be out for interference"
-"TEX199405100",72,"suspended,19940511,ARL02,curfew $ganme suspended for curfew and resumed the next day"
-"TEX199405270",0,"Debut for umpire Ted Barrett"
-"TEX199406120",55,"Debut game for Terry Burrows"
-"TEX199406130",60,"Debut game for Jeff Darwin"
-"TEX199406160",1,"Debut game for John Dettmer"
-"TEX199407270",51,"ej,cansj001,P,craft901,Called third strike Jose Canseco ejected by HP umpire Terry Craft"
+"TEX199404160",30,"ej,saboc001,P,shulj901,Called third strike Chris Sabo ejected by HP umpire John Shulock"FILENAME_TX","LINE_NUMBER_CT"
+
+"TEX199405100",0,"Suspend=19940511,,5,5,48"1994TEX.EVA.regular.comment.csv",2
+
+"TEX199405100",19,"$Rain delay of 2:48"1994TEX.EVA.regular.comment.csv",3
+
+"TEX199405100",55,"ej,kennk801,M,roe-r901,Interference non-call $Rangers manager Kennedy ejected by HP umpire Roe for arguing Easler had hit ball twice on his bunt and should be out for interference"1994TEX.EVA.regular.comment.csv",4
+
+"TEX199405100",72,"suspended,19940511,ARL02,curfew $ganme suspended for curfew and resumed the next day"1994TEX.EVA.regular.comment.csv",5
+
+"TEX199405270",0,"Debut for umpire Ted Barrett"1994TEX.EVA.regular.comment.csv",6
+
+"TEX199406120",55,"Debut game for Terry Burrows"1994TEX.EVA.regular.comment.csv",7
+
+"TEX199406130",60,"Debut game for Jeff Darwin"1994TEX.EVA.regular.comment.csv",8
+
+"TEX199406160",1,"Debut game for John Dettmer"1994TEX.EVA.regular.comment.csv",9
+
+"TEX199407270",51,"ej,cansj001,P,craft901,Called third strike Jose Canseco ejected by HP umpire Terry Craft"1994TEX.EVA.regular.comment.csv",10
+

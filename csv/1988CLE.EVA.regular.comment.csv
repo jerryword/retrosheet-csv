@@ -1,61 +1,60 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"CLE198804090",36,"Debut game for Jose Bautista"
-"CLE198804260",71,"ej,nunee001,P,mccol901,Inside pitch after warning $Mariners Nunez ejected by HP umpire McCoy for inside pitch to Hall after being warned earlier in inning"
-"CLE198805030",5,"Sporting News shows balk for McCaskill we can't find"
-"CLE198805030",13,"$Cory Snyder injured wrist on play"
-"CLE198805310",74,"$Bo Jackson hurt running to 1B"
-"CLE198806060",27,"$Julio Franco left game with bruised knee"
-"CLE198806100",34,"$Jim Walewander missed squeeze bunt"
-"CLE198806100",44,"$no one covered 2B"
-"CLE198806180",35,"$Ron Washington's throw hit Santana on right hand"
-"CLE198806200",81,"$Carlos Castillo called for interference for hitting the ball twice"
-"CLE198806210",26,"$Jeff Sellers hit in pitching hand by line drive and left game"
-"CLE198807030",66,"umpchange,8,ump1b,joycj901 umpchange,8,ump2b,(None) $1B umpire Vic Voltaggio left game with bad back"
-"CLE198807040",88,"ej,goryj101,C,tscht901,Fair/foul on possible HR by Cory Snyder Indians coach Johnny Goryl ejected by 3B umpire Tim Tschida arguing that a foul ball was a home run by Cory Snyder"
-"CLE198807040",98,"ej,edwad102,M,hendt901,Called third strike ej,franj002,P,hendt901,Called third strike ej,snydc001,P,hendt901,Called third strike (from bench) Julio Franco, Indians manager Doc Edwards and Cory Snyder ejected by HP umpire Ted Hendry; Snyder was ejected from the bench"
-"CLE198807060",71,"Debut game for Jeff Shaver"
-"CLE198807070",1,"Debut game for Terry Clark"
-"CLE198807080",28,"Debut game for Doug Davis"
-"CLE198807280",13,"$Rene Gonzalez out for grabbing coach on way back to 3B"
-"CLE198807300",1,"Debut game for Rod Nichols"
-"CLE198807300",56,"rainout"
-"CLE198808110",0,"43 minute rain delay"
-"CLE198808110",38,"$Terry Francona called out for bunting while out of batter's box"
-"CLE198808140",60,"6 minute rain delay"
-"CLE198808170",71,"$John Farrell hit on arm and left game hurt"
-"CLE198809020",13,"Debut game for u Martinez"
-"CLE198809020",16,"Debut game for Luis Medina"
-"CLE198809020",24,"Debut game for Scott Jordan"
-"CLE198809042",3,"Rain delay"
-"CLE198809130",19,"ej,candj001,P,cobld901,Bench jockeying John Candelaria ejected by HP umpire Drew Coble from the bench during Claudell Washington's at bat; Candelaria was not in the game and had not pitched in three weeks"
-"CLE198809300",26,"$Terry Francona called for obstruction on Marty Barrett"
-"CLE198804090",36,"Debut game for Jose Bautista"
-"CLE198804260",71,"ej,nunee001,P,mccol901,Inside pitch after warning $Mariners Nunez ejected by HP umpire McCoy for inside pitch to Hall after being warned earlier in inning"
-"CLE198805030",5,"Sporting News shows balk for McCaskill we can't find"
-"CLE198805030",13,"$Cory Snyder injured wrist on play"
-"CLE198805310",74,"$Bo Jackson hurt running to 1B"
-"CLE198806060",27,"$Julio Franco left game with bruised knee"
-"CLE198806100",34,"$Jim Walewander missed squeeze bunt"
-"CLE198806100",44,"$no one covered 2B"
-"CLE198806180",35,"$Ron Washington's throw hit Santana on right hand"
-"CLE198806200",81,"$Carlos Castillo called for interference for hitting the ball twice"
-"CLE198806210",26,"$Jeff Sellers hit in pitching hand by line drive and left game"
-"CLE198807030",66,"umpchange,8,ump1b,joycj901 umpchange,8,ump2b,(None) $1B umpire Vic Voltaggio left game with bad back"
-"CLE198807040",88,"ej,goryj101,C,tscht901,Fair/foul on possible HR by Cory Snyder Indians coach Johnny Goryl ejected by 3B umpire Tim Tschida arguing that a foul ball was a home run by Cory Snyder"
-"CLE198807040",98,"ej,edwad102,M,hendt901,Called third strike ej,franj002,P,hendt901,Called third strike ej,snydc001,P,hendt901,Called third strike (from bench) Julio Franco, Indians manager Doc Edwards and Cory Snyder ejected by HP umpire Ted Hendry; Snyder was ejected from the bench"
-"CLE198807060",71,"Debut game for Jeff Shaver"
-"CLE198807070",1,"Debut game for Terry Clark"
-"CLE198807080",28,"Debut game for Doug Davis"
-"CLE198807280",13,"$Rene Gonzalez out for grabbing coach on way back to 3B"
-"CLE198807300",1,"Debut game for Rod Nichols"
-"CLE198807300",56,"rainout"
-"CLE198808110",0,"43 minute rain delay"
-"CLE198808110",38,"$Terry Francona called out for bunting while out of batter's box"
-"CLE198808140",60,"6 minute rain delay"
-"CLE198808170",71,"$John Farrell hit on arm and left game hurt"
-"CLE198809020",13,"Debut game for u Martinez"
-"CLE198809020",16,"Debut game for Luis Medina"
-"CLE198809020",24,"Debut game for Scott Jordan"
-"CLE198809042",3,"Rain delay"
-"CLE198809130",19,"ej,candj001,P,cobld901,Bench jockeying John Candelaria ejected by HP umpire Drew Coble from the bench during Claudell Washington's at bat; Candelaria was not in the game and had not pitched in three weeks"
-"CLE198809300",26,"$Terry Francona called for obstruction on Marty Barrett"
+"CLE198804090",36,"Debut game for Jose Bautista"FILENAME_TX","LINE_NUMBER_CT"
+
+"CLE198804260",71,"ej,nunee001,P,mccol901,Inside pitch after warning $Mariners Nunez ejected by HP umpire McCoy for inside pitch to Hall after being warned earlier in inning"1988CLE.EVA.regular.comment.csv",2
+
+"CLE198805030",5,"Sporting News shows balk for McCaskill we can't find"1988CLE.EVA.regular.comment.csv",3
+
+"CLE198805030",13,"$Cory Snyder injured wrist on play"1988CLE.EVA.regular.comment.csv",4
+
+"CLE198805310",74,"$Bo Jackson hurt running to 1B"1988CLE.EVA.regular.comment.csv",5
+
+"CLE198806060",27,"$Julio Franco left game with bruised knee"1988CLE.EVA.regular.comment.csv",6
+
+"CLE198806100",34,"$Jim Walewander missed squeeze bunt"1988CLE.EVA.regular.comment.csv",7
+
+"CLE198806100",44,"$no one covered 2B"1988CLE.EVA.regular.comment.csv",8
+
+"CLE198806180",35,"$Ron Washington's throw hit Santana on right hand"1988CLE.EVA.regular.comment.csv",9
+
+"CLE198806200",81,"$Carlos Castillo called for interference for hitting the ball twice"1988CLE.EVA.regular.comment.csv",10
+
+"CLE198806210",26,"$Jeff Sellers hit in pitching hand by line drive and left game"1988CLE.EVA.regular.comment.csv",11
+
+"CLE198807030",66,"umpchange,8,ump1b,joycj901 umpchange,8,ump2b,(None) $1B umpire Vic Voltaggio left game with bad back"1988CLE.EVA.regular.comment.csv",12
+
+"CLE198807040",88,"ej,goryj101,C,tscht901,Fair/foul on possible HR by Cory Snyder Indians coach Johnny Goryl ejected by 3B umpire Tim Tschida arguing that a foul ball was a home run by Cory Snyder"1988CLE.EVA.regular.comment.csv",13
+
+"CLE198807040",98,"ej,edwad102,M,hendt901,Called third strike ej,franj002,P,hendt901,Called third strike ej,snydc001,P,hendt901,Called third strike (from bench) Julio Franco, Indians manager Doc Edwards and Cory Snyder ejected by HP umpire Ted Hendry; Snyder was ejected from the bench"1988CLE.EVA.regular.comment.csv",14
+
+"CLE198807060",71,"Debut game for Jeff Shaver"1988CLE.EVA.regular.comment.csv",15
+
+"CLE198807070",1,"Debut game for Terry Clark"1988CLE.EVA.regular.comment.csv",16
+
+"CLE198807080",28,"Debut game for Doug Davis"1988CLE.EVA.regular.comment.csv",17
+
+"CLE198807280",13,"$Rene Gonzalez out for grabbing coach on way back to 3B"1988CLE.EVA.regular.comment.csv",18
+
+"CLE198807300",1,"Debut game for Rod Nichols"1988CLE.EVA.regular.comment.csv",19
+
+"CLE198807300",56,"rainout"1988CLE.EVA.regular.comment.csv",20
+
+"CLE198808110",0,"43 minute rain delay"1988CLE.EVA.regular.comment.csv",21
+
+"CLE198808110",38,"$Terry Francona called out for bunting while out of batter's box"1988CLE.EVA.regular.comment.csv",22
+
+"CLE198808140",60,"6 minute rain delay"1988CLE.EVA.regular.comment.csv",23
+
+"CLE198808170",71,"$John Farrell hit on arm and left game hurt"1988CLE.EVA.regular.comment.csv",24
+
+"CLE198809020",13,"Debut game for u Martinez"1988CLE.EVA.regular.comment.csv",25
+
+"CLE198809020",16,"Debut game for Luis Medina"1988CLE.EVA.regular.comment.csv",26
+
+"CLE198809020",24,"Debut game for Scott Jordan"1988CLE.EVA.regular.comment.csv",27
+
+"CLE198809042",3,"Rain delay"1988CLE.EVA.regular.comment.csv",28
+
+"CLE198809130",19,"ej,candj001,P,cobld901,Bench jockeying John Candelaria ejected by HP umpire Drew Coble from the bench during Claudell Washington's at bat; Candelaria was not in the game and had not pitched in three weeks"1988CLE.EVA.regular.comment.csv",29
+
+"CLE198809300",26,"$Terry Francona called for obstruction on Marty Barrett"1988CLE.EVA.regular.comment.csv",30
+

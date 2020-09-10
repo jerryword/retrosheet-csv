@@ -1,39 +1,38 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"NYN198404280",34,"$Juan Samuel knocked down Len Matuszek"
-"NYN198405020",36,"A total guess... Fitzgerald had an error in game"
-"NYN198405090",0,"ej,Al Friedman,N,westj901,Showing replay of close call [cameraman] ej,Doug Zimmer,N,westj901,Showing replay of close call [cameraman] Sports Channel cameramen Al Friedman and Doug Zimmer ejected by HP umpire Joe West for allowing the Mets to watch a replay of a close call in the dugout sometime in game"
-"NYN198405270",49,"$Mike Scioscia failed to touch the plate"
-"NYN198406210",46,"$the ball hit off Tim Corcoran's cheekbone"
-"NYN198406210",47,"$the ball bruised Darryl Strawberry's right thigh"
-"NYN198406220",57,"ej,rosep001,P,palld901,Balls and strikes $Rose ejected by HP umpire Pallone for arguing balls and strikes"
-"NYN198406220",60,"ej,johnd105,M,palld901,HBP non-call $Mets manager Johnson ejected by HP umpire Pallone for arguing that Wilson was hit by pitch; umpire ruled Wilson tried to bunt at ball so it was a strike"
-"NYN198407020",4,"$Jose Cruz overran 2B"
-"NYN198407050",76,"Game called by rain"
-"NYN198407280",9,"ej,johnd105,M,froeb901,Checked swing $Mets manager Johnson ejected by 3B umpire Froemming for arguing checked swing call to Strawberry"
-"NYN198407291",43,"$Mookie Wilson overslid 3B"
-"NYN198407292",63,"Debut game for Wes Gardner"
-"NYN198409011",18,"$Dwight Gooden called for interference when the ball struck his bat in fair territory"
-"NYN198409011",60,"Debut game for Herm Winningham"
-"NYN198409012",1,"Debut game for Calvin Schiraldi"
-"NYN198409130",59,"Debut game for Billy Beane"
-"NYN198409130",61,"Debut game for John Christensen"
-"NYN198409220",66,"ej,fannj101,M,tatat901,Checked swing Expos manager Jim Fanning ejected by HP umpire Terry Tata arguing a checked swing call to Darryl Strawberry"
-"NYN198404280",34,"$Juan Samuel knocked down Len Matuszek"
-"NYN198405020",36,"A total guess... Fitzgerald had an error in game"
-"NYN198405090",0,"ej,Al Friedman,N,westj901,Showing replay of close call [cameraman] ej,Doug Zimmer,N,westj901,Showing replay of close call [cameraman] Sports Channel cameramen Al Friedman and Doug Zimmer ejected by HP umpire Joe West for allowing the Mets to watch a replay of a close call in the dugout sometime in game"
-"NYN198405270",49,"$Mike Scioscia failed to touch the plate"
-"NYN198406210",46,"$the ball hit off Tim Corcoran's cheekbone"
-"NYN198406210",47,"$the ball bruised Darryl Strawberry's right thigh"
-"NYN198406220",57,"ej,rosep001,P,palld901,Balls and strikes $Rose ejected by HP umpire Pallone for arguing balls and strikes"
-"NYN198406220",60,"ej,johnd105,M,palld901,HBP non-call $Mets manager Johnson ejected by HP umpire Pallone for arguing that Wilson was hit by pitch; umpire ruled Wilson tried to bunt at ball so it was a strike"
-"NYN198407020",4,"$Jose Cruz overran 2B"
-"NYN198407050",76,"Game called by rain"
-"NYN198407280",9,"ej,johnd105,M,froeb901,Checked swing $Mets manager Johnson ejected by 3B umpire Froemming for arguing checked swing call to Strawberry"
-"NYN198407291",43,"$Mookie Wilson overslid 3B"
-"NYN198407292",63,"Debut game for Wes Gardner"
-"NYN198409011",18,"$Dwight Gooden called for interference when the ball struck his bat in fair territory"
-"NYN198409011",60,"Debut game for Herm Winningham"
-"NYN198409012",1,"Debut game for Calvin Schiraldi"
-"NYN198409130",59,"Debut game for Billy Beane"
-"NYN198409130",61,"Debut game for John Christensen"
-"NYN198409220",66,"ej,fannj101,M,tatat901,Checked swing Expos manager Jim Fanning ejected by HP umpire Terry Tata arguing a checked swing call to Darryl Strawberry"
+"NYN198404280",34,"$Juan Samuel knocked down Len Matuszek"FILENAME_TX","LINE_NUMBER_CT"
+
+"NYN198405020",36,"A total guess... Fitzgerald had an error in game"1984NYN.EVN.regular.comment.csv",2
+
+"NYN198405090",0,"ej,Al Friedman,N,westj901,Showing replay of close call [cameraman] ej,Doug Zimmer,N,westj901,Showing replay of close call [cameraman] Sports Channel cameramen Al Friedman and Doug Zimmer ejected by HP umpire Joe West for allowing the Mets to watch a replay of a close call in the dugout sometime in game"1984NYN.EVN.regular.comment.csv",3
+
+"NYN198405270",49,"$Mike Scioscia failed to touch the plate"1984NYN.EVN.regular.comment.csv",4
+
+"NYN198406210",46,"$the ball hit off Tim Corcoran's cheekbone"1984NYN.EVN.regular.comment.csv",5
+
+"NYN198406210",47,"$the ball bruised Darryl Strawberry's right thigh"1984NYN.EVN.regular.comment.csv",6
+
+"NYN198406220",57,"ej,rosep001,P,palld901,Balls and strikes $Rose ejected by HP umpire Pallone for arguing balls and strikes"1984NYN.EVN.regular.comment.csv",7
+
+"NYN198406220",60,"ej,johnd105,M,palld901,HBP non-call $Mets manager Johnson ejected by HP umpire Pallone for arguing that Wilson was hit by pitch; umpire ruled Wilson tried to bunt at ball so it was a strike"1984NYN.EVN.regular.comment.csv",8
+
+"NYN198407020",4,"$Jose Cruz overran 2B"1984NYN.EVN.regular.comment.csv",9
+
+"NYN198407050",76,"Game called by rain"1984NYN.EVN.regular.comment.csv",10
+
+"NYN198407280",9,"ej,johnd105,M,froeb901,Checked swing $Mets manager Johnson ejected by 3B umpire Froemming for arguing checked swing call to Strawberry"1984NYN.EVN.regular.comment.csv",11
+
+"NYN198407291",43,"$Mookie Wilson overslid 3B"1984NYN.EVN.regular.comment.csv",12
+
+"NYN198407292",63,"Debut game for Wes Gardner"1984NYN.EVN.regular.comment.csv",13
+
+"NYN198409011",18,"$Dwight Gooden called for interference when the ball struck his bat in fair territory"1984NYN.EVN.regular.comment.csv",14
+
+"NYN198409011",60,"Debut game for Herm Winningham"1984NYN.EVN.regular.comment.csv",15
+
+"NYN198409012",1,"Debut game for Calvin Schiraldi"1984NYN.EVN.regular.comment.csv",16
+
+"NYN198409130",59,"Debut game for Billy Beane"1984NYN.EVN.regular.comment.csv",17
+
+"NYN198409130",61,"Debut game for John Christensen"1984NYN.EVN.regular.comment.csv",18
+
+"NYN198409220",66,"ej,fannj101,M,tatat901,Checked swing Expos manager Jim Fanning ejected by HP umpire Terry Tata arguing a checked swing call to Darryl Strawberry"1984NYN.EVN.regular.comment.csv",19
+

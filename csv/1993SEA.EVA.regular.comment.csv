@@ -1,47 +1,46 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"SEA199304060",51,"Debut game for Lee Tinsley"
-"SEA199304100",1,"Debut game for John Cummings"
-"SEA199304100",15,"Debut game for Sherman Obando"
-"SEA199304100",78,"Debut game for Fernando Vina"
-"SEA199304240",41,"$Fernando Vina called for interference"
-"SEA199304260",32,"$Bret Boone called for interference"
-"SEA199305120",26,"Debut game for Zak Shinall"
-"SEA199306150",72,"$Greg Gagne called for interference"
-"SEA199306220",21,"ej,valld001,P,roe-r901,Balls and strikes Dave Valle ejected by HP umpire Rocky Roe"
-"SEA199307030",0,"ej,galer001,C,koscg901,Balls and strikes Red Sox coach Rich Gale ejected by HP umpire Greg Kosc sometime in game"
-"SEA199307040",52,"Debut game for Brad Holman"
-"SEA199307060",14,"Debut game for Marc Newfield"
-"SEA199307090",29,"ej,younc002,P,clara901,Intentional HBP Cliff Young ejected by HP umpire Al Clark"
-"SEA199307270",67,"ej,hrbek001,P,scotd901,Call at 1B Kent Hrbek ejected by 1B umpire Dale Scott"
-"SEA199307310",77,"Debut game for Erik Plantenberg"
-"SEA199308130",0,"Debut for umpire Fieldin Culbreth"
-"SEA199308130",4,"Debut game for Brian Turang"
-"SEA199308130",11,"Debut game for Greg Pirkl"
-"SEA199308140",71,"ej,lintd001,P,brinj901,Throwing behind two batters Doug Linton ejected by HP umpire Joe Brinkman for throwing behind two batters after Randy Johnson had hit Rod Correia in the seventh"
-"SEA199308290",61,"$Bill Haselman called for interference"
-"SEA199309020",77,"Debut game for Kevin King"
-"SEA199309160",67,"Debut game for Jeff Granger"
-"SEA199309170",30,"ej,magad001,P,shulj901,Call at 1B Dave Magadan ejected by 1B umpire John Shulock"
-"SEA199304060",51,"Debut game for Lee Tinsley"
-"SEA199304100",1,"Debut game for John Cummings"
-"SEA199304100",15,"Debut game for Sherman Obando"
-"SEA199304100",78,"Debut game for Fernando Vina"
-"SEA199304240",41,"$Fernando Vina called for interference"
-"SEA199304260",32,"$Bret Boone called for interference"
-"SEA199305120",26,"Debut game for Zak Shinall"
-"SEA199306150",72,"$Greg Gagne called for interference"
-"SEA199306220",21,"ej,valld001,P,roe-r901,Balls and strikes Dave Valle ejected by HP umpire Rocky Roe"
-"SEA199307030",49,"ej,galer001,C,koscg901,Balls and strikes $Red Sox coach Gale ejected by HP umpire Kosc for arguing balls and strikes after O'Brien walked"
-"SEA199307040",52,"Debut game for Brad Holman"
-"SEA199307060",14,"Debut game for Marc Newfield"
-"SEA199307090",29,"ej,younc002,P,clara901,Intentional HBP Cliff Young ejected by HP umpire Al Clark"
-"SEA199307270",67,"ej,hrbek001,P,scotd901,Call at 1B Kent Hrbek ejected by 1B umpire Dale Scott"
-"SEA199307310",77,"Debut game for Erik Plantenberg"
-"SEA199308130",0,"Debut for umpire Fieldin Culbreth"
-"SEA199308130",4,"Debut game for Brian Turang"
-"SEA199308130",11,"Debut game for Greg Pirkl"
-"SEA199308140",71,"ej,lintd001,P,brinj901,Throwing behind two batters Doug Linton ejected by HP umpire Joe Brinkman for throwing behind two batters after Randy Johnson had hit Rod Correia in the seventh"
-"SEA199308290",61,"$Bill Haselman called for interference"
-"SEA199309020",77,"Debut game for Kevin King"
-"SEA199309160",67,"Debut game for Jeff Granger"
-"SEA199309170",30,"ej,magad001,P,shulj901,Call at 1B Dave Magadan ejected by 1B umpire John Shulock"
+"SEA199304060",51,"Debut game for Lee Tinsley"FILENAME_TX","LINE_NUMBER_CT"
+
+"SEA199304100",1,"Debut game for John Cummings"1993SEA.EVA.regular.comment.csv",2
+
+"SEA199304100",15,"Debut game for Sherman Obando"1993SEA.EVA.regular.comment.csv",3
+
+"SEA199304100",78,"Debut game for Fernando Vina"1993SEA.EVA.regular.comment.csv",4
+
+"SEA199304240",41,"$Fernando Vina called for interference"1993SEA.EVA.regular.comment.csv",5
+
+"SEA199304260",32,"$Bret Boone called for interference"1993SEA.EVA.regular.comment.csv",6
+
+"SEA199305120",26,"Debut game for Zak Shinall"1993SEA.EVA.regular.comment.csv",7
+
+"SEA199306150",72,"$Greg Gagne called for interference"1993SEA.EVA.regular.comment.csv",8
+
+"SEA199306220",21,"ej,valld001,P,roe-r901,Balls and strikes Dave Valle ejected by HP umpire Rocky Roe"1993SEA.EVA.regular.comment.csv",9
+
+"SEA199307030",49,"ej,galer001,C,koscg901,Balls and strikes $Red Sox coach Gale ejected by HP umpire Kosc for arguing balls and strikes after O'Brien walked"1993SEA.EVA.regular.comment.csv",10
+
+"SEA199307040",52,"Debut game for Brad Holman"1993SEA.EVA.regular.comment.csv",11
+
+"SEA199307060",14,"Debut game for Marc Newfield"1993SEA.EVA.regular.comment.csv",12
+
+"SEA199307090",29,"ej,younc002,P,clara901,Intentional HBP Cliff Young ejected by HP umpire Al Clark"1993SEA.EVA.regular.comment.csv",13
+
+"SEA199307270",67,"ej,hrbek001,P,scotd901,Call at 1B Kent Hrbek ejected by 1B umpire Dale Scott"1993SEA.EVA.regular.comment.csv",14
+
+"SEA199307310",77,"Debut game for Erik Plantenberg"1993SEA.EVA.regular.comment.csv",15
+
+"SEA199308130",0,"Debut for umpire Fieldin Culbreth"1993SEA.EVA.regular.comment.csv",16
+
+"SEA199308130",4,"Debut game for Brian Turang"1993SEA.EVA.regular.comment.csv",17
+
+"SEA199308130",11,"Debut game for Greg Pirkl"1993SEA.EVA.regular.comment.csv",18
+
+"SEA199308140",71,"ej,lintd001,P,brinj901,Throwing behind two batters Doug Linton ejected by HP umpire Joe Brinkman for throwing behind two batters after Randy Johnson had hit Rod Correia in the seventh"1993SEA.EVA.regular.comment.csv",19
+
+"SEA199308290",61,"$Bill Haselman called for interference"1993SEA.EVA.regular.comment.csv",20
+
+"SEA199309020",77,"Debut game for Kevin King"1993SEA.EVA.regular.comment.csv",21
+
+"SEA199309160",67,"Debut game for Jeff Granger"1993SEA.EVA.regular.comment.csv",22
+
+"SEA199309170",30,"ej,magad001,P,shulj901,Call at 1B Dave Magadan ejected by 1B umpire John Shulock"1993SEA.EVA.regular.comment.csv",23
+

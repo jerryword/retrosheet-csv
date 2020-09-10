@@ -1,45 +1,44 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"ANA199704040",1,"Debut game for Bartolo Colon"
-"ANA199704050",1,"Debut game for Shigetoshi Hasegawa"
-"ANA199704060",26,"ej,hargm001,M,scotd901,Balls and strikes Indians manager Mike Hargrove ejected by HP umpire Dale Scott"
-"ANA199704070",34,"ej,murre001,P,garcr901,Check swing Eddie Murray ejected by 3B umpire Richie Garcia"
-"ANA199704270",77,"ej,higgb001,P,barrt901,Called third strike Bobby Higginson ejected by HP umpire Ted Barrett"
-"ANA199705120",82,"ej,bowal001,C,cobld901,Unknown reason Angels coach Larry Bowa ejected by 1B umpire Drew Coble sometime in eighth inning"
-"ANA199706150",76,"ej,philt001,P,mccol901,Called third strike Tony Phillips ejected by HP umpire Larry McCoy"
-"ANA199707030",40,"ej,collt801,M,culbf901,Warnings to both teams Angels manager Terry Collins ejected by HP umpire Fieldin Culbreth after Culbreth warned both teams about throwing at batters"
-"ANA199707200",27,"ej,gastc101,M,everm901,Call at 1B Blue Jays manager Cito Gaston ejected by 1B umpire Mike Everitt"
-"ANA199707200",61,"ej,cartj001,P,hirsj901,Check swing Joe Carter ejected by HP umpire John Hirschbeck during at bat"
-"ANA199708010",1,"Debut game for Scott Eyre"
-"ANA199708010",77,"Debut game for Nelson Cruz"
-"ANA199708040",45,"ej,philt001,P,dimur901,Called third strike Tony Phillips ejected by HP umpire Ray DiMuro"
-"ANA199708210",61,"ej,hendr001,P,hirsj901,Arguing that pickoff move was balk Rickey Henderson ejected by 1B umpire John Hirschbeck"
-"ANA199708220",58,"ej,willj107,M,barnl901,Balls and strikes Red Sox manager Jimy Williams ejected by 1B umpire Larry Barnett"
-"ANA199708220",78,"ej,hudsj001,P,koscg901,Intentional HBP Joe Hudson ejected by HP umpire Greg Kosc"
-"ANA199708270",19,"Debut game for Bruce Aven"
-"ANA199709020",68,"Debut game for Anthony Chavez"
-"ANA199709110",70,"ej,myerr003,P,cobld901,Called third strike Rod Myers ejected by HP umpire Drew Coble"
-"ANA199709130",116,"Debut game for Mike Bovee"
-"ANA199709140",68,"ej,collt801,M,cedeg901,Protecting player Angels manager Terry Collins ejected by 3B umpire Gary Cederstrom; Tony Phillips yelled at pitcher Scott Service and Cederstrom got involved; Collins tried to stop the argument"
-"ANA199709280",68,"ej,burkj001,P,hirsj901,Throwing at Jim Edmonds John Burkett ejected by HP umpire John Hirschbeck for throwing at Jim Edmonds' he left with a 2-0 count"
-"ANA199704040",1,"Debut game for Bartolo Colon"
-"ANA199704050",1,"Debut game for Shigetoshi Hasegawa"
-"ANA199704060",26,"ej,hargm001,M,scotd901,Balls and strikes Indians manager Mike Hargrove ejected by HP umpire Dale Scott"
-"ANA199704070",34,"ej,murre001,P,garcr901,Check swing Eddie Murray ejected by 3B umpire Richie Garcia"
-"ANA199704270",77,"ej,higgb001,P,barrt901,Called third strike Bobby Higginson ejected by HP umpire Ted Barrett"
-"ANA199705120",82,"ej,bowal001,C,cobld901,Unknown reason Angels coach Larry Bowa ejected by 1B umpire Drew Coble sometime in eighth inning"
-"ANA199706150",76,"ej,philt001,P,mccol901,Called third strike Tony Phillips ejected by HP umpire Larry McCoy"
-"ANA199707030",40,"ej,collt801,M,culbf901,Warnings to both teams Angels manager Terry Collins ejected by HP umpire Fieldin Culbreth after Culbreth warned both teams about throwing at batters"
-"ANA199707200",27,"ej,gastc101,M,everm901,Call at 1B Blue Jays manager Cito Gaston ejected by 1B umpire Mike Everitt"
-"ANA199707200",61,"ej,cartj001,P,hirsj901,Check swing Joe Carter ejected by HP umpire John Hirschbeck during at bat"
-"ANA199708010",1,"Debut game for Scott Eyre"
-"ANA199708010",77,"Debut game for Nelson Cruz"
-"ANA199708040",45,"ej,philt001,P,dimur901,Called third strike Tony Phillips ejected by HP umpire Ray DiMuro"
-"ANA199708210",61,"ej,hendr001,P,hirsj901,Arguing that pickoff move was balk Rickey Henderson ejected by 1B umpire John Hirschbeck"
-"ANA199708220",58,"ej,willj107,M,barnl901,Balls and strikes Red Sox manager Jimy Williams ejected by 1B umpire Larry Barnett"
-"ANA199708220",78,"ej,hudsj001,P,koscg901,Intentional HBP Joe Hudson ejected by HP umpire Greg Kosc"
-"ANA199708270",19,"Debut game for Bruce Aven"
-"ANA199709020",68,"Debut game for Anthony Chavez"
-"ANA199709110",70,"ej,myerr003,P,cobld901,Called third strike Rod Myers ejected by HP umpire Drew Coble"
-"ANA199709130",116,"Debut game for Mike Bovee"
-"ANA199709140",65,"ej,collt801,M,cedeg901,Protecting player $Angels manager Collins ejected by 3B umpire Cederstrom for protecting Phillips who yelled at pitcher, getting umpire involved; Collins tried to stop the argument"
-"ANA199709280",68,"ej,burkj001,P,hirsj901,Throwing at batter $Pitcher Burkett ejected by HP umpire Hirschbeck for throwing at Edmonds"
+"ANA199704040",1,"Debut game for Bartolo Colon"FILENAME_TX","LINE_NUMBER_CT"
+
+"ANA199704050",1,"Debut game for Shigetoshi Hasegawa"1997ANA.EVA.regular.comment.csv",2
+
+"ANA199704060",26,"ej,hargm001,M,scotd901,Balls and strikes Indians manager Mike Hargrove ejected by HP umpire Dale Scott"1997ANA.EVA.regular.comment.csv",3
+
+"ANA199704070",34,"ej,murre001,P,garcr901,Check swing Eddie Murray ejected by 3B umpire Richie Garcia"1997ANA.EVA.regular.comment.csv",4
+
+"ANA199704270",77,"ej,higgb001,P,barrt901,Called third strike Bobby Higginson ejected by HP umpire Ted Barrett"1997ANA.EVA.regular.comment.csv",5
+
+"ANA199705120",82,"ej,bowal001,C,cobld901,Unknown reason Angels coach Larry Bowa ejected by 1B umpire Drew Coble sometime in eighth inning"1997ANA.EVA.regular.comment.csv",6
+
+"ANA199706150",76,"ej,philt001,P,mccol901,Called third strike Tony Phillips ejected by HP umpire Larry McCoy"1997ANA.EVA.regular.comment.csv",7
+
+"ANA199707030",40,"ej,collt801,M,culbf901,Warnings to both teams Angels manager Terry Collins ejected by HP umpire Fieldin Culbreth after Culbreth warned both teams about throwing at batters"1997ANA.EVA.regular.comment.csv",8
+
+"ANA199707200",27,"ej,gastc101,M,everm901,Call at 1B Blue Jays manager Cito Gaston ejected by 1B umpire Mike Everitt"1997ANA.EVA.regular.comment.csv",9
+
+"ANA199707200",61,"ej,cartj001,P,hirsj901,Check swing Joe Carter ejected by HP umpire John Hirschbeck during at bat"1997ANA.EVA.regular.comment.csv",10
+
+"ANA199708010",1,"Debut game for Scott Eyre"1997ANA.EVA.regular.comment.csv",11
+
+"ANA199708010",77,"Debut game for Nelson Cruz"1997ANA.EVA.regular.comment.csv",12
+
+"ANA199708040",45,"ej,philt001,P,dimur901,Called third strike Tony Phillips ejected by HP umpire Ray DiMuro"1997ANA.EVA.regular.comment.csv",13
+
+"ANA199708210",61,"ej,hendr001,P,hirsj901,Arguing that pickoff move was balk Rickey Henderson ejected by 1B umpire John Hirschbeck"1997ANA.EVA.regular.comment.csv",14
+
+"ANA199708220",58,"ej,willj107,M,barnl901,Balls and strikes Red Sox manager Jimy Williams ejected by 1B umpire Larry Barnett"1997ANA.EVA.regular.comment.csv",15
+
+"ANA199708220",78,"ej,hudsj001,P,koscg901,Intentional HBP Joe Hudson ejected by HP umpire Greg Kosc"1997ANA.EVA.regular.comment.csv",16
+
+"ANA199708270",19,"Debut game for Bruce Aven"1997ANA.EVA.regular.comment.csv",17
+
+"ANA199709020",68,"Debut game for Anthony Chavez"1997ANA.EVA.regular.comment.csv",18
+
+"ANA199709110",70,"ej,myerr003,P,cobld901,Called third strike Rod Myers ejected by HP umpire Drew Coble"1997ANA.EVA.regular.comment.csv",19
+
+"ANA199709130",116,"Debut game for Mike Bovee"1997ANA.EVA.regular.comment.csv",20
+
+"ANA199709140",65,"ej,collt801,M,cedeg901,Protecting player $Angels manager Collins ejected by 3B umpire Cederstrom for protecting Phillips who yelled at pitcher, getting umpire involved; Collins tried to stop the argument"1997ANA.EVA.regular.comment.csv",21
+
+"ANA199709280",68,"ej,burkj001,P,hirsj901,Throwing at batter $Pitcher Burkett ejected by HP umpire Hirschbeck for throwing at Edmonds"1997ANA.EVA.regular.comment.csv",22
+

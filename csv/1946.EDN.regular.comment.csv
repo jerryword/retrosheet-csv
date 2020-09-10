@@ -1,98 +1,94 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"CHN194604210",63,"$Major League debut for Del Wilber"
-"CHN194604210",67,"$Prim pulled muscle near elbow on 2-1 pitch to Adams"
-"CHN194604210",71,"$Major League debut for Bill Endicott"
-"BSN194604282",60,"$hit on right elbow"
-"SLN194604281",34,"$hit on right foot"
-"SLN194604281",50,"$Marion left with lingering effects of HBP"
-"SLN194604282",46,"$Ball trickled away from Waitkus and Slaughter recklessly tried for third"
-"SLN194605051",4,"$Sanders hit on wrist and suffered ruptured blood vessel"
-"PIT194605010",24,"$hit top of scoreboard and bounced over"
-"PIT194605010",26,"$Russell got sick while at bat"
-"PIT194605010",32,"$Salkeld threw to Elliott who was not on the base at third, but threw to first to still get Newsome for a sacrifice"
-"SLN194605080",29,"$Schoendienst spiked on CS, had to leave game"
-"BSN194605121",41,"$five minute rain delay for showers in 5th inning"
-"PHI194605150",59,"$Waitkus hurt in this inning crashing into fence while chasing a foul ball"
-"PHI194604230",7,"ej,chapb102,M,dunnt901,Balls and strikes $Phillies manager Chapman ejected for arguing balls and strikes sometime in first inning"
-"PHI194605230",59,"ej,frisf101,M,mageg901,Balls and strikes (mimicking umpire appearance) $Pirate manager Frisch ejected by HP umpire Magerkurth for arguing balls and strikes and mimicking umpire's portly appearance"
-"BSN194605192",61,"$Prim doubled over in pain after the second pitch, but Boston manager Southworth insisted that he pitch to one batter, so he stayed in the game and struck out Fernandez"
-"PHI194606150",58,"$Hughes turned his ankle and could not score before Northey was out at third"
-"PHI194606150",62,"$Judd entered with 2-0 count, completed walk charged to Rowe"
-"PIT194605260",25,"$hit and run allows all three runners to score"
-"NY1194607060",42,"pbp account ends here, rest deduced"
-"NY1194607060",48,"$Rigney and Marshall collided on Verban's pop fly double; Verban overran 2nd, Rigney picked himself up and threw to Mize who covering second to retire Verbanl Rigney was injured and went to the hospital for X-rays, but he remained in game until end of inning"
-"BSN194606260",26,"pbp account ends here, rest deduced"
-"BSN194606260",36,"$double was line drive off Wyse's foot"
-"BSN194608042",73,"$line drive hurt Hack's hand and he had to leave"
-"NY1194606231",12,"$Waitkus stopped at third and continued home when throw went to second"
-"NY1194606231",14,"$Meers rounded first too far"
-"PIT194607142",74,"$a high bounder that Sewell lost in the sun"
-"SLN194609060",47,"$Beazley missed squeeze sign and Marion was easy out"
-"NY1194608041",14,"$Buddy Kerr wrenched his neck fielding Lopez's hit, left game next inning"
-"NY1194608041",43,"$accidental tap by Fletcher as he ducked away from pitch"
-"NY1194609100",18,"$Major league debut for Dick Lajeskie"
-"NY1194609100",26,"$Yes, two RBI on one fly ball"
-"NY1194609100",67,"$Major League debut for Marv Grissom"
-"BSN194609110",37,"pbp account ends here, rest deduced"
-"BSN194609110",74,"$Throw to second pulled Jurges off the bag, but Billy tagged base as he fell; Jake Flowers, coaching at third, waved Ryan home, but Jurges regained his feet and threw Ryan out at home on close play"
-"BSN194609110",136,"$Game called for darkness"
-"BSN194609081",49,"$Verban ejected by 1B umpire Conlan for bad language after being called out on close play"
-"BSN194609082",10,"$Rowell left with a bad back"
-"CHN194608180",42,"ej,flete101,P,jordl901,Balls and Strikes $Fletcher ejected from bench by HP umpire Jorda for continuing to complain about walk to Gables earlier in the inning; Gables had apparently walked, but Cubs protested there had only been three balls; Jorda agreed and brough Gables back to the plate where he then took ball 4 to complete the walk"
-"PHI194608082",83,"$Rowell twisted his ankle chasing Ennis' triple and had to leave the game"
-"PHI194609121",65,"$Odd DP that fits the situation and the stats"
-"PHI194609122",56,"$Yes, he scored from second on wild pitch"
-"BSN194609132",7,"$Culler went first to third on grounder when Fletcher could not make throw; PIT manager Frisch argued that Herman had intefered with Fletcher"
-"PHI194609150",16,"$Dinges collided with Fletcher as the latter stretched for the wild throw from second; he crawled safely back to the bag and then left for a pinch-runner"
-"PHI194609150",17,"$Second baseman Brown injured his leg making the play that resulted in the earlier injury this inning and left the game"
-"CHN194609242",58,"$hit in head"
-"CHN194609242",87,"$Game called on account of darkness"
-"NY1194609262",38,"pbp ends here, rest deduced"
-"PHI194607252",51,"ej,frisf101,M,mageg901,Called third strike ej,russj102,P,mageg901,Called third strike $Pirate manager Frisch ejected by HP umpire Magerkurth along with player Russell for arguing strike 3 to Workman; Magerkurth also cleared the Pittsburgh bench but those players were allowed to enter the game later"
-"CHN194604210",63,"$Major League debut for Del Wilber"
-"CHN194604210",67,"$Prim pulled muscle near elbow on 2-1 pitch to Adams"
-"CHN194604210",71,"$Major League debut for Bill Endicott"
-"BSN194604282",60,"$hit on right elbow"
-"SLN194604281",34,"$hit on right foot"
-"SLN194604281",50,"$Marion left with lingering effects of HBP"
-"SLN194604282",46,"$Ball trickled away from Waitkus and Slaughter recklessly tried for third"
-"SLN194605051",4,"$Sanders hit on wrist and suffered ruptured blood vessel"
-"PIT194605010",24,"$hit top of scoreboard and bounced over"
-"PIT194605010",26,"$Russell got sick while at bat"
-"PIT194605010",32,"$Salkeld threw to Elliott who was not on the base at third, but threw to first to still get Newsome for a sacrifice"
-"SLN194605080",29,"$Schoendienst spiked on CS, had to leave game"
-"BSN194605121",41,"$five minute rain delay for showers in 5th inning"
-"PHI194605150",59,"$Waitkus hurt in this inning crashing into fence while chasing a foul ball"
-"PHI194604230",7,"ej,chapb102,M,dunnt901,Balls and strikes $Phillies manager Chapman ejected by HP umpire Dunn for arguing balls and strikes sometime in first inning"
-"PHI194605230",59,"ej,frisf101,M,mageg901,Balls and strikes (mimicking umpire appearance) $Pirate manager Frisch ejected by HP umpire Magerkurth for arguing balls and strikes and mimicking umpire's portly appearance"
-"BSN194605192",61,"$Prim doubled over in pain after the second pitch, but Boston manager Southworth insisted that he pitch to one batter, so he stayed in the game and struck out Fernandez"
-"PHI194606150",58,"$Hughes turned his ankle and could not score before Northey was out at third"
-"PHI194606150",62,"$Judd entered with 2-0 count, completed walk charged to Rowe"
-"PIT194605260",25,"$hit and run allows all three runners to score"
-"NY1194607060",42,"pbp account ends here, rest deduced"
-"NY1194607060",48,"$Rigney and Marshall collided on Verban's pop fly double; Verban overran 2nd, Rigney picked himself up and threw to Mize who covering second to retire Verbanl Rigney was injured and went to the hospital for X-rays, but he remained in game until end of inning"
-"BSN194606260",26,"pbp account ends here, rest deduced"
-"BSN194606260",36,"$double was line drive off Wyse's foot"
-"BSN194608042",73,"$line drive hurt Hack's hand and he had to leave"
-"PIT194607142",74,"$a high bounder that Sewell lost in the sun"
-"SLN194609060",47,"$Beazley missed squeeze sign and Marion was easy out"
-"NY1194608041",14,"$Buddy Kerr wrenched his neck fielding Lopez's hit, left game next inning"
-"NY1194608041",43,"$accidental tap by Fletcher as he ducked away from pitch"
-"NY1194609100",18,"$Major league debut for Dick Lajeskie"
-"NY1194609100",26,"$Yes, two RBI on one fly ball"
-"NY1194609100",67,"$Major League debut for Marv Grissom"
-"BSN194609110",37,"pbp account ends here, rest deduced"
-"BSN194609110",74,"$Throw to second pulled Jurges off the bag, but Billy tagged base as he fell; Jake Flowers, coaching at third, waved Ryan home, but Jurges regained his feet and threw Ryan out at home on close play"
-"BSN194609110",136,"$Game called for darkness"
-"BSN194609081",49,"ej,verbe101,P,conlj102,Call at 1B $Verban ejected by 1B umpire Conlan for arguing he was safe at 1st"
-"BSN194609082",10,"$Rowell left with a bad back"
-"PHI194608082",83,"$Rowell twisted his ankle chasing Ennis' triple and had to leave the game"
-"PHI194609121",65,"$Odd DP that fits the situation and the stats"
-"PHI194609122",56,"$Yes, he scored from second on wild pitch"
-"BSN194609132",7,"$Culler went first to third on grounder when Fletcher could not make throw; PIT manager Frisch argued that Herman had intefered with Fletcher"
-"PHI194609150",16,"$Dinges collided with Fletcher as the latter stretched for the wild throw from second; he crawled safely back to the bag and then left for a pinch-runner"
-"PHI194609150",17,"$Second baseman Brown injured his leg making the play that resulted in the earlier injury this inning and left the game"
-"CHN194609242",58,"$hit in head"
-"CHN194609242",87,"$Game called on account of darkness"
-"NY1194609262",38,"pbp ends here, rest deduced"
-"PHI194607252",51,"ej,frisf101,M,mageg901,Called third strike ej,russj102,P,mageg901,Called third strike $Pirate manager Frisch ejected by HP umpire Magerkurth along with player Russell for arguing strike 3 to Workman; Magerkurth also cleared the Pittsburgh bench but those players were allowed to enter the game later"
+"CHN194604210",63,"$Major League debut for Del Wilber"FILENAME_TX","LINE_NUMBER_CT"
+
+"CHN194604210",67,"$Prim pulled muscle near elbow on 2-1 pitch to Adams"1946.EDN.regular.comment.csv",2
+
+"CHN194604210",71,"$Major League debut for Bill Endicott"1946.EDN.regular.comment.csv",3
+
+"BSN194604282",60,"$hit on right elbow"1946.EDN.regular.comment.csv",4
+
+"SLN194604281",34,"$hit on right foot"1946.EDN.regular.comment.csv",5
+
+"SLN194604281",50,"$Marion left with lingering effects of HBP"1946.EDN.regular.comment.csv",6
+
+"SLN194604282",46,"$Ball trickled away from Waitkus and Slaughter recklessly tried for third"1946.EDN.regular.comment.csv",7
+
+"SLN194605051",4,"$Sanders hit on wrist and suffered ruptured blood vessel"1946.EDN.regular.comment.csv",8
+
+"PIT194605010",24,"$hit top of scoreboard and bounced over"1946.EDN.regular.comment.csv",9
+
+"PIT194605010",26,"$Russell got sick while at bat"1946.EDN.regular.comment.csv",10
+
+"PIT194605010",32,"$Salkeld threw to Elliott who was not on the base at third, but threw to first to still get Newsome for a sacrifice"1946.EDN.regular.comment.csv",11
+
+"SLN194605080",29,"$Schoendienst spiked on CS, had to leave game"1946.EDN.regular.comment.csv",12
+
+"BSN194605121",41,"$five minute rain delay for showers in 5th inning"1946.EDN.regular.comment.csv",13
+
+"PHI194605150",59,"$Waitkus hurt in this inning crashing into fence while chasing a foul ball"1946.EDN.regular.comment.csv",14
+
+"PHI194604230",7,"ej,chapb102,M,dunnt901,Balls and strikes $Phillies manager Chapman ejected by HP umpire Dunn for arguing balls and strikes sometime in first inning"1946.EDN.regular.comment.csv",15
+
+"PHI194605230",59,"ej,frisf101,M,mageg901,Balls and strikes (mimicking umpire appearance) $Pirate manager Frisch ejected by HP umpire Magerkurth for arguing balls and strikes and mimicking umpire's portly appearance"1946.EDN.regular.comment.csv",16
+
+"BSN194605192",61,"$Prim doubled over in pain after the second pitch, but Boston manager Southworth insisted that he pitch to one batter, so he stayed in the game and struck out Fernandez"1946.EDN.regular.comment.csv",17
+
+"PHI194606150",58,"$Hughes turned his ankle and could not score before Northey was out at third"1946.EDN.regular.comment.csv",18
+
+"PHI194606150",62,"$Judd entered with 2-0 count, completed walk charged to Rowe"1946.EDN.regular.comment.csv",19
+
+"PIT194605260",25,"$hit and run allows all three runners to score"1946.EDN.regular.comment.csv",20
+
+"NY1194607060",42,"pbp account ends here, rest deduced"1946.EDN.regular.comment.csv",21
+
+"NY1194607060",48,"$Rigney and Marshall collided on Verban's pop fly double; Verban overran 2nd, Rigney picked himself up and threw to Mize who covering second to retire Verbanl Rigney was injured and went to the hospital for X-rays, but he remained in game until end of inning"1946.EDN.regular.comment.csv",22
+
+"BSN194606260",26,"pbp account ends here, rest deduced"1946.EDN.regular.comment.csv",23
+
+"BSN194606260",36,"$double was line drive off Wyse's foot"1946.EDN.regular.comment.csv",24
+
+"BSN194608042",73,"$line drive hurt Hack's hand and he had to leave"1946.EDN.regular.comment.csv",25
+
+"PIT194607142",74,"$a high bounder that Sewell lost in the sun"1946.EDN.regular.comment.csv",26
+
+"SLN194609060",47,"$Beazley missed squeeze sign and Marion was easy out"1946.EDN.regular.comment.csv",27
+
+"NY1194608041",14,"$Buddy Kerr wrenched his neck fielding Lopez's hit, left game next inning"1946.EDN.regular.comment.csv",28
+
+"NY1194608041",43,"$accidental tap by Fletcher as he ducked away from pitch"1946.EDN.regular.comment.csv",29
+
+"NY1194609100",18,"$Major league debut for Dick Lajeskie"1946.EDN.regular.comment.csv",30
+
+"NY1194609100",26,"$Yes, two RBI on one fly ball"1946.EDN.regular.comment.csv",31
+
+"NY1194609100",67,"$Major League debut for Marv Grissom"1946.EDN.regular.comment.csv",32
+
+"BSN194609110",37,"pbp account ends here, rest deduced"1946.EDN.regular.comment.csv",33
+
+"BSN194609110",74,"$Throw to second pulled Jurges off the bag, but Billy tagged base as he fell; Jake Flowers, coaching at third, waved Ryan home, but Jurges regained his feet and threw Ryan out at home on close play"1946.EDN.regular.comment.csv",34
+
+"BSN194609110",136,"$Game called for darkness"1946.EDN.regular.comment.csv",35
+
+"BSN194609081",49,"ej,verbe101,P,conlj102,Call at 1B $Verban ejected by 1B umpire Conlan for arguing he was safe at 1st"1946.EDN.regular.comment.csv",36
+
+"BSN194609082",10,"$Rowell left with a bad back"1946.EDN.regular.comment.csv",37
+
+"PHI194608082",83,"$Rowell twisted his ankle chasing Ennis' triple and had to leave the game"1946.EDN.regular.comment.csv",38
+
+"PHI194609121",65,"$Odd DP that fits the situation and the stats"1946.EDN.regular.comment.csv",39
+
+"PHI194609122",56,"$Yes, he scored from second on wild pitch"1946.EDN.regular.comment.csv",40
+
+"BSN194609132",7,"$Culler went first to third on grounder when Fletcher could not make throw; PIT manager Frisch argued that Herman had intefered with Fletcher"1946.EDN.regular.comment.csv",41
+
+"PHI194609150",16,"$Dinges collided with Fletcher as the latter stretched for the wild throw from second; he crawled safely back to the bag and then left for a pinch-runner"1946.EDN.regular.comment.csv",42
+
+"PHI194609150",17,"$Second baseman Brown injured his leg making the play that resulted in the earlier injury this inning and left the game"1946.EDN.regular.comment.csv",43
+
+"CHN194609242",58,"$hit in head"1946.EDN.regular.comment.csv",44
+
+"CHN194609242",87,"$Game called on account of darkness"1946.EDN.regular.comment.csv",45
+
+"NY1194609262",38,"pbp ends here, rest deduced"1946.EDN.regular.comment.csv",46
+
+"PHI194607252",51,"ej,frisf101,M,mageg901,Called third strike ej,russj102,P,mageg901,Called third strike $Pirate manager Frisch ejected by HP umpire Magerkurth along with player Russell for arguing strike 3 to Workman; Magerkurth also cleared the Pittsburgh bench but those players were allowed to enter the game later"1946.EDN.regular.comment.csv",47
+

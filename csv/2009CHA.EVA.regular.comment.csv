@@ -1,59 +1,58 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"CHA200904100",57,"Debut game for Brian Duensing"
-"CHA200905080",41,"Rangers third baseman Michael Young left the game due to an injured back"
-"CHA200905090",72,"$the first pitch to Ian Kinsler was behind him; pitcher Bobby Jenks admitted later that it was intentional because Rangers pitcher Kevin Millwood had hit two White Sox batters in the game; Jenks said he will not do this again"
-"CHA200905190",51,"$Chris Getz called for interference"
-"CHA200906020",1,"Debut game for Vin Mazzaro"
-"CHA200906020",69,"Debut game for Wes Whisler"
-"CHA200906040",17,"Debut game for Gordon Beckham"
-"CHA200906070",21,"fan interference"
-"CHA200906230",53,"ej,guilo001,,westj901,Balls and strikes White Sox Manager Ozzie Guillen ejected by HP umpire Joe West for asking about the location of the fifth pitch to Orlando Hudson"
-"CHA200906260",40,"Cubs manager Lou Piniella removed Milton Bradley from the game and sent him home because Bradley threw a temper tantrum in the dugout"
-"CHA200906280",54,"$Chris Getz ran on the suicide squeeze attempt; the pitch by Carlos zambrano was wild"
-"CHA200906280",55,"$Dewayne Wise yelled at Zambrano after being hit; HP umpire Brian Runge stepped between them and walked Zambrano back to the mound"
-"CHA200906280",59,"$Jermaine Dye's wind-blown popup fell behind SS Ryan Theriot, which was called an infield fly by the umpires"
-"CHA200906280",61,"$both sides warned"
-"CHA200907190",71,"fan interference"
-"CHA200907220",1,"Debut game for Carlos Torres"
-"CHA200907220",61,"$Chad Bradford left with lower back stiffness before throwing a pitch"
-"CHA200907230",0,"$Mark Buehrle threw the 18th perfect game in history; it was Buehrle's second no-hitter; Eric Cooper was the plate umpire for both games"
-"CHA200907230",59,"$Dewayne Wise saved the perfect game, no-hitter and shutout as he climbed the wall and brought back a home run; the ball popped out of his glove as he came down and he caught it in his throwing hand"
-"CHA200908020",82,"Debut game for Jhonny Nunez"
-"CHA200908190",13,"fan interference"
-"CHA200908230",6,"Orioles center fielder Adam Jones left the game due to an injured back"
-"CHA200909040",63,"Debut game for Daniel Hudson"
-"CHA200909050",4,"Chicago White Sox third baseman Gordon Beckham left the game due to an injured back"
-"CHA200909190",14,"Royals left fielder David DeJesus left the game due to an injured foot/ankle"
-"CHA200909190",23,"Royals catcher Miguel Olivo left the game due to an injured chest"
-"CHA200909190",40,"Royals pitcher Dusty Hughes left the game due to an injured elbow"
-"CHA200909210",50,"Twins left fielder Denard Span left the game due to an injured head"
-"CHA200909250",65,"ej,guilo001,M,carlm901,Balls and strikes Chicago White Sox Manager Ozzie Guillen ejected by HP umpire Mark Carlson for a pitch to Adam Everett that was called a ball"
-"CHA200904100",57,"Debut game for Brian Duensing"
-"CHA200905080",41,"Rangers third baseman Michael Young left the game due to an injured back"
-"CHA200905090",72,"$the first pitch to Ian Kinsler was behind him; pitcher Bobby Jenks admitted later that it was intentional because Rangers pitcher Kevin Millwood had hit two White Sox batters in the game; Jenks said he will not do this again"
-"CHA200905190",51,"$Chris Getz called for interference"
-"CHA200906020",1,"Debut game for Vin Mazzaro"
-"CHA200906020",69,"Debut game for Wes Whisler"
-"CHA200906040",17,"Debut game for Gordon Beckham"
-"CHA200906070",21,"fan interference"
-"CHA200906230",53,"ej,guilo001,,westj901,Balls and strikes White Sox Manager Ozzie Guillen ejected by HP umpire Joe West for asking about the location of the fifth pitch to Orlando Hudson"
-"CHA200906260",40,"Cubs manager Lou Piniella removed Milton Bradley from the game and sent him home because Bradley threw a temper tantrum in the dugout"
-"CHA200906280",54,"$Chris Getz ran on the suicide squeeze attempt; the pitch by Carlos zambrano was wild"
-"CHA200906280",55,"$Dewayne Wise yelled at Zambrano after being hit; HP umpire Brian Runge stepped between them and walked Zambrano back to the mound"
-"CHA200906280",59,"$Jermaine Dye's wind-blown popup fell behind SS Ryan Theriot, which was called an infield fly by the umpires"
-"CHA200906280",61,"$both sides warned"
-"CHA200907190",71,"fan interference"
-"CHA200907220",1,"Debut game for Carlos Torres"
-"CHA200907220",61,"$Chad Bradford left with lower back stiffness before throwing a pitch"
-"CHA200907230",0,"$Mark Buehrle threw the 18th perfect game in history; it was Buehrle's second no-hitter; Eric Cooper was the plate umpire for both games"
-"CHA200907230",59,"$Dewayne Wise saved the perfect game, no-hitter and shutout as he climbed the wall and brought back a home run; the ball popped out of his glove as he came down and he caught it in his throwing hand"
-"CHA200908020",82,"Debut game for Jhonny Nunez"
-"CHA200908190",13,"fan interference"
-"CHA200908230",6,"Orioles center fielder Adam Jones left the game due to an injured back"
-"CHA200909040",63,"Debut game for Daniel Hudson"
-"CHA200909050",4,"Chicago White Sox third baseman Gordon Beckham left the game due to an injured back"
-"CHA200909190",14,"Royals left fielder David DeJesus left the game due to an injured foot/ankle"
-"CHA200909190",23,"Royals catcher Miguel Olivo left the game due to an injured chest"
-"CHA200909190",40,"Royals pitcher Dusty Hughes left the game due to an injured elbow"
-"CHA200909210",50,"Twins left fielder Denard Span left the game due to an injured head"
-"CHA200909250",65,"ej,guilo001,M,carlm901,Balls and strikes Chicago White Sox Manager Ozzie Guillen ejected by HP umpire Mark Carlson for a pitch to Adam Everett that was called a ball"
+"CHA200904100",57,"Debut game for Brian Duensing"FILENAME_TX","LINE_NUMBER_CT"
+
+"CHA200905080",41,"Rangers third baseman Michael Young left the game due to an injured back"2009CHA.EVA.regular.comment.csv",2
+
+"CHA200905090",72,"$the first pitch to Ian Kinsler was behind him; pitcher Bobby Jenks admitted later that it was intentional because Rangers pitcher Kevin Millwood had hit two White Sox batters in the game; Jenks said he will not do this again"2009CHA.EVA.regular.comment.csv",3
+
+"CHA200905190",51,"$Chris Getz called for interference"2009CHA.EVA.regular.comment.csv",4
+
+"CHA200906020",1,"Debut game for Vin Mazzaro"2009CHA.EVA.regular.comment.csv",5
+
+"CHA200906020",69,"Debut game for Wes Whisler"2009CHA.EVA.regular.comment.csv",6
+
+"CHA200906040",17,"Debut game for Gordon Beckham"2009CHA.EVA.regular.comment.csv",7
+
+"CHA200906070",21,"fan interference"2009CHA.EVA.regular.comment.csv",8
+
+"CHA200906230",53,"ej,guilo001,,westj901,Balls and strikes White Sox Manager Ozzie Guillen ejected by HP umpire Joe West for asking about the location of the fifth pitch to Orlando Hudson"2009CHA.EVA.regular.comment.csv",9
+
+"CHA200906260",40,"Cubs manager Lou Piniella removed Milton Bradley from the game and sent him home because Bradley threw a temper tantrum in the dugout"2009CHA.EVA.regular.comment.csv",10
+
+"CHA200906280",54,"$Chris Getz ran on the suicide squeeze attempt; the pitch by Carlos zambrano was wild"2009CHA.EVA.regular.comment.csv",11
+
+"CHA200906280",55,"$Dewayne Wise yelled at Zambrano after being hit; HP umpire Brian Runge stepped between them and walked Zambrano back to the mound"2009CHA.EVA.regular.comment.csv",12
+
+"CHA200906280",59,"$Jermaine Dye's wind-blown popup fell behind SS Ryan Theriot, which was called an infield fly by the umpires"2009CHA.EVA.regular.comment.csv",13
+
+"CHA200906280",61,"$both sides warned"2009CHA.EVA.regular.comment.csv",14
+
+"CHA200907190",71,"fan interference"2009CHA.EVA.regular.comment.csv",15
+
+"CHA200907220",1,"Debut game for Carlos Torres"2009CHA.EVA.regular.comment.csv",16
+
+"CHA200907220",61,"$Chad Bradford left with lower back stiffness before throwing a pitch"2009CHA.EVA.regular.comment.csv",17
+
+"CHA200907230",0,"$Mark Buehrle threw the 18th perfect game in history; it was Buehrle's second no-hitter; Eric Cooper was the plate umpire for both games"2009CHA.EVA.regular.comment.csv",18
+
+"CHA200907230",59,"$Dewayne Wise saved the perfect game, no-hitter and shutout as he climbed the wall and brought back a home run; the ball popped out of his glove as he came down and he caught it in his throwing hand"2009CHA.EVA.regular.comment.csv",19
+
+"CHA200908020",82,"Debut game for Jhonny Nunez"2009CHA.EVA.regular.comment.csv",20
+
+"CHA200908190",13,"fan interference"2009CHA.EVA.regular.comment.csv",21
+
+"CHA200908230",6,"Orioles center fielder Adam Jones left the game due to an injured back"2009CHA.EVA.regular.comment.csv",22
+
+"CHA200909040",63,"Debut game for Daniel Hudson"2009CHA.EVA.regular.comment.csv",23
+
+"CHA200909050",4,"Chicago White Sox third baseman Gordon Beckham left the game due to an injured back"2009CHA.EVA.regular.comment.csv",24
+
+"CHA200909190",14,"Royals left fielder David DeJesus left the game due to an injured foot/ankle"2009CHA.EVA.regular.comment.csv",25
+
+"CHA200909190",23,"Royals catcher Miguel Olivo left the game due to an injured chest"2009CHA.EVA.regular.comment.csv",26
+
+"CHA200909190",40,"Royals pitcher Dusty Hughes left the game due to an injured elbow"2009CHA.EVA.regular.comment.csv",27
+
+"CHA200909210",50,"Twins left fielder Denard Span left the game due to an injured head"2009CHA.EVA.regular.comment.csv",28
+
+"CHA200909250",65,"ej,guilo001,M,carlm901,Balls and strikes Chicago White Sox Manager Ozzie Guillen ejected by HP umpire Mark Carlson for a pitch to Adam Everett that was called a ball"2009CHA.EVA.regular.comment.csv",29
+

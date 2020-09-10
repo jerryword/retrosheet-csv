@@ -1,51 +1,50 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"BRO193204120",8,"$Hack Wilson sprained his ankle making the catch"
-"BRO193204150",72,"$Al Lopez tried to advance on a short PB; he was caught in a rundown but a throw hit his shoulder"
-"BRO193204240",28,"$Bill Terry went for ball so Hughie Critz raced Lefty O'Doul to 1B"
-"BRO193205200",10,"$over the scoreboard"
-"BRO193205220",10,"DWS: account says single behind third and then E3 - check"
-"BRO193205220",19,"$Glenn Wright charged with error for failing to cover 2B"
-"BRO193205292",37,"ej,carem101,M,donnc901,Balls and strikes $Dodgers Manager Carey ejected by HP umpire Donnelly for arguing balls and strikes"
-"BRO193206021",59,"$Neal Finn called for interference with Al Spohrer's throw to 2B"
-"BRO193206022",35,"$Wally Berger left with injured right foot from slide during top of inning"
-"BRO193206022",74,"$off the right field screen"
-"BRO193206030",27,"ej,thomf106,P,riglc901,Bench jockeying $Dodgers Thompson ejected by HP umpire Rigler for bench jockeying"
-"BRO193206070",51,"$Tony Cuccinello scored during rundown when Gabby Hartnett chased Cucc across the unguarded HP"
-"BRO193206080",8,"$Charlie Grimm injured his right wrist on pickoff play at 1B"
-"BRO193206100",6,"ej,finnn101,P,rearb901,Fighting ej,jurgb101,P,rearb901,Fighting $Billy Herman and Billy Jurges started a fight with Neal Finn; Finn and Jurges ejected by HP umpire Beans Reardon"
-"BRO193206110",46,"$Al Lopez ran into Jimmie Reese, who was fielding the ground ball; both players resumed play but Lopez left in the seventh"
-"BRO193206110",70,"$short pop fly that dropped in front of Tony Cuccinello"
-"BRO193206200",54,"$Al Lopez left with an injured hand when struck with foul ball"
-"BRO193206260",0,"$NY Times reported first time Brooklyn jersey had Dodgers on front and large numerals on back"
-"BRO193207100",68,"ej,gibsg101,M,mageg901,Called third strike Pirates Manager George Gibson ejected by HP umpire George Magerkurth"
-"BRO193207281",77,"s/s has WP in this inning.  Johnson has WP in NYT box"
-"BRO193209030",25,"$Ed Marshall struck on the back of his head; Marshall never played again in majors"
-"BRO193209100",66,"$Bud Clancy lost track of the number of outs so Billy Herman scored"
-"BRO193209131",86,"ej,bladr102,P,mageg901,Called third strike Ray Blades ejected by HP umpire George Magerkurth"
-"BRO193209171",15,"$Wally Roettger crashed against the LF fence"
-"BRO193209171",38,"$the ball struck Leo Durocher's shins and caromed into CF"
-"BRO193204120",8,"$Hack Wilson sprained his ankle making the catch"
-"BRO193204150",72,"$Al Lopez tried to advance on a short PB; he was caught in a rundown but a throw hit his shoulder"
-"BRO193204240",28,"$Bill Terry went for ball so Hughie Critz raced Lefty O'Doul to 1B"
-"BRO193205200",10,"$over the scoreboard"
-"BRO193205220",10,"DWS: account says single behind third and then E3 - check"
-"BRO193205220",19,"$Glenn Wright charged with error for failing to cover 2B"
-"BRO193205292",37,"ej,carem101,M,donnc901,Balls and strikes $Dodgers Manager Carey ejected by HP umpire Donnelly for arguing balls and strikes"
-"BRO193206021",59,"$Neal Finn called for interference with Al Spohrer's throw to 2B"
-"BRO193206022",35,"$Wally Berger left with injured right foot from slide during top of inning"
-"BRO193206022",74,"$off the right field screen"
-"BRO193206030",27,"ej,thomf106,P,riglc901,Bench jockeying $Dodgers Thompson ejected by HP umpire Rigler for bench jockeying"
-"BRO193206070",51,"$Tony Cuccinello scored during rundown when Gabby Hartnett chased Cucc across the unguarded HP"
-"BRO193206080",8,"$Charlie Grimm injured his right wrist on pickoff play at 1B"
-"BRO193206100",6,"ej,finnn101,P,rearb901,Fighting ej,jurgb101,P,rearb901,Fighting $Billy Herman and Billy Jurges started a fight with Neal Finn; Finn and Jurges ejected by HP umpire Beans Reardon"
-"BRO193206110",46,"$Al Lopez ran into Jimmie Reese, who was fielding the ground ball; both players resumed play but Lopez left in the seventh"
-"BRO193206110",70,"$short pop fly that dropped in front of Tony Cuccinello"
-"BRO193206200",54,"$Al Lopez left with an injured hand when struck with foul ball"
-"BRO193206260",0,"$NY Times reported first time Brooklyn jersey had Dodgers on front and large numerals on back"
-"BRO193207100",68,"ej,gibsg101,M,mageg901,Called third strike Pirates Manager George Gibson ejected by HP umpire George Magerkurth"
-"BRO193207281",77,"s/s has WP in this inning.  Johnson has WP in NYT box"
-"BRO193209030",25,"$Ed Marshall struck on the back of his head; Marshall never played again in majors"
-"BRO193209100",66,"$Bud Clancy lost track of the number of outs so Billy Herman scored"
-"BRO193209131",86,"ej,bladr102,P,mageg901,Called third strike Ray Blades ejected by HP umpire George Magerkurth"
-"BRO193209171",15,"$Wally Roettger crashed against the LF fence"
-"BRO193209171",38,"$the ball struck Leo Durocher's shins and caromed into CF"
+"BRO193204120",8,"$Hack Wilson sprained his ankle making the catch"FILENAME_TX","LINE_NUMBER_CT"
+
+"BRO193204150",72,"$Al Lopez tried to advance on a short PB; he was caught in a rundown but a throw hit his shoulder"1932BRO.EVN.regular.comment.csv",2
+
+"BRO193204240",28,"$Bill Terry went for ball so Hughie Critz raced Lefty O'Doul to 1B"1932BRO.EVN.regular.comment.csv",3
+
+"BRO193205200",10,"$over the scoreboard"1932BRO.EVN.regular.comment.csv",4
+
+"BRO193205220",10,"DWS: account says single behind third and then E3 - check"1932BRO.EVN.regular.comment.csv",5
+
+"BRO193205220",19,"$Glenn Wright charged with error for failing to cover 2B"1932BRO.EVN.regular.comment.csv",6
+
+"BRO193205292",37,"ej,carem101,M,donnc901,Balls and strikes $Dodgers Manager Carey ejected by HP umpire Donnelly for arguing balls and strikes"1932BRO.EVN.regular.comment.csv",7
+
+"BRO193206021",59,"$Neal Finn called for interference with Al Spohrer's throw to 2B"1932BRO.EVN.regular.comment.csv",8
+
+"BRO193206022",35,"$Wally Berger left with injured right foot from slide during top of inning"1932BRO.EVN.regular.comment.csv",9
+
+"BRO193206022",74,"$off the right field screen"1932BRO.EVN.regular.comment.csv",10
+
+"BRO193206030",27,"ej,thomf106,P,riglc901,Bench jockeying $Dodgers Thompson ejected by HP umpire Rigler for bench jockeying"1932BRO.EVN.regular.comment.csv",11
+
+"BRO193206070",51,"$Tony Cuccinello scored during rundown when Gabby Hartnett chased Cucc across the unguarded HP"1932BRO.EVN.regular.comment.csv",12
+
+"BRO193206080",8,"$Charlie Grimm injured his right wrist on pickoff play at 1B"1932BRO.EVN.regular.comment.csv",13
+
+"BRO193206100",6,"ej,finnn101,P,rearb901,Fighting ej,jurgb101,P,rearb901,Fighting $Billy Herman and Billy Jurges started a fight with Neal Finn; Finn and Jurges ejected by HP umpire Beans Reardon"1932BRO.EVN.regular.comment.csv",14
+
+"BRO193206110",46,"$Al Lopez ran into Jimmie Reese, who was fielding the ground ball; both players resumed play but Lopez left in the seventh"1932BRO.EVN.regular.comment.csv",15
+
+"BRO193206110",70,"$short pop fly that dropped in front of Tony Cuccinello"1932BRO.EVN.regular.comment.csv",16
+
+"BRO193206200",54,"$Al Lopez left with an injured hand when struck with foul ball"1932BRO.EVN.regular.comment.csv",17
+
+"BRO193206260",0,"$NY Times reported first time Brooklyn jersey had Dodgers on front and large numerals on back"1932BRO.EVN.regular.comment.csv",18
+
+"BRO193207100",68,"ej,gibsg101,M,mageg901,Called third strike Pirates Manager George Gibson ejected by HP umpire George Magerkurth"1932BRO.EVN.regular.comment.csv",19
+
+"BRO193207281",77,"s/s has WP in this inning.  Johnson has WP in NYT box"1932BRO.EVN.regular.comment.csv",20
+
+"BRO193209030",25,"$Ed Marshall struck on the back of his head; Marshall never played again in majors"1932BRO.EVN.regular.comment.csv",21
+
+"BRO193209100",66,"$Bud Clancy lost track of the number of outs so Billy Herman scored"1932BRO.EVN.regular.comment.csv",22
+
+"BRO193209131",86,"ej,bladr102,P,mageg901,Called third strike Ray Blades ejected by HP umpire George Magerkurth"1932BRO.EVN.regular.comment.csv",23
+
+"BRO193209171",15,"$Wally Roettger crashed against the LF fence"1932BRO.EVN.regular.comment.csv",24
+
+"BRO193209171",38,"$the ball struck Leo Durocher's shins and caromed into CF"1932BRO.EVN.regular.comment.csv",25
+

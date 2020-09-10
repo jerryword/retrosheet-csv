@@ -1,47 +1,46 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"CHN191809050",1,"Debut game for Hippo Vaughn"
-"CHN191809050",2,"Debut game for Dave Shean"
-"CHN191809050",4,"Debut game for George Whiteman"
-"CHN191809050",5,"Debut game for Max Flack"
-"CHN191809050",6,"Debut game for Charlie Hollocher"
-"CHN191809050",10,"Debut game for Charlie Pick"
-"CHN191809050",14,"Debut game for Fred Thomas"
-"CHN191809050",18,"Debut game for Sam Agnew"
-"CHN191809050",68,"Debut game for Bob O'Farrell"
-"CHN191809050",70,"Debut game for Bill McCabe"
-"CHN191809060",2,"$Dave Shean  called for interference with Bill Killefer"
-"CHN191809060",6,"$Amos Strunk purposely dropped a pop up"
-"CHN191809060",9,"$Lefty Tyler and Bill Killefer collided"
-"CHN191809060",19,"$Max Flack overslid 2B"
-"CHN191809060",68,"Debut game for Jean Dubuc"
-"CHN191809070",70,"Debut game for Turner Barber"
-"BOS191809090",49,"Debut game for Rollie Zeider"
-"BOS191809090",51,"Debut game for Chuck Wortman"
-"BOS191809090",56,"Debut game for Claude Hendrix"
-"BOS191809090",62,"Debut game for Phil Douglas"
-"BOS191809100",1,"Debut game for Sam Jones"
-"BOS191809100",64,"Debut game for Hack Miller"
-"BOS191809110",62,"$George Whiteman hurt his shoulder catching Turner Barber's liner"
-"CHN191809050",1,"Debut game for Hippo Vaughn"
-"CHN191809050",2,"Debut game for Dave Shean"
-"CHN191809050",4,"Debut game for George Whiteman"
-"CHN191809050",5,"Debut game for Max Flack"
-"CHN191809050",6,"Debut game for Charlie Hollocher"
-"CHN191809050",10,"Debut game for Charlie Pick"
-"CHN191809050",14,"Debut game for Fred Thomas"
-"CHN191809050",18,"Debut game for Sam Agnew"
-"CHN191809050",68,"Debut game for Bob O'Farrell"
-"CHN191809050",70,"Debut game for Bill McCabe"
-"CHN191809060",2,"$Dave Shean  called for interference with Bill Killefer"
-"CHN191809060",6,"$Amos Strunk purposely dropped a pop up"
-"CHN191809060",9,"$Lefty Tyler and Bill Killefer collided"
-"CHN191809060",19,"$Max Flack overslid 2B"
-"CHN191809060",68,"Debut game for Jean Dubuc"
-"CHN191809070",70,"Debut game for Turner Barber"
-"BOS191809090",49,"Debut game for Rollie Zeider"
-"BOS191809090",51,"Debut game for Chuck Wortman"
-"BOS191809090",56,"Debut game for Claude Hendrix"
-"BOS191809090",62,"Debut game for Phil Douglas"
-"BOS191809100",1,"Debut game for Sam Jones"
-"BOS191809100",64,"Debut game for Hack Miller"
-"BOS191809110",62,"$George Whiteman hurt his shoulder catching Turner Barber's liner"
+"CHN191809050",1,"Debut game for Hippo Vaughn"FILENAME_TX","LINE_NUMBER_CT"
+
+"CHN191809050",2,"Debut game for Dave Shean"1918WS.EVE.post.comment.csv",2
+
+"CHN191809050",4,"Debut game for George Whiteman"1918WS.EVE.post.comment.csv",3
+
+"CHN191809050",5,"Debut game for Max Flack"1918WS.EVE.post.comment.csv",4
+
+"CHN191809050",6,"Debut game for Charlie Hollocher"1918WS.EVE.post.comment.csv",5
+
+"CHN191809050",10,"Debut game for Charlie Pick"1918WS.EVE.post.comment.csv",6
+
+"CHN191809050",14,"Debut game for Fred Thomas"1918WS.EVE.post.comment.csv",7
+
+"CHN191809050",18,"Debut game for Sam Agnew"1918WS.EVE.post.comment.csv",8
+
+"CHN191809050",68,"Debut game for Bob O'Farrell"1918WS.EVE.post.comment.csv",9
+
+"CHN191809050",70,"Debut game for Bill McCabe"1918WS.EVE.post.comment.csv",10
+
+"CHN191809060",2,"$Dave Shean  called for interference with Bill Killefer"1918WS.EVE.post.comment.csv",11
+
+"CHN191809060",6,"$Amos Strunk purposely dropped a pop up"1918WS.EVE.post.comment.csv",12
+
+"CHN191809060",9,"$Lefty Tyler and Bill Killefer collided"1918WS.EVE.post.comment.csv",13
+
+"CHN191809060",19,"$Max Flack overslid 2B"1918WS.EVE.post.comment.csv",14
+
+"CHN191809060",68,"Debut game for Jean Dubuc"1918WS.EVE.post.comment.csv",15
+
+"CHN191809070",70,"Debut game for Turner Barber"1918WS.EVE.post.comment.csv",16
+
+"BOS191809090",49,"Debut game for Rollie Zeider"1918WS.EVE.post.comment.csv",17
+
+"BOS191809090",51,"Debut game for Chuck Wortman"1918WS.EVE.post.comment.csv",18
+
+"BOS191809090",56,"Debut game for Claude Hendrix"1918WS.EVE.post.comment.csv",19
+
+"BOS191809090",62,"Debut game for Phil Douglas"1918WS.EVE.post.comment.csv",20
+
+"BOS191809100",1,"Debut game for Sam Jones"1918WS.EVE.post.comment.csv",21
+
+"BOS191809100",64,"Debut game for Hack Miller"1918WS.EVE.post.comment.csv",22
+
+"BOS191809110",62,"$George Whiteman hurt his shoulder catching Turner Barber's liner"1918WS.EVE.post.comment.csv",23
+

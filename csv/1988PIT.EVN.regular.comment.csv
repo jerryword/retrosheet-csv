@@ -1,65 +1,64 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"PIT198804130",40,"$the ball hit the 1B bag"
-"PIT198804230",4,"$the runners had to hold to see if Andy Van Slyke could catch the ball"
-"PIT198804240",56,"$throw too late at 2B"
-"PIT198805070",63,"$Tony Gwynn fell dodging Brown's hit"
-"PIT198805090",31,"54 minute rain delay"
-"PIT198805090",35,"Debut game for Scott Medvin"
-"PIT198805090",86,"29 minute rain delay"
-"PIT198805110",30,"$Randy Milligan called for interference"
-"PIT198805130",79,"$Eric Davis overran ball in CF"
-"PIT198805150",18,"$Danny Jackson's throw went into dugout"
-"PIT198805150",19,"$Rafael Belliard running on play; further advance during argument"
-"PIT198805150",21,"$John Cangelosi picked off"
-"PIT198805210",45,"$Barry Bonds dropped batted ball"
-"PIT198805230",71,"Game called after a 1:15 rain delay"
-"PIT198806050",27,"$Tim Wallach going on the pitch but tried to return when he saw pitchout"
-"PIT198806050",73,"$Mike Diaz called for interference"
-"PIT198806100",28,"$Jose Lind backed up 1B"
-"PIT198806120",78,"$fan interference"
-"PIT198806170",36,"ej,colev001,P,crawj901,Balls and strikes Vince Coleman ejected by HP umpire Jerry Crawford"
-"PIT198806180",47,"ej,leylj801,M,davib902,Balk call Pirates manager Jim Leyland ejected by HP umpire Bob Davidson"
-"PIT198806180",55,"$attempted DP; Ozzie Smith late covering 2B"
-"PIT198806270",0,"Protest=H"
-"PIT198806270",45,"$apparent WP reversed by umpires, ruled foul tip; game protested by the Pirates"
-"PIT198807150",4,"$Sid Bream dropped pickoff throw, then threw wild to 3B"
-"PIT198807200",48,"ej,leylj801,M,palld901,Balk Pirates manager Jim Leyland ejected by 1B umpire Dave Pallone"
-"PIT198808030",25,"ej,smilj001,P,palld901,Intentional HBP ej,brooh001,P,palld901,Charging mound Hubie Brooks charged the mound and punched pitcher John Smiley in the face; both benches cleared; Brooks and Smiley ejected by HP umpire Dave Pallone"
-"PIT198808040",77,"$delayed steal of 3B before first pitch to Tim Wallach"
-"PIT198808050",74,"$fan interference"
-"PIT198808080",1,"Debut game for Rick Reed"
-"PIT198808230",38,"$Barry Larkin called for interference for running into his own bunt"
-"PIT198809110",52,"Debut game for Randy Kramer"
-"PIT198809260",16,"$Pedro Guerrero called for interference"
-"PIT198804130",40,"$the ball hit the 1B bag"
-"PIT198804230",4,"$the runners had to hold to see if Andy Van Slyke could catch the ball"
-"PIT198804240",56,"$throw too late at 2B"
-"PIT198805070",63,"$Tony Gwynn fell dodging Brown's hit"
-"PIT198805090",31,"54 minute rain delay"
-"PIT198805090",35,"Debut game for Scott Medvin"
-"PIT198805090",86,"29 minute rain delay"
-"PIT198805110",30,"$Randy Milligan called for interference"
-"PIT198805130",79,"$Eric Davis overran ball in CF"
-"PIT198805150",18,"$Danny Jackson's throw went into dugout"
-"PIT198805150",19,"$Rafael Belliard running on play; further advance during argument"
-"PIT198805150",21,"$John Cangelosi picked off"
-"PIT198805210",45,"$Barry Bonds dropped batted ball"
-"PIT198805230",71,"Game called after a 1:15 rain delay"
-"PIT198806050",27,"$Tim Wallach going on the pitch but tried to return when he saw pitchout"
-"PIT198806050",73,"$Mike Diaz called for interference"
-"PIT198806100",28,"$Jose Lind backed up 1B"
-"PIT198806120",78,"$fan interference"
-"PIT198806170",36,"ej,colev001,P,crawj901,Balls and strikes Vince Coleman ejected by HP umpire Jerry Crawford"
-"PIT198806180",47,"ej,leylj801,M,davib902,Balk call Pirates manager Jim Leyland ejected by HP umpire Bob Davidson"
-"PIT198806180",55,"$attempted DP; Ozzie Smith late covering 2B"
-"PIT198806270",0,"Protest=H"
-"PIT198806270",45,"$apparent WP reversed by umpires, ruled foul tip; game protested by the Pirates"
-"PIT198807150",4,"$Sid Bream dropped pickoff throw, then threw wild to 3B"
-"PIT198807200",48,"ej,leylj801,M,palld901,Balk Pirates manager Jim Leyland ejected by 1B umpire Dave Pallone"
-"PIT198808030",25,"ej,smilj001,P,palld901,Intentional HBP ej,brooh001,P,palld901,Charging mound Hubie Brooks charged the mound and punched pitcher John Smiley in the face; both benches cleared; Brooks and Smiley ejected by HP umpire Dave Pallone"
-"PIT198808040",77,"$delayed steal of 3B before first pitch to Tim Wallach"
-"PIT198808050",74,"$fan interference"
-"PIT198808080",1,"Debut game for Rick Reed"
-"PIT198808230",38,"$Barry Larkin called for interference for running into his own bunt"
-"PIT198809110",52,"Debut game for Randy Kramer"
-"PIT198809260",16,"$Pedro Guerrero called for interference"
+"PIT198804130",40,"$the ball hit the 1B bag"FILENAME_TX","LINE_NUMBER_CT"
+
+"PIT198804230",4,"$the runners had to hold to see if Andy Van Slyke could catch the ball"1988PIT.EVN.regular.comment.csv",2
+
+"PIT198804240",56,"$throw too late at 2B"1988PIT.EVN.regular.comment.csv",3
+
+"PIT198805070",63,"$Tony Gwynn fell dodging Brown's hit"1988PIT.EVN.regular.comment.csv",4
+
+"PIT198805090",31,"54 minute rain delay"1988PIT.EVN.regular.comment.csv",5
+
+"PIT198805090",35,"Debut game for Scott Medvin"1988PIT.EVN.regular.comment.csv",6
+
+"PIT198805090",86,"29 minute rain delay"1988PIT.EVN.regular.comment.csv",7
+
+"PIT198805110",30,"$Randy Milligan called for interference"1988PIT.EVN.regular.comment.csv",8
+
+"PIT198805130",79,"$Eric Davis overran ball in CF"1988PIT.EVN.regular.comment.csv",9
+
+"PIT198805150",18,"$Danny Jackson's throw went into dugout"1988PIT.EVN.regular.comment.csv",10
+
+"PIT198805150",19,"$Rafael Belliard running on play; further advance during argument"1988PIT.EVN.regular.comment.csv",11
+
+"PIT198805150",21,"$John Cangelosi picked off"1988PIT.EVN.regular.comment.csv",12
+
+"PIT198805210",45,"$Barry Bonds dropped batted ball"1988PIT.EVN.regular.comment.csv",13
+
+"PIT198805230",71,"Game called after a 1:15 rain delay"1988PIT.EVN.regular.comment.csv",14
+
+"PIT198806050",27,"$Tim Wallach going on the pitch but tried to return when he saw pitchout"1988PIT.EVN.regular.comment.csv",15
+
+"PIT198806050",73,"$Mike Diaz called for interference"1988PIT.EVN.regular.comment.csv",16
+
+"PIT198806100",28,"$Jose Lind backed up 1B"1988PIT.EVN.regular.comment.csv",17
+
+"PIT198806120",78,"$fan interference"1988PIT.EVN.regular.comment.csv",18
+
+"PIT198806170",36,"ej,colev001,P,crawj901,Balls and strikes Vince Coleman ejected by HP umpire Jerry Crawford"1988PIT.EVN.regular.comment.csv",19
+
+"PIT198806180",47,"ej,leylj801,M,davib902,Balk call Pirates manager Jim Leyland ejected by HP umpire Bob Davidson"1988PIT.EVN.regular.comment.csv",20
+
+"PIT198806180",55,"$attempted DP; Ozzie Smith late covering 2B"1988PIT.EVN.regular.comment.csv",21
+
+"PIT198806270",0,"Protest=H"1988PIT.EVN.regular.comment.csv",22
+
+"PIT198806270",45,"$apparent WP reversed by umpires, ruled foul tip; game protested by the Pirates"1988PIT.EVN.regular.comment.csv",23
+
+"PIT198807150",4,"$Sid Bream dropped pickoff throw, then threw wild to 3B"1988PIT.EVN.regular.comment.csv",24
+
+"PIT198807200",48,"ej,leylj801,M,palld901,Balk Pirates manager Jim Leyland ejected by 1B umpire Dave Pallone"1988PIT.EVN.regular.comment.csv",25
+
+"PIT198808030",25,"ej,smilj001,P,palld901,Intentional HBP ej,brooh001,P,palld901,Charging mound Hubie Brooks charged the mound and punched pitcher John Smiley in the face; both benches cleared; Brooks and Smiley ejected by HP umpire Dave Pallone"1988PIT.EVN.regular.comment.csv",26
+
+"PIT198808040",77,"$delayed steal of 3B before first pitch to Tim Wallach"1988PIT.EVN.regular.comment.csv",27
+
+"PIT198808050",74,"$fan interference"1988PIT.EVN.regular.comment.csv",28
+
+"PIT198808080",1,"Debut game for Rick Reed"1988PIT.EVN.regular.comment.csv",29
+
+"PIT198808230",38,"$Barry Larkin called for interference for running into his own bunt"1988PIT.EVN.regular.comment.csv",30
+
+"PIT198809110",52,"Debut game for Randy Kramer"1988PIT.EVN.regular.comment.csv",31
+
+"PIT198809260",16,"$Pedro Guerrero called for interference"1988PIT.EVN.regular.comment.csv",32
+

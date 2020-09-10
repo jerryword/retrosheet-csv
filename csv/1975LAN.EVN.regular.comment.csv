@@ -1,43 +1,42 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"LAN197504160",26,"$Missed squeeze attempt"
-"LAN197504180",55,"Debut game for Henry Cruz"
-"LAN197504190",60,"$Mike Marshall injured on his fourth pitch to Derrell Thomas; 2-2 count a guess but does not matter in result"
-"LAN197504200",2,"$Garry Maddox out on appeal for not retouching 2B on his return to 1B"
-"LAN197505050",14,"$Greg Gross stole HR from Steve Yeager with catch over the wall"
-"LAN197505060",70,"$Don Sutton's scoreless inning streak ends at 23"
-"LAN197505170",50,"Willie Stargell left with back spasms"
-"LAN197507010",76,"$the Padres tried a squeeze play with a 10-1 lead; Charlie Hough hit Dave Winfield intentionally; upset Winfield restrained by catcher Joe Ferguson"
-"LAN197507010",78,"ej,craww101,P,craws901,Fight ej,fergj101,P,craws901,Fight ej,loped001,P,craws901,Fight $after a four knock-down pitches to Willie Crawford by Bill Greif, Crawford charged the mound and both benches cleared; Joe Ferguson suffered a fractured right wrist; Crawford, Ferguson, and Dave Lopes ejected by HP umpire Shag Crawford"
-"LAN197507020",34,"Mike Ivie injured the little finger on his left hand"
-"LAN197507060",0,"Protest=H"
-"LAN197507060",48,"$Davey Lopes singled but called out for too much pine tar on bat; Dodgers manager Walter Alston protested game"
-"LAN197507190",66,"Debut game for Stan Wall"
-"LAN197508030",55,"Pat Darcy left with blister"
-"LAN197508060",46,"missing play in LAN197508060"
-"LAN197508231",29,"previous two plays are really one play"
-"LAN197508240",56,"$Bill Buckner hit an RBI-single to LF; catcher Gary Carter looked at Buckner's bat and showed it to HP umpire Doug Harvey; Harvey called Buckner out, which nullified the run; the bat had grooves carved in it"
-"LAN197508240",98,"$Davey Lopes' streak of 38 straight successful steals ends"
-"LAN197508310",65,"$Mike Marshall injured during warmup"
-"LAN197509110",5,"ej,andes101,M,mcshj901,Balls and strikes $Reds manager Anderson ejected by HP umpire McSherry while while Lacy was at bat for arguing ball call to Lopes"
-"LAN197509130",45,"Debut game for Preston Hanna"
-"LAN197504160",26,"$Missed squeeze attempt"
-"LAN197504180",55,"Debut game for Henry Cruz"
-"LAN197504190",60,"$Mike Marshall injured on his fourth pitch to Derrell Thomas; 2-2 count a guess but does not matter in result"
-"LAN197504200",2,"$Garry Maddox out on appeal for not retouching 2B on his return to 1B"
-"LAN197505050",14,"$Greg Gross stole HR from Steve Yeager with catch over the wall"
-"LAN197505060",70,"$Don Sutton's scoreless inning streak ends at 23"
-"LAN197505170",50,"Willie Stargell left with back spasms"
-"LAN197507010",76,"$the Padres tried a squeeze play with a 10-1 lead; Charlie Hough hit Dave Winfield intentionally; upset Winfield restrained by catcher Joe Ferguson"
-"LAN197507010",78,"ej,craww101,P,craws901,Fight ej,fergj101,P,craws901,Fight ej,loped001,P,craws901,Fight $after a four knock-down pitches to Willie Crawford by Bill Greif, Crawford charged the mound and both benches cleared; Joe Ferguson suffered a fractured right wrist; Crawford, Ferguson, and Dave Lopes ejected by HP umpire Shag Crawford"
-"LAN197507020",34,"Mike Ivie injured the little finger on his left hand"
-"LAN197507060",0,"Protest=H"
-"LAN197507060",48,"$Davey Lopes singled but called out for too much pine tar on bat; Dodgers manager Walter Alston protested game"
-"LAN197507190",66,"Debut game for Stan Wall"
-"LAN197508030",55,"Pat Darcy left with blister"
-"LAN197508060",46,"missing play in LAN197508060"
-"LAN197508231",29,"previous two plays are really one play"
-"LAN197508240",56,"$Bill Buckner hit an RBI-single to LF; catcher Gary Carter looked at Buckner's bat and showed it to HP umpire Doug Harvey; Harvey called Buckner out, which nullified the run; the bat had grooves carved in it"
-"LAN197508240",98,"$Davey Lopes' streak of 38 straight successful steals ends"
-"LAN197508310",65,"$Mike Marshall injured during warmup"
-"LAN197509110",5,"ej,andes101,M,mcshj901,Balls and strikes $Reds manager Anderson ejected by HP umpire McSherry while while Lacy was at bat for arguing ball call to Lopes"
-"LAN197509130",45,"Debut game for Preston Hanna"
+"LAN197504160",26,"$Missed squeeze attempt"FILENAME_TX","LINE_NUMBER_CT"
+
+"LAN197504180",55,"Debut game for Henry Cruz"1975LAN.EVN.regular.comment.csv",2
+
+"LAN197504190",60,"$Mike Marshall injured on his fourth pitch to Derrell Thomas; 2-2 count a guess but does not matter in result"1975LAN.EVN.regular.comment.csv",3
+
+"LAN197504200",2,"$Garry Maddox out on appeal for not retouching 2B on his return to 1B"1975LAN.EVN.regular.comment.csv",4
+
+"LAN197505050",14,"$Greg Gross stole HR from Steve Yeager with catch over the wall"1975LAN.EVN.regular.comment.csv",5
+
+"LAN197505060",70,"$Don Sutton's scoreless inning streak ends at 23"1975LAN.EVN.regular.comment.csv",6
+
+"LAN197505170",50,"Willie Stargell left with back spasms"1975LAN.EVN.regular.comment.csv",7
+
+"LAN197507010",76,"$the Padres tried a squeeze play with a 10-1 lead; Charlie Hough hit Dave Winfield intentionally; upset Winfield restrained by catcher Joe Ferguson"1975LAN.EVN.regular.comment.csv",8
+
+"LAN197507010",78,"ej,craww101,P,craws901,Fight ej,fergj101,P,craws901,Fight ej,loped001,P,craws901,Fight $after a four knock-down pitches to Willie Crawford by Bill Greif, Crawford charged the mound and both benches cleared; Joe Ferguson suffered a fractured right wrist; Crawford, Ferguson, and Dave Lopes ejected by HP umpire Shag Crawford"1975LAN.EVN.regular.comment.csv",9
+
+"LAN197507020",34,"Mike Ivie injured the little finger on his left hand"1975LAN.EVN.regular.comment.csv",10
+
+"LAN197507060",0,"Protest=H"1975LAN.EVN.regular.comment.csv",11
+
+"LAN197507060",48,"$Davey Lopes singled but called out for too much pine tar on bat; Dodgers manager Walter Alston protested game"1975LAN.EVN.regular.comment.csv",12
+
+"LAN197507190",66,"Debut game for Stan Wall"1975LAN.EVN.regular.comment.csv",13
+
+"LAN197508030",55,"Pat Darcy left with blister"1975LAN.EVN.regular.comment.csv",14
+
+"LAN197508060",46,"missing play in LAN197508060"1975LAN.EVN.regular.comment.csv",15
+
+"LAN197508231",29,"previous two plays are really one play"1975LAN.EVN.regular.comment.csv",16
+
+"LAN197508240",56,"$Bill Buckner hit an RBI-single to LF; catcher Gary Carter looked at Buckner's bat and showed it to HP umpire Doug Harvey; Harvey called Buckner out, which nullified the run; the bat had grooves carved in it"1975LAN.EVN.regular.comment.csv",17
+
+"LAN197508240",98,"$Davey Lopes' streak of 38 straight successful steals ends"1975LAN.EVN.regular.comment.csv",18
+
+"LAN197508310",65,"$Mike Marshall injured during warmup"1975LAN.EVN.regular.comment.csv",19
+
+"LAN197509110",5,"ej,andes101,M,mcshj901,Balls and strikes $Reds manager Anderson ejected by HP umpire McSherry while while Lacy was at bat for arguing ball call to Lopes"1975LAN.EVN.regular.comment.csv",20
+
+"LAN197509130",45,"Debut game for Preston Hanna"1975LAN.EVN.regular.comment.csv",21
+

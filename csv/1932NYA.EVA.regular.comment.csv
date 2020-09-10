@@ -1,49 +1,48 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"NYA193204240",15,"$Chapman left with injured knee, reaggravated from previous Day"
-"NYA193204240",35,"$Lazzeri out for interferring with shortstop"
-"NYA193205070",43,"ej,ruthb101,P,owenb901,Called third strike Babe Ruth ejected by HP umpire Brick Owens"
-"NYA193205100",50,"ej,kimsc101,P,mcgob901,Bench jockeying $Kimsey ejected for bench jockeying"
-"NYA193205150",58,"ej,peckr101,M,guthb901,Balk call Indians Manager Roger Peckinpaugh ejected by HP umpire Bill Guthrie"
-"NYA193205192",37,"pbp ends here, rest from source 276 scorecard and two newspapers"
-"NYA193205211",41,"$Joe Cronin lost it in the sun"
-"NYA193205212",55,"pbp account ends here, rest deduced"
-"NYA193205220",22,"$Hank Johnson caught off 3B after Oscar Roettger muffed the throw"
-"NYA193206260",12,"$Bill Dickey struck on the left leg by foul ball"
-"NYA193206260",19,"$Bill Dickey left with injured leg"
-"NYA193207070",11,"$Earl Webb rounded 2B too far"
-"NYA193207092",8,"$Walker hit in head, had to be helped off field"
-"NYA193207092",49,"$Gehrig beat throw to 3rd"
-"NYA193207092",68,"$Reportedly first time Ruth ever played left in Yankee Statdium"
-"NYA193207180",60,"$Babe Ruth left with injured right knee"
-"NYA193207232",6,"$20 minute rain delay"
-"NYA193208162",73,"rest deduced"
-"NYA193208191",65,"$Gene Desaults hit on face by own foul ball"
-"NYA193208240",54,"$the ball caromed from Johnny Burnett to Bill Cissell"
-"NYA193208270",59,"$Earl Averill lost the ball in the sun"
-"NYA193208291",13,"$Babe Ruth late getting to park because he took his stepdaugher to the hospital to have her tonsils removed"
-"NYA193209030",29,"$Joe Sewell overthrew 1B"
-"NYA193209030",44,"$lost in the sun"
-"NYA193204240",15,"$Chapman left with injured knee, reaggravated from previous Day"
-"NYA193204240",35,"$Lazzeri out for interferring with shortstop"
-"NYA193205070",43,"ej,ruthb101,P,owenb901,Called third strike Babe Ruth ejected by HP umpire Brick Owens"
-"NYA193205100",50,"ej,kimsc101,P,mcgob901,Bench jockeying $Kimsey ejected for bench jockeying"
-"NYA193205150",58,"ej,peckr101,M,guthb901,Balk call Indians Manager Roger Peckinpaugh ejected by HP umpire Bill Guthrie"
-"NYA193205192",37,"pbp ends here, rest from source 276 scorecard and two newspapers"
-"NYA193205211",41,"$Joe Cronin lost it in the sun"
-"NYA193205212",55,"pbp account ends here, rest deduced"
-"NYA193205220",22,"$Hank Johnson caught off 3B after Oscar Roettger muffed the throw"
-"NYA193206260",12,"$Bill Dickey struck on the left leg by foul ball"
-"NYA193206260",19,"$Bill Dickey left with injured leg"
-"NYA193207070",11,"$Earl Webb rounded 2B too far"
-"NYA193207092",8,"$Walker hit in head, had to be helped off field"
-"NYA193207092",49,"$Gehrig beat throw to 3rd"
-"NYA193207092",68,"$Reportedly first time Ruth ever played left in Yankee Statdium"
-"NYA193207180",60,"$Babe Ruth left with injured right knee"
-"NYA193207232",6,"$20 minute rain delay"
-"NYA193208162",73,"rest deduced"
-"NYA193208191",65,"$Gene Desaults hit on face by own foul ball"
-"NYA193208240",54,"$the ball caromed from Johnny Burnett to Bill Cissell"
-"NYA193208270",59,"$Earl Averill lost the ball in the sun"
-"NYA193208291",13,"$Babe Ruth late getting to park because he took his stepdaugher to the hospital to have her tonsils removed"
-"NYA193209030",29,"$Joe Sewell overthrew 1B"
-"NYA193209030",44,"$lost in the sun"
+"NYA193204240",15,"$Chapman left with injured knee, reaggravated from previous Day"FILENAME_TX","LINE_NUMBER_CT"
+
+"NYA193204240",35,"$Lazzeri out for interferring with shortstop"1932NYA.EVA.regular.comment.csv",2
+
+"NYA193205070",43,"ej,ruthb101,P,owenb901,Called third strike Babe Ruth ejected by HP umpire Brick Owens"1932NYA.EVA.regular.comment.csv",3
+
+"NYA193205100",50,"ej,kimsc101,P,mcgob901,Bench jockeying $Kimsey ejected for bench jockeying"1932NYA.EVA.regular.comment.csv",4
+
+"NYA193205150",58,"ej,peckr101,M,guthb901,Balk call Indians Manager Roger Peckinpaugh ejected by HP umpire Bill Guthrie"1932NYA.EVA.regular.comment.csv",5
+
+"NYA193205192",37,"pbp ends here, rest from source 276 scorecard and two newspapers"1932NYA.EVA.regular.comment.csv",6
+
+"NYA193205211",41,"$Joe Cronin lost it in the sun"1932NYA.EVA.regular.comment.csv",7
+
+"NYA193205212",55,"pbp account ends here, rest deduced"1932NYA.EVA.regular.comment.csv",8
+
+"NYA193205220",22,"$Hank Johnson caught off 3B after Oscar Roettger muffed the throw"1932NYA.EVA.regular.comment.csv",9
+
+"NYA193206260",12,"$Bill Dickey struck on the left leg by foul ball"1932NYA.EVA.regular.comment.csv",10
+
+"NYA193206260",19,"$Bill Dickey left with injured leg"1932NYA.EVA.regular.comment.csv",11
+
+"NYA193207070",11,"$Earl Webb rounded 2B too far"1932NYA.EVA.regular.comment.csv",12
+
+"NYA193207092",8,"$Walker hit in head, had to be helped off field"1932NYA.EVA.regular.comment.csv",13
+
+"NYA193207092",49,"$Gehrig beat throw to 3rd"1932NYA.EVA.regular.comment.csv",14
+
+"NYA193207092",68,"$Reportedly first time Ruth ever played left in Yankee Statdium"1932NYA.EVA.regular.comment.csv",15
+
+"NYA193207180",60,"$Babe Ruth left with injured right knee"1932NYA.EVA.regular.comment.csv",16
+
+"NYA193207232",6,"$20 minute rain delay"1932NYA.EVA.regular.comment.csv",17
+
+"NYA193208162",73,"rest deduced"1932NYA.EVA.regular.comment.csv",18
+
+"NYA193208191",65,"$Gene Desaults hit on face by own foul ball"1932NYA.EVA.regular.comment.csv",19
+
+"NYA193208240",54,"$the ball caromed from Johnny Burnett to Bill Cissell"1932NYA.EVA.regular.comment.csv",20
+
+"NYA193208270",59,"$Earl Averill lost the ball in the sun"1932NYA.EVA.regular.comment.csv",21
+
+"NYA193208291",13,"$Babe Ruth late getting to park because he took his stepdaugher to the hospital to have her tonsils removed"1932NYA.EVA.regular.comment.csv",22
+
+"NYA193209030",29,"$Joe Sewell overthrew 1B"1932NYA.EVA.regular.comment.csv",23
+
+"NYA193209030",44,"$lost in the sun"1932NYA.EVA.regular.comment.csv",24
+

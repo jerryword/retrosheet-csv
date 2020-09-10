@@ -1,181 +1,180 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"PIT196504120",54,"xUnreadable"
-"PIT196504130",32,"xMight actually be 6-3."
-"PIT196504140",38,"$Near fight between Schofield and Wills"
-"PIT196505080",39,"xscoresheet shows cardenas-PerezDP, box score does not so Alley GDP"
-"PIT196505080",39,"xlikely entry point for Crandall"
-"PIT196505090",49,"xbunt assumed, but it almost has to be"
-"PIT196505130",36,"ej,mathe101,P,varge901,Called strike 3 ej,blasw101,P,varge901,Called strike 3 $Mathews and Braves Blasingame, not in game, ejected by HP umpire Vargo for arguing called strike 3"
-"PIT196505161",12,"ej,walkh102,M,jackb901,Interference non-call $Pirates manager Walker ejected by HP umpire Jackowski for arguing that White hit ball in fair territory while umpire ruled he was still in batter's box"
-"PIT196505161",24,"xnot sure when Brock caught stealing"
-"PIT196505161",44,"$25 minute rain delay"
-"PIT196505162",61,"xHamilton: a sacrifice down 5-0!!!"
-"PIT196505240",82,"$Gibbon: 75 pitches (14/7/33/10/11) $Schwall: 16 pitches $McBean: 28+ pitches (11/11/6+) $Burdette: 61 pitches (11/4/17/9/18) $Abernathy: 7 pitches $Broglio: 51 pitches (15/20/16)"
-"PIT196505250",93,"$Debut game for Frank Carpin"
-"PIT196505250",107,"$Friend: 90 pitches (9/22/15/11/12/15/6) $Sisk: 6 pitches $McBean: 45+ pitches (13/13/19+) $Carpin: 32+ (15+/17+) (Don't know 2 strike fouls) $Jackson: 84 pitches (5/9/12/26/12/6/14)"
-"PIT196506030",74,"xDWS: this odd sub is only way to make fielding credit OK"
-"PIT196506040",51,"$Fisher spiked at 2B, stayed in game"
-"PIT196506061",30,"$40 minute rain delay"
-"PIT196506080",78,"xCC4: Andre Rodgers PH for Stargell  9th tie 2 on 2 out vs LHP"
-"PIT196506080",92,"xbunt assumed"
-"PIT196506110",45,"xPagan may not have entered until later."
-"PIT196506110",48,"xGabrielson may actually have advanced on Peterson's flyout."
-"PIT196506120",61,"xDavenport may not have entered until later."
-"PIT196506120",70,"xNo advance shown."
-"PIT196506292",64,"xclear no SH"
-"PIT196506292",77,"$hit by own batted ball"
-"PIT196507040",72,"ej,clemr101,P,burkk101,Call at 1B $Clemente ejected by 1B umpire Burkhart for arguing that he was safe at 1st"
-"PIT196507080",58,"$steals on consecutive pitches"
-"PIT196507080",64,"x'error on throw from 1st'"
-"PIT196507090",0,"$start delayed 1:31 by rain"
-"PIT196507090",22,"$Podres slip on wet mound, pull muscle in side"
-"PIT196507090",45,"$Stargell hit in head"
-"PIT196507100",42,"$enter with 2-0 count on Johnson"
-"PIT196507111",47,"xPatterson says '9'"
-"PIT196507111",59,"xPatterson says '26'"
-"PIT196507112",49,"$Lefebvre thought Wills would take it to bag, didn't cover"
-"PIT196507272",73,"x28 has no sub C, can't be Lynch, so guess pagliaroni"
-"PIT196507300",71,"$Cardwell: 115+ pitches (21/9/16/4/11/7/14/16/17+) $Broglio: 102 pitches (13/14/25/17/13/11/9) $McDaniel: 15 pitches"
-"PIT196507310",84,"$Buhl: 120 pitches (14/9/16/9/9/18/15/13/17) $Abernathy: 2 pitches $Sisk: 66 pitches (27/18/21) $Wood: 57 pitches (5/11/9/15/17)"
-"PIT196508011",81,"$McBean: 90+ pitches (10/13/8/17/15/15/12+Landrum fouls) $Ellsworth: 45 pitches (15/15/15) $McDaniel: 22 pitches (9/13) $Koonce: 26 pitches (12/14) $Humphreys: 29 pitches (9/20)"
-"PIT196508012",74,"$Gibbon: 88 pitches (11/19/10/9/23/11/5) $Jackson: 81 pitches (18/4/27/4/9/10/9) $Abernathy: 8 pitches $McDaniel: 21 pitches"
-"PIT196508210",16,"xDWS: lots of speculation here, but Bailey did have GDP"
-"PIT196508210",31,"xThis play may be incorrect."
-"PIT196508210",35,"xThis play is very unclear. Friend had a hit in the game, so xI am guessing it was here off Fischer."
-"PIT196508210",48,"xThis play may have been scored 63"
-"PIT196508210",49,"xIt is unknown exactly when Virdon entered the game."
-"PIT196508230",58,"xStevens shows that Clemente didn't advance on the WP, and xMota didn't advance on the infield single."
-"PIT196508240",31,"xAlou may not have entered until later."
-"PIT196508240",45,"xHenderson may not have entered until later."
-"PIT196508250",58,"xSB may have occurred with McCovey or Gabrielson at bat."
-"PIT196508250",74,"$rain came with 1 out in bottom of 10th with SFN leading #5-3. Entire 10th wiped out, so 9-inning tie, replayed as #doubleheader next day.  Events of 10th inning included #in event file #play,10,0,hartj102,??,,K #play,10,0,mccow101,??,,D9 #play,10,0,gabrl102,??,,NP #sub,carpf101,'Frank Carpin',1,9,1 #play,10,0,gabrl102,??,,NP sub,petec101,'Cap Peterson',0,5,11 #play,10,0,petec101,??,,IW #play,10,0,hallt102,??,,NP #sub,cepeo101,'Orlando Cepeda',0,6,11 #play,10,0,cepeo101,??,,NP #sub,schwd101,'Don Schwall',1,9,1 #play,10,0,cepeo101,??,,9 #play,10,0,lanih101,??,,WP.1-2;2-3 #play,10,0,lanih101,??,,W #play,10,0,hendk101,??,,WP.1-2;2-3;3-H #play,10,0,hendk101,??,,IW #play,10,0,linzf101,??,,HP.3-H;2-3;1-2 #play,10,0,schod101,??,,NP #sub,gibbj102,'Joe Gibbon',1,9,1 #play,10,0,schod101,??,,K #play,10,1,gibbj102,??,,NP #sub,davej101,'Jim Davenport',0,5,5 #play,10,1,gibbj102,??,,NP #sub,bertd101,'Dick Bertell',0,6,2 #play,10,1,gibbj102,??,,NP #sub,hartj102,'James Hart',0,3,7 #play,10,1,gibbj102,??,,NP #sub,lyncj102,'Jerry Lynch',1,9,11 #play,10,1,lyncj102,??,,63 #data,er,carpf101,1 #data,er,schwd101,0 #data,er,gibbj102,0"
-"PIT196508261",26,"xNo advance shown for Bailey."
-"PIT196508261",37,"$Inside-the-park."
-"PIT196508261",44,"xHenderson may not have entered until later."
-"PIT196508261",57,"xMota may not have entered until later."
-"PIT196508262",0,"$The attendance might actually be only 8893."
-"PIT196508262",18,"xThe PO may be a continuation of the PB, but shows Crandall xsomehow advancing to third."
-"PIT196508262",31,"xStevens actually scores the play E8, but shows the hit going xto right, and the RF (Mays) with an error."
-"PIT196508262",37,"xFuentes may not have entered until much later.  Stevens has xLanier with 2 AB & Fuentes with 1, leaving the AB in the 6th xinning unaccounted for."
-"PIT196508262",73,"xNo advance shown for Alley."
-"PIT196508262",74,"xAgain, no advance..."
-"PIT196508270",85,"$Bruce's only relief appearance of 1965"
-"PIT196508290",8,"xDWS: Nottebart has WP somewhere in this game, guess here"
-"PIT196509012",4,"xDWS: fielding credit invented"
-"PIT196509012",15,"xDWS:not at all sure of this, must check"
-"PIT196509012",56,"$Drysdale out on batter's interference"
-"PIT196509012",63,"xunsure of advances or RBI"
-"PIT196509020",26,"xguessing on advances"
-"PIT196509020",27,"xsee previous comment"
-"PIT196509020",59,"xnot sure Johnson scored on this play"
-"PIT196509020",70,"xuncertain advance"
-"PIT196509100",23,"xnot clear why Stargell left so early"
-"PIT196509100",68,"$Debut game for Bob Oliver"
-"PIT196509100",80,"xthat's what is says - clearly, but I don't understand it"
-"PIT196509130",31,"xjust guessing it was a tipped liner, clear 64 with no one on"
-"PIT196509140",68,"$Clendenon out on appeal for leaving 3B too soon"
-"PIT196509150",4,"xDWS: Veale needs WP, putting it here"
-"PIT196509150",61,"xDWS: making this unassisted matches official totals"
-"PIT196509150",65,"$Debut game for George Spriggs"
-"PIT196509150",82,"xscorer appears to have force out at 3rd as '6'- I assumed he xwrote it down wrong"
-"PIT196509160",32,"ej,walkh102,M,pryop901,Fair/foul call $Pirates manager Walker ejected by 3B umpire Pryor when Pagliaroni was retired for arguing that a foul ball hit ealier in his at bat was actually fair"
-"PIT196509180",67,"xCC4: Did Mauch anger Landes-talk about death by 1000 cuts"
-"PIT196509180",69,"x3 relievers enter game and walk 4 batters, first 3 after full counts"
-"PIT196509190",62,"$Alley trapped, but looked like would escape when Allen's $throw hit Alley, popped in air, Corrales caught and tagged."
-"PIT196509210",33,"xJust shows 2U, unclear on what AB or if really CS"
-"PIT196509220",43,"$Pitcher McGraw ejected by HP umpire Forman for arguing that Clendenon was out at the plate"
-"PIT196510030",22,"xDWS: complete speculation on the E3"
-"PIT196510030",26,"xDWS: speculation"
-"PIT196510030",54,"xWP needed somewhere"
-"PIT196510030",66,"xDWS: need WP somewhere; this is good"
-"PIT196510030",68,"xDWS: more speculation"
-"PIT196504120",54,"xUnreadable"
-"PIT196504130",32,"xMight actually be 6-3."
-"PIT196504140",38,"$Near fight between Schofield and Wills"
-"PIT196505080",39,"xscoresheet shows cardenas-PerezDP, box score does not so Alley GDP"
-"PIT196505080",39,"xlikely entry point for Crandall"
-"PIT196505090",49,"xbunt assumed, but it almost has to be"
-"PIT196505130",36,"ej,mathe101,P,varge901,Called strike 3 ej,blasw101,P,varge901,Called strike 3 $Mathews and Braves Blasingame, not in game, ejected by HP umpire Vargo for arguing called strike 3"
-"PIT196505161",12,"ej,walkh102,M,jackb901,Interference non-call $Pirates manager Walker ejected by HP umpire Jackowski for arguing that White hit ball in fair territory while umpire ruled he was still in batter's box"
-"PIT196505161",24,"xnot sure when Brock caught stealing"
-"PIT196505161",44,"$25 minute rain delay"
-"PIT196505162",61,"xHamilton: a sacrifice down 5-0!!!"
-"PIT196505240",82,"$Gibbon: 75 pitches (14/7/33/10/11) $Schwall: 16 pitches $McBean: 28+ pitches (11/11/6+) $Burdette: 61 pitches (11/4/17/9/18) $Abernathy: 7 pitches $Broglio: 51 pitches (15/20/16)"
-"PIT196505250",93,"$Debut game for Frank Carpin"
-"PIT196505250",107,"$Friend: 90 pitches (9/22/15/11/12/15/6) $Sisk: 6 pitches $McBean: 45+ pitches (13/13/19+) $Carpin: 32+ (15+/17+) (Don't know 2 strike fouls) $Jackson: 84 pitches (5/9/12/26/12/6/14)"
-"PIT196506030",74,"xDWS: this odd sub is only way to make fielding credit OK"
-"PIT196506040",51,"$Fisher spiked at 2B, stayed in game"
-"PIT196506061",30,"$40 minute rain delay"
-"PIT196506080",78,"xCC4: Andre Rodgers PH for Stargell  9th tie 2 on 2 out vs LHP"
-"PIT196506080",92,"xbunt assumed"
-"PIT196506110",45,"xPagan may not have entered until later."
-"PIT196506110",48,"xGabrielson may actually have advanced on Peterson's flyout."
-"PIT196506120",61,"xDavenport may not have entered until later."
-"PIT196506120",70,"xNo advance shown."
-"PIT196506292",64,"xclear no SH"
-"PIT196506292",77,"$hit by own batted ball"
-"PIT196507040",72,"ej,clemr101,P,burkk101,Call at 1B $Clemente ejected by 1B umpire Burkhart for arguing that he was safe at 1st"
-"PIT196507080",58,"$steals on consecutive pitches"
-"PIT196507080",64,"x'error on throw from 1st'"
-"PIT196507090",0,"$start delayed 1:31 by rain"
-"PIT196507090",22,"$Podres slip on wet mound, pull muscle in side"
-"PIT196507090",45,"$Stargell hit in head"
-"PIT196507100",42,"$enter with 2-0 count on Johnson"
-"PIT196507111",47,"xPatterson says '9'"
-"PIT196507111",59,"xPatterson says '26'"
-"PIT196507112",49,"$Lefebvre thought Wills would take it to bag, didn't cover"
-"PIT196507272",73,"x28 has no sub C, can't be Lynch, so guess pagliaroni"
-"PIT196507300",71,"$Cardwell: 115+ pitches (21/9/16/4/11/7/14/16/17+) $Broglio: 102 pitches (13/14/25/17/13/11/9) $McDaniel: 15 pitches"
-"PIT196507310",84,"$Buhl: 120 pitches (14/9/16/9/9/18/15/13/17) $Abernathy: 2 pitches $Sisk: 66 pitches (27/18/21) $Wood: 57 pitches (5/11/9/15/17)"
-"PIT196508011",81,"$McBean: 90+ pitches (10/13/8/17/15/15/12+Landrum fouls) $Ellsworth: 45 pitches (15/15/15) $McDaniel: 22 pitches (9/13) $Koonce: 26 pitches (12/14) $Humphreys: 29 pitches (9/20)"
-"PIT196508012",74,"$Gibbon: 88 pitches (11/19/10/9/23/11/5) $Jackson: 81 pitches (18/4/27/4/9/10/9) $Abernathy: 8 pitches $McDaniel: 21 pitches"
-"PIT196508210",16,"xDWS: lots of speculation here, but Bailey did have GDP"
-"PIT196508210",31,"xThis play may be incorrect."
-"PIT196508210",35,"xThis play is very unclear. Friend had a hit in the game, so xI am guessing it was here off Fischer."
-"PIT196508210",48,"xThis play may have been scored 63"
-"PIT196508210",49,"xIt is unknown exactly when Virdon entered the game."
-"PIT196508230",58,"xStevens shows that Clemente didn't advance on the WP, and xMota didn't advance on the infield single."
-"PIT196508240",31,"xAlou may not have entered until later."
-"PIT196508240",45,"xHenderson may not have entered until later."
-"PIT196508250",58,"xSB may have occurred with McCovey or Gabrielson at bat."
-"PIT196508250",74,"$rain came with 1 out in bottom of 10th with SFN leading #5-3. Entire 10th wiped out, so 9-inning tie, replayed as #doubleheader next day.  Events of 10th inning included #in event file #play,10,0,hartj102,??,,K #play,10,0,mccow101,??,,D9 #play,10,0,gabrl102,??,,NP #sub,carpf101,'Frank Carpin',1,9,1 #play,10,0,gabrl102,??,,NP sub,petec101,'Cap Peterson',0,5,11 #play,10,0,petec101,??,,IW #play,10,0,hallt102,??,,NP #sub,cepeo101,'Orlando Cepeda',0,6,11 #play,10,0,cepeo101,??,,NP #sub,schwd101,'Don Schwall',1,9,1 #play,10,0,cepeo101,??,,9 #play,10,0,lanih101,??,,WP.1-2;2-3 #play,10,0,lanih101,??,,W #play,10,0,hendk101,??,,WP.1-2;2-3;3-H #play,10,0,hendk101,??,,IW #play,10,0,linzf101,??,,HP.3-H;2-3;1-2 #play,10,0,schod101,??,,NP #sub,gibbj102,'Joe Gibbon',1,9,1 #play,10,0,schod101,??,,K #play,10,1,gibbj102,??,,NP #sub,davej101,'Jim Davenport',0,5,5 #play,10,1,gibbj102,??,,NP #sub,bertd101,'Dick Bertell',0,6,2 #play,10,1,gibbj102,??,,NP #sub,hartj102,'James Hart',0,3,7 #play,10,1,gibbj102,??,,NP #sub,lyncj102,'Jerry Lynch',1,9,11 #play,10,1,lyncj102,??,,63 #data,er,carpf101,1 #data,er,schwd101,0 #data,er,gibbj102,0"
-"PIT196508261",26,"xNo advance shown for Bailey."
-"PIT196508261",37,"$Inside-the-park."
-"PIT196508261",44,"xHenderson may not have entered until later."
-"PIT196508261",57,"xMota may not have entered until later."
-"PIT196508262",0,"$The attendance might actually be only 8893."
-"PIT196508262",18,"xThe PO may be a continuation of the PB, but shows Crandall xsomehow advancing to third."
-"PIT196508262",31,"xStevens actually scores the play E8, but shows the hit going xto right, and the RF (Mays) with an error."
-"PIT196508262",37,"xFuentes may not have entered until much later.  Stevens has xLanier with 2 AB & Fuentes with 1, leaving the AB in the 6th xinning unaccounted for."
-"PIT196508262",73,"xNo advance shown for Alley."
-"PIT196508262",74,"xAgain, no advance..."
-"PIT196508270",85,"$Bruce's only relief appearance of 1965"
-"PIT196508290",8,"xDWS: Nottebart has WP somewhere in this game, guess here"
-"PIT196509012",4,"xDWS: fielding credit invented"
-"PIT196509012",15,"xDWS:not at all sure of this, must check"
-"PIT196509012",56,"$Drysdale out on batter's interference"
-"PIT196509012",63,"xunsure of advances or RBI"
-"PIT196509020",26,"xguessing on advances"
-"PIT196509020",27,"xsee previous comment"
-"PIT196509020",59,"xnot sure Johnson scored on this play"
-"PIT196509020",70,"xuncertain advance"
-"PIT196509100",23,"xnot clear why Stargell left so early"
-"PIT196509100",68,"$Debut game for Bob Oliver"
-"PIT196509100",80,"xthat's what is says - clearly, but I don't understand it"
-"PIT196509130",31,"xjust guessing it was a tipped liner, clear 64 with no one on"
-"PIT196509140",68,"$Clendenon out on appeal for leaving 3B too soon"
-"PIT196509150",4,"xDWS: Veale needs WP, putting it here"
-"PIT196509150",61,"xDWS: making this unassisted matches official totals"
-"PIT196509150",65,"$Debut game for George Spriggs"
-"PIT196509150",82,"xscorer appears to have force out at 3rd as '6'- I assumed he xwrote it down wrong"
-"PIT196509160",32,"ej,walkh102,M,pryop901,Fair/foul call $Pirates manager Walker ejected by 3B umpire Pryor when Pagliaroni was retired for arguing that a foul ball hit ealier in his at bat was actually fair"
-"PIT196509180",67,"xCC4: Did Mauch anger Landes-talk about death by 1000 cuts"
-"PIT196509180",69,"x3 relievers enter game and walk 4 batters, first 3 after full counts"
-"PIT196509190",62,"$Alley trapped, but looked like would escape when Allen's $throw hit Alley, popped in air, Corrales caught and tagged."
-"PIT196509210",33,"xJust shows 2U, unclear on what AB or if really CS"
-"PIT196509220",43,"ej,mcgrt001,P,forma901,Call at HP $Pitcher McGraw ejected by HP umpire Forman for arguing that Clendenon was out at the plate"
-"PIT196510030",22,"xDWS: complete speculation on the E3"
-"PIT196510030",26,"xDWS: speculation"
-"PIT196510030",54,"xWP needed somewhere"
-"PIT196510030",66,"xDWS: need WP somewhere; this is good"
-"PIT196510030",68,"xDWS: more speculation"
+"PIT196504120",54,"xUnreadable"FILENAME_TX","LINE_NUMBER_CT"
+
+"PIT196504130",32,"xMight actually be 6-3."1965PIT.EVN.regular.comment.csv",2
+
+"PIT196504140",38,"$Near fight between Schofield and Wills"1965PIT.EVN.regular.comment.csv",3
+
+"PIT196505080",39,"xscoresheet shows cardenas-PerezDP, box score does not so Alley GDP"1965PIT.EVN.regular.comment.csv",4
+
+"PIT196505080",39,"xlikely entry point for Crandall"1965PIT.EVN.regular.comment.csv",5
+
+"PIT196505090",49,"xbunt assumed, but it almost has to be"1965PIT.EVN.regular.comment.csv",6
+
+"PIT196505130",36,"ej,mathe101,P,varge901,Called strike 3 ej,blasw101,P,varge901,Called strike 3 $Mathews and Braves Blasingame, not in game, ejected by HP umpire Vargo for arguing called strike 3"1965PIT.EVN.regular.comment.csv",7
+
+"PIT196505161",12,"ej,walkh102,M,jackb901,Interference non-call $Pirates manager Walker ejected by HP umpire Jackowski for arguing that White hit ball in fair territory while umpire ruled he was still in batter's box"1965PIT.EVN.regular.comment.csv",8
+
+"PIT196505161",24,"xnot sure when Brock caught stealing"1965PIT.EVN.regular.comment.csv",9
+
+"PIT196505161",44,"$25 minute rain delay"1965PIT.EVN.regular.comment.csv",10
+
+"PIT196505162",61,"xHamilton: a sacrifice down 5-0!!!"1965PIT.EVN.regular.comment.csv",11
+
+"PIT196505240",82,"$Gibbon: 75 pitches (14/7/33/10/11) $Schwall: 16 pitches $McBean: 28+ pitches (11/11/6+) $Burdette: 61 pitches (11/4/17/9/18) $Abernathy: 7 pitches $Broglio: 51 pitches (15/20/16)"1965PIT.EVN.regular.comment.csv",12
+
+"PIT196505250",93,"$Debut game for Frank Carpin"1965PIT.EVN.regular.comment.csv",13
+
+"PIT196505250",107,"$Friend: 90 pitches (9/22/15/11/12/15/6) $Sisk: 6 pitches $McBean: 45+ pitches (13/13/19+) $Carpin: 32+ (15+/17+) (Don't know 2 strike fouls) $Jackson: 84 pitches (5/9/12/26/12/6/14)"1965PIT.EVN.regular.comment.csv",14
+
+"PIT196506030",74,"xDWS: this odd sub is only way to make fielding credit OK"1965PIT.EVN.regular.comment.csv",15
+
+"PIT196506040",51,"$Fisher spiked at 2B, stayed in game"1965PIT.EVN.regular.comment.csv",16
+
+"PIT196506061",30,"$40 minute rain delay"1965PIT.EVN.regular.comment.csv",17
+
+"PIT196506080",78,"xCC4: Andre Rodgers PH for Stargell  9th tie 2 on 2 out vs LHP"1965PIT.EVN.regular.comment.csv",18
+
+"PIT196506080",92,"xbunt assumed"1965PIT.EVN.regular.comment.csv",19
+
+"PIT196506110",45,"xPagan may not have entered until later."1965PIT.EVN.regular.comment.csv",20
+
+"PIT196506110",48,"xGabrielson may actually have advanced on Peterson's flyout."1965PIT.EVN.regular.comment.csv",21
+
+"PIT196506120",61,"xDavenport may not have entered until later."1965PIT.EVN.regular.comment.csv",22
+
+"PIT196506120",70,"xNo advance shown."1965PIT.EVN.regular.comment.csv",23
+
+"PIT196506292",64,"xclear no SH"1965PIT.EVN.regular.comment.csv",24
+
+"PIT196506292",77,"$hit by own batted ball"1965PIT.EVN.regular.comment.csv",25
+
+"PIT196507040",72,"ej,clemr101,P,burkk101,Call at 1B $Clemente ejected by 1B umpire Burkhart for arguing that he was safe at 1st"1965PIT.EVN.regular.comment.csv",26
+
+"PIT196507080",58,"$steals on consecutive pitches"1965PIT.EVN.regular.comment.csv",27
+
+"PIT196507080",64,"x'error on throw from 1st'"1965PIT.EVN.regular.comment.csv",28
+
+"PIT196507090",0,"$start delayed 1:31 by rain"1965PIT.EVN.regular.comment.csv",29
+
+"PIT196507090",22,"$Podres slip on wet mound, pull muscle in side"1965PIT.EVN.regular.comment.csv",30
+
+"PIT196507090",45,"$Stargell hit in head"1965PIT.EVN.regular.comment.csv",31
+
+"PIT196507100",42,"$enter with 2-0 count on Johnson"1965PIT.EVN.regular.comment.csv",32
+
+"PIT196507111",47,"xPatterson says '9'"1965PIT.EVN.regular.comment.csv",33
+
+"PIT196507111",59,"xPatterson says '26'"1965PIT.EVN.regular.comment.csv",34
+
+"PIT196507112",49,"$Lefebvre thought Wills would take it to bag, didn't cover"1965PIT.EVN.regular.comment.csv",35
+
+"PIT196507272",73,"x28 has no sub C, can't be Lynch, so guess pagliaroni"1965PIT.EVN.regular.comment.csv",36
+
+"PIT196507300",71,"$Cardwell: 115+ pitches (21/9/16/4/11/7/14/16/17+) $Broglio: 102 pitches (13/14/25/17/13/11/9) $McDaniel: 15 pitches"1965PIT.EVN.regular.comment.csv",37
+
+"PIT196507310",84,"$Buhl: 120 pitches (14/9/16/9/9/18/15/13/17) $Abernathy: 2 pitches $Sisk: 66 pitches (27/18/21) $Wood: 57 pitches (5/11/9/15/17)"1965PIT.EVN.regular.comment.csv",38
+
+"PIT196508011",81,"$McBean: 90+ pitches (10/13/8/17/15/15/12+Landrum fouls) $Ellsworth: 45 pitches (15/15/15) $McDaniel: 22 pitches (9/13) $Koonce: 26 pitches (12/14) $Humphreys: 29 pitches (9/20)"1965PIT.EVN.regular.comment.csv",39
+
+"PIT196508012",74,"$Gibbon: 88 pitches (11/19/10/9/23/11/5) $Jackson: 81 pitches (18/4/27/4/9/10/9) $Abernathy: 8 pitches $McDaniel: 21 pitches"1965PIT.EVN.regular.comment.csv",40
+
+"PIT196508210",16,"xDWS: lots of speculation here, but Bailey did have GDP"1965PIT.EVN.regular.comment.csv",41
+
+"PIT196508210",31,"xThis play may be incorrect."1965PIT.EVN.regular.comment.csv",42
+
+"PIT196508210",35,"xThis play is very unclear. Friend had a hit in the game, so xI am guessing it was here off Fischer."1965PIT.EVN.regular.comment.csv",43
+
+"PIT196508210",48,"xThis play may have been scored 63"1965PIT.EVN.regular.comment.csv",44
+
+"PIT196508210",49,"xIt is unknown exactly when Virdon entered the game."1965PIT.EVN.regular.comment.csv",45
+
+"PIT196508230",58,"xStevens shows that Clemente didn't advance on the WP, and xMota didn't advance on the infield single."1965PIT.EVN.regular.comment.csv",46
+
+"PIT196508240",31,"xAlou may not have entered until later."1965PIT.EVN.regular.comment.csv",47
+
+"PIT196508240",45,"xHenderson may not have entered until later."1965PIT.EVN.regular.comment.csv",48
+
+"PIT196508250",58,"xSB may have occurred with McCovey or Gabrielson at bat."1965PIT.EVN.regular.comment.csv",49
+
+"PIT196508250",74,"$rain came with 1 out in bottom of 10th with SFN leading #5-3. Entire 10th wiped out, so 9-inning tie, replayed as #doubleheader next day.  Events of 10th inning included #in event file #play,10,0,hartj102,??,,K #play,10,0,mccow101,??,,D9 #play,10,0,gabrl102,??,,NP #sub,carpf101,'Frank Carpin',1,9,1 #play,10,0,gabrl102,??,,NP sub,petec101,'Cap Peterson',0,5,11 #play,10,0,petec101,??,,IW #play,10,0,hallt102,??,,NP #sub,cepeo101,'Orlando Cepeda',0,6,11 #play,10,0,cepeo101,??,,NP #sub,schwd101,'Don Schwall',1,9,1 #play,10,0,cepeo101,??,,9 #play,10,0,lanih101,??,,WP.1-2;2-3 #play,10,0,lanih101,??,,W #play,10,0,hendk101,??,,WP.1-2;2-3;3-H #play,10,0,hendk101,??,,IW #play,10,0,linzf101,??,,HP.3-H;2-3;1-2 #play,10,0,schod101,??,,NP #sub,gibbj102,'Joe Gibbon',1,9,1 #play,10,0,schod101,??,,K #play,10,1,gibbj102,??,,NP #sub,davej101,'Jim Davenport',0,5,5 #play,10,1,gibbj102,??,,NP #sub,bertd101,'Dick Bertell',0,6,2 #play,10,1,gibbj102,??,,NP #sub,hartj102,'James Hart',0,3,7 #play,10,1,gibbj102,??,,NP #sub,lyncj102,'Jerry Lynch',1,9,11 #play,10,1,lyncj102,??,,63 #data,er,carpf101,1 #data,er,schwd101,0 #data,er,gibbj102,0"1965PIT.EVN.regular.comment.csv",50
+
+"PIT196508261",26,"xNo advance shown for Bailey."1965PIT.EVN.regular.comment.csv",51
+
+"PIT196508261",37,"$Inside-the-park."1965PIT.EVN.regular.comment.csv",52
+
+"PIT196508261",44,"xHenderson may not have entered until later."1965PIT.EVN.regular.comment.csv",53
+
+"PIT196508261",57,"xMota may not have entered until later."1965PIT.EVN.regular.comment.csv",54
+
+"PIT196508262",0,"$The attendance might actually be only 8893."1965PIT.EVN.regular.comment.csv",55
+
+"PIT196508262",18,"xThe PO may be a continuation of the PB, but shows Crandall xsomehow advancing to third."1965PIT.EVN.regular.comment.csv",56
+
+"PIT196508262",31,"xStevens actually scores the play E8, but shows the hit going xto right, and the RF (Mays) with an error."1965PIT.EVN.regular.comment.csv",57
+
+"PIT196508262",37,"xFuentes may not have entered until much later.  Stevens has xLanier with 2 AB & Fuentes with 1, leaving the AB in the 6th xinning unaccounted for."1965PIT.EVN.regular.comment.csv",58
+
+"PIT196508262",73,"xNo advance shown for Alley."1965PIT.EVN.regular.comment.csv",59
+
+"PIT196508262",74,"xAgain, no advance..."1965PIT.EVN.regular.comment.csv",60
+
+"PIT196508270",85,"$Bruce's only relief appearance of 1965"1965PIT.EVN.regular.comment.csv",61
+
+"PIT196508290",8,"xDWS: Nottebart has WP somewhere in this game, guess here"1965PIT.EVN.regular.comment.csv",62
+
+"PIT196509012",4,"xDWS: fielding credit invented"1965PIT.EVN.regular.comment.csv",63
+
+"PIT196509012",15,"xDWS:not at all sure of this, must check"1965PIT.EVN.regular.comment.csv",64
+
+"PIT196509012",56,"$Drysdale out on batter's interference"1965PIT.EVN.regular.comment.csv",65
+
+"PIT196509012",63,"xunsure of advances or RBI"1965PIT.EVN.regular.comment.csv",66
+
+"PIT196509020",26,"xguessing on advances"1965PIT.EVN.regular.comment.csv",67
+
+"PIT196509020",27,"xsee previous comment"1965PIT.EVN.regular.comment.csv",68
+
+"PIT196509020",59,"xnot sure Johnson scored on this play"1965PIT.EVN.regular.comment.csv",69
+
+"PIT196509020",70,"xuncertain advance"1965PIT.EVN.regular.comment.csv",70
+
+"PIT196509100",23,"xnot clear why Stargell left so early"1965PIT.EVN.regular.comment.csv",71
+
+"PIT196509100",68,"$Debut game for Bob Oliver"1965PIT.EVN.regular.comment.csv",72
+
+"PIT196509100",80,"xthat's what is says - clearly, but I don't understand it"1965PIT.EVN.regular.comment.csv",73
+
+"PIT196509130",31,"xjust guessing it was a tipped liner, clear 64 with no one on"1965PIT.EVN.regular.comment.csv",74
+
+"PIT196509140",68,"$Clendenon out on appeal for leaving 3B too soon"1965PIT.EVN.regular.comment.csv",75
+
+"PIT196509150",4,"xDWS: Veale needs WP, putting it here"1965PIT.EVN.regular.comment.csv",76
+
+"PIT196509150",61,"xDWS: making this unassisted matches official totals"1965PIT.EVN.regular.comment.csv",77
+
+"PIT196509150",65,"$Debut game for George Spriggs"1965PIT.EVN.regular.comment.csv",78
+
+"PIT196509150",82,"xscorer appears to have force out at 3rd as '6'- I assumed he xwrote it down wrong"1965PIT.EVN.regular.comment.csv",79
+
+"PIT196509160",32,"ej,walkh102,M,pryop901,Fair/foul call $Pirates manager Walker ejected by 3B umpire Pryor when Pagliaroni was retired for arguing that a foul ball hit ealier in his at bat was actually fair"1965PIT.EVN.regular.comment.csv",80
+
+"PIT196509180",67,"xCC4: Did Mauch anger Landes-talk about death by 1000 cuts"1965PIT.EVN.regular.comment.csv",81
+
+"PIT196509180",69,"x3 relievers enter game and walk 4 batters, first 3 after full counts"1965PIT.EVN.regular.comment.csv",82
+
+"PIT196509190",62,"$Alley trapped, but looked like would escape when Allen's $throw hit Alley, popped in air, Corrales caught and tagged."1965PIT.EVN.regular.comment.csv",83
+
+"PIT196509210",33,"xJust shows 2U, unclear on what AB or if really CS"1965PIT.EVN.regular.comment.csv",84
+
+"PIT196509220",43,"ej,mcgrt001,P,forma901,Call at HP $Pitcher McGraw ejected by HP umpire Forman for arguing that Clendenon was out at the plate"1965PIT.EVN.regular.comment.csv",85
+
+"PIT196510030",22,"xDWS: complete speculation on the E3"1965PIT.EVN.regular.comment.csv",86
+
+"PIT196510030",26,"xDWS: speculation"1965PIT.EVN.regular.comment.csv",87
+
+"PIT196510030",54,"xWP needed somewhere"1965PIT.EVN.regular.comment.csv",88
+
+"PIT196510030",66,"xDWS: need WP somewhere; this is good"1965PIT.EVN.regular.comment.csv",89
+
+"PIT196510030",68,"xDWS: more speculation"1965PIT.EVN.regular.comment.csv",90
+

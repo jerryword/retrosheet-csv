@@ -1,27 +1,26 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"CHN199804030",1,"Debut game for Javier Vazquez"
-"CHN199804050",1,"Debut game for Trey Moore"
-"CHN199804210",34,"ej,browk001,P,westj901,Balls and strikes (as batter) ej,bochb002,M,westj901,Balls and strikes Kevin Brown and Padres manager Bruce Bochy ejected by HP umpire Joe West"
-"CHN199805210",83,"Debut game for Kennie Steenstra"
-"CHN199805270",64,"Debut game for Justin Speier"
-"CHN199805280",55,"Debut game for Robert Dodd"
-"CHN199805290",0,"ej,cox-b103,M,bonig901,Balls and strikes Braves manager Bobby Cox ejected by HP umpire Greg Bonin sometime in game"
-"CHN199806150",61,"ej,marta002,P,bellw901,Balls and strikes (while catching) ej,riggj801,M,bellw901,Balls and strikes $Cubs catcher Sandy Martinez and manager Jim Riggleman ejected by HP umpire Wally Bell"
-"CHN199807230",1,"Debut game for Jeremy Powell"
-"CHN199808240",33,"$Reynolds was awarded a walk on only three balls"
-"CHN199809010",45,"Debut game for Jason Maxwell"
-"CHN199809120",64,"Debut game for Ron Belliard"
-"CHN199809200",66,"ej,riggj801,M,wendh901,Fair/foul call Cubs manager Jim Riggleman ejected by 3B umpire Harry Wendelstedt"
-"CHN199804030",1,"Debut game for Javier Vazquez"
-"CHN199804050",1,"Debut game for Trey Moore"
-"CHN199804210",34,"ej,browk001,P,westj901,Balls and strikes (as batter) ej,bochb002,M,westj901,Balls and strikes Kevin Brown and Padres manager Bruce Bochy ejected by HP umpire Joe West"
-"CHN199805210",83,"Debut game for Kennie Steenstra"
-"CHN199805270",64,"Debut game for Justin Speier"
-"CHN199805280",55,"Debut game for Robert Dodd"
-"CHN199805290",63,"ej,cox-b103,M,bonig901,Balls and strikes $Braves manager Cox ejected by HP umpire Bonin for arguing balls and strikes after Brown walked"
-"CHN199806150",61,"ej,marta002,P,bellw901,Balls and strikes (while catching) ej,riggj801,M,bellw901,Balls and strikes $Cubs catcher Sandy Martinez and manager Jim Riggleman ejected by HP umpire Wally Bell"
-"CHN199807230",1,"Debut game for Jeremy Powell"
-"CHN199808240",33,"$Reynolds was awarded a walk on only three balls"
-"CHN199809010",45,"Debut game for Jason Maxwell"
-"CHN199809120",64,"Debut game for Ron Belliard"
-"CHN199809200",66,"ej,riggj801,M,wendh901,Fair/foul call Cubs manager Jim Riggleman ejected by 3B umpire Harry Wendelstedt"
+"CHN199804030",1,"Debut game for Javier Vazquez"FILENAME_TX","LINE_NUMBER_CT"
+
+"CHN199804050",1,"Debut game for Trey Moore"1998CHN.EVN.regular.comment.csv",2
+
+"CHN199804210",34,"ej,browk001,P,westj901,Balls and strikes (as batter) ej,bochb002,M,westj901,Balls and strikes Kevin Brown and Padres manager Bruce Bochy ejected by HP umpire Joe West"1998CHN.EVN.regular.comment.csv",3
+
+"CHN199805210",83,"Debut game for Kennie Steenstra"1998CHN.EVN.regular.comment.csv",4
+
+"CHN199805270",64,"Debut game for Justin Speier"1998CHN.EVN.regular.comment.csv",5
+
+"CHN199805280",55,"Debut game for Robert Dodd"1998CHN.EVN.regular.comment.csv",6
+
+"CHN199805290",63,"ej,cox-b103,M,bonig901,Balls and strikes $Braves manager Cox ejected by HP umpire Bonin for arguing balls and strikes after Brown walked"1998CHN.EVN.regular.comment.csv",7
+
+"CHN199806150",61,"ej,marta002,P,bellw901,Balls and strikes (while catching) ej,riggj801,M,bellw901,Balls and strikes $Cubs catcher Sandy Martinez and manager Jim Riggleman ejected by HP umpire Wally Bell"1998CHN.EVN.regular.comment.csv",8
+
+"CHN199807230",1,"Debut game for Jeremy Powell"1998CHN.EVN.regular.comment.csv",9
+
+"CHN199808240",33,"$Reynolds was awarded a walk on only three balls"1998CHN.EVN.regular.comment.csv",10
+
+"CHN199809010",45,"Debut game for Jason Maxwell"1998CHN.EVN.regular.comment.csv",11
+
+"CHN199809120",64,"Debut game for Ron Belliard"1998CHN.EVN.regular.comment.csv",12
+
+"CHN199809200",66,"ej,riggj801,M,wendh901,Fair/foul call Cubs manager Jim Riggleman ejected by 3B umpire Harry Wendelstedt"1998CHN.EVN.regular.comment.csv",13
+

@@ -1,37 +1,36 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"BOS192305010",25,"No CS on 2E6 in 1923"
-"BOS192305030",52,"$Chick Fewster's throw struck Joe Hauser on the back of the head at 3B"
-"BOS192305240",63,"pbp account ends here, rest deduced"
-"BOS192305260",41,"hidden ball trick?"
-"BOS192306040",28,"strike on 3-2 count."
-"BOS192306110",20,"$Johnny Mostil called for interference with Jack Quinn"
-"BOS192306120",51,"$Red Faber threw to 1B thinking there were two outs"
-"BOS192307042",0,"$One hour rain delay before second game began"
-"BOS192307261",3,"ej,goslg101,P,holmd102,Called third strike Goose Goslin ejected by HP umpire Ducky Holmes"
-"BOS192307280",81,"$The 2nd game of scheduled doubleheader was called off due to rain."
-"BOS192308012",16,"$Hit him in the back"
-"BOS192308020",25,"ej,pittp101,P,evanb901,Call at 1B Pinky Pittenger ejected by 1B umpire Billy Evans"
-"BOS192308020",74,"ej,flagi101,P,holmd102,Called third strike (Threw bat) Ira Flagstead ejected by HP Umpire Ducky Holmes after throwing his bat"
-"BOS192309140",13,"$Unassisted triple play by Burns.  It was the 3rd time in 3 weeks Cleveland lined into a triple play, all started by a first baseman.  The 4th unassisted TP in Major League history (thru 9/14/1923); The liner was headed to RF, but Burns cut across and caught the ball 15' away from 1B as Lutzke shot past him on his way to 2B.  Burns sprang after (and tagged) Lutzke, then beat Stephenson in a sprint to 2B."
-"BOS192309222",2,"$Hit on knee"
-"BOS192309222",38,"$Cobb blocked the line drive and deflected it to Manush who got force at third"
-"BOS192309250",20,"$Pat Collins in as a courtesy runner; Homer Ezzell was spiked"
-"BOS192309260",64,"pbp account ends here, rest deduced"
-"BOS192305010",25,"No CS on 2E6 in 1923"
-"BOS192305030",52,"$Chick Fewster's throw struck Joe Hauser on the back of the head at 3B"
-"BOS192305240",63,"pbp account ends here, rest deduced"
-"BOS192305260",41,"hidden ball trick?"
-"BOS192306040",28,"strike on 3-2 count."
-"BOS192306110",20,"$Johnny Mostil called for interference with Jack Quinn"
-"BOS192306120",51,"$Red Faber threw to 1B thinking there were two outs"
-"BOS192307042",0,"$One hour rain delay before second game began"
-"BOS192307261",3,"ej,goslg101,P,holmd102,Called third strike Goose Goslin ejected by HP umpire Ducky Holmes"
-"BOS192307280",81,"$The 2nd game of scheduled doubleheader was called off due to rain."
-"BOS192308012",16,"$Hit him in the back"
-"BOS192308020",25,"ej,pittp101,P,evanb901,Call at 1B Pinky Pittenger ejected by 1B umpire Billy Evans"
-"BOS192308020",74,"ej,flagi101,P,holmd102,Called third strike (Threw bat) Ira Flagstead ejected by HP Umpire Ducky Holmes after throwing his bat"
-"BOS192309140",13,"$Unassisted triple play by Burns.  It was the 3rd time in 3 weeks Cleveland lined into a triple play, all started by a first baseman.  The 4th unassisted TP in Major League history (thru 9/14/1923); The liner was headed to RF, but Burns cut across and caught the ball 15' away from 1B as Lutzke shot past him on his way to 2B.  Burns sprang after (and tagged) Lutzke, then beat Stephenson in a sprint to 2B."
-"BOS192309222",2,"$Hit on knee"
-"BOS192309222",38,"$Cobb blocked the line drive and deflected it to Manush who got force at third"
-"BOS192309250",20,"$Pat Collins in as a courtesy runner; Homer Ezzell was spiked"
-"BOS192309260",64,"pbp account ends here, rest deduced"
+"BOS192305010",25,"No CS on 2E6 in 1923"FILENAME_TX","LINE_NUMBER_CT"
+
+"BOS192305030",52,"$Chick Fewster's throw struck Joe Hauser on the back of the head at 3B"1923BOS.EVA.regular.comment.csv",2
+
+"BOS192305240",63,"pbp account ends here, rest deduced"1923BOS.EVA.regular.comment.csv",3
+
+"BOS192305260",41,"hidden ball trick?"1923BOS.EVA.regular.comment.csv",4
+
+"BOS192306040",28,"strike on 3-2 count."1923BOS.EVA.regular.comment.csv",5
+
+"BOS192306110",20,"$Johnny Mostil called for interference with Jack Quinn"1923BOS.EVA.regular.comment.csv",6
+
+"BOS192306120",51,"$Red Faber threw to 1B thinking there were two outs"1923BOS.EVA.regular.comment.csv",7
+
+"BOS192307042",0,"$One hour rain delay before second game began"1923BOS.EVA.regular.comment.csv",8
+
+"BOS192307261",3,"ej,goslg101,P,holmd102,Called third strike Goose Goslin ejected by HP umpire Ducky Holmes"1923BOS.EVA.regular.comment.csv",9
+
+"BOS192307280",81,"$The 2nd game of scheduled doubleheader was called off due to rain."1923BOS.EVA.regular.comment.csv",10
+
+"BOS192308012",16,"$Hit him in the back"1923BOS.EVA.regular.comment.csv",11
+
+"BOS192308020",25,"ej,pittp101,P,evanb901,Call at 1B Pinky Pittenger ejected by 1B umpire Billy Evans"1923BOS.EVA.regular.comment.csv",12
+
+"BOS192308020",74,"ej,flagi101,P,holmd102,Called third strike (Threw bat) Ira Flagstead ejected by HP Umpire Ducky Holmes after throwing his bat"1923BOS.EVA.regular.comment.csv",13
+
+"BOS192309140",13,"$Unassisted triple play by Burns.  It was the 3rd time in 3 weeks Cleveland lined into a triple play, all started by a first baseman.  The 4th unassisted TP in Major League history (thru 9/14/1923); The liner was headed to RF, but Burns cut across and caught the ball 15' away from 1B as Lutzke shot past him on his way to 2B.  Burns sprang after (and tagged) Lutzke, then beat Stephenson in a sprint to 2B."1923BOS.EVA.regular.comment.csv",14
+
+"BOS192309222",2,"$Hit on knee"1923BOS.EVA.regular.comment.csv",15
+
+"BOS192309222",38,"$Cobb blocked the line drive and deflected it to Manush who got force at third"1923BOS.EVA.regular.comment.csv",16
+
+"BOS192309250",20,"$Pat Collins in as a courtesy runner; Homer Ezzell was spiked"1923BOS.EVA.regular.comment.csv",17
+
+"BOS192309260",64,"pbp account ends here, rest deduced"1923BOS.EVA.regular.comment.csv",18
+

@@ -1,135 +1,134 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"ANA201504110",3,"replay,1,cainl001,KCA,millb901,ANA01,,N,M,ANA,A $when Mike Moustakas was called safe at 2B, Angels manager Mike Scioscia challenged the ruling; the call was upheld by replay"
-"ANA201504210",17,"$when C.J. Cron was called out at 1B, Angels manager Mike Scioscia challenged the ruling; the call was overturned by replay"
-"ANA201504210",75,"$Ike Davis pitched for the Athletics"
-"ANA201504220",2,"replay,1,canhm001,OAK,wintm901,ANA01,,N,M,ANA,A $when Sam Fuld was called safe at 2B, Angels manager Mike Scioscia challenged the ruling; the call was upheld by replay"
-"ANA201504260",38,"replay,4,joycm001,ANA,reynj901,ANA01,,Y,M,TEX,A $when C.J. Cron was called safe at 3B, Rangers manager Jeff Banister challenged the ruling; the call was overturned by replay"
-"ANA201504260",67,"replay,8,andre001,TEX,reynj901,ANA01,,Y,M,ANA,N ej,banij001,M,gonza901,Replay ruling $when Elvis Andrus' fly to RF was ruled a foul ball, Angels manager Mike Scioscia challenged the ruling; the call was overturned to fan interference and Andrus called out; Rangers manager Jeff Banister ejected by HP umpire Manny Gonzalez for arguing the changed call"
-"ANA201505050",53,"$Erick Aybar called for interference for running into his own bunt"
-"ANA201505080",21,"$originally scored as E5, changed to single on 05-13-2015"
-"ANA201505130",0,"$Rockies manager Walt Weiss had an emergency appendectomy today; bench coach Tom Runnells acting manager"
-"ANA201505130",10,"Rockies pitcher Jordan Lyles left the game due to an injured hand"
-"ANA201505130",79,"replay,11,descd001,COL,davig901,ANA01,,Y,M,ANA,A $when Carlos Gonzalez was called safe at HP, Angels manager Mike Scioscia challenged the ruling; the call was overturned by replay"
-"ANA201505250",49,"replay,5,joycm001,ANA,barrt901,ANA01,,N,M,SDN,A $when Erick Aybar was called safe at HP, Padres manager Bud Black challenged the ruling, the call was upheld by replay"
-"ANA201505260",68,"replay,9,calhk001,ANA,barrt901,ANA01,,Y,M,SDN,C $when Kole Calhoun was called safe at 1B, Padres manager Mike Scioscia challenged the ruling; the call was overturned by replay"
-"ANA201505270",2,"replay,1,venaw001,SDN,barrt901,ANA01,,Y,M,ANA,A $when Yangervis Solarte was called safe at 1B, Angels manager Mike Scioscia challenged the ruling; the call was overturned by replay"
-"ANA201505270",7,"replay,1,pujoa001,ANA,barrt901,ANA01,,Y,M,ANA,A $when Erick Aybar was called out at 2B, Angels manager Mike Scioscia challenged the ruling; the call was overturned by replay"
-"ANA201505280",41,"Angels shortstop Erick Aybar left the game due to an injured leg"
-"ANA201505300",3,"replay,1,cabrm001,DET,davig901,ANA01,,N,M,DET,A $when Miguel Cabrera was called out at 2B, Tigers manager Brad Ausmus challenged the ruling; the call was upheld by replay"
-"ANA201505310",69,"$originally acored as single, changed to error on 06-05-2015, making both runs in inning unearned"
-"ANA201506020",69,"replay,9,guyeb001,TBA,kellj901,ANA01,,N,M,TBA,C $when Brandon Guyer was called out at 1B, Rays manager Kevin Cash challenged the ruling; the call was upheld by replay"
-"ANA201506030",15,"replay,2,guyeb001,TBA,kellj901,ANA01,,N,M,TBA,A $when Mikie Mahtook was called out at 2B, Rays manager Kevin Cash challenged the ruling; the call was upheld by replay; Mahtook slid by 2B"
-"ANA201506030",75,"replay,9,navae001,ANA,kellj901,ANA01,,N,U,,A $when Taylor Featherston was called safe at 1B on a pickoff attempt, crew chief Jeff Kellogg requested a review; the call was upheld by replay"
-"ANA201506120",38,"replay,5,reddj001,OAK,barrt901,ANA01,,N,M,ANA,A $when Mark Canha was called safe at 2B, Angels manager Mike Scioscia challenged the ruling; the call was upheld by replay"
-"ANA201506120",52,"ej,sciom001,M,conrc901,Call at 1B Angels Manager Mike Scioscia ejected by 1B umpire Chris Conroy; Scioscia had challenged and lost earlier in the game and could not challenge this call; the umpires cannot look on their own until the seventh inning"
-"ANA201506150",4,"Diamondbacks left fielder Ender Inciarte left the game due to an injured leg"
-"ANA201506150",30,"replay,4,pujoa001,ANA,millb901,ANA01,,N,M,ANA,C $when Albert Pujols was called out at 1B, Angels manager Mike Scioscia challenged the ruling; the call was upheld by replay"
-"ANA201506150",71,"replay,9,polla001,ARI,millb901,ANA01,,N,U,,A $when Nick Ahmed was called safe at HP, crew chief Bill Miller requested a review; the call was upheld by replay"
-"ANA201506220",11,"replay,2,freed001,ANA,hirsj901,ANA01,,Y,M,HOU,A $when Albert Pujols was called out at 2B, Astros manager A.J. Hinch challenged the rulin; the call was overturned by replay"
-"ANA201506230",23,"replay,3,gatte001,HOU,hirsj901,ANA01,,Y,M,ANA,C $when Evan Gattis was called safe at 1B, Angels manager Mike Scioscia challenged the ruling; the call was overturned by replay"
-"ANA201506240",68,"replay,9,gatte001,HOU,hirsj901,ANA01,,N,M,HOU,A $when George Springer was called out at 1B, Astros manager A.J. Hinch challenged the ruling; the call was upheld by replay"
-"ANA201506240",69,"replay,9,gatte001,HOU,hirsj901,ANA01,,N,U,,A $when Evan Gattis was called out at 2B, crew chief John Hirschbeck requested a review; the call was upheld by replay"
-"ANA201506240",77,"replay,10,castj006,HOU,hirsj901,ANA01,,N,U,,A $when Marwin Gonzalez was called out at 2B, crew chief John Hirschbeck requested a review; the call was upheld by replay"
-"ANA201506260",18,"$Mike Zunino called for interference for running into his own bunt"
-"ANA201506260",20,"replay,3,jacka001,SEA,nelsj901,ANA01,,N,M,SEA,C $when Austin Jackson was called out at 1B, Mariners manager Lloyd McClendon challenged the ruling; the call was upheld by replay"
-"ANA201506260",28,"replay,4,aybae001,ANA,nelsj901,ANA01,,N,M,ANA,A $when Erick Aybar was called out at 3B, Angels manager Mike Scioscia challenged the ruling; the call was upheld by replay"
-"ANA201506260",51,"Angels shortstop Erick Aybar left the game due to an injured leg"
-"ANA201506270",43,"$Robinson Cano was struck on the forehead by an errant throw during the between-inning warmups by the Angels; Cano was in the dugout at the time"
-"ANA201506270",48,"$Robinson Cano left with dizziness"
-"ANA201506290",4,"replay,1,teixm001,NYA,culbf901,ANA01,,Y,M,ANA,A $when Brett Gardner was called safe at 3B, Angels manager Mike Scioscia challenged the ruling; the call was overturned by replay"
-"ANA201506300",24,"replay,3,pujoa001,ANA,culbf901,ANA01,,N,M,ANA,A $when Mike Trout was called out at 2B, Angels manager Mike Scioscia challenged the ruling; the call was upheld by replay"
-"ANA201506300",53,"replay,7,giavj001,ANA,culbf901,ANA01,,N,U,,C $when Johnny Giavotella was called out at 1B, crew chief Fieldin Culbreth requested a review; the call was upheld by replay"
-"ANA201507170",59,"replay,8,iannc001,ANA,wendh902,ANA01,,N,M,BOS,C $when Taylor Featherston was called safe at 1B, Red Sox manager John Farrell challenged the ruling; the call was upheld by replay"
-"ANA201507210",16,"replay,2,iannc001,ANA,westj901,ANA01,,Y,M,MIN,A $when Matt Joyce was called safe at 3B, Twins manager Paul Molitor challenged the ruling; the call was overturned by replay"
-"ANA201507210",46,"$originally scored as fielder's choice, changed to error on 07-31-2015, making Pujols' run unearned"
-"ANA201507220",55,"replay,6,joycm001,ANA,westj901,ANA01,,Y,M,MIN,A $when Taylor Featherston was called safe at 2B on a pickoff attempt, Twins manager Paul Molitor challenged the ruling; the call was overturned by replay"
-"ANA201507220",67,"replay,7,featt001,ANA,westj901,ANA01,,Y,M,MIN,A $when Kole Calhoun was called safe at HP, Twins manager Paul Molitor challenged the ruling; the call was overturned by replay"
-"ANA201507230",63,"replay,9,rosae001,MIN,westj901,ANA01,,Y,M,ANA,A $when Eddie Rosario was called safe at 2B, Angels manager Mike Scioscia challenged the ruling; the call was overturned by replay"
-"ANA201507240",49,"replay,7,choos001,TEX,vanol901,ANA01,,N,M,ANA,C $when Shin-Soo Choo was called safe at 1B, Angels manager Mike Scioscia challenged the ruling; the call was upheld by replay"
-"ANA201507260",9,"replay,2,fielp001,TEX,vanol901,ANA01,,N,M,TEX,C $when Prince Fielder was called out at 1B, Rangers manager Jeff Banister challenged the ruling; the call was upheld by replay"
-"ANA201508030",27,"Indians third baseman Lonnie Chisenhall left the game due to an injured neck"
-"ANA201508080",11,"replay,2,hardj003,BAL,davig901,ANA01,,Y,M,ANA,A $when Jonathan Schoop was called safe at HP, Angels manager Mike Scioscia challenged the ruling; the call was overturned by replay"
-"ANA201508080",74,"replay,9,murpd005,ANA,davig901,ANA01,,Y,M,BAL,A $when Mike Trout was called safe at HP, Orioles manager Buck Showalter challenged the ruling; the call was overturned by replay"
-"ANA201508090",9,"replay,1,calhk001,ANA,davig901,ANA01,O,Y,U,,H $Kole Calhoun's fly struck the top of the wall and the railing behind the wall; the ball caromed back onto the field and Calhoun reached 2B; crew chief Gerry Davis requested a review, which overturned the call to a home run"
-"ANA201508090",28,"replay,3,murpd005,ANA,davig901,ANA01,O,N,U,,H David Murphy's fly to RF was caught by a fan in the first row; the umpires huddled and crew chief Gerry Davis requested a review; the call was upheld by replay"
-"ANA201508190",71,"replay,9,laroa001,CHA,demud901,ANA01,,Y,M,ANA,C $when Adam LaRoche was called safe at 1B, Angels manager Mike Scioscia challenged the ruling; the call was overturned by replay, thus ending the game"
-"ANA201508200",38,"replay,5,abrej003,CHA,demud901,ANA01,,Y,M,CHA,O $when Jose Abreu's line drive down the LF line was ruled foul; White Sox manager Robin Ventura challenged the ruling; the call was overturned by replay, scoring two runs"
-"ANA201508230",49,"replay,5,murpd005,ANA,nelsj901,ANA01,,Y,M,TOR,A $when David Murphy was called safe at 2B, Blue Jays manager John Gibbons challenged the ruling; the call was overturned by replay"
-"ANA201509040",48,"replay,6,odorr001,TEX,wintm901,ANA01,,N,M,ANA,M $when Mitch Moreland was doubled off 2B and Prince Fielder was ruled to have scored before the third out, Angels manager Mike Scioscia challenged the ruling; the call was upheld by replay"
-"ANA201509060",7,"replay,1,troum001,ANA,wintm901,ANA01,O,N,U,,H $Mike Trout's fly to RF struck the railing on top of the wall and was ruled a home run; crew chief Mike Winters requested a review, which upheld the call"
-"ANA201509070",45,"replay,5,calhk001,ANA,carlm901,ANA01,O,N,U,,H $Kole Calhoun's fly to RF was touched by a fan at the top of the wall and caromed off the top of the wall back onto the field; the ball was ruled a home run; acting crew chief Mark Carlson requested a review, which upheld the call"
-"ANA201509080",63,"ej,sciom001,M,gibsh902,Checked swing Angels Manager Mike Scioscia ejected by 3B umpire Tripp Gibson"
-"ANA201509080",82,"replay,9,dejed001,ANA,carlm901,ANA01,,N,M,ANA,C $when David DeJesus was called out at 1B, Angels acting manager Dino Ebel challenged the ruling; the call was upheld by replay"
-"ANA201509090",33,"replay,5,vanss001,LAN,carlm901,ANA01,,Y,M,ANA,A $when Corey Seager was called safe at 1B on a pickoff attempt, Angels manager Mike Scioscia challenged the ruling; the call was overturned by replay"
-"ANA201509110",22,"$when Taylor Featherston was called safe at HP, Astros manager A.J. Hinch challenged the ruling; the call was upheld by replay"
-"ANA201509120",3,"replay,1,corrc001,HOU,hallt901,ANA01,,Y,M,ANA,A $when Jose Altuve was called safe at 2B, Angels manager Mike Scioscia challenged the ruling; the call was overturned by replay"
-"ANA201509260",54,"replay,6,giavj001,ANA,wendh902,ANA01,,Y,M,SEA,A $when Chris Iannetta was called safe at 1B, Mariners manager Lloyd McClendon challenged the ruling; the call was overturned by replay"
-"ANA201509270",32,"replay,5,millb002,SEA,wendh902,ANA01,,Y,M,ANA,A $when Logan Morrison was called safe at 2B, Angels manager Mike Scioscia challenged the ruling; the call was overturned by replay"
-"ANA201509300",65,"$run scored by Canha originally unearned for Gott, changed on 10-02-2015 to earned for Gott, but unearned for team"
-"ANA201504110",3,"replay,1,cainl001,KCA,millb901,ANA01,,N,M,ANA,A $when Mike Moustakas was called safe at 2B, Angels manager Mike Scioscia challenged the ruling; the call was upheld by replay"
-"ANA201504210",17,"$when C.J. Cron was called out at 1B, Angels manager Mike Scioscia challenged the ruling; the call was overturned by replay"
-"ANA201504210",75,"$Ike Davis pitched for the Athletics"
-"ANA201504220",2,"replay,1,canhm001,OAK,wintm901,ANA01,,N,M,ANA,A $when Sam Fuld was called safe at 2B, Angels manager Mike Scioscia challenged the ruling; the call was upheld by replay"
-"ANA201504260",38,"replay,4,joycm001,ANA,reynj901,ANA01,,Y,M,TEX,A $when C.J. Cron was called safe at 3B, Rangers manager Jeff Banister challenged the ruling; the call was overturned by replay"
-"ANA201504260",67,"replay,8,andre001,TEX,reynj901,ANA01,,Y,M,ANA,N ej,banij001,M,gonza901,Replay ruling $when Elvis Andrus' fly to RF was ruled a foul ball, Angels manager Mike Scioscia challenged the ruling; the call was overturned to fan interference and Andrus called out; Rangers manager Jeff Banister ejected by HP umpire Manny Gonzalez for arguing the changed call"
-"ANA201505050",53,"$Erick Aybar called for interference for running into his own bunt"
-"ANA201505080",21,"$originally scored as E5, changed to single on 05-13-2015"
-"ANA201505130",0,"$Rockies manager Walt Weiss had an emergency appendectomy today; bench coach Tom Runnells acting manager"
-"ANA201505130",10,"Rockies pitcher Jordan Lyles left the game due to an injured hand"
-"ANA201505130",79,"replay,11,descd001,COL,davig901,ANA01,,Y,M,ANA,A $when Carlos Gonzalez was called safe at HP, Angels manager Mike Scioscia challenged the ruling; the call was overturned by replay"
-"ANA201505250",49,"replay,5,joycm001,ANA,barrt901,ANA01,,N,M,SDN,A $when Erick Aybar was called safe at HP, Padres manager Bud Black challenged the ruling, the call was upheld by replay"
-"ANA201505260",68,"replay,9,calhk001,ANA,barrt901,ANA01,,Y,M,SDN,C $when Kole Calhoun was called safe at 1B, Padres manager Mike Scioscia challenged the ruling; the call was overturned by replay"
-"ANA201505270",2,"replay,1,venaw001,SDN,barrt901,ANA01,,Y,M,ANA,A $when Yangervis Solarte was called safe at 1B, Angels manager Mike Scioscia challenged the ruling; the call was overturned by replay"
-"ANA201505270",7,"replay,1,pujoa001,ANA,barrt901,ANA01,,Y,M,ANA,A $when Erick Aybar was called out at 2B, Angels manager Mike Scioscia challenged the ruling; the call was overturned by replay"
-"ANA201505280",41,"Angels shortstop Erick Aybar left the game due to an injured leg"
-"ANA201505300",3,"replay,1,cabrm001,DET,davig901,ANA01,,N,M,DET,A $when Miguel Cabrera was called out at 2B, Tigers manager Brad Ausmus challenged the ruling; the call was upheld by replay"
-"ANA201505310",69,"$originally acored as single, changed to error on 06-05-2015, making both runs in inning unearned"
-"ANA201506020",69,"replay,9,guyeb001,TBA,kellj901,ANA01,,N,M,TBA,C $when Brandon Guyer was called out at 1B, Rays manager Kevin Cash challenged the ruling; the call was upheld by replay"
-"ANA201506030",15,"replay,2,guyeb001,TBA,kellj901,ANA01,,N,M,TBA,A $when Mikie Mahtook was called out at 2B, Rays manager Kevin Cash challenged the ruling; the call was upheld by replay; Mahtook slid by 2B"
-"ANA201506030",75,"replay,9,navae001,ANA,kellj901,ANA01,,N,U,,A $when Taylor Featherston was called safe at 1B on a pickoff attempt, crew chief Jeff Kellogg requested a review; the call was upheld by replay"
-"ANA201506120",38,"replay,5,reddj001,OAK,barrt901,ANA01,,N,M,ANA,A $when Mark Canha was called safe at 2B, Angels manager Mike Scioscia challenged the ruling; the call was upheld by replay"
-"ANA201506120",52,"ej,sciom001,M,conrc901,Call at 1B Angels Manager Mike Scioscia ejected by 1B umpire Chris Conroy; Scioscia had challenged and lost earlier in the game and could not challenge this call; the umpires cannot look on their own until the seventh inning"
-"ANA201506150",4,"Diamondbacks left fielder Ender Inciarte left the game due to an injured leg"
-"ANA201506150",30,"replay,4,pujoa001,ANA,millb901,ANA01,,N,M,ANA,C $when Albert Pujols was called out at 1B, Angels manager Mike Scioscia challenged the ruling; the call was upheld by replay"
-"ANA201506150",71,"replay,9,polla001,ARI,millb901,ANA01,,N,U,,A $when Nick Ahmed was called safe at HP, crew chief Bill Miller requested a review; the call was upheld by replay"
-"ANA201506220",11,"replay,2,freed001,ANA,hirsj901,ANA01,,Y,M,HOU,A $when Albert Pujols was called out at 2B, Astros manager A.J. Hinch challenged the rulin; the call was overturned by replay"
-"ANA201506230",23,"replay,3,gatte001,HOU,hirsj901,ANA01,,Y,M,ANA,C $when Evan Gattis was called safe at 1B, Angels manager Mike Scioscia challenged the ruling; the call was overturned by replay"
-"ANA201506240",68,"replay,9,gatte001,HOU,hirsj901,ANA01,,N,M,HOU,A $when George Springer was called out at 1B, Astros manager A.J. Hinch challenged the ruling; the call was upheld by replay"
-"ANA201506240",69,"replay,9,gatte001,HOU,hirsj901,ANA01,,N,U,,A $when Evan Gattis was called out at 2B, crew chief John Hirschbeck requested a review; the call was upheld by replay"
-"ANA201506240",77,"replay,10,castj006,HOU,hirsj901,ANA01,,N,U,,A $when Marwin Gonzalez was called out at 2B, crew chief John Hirschbeck requested a review; the call was upheld by replay"
-"ANA201506260",18,"$Mike Zunino called for interference for running into his own bunt"
-"ANA201506260",20,"replay,3,jacka001,SEA,nelsj901,ANA01,,N,M,SEA,C $when Austin Jackson was called out at 1B, Mariners manager Lloyd McClendon challenged the ruling; the call was upheld by replay"
-"ANA201506260",28,"replay,4,aybae001,ANA,nelsj901,ANA01,,N,M,ANA,A $when Erick Aybar was called out at 3B, Angels manager Mike Scioscia challenged the ruling; the call was upheld by replay"
-"ANA201506260",51,"Angels shortstop Erick Aybar left the game due to an injured leg"
-"ANA201506270",43,"$Robinson Cano was struck on the forehead by an errant throw during the between-inning warmups by the Angels; Cano was in the dugout at the time"
-"ANA201506270",48,"$Robinson Cano left with dizziness"
-"ANA201506290",4,"replay,1,teixm001,NYA,culbf901,ANA01,,Y,M,ANA,A $when Brett Gardner was called safe at 3B, Angels manager Mike Scioscia challenged the ruling; the call was overturned by replay"
-"ANA201506300",24,"replay,3,pujoa001,ANA,culbf901,ANA01,,N,M,ANA,A $when Mike Trout was called out at 2B, Angels manager Mike Scioscia challenged the ruling; the call was upheld by replay"
-"ANA201506300",53,"replay,7,giavj001,ANA,culbf901,ANA01,,N,U,,C $when Johnny Giavotella was called out at 1B, crew chief Fieldin Culbreth requested a review; the call was upheld by replay"
-"ANA201507170",59,"replay,8,iannc001,ANA,wendh902,ANA01,,N,M,BOS,C $when Taylor Featherston was called safe at 1B, Red Sox manager John Farrell challenged the ruling; the call was upheld by replay"
-"ANA201507210",16,"replay,2,iannc001,ANA,westj901,ANA01,,Y,M,MIN,A $when Matt Joyce was called safe at 3B, Twins manager Paul Molitor challenged the ruling; the call was overturned by replay"
-"ANA201507210",46,"$originally scored as fielder's choice, changed to error on 07-31-2015, making Pujols' run unearned"
-"ANA201507220",55,"replay,6,joycm001,ANA,westj901,ANA01,,Y,M,MIN,A $when Taylor Featherston was called safe at 2B on a pickoff attempt, Twins manager Paul Molitor challenged the ruling; the call was overturned by replay"
-"ANA201507220",67,"replay,7,featt001,ANA,westj901,ANA01,,Y,M,MIN,A $when Kole Calhoun was called safe at HP, Twins manager Paul Molitor challenged the ruling; the call was overturned by replay"
-"ANA201507230",63,"replay,9,rosae001,MIN,westj901,ANA01,,Y,M,ANA,A $when Eddie Rosario was called safe at 2B, Angels manager Mike Scioscia challenged the ruling; the call was overturned by replay"
-"ANA201507240",49,"replay,7,choos001,TEX,vanol901,ANA01,,N,M,ANA,C $when Shin-Soo Choo was called safe at 1B, Angels manager Mike Scioscia challenged the ruling; the call was upheld by replay"
-"ANA201507260",9,"replay,2,fielp001,TEX,vanol901,ANA01,,N,M,TEX,C $when Prince Fielder was called out at 1B, Rangers manager Jeff Banister challenged the ruling; the call was upheld by replay"
-"ANA201508030",27,"Indians third baseman Lonnie Chisenhall left the game due to an injured neck"
-"ANA201508080",11,"replay,2,hardj003,BAL,davig901,ANA01,,Y,M,ANA,A $when Jonathan Schoop was called safe at HP, Angels manager Mike Scioscia challenged the ruling; the call was overturned by replay"
-"ANA201508080",74,"replay,9,murpd005,ANA,davig901,ANA01,,Y,M,BAL,A $when Mike Trout was called safe at HP, Orioles manager Buck Showalter challenged the ruling; the call was overturned by replay"
-"ANA201508090",9,"replay,1,calhk001,ANA,davig901,ANA01,O,Y,U,,H $Kole Calhoun's fly struck the top of the wall and the railing behind the wall; the ball caromed back onto the field and Calhoun reached 2B; crew chief Gerry Davis requested a review, which overturned the call to a home run"
-"ANA201508090",28,"replay,3,murpd005,ANA,davig901,ANA01,O,N,U,,H David Murphy's fly to RF was caught by a fan in the first row; the umpires huddled and crew chief Gerry Davis requested a review; the call was upheld by replay"
-"ANA201508190",71,"replay,9,laroa001,CHA,demud901,ANA01,,Y,M,ANA,C $when Adam LaRoche was called safe at 1B, Angels manager Mike Scioscia challenged the ruling; the call was overturned by replay, thus ending the game"
-"ANA201508200",38,"replay,5,abrej003,CHA,demud901,ANA01,,Y,M,CHA,O $when Jose Abreu's line drive down the LF line was ruled foul; White Sox manager Robin Ventura challenged the ruling; the call was overturned by replay, scoring two runs"
-"ANA201508230",49,"replay,5,murpd005,ANA,nelsj901,ANA01,,Y,M,TOR,A $when David Murphy was called safe at 2B, Blue Jays manager John Gibbons challenged the ruling; the call was overturned by replay"
-"ANA201509040",48,"replay,6,odorr001,TEX,wintm901,ANA01,,N,M,ANA,M $when Mitch Moreland was doubled off 2B and Prince Fielder was ruled to have scored before the third out, Angels manager Mike Scioscia challenged the ruling; the call was upheld by replay"
-"ANA201509060",7,"replay,1,troum001,ANA,wintm901,ANA01,O,N,U,,H $Mike Trout's fly to RF struck the railing on top of the wall and was ruled a home run; crew chief Mike Winters requested a review, which upheld the call"
-"ANA201509070",45,"replay,5,calhk001,ANA,carlm901,ANA01,O,N,U,,H $Kole Calhoun's fly to RF was touched by a fan at the top of the wall and caromed off the top of the wall back onto the field; the ball was ruled a home run; acting crew chief Mark Carlson requested a review, which upheld the call"
-"ANA201509080",63,"ej,sciom001,M,gibsh902,Checked swing Angels Manager Mike Scioscia ejected by 3B umpire Tripp Gibson"
-"ANA201509080",82,"replay,9,dejed001,ANA,carlm901,ANA01,,N,M,ANA,C $when David DeJesus was called out at 1B, Angels acting manager Dino Ebel challenged the ruling; the call was upheld by replay"
-"ANA201509090",33,"replay,5,vanss001,LAN,carlm901,ANA01,,Y,M,ANA,A $when Corey Seager was called safe at 1B on a pickoff attempt, Angels manager Mike Scioscia challenged the ruling; the call was overturned by replay"
-"ANA201509110",22,"$when Taylor Featherston was called safe at HP, Astros manager A.J. Hinch challenged the ruling; the call was upheld by replay"
-"ANA201509120",3,"replay,1,corrc001,HOU,hallt901,ANA01,,Y,M,ANA,A $when Jose Altuve was called safe at 2B, Angels manager Mike Scioscia challenged the ruling; the call was overturned by replay"
-"ANA201509260",54,"replay,6,giavj001,ANA,wendh902,ANA01,,Y,M,SEA,A $when Chris Iannetta was called safe at 1B, Mariners manager Lloyd McClendon challenged the ruling; the call was overturned by replay"
-"ANA201509270",32,"replay,5,millb002,SEA,wendh902,ANA01,,Y,M,ANA,A $when Logan Morrison was called safe at 2B, Angels manager Mike Scioscia challenged the ruling; the call was overturned by replay"
-"ANA201509300",65,"$run scored by Canha originally unearned for Gott, changed on 10-02-2015 to earned for Gott, but unearned for team"
+"ANA201504110",3,"replay,1,cainl001,KCA,millb901,ANA01,,N,M,ANA,A $when Mike Moustakas was called safe at 2B, Angels manager Mike Scioscia challenged the ruling; the call was upheld by replay"FILENAME_TX","LINE_NUMBER_CT"
+
+"ANA201504210",17,"$when C.J. Cron was called out at 1B, Angels manager Mike Scioscia challenged the ruling; the call was overturned by replay"2015ANA.EVA.regular.comment.csv",2
+
+"ANA201504210",75,"$Ike Davis pitched for the Athletics"2015ANA.EVA.regular.comment.csv",3
+
+"ANA201504220",2,"replay,1,canhm001,OAK,wintm901,ANA01,,N,M,ANA,A $when Sam Fuld was called safe at 2B, Angels manager Mike Scioscia challenged the ruling; the call was upheld by replay"2015ANA.EVA.regular.comment.csv",4
+
+"ANA201504260",38,"replay,4,joycm001,ANA,reynj901,ANA01,,Y,M,TEX,A $when C.J. Cron was called safe at 3B, Rangers manager Jeff Banister challenged the ruling; the call was overturned by replay"2015ANA.EVA.regular.comment.csv",5
+
+"ANA201504260",67,"replay,8,andre001,TEX,reynj901,ANA01,,Y,M,ANA,N ej,banij001,M,gonza901,Replay ruling $when Elvis Andrus' fly to RF was ruled a foul ball, Angels manager Mike Scioscia challenged the ruling; the call was overturned to fan interference and Andrus called out; Rangers manager Jeff Banister ejected by HP umpire Manny Gonzalez for arguing the changed call"2015ANA.EVA.regular.comment.csv",6
+
+"ANA201505050",53,"$Erick Aybar called for interference for running into his own bunt"2015ANA.EVA.regular.comment.csv",7
+
+"ANA201505080",21,"$originally scored as E5, changed to single on 05-13-2015"2015ANA.EVA.regular.comment.csv",8
+
+"ANA201505130",0,"$Rockies manager Walt Weiss had an emergency appendectomy today; bench coach Tom Runnells acting manager"2015ANA.EVA.regular.comment.csv",9
+
+"ANA201505130",10,"Rockies pitcher Jordan Lyles left the game due to an injured hand"2015ANA.EVA.regular.comment.csv",10
+
+"ANA201505130",79,"replay,11,descd001,COL,davig901,ANA01,,Y,M,ANA,A $when Carlos Gonzalez was called safe at HP, Angels manager Mike Scioscia challenged the ruling; the call was overturned by replay"2015ANA.EVA.regular.comment.csv",11
+
+"ANA201505250",49,"replay,5,joycm001,ANA,barrt901,ANA01,,N,M,SDN,A $when Erick Aybar was called safe at HP, Padres manager Bud Black challenged the ruling, the call was upheld by replay"2015ANA.EVA.regular.comment.csv",12
+
+"ANA201505260",68,"replay,9,calhk001,ANA,barrt901,ANA01,,Y,M,SDN,C $when Kole Calhoun was called safe at 1B, Padres manager Mike Scioscia challenged the ruling; the call was overturned by replay"2015ANA.EVA.regular.comment.csv",13
+
+"ANA201505270",2,"replay,1,venaw001,SDN,barrt901,ANA01,,Y,M,ANA,A $when Yangervis Solarte was called safe at 1B, Angels manager Mike Scioscia challenged the ruling; the call was overturned by replay"2015ANA.EVA.regular.comment.csv",14
+
+"ANA201505270",7,"replay,1,pujoa001,ANA,barrt901,ANA01,,Y,M,ANA,A $when Erick Aybar was called out at 2B, Angels manager Mike Scioscia challenged the ruling; the call was overturned by replay"2015ANA.EVA.regular.comment.csv",15
+
+"ANA201505280",41,"Angels shortstop Erick Aybar left the game due to an injured leg"2015ANA.EVA.regular.comment.csv",16
+
+"ANA201505300",3,"replay,1,cabrm001,DET,davig901,ANA01,,N,M,DET,A $when Miguel Cabrera was called out at 2B, Tigers manager Brad Ausmus challenged the ruling; the call was upheld by replay"2015ANA.EVA.regular.comment.csv",17
+
+"ANA201505310",69,"$originally acored as single, changed to error on 06-05-2015, making both runs in inning unearned"2015ANA.EVA.regular.comment.csv",18
+
+"ANA201506020",69,"replay,9,guyeb001,TBA,kellj901,ANA01,,N,M,TBA,C $when Brandon Guyer was called out at 1B, Rays manager Kevin Cash challenged the ruling; the call was upheld by replay"2015ANA.EVA.regular.comment.csv",19
+
+"ANA201506030",15,"replay,2,guyeb001,TBA,kellj901,ANA01,,N,M,TBA,A $when Mikie Mahtook was called out at 2B, Rays manager Kevin Cash challenged the ruling; the call was upheld by replay; Mahtook slid by 2B"2015ANA.EVA.regular.comment.csv",20
+
+"ANA201506030",75,"replay,9,navae001,ANA,kellj901,ANA01,,N,U,,A $when Taylor Featherston was called safe at 1B on a pickoff attempt, crew chief Jeff Kellogg requested a review; the call was upheld by replay"2015ANA.EVA.regular.comment.csv",21
+
+"ANA201506120",38,"replay,5,reddj001,OAK,barrt901,ANA01,,N,M,ANA,A $when Mark Canha was called safe at 2B, Angels manager Mike Scioscia challenged the ruling; the call was upheld by replay"2015ANA.EVA.regular.comment.csv",22
+
+"ANA201506120",52,"ej,sciom001,M,conrc901,Call at 1B Angels Manager Mike Scioscia ejected by 1B umpire Chris Conroy; Scioscia had challenged and lost earlier in the game and could not challenge this call; the umpires cannot look on their own until the seventh inning"2015ANA.EVA.regular.comment.csv",23
+
+"ANA201506150",4,"Diamondbacks left fielder Ender Inciarte left the game due to an injured leg"2015ANA.EVA.regular.comment.csv",24
+
+"ANA201506150",30,"replay,4,pujoa001,ANA,millb901,ANA01,,N,M,ANA,C $when Albert Pujols was called out at 1B, Angels manager Mike Scioscia challenged the ruling; the call was upheld by replay"2015ANA.EVA.regular.comment.csv",25
+
+"ANA201506150",71,"replay,9,polla001,ARI,millb901,ANA01,,N,U,,A $when Nick Ahmed was called safe at HP, crew chief Bill Miller requested a review; the call was upheld by replay"2015ANA.EVA.regular.comment.csv",26
+
+"ANA201506220",11,"replay,2,freed001,ANA,hirsj901,ANA01,,Y,M,HOU,A $when Albert Pujols was called out at 2B, Astros manager A.J. Hinch challenged the rulin; the call was overturned by replay"2015ANA.EVA.regular.comment.csv",27
+
+"ANA201506230",23,"replay,3,gatte001,HOU,hirsj901,ANA01,,Y,M,ANA,C $when Evan Gattis was called safe at 1B, Angels manager Mike Scioscia challenged the ruling; the call was overturned by replay"2015ANA.EVA.regular.comment.csv",28
+
+"ANA201506240",68,"replay,9,gatte001,HOU,hirsj901,ANA01,,N,M,HOU,A $when George Springer was called out at 1B, Astros manager A.J. Hinch challenged the ruling; the call was upheld by replay"2015ANA.EVA.regular.comment.csv",29
+
+"ANA201506240",69,"replay,9,gatte001,HOU,hirsj901,ANA01,,N,U,,A $when Evan Gattis was called out at 2B, crew chief John Hirschbeck requested a review; the call was upheld by replay"2015ANA.EVA.regular.comment.csv",30
+
+"ANA201506240",77,"replay,10,castj006,HOU,hirsj901,ANA01,,N,U,,A $when Marwin Gonzalez was called out at 2B, crew chief John Hirschbeck requested a review; the call was upheld by replay"2015ANA.EVA.regular.comment.csv",31
+
+"ANA201506260",18,"$Mike Zunino called for interference for running into his own bunt"2015ANA.EVA.regular.comment.csv",32
+
+"ANA201506260",20,"replay,3,jacka001,SEA,nelsj901,ANA01,,N,M,SEA,C $when Austin Jackson was called out at 1B, Mariners manager Lloyd McClendon challenged the ruling; the call was upheld by replay"2015ANA.EVA.regular.comment.csv",33
+
+"ANA201506260",28,"replay,4,aybae001,ANA,nelsj901,ANA01,,N,M,ANA,A $when Erick Aybar was called out at 3B, Angels manager Mike Scioscia challenged the ruling; the call was upheld by replay"2015ANA.EVA.regular.comment.csv",34
+
+"ANA201506260",51,"Angels shortstop Erick Aybar left the game due to an injured leg"2015ANA.EVA.regular.comment.csv",35
+
+"ANA201506270",43,"$Robinson Cano was struck on the forehead by an errant throw during the between-inning warmups by the Angels; Cano was in the dugout at the time"2015ANA.EVA.regular.comment.csv",36
+
+"ANA201506270",48,"$Robinson Cano left with dizziness"2015ANA.EVA.regular.comment.csv",37
+
+"ANA201506290",4,"replay,1,teixm001,NYA,culbf901,ANA01,,Y,M,ANA,A $when Brett Gardner was called safe at 3B, Angels manager Mike Scioscia challenged the ruling; the call was overturned by replay"2015ANA.EVA.regular.comment.csv",38
+
+"ANA201506300",24,"replay,3,pujoa001,ANA,culbf901,ANA01,,N,M,ANA,A $when Mike Trout was called out at 2B, Angels manager Mike Scioscia challenged the ruling; the call was upheld by replay"2015ANA.EVA.regular.comment.csv",39
+
+"ANA201506300",53,"replay,7,giavj001,ANA,culbf901,ANA01,,N,U,,C $when Johnny Giavotella was called out at 1B, crew chief Fieldin Culbreth requested a review; the call was upheld by replay"2015ANA.EVA.regular.comment.csv",40
+
+"ANA201507170",59,"replay,8,iannc001,ANA,wendh902,ANA01,,N,M,BOS,C $when Taylor Featherston was called safe at 1B, Red Sox manager John Farrell challenged the ruling; the call was upheld by replay"2015ANA.EVA.regular.comment.csv",41
+
+"ANA201507210",16,"replay,2,iannc001,ANA,westj901,ANA01,,Y,M,MIN,A $when Matt Joyce was called safe at 3B, Twins manager Paul Molitor challenged the ruling; the call was overturned by replay"2015ANA.EVA.regular.comment.csv",42
+
+"ANA201507210",46,"$originally scored as fielder's choice, changed to error on 07-31-2015, making Pujols' run unearned"2015ANA.EVA.regular.comment.csv",43
+
+"ANA201507220",55,"replay,6,joycm001,ANA,westj901,ANA01,,Y,M,MIN,A $when Taylor Featherston was called safe at 2B on a pickoff attempt, Twins manager Paul Molitor challenged the ruling; the call was overturned by replay"2015ANA.EVA.regular.comment.csv",44
+
+"ANA201507220",67,"replay,7,featt001,ANA,westj901,ANA01,,Y,M,MIN,A $when Kole Calhoun was called safe at HP, Twins manager Paul Molitor challenged the ruling; the call was overturned by replay"2015ANA.EVA.regular.comment.csv",45
+
+"ANA201507230",63,"replay,9,rosae001,MIN,westj901,ANA01,,Y,M,ANA,A $when Eddie Rosario was called safe at 2B, Angels manager Mike Scioscia challenged the ruling; the call was overturned by replay"2015ANA.EVA.regular.comment.csv",46
+
+"ANA201507240",49,"replay,7,choos001,TEX,vanol901,ANA01,,N,M,ANA,C $when Shin-Soo Choo was called safe at 1B, Angels manager Mike Scioscia challenged the ruling; the call was upheld by replay"2015ANA.EVA.regular.comment.csv",47
+
+"ANA201507260",9,"replay,2,fielp001,TEX,vanol901,ANA01,,N,M,TEX,C $when Prince Fielder was called out at 1B, Rangers manager Jeff Banister challenged the ruling; the call was upheld by replay"2015ANA.EVA.regular.comment.csv",48
+
+"ANA201508030",27,"Indians third baseman Lonnie Chisenhall left the game due to an injured neck"2015ANA.EVA.regular.comment.csv",49
+
+"ANA201508080",11,"replay,2,hardj003,BAL,davig901,ANA01,,Y,M,ANA,A $when Jonathan Schoop was called safe at HP, Angels manager Mike Scioscia challenged the ruling; the call was overturned by replay"2015ANA.EVA.regular.comment.csv",50
+
+"ANA201508080",74,"replay,9,murpd005,ANA,davig901,ANA01,,Y,M,BAL,A $when Mike Trout was called safe at HP, Orioles manager Buck Showalter challenged the ruling; the call was overturned by replay"2015ANA.EVA.regular.comment.csv",51
+
+"ANA201508090",9,"replay,1,calhk001,ANA,davig901,ANA01,O,Y,U,,H $Kole Calhoun's fly struck the top of the wall and the railing behind the wall; the ball caromed back onto the field and Calhoun reached 2B; crew chief Gerry Davis requested a review, which overturned the call to a home run"2015ANA.EVA.regular.comment.csv",52
+
+"ANA201508090",28,"replay,3,murpd005,ANA,davig901,ANA01,O,N,U,,H David Murphy's fly to RF was caught by a fan in the first row; the umpires huddled and crew chief Gerry Davis requested a review; the call was upheld by replay"2015ANA.EVA.regular.comment.csv",53
+
+"ANA201508190",71,"replay,9,laroa001,CHA,demud901,ANA01,,Y,M,ANA,C $when Adam LaRoche was called safe at 1B, Angels manager Mike Scioscia challenged the ruling; the call was overturned by replay, thus ending the game"2015ANA.EVA.regular.comment.csv",54
+
+"ANA201508200",38,"replay,5,abrej003,CHA,demud901,ANA01,,Y,M,CHA,O $when Jose Abreu's line drive down the LF line was ruled foul; White Sox manager Robin Ventura challenged the ruling; the call was overturned by replay, scoring two runs"2015ANA.EVA.regular.comment.csv",55
+
+"ANA201508230",49,"replay,5,murpd005,ANA,nelsj901,ANA01,,Y,M,TOR,A $when David Murphy was called safe at 2B, Blue Jays manager John Gibbons challenged the ruling; the call was overturned by replay"2015ANA.EVA.regular.comment.csv",56
+
+"ANA201509040",48,"replay,6,odorr001,TEX,wintm901,ANA01,,N,M,ANA,M $when Mitch Moreland was doubled off 2B and Prince Fielder was ruled to have scored before the third out, Angels manager Mike Scioscia challenged the ruling; the call was upheld by replay"2015ANA.EVA.regular.comment.csv",57
+
+"ANA201509060",7,"replay,1,troum001,ANA,wintm901,ANA01,O,N,U,,H $Mike Trout's fly to RF struck the railing on top of the wall and was ruled a home run; crew chief Mike Winters requested a review, which upheld the call"2015ANA.EVA.regular.comment.csv",58
+
+"ANA201509070",45,"replay,5,calhk001,ANA,carlm901,ANA01,O,N,U,,H $Kole Calhoun's fly to RF was touched by a fan at the top of the wall and caromed off the top of the wall back onto the field; the ball was ruled a home run; acting crew chief Mark Carlson requested a review, which upheld the call"2015ANA.EVA.regular.comment.csv",59
+
+"ANA201509080",63,"ej,sciom001,M,gibsh902,Checked swing Angels Manager Mike Scioscia ejected by 3B umpire Tripp Gibson"2015ANA.EVA.regular.comment.csv",60
+
+"ANA201509080",82,"replay,9,dejed001,ANA,carlm901,ANA01,,N,M,ANA,C $when David DeJesus was called out at 1B, Angels acting manager Dino Ebel challenged the ruling; the call was upheld by replay"2015ANA.EVA.regular.comment.csv",61
+
+"ANA201509090",33,"replay,5,vanss001,LAN,carlm901,ANA01,,Y,M,ANA,A $when Corey Seager was called safe at 1B on a pickoff attempt, Angels manager Mike Scioscia challenged the ruling; the call was overturned by replay"2015ANA.EVA.regular.comment.csv",62
+
+"ANA201509110",22,"$when Taylor Featherston was called safe at HP, Astros manager A.J. Hinch challenged the ruling; the call was upheld by replay"2015ANA.EVA.regular.comment.csv",63
+
+"ANA201509120",3,"replay,1,corrc001,HOU,hallt901,ANA01,,Y,M,ANA,A $when Jose Altuve was called safe at 2B, Angels manager Mike Scioscia challenged the ruling; the call was overturned by replay"2015ANA.EVA.regular.comment.csv",64
+
+"ANA201509260",54,"replay,6,giavj001,ANA,wendh902,ANA01,,Y,M,SEA,A $when Chris Iannetta was called safe at 1B, Mariners manager Lloyd McClendon challenged the ruling; the call was overturned by replay"2015ANA.EVA.regular.comment.csv",65
+
+"ANA201509270",32,"replay,5,millb002,SEA,wendh902,ANA01,,Y,M,ANA,A $when Logan Morrison was called safe at 2B, Angels manager Mike Scioscia challenged the ruling; the call was overturned by replay"2015ANA.EVA.regular.comment.csv",66
+
+"ANA201509300",65,"$run scored by Canha originally unearned for Gott, changed on 10-02-2015 to earned for Gott, but unearned for team"2015ANA.EVA.regular.comment.csv",67
+

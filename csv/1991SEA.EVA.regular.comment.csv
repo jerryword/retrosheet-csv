@@ -1,29 +1,28 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"SEA199104090",0,"$game started in a haze leftover from fireworks"
-"SEA199104090",59,"$Lance Parrish caught pop carrom off speaker;  HP umpire Jim McKean called Edgar Martinez out; overruled after an argument"
-"SEA199105040",7,"Ken Griffey Jr's bat slipped out of his hand toward pitcher Chuck Cary; both benches cleared"
-"SEA199105270",19,"Debut game for Rich Amaral"
-"SEA199106140",42,"Debut game for Calvin Jones"
-"SEA199107060",31,"$200th steal for Harold Reynolds"
-"SEA199107300",52,"Debut game for Stacy Jones"
-"SEA199108270",57,"ej,gantj001,P,brinj901,Balls and strikes Jim Gantner ejected by HP umpire Joe Brinkman"
-"SEA199108310",72,"Michael Jackson left with strained right knee"
-"SEA199109160",1,"$Devon White's fly hit a speaker; would have been homer"
-"SEA199109180",69,"$Rob Ducey collided with catcher Scott Bradley with Ducey's head hitting Bradley's helmet; Ducey was carried off on stretcher; he had been unconscious"
-"SEA199109230",37,"ej,schaj001,P,barnl901,Fighting after being tagged out on bunt $Jeff Schaeffer objected to Mike Stanley's tag on the bunt; he went after Stanley and both benches cleared; Schaeffer was ejected by HP umpire Larry Barnett"
-"SEA199109240",16,"umpchange,3,ump2b,(None) umpchange,3,ump3b,fordd901 $3B umpire Larry Barnett left ill"
-"SEA199110040",0,"ej,bevit801,P,mcclt901,Call at HP White Sox manager Terry Bevington ejected by HP umpire Tim McClelland sometime in game"
-"SEA199104090",0,"$game started in a haze leftover from fireworks"
-"SEA199104090",59,"$Lance Parrish caught pop carrom off speaker;  HP umpire Jim McKean called Edgar Martinez out; overruled after an argument"
-"SEA199105040",7,"Ken Griffey Jr's bat slipped out of his hand toward pitcher Chuck Cary; both benches cleared"
-"SEA199105270",19,"Debut game for Rich Amaral"
-"SEA199106140",42,"Debut game for Calvin Jones"
-"SEA199107060",31,"$200th steal for Harold Reynolds"
-"SEA199107300",52,"Debut game for Stacy Jones"
-"SEA199108270",57,"ej,gantj001,P,brinj901,Balls and strikes Jim Gantner ejected by HP umpire Joe Brinkman"
-"SEA199108310",72,"Michael Jackson left with strained right knee"
-"SEA199109160",1,"$Devon White's fly hit a speaker; would have been homer"
-"SEA199109180",69,"$Rob Ducey collided with catcher Scott Bradley with Ducey's head hitting Bradley's helmet; Ducey was carried off on stretcher; he had been unconscious"
-"SEA199109230",37,"ej,schaj001,P,barnl901,Fighting $Schaefer ejected by HP umpire Barnett for fighting after pitcher's tag; benches cleared"
-"SEA199109240",16,"umpchange,3,ump2b,(None) umpchange,3,ump3b,fordd901 $3B umpire Larry Barnett left ill"
-"SEA199110040",0,"ej,bevit801,P,mcclt901,Call at HP White Sox manager Terry Bevington ejected by HP umpire Tim McClelland sometime in game"
+"SEA199104090",0,"$game started in a haze leftover from fireworks"FILENAME_TX","LINE_NUMBER_CT"
+
+"SEA199104090",59,"$Lance Parrish caught pop carrom off speaker;  HP umpire Jim McKean called Edgar Martinez out; overruled after an argument"1991SEA.EVA.regular.comment.csv",2
+
+"SEA199105040",7,"Ken Griffey Jr's bat slipped out of his hand toward pitcher Chuck Cary; both benches cleared"1991SEA.EVA.regular.comment.csv",3
+
+"SEA199105270",19,"Debut game for Rich Amaral"1991SEA.EVA.regular.comment.csv",4
+
+"SEA199106140",42,"Debut game for Calvin Jones"1991SEA.EVA.regular.comment.csv",5
+
+"SEA199107060",31,"$200th steal for Harold Reynolds"1991SEA.EVA.regular.comment.csv",6
+
+"SEA199107300",52,"Debut game for Stacy Jones"1991SEA.EVA.regular.comment.csv",7
+
+"SEA199108270",57,"ej,gantj001,P,brinj901,Balls and strikes Jim Gantner ejected by HP umpire Joe Brinkman"1991SEA.EVA.regular.comment.csv",8
+
+"SEA199108310",72,"Michael Jackson left with strained right knee"1991SEA.EVA.regular.comment.csv",9
+
+"SEA199109160",1,"$Devon White's fly hit a speaker; would have been homer"1991SEA.EVA.regular.comment.csv",10
+
+"SEA199109180",69,"$Rob Ducey collided with catcher Scott Bradley with Ducey's head hitting Bradley's helmet; Ducey was carried off on stretcher; he had been unconscious"1991SEA.EVA.regular.comment.csv",11
+
+"SEA199109230",37,"ej,schaj001,P,barnl901,Fighting $Schaefer ejected by HP umpire Barnett for fighting after pitcher's tag; benches cleared"1991SEA.EVA.regular.comment.csv",12
+
+"SEA199109240",16,"umpchange,3,ump2b,(None) umpchange,3,ump3b,fordd901 $3B umpire Larry Barnett left ill"1991SEA.EVA.regular.comment.csv",13
+
+"SEA199110040",0,"ej,bevit801,P,mcclt901,Call at HP White Sox manager Terry Bevington ejected by HP umpire Tim McClelland sometime in game"1991SEA.EVA.regular.comment.csv",14
+

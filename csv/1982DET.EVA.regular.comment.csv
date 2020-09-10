@@ -1,65 +1,64 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"DET198204150",71,"Debut game for Glenn Wilson"
-"DET198204160",0,"$1:38 rain delay before start of game"
-"DET198204200",48,"Debut game for Kelly Heath"
-"DET198205040",65,"Doug Flynn injured on last play"
-"DET198205140",12,"ej,gardb101,M,barnl901,Call at 1B $Twins manager Gardner ejected by 1B umpire Barnett for arguing that Castino was safe at 1st"
-"DET198205140",26,"ej,lemoj101,C,merrd901,Call at 3B $Twins coach Jim Lemon ejected by 3B umpire Merrill for for arguing that Chet Lemon overslid 3rd base"
-"DET198205140",37,"ej,lemoc001,P,reilm901,Charging mound after HBP $Chet Lemon ejected by HP umpire Reilly for charging mound after being hit on wrist; benches cleared, pitcher Redfern left after being stepped on during the brawl"
-"DET198205140",90,"ej,cabee001,P,reilm901,Charging mound after brushback ej,hebnr001,P,reilm901,Fighting after brushback pitch ej,davir001,P,reilm901,Fighting ej,vegaj101,P,reilm901,Fighting $Cabell ejected by HP umpire Reilly for charging mound after being hit; both benches cleared and a brawl ensued; Pitcher Davis, Tigers Hebner and Twins Vega also ejected by Reilly; Pitcher Rozema was carried off the field with severe ligament damage to his left knee and underwent surgery later"
-"DET198205150",1,"Debut game for Pete Filson"
-"DET198205160",0,"$After beanball incidents of two nights previous, both teame were warned at pre-game meeting that entire game would be played as though warnings had already been issued"
-"DET198205160",69,"ej,feltt101,P,merrd901,Throwing at batters after warning ej,gardb101,M,merrd901,Throwing at batters after warning $Pitcher Felton and Twins manager Gardner ejected by HP umpire Durwood Merrill for inside pitches after warning"
-"DET198205200",44,"ej,martb105,M,kunkb101,Called strike on Henderson for stalling Athletics manager Billy Martin ejected by 1B umpire Bill Kunkel; HP umpire John Shulock had called a strike on Rickey Henderson when Henderson was stalling during his at bat; Martin argued the ruling and was ejected by the crew chief"
-"DET198206092",0,"Suspend=19820924,,3,3,84 $45 minute rain delay before start of game"
-"DET198206092",110,"umpchange,15,umphome,hallb901 umpchange,15,ump1b,malog901 umpchange,15,ump2b,kaisk901 umpchange,15,ump3b,neudj901 suspended,19820924,DET04,curfew $suspended here for curfew after 3:38 of play; completed 9/24 with new umpires"
-"DET198206170",18,"ej,warnh801,C,hallb901,Arguing DP call Brewers coach Harry Warner ejected by 2B umpire Bill Haller"
-"DET198206300",44,"Debut game for Ed Jurak"
-"DET198207030",28,"$the ball bounced off Chet Lemon's glove over fence"
-"DET198207200",59,"$Bill Almon called out on appeal for leaving 2B early"
-"DET198207210",41,"$Aurelio Rodriguez left game with sore back"
-"DET198207210",97,"$Tom Paciorek left game with leg cramp"
-"DET198207210",102,"$Steve Kemp hurt leg sliding into 2B"
-"DET198207230",42,"$Jim Sundberg hit by the bat on Tom Brookens' backswing"
-"DET198207251",51,"$George Wright overran 2B"
-"DET198207251",73,"Debut game for Dave Gumpert"
-"DET198208090",66,"$ball hit facing of roof boxes"
-"DET198208180",72,"Debut game for Ron Musselman"
-"DET198209010",15,"Debut game for Mike Laga"
-"DET198209140",81,"ej,cabee001,P,merrd901,Balls and strikes Enos Cabell ejected by HP umpire Durwood Merrill"
-"DET198209160",66,"Debut game for Mike Brown"
-"DET198209190",53,"$Jerry Remy's 19th bunt hit of the year"
-"DET198209250",24,"$53 minute rain delay"
-"DET198209300",36,"ej,weave801,M,roe-r901,Balls and strikes Orioles manager Earl Weaver ejected by HP umpire Rocky Roe"
-"DET198204150",71,"Debut game for Glenn Wilson"
-"DET198204160",0,"$1:38 rain delay before start of game"
-"DET198204200",48,"Debut game for Kelly Heath"
-"DET198205040",65,"Doug Flynn injured on last play"
-"DET198205140",12,"ej,gardb101,M,barnl901,Call at 1B $Twins manager Gardner ejected by 1B umpire Barnett for arguing that Castino was safe at 1st"
-"DET198205140",26,"ej,lemoj101,C,merrd901,Call at 3B $Twins coach Jim Lemon ejected by 3B umpire Merrill for for arguing that Chet Lemon overslid 3rd base"
-"DET198205140",37,"ej,lemoc001,P,reilm901,Charging mound after HBP $Chet Lemon ejected by HP umpire Reilly for charging mound after being hit on wrist; benches cleared, pitcher Redfern left after being stepped on during the brawl"
-"DET198205140",90,"ej,cabee001,P,reilm901,Charging mound after brushback ej,hebnr001,P,reilm901,Fighting after brushback pitch ej,davir001,P,reilm901,Fighting ej,vegaj101,P,reilm901,Fighting $Cabell ejected by HP umpire Reilly for charging mound after being hit; both benches cleared and a brawl ensued; Pitcher Davis, Tigers Hebner and Twins Vega also ejected by Reilly; Pitcher Rozema was carried off the field with severe ligament damage to his left knee and underwent surgery later"
-"DET198205150",1,"Debut game for Pete Filson"
-"DET198205160",0,"$After beanball incidents of two nights previous, both teame were warned at pre-game meeting that entire game would be played as though warnings had already been issued"
-"DET198205160",69,"ej,feltt101,P,merrd901,Throwing at batters after warning ej,gardb101,M,merrd901,Throwing at batters after warning $Pitcher Felton and Twins manager Gardner ejected by HP umpire Durwood Merrill for inside pitches after warning"
-"DET198205200",44,"ej,martb105,M,kunkb101,Called strike on Henderson for stalling Athletics manager Billy Martin ejected by 1B umpire Bill Kunkel; HP umpire John Shulock had called a strike on Rickey Henderson when Henderson was stalling during his at bat; Martin argued the ruling and was ejected by the crew chief"
-"DET198206092",0,"Suspend=19820924,,3,3,84 $45 minute rain delay before start of game"
-"DET198206092",110,"umpchange,15,umphome,hallb901 umpchange,15,ump1b,malog901 umpchange,15,ump2b,kaisk901 umpchange,15,ump3b,neudj901 suspended,19820924,DET04,curfew $suspended here for curfew after 3:38 of play; completed 9/24 with new umpires"
-"DET198206170",18,"ej,warnh801,C,hallb901,Arguing DP call Brewers coach Harry Warner ejected by 2B umpire Bill Haller"
-"DET198206300",44,"Debut game for Ed Jurak"
-"DET198207030",28,"$the ball bounced off Chet Lemon's glove over fence"
-"DET198207200",59,"$Bill Almon called out on appeal for leaving 2B early"
-"DET198207210",41,"$Aurelio Rodriguez left game with sore back"
-"DET198207210",97,"$Tom Paciorek left game with leg cramp"
-"DET198207210",102,"$Steve Kemp hurt leg sliding into 2B"
-"DET198207230",42,"$Jim Sundberg hit by the bat on Tom Brookens' backswing"
-"DET198207251",51,"$George Wright overran 2B"
-"DET198207251",73,"Debut game for Dave Gumpert"
-"DET198208090",66,"$ball hit facing of roof boxes"
-"DET198208180",72,"Debut game for Ron Musselman"
-"DET198209010",15,"Debut game for Mike Laga"
-"DET198209140",81,"ej,cabee001,P,merrd901,Balls and strikes Enos Cabell ejected by HP umpire Durwood Merrill"
-"DET198209160",66,"Debut game for Mike Brown"
-"DET198209190",53,"$Jerry Remy's 19th bunt hit of the year"
-"DET198209250",24,"$53 minute rain delay"
-"DET198209300",36,"ej,weave801,M,roe-r901,Balls and strikes Orioles manager Earl Weaver ejected by HP umpire Rocky Roe"
+"DET198204150",71,"Debut game for Glenn Wilson"FILENAME_TX","LINE_NUMBER_CT"
+
+"DET198204160",0,"$1:38 rain delay before start of game"1982DET.EVA.regular.comment.csv",2
+
+"DET198204200",48,"Debut game for Kelly Heath"1982DET.EVA.regular.comment.csv",3
+
+"DET198205040",65,"Doug Flynn injured on last play"1982DET.EVA.regular.comment.csv",4
+
+"DET198205140",12,"ej,gardb101,M,barnl901,Call at 1B $Twins manager Gardner ejected by 1B umpire Barnett for arguing that Castino was safe at 1st"1982DET.EVA.regular.comment.csv",5
+
+"DET198205140",26,"ej,lemoj101,C,merrd901,Call at 3B $Twins coach Jim Lemon ejected by 3B umpire Merrill for for arguing that Chet Lemon overslid 3rd base"1982DET.EVA.regular.comment.csv",6
+
+"DET198205140",37,"ej,lemoc001,P,reilm901,Charging mound after HBP $Chet Lemon ejected by HP umpire Reilly for charging mound after being hit on wrist; benches cleared, pitcher Redfern left after being stepped on during the brawl"1982DET.EVA.regular.comment.csv",7
+
+"DET198205140",90,"ej,cabee001,P,reilm901,Charging mound after brushback ej,hebnr001,P,reilm901,Fighting after brushback pitch ej,davir001,P,reilm901,Fighting ej,vegaj101,P,reilm901,Fighting $Cabell ejected by HP umpire Reilly for charging mound after being hit; both benches cleared and a brawl ensued; Pitcher Davis, Tigers Hebner and Twins Vega also ejected by Reilly; Pitcher Rozema was carried off the field with severe ligament damage to his left knee and underwent surgery later"1982DET.EVA.regular.comment.csv",8
+
+"DET198205150",1,"Debut game for Pete Filson"1982DET.EVA.regular.comment.csv",9
+
+"DET198205160",0,"$After beanball incidents of two nights previous, both teame were warned at pre-game meeting that entire game would be played as though warnings had already been issued"1982DET.EVA.regular.comment.csv",10
+
+"DET198205160",69,"ej,feltt101,P,merrd901,Throwing at batters after warning ej,gardb101,M,merrd901,Throwing at batters after warning $Pitcher Felton and Twins manager Gardner ejected by HP umpire Durwood Merrill for inside pitches after warning"1982DET.EVA.regular.comment.csv",11
+
+"DET198205200",44,"ej,martb105,M,kunkb101,Called strike on Henderson for stalling Athletics manager Billy Martin ejected by 1B umpire Bill Kunkel; HP umpire John Shulock had called a strike on Rickey Henderson when Henderson was stalling during his at bat; Martin argued the ruling and was ejected by the crew chief"1982DET.EVA.regular.comment.csv",12
+
+"DET198206092",0,"Suspend=19820924,,3,3,84 $45 minute rain delay before start of game"1982DET.EVA.regular.comment.csv",13
+
+"DET198206092",110,"umpchange,15,umphome,hallb901 umpchange,15,ump1b,malog901 umpchange,15,ump2b,kaisk901 umpchange,15,ump3b,neudj901 suspended,19820924,DET04,curfew $suspended here for curfew after 3:38 of play; completed 9/24 with new umpires"1982DET.EVA.regular.comment.csv",14
+
+"DET198206170",18,"ej,warnh801,C,hallb901,Arguing DP call Brewers coach Harry Warner ejected by 2B umpire Bill Haller"1982DET.EVA.regular.comment.csv",15
+
+"DET198206300",44,"Debut game for Ed Jurak"1982DET.EVA.regular.comment.csv",16
+
+"DET198207030",28,"$the ball bounced off Chet Lemon's glove over fence"1982DET.EVA.regular.comment.csv",17
+
+"DET198207200",59,"$Bill Almon called out on appeal for leaving 2B early"1982DET.EVA.regular.comment.csv",18
+
+"DET198207210",41,"$Aurelio Rodriguez left game with sore back"1982DET.EVA.regular.comment.csv",19
+
+"DET198207210",97,"$Tom Paciorek left game with leg cramp"1982DET.EVA.regular.comment.csv",20
+
+"DET198207210",102,"$Steve Kemp hurt leg sliding into 2B"1982DET.EVA.regular.comment.csv",21
+
+"DET198207230",42,"$Jim Sundberg hit by the bat on Tom Brookens' backswing"1982DET.EVA.regular.comment.csv",22
+
+"DET198207251",51,"$George Wright overran 2B"1982DET.EVA.regular.comment.csv",23
+
+"DET198207251",73,"Debut game for Dave Gumpert"1982DET.EVA.regular.comment.csv",24
+
+"DET198208090",66,"$ball hit facing of roof boxes"1982DET.EVA.regular.comment.csv",25
+
+"DET198208180",72,"Debut game for Ron Musselman"1982DET.EVA.regular.comment.csv",26
+
+"DET198209010",15,"Debut game for Mike Laga"1982DET.EVA.regular.comment.csv",27
+
+"DET198209140",81,"ej,cabee001,P,merrd901,Balls and strikes Enos Cabell ejected by HP umpire Durwood Merrill"1982DET.EVA.regular.comment.csv",28
+
+"DET198209160",66,"Debut game for Mike Brown"1982DET.EVA.regular.comment.csv",29
+
+"DET198209190",53,"$Jerry Remy's 19th bunt hit of the year"1982DET.EVA.regular.comment.csv",30
+
+"DET198209250",24,"$53 minute rain delay"1982DET.EVA.regular.comment.csv",31
+
+"DET198209300",36,"ej,weave801,M,roe-r901,Balls and strikes Orioles manager Earl Weaver ejected by HP umpire Rocky Roe"1982DET.EVA.regular.comment.csv",32
+

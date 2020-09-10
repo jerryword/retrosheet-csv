@@ -1,37 +1,36 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"KC1196704110",9,"Debut game for Joe Rudi"
-"KC1196704110",13,"Debut game for Gus Gil"
-"KC1196704110",66,"Debut game for Allan Lewis"
-"KC1196704110",72,"Debut game for Ray Webster"
-"KC1196704140",5,"Debut game for Tony Pierce"
-"KC1196704140",48,"Debut game for Bill Dillman"
-"KC1196704140",75,"Debut game for Ted Kubiak"
-"KC1196705190",57,"Bert Campaneris left with unknown injury"
-"KC1196705200",34,"ej,higgd101,P,odomj901,Intentional HBP ej,stane101,M,odomj901,Intentional HBP Dennis Higgins and White Sox Manager Eddie Stanky ejected by HP umpire Jim Odom"
-"KC1196705270",57,"game called for rain"
-"KC1196705282",14,"$Ossie Chavarria called for interference at 2B"
-"KC1196706091",5,"Debut game for Reggie Jackson"
-"KC1196706271",66,"$John Donaldson called for interference"
-"KC1196707180",52,"ej,granj101,P,stevj901,Obstruction non-call $Twins Grant, not in game, ejected by HP umpire Stevens for arguing that catcher Roof had tripped Killebrew for obstruction preventing him from scoring"
-"KC1196708050",53,"Joe Pepitone hit on right elbow"
-"KC1196708290",58,"ej,adcoj101,M,nappl901,Delaying game $ndians manager Adcock ejected by HP umpire Napp for repeatedly delaying game"
-"KC1196709030",36,"ej,baueh101,M,kinnb901,Call at 3B $Orioles manager Bauer ejected by 3B umpire Kinnamon for arguing call on Blefary as Green dove into base at same time as Blefary slid in"
-"KC1196709030",53,"game called for rain"
-"KC1196704110",9,"Debut game for Joe Rudi"
-"KC1196704110",13,"Debut game for Gus Gil"
-"KC1196704110",66,"Debut game for Allan Lewis"
-"KC1196704110",72,"Debut game for Ray Webster"
-"KC1196704140",5,"Debut game for Tony Pierce"
-"KC1196704140",48,"Debut game for Bill Dillman"
-"KC1196704140",75,"Debut game for Ted Kubiak"
-"KC1196705190",57,"Bert Campaneris left with unknown injury"
-"KC1196705200",34,"ej,higgd101,P,odomj901,Intentional HBP ej,stane101,M,odomj901,Intentional HBP Dennis Higgins and White Sox Manager Eddie Stanky ejected by HP umpire Jim Odom"
-"KC1196705270",57,"game called for rain"
-"KC1196705282",14,"$Ossie Chavarria called for interference at 2B"
-"KC1196706091",5,"Debut game for Reggie Jackson"
-"KC1196706271",66,"$John Donaldson called for interference"
-"KC1196707180",52,"ej,granj101,P,stevj901,Obstruction non-call $Twins Grant, not in game, ejected by HP umpire Stevens for arguing that catcher Roof had tripped Killebrew for obstruction preventing him from scoring"
-"KC1196708050",53,"Joe Pepitone hit on right elbow"
-"KC1196708290",58,"ej,adcoj101,M,nappl901,Delaying game $ndians manager Adcock ejected by HP umpire Napp for repeatedly delaying game"
-"KC1196709030",36,"ej,baueh101,M,kinnb901,Call at 3B $Orioles manager Bauer ejected by 3B umpire Kinnamon for arguing call on Blefary as Green dove into base at same time as Blefary slid in"
-"KC1196709030",53,"game called for rain"
+"KC1196704110",9,"Debut game for Joe Rudi"FILENAME_TX","LINE_NUMBER_CT"
+
+"KC1196704110",13,"Debut game for Gus Gil"1967KC1.EVA.regular.comment.csv",2
+
+"KC1196704110",66,"Debut game for Allan Lewis"1967KC1.EVA.regular.comment.csv",3
+
+"KC1196704110",72,"Debut game for Ray Webster"1967KC1.EVA.regular.comment.csv",4
+
+"KC1196704140",5,"Debut game for Tony Pierce"1967KC1.EVA.regular.comment.csv",5
+
+"KC1196704140",48,"Debut game for Bill Dillman"1967KC1.EVA.regular.comment.csv",6
+
+"KC1196704140",75,"Debut game for Ted Kubiak"1967KC1.EVA.regular.comment.csv",7
+
+"KC1196705190",57,"Bert Campaneris left with unknown injury"1967KC1.EVA.regular.comment.csv",8
+
+"KC1196705200",34,"ej,higgd101,P,odomj901,Intentional HBP ej,stane101,M,odomj901,Intentional HBP Dennis Higgins and White Sox Manager Eddie Stanky ejected by HP umpire Jim Odom"1967KC1.EVA.regular.comment.csv",9
+
+"KC1196705270",57,"game called for rain"1967KC1.EVA.regular.comment.csv",10
+
+"KC1196705282",14,"$Ossie Chavarria called for interference at 2B"1967KC1.EVA.regular.comment.csv",11
+
+"KC1196706091",5,"Debut game for Reggie Jackson"1967KC1.EVA.regular.comment.csv",12
+
+"KC1196706271",66,"$John Donaldson called for interference"1967KC1.EVA.regular.comment.csv",13
+
+"KC1196707180",52,"ej,granj101,P,stevj901,Obstruction non-call $Twins Grant, not in game, ejected by HP umpire Stevens for arguing that catcher Roof had tripped Killebrew for obstruction preventing him from scoring"1967KC1.EVA.regular.comment.csv",14
+
+"KC1196708050",53,"Joe Pepitone hit on right elbow"1967KC1.EVA.regular.comment.csv",15
+
+"KC1196708290",58,"ej,adcoj101,M,nappl901,Delaying game $ndians manager Adcock ejected by HP umpire Napp for repeatedly delaying game"1967KC1.EVA.regular.comment.csv",16
+
+"KC1196709030",36,"ej,baueh101,M,kinnb901,Call at 3B $Orioles manager Bauer ejected by 3B umpire Kinnamon for arguing call on Blefary as Green dove into base at same time as Blefary slid in"1967KC1.EVA.regular.comment.csv",17
+
+"KC1196709030",53,"game called for rain"1967KC1.EVA.regular.comment.csv",18
+

@@ -1,11 +1,10 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"PIT199406110",1,"Debut game for Kurt Miller"
-"PIT199407150",0,"ej,collt801,M,laynj901,Balls and strikes Astros manager Terry Collins ejected by HP umpire Jerry Layne sometime in game"
-"PIT199407190",76,"ej,olsog001,P,marsr901,Balls and strikes after removal Gregg Olson ejected by HP umpire Randy Marsh from bench after having been removed from the game"
-"PIT199407270",31,"ej,gracm001,P,bonig901,Balls and strikes Mark Grace ejected by HP umpire Greg Bonin"
-"PIT199408070",41,"ej,torrj101,M,herna901,Arguing batter let pitch hit him Cardinals manager Joe Torre ejected by HP umpire Angel Hernandez for arguing that Rick White allowed the pitch to hit him"
-"PIT199406110",1,"Debut game for Kurt Miller"
-"PIT199407150",54,"ej,collt801,M,laynj901,Balls and strikes $Astros manager Collins ejected by HP umpire Layne for arguing balls and strikes after making pitching change"
-"PIT199407190",76,"ej,olsog001,P,marsr901,Balls and strikes after removal Gregg Olson ejected by HP umpire Randy Marsh from bench after having been removed from the game"
-"PIT199407270",31,"ej,gracm001,P,bonig901,Balls and strikes Mark Grace ejected by HP umpire Greg Bonin"
-"PIT199408070",41,"ej,torrj101,M,herna901,Arguing batter let pitch hit him Cardinals manager Joe Torre ejected by HP umpire Angel Hernandez for arguing that Rick White allowed the pitch to hit him"
+"PIT199406110",1,"Debut game for Kurt Miller"FILENAME_TX","LINE_NUMBER_CT"
+
+"PIT199407150",54,"ej,collt801,M,laynj901,Balls and strikes $Astros manager Collins ejected by HP umpire Layne for arguing balls and strikes after making pitching change"1994PIT.EVN.regular.comment.csv",2
+
+"PIT199407190",76,"ej,olsog001,P,marsr901,Balls and strikes after removal Gregg Olson ejected by HP umpire Randy Marsh from bench after having been removed from the game"1994PIT.EVN.regular.comment.csv",3
+
+"PIT199407270",31,"ej,gracm001,P,bonig901,Balls and strikes Mark Grace ejected by HP umpire Greg Bonin"1994PIT.EVN.regular.comment.csv",4
+
+"PIT199408070",41,"ej,torrj101,M,herna901,Arguing batter let pitch hit him Cardinals manager Joe Torre ejected by HP umpire Angel Hernandez for arguing that Rick White allowed the pitch to hit him"1994PIT.EVN.regular.comment.csv",5
+

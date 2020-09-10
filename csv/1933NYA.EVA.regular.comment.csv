@@ -1,43 +1,42 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"NYA193304150",28,"$the Philadelphia players thought that was the third out and left the field; Ben Chapman kept running and scored"
-"NYA193304180",28,"$Ben Chapman rounded 2B too far"
-"NYA193305260",72,"$Lou Gehrig left with an injured leg"
-"NYA193305281",64,"$Hit by own batted ball"
-"NYA193307041",7,"first pitch"
-"NYA193307041",62,"$Throw hit runner at 3b"
-"NYA193307041",64,"$2bman ran across infield to hit 3bman camped under pop up"
-"NYA193307070",61,"$Herb Pennock threw to an uncovered 1B"
-"NYA193307080",3,"$a foul ball went through Bill Dickey's mask and struck his forehead; after receiving first aid and a new mask he resumed work"
-"NYA193307150",16,"$Charlie Berry grabbed Doc Farrell's arm and was called for interference"
-"NYA193307210",34,"$Frank Crosetti thought the ball would be caught and stopped"
-"NYA193307210",58,"$Russ Van Atta was struck by the ball and would leave"
-"NYA193307231",39,"Boss' throw to the plate was late."
-"NYA193307232",60,"Hit and run."
-"NYA193308030",0,"$The Yankees are shut out for the first time since 8/2/1931 (308 games)"
-"NYA193308071",67,"$Joe Kuhel called for interference for running into his own bunt"
-"NYA193308080",33,"ej,perkc101,C,mcgob901,Catch/no catch call Yankees Coach Cy Perkins ejected by HP umpire Bill McGowan after Bill Dickey caught Buddy Myer's popup at the backstop; McGowan ruled the ball had touched the screen"
-"NYA193309070",44,"ej,chapb102,P,owenb901,Balls and strikes Ben Chapman ejected by HP umpire Brick Owens for continuing to argue a called strike from the fourth inning"
-"NYA193309080",19,"ej,levej101,P,vangr901,Balls and strikes Jim Levey ejected by HP umpire Roy Van Graflan"
-"NYA193309090",84,"game called because of rain; tie game"
-"NYA193309192",41,"ej,dykej101,P,mcgob901,Call at 3B (Appeal play; threw cap at umpire) $Jimmy Dykes out on appeal and ejected by 3B umpire Bill McGowan"
-"NYA193304150",28,"$the Philadelphia players thought that was the third out and left the field; Ben Chapman kept running and scored"
-"NYA193304180",28,"$Ben Chapman rounded 2B too far"
-"NYA193305260",72,"$Lou Gehrig left with an injured leg"
-"NYA193305281",64,"$Hit by own batted ball"
-"NYA193307041",7,"first pitch"
-"NYA193307041",62,"$Throw hit runner at 3b"
-"NYA193307041",64,"$2bman ran across infield to hit 3bman camped under pop up"
-"NYA193307070",61,"$Herb Pennock threw to an uncovered 1B"
-"NYA193307080",3,"$a foul ball went through Bill Dickey's mask and struck his forehead; after receiving first aid and a new mask he resumed work"
-"NYA193307150",16,"$Charlie Berry grabbed Doc Farrell's arm and was called for interference"
-"NYA193307210",34,"$Frank Crosetti thought the ball would be caught and stopped"
-"NYA193307210",58,"$Russ Van Atta was struck by the ball and would leave"
-"NYA193307231",39,"Boss' throw to the plate was late."
-"NYA193307232",60,"Hit and run."
-"NYA193308030",0,"$The Yankees are shut out for the first time since 8/2/1931 (308 games)"
-"NYA193308071",67,"$Joe Kuhel called for interference for running into his own bunt"
-"NYA193308080",33,"ej,perkc101,C,mcgob901,Catch/no catch call Yankees Coach Cy Perkins ejected by HP umpire Bill McGowan after Bill Dickey caught Buddy Myer's popup at the backstop; McGowan ruled the ball had touched the screen"
-"NYA193309070",44,"ej,chapb102,P,owenb901,Balls and strikes Ben Chapman ejected by HP umpire Brick Owens for continuing to argue a called strike from the fourth inning"
-"NYA193309080",19,"ej,levej101,P,vangr901,Balls and strikes Jim Levey ejected by HP umpire Roy Van Graflan"
-"NYA193309090",84,"game called because of rain; tie game"
-"NYA193309192",41,"ej,dykej101,P,mcgob901,Call at 3B (Appeal play; threw cap at umpire) $Jimmy Dykes out on appeal and ejected by 3B umpire Bill McGowan"
+"NYA193304150",28,"$the Philadelphia players thought that was the third out and left the field; Ben Chapman kept running and scored"FILENAME_TX","LINE_NUMBER_CT"
+
+"NYA193304180",28,"$Ben Chapman rounded 2B too far"1933NYA.EVA.regular.comment.csv",2
+
+"NYA193305260",72,"$Lou Gehrig left with an injured leg"1933NYA.EVA.regular.comment.csv",3
+
+"NYA193305281",64,"$Hit by own batted ball"1933NYA.EVA.regular.comment.csv",4
+
+"NYA193307041",7,"first pitch"1933NYA.EVA.regular.comment.csv",5
+
+"NYA193307041",62,"$Throw hit runner at 3b"1933NYA.EVA.regular.comment.csv",6
+
+"NYA193307041",64,"$2bman ran across infield to hit 3bman camped under pop up"1933NYA.EVA.regular.comment.csv",7
+
+"NYA193307070",61,"$Herb Pennock threw to an uncovered 1B"1933NYA.EVA.regular.comment.csv",8
+
+"NYA193307080",3,"$a foul ball went through Bill Dickey's mask and struck his forehead; after receiving first aid and a new mask he resumed work"1933NYA.EVA.regular.comment.csv",9
+
+"NYA193307150",16,"$Charlie Berry grabbed Doc Farrell's arm and was called for interference"1933NYA.EVA.regular.comment.csv",10
+
+"NYA193307210",34,"$Frank Crosetti thought the ball would be caught and stopped"1933NYA.EVA.regular.comment.csv",11
+
+"NYA193307210",58,"$Russ Van Atta was struck by the ball and would leave"1933NYA.EVA.regular.comment.csv",12
+
+"NYA193307231",39,"Boss' throw to the plate was late."1933NYA.EVA.regular.comment.csv",13
+
+"NYA193307232",60,"Hit and run."1933NYA.EVA.regular.comment.csv",14
+
+"NYA193308030",0,"$The Yankees are shut out for the first time since 8/2/1931 (308 games)"1933NYA.EVA.regular.comment.csv",15
+
+"NYA193308071",67,"$Joe Kuhel called for interference for running into his own bunt"1933NYA.EVA.regular.comment.csv",16
+
+"NYA193308080",33,"ej,perkc101,C,mcgob901,Catch/no catch call Yankees Coach Cy Perkins ejected by HP umpire Bill McGowan after Bill Dickey caught Buddy Myer's popup at the backstop; McGowan ruled the ball had touched the screen"1933NYA.EVA.regular.comment.csv",17
+
+"NYA193309070",44,"ej,chapb102,P,owenb901,Balls and strikes Ben Chapman ejected by HP umpire Brick Owens for continuing to argue a called strike from the fourth inning"1933NYA.EVA.regular.comment.csv",18
+
+"NYA193309080",19,"ej,levej101,P,vangr901,Balls and strikes Jim Levey ejected by HP umpire Roy Van Graflan"1933NYA.EVA.regular.comment.csv",19
+
+"NYA193309090",84,"game called because of rain; tie game"1933NYA.EVA.regular.comment.csv",20
+
+"NYA193309192",41,"ej,dykej101,P,mcgob901,Call at 3B (Appeal play; threw cap at umpire) $Jimmy Dykes out on appeal and ejected by 3B umpire Bill McGowan"1933NYA.EVA.regular.comment.csv",21
+

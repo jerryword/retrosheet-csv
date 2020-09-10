@@ -1,89 +1,88 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"TEX199104080",0,"$this was the only opening day game played with staff umpires; contract negotiations had stalled during spring training; the contract was settled too late for most umpires to get to their assigned cities"
-"TEX199104080",67,"Debut game for Tony Scruggs"
-"TEX199104100",26,"Gene Petralli left with a tight left hamstring"
-"TEX199104120",74,"$strike three bounced off the catcher's shin guard"
-"TEX199104260",18,"Debut game for Mark Lewis"
-"TEX199104260",43,"Carlos Baerga left with strained left hamstring"
-"TEX199104280",0,"2:19 rain delay before start of game"
-"TEX199105010",63,"$missed suicide squeeze"
-"TEX199105130",37,"Nolan Ryan left with a muscle strain in back of his right shoulder"
-"TEX199105130",54,"rain starts"
-"TEX199105280",4,"ej,hrbek001,P,mckej901,Balls and strikes Kent Hrbek ejected by HP umpire Jim McKean"
-"TEX199105310",33,"Ken Griffey Jr left with sore left shoulder"
-"TEX199106010",0,"$both teams warned about throwing at batters before the game by 2B umpire and acting crew chief Drew Coble"
-"TEX199106010",19,"ej,valld001,P,johnm901,Charging mound Dave Valle ejected by HP umpire Mark Johnson for trying to get to Rangers manager Bobby Valentine; both benches cleared"
-"TEX199106010",33,"ej,lefej101,M,johnm901,Balls and strikes Mariners manager Jim Lefebvre ejected by HP umpire Mark Johnson after the fourth pitch to Gary Pettis is called a ball"
-"TEX199106010",57,"ej,diazm002,P,johnm901,Arguing foul ball should be HBP Mario Diaz ejected by HP umpire Mark Johnson arguing a foul ball was HBP"
-"TEX199106110",43,"Gene Petralli left with stiffness lower back"
-"TEX199106160",2,"Debut game for Carlos Rodriguez"
-"TEX199106160",111,"$the ball hit the 3B bag"
-"TEX199107190",49,"umpchange,6,umphome,hirsj901 umpchange,6,ump2b,(None) $HP umpire Terry Cooney left with ankle injury; 2B umpire John Hirschbeck moved behind HP"
-"TEX199107220",3,"Wade Boggs left with sore back; never played defense"
-"TEX199107220",43,"Ruben Sierra left with flu or stomach virus"
-"TEX199107230",70,"Gary Pettis left with stomach virus"
-"TEX199107260",65,"Debut game for John Kiely"
-"TEX199107260",67,"$Travis Fryman dropped a popup and runner scores"
-"TEX199107280",41,"Nolan Ryan left with tightness in back of right shoulder"
-"TEX199108060",33,"Dean Palmer hurt his hand diving for the ball"
-"TEX199108090",21,"Debut game for Jose Hernandez"
-"TEX199108110",58,"ej,etcha101,C,hendt901,Balls and strikes $Rick Dempsey stopped running thinking the pitch was ball four; Brewers coach Andy Etchebarren ejected by HP umpire Ted Hendry"
-"TEX199108200",52,"$Ivan Rodriguez fell on left shoulder while ducking away from a pitch"
-"TEX199108210",1,"Debut game for Arthur Rhodes"
-"TEX199109020",14,"Don Mattingly left with bruised knee"
-"TEX199109030",53,"Rafael Palmeiro left with bruised right elbow"
-"TEX199109040",0,"15-minute rain delay before start of game"
-"TEX199109040",47,"Scott Sanderson left after aggravating groin injury"
-"TEX199109040",66,"Debut game for Donald Harris"
-"TEX199109060",9,"Debut game for Monty Fariss"
-"TEX199109060",78,"Debut game for Barry Manuel"
-"TEX199109070",0,"$umpire Rocky Roe out due to his father's death; Ed Hickox substitute at 2B"
-"TEX199109080",13,"Debut game for Rob Maurer"
-"TEX199109130",17,"48-minute rain delay"
-"TEX199109140",38,"$Brian Downing's 2,000 th hit (183 man in ML history)"
-"TEX199109301",52,"Nolan Ryan's 5500th strikeout"
-"TEX199110040",68,"Kevin Reimer and Joe Hernandez collide; Hernandez injured"
-"TEX199104080",0,"$this was the only opening day game played with staff umpires; contract negotiations had stalled during spring training; the contract was settled too late for most umpires to get to their assigned cities"
-"TEX199104080",67,"Debut game for Tony Scruggs"
-"TEX199104100",26,"Gene Petralli left with a tight left hamstring"
-"TEX199104120",74,"$strike three bounced off the catcher's shin guard"
-"TEX199104260",18,"Debut game for Mark Lewis"
-"TEX199104260",43,"Carlos Baerga left with strained left hamstring"
-"TEX199104280",0,"2:19 rain delay before start of game"
-"TEX199105010",63,"$missed suicide squeeze"
-"TEX199105130",37,"Nolan Ryan left with a muscle strain in back of his right shoulder"
-"TEX199105130",54,"rain starts"
-"TEX199105280",4,"ej,hrbek001,P,mckej901,Balls and strikes Kent Hrbek ejected by HP umpire Jim McKean"
-"TEX199105310",33,"Ken Griffey Jr left with sore left shoulder"
-"TEX199106010",0,"$Both teams warned about throwing at batters before the game acting crew chief Coble"
-"TEX199106010",19,"ej,valld001,P,johnm901,Charging opposing manager after HBP $Valle ejected by HP umpire Johnson charging after Texas manager Valentine; both benches cleared"
-"TEX199106010",33,"ej,lefej101,M,johnm901,Balls and strikes $Mariners manager Lefebvre ejected by HP umpire Johnson for arguing balls and strikes after 4th pitch to Pettis was called a ball"
-"TEX199106010",65,"ej,diazm002,P,johnm901,HBP non-call $Diaz ejected by HP umpire Johnson for arguing that he was hit by pitch ruled a foul ball"
-"TEX199106110",43,"Gene Petralli left with stiffness lower back"
-"TEX199106160",2,"Debut game for Carlos Rodriguez"
-"TEX199106160",111,"$the ball hit the 3B bag"
-"TEX199107190",49,"umpchange,6,umphome,hirsj901 umpchange,6,ump2b,(None) $HP umpire Terry Cooney left with ankle injury; 2B umpire John Hirschbeck moved behind HP"
-"TEX199107220",3,"Wade Boggs left with sore back; never played defense"
-"TEX199107220",43,"Ruben Sierra left with flu or stomach virus"
-"TEX199107230",70,"Gary Pettis left with stomach virus"
-"TEX199107260",65,"Debut game for John Kiely"
-"TEX199107260",67,"$Travis Fryman dropped a popup and runner scores"
-"TEX199107280",41,"Nolan Ryan left with tightness in back of right shoulder"
-"TEX199108060",33,"Dean Palmer hurt his hand diving for the ball"
-"TEX199108090",21,"Debut game for Jose Hernandez"
-"TEX199108110",58,"ej,etcha101,C,hendt901,Balls and strikes $Rick Dempsey stopped running thinking the pitch was ball four; Brewers coach Andy Etchebarren ejected by HP umpire Ted Hendry"
-"TEX199108200",52,"$Ivan Rodriguez fell on left shoulder while ducking away from a pitch"
-"TEX199108210",1,"Debut game for Arthur Rhodes"
-"TEX199109020",14,"Don Mattingly left with bruised knee"
-"TEX199109030",53,"Rafael Palmeiro left with bruised right elbow"
-"TEX199109040",0,"15-minute rain delay before start of game"
-"TEX199109040",47,"Scott Sanderson left after aggravating groin injury"
-"TEX199109040",66,"Debut game for Donald Harris"
-"TEX199109060",9,"Debut game for Monty Fariss"
-"TEX199109060",78,"Debut game for Barry Manuel"
-"TEX199109070",0,"$umpire Rocky Roe out due to his father's death; Ed Hickox substitute at 2B"
-"TEX199109080",13,"Debut game for Rob Maurer"
-"TEX199109130",17,"48-minute rain delay"
-"TEX199109140",38,"$Brian Downing's 2,000 th hit (183 man in ML history)"
-"TEX199109301",52,"Nolan Ryan's 5500th strikeout"
-"TEX199110040",68,"Kevin Reimer and Joe Hernandez collide; Hernandez injured"
+"TEX199104080",0,"$this was the only opening day game played with staff umpires; contract negotiations had stalled during spring training; the contract was settled too late for most umpires to get to their assigned cities"FILENAME_TX","LINE_NUMBER_CT"
+
+"TEX199104080",67,"Debut game for Tony Scruggs"1991TEX.EVA.regular.comment.csv",2
+
+"TEX199104100",26,"Gene Petralli left with a tight left hamstring"1991TEX.EVA.regular.comment.csv",3
+
+"TEX199104120",74,"$strike three bounced off the catcher's shin guard"1991TEX.EVA.regular.comment.csv",4
+
+"TEX199104260",18,"Debut game for Mark Lewis"1991TEX.EVA.regular.comment.csv",5
+
+"TEX199104260",43,"Carlos Baerga left with strained left hamstring"1991TEX.EVA.regular.comment.csv",6
+
+"TEX199104280",0,"2:19 rain delay before start of game"1991TEX.EVA.regular.comment.csv",7
+
+"TEX199105010",63,"$missed suicide squeeze"1991TEX.EVA.regular.comment.csv",8
+
+"TEX199105130",37,"Nolan Ryan left with a muscle strain in back of his right shoulder"1991TEX.EVA.regular.comment.csv",9
+
+"TEX199105130",54,"rain starts"1991TEX.EVA.regular.comment.csv",10
+
+"TEX199105280",4,"ej,hrbek001,P,mckej901,Balls and strikes Kent Hrbek ejected by HP umpire Jim McKean"1991TEX.EVA.regular.comment.csv",11
+
+"TEX199105310",33,"Ken Griffey Jr left with sore left shoulder"1991TEX.EVA.regular.comment.csv",12
+
+"TEX199106010",0,"$Both teams warned about throwing at batters before the game acting crew chief Coble"1991TEX.EVA.regular.comment.csv",13
+
+"TEX199106010",19,"ej,valld001,P,johnm901,Charging opposing manager after HBP $Valle ejected by HP umpire Johnson charging after Texas manager Valentine; both benches cleared"1991TEX.EVA.regular.comment.csv",14
+
+"TEX199106010",33,"ej,lefej101,M,johnm901,Balls and strikes $Mariners manager Lefebvre ejected by HP umpire Johnson for arguing balls and strikes after 4th pitch to Pettis was called a ball"1991TEX.EVA.regular.comment.csv",15
+
+"TEX199106010",65,"ej,diazm002,P,johnm901,HBP non-call $Diaz ejected by HP umpire Johnson for arguing that he was hit by pitch ruled a foul ball"1991TEX.EVA.regular.comment.csv",16
+
+"TEX199106110",43,"Gene Petralli left with stiffness lower back"1991TEX.EVA.regular.comment.csv",17
+
+"TEX199106160",2,"Debut game for Carlos Rodriguez"1991TEX.EVA.regular.comment.csv",18
+
+"TEX199106160",111,"$the ball hit the 3B bag"1991TEX.EVA.regular.comment.csv",19
+
+"TEX199107190",49,"umpchange,6,umphome,hirsj901 umpchange,6,ump2b,(None) $HP umpire Terry Cooney left with ankle injury; 2B umpire John Hirschbeck moved behind HP"1991TEX.EVA.regular.comment.csv",20
+
+"TEX199107220",3,"Wade Boggs left with sore back; never played defense"1991TEX.EVA.regular.comment.csv",21
+
+"TEX199107220",43,"Ruben Sierra left with flu or stomach virus"1991TEX.EVA.regular.comment.csv",22
+
+"TEX199107230",70,"Gary Pettis left with stomach virus"1991TEX.EVA.regular.comment.csv",23
+
+"TEX199107260",65,"Debut game for John Kiely"1991TEX.EVA.regular.comment.csv",24
+
+"TEX199107260",67,"$Travis Fryman dropped a popup and runner scores"1991TEX.EVA.regular.comment.csv",25
+
+"TEX199107280",41,"Nolan Ryan left with tightness in back of right shoulder"1991TEX.EVA.regular.comment.csv",26
+
+"TEX199108060",33,"Dean Palmer hurt his hand diving for the ball"1991TEX.EVA.regular.comment.csv",27
+
+"TEX199108090",21,"Debut game for Jose Hernandez"1991TEX.EVA.regular.comment.csv",28
+
+"TEX199108110",58,"ej,etcha101,C,hendt901,Balls and strikes $Rick Dempsey stopped running thinking the pitch was ball four; Brewers coach Andy Etchebarren ejected by HP umpire Ted Hendry"1991TEX.EVA.regular.comment.csv",29
+
+"TEX199108200",52,"$Ivan Rodriguez fell on left shoulder while ducking away from a pitch"1991TEX.EVA.regular.comment.csv",30
+
+"TEX199108210",1,"Debut game for Arthur Rhodes"1991TEX.EVA.regular.comment.csv",31
+
+"TEX199109020",14,"Don Mattingly left with bruised knee"1991TEX.EVA.regular.comment.csv",32
+
+"TEX199109030",53,"Rafael Palmeiro left with bruised right elbow"1991TEX.EVA.regular.comment.csv",33
+
+"TEX199109040",0,"15-minute rain delay before start of game"1991TEX.EVA.regular.comment.csv",34
+
+"TEX199109040",47,"Scott Sanderson left after aggravating groin injury"1991TEX.EVA.regular.comment.csv",35
+
+"TEX199109040",66,"Debut game for Donald Harris"1991TEX.EVA.regular.comment.csv",36
+
+"TEX199109060",9,"Debut game for Monty Fariss"1991TEX.EVA.regular.comment.csv",37
+
+"TEX199109060",78,"Debut game for Barry Manuel"1991TEX.EVA.regular.comment.csv",38
+
+"TEX199109070",0,"$umpire Rocky Roe out due to his father's death; Ed Hickox substitute at 2B"1991TEX.EVA.regular.comment.csv",39
+
+"TEX199109080",13,"Debut game for Rob Maurer"1991TEX.EVA.regular.comment.csv",40
+
+"TEX199109130",17,"48-minute rain delay"1991TEX.EVA.regular.comment.csv",41
+
+"TEX199109140",38,"$Brian Downing's 2,000 th hit (183 man in ML history)"1991TEX.EVA.regular.comment.csv",42
+
+"TEX199109301",52,"Nolan Ryan's 5500th strikeout"1991TEX.EVA.regular.comment.csv",43
+
+"TEX199110040",68,"Kevin Reimer and Joe Hernandez collide; Hernandez injured"1991TEX.EVA.regular.comment.csv",44
+

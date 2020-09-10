@@ -1,133 +1,132 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"CLE201604050",0,"$this game is a makeup for the one postponed on 4/4 due to bad weather"
-"CLE201604150",13,"replay,2,cabra002,NYN,scotd901,CLE08,,Y,M,CLE,A $when Meil Walker was called safe at HP, Indians manager Terry Francona challenged the ruling; the call was overturned by replay"
-"CLE201604160",38,"Indians pitcher Josh Tomlin left the game due to an injured leg"
-"CLE201604160",57,"Mets catcher Travis d'Arnaud left the game due to an injured elbow"
-"CLE201604190",7,"replay,1,kipnj001,CLE,kellj901,CLE08,,Y,M,CLE,C $when Jason Kipnis was called out at 1B, Indians manager Terry Francona challenged the ruling; the call was overturned by replay"
-"CLE201604210",62,"$originally scored as E9, changed to double on 05-04-2016"
-"CLE201604210",84,"replay,9,santc002,CLE,kellj901,CLE08,,N,M,CLE,A $when Francsco Lindor was called out at 2B, Indians manager Terry Francona challenged the ruling; the call was upheld by replay"
-"CLE201605030",4,"replay,1,martv001,DET,mealj901,CLE08,,Y,M,CLE,A $when J.D. Martinez was called safe at HP, Indians manager Terry Francona challenged the ruling; the call was overturned by replay"
-"CLE201605040",54,"replay,7,naqut001,CLE,mealj901,CLE08,,Y,M,DET,A $when Juan Uribe was called safe at 2B, Tigers manager Brad Ausmus challenged the ruling; the call was overturned because Uribe ran out of the line to avoid the tag"
-"CLE201605060",68,"$originally scored E4, changed to single on 05-07-2016, making his run now earned"
-"CLE201605070",68,"replay,8,lindf001,CLE,carlm901,CLE08,,N,M,CLE,C $when Jason Kipnis was called out at 2B, Indians manager Terry Francona challenged the ruling; the call was upheld by replay"
-"CLE201605080",20,"replay,3,santc002,CLE,carlm901,CLE08,,Y,M,CLE,C $when Carlos Santana was called out at 1B, Indians manager Terry Francona challenged the ruling; the call was overturned by replay"
-"CLE201605080",37,"replay,4,kipnj001,CLE,carlm901,CLE08,,Y,M,KCA,C $when Jason Kipnis was called safe at 1B, Royals manager Ned Yost challenged the ruling; the call was overturned by replay"
-"CLE201605140",6,"replay,1,kipnj001,CLE,barrt901,CLE08,,Y,M,MIN,C $when Jason Kipnis was called safe at 1B, Twins manager Paul Molitor challenged the ruling; the call was overturned by replay"
-"CLE201605150",68,"$originally scored as double, changed to error on 05-23-2016, making both runs unearned and removing two RBI"
-"CLE201605160",39,"replay,4,kipnj001,CLE,everm901,CLE08,,Y,M,CLE,A $when Rajai Davis was called out at HP, Indians manager Terry Francona challenged the ruling; the call was overturned by replay"
-"CLE201605280",54,"replay,6,trumm001,BAL,cedeg901,CLE08,,N,M,CLE,O $Mark Trumbo's fly to LF struck the line and was ruled fair; Indians manager Terry Francona challenged the ruling, which was upheld by replay"
-"CLE201605290",77,"replay,9,santc002,CLE,cedeg901,CLE08,,Y,M,CLE,C $when Carlos Santana was called out at 1B, Indians manager Terry Francona challenged the ruling; the call was overturned by replay"
-"CLE201605300",24,"ej,frant001,M,gonzm901,Interference non-call $Mitch Moreland ran on the foul line between HP and 1B; Josh Tomlin's throw struck Moreland on the back of the head but no interference was called; Indians Manager Terry Francona ejected by HP umpire Manny Gonzalez"
-"CLE201605310",29,"$Francisco Lindor tripped on his bat while running to 1B; the bat hit his legs multiple times and finally got caught between them"
-"CLE201606010",71,"replay,9,hoyij001,TEX,wendh902,CLE08,,N,M,CLE,E $when Jared Hoying was called safe at 1B and a run scored, Indians manager Terry Francona challenged the slide at 2B by Elvis Andrus; the slide was ruled legal and the call upheld by replay"
-"CLE201606200",19,"Rays center fielder Mikie Mahtook left the game due to an injured hand"
-"CLE201606200",37,"replay,5,gomey001,CLE,barrt901,CLE08,,Y,M,CLE,C $when Yan Gomes was called out at 1B, Indians manager Terry Francona challenged the ruling; the call was overturned by replay"
-"CLE201606210",32,"replay,4,chisl001,CLE,barrt901,CLE08,,Y,M,TBA,A $when Mike Napoli was called safe at HP, Rays manager Kevin Cash challenged the ruling; the call was overturned by replay"
-"CLE201607040",20,"Tigers pitcher Daniel Norris left the game due to an injured side"
-"CLE201607040",73,"replay,9,iglej001,DET,everm901,CLE08,,Y,M,CLE,C $when Jose Iglesias was called safe at 1B, Indians manager Terry Francona challenged the ruling; the call was overturned by replay to end the game"
-"CLE201607050",46,"ej,cabrm001,P,timmt901,Fair/foul call Tigers Miguel Cabrera said that a batted ball struck his leg before rolling into the infield; he did not run on the play; when he was called out at 1B, he kept yelling about the call; the umpires huddled but did not change the fair ball ruling; when Cabrera kept yelling, he was ejected by 1B umpire Tim Timmons"
-"CLE201607060",20,"replay,3,kipnj001,CLE,everm901,CLE08,F,N,U,,H $Jason Kipnis' fly to RF was ruled a foul ball; acting crew chief Mike Everitt requested a review, which upheld the call by replay"
-"CLE201607060",21,"replay,3,lindf001,CLE,everm901,CLE08,,Y,M,CLE,U $when Chris Gimenez was called out at 3B on appeal for leaving 3B early, Indians manager Terry Francona challenged the ruling; the call was overturned by replay, putting a run back on the board"
-"CLE201607060",46,"replay,5,kipnj001,CLE,everm901,CLE08,,N,M,CLE,C $when Jason Kipnis was called out at 1B, Indians manager Terry Francona challenged the ruling; the call was upheld by replay"
-"CLE201607070",44,"replay,6,headc001,NYA,hallt901,CLE08,,Y,M,NYA,A $when Starlin Castro was called out at HP, Yankees manager Joe Girardi challenged the ruling; the call was overturned by replay"
-"CLE201607070",79,"replay,9,naqut001,CLE,hallt901,CLE08,,Y,M,NYA,C $when Tyler Naquin was called safe at 1B, Yankees manager Joe Girardi challenged the ruling; the call was overturned by replay, ending the game"
-"CLE201607090",84,"$Francisco Lindor was called for interference for colliding with 3B Chase Headley who was trying to field a ground ball"
-"CLE201607260",4,"$Originally scored as E5, changed to single on 07-27-2016, making the run unearned"
-"CLE201607260",67,"$originally scored as E5, changed to double on 07-29-2016"
-"CLE201607300",41,"replay,5,maxwb001,OAK,laynj901,CLE08,,N,M,OAK,A $when Bruce Maxwell was called out at 2B, Athletics manager Bob Melvin challenged the ruling; the call was upheld by replay"
-"CLE201608010",2,"replay,1,mauej001,MIN,culbf901,CLE08,,Y,M,CLE,A $when Brian Dozier was called safe at 2B, Indians manager Terry Francona challenged the ruling; the call was overturned by replay"
-"CLE201608030",31,"replay,3,keplm001,MIN,culbf901,CLE08,,N,M,CLE,D ej,frant001,M,culbf901,Replay ruling ej,callm001,C,culbf901,Replay ruling $when Lonnie Chisenhall was ruled not to have caught Max Kepler's hit, Indians manager Terry Francona challenged the ruling; the call was upheld by replay; Terry Francona and Indians coach Mickey Callaway ejected by crew chief Fieldin Culbreth"
-"CLE201608030",48,"ej,klubc001,P,reynj901,Call at 1B Corey Kluber ejected by 1B Umpire Jim Reynolds"
-"CLE201608040",69,"replay,8,escoe001,MIN,culbf901,CLE08,,Y,M,CLE,C $when Eduardo Escobar was called safe at 1B, Indians manager Terry Francona challenged the ruling; the call was overturned by replay"
-"CLE201608110",64,"Indians designated hitter Carlos Santana left the game due to an injured head"
-"CLE201608140",45,"replay,5,napom001,CLE,vanol901,CLE08,,N,M,ANA,C $when Francisco Lindor was called safe at 2B, Angels manager Mike Scioscia challenged the ruling; the call was upheld by replay"
-"CLE201608140",67,"ej,pujoa001,P,fagac901,Called third strike Angels designated hitter Albert Pujols ejected by HP umpire Clint Fagan"
-"CLE201608150",30,"replay,4,napom001,CLE,cedeg901,CLE08,,N,M,CLE,A $when Jose Ramirez was called out at 3B, Indians manager Terry Francona challenged the ruling; the call was upheld by replay"
-"CLE201608160",55,"replay,7,narvo001,CHA,cedeg901,CLE08,,Y,M,CLE,C $when Omar Narvaez was called safe at 1B, Indians manager Terry Francona challenged the ruling; the call was overturned by replay"
-"CLE201608170",36,"replay,4,perer003,CLE,cedeg901,CLE08,,Y,M,CLE,C $when Brandon Guyer was called out at 2B, Indians manager Terry Francona challenged the ruling; the call was overturned by replay"
-"CLE201608170",41,"replay,5,eatoa002,CHA,cedeg901,CLE08,,N,M,CLE,A $when Adam Eaton was called safe at 2B, Indians manager Terry Francona challenged the ruling; the call was upheld by replay"
-"CLE201608290",79,"replay,10,davir003,CLE,mealj901,CLE08,,N,M,CLE,A $when Abraham Almonte was called out at 3B, Indians manager Terry Francona challenged the ruling; the call was upheld by replay"
-"CLE201608300",41,"replay,4,davir003,CLE,mealj901,CLE08,,Y,M,MIN,A $when Chris Gimenez was called safe at 3B, Twins manager Paul Molitor challenged the ruling; the call was overturned by replay"
-"CLE201608300",53,"$Kurt Suzuki's line drive struck pitcher Zach McAllister on the thigh and caromed into the air; McAllister caught the ball on the rebound"
-"CLE201609020",74,"ej,hillp801,C,rippm901,Bench jockeying (Complained about umpire's comment) Marlins First Base Coach Perry Hill ejected by 1B umpire Mark Ripperger"
-"CLE201609030",7,"replay,1,hoodd001,MIA,westj901,CLE08,,Y,M,CLE,C $when Destin Hood was called safe at 1B, Indians manager Terry Francona challenged the ruling; the call was overturned by replay"
-"CLE201609030",70,"replay,8,santc002,CLE,westj901,CLE08,,Y,M,CLE,C $when Coco Crisp was called out at HP, Indians manager Terry Francona challenged the ruling; the call was overturned by replay because catcher Jeff Mathis was not standing on HP when he caught the throw and relayed it to 1B"
-"CLE201609040",84,"ej,frant001,M,westj901,Checked swing Indians Manager Terry Francona ejected by HP umpire Joe West"
-"CLE201609050",28,"replay,3,lindf001,CLE,joycj901,CLE08,,Y,M,CLE,A $when Francisco Lindor was called out at 2B, Indians manager Terry Francona challenged the ruling; the call was overturned by replay"
-"CLE201609060",36,"$originally scored as single and E9, changed to double on 09-08-2016"
-"CLE201609080",11,"replay,2,reeda002,HOU,joycj901,CLE08,,Y,M,CLE,A $when A.J. Reed was called safe at 2B, Indians manager Terry Francona challenged the ruling; the call was overturned by replay"
-"CLE201609080",29,"replay,3,chisl001,CLE,joycj901,CLE08,,N,U,,Q ej,hinca001,M,joycj901,Foul ball non-call $a curve ball bounced in front of HP and struck Lonnie Chisenhall's bat; the ball caromed away and HP umpire Jim Joyce did not call the foul ball; catcher Jason Castro did not retrieve the ball but instead reached for a new ball from Joyce; Francisco Lindor and Mike Napoli scored; the umpires huddled and then Joyce requested a rules check and was told that the play was not reviewable; Astros manager A.J. Hinch ejected by Joyce"
-"CLE201609080",35,"replay,4,almoa001,CLE,joycj901,CLE08,O,Y,U,,H $Abraham Almonte's fly to LF struck the top of the wall and caromed back onto the field; the ball was ruled a home run; crew chief Jim Joyce requested a review, which overturned the call to a ball in play"
-"CLE201609080",47,"$a fan reached over the wall and touched the ball for interference"
-"CLE201609170",1,"Indians pitcher Carlos Carrasco left the game due to a nondisplaced fracture in his pitching hand after being struck by a line drive"
-"CLE201609170",38,"replay,6,kinsi001,DET,everm901,CLE08,,N,M,CLE,A $when Jose Iglesias was called safe at 2B, Indians manager Terry Francona challenged the ruling; the call was upheld by replay"
-"CLE201609180",20,"$Ian Kinsler was struck on the helmet"
-"CLE201609180",28,"$both teams warned after the first pitch to Rajai Davis was behind his back; three Tigers had been hit earlier"
-"CLE201609180",49,"ej,kinsi001,P,bakej902,Bench jockeying while leaving the field Tigers second baseman Ian Kinsler ejected by HP umpire Jordan Baker"
-"CLE201609220",39,"replay,5,chisl001,CLE,holbs901,CLE08,,N,M,KCA,I $when Lonnie Chisenhall was ruled to have been hit by a pitch, Royals manager Ned Yost challenged the ruling; the call was upheld by replay"
-"CLE201604050",0,"$this game is a makeup for the one postponed on 4/4 due to bad weather"
-"CLE201604150",13,"replay,2,cabra002,NYN,scotd901,CLE08,,Y,M,CLE,A $when Meil Walker was called safe at HP, Indians manager Terry Francona challenged the ruling; the call was overturned by replay"
-"CLE201604160",38,"Indians pitcher Josh Tomlin left the game due to an injured leg"
-"CLE201604160",57,"Mets catcher Travis d'Arnaud left the game due to an injured elbow"
-"CLE201604190",7,"replay,1,kipnj001,CLE,kellj901,CLE08,,Y,M,CLE,C $when Jason Kipnis was called out at 1B, Indians manager Terry Francona challenged the ruling; the call was overturned by replay"
-"CLE201604210",62,"$originally scored as E9, changed to double on 05-04-2016"
-"CLE201604210",84,"replay,9,santc002,CLE,kellj901,CLE08,,N,M,CLE,A $when Francsco Lindor was called out at 2B, Indians manager Terry Francona challenged the ruling; the call was upheld by replay"
-"CLE201605030",4,"replay,1,martv001,DET,mealj901,CLE08,,Y,M,CLE,A $when J.D. Martinez was called safe at HP, Indians manager Terry Francona challenged the ruling; the call was overturned by replay"
-"CLE201605040",54,"replay,7,naqut001,CLE,mealj901,CLE08,,Y,M,DET,A $when Juan Uribe was called safe at 2B, Tigers manager Brad Ausmus challenged the ruling; the call was overturned because Uribe ran out of the line to avoid the tag"
-"CLE201605060",68,"$originally scored E4, changed to single on 05-07-2016, making his run now earned"
-"CLE201605070",68,"replay,8,lindf001,CLE,carlm901,CLE08,,N,M,CLE,C $when Jason Kipnis was called out at 2B, Indians manager Terry Francona challenged the ruling; the call was upheld by replay"
-"CLE201605080",20,"replay,3,santc002,CLE,carlm901,CLE08,,Y,M,CLE,C $when Carlos Santana was called out at 1B, Indians manager Terry Francona challenged the ruling; the call was overturned by replay"
-"CLE201605080",37,"replay,4,kipnj001,CLE,carlm901,CLE08,,Y,M,KCA,C $when Jason Kipnis was called safe at 1B, Royals manager Ned Yost challenged the ruling; the call was overturned by replay"
-"CLE201605140",6,"replay,1,kipnj001,CLE,barrt901,CLE08,,Y,M,MIN,C $when Jason Kipnis was called safe at 1B, Twins manager Paul Molitor challenged the ruling; the call was overturned by replay"
-"CLE201605150",68,"$originally scored as double, changed to error on 05-23-2016, making both runs unearned and removing two RBI"
-"CLE201605160",39,"replay,4,kipnj001,CLE,everm901,CLE08,,Y,M,CLE,A $when Rajai Davis was called out at HP, Indians manager Terry Francona challenged the ruling; the call was overturned by replay"
-"CLE201605280",54,"replay,6,trumm001,BAL,cedeg901,CLE08,,N,M,CLE,O $Mark Trumbo's fly to LF struck the line and was ruled fair; Indians manager Terry Francona challenged the ruling, which was upheld by replay"
-"CLE201605290",77,"replay,9,santc002,CLE,cedeg901,CLE08,,Y,M,CLE,C $when Carlos Santana was called out at 1B, Indians manager Terry Francona challenged the ruling; the call was overturned by replay"
-"CLE201605300",24,"ej,frant001,M,gonzm901,Interference non-call $Mitch Moreland ran on the foul line between HP and 1B; Josh Tomlin's throw struck Moreland on the back of the head but no interference was called; Indians Manager Terry Francona ejected by HP umpire Manny Gonzalez"
-"CLE201605310",29,"$Francisco Lindor tripped on his bat while running to 1B; the bat hit his legs multiple times and finally got caught between them"
-"CLE201606010",71,"replay,9,hoyij001,TEX,wendh902,CLE08,,N,M,CLE,E $when Jared Hoying was called safe at 1B and a run scored, Indians manager Terry Francona challenged the slide at 2B by Elvis Andrus; the slide was ruled legal and the call upheld by replay"
-"CLE201606200",19,"Rays center fielder Mikie Mahtook left the game due to an injured hand"
-"CLE201606200",37,"replay,5,gomey001,CLE,barrt901,CLE08,,Y,M,CLE,C $when Yan Gomes was called out at 1B, Indians manager Terry Francona challenged the ruling; the call was overturned by replay"
-"CLE201606210",32,"replay,4,chisl001,CLE,barrt901,CLE08,,Y,M,TBA,A $when Mike Napoli was called safe at HP, Rays manager Kevin Cash challenged the ruling; the call was overturned by replay"
-"CLE201607040",20,"Tigers pitcher Daniel Norris left the game due to an injured side"
-"CLE201607040",73,"replay,9,iglej001,DET,everm901,CLE08,,Y,M,CLE,C $when Jose Iglesias was called safe at 1B, Indians manager Terry Francona challenged the ruling; the call was overturned by replay to end the game"
-"CLE201607050",46,"ej,cabrm001,P,timmt901,Fair/foul call $Cabrera ejected by 1B umpire Timmons for arguing that batted ball hit his leg and was foul"
-"CLE201607060",20,"replay,3,kipnj001,CLE,everm901,CLE08,F,N,U,,H $Jason Kipnis' fly to RF was ruled a foul ball; acting crew chief Mike Everitt requested a review, which upheld the call by replay"
-"CLE201607060",21,"replay,3,lindf001,CLE,everm901,CLE08,,Y,M,CLE,U $when Chris Gimenez was called out at 3B on appeal for leaving 3B early, Indians manager Terry Francona challenged the ruling; the call was overturned by replay, putting a run back on the board"
-"CLE201607060",46,"replay,5,kipnj001,CLE,everm901,CLE08,,N,M,CLE,C $when Jason Kipnis was called out at 1B, Indians manager Terry Francona challenged the ruling; the call was upheld by replay"
-"CLE201607070",44,"replay,6,headc001,NYA,hallt901,CLE08,,Y,M,NYA,A $when Starlin Castro was called out at HP, Yankees manager Joe Girardi challenged the ruling; the call was overturned by replay"
-"CLE201607070",79,"replay,9,naqut001,CLE,hallt901,CLE08,,Y,M,NYA,C $when Tyler Naquin was called safe at 1B, Yankees manager Joe Girardi challenged the ruling; the call was overturned by replay, ending the game"
-"CLE201607090",84,"$Francisco Lindor was called for interference for colliding with 3B Chase Headley who was trying to field a ground ball"
-"CLE201607260",4,"$Originally scored as E5, changed to single on 07-27-2016, making the run unearned"
-"CLE201607260",67,"$originally scored as E5, changed to double on 07-29-2016"
-"CLE201607300",41,"replay,5,maxwb001,OAK,laynj901,CLE08,,N,M,OAK,A $when Bruce Maxwell was called out at 2B, Athletics manager Bob Melvin challenged the ruling; the call was upheld by replay"
-"CLE201608010",2,"replay,1,mauej001,MIN,culbf901,CLE08,,Y,M,CLE,A $when Brian Dozier was called safe at 2B, Indians manager Terry Francona challenged the ruling; the call was overturned by replay"
-"CLE201608030",31,"replay,3,keplm001,MIN,culbf901,CLE08,,N,M,CLE,D ej,frant001,M,culbf901,Replay ruling ej,callm001,C,culbf901,Replay ruling $when Lonnie Chisenhall was ruled not to have caught Max Kepler's hit, Indians manager Terry Francona challenged the ruling; the call was upheld by replay; Terry Francona and Indians coach Mickey Callaway ejected by crew chief Fieldin Culbreth"
-"CLE201608030",48,"ej,klubc001,P,reynj901,Call at 1B Corey Kluber ejected by 1B Umpire Jim Reynolds"
-"CLE201608040",69,"replay,8,escoe001,MIN,culbf901,CLE08,,Y,M,CLE,C $when Eduardo Escobar was called safe at 1B, Indians manager Terry Francona challenged the ruling; the call was overturned by replay"
-"CLE201608110",64,"Indians designated hitter Carlos Santana left the game due to an injured head"
-"CLE201608140",45,"replay,5,napom001,CLE,vanol901,CLE08,,N,M,ANA,C $when Francisco Lindor was called safe at 2B, Angels manager Mike Scioscia challenged the ruling; the call was upheld by replay"
-"CLE201608140",67,"ej,pujoa001,P,fagac901,Called third strike Angels designated hitter Albert Pujols ejected by HP umpire Clint Fagan"
-"CLE201608150",30,"replay,4,napom001,CLE,cedeg901,CLE08,,N,M,CLE,A $when Jose Ramirez was called out at 3B, Indians manager Terry Francona challenged the ruling; the call was upheld by replay"
-"CLE201608160",55,"replay,7,narvo001,CHA,cedeg901,CLE08,,Y,M,CLE,C $when Omar Narvaez was called safe at 1B, Indians manager Terry Francona challenged the ruling; the call was overturned by replay"
-"CLE201608170",36,"replay,4,perer003,CLE,cedeg901,CLE08,,Y,M,CLE,C $when Brandon Guyer was called out at 2B, Indians manager Terry Francona challenged the ruling; the call was overturned by replay"
-"CLE201608170",41,"replay,5,eatoa002,CHA,cedeg901,CLE08,,N,M,CLE,A $when Adam Eaton was called safe at 2B, Indians manager Terry Francona challenged the ruling; the call was upheld by replay"
-"CLE201608290",79,"replay,10,davir003,CLE,mealj901,CLE08,,N,M,CLE,A $when Abraham Almonte was called out at 3B, Indians manager Terry Francona challenged the ruling; the call was upheld by replay"
-"CLE201608300",41,"replay,4,davir003,CLE,mealj901,CLE08,,Y,M,MIN,A $when Chris Gimenez was called safe at 3B, Twins manager Paul Molitor challenged the ruling; the call was overturned by replay"
-"CLE201608300",53,"$Kurt Suzuki's line drive struck pitcher Zach McAllister on the thigh and caromed into the air; McAllister caught the ball on the rebound"
-"CLE201609020",74,"ej,hillp801,C,rippm901,Bench jockeying (Complained about umpire's comment) Marlins First Base Coach Perry Hill ejected by 1B umpire Mark Ripperger"
-"CLE201609030",7,"replay,1,hoodd001,MIA,westj901,CLE08,,Y,M,CLE,C $when Destin Hood was called safe at 1B, Indians manager Terry Francona challenged the ruling; the call was overturned by replay"
-"CLE201609030",70,"replay,8,santc002,CLE,westj901,CLE08,,Y,M,CLE,C $when Coco Crisp was called out at HP, Indians manager Terry Francona challenged the ruling; the call was overturned by replay because catcher Jeff Mathis was not standing on HP when he caught the throw and relayed it to 1B"
-"CLE201609040",84,"ej,frant001,M,westj901,Checked swing Indians Manager Terry Francona ejected by HP umpire Joe West"
-"CLE201609050",28,"replay,3,lindf001,CLE,joycj901,CLE08,,Y,M,CLE,A $when Francisco Lindor was called out at 2B, Indians manager Terry Francona challenged the ruling; the call was overturned by replay"
-"CLE201609060",36,"$originally scored as single and E9, changed to double on 09-08-2016"
-"CLE201609080",11,"replay,2,reeda002,HOU,joycj901,CLE08,,Y,M,CLE,A $when A.J. Reed was called safe at 2B, Indians manager Terry Francona challenged the ruling; the call was overturned by replay"
-"CLE201609080",29,"replay,3,chisl001,CLE,joycj901,CLE08,,N,U,,Q ej,hinca001,M,joycj901,Foul ball non-call $a curve ball bounced in front of HP and struck Lonnie Chisenhall's bat; the ball caromed away and HP umpire Jim Joyce did not call the foul ball; catcher Jason Castro did not retrieve the ball but instead reached for a new ball from Joyce; Francisco Lindor and Mike Napoli scored; the umpires huddled and then Joyce requested a rules check and was told that the play was not reviewable; Astros manager A.J. Hinch ejected by Joyce"
-"CLE201609080",35,"replay,4,almoa001,CLE,joycj901,CLE08,O,Y,U,,H $Abraham Almonte's fly to LF struck the top of the wall and caromed back onto the field; the ball was ruled a home run; crew chief Jim Joyce requested a review, which overturned the call to a ball in play"
-"CLE201609080",47,"$a fan reached over the wall and touched the ball for interference"
-"CLE201609170",1,"Indians pitcher Carlos Carrasco left the game due to a nondisplaced fracture in his pitching hand after being struck by a line drive"
-"CLE201609170",38,"replay,6,kinsi001,DET,everm901,CLE08,,N,M,CLE,A $when Jose Iglesias was called safe at 2B, Indians manager Terry Francona challenged the ruling; the call was upheld by replay"
-"CLE201609180",20,"$Ian Kinsler was struck on the helmet"
-"CLE201609180",28,"$both teams warned after the first pitch to Rajai Davis was behind his back; three Tigers had been hit earlier"
-"CLE201609180",49,"ej,kinsi001,P,bakej902,Bench jockeying while leaving the field Tigers second baseman Ian Kinsler ejected by HP umpire Jordan Baker"
-"CLE201609220",39,"replay,5,chisl001,CLE,holbs901,CLE08,,N,M,KCA,I $when Lonnie Chisenhall was ruled to have been hit by a pitch, Royals manager Ned Yost challenged the ruling; the call was upheld by replay"
+"CLE201604050",0,"$this game is a makeup for the one postponed on 4/4 due to bad weather"FILENAME_TX","LINE_NUMBER_CT"
+
+"CLE201604150",13,"replay,2,cabra002,NYN,scotd901,CLE08,,Y,M,CLE,A $when Meil Walker was called safe at HP, Indians manager Terry Francona challenged the ruling; the call was overturned by replay"2016CLE.EVA.regular.comment.csv",2
+
+"CLE201604160",38,"Indians pitcher Josh Tomlin left the game due to an injured leg"2016CLE.EVA.regular.comment.csv",3
+
+"CLE201604160",57,"Mets catcher Travis d'Arnaud left the game due to an injured elbow"2016CLE.EVA.regular.comment.csv",4
+
+"CLE201604190",7,"replay,1,kipnj001,CLE,kellj901,CLE08,,Y,M,CLE,C $when Jason Kipnis was called out at 1B, Indians manager Terry Francona challenged the ruling; the call was overturned by replay"2016CLE.EVA.regular.comment.csv",5
+
+"CLE201604210",62,"$originally scored as E9, changed to double on 05-04-2016"2016CLE.EVA.regular.comment.csv",6
+
+"CLE201604210",84,"replay,9,santc002,CLE,kellj901,CLE08,,N,M,CLE,A $when Francsco Lindor was called out at 2B, Indians manager Terry Francona challenged the ruling; the call was upheld by replay"2016CLE.EVA.regular.comment.csv",7
+
+"CLE201605030",4,"replay,1,martv001,DET,mealj901,CLE08,,Y,M,CLE,A $when J.D. Martinez was called safe at HP, Indians manager Terry Francona challenged the ruling; the call was overturned by replay"2016CLE.EVA.regular.comment.csv",8
+
+"CLE201605040",54,"replay,7,naqut001,CLE,mealj901,CLE08,,Y,M,DET,A $when Juan Uribe was called safe at 2B, Tigers manager Brad Ausmus challenged the ruling; the call was overturned because Uribe ran out of the line to avoid the tag"2016CLE.EVA.regular.comment.csv",9
+
+"CLE201605060",68,"$originally scored E4, changed to single on 05-07-2016, making his run now earned"2016CLE.EVA.regular.comment.csv",10
+
+"CLE201605070",68,"replay,8,lindf001,CLE,carlm901,CLE08,,N,M,CLE,C $when Jason Kipnis was called out at 2B, Indians manager Terry Francona challenged the ruling; the call was upheld by replay"2016CLE.EVA.regular.comment.csv",11
+
+"CLE201605080",20,"replay,3,santc002,CLE,carlm901,CLE08,,Y,M,CLE,C $when Carlos Santana was called out at 1B, Indians manager Terry Francona challenged the ruling; the call was overturned by replay"2016CLE.EVA.regular.comment.csv",12
+
+"CLE201605080",37,"replay,4,kipnj001,CLE,carlm901,CLE08,,Y,M,KCA,C $when Jason Kipnis was called safe at 1B, Royals manager Ned Yost challenged the ruling; the call was overturned by replay"2016CLE.EVA.regular.comment.csv",13
+
+"CLE201605140",6,"replay,1,kipnj001,CLE,barrt901,CLE08,,Y,M,MIN,C $when Jason Kipnis was called safe at 1B, Twins manager Paul Molitor challenged the ruling; the call was overturned by replay"2016CLE.EVA.regular.comment.csv",14
+
+"CLE201605150",68,"$originally scored as double, changed to error on 05-23-2016, making both runs unearned and removing two RBI"2016CLE.EVA.regular.comment.csv",15
+
+"CLE201605160",39,"replay,4,kipnj001,CLE,everm901,CLE08,,Y,M,CLE,A $when Rajai Davis was called out at HP, Indians manager Terry Francona challenged the ruling; the call was overturned by replay"2016CLE.EVA.regular.comment.csv",16
+
+"CLE201605280",54,"replay,6,trumm001,BAL,cedeg901,CLE08,,N,M,CLE,O $Mark Trumbo's fly to LF struck the line and was ruled fair; Indians manager Terry Francona challenged the ruling, which was upheld by replay"2016CLE.EVA.regular.comment.csv",17
+
+"CLE201605290",77,"replay,9,santc002,CLE,cedeg901,CLE08,,Y,M,CLE,C $when Carlos Santana was called out at 1B, Indians manager Terry Francona challenged the ruling; the call was overturned by replay"2016CLE.EVA.regular.comment.csv",18
+
+"CLE201605300",24,"ej,frant001,M,gonzm901,Interference non-call $Mitch Moreland ran on the foul line between HP and 1B; Josh Tomlin's throw struck Moreland on the back of the head but no interference was called; Indians Manager Terry Francona ejected by HP umpire Manny Gonzalez"2016CLE.EVA.regular.comment.csv",19
+
+"CLE201605310",29,"$Francisco Lindor tripped on his bat while running to 1B; the bat hit his legs multiple times and finally got caught between them"2016CLE.EVA.regular.comment.csv",20
+
+"CLE201606010",71,"replay,9,hoyij001,TEX,wendh902,CLE08,,N,M,CLE,E $when Jared Hoying was called safe at 1B and a run scored, Indians manager Terry Francona challenged the slide at 2B by Elvis Andrus; the slide was ruled legal and the call upheld by replay"2016CLE.EVA.regular.comment.csv",21
+
+"CLE201606200",19,"Rays center fielder Mikie Mahtook left the game due to an injured hand"2016CLE.EVA.regular.comment.csv",22
+
+"CLE201606200",37,"replay,5,gomey001,CLE,barrt901,CLE08,,Y,M,CLE,C $when Yan Gomes was called out at 1B, Indians manager Terry Francona challenged the ruling; the call was overturned by replay"2016CLE.EVA.regular.comment.csv",23
+
+"CLE201606210",32,"replay,4,chisl001,CLE,barrt901,CLE08,,Y,M,TBA,A $when Mike Napoli was called safe at HP, Rays manager Kevin Cash challenged the ruling; the call was overturned by replay"2016CLE.EVA.regular.comment.csv",24
+
+"CLE201607040",20,"Tigers pitcher Daniel Norris left the game due to an injured side"2016CLE.EVA.regular.comment.csv",25
+
+"CLE201607040",73,"replay,9,iglej001,DET,everm901,CLE08,,Y,M,CLE,C $when Jose Iglesias was called safe at 1B, Indians manager Terry Francona challenged the ruling; the call was overturned by replay to end the game"2016CLE.EVA.regular.comment.csv",26
+
+"CLE201607050",46,"ej,cabrm001,P,timmt901,Fair/foul call $Cabrera ejected by 1B umpire Timmons for arguing that batted ball hit his leg and was foul"2016CLE.EVA.regular.comment.csv",27
+
+"CLE201607060",20,"replay,3,kipnj001,CLE,everm901,CLE08,F,N,U,,H $Jason Kipnis' fly to RF was ruled a foul ball; acting crew chief Mike Everitt requested a review, which upheld the call by replay"2016CLE.EVA.regular.comment.csv",28
+
+"CLE201607060",21,"replay,3,lindf001,CLE,everm901,CLE08,,Y,M,CLE,U $when Chris Gimenez was called out at 3B on appeal for leaving 3B early, Indians manager Terry Francona challenged the ruling; the call was overturned by replay, putting a run back on the board"2016CLE.EVA.regular.comment.csv",29
+
+"CLE201607060",46,"replay,5,kipnj001,CLE,everm901,CLE08,,N,M,CLE,C $when Jason Kipnis was called out at 1B, Indians manager Terry Francona challenged the ruling; the call was upheld by replay"2016CLE.EVA.regular.comment.csv",30
+
+"CLE201607070",44,"replay,6,headc001,NYA,hallt901,CLE08,,Y,M,NYA,A $when Starlin Castro was called out at HP, Yankees manager Joe Girardi challenged the ruling; the call was overturned by replay"2016CLE.EVA.regular.comment.csv",31
+
+"CLE201607070",79,"replay,9,naqut001,CLE,hallt901,CLE08,,Y,M,NYA,C $when Tyler Naquin was called safe at 1B, Yankees manager Joe Girardi challenged the ruling; the call was overturned by replay, ending the game"2016CLE.EVA.regular.comment.csv",32
+
+"CLE201607090",84,"$Francisco Lindor was called for interference for colliding with 3B Chase Headley who was trying to field a ground ball"2016CLE.EVA.regular.comment.csv",33
+
+"CLE201607260",4,"$Originally scored as E5, changed to single on 07-27-2016, making the run unearned"2016CLE.EVA.regular.comment.csv",34
+
+"CLE201607260",67,"$originally scored as E5, changed to double on 07-29-2016"2016CLE.EVA.regular.comment.csv",35
+
+"CLE201607300",41,"replay,5,maxwb001,OAK,laynj901,CLE08,,N,M,OAK,A $when Bruce Maxwell was called out at 2B, Athletics manager Bob Melvin challenged the ruling; the call was upheld by replay"2016CLE.EVA.regular.comment.csv",36
+
+"CLE201608010",2,"replay,1,mauej001,MIN,culbf901,CLE08,,Y,M,CLE,A $when Brian Dozier was called safe at 2B, Indians manager Terry Francona challenged the ruling; the call was overturned by replay"2016CLE.EVA.regular.comment.csv",37
+
+"CLE201608030",31,"replay,3,keplm001,MIN,culbf901,CLE08,,N,M,CLE,D ej,frant001,M,culbf901,Replay ruling ej,callm001,C,culbf901,Replay ruling $when Lonnie Chisenhall was ruled not to have caught Max Kepler's hit, Indians manager Terry Francona challenged the ruling; the call was upheld by replay; Terry Francona and Indians coach Mickey Callaway ejected by crew chief Fieldin Culbreth"2016CLE.EVA.regular.comment.csv",38
+
+"CLE201608030",48,"ej,klubc001,P,reynj901,Call at 1B Corey Kluber ejected by 1B Umpire Jim Reynolds"2016CLE.EVA.regular.comment.csv",39
+
+"CLE201608040",69,"replay,8,escoe001,MIN,culbf901,CLE08,,Y,M,CLE,C $when Eduardo Escobar was called safe at 1B, Indians manager Terry Francona challenged the ruling; the call was overturned by replay"2016CLE.EVA.regular.comment.csv",40
+
+"CLE201608110",64,"Indians designated hitter Carlos Santana left the game due to an injured head"2016CLE.EVA.regular.comment.csv",41
+
+"CLE201608140",45,"replay,5,napom001,CLE,vanol901,CLE08,,N,M,ANA,C $when Francisco Lindor was called safe at 2B, Angels manager Mike Scioscia challenged the ruling; the call was upheld by replay"2016CLE.EVA.regular.comment.csv",42
+
+"CLE201608140",67,"ej,pujoa001,P,fagac901,Called third strike Angels designated hitter Albert Pujols ejected by HP umpire Clint Fagan"2016CLE.EVA.regular.comment.csv",43
+
+"CLE201608150",30,"replay,4,napom001,CLE,cedeg901,CLE08,,N,M,CLE,A $when Jose Ramirez was called out at 3B, Indians manager Terry Francona challenged the ruling; the call was upheld by replay"2016CLE.EVA.regular.comment.csv",44
+
+"CLE201608160",55,"replay,7,narvo001,CHA,cedeg901,CLE08,,Y,M,CLE,C $when Omar Narvaez was called safe at 1B, Indians manager Terry Francona challenged the ruling; the call was overturned by replay"2016CLE.EVA.regular.comment.csv",45
+
+"CLE201608170",36,"replay,4,perer003,CLE,cedeg901,CLE08,,Y,M,CLE,C $when Brandon Guyer was called out at 2B, Indians manager Terry Francona challenged the ruling; the call was overturned by replay"2016CLE.EVA.regular.comment.csv",46
+
+"CLE201608170",41,"replay,5,eatoa002,CHA,cedeg901,CLE08,,N,M,CLE,A $when Adam Eaton was called safe at 2B, Indians manager Terry Francona challenged the ruling; the call was upheld by replay"2016CLE.EVA.regular.comment.csv",47
+
+"CLE201608290",79,"replay,10,davir003,CLE,mealj901,CLE08,,N,M,CLE,A $when Abraham Almonte was called out at 3B, Indians manager Terry Francona challenged the ruling; the call was upheld by replay"2016CLE.EVA.regular.comment.csv",48
+
+"CLE201608300",41,"replay,4,davir003,CLE,mealj901,CLE08,,Y,M,MIN,A $when Chris Gimenez was called safe at 3B, Twins manager Paul Molitor challenged the ruling; the call was overturned by replay"2016CLE.EVA.regular.comment.csv",49
+
+"CLE201608300",53,"$Kurt Suzuki's line drive struck pitcher Zach McAllister on the thigh and caromed into the air; McAllister caught the ball on the rebound"2016CLE.EVA.regular.comment.csv",50
+
+"CLE201609020",74,"ej,hillp801,C,rippm901,Bench jockeying (Complained about umpire's comment) Marlins First Base Coach Perry Hill ejected by 1B umpire Mark Ripperger"2016CLE.EVA.regular.comment.csv",51
+
+"CLE201609030",7,"replay,1,hoodd001,MIA,westj901,CLE08,,Y,M,CLE,C $when Destin Hood was called safe at 1B, Indians manager Terry Francona challenged the ruling; the call was overturned by replay"2016CLE.EVA.regular.comment.csv",52
+
+"CLE201609030",70,"replay,8,santc002,CLE,westj901,CLE08,,Y,M,CLE,C $when Coco Crisp was called out at HP, Indians manager Terry Francona challenged the ruling; the call was overturned by replay because catcher Jeff Mathis was not standing on HP when he caught the throw and relayed it to 1B"2016CLE.EVA.regular.comment.csv",53
+
+"CLE201609040",84,"ej,frant001,M,westj901,Checked swing Indians Manager Terry Francona ejected by HP umpire Joe West"2016CLE.EVA.regular.comment.csv",54
+
+"CLE201609050",28,"replay,3,lindf001,CLE,joycj901,CLE08,,Y,M,CLE,A $when Francisco Lindor was called out at 2B, Indians manager Terry Francona challenged the ruling; the call was overturned by replay"2016CLE.EVA.regular.comment.csv",55
+
+"CLE201609060",36,"$originally scored as single and E9, changed to double on 09-08-2016"2016CLE.EVA.regular.comment.csv",56
+
+"CLE201609080",11,"replay,2,reeda002,HOU,joycj901,CLE08,,Y,M,CLE,A $when A.J. Reed was called safe at 2B, Indians manager Terry Francona challenged the ruling; the call was overturned by replay"2016CLE.EVA.regular.comment.csv",57
+
+"CLE201609080",29,"replay,3,chisl001,CLE,joycj901,CLE08,,N,U,,Q ej,hinca001,M,joycj901,Foul ball non-call $a curve ball bounced in front of HP and struck Lonnie Chisenhall's bat; the ball caromed away and HP umpire Jim Joyce did not call the foul ball; catcher Jason Castro did not retrieve the ball but instead reached for a new ball from Joyce; Francisco Lindor and Mike Napoli scored; the umpires huddled and then Joyce requested a rules check and was told that the play was not reviewable; Astros manager A.J. Hinch ejected by Joyce"2016CLE.EVA.regular.comment.csv",58
+
+"CLE201609080",35,"replay,4,almoa001,CLE,joycj901,CLE08,O,Y,U,,H $Abraham Almonte's fly to LF struck the top of the wall and caromed back onto the field; the ball was ruled a home run; crew chief Jim Joyce requested a review, which overturned the call to a ball in play"2016CLE.EVA.regular.comment.csv",59
+
+"CLE201609080",47,"$a fan reached over the wall and touched the ball for interference"2016CLE.EVA.regular.comment.csv",60
+
+"CLE201609170",1,"Indians pitcher Carlos Carrasco left the game due to a nondisplaced fracture in his pitching hand after being struck by a line drive"2016CLE.EVA.regular.comment.csv",61
+
+"CLE201609170",38,"replay,6,kinsi001,DET,everm901,CLE08,,N,M,CLE,A $when Jose Iglesias was called safe at 2B, Indians manager Terry Francona challenged the ruling; the call was upheld by replay"2016CLE.EVA.regular.comment.csv",62
+
+"CLE201609180",20,"$Ian Kinsler was struck on the helmet"2016CLE.EVA.regular.comment.csv",63
+
+"CLE201609180",28,"$both teams warned after the first pitch to Rajai Davis was behind his back; three Tigers had been hit earlier"2016CLE.EVA.regular.comment.csv",64
+
+"CLE201609180",49,"ej,kinsi001,P,bakej902,Bench jockeying while leaving the field Tigers second baseman Ian Kinsler ejected by HP umpire Jordan Baker"2016CLE.EVA.regular.comment.csv",65
+
+"CLE201609220",39,"replay,5,chisl001,CLE,holbs901,CLE08,,N,M,KCA,I $when Lonnie Chisenhall was ruled to have been hit by a pitch, Royals manager Ned Yost challenged the ruling; the call was upheld by replay"2016CLE.EVA.regular.comment.csv",66
+

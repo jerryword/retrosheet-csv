@@ -1,48 +1,48 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"MIL197004070",36,"ej,johna104,P,runge901,Remarks from on-deck circle $Alex Johnson ejected by HP umpire Runge for comments made while in the on-deck circle"
-"MIL197005110",71,"Rain delay"
-"MIL197005110",83,"Game called at 11:43 PM after 38 minute rain delay"
-"MIL197005120",83,"Game called at 11:07 after 34 minute rain delay"
-"MIL197006030",0,"ej,brisd801,M,,Balls and strikes $Brewers manager Bristol ejected by unknown umpire in unknown inning for arguing a called strike"
-"MIL197006040",1,"Debut game for Ray Peters"
-"MIL197006060",39,"missing play in MIL197006060"
-"MIL197006070",46,"missing play in MIL197006070"
-"MIL197006220",30,"$Rod Carew left with injured knee due to Mike Hegan's rolling block"
-"MIL197006240",25,"ej,rignb101,M,malog901,Call at 1B $Twins manager Rigney ejected by 1B umpire Maloney for arguing that Hill was safe at 1st"
-"MIL197006250",2,"Debut game for Danny Thompson"
-"MIL197006260",68,"Tommy Harper left injured"
-"MIL197007031",7,"$Dick Drago's throw hit Mike Hegan's leg"
-"MIL197007060",35,"missing play (out) in MIL197007060"
-"MIL197007311",75,"Debut game for Bernie Smith"
-"MIL197008010",9,"ej,cated101,P,frana901,Call at 3B (Threw helmet) Danny Cater ejected by 3B umpire Art Frantz when he threw his helmet"
-"MIL197008120",68,"$the ball caromed back off the screen"
-"MIL197008140",47,"missing play in MIL197008140"
-"MIL197008180",26,"ej,snydr102,P,runge901,Balls and strikes (Slammed bat on plate) Russ Snyder ejected by HP umpire Ed Runge"
-"MIL197009011",48,"Debut game for Pete Koegel"
-"MIL197009030",11,"Debut game for Steve Brye"
-"MIL197009170",55,"ej,otisa001,P,umonf901,Balls and strikes (Threw helmet) Amos Otis ejected by HP umpire Frank Umont for throwing helmet on ground at Umont's feet; also had disputed called second strike"
-"MIL197009220",61,"$Dave May called for interference for going out of base line"
-"MIL197004070",36,"ej,johna104,P,runge901,Remarks from on-deck circle $Alex Johnson ejected by HP umpire Runge for comments made while in the on-deck circle"
-"MIL197005110",71,"Rain delay"
-"MIL197005110",83,"Game called at 11:43 PM after 38 minute rain delay"
-"MIL197005120",83,"Game called at 11:07 after 34 minute rain delay"
-"MIL197005300",14,"$Kaline had ball in glove before he collided with Northrup; Kaline was dazed, apparently swallowed his tongue and was turning blue with his jaws locked; Horton ran over from left field, pried Kaline's mouth open and loosened his tongue before trainer arrived; Kaline left on stretcher"
-"MIL197006030",0,"ej,brisd801,M,kunkb101,Balls and strikes $Brewers manager Bristol ejected by HP umpire Kunkel in unknown inning for arguing a called strike"
-"MIL197006040",1,"Debut game for Ray Peters"
-"MIL197006060",39,"missing play in MIL197006060"
-"MIL197006070",46,"missing play in MIL197006070"
-"MIL197006220",30,"$Rod Carew left with injured knee due to Mike Hegan's rolling block"
-"MIL197006240",25,"ej,rignb101,M,malog901,Call at 1B $Twins manager Rigney ejected by 1B umpire Maloney for arguing that Hill was safe at 1st"
-"MIL197006250",2,"Debut game for Danny Thompson"
-"MIL197006260",68,"Tommy Harper left injured"
-"MIL197007031",7,"$Dick Drago's throw hit Mike Hegan's leg"
-"MIL197007060",35,"missing play (out) in MIL197007060"
-"MIL197007311",75,"Debut game for Bernie Smith"
-"MIL197008010",9,"ej,cated101,P,frana901,Call at 3B (Threw helmet) Danny Cater ejected by 3B umpire Art Frantz when he threw his helmet"
-"MIL197008120",68,"$the ball caromed back off the screen"
-"MIL197008140",47,"missing play in MIL197008140"
-"MIL197008180",26,"ej,snydr102,P,runge901,Balls and strikes (Slammed bat on plate) Russ Snyder ejected by HP umpire Ed Runge"
-"MIL197009011",48,"Debut game for Pete Koegel"
-"MIL197009030",11,"Debut game for Steve Brye"
-"MIL197009170",55,"ej,otisa001,P,umonf901,Balls and strikes (Threw helmet) Amos Otis ejected by HP umpire Frank Umont for throwing helmet on ground at Umont's feet; also had disputed called second strike"
-"MIL197009220",61,"$Dave May called for interference for going out of base line"
+"MIL197004070",36,"ej,johna104,P,runge901,Remarks from on-deck circle $Alex Johnson ejected by HP umpire Runge for comments made while in the on-deck circle"FILENAME_TX","LINE_NUMBER_CT"
+
+"MIL197005110",71,"Rain delay"1970MIL.EVA.regular.comment.csv",2
+
+"MIL197005110",83,"Game called at 11:43 PM after 38 minute rain delay"1970MIL.EVA.regular.comment.csv",3
+
+"MIL197005120",83,"Game called at 11:07 after 34 minute rain delay"1970MIL.EVA.regular.comment.csv",4
+
+"MIL197005300",14,"$Kaline had ball in glove before he collided with Northrup; Kaline was dazed, apparently swallowed his tongue and was turning blue with his jaws locked; Horton ran over from left field, pried Kaline's mouth open and loosened his tongue before trainer arrived; Kaline left on stretcher"1970MIL.EVA.regular.comment.csv",5
+
+"MIL197006030",0,"ej,brisd801,M,kunkb101,Balls and strikes $Brewers manager Bristol ejected by HP umpire Kunkel in unknown inning for arguing a called strike"1970MIL.EVA.regular.comment.csv",6
+
+"MIL197006040",1,"Debut game for Ray Peters"1970MIL.EVA.regular.comment.csv",7
+
+"MIL197006060",39,"missing play in MIL197006060"1970MIL.EVA.regular.comment.csv",8
+
+"MIL197006070",46,"missing play in MIL197006070"1970MIL.EVA.regular.comment.csv",9
+
+"MIL197006220",30,"$Rod Carew left with injured knee due to Mike Hegan's rolling block"1970MIL.EVA.regular.comment.csv",10
+
+"MIL197006240",25,"ej,rignb101,M,malog901,Call at 1B $Twins manager Rigney ejected by 1B umpire Maloney for arguing that Hill was safe at 1st"1970MIL.EVA.regular.comment.csv",11
+
+"MIL197006250",2,"Debut game for Danny Thompson"1970MIL.EVA.regular.comment.csv",12
+
+"MIL197006260",68,"Tommy Harper left injured"1970MIL.EVA.regular.comment.csv",13
+
+"MIL197007031",7,"$Dick Drago's throw hit Mike Hegan's leg"1970MIL.EVA.regular.comment.csv",14
+
+"MIL197007060",35,"missing play (out) in MIL197007060"1970MIL.EVA.regular.comment.csv",15
+
+"MIL197007311",75,"Debut game for Bernie Smith"1970MIL.EVA.regular.comment.csv",16
+
+"MIL197008010",9,"ej,cated101,P,frana901,Call at 3B (Threw helmet) Danny Cater ejected by 3B umpire Art Frantz when he threw his helmet"1970MIL.EVA.regular.comment.csv",17
+
+"MIL197008120",68,"$the ball caromed back off the screen"1970MIL.EVA.regular.comment.csv",18
+
+"MIL197008140",47,"missing play in MIL197008140"1970MIL.EVA.regular.comment.csv",19
+
+"MIL197008180",26,"ej,snydr102,P,runge901,Balls and strikes (Slammed bat on plate) Russ Snyder ejected by HP umpire Ed Runge"1970MIL.EVA.regular.comment.csv",20
+
+"MIL197009011",48,"Debut game for Pete Koegel"1970MIL.EVA.regular.comment.csv",21
+
+"MIL197009030",11,"Debut game for Steve Brye"1970MIL.EVA.regular.comment.csv",22
+
+"MIL197009170",55,"ej,otisa001,P,umonf901,Balls and strikes (Threw helmet) Amos Otis ejected by HP umpire Frank Umont for throwing helmet on ground at Umont's feet; also had disputed called second strike"1970MIL.EVA.regular.comment.csv",23
+
+"MIL197009220",61,"$Dave May called for interference for going out of base line"1970MIL.EVA.regular.comment.csv",24
+

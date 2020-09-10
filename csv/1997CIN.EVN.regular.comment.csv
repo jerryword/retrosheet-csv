@@ -1,41 +1,40 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"CIN199704010",87,"Debut game for Pokey Reese"
-"CIN199705010",35,"ej,knigr001,M,bellw901,Balls and strikes Reds manager Ray Knight ejected by HP umpire Wally Bell"
-"CIN199705170",26,"ej,knigr001,M,laynj901,Call at 3B Reds manager Ray Knight ejected by 3B umpire Jerry Layne"
-"CIN199705230",38,"$Brian McRae called for interference"
-"CIN199705240",56,"ej,riggj801,M,bonig901,Arguing overturning of HR call Cubs manager Jim Riggleman ejected by HP umpire Greg Bonin sometime in eighth inning"
-"CIN199705270",1,"Debut game for Brett Tomko"
-"CIN199706060",65,"ej,gilkb001,P,hirsm901,Called third strike Bernard Gilkey ejected by HP umpire Mark Hirschbeck"
-"CIN199706150",3,"Debut game for Mario Valdez"
-"CIN199707010",0,"ej,oestr001,C,vanol901,Call at 1B Reds coach Ron Oester ejected by 1B umpire Larry Vanover sometime in first inning"
-"CIN199707110",77,"ej,alouf101,M,rapue901,HBP non-call Expos manager Felipe Alou ejected by HP umpire Ed Rapuano arguing that Vlad Guerrero was hit by a pitch that was ruled a foul ball; Guerrero left with two broken fingers"
-"CIN199707260",77,"ej,cox-b103,M,quicj901,Fair/foul call Braves manager Bobby Cox ejected by 2B manager Jim Quick"
-"CIN199707260",97,"umpchange,11,umphome,quicj901 umpchange,11,ump2b,(None) $HP umpire Paul Nauert left with heat exhaustion"
-"CIN199708010",61,"ej,oestr001,C,hohnb901,Call at 2B Reds coach Ron Oester ejected by 2B umpire Bill Hohn sometime in seventh inning"
-"CIN199708080",23,"ej,harrl001,P,wintm901,Called third strike (from bench) Lenny Harris ejected by HP umpire Mike Winters from bench; he was not in the game"
-"CIN199708080",75,"ej,sandd001,P,westj901,Call at 1B Deion Sanders ejected by 1B umpire Joe West"
-"CIN199709010",15,"Debut game for Pete Rose Jr."
-"CIN199709030",23,"Debut game for Felix Martinez"
-"CIN199709070",76,"ej,guilj001,P,rapue901,Fan interference call Jose Guillen ejected by 1B umpire Ed Rapuano arguing the fan interference call on his fly ball"
-"CIN199709080",71,"Debut game for Scott Winchester"
-"CIN199709090",59,"Debut game for Pat Watkins"
-"CIN199704010",87,"Debut game for Pokey Reese"
-"CIN199705010",35,"ej,knigr001,M,bellw901,Balls and strikes Reds manager Ray Knight ejected by HP umpire Wally Bell"
-"CIN199705170",26,"ej,knigr001,M,laynj901,Call at 3B Reds manager Ray Knight ejected by 3B umpire Jerry Layne"
-"CIN199705230",38,"$Brian McRae called for interference"
-"CIN199705240",66,"ej,riggj801,M,bonig901,Fair/foul call (HR reversal) $Cubs manager Riggleman ejected by HP umpire Bonin for arguing call that Sosa's apparent home run was overturned to foul ball"
-"CIN199705270",1,"Debut game for Brett Tomko"
-"CIN199706060",65,"ej,gilkb001,P,hirsm901,Called third strike Bernard Gilkey ejected by HP umpire Mark Hirschbeck"
-"CIN199706150",3,"Debut game for Mario Valdez"
-"CIN199707010",7,"ej,oestr001,C,vanol901,Call at 1B $Reds coach Oester ejected by 1B umpire Vanover for arguing Pendleton was safe at 1st"
-"CIN199707110",77,"ej,alouf101,M,rapue901,HBP non-call Expos manager Felipe Alou ejected by HP umpire Ed Rapuano arguing that Vlad Guerrero was hit by a pitch that was ruled a foul ball; Guerrero left with two broken fingers"
-"CIN199707260",77,"ej,cox-b103,M,quicj901,HR call $Braves manager Cox ejected by 2B umpire Quick for arguing that home run by Boone was foul"
-"CIN199707260",97,"umpchange,11,umphome,quicj901 umpchange,11,ump2b,(None) $HP umpire Paul Nauert left with heat exhaustion"
-"CIN199708010",61,"ej,oestr001,C,hohnb901,Call at 2B Reds coach Ron Oester ejected by 2B umpire Bill Hohn sometime in seventh inning"
-"CIN199708080",23,"ej,harrl001,P,wintm901,Called third strike (from bench) Lenny Harris ejected by HP umpire Mike Winters from bench; he was not in the game"
-"CIN199708080",75,"ej,sandd001,P,westj901,Call at 1B Deion Sanders ejected by 1B umpire Joe West"
-"CIN199709010",15,"Debut game for Pete Rose Jr."
-"CIN199709030",23,"Debut game for Felix Martinez"
-"CIN199709070",76,"ej,guilj001,P,rapue901,Fan interference call Jose Guillen ejected by 1B umpire Ed Rapuano arguing the fan interference call on his fly ball"
-"CIN199709080",71,"Debut game for Scott Winchester"
-"CIN199709090",59,"Debut game for Pat Watkins"
+"CIN199704010",87,"Debut game for Pokey Reese"FILENAME_TX","LINE_NUMBER_CT"
+
+"CIN199705010",35,"ej,knigr001,M,bellw901,Balls and strikes Reds manager Ray Knight ejected by HP umpire Wally Bell"1997CIN.EVN.regular.comment.csv",2
+
+"CIN199705170",26,"ej,knigr001,M,laynj901,Call at 3B Reds manager Ray Knight ejected by 3B umpire Jerry Layne"1997CIN.EVN.regular.comment.csv",3
+
+"CIN199705230",38,"$Brian McRae called for interference"1997CIN.EVN.regular.comment.csv",4
+
+"CIN199705240",66,"ej,riggj801,M,bonig901,Fair/foul call (HR reversal) $Cubs manager Riggleman ejected by HP umpire Bonin for arguing call that Sosa's apparent home run was overturned to foul ball"1997CIN.EVN.regular.comment.csv",5
+
+"CIN199705270",1,"Debut game for Brett Tomko"1997CIN.EVN.regular.comment.csv",6
+
+"CIN199706060",65,"ej,gilkb001,P,hirsm901,Called third strike Bernard Gilkey ejected by HP umpire Mark Hirschbeck"1997CIN.EVN.regular.comment.csv",7
+
+"CIN199706150",3,"Debut game for Mario Valdez"1997CIN.EVN.regular.comment.csv",8
+
+"CIN199707010",7,"ej,oestr001,C,vanol901,Call at 1B $Reds coach Oester ejected by 1B umpire Vanover for arguing Pendleton was safe at 1st"1997CIN.EVN.regular.comment.csv",9
+
+"CIN199707110",77,"ej,alouf101,M,rapue901,HBP non-call Expos manager Felipe Alou ejected by HP umpire Ed Rapuano arguing that Vlad Guerrero was hit by a pitch that was ruled a foul ball; Guerrero left with two broken fingers"1997CIN.EVN.regular.comment.csv",10
+
+"CIN199707260",77,"ej,cox-b103,M,quicj901,HR call $Braves manager Cox ejected by 2B umpire Quick for arguing that home run by Boone was foul"1997CIN.EVN.regular.comment.csv",11
+
+"CIN199707260",97,"umpchange,11,umphome,quicj901 umpchange,11,ump2b,(None) $HP umpire Paul Nauert left with heat exhaustion"1997CIN.EVN.regular.comment.csv",12
+
+"CIN199708010",61,"ej,oestr001,C,hohnb901,Call at 2B Reds coach Ron Oester ejected by 2B umpire Bill Hohn sometime in seventh inning"1997CIN.EVN.regular.comment.csv",13
+
+"CIN199708080",23,"ej,harrl001,P,wintm901,Called third strike (from bench) Lenny Harris ejected by HP umpire Mike Winters from bench; he was not in the game"1997CIN.EVN.regular.comment.csv",14
+
+"CIN199708080",75,"ej,sandd001,P,westj901,Call at 1B Deion Sanders ejected by 1B umpire Joe West"1997CIN.EVN.regular.comment.csv",15
+
+"CIN199709010",15,"Debut game for Pete Rose Jr."1997CIN.EVN.regular.comment.csv",16
+
+"CIN199709030",23,"Debut game for Felix Martinez"1997CIN.EVN.regular.comment.csv",17
+
+"CIN199709070",76,"ej,guilj001,P,rapue901,Fan interference call Jose Guillen ejected by 1B umpire Ed Rapuano arguing the fan interference call on his fly ball"1997CIN.EVN.regular.comment.csv",18
+
+"CIN199709080",71,"Debut game for Scott Winchester"1997CIN.EVN.regular.comment.csv",19
+
+"CIN199709090",59,"Debut game for Pat Watkins"1997CIN.EVN.regular.comment.csv",20
+

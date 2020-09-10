@@ -1,89 +1,80 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"CLE193504230",47,"$Harlond Clift pulled leg muscle running bases"
-"CLE193504230",64,"$defense shifted to RF for Earl Averill"
-"CLE193504240",28,"$defense shifted to RF for Hal Trosky"
-"CLE193504280",42,"$into the  overflow crowd"
-"CLE193505060",51,"DWS: pbp ends here, rest deduced"
-"CLE193505080",55,"$Lefty Grove hurt his hand on last play of 7th"
-"CLE193505090",43,"DWS: pbp ends here, rest deduced"
-"CLE193505090",47,"game called for rain"
-"CLE193505100",0,"$Art Fletcher managing the Yankees in Joe McCarthy's absence"
-"CLE193505100",23,"$Lloyd Brown and Frankie Pytlak collided"
-"CLE193505100",64,"DWS: pbp ends here, rest deduced"
-"CLE193505110",62,"DWS: pbp ends here, rest deduced"
-"CLE193505140",47,"$the first ball to reach the outfield for the Senators"
-"CLE193505140",65,"DWS: pbp ends here, rest deduced"
-"CLE193506080",13,"$Bruce Campbell overslid 2B"
-"CLE193506140",20,"$off Boze Berger's foot into RF"
-"CLE193506150",62,"$Max Bishop spiked at 1B and was carried off field"
-"CLE193506170",2,"rain begins"
-"CLE193506170",3,"30 minute rain delay"
-"CLE193506170",42,"$Gordon Rhodes left with injured finger"
-"CLE193506191",10,"$Bill Knickerbocker out on appeal for leaving 3B early"
-"CLE193506191",27,"20 minute rain delay"
-"CLE193506192",4,"$Bill Knickerbocker flipped the ball to Boze Berger who threw it into dugout"
-"CLE193506192",9,"$Jake Powell pulled a muscle while batting and was carried off"
-"CLE193506192",22,"$the ball struck Cecil Travis' shin and caromed into LF box"
-"CLE193506220",75,"DWS: pbp ends here, rest deduced"
-"CLE193506250",64,"DWS: pbp ends here, rest deduced"
-"CLE193506280",67,"$Oral Hildebrand tripped at 1B was carried off"
-"CLE193506301",8,"$into the overflow crowd"
-"CLE193506301",24,"$infield shifted to right for Hal Trosky"
-"CLE193506302",8,"DWS: previous two plays really one but entered separately for now"
-"CLE193507042",30,"$Schoolboy Rowe left with injured shoulder"
-"CLE193507260",65,"DWS: pbp ends here, rest deduced"
-"CLE193507290",55,"DWS: pbp ends here, rest deduced"
-"CLE193508071",48,"ej,sewel101,P,kolll901,Fair/foul on bunt $Ab Wright bunted into an out but the ball was ruled foul; Luke Sewell ejected by HP umpire Lou Kolls"
-"CLE193508140",51,"$the ball struck 1B umpire Bill Dinneen"
-"CLE193508150",66,"DWS: pbp ends here, rest deduced"
-"CLE193508160",24,"ej,allej102,P,geish901,Balls and strikes (Threw glove) Johnny Allen ejected by HP umpire Harry Geisel for throwing his glove high in air to object to called ball"
-"CLE193508160",69,"DWS: pbp ends here, rest deduced"
-"CLE193508171",77,"$Cliff Bolton suffered split finger from foul ball"
-"CLE193508172",60,"$the ball caromed to Buddy Myer"
-"CLE193508190",9,"$The ball stuck in the screen atop the right-field wall. Cleveland Manager O'Neill argued that the ball should have been ruled a home run and announced that he was playing the game under protest."
-"CLE193508251",56,"$into the overflow crowd"
-"CLE193508252",59,"ej,phile102,P,kolll901,Balls and strikes Eddie Phillips ejected by HP umpire Lou Kolls"
-"CLE193508252",73,"$into overflow crowd"
-"CLE193508252",79,"$Mel Almada struck on head by throw"
-"CLE193509210",46,"$the ball caromed off Monte Pearson into LF"
-"CLE193509210",66,"paper says Trosky had 1-for-40 slump then tried switching in next 7 games 14 hits"
-"CLE193504230",47,"$Harlond Clift pulled leg muscle running bases"
-"CLE193504230",64,"$defense shifted to RF for Earl Averill"
-"CLE193504240",28,"$defense shifted to RF for Hal Trosky"
-"CLE193504280",42,"$into the  overflow crowd"
-"CLE193505060",51,"DWS: pbp ends here, rest deduced"
-"CLE193505080",55,"$Lefty Grove hurt his hand on last play of 7th"
-"CLE193505090",43,"DWS: pbp ends here, rest deduced"
-"CLE193505090",47,"game called for rain"
-"CLE193505100",0,"$Art Fletcher managing the Yankees in Joe McCarthy's absence"
-"CLE193505100",23,"$Lloyd Brown and Frankie Pytlak collided"
-"CLE193505140",47,"$the first ball to reach the outfield for the Senators"
-"CLE193506080",13,"$Bruce Campbell overslid 2B"
-"CLE193506140",20,"$off Boze Berger's foot into RF"
-"CLE193506150",62,"$Max Bishop spiked at 1B and was carried off field"
-"CLE193506170",2,"rain begins"
-"CLE193506170",3,"30 minute rain delay"
-"CLE193506170",42,"$Gordon Rhodes left with injured finger"
-"CLE193506191",10,"$Bill Knickerbocker out on appeal for leaving 3B early"
-"CLE193506191",27,"20 minute rain delay"
-"CLE193506192",4,"$Bill Knickerbocker flipped the ball to Boze Berger who threw it into dugout"
-"CLE193506192",9,"$Jake Powell pulled a muscle while batting and was carried off"
-"CLE193506192",22,"$the ball struck Cecil Travis' shin and caromed into LF box"
-"CLE193506220",75,"DWS: pbp ends here, rest deduced"
-"CLE193506280",67,"$Oral Hildebrand tripped at 1B was carried off"
-"CLE193506301",8,"$into the overflow crowd"
-"CLE193506301",24,"$infield shifted to right for Hal Trosky"
-"CLE193506302",8,"DWS: previous two plays really one but entered separately for now"
-"CLE193507042",30,"$Schoolboy Rowe left with injured shoulder"
-"CLE193508071",48,"ej,sewel101,P,kolll901,Fair/foul on bunt $Ab Wright bunted into an out but the ball was ruled foul; Luke Sewell ejected by HP umpire Lou Kolls"
-"CLE193508140",51,"$the ball struck 1B umpire Bill Dinneen"
-"CLE193508160",24,"ej,allej102,P,geish901,Balls and strikes (Threw glove) $Pitcher Allen ejected by HP umpire Geisel for throwing his glove high in air to object to called ball"
-"CLE193508171",77,"$Cliff Bolton suffered split finger from foul ball"
-"CLE193508172",60,"$the ball caromed to Buddy Myer"
-"CLE193508190",9,"$The ball stuck in the screen atop the right-field wall. Cleveland Manager O'Neill argued that the ball should have been ruled a home run and announced that he was playing the game under protest."
-"CLE193508251",56,"$into the overflow crowd"
-"CLE193508252",59,"ej,phile102,P,kolll901,Balls and strikes Eddie Phillips ejected by HP umpire Lou Kolls"
-"CLE193508252",73,"$into overflow crowd"
-"CLE193508252",79,"$Mel Almada struck on head by throw"
-"CLE193509210",46,"$the ball caromed off Monte Pearson into LF"
-"CLE193509210",66,"paper says Trosky had 1-for-40 slump then tried switching in next 7 games 14 hits"
+"CLE193504230",47,"$Harlond Clift pulled leg muscle running bases"FILENAME_TX","LINE_NUMBER_CT"
+
+"CLE193504230",64,"$defense shifted to RF for Earl Averill"1935CLE.EVA.regular.comment.csv",2
+
+"CLE193504240",28,"$defense shifted to RF for Hal Trosky"1935CLE.EVA.regular.comment.csv",3
+
+"CLE193504280",42,"$into the  overflow crowd"1935CLE.EVA.regular.comment.csv",4
+
+"CLE193505060",51,"DWS: pbp ends here, rest deduced"1935CLE.EVA.regular.comment.csv",5
+
+"CLE193505080",55,"$Lefty Grove hurt his hand on last play of 7th"1935CLE.EVA.regular.comment.csv",6
+
+"CLE193505090",43,"DWS: pbp ends here, rest deduced"1935CLE.EVA.regular.comment.csv",7
+
+"CLE193505090",47,"game called for rain"1935CLE.EVA.regular.comment.csv",8
+
+"CLE193505100",0,"$Art Fletcher managing the Yankees in Joe McCarthy's absence"1935CLE.EVA.regular.comment.csv",9
+
+"CLE193505100",23,"$Lloyd Brown and Frankie Pytlak collided"1935CLE.EVA.regular.comment.csv",10
+
+"CLE193505140",47,"$the first ball to reach the outfield for the Senators"1935CLE.EVA.regular.comment.csv",11
+
+"CLE193506080",13,"$Bruce Campbell overslid 2B"1935CLE.EVA.regular.comment.csv",12
+
+"CLE193506140",20,"$off Boze Berger's foot into RF"1935CLE.EVA.regular.comment.csv",13
+
+"CLE193506150",62,"$Max Bishop spiked at 1B and was carried off field"1935CLE.EVA.regular.comment.csv",14
+
+"CLE193506170",2,"rain begins"1935CLE.EVA.regular.comment.csv",15
+
+"CLE193506170",3,"30 minute rain delay"1935CLE.EVA.regular.comment.csv",16
+
+"CLE193506170",42,"$Gordon Rhodes left with injured finger"1935CLE.EVA.regular.comment.csv",17
+
+"CLE193506191",10,"$Bill Knickerbocker out on appeal for leaving 3B early"1935CLE.EVA.regular.comment.csv",18
+
+"CLE193506191",27,"20 minute rain delay"1935CLE.EVA.regular.comment.csv",19
+
+"CLE193506192",4,"$Bill Knickerbocker flipped the ball to Boze Berger who threw it into dugout"1935CLE.EVA.regular.comment.csv",20
+
+"CLE193506192",9,"$Jake Powell pulled a muscle while batting and was carried off"1935CLE.EVA.regular.comment.csv",21
+
+"CLE193506192",22,"$the ball struck Cecil Travis' shin and caromed into LF box"1935CLE.EVA.regular.comment.csv",22
+
+"CLE193506220",75,"DWS: pbp ends here, rest deduced"1935CLE.EVA.regular.comment.csv",23
+
+"CLE193506280",67,"$Oral Hildebrand tripped at 1B was carried off"1935CLE.EVA.regular.comment.csv",24
+
+"CLE193506301",8,"$into the overflow crowd"1935CLE.EVA.regular.comment.csv",25
+
+"CLE193506301",24,"$infield shifted to right for Hal Trosky"1935CLE.EVA.regular.comment.csv",26
+
+"CLE193506302",8,"DWS: previous two plays really one but entered separately for now"1935CLE.EVA.regular.comment.csv",27
+
+"CLE193507042",30,"$Schoolboy Rowe left with injured shoulder"1935CLE.EVA.regular.comment.csv",28
+
+"CLE193508071",48,"ej,sewel101,P,kolll901,Fair/foul on bunt $Ab Wright bunted into an out but the ball was ruled foul; Luke Sewell ejected by HP umpire Lou Kolls"1935CLE.EVA.regular.comment.csv",29
+
+"CLE193508140",51,"$the ball struck 1B umpire Bill Dinneen"1935CLE.EVA.regular.comment.csv",30
+
+"CLE193508160",24,"ej,allej102,P,geish901,Balls and strikes (Threw glove) $Pitcher Allen ejected by HP umpire Geisel for throwing his glove high in air to object to called ball"1935CLE.EVA.regular.comment.csv",31
+
+"CLE193508171",77,"$Cliff Bolton suffered split finger from foul ball"1935CLE.EVA.regular.comment.csv",32
+
+"CLE193508172",60,"$the ball caromed to Buddy Myer"1935CLE.EVA.regular.comment.csv",33
+
+"CLE193508190",9,"$The ball stuck in the screen atop the right-field wall. Cleveland Manager O'Neill argued that the ball should have been ruled a home run and announced that he was playing the game under protest."1935CLE.EVA.regular.comment.csv",34
+
+"CLE193508251",56,"$into the overflow crowd"1935CLE.EVA.regular.comment.csv",35
+
+"CLE193508252",59,"ej,phile102,P,kolll901,Balls and strikes Eddie Phillips ejected by HP umpire Lou Kolls"1935CLE.EVA.regular.comment.csv",36
+
+"CLE193508252",73,"$into overflow crowd"1935CLE.EVA.regular.comment.csv",37
+
+"CLE193508252",79,"$Mel Almada struck on head by throw"1935CLE.EVA.regular.comment.csv",38
+
+"CLE193509210",46,"$the ball caromed off Monte Pearson into LF"1935CLE.EVA.regular.comment.csv",39
+
+"CLE193509210",66,"paper says Trosky had 1-for-40 slump then tried switching in next 7 games 14 hits"1935CLE.EVA.regular.comment.csv",40
+

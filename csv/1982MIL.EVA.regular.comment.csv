@@ -1,53 +1,52 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"MIL198204170",10,"$Jim Sundberg hit apparent double to LF but was out on appeal after missing 1B"
-"MIL198204170",76,"$Buddy Bell out rounding 1B too far"
-"MIL198204210",40,"$Willie Upshaw rounded 2B too far"
-"MIL198204280",0,"$Umpire Nick Bremigan ill"
-"MIL198205190",30,"$Bob Boone rounded 2B too far"
-"MIL198205260",49,"ej,rodgb102,M,brinj901,Called third strike Brewers manager Buck Rodgers ejected by HP Umpire Joe Brinkman"
-"MIL198206090",3,"ej,dauer001,P,reilm901,Called third strike (Threw bat) Rich Dauer ejected by HP umpire Mike Reilly for throwing bat"
-"MIL198206090",34,"$12 minute rain delay"
-"MIL198206110",67,"ej,gantj001,P,denkd901,Call at 2B Jim Gantner ejected by 1B umpire Don Denkinger"
-"MIL198206230",34,"ej,nettg001,P,morrd901,Called third strike Graig Nettles ejected by HP umpire Dan Morrison"
-"MIL198207100",0,"Southwest wind."
-"MIL198207100",23,"Rain delay from 8:06 until 9:07 during the bottom of the third"
-"MIL198207110",49,"missing play in MIL198207110; fielding credit invented"
-"MIL198207151",12,"$line drive off Pete Vuckovich's hand which split the skin between last two fingers"
-"MIL198207160",63,"$fan interference"
-"MIL198207180",1,"Debut game for Rich Barnes"
-"MIL198207310",11,"$Larry Milbourne threw the ball wildly trying to double off Gorman Thomas; 1B Mike Hargrove retrieved the ball and threw wildly trying to put out Robin Yount, then catcher Chris Bando threw wildly trying to put out Thomas at 3B; three throwing errors on one play"
-"MIL198207310",40,"$Brewers pitcher Mike Caldwell was told by the umpires to clean or change his glove"
-"MIL198208260",2,"$tied Lou Brock for single season SB record with 118"
-"MIL198208270",20,"$SB #119 of year for Henderson to break Lou Brock's record"
-"MIL198208270",60,"ej,stanf101,P,roe-r901,Called third strike Fred Stanley ejected by HP umpire Rocky Roe"
-"MIL198209021",48,"ej,dennj001,P,goetr901,Bench jockeying ej,sorel001,P,goetr901,Bench jockeying Lary Sorensen and John Denny ejected by HP umpire Russ Goetz sometime in the seventh inning"
-"MIL198209022",20,"$Alan Bannister left with hamstring pull"
-"MIL198209170",1,"Debut game for Stefan Wever"
-"MIL198209170",75,"Debut game for Bob Skube"
-"MIL198209240",33,"$20 minute rain delay"
-"MIL198204170",10,"$Jim Sundberg hit apparent double to LF but was out on appeal after missing 1B"
-"MIL198204170",76,"$Buddy Bell out rounding 1B too far"
-"MIL198204210",40,"$Willie Upshaw rounded 2B too far"
-"MIL198204280",0,"$Umpire Nick Bremigan ill"
-"MIL198205190",30,"$Bob Boone rounded 2B too far"
-"MIL198205260",49,"ej,rodgb102,M,brinj901,Called third strike Brewers manager Buck Rodgers ejected by HP Umpire Joe Brinkman"
-"MIL198206090",3,"ej,dauer001,P,reilm901,Called third strike (Threw bat) Rich Dauer ejected by HP umpire Mike Reilly for throwing bat"
-"MIL198206090",34,"$12 minute rain delay"
-"MIL198206110",67,"ej,gantj001,P,denkd901,Call at 2B Jim Gantner ejected by 1B umpire Don Denkinger"
-"MIL198206230",34,"ej,nettg001,P,morrd901,Called third strike Graig Nettles ejected by HP umpire Dan Morrison"
-"MIL198207100",0,"Southwest wind."
-"MIL198207100",23,"Rain delay from 8:06 until 9:07 during the bottom of the third"
-"MIL198207110",49,"missing play in MIL198207110; fielding credit invented"
-"MIL198207151",12,"$line drive off Pete Vuckovich's hand which split the skin between last two fingers"
-"MIL198207160",63,"$fan interference"
-"MIL198207180",1,"Debut game for Rich Barnes"
-"MIL198207310",11,"$Larry Milbourne threw the ball wildly trying to double off Gorman Thomas; 1B Mike Hargrove retrieved the ball and threw wildly trying to put out Robin Yount, then catcher Chris Bando threw wildly trying to put out Thomas at 3B; three throwing errors on one play"
-"MIL198207310",40,"$Brewers pitcher Mike Caldwell was told by the umpires to clean or change his glove"
-"MIL198208260",2,"$tied Lou Brock for single season SB record with 118"
-"MIL198208270",20,"$SB #119 of year for Henderson to break Lou Brock's record"
-"MIL198208270",60,"ej,stanf101,P,roe-r901,Called third strike Fred Stanley ejected by HP umpire Rocky Roe"
-"MIL198209021",48,"ej,dennj001,P,goetr901,Bench jockeying ej,sorel001,P,goetr901,Bench jockeying Lary Sorensen and John Denny ejected by HP umpire Russ Goetz sometime in the seventh inning"
-"MIL198209022",20,"$Alan Bannister left with hamstring pull"
-"MIL198209170",1,"Debut game for Stefan Wever"
-"MIL198209170",75,"Debut game for Bob Skube"
-"MIL198209240",33,"$20 minute rain delay"
+"MIL198204170",10,"$Jim Sundberg hit apparent double to LF but was out on appeal after missing 1B"FILENAME_TX","LINE_NUMBER_CT"
+
+"MIL198204170",76,"$Buddy Bell out rounding 1B too far"1982MIL.EVA.regular.comment.csv",2
+
+"MIL198204210",40,"$Willie Upshaw rounded 2B too far"1982MIL.EVA.regular.comment.csv",3
+
+"MIL198204280",0,"$Umpire Nick Bremigan ill"1982MIL.EVA.regular.comment.csv",4
+
+"MIL198205190",30,"$Bob Boone rounded 2B too far"1982MIL.EVA.regular.comment.csv",5
+
+"MIL198205260",49,"ej,rodgb102,M,brinj901,Called third strike Brewers manager Buck Rodgers ejected by HP Umpire Joe Brinkman"1982MIL.EVA.regular.comment.csv",6
+
+"MIL198206090",3,"ej,dauer001,P,reilm901,Called third strike (Threw bat) Rich Dauer ejected by HP umpire Mike Reilly for throwing bat"1982MIL.EVA.regular.comment.csv",7
+
+"MIL198206090",34,"$12 minute rain delay"1982MIL.EVA.regular.comment.csv",8
+
+"MIL198206110",67,"ej,gantj001,P,denkd901,Call at 2B Jim Gantner ejected by 1B umpire Don Denkinger"1982MIL.EVA.regular.comment.csv",9
+
+"MIL198206230",34,"ej,nettg001,P,morrd901,Called third strike Graig Nettles ejected by HP umpire Dan Morrison"1982MIL.EVA.regular.comment.csv",10
+
+"MIL198207100",0,"Southwest wind."1982MIL.EVA.regular.comment.csv",11
+
+"MIL198207100",23,"Rain delay from 8:06 until 9:07 during the bottom of the third"1982MIL.EVA.regular.comment.csv",12
+
+"MIL198207110",49,"missing play in MIL198207110; fielding credit invented"1982MIL.EVA.regular.comment.csv",13
+
+"MIL198207151",12,"$line drive off Pete Vuckovich's hand which split the skin between last two fingers"1982MIL.EVA.regular.comment.csv",14
+
+"MIL198207160",63,"$fan interference"1982MIL.EVA.regular.comment.csv",15
+
+"MIL198207180",1,"Debut game for Rich Barnes"1982MIL.EVA.regular.comment.csv",16
+
+"MIL198207310",11,"$Larry Milbourne threw the ball wildly trying to double off Gorman Thomas; 1B Mike Hargrove retrieved the ball and threw wildly trying to put out Robin Yount, then catcher Chris Bando threw wildly trying to put out Thomas at 3B; three throwing errors on one play"1982MIL.EVA.regular.comment.csv",17
+
+"MIL198207310",40,"$Brewers pitcher Mike Caldwell was told by the umpires to clean or change his glove"1982MIL.EVA.regular.comment.csv",18
+
+"MIL198208260",2,"$tied Lou Brock for single season SB record with 118"1982MIL.EVA.regular.comment.csv",19
+
+"MIL198208270",20,"$SB #119 of year for Henderson to break Lou Brock's record"1982MIL.EVA.regular.comment.csv",20
+
+"MIL198208270",60,"ej,stanf101,P,roe-r901,Called third strike Fred Stanley ejected by HP umpire Rocky Roe"1982MIL.EVA.regular.comment.csv",21
+
+"MIL198209021",48,"ej,dennj001,P,goetr901,Bench jockeying ej,sorel001,P,goetr901,Bench jockeying Lary Sorensen and John Denny ejected by HP umpire Russ Goetz sometime in the seventh inning"1982MIL.EVA.regular.comment.csv",22
+
+"MIL198209022",20,"$Alan Bannister left with hamstring pull"1982MIL.EVA.regular.comment.csv",23
+
+"MIL198209170",1,"Debut game for Stefan Wever"1982MIL.EVA.regular.comment.csv",24
+
+"MIL198209170",75,"Debut game for Bob Skube"1982MIL.EVA.regular.comment.csv",25
+
+"MIL198209240",33,"$20 minute rain delay"1982MIL.EVA.regular.comment.csv",26
+

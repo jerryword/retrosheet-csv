@@ -1,7 +1,6 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"ALS193307060",0,"$The first All-Star game; Managers: Connie Mack (AL Philadelphia), John McGraw (NL New York retired)"
-"ALS193307060",36,"umpchange,5,umphome,klemb901 umpchange,5,ump1b,mcgob901 umpchange,5,ump2b,riglc901 umpchange,5,ump3b,dinnb101 $the umpires changed positions in the middle of the fifth inning and the AL baseballs in use were replaced by NL baseballs"
-"ALS193307060",67,"$Babe Ruth caught the ball over the top of the wall"
-"ALS193307060",0,"$The first All-Star game; Managers: Connie Mack (AL Philadelphia), John McGraw (NL New York retired)"
-"ALS193307060",36,"umpchange,5,umphome,klemb901 umpchange,5,ump1b,mcgob901 umpchange,5,ump2b,riglc901 umpchange,5,ump3b,dinnb101 $the umpires changed positions in the middle of the fifth inning and the AL baseballs in use were replaced by NL baseballs"
-"ALS193307060",67,"$Babe Ruth caught the ball over the top of the wall"
+"ALS193307060",0,"$The first All-Star game; Managers: Connie Mack (AL Philadelphia), John McGraw (NL New York retired)"FILENAME_TX","LINE_NUMBER_CT"
+
+"ALS193307060",36,"umpchange,5,umphome,klemb901 umpchange,5,ump1b,mcgob901 umpchange,5,ump2b,riglc901 umpchange,5,ump3b,dinnb101 $the umpires changed positions in the middle of the fifth inning and the AL baseballs in use were replaced by NL baseballs"1933AS.EVE.asg.comment.csv",2
+
+"ALS193307060",67,"$Babe Ruth caught the ball over the top of the wall"1933AS.EVE.asg.comment.csv",3
+

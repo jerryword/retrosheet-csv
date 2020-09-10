@@ -1,53 +1,52 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"CHA196404160",17,"Debut game for Jerry McNertney"
-"CHA196404220",13,"Roger Maris left with back spasms"
-"CHA196405031",39,"discrepancy: Official gave Moran a K"
-"CHA196405062",81,"Debut game for Dave Duncan"
-"CHA196406100",18,"discrepancy: Official gave GDP to Roberts"
-"CHA196406110",64,"discrepancy: Official doesn't charge Buford & Miller with K"
-"CHA196406212",11,"Joe Cunningham hurt arm on play, falling in front of HP"
-"CHA196406212",83,"ej,marir101,P,drumc901,Call at 2B Roger Maris ejected by 2B umpire Cal Drummond"
-"CHA196406212",122,"$missed squeeze"
-"CHA196406220",0,"41 minute rain delay before start of game"
-"CHA196406240",12,"$Tony Conigliaro injured flipping over the wall"
-"CHA196407170",55,"discrepancy: Official didn't charge Stephens with K"
-"CHA196407240",11,"discrepancy: Official gave K to Allison"
-"CHA196407250",22,"discrepancy: Official charges McNertney & Roland with K"
-"CHA196407250",113,"discrepancy: Official gave WP to Fosnow instead of Stigman"
-"CHA196408040",33,"discrepancy: Official didn't charge Peters with K, gave to Martin"
-"CHA196408040",74,"discrepancy: Official didn't charge Peters with K, gave to Martin"
-"CHA196408180",74,"discrepancy: Official doesn't give K to Kubek & Fisher"
-"CHA196408200",2,"discrepancy: changed from LDP to GDP $Al Weis dropped the line drive, recovered to complete the double play"
-"CHA196408200",7,"$Al Weis called for interference for running into his own bunt"
-"CHA196408210",25,"discrepancy: Official charges K to Orsino"
-"CHA196408270",62,"discrepancy: Official gives extra AB to Worthington, away from Grant"
-"CHA196409050",63,"Debut game for Vern Fuller"
-"CHA196409062",67,"discrepancy: Official gave GDP to Azcue"
-"CHA196409180",61,"discrepancy: Official gives Weis an E at SS instead of 2B"
-"CHA196410022",81,"Debut game for Jim Hicks"
-"CHA196404160",17,"Debut game for Jerry McNertney"
-"CHA196404220",13,"Roger Maris left with back spasms"
-"CHA196405031",39,"discrepancy: Official gave Moran a K"
-"CHA196405062",81,"Debut game for Dave Duncan"
-"CHA196406100",18,"discrepancy: Official gave GDP to Roberts"
-"CHA196406110",64,"discrepancy: Official doesn't charge Buford & Miller with K"
-"CHA196406212",11,"Joe Cunningham hurt arm on play, falling in front of HP"
-"CHA196406212",83,"ej,marir101,P,drumc901,Call at 2B Roger Maris ejected by 2B umpire Cal Drummond"
-"CHA196406212",122,"$missed squeeze"
-"CHA196406220",0,"41 minute rain delay before start of game"
-"CHA196406240",12,"$Tony Conigliaro injured flipping over the wall"
-"CHA196407170",55,"discrepancy: Official didn't charge Stephens with K"
-"CHA196407240",11,"discrepancy: Official gave K to Allison"
-"CHA196407250",22,"discrepancy: Official charges McNertney & Roland with K"
-"CHA196407250",113,"discrepancy: Official gave WP to Fosnow instead of Stigman"
-"CHA196408040",33,"discrepancy: Official didn't charge Peters with K, gave to Martin"
-"CHA196408040",74,"discrepancy: Official didn't charge Peters with K, gave to Martin"
-"CHA196408180",74,"discrepancy: Official doesn't give K to Kubek & Fisher"
-"CHA196408200",2,"discrepancy: changed from LDP to GDP $Al Weis dropped the line drive, recovered to complete the double play"
-"CHA196408200",7,"$Al Weis called for interference for running into his own bunt"
-"CHA196408210",25,"discrepancy: Official charges K to Orsino"
-"CHA196408270",62,"discrepancy: Official gives extra AB to Worthington, away from Grant"
-"CHA196409050",63,"Debut game for Vern Fuller"
-"CHA196409062",67,"discrepancy: Official gave GDP to Azcue"
-"CHA196409180",61,"discrepancy: Official gives Weis an E at SS instead of 2B"
-"CHA196410022",81,"Debut game for Jim Hicks"
+"CHA196404160",17,"Debut game for Jerry McNertney"FILENAME_TX","LINE_NUMBER_CT"
+
+"CHA196404220",13,"Roger Maris left with back spasms"1964CHA.EVA.regular.comment.csv",2
+
+"CHA196405031",39,"discrepancy: Official gave Moran a K"1964CHA.EVA.regular.comment.csv",3
+
+"CHA196405062",81,"Debut game for Dave Duncan"1964CHA.EVA.regular.comment.csv",4
+
+"CHA196406100",18,"discrepancy: Official gave GDP to Roberts"1964CHA.EVA.regular.comment.csv",5
+
+"CHA196406110",64,"discrepancy: Official doesn't charge Buford & Miller with K"1964CHA.EVA.regular.comment.csv",6
+
+"CHA196406212",11,"Joe Cunningham hurt arm on play, falling in front of HP"1964CHA.EVA.regular.comment.csv",7
+
+"CHA196406212",83,"ej,marir101,P,drumc901,Call at 2B Roger Maris ejected by 2B umpire Cal Drummond"1964CHA.EVA.regular.comment.csv",8
+
+"CHA196406212",122,"$missed squeeze"1964CHA.EVA.regular.comment.csv",9
+
+"CHA196406220",0,"41 minute rain delay before start of game"1964CHA.EVA.regular.comment.csv",10
+
+"CHA196406240",12,"$Tony Conigliaro injured flipping over the wall"1964CHA.EVA.regular.comment.csv",11
+
+"CHA196407170",55,"discrepancy: Official didn't charge Stephens with K"1964CHA.EVA.regular.comment.csv",12
+
+"CHA196407240",11,"discrepancy: Official gave K to Allison"1964CHA.EVA.regular.comment.csv",13
+
+"CHA196407250",22,"discrepancy: Official charges McNertney & Roland with K"1964CHA.EVA.regular.comment.csv",14
+
+"CHA196407250",113,"discrepancy: Official gave WP to Fosnow instead of Stigman"1964CHA.EVA.regular.comment.csv",15
+
+"CHA196408040",33,"discrepancy: Official didn't charge Peters with K, gave to Martin"1964CHA.EVA.regular.comment.csv",16
+
+"CHA196408040",74,"discrepancy: Official didn't charge Peters with K, gave to Martin"1964CHA.EVA.regular.comment.csv",17
+
+"CHA196408180",74,"discrepancy: Official doesn't give K to Kubek & Fisher"1964CHA.EVA.regular.comment.csv",18
+
+"CHA196408200",2,"discrepancy: changed from LDP to GDP $Al Weis dropped the line drive, recovered to complete the double play"1964CHA.EVA.regular.comment.csv",19
+
+"CHA196408200",7,"$Al Weis called for interference for running into his own bunt"1964CHA.EVA.regular.comment.csv",20
+
+"CHA196408210",25,"discrepancy: Official charges K to Orsino"1964CHA.EVA.regular.comment.csv",21
+
+"CHA196408270",62,"discrepancy: Official gives extra AB to Worthington, away from Grant"1964CHA.EVA.regular.comment.csv",22
+
+"CHA196409050",63,"Debut game for Vern Fuller"1964CHA.EVA.regular.comment.csv",23
+
+"CHA196409062",67,"discrepancy: Official gave GDP to Azcue"1964CHA.EVA.regular.comment.csv",24
+
+"CHA196409180",61,"discrepancy: Official gives Weis an E at SS instead of 2B"1964CHA.EVA.regular.comment.csv",25
+
+"CHA196410022",81,"Debut game for Jim Hicks"1964CHA.EVA.regular.comment.csv",26
+

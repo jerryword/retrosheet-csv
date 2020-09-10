@@ -1,41 +1,40 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"HOU199804020",1,"Debut game for John Halama"
-"HOU199804020",74,"Debut game for Russ Ortiz"
-"HOU199804280",26,"ej,biggc001,P,holbs901,Balls and strikes Craig Biggio ejected by HP umpire Sam Holbrook"
-"HOU199805140",39,"Debut game for Mike Grzanich"
-"HOU199805140",47,"Debut game for Daryle Ward"
-"HOU199805260",0,"ej,russb001,M,relic901,Balls and strikes Dodgers manager Bill Russell ejected by HP umpire Charlie Reliford sometime in game"
-"HOU199806190",2,"Debut game for Mike Frank"
-"HOU199806200",1,"Debut game for Scott Elarton"
-"HOU199806300",39,"Debut game for John Snyder"
-"HOU199807010",61,"$the ball somehow got in the shirt pocket of HP umpire Gerry Davis; when catcher Brad Ausmus could not find the ball, Ray Durham scored"
-"HOU199807040",14,"Debut game for Danny Klassen"
-"HOU199807210",1,"Debut game for Mark Brownson"
-"HOU199808110",83,"ej,garnp001,M,mealj901,Checked swing Brewers manager Phil Garner ejected by 1B umpire Jerry Meals"
-"HOU199808120",71,"ej,cirij001,P,mealj901,Balls and strikes ej,garnp001,M,mealj901,Balls and strikes Jeff Cirillo and Brewers manager Phil Garner ejected by HP umpire Jerry Meals"
-"HOU199808260",52,"ej,cox-b103,M,hohnb901,Checked swing Braves manager Bobby Cox ejected by 1B umpire Bill Hohn arguing a checked swing which would have strike three to Moises Alou"
-"HOU199808300",64,"Debut game for Mitch Meluskey"
-"HOU199809080",58,"Debut game for Keith Glauber"
-"HOU199809120",19,"Debut game for Mark Little"
-"HOU199809130",0,"ej,larut101,M,holbs901,Balls and strikes Cardinals manager Tony LaRussa ejected by HP umpire Sam Holbrook sometime in game"
-"HOU199809151",60,"ej,ausmb001,P,gormb901,Balls and strikes Brad Ausmus ejected by HP umpire Brian Gorman"
-"HOU199804020",1,"Debut game for John Halama"
-"HOU199804020",74,"Debut game for Russ Ortiz"
-"HOU199804280",26,"ej,biggc001,P,holbs901,Balls and strikes Craig Biggio ejected by HP umpire Sam Holbrook"
-"HOU199805140",39,"Debut game for Mike Grzanich"
-"HOU199805140",47,"Debut game for Daryle Ward"
-"HOU199805260",59,"ej,russb001,M,relic901,Balls and strikes $Dodgers manager Russell ejected by HP umpire Reliford for arguing balls and strikes"
-"HOU199806190",2,"Debut game for Mike Frank"
-"HOU199806200",1,"Debut game for Scott Elarton"
-"HOU199806300",39,"Debut game for John Snyder"
-"HOU199807010",61,"$the ball somehow got in the shirt pocket of HP umpire Gerry Davis; when catcher Brad Ausmus could not find the ball, Ray Durham scored"
-"HOU199807040",14,"Debut game for Danny Klassen"
-"HOU199807210",1,"Debut game for Mark Brownson"
-"HOU199808110",83,"ej,garnp001,M,mealj901,Checked swing Brewers manager Phil Garner ejected by 1B umpire Jerry Meals"
-"HOU199808120",71,"ej,cirij001,P,mealj901,Balls and strikes ej,garnp001,M,mealj901,Balls and strikes Jeff Cirillo and Brewers manager Phil Garner ejected by HP umpire Jerry Meals"
-"HOU199808260",52,"ej,cox-b103,M,hohnb901,Checked swing Braves manager Bobby Cox ejected by 1B umpire Bill Hohn arguing a checked swing which would have strike three to Moises Alou"
-"HOU199808300",64,"Debut game for Mitch Meluskey"
-"HOU199809080",58,"Debut game for Keith Glauber"
-"HOU199809120",19,"Debut game for Mark Little"
-"HOU199809130",48,"ej,larut101,M,holbs901,Balls and strikes $Cardinals manager LaRussa ejected by HP umpire Holbrook for arguing balls and strikes while Mabry at bat"
-"HOU199809151",60,"ej,ausmb001,P,gormb901,Balls and strikes Brad Ausmus ejected by HP umpire Brian Gorman"
+"HOU199804020",1,"Debut game for John Halama"FILENAME_TX","LINE_NUMBER_CT"
+
+"HOU199804020",74,"Debut game for Russ Ortiz"1998HOU.EVN.regular.comment.csv",2
+
+"HOU199804280",26,"ej,biggc001,P,holbs901,Balls and strikes Craig Biggio ejected by HP umpire Sam Holbrook"1998HOU.EVN.regular.comment.csv",3
+
+"HOU199805140",39,"Debut game for Mike Grzanich"1998HOU.EVN.regular.comment.csv",4
+
+"HOU199805140",47,"Debut game for Daryle Ward"1998HOU.EVN.regular.comment.csv",5
+
+"HOU199805260",59,"ej,russb001,M,relic901,Balls and strikes $Dodgers manager Russell ejected by HP umpire Reliford for arguing balls and strikes"1998HOU.EVN.regular.comment.csv",6
+
+"HOU199806190",2,"Debut game for Mike Frank"1998HOU.EVN.regular.comment.csv",7
+
+"HOU199806200",1,"Debut game for Scott Elarton"1998HOU.EVN.regular.comment.csv",8
+
+"HOU199806300",39,"Debut game for John Snyder"1998HOU.EVN.regular.comment.csv",9
+
+"HOU199807010",61,"$the ball somehow got in the shirt pocket of HP umpire Gerry Davis; when catcher Brad Ausmus could not find the ball, Ray Durham scored"1998HOU.EVN.regular.comment.csv",10
+
+"HOU199807040",14,"Debut game for Danny Klassen"1998HOU.EVN.regular.comment.csv",11
+
+"HOU199807210",1,"Debut game for Mark Brownson"1998HOU.EVN.regular.comment.csv",12
+
+"HOU199808110",83,"ej,garnp001,M,mealj901,Checked swing Brewers manager Phil Garner ejected by 1B umpire Jerry Meals"1998HOU.EVN.regular.comment.csv",13
+
+"HOU199808120",71,"ej,cirij001,P,mealj901,Balls and strikes ej,garnp001,M,mealj901,Balls and strikes Jeff Cirillo and Brewers manager Phil Garner ejected by HP umpire Jerry Meals"1998HOU.EVN.regular.comment.csv",14
+
+"HOU199808260",52,"ej,cox-b103,M,hohnb901,Checked swing Braves manager Bobby Cox ejected by 1B umpire Bill Hohn arguing a checked swing which would have strike three to Moises Alou"1998HOU.EVN.regular.comment.csv",15
+
+"HOU199808300",64,"Debut game for Mitch Meluskey"1998HOU.EVN.regular.comment.csv",16
+
+"HOU199809080",58,"Debut game for Keith Glauber"1998HOU.EVN.regular.comment.csv",17
+
+"HOU199809120",19,"Debut game for Mark Little"1998HOU.EVN.regular.comment.csv",18
+
+"HOU199809130",48,"ej,larut101,M,holbs901,Balls and strikes $Cardinals manager LaRussa ejected by HP umpire Holbrook for arguing balls and strikes while Mabry at bat"1998HOU.EVN.regular.comment.csv",19
+
+"HOU199809151",60,"ej,ausmb001,P,gormb901,Balls and strikes Brad Ausmus ejected by HP umpire Brian Gorman"1998HOU.EVN.regular.comment.csv",20
+

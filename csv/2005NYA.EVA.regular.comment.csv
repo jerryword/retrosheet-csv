@@ -1,53 +1,52 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"NYA200504060",0,"Boston manager Terry Francona hospitalized with chest pains before game; team managed by bench coach Brad Mills"
-"NYA200504060",42,"$Kevin Millar left the game due to an injured leg"
-"NYA200504080",7,"originally scored as E6, changed next day"
-"NYA200504100",20,"$Pavano was hit on the head by a line drive and forced to leave"
-"NYA200504230",48,"Yankees pitcher Jaret Wright left the game due to an injured neck/shoulder"
-"NYA200504260",73,"Debut game for Colter Bean"
-"NYA200504300",1,"Debut game for Chien-Ming Wang"
-"NYA200504300",49,"Yankees designated hitter Jason Giambi left the game due to an injured arm"
-"NYA200505010",30,"Blue Jays second baseman Orlando Hudson left the game due to an injured head"
-"NYA200505240",67,"ej,quanp001,P,fairc901,Intentional HBP ej,torrj101,M,fairc901,Intentional HBP Paul Quantrill & Mgr Joe Torre ejected by HP umpire Chad Fairchild"
-"NYA200505280",75,"Debut game for Kelly Shoppach"
-"NYA200506150",38,"Yankees pitcher Kevin Brown left the game due to an injured back"
-"NYA200506220",35,"Devil Rays right fielder Aubrey Huff left the game due to an injured knee"
-"NYA200506250",45,"Mets 1B Doug Mientkiewicz left the game due to an injured leg"
-"NYA200506250",53,"originally ruled UD, changed on 6-27"
-"NYA200506260",22,"Debut game for Kevin Reese"
-"NYA200506260",62,"ej,shefg001,P,buckc901,Call at 1B (Slammed helmet) Yankees right fielder Gary Sheffield ejected by 1B umpire CB Bucknor for slamming helmet to the ground"
-"NYA200507050",55,"Debut game for Eli Whiteside"
-"NYA200507070",19,"Debut game for Melky Cabrera"
-"NYA200507280",7,"originally E1 all the way, changed after game"
-"NYA200508220",62,"ej,gibbj001,M,hudsm901,Call at HP Blue Jays Manager John Gibbons ejected by HP umpire Marvin Hudson"
-"NYA200509070",5,"Yankees right fielder Gary Sheffield left the game due to an injured leg"
-"NYA200509200",23,"Orioles second baseman Brian Roberts left the game due to an injured elbow"
-"NYA200509200",24,"ej,perls101,M,holbs901,Interference non-call Orioles Manager Sam Perlozzo ejected by HP umpire Sam Holbrook"
-"NYA200509210",37,"Yankees first baseman Jason Giambi left the game due to an injured back"
-"NYA200509230",50,"ej,gibbj001,M,fostm901,Check swing Blue Jays Manager John Gibbons ejected by HP umpire Marty Foster"
-"NYA200504060",0,"Boston manager Terry Francona hospitalized with chest pains before game; team managed by bench coach Brad Mills"
-"NYA200504060",42,"$Kevin Millar left the game due to an injured leg"
-"NYA200504080",7,"originally scored as E6, changed next day"
-"NYA200504100",20,"$Pavano was hit on the head by a line drive and forced to leave"
-"NYA200504230",48,"Yankees pitcher Jaret Wright left the game due to an injured neck/shoulder"
-"NYA200504260",73,"Debut game for Colter Bean"
-"NYA200504300",1,"Debut game for Chien-Ming Wang"
-"NYA200504300",49,"Yankees designated hitter Jason Giambi left the game due to an injured arm"
-"NYA200505010",30,"Blue Jays second baseman Orlando Hudson left the game due to an injured head"
-"NYA200505240",67,"ej,quanp001,P,fairc901,Intentional HBP ej,torrj101,M,fairc901,Intentional HBP Paul Quantrill & Mgr Joe Torre ejected by HP umpire Chad Fairchild"
-"NYA200505280",75,"Debut game for Kelly Shoppach"
-"NYA200506150",38,"Yankees pitcher Kevin Brown left the game due to an injured back"
-"NYA200506220",35,"Devil Rays right fielder Aubrey Huff left the game due to an injured knee"
-"NYA200506250",45,"Mets 1B Doug Mientkiewicz left the game due to an injured leg"
-"NYA200506250",53,"originally ruled UD, changed on 6-27"
-"NYA200506260",22,"Debut game for Kevin Reese"
-"NYA200506260",62,"ej,shefg001,P,buckc901,Call at 1B (Slammed helmet) Yankees right fielder Gary Sheffield ejected by 1B umpire CB Bucknor for slamming helmet to the ground"
-"NYA200507050",55,"Debut game for Eli Whiteside"
-"NYA200507070",19,"Debut game for Melky Cabrera"
-"NYA200507280",7,"originally E1 all the way, changed after game"
-"NYA200508220",62,"ej,gibbj001,M,hudsm901,Call at HP Blue Jays Manager John Gibbons ejected by HP umpire Marvin Hudson"
-"NYA200509070",5,"Yankees right fielder Gary Sheffield left the game due to an injured leg"
-"NYA200509200",23,"Orioles second baseman Brian Roberts left the game due to an injured elbow"
-"NYA200509200",24,"ej,perls101,M,holbs901,Interference non-call Orioles Manager Sam Perlozzo ejected by HP umpire Sam Holbrook"
-"NYA200509210",37,"Yankees first baseman Jason Giambi left the game due to an injured back"
-"NYA200509230",50,"ej,gibbj001,M,fostm901,Check swing Blue Jays Manager John Gibbons ejected by HP umpire Marty Foster"
+"NYA200504060",0,"Boston manager Terry Francona hospitalized with chest pains before game; team managed by bench coach Brad Mills"FILENAME_TX","LINE_NUMBER_CT"
+
+"NYA200504060",42,"$Kevin Millar left the game due to an injured leg"2005NYA.EVA.regular.comment.csv",2
+
+"NYA200504080",7,"originally scored as E6, changed next day"2005NYA.EVA.regular.comment.csv",3
+
+"NYA200504100",20,"$Pavano was hit on the head by a line drive and forced to leave"2005NYA.EVA.regular.comment.csv",4
+
+"NYA200504230",48,"Yankees pitcher Jaret Wright left the game due to an injured neck/shoulder"2005NYA.EVA.regular.comment.csv",5
+
+"NYA200504260",73,"Debut game for Colter Bean"2005NYA.EVA.regular.comment.csv",6
+
+"NYA200504300",1,"Debut game for Chien-Ming Wang"2005NYA.EVA.regular.comment.csv",7
+
+"NYA200504300",49,"Yankees designated hitter Jason Giambi left the game due to an injured arm"2005NYA.EVA.regular.comment.csv",8
+
+"NYA200505010",30,"Blue Jays second baseman Orlando Hudson left the game due to an injured head"2005NYA.EVA.regular.comment.csv",9
+
+"NYA200505240",67,"ej,quanp001,P,fairc901,Intentional HBP ej,torrj101,M,fairc901,Intentional HBP Paul Quantrill & Mgr Joe Torre ejected by HP umpire Chad Fairchild"2005NYA.EVA.regular.comment.csv",10
+
+"NYA200505280",75,"Debut game for Kelly Shoppach"2005NYA.EVA.regular.comment.csv",11
+
+"NYA200506150",38,"Yankees pitcher Kevin Brown left the game due to an injured back"2005NYA.EVA.regular.comment.csv",12
+
+"NYA200506220",35,"Devil Rays right fielder Aubrey Huff left the game due to an injured knee"2005NYA.EVA.regular.comment.csv",13
+
+"NYA200506250",45,"Mets 1B Doug Mientkiewicz left the game due to an injured leg"2005NYA.EVA.regular.comment.csv",14
+
+"NYA200506250",53,"originally ruled UD, changed on 6-27"2005NYA.EVA.regular.comment.csv",15
+
+"NYA200506260",22,"Debut game for Kevin Reese"2005NYA.EVA.regular.comment.csv",16
+
+"NYA200506260",62,"ej,shefg001,P,buckc901,Call at 1B (Slammed helmet) Yankees right fielder Gary Sheffield ejected by 1B umpire CB Bucknor for slamming helmet to the ground"2005NYA.EVA.regular.comment.csv",17
+
+"NYA200507050",55,"Debut game for Eli Whiteside"2005NYA.EVA.regular.comment.csv",18
+
+"NYA200507070",19,"Debut game for Melky Cabrera"2005NYA.EVA.regular.comment.csv",19
+
+"NYA200507280",7,"originally E1 all the way, changed after game"2005NYA.EVA.regular.comment.csv",20
+
+"NYA200508220",62,"ej,gibbj001,M,hudsm901,Call at HP Blue Jays Manager John Gibbons ejected by HP umpire Marvin Hudson"2005NYA.EVA.regular.comment.csv",21
+
+"NYA200509070",5,"Yankees right fielder Gary Sheffield left the game due to an injured leg"2005NYA.EVA.regular.comment.csv",22
+
+"NYA200509200",23,"Orioles second baseman Brian Roberts left the game due to an injured elbow"2005NYA.EVA.regular.comment.csv",23
+
+"NYA200509200",24,"ej,perls101,M,holbs901,Interference non-call Orioles Manager Sam Perlozzo ejected by HP umpire Sam Holbrook"2005NYA.EVA.regular.comment.csv",24
+
+"NYA200509210",37,"Yankees first baseman Jason Giambi left the game due to an injured back"2005NYA.EVA.regular.comment.csv",25
+
+"NYA200509230",50,"ej,gibbj001,M,fostm901,Check swing Blue Jays Manager John Gibbons ejected by HP umpire Marty Foster"2005NYA.EVA.regular.comment.csv",26
+

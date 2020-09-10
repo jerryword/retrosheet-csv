@@ -1,31 +1,30 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"LAN198004200",20,"Debut game for Mike Scioscia"
-"LAN198005130",54,"$Bob Welch called for interference"
-"LAN198005140",59,"at some point in 7th, Martin and Lezcano switched positions"
-"LAN198005140",60,"ej,thomg101,P,davis901,Called third strike Gary Thomasson ejected by HP umpire Satch Davidson"
-"LAN198005190",24,"ej,boyek101,M,mcshj901,Call at 1B Cardinals Manager Ken Boyer ejected by 1B umpire John McSherry"
-"LAN198006170",49,"ej,noled001,P,willb901,Throwing bat on field $Phillies pitcher Noles ejected by 2B umpire Williams for throwing bat on field after being removed"
-"LAN198008030",68,"$catcher Steve Yeager made a bad throw back to mound"
-"LAN198009010",65,"Debut game for Bobby Mitchell"
-"LAN198009020",1,"Debut game for Mookie Wilson"
-"LAN198009020",13,"Debut game for Wally Backman"
-"LAN198009030",24,"ej,tavef101,P,rennd901,Call at 3B (Reversed; pushed umpire) ej,torrj101,M,rennd901,Call at 3B (Reversed) Frank Taveras and Mets Manager Joe Torre ejected by 3B umpire Dutch Rennert; Rennert called Taveras safe then reversed himself to out; Taveras pushed Rennert during the argument"
-"LAN198009070",65,"Debut game for Bob Dernier"
-"LAN198009070",69,"Debut game for Marty Bystrom"
-"LAN198009180",33,"Gene Tenace left after colliding with Broderick Perkins"
-"LAN198009240",47,"Ron Cey left injured"
-"LAN198004200",20,"Debut game for Mike Scioscia"
-"LAN198005130",54,"$Bob Welch called for interference"
-"LAN198005140",59,"at some point in 7th, Martin and Lezcano switched positions"
-"LAN198005140",60,"ej,thomg101,P,davis901,Called third strike Gary Thomasson ejected by HP umpire Satch Davidson"
-"LAN198005190",24,"ej,boyek101,M,mcshj901,Call at 1B Cardinals Manager Ken Boyer ejected by 1B umpire John McSherry"
-"LAN198006170",49,"ej,noled001,P,willb901,Throwing bat on field $Phillies pitcher Noles ejected by 2B umpire Williams for throwing bat on field after being removed"
-"LAN198008030",68,"$catcher Steve Yeager made a bad throw back to mound"
-"LAN198009010",65,"Debut game for Bobby Mitchell"
-"LAN198009020",1,"Debut game for Mookie Wilson"
-"LAN198009020",13,"Debut game for Wally Backman"
-"LAN198009030",24,"ej,tavef101,P,rennd901,Call at 3B (Reversed; pushed umpire) ej,torrj101,M,rennd901,Call at 3B (Reversed) Frank Taveras and Mets Manager Joe Torre ejected by 3B umpire Dutch Rennert; Rennert called Taveras safe then reversed himself to out; Taveras pushed Rennert during the argument"
-"LAN198009070",65,"Debut game for Bob Dernier"
-"LAN198009070",69,"Debut game for Marty Bystrom"
-"LAN198009180",33,"Gene Tenace left after colliding with Broderick Perkins"
-"LAN198009240",47,"Ron Cey left injured"
+"LAN198004200",20,"Debut game for Mike Scioscia"FILENAME_TX","LINE_NUMBER_CT"
+
+"LAN198005130",54,"$Bob Welch called for interference"1980LAN.EVN.regular.comment.csv",2
+
+"LAN198005140",59,"at some point in 7th, Martin and Lezcano switched positions"1980LAN.EVN.regular.comment.csv",3
+
+"LAN198005140",60,"ej,thomg101,P,davis901,Called third strike Gary Thomasson ejected by HP umpire Satch Davidson"1980LAN.EVN.regular.comment.csv",4
+
+"LAN198005190",24,"ej,boyek101,M,mcshj901,Call at 1B Cardinals Manager Ken Boyer ejected by 1B umpire John McSherry"1980LAN.EVN.regular.comment.csv",5
+
+"LAN198006170",49,"ej,noled001,P,willb901,Throwing bat on field $Phillies pitcher Noles ejected by 2B umpire Williams for throwing bat on field after being removed"1980LAN.EVN.regular.comment.csv",6
+
+"LAN198008030",68,"$catcher Steve Yeager made a bad throw back to mound"1980LAN.EVN.regular.comment.csv",7
+
+"LAN198009010",65,"Debut game for Bobby Mitchell"1980LAN.EVN.regular.comment.csv",8
+
+"LAN198009020",1,"Debut game for Mookie Wilson"1980LAN.EVN.regular.comment.csv",9
+
+"LAN198009020",13,"Debut game for Wally Backman"1980LAN.EVN.regular.comment.csv",10
+
+"LAN198009030",24,"ej,tavef101,P,rennd901,Call at 3B (Reversed; pushed umpire) ej,torrj101,M,rennd901,Call at 3B (Reversed) Frank Taveras and Mets Manager Joe Torre ejected by 3B umpire Dutch Rennert; Rennert called Taveras safe then reversed himself to out; Taveras pushed Rennert during the argument"1980LAN.EVN.regular.comment.csv",11
+
+"LAN198009070",65,"Debut game for Bob Dernier"1980LAN.EVN.regular.comment.csv",12
+
+"LAN198009070",69,"Debut game for Marty Bystrom"1980LAN.EVN.regular.comment.csv",13
+
+"LAN198009180",33,"Gene Tenace left after colliding with Broderick Perkins"1980LAN.EVN.regular.comment.csv",14
+
+"LAN198009240",47,"Ron Cey left injured"1980LAN.EVN.regular.comment.csv",15
+

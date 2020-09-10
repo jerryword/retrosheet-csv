@@ -1,51 +1,50 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"PIT193504200",38,"$Lavagetto broke for home on tap to pitcher Walker and both  he and Padden ended up on third base bag. Davis touched both runners and Padden was declared out by umpire Klem."
-"PIT193504200",68,"$Davis held second until ball dropped in for Moore's first ML hit."
-"PIT193504200",73,"$Suhr spiked Frisch's hand and he had to leave the game."
-"PIT193504210",39,"$Martin scored from first on hit and run"
-"PIT193504210",58,"$Lavagetto was spiked by Medwick and left game"
-"PIT193505190",67,"$Gus Suhr left with injured right hand"
-"PIT193505240",39,"$Ball hits Berger's head"
-"PIT193505250",59,"$Babe Ruth's final homer, over the RF roof, estimated at 500 feet"
-"PIT193505260",27,"$Padden and Thevenow collided on pop fly"
-"PIT193506070",76,"game called for rain"
-"PIT193506100",49,"$the ball fell in between Ival Goodman, Billy Sullivan and Alex Kampouris"
-"PIT193507060",12,"$Suhr hit a foul ball near the stands and Herman was hurt crashing into barrier; after a delay of a few minutes, he remained in the game"
-"PIT193507070",25,"$Lindtrsom split finger"
-"PIT193507140",67,"$Suhr tries for ball, Young makes a fine stop, but Blanton not on 1st"
-"PIT193507180",22,"$Jim Bucher hurt his hand throwing the ball around the infield before start of third inning and left"
-"PIT193507180",80,"$after the fly ball was not caught, Gus Suhr caught in run down"
-"PIT193507210",9,"$Vaughan collided with pitcher who dropped throw from 1bman"
-"PIT193507281",16,"$Dean lets bunt pop drop, but Durocher steps on bag before tagging Vaughn who had come back, so Vaughn is safe"
-"PIT193507281",26,"$55 minute rain delay, but Dean does not warm up right after"
-"PIT193507281",41,"$Wet, muddy field may have contributed to error"
-"PIT193508100",35,"rain started"
-"PIT193508111",4,"$Reds manager Charlie Dressen tried to bluff the Pirates by starting lefty Si Johnson and immediately changing to righty Tony Freitas"
-"PIT193508300",6,"$Lloyd Waner injured and carried off the field"
-"PIT193509010",41,"$Blanton ignored return of a pitch"
-"PIT193509070",25,"$Len Koenicke apparently thought there were 2 out"
-"PIT193504200",38,"$Lavagetto broke for home on tap to pitcher Walker and both  he and Padden ended up on third base bag. Davis touched both runners and Padden was declared out by umpire Klem."
-"PIT193504200",68,"$Davis held second until ball dropped in for Moore's first ML hit."
-"PIT193504200",73,"$Suhr spiked Frisch's hand and he had to leave the game."
-"PIT193504210",39,"$Martin scored from first on hit and run"
-"PIT193504210",58,"$Lavagetto was spiked by Medwick and left game"
-"PIT193505190",67,"$Gus Suhr left with injured right hand"
-"PIT193505240",39,"$Ball hits Berger's head"
-"PIT193505250",59,"$Babe Ruth's final homer, over the RF roof, estimated at 500 feet"
-"PIT193505260",27,"$Padden and Thevenow collided on pop fly"
-"PIT193506070",76,"game called for rain"
-"PIT193506100",49,"$the ball fell in between Ival Goodman, Billy Sullivan and Alex Kampouris"
-"PIT193507060",12,"$Suhr hit a foul ball near the stands and Herman was hurt crashing into barrier; after a delay of a few minutes, he remained in the game"
-"PIT193507070",25,"$Lindtrsom split finger"
-"PIT193507140",67,"$Suhr tries for ball, Young makes a fine stop, but Blanton not on 1st"
-"PIT193507180",22,"$Jim Bucher hurt his hand throwing the ball around the infield before start of third inning and left"
-"PIT193507180",80,"$after the fly ball was not caught, Gus Suhr caught in run down"
-"PIT193507210",9,"$Vaughan collided with pitcher who dropped throw from 1bman"
-"PIT193507281",16,"$Dean lets bunt pop drop, but Durocher steps on bag before tagging Vaughn who had come back, so Vaughn is safe"
-"PIT193507281",26,"$55 minute rain delay, but Dean does not warm up right after"
-"PIT193507281",41,"$Wet, muddy field may have contributed to error"
-"PIT193508100",35,"rain started"
-"PIT193508111",4,"$Reds manager Charlie Dressen tried to bluff the Pirates by starting lefty Si Johnson and immediately changing to righty Tony Freitas"
-"PIT193508300",6,"$Lloyd Waner injured and carried off the field"
-"PIT193509010",41,"$Blanton ignored return of a pitch"
-"PIT193509070",25,"$Len Koenicke apparently thought there were 2 out"
+"PIT193504200",38,"$Lavagetto broke for home on tap to pitcher Walker and both  he and Padden ended up on third base bag. Davis touched both runners and Padden was declared out by umpire Klem."FILENAME_TX","LINE_NUMBER_CT"
+
+"PIT193504200",68,"$Davis held second until ball dropped in for Moore's first ML hit."1935PIT.EVN.regular.comment.csv",2
+
+"PIT193504200",73,"$Suhr spiked Frisch's hand and he had to leave the game."1935PIT.EVN.regular.comment.csv",3
+
+"PIT193504210",39,"$Martin scored from first on hit and run"1935PIT.EVN.regular.comment.csv",4
+
+"PIT193504210",58,"$Lavagetto was spiked by Medwick and left game"1935PIT.EVN.regular.comment.csv",5
+
+"PIT193505190",67,"$Gus Suhr left with injured right hand"1935PIT.EVN.regular.comment.csv",6
+
+"PIT193505240",39,"$Ball hits Berger's head"1935PIT.EVN.regular.comment.csv",7
+
+"PIT193505250",59,"$Babe Ruth's final homer, over the RF roof, estimated at 500 feet"1935PIT.EVN.regular.comment.csv",8
+
+"PIT193505260",27,"$Padden and Thevenow collided on pop fly"1935PIT.EVN.regular.comment.csv",9
+
+"PIT193506070",76,"game called for rain"1935PIT.EVN.regular.comment.csv",10
+
+"PIT193506100",49,"$the ball fell in between Ival Goodman, Billy Sullivan and Alex Kampouris"1935PIT.EVN.regular.comment.csv",11
+
+"PIT193507060",12,"$Suhr hit a foul ball near the stands and Herman was hurt crashing into barrier; after a delay of a few minutes, he remained in the game"1935PIT.EVN.regular.comment.csv",12
+
+"PIT193507070",25,"$Lindtrsom split finger"1935PIT.EVN.regular.comment.csv",13
+
+"PIT193507140",67,"$Suhr tries for ball, Young makes a fine stop, but Blanton not on 1st"1935PIT.EVN.regular.comment.csv",14
+
+"PIT193507180",22,"$Jim Bucher hurt his hand throwing the ball around the infield before start of third inning and left"1935PIT.EVN.regular.comment.csv",15
+
+"PIT193507180",80,"$after the fly ball was not caught, Gus Suhr caught in run down"1935PIT.EVN.regular.comment.csv",16
+
+"PIT193507210",9,"$Vaughan collided with pitcher who dropped throw from 1bman"1935PIT.EVN.regular.comment.csv",17
+
+"PIT193507281",16,"$Dean lets bunt pop drop, but Durocher steps on bag before tagging Vaughn who had come back, so Vaughn is safe"1935PIT.EVN.regular.comment.csv",18
+
+"PIT193507281",26,"$55 minute rain delay, but Dean does not warm up right after"1935PIT.EVN.regular.comment.csv",19
+
+"PIT193507281",41,"$Wet, muddy field may have contributed to error"1935PIT.EVN.regular.comment.csv",20
+
+"PIT193508100",35,"rain started"1935PIT.EVN.regular.comment.csv",21
+
+"PIT193508111",4,"$Reds manager Charlie Dressen tried to bluff the Pirates by starting lefty Si Johnson and immediately changing to righty Tony Freitas"1935PIT.EVN.regular.comment.csv",22
+
+"PIT193508300",6,"$Lloyd Waner injured and carried off the field"1935PIT.EVN.regular.comment.csv",23
+
+"PIT193509010",41,"$Blanton ignored return of a pitch"1935PIT.EVN.regular.comment.csv",24
+
+"PIT193509070",25,"$Len Koenicke apparently thought there were 2 out"1935PIT.EVN.regular.comment.csv",25
+

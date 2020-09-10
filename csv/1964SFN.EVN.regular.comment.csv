@@ -1,40 +1,40 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"SFN196404150",30,"Debut game for Dick Kelley"
-"SFN196404150",37,"Debut game for Phil Niekro"
-"SFN196405100",28,"ej,hillc101,P,craws901,Call at 1B $Willie McCovey caught the ball and the Giants ran off the field; 1B umpire Shag Crawford ruled that McCovey juggled the ball and called the team back onto the field; the Giants argued the call; Chuck Hiller ejected by Crawford"
-"SFN196405100",58,"$no one fielded the bunt and it rolled into short CF"
-"SFN196405100",59,"$Tommy Davis scored as Jim Davenport held ball on the bunt"
-"SFN196405100",74,"Debut game for Jeff Torborg"
-"SFN196405200",10,"umpchange,2,ump1b,pelec901 umpchange,2,ump2b,(None) $1B umpire Sudol left when hit in knee by foul; 2B umpire Pelekoudas moved to 1st and game was finished with 3 umpires"
-"SFN196406140",49,"ej,tempj101,C,harvd901,Call at 1B $Reds coach Temple ejected by 1B umpire from dugout for arguing that 1bman had foot off base when taking throw"
-"SFN196406150",64,"$Frank Robinson broke glasses on the play"
-"SFN196406250",55,"$Willie McCovey pulled a muscle on 3-1 swing"
-"SFN196406250",103,"$Giants fans roared as Willie Davis attempted to steal HP; Gaylord Perry stepped off and threw to catcher Del Crandall, who only realized Davis was running because of the crowd"
-"SFN196406280",26,"$the Dodgers pitched out and Willie Mays was hung up between 1B and 2B; catcher John Roseboro tagged Mays midway between the bases"
-"SFN196407050",56,"$Jesus Alou was safe at 3B but kept running"
-"SFN196407192",30,"$Mike White tried to beat Jose Pagan to the 2B bag"
-"SFN196407200",56,"$Harvey Kuenn caught the ball over the top of the fence"
-"SFN196407200",84,"ej,darka101,M,secof101,Calls (multiple) at 1B $Giants manager Dark ejected by 1B umpire Secory when he changed pitchers, arguing about two calls in inning"
-"SFN196408180",57,"Jose Pagan and Willie Mays brushed each other and Pagan dropped the ball"
-"SFN196408180",58,"ej,darka101,M,willb901,Interference non-call $Jose Pagan's relay throw pulled Orlando Cepeda off the bag; Giants manager Al Dark argued that Vada Pinson interfered with Pagan by waving his arms as he came into 2B; Dark ejected by 2B umpire Bill Williams"
-"SFN196409190",62,"Debut game for Jerry May"
-"SFN196404150",30,"Debut game for Dick Kelley"
-"SFN196404150",37,"Debut game for Phil Niekro"
-"SFN196405100",28,"ej,hillc101,P,craws901,Call at 1B $Willie McCovey caught the ball and the Giants ran off the field; 1B umpire Shag Crawford ruled that McCovey juggled the ball and called the team back onto the field; the Giants argued the call; Chuck Hiller ejected by Crawford"
-"SFN196405100",58,"$no one fielded the bunt and it rolled into short CF"
-"SFN196405100",59,"$Tommy Davis scored as Jim Davenport held ball on the bunt"
-"SFN196405100",74,"Debut game for Jeff Torborg"
-"SFN196405180",21,"$Duffalo left with cracked 9th rib on 2nd pitch to Altman; did not pitch again until June 20"
-"SFN196405200",10,"umpchange,2,ump1b,pelec901 umpchange,2,ump2b,(None) $1B umpire Sudol left when hit in knee by foul; 2B umpire Pelekoudas moved to 1st and game was finished with 3 umpires"
-"SFN196406140",49,"ej,tempj101,C,harvd901,Call at 1B $Reds coach Temple ejected by 1B umpire from dugout for arguing that 1bman had foot off base when taking throw"
-"SFN196406150",64,"$Frank Robinson broke glasses on the play"
-"SFN196406250",55,"$Willie McCovey pulled a muscle on 3-1 swing"
-"SFN196406250",103,"$Giants fans roared as Willie Davis attempted to steal HP; Gaylord Perry stepped off and threw to catcher Del Crandall, who only realized Davis was running because of the crowd"
-"SFN196406280",26,"$the Dodgers pitched out and Willie Mays was hung up between 1B and 2B; catcher John Roseboro tagged Mays midway between the bases"
-"SFN196407050",56,"$Jesus Alou was safe at 3B but kept running"
-"SFN196407192",30,"$Mike White tried to beat Jose Pagan to the 2B bag"
-"SFN196407200",56,"$Harvey Kuenn caught the ball over the top of the fence"
-"SFN196407200",84,"ej,darka101,M,secof101,Calls (multiple) at 1B $Giants manager Dark ejected by 1B umpire Secory when he changed pitchers, arguing about two calls in inning"
-"SFN196408180",57,"Jose Pagan and Willie Mays brushed each other and Pagan dropped the ball"
-"SFN196408180",58,"ej,darka101,M,willb901,Interference non-call $Jose Pagan's relay throw pulled Orlando Cepeda off the bag; Giants manager Al Dark argued that Vada Pinson interfered with Pagan by waving his arms as he came into 2B; Dark ejected by 2B umpire Bill Williams"
-"SFN196409190",62,"Debut game for Jerry May"
+"SFN196404150",30,"Debut game for Dick Kelley"FILENAME_TX","LINE_NUMBER_CT"
+
+"SFN196404150",37,"Debut game for Phil Niekro"1964SFN.EVN.regular.comment.csv",2
+
+"SFN196405100",28,"ej,hillc101,P,craws901,Call at 1B $Willie McCovey caught the ball and the Giants ran off the field; 1B umpire Shag Crawford ruled that McCovey juggled the ball and called the team back onto the field; the Giants argued the call; Chuck Hiller ejected by Crawford"1964SFN.EVN.regular.comment.csv",3
+
+"SFN196405100",58,"$no one fielded the bunt and it rolled into short CF"1964SFN.EVN.regular.comment.csv",4
+
+"SFN196405100",59,"$Tommy Davis scored as Jim Davenport held ball on the bunt"1964SFN.EVN.regular.comment.csv",5
+
+"SFN196405100",74,"Debut game for Jeff Torborg"1964SFN.EVN.regular.comment.csv",6
+
+"SFN196405180",21,"$Duffalo left with cracked 9th rib on 2nd pitch to Altman; did not pitch again until June 20"1964SFN.EVN.regular.comment.csv",7
+
+"SFN196405200",10,"umpchange,2,ump1b,pelec901 umpchange,2,ump2b,(None) $1B umpire Sudol left when hit in knee by foul; 2B umpire Pelekoudas moved to 1st and game was finished with 3 umpires"1964SFN.EVN.regular.comment.csv",8
+
+"SFN196406140",49,"ej,tempj101,C,harvd901,Call at 1B $Reds coach Temple ejected by 1B umpire from dugout for arguing that 1bman had foot off base when taking throw"1964SFN.EVN.regular.comment.csv",9
+
+"SFN196406150",64,"$Frank Robinson broke glasses on the play"1964SFN.EVN.regular.comment.csv",10
+
+"SFN196406250",55,"$Willie McCovey pulled a muscle on 3-1 swing"1964SFN.EVN.regular.comment.csv",11
+
+"SFN196406250",103,"$Giants fans roared as Willie Davis attempted to steal HP; Gaylord Perry stepped off and threw to catcher Del Crandall, who only realized Davis was running because of the crowd"1964SFN.EVN.regular.comment.csv",12
+
+"SFN196406280",26,"$the Dodgers pitched out and Willie Mays was hung up between 1B and 2B; catcher John Roseboro tagged Mays midway between the bases"1964SFN.EVN.regular.comment.csv",13
+
+"SFN196407050",56,"$Jesus Alou was safe at 3B but kept running"1964SFN.EVN.regular.comment.csv",14
+
+"SFN196407192",30,"$Mike White tried to beat Jose Pagan to the 2B bag"1964SFN.EVN.regular.comment.csv",15
+
+"SFN196407200",56,"$Harvey Kuenn caught the ball over the top of the fence"1964SFN.EVN.regular.comment.csv",16
+
+"SFN196407200",84,"ej,darka101,M,secof101,Calls (multiple) at 1B $Giants manager Dark ejected by 1B umpire Secory when he changed pitchers, arguing about two calls in inning"1964SFN.EVN.regular.comment.csv",17
+
+"SFN196408180",57,"Jose Pagan and Willie Mays brushed each other and Pagan dropped the ball"1964SFN.EVN.regular.comment.csv",18
+
+"SFN196408180",58,"ej,darka101,M,willb901,Interference non-call $Jose Pagan's relay throw pulled Orlando Cepeda off the bag; Giants manager Al Dark argued that Vada Pinson interfered with Pagan by waving his arms as he came into 2B; Dark ejected by 2B umpire Bill Williams"1964SFN.EVN.regular.comment.csv",19
+
+"SFN196409190",62,"Debut game for Jerry May"1964SFN.EVN.regular.comment.csv",20
+

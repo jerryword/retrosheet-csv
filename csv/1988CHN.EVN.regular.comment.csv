@@ -1,57 +1,56 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"CHN198804160",0,"Protest=V"
-"CHN198804160",8,"$ball hit 2B umpire Jerry Crawford for umpire interference; Bobby Bonilla held at 2B; Pirates protest game"
-"CHN198804170",50,"$Vicente Palacios injured on play"
-"CHN198805070",61,"Debut game for Mike Capel"
-"CHN198805120",52,"$Calvin Schiraldi injured"
-"CHN198805310",1,"Debut game for Jeff Pico"
-"CHN198806150",30,"ej,zimmd101,M,westj901,Balls and strikes $Cubs manager Zimmer ejected by HP umpire West for arguing balls and strikes while Grace wass at bat"
-"CHN198806180",19,"umpchange,3,umphome,darlg901 umpchange,3,ump2b,(None) $HP umpire Froemming left when struck on chest by pitch; 2B umpire Darling went behind plate and game finished with 3 umpires"
-"CHN198806280",58,"ej,elial101,M,davib902,Call at 3B Phillies manager Lee Elia ejected by 3B umpire Bob Davidson arguing the out on the appeal, which negated a run"
-"CHN198807160",70,"Game called on account of rain"
-"CHN198807200",75,"Debut game for Roger Samuels"
-"CHN198807220",89,"$Roberto Alomar wasn't paying attention when Benito Santiago threw"
-"CHN198808090",1,"$First completed night game in history of Wrigley Field"
-"CHN198808110",53,"$Damon Berryhill hurt by foul ball"
-"CHN198808120",72,"ej,websm001,P,wendh901,Called third strike Mitch Webster ejected by HP umpire Harry Wendelstedt"
-"CHN198808130",8,"$Ryne Sandberg called for leaving basepath"
-"CHN198808220",91,"ej,treva001,P,davig901,Balk call $Astros Trevino, no longer in game, ejected by 1B umpire Davis for arguing balk call; Dunston appeared to end game with fly ball to CF, however 1B umpire Davis called a balk which however, 1B umpire Gerry Davis called a balk on Juan Agosto to nullified the play; Trevino jumped onto field and was restrained by Astros manager Lanier; as Lanier left field, he and coach Matt Galante got in a shouting match with a fan behind the Astros dugout"
-"CHN198808230",62,"ej,cottc101,C,tatat901,Balk non-call $Cubs coach Cottier ejected by 3B umpire Tata for not calling balk"
-"CHN198809020",6,"Debut game for Doug Dascenzo"
-"CHN198809020",76,"Debut game for Van Snider"
-"CHN198809030",83,"Debut game for Rick Wrona"
-"CHN198809040",53,"Debut game for Marty Brown"
-"CHN198809051",65,"Debut game for Scott Service"
-"CHN198809052",1,"Debut game for Mike Harkey"
-"CHN198809180",45,"Rain delays: 1:20 bottom 6th; 57 min. top of 8th"
-"CHN198809180",65,"1:20 rain delay"
-"CHN198809201",54,"$Shawon Dunston hurt on Rick Sutcliffe ground ball"
-"CHN198809201",77,"$Otis Nixon ran out of base line"
-"CHN198804160",0,"Protest=V"
-"CHN198804160",8,"$ball hit 2B umpire Jerry Crawford for umpire interference; Bobby Bonilla held at 2B; Pirates protest game"
-"CHN198804170",50,"$Vicente Palacios injured on play"
-"CHN198805070",61,"Debut game for Mike Capel"
-"CHN198805120",52,"$Calvin Schiraldi injured"
-"CHN198805310",1,"Debut game for Jeff Pico"
-"CHN198806150",30,"ej,zimmd101,M,westj901,Balls and strikes $Cubs manager Zimmer ejected by HP umpire West for arguing balls and strikes while Grace wass at bat"
-"CHN198806180",19,"umpchange,3,umphome,darlg901 umpchange,3,ump2b,(None) $HP umpire Froemming left when struck on chest by pitch; 2B umpire Darling went behind plate and game finished with 3 umpires"
-"CHN198806280",58,"ej,elial101,M,davib902,Call at 3B Phillies manager Lee Elia ejected by 3B umpire Bob Davidson arguing the out on the appeal, which negated a run"
-"CHN198807160",70,"Game called on account of rain"
-"CHN198807200",75,"Debut game for Roger Samuels"
-"CHN198807220",89,"$Roberto Alomar wasn't paying attention when Benito Santiago threw"
-"CHN198808090",1,"$First completed night game in history of Wrigley Field"
-"CHN198808110",53,"$Damon Berryhill hurt by foul ball"
-"CHN198808120",72,"ej,websm001,P,wendh901,Called third strike Mitch Webster ejected by HP umpire Harry Wendelstedt"
-"CHN198808130",8,"$Ryne Sandberg called for leaving basepath"
-"CHN198808220",91,"ej,treva001,P,davig901,Balk call $Astros Trevino, no longer in game, ejected by 1B umpire Davis for arguing balk call; Dunston appeared to end game with fly ball to CF, however 1B umpire Davis called a balk which however, 1B umpire Gerry Davis called a balk on Juan Agosto to nullified the play; Trevino jumped onto field and was restrained by Astros manager Lanier; as Lanier left field, he and coach Matt Galante got in a shouting match with a fan behind the Astros dugout"
-"CHN198808230",62,"ej,cottc101,C,tatat901,Balk non-call $Cubs coach Cottier ejected by 3B umpire Tata for not calling balk"
-"CHN198809020",6,"Debut game for Doug Dascenzo"
-"CHN198809020",76,"Debut game for Van Snider"
-"CHN198809030",83,"Debut game for Rick Wrona"
-"CHN198809040",53,"Debut game for Marty Brown"
-"CHN198809051",65,"Debut game for Scott Service"
-"CHN198809052",1,"Debut game for Mike Harkey"
-"CHN198809180",45,"Rain delays: 1:20 bottom 6th; 57 min. top of 8th"
-"CHN198809180",65,"1:20 rain delay"
-"CHN198809201",54,"$Shawon Dunston hurt on Rick Sutcliffe ground ball"
-"CHN198809201",77,"$Otis Nixon ran out of base line"
+"CHN198804160",0,"Protest=V"FILENAME_TX","LINE_NUMBER_CT"
+
+"CHN198804160",8,"$ball hit 2B umpire Jerry Crawford for umpire interference; Bobby Bonilla held at 2B; Pirates protest game"1988CHN.EVN.regular.comment.csv",2
+
+"CHN198804170",50,"$Vicente Palacios injured on play"1988CHN.EVN.regular.comment.csv",3
+
+"CHN198805070",61,"Debut game for Mike Capel"1988CHN.EVN.regular.comment.csv",4
+
+"CHN198805120",52,"$Calvin Schiraldi injured"1988CHN.EVN.regular.comment.csv",5
+
+"CHN198805310",1,"Debut game for Jeff Pico"1988CHN.EVN.regular.comment.csv",6
+
+"CHN198806150",30,"ej,zimmd101,M,westj901,Balls and strikes $Cubs manager Zimmer ejected by HP umpire West for arguing balls and strikes while Grace wass at bat"1988CHN.EVN.regular.comment.csv",7
+
+"CHN198806180",19,"umpchange,3,umphome,darlg901 umpchange,3,ump2b,(None) $HP umpire Froemming left when struck on chest by pitch; 2B umpire Darling went behind plate and game finished with 3 umpires"1988CHN.EVN.regular.comment.csv",8
+
+"CHN198806280",58,"ej,elial101,M,davib902,Call at 3B Phillies manager Lee Elia ejected by 3B umpire Bob Davidson arguing the out on the appeal, which negated a run"1988CHN.EVN.regular.comment.csv",9
+
+"CHN198807160",70,"Game called on account of rain"1988CHN.EVN.regular.comment.csv",10
+
+"CHN198807200",75,"Debut game for Roger Samuels"1988CHN.EVN.regular.comment.csv",11
+
+"CHN198807220",89,"$Roberto Alomar wasn't paying attention when Benito Santiago threw"1988CHN.EVN.regular.comment.csv",12
+
+"CHN198808090",1,"$First completed night game in history of Wrigley Field"1988CHN.EVN.regular.comment.csv",13
+
+"CHN198808110",53,"$Damon Berryhill hurt by foul ball"1988CHN.EVN.regular.comment.csv",14
+
+"CHN198808120",72,"ej,websm001,P,wendh901,Called third strike Mitch Webster ejected by HP umpire Harry Wendelstedt"1988CHN.EVN.regular.comment.csv",15
+
+"CHN198808130",8,"$Ryne Sandberg called for leaving basepath"1988CHN.EVN.regular.comment.csv",16
+
+"CHN198808220",91,"ej,treva001,P,davig901,Balk call $Astros Trevino, no longer in game, ejected by 1B umpire Davis for arguing balk call; Dunston appeared to end game with fly ball to CF, however 1B umpire Davis called a balk which however, 1B umpire Gerry Davis called a balk on Juan Agosto to nullified the play; Trevino jumped onto field and was restrained by Astros manager Lanier; as Lanier left field, he and coach Matt Galante got in a shouting match with a fan behind the Astros dugout"1988CHN.EVN.regular.comment.csv",17
+
+"CHN198808230",62,"ej,cottc101,C,tatat901,Balk non-call $Cubs coach Cottier ejected by 3B umpire Tata for not calling balk"1988CHN.EVN.regular.comment.csv",18
+
+"CHN198809020",6,"Debut game for Doug Dascenzo"1988CHN.EVN.regular.comment.csv",19
+
+"CHN198809020",76,"Debut game for Van Snider"1988CHN.EVN.regular.comment.csv",20
+
+"CHN198809030",83,"Debut game for Rick Wrona"1988CHN.EVN.regular.comment.csv",21
+
+"CHN198809040",53,"Debut game for Marty Brown"1988CHN.EVN.regular.comment.csv",22
+
+"CHN198809051",65,"Debut game for Scott Service"1988CHN.EVN.regular.comment.csv",23
+
+"CHN198809052",1,"Debut game for Mike Harkey"1988CHN.EVN.regular.comment.csv",24
+
+"CHN198809180",45,"Rain delays: 1:20 bottom 6th; 57 min. top of 8th"1988CHN.EVN.regular.comment.csv",25
+
+"CHN198809180",65,"1:20 rain delay"1988CHN.EVN.regular.comment.csv",26
+
+"CHN198809201",54,"$Shawon Dunston hurt on Rick Sutcliffe ground ball"1988CHN.EVN.regular.comment.csv",27
+
+"CHN198809201",77,"$Otis Nixon ran out of base line"1988CHN.EVN.regular.comment.csv",28
+

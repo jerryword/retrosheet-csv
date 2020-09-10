@@ -1,41 +1,40 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"BRO194505120",24,"$Goody Rosen held up to see if the ball would be caught"
-"BRO194505130",87,"$originally scheduled game 2 was halted after 4 innings"
-"BRO194506090",62,"$Johnny Peacock struck by foul ball"
-"BRO194506100",30,"ej,peacj101,P,jordl901,Call at HP Johnny Peacock ejected by HP umpire Lou Jorda"
-"BRO194506100",60,"$Hal Gregg slipped on the wet grass"
-"BRO194506100",72,"game called due to rain; scheduled second game not played"
-"BRO194506230",83,"ej,walkd101,P,searz901,Fighting ej,pylee101,P,searz901,Fighting $the Dodgers thought pitcher Ewald Pyle tried to trip Eddie Stanky as he scored; Dixie Walker was on deck, knocked down Pyle and began punching him; Walker and Pyle ejected by HP umpire Ziggy Sears"
-"BRO194506242",9,"Basinski hurts hand on play and leaves game"
-"BRO194507030",11,"$throw struck runner on the back"
-"BRO194507041",59,"ej,durol101,M,boggd901,Fair/foul call Dodgers Manager Leo Durocher ejected by HP umpire Dusty Boggess claiming the ball was foul; fans threw pop bottles and fruit"
-"BRO194507041",65,"ej,olmol101,P,conlj102,Called third strike (Threw bat) $Luis Olmo threw his bat towards HP umpire Dusty Boggess, who had turned and walked away; Olmo ejected by 3B umpire Jocko Conlan"
-"BRO194507041",67,"$Bill Hart struck on right thumb by line drive"
-"BRO194507042",6,"$Frank McCormick was picked off 1B but Al Libke scored during rundown while McCormick returned to 1B"
-"BRO194507060",0,"1:10 rain delay before start of game"
-"BRO194507292",79,"$game called for darkness"
-"BRO194508160",14,"ej,durol101,M,searz901,Balls and strikes Dodgers Manager Leo Durocher ejected by HP umpire Ziggy Sears arguing about a pitch that Sears called a ball and the scoreboard registered as a ball"
-"BRO194508170",80,"$Leo Durocher argued the call; hundreds of fans surrounded 1B umpire Tom Dunn, who was taken safely away by police"
-"BRO194508280",44,"$Stan Andrews ran into the barrier behind HP chasing foul ball and left with bloody nose"
-"BRO194509032",79,"ej,stane101,P,searz901,Fighting ej,culld101,P,searz901,Fighting $Eddie Stanky tagged Dick Culler with a two-fisted tag on the top of the head; Stanky and Culler fought and both benches cleared; Stanky and Culler ejected by HP umpire Ziggy Sears"
-"BRO194509220",56,"$the throw hit Tommy Brown on the back"
-"BRO194505120",24,"$Goody Rosen held up to see if the ball would be caught"
-"BRO194505130",87,"$originally scheduled game 2 was halted after 4 innings"
-"BRO194506090",62,"$Johnny Peacock struck by foul ball"
-"BRO194506100",30,"ej,peacj101,P,jordl901,Call at HP Johnny Peacock ejected by HP umpire Lou Jorda"
-"BRO194506100",60,"$Hal Gregg slipped on the wet grass"
-"BRO194506100",72,"game called due to rain; scheduled second game not played"
-"BRO194506230",83,"ej,walkd101,P,searz901,Fighting ej,pylee101,P,searz901,Fighting $the Dodgers thought pitcher Ewald Pyle tried to trip Eddie Stanky as he scored; Dixie Walker was on deck, knocked down Pyle and began punching him; Walker and Pyle ejected by HP umpire Ziggy Sears"
-"BRO194506242",9,"Basinski hurts hand on play and leaves game"
-"BRO194507030",11,"$throw struck runner on the back"
-"BRO194507041",59,"ej,durol101,M,boggd901,Fair/foul call Dodgers Manager Leo Durocher ejected by HP umpire Dusty Boggess claiming the ball was foul; fans threw pop bottles and fruit"
-"BRO194507041",65,"ej,olmol101,P,conlj102,Called third strike (Threw bat) $Luis Olmo threw his bat towards HP umpire Dusty Boggess, who had turned and walked away; Olmo ejected by 3B umpire Jocko Conlan"
-"BRO194507041",67,"$Bill Hart struck on right thumb by line drive"
-"BRO194507042",6,"$Frank McCormick was picked off 1B but Al Libke scored during rundown while McCormick returned to 1B"
-"BRO194507060",0,"1:10 rain delay before start of game"
-"BRO194507292",79,"$game called for darkness"
-"BRO194508160",14,"ej,durol101,M,searz901,Balls and strikes Dodgers Manager Leo Durocher ejected by HP umpire Ziggy Sears arguing about a pitch that Sears called a ball and the scoreboard registered as a ball"
-"BRO194508170",80,"$Leo Durocher argued the call; hundreds of fans surrounded 1B umpire Tom Dunn, who was taken safely away by police"
-"BRO194508280",44,"$Stan Andrews ran into the barrier behind HP chasing foul ball and left with bloody nose"
-"BRO194509032",79,"ej,stane101,P,searz901,Fighting ej,culld101,P,searz901,Fighting $Eddie Stanky tagged Dick Culler with a two-fisted tag on the top of the head; Stanky and Culler fought and both benches cleared; Stanky and Culler ejected by HP umpire Ziggy Sears"
-"BRO194509220",56,"$the throw hit Tommy Brown on the back"
+"BRO194505120",24,"$Goody Rosen held up to see if the ball would be caught"FILENAME_TX","LINE_NUMBER_CT"
+
+"BRO194505130",87,"$originally scheduled game 2 was halted after 4 innings"1945BRO.EVN.regular.comment.csv",2
+
+"BRO194506090",62,"$Johnny Peacock struck by foul ball"1945BRO.EVN.regular.comment.csv",3
+
+"BRO194506100",30,"ej,peacj101,P,jordl901,Call at HP Johnny Peacock ejected by HP umpire Lou Jorda"1945BRO.EVN.regular.comment.csv",4
+
+"BRO194506100",60,"$Hal Gregg slipped on the wet grass"1945BRO.EVN.regular.comment.csv",5
+
+"BRO194506100",72,"game called due to rain; scheduled second game not played"1945BRO.EVN.regular.comment.csv",6
+
+"BRO194506230",83,"ej,walkd101,P,searz901,Fighting ej,pylee101,P,searz901,Fighting $the Dodgers thought pitcher Ewald Pyle tried to trip Eddie Stanky as he scored; Dixie Walker was on deck, knocked down Pyle and began punching him; Walker and Pyle ejected by HP umpire Ziggy Sears"1945BRO.EVN.regular.comment.csv",7
+
+"BRO194506242",9,"Basinski hurts hand on play and leaves game"1945BRO.EVN.regular.comment.csv",8
+
+"BRO194507030",11,"$throw struck runner on the back"1945BRO.EVN.regular.comment.csv",9
+
+"BRO194507041",59,"ej,durol101,M,boggd901,Fair/foul call Dodgers Manager Leo Durocher ejected by HP umpire Dusty Boggess claiming the ball was foul; fans threw pop bottles and fruit"1945BRO.EVN.regular.comment.csv",10
+
+"BRO194507041",65,"ej,olmol101,P,conlj102,Called third strike (Threw bat) $Luis Olmo threw his bat towards HP umpire Dusty Boggess, who had turned and walked away; Olmo ejected by 3B umpire Jocko Conlan"1945BRO.EVN.regular.comment.csv",11
+
+"BRO194507041",67,"$Bill Hart struck on right thumb by line drive"1945BRO.EVN.regular.comment.csv",12
+
+"BRO194507042",6,"$Frank McCormick was picked off 1B but Al Libke scored during rundown while McCormick returned to 1B"1945BRO.EVN.regular.comment.csv",13
+
+"BRO194507060",0,"1:10 rain delay before start of game"1945BRO.EVN.regular.comment.csv",14
+
+"BRO194507292",79,"$game called for darkness"1945BRO.EVN.regular.comment.csv",15
+
+"BRO194508160",14,"ej,durol101,M,searz901,Balls and strikes Dodgers Manager Leo Durocher ejected by HP umpire Ziggy Sears arguing about a pitch that Sears called a ball and the scoreboard registered as a ball"1945BRO.EVN.regular.comment.csv",16
+
+"BRO194508170",80,"$Leo Durocher argued the call; hundreds of fans surrounded 1B umpire Tom Dunn, who was taken safely away by police"1945BRO.EVN.regular.comment.csv",17
+
+"BRO194508280",44,"$Stan Andrews ran into the barrier behind HP chasing foul ball and left with bloody nose"1945BRO.EVN.regular.comment.csv",18
+
+"BRO194509032",79,"ej,stane101,P,searz901,Fighting ej,culld101,P,searz901,Fighting $Eddie Stanky tagged Dick Culler with a two-fisted tag on the top of the head; Stanky and Culler fought and both benches cleared; Stanky and Culler ejected by HP umpire Ziggy Sears"1945BRO.EVN.regular.comment.csv",19
+
+"BRO194509220",56,"$the throw hit Tommy Brown on the back"1945BRO.EVN.regular.comment.csv",20
+

@@ -1,51 +1,50 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"CHA193804190",0,"Debut for umpire Bill Grieve"
-"CHA193804200",78,"$Cullenbine dropped fly but got force."
-"CHA193804210",38,"$Rogell initially missed plate and Rensa tagged him on Rogell's second try. Hubbard called out and turned away but Ormsby saw Rensa drop the ball and ruled safe."
-"CHA193804210",43,"$over the roof"
-"CHA193804270",20,"$Campbell was hit on the hand."
-"CHA193805190",16,"$Sewell was hit on the R hand."
-"CHA193805190",60,"$Game called due to rain."
-"CHA193805270",0,"$Ladies Day total attendance 8000."
-"CHA193805270",21,"$Greenberg HR 1st time ever hit into CF bleachers 440ft."
-"CHA193805280",64,"$Rain starts."
-"CHA193805280",68,"$Game called at this point due to rain."
-"CHA193806160",28,"$Powell tagged up and went too far - would have gone 853. On E3 Henrich advanced to 3B."
-"CHA193807031",42,"ej,dykej101,M,kolll901,Balk call White Sox Manager Jimmy Dykes ejected by 1B umpire Lou Kolls"
-"CHA193807032",21,"$Steinbacher and Kreevich collided and Steinbacher dropped the ball."
-"CHA193807032",56,"$Solters intentionally dropped Steinbacher's short fly."
-"CHA193808041",6,"$Boze Berger struck by ball, which caromed off his shoulder to his head; Athletics permit Larry Rosenthal as courtesy runner"
-"CHA193808060",0,"$Umpiring debut for former pitcher George Pipgras."
-"CHA193808071",5,"$West failed in his attempt at a shoestring catch"
-"CHA193808071",78,"$Sewell was injured by a foul tip by Appleton"
-"CHA193808090",59,"$Ross left with ankle injury"
-"CHA193808122",0,"$Ladies Day total attendance 10,000."
-"CHA193808131",45,"ej,weatr101,P,quinj901,Bench jockeying $Rollie Hemsley did not catch third strike cleanly; John Whitehead walked up 3B line towards his glove thinking there were 3 outs; Hemsley rolled the ball to the mound; White Sox Earl Webb signaled runners to advance; Roy Weatherly ejected by HP umpire John Quinn"
-"CHA193809210",35,"$Gordon's throw hit Berger in the shoulder."
-"CHA193809302",69,"$Game called for darkness"
-"CHA193810022",45,"$Game called for darkness"
-"CHA193804190",0,"Debut for umpire Bill Grieve"
-"CHA193804200",78,"$Cullenbine dropped fly but got force."
-"CHA193804210",38,"$Rogell initially missed plate and Rensa tagged him on Rogell's second try. Hubbard called out and turned away but Ormsby saw Rensa drop the ball and ruled safe."
-"CHA193804210",43,"$over the roof"
-"CHA193804270",20,"$Campbell was hit on the hand."
-"CHA193805190",16,"$Sewell was hit on the R hand."
-"CHA193805190",60,"$Game called due to rain."
-"CHA193805270",0,"$Ladies Day total attendance 8000."
-"CHA193805270",21,"$Greenberg HR 1st time ever hit into CF bleachers 440ft."
-"CHA193805280",64,"$Rain starts."
-"CHA193805280",68,"$Game called at this point due to rain."
-"CHA193806160",28,"$Powell tagged up and went too far - would have gone 853. On E3 Henrich advanced to 3B."
-"CHA193807031",42,"ej,dykej101,M,kolll901,Balk call White Sox Manager Jimmy Dykes ejected by 1B umpire Lou Kolls"
-"CHA193807032",21,"$Steinbacher and Kreevich collided and Steinbacher dropped the ball."
-"CHA193807032",56,"$Solters intentionally dropped Steinbacher's short fly."
-"CHA193808041",6,"$Boze Berger struck by ball, which caromed off his shoulder to his head; Athletics permit Larry Rosenthal as courtesy runner"
-"CHA193808060",0,"$Umpiring debut for former pitcher George Pipgras."
-"CHA193808071",5,"$West failed in his attempt at a shoestring catch"
-"CHA193808071",78,"$Sewell was injured by a foul tip by Appleton"
-"CHA193808090",59,"$Ross left with ankle injury"
-"CHA193808122",0,"$Ladies Day total attendance 10,000."
-"CHA193808131",45,"ej,weatr101,P,quinj901,Bench jockeying $Rollie Hemsley did not catch third strike cleanly; John Whitehead walked up 3B line towards his glove thinking there were 3 outs; Hemsley rolled the ball to the mound; White Sox Earl Webb signaled runners to advance; Roy Weatherly ejected by HP umpire John Quinn"
-"CHA193809210",35,"$Gordon's throw hit Berger in the shoulder."
-"CHA193809302",69,"$Game called for darkness"
-"CHA193810022",45,"$Game called for darkness"
+"CHA193804190",0,"Debut for umpire Bill Grieve"FILENAME_TX","LINE_NUMBER_CT"
+
+"CHA193804200",78,"$Cullenbine dropped fly but got force."1938CHA.EVA.regular.comment.csv",2
+
+"CHA193804210",38,"$Rogell initially missed plate and Rensa tagged him on Rogell's second try. Hubbard called out and turned away but Ormsby saw Rensa drop the ball and ruled safe."1938CHA.EVA.regular.comment.csv",3
+
+"CHA193804210",43,"$over the roof"1938CHA.EVA.regular.comment.csv",4
+
+"CHA193804270",20,"$Campbell was hit on the hand."1938CHA.EVA.regular.comment.csv",5
+
+"CHA193805190",16,"$Sewell was hit on the R hand."1938CHA.EVA.regular.comment.csv",6
+
+"CHA193805190",60,"$Game called due to rain."1938CHA.EVA.regular.comment.csv",7
+
+"CHA193805270",0,"$Ladies Day total attendance 8000."1938CHA.EVA.regular.comment.csv",8
+
+"CHA193805270",21,"$Greenberg HR 1st time ever hit into CF bleachers 440ft."1938CHA.EVA.regular.comment.csv",9
+
+"CHA193805280",64,"$Rain starts."1938CHA.EVA.regular.comment.csv",10
+
+"CHA193805280",68,"$Game called at this point due to rain."1938CHA.EVA.regular.comment.csv",11
+
+"CHA193806160",28,"$Powell tagged up and went too far - would have gone 853. On E3 Henrich advanced to 3B."1938CHA.EVA.regular.comment.csv",12
+
+"CHA193807031",42,"ej,dykej101,M,kolll901,Balk call White Sox Manager Jimmy Dykes ejected by 1B umpire Lou Kolls"1938CHA.EVA.regular.comment.csv",13
+
+"CHA193807032",21,"$Steinbacher and Kreevich collided and Steinbacher dropped the ball."1938CHA.EVA.regular.comment.csv",14
+
+"CHA193807032",56,"$Solters intentionally dropped Steinbacher's short fly."1938CHA.EVA.regular.comment.csv",15
+
+"CHA193808041",6,"$Boze Berger struck by ball, which caromed off his shoulder to his head; Athletics permit Larry Rosenthal as courtesy runner"1938CHA.EVA.regular.comment.csv",16
+
+"CHA193808060",0,"$Umpiring debut for former pitcher George Pipgras."1938CHA.EVA.regular.comment.csv",17
+
+"CHA193808071",5,"$West failed in his attempt at a shoestring catch"1938CHA.EVA.regular.comment.csv",18
+
+"CHA193808071",78,"$Sewell was injured by a foul tip by Appleton"1938CHA.EVA.regular.comment.csv",19
+
+"CHA193808090",59,"$Ross left with ankle injury"1938CHA.EVA.regular.comment.csv",20
+
+"CHA193808122",0,"$Ladies Day total attendance 10,000."1938CHA.EVA.regular.comment.csv",21
+
+"CHA193808131",45,"ej,weatr101,P,quinj901,Bench jockeying $Rollie Hemsley did not catch third strike cleanly; John Whitehead walked up 3B line towards his glove thinking there were 3 outs; Hemsley rolled the ball to the mound; White Sox Earl Webb signaled runners to advance; Roy Weatherly ejected by HP umpire John Quinn"1938CHA.EVA.regular.comment.csv",22
+
+"CHA193809210",35,"$Gordon's throw hit Berger in the shoulder."1938CHA.EVA.regular.comment.csv",23
+
+"CHA193809302",69,"$Game called for darkness"1938CHA.EVA.regular.comment.csv",24
+
+"CHA193810022",45,"$Game called for darkness"1938CHA.EVA.regular.comment.csv",25
+

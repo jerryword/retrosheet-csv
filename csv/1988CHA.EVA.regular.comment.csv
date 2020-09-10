@@ -1,53 +1,52 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"CHA198804070",4,"$Johnny Ray was injured striking out in 1st"
-"CHA198804070",67,"$Wally Joyner called for interference at 2B"
-"CHA198804100",71,"Debut game for Jose Segura"
-"CHA198804220",31,"13 minute rain delay"
-"CHA198804290",51,"$Billy Ripken hit on head and carried off field"
-"CHA198805010",34,"$Fred Lynn singled off the top of the wall; when runners held, Lynn out at 2B"
-"CHA198805160",61,"$Fred McGriff was playing behind runner; when Dave Stieb started to throw to 1B, he was surpised and balked"
-"CHA198806040",38,"Debut game for Steve Rosenberg"
-"CHA198806110",45,"ej,trebt801,M,garcr901,Arguing for ground-rule double Brewers manager Tom Trebelhorn ejected by 3B umpire Richie Garcia arguing that Daryl Boston's triple should have been a ground rule double"
-"CHA198806120",71,"$Robin Yount is 3rd Brewer to hit for cycle (M.Hegan, C.Moore)"
-"CHA198806120",75,"$Dale Sveum homers from both sides for 2nd time in career"
-"CHA198806200",30,"23 minute rain delay after first pitch to Manrique"
-"CHA198807082",49,"Debut game for Ken Patterson"
-"CHA198807100",1,"Debut game for Steve Curry"
-"CHA198807300",12,"ej,fregj101,M,voltv901,Whether HR actually hit fence White Sox manager Jim Fregosi ejected by 3B umpire Vic Voltaggio arguing that home run hit the fence"
-"CHA198808010",53,"ej,lansc001,P,welkt901,Balk Carney Lansford ejected by 3B umpire Tim Welke"
-"CHA198808010",71,"Debut game for Donn Pall"
-"CHA198808020",8,"Debut game for James Randall"
-"CHA198808290",1,"Debut game for Steve Searcy"
-"CHA198808300",48,"$Dave Bergman pulled groin muscle beating out bunt"
-"CHA198808310",9,"Jack $McDowell removed with injured hip"
-"CHA198809130",3,"$Ken Williams hurt in collision with Dave Gallagher"
-"CHA198809250",1,"Debut game for Ra Manzanillo"
-"CHA198809260",45,"$upper deck homer"
-"CHA198809260",65,"$missed squeeze bunt"
-"CHA198809260",70,"$upper deck homer"
-"CHA198804070",4,"$Johnny Ray was injured striking out in 1st"
-"CHA198804070",67,"$Wally Joyner called for interference at 2B"
-"CHA198804100",71,"Debut game for Jose Segura"
-"CHA198804220",31,"13 minute rain delay"
-"CHA198804290",51,"$Billy Ripken hit on head and carried off field"
-"CHA198805010",34,"$Fred Lynn singled off the top of the wall; when runners held, Lynn out at 2B"
-"CHA198805160",61,"$Fred McGriff was playing behind runner; when Dave Stieb started to throw to 1B, he was surpised and balked"
-"CHA198806040",38,"Debut game for Steve Rosenberg"
-"CHA198806110",45,"ej,trebt801,M,garcr901,Arguing for ground-rule double Brewers manager Tom Trebelhorn ejected by 3B umpire Richie Garcia arguing that Daryl Boston's triple should have been a ground rule double"
-"CHA198806120",71,"$Robin Yount is 3rd Brewer to hit for cycle (M.Hegan, C.Moore)"
-"CHA198806120",75,"$Dale Sveum homers from both sides for 2nd time in career"
-"CHA198806200",30,"23 minute rain delay after first pitch to Manrique"
-"CHA198807082",49,"Debut game for Ken Patterson"
-"CHA198807100",1,"Debut game for Steve Curry"
-"CHA198807300",12,"ej,fregj101,M,voltv901,Whether HR actually hit fence White Sox manager Jim Fregosi ejected by 3B umpire Vic Voltaggio arguing that home run hit the fence"
-"CHA198808010",53,"ej,lansc001,P,welkt901,Balk Carney Lansford ejected by 3B umpire Tim Welke"
-"CHA198808010",71,"Debut game for Donn Pall"
-"CHA198808020",8,"Debut game for James Randall"
-"CHA198808290",1,"Debut game for Steve Searcy"
-"CHA198808300",48,"$Dave Bergman pulled groin muscle beating out bunt"
-"CHA198808310",9,"Jack $McDowell removed with injured hip"
-"CHA198809130",3,"$Ken Williams hurt in collision with Dave Gallagher"
-"CHA198809250",1,"Debut game for Ra Manzanillo"
-"CHA198809260",45,"$upper deck homer"
-"CHA198809260",65,"$missed squeeze bunt"
-"CHA198809260",70,"$upper deck homer"
+"CHA198804070",4,"$Johnny Ray was injured striking out in 1st"FILENAME_TX","LINE_NUMBER_CT"
+
+"CHA198804070",67,"$Wally Joyner called for interference at 2B"1988CHA.EVA.regular.comment.csv",2
+
+"CHA198804100",71,"Debut game for Jose Segura"1988CHA.EVA.regular.comment.csv",3
+
+"CHA198804220",31,"13 minute rain delay"1988CHA.EVA.regular.comment.csv",4
+
+"CHA198804290",51,"$Billy Ripken hit on head and carried off field"1988CHA.EVA.regular.comment.csv",5
+
+"CHA198805010",34,"$Fred Lynn singled off the top of the wall; when runners held, Lynn out at 2B"1988CHA.EVA.regular.comment.csv",6
+
+"CHA198805160",61,"$Fred McGriff was playing behind runner; when Dave Stieb started to throw to 1B, he was surpised and balked"1988CHA.EVA.regular.comment.csv",7
+
+"CHA198806040",38,"Debut game for Steve Rosenberg"1988CHA.EVA.regular.comment.csv",8
+
+"CHA198806110",45,"ej,trebt801,M,garcr901,Arguing for ground-rule double Brewers manager Tom Trebelhorn ejected by 3B umpire Richie Garcia arguing that Daryl Boston's triple should have been a ground rule double"1988CHA.EVA.regular.comment.csv",9
+
+"CHA198806120",71,"$Robin Yount is 3rd Brewer to hit for cycle (M.Hegan, C.Moore)"1988CHA.EVA.regular.comment.csv",10
+
+"CHA198806120",75,"$Dale Sveum homers from both sides for 2nd time in career"1988CHA.EVA.regular.comment.csv",11
+
+"CHA198806200",30,"23 minute rain delay after first pitch to Manrique"1988CHA.EVA.regular.comment.csv",12
+
+"CHA198807082",49,"Debut game for Ken Patterson"1988CHA.EVA.regular.comment.csv",13
+
+"CHA198807100",1,"Debut game for Steve Curry"1988CHA.EVA.regular.comment.csv",14
+
+"CHA198807300",12,"ej,fregj101,M,voltv901,Whether HR actually hit fence White Sox manager Jim Fregosi ejected by 3B umpire Vic Voltaggio arguing that home run hit the fence"1988CHA.EVA.regular.comment.csv",15
+
+"CHA198808010",53,"ej,lansc001,P,welkt901,Balk Carney Lansford ejected by 3B umpire Tim Welke"1988CHA.EVA.regular.comment.csv",16
+
+"CHA198808010",71,"Debut game for Donn Pall"1988CHA.EVA.regular.comment.csv",17
+
+"CHA198808020",8,"Debut game for James Randall"1988CHA.EVA.regular.comment.csv",18
+
+"CHA198808290",1,"Debut game for Steve Searcy"1988CHA.EVA.regular.comment.csv",19
+
+"CHA198808300",48,"$Dave Bergman pulled groin muscle beating out bunt"1988CHA.EVA.regular.comment.csv",20
+
+"CHA198808310",9,"Jack $McDowell removed with injured hip"1988CHA.EVA.regular.comment.csv",21
+
+"CHA198809130",3,"$Ken Williams hurt in collision with Dave Gallagher"1988CHA.EVA.regular.comment.csv",22
+
+"CHA198809250",1,"Debut game for Ra Manzanillo"1988CHA.EVA.regular.comment.csv",23
+
+"CHA198809260",45,"$upper deck homer"1988CHA.EVA.regular.comment.csv",24
+
+"CHA198809260",65,"$missed squeeze bunt"1988CHA.EVA.regular.comment.csv",25
+
+"CHA198809260",70,"$upper deck homer"1988CHA.EVA.regular.comment.csv",26
+

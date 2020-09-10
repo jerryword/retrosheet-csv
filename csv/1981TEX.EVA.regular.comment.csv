@@ -1,49 +1,48 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"TEX198104140",73,"$Debut game for Von Hayes"
-"TEX198104150",59,"$Ron Hassey injured left knee on play at home"
-"TEX198104170",64,"Debut game for Dan Duran"
-"TEX198104280",55,"48 minute rain delay"
-"TEX198104280",58,"Debut game for Dave Schmidt"
-"TEX198104300",68,"ej,zimmd101,M,voltv901,HBP call Rangers Manager Don Zimmer ejected by HP umpire Vic Voltaggio"
-"TEX198105010",1,"ej,wilsw001,P,kunkb101,Call at 1B Willie Wilson ejected by HP umpire Bill Kunkel"
-"TEX198105010",73,"Debut game for Dave Schmidt"
-"TEX198105030",11,"28 minute rain delay"
-"TEX198105092",67,"Debut game for Rick Lisi"
-"TEX198105310",69,"Debut game for Casey Parsons"
-"TEX198106050",78,"missing play in TEX198106050"
-"TEX198106090",4,"ej,andes101,M,koscg901,Checked swing $Tigers manager Anderson ejected by 3B umpire Kosc for arguing check swing on Wills"
-"TEX198108160",67,"ej,houkr101,M,garcr901,Call at 1B (reversed) $Red Sox Manager Houk ejected by HP umpire Garcia when call at 1st eas reversed; Mendoza was called out by 1B umpire Kosc but the call was overruled by Garcia since it was his call"
-"TEX198108182",74,"ej,gantj001,P,sprim901,Checked swing Jim Gantner ejected by 3B umpire Marty Springstead"
-"TEX198109010",26,"Debut game for Len Whitehouse"
-"TEX198109010",43,"Debut game for Mark Mercer"
-"TEX198109010",61,"Debut game for Bob Johnson"
-"TEX198109010",67,"Debut game for Wayne Tolleson"
-"TEX198109020",23,"$Billy Sample called for interference at 2B"
-"TEX198109060",72,"ej,cowea001,P,johnm901,Checked swing Al Cowens ejected by HP umpire Mark Johnson"
-"TEX198109160",41,"$hit on hip"
-"TEX198109160",56,"ej,johnc001,P,phild901,Fighting after ground out $Johnson ejected by HP umpire Phillips for fighting; after grounding out, he ran by mound and started a fight pitcher Darwin; both benches cleared and there were several fights with Johnson in many of them; he was still angry from being hit on the hip by a pitch in the 6th"
-"TEX198109200",13,"Debut game for Gary Gaetti"
-"TEX198104140",73,"$Debut game for Von Hayes"
-"TEX198104150",59,"$Ron Hassey injured left knee on play at home"
-"TEX198104170",64,"Debut game for Dan Duran"
-"TEX198104280",55,"48 minute rain delay"
-"TEX198104280",58,"Debut game for Dave Schmidt"
-"TEX198104300",68,"ej,zimmd101,M,voltv901,HBP call Rangers Manager Don Zimmer ejected by HP umpire Vic Voltaggio"
-"TEX198105010",1,"ej,wilsw001,P,kunkb101,Call at 1B Willie Wilson ejected by HP umpire Bill Kunkel"
-"TEX198105010",73,"Debut game for Dave Schmidt"
-"TEX198105030",11,"28 minute rain delay"
-"TEX198105092",67,"Debut game for Rick Lisi"
-"TEX198105310",69,"Debut game for Casey Parsons"
-"TEX198106050",78,"missing play in TEX198106050"
-"TEX198106090",4,"ej,andes101,M,koscg901,Checked swing $Tigers manager Anderson ejected by 3B umpire Kosc for arguing check swing on Wills"
-"TEX198108160",67,"ej,houkr101,M,garcr901,Call at 1B (reversed) $Red Sox Manager Houk ejected by HP umpire Garcia when call at 1st eas reversed; Mendoza was called out by 1B umpire Kosc but the call was overruled by Garcia since it was his call"
-"TEX198108182",74,"ej,gantj001,P,sprim901,Checked swing Jim Gantner ejected by 3B umpire Marty Springstead"
-"TEX198109010",26,"Debut game for Len Whitehouse"
-"TEX198109010",43,"Debut game for Mark Mercer"
-"TEX198109010",61,"Debut game for Bob Johnson"
-"TEX198109010",67,"Debut game for Wayne Tolleson"
-"TEX198109020",23,"$Billy Sample called for interference at 2B"
-"TEX198109060",72,"ej,cowea001,P,johnm901,Checked swing Al Cowens ejected by HP umpire Mark Johnson"
-"TEX198109160",41,"$hit on hip"
-"TEX198109160",56,"ej,johnc001,P,phild901,Fighting after ground out $Johnson ejected by HP umpire Phillips for fighting; after grounding out, he ran by mound and started a fight pitcher Darwin; both benches cleared and there were several fights with Johnson in many of them; he was still angry from being hit on the hip by a pitch in the 6th"
-"TEX198109200",13,"Debut game for Gary Gaetti"
+"TEX198104140",73,"$Debut game for Von Hayes"FILENAME_TX","LINE_NUMBER_CT"
+
+"TEX198104150",59,"$Ron Hassey injured left knee on play at home"1981TEX.EVA.regular.comment.csv",2
+
+"TEX198104170",64,"Debut game for Dan Duran"1981TEX.EVA.regular.comment.csv",3
+
+"TEX198104280",55,"48 minute rain delay"1981TEX.EVA.regular.comment.csv",4
+
+"TEX198104280",58,"Debut game for Dave Schmidt"1981TEX.EVA.regular.comment.csv",5
+
+"TEX198104300",68,"ej,zimmd101,M,voltv901,HBP call Rangers Manager Don Zimmer ejected by HP umpire Vic Voltaggio"1981TEX.EVA.regular.comment.csv",6
+
+"TEX198105010",1,"ej,wilsw001,P,kunkb101,Call at 1B Willie Wilson ejected by HP umpire Bill Kunkel"1981TEX.EVA.regular.comment.csv",7
+
+"TEX198105010",73,"Debut game for Dave Schmidt"1981TEX.EVA.regular.comment.csv",8
+
+"TEX198105030",11,"28 minute rain delay"1981TEX.EVA.regular.comment.csv",9
+
+"TEX198105092",67,"Debut game for Rick Lisi"1981TEX.EVA.regular.comment.csv",10
+
+"TEX198105310",69,"Debut game for Casey Parsons"1981TEX.EVA.regular.comment.csv",11
+
+"TEX198106050",78,"missing play in TEX198106050"1981TEX.EVA.regular.comment.csv",12
+
+"TEX198106090",4,"ej,andes101,M,koscg901,Checked swing $Tigers manager Anderson ejected by 3B umpire Kosc for arguing check swing on Wills"1981TEX.EVA.regular.comment.csv",13
+
+"TEX198108160",67,"ej,houkr101,M,garcr901,Call at 1B (reversed) $Red Sox Manager Houk ejected by HP umpire Garcia when call at 1st eas reversed; Mendoza was called out by 1B umpire Kosc but the call was overruled by Garcia since it was his call"1981TEX.EVA.regular.comment.csv",14
+
+"TEX198108182",74,"ej,gantj001,P,sprim901,Checked swing Jim Gantner ejected by 3B umpire Marty Springstead"1981TEX.EVA.regular.comment.csv",15
+
+"TEX198109010",26,"Debut game for Len Whitehouse"1981TEX.EVA.regular.comment.csv",16
+
+"TEX198109010",43,"Debut game for Mark Mercer"1981TEX.EVA.regular.comment.csv",17
+
+"TEX198109010",61,"Debut game for Bob Johnson"1981TEX.EVA.regular.comment.csv",18
+
+"TEX198109010",67,"Debut game for Wayne Tolleson"1981TEX.EVA.regular.comment.csv",19
+
+"TEX198109020",23,"$Billy Sample called for interference at 2B"1981TEX.EVA.regular.comment.csv",20
+
+"TEX198109060",72,"ej,cowea001,P,johnm901,Checked swing Al Cowens ejected by HP umpire Mark Johnson"1981TEX.EVA.regular.comment.csv",21
+
+"TEX198109160",41,"$hit on hip"1981TEX.EVA.regular.comment.csv",22
+
+"TEX198109160",56,"ej,johnc001,P,phild901,Fighting after ground out $Johnson ejected by HP umpire Phillips for fighting; after grounding out, he ran by mound and started a fight pitcher Darwin; both benches cleared and there were several fights with Johnson in many of them; he was still angry from being hit on the hip by a pitch in the 6th"1981TEX.EVA.regular.comment.csv",23
+
+"TEX198109200",13,"Debut game for Gary Gaetti"1981TEX.EVA.regular.comment.csv",24
+

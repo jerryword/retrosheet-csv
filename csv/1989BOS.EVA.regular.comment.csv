@@ -1,49 +1,48 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"BOS198904100",1,"Debut game for Joe Skalski"
-"BOS198904130",6,"$the pitch bounced off backstop back to the catcher"
-"BOS198904140",64,"$ball boy picked up fair ball"
-"BOS198904170",45,"$Rene Gonzales slid around tag on wide throw by Marty Barrett"
-"BOS198904170",55,"$Mike Greenwell lost popup in sun"
-"BOS198904170",73,"Checked swing; out on appeal"
-"BOS198905090",5,"$Wes Gardner injured"
-"BOS198905260",36,"ej,morgj101,M,barnl901,Interference non-call $the ball touched the ball boy down the RF line in foul territory; since it was unintentional, the ball remained live and Dick Schofield scored; Red Sox manager Joe Morgan ejected by 1B umpire Larry Barnett arguing for interference"
-"BOS198906040",12,"Debut game for Xavier Hernandez"
-"BOS198906040",59,"$Mike Smithson injured"
-"BOS198906220",33,"ej,smitm002,P,brinj901,Intentionally hitting batter $Pitcher Smithson ejected by 2B umpire Brinkman for intentionally hitting Palmeiro"
-"BOS198906242",21,"$Dan Gladden injured by throw on steal"
-"BOS198906250",64,"$Gene Larkin injured"
-"BOS198907220",31,"ej,morgj101,M,tscht901,Balk call $Red Sox manager Morgan ejected by 3B umpire Tschida for arguing balk call"
-"BOS198908011",52,"$ball lost in sun"
-"BOS198908160",53,"ej,gastc101,M,cousd901,Balls and strikes $Blue Jays manager Gaston ejected by HP umpire Cousins for arguing balls and strikes while Boggs was at bat"
-"BOS198908292",88,"Rain delay after 2nd pitch; game called at 12:01 a.m"
-"BOS198909020",27,"$Mike Boddicker pulled muscle in right elbow"
-"BOS198909030",0,"ej,lefej101,M,cousd901,Arguing calls from previous game $Mariners manager Lefebvre ejected by 3B umpire Cousins during pre-game meeting for arguing calls from previous day's game"
-"BOS198909150",41,"$fan interference"
-"BOS198909150",53,"$Tony Phillips called for obstruction in rundown"
-"BOS198909150",75,"Debut game for Dann Howitt"
-"BOS198909170",83,"ej,cansj001,P,hirsj901,Called third strike Jose Canseco ejected by HP umpire John Hirschbeck"
-"BOS198909280",16,"$Bill Spiers missed stepping on 2B"
-"BOS198904100",1,"Debut game for Joe Skalski"
-"BOS198904130",6,"$the pitch bounced off backstop back to the catcher"
-"BOS198904140",64,"$ball boy picked up fair ball"
-"BOS198904170",45,"$Rene Gonzales slid around tag on wide throw by Marty Barrett"
-"BOS198904170",55,"$Mike Greenwell lost popup in sun"
-"BOS198904170",73,"Checked swing; out on appeal"
-"BOS198905090",5,"$Wes Gardner injured"
-"BOS198905260",36,"ej,morgj101,M,barnl901,Interference non-call $the ball touched the ball boy down the RF line in foul territory; since it was unintentional, the ball remained live and Dick Schofield scored; Red Sox manager Joe Morgan ejected by 1B umpire Larry Barnett arguing for interference"
-"BOS198906040",12,"Debut game for Xavier Hernandez"
-"BOS198906040",59,"$Mike Smithson injured"
-"BOS198906220",33,"ej,smitm002,P,brinj901,Intentionally hitting batter $Pitcher Smithson ejected by 2B umpire Brinkman for intentionally hitting Palmeiro"
-"BOS198906242",21,"$Dan Gladden injured by throw on steal"
-"BOS198906250",64,"$Gene Larkin injured"
-"BOS198907220",31,"ej,morgj101,M,tscht901,Balk call $Red Sox manager Morgan ejected by 3B umpire Tschida for arguing balk call"
-"BOS198908011",52,"$ball lost in sun"
-"BOS198908160",53,"ej,gastc101,M,cousd901,Balls and strikes $Blue Jays manager Gaston ejected by HP umpire Cousins for arguing balls and strikes while Boggs was at bat"
-"BOS198908292",88,"Rain delay after 2nd pitch; game called at 12:01 a.m"
-"BOS198909020",27,"$Mike Boddicker pulled muscle in right elbow"
-"BOS198909030",0,"ej,lefej101,M,cousd901,Arguing calls from previous game $Mariners manager Lefebvre ejected by 3B umpire Cousins during pre-game meeting for arguing calls from previous day's game"
-"BOS198909150",41,"$fan interference"
-"BOS198909150",53,"$Tony Phillips called for obstruction in rundown"
-"BOS198909150",75,"Debut game for Dann Howitt"
-"BOS198909170",83,"ej,cansj001,P,hirsj901,Called third strike Jose Canseco ejected by HP umpire John Hirschbeck"
-"BOS198909280",16,"$Bill Spiers missed stepping on 2B"
+"BOS198904100",1,"Debut game for Joe Skalski"FILENAME_TX","LINE_NUMBER_CT"
+
+"BOS198904130",6,"$the pitch bounced off backstop back to the catcher"1989BOS.EVA.regular.comment.csv",2
+
+"BOS198904140",64,"$ball boy picked up fair ball"1989BOS.EVA.regular.comment.csv",3
+
+"BOS198904170",45,"$Rene Gonzales slid around tag on wide throw by Marty Barrett"1989BOS.EVA.regular.comment.csv",4
+
+"BOS198904170",55,"$Mike Greenwell lost popup in sun"1989BOS.EVA.regular.comment.csv",5
+
+"BOS198904170",73,"Checked swing; out on appeal"1989BOS.EVA.regular.comment.csv",6
+
+"BOS198905090",5,"$Wes Gardner injured"1989BOS.EVA.regular.comment.csv",7
+
+"BOS198905260",36,"ej,morgj101,M,barnl901,Interference non-call $the ball touched the ball boy down the RF line in foul territory; since it was unintentional, the ball remained live and Dick Schofield scored; Red Sox manager Joe Morgan ejected by 1B umpire Larry Barnett arguing for interference"1989BOS.EVA.regular.comment.csv",8
+
+"BOS198906040",12,"Debut game for Xavier Hernandez"1989BOS.EVA.regular.comment.csv",9
+
+"BOS198906040",59,"$Mike Smithson injured"1989BOS.EVA.regular.comment.csv",10
+
+"BOS198906220",33,"ej,smitm002,P,brinj901,Intentionally hitting batter $Pitcher Smithson ejected by 2B umpire Brinkman for intentionally hitting Palmeiro"1989BOS.EVA.regular.comment.csv",11
+
+"BOS198906242",21,"$Dan Gladden injured by throw on steal"1989BOS.EVA.regular.comment.csv",12
+
+"BOS198906250",64,"$Gene Larkin injured"1989BOS.EVA.regular.comment.csv",13
+
+"BOS198907220",31,"ej,morgj101,M,tscht901,Balk call $Red Sox manager Morgan ejected by 3B umpire Tschida for arguing balk call"1989BOS.EVA.regular.comment.csv",14
+
+"BOS198908011",52,"$ball lost in sun"1989BOS.EVA.regular.comment.csv",15
+
+"BOS198908160",53,"ej,gastc101,M,cousd901,Balls and strikes $Blue Jays manager Gaston ejected by HP umpire Cousins for arguing balls and strikes while Boggs was at bat"1989BOS.EVA.regular.comment.csv",16
+
+"BOS198908292",88,"Rain delay after 2nd pitch; game called at 12:01 a.m"1989BOS.EVA.regular.comment.csv",17
+
+"BOS198909020",27,"$Mike Boddicker pulled muscle in right elbow"1989BOS.EVA.regular.comment.csv",18
+
+"BOS198909030",0,"ej,lefej101,M,cousd901,Arguing calls from previous game $Mariners manager Lefebvre ejected by 3B umpire Cousins during pre-game meeting for arguing calls from previous day's game"1989BOS.EVA.regular.comment.csv",19
+
+"BOS198909150",41,"$fan interference"1989BOS.EVA.regular.comment.csv",20
+
+"BOS198909150",53,"$Tony Phillips called for obstruction in rundown"1989BOS.EVA.regular.comment.csv",21
+
+"BOS198909150",75,"Debut game for Dann Howitt"1989BOS.EVA.regular.comment.csv",22
+
+"BOS198909170",83,"ej,cansj001,P,hirsj901,Called third strike Jose Canseco ejected by HP umpire John Hirschbeck"1989BOS.EVA.regular.comment.csv",23
+
+"BOS198909280",16,"$Bill Spiers missed stepping on 2B"1989BOS.EVA.regular.comment.csv",24
+

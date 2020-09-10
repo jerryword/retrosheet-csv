@@ -1,25 +1,24 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"PHI198605280",3,"$Chris Brown left with pulled hamstring"
-"PHI198605280",5,"Debut game for Mike Aldrete"
-"PHI198606030",1,"Debut game for Mike Maddux"
-"PHI198607240",83,"Debut game for Tom Funk"
-"PHI198608110",75,"Debut game for Michael Jackson"
-"PHI198608151",36,"ej,bonib001,P,tatat901,Called third strike Bobby Bonilla ejected by HP umpire Terry Tata"
-"PHI198608170",42,"rain out"
-"PHI198609020",1,"Debut game for Jeff Bittiger"
-"PHI198609150",60,"Debut game for Ruben Rodriguez"
-"PHI198609160",1,"Debut game for Marvin Freeman"
-"PHI198609290",5,"$Keith Moreland thrown out on apparent line-drive single"
-"PHI198609300",48,"Foul tipped third strike"
-"PHI198605280",3,"$Chris Brown left with pulled hamstring"
-"PHI198605280",5,"Debut game for Mike Aldrete"
-"PHI198606030",1,"Debut game for Mike Maddux"
-"PHI198607240",83,"Debut game for Tom Funk"
-"PHI198608110",75,"Debut game for Michael Jackson"
-"PHI198608151",36,"ej,bonib001,P,tatat901,Called third strike Bobby Bonilla ejected by HP umpire Terry Tata"
-"PHI198608170",42,"rain out"
-"PHI198609020",1,"Debut game for Jeff Bittiger"
-"PHI198609150",60,"Debut game for Ruben Rodriguez"
-"PHI198609160",1,"Debut game for Marvin Freeman"
-"PHI198609290",5,"$Keith Moreland thrown out on apparent line-drive single"
-"PHI198609300",48,"Foul tipped third strike"
+"PHI198605280",3,"$Chris Brown left with pulled hamstring"FILENAME_TX","LINE_NUMBER_CT"
+
+"PHI198605280",5,"Debut game for Mike Aldrete"1986PHI.EVN.regular.comment.csv",2
+
+"PHI198606030",1,"Debut game for Mike Maddux"1986PHI.EVN.regular.comment.csv",3
+
+"PHI198607240",83,"Debut game for Tom Funk"1986PHI.EVN.regular.comment.csv",4
+
+"PHI198608110",75,"Debut game for Michael Jackson"1986PHI.EVN.regular.comment.csv",5
+
+"PHI198608151",36,"ej,bonib001,P,tatat901,Called third strike Bobby Bonilla ejected by HP umpire Terry Tata"1986PHI.EVN.regular.comment.csv",6
+
+"PHI198608170",42,"rain out"1986PHI.EVN.regular.comment.csv",7
+
+"PHI198609020",1,"Debut game for Jeff Bittiger"1986PHI.EVN.regular.comment.csv",8
+
+"PHI198609150",60,"Debut game for Ruben Rodriguez"1986PHI.EVN.regular.comment.csv",9
+
+"PHI198609160",1,"Debut game for Marvin Freeman"1986PHI.EVN.regular.comment.csv",10
+
+"PHI198609290",5,"$Keith Moreland thrown out on apparent line-drive single"1986PHI.EVN.regular.comment.csv",11
+
+"PHI198609300",48,"Foul tipped third strike"1986PHI.EVN.regular.comment.csv",12
+

@@ -1,122 +1,120 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"ANA200004120",50,"DV need one in this inning"
-"ANA200004240",0,"ej,madlb001,C,welkb901,Balls and strikes Tigers coach Bill Madlock ejected sometime in game by HP umpire Bill Welke"
-"ANA200004240",17,"ej,mansd801,C,culbf901,Call at 2B (Bumped umpire) Tigers coach Doug Mansolino ejected by Culbreth"
-"ANA200004240",21,"DWS: apparently not GDP, perhaps batter tried for 2nd after overthrow?"
-"ANA200004240",51,"ej,garnp001,M,welkb901,Balls and strikes Tigers manager Phil Garner ejected by HP umpire Bill Welke in sixth"
-"ANA200005080",31,"$both Giambis homer in the game"
-"ANA200005100",27,"ej,hatcm001,C,clara901,Fan interference call Angels coach Mickey Hatcher ejected by 2B umpire Al Clark in fourth"
-"ANA200005170",19,"originally scored as FC/SH"
-"ANA200005170",75,"Debut game for Keith Luuloa"
-"ANA200006200",49,"DV: need one in the inning"
-"ANA200006250",95,"$Erstad hit lead-off and game-ending homers"
-"ANA200006260",41,"DV: need one this inning"
-"ANA200007010",17,"Tejada missed the base on force try"
-"ANA200007040",21,"ej,hendr001,P,welkb901,Called third strike Rickey Henderson ejected by HP umpire Bill Welke"
-"ANA200007270",16,"DV guess; might be on Fordyce AB"
-"ANA200007290",81,"ej,konep001,P,scotd901,Balls and strikes Paul Konerko ejected by HP umpire Dale Scott"
-"ANA200008010",1,"Debut game for Adam Bernero"
-"ANA200008010",24,"$Adam Kennedy out on appeal"
-"ANA200008010",76,"need FLE2 somewhere this inning"
-"ANA200008020",54,"Debut game for Matt Wise"
-"ANA200008270",49,"$Salmon's 30th HR giving Angels four batters with 30"
-"ANA200008280",5,"$infield shift for Vaughn with SS just to right of bag and 3B at SS"
-"ANA200008280",6,"$infield shift for Delgado with SS on other side of bag,  3B at SS and 2B in short RF"
-"ANA200008280",16,"$third consecutive game with homer for Cruz"
-"ANA200008280",24,"$infield shift for Delgado with SS on other side of bag,  3B at SS and 2B in short RF"
-"ANA200008280",26,"$infield shift for Vaughn with SS just to right of bag and 3B at SS"
-"ANA200008280",41,"$18 game hitting streak for Martinez (all games since coming to Toronto); $infield shift for Delgado with SS on other side of bag,  3B at SS and 2B in short RF"
-"ANA200008280",46,"$infield shift for Vaughn with SS just to right of bag and 3B at SS"
-"ANA200008280",47,"this scoring is correct - huge shift"
-"ANA200008280",49,"$1000th career hit for Anderson"
-"ANA200008280",58,"$infield shift for Delgado with SS on other side of bag,  3B at SS and 2B in short RF"
-"ANA200008280",61,"$infield shift for Vaughn with SS just to right of bag and 3B at SS"
-"ANA200008290",3,"$infield shifted for Delgado with SS on other side of bag, 2B in short RF and 3B at SS"
-"ANA200008290",8,"$infield shifted for Vaughn with SS on other side of bag, and 3B at SS"
-"ANA200008290",20,"$infield shifted for Delgado with SS on other side of bag, 2B in short RF and 3B at SS"
-"ANA200008290",30,"$infield shifted for Vaughn with SS on other side of bag, and 3B at SS"
-"ANA200008290",40,"$infield shifted for Delgado with SS on other side of bag, 2B in short RF and 3B at SS"
-"ANA200008290",45,"$infield shifted for Vaughn with SS on other side of bag, and 3B at SS"
-"ANA200008290",59,"$infield in for Erstad"
-"ANA200008290",62,"$infield shifted for Vaughn with SS near the bag"
-"ANA200008290",64,"$infield shifted for Delgado with SS on other side of bag, 2B in short RF and 3B at SS"
-"ANA200008290",76,"$Erstad's 200th hit of the season"
-"ANA200008290",77,"$infield shifted for Vaughn with SS near the bag"
-"ANA200008300",3,"$partial infield shift with SS near 2B bag for Delgado"
-"ANA200008300",15,"$partial infield shift with SS near 2B bag for Delgado"
-"ANA200008300",17,"$partial infield shift with SS near 2B bag for Vaughn"
-"ANA200008300",31,"$20-game hitting streak for Martinez (all games since joining Blue Jays); $infield shift with SS to right of 2B bag for Delgado"
-"ANA200008300",36,"$partial infield shift with SS near 2B bag for Vaughn"
-"ANA200008300",47,"$infield shift with SS to right of 2B bag for Delgado"
-"ANA200008300",49,"$221st homer of year for Blue Jays, tying club record"
-"ANA200008300",54,"$Wells left with tightness in his left shoulder"
-"ANA200008300",57,"$Stewart pulled a homer back"
-"ANA200008300",60,"$infield shift with SS to right of 2B bag for Delgado"
-"ANA200008300",64,"$infield shift with SS to right of 2B bag for Vaughn"
-"ANA200008300",65,"Vaughn's foul right at DV in press box"
-"ANA200008300",79,"$infield shift with SS to right of 2B bag for Delgado"
-"ANA200008300",84,"$123rd homer of year at home for Angels (new club record)"
-"ANA200008300",86,"$Wooten's first ML hit"
-"ANA200009110",23,"no SB for trailing runner"
-"ANA200009130",13,"apparently Martinez stopped at third and then continued still odd that no RBI or error"
-"ANA200009290",57,"100 RBI from first spot in line-up; first time in history"
-"ANA200004120",50,"DV need one in this inning"
-"ANA200004240",16,"ej,mansd801,C,culbf901,Umpire positioning (Bumped umpire) $Tigers 3B coach Mansolino ejected by 3B umpire Culbreth as they collided while trying for same spot on field to monitor runner tagging up to score from 3rd on sac fly"
-"ANA200004240",21,"DWS: apparently not GDP, perhaps batter tried for 2nd after overthrow?"
-"ANA200004240",52,"ej,madlb001,C,welkb901,Called strike 3 ej,garnp001,M,welkb901,Called strike 3 $Tigers manager Garner and coach Madlock ejected by HP umpire Welke for arguing called strike 3 to Fick"
-"ANA200005080",31,"$both Giambis homer in the game"
-"ANA200005100",34,"ej,hatcm001,C,clara901,Fan interference call $Angels coach Hatcher ejected by 2B umpire Clark for arguing fan interference call that returned Anderson to 3rd base"
-"ANA200005170",19,"originally scored as FC/SH"
-"ANA200005170",75,"Debut game for Keith Luuloa"
-"ANA200006200",49,"DV: need one in the inning"
-"ANA200006250",95,"$Erstad hit lead-off and game-ending homers"
-"ANA200006260",41,"DV: need one this inning"
-"ANA200007010",17,"Tejada missed the base on force try"
-"ANA200007040",21,"ej,hendr001,P,welkb901,Called third strike Rickey Henderson ejected by HP umpire Bill Welke"
-"ANA200007270",16,"DV guess; might be on Fordyce AB"
-"ANA200007290",81,"ej,konep001,P,scotd901,Balls and strikes Paul Konerko ejected by HP umpire Dale Scott"
-"ANA200008010",1,"Debut game for Adam Bernero"
-"ANA200008010",24,"$Adam Kennedy out on appeal"
-"ANA200008010",76,"need FLE2 somewhere this inning"
-"ANA200008020",54,"Debut game for Matt Wise"
-"ANA200008270",49,"$Salmon's 30th HR giving Angels four batters with 30"
-"ANA200008280",5,"$infield shift for Vaughn with SS just to right of bag and 3B at SS"
-"ANA200008280",6,"$infield shift for Delgado with SS on other side of bag,  3B at SS and 2B in short RF"
-"ANA200008280",16,"$third consecutive game with homer for Cruz"
-"ANA200008280",24,"$infield shift for Delgado with SS on other side of bag,  3B at SS and 2B in short RF"
-"ANA200008280",26,"$infield shift for Vaughn with SS just to right of bag and 3B at SS"
-"ANA200008280",41,"$18 game hitting streak for Martinez (all games since coming to Toronto); $infield shift for Delgado with SS on other side of bag,  3B at SS and 2B in short RF"
-"ANA200008280",46,"$infield shift for Vaughn with SS just to right of bag and 3B at SS"
-"ANA200008280",47,"this scoring is correct - huge shift"
-"ANA200008280",49,"$1000th career hit for Anderson"
-"ANA200008280",58,"$infield shift for Delgado with SS on other side of bag,  3B at SS and 2B in short RF"
-"ANA200008280",61,"$infield shift for Vaughn with SS just to right of bag and 3B at SS"
-"ANA200008290",3,"$infield shifted for Delgado with SS on other side of bag, 2B in short RF and 3B at SS"
-"ANA200008290",8,"$infield shifted for Vaughn with SS on other side of bag, and 3B at SS"
-"ANA200008290",20,"$infield shifted for Delgado with SS on other side of bag, 2B in short RF and 3B at SS"
-"ANA200008290",30,"$infield shifted for Vaughn with SS on other side of bag, and 3B at SS"
-"ANA200008290",40,"$infield shifted for Delgado with SS on other side of bag, 2B in short RF and 3B at SS"
-"ANA200008290",45,"$infield shifted for Vaughn with SS on other side of bag, and 3B at SS"
-"ANA200008290",59,"$infield in for Erstad"
-"ANA200008290",62,"$infield shifted for Vaughn with SS near the bag"
-"ANA200008290",64,"$infield shifted for Delgado with SS on other side of bag, 2B in short RF and 3B at SS"
-"ANA200008290",76,"$Erstad's 200th hit of the season"
-"ANA200008290",77,"$infield shifted for Vaughn with SS near the bag"
-"ANA200008300",3,"$partial infield shift with SS near 2B bag for Delgado"
-"ANA200008300",15,"$partial infield shift with SS near 2B bag for Delgado"
-"ANA200008300",17,"$partial infield shift with SS near 2B bag for Vaughn"
-"ANA200008300",31,"$20-game hitting streak for Martinez (all games since joining Blue Jays); $infield shift with SS to right of 2B bag for Delgado"
-"ANA200008300",36,"$partial infield shift with SS near 2B bag for Vaughn"
-"ANA200008300",47,"$infield shift with SS to right of 2B bag for Delgado"
-"ANA200008300",49,"$221st homer of year for Blue Jays, tying club record"
-"ANA200008300",54,"$Wells left with tightness in his left shoulder"
-"ANA200008300",57,"$Stewart pulled a homer back"
-"ANA200008300",60,"$infield shift with SS to right of 2B bag for Delgado"
-"ANA200008300",64,"$infield shift with SS to right of 2B bag for Vaughn"
-"ANA200008300",65,"Vaughn's foul right at DV in press box"
-"ANA200008300",79,"$infield shift with SS to right of 2B bag for Delgado"
-"ANA200008300",84,"$123rd homer of year at home for Angels (new club record)"
-"ANA200008300",86,"$Wooten's first ML hit"
-"ANA200009110",23,"no SB for trailing runner"
-"ANA200009130",13,"apparently Martinez stopped at third and then continued still odd that no RBI or error"
-"ANA200009290",57,"100 RBI from first spot in line-up; first time in history"
+"ANA200004120",50,"DV need one in this inning"FILENAME_TX","LINE_NUMBER_CT"
+
+"ANA200004240",16,"ej,mansd801,C,culbf901,Umpire positioning (Bumped umpire) $Tigers 3B coach Mansolino ejected by 3B umpire Culbreth as they collided while trying for same spot on field to monitor runner tagging up to score from 3rd on sac fly"2000ANA.EVA.regular.comment.csv",2
+
+"ANA200004240",21,"DWS: apparently not GDP, perhaps batter tried for 2nd after overthrow?"2000ANA.EVA.regular.comment.csv",3
+
+"ANA200004240",52,"ej,madlb001,C,welkb901,Called strike 3 ej,garnp001,M,welkb901,Called strike 3 $Tigers manager Garner and coach Madlock ejected by HP umpire Welke for arguing called strike 3 to Fick"2000ANA.EVA.regular.comment.csv",4
+
+"ANA200005080",31,"$both Giambis homer in the game"2000ANA.EVA.regular.comment.csv",5
+
+"ANA200005100",34,"ej,hatcm001,C,clara901,Fan interference call $Angels coach Hatcher ejected by 2B umpire Clark for arguing fan interference call that returned Anderson to 3rd base"2000ANA.EVA.regular.comment.csv",6
+
+"ANA200005170",19,"originally scored as FC/SH"2000ANA.EVA.regular.comment.csv",7
+
+"ANA200005170",75,"Debut game for Keith Luuloa"2000ANA.EVA.regular.comment.csv",8
+
+"ANA200006200",49,"DV: need one in the inning"2000ANA.EVA.regular.comment.csv",9
+
+"ANA200006250",95,"$Erstad hit lead-off and game-ending homers"2000ANA.EVA.regular.comment.csv",10
+
+"ANA200006260",41,"DV: need one this inning"2000ANA.EVA.regular.comment.csv",11
+
+"ANA200007010",17,"Tejada missed the base on force try"2000ANA.EVA.regular.comment.csv",12
+
+"ANA200007040",21,"ej,hendr001,P,welkb901,Called third strike Rickey Henderson ejected by HP umpire Bill Welke"2000ANA.EVA.regular.comment.csv",13
+
+"ANA200007270",16,"DV guess; might be on Fordyce AB"2000ANA.EVA.regular.comment.csv",14
+
+"ANA200007290",81,"ej,konep001,P,scotd901,Balls and strikes Paul Konerko ejected by HP umpire Dale Scott"2000ANA.EVA.regular.comment.csv",15
+
+"ANA200008010",1,"Debut game for Adam Bernero"2000ANA.EVA.regular.comment.csv",16
+
+"ANA200008010",24,"$Adam Kennedy out on appeal"2000ANA.EVA.regular.comment.csv",17
+
+"ANA200008010",76,"need FLE2 somewhere this inning"2000ANA.EVA.regular.comment.csv",18
+
+"ANA200008020",54,"Debut game for Matt Wise"2000ANA.EVA.regular.comment.csv",19
+
+"ANA200008270",49,"$Salmon's 30th HR giving Angels four batters with 30"2000ANA.EVA.regular.comment.csv",20
+
+"ANA200008280",5,"$infield shift for Vaughn with SS just to right of bag and 3B at SS"2000ANA.EVA.regular.comment.csv",21
+
+"ANA200008280",6,"$infield shift for Delgado with SS on other side of bag,  3B at SS and 2B in short RF"2000ANA.EVA.regular.comment.csv",22
+
+"ANA200008280",16,"$third consecutive game with homer for Cruz"2000ANA.EVA.regular.comment.csv",23
+
+"ANA200008280",24,"$infield shift for Delgado with SS on other side of bag,  3B at SS and 2B in short RF"2000ANA.EVA.regular.comment.csv",24
+
+"ANA200008280",26,"$infield shift for Vaughn with SS just to right of bag and 3B at SS"2000ANA.EVA.regular.comment.csv",25
+
+"ANA200008280",41,"$18 game hitting streak for Martinez (all games since coming to Toronto); $infield shift for Delgado with SS on other side of bag,  3B at SS and 2B in short RF"2000ANA.EVA.regular.comment.csv",26
+
+"ANA200008280",46,"$infield shift for Vaughn with SS just to right of bag and 3B at SS"2000ANA.EVA.regular.comment.csv",27
+
+"ANA200008280",47,"this scoring is correct - huge shift"2000ANA.EVA.regular.comment.csv",28
+
+"ANA200008280",49,"$1000th career hit for Anderson"2000ANA.EVA.regular.comment.csv",29
+
+"ANA200008280",58,"$infield shift for Delgado with SS on other side of bag,  3B at SS and 2B in short RF"2000ANA.EVA.regular.comment.csv",30
+
+"ANA200008280",61,"$infield shift for Vaughn with SS just to right of bag and 3B at SS"2000ANA.EVA.regular.comment.csv",31
+
+"ANA200008290",3,"$infield shifted for Delgado with SS on other side of bag, 2B in short RF and 3B at SS"2000ANA.EVA.regular.comment.csv",32
+
+"ANA200008290",8,"$infield shifted for Vaughn with SS on other side of bag, and 3B at SS"2000ANA.EVA.regular.comment.csv",33
+
+"ANA200008290",20,"$infield shifted for Delgado with SS on other side of bag, 2B in short RF and 3B at SS"2000ANA.EVA.regular.comment.csv",34
+
+"ANA200008290",30,"$infield shifted for Vaughn with SS on other side of bag, and 3B at SS"2000ANA.EVA.regular.comment.csv",35
+
+"ANA200008290",40,"$infield shifted for Delgado with SS on other side of bag, 2B in short RF and 3B at SS"2000ANA.EVA.regular.comment.csv",36
+
+"ANA200008290",45,"$infield shifted for Vaughn with SS on other side of bag, and 3B at SS"2000ANA.EVA.regular.comment.csv",37
+
+"ANA200008290",59,"$infield in for Erstad"2000ANA.EVA.regular.comment.csv",38
+
+"ANA200008290",62,"$infield shifted for Vaughn with SS near the bag"2000ANA.EVA.regular.comment.csv",39
+
+"ANA200008290",64,"$infield shifted for Delgado with SS on other side of bag, 2B in short RF and 3B at SS"2000ANA.EVA.regular.comment.csv",40
+
+"ANA200008290",76,"$Erstad's 200th hit of the season"2000ANA.EVA.regular.comment.csv",41
+
+"ANA200008290",77,"$infield shifted for Vaughn with SS near the bag"2000ANA.EVA.regular.comment.csv",42
+
+"ANA200008300",3,"$partial infield shift with SS near 2B bag for Delgado"2000ANA.EVA.regular.comment.csv",43
+
+"ANA200008300",15,"$partial infield shift with SS near 2B bag for Delgado"2000ANA.EVA.regular.comment.csv",44
+
+"ANA200008300",17,"$partial infield shift with SS near 2B bag for Vaughn"2000ANA.EVA.regular.comment.csv",45
+
+"ANA200008300",31,"$20-game hitting streak for Martinez (all games since joining Blue Jays); $infield shift with SS to right of 2B bag for Delgado"2000ANA.EVA.regular.comment.csv",46
+
+"ANA200008300",36,"$partial infield shift with SS near 2B bag for Vaughn"2000ANA.EVA.regular.comment.csv",47
+
+"ANA200008300",47,"$infield shift with SS to right of 2B bag for Delgado"2000ANA.EVA.regular.comment.csv",48
+
+"ANA200008300",49,"$221st homer of year for Blue Jays, tying club record"2000ANA.EVA.regular.comment.csv",49
+
+"ANA200008300",54,"$Wells left with tightness in his left shoulder"2000ANA.EVA.regular.comment.csv",50
+
+"ANA200008300",57,"$Stewart pulled a homer back"2000ANA.EVA.regular.comment.csv",51
+
+"ANA200008300",60,"$infield shift with SS to right of 2B bag for Delgado"2000ANA.EVA.regular.comment.csv",52
+
+"ANA200008300",64,"$infield shift with SS to right of 2B bag for Vaughn"2000ANA.EVA.regular.comment.csv",53
+
+"ANA200008300",65,"Vaughn's foul right at DV in press box"2000ANA.EVA.regular.comment.csv",54
+
+"ANA200008300",79,"$infield shift with SS to right of 2B bag for Delgado"2000ANA.EVA.regular.comment.csv",55
+
+"ANA200008300",84,"$123rd homer of year at home for Angels (new club record)"2000ANA.EVA.regular.comment.csv",56
+
+"ANA200008300",86,"$Wooten's first ML hit"2000ANA.EVA.regular.comment.csv",57
+
+"ANA200009110",23,"no SB for trailing runner"2000ANA.EVA.regular.comment.csv",58
+
+"ANA200009130",13,"apparently Martinez stopped at third and then continued still odd that no RBI or error"2000ANA.EVA.regular.comment.csv",59
+
+"ANA200009290",57,"100 RBI from first spot in line-up; first time in history"2000ANA.EVA.regular.comment.csv",60
+

@@ -1,41 +1,40 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"SLN194504221",18,"ej,waltb102,P,jordl901,Call at 3B (Bumped umpire) Bucky Walters ejected by 3B umpire Lou Jorda"
-"SLN194505240",44,"ej,sandr102,P,goetl901,Called third strike (Threw bat) Ray Sanders ejected by HP umpire Larry Goetz"
-"SLN194505260",3,"$off a light tower"
-"SLN194505271",42,"DWS: apparently went past base, but got steal credit"
-"SLN194506010",81,"53 minute rain delay"
-"SLN194506020",50,"$Van Mungo had retired 19 straight"
-"SLN194506101",69,"$Brecheen thought he had Gionfriddo bluffed back to 3rd, but when he threw to first, Gionfriddo came home, easily beating the relay throw"
-"SLN194506102",24,"$Gustine injured shoulder in mixup with shortstop, left game after batting in 4th"
-"SLN194506102",44,"'short passed ball'"
-"SLN194506102",70,"$Wilks left, complaining of a sore arm"
-"SLN194507191",24,"$Flager left game with sore arm"
-"SLN194507191",52,"$only ball 4 was intentional"
-"SLN194507191",56,"$Major League debur for Glenn Gardner"
-"SLN194509062",71,"$Whitey Wietelmann left with an injured knee"
-"SLN194509092",36,"$missed squeeze"
-"SLN194509100",49,"ej,ruckj101,P,dunnt901,Call at 2B Johnny Rucker ejected by 1B umpire Tom Dunn"
-"SLN194509110",29,"$pitch out on bunt try"
-"SLN194509170",30,"$no one covered first"
-"SLN194509200",9,"$Prim dropped the throw trying to get Sanders coming back"
-"SLN194509220",58,"$Eddie Miller's throw struck Johnny Hopp"
-"SLN194504221",18,"ej,waltb102,P,jordl901,Call at 3B (Bumped umpire) Bucky Walters ejected by 3B umpire Lou Jorda"
-"SLN194505240",44,"ej,sandr102,P,goetl901,Called third strike (Threw bat) Ray Sanders ejected by HP umpire Larry Goetz"
-"SLN194505260",3,"$off a light tower"
-"SLN194505271",42,"DWS: apparently went past base, but got steal credit"
-"SLN194506010",81,"53 minute rain delay"
-"SLN194506020",50,"$Van Mungo had retired 19 straight"
-"SLN194506101",69,"$Brecheen thought he had Gionfriddo bluffed back to 3rd, but when he threw to first, Gionfriddo came home, easily beating the relay throw"
-"SLN194506102",24,"$Gustine injured shoulder in mixup with shortstop, left game after batting in 4th"
-"SLN194506102",44,"'short passed ball'"
-"SLN194506102",70,"$Wilks left, complaining of a sore arm"
-"SLN194507191",24,"$Flager left game with sore arm"
-"SLN194507191",52,"$only ball 4 was intentional"
-"SLN194507191",56,"$Major League debur for Glenn Gardner"
-"SLN194509062",71,"$Whitey Wietelmann left with an injured knee"
-"SLN194509092",36,"$missed squeeze"
-"SLN194509100",49,"ej,ruckj101,P,dunnt901,Call at 2B Johnny Rucker ejected by 1B umpire Tom Dunn"
-"SLN194509110",29,"$pitch out on bunt try"
-"SLN194509170",30,"$no one covered first"
-"SLN194509200",9,"$Prim dropped the throw trying to get Sanders coming back"
-"SLN194509220",58,"$Eddie Miller's throw struck Johnny Hopp"
+"SLN194504221",18,"ej,waltb102,P,jordl901,Call at 3B (Bumped umpire) Bucky Walters ejected by 3B umpire Lou Jorda"FILENAME_TX","LINE_NUMBER_CT"
+
+"SLN194505240",44,"ej,sandr102,P,goetl901,Called third strike (Threw bat) Ray Sanders ejected by HP umpire Larry Goetz"1945SLN.EVN.regular.comment.csv",2
+
+"SLN194505260",3,"$off a light tower"1945SLN.EVN.regular.comment.csv",3
+
+"SLN194505271",42,"DWS: apparently went past base, but got steal credit"1945SLN.EVN.regular.comment.csv",4
+
+"SLN194506010",81,"53 minute rain delay"1945SLN.EVN.regular.comment.csv",5
+
+"SLN194506020",50,"$Van Mungo had retired 19 straight"1945SLN.EVN.regular.comment.csv",6
+
+"SLN194506101",69,"$Brecheen thought he had Gionfriddo bluffed back to 3rd, but when he threw to first, Gionfriddo came home, easily beating the relay throw"1945SLN.EVN.regular.comment.csv",7
+
+"SLN194506102",24,"$Gustine injured shoulder in mixup with shortstop, left game after batting in 4th"1945SLN.EVN.regular.comment.csv",8
+
+"SLN194506102",44,"'short passed ball'"1945SLN.EVN.regular.comment.csv",9
+
+"SLN194506102",70,"$Wilks left, complaining of a sore arm"1945SLN.EVN.regular.comment.csv",10
+
+"SLN194507191",24,"$Flager left game with sore arm"1945SLN.EVN.regular.comment.csv",11
+
+"SLN194507191",52,"$only ball 4 was intentional"1945SLN.EVN.regular.comment.csv",12
+
+"SLN194507191",56,"$Major League debur for Glenn Gardner"1945SLN.EVN.regular.comment.csv",13
+
+"SLN194509062",71,"$Whitey Wietelmann left with an injured knee"1945SLN.EVN.regular.comment.csv",14
+
+"SLN194509092",36,"$missed squeeze"1945SLN.EVN.regular.comment.csv",15
+
+"SLN194509100",49,"ej,ruckj101,P,dunnt901,Call at 2B Johnny Rucker ejected by 1B umpire Tom Dunn"1945SLN.EVN.regular.comment.csv",16
+
+"SLN194509110",29,"$pitch out on bunt try"1945SLN.EVN.regular.comment.csv",17
+
+"SLN194509170",30,"$no one covered first"1945SLN.EVN.regular.comment.csv",18
+
+"SLN194509200",9,"$Prim dropped the throw trying to get Sanders coming back"1945SLN.EVN.regular.comment.csv",19
+
+"SLN194509220",58,"$Eddie Miller's throw struck Johnny Hopp"1945SLN.EVN.regular.comment.csv",20
+

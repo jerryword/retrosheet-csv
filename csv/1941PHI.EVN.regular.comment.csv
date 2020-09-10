@@ -1,41 +1,40 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"PHI194104160",26,"$Ball hit Miller's bat as he tried to dodge the pitch"
-"PHI194104260",83,"$high pop near plate and batter did not run; catcher dropped it intentionally, then got easy DP"
-"PHI194105040",26,"umpchange,4,ump3b,(None) $3B umpire George Magerkurth left with a pulled tendon in his right leg"
-"PHI194105100",35,"arbitrary 3/G to 63, matching ebn"
-"PHI194106030",60,"$Bragan pulled the hidden ball trick on Galan"
-"PHI194106060",10,"$onto the LF roof"
-"PHI194106060",15,"$the only hit of the game for the Phillies"
-"PHI194106100",43,"out of base line"
-"PHI194107060",65,"$Game called for rain"
-"PHI194107150",33,"$2bman tagged Marion"
-"PHI194107160",7,"DWS: bogus FLE but Dahlgren needs error"
-"PHI194107170",54,"$Game called for rain after Hack walked and Galan sacrificed"
-"PHI194108171",42,"ej,benjs101,P,conlj102,Call at 3B $Benjamin ejected by HP umpire Conlan for arguing call at 3B"
-"PHI194108182",75,"$Chuck Klein's 300th home run; he was the seventh batter to reach that milestone"
-"PHI194108210",22,"$Marty muffed Padgett's fly ball but recovered in time to force Mize at second base"
-"PHI194108220",40,"Hopp injured hand sliding into 2b"
-"PHI194108230",1,"ej,etten101,P,goetl901,Safe/out on pickoff $1Bman Etten ejected after pickoff attempt"
-"PHI194109220",10,"$the Phillies claimed the ball was foul"
-"PHI194109220",11,"ej,muelh101,P,conlj102,Fair/foul call Heinie Mueller ejected by 3B umpire Jocko Conlan"
-"PHI194109231",73,"$Marnie turned ankle sliding to second."
-"PHI194104160",26,"$Ball hit Miller's bat as he tried to dodge the pitch"
-"PHI194104260",83,"$high pop near plate and batter did not run; catcher dropped it intentionally, then got easy DP"
-"PHI194105040",26,"umpchange,4,ump3b,(None) $3B umpire George Magerkurth left with a pulled tendon in his right leg"
-"PHI194105100",35,"arbitrary 3/G to 63, matching ebn"
-"PHI194106030",60,"$Bragan pulled the hidden ball trick on Galan"
-"PHI194106060",10,"$onto the LF roof"
-"PHI194106060",15,"$the only hit of the game for the Phillies"
-"PHI194106100",43,"out of base line"
-"PHI194107060",65,"$Game called for rain"
-"PHI194107150",33,"$2bman tagged Marion"
-"PHI194107160",7,"DWS: bogus FLE but Dahlgren needs error"
-"PHI194107170",54,"$Game called for rain after Hack walked and Galan sacrificed"
-"PHI194108171",42,"ej,benjs101,P,conlj102,Call at 3B $Benjamin ejected by HP umpire Conlan for arguing call at 3B"
-"PHI194108182",75,"$Chuck Klein's 300th home run; he was the seventh batter to reach that milestone"
-"PHI194108210",22,"$Marty muffed Padgett's fly ball but recovered in time to force Mize at second base"
-"PHI194108220",40,"Hopp injured hand sliding into 2b"
-"PHI194108230",1,"ej,etten101,P,goetl901,Safe/out on pickoff $1Bman Etten ejected after pickoff attempt"
-"PHI194109220",10,"$the Phillies claimed the ball was foul"
-"PHI194109220",11,"ej,muelh101,P,conlj102,Fair/foul call Heinie Mueller ejected by 3B umpire Jocko Conlan"
-"PHI194109231",73,"$Marnie turned ankle sliding to second."
+"PHI194104160",26,"$Ball hit Miller's bat as he tried to dodge the pitch"FILENAME_TX","LINE_NUMBER_CT"
+
+"PHI194104260",83,"$high pop near plate and batter did not run; catcher dropped it intentionally, then got easy DP"1941PHI.EVN.regular.comment.csv",2
+
+"PHI194105040",26,"umpchange,4,ump3b,(None) $3B umpire George Magerkurth left with a pulled tendon in his right leg"1941PHI.EVN.regular.comment.csv",3
+
+"PHI194105100",35,"arbitrary 3/G to 63, matching ebn"1941PHI.EVN.regular.comment.csv",4
+
+"PHI194106030",60,"$Bragan pulled the hidden ball trick on Galan"1941PHI.EVN.regular.comment.csv",5
+
+"PHI194106060",10,"$onto the LF roof"1941PHI.EVN.regular.comment.csv",6
+
+"PHI194106060",15,"$the only hit of the game for the Phillies"1941PHI.EVN.regular.comment.csv",7
+
+"PHI194106100",43,"out of base line"1941PHI.EVN.regular.comment.csv",8
+
+"PHI194107060",65,"$Game called for rain"1941PHI.EVN.regular.comment.csv",9
+
+"PHI194107150",33,"$2bman tagged Marion"1941PHI.EVN.regular.comment.csv",10
+
+"PHI194107160",7,"DWS: bogus FLE but Dahlgren needs error"1941PHI.EVN.regular.comment.csv",11
+
+"PHI194107170",54,"$Game called for rain after Hack walked and Galan sacrificed"1941PHI.EVN.regular.comment.csv",12
+
+"PHI194108171",42,"ej,benjs101,P,conlj102,Call at 3B $Benjamin ejected by HP umpire Conlan for arguing call at 3B"1941PHI.EVN.regular.comment.csv",13
+
+"PHI194108182",75,"$Chuck Klein's 300th home run; he was the seventh batter to reach that milestone"1941PHI.EVN.regular.comment.csv",14
+
+"PHI194108210",22,"$Marty muffed Padgett's fly ball but recovered in time to force Mize at second base"1941PHI.EVN.regular.comment.csv",15
+
+"PHI194108220",40,"Hopp injured hand sliding into 2b"1941PHI.EVN.regular.comment.csv",16
+
+"PHI194108230",1,"ej,etten101,P,goetl901,Safe/out on pickoff $1Bman Etten ejected after pickoff attempt"1941PHI.EVN.regular.comment.csv",17
+
+"PHI194109220",10,"$the Phillies claimed the ball was foul"1941PHI.EVN.regular.comment.csv",18
+
+"PHI194109220",11,"ej,muelh101,P,conlj102,Fair/foul call Heinie Mueller ejected by 3B umpire Jocko Conlan"1941PHI.EVN.regular.comment.csv",19
+
+"PHI194109231",73,"$Marnie turned ankle sliding to second."1941PHI.EVN.regular.comment.csv",20
+

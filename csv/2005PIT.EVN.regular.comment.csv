@@ -1,45 +1,44 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"PIT200504040",13,"Debut game for Jack Hardy"
-"PIT200504060",19,"Jose Castillo left the game due to an injured chest"
-"PIT200504250",59,"fan interference"
-"PIT200506050",68,"Debut game for Ryan Doumit"
-"PIT200506120",52,"Devil Rays pitcher Mark Hendrickson left the game due to an injured leg"
-"PIT200506120",75,"Pittsburgh Pirates shortstop Jack Wilson left the game due to an injured arm"
-"PIT200506200",0,"Nationals Mgr Robinson serving 1-game suspension for argument with Angels Mgr Scioscia last week"
-"PIT200506210",67,"ej,mccll001,M,demud901,Call at HP Pirates Manager Lloyd McClendon ejected by HP umpire Dana DeMuth"
-"PIT200507050",8,"$Line drive off Lieber's elbow, deflected to Bell; Lieber left game, X-ray shows no break"
-"PIT200507200",40,"ej,tavew001,P,iassd901,Call at 1B ej,garnp001,M,iassd901,Call at 1B Willy Taveras & Mgr Phil Garner ejected by 1B umpire Dan Iassogna"
-"PIT200507220",12,"Debut game for Brad Eldred"
-"PIT200508030",61,"Pirates left fielder Jody Gerut left the game due to an injured knee"
-"PIT200508040",85,"ej,jackd003,P,welkb901,Called third strike Padres third baseman Damian Jackson ejected by HP umpire Bill Welke"
-"PIT200508220",27,"Pirates Jose Castillo left the game due to an injured knee"
-"PIT200508230",19,"Pirates pitcher Zach Duke left the game due to an injured foot/ankle"
-"PIT200509080",1,"Debut game for Dustin Nippert"
-"PIT200509080",47,"Pirates pitcher Josh Fogg left the game due to an injured hand/wrist"
-"PIT200509161",58,"$Casey hit under eye by elbow of Cota, unconscious for time"
-"PIT200509161",62,"Debut game for Matt Capps"
-"PIT200509180",35,"Debut game for Bryan Bullington"
-"PIT200509200",1,"Debut game for Tom Gorzelanny"
-"PIT200510020",8,"Pirates left fielder Jason Bay left the game due to an injured arm"
-"PIT200504040",13,"Debut game for Jack Hardy"
-"PIT200504060",19,"Jose Castillo left the game due to an injured chest"
-"PIT200504250",59,"fan interference"
-"PIT200506050",68,"Debut game for Ryan Doumit"
-"PIT200506120",52,"Devil Rays pitcher Mark Hendrickson left the game due to an injured leg"
-"PIT200506120",75,"Pittsburgh Pirates shortstop Jack Wilson left the game due to an injured arm"
-"PIT200506200",0,"Nationals Mgr Robinson serving 1-game suspension for argument with Angels Mgr Scioscia last week"
-"PIT200506210",67,"ej,mccll001,M,demud901,Call at HP Pirates Manager Lloyd McClendon ejected by HP umpire Dana DeMuth"
-"PIT200507050",8,"$Line drive off Lieber's elbow, deflected to Bell; Lieber left game, X-ray shows no break"
-"PIT200507200",40,"ej,tavew001,P,iassd901,Call at 1B ej,garnp001,M,iassd901,Call at 1B Willy Taveras & Mgr Phil Garner ejected by 1B umpire Dan Iassogna"
-"PIT200507220",12,"Debut game for Brad Eldred"
-"PIT200508030",61,"Pirates left fielder Jody Gerut left the game due to an injured knee"
-"PIT200508040",85,"ej,jackd003,P,welkb901,Called third strike Padres third baseman Damian Jackson ejected by HP umpire Bill Welke"
-"PIT200508220",27,"Pirates Jose Castillo left the game due to an injured knee"
-"PIT200508230",19,"Pirates pitcher Zach Duke left the game due to an injured foot/ankle"
-"PIT200509080",1,"Debut game for Dustin Nippert"
-"PIT200509080",47,"Pirates pitcher Josh Fogg left the game due to an injured hand/wrist"
-"PIT200509161",58,"$Casey hit under eye by elbow of Cota, unconscious for time"
-"PIT200509161",62,"Debut game for Matt Capps"
-"PIT200509180",35,"Debut game for Bryan Bullington"
-"PIT200509200",1,"Debut game for Tom Gorzelanny"
-"PIT200510020",8,"Pirates left fielder Jason Bay left the game due to an injured arm"
+"PIT200504040",13,"Debut game for Jack Hardy"FILENAME_TX","LINE_NUMBER_CT"
+
+"PIT200504060",19,"Jose Castillo left the game due to an injured chest"2005PIT.EVN.regular.comment.csv",2
+
+"PIT200504250",59,"fan interference"2005PIT.EVN.regular.comment.csv",3
+
+"PIT200506050",68,"Debut game for Ryan Doumit"2005PIT.EVN.regular.comment.csv",4
+
+"PIT200506120",52,"Devil Rays pitcher Mark Hendrickson left the game due to an injured leg"2005PIT.EVN.regular.comment.csv",5
+
+"PIT200506120",75,"Pittsburgh Pirates shortstop Jack Wilson left the game due to an injured arm"2005PIT.EVN.regular.comment.csv",6
+
+"PIT200506200",0,"Nationals Mgr Robinson serving 1-game suspension for argument with Angels Mgr Scioscia last week"2005PIT.EVN.regular.comment.csv",7
+
+"PIT200506210",67,"ej,mccll001,M,demud901,Call at HP Pirates Manager Lloyd McClendon ejected by HP umpire Dana DeMuth"2005PIT.EVN.regular.comment.csv",8
+
+"PIT200507050",8,"$Line drive off Lieber's elbow, deflected to Bell; Lieber left game, X-ray shows no break"2005PIT.EVN.regular.comment.csv",9
+
+"PIT200507200",40,"ej,tavew001,P,iassd901,Call at 1B ej,garnp001,M,iassd901,Call at 1B Willy Taveras & Mgr Phil Garner ejected by 1B umpire Dan Iassogna"2005PIT.EVN.regular.comment.csv",10
+
+"PIT200507220",12,"Debut game for Brad Eldred"2005PIT.EVN.regular.comment.csv",11
+
+"PIT200508030",61,"Pirates left fielder Jody Gerut left the game due to an injured knee"2005PIT.EVN.regular.comment.csv",12
+
+"PIT200508040",85,"ej,jackd003,P,welkb901,Called third strike Padres third baseman Damian Jackson ejected by HP umpire Bill Welke"2005PIT.EVN.regular.comment.csv",13
+
+"PIT200508220",27,"Pirates Jose Castillo left the game due to an injured knee"2005PIT.EVN.regular.comment.csv",14
+
+"PIT200508230",19,"Pirates pitcher Zach Duke left the game due to an injured foot/ankle"2005PIT.EVN.regular.comment.csv",15
+
+"PIT200509080",1,"Debut game for Dustin Nippert"2005PIT.EVN.regular.comment.csv",16
+
+"PIT200509080",47,"Pirates pitcher Josh Fogg left the game due to an injured hand/wrist"2005PIT.EVN.regular.comment.csv",17
+
+"PIT200509161",58,"$Casey hit under eye by elbow of Cota, unconscious for time"2005PIT.EVN.regular.comment.csv",18
+
+"PIT200509161",62,"Debut game for Matt Capps"2005PIT.EVN.regular.comment.csv",19
+
+"PIT200509180",35,"Debut game for Bryan Bullington"2005PIT.EVN.regular.comment.csv",20
+
+"PIT200509200",1,"Debut game for Tom Gorzelanny"2005PIT.EVN.regular.comment.csv",21
+
+"PIT200510020",8,"Pirates left fielder Jason Bay left the game due to an injured arm"2005PIT.EVN.regular.comment.csv",22
+

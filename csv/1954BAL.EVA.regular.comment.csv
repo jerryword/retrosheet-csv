@@ -1,39 +1,38 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"BAL195404150",0,"$the first major league game played in Memorial Stadium and the the first American League game played in Baltimore since 1902"
-"BAL195404150",62,"officials and NY Times box gives this run to Pierce, but I am pretty sure it should go to Trucks"
-"BAL195404180",16,"$Sam Mele left with brusied finger"
-"BAL195404220",40,"$Bill Glynn spiked on double by Vern Stephens"
-"BAL195404220",70,"NY Times clearly shows 2 SB for Hunter but official does not"
-"BAL195405140",30,"ej,pierj102,P,umonf901,Called third strike Jim Piersall ejected by HP umpire Frank Umont"
-"BAL195405150",48,"$Ted Williams 1954 debut; had been out with broken collarbone"
-"BAL195405150",62,"$Joe Coleman injured hand on Tex Clevenger's grounder in eighth inning"
-"BAL195405161",0,"Protest=V"
-"BAL195405161",23,"ej,crosf103,C,soarh901,Home run/in play call $20 minute argument on whether the ball was a home run or in play; the ball bounced atop the auxiliary scoreboard and rolled along the ledge; Yankees manager Casey Stengel, coach Frank Crosetti, coach Bill Dickey and Hank Bauer argued with 1B umpire Hank Soar who ruled the ball in play; the Yankees then talked to 2B umpire Bill Summers who overruled Soar and called it a home run; the Orioles argued the reversal and then the two umpires argued; the four arbiters huddled and called it a ball in play; Stengel protested the game; Crosetti ejected by Soar"
-"BAL195406170",35,"$Gil Coan slipped rounding 3B"
-"BAL195406290",50,"$Jim Hegan held at 2B on shoestring catch attempt"
-"BAL195407300",28,"ej,berry101,P,umonf901,Call at HP $with two strikes, Billy Hunter missed on a squeeze bunt attempt; Yogi Berra trapped the pitch in the dirt; Berra swiped at Hunter and tagged Clint Courtney running from 3B; Hunter kept running to 2B and was ignored by Berra; HP umpire Frank Umont said Berra did not tag Hunter; Yogi Berra ejected by HP umpire Frank Umont"
-"BAL195408060",35,"One of BAL strikeouts was K23"
-"BAL195408190",21,"ej,kellg102,P,honoj901,Balls and strikes George Kell ejected by HP umpire Jim Honochick"
-"BAL195408190",76,"1:07 rain delay"
-"BAL195409080",12,"one of the NY strikeouts is K23"
-"BAL195409090",52,"$bad hop single for the only hit of the game by the Yankees"
-"BAL195409140",4,"not sure the E9 belongs here"
-"BAL195404150",0,"$the first major league game played in Memorial Stadium and the the first American League game played in Baltimore since 1902"
-"BAL195404150",62,"officials and NY Times box gives this run to Pierce, but I am pretty sure it should go to Trucks"
-"BAL195404180",16,"$Sam Mele left with brusied finger"
-"BAL195404220",40,"$Bill Glynn spiked on double by Vern Stephens"
-"BAL195404220",70,"NY Times clearly shows 2 SB for Hunter but official does not"
-"BAL195405140",30,"ej,pierj102,P,umonf901,Called third strike Jim Piersall ejected by HP umpire Frank Umont"
-"BAL195405150",48,"$Ted Williams 1954 debut; had been out with broken collarbone"
-"BAL195405150",62,"$Joe Coleman injured hand on Tex Clevenger's grounder in eighth inning"
-"BAL195405161",0,"Protest=V"
-"BAL195405161",23,"ej,crosf103,C,soarh901,Home run/in play call $20 minute argument on whether the ball was a home run or in play; the ball bounced atop the auxiliary scoreboard and rolled along the ledge; Yankees manager Casey Stengel, coach Frank Crosetti, coach Bill Dickey and Hank Bauer argued with 1B umpire Hank Soar who ruled the ball in play; the Yankees then talked to 2B umpire Bill Summers who overruled Soar and called it a home run; the Orioles argued the reversal and then the two umpires argued; the four arbiters huddled and called it a ball in play; Stengel protested the game; Crosetti ejected by Soar"
-"BAL195406170",35,"$Gil Coan slipped rounding 3B"
-"BAL195406290",50,"$Jim Hegan held at 2B on shoestring catch attempt"
-"BAL195407300",28,"ej,berry101,P,umonf901,Call at HP $with two strikes, Billy Hunter missed on a squeeze bunt attempt; Yogi Berra trapped the pitch in the dirt; Berra swiped at Hunter and tagged Clint Courtney running from 3B; Hunter kept running to 2B and was ignored by Berra; HP umpire Frank Umont said Berra did not tag Hunter; Yogi Berra ejected by HP umpire Frank Umont"
-"BAL195408060",35,"One of BAL strikeouts was K23"
-"BAL195408190",21,"ej,kellg102,P,honoj901,Balls and strikes George Kell ejected by HP umpire Jim Honochick"
-"BAL195408190",76,"1:07 rain delay"
-"BAL195409080",12,"one of the NY strikeouts is K23"
-"BAL195409090",52,"$bad hop single for the only hit of the game by the Yankees"
-"BAL195409140",4,"not sure the E9 belongs here"
+"BAL195404150",0,"$the first major league game played in Memorial Stadium and the the first American League game played in Baltimore since 1902"FILENAME_TX","LINE_NUMBER_CT"
+
+"BAL195404150",62,"officials and NY Times box gives this run to Pierce, but I am pretty sure it should go to Trucks"1954BAL.EVA.regular.comment.csv",2
+
+"BAL195404180",16,"$Sam Mele left with brusied finger"1954BAL.EVA.regular.comment.csv",3
+
+"BAL195404220",40,"$Bill Glynn spiked on double by Vern Stephens"1954BAL.EVA.regular.comment.csv",4
+
+"BAL195404220",70,"NY Times clearly shows 2 SB for Hunter but official does not"1954BAL.EVA.regular.comment.csv",5
+
+"BAL195405140",30,"ej,pierj102,P,umonf901,Called third strike Jim Piersall ejected by HP umpire Frank Umont"1954BAL.EVA.regular.comment.csv",6
+
+"BAL195405150",48,"$Ted Williams 1954 debut; had been out with broken collarbone"1954BAL.EVA.regular.comment.csv",7
+
+"BAL195405150",62,"$Joe Coleman injured hand on Tex Clevenger's grounder in eighth inning"1954BAL.EVA.regular.comment.csv",8
+
+"BAL195405161",0,"Protest=V"1954BAL.EVA.regular.comment.csv",9
+
+"BAL195405161",23,"ej,crosf103,C,soarh901,Home run/in play call $20 minute argument on whether the ball was a home run or in play; the ball bounced atop the auxiliary scoreboard and rolled along the ledge; Yankees manager Casey Stengel, coach Frank Crosetti, coach Bill Dickey and Hank Bauer argued with 1B umpire Hank Soar who ruled the ball in play; the Yankees then talked to 2B umpire Bill Summers who overruled Soar and called it a home run; the Orioles argued the reversal and then the two umpires argued; the four arbiters huddled and called it a ball in play; Stengel protested the game; Crosetti ejected by Soar"1954BAL.EVA.regular.comment.csv",10
+
+"BAL195406170",35,"$Gil Coan slipped rounding 3B"1954BAL.EVA.regular.comment.csv",11
+
+"BAL195406290",50,"$Jim Hegan held at 2B on shoestring catch attempt"1954BAL.EVA.regular.comment.csv",12
+
+"BAL195407300",28,"ej,berry101,P,umonf901,Call at HP $with two strikes, Billy Hunter missed on a squeeze bunt attempt; Yogi Berra trapped the pitch in the dirt; Berra swiped at Hunter and tagged Clint Courtney running from 3B; Hunter kept running to 2B and was ignored by Berra; HP umpire Frank Umont said Berra did not tag Hunter; Yogi Berra ejected by HP umpire Frank Umont"1954BAL.EVA.regular.comment.csv",13
+
+"BAL195408060",35,"One of BAL strikeouts was K23"1954BAL.EVA.regular.comment.csv",14
+
+"BAL195408190",21,"ej,kellg102,P,honoj901,Balls and strikes George Kell ejected by HP umpire Jim Honochick"1954BAL.EVA.regular.comment.csv",15
+
+"BAL195408190",76,"1:07 rain delay"1954BAL.EVA.regular.comment.csv",16
+
+"BAL195409080",12,"one of the NY strikeouts is K23"1954BAL.EVA.regular.comment.csv",17
+
+"BAL195409090",52,"$bad hop single for the only hit of the game by the Yankees"1954BAL.EVA.regular.comment.csv",18
+
+"BAL195409140",4,"not sure the E9 belongs here"1954BAL.EVA.regular.comment.csv",19
+

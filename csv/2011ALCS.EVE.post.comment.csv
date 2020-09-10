@@ -1,23 +1,22 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"TEX201110080",37,"41 minute rain delay after one pitch to Brandon Inge"
-"TEX201110080",44,"69 minute rain delay"
-"TEX201110080",44,"$Tigers Magglio Ordonez left the game with a broken right ankle, which he suffered after turning his ankle during batting practice"
-"TEX201110100",24,"$Victor Martinez checked his swing and reacted as if hit by the ball; HP umpire Larry Vanover asked 1B umpire Jim Wolf if Martinez swung; when the ball rolled to the backstop and catcher Mike Napoli did not run after it, Miguel Cabrera ran from 2B to home, apparently scoring a run; the umpires huddled and called the pitch a hit batter, placing Martinez on 1B and putting Cabrera back on 2B"
-"TEX201110100",57,"$off the LF pole"
-"TEX201110100",72,"$SS Elvis Andrus closed his throwing hand over his glove before the ball was in the glove; the ball hit the back of his hand and bounced; Andrus closed both hands over the ball against his chest to trap the ball and make the catch"
-"TEX201110100",92,"$Nelson Cruz hit the first game-ending grand slam in post-season history"
-"DET201110120",0,"2:13 rain delay before start; much of game played in the rain"
-"DET201110130",51,"$this is the first time in post-season history that a team has hit a single, double, triple and home run in order in the same inning"
-"DET201110130",67,"$the fifth homer in this LCS by Nelson Cruz; Cruz becomes the first player to hit five homers in one LCS"
-"TEX201110150",74,"$sixth home run for Nelson Cruz in the ALCS, sets record for most by one player in a postseason series"
-"TEX201110080",37,"41 minute rain delay after one pitch to Brandon Inge"
-"TEX201110080",44,"69 minute rain delay"
-"TEX201110080",44,"$Tigers Magglio Ordonez left the game with a broken right ankle, which he suffered after turning his ankle during batting practice"
-"TEX201110100",24,"$Victor Martinez checked his swing and reacted as if hit by the ball; HP umpire Larry Vanover asked 1B umpire Jim Wolf if Martinez swung; when the ball rolled to the backstop and catcher Mike Napoli did not run after it, Miguel Cabrera ran from 2B to home, apparently scoring a run; the umpires huddled and called the pitch a hit batter, placing Martinez on 1B and putting Cabrera back on 2B"
-"TEX201110100",57,"$off the LF pole"
-"TEX201110100",72,"$SS Elvis Andrus closed his throwing hand over his glove before the ball was in the glove; the ball hit the back of his hand and bounced; Andrus closed both hands over the ball against his chest to trap the ball and make the catch"
-"TEX201110100",92,"$Nelson Cruz hit the first game-ending grand slam in post-season history"
-"DET201110120",0,"2:13 rain delay before start; much of game played in the rain"
-"DET201110130",51,"$this is the first time in post-season history that a team has hit a single, double, triple and home run in order in the same inning"
-"DET201110130",67,"$the fifth homer in this LCS by Nelson Cruz; Cruz becomes the first player to hit five homers in one LCS"
-"TEX201110150",74,"$sixth home run for Nelson Cruz in the ALCS, sets record for most by one player in a postseason series"
+"TEX201110080",37,"41 minute rain delay after one pitch to Brandon Inge"FILENAME_TX","LINE_NUMBER_CT"
+
+"TEX201110080",44,"69 minute rain delay"2011ALCS.EVE.post.comment.csv",2
+
+"TEX201110080",44,"$Tigers Magglio Ordonez left the game with a broken right ankle, which he suffered after turning his ankle during batting practice"2011ALCS.EVE.post.comment.csv",3
+
+"TEX201110100",24,"$Victor Martinez checked his swing and reacted as if hit by the ball; HP umpire Larry Vanover asked 1B umpire Jim Wolf if Martinez swung; when the ball rolled to the backstop and catcher Mike Napoli did not run after it, Miguel Cabrera ran from 2B to home, apparently scoring a run; the umpires huddled and called the pitch a hit batter, placing Martinez on 1B and putting Cabrera back on 2B"2011ALCS.EVE.post.comment.csv",4
+
+"TEX201110100",57,"$off the LF pole"2011ALCS.EVE.post.comment.csv",5
+
+"TEX201110100",72,"$SS Elvis Andrus closed his throwing hand over his glove before the ball was in the glove; the ball hit the back of his hand and bounced; Andrus closed both hands over the ball against his chest to trap the ball and make the catch"2011ALCS.EVE.post.comment.csv",6
+
+"TEX201110100",92,"$Nelson Cruz hit the first game-ending grand slam in post-season history"2011ALCS.EVE.post.comment.csv",7
+
+"DET201110120",0,"2:13 rain delay before start; much of game played in the rain"2011ALCS.EVE.post.comment.csv",8
+
+"DET201110130",51,"$this is the first time in post-season history that a team has hit a single, double, triple and home run in order in the same inning"2011ALCS.EVE.post.comment.csv",9
+
+"DET201110130",67,"$the fifth homer in this LCS by Nelson Cruz; Cruz becomes the first player to hit five homers in one LCS"2011ALCS.EVE.post.comment.csv",10
+
+"TEX201110150",74,"$sixth home run for Nelson Cruz in the ALCS, sets record for most by one player in a postseason series"2011ALCS.EVE.post.comment.csv",11
+

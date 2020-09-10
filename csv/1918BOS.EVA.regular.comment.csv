@@ -1,85 +1,84 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"BOS191804150",50,"pbp ends here, rest deduced"
-"BOS191804170",70,"9th inning from Boston Globe."
-"BOS191804192",53,"$Runner scores from 2nd on great catch at wall"
-"BOS191804192",64,"pbp account ends here, rest deduced"
-"BOS191804200",8,"Strunk hit on hand while trying to bunt"
-"BOS191804200",48,"pbp account ends here, rest deduced"
-"BOS191805240",50,"pbp account ends here, rest deduced"
-"BOS191805280",30,"$5 minute rain delay."
-"BOS191806201",31,"Broken suicide squeeze."
-"BOS191806201",52,"Dugan lost popup in sun."
-"BOS191806201",63,"Over the fence."
-"BOS191806202",40,"Leonard hurt on play."
-"BOS191806210",5,"Munch lost both balls in the sun."
-"BOS191807081",47,"ej,fohll101,M,hildg101,Call at HP $Cleveland manager Fohl ejected for arguing call at home"
-"BOS191807081",75,"$Ruth's drive landed more than two-thirds of the way up the RF bleachers on the fly, but with a runner on 1B, was only credited with a triple under rules of 1918."
-"BOS191807082",13,"$Throw hit Schang and bounded to RF"
-"BOS191807082",47,"$Morton beat the throw and appeared to score but missed the plate"
-"BOS191807082",52,"ej,fohll101,M,hildg101,Call at HP $Cleveland manager Fohl ejected by plate umpire Hildebrand for arguing call at home"
-"BOS191807082",71,"Hooper lost it in the sun"
-"BOS191807090",8,"Deduced fielders"
-"BOS191807090",12,"Deduced fielders"
-"BOS191807090",33,"Deduced fielders"
-"BOS191807090",48,"Deduced fielders"
-"BOS191807090",68,"Rolled through Strunk"
-"BOS191807090",69,"Evans missed bunt attempt allowing pickoff"
-"BOS191807090",74,"Deduced fielders"
-"BOS191807090",78,"Deduced fielders"
-"BOS191807090",79,"Graney rounded 3B too far"
-"BOS191807090",85,"Wind prevented HR"
-"BOS191807090",90,"Wind-aided fly over Speaker"
-"BOS191807090",91,"Scott was run down"
-"BOS191807090",92," EBA Assists: Bush=2"
-"BOS191807100",1,"Hooper: fine stop prevented extra bases"
-"BOS191807100",3,"Stansbury: great stop; Graney was run down"
-"BOS191807100",19,"Infield hit"
-"BOS191807100",20,"Threw into dugout"
-"BOS191807100",35,"$Game called after for rain"
-"BOS191807120",63,"$Game called for rain"
-"BOS191808200",15,"Mayer dropped pop but Ruth caught it."
-"BOS191808200",28,"Tried to score when catcher missed pitch."
-"BOS191808301",8,"Ball hit the base."
-"BOS191808301",75,"Oldring dropped fly ball."
-"BOS191804150",50,"pbp ends here, rest deduced"
-"BOS191804170",70,"9th inning from Boston Globe."
-"BOS191804192",53,"$Runner scores from 2nd on great catch at wall"
-"BOS191804192",64,"pbp account ends here, rest deduced"
-"BOS191804200",8,"Strunk hit on hand while trying to bunt"
-"BOS191804200",48,"pbp account ends here, rest deduced"
-"BOS191805240",50,"pbp account ends here, rest deduced"
-"BOS191805280",30,"$5 minute rain delay."
-"BOS191806201",31,"Broken suicide squeeze."
-"BOS191806201",52,"Dugan lost popup in sun."
-"BOS191806201",63,"Over the fence."
-"BOS191806202",40,"Leonard hurt on play."
-"BOS191806210",5,"Munch lost both balls in the sun."
-"BOS191807081",47,"ej,fohll101,M,hildg101,Call at HP $Cleveland manager Fohl ejected for arguing call at home"
-"BOS191807081",75,"$Ruth's drive landed more than two-thirds of the way up the RF bleachers on the fly, but with a runner on 1B, was only credited with a triple under rules of 1918."
-"BOS191807082",13,"$Throw hit Schang and bounded to RF"
-"BOS191807082",47,"$Morton beat the throw and appeared to score but missed the plate"
-"BOS191807082",52,"ej,fohll101,M,hildg101,Call at HP $Cleveland manager Fohl ejected by plate umpire Hildebrand for arguing call at home"
-"BOS191807082",71,"Hooper lost it in the sun"
-"BOS191807090",8,"Deduced fielders"
-"BOS191807090",12,"Deduced fielders"
-"BOS191807090",33,"Deduced fielders"
-"BOS191807090",48,"Deduced fielders"
-"BOS191807090",68,"Rolled through Strunk"
-"BOS191807090",69,"Evans missed bunt attempt allowing pickoff"
-"BOS191807090",74,"Deduced fielders"
-"BOS191807090",78,"Deduced fielders"
-"BOS191807090",79,"Graney rounded 3B too far"
-"BOS191807090",85,"Wind prevented HR"
-"BOS191807090",90,"Wind-aided fly over Speaker"
-"BOS191807090",91,"Scott was run down"
-"BOS191807090",92," EBA Assists: Bush=2"
-"BOS191807100",1,"Hooper: fine stop prevented extra bases"
-"BOS191807100",3,"Stansbury: great stop; Graney was run down"
-"BOS191807100",19,"Infield hit"
-"BOS191807100",20,"Threw into dugout"
-"BOS191807100",35,"$Game called after for rain"
-"BOS191807120",63,"$Game called for rain"
-"BOS191808200",15,"Mayer dropped pop but Ruth caught it."
-"BOS191808200",28,"Tried to score when catcher missed pitch."
-"BOS191808301",8,"Ball hit the base."
-"BOS191808301",75,"Oldring dropped fly ball."
+"BOS191804150",50,"pbp ends here, rest deduced"FILENAME_TX","LINE_NUMBER_CT"
+
+"BOS191804170",70,"9th inning from Boston Globe."1918BOS.EVA.regular.comment.csv",2
+
+"BOS191804192",53,"$Runner scores from 2nd on great catch at wall"1918BOS.EVA.regular.comment.csv",3
+
+"BOS191804192",64,"pbp account ends here, rest deduced"1918BOS.EVA.regular.comment.csv",4
+
+"BOS191804200",8,"Strunk hit on hand while trying to bunt"1918BOS.EVA.regular.comment.csv",5
+
+"BOS191804200",48,"pbp account ends here, rest deduced"1918BOS.EVA.regular.comment.csv",6
+
+"BOS191805240",50,"pbp account ends here, rest deduced"1918BOS.EVA.regular.comment.csv",7
+
+"BOS191805280",30,"$5 minute rain delay."1918BOS.EVA.regular.comment.csv",8
+
+"BOS191806201",31,"Broken suicide squeeze."1918BOS.EVA.regular.comment.csv",9
+
+"BOS191806201",52,"Dugan lost popup in sun."1918BOS.EVA.regular.comment.csv",10
+
+"BOS191806201",63,"Over the fence."1918BOS.EVA.regular.comment.csv",11
+
+"BOS191806202",40,"Leonard hurt on play."1918BOS.EVA.regular.comment.csv",12
+
+"BOS191806210",5,"Munch lost both balls in the sun."1918BOS.EVA.regular.comment.csv",13
+
+"BOS191807081",47,"ej,fohll101,M,hildg101,Call at HP $Cleveland manager Fohl ejected for arguing call at home"1918BOS.EVA.regular.comment.csv",14
+
+"BOS191807081",75,"$Ruth's drive landed more than two-thirds of the way up the RF bleachers on the fly, but with a runner on 1B, was only credited with a triple under rules of 1918."1918BOS.EVA.regular.comment.csv",15
+
+"BOS191807082",13,"$Throw hit Schang and bounded to RF"1918BOS.EVA.regular.comment.csv",16
+
+"BOS191807082",47,"$Morton beat the throw and appeared to score but missed the plate"1918BOS.EVA.regular.comment.csv",17
+
+"BOS191807082",52,"ej,fohll101,M,hildg101,Call at HP $Cleveland manager Fohl ejected by plate umpire Hildebrand for arguing call at home"1918BOS.EVA.regular.comment.csv",18
+
+"BOS191807082",71,"Hooper lost it in the sun"1918BOS.EVA.regular.comment.csv",19
+
+"BOS191807090",8,"Deduced fielders"1918BOS.EVA.regular.comment.csv",20
+
+"BOS191807090",12,"Deduced fielders"1918BOS.EVA.regular.comment.csv",21
+
+"BOS191807090",33,"Deduced fielders"1918BOS.EVA.regular.comment.csv",22
+
+"BOS191807090",48,"Deduced fielders"1918BOS.EVA.regular.comment.csv",23
+
+"BOS191807090",68,"Rolled through Strunk"1918BOS.EVA.regular.comment.csv",24
+
+"BOS191807090",69,"Evans missed bunt attempt allowing pickoff"1918BOS.EVA.regular.comment.csv",25
+
+"BOS191807090",74,"Deduced fielders"1918BOS.EVA.regular.comment.csv",26
+
+"BOS191807090",78,"Deduced fielders"1918BOS.EVA.regular.comment.csv",27
+
+"BOS191807090",79,"Graney rounded 3B too far"1918BOS.EVA.regular.comment.csv",28
+
+"BOS191807090",85,"Wind prevented HR"1918BOS.EVA.regular.comment.csv",29
+
+"BOS191807090",90,"Wind-aided fly over Speaker"1918BOS.EVA.regular.comment.csv",30
+
+"BOS191807090",91,"Scott was run down"1918BOS.EVA.regular.comment.csv",31
+
+"BOS191807090",92," EBA Assists: Bush=2"1918BOS.EVA.regular.comment.csv",32
+
+"BOS191807100",1,"Hooper: fine stop prevented extra bases"1918BOS.EVA.regular.comment.csv",33
+
+"BOS191807100",3,"Stansbury: great stop; Graney was run down"1918BOS.EVA.regular.comment.csv",34
+
+"BOS191807100",19,"Infield hit"1918BOS.EVA.regular.comment.csv",35
+
+"BOS191807100",20,"Threw into dugout"1918BOS.EVA.regular.comment.csv",36
+
+"BOS191807100",35,"$Game called after for rain"1918BOS.EVA.regular.comment.csv",37
+
+"BOS191807120",63,"$Game called for rain"1918BOS.EVA.regular.comment.csv",38
+
+"BOS191808200",15,"Mayer dropped pop but Ruth caught it."1918BOS.EVA.regular.comment.csv",39
+
+"BOS191808200",28,"Tried to score when catcher missed pitch."1918BOS.EVA.regular.comment.csv",40
+
+"BOS191808301",8,"Ball hit the base."1918BOS.EVA.regular.comment.csv",41
+
+"BOS191808301",75,"Oldring dropped fly ball."1918BOS.EVA.regular.comment.csv",42
+

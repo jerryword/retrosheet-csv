@@ -1,27 +1,26 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"NYA199404040",51,"Debut game for James Hurst"
-"NYA199404100",73,"ej,hernx001,P,barnl901,Intentional HBP Xavier Hernandez ejected by HP umpire Larry Barnett"
-"NYA199405060",57,"$Dave Valle called for interference"
-"NYA199405220",0,"ej,oatej101,M,shulj901,Call at HP Orioles manager Johnny Oates ejected by HP umpire John Shulock sometime in game"
-"NYA199405300",61,"Debut game for Dane Johnson"
-"NYA199407050",77,"ej,oneip001,P,hicke901,Called third strike Paul O'Neill ejected by HP umpire Ed Hickox"
-"NYA199407060",35,"Debut game for Russ Davis"
-"NYA199407270",0,"Suspend=19940728,,3,3,45"
-"NYA199407270",67,"$Gallego thought there were two outs and not throw to first to try for DP, allowing tying run to score."
-"NYA199407270",68,"suspended,19940728,NYC16,rain $Game suspended here for rain, completed next day"
-"NYA199407280",57,"$Luis Polonia missed 2B on his way back to 1B and was called out on appeal"
-"NYA199407300",53,"ej,abboj001,P,hicke901,Balls and strikes Jim Abbott ejected by HP umpire Ed Hickox"
-"NYA199407310",50,"ej,murre001,P,mckej901,Balls and strikes Eddie Murray ejected by HP umpire Jim McKean"
-"NYA199404040",51,"Debut game for James Hurst"
-"NYA199404100",73,"ej,hernx001,P,barnl901,Intentional HBP Xavier Hernandez ejected by HP umpire Larry Barnett"
-"NYA199405060",57,"$Dave Valle called for interference"
-"NYA199405220",39,"ej,oatej101,M,shulj901,Call at HP $Orioles manager Oates ejected by HP umpire Shulock for arguing that Ripken was safe at home"
-"NYA199405300",61,"Debut game for Dane Johnson"
-"NYA199407050",77,"ej,oneip001,P,hicke901,Called third strike Paul O'Neill ejected by HP umpire Ed Hickox"
-"NYA199407060",35,"Debut game for Russ Davis"
-"NYA199407270",0,"Suspend=19940728,,3,3,45"
-"NYA199407270",67,"$Gallego thought there were two outs and not throw to first to try for DP, allowing tying run to score."
-"NYA199407270",68,"suspended,19940728,NYC16,rain $Game suspended here for rain, completed next day"
-"NYA199407280",57,"$Luis Polonia missed 2B on his way back to 1B and was called out on appeal"
-"NYA199407300",53,"ej,abboj001,P,hicke901,Balls and strikes $Pitcher Abbott ejected by HP umpire Hickox for arguing balls and strikes after he was removed from game"
-"NYA199407310",50,"ej,murre001,P,mckej901,Balls and strikes Eddie Murray ejected by HP umpire Jim McKean"
+"NYA199404040",51,"Debut game for James Hurst"FILENAME_TX","LINE_NUMBER_CT"
+
+"NYA199404100",73,"ej,hernx001,P,barnl901,Intentional HBP Xavier Hernandez ejected by HP umpire Larry Barnett"1994NYA.EVA.regular.comment.csv",2
+
+"NYA199405060",57,"$Dave Valle called for interference"1994NYA.EVA.regular.comment.csv",3
+
+"NYA199405220",39,"ej,oatej101,M,shulj901,Call at HP $Orioles manager Oates ejected by HP umpire Shulock for arguing that Ripken was safe at home"1994NYA.EVA.regular.comment.csv",4
+
+"NYA199405300",61,"Debut game for Dane Johnson"1994NYA.EVA.regular.comment.csv",5
+
+"NYA199407050",77,"ej,oneip001,P,hicke901,Called third strike Paul O'Neill ejected by HP umpire Ed Hickox"1994NYA.EVA.regular.comment.csv",6
+
+"NYA199407060",35,"Debut game for Russ Davis"1994NYA.EVA.regular.comment.csv",7
+
+"NYA199407270",0,"Suspend=19940728,,3,3,45"1994NYA.EVA.regular.comment.csv",8
+
+"NYA199407270",67,"$Gallego thought there were two outs and not throw to first to try for DP, allowing tying run to score."1994NYA.EVA.regular.comment.csv",9
+
+"NYA199407270",68,"suspended,19940728,NYC16,rain $Game suspended here for rain, completed next day"1994NYA.EVA.regular.comment.csv",10
+
+"NYA199407280",57,"$Luis Polonia missed 2B on his way back to 1B and was called out on appeal"1994NYA.EVA.regular.comment.csv",11
+
+"NYA199407300",53,"ej,abboj001,P,hicke901,Balls and strikes $Pitcher Abbott ejected by HP umpire Hickox for arguing balls and strikes after he was removed from game"1994NYA.EVA.regular.comment.csv",12
+
+"NYA199407310",50,"ej,murre001,P,mckej901,Balls and strikes Eddie Murray ejected by HP umpire Jim McKean"1994NYA.EVA.regular.comment.csv",13
+

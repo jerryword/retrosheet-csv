@@ -1,41 +1,40 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"PHI193204200",58,"$Spud Davis rounded 1B too far"
-"PHI193204300",44,"ej,strij101,P,pfirc901,Call at 3B Joe Stripp ejected by 1B umpire Cy Pfirman $Joe Stripp tried the hidden ball play on Spud Davis; when 1B umpire Cy Pfirman called Davis safe Stripp bounced the ball showing his disgust and was ejected by Pfirman"
-"PHI193205030",40,"$The umpires originally disallowed Maranville's run as having scored during a double play. The run was credited an inning later upon further review since the last out of the inning was not a force play and Maranville scored before Worthington was tagged out."
-"PHI193205040",69,"$game called by agreement so that both teams could catch trains for the west"
-"PHI193205230",17,"$the ball bounded over Snipe Hansen's head; Ethen Allen called for interference with Les Mallon, who tried to field the ball"
-"PHI193205250",43,"$Shanty Hogan rounded 1B too far"
-"PHI193206150",64,"$game called for rain"
-"PHI193206210",77,"$Spud Davis called for interference for running into his own batted ball"
-"PHI193206250",20,"$1B coach Jack Onslow called for interference with Bill Terry when the latter tried to catch the foul popup"
-"PHI193206250",28,"$Travis Jackson stepped off 2B and was tagged; he was hurt on the play and taken to a local hospital for x-rays"
-"PHI193206250",68,"$SPud Davis overslid 3B"
-"PHI193207042",9,"$Hurst left with sinus troubles"
-"PHI193207270",22,"Davis' long drive hit high off the rightfield wall."
-"PHI193207270",53,"Spectacular catch by Phillies first baseman Hurst."
-"PHI193208010",53,"$Don Hurst struck on the head"
-"PHI193208040",0,"$Charlie Grimm's first game as manager"
-"PHI193208040",43,"$Don Hurst left with dizziness"
-"PHI193208062",76,"$Stan Hack rounded 2B too far and Gabby Hartnett broke for HP"
-"PHI193209200",41,"$Joe Stripp claimed that the pitch hit him"
-"PHI193209200",42,"ej,strij101,P,morac102,HBP non-call ej,mungv101,P,morac102,HBP non-call ej,sladg101,P,morac102,HBP non-call Joe Stripp, Van Mungo and Gordon Slade ejected by HP umpire Charlie Moran"
-"PHI193204200",58,"$Spud Davis rounded 1B too far"
-"PHI193204300",44,"ej,strij101,P,pfirc901,Call at 3B Joe Stripp ejected by 1B umpire Cy Pfirman $Joe Stripp tried the hidden ball play on Spud Davis; when 1B umpire Cy Pfirman called Davis safe Stripp bounced the ball showing his disgust and was ejected by Pfirman"
-"PHI193205030",40,"$The umpires originally disallowed Maranville's run as having scored during a double play. The run was credited an inning later upon further review since the last out of the inning was not a force play and Maranville scored before Worthington was tagged out."
-"PHI193205040",69,"$game called by agreement so that both teams could catch trains for the west"
-"PHI193205230",17,"$the ball bounded over Snipe Hansen's head; Ethen Allen called for interference with Les Mallon, who tried to field the ball"
-"PHI193205250",43,"$Shanty Hogan rounded 1B too far"
-"PHI193206150",64,"$game called for rain"
-"PHI193206210",77,"$Spud Davis called for interference for running into his own batted ball"
-"PHI193206250",20,"$1B coach Jack Onslow called for interference with Bill Terry when the latter tried to catch the foul popup"
-"PHI193206250",28,"$Travis Jackson stepped off 2B and was tagged; he was hurt on the play and taken to a local hospital for x-rays"
-"PHI193206250",68,"$SPud Davis overslid 3B"
-"PHI193207042",9,"$Hurst left with sinus troubles"
-"PHI193207270",22,"Davis' long drive hit high off the rightfield wall."
-"PHI193207270",53,"Spectacular catch by Phillies first baseman Hurst."
-"PHI193208010",53,"$Don Hurst struck on the head"
-"PHI193208040",0,"$Charlie Grimm's first game as manager"
-"PHI193208040",43,"$Don Hurst left with dizziness"
-"PHI193208062",76,"$Stan Hack rounded 2B too far and Gabby Hartnett broke for HP"
-"PHI193209200",41,"$Joe Stripp claimed that the pitch hit him"
-"PHI193209200",42,"ej,strij101,P,morac102,HBP non-call ej,mungv101,P,morac102,HBP non-call ej,sladg101,P,morac102,HBP non-call Joe Stripp, Van Mungo and Gordon Slade ejected by HP umpire Charlie Moran"
+"PHI193204200",58,"$Spud Davis rounded 1B too far"FILENAME_TX","LINE_NUMBER_CT"
+
+"PHI193204300",44,"ej,strij101,P,pfirc901,Call at 3B Joe Stripp ejected by 1B umpire Cy Pfirman $Joe Stripp tried the hidden ball play on Spud Davis; when 1B umpire Cy Pfirman called Davis safe Stripp bounced the ball showing his disgust and was ejected by Pfirman"1932PHI.EVN.regular.comment.csv",2
+
+"PHI193205030",40,"$The umpires originally disallowed Maranville's run as having scored during a double play. The run was credited an inning later upon further review since the last out of the inning was not a force play and Maranville scored before Worthington was tagged out."1932PHI.EVN.regular.comment.csv",3
+
+"PHI193205040",69,"$game called by agreement so that both teams could catch trains for the west"1932PHI.EVN.regular.comment.csv",4
+
+"PHI193205230",17,"$the ball bounded over Snipe Hansen's head; Ethen Allen called for interference with Les Mallon, who tried to field the ball"1932PHI.EVN.regular.comment.csv",5
+
+"PHI193205250",43,"$Shanty Hogan rounded 1B too far"1932PHI.EVN.regular.comment.csv",6
+
+"PHI193206150",64,"$game called for rain"1932PHI.EVN.regular.comment.csv",7
+
+"PHI193206210",77,"$Spud Davis called for interference for running into his own batted ball"1932PHI.EVN.regular.comment.csv",8
+
+"PHI193206250",20,"$1B coach Jack Onslow called for interference with Bill Terry when the latter tried to catch the foul popup"1932PHI.EVN.regular.comment.csv",9
+
+"PHI193206250",28,"$Travis Jackson stepped off 2B and was tagged; he was hurt on the play and taken to a local hospital for x-rays"1932PHI.EVN.regular.comment.csv",10
+
+"PHI193206250",68,"$SPud Davis overslid 3B"1932PHI.EVN.regular.comment.csv",11
+
+"PHI193207042",9,"$Hurst left with sinus troubles"1932PHI.EVN.regular.comment.csv",12
+
+"PHI193207270",22,"Davis' long drive hit high off the rightfield wall."1932PHI.EVN.regular.comment.csv",13
+
+"PHI193207270",53,"Spectacular catch by Phillies first baseman Hurst."1932PHI.EVN.regular.comment.csv",14
+
+"PHI193208010",53,"$Don Hurst struck on the head"1932PHI.EVN.regular.comment.csv",15
+
+"PHI193208040",0,"$Charlie Grimm's first game as manager"1932PHI.EVN.regular.comment.csv",16
+
+"PHI193208040",43,"$Don Hurst left with dizziness"1932PHI.EVN.regular.comment.csv",17
+
+"PHI193208062",76,"$Stan Hack rounded 2B too far and Gabby Hartnett broke for HP"1932PHI.EVN.regular.comment.csv",18
+
+"PHI193209200",41,"$Joe Stripp claimed that the pitch hit him"1932PHI.EVN.regular.comment.csv",19
+
+"PHI193209200",42,"ej,strij101,P,morac102,HBP non-call ej,mungv101,P,morac102,HBP non-call ej,sladg101,P,morac102,HBP non-call Joe Stripp, Van Mungo and Gordon Slade ejected by HP umpire Charlie Moran"1932PHI.EVN.regular.comment.csv",20
+

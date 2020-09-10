@@ -1,155 +1,154 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"MIL201604060",31,"replay,4,duffm002,SFN,gormb901,MIL06,,Y,M,MIL,A $when Brandon Belt was called safe at 2B, Brewers manager Craig Counsell challenged the ruling; the call was overturned by replay"
-"MIL201604080",75,"replay,9,altuj001,HOU,hallt901,MIL06,,N,M,HOU,E $when Colby Rasmus was called for interference at 2B and Jose Altuve ruled out at 1B, Astros manager A.J. Hinch challenged the ruling; Rasmus never touched 2B and slid past the bag; the call was upheld by replay"
-"MIL201604100",48,"$Martin Maldonado called for interference for touching the leg of Marwin Gonzalez at 3B; the batter was out at 1B without the interference"
-"MIL201604210",56,"replay,7,escoe001,MIN,everm901,MIL06,,N,M,MIL,A $when Eddie Rosario was called safe at 2B, Brewers manager Craig Counsell challenged the ruling; the call was upheld by replay"
-"MIL201604230",15,"Phillies pitcher Charlie Morton left the game due to an injured leg"
-"MIL201604240",62,"replay,7,franm004,PHI,holbs901,MIL06,,N,M,PHI,A $when Freddy Galvis was called out at 2B, Phillies manager Pete Mackanin challenged the ruling; the call was upheld by replay"
-"MIL201604290",20,"replay,3,bourj002,MIA,danlk901,MIL06,,N,M,MIA,A $when Marcell Ozuna was called out at 3B, Marlins manager Don Mattingly challenged the ruling; the call was upheld by replay"
-"MIL201604300",40,"replay,5,realj001,MIA,danlk901,MIL06,,Y,M,MIA,C $when J.T. Realmuto wad called out at 1B, Marlins manager Don Mattingly challenged the ruling; the call was overturned by replay"
-"MIL201605020",43,"replay,5,lucrj001,MIL,welkb901,MIL06,,N,M,ANA,A $when Ryan Braun was called safe at HP, Angels manager Mike Scioscia challenged the ruling; the call was upheld by replay"
-"MIL201605020",71,"replay,8,cronc002,ANA,welkb901,MIL06,,Y,U,,P $when Albert Pujols was called out at HP, acting crew chief Bill Welke requested a review; the call was overturned by replay"
-"MIL201605020",80,"replay,9,giavj001,MIL,welkb901,MIL06,,Y,M,MIL,C $when Johnny Giavotella was called safe at 1B, Brewers manager Craig Counsell challenged the ruling; the call was overturned by replay"
-"MIL201605030",12,"$Andrelton Simmons called for interference; the ball was not caught by catcher Jonathan Lucroy and Simmons Ran into the ball in fair territory"
-"MIL201605120",12,"Padres catcher Derek Norris left the game due to an injured hand"
-"MIL201605120",32,"replay,5,ramia003,SDN,nelsj901,MIL06,,Y,M,SDN,C $when Alexei Ramirez was called out at 1B, Padres manager Andy Green challenged the ruling; the call was overturned by replay"
-"MIL201605130",59,"replay,7,braur002,MIL,nelsj901,MIL06,,N,M,MIL,A $when Jonathan Villar was called out at 2B, Brewers manager Craig Counsell challenged the ruling; the call was upheld by replay"
-"MIL201605140",87,"replay,9,myerw001,SDN,nelsj901,MIL06,,N,M,SDN,C $when Travis Jankowski was called out at 2B, Padres manager Andy Green challenged the ruling; the call was upheld by replay"
-"MIL201605140",92,"replay,9,genns001,MIL,nelsj901,MIL06,,N,M,MIL,A $when Jonathan Villar was called out at 3B, Brewers manager Craig Counsell challenged the ruling; the call was upheld by replay"
-"MIL201605180",95,"replay,12,bryak001,CHN,vanol901,MIL06,,N,M,CHN,A $when Jason Heyward was called out at 2B, Cubs manager Joe Maddon challenged the ruling; the call was upheld by replay"
-"MIL201605270",11,"replay,1,lucrj001,MIL,joycj901,MIL06,,Y,M,MIL,A $when Jonathan Villar called out at 3B, Brewers manager Craig Counsell challenged the ruling; the call was overturned by replay"
-"MIL201605280",5,"replay,1,villj001,MIL,joycj901,MIL06,,Y,M,CIN,C $when Jonathan Villar was called safe at 1B, Reds manager Bryan Price challenged the ruling; the call was overturned by replay"
-"MIL201605280",8,"replay,1,cartc002,MIL,joycj901,MIL06,,N,M,CIN,C $when Chris Carter was ruled safe at 1B, Reds manager Bryan Price challenged the ruling; the call was upheld by replay"
-"MIL201605280",31,"$Tyler Holt attempted to steal HP as Alfredo Simon turned to fake a bunt; when Chase Anderson's pitch struck Simon, Holt was sent back to 3B and Simon was upset about being hit; no warnings were issued"
-"MIL201605280",40,"ej,simoa001,P,hoyej901,Intentional HBP Reds pitcher Alfredo Simon ejected by HP umpire James Hoye for hitting Chase Anderson in retaliation"
-"MIL201605280",79,"replay,9,duvaa001,CIN,joycj901,MIL06,,Y,U,,C $when Jay Bruce was called out at 2B, crew chief Jim Joyce requested a review; the call was overturned by replay"
-"MIL201605290",46,"replay,6,vottj001,CIN,joycj901,MIL06,,Y,M,CIN,A $when Billy Hamilton was called out at 2B, Reds manager Bryan Price challenged the ruling; the call was overturned by replay"
-"MIL201605290",69,"replay,8,nieuk001,MIL,joycj901,MIL06,,N,M,CIN,A $when Ramon Flores was called safe at 2B, Reds manager Bryan Price challenged the ruling; the call was upheld by replay"
-"MIL201605310",67,"replay,8,hazej001,SLN,barrt901,MIL06,F,Y,U,,H replay,8,hazej001,SLN,barrt901,MIL06,,Y,M,SLN,C $Jeremy Hazelbaker's fly to RF curled by the pole and was ruled a home run; crew chief Ted Barrett requested a review, which overturned the call by replay to a foul ball; on the next pitch, when Hazelbaker was called out at 1B, Cardinals manager Mike Matheny challenged the ruling; the call was overturned by replay"
-"MIL201606010",10,"replay,1,florr003,MIL,barrt901,MIL06,,Y,M,SLN,C $when Ramon Flores was called safe at 1B, Cardinals manager Mike Matheny challenged the ruling; the call was overturned by replay"
-"MIL201606080",17,"replay,2,villj001,MIL,demud901,MIL06,,Y,M,MIL,C $when Jonathan Villar was called out at 1B, Brewers manager Craig Counsell challenged the ruling; the call was overturned by replay"
-"MIL201606100",19,"replay,3,villj001,MIL,vanol901,MIL06,,Y,M,NYN,A replay,3,villj001,MIL,vanol901,MIL06,,N,U,,Q $when Aaron Hill was called safe at HP, Mets manager Terry Collins challenged the ruling; the call was overturned by replay; then Brewers manager Craig Counsell talked with crew chief Larry Vanover, who requested a review to determine if catcher Kevin Plawecki blocked the plate without the ball; the call was upheld by replay that Plawecki did not block the plate"
-"MIL201606100",79,"replay,10,villj001,MIL,vanol901,MIL06,,N,M,MIL,A $when Ramon Flores was called out at 3B, Brewers manager Craig Counsell challenged the ruling; the call was upheld by replay"
-"MIL201606110",21,"replay,3,granc001,NYN,vanol901,MIL06,O,N,U,,H $Curtis Granderson's fly to RF struck the top of the wall and caromed back onto the field; the ball was ruled in play; crew chief Larry Vanover requested a review, which upheld the call by replay"
-"MIL201606110",22,"replay,3,confm001,NYN,vanol901,MIL06,,Y,M,NYN,A $when Curtis Granderson was called out at 3B for a double play, Mets manager Terry Collins challenged the ruling; the call was overturned by replay"
-"MIL201606110",32,"Mets second baseman Neil Walker left the game due to an injured back"
-"MIL201606250",68,"replay,7,cartc002,MIL,demud901,MIL06,,N,M,MIL,A $when Ryan Braun was called out at HP, Brewers manager Craig Counsell challenged the ruling; the call was upheld by replay"
-"MIL201606260",47,"replay,6,robic001,WAS,demud901,MIL06,,N,M,WAS,A $when Anthony Rendon was called out at 2B, Nationals manager Dusty Baker challenged the ruling; the call was upheld by replay"
-"MIL201606280",5,"replay,1,hilla001,MIL,hallt901,MIL06,,Y,M,MIL,A $when Jonathan Villar was called out at 1B, Brewers manager Craig Counsell challenged the ruling; the call was overturned by replay; pitcher Julio Urias then threw to 1B again and picked off Villar"
-"MIL201606280",77,"$Joc Pederson left with a bruised right shoulder after crashing into the wall to catch the ball; Jonathan Lucroy scored from 2B on the sac fly"
-"MIL201606280",81,"replay,8,florr003,MIL,hallt901,MIL06,,N,M,MIL,A $when Hernan Perez was called out at HP, Brewers manager Craig Counsell challenged the ruling; the call was upheld by replay"
-"MIL201606290",30,"ej,gonza003,P,belld901,Checked swing Dodgers first baseman Adrian Gonzalez ejected by 3B umpire Dan Bellino"
-"MIL201607080",51,"replay,6,lucrj001,MIL,barrt901,MIL06,O,N,U,,H $Jonathan Lucroy's fly to CF struck the top of the padded wall and caromed off the back wall onto the field; the ball was ruled a home run; crew chief Ted Barrett requested a review, which upheld the call by replay"
-"MIL201607080",61,"Cardinals pitcher Michael Wacha left the game due to an injured foot"
-"MIL201607080",80,"replay,9,villj001,MIL,barrt901,MIL06,,N,M,SLN,A $when Kirk Nieuwenhuis was called safe at HP, Cardinals manager Mike Matheny challenged the ruling; the call was upheld by replay"
-"MIL201607090",24,"replay,3,peraj001,SLN,barrt901,MIL06,,Y,M,SLN,C $when Randal Grichuk was called out at 2B, Cardinals manager Mike Matheny challenged the ruling; the was overturned by replay"
-"MIL201607220",30,"replay,3,genns001,MIL,culbf901,MIL06,,Y,M,CHN,A $when Jonathan Villar was called safe at 1B, Cubs manager Joe Maddon challenged the ruling; the call was overturned by replay"
-"MIL201607230",58,"replay,7,villj001,MIL,culbf901,MIL06,,N,M,MIL,A $when Hernan Perez was called out at HP, Brewers manager Craig Counsell challenged the ruling; the call was upheld by replay"
-"MIL201607240",33,"Brewers third baseman Will Middlebrooks left the game due to an injured leg"
-"MIL201607240",35,"replay,4,contw001,CHN,culbf901,MIL06,,Y,M,MIL,A $when Ben Zobrist was called safe at 2B, Brewers manager Craig Counsell challenged the ruling; the call was overturned by replay"
-"MIL201607240",38,"Cubs shortstop Addison Russell left the game due to an injured foot"
-"MIL201607240",50,"replay,5,genns001,MIL,culbf901,MIL06,,N,M,CHN,A $when Jonathan Lucroy was called safe at 3B, Cubs manager Joe Maddon challenged the ruling; the call was upheld by replay"
-"MIL201607240",72,"replay,7,contw001,CHN,culbf901,MIL06,,N,U,,A $when Ben Zobrist was called out at 2B, crew chief Fieldin Culbreth requested a review; the call was upheld by replay"
-"MIL201607260",63,"replay,7,villj001,MIL,cedeg901,MIL06,,N,M,MIL,A $when Kirk Nieuwenhuis was called out at 3B, Brewers manager Craig Counsell challenged the ruling; the call was upheld by replay"
-"MIL201607270",3,"$originally scored as single plus error, changed to error all the way on 07-29-2016, making all runs in inning unearned"
-"MIL201607270",11,"replay,1,braur002,MIL,cedeg901,MIL06,,Y,M,ARI,C $when Scooter Gennett was called safe at 1B, D-Backs manager Chip Hale challenged the ruling; the call was overturned by replay"
-"MIL201607290",24,"replay,3,cartc002,MIL,wintm901,MIL06,,Y,M,MIL,C $when Chris Carter was called out at 1B, Brewers manager Craig Counsell challenged the ruling; the call was overturned by replay"
-"MIL201607290",54,"replay,7,elmoj001,MIL,wintm901,MIL06,,N,M,PIT,A $when Jonathan Villar was called safe at 2B, Pirates manager Clint Hurdle challenged the ruling; the call was upheld by replay"
-"MIL201607300",37,"ej,freed001,P,fostm901,Balls and strikes Pirates first baseman David Freese ejected by HP umpire Marty Foster"
-"MIL201607310",29,"replay,3,maldm001,MIL,wintm901,MIL06,,N,M,MIL,C $when Scooter Gennett was called out at 2B, Brewers manager Craig Counsell challenged the ruling; the call was upheld by replay"
-"MIL201607310",52,"Pirates second baseman Josh Harrison left the game due to an injured leg"
-"MIL201608080",24,"$Freddie Freeman slid past the inside of the 2B bag, touching it as he went by; he slid into 2B Umpire Paul Nauert, who struggled to keep his balance; Freeman reached back to put his hand on the bag just ahead of the tag"
-"MIL201608090",11,"replay,2,garca004,ATL,danlk901,MIL06,,N,M,ATL,I $when Adonis Garcia was ruled not to have been hit by a pitch, Braves interim manager Brian Snitker challenged the ruling; the call was upheld by by replay"
-"MIL201608090",62,"replay,8,villj001,MIL,danlk901,MIL06,,Y,M,MIL,C replay,8,villj001,MIL,danlk901,MIL06,,N,M,ATL,E $when Manny Pina was called out at 2B, Brewers Craig Counsell challenged the ruling; the call was overturned by replay; Braves interim manager Brian Snitker challenged the slide at 2B; that call was upheld by replay, saying there was no slide rule violation"
-"MIL201608100",38,"Braves pitcher Joel De La Cruz left the game due to an injured knee"
-"MIL201608110",26,"replay,3,arcio002,MIL,danlk901,MIL06,,Y,M,ATL,A $when Jonathan Villar was called safe at 2B, Braves interim manager Brian Snitger challenged the ruling; the call was overturned by replay"
-"MIL201608120",67,"ej,counc001,M,millb901,Balls and strikes Brewers Manager Craig Counsell ejected by HP umpire Bill Miller"
-"MIL201608130",7,"replay,1,braur002,MIL,millb901,MIL06,,N,M,MIL,A $when Jonathan Villar was called out at 3B, Brewers manager Craig Counsell challenged the ruling; the call was upheld by replay"
-"MIL201608130",33,"replay,4,pereh001,MIL,millb901,MIL06,,Y,M,CIN,A $when Scooter Gennett was called safe at HP, Reds manager Bryan Price challenged the ruling; the call was overturned by replay"
-"MIL201608140",20,"Reds second baseman Brandon Phillips left the game due to an injured knee"
-"MIL201608250",38,"replay,5,mccua001,PIT,scotd901,MIL06,,Y,M,PIT,A $when Starling Marte was called out at 2B, Pirates manager Clint Hurdle challenged the ruling; the call was overturned by replay"
-"MIL201608270",66,"replay,7,harrj002,PIT,scotd901,MIL06,,Y,M,MIL,A $when Sean Rodriguez was called safe at 1B, Brewers manager Craig Counsell challenged the ruling; the call was overturned by replay"
-"MIL201608270",86,"replay,9,braur002,MIL,scotd901,MIL06,,N,M,MIL,C $when Ryan Braun was called out at 1B, Brewers manager Craig Counsell challenged the ruling; the call was upheld by replay"
-"MIL201609060",80,"replay,9,almoa002,CHN,mealj901,MIL06,,N,M,CHN,O $Albert Almora's fly to RF was ruled foul; Cubs manager Joe Maddon challenged the ruling; the call was upheld by replay"
-"MIL201609200",54,"replay,6,elmoj001,MIL,laynj901,MIL06,,N,M,MIL,C $when Hernan Perez was called out at 2B, Brewers manager Craig Counsell challenged the ruling; the call was upheld by replay"
-"MIL201609210",32,"ej,counc001,M,laynj901,Foul ball call Brewers Manager Craig Counsell ejected by HP umpire Jerry Layne arguing that a foul ball did not strike Adam Frazier"
-"MIL201609220",20,"$Pirates left fielder Starling Marte left the game due to back tightness"
-"MIL201609230",18,"replay,3,peraj003,CIN,coope901,MIL06,,Y,M,MIL,C $when Jose Peraza was called safe at 1B, Brewers manager Craig Counsell challenged the ruling; the call was overturned by replay"
-"MIL201609240",10,"replay,1,cartc002,MIL,coope901,MIL06,,Y,M,CIN,A $when Ryan Braun was called safe at 2B, Reds manager Bryan Price challenged the ruling; the call was overturned by replay"
-"MIL201604060",31,"replay,4,duffm002,SFN,gormb901,MIL06,,Y,M,MIL,A $when Brandon Belt was called safe at 2B, Brewers manager Craig Counsell challenged the ruling; the call was overturned by replay"
-"MIL201604080",75,"replay,9,altuj001,HOU,hallt901,MIL06,,N,M,HOU,E $when Colby Rasmus was called for interference at 2B and Jose Altuve ruled out at 1B, Astros manager A.J. Hinch challenged the ruling; Rasmus never touched 2B and slid past the bag; the call was upheld by replay"
-"MIL201604100",48,"$Martin Maldonado called for interference for touching the leg of Marwin Gonzalez at 3B; the batter was out at 1B without the interference"
-"MIL201604210",56,"replay,7,escoe001,MIN,everm901,MIL06,,N,M,MIL,A $when Eddie Rosario was called safe at 2B, Brewers manager Craig Counsell challenged the ruling; the call was upheld by replay"
-"MIL201604230",15,"Phillies pitcher Charlie Morton left the game due to an injured leg"
-"MIL201604240",62,"replay,7,franm004,PHI,holbs901,MIL06,,N,M,PHI,A $when Freddy Galvis was called out at 2B, Phillies manager Pete Mackanin challenged the ruling; the call was upheld by replay"
-"MIL201604290",20,"replay,3,bourj002,MIA,danlk901,MIL06,,N,M,MIA,A $when Marcell Ozuna was called out at 3B, Marlins manager Don Mattingly challenged the ruling; the call was upheld by replay"
-"MIL201604300",40,"replay,5,realj001,MIA,danlk901,MIL06,,Y,M,MIA,C $when J.T. Realmuto wad called out at 1B, Marlins manager Don Mattingly challenged the ruling; the call was overturned by replay"
-"MIL201605020",43,"replay,5,lucrj001,MIL,welkb901,MIL06,,N,M,ANA,A $when Ryan Braun was called safe at HP, Angels manager Mike Scioscia challenged the ruling; the call was upheld by replay"
-"MIL201605020",71,"replay,8,cronc002,ANA,welkb901,MIL06,,Y,U,,P $when Albert Pujols was called out at HP, acting crew chief Bill Welke requested a review; the call was overturned by replay"
-"MIL201605020",80,"replay,9,giavj001,MIL,welkb901,MIL06,,Y,M,MIL,C $when Johnny Giavotella was called safe at 1B, Brewers manager Craig Counsell challenged the ruling; the call was overturned by replay"
-"MIL201605030",12,"$Andrelton Simmons called for interference; the ball was not caught by catcher Jonathan Lucroy and Simmons Ran into the ball in fair territory"
-"MIL201605120",12,"Padres catcher Derek Norris left the game due to an injured hand"
-"MIL201605120",32,"replay,5,ramia003,SDN,nelsj901,MIL06,,Y,M,SDN,C $when Alexei Ramirez was called out at 1B, Padres manager Andy Green challenged the ruling; the call was overturned by replay"
-"MIL201605130",59,"replay,7,braur002,MIL,nelsj901,MIL06,,N,M,MIL,A $when Jonathan Villar was called out at 2B, Brewers manager Craig Counsell challenged the ruling; the call was upheld by replay"
-"MIL201605140",87,"replay,9,myerw001,SDN,nelsj901,MIL06,,N,M,SDN,C $when Travis Jankowski was called out at 2B, Padres manager Andy Green challenged the ruling; the call was upheld by replay"
-"MIL201605140",92,"replay,9,genns001,MIL,nelsj901,MIL06,,N,M,MIL,A $when Jonathan Villar was called out at 3B, Brewers manager Craig Counsell challenged the ruling; the call was upheld by replay"
-"MIL201605180",95,"replay,12,bryak001,CHN,vanol901,MIL06,,N,M,CHN,A $when Jason Heyward was called out at 2B, Cubs manager Joe Maddon challenged the ruling; the call was upheld by replay"
-"MIL201605270",11,"replay,1,lucrj001,MIL,joycj901,MIL06,,Y,M,MIL,A $when Jonathan Villar called out at 3B, Brewers manager Craig Counsell challenged the ruling; the call was overturned by replay"
-"MIL201605280",5,"replay,1,villj001,MIL,joycj901,MIL06,,Y,M,CIN,C $when Jonathan Villar was called safe at 1B, Reds manager Bryan Price challenged the ruling; the call was overturned by replay"
-"MIL201605280",8,"replay,1,cartc002,MIL,joycj901,MIL06,,N,M,CIN,C $when Chris Carter was ruled safe at 1B, Reds manager Bryan Price challenged the ruling; the call was upheld by replay"
-"MIL201605280",31,"$Tyler Holt attempted to steal HP as Alfredo Simon turned to fake a bunt; when Chase Anderson's pitch struck Simon, Holt was sent back to 3B and Simon was upset about being hit; no warnings were issued"
-"MIL201605280",40,"ej,simoa001,P,hoyej901,Intentional HBP Reds pitcher Alfredo Simon ejected by HP umpire James Hoye for hitting Chase Anderson in retaliation"
-"MIL201605280",79,"replay,9,duvaa001,CIN,joycj901,MIL06,,Y,U,,C $when Jay Bruce was called out at 2B, crew chief Jim Joyce requested a review; the call was overturned by replay"
-"MIL201605290",46,"replay,6,vottj001,CIN,joycj901,MIL06,,Y,M,CIN,A $when Billy Hamilton was called out at 2B, Reds manager Bryan Price challenged the ruling; the call was overturned by replay"
-"MIL201605290",69,"replay,8,nieuk001,MIL,joycj901,MIL06,,N,M,CIN,A $when Ramon Flores was called safe at 2B, Reds manager Bryan Price challenged the ruling; the call was upheld by replay"
-"MIL201605310",67,"replay,8,hazej001,SLN,barrt901,MIL06,F,Y,U,,H replay,8,hazej001,SLN,barrt901,MIL06,,Y,M,SLN,C $Jeremy Hazelbaker's fly to RF curled by the pole and was ruled a home run; crew chief Ted Barrett requested a review, which overturned the call by replay to a foul ball; on the next pitch, when Hazelbaker was called out at 1B, Cardinals manager Mike Matheny challenged the ruling; the call was overturned by replay"
-"MIL201606010",10,"replay,1,florr003,MIL,barrt901,MIL06,,Y,M,SLN,C $when Ramon Flores was called safe at 1B, Cardinals manager Mike Matheny challenged the ruling; the call was overturned by replay"
-"MIL201606080",17,"replay,2,villj001,MIL,demud901,MIL06,,Y,M,MIL,C $when Jonathan Villar was called out at 1B, Brewers manager Craig Counsell challenged the ruling; the call was overturned by replay"
-"MIL201606100",19,"replay,3,villj001,MIL,vanol901,MIL06,,Y,M,NYN,A replay,3,villj001,MIL,vanol901,MIL06,,N,U,,Q $when Aaron Hill was called safe at HP, Mets manager Terry Collins challenged the ruling; the call was overturned by replay; then Brewers manager Craig Counsell talked with crew chief Larry Vanover, who requested a review to determine if catcher Kevin Plawecki blocked the plate without the ball; the call was upheld by replay that Plawecki did not block the plate"
-"MIL201606100",79,"replay,10,villj001,MIL,vanol901,MIL06,,N,M,MIL,A $when Ramon Flores was called out at 3B, Brewers manager Craig Counsell challenged the ruling; the call was upheld by replay"
-"MIL201606110",21,"replay,3,granc001,NYN,vanol901,MIL06,O,N,U,,H $Curtis Granderson's fly to RF struck the top of the wall and caromed back onto the field; the ball was ruled in play; crew chief Larry Vanover requested a review, which upheld the call by replay"
-"MIL201606110",22,"replay,3,confm001,NYN,vanol901,MIL06,,Y,M,NYN,A $when Curtis Granderson was called out at 3B for a double play, Mets manager Terry Collins challenged the ruling; the call was overturned by replay"
-"MIL201606110",32,"Mets second baseman Neil Walker left the game due to an injured back"
-"MIL201606250",68,"replay,7,cartc002,MIL,demud901,MIL06,,N,M,MIL,A $when Ryan Braun was called out at HP, Brewers manager Craig Counsell challenged the ruling; the call was upheld by replay"
-"MIL201606260",47,"replay,6,robic001,WAS,demud901,MIL06,,N,M,WAS,A $when Anthony Rendon was called out at 2B, Nationals manager Dusty Baker challenged the ruling; the call was upheld by replay"
-"MIL201606280",5,"replay,1,hilla001,MIL,hallt901,MIL06,,Y,M,MIL,A $when Jonathan Villar was called out at 1B, Brewers manager Craig Counsell challenged the ruling; the call was overturned by replay; pitcher Julio Urias then threw to 1B again and picked off Villar"
-"MIL201606280",77,"$Joc Pederson left with a bruised right shoulder after crashing into the wall to catch the ball; Jonathan Lucroy scored from 2B on the sac fly"
-"MIL201606280",81,"replay,8,florr003,MIL,hallt901,MIL06,,N,M,MIL,A $when Hernan Perez was called out at HP, Brewers manager Craig Counsell challenged the ruling; the call was upheld by replay"
-"MIL201606290",30,"ej,gonza003,P,belld901,Checked swing Dodgers first baseman Adrian Gonzalez ejected by 3B umpire Dan Bellino"
-"MIL201607080",51,"replay,6,lucrj001,MIL,barrt901,MIL06,O,N,U,,H $Jonathan Lucroy's fly to CF struck the top of the padded wall and caromed off the back wall onto the field; the ball was ruled a home run; crew chief Ted Barrett requested a review, which upheld the call by replay"
-"MIL201607080",61,"Cardinals pitcher Michael Wacha left the game due to an injured foot"
-"MIL201607080",80,"replay,9,villj001,MIL,barrt901,MIL06,,N,M,SLN,A $when Kirk Nieuwenhuis was called safe at HP, Cardinals manager Mike Matheny challenged the ruling; the call was upheld by replay"
-"MIL201607090",24,"replay,3,peraj001,SLN,barrt901,MIL06,,Y,M,SLN,C $when Randal Grichuk was called out at 2B, Cardinals manager Mike Matheny challenged the ruling; the was overturned by replay"
-"MIL201607220",30,"replay,3,genns001,MIL,culbf901,MIL06,,Y,M,CHN,A $when Jonathan Villar was called safe at 1B, Cubs manager Joe Maddon challenged the ruling; the call was overturned by replay"
-"MIL201607230",58,"replay,7,villj001,MIL,culbf901,MIL06,,N,M,MIL,A $when Hernan Perez was called out at HP, Brewers manager Craig Counsell challenged the ruling; the call was upheld by replay"
-"MIL201607240",33,"Brewers third baseman Will Middlebrooks left the game due to an injured leg"
-"MIL201607240",35,"replay,4,contw001,CHN,culbf901,MIL06,,Y,M,MIL,A $when Ben Zobrist was called safe at 2B, Brewers manager Craig Counsell challenged the ruling; the call was overturned by replay"
-"MIL201607240",38,"Cubs shortstop Addison Russell left the game due to an injured foot"
-"MIL201607240",50,"replay,5,genns001,MIL,culbf901,MIL06,,N,M,CHN,A $when Jonathan Lucroy was called safe at 3B, Cubs manager Joe Maddon challenged the ruling; the call was upheld by replay"
-"MIL201607240",72,"replay,7,contw001,CHN,culbf901,MIL06,,N,U,,A $when Ben Zobrist was called out at 2B, crew chief Fieldin Culbreth requested a review; the call was upheld by replay"
-"MIL201607260",63,"replay,7,villj001,MIL,cedeg901,MIL06,,N,M,MIL,A $when Kirk Nieuwenhuis was called out at 3B, Brewers manager Craig Counsell challenged the ruling; the call was upheld by replay"
-"MIL201607270",3,"$originally scored as single plus error, changed to error all the way on 07-29-2016, making all runs in inning unearned"
-"MIL201607270",11,"replay,1,braur002,MIL,cedeg901,MIL06,,Y,M,ARI,C $when Scooter Gennett was called safe at 1B, D-Backs manager Chip Hale challenged the ruling; the call was overturned by replay"
-"MIL201607290",24,"replay,3,cartc002,MIL,wintm901,MIL06,,Y,M,MIL,C $when Chris Carter was called out at 1B, Brewers manager Craig Counsell challenged the ruling; the call was overturned by replay"
-"MIL201607290",54,"replay,7,elmoj001,MIL,wintm901,MIL06,,N,M,PIT,A $when Jonathan Villar was called safe at 2B, Pirates manager Clint Hurdle challenged the ruling; the call was upheld by replay"
-"MIL201607300",37,"ej,freed001,P,fostm901,Balls and strikes Pirates first baseman David Freese ejected by HP umpire Marty Foster"
-"MIL201607310",29,"replay,3,maldm001,MIL,wintm901,MIL06,,N,M,MIL,C $when Scooter Gennett was called out at 2B, Brewers manager Craig Counsell challenged the ruling; the call was upheld by replay"
-"MIL201607310",52,"Pirates second baseman Josh Harrison left the game due to an injured leg"
-"MIL201608080",24,"$Freddie Freeman slid past the inside of the 2B bag, touching it as he went by; he slid into 2B Umpire Paul Nauert, who struggled to keep his balance; Freeman reached back to put his hand on the bag just ahead of the tag"
-"MIL201608090",11,"replay,2,garca004,ATL,danlk901,MIL06,,N,M,ATL,I $when Adonis Garcia was ruled not to have been hit by a pitch, Braves interim manager Brian Snitker challenged the ruling; the call was upheld by by replay"
-"MIL201608090",62,"replay,8,villj001,MIL,danlk901,MIL06,,Y,M,MIL,C replay,8,villj001,MIL,danlk901,MIL06,,N,M,ATL,E $when Manny Pina was called out at 2B, Brewers Craig Counsell challenged the ruling; the call was overturned by replay; Braves interim manager Brian Snitker challenged the slide at 2B; that call was upheld by replay, saying there was no slide rule violation"
-"MIL201608100",38,"Braves pitcher Joel De La Cruz left the game due to an injured knee"
-"MIL201608110",26,"replay,3,arcio002,MIL,danlk901,MIL06,,Y,M,ATL,A $when Jonathan Villar was called safe at 2B, Braves interim manager Brian Snitger challenged the ruling; the call was overturned by replay"
-"MIL201608120",67,"ej,counc001,M,millb901,Balls and strikes Brewers Manager Craig Counsell ejected by HP umpire Bill Miller"
-"MIL201608130",7,"replay,1,braur002,MIL,millb901,MIL06,,N,M,MIL,A $when Jonathan Villar was called out at 3B, Brewers manager Craig Counsell challenged the ruling; the call was upheld by replay"
-"MIL201608130",33,"replay,4,pereh001,MIL,millb901,MIL06,,Y,M,CIN,A $when Scooter Gennett was called safe at HP, Reds manager Bryan Price challenged the ruling; the call was overturned by replay"
-"MIL201608140",20,"Reds second baseman Brandon Phillips left the game due to an injured knee"
-"MIL201608250",38,"replay,5,mccua001,PIT,scotd901,MIL06,,Y,M,PIT,A $when Starling Marte was called out at 2B, Pirates manager Clint Hurdle challenged the ruling; the call was overturned by replay"
-"MIL201608270",66,"replay,7,harrj002,PIT,scotd901,MIL06,,Y,M,MIL,A $when Sean Rodriguez was called safe at 1B, Brewers manager Craig Counsell challenged the ruling; the call was overturned by replay"
-"MIL201608270",86,"replay,9,braur002,MIL,scotd901,MIL06,,N,M,MIL,C $when Ryan Braun was called out at 1B, Brewers manager Craig Counsell challenged the ruling; the call was upheld by replay"
-"MIL201609060",80,"replay,9,almoa002,CHN,mealj901,MIL06,,N,M,CHN,O $Albert Almora's fly to RF was ruled foul; Cubs manager Joe Maddon challenged the ruling; the call was upheld by replay"
-"MIL201609200",54,"replay,6,elmoj001,MIL,laynj901,MIL06,,N,M,MIL,C $when Hernan Perez was called out at 2B, Brewers manager Craig Counsell challenged the ruling; the call was upheld by replay"
-"MIL201609210",32,"ej,counc001,M,laynj901,Foul ball call Brewers Manager Craig Counsell ejected by HP umpire Jerry Layne arguing that a foul ball did not strike Adam Frazier"
-"MIL201609220",20,"$Pirates left fielder Starling Marte left the game due to back tightness"
-"MIL201609230",18,"replay,3,peraj003,CIN,coope901,MIL06,,Y,M,MIL,C $when Jose Peraza was called safe at 1B, Brewers manager Craig Counsell challenged the ruling; the call was overturned by replay"
-"MIL201609240",10,"replay,1,cartc002,MIL,coope901,MIL06,,Y,M,CIN,A $when Ryan Braun was called safe at 2B, Reds manager Bryan Price challenged the ruling; the call was overturned by replay"
+"MIL201604060",31,"replay,4,duffm002,SFN,gormb901,MIL06,,Y,M,MIL,A $when Brandon Belt was called safe at 2B, Brewers manager Craig Counsell challenged the ruling; the call was overturned by replay"FILENAME_TX","LINE_NUMBER_CT"
+
+"MIL201604080",75,"replay,9,altuj001,HOU,hallt901,MIL06,,N,M,HOU,E $when Colby Rasmus was called for interference at 2B and Jose Altuve ruled out at 1B, Astros manager A.J. Hinch challenged the ruling; Rasmus never touched 2B and slid past the bag; the call was upheld by replay"2016MIL.EVN.regular.comment.csv",2
+
+"MIL201604100",48,"$Martin Maldonado called for interference for touching the leg of Marwin Gonzalez at 3B; the batter was out at 1B without the interference"2016MIL.EVN.regular.comment.csv",3
+
+"MIL201604210",56,"replay,7,escoe001,MIN,everm901,MIL06,,N,M,MIL,A $when Eddie Rosario was called safe at 2B, Brewers manager Craig Counsell challenged the ruling; the call was upheld by replay"2016MIL.EVN.regular.comment.csv",4
+
+"MIL201604230",15,"Phillies pitcher Charlie Morton left the game due to an injured leg"2016MIL.EVN.regular.comment.csv",5
+
+"MIL201604240",62,"replay,7,franm004,PHI,holbs901,MIL06,,N,M,PHI,A $when Freddy Galvis was called out at 2B, Phillies manager Pete Mackanin challenged the ruling; the call was upheld by replay"2016MIL.EVN.regular.comment.csv",6
+
+"MIL201604290",20,"replay,3,bourj002,MIA,danlk901,MIL06,,N,M,MIA,A $when Marcell Ozuna was called out at 3B, Marlins manager Don Mattingly challenged the ruling; the call was upheld by replay"2016MIL.EVN.regular.comment.csv",7
+
+"MIL201604300",40,"replay,5,realj001,MIA,danlk901,MIL06,,Y,M,MIA,C $when J.T. Realmuto wad called out at 1B, Marlins manager Don Mattingly challenged the ruling; the call was overturned by replay"2016MIL.EVN.regular.comment.csv",8
+
+"MIL201605020",43,"replay,5,lucrj001,MIL,welkb901,MIL06,,N,M,ANA,A $when Ryan Braun was called safe at HP, Angels manager Mike Scioscia challenged the ruling; the call was upheld by replay"2016MIL.EVN.regular.comment.csv",9
+
+"MIL201605020",71,"replay,8,cronc002,ANA,welkb901,MIL06,,Y,U,,P $when Albert Pujols was called out at HP, acting crew chief Bill Welke requested a review; the call was overturned by replay"2016MIL.EVN.regular.comment.csv",10
+
+"MIL201605020",80,"replay,9,giavj001,MIL,welkb901,MIL06,,Y,M,MIL,C $when Johnny Giavotella was called safe at 1B, Brewers manager Craig Counsell challenged the ruling; the call was overturned by replay"2016MIL.EVN.regular.comment.csv",11
+
+"MIL201605030",12,"$Andrelton Simmons called for interference; the ball was not caught by catcher Jonathan Lucroy and Simmons Ran into the ball in fair territory"2016MIL.EVN.regular.comment.csv",12
+
+"MIL201605120",12,"Padres catcher Derek Norris left the game due to an injured hand"2016MIL.EVN.regular.comment.csv",13
+
+"MIL201605120",32,"replay,5,ramia003,SDN,nelsj901,MIL06,,Y,M,SDN,C $when Alexei Ramirez was called out at 1B, Padres manager Andy Green challenged the ruling; the call was overturned by replay"2016MIL.EVN.regular.comment.csv",14
+
+"MIL201605130",59,"replay,7,braur002,MIL,nelsj901,MIL06,,N,M,MIL,A $when Jonathan Villar was called out at 2B, Brewers manager Craig Counsell challenged the ruling; the call was upheld by replay"2016MIL.EVN.regular.comment.csv",15
+
+"MIL201605140",87,"replay,9,myerw001,SDN,nelsj901,MIL06,,N,M,SDN,C $when Travis Jankowski was called out at 2B, Padres manager Andy Green challenged the ruling; the call was upheld by replay"2016MIL.EVN.regular.comment.csv",16
+
+"MIL201605140",92,"replay,9,genns001,MIL,nelsj901,MIL06,,N,M,MIL,A $when Jonathan Villar was called out at 3B, Brewers manager Craig Counsell challenged the ruling; the call was upheld by replay"2016MIL.EVN.regular.comment.csv",17
+
+"MIL201605180",95,"replay,12,bryak001,CHN,vanol901,MIL06,,N,M,CHN,A $when Jason Heyward was called out at 2B, Cubs manager Joe Maddon challenged the ruling; the call was upheld by replay"2016MIL.EVN.regular.comment.csv",18
+
+"MIL201605270",11,"replay,1,lucrj001,MIL,joycj901,MIL06,,Y,M,MIL,A $when Jonathan Villar called out at 3B, Brewers manager Craig Counsell challenged the ruling; the call was overturned by replay"2016MIL.EVN.regular.comment.csv",19
+
+"MIL201605280",5,"replay,1,villj001,MIL,joycj901,MIL06,,Y,M,CIN,C $when Jonathan Villar was called safe at 1B, Reds manager Bryan Price challenged the ruling; the call was overturned by replay"2016MIL.EVN.regular.comment.csv",20
+
+"MIL201605280",8,"replay,1,cartc002,MIL,joycj901,MIL06,,N,M,CIN,C $when Chris Carter was ruled safe at 1B, Reds manager Bryan Price challenged the ruling; the call was upheld by replay"2016MIL.EVN.regular.comment.csv",21
+
+"MIL201605280",31,"$Tyler Holt attempted to steal HP as Alfredo Simon turned to fake a bunt; when Chase Anderson's pitch struck Simon, Holt was sent back to 3B and Simon was upset about being hit; no warnings were issued"2016MIL.EVN.regular.comment.csv",22
+
+"MIL201605280",40,"ej,simoa001,P,hoyej901,Intentional HBP Reds pitcher Alfredo Simon ejected by HP umpire James Hoye for hitting Chase Anderson in retaliation"2016MIL.EVN.regular.comment.csv",23
+
+"MIL201605280",79,"replay,9,duvaa001,CIN,joycj901,MIL06,,Y,U,,C $when Jay Bruce was called out at 2B, crew chief Jim Joyce requested a review; the call was overturned by replay"2016MIL.EVN.regular.comment.csv",24
+
+"MIL201605290",46,"replay,6,vottj001,CIN,joycj901,MIL06,,Y,M,CIN,A $when Billy Hamilton was called out at 2B, Reds manager Bryan Price challenged the ruling; the call was overturned by replay"2016MIL.EVN.regular.comment.csv",25
+
+"MIL201605290",69,"replay,8,nieuk001,MIL,joycj901,MIL06,,N,M,CIN,A $when Ramon Flores was called safe at 2B, Reds manager Bryan Price challenged the ruling; the call was upheld by replay"2016MIL.EVN.regular.comment.csv",26
+
+"MIL201605310",67,"replay,8,hazej001,SLN,barrt901,MIL06,F,Y,U,,H replay,8,hazej001,SLN,barrt901,MIL06,,Y,M,SLN,C $Jeremy Hazelbaker's fly to RF curled by the pole and was ruled a home run; crew chief Ted Barrett requested a review, which overturned the call by replay to a foul ball; on the next pitch, when Hazelbaker was called out at 1B, Cardinals manager Mike Matheny challenged the ruling; the call was overturned by replay"2016MIL.EVN.regular.comment.csv",27
+
+"MIL201606010",10,"replay,1,florr003,MIL,barrt901,MIL06,,Y,M,SLN,C $when Ramon Flores was called safe at 1B, Cardinals manager Mike Matheny challenged the ruling; the call was overturned by replay"2016MIL.EVN.regular.comment.csv",28
+
+"MIL201606080",17,"replay,2,villj001,MIL,demud901,MIL06,,Y,M,MIL,C $when Jonathan Villar was called out at 1B, Brewers manager Craig Counsell challenged the ruling; the call was overturned by replay"2016MIL.EVN.regular.comment.csv",29
+
+"MIL201606100",19,"replay,3,villj001,MIL,vanol901,MIL06,,Y,M,NYN,A replay,3,villj001,MIL,vanol901,MIL06,,N,U,,Q $when Aaron Hill was called safe at HP, Mets manager Terry Collins challenged the ruling; the call was overturned by replay; then Brewers manager Craig Counsell talked with crew chief Larry Vanover, who requested a review to determine if catcher Kevin Plawecki blocked the plate without the ball; the call was upheld by replay that Plawecki did not block the plate"2016MIL.EVN.regular.comment.csv",30
+
+"MIL201606100",79,"replay,10,villj001,MIL,vanol901,MIL06,,N,M,MIL,A $when Ramon Flores was called out at 3B, Brewers manager Craig Counsell challenged the ruling; the call was upheld by replay"2016MIL.EVN.regular.comment.csv",31
+
+"MIL201606110",21,"replay,3,granc001,NYN,vanol901,MIL06,O,N,U,,H $Curtis Granderson's fly to RF struck the top of the wall and caromed back onto the field; the ball was ruled in play; crew chief Larry Vanover requested a review, which upheld the call by replay"2016MIL.EVN.regular.comment.csv",32
+
+"MIL201606110",22,"replay,3,confm001,NYN,vanol901,MIL06,,Y,M,NYN,A $when Curtis Granderson was called out at 3B for a double play, Mets manager Terry Collins challenged the ruling; the call was overturned by replay"2016MIL.EVN.regular.comment.csv",33
+
+"MIL201606110",32,"Mets second baseman Neil Walker left the game due to an injured back"2016MIL.EVN.regular.comment.csv",34
+
+"MIL201606250",68,"replay,7,cartc002,MIL,demud901,MIL06,,N,M,MIL,A $when Ryan Braun was called out at HP, Brewers manager Craig Counsell challenged the ruling; the call was upheld by replay"2016MIL.EVN.regular.comment.csv",35
+
+"MIL201606260",47,"replay,6,robic001,WAS,demud901,MIL06,,N,M,WAS,A $when Anthony Rendon was called out at 2B, Nationals manager Dusty Baker challenged the ruling; the call was upheld by replay"2016MIL.EVN.regular.comment.csv",36
+
+"MIL201606280",5,"replay,1,hilla001,MIL,hallt901,MIL06,,Y,M,MIL,A $when Jonathan Villar was called out at 1B, Brewers manager Craig Counsell challenged the ruling; the call was overturned by replay; pitcher Julio Urias then threw to 1B again and picked off Villar"2016MIL.EVN.regular.comment.csv",37
+
+"MIL201606280",77,"$Joc Pederson left with a bruised right shoulder after crashing into the wall to catch the ball; Jonathan Lucroy scored from 2B on the sac fly"2016MIL.EVN.regular.comment.csv",38
+
+"MIL201606280",81,"replay,8,florr003,MIL,hallt901,MIL06,,N,M,MIL,A $when Hernan Perez was called out at HP, Brewers manager Craig Counsell challenged the ruling; the call was upheld by replay"2016MIL.EVN.regular.comment.csv",39
+
+"MIL201606290",30,"ej,gonza003,P,belld901,Checked swing Dodgers first baseman Adrian Gonzalez ejected by 3B umpire Dan Bellino"2016MIL.EVN.regular.comment.csv",40
+
+"MIL201607080",51,"replay,6,lucrj001,MIL,barrt901,MIL06,O,N,U,,H $Jonathan Lucroy's fly to CF struck the top of the padded wall and caromed off the back wall onto the field; the ball was ruled a home run; crew chief Ted Barrett requested a review, which upheld the call by replay"2016MIL.EVN.regular.comment.csv",41
+
+"MIL201607080",61,"Cardinals pitcher Michael Wacha left the game due to an injured foot"2016MIL.EVN.regular.comment.csv",42
+
+"MIL201607080",80,"replay,9,villj001,MIL,barrt901,MIL06,,N,M,SLN,A $when Kirk Nieuwenhuis was called safe at HP, Cardinals manager Mike Matheny challenged the ruling; the call was upheld by replay"2016MIL.EVN.regular.comment.csv",43
+
+"MIL201607090",24,"replay,3,peraj001,SLN,barrt901,MIL06,,Y,M,SLN,C $when Randal Grichuk was called out at 2B, Cardinals manager Mike Matheny challenged the ruling; the was overturned by replay"2016MIL.EVN.regular.comment.csv",44
+
+"MIL201607220",30,"replay,3,genns001,MIL,culbf901,MIL06,,Y,M,CHN,A $when Jonathan Villar was called safe at 1B, Cubs manager Joe Maddon challenged the ruling; the call was overturned by replay"2016MIL.EVN.regular.comment.csv",45
+
+"MIL201607230",58,"replay,7,villj001,MIL,culbf901,MIL06,,N,M,MIL,A $when Hernan Perez was called out at HP, Brewers manager Craig Counsell challenged the ruling; the call was upheld by replay"2016MIL.EVN.regular.comment.csv",46
+
+"MIL201607240",33,"Brewers third baseman Will Middlebrooks left the game due to an injured leg"2016MIL.EVN.regular.comment.csv",47
+
+"MIL201607240",35,"replay,4,contw001,CHN,culbf901,MIL06,,Y,M,MIL,A $when Ben Zobrist was called safe at 2B, Brewers manager Craig Counsell challenged the ruling; the call was overturned by replay"2016MIL.EVN.regular.comment.csv",48
+
+"MIL201607240",38,"Cubs shortstop Addison Russell left the game due to an injured foot"2016MIL.EVN.regular.comment.csv",49
+
+"MIL201607240",50,"replay,5,genns001,MIL,culbf901,MIL06,,N,M,CHN,A $when Jonathan Lucroy was called safe at 3B, Cubs manager Joe Maddon challenged the ruling; the call was upheld by replay"2016MIL.EVN.regular.comment.csv",50
+
+"MIL201607240",72,"replay,7,contw001,CHN,culbf901,MIL06,,N,U,,A $when Ben Zobrist was called out at 2B, crew chief Fieldin Culbreth requested a review; the call was upheld by replay"2016MIL.EVN.regular.comment.csv",51
+
+"MIL201607260",63,"replay,7,villj001,MIL,cedeg901,MIL06,,N,M,MIL,A $when Kirk Nieuwenhuis was called out at 3B, Brewers manager Craig Counsell challenged the ruling; the call was upheld by replay"2016MIL.EVN.regular.comment.csv",52
+
+"MIL201607270",3,"$originally scored as single plus error, changed to error all the way on 07-29-2016, making all runs in inning unearned"2016MIL.EVN.regular.comment.csv",53
+
+"MIL201607270",11,"replay,1,braur002,MIL,cedeg901,MIL06,,Y,M,ARI,C $when Scooter Gennett was called safe at 1B, D-Backs manager Chip Hale challenged the ruling; the call was overturned by replay"2016MIL.EVN.regular.comment.csv",54
+
+"MIL201607290",24,"replay,3,cartc002,MIL,wintm901,MIL06,,Y,M,MIL,C $when Chris Carter was called out at 1B, Brewers manager Craig Counsell challenged the ruling; the call was overturned by replay"2016MIL.EVN.regular.comment.csv",55
+
+"MIL201607290",54,"replay,7,elmoj001,MIL,wintm901,MIL06,,N,M,PIT,A $when Jonathan Villar was called safe at 2B, Pirates manager Clint Hurdle challenged the ruling; the call was upheld by replay"2016MIL.EVN.regular.comment.csv",56
+
+"MIL201607300",37,"ej,freed001,P,fostm901,Balls and strikes Pirates first baseman David Freese ejected by HP umpire Marty Foster"2016MIL.EVN.regular.comment.csv",57
+
+"MIL201607310",29,"replay,3,maldm001,MIL,wintm901,MIL06,,N,M,MIL,C $when Scooter Gennett was called out at 2B, Brewers manager Craig Counsell challenged the ruling; the call was upheld by replay"2016MIL.EVN.regular.comment.csv",58
+
+"MIL201607310",52,"Pirates second baseman Josh Harrison left the game due to an injured leg"2016MIL.EVN.regular.comment.csv",59
+
+"MIL201608080",24,"$Freddie Freeman slid past the inside of the 2B bag, touching it as he went by; he slid into 2B Umpire Paul Nauert, who struggled to keep his balance; Freeman reached back to put his hand on the bag just ahead of the tag"2016MIL.EVN.regular.comment.csv",60
+
+"MIL201608090",11,"replay,2,garca004,ATL,danlk901,MIL06,,N,M,ATL,I $when Adonis Garcia was ruled not to have been hit by a pitch, Braves interim manager Brian Snitker challenged the ruling; the call was upheld by by replay"2016MIL.EVN.regular.comment.csv",61
+
+"MIL201608090",62,"replay,8,villj001,MIL,danlk901,MIL06,,Y,M,MIL,C replay,8,villj001,MIL,danlk901,MIL06,,N,M,ATL,E $when Manny Pina was called out at 2B, Brewers Craig Counsell challenged the ruling; the call was overturned by replay; Braves interim manager Brian Snitker challenged the slide at 2B; that call was upheld by replay, saying there was no slide rule violation"2016MIL.EVN.regular.comment.csv",62
+
+"MIL201608100",38,"Braves pitcher Joel De La Cruz left the game due to an injured knee"2016MIL.EVN.regular.comment.csv",63
+
+"MIL201608110",26,"replay,3,arcio002,MIL,danlk901,MIL06,,Y,M,ATL,A $when Jonathan Villar was called safe at 2B, Braves interim manager Brian Snitger challenged the ruling; the call was overturned by replay"2016MIL.EVN.regular.comment.csv",64
+
+"MIL201608120",67,"ej,counc001,M,millb901,Balls and strikes Brewers Manager Craig Counsell ejected by HP umpire Bill Miller"2016MIL.EVN.regular.comment.csv",65
+
+"MIL201608130",7,"replay,1,braur002,MIL,millb901,MIL06,,N,M,MIL,A $when Jonathan Villar was called out at 3B, Brewers manager Craig Counsell challenged the ruling; the call was upheld by replay"2016MIL.EVN.regular.comment.csv",66
+
+"MIL201608130",33,"replay,4,pereh001,MIL,millb901,MIL06,,Y,M,CIN,A $when Scooter Gennett was called safe at HP, Reds manager Bryan Price challenged the ruling; the call was overturned by replay"2016MIL.EVN.regular.comment.csv",67
+
+"MIL201608140",20,"Reds second baseman Brandon Phillips left the game due to an injured knee"2016MIL.EVN.regular.comment.csv",68
+
+"MIL201608250",38,"replay,5,mccua001,PIT,scotd901,MIL06,,Y,M,PIT,A $when Starling Marte was called out at 2B, Pirates manager Clint Hurdle challenged the ruling; the call was overturned by replay"2016MIL.EVN.regular.comment.csv",69
+
+"MIL201608270",66,"replay,7,harrj002,PIT,scotd901,MIL06,,Y,M,MIL,A $when Sean Rodriguez was called safe at 1B, Brewers manager Craig Counsell challenged the ruling; the call was overturned by replay"2016MIL.EVN.regular.comment.csv",70
+
+"MIL201608270",86,"replay,9,braur002,MIL,scotd901,MIL06,,N,M,MIL,C $when Ryan Braun was called out at 1B, Brewers manager Craig Counsell challenged the ruling; the call was upheld by replay"2016MIL.EVN.regular.comment.csv",71
+
+"MIL201609060",80,"replay,9,almoa002,CHN,mealj901,MIL06,,N,M,CHN,O $Albert Almora's fly to RF was ruled foul; Cubs manager Joe Maddon challenged the ruling; the call was upheld by replay"2016MIL.EVN.regular.comment.csv",72
+
+"MIL201609200",54,"replay,6,elmoj001,MIL,laynj901,MIL06,,N,M,MIL,C $when Hernan Perez was called out at 2B, Brewers manager Craig Counsell challenged the ruling; the call was upheld by replay"2016MIL.EVN.regular.comment.csv",73
+
+"MIL201609210",32,"ej,counc001,M,laynj901,Foul ball call Brewers Manager Craig Counsell ejected by HP umpire Jerry Layne arguing that a foul ball did not strike Adam Frazier"2016MIL.EVN.regular.comment.csv",74
+
+"MIL201609220",20,"$Pirates left fielder Starling Marte left the game due to back tightness"2016MIL.EVN.regular.comment.csv",75
+
+"MIL201609230",18,"replay,3,peraj003,CIN,coope901,MIL06,,Y,M,MIL,C $when Jose Peraza was called safe at 1B, Brewers manager Craig Counsell challenged the ruling; the call was overturned by replay"2016MIL.EVN.regular.comment.csv",76
+
+"MIL201609240",10,"replay,1,cartc002,MIL,coope901,MIL06,,Y,M,CIN,A $when Ryan Braun was called safe at 2B, Reds manager Bryan Price challenged the ruling; the call was overturned by replay"2016MIL.EVN.regular.comment.csv",77
+

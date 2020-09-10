@@ -1,49 +1,48 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"OAK200204010",17,"Debut game for Hank Blalock"
-"OAK200204010",48,"Debut game for Colby Lewis"
-"OAK200204030",67,"ej,narrj001,wegnm901,Call at 3B Texas Mgr Narron ejected by Wegner after Ivan Rodriguez tried to rundown Giambi after walk"
-"OAK200204160",40,"1:21 rain delay"
-"OAK200204160",59,"game called for rain after 1:12 delay"
-"OAK200204170",57,"Debut game for Brian Fitzgerald"
-"OAK200204240",66,"ej,peter801,C,monte901,Balls and strikes Athletics Coach Rick Peterson ejected by HP umpire Ed Montague in 8th"
-"OAK200205210",8,"Debut game for Esteban German"
-"OAK200205220",27,"$lost in sun, hit off glove and chest"
-"OAK200205230",68,"ej,magnm001,P,froeb901,Intentional HBP Mike Magnante ejected by HP umpire Bruce Froemming"
-"OAK200205240",57,"Debut game for Lee Gardner"
-"OAK200205250",1,"Debut game for Aaron Harang"
-"OAK200206110",51,"Debut game for Jayson Durocher"
-"OAK200206290",10,"Kent originally charged with FLE4, removed next day"
-"OAK200207060",82,"$Michael Tucker's long fly appeared to be caught by Long at the wall; however, Long lost it over the fence on impact for what should have been a homer; however, as Caruso approached 2nd base, he thought the ball was caught and started back to first as Tucker rounded the bag; Tucker stopped and Caruso passed him going back to 1st; Tucker called out for passing Caruso"
-"OAK200207190",47,"Debut game for Reynaldo Garcia"
-"OAK200207290",33,"Debut game for Jason Beverlin"
-"OAK200207310",74,"Debut game for Carl Sadler"
-"OAK200208170",80,"ej,howea001,M,drakr901,Intentional HBP ej,mecij001,P,drakr901,Intentional HBP Jim Mecir and Athletics Manager Art Howe ejected by HP umpire Rob Drake"
-"OAK200209020",29,"$Zito ran into Guiel while backing up the play at home"
-"OAK200209140",28,"originally scored E9"
-"OAK200209180",68,"Debut game for Francisco Rodriguez"
-"OAK200209220",15,"Debut game for Jason Grabowski"
-"OAK200209220",73,"Debut game for Cody McKay"
-"OAK200204010",17,"Debut game for Hank Blalock"
-"OAK200204010",48,"Debut game for Colby Lewis"
-"OAK200204030",67,"ej,narrj001,wegnm901,Balls and strikes $Texas manager Narron ejected by HP umpire Wegner for arguing ball 4 call to Chavez"
-"OAK200204160",40,"1:21 rain delay"
-"OAK200204160",59,"game called for rain after 1:12 delay"
-"OAK200204170",57,"Debut game for Brian Fitzgerald"
-"OAK200204240",66,"ej,peter801,C,monte901,Balls and strikes Athletics Coach Rick Peterson ejected by HP umpire Ed Montague in 8th"
-"OAK200205210",8,"Debut game for Esteban German"
-"OAK200205220",27,"$lost in sun, hit off glove and chest"
-"OAK200205230",68,"ej,magnm001,P,froeb901,Intentional HBP Mike Magnante ejected by HP umpire Bruce Froemming"
-"OAK200205240",57,"Debut game for Lee Gardner"
-"OAK200205250",1,"Debut game for Aaron Harang"
-"OAK200206110",51,"Debut game for Jayson Durocher"
-"OAK200206290",10,"Kent originally charged with FLE4, removed next day"
-"OAK200207060",82,"$Michael Tucker's long fly appeared to be caught by Long at the wall; however, Long lost it over the fence on impact for what should have been a homer; however, as Caruso approached 2nd base, he thought the ball was caught and started back to first as Tucker rounded the bag; Tucker stopped and Caruso passed him going back to 1st; Tucker called out for passing Caruso"
-"OAK200207190",47,"Debut game for Reynaldo Garcia"
-"OAK200207290",33,"Debut game for Jason Beverlin"
-"OAK200207310",74,"Debut game for Carl Sadler"
-"OAK200208170",80,"ej,howea001,M,drakr901,Intentional HBP ej,mecij001,P,drakr901,Intentional HBP Jim Mecir and Athletics Manager Art Howe ejected by HP umpire Rob Drake"
-"OAK200209020",29,"$Zito ran into Guiel while backing up the play at home"
-"OAK200209140",28,"originally scored E9"
-"OAK200209180",68,"Debut game for Francisco Rodriguez"
-"OAK200209220",15,"Debut game for Jason Grabowski"
-"OAK200209220",73,"Debut game for Cody McKay"
+"OAK200204010",17,"Debut game for Hank Blalock"FILENAME_TX","LINE_NUMBER_CT"
+
+"OAK200204010",48,"Debut game for Colby Lewis"2002OAK.EVA.regular.comment.csv",2
+
+"OAK200204030",67,"ej,narrj001,wegnm901,Balls and strikes $Texas manager Narron ejected by HP umpire Wegner for arguing ball 4 call to Chavez"2002OAK.EVA.regular.comment.csv",3
+
+"OAK200204160",40,"1:21 rain delay"2002OAK.EVA.regular.comment.csv",4
+
+"OAK200204160",59,"game called for rain after 1:12 delay"2002OAK.EVA.regular.comment.csv",5
+
+"OAK200204170",57,"Debut game for Brian Fitzgerald"2002OAK.EVA.regular.comment.csv",6
+
+"OAK200204240",66,"ej,peter801,C,monte901,Balls and strikes Athletics Coach Rick Peterson ejected by HP umpire Ed Montague in 8th"2002OAK.EVA.regular.comment.csv",7
+
+"OAK200205210",8,"Debut game for Esteban German"2002OAK.EVA.regular.comment.csv",8
+
+"OAK200205220",27,"$lost in sun, hit off glove and chest"2002OAK.EVA.regular.comment.csv",9
+
+"OAK200205230",68,"ej,magnm001,P,froeb901,Intentional HBP Mike Magnante ejected by HP umpire Bruce Froemming"2002OAK.EVA.regular.comment.csv",10
+
+"OAK200205240",57,"Debut game for Lee Gardner"2002OAK.EVA.regular.comment.csv",11
+
+"OAK200205250",1,"Debut game for Aaron Harang"2002OAK.EVA.regular.comment.csv",12
+
+"OAK200206110",51,"Debut game for Jayson Durocher"2002OAK.EVA.regular.comment.csv",13
+
+"OAK200206290",10,"Kent originally charged with FLE4, removed next day"2002OAK.EVA.regular.comment.csv",14
+
+"OAK200207060",82,"$Michael Tucker's long fly appeared to be caught by Long at the wall; however, Long lost it over the fence on impact for what should have been a homer; however, as Caruso approached 2nd base, he thought the ball was caught and started back to first as Tucker rounded the bag; Tucker stopped and Caruso passed him going back to 1st; Tucker called out for passing Caruso"2002OAK.EVA.regular.comment.csv",15
+
+"OAK200207190",47,"Debut game for Reynaldo Garcia"2002OAK.EVA.regular.comment.csv",16
+
+"OAK200207290",33,"Debut game for Jason Beverlin"2002OAK.EVA.regular.comment.csv",17
+
+"OAK200207310",74,"Debut game for Carl Sadler"2002OAK.EVA.regular.comment.csv",18
+
+"OAK200208170",80,"ej,howea001,M,drakr901,Intentional HBP ej,mecij001,P,drakr901,Intentional HBP Jim Mecir and Athletics Manager Art Howe ejected by HP umpire Rob Drake"2002OAK.EVA.regular.comment.csv",19
+
+"OAK200209020",29,"$Zito ran into Guiel while backing up the play at home"2002OAK.EVA.regular.comment.csv",20
+
+"OAK200209140",28,"originally scored E9"2002OAK.EVA.regular.comment.csv",21
+
+"OAK200209180",68,"Debut game for Francisco Rodriguez"2002OAK.EVA.regular.comment.csv",22
+
+"OAK200209220",15,"Debut game for Jason Grabowski"2002OAK.EVA.regular.comment.csv",23
+
+"OAK200209220",73,"Debut game for Cody McKay"2002OAK.EVA.regular.comment.csv",24
+

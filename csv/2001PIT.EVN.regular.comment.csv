@@ -1,55 +1,54 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"PIT200104120",4,"grounder hit mound and bounced high or else a hit"
-"PIT200104220",69,"Debut game for Craig A. Wilson"
-"PIT200105190",16,"Debut game for Rob Mackowiak"
-"PIT200105280",0,"FLO Mgr Boles fired and replaced by Tony Perez"
-"PIT200105280",14,"Debut game for Andy Barkett"
-"PIT200105280",20,"Enrique Wilson's throw to 1B went over Kevin Young's head, but he got a nice rebound off the stands"
-"PIT200105290",0,"$first game for new Marlins' manager Tony Perez"
-"PIT200106200",56,"$catcher ran out to baseline and nearly tagged runner unassisted"
-"PIT200106210",42,"57 minute rain delay in the 6th"
-"PIT200106240",32,"Osik ran Smith back to 3rd, tagged Smith and Mordecai while both were on the bag, then threw to 2nd. The defense forgot about Smith, who then scampered home."
-"PIT200106260",59,"ej,mccll001,M,reedr901,Call at 1B Pirates Manager Lloyd McClendon ejected by 1B umpire Rick Reed; McClendon took 1B bag into the dugout as he left"
-"PIT200106270",67,"Debut game for Luis Figueroa"
-"PIT200107170",0,"ej,clarj001,C,hirsm901,Balls and strikes Dodgers Coach Jack Clark ejected by HP umpire Mark Hirschbeck in 1st"
-"PIT200107170",7,"$Jack Wilson called for interference for running into his own batted ball"
-"PIT200107190",48,"$Mackowiak injured right kneecap on strike 2 and left; Ramirez completed AB - strikeout to Mackowiak"
-"PIT200107260",10,"$Moises Alou called for interference"
-"PIT200108090",50,"nice rundown, guys"
-"PIT200108120",68,"$Lincoln injured leg"
-"PIT200108220",69,"Looks like the shift was on."
-"PIT200109070",11,"$Lopez missed 2B"
-"PIT200109090",37,"Debut game for Humberto Cota"
-"PIT200109190",81,"Debut game for Jason Phillips"
-"PIT200109200",6,"$Vina suffered bruised right hand on HBP in first"
-"PIT200109230",23,"$Placico Polanco called for interference"
-"PIT200109240",22,"$the ball struck the railing at the top of the wall"
-"PIT200109240",24,"$out of the stadium and into the river"
-"PIT200109240",45,"$Wilson's 7th pinch homer, tying record"
-"PIT200104120",4,"grounder hit mound and bounced high or else a hit"
-"PIT200104220",69,"Debut game for Craig A. Wilson"
-"PIT200105190",16,"Debut game for Rob Mackowiak"
-"PIT200105280",0,"FLO Mgr Boles fired and replaced by Tony Perez"
-"PIT200105280",14,"Debut game for Andy Barkett"
-"PIT200105280",20,"Enrique Wilson's throw to 1B went over Kevin Young's head, but he got a nice rebound off the stands"
-"PIT200105290",0,"$first game for new Marlins' manager Tony Perez"
-"PIT200106200",56,"$catcher ran out to baseline and nearly tagged runner unassisted"
-"PIT200106210",42,"57 minute rain delay in the 6th"
-"PIT200106240",32,"Osik ran Smith back to 3rd, tagged Smith and Mordecai while both were on the bag, then threw to 2nd. The defense forgot about Smith, who then scampered home."
-"PIT200106260",59,"ej,mccll001,M,reedr901,Call at 1B Pirates Manager Lloyd McClendon ejected by 1B umpire Rick Reed; McClendon took 1B bag into the dugout as he left"
-"PIT200106270",67,"Debut game for Luis Figueroa"
-"PIT200107170",5,"ej,clarj001,C,hirsm901,Balls and strikes $Dodgers coach Clark ejected by HP umpire Hirschbeck for arguing balls and strikes while Karros was at bat"
-"PIT200107170",7,"$Wilson called for interference for running into his own batted ball"
-"PIT200107190",48,"$Mackowiak injured right kneecap on strike 2 and left; Ramirez completed AB - strikeout to Mackowiak"
-"PIT200107260",10,"$Moises Alou called for interference"
-"PIT200108090",50,"nice rundown, guys"
-"PIT200108120",68,"$Lincoln injured leg"
-"PIT200108220",69,"Looks like the shift was on."
-"PIT200109070",11,"$Lopez missed 2B"
-"PIT200109090",37,"Debut game for Humberto Cota"
-"PIT200109190",81,"Debut game for Jason Phillips"
-"PIT200109200",6,"$Vina suffered bruised right hand on HBP in first"
-"PIT200109230",23,"$Placico Polanco called for interference"
-"PIT200109240",22,"$the ball struck the railing at the top of the wall"
-"PIT200109240",24,"$out of the stadium and into the river"
-"PIT200109240",45,"$Wilson's 7th pinch homer, tying record"
+"PIT200104120",4,"grounder hit mound and bounced high or else a hit"FILENAME_TX","LINE_NUMBER_CT"
+
+"PIT200104220",69,"Debut game for Craig A. Wilson"2001PIT.EVN.regular.comment.csv",2
+
+"PIT200105190",16,"Debut game for Rob Mackowiak"2001PIT.EVN.regular.comment.csv",3
+
+"PIT200105280",0,"FLO Mgr Boles fired and replaced by Tony Perez"2001PIT.EVN.regular.comment.csv",4
+
+"PIT200105280",14,"Debut game for Andy Barkett"2001PIT.EVN.regular.comment.csv",5
+
+"PIT200105280",20,"Enrique Wilson's throw to 1B went over Kevin Young's head, but he got a nice rebound off the stands"2001PIT.EVN.regular.comment.csv",6
+
+"PIT200105290",0,"$first game for new Marlins' manager Tony Perez"2001PIT.EVN.regular.comment.csv",7
+
+"PIT200106200",56,"$catcher ran out to baseline and nearly tagged runner unassisted"2001PIT.EVN.regular.comment.csv",8
+
+"PIT200106210",42,"57 minute rain delay in the 6th"2001PIT.EVN.regular.comment.csv",9
+
+"PIT200106240",32,"Osik ran Smith back to 3rd, tagged Smith and Mordecai while both were on the bag, then threw to 2nd. The defense forgot about Smith, who then scampered home."2001PIT.EVN.regular.comment.csv",10
+
+"PIT200106260",59,"ej,mccll001,M,reedr901,Call at 1B Pirates Manager Lloyd McClendon ejected by 1B umpire Rick Reed; McClendon took 1B bag into the dugout as he left"2001PIT.EVN.regular.comment.csv",11
+
+"PIT200106270",67,"Debut game for Luis Figueroa"2001PIT.EVN.regular.comment.csv",12
+
+"PIT200107170",5,"ej,clarj001,C,hirsm901,Balls and strikes $Dodgers coach Clark ejected by HP umpire Hirschbeck for arguing balls and strikes while Karros was at bat"2001PIT.EVN.regular.comment.csv",13
+
+"PIT200107170",7,"$Wilson called for interference for running into his own batted ball"2001PIT.EVN.regular.comment.csv",14
+
+"PIT200107190",48,"$Mackowiak injured right kneecap on strike 2 and left; Ramirez completed AB - strikeout to Mackowiak"2001PIT.EVN.regular.comment.csv",15
+
+"PIT200107260",10,"$Moises Alou called for interference"2001PIT.EVN.regular.comment.csv",16
+
+"PIT200108090",50,"nice rundown, guys"2001PIT.EVN.regular.comment.csv",17
+
+"PIT200108120",68,"$Lincoln injured leg"2001PIT.EVN.regular.comment.csv",18
+
+"PIT200108220",69,"Looks like the shift was on."2001PIT.EVN.regular.comment.csv",19
+
+"PIT200109070",11,"$Lopez missed 2B"2001PIT.EVN.regular.comment.csv",20
+
+"PIT200109090",37,"Debut game for Humberto Cota"2001PIT.EVN.regular.comment.csv",21
+
+"PIT200109190",81,"Debut game for Jason Phillips"2001PIT.EVN.regular.comment.csv",22
+
+"PIT200109200",6,"$Vina suffered bruised right hand on HBP in first"2001PIT.EVN.regular.comment.csv",23
+
+"PIT200109230",23,"$Placico Polanco called for interference"2001PIT.EVN.regular.comment.csv",24
+
+"PIT200109240",22,"$the ball struck the railing at the top of the wall"2001PIT.EVN.regular.comment.csv",25
+
+"PIT200109240",24,"$out of the stadium and into the river"2001PIT.EVN.regular.comment.csv",26
+
+"PIT200109240",45,"$Wilson's 7th pinch homer, tying record"2001PIT.EVN.regular.comment.csv",27
+

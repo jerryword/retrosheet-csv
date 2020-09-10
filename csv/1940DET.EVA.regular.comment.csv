@@ -1,29 +1,28 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"DET194005220",71,"30 minute rain delay"
-"DET194007010",41,"the next two singles could be in the 9th"
-"DET194007042",13,"10 minute rain delay"
-"DET194007061",16,"$Single to RF runner taking 3rd base on the hit but scored on a close play when throw went to 2nd"
-"DET194007230",73,"Runner hit by batted ball is speculative"
-"DET194007260",0,"somewhat reconstructed; scorecard has errors"
-"DET194008031",26,"$Hit on thigh"
-"DET194008140",17,"$Whitehead was spiked and had to be carried off the field"
-"DET194008140",86,"$Radcliff's throw home hit Trout"
-"DET194009130",65,"ML debut for Mike Chartak"
-"DET194009140",71,"Bob Uhl's second and final ML appearance"
-"DET194009181",64,"$Mullin's debut game."
-"DET194009182",75,"$Chapman held second to see if ball would be caught."
-"DET194009200",74,"missed squeeze play"
-"DET194005220",71,"30 minute rain delay"
-"DET194007010",41,"the next two singles could be in the 9th"
-"DET194007042",13,"10 minute rain delay"
-"DET194007061",16,"$Single to RF runner taking 3rd base on the hit but scored on a close play when throw went to 2nd"
-"DET194007230",73,"Runner hit by batted ball is speculative"
-"DET194007260",0,"somewhat reconstructed; scorecard has errors"
-"DET194008031",26,"$Hit on thigh"
-"DET194008140",17,"$Whitehead was spiked and had to be carried off the field"
-"DET194008140",86,"$Radcliff's throw home hit Trout"
-"DET194009130",65,"ML debut for Mike Chartak"
-"DET194009140",71,"Bob Uhl's second and final ML appearance"
-"DET194009181",64,"$Mullin's debut game."
-"DET194009182",75,"$Chapman held second to see if ball would be caught."
-"DET194009200",74,"missed squeeze play"
+"DET194005220",71,"30 minute rain delay"FILENAME_TX","LINE_NUMBER_CT"
+
+"DET194007010",41,"the next two singles could be in the 9th"1940DET.EVA.regular.comment.csv",2
+
+"DET194007042",13,"10 minute rain delay"1940DET.EVA.regular.comment.csv",3
+
+"DET194007061",16,"$Single to RF runner taking 3rd base on the hit but scored on a close play when throw went to 2nd"1940DET.EVA.regular.comment.csv",4
+
+"DET194007230",73,"Runner hit by batted ball is speculative"1940DET.EVA.regular.comment.csv",5
+
+"DET194007260",0,"somewhat reconstructed; scorecard has errors"1940DET.EVA.regular.comment.csv",6
+
+"DET194008031",26,"$Hit on thigh"1940DET.EVA.regular.comment.csv",7
+
+"DET194008140",17,"$Whitehead was spiked and had to be carried off the field"1940DET.EVA.regular.comment.csv",8
+
+"DET194008140",86,"$Radcliff's throw home hit Trout"1940DET.EVA.regular.comment.csv",9
+
+"DET194009130",65,"ML debut for Mike Chartak"1940DET.EVA.regular.comment.csv",10
+
+"DET194009140",71,"Bob Uhl's second and final ML appearance"1940DET.EVA.regular.comment.csv",11
+
+"DET194009181",64,"$Mullin's debut game."1940DET.EVA.regular.comment.csv",12
+
+"DET194009182",75,"$Chapman held second to see if ball would be caught."1940DET.EVA.regular.comment.csv",13
+
+"DET194009200",74,"missed squeeze play"1940DET.EVA.regular.comment.csv",14
+

@@ -1,27 +1,26 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"CHA199304100",1,"Debut game for Rodney Bolton"
-"CHA199304280",0,"ej,garnp001,M,shulj901,Called third strike Brewers manager Phil Garner ejected by HP umpire John Shulock sometime in game"
-"CHA199305080",15,"ej,fiskc001,P,younl901,Balls and strikes Carlton Fisk ejected by HP umpire Larry Young arguing balls and strikes while catching"
-"CHA199305270",1,"Debut game for Jason Bere"
-"CHA199306060",43,"$Tony Pena called for interference"
-"CHA199306080",63,"$Travis Fryman called for interference"
-"CHA199306220",11,"ej,rodri001,P,barnl901,Balls and strikes Ivan Rodriguez ejected by HP umpire Larry Barnett"
-"CHA199308230",0,"ej,lamog101,M,cobld901,Balk call White Sox manager Gene Lamont ejected by HP umpire Drew Coble sometime in game"
-"CHA199308290",81,"$Craig Grebeck called for interference"
-"CHA199309060",15,"ej,bellg001,P,merrd901,Charging mound after HBP George Bell ejected by HP umpire Durwood Merrill"
-"CHA199309060",70,"ej,mcdoj001,P,merrd901,Balls and strikes Jack McDowell ejected by HP umpire Durwood Merrill"
-"CHA199309262",67,"ej,lee-m001,P,johnm901,Call at 2B Manuel Lee ejected by 2B umpire Mark Johnson"
-"CHA199309290",0,"ej,pinil001,M,reilm901,Interference non-call Mariners manager Lou Piniella ejected by 2B umpire Mike Reilly sometime in game"
-"CHA199304100",1,"Debut game for Rodney Bolton"
-"CHA199304280",82,"ej,garnp001,M,shulj901,Called third strike $Brewers manager Garner ejected by HP umpire Shulock for arguing called third strike to Diaz"
-"CHA199305080",15,"ej,fiskc001,P,younl901,Balls and strikes Carlton Fisk ejected by HP umpire Larry Young arguing balls and strikes while catching"
-"CHA199305270",1,"Debut game for Jason Bere"
-"CHA199306060",43,"$Tony Pena called for interference"
-"CHA199306080",63,"$Travis Fryman called for interference"
-"CHA199306220",11,"ej,rodri001,P,barnl901,Balls and strikes Ivan Rodriguez ejected by HP umpire Larry Barnett"
-"CHA199308230",35,"ej,lamog101,M,cobld901,Balk non-call $White Sox manager Lamont ejected by HP umpire Coble for arguing that Key had balked"
-"CHA199308290",81,"$Craig Grebeck called for interference"
-"CHA199309060",15,"ej,bellg001,P,merrd901,Charging mound after HBP George Bell ejected by HP umpire Durwood Merrill"
-"CHA199309060",70,"ej,mcdoj001,P,merrd901,Balls and strikes Jack McDowell ejected by HP umpire Durwood Merrill"
-"CHA199309262",67,"ej,lee-m001,P,johnm901,Call at 2B Manuel Lee ejected by 2B umpire Mark Johnson"
-"CHA199309290",45,"ej,pinil001,M,reilm901,Interference non-call $Mariners manager Piniella ejected by 2B umpire Reilly for arguing that Cora had interfered with 2bman on ground ball"
+"CHA199304100",1,"Debut game for Rodney Bolton"FILENAME_TX","LINE_NUMBER_CT"
+
+"CHA199304280",82,"ej,garnp001,M,shulj901,Called third strike $Brewers manager Garner ejected by HP umpire Shulock for arguing called third strike to Diaz"1993CHA.EVA.regular.comment.csv",2
+
+"CHA199305080",15,"ej,fiskc001,P,younl901,Balls and strikes Carlton Fisk ejected by HP umpire Larry Young arguing balls and strikes while catching"1993CHA.EVA.regular.comment.csv",3
+
+"CHA199305270",1,"Debut game for Jason Bere"1993CHA.EVA.regular.comment.csv",4
+
+"CHA199306060",43,"$Tony Pena called for interference"1993CHA.EVA.regular.comment.csv",5
+
+"CHA199306080",63,"$Travis Fryman called for interference"1993CHA.EVA.regular.comment.csv",6
+
+"CHA199306220",11,"ej,rodri001,P,barnl901,Balls and strikes Ivan Rodriguez ejected by HP umpire Larry Barnett"1993CHA.EVA.regular.comment.csv",7
+
+"CHA199308230",35,"ej,lamog101,M,cobld901,Balk non-call $White Sox manager Lamont ejected by HP umpire Coble for arguing that Key had balked"1993CHA.EVA.regular.comment.csv",8
+
+"CHA199308290",81,"$Craig Grebeck called for interference"1993CHA.EVA.regular.comment.csv",9
+
+"CHA199309060",15,"ej,bellg001,P,merrd901,Charging mound after HBP George Bell ejected by HP umpire Durwood Merrill"1993CHA.EVA.regular.comment.csv",10
+
+"CHA199309060",70,"ej,mcdoj001,P,merrd901,Balls and strikes Jack McDowell ejected by HP umpire Durwood Merrill"1993CHA.EVA.regular.comment.csv",11
+
+"CHA199309262",67,"ej,lee-m001,P,johnm901,Call at 2B Manuel Lee ejected by 2B umpire Mark Johnson"1993CHA.EVA.regular.comment.csv",12
+
+"CHA199309290",45,"ej,pinil001,M,reilm901,Interference non-call $Mariners manager Piniella ejected by 2B umpire Reilly for arguing that Cora had interfered with 2bman on ground ball"1993CHA.EVA.regular.comment.csv",13
+

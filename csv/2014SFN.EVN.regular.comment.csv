@@ -1,141 +1,140 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"SFN201404100",4,"replay,1,pradm001,ARI,culbf901,SFO03,,N,M,ARI,A $D-Backs manager Kirk Gibson challenged the call at 2B; the ruling was allowed to stand by replay"
-"SFN201404120",31,"Rockies pitcher Brett Anderson left the game due to an injured hand"
-"SFN201404150",90,"replay,10,blang001,SFN,wintm901,SFO03,,Y,M,SFN,C $Giants manager Bruce Bochy challenged the call at 1B when Gregor Blanco was called out; the ruling was overturned by replay"
-"SFN201404160",10,"replay,2,ethia001,LAN,wintm901,SFO03,,N,M,LAN,A $when Matt Kemp was called out at 1B, Dodgers manager Don Mattingly challenged the ruling; the call was upheld by replay"
-"SFN201404160",53,"Dodgers right fielder Andre Ethier left the game due to an injured hand"
-"SFN201404280",21,"replay,3,nadyx001,SDN,vanol901,SFO03,,Y,M,SFN,C $when Xavier Nady was called safe at 1B, Giants manager Bruce Bochy challenged the ruling; it was overturned by replay"
-"SFN201404280",29,"replay,4,rosst001,SDN,vanol901,SFO03,,Y,M,SDN,C $when Tyson Ross was called out at 1B, Padres manager Bud Black challenged the ruling; it was overturned by replay"
-"SFN201405120",37,"originally scored as E3, changed to single on 05-20-2014"
-"SFN201405120",48,"replay,7,simma001,ATL,demud901,SFO03,,Y,M,SFN,A $when B.J. Upton was called safe at 3B, Giants manager Bruce Bochy challenged the ruling; it was overturned by replay"
-"SFN201405130",37,"replay,6,freef001,ATL,demud901,SFO03,,N,M,SFN,A $when Freddie Freeman was called safe at HP, Giants manager Bruce Bochy challenged the ruling; it was upheld by replay"
-"SFN201405130",51,"replay,7,freef001,ATL,demud901,SFO03,,Y,M,ATL,C $when Freddie Freeman was called out at 1B, Braves manager Fredi Gonzalez challenged the ruling; it was overturned by replay pitcher David Freeman never stepped on the bag"
-"SFN201405140",57,"ej,uptob001,P,barrl901,Called third strike Braves center fielder B. J. Upton ejected by HP umpire Lance Barrett"
-"SFN201405160",44,"replay,5,pench001,SFN,cedeg901,SFO03,,Y,M,MIA,X $when Giancarlo Stanton dropped the ball on the transfer, it was ruled no catch; Marlins manager Mike Redmond challenged the call; it was overturned by replay"
-"SFN201405170",17,"replay,2,hickb002,SFN,cedeg901,SFO03,,Y,M,MIA,B $the Marlins appealed that Brandon Hicks missed 1B; when Hicks was ruled safe, Marlins manager Mike Redmond challenged the ruling; it was overturned by replay"
-"SFN201405230",8,"replay,1,pench001,SFN,mealj901,SFO03,,Y,M,SFN,C $when Hunter Pence was called out at 1B, Giants manager Bruce Bochy challenged the ruling; the call was overturned by replay"
-"SFN201405260",53,"originally scored as pickof plus error, changed to steal and error on 05-27-2014"
-"SFN201405260",68,"replay,8,poseb001,SFN,wengm901,SFO03,,N,M,CHN,A $when Angel Pagan was called safe at 2B, Cubs manager Rick Renteria challenged the ruling; the call was upheld by replay"
-"SFN201405280",64,"replay,7,sanch002,SFN,wegnm901,SFO03,,N,M,CHN,A $when Hector Sanchez was called safe at 3B, Cubs manager Rick Renteria challenged the ruling; the call was upheld by replay"
-"SFN201406060",33,"replay,5,cainm001,SFN,westj901,SFO03,,Y,M,SFN,I $the first pitch to Matt Cain struck the tip of his right foot and was called a ball; Giants manager Bruce Bochy challenged the ruling; the call was overturned to HP by replay"
-"SFN201406070",84,"replay,9,pagaa001,SFN,westj901,SFO03,,N,M,NYN,C $when Angel Pagan was called safe at 1B, Mets manager Terry Collins challenged the ruling; the call was upheld by replay"
-"SFN201406100",22,"replay,3,pagaa001,SFN,davig901,SFO03,,N,M,WAS,C $when Angel Pagan was called safe at 1B, Nationals manager Matt Williams challenged the ruling; the call was upheld by replay"
-"SFN201406100",46,"replay,6,desmi001,WAS,davig901,SFO03,,Y,M,SFN,C $when Ian Desmond was called safe at 1B, Giants manager Bruce Bochy challenged the ruling; the call was overturned by replay"
-"SFN201406130",34,"Rockies pitcher Jorge De La Rosa left the game due to an injured back"
-"SFN201406130",78,"replay,9,stubd001,COL,wintm901,SFO03,,Y,M,SFN,A $when Charlie Blackmon was called safe at 2B, Giants manager Bruce Bochy challenged the ruling; the call was overturned by replay"
-"SFN201406140",5,"replay,1,rutlj001,COL,wintm901,SFO03,,Y,M,SFN,C $when Josh Rutledge was called safe at 1B, Giants manager Bruce Bochy challenged the ruling; the call was overturned by replay"
-"SFN201406140",77,"replay,9,pagaa001,SFN,wintm901,SFO03,,N,M,SFN,C $when Angel Pagan was called out at 1B, Giants manager Bruce Bochy challenged the ruling; the call was upheld by replay"
-"SFN201406150",20,"replay,2,blang001,SFN,wintm901,SFO03,,Y,M,SFN,C $when Gregor Blanco was called out at 1B, Giants manager Bruce Bochy challenged the ruling; the call was overturned by replay"
-"SFN201406150",30,"orignally scored E3, changed to single on 06-20-2014"
-"SFN201406150",39,"Giants catcher Buster Posey left the game due to an injured head"
-"SFN201406150",88,"ej,bochb002,M,muchm901,Called third strike Giants Manager Bruce Bochy ejected by HP umpire Mike Muchlinski"
-"SFN201406230",23,"replay,4,grany001,SDN,onorb901,SFO03,I,Y,U,,H ej,blacb001,M,onorb901,Replay ruling $Yasmani Grandal's fly to right center was touched by a fan who leaned over the wall; the ball was ruled a home run but acting crew chief Brian O'Nora requested a review; the call was overturned to fan interference and a double and only one run on the play; Padres manager Bud Black came onto the field to argue the result and was ejected by O'Nora"
-"SFN201406240",56,"replay,7,crawb001,SFN,onorb901,SFO03,,N,M,SDN,C $when Brandon Crawford was called safe at 1B, Padres manager Bud Black challenged the ruling; the call was upheld by replay"
-"SFN201406270",12,"originally scored as E4, changed to single on 06-28-2014"
-"SFN201406270",44,"replay,6,cozaz001,CIN,kellj901,SFO03,,N,M,SFN,C $when Zack Cozart was called safe at 1B, Giants manager Bruce Bochy challenged the ruling; the call was upheld by replay; the throw pulled Adam Duvall off the bag but Cozart did not touch the bag as he ran past; Duvall walked toward the mound and Cozart came back to the bag"
-"SFN201406270",55,"replay,7,brucj001,CIN,kellj901,SFO03,,N,U,,T $Hunter Pence was ruled to have caught the line drive; crew chief Jeff Kellogg requested a review, which upheld the call by replay"
-"SFN201406280",43,"replay,6,brucj001,CIN,kellj901,SFO03,,Y,M,SFN,C $when Jay Bruce was called safe at 1B, Giants manager Bruce Bochy challenged the ruling; the call was overturned by replay"
-"SFN201406280",60,"replay,8,pench001,SFN,kellj901,SFO03,,N,M,SFN,A $when Gregor Blanco was called out at 2B, Giants manager Bruce Bochy challenged the ruling; the call was upheld by replay"
-"SFN201406290",65,"replay,9,bailh001,CIN,kellj901,SFO03,,Y,M,SFN,A $when Zack Cozart was called safe at 2B, Giants manager Bruce Bochy challenged the ruling; the call was overturned by replay"
-"SFN201407020",63,"replay,9,pench001,SFN,demud901,SFO03,,Y,M,SFN,C $when Hunter Pence was called out at 1B, Giants manager Bruce Bochy challenged the ruling; the call was overturned by replay"
-"SFN201407030",43,"replay,5,pench001,SFN,demud901,SFO03,,N,M,SLN,C $when Hunter Pence was called safe at 1B, Cardinals manager Mike Matheny challenged the ruling; the call was upheld by replay"
-"SFN201407100",5,"$HP umpire Adrian Johnson was struck on the mask by a foul ball by Pablo Sandoval on the first pitch to that batter"
-"SFN201407100",22,"umpchange,4,umphome,herna901 umpchange,4,ump2b,(None) $HP umpire Adrian Johnson left the game with concussion-like symptoms; Angel Hernandez moved from 2B to HP"
-"SFN201407100",49,"replay,6,pench001,SFN,herna901,SFO03,,Y,M,SFN,C $when Hunter Pence was called out at 1B, Giants manager Bruce Bochy challenged the ruling; the call was overturned by replay"
-"SFN201407100",74,"replay,9,blang001,SFN,herna901,SFO03,,Y,M,OAK,C $when Gregor Blanco was called safe at 1B, Athletics manager Bob Melvin challenged the ruling; the call was overturned by replay"
-"SFN201407120",46,"$fan interference"
-"SFN201407120",55,"replay,7,blang001,SFN,scotd901,SFO03,,Y,M,ARI,C $when Gregor Blanco was called safe at 1B, D-Backs manager Kirk Gibson challenged the ruling; the call was overturned by replay since Wade Miley tagged Blanco just before they both reached the bag; the umpire was watching the feet at the bag"
-"SFN201407130",51,"$second grand slam of the season for Madison Bumgarner; Tony Cloninger only other pitcher with two in one year; this was the first time a pitcher and catcher both hit slams in the same game for the same team"
-"SFN201407250",2,"replay,1,puigy001,LAN,marqa901,SFO03,,N,U,,H $Yasiel Puig's fly was touched by a fan near the top of the wall and the ball rolled back onto the field; Puig reached 3B on the play; acting crew chief Alfonso Marquez requested a review and the play was ruled fan interference; Puig was awarded 3B"
-"SFN201407260",39,"originally scored as throwing error to allow run to score; error removed on 08-04-2014, batters gets RBI, both runs in now earned"
-"SFN201407260",45,"originally scored as error, changed to single on 07-27-2014"
-"SFN201407290",16,"replay,2,morsm001,SFN,culbf901,SFO03,I,N,U,,H $Michael Morse's fly ball to LF just cleared the top of the wall and struck a fan; that fan was reaching over the top of the wall but did not touch the ball; crew chief Fieldin Culbreth requested a review, which upheld the call of home run"
-"SFN201407300",59,"$on ball four, Travis Snider walked towards 3B, evidently thinking there was a runner on 1B and he was forced to move; when the Giants went after Snider, Gaby Sanchez ran down the 3B line"
-"SFN201408120",74,"replay,10,deaza001,CHA,culbf901,SFO03,,N,U,,P $when Jordan Danks was called out at HP, crew chief Fieldin Culbreth requested a review; the call was upheld by replay saying the catcher did not block HP and the runner was out"
-"SFN201408130",52,"replay,7,panij002,SFN,culbf901,SFO03,,Y,U,,P ej,ventr001,M,culbf901,Replay ruling $when Gregor Blanco was called out at HP, crew chief Fieldin Culbreth requested a review; the call was overturned by replay saying the catcher was blocking HP without the ball; White Sox manager Robin Ventura ran onto the field and was ejected by Culbreth; Ventura kicked dirt onto HP; the runners were placed on 2B and 3B and Ventura came onto the field again to argue the placement; Culbreth got back onto the headset and then put the runners back on 1B and 2B"
-"SFN201408150",24,"replay,4,howar001,PHI,westj901,SFO03,,N,M,PHI,A $when Jimmy Rollins was called out at 3B, Phillies manager Ryne Sandberg challenged the ruling; the call was upheld by replay"
-"SFN201408170",21,"error was originally E9, changed to E5 on 08-18-2014"
-"SFN201408170",71,"replay,8,panij002,SFN,westj901,SFO03,,N,M,PHI,A $when Joe Panik was called safe at 2B, Phillies manager Ryne Sandberg challenged the ruling; the call was upheld by replay"
-"SFN201408250",54,"replay,7,blacc001,COL,joycj901,SFO03,,Y,M,SFN,A $when DJ LeMahieu was called safe at HP, Giants manager Bruce Bochy challenged the ruling; the call was overturned by replay; Jake Peavy talked to HP umpire Doug Eddings while leaving the field about the strike zone"
-"SFN201408250",63,"ej,bochb001,M,eddid901,Called third strike Giants Manager Bruce Bochy ejected by HP umpire Doug Eddings"
-"SFN201408280",66,"replay,8,duffm002,SFN,joycj901,SFO03,,N,M,SFN,A $when Hunter Pence was called out at HP, Giants manager Bruce Bochy challenged the ruling; the call was upheld by replay"
-"SFN201408300",46,"replay,6,morsm001,SFN,scotd901,SFO03,,Y,M,MIL,X $when Carlos Gomez caught the ball and dropped it, the play was ruled no catch; Brewers manager Ron Roenicke challenged the ruling; the call was overturned to an out by replay"
-"SFN201408300",70,"replay,9,ramia001,MIL,scotd901,SFO03,,N,M,MIL,C $when Ryan Braun was called out at 2B, Brewers manager Ron Roenicke challenged the ruling; the call was upheld by replay"
-"SFN201408310",19,"Brewers center fielder Carlos Gomez left the game due to an injured wrist"
-"SFN201409090",45,"originally scored as single, changed to error on 09-10-2014, making both runs in inning unearned"
-"SFN201409100",23,"replay,3,panij002,SFN,gormb901,SFO03,,Y,M,ARI,A $when Angel Pagan was called safe at 2B, D-Backs manager Kirk Gibson challenged the ruling; the call was overturned by replay"
-"SFN201409120",3,"replay,1,gonza003,LAN,joycj901,SFO03,,N,M,SFN,C $when Yasiel Puig was called safe at 2B on the attempted double play, Giants manager Bruce Bochy challenged the ruling; the call was upheld by replay"
-"SFN201409120",18,"Dodgers pitcher Hyun-Jin Ryu left the game due to an injured shoulder"
-"SFN201409130",61,"replay,6,crawc002,LAN,eddid901,SFO03,,Y,M,LAN,C $when Carl Crawford was called out at 1B, Dodgers manager Don Mattingly challenged the ruling; the call was overturned by replay"
-"SFN201409140",2,"replay,1,puigy001,LAN,eddid901,SFO03,,Y,M,LAN,A $when Dee Gordon was called out at 2B on a pickoff attempt, Dodgers manager Don Mattingly challenged the ruling; the call was overturned by replay"
-"SFN201409280",59,"replay,7,panij002,SFN,jallt901,SFO03,,Y,M,SFN,C $when Joe Panik was called out at 1B, Giants manager Bruce Bochy challenged the ruling; the call was overturned by replay"
-"SFN201404100",4,"replay,1,pradm001,ARI,culbf901,SFO03,,N,M,ARI,A $D-Backs manager Kirk Gibson challenged the call at 2B; the ruling was allowed to stand by replay"
-"SFN201404120",31,"Rockies pitcher Brett Anderson left the game due to an injured hand"
-"SFN201404150",90,"replay,10,blang001,SFN,wintm901,SFO03,,Y,M,SFN,C $Giants manager Bruce Bochy challenged the call at 1B when Gregor Blanco was called out; the ruling was overturned by replay"
-"SFN201404160",10,"replay,2,ethia001,LAN,wintm901,SFO03,,N,M,LAN,A $when Matt Kemp was called out at 1B, Dodgers manager Don Mattingly challenged the ruling; the call was upheld by replay"
-"SFN201404160",53,"Dodgers right fielder Andre Ethier left the game due to an injured hand"
-"SFN201404280",21,"replay,3,nadyx001,SDN,vanol901,SFO03,,Y,M,SFN,C $when Xavier Nady was called safe at 1B, Giants manager Bruce Bochy challenged the ruling; it was overturned by replay"
-"SFN201404280",29,"replay,4,rosst001,SDN,vanol901,SFO03,,Y,M,SDN,C $when Tyson Ross was called out at 1B, Padres manager Bud Black challenged the ruling; it was overturned by replay"
-"SFN201405120",37,"originally scored as E3, changed to single on 05-20-2014"
-"SFN201405120",48,"replay,7,simma001,ATL,demud901,SFO03,,Y,M,SFN,A $when B.J. Upton was called safe at 3B, Giants manager Bruce Bochy challenged the ruling; it was overturned by replay"
-"SFN201405130",37,"replay,6,freef001,ATL,demud901,SFO03,,N,M,SFN,A $when Freddie Freeman was called safe at HP, Giants manager Bruce Bochy challenged the ruling; it was upheld by replay"
-"SFN201405130",51,"replay,7,freef001,ATL,demud901,SFO03,,Y,M,ATL,C $when Freddie Freeman was called out at 1B, Braves manager Fredi Gonzalez challenged the ruling; it was overturned by replay pitcher David Freeman never stepped on the bag"
-"SFN201405140",57,"ej,uptob001,P,barrl901,Called third strike Braves center fielder B. J. Upton ejected by HP umpire Lance Barrett"
-"SFN201405160",44,"replay,5,pench001,SFN,cedeg901,SFO03,,Y,M,MIA,X $when Giancarlo Stanton dropped the ball on the transfer, it was ruled no catch; Marlins manager Mike Redmond challenged the call; it was overturned by replay"
-"SFN201405170",17,"replay,2,hickb002,SFN,cedeg901,SFO03,,Y,M,MIA,B $the Marlins appealed that Brandon Hicks missed 1B; when Hicks was ruled safe, Marlins manager Mike Redmond challenged the ruling; it was overturned by replay"
-"SFN201405230",8,"replay,1,pench001,SFN,mealj901,SFO03,,Y,M,SFN,C $when Hunter Pence was called out at 1B, Giants manager Bruce Bochy challenged the ruling; the call was overturned by replay"
-"SFN201405260",53,"originally scored as pickof plus error, changed to steal and error on 05-27-2014"
-"SFN201405260",68,"replay,8,poseb001,SFN,wengm901,SFO03,,N,M,CHN,A $when Angel Pagan was called safe at 2B, Cubs manager Rick Renteria challenged the ruling; the call was upheld by replay"
-"SFN201405280",64,"replay,7,sanch002,SFN,wegnm901,SFO03,,N,M,CHN,A $when Hector Sanchez was called safe at 3B, Cubs manager Rick Renteria challenged the ruling; the call was upheld by replay"
-"SFN201406060",33,"replay,5,cainm001,SFN,westj901,SFO03,,Y,M,SFN,I $the first pitch to Matt Cain struck the tip of his right foot and was called a ball; Giants manager Bruce Bochy challenged the ruling; the call was overturned to HP by replay"
-"SFN201406070",84,"replay,9,pagaa001,SFN,westj901,SFO03,,N,M,NYN,C $when Angel Pagan was called safe at 1B, Mets manager Terry Collins challenged the ruling; the call was upheld by replay"
-"SFN201406100",22,"replay,3,pagaa001,SFN,davig901,SFO03,,N,M,WAS,C $when Angel Pagan was called safe at 1B, Nationals manager Matt Williams challenged the ruling; the call was upheld by replay"
-"SFN201406100",46,"replay,6,desmi001,WAS,davig901,SFO03,,Y,M,SFN,C $when Ian Desmond was called safe at 1B, Giants manager Bruce Bochy challenged the ruling; the call was overturned by replay"
-"SFN201406130",34,"Rockies pitcher Jorge De La Rosa left the game due to an injured back"
-"SFN201406130",78,"replay,9,stubd001,COL,wintm901,SFO03,,Y,M,SFN,A $when Charlie Blackmon was called safe at 2B, Giants manager Bruce Bochy challenged the ruling; the call was overturned by replay"
-"SFN201406140",5,"replay,1,rutlj001,COL,wintm901,SFO03,,Y,M,SFN,C $when Josh Rutledge was called safe at 1B, Giants manager Bruce Bochy challenged the ruling; the call was overturned by replay"
-"SFN201406140",77,"replay,9,pagaa001,SFN,wintm901,SFO03,,N,M,SFN,C $when Angel Pagan was called out at 1B, Giants manager Bruce Bochy challenged the ruling; the call was upheld by replay"
-"SFN201406150",20,"replay,2,blang001,SFN,wintm901,SFO03,,Y,M,SFN,C $when Gregor Blanco was called out at 1B, Giants manager Bruce Bochy challenged the ruling; the call was overturned by replay"
-"SFN201406150",30,"orignally scored E3, changed to single on 06-20-2014"
-"SFN201406150",39,"Giants catcher Buster Posey left the game due to an injured head"
-"SFN201406150",88,"ej,bochb002,M,muchm901,Called third strike Giants Manager Bruce Bochy ejected by HP umpire Mike Muchlinski"
-"SFN201406230",23,"replay,4,grany001,SDN,onorb901,SFO03,I,Y,U,,H ej,blacb001,M,onorb901,Replay ruling $Yasmani Grandal's fly to right center was touched by a fan who leaned over the wall; the ball was ruled a home run but acting crew chief Brian O'Nora requested a review; the call was overturned to fan interference and a double and only one run on the play; Padres manager Bud Black came onto the field to argue the result and was ejected by O'Nora"
-"SFN201406240",56,"replay,7,crawb001,SFN,onorb901,SFO03,,N,M,SDN,C $when Brandon Crawford was called safe at 1B, Padres manager Bud Black challenged the ruling; the call was upheld by replay"
-"SFN201406270",12,"originally scored as E4, changed to single on 06-28-2014"
-"SFN201406270",44,"replay,6,cozaz001,CIN,kellj901,SFO03,,N,M,SFN,C $when Zack Cozart was called safe at 1B, Giants manager Bruce Bochy challenged the ruling; the call was upheld by replay; the throw pulled Adam Duvall off the bag but Cozart did not touch the bag as he ran past; Duvall walked toward the mound and Cozart came back to the bag"
-"SFN201406270",55,"replay,7,brucj001,CIN,kellj901,SFO03,,N,U,,T $Hunter Pence was ruled to have caught the line drive; crew chief Jeff Kellogg requested a review, which upheld the call by replay"
-"SFN201406280",43,"replay,6,brucj001,CIN,kellj901,SFO03,,Y,M,SFN,C $when Jay Bruce was called safe at 1B, Giants manager Bruce Bochy challenged the ruling; the call was overturned by replay"
-"SFN201406280",60,"replay,8,pench001,SFN,kellj901,SFO03,,N,M,SFN,A $when Gregor Blanco was called out at 2B, Giants manager Bruce Bochy challenged the ruling; the call was upheld by replay"
-"SFN201406290",65,"replay,9,bailh001,CIN,kellj901,SFO03,,Y,M,SFN,A $when Zack Cozart was called safe at 2B, Giants manager Bruce Bochy challenged the ruling; the call was overturned by replay"
-"SFN201407020",63,"replay,9,pench001,SFN,demud901,SFO03,,Y,M,SFN,C $when Hunter Pence was called out at 1B, Giants manager Bruce Bochy challenged the ruling; the call was overturned by replay"
-"SFN201407030",43,"replay,5,pench001,SFN,demud901,SFO03,,N,M,SLN,C $when Hunter Pence was called safe at 1B, Cardinals manager Mike Matheny challenged the ruling; the call was upheld by replay"
-"SFN201407100",5,"$HP umpire Adrian Johnson was struck on the mask by a foul ball by Pablo Sandoval on the first pitch to that batter"
-"SFN201407100",22,"umpchange,4,umphome,herna901 umpchange,4,ump2b,(None) $HP umpire Adrian Johnson left the game with concussion-like symptoms; Angel Hernandez moved from 2B to HP"
-"SFN201407100",49,"replay,6,pench001,SFN,herna901,SFO03,,Y,M,SFN,C $when Hunter Pence was called out at 1B, Giants manager Bruce Bochy challenged the ruling; the call was overturned by replay"
-"SFN201407100",74,"replay,9,blang001,SFN,herna901,SFO03,,Y,M,OAK,C $when Gregor Blanco was called safe at 1B, Athletics manager Bob Melvin challenged the ruling; the call was overturned by replay"
-"SFN201407120",46,"$fan interference"
-"SFN201407120",55,"replay,7,blang001,SFN,scotd901,SFO03,,Y,M,ARI,C $when Gregor Blanco was called safe at 1B, D-Backs manager Kirk Gibson challenged the ruling; the call was overturned by replay since Wade Miley tagged Blanco just before they both reached the bag; the umpire was watching the feet at the bag"
-"SFN201407130",51,"$second grand slam of the season for Madison Bumgarner; Tony Cloninger only other pitcher with two in one year; this was the first time a pitcher and catcher both hit slams in the same game for the same team"
-"SFN201407250",2,"replay,1,puigy001,LAN,marqa901,SFO03,,N,U,,H $Yasiel Puig's fly was touched by a fan near the top of the wall and the ball rolled back onto the field; Puig reached 3B on the play; acting crew chief Alfonso Marquez requested a review and the play was ruled fan interference; Puig was awarded 3B"
-"SFN201407260",39,"originally scored as throwing error to allow run to score; error removed on 08-04-2014, batters gets RBI, both runs in now earned"
-"SFN201407260",45,"originally scored as error, changed to single on 07-27-2014"
-"SFN201407290",16,"replay,2,morsm001,SFN,culbf901,SFO03,I,N,U,,H $Michael Morse's fly ball to LF just cleared the top of the wall and struck a fan; that fan was reaching over the top of the wall but did not touch the ball; crew chief Fieldin Culbreth requested a review, which upheld the call of home run"
-"SFN201407300",59,"$on ball four, Travis Snider walked towards 3B, evidently thinking there was a runner on 1B and he was forced to move; when the Giants went after Snider, Gaby Sanchez ran down the 3B line"
-"SFN201408120",74,"replay,10,deaza001,CHA,culbf901,SFO03,,N,U,,P $when Jordan Danks was called out at HP, crew chief Fieldin Culbreth requested a review; the call was upheld by replay saying the catcher did not block HP and the runner was out"
-"SFN201408130",52,"replay,7,panij002,SFN,culbf901,SFO03,,Y,U,,P ej,ventr001,M,culbf901,Replay ruling $when Gregor Blanco was called out at HP, crew chief Fieldin Culbreth requested a review; the call was overturned by replay saying the catcher was blocking HP without the ball; White Sox manager Robin Ventura ran onto the field and was ejected by Culbreth; Ventura kicked dirt onto HP; the runners were placed on 2B and 3B and Ventura came onto the field again to argue the placement; Culbreth got back onto the headset and then put the runners back on 1B and 2B"
-"SFN201408150",24,"replay,4,howar001,PHI,westj901,SFO03,,N,M,PHI,A $when Jimmy Rollins was called out at 3B, Phillies manager Ryne Sandberg challenged the ruling; the call was upheld by replay"
-"SFN201408170",21,"error was originally E9, changed to E5 on 08-18-2014"
-"SFN201408170",71,"replay,8,panij002,SFN,westj901,SFO03,,N,M,PHI,A $when Joe Panik was called safe at 2B, Phillies manager Ryne Sandberg challenged the ruling; the call was upheld by replay"
-"SFN201408250",54,"replay,7,blacc001,COL,joycj901,SFO03,,Y,M,SFN,A $when DJ LeMahieu was called safe at HP, Giants manager Bruce Bochy challenged the ruling; the call was overturned by replay; Jake Peavy talked to HP umpire Doug Eddings while leaving the field about the strike zone"
-"SFN201408250",63,"ej,bochb002,M,eddid901,Called third strike Giants Manager Bruce Bochy ejected by HP umpire Doug Eddings"
-"SFN201408280",66,"replay,8,duffm002,SFN,joycj901,SFO03,,N,M,SFN,A $when Hunter Pence was called out at HP, Giants manager Bruce Bochy challenged the ruling; the call was upheld by replay"
-"SFN201408300",46,"replay,6,morsm001,SFN,scotd901,SFO03,,Y,M,MIL,X $when Carlos Gomez caught the ball and dropped it, the play was ruled no catch; Brewers manager Ron Roenicke challenged the ruling; the call was overturned to an out by replay"
-"SFN201408300",70,"replay,9,ramia001,MIL,scotd901,SFO03,,N,M,MIL,C $when Ryan Braun was called out at 2B, Brewers manager Ron Roenicke challenged the ruling; the call was upheld by replay"
-"SFN201408310",19,"Brewers center fielder Carlos Gomez left the game due to an injured wrist"
-"SFN201409090",45,"originally scored as single, changed to error on 09-10-2014, making both runs in inning unearned"
-"SFN201409100",23,"replay,3,panij002,SFN,gormb901,SFO03,,Y,M,ARI,A $when Angel Pagan was called safe at 2B, D-Backs manager Kirk Gibson challenged the ruling; the call was overturned by replay"
-"SFN201409120",3,"replay,1,gonza003,LAN,joycj901,SFO03,,N,M,SFN,C $when Yasiel Puig was called safe at 2B on the attempted double play, Giants manager Bruce Bochy challenged the ruling; the call was upheld by replay"
-"SFN201409120",18,"Dodgers pitcher Hyun-Jin Ryu left the game due to an injured shoulder"
-"SFN201409130",61,"replay,6,crawc002,LAN,eddid901,SFO03,,Y,M,LAN,C $when Carl Crawford was called out at 1B, Dodgers manager Don Mattingly challenged the ruling; the call was overturned by replay"
-"SFN201409140",2,"replay,1,puigy001,LAN,eddid901,SFO03,,Y,M,LAN,A $when Dee Gordon was called out at 2B on a pickoff attempt, Dodgers manager Don Mattingly challenged the ruling; the call was overturned by replay"
-"SFN201409280",59,"replay,7,panij002,SFN,jallt901,SFO03,,Y,M,SFN,C $when Joe Panik was called out at 1B, Giants manager Bruce Bochy challenged the ruling; the call was overturned by replay"
+"SFN201404100",4,"replay,1,pradm001,ARI,culbf901,SFO03,,N,M,ARI,A $D-Backs manager Kirk Gibson challenged the call at 2B; the ruling was allowed to stand by replay"FILENAME_TX","LINE_NUMBER_CT"
+
+"SFN201404120",31,"Rockies pitcher Brett Anderson left the game due to an injured hand"2014SFN.EVN.regular.comment.csv",2
+
+"SFN201404150",90,"replay,10,blang001,SFN,wintm901,SFO03,,Y,M,SFN,C $Giants manager Bruce Bochy challenged the call at 1B when Gregor Blanco was called out; the ruling was overturned by replay"2014SFN.EVN.regular.comment.csv",3
+
+"SFN201404160",10,"replay,2,ethia001,LAN,wintm901,SFO03,,N,M,LAN,A $when Matt Kemp was called out at 1B, Dodgers manager Don Mattingly challenged the ruling; the call was upheld by replay"2014SFN.EVN.regular.comment.csv",4
+
+"SFN201404160",53,"Dodgers right fielder Andre Ethier left the game due to an injured hand"2014SFN.EVN.regular.comment.csv",5
+
+"SFN201404280",21,"replay,3,nadyx001,SDN,vanol901,SFO03,,Y,M,SFN,C $when Xavier Nady was called safe at 1B, Giants manager Bruce Bochy challenged the ruling; it was overturned by replay"2014SFN.EVN.regular.comment.csv",6
+
+"SFN201404280",29,"replay,4,rosst001,SDN,vanol901,SFO03,,Y,M,SDN,C $when Tyson Ross was called out at 1B, Padres manager Bud Black challenged the ruling; it was overturned by replay"2014SFN.EVN.regular.comment.csv",7
+
+"SFN201405120",37,"originally scored as E3, changed to single on 05-20-2014"2014SFN.EVN.regular.comment.csv",8
+
+"SFN201405120",48,"replay,7,simma001,ATL,demud901,SFO03,,Y,M,SFN,A $when B.J. Upton was called safe at 3B, Giants manager Bruce Bochy challenged the ruling; it was overturned by replay"2014SFN.EVN.regular.comment.csv",9
+
+"SFN201405130",37,"replay,6,freef001,ATL,demud901,SFO03,,N,M,SFN,A $when Freddie Freeman was called safe at HP, Giants manager Bruce Bochy challenged the ruling; it was upheld by replay"2014SFN.EVN.regular.comment.csv",10
+
+"SFN201405130",51,"replay,7,freef001,ATL,demud901,SFO03,,Y,M,ATL,C $when Freddie Freeman was called out at 1B, Braves manager Fredi Gonzalez challenged the ruling; it was overturned by replay pitcher David Freeman never stepped on the bag"2014SFN.EVN.regular.comment.csv",11
+
+"SFN201405140",57,"ej,uptob001,P,barrl901,Called third strike Braves center fielder B. J. Upton ejected by HP umpire Lance Barrett"2014SFN.EVN.regular.comment.csv",12
+
+"SFN201405160",44,"replay,5,pench001,SFN,cedeg901,SFO03,,Y,M,MIA,X $when Giancarlo Stanton dropped the ball on the transfer, it was ruled no catch; Marlins manager Mike Redmond challenged the call; it was overturned by replay"2014SFN.EVN.regular.comment.csv",13
+
+"SFN201405170",17,"replay,2,hickb002,SFN,cedeg901,SFO03,,Y,M,MIA,B $the Marlins appealed that Brandon Hicks missed 1B; when Hicks was ruled safe, Marlins manager Mike Redmond challenged the ruling; it was overturned by replay"2014SFN.EVN.regular.comment.csv",14
+
+"SFN201405230",8,"replay,1,pench001,SFN,mealj901,SFO03,,Y,M,SFN,C $when Hunter Pence was called out at 1B, Giants manager Bruce Bochy challenged the ruling; the call was overturned by replay"2014SFN.EVN.regular.comment.csv",15
+
+"SFN201405260",53,"originally scored as pickof plus error, changed to steal and error on 05-27-2014"2014SFN.EVN.regular.comment.csv",16
+
+"SFN201405260",68,"replay,8,poseb001,SFN,wengm901,SFO03,,N,M,CHN,A $when Angel Pagan was called safe at 2B, Cubs manager Rick Renteria challenged the ruling; the call was upheld by replay"2014SFN.EVN.regular.comment.csv",17
+
+"SFN201405280",64,"replay,7,sanch002,SFN,wegnm901,SFO03,,N,M,CHN,A $when Hector Sanchez was called safe at 3B, Cubs manager Rick Renteria challenged the ruling; the call was upheld by replay"2014SFN.EVN.regular.comment.csv",18
+
+"SFN201406060",33,"replay,5,cainm001,SFN,westj901,SFO03,,Y,M,SFN,I $the first pitch to Matt Cain struck the tip of his right foot and was called a ball; Giants manager Bruce Bochy challenged the ruling; the call was overturned to HP by replay"2014SFN.EVN.regular.comment.csv",19
+
+"SFN201406070",84,"replay,9,pagaa001,SFN,westj901,SFO03,,N,M,NYN,C $when Angel Pagan was called safe at 1B, Mets manager Terry Collins challenged the ruling; the call was upheld by replay"2014SFN.EVN.regular.comment.csv",20
+
+"SFN201406100",22,"replay,3,pagaa001,SFN,davig901,SFO03,,N,M,WAS,C $when Angel Pagan was called safe at 1B, Nationals manager Matt Williams challenged the ruling; the call was upheld by replay"2014SFN.EVN.regular.comment.csv",21
+
+"SFN201406100",46,"replay,6,desmi001,WAS,davig901,SFO03,,Y,M,SFN,C $when Ian Desmond was called safe at 1B, Giants manager Bruce Bochy challenged the ruling; the call was overturned by replay"2014SFN.EVN.regular.comment.csv",22
+
+"SFN201406130",34,"Rockies pitcher Jorge De La Rosa left the game due to an injured back"2014SFN.EVN.regular.comment.csv",23
+
+"SFN201406130",78,"replay,9,stubd001,COL,wintm901,SFO03,,Y,M,SFN,A $when Charlie Blackmon was called safe at 2B, Giants manager Bruce Bochy challenged the ruling; the call was overturned by replay"2014SFN.EVN.regular.comment.csv",24
+
+"SFN201406140",5,"replay,1,rutlj001,COL,wintm901,SFO03,,Y,M,SFN,C $when Josh Rutledge was called safe at 1B, Giants manager Bruce Bochy challenged the ruling; the call was overturned by replay"2014SFN.EVN.regular.comment.csv",25
+
+"SFN201406140",77,"replay,9,pagaa001,SFN,wintm901,SFO03,,N,M,SFN,C $when Angel Pagan was called out at 1B, Giants manager Bruce Bochy challenged the ruling; the call was upheld by replay"2014SFN.EVN.regular.comment.csv",26
+
+"SFN201406150",20,"replay,2,blang001,SFN,wintm901,SFO03,,Y,M,SFN,C $when Gregor Blanco was called out at 1B, Giants manager Bruce Bochy challenged the ruling; the call was overturned by replay"2014SFN.EVN.regular.comment.csv",27
+
+"SFN201406150",30,"orignally scored E3, changed to single on 06-20-2014"2014SFN.EVN.regular.comment.csv",28
+
+"SFN201406150",39,"Giants catcher Buster Posey left the game due to an injured head"2014SFN.EVN.regular.comment.csv",29
+
+"SFN201406150",88,"ej,bochb002,M,muchm901,Called third strike Giants Manager Bruce Bochy ejected by HP umpire Mike Muchlinski"2014SFN.EVN.regular.comment.csv",30
+
+"SFN201406230",23,"replay,4,grany001,SDN,onorb901,SFO03,I,Y,U,,H ej,blacb001,M,onorb901,Replay ruling $Yasmani Grandal's fly to right center was touched by a fan who leaned over the wall; the ball was ruled a home run but acting crew chief Brian O'Nora requested a review; the call was overturned to fan interference and a double and only one run on the play; Padres manager Bud Black came onto the field to argue the result and was ejected by O'Nora"2014SFN.EVN.regular.comment.csv",31
+
+"SFN201406240",56,"replay,7,crawb001,SFN,onorb901,SFO03,,N,M,SDN,C $when Brandon Crawford was called safe at 1B, Padres manager Bud Black challenged the ruling; the call was upheld by replay"2014SFN.EVN.regular.comment.csv",32
+
+"SFN201406270",12,"originally scored as E4, changed to single on 06-28-2014"2014SFN.EVN.regular.comment.csv",33
+
+"SFN201406270",44,"replay,6,cozaz001,CIN,kellj901,SFO03,,N,M,SFN,C $when Zack Cozart was called safe at 1B, Giants manager Bruce Bochy challenged the ruling; the call was upheld by replay; the throw pulled Adam Duvall off the bag but Cozart did not touch the bag as he ran past; Duvall walked toward the mound and Cozart came back to the bag"2014SFN.EVN.regular.comment.csv",34
+
+"SFN201406270",55,"replay,7,brucj001,CIN,kellj901,SFO03,,N,U,,T $Hunter Pence was ruled to have caught the line drive; crew chief Jeff Kellogg requested a review, which upheld the call by replay"2014SFN.EVN.regular.comment.csv",35
+
+"SFN201406280",43,"replay,6,brucj001,CIN,kellj901,SFO03,,Y,M,SFN,C $when Jay Bruce was called safe at 1B, Giants manager Bruce Bochy challenged the ruling; the call was overturned by replay"2014SFN.EVN.regular.comment.csv",36
+
+"SFN201406280",60,"replay,8,pench001,SFN,kellj901,SFO03,,N,M,SFN,A $when Gregor Blanco was called out at 2B, Giants manager Bruce Bochy challenged the ruling; the call was upheld by replay"2014SFN.EVN.regular.comment.csv",37
+
+"SFN201406290",65,"replay,9,bailh001,CIN,kellj901,SFO03,,Y,M,SFN,A $when Zack Cozart was called safe at 2B, Giants manager Bruce Bochy challenged the ruling; the call was overturned by replay"2014SFN.EVN.regular.comment.csv",38
+
+"SFN201407020",63,"replay,9,pench001,SFN,demud901,SFO03,,Y,M,SFN,C $when Hunter Pence was called out at 1B, Giants manager Bruce Bochy challenged the ruling; the call was overturned by replay"2014SFN.EVN.regular.comment.csv",39
+
+"SFN201407030",43,"replay,5,pench001,SFN,demud901,SFO03,,N,M,SLN,C $when Hunter Pence was called safe at 1B, Cardinals manager Mike Matheny challenged the ruling; the call was upheld by replay"2014SFN.EVN.regular.comment.csv",40
+
+"SFN201407100",5,"$HP umpire Adrian Johnson was struck on the mask by a foul ball by Pablo Sandoval on the first pitch to that batter"2014SFN.EVN.regular.comment.csv",41
+
+"SFN201407100",22,"umpchange,4,umphome,herna901 umpchange,4,ump2b,(None) $HP umpire Adrian Johnson left the game with concussion-like symptoms; Angel Hernandez moved from 2B to HP"2014SFN.EVN.regular.comment.csv",42
+
+"SFN201407100",49,"replay,6,pench001,SFN,herna901,SFO03,,Y,M,SFN,C $when Hunter Pence was called out at 1B, Giants manager Bruce Bochy challenged the ruling; the call was overturned by replay"2014SFN.EVN.regular.comment.csv",43
+
+"SFN201407100",74,"replay,9,blang001,SFN,herna901,SFO03,,Y,M,OAK,C $when Gregor Blanco was called safe at 1B, Athletics manager Bob Melvin challenged the ruling; the call was overturned by replay"2014SFN.EVN.regular.comment.csv",44
+
+"SFN201407120",46,"$fan interference"2014SFN.EVN.regular.comment.csv",45
+
+"SFN201407120",55,"replay,7,blang001,SFN,scotd901,SFO03,,Y,M,ARI,C $when Gregor Blanco was called safe at 1B, D-Backs manager Kirk Gibson challenged the ruling; the call was overturned by replay since Wade Miley tagged Blanco just before they both reached the bag; the umpire was watching the feet at the bag"2014SFN.EVN.regular.comment.csv",46
+
+"SFN201407130",51,"$second grand slam of the season for Madison Bumgarner; Tony Cloninger only other pitcher with two in one year; this was the first time a pitcher and catcher both hit slams in the same game for the same team"2014SFN.EVN.regular.comment.csv",47
+
+"SFN201407250",2,"replay,1,puigy001,LAN,marqa901,SFO03,,N,U,,H $Yasiel Puig's fly was touched by a fan near the top of the wall and the ball rolled back onto the field; Puig reached 3B on the play; acting crew chief Alfonso Marquez requested a review and the play was ruled fan interference; Puig was awarded 3B"2014SFN.EVN.regular.comment.csv",48
+
+"SFN201407260",39,"originally scored as throwing error to allow run to score; error removed on 08-04-2014, batters gets RBI, both runs in now earned"2014SFN.EVN.regular.comment.csv",49
+
+"SFN201407260",45,"originally scored as error, changed to single on 07-27-2014"2014SFN.EVN.regular.comment.csv",50
+
+"SFN201407290",16,"replay,2,morsm001,SFN,culbf901,SFO03,I,N,U,,H $Michael Morse's fly ball to LF just cleared the top of the wall and struck a fan; that fan was reaching over the top of the wall but did not touch the ball; crew chief Fieldin Culbreth requested a review, which upheld the call of home run"2014SFN.EVN.regular.comment.csv",51
+
+"SFN201407300",59,"$on ball four, Travis Snider walked towards 3B, evidently thinking there was a runner on 1B and he was forced to move; when the Giants went after Snider, Gaby Sanchez ran down the 3B line"2014SFN.EVN.regular.comment.csv",52
+
+"SFN201408120",74,"replay,10,deaza001,CHA,culbf901,SFO03,,N,U,,P $when Jordan Danks was called out at HP, crew chief Fieldin Culbreth requested a review; the call was upheld by replay saying the catcher did not block HP and the runner was out"2014SFN.EVN.regular.comment.csv",53
+
+"SFN201408130",52,"replay,7,panij002,SFN,culbf901,SFO03,,Y,U,,P ej,ventr001,M,culbf901,Replay ruling $when Gregor Blanco was called out at HP, crew chief Fieldin Culbreth requested a review; the call was overturned by replay saying the catcher was blocking HP without the ball; White Sox manager Robin Ventura ran onto the field and was ejected by Culbreth; Ventura kicked dirt onto HP; the runners were placed on 2B and 3B and Ventura came onto the field again to argue the placement; Culbreth got back onto the headset and then put the runners back on 1B and 2B"2014SFN.EVN.regular.comment.csv",54
+
+"SFN201408150",24,"replay,4,howar001,PHI,westj901,SFO03,,N,M,PHI,A $when Jimmy Rollins was called out at 3B, Phillies manager Ryne Sandberg challenged the ruling; the call was upheld by replay"2014SFN.EVN.regular.comment.csv",55
+
+"SFN201408170",21,"error was originally E9, changed to E5 on 08-18-2014"2014SFN.EVN.regular.comment.csv",56
+
+"SFN201408170",71,"replay,8,panij002,SFN,westj901,SFO03,,N,M,PHI,A $when Joe Panik was called safe at 2B, Phillies manager Ryne Sandberg challenged the ruling; the call was upheld by replay"2014SFN.EVN.regular.comment.csv",57
+
+"SFN201408250",54,"replay,7,blacc001,COL,joycj901,SFO03,,Y,M,SFN,A $when DJ LeMahieu was called safe at HP, Giants manager Bruce Bochy challenged the ruling; the call was overturned by replay; Jake Peavy talked to HP umpire Doug Eddings while leaving the field about the strike zone"2014SFN.EVN.regular.comment.csv",58
+
+"SFN201408250",63,"ej,bochb002,M,eddid901,Called third strike Giants Manager Bruce Bochy ejected by HP umpire Doug Eddings"2014SFN.EVN.regular.comment.csv",59
+
+"SFN201408280",66,"replay,8,duffm002,SFN,joycj901,SFO03,,N,M,SFN,A $when Hunter Pence was called out at HP, Giants manager Bruce Bochy challenged the ruling; the call was upheld by replay"2014SFN.EVN.regular.comment.csv",60
+
+"SFN201408300",46,"replay,6,morsm001,SFN,scotd901,SFO03,,Y,M,MIL,X $when Carlos Gomez caught the ball and dropped it, the play was ruled no catch; Brewers manager Ron Roenicke challenged the ruling; the call was overturned to an out by replay"2014SFN.EVN.regular.comment.csv",61
+
+"SFN201408300",70,"replay,9,ramia001,MIL,scotd901,SFO03,,N,M,MIL,C $when Ryan Braun was called out at 2B, Brewers manager Ron Roenicke challenged the ruling; the call was upheld by replay"2014SFN.EVN.regular.comment.csv",62
+
+"SFN201408310",19,"Brewers center fielder Carlos Gomez left the game due to an injured wrist"2014SFN.EVN.regular.comment.csv",63
+
+"SFN201409090",45,"originally scored as single, changed to error on 09-10-2014, making both runs in inning unearned"2014SFN.EVN.regular.comment.csv",64
+
+"SFN201409100",23,"replay,3,panij002,SFN,gormb901,SFO03,,Y,M,ARI,A $when Angel Pagan was called safe at 2B, D-Backs manager Kirk Gibson challenged the ruling; the call was overturned by replay"2014SFN.EVN.regular.comment.csv",65
+
+"SFN201409120",3,"replay,1,gonza003,LAN,joycj901,SFO03,,N,M,SFN,C $when Yasiel Puig was called safe at 2B on the attempted double play, Giants manager Bruce Bochy challenged the ruling; the call was upheld by replay"2014SFN.EVN.regular.comment.csv",66
+
+"SFN201409120",18,"Dodgers pitcher Hyun-Jin Ryu left the game due to an injured shoulder"2014SFN.EVN.regular.comment.csv",67
+
+"SFN201409130",61,"replay,6,crawc002,LAN,eddid901,SFO03,,Y,M,LAN,C $when Carl Crawford was called out at 1B, Dodgers manager Don Mattingly challenged the ruling; the call was overturned by replay"2014SFN.EVN.regular.comment.csv",68
+
+"SFN201409140",2,"replay,1,puigy001,LAN,eddid901,SFO03,,Y,M,LAN,A $when Dee Gordon was called out at 2B on a pickoff attempt, Dodgers manager Don Mattingly challenged the ruling; the call was overturned by replay"2014SFN.EVN.regular.comment.csv",69
+
+"SFN201409280",59,"replay,7,panij002,SFN,jallt901,SFO03,,Y,M,SFN,C $when Joe Panik was called out at 1B, Giants manager Bruce Bochy challenged the ruling; the call was overturned by replay"2014SFN.EVN.regular.comment.csv",70
+

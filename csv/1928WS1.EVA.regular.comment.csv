@@ -1,80 +1,88 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"WS1192804100",33,"$Jack Rothrock made a wild throw to 1B"
-"WS1192805010",40,"$Sam West left with injured leg"
-"WS1192805010",61,"pbp account ends here, rest deduced"
-"WS1192805020",77,"don't know how Combs was out"
-"WS1192805040",52,"$Schang made wild pickoff throw but O'Rourke recovered it."
-"WS1192805040",64,"$Gillis knocked out by Schang's pickoff throw.  His nose  was broken."
-"WS1192805190",51,"rain started"
-"WS1192805190",60,"rain delay"
-"WS1192805200",27,"$Luke Sewell left injured after fouling first pitch"
-"WS1192806231",16,"need PB; guess for timing"
-"WS1192806232",11,"need E2; best guess here"
-"WS1192806232",24,"$Jimmy Dykes out on appeal for leaving 3B too soon"
-"WS1192806251",34,"$Goose Goslin fell making catch"
-"WS1192806251",44,"need E2; guessing here"
-"WS1192806251",57,"need SB; guessing here"
-"WS1192806251",68,"need SB; guess here"
-"WS1192806252",33,"need WP; guess here"
-"WS1192806260",59,"need E3 somewhere in inning; guess here"
-"WS1192807020",56,"Dugan might have PH in 8th"
-"WS1192807020",59,"DWV reconstructed rest of game"
-"WS1192807020",66,"$no one covered 3B and Lou Gehrig's throw went into the Yankee dugout"
-"WS1192807090",21,"$Bill Hunnefield fouled ball off foot"
-"WS1192807101",8,"$Joe Judge rounded 2B too far"
-"WS1192807140",30,"Hit and run."
-"WS1192807170",21,"$Braxton overslid third."
-"WS1192808140",48,"$Bluege fell over bag and sprained ankle."
-"WS1192808160",63,"$Game called due to rain with 2 outs and 2 runs in in top of 8th."
-"WS1192808210",53,"ej,mostj101,P,guthb901,Catch/trap call (Threw glove) ej,altrn101,C,ormsr901,Bench jockeying Johnny Mostil ejected by 3B umpire Bill Guthrie and Senators Coach Nick Altrock ejected by HP umpire Red Ormsby claiming he caught the ball"
-"WS1192809010",0,"$Game attended by President Hoover"
-"WS1192809010",47,"$Collins rounded second too far"
-"WS1192809010",64,"$fans threw bottles at HP Umpire Dick Nallin, who made the call on Sam Jones being struck by the ball; there was a 5 minute delay while order was restored"
-"WS1192809010",64,"pbp account ends here, rest deduced"
-"WS1192809010",87,"ej,harrb106,M,dinnb101,Call at 2B $Senators Manager Bucky Harris ejected by 1B umpire Bill Dinneen who called Durocher out and then safe on his stolen base"
-"WS1192809032",30,"$Bobby Reeves' throw to 1B was wide, but a diving stop by Bennie Tate backing up the play prevented it from rolling into the Senators' dugout"
-"WS1192809040",50,"$Bing Miller crashed into Bobby Reeves as he threw to 1B"
-"WS1192804100",33,"$Jack Rothrock made a wild throw to 1B"
-"WS1192804300",56,"$Reeves hurt in collision with Gehrig in top 5th."
-"WS1192805010",40,"$Sam West left with injured leg"
-"WS1192805010",61,"pbp account ends here, rest deduced"
-"WS1192805020",77,"don't know how Combs was out"
-"WS1192805040",52,"$Schang made wild pickoff throw but O'Rourke recovered it."
-"WS1192805040",64,"$Gillis knocked out by Schang's pickoff throw.  His nose  was broken."
-"WS1192805060",62,"Late throw to 2nd"
-"WS1192805190",51,"rain started"
-"WS1192805190",60,"rain delay"
-"WS1192805200",27,"$Luke Sewell left injured after fouling first pitch"
-"WS1192806220",48,"Or Gerber went to second."
-"WS1192806231",16,"need PB; guess for timing"
-"WS1192806232",11,"need E2; best guess here"
-"WS1192806232",24,"$Jimmy Dykes out on appeal for leaving 3B too soon"
-"WS1192806251",34,"$Goose Goslin fell making catch"
-"WS1192806251",44,"need E2; guessing here"
-"WS1192806251",57,"need SB; guessing here"
-"WS1192806251",68,"need SB; guess here"
-"WS1192806252",33,"need WP; guess here"
-"WS1192806260",59,"need E3 somewhere in inning; guess here"
-"WS1192807020",61,"$Ruth injured leg sliding into third, causing delay"
-"WS1192807020",66,"$no one covered 3B and Lou Gehrig's throw went into the Yankee dugout"
-"WS1192807030",65,"ej,meusb101,P,hildg101,Called third strike (Threw bat) $Meusel ejected by HP umpire Hildebrand for arguing called third strike and threw bat"
-"WS1192807030",71,"Grabowski hit by own batted ball"
-"WS1192807060",19,"$Ruel injured finger."
-"WS1192807090",21,"$Bill Hunnefield fouled ball off foot"
-"WS1192807101",8,"$Joe Judge rounded 2B too far"
-"WS1192807140",30,"Hit and run."
-"WS1192807150",64,"$Schulte dropped the ball transferring it to his throwing hand; the umpires didn't make a clear out signal so Goslin went to second, thinking the ball had not been caught; after the play, the umpires conferred and ruled it was a legal catch and Goslin, who had been tagged at second base, was out"
-"WS1192807170",21,"$Braxton overslid third."
-"WS1192808140",48,"$Bluege fell over bag and sprained ankle."
-"WS1192808160",63,"$Game called due to rain with 2 outs and 2 runs in in top of 8th."
-"WS1192808170",64,"$McManus thought he'd been forced home."
-"WS1192808210",53,"ej,mostj101,P,guthb901,Catch/trap call (Threw glove) ej,altrn101,C,ormsr901,Bench jockeying Johnny Mostil ejected by 3B umpire Bill Guthrie and Senators Coach Nick Altrock ejected by HP umpire Red Ormsby claiming he caught the ball"
-"WS1192808252",63,"$Game called for rain with 2 out in bottom 8, score reverted"
-"WS1192808260",66,"Bluege caught in run down play."
-"WS1192809010",0,"$Game attended by President Hoover"
-"WS1192809010",47,"$Collins rounded second too far"
-"WS1192809010",64,"$fans threw bottles at HP Umpire Dick Nallin, who made the call on Sam Jones being struck by the ball; there was a 5 minute delay while order was restored"
-"WS1192809010",64,"pbp account ends here, rest deduced"
-"WS1192809010",87,"ej,harrb106,M,dinnb101,Call at 2B $Senators Manager Bucky Harris ejected by 1B umpire Bill Dinneen who called Durocher out and then safe on his stolen base"
-"WS1192809032",30,"$Bobby Reeves' throw to 1B was wide, but a diving stop by Bennie Tate backing up the play prevented it from rolling into the Senators' dugout"
-"WS1192809040",50,"$Bing Miller crashed into Bobby Reeves as he threw to 1B"
+"WS1192804100",33,"$Jack Rothrock made a wild throw to 1B"FILENAME_TX","LINE_NUMBER_CT"
+
+"WS1192804300",56,"$Reeves hurt in collision with Gehrig in top 5th."1928WS1.EVA.regular.comment.csv",2
+
+"WS1192805010",40,"$Sam West left with injured leg"1928WS1.EVA.regular.comment.csv",3
+
+"WS1192805010",61,"pbp account ends here, rest deduced"1928WS1.EVA.regular.comment.csv",4
+
+"WS1192805020",77,"don't know how Combs was out"1928WS1.EVA.regular.comment.csv",5
+
+"WS1192805040",52,"$Schang made wild pickoff throw but O'Rourke recovered it."1928WS1.EVA.regular.comment.csv",6
+
+"WS1192805040",64,"$Gillis knocked out by Schang's pickoff throw.  His nose  was broken."1928WS1.EVA.regular.comment.csv",7
+
+"WS1192805060",62,"Late throw to 2nd"1928WS1.EVA.regular.comment.csv",8
+
+"WS1192805190",51,"rain started"1928WS1.EVA.regular.comment.csv",9
+
+"WS1192805190",60,"rain delay"1928WS1.EVA.regular.comment.csv",10
+
+"WS1192805200",27,"$Luke Sewell left injured after fouling first pitch"1928WS1.EVA.regular.comment.csv",11
+
+"WS1192806220",48,"Or Gerber went to second."1928WS1.EVA.regular.comment.csv",12
+
+"WS1192806231",16,"need PB; guess for timing"1928WS1.EVA.regular.comment.csv",13
+
+"WS1192806232",11,"need E2; best guess here"1928WS1.EVA.regular.comment.csv",14
+
+"WS1192806232",24,"$Jimmy Dykes out on appeal for leaving 3B too soon"1928WS1.EVA.regular.comment.csv",15
+
+"WS1192806251",34,"$Goose Goslin fell making catch"1928WS1.EVA.regular.comment.csv",16
+
+"WS1192806251",44,"need E2; guessing here"1928WS1.EVA.regular.comment.csv",17
+
+"WS1192806251",57,"need SB; guessing here"1928WS1.EVA.regular.comment.csv",18
+
+"WS1192806251",68,"need SB; guess here"1928WS1.EVA.regular.comment.csv",19
+
+"WS1192806252",33,"need WP; guess here"1928WS1.EVA.regular.comment.csv",20
+
+"WS1192806260",59,"need E3 somewhere in inning; guess here"1928WS1.EVA.regular.comment.csv",21
+
+"WS1192807020",61,"$Ruth injured leg sliding into third, causing delay"1928WS1.EVA.regular.comment.csv",22
+
+"WS1192807020",66,"$no one covered 3B and Lou Gehrig's throw went into the Yankee dugout"1928WS1.EVA.regular.comment.csv",23
+
+"WS1192807030",65,"ej,meusb101,P,hildg101,Called third strike (Threw bat) $Meusel ejected by HP umpire Hildebrand for arguing called third strike and threw bat"1928WS1.EVA.regular.comment.csv",24
+
+"WS1192807030",71,"Grabowski hit by own batted ball"1928WS1.EVA.regular.comment.csv",25
+
+"WS1192807060",19,"$Ruel injured finger."1928WS1.EVA.regular.comment.csv",26
+
+"WS1192807090",21,"$Bill Hunnefield fouled ball off foot"1928WS1.EVA.regular.comment.csv",27
+
+"WS1192807101",8,"$Joe Judge rounded 2B too far"1928WS1.EVA.regular.comment.csv",28
+
+"WS1192807140",30,"Hit and run."1928WS1.EVA.regular.comment.csv",29
+
+"WS1192807150",64,"$Schulte dropped the ball transferring it to his throwing hand; the umpires didn't make a clear out signal so Goslin went to second, thinking the ball had not been caught; after the play, the umpires conferred and ruled it was a legal catch and Goslin, who had been tagged at second base, was out"1928WS1.EVA.regular.comment.csv",30
+
+"WS1192807170",21,"$Braxton overslid third."1928WS1.EVA.regular.comment.csv",31
+
+"WS1192808140",48,"$Bluege fell over bag and sprained ankle."1928WS1.EVA.regular.comment.csv",32
+
+"WS1192808160",63,"$Game called due to rain with 2 outs and 2 runs in in top of 8th."1928WS1.EVA.regular.comment.csv",33
+
+"WS1192808170",64,"$McManus thought he'd been forced home."1928WS1.EVA.regular.comment.csv",34
+
+"WS1192808210",53,"ej,mostj101,P,guthb901,Catch/trap call (Threw glove) ej,altrn101,C,ormsr901,Bench jockeying Johnny Mostil ejected by 3B umpire Bill Guthrie and Senators Coach Nick Altrock ejected by HP umpire Red Ormsby claiming he caught the ball"1928WS1.EVA.regular.comment.csv",35
+
+"WS1192808252",63,"$Game called for rain with 2 out in bottom 8, score reverted"1928WS1.EVA.regular.comment.csv",36
+
+"WS1192808260",66,"Bluege caught in run down play."1928WS1.EVA.regular.comment.csv",37
+
+"WS1192809010",0,"$Game attended by President Hoover"1928WS1.EVA.regular.comment.csv",38
+
+"WS1192809010",47,"$Collins rounded second too far"1928WS1.EVA.regular.comment.csv",39
+
+"WS1192809010",64,"$fans threw bottles at HP Umpire Dick Nallin, who made the call on Sam Jones being struck by the ball; there was a 5 minute delay while order was restored"1928WS1.EVA.regular.comment.csv",40
+
+"WS1192809010",64,"pbp account ends here, rest deduced"1928WS1.EVA.regular.comment.csv",41
+
+"WS1192809010",87,"ej,harrb106,M,dinnb101,Call at 2B $Senators Manager Bucky Harris ejected by 1B umpire Bill Dinneen who called Durocher out and then safe on his stolen base"1928WS1.EVA.regular.comment.csv",42
+
+"WS1192809032",30,"$Bobby Reeves' throw to 1B was wide, but a diving stop by Bennie Tate backing up the play prevented it from rolling into the Senators' dugout"1928WS1.EVA.regular.comment.csv",43
+
+"WS1192809040",50,"$Bing Miller crashed into Bobby Reeves as he threw to 1B"1928WS1.EVA.regular.comment.csv",44
+

@@ -1,65 +1,64 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"CLE200404150",3,"$Mientkiewicz left with sprained right ankle"
-"CLE200404180",64,"$Sanchez left with an injured groin"
-"CLE200404190",0,"65 minute delay during game"
-"CLE200404200",34,"$Escobar left with injured leg"
-"CLE200404300",16,"Debut game for Darnell McDonald"
-"CLE200405150",68,"Debut game for Cliff Bartosh"
-"CLE200405170",32,"$originally scored as double, changed after game. Then changed back the day after that!"
-"CLE200405270",65,"$Bret Boone called for interference"
-"CLE200405300",33,"$Miller left game with injured elbow"
-"CLE200406100",75,"$Martinez left game with injured foot"
-"CLE200406130",17,"Jimenez left game with injured back"
-"CLE200406130",23,"$Griffey's career homer #499"
-"CLE200406130",38,"ej,lee-c003,P,hollm901,Throwing at Ken Griffey $the first pitch by Cliff Lee whizzed by Ken Griffey's head; Lee was ejected by HP umpire Matt Hollowell"
-"CLE200406130",65,"ej,miled801,M,hollm901,Balls and strikes Reds Manager Dave Miley ejected by HP umpire Matt Hollowell"
-"CLE200406260",6,"$Sabathia left game with injured neck"
-"CLE200406270",21,"$Johnson left game with injured elbow"
-"CLE200407060",40,"$Barajas left with injured hand"
-"CLE200407060",43,"orginally scored as single, changed after game Changed back to single next day"
-"CLE200407210",42,"ej,robej001,P,dimum901,Intentional HBP Jeriome Robertson ejected by HP umpire Mike DiMuro"
-"CLE200407210",68,"Debut game for Grady Sizemore"
-"CLE200407220",58,"ej,lawtm002,P,dimum901,Checked swing Matt Lawton ejected by 3B umpire Mike DiMuro"
-"CLE200407230",51,"$Lawton left game with injured leg"
-"CLE200408230",47,"$fan interference"
-"CLE200408280",68,"Debut game for Jeremy Guthrie"
-"CLE200409040",54,"$Glaus left game with injured neck"
-"CLE200409140",1,"Debut game for Kyle Denney"
-"CLE200409150",2,"$fan interference"
-"CLE200409150",5,"ej,trama001,M,reynj901,Call at 1B ej,munse001,P,reynj901,Call at 1B (from bench; not in game) Tigers Manager Alan Trammell and Eric Munson yelled from dugout about call at 1B; Munson ejected by 1B umpire Jim Reynolds though not in game"
-"CLE200409170",57,"$Gerut left game with injured knee"
-"CLE200409180",20,"Debut game for Donnie Murphy"
-"CLE200409180",60,"originally scored S6, changed 10 days later to FC6"
-"CLE200409230",71,"ej,wedge001,M,timmt901,Call at 1B Indians Manager Eric Wedge ejected by 1B umpire Tim Timmons"
-"CLE200404150",3,"$Mientkiewicz left with sprained right ankle"
-"CLE200404180",64,"$Sanchez left with an injured groin"
-"CLE200404190",0,"65 minute delay during game"
-"CLE200404200",34,"$Escobar left with injured leg"
-"CLE200404300",16,"Debut game for Darnell McDonald"
-"CLE200405150",68,"Debut game for Cliff Bartosh"
-"CLE200405170",32,"$originally scored as double, changed after game. Then changed back the day after that!"
-"CLE200405270",65,"$Bret Boone called for interference"
-"CLE200405300",33,"$Miller left game with injured elbow"
-"CLE200406100",75,"$Martinez left game with injured foot"
-"CLE200406130",17,"Jimenez left game with injured back"
-"CLE200406130",23,"$Griffey's career homer #499"
-"CLE200406130",38,"ej,lee-c003,P,hollm901,Throwing at batter $Pitcher Lee ejected by HP umpire Hollowell for throwing at batter"
-"CLE200406130",65,"ej,miled801,M,hollm901,Balls and strikes Reds Manager Dave Miley ejected by HP umpire Matt Hollowell"
-"CLE200406260",6,"$Sabathia left game with injured neck"
-"CLE200406270",21,"$Johnson left game with injured elbow"
-"CLE200407060",40,"$Barajas left with injured hand"
-"CLE200407060",43,"orginally scored as single, changed after game Changed back to single next day"
-"CLE200407210",42,"ej,robej001,P,dimum901,Intentional HBP Jeriome Robertson ejected by HP umpire Mike DiMuro"
-"CLE200407210",68,"Debut game for Grady Sizemore"
-"CLE200407220",58,"ej,lawtm002,P,dimum901,Checked swing Matt Lawton ejected by 3B umpire Mike DiMuro"
-"CLE200407230",51,"$Lawton left game with injured leg"
-"CLE200408230",47,"$fan interference"
-"CLE200408280",68,"Debut game for Jeremy Guthrie"
-"CLE200409040",54,"$Glaus left game with injured neck"
-"CLE200409140",1,"Debut game for Kyle Denney"
-"CLE200409150",2,"$fan interference"
-"CLE200409150",5,"ej,trama001,M,reynj901,Call at 1B ej,munse001,P,reynj901,Call at 1B (from bench; not in game) $Tigers manager Trammell and player Munson, not in game, ejected by 1B umpire Reynolds for arguing that Belliard was out at 1st"
-"CLE200409170",57,"$Gerut left game with injured knee"
-"CLE200409180",20,"Debut game for Donnie Murphy"
-"CLE200409180",60,"originally scored S6, changed 10 days later to FC6"
-"CLE200409230",71,"ej,wedge001,M,timmt901,Call at 1B Indians Manager Eric Wedge ejected by 1B umpire Tim Timmons"
+"CLE200404150",3,"$Mientkiewicz left with sprained right ankle"FILENAME_TX","LINE_NUMBER_CT"
+
+"CLE200404180",64,"$Sanchez left with an injured groin"2004CLE.EVA.regular.comment.csv",2
+
+"CLE200404190",0,"65 minute delay during game"2004CLE.EVA.regular.comment.csv",3
+
+"CLE200404200",34,"$Escobar left with injured leg"2004CLE.EVA.regular.comment.csv",4
+
+"CLE200404300",16,"Debut game for Darnell McDonald"2004CLE.EVA.regular.comment.csv",5
+
+"CLE200405150",68,"Debut game for Cliff Bartosh"2004CLE.EVA.regular.comment.csv",6
+
+"CLE200405170",32,"$originally scored as double, changed after game. Then changed back the day after that!"2004CLE.EVA.regular.comment.csv",7
+
+"CLE200405270",65,"$Bret Boone called for interference"2004CLE.EVA.regular.comment.csv",8
+
+"CLE200405300",33,"$Miller left game with injured elbow"2004CLE.EVA.regular.comment.csv",9
+
+"CLE200406100",75,"$Martinez left game with injured foot"2004CLE.EVA.regular.comment.csv",10
+
+"CLE200406130",17,"Jimenez left game with injured back"2004CLE.EVA.regular.comment.csv",11
+
+"CLE200406130",23,"$Griffey's career homer #499"2004CLE.EVA.regular.comment.csv",12
+
+"CLE200406130",38,"ej,lee-c003,P,hollm901,Throwing at batter $Pitcher Lee ejected by HP umpire Hollowell for throwing at batter"2004CLE.EVA.regular.comment.csv",13
+
+"CLE200406130",65,"ej,miled801,M,hollm901,Balls and strikes Reds Manager Dave Miley ejected by HP umpire Matt Hollowell"2004CLE.EVA.regular.comment.csv",14
+
+"CLE200406260",6,"$Sabathia left game with injured neck"2004CLE.EVA.regular.comment.csv",15
+
+"CLE200406270",21,"$Johnson left game with injured elbow"2004CLE.EVA.regular.comment.csv",16
+
+"CLE200407060",40,"$Barajas left with injured hand"2004CLE.EVA.regular.comment.csv",17
+
+"CLE200407060",43,"orginally scored as single, changed after game Changed back to single next day"2004CLE.EVA.regular.comment.csv",18
+
+"CLE200407210",42,"ej,robej001,P,dimum901,Intentional HBP Jeriome Robertson ejected by HP umpire Mike DiMuro"2004CLE.EVA.regular.comment.csv",19
+
+"CLE200407210",68,"Debut game for Grady Sizemore"2004CLE.EVA.regular.comment.csv",20
+
+"CLE200407220",58,"ej,lawtm002,P,dimum901,Checked swing Matt Lawton ejected by 3B umpire Mike DiMuro"2004CLE.EVA.regular.comment.csv",21
+
+"CLE200407230",51,"$Lawton left game with injured leg"2004CLE.EVA.regular.comment.csv",22
+
+"CLE200408230",47,"$fan interference"2004CLE.EVA.regular.comment.csv",23
+
+"CLE200408280",68,"Debut game for Jeremy Guthrie"2004CLE.EVA.regular.comment.csv",24
+
+"CLE200409040",54,"$Glaus left game with injured neck"2004CLE.EVA.regular.comment.csv",25
+
+"CLE200409140",1,"Debut game for Kyle Denney"2004CLE.EVA.regular.comment.csv",26
+
+"CLE200409150",2,"$fan interference"2004CLE.EVA.regular.comment.csv",27
+
+"CLE200409150",5,"ej,trama001,M,reynj901,Call at 1B ej,munse001,P,reynj901,Call at 1B (from bench; not in game) $Tigers manager Trammell and player Munson, not in game, ejected by 1B umpire Reynolds for arguing that Belliard was out at 1st"2004CLE.EVA.regular.comment.csv",28
+
+"CLE200409170",57,"$Gerut left game with injured knee"2004CLE.EVA.regular.comment.csv",29
+
+"CLE200409180",20,"Debut game for Donnie Murphy"2004CLE.EVA.regular.comment.csv",30
+
+"CLE200409180",60,"originally scored S6, changed 10 days later to FC6"2004CLE.EVA.regular.comment.csv",31
+
+"CLE200409230",71,"ej,wedge001,M,timmt901,Call at 1B Indians Manager Eric Wedge ejected by 1B umpire Tim Timmons"2004CLE.EVA.regular.comment.csv",32
+

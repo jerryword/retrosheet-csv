@@ -29,3 +29,20 @@ do
   done
 done
 rm team
+
+# Append filename and line number to csv records
+#for file in $outdir/*.csv
+#do
+#  echo "Appending ${file##*/}"
+#  gawk -i inplace '
+#    function basename(file) {
+#      sub(".*/", "", file)
+#      return file
+#    }
+#    {
+#    if (FNR==1) 
+#      { print $0 ",\"" "FILENAME_TX" "\",\"" "LINE_NUMBER_CT" "\"" }
+#      else { print $0 ",\"" basename(FILENAME) "\"," FNR }
+#    }
+#' $file
+#done

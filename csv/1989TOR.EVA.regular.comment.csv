@@ -1,55 +1,54 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"TOR198904160",78,"$Willie Wilson injured on triple"
-"TOR198904170",52,"ej,greed101,M,mckej901,Call at HP $Yankees manager Green ejected by HP umpire McKean for arguing that Kelly was safe at home"
-"TOR198905020",83,"ej,bellg001,P,phild901,Fight ej,willj107,M,phild901,Fight $George Bell charged the mound and both benches cleared; Bell and Blue Jays manager Jimy Williams ejected by HP umpire Dave Phillips; pitcher Gene Nelson was injured in the fight"
-"TOR198905030",65,"Debut game for Junior Felix"
-"TOR198905050",62,"$Devon White called for interference for running into his own bunt"
-"TOR198905150",56,"$Nelson Liriano ran into his own bunt"
-"TOR198905220",31,"$liner off Dave Stieb's foot into RF where Junior Felix kicked it"
-"TOR198905230",1,"Debut game for Alex Sanchez"
-"TOR198906050",7,"$ball bounced off Paul Molitor into foul ground, retrieved for out"
-"TOR198906070",64,"ej,trebt801,M,garcr901,Balk call $Brewers manager Trebelhorn ejected by HP umpire Garcia for arguing balk call"
-"TOR198906180",5,"$Junior Felix missed lunging attempt and ball rolled to the wall"
-"TOR198906180",71,"$Kelly Gruber hit by throw at 3B"
-"TOR198907010",1,"Debut game for Eric Hetzel"
-"TOR198907172",49,"$liner deflected by Kelly Gruber to Tony Fernandez"
-"TOR198907172",69,"ej,raded103,M,mccol901,Balls and strikes Angels manager Doug Rader ejected by HP umpire Larry McCoy"
-"TOR198908040",55,"$Dave Stieb had perfect game with two outs in the ninth"
-"TOR198908080",1,"Debut game for Mauro Gozzo"
-"TOR198908080",43,"$ball deflected off Drew Hall's bare hand to Julio Franco"
-"TOR198908080",70,"$Rick Leach overslid 3B"
-"TOR198908290",9,"$George Bell lost ball in lights"
-"TOR198909010",68,"Debut game for Lenny Webster"
-"TOR198909030",70,"Debut game for John Olerud"
-"TOR198909150",68,"$three pitch inning"
-"TOR198909160",35,"$Dion James fell down rounding 2B"
-"TOR198909180",56,"$Rick Cerone called for interference; he ran into Ernie Whitt who was trying to catch popup"
-"TOR198909290",82,"$ball hit Duane Ward's hand forcing him to leave game"
-"TOR198910010",41,"$Brady Anderson singled but Juan Bell missed 2B and was called out on appeal"
-"TOR198904160",78,"$Willie Wilson injured on triple"
-"TOR198904170",52,"ej,greed101,M,mckej901,Call at HP $Yankees manager Green ejected by HP umpire McKean for arguing that Kelly was safe at home"
-"TOR198905020",83,"ej,bellg001,P,phild901,Fight ej,willj107,M,phild901,Fight $George Bell charged the mound and both benches cleared; Bell and Blue Jays manager Jimy Williams ejected by HP umpire Dave Phillips; pitcher Gene Nelson was injured in the fight"
-"TOR198905030",65,"Debut game for Junior Felix"
-"TOR198905050",62,"$Devon White called for interference for running into his own bunt"
-"TOR198905150",56,"$Nelson Liriano ran into his own bunt"
-"TOR198905220",31,"$liner off Dave Stieb's foot into RF where Junior Felix kicked it"
-"TOR198905230",1,"Debut game for Alex Sanchez"
-"TOR198906050",7,"$ball bounced off Paul Molitor into foul ground, retrieved for out"
-"TOR198906070",64,"ej,trebt801,M,garcr901,Balk call $Brewers manager Trebelhorn ejected by HP umpire Garcia for arguing balk call"
-"TOR198906180",5,"$Junior Felix missed lunging attempt and ball rolled to the wall"
-"TOR198906180",71,"$Kelly Gruber hit by throw at 3B"
-"TOR198907010",1,"Debut game for Eric Hetzel"
-"TOR198907172",49,"$liner deflected by Kelly Gruber to Tony Fernandez"
-"TOR198907172",69,"ej,raded103,M,mccol901,Balls and strikes Angels manager Doug Rader ejected by HP umpire Larry McCoy"
-"TOR198908040",55,"$Dave Stieb had perfect game with two outs in the ninth"
-"TOR198908080",1,"Debut game for Mauro Gozzo"
-"TOR198908080",43,"$ball deflected off Drew Hall's bare hand to Julio Franco"
-"TOR198908080",70,"$Rick Leach overslid 3B"
-"TOR198908290",9,"$George Bell lost ball in lights"
-"TOR198909010",68,"Debut game for Lenny Webster"
-"TOR198909030",70,"Debut game for John Olerud"
-"TOR198909150",68,"$three pitch inning"
-"TOR198909160",35,"$Dion James fell down rounding 2B"
-"TOR198909180",56,"$Rick Cerone called for interference; he ran into Ernie Whitt who was trying to catch popup"
-"TOR198909290",82,"$ball hit Duane Ward's hand forcing him to leave game"
-"TOR198910010",41,"$Brady Anderson singled but Juan Bell missed 2B and was called out on appeal"
+"TOR198904160",78,"$Willie Wilson injured on triple"FILENAME_TX","LINE_NUMBER_CT"
+
+"TOR198904170",52,"ej,greed101,M,mckej901,Call at HP $Yankees manager Green ejected by HP umpire McKean for arguing that Kelly was safe at home"1989TOR.EVA.regular.comment.csv",2
+
+"TOR198905020",83,"ej,bellg001,P,phild901,Fight ej,willj107,M,phild901,Fight $George Bell charged the mound and both benches cleared; Bell and Blue Jays manager Jimy Williams ejected by HP umpire Dave Phillips; pitcher Gene Nelson was injured in the fight"1989TOR.EVA.regular.comment.csv",3
+
+"TOR198905030",65,"Debut game for Junior Felix"1989TOR.EVA.regular.comment.csv",4
+
+"TOR198905050",62,"$Devon White called for interference for running into his own bunt"1989TOR.EVA.regular.comment.csv",5
+
+"TOR198905150",56,"$Nelson Liriano ran into his own bunt"1989TOR.EVA.regular.comment.csv",6
+
+"TOR198905220",31,"$liner off Dave Stieb's foot into RF where Junior Felix kicked it"1989TOR.EVA.regular.comment.csv",7
+
+"TOR198905230",1,"Debut game for Alex Sanchez"1989TOR.EVA.regular.comment.csv",8
+
+"TOR198906050",7,"$ball bounced off Paul Molitor into foul ground, retrieved for out"1989TOR.EVA.regular.comment.csv",9
+
+"TOR198906070",64,"ej,trebt801,M,garcr901,Balk call $Brewers manager Trebelhorn ejected by HP umpire Garcia for arguing balk call"1989TOR.EVA.regular.comment.csv",10
+
+"TOR198906180",5,"$Junior Felix missed lunging attempt and ball rolled to the wall"1989TOR.EVA.regular.comment.csv",11
+
+"TOR198906180",71,"$Kelly Gruber hit by throw at 3B"1989TOR.EVA.regular.comment.csv",12
+
+"TOR198907010",1,"Debut game for Eric Hetzel"1989TOR.EVA.regular.comment.csv",13
+
+"TOR198907172",49,"$liner deflected by Kelly Gruber to Tony Fernandez"1989TOR.EVA.regular.comment.csv",14
+
+"TOR198907172",69,"ej,raded103,M,mccol901,Balls and strikes Angels manager Doug Rader ejected by HP umpire Larry McCoy"1989TOR.EVA.regular.comment.csv",15
+
+"TOR198908040",55,"$Dave Stieb had perfect game with two outs in the ninth"1989TOR.EVA.regular.comment.csv",16
+
+"TOR198908080",1,"Debut game for Mauro Gozzo"1989TOR.EVA.regular.comment.csv",17
+
+"TOR198908080",43,"$ball deflected off Drew Hall's bare hand to Julio Franco"1989TOR.EVA.regular.comment.csv",18
+
+"TOR198908080",70,"$Rick Leach overslid 3B"1989TOR.EVA.regular.comment.csv",19
+
+"TOR198908290",9,"$George Bell lost ball in lights"1989TOR.EVA.regular.comment.csv",20
+
+"TOR198909010",68,"Debut game for Lenny Webster"1989TOR.EVA.regular.comment.csv",21
+
+"TOR198909030",70,"Debut game for John Olerud"1989TOR.EVA.regular.comment.csv",22
+
+"TOR198909150",68,"$three pitch inning"1989TOR.EVA.regular.comment.csv",23
+
+"TOR198909160",35,"$Dion James fell down rounding 2B"1989TOR.EVA.regular.comment.csv",24
+
+"TOR198909180",56,"$Rick Cerone called for interference; he ran into Ernie Whitt who was trying to catch popup"1989TOR.EVA.regular.comment.csv",25
+
+"TOR198909290",82,"$ball hit Duane Ward's hand forcing him to leave game"1989TOR.EVA.regular.comment.csv",26
+
+"TOR198910010",41,"$Brady Anderson singled but Juan Bell missed 2B and was called out on appeal"1989TOR.EVA.regular.comment.csv",27
+

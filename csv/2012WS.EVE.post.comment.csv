@@ -1,13 +1,12 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"SFN201210240",28,"$Delmon Young's bouncer in front of the plate was grabbed by Buster Posey; Young stood in the batter's box and was tagged by Posey"
-"SFN201210240",39,"$Pablo Sandoval becomes the fourth player to hit three homers in one World Series game"
-"SFN201210250",8,"$Prince Fielder and the ball arrived at the same time; catcher Buster Posey stood in front of the plate, caught the ball and applied a sweep tag on Fielder; Fielder's lead foot was in the air and did not touch the plate; Posey tagged Fielder before his back leg touched the plate; the Tigers were upset at the call"
-"SFN201210250",14,"$Gregor Blanco's line drive struck Doug Fister on the top right part of his head and caromed into CF"
-"SFN201210250",49,"$Gregor Blanco's bunt rolled down the 3B line; three Tigers walked with it hoping it would roll foul; it stopped between the line and the edge of the grass; HP umpire Dan Iassogna ruled it a fair ball and Drew Smyly picked it up"
-"DET201210280",69,"Tigers second baseman Omar Infante left the game due to a non-displaced fracture of the fifth metatarsal in his left hand"
-"SFN201210240",28,"$Delmon Young's bouncer in front of the plate was grabbed by Buster Posey; Young stood in the batter's box and was tagged by Posey"
-"SFN201210240",39,"$Pablo Sandoval becomes the fourth player to hit three homers in one World Series game"
-"SFN201210250",8,"$Prince Fielder and the ball arrived at the same time; catcher Buster Posey stood in front of the plate, caught the ball and applied a sweep tag on Fielder; Fielder's lead foot was in the air and did not touch the plate; Posey tagged Fielder before his back leg touched the plate; the Tigers were upset at the call"
-"SFN201210250",14,"$Gregor Blanco's line drive struck Doug Fister on the top right part of his head and caromed into CF"
-"SFN201210250",49,"$Gregor Blanco's bunt rolled down the 3B line; three Tigers walked with it hoping it would roll foul; it stopped between the line and the edge of the grass; HP umpire Dan Iassogna ruled it a fair ball and Drew Smyly picked it up"
-"DET201210280",69,"Tigers second baseman Omar Infante left the game due to a non-displaced fracture of the fifth metatarsal in his left hand"
+"SFN201210240",28,"$Delmon Young's bouncer in front of the plate was grabbed by Buster Posey; Young stood in the batter's box and was tagged by Posey"FILENAME_TX","LINE_NUMBER_CT"
+
+"SFN201210240",39,"$Pablo Sandoval becomes the fourth player to hit three homers in one World Series game"2012WS.EVE.post.comment.csv",2
+
+"SFN201210250",8,"$Prince Fielder and the ball arrived at the same time; catcher Buster Posey stood in front of the plate, caught the ball and applied a sweep tag on Fielder; Fielder's lead foot was in the air and did not touch the plate; Posey tagged Fielder before his back leg touched the plate; the Tigers were upset at the call"2012WS.EVE.post.comment.csv",3
+
+"SFN201210250",14,"$Gregor Blanco's line drive struck Doug Fister on the top right part of his head and caromed into CF"2012WS.EVE.post.comment.csv",4
+
+"SFN201210250",49,"$Gregor Blanco's bunt rolled down the 3B line; three Tigers walked with it hoping it would roll foul; it stopped between the line and the edge of the grass; HP umpire Dan Iassogna ruled it a fair ball and Drew Smyly picked it up"2012WS.EVE.post.comment.csv",5
+
+"DET201210280",69,"Tigers second baseman Omar Infante left the game due to a non-displaced fracture of the fifth metatarsal in his left hand"2012WS.EVE.post.comment.csv",6
+

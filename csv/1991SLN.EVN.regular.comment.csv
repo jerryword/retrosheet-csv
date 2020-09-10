@@ -1,39 +1,38 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"SLN199104230",0,"$umpire Paul Runge out with bad back"
-"SLN199104240",0,"Debut for umpire Brian Gorman"
-"SLN199105130",67,"ej,morrh001,P,hirsm901,Called third strike (Threw helmet) Hal Morris ejected by HP umpire Mark Hirschbeck; he threw his helmet after being called out on strikes"
-"SLN199105140",13,"Debut game for Freddie Benavides"
-"SLN199105280",88,"$the ball hit the 3B bag"
-"SLN199106010",65,"Felix Jose left with pulled leg muscle"
-"SLN199106020",14,"$the ball deflected off pitcher Ron Darling to Gergg Jefferies who tagged Pedro Guerrero"
-"SLN199106040",0,"Debut for umpire Phil Cuzzi"
-"SLN199106040",50,"Orel Hershiser left with tight hamstring from running out double"
-"SLN199106040",54,"$Brett Butler called for interference"
-"SLN199106080",10,"umpchange,2,ump2b,(None) $2B umpire Mark Hirschbeck left with unknown illness"
-"SLN199106210",36,"Rex Hudler left with strained groin"
-"SLN199107220",1,"Debut game for Ryan Bowen"
-"SLN199108030",64,"$Barry Bonds called for interference"
-"SLN199108150",1,"Debut game for Rheal Cormier"
-"SLN199108260",14,"ej,crair101,M,davib902,Balk call Giants manager Roger Craig ejected by 2B umpire Bob Davidson"
-"SLN199109110",48,"Debut game for Stan Royer"
-"SLN199109130",10,"$Rex Hudler made a diving catch and crashed into the wall"
-"SLN199109150",44,"ej,elstk001,P,wendh901,Balls and strikes Kevin Elster ejected by HP umpire Harry Wendelstedt after third pitch was called a strike"
-"SLN199104230",0,"$umpire Paul Runge out with bad back"
-"SLN199104240",0,"Debut for umpire Brian Gorman"
-"SLN199105130",67,"ej,morrh001,P,hirsm901,Called third strike (Threw helmet) Hal Morris ejected by HP umpire Mark Hirschbeck; he threw his helmet after being called out on strikes"
-"SLN199105140",13,"Debut game for Freddie Benavides"
-"SLN199105280",88,"$the ball hit the 3B bag"
-"SLN199106010",65,"Felix Jose left with pulled leg muscle"
-"SLN199106020",14,"$the ball deflected off pitcher Ron Darling to Gergg Jefferies who tagged Pedro Guerrero"
-"SLN199106040",0,"Debut for umpire Phil Cuzzi"
-"SLN199106040",50,"Orel Hershiser left with tight hamstring from running out double"
-"SLN199106040",54,"$Brett Butler called for interference"
-"SLN199106080",10,"umpchange,2,ump2b,(None) $2B umpire Mark Hirschbeck left with unknown illness"
-"SLN199106210",36,"Rex Hudler left with strained groin"
-"SLN199107220",1,"Debut game for Ryan Bowen"
-"SLN199108030",64,"$Barry Bonds called for interference"
-"SLN199108150",1,"Debut game for Rheal Cormier"
-"SLN199108260",14,"ej,crair101,M,davib902,Balk call Giants manager Roger Craig ejected by 2B umpire Bob Davidson"
-"SLN199109110",48,"Debut game for Stan Royer"
-"SLN199109130",10,"$Rex Hudler made a diving catch and crashed into the wall"
-"SLN199109150",44,"ej,elstk001,P,wendh901,Balls and strikes Kevin Elster ejected by HP umpire Harry Wendelstedt after third pitch was called a strike"
+"SLN199104230",0,"$umpire Paul Runge out with bad back"FILENAME_TX","LINE_NUMBER_CT"
+
+"SLN199104240",0,"Debut for umpire Brian Gorman"1991SLN.EVN.regular.comment.csv",2
+
+"SLN199105130",67,"ej,morrh001,P,hirsm901,Called third strike (Threw helmet) Hal Morris ejected by HP umpire Mark Hirschbeck; he threw his helmet after being called out on strikes"1991SLN.EVN.regular.comment.csv",3
+
+"SLN199105140",13,"Debut game for Freddie Benavides"1991SLN.EVN.regular.comment.csv",4
+
+"SLN199105280",88,"$the ball hit the 3B bag"1991SLN.EVN.regular.comment.csv",5
+
+"SLN199106010",65,"Felix Jose left with pulled leg muscle"1991SLN.EVN.regular.comment.csv",6
+
+"SLN199106020",14,"$the ball deflected off pitcher Ron Darling to Gergg Jefferies who tagged Pedro Guerrero"1991SLN.EVN.regular.comment.csv",7
+
+"SLN199106040",0,"Debut for umpire Phil Cuzzi"1991SLN.EVN.regular.comment.csv",8
+
+"SLN199106040",50,"Orel Hershiser left with tight hamstring from running out double"1991SLN.EVN.regular.comment.csv",9
+
+"SLN199106040",54,"$Brett Butler called for interference"1991SLN.EVN.regular.comment.csv",10
+
+"SLN199106080",10,"umpchange,2,ump2b,(None) $2B umpire Mark Hirschbeck left with unknown illness"1991SLN.EVN.regular.comment.csv",11
+
+"SLN199106210",36,"Rex Hudler left with strained groin"1991SLN.EVN.regular.comment.csv",12
+
+"SLN199107220",1,"Debut game for Ryan Bowen"1991SLN.EVN.regular.comment.csv",13
+
+"SLN199108030",64,"$Barry Bonds called for interference"1991SLN.EVN.regular.comment.csv",14
+
+"SLN199108150",1,"Debut game for Rheal Cormier"1991SLN.EVN.regular.comment.csv",15
+
+"SLN199108260",14,"ej,crair101,M,davib902,Balk call Giants manager Roger Craig ejected by 2B umpire Bob Davidson"1991SLN.EVN.regular.comment.csv",16
+
+"SLN199109110",48,"Debut game for Stan Royer"1991SLN.EVN.regular.comment.csv",17
+
+"SLN199109130",10,"$Rex Hudler made a diving catch and crashed into the wall"1991SLN.EVN.regular.comment.csv",18
+
+"SLN199109150",44,"ej,elstk001,P,wendh901,Balls and strikes Kevin Elster ejected by HP umpire Harry Wendelstedt after third pitch was called a strike"1991SLN.EVN.regular.comment.csv",19
+

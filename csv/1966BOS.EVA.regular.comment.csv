@@ -1,87 +1,86 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"BOS196604120",0,"Debut for umpire Marty Springstead"
-"BOS196604120",15,"Debut game for George Scott"
-"BOS196604120",77,"Debut game for Guido Grilli"
-"BOS196604120",111,"Debut game for Eddie Watt"
-"BOS196604130",17,"Debut game for Joe Foy"
-"BOS196604130",60,"Debut game for Pete Magrini"
-"BOS196604192",60,"Debut game for Bucky Brandon"
-"BOS196605210",13,"missing play in BOS196605210"
-"BOS196605220",30,"ej,scotg102,P,hallb901,Called strike 3 $Scott ejected by HP umpire Haller for arguing strike 3"
-"BOS196605220",66,"missing play in BOS196605220"
-"BOS196606011",1,"Debut game for Dick Bosman"
-"BOS196606040",49,"$Tom Tresh spiked on play at 3B"
-"BOS196606150",7,"53 minute rain delay"
-"BOS196606180",5,"$struck light tower in CF"
-"BOS196606180",91,"$the ball struck Jim Palmer's ankle"
-"BOS196606192",58,"$Jose Santiago struck forearm"
-"BOS196606192",62,"$Jose Santiago left with injured forearm"
-"BOS196606210",28,"Missing play in BOS196606210"
-"BOS196606261",75,"Missing play in BOS196606261"
-"BOS196606280",32,"$the throw hit Don Demeter at HP"
-"BOS196606290",54,"32 minute rain delay"
-"BOS196607260",88,"missing fielding in BOS196607260"
-"BOS196607270",63,"missing fielding BOS196607270"
-"BOS196608080",58,"missing play in BOS196608080"
-"BOS196608110",76,"missing play in BOS196608110"
-"BOS196608120",4,"missing play in BOS196608120"
-"BOS196608160",66,"430 ft"
-"BOS196608170",50,"$Russ Snyder went to 2B but Luis Aparicio was already there"
-"BOS196608241",31,"missing play in BOS196608241"
-"BOS196608241",75,"Missing play in BOS196608241"
-"BOS196608242",52,"missing play in BOS196608242"
-"BOS196608251",42,"missing play in BOS196608251"
-"BOS196608252",39,"missing play in BOS196608252"
-"BOS196608252",55,"missing play in BOS196608252"
-"BOS196608252",74,"missing play in BOS196608252"
-"BOS196609090",12,"400 feet"
-"BOS196609090",61,"Debut game for Stan Bahnsen"
-"BOS196609110",12,"Debut game for John Miller"
-"BOS196609110",22,"Mike Hegan left with strained left ankle"
-"BOS196609110",55,"$Joe Foy lost the ball in the air and George Scott caught it"
-"BOS196609150",43,"missing play in BOS196609150"
-"BOS196609180",8,"Debut game for Reggie Smith"
-"BOS196609180",16,"Debut game for Mike Andrews"
-"BOS196604120",0,"Debut for umpire Marty Springstead"
-"BOS196604120",15,"Debut game for George Scott"
-"BOS196604120",77,"Debut game for Guido Grilli"
-"BOS196604120",111,"Debut game for Eddie Watt"
-"BOS196604130",17,"Debut game for Joe Foy"
-"BOS196604130",60,"Debut game for Pete Magrini"
-"BOS196604192",60,"Debut game for Bucky Brandon"
-"BOS196605210",13,"missing play in BOS196605210"
-"BOS196605220",30,"ej,scotg102,P,hallb901,Called strike 3 $Scott ejected by HP umpire Haller for arguing strike 3"
-"BOS196605220",66,"missing play in BOS196605220"
-"BOS196606011",1,"Debut game for Dick Bosman"
-"BOS196606040",49,"$Tom Tresh spiked on play at 3B"
-"BOS196606150",7,"53 minute rain delay"
-"BOS196606180",5,"$struck light tower in CF"
-"BOS196606180",91,"$the ball struck Jim Palmer's ankle"
-"BOS196606192",58,"$Jose Santiago struck forearm"
-"BOS196606192",62,"$Jose Santiago left with injured forearm"
-"BOS196606210",28,"Missing play in BOS196606210"
-"BOS196606261",75,"Missing play in BOS196606261"
-"BOS196606280",32,"$the throw hit Don Demeter at HP"
-"BOS196606290",54,"32 minute rain delay"
-"BOS196607260",88,"missing fielding in BOS196607260"
-"BOS196607270",63,"missing fielding BOS196607270"
-"BOS196608080",58,"missing play in BOS196608080"
-"BOS196608110",76,"missing play in BOS196608110"
-"BOS196608120",4,"missing play in BOS196608120"
-"BOS196608160",66,"430 ft"
-"BOS196608170",50,"$Russ Snyder went to 2B but Luis Aparicio was already there"
-"BOS196608241",31,"missing play in BOS196608241"
-"BOS196608241",75,"Missing play in BOS196608241"
-"BOS196608242",52,"missing play in BOS196608242"
-"BOS196608251",42,"missing play in BOS196608251"
-"BOS196608252",39,"missing play in BOS196608252"
-"BOS196608252",55,"missing play in BOS196608252"
-"BOS196608252",74,"missing play in BOS196608252"
-"BOS196609090",12,"400 feet"
-"BOS196609090",61,"Debut game for Stan Bahnsen"
-"BOS196609110",12,"Debut game for John Miller"
-"BOS196609110",22,"Mike Hegan left with strained left ankle"
-"BOS196609110",55,"$Joe Foy lost the ball in the air and George Scott caught it"
-"BOS196609150",43,"missing play in BOS196609150"
-"BOS196609180",8,"Debut game for Reggie Smith"
-"BOS196609180",16,"Debut game for Mike Andrews"
+"BOS196604120",0,"Debut for umpire Marty Springstead"FILENAME_TX","LINE_NUMBER_CT"
+
+"BOS196604120",15,"Debut game for George Scott"1966BOS.EVA.regular.comment.csv",2
+
+"BOS196604120",77,"Debut game for Guido Grilli"1966BOS.EVA.regular.comment.csv",3
+
+"BOS196604120",111,"Debut game for Eddie Watt"1966BOS.EVA.regular.comment.csv",4
+
+"BOS196604130",17,"Debut game for Joe Foy"1966BOS.EVA.regular.comment.csv",5
+
+"BOS196604130",60,"Debut game for Pete Magrini"1966BOS.EVA.regular.comment.csv",6
+
+"BOS196604192",60,"Debut game for Bucky Brandon"1966BOS.EVA.regular.comment.csv",7
+
+"BOS196605210",13,"missing play in BOS196605210"1966BOS.EVA.regular.comment.csv",8
+
+"BOS196605220",30,"ej,scotg102,P,hallb901,Called strike 3 $Scott ejected by HP umpire Haller for arguing strike 3"1966BOS.EVA.regular.comment.csv",9
+
+"BOS196605220",66,"missing play in BOS196605220"1966BOS.EVA.regular.comment.csv",10
+
+"BOS196606011",1,"Debut game for Dick Bosman"1966BOS.EVA.regular.comment.csv",11
+
+"BOS196606040",49,"$Tom Tresh spiked on play at 3B"1966BOS.EVA.regular.comment.csv",12
+
+"BOS196606150",7,"53 minute rain delay"1966BOS.EVA.regular.comment.csv",13
+
+"BOS196606180",5,"$struck light tower in CF"1966BOS.EVA.regular.comment.csv",14
+
+"BOS196606180",91,"$the ball struck Jim Palmer's ankle"1966BOS.EVA.regular.comment.csv",15
+
+"BOS196606192",58,"$Jose Santiago struck forearm"1966BOS.EVA.regular.comment.csv",16
+
+"BOS196606192",62,"$Jose Santiago left with injured forearm"1966BOS.EVA.regular.comment.csv",17
+
+"BOS196606210",28,"Missing play in BOS196606210"1966BOS.EVA.regular.comment.csv",18
+
+"BOS196606261",75,"Missing play in BOS196606261"1966BOS.EVA.regular.comment.csv",19
+
+"BOS196606280",32,"$the throw hit Don Demeter at HP"1966BOS.EVA.regular.comment.csv",20
+
+"BOS196606290",54,"32 minute rain delay"1966BOS.EVA.regular.comment.csv",21
+
+"BOS196607260",88,"missing fielding in BOS196607260"1966BOS.EVA.regular.comment.csv",22
+
+"BOS196607270",63,"missing fielding BOS196607270"1966BOS.EVA.regular.comment.csv",23
+
+"BOS196608080",58,"missing play in BOS196608080"1966BOS.EVA.regular.comment.csv",24
+
+"BOS196608110",76,"missing play in BOS196608110"1966BOS.EVA.regular.comment.csv",25
+
+"BOS196608120",4,"missing play in BOS196608120"1966BOS.EVA.regular.comment.csv",26
+
+"BOS196608160",66,"430 ft"1966BOS.EVA.regular.comment.csv",27
+
+"BOS196608170",50,"$Russ Snyder went to 2B but Luis Aparicio was already there"1966BOS.EVA.regular.comment.csv",28
+
+"BOS196608241",31,"missing play in BOS196608241"1966BOS.EVA.regular.comment.csv",29
+
+"BOS196608241",75,"Missing play in BOS196608241"1966BOS.EVA.regular.comment.csv",30
+
+"BOS196608242",52,"missing play in BOS196608242"1966BOS.EVA.regular.comment.csv",31
+
+"BOS196608251",42,"missing play in BOS196608251"1966BOS.EVA.regular.comment.csv",32
+
+"BOS196608252",39,"missing play in BOS196608252"1966BOS.EVA.regular.comment.csv",33
+
+"BOS196608252",55,"missing play in BOS196608252"1966BOS.EVA.regular.comment.csv",34
+
+"BOS196608252",74,"missing play in BOS196608252"1966BOS.EVA.regular.comment.csv",35
+
+"BOS196609090",12,"400 feet"1966BOS.EVA.regular.comment.csv",36
+
+"BOS196609090",61,"Debut game for Stan Bahnsen"1966BOS.EVA.regular.comment.csv",37
+
+"BOS196609110",12,"Debut game for John Miller"1966BOS.EVA.regular.comment.csv",38
+
+"BOS196609110",22,"Mike Hegan left with strained left ankle"1966BOS.EVA.regular.comment.csv",39
+
+"BOS196609110",55,"$Joe Foy lost the ball in the air and George Scott caught it"1966BOS.EVA.regular.comment.csv",40
+
+"BOS196609150",43,"missing play in BOS196609150"1966BOS.EVA.regular.comment.csv",41
+
+"BOS196609180",8,"Debut game for Reggie Smith"1966BOS.EVA.regular.comment.csv",42
+
+"BOS196609180",16,"Debut game for Mike Andrews"1966BOS.EVA.regular.comment.csv",43
+

@@ -1,27 +1,26 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"SDN199704010",72,"Debut game for Steve Bieser"
-"SDN199704030",48,"Debut game for Will Cunnane"
-"SDN199704200",30,"IPHR"
-"SDN199705030",13,"ej,strad002,P,davib902,Called third strike Doug Strange ejected by HP umpire Bob Davidson"
-"SDN199705080",50,"ej,bochb002,M,ripps901,Balls and strikes ej,vaugg001,P,ripps901,Balls and strikes Greg Vaughn and Padres manager Bruce Bochy ejected by HP umpire Steve Rippley"
-"SDN199705240",27,"Debut game for Heath Murray"
-"SDN199705270",41,"IPHR"
-"SDN199706080",47,"Debut game for Todd Erdos"
-"SDN199706200",44,"Debut game for Jorge Velandia"
-"SDN199707150",64,"Debut game for Mandy Romero"
-"SDN199708170",56,"ej,camik001,P,bonig901,Balls and strikes Ken Caminiti ejected by HP umpire Greg Bonin"
-"SDN199709090",86,"ej,aloum001,P,quicj901,Called third strike Moises Alou ejected by HP umpire Jim Quick"
-"SDN199709210",26,"IPHR"
-"SDN199704010",72,"Debut game for Steve Bieser"
-"SDN199704030",48,"Debut game for Will Cunnane"
-"SDN199704200",30,"IPHR"
-"SDN199705030",13,"ej,strad002,P,davib902,Called third strike Doug Strange ejected by HP umpire Bob Davidson"
-"SDN199705080",50,"ej,bochb002,M,ripps901,Balls and strikes ej,vaugg001,P,ripps901,Balls and strikes Greg Vaughn and Padres manager Bruce Bochy ejected by HP umpire Steve Rippley"
-"SDN199705240",27,"Debut game for Heath Murray"
-"SDN199705270",41,"IPHR"
-"SDN199706080",47,"Debut game for Todd Erdos"
-"SDN199706200",44,"Debut game for Jorge Velandia"
-"SDN199707150",64,"Debut game for Mandy Romero"
-"SDN199708170",56,"ej,camik001,P,bonig901,Balls and strikes Ken Caminiti ejected by HP umpire Greg Bonin"
-"SDN199709090",86,"ej,aloum001,P,quicj901,Called third strike Moises Alou ejected by HP umpire Jim Quick"
-"SDN199709210",26,"IPHR"
+"SDN199704010",72,"Debut game for Steve Bieser"FILENAME_TX","LINE_NUMBER_CT"
+
+"SDN199704030",48,"Debut game for Will Cunnane"1997SDN.EVN.regular.comment.csv",2
+
+"SDN199704200",30,"IPHR"1997SDN.EVN.regular.comment.csv",3
+
+"SDN199705030",13,"ej,strad002,P,davib902,Called third strike Doug Strange ejected by HP umpire Bob Davidson"1997SDN.EVN.regular.comment.csv",4
+
+"SDN199705080",50,"ej,bochb002,M,ripps901,Balls and strikes ej,vaugg001,P,ripps901,Balls and strikes Greg Vaughn and Padres manager Bruce Bochy ejected by HP umpire Steve Rippley"1997SDN.EVN.regular.comment.csv",5
+
+"SDN199705240",27,"Debut game for Heath Murray"1997SDN.EVN.regular.comment.csv",6
+
+"SDN199705270",41,"IPHR"1997SDN.EVN.regular.comment.csv",7
+
+"SDN199706080",47,"Debut game for Todd Erdos"1997SDN.EVN.regular.comment.csv",8
+
+"SDN199706200",44,"Debut game for Jorge Velandia"1997SDN.EVN.regular.comment.csv",9
+
+"SDN199707150",64,"Debut game for Mandy Romero"1997SDN.EVN.regular.comment.csv",10
+
+"SDN199708170",56,"ej,camik001,P,bonig901,Balls and strikes Ken Caminiti ejected by HP umpire Greg Bonin"1997SDN.EVN.regular.comment.csv",11
+
+"SDN199709090",86,"ej,aloum001,P,quicj901,Called third strike Moises Alou ejected by HP umpire Jim Quick"1997SDN.EVN.regular.comment.csv",12
+
+"SDN199709210",26,"IPHR"1997SDN.EVN.regular.comment.csv",13
+

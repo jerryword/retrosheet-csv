@@ -1,35 +1,34 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"SLN199204060",7,"Jose Oquendo injured diving for Howard Johnson's hit"
-"SLN199204080",12,"Debut game for Brian Jordan"
-"SLN199204080",30,"Bryb Smith leaves with stiffness in right elbow"
-"SLN199204090",1,"Debut game for Donovan Osborne"
-"SLN199204090",4,"Vince Coleman suffered a slight hamstring strain"
-"SLN199204090",10,"UNSURE PITCH SEQUENCE"
-"SLN199204090",13,"Donovan Osborne left with twisted left ankle"
-"SLN199204250",120,"ej,runnt001,M,rungp901,Called third strike Expos manager Tom Runnells ejected by HP umpire Paul Runge"
-"SLN199206130",61,"ej,dauld001,P,hallt901,Called third strike ej,fregj101,M,hallt901,Called third strike Darren Daulton and Phillies manager Jim Fregosi ejected by HP umpire Tom Hallion"
-"SLN199207240",67,"ej,morrh001,P,poncl901,Called third strike Hal Morris ejected by HP umpire Larry Poncino"
-"SLN199207290",38,"$ball lost in Expos bullpen for double"
-"SLN199207290",59,"Bernard Gilkey pulled a homer back"
-"SLN199208300",67,"ej,gottj001,P,quicj901,Balls and strikes Jim Gott ejected by HP umpire Jim Quick"
-"SLN199209040",1,"Debut game for Kevin Rogers"
-"SLN199209060",1,"Debut game for Larry Carter"
-"SLN199209120",72,"Debut game for Jeff Hartsock"
-"SLN199209140",32,"ej,torrj101,M,westj901,Call at 3B Cardinals manager Joe Torre ejected by HP umpire Joe West"
-"SLN199204060",7,"Jose Oquendo injured diving for Howard Johnson's hit"
-"SLN199204080",12,"Debut game for Brian Jordan"
-"SLN199204080",30,"Bryb Smith leaves with stiffness in right elbow"
-"SLN199204090",1,"Debut game for Donovan Osborne"
-"SLN199204090",4,"Vince Coleman suffered a slight hamstring strain"
-"SLN199204090",10,"UNSURE PITCH SEQUENCE"
-"SLN199204090",13,"Donovan Osborne left with twisted left ankle"
-"SLN199204250",120,"ej,runnt001,M,rungp901,Called third strike Expos manager Tom Runnells ejected by HP umpire Paul Runge"
-"SLN199206130",61,"ej,dauld001,P,hallt901,Called third strike ej,fregj101,M,hallt901,Called third strike Darren Daulton and Phillies manager Jim Fregosi ejected by HP umpire Tom Hallion"
-"SLN199207240",67,"ej,morrh001,P,poncl901,Called third strike Hal Morris ejected by HP umpire Larry Poncino"
-"SLN199207290",38,"$ball lost in Expos bullpen for double"
-"SLN199207290",59,"Bernard Gilkey pulled a homer back"
-"SLN199208300",67,"ej,gottj001,P,quicj901,Balls and strikes Jim Gott ejected by HP umpire Jim Quick"
-"SLN199209040",1,"Debut game for Kevin Rogers"
-"SLN199209060",1,"Debut game for Larry Carter"
-"SLN199209120",72,"Debut game for Jeff Hartsock"
-"SLN199209140",32,"ej,torrj101,M,westj901,Call at 3B Cardinals manager Joe Torre ejected by HP umpire Joe West"
+"SLN199204060",7,"Jose Oquendo injured diving for Howard Johnson's hit"FILENAME_TX","LINE_NUMBER_CT"
+
+"SLN199204080",12,"Debut game for Brian Jordan"1992SLN.EVN.regular.comment.csv",2
+
+"SLN199204080",30,"Bryb Smith leaves with stiffness in right elbow"1992SLN.EVN.regular.comment.csv",3
+
+"SLN199204090",1,"Debut game for Donovan Osborne"1992SLN.EVN.regular.comment.csv",4
+
+"SLN199204090",4,"Vince Coleman suffered a slight hamstring strain"1992SLN.EVN.regular.comment.csv",5
+
+"SLN199204090",10,"UNSURE PITCH SEQUENCE"1992SLN.EVN.regular.comment.csv",6
+
+"SLN199204090",13,"Donovan Osborne left with twisted left ankle"1992SLN.EVN.regular.comment.csv",7
+
+"SLN199204250",120,"ej,runnt001,M,rungp901,Called third strike Expos manager Tom Runnells ejected by HP umpire Paul Runge"1992SLN.EVN.regular.comment.csv",8
+
+"SLN199206130",61,"ej,dauld001,P,hallt901,Called third strike ej,fregj101,M,hallt901,Called third strike Darren Daulton and Phillies manager Jim Fregosi ejected by HP umpire Tom Hallion"1992SLN.EVN.regular.comment.csv",9
+
+"SLN199207240",67,"ej,morrh001,P,poncl901,Called third strike Hal Morris ejected by HP umpire Larry Poncino"1992SLN.EVN.regular.comment.csv",10
+
+"SLN199207290",38,"$ball lost in Expos bullpen for double"1992SLN.EVN.regular.comment.csv",11
+
+"SLN199207290",59,"Bernard Gilkey pulled a homer back"1992SLN.EVN.regular.comment.csv",12
+
+"SLN199208300",67,"ej,gottj001,P,quicj901,Balls and strikes Jim Gott ejected by HP umpire Jim Quick"1992SLN.EVN.regular.comment.csv",13
+
+"SLN199209040",1,"Debut game for Kevin Rogers"1992SLN.EVN.regular.comment.csv",14
+
+"SLN199209060",1,"Debut game for Larry Carter"1992SLN.EVN.regular.comment.csv",15
+
+"SLN199209120",72,"Debut game for Jeff Hartsock"1992SLN.EVN.regular.comment.csv",16
+
+"SLN199209140",32,"ej,torrj101,M,westj901,Call at 3B Cardinals manager Joe Torre ejected by HP umpire Joe West"1992SLN.EVN.regular.comment.csv",17
+

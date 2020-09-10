@@ -1,33 +1,32 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"PHI197204190",51,"$Denny Doyle failed to tag up after the catch"
-"PHI197204190",62,"$the Cardinals argued that the ball was trapped against wall"
-"PHI197204230",66,"$Gene Clines called for interference"
-"PHI197205210",37,"ej,luccf801,M,wendh901,Check swing $Phillies manager Lucchesi ejected by 1B umpire Wendelstedt for arguing check swing ball to Seaver"
-"PHI197206090",56,"$Marty Perez came to bat even though he had made the last out the previous inning; after a pitch for a ball, Phillies catcher McCarver pointed out that Perez was the incorrect batter; the Braves inserted Breazeale as pinch-hitter with 1-0 count and he proceeded to strike out; Phillies should have waited to protest unless and until Perez reached base"
-"PHI197206100",4,"ej,moned101,P,wendh901,Call at 3B $Money ejected by 3B umpire Wendelstedt for arguing call that Garr was safe stealing 3rd"
-"PHI197206290",52,"$Debut game for Bob Rauch"
-"PHI197207060",65,"ej,luccf801,M,colon901,Automatic for 2 trips to mound on same batter ej,branb102,P,colon901,Automatic for 2 trips to mound on same batter $Phillies manager Lucchesi and pitcher Brandon ejected by HP umpire Colosi when coach made two trips to mound; coach Ripplemyere visited mound and started back, leaving the mound circle; he then went back to the mouns which was a second visit with same batter at bat; rule calls for automatic ejection of the pitcher and the manager, but Brandon had to stay in game to complete Kingman's plate appearance"
-"PHI197207101",62,"$Debut game for Mac Scarce"
-"PHI197208160",43,"$Debut game for Bob Terlecki"
-"PHI197209060",1,"$Debut game for Bill Stein"
-"PHI197209090",68,"$Debut game for Craig Robinson"
-"PHI197209100",8,"$Debut game for Dave Rosello"
-"PHI197209100",51,"$Debut game for Chris Ward"
-"PHI197209100",62,"$Debut game for Bob Boone"
-"PHI197209120",10,"$Debut game for Mike Schmidt"
-"PHI197204190",51,"$Denny Doyle failed to tag up after the catch"
-"PHI197204190",62,"$the Cardinals argued that the ball was trapped against wall"
-"PHI197204230",66,"$Gene Clines called for interference"
-"PHI197205210",37,"ej,luccf801,M,wendh901,Check swing $Phillies manager Lucchesi ejected by 1B umpire Wendelstedt for arguing check swing ball to Seaver"
-"PHI197206090",56,"$Marty Perez came to bat even though he had made the last out the previous inning; after a pitch for a ball, Phillies catcher McCarver pointed out that Perez was the incorrect batter; the Braves inserted Breazeale as pinch-hitter with 1-0 count and he proceeded to strike out; Phillies should have waited to protest unless and until Perez reached base"
-"PHI197206100",4,"ej,moned101,P,wendh901,Call at 3B $Money ejected by 3B umpire Wendelstedt for arguing call that Garr was safe stealing 3rd"
-"PHI197206290",52,"$Debut game for Bob Rauch"
-"PHI197207060",65,"ej,luccf801,M,colon901,Automatic for 2 trips to mound on same batter ej,branb102,P,colon901,Automatic for 2 trips to mound on same batter $Phillies manager Lucchesi and pitcher Brandon ejected by HP umpire Colosi when coach made two trips to mound; coach Ripplemyere visited mound and started back, leaving the mound circle; he then went back to the mouns which was a second visit with same batter at bat; rule calls for automatic ejection of the pitcher and the manager, but Brandon had to stay in game to complete Kingman's plate appearance"
-"PHI197207101",62,"$Debut game for Mac Scarce"
-"PHI197208160",43,"$Debut game for Bob Terlecki"
-"PHI197209060",1,"$Debut game for Bill Stein"
-"PHI197209090",68,"$Debut game for Craig Robinson"
-"PHI197209100",8,"$Debut game for Dave Rosello"
-"PHI197209100",51,"$Debut game for Chris Ward"
-"PHI197209100",62,"$Debut game for Bob Boone"
-"PHI197209120",10,"$Debut game for Mike Schmidt"
+"PHI197204190",51,"$Denny Doyle failed to tag up after the catch"FILENAME_TX","LINE_NUMBER_CT"
+
+"PHI197204190",62,"$the Cardinals argued that the ball was trapped against wall"1972PHI.EVN.regular.comment.csv",2
+
+"PHI197204230",66,"$Gene Clines called for interference"1972PHI.EVN.regular.comment.csv",3
+
+"PHI197205210",37,"ej,luccf801,M,wendh901,Check swing $Phillies manager Lucchesi ejected by 1B umpire Wendelstedt for arguing check swing ball to Seaver"1972PHI.EVN.regular.comment.csv",4
+
+"PHI197206090",56,"$Marty Perez came to bat even though he had made the last out the previous inning; after a pitch for a ball, Phillies catcher McCarver pointed out that Perez was the incorrect batter; the Braves inserted Breazeale as pinch-hitter with 1-0 count and he proceeded to strike out; Phillies should have waited to protest unless and until Perez reached base"1972PHI.EVN.regular.comment.csv",5
+
+"PHI197206100",4,"ej,moned101,P,wendh901,Call at 3B $Money ejected by 3B umpire Wendelstedt for arguing call that Garr was safe stealing 3rd"1972PHI.EVN.regular.comment.csv",6
+
+"PHI197206290",52,"$Debut game for Bob Rauch"1972PHI.EVN.regular.comment.csv",7
+
+"PHI197207060",65,"ej,luccf801,M,colon901,Automatic for 2 trips to mound on same batter ej,branb102,P,colon901,Automatic for 2 trips to mound on same batter $Phillies manager Lucchesi and pitcher Brandon ejected by HP umpire Colosi when coach made two trips to mound; coach Ripplemyere visited mound and started back, leaving the mound circle; he then went back to the mouns which was a second visit with same batter at bat; rule calls for automatic ejection of the pitcher and the manager, but Brandon had to stay in game to complete Kingman's plate appearance"1972PHI.EVN.regular.comment.csv",8
+
+"PHI197207101",62,"$Debut game for Mac Scarce"1972PHI.EVN.regular.comment.csv",9
+
+"PHI197208160",43,"$Debut game for Bob Terlecki"1972PHI.EVN.regular.comment.csv",10
+
+"PHI197209060",1,"$Debut game for Bill Stein"1972PHI.EVN.regular.comment.csv",11
+
+"PHI197209090",68,"$Debut game for Craig Robinson"1972PHI.EVN.regular.comment.csv",12
+
+"PHI197209100",8,"$Debut game for Dave Rosello"1972PHI.EVN.regular.comment.csv",13
+
+"PHI197209100",51,"$Debut game for Chris Ward"1972PHI.EVN.regular.comment.csv",14
+
+"PHI197209100",62,"$Debut game for Bob Boone"1972PHI.EVN.regular.comment.csv",15
+
+"PHI197209120",10,"$Debut game for Mike Schmidt"1972PHI.EVN.regular.comment.csv",16
+

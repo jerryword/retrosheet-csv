@@ -1,63 +1,62 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"CIN198004110",0,"14 minute rain delay before start of game"
-"CIN198004110",25,"1:10 rain delay (resumed 10:20)"
-"CIN198004110",54,"46 minute rain delay (game called 11:59)"
-"CIN198004150",0,"39 minute rain delay before start of game"
-"CIN198005262",41,"ej,lasot101,M,froeb901,Arguing during pitching change $Dodgers Manager Tom Lasorda ejected by 3B umpire Froemming during pitching change for arguing balls and strikes from first game when Froemming was HP umpire"
-"CIN198006090",0,"7 minute rain delay before start of game"
-"CIN198006090",12,"14 minute rain delay"
-"CIN198006090",63,"1:39 rain delay"
-"CIN198006090",92,"1:21 rain delay (game then called as tie)"
-"CIN198006250",48,"$Dale Murphy called for interference at 2B"
-"CIN198006250",58,"$Rick Camp warned for throwing at George Foster's head"
-"CIN198006250",74,"ej,nahob001,P,pryop901,Arguing ball call $Atlanta catcher Nahorodny ejected by HP umpire Pryor for arguing ball call to Foster"
-"CIN198006250",76,"ej,cox-b103,M,fiels901,Call at 1B $Atlanta manager Cox ejected by 1B umpire Fields for arguing call at 1B"
-"CIN198007040",16,"$Nolan Ryan's 3000th strikeout"
-"CIN198007051",1,"Debut game for Bruce Berenyi"
-"CIN198007130",62,"$line drive off Joe Price's ring finger"
-"CIN198007140",1,"Debut game for Alan Hargesheimer"
-"CIN198007150",47,"$Johnny Bench's 314th HR as catcher to break Yogi Berra's all-time record"
-"CIN198007210",55,"14 minute rain delay"
-"CIN198007210",64,"56 minute rain delay"
-"CIN198008100",72,"Debut game for Jay Howell"
-"CIN198008180",54,"22 minute rain delay"
-"CIN198008180",57,"$Game called for rain after 1:16 delay"
-"CIN198008190",42,"$Silvio Martinez left with blister"
-"CIN198008200",100,"$ball hit Don Hood's left shin"
-"CIN198008260",20,"Debut game for Paul Householder"
-"CIN198009120",16,"ej,basgm101,C,palld901,HBP non-call $Dodgers coach Basgall ejected by HP umpire Pallone for for arguing that Russell had been hit by pitch which broke his finger and ended his season"
-"CIN198009130",55,"Debut game for Jack Perconte"
-"CIN198009130",65,"Debut game for Gary Weiss"
-"CIN198009160",2,"ej,brisd801,M,rungp901,Call at 1B $Giants manager Bristol ejected by 1B umpire Runge for arguing pickoff call on North"
-"CIN198009300",16,"ej,mcnaj101,M,olsea901,Call at 1B $Reds McNamara was ejected by 1B umpire Olsen for arguing Curtis was out at 1st"
-"CIN198004110",0,"14 minute rain delay before start of game"
-"CIN198004110",25,"1:10 rain delay (resumed 10:20)"
-"CIN198004110",54,"46 minute rain delay (game called 11:59)"
-"CIN198004150",0,"39 minute rain delay before start of game"
-"CIN198005262",41,"ej,lasot101,M,froeb901,Arguing during pitching change $Dodgers Manager Tom Lasorda ejected by 3B umpire Froemming during pitching change for arguing balls and strikes from first game when Froemming was HP umpire"
-"CIN198006090",0,"7 minute rain delay before start of game"
-"CIN198006090",12,"14 minute rain delay"
-"CIN198006090",63,"1:39 rain delay"
-"CIN198006090",92,"1:21 rain delay (game then called as tie)"
-"CIN198006250",48,"$Dale Murphy called for interference at 2B"
-"CIN198006250",58,"$Rick Camp warned for throwing at George Foster's head"
-"CIN198006250",74,"ej,nahob001,P,pryop901,Arguing ball call $Atlanta catcher Nahorodny ejected by HP umpire Pryor for arguing ball call to Foster"
-"CIN198006250",76,"ej,cox-b103,M,fiels901,Call at 1B $Atlanta manager Cox ejected by 1B umpire Fields for arguing call at 1B"
-"CIN198007040",16,"$Nolan Ryan's 3000th strikeout"
-"CIN198007051",1,"Debut game for Bruce Berenyi"
-"CIN198007130",62,"$line drive off Joe Price's ring finger"
-"CIN198007140",1,"Debut game for Alan Hargesheimer"
-"CIN198007150",47,"$Johnny Bench's 314th HR as catcher to break Yogi Berra's all-time record"
-"CIN198007210",55,"14 minute rain delay"
-"CIN198007210",64,"56 minute rain delay"
-"CIN198008100",72,"Debut game for Jay Howell"
-"CIN198008180",54,"22 minute rain delay"
-"CIN198008180",57,"$Game called for rain after 1:16 delay"
-"CIN198008190",42,"$Silvio Martinez left with blister"
-"CIN198008200",100,"$ball hit Don Hood's left shin"
-"CIN198008260",20,"Debut game for Paul Householder"
-"CIN198009120",16,"ej,basgm101,C,palld901,HBP non-call $Dodgers coach Basgall ejected by HP umpire Pallone for for arguing that Russell had been hit by pitch which broke his finger and ended his season"
-"CIN198009130",55,"Debut game for Jack Perconte"
-"CIN198009130",65,"Debut game for Gary Weiss"
-"CIN198009160",2,"ej,brisd801,M,rungp901,Call at 1B $Giants manager Bristol ejected by 1B umpire Runge for arguing pickoff call on North"
-"CIN198009300",16,"ej,mcnaj801,M,olsea901,Call at 1B $Reds McNamara was ejected by 1B umpire Olsen for arguing Curtis was out at 1st"
+"CIN198004110",0,"14 minute rain delay before start of game"FILENAME_TX","LINE_NUMBER_CT"
+
+"CIN198004110",25,"1:10 rain delay (resumed 10:20)"1980CIN.EVN.regular.comment.csv",2
+
+"CIN198004110",54,"46 minute rain delay (game called 11:59)"1980CIN.EVN.regular.comment.csv",3
+
+"CIN198004150",0,"39 minute rain delay before start of game"1980CIN.EVN.regular.comment.csv",4
+
+"CIN198005262",41,"ej,lasot101,M,froeb901,Arguing during pitching change $Dodgers Manager Tom Lasorda ejected by 3B umpire Froemming during pitching change for arguing balls and strikes from first game when Froemming was HP umpire"1980CIN.EVN.regular.comment.csv",5
+
+"CIN198006090",0,"7 minute rain delay before start of game"1980CIN.EVN.regular.comment.csv",6
+
+"CIN198006090",12,"14 minute rain delay"1980CIN.EVN.regular.comment.csv",7
+
+"CIN198006090",63,"1:39 rain delay"1980CIN.EVN.regular.comment.csv",8
+
+"CIN198006090",92,"1:21 rain delay (game then called as tie)"1980CIN.EVN.regular.comment.csv",9
+
+"CIN198006250",48,"$Dale Murphy called for interference at 2B"1980CIN.EVN.regular.comment.csv",10
+
+"CIN198006250",58,"$Rick Camp warned for throwing at George Foster's head"1980CIN.EVN.regular.comment.csv",11
+
+"CIN198006250",74,"ej,nahob001,P,pryop901,Arguing ball call $Atlanta catcher Nahorodny ejected by HP umpire Pryor for arguing ball call to Foster"1980CIN.EVN.regular.comment.csv",12
+
+"CIN198006250",76,"ej,cox-b103,M,fiels901,Call at 1B $Atlanta manager Cox ejected by 1B umpire Fields for arguing call at 1B"1980CIN.EVN.regular.comment.csv",13
+
+"CIN198007040",16,"$Nolan Ryan's 3000th strikeout"1980CIN.EVN.regular.comment.csv",14
+
+"CIN198007051",1,"Debut game for Bruce Berenyi"1980CIN.EVN.regular.comment.csv",15
+
+"CIN198007130",62,"$line drive off Joe Price's ring finger"1980CIN.EVN.regular.comment.csv",16
+
+"CIN198007140",1,"Debut game for Alan Hargesheimer"1980CIN.EVN.regular.comment.csv",17
+
+"CIN198007150",47,"$Johnny Bench's 314th HR as catcher to break Yogi Berra's all-time record"1980CIN.EVN.regular.comment.csv",18
+
+"CIN198007210",55,"14 minute rain delay"1980CIN.EVN.regular.comment.csv",19
+
+"CIN198007210",64,"56 minute rain delay"1980CIN.EVN.regular.comment.csv",20
+
+"CIN198008100",72,"Debut game for Jay Howell"1980CIN.EVN.regular.comment.csv",21
+
+"CIN198008180",54,"22 minute rain delay"1980CIN.EVN.regular.comment.csv",22
+
+"CIN198008180",57,"$Game called for rain after 1:16 delay"1980CIN.EVN.regular.comment.csv",23
+
+"CIN198008190",42,"$Silvio Martinez left with blister"1980CIN.EVN.regular.comment.csv",24
+
+"CIN198008200",100,"$ball hit Don Hood's left shin"1980CIN.EVN.regular.comment.csv",25
+
+"CIN198008260",20,"Debut game for Paul Householder"1980CIN.EVN.regular.comment.csv",26
+
+"CIN198009120",16,"ej,basgm101,C,palld901,HBP non-call $Dodgers coach Basgall ejected by HP umpire Pallone for for arguing that Russell had been hit by pitch which broke his finger and ended his season"1980CIN.EVN.regular.comment.csv",27
+
+"CIN198009130",55,"Debut game for Jack Perconte"1980CIN.EVN.regular.comment.csv",28
+
+"CIN198009130",65,"Debut game for Gary Weiss"1980CIN.EVN.regular.comment.csv",29
+
+"CIN198009160",2,"ej,brisd801,M,rungp901,Call at 1B $Giants manager Bristol ejected by 1B umpire Runge for arguing pickoff call on North"1980CIN.EVN.regular.comment.csv",30
+
+"CIN198009300",16,"ej,mcnaj801,M,olsea901,Call at 1B $Reds McNamara was ejected by 1B umpire Olsen for arguing Curtis was out at 1st"1980CIN.EVN.regular.comment.csv",31
+

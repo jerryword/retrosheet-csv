@@ -1,31 +1,30 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"NYA199704150",19,"ej,torrj101,M,denkd901,Balls and strikes Yankees manager Joe Torre ejected by HP umpire Don Denkinger sometime in third inning"
-"NYA199705070",36,"ej,mclem001,P,roe-r901,Balls and strikes Mark McLemore ejected by HP umpire Rocky Roe"
-"NYA199705090",0,"Protest=H"
-"NYA199705090",44,"$3B umpire Dale Ford called Jay Bell out for passing Jose Offerman; however, Offerman had been forced out already; the umpires put Bell back on 3B; Yankees manager Joe Torre protested the game; Torre talked to the umpires the next night at the pregame meeting and told them this was one of the worst umpiring performances he had ever seen"
-"NYA199705090",83,"ej,zimmd101,C,reilm901,Balk non-call $the Yankees argued that Hipolito Pichardo had balked, which would have scored the game-ending run; Yankees coach Don Zimmer ejected by HP umpire Mike Reilly"
-"NYA199705100",0,"ej,torrj101,M,garcr901,During pregame meeting $Yankees manager Joe Torre was ejected by 1B umpire Richie Garcia during the pregame meeting for arguing about a play from the previous game"
-"NYA199705260",73,"ej,bordm001,P,cobld901,Balls and strikes (during at bat) ej,johnd105,M,cobld901,Balls and strikes Mike Bordick ejected by HP umpire Drew Coble after arguing strike two; Orioles manager Davey Johnson also ejected by Coble"
-"NYA199706100",3,"Debut game for Jeff Abbott"
-"NYA199707100",1,"Debut game for Hideki Irabu"
-"NYA199707280",0,"Debut for umpire Bill Miller"
-"NYA199707300",57,"ej,staim001,P,hirsj901,Balls and strikes Matt Stairs ejected by HP umpire John Hirschbeck"
-"NYA199708160",77,"Debut game for Homer Bush"
-"NYA199709150",58,"$John Valentin caught the ball while diving into the seats and flipped it to Nomar Garciaparra while his feet were still in the air; Garciaparra threw the ball to Jeff Frye, who was running to cover 3B; Frye tagged Jorge Posada but Posada was awarded the base as an automatic advance since Valentin fell into a dead ball area while making the catch"
-"NYA199709162",1,"Debut game for Robinson Checo"
-"NYA199709162",24,"Debut game for Mike Figga"
-"NYA199704150",19,"ej,torrj101,M,onorb901,Balls and strikes $Yankees manager Torre ejected by HP umpire O'Nora at end of home second for arguing balls and strikes"
-"NYA199705070",36,"ej,mclem001,P,roe-r901,Balls and strikes Mark McLemore ejected by HP umpire Rocky Roe"
-"NYA199705090",0,"Protest=H"
-"NYA199705090",44,"$3B umpire Dale Ford called Jay Bell out for passing Jose Offerman; however, Offerman had been forced out already; the umpires put Bell back on 3B; Yankees manager Joe Torre protested the game; Torre talked to the umpires the next night at the pregame meeting and told them this was one of the worst umpiring performances he had ever seen"
-"NYA199705090",83,"ej,zimmd101,C,reilm901,Balk non-call $the Yankees argued that Hipolito Pichardo had balked, which would have scored the game-ending run; Yankees coach Don Zimmer ejected by HP umpire Mike Reilly"
-"NYA199705100",0,"ej,torrj101,M,garcr901,During pregame meeting $Yankees manager Joe Torre was ejected by 1B umpire Richie Garcia during the pregame meeting for arguing about a play from the previous game"
-"NYA199705260",73,"ej,bordm001,P,cobld901,Balls and strikes (during at bat) ej,johnd105,M,cobld901,Balls and strikes Mike Bordick ejected by HP umpire Drew Coble after arguing strike two; Orioles manager Davey Johnson also ejected by Coble"
-"NYA199706100",3,"Debut game for Jeff Abbott"
-"NYA199707100",1,"Debut game for Hideki Irabu"
-"NYA199707280",0,"Debut for umpire Bill Miller"
-"NYA199707300",57,"ej,staim001,P,hirsj901,Balls and strikes Matt Stairs ejected by HP umpire John Hirschbeck"
-"NYA199708160",77,"Debut game for Homer Bush"
-"NYA199709150",58,"$John Valentin caught the ball while diving into the seats and flipped it to Nomar Garciaparra while his feet were still in the air; Garciaparra threw the ball to Jeff Frye, who was running to cover 3B; Frye tagged Jorge Posada but Posada was awarded the base as an automatic advance since Valentin fell into a dead ball area while making the catch"
-"NYA199709162",1,"Debut game for Robinson Checo"
-"NYA199709162",24,"Debut game for Mike Figga"
+"NYA199704150",19,"ej,torrj101,M,onorb901,Balls and strikes $Yankees manager Torre ejected by HP umpire O'Nora at end of home second for arguing balls and strikes"FILENAME_TX","LINE_NUMBER_CT"
+
+"NYA199705070",36,"ej,mclem001,P,roe-r901,Balls and strikes Mark McLemore ejected by HP umpire Rocky Roe"1997NYA.EVA.regular.comment.csv",2
+
+"NYA199705090",0,"Protest=H"1997NYA.EVA.regular.comment.csv",3
+
+"NYA199705090",44,"$3B umpire Dale Ford called Jay Bell out for passing Jose Offerman; however, Offerman had been forced out already; the umpires put Bell back on 3B; Yankees manager Joe Torre protested the game; Torre talked to the umpires the next night at the pregame meeting and told them this was one of the worst umpiring performances he had ever seen"1997NYA.EVA.regular.comment.csv",4
+
+"NYA199705090",83,"ej,zimmd101,C,reilm901,Balk non-call $the Yankees argued that Hipolito Pichardo had balked, which would have scored the game-ending run; Yankees coach Don Zimmer ejected by HP umpire Mike Reilly"1997NYA.EVA.regular.comment.csv",5
+
+"NYA199705100",0,"ej,torrj101,M,garcr901,During pregame meeting $Yankees manager Joe Torre was ejected by 1B umpire Richie Garcia during the pregame meeting for arguing about a play from the previous game"1997NYA.EVA.regular.comment.csv",6
+
+"NYA199705260",73,"ej,bordm001,P,cobld901,Balls and strikes (during at bat) ej,johnd105,M,cobld901,Balls and strikes Mike Bordick ejected by HP umpire Drew Coble after arguing strike two; Orioles manager Davey Johnson also ejected by Coble"1997NYA.EVA.regular.comment.csv",7
+
+"NYA199706100",3,"Debut game for Jeff Abbott"1997NYA.EVA.regular.comment.csv",8
+
+"NYA199707100",1,"Debut game for Hideki Irabu"1997NYA.EVA.regular.comment.csv",9
+
+"NYA199707280",0,"Debut for umpire Bill Miller"1997NYA.EVA.regular.comment.csv",10
+
+"NYA199707300",57,"ej,staim001,P,hirsj901,Balls and strikes Matt Stairs ejected by HP umpire John Hirschbeck"1997NYA.EVA.regular.comment.csv",11
+
+"NYA199708160",77,"Debut game for Homer Bush"1997NYA.EVA.regular.comment.csv",12
+
+"NYA199709150",58,"$John Valentin caught the ball while diving into the seats and flipped it to Nomar Garciaparra while his feet were still in the air; Garciaparra threw the ball to Jeff Frye, who was running to cover 3B; Frye tagged Jorge Posada but Posada was awarded the base as an automatic advance since Valentin fell into a dead ball area while making the catch"1997NYA.EVA.regular.comment.csv",13
+
+"NYA199709162",1,"Debut game for Robinson Checo"1997NYA.EVA.regular.comment.csv",14
+
+"NYA199709162",24,"Debut game for Mike Figga"1997NYA.EVA.regular.comment.csv",15
+

@@ -1,59 +1,58 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"BOS200104140",58,"Possible that SB3, WP and W all occurred together"
-"BOS200104260",54,"$first hit for the Twins; controversy about call by rookie official scorer but it was the correct call"
-"BOS200105100",19,"originally scored E6"
-"BOS200105100",32,"ej,varij001,P,wegnm901,Call at HP (bumped umpire) ej,willj107,M,wegnm901,Call at HP Jason Varitek and Red Sox Manager Jimy Williams ejected by HP umpire Mark Wegner"
-"BOS200105130",89,"$bases empty IW!"
-"BOS200105250",40,"ej,stews002,P,timmt901,Balls and strikes Shannon Stewart ejected by HP umpire Tim Timmons"
-"BOS200105280",28,"the Yankees' out-homer the Red Sox 19-0 at Fenway since 2000 (12 games)"
-"BOS200106080",10,"Debut game for Eric Valent"
-"BOS200106080",32,"461 feet"
-"BOS200106100",0,"$Ramirez out with a viral infection; first game missed of year"
-"BOS200106100",70,"$Santiago pulled groin"
-"BOS200106230",17,"Debut game for Cesar Izturis"
-"BOS200106240",59,"ej,stews002,P,guccc901,Checked swing Shannon Stewart ejected by 1B umpire Chris Guccione"
-"BOS200106250",11,"Debut game for Brent Abernathy"
-"BOS200106280",12,"$Castillo left with strained muscle on right side"
-"BOS200107060",77,"$Furcal dislocated shoulder, maybe out for season"
-"BOS200107060",82,"$ball went through first baseman's glove, breaking it"
-"BOS200107070",37,"changed from E3 to S3 the next day"
-"BOS200107270",49,"Debut game for Daniel Wright"
-"BOS200107280",75,"Debut game for Casey Fossum"
-"BOS200108050",61,"ej,everc001,P,welkb901,Called third strike (threw bat) Carl Everett threw bat at feet of HP umpire Bill Welke and was ejected"
-"BOS200108160",0,"$Jimy Williams fired as Boston manager; Joe Kerrigan new manager"
-"BOS200108160",54,"ej,offej001,P,bellw901,Balls and strikes Jose Offerman ejected by HP umpire Wally Bell"
-"BOS200108170",53,"1:48 rain delay in the 6th"
-"BOS200108190",48,"ej,murre001,C,rapue901,Catch/trap call Oriole coach Eddie Murray ejected by 2B umpire Ed Rapuano in 5th"
-"BOS200108310",60,"$after out at plate, Jeter caught in rundown"
-"BOS200109020",61,"$3 Boston infielders to left of 2B"
-"BOS200109020",66,"$Mussina had a perfect game with 2 outs in the ninth (26 straight)"
-"BOS200109190",68,"Debut game for James Lofton"
-"BOS200104140",58,"Possible that SB3, WP and W all occurred together"
-"BOS200104260",54,"$first hit for the Twins; controversy about call by rookie official scorer but it was the correct call"
-"BOS200105100",19,"originally scored E6"
-"BOS200105100",32,"ej,varij001,P,wegnm901,Call at HP (bumped umpire) ej,willj107,M,wegnm901,Call at HP Jason Varitek and Red Sox Manager Jimy Williams ejected by HP umpire Mark Wegner"
-"BOS200105130",89,"$bases empty IW!"
-"BOS200105250",40,"ej,stews002,P,timmt901,Balls and strikes Shannon Stewart ejected by HP umpire Tim Timmons"
-"BOS200105280",28,"the Yankees' out-homer the Red Sox 19-0 at Fenway since 2000 (12 games)"
-"BOS200106080",10,"Debut game for Eric Valent"
-"BOS200106080",32,"461 feet"
-"BOS200106100",0,"$Ramirez out with a viral infection; first game missed of year"
-"BOS200106100",70,"$Santiago pulled groin"
-"BOS200106230",17,"Debut game for Cesar Izturis"
-"BOS200106240",59,"ej,stews002,P,guccc901,Checked swing Shannon Stewart ejected by 1B umpire Chris Guccione"
-"BOS200106250",11,"Debut game for Brent Abernathy"
-"BOS200106280",12,"$Castillo left with strained muscle on right side"
-"BOS200107060",77,"$Furcal dislocated shoulder, maybe out for season"
-"BOS200107060",82,"$ball went through first baseman's glove, breaking it"
-"BOS200107070",37,"changed from E3 to S3 the next day"
-"BOS200107270",49,"Debut game for Daniel Wright"
-"BOS200107280",75,"Debut game for Casey Fossum"
-"BOS200108050",61,"ej,everc001,P,welkb901,Called third strike (threw bat) Carl Everett threw bat at feet of HP umpire Bill Welke and was ejected"
-"BOS200108160",0,"$Jimy Williams fired as Boston manager; Joe Kerrigan new manager"
-"BOS200108160",54,"ej,offej001,P,bellw901,Balls and strikes Jose Offerman ejected by HP umpire Wally Bell"
-"BOS200108170",53,"1:48 rain delay in the 6th"
-"BOS200108190",53,"ej,murre001,C,rapue901,Catch/trap call $Oriole coach Murray ejected by 2B umpire Rapuano for arguing that Ripken's liner had been trapped"
-"BOS200108310",60,"$after out at plate, Jeter caught in rundown"
-"BOS200109020",61,"$3 Boston infielders to left of 2B"
-"BOS200109020",66,"$Mussina had a perfect game with 2 outs in the ninth (26 straight)"
-"BOS200109190",68,"Debut game for James Lofton"
+"BOS200104140",58,"Possible that SB3, WP and W all occurred together"FILENAME_TX","LINE_NUMBER_CT"
+
+"BOS200104260",54,"$first hit for the Twins; controversy about call by rookie official scorer but it was the correct call"2001BOS.EVA.regular.comment.csv",2
+
+"BOS200105100",19,"originally scored E6"2001BOS.EVA.regular.comment.csv",3
+
+"BOS200105100",32,"ej,varij001,P,wegnm901,Call at HP (bumped umpire) ej,willj107,M,wegnm901,Call at HP Jason Varitek and Red Sox Manager Jimy Williams ejected by HP umpire Mark Wegner"2001BOS.EVA.regular.comment.csv",4
+
+"BOS200105130",89,"$bases empty IW!"2001BOS.EVA.regular.comment.csv",5
+
+"BOS200105250",40,"ej,stews002,P,timmt901,Balls and strikes Shannon Stewart ejected by HP umpire Tim Timmons"2001BOS.EVA.regular.comment.csv",6
+
+"BOS200105280",28,"the Yankees' out-homer the Red Sox 19-0 at Fenway since 2000 (12 games)"2001BOS.EVA.regular.comment.csv",7
+
+"BOS200106080",10,"Debut game for Eric Valent"2001BOS.EVA.regular.comment.csv",8
+
+"BOS200106080",32,"461 feet"2001BOS.EVA.regular.comment.csv",9
+
+"BOS200106100",0,"$Ramirez out with a viral infection; first game missed of year"2001BOS.EVA.regular.comment.csv",10
+
+"BOS200106100",70,"$Santiago pulled groin"2001BOS.EVA.regular.comment.csv",11
+
+"BOS200106230",17,"Debut game for Cesar Izturis"2001BOS.EVA.regular.comment.csv",12
+
+"BOS200106240",59,"ej,stews002,P,guccc901,Checked swing Shannon Stewart ejected by 1B umpire Chris Guccione"2001BOS.EVA.regular.comment.csv",13
+
+"BOS200106250",11,"Debut game for Brent Abernathy"2001BOS.EVA.regular.comment.csv",14
+
+"BOS200106280",12,"$Castillo left with strained muscle on right side"2001BOS.EVA.regular.comment.csv",15
+
+"BOS200107060",77,"$Furcal dislocated shoulder, maybe out for season"2001BOS.EVA.regular.comment.csv",16
+
+"BOS200107060",82,"$ball went through first baseman's glove, breaking it"2001BOS.EVA.regular.comment.csv",17
+
+"BOS200107070",37,"changed from E3 to S3 the next day"2001BOS.EVA.regular.comment.csv",18
+
+"BOS200107270",49,"Debut game for Daniel Wright"2001BOS.EVA.regular.comment.csv",19
+
+"BOS200107280",75,"Debut game for Casey Fossum"2001BOS.EVA.regular.comment.csv",20
+
+"BOS200108050",61,"ej,everc001,P,welkb901,Called third strike (threw bat) Carl Everett threw bat at feet of HP umpire Bill Welke and was ejected"2001BOS.EVA.regular.comment.csv",21
+
+"BOS200108160",0,"$Jimy Williams fired as Boston manager; Joe Kerrigan new manager"2001BOS.EVA.regular.comment.csv",22
+
+"BOS200108160",54,"ej,offej001,P,bellw901,Balls and strikes Jose Offerman ejected by HP umpire Wally Bell"2001BOS.EVA.regular.comment.csv",23
+
+"BOS200108170",53,"1:48 rain delay in the 6th"2001BOS.EVA.regular.comment.csv",24
+
+"BOS200108190",53,"ej,murre001,C,rapue901,Catch/trap call $Oriole coach Murray ejected by 2B umpire Rapuano for arguing that Ripken's liner had been trapped"2001BOS.EVA.regular.comment.csv",25
+
+"BOS200108310",60,"$after out at plate, Jeter caught in rundown"2001BOS.EVA.regular.comment.csv",26
+
+"BOS200109020",61,"$3 Boston infielders to left of 2B"2001BOS.EVA.regular.comment.csv",27
+
+"BOS200109020",66,"$Mussina had a perfect game with 2 outs in the ninth (26 straight)"2001BOS.EVA.regular.comment.csv",28
+
+"BOS200109190",68,"Debut game for James Lofton"2001BOS.EVA.regular.comment.csv",29
+

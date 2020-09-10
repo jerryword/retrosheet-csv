@@ -1,51 +1,50 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"BSN194504170",0,"Debut for umpire Butch Henline"
-"BSN194504192",33,"$Chuck Workman's ball struck Carden Gillenwater, who was called out; the umpires decided Ewald Pyle had touched the ball first, so they reversed the ruling and allowed Joe Mack to score"
-"BSN194504280",69,"end of pbp account, rest deduced"
-"BSN194505090",43,"pbp account ends here, rest deduced"
-"BSN194505120",54,"$Al Javery was spiked by Whitey Wietelmann earlier in the game"
-"BSN194505120",60,"end of pbp account, rest deduced"
-"BSN194505130",0,"$Game started 20 minutes late due to rain"
-"BSN194505130",56,"$no SH credited"
-"BSN194505130",58,"$Game called for rain, also wiping out scheduled game 2"
-"BSN194505150",60,"2-0 count when Schacker relieves Javery"
-"BSN194505150",76,"end of pbp account, rest deduced"
-"BSN194505170",74,"pbp ends here, rest deduced"
-"BSN194506131",52,"$Johnny Peacock injured his thumb catching a pitch"
-"BSN194506150",84,"$second game rained out in middle of third inning"
-"BSN194507061",7,"33-games hitting streak for Tommy Holmes"
-"BSN194507061",72,"end of pbp account, rest deduced"
-"BSN194507070",47,"end of pbp account, rest deduced"
-"BSN194508090",11,"$Holmes in rundown between 2nd and 3rd after single, but safe when Hack's throw hit him in the back"
-"BSN194508130",38,"pbp account ends here, rest deduced"
-"BSN194508151",78,"$outfielder Al Libke pitching for the Reds"
-"BSN194508161",56,"Hofferth may have deserved an assist on this play"
-"BSN194508200",40,"pbp account ends here, rest deduced"
-"BSN194508210",48,"pbp account ends here, rest deduced"
-"BSN194508310",56,"pbp account ends here, rest deduced"
-"BSN194509010",42,"Triplett doubled off the wall."
-"BSN194504170",0,"Debut for umpire Butch Henline"
-"BSN194504192",33,"$Chuck Workman's ball struck Carden Gillenwater, who was called out; the umpires decided Ewald Pyle had touched the ball first, so they reversed the ruling and allowed Joe Mack to score"
-"BSN194504280",69,"end of pbp account, rest deduced"
-"BSN194505090",43,"pbp account ends here, rest deduced"
-"BSN194505120",54,"$Al Javery was spiked by Whitey Wietelmann earlier in the game"
-"BSN194505120",60,"end of pbp account, rest deduced"
-"BSN194505130",0,"$Game started 20 minutes late due to rain"
-"BSN194505130",56,"$no SH credited"
-"BSN194505130",58,"$Game called for rain, also wiping out scheduled game 2"
-"BSN194505150",60,"2-0 count when Schacker relieves Javery"
-"BSN194505150",76,"end of pbp account, rest deduced"
-"BSN194505170",74,"pbp ends here, rest deduced"
-"BSN194506131",52,"$Johnny Peacock injured his thumb catching a pitch"
-"BSN194506150",84,"$second game rained out in middle of third inning"
-"BSN194507061",7,"33-games hitting streak for Tommy Holmes"
-"BSN194507061",72,"end of pbp account, rest deduced"
-"BSN194507070",47,"end of pbp account, rest deduced"
-"BSN194508090",11,"$Holmes in rundown between 2nd and 3rd after single, but safe when Hack's throw hit him in the back"
-"BSN194508130",38,"pbp account ends here, rest deduced"
-"BSN194508151",78,"$outfielder Al Libke pitching for the Reds"
-"BSN194508161",56,"Hofferth may have deserved an assist on this play"
-"BSN194508200",40,"pbp account ends here, rest deduced"
-"BSN194508210",48,"pbp account ends here, rest deduced"
-"BSN194508310",56,"pbp account ends here, rest deduced"
-"BSN194509010",42,"Triplett doubled off the wall."
+"BSN194504170",0,"Debut for umpire Butch Henline"FILENAME_TX","LINE_NUMBER_CT"
+
+"BSN194504192",33,"$Chuck Workman's ball struck Carden Gillenwater, who was called out; the umpires decided Ewald Pyle had touched the ball first, so they reversed the ruling and allowed Joe Mack to score"1945BSN.EVN.regular.comment.csv",2
+
+"BSN194504280",69,"end of pbp account, rest deduced"1945BSN.EVN.regular.comment.csv",3
+
+"BSN194505090",43,"pbp account ends here, rest deduced"1945BSN.EVN.regular.comment.csv",4
+
+"BSN194505120",54,"$Al Javery was spiked by Whitey Wietelmann earlier in the game"1945BSN.EVN.regular.comment.csv",5
+
+"BSN194505120",60,"end of pbp account, rest deduced"1945BSN.EVN.regular.comment.csv",6
+
+"BSN194505130",0,"$Game started 20 minutes late due to rain"1945BSN.EVN.regular.comment.csv",7
+
+"BSN194505130",56,"$no SH credited"1945BSN.EVN.regular.comment.csv",8
+
+"BSN194505130",58,"$Game called for rain, also wiping out scheduled game 2"1945BSN.EVN.regular.comment.csv",9
+
+"BSN194505150",60,"2-0 count when Schacker relieves Javery"1945BSN.EVN.regular.comment.csv",10
+
+"BSN194505150",76,"end of pbp account, rest deduced"1945BSN.EVN.regular.comment.csv",11
+
+"BSN194505170",74,"pbp ends here, rest deduced"1945BSN.EVN.regular.comment.csv",12
+
+"BSN194506131",52,"$Johnny Peacock injured his thumb catching a pitch"1945BSN.EVN.regular.comment.csv",13
+
+"BSN194506150",84,"$second game rained out in middle of third inning"1945BSN.EVN.regular.comment.csv",14
+
+"BSN194507061",7,"33-games hitting streak for Tommy Holmes"1945BSN.EVN.regular.comment.csv",15
+
+"BSN194507061",72,"end of pbp account, rest deduced"1945BSN.EVN.regular.comment.csv",16
+
+"BSN194507070",47,"end of pbp account, rest deduced"1945BSN.EVN.regular.comment.csv",17
+
+"BSN194508090",11,"$Holmes in rundown between 2nd and 3rd after single, but safe when Hack's throw hit him in the back"1945BSN.EVN.regular.comment.csv",18
+
+"BSN194508130",38,"pbp account ends here, rest deduced"1945BSN.EVN.regular.comment.csv",19
+
+"BSN194508151",78,"$outfielder Al Libke pitching for the Reds"1945BSN.EVN.regular.comment.csv",20
+
+"BSN194508161",56,"Hofferth may have deserved an assist on this play"1945BSN.EVN.regular.comment.csv",21
+
+"BSN194508200",40,"pbp account ends here, rest deduced"1945BSN.EVN.regular.comment.csv",22
+
+"BSN194508210",48,"pbp account ends here, rest deduced"1945BSN.EVN.regular.comment.csv",23
+
+"BSN194508310",56,"pbp account ends here, rest deduced"1945BSN.EVN.regular.comment.csv",24
+
+"BSN194509010",42,"Triplett doubled off the wall."1945BSN.EVN.regular.comment.csv",25
+

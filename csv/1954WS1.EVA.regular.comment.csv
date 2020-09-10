@@ -1,37 +1,36 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"WS1195404130",0,"Debut for umpire Nestor Chylak"
-"WS1195404240",17,"$Mel Parnell injured"
-"WS1195405050",28,"ej,richp101,M,umonf901,Balls and strikes (Shoved umpire) White Sox Manager Paul Richards ejected by HP umpire Frank Umont"
-"WS1195405060",42,"ej,fainf101,P,grieb901,Call at 2B Ferris Fain ejected by 2B umpire Bill Grieve"
-"WS1195405060",75,"ej,richp101,M,berrc103,Balls and strikes White Sox Manager Paul Richards ejected by HP umpire Charlie Berry"
-"WS1195405260",28,"$Phil Rizzuto left with sore left thigh muscle"
-"WS1195405270",0,"President Dwight Eisenhower attended this game in conjunction with a Red Cross fundraiser; he presented the Mickey Vernon with a silver bat for winning 1953 American League batting title"
-"WS1195405270",58,"$Tom Umphlett rounded 1B too far"
-"WS1195406020",0,"$Eddie Yost's 700th consecutive game played"
-"WS1195406050",81,"ej,harrl101,C,mckib901,Call at HP ej,richp101,M,mckib901,Call at HP White Sox  ejected by HP umpire Bill McKinley White Sox Manager Paul Richards and Coach Lum Harris ejected by HP umpire Bill McKinley"
-"WS1195407052",36,"40 minute rain delay"
-"WS1195407182",34,"ej,lopea102,M,grieb901,Balls and strikes $Indians manager Lopez ejected by HP umpire Grieve for arguing ball called to Snyder earlier in inning"
-"WS1195407220",69,"$Bob Porterfield left with pulled a back muscle"
-"WS1195408140",34,"$Billy Shantz struck by foul ball and suffered a broken third finger of his right hand"
-"WS1195408140",40,"ej,powev101,P,hurle901,Throwing dirt at umpire Vic Power ejected by HP umpire Eddie Hurley for throwing dirt at the umpire as he was preparing to bat"
-"WS1195409170",34,"$Eddie Yost struck on the right ear; this was his 804th consecutive game"
-"WS1195409180",2,"$Eddie Yost started at 3B to keep his consecutive game streak active; this was Yost's 805th game during his streak that started 7-6-1949"
-"WS1195409180",75,"ej,boudl101,M,hurle901,Balls and strikes $Red Sox manager Boudreau ejected by HP umpire Hurley for arguing ball 4 call to Runnels"
-"WS1195404130",0,"Debut for umpire Nestor Chylak"
-"WS1195404240",17,"$Mel Parnell injured"
-"WS1195405050",28,"ej,richp101,M,umonf901,Balls and strikes (Shoved umpire) White Sox Manager Paul Richards ejected by HP umpire Frank Umont"
-"WS1195405060",42,"ej,fainf101,P,grieb901,Call at 2B Ferris Fain ejected by 2B umpire Bill Grieve"
-"WS1195405060",75,"ej,richp101,M,berrc103,Balls and strikes White Sox Manager Paul Richards ejected by HP umpire Charlie Berry"
-"WS1195405260",28,"$Phil Rizzuto left with sore left thigh muscle"
-"WS1195405270",0,"President Dwight Eisenhower attended this game in conjunction with a Red Cross fundraiser; he presented the Mickey Vernon with a silver bat for winning 1953 American League batting title"
-"WS1195405270",58,"$Tom Umphlett rounded 1B too far"
-"WS1195406020",0,"$Eddie Yost's 700th consecutive game played"
-"WS1195406050",81,"ej,harrl101,C,mckib901,Call at HP ej,richp101,M,mckib901,Call at HP White Sox  ejected by HP umpire Bill McKinley White Sox Manager Paul Richards and Coach Lum Harris ejected by HP umpire Bill McKinley"
-"WS1195407052",36,"40 minute rain delay"
-"WS1195407182",34,"ej,lopea102,M,grieb901,Balls and strikes $Indians manager Lopez ejected by HP umpire Grieve for arguing ball called to Snyder earlier in inning"
-"WS1195407220",69,"$Bob Porterfield left with pulled a back muscle"
-"WS1195408140",34,"$Billy Shantz struck by foul ball and suffered a broken third finger of his right hand"
-"WS1195408140",40,"ej,powev101,P,hurle901,Throwing dirt at umpire Vic Power ejected by HP umpire Eddie Hurley for throwing dirt at the umpire as he was preparing to bat"
-"WS1195409170",34,"$Eddie Yost struck on the right ear; this was his 804th consecutive game"
-"WS1195409180",2,"$Eddie Yost started at 3B to keep his consecutive game streak active; this was Yost's 805th game during his streak that started 7-6-1949"
-"WS1195409180",75,"ej,boudl101,M,hurle901,Balls and strikes $Red Sox manager Boudreau ejected by HP umpire Hurley for arguing ball 4 call to Runnels"
+"WS1195404130",0,"Debut for umpire Nestor Chylak"FILENAME_TX","LINE_NUMBER_CT"
+
+"WS1195404240",17,"$Mel Parnell injured"1954WS1.EVA.regular.comment.csv",2
+
+"WS1195405050",28,"ej,richp101,M,umonf901,Balls and strikes (Shoved umpire) White Sox Manager Paul Richards ejected by HP umpire Frank Umont"1954WS1.EVA.regular.comment.csv",3
+
+"WS1195405060",42,"ej,fainf101,P,grieb901,Call at 2B Ferris Fain ejected by 2B umpire Bill Grieve"1954WS1.EVA.regular.comment.csv",4
+
+"WS1195405060",75,"ej,richp101,M,berrc103,Balls and strikes White Sox Manager Paul Richards ejected by HP umpire Charlie Berry"1954WS1.EVA.regular.comment.csv",5
+
+"WS1195405260",28,"$Phil Rizzuto left with sore left thigh muscle"1954WS1.EVA.regular.comment.csv",6
+
+"WS1195405270",0,"President Dwight Eisenhower attended this game in conjunction with a Red Cross fundraiser; he presented the Mickey Vernon with a silver bat for winning 1953 American League batting title"1954WS1.EVA.regular.comment.csv",7
+
+"WS1195405270",58,"$Tom Umphlett rounded 1B too far"1954WS1.EVA.regular.comment.csv",8
+
+"WS1195406020",0,"$Eddie Yost's 700th consecutive game played"1954WS1.EVA.regular.comment.csv",9
+
+"WS1195406050",81,"ej,harrl101,C,mckib901,Call at HP ej,richp101,M,mckib901,Call at HP White Sox  ejected by HP umpire Bill McKinley White Sox Manager Paul Richards and Coach Lum Harris ejected by HP umpire Bill McKinley"1954WS1.EVA.regular.comment.csv",10
+
+"WS1195407052",36,"40 minute rain delay"1954WS1.EVA.regular.comment.csv",11
+
+"WS1195407182",34,"ej,lopea102,M,grieb901,Balls and strikes $Indians manager Lopez ejected by HP umpire Grieve for arguing ball called to Snyder earlier in inning"1954WS1.EVA.regular.comment.csv",12
+
+"WS1195407220",69,"$Bob Porterfield left with pulled a back muscle"1954WS1.EVA.regular.comment.csv",13
+
+"WS1195408140",34,"$Billy Shantz struck by foul ball and suffered a broken third finger of his right hand"1954WS1.EVA.regular.comment.csv",14
+
+"WS1195408140",40,"ej,powev101,P,hurle901,Throwing dirt at umpire Vic Power ejected by HP umpire Eddie Hurley for throwing dirt at the umpire as he was preparing to bat"1954WS1.EVA.regular.comment.csv",15
+
+"WS1195409170",34,"$Eddie Yost struck on the right ear; this was his 804th consecutive game"1954WS1.EVA.regular.comment.csv",16
+
+"WS1195409180",2,"$Eddie Yost started at 3B to keep his consecutive game streak active; this was Yost's 805th game during his streak that started 7-6-1949"1954WS1.EVA.regular.comment.csv",17
+
+"WS1195409180",75,"ej,boudl101,M,hurle901,Balls and strikes $Red Sox manager Boudreau ejected by HP umpire Hurley for arguing ball 4 call to Runnels"1954WS1.EVA.regular.comment.csv",18
+

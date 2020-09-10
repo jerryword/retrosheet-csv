@@ -1,23 +1,22 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"MIN199504270",0,"Debut for umpire George Ulrich Debut for umpire Jim Paylor Debut for umpire Craig Compton"
-"MIN199504290",1,"Debut game for LaTroy Hawkins"
-"MIN199504290",44,"Debut game for Brad Radke"
-"MIN199505150",45,"ej,philt001,P,hirsj901,Called third strike Tony Phillips ejected by HP umpire John Hirschbeck"
-"MIN199505150",84,"Debut game for Erik Bennett"
-"MIN199507060",71,"Debut game for Brian Bark"
-"MIN199508060",42,"Debut game for Oscar Munoz"
-"MIN199508080",0,"ej,stott001,P,brinj901,Bench jockeying Todd Stottlemyre ejected by 1B umpire Joe Brinkman sometime in game"
-"MIN199509040",81,"Debut game for Mark Loretta"
-"MIN199509050",65,"Debut game for Matt Lawton"
-"MIN199509280",10,"ej,wilem101,C,tscht901,Arguing after Belle HBP Indians coach Mark Wiley ejected by HP umpire Tim Tschida"
-"MIN199504270",0,"Debut for umpire George Ulrich Debut for umpire Jim Paylor Debut for umpire Craig Compton"
-"MIN199504290",1,"Debut game for LaTroy Hawkins"
-"MIN199504290",44,"Debut game for Brad Radke"
-"MIN199505150",45,"ej,philt001,P,hirsj901,Called third strike Tony Phillips ejected by HP umpire John Hirschbeck"
-"MIN199505150",84,"Debut game for Erik Bennett"
-"MIN199507060",71,"Debut game for Brian Bark"
-"MIN199508060",42,"Debut game for Oscar Munoz"
-"MIN199508080",0,"ej,stott001,P,brinj901,Bench jockeying Todd Stottlemyre ejected by 1B umpire Joe Brinkman sometime in game"
-"MIN199509040",81,"Debut game for Mark Loretta"
-"MIN199509050",65,"Debut game for Matt Lawton"
-"MIN199509280",10,"ej,wilem101,C,tscht901,Non-ejection $Indians coach Wiley ejected by HP umpire Tschida for arguing that pitcher should be ejected for hitting Belle"
+"MIN199504270",0,"Debut for umpire George Ulrich Debut for umpire Jim Paylor Debut for umpire Craig Compton"FILENAME_TX","LINE_NUMBER_CT"
+
+"MIN199504290",1,"Debut game for LaTroy Hawkins"1995MIN.EVA.regular.comment.csv",2
+
+"MIN199504290",44,"Debut game for Brad Radke"1995MIN.EVA.regular.comment.csv",3
+
+"MIN199505150",45,"ej,philt001,P,hirsj901,Called third strike Tony Phillips ejected by HP umpire John Hirschbeck"1995MIN.EVA.regular.comment.csv",4
+
+"MIN199505150",84,"Debut game for Erik Bennett"1995MIN.EVA.regular.comment.csv",5
+
+"MIN199507060",71,"Debut game for Brian Bark"1995MIN.EVA.regular.comment.csv",6
+
+"MIN199508060",42,"Debut game for Oscar Munoz"1995MIN.EVA.regular.comment.csv",7
+
+"MIN199508080",0,"ej,stott001,P,brinj901,Bench jockeying Todd Stottlemyre ejected by 1B umpire Joe Brinkman sometime in game"1995MIN.EVA.regular.comment.csv",8
+
+"MIN199509040",81,"Debut game for Mark Loretta"1995MIN.EVA.regular.comment.csv",9
+
+"MIN199509050",65,"Debut game for Matt Lawton"1995MIN.EVA.regular.comment.csv",10
+
+"MIN199509280",10,"ej,wilem101,C,tscht901,Non-ejection $Indians coach Wiley ejected by HP umpire Tschida for arguing that pitcher should be ejected for hitting Belle"1995MIN.EVA.regular.comment.csv",11
+

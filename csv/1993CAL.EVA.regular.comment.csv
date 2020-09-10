@@ -1,41 +1,42 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"CAL199304060",17,"Debut game for Joe Kmak"
-"CAL199304220",3,"$Carlos Baerga called for interference"
-"CAL199305150",0,"ej,rodgb102,M,cobld901,Arguing tag play ej,wathj001,C,cobld901,Balls and strikes Angels manager Buck Rodgers ejected by HP umpire Drew Coble sometime in game Angels coach John Wathan ejected by HP Umpire Drew Coble sometime in game"
-"CAL199305160",0,"ej,coned001,P,merrd901,Call at HP ej,mcrah001,M,merrd901,Call at HP David Cone and Royals manager Hal McRae ejected by HP umpire Durwood Merrill sometime in game"
-"CAL199305310",69,"Debut game for Darryl Scott"
-"CAL199306020",51,"ej,curtc001,P,denkd901,Bench-clearing brawl ej,easld001,P,denkd901,Bench-clearing brawl ej,javis001,P,denkd901,Bench-clearing brawl ej,coled001,P,denkd901,Bench-clearing brawl ej,eichm001,P,denkd901,Bench-clearing brawl ej,sprae001,P,denkd901,Bench-clearing brawl $shortly after Chad Curtis and Tim Salmon went into the dugout, Curtis jumped back onto the field and ran towards Ed Sprague at 3B; Sprague had been yelling at Curtis as he rounded the bases on the homer; 3B coach Ken Macha tried to keep the two players apart; both benches emptied and an 18-minute melee ensued; the scrum moved towards the seats and Darnell Coles tried to punch a fan but missed and hit a police officer who was trying to keep the fans off the field; fans started throwing promotion baseballs onto the field; ejected by HP umpire Don Denkinger: Curtis, Sprague, Coles, Stan Javier, Damion Easley and Mark Eichhorn"
-"CAL199306130",81,"Debut game for Larry Gonzales"
-"CAL199306170",47,"ej,pattk001,P,cousd901,Balls and strikes Ken Patterson ejected by HP umpire Derryl Cousins"
-"CAL199306190",1,"Debut game for Scott Ruffcorn"
-"CAL199306200",82,"Debut game for Rod Correia"
-"CAL199307270",13,"Debut game for Eduardo Perez"
-"CAL199307280",18,"Debut game for Ty VanBurkleo"
-"CAL199307280",55,"$Rickey Henderson called for interference"
-"CAL199307290",1,"Debut game for Phil Leftwich"
-"CAL199308050",0,"ej,mcrah001,M,roe-r901,Called third strike Royals manager Hal McRae ejected by HP umpire Rocky Roe sometime in game"
-"CAL199308210",1,"Debut game for Mark Holzemer"
-"CAL199308220",74,"ej,garnp001,M,koscg901,Interference non-call Brewers manager Phil Garner ejected by 1B umpire Greg Kosc"
-"CAL199309200",72,"Debut game for Norberto Martin"
-"CAL199309210",61,"Debut game for Chris Howard"
-"CAL199304060",17,"Debut game for Joe Kmak"
-"CAL199304220",3,"$Carlos Baerga called for interference"
-"CAL199305150",4,"ej,wathj001,C,cobld901,Called third strike $Angels coach Wathan ejected by HP Umpire Coble for arguing called third strike to Polonia"
-"CAL199305150",10,"ej,rodgb102,M,cobld901,Call at HP $Angels manager Rodgers ejected by HP umpire Coble for arguing that MacFarlane was out at home"
-"CAL199305160",20,"ej,coned001,P,merrd901,Call at HP ej,mcrah001,M,merrd901,Call at HP $Royals Cone, not in game, and Royals manager McRae ejected by HP umpire Merrill for arguing that Jose safe at home"
-"CAL199305310",69,"Debut game for Darryl Scott"
-"CAL199306020",51,"ej,curtc001,P,denkd901,Bench-clearing brawl ej,easld001,P,denkd901,Bench-clearing brawl ej,javis001,P,denkd901,Bench-clearing brawl ej,coled001,P,denkd901,Bench-clearing brawl ej,eichm001,P,denkd901,Bench-clearing brawl ej,sprae001,P,denkd901,Bench-clearing brawl $shortly after Chad Curtis and Tim Salmon went into the dugout, Curtis jumped back onto the field and ran towards Ed Sprague at 3B; Sprague had been yelling at Curtis as he rounded the bases on the homer; 3B coach Ken Macha tried to keep the two players apart; both benches emptied and an 18-minute melee ensued; the scrum moved towards the seats and Darnell Coles tried to punch a fan but missed and hit a police officer who was trying to keep the fans off the field; fans started throwing promotion baseballs onto the field; ejected by HP umpire Don Denkinger: Curtis, Sprague, Coles, Stan Javier, Damion Easley and Mark Eichhorn"
-"CAL199306130",81,"Debut game for Larry Gonzales"
-"CAL199306170",47,"ej,pattk001,P,cousd901,Balls and strikes Ken Patterson ejected by HP umpire Derryl Cousins"
-"CAL199306190",1,"Debut game for Scott Ruffcorn"
-"CAL199306200",82,"Debut game for Rod Correia"
-"CAL199307270",13,"Debut game for Eduardo Perez"
-"CAL199307280",18,"Debut game for Ty VanBurkleo"
-"CAL199307280",55,"$Rickey Henderson called for interference"
-"CAL199307290",1,"Debut game for Phil Leftwich"
-"CAL199308050",85,"ej,mcrah001,M,roe-r901,Called third strike $Royals manager McRae ejected by HP umpire Roe for arguing called third strike"
-"CAL199308210",1,"Debut game for Mark Holzemer"
-"CAL199308220",74,"ej,garnp001,M,koscg901,Interference non-call Brewers manager Phil Garner ejected by 1B umpire Greg Kosc"
-"CAL199309200",68,"ej,rodgb102,M,cedeg901,Called third strike $Angels manager Rodgers ejected by HP umpire Cederstrom for arguing called third strike to Perez"
-"CAL199309200",72,"Debut game for Norberto Martin"
-"CAL199309210",61,"Debut game for Chris Howard"
+"CAL199304060",17,"Debut game for Joe Kmak"FILENAME_TX","LINE_NUMBER_CT"
+
+"CAL199304220",3,"$Carlos Baerga called for interference"1993CAL.EVA.regular.comment.csv",2
+
+"CAL199305150",4,"ej,wathj001,C,cobld901,Called third strike $Angels coach Wathan ejected by HP Umpire Coble for arguing called third strike to Polonia"1993CAL.EVA.regular.comment.csv",3
+
+"CAL199305150",10,"ej,rodgb102,M,cobld901,Call at HP $Angels manager Rodgers ejected by HP umpire Coble for arguing that MacFarlane was out at home"1993CAL.EVA.regular.comment.csv",4
+
+"CAL199305160",20,"ej,coned001,P,merrd901,Call at HP ej,mcrah001,M,merrd901,Call at HP $Royals Cone, not in game, and Royals manager McRae ejected by HP umpire Merrill for arguing that Jose safe at home"1993CAL.EVA.regular.comment.csv",5
+
+"CAL199305310",69,"Debut game for Darryl Scott"1993CAL.EVA.regular.comment.csv",6
+
+"CAL199306020",51,"ej,curtc001,P,denkd901,Bench-clearing brawl ej,easld001,P,denkd901,Bench-clearing brawl ej,javis001,P,denkd901,Bench-clearing brawl ej,coled001,P,denkd901,Bench-clearing brawl ej,eichm001,P,denkd901,Bench-clearing brawl ej,sprae001,P,denkd901,Bench-clearing brawl $shortly after Chad Curtis and Tim Salmon went into the dugout, Curtis jumped back onto the field and ran towards Ed Sprague at 3B; Sprague had been yelling at Curtis as he rounded the bases on the homer; 3B coach Ken Macha tried to keep the two players apart; both benches emptied and an 18-minute melee ensued; the scrum moved towards the seats and Darnell Coles tried to punch a fan but missed and hit a police officer who was trying to keep the fans off the field; fans started throwing promotion baseballs onto the field; ejected by HP umpire Don Denkinger: Curtis, Sprague, Coles, Stan Javier, Damion Easley and Mark Eichhorn"1993CAL.EVA.regular.comment.csv",7
+
+"CAL199306130",81,"Debut game for Larry Gonzales"1993CAL.EVA.regular.comment.csv",8
+
+"CAL199306170",47,"ej,pattk001,P,cousd901,Balls and strikes Ken Patterson ejected by HP umpire Derryl Cousins"1993CAL.EVA.regular.comment.csv",9
+
+"CAL199306190",1,"Debut game for Scott Ruffcorn"1993CAL.EVA.regular.comment.csv",10
+
+"CAL199306200",82,"Debut game for Rod Correia"1993CAL.EVA.regular.comment.csv",11
+
+"CAL199307270",13,"Debut game for Eduardo Perez"1993CAL.EVA.regular.comment.csv",12
+
+"CAL199307280",18,"Debut game for Ty VanBurkleo"1993CAL.EVA.regular.comment.csv",13
+
+"CAL199307280",55,"$Rickey Henderson called for interference"1993CAL.EVA.regular.comment.csv",14
+
+"CAL199307290",1,"Debut game for Phil Leftwich"1993CAL.EVA.regular.comment.csv",15
+
+"CAL199308050",85,"ej,mcrah001,M,roe-r901,Called third strike $Royals manager McRae ejected by HP umpire Roe for arguing called third strike"1993CAL.EVA.regular.comment.csv",16
+
+"CAL199308210",1,"Debut game for Mark Holzemer"1993CAL.EVA.regular.comment.csv",17
+
+"CAL199308220",74,"ej,garnp001,M,koscg901,Interference non-call Brewers manager Phil Garner ejected by 1B umpire Greg Kosc"1993CAL.EVA.regular.comment.csv",18
+
+"CAL199309200",68,"ej,rodgb102,M,cedeg901,Called third strike $Angels manager Rodgers ejected by HP umpire Cederstrom for arguing called third strike to Perez"1993CAL.EVA.regular.comment.csv",19
+
+"CAL199309200",72,"Debut game for Norberto Martin"1993CAL.EVA.regular.comment.csv",20
+
+"CAL199309210",61,"Debut game for Chris Howard"1993CAL.EVA.regular.comment.csv",21
+

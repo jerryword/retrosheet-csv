@@ -1,33 +1,32 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"CLE194405060",6,"$Ball hit off CF's head"
-"CLE194405072",8,"Pitcher throws to 3rd to trap Boudreau, but in rundown, Boudreau runs into 3B Clary blocking the baseline and interference is ruled giving Bourdreau is given third"
-"CLE194405072",9,"Throw home traps Boudreau, but C Schultz's throw hits Lou on the shoulder and goes into short LF"
-"CLE194406020",0,"$Milosevich playing with dislocated left index fingure Rosar starts war job at 7am and works 6 hours when Indians are at home. He works 10 hours when are on the road"
-"CLE194406020",43,"$Batter overran 3rd and was tagged out"
-"CLE194406030",39,"$Grant fell chasing single and left game"
-"CLE194406030",52,"$Yankee claimed catcher Rosar let popup drop intentionally and there should be no DP; umpires huddled and ruled it not intentional and they let the DP stand"
-"CLE194406182",43,"$Keltner hurt hand on hard smash, had to leave game"
-"CLE194406182",76,"$Grant injured shoulder diving back to first base"
-"CLE194407140",55,"pbp account ends here, rest deduced"
-"CLE194407161",17,"$official scorer chose not to award steals since Keltner heistated and Cullenbine did not go home until wild throw"
-"CLE194407210",23,"DWS: no CS on error in 1944"
-"CLE194407260",36,"Stirnweiss gets inside-the-park home run to drive in Donald"
-"CLE194408300",71,"Texas leaguer behind 2nd"
-"CLE194409220",63,"Strange play, but this is from Mercer's scorecard Notation fits a force play, but no batter after Bonham"
-"CLE194409230",21,"Metheny collides at home with Rosar trying to score, Metheny out, Rosar leaves game with injury"
-"CLE194405060",6,"$Ball hit off CF's head"
-"CLE194405072",8,"Pitcher throws to 3rd to trap Boudreau, but in rundown, Boudreau runs into 3B Clary blocking the baseline and interference is ruled giving Bourdreau is given third"
-"CLE194405072",9,"Throw home traps Boudreau, but C Schultz's throw hits Lou on the shoulder and goes into short LF"
-"CLE194406020",0,"$Milosevich playing with dislocated left index fingure Rosar starts war job at 7am and works 6 hours when Indians are at home. He works 10 hours when are on the road"
-"CLE194406020",43,"$Batter overran 3rd and was tagged out"
-"CLE194406030",39,"$Grant fell chasing single and left game"
-"CLE194406030",52,"$Yankee claimed catcher Rosar let popup drop intentionally and there should be no DP; umpires huddled and ruled it not intentional and they let the DP stand"
-"CLE194406182",43,"$Keltner hurt hand on hard smash, had to leave game"
-"CLE194406182",76,"$Grant injured shoulder diving back to first base"
-"CLE194407140",55,"pbp account ends here, rest deduced"
-"CLE194407161",17,"$official scorer chose not to award steals since Keltner heistated and Cullenbine did not go home until wild throw"
-"CLE194407210",23,"DWS: no CS on error in 1944"
-"CLE194407260",36,"Stirnweiss gets inside-the-park home run to drive in Donald"
-"CLE194408300",71,"Texas leaguer behind 2nd"
-"CLE194409220",63,"Strange play, but this is from Mercer's scorecard Notation fits a force play, but no batter after Bonham"
-"CLE194409230",21,"Metheny collides at home with Rosar trying to score, Metheny out, Rosar leaves game with injury"
+"CLE194405060",6,"$Ball hit off CF's head"FILENAME_TX","LINE_NUMBER_CT"
+
+"CLE194405072",8,"Pitcher throws to 3rd to trap Boudreau, but in rundown, Boudreau runs into 3B Clary blocking the baseline and interference is ruled giving Bourdreau is given third"1944CLE.EVA.regular.comment.csv",2
+
+"CLE194405072",9,"Throw home traps Boudreau, but C Schultz's throw hits Lou on the shoulder and goes into short LF"1944CLE.EVA.regular.comment.csv",3
+
+"CLE194406020",0,"$Milosevich playing with dislocated left index fingure Rosar starts war job at 7am and works 6 hours when Indians are at home. He works 10 hours when are on the road"1944CLE.EVA.regular.comment.csv",4
+
+"CLE194406020",43,"$Batter overran 3rd and was tagged out"1944CLE.EVA.regular.comment.csv",5
+
+"CLE194406030",39,"$Grant fell chasing single and left game"1944CLE.EVA.regular.comment.csv",6
+
+"CLE194406030",52,"$Yankee claimed catcher Rosar let popup drop intentionally and there should be no DP; umpires huddled and ruled it not intentional and they let the DP stand"1944CLE.EVA.regular.comment.csv",7
+
+"CLE194406182",43,"$Keltner hurt hand on hard smash, had to leave game"1944CLE.EVA.regular.comment.csv",8
+
+"CLE194406182",76,"$Grant injured shoulder diving back to first base"1944CLE.EVA.regular.comment.csv",9
+
+"CLE194407140",55,"pbp account ends here, rest deduced"1944CLE.EVA.regular.comment.csv",10
+
+"CLE194407161",17,"$official scorer chose not to award steals since Keltner heistated and Cullenbine did not go home until wild throw"1944CLE.EVA.regular.comment.csv",11
+
+"CLE194407210",23,"DWS: no CS on error in 1944"1944CLE.EVA.regular.comment.csv",12
+
+"CLE194407260",36,"Stirnweiss gets inside-the-park home run to drive in Donald"1944CLE.EVA.regular.comment.csv",13
+
+"CLE194408300",71,"Texas leaguer behind 2nd"1944CLE.EVA.regular.comment.csv",14
+
+"CLE194409220",63,"Strange play, but this is from Mercer's scorecard Notation fits a force play, but no batter after Bonham"1944CLE.EVA.regular.comment.csv",15
+
+"CLE194409230",21,"Metheny collides at home with Rosar trying to score, Metheny out, Rosar leaves game with injury"1944CLE.EVA.regular.comment.csv",16
+

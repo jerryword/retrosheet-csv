@@ -1,39 +1,38 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"TBA200810110",42,"$the seventh homer of the game to break the ALCS record for most combined homers in one game; the Red Sox become the seventh team to hit three homers in one post-season inning"
-"TBA200810110",54,"$53 minute fifth inning"
-"TBA200810110",100,"ej,farrj001,C,holbs901,Balls and strikes $Red Sox Pitching Coach John Farrell ejected by HP umpire Sam Holbrook for arguing balls and strikes from the dugout; the fifth Red Sox ejection in post-season"
-"BOS200810130",27,"$infield shifted to right for David Ortiz"
-"BOS200810130",38,"$infield shifted to right for Carlos Pena"
-"BOS200810130",39,"$Kevin Youkilis had to run towards the line to get the bunt and had no chance to throw out Carlos Pena; B.J. Upton rounded the bag and Alex Cora came in behind to take the throw"
-"BOS200810140",17,"$Jason Bay's bat broke and the barrel flew towards Evan Longoria at 3B; he fielded the ball at the bag and threw wildly past first"
-"BOS200810140",27,"$Kevin Cash homered in his first post-season at bat"
-"BOS200810140",40,"$Willy Aybar started towards 2B but Kevin Youkilis cut off the throw and relayed to 1B"
-"BOS200810160",24,"$Evan Longoria homered in four consecutive games, an ALCS record; this was the 13th homer for the Rays to set a new ALCS record by breaking the mark of the 2003 Red Sox"
-"BOS200810160",81,"$Evan Longoria dove to his left and deflected the ball"
-"BOS200810160",83,"$Evan Longoria made a tough play on the grounder at the bag but threw the ball into the dirt"
-"BOS200810160",85,"$the Red Sox came back from a seven-run deficit, which is the largest since the 1929 Athletics came back from an eight-run deficit to beat the Cubs in game four of the World Series; thus, this is the largest deficit overcome in LCS history; this is the eighth consecutive victory for the Red Sox in a post-season elimination game, all coming in the LCS (four games in 2004 and three in 2007)"
-"TBA200810180",6,"$the ball struck the C ring and fell onto the field; it is a ground rule homer"
-"TBA200810180",13,"$Jason Varitek fouled a pitch off the lower part of the mask of umpire Derryl Cousins; it drove his head down and the mask struck his clavicle"
-"TBA200810180",28,"umpchange,4,umphome,mcclt901 umpchange,4,ump1b,holbs901 umpchange,4,ump2b,onorb901 umpchange,4,ump3b,gormb901 umpchange,4,umplf,(None) $HP umpire Derryl Cousins left the game with a bruised clavicle; there was a 15 minute delay while Tim McClelland changed into plate gear"
-"TBA200810180",50,"$the hard-hit ball struck James Shields' right foot on the side or back and caromed to Akinori Iwamura"
-"TBA200810190",0,"$Umpire Derryl Cousins, who had been injured in the previous game, did not work this game; Angel Hernandez replaced Cousins; since Tim McClelland had taken over behind the plate in game six, Brian Gorman worked the plate in this game out of rotation"
-"TBA200810190",27,"$infield shifted to right for Carlos Pena"
-"TBA200810110",42,"$the seventh homer of the game to break the ALCS record for most combined homers in one game; the Red Sox become the seventh team to hit three homers in one post-season inning"
-"TBA200810110",54,"$53 minute fifth inning"
-"TBA200810110",100,"ej,farrj001,C,holbs901,Balls and strikes $Red Sox Pitching Coach John Farrell ejected by HP umpire Sam Holbrook for arguing balls and strikes from the dugout; the fifth Red Sox ejection in post-season"
-"BOS200810130",27,"$infield shifted to right for David Ortiz"
-"BOS200810130",38,"$infield shifted to right for Carlos Pena"
-"BOS200810130",39,"$Kevin Youkilis had to run towards the line to get the bunt and had no chance to throw out Carlos Pena; B.J. Upton rounded the bag and Alex Cora came in behind to take the throw"
-"BOS200810140",17,"$Jason Bay's bat broke and the barrel flew towards Evan Longoria at 3B; he fielded the ball at the bag and threw wildly past first"
-"BOS200810140",27,"$Kevin Cash homered in his first post-season at bat"
-"BOS200810140",40,"$Willy Aybar started towards 2B but Kevin Youkilis cut off the throw and relayed to 1B"
-"BOS200810160",24,"$Evan Longoria homered in four consecutive games, an ALCS record; this was the 13th homer for the Rays to set a new ALCS record by breaking the mark of the 2003 Red Sox"
-"BOS200810160",81,"$Evan Longoria dove to his left and deflected the ball"
-"BOS200810160",83,"$Evan Longoria made a tough play on the grounder at the bag but threw the ball into the dirt"
-"BOS200810160",85,"$the Red Sox came back from a seven-run deficit, which is the largest since the 1929 Athletics came back from an eight-run deficit to beat the Cubs in game four of the World Series; thus, this is the largest deficit overcome in LCS history; this is the eighth consecutive victory for the Red Sox in a post-season elimination game, all coming in the LCS (four games in 2004 and three in 2007)"
-"TBA200810180",6,"$the ball struck the C ring and fell onto the field; it is a ground rule homer"
-"TBA200810180",13,"$Jason Varitek fouled a pitch off the lower part of the mask of umpire Derryl Cousins; it drove his head down and the mask struck his clavicle"
-"TBA200810180",28,"umpchange,4,umphome,mcclt901 umpchange,4,ump1b,holbs901 umpchange,4,ump2b,onorb901 umpchange,4,ump3b,gormb901 umpchange,4,umplf,(None) $HP umpire Derryl Cousins left the game with a bruised clavicle; there was a 15 minute delay while Tim McClelland changed into plate gear"
-"TBA200810180",50,"$the hard-hit ball struck James Shields' right foot on the side or back and caromed to Akinori Iwamura"
-"TBA200810190",0,"$Umpire Derryl Cousins, who had been injured in the previous game, did not work this game; Angel Hernandez replaced Cousins; since Tim McClelland had taken over behind the plate in game six, Brian Gorman worked the plate in this game out of rotation"
-"TBA200810190",27,"$infield shifted to right for Carlos Pena"
+"TBA200810110",42,"$the seventh homer of the game to break the ALCS record for most combined homers in one game; the Red Sox become the seventh team to hit three homers in one post-season inning"FILENAME_TX","LINE_NUMBER_CT"
+
+"TBA200810110",54,"$53 minute fifth inning"2008ALCS.EVE.post.comment.csv",2
+
+"TBA200810110",100,"ej,farrj001,C,holbs901,Balls and strikes $Red Sox Pitching Coach John Farrell ejected by HP umpire Sam Holbrook for arguing balls and strikes from the dugout; the fifth Red Sox ejection in post-season"2008ALCS.EVE.post.comment.csv",3
+
+"BOS200810130",27,"$infield shifted to right for David Ortiz"2008ALCS.EVE.post.comment.csv",4
+
+"BOS200810130",38,"$infield shifted to right for Carlos Pena"2008ALCS.EVE.post.comment.csv",5
+
+"BOS200810130",39,"$Kevin Youkilis had to run towards the line to get the bunt and had no chance to throw out Carlos Pena; B.J. Upton rounded the bag and Alex Cora came in behind to take the throw"2008ALCS.EVE.post.comment.csv",6
+
+"BOS200810140",17,"$Jason Bay's bat broke and the barrel flew towards Evan Longoria at 3B; he fielded the ball at the bag and threw wildly past first"2008ALCS.EVE.post.comment.csv",7
+
+"BOS200810140",27,"$Kevin Cash homered in his first post-season at bat"2008ALCS.EVE.post.comment.csv",8
+
+"BOS200810140",40,"$Willy Aybar started towards 2B but Kevin Youkilis cut off the throw and relayed to 1B"2008ALCS.EVE.post.comment.csv",9
+
+"BOS200810160",24,"$Evan Longoria homered in four consecutive games, an ALCS record; this was the 13th homer for the Rays to set a new ALCS record by breaking the mark of the 2003 Red Sox"2008ALCS.EVE.post.comment.csv",10
+
+"BOS200810160",81,"$Evan Longoria dove to his left and deflected the ball"2008ALCS.EVE.post.comment.csv",11
+
+"BOS200810160",83,"$Evan Longoria made a tough play on the grounder at the bag but threw the ball into the dirt"2008ALCS.EVE.post.comment.csv",12
+
+"BOS200810160",85,"$the Red Sox came back from a seven-run deficit, which is the largest since the 1929 Athletics came back from an eight-run deficit to beat the Cubs in game four of the World Series; thus, this is the largest deficit overcome in LCS history; this is the eighth consecutive victory for the Red Sox in a post-season elimination game, all coming in the LCS (four games in 2004 and three in 2007)"2008ALCS.EVE.post.comment.csv",13
+
+"TBA200810180",6,"$the ball struck the C ring and fell onto the field; it is a ground rule homer"2008ALCS.EVE.post.comment.csv",14
+
+"TBA200810180",13,"$Jason Varitek fouled a pitch off the lower part of the mask of umpire Derryl Cousins; it drove his head down and the mask struck his clavicle"2008ALCS.EVE.post.comment.csv",15
+
+"TBA200810180",28,"umpchange,4,umphome,mcclt901 umpchange,4,ump1b,holbs901 umpchange,4,ump2b,onorb901 umpchange,4,ump3b,gormb901 umpchange,4,umplf,(None) $HP umpire Derryl Cousins left the game with a bruised clavicle; there was a 15 minute delay while Tim McClelland changed into plate gear"2008ALCS.EVE.post.comment.csv",16
+
+"TBA200810180",50,"$the hard-hit ball struck James Shields' right foot on the side or back and caromed to Akinori Iwamura"2008ALCS.EVE.post.comment.csv",17
+
+"TBA200810190",0,"$Umpire Derryl Cousins, who had been injured in the previous game, did not work this game; Angel Hernandez replaced Cousins; since Tim McClelland had taken over behind the plate in game six, Brian Gorman worked the plate in this game out of rotation"2008ALCS.EVE.post.comment.csv",18
+
+"TBA200810190",27,"$infield shifted to right for Carlos Pena"2008ALCS.EVE.post.comment.csv",19
+

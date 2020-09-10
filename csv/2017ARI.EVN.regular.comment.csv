@@ -1,135 +1,134 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"ARI201704020",42,"replay,6,herng001,SFN,gibsg901,PHO01,,Y,M,ARI,A $when the pitch bounced away from catcher Jeff Mathis, Eduardo Nunez attempted to advance to 3B; when Nunez was called safe, D-Backs manager Torey Lovullo challenged the ruling; the call was overturned by replay"
-"ARI201704020",54,"replay,7,beltb001,SFN,gibsg901,PHO01,,N,M,SFN,A $when Denard Span was called out at 1B, Giants manager Bruce Bochy challenged the ruling; the call was upheld by replay"
-"ARI201704050",16,"replay,2,drurb001,ARI,gibsg901,PHO01,,Y,M,ARI,C $when Brandon Drury was called out at 1B, D-backs manager Torey Lovullo challenged the ruling; the call was overturned by replay"
-"ARI201704080",70,"replay,8,lambj001,ARI,barrt901,PHO01,,N,M,CLE,C $when Jake Lamb was called safe at 1B, Indians manager Terry Francona challenged the ruling; the call was upheld by replay"
-"ARI201704090",54,"replay,7,jacka001,CLE,barrt901,PHO01,,Y,M,CLE,C replay,7,jacka001,CLE,barrt901,PHO01,,N,M,CLE,Q replay,7,jacka001,CLE,barrt901,PHO01,,N,M,ARI,E $when Yan Gomes was called out at 2B, Indians manager Terry Francona challenged the ruling; the call was overturned by replay; then Francona asked about runner placement due to the overthrow at 1B; the umpires huddled and then crew chief Ted Barrett requested a review; the runners remained at 1B and 2B; D-backs manager Torey Lovullo challenged the slide at 2B; it was updheld as legal by replay"
-"ARI201704090",55,"replay,7,martm003,CLE,barrt901,PHO01,,Y,M,ARI,C $when Michael Martinez was called safe at 1B, D-backs manager Torey Lovullo challenged the ruling; the call was overturned by replay"
-"ARI201704210",63,"replay,7,goldp001,ARI,wintm901,PHO01,,Y,M,LAN,S $when Paul Goldschmidt's hit got stuck under the padding on the wall, Goldschmidt reached 3B; Dodgers' CF Joc Pederson pulled the ball out instead of signalling to the umpires and the ball as ruled in play; Dodgers manager Dave Roberts challenged the call, which was overturned by replay; Goldschmidt was sent back to 2B"
-"ARI201704220",6,"replay,1,perad001,ARI,wintm901,PHO01,O,N,U,,H $David Peralta's fly to CF struck the yellow stripe at the end of the seating area to the right of the batter's eye; the ball was ruled in play; crew chief Mike Winters requested a review, which upheld the call"
-"ARI201704220",53,"replay,6,gonza003,LAN,wintm901,PHO01,,Y,M,LAN,C $when Adrian Gonzalez was called out at 1B, Dodgers manager Dave Roberts challenged the ruling; the call was overturned by replay"
-"ARI201704230",49,"Dodgers center fielder Joc Pederson left the game due to an injured groin"
-"ARI201704240",56,"replay,7,margm001,SDN,cedeg901,PHO01,,N,M,ARI,C $when Manuel Margot was called safe at 1B, D-Backs manager Torey Lovullo challenged the ruling; the call was upheld by replay"
-"ARI201704260",13,"$Jabari Blash was struck by the throw to 1B and was called for batter interference"
-"ARI201704260",51,"Diamondbacks second baseman Brandon Drury left the game due to an injured knee"
-"ARI201704280",15,"replay,2,perad001,ARI,laynj901,PHO01,,Y,M,COL,D $when Charlie Blackmon was ruled not to have caught the line drive, Rockies manager Bud Black challenged the ruling; the call was overturned by replay"
-"ARI201704300",75,"$A.J. Pollock ran into 2Bman DJ LeMahieu who was trying to field the grounder; Pollock called for interference"
-"ARI201704300",100,"replay,13,drurb001,ARI,laynj901,PHO01,,N,M,COL,C $when Brandon Drury was called safe at 1B, Rockies manager Bud Black challenged the ruling; the call was upheld by replay"
-"ARI201705090",28,"replay,3,tomay001,ARI,millb901,PHO01,,N,M,DET,A $when Paul Goldschmidt was called safe at HP, Tigers manager Brad Ausmus challenged the ruling; the call call was upheld by replay"
-"ARI201705110",17,"replay,3,ngoeg001,PIT,mealj901,PHO01,,Y,M,ARI,A $when Jordy Mercer was called safe at 2B, D-Backs manager Torey Lovullo challenged the ruling; the call was overturned by replay"
-"ARI201705110",61,"replay,9,cervf001,PIT,mealj901,PHO01,,N,M,PIT,A $when Josh Harrison was called out at 2B, Pirates manager Clint Hurdle challenged the ruling; the call was upheld by replay"
-"ARI201705120",69,"$Chris Iannetta struck on the face by a pitch"
-"ARI201705150",63,"replay,8,goldp001,ARI,wegnm901,PHO01,O,Y,U,,H $Paul Goldschmidt's fly to CF struck the wall on the yellow line; the ball was ruled a home run; acting crew chief Mark Wegner requested a review, which overturned the call to a ball in play; Goldschmidt was awarded 2B"
-"ARI201705220",45,"replay,6,fuenr001,ARI,barrt901,PHO01,,N,M,CHA,C $when Jake Lamb was called safe at HP, White Sox manager Rick Renteria challenged the ruling; the call was upheld by replay"
-"ARI201705230",26,"White Sox pitcher Dylan Covey left the game due to an injured side"
-"ARI201705230",35,"replay,4,herrc001,ARI,barrt901,PHO01,,Y,M,CHA,C $when Brandon Drury was called safe at 2B, White Sox manager Rick Renteria challenged the ruling; the call was overturned by replay"
-"ARI201705240",32,"replay,5,smitk002,CHA,barrt901,PHO01,,Y,M,CHA,T $when Chris Owings was ruled to have caught Kevan Smith's sinking line drive, White Sox manager Rick Renteria challenged the ruling; the call was overturned by replay"
-"ARI201706060",41,"Diamondbacks catcher Chris Herrmann left the game due to an injured hand"
-"ARI201706070",70,"replay,7,owinc001,ARI,kellj901,PHO01,,Y,M,ARI,A $when Paul Goldschmidt was called out at HP, D-Backs manager Torey Lovullo challenged the ruling; the call was overturned by replay"
-"ARI201706080",2,"replay,1,solay001,SDN,kellj901,PHO01,,Y,M,ARI,A $when Jose Pirela was called safe at 3B, D-Backs manager Torey Lovullo challenged the ruling; the call was overturned by replay"
-"ARI201706080",21,"replay,2,blang001,ARI,kellj901,PHO01,,Y,M,SDN,A $when Nick Ahmed was called safe at 3B, Padres manager Andy Green challenged the ruling; the call was overturned by replay"
-"ARI201706080",49,"$Allen Cordoba called for interference for running into his own bunt"
-"ARI201706100",8,"replay,1,lambj001,ARI,gormb901,PHO01,,Y,M,MIL,A $when Paul Goldschmidt was called safe at 2B, Brewers manager Craig Counsell challenged the ruling; the call was overturned by replay"
-"ARI201706100",39,"replay,5,godlz001,ARI,gormb901,PHO01,,Y,M,ARI,A replay,5,godlz001,ARI,gormb901,PHO01,,Y,M,ARI,P $when Rey Fuentes was called out at HP, D-Backs manager Torey Lovullo challenged the ruling; the call was overturned by replay; there were two challenges: one on the tag and one on blocking HP"
-"ARI201706110",57,"replay,7,herrc001,ARI,gormb901,PHO01,F,N,U,,H $Chris Herrmann's fly to LF bounced off the top of the fence and caromed over; it was called a foul ball; crew chief Brian Gorman requested a review, which upheld the call"
-"ARI201706240",69,"$Phillies challenged call of fan interference; call was upheld - double"
-"ARI201706250",49,"$Diamondbacks challenged call of fair ball; call upheld  - single"
-"ARI201706280",25,"Diamondbacks challenged call of hit by pitch; call was upheld - hit by pitch"
-"ARI201706280",35,"ej,mathj001,P,reybd901,Arguing called third strike ej,lovut001,M,reybd901,Arguing called third strike $Diamondbacks Mathis and manager Lovullo ejected for arguing called third strike"
-"ARI201706290",58,"$Cardinals challenged out call at first; call overturned  - error, not single"
-"ARI201707020",33,"$Ian Desmond left with injured leg"
-"ARI201707020",41,"$Rockies challenged call that Marte was safe for stolen base; call was overturned - caught stealing"
-"ARI201707070",2,"$Batter Hamilton out for interferring with throw to complete DP"
-"ARI201707090",46,"ej,suare001,P,onorb901,Arguing called third strike $Eugenio Suarez argued called third strike and was ejected by plate umpire Brian O'Nora"
-"ARI201707230",41,"$Diamondbacks challenged call that Blanco was out at 1st; call was upheld - out"
-"ARI201707240",30,"$Umpires reviewed to see if Freeman's hit were a home run; call was upheld - double"
-"ARI201707250",78,"$Braves challenged call that Markakis was out at 1st; cal was upheld - out"
-"ARI201707260",11,"$Diamondbacks challenged call that Blanco was out trying to steal 3rd; call was overturned - stolen base"
-"ARI201708080",58,"$Diamondbacks challenged call that Peralta was out at first; call was upheld - ground out"
-"ARI201708100",44,"$Dodgers challenged call that Forsythe was out at 1st; call was overturned - single"
-"ARI201708120",35,"$Cubs challenged call that Baez was out at home; call was upheld - out on fielder's choice"
-"ARI201708130",23,"$Diamondbacks challenged call thata Caratini was safe at 2nd during rundown; call was upheld - safe"
-"ARI201708130",61,"$Cubs challenged call that Almora was out at 1st; call was upheld - ground out"
-"ARI201708140",26,"$Astros challenged call that Gurriel was out at 1st; call was overturned - single"
-"ARI201708260",37,"$Ketel Marte left with injured leg"
-"ARI201708260",43,"$Giants challenged call that Pollock was safe at 1st; call was upheld - force out - no double play"
-"ARI201708270",4,"$Diamondbacks challed call that Posey was safe at 1st; call was overturned - out at first to complete double play"
-"ARI201708270",36,"ej,perad001,P,kulpr901,Arguing balls and strikes $After striking out on a foul tip, David Peralta slammed his bat on the ground and was ejected by plate umpire Kulpa; he was angry about earlier called strikes"
-"ARI201708270",43,"$Diamondbacks challenged call that Goldschmidt was out at 2nd; call was upheld - caught stealing"
-"ARI201708290",69,"$Dodgers chalenged call that third pitch to Utley was a foul ball; call was upheld - foul"
-"ARI201709090",58,"$Padres challenged call that Martinez was safe at 2nd; call was overturned - single and out stretching"
-"ARI201709110",29,"$Rockies challenged call that MArtinez was safe at first; call was upheld - single"
-"ARI201709110",29,"$Kyle Freeland left with injured shoulder"
-"ARI201709120",68,"$Diamondbacks challenged call that Goldschmidt was out at 1st; call was upheld - ground out"
-"ARI201709220",68,"$Marlins challenged call that Realmuto was out at 2nd; call was overturned - double"
-"ARI201709230",40,"$Marlins challenged call that Yelic was out at home; call was overturned - safe for run"
-"ARI201709240",59,"umpchange,8,umphome,hoyej901 umpchange,8,ump1b,timmt901 umpchange,8,ump2b,(None) $Ketel let go of bat on follow through and it hit plate umpire Kellogg in the head; he left after one more batter and game was finished with three umpires"
-"ARI201709250",77,"$Diamondbacks challenged call that Fuentes was out at 2nd; call was upheld - forceout"
-"ARI201709270",71,"$Diamondbacks challenged call that Lamb was out at home; call was upheld - out on fielder's choice"
-"ARI201704020",42,"replay,6,herng001,SFN,gibsg901,PHO01,,Y,M,ARI,A $when the pitch bounced away from catcher Jeff Mathis, Eduardo Nunez attempted to advance to 3B; when Nunez was called safe, D-Backs manager Torey Lovullo challenged the ruling; the call was overturned by replay"
-"ARI201704020",54,"replay,7,beltb001,SFN,gibsg901,PHO01,,N,M,SFN,A $when Denard Span was called out at 1B, Giants manager Bruce Bochy challenged the ruling; the call was upheld by replay"
-"ARI201704050",16,"replay,2,drurb001,ARI,gibsg901,PHO01,,Y,M,ARI,C $when Brandon Drury was called out at 1B, D-backs manager Torey Lovullo challenged the ruling; the call was overturned by replay"
-"ARI201704080",70,"replay,8,lambj001,ARI,barrt901,PHO01,,N,M,CLE,C $when Jake Lamb was called safe at 1B, Indians manager Terry Francona challenged the ruling; the call was upheld by replay"
-"ARI201704090",54,"replay,7,jacka001,CLE,barrt901,PHO01,,Y,M,CLE,C replay,7,jacka001,CLE,barrt901,PHO01,,N,M,CLE,Q replay,7,jacka001,CLE,barrt901,PHO01,,N,M,ARI,E $when Yan Gomes was called out at 2B, Indians manager Terry Francona challenged the ruling; the call was overturned by replay; then Francona asked about runner placement due to the overthrow at 1B; the umpires huddled and then crew chief Ted Barrett requested a review; the runners remained at 1B and 2B; D-backs manager Torey Lovullo challenged the slide at 2B; it was updheld as legal by replay"
-"ARI201704090",55,"replay,7,martm003,CLE,barrt901,PHO01,,Y,M,ARI,C $when Michael Martinez was called safe at 1B, D-backs manager Torey Lovullo challenged the ruling; the call was overturned by replay"
-"ARI201704210",63,"replay,7,goldp001,ARI,wintm901,PHO01,,Y,M,LAN,S $when Paul Goldschmidt's hit got stuck under the padding on the wall, Goldschmidt reached 3B; Dodgers' CF Joc Pederson pulled the ball out instead of signalling to the umpires and the ball as ruled in play; Dodgers manager Dave Roberts challenged the call, which was overturned by replay; Goldschmidt was sent back to 2B"
-"ARI201704220",6,"replay,1,perad001,ARI,wintm901,PHO01,O,N,U,,H $David Peralta's fly to CF struck the yellow stripe at the end of the seating area to the right of the batter's eye; the ball was ruled in play; crew chief Mike Winters requested a review, which upheld the call"
-"ARI201704220",53,"replay,6,gonza003,LAN,wintm901,PHO01,,Y,M,LAN,C $when Adrian Gonzalez was called out at 1B, Dodgers manager Dave Roberts challenged the ruling; the call was overturned by replay"
-"ARI201704230",49,"Dodgers center fielder Joc Pederson left the game due to an injured groin"
-"ARI201704240",56,"replay,7,margm001,SDN,cedeg901,PHO01,,N,M,ARI,C $when Manuel Margot was called safe at 1B, D-Backs manager Torey Lovullo challenged the ruling; the call was upheld by replay"
-"ARI201704260",13,"$Jabari Blash was struck by the throw to 1B and was called for batter interference"
-"ARI201704260",51,"Diamondbacks second baseman Brandon Drury left the game due to an injured knee"
-"ARI201704280",15,"replay,2,perad001,ARI,laynj901,PHO01,,Y,M,COL,D $when Charlie Blackmon was ruled not to have caught the line drive, Rockies manager Bud Black challenged the ruling; the call was overturned by replay"
-"ARI201704300",75,"$A.J. Pollock ran into 2Bman DJ LeMahieu who was trying to field the grounder; Pollock called for interference"
-"ARI201704300",100,"replay,13,drurb001,ARI,laynj901,PHO01,,N,M,COL,C $when Brandon Drury was called safe at 1B, Rockies manager Bud Black challenged the ruling; the call was upheld by replay"
-"ARI201705090",28,"replay,3,tomay001,ARI,millb901,PHO01,,N,M,DET,A $when Paul Goldschmidt was called safe at HP, Tigers manager Brad Ausmus challenged the ruling; the call call was upheld by replay"
-"ARI201705110",17,"replay,3,ngoeg001,PIT,mealj901,PHO01,,Y,M,ARI,A $when Jordy Mercer was called safe at 2B, D-Backs manager Torey Lovullo challenged the ruling; the call was overturned by replay"
-"ARI201705110",61,"replay,9,cervf001,PIT,mealj901,PHO01,,N,M,PIT,A $when Josh Harrison was called out at 2B, Pirates manager Clint Hurdle challenged the ruling; the call was upheld by replay"
-"ARI201705120",69,"$Chris Iannetta struck on the face by a pitch"
-"ARI201705150",63,"replay,8,goldp001,ARI,wegnm901,PHO01,O,Y,U,,H $Paul Goldschmidt's fly to CF struck the wall on the yellow line; the ball was ruled a home run; acting crew chief Mark Wegner requested a review, which overturned the call to a ball in play; Goldschmidt was awarded 2B"
-"ARI201705220",45,"replay,6,fuenr001,ARI,barrt901,PHO01,,N,M,CHA,C $when Jake Lamb was called safe at HP, White Sox manager Rick Renteria challenged the ruling; the call was upheld by replay"
-"ARI201705230",26,"White Sox pitcher Dylan Covey left the game due to an injured side"
-"ARI201705230",35,"replay,4,herrc001,ARI,barrt901,PHO01,,Y,M,CHA,C $when Brandon Drury was called safe at 2B, White Sox manager Rick Renteria challenged the ruling; the call was overturned by replay"
-"ARI201705240",32,"replay,5,smitk002,CHA,barrt901,PHO01,,Y,M,CHA,T $when Chris Owings was ruled to have caught Kevan Smith's sinking line drive, White Sox manager Rick Renteria challenged the ruling; the call was overturned by replay"
-"ARI201706060",41,"Diamondbacks catcher Chris Herrmann left the game due to an injured hand"
-"ARI201706070",70,"replay,7,owinc001,ARI,kellj901,PHO01,,Y,M,ARI,A $when Paul Goldschmidt was called out at HP, D-Backs manager Torey Lovullo challenged the ruling; the call was overturned by replay"
-"ARI201706080",2,"replay,1,solay001,SDN,kellj901,PHO01,,Y,M,ARI,A $when Jose Pirela was called safe at 3B, D-Backs manager Torey Lovullo challenged the ruling; the call was overturned by replay"
-"ARI201706080",21,"replay,2,blang001,ARI,kellj901,PHO01,,Y,M,SDN,A $when Nick Ahmed was called safe at 3B, Padres manager Andy Green challenged the ruling; the call was overturned by replay"
-"ARI201706080",49,"$Allen Cordoba called for interference for running into his own bunt"
-"ARI201706100",8,"replay,1,lambj001,ARI,gormb901,PHO01,,Y,M,MIL,A $when Paul Goldschmidt was called safe at 2B, Brewers manager Craig Counsell challenged the ruling; the call was overturned by replay"
-"ARI201706100",39,"replay,5,godlz001,ARI,gormb901,PHO01,,Y,M,ARI,A replay,5,godlz001,ARI,gormb901,PHO01,,Y,M,ARI,P $when Rey Fuentes was called out at HP, D-Backs manager Torey Lovullo challenged the ruling; the call was overturned by replay; there were two challenges: one on the tag and one on blocking HP"
-"ARI201706110",57,"replay,7,herrc001,ARI,gormb901,PHO01,F,N,U,,H $Chris Herrmann's fly to LF bounced off the top of the fence and caromed over; it was called a foul ball; crew chief Brian Gorman requested a review, which upheld the call"
-"ARI201706240",69,"$Phillies challenged call of fan interference; call was upheld - double"
-"ARI201706250",49,"$Diamondbacks challenged call of fair ball; call upheld  - single"
-"ARI201706280",25,"Diamondbacks challenged call of hit by pitch; call was upheld - hit by pitch"
-"ARI201706280",35,"ej,mathj001,P,reybd901,Called third strike ej,lovut001,M,reybd901,Called third strike $Mathis and Diamondbacks manager Lovullo ejected by HP umpire Reyburn arguing called third strike"
-"ARI201706290",58,"$Cardinals challenged out call at first; call overturned  - error, not single"
-"ARI201707020",33,"$Ian Desmond left with injured leg"
-"ARI201707020",41,"$Rockies challenged call that Marte was safe for stolen base; call was overturned - caught stealing"
-"ARI201707070",2,"$Batter Hamilton out for interferring with throw to complete DP"
-"ARI201707090",46,"ej,suare001,P,onorb901,Arguing called third strike $Eugenio Suarez argued called third strike and was ejected by plate umpire Brian O'Nora"
-"ARI201707230",41,"$Diamondbacks challenged call that Blanco was out at 1st; call was upheld - out"
-"ARI201707240",30,"$Umpires reviewed to see if Freeman's hit were a home run; call was upheld - double"
-"ARI201707250",78,"$Braves challenged call that Markakis was out at 1st; cal was upheld - out"
-"ARI201707260",11,"$Diamondbacks challenged call that Blanco was out trying to steal 3rd; call was overturned - stolen base"
-"ARI201708080",58,"$Diamondbacks challenged call that Peralta was out at first; call was upheld - ground out"
-"ARI201708100",44,"$Dodgers challenged call that Forsythe was out at 1st; call was overturned - single"
-"ARI201708120",35,"$Cubs challenged call that Baez was out at home; call was upheld - out on fielder's choice"
-"ARI201708130",23,"$Diamondbacks challenged call thata Caratini was safe at 2nd during rundown; call was upheld - safe"
-"ARI201708130",61,"$Cubs challenged call that Almora was out at 1st; call was upheld - ground out"
-"ARI201708140",26,"$Astros challenged call that Gurriel was out at 1st; call was overturned - single"
-"ARI201708260",37,"$Ketel Marte left with injured leg"
-"ARI201708260",43,"$Giants challenged call that Pollock was safe at 1st; call was upheld - force out - no double play"
-"ARI201708270",4,"$Diamondbacks challed call that Posey was safe at 1st; call was overturned - out at first to complete double play"
-"ARI201708270",36,"ej,perad001,P,kulpr901,Arguing balls and strikes $After striking out on a foul tip, David Peralta slammed his bat on the ground and was ejected by plate umpire Kulpa; he was angry about earlier called strikes"
-"ARI201708270",43,"$Diamondbacks challenged call that Goldschmidt was out at 2nd; call was upheld - caught stealing"
-"ARI201708290",69,"$Dodgers chalenged call that third pitch to Utley was a foul ball; call was upheld - foul"
-"ARI201709090",58,"$Padres challenged call that Martinez was safe at 2nd; call was overturned - single and out stretching"
-"ARI201709110",29,"$Rockies challenged call that MArtinez was safe at first; call was upheld - single"
-"ARI201709110",29,"$Kyle Freeland left with injured shoulder"
-"ARI201709120",68,"$Diamondbacks challenged call that Goldschmidt was out at 1st; call was upheld - ground out"
-"ARI201709220",68,"$Marlins challenged call that Realmuto was out at 2nd; call was overturned - double"
-"ARI201709230",40,"$Marlins challenged call that Yelic was out at home; call was overturned - safe for run"
-"ARI201709240",59,"umpchange,8,umphome,hoyej901 umpchange,8,ump1b,timmt901 umpchange,8,ump2b,(None) $Ketel let go of bat on follow through and it hit plate umpire Kellogg in the head; he left after one more batter and game was finished with three umpires"
-"ARI201709250",77,"$Diamondbacks challenged call that Fuentes was out at 2nd; call was upheld - forceout"
-"ARI201709270",71,"$Diamondbacks challenged call that Lamb was out at home; call was upheld - out on fielder's choice"
+"ARI201704020",42,"replay,6,herng001,SFN,gibsg901,PHO01,,Y,M,ARI,A $when the pitch bounced away from catcher Jeff Mathis, Eduardo Nunez attempted to advance to 3B; when Nunez was called safe, D-Backs manager Torey Lovullo challenged the ruling; the call was overturned by replay"FILENAME_TX","LINE_NUMBER_CT"
+
+"ARI201704020",54,"replay,7,beltb001,SFN,gibsg901,PHO01,,N,M,SFN,A $when Denard Span was called out at 1B, Giants manager Bruce Bochy challenged the ruling; the call was upheld by replay"2017ARI.EVN.regular.comment.csv",2
+
+"ARI201704050",16,"replay,2,drurb001,ARI,gibsg901,PHO01,,Y,M,ARI,C $when Brandon Drury was called out at 1B, D-backs manager Torey Lovullo challenged the ruling; the call was overturned by replay"2017ARI.EVN.regular.comment.csv",3
+
+"ARI201704080",70,"replay,8,lambj001,ARI,barrt901,PHO01,,N,M,CLE,C $when Jake Lamb was called safe at 1B, Indians manager Terry Francona challenged the ruling; the call was upheld by replay"2017ARI.EVN.regular.comment.csv",4
+
+"ARI201704090",54,"replay,7,jacka001,CLE,barrt901,PHO01,,Y,M,CLE,C replay,7,jacka001,CLE,barrt901,PHO01,,N,M,CLE,Q replay,7,jacka001,CLE,barrt901,PHO01,,N,M,ARI,E $when Yan Gomes was called out at 2B, Indians manager Terry Francona challenged the ruling; the call was overturned by replay; then Francona asked about runner placement due to the overthrow at 1B; the umpires huddled and then crew chief Ted Barrett requested a review; the runners remained at 1B and 2B; D-backs manager Torey Lovullo challenged the slide at 2B; it was updheld as legal by replay"2017ARI.EVN.regular.comment.csv",5
+
+"ARI201704090",55,"replay,7,martm003,CLE,barrt901,PHO01,,Y,M,ARI,C $when Michael Martinez was called safe at 1B, D-backs manager Torey Lovullo challenged the ruling; the call was overturned by replay"2017ARI.EVN.regular.comment.csv",6
+
+"ARI201704210",63,"replay,7,goldp001,ARI,wintm901,PHO01,,Y,M,LAN,S $when Paul Goldschmidt's hit got stuck under the padding on the wall, Goldschmidt reached 3B; Dodgers' CF Joc Pederson pulled the ball out instead of signalling to the umpires and the ball as ruled in play; Dodgers manager Dave Roberts challenged the call, which was overturned by replay; Goldschmidt was sent back to 2B"2017ARI.EVN.regular.comment.csv",7
+
+"ARI201704220",6,"replay,1,perad001,ARI,wintm901,PHO01,O,N,U,,H $David Peralta's fly to CF struck the yellow stripe at the end of the seating area to the right of the batter's eye; the ball was ruled in play; crew chief Mike Winters requested a review, which upheld the call"2017ARI.EVN.regular.comment.csv",8
+
+"ARI201704220",53,"replay,6,gonza003,LAN,wintm901,PHO01,,Y,M,LAN,C $when Adrian Gonzalez was called out at 1B, Dodgers manager Dave Roberts challenged the ruling; the call was overturned by replay"2017ARI.EVN.regular.comment.csv",9
+
+"ARI201704230",49,"Dodgers center fielder Joc Pederson left the game due to an injured groin"2017ARI.EVN.regular.comment.csv",10
+
+"ARI201704240",56,"replay,7,margm001,SDN,cedeg901,PHO01,,N,M,ARI,C $when Manuel Margot was called safe at 1B, D-Backs manager Torey Lovullo challenged the ruling; the call was upheld by replay"2017ARI.EVN.regular.comment.csv",11
+
+"ARI201704260",13,"$Jabari Blash was struck by the throw to 1B and was called for batter interference"2017ARI.EVN.regular.comment.csv",12
+
+"ARI201704260",51,"Diamondbacks second baseman Brandon Drury left the game due to an injured knee"2017ARI.EVN.regular.comment.csv",13
+
+"ARI201704280",15,"replay,2,perad001,ARI,laynj901,PHO01,,Y,M,COL,D $when Charlie Blackmon was ruled not to have caught the line drive, Rockies manager Bud Black challenged the ruling; the call was overturned by replay"2017ARI.EVN.regular.comment.csv",14
+
+"ARI201704300",75,"$A.J. Pollock ran into 2Bman DJ LeMahieu who was trying to field the grounder; Pollock called for interference"2017ARI.EVN.regular.comment.csv",15
+
+"ARI201704300",100,"replay,13,drurb001,ARI,laynj901,PHO01,,N,M,COL,C $when Brandon Drury was called safe at 1B, Rockies manager Bud Black challenged the ruling; the call was upheld by replay"2017ARI.EVN.regular.comment.csv",16
+
+"ARI201705090",28,"replay,3,tomay001,ARI,millb901,PHO01,,N,M,DET,A $when Paul Goldschmidt was called safe at HP, Tigers manager Brad Ausmus challenged the ruling; the call call was upheld by replay"2017ARI.EVN.regular.comment.csv",17
+
+"ARI201705110",17,"replay,3,ngoeg001,PIT,mealj901,PHO01,,Y,M,ARI,A $when Jordy Mercer was called safe at 2B, D-Backs manager Torey Lovullo challenged the ruling; the call was overturned by replay"2017ARI.EVN.regular.comment.csv",18
+
+"ARI201705110",61,"replay,9,cervf001,PIT,mealj901,PHO01,,N,M,PIT,A $when Josh Harrison was called out at 2B, Pirates manager Clint Hurdle challenged the ruling; the call was upheld by replay"2017ARI.EVN.regular.comment.csv",19
+
+"ARI201705120",69,"$Chris Iannetta struck on the face by a pitch"2017ARI.EVN.regular.comment.csv",20
+
+"ARI201705150",63,"replay,8,goldp001,ARI,wegnm901,PHO01,O,Y,U,,H $Paul Goldschmidt's fly to CF struck the wall on the yellow line; the ball was ruled a home run; acting crew chief Mark Wegner requested a review, which overturned the call to a ball in play; Goldschmidt was awarded 2B"2017ARI.EVN.regular.comment.csv",21
+
+"ARI201705220",45,"replay,6,fuenr001,ARI,barrt901,PHO01,,N,M,CHA,C $when Jake Lamb was called safe at HP, White Sox manager Rick Renteria challenged the ruling; the call was upheld by replay"2017ARI.EVN.regular.comment.csv",22
+
+"ARI201705230",26,"White Sox pitcher Dylan Covey left the game due to an injured side"2017ARI.EVN.regular.comment.csv",23
+
+"ARI201705230",35,"replay,4,herrc001,ARI,barrt901,PHO01,,Y,M,CHA,C $when Brandon Drury was called safe at 2B, White Sox manager Rick Renteria challenged the ruling; the call was overturned by replay"2017ARI.EVN.regular.comment.csv",24
+
+"ARI201705240",32,"replay,5,smitk002,CHA,barrt901,PHO01,,Y,M,CHA,T $when Chris Owings was ruled to have caught Kevan Smith's sinking line drive, White Sox manager Rick Renteria challenged the ruling; the call was overturned by replay"2017ARI.EVN.regular.comment.csv",25
+
+"ARI201706060",41,"Diamondbacks catcher Chris Herrmann left the game due to an injured hand"2017ARI.EVN.regular.comment.csv",26
+
+"ARI201706070",70,"replay,7,owinc001,ARI,kellj901,PHO01,,Y,M,ARI,A $when Paul Goldschmidt was called out at HP, D-Backs manager Torey Lovullo challenged the ruling; the call was overturned by replay"2017ARI.EVN.regular.comment.csv",27
+
+"ARI201706080",2,"replay,1,solay001,SDN,kellj901,PHO01,,Y,M,ARI,A $when Jose Pirela was called safe at 3B, D-Backs manager Torey Lovullo challenged the ruling; the call was overturned by replay"2017ARI.EVN.regular.comment.csv",28
+
+"ARI201706080",21,"replay,2,blang001,ARI,kellj901,PHO01,,Y,M,SDN,A $when Nick Ahmed was called safe at 3B, Padres manager Andy Green challenged the ruling; the call was overturned by replay"2017ARI.EVN.regular.comment.csv",29
+
+"ARI201706080",49,"$Allen Cordoba called for interference for running into his own bunt"2017ARI.EVN.regular.comment.csv",30
+
+"ARI201706100",8,"replay,1,lambj001,ARI,gormb901,PHO01,,Y,M,MIL,A $when Paul Goldschmidt was called safe at 2B, Brewers manager Craig Counsell challenged the ruling; the call was overturned by replay"2017ARI.EVN.regular.comment.csv",31
+
+"ARI201706100",39,"replay,5,godlz001,ARI,gormb901,PHO01,,Y,M,ARI,A replay,5,godlz001,ARI,gormb901,PHO01,,Y,M,ARI,P $when Rey Fuentes was called out at HP, D-Backs manager Torey Lovullo challenged the ruling; the call was overturned by replay; there were two challenges: one on the tag and one on blocking HP"2017ARI.EVN.regular.comment.csv",32
+
+"ARI201706110",57,"replay,7,herrc001,ARI,gormb901,PHO01,F,N,U,,H $Chris Herrmann's fly to LF bounced off the top of the fence and caromed over; it was called a foul ball; crew chief Brian Gorman requested a review, which upheld the call"2017ARI.EVN.regular.comment.csv",33
+
+"ARI201706240",69,"$Phillies challenged call of fan interference; call was upheld - double"2017ARI.EVN.regular.comment.csv",34
+
+"ARI201706250",49,"$Diamondbacks challenged call of fair ball; call upheld  - single"2017ARI.EVN.regular.comment.csv",35
+
+"ARI201706280",25,"Diamondbacks challenged call of hit by pitch; call was upheld - hit by pitch"2017ARI.EVN.regular.comment.csv",36
+
+"ARI201706280",35,"ej,mathj001,P,reybd901,Called third strike ej,lovut001,M,reybd901,Called third strike $Mathis and Diamondbacks manager Lovullo ejected by HP umpire Reyburn arguing called third strike"2017ARI.EVN.regular.comment.csv",37
+
+"ARI201706290",58,"$Cardinals challenged out call at first; call overturned  - error, not single"2017ARI.EVN.regular.comment.csv",38
+
+"ARI201707020",33,"$Ian Desmond left with injured leg"2017ARI.EVN.regular.comment.csv",39
+
+"ARI201707020",41,"$Rockies challenged call that Marte was safe for stolen base; call was overturned - caught stealing"2017ARI.EVN.regular.comment.csv",40
+
+"ARI201707070",2,"$Batter Hamilton out for interferring with throw to complete DP"2017ARI.EVN.regular.comment.csv",41
+
+"ARI201707090",46,"ej,suare001,P,onorb901,Arguing called third strike $Eugenio Suarez argued called third strike and was ejected by plate umpire Brian O'Nora"2017ARI.EVN.regular.comment.csv",42
+
+"ARI201707230",41,"$Diamondbacks challenged call that Blanco was out at 1st; call was upheld - out"2017ARI.EVN.regular.comment.csv",43
+
+"ARI201707240",30,"$Umpires reviewed to see if Freeman's hit were a home run; call was upheld - double"2017ARI.EVN.regular.comment.csv",44
+
+"ARI201707250",78,"$Braves challenged call that Markakis was out at 1st; cal was upheld - out"2017ARI.EVN.regular.comment.csv",45
+
+"ARI201707260",11,"$Diamondbacks challenged call that Blanco was out trying to steal 3rd; call was overturned - stolen base"2017ARI.EVN.regular.comment.csv",46
+
+"ARI201708080",58,"$Diamondbacks challenged call that Peralta was out at first; call was upheld - ground out"2017ARI.EVN.regular.comment.csv",47
+
+"ARI201708100",44,"$Dodgers challenged call that Forsythe was out at 1st; call was overturned - single"2017ARI.EVN.regular.comment.csv",48
+
+"ARI201708120",35,"$Cubs challenged call that Baez was out at home; call was upheld - out on fielder's choice"2017ARI.EVN.regular.comment.csv",49
+
+"ARI201708130",23,"$Diamondbacks challenged call thata Caratini was safe at 2nd during rundown; call was upheld - safe"2017ARI.EVN.regular.comment.csv",50
+
+"ARI201708130",61,"$Cubs challenged call that Almora was out at 1st; call was upheld - ground out"2017ARI.EVN.regular.comment.csv",51
+
+"ARI201708140",26,"$Astros challenged call that Gurriel was out at 1st; call was overturned - single"2017ARI.EVN.regular.comment.csv",52
+
+"ARI201708260",37,"$Ketel Marte left with injured leg"2017ARI.EVN.regular.comment.csv",53
+
+"ARI201708260",43,"$Giants challenged call that Pollock was safe at 1st; call was upheld - force out - no double play"2017ARI.EVN.regular.comment.csv",54
+
+"ARI201708270",4,"$Diamondbacks challed call that Posey was safe at 1st; call was overturned - out at first to complete double play"2017ARI.EVN.regular.comment.csv",55
+
+"ARI201708270",36,"ej,perad001,P,kulpr901,Arguing balls and strikes $After striking out on a foul tip, David Peralta slammed his bat on the ground and was ejected by plate umpire Kulpa; he was angry about earlier called strikes"2017ARI.EVN.regular.comment.csv",56
+
+"ARI201708270",43,"$Diamondbacks challenged call that Goldschmidt was out at 2nd; call was upheld - caught stealing"2017ARI.EVN.regular.comment.csv",57
+
+"ARI201708290",69,"$Dodgers chalenged call that third pitch to Utley was a foul ball; call was upheld - foul"2017ARI.EVN.regular.comment.csv",58
+
+"ARI201709090",58,"$Padres challenged call that Martinez was safe at 2nd; call was overturned - single and out stretching"2017ARI.EVN.regular.comment.csv",59
+
+"ARI201709110",29,"$Rockies challenged call that MArtinez was safe at first; call was upheld - single"2017ARI.EVN.regular.comment.csv",60
+
+"ARI201709110",29,"$Kyle Freeland left with injured shoulder"2017ARI.EVN.regular.comment.csv",61
+
+"ARI201709120",68,"$Diamondbacks challenged call that Goldschmidt was out at 1st; call was upheld - ground out"2017ARI.EVN.regular.comment.csv",62
+
+"ARI201709220",68,"$Marlins challenged call that Realmuto was out at 2nd; call was overturned - double"2017ARI.EVN.regular.comment.csv",63
+
+"ARI201709230",40,"$Marlins challenged call that Yelic was out at home; call was overturned - safe for run"2017ARI.EVN.regular.comment.csv",64
+
+"ARI201709240",59,"umpchange,8,umphome,hoyej901 umpchange,8,ump1b,timmt901 umpchange,8,ump2b,(None) $Ketel let go of bat on follow through and it hit plate umpire Kellogg in the head; he left after one more batter and game was finished with three umpires"2017ARI.EVN.regular.comment.csv",65
+
+"ARI201709250",77,"$Diamondbacks challenged call that Fuentes was out at 2nd; call was upheld - forceout"2017ARI.EVN.regular.comment.csv",66
+
+"ARI201709270",71,"$Diamondbacks challenged call that Lamb was out at home; call was upheld - out on fielder's choice"2017ARI.EVN.regular.comment.csv",67
+

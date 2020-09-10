@@ -1,93 +1,92 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"DET198704250",4,"Debut game for Bill Bean"
-"DET198705110",80,"Debut game for Mike Henneman"
-"DET198705120",28,"$Mike Heath picked up dropped ball with mask which is against the rules (detached equipment)"
-"DET198705150",55,"$Chet Lemon ran into his own bunt"
-"DET198705250",69,"ej,lemoc001,P,kaisk901,Arguing failure to call balk Chet Lemon ejected by 1B umpire Ken Kaiser for failure to call a balk on Mitch Williams' pickoff move"
-"DET198705260",1,"Debut game for Bob Malloy"
-"DET198705260",2,"$Oddibe McDowell hurt sliding into 3B; left game after inning"
-"DET198705290",22,"Other scoresheet showed pop to 2B"
-"DET198705290",67,"Other scoresheet shows SF to LF"
-"DET198705311",16,"Debut game for Jim Walewander"
-"DET198706100",5,"$small earthquake tremor (15 seconds) before 2nd pitch"
-"DET198706100",71,"$throw caught Chet Lemon off 2B"
-"DET198706110",65,"Debut game for Morris Madden"
-"DET198706110",76,"$Greg Brock pulled hamstring going into 3B"
-"DET198706120",21,"$Chet Lemon hit on hand"
-"DET198706130",14,"$liner off Bob Stanley's shin; removed later"
-"DET198706270",5,"$Darrell Evans' 2000th hit"
-"DET198706270",56,"$Mike Boddicker left because of back spasms"
-"DET198706270",69,"$Rene Gonzales takes 2B on throw; 3B on Chet Lemon's error"
-"DET198707160",59,"$Phil Bradley injured on play"
-"DET198707160",75,"$ball hit 3B bag"
-"DET198707170",13,"$Larry Herndon caught in rundown; hit in back by Jim Presley's throw"
-"DET198707200",50,"$Jeff Robinson wanted to throw to 2B but nobody covered"
-"DET198707200",65,"$Mike Davis and Luis Polonia collided; Darrell Evans overslid 2B"
-"DET198707240",35,"24 minute rain delay"
-"DET198707240",42,"$Jack Morris left game due to slight groin pull in right leg"
-"DET198707240",53,"ej,maucg101,M,cobld901,Called third strike on Pettis ej,pettg001,P,cobld901,Called third strike Gary Pettis and Angels manager Gene Mauch ejected by HP umpire Drew Coble"
-"DET198707250",14,"$Chet Lemon overslid 2B bag"
-"DET198708280",9,"$throw to 2B but nobody covered"
-"DET198708280",48,"$Mike Stanley hurt by foul tip"
-"DET198708290",38,"$Oddibe McDowell hit a fly down the RF line which was ruled a home run by 1B umpire Joe Brinkman; HP umpire Tim Welke overturned the call to a foul ball for strike two"
-"DET198708300",61,"$Charlie Hough did not cover HP; Gene Petralli set AL and tied ML record with sixth PB of game"
-"DET198709010",79,"Debut game for Scott Lusader"
-"DET198709160",0,"1:26 rain delay before start of game"
-"DET198709160",17,"$Chet Lemon fell rounding 3B"
-"DET198709190",27,"$Glenn Braggs rounded 3B too far"
-"DET198709200",2,"$Robin Yount's liner off 2B umpire Steve Palermo into RF"
-"DET198709280",53,"$Rene Gonzalez bunted foul on second strike; missed bunt for strike 3"
-"DET198709280",56,"ej,ripkc801,M,merrd901,Called third strike $Cal Ripken Jr and Sr argue the called third strike with HP umpire Durwood Merrill; Ripken Sr ejected by Merrill"
-"DET198709290",21,"$Jim Walewander, running on 3-2 count, goes to 3B on WP"
-"DET198709290",58,"Hart enters here (2 scoresheets), but not according to MLB"
-"DET198710010",62,"ej,dwyej001,P,hirsj901,Balls and strikes Jim Dwyer ejected by HP umpire John Hirschbeck when the first pitch is called a strike"
-"DET198710010",65,"ej,ripkc801,M,merrd901,Call at 1B $liner off pitcher Mark Williamson to SS Cal Ripken Jr; the throw to 1B was late; Orioles manager Cal Ripken Sr ejected by 1B umpire Durwood Merrill"
-"DET198710020",29,"$ball jarred out of glove"
-"DET198710020",43,"Doyle Alexander tipped ball"
-"DET198710020",47,"$pitcher David Wells did not get to 1B in time"
-"DET198704250",4,"Debut game for Bill Bean"
-"DET198705110",80,"Debut game for Mike Henneman"
-"DET198705120",28,"$Mike Heath picked up dropped ball with mask which is against the rules (detached equipment)"
-"DET198705150",55,"$Chet Lemon ran into his own bunt"
-"DET198705250",69,"ej,lemoc001,P,kaisk901,Arguing failure to call balk Chet Lemon ejected by 1B umpire Ken Kaiser for failure to call a balk on Mitch Williams' pickoff move"
-"DET198705260",1,"Debut game for Bob Malloy"
-"DET198705260",2,"$Oddibe McDowell hurt sliding into 3B; left game after inning"
-"DET198705290",22,"Other scoresheet showed pop to 2B"
-"DET198705290",67,"Other scoresheet shows SF to LF"
-"DET198705311",16,"Debut game for Jim Walewander"
-"DET198706100",5,"$small earthquake tremor (15 seconds) before 2nd pitch"
-"DET198706100",71,"$throw caught Chet Lemon off 2B"
-"DET198706110",65,"Debut game for Morris Madden"
-"DET198706110",76,"$Greg Brock pulled hamstring going into 3B"
-"DET198706120",21,"$Chet Lemon hit on hand"
-"DET198706130",14,"$liner off Bob Stanley's shin; removed later"
-"DET198706270",5,"$Darrell Evans' 2000th hit"
-"DET198706270",56,"$Mike Boddicker left because of back spasms"
-"DET198706270",69,"$Rene Gonzales takes 2B on throw; 3B on Chet Lemon's error"
-"DET198707160",59,"$Phil Bradley injured on play"
-"DET198707160",75,"$ball hit 3B bag"
-"DET198707170",13,"$Larry Herndon caught in rundown; hit in back by Jim Presley's throw"
-"DET198707200",50,"$Jeff Robinson wanted to throw to 2B but nobody covered"
-"DET198707200",65,"$Mike Davis and Luis Polonia collided; Darrell Evans overslid 2B"
-"DET198707240",35,"24 minute rain delay"
-"DET198707240",42,"$Jack Morris left game due to slight groin pull in right leg"
-"DET198707240",53,"ej,maucg101,M,cobld901,Called third strike on Pettis ej,pettg001,P,cobld901,Called third strike Gary Pettis and Angels manager Gene Mauch ejected by HP umpire Drew Coble"
-"DET198707250",14,"$Chet Lemon overslid 2B bag"
-"DET198708280",9,"$throw to 2B but nobody covered"
-"DET198708280",48,"$Mike Stanley hurt by foul tip"
-"DET198708290",38,"$Oddibe McDowell hit a fly down the RF line which was ruled a home run by 1B umpire Joe Brinkman; HP umpire Tim Welke overturned the call to a foul ball for strike two"
-"DET198708300",61,"$Charlie Hough did not cover HP; Gene Petralli set AL and tied ML record with sixth PB of game"
-"DET198709010",79,"Debut game for Scott Lusader"
-"DET198709160",0,"1:26 rain delay before start of game"
-"DET198709160",17,"$Chet Lemon fell rounding 3B"
-"DET198709190",27,"$Glenn Braggs rounded 3B too far"
-"DET198709200",2,"$Robin Yount's liner off 2B umpire Steve Palermo into RF"
-"DET198709280",53,"$Rene Gonzalez bunted foul on second strike; missed bunt for strike 3"
-"DET198709280",56,"ej,ripkc801,M,merrd901,Called third strike $Cal Ripken Jr and Sr argue the called third strike with HP umpire Durwood Merrill; Ripken Sr ejected by Merrill"
-"DET198709290",21,"$Jim Walewander, running on 3-2 count, goes to 3B on WP"
-"DET198709290",58,"Hart enters here (2 scoresheets), but not according to MLB"
-"DET198710010",62,"ej,dwyej001,P,hirsj901,Balls and strikes Jim Dwyer ejected by HP umpire John Hirschbeck when the first pitch is called a strike"
-"DET198710010",65,"ej,ripkc801,M,merrd901,Call at 1B $liner off pitcher Mark Williamson to SS Cal Ripken Jr; the throw to 1B was late; Orioles manager Cal Ripken Sr ejected by 1B umpire Durwood Merrill"
-"DET198710020",29,"$ball jarred out of glove"
-"DET198710020",43,"Doyle Alexander tipped ball"
-"DET198710020",47,"$pitcher David Wells did not get to 1B in time"
+"DET198704250",4,"Debut game for Bill Bean"FILENAME_TX","LINE_NUMBER_CT"
+
+"DET198705110",80,"Debut game for Mike Henneman"1987DET.EVA.regular.comment.csv",2
+
+"DET198705120",28,"$Mike Heath picked up dropped ball with mask which is against the rules (detached equipment)"1987DET.EVA.regular.comment.csv",3
+
+"DET198705150",55,"$Chet Lemon ran into his own bunt"1987DET.EVA.regular.comment.csv",4
+
+"DET198705250",69,"ej,lemoc001,P,kaisk901,Arguing failure to call balk Chet Lemon ejected by 1B umpire Ken Kaiser for failure to call a balk on Mitch Williams' pickoff move"1987DET.EVA.regular.comment.csv",5
+
+"DET198705260",1,"Debut game for Bob Malloy"1987DET.EVA.regular.comment.csv",6
+
+"DET198705260",2,"$Oddibe McDowell hurt sliding into 3B; left game after inning"1987DET.EVA.regular.comment.csv",7
+
+"DET198705290",22,"Other scoresheet showed pop to 2B"1987DET.EVA.regular.comment.csv",8
+
+"DET198705290",67,"Other scoresheet shows SF to LF"1987DET.EVA.regular.comment.csv",9
+
+"DET198705311",16,"Debut game for Jim Walewander"1987DET.EVA.regular.comment.csv",10
+
+"DET198706100",5,"$small earthquake tremor (15 seconds) before 2nd pitch"1987DET.EVA.regular.comment.csv",11
+
+"DET198706100",71,"$throw caught Chet Lemon off 2B"1987DET.EVA.regular.comment.csv",12
+
+"DET198706110",65,"Debut game for Morris Madden"1987DET.EVA.regular.comment.csv",13
+
+"DET198706110",76,"$Greg Brock pulled hamstring going into 3B"1987DET.EVA.regular.comment.csv",14
+
+"DET198706120",21,"$Chet Lemon hit on hand"1987DET.EVA.regular.comment.csv",15
+
+"DET198706130",14,"$liner off Bob Stanley's shin; removed later"1987DET.EVA.regular.comment.csv",16
+
+"DET198706270",5,"$Darrell Evans' 2000th hit"1987DET.EVA.regular.comment.csv",17
+
+"DET198706270",56,"$Mike Boddicker left because of back spasms"1987DET.EVA.regular.comment.csv",18
+
+"DET198706270",69,"$Rene Gonzales takes 2B on throw; 3B on Chet Lemon's error"1987DET.EVA.regular.comment.csv",19
+
+"DET198707160",59,"$Phil Bradley injured on play"1987DET.EVA.regular.comment.csv",20
+
+"DET198707160",75,"$ball hit 3B bag"1987DET.EVA.regular.comment.csv",21
+
+"DET198707170",13,"$Larry Herndon caught in rundown; hit in back by Jim Presley's throw"1987DET.EVA.regular.comment.csv",22
+
+"DET198707200",50,"$Jeff Robinson wanted to throw to 2B but nobody covered"1987DET.EVA.regular.comment.csv",23
+
+"DET198707200",65,"$Mike Davis and Luis Polonia collided; Darrell Evans overslid 2B"1987DET.EVA.regular.comment.csv",24
+
+"DET198707240",35,"24 minute rain delay"1987DET.EVA.regular.comment.csv",25
+
+"DET198707240",42,"$Jack Morris left game due to slight groin pull in right leg"1987DET.EVA.regular.comment.csv",26
+
+"DET198707240",53,"ej,maucg101,M,cobld901,Called third strike on Pettis ej,pettg001,P,cobld901,Called third strike Gary Pettis and Angels manager Gene Mauch ejected by HP umpire Drew Coble"1987DET.EVA.regular.comment.csv",27
+
+"DET198707250",14,"$Chet Lemon overslid 2B bag"1987DET.EVA.regular.comment.csv",28
+
+"DET198708280",9,"$throw to 2B but nobody covered"1987DET.EVA.regular.comment.csv",29
+
+"DET198708280",48,"$Mike Stanley hurt by foul tip"1987DET.EVA.regular.comment.csv",30
+
+"DET198708290",38,"$Oddibe McDowell hit a fly down the RF line which was ruled a home run by 1B umpire Joe Brinkman; HP umpire Tim Welke overturned the call to a foul ball for strike two"1987DET.EVA.regular.comment.csv",31
+
+"DET198708300",61,"$Charlie Hough did not cover HP; Gene Petralli set AL and tied ML record with sixth PB of game"1987DET.EVA.regular.comment.csv",32
+
+"DET198709010",79,"Debut game for Scott Lusader"1987DET.EVA.regular.comment.csv",33
+
+"DET198709160",0,"1:26 rain delay before start of game"1987DET.EVA.regular.comment.csv",34
+
+"DET198709160",17,"$Chet Lemon fell rounding 3B"1987DET.EVA.regular.comment.csv",35
+
+"DET198709190",27,"$Glenn Braggs rounded 3B too far"1987DET.EVA.regular.comment.csv",36
+
+"DET198709200",2,"$Robin Yount's liner off 2B umpire Steve Palermo into RF"1987DET.EVA.regular.comment.csv",37
+
+"DET198709280",53,"$Rene Gonzalez bunted foul on second strike; missed bunt for strike 3"1987DET.EVA.regular.comment.csv",38
+
+"DET198709280",56,"ej,ripkc801,M,merrd901,Called third strike $Cal Ripken Jr and Sr argue the called third strike with HP umpire Durwood Merrill; Ripken Sr ejected by Merrill"1987DET.EVA.regular.comment.csv",39
+
+"DET198709290",21,"$Jim Walewander, running on 3-2 count, goes to 3B on WP"1987DET.EVA.regular.comment.csv",40
+
+"DET198709290",58,"Hart enters here (2 scoresheets), but not according to MLB"1987DET.EVA.regular.comment.csv",41
+
+"DET198710010",62,"ej,dwyej001,P,hirsj901,Balls and strikes Jim Dwyer ejected by HP umpire John Hirschbeck when the first pitch is called a strike"1987DET.EVA.regular.comment.csv",42
+
+"DET198710010",65,"ej,ripkc801,M,merrd901,Call at 1B $liner off pitcher Mark Williamson to SS Cal Ripken Jr; the throw to 1B was late; Orioles manager Cal Ripken Sr ejected by 1B umpire Durwood Merrill"1987DET.EVA.regular.comment.csv",43
+
+"DET198710020",29,"$ball jarred out of glove"1987DET.EVA.regular.comment.csv",44
+
+"DET198710020",43,"Doyle Alexander tipped ball"1987DET.EVA.regular.comment.csv",45
+
+"DET198710020",47,"$pitcher David Wells did not get to 1B in time"1987DET.EVA.regular.comment.csv",46
+

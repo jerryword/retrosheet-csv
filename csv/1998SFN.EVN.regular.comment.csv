@@ -1,26 +1,26 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"SFN199804120",56,"ej,snowj001,P,schrp901,Call at HP J.T. Snow ejected by HP umpire Paul Schreiber"
-"SFN199804240",13,"Debut game for Geoff Jenkins"
-"SFN199805110",0,"Debut for umpire Pat Connors"
-"SFN199805170",57,"ej,gilkb001,P,bellw901,Called third strike Bernard Gilkey ejected by HP umpire Wally Bell"
-"SFN199806080",74,"ej,coraj001,P,holbs901,Call at 1B ej,pinil001,M,holbs901,Call at 1B Joey Cora and Mariners manager Lou Piniella ejected by 1B umpire Sam Holbrook"
-"SFN199806100",63,"Debut game for Jeff Ball"
-"SFN199806200",18,"Debut game for Ramon Martinez"
-"SFN199806240",24,"ej,johnb002,P,ripps901,Balls and strikes (while catching) Brian Johnson ejected by HP umpire Steve Rippley while catching"
-"SFN199806250",78,"ej,hayec001,P,wintm901,Balls and strikes Charlie Hayes ejected by HP umpire Mike Winters"
-"SFN199808080",57,"$Rich Aurilia and Joe Carter batted out of turn"
-"SFN199809010",42,"Debut game for Armando Rios"
-"SFN199809180",74,"Debut game for Mike Metcalfe"
-"SFN199804120",56,"ej,snowj001,P,schrp901,Call at HP J.T. Snow ejected by HP umpire Paul Schreiber"
-"SFN199804240",13,"Debut game for Geoff Jenkins"
-"SFN199805110",0,"Debut for umpire Pat Connors"
-"SFN199805170",57,"ej,gilkb001,P,bellw901,Called third strike Bernard Gilkey ejected by HP umpire Wally Bell"
-"SFN199805280",90,"$Bases loaded intentionla walk"
-"SFN199806080",74,"ej,coraj001,P,holbs901,Call at 1B ej,pinil001,M,holbs901,Call at 1B Joey Cora and Mariners manager Lou Piniella ejected by 1B umpire Sam Holbrook"
-"SFN199806100",63,"Debut game for Jeff Ball"
-"SFN199806200",18,"Debut game for Ramon Martinez"
-"SFN199806240",24,"ej,johnb002,P,ripps901,Balls and strikes (while catching) Brian Johnson ejected by HP umpire Steve Rippley while catching"
-"SFN199806250",78,"ej,hayec001,P,wintm901,Balls and strikes Charlie Hayes ejected by HP umpire Mike Winters"
-"SFN199808080",57,"$Rich Aurilia and Joe Carter batted out of turn"
-"SFN199809010",42,"Debut game for Armando Rios"
-"SFN199809180",74,"Debut game for Mike Metcalfe"
+"SFN199804120",56,"ej,snowj001,P,schrp901,Call at HP J.T. Snow ejected by HP umpire Paul Schreiber"FILENAME_TX","LINE_NUMBER_CT"
+
+"SFN199804240",13,"Debut game for Geoff Jenkins"1998SFN.EVN.regular.comment.csv",2
+
+"SFN199805110",0,"Debut for umpire Pat Connors"1998SFN.EVN.regular.comment.csv",3
+
+"SFN199805170",57,"ej,gilkb001,P,bellw901,Called third strike Bernard Gilkey ejected by HP umpire Wally Bell"1998SFN.EVN.regular.comment.csv",4
+
+"SFN199805280",90,"$Bases loaded intentionla walk"1998SFN.EVN.regular.comment.csv",5
+
+"SFN199806080",74,"ej,coraj001,P,holbs901,Call at 1B ej,pinil001,M,holbs901,Call at 1B Joey Cora and Mariners manager Lou Piniella ejected by 1B umpire Sam Holbrook"1998SFN.EVN.regular.comment.csv",6
+
+"SFN199806100",63,"Debut game for Jeff Ball"1998SFN.EVN.regular.comment.csv",7
+
+"SFN199806200",18,"Debut game for Ramon Martinez"1998SFN.EVN.regular.comment.csv",8
+
+"SFN199806240",24,"ej,johnb002,P,ripps901,Balls and strikes (while catching) Brian Johnson ejected by HP umpire Steve Rippley while catching"1998SFN.EVN.regular.comment.csv",9
+
+"SFN199806250",78,"ej,hayec001,P,wintm901,Balls and strikes Charlie Hayes ejected by HP umpire Mike Winters"1998SFN.EVN.regular.comment.csv",10
+
+"SFN199808080",57,"$Rich Aurilia and Joe Carter batted out of turn"1998SFN.EVN.regular.comment.csv",11
+
+"SFN199809010",42,"Debut game for Armando Rios"1998SFN.EVN.regular.comment.csv",12
+
+"SFN199809180",74,"Debut game for Mike Metcalfe"1998SFN.EVN.regular.comment.csv",13
+

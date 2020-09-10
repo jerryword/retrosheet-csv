@@ -1,35 +1,34 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"SEA200304080",13,"Glaus left with injured leg"
-"SEA200304170",44,"Mariners Jeff Cirillo left the game due to an injured chest"
-"SEA200304220",80,"Mariners Kazuhiro Sasaki left the game due to an injured back"
-"SEA200305220",25,"ej,tuckm001,P,hudsm901,Called third strike Royals Michael Tucker ejected by HP umpire Marvin Hudson"
-"SEA200305220",31,"Mariners Carlos Guillen left the game due to an injured leg"
-"SEA200305230",57,"Mariners Giovanni Carrara left the game due to an injured back"
-"SEA200306140",39,"Mariners Carlos Guillen left the game due to an injured leg"
-"SEA200306180",24,"Mariners Carlos Guillen left the game due to an injured elbow"
-"SEA200307090",69,"Orioles B. J. Surhoff left the game due to an injured leg"
-"SEA200307240",62,"ej,johnl101,C,cuzzp901,Balls and strikes Mariners Coach Lamar Johnson ejected by HP umpire Phil Cuzzi for arguing balls and strikes"
-"SEA200308020",65,"Debut game for Aaron Looper"
-"SEA200308110",57,"Debut game for J.J. Putz"
-"SEA200308150",25,"Red Sox Johnny Damon left the game due to an injured leg"
-"SEA200308160",47,"ej,melvb001,M,mealj901,Call at 1B Mariners Manager Bob Melvin ejected by 1B umpire Jerry Meals for arguing that Joel Pineiro's foot was on the bag at 1B"
-"SEA200308160",48,"Debut game for Brian Sweeney"
-"SEA200308270",45,"Debut game for Doug Waechter"
-"SEA200309100",26,"34 minute delay when the lights went out due to a truck hitting a pole near Safeco Field; the first pitch after the blackout was Guillen's single"
-"SEA200304080",13,"Glaus left with injured leg"
-"SEA200304170",44,"Mariners Jeff Cirillo left the game due to an injured chest"
-"SEA200304220",80,"Mariners Kazuhiro Sasaki left the game due to an injured back"
-"SEA200305220",25,"ej,tuckm001,P,hudsm901,Called third strike Royals Michael Tucker ejected by HP umpire Marvin Hudson"
-"SEA200305220",31,"Mariners Carlos Guillen left the game due to an injured leg"
-"SEA200305230",57,"Mariners Giovanni Carrara left the game due to an injured back"
-"SEA200306140",39,"Mariners Carlos Guillen left the game due to an injured leg"
-"SEA200306180",24,"Mariners Carlos Guillen left the game due to an injured elbow"
-"SEA200307090",69,"Orioles B. J. Surhoff left the game due to an injured leg"
-"SEA200307240",62,"ej,johnl101,C,cuzzp901,Balls and strikes Mariners Coach Lamar Johnson ejected by HP umpire Phil Cuzzi for arguing balls and strikes"
-"SEA200308020",65,"Debut game for Aaron Looper"
-"SEA200308110",57,"Debut game for J.J. Putz"
-"SEA200308150",25,"Red Sox Johnny Damon left the game due to an injured leg"
-"SEA200308160",47,"ej,melvb001,M,mealj901,Call at 1B Mariners Manager Bob Melvin ejected by 1B umpire Jerry Meals for arguing that Joel Pineiro's foot was on the bag at 1B"
-"SEA200308160",48,"Debut game for Brian Sweeney"
-"SEA200308270",45,"Debut game for Doug Waechter"
-"SEA200309100",26,"34 minute delay when the lights went out due to a truck hitting a pole near Safeco Field; the first pitch after the blackout was Guillen's single"
+"SEA200304080",13,"Glaus left with injured leg"FILENAME_TX","LINE_NUMBER_CT"
+
+"SEA200304170",44,"Mariners Jeff Cirillo left the game due to an injured chest"2003SEA.EVA.regular.comment.csv",2
+
+"SEA200304220",80,"Mariners Kazuhiro Sasaki left the game due to an injured back"2003SEA.EVA.regular.comment.csv",3
+
+"SEA200305220",25,"ej,tuckm001,P,hudsm901,Called third strike Royals Michael Tucker ejected by HP umpire Marvin Hudson"2003SEA.EVA.regular.comment.csv",4
+
+"SEA200305220",31,"Mariners Carlos Guillen left the game due to an injured leg"2003SEA.EVA.regular.comment.csv",5
+
+"SEA200305230",57,"Mariners Giovanni Carrara left the game due to an injured back"2003SEA.EVA.regular.comment.csv",6
+
+"SEA200306140",39,"Mariners Carlos Guillen left the game due to an injured leg"2003SEA.EVA.regular.comment.csv",7
+
+"SEA200306180",24,"Mariners Carlos Guillen left the game due to an injured elbow"2003SEA.EVA.regular.comment.csv",8
+
+"SEA200307090",69,"Orioles B. J. Surhoff left the game due to an injured leg"2003SEA.EVA.regular.comment.csv",9
+
+"SEA200307240",62,"ej,johnl101,C,cuzzp901,Balls and strikes Mariners Coach Lamar Johnson ejected by HP umpire Phil Cuzzi for arguing balls and strikes"2003SEA.EVA.regular.comment.csv",10
+
+"SEA200308020",65,"Debut game for Aaron Looper"2003SEA.EVA.regular.comment.csv",11
+
+"SEA200308110",57,"Debut game for J.J. Putz"2003SEA.EVA.regular.comment.csv",12
+
+"SEA200308150",25,"Red Sox Johnny Damon left the game due to an injured leg"2003SEA.EVA.regular.comment.csv",13
+
+"SEA200308160",47,"ej,melvb001,M,mealj901,Call at 1B Mariners Manager Bob Melvin ejected by 1B umpire Jerry Meals for arguing that Joel Pineiro's foot was on the bag at 1B"2003SEA.EVA.regular.comment.csv",14
+
+"SEA200308160",48,"Debut game for Brian Sweeney"2003SEA.EVA.regular.comment.csv",15
+
+"SEA200308270",45,"Debut game for Doug Waechter"2003SEA.EVA.regular.comment.csv",16
+
+"SEA200309100",26,"34 minute delay when the lights went out due to a truck hitting a pole near Safeco Field; the first pitch after the blackout was Guillen's single"2003SEA.EVA.regular.comment.csv",17
+

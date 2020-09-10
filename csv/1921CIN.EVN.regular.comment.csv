@@ -1,69 +1,68 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"CIN192104140",23,"DWS: fielding credit invented"
-"CIN192104140",44,"DWS: fielding credit invented"
-"CIN192104150",11,"DWS: fielding credit invented"
-"CIN192104150",22,"DWS: putout assumed"
-"CIN192104160",11,"DWS: fielding credit invented"
-"CIN192104160",29,"DWS: fielding credit invented"
-"CIN192104160",72,"DWS: fielding credit invented"
-"CIN192104180",17,"ej,may-j102,P,riglc901,Balls and strikes (Threw glove) Jakie May ejected by HP umpire Cy Rigler"
-"CIN192105080",69,"$Edd Roush left with injured ankle"
-"CIN192105290",64,"$Bounce HR"
-"CIN192105301",28,"Doak removed with 1-0 count on Daubert."
-"CIN192105301",58,"Bohne's fly caught on embankment."
-"CIN192105302",24,"DWS: 02-11-2018; my software incorrectly failed to transfer responsibility on the out at the plate, giving Pertica 2 runs instead of the proper 3 and Sherdel 2 runs insted of the proper 1"
-"CIN192105302",66,"ej,sherb101,P,mccob104,Arguing third strike $Bill Sherdel ejected by HP umpire McCormick"
-"CIN192106020",46,"Over Devere Electric sign."
-"CIN192106030",42,"Nicholson dropped line drive."
-"CIN192106140",73,"DWS: very likely there is no putout awarded here"
-"CIN192106170",13,"ej,brugf101,P,mccob104,Arguing balls and strikes $Bruggy ejected by Plate umpire McCormick for arguing a called strike"
-"CIN192106190",31,"$50 minute rain delay."
-"CIN192106220",80,"ej,duncp101,P,emslb101,Call at 1B Pat Duncan ejected by 1B umpire Bob Emslie"
-"CIN192106230",59,"Daily News account ends here, rest from Swope"
-"CIN192107290",90,"Evening Journal account ends here, rest from Swope"
-"CIN192108020",69,"Evening Journal account ends here, rest from Swope"
-"CIN192108042",75,"Evening Journal account ends here, rest from Swope"
-"CIN192109110",22,"umpchange,3,umphome,hartb901 umpchange,3,ump1b,brenb901 $HP umpire Bill Brennan struck on the arm by a pitch; he and 1B umpire Bob Hart change positions"
-"CIN192109110",48,"DWS: fielding credit invented"
-"CIN192109130",89,"Evening Journal account ends here, rest from Swope"
-"CIN192109140",29,"ej,younr101,P,odayh101,Call at HP Ross Youngs ejected by HP umpire Hank O'Day"
-"CIN192109182",29,"Bounced over fence."
-"CIN192109182",48,"Gowdy's throw hit Hargrave."
-"CIN192109240",67,"Evening Journal account ends here, rest from Swope"
-"CIN192110010",71,"$Rube Bressler out on appeal for leaving 3B too soon"
-"CIN192110022",29,"Not clear when Sullivan entered."
-"CIN192110022",43,"Game called for darkness"
-"CIN192104140",23,"DWS: fielding credit invented"
-"CIN192104140",44,"DWS: fielding credit invented"
-"CIN192104150",11,"DWS: fielding credit invented"
-"CIN192104150",22,"DWS: putout assumed"
-"CIN192104160",11,"DWS: fielding credit invented"
-"CIN192104160",29,"DWS: fielding credit invented"
-"CIN192104160",72,"DWS: fielding credit invented"
-"CIN192104180",17,"ej,may-j102,P,riglc901,Balls and strikes (Threw glove) Jakie May ejected by HP umpire Cy Rigler"
-"CIN192105080",69,"$Edd Roush left with injured ankle"
-"CIN192105290",64,"$Bounce HR"
-"CIN192105301",28,"Doak removed with 1-0 count on Daubert."
-"CIN192105301",58,"Bohne's fly caught on embankment."
-"CIN192105302",24,"DWS: 02-11-2018; my software incorrectly failed to transfer responsibility on the out at the plate, giving Pertica 2 runs instead of the proper 3 and Sherdel 2 runs insted of the proper 1"
-"CIN192105302",66,"ej,sherb101,P,mccob104,Arguing third strike $Bill Sherdel ejected by HP umpire McCormick"
-"CIN192106020",46,"Over Devere Electric sign."
-"CIN192106030",42,"Nicholson dropped line drive."
-"CIN192106140",73,"DWS: very likely there is no putout awarded here"
-"CIN192106170",13,"ej,brugf101,P,mccob104,Arguing balls and strikes $Bruggy ejected by Plate umpire McCormick for arguing a called strike"
-"CIN192106190",31,"$50 minute rain delay."
-"CIN192106220",80,"ej,duncp101,P,emslb101,Call at 1B Pat Duncan ejected by 1B umpire Bob Emslie"
-"CIN192106230",59,"Daily News account ends here, rest from Swope"
-"CIN192107290",90,"Evening Journal account ends here, rest from Swope"
-"CIN192108020",69,"Evening Journal account ends here, rest from Swope"
-"CIN192108042",75,"Evening Journal account ends here, rest from Swope"
-"CIN192109110",22,"umpchange,3,umphome,hartb901 umpchange,3,ump1b,brenb901 $HP umpire Bill Brennan struck on the arm by a pitch; he and 1B umpire Bob Hart change positions"
-"CIN192109110",48,"DWS: fielding credit invented"
-"CIN192109130",89,"Evening Journal account ends here, rest from Swope"
-"CIN192109140",29,"ej,younr101,P,odayh101,Call at HP Ross Youngs ejected by HP umpire Hank O'Day"
-"CIN192109182",29,"Bounced over fence."
-"CIN192109182",48,"Gowdy's throw hit Hargrave."
-"CIN192109240",67,"Evening Journal account ends here, rest from Swope"
-"CIN192110010",71,"$Rube Bressler out on appeal for leaving 3B too soon"
-"CIN192110022",29,"Not clear when Sullivan entered."
-"CIN192110022",43,"Game called for darkness"
+"CIN192104140",23,"DWS: fielding credit invented"FILENAME_TX","LINE_NUMBER_CT"
+
+"CIN192104140",44,"DWS: fielding credit invented"1921CIN.EVN.regular.comment.csv",2
+
+"CIN192104150",11,"DWS: fielding credit invented"1921CIN.EVN.regular.comment.csv",3
+
+"CIN192104150",22,"DWS: putout assumed"1921CIN.EVN.regular.comment.csv",4
+
+"CIN192104160",11,"DWS: fielding credit invented"1921CIN.EVN.regular.comment.csv",5
+
+"CIN192104160",29,"DWS: fielding credit invented"1921CIN.EVN.regular.comment.csv",6
+
+"CIN192104160",72,"DWS: fielding credit invented"1921CIN.EVN.regular.comment.csv",7
+
+"CIN192104180",17,"ej,may-j102,P,riglc901,Balls and strikes (Threw glove) Jakie May ejected by HP umpire Cy Rigler"1921CIN.EVN.regular.comment.csv",8
+
+"CIN192105080",69,"$Edd Roush left with injured ankle"1921CIN.EVN.regular.comment.csv",9
+
+"CIN192105290",64,"$Bounce HR"1921CIN.EVN.regular.comment.csv",10
+
+"CIN192105301",28,"Doak removed with 1-0 count on Daubert."1921CIN.EVN.regular.comment.csv",11
+
+"CIN192105301",58,"Bohne's fly caught on embankment."1921CIN.EVN.regular.comment.csv",12
+
+"CIN192105302",24,"DWS: 02-11-2018; my software incorrectly failed to transfer responsibility on the out at the plate, giving Pertica 2 runs instead of the proper 3 and Sherdel 2 runs insted of the proper 1"1921CIN.EVN.regular.comment.csv",13
+
+"CIN192105302",66,"ej,sherb101,P,mccob104,Arguing third strike $Bill Sherdel ejected by HP umpire McCormick"1921CIN.EVN.regular.comment.csv",14
+
+"CIN192106020",46,"Over Devere Electric sign."1921CIN.EVN.regular.comment.csv",15
+
+"CIN192106030",42,"Nicholson dropped line drive."1921CIN.EVN.regular.comment.csv",16
+
+"CIN192106140",73,"DWS: very likely there is no putout awarded here"1921CIN.EVN.regular.comment.csv",17
+
+"CIN192106170",13,"ej,brugf101,P,mccob104,Arguing balls and strikes $Bruggy ejected by Plate umpire McCormick for arguing a called strike"1921CIN.EVN.regular.comment.csv",18
+
+"CIN192106190",31,"$50 minute rain delay."1921CIN.EVN.regular.comment.csv",19
+
+"CIN192106220",80,"ej,duncp101,P,emslb101,Call at 1B Pat Duncan ejected by 1B umpire Bob Emslie"1921CIN.EVN.regular.comment.csv",20
+
+"CIN192106230",59,"Daily News account ends here, rest from Swope"1921CIN.EVN.regular.comment.csv",21
+
+"CIN192107290",90,"Evening Journal account ends here, rest from Swope"1921CIN.EVN.regular.comment.csv",22
+
+"CIN192108020",69,"Evening Journal account ends here, rest from Swope"1921CIN.EVN.regular.comment.csv",23
+
+"CIN192108042",75,"Evening Journal account ends here, rest from Swope"1921CIN.EVN.regular.comment.csv",24
+
+"CIN192109110",22,"umpchange,3,umphome,hartb901 umpchange,3,ump1b,brenb901 $HP umpire Bill Brennan struck on the arm by a pitch; he and 1B umpire Bob Hart change positions"1921CIN.EVN.regular.comment.csv",25
+
+"CIN192109110",48,"DWS: fielding credit invented"1921CIN.EVN.regular.comment.csv",26
+
+"CIN192109130",89,"Evening Journal account ends here, rest from Swope"1921CIN.EVN.regular.comment.csv",27
+
+"CIN192109140",29,"ej,younr101,P,odayh101,Call at HP Ross Youngs ejected by HP umpire Hank O'Day"1921CIN.EVN.regular.comment.csv",28
+
+"CIN192109182",29,"Bounced over fence."1921CIN.EVN.regular.comment.csv",29
+
+"CIN192109182",48,"Gowdy's throw hit Hargrave."1921CIN.EVN.regular.comment.csv",30
+
+"CIN192109240",67,"Evening Journal account ends here, rest from Swope"1921CIN.EVN.regular.comment.csv",31
+
+"CIN192110010",71,"$Rube Bressler out on appeal for leaving 3B too soon"1921CIN.EVN.regular.comment.csv",32
+
+"CIN192110022",29,"Not clear when Sullivan entered."1921CIN.EVN.regular.comment.csv",33
+
+"CIN192110022",43,"Game called for darkness"1921CIN.EVN.regular.comment.csv",34
+

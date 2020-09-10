@@ -1,57 +1,56 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"CHN200604110",25,"Rusch surrendered homers in four consecutive innings"
-"CHN200604110",46,"Cubs right fielder Jacque Jones left the game due to an injured leg"
-"CHN200604120",32,"Reds center fielder Ken Griffey left the game due to an injured knee"
-"CHN200605120",16,"Padres pitcher Woody Williams left the game due to an injured leg"
-"CHN200605170",28,"Cubs third baseman Aramis Ramirez left the game due to an injured back"
-"CHN200605170",32,"Nationals right fielder Jose Guillen left the game due to an injured leg"
-"CHN200605170",45,"ej,fickr001,P,hudsm901,Balls and strikes Nationals Robert Fick ejected by HP umpire Marvin Hudson"
-"CHN200605290",42,"Reds second baseman Brandon Phillips left the game due to an injured leg"
-"CHN200606260",67,"Brewers pitcher Chris Capuano left the game due to an injured arm"
-"CHN200606300",3,"White Sox third baseman Pablo Ozuna left the game due to an injured leg"
-"CHN200607140",44,"Mets center fielder Carlos Beltran left the game due to an injured leg"
-"CHN200607140",49,"Woodward's ball cleared the basket for a homer but was ruled in play"
-"CHN200607280",72,"ej,baked002,M,monte901,Arguing whether HBP or swing on Ronny Cedeno Cubs Manager Dusty Baker ejected by HP umpire Ed Montague with 0-2 count on Cedeno after Montague ruled that Cedeno swung at a pitch that hit him"
-"CHN200607290",26,"$So Taguchi called out on appeal"
-"CHN200607300",50,"Cardinals RF John Rodriguez left the game due to an injured foot/ankle"
-"CHN200607310",38,"Diamondbacks catcher Johnny Estrada left the game due to an injured chest"
-"CHN200608060",74,"$Jack Wilson called for interference"
-"CHN200608180",25,"Cardinals shortstop David Eckstein left the game due to an injured chest"
-"CHN200608210",29,"Cubs shortstop Cesar Izturis left the game due to an injured leg"
-"CHN200608210",72,"$Short fly that Utley caught just as Rowand crashed into him. Glove and ball went flying, Rowand was flipped and landed on head. Rowand leaves with badly sprained ankle"
-"CHN200608220",36,"Cubs pitcher Ryan O'Malley left the game due to an injured elbow"
-"CHN200608240",0,"Umpire Paul Emmel was taken to the hospital before the game after feeling dizzy and nauseous"
-"CHN200609030",41,"Cubs pitcher Angel Guzman left the game due to an injured arm"
-"CHN200609040",17,"Cubs pitcher Carlos Zambrano left the game due to an injured arm"
-"CHN200609050",42,"ej,ramia001,P,hallt901,Call at 1B Cubs third baseman Aramis Ramirez ejected by 1B umpire Tom Hallion"
-"CHN200609060",66,"originally scored S6, changed on 9-08 to E6"
-"CHN200609150",21,"Cubs pitcher Juan Mateo left the game due to an injured back"
-"CHN200609260",75,"ej,belld002,P,tscht901,Called third strike Brewers third baseman David Bell ejected by HP umpire Tim Tschida"
-"CHN200604110",25,"Rusch surrendered homers in four consecutive innings"
-"CHN200604110",46,"Cubs right fielder Jacque Jones left the game due to an injured leg"
-"CHN200604120",32,"Reds center fielder Ken Griffey left the game due to an injured knee"
-"CHN200605120",16,"Padres pitcher Woody Williams left the game due to an injured leg"
-"CHN200605170",28,"Cubs third baseman Aramis Ramirez left the game due to an injured back"
-"CHN200605170",32,"Nationals right fielder Jose Guillen left the game due to an injured leg"
-"CHN200605170",45,"ej,fickr001,P,hudsm901,Balls and strikes Nationals Robert Fick ejected by HP umpire Marvin Hudson"
-"CHN200605290",42,"Reds second baseman Brandon Phillips left the game due to an injured leg"
-"CHN200606260",67,"Brewers pitcher Chris Capuano left the game due to an injured arm"
-"CHN200606300",3,"White Sox third baseman Pablo Ozuna left the game due to an injured leg"
-"CHN200607140",44,"Mets center fielder Carlos Beltran left the game due to an injured leg"
-"CHN200607140",49,"Woodward's ball cleared the basket for a homer but was ruled in play"
-"CHN200607280",72,"ej,baked002,M,monte901,HBP non-call $Cubs manager Baker ejected by HP umpire Montague for arguing call that Cedeno had swung at pitch that hit him"
-"CHN200607290",26,"$So Taguchi called out on appeal"
-"CHN200607300",50,"Cardinals RF John Rodriguez left the game due to an injured foot/ankle"
-"CHN200607310",38,"Diamondbacks catcher Johnny Estrada left the game due to an injured chest"
-"CHN200608060",74,"$Jack Wilson called for interference"
-"CHN200608180",25,"Cardinals shortstop David Eckstein left the game due to an injured chest"
-"CHN200608210",29,"Cubs shortstop Cesar Izturis left the game due to an injured leg"
-"CHN200608210",72,"$Short fly that Utley caught just as Rowand crashed into him. Glove and ball went flying, Rowand was flipped and landed on head. Rowand leaves with badly sprained ankle"
-"CHN200608220",36,"Cubs pitcher Ryan O'Malley left the game due to an injured elbow"
-"CHN200608240",0,"Umpire Paul Emmel was taken to the hospital before the game after feeling dizzy and nauseous"
-"CHN200609030",41,"Cubs pitcher Angel Guzman left the game due to an injured arm"
-"CHN200609040",17,"Cubs pitcher Carlos Zambrano left the game due to an injured arm"
-"CHN200609050",42,"ej,ramia001,P,hallt901,Call at 1B Cubs third baseman Aramis Ramirez ejected by 1B umpire Tom Hallion"
-"CHN200609060",66,"originally scored S6, changed on 9-08 to E6"
-"CHN200609150",21,"Cubs pitcher Juan Mateo left the game due to an injured back"
-"CHN200609260",75,"ej,belld002,P,tscht901,Called third strike Brewers third baseman David Bell ejected by HP umpire Tim Tschida"
+"CHN200604110",25,"Rusch surrendered homers in four consecutive innings"FILENAME_TX","LINE_NUMBER_CT"
+
+"CHN200604110",46,"Cubs right fielder Jacque Jones left the game due to an injured leg"2006CHN.EVN.regular.comment.csv",2
+
+"CHN200604120",32,"Reds center fielder Ken Griffey left the game due to an injured knee"2006CHN.EVN.regular.comment.csv",3
+
+"CHN200605120",16,"Padres pitcher Woody Williams left the game due to an injured leg"2006CHN.EVN.regular.comment.csv",4
+
+"CHN200605170",28,"Cubs third baseman Aramis Ramirez left the game due to an injured back"2006CHN.EVN.regular.comment.csv",5
+
+"CHN200605170",32,"Nationals right fielder Jose Guillen left the game due to an injured leg"2006CHN.EVN.regular.comment.csv",6
+
+"CHN200605170",45,"ej,fickr001,P,hudsm901,Balls and strikes Nationals Robert Fick ejected by HP umpire Marvin Hudson"2006CHN.EVN.regular.comment.csv",7
+
+"CHN200605290",42,"Reds second baseman Brandon Phillips left the game due to an injured leg"2006CHN.EVN.regular.comment.csv",8
+
+"CHN200606260",67,"Brewers pitcher Chris Capuano left the game due to an injured arm"2006CHN.EVN.regular.comment.csv",9
+
+"CHN200606300",3,"White Sox third baseman Pablo Ozuna left the game due to an injured leg"2006CHN.EVN.regular.comment.csv",10
+
+"CHN200607140",44,"Mets center fielder Carlos Beltran left the game due to an injured leg"2006CHN.EVN.regular.comment.csv",11
+
+"CHN200607140",49,"Woodward's ball cleared the basket for a homer but was ruled in play"2006CHN.EVN.regular.comment.csv",12
+
+"CHN200607280",72,"ej,baked002,M,monte901,HBP non-call $Cubs manager Baker ejected by HP umpire Montague for arguing call that Cedeno had swung at pitch that hit him"2006CHN.EVN.regular.comment.csv",13
+
+"CHN200607290",26,"$So Taguchi called out on appeal"2006CHN.EVN.regular.comment.csv",14
+
+"CHN200607300",50,"Cardinals RF John Rodriguez left the game due to an injured foot/ankle"2006CHN.EVN.regular.comment.csv",15
+
+"CHN200607310",38,"Diamondbacks catcher Johnny Estrada left the game due to an injured chest"2006CHN.EVN.regular.comment.csv",16
+
+"CHN200608060",74,"$Jack Wilson called for interference"2006CHN.EVN.regular.comment.csv",17
+
+"CHN200608180",25,"Cardinals shortstop David Eckstein left the game due to an injured chest"2006CHN.EVN.regular.comment.csv",18
+
+"CHN200608210",29,"Cubs shortstop Cesar Izturis left the game due to an injured leg"2006CHN.EVN.regular.comment.csv",19
+
+"CHN200608210",72,"$Short fly that Utley caught just as Rowand crashed into him. Glove and ball went flying, Rowand was flipped and landed on head. Rowand leaves with badly sprained ankle"2006CHN.EVN.regular.comment.csv",20
+
+"CHN200608220",36,"Cubs pitcher Ryan O'Malley left the game due to an injured elbow"2006CHN.EVN.regular.comment.csv",21
+
+"CHN200608240",0,"Umpire Paul Emmel was taken to the hospital before the game after feeling dizzy and nauseous"2006CHN.EVN.regular.comment.csv",22
+
+"CHN200609030",41,"Cubs pitcher Angel Guzman left the game due to an injured arm"2006CHN.EVN.regular.comment.csv",23
+
+"CHN200609040",17,"Cubs pitcher Carlos Zambrano left the game due to an injured arm"2006CHN.EVN.regular.comment.csv",24
+
+"CHN200609050",42,"ej,ramia001,P,hallt901,Call at 1B Cubs third baseman Aramis Ramirez ejected by 1B umpire Tom Hallion"2006CHN.EVN.regular.comment.csv",25
+
+"CHN200609060",66,"originally scored S6, changed on 9-08 to E6"2006CHN.EVN.regular.comment.csv",26
+
+"CHN200609150",21,"Cubs pitcher Juan Mateo left the game due to an injured back"2006CHN.EVN.regular.comment.csv",27
+
+"CHN200609260",75,"ej,belld002,P,tscht901,Called third strike Brewers third baseman David Bell ejected by HP umpire Tim Tschida"2006CHN.EVN.regular.comment.csv",28
+

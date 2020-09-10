@@ -1,35 +1,34 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"MIN199604010",39,"Debut game for Greg Keagle"
-"MIN199604020",56,"Debut game for Dan Naulty"
-"MIN199604030",25,"Debut game for Mike Durant"
-"MIN199604030",78,"Debut game for Kimera Bartee"
-"MIN199604060",43,"Debut game for Jimmy Myers"
-"MIN199605140",66,"Debut game for Mike Milchin"
-"MIN199606070",84,"ej,steit001,P,koscg901,Balls and strikes Terry Steinbach ejected by HP umpire Greg Kosc"
-"MIN199606252",1,"Debut game for Dan Serafini"
-"MIN199606252",75,"ej,randw001,C,joycj901,Catch/trap call ej,zimmd101,C,hendt901,Catch/trap call Yankees coach Willie Randolph ejected by 2B umpire Jim Joyce and coach Don Zimmer ejected by 1B umpire Ted Hendry arguing a catch/trap call"
-"MIN199607130",71,"Debut game for Danny Graves"
-"MIN199608170",66,"ej,samuj001,P,clara901,Balls and strikes Juan Samuel ejected by HP umpire Al Clark during at bat for arguing balls and strikes"
-"MIN199608170",68,"Debut game for Julio Mosquera"
-"MIN199608250",1,"Debut game for Travis Miller"
-"MIN199609060",11,"Debut game for Chris Pritchett"
-"MIN199609060",26,"$Marty Cordova called for interference"
-"MIN199609060",72,"IPHR"
-"MIN199609080",70,"Debut game for Brent Brede"
-"MIN199604010",39,"Debut game for Greg Keagle"
-"MIN199604020",56,"Debut game for Dan Naulty"
-"MIN199604030",25,"Debut game for Mike Durant"
-"MIN199604030",78,"Debut game for Kimera Bartee"
-"MIN199604060",43,"Debut game for Jimmy Myers"
-"MIN199605140",66,"Debut game for Mike Milchin"
-"MIN199606070",84,"ej,steit001,P,koscg901,Balls and strikes Terry Steinbach ejected by HP umpire Greg Kosc"
-"MIN199606252",1,"Debut game for Dan Serafini"
-"MIN199606252",75,"ej,randw001,C,joycj901,Catch/trap call ej,zimmd101,C,hendt901,Catch/trap call Yankees coach Willie Randolph ejected by 2B umpire Jim Joyce and coach Don Zimmer ejected by 1B umpire Ted Hendry arguing a catch/trap call"
-"MIN199607130",71,"Debut game for Danny Graves"
-"MIN199608170",66,"ej,samuj001,P,clara901,Balls and strikes Juan Samuel ejected by HP umpire Al Clark during at bat for arguing balls and strikes"
-"MIN199608170",68,"Debut game for Julio Mosquera"
-"MIN199608250",1,"Debut game for Travis Miller"
-"MIN199609060",11,"Debut game for Chris Pritchett"
-"MIN199609060",26,"$Marty Cordova called for interference"
-"MIN199609060",72,"IPHR"
-"MIN199609080",70,"Debut game for Brent Brede"
+"MIN199604010",39,"Debut game for Greg Keagle"FILENAME_TX","LINE_NUMBER_CT"
+
+"MIN199604020",56,"Debut game for Dan Naulty"1996MIN.EVA.regular.comment.csv",2
+
+"MIN199604030",25,"Debut game for Mike Durant"1996MIN.EVA.regular.comment.csv",3
+
+"MIN199604030",78,"Debut game for Kimera Bartee"1996MIN.EVA.regular.comment.csv",4
+
+"MIN199604060",43,"Debut game for Jimmy Myers"1996MIN.EVA.regular.comment.csv",5
+
+"MIN199605140",66,"Debut game for Mike Milchin"1996MIN.EVA.regular.comment.csv",6
+
+"MIN199606070",84,"ej,steit001,P,koscg901,Balls and strikes Terry Steinbach ejected by HP umpire Greg Kosc"1996MIN.EVA.regular.comment.csv",7
+
+"MIN199606252",1,"Debut game for Dan Serafini"1996MIN.EVA.regular.comment.csv",8
+
+"MIN199606252",75,"ej,randw001,C,joycj901,Catch/trap call ej,zimmd101,C,hendt901,Catch/trap call Yankees coach Willie Randolph ejected by 2B umpire Jim Joyce and coach Don Zimmer ejected by 1B umpire Ted Hendry arguing a catch/trap call"1996MIN.EVA.regular.comment.csv",9
+
+"MIN199607130",71,"Debut game for Danny Graves"1996MIN.EVA.regular.comment.csv",10
+
+"MIN199608170",66,"ej,samuj001,P,clara901,Balls and strikes Juan Samuel ejected by HP umpire Al Clark during at bat for arguing balls and strikes"1996MIN.EVA.regular.comment.csv",11
+
+"MIN199608170",68,"Debut game for Julio Mosquera"1996MIN.EVA.regular.comment.csv",12
+
+"MIN199608250",1,"Debut game for Travis Miller"1996MIN.EVA.regular.comment.csv",13
+
+"MIN199609060",11,"Debut game for Chris Pritchett"1996MIN.EVA.regular.comment.csv",14
+
+"MIN199609060",26,"$Marty Cordova called for interference"1996MIN.EVA.regular.comment.csv",15
+
+"MIN199609060",72,"IPHR"1996MIN.EVA.regular.comment.csv",16
+
+"MIN199609080",70,"Debut game for Brent Brede"1996MIN.EVA.regular.comment.csv",17
+

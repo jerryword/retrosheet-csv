@@ -1,35 +1,34 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"CLE199905060",53,"Debut game for Sean Spencer"
-"CLE199905120",0,"ej,hargm001,M,cedeg901,Balls and strikes Indians manager Mike Hargrove ejected by HP umpire Gary Cederstrom sometime in game"
-"CLE199905220",50,"ej,ramim002,P,meric901,Charging mound after HBP $Manny Ramirez charged the mound after the HBP; he was ejected by HP umpire Chuck Meriwether; both teams warned"
-"CLE199905220",68,"ej,nitkc001,P,meric901,Throwing inside after warning $C.J. Nitkowski's first pitch was inside to Kenny Lofton; Nitkowski was ejected by HP umpire Chuck Meriwether"
-"CLE199905300",73,"ej,jeffr001,P,cousd901,Call at 1B Reggie Jefferson ejected by 1B umpire Derryl Cousins"
-"CLE199906090",81,"ej,burnj001,P,koscg901,Balls and strikes ej,garnp001,M,koscg901,Balls and strikes Jeromy Burnitz and Brewers manager Phil Garner ejected by HP umpire Greg Kosc"
-"CLE199906170",50,"ej,howea001,M,evanj901,Balk call Athletics manager Art Howe ejected by HP umpire Jim Evans"
-"CLE199906210",84,"ej,huntb002,P,coope901,Called third strike Brian Hunter ejected by HP umpire Eric Cooper"
-"CLE199906300",0,"ej,hargm001,M,koscg901,Balls and strikes Indians manager Mike Hargrove ejected by HP umpire Greg Kosc"
-"CLE199907040",80,"Debut game for John McDonald"
-"CLE199907220",0,"$Indians manager Mike Hargrove originally listed Manny Ramirez as the DH and Alex Ramirez in RF; after the Blue Jays batted in the top of the first inning, Toronto manager Jim Fregosi pointed out to HP umpire Rocky Roe that Manny had played RF in that half inning; this caused the Indians to lose the use of the DH for the game and pitcher Charles Nagy was placed in the seventh spot in the lineup, replacing Alex Ramirez"
-"CLE199908140",65,"Debut game for David Riske"
-"CLE199908310",67,"Debut game for Sean DePaula"
-"CLE199908310",90,"ej,collt801,M,coope901,Intentional HBP ej,perct001,P,coope901,Intentional HBP ej,justd001,P,coope901,Charging mound after HBP $David Justice charged the mound after the HBP; Justice, Troy Percival and Angels manager Terry Collins ejected by HP umpire Eric Cooper"
-"CLE199909010",76,"Debut game for Juan Alvarez"
-"CLE199909300",50,"Debut game for John Bale"
-"CLE199909300",72,"Debut game for Gary Glover"
-"CLE199905060",53,"Debut game for Sean Spencer"
-"CLE199905120",12,"ej,hargm001,M,cedeg901,Balls and strikes $Indians manager Hargrove ejected by HP umpire Cederstrom for arguing balls and strikes after mound visit"
-"CLE199905220",50,"ej,ramim002,P,meric901,Charging mound after HBP $Manny Ramirez charged the mound after the HBP; he was ejected by HP umpire Chuck Meriwether; both teams warned"
-"CLE199905220",68,"ej,nitkc001,P,meric901,Throwing inside after warning $C.J. Nitkowski's first pitch was inside to Kenny Lofton; Nitkowski was ejected by HP umpire Chuck Meriwether"
-"CLE199905300",73,"ej,jeffr001,P,cousd901,Call at 1B Reggie Jefferson ejected by 1B umpire Derryl Cousins"
-"CLE199906090",81,"ej,burnj001,P,koscg901,Balls and strikes ej,garnp001,M,koscg901,Balls and strikes Jeromy Burnitz and Brewers manager Phil Garner ejected by HP umpire Greg Kosc"
-"CLE199906170",50,"ej,howea001,M,evanj901,Balk call Athletics manager Art Howe ejected by HP umpire Jim Evans"
-"CLE199906210",84,"ej,huntb002,P,coope901,Called third strike Brian Hunter ejected by HP umpire Eric Cooper"
-"CLE199906300",29,"ej,hargm001,M,koscg901,Interference call $Indians manager Hargrove ejected by HP umpire Kosc for arguing interference call on Alomar for double play"
-"CLE199907040",80,"Debut game for John McDonald"
-"CLE199907220",0,"$Indians manager Mike Hargrove originally listed Manny Ramirez as the DH and Alex Ramirez in RF; after the Blue Jays batted in the top of the first inning, Toronto manager Jim Fregosi pointed out to HP umpire Rocky Roe that Manny had played RF in that half inning; this caused the Indians to lose the use of the DH for the game and pitcher Charles Nagy was placed in the seventh spot in the lineup, replacing Alex Ramirez"
-"CLE199908140",65,"Debut game for David Riske"
-"CLE199908310",67,"Debut game for Sean DePaula"
-"CLE199908310",90,"ej,collt801,M,coope901,Intentional HBP ej,perct001,P,coope901,Intentional HBP ej,justd001,P,coope901,Charging mound after HBP $David Justice charged the mound after the HBP; Justice, Troy Percival and Angels manager Terry Collins ejected by HP umpire Eric Cooper"
-"CLE199909010",76,"Debut game for Juan Alvarez"
-"CLE199909300",50,"Debut game for John Bale"
-"CLE199909300",72,"Debut game for Gary Glover"
+"CLE199905060",53,"Debut game for Sean Spencer"FILENAME_TX","LINE_NUMBER_CT"
+
+"CLE199905120",12,"ej,hargm001,M,cedeg901,Balls and strikes $Indians manager Hargrove ejected by HP umpire Cederstrom for arguing balls and strikes after mound visit"1999CLE.EVA.regular.comment.csv",2
+
+"CLE199905220",50,"ej,ramim002,P,meric901,Charging mound after HBP $Manny Ramirez charged the mound after the HBP; he was ejected by HP umpire Chuck Meriwether; both teams warned"1999CLE.EVA.regular.comment.csv",3
+
+"CLE199905220",68,"ej,nitkc001,P,meric901,Throwing inside after warning $C.J. Nitkowski's first pitch was inside to Kenny Lofton; Nitkowski was ejected by HP umpire Chuck Meriwether"1999CLE.EVA.regular.comment.csv",4
+
+"CLE199905300",73,"ej,jeffr001,P,cousd901,Call at 1B Reggie Jefferson ejected by 1B umpire Derryl Cousins"1999CLE.EVA.regular.comment.csv",5
+
+"CLE199906090",81,"ej,burnj001,P,koscg901,Balls and strikes ej,garnp001,M,koscg901,Balls and strikes Jeromy Burnitz and Brewers manager Phil Garner ejected by HP umpire Greg Kosc"1999CLE.EVA.regular.comment.csv",6
+
+"CLE199906170",50,"ej,howea001,M,evanj901,Balk call Athletics manager Art Howe ejected by HP umpire Jim Evans"1999CLE.EVA.regular.comment.csv",7
+
+"CLE199906210",84,"ej,huntb002,P,coope901,Called third strike Brian Hunter ejected by HP umpire Eric Cooper"1999CLE.EVA.regular.comment.csv",8
+
+"CLE199906300",29,"ej,hargm001,M,koscg901,Interference call $Indians manager Hargrove ejected by HP umpire Kosc for arguing interference call on Alomar for double play"1999CLE.EVA.regular.comment.csv",9
+
+"CLE199907040",80,"Debut game for John McDonald"1999CLE.EVA.regular.comment.csv",10
+
+"CLE199907220",0,"$Indians manager Mike Hargrove originally listed Manny Ramirez as the DH and Alex Ramirez in RF; after the Blue Jays batted in the top of the first inning, Toronto manager Jim Fregosi pointed out to HP umpire Rocky Roe that Manny had played RF in that half inning; this caused the Indians to lose the use of the DH for the game and pitcher Charles Nagy was placed in the seventh spot in the lineup, replacing Alex Ramirez"1999CLE.EVA.regular.comment.csv",11
+
+"CLE199908140",65,"Debut game for David Riske"1999CLE.EVA.regular.comment.csv",12
+
+"CLE199908310",67,"Debut game for Sean DePaula"1999CLE.EVA.regular.comment.csv",13
+
+"CLE199908310",90,"ej,collt801,M,coope901,Intentional HBP ej,perct001,P,coope901,Intentional HBP ej,justd001,P,coope901,Charging mound after HBP $David Justice charged the mound after the HBP; Justice, Troy Percival and Angels manager Terry Collins ejected by HP umpire Eric Cooper"1999CLE.EVA.regular.comment.csv",14
+
+"CLE199909010",76,"Debut game for Juan Alvarez"1999CLE.EVA.regular.comment.csv",15
+
+"CLE199909300",50,"Debut game for John Bale"1999CLE.EVA.regular.comment.csv",16
+
+"CLE199909300",72,"Debut game for Gary Glover"1999CLE.EVA.regular.comment.csv",17
+

@@ -1,21 +1,20 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"ARI199904160",59,"ej,stott001,P,darlg901,Fighting with Charlie Hayes ej,hayec001,P,darlg901,Fighting with Todd Stottlemyre $Charlie Hayes was upset after hitting into a force play and was talking to himself; Todd Stottlemyre thought Hayes was talking to him; after Hayes moved to 2B on the single, Stottlemyre telled at Hayes, who charged the mound; D-Backs 3B Matt Williams grabbed Hayes and Giants 3B coach Sonny Jackson tackled Stottlemyre; both players were ejected by HP umpire Gary Darling"
-"ARI199904170",26,"$Charlie Hayes called for interference"
-"ARI199904170",56,"$Damian Miller called for interference"
-"ARI199906040",46,"Debut game for Danny Kolb"
-"ARI199906090",21,"$Tony Womack called for interference"
-"ARI199906090",86,"ej,kim-b001,P,wintm901,Foreign object in glove $Byung-Hyun Kim ejected by HP umpire Mike Winters when a bandage containing heat balm flies out of his shirt sleeve"
-"ARI199906200",0,"ej,corrp102,C,kellj901,Bench jockeying ej,cox-b103,M,kellj901,Balls and strikes Braves manager Bobby Cox and coach Pat Corrales ejected sometime in game by HP umpire Jeff Kellogg"
-"ARI199907070",1,"Debut game for Wade Miller"
-"ARI199907090",67,"Debut game for Erik Sabel"
-"ARI199909130",50,"ej,sprae001,P,willc901,Call at 3B Pirates Ed Sprague ejected by 3B umpire Charlie Williams"
-"ARI199904160",59,"ej,stott001,P,darlg901,Fighting with Charlie Hayes ej,hayec001,P,darlg901,Fighting with Todd Stottlemyre $Charlie Hayes was upset after hitting into a force play and was talking to himself; Todd Stottlemyre thought Hayes was talking to him; after Hayes moved to 2B on the single, Stottlemyre telled at Hayes, who charged the mound; D-Backs 3B Matt Williams grabbed Hayes and Giants 3B coach Sonny Jackson tackled Stottlemyre; both players were ejected by HP umpire Gary Darling"
-"ARI199904170",26,"$Charlie Hayes called for interference"
-"ARI199904170",56,"$Damian Miller called for interference"
-"ARI199906040",46,"Debut game for Danny Kolb"
-"ARI199906090",21,"$Womack called for interference"
-"ARI199906090",82,"ej,kim-b001,P,wintm901,Foreign object in glove $Pitcher Kim ejected by HP umpire Winters for having a foreign object in his uniform; it was a bandage containing heat balm which flew out of his shirt sleeve and was discovered as the Cubs took the field for bottom of 8th"
-"ARI199906200",9,"ej,corrp102,C,kellj901,Balls and strikes ej,cox-b103,M,kellj901,Balls and strikes $Braves manager Cox and coach Corrales ejected by HP umpire Kellogg for arguing balls and strikes after Williams walked"
-"ARI199907070",1,"Debut game for Wade Miller"
-"ARI199907090",67,"Debut game for Erik Sabel"
-"ARI199909130",50,"ej,sprae001,P,willc901,Call at 3B Pirates Ed Sprague ejected by 3B umpire Charlie Williams"
+"ARI199904160",59,"ej,stott001,P,darlg901,Fighting with Charlie Hayes ej,hayec001,P,darlg901,Fighting with Todd Stottlemyre $Charlie Hayes was upset after hitting into a force play and was talking to himself; Todd Stottlemyre thought Hayes was talking to him; after Hayes moved to 2B on the single, Stottlemyre telled at Hayes, who charged the mound; D-Backs 3B Matt Williams grabbed Hayes and Giants 3B coach Sonny Jackson tackled Stottlemyre; both players were ejected by HP umpire Gary Darling"FILENAME_TX","LINE_NUMBER_CT"
+
+"ARI199904170",26,"$Charlie Hayes called for interference"1999ARI.EVN.regular.comment.csv",2
+
+"ARI199904170",56,"$Damian Miller called for interference"1999ARI.EVN.regular.comment.csv",3
+
+"ARI199906040",46,"Debut game for Danny Kolb"1999ARI.EVN.regular.comment.csv",4
+
+"ARI199906090",21,"$Womack called for interference"1999ARI.EVN.regular.comment.csv",5
+
+"ARI199906090",82,"ej,kim-b001,P,wintm901,Foreign object in glove $Pitcher Kim ejected by HP umpire Winters for having a foreign object in his uniform; it was a bandage containing heat balm which flew out of his shirt sleeve and was discovered as the Cubs took the field for bottom of 8th"1999ARI.EVN.regular.comment.csv",6
+
+"ARI199906200",9,"ej,corrp102,C,kellj901,Balls and strikes ej,cox-b103,M,kellj901,Balls and strikes $Braves manager Cox and coach Corrales ejected by HP umpire Kellogg for arguing balls and strikes after Williams walked"1999ARI.EVN.regular.comment.csv",7
+
+"ARI199907070",1,"Debut game for Wade Miller"1999ARI.EVN.regular.comment.csv",8
+
+"ARI199907090",67,"Debut game for Erik Sabel"1999ARI.EVN.regular.comment.csv",9
+
+"ARI199909130",50,"ej,sprae001,P,willc901,Call at 3B Pirates Ed Sprague ejected by 3B umpire Charlie Williams"1999ARI.EVN.regular.comment.csv",10
+

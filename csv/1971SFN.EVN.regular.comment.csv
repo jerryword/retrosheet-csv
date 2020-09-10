@@ -1,23 +1,22 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"SFN197104200",72,"$missed squeeze play"
-"SFN197107300",48,"$Debut game for Dave Kingman"
-"SFN197107310",20,"$Debut game for Jim Barr"
-"SFN197108170",20,"$the ball hit 2B umpire Bruce Froemming on the elbow and caromed into RF"
-"SFN197109030",37,"ej,speic001,P,colon901,Arguing strike 3 $Speier ejected by HP umpire Colosi for arguing strike 3"
-"SFN197109052",1,"$Debut game for J.R. Richard $Debut game for Jim Willoughby"
-"SFN197109052",55,"$Debut game for Dave Rader"
-"SFN197109052",75,"$Debut game for Jim Howarth"
-"SFN197109130",38,"$Pitcher Marichal threw two pitches at Singer's head as retaliation for Singer hitting Mays and Speier; HP umpire Crawford warned Marichal"
-"SFN197109130",40,"ej,marij101,P,craws901,Intentional HBP ej,buckb001,P,craws901,Charging mound ej,johnj104,P,craws901,Making choke gesture at umpire $Pitcher Marichal ejected by HP umpire Crawford for intentionall hitting Buckner who was ejected by Crawford for charging mound; Giants Jerry Johnson ejected by Crawford for making choke sign at him, benches cleared in brawl"
-"SFN197109130",63,"ej,willm102,P,land901,Interference non-call $Dodgers Wills ejected by 1B umpire Landes for arguing that Bonds interfered with Haller's throw to 1st $Maury Wills claimed that Bobby Bonds interfered with Tom Haller's throw to 1B and was ejected by 1B umpire Stan Landes, who said after the game that Wills did not have a good view of the game so Landes allowed Wills to watch the end on television"
-"SFN197104200",72,"$missed squeeze play"
-"SFN197107300",48,"$Debut game for Dave Kingman"
-"SFN197107310",20,"$Debut game for Jim Barr"
-"SFN197108170",20,"$the ball hit 2B umpire Bruce Froemming on the elbow and caromed into RF"
-"SFN197109030",37,"ej,speic001,P,colon901,Called third strike $Speier ejected by HP umpire Colosi for arguing called third strike"
-"SFN197109052",1,"$Debut game for J.R. Richard $Debut game for Jim Willoughby"
-"SFN197109052",55,"$Debut game for Dave Rader"
-"SFN197109052",75,"$Debut game for Jim Howarth"
-"SFN197109130",38,"$Pitcher Marichal threw two pitches at Singer's head as retaliation for Singer hitting Mays and Speier; HP umpire Crawford warned Marichal"
-"SFN197109130",40,"ej,marij101,P,craws901,Intentional HBP ej,buckb001,P,craws901,Charging mound ej,johnj104,P,craws901,Making choke gesture at umpire $Pitcher Marichal ejected by HP umpire Crawford for intentionall hitting Buckner who was ejected by Crawford for charging mound; Giants Jerry Johnson ejected by Crawford for making choke sign at him, benches cleared in brawl"
-"SFN197109130",63,"ej,willm102,P,land901,Interference non-call $Dodgers Wills ejected by 1B umpire Landes for arguing that Bonds interfered with Haller's throw to 1st $Maury Wills claimed that Bobby Bonds interfered with Tom Haller's throw to 1B and was ejected by 1B umpire Stan Landes, who said after the game that Wills did not have a good view of the game so Landes allowed Wills to watch the end on television"
+"SFN197104200",72,"$missed squeeze play"FILENAME_TX","LINE_NUMBER_CT"
+
+"SFN197107300",48,"$Debut game for Dave Kingman"1971SFN.EVN.regular.comment.csv",2
+
+"SFN197107310",20,"$Debut game for Jim Barr"1971SFN.EVN.regular.comment.csv",3
+
+"SFN197108170",20,"$the ball hit 2B umpire Bruce Froemming on the elbow and caromed into RF"1971SFN.EVN.regular.comment.csv",4
+
+"SFN197109030",37,"ej,speic001,P,colon901,Called third strike $Speier ejected by HP umpire Colosi for arguing called third strike"1971SFN.EVN.regular.comment.csv",5
+
+"SFN197109052",1,"$Debut game for J.R. Richard $Debut game for Jim Willoughby"1971SFN.EVN.regular.comment.csv",6
+
+"SFN197109052",55,"$Debut game for Dave Rader"1971SFN.EVN.regular.comment.csv",7
+
+"SFN197109052",75,"$Debut game for Jim Howarth"1971SFN.EVN.regular.comment.csv",8
+
+"SFN197109130",38,"$Pitcher Marichal threw two pitches at Singer's head as retaliation for Singer hitting Mays and Speier; HP umpire Crawford warned Marichal"1971SFN.EVN.regular.comment.csv",9
+
+"SFN197109130",40,"ej,marij101,P,craws901,Intentional HBP ej,buckb001,P,craws901,Charging mound ej,johnj104,P,craws901,Making choke gesture at umpire $Pitcher Marichal ejected by HP umpire Crawford for intentionall hitting Buckner who was ejected by Crawford for charging mound; Giants Jerry Johnson ejected by Crawford for making choke sign at him, benches cleared in brawl"1971SFN.EVN.regular.comment.csv",10
+
+"SFN197109130",63,"ej,willm102,P,land901,Interference non-call $Dodgers Wills ejected by 1B umpire Landes for arguing that Bonds interfered with Haller's throw to 1st $Maury Wills claimed that Bobby Bonds interfered with Tom Haller's throw to 1B and was ejected by 1B umpire Stan Landes, who said after the game that Wills did not have a good view of the game so Landes allowed Wills to watch the end on television"1971SFN.EVN.regular.comment.csv",11
+

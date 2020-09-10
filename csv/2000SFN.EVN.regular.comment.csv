@@ -1,57 +1,56 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"SFN200004110",0,"$First game at Pacific Bell Park"
-"SFN200004120",0,"Suspend=20000413,,3,4,36"
-"SFN200004120",49,"suspended,20000413,SFO03,rain $game suspended for rain until the next day"
-"SFN200004150",56,"Debut game for Scott Linebrink"
-"SFN200004280",71,"DWS: originally scored E6"
-"SFN200005050",43,"ej,cirij001,P,eddid901,Called third strike Jeff Cirillo ejected by HP umpire Doug Eddings"
-"SFN200005050",48,"ej,kentj001,P,eddid901,Called third strike Jeff Kent ejected by HP umpire Doug Eddings"
-"SFN200005060",27,"rounded base too far"
-"SFN200005090",14,"IPHR - first at Pacific Bell Park"
-"SFN200005230",33,"ej,aurir001,P,gibsg901,Balls and strikes Rich Aurilia ejected by HP umpire Greg Gibson"
-"SFN200006160",15,"Debut game for Chris Truby"
-"SFN200006300",29,"$Marvin Benard called for interference with catcher"
-"SFN200008060",1,"originally scored E6, changed after game"
-"SFN200008060",20,"originally scored E7 with no RBI, changed after game"
-"SFN200008190",0,"ej,cox-b103,M,relic901,Interference call non-call Braves Manager Bobby Cox ejected by HP umpire Charlie Reliford in fourth"
-"SFN200008220",40,"ej,lee-d002,P,everm901,Balls and strikes Derrek Lee ejected by HP umpire Mike Everitt"
-"SFN200009020",0,"ej,acoso801,C,packs901,Balls and strikes Cubs Coach Oscar Acosta ejected by HP umpire Scott Packard in second"
-"SFN200009020",52,"Debut game for Juan Melo"
-"SFN200009020",71,"Debut game for Ryan Vogelsong"
-"SFN200009020",78,"Debut game for Damon Minor"
-"SFN200009030",60,"DWS: called DP, but is this continuous action?"
-"SFN200009030",76,"$Grace badly hurt on foul ball"
-"SFN200009030",77,"K to Grace"
-"SFN200009050",42,"Debut game for Pedro Feliz"
-"SFN200009070",9,"Debut game for Greg LaRocca"
-"SFN200009070",46,"$the ball caromed off Snow's glove to Kent"
-"SFN200009180",62,"Debut game for Chad Zerbe"
-"SFN200009231",3,"$into SF Bay; Gonzalez becomes the first to homer into the bay and into the pool in Phoenix"
-"SFN200004110",0,"$First game at Pacific Bell Park"
-"SFN200004120",0,"Suspend=20000413,,3,4,36"
-"SFN200004120",49,"suspended,20000413,SFO03,rain $game suspended for rain until the next day"
-"SFN200004150",56,"Debut game for Scott Linebrink"
-"SFN200004280",71,"DWS: originally scored E6"
-"SFN200005050",43,"ej,cirij001,P,eddid901,Called third strike Jeff Cirillo ejected by HP umpire Doug Eddings"
-"SFN200005050",48,"ej,kentj001,P,eddid901,Called third strike Jeff Kent ejected by HP umpire Doug Eddings"
-"SFN200005060",27,"rounded base too far"
-"SFN200005090",14,"IPHR - first at Pacific Bell Park"
-"SFN200005230",33,"ej,aurir001,P,gibsg901,Balls and strikes Rich Aurilia ejected by HP umpire Greg Gibson"
-"SFN200006160",15,"Debut game for Chris Truby"
-"SFN200006300",29,"$Marvin Benard called for interference with catcher"
-"SFN200008060",1,"originally scored E6, changed after game"
-"SFN200008060",20,"originally scored E7 with no RBI, changed after game"
-"SFN200008190",31,"ej,cox-b103,M,relic901,Interference non-call $Braves manager Cox ejected by HP umpire Reliford for arguing that Burks should be out for running inside baseline and interfering with pitcher's throw"
-"SFN200008220",40,"ej,lee-d002,P,everm901,Balls and strikes Derrek Lee ejected by HP umpire Mike Everitt"
-"SFN200009020",20,"ej,acoso801,C,packs901,Balls and strikes $Cubs coach Acosta ejected by HP umpire Packard for arguing balls and strikes during mound visit; Cubs manager Baylor then came to mound to argue the ejection and the Cubs were were forced to change pitchers since it was ruled as two mound visits during same batter"
-"SFN200009020",52,"Debut game for Juan Melo"
-"SFN200009020",71,"Debut game for Ryan Vogelsong"
-"SFN200009020",78,"Debut game for Damon Minor"
-"SFN200009030",60,"DWS: called DP, but is this continuous action?"
-"SFN200009030",76,"$Grace badly hurt on foul ball"
-"SFN200009030",77,"K to Grace"
-"SFN200009050",42,"Debut game for Pedro Feliz"
-"SFN200009070",9,"Debut game for Greg LaRocca"
-"SFN200009070",46,"$the ball caromed off Snow's glove to Kent"
-"SFN200009180",62,"Debut game for Chad Zerbe"
-"SFN200009231",3,"$into SF Bay; Gonzalez becomes the first to homer into the bay and into the pool in Phoenix"
+"SFN200004110",0,"$First game at Pacific Bell Park"FILENAME_TX","LINE_NUMBER_CT"
+
+"SFN200004120",0,"Suspend=20000413,,3,4,36"2000SFN.EVN.regular.comment.csv",2
+
+"SFN200004120",49,"suspended,20000413,SFO03,rain $game suspended for rain until the next day"2000SFN.EVN.regular.comment.csv",3
+
+"SFN200004150",56,"Debut game for Scott Linebrink"2000SFN.EVN.regular.comment.csv",4
+
+"SFN200004280",71,"DWS: originally scored E6"2000SFN.EVN.regular.comment.csv",5
+
+"SFN200005050",43,"ej,cirij001,P,eddid901,Called third strike Jeff Cirillo ejected by HP umpire Doug Eddings"2000SFN.EVN.regular.comment.csv",6
+
+"SFN200005050",48,"ej,kentj001,P,eddid901,Called third strike Jeff Kent ejected by HP umpire Doug Eddings"2000SFN.EVN.regular.comment.csv",7
+
+"SFN200005060",27,"rounded base too far"2000SFN.EVN.regular.comment.csv",8
+
+"SFN200005090",14,"IPHR - first at Pacific Bell Park"2000SFN.EVN.regular.comment.csv",9
+
+"SFN200005230",33,"ej,aurir001,P,gibsg901,Balls and strikes Rich Aurilia ejected by HP umpire Greg Gibson"2000SFN.EVN.regular.comment.csv",10
+
+"SFN200006160",15,"Debut game for Chris Truby"2000SFN.EVN.regular.comment.csv",11
+
+"SFN200006300",29,"$Marvin Benard called for interference with catcher"2000SFN.EVN.regular.comment.csv",12
+
+"SFN200008060",1,"originally scored E6, changed after game"2000SFN.EVN.regular.comment.csv",13
+
+"SFN200008060",20,"originally scored E7 with no RBI, changed after game"2000SFN.EVN.regular.comment.csv",14
+
+"SFN200008190",31,"ej,cox-b103,M,relic901,Interference non-call $Braves manager Cox ejected by HP umpire Reliford for arguing that Burks should be out for running inside baseline and interfering with pitcher's throw"2000SFN.EVN.regular.comment.csv",15
+
+"SFN200008220",40,"ej,lee-d002,P,everm901,Balls and strikes Derrek Lee ejected by HP umpire Mike Everitt"2000SFN.EVN.regular.comment.csv",16
+
+"SFN200009020",20,"ej,acoso801,C,packs901,Balls and strikes $Cubs coach Acosta ejected by HP umpire Packard for arguing balls and strikes during mound visit; Cubs manager Baylor then came to mound to argue the ejection and the Cubs were were forced to change pitchers since it was ruled as two mound visits during same batter"2000SFN.EVN.regular.comment.csv",17
+
+"SFN200009020",52,"Debut game for Juan Melo"2000SFN.EVN.regular.comment.csv",18
+
+"SFN200009020",71,"Debut game for Ryan Vogelsong"2000SFN.EVN.regular.comment.csv",19
+
+"SFN200009020",78,"Debut game for Damon Minor"2000SFN.EVN.regular.comment.csv",20
+
+"SFN200009030",60,"DWS: called DP, but is this continuous action?"2000SFN.EVN.regular.comment.csv",21
+
+"SFN200009030",76,"$Grace badly hurt on foul ball"2000SFN.EVN.regular.comment.csv",22
+
+"SFN200009030",77,"K to Grace"2000SFN.EVN.regular.comment.csv",23
+
+"SFN200009050",42,"Debut game for Pedro Feliz"2000SFN.EVN.regular.comment.csv",24
+
+"SFN200009070",9,"Debut game for Greg LaRocca"2000SFN.EVN.regular.comment.csv",25
+
+"SFN200009070",46,"$the ball caromed off Snow's glove to Kent"2000SFN.EVN.regular.comment.csv",26
+
+"SFN200009180",62,"Debut game for Chad Zerbe"2000SFN.EVN.regular.comment.csv",27
+
+"SFN200009231",3,"$into SF Bay; Gonzalez becomes the first to homer into the bay and into the pool in Phoenix"2000SFN.EVN.regular.comment.csv",28
+

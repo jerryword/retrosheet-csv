@@ -1,15 +1,14 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"BOS197510120",53,"27 minute rain delay"
-"CIN197510140",25,"$Fred Lynn slipped after rounding 1B"
-"CIN197510140",32,"$Gary Nolan left with a stiff neck"
-"CIN197510140",80,"$Carlton Fisk threw the ball into CF after colliding with Ed Armbrister; Fisk argued for interference"
-"BOS197510210",94,"$Dwight Evans robbed Joe Morgan of a probable home run with a leaping catch then threw in to double Ken Griffey, who had rounded 2B"
-"BOS197510210",103,"$great unintentional video from NBC due to one of the residents in the wall; the cameraman was watching a rat and not paying attention to the director; the ball struck the LF pole"
-"BOS197510220",57,"$Bill Lee left with a blister"
-"BOS197510120",53,"27 minute rain delay"
-"CIN197510140",25,"$Fred Lynn slipped after rounding 1B"
-"CIN197510140",32,"$Gary Nolan left with a stiff neck"
-"CIN197510140",80,"$Carlton Fisk threw the ball into CF after colliding with Ed Armbrister; Fisk argued for interference"
-"BOS197510210",94,"$Dwight Evans robbed Joe Morgan of a probable home run with a leaping catch then threw in to double Ken Griffey, who had rounded 2B"
-"BOS197510210",103,"$great unintentional video from NBC due to one of the residents in the wall; the cameraman was watching a rat and not paying attention to the director; the ball struck the LF pole"
-"BOS197510220",57,"$Bill Lee left with a blister"
+"BOS197510120",53,"27 minute rain delay"FILENAME_TX","LINE_NUMBER_CT"
+
+"CIN197510140",25,"$Fred Lynn slipped after rounding 1B"1975WS.EVE.post.comment.csv",2
+
+"CIN197510140",32,"$Gary Nolan left with a stiff neck"1975WS.EVE.post.comment.csv",3
+
+"CIN197510140",80,"$Carlton Fisk threw the ball into CF after colliding with Ed Armbrister; Fisk argued for interference"1975WS.EVE.post.comment.csv",4
+
+"BOS197510210",94,"$Dwight Evans robbed Joe Morgan of a probable home run with a leaping catch then threw in to double Ken Griffey, who had rounded 2B"1975WS.EVE.post.comment.csv",5
+
+"BOS197510210",103,"$great unintentional video from NBC due to one of the residents in the wall; the cameraman was watching a rat and not paying attention to the director; the ball struck the LF pole"1975WS.EVE.post.comment.csv",6
+
+"BOS197510220",57,"$Bill Lee left with a blister"1975WS.EVE.post.comment.csv",7
+

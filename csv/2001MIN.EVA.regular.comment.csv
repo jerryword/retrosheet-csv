@@ -1,59 +1,58 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"MIN200104090",56,"Debut game for Victor Santos"
-"MIN200104100",15,"Debut game for Bobby Kielty"
-"MIN200104180",70,"ej,muset101,M,coope901,Arguing double Royals Manager Tony Muser ejected by 3B umpire Eric Cooper in 8th"
-"MIN200104290",27,"DV chg - 1B dropped ball backed up by catcher"
-"MIN200105020",67,"two delays in this game as umpires nearly give forfeit to Yankees because of fans' throwing things at Knoblauch"
-"MIN200105110",11,"DV: how is this UR???"
-"MIN200105150",39,"$power outage delay for 18 minutes in the 5th"
-"MIN200105160",3,"DV: I don't know why but it must be this one UR"
-"MIN200105220",36,"DV assumes TH2 for UR; could be TH1"
-"MIN200105262",1,"Debut game for Brad Thomas"
-"MIN200106060",49,"$Gonzalez left the game with a strained right groin"
-"MIN200106070",62,"Debut game for Juan Rincon"
-"MIN200106080",34,"originally scored a double"
-"MIN200106090",43,"$Matt Lawton turned the wrong way at 1B on wild throw and was slow to return to the bag"
-"MIN200106120",15,"ej,dierl101,M,iassd901,Call at 1B Astros Manager Larry Dierker ejected by 1B umpire Dan Iassogna in 3rd"
-"MIN200106130",3,"$the barrell of Bagwell's bat almost hit SS Castillo"
-"MIN200106140",34,"ej,hayec001,P,hudsm901,Brawl both benches cleared; Astros Charlie Hayes ejected by HP umpire Marvin Hudson"
-"MIN200106280",19,"$Hunter strayed off 2B on grounder, then Blake wandered away from 1B for DP"
-"MIN200106280",22,"$Wells warmed up, then left with strained back"
-"MIN200107220",39,"Debut game for Grant Balfour"
-"MIN200108030",22,"DV: I don't understand this inning's UR Batter who reaches on int is unearned, but it does not extend the inning"
-"MIN200108030",26,"Radke bruised thumb badly, onto 15 day DL"
-"MIN200108180",53,"Pitch was in the dirt, Flaherty threw behind Buchanan. Huff then threw wildly to 2nd."
-"MIN200108290",16,"Debut game for Dustan Mohr"
-"MIN200108290",49,"ej,michc001,P,shulj901,Balk Chris Michalak ejected by 1B umpire John Shulock"
-"MIN200109020",61,"Debut game for Bart Miadich"
-"MIN200109180",66,"Debut game for Mike Rivera"
-"MIN200109200",0,"ej,madlb001,C,reedr901,Balls and strikes Tigers coach Bill Madlock ejected by HP umpire Rick Reed in 1st"
-"MIN200109230",16,"Debut game for Michael Cuddyer"
-"MIN200104090",56,"Debut game for Victor Santos"
-"MIN200104100",15,"Debut game for Bobby Kielty"
-"MIN200104180",70,"ej,muset101,M,coope901,Fair/foul call $Royals Manager Muser ejected by 3B umpire Cooper for arguing that ball hit by Kielty was foul"
-"MIN200104290",27,"DV chg - 1B dropped ball backed up by catcher"
-"MIN200105020",67,"two delays in this game as umpires nearly give forfeit to Yankees because of fans' throwing things at Knoblauch"
-"MIN200105110",11,"DV: how is this UR???"
-"MIN200105150",39,"$power outage delay for 18 minutes in the 5th"
-"MIN200105160",3,"DV: I don't know why but it must be this one UR"
-"MIN200105220",36,"DV assumes TH2 for UR; could be TH1"
-"MIN200105262",1,"Debut game for Brad Thomas"
-"MIN200106060",49,"$Gonzalez left the game with a strained right groin"
-"MIN200106070",62,"Debut game for Juan Rincon"
-"MIN200106080",34,"originally scored a double"
-"MIN200106090",43,"$Matt Lawton turned the wrong way at 1B on wild throw and was slow to return to the bag"
-"MIN200106120",23,"ej,dierl101,M,iassd901,Call at 1B $Astros manager Dierker ejected by 1B umpire Iassogna for arguing that Guzman was out at 1st on infield hit"
-"MIN200106130",3,"$the barrell of Bagwell's bat almost hit SS Castillo"
-"MIN200106140",34,"ej,hayec001,P,hudsm901,Balls and strikes $Astros Hayes, not in game, ejected by HP umpire Hudson for arguing balls and strikes while warming up pitcher"
-"MIN200106280",19,"$Hunter strayed off 2B on grounder, then Blake wandered away from 1B for DP"
-"MIN200106280",22,"$Wells warmed up, then left with strained back"
-"MIN200107220",39,"Debut game for Grant Balfour"
-"MIN200108030",22,"DV: I don't understand this inning's UR Batter who reaches on int is unearned, but it does not extend the inning"
-"MIN200108030",26,"Radke bruised thumb badly, onto 15 day DL"
-"MIN200108180",53,"Pitch was in the dirt, Flaherty threw behind Buchanan. Huff then threw wildly to 2nd."
-"MIN200108290",16,"Debut game for Dustan Mohr"
-"MIN200108290",49,"ej,michc001,P,shulj901,Balk Chris Michalak ejected by 1B umpire John Shulock"
-"MIN200109020",61,"Debut game for Bart Miadich"
-"MIN200109180",66,"Debut game for Mike Rivera"
-"MIN200109200",4,"ej,madlb001,C,reedr901,Balls and strikes $Tigers coach Madlock ejected by HP umpire Reed for arguing Balls and strikes while Simon was at bat"
-"MIN200109230",16,"Debut game for Michael Cuddyer"
+"MIN200104090",56,"Debut game for Victor Santos"FILENAME_TX","LINE_NUMBER_CT"
+
+"MIN200104100",15,"Debut game for Bobby Kielty"2001MIN.EVA.regular.comment.csv",2
+
+"MIN200104180",70,"ej,muset101,M,coope901,Fair/foul call $Royals Manager Muser ejected by 3B umpire Cooper for arguing that ball hit by Kielty was foul"2001MIN.EVA.regular.comment.csv",3
+
+"MIN200104290",27,"DV chg - 1B dropped ball backed up by catcher"2001MIN.EVA.regular.comment.csv",4
+
+"MIN200105020",67,"two delays in this game as umpires nearly give forfeit to Yankees because of fans' throwing things at Knoblauch"2001MIN.EVA.regular.comment.csv",5
+
+"MIN200105110",11,"DV: how is this UR???"2001MIN.EVA.regular.comment.csv",6
+
+"MIN200105150",39,"$power outage delay for 18 minutes in the 5th"2001MIN.EVA.regular.comment.csv",7
+
+"MIN200105160",3,"DV: I don't know why but it must be this one UR"2001MIN.EVA.regular.comment.csv",8
+
+"MIN200105220",36,"DV assumes TH2 for UR; could be TH1"2001MIN.EVA.regular.comment.csv",9
+
+"MIN200105262",1,"Debut game for Brad Thomas"2001MIN.EVA.regular.comment.csv",10
+
+"MIN200106060",49,"$Gonzalez left the game with a strained right groin"2001MIN.EVA.regular.comment.csv",11
+
+"MIN200106070",62,"Debut game for Juan Rincon"2001MIN.EVA.regular.comment.csv",12
+
+"MIN200106080",34,"originally scored a double"2001MIN.EVA.regular.comment.csv",13
+
+"MIN200106090",43,"$Matt Lawton turned the wrong way at 1B on wild throw and was slow to return to the bag"2001MIN.EVA.regular.comment.csv",14
+
+"MIN200106120",23,"ej,dierl101,M,iassd901,Call at 1B $Astros manager Dierker ejected by 1B umpire Iassogna for arguing that Guzman was out at 1st on infield hit"2001MIN.EVA.regular.comment.csv",15
+
+"MIN200106130",3,"$the barrell of Bagwell's bat almost hit SS Castillo"2001MIN.EVA.regular.comment.csv",16
+
+"MIN200106140",34,"ej,hayec001,P,hudsm901,Balls and strikes $Astros Hayes, not in game, ejected by HP umpire Hudson for arguing balls and strikes while warming up pitcher"2001MIN.EVA.regular.comment.csv",17
+
+"MIN200106280",19,"$Hunter strayed off 2B on grounder, then Blake wandered away from 1B for DP"2001MIN.EVA.regular.comment.csv",18
+
+"MIN200106280",22,"$Wells warmed up, then left with strained back"2001MIN.EVA.regular.comment.csv",19
+
+"MIN200107220",39,"Debut game for Grant Balfour"2001MIN.EVA.regular.comment.csv",20
+
+"MIN200108030",22,"DV: I don't understand this inning's UR Batter who reaches on int is unearned, but it does not extend the inning"2001MIN.EVA.regular.comment.csv",21
+
+"MIN200108030",26,"Radke bruised thumb badly, onto 15 day DL"2001MIN.EVA.regular.comment.csv",22
+
+"MIN200108180",53,"Pitch was in the dirt, Flaherty threw behind Buchanan. Huff then threw wildly to 2nd."2001MIN.EVA.regular.comment.csv",23
+
+"MIN200108290",16,"Debut game for Dustan Mohr"2001MIN.EVA.regular.comment.csv",24
+
+"MIN200108290",49,"ej,michc001,P,shulj901,Balk Chris Michalak ejected by 1B umpire John Shulock"2001MIN.EVA.regular.comment.csv",25
+
+"MIN200109020",61,"Debut game for Bart Miadich"2001MIN.EVA.regular.comment.csv",26
+
+"MIN200109180",66,"Debut game for Mike Rivera"2001MIN.EVA.regular.comment.csv",27
+
+"MIN200109200",4,"ej,madlb001,C,reedr901,Balls and strikes $Tigers coach Madlock ejected by HP umpire Reed for arguing Balls and strikes while Simon was at bat"2001MIN.EVA.regular.comment.csv",28
+
+"MIN200109230",16,"Debut game for Michael Cuddyer"2001MIN.EVA.regular.comment.csv",29
+

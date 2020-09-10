@@ -1,47 +1,46 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"MLN196004200",52,"ej,martb105,P,dascf901,Bench jockeying ej,hutcf101,M,dascf901,Bench jockeying Billy Martin and Reds Manager Fred Hutchinson ejected by HP umpire Frank Dascoli; Martin had been yelling from the bench"
-"MLN196004200",54,"Debut game for Elio Chacon"
-"MLN196005010",62,"ej,logaj101,P,burkk101,Called third strike Johnny Logan ejected by HP umpire Ken Burkhart for arguing about his previous at bat"
-"MLN196005130",19,"$missed squeeze play"
-"MLN196005170",66,"500 ft"
-"MLN196005210",0,"9 minute rain delay before start of game"
-"MLN196005210",15,"48 minute rain delay"
-"MLN196005210",38,"Cubs manager Lou Boudreau stalled by inserting Dick Gernert"
-"MLN196005210",40,"Cubs manager Lou Boudreau stalled by inserting Don Zimmer; then 36 minute rain delay"
-"MLN196005210",52,"$lights turned on"
-"MLN196006160",92,"missing play in MLN196006160"
-"MLN196006240",29,"$the ball got away from catcher Del Crandall on ball four; John Roseboro rounded 1B too far"
-"MLN196007060",59,"ej,maucg101,M,varge901,Catch/trap call Phillies Manager Gene Mauch ejected by 2B umpire Ed Vargo arguing that Vargo failed to signal that the low line drive was caught, which resulted in Turk Farrell being called out at 3B on appeal for not tagging up"
-"MLN196008100",21,"$lights on 2:20"
-"MLN196008190",5,"$Tony Taylor stole home when Juan Pizarro threw to 1B"
-"MLN196009090",64,"Debut game for Len Gabrielson"
-"MLN196009100",30,"missing play in MLN196009100"
-"MLN196009100",34,"Debut game for Phil Ortega"
-"MLN196009140",35,"rain began to fall"
-"MLN196009140",42,"rain stopped"
-"MLN196009140",60,"rain began to fall"
-"MLN196009180",66,"Game called due to rain"
-"MLN196009250",56,"Debut game for Joe Torre"
-"MLN196004200",52,"ej,martb105,P,dascf901,Bench jockeying ej,hutcf101,M,dascf901,Bench jockeying Billy Martin and Reds Manager Fred Hutchinson ejected by HP umpire Frank Dascoli; Martin had been yelling from the bench"
-"MLN196004200",54,"Debut game for Elio Chacon"
-"MLN196005010",62,"ej,logaj101,P,burkk101,Called third strike Johnny Logan ejected by HP umpire Ken Burkhart for arguing about his previous at bat"
-"MLN196005130",19,"$missed squeeze play"
-"MLN196005170",66,"500 ft"
-"MLN196005210",0,"9 minute rain delay before start of game"
-"MLN196005210",15,"48 minute rain delay"
-"MLN196005210",38,"Cubs manager Lou Boudreau stalled by inserting Dick Gernert"
-"MLN196005210",40,"Cubs manager Lou Boudreau stalled by inserting Don Zimmer; then 36 minute rain delay"
-"MLN196005210",52,"$lights turned on"
-"MLN196006160",92,"missing play in MLN196006160"
-"MLN196006240",29,"$the ball got away from catcher Del Crandall on ball four; John Roseboro rounded 1B too far"
-"MLN196007060",59,"ej,maucg101,M,varge901,Catch/trap call Phillies Manager Gene Mauch ejected by 2B umpire Ed Vargo arguing that Vargo failed to signal that the low line drive was caught, which resulted in Turk Farrell being called out at 3B on appeal for not tagging up"
-"MLN196008100",21,"$lights on 2:20"
-"MLN196008190",5,"$Tony Taylor stole home when Juan Pizarro threw to 1B"
-"MLN196009090",64,"Debut game for Len Gabrielson"
-"MLN196009100",30,"missing play in MLN196009100"
-"MLN196009100",34,"Debut game for Phil Ortega"
-"MLN196009140",35,"rain began to fall"
-"MLN196009140",42,"rain stopped"
-"MLN196009140",60,"rain began to fall"
-"MLN196009180",66,"Game called due to rain"
-"MLN196009250",56,"Debut game for Joe Torre"
+"MLN196004200",52,"ej,martb105,P,dascf901,Bench jockeying ej,hutcf101,M,dascf901,Bench jockeying Billy Martin and Reds Manager Fred Hutchinson ejected by HP umpire Frank Dascoli; Martin had been yelling from the bench"FILENAME_TX","LINE_NUMBER_CT"
+
+"MLN196004200",54,"Debut game for Elio Chacon"1960MLN.EVN.regular.comment.csv",2
+
+"MLN196005010",62,"ej,logaj101,P,burkk101,Called third strike Johnny Logan ejected by HP umpire Ken Burkhart for arguing about his previous at bat"1960MLN.EVN.regular.comment.csv",3
+
+"MLN196005130",19,"$missed squeeze play"1960MLN.EVN.regular.comment.csv",4
+
+"MLN196005170",66,"500 ft"1960MLN.EVN.regular.comment.csv",5
+
+"MLN196005210",0,"9 minute rain delay before start of game"1960MLN.EVN.regular.comment.csv",6
+
+"MLN196005210",15,"48 minute rain delay"1960MLN.EVN.regular.comment.csv",7
+
+"MLN196005210",38,"Cubs manager Lou Boudreau stalled by inserting Dick Gernert"1960MLN.EVN.regular.comment.csv",8
+
+"MLN196005210",40,"Cubs manager Lou Boudreau stalled by inserting Don Zimmer; then 36 minute rain delay"1960MLN.EVN.regular.comment.csv",9
+
+"MLN196005210",52,"$lights turned on"1960MLN.EVN.regular.comment.csv",10
+
+"MLN196006160",92,"missing play in MLN196006160"1960MLN.EVN.regular.comment.csv",11
+
+"MLN196006240",29,"$the ball got away from catcher Del Crandall on ball four; John Roseboro rounded 1B too far"1960MLN.EVN.regular.comment.csv",12
+
+"MLN196007060",59,"ej,maucg101,M,varge901,Catch/trap call Phillies Manager Gene Mauch ejected by 2B umpire Ed Vargo arguing that Vargo failed to signal that the low line drive was caught, which resulted in Turk Farrell being called out at 3B on appeal for not tagging up"1960MLN.EVN.regular.comment.csv",13
+
+"MLN196008100",21,"$lights on 2:20"1960MLN.EVN.regular.comment.csv",14
+
+"MLN196008190",5,"$Tony Taylor stole home when Juan Pizarro threw to 1B"1960MLN.EVN.regular.comment.csv",15
+
+"MLN196009090",64,"Debut game for Len Gabrielson"1960MLN.EVN.regular.comment.csv",16
+
+"MLN196009100",30,"missing play in MLN196009100"1960MLN.EVN.regular.comment.csv",17
+
+"MLN196009100",34,"Debut game for Phil Ortega"1960MLN.EVN.regular.comment.csv",18
+
+"MLN196009140",35,"rain began to fall"1960MLN.EVN.regular.comment.csv",19
+
+"MLN196009140",42,"rain stopped"1960MLN.EVN.regular.comment.csv",20
+
+"MLN196009140",60,"rain began to fall"1960MLN.EVN.regular.comment.csv",21
+
+"MLN196009180",66,"Game called due to rain"1960MLN.EVN.regular.comment.csv",22
+
+"MLN196009250",56,"Debut game for Joe Torre"1960MLN.EVN.regular.comment.csv",23
+

@@ -1,45 +1,44 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"OAK198504120",58,"Debut game for Bob Kipper"
-"OAK198504150",58,"ej,regap101,C,sprim901,Warning to pitcher $Mariners coach Regan ejected by 2B umpire Springstead for arguing warning given to Langston after pitch to Davis"
-"OAK198504160",12,"$Mike Morgan injured"
-"OAK198505030",70,"Debut game for Tim Birtsas"
-"OAK198505170",82,"$the ball hit 2B umpire Terry Cooney and stayed in his coat"
-"OAK198505210",84,"ej,moorj102,C,mckej901,Call at HP Athletics manager Jackie Moore ejected by HP umpire Jim McKean"
-"OAK198505270",60,"$Don Baylor called for interference for running into his own batted ball"
-"OAK198506250",54,"$bunt single to CF"
-"OAK198507060",37,"Originally E6... one of Fernandez errors charged to Garcia Guessing it is this one, since the play is not marked in book"
-"OAK198507100",75,"ej,willb104,C,fordd901,Call at 1B Athletics coach Billy Williams ejected by 1B umpire Dale Ford"
-"OAK198507110",36,"ej,moorc001,P,fordd901,Balls and strikes $Catchere Moore and Athletic coach Muser ejected by HP umpire Ford arguing balls and strikes"
-"OAK198507120",36,"ej,bambg101,M,kaisk901,Call at 1B $Brewers manager Bamberger ejected by 1B umpire Kaiser for arguing that Yount was safe at 1st"
-"OAK198507120",46,"missing play in OAK198507120"
-"OAK198507140",12,"ej,etcha101,C,fordd901,Umpire baiting Brewers coach Andy Etchebarren ejected by 1B umpire Dale Ford"
-"OAK198507140",26,"ej,bambg101,M,fordd901,Call at 1B Brewers manager George Bamberger ejected by 1B umpire Dale Ford"
-"OAK198507300",38,"ej,maucg101,M,morrd901,Balls and strikes $Angels manager Mauch ejected by HP umpire Morrison for arguing balls and strikes with Murphy at bat"
-"OAK198508210",68,"ej,moorj102,M,hendt901,Call at 1B Athletics manager Jackie Moore ejected by 1B umpire Ted Hendry"
-"OAK198508220",112,"Debut game for Chuck Cary"
-"OAK198508260",117,"$Dwayne Murphy called for interference for running into his own bunt"
-"OAK198509100",1,"Debut game for Jose Guzman"
-"OAK198509110",65,"$Steve Ontiveros' throw hit George Wright on the head"
-"OAK198509140",33,"ej,moorj102,M,koscg901,Balls and strikes $Athletics manager Moore ejected by HP umpire Kosc for arguing a called strike (not strike 3)"
-"OAK198504120",58,"Debut game for Bob Kipper"
-"OAK198504150",58,"ej,regap101,C,sprim901,Warning to pitcher $Mariners coach Regan ejected by 2B umpire Springstead for arguing warning given to Langston after pitch to Davis"
-"OAK198504160",12,"$Mike Morgan injured"
-"OAK198505030",70,"Debut game for Tim Birtsas"
-"OAK198505170",82,"$the ball hit 2B umpire Terry Cooney and stayed in his coat"
-"OAK198505210",84,"ej,moorj102,C,mckej901,Call at HP Athletics manager Jackie Moore ejected by HP umpire Jim McKean"
-"OAK198505270",60,"$Don Baylor called for interference for running into his own batted ball"
-"OAK198506250",54,"$bunt single to CF"
-"OAK198507060",37,"Originally E6... one of Fernandez errors charged to Garcia Guessing it is this one, since the play is not marked in book"
-"OAK198507100",75,"ej,willb104,C,fordd901,Call at 1B Athletics coach Billy Williams ejected by 1B umpire Dale Ford"
-"OAK198507110",36,"ej,moorc001,P,fordd901,Balls and strikes ej,muset001,C,fordd901,Balls and strikes $Catcher Moore and Brewers coach Muser ejected by HP umpire Ford arguing balls and strikes"
-"OAK198507120",36,"ej,bambg101,M,kaisk901,Call at 1B $Brewers manager Bamberger ejected by 1B umpire Kaiser for arguing that Yount was safe at 1st"
-"OAK198507120",46,"missing play in OAK198507120"
-"OAK198507140",12,"ej,etcha101,C,fordd901,Umpire baiting Brewers coach Andy Etchebarren ejected by 1B umpire Dale Ford"
-"OAK198507140",26,"ej,bambg101,M,fordd901,Call at 1B Brewers manager George Bamberger ejected by 1B umpire Dale Ford"
-"OAK198507300",38,"ej,maucg101,M,morrd901,Balls and strikes $Angels manager Mauch ejected by HP umpire Morrison for arguing balls and strikes with Murphy at bat"
-"OAK198508210",68,"ej,moorj102,M,hendt901,Call at 1B Athletics manager Jackie Moore ejected by 1B umpire Ted Hendry"
-"OAK198508220",112,"Debut game for Chuck Cary"
-"OAK198508260",117,"$Dwayne Murphy called for interference for running into his own bunt"
-"OAK198509100",1,"Debut game for Jose Guzman"
-"OAK198509110",65,"$Steve Ontiveros' throw hit George Wright on the head"
-"OAK198509140",33,"ej,moorj102,M,koscg901,Balls and strikes $Athletics manager Moore ejected by HP umpire Kosc for arguing a called strike (not strike 3)"
+"OAK198504120",58,"Debut game for Bob Kipper"FILENAME_TX","LINE_NUMBER_CT"
+
+"OAK198504150",58,"ej,regap101,C,sprim901,Warning to pitcher $Mariners coach Regan ejected by 2B umpire Springstead for arguing warning given to Langston after pitch to Davis"1985OAK.EVA.regular.comment.csv",2
+
+"OAK198504160",12,"$Mike Morgan injured"1985OAK.EVA.regular.comment.csv",3
+
+"OAK198505030",70,"Debut game for Tim Birtsas"1985OAK.EVA.regular.comment.csv",4
+
+"OAK198505170",82,"$the ball hit 2B umpire Terry Cooney and stayed in his coat"1985OAK.EVA.regular.comment.csv",5
+
+"OAK198505210",84,"ej,moorj102,C,mckej901,Call at HP Athletics manager Jackie Moore ejected by HP umpire Jim McKean"1985OAK.EVA.regular.comment.csv",6
+
+"OAK198505270",60,"$Don Baylor called for interference for running into his own batted ball"1985OAK.EVA.regular.comment.csv",7
+
+"OAK198506250",54,"$bunt single to CF"1985OAK.EVA.regular.comment.csv",8
+
+"OAK198507060",37,"Originally E6... one of Fernandez errors charged to Garcia Guessing it is this one, since the play is not marked in book"1985OAK.EVA.regular.comment.csv",9
+
+"OAK198507100",75,"ej,willb104,C,fordd901,Call at 1B Athletics coach Billy Williams ejected by 1B umpire Dale Ford"1985OAK.EVA.regular.comment.csv",10
+
+"OAK198507110",36,"ej,moorc001,P,fordd901,Balls and strikes ej,muset001,C,fordd901,Balls and strikes $Catcher Moore and Brewers coach Muser ejected by HP umpire Ford arguing balls and strikes"1985OAK.EVA.regular.comment.csv",11
+
+"OAK198507120",36,"ej,bambg101,M,kaisk901,Call at 1B $Brewers manager Bamberger ejected by 1B umpire Kaiser for arguing that Yount was safe at 1st"1985OAK.EVA.regular.comment.csv",12
+
+"OAK198507120",46,"missing play in OAK198507120"1985OAK.EVA.regular.comment.csv",13
+
+"OAK198507140",12,"ej,etcha101,C,fordd901,Umpire baiting Brewers coach Andy Etchebarren ejected by 1B umpire Dale Ford"1985OAK.EVA.regular.comment.csv",14
+
+"OAK198507140",26,"ej,bambg101,M,fordd901,Call at 1B Brewers manager George Bamberger ejected by 1B umpire Dale Ford"1985OAK.EVA.regular.comment.csv",15
+
+"OAK198507300",38,"ej,maucg101,M,morrd901,Balls and strikes $Angels manager Mauch ejected by HP umpire Morrison for arguing balls and strikes with Murphy at bat"1985OAK.EVA.regular.comment.csv",16
+
+"OAK198508210",68,"ej,moorj102,M,hendt901,Call at 1B Athletics manager Jackie Moore ejected by 1B umpire Ted Hendry"1985OAK.EVA.regular.comment.csv",17
+
+"OAK198508220",112,"Debut game for Chuck Cary"1985OAK.EVA.regular.comment.csv",18
+
+"OAK198508260",117,"$Dwayne Murphy called for interference for running into his own bunt"1985OAK.EVA.regular.comment.csv",19
+
+"OAK198509100",1,"Debut game for Jose Guzman"1985OAK.EVA.regular.comment.csv",20
+
+"OAK198509110",65,"$Steve Ontiveros' throw hit George Wright on the head"1985OAK.EVA.regular.comment.csv",21
+
+"OAK198509140",33,"ej,moorj102,M,koscg901,Balls and strikes $Athletics manager Moore ejected by HP umpire Kosc for arguing a called strike (not strike 3)"1985OAK.EVA.regular.comment.csv",22
+

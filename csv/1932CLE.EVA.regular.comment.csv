@@ -1,43 +1,42 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"CLE193204220",20,"$Ed Morgan and Sarge Connally collided and Connally dropped the ball"
-"CLE193204220",42,"$Ed Montague fumbled Joe Vosmik's relay throw"
-"CLE193205020",59,"$Johnny Burnett and Dick Porter both ended up at 3B"
-"CLE193205040",73,"pbp account ends here, rest deduced"
-"CLE193205210",64,"$after Bruce Campbell let the ball go past, Fred Schulte fumbled the ball on the rebound from the wall"
-"CLE193205210",80,"$the ball struck 1B umpire Bill Dinneen's leg"
-"CLE193205301",37,"$Johnny Hodapp scored while Sarge Connally argued with Liz Funk"
-"CLE193205302",0,"ej,butlj101,C,morig101,Bench jockeying White Sox Coach Johnny Butler ejected by HP umpire George Moriarty sometime in game"
-"CLE193206090",66,"$Ed Morgan allowed himself to be picked off 1B and Joe Vosmik scored; Eric McNair muffed Jimmie Foxx's throw"
-"CLE193206100",12,"$Ed Coleman injured his left ankle sliding into HP"
-"CLE193206130",73,"pbp account ends here, rest deduced"
-"CLE193206262",10,"$Earl Averill allowed himself to be caught off 1B; Dick Porter started toward HP but then reversed"
-"CLE193206262",63,"$the ball rolled into the bullpen"
-"CLE193207100",164,"$Bill Cissell and Dick Porter collided"
-"CLE193208060",33,"$Bennie Tate left with a split finger"
-"CLE193208072",14,"$infield in"
-"CLE193208080",64,"$Luke Sewell left with a split finger from a foul ball"
-"CLE193208130",26,"$Johnny Burnett injured by Billy Rogell's slide"
-"CLE193209130",38,"$Earle Combs overslid 2B"
-"CLE193209202",60,"$Willie Kamm and Glenn Myatt both ended up at 3B"
-"CLE193209252",46,"Game called for darkness"
-"CLE193204220",20,"$Ed Morgan and Sarge Connally collided and Connally dropped the ball"
-"CLE193204220",42,"$Ed Montague fumbled Joe Vosmik's relay throw"
-"CLE193205020",59,"$Johnny Burnett and Dick Porter both ended up at 3B"
-"CLE193205210",64,"$after Bruce Campbell let the ball go past, Fred Schulte fumbled the ball on the rebound from the wall"
-"CLE193205210",80,"$the ball struck 1B umpire Bill Dinneen's leg"
-"CLE193205301",37,"$Johnny Hodapp scored while Sarge Connally argued with Liz Funk"
-"CLE193205302",0,"ej,butlj101,C,morig101,Bench jockeying White Sox Coach Johnny Butler ejected by HP umpire George Moriarty sometime in game"
-"CLE193206090",66,"$Ed Morgan allowed himself to be picked off 1B and Joe Vosmik scored; Eric McNair muffed Jimmie Foxx's throw"
-"CLE193206100",12,"$Ed Coleman injured his left ankle sliding into HP"
-"CLE193206130",73,"pbp account ends here, rest deduced"
-"CLE193206262",10,"$Earl Averill allowed himself to be caught off 1B; Dick Porter started toward HP but then reversed"
-"CLE193206262",63,"$the ball rolled into the bullpen"
-"CLE193207100",164,"$Bill Cissell and Dick Porter collided"
-"CLE193208060",33,"$Bennie Tate left with a split finger"
-"CLE193208072",14,"$infield in"
-"CLE193208080",64,"$Luke Sewell left with a split finger from a foul ball"
-"CLE193208130",26,"$Johnny Burnett injured by Billy Rogell's slide"
-"CLE193209130",38,"$Earle Combs overslid 2B"
-"CLE193209202",60,"$Willie Kamm and Glenn Myatt both ended up at 3B"
-"CLE193209230",36,"ej,berrc103,P,morig101,Bench jockeying $White Sox Berry, not in game, ejected by HP umpire Moriarty for bench jockeying"
-"CLE193209252",46,"Game called for darkness"
+"CLE193204220",20,"$Ed Morgan and Sarge Connally collided and Connally dropped the ball"FILENAME_TX","LINE_NUMBER_CT"
+
+"CLE193204220",42,"$Ed Montague fumbled Joe Vosmik's relay throw"1932CLE.EVA.regular.comment.csv",2
+
+"CLE193205020",59,"$Johnny Burnett and Dick Porter both ended up at 3B"1932CLE.EVA.regular.comment.csv",3
+
+"CLE193205210",64,"$after Bruce Campbell let the ball go past, Fred Schulte fumbled the ball on the rebound from the wall"1932CLE.EVA.regular.comment.csv",4
+
+"CLE193205210",80,"$the ball struck 1B umpire Bill Dinneen's leg"1932CLE.EVA.regular.comment.csv",5
+
+"CLE193205301",37,"$Johnny Hodapp scored while Sarge Connally argued with Liz Funk"1932CLE.EVA.regular.comment.csv",6
+
+"CLE193205302",0,"ej,butlj101,C,morig101,Bench jockeying White Sox Coach Johnny Butler ejected by HP umpire George Moriarty sometime in game"1932CLE.EVA.regular.comment.csv",7
+
+"CLE193206090",66,"$Ed Morgan allowed himself to be picked off 1B and Joe Vosmik scored; Eric McNair muffed Jimmie Foxx's throw"1932CLE.EVA.regular.comment.csv",8
+
+"CLE193206100",12,"$Ed Coleman injured his left ankle sliding into HP"1932CLE.EVA.regular.comment.csv",9
+
+"CLE193206130",73,"pbp account ends here, rest deduced"1932CLE.EVA.regular.comment.csv",10
+
+"CLE193206262",10,"$Earl Averill allowed himself to be caught off 1B; Dick Porter started toward HP but then reversed"1932CLE.EVA.regular.comment.csv",11
+
+"CLE193206262",63,"$the ball rolled into the bullpen"1932CLE.EVA.regular.comment.csv",12
+
+"CLE193207100",164,"$Bill Cissell and Dick Porter collided"1932CLE.EVA.regular.comment.csv",13
+
+"CLE193208060",33,"$Bennie Tate left with a split finger"1932CLE.EVA.regular.comment.csv",14
+
+"CLE193208072",14,"$infield in"1932CLE.EVA.regular.comment.csv",15
+
+"CLE193208080",64,"$Luke Sewell left with a split finger from a foul ball"1932CLE.EVA.regular.comment.csv",16
+
+"CLE193208130",26,"$Johnny Burnett injured by Billy Rogell's slide"1932CLE.EVA.regular.comment.csv",17
+
+"CLE193209130",38,"$Earle Combs overslid 2B"1932CLE.EVA.regular.comment.csv",18
+
+"CLE193209202",60,"$Willie Kamm and Glenn Myatt both ended up at 3B"1932CLE.EVA.regular.comment.csv",19
+
+"CLE193209230",36,"ej,berrc103,P,morig101,Bench jockeying $White Sox Berry, not in game, ejected by HP umpire Moriarty for bench jockeying"1932CLE.EVA.regular.comment.csv",20
+
+"CLE193209252",46,"Game called for darkness"1932CLE.EVA.regular.comment.csv",21
+

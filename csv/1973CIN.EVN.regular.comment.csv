@@ -1,79 +1,78 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"CIN197304050",74,"Debut game for Gene Locklear"
-"CIN197304070",76,"only fourth ball intentional"
-"CIN197304210",19,"missing play in CIN197304210"
-"CIN197304210",63,"ej,andes101,M,sudoe901,Call at 2B $Bobby Tolan called out trying to advance when the ball got away from catcher Johnny Oates; Davey Johnson dropped the ball during the play; Reds Manager Sparky Anderson ejected by HP umpire Ed Sudol"
-"CIN197304220",67,"$Bobby Tolan out trying to advance when wild pitch bounced off back wall back to HP"
-"CIN197304250",31,"$Ron Fairly tried to score on short wild pitch but called a caught stealing"
-"CIN197305160",43,"77 minute rain delay"
-"CIN197305160",52,"25 minute rain delay"
-"CIN197305180",37,"$Cito Gaston and Johnny Grubb collided on fly ball"
-"CIN197305190",5,"13 minute rain delay"
-"CIN197305190",41,"82 minute rain delay"
-"CIN197305202",8,"ej,gaglp101,P,tatat901,Bench jockeying Phil Gagliano ejected by 1B umpire Terry Tata"
-"CIN197305220",42,"51 minute rain delay"
-"CIN197305230",73,"ej,may-l101,P,burkk101,Balls and strikes Lee May ejected by HP umpire Ken Burkhart"
-"CIN197305270",29,"50 minute rain delay"
-"CIN197305280",61,"65 minute rain delay"
-"CIN197306050",73,"50 minute rain delay"
-"CIN197306150",44,"51 minute rain delay"
-"CIN197306171",11,"ej,ellid101,P,froeb901,Bench Jockeying $Pirate pitcher Ellis (not in game) ejected by HP umpire Froemming for bench jockeying"
-"CIN197306290",46,"ej,colbn101,P,varge901,Call at 2B Nate Colbert ejected by 2B umpire Ed Vargo"
-"CIN197307012",12,"45 minute rain delay"
-"CIN197307030",0,"2:25 rain delay before start of game"
-"CIN197307030",31,"ej,speic001,P,dalej901,Balls and strikes Chris Speier ejected by HP umpire Jerry Dale"
-"CIN197307140",0,"30 minute rain delay before start of game"
-"CIN197307180",59,"Debut game for Dave Wallace"
-"CIN197307190",2,"Debut game for Jim Cox"
-"CIN197307190",25,"Debut game for Craig Caskey"
-"CIN197307200",43,"16 minute rain delay"
-"CIN197307210",0,"48 minute rain delay before start of game"
-"CIN197307220",39,"$Ron Fairly lost the pop fly in the sun"
-"CIN197307220",66,"Dave Concepcion suffered a fractured fibula and dislocated ankle"
-"CIN197308080",69,"ej,lockw101,M,froeb901,Fair/foul call Cubs Manager Whitey Lockman ejected by 1B umpire Bruce Froemming"
-"CIN197308250",12,"Debut game for Ken Griffey"
-"CIN197308290",64,"$Johnny Bench's return throw got away from pitcher Jack Billingham"
-"CIN197309150",57,"ej,bencj101,P,olsea901,Granting of time at last moment ej,andes101,M,olsea901,Granting of time at last moment $Catcher Bench and Cincinnati manager Anderson ejected by HP umpire Olsen for granting time just before Garr grounded back to pitcher"
-"CIN197309160",16,"ej,ryanc102,C,olsea901,Balls and strikes $Braves coach Ryan ejected by HP umpire Olsen for arguing Grimsley had bunted at a pitch that was called a ball"
-"CIN197309160",92,"Debut game for Dave Cheadle"
-"CIN197309170",0,"55 minute rain delay before start of game"
-"CIN197309290",67,"ej,fox-c101,M,tatat901,Call at 1B $Giants manager Fox ejected by 1B umpire Tata for arguing Arnold was safe at 1st"
-"CIN197304050",74,"Debut game for Gene Locklear"
-"CIN197304070",76,"only fourth ball intentional"
-"CIN197304210",19,"missing play in CIN197304210"
-"CIN197304210",63,"ej,andes101,M,sudoe901,Call at 2B $Bobby Tolan called out trying to advance when the ball got away from catcher Johnny Oates; Davey Johnson dropped the ball during the play; Reds Manager Sparky Anderson ejected by HP umpire Ed Sudol"
-"CIN197304220",67,"$Bobby Tolan out trying to advance when wild pitch bounced off back wall back to HP"
-"CIN197304250",31,"$Ron Fairly tried to score on short wild pitch but called a caught stealing"
-"CIN197305160",43,"77 minute rain delay"
-"CIN197305160",52,"25 minute rain delay"
-"CIN197305180",37,"$Cito Gaston and Johnny Grubb collided on fly ball"
-"CIN197305190",5,"13 minute rain delay"
-"CIN197305190",41,"82 minute rain delay"
-"CIN197305202",8,"ej,gaglp101,P,tatat901,Bench jockeying Phil Gagliano ejected by 1B umpire Terry Tata"
-"CIN197305220",42,"51 minute rain delay"
-"CIN197305230",73,"ej,may-l101,P,burkk101,Balls and strikes Lee May ejected by HP umpire Ken Burkhart"
-"CIN197305270",29,"50 minute rain delay"
-"CIN197305280",61,"65 minute rain delay"
-"CIN197306050",73,"50 minute rain delay"
-"CIN197306150",44,"51 minute rain delay"
-"CIN197306171",11,"ej,ellid101,P,froeb901,Bench Jockeying $Pirate pitcher Ellis (not in game) ejected by HP umpire Froemming for bench jockeying"
-"CIN197306290",46,"ej,colbn101,P,varge901,Call at 2B Nate Colbert ejected by 2B umpire Ed Vargo"
-"CIN197307012",12,"45 minute rain delay"
-"CIN197307030",0,"2:25 rain delay before start of game"
-"CIN197307030",31,"ej,speic001,P,dalej901,Balls and strikes Chris Speier ejected by HP umpire Jerry Dale"
-"CIN197307140",0,"30 minute rain delay before start of game"
-"CIN197307180",59,"Debut game for Dave Wallace"
-"CIN197307190",2,"Debut game for Jim Cox"
-"CIN197307190",25,"Debut game for Craig Caskey"
-"CIN197307200",43,"16 minute rain delay"
-"CIN197307210",0,"48 minute rain delay before start of game"
-"CIN197307220",39,"$Ron Fairly lost the pop fly in the sun"
-"CIN197307220",66,"Dave Concepcion suffered a fractured fibula and dislocated ankle"
-"CIN197308080",69,"ej,lockw101,M,froeb901,Fair/foul call Cubs Manager Whitey Lockman ejected by 1B umpire Bruce Froemming"
-"CIN197308250",12,"Debut game for Ken Griffey"
-"CIN197308290",64,"$Johnny Bench's return throw got away from pitcher Jack Billingham"
-"CIN197309150",57,"ej,bencj101,P,olsea901,Granting of time at last moment ej,andes101,M,olsea901,Granting of time at last moment $Catcher Bench and Cincinnati manager Anderson ejected by HP umpire Olsen for granting time just before Garr grounded back to pitcher"
-"CIN197309160",16,"ej,ryanc102,C,olsea901,Balls and strikes $Braves coach Ryan ejected by 3B umpire Olsen for arguing Grimsley had bunted at a pitch that was called a ball"
-"CIN197309160",92,"Debut game for Dave Cheadle"
-"CIN197309170",0,"55 minute rain delay before start of game"
-"CIN197309290",67,"ej,fox-c101,M,tatat901,Call at 1B $Giants manager Fox ejected by 1B umpire Tata for arguing Arnold was safe at 1st"
+"CIN197304050",74,"Debut game for Gene Locklear"FILENAME_TX","LINE_NUMBER_CT"
+
+"CIN197304070",76,"only fourth ball intentional"1973CIN.EVN.regular.comment.csv",2
+
+"CIN197304210",19,"missing play in CIN197304210"1973CIN.EVN.regular.comment.csv",3
+
+"CIN197304210",63,"ej,andes101,M,sudoe901,Call at 2B $Bobby Tolan called out trying to advance when the ball got away from catcher Johnny Oates; Davey Johnson dropped the ball during the play; Reds Manager Sparky Anderson ejected by HP umpire Ed Sudol"1973CIN.EVN.regular.comment.csv",4
+
+"CIN197304220",67,"$Bobby Tolan out trying to advance when wild pitch bounced off back wall back to HP"1973CIN.EVN.regular.comment.csv",5
+
+"CIN197304250",31,"$Ron Fairly tried to score on short wild pitch but called a caught stealing"1973CIN.EVN.regular.comment.csv",6
+
+"CIN197305160",43,"77 minute rain delay"1973CIN.EVN.regular.comment.csv",7
+
+"CIN197305160",52,"25 minute rain delay"1973CIN.EVN.regular.comment.csv",8
+
+"CIN197305180",37,"$Cito Gaston and Johnny Grubb collided on fly ball"1973CIN.EVN.regular.comment.csv",9
+
+"CIN197305190",5,"13 minute rain delay"1973CIN.EVN.regular.comment.csv",10
+
+"CIN197305190",41,"82 minute rain delay"1973CIN.EVN.regular.comment.csv",11
+
+"CIN197305202",8,"ej,gaglp101,P,tatat901,Bench jockeying Phil Gagliano ejected by 1B umpire Terry Tata"1973CIN.EVN.regular.comment.csv",12
+
+"CIN197305220",42,"51 minute rain delay"1973CIN.EVN.regular.comment.csv",13
+
+"CIN197305230",73,"ej,may-l101,P,burkk101,Balls and strikes Lee May ejected by HP umpire Ken Burkhart"1973CIN.EVN.regular.comment.csv",14
+
+"CIN197305270",29,"50 minute rain delay"1973CIN.EVN.regular.comment.csv",15
+
+"CIN197305280",61,"65 minute rain delay"1973CIN.EVN.regular.comment.csv",16
+
+"CIN197306050",73,"50 minute rain delay"1973CIN.EVN.regular.comment.csv",17
+
+"CIN197306150",44,"51 minute rain delay"1973CIN.EVN.regular.comment.csv",18
+
+"CIN197306171",11,"ej,ellid101,P,froeb901,Bench Jockeying $Pirate pitcher Ellis (not in game) ejected by HP umpire Froemming for bench jockeying"1973CIN.EVN.regular.comment.csv",19
+
+"CIN197306290",46,"ej,colbn101,P,varge901,Call at 2B Nate Colbert ejected by 2B umpire Ed Vargo"1973CIN.EVN.regular.comment.csv",20
+
+"CIN197307012",12,"45 minute rain delay"1973CIN.EVN.regular.comment.csv",21
+
+"CIN197307030",0,"2:25 rain delay before start of game"1973CIN.EVN.regular.comment.csv",22
+
+"CIN197307030",31,"ej,speic001,P,dalej901,Balls and strikes Chris Speier ejected by HP umpire Jerry Dale"1973CIN.EVN.regular.comment.csv",23
+
+"CIN197307140",0,"30 minute rain delay before start of game"1973CIN.EVN.regular.comment.csv",24
+
+"CIN197307180",59,"Debut game for Dave Wallace"1973CIN.EVN.regular.comment.csv",25
+
+"CIN197307190",2,"Debut game for Jim Cox"1973CIN.EVN.regular.comment.csv",26
+
+"CIN197307190",25,"Debut game for Craig Caskey"1973CIN.EVN.regular.comment.csv",27
+
+"CIN197307200",43,"16 minute rain delay"1973CIN.EVN.regular.comment.csv",28
+
+"CIN197307210",0,"48 minute rain delay before start of game"1973CIN.EVN.regular.comment.csv",29
+
+"CIN197307220",39,"$Ron Fairly lost the pop fly in the sun"1973CIN.EVN.regular.comment.csv",30
+
+"CIN197307220",66,"Dave Concepcion suffered a fractured fibula and dislocated ankle"1973CIN.EVN.regular.comment.csv",31
+
+"CIN197308080",69,"ej,lockw101,M,froeb901,Fair/foul call Cubs Manager Whitey Lockman ejected by 1B umpire Bruce Froemming"1973CIN.EVN.regular.comment.csv",32
+
+"CIN197308250",12,"Debut game for Ken Griffey"1973CIN.EVN.regular.comment.csv",33
+
+"CIN197308290",64,"$Johnny Bench's return throw got away from pitcher Jack Billingham"1973CIN.EVN.regular.comment.csv",34
+
+"CIN197309150",57,"ej,bencj101,P,olsea901,Granting of time at last moment ej,andes101,M,olsea901,Granting of time at last moment $Catcher Bench and Cincinnati manager Anderson ejected by HP umpire Olsen for granting time just before Garr grounded back to pitcher"1973CIN.EVN.regular.comment.csv",35
+
+"CIN197309160",16,"ej,ryanc102,C,olsea901,Balls and strikes $Braves coach Ryan ejected by 3B umpire Olsen for arguing Grimsley had bunted at a pitch that was called a ball"1973CIN.EVN.regular.comment.csv",36
+
+"CIN197309160",92,"Debut game for Dave Cheadle"1973CIN.EVN.regular.comment.csv",37
+
+"CIN197309170",0,"55 minute rain delay before start of game"1973CIN.EVN.regular.comment.csv",38
+
+"CIN197309290",67,"ej,fox-c101,M,tatat901,Call at 1B $Giants manager Fox ejected by 1B umpire Tata for arguing Arnold was safe at 1st"1973CIN.EVN.regular.comment.csv",39
+

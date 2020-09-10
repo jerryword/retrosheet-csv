@@ -1,21 +1,20 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"SFN201010270",4,"$the ball caromed off Tim Lincecum's left leg"
-"SFN201010270",5,"$pitcher Tim Lincecum fielded the ball between the mound and the 3B line; he ran Michael Young back to 3B but never threw the ball to Juan Uribe, who was standing ready to catch and tag Young"
-"SFN201010270",9,"$2B Ian Kinsler ran a long way into RF to catch the popup; Freddy Sanchez ran towards 3B and then slipped trying to get back to 2B"
-"SFN201010270",10,"$Bengie Molina becomes the second player after Lonnie Smith in 1985 to play in the World Series against a team for which he played in the same season"
-"SFN201010270",12,"$Cliff Lee faked a bunt attempt and then took a choppy swing to hit the ball into left-center"
-"SFN201010270",54,"$for the second time in the game, the ball caromed off Tim Lincecum's leg"
-"SFN201010280",50,"Rangers pitcher C.J. Wilson left with a blister on the middle finger of his left hand"
-"TEX201010300",0,"$the first World Series game played in Arlington, TX; ceremonial pitch by Rangers president Nolan Ryan (68 MPH at 63 years old)"
-"TEX201010310",12,"$Travis Ishikawa scraped his chin on his head-first dive into 3B"
-"TEX201010310",41,"Rangers pitcher Alexi Ogando left the game due to a left oblique strain after second pitch to Uribe"
-"SFN201010270",4,"$the ball caromed off Tim Lincecum's left leg"
-"SFN201010270",5,"$pitcher Tim Lincecum fielded the ball between the mound and the 3B line; he ran Michael Young back to 3B but never threw the ball to Juan Uribe, who was standing ready to catch and tag Young"
-"SFN201010270",9,"$2B Ian Kinsler ran a long way into RF to catch the popup; Freddy Sanchez ran towards 3B and then slipped trying to get back to 2B"
-"SFN201010270",10,"$Bengie Molina becomes the second player after Lonnie Smith in 1985 to play in the World Series against a team for which he played in the same season"
-"SFN201010270",12,"$Cliff Lee faked a bunt attempt and then took a choppy swing to hit the ball into left-center"
-"SFN201010270",54,"$for the second time in the game, the ball caromed off Tim Lincecum's leg"
-"SFN201010280",50,"Rangers pitcher C.J. Wilson left with a blister on the middle finger of his left hand"
-"TEX201010300",0,"$the first World Series game played in Arlington, TX; ceremonial pitch by Rangers president Nolan Ryan (68 MPH at 63 years old)"
-"TEX201010310",12,"$Travis Ishikawa scraped his chin on his head-first dive into 3B"
-"TEX201010310",41,"Rangers pitcher Alexi Ogando left the game due to a left oblique strain after second pitch to Uribe"
+"SFN201010270",4,"$the ball caromed off Tim Lincecum's left leg"FILENAME_TX","LINE_NUMBER_CT"
+
+"SFN201010270",5,"$pitcher Tim Lincecum fielded the ball between the mound and the 3B line; he ran Michael Young back to 3B but never threw the ball to Juan Uribe, who was standing ready to catch and tag Young"2010WS.EVE.post.comment.csv",2
+
+"SFN201010270",9,"$2B Ian Kinsler ran a long way into RF to catch the popup; Freddy Sanchez ran towards 3B and then slipped trying to get back to 2B"2010WS.EVE.post.comment.csv",3
+
+"SFN201010270",10,"$Bengie Molina becomes the second player after Lonnie Smith in 1985 to play in the World Series against a team for which he played in the same season"2010WS.EVE.post.comment.csv",4
+
+"SFN201010270",12,"$Cliff Lee faked a bunt attempt and then took a choppy swing to hit the ball into left-center"2010WS.EVE.post.comment.csv",5
+
+"SFN201010270",54,"$for the second time in the game, the ball caromed off Tim Lincecum's leg"2010WS.EVE.post.comment.csv",6
+
+"SFN201010280",50,"Rangers pitcher C.J. Wilson left with a blister on the middle finger of his left hand"2010WS.EVE.post.comment.csv",7
+
+"TEX201010300",0,"$the first World Series game played in Arlington, TX; ceremonial pitch by Rangers president Nolan Ryan (68 MPH at 63 years old)"2010WS.EVE.post.comment.csv",8
+
+"TEX201010310",12,"$Travis Ishikawa scraped his chin on his head-first dive into 3B"2010WS.EVE.post.comment.csv",9
+
+"TEX201010310",41,"Rangers pitcher Alexi Ogando left the game due to a left oblique strain after second pitch to Uribe"2010WS.EVE.post.comment.csv",10
+

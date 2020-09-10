@@ -1,96 +1,90 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"CHN194805050",34,"$Lowrey's liner broke Rowe's left thumb, but he was charged with an error for wild throw to first"
-"CHN194805050",67,"$Seminick scored when Schenz held the relay, 2 RBI, no error"
-"PHI194805200",5,"$Triple was a popup but shortstop and left fielder collided, allowing Nicholson the triple"
-"BSN194805231",23,"$Jeffcoat pulled a charley horse and left at end of inning"
-"BSN194805232",6,"$Walker hit in back of head and was carried off field on stretcher, then spen night and next day in hospital"
-"BSN194805232",86,"$Culler left game with severe spike wound on his right hand"
-"PHI194805270",44,"$Fitzgerald got split finger on fould by Sisler"
-"NY1194805290",39,"DWS: pbp account ends here, rest deduced"
-"PHI194806150",61,"$No one covered second on hit and run, so throw went into center field"
-"SLN194806131",14,"$Kurowski ejected off bench by plate umpire Jorda for  arguing a called strike to Jones"
-"SLN194806132",28,"$Munger hurt third finger on right hand taking throw from Jones and had to leave game"
-"SLN194805010",37,"$22 minute rain delay at this point"
-"BSN194806240",0,"$Rain delay of 36 minutes at start of game"
-"BSN194806250",62,"$Yes, a 2-RBI groundout confirmed in news story"
-"PHI194806271",3,"$Mauch was picked off in rundown and Waitkus was out trying to return to first"
-"PIT194807041",74,"ej,cavap101,P,barla901,Called third strike Phil Cavarretta ejected by HP umpire Al Barlick"
-"SLN194807070",29,"$Musial strained his leg trying to beat out this play and later left for pinch-runner"
-"SLN194807160",15,"$Simmons stepped on Munger's ankle as the DP was completed, but Munger insisted on staying in the game for 5 innings to be eligible for the win"
-"SLN194807160",66,"$Baker hit behind right ear on throw to third"
-"SLN194807252",21,"$Hidden ball trick as Ryan kept ball after out on sacrifice"
-"PIT194808130",41,"$Walker ejected from dugout for arguing balls and strikes"
-"BSN194809042",25,"$Hamner left with sore wrist from a previous HBP"
-"PIT194809051",6,"$Major League debut for Ted Beard"
-"PIT194809051",67,"$Hopp broke for plate, but returned safely to third as Kiner tried for second; Hopp went for plate again and was run down with Kiner making it to third"
-"PHI194809072",35,"pbp account ends here, rest deduced"
-"PHI194809072",65,"$Phillies first base coach Dudty Cooke ejected for arguing that Mize's double was foul"
-"SLN194808200",53,"$Riddle brought in to cqtch the knuckler"
-"NY1194809191",26,"$Musial was tagged out at 3rd just before Marion touched the plate"
-"CHN194807190",40,"$attempted double steal, but when Cubs threw to second,  Caballero returned to first and Ashburn continued to the plate, but was run down at third; Ashburn is not credited with a steal"
-"PIT194807210",15,"pbp ends here, rest deduced"
-"PIT194807222",37,"$Game called for darkness"
-"BSN194807300",61,"$Rice missed bunt attempt and Kurowski caught stealing"
-"PIT194808282",31,"$Seminick entered with Leonard to catch the knuckleball"
-"CHN194809260",63,"$Cardinals argue strongly to no avail that double was foul"
-"NY1194809282",23,"pbp account ends here, rest deduced"
-"NY1194809282",59,"$Game called for darkness"
-"SLN194809290",59,"$Kiner saw that he would be out at third and delayed so Beard could score before the tag"
-"BSN194809212",27,"pbp ends here, rest deduced"
-"NY1194810022",55,"$Game called for darkness"
-"SLN194810010",12,"ej,mccuc101,CHN,P,dascf901,'Balls and strikes' $McCullough ejected by Dascoli for disputing a ball called on Northey ej,maucg101,CHN,P,dascf901,'Bench Jockeying' $Mauch ejected from bench for arguing ball calls"
-"SLN194810010",29,"$Lade injured right hand on sharp grounder by Baker in 2nd inning, left game here"
-"SLN194808220",69,"$Wilber hurt his knees the previous inning crashing into wall chasing a foul pop, so he left for pinch-hitter"
-"PIT194808281",32,"$Ashburn broke 4th finger on his left hand on the steal and left the game in the 8th"
-"PIT194808281",70,"$Ashburn hurt hand again diving for triple, left game"
-"SLN194810020",49,"$Brazle left with bruised left thumb that he hurt earlier in the game on a return throw from catcher Rice"
-"PHI194807270",15,"$Hidden ball trick"
-"SLN194806110",14,"$Holmes became ill"
-"SLN194806110",65,"$Garagiola left in 8th from foul to groin"
-"SLN194805070",24,"$Line drive off Leonard deflected into left field; Leonard tried one warmup pitch and then left game"
-"SLN194805070",68,"$Phillies argue strenuously that the double was foul"
-"CHN194805050",34,"$Lowrey's liner broke Rowe's left thumb, but he was charged with an error for wild throw to first"
-"CHN194805050",67,"$Seminick scored when Schenz held the relay, 2 RBI, no error"
-"PHI194805200",5,"$Triple was a popup but shortstop and left fielder collided, allowing Nicholson the triple"
-"BSN194805232",6,"$Walker hit in back of head and was carried off field on stretcher, then spen night and next day in hospital"
-"BSN194805232",86,"$Culler left game with severe spike wound on his right hand"
-"PHI194805270",44,"$Fitzgerald got split finger on fould by Sisler"
-"NY1194805290",39,"DWS: pbp account ends here, rest deduced"
-"PHI194806150",61,"$No one covered second on hit and run, so throw went into center field"
-"SLN194806131",15,"ej,kurow101,P,jordl901,Balls and strikes $Cardinals Kurowski ejected by HP umpire Jorda from bench arguing a called strike to Jones"
-"SLN194806132",28,"$Munger hurt third finger on right hand taking throw from Jones and had to leave game"
-"SLN194805010",37,"$22 minute rain delay at this point"
-"BSN194806240",0,"$Rain delay of 36 minutes at start of game"
-"BSN194806250",62,"$Yes, a 2-RBI groundout confirmed in news story"
-"PHI194806271",3,"$Mauch was picked off in rundown and Waitkus was out trying to return to first"
-"PIT194807041",74,"ej,cavap101,P,barla901,Called third strike $Cavarretta ejected by HP umpire Barlick for arguing called third strike"
-"SLN194807070",29,"$Musial strained his leg trying to beat out this play and later left for pinch-runner"
-"SLN194807160",15,"$Simmons stepped on Munger's ankle as the DP was completed, but Munger insisted on staying in the game for 5 innings to be eligible for the win"
-"SLN194807160",66,"$Baker hit behind right ear on throw to third"
-"SLN194807252",21,"$Hidden ball trick as Ryan kept ball after out on sacrifice"
-"BSN194809042",25,"$Hamner left with sore wrist from a previous HBP"
-"PHI194809072",35,"pbp account ends here, rest deduced"
-"PHI194809072",65,"ej,cookd102,C,jordl901,Fair/foul call $Phillies first base coach Dusty Cooke ejected by 1B umpire Jorda for arguing that Mize's double was foul"
-"SLN194808200",53,"$Riddle brought in to cqtch the knuckler"
-"NY1194809191",26,"$Musial was tagged out at 3rd just before Marion touched the plate"
-"CHN194807190",40,"$attempted double steal, but when Cubs threw to second,  Caballero returned to first and Ashburn continued to the plate, but was run down at third; Ashburn is not credited with a steal"
-"PIT194807210",15,"pbp ends here, rest deduced"
-"PIT194807222",37,"$Game called for darkness"
-"BSN194807300",61,"$Rice missed bunt attempt and Kurowski caught stealing"
-"PIT194808282",31,"$Seminick entered with Leonard to catch the knuckleball"
-"CHN194809260",63,"$Cardinals argue strongly to no avail that double was foul"
-"NY1194809282",23,"pbp account ends here, rest deduced"
-"NY1194809282",59,"$Game called for darkness"
-"SLN194809290",59,"$Kiner saw that he would be out at third and delayed so Beard could score before the tag"
-"NY1194810022",55,"$Game called for darkness"
-"SLN194810010",12,"ej,mccuc101,CHN,P,dascf901,Balls and strikes ej,maucg101,CHN,P,dascf901,Bench Jockeying $Catcher McCullough ejected by Dascoli for disputing a ball called on Northey Cubs Mauch ejected by Dascolit from bench for arguing ball calls"
-"SLN194810010",29,"$Lade injured right hand on sharp grounder by Baker in 2nd inning, left game here"
-"SLN194808220",69,"$Wilber hurt his knees the previous inning crashing into wall chasing a foul pop, so he left for pinch-hitter"
-"PIT194808281",32,"$Ashburn broke 4th finger on his left hand on the steal and left the game in the 8th"
-"PIT194808281",70,"$Ashburn hurt hand again diving for triple, left game"
-"SLN194810020",49,"$Brazle left with bruised left thumb that he hurt earlier in the game on a return throw from catcher Rice"
-"PHI194807270",15,"$Hidden ball trick"
-"SLN194806110",14,"$Holmes became ill"
-"SLN194806110",65,"$Garagiola left in 8th from foul to groin"
-"SLN194805070",24,"$Line drive off Leonard deflected into left field; Leonard tried one warmup pitch and then left game"
-"SLN194805070",68,"$Phillies argue strenuously that the double was foul"
+"CHN194805050",34,"$Lowrey's liner broke Rowe's left thumb, but he was charged with an error for wild throw to first"FILENAME_TX","LINE_NUMBER_CT"
+
+"CHN194805050",67,"$Seminick scored when Schenz held the relay, 2 RBI, no error"1948.EDN.regular.comment.csv",2
+
+"PHI194805200",5,"$Triple was a popup but shortstop and left fielder collided, allowing Nicholson the triple"1948.EDN.regular.comment.csv",3
+
+"BSN194805232",6,"$Walker hit in back of head and was carried off field on stretcher, then spen night and next day in hospital"1948.EDN.regular.comment.csv",4
+
+"BSN194805232",86,"$Culler left game with severe spike wound on his right hand"1948.EDN.regular.comment.csv",5
+
+"PHI194805270",44,"$Fitzgerald got split finger on fould by Sisler"1948.EDN.regular.comment.csv",6
+
+"NY1194805290",39,"DWS: pbp account ends here, rest deduced"1948.EDN.regular.comment.csv",7
+
+"PHI194806150",61,"$No one covered second on hit and run, so throw went into center field"1948.EDN.regular.comment.csv",8
+
+"SLN194806131",15,"ej,kurow101,P,jordl901,Balls and strikes $Cardinals Kurowski ejected by HP umpire Jorda from bench arguing a called strike to Jones"1948.EDN.regular.comment.csv",9
+
+"SLN194806132",28,"$Munger hurt third finger on right hand taking throw from Jones and had to leave game"1948.EDN.regular.comment.csv",10
+
+"SLN194805010",37,"$22 minute rain delay at this point"1948.EDN.regular.comment.csv",11
+
+"BSN194806240",0,"$Rain delay of 36 minutes at start of game"1948.EDN.regular.comment.csv",12
+
+"BSN194806250",62,"$Yes, a 2-RBI groundout confirmed in news story"1948.EDN.regular.comment.csv",13
+
+"PHI194806271",3,"$Mauch was picked off in rundown and Waitkus was out trying to return to first"1948.EDN.regular.comment.csv",14
+
+"PIT194807041",74,"ej,cavap101,P,barla901,Called third strike $Cavarretta ejected by HP umpire Barlick for arguing called third strike"1948.EDN.regular.comment.csv",15
+
+"SLN194807070",29,"$Musial strained his leg trying to beat out this play and later left for pinch-runner"1948.EDN.regular.comment.csv",16
+
+"SLN194807160",15,"$Simmons stepped on Munger's ankle as the DP was completed, but Munger insisted on staying in the game for 5 innings to be eligible for the win"1948.EDN.regular.comment.csv",17
+
+"SLN194807160",66,"$Baker hit behind right ear on throw to third"1948.EDN.regular.comment.csv",18
+
+"SLN194807252",21,"$Hidden ball trick as Ryan kept ball after out on sacrifice"1948.EDN.regular.comment.csv",19
+
+"BSN194809042",25,"$Hamner left with sore wrist from a previous HBP"1948.EDN.regular.comment.csv",20
+
+"PHI194809072",35,"pbp account ends here, rest deduced"1948.EDN.regular.comment.csv",21
+
+"PHI194809072",65,"ej,cookd102,C,jordl901,Fair/foul call $Phillies first base coach Dusty Cooke ejected by 1B umpire Jorda for arguing that Mize's double was foul"1948.EDN.regular.comment.csv",22
+
+"SLN194808200",53,"$Riddle brought in to cqtch the knuckler"1948.EDN.regular.comment.csv",23
+
+"NY1194809191",26,"$Musial was tagged out at 3rd just before Marion touched the plate"1948.EDN.regular.comment.csv",24
+
+"CHN194807190",40,"$attempted double steal, but when Cubs threw to second,  Caballero returned to first and Ashburn continued to the plate, but was run down at third; Ashburn is not credited with a steal"1948.EDN.regular.comment.csv",25
+
+"PIT194807210",15,"pbp ends here, rest deduced"1948.EDN.regular.comment.csv",26
+
+"PIT194807222",37,"$Game called for darkness"1948.EDN.regular.comment.csv",27
+
+"BSN194807300",61,"$Rice missed bunt attempt and Kurowski caught stealing"1948.EDN.regular.comment.csv",28
+
+"PIT194808282",31,"$Seminick entered with Leonard to catch the knuckleball"1948.EDN.regular.comment.csv",29
+
+"CHN194809260",63,"$Cardinals argue strongly to no avail that double was foul"1948.EDN.regular.comment.csv",30
+
+"NY1194809282",23,"pbp account ends here, rest deduced"1948.EDN.regular.comment.csv",31
+
+"NY1194809282",59,"$Game called for darkness"1948.EDN.regular.comment.csv",32
+
+"SLN194809290",59,"$Kiner saw that he would be out at third and delayed so Beard could score before the tag"1948.EDN.regular.comment.csv",33
+
+"NY1194810022",55,"$Game called for darkness"1948.EDN.regular.comment.csv",34
+
+"SLN194810010",12,"ej,mccuc101,CHN,P,dascf901,Balls and strikes ej,maucg101,CHN,P,dascf901,Bench Jockeying $Catcher McCullough ejected by Dascoli for disputing a ball called on Northey Cubs Mauch ejected by Dascolit from bench for arguing ball calls"1948.EDN.regular.comment.csv",35
+
+"SLN194810010",29,"$Lade injured right hand on sharp grounder by Baker in 2nd inning, left game here"1948.EDN.regular.comment.csv",36
+
+"SLN194808220",69,"$Wilber hurt his knees the previous inning crashing into wall chasing a foul pop, so he left for pinch-hitter"1948.EDN.regular.comment.csv",37
+
+"PIT194808281",32,"$Ashburn broke 4th finger on his left hand on the steal and left the game in the 8th"1948.EDN.regular.comment.csv",38
+
+"PIT194808281",70,"$Ashburn hurt hand again diving for triple, left game"1948.EDN.regular.comment.csv",39
+
+"SLN194810020",49,"$Brazle left with bruised left thumb that he hurt earlier in the game on a return throw from catcher Rice"1948.EDN.regular.comment.csv",40
+
+"PHI194807270",15,"$Hidden ball trick"1948.EDN.regular.comment.csv",41
+
+"SLN194806110",14,"$Holmes became ill"1948.EDN.regular.comment.csv",42
+
+"SLN194806110",65,"$Garagiola left in 8th from foul to groin"1948.EDN.regular.comment.csv",43
+
+"SLN194805070",24,"$Line drive off Leonard deflected into left field; Leonard tried one warmup pitch and then left game"1948.EDN.regular.comment.csv",44
+
+"SLN194805070",68,"$Phillies argue strenuously that the double was foul"1948.EDN.regular.comment.csv",45
+

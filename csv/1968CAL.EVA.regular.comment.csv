@@ -1,57 +1,56 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"CAL196804180",39,"406 feet"
-"CAL196804200",61,"Frank Robinson left with the mumps"
-"CAL196804200",68,"ej,rignb101,M,chyln901,Call at 2B Angels Manager Bill Rigney ejected by 1B umpire Nestor Chylak"
-"CAL196804200",70,"Debut game for Chico Fernandez"
-"CAL196805070",52,"ej,rignb101,M,honoj901,Balls and strikes Angels Manager Bill Rigney ejected by HP umpire Jim Honochick sometime in bottom of the sixth"
-"CAL196805080",67,"$Don Mincher caught Sandy Alomar with the hidden ball trick"
-"CAL196805090",55,"ej,rignb101,M,valeb901,Call at 1B $Angels manager Rigney ejected by 1B umpire Valentine for arguing the Uhlaender was out at 1st"
-"CAL196805200",78,"ej,rignb101,M,flahr901,Balls and strikes Angels Manager Bill Rigney ejected by HP umpire Red Flaherty"
-"CAL196805220",47,"Debut game for Bobby Trevino"
-"CAL196805230",63,"$Tony Horton called out for passing Jose Cardenal"
-"CAL196806160",10,"393 feet"
-"CAL196806180",3,"$Tom Murphy went to mouth on 3-1 count"
-"CAL196806190",6,"$Rick Reichardt called for interference on attempted steal by Vic Davalillo"
-"CAL196806190",48,"$Roy White left for military service"
-"CAL196806230",10,"$Curt Blefary called for interference at 2B; Dave Johnson ruled out"
-"CAL196807110",41,"fielding credit assumed"
-"CAL196807150",64,"missing play in CAL196807150"
-"CAL196808120",56,"$Bobby Cox intentionally dropped the ball"
-"CAL196808140",44,"Bill Robinson pulled right hamstring muscle"
-"CAL196808150",15,"Debut game for Winston Llenas"
-"CAL196809010",51,"489 feet"
-"CAL196809040",86,"$Don Mincher left game due to dizziness with 2 strikes"
-"CAL196809070",8,"Debut game for Jim Spencer"
-"CAL196809070",14,"Debut game for Jarvis Tatum"
-"CAL196809080",3,"$Jim McGlothlin struck on the left wrist"
-"CAL196809090",45,"Debut game for Steve Kealey"
-"CAL196809240",27,"$Jim Fregosi called for interference at 2B"
-"CAL196809270",51,"$Joe Horlen called for interference"
-"CAL196804180",39,"406 feet"
-"CAL196804200",61,"Frank Robinson left with the mumps"
-"CAL196804200",68,"ej,rignb101,M,chyln901,Call at 2B Angels Manager Bill Rigney ejected by 1B umpire Nestor Chylak"
-"CAL196804200",70,"Debut game for Chico Fernandez"
-"CAL196805070",52,"ej,rignb101,M,honoj901,Balls and strikes Angels Manager Bill Rigney ejected by HP umpire Jim Honochick sometime in bottom of the sixth"
-"CAL196805080",67,"$Don Mincher caught Sandy Alomar with the hidden ball trick"
-"CAL196805090",55,"ej,rignb101,M,valeb901,Call at 1B $Angels manager Rigney ejected by 1B umpire Valentine for arguing the Uhlaender was out at 1st"
-"CAL196805200",78,"ej,rignb101,M,flahr901,Balls and strikes Angels Manager Bill Rigney ejected by HP umpire Red Flaherty"
-"CAL196805220",47,"Debut game for Bobby Trevino"
-"CAL196805230",63,"$Tony Horton called out for passing Jose Cardenal"
-"CAL196806160",10,"393 feet"
-"CAL196806180",3,"$Tom Murphy went to mouth on 3-1 count"
-"CAL196806190",6,"$Rick Reichardt called for interference on attempted steal by Vic Davalillo"
-"CAL196806190",48,"$Roy White left for military service"
-"CAL196806230",10,"$Curt Blefary called for interference at 2B; Dave Johnson ruled out"
-"CAL196807110",41,"fielding credit assumed"
-"CAL196807150",64,"missing play in CAL196807150"
-"CAL196808120",56,"$Bobby Cox intentionally dropped the ball"
-"CAL196808140",44,"Bill Robinson pulled right hamstring muscle"
-"CAL196808150",15,"Debut game for Winston Llenas"
-"CAL196809010",51,"489 feet"
-"CAL196809040",86,"$Don Mincher left game due to dizziness with 2 strikes"
-"CAL196809070",8,"Debut game for Jim Spencer"
-"CAL196809070",14,"Debut game for Jarvis Tatum"
-"CAL196809080",3,"$Jim McGlothlin struck on the left wrist"
-"CAL196809090",45,"Debut game for Steve Kealey"
-"CAL196809240",27,"$Jim Fregosi called for interference at 2B"
-"CAL196809270",51,"$Joe Horlen called for interference"
+"CAL196804180",39,"406 feet"FILENAME_TX","LINE_NUMBER_CT"
+
+"CAL196804200",61,"Frank Robinson left with the mumps"1968CAL.EVA.regular.comment.csv",2
+
+"CAL196804200",68,"ej,rignb101,M,chyln901,Call at 2B Angels Manager Bill Rigney ejected by 1B umpire Nestor Chylak"1968CAL.EVA.regular.comment.csv",3
+
+"CAL196804200",70,"Debut game for Chico Fernandez"1968CAL.EVA.regular.comment.csv",4
+
+"CAL196805070",52,"ej,rignb101,M,honoj901,Balls and strikes Angels Manager Bill Rigney ejected by HP umpire Jim Honochick sometime in bottom of the sixth"1968CAL.EVA.regular.comment.csv",5
+
+"CAL196805080",67,"$Don Mincher caught Sandy Alomar with the hidden ball trick"1968CAL.EVA.regular.comment.csv",6
+
+"CAL196805090",55,"ej,rignb101,M,valeb901,Call at 1B $Angels manager Rigney ejected by 1B umpire Valentine for arguing the Uhlaender was out at 1st"1968CAL.EVA.regular.comment.csv",7
+
+"CAL196805200",78,"ej,rignb101,M,flahr901,Balls and strikes Angels Manager Bill Rigney ejected by HP umpire Red Flaherty"1968CAL.EVA.regular.comment.csv",8
+
+"CAL196805220",47,"Debut game for Bobby Trevino"1968CAL.EVA.regular.comment.csv",9
+
+"CAL196805230",63,"$Tony Horton called out for passing Jose Cardenal"1968CAL.EVA.regular.comment.csv",10
+
+"CAL196806160",10,"393 feet"1968CAL.EVA.regular.comment.csv",11
+
+"CAL196806180",3,"$Tom Murphy went to mouth on 3-1 count"1968CAL.EVA.regular.comment.csv",12
+
+"CAL196806190",6,"$Rick Reichardt called for interference on attempted steal by Vic Davalillo"1968CAL.EVA.regular.comment.csv",13
+
+"CAL196806190",48,"$Roy White left for military service"1968CAL.EVA.regular.comment.csv",14
+
+"CAL196806230",10,"$Curt Blefary called for interference at 2B; Dave Johnson ruled out"1968CAL.EVA.regular.comment.csv",15
+
+"CAL196807110",41,"fielding credit assumed"1968CAL.EVA.regular.comment.csv",16
+
+"CAL196807150",64,"missing play in CAL196807150"1968CAL.EVA.regular.comment.csv",17
+
+"CAL196808120",56,"$Bobby Cox intentionally dropped the ball"1968CAL.EVA.regular.comment.csv",18
+
+"CAL196808140",44,"Bill Robinson pulled right hamstring muscle"1968CAL.EVA.regular.comment.csv",19
+
+"CAL196808150",15,"Debut game for Winston Llenas"1968CAL.EVA.regular.comment.csv",20
+
+"CAL196809010",51,"489 feet"1968CAL.EVA.regular.comment.csv",21
+
+"CAL196809040",86,"$Don Mincher left game due to dizziness with 2 strikes"1968CAL.EVA.regular.comment.csv",22
+
+"CAL196809070",8,"Debut game for Jim Spencer"1968CAL.EVA.regular.comment.csv",23
+
+"CAL196809070",14,"Debut game for Jarvis Tatum"1968CAL.EVA.regular.comment.csv",24
+
+"CAL196809080",3,"$Jim McGlothlin struck on the left wrist"1968CAL.EVA.regular.comment.csv",25
+
+"CAL196809090",45,"Debut game for Steve Kealey"1968CAL.EVA.regular.comment.csv",26
+
+"CAL196809240",27,"$Jim Fregosi called for interference at 2B"1968CAL.EVA.regular.comment.csv",27
+
+"CAL196809270",51,"$Joe Horlen called for interference"1968CAL.EVA.regular.comment.csv",28
+

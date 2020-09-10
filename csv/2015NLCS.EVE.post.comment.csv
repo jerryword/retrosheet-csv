@@ -1,13 +1,12 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"NYN201510170",64,"replay,8,murpd006,NYN,barrt901,NYC20,,N,M,NYN,C $when Daniel Murphy was called out at 1B, Mets manager Terry Collins challenged the ruling; the call was upheld by replay"
-"NYN201510180",7,"$Daniel Murphy homered in his fourth consecutive post-season game"
-"NYN201510180",12,"$Curtis Granderson caught the ball over the top of the wall"
-"CHN201510210",0,"$Daniel Murphy named NLCS MVP"
-"CHN201510210",20,"Mets left fielder Yoenis Cespedes left the game due to an injured shoulder"
-"CHN201510210",70,"$Daniel Murphy homered in his sixth consecutive game, the first player to do so"
-"NYN201510170",64,"replay,8,murpd006,NYN,barrt901,NYC20,,N,M,NYN,C $when Daniel Murphy was called out at 1B, Mets manager Terry Collins challenged the ruling; the call was upheld by replay"
-"NYN201510180",7,"$Daniel Murphy homered in his fourth consecutive post-season game"
-"NYN201510180",12,"$Curtis Granderson caught the ball over the top of the wall"
-"CHN201510210",0,"$Daniel Murphy named NLCS MVP"
-"CHN201510210",20,"Mets left fielder Yoenis Cespedes left the game due to an injured shoulder"
-"CHN201510210",70,"$Daniel Murphy homered in his sixth consecutive game, the first player to do so"
+"NYN201510170",64,"replay,8,murpd006,NYN,barrt901,NYC20,,N,M,NYN,C $when Daniel Murphy was called out at 1B, Mets manager Terry Collins challenged the ruling; the call was upheld by replay"FILENAME_TX","LINE_NUMBER_CT"
+
+"NYN201510180",7,"$Daniel Murphy homered in his fourth consecutive post-season game"2015NLCS.EVE.post.comment.csv",2
+
+"NYN201510180",12,"$Curtis Granderson caught the ball over the top of the wall"2015NLCS.EVE.post.comment.csv",3
+
+"CHN201510210",0,"$Daniel Murphy named NLCS MVP"2015NLCS.EVE.post.comment.csv",4
+
+"CHN201510210",20,"Mets left fielder Yoenis Cespedes left the game due to an injured shoulder"2015NLCS.EVE.post.comment.csv",5
+
+"CHN201510210",70,"$Daniel Murphy homered in his sixth consecutive game, the first player to do so"2015NLCS.EVE.post.comment.csv",6
+

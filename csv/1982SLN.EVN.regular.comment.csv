@@ -1,51 +1,50 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"SLN198204120",75,"Debut game for Jim Smith"
-"SLN198204280",60,"$Mike Ramsey called for interference at 2B"
-"SLN198205090",31,"$Joe Cowley left with injured shoulder"
-"SLN198205100",57,"Debut game for Willie McGee"
-"SLN198205110",44,"$Alex Trevino let WP roll into dugout"
-"SLN198205300",32,"$Garry Templeton was hit in the face by throw"
-"SLN198205300",72,"ej,willd104,M,westj901,Obstruction call $Padres manager Williams ejected by 3B umpire West for arguing obstruction on Salazar"
-"SLN198206010",1,"Debut game for John Stuper"
-"SLN198206140",18,"$Hidden ball trick; Dawson threw ball back in after fly out, but Speier did not return it to pitcher, instead taking his position at short; As Oberkfell stepped into the box, Smith took his lead and Speier ran over to tag him"
-"SLN198206160",33,"$Ken Oberkfell was injured in a collision with Dave LaPoint"
-"SLN198206181",58,"12 minute rain delay"
-"SLN198206181",77,"1:57 rain delay"
-"SLN198206182",64,"ej,herzw101,M,davis901,Appeal play $Willie McGee missed HP and was tagged out in the dugout after Mike Ramsey was tagged out at 2B; Cardinals manager Whitey Herzog ejected by HP umprie Satch Davidson"
-"SLN198206200",80,"ej,herzb101,M,tatat901,Balk non-call ej,lanih101,M,tatat901,Balk non-call $Cardinals manager Herzog and coach Lanier ejected by 1B umpire Tata for arguing pitcher balked on pickoff"
-"SLN198207150",1,"Debut game for Tom Lawless"
-"SLN198208020",119,"ej,tannc101,M,davib902,Call at 1B Pirates manager Chuck Tanner ejected by 1B umpire Bob Davidson"
-"SLN198208030",7,"$Keith Hernandez called for interference with catcher"
-"SLN198208040",50,"$John Candelaria left with stiff forearm"
-"SLN198208050",50,"2:04 rain delay and then game was called"
-"SLN198208060",31,"36 minute rain delay"
-"SLN198208170",52,"ej,willd104,M,brocf901,Runner placement on fan interference $Padres manager Williams ejected by 3B umpire Brocklander for arguing that Kennedy should have awarded home on fan interference double; other umpires overruled and awarded Kennedy home, but Williams was already ejected"
-"SLN198208220",62,"ej,clarj001,P,palld901,Balls and strikes Jack Clark ejected by HP umpire Dave Pallone"
-"SLN198208230",46,"ej,reusj001,P,colon901,Balls and strikes $Dodgers Reuss, no longer in game, ejected by HP umpire Colosi for arguing balls and strikes"
-"SLN198209110",73,"$Hubie Brooks rounded 1B too far"
-"SLN198209230",0,"1:09 rain delay before start of game"
-"SLN198204120",75,"Debut game for Jim Smith"
-"SLN198204280",60,"$Mike Ramsey called for interference at 2B"
-"SLN198205090",31,"$Joe Cowley left with injured shoulder"
-"SLN198205100",57,"Debut game for Willie McGee"
-"SLN198205110",44,"$Alex Trevino let WP roll into dugout"
-"SLN198205300",32,"$Garry Templeton was hit in the face by throw"
-"SLN198205300",72,"ej,willd104,M,westj901,Obstruction call $Padres manager Williams ejected by 3B umpire West for arguing obstruction on Salazar"
-"SLN198206010",1,"Debut game for John Stuper"
-"SLN198206140",18,"$Hidden ball trick; Dawson threw ball back in after fly out, but Speier did not return it to pitcher, instead taking his position at short; As Oberkfell stepped into the box, Smith took his lead and Speier ran over to tag him"
-"SLN198206160",33,"$Ken Oberkfell was injured in a collision with Dave LaPoint"
-"SLN198206181",58,"12 minute rain delay"
-"SLN198206181",77,"1:57 rain delay"
-"SLN198206182",64,"ej,herzw101,M,davis901,Appeal play $Willie McGee missed HP and was tagged out in the dugout after Mike Ramsey was tagged out at 2B; Cardinals manager Whitey Herzog ejected by HP umprie Satch Davidson"
-"SLN198206200",80,"ej,herzb101,M,tatat901,Balk non-call ej,lanih101,M,tatat901,Balk non-call $Cardinals manager Herzog and coach Lanier ejected by 1B umpire Tata for arguing pitcher balked on pickoff"
-"SLN198207150",1,"Debut game for Tom Lawless"
-"SLN198208020",119,"ej,tannc101,M,davib902,Call at 1B Pirates manager Chuck Tanner ejected by 1B umpire Bob Davidson"
-"SLN198208030",7,"$Keith Hernandez called for interference with catcher"
-"SLN198208040",50,"$John Candelaria left with stiff forearm"
-"SLN198208050",50,"2:04 rain delay and then game was called"
-"SLN198208060",31,"36 minute rain delay"
-"SLN198208170",52,"ej,willd104,M,brocf901,Runner placement on fan interference $Padres manager Williams ejected by 3B umpire Brocklander for arguing that Kennedy should have awarded home on fan interference double; other umpires overruled and awarded Kennedy home, but Williams was already ejected"
-"SLN198208220",62,"ej,clarj001,P,palld901,Balls and strikes Jack Clark ejected by HP umpire Dave Pallone"
-"SLN198208230",46,"ej,reusj001,P,colon901,Balls and strikes $Dodgers Reuss, no longer in game, ejected by HP umpire Colosi for arguing balls and strikes"
-"SLN198209110",73,"$Hubie Brooks rounded 1B too far"
-"SLN198209230",0,"1:09 rain delay before start of game"
+"SLN198204120",75,"Debut game for Jim Smith"FILENAME_TX","LINE_NUMBER_CT"
+
+"SLN198204280",60,"$Mike Ramsey called for interference at 2B"1982SLN.EVN.regular.comment.csv",2
+
+"SLN198205090",31,"$Joe Cowley left with injured shoulder"1982SLN.EVN.regular.comment.csv",3
+
+"SLN198205100",57,"Debut game for Willie McGee"1982SLN.EVN.regular.comment.csv",4
+
+"SLN198205110",44,"$Alex Trevino let WP roll into dugout"1982SLN.EVN.regular.comment.csv",5
+
+"SLN198205300",32,"$Garry Templeton was hit in the face by throw"1982SLN.EVN.regular.comment.csv",6
+
+"SLN198205300",72,"ej,willd104,M,westj901,Obstruction call $Padres manager Williams ejected by 3B umpire West for arguing obstruction on Salazar"1982SLN.EVN.regular.comment.csv",7
+
+"SLN198206010",1,"Debut game for John Stuper"1982SLN.EVN.regular.comment.csv",8
+
+"SLN198206140",18,"$Hidden ball trick; Dawson threw ball back in after fly out, but Speier did not return it to pitcher, instead taking his position at short; As Oberkfell stepped into the box, Smith took his lead and Speier ran over to tag him"1982SLN.EVN.regular.comment.csv",9
+
+"SLN198206160",33,"$Ken Oberkfell was injured in a collision with Dave LaPoint"1982SLN.EVN.regular.comment.csv",10
+
+"SLN198206181",58,"12 minute rain delay"1982SLN.EVN.regular.comment.csv",11
+
+"SLN198206181",77,"1:57 rain delay"1982SLN.EVN.regular.comment.csv",12
+
+"SLN198206182",64,"ej,herzw101,M,davis901,Appeal play $Willie McGee missed HP and was tagged out in the dugout after Mike Ramsey was tagged out at 2B; Cardinals manager Whitey Herzog ejected by HP umprie Satch Davidson"1982SLN.EVN.regular.comment.csv",13
+
+"SLN198206200",80,"ej,herzb101,M,tatat901,Balk non-call ej,lanih101,M,tatat901,Balk non-call $Cardinals manager Herzog and coach Lanier ejected by 1B umpire Tata for arguing pitcher balked on pickoff"1982SLN.EVN.regular.comment.csv",14
+
+"SLN198207150",1,"Debut game for Tom Lawless"1982SLN.EVN.regular.comment.csv",15
+
+"SLN198208020",119,"ej,tannc101,M,davib902,Call at 1B Pirates manager Chuck Tanner ejected by 1B umpire Bob Davidson"1982SLN.EVN.regular.comment.csv",16
+
+"SLN198208030",7,"$Keith Hernandez called for interference with catcher"1982SLN.EVN.regular.comment.csv",17
+
+"SLN198208040",50,"$John Candelaria left with stiff forearm"1982SLN.EVN.regular.comment.csv",18
+
+"SLN198208050",50,"2:04 rain delay and then game was called"1982SLN.EVN.regular.comment.csv",19
+
+"SLN198208060",31,"36 minute rain delay"1982SLN.EVN.regular.comment.csv",20
+
+"SLN198208170",52,"ej,willd104,M,brocf901,Runner placement on fan interference $Padres manager Williams ejected by 3B umpire Brocklander for arguing that Kennedy should have awarded home on fan interference double; other umpires overruled and awarded Kennedy home, but Williams was already ejected"1982SLN.EVN.regular.comment.csv",21
+
+"SLN198208220",62,"ej,clarj001,P,palld901,Balls and strikes Jack Clark ejected by HP umpire Dave Pallone"1982SLN.EVN.regular.comment.csv",22
+
+"SLN198208230",46,"ej,reusj001,P,colon901,Balls and strikes $Dodgers Reuss, no longer in game, ejected by HP umpire Colosi for arguing balls and strikes"1982SLN.EVN.regular.comment.csv",23
+
+"SLN198209110",73,"$Hubie Brooks rounded 1B too far"1982SLN.EVN.regular.comment.csv",24
+
+"SLN198209230",0,"1:09 rain delay before start of game"1982SLN.EVN.regular.comment.csv",25
+

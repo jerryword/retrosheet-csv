@@ -1,149 +1,148 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"NYN201604080",49,"Mets pitcher Jacob deGrom left the game due to an injured back"
-"NYN201604100",60,"replay,8,howar001,PHI,mealj901,NYC20,,N,M,NYN,A $when Odubel Herrera was called safe at 2B, Mets manager Terry Collins challenged the ruling; the call was upheld by replay; Herrera had wandered off the base and the throw was behind him"
-"NYN201604110",3,"replay,1,yelic001,MIA,everm901,NYC20,,Y,M,MIA,C $when Christian Yelich was called out at 1B, Marlins manager Don Mattingly challenged the ruling; the call was overturned by replay"
-"NYN201604120",25,"replay,4,ozunm001,MIA,everm901,NYC20,,Y,M,MIA,C $when Marcell Ozuna was called out at 1B, Marlins manager Don Mattingly challenged the ruling; the call was overturned by replay"
-"NYN201604250",32,"Reds second baseman Brandon Phillips left the game due to an injured hand"
-"NYN201604250",71,"Mets catcher Travis d'Arnaud left the game due to an injured shoulder"
-"NYN201604300",71,"replay,8,florw001,NYN,kulpr901,NYC20,,N,M,SFN,E $when Neal Walker was ruled to have made a good slide at 2B, Giants manager Bruce Bochy challenged the ruling; the call was upheld by replay"
-"NYN201605010",11,"replay,2,pench001,SFN,kulpr901,NYC20,,N,M,SFN,C $when Hunter Pence was called out at 1B, Giants manager Bruce Bochy challenged the ruling; the call was upheld by replay"
-"NYN201605010",61,"replay,7,lagaj001,NYN,kulpr901,NYC20,,Y,U,,N $Juan Lagares' hit to RF bounced near the seats and was touched by a fan; Lagares reached 3B on the play; acting crew chief Ron Kulpa requested a review, which overturned the call to fan interference; Lagares was placed at 2B by replay"
-"NYN201605030",32,"replay,5,smitm007,ATL,cedeg901,NYC20,O,Y,U,,H $Mallex Smith's fly to LF was ruled off the wall and in play; Smith reached 3B on the play; crew chief Gary Cederstrom requested a review, which overturned the call to a home run"
-"NYN201605170",40,"replay,6,wertj001,WAS,joycj901,NYC20,,N,M,WAS,A $when Ben Revere was called out at 2B, Nationals manager Dusty Baker challenged the ruling; the call was upheld by replay"
-"NYN201605170",57,"replay,8,cabra002,NYN,joycj901,NYC20,,Y,U,,C $when Asdrubal Cabrera was called safe at 1B, crew chief Jim Joyce requested a review; the call was overturned by replay"
-"NYN201605180",39,"replay,5,espid001,WAS,joycj901,NYC20,,Y,M,NYN,A $when Anthony Rendon was called safe at 2B, Mets manager Terry Collins challenged the ruling; the call was overturned by replay"
-"NYN201605200",42,"replay,6,lucrj001,MIL,cedeg901,NYC20,,Y,M,NYN,A $when Herman Perez was called safe at 2B, Mets manager Terry Collins challenged the ruling; the call was overturned by replay"
-"NYN201605210",49,"ej,longk801,C,johna901,Called third strike Mets Hitting Coach Kevin Long ejected by HP umpire Adrian Johnson"
-"NYN201605210",61,"replay,7,wrigd002,NYN,cedeg901,NYC20,,Y,M,MIL,A $when Curtis Granderson was called safe at 2B, Brewers manager Craig Counsell challenged the rulingl; the call was overturned by replay"
-"NYN201605220",34,"replay,4,river003,NYN,cedeg901,NYC20,,N,M,MIL,A $when Asdrubal Cabrera was called safe at 2B on a pickoff attempt, Brewers manager Craig Counsell challenged the ruling; the call was upheld by replay"
-"NYN201605280",17,"ej,syndn001,P,hamaa901,Throwing at batter ej,collt801,M,hamaa901,Throwing at batter $Noah Syndergaard threw a 99 MPH fastball behind Chase Utley, who had broken Ruben Tejada's leg with a takeout slide last October in the NL Division Series; Syndergaard and manager Terry Collins ejected by HP umpire Adam Hamari"
-"NYN201605280",29,"replay,4,walkn001,NYN,hallt901,NYC20,,N,M,NYN,O $Neil Walker's ball down the RF line was missed by 1B umpire Tom Hallion; he got help from HP umpire Adam Hamari, who called the ball foul; Mets acting manager Dick Scott challenged the ruling, which was upheld by replay"
-"NYN201605280",33,"Dodgers left fielder Trayce Thompson left the game due to an injured back"
-"NYN201605280",63,"replay,8,crawc002,LAN,hallt901,NYC20,,N,U,,C $when Carl Crawford was called safe at 1B, crew chief Tom Hallion requested a review; the call was upheld by replay"
-"NYN201605290",19,"replay,3,turnj001,LAN,hallt901,NYC20,,N,M,NYN,E $when Justin Turner was called safe at 1B, Mets manager Terry Collins challenged the slide at 2B; the call was upheld by replay"
-"NYN201605290",47,"replay,6,cabra002,NYN,hallt901,NYC20,I,N,U,,H $Asdrubal Cabrera's fly to LF was touched by a fan above the orange stripe; the ball was ruled a home run; crew chief Tom Hallion requested a review, which upheld the call"
-"NYN201605310",45,"$originally scored as single, changed to E3 on 06-09-2016, making two runs unearned"
-"NYN201605310",62,"replay,7,frazt001,CHA,scotd901,NYC20,,Y,M,CHA,A $when Brett Lawrie was called out at 2B, White Sox manager Robin Ventura challenged the ruling; the call was overturned by replay"
-"NYN201606010",43,"replay,6,lonej001,NYN,davig901,NYC20,,Y,M,CHA,N $when a fan reached out to touch James Loney's foul ball in LF, the play was ruled no fan interference; White Sox manager Robin Ventura challenged the ruling; the call was overturned by replay to fan interference and an out"
-"NYN201606150",37,"Pirates left fielder Starling Marte left the game due to an injured head"
-"NYN201606160",24,"Mets second baseman Wilmer Flores left the game due to an injured hand"
-"NYN201606170",52,"replay,7,freef001,ATL,wintm901,NYC20,,N,M,NYN,C $when Frddie Freeman was called safe at 1B, Mets manager Terry Collins challenged the ruling; the call was upheld by replay"
-"NYN201606170",80,"$James Loney called for interference at 2B for an illegal slide when he elbowed Jace Peterson"
-"NYN201606180",39,"ej,pendt001,C,fostm901,Balk non-call Braves Bench Coach Terry Pendleton ejected by HP umpire Marty Foster"
-"NYN201606210",1,"$Bartolo Colon was struck on the right thumb and left with a bruised thumb"
-"NYN201606220",17,"replay,3,duffd001,KCA,hirsj901,NYC20,,N,M,KCA,A $when Jarrod Dyson was called out at 3B, Royals manager Ned Yost challenged the ruling; the call was upheld by replay"
-"NYN201606220",43,"Mets center fielder Yoenis Cespedes left the game due to an injured wrist"
-"NYN201607020",29,"Cubs third baseman Chris Coghlan left the game due to an injured side"
-"NYN201607040",10,"replay,2,johnc003,MIA,hallt901,NYC20,,Y,M,MIA,A $when Chris Johnson was called out at 2B, Marlins manager Don Mattingly challenged the ruling; the call was overturned by replay"
-"NYN201607040",77,"replay,8,lagaj001,NYN,hallt901,NYC20,,Y,M,MIA,C $when Juan Lagares was called safe at 1B due to a dropped throw, Marlins manager Don Mattingly challenged the ruling; the call was overturned by replay; Derek Dietrich had to stretch and fell after the catch"
-"NYN201607060",40,"replay,5,yelic001,MIA,hallt901,NYC20,,N,M,MIA,C replay,5,yelic001,MIA,hallt901,NYC20,,N,M,MIA,C $when Derek Dietrich was called out at 2B and Christian Yelich was called out at 1B, Marlins manager Don Mattingly challenged both calls; both were upheld by replay"
-"NYN201607060",67,"replay,9,suzui001,MIA,hallt901,NYC20,,N,U,,C $when Chris Johnson was called out at 2B, crew chief Tom Hallion requested a review; the call was upheld by replay"
-"NYN201607070",46,"replay,5,murpd006,WAS,joycj901,NYC20,,Y,M,WAS,C $when Daniel Murphy was called out at 1B, Nationals manager Dusty Baker challenged the ruling; the call was overturned by replay"
-"NYN201607070",89,"replay,9,murpd006,WAS,joycj901,NYC20,,N,M,WAS,E $when Jayson Werth was called for an illegal slide at 2B, Nationals manager Dusty Baker challenged the ruling; the call was upheld by replay"
-"NYN201607080",24,"Mets center fielder Yoenis Cespedes left the game due to an injured leg"
-"NYN201607080",26,"replay,4,renda001,WAS,joycj901,NYC20,,Y,M,NYN,A $when Clint Robinson was called safe at 2B, Mets manager Terry Collins challenged the ruling; the call was overturned by replay"
-"NYN201607080",34,"Mets pitcher Noah Syndergaard left the game due to an injured arm"
-"NYN201607261",34,"replay,4,diaza003,SLN,wegnm901,NYC20,,Y,M,NYN,A $when Tommy Pham was called safe at 3B, Mets manager Terry Collins challenged the ruling; the call was overturned by replay"
-"NYN201607261",36,"replay,4,cabra002,NYN,wegnm901,NYC20,,Y,M,NYN,I $when Asdrubal Cabrera was ruled not to have been hit by a pitch, Mets manager Terry Collins challenged the ruling; the call was overturned by replay"
-"NYN201607262",36,"replay,5,lagaj001,NYN,wintm901,NYC20,,Y,M,NYN,C $when Juan Lagares was called out at 1B, Mets manager Terry Collins challenged the ruling; the call was overturned by replay"
-"NYN201607300",34,"Rockies shortstop Trevor Story left the game due to an injured hand"
-"NYN201607300",36,"replay,4,colob001,NYN,kellj901,NYC20,,Y,M,COL,A $when Justin Ruggiano was called safe at 3B, Rockies manager Walt Weiss challenged the ruling; the call was overturned by replay"
-"NYN201607300",73,"replay,9,florw001,NYN,kellj901,NYC20,I,Y,U,,H ej,collt801,M,kellj901,Replay ruling $Wilmer Flores' fly to LF was caught by a fan but ruled a home run; crew chief Jeff Kellogg requested a review, which overturned the call to fan interference and an out; Mets manager Terry Collins ejected by Kellogg"
-"NYN201607310",8,"Mets shortstop Asdrubal Cabrera left the game due to an injured knee"
-"NYN201607310",33,"replay,4,adamc001,COL,kellj901,NYC20,,Y,M,COL,A $when Daniel Descalso was called out at 2B, Rockies manager Walt Weiss challenged the ruling; the call was overturned by replay"
-"NYN201607310",44,"replay,5,reynm001,COL,kellj901,NYC20,,N,M,COL,A $when Carlos Gonzalez was called out at HP, Rockies manager Walt Weiss challenged the ruling; the call was upheld by replay"
-"NYN201608020",55,"$originally scored as single, changed to error on 08-05-2016, making run unearned"
-"NYN201608090",75,"replay,9,deaza001,NYN,hirsj901,NYC20,,Y,M,ARI,C $when Alejandro de Aza was called safe at 1B, D-Backs manager Chip Hale challenged the ruling; the call was overturned by replay"
-"NYN201608140",4,"replay,1,solay001,SDN,gibsg901,NYC20,,N,M,SDN,A $when Travis Jankowski was called out at 3B, Padres manager Andy Green challenged the ruling; the call was upheld by replay"
-"NYN201608260",43,"Mets right fielder Justin Ruggiano left the game due to an injured shoulder"
-"NYN201608280",7,"Mets shortstop Asdrubal Cabrera left the game due to an injured knee"
-"NYN201608290",16,"replay,2,lonej001,NYN,everm901,NYC20,,N,M,MIA,C $when James Loney was called safe at 1B, Marlins manager Don Mattingly challenged the ruling; the call was upheld by replay"
-"NYN201608310",33,"Marlins center fielder Marcell Ozuna left the game due to an injured wrist"
-"NYN201609010",21,"replay,3,suzui001,MIA,everm901,NYC20,,Y,M,MIA,C $when Ichiro Suzuki was called out at 1B, Marlins manager Don Mattingly challenged the ruling; the call was overturned by replay"
-"NYN201609010",58,"replay,7,yelic001,MIA,everm901,NYC20,O,N,U,,H $Christian Yelich's fly to LF struck the railing above the wall and was ruled a home run; crew chief Mike Everitt requested a review, which upheld the call by replay"
-"NYN201609010",79,"replay,9,darnt001,NYN,everm901,NYC20,,Y,M,NYN,C $when Travis d'Arnaud was called out at 1B, Mets manager Terry Collins challenged the ruling; the call was overturned by replay"
-"NYN201609030",55,"replay,6,johnk003,NYN,cedeg901,NYC20,,N,M,WAS,I $when Kelly Johnson was ruled to have been hit by a pitch, Nationals manager Dusty Baker challenged the ruling; the call was upheld by replay"
-"NYN201609160",28,"replay,4,suzuk001,MIN,gormb901,NYC20,,Y,M,NYN,A $when Max Kepler was called safe at 1B, Mets manager Terry Collins challenged the ruling; the call was overturned by replay"
-"NYN201609160",64,"Mets shortstop Asdrubal Cabrera left the game due to an injured leg"
-"NYN201609170",10,"$Byron Buxton called out for interference for running into his own bunt"
-"NYN201609180",54,"Mets center fielder Yoenis Cespedes left the game due to an injured head"
-"NYN201609200",71,"$originally scored as E5, changed to single on 0927-2016"
-"NYN201609210",82,"$Ender Inciarte caught the ball over the top of the wall to prevent a game-winning home run"
-"NYN201609220",62,"replay,8,herro001,PHI,westj901,NYC20,,N,M,NYN,C $when Odubel Herrera was called safe at 1B, Mets manager Terry Collins challenged the ruling; the call was upheld by replay"
-"NYN201609240",24,"replay,3,alfaj002,PHI,westj901,NYC20,,Y,M,NYN,A $when Freddy Galvis was called safe at 2B, Mets manager Terry Collins challenged the ruling; the call was overturned by replay"
-"NYN201609250",47,"replay,5,river003,NYN,westj901,NYC20,,N,M,PHI,I $when Rene Rivers was ruled to have been hit by a pitch, Phillies manager Pete Mackanin challenged the ruling; the call was upheld by replay"
-"NYN201609250",61,"replay,7,altha001,PHI,westj901,NYC20,,Y,M,NYN,C $when Aaron Altherr was called safe at 1B, Mets manager Terry Collins challenged the ruling; the call was overturned by replay"
-"NYN201604080",49,"Mets pitcher Jacob deGrom left the game due to an injured back"
-"NYN201604100",60,"replay,8,howar001,PHI,mealj901,NYC20,,N,M,NYN,A $when Odubel Herrera was called safe at 2B, Mets manager Terry Collins challenged the ruling; the call was upheld by replay; Herrera had wandered off the base and the throw was behind him"
-"NYN201604110",3,"replay,1,yelic001,MIA,everm901,NYC20,,Y,M,MIA,C $when Christian Yelich was called out at 1B, Marlins manager Don Mattingly challenged the ruling; the call was overturned by replay"
-"NYN201604120",25,"replay,4,ozunm001,MIA,everm901,NYC20,,Y,M,MIA,C $when Marcell Ozuna was called out at 1B, Marlins manager Don Mattingly challenged the ruling; the call was overturned by replay"
-"NYN201604250",32,"Reds second baseman Brandon Phillips left the game due to an injured hand"
-"NYN201604250",71,"Mets catcher Travis d'Arnaud left the game due to an injured shoulder"
-"NYN201604300",71,"replay,8,florw001,NYN,kulpr901,NYC20,,N,M,SFN,E $when Neal Walker was ruled to have made a good slide at 2B, Giants manager Bruce Bochy challenged the ruling; the call was upheld by replay"
-"NYN201605010",11,"replay,2,pench001,SFN,kulpr901,NYC20,,N,M,SFN,C $when Hunter Pence was called out at 1B, Giants manager Bruce Bochy challenged the ruling; the call was upheld by replay"
-"NYN201605010",61,"replay,7,lagaj001,NYN,kulpr901,NYC20,,Y,U,,N $Juan Lagares' hit to RF bounced near the seats and was touched by a fan; Lagares reached 3B on the play; acting crew chief Ron Kulpa requested a review, which overturned the call to fan interference; Lagares was placed at 2B by replay"
-"NYN201605030",32,"replay,5,smitm007,ATL,cedeg901,NYC20,O,Y,U,,H $Mallex Smith's fly to LF was ruled off the wall and in play; Smith reached 3B on the play; crew chief Gary Cederstrom requested a review, which overturned the call to a home run"
-"NYN201605170",40,"replay,6,wertj001,WAS,joycj901,NYC20,,N,M,WAS,A $when Ben Revere was called out at 2B, Nationals manager Dusty Baker challenged the ruling; the call was upheld by replay"
-"NYN201605170",57,"replay,8,cabra002,NYN,joycj901,NYC20,,Y,U,,C $when Asdrubal Cabrera was called safe at 1B, crew chief Jim Joyce requested a review; the call was overturned by replay"
-"NYN201605180",39,"replay,5,espid001,WAS,joycj901,NYC20,,Y,M,NYN,A $when Anthony Rendon was called safe at 2B, Mets manager Terry Collins challenged the ruling; the call was overturned by replay"
-"NYN201605200",42,"replay,6,lucrj001,MIL,cedeg901,NYC20,,Y,M,NYN,A $when Herman Perez was called safe at 2B, Mets manager Terry Collins challenged the ruling; the call was overturned by replay"
-"NYN201605210",49,"ej,longk801,C,johna901,Called third strike Mets Hitting Coach Kevin Long ejected by HP umpire Adrian Johnson"
-"NYN201605210",61,"replay,7,wrigd002,NYN,cedeg901,NYC20,,Y,M,MIL,A $when Curtis Granderson was called safe at 2B, Brewers manager Craig Counsell challenged the rulingl; the call was overturned by replay"
-"NYN201605220",34,"replay,4,river003,NYN,cedeg901,NYC20,,N,M,MIL,A $when Asdrubal Cabrera was called safe at 2B on a pickoff attempt, Brewers manager Craig Counsell challenged the ruling; the call was upheld by replay"
-"NYN201605280",17,"ej,syndn001,P,hamaa901,Throwing at batter ej,collt801,M,hamaa901,Throwing at batter $Noah Syndergaard threw a 99 MPH fastball behind Chase Utley, who had broken Ruben Tejada's leg with a takeout slide last October in the NL Division Series; Syndergaard and manager Terry Collins ejected by HP umpire Adam Hamari"
-"NYN201605280",29,"replay,4,walkn001,NYN,hallt901,NYC20,,N,M,NYN,O $Neil Walker's ball down the RF line was missed by 1B umpire Tom Hallion; he got help from HP umpire Adam Hamari, who called the ball foul; Mets acting manager Dick Scott challenged the ruling, which was upheld by replay"
-"NYN201605280",33,"Dodgers left fielder Trayce Thompson left the game due to an injured back"
-"NYN201605280",63,"replay,8,crawc002,LAN,hallt901,NYC20,,N,U,,C $when Carl Crawford was called safe at 1B, crew chief Tom Hallion requested a review; the call was upheld by replay"
-"NYN201605290",19,"replay,3,turnj001,LAN,hallt901,NYC20,,N,M,NYN,E $when Justin Turner was called safe at 1B, Mets manager Terry Collins challenged the slide at 2B; the call was upheld by replay"
-"NYN201605290",47,"replay,6,cabra002,NYN,hallt901,NYC20,I,N,U,,H $Asdrubal Cabrera's fly to LF was touched by a fan above the orange stripe; the ball was ruled a home run; crew chief Tom Hallion requested a review, which upheld the call"
-"NYN201605310",45,"$originally scored as single, changed to E3 on 06-09-2016, making two runs unearned"
-"NYN201605310",62,"replay,7,frazt001,CHA,scotd901,NYC20,,Y,M,CHA,A $when Brett Lawrie was called out at 2B, White Sox manager Robin Ventura challenged the ruling; the call was overturned by replay"
-"NYN201606010",43,"replay,6,lonej001,NYN,davig901,NYC20,,Y,M,CHA,N $when a fan reached out to touch James Loney's foul ball in LF, the play was ruled no fan interference; White Sox manager Robin Ventura challenged the ruling; the call was overturned by replay to fan interference and an out"
-"NYN201606150",37,"Pirates left fielder Starling Marte left the game due to an injured head"
-"NYN201606160",24,"Mets second baseman Wilmer Flores left the game due to an injured hand"
-"NYN201606170",52,"replay,7,freef001,ATL,wintm901,NYC20,,N,M,NYN,C $when Frddie Freeman was called safe at 1B, Mets manager Terry Collins challenged the ruling; the call was upheld by replay"
-"NYN201606170",80,"$James Loney called for interference at 2B for an illegal slide when he elbowed Jace Peterson"
-"NYN201606180",39,"ej,pendt001,C,fostm901,Balk non-call Braves Bench Coach Terry Pendleton ejected by HP umpire Marty Foster"
-"NYN201606210",1,"$Bartolo Colon was struck on the right thumb and left with a bruised thumb"
-"NYN201606220",17,"replay,3,duffd001,KCA,hirsj901,NYC20,,N,M,KCA,A $when Jarrod Dyson was called out at 3B, Royals manager Ned Yost challenged the ruling; the call was upheld by replay"
-"NYN201606220",43,"Mets center fielder Yoenis Cespedes left the game due to an injured wrist"
-"NYN201607020",29,"Cubs third baseman Chris Coghlan left the game due to an injured side"
-"NYN201607040",10,"replay,2,johnc003,MIA,hallt901,NYC20,,Y,M,MIA,A $when Chris Johnson was called out at 2B, Marlins manager Don Mattingly challenged the ruling; the call was overturned by replay"
-"NYN201607040",77,"replay,8,lagaj001,NYN,hallt901,NYC20,,Y,M,MIA,C $when Juan Lagares was called safe at 1B due to a dropped throw, Marlins manager Don Mattingly challenged the ruling; the call was overturned by replay; Derek Dietrich had to stretch and fell after the catch"
-"NYN201607060",40,"replay,5,yelic001,MIA,hallt901,NYC20,,N,M,MIA,C replay,5,yelic001,MIA,hallt901,NYC20,,N,M,MIA,C $when Derek Dietrich was called out at 2B and Christian Yelich was called out at 1B, Marlins manager Don Mattingly challenged both calls; both were upheld by replay"
-"NYN201607060",67,"replay,9,suzui001,MIA,hallt901,NYC20,,N,U,,C $when Chris Johnson was called out at 2B, crew chief Tom Hallion requested a review; the call was upheld by replay"
-"NYN201607070",46,"replay,5,murpd006,WAS,joycj901,NYC20,,Y,M,WAS,C $when Daniel Murphy was called out at 1B, Nationals manager Dusty Baker challenged the ruling; the call was overturned by replay"
-"NYN201607070",89,"replay,9,murpd006,WAS,joycj901,NYC20,,N,M,WAS,E $when Jayson Werth was called for an illegal slide at 2B, Nationals manager Dusty Baker challenged the ruling; the call was upheld by replay"
-"NYN201607080",24,"Mets center fielder Yoenis Cespedes left the game due to an injured leg"
-"NYN201607080",26,"replay,4,renda001,WAS,joycj901,NYC20,,Y,M,NYN,A $when Clint Robinson was called safe at 2B, Mets manager Terry Collins challenged the ruling; the call was overturned by replay"
-"NYN201607080",34,"Mets pitcher Noah Syndergaard left the game due to an injured arm"
-"NYN201607261",34,"replay,4,diaza003,SLN,wegnm901,NYC20,,Y,M,NYN,A $when Tommy Pham was called safe at 3B, Mets manager Terry Collins challenged the ruling; the call was overturned by replay"
-"NYN201607261",36,"replay,4,cabra002,NYN,wegnm901,NYC20,,Y,M,NYN,I $when Asdrubal Cabrera was ruled not to have been hit by a pitch, Mets manager Terry Collins challenged the ruling; the call was overturned by replay"
-"NYN201607262",36,"replay,5,lagaj001,NYN,wintm901,NYC20,,Y,M,NYN,C $when Juan Lagares was called out at 1B, Mets manager Terry Collins challenged the ruling; the call was overturned by replay"
-"NYN201607300",34,"Rockies shortstop Trevor Story left the game due to an injured hand"
-"NYN201607300",36,"replay,4,colob001,NYN,kellj901,NYC20,,Y,M,COL,A $when Justin Ruggiano was called safe at 3B, Rockies manager Walt Weiss challenged the ruling; the call was overturned by replay"
-"NYN201607300",73,"replay,9,florw001,NYN,kellj901,NYC20,I,Y,U,,H ej,collt801,M,kellj901,Replay ruling $Wilmer Flores' fly to LF was caught by a fan but ruled a home run; crew chief Jeff Kellogg requested a review, which overturned the call to fan interference and an out; Mets manager Terry Collins ejected by Kellogg"
-"NYN201607310",8,"Mets shortstop Asdrubal Cabrera left the game due to an injured knee"
-"NYN201607310",33,"replay,4,adamc001,COL,kellj901,NYC20,,Y,M,COL,A $when Daniel Descalso was called out at 2B, Rockies manager Walt Weiss challenged the ruling; the call was overturned by replay"
-"NYN201607310",44,"replay,5,reynm001,COL,kellj901,NYC20,,N,M,COL,A $when Carlos Gonzalez was called out at HP, Rockies manager Walt Weiss challenged the ruling; the call was upheld by replay"
-"NYN201608020",55,"$originally scored as single, changed to error on 08-05-2016, making run unearned"
-"NYN201608090",75,"replay,9,deaza001,NYN,hirsj901,NYC20,,Y,M,ARI,C $when Alejandro de Aza was called safe at 1B, D-Backs manager Chip Hale challenged the ruling; the call was overturned by replay"
-"NYN201608140",4,"replay,1,solay001,SDN,gibsg901,NYC20,,N,M,SDN,A $when Travis Jankowski was called out at 3B, Padres manager Andy Green challenged the ruling; the call was upheld by replay"
-"NYN201608260",43,"Mets right fielder Justin Ruggiano left the game due to an injured shoulder"
-"NYN201608280",7,"Mets shortstop Asdrubal Cabrera left the game due to an injured knee"
-"NYN201608290",16,"replay,2,lonej001,NYN,everm901,NYC20,,N,M,MIA,C $when James Loney was called safe at 1B, Marlins manager Don Mattingly challenged the ruling; the call was upheld by replay"
-"NYN201608310",33,"Marlins center fielder Marcell Ozuna left the game due to an injured wrist"
-"NYN201609010",21,"replay,3,suzui001,MIA,everm901,NYC20,,Y,M,MIA,C $when Ichiro Suzuki was called out at 1B, Marlins manager Don Mattingly challenged the ruling; the call was overturned by replay"
-"NYN201609010",58,"replay,7,yelic001,MIA,everm901,NYC20,O,N,U,,H $Christian Yelich's fly to LF struck the railing above the wall and was ruled a home run; crew chief Mike Everitt requested a review, which upheld the call by replay"
-"NYN201609010",79,"replay,9,darnt001,NYN,everm901,NYC20,,Y,M,NYN,C $when Travis d'Arnaud was called out at 1B, Mets manager Terry Collins challenged the ruling; the call was overturned by replay"
-"NYN201609030",55,"replay,6,johnk003,NYN,cedeg901,NYC20,,N,M,WAS,I $when Kelly Johnson was ruled to have been hit by a pitch, Nationals manager Dusty Baker challenged the ruling; the call was upheld by replay"
-"NYN201609160",28,"replay,4,suzuk001,MIN,gormb901,NYC20,,Y,M,NYN,A $when Max Kepler was called safe at 1B, Mets manager Terry Collins challenged the ruling; the call was overturned by replay"
-"NYN201609160",64,"Mets shortstop Asdrubal Cabrera left the game due to an injured leg"
-"NYN201609170",10,"$Byron Buxton called out for interference for running into his own bunt"
-"NYN201609180",54,"Mets center fielder Yoenis Cespedes left the game due to an injured head"
-"NYN201609200",71,"$originally scored as E5, changed to single on 0927-2016"
-"NYN201609210",82,"$Ender Inciarte caught the ball over the top of the wall to prevent a game-winning home run"
-"NYN201609220",62,"replay,8,herro001,PHI,westj901,NYC20,,N,M,NYN,C $when Odubel Herrera was called safe at 1B, Mets manager Terry Collins challenged the ruling; the call was upheld by replay"
-"NYN201609240",24,"replay,3,alfaj002,PHI,westj901,NYC20,,Y,M,NYN,A $when Freddy Galvis was called safe at 2B, Mets manager Terry Collins challenged the ruling; the call was overturned by replay"
-"NYN201609250",47,"replay,5,river003,NYN,westj901,NYC20,,N,M,PHI,I $when Rene Rivers was ruled to have been hit by a pitch, Phillies manager Pete Mackanin challenged the ruling; the call was upheld by replay"
-"NYN201609250",61,"replay,7,altha001,PHI,westj901,NYC20,,Y,M,NYN,C $when Aaron Altherr was called safe at 1B, Mets manager Terry Collins challenged the ruling; the call was overturned by replay"
+"NYN201604080",49,"Mets pitcher Jacob deGrom left the game due to an injured back"FILENAME_TX","LINE_NUMBER_CT"
+
+"NYN201604100",60,"replay,8,howar001,PHI,mealj901,NYC20,,N,M,NYN,A $when Odubel Herrera was called safe at 2B, Mets manager Terry Collins challenged the ruling; the call was upheld by replay; Herrera had wandered off the base and the throw was behind him"2016NYN.EVN.regular.comment.csv",2
+
+"NYN201604110",3,"replay,1,yelic001,MIA,everm901,NYC20,,Y,M,MIA,C $when Christian Yelich was called out at 1B, Marlins manager Don Mattingly challenged the ruling; the call was overturned by replay"2016NYN.EVN.regular.comment.csv",3
+
+"NYN201604120",25,"replay,4,ozunm001,MIA,everm901,NYC20,,Y,M,MIA,C $when Marcell Ozuna was called out at 1B, Marlins manager Don Mattingly challenged the ruling; the call was overturned by replay"2016NYN.EVN.regular.comment.csv",4
+
+"NYN201604250",32,"Reds second baseman Brandon Phillips left the game due to an injured hand"2016NYN.EVN.regular.comment.csv",5
+
+"NYN201604250",71,"Mets catcher Travis d'Arnaud left the game due to an injured shoulder"2016NYN.EVN.regular.comment.csv",6
+
+"NYN201604300",71,"replay,8,florw001,NYN,kulpr901,NYC20,,N,M,SFN,E $when Neal Walker was ruled to have made a good slide at 2B, Giants manager Bruce Bochy challenged the ruling; the call was upheld by replay"2016NYN.EVN.regular.comment.csv",7
+
+"NYN201605010",11,"replay,2,pench001,SFN,kulpr901,NYC20,,N,M,SFN,C $when Hunter Pence was called out at 1B, Giants manager Bruce Bochy challenged the ruling; the call was upheld by replay"2016NYN.EVN.regular.comment.csv",8
+
+"NYN201605010",61,"replay,7,lagaj001,NYN,kulpr901,NYC20,,Y,U,,N $Juan Lagares' hit to RF bounced near the seats and was touched by a fan; Lagares reached 3B on the play; acting crew chief Ron Kulpa requested a review, which overturned the call to fan interference; Lagares was placed at 2B by replay"2016NYN.EVN.regular.comment.csv",9
+
+"NYN201605030",32,"replay,5,smitm007,ATL,cedeg901,NYC20,O,Y,U,,H $Mallex Smith's fly to LF was ruled off the wall and in play; Smith reached 3B on the play; crew chief Gary Cederstrom requested a review, which overturned the call to a home run"2016NYN.EVN.regular.comment.csv",10
+
+"NYN201605170",40,"replay,6,wertj001,WAS,joycj901,NYC20,,N,M,WAS,A $when Ben Revere was called out at 2B, Nationals manager Dusty Baker challenged the ruling; the call was upheld by replay"2016NYN.EVN.regular.comment.csv",11
+
+"NYN201605170",57,"replay,8,cabra002,NYN,joycj901,NYC20,,Y,U,,C $when Asdrubal Cabrera was called safe at 1B, crew chief Jim Joyce requested a review; the call was overturned by replay"2016NYN.EVN.regular.comment.csv",12
+
+"NYN201605180",39,"replay,5,espid001,WAS,joycj901,NYC20,,Y,M,NYN,A $when Anthony Rendon was called safe at 2B, Mets manager Terry Collins challenged the ruling; the call was overturned by replay"2016NYN.EVN.regular.comment.csv",13
+
+"NYN201605200",42,"replay,6,lucrj001,MIL,cedeg901,NYC20,,Y,M,NYN,A $when Herman Perez was called safe at 2B, Mets manager Terry Collins challenged the ruling; the call was overturned by replay"2016NYN.EVN.regular.comment.csv",14
+
+"NYN201605210",49,"ej,longk801,C,johna901,Called third strike Mets Hitting Coach Kevin Long ejected by HP umpire Adrian Johnson"2016NYN.EVN.regular.comment.csv",15
+
+"NYN201605210",61,"replay,7,wrigd002,NYN,cedeg901,NYC20,,Y,M,MIL,A $when Curtis Granderson was called safe at 2B, Brewers manager Craig Counsell challenged the rulingl; the call was overturned by replay"2016NYN.EVN.regular.comment.csv",16
+
+"NYN201605220",34,"replay,4,river003,NYN,cedeg901,NYC20,,N,M,MIL,A $when Asdrubal Cabrera was called safe at 2B on a pickoff attempt, Brewers manager Craig Counsell challenged the ruling; the call was upheld by replay"2016NYN.EVN.regular.comment.csv",17
+
+"NYN201605280",17,"ej,syndn001,P,hamaa901,Throwing at batter ej,collt801,M,hamaa901,Throwing at batter $Noah Syndergaard threw a 99 MPH fastball behind Chase Utley, who had broken Ruben Tejada's leg with a takeout slide last October in the NL Division Series; Syndergaard and manager Terry Collins ejected by HP umpire Adam Hamari"2016NYN.EVN.regular.comment.csv",18
+
+"NYN201605280",29,"replay,4,walkn001,NYN,hallt901,NYC20,,N,M,NYN,O $Neil Walker's ball down the RF line was missed by 1B umpire Tom Hallion; he got help from HP umpire Adam Hamari, who called the ball foul; Mets acting manager Dick Scott challenged the ruling, which was upheld by replay"2016NYN.EVN.regular.comment.csv",19
+
+"NYN201605280",33,"Dodgers left fielder Trayce Thompson left the game due to an injured back"2016NYN.EVN.regular.comment.csv",20
+
+"NYN201605280",63,"replay,8,crawc002,LAN,hallt901,NYC20,,N,U,,C $when Carl Crawford was called safe at 1B, crew chief Tom Hallion requested a review; the call was upheld by replay"2016NYN.EVN.regular.comment.csv",21
+
+"NYN201605290",19,"replay,3,turnj001,LAN,hallt901,NYC20,,N,M,NYN,E $when Justin Turner was called safe at 1B, Mets manager Terry Collins challenged the slide at 2B; the call was upheld by replay"2016NYN.EVN.regular.comment.csv",22
+
+"NYN201605290",47,"replay,6,cabra002,NYN,hallt901,NYC20,I,N,U,,H $Asdrubal Cabrera's fly to LF was touched by a fan above the orange stripe; the ball was ruled a home run; crew chief Tom Hallion requested a review, which upheld the call"2016NYN.EVN.regular.comment.csv",23
+
+"NYN201605310",45,"$originally scored as single, changed to E3 on 06-09-2016, making two runs unearned"2016NYN.EVN.regular.comment.csv",24
+
+"NYN201605310",62,"replay,7,frazt001,CHA,scotd901,NYC20,,Y,M,CHA,A $when Brett Lawrie was called out at 2B, White Sox manager Robin Ventura challenged the ruling; the call was overturned by replay"2016NYN.EVN.regular.comment.csv",25
+
+"NYN201606010",43,"replay,6,lonej001,NYN,davig901,NYC20,,Y,M,CHA,N $when a fan reached out to touch James Loney's foul ball in LF, the play was ruled no fan interference; White Sox manager Robin Ventura challenged the ruling; the call was overturned by replay to fan interference and an out"2016NYN.EVN.regular.comment.csv",26
+
+"NYN201606150",37,"Pirates left fielder Starling Marte left the game due to an injured head"2016NYN.EVN.regular.comment.csv",27
+
+"NYN201606160",24,"Mets second baseman Wilmer Flores left the game due to an injured hand"2016NYN.EVN.regular.comment.csv",28
+
+"NYN201606170",52,"replay,7,freef001,ATL,wintm901,NYC20,,N,M,NYN,C $when Frddie Freeman was called safe at 1B, Mets manager Terry Collins challenged the ruling; the call was upheld by replay"2016NYN.EVN.regular.comment.csv",29
+
+"NYN201606170",80,"$James Loney called for interference at 2B for an illegal slide when he elbowed Jace Peterson"2016NYN.EVN.regular.comment.csv",30
+
+"NYN201606180",39,"ej,pendt001,C,fostm901,Balk non-call Braves Bench Coach Terry Pendleton ejected by HP umpire Marty Foster"2016NYN.EVN.regular.comment.csv",31
+
+"NYN201606210",1,"$Bartolo Colon was struck on the right thumb and left with a bruised thumb"2016NYN.EVN.regular.comment.csv",32
+
+"NYN201606220",17,"replay,3,duffd001,KCA,hirsj901,NYC20,,N,M,KCA,A $when Jarrod Dyson was called out at 3B, Royals manager Ned Yost challenged the ruling; the call was upheld by replay"2016NYN.EVN.regular.comment.csv",33
+
+"NYN201606220",43,"Mets center fielder Yoenis Cespedes left the game due to an injured wrist"2016NYN.EVN.regular.comment.csv",34
+
+"NYN201607020",29,"Cubs third baseman Chris Coghlan left the game due to an injured side"2016NYN.EVN.regular.comment.csv",35
+
+"NYN201607040",10,"replay,2,johnc003,MIA,hallt901,NYC20,,Y,M,MIA,A $when Chris Johnson was called out at 2B, Marlins manager Don Mattingly challenged the ruling; the call was overturned by replay"2016NYN.EVN.regular.comment.csv",36
+
+"NYN201607040",77,"replay,8,lagaj001,NYN,hallt901,NYC20,,Y,M,MIA,C $when Juan Lagares was called safe at 1B due to a dropped throw, Marlins manager Don Mattingly challenged the ruling; the call was overturned by replay; Derek Dietrich had to stretch and fell after the catch"2016NYN.EVN.regular.comment.csv",37
+
+"NYN201607060",40,"replay,5,yelic001,MIA,hallt901,NYC20,,N,M,MIA,C replay,5,yelic001,MIA,hallt901,NYC20,,N,M,MIA,C $when Derek Dietrich was called out at 2B and Christian Yelich was called out at 1B, Marlins manager Don Mattingly challenged both calls; both were upheld by replay"2016NYN.EVN.regular.comment.csv",38
+
+"NYN201607060",67,"replay,9,suzui001,MIA,hallt901,NYC20,,N,U,,C $when Chris Johnson was called out at 2B, crew chief Tom Hallion requested a review; the call was upheld by replay"2016NYN.EVN.regular.comment.csv",39
+
+"NYN201607070",46,"replay,5,murpd006,WAS,joycj901,NYC20,,Y,M,WAS,C $when Daniel Murphy was called out at 1B, Nationals manager Dusty Baker challenged the ruling; the call was overturned by replay"2016NYN.EVN.regular.comment.csv",40
+
+"NYN201607070",89,"replay,9,murpd006,WAS,joycj901,NYC20,,N,M,WAS,E $when Jayson Werth was called for an illegal slide at 2B, Nationals manager Dusty Baker challenged the ruling; the call was upheld by replay"2016NYN.EVN.regular.comment.csv",41
+
+"NYN201607080",24,"Mets center fielder Yoenis Cespedes left the game due to an injured leg"2016NYN.EVN.regular.comment.csv",42
+
+"NYN201607080",26,"replay,4,renda001,WAS,joycj901,NYC20,,Y,M,NYN,A $when Clint Robinson was called safe at 2B, Mets manager Terry Collins challenged the ruling; the call was overturned by replay"2016NYN.EVN.regular.comment.csv",43
+
+"NYN201607080",34,"Mets pitcher Noah Syndergaard left the game due to an injured arm"2016NYN.EVN.regular.comment.csv",44
+
+"NYN201607261",34,"replay,4,diaza003,SLN,wegnm901,NYC20,,Y,M,NYN,A $when Tommy Pham was called safe at 3B, Mets manager Terry Collins challenged the ruling; the call was overturned by replay"2016NYN.EVN.regular.comment.csv",45
+
+"NYN201607261",36,"replay,4,cabra002,NYN,wegnm901,NYC20,,Y,M,NYN,I $when Asdrubal Cabrera was ruled not to have been hit by a pitch, Mets manager Terry Collins challenged the ruling; the call was overturned by replay"2016NYN.EVN.regular.comment.csv",46
+
+"NYN201607262",36,"replay,5,lagaj001,NYN,wintm901,NYC20,,Y,M,NYN,C $when Juan Lagares was called out at 1B, Mets manager Terry Collins challenged the ruling; the call was overturned by replay"2016NYN.EVN.regular.comment.csv",47
+
+"NYN201607300",34,"Rockies shortstop Trevor Story left the game due to an injured hand"2016NYN.EVN.regular.comment.csv",48
+
+"NYN201607300",36,"replay,4,colob001,NYN,kellj901,NYC20,,Y,M,COL,A $when Justin Ruggiano was called safe at 3B, Rockies manager Walt Weiss challenged the ruling; the call was overturned by replay"2016NYN.EVN.regular.comment.csv",49
+
+"NYN201607300",73,"replay,9,florw001,NYN,kellj901,NYC20,I,Y,U,,H ej,collt801,M,kellj901,Replay ruling $Wilmer Flores' fly to LF was caught by a fan but ruled a home run; crew chief Jeff Kellogg requested a review, which overturned the call to fan interference and an out; Mets manager Terry Collins ejected by Kellogg"2016NYN.EVN.regular.comment.csv",50
+
+"NYN201607310",8,"Mets shortstop Asdrubal Cabrera left the game due to an injured knee"2016NYN.EVN.regular.comment.csv",51
+
+"NYN201607310",33,"replay,4,adamc001,COL,kellj901,NYC20,,Y,M,COL,A $when Daniel Descalso was called out at 2B, Rockies manager Walt Weiss challenged the ruling; the call was overturned by replay"2016NYN.EVN.regular.comment.csv",52
+
+"NYN201607310",44,"replay,5,reynm001,COL,kellj901,NYC20,,N,M,COL,A $when Carlos Gonzalez was called out at HP, Rockies manager Walt Weiss challenged the ruling; the call was upheld by replay"2016NYN.EVN.regular.comment.csv",53
+
+"NYN201608020",55,"$originally scored as single, changed to error on 08-05-2016, making run unearned"2016NYN.EVN.regular.comment.csv",54
+
+"NYN201608090",75,"replay,9,deaza001,NYN,hirsj901,NYC20,,Y,M,ARI,C $when Alejandro de Aza was called safe at 1B, D-Backs manager Chip Hale challenged the ruling; the call was overturned by replay"2016NYN.EVN.regular.comment.csv",55
+
+"NYN201608140",4,"replay,1,solay001,SDN,gibsg901,NYC20,,N,M,SDN,A $when Travis Jankowski was called out at 3B, Padres manager Andy Green challenged the ruling; the call was upheld by replay"2016NYN.EVN.regular.comment.csv",56
+
+"NYN201608260",43,"Mets right fielder Justin Ruggiano left the game due to an injured shoulder"2016NYN.EVN.regular.comment.csv",57
+
+"NYN201608280",7,"Mets shortstop Asdrubal Cabrera left the game due to an injured knee"2016NYN.EVN.regular.comment.csv",58
+
+"NYN201608290",16,"replay,2,lonej001,NYN,everm901,NYC20,,N,M,MIA,C $when James Loney was called safe at 1B, Marlins manager Don Mattingly challenged the ruling; the call was upheld by replay"2016NYN.EVN.regular.comment.csv",59
+
+"NYN201608310",33,"Marlins center fielder Marcell Ozuna left the game due to an injured wrist"2016NYN.EVN.regular.comment.csv",60
+
+"NYN201609010",21,"replay,3,suzui001,MIA,everm901,NYC20,,Y,M,MIA,C $when Ichiro Suzuki was called out at 1B, Marlins manager Don Mattingly challenged the ruling; the call was overturned by replay"2016NYN.EVN.regular.comment.csv",61
+
+"NYN201609010",58,"replay,7,yelic001,MIA,everm901,NYC20,O,N,U,,H $Christian Yelich's fly to LF struck the railing above the wall and was ruled a home run; crew chief Mike Everitt requested a review, which upheld the call by replay"2016NYN.EVN.regular.comment.csv",62
+
+"NYN201609010",79,"replay,9,darnt001,NYN,everm901,NYC20,,Y,M,NYN,C $when Travis d'Arnaud was called out at 1B, Mets manager Terry Collins challenged the ruling; the call was overturned by replay"2016NYN.EVN.regular.comment.csv",63
+
+"NYN201609030",55,"replay,6,johnk003,NYN,cedeg901,NYC20,,N,M,WAS,I $when Kelly Johnson was ruled to have been hit by a pitch, Nationals manager Dusty Baker challenged the ruling; the call was upheld by replay"2016NYN.EVN.regular.comment.csv",64
+
+"NYN201609160",28,"replay,4,suzuk001,MIN,gormb901,NYC20,,Y,M,NYN,A $when Max Kepler was called safe at 1B, Mets manager Terry Collins challenged the ruling; the call was overturned by replay"2016NYN.EVN.regular.comment.csv",65
+
+"NYN201609160",64,"Mets shortstop Asdrubal Cabrera left the game due to an injured leg"2016NYN.EVN.regular.comment.csv",66
+
+"NYN201609170",10,"$Byron Buxton called out for interference for running into his own bunt"2016NYN.EVN.regular.comment.csv",67
+
+"NYN201609180",54,"Mets center fielder Yoenis Cespedes left the game due to an injured head"2016NYN.EVN.regular.comment.csv",68
+
+"NYN201609200",71,"$originally scored as E5, changed to single on 0927-2016"2016NYN.EVN.regular.comment.csv",69
+
+"NYN201609210",82,"$Ender Inciarte caught the ball over the top of the wall to prevent a game-winning home run"2016NYN.EVN.regular.comment.csv",70
+
+"NYN201609220",62,"replay,8,herro001,PHI,westj901,NYC20,,N,M,NYN,C $when Odubel Herrera was called safe at 1B, Mets manager Terry Collins challenged the ruling; the call was upheld by replay"2016NYN.EVN.regular.comment.csv",71
+
+"NYN201609240",24,"replay,3,alfaj002,PHI,westj901,NYC20,,Y,M,NYN,A $when Freddy Galvis was called safe at 2B, Mets manager Terry Collins challenged the ruling; the call was overturned by replay"2016NYN.EVN.regular.comment.csv",72
+
+"NYN201609250",47,"replay,5,river003,NYN,westj901,NYC20,,N,M,PHI,I $when Rene Rivers was ruled to have been hit by a pitch, Phillies manager Pete Mackanin challenged the ruling; the call was upheld by replay"2016NYN.EVN.regular.comment.csv",73
+
+"NYN201609250",61,"replay,7,altha001,PHI,westj901,NYC20,,Y,M,NYN,C $when Aaron Altherr was called safe at 1B, Mets manager Terry Collins challenged the ruling; the call was overturned by replay"2016NYN.EVN.regular.comment.csv",74
+

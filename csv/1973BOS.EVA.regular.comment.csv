@@ -1,47 +1,46 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"BOS197304060",5,"$Ron Blomberg makes the first plate appearance by a DH"
-"BOS197304070",19,"hit RF pole"
-"BOS197304080",26,"Debut game for Mario Guerrero"
-"BOS197304160",26,"ej,kaske101,M,flahr901,Called third strike Red Sox Manager Eddie Kasko ejected by 1B umpire Red Flaherty"
-"BOS197305300",36,"$Al Gallagher ran into Carlton Fisk"
-"BOS197305300",50,"$Al Gallagher and Carlton Fisk shove each other; both benches clear; Rico Petrocelli and Jeff Torborg exchange punches"
-"BOS197305300",65,"$Dwight Evans caught Mike Epstein's fly ball over the wall"
-"BOS197306060",39,"Ken Wright left with blister on pitching hand"
-"BOS197306231",6,"ej,smitr101,P,phild901,Call at 2B Reggie Smith ejected by 2B umpire Dave Phillips"
-"BOS197306232",1,"Debut game for Jesse Jefferson"
-"BOS197307150",0,"2:52 rain delay before start of game"
-"BOS197307150",22,"$Jim Mason fell down running the bases"
-"BOS197307150",46,"Game called due to rain"
-"BOS197307171",0,"$day/night doubleheader"
-"BOS197307220",27,"Tommy Harper left with injured ankle"
-"BOS197307310",80,"$Roy White missed the plate"
-"BOS197308010",69,"ej,fiskc001,P,brinj901,Fighting ej,munst101,P,brinj901,Fighting $Gene Michael missed the squeeze bunt; Thurman Munson ran into Carlton Fisk and they started fighting; both ejected by HP umpire Joe Brinkman"
-"BOS197308130",15,"Debut game for Jose Morales"
-"BOS197308170",51,"ej,rojac101,P,barnl901,Called third strike Cookie Rojas ejected by HP umpire Larry Barnett"
-"BOS197308180",14,"ej,patef101,P,frana901,Balls and strikes Freddie Patek ejected by HP umpire Art Frantz arguing strike call on an attempted bunt; Patek claimed he pulled the bat back"
-"BOS197308180",35,"Debut game for Barry Raziano"
-"BOS197309090",27,"hit RF pole"
-"BOS197309282",4,"$on ball 4 to Dave May, catcher Bob Montgomery's return throw went over pitcher Marty Pattin's head"
-"BOS197304060",5,"$Ron Blomberg makes the first plate appearance by a DH"
-"BOS197304070",19,"hit RF pole"
-"BOS197304080",26,"Debut game for Mario Guerrero"
-"BOS197304160",26,"ej,kaske101,M,flahr901,Called third strike Red Sox Manager Eddie Kasko ejected by 1B umpire Red Flaherty"
-"BOS197305300",36,"$Al Gallagher ran into Carlton Fisk"
-"BOS197305300",50,"$Al Gallagher and Carlton Fisk shove each other; both benches clear; Rico Petrocelli and Jeff Torborg exchange punches"
-"BOS197305300",65,"$Dwight Evans caught Mike Epstein's fly ball over the wall"
-"BOS197306060",39,"Ken Wright left with blister on pitching hand"
-"BOS197306231",6,"ej,smitr101,P,phild901,Call at 2B Reggie Smith ejected by 2B umpire Dave Phillips"
-"BOS197306232",1,"Debut game for Jesse Jefferson"
-"BOS197307150",0,"2:52 rain delay before start of game"
-"BOS197307150",22,"$Jim Mason fell down running the bases"
-"BOS197307150",46,"Game called due to rain"
-"BOS197307171",0,"$day/night doubleheader"
-"BOS197307220",27,"Tommy Harper left with injured ankle"
-"BOS197307310",80,"$Roy White missed the plate"
-"BOS197308010",69,"ej,fiskc001,P,brinj901,Fighting ej,munst101,P,brinj901,Fighting $Gene Michael missed the squeeze bunt; Thurman Munson ran into Carlton Fisk and they started fighting; both ejected by HP umpire Joe Brinkman"
-"BOS197308130",15,"Debut game for Jose Morales"
-"BOS197308170",51,"ej,rojac101,P,barnl901,Called third strike Cookie Rojas ejected by HP umpire Larry Barnett"
-"BOS197308180",14,"ej,patef101,P,frana901,Balls and strikes Freddie Patek ejected by HP umpire Art Frantz arguing strike call on an attempted bunt; Patek claimed he pulled the bat back"
-"BOS197308180",35,"Debut game for Barry Raziano"
-"BOS197309090",27,"hit RF pole"
-"BOS197309282",4,"$on ball 4 to Dave May, catcher Bob Montgomery's return throw went over pitcher Marty Pattin's head"
+"BOS197304060",5,"$Ron Blomberg makes the first plate appearance by a DH"FILENAME_TX","LINE_NUMBER_CT"
+
+"BOS197304070",19,"hit RF pole"1973BOS.EVA.regular.comment.csv",2
+
+"BOS197304080",26,"Debut game for Mario Guerrero"1973BOS.EVA.regular.comment.csv",3
+
+"BOS197304160",26,"ej,kaske101,M,flahr901,Called third strike Red Sox Manager Eddie Kasko ejected by 1B umpire Red Flaherty"1973BOS.EVA.regular.comment.csv",4
+
+"BOS197305300",36,"$Al Gallagher ran into Carlton Fisk"1973BOS.EVA.regular.comment.csv",5
+
+"BOS197305300",50,"$Al Gallagher and Carlton Fisk shove each other; both benches clear; Rico Petrocelli and Jeff Torborg exchange punches"1973BOS.EVA.regular.comment.csv",6
+
+"BOS197305300",65,"$Dwight Evans caught Mike Epstein's fly ball over the wall"1973BOS.EVA.regular.comment.csv",7
+
+"BOS197306060",39,"Ken Wright left with blister on pitching hand"1973BOS.EVA.regular.comment.csv",8
+
+"BOS197306231",6,"ej,smitr101,P,phild901,Call at 2B Reggie Smith ejected by 2B umpire Dave Phillips"1973BOS.EVA.regular.comment.csv",9
+
+"BOS197306232",1,"Debut game for Jesse Jefferson"1973BOS.EVA.regular.comment.csv",10
+
+"BOS197307150",0,"2:52 rain delay before start of game"1973BOS.EVA.regular.comment.csv",11
+
+"BOS197307150",22,"$Jim Mason fell down running the bases"1973BOS.EVA.regular.comment.csv",12
+
+"BOS197307150",46,"Game called due to rain"1973BOS.EVA.regular.comment.csv",13
+
+"BOS197307171",0,"$day/night doubleheader"1973BOS.EVA.regular.comment.csv",14
+
+"BOS197307220",27,"Tommy Harper left with injured ankle"1973BOS.EVA.regular.comment.csv",15
+
+"BOS197307310",80,"$Roy White missed the plate"1973BOS.EVA.regular.comment.csv",16
+
+"BOS197308010",69,"ej,fiskc001,P,brinj901,Fighting ej,munst101,P,brinj901,Fighting $Gene Michael missed the squeeze bunt; Thurman Munson ran into Carlton Fisk and they started fighting; both ejected by HP umpire Joe Brinkman"1973BOS.EVA.regular.comment.csv",17
+
+"BOS197308130",15,"Debut game for Jose Morales"1973BOS.EVA.regular.comment.csv",18
+
+"BOS197308170",51,"ej,rojac101,P,barnl901,Called third strike Cookie Rojas ejected by HP umpire Larry Barnett"1973BOS.EVA.regular.comment.csv",19
+
+"BOS197308180",14,"ej,patef101,P,frana901,Balls and strikes Freddie Patek ejected by HP umpire Art Frantz arguing strike call on an attempted bunt; Patek claimed he pulled the bat back"1973BOS.EVA.regular.comment.csv",20
+
+"BOS197308180",35,"Debut game for Barry Raziano"1973BOS.EVA.regular.comment.csv",21
+
+"BOS197309090",27,"hit RF pole"1973BOS.EVA.regular.comment.csv",22
+
+"BOS197309282",4,"$on ball 4 to Dave May, catcher Bob Montgomery's return throw went over pitcher Marty Pattin's head"1973BOS.EVA.regular.comment.csv",23
+

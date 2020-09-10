@@ -1,67 +1,66 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"BOS197204170",41,"Chris Chambliss left due to an unknown injury"
-"BOS197204180",1,"Debut game for Dick Tidrow"
-"BOS197204180",3,"Duane Josephson left with unknown injury"
-"BOS197204180",66,"Debut game for Jack Brohamer"
-"BOS197204220",31,"Ron Blomberg left with a pulled groin muscle"
-"BOS197204220",81,"$Lew Krausse failed to cover 1B on the play"
-"BOS197205270",21,"$Dave May's homer hit the top of the wall and bounced over"
-"BOS197205270",64,"$John Briggs was called out for passing George Scott"
-"BOS197205290",3,"Tommy Harper lost the ball in the sun"
-"BOS197206090",24,"$Art Kusnyer called for obstruction"
-"BOS197206090",52,"the game was called at 9:50 PM due to rain"
-"BOS197206130",36,"$fan interference near the top of the CF wall"
-"BOS197206140",58,"ej,pinil001,P,mccol901,Called third strike Lou Piniella ejected by HP umpire Larry McCoy"
-"BOS197206150",59,"Debut game for Don Newhauser"
-"BOS197206280",29,"Tommy Harper left with pulled hamstring"
-"BOS197207010",44,"ej,kaske101,M,chyln901,Fan interference $Reggie Smith's fly ball was touched by a fan over the top of the CF wall; the ball caromed back onto the field and was ruled in play by 2B umpire Jim Evans; Smith ran the circuit for an inside the park home run; the Brewers protested that a fan touched the ball and Evans reversed his call to fan interference instead of home run; HP umpire Dave Phillips ruled that Smith had to stop at 2B; Red Sox Manager Eddie Kasko ejected by 1B umpire Nestor Chylak"
-"BOS197207030",39,"Glenn Borgmann left with a split finger"
-"BOS197207050",49,"ej,rignb101,M,malog901,Call at 2B Twins Manager Bill Rigney ejected by 2B umpire George Maloney"
-"BOS197207190",46,"off the LF pole"
-"BOS197207221",40,"ej,jackr001,P,mccol901,Called third strike Reggie Jackson ejected by HP umpire Larry McCoy"
-"BOS197207221",66,"Doug Griffin collided with John Kennedy"
-"BOS197208030",16,"$over the LF screen"
-"BOS197208070",0,"rain delay before start of game"
-"BOS197208090",40,"Doug Griffin hit on his left hand"
-"BOS197208260",77,"$Ben Oglivie's single hit the 1B bag"
-"BOS197209010",26,"$Dick Drago left with two loose teeth after being struck by Carl Yastrzemski's line drive on the right cheek"
-"BOS197209010",62,"Debut game for Jim Wohlford"
-"BOS197209060",0,"$Memorial for Israeli Olympic athletes held before game"
-"BOS197209060",69,"$infield in for Doug Griffin"
-"BOS197209160",56,"Debut game for Dwight Evans"
-"BOS197209160",70,"$Dwight Evans batted out of order but since he was retired, no protest was made by the Indians"
-"BOS197209160",71,"$the next batter should have been Phil Gagliano but Cecil Cooper batted out of order"
-"BOS197209230",1,"Dwight Evans lost the ball in the sun"
-"BOS197204170",41,"Chris Chambliss left due to an unknown injury"
-"BOS197204180",1,"Debut game for Dick Tidrow"
-"BOS197204180",3,"Duane Josephson left with unknown injury"
-"BOS197204180",66,"Debut game for Jack Brohamer"
-"BOS197204220",31,"Ron Blomberg left with a pulled groin muscle"
-"BOS197204220",81,"$Lew Krausse failed to cover 1B on the play"
-"BOS197205270",21,"$Dave May's homer hit the top of the wall and bounced over"
-"BOS197205270",64,"$John Briggs was called out for passing George Scott"
-"BOS197205290",3,"Tommy Harper lost the ball in the sun"
-"BOS197206090",24,"$Art Kusnyer called for obstruction"
-"BOS197206090",52,"the game was called at 9:50 PM due to rain"
-"BOS197206130",36,"$fan interference near the top of the CF wall"
-"BOS197206140",58,"ej,pinil001,P,mccol901,Called third strike Lou Piniella ejected by HP umpire Larry McCoy"
-"BOS197206150",59,"Debut game for Don Newhauser"
-"BOS197206280",29,"Tommy Harper left with pulled hamstring"
-"BOS197207010",44,"ej,kaske101,M,chyln901,Fan interference $Reggie Smith's fly ball was touched by a fan over the top of the CF wall; the ball caromed back onto the field and was ruled in play by 2B umpire Jim Evans; Smith ran the circuit for an inside the park home run; the Brewers protested that a fan touched the ball and Evans reversed his call to fan interference instead of home run; HP umpire Dave Phillips ruled that Smith had to stop at 2B; Red Sox Manager Eddie Kasko ejected by 1B umpire Nestor Chylak"
-"BOS197207030",39,"Glenn Borgmann left with a split finger"
-"BOS197207050",49,"ej,rignb101,M,malog901,Call at 2B Twins Manager Bill Rigney ejected by 2B umpire George Maloney"
-"BOS197207190",46,"off the LF pole"
-"BOS197207221",40,"ej,jackr001,P,mccol901,Called third strike Reggie Jackson ejected by HP umpire Larry McCoy"
-"BOS197207221",66,"Doug Griffin collided with John Kennedy"
-"BOS197208030",16,"$over the LF screen"
-"BOS197208070",0,"rain delay before start of game"
-"BOS197208090",40,"Doug Griffin hit on his left hand"
-"BOS197208260",77,"$Ben Oglivie's single hit the 1B bag"
-"BOS197209010",26,"$Dick Drago left with two loose teeth after being struck by Carl Yastrzemski's line drive on the right cheek"
-"BOS197209010",62,"Debut game for Jim Wohlford"
-"BOS197209060",0,"$Memorial for Israeli Olympic athletes held before game"
-"BOS197209060",69,"$infield in for Doug Griffin"
-"BOS197209160",56,"Debut game for Dwight Evans"
-"BOS197209160",70,"$Dwight Evans batted out of order but since he was retired, no protest was made by the Indians"
-"BOS197209160",71,"$the next batter should have been Phil Gagliano but Cecil Cooper batted out of order"
-"BOS197209230",1,"Dwight Evans lost the ball in the sun"
+"BOS197204170",41,"Chris Chambliss left due to an unknown injury"FILENAME_TX","LINE_NUMBER_CT"
+
+"BOS197204180",1,"Debut game for Dick Tidrow"1972BOS.EVA.regular.comment.csv",2
+
+"BOS197204180",3,"Duane Josephson left with unknown injury"1972BOS.EVA.regular.comment.csv",3
+
+"BOS197204180",66,"Debut game for Jack Brohamer"1972BOS.EVA.regular.comment.csv",4
+
+"BOS197204220",31,"Ron Blomberg left with a pulled groin muscle"1972BOS.EVA.regular.comment.csv",5
+
+"BOS197204220",81,"$Lew Krausse failed to cover 1B on the play"1972BOS.EVA.regular.comment.csv",6
+
+"BOS197205270",21,"$Dave May's homer hit the top of the wall and bounced over"1972BOS.EVA.regular.comment.csv",7
+
+"BOS197205270",64,"$John Briggs was called out for passing George Scott"1972BOS.EVA.regular.comment.csv",8
+
+"BOS197205290",3,"Tommy Harper lost the ball in the sun"1972BOS.EVA.regular.comment.csv",9
+
+"BOS197206090",24,"$Art Kusnyer called for obstruction"1972BOS.EVA.regular.comment.csv",10
+
+"BOS197206090",52,"the game was called at 9:50 PM due to rain"1972BOS.EVA.regular.comment.csv",11
+
+"BOS197206130",36,"$fan interference near the top of the CF wall"1972BOS.EVA.regular.comment.csv",12
+
+"BOS197206140",58,"ej,pinil001,P,mccol901,Called third strike Lou Piniella ejected by HP umpire Larry McCoy"1972BOS.EVA.regular.comment.csv",13
+
+"BOS197206150",59,"Debut game for Don Newhauser"1972BOS.EVA.regular.comment.csv",14
+
+"BOS197206280",29,"Tommy Harper left with pulled hamstring"1972BOS.EVA.regular.comment.csv",15
+
+"BOS197207010",44,"ej,kaske101,M,chyln901,Fan interference $Reggie Smith's fly ball was touched by a fan over the top of the CF wall; the ball caromed back onto the field and was ruled in play by 2B umpire Jim Evans; Smith ran the circuit for an inside the park home run; the Brewers protested that a fan touched the ball and Evans reversed his call to fan interference instead of home run; HP umpire Dave Phillips ruled that Smith had to stop at 2B; Red Sox Manager Eddie Kasko ejected by 1B umpire Nestor Chylak"1972BOS.EVA.regular.comment.csv",16
+
+"BOS197207030",39,"Glenn Borgmann left with a split finger"1972BOS.EVA.regular.comment.csv",17
+
+"BOS197207050",49,"ej,rignb101,M,malog901,Call at 2B Twins Manager Bill Rigney ejected by 2B umpire George Maloney"1972BOS.EVA.regular.comment.csv",18
+
+"BOS197207190",46,"off the LF pole"1972BOS.EVA.regular.comment.csv",19
+
+"BOS197207221",40,"ej,jackr001,P,mccol901,Called third strike Reggie Jackson ejected by HP umpire Larry McCoy"1972BOS.EVA.regular.comment.csv",20
+
+"BOS197207221",66,"Doug Griffin collided with John Kennedy"1972BOS.EVA.regular.comment.csv",21
+
+"BOS197208030",16,"$over the LF screen"1972BOS.EVA.regular.comment.csv",22
+
+"BOS197208070",0,"rain delay before start of game"1972BOS.EVA.regular.comment.csv",23
+
+"BOS197208090",40,"Doug Griffin hit on his left hand"1972BOS.EVA.regular.comment.csv",24
+
+"BOS197208260",77,"$Ben Oglivie's single hit the 1B bag"1972BOS.EVA.regular.comment.csv",25
+
+"BOS197209010",26,"$Dick Drago left with two loose teeth after being struck by Carl Yastrzemski's line drive on the right cheek"1972BOS.EVA.regular.comment.csv",26
+
+"BOS197209010",62,"Debut game for Jim Wohlford"1972BOS.EVA.regular.comment.csv",27
+
+"BOS197209060",0,"$Memorial for Israeli Olympic athletes held before game"1972BOS.EVA.regular.comment.csv",28
+
+"BOS197209060",69,"$infield in for Doug Griffin"1972BOS.EVA.regular.comment.csv",29
+
+"BOS197209160",56,"Debut game for Dwight Evans"1972BOS.EVA.regular.comment.csv",30
+
+"BOS197209160",70,"$Dwight Evans batted out of order but since he was retired, no protest was made by the Indians"1972BOS.EVA.regular.comment.csv",31
+
+"BOS197209160",71,"$the next batter should have been Phil Gagliano but Cecil Cooper batted out of order"1972BOS.EVA.regular.comment.csv",32
+
+"BOS197209230",1,"Dwight Evans lost the ball in the sun"1972BOS.EVA.regular.comment.csv",33
+

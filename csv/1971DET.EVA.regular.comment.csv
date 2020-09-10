@@ -1,45 +1,44 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"DET197104060",23,"$Debut game for Chuck Machemehl"
-"DET197104060",44,"$Debut game for Gomer Hodge"
-"DET197105050",75,"missing play in DET197105050"
-"DET197105070",27,"$the Tigers wound up with two runners at 3B after the throw from RF to HP"
-"DET197105090",81,"ej,browi101,P,malog901,Balls and strikes ej,martb105,M,malog901,Balls and strikes Ike Brown and Tigers Manager Billy Martin ejected by HP umpire George Maloney"
-"DET197106140",73,"ej,martb105,M,barnl901,Balls and strikes Tigers Manager Billy Martin ejected by HP umpire Larry Barnett"
-"DET197106250",1,"$Debut game for Bill Gilbreth"
-"DET197107010",79,"$Debut game for Buddy Hunter"
-"DET197107060",69,"Gary Waslewski injured his leg"
-"DET197107080",11,"Willie Horton left with unknown injury"
-"DET197107252",33,"Vida Blue hit on foot"
-"DET197108020",80,"$Al Kaline called for interference for running into his own batted ball"
-"DET197108220",20,"ej,rodra101,P,hallb901,Call at 3B (Grabbed umpire) Aurelio Rodriguez ejected by 3B umpire Bill Haller"
-"DET197108220",45,"$Tommy Harper bluffed going home and drew throw from Dick McAuliffe"
-"DET197108240",63,"ej,mittg101,P,dimul901,Balls and strikes ej,rignb101,M,dimul901,Balls and strikes George Mitterwald and Twins Manager Bill Rigney ejected by HP umpire Lou DiMuro"
-"DET197108270",28,"Willie Horton hit in left eye"
-"DET197108290",48,"$Debut game for Jack Whillock"
-"DET197109090",80,"$Debut game for John Young"
-"DET197109120",6,"Duane Josephson left with unknown injury"
-"DET197109172",0,"Protest=V"
-"DET197109172",36,"$Brooks Robinson intentionally dropped the bunt trying for double play; umpires ruled one out only; Orioles manager Earl Weaver protested the game"
-"DET197109260",14,"$Ike Brown pulled his hamstring"
-"DET197104060",23,"$Debut game for Chuck Machemehl"
-"DET197104060",44,"$Debut game for Gomer Hodge"
-"DET197105050",75,"missing play in DET197105050"
-"DET197105070",27,"$the Tigers wound up with two runners at 3B after the throw from RF to HP"
-"DET197105090",81,"ej,browi101,P,malog901,Balls and strikes ej,martb105,M,malog901,Balls and strikes Ike Brown and Tigers Manager Billy Martin ejected by HP umpire George Maloney"
-"DET197106140",73,"ej,martb105,M,barnl901,Balls and strikes Tigers Manager Billy Martin ejected by HP umpire Larry Barnett"
-"DET197106250",1,"$Debut game for Bill Gilbreth"
-"DET197107010",79,"$Debut game for Buddy Hunter"
-"DET197107060",69,"Gary Waslewski injured his leg"
-"DET197107080",11,"Willie Horton left with unknown injury"
-"DET197107252",33,"Vida Blue hit on foot"
-"DET197108020",80,"$Al Kaline called for interference for running into his own batted ball"
-"DET197108220",20,"ej,rodra101,P,hallb901,Call at 3B (Grabbed umpire) Aurelio Rodriguez ejected by 3B umpire Bill Haller"
-"DET197108220",45,"$Tommy Harper bluffed going home and drew throw from Dick McAuliffe"
-"DET197108240",63,"ej,mittg101,P,dimul901,Balls and strikes ej,rignb101,M,dimul901,Balls and strikes George Mitterwald and Twins Manager Bill Rigney ejected by HP umpire Lou DiMuro"
-"DET197108270",28,"Willie Horton hit in left eye"
-"DET197108290",48,"$Debut game for Jack Whillock"
-"DET197109090",80,"$Debut game for John Young"
-"DET197109120",6,"Duane Josephson left with unknown injury"
-"DET197109172",0,"Protest=V"
-"DET197109172",36,"$Brooks Robinson intentionally dropped the bunt trying for double play; umpires ruled one out only; Orioles manager Earl Weaver protested the game"
-"DET197109260",14,"$Ike Brown pulled his hamstring"
+"DET197104060",23,"$Debut game for Chuck Machemehl"FILENAME_TX","LINE_NUMBER_CT"
+
+"DET197104060",44,"$Debut game for Gomer Hodge"1971DET.EVA.regular.comment.csv",2
+
+"DET197105050",75,"missing play in DET197105050"1971DET.EVA.regular.comment.csv",3
+
+"DET197105070",27,"$the Tigers wound up with two runners at 3B after the throw from RF to HP"1971DET.EVA.regular.comment.csv",4
+
+"DET197105090",81,"ej,browi101,P,malog901,Balls and strikes ej,martb105,M,malog901,Balls and strikes Ike Brown and Tigers Manager Billy Martin ejected by HP umpire George Maloney"1971DET.EVA.regular.comment.csv",5
+
+"DET197106140",73,"ej,martb105,M,barnl901,Balls and strikes Tigers Manager Billy Martin ejected by HP umpire Larry Barnett"1971DET.EVA.regular.comment.csv",6
+
+"DET197106250",1,"$Debut game for Bill Gilbreth"1971DET.EVA.regular.comment.csv",7
+
+"DET197107010",79,"$Debut game for Buddy Hunter"1971DET.EVA.regular.comment.csv",8
+
+"DET197107060",69,"Gary Waslewski injured his leg"1971DET.EVA.regular.comment.csv",9
+
+"DET197107080",11,"Willie Horton left with unknown injury"1971DET.EVA.regular.comment.csv",10
+
+"DET197107252",33,"Vida Blue hit on foot"1971DET.EVA.regular.comment.csv",11
+
+"DET197108020",80,"$Al Kaline called for interference for running into his own batted ball"1971DET.EVA.regular.comment.csv",12
+
+"DET197108220",20,"ej,rodra101,P,hallb901,Call at 3B (Grabbed umpire) Aurelio Rodriguez ejected by 3B umpire Bill Haller"1971DET.EVA.regular.comment.csv",13
+
+"DET197108220",45,"$Tommy Harper bluffed going home and drew throw from Dick McAuliffe"1971DET.EVA.regular.comment.csv",14
+
+"DET197108240",63,"ej,mittg101,P,dimul901,Balls and strikes ej,rignb101,M,dimul901,Balls and strikes George Mitterwald and Twins Manager Bill Rigney ejected by HP umpire Lou DiMuro"1971DET.EVA.regular.comment.csv",15
+
+"DET197108270",28,"Willie Horton hit in left eye"1971DET.EVA.regular.comment.csv",16
+
+"DET197108290",48,"$Debut game for Jack Whillock"1971DET.EVA.regular.comment.csv",17
+
+"DET197109090",80,"$Debut game for John Young"1971DET.EVA.regular.comment.csv",18
+
+"DET197109120",6,"Duane Josephson left with unknown injury"1971DET.EVA.regular.comment.csv",19
+
+"DET197109172",0,"Protest=V"1971DET.EVA.regular.comment.csv",20
+
+"DET197109172",36,"$Brooks Robinson intentionally dropped the bunt trying for double play; umpires ruled one out only; Orioles manager Earl Weaver protested the game"1971DET.EVA.regular.comment.csv",21
+
+"DET197109260",14,"$Ike Brown pulled his hamstring"1971DET.EVA.regular.comment.csv",22
+

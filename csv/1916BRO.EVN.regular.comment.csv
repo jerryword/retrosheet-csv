@@ -1,58 +1,116 @@
-"BRO191604120",67,"Pitch got away from Miller."
-"BRO191605302",43,"Johnston hit by own batted ball."
-"BRO191605310",15,"Over the fence."
-"BRO191606012",64,"Hit by own batted ball."
-"BRO191606020",11,"Gibson walked on four pitches."
-"BRO191606020",43,"IPHR"
-"BRO191606100",102,"14th inning from NY Times."
-"BRO191606140",22,"?73/209 had S, Daily Eagle/RBS had as entered.?"
-"BRO191606140",30,"$Bounce HR: Ball lined down line, ball bounced into stands. HP ump Harrision ruled it a home run."
-"BRO191606150",31,"Used NY Times description for last two plays."
-"BRO191606170",39,"Cutshaw injured in fifth after colliding with Vaughn."
-"BRO191606190",38,"$Amidst heavy rain, a crowd ran across the outfield, delaying game."
-"BRO191606190",54,"Over the fence."
-"BRO191606190",75,"Five minute rain delay."
-"BRO191606190",80,"$Second game of DH cancelled due to rain."
-"BRO191606202",47,"$Catcher McCarty faked throw to 2nd and Luderus ran into out at home"
-"BRO191606202",77,"$HP umpire Byron delayed game to clear fans from bleachers off field, threatening to forfeit game; at end of game Dodger manager Robinson wrapped his arms around Byron to protect him and let him eave the field safely"
-"BRO191606222",60,"$Smith left with injured hand"
-"BRO191606241",62,"Myers injured while sliding."
-"BRO191606242",50,"Over the fence."
-"BRO191606261",65,"McCarty's hand injured by foul."
-"BRO191607292",17,"Chase had sore leg."
-"BRO191607312",38,"Tried to advance when pitch eluded Wingo."
-"BRO191608020",6,"80 had PB.1-2, Daily Eagle/RBS had as entered."
-"BRO191608020",99,"Top of twelfth inning to end (13) from Eagle/Enquirer/RBS."
-"BRO191608030",6,"Johnston walked on four pitches."
-"BRO191608030",30,"Wheat struck out on three pitches."
-"BRO191608030",59,"Costello grounded out on a full count."
-"BRO191608030",66,"IPHR"
-"BRO191608040",59,"Smith retired the side on 7 pitches."
-"BRO191608051",12,"$Wagner hurt his hand on the play and had to leave the game."
-"BRO191608052",9,"ej,hincb101,P,riglc901,Called third strike $Hinchman ejected by HP umpire Rigler for arguing called third strike"
-"BRO191608111",66,"Stengel held third."
-"BRO191608111",69,"Top of ninth inning from 109."
-"BRO191608122",28,"$Daubert hurt leg running to first."
-"BRO191609122",25,"Johnston dropped fly."
-"BRO191609130",51,"ej,warnh102,P,odayh901,Call at 3B $3bman Warner ejected by HP umpire O'Day for arguing Myers was out at 3rd"
-"BRO191609140",32,"Schulte singled off the wall."
-"BRO191609150",42,"$Game called for rain"
-"BRO191609162",71,"Top of tenth inning to end (12) from Enquirer/Eagle/RBS."
-"BRO191609162",92,"$Game called for darkness"
-"BRO191609190",48,"Over the fence."
-"BRO191609220",88,"Miller's first game."
-"BRO191609220",92,"Probably defensive indifference."
-"BRO191609220",96,"Probably defensive indifference."
-"BRO191609231",24,"Attempted double steal."
-"BRO191609231",62,"Coombs throw to second was late."
-"BRO191609231",72,"Miller missed ball and it bounded to Mowrey, K253 (?)."
-"BRO191609232",24,"$Zeider spiked by Pfeffer and left game"
-"BRO191609232",36,"Hit and run."
-"BRO191609232",68,"Game called by umpires due to darkness."
-"BRO191609252",31,"Attempted double steal."
-"BRO191609302",3,"$Bancroft twisted ankle, had to be helped off the field."
-"BRO191609302",9,"INF"
-"BRO191609302",21,"Byrne struck out on three pitches."
-"BRO191610030",5,"IPHR to deep left centerfield."
-"BRO191610030",29,"$Benton argued with Herzog before finally leaving."
-"BRO191610040",51,"Wheat hurt hand."
+"BRO191604120",67,"Pitch got away from Miller."FILENAME_TX","LINE_NUMBER_CT"
+
+"BRO191605302",43,"Johnston hit by own batted ball."1916BRO.EVN.regular.comment.csv",2
+
+"BRO191605310",15,"Over the fence."1916BRO.EVN.regular.comment.csv",3
+
+"BRO191606012",64,"Hit by own batted ball."1916BRO.EVN.regular.comment.csv",4
+
+"BRO191606020",11,"Gibson walked on four pitches."1916BRO.EVN.regular.comment.csv",5
+
+"BRO191606020",43,"IPHR"1916BRO.EVN.regular.comment.csv",6
+
+"BRO191606100",102,"14th inning from NY Times."1916BRO.EVN.regular.comment.csv",7
+
+"BRO191606140",22,"?73/209 had S, Daily Eagle/RBS had as entered.?"1916BRO.EVN.regular.comment.csv",8
+
+"BRO191606140",30,"$Bounce HR: Ball lined down line, ball bounced into stands. HP ump Harrision ruled it a home run."1916BRO.EVN.regular.comment.csv",9
+
+"BRO191606150",31,"Used NY Times description for last two plays."1916BRO.EVN.regular.comment.csv",10
+
+"BRO191606170",39,"Cutshaw injured in fifth after colliding with Vaughn."1916BRO.EVN.regular.comment.csv",11
+
+"BRO191606190",38,"$Amidst heavy rain, a crowd ran across the outfield, delaying game."1916BRO.EVN.regular.comment.csv",12
+
+"BRO191606190",54,"Over the fence."1916BRO.EVN.regular.comment.csv",13
+
+"BRO191606190",75,"Five minute rain delay."1916BRO.EVN.regular.comment.csv",14
+
+"BRO191606190",80,"$Second game of DH cancelled due to rain."1916BRO.EVN.regular.comment.csv",15
+
+"BRO191606202",47,"$Catcher McCarty faked throw to 2nd and Luderus ran into out at home"1916BRO.EVN.regular.comment.csv",16
+
+"BRO191606202",77,"$HP umpire Byron delayed game to clear fans from bleachers off field, threatening to forfeit game; at end of game Dodger manager Robinson wrapped his arms around Byron to protect him and let him eave the field safely"1916BRO.EVN.regular.comment.csv",17
+
+"BRO191606222",60,"$Smith left with injured hand"1916BRO.EVN.regular.comment.csv",18
+
+"BRO191606241",62,"Myers injured while sliding."1916BRO.EVN.regular.comment.csv",19
+
+"BRO191606242",50,"Over the fence."1916BRO.EVN.regular.comment.csv",20
+
+"BRO191606261",65,"McCarty's hand injured by foul."1916BRO.EVN.regular.comment.csv",21
+
+"BRO191607292",17,"Chase had sore leg."1916BRO.EVN.regular.comment.csv",22
+
+"BRO191607312",38,"Tried to advance when pitch eluded Wingo."1916BRO.EVN.regular.comment.csv",23
+
+"BRO191608020",6,"80 had PB.1-2, Daily Eagle/RBS had as entered."1916BRO.EVN.regular.comment.csv",24
+
+"BRO191608020",99,"Top of twelfth inning to end (13) from Eagle/Enquirer/RBS."1916BRO.EVN.regular.comment.csv",25
+
+"BRO191608030",6,"Johnston walked on four pitches."1916BRO.EVN.regular.comment.csv",26
+
+"BRO191608030",30,"Wheat struck out on three pitches."1916BRO.EVN.regular.comment.csv",27
+
+"BRO191608030",59,"Costello grounded out on a full count."1916BRO.EVN.regular.comment.csv",28
+
+"BRO191608030",66,"IPHR"1916BRO.EVN.regular.comment.csv",29
+
+"BRO191608040",59,"Smith retired the side on 7 pitches."1916BRO.EVN.regular.comment.csv",30
+
+"BRO191608051",12,"$Wagner hurt his hand on the play and had to leave the game."1916BRO.EVN.regular.comment.csv",31
+
+"BRO191608052",9,"ej,hincb101,P,riglc901,Called third strike $Hinchman ejected by HP umpire Rigler for arguing called third strike"1916BRO.EVN.regular.comment.csv",32
+
+"BRO191608111",66,"Stengel held third."1916BRO.EVN.regular.comment.csv",33
+
+"BRO191608111",69,"Top of ninth inning from 109."1916BRO.EVN.regular.comment.csv",34
+
+"BRO191608122",28,"$Daubert hurt leg running to first."1916BRO.EVN.regular.comment.csv",35
+
+"BRO191609122",25,"Johnston dropped fly."1916BRO.EVN.regular.comment.csv",36
+
+"BRO191609130",51,"ej,warnh102,P,odayh901,Call at 3B $3bman Warner ejected by HP umpire O'Day for arguing Myers was out at 3rd"1916BRO.EVN.regular.comment.csv",37
+
+"BRO191609140",32,"Schulte singled off the wall."1916BRO.EVN.regular.comment.csv",38
+
+"BRO191609150",42,"$Game called for rain"1916BRO.EVN.regular.comment.csv",39
+
+"BRO191609162",71,"Top of tenth inning to end (12) from Enquirer/Eagle/RBS."1916BRO.EVN.regular.comment.csv",40
+
+"BRO191609162",92,"$Game called for darkness"1916BRO.EVN.regular.comment.csv",41
+
+"BRO191609190",48,"Over the fence."1916BRO.EVN.regular.comment.csv",42
+
+"BRO191609220",88,"Miller's first game."1916BRO.EVN.regular.comment.csv",43
+
+"BRO191609220",92,"Probably defensive indifference."1916BRO.EVN.regular.comment.csv",44
+
+"BRO191609220",96,"Probably defensive indifference."1916BRO.EVN.regular.comment.csv",45
+
+"BRO191609231",24,"Attempted double steal."1916BRO.EVN.regular.comment.csv",46
+
+"BRO191609231",62,"Coombs throw to second was late."1916BRO.EVN.regular.comment.csv",47
+
+"BRO191609231",72,"Miller missed ball and it bounded to Mowrey, K253 (?)."1916BRO.EVN.regular.comment.csv",48
+
+"BRO191609232",24,"$Zeider spiked by Pfeffer and left game"1916BRO.EVN.regular.comment.csv",49
+
+"BRO191609232",36,"Hit and run."1916BRO.EVN.regular.comment.csv",50
+
+"BRO191609232",68,"Game called by umpires due to darkness."1916BRO.EVN.regular.comment.csv",51
+
+"BRO191609252",31,"Attempted double steal."1916BRO.EVN.regular.comment.csv",52
+
+"BRO191609302",3,"$Bancroft twisted ankle, had to be helped off the field."1916BRO.EVN.regular.comment.csv",53
+
+"BRO191609302",9,"INF"1916BRO.EVN.regular.comment.csv",54
+
+"BRO191609302",21,"Byrne struck out on three pitches."1916BRO.EVN.regular.comment.csv",55
+
+"BRO191610030",5,"IPHR to deep left centerfield."1916BRO.EVN.regular.comment.csv",56
+
+"BRO191610030",29,"$Benton argued with Herzog before finally leaving."1916BRO.EVN.regular.comment.csv",57
+
+"BRO191610040",51,"Wheat hurt hand."1916BRO.EVN.regular.comment.csv",58
+

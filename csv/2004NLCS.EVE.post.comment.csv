@@ -1,11 +1,10 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"SLN200410140",0,"30 minute rain delay before start of game"
-"SLN200410140",9,"umpchange,2,umplf,(None) $LF umpire Rapuano left game because of dizziness; he was treated at the stadium"
-"SLN200410140",24,"$Jeff Bagwell ran with the pitch but Carlos Beltran did not"
-"SLN200410200",33,"$Tony Womack left with back spasms"
-"SLN200410210",1,"$the first lead-off homer in a game 7 of any post-season series"
-"SLN200410140",0,"30 minute rain delay before start of game"
-"SLN200410140",9,"umpchange,2,umplf,(None) $LF umpire Rapuano left game because of dizziness; he was treated at the stadium"
-"SLN200410140",24,"$Jeff Bagwell ran with the pitch but Carlos Beltran did not"
-"SLN200410200",33,"$Tony Womack left with back spasms"
-"SLN200410210",1,"$the first lead-off homer in a game 7 of any post-season series"
+"SLN200410140",0,"30 minute rain delay before start of game"FILENAME_TX","LINE_NUMBER_CT"
+
+"SLN200410140",9,"umpchange,2,umplf,(None) $LF umpire Rapuano left game because of dizziness; he was treated at the stadium"2004NLCS.EVE.post.comment.csv",2
+
+"SLN200410140",24,"$Jeff Bagwell ran with the pitch but Carlos Beltran did not"2004NLCS.EVE.post.comment.csv",3
+
+"SLN200410200",33,"$Tony Womack left with back spasms"2004NLCS.EVE.post.comment.csv",4
+
+"SLN200410210",1,"$the first lead-off homer in a game 7 of any post-season series"2004NLCS.EVE.post.comment.csv",5
+

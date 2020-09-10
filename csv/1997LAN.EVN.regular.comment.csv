@@ -1,23 +1,22 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"LAN199704070",119,"Debut game for Joe Crawford"
-"LAN199705090",0,"Debut for umpire Jeff Nelson"
-"LAN199706060",46,"ej,clayr001,P,marsr901,Called third strike Royce Clayton ejected by HP umpire Randy Marsh"
-"LAN199706090",62,"$Greg Gagne called for interference"
-"LAN199706260",60,"IPHR"
-"LAN199707130",1,"Debut game for Denis Reyes"
-"LAN199707250",68,"Debut game for Henry Blanco"
-"LAN199707260",17,"$Kevin Stocker called for interference"
-"LAN199708150",53,"$Adam Riggs called for interference"
-"LAN199709080",72,"Debut game for Paul Konerko"
-"LAN199709100",66,"Debut game for Rick Gorecki"
-"LAN199704070",119,"Debut game for Joe Crawford"
-"LAN199705090",0,"Debut for umpire Jeff Nelson"
-"LAN199706060",46,"ej,clayr001,P,marsr901,Called third strike Royce Clayton ejected by HP umpire Randy Marsh"
-"LAN199706090",62,"$Greg Gagne called for interference"
-"LAN199706260",60,"IPHR"
-"LAN199707130",1,"Debut game for Denis Reyes"
-"LAN199707250",68,"Debut game for Henry Blanco"
-"LAN199707260",17,"$Kevin Stocker called for interference"
-"LAN199708150",53,"$Adam Riggs called for interference"
-"LAN199709080",72,"Debut game for Paul Konerko"
-"LAN199709100",66,"Debut game for Rick Gorecki"
+"LAN199704070",119,"Debut game for Joe Crawford"FILENAME_TX","LINE_NUMBER_CT"
+
+"LAN199705090",0,"Debut for umpire Jeff Nelson"1997LAN.EVN.regular.comment.csv",2
+
+"LAN199706060",46,"ej,clayr001,P,marsr901,Called third strike Royce Clayton ejected by HP umpire Randy Marsh"1997LAN.EVN.regular.comment.csv",3
+
+"LAN199706090",62,"$Greg Gagne called for interference"1997LAN.EVN.regular.comment.csv",4
+
+"LAN199706260",60,"IPHR"1997LAN.EVN.regular.comment.csv",5
+
+"LAN199707130",1,"Debut game for Denis Reyes"1997LAN.EVN.regular.comment.csv",6
+
+"LAN199707250",68,"Debut game for Henry Blanco"1997LAN.EVN.regular.comment.csv",7
+
+"LAN199707260",17,"$Kevin Stocker called for interference"1997LAN.EVN.regular.comment.csv",8
+
+"LAN199708150",53,"$Adam Riggs called for interference"1997LAN.EVN.regular.comment.csv",9
+
+"LAN199709080",72,"Debut game for Paul Konerko"1997LAN.EVN.regular.comment.csv",10
+
+"LAN199709100",66,"Debut game for Rick Gorecki"1997LAN.EVN.regular.comment.csv",11
+

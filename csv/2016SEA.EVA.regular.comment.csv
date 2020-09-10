@@ -1,127 +1,126 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"SEA201604090",8,"replay,1,aokin001,SEA,davig901,SEA03,,Y,M,SEA,C $when Nori Aoki was called out at 1B, Mariners manager Scott Servais challenged the ruling; the call was overturned by replay"
-"SEA201604090",24,"replay,3,aokin001,SEA,davig901,SEA03,,Y,M,OAK,C $when Nori Aoki was called safe at 1B, Athletics manager Bob Melvin challenged the ruling; the call was overturned by replay"
-"SEA201604100",37,"$Chris Coghlan called for interference for running in fair territory"
-"SEA201604130",19,"replay,3,deshd002,TEX,nelsj901,SEA03,,N,M,SEA,C $when Delino DeSheilds was called safe at 1B, Mariners manager Scott Servais challenged the ruling; the call was upheld by replay"
-"SEA201604130",45,"replay,6,belta001,TEX,nelsj901,SEA03,,Y,M,TEX,C $when Adrian Beltre was called out at 1B, Rangers manager Jeff Banister challenged the ruling; the call was overturned by replay"
-"SEA201604130",69,"replay,9,odorr001,TEX,nelsj901,SEA03,,N,M,TEX,C $when Rougned Odor was called out at 1B, Rangers manager Jeff Banister challenged the ruling; the call was upheld by replay"
-"SEA201604270",30,"Astros center fielder Carlos Gomez left the game due to an injured hand"
-"SEA201604270",44,"replay,5,smits002,SEA,gormb901,SEA03,F,N,U,,H $Seth Smith's fly to RF was ruled foul; crew chief Brian Gorman requested a review, which upheld the upheld the call by replay"
-"SEA201604300",20,"replay,3,escoa003,KCA,welkb901,SEA03,,Y,M,SEA,C $when Paulo Orlando was called safe at 2B, Mariners manager Scott Servais challenged the ruling; the call was overturned by replay"
-"SEA201605090",25,"Rays second baseman Logan Forsythe left the game due to an injured shoulder"
-"SEA201605130",77,"replay,8,martk001,SEA,culbf901,SEA03,,N,M,ANA,A $when Nori Aoki was called safe at 1B on a pickoff attempt, Angels manager Mike Scioscia challenged the ruling; the call was upheld by replay"
-"SEA201605140",81,"replay,9,aokin001,SEA,culbf901,SEA03,,Y,M,ANA,C $when Nori Aoki was called safe at 1B, Angels manager Mike Scioscia challenged the ruling; the call was overturned by replay"
-"SEA201605230",30,"replay,4,seagk001,SEA,scotd901,SEA03,,Y,M,OAK,C $when Kyle Seager was called safe at 1B, Athletics manager Bob Melvin challenged the ruling; the call was overturned by replay"
-"SEA201605240",18,"replay,2,aokin001,SEA,scotd901,SEA03,,Y,M,SEA,C $when Nori Aoki was called out at 1B, Mariners manager Scott Servais challenged the ruling; the call was overturned by replay"
-"SEA201605250",18,"replay,3,burnb002,OAK,scotd901,SEA03,,Y,M,SEA,A $when Billy Burns was called safe at 3B, Mariners manager Scott Servais challenged the ruling; the call was overturned by replay"
-"SEA201605250",28,"Mariners center fielder Leonys Martin left the game due to an injured leg"
-"SEA201605270",22,"$the ball stuck under the padding of the wall in foul territory down the RF line"
-"SEA201605270",23,"$Byung Ho Park's grounder hit his foot, but HP umpire Mark Wegner ruled that it missed his foot and was in play; when a throw came to HP, the run scored, but Park did not run and was tagged out"
-"SEA201605270",31,"Twins third baseman Trevor Plouffe left the game due to an injured knee"
-"SEA201605270",58,"replay,8,grosr001,MIN,wintm901,SEA03,,N,M,MIN,I $when Robbie Grossman was ruled not to have been hit by a pitch, Twins manager Paul Molitor challenged the ruling; the call was upheld by replay"
-"SEA201605280",24,"Twins catcher Kurt Suzuki left the game due to an injured head"
-"SEA201605280",86,"replay,9,gutif001,SEA,wintm901,SEA03,,N,M,SEA,A replay,9,gutif001,SEA,wintm901,SEA03,,N,M,SEA,A $when Nelson Cruz was called out at 3B and Kyle Seager was called out at 2B, Mariners manager Scott Servais challenged both rulings; the calls were upheld by replay"
-"SEA201605300",40,"replay,5,lee-d004,SEA,westj901,SEA03,,N,M,SDN,C $when Dae-Ho Lee was called safe at 2B, Padres manager Andy Green challenged the ruling; the call was upheld by replay"
-"SEA201605310",19,"replay,2,cruzn002,SEA,westj901,SEA03,,N,M,SDN,A $when Seth Smith was called safe at HP, Padres manager Andy Green challenged the ruling; the call was upheld by replay; catcher Christian Bethancourt might have tagged Smith with the glove but had the ball in his other hand"
-"SEA201606070",5,"replay,1,smits002,SEA,hirsj901,SEA03,,Y,M,CLE,A $when Seth Smith was called safe at 2B, Indians manager Terry Francona challenged the ruling; the call was overturned by replay"
-"SEA201606080",12,"replay,2,linda001,SEA,hirsj901,SEA03,,Y,M,CLE,C $when Adam Lind was called safe at 1B, Indians manager Terry Francona challenged the ruling; the call was upheld by replay"
-"SEA201606090",9,"replay,1,seagk001,SEA,hirsj901,SEA03,O,N,U,,H $Kyle Seager's fly to LF hit the top of the wall and caromed back onto the field; the ball was ruled in play but crew chief John Hirschbeck requested a review, which upheld the call"
-"SEA201606090",18,"replay,2,martk001,SEA,hirsj901,SEA03,,Y,M,CLE,A $when Ketel Marte was called safe at 2B, Indians manager Terry Francona challenged the ruling; the call was overturned by replay"
-"SEA201606100",33,"replay,4,seagk001,SEA,davig901,SEA03,,N,M,TEX,N $Kyle Seager's fly down the LF line in foul territory was caught by a fan in the front row of the seats; the play was ruled as not fan interference but Rangers manager Jeff Banister challenged the ruling; the call was upheld by replay"
-"SEA201606110",83,"replay,11,omals001,SEA,davig901,SEA03,,N,M,SEA,C $when Nori Aoki was called out at 2B, Mariners manager Scott Servais challenged the ruling; the call was upheld by replay"
-"SEA201606120",84,"$Ketel Marte's hit to RF was touched by a fan for interference"
-"SEA201606240",60,"replay,8,piscs001,SLN,davig901,SEA03,,N,M,SLN,P $when Aledmys Diaz was called out at HP, Cardinals manager Mike Matheny challenged the ruling; the call was upheld by replay"
-"SEA201606260",34,"replay,3,omals001,SEA,davig901,SEA03,,Y,M,SLN,A $when Dae-Ho Lee was called safe at 3B, Cardinals manager Mike Matheny challenged the ruling; the call was overturned by replay"
-"SEA201606260",61,"ej,servs002,M,torrc901,Checked swing Seattle Mariners Manager Scott Servais ejected by HP umpire Carlos Torres"
-"SEA201606280",31,"ej,hurdc001,M,may-b901,Balls and strikes ej,branj002,C,may-b901,Balls and strikes $Pirates Manager Clint Hurdle and Pirates Hitting Coach Jeff Branson ejected by HP umpire Ben May"
-"SEA201606280",61,"replay,7,seagk001,SEA,carlm901,SEA03,,N,M,SEA,P $when Dae-Ho Lee was called out at HP, Mariners manager Scott Servais challenged the ruling; the call was upheld by replay"
-"SEA201606290",18,"$Mariners catcher Steve Clevenger left the game after being struck on the right hand by a foul ball; he suffered a broken bone"
-"SEA201606300",41,"replay,5,lee-d004,SEA,wintm901,SEA03,,N,M,SEA,C $when Nelson Cruz was called out at 3B, Mariners manager Scott Servais challenged the ruling; the call was upheld by replay"
-"SEA201606300",58,"replay,7,lee-d004,SEA,wintm901,SEA03,,Y,U,,C $when Kyle Seager was called out at 2B, crew chief Mike Winters requested a review; the call was overturned by replay, putting a run on the board; Jonathan Schoop's foot had come off the bag before he caught the ball in the former neighborhood-play style"
-"SEA201607020",17,"replay,2,martl004,SEA,wintm901,SEA03,,Y,M,SEA,A $when Shawn O'Malley was called out at 2B, Mariners manager Scott Servais challenged the ruling; the call was overturned by replay"
-"SEA201607150",21,"replay,3,martk001,SEA,kellj901,SEA03,,Y,M,HOU,A $when Ketel Marte was called safe at 3B, Astros manager A.J. Hinch challenged the ruling; the call was overturned by replay"
-"SEA201607150",21,"Mariners shortstop Ketel Marte left the game due to an injured ankle"
-"SEA201607170",30,"replay,3,canor001,SEA,kellj901,SEA03,,Y,M,SEA,O $when Robinson Cano's ball down the LF line was called foul, Mariners manager Scott Servais challenged the ruling; the call was overturned by replay"
-"SEA201607190",62,"replay,8,lee-d004,SEA,westj901,SEA03,,N,M,SEA,C $when Dae-Ho Lee was called out at 1B, Mariners manager Scott Servais challenged the ruling; the call was upheld by replay"
-"SEA201607200",69,"replay,8,seagk001,SEA,westj901,SEA03,,Y,M,CHA,C $when Kyle Seager was called safe at 1B, White Sox manager Robin Ventura challenged the ruling; the call was overturned by replay"
-"SEA201608010",38,"$Shawn O'Malley called for interference for running in fair territory when struck by Sandy Leon's throw"
-"SEA201608050",42,"replay,5,pennc001,ANA,joycj901,SEA03,,N,M,ANA,A $when Cliff Pennington was called out at 2B, Angels manager Mike Scioscia challenged the ruling; the call was upheld by replay"
-"SEA201608060",78,"replay,9,escoy001,ANA,joycj901,SEA03,,N,M,ANA,C $when Yunel Escobar was called out at 1B, Angels manager Mike Scioscia challenged the ruling; the call was upheld by replay"
-"SEA201608100",26,"replay,4,collt002,DET,cedeg901,SEA03,,Y,M,DET,A $when Ian Kinsler was called out at 2B, Tigers manager Brad Ausmus challenged the ruling; the call was overturned by replay"
-"SEA201608190",78,"replay,8,santd002,MIL,joycj901,SEA03,,Y,M,SEA,A $when Chris Carter was called safe at 2B, Mariners manager Scott Servais challenged the ruling; the call was overturned by replay"
-"SEA201608200",18,"$Jonathan Villar called out at 2B on appeal for not retouching 2B on hisway back to 1B"
-"SEA201609020",45,"replay,5,petig001,ANA,vanol901,SEA03,,Y,M,SEA,A $when Gregorio Petit was called safe at 2B, Mariners manager Scott Servais challenged the ruling; the call was overturned by replay"
-"SEA201609030",1,"Angels third baseman Yunel Escobar left the game due to an injured hand"
-"SEA201609040",13,"Angels pitcher Matt Shoemaker was struck on the head by a line drive"
-"SEA201609040",21,"$Ketel Marte's fly to LF bounced into foul territory and was caught by a fan in the seats for interference"
-"SEA201609050",65,"replay,6,lee-d004,SEA,scotd901,SEA03,,N,M,TEX,A $when Nelson Cruz was called safe at HP, Rangers manager Jeff Banister challenged the ruling; the call was upheld by replay"
-"SEA201609080",21,"replay,3,belta001,TEX,scotd901,SEA03,,N,M,TEX,P $when Ian Desmond was called out at HP, Rangers manager Jeff Banister challenged the ruling; the call was upheld by replay, saying the catcher did not block HP without the ball"
-"SEA201609160",32,"$originally scored as E5, changed to single on 09-21-2016"
-"SEA201609160",73,"replay,9,hereg002,SEA,marqa901,SEA03,,N,M,SEA,O $when Guillermo Heredia ball down the RF line was called foul, Mariners manager Scott Servais challenged the ruling; the call was upheld by replay"
-"SEA201609190",52,"ej,donaj001,P,conrc901,Called third strike Blue Jays third baseman Josh Donaldson ejected by HP umpire Chris Conroy"
-"SEA201609190",71,"replay,9,travd001,TOR,mealj901,SEA03,,Y,M,SEA,A $when Kevin Pillar was called safe at 2B, Mariners manager Scott Servais challenged the ruling; the call was overturned by replay"
-"SEA201609200",69,"replay,7,canor001,SEA,mealj901,SEA03,,Y,M,SEA,A $when Guillermo Heredia was called out at 2B, Mariners manager Scott Servais challenged the ruling; the call was overturned by replay"
-"SEA201609300",26,"replay,3,cruzn002,SEA,joycj901,SEA03,O,N,U,,H $Nelson Cruz' fly to CF struck a support beam behind the wall and caromed back onto the field; the ball was ruled a home run; crew chief Jim Joyce requested a review, which upheld the call"
-"SEA201604090",8,"replay,1,aokin001,SEA,davig901,SEA03,,Y,M,SEA,C $when Nori Aoki was called out at 1B, Mariners manager Scott Servais challenged the ruling; the call was overturned by replay"
-"SEA201604090",24,"replay,3,aokin001,SEA,davig901,SEA03,,Y,M,OAK,C $when Nori Aoki was called safe at 1B, Athletics manager Bob Melvin challenged the ruling; the call was overturned by replay"
-"SEA201604100",37,"$Chris Coghlan called for interference for running in fair territory"
-"SEA201604130",19,"replay,3,deshd002,TEX,nelsj901,SEA03,,N,M,SEA,C $when Delino DeSheilds was called safe at 1B, Mariners manager Scott Servais challenged the ruling; the call was upheld by replay"
-"SEA201604130",45,"replay,6,belta001,TEX,nelsj901,SEA03,,Y,M,TEX,C $when Adrian Beltre was called out at 1B, Rangers manager Jeff Banister challenged the ruling; the call was overturned by replay"
-"SEA201604130",69,"replay,9,odorr001,TEX,nelsj901,SEA03,,N,M,TEX,C $when Rougned Odor was called out at 1B, Rangers manager Jeff Banister challenged the ruling; the call was upheld by replay"
-"SEA201604270",30,"Astros center fielder Carlos Gomez left the game due to an injured hand"
-"SEA201604270",44,"replay,5,smits002,SEA,gormb901,SEA03,F,N,U,,H $Seth Smith's fly to RF was ruled foul; crew chief Brian Gorman requested a review, which upheld the upheld the call by replay"
-"SEA201604300",20,"replay,3,escoa003,KCA,welkb901,SEA03,,Y,M,SEA,C $when Paulo Orlando was called safe at 2B, Mariners manager Scott Servais challenged the ruling; the call was overturned by replay"
-"SEA201605090",25,"Rays second baseman Logan Forsythe left the game due to an injured shoulder"
-"SEA201605130",77,"replay,8,martk001,SEA,culbf901,SEA03,,N,M,ANA,A $when Nori Aoki was called safe at 1B on a pickoff attempt, Angels manager Mike Scioscia challenged the ruling; the call was upheld by replay"
-"SEA201605140",81,"replay,9,aokin001,SEA,culbf901,SEA03,,Y,M,ANA,C $when Nori Aoki was called safe at 1B, Angels manager Mike Scioscia challenged the ruling; the call was overturned by replay"
-"SEA201605230",30,"replay,4,seagk001,SEA,scotd901,SEA03,,Y,M,OAK,C $when Kyle Seager was called safe at 1B, Athletics manager Bob Melvin challenged the ruling; the call was overturned by replay"
-"SEA201605240",18,"replay,2,aokin001,SEA,scotd901,SEA03,,Y,M,SEA,C $when Nori Aoki was called out at 1B, Mariners manager Scott Servais challenged the ruling; the call was overturned by replay"
-"SEA201605250",18,"replay,3,burnb002,OAK,scotd901,SEA03,,Y,M,SEA,A $when Billy Burns was called safe at 3B, Mariners manager Scott Servais challenged the ruling; the call was overturned by replay"
-"SEA201605250",28,"Mariners center fielder Leonys Martin left the game due to an injured leg"
-"SEA201605270",22,"$the ball stuck under the padding of the wall in foul territory down the RF line"
-"SEA201605270",23,"$Byung Ho Park's grounder hit his foot, but HP umpire Mark Wegner ruled that it missed his foot and was in play; when a throw came to HP, the run scored, but Park did not run and was tagged out"
-"SEA201605270",31,"Twins third baseman Trevor Plouffe left the game due to an injured knee"
-"SEA201605270",58,"replay,8,grosr001,MIN,wintm901,SEA03,,N,M,MIN,I $when Robbie Grossman was ruled not to have been hit by a pitch, Twins manager Paul Molitor challenged the ruling; the call was upheld by replay"
-"SEA201605280",24,"Twins catcher Kurt Suzuki left the game due to an injured head"
-"SEA201605280",86,"replay,9,gutif001,SEA,wintm901,SEA03,,N,M,SEA,A replay,9,gutif001,SEA,wintm901,SEA03,,N,M,SEA,A $when Nelson Cruz was called out at 3B and Kyle Seager was called out at 2B, Mariners manager Scott Servais challenged both rulings; the calls were upheld by replay"
-"SEA201605300",40,"replay,5,lee-d004,SEA,westj901,SEA03,,N,M,SDN,C $when Dae-Ho Lee was called safe at 2B, Padres manager Andy Green challenged the ruling; the call was upheld by replay"
-"SEA201605310",19,"replay,2,cruzn002,SEA,westj901,SEA03,,N,M,SDN,A $when Seth Smith was called safe at HP, Padres manager Andy Green challenged the ruling; the call was upheld by replay; catcher Christian Bethancourt might have tagged Smith with the glove but had the ball in his other hand"
-"SEA201606070",5,"replay,1,smits002,SEA,hirsj901,SEA03,,Y,M,CLE,A $when Seth Smith was called safe at 2B, Indians manager Terry Francona challenged the ruling; the call was overturned by replay"
-"SEA201606080",12,"replay,2,linda001,SEA,hirsj901,SEA03,,Y,M,CLE,C $when Adam Lind was called safe at 1B, Indians manager Terry Francona challenged the ruling; the call was upheld by replay"
-"SEA201606090",9,"replay,1,seagk001,SEA,hirsj901,SEA03,O,N,U,,H $Kyle Seager's fly to LF hit the top of the wall and caromed back onto the field; the ball was ruled in play but crew chief John Hirschbeck requested a review, which upheld the call"
-"SEA201606090",18,"replay,2,martk001,SEA,hirsj901,SEA03,,Y,M,CLE,A $when Ketel Marte was called safe at 2B, Indians manager Terry Francona challenged the ruling; the call was overturned by replay"
-"SEA201606100",33,"replay,4,seagk001,SEA,davig901,SEA03,,N,M,TEX,N $Kyle Seager's fly down the LF line in foul territory was caught by a fan in the front row of the seats; the play was ruled as not fan interference but Rangers manager Jeff Banister challenged the ruling; the call was upheld by replay"
-"SEA201606110",83,"replay,11,omals001,SEA,davig901,SEA03,,N,M,SEA,C $when Nori Aoki was called out at 2B, Mariners manager Scott Servais challenged the ruling; the call was upheld by replay"
-"SEA201606120",84,"$Ketel Marte's hit to RF was touched by a fan for interference"
-"SEA201606240",60,"replay,8,piscs001,SLN,davig901,SEA03,,N,M,SLN,P $when Aledmys Diaz was called out at HP, Cardinals manager Mike Matheny challenged the ruling; the call was upheld by replay"
-"SEA201606260",34,"replay,3,omals001,SEA,davig901,SEA03,,Y,M,SLN,A $when Dae-Ho Lee was called safe at 3B, Cardinals manager Mike Matheny challenged the ruling; the call was overturned by replay"
-"SEA201606260",61,"ej,servs002,M,torrc901,Checked swing Seattle Mariners Manager Scott Servais ejected by HP umpire Carlos Torres"
-"SEA201606280",31,"ej,hurdc001,M,may-b901,Balls and strikes ej,branj002,C,may-b901,Balls and strikes $Pirates Manager Clint Hurdle and Pirates Hitting Coach Jeff Branson ejected by HP umpire Ben May"
-"SEA201606280",61,"replay,7,seagk001,SEA,carlm901,SEA03,,N,M,SEA,P $when Dae-Ho Lee was called out at HP, Mariners manager Scott Servais challenged the ruling; the call was upheld by replay"
-"SEA201606290",18,"$Mariners catcher Steve Clevenger left the game after being struck on the right hand by a foul ball; he suffered a broken bone"
-"SEA201606300",41,"replay,5,lee-d004,SEA,wintm901,SEA03,,N,M,SEA,C $when Nelson Cruz was called out at 3B, Mariners manager Scott Servais challenged the ruling; the call was upheld by replay"
-"SEA201606300",58,"replay,7,lee-d004,SEA,wintm901,SEA03,,Y,U,,C $when Kyle Seager was called out at 2B, crew chief Mike Winters requested a review; the call was overturned by replay, putting a run on the board; Jonathan Schoop's foot had come off the bag before he caught the ball in the former neighborhood-play style"
-"SEA201607020",17,"replay,2,martl004,SEA,wintm901,SEA03,,Y,M,SEA,A $when Shawn O'Malley was called out at 2B, Mariners manager Scott Servais challenged the ruling; the call was overturned by replay"
-"SEA201607150",21,"replay,3,martk001,SEA,kellj901,SEA03,,Y,M,HOU,A $when Ketel Marte was called safe at 3B, Astros manager A.J. Hinch challenged the ruling; the call was overturned by replay"
-"SEA201607150",21,"Mariners shortstop Ketel Marte left the game due to an injured ankle"
-"SEA201607170",30,"replay,3,canor001,SEA,kellj901,SEA03,,Y,M,SEA,O $when Robinson Cano's ball down the LF line was called foul, Mariners manager Scott Servais challenged the ruling; the call was overturned by replay"
-"SEA201607190",62,"replay,8,lee-d004,SEA,westj901,SEA03,,N,M,SEA,C $when Dae-Ho Lee was called out at 1B, Mariners manager Scott Servais challenged the ruling; the call was upheld by replay"
-"SEA201607200",69,"replay,8,seagk001,SEA,westj901,SEA03,,Y,M,CHA,C $when Kyle Seager was called safe at 1B, White Sox manager Robin Ventura challenged the ruling; the call was overturned by replay"
-"SEA201608010",38,"$Shawn O'Malley called for interference for running in fair territory when struck by Sandy Leon's throw"
-"SEA201608050",42,"replay,5,pennc001,ANA,joycj901,SEA03,,N,M,ANA,A $when Cliff Pennington was called out at 2B, Angels manager Mike Scioscia challenged the ruling; the call was upheld by replay"
-"SEA201608060",78,"replay,9,escoy001,ANA,joycj901,SEA03,,N,M,ANA,C $when Yunel Escobar was called out at 1B, Angels manager Mike Scioscia challenged the ruling; the call was upheld by replay"
-"SEA201608100",26,"replay,4,collt002,DET,cedeg901,SEA03,,Y,M,DET,A $when Ian Kinsler was called out at 2B, Tigers manager Brad Ausmus challenged the ruling; the call was overturned by replay"
-"SEA201608190",78,"replay,8,santd002,MIL,joycj901,SEA03,,Y,M,SEA,A $when Chris Carter was called safe at 2B, Mariners manager Scott Servais challenged the ruling; the call was overturned by replay"
-"SEA201608200",18,"$Jonathan Villar called out at 2B on appeal for not retouching 2B on hisway back to 1B"
-"SEA201609020",45,"replay,5,petig001,ANA,vanol901,SEA03,,Y,M,SEA,A $when Gregorio Petit was called safe at 2B, Mariners manager Scott Servais challenged the ruling; the call was overturned by replay"
-"SEA201609030",1,"Angels third baseman Yunel Escobar left the game due to an injured hand"
-"SEA201609040",13,"Angels pitcher Matt Shoemaker was struck on the head by a line drive"
-"SEA201609040",21,"$Ketel Marte's fly to LF bounced into foul territory and was caught by a fan in the seats for interference"
-"SEA201609050",65,"replay,6,lee-d004,SEA,scotd901,SEA03,,N,M,TEX,A $when Nelson Cruz was called safe at HP, Rangers manager Jeff Banister challenged the ruling; the call was upheld by replay"
-"SEA201609080",21,"replay,3,belta001,TEX,scotd901,SEA03,,N,M,TEX,P $when Ian Desmond was called out at HP, Rangers manager Jeff Banister challenged the ruling; the call was upheld by replay, saying the catcher did not block HP without the ball"
-"SEA201609160",32,"$originally scored as E5, changed to single on 09-21-2016"
-"SEA201609160",73,"replay,9,hereg002,SEA,marqa901,SEA03,,N,M,SEA,O $when Guillermo Heredia ball down the RF line was called foul, Mariners manager Scott Servais challenged the ruling; the call was upheld by replay"
-"SEA201609190",52,"ej,donaj001,P,conrc901,Called third strike Blue Jays third baseman Josh Donaldson ejected by HP umpire Chris Conroy"
-"SEA201609190",71,"replay,9,travd001,TOR,mealj901,SEA03,,Y,M,SEA,A $when Kevin Pillar was called safe at 2B, Mariners manager Scott Servais challenged the ruling; the call was overturned by replay"
-"SEA201609200",69,"replay,7,canor001,SEA,mealj901,SEA03,,Y,M,SEA,A $when Guillermo Heredia was called out at 2B, Mariners manager Scott Servais challenged the ruling; the call was overturned by replay"
-"SEA201609300",26,"replay,3,cruzn002,SEA,joycj901,SEA03,O,N,U,,H $Nelson Cruz' fly to CF struck a support beam behind the wall and caromed back onto the field; the ball was ruled a home run; crew chief Jim Joyce requested a review, which upheld the call"
+"SEA201604090",8,"replay,1,aokin001,SEA,davig901,SEA03,,Y,M,SEA,C $when Nori Aoki was called out at 1B, Mariners manager Scott Servais challenged the ruling; the call was overturned by replay"FILENAME_TX","LINE_NUMBER_CT"
+
+"SEA201604090",24,"replay,3,aokin001,SEA,davig901,SEA03,,Y,M,OAK,C $when Nori Aoki was called safe at 1B, Athletics manager Bob Melvin challenged the ruling; the call was overturned by replay"2016SEA.EVA.regular.comment.csv",2
+
+"SEA201604100",37,"$Chris Coghlan called for interference for running in fair territory"2016SEA.EVA.regular.comment.csv",3
+
+"SEA201604130",19,"replay,3,deshd002,TEX,nelsj901,SEA03,,N,M,SEA,C $when Delino DeSheilds was called safe at 1B, Mariners manager Scott Servais challenged the ruling; the call was upheld by replay"2016SEA.EVA.regular.comment.csv",4
+
+"SEA201604130",45,"replay,6,belta001,TEX,nelsj901,SEA03,,Y,M,TEX,C $when Adrian Beltre was called out at 1B, Rangers manager Jeff Banister challenged the ruling; the call was overturned by replay"2016SEA.EVA.regular.comment.csv",5
+
+"SEA201604130",69,"replay,9,odorr001,TEX,nelsj901,SEA03,,N,M,TEX,C $when Rougned Odor was called out at 1B, Rangers manager Jeff Banister challenged the ruling; the call was upheld by replay"2016SEA.EVA.regular.comment.csv",6
+
+"SEA201604270",30,"Astros center fielder Carlos Gomez left the game due to an injured hand"2016SEA.EVA.regular.comment.csv",7
+
+"SEA201604270",44,"replay,5,smits002,SEA,gormb901,SEA03,F,N,U,,H $Seth Smith's fly to RF was ruled foul; crew chief Brian Gorman requested a review, which upheld the upheld the call by replay"2016SEA.EVA.regular.comment.csv",8
+
+"SEA201604300",20,"replay,3,escoa003,KCA,welkb901,SEA03,,Y,M,SEA,C $when Paulo Orlando was called safe at 2B, Mariners manager Scott Servais challenged the ruling; the call was overturned by replay"2016SEA.EVA.regular.comment.csv",9
+
+"SEA201605090",25,"Rays second baseman Logan Forsythe left the game due to an injured shoulder"2016SEA.EVA.regular.comment.csv",10
+
+"SEA201605130",77,"replay,8,martk001,SEA,culbf901,SEA03,,N,M,ANA,A $when Nori Aoki was called safe at 1B on a pickoff attempt, Angels manager Mike Scioscia challenged the ruling; the call was upheld by replay"2016SEA.EVA.regular.comment.csv",11
+
+"SEA201605140",81,"replay,9,aokin001,SEA,culbf901,SEA03,,Y,M,ANA,C $when Nori Aoki was called safe at 1B, Angels manager Mike Scioscia challenged the ruling; the call was overturned by replay"2016SEA.EVA.regular.comment.csv",12
+
+"SEA201605230",30,"replay,4,seagk001,SEA,scotd901,SEA03,,Y,M,OAK,C $when Kyle Seager was called safe at 1B, Athletics manager Bob Melvin challenged the ruling; the call was overturned by replay"2016SEA.EVA.regular.comment.csv",13
+
+"SEA201605240",18,"replay,2,aokin001,SEA,scotd901,SEA03,,Y,M,SEA,C $when Nori Aoki was called out at 1B, Mariners manager Scott Servais challenged the ruling; the call was overturned by replay"2016SEA.EVA.regular.comment.csv",14
+
+"SEA201605250",18,"replay,3,burnb002,OAK,scotd901,SEA03,,Y,M,SEA,A $when Billy Burns was called safe at 3B, Mariners manager Scott Servais challenged the ruling; the call was overturned by replay"2016SEA.EVA.regular.comment.csv",15
+
+"SEA201605250",28,"Mariners center fielder Leonys Martin left the game due to an injured leg"2016SEA.EVA.regular.comment.csv",16
+
+"SEA201605270",22,"$the ball stuck under the padding of the wall in foul territory down the RF line"2016SEA.EVA.regular.comment.csv",17
+
+"SEA201605270",23,"$Byung Ho Park's grounder hit his foot, but HP umpire Mark Wegner ruled that it missed his foot and was in play; when a throw came to HP, the run scored, but Park did not run and was tagged out"2016SEA.EVA.regular.comment.csv",18
+
+"SEA201605270",31,"Twins third baseman Trevor Plouffe left the game due to an injured knee"2016SEA.EVA.regular.comment.csv",19
+
+"SEA201605270",58,"replay,8,grosr001,MIN,wintm901,SEA03,,N,M,MIN,I $when Robbie Grossman was ruled not to have been hit by a pitch, Twins manager Paul Molitor challenged the ruling; the call was upheld by replay"2016SEA.EVA.regular.comment.csv",20
+
+"SEA201605280",24,"Twins catcher Kurt Suzuki left the game due to an injured head"2016SEA.EVA.regular.comment.csv",21
+
+"SEA201605280",86,"replay,9,gutif001,SEA,wintm901,SEA03,,N,M,SEA,A replay,9,gutif001,SEA,wintm901,SEA03,,N,M,SEA,A $when Nelson Cruz was called out at 3B and Kyle Seager was called out at 2B, Mariners manager Scott Servais challenged both rulings; the calls were upheld by replay"2016SEA.EVA.regular.comment.csv",22
+
+"SEA201605300",40,"replay,5,lee-d004,SEA,westj901,SEA03,,N,M,SDN,C $when Dae-Ho Lee was called safe at 2B, Padres manager Andy Green challenged the ruling; the call was upheld by replay"2016SEA.EVA.regular.comment.csv",23
+
+"SEA201605310",19,"replay,2,cruzn002,SEA,westj901,SEA03,,N,M,SDN,A $when Seth Smith was called safe at HP, Padres manager Andy Green challenged the ruling; the call was upheld by replay; catcher Christian Bethancourt might have tagged Smith with the glove but had the ball in his other hand"2016SEA.EVA.regular.comment.csv",24
+
+"SEA201606070",5,"replay,1,smits002,SEA,hirsj901,SEA03,,Y,M,CLE,A $when Seth Smith was called safe at 2B, Indians manager Terry Francona challenged the ruling; the call was overturned by replay"2016SEA.EVA.regular.comment.csv",25
+
+"SEA201606080",12,"replay,2,linda001,SEA,hirsj901,SEA03,,Y,M,CLE,C $when Adam Lind was called safe at 1B, Indians manager Terry Francona challenged the ruling; the call was upheld by replay"2016SEA.EVA.regular.comment.csv",26
+
+"SEA201606090",9,"replay,1,seagk001,SEA,hirsj901,SEA03,O,N,U,,H $Kyle Seager's fly to LF hit the top of the wall and caromed back onto the field; the ball was ruled in play but crew chief John Hirschbeck requested a review, which upheld the call"2016SEA.EVA.regular.comment.csv",27
+
+"SEA201606090",18,"replay,2,martk001,SEA,hirsj901,SEA03,,Y,M,CLE,A $when Ketel Marte was called safe at 2B, Indians manager Terry Francona challenged the ruling; the call was overturned by replay"2016SEA.EVA.regular.comment.csv",28
+
+"SEA201606100",33,"replay,4,seagk001,SEA,davig901,SEA03,,N,M,TEX,N $Kyle Seager's fly down the LF line in foul territory was caught by a fan in the front row of the seats; the play was ruled as not fan interference but Rangers manager Jeff Banister challenged the ruling; the call was upheld by replay"2016SEA.EVA.regular.comment.csv",29
+
+"SEA201606110",83,"replay,11,omals001,SEA,davig901,SEA03,,N,M,SEA,C $when Nori Aoki was called out at 2B, Mariners manager Scott Servais challenged the ruling; the call was upheld by replay"2016SEA.EVA.regular.comment.csv",30
+
+"SEA201606120",84,"$Ketel Marte's hit to RF was touched by a fan for interference"2016SEA.EVA.regular.comment.csv",31
+
+"SEA201606240",60,"replay,8,piscs001,SLN,davig901,SEA03,,N,M,SLN,P $when Aledmys Diaz was called out at HP, Cardinals manager Mike Matheny challenged the ruling; the call was upheld by replay"2016SEA.EVA.regular.comment.csv",32
+
+"SEA201606260",34,"replay,3,omals001,SEA,davig901,SEA03,,Y,M,SLN,A $when Dae-Ho Lee was called safe at 3B, Cardinals manager Mike Matheny challenged the ruling; the call was overturned by replay"2016SEA.EVA.regular.comment.csv",33
+
+"SEA201606260",61,"ej,servs002,M,torrc901,Checked swing Seattle Mariners Manager Scott Servais ejected by HP umpire Carlos Torres"2016SEA.EVA.regular.comment.csv",34
+
+"SEA201606280",31,"ej,hurdc001,M,may-b901,Balls and strikes ej,branj002,C,may-b901,Balls and strikes $Pirates Manager Clint Hurdle and Pirates Hitting Coach Jeff Branson ejected by HP umpire Ben May"2016SEA.EVA.regular.comment.csv",35
+
+"SEA201606280",61,"replay,7,seagk001,SEA,carlm901,SEA03,,N,M,SEA,P $when Dae-Ho Lee was called out at HP, Mariners manager Scott Servais challenged the ruling; the call was upheld by replay"2016SEA.EVA.regular.comment.csv",36
+
+"SEA201606290",18,"$Mariners catcher Steve Clevenger left the game after being struck on the right hand by a foul ball; he suffered a broken bone"2016SEA.EVA.regular.comment.csv",37
+
+"SEA201606300",41,"replay,5,lee-d004,SEA,wintm901,SEA03,,N,M,SEA,C $when Nelson Cruz was called out at 3B, Mariners manager Scott Servais challenged the ruling; the call was upheld by replay"2016SEA.EVA.regular.comment.csv",38
+
+"SEA201606300",58,"replay,7,lee-d004,SEA,wintm901,SEA03,,Y,U,,C $when Kyle Seager was called out at 2B, crew chief Mike Winters requested a review; the call was overturned by replay, putting a run on the board; Jonathan Schoop's foot had come off the bag before he caught the ball in the former neighborhood-play style"2016SEA.EVA.regular.comment.csv",39
+
+"SEA201607020",17,"replay,2,martl004,SEA,wintm901,SEA03,,Y,M,SEA,A $when Shawn O'Malley was called out at 2B, Mariners manager Scott Servais challenged the ruling; the call was overturned by replay"2016SEA.EVA.regular.comment.csv",40
+
+"SEA201607150",21,"replay,3,martk001,SEA,kellj901,SEA03,,Y,M,HOU,A $when Ketel Marte was called safe at 3B, Astros manager A.J. Hinch challenged the ruling; the call was overturned by replay"2016SEA.EVA.regular.comment.csv",41
+
+"SEA201607150",21,"Mariners shortstop Ketel Marte left the game due to an injured ankle"2016SEA.EVA.regular.comment.csv",42
+
+"SEA201607170",30,"replay,3,canor001,SEA,kellj901,SEA03,,Y,M,SEA,O $when Robinson Cano's ball down the LF line was called foul, Mariners manager Scott Servais challenged the ruling; the call was overturned by replay"2016SEA.EVA.regular.comment.csv",43
+
+"SEA201607190",62,"replay,8,lee-d004,SEA,westj901,SEA03,,N,M,SEA,C $when Dae-Ho Lee was called out at 1B, Mariners manager Scott Servais challenged the ruling; the call was upheld by replay"2016SEA.EVA.regular.comment.csv",44
+
+"SEA201607200",69,"replay,8,seagk001,SEA,westj901,SEA03,,Y,M,CHA,C $when Kyle Seager was called safe at 1B, White Sox manager Robin Ventura challenged the ruling; the call was overturned by replay"2016SEA.EVA.regular.comment.csv",45
+
+"SEA201608010",38,"$Shawn O'Malley called for interference for running in fair territory when struck by Sandy Leon's throw"2016SEA.EVA.regular.comment.csv",46
+
+"SEA201608050",42,"replay,5,pennc001,ANA,joycj901,SEA03,,N,M,ANA,A $when Cliff Pennington was called out at 2B, Angels manager Mike Scioscia challenged the ruling; the call was upheld by replay"2016SEA.EVA.regular.comment.csv",47
+
+"SEA201608060",78,"replay,9,escoy001,ANA,joycj901,SEA03,,N,M,ANA,C $when Yunel Escobar was called out at 1B, Angels manager Mike Scioscia challenged the ruling; the call was upheld by replay"2016SEA.EVA.regular.comment.csv",48
+
+"SEA201608100",26,"replay,4,collt002,DET,cedeg901,SEA03,,Y,M,DET,A $when Ian Kinsler was called out at 2B, Tigers manager Brad Ausmus challenged the ruling; the call was overturned by replay"2016SEA.EVA.regular.comment.csv",49
+
+"SEA201608190",78,"replay,8,santd002,MIL,joycj901,SEA03,,Y,M,SEA,A $when Chris Carter was called safe at 2B, Mariners manager Scott Servais challenged the ruling; the call was overturned by replay"2016SEA.EVA.regular.comment.csv",50
+
+"SEA201608200",18,"$Jonathan Villar called out at 2B on appeal for not retouching 2B on hisway back to 1B"2016SEA.EVA.regular.comment.csv",51
+
+"SEA201609020",45,"replay,5,petig001,ANA,vanol901,SEA03,,Y,M,SEA,A $when Gregorio Petit was called safe at 2B, Mariners manager Scott Servais challenged the ruling; the call was overturned by replay"2016SEA.EVA.regular.comment.csv",52
+
+"SEA201609030",1,"Angels third baseman Yunel Escobar left the game due to an injured hand"2016SEA.EVA.regular.comment.csv",53
+
+"SEA201609040",13,"Angels pitcher Matt Shoemaker was struck on the head by a line drive"2016SEA.EVA.regular.comment.csv",54
+
+"SEA201609040",21,"$Ketel Marte's fly to LF bounced into foul territory and was caught by a fan in the seats for interference"2016SEA.EVA.regular.comment.csv",55
+
+"SEA201609050",65,"replay,6,lee-d004,SEA,scotd901,SEA03,,N,M,TEX,A $when Nelson Cruz was called safe at HP, Rangers manager Jeff Banister challenged the ruling; the call was upheld by replay"2016SEA.EVA.regular.comment.csv",56
+
+"SEA201609080",21,"replay,3,belta001,TEX,scotd901,SEA03,,N,M,TEX,P $when Ian Desmond was called out at HP, Rangers manager Jeff Banister challenged the ruling; the call was upheld by replay, saying the catcher did not block HP without the ball"2016SEA.EVA.regular.comment.csv",57
+
+"SEA201609160",32,"$originally scored as E5, changed to single on 09-21-2016"2016SEA.EVA.regular.comment.csv",58
+
+"SEA201609160",73,"replay,9,hereg002,SEA,marqa901,SEA03,,N,M,SEA,O $when Guillermo Heredia ball down the RF line was called foul, Mariners manager Scott Servais challenged the ruling; the call was upheld by replay"2016SEA.EVA.regular.comment.csv",59
+
+"SEA201609190",52,"ej,donaj001,P,conrc901,Called third strike Blue Jays third baseman Josh Donaldson ejected by HP umpire Chris Conroy"2016SEA.EVA.regular.comment.csv",60
+
+"SEA201609190",71,"replay,9,travd001,TOR,mealj901,SEA03,,Y,M,SEA,A $when Kevin Pillar was called safe at 2B, Mariners manager Scott Servais challenged the ruling; the call was overturned by replay"2016SEA.EVA.regular.comment.csv",61
+
+"SEA201609200",69,"replay,7,canor001,SEA,mealj901,SEA03,,Y,M,SEA,A $when Guillermo Heredia was called out at 2B, Mariners manager Scott Servais challenged the ruling; the call was overturned by replay"2016SEA.EVA.regular.comment.csv",62
+
+"SEA201609300",26,"replay,3,cruzn002,SEA,joycj901,SEA03,O,N,U,,H $Nelson Cruz' fly to CF struck a support beam behind the wall and caromed back onto the field; the ball was ruled a home run; crew chief Jim Joyce requested a review, which upheld the call"2016SEA.EVA.regular.comment.csv",63
+

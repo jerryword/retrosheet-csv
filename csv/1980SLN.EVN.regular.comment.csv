@@ -1,53 +1,52 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"SLN198004110",21,"$Garry Templeton called for interference"
-"SLN198004290",40,"$Ivan DeJesus  called for interference"
-"SLN198004300",56,"ej,boyek001,P,froeb901,Arguing Interference call $Pete Vuckovich called for interference as Tony Scott tried to steal 2B; Cardinal manager Ken Boyer ejected by HP umpire Bruce Froemming for arguing call"
-"SLN198005020",11,"$Bob Forsch spiked in heel"
-"SLN198005050",52,"34 minute rain delay"
-"SLN198005060",75,"$Pedro Borbon missed 2B on apparent single by Garry Templeton"
-"SLN198005260",6,"$Steve Henderson rounded 2B too far"
-"SLN198005270",5,"Debut game for Leon Durham"
-"SLN198005310",53,"$Dane Iorg and Tony Scott collided"
-"SLN198006130",50,"ej,concd001,P,mcshj901,Called third strike Dave Concepcion ejected by HP umpire John McSherry"
-"SLN198006140",1,"Debut game for Joe Price"
-"SLN198007032",58,"$Garry Templeton caught Bake McBride with the hidden ball trick"
-"SLN198007190",44,"ej,nortb101,P,tatat901,Interference call Bill North ejected by HP umpire Terry Tata after being called for interference"
-"SLN198007230",47,"$Garry Templeton broke left thumb sometime during 4th or 5th"
-"SLN198007230",71,"Debut game for Tito Landrum"
-"SLN198008110",72,"$Tom Hutton's only pitching appearance"
-"SLN198008140",43,"missing play in SLN198008140 DWS: fielding credit invented"
-"SLN198008160",31,"$Mike Krukow hit on forehead"
-"SLN198008170",1,"$Tony Scott injured right shoulder on double"
-"SLN198008270",11,"Debut game for John Martin"
-"SLN198009010",0,"1:33 rain delay before start of game"
-"SLN198009020",42,"Debut game for Eddie Milner"
-"SLN198009020",67,"Debut game for Geoff Combe"
-"SLN198009090",24,"Steve Swisher injured at HP in attempted steal"
-"SLN198009090",62,"$Len Randle called for obstruction"
-"SLN198010050",60,"$Keith Hernandez called for interference"
-"SLN198004110",21,"$Garry Templeton called for interference"
-"SLN198004290",40,"$Ivan DeJesus  called for interference"
-"SLN198004300",56,"ej,boyek001,P,froeb901,Arguing Interference call $Pete Vuckovich called for interference as Tony Scott tried to steal 2B; Cardinal manager Ken Boyer ejected by HP umpire Bruce Froemming for arguing call"
-"SLN198005020",11,"$Bob Forsch spiked in heel"
-"SLN198005050",52,"34 minute rain delay"
-"SLN198005060",75,"$Pedro Borbon missed 2B on apparent single by Garry Templeton"
-"SLN198005260",6,"$Steve Henderson rounded 2B too far"
-"SLN198005270",5,"Debut game for Leon Durham"
-"SLN198005310",53,"$Dane Iorg and Tony Scott collided"
-"SLN198006130",50,"ej,concd001,P,mcshj901,Called third strike Dave Concepcion ejected by HP umpire John McSherry"
-"SLN198006140",1,"Debut game for Joe Price"
-"SLN198007032",58,"$Garry Templeton caught Bake McBride with the hidden ball trick"
-"SLN198007190",44,"ej,nortb101,P,tatat901,Interference call Bill North ejected by HP umpire Terry Tata after being called for interference"
-"SLN198007230",47,"$Garry Templeton broke left thumb sometime during 4th or 5th"
-"SLN198007230",71,"Debut game for Tito Landrum"
-"SLN198008110",72,"$Tom Hutton's only pitching appearance"
-"SLN198008140",43,"missing play in SLN198008140 DWS: fielding credit invented"
-"SLN198008160",31,"$Mike Krukow hit on forehead"
-"SLN198008170",1,"$Tony Scott injured right shoulder on double"
-"SLN198008270",11,"Debut game for John Martin"
-"SLN198009010",0,"1:33 rain delay before start of game"
-"SLN198009020",42,"Debut game for Eddie Milner"
-"SLN198009020",67,"Debut game for Geoff Combe"
-"SLN198009090",24,"Steve Swisher injured at HP in attempted steal"
-"SLN198009090",62,"$Len Randle called for obstruction"
-"SLN198010050",60,"$Keith Hernandez called for interference"
+"SLN198004110",21,"$Garry Templeton called for interference"FILENAME_TX","LINE_NUMBER_CT"
+
+"SLN198004290",40,"$Ivan DeJesus  called for interference"1980SLN.EVN.regular.comment.csv",2
+
+"SLN198004300",56,"ej,boyek001,P,froeb901,Arguing Interference call $Pete Vuckovich called for interference as Tony Scott tried to steal 2B; Cardinal manager Ken Boyer ejected by HP umpire Bruce Froemming for arguing call"1980SLN.EVN.regular.comment.csv",3
+
+"SLN198005020",11,"$Bob Forsch spiked in heel"1980SLN.EVN.regular.comment.csv",4
+
+"SLN198005050",52,"34 minute rain delay"1980SLN.EVN.regular.comment.csv",5
+
+"SLN198005060",75,"$Pedro Borbon missed 2B on apparent single by Garry Templeton"1980SLN.EVN.regular.comment.csv",6
+
+"SLN198005260",6,"$Steve Henderson rounded 2B too far"1980SLN.EVN.regular.comment.csv",7
+
+"SLN198005270",5,"Debut game for Leon Durham"1980SLN.EVN.regular.comment.csv",8
+
+"SLN198005310",53,"$Dane Iorg and Tony Scott collided"1980SLN.EVN.regular.comment.csv",9
+
+"SLN198006130",50,"ej,concd001,P,mcshj901,Called third strike Dave Concepcion ejected by HP umpire John McSherry"1980SLN.EVN.regular.comment.csv",10
+
+"SLN198006140",1,"Debut game for Joe Price"1980SLN.EVN.regular.comment.csv",11
+
+"SLN198007032",58,"$Garry Templeton caught Bake McBride with the hidden ball trick"1980SLN.EVN.regular.comment.csv",12
+
+"SLN198007190",44,"ej,nortb101,P,tatat901,Interference call Bill North ejected by HP umpire Terry Tata after being called for interference"1980SLN.EVN.regular.comment.csv",13
+
+"SLN198007230",47,"$Garry Templeton broke left thumb sometime during 4th or 5th"1980SLN.EVN.regular.comment.csv",14
+
+"SLN198007230",71,"Debut game for Tito Landrum"1980SLN.EVN.regular.comment.csv",15
+
+"SLN198008110",72,"$Tom Hutton's only pitching appearance"1980SLN.EVN.regular.comment.csv",16
+
+"SLN198008140",43,"missing play in SLN198008140 DWS: fielding credit invented"1980SLN.EVN.regular.comment.csv",17
+
+"SLN198008160",31,"$Mike Krukow hit on forehead"1980SLN.EVN.regular.comment.csv",18
+
+"SLN198008170",1,"$Tony Scott injured right shoulder on double"1980SLN.EVN.regular.comment.csv",19
+
+"SLN198008270",11,"Debut game for John Martin"1980SLN.EVN.regular.comment.csv",20
+
+"SLN198009010",0,"1:33 rain delay before start of game"1980SLN.EVN.regular.comment.csv",21
+
+"SLN198009020",42,"Debut game for Eddie Milner"1980SLN.EVN.regular.comment.csv",22
+
+"SLN198009020",67,"Debut game for Geoff Combe"1980SLN.EVN.regular.comment.csv",23
+
+"SLN198009090",24,"Steve Swisher injured at HP in attempted steal"1980SLN.EVN.regular.comment.csv",24
+
+"SLN198009090",62,"$Len Randle called for obstruction"1980SLN.EVN.regular.comment.csv",25
+
+"SLN198010050",60,"$Keith Hernandez called for interference"1980SLN.EVN.regular.comment.csv",26
+

@@ -1,43 +1,42 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"CAL196704110",38,"Debut game for Jim Price"
-"CAL196704120",48,"Debut game for Don Wallace"
-"CAL196704120",84,"Debut game for Jim Hibbs"
-"CAL196704140",59,"Debut game for Steve Bailey"
-"CAL196705020",29,"$Tony Conigliaro called for interference for running into his own batted ball"
-"CAL196706050",1,"$Rick Reichardt fell into the stands and was injured"
-"CAL196706110",62,"Debut game for Ken Turner"
-"CAL196706132",50,"ej,adcoj101,M,soarh901,Balls and strikes Indians Manager Joe Adcock ejected by HP umpire Hank Soar"
-"CAL196706300",55,"$catcher Jake Gibbs made a wild throw back to the pitcher"
-"CAL196707030",75,"Debut game for Ken Poulsen"
-"CAL196707040",62,"Debut game for Sparky Lyle"
-"CAL196708070",33,"$Bubba Morton called for interference for running into his own batted ball"
-"CAL196708080",62,"$Roy White and Bill Robinson collide; White left after being spiked"
-"CAL196708130",62,"Debut game for Jim Weaver"
-"CAL196708140",78,"Debut game for Moose Stubing"
-"CAL196708291",47,"ej,rignb101,M,stewb901,Check swing $Angels manager Rigney ejected by 3B umpire Stewart for arguing about check swing on Stubing that ended 4th inning"
-"CAL196709010",6,"Debut game for Aurelio Rodriguez"
-"CAL196709150",8,"$Jimmie Hall rounded 1B too far"
-"CAL196709160",2,"Debut game for Weldon Bowlin"
-"CAL196709170",1,"Debut game for George Lauzerique"
-"CAL196709200",4,"George Brunet injured by batted ball"
-"CAL196704110",38,"Debut game for Jim Price"
-"CAL196704120",48,"Debut game for Don Wallace"
-"CAL196704120",84,"Debut game for Jim Hibbs"
-"CAL196704140",59,"Debut game for Steve Bailey"
-"CAL196705020",29,"$Tony Conigliaro called for interference for running into his own batted ball"
-"CAL196706050",1,"$Rick Reichardt fell into the stands and was injured"
-"CAL196706110",62,"Debut game for Ken Turner"
-"CAL196706132",50,"ej,adcoj101,M,soarh901,Balls and strikes Indians Manager Joe Adcock ejected by HP umpire Hank Soar"
-"CAL196706300",55,"$catcher Jake Gibbs made a wild throw back to the pitcher"
-"CAL196707030",75,"Debut game for Ken Poulsen"
-"CAL196707040",62,"Debut game for Sparky Lyle"
-"CAL196708070",33,"$Bubba Morton called for interference for running into his own batted ball"
-"CAL196708080",62,"$Roy White and Bill Robinson collide; White left after being spiked"
-"CAL196708130",62,"Debut game for Jim Weaver"
-"CAL196708140",78,"Debut game for Moose Stubing"
-"CAL196708291",47,"ej,rignb101,M,stewb901,Check swing $Angels manager Rigney ejected by 3B umpire Stewart for arguing about check swing on Stubing that ended 4th inning"
-"CAL196709010",6,"Debut game for Aurelio Rodriguez"
-"CAL196709150",8,"$Jimmie Hall rounded 1B too far"
-"CAL196709160",2,"Debut game for Weldon Bowlin"
-"CAL196709170",1,"Debut game for George Lauzerique"
-"CAL196709200",4,"George Brunet injured by batted ball"
+"CAL196704110",38,"Debut game for Jim Price"FILENAME_TX","LINE_NUMBER_CT"
+
+"CAL196704120",48,"Debut game for Don Wallace"1967CAL.EVA.regular.comment.csv",2
+
+"CAL196704120",84,"Debut game for Jim Hibbs"1967CAL.EVA.regular.comment.csv",3
+
+"CAL196704140",59,"Debut game for Steve Bailey"1967CAL.EVA.regular.comment.csv",4
+
+"CAL196705020",29,"$Tony Conigliaro called for interference for running into his own batted ball"1967CAL.EVA.regular.comment.csv",5
+
+"CAL196706050",1,"$Rick Reichardt fell into the stands and was injured"1967CAL.EVA.regular.comment.csv",6
+
+"CAL196706110",62,"Debut game for Ken Turner"1967CAL.EVA.regular.comment.csv",7
+
+"CAL196706132",50,"ej,adcoj101,M,soarh901,Balls and strikes Indians Manager Joe Adcock ejected by HP umpire Hank Soar"1967CAL.EVA.regular.comment.csv",8
+
+"CAL196706300",55,"$catcher Jake Gibbs made a wild throw back to the pitcher"1967CAL.EVA.regular.comment.csv",9
+
+"CAL196707030",75,"Debut game for Ken Poulsen"1967CAL.EVA.regular.comment.csv",10
+
+"CAL196707040",62,"Debut game for Sparky Lyle"1967CAL.EVA.regular.comment.csv",11
+
+"CAL196708070",33,"$Bubba Morton called for interference for running into his own batted ball"1967CAL.EVA.regular.comment.csv",12
+
+"CAL196708080",62,"$Roy White and Bill Robinson collide; White left after being spiked"1967CAL.EVA.regular.comment.csv",13
+
+"CAL196708130",62,"Debut game for Jim Weaver"1967CAL.EVA.regular.comment.csv",14
+
+"CAL196708140",78,"Debut game for Moose Stubing"1967CAL.EVA.regular.comment.csv",15
+
+"CAL196708291",47,"ej,rignb101,M,stewb901,Check swing $Angels manager Rigney ejected by 3B umpire Stewart for arguing about check swing on Stubing that ended 4th inning"1967CAL.EVA.regular.comment.csv",16
+
+"CAL196709010",6,"Debut game for Aurelio Rodriguez"1967CAL.EVA.regular.comment.csv",17
+
+"CAL196709150",8,"$Jimmie Hall rounded 1B too far"1967CAL.EVA.regular.comment.csv",18
+
+"CAL196709160",2,"Debut game for Weldon Bowlin"1967CAL.EVA.regular.comment.csv",19
+
+"CAL196709170",1,"Debut game for George Lauzerique"1967CAL.EVA.regular.comment.csv",20
+
+"CAL196709200",4,"George Brunet injured by batted ball"1967CAL.EVA.regular.comment.csv",21
+

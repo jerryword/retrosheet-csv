@@ -1,93 +1,92 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"CHN194504170",0,"Windy and chilly opening day - no pre-game activities"
-"CHN194504170",10,"Ball caught in LF"
-"CHN194504170",31,"Dropped fly ball"
-"CHN194504170",60,"Ball hit off the 3B shins"
-"CHN194504190",0,"Chilly but not as windy as the day before"
-"CHN194504190",7,"Hit off chest"
-"CHN194504190",74,"pbp account ends here, rest deduced"
-"CHN194504280",53,"pbp for 7th and 8th innings"
-"CHN194504291",3,"Hughes fails to tag second on DP ball"
-"CHN194504291",41,"Squeeze doesn't work, but ends up as a hit"
-"CHN194504292",5,"Scorecard does not show Cubs outs in first; plays figured out from box, but may have been on different batters"
-"CHN194504292",19,"ej,frisf101,M,searz901,Interference call ej,lopea102,P,searz901,Interference call $Pirate manager Frisch ejected by HP umpire Sears for arguing that Williams ran out of base line when Srincevich made a diving tag attempt; Pirate Lopes, not in game, also ejected by Sears"
-"CHN194504292",77,"Failed Suicide squeeze based on scorecard, box, but not sure"
-"CHN194505260",52,"$Schuster made a great stop and threw behind Goulish to catch him off base"
-"CHN194505271",34,"ej,durol101,M,stewb901,Balls and strikes Dodgers Manager Leo Durocher ejected by HP umpire Bill Stewart"
-"CHN194505271",54,"ej,stane101,P,dunnt901,Threw glove at umpire Eddie Stanky ejected by 1B umpire Tom Dunn for throwing his glove as he left the field; 1:35 rain delay"
-"CHN194505272",45,"$Dixie Walker waited to see if the ball would be caught"
-"CHN194505272",48,"$missed squeeze"
-"CHN194505272",71,"$Game called for darkness at 8:10 PM"
-"CHN194505290",53,"Vanderberg blocks Hack's path to pop up"
-"CHN194505290",68,"Wild throw in rundown after Stanky picked off"
-"CHN194506020",9,"$Gillenwater hit in face, Nieman entered as Courtesy Runner"
-"CHN194506200",54,"$Lopez argued violently about the call and was ejected"
-"CHN194506210",55,"$Salkeld complained of a sore neck and left game"
-"CHN194506220",0,"Ladies Day 9,708 paid customers"
-"CHN194506220",21,"Hit and run looping single in short CF"
-"CHN194506220",35,"Pop fly dropped in between CF, SS, 2B"
-"CHN194506220",65,"Good catch on short fly"
-"CHN194506241",39,"$single was popup lost in the sun"
-"CHN194507182",4,"ej,durol101,M,searz901,Time out call Dodgers Manager Leo Durocher ejected by HP umpire Ziggy Sears; the Dodgers had struck out Don Johnson and Stan Hack was doubled at 2B; however, Sears had called time before the pitch"
-"CHN194507200",0,"Suspend=19450915,,10,4,48"
-"CHN194507200",78,"umpchange,9,umphome,boggd901 umpchange,9,ump1b,pineb101 umpchange,9,ump3b,conlj102 suspended,19450915,CHI11,catch train $game suspended so the Dodgers could catch the train for St. Louis; completed on 9/15 with new umpires"
-"CHN194507221",55,"$Prim 'exhausted' after running to 3rd on pickoff error"
-"CHN194507221",57,"$Change of battery definitely AFTER stolen base"
-"CHN194507270",39,"$Claude Passeau stopped at 3B but scored on the throw to 2B"
-"CHN194507280",52,"rain started to fall"
-"CHN194507280",74,"game called for rain"
-"CHN194507292",68,"ej,mesns101,P,jordl901,Call at HP ej,mckeb101,M,jordl901,Call at HP Steve Mesner and Reds manager Bill McKechnie ejected by HP umpire Lou Jorda"
-"CHN194508260",25,"$Attempted a delayed double steal"
-"CHN194509100",35,"pbp account ends here, rest deduced"
-"CHN194509170",4,"ej,durol101,M,pineb101,Call at 1B Dodgers Manager Leo Durocher ejected by 1B umpire Babe Pinelli"
-"CHN194509260",46,"Attempted delayed double steal fails"
-"CHN194509260",53,"Hopp brushed Vandenberg with his shoulder, and Vandenberg held the ball glaring at Hopp allowing Schoendienst to score"
-"CHN194509260",62,"Ball hits off Nicholson's glove, bounces off wall back into his glove. 1B ump Ballafant rules it a catch, but Cardinals get him to consult with other umpires who get play correct. Kurowski is put on second. Cubs thinking they should have a DP play the game under protest"
-"CHN194509260",64,"Wild throw to the plate"
-"CHN194509260",74,"Sacrifice down six runs and one out?"
-"CHN194504170",0,"Windy and chilly opening day - no pre-game activities"
-"CHN194504170",10,"Ball caught in LF"
-"CHN194504170",31,"Dropped fly ball"
-"CHN194504170",60,"Ball hit off the 3B shins"
-"CHN194504190",0,"Chilly but not as windy as the day before"
-"CHN194504190",7,"Hit off chest"
-"CHN194504190",74,"pbp account ends here, rest deduced"
-"CHN194504280",53,"pbp for 7th and 8th innings"
-"CHN194504291",3,"Hughes fails to tag second on DP ball"
-"CHN194504291",41,"Squeeze doesn't work, but ends up as a hit"
-"CHN194504292",5,"Scorecard does not show Cubs outs in first; plays figured out from box, but may have been on different batters"
-"CHN194504292",19,"ej,frisf101,M,searz901,Interference call ej,lopea102,P,searz901,Interference call $Pirate manager Frisch ejected by HP umpire Sears for arguing that Williams ran out of base line when Srincevich made a diving tag attempt; Pirate Lopes, not in game, also ejected by Sears"
-"CHN194504292",77,"Failed Suicide squeeze based on scorecard, box, but not sure"
-"CHN194505260",52,"$Schuster made a great stop and threw behind Goulish to catch him off base"
-"CHN194505271",34,"ej,durol101,M,stewb901,Balls and strikes Dodgers Manager Leo Durocher ejected by HP umpire Bill Stewart"
-"CHN194505271",54,"ej,stane101,P,dunnt901,Threw glove at umpire Eddie Stanky ejected by 1B umpire Tom Dunn for throwing his glove as he left the field; 1:35 rain delay"
-"CHN194505272",45,"$Dixie Walker waited to see if the ball would be caught"
-"CHN194505272",48,"$missed squeeze"
-"CHN194505272",71,"$Game called for darkness at 8:10 PM"
-"CHN194505290",53,"Vanderberg blocks Hack's path to pop up"
-"CHN194505290",68,"Wild throw in rundown after Stanky picked off"
-"CHN194506020",9,"$Gillenwater hit in face, Nieman entered as Courtesy Runner"
-"CHN194506200",54,"$Lopez argued violently about the call and was ejected"
-"CHN194506210",55,"$Salkeld complained of a sore neck and left game"
-"CHN194506220",0,"Ladies Day 9,708 paid customers"
-"CHN194506220",21,"Hit and run looping single in short CF"
-"CHN194506220",35,"Pop fly dropped in between CF, SS, 2B"
-"CHN194506220",65,"Good catch on short fly"
-"CHN194506241",39,"$single was popup lost in the sun"
-"CHN194507182",4,"ej,durol101,M,searz901,Time out call Dodgers Manager Leo Durocher ejected by HP umpire Ziggy Sears; the Dodgers had struck out Don Johnson and Stan Hack was doubled at 2B; however, Sears had called time before the pitch"
-"CHN194507200",0,"Suspend=19450915,,10,4,48"
-"CHN194507200",78,"umpchange,9,umphome,boggd901 umpchange,9,ump1b,pineb101 umpchange,9,ump3b,conlj102 suspended,19450915,CHI11,catch train $game suspended so the Dodgers could catch the train for St. Louis; completed on 9/15 with new umpires"
-"CHN194507221",55,"$Prim 'exhausted' after running to 3rd on pickoff error"
-"CHN194507221",57,"$Change of battery definitely AFTER stolen base"
-"CHN194507270",39,"$Claude Passeau stopped at 3B but scored on the throw to 2B"
-"CHN194507280",52,"rain started to fall"
-"CHN194507280",74,"game called for rain"
-"CHN194507292",68,"ej,mesns101,P,jordl901,Call at HP ej,mckeb101,M,jordl901,Call at HP Steve Mesner and Reds manager Bill McKechnie ejected by HP umpire Lou Jorda"
-"CHN194508260",25,"$Attempted a delayed double steal"
-"CHN194509100",35,"pbp account ends here, rest deduced"
-"CHN194509170",4,"ej,durol101,M,pineb101,Call at 1B Dodgers Manager Leo Durocher ejected by 1B umpire Babe Pinelli"
-"CHN194509260",46,"Attempted delayed double steal fails"
-"CHN194509260",53,"Hopp brushed Vandenberg with his shoulder, and Vandenberg held the ball glaring at Hopp allowing Schoendienst to score"
-"CHN194509260",62,"Ball hits off Nicholson's glove, bounces off wall back into his glove. 1B ump Ballafant rules it a catch, but Cardinals get him to consult with other umpires who get play correct. Kurowski is put on second. Cubs thinking they should have a DP play the game under protest"
-"CHN194509260",64,"Wild throw to the plate"
-"CHN194509260",74,"Sacrifice down six runs and one out?"
+"CHN194504170",0,"Windy and chilly opening day - no pre-game activities"FILENAME_TX","LINE_NUMBER_CT"
+
+"CHN194504170",10,"Ball caught in LF"1945CHN.EVN.regular.comment.csv",2
+
+"CHN194504170",31,"Dropped fly ball"1945CHN.EVN.regular.comment.csv",3
+
+"CHN194504170",60,"Ball hit off the 3B shins"1945CHN.EVN.regular.comment.csv",4
+
+"CHN194504190",0,"Chilly but not as windy as the day before"1945CHN.EVN.regular.comment.csv",5
+
+"CHN194504190",7,"Hit off chest"1945CHN.EVN.regular.comment.csv",6
+
+"CHN194504190",74,"pbp account ends here, rest deduced"1945CHN.EVN.regular.comment.csv",7
+
+"CHN194504280",53,"pbp for 7th and 8th innings"1945CHN.EVN.regular.comment.csv",8
+
+"CHN194504291",3,"Hughes fails to tag second on DP ball"1945CHN.EVN.regular.comment.csv",9
+
+"CHN194504291",41,"Squeeze doesn't work, but ends up as a hit"1945CHN.EVN.regular.comment.csv",10
+
+"CHN194504292",5,"Scorecard does not show Cubs outs in first; plays figured out from box, but may have been on different batters"1945CHN.EVN.regular.comment.csv",11
+
+"CHN194504292",19,"ej,frisf101,M,searz901,Interference call ej,lopea102,P,searz901,Interference call $Pirate manager Frisch ejected by HP umpire Sears for arguing that Williams ran out of base line when Srincevich made a diving tag attempt; Pirate Lopes, not in game, also ejected by Sears"1945CHN.EVN.regular.comment.csv",12
+
+"CHN194504292",77,"Failed Suicide squeeze based on scorecard, box, but not sure"1945CHN.EVN.regular.comment.csv",13
+
+"CHN194505260",52,"$Schuster made a great stop and threw behind Goulish to catch him off base"1945CHN.EVN.regular.comment.csv",14
+
+"CHN194505271",34,"ej,durol101,M,stewb901,Balls and strikes Dodgers Manager Leo Durocher ejected by HP umpire Bill Stewart"1945CHN.EVN.regular.comment.csv",15
+
+"CHN194505271",54,"ej,stane101,P,dunnt901,Threw glove at umpire Eddie Stanky ejected by 1B umpire Tom Dunn for throwing his glove as he left the field; 1:35 rain delay"1945CHN.EVN.regular.comment.csv",16
+
+"CHN194505272",45,"$Dixie Walker waited to see if the ball would be caught"1945CHN.EVN.regular.comment.csv",17
+
+"CHN194505272",48,"$missed squeeze"1945CHN.EVN.regular.comment.csv",18
+
+"CHN194505272",71,"$Game called for darkness at 8:10 PM"1945CHN.EVN.regular.comment.csv",19
+
+"CHN194505290",53,"Vanderberg blocks Hack's path to pop up"1945CHN.EVN.regular.comment.csv",20
+
+"CHN194505290",68,"Wild throw in rundown after Stanky picked off"1945CHN.EVN.regular.comment.csv",21
+
+"CHN194506020",9,"$Gillenwater hit in face, Nieman entered as Courtesy Runner"1945CHN.EVN.regular.comment.csv",22
+
+"CHN194506200",54,"$Lopez argued violently about the call and was ejected"1945CHN.EVN.regular.comment.csv",23
+
+"CHN194506210",55,"$Salkeld complained of a sore neck and left game"1945CHN.EVN.regular.comment.csv",24
+
+"CHN194506220",0,"Ladies Day 9,708 paid customers"1945CHN.EVN.regular.comment.csv",25
+
+"CHN194506220",21,"Hit and run looping single in short CF"1945CHN.EVN.regular.comment.csv",26
+
+"CHN194506220",35,"Pop fly dropped in between CF, SS, 2B"1945CHN.EVN.regular.comment.csv",27
+
+"CHN194506220",65,"Good catch on short fly"1945CHN.EVN.regular.comment.csv",28
+
+"CHN194506241",39,"$single was popup lost in the sun"1945CHN.EVN.regular.comment.csv",29
+
+"CHN194507182",4,"ej,durol101,M,searz901,Time out call Dodgers Manager Leo Durocher ejected by HP umpire Ziggy Sears; the Dodgers had struck out Don Johnson and Stan Hack was doubled at 2B; however, Sears had called time before the pitch"1945CHN.EVN.regular.comment.csv",30
+
+"CHN194507200",0,"Suspend=19450915,,10,4,48"1945CHN.EVN.regular.comment.csv",31
+
+"CHN194507200",78,"umpchange,9,umphome,boggd901 umpchange,9,ump1b,pineb101 umpchange,9,ump3b,conlj102 suspended,19450915,CHI11,catch train $game suspended so the Dodgers could catch the train for St. Louis; completed on 9/15 with new umpires"1945CHN.EVN.regular.comment.csv",32
+
+"CHN194507221",55,"$Prim 'exhausted' after running to 3rd on pickoff error"1945CHN.EVN.regular.comment.csv",33
+
+"CHN194507221",57,"$Change of battery definitely AFTER stolen base"1945CHN.EVN.regular.comment.csv",34
+
+"CHN194507270",39,"$Claude Passeau stopped at 3B but scored on the throw to 2B"1945CHN.EVN.regular.comment.csv",35
+
+"CHN194507280",52,"rain started to fall"1945CHN.EVN.regular.comment.csv",36
+
+"CHN194507280",74,"game called for rain"1945CHN.EVN.regular.comment.csv",37
+
+"CHN194507292",68,"ej,mesns101,P,jordl901,Call at HP ej,mckeb101,M,jordl901,Call at HP Steve Mesner and Reds manager Bill McKechnie ejected by HP umpire Lou Jorda"1945CHN.EVN.regular.comment.csv",38
+
+"CHN194508260",25,"$Attempted a delayed double steal"1945CHN.EVN.regular.comment.csv",39
+
+"CHN194509100",35,"pbp account ends here, rest deduced"1945CHN.EVN.regular.comment.csv",40
+
+"CHN194509170",4,"ej,durol101,M,pineb101,Call at 1B Dodgers Manager Leo Durocher ejected by 1B umpire Babe Pinelli"1945CHN.EVN.regular.comment.csv",41
+
+"CHN194509260",46,"Attempted delayed double steal fails"1945CHN.EVN.regular.comment.csv",42
+
+"CHN194509260",53,"Hopp brushed Vandenberg with his shoulder, and Vandenberg held the ball glaring at Hopp allowing Schoendienst to score"1945CHN.EVN.regular.comment.csv",43
+
+"CHN194509260",62,"Ball hits off Nicholson's glove, bounces off wall back into his glove. 1B ump Ballafant rules it a catch, but Cardinals get him to consult with other umpires who get play correct. Kurowski is put on second. Cubs thinking they should have a DP play the game under protest"1945CHN.EVN.regular.comment.csv",44
+
+"CHN194509260",64,"Wild throw to the plate"1945CHN.EVN.regular.comment.csv",45
+
+"CHN194509260",74,"Sacrifice down six runs and one out?"1945CHN.EVN.regular.comment.csv",46
+

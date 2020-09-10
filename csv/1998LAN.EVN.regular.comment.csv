@@ -1,17 +1,16 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"LAN199805300",34,"Debut game for Eric Weaver"
-"LAN199806020",75,"Debut game for Gary Rath"
-"LAN199806240",15,"Debut game for Adrian Beltre"
-"LAN199806280",50,"ej,shefg001,P,hallt901,Fighting with Jason Kendall ej,kendj001,P,hallt901,Fighting with Gary Sheffield $Roger Cedeno was trapped in a rundown and Gary Sheffield tried to score; catcher Jason Kendall was waiting at the plate with the ball as Sheffield arrive; the latter tried to avoid the tag rather than run through Kendall; however, Sheffield slapped at Kendall's helmet, knocking it off; Kendall yalled at Sheffield, who yelled back and then tried to tackle Kendall; both benches emptied; Sheffield threw some punches; Raul Mondesi also punched Kendall; Sheffield and Kendall ejected by HP umpire Tom Hallion"
-"LAN199807110",15,"ej,bonib001,P,hohnb901,Balls and strikes Bobby Bonilla ejected by HP umpire Bill Hohn during at bat"
-"LAN199808130",20,"$Mark Grudzielanek called for interference"
-"LAN199808260",24,"$Eric Young called for interference"
-"LAN199809060",69,"Debut game for Jeff Kubenka"
-"LAN199805300",34,"Debut game for Eric Weaver"
-"LAN199806020",75,"Debut game for Gary Rath"
-"LAN199806240",15,"Debut game for Adrian Beltre"
-"LAN199806280",50,"ej,shefg001,P,hallt901,Fighting with Jason Kendall ej,kendj001,P,hallt901,Fighting with Gary Sheffield $Roger Cedeno was trapped in a rundown and Gary Sheffield tried to score; catcher Jason Kendall was waiting at the plate with the ball as Sheffield arrive; the latter tried to avoid the tag rather than run through Kendall; however, Sheffield slapped at Kendall's helmet, knocking it off; Kendall yalled at Sheffield, who yelled back and then tried to tackle Kendall; both benches emptied; Sheffield threw some punches; Raul Mondesi also punched Kendall; Sheffield and Kendall ejected by HP umpire Tom Hallion"
-"LAN199807110",15,"ej,bonib001,P,hohnb901,Balls and strikes Bobby Bonilla ejected by HP umpire Bill Hohn during at bat"
-"LAN199808130",20,"$Mark Grudzielanek called for interference"
-"LAN199808260",24,"$Eric Young called for interference"
-"LAN199809060",69,"Debut game for Jeff Kubenka"
+"LAN199805300",34,"Debut game for Eric Weaver"FILENAME_TX","LINE_NUMBER_CT"
+
+"LAN199806020",75,"Debut game for Gary Rath"1998LAN.EVN.regular.comment.csv",2
+
+"LAN199806240",15,"Debut game for Adrian Beltre"1998LAN.EVN.regular.comment.csv",3
+
+"LAN199806280",50,"ej,shefg001,P,hallt901,Fighting with Jason Kendall ej,kendj001,P,hallt901,Fighting with Gary Sheffield $Roger Cedeno was trapped in a rundown and Gary Sheffield tried to score; catcher Jason Kendall was waiting at the plate with the ball as Sheffield arrive; the latter tried to avoid the tag rather than run through Kendall; however, Sheffield slapped at Kendall's helmet, knocking it off; Kendall yalled at Sheffield, who yelled back and then tried to tackle Kendall; both benches emptied; Sheffield threw some punches; Raul Mondesi also punched Kendall; Sheffield and Kendall ejected by HP umpire Tom Hallion"1998LAN.EVN.regular.comment.csv",4
+
+"LAN199807110",15,"ej,bonib001,P,hohnb901,Balls and strikes Bobby Bonilla ejected by HP umpire Bill Hohn during at bat"1998LAN.EVN.regular.comment.csv",5
+
+"LAN199808130",20,"$Mark Grudzielanek called for interference"1998LAN.EVN.regular.comment.csv",6
+
+"LAN199808260",24,"$Eric Young called for interference"1998LAN.EVN.regular.comment.csv",7
+
+"LAN199809060",69,"Debut game for Jeff Kubenka"1998LAN.EVN.regular.comment.csv",8
+

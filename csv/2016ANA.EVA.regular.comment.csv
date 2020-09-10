@@ -1,129 +1,128 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"ANA201604080",35,"Angels left fielder Daniel Nava left the game due to an injured hand"
-"ANA201604080",50,"replay,5,chirr001,TEX,gormb901,ANA01,,Y,M,ANA,A $when Elvis Andrus was called safe at 2B, Angels manager Mike Scioscia challenged the ruling; the call was overturned by replay"
-"ANA201604090",29,"replay,4,rua-r001,TEX,gormb901,ANA01,,N,M,TEX,A $when Elvis Andrus was called out at HP, Rangers manager Jeff Banister challenged the ruling; the call was upheld by replay"
-"ANA201604090",35,"Rangers catcher Robinson Chirinos left the game due to an injured arm"
-"ANA201604100",21,"$Adrian Beltre called for interference for running into his own batted ball"
-"ANA201604220",64,"replay,9,linda001,SEA,millb901,ANA01,,N,M,SEA,A $when Adam Lind was called out at 2B, Mariners manager Scott Servais challenged the ruling; the call was upheld by replay"
-"ANA201604270",54,"replay,6,calhk001,ANA,everm901,ANA01,,Y,M,KCA,A $when Rafael Ortega was called safe at 2B, Royals manager Ned Yost challenged the ruling; the call was overturned by replay"
-"ANA201605060",61,"replay,7,dickc002,TBA,randt901,ANA01,,N,M,TBA,A $when Steven Souza was called out at 3B, Rays manager Kevin Cash challenged the ruling; the call was upheld by replay"
-"ANA201605070",38,"replay,5,giavj001,ANA,randt901,ANA01,,N,M,TBA,C $when Johnny Giavotella was called safe at 1B, Rays manager Kevin Cash challenged the ruling; the call was upheld by replay"
-"ANA201605080",20,"Angels shortstop Andrelton Simmons left the game due to an injured hand"
-"ANA201605080",51,"replay,7,millb002,TBA,randt901,ANA01,,N,M,TBA,A $when Logan Forsythe was called out at 2B, Rays manager Kevin Cash challenged the ruling; the call was upheld by replay"
-"ANA201605110",32,"replay,4,troum001,ANA,davig901,ANA01,,Y,M,SLN,C $when Mike Trout was called safe at 1B, Cardinals manager Mike Matheny challenged the ruling; the call was overturned by replay"
-"ANA201605120",40,"Angels second baseman Cliff Pennington left the game due to an injured leg"
-"ANA201605120",71,"replay,7,navad002,ANA,davig901,ANA01,,Y,M,ANA,C $when Daniel Nava was called out at 1B, Angels manager Mike Scioscia challenged the ruling; the call was overturned by replay"
-"ANA201605200",8,"replay,1,calhk001,ANA,scotd901,ANA01,I,Y,U,,N $Kole Calhoun's fly to RF was touched by a fan who reached over the wall; the ball caromed back onto the field and was ruled in play with Calhoun reaching 2B; crew chief Dale Scott requested a review, which overturned the call to fan interference; Calhoun was awarded 2B"
-"ANA201605200",25,"ej,santh001,P,tumpj901,Balls and strikes Angels pitcher Hector Santiago ejected by HP umpire John Tumpane"
-"ANA201605210",72,"ej,escoy001,P,scotd901,Called third strike (Threw helmet) Angels third baseman Yunel Escobar ejected by HP umpire Dale Scott"
-"ANA201605220",2,"replay,1,machm001,BAL,scotd901,ANA01,,Y,M,BAL,A $when Joey Rickard was called out at 2B, Orioles manager Buck Showalter challenged the ruling; the call was overturned by replay"
-"ANA201605280",46,"ej,escoy001,P,carav901,Balls and strikes Angels third baseman Yunel Escobar ejected by HP umpire Vic Carapazza"
-"ANA201605290",17,"Angels third baseman Yunel Escobar left the game due to an injured wrist"
-"ANA201605290",93,"replay,10,cronc002,ANA,hirsj901,ANA01,,Y,M,HOU,A $when Shane Robinson was called safe at 2B, Houston manager A.J. Hinch challenged the ruling; the call was overturned by replay"
-"ANA201605290",118,"replay,13,pujoa001,ANA,hirsj901,ANA01,,N,M,HOU,A $when Albert Pujols was called safe at 2B, Astros manager A.J. Hinch challenged the ruling; the call was upheld by replay"
-"ANA201605310",14,"replay,2,mccaj001,DET,millb901,ANA01,,Y,M,ANA,A $when Cameron Maybin was called safe at 2B, Angels manager Mike Scioscia challenged the ruling; the call was overturned by replay"
-"ANA201605310",52,"Tigers pitcher Warwick Saupold left the game due to an injured groin"
-"ANA201606110",17,"replay,3,kipnj001,CLE,danlk901,ANA01,,N,M,ANA,A $when Rajai Davis was called safe at 2B on a pickoff attempt, Angels manager Mike Scioscia challenged the ruling; the call was upheld by replay"
-"ANA201606120",31,"Indians third baseman Juan Uribe left the game due to an injured groin"
-"ANA201606120",66,"Angels center fielder Mike Trout left the game due to an injured hand"
-"ANA201606130",20,"$Trevor Plouffe called for obstruction during the rundown"
-"ANA201606150",65,"$Yunel Escobar walked on three balls"
-"ANA201606230",15,"$originally scored as E5, changed to single on 06-28-2016, giving batter RBI"
-"ANA201606230",77,"umpchange,9,umphome,wolcq901 umpchange,9,ump3b,dimum901 umpchange,9,ump2b,(None) $Jefry Marte let go of his bat on the swing at the first pitch; the bat struck HP Umpire Paul Emmel on the top of his head, drawing blood; Emmel left with a lacerated head; 3B Umpire Quinn Wolcott moved to HP; 2B umpire Mike DiMuro moved to 3B; on the next pitch, Marte made the last out of the game"
-"ANA201606240",3,"replay,1,vogts001,OAK,carlm901,ANA01,I,N,U,,H $Stephen Vogt's fly to CF was caught by a fan in the front row; acting crew chief Mark Carlson requested a review, which upheld the call by replay"
-"ANA201606240",68,"replay,8,semim001,OAK,carlm901,ANA01,,N,M,OAK,A $when Marcus Semien was called out at 1B after rounding the bag too far, Athletics manager Bob Melvin challenged the ruling; the call was upheld by replay"
-"ANA201606260",52,"replay,6,semim001,OAK,carlm901,ANA01,,N,M,OAK,C $when Marcus Semien was called out at 1B, Athletics manager Bob Melvin challenged the ruling; the call was upheld by replay"
-"ANA201606270",39,"replay,6,valbl001,HOU,davig901,ANA01,O,Y,U,,H $Luis Valbuena's fly to RF struck the yellow line at the top of the wall and caromed back onto the field; the ball was ruled a home run but crew chief Gerry Davis requested a review; the call was overturned to in play and Valbuena awarded 2B by replay"
-"ANA201606280",9,"replay,1,pujoa001,ANA,davig901,ANA01,,N,M,HOU,A $when Mike Trout was called safe at 2B, Astros manager A.J. Hinch challenged the ruling; the call was upheld by replay"
-"ANA201606280",23,"replay,3,perec003,ANA,davig901,ANA01,,Y,M,ANA,C $when Carlos Perez was called out at 1B, Angels manager Mike Scioscia challenged the ruling; the call was overturned by replay"
-"ANA201607180",16,"Angels pitcher Nick Tropeano left the game due to an injured elbow"
-"ANA201607190",20,"replay,3,belta001,TEX,wintm901,ANA01,,Y,M,TEX,C $when Rougned Odor was called out at 1B, Rangers manager Jeff Banister challenged the ruling; the call was overturned by replay"
-"ANA201607190",68,"$Albert Pujols was stuck on the head by the pitch"
-"ANA201607280",3,"replay,1,bogax001,BOS,westj901,ANA01,,Y,M,ANA,A $when Dustin Pedroia was called safe at 2B, Angels manager Mike Scioscia challenged the ruling; the call was overturned by replay"
-"ANA201607310",38,"ej,farrj001,M,morag901,Called third strike Red Sox Manager John Farrell ejected by HP umpire Gabe Morales"
-"ANA201608020",12,"replay,2,smolj002,OAK,cedeg901,ANA01,,Y,M,OAK,I $when Jake Smolinski was ruled not to have been hit by a pitch, Athletics manager Bob Melvin challenged the ruling; the call was overturned by replay"
-"ANA201608040",25,"replay,3,simma001,ANA,cedeg901,ANA01,,N,M,OAK,A $when Albert Pujols was called safe at 3B, Athletics manager Bob Melvin challenged the ruling; the call was upheld by replay"
-"ANA201608040",65,"ej,davik003,P,coope901,Called third strike Athletics designated hitter Khris Davis ejected by HP umpire Eric Cooper"
-"ANA201608160",69,"replay,8,gutif001,SEA,kellj901,ANA01,,Y,M,ANA,A $when Nori Aoki was called safe at 2B, Angels manager Mike Scioscia challenged the ruling; the call was overturned by replay"
-"ANA201608170",30,"$Chris Iannetta's fly to CF was touched by a fan who reached over the wall for fan interference"
-"ANA201608180",34,"replay,5,aokin001,SEA,kellj901,ANA01,,Y,M,ANA,C $when Nori Aoki was called safe at 1B, Angels manager Mike Scioscia challenged the ruling; the call was overturned by replay"
-"ANA201608290",22,"Reds left fielder Jose Peraza left the game due to an injured head"
-"ANA201608300",73,"replay,9,hamib001,CIN,nelsj901,ANA01,,N,M,CIN,O $when Billy Hamilton's ball down the LF line was called foul, Reds manager Bryan Price challenged the ruling; the call was upheld by replay"
-"ANA201609100",31,"replay,4,andre001,TEX,mealj901,ANA01,,N,M,ANA,I $when Elvis Anrus was ruled to have been hit by a pitch, Angels manager Mike Scioscia challenged the ruling; the call was upheld by replay"
-"ANA201609100",89,"ej,sciom001,M,wintm901,Balls and strikes Angels Manager Mike Scioscia ejected by HP umpire Mike Winters"
-"ANA201609110",48,"replay,6,simma001,ANA,mealj901,ANA01,,Y,M,TEX,A $when C.J. Cron was called safe at 2B, Rangers manager Jeff Banister challenged the ruling; the call was overturned by replay"
-"ANA201609120",49,"$a fan reached over the wall and grabbed the ball in fair territory for interference"
-"ANA201609120",76,"$Daniel Vogelbach called out on appeal for missing 2B while running 1B to 3B"
-"ANA201609130",24,"replay,3,perec003,ANA,diazl901,ANA01,,N,M,ANA,C $when Carlos Perez was called out at 1B, Angels manager Mike Scioscia challenged the ruling; the call was upheld by replay"
-"ANA201609130",35,"replay,5,cruzn002,SEA,diazl901,ANA01,,Y,M,SEA,C $when Nelson Cruz was called out at 1B, Mariners manager Scott Servais challenged the ruling; the call was overturned by replay"
-"ANA201609140",18,"replay,3,aokin001,SEA,diazl901,ANA01,,Y,M,ANA,C $when Nori Aoki was called safe at 1B, Angels manager Mike Scioscia challenged the ruling; the call was overturned by replay"
-"ANA201609150",71,"$a fan reached out and touched the ball in foul territory for interference"
-"ANA201609170",17,"Angels catcher Jett Bandy left the game due to an injured back"
-"ANA201609170",35,"replay,5,donaj001,TOR,culbf901,ANA01,,N,M,TOR,A $when Devon Travis was called out at 3B, Blue Jays manager John Gibbons challenged the ruling; the call was upheld by replay"
-"ANA201609180",50,"replay,6,gratj001,ANA,culbf901,ANA01,,N,M,TOR,A $when Rafael Ortega was called safe at 2B, Blue Jays manager John Gibbons challenged the ruling; the call was upheld by replay"
-"ANA201609260",36,"Angels pitcher Jered Weaver left the game due to an injured back"
-"ANA201609270",35,"Angels third baseman Yunel Escobar left the game due to an injured arm"
-"ANA201604080",35,"Angels left fielder Daniel Nava left the game due to an injured hand"
-"ANA201604080",50,"replay,5,chirr001,TEX,gormb901,ANA01,,Y,M,ANA,A $when Elvis Andrus was called safe at 2B, Angels manager Mike Scioscia challenged the ruling; the call was overturned by replay"
-"ANA201604090",29,"replay,4,rua-r001,TEX,gormb901,ANA01,,N,M,TEX,A $when Elvis Andrus was called out at HP, Rangers manager Jeff Banister challenged the ruling; the call was upheld by replay"
-"ANA201604090",35,"Rangers catcher Robinson Chirinos left the game due to an injured arm"
-"ANA201604100",21,"$Adrian Beltre called for interference for running into his own batted ball"
-"ANA201604220",64,"replay,9,linda001,SEA,millb901,ANA01,,N,M,SEA,A $when Adam Lind was called out at 2B, Mariners manager Scott Servais challenged the ruling; the call was upheld by replay"
-"ANA201604270",54,"replay,6,calhk001,ANA,everm901,ANA01,,Y,M,KCA,A $when Rafael Ortega was called safe at 2B, Royals manager Ned Yost challenged the ruling; the call was overturned by replay"
-"ANA201605060",61,"replay,7,dickc002,TBA,randt901,ANA01,,N,M,TBA,A $when Steven Souza was called out at 3B, Rays manager Kevin Cash challenged the ruling; the call was upheld by replay"
-"ANA201605070",38,"replay,5,giavj001,ANA,randt901,ANA01,,N,M,TBA,C $when Johnny Giavotella was called safe at 1B, Rays manager Kevin Cash challenged the ruling; the call was upheld by replay"
-"ANA201605080",20,"Angels shortstop Andrelton Simmons left the game due to an injured hand"
-"ANA201605080",51,"replay,7,millb002,TBA,randt901,ANA01,,N,M,TBA,A $when Logan Forsythe was called out at 2B, Rays manager Kevin Cash challenged the ruling; the call was upheld by replay"
-"ANA201605110",32,"replay,4,troum001,ANA,davig901,ANA01,,Y,M,SLN,C $when Mike Trout was called safe at 1B, Cardinals manager Mike Matheny challenged the ruling; the call was overturned by replay"
-"ANA201605120",40,"Angels second baseman Cliff Pennington left the game due to an injured leg"
-"ANA201605120",71,"replay,7,navad002,ANA,davig901,ANA01,,Y,M,ANA,C $when Daniel Nava was called out at 1B, Angels manager Mike Scioscia challenged the ruling; the call was overturned by replay"
-"ANA201605200",8,"replay,1,calhk001,ANA,scotd901,ANA01,I,Y,U,,N $Kole Calhoun's fly to RF was touched by a fan who reached over the wall; the ball caromed back onto the field and was ruled in play with Calhoun reaching 2B; crew chief Dale Scott requested a review, which overturned the call to fan interference; Calhoun was awarded 2B"
-"ANA201605200",25,"ej,santh001,P,tumpj901,Balls and strikes Angels pitcher Hector Santiago ejected by HP umpire John Tumpane"
-"ANA201605210",72,"ej,escoy001,P,scotd901,Called third strike (Threw helmet) Angels third baseman Yunel Escobar ejected by HP umpire Dale Scott"
-"ANA201605220",2,"replay,1,machm001,BAL,scotd901,ANA01,,Y,M,BAL,A $when Joey Rickard was called out at 2B, Orioles manager Buck Showalter challenged the ruling; the call was overturned by replay"
-"ANA201605280",46,"ej,escoy001,P,carav901,Balls and strikes Angels third baseman Yunel Escobar ejected by HP umpire Vic Carapazza"
-"ANA201605290",17,"Angels third baseman Yunel Escobar left the game due to an injured wrist"
-"ANA201605290",93,"replay,10,cronc002,ANA,hirsj901,ANA01,,Y,M,HOU,A $when Shane Robinson was called safe at 2B, Houston manager A.J. Hinch challenged the ruling; the call was overturned by replay"
-"ANA201605290",118,"replay,13,pujoa001,ANA,hirsj901,ANA01,,N,M,HOU,A $when Albert Pujols was called safe at 2B, Astros manager A.J. Hinch challenged the ruling; the call was upheld by replay"
-"ANA201605310",14,"replay,2,mccaj001,DET,millb901,ANA01,,Y,M,ANA,A $when Cameron Maybin was called safe at 2B, Angels manager Mike Scioscia challenged the ruling; the call was overturned by replay"
-"ANA201605310",52,"Tigers pitcher Warwick Saupold left the game due to an injured groin"
-"ANA201606110",17,"replay,3,kipnj001,CLE,danlk901,ANA01,,N,M,ANA,A $when Rajai Davis was called safe at 2B on a pickoff attempt, Angels manager Mike Scioscia challenged the ruling; the call was upheld by replay"
-"ANA201606120",31,"Indians third baseman Juan Uribe left the game due to an injured groin"
-"ANA201606120",66,"Angels center fielder Mike Trout left the game due to an injured hand"
-"ANA201606130",20,"$Trevor Plouffe called for obstruction during the rundown"
-"ANA201606150",65,"$Yunel Escobar walked on three balls"
-"ANA201606230",15,"$originally scored as E5, changed to single on 06-28-2016, giving batter RBI"
-"ANA201606230",77,"umpchange,9,umphome,wolcq901 umpchange,9,ump3b,dimum901 umpchange,9,ump2b,(None) $Jefry Marte let go of his bat on the swing at the first pitch; the bat struck HP Umpire Paul Emmel on the top of his head, drawing blood; Emmel left with a lacerated head; 3B Umpire Quinn Wolcott moved to HP; 2B umpire Mike DiMuro moved to 3B; on the next pitch, Marte made the last out of the game"
-"ANA201606240",3,"replay,1,vogts001,OAK,carlm901,ANA01,I,N,U,,H $Stephen Vogt's fly to CF was caught by a fan in the front row; acting crew chief Mark Carlson requested a review, which upheld the call by replay"
-"ANA201606240",68,"replay,8,semim001,OAK,carlm901,ANA01,,N,M,OAK,A $when Marcus Semien was called out at 1B after rounding the bag too far, Athletics manager Bob Melvin challenged the ruling; the call was upheld by replay"
-"ANA201606260",52,"replay,6,semim001,OAK,carlm901,ANA01,,N,M,OAK,C $when Marcus Semien was called out at 1B, Athletics manager Bob Melvin challenged the ruling; the call was upheld by replay"
-"ANA201606270",39,"replay,6,valbl001,HOU,davig901,ANA01,O,Y,U,,H $Luis Valbuena's fly to RF struck the yellow line at the top of the wall and caromed back onto the field; the ball was ruled a home run but crew chief Gerry Davis requested a review; the call was overturned to in play and Valbuena awarded 2B by replay"
-"ANA201606280",9,"replay,1,pujoa001,ANA,davig901,ANA01,,N,M,HOU,A $when Mike Trout was called safe at 2B, Astros manager A.J. Hinch challenged the ruling; the call was upheld by replay"
-"ANA201606280",23,"replay,3,perec003,ANA,davig901,ANA01,,Y,M,ANA,C $when Carlos Perez was called out at 1B, Angels manager Mike Scioscia challenged the ruling; the call was overturned by replay"
-"ANA201607180",16,"Angels pitcher Nick Tropeano left the game due to an injured elbow"
-"ANA201607190",20,"replay,3,belta001,TEX,wintm901,ANA01,,Y,M,TEX,C $when Rougned Odor was called out at 1B, Rangers manager Jeff Banister challenged the ruling; the call was overturned by replay"
-"ANA201607190",68,"$Albert Pujols was stuck on the head by the pitch"
-"ANA201607280",3,"replay,1,bogax001,BOS,westj901,ANA01,,Y,M,ANA,A $when Dustin Pedroia was called safe at 2B, Angels manager Mike Scioscia challenged the ruling; the call was overturned by replay"
-"ANA201607310",38,"ej,farrj001,M,morag901,Called third strike Red Sox Manager John Farrell ejected by HP umpire Gabe Morales"
-"ANA201608020",12,"replay,2,smolj002,OAK,cedeg901,ANA01,,Y,M,OAK,I $when Jake Smolinski was ruled not to have been hit by a pitch, Athletics manager Bob Melvin challenged the ruling; the call was overturned by replay"
-"ANA201608040",25,"replay,3,simma001,ANA,cedeg901,ANA01,,N,M,OAK,A $when Albert Pujols was called safe at 3B, Athletics manager Bob Melvin challenged the ruling; the call was upheld by replay"
-"ANA201608040",65,"ej,davik003,P,coope901,Called third strike Athletics designated hitter Khris Davis ejected by HP umpire Eric Cooper"
-"ANA201608160",69,"replay,8,gutif001,SEA,kellj901,ANA01,,Y,M,ANA,A $when Nori Aoki was called safe at 2B, Angels manager Mike Scioscia challenged the ruling; the call was overturned by replay"
-"ANA201608170",30,"$Chris Iannetta's fly to CF was touched by a fan who reached over the wall for fan interference"
-"ANA201608180",34,"replay,5,aokin001,SEA,kellj901,ANA01,,Y,M,ANA,C $when Nori Aoki was called safe at 1B, Angels manager Mike Scioscia challenged the ruling; the call was overturned by replay"
-"ANA201608290",22,"Reds left fielder Jose Peraza left the game due to an injured head"
-"ANA201608300",73,"replay,9,hamib001,CIN,nelsj901,ANA01,,N,M,CIN,O $when Billy Hamilton's ball down the LF line was called foul, Reds manager Bryan Price challenged the ruling; the call was upheld by replay"
-"ANA201609100",31,"replay,4,andre001,TEX,mealj901,ANA01,,N,M,ANA,I $when Elvis Anrus was ruled to have been hit by a pitch, Angels manager Mike Scioscia challenged the ruling; the call was upheld by replay"
-"ANA201609100",89,"ej,sciom001,M,wintm901,Balls and strikes Angels Manager Mike Scioscia ejected by HP umpire Mike Winters"
-"ANA201609110",48,"replay,6,simma001,ANA,mealj901,ANA01,,Y,M,TEX,A $when C.J. Cron was called safe at 2B, Rangers manager Jeff Banister challenged the ruling; the call was overturned by replay"
-"ANA201609120",49,"$a fan reached over the wall and grabbed the ball in fair territory for interference"
-"ANA201609120",76,"$Daniel Vogelbach called out on appeal for missing 2B while running 1B to 3B"
-"ANA201609130",24,"replay,3,perec003,ANA,diazl901,ANA01,,N,M,ANA,C $when Carlos Perez was called out at 1B, Angels manager Mike Scioscia challenged the ruling; the call was upheld by replay"
-"ANA201609130",35,"replay,5,cruzn002,SEA,diazl901,ANA01,,Y,M,SEA,C $when Nelson Cruz was called out at 1B, Mariners manager Scott Servais challenged the ruling; the call was overturned by replay"
-"ANA201609140",18,"replay,3,aokin001,SEA,diazl901,ANA01,,Y,M,ANA,C $when Nori Aoki was called safe at 1B, Angels manager Mike Scioscia challenged the ruling; the call was overturned by replay"
-"ANA201609150",71,"$a fan reached out and touched the ball in foul territory for interference"
-"ANA201609170",17,"Angels catcher Jett Bandy left the game due to an injured back"
-"ANA201609170",35,"replay,5,donaj001,TOR,culbf901,ANA01,,N,M,TOR,A $when Devon Travis was called out at 3B, Blue Jays manager John Gibbons challenged the ruling; the call was upheld by replay"
-"ANA201609180",50,"replay,6,gratj001,ANA,culbf901,ANA01,,N,M,TOR,A $when Rafael Ortega was called safe at 2B, Blue Jays manager John Gibbons challenged the ruling; the call was upheld by replay"
-"ANA201609260",36,"Angels pitcher Jered Weaver left the game due to an injured back"
-"ANA201609270",35,"Angels third baseman Yunel Escobar left the game due to an injured arm"
+"ANA201604080",35,"Angels left fielder Daniel Nava left the game due to an injured hand"FILENAME_TX","LINE_NUMBER_CT"
+
+"ANA201604080",50,"replay,5,chirr001,TEX,gormb901,ANA01,,Y,M,ANA,A $when Elvis Andrus was called safe at 2B, Angels manager Mike Scioscia challenged the ruling; the call was overturned by replay"2016ANA.EVA.regular.comment.csv",2
+
+"ANA201604090",29,"replay,4,rua-r001,TEX,gormb901,ANA01,,N,M,TEX,A $when Elvis Andrus was called out at HP, Rangers manager Jeff Banister challenged the ruling; the call was upheld by replay"2016ANA.EVA.regular.comment.csv",3
+
+"ANA201604090",35,"Rangers catcher Robinson Chirinos left the game due to an injured arm"2016ANA.EVA.regular.comment.csv",4
+
+"ANA201604100",21,"$Adrian Beltre called for interference for running into his own batted ball"2016ANA.EVA.regular.comment.csv",5
+
+"ANA201604220",64,"replay,9,linda001,SEA,millb901,ANA01,,N,M,SEA,A $when Adam Lind was called out at 2B, Mariners manager Scott Servais challenged the ruling; the call was upheld by replay"2016ANA.EVA.regular.comment.csv",6
+
+"ANA201604270",54,"replay,6,calhk001,ANA,everm901,ANA01,,Y,M,KCA,A $when Rafael Ortega was called safe at 2B, Royals manager Ned Yost challenged the ruling; the call was overturned by replay"2016ANA.EVA.regular.comment.csv",7
+
+"ANA201605060",61,"replay,7,dickc002,TBA,randt901,ANA01,,N,M,TBA,A $when Steven Souza was called out at 3B, Rays manager Kevin Cash challenged the ruling; the call was upheld by replay"2016ANA.EVA.regular.comment.csv",8
+
+"ANA201605070",38,"replay,5,giavj001,ANA,randt901,ANA01,,N,M,TBA,C $when Johnny Giavotella was called safe at 1B, Rays manager Kevin Cash challenged the ruling; the call was upheld by replay"2016ANA.EVA.regular.comment.csv",9
+
+"ANA201605080",20,"Angels shortstop Andrelton Simmons left the game due to an injured hand"2016ANA.EVA.regular.comment.csv",10
+
+"ANA201605080",51,"replay,7,millb002,TBA,randt901,ANA01,,N,M,TBA,A $when Logan Forsythe was called out at 2B, Rays manager Kevin Cash challenged the ruling; the call was upheld by replay"2016ANA.EVA.regular.comment.csv",11
+
+"ANA201605110",32,"replay,4,troum001,ANA,davig901,ANA01,,Y,M,SLN,C $when Mike Trout was called safe at 1B, Cardinals manager Mike Matheny challenged the ruling; the call was overturned by replay"2016ANA.EVA.regular.comment.csv",12
+
+"ANA201605120",40,"Angels second baseman Cliff Pennington left the game due to an injured leg"2016ANA.EVA.regular.comment.csv",13
+
+"ANA201605120",71,"replay,7,navad002,ANA,davig901,ANA01,,Y,M,ANA,C $when Daniel Nava was called out at 1B, Angels manager Mike Scioscia challenged the ruling; the call was overturned by replay"2016ANA.EVA.regular.comment.csv",14
+
+"ANA201605200",8,"replay,1,calhk001,ANA,scotd901,ANA01,I,Y,U,,N $Kole Calhoun's fly to RF was touched by a fan who reached over the wall; the ball caromed back onto the field and was ruled in play with Calhoun reaching 2B; crew chief Dale Scott requested a review, which overturned the call to fan interference; Calhoun was awarded 2B"2016ANA.EVA.regular.comment.csv",15
+
+"ANA201605200",25,"ej,santh001,P,tumpj901,Balls and strikes Angels pitcher Hector Santiago ejected by HP umpire John Tumpane"2016ANA.EVA.regular.comment.csv",16
+
+"ANA201605210",72,"ej,escoy001,P,scotd901,Called third strike (Threw helmet) Angels third baseman Yunel Escobar ejected by HP umpire Dale Scott"2016ANA.EVA.regular.comment.csv",17
+
+"ANA201605220",2,"replay,1,machm001,BAL,scotd901,ANA01,,Y,M,BAL,A $when Joey Rickard was called out at 2B, Orioles manager Buck Showalter challenged the ruling; the call was overturned by replay"2016ANA.EVA.regular.comment.csv",18
+
+"ANA201605280",46,"ej,escoy001,P,carav901,Balls and strikes Angels third baseman Yunel Escobar ejected by HP umpire Vic Carapazza"2016ANA.EVA.regular.comment.csv",19
+
+"ANA201605290",17,"Angels third baseman Yunel Escobar left the game due to an injured wrist"2016ANA.EVA.regular.comment.csv",20
+
+"ANA201605290",93,"replay,10,cronc002,ANA,hirsj901,ANA01,,Y,M,HOU,A $when Shane Robinson was called safe at 2B, Houston manager A.J. Hinch challenged the ruling; the call was overturned by replay"2016ANA.EVA.regular.comment.csv",21
+
+"ANA201605290",118,"replay,13,pujoa001,ANA,hirsj901,ANA01,,N,M,HOU,A $when Albert Pujols was called safe at 2B, Astros manager A.J. Hinch challenged the ruling; the call was upheld by replay"2016ANA.EVA.regular.comment.csv",22
+
+"ANA201605310",14,"replay,2,mccaj001,DET,millb901,ANA01,,Y,M,ANA,A $when Cameron Maybin was called safe at 2B, Angels manager Mike Scioscia challenged the ruling; the call was overturned by replay"2016ANA.EVA.regular.comment.csv",23
+
+"ANA201605310",52,"Tigers pitcher Warwick Saupold left the game due to an injured groin"2016ANA.EVA.regular.comment.csv",24
+
+"ANA201606110",17,"replay,3,kipnj001,CLE,danlk901,ANA01,,N,M,ANA,A $when Rajai Davis was called safe at 2B on a pickoff attempt, Angels manager Mike Scioscia challenged the ruling; the call was upheld by replay"2016ANA.EVA.regular.comment.csv",25
+
+"ANA201606120",31,"Indians third baseman Juan Uribe left the game due to an injured groin"2016ANA.EVA.regular.comment.csv",26
+
+"ANA201606120",66,"Angels center fielder Mike Trout left the game due to an injured hand"2016ANA.EVA.regular.comment.csv",27
+
+"ANA201606130",20,"$Trevor Plouffe called for obstruction during the rundown"2016ANA.EVA.regular.comment.csv",28
+
+"ANA201606150",65,"$Yunel Escobar walked on three balls"2016ANA.EVA.regular.comment.csv",29
+
+"ANA201606230",15,"$originally scored as E5, changed to single on 06-28-2016, giving batter RBI"2016ANA.EVA.regular.comment.csv",30
+
+"ANA201606230",77,"umpchange,9,umphome,wolcq901 umpchange,9,ump3b,dimum901 umpchange,9,ump2b,(None) $Jefry Marte let go of his bat on the swing at the first pitch; the bat struck HP Umpire Paul Emmel on the top of his head, drawing blood; Emmel left with a lacerated head; 3B Umpire Quinn Wolcott moved to HP; 2B umpire Mike DiMuro moved to 3B; on the next pitch, Marte made the last out of the game"2016ANA.EVA.regular.comment.csv",31
+
+"ANA201606240",3,"replay,1,vogts001,OAK,carlm901,ANA01,I,N,U,,H $Stephen Vogt's fly to CF was caught by a fan in the front row; acting crew chief Mark Carlson requested a review, which upheld the call by replay"2016ANA.EVA.regular.comment.csv",32
+
+"ANA201606240",68,"replay,8,semim001,OAK,carlm901,ANA01,,N,M,OAK,A $when Marcus Semien was called out at 1B after rounding the bag too far, Athletics manager Bob Melvin challenged the ruling; the call was upheld by replay"2016ANA.EVA.regular.comment.csv",33
+
+"ANA201606260",52,"replay,6,semim001,OAK,carlm901,ANA01,,N,M,OAK,C $when Marcus Semien was called out at 1B, Athletics manager Bob Melvin challenged the ruling; the call was upheld by replay"2016ANA.EVA.regular.comment.csv",34
+
+"ANA201606270",39,"replay,6,valbl001,HOU,davig901,ANA01,O,Y,U,,H $Luis Valbuena's fly to RF struck the yellow line at the top of the wall and caromed back onto the field; the ball was ruled a home run but crew chief Gerry Davis requested a review; the call was overturned to in play and Valbuena awarded 2B by replay"2016ANA.EVA.regular.comment.csv",35
+
+"ANA201606280",9,"replay,1,pujoa001,ANA,davig901,ANA01,,N,M,HOU,A $when Mike Trout was called safe at 2B, Astros manager A.J. Hinch challenged the ruling; the call was upheld by replay"2016ANA.EVA.regular.comment.csv",36
+
+"ANA201606280",23,"replay,3,perec003,ANA,davig901,ANA01,,Y,M,ANA,C $when Carlos Perez was called out at 1B, Angels manager Mike Scioscia challenged the ruling; the call was overturned by replay"2016ANA.EVA.regular.comment.csv",37
+
+"ANA201607180",16,"Angels pitcher Nick Tropeano left the game due to an injured elbow"2016ANA.EVA.regular.comment.csv",38
+
+"ANA201607190",20,"replay,3,belta001,TEX,wintm901,ANA01,,Y,M,TEX,C $when Rougned Odor was called out at 1B, Rangers manager Jeff Banister challenged the ruling; the call was overturned by replay"2016ANA.EVA.regular.comment.csv",39
+
+"ANA201607190",68,"$Albert Pujols was stuck on the head by the pitch"2016ANA.EVA.regular.comment.csv",40
+
+"ANA201607280",3,"replay,1,bogax001,BOS,westj901,ANA01,,Y,M,ANA,A $when Dustin Pedroia was called safe at 2B, Angels manager Mike Scioscia challenged the ruling; the call was overturned by replay"2016ANA.EVA.regular.comment.csv",41
+
+"ANA201607310",38,"ej,farrj001,M,morag901,Called third strike Red Sox Manager John Farrell ejected by HP umpire Gabe Morales"2016ANA.EVA.regular.comment.csv",42
+
+"ANA201608020",12,"replay,2,smolj002,OAK,cedeg901,ANA01,,Y,M,OAK,I $when Jake Smolinski was ruled not to have been hit by a pitch, Athletics manager Bob Melvin challenged the ruling; the call was overturned by replay"2016ANA.EVA.regular.comment.csv",43
+
+"ANA201608040",25,"replay,3,simma001,ANA,cedeg901,ANA01,,N,M,OAK,A $when Albert Pujols was called safe at 3B, Athletics manager Bob Melvin challenged the ruling; the call was upheld by replay"2016ANA.EVA.regular.comment.csv",44
+
+"ANA201608040",65,"ej,davik003,P,coope901,Called third strike Athletics designated hitter Khris Davis ejected by HP umpire Eric Cooper"2016ANA.EVA.regular.comment.csv",45
+
+"ANA201608160",69,"replay,8,gutif001,SEA,kellj901,ANA01,,Y,M,ANA,A $when Nori Aoki was called safe at 2B, Angels manager Mike Scioscia challenged the ruling; the call was overturned by replay"2016ANA.EVA.regular.comment.csv",46
+
+"ANA201608170",30,"$Chris Iannetta's fly to CF was touched by a fan who reached over the wall for fan interference"2016ANA.EVA.regular.comment.csv",47
+
+"ANA201608180",34,"replay,5,aokin001,SEA,kellj901,ANA01,,Y,M,ANA,C $when Nori Aoki was called safe at 1B, Angels manager Mike Scioscia challenged the ruling; the call was overturned by replay"2016ANA.EVA.regular.comment.csv",48
+
+"ANA201608290",22,"Reds left fielder Jose Peraza left the game due to an injured head"2016ANA.EVA.regular.comment.csv",49
+
+"ANA201608300",73,"replay,9,hamib001,CIN,nelsj901,ANA01,,N,M,CIN,O $when Billy Hamilton's ball down the LF line was called foul, Reds manager Bryan Price challenged the ruling; the call was upheld by replay"2016ANA.EVA.regular.comment.csv",50
+
+"ANA201609100",31,"replay,4,andre001,TEX,mealj901,ANA01,,N,M,ANA,I $when Elvis Anrus was ruled to have been hit by a pitch, Angels manager Mike Scioscia challenged the ruling; the call was upheld by replay"2016ANA.EVA.regular.comment.csv",51
+
+"ANA201609100",89,"ej,sciom001,M,wintm901,Balls and strikes Angels Manager Mike Scioscia ejected by HP umpire Mike Winters"2016ANA.EVA.regular.comment.csv",52
+
+"ANA201609110",48,"replay,6,simma001,ANA,mealj901,ANA01,,Y,M,TEX,A $when C.J. Cron was called safe at 2B, Rangers manager Jeff Banister challenged the ruling; the call was overturned by replay"2016ANA.EVA.regular.comment.csv",53
+
+"ANA201609120",49,"$a fan reached over the wall and grabbed the ball in fair territory for interference"2016ANA.EVA.regular.comment.csv",54
+
+"ANA201609120",76,"$Daniel Vogelbach called out on appeal for missing 2B while running 1B to 3B"2016ANA.EVA.regular.comment.csv",55
+
+"ANA201609130",24,"replay,3,perec003,ANA,diazl901,ANA01,,N,M,ANA,C $when Carlos Perez was called out at 1B, Angels manager Mike Scioscia challenged the ruling; the call was upheld by replay"2016ANA.EVA.regular.comment.csv",56
+
+"ANA201609130",35,"replay,5,cruzn002,SEA,diazl901,ANA01,,Y,M,SEA,C $when Nelson Cruz was called out at 1B, Mariners manager Scott Servais challenged the ruling; the call was overturned by replay"2016ANA.EVA.regular.comment.csv",57
+
+"ANA201609140",18,"replay,3,aokin001,SEA,diazl901,ANA01,,Y,M,ANA,C $when Nori Aoki was called safe at 1B, Angels manager Mike Scioscia challenged the ruling; the call was overturned by replay"2016ANA.EVA.regular.comment.csv",58
+
+"ANA201609150",71,"$a fan reached out and touched the ball in foul territory for interference"2016ANA.EVA.regular.comment.csv",59
+
+"ANA201609170",17,"Angels catcher Jett Bandy left the game due to an injured back"2016ANA.EVA.regular.comment.csv",60
+
+"ANA201609170",35,"replay,5,donaj001,TOR,culbf901,ANA01,,N,M,TOR,A $when Devon Travis was called out at 3B, Blue Jays manager John Gibbons challenged the ruling; the call was upheld by replay"2016ANA.EVA.regular.comment.csv",61
+
+"ANA201609180",50,"replay,6,gratj001,ANA,culbf901,ANA01,,N,M,TOR,A $when Rafael Ortega was called safe at 2B, Blue Jays manager John Gibbons challenged the ruling; the call was upheld by replay"2016ANA.EVA.regular.comment.csv",62
+
+"ANA201609260",36,"Angels pitcher Jered Weaver left the game due to an injured back"2016ANA.EVA.regular.comment.csv",63
+
+"ANA201609270",35,"Angels third baseman Yunel Escobar left the game due to an injured arm"2016ANA.EVA.regular.comment.csv",64
+

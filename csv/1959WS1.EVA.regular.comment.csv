@@ -1,61 +1,60 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"WS1195904090",0,"$Vice-President Richard Nixon in attendance"
-"WS1195904090",1,"$Willie Tasby singled on first pitch of the season"
-"WS1195904090",42,"$the first triple play in opening day history"
-"WS1195904260",20,"$Jim Lemon reached over the low fence to make the catch"
-"WS1195905110",42,"$Dick Hyde tracked down Bob Allison's errant throw"
-"WS1195905150",38,"missing play in WS1195905150"
-"WS1195905150",61,"missing play in WS1195905150"
-"WS1195905310",52,"ej,jurgb101,C,hurle901,Call at 2B Senators Coach Billy Jurges ejected by 2B umpire Eddie Hurley"
-"WS1195906130",6,"1:27 rain delay"
-"WS1195906130",24,"$Pedro Ramos struck on his pitching arm by Tito Francona's line drive"
-"WS1195906300",0,"$Vice-President Richard Nixon attended the game"
-"WS1195907140",24,"$45 minute rain delay"
-"WS1195907150",17,"10 minute rain delay"
-"WS1195907150",20,"$Bob Allison rounded 2B too far"
-"WS1195907150",39,"game called after a one hour rain delay due to unplayable conditions in the outfield; two players had batted in the top of the 6th: Lepcio doubled and Harris PH for Bunning and struck out"
-"WS1195907180",2,"missing play in WS1195907180"
-"WS1195907180",36,"$Jerry Lumpe stepped on Roy Sievers foot at 1B; both players left with injuries"
-"WS1195908040",17,"ej,gordj101,M,hurle901,Bench jockeying $Indians manager Gordon ejected by 3B umpire Hurley for bench jockeying"
-"WS1195908052",1,"$Billy Martin suffered a fractured left jaw and cheekbone"
-"WS1195908052",22,"$Lenny Green slid into Vic Power at 3B; Power suffered a sprained right thumb and a spike wound"
-"WS1195908300",42,"Russ Kemmerer left with pulled back muscle"
-"WS1195909050",36,"$Jim Lemon hit two homeruns in the same inning"
-"WS1195909060",15,"ej,gernd101,P,nappl901,Called third strike ej,sullf101,P,nappl901,Called third strike $Red Soxk Gernert and Sullivan, neither in game, ejected by HP umpire Napp for arguing called 3rd strike to White"
-"WS1195909090",7,"Debut game for Dan Dobbek"
-"WS1195909100",62,"Debut game for J.C. Martin"
-"WS1195909100",66,"Debut game for Gary Peters"
-"WS1195909140",45,"Debut game for Jim Proctor"
-"WS1195909140",65,"Debut game for Bob Bruce"
-"WS1195909151",38,"$Johnny Schaive called for interference"
-"WS1195909200",20,"ej,woodg101,P,stewb902,Called third strike Gene Woodling ejected by HP umpire Bob Stewart"
-"WS1195904090",0,"$Vice-President Richard Nixon in attendance"
-"WS1195904090",1,"$Willie Tasby singled on first pitch of the season"
-"WS1195904090",42,"$the first triple play in opening day history"
-"WS1195904260",20,"$Jim Lemon reached over the low fence to make the catch"
-"WS1195905110",42,"$Dick Hyde tracked down Bob Allison's errant throw"
-"WS1195905150",38,"missing play in WS1195905150"
-"WS1195905150",61,"missing play in WS1195905150"
-"WS1195905310",52,"ej,jurgb101,C,hurle901,Call at 2B Senators Coach Billy Jurges ejected by 2B umpire Eddie Hurley"
-"WS1195906130",6,"1:27 rain delay"
-"WS1195906130",24,"$Pedro Ramos struck on his pitching arm by Tito Francona's line drive"
-"WS1195906300",0,"$Vice-President Richard Nixon attended the game"
-"WS1195907140",24,"$45 minute rain delay"
-"WS1195907150",17,"10 minute rain delay"
-"WS1195907150",20,"$Bob Allison rounded 2B too far"
-"WS1195907150",39,"game called after a one hour rain delay due to unplayable conditions in the outfield; two players had batted in the top of the 6th: Lepcio doubled and Harris PH for Bunning and struck out"
-"WS1195907180",2,"missing play in WS1195907180"
-"WS1195907180",36,"$Jerry Lumpe stepped on Roy Sievers foot at 1B; both players left with injuries"
-"WS1195908040",17,"ej,gordj101,M,hurle901,Bench jockeying $Indians manager Gordon ejected by 3B umpire Hurley for bench jockeying"
-"WS1195908052",1,"$Billy Martin suffered a fractured left jaw and cheekbone"
-"WS1195908052",22,"$Lenny Green slid into Vic Power at 3B; Power suffered a sprained right thumb and a spike wound"
-"WS1195908300",42,"Russ Kemmerer left with pulled back muscle"
-"WS1195909050",36,"$Jim Lemon hit two homeruns in the same inning"
-"WS1195909060",15,"ej,gernd101,P,nappl901,Called third strike ej,sullf101,P,nappl901,Called third strike $Red Soxk Gernert and Sullivan, neither in game, ejected by HP umpire Napp for arguing called 3rd strike to White"
-"WS1195909090",7,"Debut game for Dan Dobbek"
-"WS1195909100",62,"Debut game for J.C. Martin"
-"WS1195909100",66,"Debut game for Gary Peters"
-"WS1195909140",45,"Debut game for Jim Proctor"
-"WS1195909140",65,"Debut game for Bob Bruce"
-"WS1195909151",38,"$Johnny Schaive called for interference"
-"WS1195909200",20,"ej,woodg101,P,stewb902,Called third strike Gene Woodling ejected by HP umpire Bob Stewart"
+"WS1195904090",0,"$Vice-President Richard Nixon in attendance"FILENAME_TX","LINE_NUMBER_CT"
+
+"WS1195904090",1,"$Willie Tasby singled on first pitch of the season"1959WS1.EVA.regular.comment.csv",2
+
+"WS1195904090",42,"$the first triple play in opening day history"1959WS1.EVA.regular.comment.csv",3
+
+"WS1195904260",20,"$Jim Lemon reached over the low fence to make the catch"1959WS1.EVA.regular.comment.csv",4
+
+"WS1195905110",42,"$Dick Hyde tracked down Bob Allison's errant throw"1959WS1.EVA.regular.comment.csv",5
+
+"WS1195905150",38,"missing play in WS1195905150"1959WS1.EVA.regular.comment.csv",6
+
+"WS1195905150",61,"missing play in WS1195905150"1959WS1.EVA.regular.comment.csv",7
+
+"WS1195905310",52,"ej,jurgb101,C,hurle901,Call at 2B Senators Coach Billy Jurges ejected by 2B umpire Eddie Hurley"1959WS1.EVA.regular.comment.csv",8
+
+"WS1195906130",6,"1:27 rain delay"1959WS1.EVA.regular.comment.csv",9
+
+"WS1195906130",24,"$Pedro Ramos struck on his pitching arm by Tito Francona's line drive"1959WS1.EVA.regular.comment.csv",10
+
+"WS1195906300",0,"$Vice-President Richard Nixon attended the game"1959WS1.EVA.regular.comment.csv",11
+
+"WS1195907140",24,"$45 minute rain delay"1959WS1.EVA.regular.comment.csv",12
+
+"WS1195907150",17,"10 minute rain delay"1959WS1.EVA.regular.comment.csv",13
+
+"WS1195907150",20,"$Bob Allison rounded 2B too far"1959WS1.EVA.regular.comment.csv",14
+
+"WS1195907150",39,"game called after a one hour rain delay due to unplayable conditions in the outfield; two players had batted in the top of the 6th: Lepcio doubled and Harris PH for Bunning and struck out"1959WS1.EVA.regular.comment.csv",15
+
+"WS1195907180",2,"missing play in WS1195907180"1959WS1.EVA.regular.comment.csv",16
+
+"WS1195907180",36,"$Jerry Lumpe stepped on Roy Sievers foot at 1B; both players left with injuries"1959WS1.EVA.regular.comment.csv",17
+
+"WS1195908040",17,"ej,gordj101,M,hurle901,Bench jockeying $Indians manager Gordon ejected by 3B umpire Hurley for bench jockeying"1959WS1.EVA.regular.comment.csv",18
+
+"WS1195908052",1,"$Billy Martin suffered a fractured left jaw and cheekbone"1959WS1.EVA.regular.comment.csv",19
+
+"WS1195908052",22,"$Lenny Green slid into Vic Power at 3B; Power suffered a sprained right thumb and a spike wound"1959WS1.EVA.regular.comment.csv",20
+
+"WS1195908300",42,"Russ Kemmerer left with pulled back muscle"1959WS1.EVA.regular.comment.csv",21
+
+"WS1195909050",36,"$Jim Lemon hit two homeruns in the same inning"1959WS1.EVA.regular.comment.csv",22
+
+"WS1195909060",15,"ej,gernd101,P,nappl901,Called third strike ej,sullf101,P,nappl901,Called third strike $Red Soxk Gernert and Sullivan, neither in game, ejected by HP umpire Napp for arguing called 3rd strike to White"1959WS1.EVA.regular.comment.csv",23
+
+"WS1195909090",7,"Debut game for Dan Dobbek"1959WS1.EVA.regular.comment.csv",24
+
+"WS1195909100",62,"Debut game for J.C. Martin"1959WS1.EVA.regular.comment.csv",25
+
+"WS1195909100",66,"Debut game for Gary Peters"1959WS1.EVA.regular.comment.csv",26
+
+"WS1195909140",45,"Debut game for Jim Proctor"1959WS1.EVA.regular.comment.csv",27
+
+"WS1195909140",65,"Debut game for Bob Bruce"1959WS1.EVA.regular.comment.csv",28
+
+"WS1195909151",38,"$Johnny Schaive called for interference"1959WS1.EVA.regular.comment.csv",29
+
+"WS1195909200",20,"ej,woodg101,P,stewb902,Called third strike Gene Woodling ejected by HP umpire Bob Stewart"1959WS1.EVA.regular.comment.csv",30
+

@@ -1,47 +1,46 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"OAK200604030",46,"Athletics shortstop Bobby Crosby left the game with a lacerated finger, suffered when tagging Robinson Cano on caught stealing in 3rd inning"
-"OAK200604160",70,"ej,paytj001,P,rapue901,Balls and strikes Athletics right fielder Jay Payton ejected by HP umpire Ed Rapuano"
-"OAK200604200",56,"$Dan Johnson called for interference"
-"OAK200604210",37,"Athletics shortstop Bobby Crosby left the game due to an injured arm"
-"OAK200604210",76,"$Jeff Mathis called for interference"
-"OAK200604230",13,"Angels shortstop Maicer Izturis left the game due to an injured neck/shoulder"
-"OAK200605060",62,"Athletics pitcher Justin Duchscherer left the game due to an injured elbow"
-"OAK200605060",71,"after Johnson was forced at second, Payton was in  rundown between 2nd and 3rd. He slid safely back into 2nd as Scutaro slid in as well. Both were tagged on the base, Scutaro was out"
-"OAK200605200",10,"home run #714 of career to tie Ruth"
-"OAK200606040",27,"Athletics designated hitter Frank Thomas left the game due to an injured foot/ankle"
-"OAK200606140",26,"Athletics designated hitter Frank Thomas left the game due to an injured leg"
-"OAK200607090",58,"ej,perrg001,C,coope901,Called third strike on Kendall Athletics Batting Coach Gerald Perry ejected by HP umpire Eric Cooper"
-"OAK200607240",40,"$Kendall overran pop up which bounced out of his glove to Swisher"
-"OAK200607250",72,"ej,duchj001,P,wegnm901,Balls and strikes after removal Athletics pitcher Justin Duchscherer ejected by HP umpire Mark Wegner; as he was taken out. Duchscherer went straight to Wegner and started yelling"
-"OAK200607260",50,"Athletics shortstop Bobby Crosby left the game due to an injured back"
-"OAK200608080",38,"$Mark Ellis called for interference"
-"OAK200608080",80,"$Mark DeRosa called for interference"
-"OAK200608090",60,"ej,bradm001,P,schrp901,Balls and strikes Athletics right fielder Milton Bradley ejected by HP umpire Paul Schrieber"
-"OAK200608300",5,"$Career strikeout 3000 for Curt Schilling"
-"OAK200609020",23,"$HP umpire Marvin Hudson hit on head by bat on follow-through and left after the inning; he was taken to the hospital for an exam; Bob Davidson moved from 2B to the plate"
-"OAK200609020",25,"umpchange,4,umphome,davib902"
-"OAK200609020",25,"Athletics center fielder Mark Kotsay left the game due to an injured back"
-"OAK200609220",85,"ej,bradm001,P,kulpr901,Called third strike Athletics right fielder Milton Bradley ejected by HP umpire Ron Kulpa"
-"OAK200604030",46,"Athletics shortstop Bobby Crosby left the game with a lacerated finger, suffered when tagging Robinson Cano on caught stealing in 3rd inning"
-"OAK200604160",70,"ej,paytj001,P,rapue901,Balls and strikes $Payton ejected by HP umpire Rapuano for arguing balls and strikes"
-"OAK200604200",56,"$Dan Johnson called for interference"
-"OAK200604210",37,"Athletics shortstop Bobby Crosby left the game due to an injured arm"
-"OAK200604210",76,"$Jeff Mathis called for interference"
-"OAK200604230",13,"Angels shortstop Maicer Izturis left the game due to an injured neck/shoulder"
-"OAK200605060",62,"Athletics pitcher Justin Duchscherer left the game due to an injured elbow"
-"OAK200605060",71,"after Johnson was forced at second, Payton was in  rundown between 2nd and 3rd. He slid safely back into 2nd as Scutaro slid in as well. Both were tagged on the base, Scutaro was out"
-"OAK200605200",10,"home run #714 of career to tie Ruth"
-"OAK200606040",27,"Athletics designated hitter Frank Thomas left the game due to an injured foot/ankle"
-"OAK200606140",26,"Athletics designated hitter Frank Thomas left the game due to an injured leg"
-"OAK200607090",58,"ej,perrg001,C,coope901,Called third strike on Kendall Athletics Batting Coach Gerald Perry ejected by HP umpire Eric Cooper"
-"OAK200607240",40,"$Kendall overran pop up which bounced out of his glove to Swisher"
-"OAK200607250",72,"ej,duchj001,P,wegnm901,Balls and strikes after removal Athletics pitcher Justin Duchscherer ejected by HP umpire Mark Wegner; as he was taken out. Duchscherer went straight to Wegner and started yelling"
-"OAK200607260",50,"Athletics shortstop Bobby Crosby left the game due to an injured back"
-"OAK200608080",38,"$Mark Ellis called for interference"
-"OAK200608080",80,"$Mark DeRosa called for interference"
-"OAK200608090",60,"ej,bradm001,P,schrp901,Balls and strikes Athletics right fielder Milton Bradley ejected by HP umpire Paul Schrieber"
-"OAK200608300",5,"$Career strikeout 3000 for Curt Schilling"
-"OAK200609020",23,"$HP umpire Marvin Hudson hit on head by bat on follow-through and left after the inning; he was taken to the hospital for an exam; Bob Davidson moved from 2B to the plate"
-"OAK200609020",25,"umpchange,4,umphome,davib902"
-"OAK200609020",25,"Athletics center fielder Mark Kotsay left the game due to an injured back"
-"OAK200609220",85,"ej,bradm001,P,kulpr901,Called third strike Athletics right fielder Milton Bradley ejected by HP umpire Ron Kulpa"
+"OAK200604030",46,"Athletics shortstop Bobby Crosby left the game with a lacerated finger, suffered when tagging Robinson Cano on caught stealing in 3rd inning"FILENAME_TX","LINE_NUMBER_CT"
+
+"OAK200604160",70,"ej,paytj001,P,rapue901,Balls and strikes $Payton ejected by HP umpire Rapuano for arguing balls and strikes"2006OAK.EVA.regular.comment.csv",2
+
+"OAK200604200",56,"$Dan Johnson called for interference"2006OAK.EVA.regular.comment.csv",3
+
+"OAK200604210",37,"Athletics shortstop Bobby Crosby left the game due to an injured arm"2006OAK.EVA.regular.comment.csv",4
+
+"OAK200604210",76,"$Jeff Mathis called for interference"2006OAK.EVA.regular.comment.csv",5
+
+"OAK200604230",13,"Angels shortstop Maicer Izturis left the game due to an injured neck/shoulder"2006OAK.EVA.regular.comment.csv",6
+
+"OAK200605060",62,"Athletics pitcher Justin Duchscherer left the game due to an injured elbow"2006OAK.EVA.regular.comment.csv",7
+
+"OAK200605060",71,"after Johnson was forced at second, Payton was in  rundown between 2nd and 3rd. He slid safely back into 2nd as Scutaro slid in as well. Both were tagged on the base, Scutaro was out"2006OAK.EVA.regular.comment.csv",8
+
+"OAK200605200",10,"home run #714 of career to tie Ruth"2006OAK.EVA.regular.comment.csv",9
+
+"OAK200606040",27,"Athletics designated hitter Frank Thomas left the game due to an injured foot/ankle"2006OAK.EVA.regular.comment.csv",10
+
+"OAK200606140",26,"Athletics designated hitter Frank Thomas left the game due to an injured leg"2006OAK.EVA.regular.comment.csv",11
+
+"OAK200607090",58,"ej,perrg001,C,coope901,Called third strike on Kendall Athletics Batting Coach Gerald Perry ejected by HP umpire Eric Cooper"2006OAK.EVA.regular.comment.csv",12
+
+"OAK200607240",40,"$Kendall overran pop up which bounced out of his glove to Swisher"2006OAK.EVA.regular.comment.csv",13
+
+"OAK200607250",72,"ej,duchj001,P,wegnm901,Balls and strikes after removal Athletics pitcher Justin Duchscherer ejected by HP umpire Mark Wegner; as he was taken out. Duchscherer went straight to Wegner and started yelling"2006OAK.EVA.regular.comment.csv",14
+
+"OAK200607260",50,"Athletics shortstop Bobby Crosby left the game due to an injured back"2006OAK.EVA.regular.comment.csv",15
+
+"OAK200608080",38,"$Mark Ellis called for interference"2006OAK.EVA.regular.comment.csv",16
+
+"OAK200608080",80,"$Mark DeRosa called for interference"2006OAK.EVA.regular.comment.csv",17
+
+"OAK200608090",60,"ej,bradm001,P,schrp901,Balls and strikes Athletics right fielder Milton Bradley ejected by HP umpire Paul Schrieber"2006OAK.EVA.regular.comment.csv",18
+
+"OAK200608300",5,"$Career strikeout 3000 for Curt Schilling"2006OAK.EVA.regular.comment.csv",19
+
+"OAK200609020",23,"$HP umpire Marvin Hudson hit on head by bat on follow-through and left after the inning; he was taken to the hospital for an exam; Bob Davidson moved from 2B to the plate"2006OAK.EVA.regular.comment.csv",20
+
+"OAK200609020",25,"umpchange,4,umphome,davib902"2006OAK.EVA.regular.comment.csv",21
+
+"OAK200609020",25,"Athletics center fielder Mark Kotsay left the game due to an injured back"2006OAK.EVA.regular.comment.csv",22
+
+"OAK200609220",85,"ej,bradm001,P,kulpr901,Called third strike Athletics right fielder Milton Bradley ejected by HP umpire Ron Kulpa"2006OAK.EVA.regular.comment.csv",23
+

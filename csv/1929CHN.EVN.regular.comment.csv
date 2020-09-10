@@ -1,740 +1,852 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"CHN192904160",0,"Cold, wintry breeze"
-"CHN192904160",1,"Easy roller was juggled and the throw was wild"
-"CHN192904160",5,"Into the RF crowd"
-"CHN192904160",7,"Wilson's throw to the plate hit Traynor's leg"
-"CHN192904160",11,"Off Sheely's glove"
-"CHN192904160",13,"Wonderful leaping stop of high bounder"
-"CHN192904160",14,"Off Beck's glove"
-"CHN192904160",24,"Into the crowd at the end of LF line"
-"CHN192904160",32,"Hornsby got another tremendous ovation as he came to bat"
-"CHN192904160",34,"Pretty stop of hot grounder"
-"CHN192904160",36,"During AB, Grantham hit foul home run over RF fence"
-"CHN192904160",39,"Bartell: spectacular play on slow bounder; dashed in and scooped the ball to Sheely."
-"CHN192904160",41,"To the edge of the LCF crowd"
-"CHN192904160",45,"At the edge of the crowd"
-"CHN192904160",68,"Into crowd at end of RF line"
-"CHN192904160",70,"Close to Pirate dugout"
-"CHN192904160",73,"Off Grimes' pitching hand.  Mgr Bush and several players gathered around the box to inspect the damage but Grimes insisted on finishing the game."
-"CHN192904160",78,"Into LF crowd"
-"CHN192904170",10,"The ball almost went over the fence"
-"CHN192904170",11,"Into RF bleachers"
-"CHN192904170",32,"Over RF screen"
-"CHN192904170",34,"Bartell: pretty catch"
-"CHN192904170",43,"Off Traynor's ankle"
-"CHN192904170",51,"Texas Leaguer"
-"CHN192904170",55,"The crowd booed"
-"CHN192904170",58,"Juggled easy roller"
-"CHN192904170",59,"Close play"
-"CHN192904170",66,"Beck: pretty stop; snappy scoop of grounder"
-"CHN192904170",73,"Into RCF bleachers"
-"CHN192904170",75,"Easy roller; Bartell/Adams late covering 2B"
-"CHN192904180",24,"Cuyler: spectacular, leaping catch"
-"CHN192904180",31,"Far back into RF bleachers"
-"CHN192904180",45,"Into LCF bleachers"
-"CHN192904180",49,"Low throw to 2B"
-"CHN192904180",81,"Beck: wonderful stop"
-"CHN192904220",0,"Crowd included about 10,000 Ladies' Day guests"
-"CHN192904220",3,"Past English who knocked it down"
-"CHN192904220",8,"Bunted on the 3rd strike"
-"CHN192904220",10,"Alexander: leaping stop"
-"CHN192904220",12,"Past Hornsby"
-"CHN192904220",14,"Boos & cheers greeted Alexander as he came to bat"
-"CHN192904220",29,"Over LF brick wall, well into Waveland Avenue. Hornsby was given a great ovation for his 6th straight hit vs. Cardinals (7th straight overall)."
-"CHN192904220",30,"Holm: sensational diving catch of low line drive"
-"CHN192904220",31,"Off Haney's glove"
-"CHN192904220",41,"Just out of Holm's reach"
-"CHN192904220",42,"Threw wild over 1B"
-"CHN192904220",47,"Doubthit made a great run for it; he turned and got his glove on it, but dropped it."
-"CHN192904220",54,"Slow roller"
-"CHN192904220",62,"Cuyler: running catch"
-"CHN192904230",0,"Weather: dark and cold"
-"CHN192904230",7,"Singled to CF on a slow ball"
-"CHN192904230",16,"Frisch: nice stop"
-"CHN192904230",20,"1st Cardinal run in 21 innings"
-"CHN192904230",21,"Grimm: great barehand stop of hot smash"
-"CHN192904230",37,"$Gonzalez injured a finger"
-"CHN192904230",39,"Off Beck's glove"
-"CHN192904230",44,"Grace's ML debut"
-"CHN192904230",45,"$Grace injured his finger on the 2nd ball pitched Angley's ML debut"
-"CHN192904230",54,"Off English's glove"
-"CHN192904230",55,"Aided by Angley's low throw"
-"CHN192904230",65,"Chick's 1st hit in 12 times at bat"
-"CHN192904230",68,"Hit & run"
-"CHN192904230",69,"Squeeze play"
-"CHN192904230",84,"Through Gelbert"
-"CHN192905170",14,"Spectacular diving stop of hot smash"
-"CHN192905170",25,"Perfect bunt"
-"CHN192905170",43,"Deflected by Donahue"
-"CHN192905170",56,"Into RF bleachers"
-"CHN192905170",58,"Into RF bleachers"
-"CHN192905170",74,"Easy grounder got through Hornsby"
-"CHN192905180",0,"Weather: bad, wintry winds blowing from the north"
-"CHN192905180",5,"Hit 2B bag"
-"CHN192905180",25,"Past 1B"
-"CHN192905180",49,"Gonzalez injured his hand on a foul by Stripp"
-"CHN192905180",53,"Guessing fielders"
-"CHN192905180",54,"Guessing B-2"
-"CHN192905180",59,"fielders from site box"
-"CHN192905190",0,"Weather: Cold, raw blasts of wind which whistled across Wrigley Field to the discomfort of the fans."
-"CHN192905190",1,"Clever somersault catch"
-"CHN192905190",6,"Great pickup and running toss"
-"CHN192905190",19,"Over Wilson's head"
-"CHN192905190",20,"Wind blew pop fly out of Grimm's reach for a lucky 2-bagger."
-"CHN192905190",32,"Bounced past Bartell"
-"CHN192905190",39,"Between Grantham's ankles"
-"CHN192905190",44,"Hit & run"
-"CHN192905190",48,"L.Waner attempted a shoestring catch"
-"CHN192905190",48,"Hargreaves bruised a finger in stopping a wide pitch."
-"CHN192905190",52,"1-handed catch"
-"CHN192905200",15,"Knocked down smash"
-"CHN192905200",19,"Through McMillan"
-"CHN192905200",26,"Running catch in front of the bleachers"
-"CHN192905200",47,"Somersaulting catch"
-"CHN192905200",56,"Hot smash off Grantham's glove"
-"CHN192905200",59,"Close play"
-"CHN192905200",67,"To LCF fence"
-"CHN192905200",71,"Past English"
-"CHN192905210",0,"Pie Traynor was out of the lineup with a sore shoulder"
-"CHN192905210",2,"Fine stop of hard smash"
-"CHN192905210",6,"To LF bleachers"
-"CHN192905210",7,"Stroner's throw hit Cuyler in the back"
-"CHN192905210",12,"Off Hornsby's glove"
-"CHN192905210",23,"To RF fence"
-"CHN192905210",48,"Off Grantham's glove"
-"CHN192905210",51,"Robbed of hit by great running catch"
-"CHN192905210",52,"High over LCF wall"
-"CHN192905210",61,"Off Stroner's glove"
-"CHN192905210",64,"Sharply hit; Sheely fumbled it slightly then threw home too late."
-"CHN192906050",0,"Weather: chilly lake breeze Trader Horne's only ML start"
-"CHN192906050",5,"Wilson fumbled"
-"CHN192906060",0,"Mild weather, with a Kansas wind that brings the home runs."
-"CHN192906060",7,"Cuyler lost it in the sun and it fell between him and Wilson."
-"CHN192906060",8,"The throw home trapped Bressler, but he beat Grace's throw back to 3B."
-"CHN192906060",30,"J.Moore fumbled"
-"CHN192906060",53,"Into RF bleachers"
-"CHN192906060",63,"Into CF bleachers"
-"CHN192906070",0,"Ladies Day; there must have been about 10,000 women who got in free. Weather: frigid breezes blew from northeast"
-"CHN192906070",18,"Into RF bleachers"
-"CHN192906070",20,"Gilbert let Herman's perfect throw get past him"
-"CHN192906070",53,"Into RF bleachers"
-"CHN192906070",64,"Cy Moore's ML debut"
-"CHN192906100",33,"Hit and Run"
-"CHN192906100",46,"Ball bounced into the bleachers"
-"CHN192906100",52,"Grace threw his bat at the ball"
-"CHN192906170",3,"Cuyler and Wilson misjudged the fly"
-"CHN192906170",14,"Cuyler juggled it and claimed he caught it; Cubs argued at length with Ump Rigler."
-"CHN192906170",40,"Attempted hit and run play"
-"CHN192906170",44,"Wilson: spectacular 1-hand running catch"
-"CHN192906170",47,"Bottomley: 1-hand catch"
-"CHN192906170",48,"Texas Leaguer"
-"CHN192906170",52,"McMillan missed Gonzales' throw"
-"CHN192906170",57,"Over LF fence"
-"CHN192906170",62,"Orsatti: running catch"
-"CHN192906170",76,"Over RF wall"
-"CHN192906180",5,"Hornsby: good stop"
-"CHN192906180",6,"High throw"
-"CHN192906180",10,"Into LCF bleachers"
-"CHN192906180",14,"Over RF fence"
-"CHN192906180",17,"Smith was tagged"
-"CHN192906180",45,"Wilson held on after bumping into RCF wall"
-"CHN192906180",47,"Into RF bleachers"
-"CHN192906180",57,"Into RF seats"
-"CHN192906180",79,"Over LF wall"
-"CHN192906180",83,"Off Grimm's glove to Hornsby"
-"CHN192906191",17,"After the 2nd inning attendance had increased to 40,000. Rope were stretched in LF for the overflow crowd."
-"CHN192906191",24,"Over RF fence"
-"CHN192906191",36,"Orsatti dropped it but ruled double"
-"CHN192906191",42,"English: good stop"
-"CHN192906191",49,"Hornsby collided with Cuyler but hung on"
-"CHN192906191",53,"Into LF crowd"
-"CHN192906191",56,"Orsatti dropped it after crashing into RF screen. Game delayed to attend to Orsatti."
-"CHN192906191",59,"Attempted double steal"
-"CHN192906191",77,"Bottomley: leaping catch"
-"CHN192906192",0,"Overflow crowd behind ropes in LF"
-"CHN192906192",6,"Into LF crowd"
-"CHN192906192",22,"Through SS"
-"CHN192906192",34,"BOUNCE HR, into box seats in RF"
-"CHN192906192",43,"Into LF crowd"
-"CHN192906192",48,"Into LF crowd"
-"CHN192906192",51,"Into LF crowd"
-"CHN192906192",60,"High dropped throw"
-"CHN192906200",2,"English: good stop"
-"CHN192906200",7,"Into RF seats"
-"CHN192906200",18,"Roettger lost it in the sun"
-"CHN192906200",25,"Smith fumbled throw home"
-"CHN192906200",38,"Into RF seats"
-"CHN192906200",45,"Nehf deflected it"
-"CHN192906200",47,"Into RF bleachers"
-"CHN192906200",55,"Over Beck"
-"CHN192906230",6,"Late throw to 1B"
-"CHN192906230",7,"Deflected by Meine; whale of a play by Grantham"
-"CHN192906230",17,"Into LF crowd"
-"CHN192906230",23,"Hit in the face and fell beside the plate.  The players surrounded him and he finally arose and was escorted to the bench where the bleeding soon ceased upon application of cold water.  About 5 minutes after the mishap he was on 1B. After the game a surgical examination disclosed a fracture in the upper part of the nose where the bone is quite thin. He was in considerable pain."
-"CHN192906230",30,"Into LF crowd"
-"CHN192906230",38,"Scratched off Traynor's glove"
-"CHN192906230",41,"Over CF crowd"
-"CHN192906230",50,"Comorosky fumbled"
-"CHN192906230",53,"A collision at the plate knocked the ball out of Hargreaves' glove and injured the catcher."
-"CHN192906230",58,"To the end of the foul line"
-"CHN192906230",62,"Into RF crowd"
-"CHN192906230",63,"Off Traynor's glove"
-"CHN192906230",72,"Into the crowd back of LCF"
-"CHN192906230",73,"Lightening throw to the plate"
-"CHN192906230",84,"A little grounder to the box; Nehf beat him in a race to 1B"
-"CHN192906240",0,"Light rain was falling at 1:00, but an hour later the rain was over and the gates were opened. Threatening weather kept attendance down. Cubs were in a bad way for pitchers, but sent Charlie Root to the slab though he pitched half a game two days ago."
-"CHN192906240",29,"Into RF bleachers"
-"CHN192906240",33,"Over RCF fence"
-"CHN192906240",48,"Into LF stands"
-"CHN192906240",66,"Into RF bleachers"
-"CHN192907230",7,"Great stop by McMillan of slow roller; Grimm made spectacular catch of McMillan's low wide throw."
-"CHN192907230",9,"Hot grounder"
-"CHN192907230",32,"'The attendance has now reached 35,000'"
-"CHN192907230",39,"Off Root's glove"
-"CHN192907230",51,"Against screen of RF bleachers"
-"CHN192907230",54,"McMillian attempted to score on a short passed ball"
-"CHN192907230",61,"Leaping 1-hand catch"
-"CHN192907250",7,"CDN coverage ended here"
-"CHN192907250",9,"Into RF bleachers"
-"CHN192907250",11,"Running catch"
-"CHN192907250",27,"Through Reese"
-"CHN192907250",29,"Reese knocked down the smash"
-"CHN192907250",37,"Close play"
-"CHN192907250",52,"Past Grimm"
-"CHN192907250",60,"Into LCF bleachers"
-"CHN192907250",63,"Past Hornsby"
-"CHN192907250",76,"Bush smuggled the smash"
-"CHN192908060",0,"Ladies' Day; a half-hour before game time all seats were filled.  The overflow crowd was allowed on the field; a hit into any part of the overflow crowd went as a two-bagger."
-"CHN192908060",10,"Over Cuyler's head, the ball dropping into the crowd, but it was difficult for the umpires to see if the ball had cleared the screen in front of the right field bleachers.  Hendrick was stopped at 3B by Ump Moran.  Immediately the Dodgers rushed off their bench claiming that the hit cleared the screen for a home run.  There was a long argument, but the Dodgers' kick was in vain."
-"CHN192908060",12,"Bissonette overslid 3B"
-"CHN192908060",16,"Into LF crowd"
-"CHN192908060",17,"Through English's legs"
-"CHN192908060",25,"Into RF crowd"
-"CHN192908060",28,"Knocked down low line drive"
-"CHN192908060",31,"Spectacular diving catch"
-"CHN192908060",41,"Threw to Dodgers bench"
-"CHN192908060",44,"Into RF crowd"
-"CHN192908060",45,"Great stop"
-"CHN192908060",51,"'Cuyler sent the crowd into an uproar when he singled past Moore, scoring Wilson with the tying run.  Wilson beat Hendrick's perfect throw to the plate by a narrow margin...'"
-"CHN192908060",52,"Into RCF crowd"
-"CHN192908060",58,"Nice running catch"
-"CHN192908060",59,"Into LF crowd"
-"CHN192908060",60,"Into RF crowd"
-"CHN192908060",62,"Might be Penner's 1st ML appearance in 13 years!"
-"CHN192908060",65,"Over RF screen"
-"CHN192908260",0,"'Before the game Cliff Heathcote was presented with a specially made ukulele.  Hack Wilson was presented with a large frosted cake by some young lady dressed in red, white, and blue.'"
-"CHN192908260",3,"Taylor let Heathcote's throw get past him"
-"CHN192908260",5,"When Kelly tried for 2B and drew a throw, Walker tried to score."
-"CHN192908260",11,"Slow roller"
-"CHN192908260",14,"Ripped a single off Dressen's glove"
-"CHN192908260",20,"Broken bat single"
-"CHN192908260",22,"Attempted double steal"
-"CHN192908260",25,"Close to the fence"
-"CHN192908260",30,"Into RF bleachers"
-"CHN192908260",51,"To the box seats"
-"CHN192908260",52,"Close play"
-"CHN192908260",54,"Great stop by Pittenger"
-"CHN192908260",57,"Against LF bleachers"
-"CHN192908260",60,"Past McMillan"
-"CHN192908260",70,"Baseball-Reference.com writes, 'In the eighth inning of a 5-5 game at Wrigley Field, Cubs 3B Norm McMillan hits a line drive down the LF line with the bases loaded. Reds LF Evar Swanson, shaded toward center, can't find the ball, which he sees bounce off a gutter in foul territory. McMillan circles the bases and four runs score. Later, Cubs relief P Ken Penner picks up his jacket in the bullpen and discovers the ball in his right sleeve.'"
-"CHN192908260",71,"Off Ford's glove"
-"CHN192908270",6,"Off RF screen"
-"CHN192908270",19,"Luque tagged him"
-"CHN192908270",22,"Neat running catch"
-"CHN192908270",25,"Into RF runway"
-"CHN192908270",58,"Snappy DP"
-"CHN192909010",34,"Into crowd on field."
-"CHN192909010",50,"Hit and run."
-"CHN192909021",10,"Pop fell just out of Frisch's reach, but Orsatti got force"
-"CHN192909021",13,"English: fine stop"
-"CHN192909021",14,"Over Wilson"
-"CHN192909021",15,"Off LCF screen"
-"CHN192909021",22,"Over Wilson"
-"CHN192909021",23,"Hornsby: bare-handed stop"
-"CHN192909021",24,"Off Malone's glove"
-"CHN192909021",30,"Into RF seats Time was taken to clear field of straw hats thrown on the field by jubilant fans."
-"CHN192909021",32,"Off RF screen"
-"CHN192909021",41,"$McMillan was trapped when English missed bunt"
-"CHN192909021",67,"Into RF seats"
-"CHN192909021",91,"Off McMillan's glove"
-"CHN192909022",1,"Low throw"
-"CHN192909022",5,"Into CF crowd"
-"CHN192909022",7,"Off Carlson's glove"
-"CHN192909022",25,"Into RF seats; a straw hat shower followed"
-"CHN192909022",26,"Frisch: good catch"
-"CHN192909022",35,"Sherdel missed bunt attempt"
-"CHN192909022",37,"Off McMillan's glove"
-"CHN192909022",44,"Into LF crowd"
-"CHN192909022",47,"Into RF bleachers"
-"CHN192909022",50,"Into LF crowd"
-"CHN192909022",52,"Into LCF crowd"
-"CHN192909022",53,"Douthit got a glove on it"
-"CHN192909022",66,"Into CF crowd"
-"CHN192909022",79,"English: good stop of hard smash"
-"CHN192909022",82,"Into LF crowd"
-"CHN192909022",89,"Taylor overran 2B"
-"CHN192909022",91,"Off Bush's glove"
-"CHN192909110",58,"arbitrary 8 to 9"
-"CHN192909140",10,"Over English's head"
-"CHN192909140",23,"Running catch in CF"
-"CHN192909140",42,"Herman had passed 2B as Wilson caught the fly ball, but in returning to 1B he made a shortcut and forgot to touch 2B."
-"CHN192909140",50,"BOUNCE HR, over RF screen fence"
-"CHN192909150",12,"Herman misjudged ball."
-"CHN192909150",15,"Frederick misjudged ball."
-"CHN192909150",17,"Not clear when Henline entered."
-"CHN192909150",58,"Scorecard has 4 outs for inning."
-"CHN192909171",9,"Great 1-hand stop"
-"CHN192909171",16,"Attempted double steal"
-"CHN192909171",19,"Frederick's 50th double tied Paul Waner's NL record established last season."
-"CHN192909171",34,"Running catch"
-"CHN192909171",36,"Over E.Moore's head"
-"CHN192909171",38,"Herman threw into the Cubs' bench"
-"CHN192909171",47,"Warner collided with Taylor at the plate.  The catcher's thumbnail of his throwing hand was split and the second joint of his thumb was sprained."
-"CHN192909171",53,"IPHR; against the screen in front of CF bleachers. The previous pitch to Cuyler was called a ball and Vance kicked, claiming it should have been the 3rd strike."
-"CHN192909171",63,"Running catch"
-"CHN192909171",81,"Blake replaced Cvengros with the count 1-1"
-"CHN192909190",5,"High hard bounder"
-"CHN192909190",31,"Malone knocked down the smash with his bare hand and threw him out from a sitting position."
-"CHN192909190",37,"Pretty catch at edge of box seats"
-"CHN192909190",38,"Texas Leaguer"
-"CHN192909190",55,"Sharp bounder over McMillan's head"
-"CHN192909190",72,"Hard smash down 3B line"
-"CHN192909210",3,"Against LCF bleachers"
-"CHN192909210",4,"Slow roller"
-"CHN192909210",5,"Galloping catch"
-"CHN192909210",7,"Through SS"
-"CHN192909210",10,"Through Jackson"
-"CHN192909210",51,"Hot smash off Terry's glove"
-"CHN192909210",61,"Into RF bleachers; Ott's 40th."
-"CHN192909210",64,"Past Hornsby"
-"CHN192909210",70,"Down 1B line"
-"CHN192909210",71,"Through Tolson"
-"CHN192909280",28,"Drive into RF corner bounced over the screen."
-"CHN192909280",55,"$Critz fielded a hot grounder and beat the batter to first."
-"CHN192909280",61,"Fifteen minute rain delay"
-"CHN192904160",0,"Cold, wintry breeze"
-"CHN192904160",1,"Easy roller was juggled and the throw was wild"
-"CHN192904160",5,"Into the RF crowd"
-"CHN192904160",7,"Wilson's throw to the plate hit Traynor's leg"
-"CHN192904160",11,"Off Sheely's glove"
-"CHN192904160",13,"Wonderful leaping stop of high bounder"
-"CHN192904160",14,"Off Beck's glove"
-"CHN192904160",24,"Into the crowd at the end of LF line"
-"CHN192904160",32,"Hornsby got another tremendous ovation as he came to bat"
-"CHN192904160",34,"Pretty stop of hot grounder"
-"CHN192904160",36,"During AB, Grantham hit foul home run over RF fence"
-"CHN192904160",39,"Bartell: spectacular play on slow bounder; dashed in and scooped the ball to Sheely."
-"CHN192904160",41,"To the edge of the LCF crowd"
-"CHN192904160",45,"At the edge of the crowd"
-"CHN192904160",68,"Into crowd at end of RF line"
-"CHN192904160",70,"Close to Pirate dugout"
-"CHN192904160",73,"Off Grimes' pitching hand.  Mgr Bush and several players gathered around the box to inspect the damage but Grimes insisted on finishing the game."
-"CHN192904160",78,"Into LF crowd"
-"CHN192904170",10,"The ball almost went over the fence"
-"CHN192904170",11,"Into RF bleachers"
-"CHN192904170",32,"Over RF screen"
-"CHN192904170",34,"Bartell: pretty catch"
-"CHN192904170",43,"Off Traynor's ankle"
-"CHN192904170",51,"Texas Leaguer"
-"CHN192904170",55,"The crowd booed"
-"CHN192904170",58,"Juggled easy roller"
-"CHN192904170",59,"Close play"
-"CHN192904170",66,"Beck: pretty stop; snappy scoop of grounder"
-"CHN192904170",73,"Into RCF bleachers"
-"CHN192904170",75,"Easy roller; Bartell/Adams late covering 2B"
-"CHN192904180",24,"Cuyler: spectacular, leaping catch"
-"CHN192904180",31,"Far back into RF bleachers"
-"CHN192904180",45,"Into LCF bleachers"
-"CHN192904180",49,"Low throw to 2B"
-"CHN192904180",81,"Beck: wonderful stop"
-"CHN192904220",0,"Crowd included about 10,000 Ladies' Day guests"
-"CHN192904220",3,"Past English who knocked it down"
-"CHN192904220",8,"Bunted on the 3rd strike"
-"CHN192904220",10,"Alexander: leaping stop"
-"CHN192904220",12,"Past Hornsby"
-"CHN192904220",14,"Boos & cheers greeted Alexander as he came to bat"
-"CHN192904220",29,"Over LF brick wall, well into Waveland Avenue. Hornsby was given a great ovation for his 6th straight hit vs. Cardinals (7th straight overall)."
-"CHN192904220",30,"Holm: sensational diving catch of low line drive"
-"CHN192904220",31,"Off Haney's glove"
-"CHN192904220",41,"Just out of Holm's reach"
-"CHN192904220",42,"Threw wild over 1B"
-"CHN192904220",47,"Doubthit made a great run for it; he turned and got his glove on it, but dropped it."
-"CHN192904220",54,"Slow roller"
-"CHN192904220",62,"Cuyler: running catch"
-"CHN192904230",0,"Weather: dark and cold"
-"CHN192904230",7,"Singled to CF on a slow ball"
-"CHN192904230",16,"Frisch: nice stop"
-"CHN192904230",20,"1st Cardinal run in 21 innings"
-"CHN192904230",21,"Grimm: great barehand stop of hot smash"
-"CHN192904230",37,"$Gonzalez injured a finger"
-"CHN192904230",39,"Off Beck's glove"
-"CHN192904230",44,"Grace's ML debut"
-"CHN192904230",45,"$Grace injured his finger on the 2nd ball pitched Angley's ML debut"
-"CHN192904230",54,"Off English's glove"
-"CHN192904230",55,"Aided by Angley's low throw"
-"CHN192904230",65,"Chick's 1st hit in 12 times at bat"
-"CHN192904230",68,"Hit & run"
-"CHN192904230",69,"Squeeze play"
-"CHN192904230",84,"Through Gelbert"
-"CHN192905170",14,"Spectacular diving stop of hot smash"
-"CHN192905170",25,"Perfect bunt"
-"CHN192905170",43,"Deflected by Donahue"
-"CHN192905170",56,"Into RF bleachers"
-"CHN192905170",58,"Into RF bleachers"
-"CHN192905170",74,"Easy grounder got through Hornsby"
-"CHN192905180",0,"Weather: bad, wintry winds blowing from the north"
-"CHN192905180",5,"Hit 2B bag"
-"CHN192905180",25,"Past 1B"
-"CHN192905180",49,"Gonzalez injured his hand on a foul by Stripp"
-"CHN192905180",53,"Guessing fielders"
-"CHN192905180",54,"Guessing B-2"
-"CHN192905180",59,"fielders from site box"
-"CHN192905190",0,"Weather: Cold, raw blasts of wind which whistled across Wrigley Field to the discomfort of the fans."
-"CHN192905190",1,"Clever somersault catch"
-"CHN192905190",6,"Great pickup and running toss"
-"CHN192905190",19,"Over Wilson's head"
-"CHN192905190",20,"Wind blew pop fly out of Grimm's reach for a lucky 2-bagger."
-"CHN192905190",32,"Bounced past Bartell"
-"CHN192905190",39,"Between Grantham's ankles"
-"CHN192905190",44,"Hit & run"
-"CHN192905190",48,"L.Waner attempted a shoestring catch"
-"CHN192905190",48,"Hargreaves bruised a finger in stopping a wide pitch."
-"CHN192905190",52,"1-handed catch"
-"CHN192905200",15,"Knocked down smash"
-"CHN192905200",19,"Through McMillan"
-"CHN192905200",26,"Running catch in front of the bleachers"
-"CHN192905200",47,"Somersaulting catch"
-"CHN192905200",56,"Hot smash off Grantham's glove"
-"CHN192905200",59,"Close play"
-"CHN192905200",67,"To LCF fence"
-"CHN192905200",71,"Past English"
-"CHN192905210",0,"Pie Traynor was out of the lineup with a sore shoulder"
-"CHN192905210",2,"Fine stop of hard smash"
-"CHN192905210",6,"To LF bleachers"
-"CHN192905210",7,"Stroner's throw hit Cuyler in the back"
-"CHN192905210",12,"Off Hornsby's glove"
-"CHN192905210",23,"To RF fence"
-"CHN192905210",48,"Off Grantham's glove"
-"CHN192905210",51,"Robbed of hit by great running catch"
-"CHN192905210",52,"High over LCF wall"
-"CHN192905210",61,"Off Stroner's glove"
-"CHN192905210",64,"Sharply hit; Sheely fumbled it slightly then threw home too late."
-"CHN192906010",0,"Weather: chilly with frigid breezes off the lake; more suitable for football than baseball."
-"CHN192906010",6,"Attempted double steal"
-"CHN192906010",17,"Close play; Grimm hotly protested Magerkurth's decision"
-"CHN192906010",28,"$Double rundown ended when McMillian dropped ball. It started when Terry rounded 3B but was halted by 3B Coach Niehoff and turned back.  Jackson was also heading for 3B."
-"CHN192906010",29,"Relay to 1B called safe by Ump Magerkurth who had his back to that bag; fans bellowed indignation."
-"CHN192906010",33,"Cuyler was hit by his own batted ball"
-"CHN192906010",35,"Roush dove in vain"
-"CHN192906010",47,"Welsh claimed a shoestring catch but ruled a trap"
-"CHN192906010",51,"Smash got away from Beck"
-"CHN192906010",52,"Through McMillan"
-"CHN192906010",55,"$O'Farrell was trapped but dodged McMillan's tag at 3B.  He threw to 2B trying to get Scott but no one covered and it shot out into RCF."
-"CHN192906010",58,"Hornsby: fine pickup; fast play"
-"CHN192906010",70,"Cuyler: shoestring catch"
-"CHN192906010",72,"Heathcote: shoestring catch"
-"CHN192906010",73,"Beck: great catch"
-"CHN192906030",0,"Weather: the breeze was coming off the lake and blowing in a frigid manner. This was Ray Schalk Day at Wrigley Field, several hundred fans from the south side gathering to pay homage to the Giant coach and former White Sox great.  Just before the game his admirers presented him with a set of golf clubs and a travelling bag while members of both teams gathered at the plate.  Mgr McGraw then announced that Schalk would catch this game, Schalk's first NL appearance."
-"CHN192906030",3,"Cuyler: running catch"
-"CHN192906030",24,"Close play"
-"CHN192906030",43,"$Drag bunt"
-"CHN192906030",70,"Over RF screen"
-"CHN192906030",78,"Reese: leaping catch"
-"CHN192906040",0,"Weather: comfortable, the wind came from Kansas instead of Mackinac Island.  The home run winds come from Kansas."
-"CHN192906040",1,"IPHR, to the fence in deep RCF"
-"CHN192906040",21,"Lindstrom: fine pickup"
-"CHN192906040",28,"High bounder"
-"CHN192906040",37,"Into RF bleachers"
-"CHN192906040",44,"High bounder; Fitzsimmons collided with Lindstrom"
-"CHN192906040",45,"Into RF bleachers Ott leaped up against the 6' screen for the ball; it hit off his glove and bounded over into the stands."
-"CHN192906040",46,"Hammered over the bleachers and clear out of the park"
-"CHN192906040",48,"Into RF bleachers"
-"CHN192906040",54,"Over Wilson"
-"CHN192906040",57,"Off Nehf's hand, bruising it"
-"CHN192906040",61,"Reese: running catch"
-"CHN192906040",70,"Into RF bleachers"
-"CHN192906040",82,"Into LCF bleachers"
-"CHN192906050",0,"Weather: chilly lake breeze Trader Horne's only ML start"
-"CHN192906050",5,"Wilson fumbled"
-"CHN192906060",0,"Mild weather, with a Kansas wind that brings the home runs."
-"CHN192906060",7,"Cuyler lost it in the sun and it fell between him and Wilson."
-"CHN192906060",8,"The throw home trapped Bressler, but he beat Grace's throw back to 3B."
-"CHN192906060",30,"J.Moore fumbled"
-"CHN192906060",53,"Into RF bleachers"
-"CHN192906060",63,"Into CF bleachers"
-"CHN192906070",0,"Ladies Day; there must have been about 10,000 women who got in free. Weather: frigid breezes blew from northeast"
-"CHN192906070",18,"Into RF bleachers"
-"CHN192906070",20,"Gilbert let Herman's perfect throw get past him"
-"CHN192906070",53,"Into RF bleachers"
-"CHN192906070",64,"Cy Moore's ML debut"
-"CHN192906080",9,"$Taylor faked throw to 2B then threw wild past 3B and into LF"
-"CHN192906090",47,"Maranville: diving stop"
-"CHN192906090",48,"Into back rows of RF stands"
-"CHN192906100",33,"Hit and Run"
-"CHN192906100",46,"Ball bounced into the bleachers"
-"CHN192906100",52,"Grace threw his bat at the ball"
-"CHN192906120",11,"Thompson: leaping catch"
-"CHN192906120",15,"Tried to duck pitch"
-"CHN192906120",24,"Hit 3B bag"
-"CHN192906120",43,"$Hard shot off pitcher's shins and game delayed as he was attended to, but he stayed in game"
-"CHN192906120",50,"Off RF screen"
-"CHN192906120",64,"$English and Hurst collied and both were knocked out; English left game with twisted ankle"
-"CHN192906120",70,"$Bare hand catch by Wilson"
-"CHN192906120",74,"Into CF bleachers"
-"CHN192906130",0,"Ladies Day"
-"CHN192906130",2,"Hard drive off Beck's glove"
-"CHN192906130",7,"Hit & run"
-"CHN192906130",17,"Late throw to 2B"
-"CHN192906130",18,"Hornsby: leaping catch"
-"CHN192906130",26,"Off Hornsby's glove"
-"CHN192906130",32,"Infield hit"
-"CHN192906130",38,"Game called for rain"
-"CHN192906150",7,"Friberg: spectacular diving catch"
-"CHN192906150",11,"Moore: almost impossible shoestring catch"
-"CHN192906150",45,"Into LCF bleachers"
-"CHN192906150",54,"Over RF screen"
-"CHN192906150",65,"Far over LF wall"
-"CHN192906150",92,"$Davis chased after the foul with Hurst; no one covered home"
-"CHN192906160",54,"Into RCF bleachers"
-"CHN192906160",55,"$Game delayed a few minutes when Thompson started arguing with an abusive fan behind PHI dugout.  Umpires and police quelled the demonstration."
-"CHN192906160",57,"Missed HR by inches"
-"CHN192906170",3,"Cuyler and Wilson misjudged the fly"
-"CHN192906170",14,"Cuyler juggled it and claimed he caught it; Cubs argued at length with Ump Rigler."
-"CHN192906170",40,"Attempted hit and run play"
-"CHN192906170",44,"Wilson: spectacular 1-hand running catch"
-"CHN192906170",47,"Bottomley: 1-hand catch"
-"CHN192906170",48,"Texas Leaguer"
-"CHN192906170",52,"McMillan missed Gonzales' throw"
-"CHN192906170",57,"Over LF fence"
-"CHN192906170",62,"Orsatti: running catch"
-"CHN192906170",76,"Over RF wall"
-"CHN192906180",5,"Hornsby: good stop"
-"CHN192906180",6,"High throw"
-"CHN192906180",10,"Into LCF bleachers"
-"CHN192906180",14,"Over RF fence"
-"CHN192906180",17,"Smith was tagged"
-"CHN192906180",45,"Wilson held on after bumping into RCF wall"
-"CHN192906180",47,"Into RF bleachers"
-"CHN192906180",57,"Into RF seats"
-"CHN192906180",79,"Over LF wall"
-"CHN192906180",83,"Off Grimm's glove to Hornsby"
-"CHN192906191",17,"After the 2nd inning attendance had increased to 40,000. Rope were stretched in LF for the overflow crowd."
-"CHN192906191",24,"Over RF fence"
-"CHN192906191",36,"Orsatti dropped it but ruled double"
-"CHN192906191",42,"English: good stop"
-"CHN192906191",49,"Hornsby collided with Cuyler but hung on"
-"CHN192906191",53,"Into LF crowd"
-"CHN192906191",56,"Orsatti dropped it after crashing into RF screen. Game delayed to attend to Orsatti."
-"CHN192906191",59,"Attempted double steal"
-"CHN192906191",77,"Bottomley: leaping catch"
-"CHN192906192",0,"Overflow crowd behind ropes in LF"
-"CHN192906192",6,"Into LF crowd"
-"CHN192906192",22,"Through SS"
-"CHN192906192",34,"BOUNCE HR, into box seats in RF"
-"CHN192906192",43,"Into LF crowd"
-"CHN192906192",48,"Into LF crowd"
-"CHN192906192",51,"Into LF crowd"
-"CHN192906192",60,"High dropped throw"
-"CHN192906200",2,"English: good stop"
-"CHN192906200",7,"Into RF seats"
-"CHN192906200",18,"Roettger lost it in the sun"
-"CHN192906200",25,"Smith fumbled throw home"
-"CHN192906200",38,"Into RF seats"
-"CHN192906200",45,"Nehf deflected it"
-"CHN192906200",47,"Into RF bleachers"
-"CHN192906200",55,"Over Beck"
-"CHN192906220",63,"$Grimm and English collided trying to catch Kremer's pop"
-"CHN192906230",6,"Late throw to 1B"
-"CHN192906230",7,"Deflected by Meine; whale of a play by Grantham"
-"CHN192906230",17,"Into LF crowd"
-"CHN192906230",23,"Hit in the face and fell beside the plate.  The players surrounded him and he finally arose and was escorted to the bench where the bleeding soon ceased upon application of cold water.  About 5 minutes after the mishap he was on 1B. After the game a surgical examination disclosed a fracture in the upper part of the nose where the bone is quite thin. He was in considerable pain."
-"CHN192906230",30,"Into LF crowd"
-"CHN192906230",38,"Scratched off Traynor's glove"
-"CHN192906230",41,"Over CF crowd"
-"CHN192906230",50,"Comorosky fumbled"
-"CHN192906230",53,"A collision at the plate knocked the ball out of Hargreaves' glove and injured the catcher."
-"CHN192906230",58,"To the end of the foul line"
-"CHN192906230",62,"Into RF crowd"
-"CHN192906230",63,"Off Traynor's glove"
-"CHN192906230",72,"Into the crowd back of LCF"
-"CHN192906230",73,"Lightening throw to the plate"
-"CHN192906230",84,"A little grounder to the box; Nehf beat him in a race to 1B"
-"CHN192906240",0,"$Light rain was falling at 1:00, but an hour later the rain was over and the gates were opened. Threatening weather kept attendance down."
-"CHN192906240",29,"Into RF bleachers"
-"CHN192906240",33,"Over RCF fence"
-"CHN192906240",48,"Into LF stands"
-"CHN192906240",66,"Into RF bleachers"
-"CHN192907230",7,"Great stop by McMillan of slow roller; Grimm made spectacular catch of McMillan's low wide throw."
-"CHN192907230",9,"Hot grounder"
-"CHN192907230",32,"'The attendance has now reached 35,000'"
-"CHN192907230",39,"Off Root's glove"
-"CHN192907230",51,"Against screen of RF bleachers"
-"CHN192907230",54,"McMillian attempted to score on a short passed ball"
-"CHN192907230",61,"Leaping 1-hand catch"
-"CHN192907240",1,"$Sharply hit off Bush's glove; Roush pulled up lame before reaching the bag and was an easy out.  He limped to the dugout and was taken to the club house for treatment."
-"CHN192907240",5,"Leach: running catch"
-"CHN192907240",6,"Into RF bleachers"
-"CHN192907240",18,"Wilson: running catch"
-"CHN192907240",21,"Scott tried to sneak a quick pitch over the plate"
-"CHN192907240",23,"Lindstrom hit by his own batted ball"
-"CHN192907240",25,"Wilson: running catch of low line drive"
-"CHN192907240",27,"Into RCF bleachers"
-"CHN192907240",32,"Reese juggled high bounder"
-"CHN192907240",38,"Bounced over Fitzsimmons"
-"CHN192907240",44,"Against screen on RF bleachers.  Heathcote's almost- perfect throw to the plate got away from Taylor. Fullis had delayed his start from 1B thinking the fly might be caught."
-"CHN192907240",45,"$A thunderstorm was blowing up out of the West and it became so dark that at times the outfielders were almost obscured, while the wind blew the dust in swirling clouds over the infield. Spectators in the front rows of the stands retreated."
-"CHN192907240",46,"$The rain began to fall and the thunder rolled and lightning flashed.  The downpour became so heavy that Umpire Pfirman called time, the teams withdrawing from the field.  By this time the storm approached proportions of a cloudburst. After a delay of 30 minutes, the umpires inspected the muddy field and decided that with some attention from the ground- keepers the ground could be put in shape for resuming the game.  New bases were placed on it and the groundkeepers set to work to put the field in shape.  Under the direction of the umpires sand was spread on the base lines.  The dugouts were knee-deep in water and were being drained. Total delay: 75 minutes."
-"CHN192907240",63,"Deep into CF bleachers"
-"CHN192907250",7,"CDN coverage ended here"
-"CHN192907250",9,"Into RF bleachers"
-"CHN192907250",11,"Running catch"
-"CHN192907250",27,"Through Reese"
-"CHN192907250",29,"Reese knocked down the smash"
-"CHN192907250",37,"Close play"
-"CHN192907250",52,"Past Grimm"
-"CHN192907250",60,"Into LCF bleachers"
-"CHN192907250",63,"Past Hornsby"
-"CHN192907250",76,"Bush smuggled the smash"
-"CHN192907272",0,"$Special ground rules in force due to fans on outfield grass"
-"CHN192907272",16,"$A pitched ball injured Schulte's right hand, he was replaced."
-"CHN192907272",43,"Hurst threw wide of first to pitcher covering bag."
-"CHN192907280",19,"Off McMillan's chest"
-"CHN192907280",24,"Off Thompson's glove"
-"CHN192907280",28,"Into LF jury box"
-"CHN192907280",32,"Grimm: leaping stop"
-"CHN192907280",51,"Into RF seats"
-"CHN192907311",35,"To RF scoreboard"
-"CHN192907311",62,"Over RF fence just inside foul line"
-"CHN192907312",24,"Over RF fence"
-"CHN192907312",51,"Into CF bleachers"
-"CHN192907312",62,"Over LF fence"
-"CHN192908010",7,"Over Richbourg"
-"CHN192908010",12,"Richbourg: sparkling running catch"
-"CHN192908010",51,"Wilson got a glove on it but it rolled to the fence"
-"CHN192908030",11,"Rhiel lost fly in sun"
-"CHN192908030",29,"Bounced off Rhiel's shins"
-"CHN192908030",42,"Assumed runner advancement"
-"CHN192908030",54,"ej,mcwed101,P,mclae901,Balls and strikes $Pitcher McWeeny ejected by HP umpire McLaughlin for arguing balls and strikes"
-"CHN192908040",2,"Into the LCF crowd"
-"CHN192908040",47,"Over LF wall"
-"CHN192908040",62,"Bounder hit 2B bag and slanted away from Bancroft"
-"CHN192908060",0,"Ladies' Day; a half-hour before game time all seats were filled.  The overflow crowd was allowed on the field; a hit into any part of the overflow crowd went as a two-bagger."
-"CHN192908060",10,"Over Cuyler's head, the ball dropping into the crowd, but it was difficult for the umpires to see if the ball had cleared the screen in front of the right field bleachers.  Hendrick was stopped at 3B by Ump Moran.  Immediately the Dodgers rushed off their bench claiming that the hit cleared the screen for a home run.  There was a long argument, but the Dodgers' kick was in vain."
-"CHN192908060",12,"Bissonette overslid 3B"
-"CHN192908060",16,"Into LF crowd"
-"CHN192908060",17,"Through English's legs"
-"CHN192908060",25,"Into RF crowd"
-"CHN192908060",28,"Knocked down low line drive"
-"CHN192908060",31,"Spectacular diving catch"
-"CHN192908060",41,"Threw to Dodgers bench"
-"CHN192908060",44,"Into RF crowd"
-"CHN192908060",45,"Great stop"
-"CHN192908060",51,"'Cuyler sent the crowd into an uproar when he singled past Moore, scoring Wilson with the tying run.  Wilson beat Hendrick's perfect throw to the plate by a narrow margin...'"
-"CHN192908060",52,"Into RCF crowd"
-"CHN192908060",58,"Nice running catch"
-"CHN192908060",59,"Into LF crowd"
-"CHN192908060",60,"Into RF crowd"
-"CHN192908060",62,"Might be Penner's 1st ML appearance in 13 years!"
-"CHN192908060",65,"Over RF screen"
-"CHN192908260",0,"'Before the game Cliff Heathcote was presented with a specially made ukulele.  Hack Wilson was presented with a large frosted cake by some young lady dressed in red, white, and blue.'"
-"CHN192908260",3,"Taylor let Heathcote's throw get past him"
-"CHN192908260",5,"When Kelly tried for 2B and drew a throw, Walker tried to score."
-"CHN192908260",11,"Slow roller"
-"CHN192908260",14,"Ripped a single off Dressen's glove"
-"CHN192908260",20,"Broken bat single"
-"CHN192908260",22,"Attempted double steal"
-"CHN192908260",25,"Close to the fence"
-"CHN192908260",30,"Into RF bleachers"
-"CHN192908260",51,"To the box seats"
-"CHN192908260",52,"Close play"
-"CHN192908260",54,"Great stop by Pittenger"
-"CHN192908260",57,"Against LF bleachers"
-"CHN192908260",60,"Past McMillan"
-"CHN192908260",70,"Baseball-Reference.com writes, 'In the eighth inning of a 5-5 game at Wrigley Field, Cubs 3B Norm McMillan hits a line drive down the LF line with the bases loaded. Reds LF Evar Swanson, shaded toward center, can't find the ball, which he sees bounce off a gutter in foul territory. McMillan circles the bases and four runs score. Later, Cubs relief P Ken Penner picks up his jacket in the bullpen and discovers the ball in his right sleeve.'"
-"CHN192908260",71,"Off Ford's glove"
-"CHN192908270",6,"Off RF screen"
-"CHN192908270",19,"Luque tagged him"
-"CHN192908270",22,"Neat running catch"
-"CHN192908270",25,"Into RF runway"
-"CHN192908270",58,"Snappy DP"
-"CHN192909010",34,"Into crowd on field."
-"CHN192909010",50,"Hit and run."
-"CHN192909021",10,"Pop fell just out of Frisch's reach, but Orsatti got force"
-"CHN192909021",13,"English: fine stop"
-"CHN192909021",14,"Over Wilson"
-"CHN192909021",15,"Off LCF screen"
-"CHN192909021",22,"Over Wilson"
-"CHN192909021",23,"Hornsby: bare-handed stop"
-"CHN192909021",24,"Off Malone's glove"
-"CHN192909021",30,"Into RF seats Time was taken to clear field of straw hats thrown on the field by jubilant fans."
-"CHN192909021",32,"Off RF screen"
-"CHN192909021",41,"$McMillan was trapped when English missed bunt"
-"CHN192909021",67,"Into RF seats"
-"CHN192909021",91,"Off McMillan's glove"
-"CHN192909022",1,"Low throw"
-"CHN192909022",5,"Into CF crowd"
-"CHN192909022",7,"Off Carlson's glove"
-"CHN192909022",25,"Into RF seats; a straw hat shower followed"
-"CHN192909022",26,"Frisch: good catch"
-"CHN192909022",35,"Sherdel missed bunt attempt"
-"CHN192909022",37,"Off McMillan's glove"
-"CHN192909022",44,"Into LF crowd"
-"CHN192909022",47,"Into RF bleachers"
-"CHN192909022",50,"Into LF crowd"
-"CHN192909022",52,"Into LCF crowd"
-"CHN192909022",53,"Douthit got a glove on it"
-"CHN192909022",66,"Into CF crowd"
-"CHN192909022",79,"English: good stop of hard smash"
-"CHN192909022",82,"Into LF crowd"
-"CHN192909022",89,"Taylor overran 2B"
-"CHN192909022",91,"Off Bush's glove"
-"CHN192909090",5,"$20 minute rain delay"
-"CHN192909090",25,"$1 hr rain delay"
-"CHN192909110",58,"arbitrary 8 to 9"
-"CHN192909120",76,"Ninth inning from Chi. Tribune."
-"CHN192909140",10,"Over English's head"
-"CHN192909140",23,"Running catch in CF"
-"CHN192909140",42,"Herman had passed 2B as Wilson caught the fly ball, but in returning to 1B he made a shortcut and forgot to touch 2B."
-"CHN192909140",50,"BOUNCE HR, over RF screen fence"
-"CHN192909150",12,"Herman misjudged ball."
-"CHN192909150",15,"Frederick misjudged ball."
-"CHN192909150",17,"Not clear when Henline entered."
-"CHN192909150",58,"Scorecard has 4 outs for inning."
-"CHN192909171",9,"Great 1-hand stop"
-"CHN192909171",16,"Attempted double steal"
-"CHN192909171",19,"Frederick's 50th double tied Paul Waner's NL record established last season."
-"CHN192909171",34,"Running catch"
-"CHN192909171",36,"Over E.Moore's head"
-"CHN192909171",38,"Herman threw into the Cubs' bench"
-"CHN192909171",47,"Warner collided with Taylor at the plate.  The catcher's thumbnail of his throwing hand was split and the second joint of his thumb was sprained."
-"CHN192909171",53,"IPHR; against the screen in front of CF bleachers. The previous pitch to Cuyler was called a ball and Vance kicked, claiming it should have been the 3rd strike."
-"CHN192909171",63,"Running catch"
-"CHN192909171",81,"Blake replaced Cvengros with the count 1-1"
-"CHN192909172",21,"English threw high over Tolson"
-"CHN192909172",29,"Into RF stands"
-"CHN192909172",75,"Over the leaping Cuyler, into RF bleachers"
-"CHN192909180",16,"Run down"
-"CHN192909180",38,"Cuyler robbed him with a 1-hand running catch in deep LF"
-"CHN192909180",52,"Tricky bounder over Tolson"
-"CHN192909180",54,"Run down"
-"CHN192909190",5,"High hard bounder"
-"CHN192909190",31,"Malone knocked down the smash with his bare hand and threw him out from a sitting position."
-"CHN192909190",37,"Pretty catch at edge of box seats"
-"CHN192909190",38,"Texas Leaguer"
-"CHN192909190",55,"Sharp bounder over McMillan's head"
-"CHN192909190",72,"Hard smash down 3B line"
-"CHN192909210",3,"Against LCF bleachers"
-"CHN192909210",4,"Slow roller"
-"CHN192909210",5,"Galloping catch"
-"CHN192909210",7,"Through SS"
-"CHN192909210",10,"Through Jackson"
-"CHN192909210",51,"Hot smash off Terry's glove"
-"CHN192909210",61,"Into RF bleachers; Ott's 40th."
-"CHN192909210",64,"Past Hornsby"
-"CHN192909210",70,"Down 1B line"
-"CHN192909210",71,"Through Tolson"
-"CHN192909280",28,"Drive into RF corner bounced over the screen."
-"CHN192909280",55,"$Critz fielded a hot grounder and beat the batter to first."
-"CHN192909280",61,"Fifteen minute rain delay"
-"CHN192909290",29,"Frey tossed ball away after getting hit by Wilson's liner."
-"CHN192909290",66,"Great throw by Stephenson to cut off a run at the plate."
+"CHN192904160",0,"Cold, wintry breeze"FILENAME_TX","LINE_NUMBER_CT"
+
+"CHN192904160",1,"Easy roller was juggled and the throw was wild"1929CHN.EVN.regular.comment.csv",2
+
+"CHN192904160",5,"Into the RF crowd"1929CHN.EVN.regular.comment.csv",3
+
+"CHN192904160",7,"Wilson's throw to the plate hit Traynor's leg"1929CHN.EVN.regular.comment.csv",4
+
+"CHN192904160",11,"Off Sheely's glove"1929CHN.EVN.regular.comment.csv",5
+
+"CHN192904160",13,"Wonderful leaping stop of high bounder"1929CHN.EVN.regular.comment.csv",6
+
+"CHN192904160",14,"Off Beck's glove"1929CHN.EVN.regular.comment.csv",7
+
+"CHN192904160",24,"Into the crowd at the end of LF line"1929CHN.EVN.regular.comment.csv",8
+
+"CHN192904160",32,"Hornsby got another tremendous ovation as he came to bat"1929CHN.EVN.regular.comment.csv",9
+
+"CHN192904160",34,"Pretty stop of hot grounder"1929CHN.EVN.regular.comment.csv",10
+
+"CHN192904160",36,"During AB, Grantham hit foul home run over RF fence"1929CHN.EVN.regular.comment.csv",11
+
+"CHN192904160",39,"Bartell: spectacular play on slow bounder; dashed in and scooped the ball to Sheely."1929CHN.EVN.regular.comment.csv",12
+
+"CHN192904160",41,"To the edge of the LCF crowd"1929CHN.EVN.regular.comment.csv",13
+
+"CHN192904160",45,"At the edge of the crowd"1929CHN.EVN.regular.comment.csv",14
+
+"CHN192904160",68,"Into crowd at end of RF line"1929CHN.EVN.regular.comment.csv",15
+
+"CHN192904160",70,"Close to Pirate dugout"1929CHN.EVN.regular.comment.csv",16
+
+"CHN192904160",73,"Off Grimes' pitching hand.  Mgr Bush and several players gathered around the box to inspect the damage but Grimes insisted on finishing the game."1929CHN.EVN.regular.comment.csv",17
+
+"CHN192904160",78,"Into LF crowd"1929CHN.EVN.regular.comment.csv",18
+
+"CHN192904170",10,"The ball almost went over the fence"1929CHN.EVN.regular.comment.csv",19
+
+"CHN192904170",11,"Into RF bleachers"1929CHN.EVN.regular.comment.csv",20
+
+"CHN192904170",32,"Over RF screen"1929CHN.EVN.regular.comment.csv",21
+
+"CHN192904170",34,"Bartell: pretty catch"1929CHN.EVN.regular.comment.csv",22
+
+"CHN192904170",43,"Off Traynor's ankle"1929CHN.EVN.regular.comment.csv",23
+
+"CHN192904170",51,"Texas Leaguer"1929CHN.EVN.regular.comment.csv",24
+
+"CHN192904170",55,"The crowd booed"1929CHN.EVN.regular.comment.csv",25
+
+"CHN192904170",58,"Juggled easy roller"1929CHN.EVN.regular.comment.csv",26
+
+"CHN192904170",59,"Close play"1929CHN.EVN.regular.comment.csv",27
+
+"CHN192904170",66,"Beck: pretty stop; snappy scoop of grounder"1929CHN.EVN.regular.comment.csv",28
+
+"CHN192904170",73,"Into RCF bleachers"1929CHN.EVN.regular.comment.csv",29
+
+"CHN192904170",75,"Easy roller; Bartell/Adams late covering 2B"1929CHN.EVN.regular.comment.csv",30
+
+"CHN192904180",24,"Cuyler: spectacular, leaping catch"1929CHN.EVN.regular.comment.csv",31
+
+"CHN192904180",31,"Far back into RF bleachers"1929CHN.EVN.regular.comment.csv",32
+
+"CHN192904180",45,"Into LCF bleachers"1929CHN.EVN.regular.comment.csv",33
+
+"CHN192904180",49,"Low throw to 2B"1929CHN.EVN.regular.comment.csv",34
+
+"CHN192904180",81,"Beck: wonderful stop"1929CHN.EVN.regular.comment.csv",35
+
+"CHN192904220",0,"Crowd included about 10,000 Ladies' Day guests"1929CHN.EVN.regular.comment.csv",36
+
+"CHN192904220",3,"Past English who knocked it down"1929CHN.EVN.regular.comment.csv",37
+
+"CHN192904220",8,"Bunted on the 3rd strike"1929CHN.EVN.regular.comment.csv",38
+
+"CHN192904220",10,"Alexander: leaping stop"1929CHN.EVN.regular.comment.csv",39
+
+"CHN192904220",12,"Past Hornsby"1929CHN.EVN.regular.comment.csv",40
+
+"CHN192904220",14,"Boos & cheers greeted Alexander as he came to bat"1929CHN.EVN.regular.comment.csv",41
+
+"CHN192904220",29,"Over LF brick wall, well into Waveland Avenue. Hornsby was given a great ovation for his 6th straight hit vs. Cardinals (7th straight overall)."1929CHN.EVN.regular.comment.csv",42
+
+"CHN192904220",30,"Holm: sensational diving catch of low line drive"1929CHN.EVN.regular.comment.csv",43
+
+"CHN192904220",31,"Off Haney's glove"1929CHN.EVN.regular.comment.csv",44
+
+"CHN192904220",41,"Just out of Holm's reach"1929CHN.EVN.regular.comment.csv",45
+
+"CHN192904220",42,"Threw wild over 1B"1929CHN.EVN.regular.comment.csv",46
+
+"CHN192904220",47,"Doubthit made a great run for it; he turned and got his glove on it, but dropped it."1929CHN.EVN.regular.comment.csv",47
+
+"CHN192904220",54,"Slow roller"1929CHN.EVN.regular.comment.csv",48
+
+"CHN192904220",62,"Cuyler: running catch"1929CHN.EVN.regular.comment.csv",49
+
+"CHN192904230",0,"Weather: dark and cold"1929CHN.EVN.regular.comment.csv",50
+
+"CHN192904230",7,"Singled to CF on a slow ball"1929CHN.EVN.regular.comment.csv",51
+
+"CHN192904230",16,"Frisch: nice stop"1929CHN.EVN.regular.comment.csv",52
+
+"CHN192904230",20,"1st Cardinal run in 21 innings"1929CHN.EVN.regular.comment.csv",53
+
+"CHN192904230",21,"Grimm: great barehand stop of hot smash"1929CHN.EVN.regular.comment.csv",54
+
+"CHN192904230",37,"$Gonzalez injured a finger"1929CHN.EVN.regular.comment.csv",55
+
+"CHN192904230",39,"Off Beck's glove"1929CHN.EVN.regular.comment.csv",56
+
+"CHN192904230",44,"Grace's ML debut"1929CHN.EVN.regular.comment.csv",57
+
+"CHN192904230",45,"$Grace injured his finger on the 2nd ball pitched Angley's ML debut"1929CHN.EVN.regular.comment.csv",58
+
+"CHN192904230",54,"Off English's glove"1929CHN.EVN.regular.comment.csv",59
+
+"CHN192904230",55,"Aided by Angley's low throw"1929CHN.EVN.regular.comment.csv",60
+
+"CHN192904230",65,"Chick's 1st hit in 12 times at bat"1929CHN.EVN.regular.comment.csv",61
+
+"CHN192904230",68,"Hit & run"1929CHN.EVN.regular.comment.csv",62
+
+"CHN192904230",69,"Squeeze play"1929CHN.EVN.regular.comment.csv",63
+
+"CHN192904230",84,"Through Gelbert"1929CHN.EVN.regular.comment.csv",64
+
+"CHN192905170",14,"Spectacular diving stop of hot smash"1929CHN.EVN.regular.comment.csv",65
+
+"CHN192905170",25,"Perfect bunt"1929CHN.EVN.regular.comment.csv",66
+
+"CHN192905170",43,"Deflected by Donahue"1929CHN.EVN.regular.comment.csv",67
+
+"CHN192905170",56,"Into RF bleachers"1929CHN.EVN.regular.comment.csv",68
+
+"CHN192905170",58,"Into RF bleachers"1929CHN.EVN.regular.comment.csv",69
+
+"CHN192905170",74,"Easy grounder got through Hornsby"1929CHN.EVN.regular.comment.csv",70
+
+"CHN192905180",0,"Weather: bad, wintry winds blowing from the north"1929CHN.EVN.regular.comment.csv",71
+
+"CHN192905180",5,"Hit 2B bag"1929CHN.EVN.regular.comment.csv",72
+
+"CHN192905180",25,"Past 1B"1929CHN.EVN.regular.comment.csv",73
+
+"CHN192905180",49,"Gonzalez injured his hand on a foul by Stripp"1929CHN.EVN.regular.comment.csv",74
+
+"CHN192905180",53,"Guessing fielders"1929CHN.EVN.regular.comment.csv",75
+
+"CHN192905180",54,"Guessing B-2"1929CHN.EVN.regular.comment.csv",76
+
+"CHN192905180",59,"fielders from site box"1929CHN.EVN.regular.comment.csv",77
+
+"CHN192905190",0,"Weather: Cold, raw blasts of wind which whistled across Wrigley Field to the discomfort of the fans."1929CHN.EVN.regular.comment.csv",78
+
+"CHN192905190",1,"Clever somersault catch"1929CHN.EVN.regular.comment.csv",79
+
+"CHN192905190",6,"Great pickup and running toss"1929CHN.EVN.regular.comment.csv",80
+
+"CHN192905190",19,"Over Wilson's head"1929CHN.EVN.regular.comment.csv",81
+
+"CHN192905190",20,"Wind blew pop fly out of Grimm's reach for a lucky 2-bagger."1929CHN.EVN.regular.comment.csv",82
+
+"CHN192905190",32,"Bounced past Bartell"1929CHN.EVN.regular.comment.csv",83
+
+"CHN192905190",39,"Between Grantham's ankles"1929CHN.EVN.regular.comment.csv",84
+
+"CHN192905190",44,"Hit & run"1929CHN.EVN.regular.comment.csv",85
+
+"CHN192905190",48,"L.Waner attempted a shoestring catch"1929CHN.EVN.regular.comment.csv",86
+
+"CHN192905190",48,"Hargreaves bruised a finger in stopping a wide pitch."1929CHN.EVN.regular.comment.csv",87
+
+"CHN192905190",52,"1-handed catch"1929CHN.EVN.regular.comment.csv",88
+
+"CHN192905200",15,"Knocked down smash"1929CHN.EVN.regular.comment.csv",89
+
+"CHN192905200",19,"Through McMillan"1929CHN.EVN.regular.comment.csv",90
+
+"CHN192905200",26,"Running catch in front of the bleachers"1929CHN.EVN.regular.comment.csv",91
+
+"CHN192905200",47,"Somersaulting catch"1929CHN.EVN.regular.comment.csv",92
+
+"CHN192905200",56,"Hot smash off Grantham's glove"1929CHN.EVN.regular.comment.csv",93
+
+"CHN192905200",59,"Close play"1929CHN.EVN.regular.comment.csv",94
+
+"CHN192905200",67,"To LCF fence"1929CHN.EVN.regular.comment.csv",95
+
+"CHN192905200",71,"Past English"1929CHN.EVN.regular.comment.csv",96
+
+"CHN192905210",0,"Pie Traynor was out of the lineup with a sore shoulder"1929CHN.EVN.regular.comment.csv",97
+
+"CHN192905210",2,"Fine stop of hard smash"1929CHN.EVN.regular.comment.csv",98
+
+"CHN192905210",6,"To LF bleachers"1929CHN.EVN.regular.comment.csv",99
+
+"CHN192905210",7,"Stroner's throw hit Cuyler in the back"1929CHN.EVN.regular.comment.csv",100
+
+"CHN192905210",12,"Off Hornsby's glove"1929CHN.EVN.regular.comment.csv",101
+
+"CHN192905210",23,"To RF fence"1929CHN.EVN.regular.comment.csv",102
+
+"CHN192905210",48,"Off Grantham's glove"1929CHN.EVN.regular.comment.csv",103
+
+"CHN192905210",51,"Robbed of hit by great running catch"1929CHN.EVN.regular.comment.csv",104
+
+"CHN192905210",52,"High over LCF wall"1929CHN.EVN.regular.comment.csv",105
+
+"CHN192905210",61,"Off Stroner's glove"1929CHN.EVN.regular.comment.csv",106
+
+"CHN192905210",64,"Sharply hit; Sheely fumbled it slightly then threw home too late."1929CHN.EVN.regular.comment.csv",107
+
+"CHN192906010",0,"Weather: chilly with frigid breezes off the lake; more suitable for football than baseball."1929CHN.EVN.regular.comment.csv",108
+
+"CHN192906010",6,"Attempted double steal"1929CHN.EVN.regular.comment.csv",109
+
+"CHN192906010",17,"Close play; Grimm hotly protested Magerkurth's decision"1929CHN.EVN.regular.comment.csv",110
+
+"CHN192906010",28,"$Double rundown ended when McMillian dropped ball. It started when Terry rounded 3B but was halted by 3B Coach Niehoff and turned back.  Jackson was also heading for 3B."1929CHN.EVN.regular.comment.csv",111
+
+"CHN192906010",29,"Relay to 1B called safe by Ump Magerkurth who had his back to that bag; fans bellowed indignation."1929CHN.EVN.regular.comment.csv",112
+
+"CHN192906010",33,"Cuyler was hit by his own batted ball"1929CHN.EVN.regular.comment.csv",113
+
+"CHN192906010",35,"Roush dove in vain"1929CHN.EVN.regular.comment.csv",114
+
+"CHN192906010",47,"Welsh claimed a shoestring catch but ruled a trap"1929CHN.EVN.regular.comment.csv",115
+
+"CHN192906010",51,"Smash got away from Beck"1929CHN.EVN.regular.comment.csv",116
+
+"CHN192906010",52,"Through McMillan"1929CHN.EVN.regular.comment.csv",117
+
+"CHN192906010",55,"$O'Farrell was trapped but dodged McMillan's tag at 3B.  He threw to 2B trying to get Scott but no one covered and it shot out into RCF."1929CHN.EVN.regular.comment.csv",118
+
+"CHN192906010",58,"Hornsby: fine pickup; fast play"1929CHN.EVN.regular.comment.csv",119
+
+"CHN192906010",70,"Cuyler: shoestring catch"1929CHN.EVN.regular.comment.csv",120
+
+"CHN192906010",72,"Heathcote: shoestring catch"1929CHN.EVN.regular.comment.csv",121
+
+"CHN192906010",73,"Beck: great catch"1929CHN.EVN.regular.comment.csv",122
+
+"CHN192906030",0,"Weather: the breeze was coming off the lake and blowing in a frigid manner. This was Ray Schalk Day at Wrigley Field, several hundred fans from the south side gathering to pay homage to the Giant coach and former White Sox great.  Just before the game his admirers presented him with a set of golf clubs and a travelling bag while members of both teams gathered at the plate.  Mgr McGraw then announced that Schalk would catch this game, Schalk's first NL appearance."1929CHN.EVN.regular.comment.csv",123
+
+"CHN192906030",3,"Cuyler: running catch"1929CHN.EVN.regular.comment.csv",124
+
+"CHN192906030",24,"Close play"1929CHN.EVN.regular.comment.csv",125
+
+"CHN192906030",43,"$Drag bunt"1929CHN.EVN.regular.comment.csv",126
+
+"CHN192906030",70,"Over RF screen"1929CHN.EVN.regular.comment.csv",127
+
+"CHN192906030",78,"Reese: leaping catch"1929CHN.EVN.regular.comment.csv",128
+
+"CHN192906040",0,"Weather: comfortable, the wind came from Kansas instead of Mackinac Island.  The home run winds come from Kansas."1929CHN.EVN.regular.comment.csv",129
+
+"CHN192906040",1,"IPHR, to the fence in deep RCF"1929CHN.EVN.regular.comment.csv",130
+
+"CHN192906040",21,"Lindstrom: fine pickup"1929CHN.EVN.regular.comment.csv",131
+
+"CHN192906040",28,"High bounder"1929CHN.EVN.regular.comment.csv",132
+
+"CHN192906040",37,"Into RF bleachers"1929CHN.EVN.regular.comment.csv",133
+
+"CHN192906040",44,"High bounder; Fitzsimmons collided with Lindstrom"1929CHN.EVN.regular.comment.csv",134
+
+"CHN192906040",45,"Into RF bleachers Ott leaped up against the 6' screen for the ball; it hit off his glove and bounded over into the stands."1929CHN.EVN.regular.comment.csv",135
+
+"CHN192906040",46,"Hammered over the bleachers and clear out of the park"1929CHN.EVN.regular.comment.csv",136
+
+"CHN192906040",48,"Into RF bleachers"1929CHN.EVN.regular.comment.csv",137
+
+"CHN192906040",54,"Over Wilson"1929CHN.EVN.regular.comment.csv",138
+
+"CHN192906040",57,"Off Nehf's hand, bruising it"1929CHN.EVN.regular.comment.csv",139
+
+"CHN192906040",61,"Reese: running catch"1929CHN.EVN.regular.comment.csv",140
+
+"CHN192906040",70,"Into RF bleachers"1929CHN.EVN.regular.comment.csv",141
+
+"CHN192906040",82,"Into LCF bleachers"1929CHN.EVN.regular.comment.csv",142
+
+"CHN192906050",0,"Weather: chilly lake breeze Trader Horne's only ML start"1929CHN.EVN.regular.comment.csv",143
+
+"CHN192906050",5,"Wilson fumbled"1929CHN.EVN.regular.comment.csv",144
+
+"CHN192906060",0,"Mild weather, with a Kansas wind that brings the home runs."1929CHN.EVN.regular.comment.csv",145
+
+"CHN192906060",7,"Cuyler lost it in the sun and it fell between him and Wilson."1929CHN.EVN.regular.comment.csv",146
+
+"CHN192906060",8,"The throw home trapped Bressler, but he beat Grace's throw back to 3B."1929CHN.EVN.regular.comment.csv",147
+
+"CHN192906060",30,"J.Moore fumbled"1929CHN.EVN.regular.comment.csv",148
+
+"CHN192906060",53,"Into RF bleachers"1929CHN.EVN.regular.comment.csv",149
+
+"CHN192906060",63,"Into CF bleachers"1929CHN.EVN.regular.comment.csv",150
+
+"CHN192906070",0,"Ladies Day; there must have been about 10,000 women who got in free. Weather: frigid breezes blew from northeast"1929CHN.EVN.regular.comment.csv",151
+
+"CHN192906070",18,"Into RF bleachers"1929CHN.EVN.regular.comment.csv",152
+
+"CHN192906070",20,"Gilbert let Herman's perfect throw get past him"1929CHN.EVN.regular.comment.csv",153
+
+"CHN192906070",53,"Into RF bleachers"1929CHN.EVN.regular.comment.csv",154
+
+"CHN192906070",64,"Cy Moore's ML debut"1929CHN.EVN.regular.comment.csv",155
+
+"CHN192906080",9,"$Taylor faked throw to 2B then threw wild past 3B and into LF"1929CHN.EVN.regular.comment.csv",156
+
+"CHN192906090",47,"Maranville: diving stop"1929CHN.EVN.regular.comment.csv",157
+
+"CHN192906090",48,"Into back rows of RF stands"1929CHN.EVN.regular.comment.csv",158
+
+"CHN192906100",33,"Hit and Run"1929CHN.EVN.regular.comment.csv",159
+
+"CHN192906100",46,"Ball bounced into the bleachers"1929CHN.EVN.regular.comment.csv",160
+
+"CHN192906100",52,"Grace threw his bat at the ball"1929CHN.EVN.regular.comment.csv",161
+
+"CHN192906120",11,"Thompson: leaping catch"1929CHN.EVN.regular.comment.csv",162
+
+"CHN192906120",15,"Tried to duck pitch"1929CHN.EVN.regular.comment.csv",163
+
+"CHN192906120",24,"Hit 3B bag"1929CHN.EVN.regular.comment.csv",164
+
+"CHN192906120",43,"$Hard shot off pitcher's shins and game delayed as he was attended to, but he stayed in game"1929CHN.EVN.regular.comment.csv",165
+
+"CHN192906120",50,"Off RF screen"1929CHN.EVN.regular.comment.csv",166
+
+"CHN192906120",64,"$English and Hurst collied and both were knocked out; English left game with twisted ankle"1929CHN.EVN.regular.comment.csv",167
+
+"CHN192906120",70,"$Bare hand catch by Wilson"1929CHN.EVN.regular.comment.csv",168
+
+"CHN192906120",74,"Into CF bleachers"1929CHN.EVN.regular.comment.csv",169
+
+"CHN192906130",0,"Ladies Day"1929CHN.EVN.regular.comment.csv",170
+
+"CHN192906130",2,"Hard drive off Beck's glove"1929CHN.EVN.regular.comment.csv",171
+
+"CHN192906130",7,"Hit & run"1929CHN.EVN.regular.comment.csv",172
+
+"CHN192906130",17,"Late throw to 2B"1929CHN.EVN.regular.comment.csv",173
+
+"CHN192906130",18,"Hornsby: leaping catch"1929CHN.EVN.regular.comment.csv",174
+
+"CHN192906130",26,"Off Hornsby's glove"1929CHN.EVN.regular.comment.csv",175
+
+"CHN192906130",32,"Infield hit"1929CHN.EVN.regular.comment.csv",176
+
+"CHN192906130",38,"Game called for rain"1929CHN.EVN.regular.comment.csv",177
+
+"CHN192906150",7,"Friberg: spectacular diving catch"1929CHN.EVN.regular.comment.csv",178
+
+"CHN192906150",11,"Moore: almost impossible shoestring catch"1929CHN.EVN.regular.comment.csv",179
+
+"CHN192906150",45,"Into LCF bleachers"1929CHN.EVN.regular.comment.csv",180
+
+"CHN192906150",54,"Over RF screen"1929CHN.EVN.regular.comment.csv",181
+
+"CHN192906150",65,"Far over LF wall"1929CHN.EVN.regular.comment.csv",182
+
+"CHN192906150",92,"$Davis chased after the foul with Hurst; no one covered home"1929CHN.EVN.regular.comment.csv",183
+
+"CHN192906160",54,"Into RCF bleachers"1929CHN.EVN.regular.comment.csv",184
+
+"CHN192906160",55,"$Game delayed a few minutes when Thompson started arguing with an abusive fan behind PHI dugout.  Umpires and police quelled the demonstration."1929CHN.EVN.regular.comment.csv",185
+
+"CHN192906160",57,"Missed HR by inches"1929CHN.EVN.regular.comment.csv",186
+
+"CHN192906170",3,"Cuyler and Wilson misjudged the fly"1929CHN.EVN.regular.comment.csv",187
+
+"CHN192906170",14,"Cuyler juggled it and claimed he caught it; Cubs argued at length with Ump Rigler."1929CHN.EVN.regular.comment.csv",188
+
+"CHN192906170",40,"Attempted hit and run play"1929CHN.EVN.regular.comment.csv",189
+
+"CHN192906170",44,"Wilson: spectacular 1-hand running catch"1929CHN.EVN.regular.comment.csv",190
+
+"CHN192906170",47,"Bottomley: 1-hand catch"1929CHN.EVN.regular.comment.csv",191
+
+"CHN192906170",48,"Texas Leaguer"1929CHN.EVN.regular.comment.csv",192
+
+"CHN192906170",52,"McMillan missed Gonzales' throw"1929CHN.EVN.regular.comment.csv",193
+
+"CHN192906170",57,"Over LF fence"1929CHN.EVN.regular.comment.csv",194
+
+"CHN192906170",62,"Orsatti: running catch"1929CHN.EVN.regular.comment.csv",195
+
+"CHN192906170",76,"Over RF wall"1929CHN.EVN.regular.comment.csv",196
+
+"CHN192906180",5,"Hornsby: good stop"1929CHN.EVN.regular.comment.csv",197
+
+"CHN192906180",6,"High throw"1929CHN.EVN.regular.comment.csv",198
+
+"CHN192906180",10,"Into LCF bleachers"1929CHN.EVN.regular.comment.csv",199
+
+"CHN192906180",14,"Over RF fence"1929CHN.EVN.regular.comment.csv",200
+
+"CHN192906180",17,"Smith was tagged"1929CHN.EVN.regular.comment.csv",201
+
+"CHN192906180",45,"Wilson held on after bumping into RCF wall"1929CHN.EVN.regular.comment.csv",202
+
+"CHN192906180",47,"Into RF bleachers"1929CHN.EVN.regular.comment.csv",203
+
+"CHN192906180",57,"Into RF seats"1929CHN.EVN.regular.comment.csv",204
+
+"CHN192906180",79,"Over LF wall"1929CHN.EVN.regular.comment.csv",205
+
+"CHN192906180",83,"Off Grimm's glove to Hornsby"1929CHN.EVN.regular.comment.csv",206
+
+"CHN192906191",17,"After the 2nd inning attendance had increased to 40,000. Rope were stretched in LF for the overflow crowd."1929CHN.EVN.regular.comment.csv",207
+
+"CHN192906191",24,"Over RF fence"1929CHN.EVN.regular.comment.csv",208
+
+"CHN192906191",36,"Orsatti dropped it but ruled double"1929CHN.EVN.regular.comment.csv",209
+
+"CHN192906191",42,"English: good stop"1929CHN.EVN.regular.comment.csv",210
+
+"CHN192906191",49,"Hornsby collided with Cuyler but hung on"1929CHN.EVN.regular.comment.csv",211
+
+"CHN192906191",53,"Into LF crowd"1929CHN.EVN.regular.comment.csv",212
+
+"CHN192906191",56,"Orsatti dropped it after crashing into RF screen. Game delayed to attend to Orsatti."1929CHN.EVN.regular.comment.csv",213
+
+"CHN192906191",59,"Attempted double steal"1929CHN.EVN.regular.comment.csv",214
+
+"CHN192906191",77,"Bottomley: leaping catch"1929CHN.EVN.regular.comment.csv",215
+
+"CHN192906192",0,"Overflow crowd behind ropes in LF"1929CHN.EVN.regular.comment.csv",216
+
+"CHN192906192",6,"Into LF crowd"1929CHN.EVN.regular.comment.csv",217
+
+"CHN192906192",22,"Through SS"1929CHN.EVN.regular.comment.csv",218
+
+"CHN192906192",34,"BOUNCE HR, into box seats in RF"1929CHN.EVN.regular.comment.csv",219
+
+"CHN192906192",43,"Into LF crowd"1929CHN.EVN.regular.comment.csv",220
+
+"CHN192906192",48,"Into LF crowd"1929CHN.EVN.regular.comment.csv",221
+
+"CHN192906192",51,"Into LF crowd"1929CHN.EVN.regular.comment.csv",222
+
+"CHN192906192",60,"High dropped throw"1929CHN.EVN.regular.comment.csv",223
+
+"CHN192906200",2,"English: good stop"1929CHN.EVN.regular.comment.csv",224
+
+"CHN192906200",7,"Into RF seats"1929CHN.EVN.regular.comment.csv",225
+
+"CHN192906200",18,"Roettger lost it in the sun"1929CHN.EVN.regular.comment.csv",226
+
+"CHN192906200",25,"Smith fumbled throw home"1929CHN.EVN.regular.comment.csv",227
+
+"CHN192906200",38,"Into RF seats"1929CHN.EVN.regular.comment.csv",228
+
+"CHN192906200",45,"Nehf deflected it"1929CHN.EVN.regular.comment.csv",229
+
+"CHN192906200",47,"Into RF bleachers"1929CHN.EVN.regular.comment.csv",230
+
+"CHN192906200",55,"Over Beck"1929CHN.EVN.regular.comment.csv",231
+
+"CHN192906220",63,"$Grimm and English collided trying to catch Kremer's pop"1929CHN.EVN.regular.comment.csv",232
+
+"CHN192906230",6,"Late throw to 1B"1929CHN.EVN.regular.comment.csv",233
+
+"CHN192906230",7,"Deflected by Meine; whale of a play by Grantham"1929CHN.EVN.regular.comment.csv",234
+
+"CHN192906230",17,"Into LF crowd"1929CHN.EVN.regular.comment.csv",235
+
+"CHN192906230",23,"Hit in the face and fell beside the plate.  The players surrounded him and he finally arose and was escorted to the bench where the bleeding soon ceased upon application of cold water.  About 5 minutes after the mishap he was on 1B. After the game a surgical examination disclosed a fracture in the upper part of the nose where the bone is quite thin. He was in considerable pain."1929CHN.EVN.regular.comment.csv",236
+
+"CHN192906230",30,"Into LF crowd"1929CHN.EVN.regular.comment.csv",237
+
+"CHN192906230",38,"Scratched off Traynor's glove"1929CHN.EVN.regular.comment.csv",238
+
+"CHN192906230",41,"Over CF crowd"1929CHN.EVN.regular.comment.csv",239
+
+"CHN192906230",50,"Comorosky fumbled"1929CHN.EVN.regular.comment.csv",240
+
+"CHN192906230",53,"A collision at the plate knocked the ball out of Hargreaves' glove and injured the catcher."1929CHN.EVN.regular.comment.csv",241
+
+"CHN192906230",58,"To the end of the foul line"1929CHN.EVN.regular.comment.csv",242
+
+"CHN192906230",62,"Into RF crowd"1929CHN.EVN.regular.comment.csv",243
+
+"CHN192906230",63,"Off Traynor's glove"1929CHN.EVN.regular.comment.csv",244
+
+"CHN192906230",72,"Into the crowd back of LCF"1929CHN.EVN.regular.comment.csv",245
+
+"CHN192906230",73,"Lightening throw to the plate"1929CHN.EVN.regular.comment.csv",246
+
+"CHN192906230",84,"A little grounder to the box; Nehf beat him in a race to 1B"1929CHN.EVN.regular.comment.csv",247
+
+"CHN192906240",0,"$Light rain was falling at 1:00, but an hour later the rain was over and the gates were opened. Threatening weather kept attendance down."1929CHN.EVN.regular.comment.csv",248
+
+"CHN192906240",29,"Into RF bleachers"1929CHN.EVN.regular.comment.csv",249
+
+"CHN192906240",33,"Over RCF fence"1929CHN.EVN.regular.comment.csv",250
+
+"CHN192906240",48,"Into LF stands"1929CHN.EVN.regular.comment.csv",251
+
+"CHN192906240",66,"Into RF bleachers"1929CHN.EVN.regular.comment.csv",252
+
+"CHN192907230",7,"Great stop by McMillan of slow roller; Grimm made spectacular catch of McMillan's low wide throw."1929CHN.EVN.regular.comment.csv",253
+
+"CHN192907230",9,"Hot grounder"1929CHN.EVN.regular.comment.csv",254
+
+"CHN192907230",32,"'The attendance has now reached 35,000'"1929CHN.EVN.regular.comment.csv",255
+
+"CHN192907230",39,"Off Root's glove"1929CHN.EVN.regular.comment.csv",256
+
+"CHN192907230",51,"Against screen of RF bleachers"1929CHN.EVN.regular.comment.csv",257
+
+"CHN192907230",54,"McMillian attempted to score on a short passed ball"1929CHN.EVN.regular.comment.csv",258
+
+"CHN192907230",61,"Leaping 1-hand catch"1929CHN.EVN.regular.comment.csv",259
+
+"CHN192907240",1,"$Sharply hit off Bush's glove; Roush pulled up lame before reaching the bag and was an easy out.  He limped to the dugout and was taken to the club house for treatment."1929CHN.EVN.regular.comment.csv",260
+
+"CHN192907240",5,"Leach: running catch"1929CHN.EVN.regular.comment.csv",261
+
+"CHN192907240",6,"Into RF bleachers"1929CHN.EVN.regular.comment.csv",262
+
+"CHN192907240",18,"Wilson: running catch"1929CHN.EVN.regular.comment.csv",263
+
+"CHN192907240",21,"Scott tried to sneak a quick pitch over the plate"1929CHN.EVN.regular.comment.csv",264
+
+"CHN192907240",23,"Lindstrom hit by his own batted ball"1929CHN.EVN.regular.comment.csv",265
+
+"CHN192907240",25,"Wilson: running catch of low line drive"1929CHN.EVN.regular.comment.csv",266
+
+"CHN192907240",27,"Into RCF bleachers"1929CHN.EVN.regular.comment.csv",267
+
+"CHN192907240",32,"Reese juggled high bounder"1929CHN.EVN.regular.comment.csv",268
+
+"CHN192907240",38,"Bounced over Fitzsimmons"1929CHN.EVN.regular.comment.csv",269
+
+"CHN192907240",44,"Against screen on RF bleachers.  Heathcote's almost- perfect throw to the plate got away from Taylor. Fullis had delayed his start from 1B thinking the fly might be caught."1929CHN.EVN.regular.comment.csv",270
+
+"CHN192907240",45,"$A thunderstorm was blowing up out of the West and it became so dark that at times the outfielders were almost obscured, while the wind blew the dust in swirling clouds over the infield. Spectators in the front rows of the stands retreated."1929CHN.EVN.regular.comment.csv",271
+
+"CHN192907240",46,"$The rain began to fall and the thunder rolled and lightning flashed.  The downpour became so heavy that Umpire Pfirman called time, the teams withdrawing from the field.  By this time the storm approached proportions of a cloudburst. After a delay of 30 minutes, the umpires inspected the muddy field and decided that with some attention from the ground- keepers the ground could be put in shape for resuming the game.  New bases were placed on it and the groundkeepers set to work to put the field in shape.  Under the direction of the umpires sand was spread on the base lines.  The dugouts were knee-deep in water and were being drained. Total delay: 75 minutes."1929CHN.EVN.regular.comment.csv",272
+
+"CHN192907240",63,"Deep into CF bleachers"1929CHN.EVN.regular.comment.csv",273
+
+"CHN192907250",7,"CDN coverage ended here"1929CHN.EVN.regular.comment.csv",274
+
+"CHN192907250",9,"Into RF bleachers"1929CHN.EVN.regular.comment.csv",275
+
+"CHN192907250",11,"Running catch"1929CHN.EVN.regular.comment.csv",276
+
+"CHN192907250",27,"Through Reese"1929CHN.EVN.regular.comment.csv",277
+
+"CHN192907250",29,"Reese knocked down the smash"1929CHN.EVN.regular.comment.csv",278
+
+"CHN192907250",37,"Close play"1929CHN.EVN.regular.comment.csv",279
+
+"CHN192907250",52,"Past Grimm"1929CHN.EVN.regular.comment.csv",280
+
+"CHN192907250",60,"Into LCF bleachers"1929CHN.EVN.regular.comment.csv",281
+
+"CHN192907250",63,"Past Hornsby"1929CHN.EVN.regular.comment.csv",282
+
+"CHN192907250",76,"Bush smuggled the smash"1929CHN.EVN.regular.comment.csv",283
+
+"CHN192907272",0,"$Special ground rules in force due to fans on outfield grass"1929CHN.EVN.regular.comment.csv",284
+
+"CHN192907272",16,"$A pitched ball injured Schulte's right hand, he was replaced."1929CHN.EVN.regular.comment.csv",285
+
+"CHN192907272",43,"Hurst threw wide of first to pitcher covering bag."1929CHN.EVN.regular.comment.csv",286
+
+"CHN192907280",19,"Off McMillan's chest"1929CHN.EVN.regular.comment.csv",287
+
+"CHN192907280",24,"Off Thompson's glove"1929CHN.EVN.regular.comment.csv",288
+
+"CHN192907280",28,"Into LF jury box"1929CHN.EVN.regular.comment.csv",289
+
+"CHN192907280",32,"Grimm: leaping stop"1929CHN.EVN.regular.comment.csv",290
+
+"CHN192907280",51,"Into RF seats"1929CHN.EVN.regular.comment.csv",291
+
+"CHN192907311",35,"To RF scoreboard"1929CHN.EVN.regular.comment.csv",292
+
+"CHN192907311",62,"Over RF fence just inside foul line"1929CHN.EVN.regular.comment.csv",293
+
+"CHN192907312",24,"Over RF fence"1929CHN.EVN.regular.comment.csv",294
+
+"CHN192907312",51,"Into CF bleachers"1929CHN.EVN.regular.comment.csv",295
+
+"CHN192907312",62,"Over LF fence"1929CHN.EVN.regular.comment.csv",296
+
+"CHN192908010",7,"Over Richbourg"1929CHN.EVN.regular.comment.csv",297
+
+"CHN192908010",12,"Richbourg: sparkling running catch"1929CHN.EVN.regular.comment.csv",298
+
+"CHN192908010",51,"Wilson got a glove on it but it rolled to the fence"1929CHN.EVN.regular.comment.csv",299
+
+"CHN192908030",11,"Rhiel lost fly in sun"1929CHN.EVN.regular.comment.csv",300
+
+"CHN192908030",29,"Bounced off Rhiel's shins"1929CHN.EVN.regular.comment.csv",301
+
+"CHN192908030",42,"Assumed runner advancement"1929CHN.EVN.regular.comment.csv",302
+
+"CHN192908030",54,"ej,mcwed101,P,mclae901,Balls and strikes $Pitcher McWeeny ejected by HP umpire McLaughlin for arguing balls and strikes"1929CHN.EVN.regular.comment.csv",303
+
+"CHN192908040",2,"Into the LCF crowd"1929CHN.EVN.regular.comment.csv",304
+
+"CHN192908040",47,"Over LF wall"1929CHN.EVN.regular.comment.csv",305
+
+"CHN192908040",62,"Bounder hit 2B bag and slanted away from Bancroft"1929CHN.EVN.regular.comment.csv",306
+
+"CHN192908060",0,"Ladies' Day; a half-hour before game time all seats were filled.  The overflow crowd was allowed on the field; a hit into any part of the overflow crowd went as a two-bagger."1929CHN.EVN.regular.comment.csv",307
+
+"CHN192908060",10,"Over Cuyler's head, the ball dropping into the crowd, but it was difficult for the umpires to see if the ball had cleared the screen in front of the right field bleachers.  Hendrick was stopped at 3B by Ump Moran.  Immediately the Dodgers rushed off their bench claiming that the hit cleared the screen for a home run.  There was a long argument, but the Dodgers' kick was in vain."1929CHN.EVN.regular.comment.csv",308
+
+"CHN192908060",12,"Bissonette overslid 3B"1929CHN.EVN.regular.comment.csv",309
+
+"CHN192908060",16,"Into LF crowd"1929CHN.EVN.regular.comment.csv",310
+
+"CHN192908060",17,"Through English's legs"1929CHN.EVN.regular.comment.csv",311
+
+"CHN192908060",25,"Into RF crowd"1929CHN.EVN.regular.comment.csv",312
+
+"CHN192908060",28,"Knocked down low line drive"1929CHN.EVN.regular.comment.csv",313
+
+"CHN192908060",31,"Spectacular diving catch"1929CHN.EVN.regular.comment.csv",314
+
+"CHN192908060",41,"Threw to Dodgers bench"1929CHN.EVN.regular.comment.csv",315
+
+"CHN192908060",44,"Into RF crowd"1929CHN.EVN.regular.comment.csv",316
+
+"CHN192908060",45,"Great stop"1929CHN.EVN.regular.comment.csv",317
+
+"CHN192908060",51,"'Cuyler sent the crowd into an uproar when he singled past Moore, scoring Wilson with the tying run.  Wilson beat Hendrick's perfect throw to the plate by a narrow margin...'"1929CHN.EVN.regular.comment.csv",318
+
+"CHN192908060",52,"Into RCF crowd"1929CHN.EVN.regular.comment.csv",319
+
+"CHN192908060",58,"Nice running catch"1929CHN.EVN.regular.comment.csv",320
+
+"CHN192908060",59,"Into LF crowd"1929CHN.EVN.regular.comment.csv",321
+
+"CHN192908060",60,"Into RF crowd"1929CHN.EVN.regular.comment.csv",322
+
+"CHN192908060",62,"Might be Penner's 1st ML appearance in 13 years!"1929CHN.EVN.regular.comment.csv",323
+
+"CHN192908060",65,"Over RF screen"1929CHN.EVN.regular.comment.csv",324
+
+"CHN192908260",0,"'Before the game Cliff Heathcote was presented with a specially made ukulele.  Hack Wilson was presented with a large frosted cake by some young lady dressed in red, white, and blue.'"1929CHN.EVN.regular.comment.csv",325
+
+"CHN192908260",3,"Taylor let Heathcote's throw get past him"1929CHN.EVN.regular.comment.csv",326
+
+"CHN192908260",5,"When Kelly tried for 2B and drew a throw, Walker tried to score."1929CHN.EVN.regular.comment.csv",327
+
+"CHN192908260",11,"Slow roller"1929CHN.EVN.regular.comment.csv",328
+
+"CHN192908260",14,"Ripped a single off Dressen's glove"1929CHN.EVN.regular.comment.csv",329
+
+"CHN192908260",20,"Broken bat single"1929CHN.EVN.regular.comment.csv",330
+
+"CHN192908260",22,"Attempted double steal"1929CHN.EVN.regular.comment.csv",331
+
+"CHN192908260",25,"Close to the fence"1929CHN.EVN.regular.comment.csv",332
+
+"CHN192908260",30,"Into RF bleachers"1929CHN.EVN.regular.comment.csv",333
+
+"CHN192908260",51,"To the box seats"1929CHN.EVN.regular.comment.csv",334
+
+"CHN192908260",52,"Close play"1929CHN.EVN.regular.comment.csv",335
+
+"CHN192908260",54,"Great stop by Pittenger"1929CHN.EVN.regular.comment.csv",336
+
+"CHN192908260",57,"Against LF bleachers"1929CHN.EVN.regular.comment.csv",337
+
+"CHN192908260",60,"Past McMillan"1929CHN.EVN.regular.comment.csv",338
+
+"CHN192908260",70,"Baseball-Reference.com writes, 'In the eighth inning of a 5-5 game at Wrigley Field, Cubs 3B Norm McMillan hits a line drive down the LF line with the bases loaded. Reds LF Evar Swanson, shaded toward center, can't find the ball, which he sees bounce off a gutter in foul territory. McMillan circles the bases and four runs score. Later, Cubs relief P Ken Penner picks up his jacket in the bullpen and discovers the ball in his right sleeve.'"1929CHN.EVN.regular.comment.csv",339
+
+"CHN192908260",71,"Off Ford's glove"1929CHN.EVN.regular.comment.csv",340
+
+"CHN192908270",6,"Off RF screen"1929CHN.EVN.regular.comment.csv",341
+
+"CHN192908270",19,"Luque tagged him"1929CHN.EVN.regular.comment.csv",342
+
+"CHN192908270",22,"Neat running catch"1929CHN.EVN.regular.comment.csv",343
+
+"CHN192908270",25,"Into RF runway"1929CHN.EVN.regular.comment.csv",344
+
+"CHN192908270",58,"Snappy DP"1929CHN.EVN.regular.comment.csv",345
+
+"CHN192909010",34,"Into crowd on field."1929CHN.EVN.regular.comment.csv",346
+
+"CHN192909010",50,"Hit and run."1929CHN.EVN.regular.comment.csv",347
+
+"CHN192909021",10,"Pop fell just out of Frisch's reach, but Orsatti got force"1929CHN.EVN.regular.comment.csv",348
+
+"CHN192909021",13,"English: fine stop"1929CHN.EVN.regular.comment.csv",349
+
+"CHN192909021",14,"Over Wilson"1929CHN.EVN.regular.comment.csv",350
+
+"CHN192909021",15,"Off LCF screen"1929CHN.EVN.regular.comment.csv",351
+
+"CHN192909021",22,"Over Wilson"1929CHN.EVN.regular.comment.csv",352
+
+"CHN192909021",23,"Hornsby: bare-handed stop"1929CHN.EVN.regular.comment.csv",353
+
+"CHN192909021",24,"Off Malone's glove"1929CHN.EVN.regular.comment.csv",354
+
+"CHN192909021",30,"Into RF seats Time was taken to clear field of straw hats thrown on the field by jubilant fans."1929CHN.EVN.regular.comment.csv",355
+
+"CHN192909021",32,"Off RF screen"1929CHN.EVN.regular.comment.csv",356
+
+"CHN192909021",41,"$McMillan was trapped when English missed bunt"1929CHN.EVN.regular.comment.csv",357
+
+"CHN192909021",67,"Into RF seats"1929CHN.EVN.regular.comment.csv",358
+
+"CHN192909021",91,"Off McMillan's glove"1929CHN.EVN.regular.comment.csv",359
+
+"CHN192909022",1,"Low throw"1929CHN.EVN.regular.comment.csv",360
+
+"CHN192909022",5,"Into CF crowd"1929CHN.EVN.regular.comment.csv",361
+
+"CHN192909022",7,"Off Carlson's glove"1929CHN.EVN.regular.comment.csv",362
+
+"CHN192909022",25,"Into RF seats; a straw hat shower followed"1929CHN.EVN.regular.comment.csv",363
+
+"CHN192909022",26,"Frisch: good catch"1929CHN.EVN.regular.comment.csv",364
+
+"CHN192909022",35,"Sherdel missed bunt attempt"1929CHN.EVN.regular.comment.csv",365
+
+"CHN192909022",37,"Off McMillan's glove"1929CHN.EVN.regular.comment.csv",366
+
+"CHN192909022",44,"Into LF crowd"1929CHN.EVN.regular.comment.csv",367
+
+"CHN192909022",47,"Into RF bleachers"1929CHN.EVN.regular.comment.csv",368
+
+"CHN192909022",50,"Into LF crowd"1929CHN.EVN.regular.comment.csv",369
+
+"CHN192909022",52,"Into LCF crowd"1929CHN.EVN.regular.comment.csv",370
+
+"CHN192909022",53,"Douthit got a glove on it"1929CHN.EVN.regular.comment.csv",371
+
+"CHN192909022",66,"Into CF crowd"1929CHN.EVN.regular.comment.csv",372
+
+"CHN192909022",79,"English: good stop of hard smash"1929CHN.EVN.regular.comment.csv",373
+
+"CHN192909022",82,"Into LF crowd"1929CHN.EVN.regular.comment.csv",374
+
+"CHN192909022",89,"Taylor overran 2B"1929CHN.EVN.regular.comment.csv",375
+
+"CHN192909022",91,"Off Bush's glove"1929CHN.EVN.regular.comment.csv",376
+
+"CHN192909090",5,"$20 minute rain delay"1929CHN.EVN.regular.comment.csv",377
+
+"CHN192909090",25,"$1 hr rain delay"1929CHN.EVN.regular.comment.csv",378
+
+"CHN192909110",58,"arbitrary 8 to 9"1929CHN.EVN.regular.comment.csv",379
+
+"CHN192909120",76,"Ninth inning from Chi. Tribune."1929CHN.EVN.regular.comment.csv",380
+
+"CHN192909140",10,"Over English's head"1929CHN.EVN.regular.comment.csv",381
+
+"CHN192909140",23,"Running catch in CF"1929CHN.EVN.regular.comment.csv",382
+
+"CHN192909140",42,"Herman had passed 2B as Wilson caught the fly ball, but in returning to 1B he made a shortcut and forgot to touch 2B."1929CHN.EVN.regular.comment.csv",383
+
+"CHN192909140",50,"BOUNCE HR, over RF screen fence"1929CHN.EVN.regular.comment.csv",384
+
+"CHN192909150",12,"Herman misjudged ball."1929CHN.EVN.regular.comment.csv",385
+
+"CHN192909150",15,"Frederick misjudged ball."1929CHN.EVN.regular.comment.csv",386
+
+"CHN192909150",17,"Not clear when Henline entered."1929CHN.EVN.regular.comment.csv",387
+
+"CHN192909150",58,"Scorecard has 4 outs for inning."1929CHN.EVN.regular.comment.csv",388
+
+"CHN192909171",9,"Great 1-hand stop"1929CHN.EVN.regular.comment.csv",389
+
+"CHN192909171",16,"Attempted double steal"1929CHN.EVN.regular.comment.csv",390
+
+"CHN192909171",19,"Frederick's 50th double tied Paul Waner's NL record established last season."1929CHN.EVN.regular.comment.csv",391
+
+"CHN192909171",34,"Running catch"1929CHN.EVN.regular.comment.csv",392
+
+"CHN192909171",36,"Over E.Moore's head"1929CHN.EVN.regular.comment.csv",393
+
+"CHN192909171",38,"Herman threw into the Cubs' bench"1929CHN.EVN.regular.comment.csv",394
+
+"CHN192909171",47,"Warner collided with Taylor at the plate.  The catcher's thumbnail of his throwing hand was split and the second joint of his thumb was sprained."1929CHN.EVN.regular.comment.csv",395
+
+"CHN192909171",53,"IPHR; against the screen in front of CF bleachers. The previous pitch to Cuyler was called a ball and Vance kicked, claiming it should have been the 3rd strike."1929CHN.EVN.regular.comment.csv",396
+
+"CHN192909171",63,"Running catch"1929CHN.EVN.regular.comment.csv",397
+
+"CHN192909171",81,"Blake replaced Cvengros with the count 1-1"1929CHN.EVN.regular.comment.csv",398
+
+"CHN192909172",21,"English threw high over Tolson"1929CHN.EVN.regular.comment.csv",399
+
+"CHN192909172",29,"Into RF stands"1929CHN.EVN.regular.comment.csv",400
+
+"CHN192909172",75,"Over the leaping Cuyler, into RF bleachers"1929CHN.EVN.regular.comment.csv",401
+
+"CHN192909180",16,"Run down"1929CHN.EVN.regular.comment.csv",402
+
+"CHN192909180",38,"Cuyler robbed him with a 1-hand running catch in deep LF"1929CHN.EVN.regular.comment.csv",403
+
+"CHN192909180",52,"Tricky bounder over Tolson"1929CHN.EVN.regular.comment.csv",404
+
+"CHN192909180",54,"Run down"1929CHN.EVN.regular.comment.csv",405
+
+"CHN192909190",5,"High hard bounder"1929CHN.EVN.regular.comment.csv",406
+
+"CHN192909190",31,"Malone knocked down the smash with his bare hand and threw him out from a sitting position."1929CHN.EVN.regular.comment.csv",407
+
+"CHN192909190",37,"Pretty catch at edge of box seats"1929CHN.EVN.regular.comment.csv",408
+
+"CHN192909190",38,"Texas Leaguer"1929CHN.EVN.regular.comment.csv",409
+
+"CHN192909190",55,"Sharp bounder over McMillan's head"1929CHN.EVN.regular.comment.csv",410
+
+"CHN192909190",72,"Hard smash down 3B line"1929CHN.EVN.regular.comment.csv",411
+
+"CHN192909210",3,"Against LCF bleachers"1929CHN.EVN.regular.comment.csv",412
+
+"CHN192909210",4,"Slow roller"1929CHN.EVN.regular.comment.csv",413
+
+"CHN192909210",5,"Galloping catch"1929CHN.EVN.regular.comment.csv",414
+
+"CHN192909210",7,"Through SS"1929CHN.EVN.regular.comment.csv",415
+
+"CHN192909210",10,"Through Jackson"1929CHN.EVN.regular.comment.csv",416
+
+"CHN192909210",51,"Hot smash off Terry's glove"1929CHN.EVN.regular.comment.csv",417
+
+"CHN192909210",61,"Into RF bleachers; Ott's 40th."1929CHN.EVN.regular.comment.csv",418
+
+"CHN192909210",64,"Past Hornsby"1929CHN.EVN.regular.comment.csv",419
+
+"CHN192909210",70,"Down 1B line"1929CHN.EVN.regular.comment.csv",420
+
+"CHN192909210",71,"Through Tolson"1929CHN.EVN.regular.comment.csv",421
+
+"CHN192909280",28,"Drive into RF corner bounced over the screen."1929CHN.EVN.regular.comment.csv",422
+
+"CHN192909280",55,"$Critz fielded a hot grounder and beat the batter to first."1929CHN.EVN.regular.comment.csv",423
+
+"CHN192909280",61,"Fifteen minute rain delay"1929CHN.EVN.regular.comment.csv",424
+
+"CHN192909290",29,"Frey tossed ball away after getting hit by Wilson's liner."1929CHN.EVN.regular.comment.csv",425
+
+"CHN192909290",66,"Great throw by Stephenson to cut off a run at the plate."1929CHN.EVN.regular.comment.csv",426
+

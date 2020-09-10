@@ -1,27 +1,26 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"LAN198404030",0,"$Major League Broadcasting Debut for Bob Carpenter"
-"LAN198405150",35,"Mike Schmidt's 400th home run"
-"LAN198405180",6,"ej,sax-s001,P,monte901,Call at 1B Steve Sax ejected by 1B umpire Ed Montague"
-"LAN198405200",62,"ej,wallt001,P,grege901,Balls and strikes Tim Wallach ejected by HP umpire Eric Gregg"
-"LAN198406050",56,"ej,helmt101,C,palld901,Checked swing ej,rappv801,M,palld901,Checked swing $Reds manager Rapp and coach Helms ejected by 3B umpire Pallone for arguing check swing strike 3 by Milner"
-"LAN198406120",23,"ej,lasot101,M,davib902,Balls and strikes $Dodgers manager Lasorda ejected by HP umpire Davidson for arguing balls and strikes after pitcher change"
-"LAN198406120",42,"ej,amalj101,C,tatat901,Fan interference (Runner placement) $fan interference ruled down the LF line; 3B umpire Terry Tata allowed Jeffrey Leonard to score from 1B on the play; Dodgers coach Joey Amalfitano ejected by Tata"
-"LAN198406130",33,"ej,lasot101,M,davib902,Balk ej,welcb001,P,davib902,Balk Bob Welch and Dodgers manager Tommy Lasorda ejected by 3B umpire Bob Davidson"
-"LAN198406250",85,"Debut game for Ken Howell"
-"LAN198407280",6,"Debut game for Ed Amelung"
-"LAN198407280",45,"ej,rappv801,M,willc901,Call at 1B $Reds manager Rapp ejected by 1B umpire Williams for arguing that Landreaux was out at 1st"
-"LAN198409080",79,"Debut game for Wade Rowdon"
-"LAN198409090",1,"Debut game for Tom Browning"
-"LAN198404030",0,"$Major League Broadcasting Debut for Bob Carpenter"
-"LAN198405150",35,"Mike Schmidt's 400th home run"
-"LAN198405180",6,"ej,sax-s001,P,monte901,Call at 1B Steve Sax ejected by 1B umpire Ed Montague"
-"LAN198405200",62,"ej,wallt001,P,grege901,Balls and strikes Tim Wallach ejected by HP umpire Eric Gregg"
-"LAN198406050",56,"ej,helmt101,C,palld901,Checked swing ej,rappv801,M,palld901,Checked swing $Reds manager Rapp and coach Helms ejected by 3B umpire Pallone for arguing check swing strike 3 by Milner"
-"LAN198406120",23,"ej,lasot101,M,davib902,Balls and strikes $Dodgers manager Lasorda ejected by HP umpire Davidson for arguing balls and strikes after pitcher change"
-"LAN198406120",42,"ej,amalj101,C,tatat901,Fan interference (Runner placement) $fan interference ruled down the LF line; 3B umpire Terry Tata allowed Jeffrey Leonard to score from 1B on the play; Dodgers coach Joey Amalfitano ejected by Tata"
-"LAN198406130",33,"ej,lasot101,M,davib902,Balk ej,welcb001,P,davib902,Balk Bob Welch and Dodgers manager Tommy Lasorda ejected by 3B umpire Bob Davidson"
-"LAN198406250",85,"Debut game for Ken Howell"
-"LAN198407280",6,"Debut game for Ed Amelung"
-"LAN198407280",45,"ej,rappv801,M,willc901,Call at 1B $Reds manager Rapp ejected by 1B umpire Williams for arguing that Landreaux was out at 1st"
-"LAN198409080",79,"Debut game for Wade Rowdon"
-"LAN198409090",1,"Debut game for Tom Browning"
+"LAN198404030",0,"$Major League Broadcasting Debut for Bob Carpenter"FILENAME_TX","LINE_NUMBER_CT"
+
+"LAN198405150",35,"Mike Schmidt's 400th home run"1984LAN.EVN.regular.comment.csv",2
+
+"LAN198405180",6,"ej,sax-s001,P,monte901,Call at 1B Steve Sax ejected by 1B umpire Ed Montague"1984LAN.EVN.regular.comment.csv",3
+
+"LAN198405200",62,"ej,wallt001,P,grege901,Balls and strikes Tim Wallach ejected by HP umpire Eric Gregg"1984LAN.EVN.regular.comment.csv",4
+
+"LAN198406050",56,"ej,helmt101,C,palld901,Checked swing ej,rappv801,M,palld901,Checked swing $Reds manager Rapp and coach Helms ejected by 3B umpire Pallone for arguing check swing strike 3 by Milner"1984LAN.EVN.regular.comment.csv",5
+
+"LAN198406120",23,"ej,lasot101,M,davib902,Balls and strikes $Dodgers manager Lasorda ejected by HP umpire Davidson for arguing balls and strikes after pitcher change"1984LAN.EVN.regular.comment.csv",6
+
+"LAN198406120",42,"ej,amalj101,C,tatat901,Fan interference (Runner placement) $fan interference ruled down the LF line; 3B umpire Terry Tata allowed Jeffrey Leonard to score from 1B on the play; Dodgers coach Joey Amalfitano ejected by Tata"1984LAN.EVN.regular.comment.csv",7
+
+"LAN198406130",33,"ej,lasot101,M,davib902,Balk ej,welcb001,P,davib902,Balk Bob Welch and Dodgers manager Tommy Lasorda ejected by 3B umpire Bob Davidson"1984LAN.EVN.regular.comment.csv",8
+
+"LAN198406250",85,"Debut game for Ken Howell"1984LAN.EVN.regular.comment.csv",9
+
+"LAN198407280",6,"Debut game for Ed Amelung"1984LAN.EVN.regular.comment.csv",10
+
+"LAN198407280",45,"ej,rappv801,M,willc901,Call at 1B $Reds manager Rapp ejected by 1B umpire Williams for arguing that Landreaux was out at 1st"1984LAN.EVN.regular.comment.csv",11
+
+"LAN198409080",79,"Debut game for Wade Rowdon"1984LAN.EVN.regular.comment.csv",12
+
+"LAN198409090",1,"Debut game for Tom Browning"1984LAN.EVN.regular.comment.csv",13
+

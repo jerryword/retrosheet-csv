@@ -1,93 +1,92 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"WAS201104020",0,"32 minute rain delay before start of game"
-"WAS201104020",40,"$55 minute rain delay with 0-2 count on Werth"
-"WAS201104020",67,"$suicide squeeze as Zimmerman came down the line on the pitch; Ankiel's third RBI of the game, the first two from a home run"
-"WAS201104030",11,"$Jayson Werth and Chipper Jones collided in the baseline; Werth was tagged out at the plate on a close play; Jones was called for obstruction and the run counted; in the opinion of the official scorer, Werth would have scored easily without the obstruction; therefore, the play was ruled a single and an RBI without an error on Jones (Rule 10.12[c] comment)"
-"WAS201104030",53,"$infield shifted to right for Brian McCann"
-"WAS201104030",54,"$Brian McCann hit a slow grounder to the SS position but no one was there to field it; SS Ian Desmond ran over from the other side of second base but two runs scored"
-"WAS201104030",60,"$Ryan Zimmerman threw to second too late to get Jason Heyward; Danny Espinosa dropped the ball when Heyward rolled into him; 2B umpire Tim Welke raised his right arm, seemingly calling Heyward out; both managers came out to check on players and the call; the umpires talked and Heyward was allowed to stay at 2B"
-"WAS201104030",69,"$Jason Heyward's liner caromed off pitcher Chad Gaudin into RF"
-"WAS201104130",25,"$Infield shift on for Ryan Howard, with 3B Jerry Hairston playing at about the normal 2B spot"
-"WAS201104130",26,"$3B Jerry Hairston fielded the ball as a 2B and threw out Ryan Howard; Jimmy Rollins, running from 1B rounded 2B and never stopped, since there was no one covering 3B; as he turned the corner, he ran into SS Ian Desmond; Desmond was called for obstruction and Rollins awarded 3B"
-"WAS201104171",75,"$Nationals 2B Danny Espinosa lost the popup in the sun and it fell in untouched about 10 feet out on the grass; the batter, Ryan Braun, was out because of the infield fly ruling; when Carlos Gomez scored, Braun was credited with an RBI but cannot get credit for a sacrifice fly on an infield fly, since a sac fly is a ball hit to the outfield"
-"WAS201104260",9,"fan interference"
-"WAS201104280",0,"$umpire crew chief Tim McClelland did not work the game; minor league umpire Lance Barrett arrives during game and enters field for the bottom of the sixth"
-"WAS201104280",50,"umpchange,6,ump3b,barrl901 umpchange,6,ump2b,barrt901"
-"WAS201104290",17,"$the ball bounced into foul territory and hit the facing of the stands just at the corner; the ball seemed to hit off the chair used by the ball girl and bounce out to LF Laynce Nix"
-"WAS201104300",31,"$Nationals pitcher John Lannan fielded the ball and looked at Buster Posey, who was well off the bag at 2B; Lannan ran towards Posey and tagged him; when Pat Burrell ran to 2B, Lannan threw him out"
-"WAS201105010",30,"oringally scored WP, changed next day"
-"WAS201105010",46,"$the liner by Jayson Werth went through the legs of RF Nate Schierholtz"
-"WAS201105130",31,"$the Nationals argued that batter Chris Volstad interfered with catcher Wilson Ramos's ability to field the ball"
-"WAS201105130",91,"$Omar Infante slid head-first into the plate; catcher Wilson Ramos caught the ball on the 1B line and swept his glove around to the left to tag Infante; Infante brought his left arm back to avoid the tag and reached back into the plate but missed it; Ramos tried a second swwep tag but missed again; Infante, having come to a stop on his slide, reached out and finally touched the plate; the Nationals objected to the call but it was clearly correct"
-"WAS201105130",94,"$Emilio Bonifacio ran into his own bunt and was called out for interference"
-"WAS201105270",48,"ej,hairj002,P,hicke901,Refusal to grant time $Nationals Jerry Hairston tried to call time out started to step out of the batter's box; when HP umpire Ed Hickox did not grant the time, Hairston jumped back in and swung at the 2-2 pitch, hitting a fly to center field; Hairston stood at the plate and argued with Hickox instead of running to first; with Hairston still holding his bat, the argument got more heated about the refusal of Hickox to call time; the Nationals claimed that Padres pitcher Clayton Richard had been quick-pitching batters all night; as Nationals manager Jim Riggleman came out to the plate, Hickox ejected Hairston; his motion almost hit Riggleman; the argument continued; Hairston started back to the dugout and then tried to return; he was escorted to the dugout by coaches Bo Porter and John McLaren while crew chief Ed Rapuano talked with them"
-"WAS201106140",14,"Nationals center fielder Rick Ankiel left the game due to a strained left rib cage muscle, which he hurt catching Daniel Descalso's fly ball"
-"WAS201106180",26,"Orioles left fielder Luke Scott left the game due to an injured back"
-"WAS201106180",49,"Orioles pitcher Brian Matusz left the game due to an injured leg"
-"WAS201106210",56,"Nationals left fielder Laynce Nix left the game due to an injured foot"
-"WAS201106230",0,"$after the game, Nationals Manager Jim Riggleman resigned because the Nationals would not extend his contract; he left with a 38-37 record in 2011"
-"WAS201107021",0,"$Debut for umpire Mark Lollo"
-"WAS201107050",23,"Cubs second baseman Jeff Baker left the game due to an injured back"
-"WAS201107270",15,"$the ball rolled down the 3B line on the dirt and struck the bag"
-"WAS201107270",68,"$25-game hit streak for Emilio Bonifacio"
-"WAS201108010",49,"$the throw by 2B Dan Uggla sailed into the seats behind 1B"
-"WAS201108160",57,"Reds shortstop Edgar Renteria left the game due to an injured groin"
-"WAS201108180",53,"Nationals pitcher Ryan Mattheus left the game due to an injured shoulder"
-"WAS201108190",4,"$2:22 rain delay"
-"WAS201108190",5,"$Phillies decided not to have Oswalt pitch after long delay"
-"WAS201108210",24,"Phillies shortstop Jimmy Rollins left the game due to an injured groin"
-"WAS201108230",0,"$There was a 5.8 magnitude earthquake in Virginia at about 2:00pm that delayed the start of this game while the Nationals examined the ballpark"
-"WAS201108230",23,"$Justin Upton threw his bat down and was escorted part way to 1B by HP umpire Marvin Hudson"
-"WAS201108230",28,"$Michael Morse was hit on the hand and danced around in pain; HP umpire Marvin Hudson immediately issued a warning to both teams"
-"WAS201108230",35,"D-backs right fielder Justin Upton left the game due to an injured elbow"
-"WAS201108250",70,"Nationals pitcher Ryan Mattheus left the game due to tightness in his right shoulder"
-"WAS201109030",16,"$Nationals pitcher Tom Milone homers on his first big league at bat"
-"WAS201109030",81,"$RF Lucas Duda dove for the ball and failed to catch it, allowing two runs to score"
-"WAS201109060",55,"$31 minute rain delay"
-"WAS201109080",0,"$this game was postponed from the previous day and was to be part of a single admission double header; game two was rained out"
-"WAS201104020",0,"32 minute rain delay before start of game"
-"WAS201104020",40,"$55 minute rain delay with 0-2 count on Werth"
-"WAS201104020",67,"$suicide squeeze as Zimmerman came down the line on the pitch; Ankiel's third RBI of the game, the first two from a home run"
-"WAS201104030",11,"$Jayson Werth and Chipper Jones collided in the baseline; Werth was tagged out at the plate on a close play; Jones was called for obstruction and the run counted; in the opinion of the official scorer, Werth would have scored easily without the obstruction; therefore, the play was ruled a single and an RBI without an error on Jones (Rule 10.12[c] comment)"
-"WAS201104030",53,"$infield shifted to right for Brian McCann"
-"WAS201104030",54,"$Brian McCann hit a slow grounder to the SS position but no one was there to field it; SS Ian Desmond ran over from the other side of second base but two runs scored"
-"WAS201104030",60,"$Ryan Zimmerman threw to second too late to get Jason Heyward; Danny Espinosa dropped the ball when Heyward rolled into him; 2B umpire Tim Welke raised his right arm, seemingly calling Heyward out; both managers came out to check on players and the call; the umpires talked and Heyward was allowed to stay at 2B"
-"WAS201104030",69,"$Jason Heyward's liner caromed off pitcher Chad Gaudin into RF"
-"WAS201104130",25,"$Infield shift on for Ryan Howard, with 3B Jerry Hairston playing at about the normal 2B spot"
-"WAS201104130",26,"$3B Jerry Hairston fielded the ball as a 2B and threw out Ryan Howard; Jimmy Rollins, running from 1B rounded 2B and never stopped, since there was no one covering 3B; as he turned the corner, he ran into SS Ian Desmond; Desmond was called for obstruction and Rollins awarded 3B"
-"WAS201104171",75,"$Nationals 2B Danny Espinosa lost the popup in the sun and it fell in untouched about 10 feet out on the grass; the batter, Ryan Braun, was out because of the infield fly ruling; when Carlos Gomez scored, Braun was credited with an RBI but cannot get credit for a sacrifice fly on an infield fly, since a sac fly is a ball hit to the outfield"
-"WAS201104260",9,"fan interference"
-"WAS201104280",0,"$umpire crew chief Tim McClelland did not work the game; minor league umpire Lance Barrett arrives during game and enters field for the bottom of the sixth"
-"WAS201104280",50,"umpchange,6,ump3b,barrl901 umpchange,6,ump2b,barrt901"
-"WAS201104290",17,"$the ball bounced into foul territory and hit the facing of the stands just at the corner; the ball seemed to hit off the chair used by the ball girl and bounce out to LF Laynce Nix"
-"WAS201104300",31,"$Nationals pitcher John Lannan fielded the ball and looked at Buster Posey, who was well off the bag at 2B; Lannan ran towards Posey and tagged him; when Pat Burrell ran to 2B, Lannan threw him out"
-"WAS201105010",30,"oringally scored WP, changed next day"
-"WAS201105010",46,"$the liner by Jayson Werth went through the legs of RF Nate Schierholtz"
-"WAS201105130",31,"$the Nationals argued that batter Chris Volstad interfered with catcher Wilson Ramos's ability to field the ball"
-"WAS201105130",91,"$Omar Infante slid head-first into the plate; catcher Wilson Ramos caught the ball on the 1B line and swept his glove around to the left to tag Infante; Infante brought his left arm back to avoid the tag and reached back into the plate but missed it; Ramos tried a second swwep tag but missed again; Infante, having come to a stop on his slide, reached out and finally touched the plate; the Nationals objected to the call but it was clearly correct"
-"WAS201105130",94,"$Emilio Bonifacio ran into his own bunt and was called out for interference"
-"WAS201105270",48,"ej,hairj002,P,hicke901,Refusal to grant time $Nationals Jerry Hairston tried to call time out started to step out of the batter's box; when HP umpire Ed Hickox did not grant the time, Hairston jumped back in and swung at the 2-2 pitch, hitting a fly to center field; Hairston stood at the plate and argued with Hickox instead of running to first; with Hairston still holding his bat, the argument got more heated about the refusal of Hickox to call time; the Nationals claimed that Padres pitcher Clayton Richard had been quick-pitching batters all night; as Nationals manager Jim Riggleman came out to the plate, Hickox ejected Hairston; his motion almost hit Riggleman; the argument continued; Hairston started back to the dugout and then tried to return; he was escorted to the dugout by coaches Bo Porter and John McLaren while crew chief Ed Rapuano talked with them"
-"WAS201106140",14,"Nationals center fielder Rick Ankiel left the game due to a strained left rib cage muscle, which he hurt catching Daniel Descalso's fly ball"
-"WAS201106180",26,"Orioles left fielder Luke Scott left the game due to an injured back"
-"WAS201106180",49,"Orioles pitcher Brian Matusz left the game due to an injured leg"
-"WAS201106210",56,"Nationals left fielder Laynce Nix left the game due to an injured foot"
-"WAS201106230",0,"$after the game, Nationals Manager Jim Riggleman resigned because the Nationals would not extend his contract; he left with a 38-37 record in 2011"
-"WAS201107021",0,"$Debut for umpire Mark Lollo"
-"WAS201107050",23,"Cubs second baseman Jeff Baker left the game due to an injured back"
-"WAS201107270",15,"$the ball rolled down the 3B line on the dirt and struck the bag"
-"WAS201107270",68,"$25-game hit streak for Emilio Bonifacio"
-"WAS201108010",49,"$the throw by 2B Dan Uggla sailed into the seats behind 1B"
-"WAS201108160",57,"Reds shortstop Edgar Renteria left the game due to an injured groin"
-"WAS201108180",53,"Nationals pitcher Ryan Mattheus left the game due to an injured shoulder"
-"WAS201108190",4,"$2:22 rain delay"
-"WAS201108190",5,"$Phillies decided not to have Oswalt pitch after long delay"
-"WAS201108210",24,"Phillies shortstop Jimmy Rollins left the game due to an injured groin"
-"WAS201108230",0,"$There was a 5.8 magnitude earthquake in Virginia at about 2:00pm that delayed the start of this game while the Nationals examined the ballpark"
-"WAS201108230",23,"$Justin Upton threw his bat down and was escorted part way to 1B by HP umpire Marvin Hudson"
-"WAS201108230",28,"$Michael Morse was hit on the hand and danced around in pain; HP umpire Marvin Hudson immediately issued a warning to both teams"
-"WAS201108230",35,"D-backs right fielder Justin Upton left the game due to an injured elbow"
-"WAS201108250",70,"Nationals pitcher Ryan Mattheus left the game due to tightness in his right shoulder"
-"WAS201109030",16,"$Nationals pitcher Tom Milone homers on his first big league at bat"
-"WAS201109030",81,"$RF Lucas Duda dove for the ball and failed to catch it, allowing two runs to score"
-"WAS201109060",55,"$31 minute rain delay"
-"WAS201109080",0,"$this game was postponed from the previous day and was to be part of a single admission double header; game two was rained out"
+"WAS201104020",0,"32 minute rain delay before start of game"FILENAME_TX","LINE_NUMBER_CT"
+
+"WAS201104020",40,"$55 minute rain delay with 0-2 count on Werth"2011WAS.EVN.regular.comment.csv",2
+
+"WAS201104020",67,"$suicide squeeze as Zimmerman came down the line on the pitch; Ankiel's third RBI of the game, the first two from a home run"2011WAS.EVN.regular.comment.csv",3
+
+"WAS201104030",11,"$Jayson Werth and Chipper Jones collided in the baseline; Werth was tagged out at the plate on a close play; Jones was called for obstruction and the run counted; in the opinion of the official scorer, Werth would have scored easily without the obstruction; therefore, the play was ruled a single and an RBI without an error on Jones (Rule 10.12[c] comment)"2011WAS.EVN.regular.comment.csv",4
+
+"WAS201104030",53,"$infield shifted to right for Brian McCann"2011WAS.EVN.regular.comment.csv",5
+
+"WAS201104030",54,"$Brian McCann hit a slow grounder to the SS position but no one was there to field it; SS Ian Desmond ran over from the other side of second base but two runs scored"2011WAS.EVN.regular.comment.csv",6
+
+"WAS201104030",60,"$Ryan Zimmerman threw to second too late to get Jason Heyward; Danny Espinosa dropped the ball when Heyward rolled into him; 2B umpire Tim Welke raised his right arm, seemingly calling Heyward out; both managers came out to check on players and the call; the umpires talked and Heyward was allowed to stay at 2B"2011WAS.EVN.regular.comment.csv",7
+
+"WAS201104030",69,"$Jason Heyward's liner caromed off pitcher Chad Gaudin into RF"2011WAS.EVN.regular.comment.csv",8
+
+"WAS201104130",25,"$Infield shift on for Ryan Howard, with 3B Jerry Hairston playing at about the normal 2B spot"2011WAS.EVN.regular.comment.csv",9
+
+"WAS201104130",26,"$3B Jerry Hairston fielded the ball as a 2B and threw out Ryan Howard; Jimmy Rollins, running from 1B rounded 2B and never stopped, since there was no one covering 3B; as he turned the corner, he ran into SS Ian Desmond; Desmond was called for obstruction and Rollins awarded 3B"2011WAS.EVN.regular.comment.csv",10
+
+"WAS201104171",75,"$Nationals 2B Danny Espinosa lost the popup in the sun and it fell in untouched about 10 feet out on the grass; the batter, Ryan Braun, was out because of the infield fly ruling; when Carlos Gomez scored, Braun was credited with an RBI but cannot get credit for a sacrifice fly on an infield fly, since a sac fly is a ball hit to the outfield"2011WAS.EVN.regular.comment.csv",11
+
+"WAS201104260",9,"fan interference"2011WAS.EVN.regular.comment.csv",12
+
+"WAS201104280",0,"$umpire crew chief Tim McClelland did not work the game; minor league umpire Lance Barrett arrives during game and enters field for the bottom of the sixth"2011WAS.EVN.regular.comment.csv",13
+
+"WAS201104280",50,"umpchange,6,ump3b,barrl901 umpchange,6,ump2b,barrt901"2011WAS.EVN.regular.comment.csv",14
+
+"WAS201104290",17,"$the ball bounced into foul territory and hit the facing of the stands just at the corner; the ball seemed to hit off the chair used by the ball girl and bounce out to LF Laynce Nix"2011WAS.EVN.regular.comment.csv",15
+
+"WAS201104300",31,"$Nationals pitcher John Lannan fielded the ball and looked at Buster Posey, who was well off the bag at 2B; Lannan ran towards Posey and tagged him; when Pat Burrell ran to 2B, Lannan threw him out"2011WAS.EVN.regular.comment.csv",16
+
+"WAS201105010",30,"oringally scored WP, changed next day"2011WAS.EVN.regular.comment.csv",17
+
+"WAS201105010",46,"$the liner by Jayson Werth went through the legs of RF Nate Schierholtz"2011WAS.EVN.regular.comment.csv",18
+
+"WAS201105130",31,"$the Nationals argued that batter Chris Volstad interfered with catcher Wilson Ramos's ability to field the ball"2011WAS.EVN.regular.comment.csv",19
+
+"WAS201105130",91,"$Omar Infante slid head-first into the plate; catcher Wilson Ramos caught the ball on the 1B line and swept his glove around to the left to tag Infante; Infante brought his left arm back to avoid the tag and reached back into the plate but missed it; Ramos tried a second swwep tag but missed again; Infante, having come to a stop on his slide, reached out and finally touched the plate; the Nationals objected to the call but it was clearly correct"2011WAS.EVN.regular.comment.csv",20
+
+"WAS201105130",94,"$Emilio Bonifacio ran into his own bunt and was called out for interference"2011WAS.EVN.regular.comment.csv",21
+
+"WAS201105270",48,"ej,hairj002,P,hicke901,Refusal to grant time $Nationals Jerry Hairston tried to call time out started to step out of the batter's box; when HP umpire Ed Hickox did not grant the time, Hairston jumped back in and swung at the 2-2 pitch, hitting a fly to center field; Hairston stood at the plate and argued with Hickox instead of running to first; with Hairston still holding his bat, the argument got more heated about the refusal of Hickox to call time; the Nationals claimed that Padres pitcher Clayton Richard had been quick-pitching batters all night; as Nationals manager Jim Riggleman came out to the plate, Hickox ejected Hairston; his motion almost hit Riggleman; the argument continued; Hairston started back to the dugout and then tried to return; he was escorted to the dugout by coaches Bo Porter and John McLaren while crew chief Ed Rapuano talked with them"2011WAS.EVN.regular.comment.csv",22
+
+"WAS201106140",14,"Nationals center fielder Rick Ankiel left the game due to a strained left rib cage muscle, which he hurt catching Daniel Descalso's fly ball"2011WAS.EVN.regular.comment.csv",23
+
+"WAS201106180",26,"Orioles left fielder Luke Scott left the game due to an injured back"2011WAS.EVN.regular.comment.csv",24
+
+"WAS201106180",49,"Orioles pitcher Brian Matusz left the game due to an injured leg"2011WAS.EVN.regular.comment.csv",25
+
+"WAS201106210",56,"Nationals left fielder Laynce Nix left the game due to an injured foot"2011WAS.EVN.regular.comment.csv",26
+
+"WAS201106230",0,"$after the game, Nationals Manager Jim Riggleman resigned because the Nationals would not extend his contract; he left with a 38-37 record in 2011"2011WAS.EVN.regular.comment.csv",27
+
+"WAS201107021",0,"$Debut for umpire Mark Lollo"2011WAS.EVN.regular.comment.csv",28
+
+"WAS201107050",23,"Cubs second baseman Jeff Baker left the game due to an injured back"2011WAS.EVN.regular.comment.csv",29
+
+"WAS201107270",15,"$the ball rolled down the 3B line on the dirt and struck the bag"2011WAS.EVN.regular.comment.csv",30
+
+"WAS201107270",68,"$25-game hit streak for Emilio Bonifacio"2011WAS.EVN.regular.comment.csv",31
+
+"WAS201108010",49,"$the throw by 2B Dan Uggla sailed into the seats behind 1B"2011WAS.EVN.regular.comment.csv",32
+
+"WAS201108160",57,"Reds shortstop Edgar Renteria left the game due to an injured groin"2011WAS.EVN.regular.comment.csv",33
+
+"WAS201108180",53,"Nationals pitcher Ryan Mattheus left the game due to an injured shoulder"2011WAS.EVN.regular.comment.csv",34
+
+"WAS201108190",4,"$2:22 rain delay"2011WAS.EVN.regular.comment.csv",35
+
+"WAS201108190",5,"$Phillies decided not to have Oswalt pitch after long delay"2011WAS.EVN.regular.comment.csv",36
+
+"WAS201108210",24,"Phillies shortstop Jimmy Rollins left the game due to an injured groin"2011WAS.EVN.regular.comment.csv",37
+
+"WAS201108230",0,"$There was a 5.8 magnitude earthquake in Virginia at about 2:00pm that delayed the start of this game while the Nationals examined the ballpark"2011WAS.EVN.regular.comment.csv",38
+
+"WAS201108230",23,"$Justin Upton threw his bat down and was escorted part way to 1B by HP umpire Marvin Hudson"2011WAS.EVN.regular.comment.csv",39
+
+"WAS201108230",28,"$Michael Morse was hit on the hand and danced around in pain; HP umpire Marvin Hudson immediately issued a warning to both teams"2011WAS.EVN.regular.comment.csv",40
+
+"WAS201108230",35,"D-backs right fielder Justin Upton left the game due to an injured elbow"2011WAS.EVN.regular.comment.csv",41
+
+"WAS201108250",70,"Nationals pitcher Ryan Mattheus left the game due to tightness in his right shoulder"2011WAS.EVN.regular.comment.csv",42
+
+"WAS201109030",16,"$Nationals pitcher Tom Milone homers on his first big league at bat"2011WAS.EVN.regular.comment.csv",43
+
+"WAS201109030",81,"$RF Lucas Duda dove for the ball and failed to catch it, allowing two runs to score"2011WAS.EVN.regular.comment.csv",44
+
+"WAS201109060",55,"$31 minute rain delay"2011WAS.EVN.regular.comment.csv",45
+
+"WAS201109080",0,"$this game was postponed from the previous day and was to be part of a single admission double header; game two was rained out"2011WAS.EVN.regular.comment.csv",46
+

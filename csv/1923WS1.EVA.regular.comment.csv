@@ -1,41 +1,40 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"WS1192305010",54,"$Rice scored during rundown of Harris, so no RBI"
-"WS1192305020",55,"pbp account ends here, rest deduced"
-"WS1192305301",10,"$While running out the grounder, Schang stumbled and fell on his bat handle, sustaining a severe groin injury.  The game was delayed 5 mins."
-"WS1192306160",67,"Kamm fumbled the bunt and his throw to 1B was very close. WS1 protested the decision leading to the ejection of Nick Altrock by Ump Nallin."
-"WS1192306160",68,"Mgr Donnie Bush was ejected by Ump Nallin at inning's end"
-"WS1192306170",27,"$Hit in head"
-"WS1192306190",80,"$BOUNCE HR"
-"WS1192306200",5,"Bush and Altrock were ejected for disputing the decision. From the stands it appeared Peck easily beat the throw."
-"WS1192306210",24,"$Ruel ran Jamieson back to 3B; Wamby had advanced there so he hustled back toward 2B.  When the throw went to 2B, Jamieson headed home again - no RBI"
-"WS1192308021",3,"$A shift in the batting order caused considerable confusion during the day.  The first time (here) resulted in Jacobson being declared out after Williams batted out of turn and walked; Williams batted again with Foster on 1B."
-"WS1192308021",24,"The Browns claimed Ruel failed to touch 2B and put up a protest to Ump Rowland, but the arbiter refused to allow the claim.  A great row ensued, in the course of which Rowland was jostled about by the players.  Shocker and Tobin were then ejected by Rowland."
-"WS1192308021",68,"$Gerber came up again in the 6th spot in the order, as he had the entire game, and singled McManus to 3B.  WS1 manager Bush chose this point to uncover the Severeid/Gerber lineup mixup to Ump Ormsby who looked at the lineup card and called Severeid out"
-"WS1192308022",45,"$Davis was hurt running in fifth inning."
-"WS1192308040",42,"$A foul from Schliebner's bat last inning forced Ruel out of the game."
-"WS1192309020",58,"pbp account ends here, rest deduced"
-"WS1192309171",63,"pbp account ends here, rest deduced"
-"WS1192309172",68,"$Game called due to darkness"
-"WS1192309181",41,"$Zachary was spiked as he slid into 2B, and left game"
-"WS1192309240",59,"$Peck tried to work the hidden ball trick but threw it into the Washington dugout when Judge wasn't expecting it."
-"WS1192309240",65,"pbp account ends here, rest deduced"
-"WS1192305010",54,"$Rice scored during rundown of Harris, so no RBI"
-"WS1192305020",55,"pbp account ends here, rest deduced"
-"WS1192305301",10,"$While running out the grounder, Schang stumbled and fell on his bat handle, sustaining a severe groin injury.  The game was delayed 5 mins."
-"WS1192306160",67,"Kamm fumbled the bunt and his throw to 1B was very close. WS1 protested the decision leading to the ejection of Nick Altrock by Ump Nallin."
-"WS1192306160",68,"Mgr Donnie Bush was ejected by Ump Nallin at inning's end"
-"WS1192306170",27,"$Hit in head"
-"WS1192306190",80,"$BOUNCE HR"
-"WS1192306200",5,"ej,bushd102,M,nalld901,Call at 1B ej,altrn101,C,nalld901,Call at 1B Bush and Altrock were ejected for disputing the decision."
-"WS1192306210",24,"$Ruel ran Jamieson back to 3B; Wamby had advanced there so he hustled back toward 2B.  When the throw went to 2B, Jamieson headed home again - no RBI"
-"WS1192308021",3,"$A shift in the batting order caused considerable confusion during the day.  The first time (here) resulted in Jacobson being declared out after Williams batted out of turn and walked; Williams batted again with Foster on 1B."
-"WS1192308021",24,"ej,shocu101,P,rowlp801,Call at 2B ej,tobij101,P,rowlp801,Call at 2B The Browns claimed Ruel failed to touch 2B and put up a protest to Ump Rowland, but the arbiter refused to allow the claim.  A great row ensued, in the course of which Rowland was jostled about by the players.  Shocker and Tobin were then ejected by Rowland."
-"WS1192308021",68,"$Gerber came up again in the 6th spot in the order, as he had the entire game, and singled McManus to 3B.  WS1 manager Bush chose this point to uncover the Severeid/Gerber lineup mixup to Ump Ormsby who looked at the lineup card and called Severeid out"
-"WS1192308022",45,"$Davis was hurt running in fifth inning."
-"WS1192308040",42,"$A foul from Schliebner's bat last inning forced Ruel out of the game."
-"WS1192309020",58,"pbp account ends here, rest deduced"
-"WS1192309171",63,"pbp account ends here, rest deduced"
-"WS1192309172",68,"$Game called due to darkness"
-"WS1192309181",41,"$Zachary was spiked as he slid into 2B, and left game"
-"WS1192309240",59,"$Peck tried to work the hidden ball trick but threw it into the Washington dugout when Judge wasn't expecting it."
-"WS1192309240",65,"pbp account ends here, rest deduced"
+"WS1192305010",54,"$Rice scored during rundown of Harris, so no RBI"FILENAME_TX","LINE_NUMBER_CT"
+
+"WS1192305020",55,"pbp account ends here, rest deduced"1923WS1.EVA.regular.comment.csv",2
+
+"WS1192305301",10,"$While running out the grounder, Schang stumbled and fell on his bat handle, sustaining a severe groin injury.  The game was delayed 5 mins."1923WS1.EVA.regular.comment.csv",3
+
+"WS1192306160",67,"Kamm fumbled the bunt and his throw to 1B was very close. WS1 protested the decision leading to the ejection of Nick Altrock by Ump Nallin."1923WS1.EVA.regular.comment.csv",4
+
+"WS1192306160",68,"Mgr Donnie Bush was ejected by Ump Nallin at inning's end"1923WS1.EVA.regular.comment.csv",5
+
+"WS1192306170",27,"$Hit in head"1923WS1.EVA.regular.comment.csv",6
+
+"WS1192306190",80,"$BOUNCE HR"1923WS1.EVA.regular.comment.csv",7
+
+"WS1192306200",5,"ej,bushd102,M,nalld901,Call at 1B ej,altrn101,C,nalld901,Call at 1B Bush and Altrock were ejected for disputing the decision."1923WS1.EVA.regular.comment.csv",8
+
+"WS1192306210",24,"$Ruel ran Jamieson back to 3B; Wamby had advanced there so he hustled back toward 2B.  When the throw went to 2B, Jamieson headed home again - no RBI"1923WS1.EVA.regular.comment.csv",9
+
+"WS1192308021",3,"$A shift in the batting order caused considerable confusion during the day.  The first time (here) resulted in Jacobson being declared out after Williams batted out of turn and walked; Williams batted again with Foster on 1B."1923WS1.EVA.regular.comment.csv",10
+
+"WS1192308021",24,"ej,shocu101,P,rowlp801,Call at 2B ej,tobij101,P,rowlp801,Call at 2B The Browns claimed Ruel failed to touch 2B and put up a protest to Ump Rowland, but the arbiter refused to allow the claim.  A great row ensued, in the course of which Rowland was jostled about by the players.  Shocker and Tobin were then ejected by Rowland."1923WS1.EVA.regular.comment.csv",11
+
+"WS1192308021",68,"$Gerber came up again in the 6th spot in the order, as he had the entire game, and singled McManus to 3B.  WS1 manager Bush chose this point to uncover the Severeid/Gerber lineup mixup to Ump Ormsby who looked at the lineup card and called Severeid out"1923WS1.EVA.regular.comment.csv",12
+
+"WS1192308022",45,"$Davis was hurt running in fifth inning."1923WS1.EVA.regular.comment.csv",13
+
+"WS1192308040",42,"$A foul from Schliebner's bat last inning forced Ruel out of the game."1923WS1.EVA.regular.comment.csv",14
+
+"WS1192309020",58,"pbp account ends here, rest deduced"1923WS1.EVA.regular.comment.csv",15
+
+"WS1192309171",63,"pbp account ends here, rest deduced"1923WS1.EVA.regular.comment.csv",16
+
+"WS1192309172",68,"$Game called due to darkness"1923WS1.EVA.regular.comment.csv",17
+
+"WS1192309181",41,"$Zachary was spiked as he slid into 2B, and left game"1923WS1.EVA.regular.comment.csv",18
+
+"WS1192309240",59,"$Peck tried to work the hidden ball trick but threw it into the Washington dugout when Judge wasn't expecting it."1923WS1.EVA.regular.comment.csv",19
+
+"WS1192309240",65,"pbp account ends here, rest deduced"1923WS1.EVA.regular.comment.csv",20
+

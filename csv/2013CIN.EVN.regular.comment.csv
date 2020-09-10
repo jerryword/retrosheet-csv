@@ -1,67 +1,66 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"CIN201304010",24,"Reds Ryan Ludwick left the game due to an injured shoulder"
-"CIN201304040",33,"replay,4,frazt001,CIN,scotd901,CIN09,O,N,I,,H $Todd Frazier's fly ball to LF struck the yellow stripe at the top of the padding and rebounded onto the field; Frazier reached 3B on the fielding error after the ball rebounded but thought he had a home run; Reds manager Dusty Baker talked to the umpires; crew chief Dale Scott watched the replay and upheld the call"
-"CIN201304050",34,"replay,4,choos001,CIN,mcclt901,CIN09,O,N,I,,H $the ball barely cleared the CF wall into the seats; the Nationals asked about the call so crew chief Tim McClelland watched the replay and upheld the call"
-"CIN201304070",53,"fan interference"
-"CIN201304160",0,"Suspend=20130417,,0,0,51"
-"CIN201304160",57,"suspended,20130417,CIN09,rain $game suspended until the next day after a 44 minute rain delay"
-"CIN201304170",6,"replay,1,cozaz001,CIN,joycj901,CIN09,O,N,I,,H $Zack Cozart's fly ball hit the yellow stripe at the top of the padding just a few feet fair in LF; it was ruled in play; Cozart was obstructed by Phillies 1B Ryan Howard as Cozart rounded 1B but that did not change the play as Cozart reached 2B safely; Reds manager Dusty Baker talked with crew chief Jim Joyce, who watched the replay and upheld the call"
-"CIN201305070",2,"$originally scored as K+WP, but rule 10.12(f)(2) says there is no WP or PB when batter is tagged or thrown out on strike 3"
-"CIN201305080",24,"replay,4,gatte001,ATL,cedeg901,CIN09,F,N,I,,H $Evan Gattis hit a fly down the LF line that was ruled a foul ball; Braves manager Fredi Gonzalez asked about the ruling so crew chief Gary Cederstrom watched the replay and upheld the call"
-"CIN201305100",44,"originally scored as walk, changed to hit by pitch on 5-12-2013"
-"CIN201306030",4,"$Tyler Chatwood bounced the 0-2 pitch; it caromed off Wilin Rosaeio's mitt and struck HP umpire Kerwin Danley on the mask; he was looked at briefly by a trainer"
-"CIN201306030",14,"umpchange,3,umphome,barkl901 umpchange,3,ump1b,cedeg901 umpchange,3,ump2b,(None) $HP umpire Kerwin Danley left with a headache as a result of being struck on the mask in the first inning; 1B umpire Lance Barksdale moved to HP and 2B umpire Gary Cederstrom moved to 1B"
-"CIN201306030",34,"Rockies pitcher Tyler Chatwood left the game due to an injured arm"
-"CIN201306030",58,"originally scored as single plus E9, changed to double on 6-04-2013"
-"CIN201306040",65,"replay,8,tulot001,COL,cedeg901,CIN09,I,Y,I,,H $Troy Tulowitzki's fly ball was caught just over the yellow stripe in LF and ruled fan interference; crew chief Gary Cedestrom watched the replay and overturned the call to a home run"
-"CIN201306190",19,"originally scored E1, changed to single on 6-20-2013, giving Martin an RBI and making run earned"
-"CIN201307010",51,"$Game called for rain"
-"CIN201307020",0,"$second career no-hitter for Homer Bailey"
-"CIN201307020",4,"replay,1,choos001,CIN,culbf901,CIN09,O,Y,I,,H $Shin-Soo Choo's fly ball struck the glove of Hunter Pence and caromed into the air; the ball landed on the field and was ruled a home run by 2B umpire and crew chief Fieldin Culbreth; it appeared that the ball had struck a fan before landing on the field; the Giants asked about the ruling so Culbreth watched the replay and overturned the call to a ball in play and a double"
-"CIN201307232",0,"$this was the rescheduled game due to a 7/4 postponement in Cincinnati; the Reds wore their home uniforms and batted last while the Giants wore their road uniforms"
-"CIN201308070",36,"Athletics second baseman Alberto Callaspo left the game due to an injured arm"
-"CIN201308070",45,"Reds catcher Corky Miller left the game due to an injured leg"
-"CIN201308200",24,"Reds pitcher Tony Cingrani left the game due to an injured back"
-"CIN201308210",66,"replay,8,parrg001,ARI,darlg901,CIN09,O,Y,I,,H $Geraldo Parra's fly ball struck an empty seat in the front row in LF and caromed back onto the field; it was ruled in play but crew chief Gary Darling watched the replay and overturned the call to a home run"
-"CIN201308230",65,"replay,8,genns001,MIL,barrt901,CIN09,O,N,I,,H $Scooter Gennett's fly ball was caught by a fan in the front row in RF; the fan reached over the wall but the ball hit his arms in the seating area and not his hands in the playing area; it was ruled a home run; crew chief Ted Barrett watched the replay and upheld the call"
-"CIN201309020",42,"Cardinals catcher Yadier Molina left the game due to an injured wrist"
-"CIN201309040",29,"Cardinals first baseman Allen Craig left the game due to an injured foot"
-"CIN201309050",66,"Reds second baseman Brandon Phillips left the game due to an injured leg"
-"CIN201309070",71,"ej,hairj002,P,nelsj901,Called third strike Dodgers third baseman Jerry Hairston ejected by HP umpire Jeff Nelson"
-"CIN201309100",14,"Reds pitcher Tony Cingrani left the game due to an injured back"
-"CIN201309270",45,"replay,6,byrdm001,PIT,wintm901,CIN09,O,N,I,,H $Marlon Byrd's fly ball struck the yellow stripe at the corner of the wall just to the left of the bullpen in CF; it was ruled in play; crew chief Mike Winters watched the replay and upheld the call"
-"CIN201309280",51,"Reds second baseman Brandon Phillips left the game due to an injured leg"
-"CIN201309290",20,"originally scored E6, changed to single on 09-30-2013"
-"CIN201304010",24,"Reds Ryan Ludwick left the game due to an injured shoulder"
-"CIN201304040",33,"replay,4,frazt001,CIN,scotd901,CIN09,O,N,I,,H $Todd Frazier's fly ball to LF struck the yellow stripe at the top of the padding and rebounded onto the field; Frazier reached 3B on the fielding error after the ball rebounded but thought he had a home run; Reds manager Dusty Baker talked to the umpires; crew chief Dale Scott watched the replay and upheld the call"
-"CIN201304050",34,"replay,4,choos001,CIN,mcclt901,CIN09,O,N,I,,H $the ball barely cleared the CF wall into the seats; the Nationals asked about the call so crew chief Tim McClelland watched the replay and upheld the call"
-"CIN201304070",53,"fan interference"
-"CIN201304160",0,"Suspend=20130417,,0,0,51"
-"CIN201304160",57,"suspended,20130417,CIN09,rain $game suspended until the next day after a 44 minute rain delay"
-"CIN201304170",6,"replay,1,cozaz001,CIN,joycj901,CIN09,O,N,I,,H $Zack Cozart's fly ball hit the yellow stripe at the top of the padding just a few feet fair in LF; it was ruled in play; Cozart was obstructed by Phillies 1B Ryan Howard as Cozart rounded 1B but that did not change the play as Cozart reached 2B safely; Reds manager Dusty Baker talked with crew chief Jim Joyce, who watched the replay and upheld the call"
-"CIN201305070",2,"$originally scored as K+WP, but rule 10.12(f)(2) says there is no WP or PB when batter is tagged or thrown out on strike 3"
-"CIN201305080",24,"replay,4,gatte001,ATL,cedeg901,CIN09,F,N,I,,H $Evan Gattis hit a fly down the LF line that was ruled a foul ball; Braves manager Fredi Gonzalez asked about the ruling so crew chief Gary Cederstrom watched the replay and upheld the call"
-"CIN201305100",44,"originally scored as walk, changed to hit by pitch on 5-12-2013"
-"CIN201306030",4,"$Tyler Chatwood bounced the 0-2 pitch; it caromed off Wilin Rosaeio's mitt and struck HP umpire Kerwin Danley on the mask; he was looked at briefly by a trainer"
-"CIN201306030",14,"umpchange,3,umphome,barkl901 umpchange,3,ump1b,cedeg901 umpchange,3,ump2b,(None) $HP umpire Kerwin Danley left with a headache as a result of being struck on the mask in the first inning; 1B umpire Lance Barksdale moved to HP and 2B umpire Gary Cederstrom moved to 1B"
-"CIN201306030",34,"Rockies pitcher Tyler Chatwood left the game due to an injured arm"
-"CIN201306030",58,"originally scored as single plus E9, changed to double on 6-04-2013"
-"CIN201306040",65,"replay,8,tulot001,COL,cedeg901,CIN09,I,Y,I,,H $Troy Tulowitzki's fly ball was caught just over the yellow stripe in LF and ruled fan interference; crew chief Gary Cedestrom watched the replay and overturned the call to a home run"
-"CIN201306190",19,"originally scored E1, changed to single on 6-20-2013, giving Martin an RBI and making run earned"
-"CIN201307010",51,"$Game called for rain"
-"CIN201307020",0,"$second career no-hitter for Homer Bailey"
-"CIN201307020",4,"replay,1,choos001,CIN,culbf901,CIN09,O,Y,I,,H $Shin-Soo Choo's fly ball struck the glove of Hunter Pence and caromed into the air; the ball landed on the field and was ruled a home run by 2B umpire and crew chief Fieldin Culbreth; it appeared that the ball had struck a fan before landing on the field; the Giants asked about the ruling so Culbreth watched the replay and overturned the call to a ball in play and a double"
-"CIN201307232",0,"$this was the rescheduled game due to a 7/4 postponement in Cincinnati; the Reds wore their home uniforms and batted last while the Giants wore their road uniforms"
-"CIN201308070",36,"Athletics second baseman Alberto Callaspo left the game due to an injured arm"
-"CIN201308070",45,"Reds catcher Corky Miller left the game due to an injured leg"
-"CIN201308200",24,"Reds pitcher Tony Cingrani left the game due to an injured back"
-"CIN201308210",66,"replay,8,parrg001,ARI,darlg901,CIN09,O,Y,I,,H $Geraldo Parra's fly ball struck an empty seat in the front row in LF and caromed back onto the field; it was ruled in play but crew chief Gary Darling watched the replay and overturned the call to a home run"
-"CIN201308230",65,"replay,8,genns001,MIL,barrt901,CIN09,O,N,I,,H $Scooter Gennett's fly ball was caught by a fan in the front row in RF; the fan reached over the wall but the ball hit his arms in the seating area and not his hands in the playing area; it was ruled a home run; crew chief Ted Barrett watched the replay and upheld the call"
-"CIN201309020",42,"Cardinals catcher Yadier Molina left the game due to an injured wrist"
-"CIN201309040",29,"Cardinals first baseman Allen Craig left the game due to an injured foot"
-"CIN201309050",66,"Reds second baseman Brandon Phillips left the game due to an injured leg"
-"CIN201309070",71,"ej,hairj002,P,nelsj901,Called third strike Dodgers third baseman Jerry Hairston ejected by HP umpire Jeff Nelson"
-"CIN201309100",14,"Reds pitcher Tony Cingrani left the game due to an injured back"
-"CIN201309270",45,"replay,6,byrdm001,PIT,wintm901,CIN09,O,N,I,,H $Marlon Byrd's fly ball struck the yellow stripe at the corner of the wall just to the left of the bullpen in CF; it was ruled in play; crew chief Mike Winters watched the replay and upheld the call"
-"CIN201309280",51,"Reds second baseman Brandon Phillips left the game due to an injured leg"
-"CIN201309290",20,"originally scored E6, changed to single on 09-30-2013"
+"CIN201304010",24,"Reds Ryan Ludwick left the game due to an injured shoulder"FILENAME_TX","LINE_NUMBER_CT"
+
+"CIN201304040",33,"replay,4,frazt001,CIN,scotd901,CIN09,O,N,I,,H $Todd Frazier's fly ball to LF struck the yellow stripe at the top of the padding and rebounded onto the field; Frazier reached 3B on the fielding error after the ball rebounded but thought he had a home run; Reds manager Dusty Baker talked to the umpires; crew chief Dale Scott watched the replay and upheld the call"2013CIN.EVN.regular.comment.csv",2
+
+"CIN201304050",34,"replay,4,choos001,CIN,mcclt901,CIN09,O,N,I,,H $the ball barely cleared the CF wall into the seats; the Nationals asked about the call so crew chief Tim McClelland watched the replay and upheld the call"2013CIN.EVN.regular.comment.csv",3
+
+"CIN201304070",53,"fan interference"2013CIN.EVN.regular.comment.csv",4
+
+"CIN201304160",0,"Suspend=20130417,,0,0,51"2013CIN.EVN.regular.comment.csv",5
+
+"CIN201304160",57,"suspended,20130417,CIN09,rain $game suspended until the next day after a 44 minute rain delay"2013CIN.EVN.regular.comment.csv",6
+
+"CIN201304170",6,"replay,1,cozaz001,CIN,joycj901,CIN09,O,N,I,,H $Zack Cozart's fly ball hit the yellow stripe at the top of the padding just a few feet fair in LF; it was ruled in play; Cozart was obstructed by Phillies 1B Ryan Howard as Cozart rounded 1B but that did not change the play as Cozart reached 2B safely; Reds manager Dusty Baker talked with crew chief Jim Joyce, who watched the replay and upheld the call"2013CIN.EVN.regular.comment.csv",7
+
+"CIN201305070",2,"$originally scored as K+WP, but rule 10.12(f)(2) says there is no WP or PB when batter is tagged or thrown out on strike 3"2013CIN.EVN.regular.comment.csv",8
+
+"CIN201305080",24,"replay,4,gatte001,ATL,cedeg901,CIN09,F,N,I,,H $Evan Gattis hit a fly down the LF line that was ruled a foul ball; Braves manager Fredi Gonzalez asked about the ruling so crew chief Gary Cederstrom watched the replay and upheld the call"2013CIN.EVN.regular.comment.csv",9
+
+"CIN201305100",44,"originally scored as walk, changed to hit by pitch on 5-12-2013"2013CIN.EVN.regular.comment.csv",10
+
+"CIN201306030",4,"$Tyler Chatwood bounced the 0-2 pitch; it caromed off Wilin Rosaeio's mitt and struck HP umpire Kerwin Danley on the mask; he was looked at briefly by a trainer"2013CIN.EVN.regular.comment.csv",11
+
+"CIN201306030",14,"umpchange,3,umphome,barkl901 umpchange,3,ump1b,cedeg901 umpchange,3,ump2b,(None) $HP umpire Kerwin Danley left with a headache as a result of being struck on the mask in the first inning; 1B umpire Lance Barksdale moved to HP and 2B umpire Gary Cederstrom moved to 1B"2013CIN.EVN.regular.comment.csv",12
+
+"CIN201306030",34,"Rockies pitcher Tyler Chatwood left the game due to an injured arm"2013CIN.EVN.regular.comment.csv",13
+
+"CIN201306030",58,"originally scored as single plus E9, changed to double on 6-04-2013"2013CIN.EVN.regular.comment.csv",14
+
+"CIN201306040",65,"replay,8,tulot001,COL,cedeg901,CIN09,I,Y,I,,H $Troy Tulowitzki's fly ball was caught just over the yellow stripe in LF and ruled fan interference; crew chief Gary Cedestrom watched the replay and overturned the call to a home run"2013CIN.EVN.regular.comment.csv",15
+
+"CIN201306190",19,"originally scored E1, changed to single on 6-20-2013, giving Martin an RBI and making run earned"2013CIN.EVN.regular.comment.csv",16
+
+"CIN201307010",51,"$Game called for rain"2013CIN.EVN.regular.comment.csv",17
+
+"CIN201307020",0,"$second career no-hitter for Homer Bailey"2013CIN.EVN.regular.comment.csv",18
+
+"CIN201307020",4,"replay,1,choos001,CIN,culbf901,CIN09,O,Y,I,,H $Shin-Soo Choo's fly ball struck the glove of Hunter Pence and caromed into the air; the ball landed on the field and was ruled a home run by 2B umpire and crew chief Fieldin Culbreth; it appeared that the ball had struck a fan before landing on the field; the Giants asked about the ruling so Culbreth watched the replay and overturned the call to a ball in play and a double"2013CIN.EVN.regular.comment.csv",19
+
+"CIN201307232",0,"$this was the rescheduled game due to a 7/4 postponement in Cincinnati; the Reds wore their home uniforms and batted last while the Giants wore their road uniforms"2013CIN.EVN.regular.comment.csv",20
+
+"CIN201308070",36,"Athletics second baseman Alberto Callaspo left the game due to an injured arm"2013CIN.EVN.regular.comment.csv",21
+
+"CIN201308070",45,"Reds catcher Corky Miller left the game due to an injured leg"2013CIN.EVN.regular.comment.csv",22
+
+"CIN201308200",24,"Reds pitcher Tony Cingrani left the game due to an injured back"2013CIN.EVN.regular.comment.csv",23
+
+"CIN201308210",66,"replay,8,parrg001,ARI,darlg901,CIN09,O,Y,I,,H $Geraldo Parra's fly ball struck an empty seat in the front row in LF and caromed back onto the field; it was ruled in play but crew chief Gary Darling watched the replay and overturned the call to a home run"2013CIN.EVN.regular.comment.csv",24
+
+"CIN201308230",65,"replay,8,genns001,MIL,barrt901,CIN09,O,N,I,,H $Scooter Gennett's fly ball was caught by a fan in the front row in RF; the fan reached over the wall but the ball hit his arms in the seating area and not his hands in the playing area; it was ruled a home run; crew chief Ted Barrett watched the replay and upheld the call"2013CIN.EVN.regular.comment.csv",25
+
+"CIN201309020",42,"Cardinals catcher Yadier Molina left the game due to an injured wrist"2013CIN.EVN.regular.comment.csv",26
+
+"CIN201309040",29,"Cardinals first baseman Allen Craig left the game due to an injured foot"2013CIN.EVN.regular.comment.csv",27
+
+"CIN201309050",66,"Reds second baseman Brandon Phillips left the game due to an injured leg"2013CIN.EVN.regular.comment.csv",28
+
+"CIN201309070",71,"ej,hairj002,P,nelsj901,Called third strike Dodgers third baseman Jerry Hairston ejected by HP umpire Jeff Nelson"2013CIN.EVN.regular.comment.csv",29
+
+"CIN201309100",14,"Reds pitcher Tony Cingrani left the game due to an injured back"2013CIN.EVN.regular.comment.csv",30
+
+"CIN201309270",45,"replay,6,byrdm001,PIT,wintm901,CIN09,O,N,I,,H $Marlon Byrd's fly ball struck the yellow stripe at the corner of the wall just to the left of the bullpen in CF; it was ruled in play; crew chief Mike Winters watched the replay and upheld the call"2013CIN.EVN.regular.comment.csv",31
+
+"CIN201309280",51,"Reds second baseman Brandon Phillips left the game due to an injured leg"2013CIN.EVN.regular.comment.csv",32
+
+"CIN201309290",20,"originally scored E6, changed to single on 09-30-2013"2013CIN.EVN.regular.comment.csv",33
+

@@ -1,63 +1,62 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"SLA194004200",0,"$AL Opening Day 1940 at Sportsman's Park."
-"SLA194004240",0,"ej,hofmf101,C,mcgob901,Refusing to return a foul ball Browns Coach Fred Hofmann ejected by HP umpire Bill McGowan sometime in game"
-"SLA194005230",106,"Bottom of 12th from 5/24 SLST."
-"SLA194005270",33,"pbp account ends here, rest deduced"
-"SLA194005281",58,"$Drizzling rain started to fall"
-"SLA194005281",68,"$Play was suspended for 20 minutes because of rain"
-"SLA194005281",75,"$Heffner suffered a slight hand injury earlier in the game"
-"SLA194005290",37,"ej,tresm101,P,pipgg101,Fighting ej,beraj101,P,pipgg101,Fighting $Berardino and Tresh had a fight.  Both ejected."
-"SLA194006140",46,"ej,hanef101,M,rue-j901,Call at 2B $Manager Haney ejected by 1b ump for arguing safe call at second."
-"SLA194006161",21,"ej,powej106,P,morig101,Bench jockeying"
-"SLA194006161",80,"ej,knicb101,P,morig101,Bench jockeying"
-"SLA194006190",34,"pbp account ends here, rest deduced"
-"SLA194006190",66,"$Desautels ejected by 1b umpire Hubbard for throwing dirt"
-"SLA194006220",78,"ej,walkg101,P,pipgg101,Arguing call at 3rd $Walker ejected by 3B ump Pipgras for arguing decision at 2nd"
-"SLA194006220",81,"Ninth inning from 6/23 SLPD."
-"SLA194006231",0,"$Game start was delayed 45 minutes due to rain"
-"SLA194006232",67,"$Game called for curfew"
-"SLA194007240",95,"Yankees and Browns tie the current ML record for most pitchers used in a game with eleven."
-"SLA194007250",26,"WP by Niggeling in 1st and PB by Susce may be in reverse order."
-"SLA194007300",58,"$Radcliff left with upset stomach"
-"SLA194007310",64,"$lf eating lemon missed ball, which bounced over fence then continued eating lemon"
-"SLA194008052",48,"$Game called for rain"
-"SLA194008070",81,"$McQuinn's hit was off the wall, but Laabs thought it would be caught and was late advancing to 3rd; Grace went to 2nd and McQuinn was out trying to return to 1st"
-"SLA194008081",38,"$Ben Chapman hurt leg running bases in 5th"
-"SLA194008081",43,"$onto pavillion roof"
-"SLA194008081",51,"$onto pavillion roof"
-"SLA194008112",17,"$Beau Bell called for interference with Johnny Beradino's throw"
-"SLA194009110",38,"$F. Chapman hurt his throwing arm"
-"SLA194009170",18,"DiMaggo suffers recurrence of a charley horse on his single and exits the game."
-"SLA194009170",57,"First ML appearance for Fuzz White"
-"SLA194009180",68,"$Beradino spiked Cronin who left game"
-"SLA194004200",0,"$AL Opening Day 1940 at Sportsman's Park."
-"SLA194004240",0,"ej,hofmf101,C,mcgob901,Refusing to return a foul ball Browns Coach Fred Hofmann ejected by HP umpire Bill McGowan sometime in game"
-"SLA194005230",106,"Bottom of 12th from 5/24 SLST."
-"SLA194005270",33,"pbp account ends here, rest deduced"
-"SLA194005281",58,"$Drizzling rain started to fall"
-"SLA194005281",68,"$Play was suspended for 20 minutes because of rain"
-"SLA194005281",75,"$Heffner suffered a slight hand injury earlier in the game"
-"SLA194005290",37,"ej,tresm101,P,pipgg101,Fighting ej,beraj101,P,pipgg101,Fighting $Berardino and Tresh had a fight.  Both ejected."
-"SLA194006140",46,"ej,hanef101,M,rue-j901,Call at 2B $Manager Haney ejected by 1b ump for arguing safe call at second."
-"SLA194006161",21,"ej,powej106,P,morig101,Bench jockeying"
-"SLA194006161",80,"ej,knicb101,P,morig101,Bench jockeying"
-"SLA194006190",34,"pbp account ends here, rest deduced"
-"SLA194006190",66,"$Desautels ejected by 1b umpire Hubbard for throwing dirt"
-"SLA194006220",78,"ej,walkg101,P,pipgg101,Call at 3rd $Walker ejected by 3B umpire Pipgras for arguing call at 2nd"
-"SLA194006220",81,"Ninth inning from 6/23 SLPD."
-"SLA194006231",0,"$Game start was delayed 45 minutes due to rain"
-"SLA194006232",67,"$Game called for curfew"
-"SLA194007240",95,"Yankees and Browns tie the current ML record for most pitchers used in a game with eleven."
-"SLA194007250",26,"WP by Niggeling in 1st and PB by Susce may be in reverse order."
-"SLA194007300",58,"$Radcliff left with upset stomach"
-"SLA194007310",64,"$lf eating lemon missed ball, which bounced over fence then continued eating lemon"
-"SLA194008052",48,"$Game called for rain"
-"SLA194008070",81,"$McQuinn's hit was off the wall, but Laabs thought it would be caught and was late advancing to 3rd; Grace went to 2nd and McQuinn was out trying to return to 1st"
-"SLA194008081",38,"$Ben Chapman hurt leg running bases in 5th"
-"SLA194008081",43,"$onto pavillion roof"
-"SLA194008081",51,"$onto pavillion roof"
-"SLA194008112",17,"$Beau Bell called for interference with Johnny Beradino's throw"
-"SLA194009110",38,"$F. Chapman hurt his throwing arm"
-"SLA194009170",18,"DiMaggo suffers recurrence of a charley horse on his single and exits the game."
-"SLA194009170",57,"First ML appearance for Fuzz White"
-"SLA194009180",68,"$Beradino spiked Cronin who left game"
+"SLA194004200",0,"$AL Opening Day 1940 at Sportsman's Park."FILENAME_TX","LINE_NUMBER_CT"
+
+"SLA194004240",0,"ej,hofmf101,C,mcgob901,Refusing to return a foul ball Browns Coach Fred Hofmann ejected by HP umpire Bill McGowan sometime in game"1940SLA.EVA.regular.comment.csv",2
+
+"SLA194005230",106,"Bottom of 12th from 5/24 SLST."1940SLA.EVA.regular.comment.csv",3
+
+"SLA194005270",33,"pbp account ends here, rest deduced"1940SLA.EVA.regular.comment.csv",4
+
+"SLA194005281",58,"$Drizzling rain started to fall"1940SLA.EVA.regular.comment.csv",5
+
+"SLA194005281",68,"$Play was suspended for 20 minutes because of rain"1940SLA.EVA.regular.comment.csv",6
+
+"SLA194005281",75,"$Heffner suffered a slight hand injury earlier in the game"1940SLA.EVA.regular.comment.csv",7
+
+"SLA194005290",37,"ej,tresm101,P,pipgg101,Fighting ej,beraj101,P,pipgg101,Fighting $Berardino and Tresh had a fight.  Both ejected."1940SLA.EVA.regular.comment.csv",8
+
+"SLA194006140",46,"ej,hanef101,M,rue-j901,Call at 2B $Manager Haney ejected by 1b ump for arguing safe call at second."1940SLA.EVA.regular.comment.csv",9
+
+"SLA194006161",21,"ej,powej106,P,morig101,Bench jockeying"1940SLA.EVA.regular.comment.csv",10
+
+"SLA194006161",80,"ej,knicb101,P,morig101,Bench jockeying"1940SLA.EVA.regular.comment.csv",11
+
+"SLA194006190",34,"pbp account ends here, rest deduced"1940SLA.EVA.regular.comment.csv",12
+
+"SLA194006190",66,"$Desautels ejected by 1b umpire Hubbard for throwing dirt"1940SLA.EVA.regular.comment.csv",13
+
+"SLA194006220",78,"ej,walkg101,P,pipgg101,Call at 3rd $Walker ejected by 3B umpire Pipgras for arguing call at 2nd"1940SLA.EVA.regular.comment.csv",14
+
+"SLA194006220",81,"Ninth inning from 6/23 SLPD."1940SLA.EVA.regular.comment.csv",15
+
+"SLA194006231",0,"$Game start was delayed 45 minutes due to rain"1940SLA.EVA.regular.comment.csv",16
+
+"SLA194006232",67,"$Game called for curfew"1940SLA.EVA.regular.comment.csv",17
+
+"SLA194007240",95,"Yankees and Browns tie the current ML record for most pitchers used in a game with eleven."1940SLA.EVA.regular.comment.csv",18
+
+"SLA194007250",26,"WP by Niggeling in 1st and PB by Susce may be in reverse order."1940SLA.EVA.regular.comment.csv",19
+
+"SLA194007300",58,"$Radcliff left with upset stomach"1940SLA.EVA.regular.comment.csv",20
+
+"SLA194007310",64,"$lf eating lemon missed ball, which bounced over fence then continued eating lemon"1940SLA.EVA.regular.comment.csv",21
+
+"SLA194008052",48,"$Game called for rain"1940SLA.EVA.regular.comment.csv",22
+
+"SLA194008070",81,"$McQuinn's hit was off the wall, but Laabs thought it would be caught and was late advancing to 3rd; Grace went to 2nd and McQuinn was out trying to return to 1st"1940SLA.EVA.regular.comment.csv",23
+
+"SLA194008081",38,"$Ben Chapman hurt leg running bases in 5th"1940SLA.EVA.regular.comment.csv",24
+
+"SLA194008081",43,"$onto pavillion roof"1940SLA.EVA.regular.comment.csv",25
+
+"SLA194008081",51,"$onto pavillion roof"1940SLA.EVA.regular.comment.csv",26
+
+"SLA194008112",17,"$Beau Bell called for interference with Johnny Beradino's throw"1940SLA.EVA.regular.comment.csv",27
+
+"SLA194009110",38,"$F. Chapman hurt his throwing arm"1940SLA.EVA.regular.comment.csv",28
+
+"SLA194009170",18,"DiMaggo suffers recurrence of a charley horse on his single and exits the game."1940SLA.EVA.regular.comment.csv",29
+
+"SLA194009170",57,"First ML appearance for Fuzz White"1940SLA.EVA.regular.comment.csv",30
+
+"SLA194009180",68,"$Beradino spiked Cronin who left game"1940SLA.EVA.regular.comment.csv",31
+

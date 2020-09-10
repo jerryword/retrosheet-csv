@@ -1,57 +1,56 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"HOU198504090",1,"Debut game for Mariano Duncan"
-"HOU198504130",1,"Debut game for Ron Mathis"
-"HOU198504240",57,"Debut game for Ty Gainey"
-"HOU198505170",28,"ej,cox-d001,P,quicj901,Balls and strikes $Pitcher Cox ejected by HP umpire Quick when 1st pitch to Garner was called a ball"
-"HOU198505170",61,"ej,leppd101,C,quicj901,Interference non-call $Astros coach Leppert ejected by P umpire Quick at end of inning for arguing that interference should have been called on Clark for backing into catcher on McGee's steal"
-"HOU198505190",44,"ej,clarj001,P,palld901,Arguing strike call $Clark ejected by HP umpire Pallone for arguing strike 2 call"
-"HOU198505310",48,"$Bill Doran called for interference running the baseline"
-"HOU198506080",57,"Debut game for Chris Jones"
-"HOU198506090",32,"Pitchout on squeeze play"
-"HOU198506160",19,"$Mariano Duncan called for interference for running into his own batted ball"
-"HOU198506160",37,"missing play in HOU198506160"
-"HOU198507080",1,"Debut game for Mark Knudson"
-"HOU198507130",44,"ej,johnd105,M,engeb901,Balls and strikes $Mets manager Johnson ejected by HP umpire Engel for arguing balls and strikes with Strawberry at bat"
-"HOU198507130",58,"$Gary Carter injured on play"
-"HOU198508260",76,"Debut game for Eric Bullock"
-"HOU198508270",63,"DWS: the previous two records are really one play"
-"HOU198509090",37,"$Chris Brown fielded it cleanly but missed the tag on Mike Scott"
-"HOU198509100",34,"Mike Krukow deflected infield single and injured his thumb"
-"HOU198509111",79,"Debut game for Mike Woodard"
-"HOU198509112",39,"Debut game for Bobby Moore"
-"HOU198509112",51,"$David Green attempted to advance to occupied 3B"
-"HOU198509140",2,"$Jerry Royster called for interference for running into his own bunt"
-"HOU198509210",69,"$Nick Esasky overran 3B"
-"HOU198509220",28,"$Nick Esasky pulled muscle running out infield hit"
-"HOU198509230",49,"$Jose Cruz pulled muscle running out play"
-"HOU198509250",29,"ej,lillb101,M,kiblj901,Interference non-call Astros manager Bob Lillis ejected by 2B umpire John Kibler arguing that Greg Brock ran into Dickie Thon"
-"HOU198509250",30,"ej,thond001,P,davib902,Call at 1B Dickie Thon ejected by 1B umpire Bob Davidson"
-"HOU198509300",80,"$SS Andres Thomas missed bag"
-"HOU198504090",1,"Debut game for Mariano Duncan"
-"HOU198504130",1,"Debut game for Ron Mathis"
-"HOU198504240",57,"Debut game for Ty Gainey"
-"HOU198505170",28,"ej,cox-d001,P,quicj901,Balls and strikes $Pitcher Cox ejected by HP umpire Quick when 1st pitch to Garner was called a ball"
-"HOU198505170",61,"ej,leppd101,C,quicj901,Interference non-call $Astros coach Leppert ejected by P umpire Quick at end of inning for arguing that interference should have been called on Clark for backing into catcher on McGee's steal"
-"HOU198505190",44,"ej,clarj001,P,palld901,Balls and strikes $Clark ejected by HP umpire Pallone for arguing strike 2 call"
-"HOU198505310",48,"$Bill Doran called for interference running the baseline"
-"HOU198506080",57,"Debut game for Chris Jones"
-"HOU198506090",32,"Pitchout on squeeze play"
-"HOU198506160",19,"$Mariano Duncan called for interference for running into his own batted ball"
-"HOU198506160",37,"missing play in HOU198506160"
-"HOU198507080",1,"Debut game for Mark Knudson"
-"HOU198507130",44,"ej,johnd105,M,engeb901,Balls and strikes $Mets manager Johnson ejected by HP umpire Engel for arguing balls and strikes with Strawberry at bat"
-"HOU198507130",58,"$Gary Carter injured on play"
-"HOU198508260",76,"Debut game for Eric Bullock"
-"HOU198508270",63,"DWS: the previous two records are really one play"
-"HOU198509090",37,"$Chris Brown fielded it cleanly but missed the tag on Mike Scott"
-"HOU198509100",34,"Mike Krukow deflected infield single and injured his thumb"
-"HOU198509111",79,"Debut game for Mike Woodard"
-"HOU198509112",39,"Debut game for Bobby Moore"
-"HOU198509112",51,"$David Green attempted to advance to occupied 3B"
-"HOU198509140",2,"$Jerry Royster called for interference for running into his own bunt"
-"HOU198509210",69,"$Nick Esasky overran 3B"
-"HOU198509220",28,"$Nick Esasky pulled muscle running out infield hit"
-"HOU198509230",49,"$Jose Cruz pulled muscle running out play"
-"HOU198509250",29,"ej,lillb101,M,kiblj901,Interference non-call Astros manager Bob Lillis ejected by 2B umpire John Kibler arguing that Greg Brock ran into Dickie Thon"
-"HOU198509250",30,"ej,thond001,P,davib902,Call at 1B Dickie Thon ejected by 1B umpire Bob Davidson"
-"HOU198509300",80,"$SS Andres Thomas missed bag"
+"HOU198504090",1,"Debut game for Mariano Duncan"FILENAME_TX","LINE_NUMBER_CT"
+
+"HOU198504130",1,"Debut game for Ron Mathis"1985HOU.EVN.regular.comment.csv",2
+
+"HOU198504240",57,"Debut game for Ty Gainey"1985HOU.EVN.regular.comment.csv",3
+
+"HOU198505170",28,"ej,cox-d001,P,quicj901,Balls and strikes $Pitcher Cox ejected by HP umpire Quick when 1st pitch to Garner was called a ball"1985HOU.EVN.regular.comment.csv",4
+
+"HOU198505170",61,"ej,leppd101,C,quicj901,Interference non-call $Astros coach Leppert ejected by P umpire Quick at end of inning for arguing that interference should have been called on Clark for backing into catcher on McGee's steal"1985HOU.EVN.regular.comment.csv",5
+
+"HOU198505190",44,"ej,clarj001,P,palld901,Balls and strikes $Clark ejected by HP umpire Pallone for arguing strike 2 call"1985HOU.EVN.regular.comment.csv",6
+
+"HOU198505310",48,"$Bill Doran called for interference running the baseline"1985HOU.EVN.regular.comment.csv",7
+
+"HOU198506080",57,"Debut game for Chris Jones"1985HOU.EVN.regular.comment.csv",8
+
+"HOU198506090",32,"Pitchout on squeeze play"1985HOU.EVN.regular.comment.csv",9
+
+"HOU198506160",19,"$Mariano Duncan called for interference for running into his own batted ball"1985HOU.EVN.regular.comment.csv",10
+
+"HOU198506160",37,"missing play in HOU198506160"1985HOU.EVN.regular.comment.csv",11
+
+"HOU198507080",1,"Debut game for Mark Knudson"1985HOU.EVN.regular.comment.csv",12
+
+"HOU198507130",44,"ej,johnd105,M,engeb901,Balls and strikes $Mets manager Johnson ejected by HP umpire Engel for arguing balls and strikes with Strawberry at bat"1985HOU.EVN.regular.comment.csv",13
+
+"HOU198507130",58,"$Gary Carter injured on play"1985HOU.EVN.regular.comment.csv",14
+
+"HOU198508260",76,"Debut game for Eric Bullock"1985HOU.EVN.regular.comment.csv",15
+
+"HOU198508270",63,"DWS: the previous two records are really one play"1985HOU.EVN.regular.comment.csv",16
+
+"HOU198509090",37,"$Chris Brown fielded it cleanly but missed the tag on Mike Scott"1985HOU.EVN.regular.comment.csv",17
+
+"HOU198509100",34,"Mike Krukow deflected infield single and injured his thumb"1985HOU.EVN.regular.comment.csv",18
+
+"HOU198509111",79,"Debut game for Mike Woodard"1985HOU.EVN.regular.comment.csv",19
+
+"HOU198509112",39,"Debut game for Bobby Moore"1985HOU.EVN.regular.comment.csv",20
+
+"HOU198509112",51,"$David Green attempted to advance to occupied 3B"1985HOU.EVN.regular.comment.csv",21
+
+"HOU198509140",2,"$Jerry Royster called for interference for running into his own bunt"1985HOU.EVN.regular.comment.csv",22
+
+"HOU198509210",69,"$Nick Esasky overran 3B"1985HOU.EVN.regular.comment.csv",23
+
+"HOU198509220",28,"$Nick Esasky pulled muscle running out infield hit"1985HOU.EVN.regular.comment.csv",24
+
+"HOU198509230",49,"$Jose Cruz pulled muscle running out play"1985HOU.EVN.regular.comment.csv",25
+
+"HOU198509250",29,"ej,lillb101,M,kiblj901,Interference non-call Astros manager Bob Lillis ejected by 2B umpire John Kibler arguing that Greg Brock ran into Dickie Thon"1985HOU.EVN.regular.comment.csv",26
+
+"HOU198509250",30,"ej,thond001,P,davib902,Call at 1B Dickie Thon ejected by 1B umpire Bob Davidson"1985HOU.EVN.regular.comment.csv",27
+
+"HOU198509300",80,"$SS Andres Thomas missed bag"1985HOU.EVN.regular.comment.csv",28
+

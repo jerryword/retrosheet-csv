@@ -1,39 +1,38 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"CLE197004070",5,"Debut game for Ted Ford"
-"CLE197004070",7,"Debut game for Roy Foster"
-"CLE197004090",1,"Debut game for Rich Hand"
-"CLE197004220",24,"ej,darka101,M,honoj901,Call at 1B $Indians manager Dark ejected by 1B umpire Honochick for arguing that Horton was out at 1st"
-"CLE197004220",43,"385 feet"
-"CLE197005130",56,"ej,metrc101,M,odomj901,Balls and strikes Royals Manager Charlie Metro ejected by HP umpire Jim Odom"
-"CLE197005220",38,"18 minute rain delay starting at 8:55"
-"CLE197005242",70,"Gene Michael hurt on slide"
-"CLE197006140",1,"Debut game for Steve Dunning"
-"CLE197006212",1,"Debut game for Rick Austin"
-"CLE197007122",4,"ej,conit101,P,soarh901,Charging mound $Tony Conigliaro charged the mound after being hit on the left forearm by Fred Lasher who had also thrown at him in an earlier game; Conigliaro kicked Lasher on the hip and punched him on the nose; both benches cleared; Lasher was cut on the hip by Conigliaro's spike and received a tetanus shot; Conigliaro ejected by HP umpire Hank Soar and had to be restrained"
-"CLE197007290",28,"Debut game for Pete Hamm"
-"CLE197008040",65,"failed squeeze"
-"CLE197008050",5,"Ron Hansen left with pulled hamstring"
-"CLE197008050",72,"Debut game for Steve Mingori"
-"CLE197008210",44,"Sam McDowell left with leg injury"
-"CLE197008220",49,"ej,darka101,M,flahr901,Call at 2B $Indians manager Dark ejecte by 2B umpire Flaherty for arguing that 2bman dropped ball on force play, but umpire ruled he was in the process of throwing"
-"CLE197009071",61,"Debut game for Jim Rittwage"
-"CLE197009072",49,"Debut game for Dick Mills"
-"CLE197004070",5,"Debut game for Ted Ford"
-"CLE197004070",7,"Debut game for Roy Foster"
-"CLE197004090",1,"Debut game for Rich Hand"
-"CLE197004220",24,"ej,darka101,M,honoj901,Call at 1B $Indians manager Dark ejected by 1B umpire Honochick for arguing that Horton was out at 1st"
-"CLE197004220",43,"385 feet"
-"CLE197005130",56,"ej,metrc101,M,odomj901,Balls and strikes Royals Manager Charlie Metro ejected by HP umpire Jim Odom"
-"CLE197005220",38,"18 minute rain delay starting at 8:55"
-"CLE197005242",70,"Gene Michael hurt on slide"
-"CLE197006140",1,"Debut game for Steve Dunning"
-"CLE197006212",1,"Debut game for Rick Austin"
-"CLE197007122",4,"ej,conit101,P,soarh901,Charging mound $Tony Conigliaro charged the mound after being hit on the left forearm by Fred Lasher who had also thrown at him in an earlier game; Conigliaro kicked Lasher on the hip and punched him on the nose; both benches cleared; Lasher was cut on the hip by Conigliaro's spike and received a tetanus shot; Conigliaro ejected by HP umpire Hank Soar and had to be restrained"
-"CLE197007290",28,"Debut game for Pete Hamm"
-"CLE197008040",65,"failed squeeze"
-"CLE197008050",5,"Ron Hansen left with pulled hamstring"
-"CLE197008050",72,"Debut game for Steve Mingori"
-"CLE197008210",44,"Sam McDowell left with leg injury"
-"CLE197008220",49,"ej,darka101,M,flahr901,Call at 2B $Indians manager Dark ejecte by 2B umpire Flaherty for arguing that 2bman dropped ball on force play, but umpire ruled he was in the process of throwing"
-"CLE197009071",61,"Debut game for Jim Rittwage"
-"CLE197009072",49,"Debut game for Dick Mills"
+"CLE197004070",5,"Debut game for Ted Ford"FILENAME_TX","LINE_NUMBER_CT"
+
+"CLE197004070",7,"Debut game for Roy Foster"1970CLE.EVA.regular.comment.csv",2
+
+"CLE197004090",1,"Debut game for Rich Hand"1970CLE.EVA.regular.comment.csv",3
+
+"CLE197004220",24,"ej,darka101,M,honoj901,Call at 1B $Indians manager Dark ejected by 1B umpire Honochick for arguing that Horton was out at 1st"1970CLE.EVA.regular.comment.csv",4
+
+"CLE197004220",43,"385 feet"1970CLE.EVA.regular.comment.csv",5
+
+"CLE197005130",56,"ej,metrc101,M,odomj901,Balls and strikes Royals Manager Charlie Metro ejected by HP umpire Jim Odom"1970CLE.EVA.regular.comment.csv",6
+
+"CLE197005220",38,"18 minute rain delay starting at 8:55"1970CLE.EVA.regular.comment.csv",7
+
+"CLE197005242",70,"Gene Michael hurt on slide"1970CLE.EVA.regular.comment.csv",8
+
+"CLE197006140",1,"Debut game for Steve Dunning"1970CLE.EVA.regular.comment.csv",9
+
+"CLE197006212",1,"Debut game for Rick Austin"1970CLE.EVA.regular.comment.csv",10
+
+"CLE197007122",4,"ej,conit101,P,soarh901,Charging mound $Tony Conigliaro charged the mound after being hit on the left forearm by Fred Lasher who had also thrown at him in an earlier game; Conigliaro kicked Lasher on the hip and punched him on the nose; both benches cleared; Lasher was cut on the hip by Conigliaro's spike and received a tetanus shot; Conigliaro ejected by HP umpire Hank Soar and had to be restrained"1970CLE.EVA.regular.comment.csv",11
+
+"CLE197007290",28,"Debut game for Pete Hamm"1970CLE.EVA.regular.comment.csv",12
+
+"CLE197008040",65,"failed squeeze"1970CLE.EVA.regular.comment.csv",13
+
+"CLE197008050",5,"Ron Hansen left with pulled hamstring"1970CLE.EVA.regular.comment.csv",14
+
+"CLE197008050",72,"Debut game for Steve Mingori"1970CLE.EVA.regular.comment.csv",15
+
+"CLE197008210",44,"Sam McDowell left with leg injury"1970CLE.EVA.regular.comment.csv",16
+
+"CLE197008220",49,"ej,darka101,M,flahr901,Call at 2B $Indians manager Dark ejecte by 2B umpire Flaherty for arguing that 2bman dropped ball on force play, but umpire ruled he was in the process of throwing"1970CLE.EVA.regular.comment.csv",17
+
+"CLE197009071",61,"Debut game for Jim Rittwage"1970CLE.EVA.regular.comment.csv",18
+
+"CLE197009072",49,"Debut game for Dick Mills"1970CLE.EVA.regular.comment.csv",19
+

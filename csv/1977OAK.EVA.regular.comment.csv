@@ -1,47 +1,46 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"OAK197704090",11,"Debut game for Mitchell Page"
-"OAK197704090",27,"Debut game for Rob Picciolo"
-"OAK197704101",80,"Debut game for Rob Wilfong"
-"OAK197704101",87,"Debut game for Bob Gorinski"
-"OAK197704102",1,"Debut game for Paul Thormodsgard"
-"OAK197704102",18,"Debut game for Sheldon Mallory"
-"OAK197704242",74,"$the ball struck Mike Norris on right hip and caromed to SS"
-"OAK197705130",60,"Debut game for Bob Lacey"
-"OAK197705170",113,"Debut game for Dell Alston"
-"OAK197705200",70,"Debut game for Mark Williams"
-"OAK197706040",72,"ej,millb106,C,garcr901,Checked swing ej,hartr101,M,garcr901,Checked swing Blue Jays Manager Roy Hartsfield and Blue Jays Coach Bob Miller ejected by 1B umpire Rich Garcia arguing a checked swing call on Jim Tyrone"
-"OAK197706050",11,"$Doug Ault made a high throw to 3B"
-"OAK197706261",24,"ej,hillc101,C,kunkb101,Balls and strikes Royals Coach Chuck Hiller ejected by HP umpire Bill Kunkel"
-"OAK197706261",41,"Dave Nelson left with hyperextension of left wrist"
-"OAK197707120",48,"$Sheldon Mallory ran into fence on home run; suffered cut above right eye, cut lip, loosened teeth, knocked out, spent night in Merritt Hospital"
-"OAK197707150",0,"Debut for umpire Fred Spenn"
-"OAK197707150",58,"$hit on right hand"
-"OAK197709052",52,"ej,winkb801,M,spenf901,Call at HP Athletics Manager Bobby Winkles ejected by HP umpire Fred Spenn"
-"OAK197709052",66,"ej,nortb101,P,spenf901,Called third strike Bill North ejected by HP umpire Fred Spenn"
-"OAK197709060",71,"$Chet Lemon robbed Manny Sanguillen of homer; Lemon hurt on the play"
-"OAK197709070",64,"ej,nortb101,P,mckej901,Balls and strikes Bill North ejected by HP umpire Jim McKean"
-"OAK197709090",21,"ej,lezcs001,P,goetr901,Call at 1B Sixto Lezcano ejected by 1B umpire Russ Goetz"
-"OAK197709280",72,"Debut game for Gary Lance"
-"OAK197704090",11,"Debut game for Mitchell Page"
-"OAK197704090",27,"Debut game for Rob Picciolo"
-"OAK197704101",80,"Debut game for Rob Wilfong"
-"OAK197704101",87,"Debut game for Bob Gorinski"
-"OAK197704102",1,"Debut game for Paul Thormodsgard"
-"OAK197704102",18,"Debut game for Sheldon Mallory"
-"OAK197704242",74,"$the ball struck Mike Norris on right hip and caromed to SS"
-"OAK197705130",60,"Debut game for Bob Lacey"
-"OAK197705170",113,"Debut game for Dell Alston"
-"OAK197705200",70,"Debut game for Mark Williams"
-"OAK197706040",72,"ej,millb106,C,garcr901,Checked swing ej,hartr101,M,garcr901,Checked swing Blue Jays Manager Roy Hartsfield and Blue Jays Coach Bob Miller ejected by 1B umpire Rich Garcia arguing a checked swing call on Jim Tyrone"
-"OAK197706050",11,"$Doug Ault made a high throw to 3B"
-"OAK197706261",24,"ej,hillc101,C,kunkb101,Balls and strikes Royals Coach Chuck Hiller ejected by HP umpire Bill Kunkel"
-"OAK197706261",41,"Dave Nelson left with hyperextension of left wrist"
-"OAK197707120",48,"$Sheldon Mallory ran into fence on home run; suffered cut above right eye, cut lip, loosened teeth, knocked out, spent night in Merritt Hospital"
-"OAK197707150",0,"Debut for umpire Fred Spenn"
-"OAK197707150",58,"$hit on right hand"
-"OAK197709052",52,"ej,winkb801,M,spenf901,Call at HP Athletics Manager Bobby Winkles ejected by HP umpire Fred Spenn"
-"OAK197709052",66,"ej,nortb101,P,spenf901,Called third strike Bill North ejected by HP umpire Fred Spenn"
-"OAK197709060",71,"$Chet Lemon robbed Manny Sanguillen of homer; Lemon hurt on the play"
-"OAK197709070",64,"ej,nortb101,P,mckej901,Balls and strikes Bill North ejected by HP umpire Jim McKean"
-"OAK197709090",21,"ej,lezcs001,P,goetr901,Call at 1B Sixto Lezcano ejected by 1B umpire Russ Goetz"
-"OAK197709280",72,"Debut game for Gary Lance"
+"OAK197704090",11,"Debut game for Mitchell Page"FILENAME_TX","LINE_NUMBER_CT"
+
+"OAK197704090",27,"Debut game for Rob Picciolo"1977OAK.EVA.regular.comment.csv",2
+
+"OAK197704101",80,"Debut game for Rob Wilfong"1977OAK.EVA.regular.comment.csv",3
+
+"OAK197704101",87,"Debut game for Bob Gorinski"1977OAK.EVA.regular.comment.csv",4
+
+"OAK197704102",1,"Debut game for Paul Thormodsgard"1977OAK.EVA.regular.comment.csv",5
+
+"OAK197704102",18,"Debut game for Sheldon Mallory"1977OAK.EVA.regular.comment.csv",6
+
+"OAK197704242",74,"$the ball struck Mike Norris on right hip and caromed to SS"1977OAK.EVA.regular.comment.csv",7
+
+"OAK197705130",60,"Debut game for Bob Lacey"1977OAK.EVA.regular.comment.csv",8
+
+"OAK197705170",113,"Debut game for Dell Alston"1977OAK.EVA.regular.comment.csv",9
+
+"OAK197705200",70,"Debut game for Mark Williams"1977OAK.EVA.regular.comment.csv",10
+
+"OAK197706040",72,"ej,millb106,C,garcr901,Checked swing ej,hartr101,M,garcr901,Checked swing Blue Jays Manager Roy Hartsfield and Blue Jays Coach Bob Miller ejected by 1B umpire Rich Garcia arguing a checked swing call on Jim Tyrone"1977OAK.EVA.regular.comment.csv",11
+
+"OAK197706050",11,"$Doug Ault made a high throw to 3B"1977OAK.EVA.regular.comment.csv",12
+
+"OAK197706261",24,"ej,hillc101,C,kunkb101,Balls and strikes Royals Coach Chuck Hiller ejected by HP umpire Bill Kunkel"1977OAK.EVA.regular.comment.csv",13
+
+"OAK197706261",41,"Dave Nelson left with hyperextension of left wrist"1977OAK.EVA.regular.comment.csv",14
+
+"OAK197707120",48,"$Sheldon Mallory ran into fence on home run; suffered cut above right eye, cut lip, loosened teeth, knocked out, spent night in Merritt Hospital"1977OAK.EVA.regular.comment.csv",15
+
+"OAK197707150",0,"Debut for umpire Fred Spenn"1977OAK.EVA.regular.comment.csv",16
+
+"OAK197707150",58,"$hit on right hand"1977OAK.EVA.regular.comment.csv",17
+
+"OAK197709052",52,"ej,winkb801,M,spenf901,Call at HP Athletics Manager Bobby Winkles ejected by HP umpire Fred Spenn"1977OAK.EVA.regular.comment.csv",18
+
+"OAK197709052",66,"ej,nortb101,P,spenf901,Called third strike Bill North ejected by HP umpire Fred Spenn"1977OAK.EVA.regular.comment.csv",19
+
+"OAK197709060",71,"$Chet Lemon robbed Manny Sanguillen of homer; Lemon hurt on the play"1977OAK.EVA.regular.comment.csv",20
+
+"OAK197709070",64,"ej,nortb101,P,mckej901,Balls and strikes Bill North ejected by HP umpire Jim McKean"1977OAK.EVA.regular.comment.csv",21
+
+"OAK197709090",21,"ej,lezcs001,P,goetr901,Call at 1B Sixto Lezcano ejected by 1B umpire Russ Goetz"1977OAK.EVA.regular.comment.csv",22
+
+"OAK197709280",72,"Debut game for Gary Lance"1977OAK.EVA.regular.comment.csv",23
+

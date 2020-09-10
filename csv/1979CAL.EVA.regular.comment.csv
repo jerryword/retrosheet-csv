@@ -1,61 +1,60 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"CAL197904120",0,"Debut for umpire Bob Campbell"
-"CAL197904200",6,"$Carney Lansford called for interference"
-"CAL197904270",14,"$Jerry Remy's liner hit Chris Knapp on the right forearm just below the elbow"
-"CAL197904280",24,"$Orlando Ramirez called for interference"
-"CAL197905150",47,"$Nolan Ryan left with slight strain in right calf muscle"
-"CAL197905170",58,"ej,bambg101,M,nelsd901,Spit ball Milwaukee manager George Bamberger ejected by HP umpire Dick Nelson claiming that Jim Barr was throwing a doctored ball"
-"CAL197905180",55,"$Frank Tanana left game with blister on 4th finger"
-"CAL197905190",0,"$first game for staff umpires in 1979 after strike"
-"CAL197906010",70,"$Rick Miller suffered broken left hand while returning to 1B"
-"CAL197906040",7,"$Chris Knapp sprained his back"
-"CAL197906190",46,"ej,corrp102,M,cousd901,Spit ball Rangers manager Pat Corrales ejected by HP umpire Derryl Cousins after accusing Jim Barr of throwing a spitball"
-"CAL197906230",0,"$umpire Don Denkinger missed game due to father's stroke"
-"CAL197906230",21,"ej,herzw101,M,cousd901,Spit ball Royals Manager Whitey Herzog ejected by HP umpire Derryl Cousins after accusing Jim Barr of throwing a doctored ball"
-"CAL197906240",0,"$umpire Don Denkinger missed game due to father's stroke"
-"CAL197907100",56,"$Bob Watson hurt on the play"
-"CAL197907140",50,"ej,munst101,P,spenf901,Called third strike Thurman Munson ejected by HP umpire Fred Spenn"
-"CAL197908010",0,"$Rod Carew missed game with sore throat"
-"CAL197908130",42,"$Bert Campaneris left game with injured left finger"
-"CAL197908190",60,"$Danny Ainge picked up overthrow"
-"CAL197908210",3,"ej,mccrt102,C,lucir901,Yelling at umpire for lack of hustle $Indians coach McCraw ejected by 2B umpire Luciano for yelling that Luciano should have run into outfield to see play better before ruling Bonds' ball was caught"
-"CAL197908210",88,"Debut game for Bob Clark"
-"CAL197909040",1,"Debut game for Richard Dotson"
-"CAL197909050",74,"ej,larut101,M,hendt901,Checked swing $White Sox manager LaRussa ejected by 3B umpire Hendry for arguing ball call on Miller on checked swing"
-"CAL197909060",0,"Protest=H"
-"CAL197909060",67,"ej,may-m001,P,barnl901,Balls and strikes Milt May ejected by HP umpire Larry Barnett"
-"CAL197909060",85,"$Rick Miller called for interference; Angels protest game"
-"CAL197909210",28,"$1:03 delay due to power failure of LF lights"
-"CAL197909230",55,"ej,ellij101,P,phild901,Called third strike (Threw bat) John Ellis ejected by 1B umpire Dave Phillips for throwing bat"
-"CAL197909260",35,"Debut game for John Harris"
-"CAL197909260",70,"$Frank White hit for the cycle"
-"CAL197904120",0,"Debut for umpire Bob Campbell"
-"CAL197904200",6,"$Carney Lansford called for interference"
-"CAL197904270",14,"$Jerry Remy's liner hit Chris Knapp on the right forearm just below the elbow"
-"CAL197904280",24,"$Orlando Ramirez called for interference"
-"CAL197905150",47,"$Nolan Ryan left with slight strain in right calf muscle"
-"CAL197905170",58,"ej,bambg101,M,nelsd901,Spit ball Milwaukee manager George Bamberger ejected by HP umpire Dick Nelson claiming that Jim Barr was throwing a doctored ball"
-"CAL197905180",55,"$Frank Tanana left game with blister on 4th finger"
-"CAL197905190",0,"$first game for staff umpires in 1979 after strike"
-"CAL197906010",70,"$Rick Miller suffered broken left hand while returning to 1B"
-"CAL197906040",7,"$Chris Knapp sprained his back"
-"CAL197906190",46,"ej,corrp102,M,cousd901,Spit ball Rangers manager Pat Corrales ejected by HP umpire Derryl Cousins after accusing Jim Barr of throwing a spitball"
-"CAL197906230",0,"$umpire Don Denkinger missed game due to father's stroke"
-"CAL197906230",21,"ej,herzw101,M,cousd901,Arguing pitcher was doctoring ball $Royals manager Herzog ejected by HP umpire Cousins for arguing that Jim Barr was throwing doctored ball"
-"CAL197906240",0,"$umpire Don Denkinger missed game due to father's stroke"
-"CAL197907100",56,"$Bob Watson hurt on the play"
-"CAL197907140",50,"ej,munst101,P,spenf901,Called third strike Thurman Munson ejected by HP umpire Fred Spenn"
-"CAL197908010",0,"$Rod Carew missed game with sore throat"
-"CAL197908130",42,"$Bert Campaneris left game with injured left finger"
-"CAL197908190",60,"$Danny Ainge picked up overthrow"
-"CAL197908210",3,"ej,mccrt102,C,lucir901,Yelling at umpire for lack of hustle $Indians coach McCraw ejected by 2B umpire Luciano for yelling that Luciano should have run into outfield to see play better before ruling Bonds' ball was caught"
-"CAL197908210",88,"Debut game for Bob Clark"
-"CAL197909040",1,"Debut game for Richard Dotson"
-"CAL197909050",74,"ej,larut101,M,hendt901,Checked swing $White Sox manager LaRussa ejected by 3B umpire Hendry for arguing ball call on Miller on checked swing"
-"CAL197909060",0,"Protest=H"
-"CAL197909060",67,"ej,may-m001,P,barnl901,Balls and strikes Milt May ejected by HP umpire Larry Barnett"
-"CAL197909060",85,"$Rick Miller called for interference; Angels protest game"
-"CAL197909210",28,"$1:03 delay due to power failure of LF lights"
-"CAL197909230",55,"ej,ellij101,P,phild901,Called third strike (Threw bat) John Ellis ejected by 1B umpire Dave Phillips for throwing bat"
-"CAL197909260",35,"Debut game for John Harris"
-"CAL197909260",70,"$Frank White hit for the cycle"
+"CAL197904120",0,"Debut for umpire Bob Campbell"FILENAME_TX","LINE_NUMBER_CT"
+
+"CAL197904200",6,"$Carney Lansford called for interference"1979CAL.EVA.regular.comment.csv",2
+
+"CAL197904270",14,"$Jerry Remy's liner hit Chris Knapp on the right forearm just below the elbow"1979CAL.EVA.regular.comment.csv",3
+
+"CAL197904280",24,"$Orlando Ramirez called for interference"1979CAL.EVA.regular.comment.csv",4
+
+"CAL197905150",47,"$Nolan Ryan left with slight strain in right calf muscle"1979CAL.EVA.regular.comment.csv",5
+
+"CAL197905170",58,"ej,bambg101,M,nelsd901,Spit ball Milwaukee manager George Bamberger ejected by HP umpire Dick Nelson claiming that Jim Barr was throwing a doctored ball"1979CAL.EVA.regular.comment.csv",6
+
+"CAL197905180",55,"$Frank Tanana left game with blister on 4th finger"1979CAL.EVA.regular.comment.csv",7
+
+"CAL197905190",0,"$first game for staff umpires in 1979 after strike"1979CAL.EVA.regular.comment.csv",8
+
+"CAL197906010",70,"$Rick Miller suffered broken left hand while returning to 1B"1979CAL.EVA.regular.comment.csv",9
+
+"CAL197906040",7,"$Chris Knapp sprained his back"1979CAL.EVA.regular.comment.csv",10
+
+"CAL197906190",46,"ej,corrp102,M,cousd901,Spit ball Rangers manager Pat Corrales ejected by HP umpire Derryl Cousins after accusing Jim Barr of throwing a spitball"1979CAL.EVA.regular.comment.csv",11
+
+"CAL197906230",0,"$umpire Don Denkinger missed game due to father's stroke"1979CAL.EVA.regular.comment.csv",12
+
+"CAL197906230",21,"ej,herzw101,M,cousd901,Arguing pitcher was doctoring ball $Royals manager Herzog ejected by HP umpire Cousins for arguing that Jim Barr was throwing doctored ball"1979CAL.EVA.regular.comment.csv",13
+
+"CAL197906240",0,"$umpire Don Denkinger missed game due to father's stroke"1979CAL.EVA.regular.comment.csv",14
+
+"CAL197907100",56,"$Bob Watson hurt on the play"1979CAL.EVA.regular.comment.csv",15
+
+"CAL197907140",50,"ej,munst101,P,spenf901,Called third strike Thurman Munson ejected by HP umpire Fred Spenn"1979CAL.EVA.regular.comment.csv",16
+
+"CAL197908010",0,"$Rod Carew missed game with sore throat"1979CAL.EVA.regular.comment.csv",17
+
+"CAL197908130",42,"$Bert Campaneris left game with injured left finger"1979CAL.EVA.regular.comment.csv",18
+
+"CAL197908190",60,"$Danny Ainge picked up overthrow"1979CAL.EVA.regular.comment.csv",19
+
+"CAL197908210",3,"ej,mccrt102,C,lucir901,Yelling at umpire for lack of hustle $Indians coach McCraw ejected by 2B umpire Luciano for yelling that Luciano should have run into outfield to see play better before ruling Bonds' ball was caught"1979CAL.EVA.regular.comment.csv",20
+
+"CAL197908210",88,"Debut game for Bob Clark"1979CAL.EVA.regular.comment.csv",21
+
+"CAL197909040",1,"Debut game for Richard Dotson"1979CAL.EVA.regular.comment.csv",22
+
+"CAL197909050",74,"ej,larut101,M,hendt901,Checked swing $White Sox manager LaRussa ejected by 3B umpire Hendry for arguing ball call on Miller on checked swing"1979CAL.EVA.regular.comment.csv",23
+
+"CAL197909060",0,"Protest=H"1979CAL.EVA.regular.comment.csv",24
+
+"CAL197909060",67,"ej,may-m001,P,barnl901,Balls and strikes Milt May ejected by HP umpire Larry Barnett"1979CAL.EVA.regular.comment.csv",25
+
+"CAL197909060",85,"$Rick Miller called for interference; Angels protest game"1979CAL.EVA.regular.comment.csv",26
+
+"CAL197909210",28,"$1:03 delay due to power failure of LF lights"1979CAL.EVA.regular.comment.csv",27
+
+"CAL197909230",55,"ej,ellij101,P,phild901,Called third strike (Threw bat) John Ellis ejected by 1B umpire Dave Phillips for throwing bat"1979CAL.EVA.regular.comment.csv",28
+
+"CAL197909260",35,"Debut game for John Harris"1979CAL.EVA.regular.comment.csv",29
+
+"CAL197909260",70,"$Frank White hit for the cycle"1979CAL.EVA.regular.comment.csv",30
+

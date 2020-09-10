@@ -1,57 +1,56 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"BOS192204180",47,"$Ed Chaplin injured in collision at the end of the top of the 5th"
-"BOS192205160",87,"$the throw hit the runner"
-"BOS192205200",12,"no putout credited in 1922 for /BR"
-"BOS192205220",10,"$Larry Gardner's bunt rolled foul and Stuffy McInnis pulled a tendon in his right leg running from 2B to 3B"
-"BOS192205311",14,"Fine stop by Peckinpaugh, but throw home was late."
-"BOS192205311",28,"Rice had to leave the game due to illness."
-"BOS192205311",56,"Single went through Menosky's legs."
-"BOS192205311",63,"Menosky with a fine running catch on a long foul fly."
-"BOS192206220",57,"5 minutes rain delay"
-"BOS192206230",49,"reconstructed 7 to end for BOS192206230"
-"BOS192206242",2,"$George Burns pulled the hidden ball trick on Chick Fewster"
-"BOS192206242",16,"$Roxy Walters twisted his ankle sliding into 2B"
-"BOS192207071",44,"ej,willk101,P,evanb901,Balls and strikes Ken Williams ejected by HP umpire Billy Evans"
-"BOS192207082",29,"Tobin escaped rundown between first and second."
-"BOS192207101",105,"$Frank Ellerbe injured his knee running to 1B"
-"BOS192207102",55,"Collins ejected by Hildebrand for arguing third strike."
-"BOS192207120",60,"ej,nunal101,P,hildg101,Bench jockeying Les Nunamaker ejected by HP umpire George Hildebrand"
-"BOS192207120",71,"$Joe Sewell's sixth consecutive hit"
-"BOS192207130",60,"$George Burns threw to Shano Collins late; Joe Sewell and Collins collided; Collins suffered a twisted ankle"
-"BOS192207140",79,"$infield in for Tris Speaker"
-"BOS192207190",24,"$George Burns called for interference for running into his own batted ball"
-"BOS192207210",100,"$1B Umpire Tommy Connolly called Joe Mulligan out but reversed his call after consulting with HP Umpire Brick Owens; George Burns was off the bag"
-"BOS192207220",70,"$Joe Dugan out on appeal for missing 2B"
-"BOS192208150",0,"ej,duffh101,M,evanb901,Bench jockeying ej,Dennis Farmington,T,evanb901,Bench jockeying [Trainer] Red Sox Manager Hugh Duffy and Trainer Dennis Farmington ejected by 1B umpire Billy Evans sometime in game"
-"BOS192208160",72,"$Ray Schalk went to mound and questioned Shovel Hodge's courage; Hodge exploded and was still jawing after Schalk went to HP; Eddie Collins went to the mound to calm Hodge"
-"BOS192208160",73,"$after returning to the bench, Shovel Hodge swung at Ray Schalk; White Sox manager Kid Gleason and Johnny Mostil separated them"
-"BOS192208160",75,"$Bounce HR"
-"BOS192208250",42,"$Bounce HR"
-"BOS192204180",47,"$Ed Chaplin injured in collision at the end of the top of the 5th"
-"BOS192205160",87,"$the throw hit the runner"
-"BOS192205200",12,"no putout credited in 1922 for /BR"
-"BOS192205220",10,"$Larry Gardner's bunt rolled foul and Stuffy McInnis pulled a tendon in his right leg running from 2B to 3B"
-"BOS192205311",14,"Fine stop by Peckinpaugh, but throw home was late."
-"BOS192205311",28,"Rice had to leave the game due to illness."
-"BOS192205311",56,"Single went through Menosky's legs."
-"BOS192205311",63,"Menosky with a fine running catch on a long foul fly."
-"BOS192206220",57,"5 minutes rain delay"
-"BOS192206230",49,"reconstructed 7 to end for BOS192206230"
-"BOS192206242",2,"$George Burns pulled the hidden ball trick on Chick Fewster"
-"BOS192206242",16,"$Roxy Walters twisted his ankle sliding into 2B"
-"BOS192207071",44,"ej,willk101,P,evanb901,Balls and strikes Ken Williams ejected by HP umpire Billy Evans"
-"BOS192207082",29,"Tobin escaped rundown between first and second."
-"BOS192207101",105,"$Frank Ellerbe injured his knee running to 1B"
-"BOS192207102",55,"ej,collp101,P,hildg101,Called third strike Collins ejected by Hildebrand for arguing third strike."
-"BOS192207120",60,"ej,nunal101,P,hildg101,Bench jockeying Les Nunamaker ejected by HP umpire George Hildebrand"
-"BOS192207120",71,"$Joe Sewell's sixth consecutive hit"
-"BOS192207130",60,"$George Burns threw to Shano Collins late; Joe Sewell and Collins collided; Collins suffered a twisted ankle"
-"BOS192207140",79,"$infield in for Tris Speaker"
-"BOS192207190",24,"$George Burns called for interference for running into his own batted ball"
-"BOS192207210",100,"$1B Umpire Tommy Connolly called Joe Mulligan out but reversed his call after consulting with HP Umpire Brick Owens; George Burns was off the bag"
-"BOS192207220",70,"$Joe Dugan out on appeal for missing 2B"
-"BOS192208150",0,"ej,duffh101,M,evanb901,Bench jockeying ej,Dennis Farmington,T,evanb901,Bench jockeying [Trainer] Red Sox Manager Hugh Duffy and Trainer Dennis Farmington ejected by 1B umpire Billy Evans sometime in game"
-"BOS192208160",72,"$Ray Schalk went to mound and questioned Shovel Hodge's courage; Hodge exploded and was still jawing after Schalk went to HP; Eddie Collins went to the mound to calm Hodge"
-"BOS192208160",73,"$after returning to the bench, Shovel Hodge swung at Ray Schalk; White Sox manager Kid Gleason and Johnny Mostil separated them"
-"BOS192208160",75,"$Bounce HR"
-"BOS192208250",42,"$Bounce HR"
+"BOS192204180",47,"$Ed Chaplin injured in collision at the end of the top of the 5th"FILENAME_TX","LINE_NUMBER_CT"
+
+"BOS192205160",87,"$the throw hit the runner"1922BOS.EVA.regular.comment.csv",2
+
+"BOS192205200",12,"no putout credited in 1922 for /BR"1922BOS.EVA.regular.comment.csv",3
+
+"BOS192205220",10,"$Larry Gardner's bunt rolled foul and Stuffy McInnis pulled a tendon in his right leg running from 2B to 3B"1922BOS.EVA.regular.comment.csv",4
+
+"BOS192205311",14,"Fine stop by Peckinpaugh, but throw home was late."1922BOS.EVA.regular.comment.csv",5
+
+"BOS192205311",28,"Rice had to leave the game due to illness."1922BOS.EVA.regular.comment.csv",6
+
+"BOS192205311",56,"Single went through Menosky's legs."1922BOS.EVA.regular.comment.csv",7
+
+"BOS192205311",63,"Menosky with a fine running catch on a long foul fly."1922BOS.EVA.regular.comment.csv",8
+
+"BOS192206220",57,"5 minutes rain delay"1922BOS.EVA.regular.comment.csv",9
+
+"BOS192206230",49,"reconstructed 7 to end for BOS192206230"1922BOS.EVA.regular.comment.csv",10
+
+"BOS192206242",2,"$George Burns pulled the hidden ball trick on Chick Fewster"1922BOS.EVA.regular.comment.csv",11
+
+"BOS192206242",16,"$Roxy Walters twisted his ankle sliding into 2B"1922BOS.EVA.regular.comment.csv",12
+
+"BOS192207071",44,"ej,willk101,P,evanb901,Balls and strikes Ken Williams ejected by HP umpire Billy Evans"1922BOS.EVA.regular.comment.csv",13
+
+"BOS192207082",29,"Tobin escaped rundown between first and second."1922BOS.EVA.regular.comment.csv",14
+
+"BOS192207101",105,"$Frank Ellerbe injured his knee running to 1B"1922BOS.EVA.regular.comment.csv",15
+
+"BOS192207102",55,"ej,collp101,P,hildg101,Called third strike Collins ejected by Hildebrand for arguing third strike."1922BOS.EVA.regular.comment.csv",16
+
+"BOS192207120",60,"ej,nunal101,P,hildg101,Bench jockeying Les Nunamaker ejected by HP umpire George Hildebrand"1922BOS.EVA.regular.comment.csv",17
+
+"BOS192207120",71,"$Joe Sewell's sixth consecutive hit"1922BOS.EVA.regular.comment.csv",18
+
+"BOS192207130",60,"$George Burns threw to Shano Collins late; Joe Sewell and Collins collided; Collins suffered a twisted ankle"1922BOS.EVA.regular.comment.csv",19
+
+"BOS192207140",79,"$infield in for Tris Speaker"1922BOS.EVA.regular.comment.csv",20
+
+"BOS192207190",24,"$George Burns called for interference for running into his own batted ball"1922BOS.EVA.regular.comment.csv",21
+
+"BOS192207210",100,"$1B Umpire Tommy Connolly called Joe Mulligan out but reversed his call after consulting with HP Umpire Brick Owens; George Burns was off the bag"1922BOS.EVA.regular.comment.csv",22
+
+"BOS192207220",70,"$Joe Dugan out on appeal for missing 2B"1922BOS.EVA.regular.comment.csv",23
+
+"BOS192208150",0,"ej,duffh101,M,evanb901,Bench jockeying ej,Dennis Farmington,T,evanb901,Bench jockeying [Trainer] Red Sox Manager Hugh Duffy and Trainer Dennis Farmington ejected by 1B umpire Billy Evans sometime in game"1922BOS.EVA.regular.comment.csv",24
+
+"BOS192208160",72,"$Ray Schalk went to mound and questioned Shovel Hodge's courage; Hodge exploded and was still jawing after Schalk went to HP; Eddie Collins went to the mound to calm Hodge"1922BOS.EVA.regular.comment.csv",25
+
+"BOS192208160",73,"$after returning to the bench, Shovel Hodge swung at Ray Schalk; White Sox manager Kid Gleason and Johnny Mostil separated them"1922BOS.EVA.regular.comment.csv",26
+
+"BOS192208160",75,"$Bounce HR"1922BOS.EVA.regular.comment.csv",27
+
+"BOS192208250",42,"$Bounce HR"1922BOS.EVA.regular.comment.csv",28
+

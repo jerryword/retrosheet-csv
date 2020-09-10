@@ -1,77 +1,76 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"PHA192604220",66,"Not clear when McNeely entered."
-"PHA192604290",0,"$Weather: Cold"
-"PHA192604290",9,"$Red Ruffing picked off Al Simmons"
-"PHA192605050",43,"$Sam Gray suffered injured leg on play at HP"
-"PHA192605060",45,"$Bennett crashed into wall chasing a foul, was knocked out."
-"PHA192605060",56,"pbp account ends here, rest deduced"
-"PHA192605070",18,"Austin, coaching third, ejected by Rowland for arguing third strike on LaMotte."
-"PHA192605070",35,"Rice skipped in PBP."
-"PHA192605070",53,"pbp account ends here, rest deduced"
-"PHA192605180",57,"Not certain when Hale entered."
-"PHA192605190",30,"Not clear when Myatt entered."
-"PHA192605200",59,"Not certain when Knode entered."
-"PHA192605251",75,"Not certain when Hale entered."
-"PHA192605252",23,"Not certain when Wambsganss entered."
-"PHA192606242",44,"the part of 6th that was played: Gray was new P; Wash 6th D9; 53/SH.2-3; 43.3-H; 13 PHA 6th one batter 53 $called for rain"
-"PHA192606290",28,"$Bill Lamar crashed into wall trying to catch double"
-"PHA192606290",37,"ej,gehrl101,P,hildg101,Called third strike (Threw bat) Lou Gehrig ejected by HP umpire George Hildebrand"
-"PHA192607010",57,"Not certain when Cochrane entered."
-"PHA192607031",65,"$Mickey Cochrane fell down halfway to 2B"
-"PHA192607052",46,"Not certain when Wambsganss entered."
-"PHA192607090",57,"ej,dykej101,Pnalld901,Bench jockeying Jimmy Dykes ejected by HP Umpire Dick Nallin"
-"PHA192607100",23,"$Walt French's 6th consecutive hit"
-"PHA192607100",89,"$Eddie Collins called time just as Red Faber was winding up and Max Bishop singled to CF; Umpire Bill McGowan ruled it was a dead ball"
-"PHA192607162",46,"Not certain when Robertson entered."
-"PHA192607190",76,"Not certain when Foxx entered."
-"PHA192607201",66,"Not clear when Welch or Foxx entered."
-"PHA192607230",50,"Not certain when Jamieson entered."
-"PHA192608171",50,"Not certain when Myatt entered."
-"PHA192608171",60,"Not certain when Lacy entered."
-"PHA192608171",61,"Not certain when Eichrodt entered."
-"PHA192608172",60,"Not certain when Lamar entered."
-"PHA192608172",74,"Not certain when Bishop entered."
-"PHA192608202",29,"Not certain when Bassler entered."
-"PHA192608202",45,"Not certain when Cochrane entered"
-"PHA192608262",74,"$Gene Robertson called for interference for running into his own batted ball"
-"PHA192608262",92,"Not sure when Schang entered."
-"PHA192609031",62,"$Sammy Hale's popup fell in between Mark Koenig, Tony Lazzeri and Joe Dugan"
-"PHA192609031",72,"$Garland Braxton's throw hit Frank Sigafoos on the head"
-"PHA192604220",66,"Not clear when McNeely entered."
-"PHA192604290",0,"$Weather: Cold"
-"PHA192604290",9,"$Red Ruffing picked off Al Simmons"
-"PHA192605050",43,"$Sam Gray suffered injured leg on play at HP"
-"PHA192605060",45,"$Bennett crashed into wall chasing a foul, was knocked out."
-"PHA192605060",56,"pbp account ends here, rest deduced"
-"PHA192605070",18,"ej,austj101,C,rowlp801,Called third strike Austin, coaching third, ejected by Rowland for arguing third strike on LaMotte."
-"PHA192605070",35,"Rice skipped in PBP."
-"PHA192605070",53,"pbp account ends here, rest deduced"
-"PHA192605180",57,"Not certain when Hale entered."
-"PHA192605190",30,"Not clear when Myatt entered."
-"PHA192605200",59,"Not certain when Knode entered."
-"PHA192605251",75,"Not certain when Hale entered."
-"PHA192605252",23,"Not certain when Wambsganss entered."
-"PHA192606242",44,"the part of 6th that was played: Gray was new P; Wash 6th D9; 53/SH.2-3; 43.3-H; 13 PHA 6th one batter 53 $called for rain"
-"PHA192606290",28,"$Bill Lamar crashed into wall trying to catch double"
-"PHA192606290",37,"ej,gehrl101,P,hildg101,Called third strike (Threw bat) Lou Gehrig ejected by HP umpire George Hildebrand"
-"PHA192607010",57,"Not certain when Cochrane entered."
-"PHA192607031",65,"$Mickey Cochrane fell down halfway to 2B"
-"PHA192607052",46,"Not certain when Wambsganss entered."
-"PHA192607090",57,"ej,dykej101,Pnalld901,Bench jockeying Jimmy Dykes ejected by HP Umpire Dick Nallin"
-"PHA192607100",23,"$Walt French's 6th consecutive hit"
-"PHA192607100",89,"$Eddie Collins called time just as Red Faber was winding up and Max Bishop singled to CF; Umpire Bill McGowan ruled it was a dead ball"
-"PHA192607162",46,"Not certain when Robertson entered."
-"PHA192607190",76,"Not certain when Foxx entered."
-"PHA192607201",66,"Not clear when Welch or Foxx entered."
-"PHA192607230",50,"Not certain when Jamieson entered."
-"PHA192608171",50,"Not certain when Myatt entered."
-"PHA192608171",60,"Not certain when Lacy entered."
-"PHA192608171",61,"Not certain when Eichrodt entered."
-"PHA192608172",60,"Not certain when Lamar entered."
-"PHA192608172",74,"Not certain when Bishop entered."
-"PHA192608202",29,"Not certain when Bassler entered."
-"PHA192608202",45,"Not certain when Cochrane entered"
-"PHA192608262",74,"$Gene Robertson called for interference for running into his own batted ball"
-"PHA192608262",92,"Not sure when Schang entered."
-"PHA192609031",62,"$Sammy Hale's popup fell in between Mark Koenig, Tony Lazzeri and Joe Dugan"
-"PHA192609031",72,"$Garland Braxton's throw hit Frank Sigafoos on the head"
+"PHA192604220",66,"Not clear when McNeely entered."FILENAME_TX","LINE_NUMBER_CT"
+
+"PHA192604290",0,"$Weather: Cold"1926PHA.EVA.regular.comment.csv",2
+
+"PHA192604290",9,"$Red Ruffing picked off Al Simmons"1926PHA.EVA.regular.comment.csv",3
+
+"PHA192605050",43,"$Sam Gray suffered injured leg on play at HP"1926PHA.EVA.regular.comment.csv",4
+
+"PHA192605060",45,"$Bennett crashed into wall chasing a foul, was knocked out."1926PHA.EVA.regular.comment.csv",5
+
+"PHA192605060",56,"pbp account ends here, rest deduced"1926PHA.EVA.regular.comment.csv",6
+
+"PHA192605070",18,"ej,austj101,C,rowlp801,Called third strike Austin, coaching third, ejected by Rowland for arguing third strike on LaMotte."1926PHA.EVA.regular.comment.csv",7
+
+"PHA192605070",35,"Rice skipped in PBP."1926PHA.EVA.regular.comment.csv",8
+
+"PHA192605070",53,"pbp account ends here, rest deduced"1926PHA.EVA.regular.comment.csv",9
+
+"PHA192605180",57,"Not certain when Hale entered."1926PHA.EVA.regular.comment.csv",10
+
+"PHA192605190",30,"Not clear when Myatt entered."1926PHA.EVA.regular.comment.csv",11
+
+"PHA192605200",59,"Not certain when Knode entered."1926PHA.EVA.regular.comment.csv",12
+
+"PHA192605251",75,"Not certain when Hale entered."1926PHA.EVA.regular.comment.csv",13
+
+"PHA192605252",23,"Not certain when Wambsganss entered."1926PHA.EVA.regular.comment.csv",14
+
+"PHA192606242",44,"the part of 6th that was played: Gray was new P; Wash 6th D9; 53/SH.2-3; 43.3-H; 13 PHA 6th one batter 53 $called for rain"1926PHA.EVA.regular.comment.csv",15
+
+"PHA192606290",28,"$Bill Lamar crashed into wall trying to catch double"1926PHA.EVA.regular.comment.csv",16
+
+"PHA192606290",37,"ej,gehrl101,P,hildg101,Called third strike (Threw bat) Lou Gehrig ejected by HP umpire George Hildebrand"1926PHA.EVA.regular.comment.csv",17
+
+"PHA192607010",57,"Not certain when Cochrane entered."1926PHA.EVA.regular.comment.csv",18
+
+"PHA192607031",65,"$Mickey Cochrane fell down halfway to 2B"1926PHA.EVA.regular.comment.csv",19
+
+"PHA192607052",46,"Not certain when Wambsganss entered."1926PHA.EVA.regular.comment.csv",20
+
+"PHA192607090",57,"ej,dykej101,Pnalld901,Bench jockeying Jimmy Dykes ejected by HP Umpire Dick Nallin"1926PHA.EVA.regular.comment.csv",21
+
+"PHA192607100",23,"$Walt French's 6th consecutive hit"1926PHA.EVA.regular.comment.csv",22
+
+"PHA192607100",89,"$Eddie Collins called time just as Red Faber was winding up and Max Bishop singled to CF; Umpire Bill McGowan ruled it was a dead ball"1926PHA.EVA.regular.comment.csv",23
+
+"PHA192607162",46,"Not certain when Robertson entered."1926PHA.EVA.regular.comment.csv",24
+
+"PHA192607190",76,"Not certain when Foxx entered."1926PHA.EVA.regular.comment.csv",25
+
+"PHA192607201",66,"Not clear when Welch or Foxx entered."1926PHA.EVA.regular.comment.csv",26
+
+"PHA192607230",50,"Not certain when Jamieson entered."1926PHA.EVA.regular.comment.csv",27
+
+"PHA192608171",50,"Not certain when Myatt entered."1926PHA.EVA.regular.comment.csv",28
+
+"PHA192608171",60,"Not certain when Lacy entered."1926PHA.EVA.regular.comment.csv",29
+
+"PHA192608171",61,"Not certain when Eichrodt entered."1926PHA.EVA.regular.comment.csv",30
+
+"PHA192608172",60,"Not certain when Lamar entered."1926PHA.EVA.regular.comment.csv",31
+
+"PHA192608172",74,"Not certain when Bishop entered."1926PHA.EVA.regular.comment.csv",32
+
+"PHA192608202",29,"Not certain when Bassler entered."1926PHA.EVA.regular.comment.csv",33
+
+"PHA192608202",45,"Not certain when Cochrane entered"1926PHA.EVA.regular.comment.csv",34
+
+"PHA192608262",74,"$Gene Robertson called for interference for running into his own batted ball"1926PHA.EVA.regular.comment.csv",35
+
+"PHA192608262",92,"Not sure when Schang entered."1926PHA.EVA.regular.comment.csv",36
+
+"PHA192609031",62,"$Sammy Hale's popup fell in between Mark Koenig, Tony Lazzeri and Joe Dugan"1926PHA.EVA.regular.comment.csv",37
+
+"PHA192609031",72,"$Garland Braxton's throw hit Frank Sigafoos on the head"1926PHA.EVA.regular.comment.csv",38
+

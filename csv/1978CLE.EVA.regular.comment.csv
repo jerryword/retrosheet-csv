@@ -1,43 +1,42 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"CLE197804090",0,"$umpire Nick Bremigan missed game due to illness"
-"CLE197804090",1,"27 minute rain delay at 2:35"
-"CLE197804090",6,"previous two plays really one"
-"CLE197804090",66,"Debut game for Dennis Kinney"
-"CLE197804100",1,"Debut game for Allen Ripley"
-"CLE197804170",0,"Protest=V"
-"CLE197804170",5,"$Richie Zisk called for interference; Rangers manager Billy Hunter protested game"
-"CLE197805170",57,"$Ron Hassey called for stepping on HP while bunting"
-"CLE197805200",18,"$Ron Hassey called for interference for running into his own ball"
-"CLE197806182",73,"ej,torbj101,M,voltv901,Call at HP $Indians manager Torborg ejected by HP umpire Voltaggio for arguing that Molitor was out on steal of home"
-"CLE197806230",19,"Debut game for Brian Milner"
-"CLE197806240",71,"Debut game for Victor Cruz"
-"CLE197806252",24,"$Buddy Bell left game due to muscle spasms in his back"
-"CLE197807070",64,"$20-minute light failure delay sometime in 7th inning"
-"CLE197807250",40,"$Buddy left game with muscle tightness in his back"
-"CLE197808010",20,"$Steve Braun called for interference for running into own bunt"
-"CLE197808290",0,"$umpire Vic Voltaggio out sick"
-"CLE197808312",0,"$Umpire Vic Voltaggio out sick"
-"CLE197809180",36,"$Doug DeCinces left after fouling ball off face"
-"CLE197809180",82,"ej,pruir101,P,voltv901,Called third strike Ron Pruitt ejected by HP umpire Vic Voltaggio"
-"CLE197809240",68,"ej,howsd101,C,koscg901,Fair/foul call Yankees Coach Dick Howser ejected by 3B umpire Greg Kosc Yankees coach Dick Howser was ejected by 3rd base umpire arguing a foul ball hit by Thurmon Munson"
-"CLE197804090",0,"$umpire Nick Bremigan missed game due to illness"
-"CLE197804090",1,"27 minute rain delay at 2:35"
-"CLE197804090",6,"previous two plays really one"
-"CLE197804090",66,"Debut game for Dennis Kinney"
-"CLE197804100",1,"Debut game for Allen Ripley"
-"CLE197804170",0,"Protest=V"
-"CLE197804170",5,"$Richie Zisk called for interference; Rangers manager Billy Hunter protested game"
-"CLE197805170",57,"$Ron Hassey called for stepping on HP while bunting"
-"CLE197805200",18,"$Ron Hassey called for interference for running into his own ball"
-"CLE197806182",73,"ej,torbj101,M,voltv901,Call at HP $Indians manager Torborg ejected by HP umpire Voltaggio for arguing that Molitor was out on steal of home"
-"CLE197806230",19,"Debut game for Brian Milner"
-"CLE197806240",71,"Debut game for Victor Cruz"
-"CLE197806252",24,"$Buddy Bell left game due to muscle spasms in his back"
-"CLE197807070",64,"$20-minute light failure delay sometime in 7th inning"
-"CLE197807250",40,"$Buddy left game with muscle tightness in his back"
-"CLE197808010",20,"$Steve Braun called for interference for running into own bunt"
-"CLE197808290",0,"$umpire Vic Voltaggio out sick"
-"CLE197808312",0,"$Umpire Vic Voltaggio out sick"
-"CLE197809180",36,"$Doug DeCinces left after fouling ball off face"
-"CLE197809180",82,"ej,pruir101,P,voltv901,Called third strike Ron Pruitt ejected by HP umpire Vic Voltaggio"
-"CLE197809240",68,"ej,howsd101,C,koscg901,Fair/foul call Yankees Coach Dick Howser ejected by 3B umpire Greg Kosc Yankees coach Dick Howser was ejected by 3rd base umpire arguing a foul ball hit by Thurmon Munson"
+"CLE197804090",0,"$umpire Nick Bremigan missed game due to illness"FILENAME_TX","LINE_NUMBER_CT"
+
+"CLE197804090",1,"27 minute rain delay at 2:35"1978CLE.EVA.regular.comment.csv",2
+
+"CLE197804090",6,"previous two plays really one"1978CLE.EVA.regular.comment.csv",3
+
+"CLE197804090",66,"Debut game for Dennis Kinney"1978CLE.EVA.regular.comment.csv",4
+
+"CLE197804100",1,"Debut game for Allen Ripley"1978CLE.EVA.regular.comment.csv",5
+
+"CLE197804170",0,"Protest=V"1978CLE.EVA.regular.comment.csv",6
+
+"CLE197804170",5,"$Richie Zisk called for interference; Rangers manager Billy Hunter protested game"1978CLE.EVA.regular.comment.csv",7
+
+"CLE197805170",57,"$Ron Hassey called for stepping on HP while bunting"1978CLE.EVA.regular.comment.csv",8
+
+"CLE197805200",18,"$Ron Hassey called for interference for running into his own ball"1978CLE.EVA.regular.comment.csv",9
+
+"CLE197806182",73,"ej,torbj101,M,voltv901,Call at HP $Indians manager Torborg ejected by HP umpire Voltaggio for arguing that Molitor was out on steal of home"1978CLE.EVA.regular.comment.csv",10
+
+"CLE197806230",19,"Debut game for Brian Milner"1978CLE.EVA.regular.comment.csv",11
+
+"CLE197806240",71,"Debut game for Victor Cruz"1978CLE.EVA.regular.comment.csv",12
+
+"CLE197806252",24,"$Buddy Bell left game due to muscle spasms in his back"1978CLE.EVA.regular.comment.csv",13
+
+"CLE197807070",64,"$20-minute light failure delay sometime in 7th inning"1978CLE.EVA.regular.comment.csv",14
+
+"CLE197807250",40,"$Buddy left game with muscle tightness in his back"1978CLE.EVA.regular.comment.csv",15
+
+"CLE197808010",20,"$Steve Braun called for interference for running into own bunt"1978CLE.EVA.regular.comment.csv",16
+
+"CLE197808290",0,"$umpire Vic Voltaggio out sick"1978CLE.EVA.regular.comment.csv",17
+
+"CLE197808312",0,"$Umpire Vic Voltaggio out sick"1978CLE.EVA.regular.comment.csv",18
+
+"CLE197809180",36,"$Doug DeCinces left after fouling ball off face"1978CLE.EVA.regular.comment.csv",19
+
+"CLE197809180",82,"ej,pruir101,P,voltv901,Called third strike Ron Pruitt ejected by HP umpire Vic Voltaggio"1978CLE.EVA.regular.comment.csv",20
+
+"CLE197809240",68,"ej,howsd101,C,koscg901,Fair/foul call Yankees Coach Dick Howser ejected by 3B umpire Greg Kosc Yankees coach Dick Howser was ejected by 3rd base umpire arguing a foul ball hit by Thurmon Munson"1978CLE.EVA.regular.comment.csv",21
+

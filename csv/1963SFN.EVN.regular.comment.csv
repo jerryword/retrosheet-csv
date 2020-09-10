@@ -1,49 +1,48 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"SFN196304160",26,"ej,crafh101,M,donaa901,Balk call ej,dealc101,C,donaa901,Balk call Colts Manager Harry Craft and Coach Cot Deal ejected by HP umpire Augie Donatelli"
-"SFN196304170",98,"ej,johnk102,P,craws901,Balls and strikes Ken Johnson ejected by HP umpire Shag Crawford"
-"SFN196304190",0,"71 minute rain delay before start of game"
-"SFN196304190",10,"6 minute rain delay"
-"SFN196304190",36,"30 minute rain delay"
-"SFN196304190",62,"Debut game for Phil Mudrock"
-"SFN196304200",0,"13 minute rain delay before start of game"
-"SFN196304200",54,"Debut game for John Pregenzer"
-"SFN196304200",58,"ej,asprk101,P,donaa901,Called third strike Ken Aspromonte ejected by HP umpire Augie Donatelli"
-"SFN196304260",46,"Debut game for Al Stanek"
-"SFN196305140",14,"ej,hallt102,P,burkk101,Called strike 3 $Haller ejected by HP umpire Burkhart for arguing strike 3"
-"SFN196305192",70,"missing play in SFN196305192"
-"SFN196305260",22,"$Jim Davenport was out on appeal for leaving 1B too soon"
-"SFN196305260",52,"Perry may have gotten an assist on the play."
-"SFN196306170",49,"John Roseboro left with injured hand"
-"SFN196307020",0,"$Juan Marichal: 227 pitches; Warren Spahn 201 pitches"
-"SFN196307071",16,"Debut game for James Hart"
-"SFN196307300",58,"$Art Mahaffey caught his spikes in the pitching rubber as he was preparing to make his first pitch; he was carried from the field suffering a dislocated peroneal tendon in his right ankle"
-"SFN196307310",107,"$Ed Bailey called for obstruction"
-"SFN196309021",7,"Debut game for John Boccabella"
-"SFN196309021",40,"Willie Mays left due to dizzy spells"
-"SFN196309030",47,"Debut game for Jimmy Stewart"
-"SFN196309240",56,"ej,kuenh101,P,harvd901,Call at 3B $Juan Marichal threw to 3B on an attempted steal without stepping off the rubber; Harvey Kuenn argued the safe call on the play at 3B and was ejected by 3B umpire Doug Harvey"
-"SFN196309270",50,"missing play in SFN196309270"
-"SFN196304160",26,"ej,crafh101,M,donaa901,Balk call ej,dealc101,C,donaa901,Balk call Colts Manager Harry Craft and Coach Cot Deal ejected by HP umpire Augie Donatelli"
-"SFN196304170",98,"ej,johnk102,P,craws901,Balls and strikes Ken Johnson ejected by HP umpire Shag Crawford"
-"SFN196304190",0,"71 minute rain delay before start of game"
-"SFN196304190",10,"6 minute rain delay"
-"SFN196304190",36,"30 minute rain delay"
-"SFN196304190",62,"Debut game for Phil Mudrock"
-"SFN196304200",0,"13 minute rain delay before start of game"
-"SFN196304200",54,"Debut game for John Pregenzer"
-"SFN196304200",58,"ej,asprk101,P,donaa901,Called third strike Ken Aspromonte ejected by HP umpire Augie Donatelli"
-"SFN196304260",46,"Debut game for Al Stanek"
-"SFN196305140",14,"ej,hallt102,P,burkk101,Called strike 3 $Haller ejected by HP umpire Burkhart for arguing strike 3"
-"SFN196305192",70,"missing play in SFN196305192"
-"SFN196305260",22,"$Jim Davenport was out on appeal for leaving 1B too soon"
-"SFN196305260",52,"Perry may have gotten an assist on the play."
-"SFN196306170",49,"John Roseboro left with injured hand"
-"SFN196307020",0,"$Juan Marichal: 227 pitches; Warren Spahn 201 pitches"
-"SFN196307071",16,"Debut game for James Hart"
-"SFN196307300",58,"$Art Mahaffey caught his spikes in the pitching rubber as he was preparing to make his first pitch; he was carried from the field suffering a dislocated peroneal tendon in his right ankle"
-"SFN196307310",107,"$Ed Bailey called for obstruction"
-"SFN196309021",7,"Debut game for John Boccabella"
-"SFN196309021",40,"Willie Mays left due to dizzy spells"
-"SFN196309030",47,"Debut game for Jimmy Stewart"
-"SFN196309240",56,"ej,kuenh101,P,harvd901,Call at 3B $Juan Marichal threw to 3B on an attempted steal without stepping off the rubber; Harvey Kuenn argued the safe call on the play at 3B and was ejected by 3B umpire Doug Harvey"
-"SFN196309270",50,"missing play in SFN196309270"
+"SFN196304160",26,"ej,crafh101,M,donaa901,Balk call ej,dealc101,C,donaa901,Balk call Colts Manager Harry Craft and Coach Cot Deal ejected by HP umpire Augie Donatelli"FILENAME_TX","LINE_NUMBER_CT"
+
+"SFN196304170",98,"ej,johnk102,P,craws901,Balls and strikes Ken Johnson ejected by HP umpire Shag Crawford"1963SFN.EVN.regular.comment.csv",2
+
+"SFN196304190",0,"71 minute rain delay before start of game"1963SFN.EVN.regular.comment.csv",3
+
+"SFN196304190",10,"6 minute rain delay"1963SFN.EVN.regular.comment.csv",4
+
+"SFN196304190",36,"30 minute rain delay"1963SFN.EVN.regular.comment.csv",5
+
+"SFN196304190",62,"Debut game for Phil Mudrock"1963SFN.EVN.regular.comment.csv",6
+
+"SFN196304200",0,"13 minute rain delay before start of game"1963SFN.EVN.regular.comment.csv",7
+
+"SFN196304200",54,"Debut game for John Pregenzer"1963SFN.EVN.regular.comment.csv",8
+
+"SFN196304200",58,"ej,asprk101,P,donaa901,Called third strike Ken Aspromonte ejected by HP umpire Augie Donatelli"1963SFN.EVN.regular.comment.csv",9
+
+"SFN196304260",46,"Debut game for Al Stanek"1963SFN.EVN.regular.comment.csv",10
+
+"SFN196305140",14,"ej,hallt102,P,burkk101,Called strike 3 $Haller ejected by HP umpire Burkhart for arguing strike 3"1963SFN.EVN.regular.comment.csv",11
+
+"SFN196305192",70,"missing play in SFN196305192"1963SFN.EVN.regular.comment.csv",12
+
+"SFN196305260",22,"$Jim Davenport was out on appeal for leaving 1B too soon"1963SFN.EVN.regular.comment.csv",13
+
+"SFN196305260",52,"Perry may have gotten an assist on the play."1963SFN.EVN.regular.comment.csv",14
+
+"SFN196306170",49,"John Roseboro left with injured hand"1963SFN.EVN.regular.comment.csv",15
+
+"SFN196307020",0,"$Juan Marichal: 227 pitches; Warren Spahn 201 pitches"1963SFN.EVN.regular.comment.csv",16
+
+"SFN196307071",16,"Debut game for James Hart"1963SFN.EVN.regular.comment.csv",17
+
+"SFN196307300",58,"$Art Mahaffey caught his spikes in the pitching rubber as he was preparing to make his first pitch; he was carried from the field suffering a dislocated peroneal tendon in his right ankle"1963SFN.EVN.regular.comment.csv",18
+
+"SFN196307310",107,"$Ed Bailey called for obstruction"1963SFN.EVN.regular.comment.csv",19
+
+"SFN196309021",7,"Debut game for John Boccabella"1963SFN.EVN.regular.comment.csv",20
+
+"SFN196309021",40,"Willie Mays left due to dizzy spells"1963SFN.EVN.regular.comment.csv",21
+
+"SFN196309030",47,"Debut game for Jimmy Stewart"1963SFN.EVN.regular.comment.csv",22
+
+"SFN196309240",56,"ej,kuenh101,P,harvd901,Call at 3B $Juan Marichal threw to 3B on an attempted steal without stepping off the rubber; Harvey Kuenn argued the safe call on the play at 3B and was ejected by 3B umpire Doug Harvey"1963SFN.EVN.regular.comment.csv",23
+
+"SFN196309270",50,"missing play in SFN196309270"1963SFN.EVN.regular.comment.csv",24
+

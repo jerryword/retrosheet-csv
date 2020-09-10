@@ -1,66 +1,64 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"MIN200004030",20,"Debut game for Matt LeCroy"
-"MIN200004030",70,"Debut game for Johan Santana"
-"MIN200005030",41,"DWS: not at all sure. Originally scored as DP and no CS, then changed to CS. This my best guess"
-"MIN200005040",52,"Sure looks like UR on other 2 this inning"
-"MIN200005250",47,"ej,kellt101,M,everm901,Call at 1B ej,whitj001,C,everm901,Call at 1B Twins manager Tom Kelly and coach Jerry White ejected by 1B umpire Mike Everitt in seventh"
-"MIN200005280",29,"ej,huskb001,P,emmep901,Balls and strikes Butch Huskey ejected by HP umpire Paul Emmel"
-"MIN200007060",60,"$Garciaparra and O'Leary collide, both hurt, O'Leary leaves"
-"MIN200007130",58,"DV: ESPN says Rain enters here"
-"MIN200007170",12,"Debut game for Chris Richard $HR on first pitch in major leagues"
-"MIN200007180",26,"ej,davie001,P,wintm901,Balls and strikes Eric Davis ejected by HP umpire Mike Winters"
-"MIN200007200",26,"DV: that's correct"
-"MIN200007210",0,"$Mgr Tom Kelly away with sick father and Coach Ron Gardenhire in charge; Roberto Alomar out with a sore left ankle"
-"MIN200007220",0,"$Roberto Alomar out with a sore left ankle"
-"MIN200007230",0,"$Roberto Alomar out with a sore left ankle"
-"MIN200007230",61,"SF and DP, but run counts"
-"MIN200007280",80,"$Hill had previously pinch hit a slam in the NL to become the sixth player to perform this feat"
-"MIN200007290",41,"$Clay Bellinger called for interference"
-"MIN200007290",66,"IPHR"
-"MIN200008120",9,"$Moeller left with torn knee ligament"
-"MIN200008250",55,"ej,guzmc001,P,dimum901,Balls and strikes Cristian Guzman ejected by HP umpire Mike Dimuro"
-"MIN200008250",65,"ej,higgb001,P,dimum901,Balls and strikes ej,madlb001,C,dimum901,Balls and strikes Bobby Higginson and Twins coach Bill Madlock ejected by HP umpire Mike Dimuro"
-"MIN200008260",56,"Debut game for Jack Cressend"
-"MIN200009050",27,"DV: how is it not 2 UR????"
-"MIN200009150",56,"Debut game for Danny Mota"
-"MIN200009160",5,"Debut game for Luis Rivas"
-"MIN200009160",15,"Debut game for John Barnes"
-"MIN200009160",66,"ej,guare001,P,cousd901,Balls and strikes Eddie Guardado ejected by HP umprie Derryl Cousins"
-"MIN200009160",68,"ej,hawkl001,P,cousd901,Balls and strikes LaTroy Hawkins ejected by HP umpire Derryl Cousins"
-"MIN200009170",43,"$Vaughn's ball struck a speaker; it would have been a homer"
-"MIN200009210",12,"$diving catch by Lawton"
-"MIN200009220",22,"$Durham slid in head-first and collided with Pierzynski"
-"MIN200009220",25,"$Durham collapsed at the end of the infield practice; he was carried off the field and taken to the hospital"
-"MIN200009240",47,"No RBI, but apparently no error"
-"MIN200004030",20,"Debut game for Matt LeCroy"
-"MIN200004030",70,"Debut game for Johan Santana"
-"MIN200005030",41,"DWS: not at all sure. Originally scored as DP and no CS, then changed to CS. This my best guess"
-"MIN200005040",52,"Sure looks like UR on other 2 this inning"
-"MIN200005250",50,"ej,kellt101,M,everm901,Call at 1B ej,whitj001,C,everm901,Call at 1B $Twins manager Kelly and coach White ejected by 1B umpire Everitt for arguing Buchanon was safe at 1st on DP"
-"MIN200005280",29,"ej,huskb001,P,emmep901,Balls and strikes Butch Huskey ejected by HP umpire Paul Emmel"
-"MIN200007060",60,"$Garciaparra and O'Leary collide, both hurt, O'Leary leaves"
-"MIN200007130",58,"DV: ESPN says Rain enters here"
-"MIN200007170",12,"Debut game for Chris Richard $HR on first pitch in major leagues"
-"MIN200007180",26,"ej,davie001,P,wintm901,Balls and strikes Eric Davis ejected by HP umpire Mike Winters"
-"MIN200007200",26,"DV: that's correct"
-"MIN200007210",0,"$Mgr Tom Kelly away with sick father and Coach Ron Gardenhire in charge; Roberto Alomar out with a sore left ankle"
-"MIN200007220",0,"$Roberto Alomar out with a sore left ankle"
-"MIN200007230",0,"$Roberto Alomar out with a sore left ankle"
-"MIN200007230",61,"SF and DP, but run counts"
-"MIN200007280",80,"$Hill had previously pinch hit a slam in the NL to become the sixth player to perform this feat"
-"MIN200007290",41,"$Clay Bellinger called for interference"
-"MIN200007290",66,"IPHR"
-"MIN200008120",9,"$Moeller left with torn knee ligament"
-"MIN200008250",55,"ej,guzmc001,P,dimum901,Called strike 3 $Guzman ejected by HP umpire Dimuro for arguing called strike 3"
-"MIN200008250",65,"ej,higgb001,P,dimum901,Called strike 3 ej,madlb001,C,dimum901,Called strike 3 $Higginson and Tigers coach Madlock ejected by HP umpire Dimuro for arguing called strike 3"
-"MIN200008260",56,"Debut game for Jack Cressend"
-"MIN200009050",27,"DV: how is it not 2 UR????"
-"MIN200009150",56,"Debut game for Danny Mota"
-"MIN200009160",5,"Debut game for Luis Rivas"
-"MIN200009160",15,"Debut game for John Barnes"
-"MIN200009160",66,"ej,guare001,P,cousd901,Balls and strikes ej,hawkl001,P,cousd901,Balls and strikes $Pitcher Guardado ejected by HP umpire Cousins for arguing balls and strikes; Twins Hawkins, already out of game, came out of dugout to argue and was also ejected by Cousins"
-"MIN200009170",43,"$Vaughn's ball struck a speaker; it would have been a homer"
-"MIN200009210",12,"$diving catch by Lawton"
-"MIN200009220",22,"$Durham slid in head-first and collided with Pierzynski"
-"MIN200009220",25,"$Durham collapsed at the end of the infield practice; he was carried off the field and taken to the hospital"
-"MIN200009240",47,"No RBI, but apparently no error"
+"MIN200004030",20,"Debut game for Matt LeCroy"FILENAME_TX","LINE_NUMBER_CT"
+
+"MIN200004030",70,"Debut game for Johan Santana"2000MIN.EVA.regular.comment.csv",2
+
+"MIN200005030",41,"DWS: not at all sure. Originally scored as DP and no CS, then changed to CS. This my best guess"2000MIN.EVA.regular.comment.csv",3
+
+"MIN200005040",52,"Sure looks like UR on other 2 this inning"2000MIN.EVA.regular.comment.csv",4
+
+"MIN200005250",50,"ej,kellt101,M,everm901,Call at 1B ej,whitj001,C,everm901,Call at 1B $Twins manager Kelly and coach White ejected by 1B umpire Everitt for arguing Buchanon was safe at 1st on DP"2000MIN.EVA.regular.comment.csv",5
+
+"MIN200005280",29,"ej,huskb001,P,emmep901,Balls and strikes Butch Huskey ejected by HP umpire Paul Emmel"2000MIN.EVA.regular.comment.csv",6
+
+"MIN200007060",60,"$Garciaparra and O'Leary collide, both hurt, O'Leary leaves"2000MIN.EVA.regular.comment.csv",7
+
+"MIN200007130",58,"DV: ESPN says Rain enters here"2000MIN.EVA.regular.comment.csv",8
+
+"MIN200007170",12,"Debut game for Chris Richard $HR on first pitch in major leagues"2000MIN.EVA.regular.comment.csv",9
+
+"MIN200007180",26,"ej,davie001,P,wintm901,Balls and strikes Eric Davis ejected by HP umpire Mike Winters"2000MIN.EVA.regular.comment.csv",10
+
+"MIN200007200",26,"DV: that's correct"2000MIN.EVA.regular.comment.csv",11
+
+"MIN200007210",0,"$Mgr Tom Kelly away with sick father and Coach Ron Gardenhire in charge; Roberto Alomar out with a sore left ankle"2000MIN.EVA.regular.comment.csv",12
+
+"MIN200007220",0,"$Roberto Alomar out with a sore left ankle"2000MIN.EVA.regular.comment.csv",13
+
+"MIN200007230",0,"$Roberto Alomar out with a sore left ankle"2000MIN.EVA.regular.comment.csv",14
+
+"MIN200007230",61,"SF and DP, but run counts"2000MIN.EVA.regular.comment.csv",15
+
+"MIN200007280",80,"$Hill had previously pinch hit a slam in the NL to become the sixth player to perform this feat"2000MIN.EVA.regular.comment.csv",16
+
+"MIN200007290",41,"$Clay Bellinger called for interference"2000MIN.EVA.regular.comment.csv",17
+
+"MIN200007290",66,"IPHR"2000MIN.EVA.regular.comment.csv",18
+
+"MIN200008120",9,"$Moeller left with torn knee ligament"2000MIN.EVA.regular.comment.csv",19
+
+"MIN200008250",55,"ej,guzmc001,P,dimum901,Called strike 3 $Guzman ejected by HP umpire Dimuro for arguing called strike 3"2000MIN.EVA.regular.comment.csv",20
+
+"MIN200008250",65,"ej,higgb001,P,dimum901,Called strike 3 ej,madlb001,C,dimum901,Called strike 3 $Higginson and Tigers coach Madlock ejected by HP umpire Dimuro for arguing called strike 3"2000MIN.EVA.regular.comment.csv",21
+
+"MIN200008260",56,"Debut game for Jack Cressend"2000MIN.EVA.regular.comment.csv",22
+
+"MIN200009050",27,"DV: how is it not 2 UR????"2000MIN.EVA.regular.comment.csv",23
+
+"MIN200009150",56,"Debut game for Danny Mota"2000MIN.EVA.regular.comment.csv",24
+
+"MIN200009160",5,"Debut game for Luis Rivas"2000MIN.EVA.regular.comment.csv",25
+
+"MIN200009160",15,"Debut game for John Barnes"2000MIN.EVA.regular.comment.csv",26
+
+"MIN200009160",66,"ej,guare001,P,cousd901,Balls and strikes ej,hawkl001,P,cousd901,Balls and strikes $Pitcher Guardado ejected by HP umpire Cousins for arguing balls and strikes; Twins Hawkins, already out of game, came out of dugout to argue and was also ejected by Cousins"2000MIN.EVA.regular.comment.csv",27
+
+"MIN200009170",43,"$Vaughn's ball struck a speaker; it would have been a homer"2000MIN.EVA.regular.comment.csv",28
+
+"MIN200009210",12,"$diving catch by Lawton"2000MIN.EVA.regular.comment.csv",29
+
+"MIN200009220",22,"$Durham slid in head-first and collided with Pierzynski"2000MIN.EVA.regular.comment.csv",30
+
+"MIN200009220",25,"$Durham collapsed at the end of the infield practice; he was carried off the field and taken to the hospital"2000MIN.EVA.regular.comment.csv",31
+
+"MIN200009240",47,"No RBI, but apparently no error"2000MIN.EVA.regular.comment.csv",32
+

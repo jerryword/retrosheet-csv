@@ -1,27 +1,26 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"NY1191310070",1,"Debut game for Eddie Murphy"
-"NY1191310070",9,"Debut game for George Burns"
-"NY1191310070",17,"Debut game for Wally Schang"
-"NY1191310070",78,"Debut game for Larry McLean"
-"PHA191310080",17,"$Fred Snodgrass injured his leg running to 3B"
-"PHA191310080",73,"Debut game for Eddie Grant"
-"PHA191310080",75,"$Eddie Collins's throw to 2B hit Christy Mathewson on the shoulder"
-"PHA191310080",82,"$the ball caromed off Hooks Wiltse to Larry Doyle"
-"NY1191310090",9,"Debut game for Joe Bush"
-"NY1191310090",44,"Debut game for Claude Cooper"
-"PHA191310100",4,"Debut game for Al Demaree"
-"PHA191310100",60,"$bounce HR"
-"NY1191310110",36,"$Eddie Plank collided with Frank Baker"
-"NY1191310070",1,"Debut game for Eddie Murphy"
-"NY1191310070",9,"Debut game for George Burns"
-"NY1191310070",17,"Debut game for Wally Schang"
-"NY1191310070",78,"Debut game for Larry McLean"
-"PHA191310080",17,"$Fred Snodgrass injured his leg running to 3B"
-"PHA191310080",73,"Debut game for Eddie Grant"
-"PHA191310080",75,"$Eddie Collins's throw to 2B hit Christy Mathewson on the shoulder"
-"PHA191310080",82,"$the ball caromed off Hooks Wiltse to Larry Doyle"
-"NY1191310090",9,"Debut game for Joe Bush"
-"NY1191310090",44,"Debut game for Claude Cooper"
-"PHA191310100",4,"Debut game for Al Demaree"
-"PHA191310100",60,"$bounce HR"
-"NY1191310110",36,"$Eddie Plank collided with Frank Baker"
+"NY1191310070",1,"Debut game for Eddie Murphy"FILENAME_TX","LINE_NUMBER_CT"
+
+"NY1191310070",9,"Debut game for George Burns"1913WS.EVE.post.comment.csv",2
+
+"NY1191310070",17,"Debut game for Wally Schang"1913WS.EVE.post.comment.csv",3
+
+"NY1191310070",78,"Debut game for Larry McLean"1913WS.EVE.post.comment.csv",4
+
+"PHA191310080",17,"$Fred Snodgrass injured his leg running to 3B"1913WS.EVE.post.comment.csv",5
+
+"PHA191310080",73,"Debut game for Eddie Grant"1913WS.EVE.post.comment.csv",6
+
+"PHA191310080",75,"$Eddie Collins's throw to 2B hit Christy Mathewson on the shoulder"1913WS.EVE.post.comment.csv",7
+
+"PHA191310080",82,"$the ball caromed off Hooks Wiltse to Larry Doyle"1913WS.EVE.post.comment.csv",8
+
+"NY1191310090",9,"Debut game for Joe Bush"1913WS.EVE.post.comment.csv",9
+
+"NY1191310090",44,"Debut game for Claude Cooper"1913WS.EVE.post.comment.csv",10
+
+"PHA191310100",4,"Debut game for Al Demaree"1913WS.EVE.post.comment.csv",11
+
+"PHA191310100",60,"$bounce HR"1913WS.EVE.post.comment.csv",12
+
+"NY1191310110",36,"$Eddie Plank collided with Frank Baker"1913WS.EVE.post.comment.csv",13
+

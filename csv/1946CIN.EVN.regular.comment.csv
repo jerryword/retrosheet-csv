@@ -1,59 +1,58 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"CIN194604220",15,"$Red Schoendienst called for interference for running into his own batted ball"
-"CIN194604230",64,"rain started"
-"CIN194604230",69,"rain delay"
-"CIN194604240",71,"$Ray Mueller tripped in front of HP"
-"CIN194604280",0,"$second game of scheduled double header rained out"
-"CIN194605051",51,"$the throw to HP got past catcher Ray Mueller"
-"CIN194605070",0,"$Ray Mueller benched, ending his 233 consecutive game streak catching for the Reds"
-"CIN194605080",68,"$Clyde Shoun fouled off 7 of 8 pitches then was struck on the ribs; he started for the mound but HP umpire Dusty Boggess escorted him to 1B"
-"CIN194605090",53,"$HP umpire George Barr ruled Max West out while 1B umpire Jocko Conlan called safe; an argument ensued"
-"CIN194605262",22,"$the throw struck Whitey Kurowski on the head"
-"CIN194606010",87,"$Bob Usher sprained his ankle sliding into 3B"
-"CIN194606022",44,"$Art Herring left with injured arm and an active no-hitter"
-"CIN194606100",68,"$no SH awarded"
-"CIN194606110",30,"$400 feet"
-"CIN194606120",53,"$when Johnny Mize took his time retriving the ball, Eddie Miller scored from 2B"
-"CIN194606301",31,"$Phil Cavaretta injured sliding into 2B"
-"CIN194606301",59,"$Bobby Sturgeon injured in collision with Marv Rickert"
-"CIN194607141",52,"$the ball struck Dick Mauney on the right wrist and thumb"
-"CIN194607150",37,"ej,chapb102,M,boggd901,Checked swing Phillies Manager Ben Chapman ejected by HP umpire Dusty Boggess"
-"CIN194607160",64,"ej,semia101,P,boggd901,Call at 2B (Pushed umpire) Andy Seminick ejected by 3B umpire Dusty Boggess; Seminick beat the throw but stood up off the bag and Lonnie Frey tagged him out; Seminick pushed Boggess"
-"CIN194607180",32,"$Pete Reiser overslid 2B"
-"CIN194607200",33,"$Ray Mueller ran Al Rosen back to 3B and then tagged Bill Rigney who tried to advance during the rundown"
-"CIN194608060",20,"$the throw struck Peanuts Lowrey behind the left ear"
-"CIN194608200",9,"$Giants manager Mel Ott stayed at the hotel with a fever; coach Red Kress managed the team"
-"CIN194608210",0,"$Giants manager Mel Ott remained at team hotel with severe cold"
-"CIN194608281",65,"$Mike McCormick rounded 2B too far"
-"CIN194608282",35,"$Mort Cooper called for interference for impeding Ray Lamanno's throw on an attempted steal"
-"CIN194608290",39,"$Billy Herman left with an injured left hand"
-"CIN194609040",11,"$Bucky Walters left with a sore arm"
-"CIN194604220",15,"$Red Schoendienst called for interference for running into his own batted ball"
-"CIN194604230",64,"rain started"
-"CIN194604230",69,"rain delay"
-"CIN194604240",71,"$Ray Mueller tripped in front of HP"
-"CIN194604280",0,"$second game of scheduled double header rained out"
-"CIN194605051",51,"$the throw to HP got past catcher Ray Mueller"
-"CIN194605070",0,"$Ray Mueller benched, ending his 233 consecutive game streak catching for the Reds"
-"CIN194605080",68,"$Clyde Shoun fouled off 7 of 8 pitches then was struck on the ribs; he started for the mound but HP umpire Dusty Boggess escorted him to 1B"
-"CIN194605090",53,"$HP umpire George Barr ruled Max West out while 1B umpire Jocko Conlan called safe; an argument ensued"
-"CIN194605262",22,"$the throw struck Whitey Kurowski on the head"
-"CIN194606010",87,"$Bob Usher sprained his ankle sliding into 3B"
-"CIN194606022",44,"$Art Herring left with injured arm and an active no-hitter"
-"CIN194606100",68,"$no SH awarded"
-"CIN194606110",30,"$400 feet"
-"CIN194606120",53,"$when Johnny Mize took his time retriving the ball, Eddie Miller scored from 2B"
-"CIN194606301",31,"$Phil Cavaretta injured sliding into 2B"
-"CIN194606301",59,"$Bobby Sturgeon injured in collision with Marv Rickert"
-"CIN194607141",52,"$the ball struck Dick Mauney on the right wrist and thumb"
-"CIN194607150",37,"ej,chapb102,M,boggd901,Checked swing Phillies Manager Ben Chapman ejected by HP umpire Dusty Boggess"
-"CIN194607160",64,"ej,semia101,P,boggd901,Call at 2B (Pushed umpire) Andy Seminick ejected by 3B umpire Dusty Boggess; Seminick beat the throw but stood up off the bag and Lonnie Frey tagged him out; Seminick pushed Boggess"
-"CIN194607180",32,"$Pete Reiser overslid 2B"
-"CIN194607200",33,"$Ray Mueller ran Al Rosen back to 3B and then tagged Bill Rigney who tried to advance during the rundown"
-"CIN194608060",20,"$the throw struck Peanuts Lowrey behind the left ear"
-"CIN194608200",9,"$Giants manager Mel Ott stayed at the hotel with a fever; coach Red Kress managed the team"
-"CIN194608210",0,"$Giants manager Mel Ott remained at team hotel with severe cold"
-"CIN194608281",65,"$Mike McCormick rounded 2B too far"
-"CIN194608282",35,"$Mort Cooper called for interference for impeding Ray Lamanno's throw on an attempted steal"
-"CIN194608290",39,"$Billy Herman left with an injured left hand"
-"CIN194609040",11,"$Bucky Walters left with a sore arm"
+"CIN194604220",15,"$Red Schoendienst called for interference for running into his own batted ball"FILENAME_TX","LINE_NUMBER_CT"
+
+"CIN194604230",64,"rain started"1946CIN.EVN.regular.comment.csv",2
+
+"CIN194604230",69,"rain delay"1946CIN.EVN.regular.comment.csv",3
+
+"CIN194604240",71,"$Ray Mueller tripped in front of HP"1946CIN.EVN.regular.comment.csv",4
+
+"CIN194604280",0,"$second game of scheduled double header rained out"1946CIN.EVN.regular.comment.csv",5
+
+"CIN194605051",51,"$the throw to HP got past catcher Ray Mueller"1946CIN.EVN.regular.comment.csv",6
+
+"CIN194605070",0,"$Ray Mueller benched, ending his 233 consecutive game streak catching for the Reds"1946CIN.EVN.regular.comment.csv",7
+
+"CIN194605080",68,"$Clyde Shoun fouled off 7 of 8 pitches then was struck on the ribs; he started for the mound but HP umpire Dusty Boggess escorted him to 1B"1946CIN.EVN.regular.comment.csv",8
+
+"CIN194605090",53,"$HP umpire George Barr ruled Max West out while 1B umpire Jocko Conlan called safe; an argument ensued"1946CIN.EVN.regular.comment.csv",9
+
+"CIN194605262",22,"$the throw struck Whitey Kurowski on the head"1946CIN.EVN.regular.comment.csv",10
+
+"CIN194606010",87,"$Bob Usher sprained his ankle sliding into 3B"1946CIN.EVN.regular.comment.csv",11
+
+"CIN194606022",44,"$Art Herring left with injured arm and an active no-hitter"1946CIN.EVN.regular.comment.csv",12
+
+"CIN194606100",68,"$no SH awarded"1946CIN.EVN.regular.comment.csv",13
+
+"CIN194606110",30,"$400 feet"1946CIN.EVN.regular.comment.csv",14
+
+"CIN194606120",53,"$when Johnny Mize took his time retriving the ball, Eddie Miller scored from 2B"1946CIN.EVN.regular.comment.csv",15
+
+"CIN194606301",31,"$Phil Cavaretta injured sliding into 2B"1946CIN.EVN.regular.comment.csv",16
+
+"CIN194606301",59,"$Bobby Sturgeon injured in collision with Marv Rickert"1946CIN.EVN.regular.comment.csv",17
+
+"CIN194607141",52,"$the ball struck Dick Mauney on the right wrist and thumb"1946CIN.EVN.regular.comment.csv",18
+
+"CIN194607150",37,"ej,chapb102,M,boggd901,Checked swing Phillies Manager Ben Chapman ejected by HP umpire Dusty Boggess"1946CIN.EVN.regular.comment.csv",19
+
+"CIN194607160",64,"ej,semia101,P,boggd901,Call at 2B (Pushed umpire) Andy Seminick ejected by 3B umpire Dusty Boggess; Seminick beat the throw but stood up off the bag and Lonnie Frey tagged him out; Seminick pushed Boggess"1946CIN.EVN.regular.comment.csv",20
+
+"CIN194607180",32,"$Pete Reiser overslid 2B"1946CIN.EVN.regular.comment.csv",21
+
+"CIN194607200",33,"$Ray Mueller ran Al Rosen back to 3B and then tagged Bill Rigney who tried to advance during the rundown"1946CIN.EVN.regular.comment.csv",22
+
+"CIN194608060",20,"$the throw struck Peanuts Lowrey behind the left ear"1946CIN.EVN.regular.comment.csv",23
+
+"CIN194608200",9,"$Giants manager Mel Ott stayed at the hotel with a fever; coach Red Kress managed the team"1946CIN.EVN.regular.comment.csv",24
+
+"CIN194608210",0,"$Giants manager Mel Ott remained at team hotel with severe cold"1946CIN.EVN.regular.comment.csv",25
+
+"CIN194608281",65,"$Mike McCormick rounded 2B too far"1946CIN.EVN.regular.comment.csv",26
+
+"CIN194608282",35,"$Mort Cooper called for interference for impeding Ray Lamanno's throw on an attempted steal"1946CIN.EVN.regular.comment.csv",27
+
+"CIN194608290",39,"$Billy Herman left with an injured left hand"1946CIN.EVN.regular.comment.csv",28
+
+"CIN194609040",11,"$Bucky Walters left with a sore arm"1946CIN.EVN.regular.comment.csv",29
+

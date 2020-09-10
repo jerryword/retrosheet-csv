@@ -1,25 +1,24 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"PHI199905310",49,"$Benard, runner on 1st, though ball would be caught and returned to base, but Mueller passed him there and was out"
-"PHI199906110",1,"Debut game for Randy Wolf"
-"PHI199907030",91,"Debut game for Steve Schrenk"
-"PHI199907232",1,"Debut game for Anthony Shumaker"
-"PHI199907240",0,"ej,cox-b103,M,froeb901,Balls and strikes Braves manager Bobby Cox ejected by HP umpire Bruce Froemming sometime in game"
-"PHI199907240",59,"Debut game for Micah Bowie"
-"PHI199907260",58,"Debut game for Hector Almonte"
-"PHI199907290",32,"Debut game for Armando Almanza"
-"PHI199908210",54,"$Trenidad Hubbard called for interference"
-"PHI199908230",54,"ej,cottc101,C,cuzzp901,Balls and strikes Phillies coach Chuck Cottier ejected by HP umpire Phil Cuzzi sometime in seventh"
-"PHI199908250",22,"ej,bochb002,M,crawj901,Balls and strikes ej,magad001,P,crawj901,Balls and strikes Dave Magadan (not in game) and Padres manager Bruce Bochy ejected by HP umpire Jerry Crawford in third"
-"PHI199909030",67,"Debut game for Travis Dawkins"
-"PHI199905310",49,"$Benard, runner on 1st, though ball would be caught and returned to base, but Mueller passed him there and was out"
-"PHI199906110",1,"Debut game for Randy Wolf"
-"PHI199907030",91,"Debut game for Steve Schrenk"
-"PHI199907232",1,"Debut game for Anthony Shumaker"
-"PHI199907240",45,"ej,cox-b103,M,froeb901,Balls and strikes $Braves manager Cox ejected by HP umpire Froemming for arguing balls and strikes while Gant at bat"
-"PHI199907240",59,"Debut game for Micah Bowie"
-"PHI199907260",58,"Debut game for Hector Almonte"
-"PHI199907290",32,"Debut game for Armando Almanza"
-"PHI199908210",54,"$Trenidad Hubbard called for interference"
-"PHI199908230",54,"ej,cottc101,C,cuzzp901,Balls and strikes $Phillies coach Cottier ejected by HP umpire for arguing balls and strikes"
-"PHI199908250",22,"ej,bochb002,M,crawj901,Balls and strikes ej,magad001,P,crawj901,Balls and strikes $Padres Magadan, not in game, and manager Bochy ejected by HP umpire Crawford for arguing balls and strikes"
-"PHI199909030",67,"Debut game for Travis Dawkins"
+"PHI199905310",49,"$Benard, runner on 1st, though ball would be caught and returned to base, but Mueller passed him there and was out"FILENAME_TX","LINE_NUMBER_CT"
+
+"PHI199906110",1,"Debut game for Randy Wolf"1999PHI.EVN.regular.comment.csv",2
+
+"PHI199907030",91,"Debut game for Steve Schrenk"1999PHI.EVN.regular.comment.csv",3
+
+"PHI199907232",1,"Debut game for Anthony Shumaker"1999PHI.EVN.regular.comment.csv",4
+
+"PHI199907240",45,"ej,cox-b103,M,froeb901,Balls and strikes $Braves manager Cox ejected by HP umpire Froemming for arguing balls and strikes while Gant at bat"1999PHI.EVN.regular.comment.csv",5
+
+"PHI199907240",59,"Debut game for Micah Bowie"1999PHI.EVN.regular.comment.csv",6
+
+"PHI199907260",58,"Debut game for Hector Almonte"1999PHI.EVN.regular.comment.csv",7
+
+"PHI199907290",32,"Debut game for Armando Almanza"1999PHI.EVN.regular.comment.csv",8
+
+"PHI199908210",54,"$Trenidad Hubbard called for interference"1999PHI.EVN.regular.comment.csv",9
+
+"PHI199908230",54,"ej,cottc101,C,cuzzp901,Balls and strikes $Phillies coach Cottier ejected by HP umpire for arguing balls and strikes"1999PHI.EVN.regular.comment.csv",10
+
+"PHI199908250",22,"ej,bochb002,M,crawj901,Balls and strikes ej,magad001,P,crawj901,Balls and strikes $Padres Magadan, not in game, and manager Bochy ejected by HP umpire Crawford for arguing balls and strikes"1999PHI.EVN.regular.comment.csv",11
+
+"PHI199909030",67,"Debut game for Travis Dawkins"1999PHI.EVN.regular.comment.csv",12
+

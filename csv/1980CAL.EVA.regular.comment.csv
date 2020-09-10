@@ -1,67 +1,66 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"CAL198004110",15,"Debut game for Joe Charboneau"
-"CAL198004110",67,"Debut game for Jerry Dybzinski"
-"CAL198004300",54,"ej,grosw001,P,neudj901,Call at 3B ej,martb105,M,neudj901,Call at 3B $Freddie Patek slid into 3B as the throw arrived; Wayne Gross yelled at 3B umpire Jerry Neudecker about the call on Patek and was ejected by Neudecker; Athletics Manager Billy Martin argued the play and was ejected by Neudecker"
-"CAL198005010",54,"appeal at 3B after John Montague entered; Knapp should get BFP, but our system won't permit one pitcher to get BFP and the other get 1/3 IP.  This answer gets IP credit correct and we live with the BFP error"
-"CAL198005010",55,"$Larry Cox out on appeal for missing 3B"
-"CAL198005060",68,"Debut game for Stan Cliburn"
-"CAL198005090",57,"$Kirk Gibson out rounding bag too far"
-"CAL198005110",63,"$Champ Summers called for interference with catcher"
-"CAL198005240",32,"$Clint Hurdle called for interference"
-"CAL198005240",72,"ej,freyj801,M,kaisk901,Interference non-call $Royals manager Frey ejected by 2B umpire Kaiser for arguing that interference should have been called at 2nd"
-"CAL198005240",81,"umpchange,10,umphome,coont901 umpchange,10,ump3b,kaisk901 umpchange,10,ump2b,(None) $9 minute delay as HP umpire Shulock left game with chest pains from foul ball earlier in game; Cooney went behind plate, Kaiser moved from 2B to 3B and game was finished with 3 umpires"
-"CAL198005250",16,"$Bert Campaneris called for interference"
-"CAL198005260",41,"ej,bellb001,P,hallb901,Charging mound $Bell ejected by HP umpire Haller for charging mound after flying out; previous pitch was up and in"
-"CAL198005260",58,"ej,babcb101,P,hallb901,Throwing behind batter after warning Bob Babcock ejected by HP umpire Bill Haller when his first pitch went behind Dan Ford's head"
-"CAL198005260",61,"ej,grubj001,P,hallb901,Fighting Bruce Kison after HBP ej,kisob001,P,hallb901,Fighting Johnny Grubb after HBP Johnny Grubb charged the mound; he and Bruce Kison ejected by HP umpire Bill Haller"
-"CAL198006080",0,"Protest=V"
-"CAL198006080",2,"$Larry Harlow dropped the ball; Rich Dauer out for abandoning 1B (headed to dugout); Orioles manager Earl Weaver protested game"
-"CAL198006080",57,"ej,lansc001,P,clara901,Call at 2B (Bumped umpire) Carney Lansford ejected by 2B umpire Al Clark for bumping him"
-"CAL198006110",87,"ej,browb001,P,spenf901,Called third strike Bobby Brown ejected by HP umpire Fred Spenn"
-"CAL198006120",67,"$Mike Torrez hurt his ankle on Fred Patek's hit"
-"CAL198006140",0,"ej,fregj101,M,barnl901,Arguing before game began Angels Manager Jim Fregosi ejected by 2B umpire Larry Barnett during pregame meeting"
-"CAL198006250",7,"$Dave Frost left with lower back muscle spasms"
-"CAL198006270",30,"ej,mclic101,C,pales901,Unknown reason Brewers Coach Cal McLish ejected by 1B umpire Steve Palermo"
-"CAL198006270",34,"$Intervening overthrow, so not a DP"
-"CAL198007120",9,"ej,fregj101,M,morrd901,Call at 2B $Angels manager Fregosi ejected by 2B umpire Morrison for arguing Baylor was safe at 2nd"
-"CAL198007150",42,"$Rod Carew scored during a rundown"
-"CAL198007180",25,"ej,mattb101,M,koscg901,Call at 2B Blue Jays Manager Bobby Mattick ejected by 2B umpire Greg Kosc"
-"CAL198007180",45,"$Ed Halicki left with sore right side"
-"CAL198007200",22,"Debut game for Dan Whitmer"
-"CAL198008050",54,"Bruce Bochte apparently injured on the play"
-"CAL198008250",48,"$Don Baylor caught the ball over the fence"
-"CAL198008260",56,"$Dave Stapleton's liner hit the 2B bag and caromed to Bobby Grich"
-"CAL198009300",8,"$Vic Harris out at 3B to end inning before John Poff scored from 1B"
-"CAL198004110",15,"Debut game for Joe Charboneau"
-"CAL198004110",67,"Debut game for Jerry Dybzinski"
-"CAL198004300",54,"ej,grosw001,P,neudj901,Call at 3B ej,martb105,M,neudj901,Call at 3B $Freddie Patek slid into 3B as the throw arrived; Wayne Gross yelled at 3B umpire Jerry Neudecker about the call on Patek and was ejected by Neudecker; Athletics Manager Billy Martin argued the play and was ejected by Neudecker"
-"CAL198005010",54,"appeal at 3B after John Montague entered; Knapp should get BFP, but our system won't permit one pitcher to get BFP and the other get 1/3 IP.  This answer gets IP credit correct and we live with the BFP error"
-"CAL198005010",55,"$Larry Cox out on appeal for missing 3B"
-"CAL198005060",68,"Debut game for Stan Cliburn"
-"CAL198005090",57,"$Kirk Gibson out rounding bag too far"
-"CAL198005110",63,"$Champ Summers called for interference with catcher"
-"CAL198005240",32,"$Clint Hurdle called for interference"
-"CAL198005240",72,"ej,freyj801,M,kaisk901,Interference non-call $Royals manager Frey ejected by 2B umpire Kaiser for arguing that interference should have been called at 2nd"
-"CAL198005240",81,"umpchange,10,umphome,coont901 umpchange,10,ump3b,kaisk901 umpchange,10,ump2b,(None) $9 minute delay as HP umpire Shulock left game with chest pains from foul ball earlier in game; Cooney went behind plate, Kaiser moved from 2B to 3B and game was finished with 3 umpires"
-"CAL198005250",16,"$Bert Campaneris called for interference"
-"CAL198005260",41,"ej,bellb001,P,hallb901,Charging mound $Bell ejected by HP umpire Haller for charging mound after flying out; previous pitch was up and in"
-"CAL198005260",58,"ej,babcb101,P,hallb901,Throwing behind batter after warning Bob Babcock ejected by HP umpire Bill Haller when his first pitch went behind Dan Ford's head"
-"CAL198005260",61,"ej,grubj001,P,hallb901,Fighting Bruce Kison after HBP ej,kisob001,P,hallb901,Fighting Johnny Grubb after HBP Johnny Grubb charged the mound; he and Bruce Kison ejected by HP umpire Bill Haller"
-"CAL198006080",0,"Protest=V"
-"CAL198006080",2,"$Larry Harlow dropped the ball; Rich Dauer out for abandoning 1B (headed to dugout); Orioles manager Earl Weaver protested game"
-"CAL198006080",57,"ej,lansc001,P,clara901,Call at 2B (Bumped umpire) Carney Lansford ejected by 2B umpire Al Clark for bumping him"
-"CAL198006110",87,"ej,browb001,P,spenf901,Called third strike Bobby Brown ejected by HP umpire Fred Spenn"
-"CAL198006120",67,"$Mike Torrez hurt his ankle on Fred Patek's hit"
-"CAL198006140",0,"ej,fregj101,M,barnl901,Arguing before game began Angels Manager Jim Fregosi ejected by 2B umpire Larry Barnett during pregame meeting"
-"CAL198006250",7,"$Dave Frost left with lower back muscle spasms"
-"CAL198006270",30,"ej,mclic101,C,pales901,Unknown reason Brewers Coach Cal McLish ejected by 1B umpire Steve Palermo"
-"CAL198006270",34,"$Intervening overthrow, so not a DP"
-"CAL198007120",9,"ej,fregj101,M,morrd901,Call at 2B $Angels manager Fregosi ejected by 2B umpire Morrison for arguing Baylor was safe at 2nd"
-"CAL198007150",42,"$Rod Carew scored during a rundown"
-"CAL198007180",25,"ej,mattb101,M,koscg901,Call at 2B Blue Jays Manager Bobby Mattick ejected by 2B umpire Greg Kosc"
-"CAL198007180",45,"$Ed Halicki left with sore right side"
-"CAL198007200",22,"Debut game for Dan Whitmer"
-"CAL198008050",54,"Bruce Bochte apparently injured on the play"
-"CAL198008250",48,"$Don Baylor caught the ball over the fence"
-"CAL198008260",56,"$Dave Stapleton's liner hit the 2B bag and caromed to Bobby Grich"
-"CAL198009300",8,"$Vic Harris out at 3B to end inning before John Poff scored from 1B"
+"CAL198004110",15,"Debut game for Joe Charboneau"FILENAME_TX","LINE_NUMBER_CT"
+
+"CAL198004110",67,"Debut game for Jerry Dybzinski"1980CAL.EVA.regular.comment.csv",2
+
+"CAL198004300",54,"ej,grosw001,P,neudj901,Call at 3B ej,martb105,M,neudj901,Call at 3B $Freddie Patek slid into 3B as the throw arrived; Wayne Gross yelled at 3B umpire Jerry Neudecker about the call on Patek and was ejected by Neudecker; Athletics Manager Billy Martin argued the play and was ejected by Neudecker"1980CAL.EVA.regular.comment.csv",3
+
+"CAL198005010",54,"appeal at 3B after John Montague entered; Knapp should get BFP, but our system won't permit one pitcher to get BFP and the other get 1/3 IP.  This answer gets IP credit correct and we live with the BFP error"1980CAL.EVA.regular.comment.csv",4
+
+"CAL198005010",55,"$Larry Cox out on appeal for missing 3B"1980CAL.EVA.regular.comment.csv",5
+
+"CAL198005060",68,"Debut game for Stan Cliburn"1980CAL.EVA.regular.comment.csv",6
+
+"CAL198005090",57,"$Kirk Gibson out rounding bag too far"1980CAL.EVA.regular.comment.csv",7
+
+"CAL198005110",63,"$Champ Summers called for interference with catcher"1980CAL.EVA.regular.comment.csv",8
+
+"CAL198005240",32,"$Clint Hurdle called for interference"1980CAL.EVA.regular.comment.csv",9
+
+"CAL198005240",72,"ej,freyj801,M,kaisk901,Interference non-call $Royals manager Frey ejected by 2B umpire Kaiser for arguing that interference should have been called at 2nd"1980CAL.EVA.regular.comment.csv",10
+
+"CAL198005240",81,"umpchange,10,umphome,coont901 umpchange,10,ump3b,kaisk901 umpchange,10,ump2b,(None) $9 minute delay as HP umpire Shulock left game with chest pains from foul ball earlier in game; Cooney went behind plate, Kaiser moved from 2B to 3B and game was finished with 3 umpires"1980CAL.EVA.regular.comment.csv",11
+
+"CAL198005250",16,"$Bert Campaneris called for interference"1980CAL.EVA.regular.comment.csv",12
+
+"CAL198005260",41,"ej,bellb001,P,hallb901,Charging mound $Bell ejected by HP umpire Haller for charging mound after flying out; previous pitch was up and in"1980CAL.EVA.regular.comment.csv",13
+
+"CAL198005260",58,"ej,babcb101,P,hallb901,Throwing behind batter after warning Bob Babcock ejected by HP umpire Bill Haller when his first pitch went behind Dan Ford's head"1980CAL.EVA.regular.comment.csv",14
+
+"CAL198005260",61,"ej,grubj001,P,hallb901,Fighting Bruce Kison after HBP ej,kisob001,P,hallb901,Fighting Johnny Grubb after HBP Johnny Grubb charged the mound; he and Bruce Kison ejected by HP umpire Bill Haller"1980CAL.EVA.regular.comment.csv",15
+
+"CAL198006080",0,"Protest=V"1980CAL.EVA.regular.comment.csv",16
+
+"CAL198006080",2,"$Larry Harlow dropped the ball; Rich Dauer out for abandoning 1B (headed to dugout); Orioles manager Earl Weaver protested game"1980CAL.EVA.regular.comment.csv",17
+
+"CAL198006080",57,"ej,lansc001,P,clara901,Call at 2B (Bumped umpire) Carney Lansford ejected by 2B umpire Al Clark for bumping him"1980CAL.EVA.regular.comment.csv",18
+
+"CAL198006110",87,"ej,browb001,P,spenf901,Called third strike Bobby Brown ejected by HP umpire Fred Spenn"1980CAL.EVA.regular.comment.csv",19
+
+"CAL198006120",67,"$Mike Torrez hurt his ankle on Fred Patek's hit"1980CAL.EVA.regular.comment.csv",20
+
+"CAL198006140",0,"ej,fregj101,M,barnl901,Arguing before game began Angels Manager Jim Fregosi ejected by 2B umpire Larry Barnett during pregame meeting"1980CAL.EVA.regular.comment.csv",21
+
+"CAL198006250",7,"$Dave Frost left with lower back muscle spasms"1980CAL.EVA.regular.comment.csv",22
+
+"CAL198006270",30,"ej,mclic101,C,pales901,Unknown reason Brewers Coach Cal McLish ejected by 1B umpire Steve Palermo"1980CAL.EVA.regular.comment.csv",23
+
+"CAL198006270",34,"$Intervening overthrow, so not a DP"1980CAL.EVA.regular.comment.csv",24
+
+"CAL198007120",9,"ej,fregj101,M,morrd901,Call at 2B $Angels manager Fregosi ejected by 2B umpire Morrison for arguing Baylor was safe at 2nd"1980CAL.EVA.regular.comment.csv",25
+
+"CAL198007150",42,"$Rod Carew scored during a rundown"1980CAL.EVA.regular.comment.csv",26
+
+"CAL198007180",25,"ej,mattb101,M,koscg901,Call at 2B Blue Jays Manager Bobby Mattick ejected by 2B umpire Greg Kosc"1980CAL.EVA.regular.comment.csv",27
+
+"CAL198007180",45,"$Ed Halicki left with sore right side"1980CAL.EVA.regular.comment.csv",28
+
+"CAL198007200",22,"Debut game for Dan Whitmer"1980CAL.EVA.regular.comment.csv",29
+
+"CAL198008050",54,"Bruce Bochte apparently injured on the play"1980CAL.EVA.regular.comment.csv",30
+
+"CAL198008250",48,"$Don Baylor caught the ball over the fence"1980CAL.EVA.regular.comment.csv",31
+
+"CAL198008260",56,"$Dave Stapleton's liner hit the 2B bag and caromed to Bobby Grich"1980CAL.EVA.regular.comment.csv",32
+
+"CAL198009300",8,"$Vic Harris out at 3B to end inning before John Poff scored from 1B"1980CAL.EVA.regular.comment.csv",33
+

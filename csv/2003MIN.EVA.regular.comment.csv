@@ -1,66 +1,64 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"MIN200304050",91,"ej,hinse001,P,marsr901,Check swing (Slammed bat on plate) Blue Jays Eric Hinske ejected by HP umpire Randy Marsh"
-"MIN200304200",20,"ej,gardr001,M,brinj901,Balls and strikes Twins Manager Ron Gardenhire ejected by HP umpire Joe Brinkman"
-"MIN200304300",6,"ej,gardr001,M,davig901,Interference call $Cristian Guzman called for interference when he was hit by the throw while running inside the line; Twins Manager Ron Gardenhire ejected by HP umpire Gerry Davis"
-"MIN200304300",54,"ej,radkb001,P,davig901,Intentional HBP Twins Brad Radke ejected by HP umpire Gerry Davis"
-"MIN200304300",57,"ej,biern001,P,davig901,Throwing at batter Devil Rays Nick Bierbrodt ejected by HP umpire Gerry Davis for throwing behind batter"
-"MIN200304300",60,"ej,ullgs101,C,davig901, ej,pinil001,M,davig901, Devil Rays Manager Lou Piniella and coach Scott Ullger ejected by HP umpire Gerry Davis"
-"MIN200305010",65,"Twins Matthew LeCroy left the game due to an injured arm"
-"MIN200305100",49,"Twins Bobby Kielty left the game due to an injured chest"
-"MIN200305140",28,"Twins Matthew LeCroy left the game due to an injured head pitch bounced off helmet, then broke nose"
-"MIN200305150",54,"$Angel Berroa called for interference"
-"MIN200305160",72,"White Sox Willie Harris left with an injured neck/shoulder"
-"MIN200305290",66,"Debut game for Lew Ford"
-"MIN200306100",16,"Debut game for Justin Morneau"
-"MIN200306140",15,"Diamondbacks Danny Bautista left the game due to an injured leg"
-"MIN200306140",53,"Diamondbacks Junior Spivey left with injured foot/ankle"
-"MIN200306150",62,"Diamondbacks Eddie Oropesa left the game due to an injured leg"
-"MIN200306150",76,"Debut game for Matt Kata"
-"MIN200306290",24,"ej,gardr001,M,guccc901,Balls and strikes Twins Manager Ron Gardenhire ejected by HP umpire Chris Guccione"
-"MIN200307030",17,"umpchange,3,umphome,coope901 umpchange,3,ump1b,hollm901 umpchange,3,ump2b,hohnb901 $HP umpire Bill Hohn was struck on the mask by a foul ball in the second inning; he moved to 2B after the inning, Eric Cooper moved from 1B to HP and Matt Hollowell moved from 2B to 1B"
-"MIN200307030",43,"both teams warned by HP umpire Eric Cooper"
-"MIN200307030",56,"ej,rogek001,P,coope901,Intentional HBP ej,gardr001,M,coope901,Intentional HBP Kenny Rogers and Manager Ron Gardenhire ejected by HP umpire Eric Cooper"
-"MIN200307040",0,"$both teams warned before the game about throwing at batters"
-"MIN200307040",26,"ej,davij005,P,hollm901,Fighting with Torii Hunter ej,huntt001,P,hollm901,Fighting with Jason Davis ej,wedge001,M,hollm901,Aftermath of brawl ej,gardr001,M,hohnb901,Aftermath of brawl ej,sabac001,P,hollm901,Screaming a profanity $Jason Davis threw a pitch inside to Torii Hunter, who yelled at the pitcher; Davis yelled at Hunter to get back in the batter's box; both benches and bullpens emptied; no punches were thrown but Hunter was restrained by coaches Steve Liddle and Al Newman; Hunter and Davis were ejected by HP umpire Matt Hollowell; both managers, Twins Ron Gardenhire and Indians Eric Wedge, were ejected by 1B umpire and acting crew chief Bill Hohn because both teams had been warned; Indians pitcher C.C. Sabathia ejected by Hohn for screaming profanities"
-"MIN200307060",1,"Debut game for Jason Stanford"
-"MIN200307190",67,"Twins Denny Hocking left the game due to an injured neck/shoulder"
-"MIN200307210",47,"Mariners Edgar Martinez left the game due to an injured leg"
-"MIN200308120",27,"first run scored on FC throw to first and second on E3"
-"MIN200308140",61,"First cycle for an Indian since Thornton in 1978 First ML triple for Hafner"
-"MIN200308230",36,"Diving catch for out, Randa came down on bag, tagged with glove to complete DP"
-"MIN200309010",14,"ej,huntt001,P,cuzzp901,Balls and strikes Torii Hunter ejected by HP umpire Phil Cuzzi"
-"MIN200309010",72,"Debut game for Rob Bowen"
-"MIN200309030",80,"Mohr out by huge margin, but broke wrist and dropped ball.  He was hurt too badly to chase ball and batter scored as well"
-"MIN200309050",17,"changed from E4 to single on 09-10"
-"MIN200304050",91,"ej,hinse001,P,marsr901,Check swing (Slammed bat on plate) Blue Jays Eric Hinske ejected by HP umpire Randy Marsh"
-"MIN200304200",20,"ej,gardr001,M,brinj901,Balls and strikes Twins Manager Ron Gardenhire ejected by HP umpire Joe Brinkman"
-"MIN200304300",6,"ej,gardr001,M,davig901,Interference call $Twins manager Gardenhire ejected by HP umpire Davis for arguing call that Guzman had interfered when he was hit by the throw while running inside the line"
-"MIN200304300",54,"ej,radkb001,P,davig901,Intentional HBP ej,ullgs101,C,davig901,Intentional HBP $Pitcher Radke and Twins acting manager Ullger ejected by HP umpire Davis after intentional HBP; Ullger replaced Gardenhire who was ejected earlier"
-"MIN200304300",57,"ej,biern001,P,davig901,Throwing at batter ej,pinil001,M,davig901,Throwing at batter $Pitcher Bierbrodt and Devil Rays manager Piniella ejected by HP umpire Davis for throwing behind batter"
-"MIN200305010",65,"Twins Matthew LeCroy left the game due to an injured arm"
-"MIN200305100",49,"Twins Bobby Kielty left the game due to an injured chest"
-"MIN200305140",28,"Twins Matthew LeCroy left the game due to an injured head pitch bounced off helmet, then broke nose"
-"MIN200305150",54,"$Angel Berroa called for interference"
-"MIN200305160",72,"White Sox Willie Harris left with an injured neck/shoulder"
-"MIN200305290",66,"Debut game for Lew Ford"
-"MIN200306100",16,"Debut game for Justin Morneau"
-"MIN200306140",15,"Diamondbacks Danny Bautista left the game due to an injured leg"
-"MIN200306140",53,"Diamondbacks Junior Spivey left with injured foot/ankle"
-"MIN200306150",62,"Diamondbacks Eddie Oropesa left the game due to an injured leg"
-"MIN200306150",76,"Debut game for Matt Kata"
-"MIN200306290",24,"ej,gardr001,M,guccc901,Balls and strikes Twins Manager Ron Gardenhire ejected by HP umpire Chris Guccione"
-"MIN200307030",17,"umpchange,3,umphome,coope901 umpchange,3,ump1b,hollm901 umpchange,3,ump2b,hohnb901 $HP umpire Bill Hohn was struck on the mask by a foul ball in the second inning; he moved to 2B after the inning, Eric Cooper moved from 1B to HP and Matt Hollowell moved from 2B to 1B"
-"MIN200307030",43,"both teams warned by HP umpire Eric Cooper"
-"MIN200307030",56,"ej,rogek001,P,coope901,Intentional HBP ej,gardr001,M,coope901,Intentional HBP Kenny Rogers and Manager Ron Gardenhire ejected by HP umpire Eric Cooper"
-"MIN200307040",0,"$both teams warned before the game about throwing at batters"
-"MIN200307040",26,"ej,davij005,P,hollm901,Fighting with Torii Hunter ej,huntt001,P,hollm901,Fighting with Jason Davis ej,wedge001,M,hollm901,Aftermath of brawl ej,gardr001,M,hohnb901,Aftermath of brawl ej,sabac001,P,hollm901,Screaming a profanity $Jason Davis threw a pitch inside to Torii Hunter, who yelled at the pitcher; Davis yelled at Hunter to get back in the batter's box; both benches and bullpens emptied; no punches were thrown but Hunter was restrained by coaches Steve Liddle and Al Newman; Hunter and Davis were ejected by HP umpire Matt Hollowell; both managers, Twins Ron Gardenhire and Indians Eric Wedge, were ejected by 1B umpire and acting crew chief Bill Hohn because both teams had been warned; Indians pitcher C.C. Sabathia ejected by Hohn for screaming profanities"
-"MIN200307060",1,"Debut game for Jason Stanford"
-"MIN200307190",67,"Twins Denny Hocking left the game due to an injured neck/shoulder"
-"MIN200307210",47,"Mariners Edgar Martinez left the game due to an injured leg"
-"MIN200308120",27,"first run scored on FC throw to first and second on E3"
-"MIN200308140",61,"First cycle for an Indian since Thornton in 1978 First ML triple for Hafner"
-"MIN200308230",36,"Diving catch for out, Randa came down on bag, tagged with glove to complete DP"
-"MIN200309010",14,"ej,huntt001,P,cuzzp901,Balls and strikes Torii Hunter ejected by HP umpire Phil Cuzzi"
-"MIN200309010",72,"Debut game for Rob Bowen"
-"MIN200309030",80,"Mohr out by huge margin, but broke wrist and dropped ball.  He was hurt too badly to chase ball and batter scored as well"
-"MIN200309050",17,"changed from E4 to single on 09-10"
+"MIN200304050",91,"ej,hinse001,P,marsr901,Check swing (Slammed bat on plate) Blue Jays Eric Hinske ejected by HP umpire Randy Marsh"FILENAME_TX","LINE_NUMBER_CT"
+
+"MIN200304200",20,"ej,gardr001,M,brinj901,Balls and strikes Twins Manager Ron Gardenhire ejected by HP umpire Joe Brinkman"2003MIN.EVA.regular.comment.csv",2
+
+"MIN200304300",6,"ej,gardr001,M,davig901,Interference call $Twins manager Gardenhire ejected by HP umpire Davis for arguing call that Guzman had interfered when he was hit by the throw while running inside the line"2003MIN.EVA.regular.comment.csv",3
+
+"MIN200304300",54,"ej,radkb001,P,davig901,Intentional HBP ej,ullgs101,C,davig901,Intentional HBP $Pitcher Radke and Twins acting manager Ullger ejected by HP umpire Davis after intentional HBP; Ullger replaced Gardenhire who was ejected earlier"2003MIN.EVA.regular.comment.csv",4
+
+"MIN200304300",57,"ej,biern001,P,davig901,Throwing at batter ej,pinil001,M,davig901,Throwing at batter $Pitcher Bierbrodt and Devil Rays manager Piniella ejected by HP umpire Davis for throwing behind batter"2003MIN.EVA.regular.comment.csv",5
+
+"MIN200305010",65,"Twins Matthew LeCroy left the game due to an injured arm"2003MIN.EVA.regular.comment.csv",6
+
+"MIN200305100",49,"Twins Bobby Kielty left the game due to an injured chest"2003MIN.EVA.regular.comment.csv",7
+
+"MIN200305140",28,"Twins Matthew LeCroy left the game due to an injured head pitch bounced off helmet, then broke nose"2003MIN.EVA.regular.comment.csv",8
+
+"MIN200305150",54,"$Angel Berroa called for interference"2003MIN.EVA.regular.comment.csv",9
+
+"MIN200305160",72,"White Sox Willie Harris left with an injured neck/shoulder"2003MIN.EVA.regular.comment.csv",10
+
+"MIN200305290",66,"Debut game for Lew Ford"2003MIN.EVA.regular.comment.csv",11
+
+"MIN200306100",16,"Debut game for Justin Morneau"2003MIN.EVA.regular.comment.csv",12
+
+"MIN200306140",15,"Diamondbacks Danny Bautista left the game due to an injured leg"2003MIN.EVA.regular.comment.csv",13
+
+"MIN200306140",53,"Diamondbacks Junior Spivey left with injured foot/ankle"2003MIN.EVA.regular.comment.csv",14
+
+"MIN200306150",62,"Diamondbacks Eddie Oropesa left the game due to an injured leg"2003MIN.EVA.regular.comment.csv",15
+
+"MIN200306150",76,"Debut game for Matt Kata"2003MIN.EVA.regular.comment.csv",16
+
+"MIN200306290",24,"ej,gardr001,M,guccc901,Balls and strikes Twins Manager Ron Gardenhire ejected by HP umpire Chris Guccione"2003MIN.EVA.regular.comment.csv",17
+
+"MIN200307030",17,"umpchange,3,umphome,coope901 umpchange,3,ump1b,hollm901 umpchange,3,ump2b,hohnb901 $HP umpire Bill Hohn was struck on the mask by a foul ball in the second inning; he moved to 2B after the inning, Eric Cooper moved from 1B to HP and Matt Hollowell moved from 2B to 1B"2003MIN.EVA.regular.comment.csv",18
+
+"MIN200307030",43,"both teams warned by HP umpire Eric Cooper"2003MIN.EVA.regular.comment.csv",19
+
+"MIN200307030",56,"ej,rogek001,P,coope901,Intentional HBP ej,gardr001,M,coope901,Intentional HBP Kenny Rogers and Manager Ron Gardenhire ejected by HP umpire Eric Cooper"2003MIN.EVA.regular.comment.csv",20
+
+"MIN200307040",0,"$both teams warned before the game about throwing at batters"2003MIN.EVA.regular.comment.csv",21
+
+"MIN200307040",26,"ej,davij005,P,hollm901,Fighting with Torii Hunter ej,huntt001,P,hollm901,Fighting with Jason Davis ej,wedge001,M,hollm901,Aftermath of brawl ej,gardr001,M,hohnb901,Aftermath of brawl ej,sabac001,P,hollm901,Screaming a profanity $Jason Davis threw a pitch inside to Torii Hunter, who yelled at the pitcher; Davis yelled at Hunter to get back in the batter's box; both benches and bullpens emptied; no punches were thrown but Hunter was restrained by coaches Steve Liddle and Al Newman; Hunter and Davis were ejected by HP umpire Matt Hollowell; both managers, Twins Ron Gardenhire and Indians Eric Wedge, were ejected by 1B umpire and acting crew chief Bill Hohn because both teams had been warned; Indians pitcher C.C. Sabathia ejected by Hohn for screaming profanities"2003MIN.EVA.regular.comment.csv",22
+
+"MIN200307060",1,"Debut game for Jason Stanford"2003MIN.EVA.regular.comment.csv",23
+
+"MIN200307190",67,"Twins Denny Hocking left the game due to an injured neck/shoulder"2003MIN.EVA.regular.comment.csv",24
+
+"MIN200307210",47,"Mariners Edgar Martinez left the game due to an injured leg"2003MIN.EVA.regular.comment.csv",25
+
+"MIN200308120",27,"first run scored on FC throw to first and second on E3"2003MIN.EVA.regular.comment.csv",26
+
+"MIN200308140",61,"First cycle for an Indian since Thornton in 1978 First ML triple for Hafner"2003MIN.EVA.regular.comment.csv",27
+
+"MIN200308230",36,"Diving catch for out, Randa came down on bag, tagged with glove to complete DP"2003MIN.EVA.regular.comment.csv",28
+
+"MIN200309010",14,"ej,huntt001,P,cuzzp901,Balls and strikes Torii Hunter ejected by HP umpire Phil Cuzzi"2003MIN.EVA.regular.comment.csv",29
+
+"MIN200309010",72,"Debut game for Rob Bowen"2003MIN.EVA.regular.comment.csv",30
+
+"MIN200309030",80,"Mohr out by huge margin, but broke wrist and dropped ball.  He was hurt too badly to chase ball and batter scored as well"2003MIN.EVA.regular.comment.csv",31
+
+"MIN200309050",17,"changed from E4 to single on 09-10"2003MIN.EVA.regular.comment.csv",32
+

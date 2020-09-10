@@ -1,9 +1,8 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"HOU198010100",50,"$Cesar Cedeno left with fractured right ankle"
-"HOU198010110",27,"$this protested by both sides; the Astros claimed triple play"
-"HOU198010110",32,"$Gary Woods attempted to go to 3B when Lonnie Smith bobbled the ball"
-"HOU198010110",52,"$Gary Woods out on appeal for leaving 3B too soon"
-"HOU198010100",50,"$Cesar Cedeno left with fractured right ankle"
-"HOU198010110",27,"$this protested by both sides; the Astros claimed triple play"
-"HOU198010110",32,"$Gary Woods attempted to go to 3B when Lonnie Smith bobbled the ball"
-"HOU198010110",52,"$Gary Woods out on appeal for leaving 3B too soon"
+"HOU198010100",50,"$Cesar Cedeno left with fractured right ankle"FILENAME_TX","LINE_NUMBER_CT"
+
+"HOU198010110",27,"$this protested by both sides; the Astros claimed triple play"1980NLCS.EVE.post.comment.csv",2
+
+"HOU198010110",32,"$Gary Woods attempted to go to 3B when Lonnie Smith bobbled the ball"1980NLCS.EVE.post.comment.csv",3
+
+"HOU198010110",52,"$Gary Woods out on appeal for leaving 3B too soon"1980NLCS.EVE.post.comment.csv",4
+

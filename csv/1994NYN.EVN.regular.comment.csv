@@ -1,21 +1,20 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"NYN199405140",44,"ej,smolj001,P,tatat901,Intentional HBP ej,cangj001,P,tatat901,Charging the mound $John Cangelosi charged the mound and both benches emptied; Cangelosi and John Smoltz ejected by HP umpire Terry Tata; Cangelosi suspended four games and Smoltz eight games"
-"NYN199405160",72,"Debut game for Greg O'Halloran"
-"NYN199406090",0,"ej,pavlg801,C,wintm901,Balls and strikes Mets coach Greg Pavlick ejected by HP umpire Mike Winters sometime in game"
-"NYN199406100",0,"ej,mccrt102,C,wintm901,Balls and strikes (from bench) Mets coach Tom McCraw ejected by 3B umpire Mike Winters sometime in game"
-"NYN199406100",50,"ej,hundt001,P,kellj901,Balls and strikes (while catching) Mets catcher Todd Hundley ejected by HP umpire Jeff Kellogg for arguing balls and strikes while catching"
-"NYN199406280",72,"ej,smito001,P,grege901,Call at 1B Ozzie Smith ejected by 1B umpire Eric Gregg"
-"NYN199407151",11,"Debut game for Ray McDavid"
-"NYN199407170",77,"Debut game for Bryce Florie"
-"NYN199407200",0,"ej,lasot101,M,hallt901,Call at 2B (Force play) Dodgers manager Tommy Lasorda ejected by 2B umpire Tom Hallion sometime in game"
-"NYN199407230",49,"ej,bonib001,P,poncl901,Fair/foul call Bobby Bonilla ejected by 3B umpire Larry Poncino arguing that the double was foul"
-"NYN199405140",44,"ej,smolj001,P,tatat901,Intentional HBP ej,cangj001,P,tatat901,Charging the mound $John Cangelosi charged the mound and both benches emptied; Cangelosi and John Smoltz ejected by HP umpire Terry Tata; Cangelosi suspended four games and Smoltz eight games"
-"NYN199405160",72,"Debut game for Greg O'Halloran"
-"NYN199406090",39,"ej,pavlg801,C,wintm901,Balls and strikes $Mets coach Pavlick ejected by HP umpire Winters for arguing balls and strikes after mound visit"
-"NYN199406100",50,"ej,hundt001,P,kellj901,Balls and strikes (while catching) Mets catcher Todd Hundley ejected by HP umpire Jeff Kellogg for arguing balls and strikes while catching"
-"NYN199406100",69,"ej,mccrt102,C,wintm901,Check swing $Mets coach McCraw ejected by 3B umpire Winters for arguing check swing strike on Orsulak from bench"
-"NYN199406280",72,"ej,smito001,P,grege901,Call at 1B Ozzie Smith ejected by 1B umpire Eric Gregg"
-"NYN199407151",11,"Debut game for Ray McDavid"
-"NYN199407170",77,"Debut game for Bryce Florie"
-"NYN199407200",78,"ej,lasot101,M,hallt901,Call at 3B $Dodgers manager Lasorda ejected by 2B umpire Hallion for arguing Butler was safe at 3rd"
-"NYN199407230",49,"ej,bonib001,P,poncl901,Fair/foul call Bobby Bonilla ejected by 3B umpire Larry Poncino arguing that the double was foul"
+"NYN199405140",44,"ej,smolj001,P,tatat901,Intentional HBP ej,cangj001,P,tatat901,Charging the mound $John Cangelosi charged the mound and both benches emptied; Cangelosi and John Smoltz ejected by HP umpire Terry Tata; Cangelosi suspended four games and Smoltz eight games"FILENAME_TX","LINE_NUMBER_CT"
+
+"NYN199405160",72,"Debut game for Greg O'Halloran"1994NYN.EVN.regular.comment.csv",2
+
+"NYN199406090",39,"ej,pavlg801,C,wintm901,Balls and strikes $Mets coach Pavlick ejected by HP umpire Winters for arguing balls and strikes after mound visit"1994NYN.EVN.regular.comment.csv",3
+
+"NYN199406100",50,"ej,hundt001,P,kellj901,Balls and strikes (while catching) Mets catcher Todd Hundley ejected by HP umpire Jeff Kellogg for arguing balls and strikes while catching"1994NYN.EVN.regular.comment.csv",4
+
+"NYN199406100",69,"ej,mccrt102,C,wintm901,Check swing $Mets coach McCraw ejected by 3B umpire Winters for arguing check swing strike on Orsulak from bench"1994NYN.EVN.regular.comment.csv",5
+
+"NYN199406280",72,"ej,smito001,P,grege901,Call at 1B Ozzie Smith ejected by 1B umpire Eric Gregg"1994NYN.EVN.regular.comment.csv",6
+
+"NYN199407151",11,"Debut game for Ray McDavid"1994NYN.EVN.regular.comment.csv",7
+
+"NYN199407170",77,"Debut game for Bryce Florie"1994NYN.EVN.regular.comment.csv",8
+
+"NYN199407200",78,"ej,lasot101,M,hallt901,Call at 3B $Dodgers manager Lasorda ejected by 2B umpire Hallion for arguing Butler was safe at 3rd"1994NYN.EVN.regular.comment.csv",9
+
+"NYN199407230",49,"ej,bonib001,P,poncl901,Fair/foul call Bobby Bonilla ejected by 3B umpire Larry Poncino arguing that the double was foul"1994NYN.EVN.regular.comment.csv",10
+

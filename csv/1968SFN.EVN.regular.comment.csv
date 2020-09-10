@@ -1,11 +1,10 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"SFN196804110",109,"Debut game for Carl Taylor"
-"SFN196806060",19,"$2B Ron Hunt retrieved the ball but Willie McCovey wasn't looking when Hunt threw it"
-"SFN196806250",17,"Debut game for Bobby Bonds"
-"SFN196808111",42,"$Tom Seaver called for interference for running into his own bunt"
-"SFN196809190",65,"Debut game for Joe Hague"
-"SFN196804110",109,"Debut game for Carl Taylor"
-"SFN196806060",19,"$2B Ron Hunt retrieved the ball but Willie McCovey wasn't looking when Hunt threw it"
-"SFN196806250",17,"Debut game for Bobby Bonds"
-"SFN196808111",42,"$Tom Seaver called for interference for running into his own bunt"
-"SFN196809190",65,"Debut game for Joe Hague"
+"SFN196804110",109,"Debut game for Carl Taylor"FILENAME_TX","LINE_NUMBER_CT"
+
+"SFN196806060",19,"$2B Ron Hunt retrieved the ball but Willie McCovey wasn't looking when Hunt threw it"1968SFN.EVN.regular.comment.csv",2
+
+"SFN196806250",17,"Debut game for Bobby Bonds"1968SFN.EVN.regular.comment.csv",3
+
+"SFN196808111",42,"$Tom Seaver called for interference for running into his own bunt"1968SFN.EVN.regular.comment.csv",4
+
+"SFN196809190",65,"Debut game for Joe Hague"1968SFN.EVN.regular.comment.csv",5
+

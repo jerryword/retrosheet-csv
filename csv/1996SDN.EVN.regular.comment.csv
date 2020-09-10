@@ -1,25 +1,24 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"SDN199604100",58,"Debut game for Joel Adamson"
-"SDN199606030",27,"ej,lankr001,P,laynj901,Balls and strikes (from bench) Ray Lankford ejected by HP umpire Jerry Layne"
-"SDN199606080",0,"ej,bochb002,M,wintm901,Fair/foul call ej,loped001,C,wintm901,Fair/foul call Padres manager Bruce Bochy and coach Davey Lopes ejected by 1B umpire Mike Winters sometime in first inning"
-"SDN199606090",16,"Debut game for Jason Thompson"
-"SDN199606090",70,"ej,ausmb001,P,wintm901,Called third strike (Bumped umpire) Brad Ausmus ejected by HP umpire Mike Winters"
-"SDN199606110",48,"ej,bochb002,M,hallt901,Fair/foul call Padres manager Bruce Bochy ejected by 3B umpire Tom Hallion"
-"SDN199606230",69,"ej,riggj801,M,bonig901,Balls and strikes Cubs manager Jim Riggleman ejected by HP umpire Greg Bonin"
-"SDN199607070",60,"ej,baked002,M,kellj901,Call at HP Giants manager Dusty Baker ejected by HP umpire Jeff Kellogg"
-"SDN199607310",52,"ej,camik001,P,pullf901,Called third strike Ken Caminiti ejected by HP umpire Frank Pulli"
-"SDN199607310",53,"Debut game for Dario Veras"
-"SDN199608230",17,"ej,vukoj101,C,laynj901,Balls and strikes Phillies coach John Vukovich ejected by HP umpire Jerry Layne sometime in third inning"
-"SDN199608230",69,"ej,flahj001,P,laynj901,Balls and strikes (while catching) John Flaherty ejected by HP umpire Jerry Layne"
-"SDN199604100",58,"Debut game for Joel Adamson"
-"SDN199606030",27,"ej,lankr001,P,laynj901,Balls and strikes (from bench) Ray Lankford ejected by HP umpire Jerry Layne"
-"SDN199606080",12,"ej,bochb002,M,wintm901,Fair/foul call ej,loped001,C,wintm901,Fair/foul call $Padres manager Bochy and 1B coach Lopes ejected by umpire Winters for arguing that ball hit by Cianfrocco was fair for home run"
-"SDN199606090",16,"Debut game for Jason Thompson"
-"SDN199606090",70,"ej,ausmb001,P,wintm901,Called third strike (Bumped umpire) Brad Ausmus ejected by HP umpire Mike Winters"
-"SDN199606110",48,"ej,bochb002,M,hallt901,Fair/foul call Padres manager Bruce Bochy ejected by 3B umpire Tom Hallion"
-"SDN199606230",69,"ej,riggj801,M,bonig901,Balls and strikes Cubs manager Jim Riggleman ejected by HP umpire Greg Bonin"
-"SDN199607070",60,"ej,baked002,M,kellj901,Call at HP Giants manager Dusty Baker ejected by HP umpire Jeff Kellogg"
-"SDN199607310",52,"ej,camik001,P,pullf901,Called third strike Ken Caminiti ejected by HP umpire Frank Pulli"
-"SDN199607310",53,"Debut game for Dario Veras"
-"SDN199608230",17,"ej,vukoj101,C,laynj901,Balls and strikes $Phillies coach Vukovich ejected by HP umpire Layne for arguing balls and strikes at end of home 2nd"
-"SDN199608230",69,"ej,flahj001,P,laynj901,Balls and strikes (while catching) John Flaherty ejected by HP umpire Jerry Layne"
+"SDN199604100",58,"Debut game for Joel Adamson"FILENAME_TX","LINE_NUMBER_CT"
+
+"SDN199606030",27,"ej,lankr001,P,laynj901,Balls and strikes (from bench) Ray Lankford ejected by HP umpire Jerry Layne"1996SDN.EVN.regular.comment.csv",2
+
+"SDN199606080",12,"ej,bochb002,M,wintm901,Fair/foul call ej,loped001,C,wintm901,Fair/foul call $Padres manager Bochy and 1B coach Lopes ejected by umpire Winters for arguing that ball hit by Cianfrocco was fair for home run"1996SDN.EVN.regular.comment.csv",3
+
+"SDN199606090",16,"Debut game for Jason Thompson"1996SDN.EVN.regular.comment.csv",4
+
+"SDN199606090",70,"ej,ausmb001,P,wintm901,Called third strike (Bumped umpire) Brad Ausmus ejected by HP umpire Mike Winters"1996SDN.EVN.regular.comment.csv",5
+
+"SDN199606110",48,"ej,bochb002,M,hallt901,Fair/foul call Padres manager Bruce Bochy ejected by 3B umpire Tom Hallion"1996SDN.EVN.regular.comment.csv",6
+
+"SDN199606230",69,"ej,riggj801,M,bonig901,Balls and strikes Cubs manager Jim Riggleman ejected by HP umpire Greg Bonin"1996SDN.EVN.regular.comment.csv",7
+
+"SDN199607070",60,"ej,baked002,M,kellj901,Call at HP Giants manager Dusty Baker ejected by HP umpire Jeff Kellogg"1996SDN.EVN.regular.comment.csv",8
+
+"SDN199607310",52,"ej,camik001,P,pullf901,Called third strike Ken Caminiti ejected by HP umpire Frank Pulli"1996SDN.EVN.regular.comment.csv",9
+
+"SDN199607310",53,"Debut game for Dario Veras"1996SDN.EVN.regular.comment.csv",10
+
+"SDN199608230",17,"ej,vukoj101,C,laynj901,Balls and strikes $Phillies coach Vukovich ejected by HP umpire Layne for arguing balls and strikes at end of home 2nd"1996SDN.EVN.regular.comment.csv",11
+
+"SDN199608230",69,"ej,flahj001,P,laynj901,Balls and strikes (while catching) John Flaherty ejected by HP umpire Jerry Layne"1996SDN.EVN.regular.comment.csv",12
+

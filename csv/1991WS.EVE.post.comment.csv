@@ -1,13 +1,12 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"MIN199110200",21,"$Ron Gant rounded 1B too far"
-"ATL199110230",33,"$missed ball on squeeze attempt"
-"ATL199110230",46,"$the pitch bounced away from the catcher"
-"MIN199110260",77,"$Greg Gagne tagged Terry Pendleton past 2B bag on hit and run"
-"MIN199110270",56,"$Chuck Knoblauch tricked Lonnie Smith preventing Smith from scoring"
-"MIN199110270",69,"$Mike Stanton left injured"
-"MIN199110200",21,"$Ron Gant rounded 1B too far"
-"ATL199110230",33,"$missed ball on squeeze attempt"
-"ATL199110230",46,"$the pitch bounced away from the catcher"
-"MIN199110260",77,"$Greg Gagne tagged Terry Pendleton past 2B bag on hit and run"
-"MIN199110270",56,"$Chuck Knoblauch tricked Lonnie Smith preventing Smith from scoring"
-"MIN199110270",69,"$Mike Stanton left injured"
+"MIN199110200",21,"$Ron Gant rounded 1B too far"FILENAME_TX","LINE_NUMBER_CT"
+
+"ATL199110230",33,"$missed ball on squeeze attempt"1991WS.EVE.post.comment.csv",2
+
+"ATL199110230",46,"$the pitch bounced away from the catcher"1991WS.EVE.post.comment.csv",3
+
+"MIN199110260",77,"$Greg Gagne tagged Terry Pendleton past 2B bag on hit and run"1991WS.EVE.post.comment.csv",4
+
+"MIN199110270",56,"$Chuck Knoblauch tricked Lonnie Smith preventing Smith from scoring"1991WS.EVE.post.comment.csv",5
+
+"MIN199110270",69,"$Mike Stanton left injured"1991WS.EVE.post.comment.csv",6
+

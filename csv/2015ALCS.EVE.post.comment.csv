@@ -1,27 +1,26 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"KCA201510160",58,"Blue Jays designated hitter Edwin Encarnacion left the game due to a ligament sprain in his left middle finger"
-"KCA201510170",5,"replay,1,zobrb001,KCA,hirsj901,KAN06,,Y,M,KCA,C $when Ben Zobrist was called out at 1B, Royals manager Ned Yost challenged the ruling; the call was overturned by replay"
-"KCA201510170",50,"$the ball fell between Ryan Goins and Jose Bautista after a miscommunication"
-"TOR201510190",70,"ej,tulot001,P,hirsj901,Called third strike Blue Jays shortstop Troy Tulowitzki ejected by HP umpire John Hirschbeck between innings complaining about the called third strike"
-"TOR201510200",6,"replay,1,morak001,KCA,hirsj901,TOR02,,N,M,TOR,A $when Lorenzo Cain was called safe at HP, Blue Jays manager John Gibbons challenged the ruling; the call was upheld by replay"
-"TOR201510200",17,"replay,2,escoa003,KCA,hirsj901,TOR02,,Y,M,KCA,I $when Alcides Escobar was ruled not to have been hit by a pitch, Royals manager Ned Yost challenged the ruling; the call was overturned by replay"
-"TOR201510200",36,"replay,4,escoa003,KCA,hirsj901,TOR02,,Y,M,TOR,A $when Alex Rios was called safe at 2B, Blue Jays manager John Gibbons challenged the ruling; the call was overturned by replay"
-"TOR201510200",82,"$infielder Cliff Pennington becomes the first non-pitcher to pitch in post-season"
-"TOR201510210",63,"replay,8,pillk001,TOR,hirsj901,TOR02,,N,M,KCA,M replay,8,pillk001,TOR,hirsj901,TOR02,,N,M,TOR,A $when Kevin Pillar was called out at 3B, Royals manager Ned Yost challenged the ruling that Troy Tulowitzki scored on the play; the call was upheld by replay; Blue Jays manager John Gibbons challenged the call at 3B on Pillar; that call was also upheld by replay"
-"KCA201510230",0,"$Alcides Escobar named Series MVP"
-"KCA201510230",13,"replay,2,mousm001,KCA,hirsj901,KAN06,I,N,U,,H $Mike Moustakas' fly to RF was caught by a fan who reached over the metal railing; the ball was ruled a home run but crew chief John Hirshbeck requested a review; the call was upheld by replay; the ground rule said that a ball striking themetal railing and caroming back onto the field was a homer"
-"KCA201510230",40,"replay,5,zobrb001,KCA,hirsj901,KAN06,,N,M,TOR,A $when Alex Rios was called safe at 2B, Blue Jays manager John Gibbons challenged the ruling; the call was upheld by replay"
-"KCA201510230",64,"45 minute rain delay"
-"KCA201510160",58,"Blue Jays designated hitter Edwin Encarnacion left the game due to a ligament sprain in his left middle finger"
-"KCA201510170",5,"replay,1,zobrb001,KCA,hirsj901,KAN06,,Y,M,KCA,C $when Ben Zobrist was called out at 1B, Royals manager Ned Yost challenged the ruling; the call was overturned by replay"
-"KCA201510170",50,"$the ball fell between Ryan Goins and Jose Bautista after a miscommunication"
-"TOR201510190",70,"ej,tulot001,P,hirsj901,Called third strike Blue Jays shortstop Troy Tulowitzki ejected by HP umpire John Hirschbeck between innings complaining about the called third strike"
-"TOR201510200",6,"replay,1,morak001,KCA,hirsj901,TOR02,,N,M,TOR,A $when Lorenzo Cain was called safe at HP, Blue Jays manager John Gibbons challenged the ruling; the call was upheld by replay"
-"TOR201510200",17,"replay,2,escoa003,KCA,hirsj901,TOR02,,Y,M,KCA,I $when Alcides Escobar was ruled not to have been hit by a pitch, Royals manager Ned Yost challenged the ruling; the call was overturned by replay"
-"TOR201510200",36,"replay,4,escoa003,KCA,hirsj901,TOR02,,Y,M,TOR,A $when Alex Rios was called safe at 2B, Blue Jays manager John Gibbons challenged the ruling; the call was overturned by replay"
-"TOR201510200",82,"$infielder Cliff Pennington becomes the first non-pitcher to pitch in post-season"
-"TOR201510210",63,"replay,8,pillk001,TOR,hirsj901,TOR02,,N,M,KCA,M replay,8,pillk001,TOR,hirsj901,TOR02,,N,M,TOR,A $when Kevin Pillar was called out at 3B, Royals manager Ned Yost challenged the ruling that Troy Tulowitzki scored on the play; the call was upheld by replay; Blue Jays manager John Gibbons challenged the call at 3B on Pillar; that call was also upheld by replay"
-"KCA201510230",0,"$Alcides Escobar named Series MVP"
-"KCA201510230",13,"replay,2,mousm001,KCA,hirsj901,KAN06,I,N,U,,H $Mike Moustakas' fly to RF was caught by a fan who reached over the metal railing; the ball was ruled a home run but crew chief John Hirshbeck requested a review; the call was upheld by replay; the ground rule said that a ball striking themetal railing and caroming back onto the field was a homer"
-"KCA201510230",40,"replay,5,zobrb001,KCA,hirsj901,KAN06,,N,M,TOR,A $when Alex Rios was called safe at 2B, Blue Jays manager John Gibbons challenged the ruling; the call was upheld by replay"
-"KCA201510230",64,"45 minute rain delay"
+"KCA201510160",58,"Blue Jays designated hitter Edwin Encarnacion left the game due to a ligament sprain in his left middle finger"FILENAME_TX","LINE_NUMBER_CT"
+
+"KCA201510170",5,"replay,1,zobrb001,KCA,hirsj901,KAN06,,Y,M,KCA,C $when Ben Zobrist was called out at 1B, Royals manager Ned Yost challenged the ruling; the call was overturned by replay"2015ALCS.EVE.post.comment.csv",2
+
+"KCA201510170",50,"$the ball fell between Ryan Goins and Jose Bautista after a miscommunication"2015ALCS.EVE.post.comment.csv",3
+
+"TOR201510190",70,"ej,tulot001,P,hirsj901,Called third strike Blue Jays shortstop Troy Tulowitzki ejected by HP umpire John Hirschbeck between innings complaining about the called third strike"2015ALCS.EVE.post.comment.csv",4
+
+"TOR201510200",6,"replay,1,morak001,KCA,hirsj901,TOR02,,N,M,TOR,A $when Lorenzo Cain was called safe at HP, Blue Jays manager John Gibbons challenged the ruling; the call was upheld by replay"2015ALCS.EVE.post.comment.csv",5
+
+"TOR201510200",17,"replay,2,escoa003,KCA,hirsj901,TOR02,,Y,M,KCA,I $when Alcides Escobar was ruled not to have been hit by a pitch, Royals manager Ned Yost challenged the ruling; the call was overturned by replay"2015ALCS.EVE.post.comment.csv",6
+
+"TOR201510200",36,"replay,4,escoa003,KCA,hirsj901,TOR02,,Y,M,TOR,A $when Alex Rios was called safe at 2B, Blue Jays manager John Gibbons challenged the ruling; the call was overturned by replay"2015ALCS.EVE.post.comment.csv",7
+
+"TOR201510200",82,"$infielder Cliff Pennington becomes the first non-pitcher to pitch in post-season"2015ALCS.EVE.post.comment.csv",8
+
+"TOR201510210",63,"replay,8,pillk001,TOR,hirsj901,TOR02,,N,M,KCA,M replay,8,pillk001,TOR,hirsj901,TOR02,,N,M,TOR,A $when Kevin Pillar was called out at 3B, Royals manager Ned Yost challenged the ruling that Troy Tulowitzki scored on the play; the call was upheld by replay; Blue Jays manager John Gibbons challenged the call at 3B on Pillar; that call was also upheld by replay"2015ALCS.EVE.post.comment.csv",9
+
+"KCA201510230",0,"$Alcides Escobar named Series MVP"2015ALCS.EVE.post.comment.csv",10
+
+"KCA201510230",13,"replay,2,mousm001,KCA,hirsj901,KAN06,I,N,U,,H $Mike Moustakas' fly to RF was caught by a fan who reached over the metal railing; the ball was ruled a home run but crew chief John Hirshbeck requested a review; the call was upheld by replay; the ground rule said that a ball striking themetal railing and caroming back onto the field was a homer"2015ALCS.EVE.post.comment.csv",11
+
+"KCA201510230",40,"replay,5,zobrb001,KCA,hirsj901,KAN06,,N,M,TOR,A $when Alex Rios was called safe at 2B, Blue Jays manager John Gibbons challenged the ruling; the call was upheld by replay"2015ALCS.EVE.post.comment.csv",12
+
+"KCA201510230",64,"45 minute rain delay"2015ALCS.EVE.post.comment.csv",13
+

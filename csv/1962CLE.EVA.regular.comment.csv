@@ -1,31 +1,30 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"CLE196204130",46,"game called for rain"
-"CLE196204140",14,"Debut game for Ray Rippelmeyer"
-"CLE196204170",28,"missing play in CLE196204170"
-"CLE196204291",64,"$Harmon Killebrew did not start due to groin injury"
-"CLE196205120",62,"rain"
-"CLE196205280",36,"ej,asprk101,P,kinnb901,Strike 2 call $Aspromonte ejected by HP umpire Kinnamon for arguing strike 2 call; de la Hoz completed the strikeout which was chargd to Aspromonte"
-"CLE196206160",9,"ej,howae101,P,flahr901,Call at HP $Tito Francona scored when Clete Boyer stopped chasing him in rundown; Elston Howard claimed interference on Francona and was ejected by 3B umpire Red Flaherty"
-"CLE196206160",74,"440 feet"
-"CLE196206171",0,"ej,Enrique Izquierdo,N,hurle901,Refusing to get bullpen ball off field Indians bullpen catcher Enrique Izquierdo ejected by 1B umpire Eddie Hurley sometime in game"
-"CLE196206171",19,"$Bill Stafford warned by HP umpire Sam Carrigan"
-"CLE196206172",39,"$lights on at 6:11"
-"CLE196207081",33,"ej,lopea102,M,stevj901,Balls and strikes $White Sox manager Lopez ejected by HP umpire Stevens for arguing balls and strikes while Held at bat"
-"CLE196209090",76,"Debut game for John Wojcik"
-"CLE196209110",11,"Debut game for Max Alvis"
-"CLE196209302",1,"Debut game for Bobby Darwin Debut game for Floyd Weaver"
-"CLE196204130",46,"game called for rain"
-"CLE196204140",14,"Debut game for Ray Rippelmeyer"
-"CLE196204170",28,"missing play in CLE196204170"
-"CLE196204291",64,"$Harmon Killebrew did not start due to groin injury"
-"CLE196205120",62,"rain"
-"CLE196205280",36,"ej,asprk101,P,kinnb901,Balls and strikes $Aspromonte ejected by HP umpire Kinnamon for arguing strike 2 call; de la Hoz completed the strikeout which was chargd to Aspromonte"
-"CLE196206160",9,"ej,howae101,P,flahr901,Call at HP $Tito Francona scored when Clete Boyer stopped chasing him in rundown; Elston Howard claimed interference on Francona and was ejected by 3B umpire Red Flaherty"
-"CLE196206160",74,"440 feet"
-"CLE196206171",0,"ej,Enrique Izquierdo,N,hurle901,Refusing to get bullpen ball off field Indians bullpen catcher Enrique Izquierdo ejected by 1B umpire Eddie Hurley sometime in game"
-"CLE196206171",19,"$Bill Stafford warned by HP umpire Sam Carrigan"
-"CLE196206172",39,"$lights on at 6:11"
-"CLE196207081",33,"ej,lopea102,M,stevj901,Balls and strikes $White Sox manager Lopez ejected by HP umpire Stevens for arguing balls and strikes while Held at bat"
-"CLE196209090",76,"Debut game for John Wojcik"
-"CLE196209110",11,"Debut game for Max Alvis"
-"CLE196209302",1,"Debut game for Bobby Darwin Debut game for Floyd Weaver"
+"CLE196204130",46,"game called for rain"FILENAME_TX","LINE_NUMBER_CT"
+
+"CLE196204140",14,"Debut game for Ray Rippelmeyer"1962CLE.EVA.regular.comment.csv",2
+
+"CLE196204170",28,"missing play in CLE196204170"1962CLE.EVA.regular.comment.csv",3
+
+"CLE196204291",64,"$Harmon Killebrew did not start due to groin injury"1962CLE.EVA.regular.comment.csv",4
+
+"CLE196205120",62,"rain"1962CLE.EVA.regular.comment.csv",5
+
+"CLE196205280",36,"ej,asprk101,P,kinnb901,Balls and strikes $Aspromonte ejected by HP umpire Kinnamon for arguing strike 2 call; de la Hoz completed the strikeout which was chargd to Aspromonte"1962CLE.EVA.regular.comment.csv",6
+
+"CLE196206160",9,"ej,howae101,P,flahr901,Call at HP $Tito Francona scored when Clete Boyer stopped chasing him in rundown; Elston Howard claimed interference on Francona and was ejected by 3B umpire Red Flaherty"1962CLE.EVA.regular.comment.csv",7
+
+"CLE196206160",74,"440 feet"1962CLE.EVA.regular.comment.csv",8
+
+"CLE196206171",0,"ej,Enrique Izquierdo,N,hurle901,Refusing to get bullpen ball off field Indians bullpen catcher Enrique Izquierdo ejected by 1B umpire Eddie Hurley sometime in game"1962CLE.EVA.regular.comment.csv",9
+
+"CLE196206171",19,"$Bill Stafford warned by HP umpire Sam Carrigan"1962CLE.EVA.regular.comment.csv",10
+
+"CLE196206172",39,"$lights on at 6:11"1962CLE.EVA.regular.comment.csv",11
+
+"CLE196207081",33,"ej,lopea102,M,stevj901,Balls and strikes $White Sox manager Lopez ejected by HP umpire Stevens for arguing balls and strikes while Held at bat"1962CLE.EVA.regular.comment.csv",12
+
+"CLE196209090",76,"Debut game for John Wojcik"1962CLE.EVA.regular.comment.csv",13
+
+"CLE196209110",11,"Debut game for Max Alvis"1962CLE.EVA.regular.comment.csv",14
+
+"CLE196209302",1,"Debut game for Bobby Darwin Debut game for Floyd Weaver"1962CLE.EVA.regular.comment.csv",15
+

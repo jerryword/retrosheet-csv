@@ -1,9 +1,8 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"LAN198810050",51,"$Steve Sax called for interference for running into his own bunt"
-"NYN198810080",70,"ej,howej001,P,wendh901,Pine tar on glove Jay Howell ejected by crew chief Harry Wendelstedt for having pine tar on glove"
-"NYN198810100",46,"$Alfredo Griffin called for interference for running into his own bunt"
-"NYN198810100",73,"$Kirk Gibson injured on the stolen base"
-"LAN198810050",51,"$Steve Sax called for interference for running into his own bunt"
-"NYN198810080",70,"ej,howej001,P,wendh901,Pine tar on glove Jay Howell ejected by crew chief Harry Wendelstedt for having pine tar on glove"
-"NYN198810100",46,"$Alfredo Griffin called for interference for running into his own bunt"
-"NYN198810100",73,"$Kirk Gibson injured on the stolen base"
+"LAN198810050",51,"$Steve Sax called for interference for running into his own bunt"FILENAME_TX","LINE_NUMBER_CT"
+
+"NYN198810080",70,"ej,howej001,P,wendh901,Pine tar on glove Jay Howell ejected by crew chief Harry Wendelstedt for having pine tar on glove"1988NLCS.EVE.post.comment.csv",2
+
+"NYN198810100",46,"$Alfredo Griffin called for interference for running into his own bunt"1988NLCS.EVE.post.comment.csv",3
+
+"NYN198810100",73,"$Kirk Gibson injured on the stolen base"1988NLCS.EVE.post.comment.csv",4
+

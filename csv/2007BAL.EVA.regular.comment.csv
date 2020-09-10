@@ -1,74 +1,72 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"BAL200704210",42,"ej,gibbj001,M,cuzzp901,Balls and strikes Blue Jays Manager John Gibbons ejected by HP umpire Phil Cuzzi"
-"BAL200704220",53,"Debut game for Jamie Vermilyea"
-"BAL200704230",16,"Debut game for Danny Putnam"
-"BAL200704230",43,"Orioles pitcher Scott Williamson left the game due to an injured arm"
-"BAL200704240",1,"Debut game for Dallas Braden"
-"BAL200704240",4,"Athletics right fielder Nick Swisher left the game due to an injured leg"
-"BAL200704250",70,"$Okajima, in his first year in the USA, licked his fingers after the second pitch to Huff; plate umpire Hernandez waved to the pitcher, made a licking motion, a 'don't do that' motion and then a circle motion to indicate the pitching mound"
-"BAL200704260",64,"$into the Red Sox bullpen"
-"BAL200705050",67,"$1000th ML hit for Kevin Millar"
-"BAL200705100",51,"ej,wiggt001,P,hoyej901,Call at 3B Devil Rays third baseman Ty Wigginton ejected by 3B umpire James Hoye for arguing that Mora was out at 3B; as he left, he tossed his cap into the stands and a fan tossed it back"
-"BAL200705100",65,"Devil Rays pitcher Shawn Camp left the game due to an injured leg"
-"BAL200706080",51,"ej,perls101,M,vanol901,Arguing run-scoring balk Orioles Manager Sam Perlozzo ejected by 1B umpire Larry Vanover"
-"BAL200706080",68,"ej,hurdc001,M,vanol901,Checked swing to Spilborghs Rockies Manager Clint Hurdle ejected by 1B umpire Larry Vanover for arguing a check swing call to Spilborghs"
-"BAL200706120",81,"$Chad Cordero's 100th career save; second youngest for 100 saves after Francisco Rodriguez (Angels)"
-"BAL200706140",67,"$Orioles Mgr Sam Perlozzo yelled at 1B umpire Ed Montague from the end of the dugout about swing call on Jay Payton"
-"BAL200706140",68,"ej,paytj001,P,monte901,Balls and strikes ej,perls101,M,monte901,Arguing strike call and ejection of Pay Orioles left fielder Jay Payton ejected by 1B umpire Ed Montague for arguing swing call on first bunt attempt; Payton went up to the end of the dugout and yelled at Montague multiple times, saying: 'You missed it'; Orioles Mgr Sam Perlozzo then went onto the field to argue and was also ejected by Montague"
-"BAL200706160",73,"Debut game for Cory Doyne"
-"BAL200706280",0,"Suspend=20070727,,8,6,44"
-"BAL200706280",71,"ej,moram002,P,tscht901,Arguing rain delay suspended,20070727,BAL12,rain $Game suspended after 1:25 rain delay, to be completed 7-27; Orioles Melvin Mora confronted the umpires before leaving the field and was ejected from the game"
-"BAL200706280",71,"umpchange,8,umphp,marsr901 umpchange,8,ump1b,davib902 umpchange,8,ump2b,holbs901 umpchange,8,ump3b,wendh902"
-"BAL200706290",1,"fan interference"
-"BAL200706300",15,"Debut game for Nick Gorneault"
-"BAL200707010",17,"Angels second baseman Erick Aybar left the game due to an injured hand/wrist"
-"BAL200707120",15,"Orioles third baseman Melvin Mora left the game due to an injured foot/ankle"
-"BAL200707140",97,"originally DI, changed to SB2 next day"
-"BAL200707250",23,"ej,hends001,C,hallt901,Called third strike on BJ Upton Devil Rays Batting Coach Steve Henderson ejected by HP umpire Tom Hallion"
-"BAL200708090",69,"$Ichiro Suzuki called for interference"
-"BAL200708221",99,"$new American League record for most runs scored by a team with the 30 by the Rangers; they also set a new club record for most runs in a double header - in the first game!"
-"BAL200708230",30,"$Ball deflected by pitcher to shortstop, who missed it for E6"
-"BAL200708250",1,"Debut game for Radhames Liz"
-"BAL200708250",65,"Twins catcher Joe Mauer left the game due to an injured leg"
-"BAL200709060",21,"Red Sox catcher Doug Mirabelli left the game due to an injured leg"
-"BAL200709060",38,"Orioles pitcher Garrett Olson left the game due to an injured arm"
-"BAL200709070",33,"ej,cabrd001,P,dimum901,Throwing behind Pedroia and inciting Red Sox ej,cashk001,P,dimum901,Actions in brawl after Cabrera's pitch $Cabrera's first pitch after the balk was behind Pedroia's head; HP umpire Mike DiMuro warned both teams as the Red Sox emerged from the dugout; umpire Wally Bell stopped them but Orioles catcher Hernandez started yelling and gesturing at the Red Sox dugout; now everyone emerged from both dugouts and bullpens; Cabrera had to be restrained while he was challenging the Red Sox players; Cabrera and Boston's Kevin Cash were ejected by DiMuro (Cash was not in the game)"
-"BAL200709090",45,"Orioles pitcher Jeremy Guthrie left the game due to an injured chest"
-"BAL200709110",24,"Angels center fielder Gary Matthews left the game due to an injured foot/ankle"
-"BAL200709120",47,"ej,tremd801,M,emmep901,Call at 2B Orioles Manager Dave Trembley ejected by 2B umpire Paul Emmel; Trembley thought Howie Kendrick was far off the bag when he caught the throw for the force out; after the ejection, Trembley drew a line with his foot indicating where he thought Kendrick was and then made a motion as if ejecting Emmel"
-"BAL200704210",42,"ej,gibbj001,M,cuzzp901,Balls and strikes Blue Jays Manager John Gibbons ejected by HP umpire Phil Cuzzi"
-"BAL200704220",53,"Debut game for Jamie Vermilyea"
-"BAL200704230",16,"Debut game for Danny Putnam"
-"BAL200704230",43,"Orioles pitcher Scott Williamson left the game due to an injured arm"
-"BAL200704240",1,"Debut game for Dallas Braden"
-"BAL200704240",4,"Athletics right fielder Nick Swisher left the game due to an injured leg"
-"BAL200704250",70,"$Okajima, in his first year in the USA, licked his fingers after the second pitch to Huff; plate umpire Hernandez waved to the pitcher, made a licking motion, a 'don't do that' motion and then a circle motion to indicate the pitching mound"
-"BAL200704260",64,"$into the Red Sox bullpen"
-"BAL200705050",67,"$1000th ML hit for Kevin Millar"
-"BAL200705100",51,"ej,wiggt001,P,hoyej901,Call at 3B Devil Rays third baseman Ty Wigginton ejected by 3B umpire James Hoye for arguing that Mora was out at 3B; as he left, he tossed his cap into the stands and a fan tossed it back"
-"BAL200705100",65,"Devil Rays pitcher Shawn Camp left the game due to an injured leg"
-"BAL200706080",51,"ej,perls101,M,vanol901,Arguing run-scoring balk Orioles Manager Sam Perlozzo ejected by 1B umpire Larry Vanover"
-"BAL200706080",68,"ej,hurdc001,M,vanol901,Checked swing to Spilborghs Rockies Manager Clint Hurdle ejected by 1B umpire Larry Vanover for arguing a check swing call to Spilborghs"
-"BAL200706120",81,"$Chad Cordero's 100th career save; second youngest for 100 saves after Francisco Rodriguez (Angels)"
-"BAL200706140",68,"ej,paytj001,P,monte901,Check swing ej,perls101,M,monte901,Arguing ejection of player $Payton ejected by 1B umpire Montague for arguing swing call on first bunt attempt; Orioles manager Perlozzo also ejected by Montague for arguing ejection of Payton"
-"BAL200706160",73,"Debut game for Cory Doyne"
-"BAL200706280",0,"Suspend=20070727,,8,6,44"
-"BAL200706280",71,"suspended,20070727,BAL12,rain ej,moram002,P,tscht901,Arguing rain delay $Game suspended after 1:25 rain delay, to be completed 7-27; $Orioles Mora ejected by 3B umpire Tschida for arguing the delay"
-"BAL200706280",71,"umpchange,8,umphp,marsr901 umpchange,8,ump1b,davib902 umpchange,8,ump2b,holbs901 umpchange,8,ump3b,wendh902"
-"BAL200706290",1,"fan interference"
-"BAL200706300",15,"Debut game for Nick Gorneault"
-"BAL200707010",17,"Angels second baseman Erick Aybar left the game due to an injured hand/wrist"
-"BAL200707120",15,"Orioles third baseman Melvin Mora left the game due to an injured foot/ankle"
-"BAL200707140",97,"originally DI, changed to SB2 next day"
-"BAL200707250",23,"ej,hends001,C,hallt901,Called third strike on BJ Upton Devil Rays Batting Coach Steve Henderson ejected by HP umpire Tom Hallion"
-"BAL200708090",69,"$Ichiro Suzuki called for interference"
-"BAL200708221",99,"$new American League record for most runs scored by a team with the 30 by the Rangers; they also set a new club record for most runs in a double header - in the first game!"
-"BAL200708230",30,"$Ball deflected by pitcher to shortstop, who missed it for E6"
-"BAL200708250",1,"Debut game for Radhames Liz"
-"BAL200708250",65,"Twins catcher Joe Mauer left the game due to an injured leg"
-"BAL200709060",21,"Red Sox catcher Doug Mirabelli left the game due to an injured leg"
-"BAL200709060",38,"Orioles pitcher Garrett Olson left the game due to an injured arm"
-"BAL200709070",33,"ej,cabrd001,P,dimum901,Instigating brawl ej,cashk001,P,dimum901,Brawl $Cabrera ejected by HP umpire DiMuro for trying to fight whole Boston team after pitch was behind Pedroia's head; benches clear, Red Sox Cash, not in game, also ejected by DiMuro; both teams warned"
-"BAL200709090",45,"Orioles pitcher Jeremy Guthrie left the game due to an injured chest"
-"BAL200709110",24,"Angels center fielder Gary Matthews left the game due to an injured foot/ankle"
-"BAL200709120",47,"ej,tremd801,M,emmep901,Call at 2B Orioles Manager Dave Trembley ejected by 2B umpire Paul Emmel; Trembley thought Howie Kendrick was far off the bag when he caught the throw for the force out; after the ejection, Trembley drew a line with his foot indicating where he thought Kendrick was and then made a motion as if ejecting Emmel"
+"BAL200704210",42,"ej,gibbj001,M,cuzzp901,Balls and strikes Blue Jays Manager John Gibbons ejected by HP umpire Phil Cuzzi"FILENAME_TX","LINE_NUMBER_CT"
+
+"BAL200704220",53,"Debut game for Jamie Vermilyea"2007BAL.EVA.regular.comment.csv",2
+
+"BAL200704230",16,"Debut game for Danny Putnam"2007BAL.EVA.regular.comment.csv",3
+
+"BAL200704230",43,"Orioles pitcher Scott Williamson left the game due to an injured arm"2007BAL.EVA.regular.comment.csv",4
+
+"BAL200704240",1,"Debut game for Dallas Braden"2007BAL.EVA.regular.comment.csv",5
+
+"BAL200704240",4,"Athletics right fielder Nick Swisher left the game due to an injured leg"2007BAL.EVA.regular.comment.csv",6
+
+"BAL200704250",70,"$Okajima, in his first year in the USA, licked his fingers after the second pitch to Huff; plate umpire Hernandez waved to the pitcher, made a licking motion, a 'don't do that' motion and then a circle motion to indicate the pitching mound"2007BAL.EVA.regular.comment.csv",7
+
+"BAL200704260",64,"$into the Red Sox bullpen"2007BAL.EVA.regular.comment.csv",8
+
+"BAL200705050",67,"$1000th ML hit for Kevin Millar"2007BAL.EVA.regular.comment.csv",9
+
+"BAL200705100",51,"ej,wiggt001,P,hoyej901,Call at 3B Devil Rays third baseman Ty Wigginton ejected by 3B umpire James Hoye for arguing that Mora was out at 3B; as he left, he tossed his cap into the stands and a fan tossed it back"2007BAL.EVA.regular.comment.csv",10
+
+"BAL200705100",65,"Devil Rays pitcher Shawn Camp left the game due to an injured leg"2007BAL.EVA.regular.comment.csv",11
+
+"BAL200706080",51,"ej,perls101,M,vanol901,Arguing run-scoring balk Orioles Manager Sam Perlozzo ejected by 1B umpire Larry Vanover"2007BAL.EVA.regular.comment.csv",12
+
+"BAL200706080",68,"ej,hurdc001,M,vanol901,Checked swing to Spilborghs Rockies Manager Clint Hurdle ejected by 1B umpire Larry Vanover for arguing a check swing call to Spilborghs"2007BAL.EVA.regular.comment.csv",13
+
+"BAL200706120",81,"$Chad Cordero's 100th career save; second youngest for 100 saves after Francisco Rodriguez (Angels)"2007BAL.EVA.regular.comment.csv",14
+
+"BAL200706140",68,"ej,paytj001,P,monte901,Check swing ej,perls101,M,monte901,Arguing ejection of player $Payton ejected by 1B umpire Montague for arguing swing call on first bunt attempt; Orioles manager Perlozzo also ejected by Montague for arguing ejection of Payton"2007BAL.EVA.regular.comment.csv",15
+
+"BAL200706160",73,"Debut game for Cory Doyne"2007BAL.EVA.regular.comment.csv",16
+
+"BAL200706280",0,"Suspend=20070727,,8,6,44"2007BAL.EVA.regular.comment.csv",17
+
+"BAL200706280",71,"suspended,20070727,BAL12,rain ej,moram002,P,tscht901,Arguing rain delay $Game suspended after 1:25 rain delay, to be completed 7-27; $Orioles Mora ejected by 3B umpire Tschida for arguing the delay"2007BAL.EVA.regular.comment.csv",18
+
+"BAL200706280",71,"umpchange,8,umphp,marsr901 umpchange,8,ump1b,davib902 umpchange,8,ump2b,holbs901 umpchange,8,ump3b,wendh902"2007BAL.EVA.regular.comment.csv",19
+
+"BAL200706290",1,"fan interference"2007BAL.EVA.regular.comment.csv",20
+
+"BAL200706300",15,"Debut game for Nick Gorneault"2007BAL.EVA.regular.comment.csv",21
+
+"BAL200707010",17,"Angels second baseman Erick Aybar left the game due to an injured hand/wrist"2007BAL.EVA.regular.comment.csv",22
+
+"BAL200707120",15,"Orioles third baseman Melvin Mora left the game due to an injured foot/ankle"2007BAL.EVA.regular.comment.csv",23
+
+"BAL200707140",97,"originally DI, changed to SB2 next day"2007BAL.EVA.regular.comment.csv",24
+
+"BAL200707250",23,"ej,hends001,C,hallt901,Called third strike on BJ Upton Devil Rays Batting Coach Steve Henderson ejected by HP umpire Tom Hallion"2007BAL.EVA.regular.comment.csv",25
+
+"BAL200708090",69,"$Ichiro Suzuki called for interference"2007BAL.EVA.regular.comment.csv",26
+
+"BAL200708221",99,"$new American League record for most runs scored by a team with the 30 by the Rangers; they also set a new club record for most runs in a double header - in the first game!"2007BAL.EVA.regular.comment.csv",27
+
+"BAL200708230",30,"$Ball deflected by pitcher to shortstop, who missed it for E6"2007BAL.EVA.regular.comment.csv",28
+
+"BAL200708250",1,"Debut game for Radhames Liz"2007BAL.EVA.regular.comment.csv",29
+
+"BAL200708250",65,"Twins catcher Joe Mauer left the game due to an injured leg"2007BAL.EVA.regular.comment.csv",30
+
+"BAL200709060",21,"Red Sox catcher Doug Mirabelli left the game due to an injured leg"2007BAL.EVA.regular.comment.csv",31
+
+"BAL200709060",38,"Orioles pitcher Garrett Olson left the game due to an injured arm"2007BAL.EVA.regular.comment.csv",32
+
+"BAL200709070",33,"ej,cabrd001,P,dimum901,Instigating brawl ej,cashk001,P,dimum901,Brawl $Cabrera ejected by HP umpire DiMuro for trying to fight whole Boston team after pitch was behind Pedroia's head; benches clear, Red Sox Cash, not in game, also ejected by DiMuro; both teams warned"2007BAL.EVA.regular.comment.csv",33
+
+"BAL200709090",45,"Orioles pitcher Jeremy Guthrie left the game due to an injured chest"2007BAL.EVA.regular.comment.csv",34
+
+"BAL200709110",24,"Angels center fielder Gary Matthews left the game due to an injured foot/ankle"2007BAL.EVA.regular.comment.csv",35
+
+"BAL200709120",47,"ej,tremd801,M,emmep901,Call at 2B Orioles Manager Dave Trembley ejected by 2B umpire Paul Emmel; Trembley thought Howie Kendrick was far off the bag when he caught the throw for the force out; after the ejection, Trembley drew a line with his foot indicating where he thought Kendrick was and then made a motion as if ejecting Emmel"2007BAL.EVA.regular.comment.csv",36
+

@@ -1,49 +1,48 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"CHN190710080",1,"Debut game for Davy Jones"
-"CHN190710080",2,"Debut game for Germany Schaefer"
-"CHN190710080",3,"Debut game for Sam Crawford"
-"CHN190710080",4,"Debut game for Ty Cobb"
-"CHN190710080",5,"Debut game for Bill Donovan Debut game for Jimmy Slagle"
-"CHN190710080",11,"Debut game for Claude Rossman"
-"CHN190710080",12,"Debut game for Bill Coughlin"
-"CHN190710080",17,"Debut game for Boss Schmidt"
-"CHN190710080",18,"Debut game for Charley O'Leary"
-"CHN190710080",63,"DWS: NY Times has Schaefer stealing 2nd.  They make it sound like DI, but that didn't exist until 1950.  For now I'll have him score on Crawford's hit (whatever THAT was)"
-"CHN190710080",80,"Debut game for Del Howard"
-"CHN190710080",83,"Debut game for Heinie Zimmerman"
-"CHN190710080",91,"$Harry Steinfeldt called for interference as Jimmy Slagle tried to steal HP"
-"CHN190710080",107,"game called for darkness"
-"CHN190710090",5,"Debut game for George Mullin"
-"CHN190710090",6,"$the throw hit George Mullin on the head"
-"CHN190710090",14,"Debut game for Fred Payne"
-"CHN190710090",27,"ej,jennh101,M,odayh101,Call at 2B Tigers Manager Hughie Jennings ejected by 1B umpire Hank O'Day"
-"CHN190710100",4,"Debut game for Ed Siever"
-"CHN190710100",37,"Debut game for Ed Killian"
-"DET190710110",34,"15 minute rain delay"
-"DET190710110",56,"$This was steal of home by 1907 rules, not by modern rules"
-"DET190710120",20,"Debut game for Jimmy Archer"
-"DET190710120",23,"$into the crowd in LF"
-"CHN190710080",1,"Debut game for Davy Jones"
-"CHN190710080",2,"Debut game for Germany Schaefer"
-"CHN190710080",3,"Debut game for Sam Crawford"
-"CHN190710080",4,"Debut game for Ty Cobb"
-"CHN190710080",5,"Debut game for Bill Donovan Debut game for Jimmy Slagle"
-"CHN190710080",11,"Debut game for Claude Rossman"
-"CHN190710080",12,"Debut game for Bill Coughlin"
-"CHN190710080",17,"Debut game for Boss Schmidt"
-"CHN190710080",18,"Debut game for Charley O'Leary"
-"CHN190710080",63,"DWS: NY Times has Schaefer stealing 2nd.  They make it sound like DI, but that didn't exist until 1950.  For now I'll have him score on Crawford's hit (whatever THAT was)"
-"CHN190710080",80,"Debut game for Del Howard"
-"CHN190710080",83,"Debut game for Heinie Zimmerman"
-"CHN190710080",91,"$Harry Steinfeldt called for interference as Jimmy Slagle tried to steal HP"
-"CHN190710080",107,"game called for darkness"
-"CHN190710090",5,"Debut game for George Mullin"
-"CHN190710090",6,"$the throw hit George Mullin on the head"
-"CHN190710090",14,"Debut game for Fred Payne"
-"CHN190710090",27,"ej,jennh101,M,odayh101,Call at 2B Tigers Manager Hughie Jennings ejected by 1B umpire Hank O'Day"
-"CHN190710100",4,"Debut game for Ed Siever"
-"CHN190710100",37,"Debut game for Ed Killian"
-"DET190710110",34,"15 minute rain delay"
-"DET190710110",56,"$This was steal of home by 1907 rules, not by modern rules"
-"DET190710120",20,"Debut game for Jimmy Archer"
-"DET190710120",23,"$into the crowd in LF"
+"CHN190710080",1,"Debut game for Davy Jones"FILENAME_TX","LINE_NUMBER_CT"
+
+"CHN190710080",2,"Debut game for Germany Schaefer"1907WS.EVE.post.comment.csv",2
+
+"CHN190710080",3,"Debut game for Sam Crawford"1907WS.EVE.post.comment.csv",3
+
+"CHN190710080",4,"Debut game for Ty Cobb"1907WS.EVE.post.comment.csv",4
+
+"CHN190710080",5,"Debut game for Bill Donovan Debut game for Jimmy Slagle"1907WS.EVE.post.comment.csv",5
+
+"CHN190710080",11,"Debut game for Claude Rossman"1907WS.EVE.post.comment.csv",6
+
+"CHN190710080",12,"Debut game for Bill Coughlin"1907WS.EVE.post.comment.csv",7
+
+"CHN190710080",17,"Debut game for Boss Schmidt"1907WS.EVE.post.comment.csv",8
+
+"CHN190710080",18,"Debut game for Charley O'Leary"1907WS.EVE.post.comment.csv",9
+
+"CHN190710080",63,"DWS: NY Times has Schaefer stealing 2nd.  They make it sound like DI, but that didn't exist until 1950.  For now I'll have him score on Crawford's hit (whatever THAT was)"1907WS.EVE.post.comment.csv",10
+
+"CHN190710080",80,"Debut game for Del Howard"1907WS.EVE.post.comment.csv",11
+
+"CHN190710080",83,"Debut game for Heinie Zimmerman"1907WS.EVE.post.comment.csv",12
+
+"CHN190710080",91,"$Harry Steinfeldt called for interference as Jimmy Slagle tried to steal HP"1907WS.EVE.post.comment.csv",13
+
+"CHN190710080",107,"game called for darkness"1907WS.EVE.post.comment.csv",14
+
+"CHN190710090",5,"Debut game for George Mullin"1907WS.EVE.post.comment.csv",15
+
+"CHN190710090",6,"$the throw hit George Mullin on the head"1907WS.EVE.post.comment.csv",16
+
+"CHN190710090",14,"Debut game for Fred Payne"1907WS.EVE.post.comment.csv",17
+
+"CHN190710090",27,"ej,jennh101,M,odayh101,Call at 2B Tigers Manager Hughie Jennings ejected by 1B umpire Hank O'Day"1907WS.EVE.post.comment.csv",18
+
+"CHN190710100",4,"Debut game for Ed Siever"1907WS.EVE.post.comment.csv",19
+
+"CHN190710100",37,"Debut game for Ed Killian"1907WS.EVE.post.comment.csv",20
+
+"DET190710110",34,"15 minute rain delay"1907WS.EVE.post.comment.csv",21
+
+"DET190710110",56,"$This was steal of home by 1907 rules, not by modern rules"1907WS.EVE.post.comment.csv",22
+
+"DET190710120",20,"Debut game for Jimmy Archer"1907WS.EVE.post.comment.csv",23
+
+"DET190710120",23,"$into the crowd in LF"1907WS.EVE.post.comment.csv",24
+

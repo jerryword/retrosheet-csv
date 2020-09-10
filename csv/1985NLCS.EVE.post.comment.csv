@@ -1,11 +1,10 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"LAN198510100",58,"$Mariano Duncan left with unknown injury"
-"SLN198510130",0,"$before the game Vince Coleman was run over by the automated tarp"
-"SLN198510140",37,"$as Steve Sax walked back to the dugout, a fan threw a drink on him; Sax tried to get into the stands but was restrained by trainer Charlie Strasser and manager Tom Lasorda"
-"SLN198510140",43,"$the pitch hit well in front of plate and bounced into dugout"
-"SLN198510140",74,"$Ozzie Smith's first career home run hitting left-handed"
-"LAN198510100",58,"$Mariano Duncan left with unknown injury"
-"SLN198510130",0,"$before the game Vince Coleman was run over by the automated tarp"
-"SLN198510140",37,"$as Steve Sax walked back to the dugout, a fan threw a drink on him; Sax tried to get into the stands but was restrained by trainer Charlie Strasser and manager Tom Lasorda"
-"SLN198510140",43,"$the pitch hit well in front of plate and bounced into dugout"
-"SLN198510140",74,"$Ozzie Smith's first career home run hitting left-handed"
+"LAN198510100",58,"$Mariano Duncan left with unknown injury"FILENAME_TX","LINE_NUMBER_CT"
+
+"SLN198510130",0,"$before the game Vince Coleman was run over by the automated tarp"1985NLCS.EVE.post.comment.csv",2
+
+"SLN198510140",37,"$as Steve Sax walked back to the dugout, a fan threw a drink on him; Sax tried to get into the stands but was restrained by trainer Charlie Strasser and manager Tom Lasorda"1985NLCS.EVE.post.comment.csv",3
+
+"SLN198510140",43,"$the pitch hit well in front of plate and bounced into dugout"1985NLCS.EVE.post.comment.csv",4
+
+"SLN198510140",74,"$Ozzie Smith's first career home run hitting left-handed"1985NLCS.EVE.post.comment.csv",5
+

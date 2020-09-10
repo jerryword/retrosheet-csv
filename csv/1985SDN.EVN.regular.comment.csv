@@ -1,47 +1,46 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"SDN198505090",61,"DWS: really one play, separate for now"
-"SDN198505100",77,"ej,freyj801,M,tatat901,Balls and strikes $Cubs manager Frey ejected by HP umpire Tata for arguing balls and strikes after mound visit"
-"SDN198505110",28,"ej,willd104,M,tatat901,Fair/foul call $Padres manager Williams ejected by 3B umpire Tata for arguing that ball Garvey hit into seats was fair"
-"SDN198506020",22,"$rundown with all 3 runners involved"
-"SDN198506040",27,"$Flannery hit on the back of the head, cracking his helmet"
-"SDN198506040",56,"ej,dennj001,P,palld901,Fighting ej,grosk001,P,palld901,Fighting $Pitcher Denny ejected by HP umpire Pallone for fighting; after Flannery reached 3rd he yelled at Denny who was backing up 3rd; Denny went after Flannery as an umpire, coach and teammate tried to restrain him, but he broke through and started to fight with Flannery, Phillies Gross tackled Flannery and was also ejected by Pallone"
-"SDN198506040",70,"$Terry Kennedy out on appeal for leaving 1B too soon"
-"SDN198506210",48,"Chris Brown left game with swollen wrist (from HBP in third)"
-"SDN198506210",52,"Jeffrey Leonard left game with groin pull"
-"SDN198506210",68,"$foul bounced off plate and hit Bruce Bochy in eye"
-"SDN198507020",10,"$Terry Kennedy called for interference for running out of base line"
-"SDN198508091",66,"Debut game for Gene Walter"
-"SDN198508120",50,"Debut game for Lance McCullers"
-"SDN198508181",12,"ej,haase101,M,palld901,Call at 2B $Braves manager Haas ejected by 2B umpire Pallone for arguing that Oberkfell was safe at 2nd on DP"
-"SDN198509020",52,"Debut game for Bob Patterson"
-"SDN198509040",57,"$Gary Carter's fifth HR in two games"
-"SDN198509060",90,"$LF Jeff Stone playing between SS and 2B for Kurt Bevacqua"
-"SDN198509080",48,"Debut game for Rick Surhoff"
-"SDN198509080",88,"ej,krolj801,C,brocf901,Call at 1B ej,willd104,M,brocf901,Call at 1B $Rick Schu's throw was wide of 1B; 1B umpire Fred Brocklander called out Steve Garvey, who yelled, stamped his feet and waved his arms while yelling at Brocklander; Padres 1B coach Jack Krol started after Brocklander and had to be restrained by Padres manager Dick Williams; Krol and Williams ejected by Brocklander"
-"SDN198509230",42,"$Tony Gwynn called for interference for running into own bunt"
-"SDN198509230",59,"Atlee Hammaker left game with sore elbow"
-"SDN198509230",77,"$Jerry Royster covered 1B but missed the bag"
-"SDN198509240",0,"Balmy"
-"SDN198505090",61,"DWS: really one play, separate for now"
-"SDN198505100",77,"ej,freyj801,M,tatat901,Balls and strikes $Cubs manager Frey ejected by HP umpire Tata for arguing balls and strikes after mound visit"
-"SDN198505110",28,"ej,willd104,M,tatat901,Fair/foul call $Padres manager Williams ejected by 3B umpire Tata for arguing that ball Garvey hit into seats was fair"
-"SDN198506020",22,"$rundown with all 3 runners involved"
-"SDN198506040",27,"$Flannery hit on the back of the head, cracking his helmet"
-"SDN198506040",56,"ej,dennj001,P,palld901,Fighting ej,grosk001,P,palld901,Fighting $Pitcher Denny ejected by HP umpire Pallone for fighting; after Flannery reached 3rd he yelled at Denny who was backing up 3rd; Denny went after Flannery as an umpire, coach and teammate tried to restrain him, but he broke through and started to fight with Flannery, Phillies Gross tackled Flannery and was also ejected by Pallone"
-"SDN198506040",70,"$Terry Kennedy out on appeal for leaving 1B too soon"
-"SDN198506210",48,"Chris Brown left game with swollen wrist (from HBP in third)"
-"SDN198506210",52,"Jeffrey Leonard left game with groin pull"
-"SDN198506210",68,"$foul bounced off plate and hit Bruce Bochy in eye"
-"SDN198507020",10,"$Terry Kennedy called for interference for running out of base line"
-"SDN198508091",66,"Debut game for Gene Walter"
-"SDN198508120",50,"Debut game for Lance McCullers"
-"SDN198508181",12,"ej,haase101,M,palld901,Call at 2B $Braves manager Haas ejected by 2B umpire Pallone for arguing that Oberkfell was safe at 2nd on DP"
-"SDN198509020",52,"Debut game for Bob Patterson"
-"SDN198509040",57,"$Gary Carter's fifth HR in two games"
-"SDN198509060",90,"$LF Jeff Stone playing between SS and 2B for Kurt Bevacqua"
-"SDN198509080",48,"Debut game for Rick Surhoff"
-"SDN198509080",88,"ej,krolj801,C,brocf901,Call at 1B ej,willd104,M,brocf901,Call at 1B $Rick Schu's throw was wide of 1B; 1B umpire Fred Brocklander called out Steve Garvey, who yelled, stamped his feet and waved his arms while yelling at Brocklander; Padres 1B coach Jack Krol started after Brocklander and had to be restrained by Padres manager Dick Williams; Krol and Williams ejected by Brocklander"
-"SDN198509230",42,"$Tony Gwynn called for interference for running into own bunt"
-"SDN198509230",59,"Atlee Hammaker left game with sore elbow"
-"SDN198509230",77,"$Jerry Royster covered 1B but missed the bag"
-"SDN198509240",0,"Balmy"
+"SDN198505090",61,"DWS: really one play, separate for now"FILENAME_TX","LINE_NUMBER_CT"
+
+"SDN198505100",77,"ej,freyj801,M,tatat901,Balls and strikes $Cubs manager Frey ejected by HP umpire Tata for arguing balls and strikes after mound visit"1985SDN.EVN.regular.comment.csv",2
+
+"SDN198505110",28,"ej,willd104,M,tatat901,Fair/foul call $Padres manager Williams ejected by 3B umpire Tata for arguing that ball Garvey hit into seats was fair"1985SDN.EVN.regular.comment.csv",3
+
+"SDN198506020",22,"$rundown with all 3 runners involved"1985SDN.EVN.regular.comment.csv",4
+
+"SDN198506040",27,"$Flannery hit on the back of the head, cracking his helmet"1985SDN.EVN.regular.comment.csv",5
+
+"SDN198506040",56,"ej,dennj001,P,palld901,Fighting ej,grosk001,P,palld901,Fighting $Pitcher Denny ejected by HP umpire Pallone for fighting; after Flannery reached 3rd he yelled at Denny who was backing up 3rd; Denny went after Flannery as an umpire, coach and teammate tried to restrain him, but he broke through and started to fight with Flannery, Phillies Gross tackled Flannery and was also ejected by Pallone"1985SDN.EVN.regular.comment.csv",6
+
+"SDN198506040",70,"$Terry Kennedy out on appeal for leaving 1B too soon"1985SDN.EVN.regular.comment.csv",7
+
+"SDN198506210",48,"Chris Brown left game with swollen wrist (from HBP in third)"1985SDN.EVN.regular.comment.csv",8
+
+"SDN198506210",52,"Jeffrey Leonard left game with groin pull"1985SDN.EVN.regular.comment.csv",9
+
+"SDN198506210",68,"$foul bounced off plate and hit Bruce Bochy in eye"1985SDN.EVN.regular.comment.csv",10
+
+"SDN198507020",10,"$Terry Kennedy called for interference for running out of base line"1985SDN.EVN.regular.comment.csv",11
+
+"SDN198508091",66,"Debut game for Gene Walter"1985SDN.EVN.regular.comment.csv",12
+
+"SDN198508120",50,"Debut game for Lance McCullers"1985SDN.EVN.regular.comment.csv",13
+
+"SDN198508181",12,"ej,haase101,M,palld901,Call at 2B $Braves manager Haas ejected by 2B umpire Pallone for arguing that Oberkfell was safe at 2nd on DP"1985SDN.EVN.regular.comment.csv",14
+
+"SDN198509020",52,"Debut game for Bob Patterson"1985SDN.EVN.regular.comment.csv",15
+
+"SDN198509040",57,"$Gary Carter's fifth HR in two games"1985SDN.EVN.regular.comment.csv",16
+
+"SDN198509060",90,"$LF Jeff Stone playing between SS and 2B for Kurt Bevacqua"1985SDN.EVN.regular.comment.csv",17
+
+"SDN198509080",48,"Debut game for Rick Surhoff"1985SDN.EVN.regular.comment.csv",18
+
+"SDN198509080",88,"ej,krolj801,C,brocf901,Call at 1B ej,willd104,M,brocf901,Call at 1B $Rick Schu's throw was wide of 1B; 1B umpire Fred Brocklander called out Steve Garvey, who yelled, stamped his feet and waved his arms while yelling at Brocklander; Padres 1B coach Jack Krol started after Brocklander and had to be restrained by Padres manager Dick Williams; Krol and Williams ejected by Brocklander"1985SDN.EVN.regular.comment.csv",19
+
+"SDN198509230",42,"$Tony Gwynn called for interference for running into own bunt"1985SDN.EVN.regular.comment.csv",20
+
+"SDN198509230",59,"Atlee Hammaker left game with sore elbow"1985SDN.EVN.regular.comment.csv",21
+
+"SDN198509230",77,"$Jerry Royster covered 1B but missed the bag"1985SDN.EVN.regular.comment.csv",22
+
+"SDN198509240",0,"Balmy"1985SDN.EVN.regular.comment.csv",23
+

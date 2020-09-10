@@ -1,85 +1,84 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"BAL196004190",6,"Debut game for Marv Breeding"
-"BAL196004190",50,"ej,richp101,M,nappl901,Balls and strikes $Orioles manager Richards ejected by HP umpire Napp for arguing balls and striked sometime in 6th inning"
-"BAL196004200",55,"$Don Mincher allowed the throw to get by at HP"
-"BAL196004210",1,"Debut game for Steve Barber"
-"BAL196004210",25,"$Jackie Brandt pulled leg muscle"
-"BAL196004210",42,"Debut game for Chuck Estrada"
-"BAL196005040",9,"ej,lolls101,P,smita901,Balls and strikes $Catcher Lollar ejected by HP umpire Smith for arguing balls and strikes"
-"BAL196005040",28,"$Gene Freese reinjured muscle in right leg"
-"BAL196005040",69,"ej,lopea102,M,smita901,Balls and strikes $Chicago manager Lopez ejected by HP umpire Smith for arguing balls and strikes"
-"BAL196005050",74,"$Gentile's line drive off the shoulder of pitcher Hawkins to right field for a double; Hawkins left game"
-"BAL196005050",75,"ej,richp101,M,smita901,Double/home run reversal $Orioles manager Richards ejected by 3B umpire Smith; Brandt's hit wasoff top of wall and originally ruled a double but Richards complained and it was overturned to home run; Cleveland manager Gordon then argued; umpires huddled and reversed call back to double; Richards was incensed and put on a memorable argument leading to his ejection"
-"BAL196005060",39,"ej,gordj101,M,runge901,Check swing $Indians manager Gordon ejected by HP umpire Runge for arguing check swing call with Gentile at bat"
-"BAL196005060",41,"ej,hardm101,C,runge901,Check swing $Indians coach ejected at end of inning for continuing argument that got Gordon ejected"
-"BAL196005060",62,"Debut game for Mike Lee"
-"BAL196005291",40,"DIFF: officials do ntt have CS"
-"BAL196005302",28,"$Marv Breeding missed the bag on play at 2B"
-"BAL196006060",15,"$Jackie Brandt rounded 3B too far"
-"BAL196006060",38,"$Gene Woodling hit on elbow"
-"BAL196006070",7,"$Chico Fernandez deliberately dropped Gene Woodling's popup"
-"BAL196006091",46,"$Paul Foytack rounded 2B too far"
-"BAL196006092",53,"ej,dykej101,M,runge901,Double play non-call $Tigers manager Dykes ejected by 2B umpire Runge for arguing that Pearson was out at 2nd and there should have been double play"
-"BAL196006100",0,"$First game for Gus Triandos since May 11 finger surgery"
-"BAL196006100",71,"$Whitey Herzog's throw bounced over Pete Daley's head; Dick Hall backed up the play and threw the ball into LF"
-"BAL196006122",12,"$Clint Courtney hurt on play at HP"
-"BAL196006270",27,"$Julio Becquer called for interference for running out of the baseline"
-"BAL196006270",82,"ej,richp101,M,papaj901,Fair/foul call $Orioles manager Richards ejected by HP umpire Paparella for arguing that Allison attempted to bunt the 3-2 pitch and should have struck out when it went foul; umpire said he punched at it but did not attempt a bunt"
-"BAL196006290",76,"ej,richp101,M,smita901,Balls and strikes $Orioles manager Richards ejected by HP umpire Smith for arguing balls and strikes while Courtney was at bat"
-"BAL196007070",71,"DIFF: official records indicate Mantle had five atbats, meaning he batted in the 9th and not DeMaestri DeMaestri official fielding records for the game do not credit him with any fielding chances. However assists for the Yankee shortstop in both the 8th and 9th innings appeared on the Yankees scoresheet for DeMaestri but film gave both to Kubek (only 2 SS assists in game)"
-"BAL196007310",20,"Debut game for Carl Mathias"
-"BAL196007310",73,"$Jim Gentile fell into the dugout making the catch"
-"BAL196008010",57,"ej,richp101,M,honoj901,Balls and strikes Orioles Manager Paul Richards ejected by HP umpire Jim Honochick"
-"BAL196008170",0,"Protest=V ej,richp101,M,smita901,Call at 1B Orioles Manager Paul Richards ejected by 1B umpire Al Smith"
-"BAL196008170",83,"ej,allib103,P,ricej901,Called third strike Bob Allison ejected by HP umpire John Rice"
-"BAL196008170",89,"$Billy Gardner tagged out Ron Hansen as Hansen knocked Gardner down"
-"BAL196008170",96,"ej,richp101,M,smita901,Call at 1B $Orioles manager Richards ejected by 1B umpire Smith for arguing call at 1st"
-"BAL196008170",100,"$Senators manager Cookie Lavagetto protested the game because he could see Orioles manager Paul Richards, who had been ejected earlier, in the dugout runway"
-"BAL196008262",82,"ej,gentj101,P,soarh901,Call at 2B Jim Gentile ejected by 1B umpire Hank Soar"
-"BAL196008280",0,"Protest=V"
-"BAL196008280",60,"ej,fox-n101,P,hurle901,Time out call (team lost homer) $Ted Kluszewski hit a home run but 3B umpire Eddie Hurley had called time before the pitch to tell two White Sox players, Earl Torgeson and Floyd Robinson, that they were warming up in the wrong area; Nellie Fox ejected by Hurley; White Sox manager Al Lopez played the game under protest"
-"BAL196008310",3,"$Mike de la hoz called for interference at 2B"
-"BAL196009030",67,"umpchange,9,umphome,berrc103 umpchange,9,ump2b,(None) umpchange,9,ump3b,umonf901 $HP umpire Napp left with nausea after taking two fouls to the stomach and one to the head; 3B umpire Berry moved behind the plate, 2B umpire Umont went to 3rd and game was finished with 3 umpires"
-"BAL196009200",2,"$Ted Williams fouled a ball off his ankle; this was the only time someone pinch hit for Ted Williams in his career"
-"BAL196004190",6,"Debut game for Marv Breeding"
-"BAL196004190",50,"ej,richp101,M,nappl901,Balls and strikes $Orioles manager Richards ejected by HP umpire Napp for arguing balls and striked sometime in 6th inning"
-"BAL196004200",55,"$Don Mincher allowed the throw to get by at HP"
-"BAL196004210",1,"Debut game for Steve Barber"
-"BAL196004210",25,"$Jackie Brandt pulled leg muscle"
-"BAL196004210",42,"Debut game for Chuck Estrada"
-"BAL196005040",9,"ej,lolls101,P,smita901,Balls and strikes $Catcher Lollar ejected by HP umpire Smith for arguing balls and strikes"
-"BAL196005040",28,"$Gene Freese reinjured muscle in right leg"
-"BAL196005040",69,"ej,lopea102,M,smita901,Balls and strikes $Chicago manager Lopez ejected by HP umpire Smith for arguing balls and strikes"
-"BAL196005050",74,"$Gentile's line drive off the shoulder of pitcher Hawkins to right field for a double; Hawkins left game"
-"BAL196005050",75,"ej,richp101,M,smita901,Double/home run reversal $Orioles manager Richards ejected by 3B umpire Smith; Brandt's hit wasoff top of wall and originally ruled a double but Richards complained and it was overturned to home run; Cleveland manager Gordon then argued; umpires huddled and reversed call back to double; Richards was incensed and put on a memorable argument leading to his ejection"
-"BAL196005060",39,"ej,gordj101,M,runge901,Check swing $Indians manager Gordon ejected by HP umpire Runge for arguing check swing call with Gentile at bat"
-"BAL196005060",41,"ej,hardm101,C,runge901,Check swing $Indians coach Harder ejected at end of inning for continuing argument that got Gordon ejected"
-"BAL196005060",62,"Debut game for Mike Lee"
-"BAL196005291",40,"DIFF: officials do ntt have CS"
-"BAL196005302",28,"$Marv Breeding missed the bag on play at 2B"
-"BAL196006060",15,"$Jackie Brandt rounded 3B too far"
-"BAL196006060",38,"$Gene Woodling hit on elbow"
-"BAL196006070",7,"$Chico Fernandez deliberately dropped Gene Woodling's popup"
-"BAL196006091",46,"$Paul Foytack rounded 2B too far"
-"BAL196006092",53,"ej,dykej101,M,runge901,Double play non-call $Tigers manager Dykes ejected by 2B umpire Runge for arguing that Pearson was out at 2nd and there should have been double play"
-"BAL196006100",0,"$First game for Gus Triandos since May 11 finger surgery"
-"BAL196006100",71,"$Whitey Herzog's throw bounced over Pete Daley's head; Dick Hall backed up the play and threw the ball into LF"
-"BAL196006122",12,"$Clint Courtney hurt on play at HP"
-"BAL196006270",27,"$Julio Becquer called for interference for running out of the baseline"
-"BAL196006270",82,"ej,richp101,M,papaj901,Fair/foul call $Orioles manager Richards ejected by HP umpire Paparella for arguing that Allison attempted to bunt the 3-2 pitch and should have struck out when it went foul; umpire said he punched at it but did not attempt a bunt"
-"BAL196006290",76,"ej,richp101,M,smita901,Balls and strikes $Orioles manager Richards ejected by HP umpire Smith for arguing balls and strikes while Courtney was at bat"
-"BAL196007070",71,"DIFF: official records indicate Mantle had five atbats, meaning he batted in the 9th and not DeMaestri DeMaestri official fielding records for the game do not credit him with any fielding chances. However assists for the Yankee shortstop in both the 8th and 9th innings appeared on the Yankees scoresheet for DeMaestri but film gave both to Kubek (only 2 SS assists in game)"
-"BAL196007310",20,"Debut game for Carl Mathias"
-"BAL196007310",73,"$Jim Gentile fell into the dugout making the catch"
-"BAL196008010",57,"ej,richp101,M,honoj901,Balls and strikes Orioles Manager Paul Richards ejected by HP umpire Jim Honochick"
-"BAL196008170",0,"Protest=V"
-"BAL196008170",83,"ej,allib103,P,ricej901,Called third strike $Allison ejected by HP umpire John Rice for arguing called third strike"
-"BAL196008170",89,"$Billy Gardner tagged out Ron Hansen as Hansen knocked Gardner down"
-"BAL196008170",96,"ej,richp101,M,smita901,Call at 1B $Orioles manager Richards ejected by 1B umpire Smith for arguing call at 1st"
-"BAL196008170",100,"$Senators manager Cookie Lavagetto protested the game because he could see Orioles manager Paul Richards, who had been ejected earlier, in the dugout runway"
-"BAL196008262",82,"ej,gentj101,P,soarh901,Call at 2B Jim Gentile ejected by 1B umpire Hank Soar"
-"BAL196008280",0,"Protest=V"
-"BAL196008280",60,"ej,fox-n101,P,hurle901,Time out call (team lost homer) $Ted Kluszewski hit a home run but 3B umpire Eddie Hurley had called time before the pitch to tell two White Sox players, Earl Torgeson and Floyd Robinson, that they were warming up in the wrong area; Nellie Fox ejected by Hurley; White Sox manager Al Lopez played the game under protest"
-"BAL196008310",3,"$Mike de la hoz called for interference at 2B"
-"BAL196009030",67,"umpchange,9,umphome,berrc103 umpchange,9,ump2b,(None) umpchange,9,ump3b,umonf901 $HP umpire Napp left with nausea after taking two fouls to the stomach and one to the head; 3B umpire Berry moved behind the plate, 2B umpire Umont went to 3rd and game was finished with 3 umpires"
-"BAL196009200",2,"$Ted Williams fouled a ball off his ankle; this was the only time someone pinch hit for Ted Williams in his career"
+"BAL196004190",6,"Debut game for Marv Breeding"FILENAME_TX","LINE_NUMBER_CT"
+
+"BAL196004190",50,"ej,richp101,M,nappl901,Balls and strikes $Orioles manager Richards ejected by HP umpire Napp for arguing balls and striked sometime in 6th inning"1960BAL.EVA.regular.comment.csv",2
+
+"BAL196004200",55,"$Don Mincher allowed the throw to get by at HP"1960BAL.EVA.regular.comment.csv",3
+
+"BAL196004210",1,"Debut game for Steve Barber"1960BAL.EVA.regular.comment.csv",4
+
+"BAL196004210",25,"$Jackie Brandt pulled leg muscle"1960BAL.EVA.regular.comment.csv",5
+
+"BAL196004210",42,"Debut game for Chuck Estrada"1960BAL.EVA.regular.comment.csv",6
+
+"BAL196005040",9,"ej,lolls101,P,smita901,Balls and strikes $Catcher Lollar ejected by HP umpire Smith for arguing balls and strikes"1960BAL.EVA.regular.comment.csv",7
+
+"BAL196005040",28,"$Gene Freese reinjured muscle in right leg"1960BAL.EVA.regular.comment.csv",8
+
+"BAL196005040",69,"ej,lopea102,M,smita901,Balls and strikes $Chicago manager Lopez ejected by HP umpire Smith for arguing balls and strikes"1960BAL.EVA.regular.comment.csv",9
+
+"BAL196005050",74,"$Gentile's line drive off the shoulder of pitcher Hawkins to right field for a double; Hawkins left game"1960BAL.EVA.regular.comment.csv",10
+
+"BAL196005050",75,"ej,richp101,M,smita901,Double/home run reversal $Orioles manager Richards ejected by 3B umpire Smith; Brandt's hit wasoff top of wall and originally ruled a double but Richards complained and it was overturned to home run; Cleveland manager Gordon then argued; umpires huddled and reversed call back to double; Richards was incensed and put on a memorable argument leading to his ejection"1960BAL.EVA.regular.comment.csv",11
+
+"BAL196005060",39,"ej,gordj101,M,runge901,Check swing $Indians manager Gordon ejected by HP umpire Runge for arguing check swing call with Gentile at bat"1960BAL.EVA.regular.comment.csv",12
+
+"BAL196005060",41,"ej,hardm101,C,runge901,Check swing $Indians coach Harder ejected at end of inning for continuing argument that got Gordon ejected"1960BAL.EVA.regular.comment.csv",13
+
+"BAL196005060",62,"Debut game for Mike Lee"1960BAL.EVA.regular.comment.csv",14
+
+"BAL196005291",40,"DIFF: officials do ntt have CS"1960BAL.EVA.regular.comment.csv",15
+
+"BAL196005302",28,"$Marv Breeding missed the bag on play at 2B"1960BAL.EVA.regular.comment.csv",16
+
+"BAL196006060",15,"$Jackie Brandt rounded 3B too far"1960BAL.EVA.regular.comment.csv",17
+
+"BAL196006060",38,"$Gene Woodling hit on elbow"1960BAL.EVA.regular.comment.csv",18
+
+"BAL196006070",7,"$Chico Fernandez deliberately dropped Gene Woodling's popup"1960BAL.EVA.regular.comment.csv",19
+
+"BAL196006091",46,"$Paul Foytack rounded 2B too far"1960BAL.EVA.regular.comment.csv",20
+
+"BAL196006092",53,"ej,dykej101,M,runge901,Double play non-call $Tigers manager Dykes ejected by 2B umpire Runge for arguing that Pearson was out at 2nd and there should have been double play"1960BAL.EVA.regular.comment.csv",21
+
+"BAL196006100",0,"$First game for Gus Triandos since May 11 finger surgery"1960BAL.EVA.regular.comment.csv",22
+
+"BAL196006100",71,"$Whitey Herzog's throw bounced over Pete Daley's head; Dick Hall backed up the play and threw the ball into LF"1960BAL.EVA.regular.comment.csv",23
+
+"BAL196006122",12,"$Clint Courtney hurt on play at HP"1960BAL.EVA.regular.comment.csv",24
+
+"BAL196006270",27,"$Julio Becquer called for interference for running out of the baseline"1960BAL.EVA.regular.comment.csv",25
+
+"BAL196006270",82,"ej,richp101,M,papaj901,Fair/foul call $Orioles manager Richards ejected by HP umpire Paparella for arguing that Allison attempted to bunt the 3-2 pitch and should have struck out when it went foul; umpire said he punched at it but did not attempt a bunt"1960BAL.EVA.regular.comment.csv",26
+
+"BAL196006290",76,"ej,richp101,M,smita901,Balls and strikes $Orioles manager Richards ejected by HP umpire Smith for arguing balls and strikes while Courtney was at bat"1960BAL.EVA.regular.comment.csv",27
+
+"BAL196007070",71,"DIFF: official records indicate Mantle had five atbats, meaning he batted in the 9th and not DeMaestri DeMaestri official fielding records for the game do not credit him with any fielding chances. However assists for the Yankee shortstop in both the 8th and 9th innings appeared on the Yankees scoresheet for DeMaestri but film gave both to Kubek (only 2 SS assists in game)"1960BAL.EVA.regular.comment.csv",28
+
+"BAL196007310",20,"Debut game for Carl Mathias"1960BAL.EVA.regular.comment.csv",29
+
+"BAL196007310",73,"$Jim Gentile fell into the dugout making the catch"1960BAL.EVA.regular.comment.csv",30
+
+"BAL196008010",57,"ej,richp101,M,honoj901,Balls and strikes Orioles Manager Paul Richards ejected by HP umpire Jim Honochick"1960BAL.EVA.regular.comment.csv",31
+
+"BAL196008170",0,"Protest=V"1960BAL.EVA.regular.comment.csv",32
+
+"BAL196008170",83,"ej,allib103,P,ricej901,Called third strike $Allison ejected by HP umpire John Rice for arguing called third strike"1960BAL.EVA.regular.comment.csv",33
+
+"BAL196008170",89,"$Billy Gardner tagged out Ron Hansen as Hansen knocked Gardner down"1960BAL.EVA.regular.comment.csv",34
+
+"BAL196008170",96,"ej,richp101,M,smita901,Call at 1B $Orioles manager Richards ejected by 1B umpire Smith for arguing call at 1st"1960BAL.EVA.regular.comment.csv",35
+
+"BAL196008170",100,"$Senators manager Cookie Lavagetto protested the game because he could see Orioles manager Paul Richards, who had been ejected earlier, in the dugout runway"1960BAL.EVA.regular.comment.csv",36
+
+"BAL196008262",82,"ej,gentj101,P,soarh901,Call at 2B Jim Gentile ejected by 1B umpire Hank Soar"1960BAL.EVA.regular.comment.csv",37
+
+"BAL196008280",0,"Protest=V"1960BAL.EVA.regular.comment.csv",38
+
+"BAL196008280",60,"ej,fox-n101,P,hurle901,Time out call (team lost homer) $Ted Kluszewski hit a home run but 3B umpire Eddie Hurley had called time before the pitch to tell two White Sox players, Earl Torgeson and Floyd Robinson, that they were warming up in the wrong area; Nellie Fox ejected by Hurley; White Sox manager Al Lopez played the game under protest"1960BAL.EVA.regular.comment.csv",39
+
+"BAL196008310",3,"$Mike de la hoz called for interference at 2B"1960BAL.EVA.regular.comment.csv",40
+
+"BAL196009030",67,"umpchange,9,umphome,berrc103 umpchange,9,ump2b,(None) umpchange,9,ump3b,umonf901 $HP umpire Napp left with nausea after taking two fouls to the stomach and one to the head; 3B umpire Berry moved behind the plate, 2B umpire Umont went to 3rd and game was finished with 3 umpires"1960BAL.EVA.regular.comment.csv",41
+
+"BAL196009200",2,"$Ted Williams fouled a ball off his ankle; this was the only time someone pinch hit for Ted Williams in his career"1960BAL.EVA.regular.comment.csv",42
+

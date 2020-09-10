@@ -1,61 +1,60 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"MON198904050",67,"Debut game for Gene Harris"
-"MON198904060",44,"$Expos appeal at 1B that Andy Van SLyke missed the bag; appeal denied"
-"MON198904060",60,"$Jim Gott left game with elbow injury"
-"MON198905140",46,"$hit and run through vacated shortstop"
-"MON198905160",18,"Debut game for Marty Pevey"
-"MON198905160",50,"Debut game for Mark Gardner"
-"MON198905190",9,"$Andres Galarraga called for interference with throw to 1B"
-"MON198905190",48,"$Mike Scioscia's return throw to the pitcher hit the bat and went to 3B"
-"MON198905210",46,"ej,marsm001,P,harvd901,Balls and strikes Mike Marshall ejected by HP umpire Doug Harvey"
-"MON198906160",51,"$missed squeeze bunt, Vance Law's throw hit Tim Wallach"
-"MON198906300",77,"Scorer missed top of 9th. Reconstructed from box score"
-"MON198907010",36,"Missed squeeze, error on throw during rundown"
-"MON198907190",40,"ej,smitl002,P,demud901,Fair/foul call $Smith ejected by HP umpire DeMuth for arguing his ground out was actually a foul off his leg"
-"MON198907230",86,"$Mike Fitzgerald's throwing error after backing up 1B"
-"MON198907290",59,"$Vince Coleman called for interference"
-"MON198907300",17,"59 minute rain delay"
-"MON198908150",47,"$Dave Dravecky broke his arm"
-"MON198908160",16,"Debut game for Larry Walker"
-"MON198908190",45,"ej,folet001,P,bonig901,Called third strike Tom Foley ejected by HP umpire Greg Bonin"
-"MON198908210",78,"ej,rodgb102,M,hirsm901,Call at HP Expos manager Buck Rodgers ejected by HP umpire Mark Hirschbeck"
-"MON198908220",9,"Debut game for Marquis Grissom"
-"MON198908230",74,"ej,Youppi!,N,davib902,Banging on dugout roof [mascot] Expos mascot Youppi! ejected by 3B umpire Bob Davidson for banging on the visitor's dugout roof sometime in 11th inning"
-"MON198908230",122,"$Larry Walker called out on appeal for leaving 3B too soon"
-"MON198909080",1,"Debut game for Jason Grimsley"
-"MON198909160",46,"Infield half way in"
-"MON198909160",60,"Debut game for Blaine Beatty"
-"MON198909190",70,"$Ozzie Smith out on appeal for missing 2B on an apparent triple"
-"MON198909250",50,"$Dave Martinez hurt"
-"MON198909270",26,"Nelson Santovenia dropped ball trying to throw"
-"MON198909270",61,"$Larry Walker injured diving for shallow fly"
-"MON198904050",67,"Debut game for Gene Harris"
-"MON198904060",44,"$Expos appeal at 1B that Andy Van SLyke missed the bag; appeal denied"
-"MON198904060",60,"$Jim Gott left game with elbow injury"
-"MON198905140",46,"$hit and run through vacated shortstop"
-"MON198905160",18,"Debut game for Marty Pevey"
-"MON198905160",50,"Debut game for Mark Gardner"
-"MON198905190",9,"$Andres Galarraga called for interference with throw to 1B"
-"MON198905190",48,"$Mike Scioscia's return throw to the pitcher hit the bat and went to 3B"
-"MON198905210",46,"ej,marsm001,P,harvd901,Balls and strikes Mike Marshall ejected by HP umpire Doug Harvey"
-"MON198906160",51,"$missed squeeze bunt, Vance Law's throw hit Tim Wallach"
-"MON198906300",77,"Scorer missed top of 9th. Reconstructed from box score"
-"MON198907010",36,"Missed squeeze, error on throw during rundown"
-"MON198907190",40,"ej,smitl002,P,demud901,Fair/foul call $Smith ejected by HP umpire DeMuth for arguing his ground out was actually a foul off his leg"
-"MON198907230",86,"$Mike Fitzgerald's throwing error after backing up 1B"
-"MON198907290",59,"$Vince Coleman called for interference"
-"MON198907300",17,"59 minute rain delay"
-"MON198908150",47,"$Dave Dravecky broke his arm"
-"MON198908160",16,"Debut game for Larry Walker"
-"MON198908190",45,"ej,folet001,P,bonig901,Called third strike Tom Foley ejected by HP umpire Greg Bonin"
-"MON198908210",78,"ej,rodgb102,M,hirsm901,Call at HP Expos manager Buck Rodgers ejected by HP umpire Mark Hirschbeck"
-"MON198908220",9,"Debut game for Marquis Grissom"
-"MON198908230",74,"ej,Youppi!,N,davib902,Banging on dugout roof [mascot] Expos mascot Youppi! ejected by 3B umpire Bob Davidson for banging on the visitor's dugout roof sometime in 11th inning"
-"MON198908230",122,"$Larry Walker called out on appeal for leaving 3B too soon"
-"MON198909080",1,"Debut game for Jason Grimsley"
-"MON198909160",46,"Infield half way in"
-"MON198909160",60,"Debut game for Blaine Beatty"
-"MON198909190",70,"$Ozzie Smith out on appeal for missing 2B on an apparent triple"
-"MON198909250",50,"$Dave Martinez hurt"
-"MON198909270",26,"Nelson Santovenia dropped ball trying to throw"
-"MON198909270",61,"$Larry Walker injured diving for shallow fly"
+"MON198904050",67,"Debut game for Gene Harris"FILENAME_TX","LINE_NUMBER_CT"
+
+"MON198904060",44,"$Expos appeal at 1B that Andy Van SLyke missed the bag; appeal denied"1989MON.EVN.regular.comment.csv",2
+
+"MON198904060",60,"$Jim Gott left game with elbow injury"1989MON.EVN.regular.comment.csv",3
+
+"MON198905140",46,"$hit and run through vacated shortstop"1989MON.EVN.regular.comment.csv",4
+
+"MON198905160",18,"Debut game for Marty Pevey"1989MON.EVN.regular.comment.csv",5
+
+"MON198905160",50,"Debut game for Mark Gardner"1989MON.EVN.regular.comment.csv",6
+
+"MON198905190",9,"$Andres Galarraga called for interference with throw to 1B"1989MON.EVN.regular.comment.csv",7
+
+"MON198905190",48,"$Mike Scioscia's return throw to the pitcher hit the bat and went to 3B"1989MON.EVN.regular.comment.csv",8
+
+"MON198905210",46,"ej,marsm001,P,harvd901,Balls and strikes Mike Marshall ejected by HP umpire Doug Harvey"1989MON.EVN.regular.comment.csv",9
+
+"MON198906160",51,"$missed squeeze bunt, Vance Law's throw hit Tim Wallach"1989MON.EVN.regular.comment.csv",10
+
+"MON198906300",77,"Scorer missed top of 9th. Reconstructed from box score"1989MON.EVN.regular.comment.csv",11
+
+"MON198907010",36,"Missed squeeze, error on throw during rundown"1989MON.EVN.regular.comment.csv",12
+
+"MON198907190",40,"ej,smitl002,P,demud901,Fair/foul call $Smith ejected by HP umpire DeMuth for arguing his ground out was actually a foul off his leg"1989MON.EVN.regular.comment.csv",13
+
+"MON198907230",86,"$Mike Fitzgerald's throwing error after backing up 1B"1989MON.EVN.regular.comment.csv",14
+
+"MON198907290",59,"$Vince Coleman called for interference"1989MON.EVN.regular.comment.csv",15
+
+"MON198907300",17,"59 minute rain delay"1989MON.EVN.regular.comment.csv",16
+
+"MON198908150",47,"$Dave Dravecky broke his arm"1989MON.EVN.regular.comment.csv",17
+
+"MON198908160",16,"Debut game for Larry Walker"1989MON.EVN.regular.comment.csv",18
+
+"MON198908190",45,"ej,folet001,P,bonig901,Called third strike Tom Foley ejected by HP umpire Greg Bonin"1989MON.EVN.regular.comment.csv",19
+
+"MON198908210",78,"ej,rodgb102,M,hirsm901,Call at HP Expos manager Buck Rodgers ejected by HP umpire Mark Hirschbeck"1989MON.EVN.regular.comment.csv",20
+
+"MON198908220",9,"Debut game for Marquis Grissom"1989MON.EVN.regular.comment.csv",21
+
+"MON198908230",74,"ej,Youppi!,N,davib902,Banging on dugout roof [mascot] Expos mascot Youppi! ejected by 3B umpire Bob Davidson for banging on the visitor's dugout roof sometime in 11th inning"1989MON.EVN.regular.comment.csv",22
+
+"MON198908230",122,"$Larry Walker called out on appeal for leaving 3B too soon"1989MON.EVN.regular.comment.csv",23
+
+"MON198909080",1,"Debut game for Jason Grimsley"1989MON.EVN.regular.comment.csv",24
+
+"MON198909160",46,"Infield half way in"1989MON.EVN.regular.comment.csv",25
+
+"MON198909160",60,"Debut game for Blaine Beatty"1989MON.EVN.regular.comment.csv",26
+
+"MON198909190",70,"$Ozzie Smith out on appeal for missing 2B on an apparent triple"1989MON.EVN.regular.comment.csv",27
+
+"MON198909250",50,"$Dave Martinez hurt"1989MON.EVN.regular.comment.csv",28
+
+"MON198909270",26,"Nelson Santovenia dropped ball trying to throw"1989MON.EVN.regular.comment.csv",29
+
+"MON198909270",61,"$Larry Walker injured diving for shallow fly"1989MON.EVN.regular.comment.csv",30
+

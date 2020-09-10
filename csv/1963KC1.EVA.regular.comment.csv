@@ -1,75 +1,74 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"KC1196304090",0,"Debut for umpire Bill Valentine"
-"KC1196304100",54,"Bill Stafford left with strained right upper forearm"
-"KC1196304100",58,"420 feet"
-"KC1196304120",64,"Debut game for Fred Lasher"
-"KC1196304140",39,"Debut game for Dale Willis"
-"KC1196304140",57,"Debut game for Paul Ratliff"
-"KC1196304140",70,"ej,powev101,P,chyln901,Call at 1B Vic Power ejected by 1B umpire Nestor Chylak"
-"KC1196304200",21,"$lights on 6:44"
-"KC1196304200",76,"Debut game for Dave Thies"
-"KC1196304210",68,"last two plays possibly the same play"
-"KC1196304230",9,"ej,triag101,P,runge901,Called third strike Gus Triandos ejected by HP umpire Ed Runge"
-"KC1196305040",0,"1:21 rain delay before start of game"
-"KC1196305040",20,"Debut game for Jim Gosger"
-"KC1196305040",57,"game called after 60 minute rain delay"
-"KC1196306070",65,"missing play in KC1196306070"
-"KC1196306090",83,"Debut game for Ken Harrelson"
-"KC1196306100",44,"$Dan Osinski struck on pitching index finger broken earlier in year"
-"KC1196306110",24,"$Billy Moran fouled a pitch off cheekbone and was treated"
-"KC1196306230",26,"ej,cashn101,P,ricej901,Call at 1B $Cash ejected by 1B umpire Rice for arguing call at 1st"
-"KC1196307141",53,"$missed squeeze"
-"KC1196307141",84,"Steve Hamilton left with heat exhaustion"
-"KC1196307142",32,"$lights on 5:37"
-"KC1196307180",66,"ej,clinl101,P,smita901,Call at 1B ej,peskj101,M,smita901,Call at 1B Lou Clinton and Red Sox Manager Johnny Pesky ejected by 1B umpire Al Smith"
-"KC1196307180",85,"$umpires ruled a catch on the low liner, creating confusion"
-"KC1196307200",41,"$missed squeeze"
-"KC1196307210",33,"$missed squeeze"
-"KC1196308040",27,"Debut game for Don Williams"
-"KC1196308180",4,"ej,lopae101,M,hurle901,Pitcher ordered to stop warmup $Athletics manager Lopat ejected by 3B umpire Hurley when pitcher Drabowsky ordered to stop warming up because three pitches had gotten loose and came on the field"
-"KC1196308210",36,"ej,ocond101,C,hurle901,Balls and strikes $Senators coach O'Connell ejected by HP umpire Hurley for arguing balls and strikes"
-"KC1196309010",15,"missing play in KC1196309010"
-"KC1196309010",55,"Debut game for Aurelio Monteagudo"
-"KC1196309090",60,"Debut game for Dick Green"
-"KC1196309090",68,"Debut game for Jose Santiago"
-"KC1196309100",30,"$Ed Charles decoyed Roger Maris who did not slide"
-"KC1196309110",21,"420 feet"
-"KC1196309280",34,"Debut game for Bill Landis"
-"KC1196309290",1,"Debut game for John O'Donoghue"
-"KC1196304090",0,"Debut for umpire Bill Valentine"
-"KC1196304100",54,"Bill Stafford left with strained right upper forearm"
-"KC1196304100",58,"420 feet"
-"KC1196304120",64,"Debut game for Fred Lasher"
-"KC1196304140",39,"Debut game for Dale Willis"
-"KC1196304140",57,"Debut game for Paul Ratliff"
-"KC1196304140",70,"ej,powev101,P,chyln901,Call at 1B Vic Power ejected by 1B umpire Nestor Chylak"
-"KC1196304200",21,"$lights on 6:44"
-"KC1196304200",76,"Debut game for Dave Thies"
-"KC1196304210",68,"last two plays possibly the same play"
-"KC1196304230",9,"ej,triag101,P,runge901,Called third strike Gus Triandos ejected by HP umpire Ed Runge"
-"KC1196305040",0,"1:21 rain delay before start of game"
-"KC1196305040",20,"Debut game for Jim Gosger"
-"KC1196305040",57,"game called after 60 minute rain delay"
-"KC1196306070",65,"missing play in KC1196306070"
-"KC1196306090",83,"Debut game for Ken Harrelson"
-"KC1196306100",44,"$Dan Osinski struck on pitching index finger broken earlier in year"
-"KC1196306110",24,"$Billy Moran fouled a pitch off cheekbone and was treated"
-"KC1196306230",26,"ej,cashn101,P,ricej901,Call at 1B $Cash ejected by 1B umpire Rice for arguing call at 1st"
-"KC1196307141",53,"$missed squeeze"
-"KC1196307141",84,"Steve Hamilton left with heat exhaustion"
-"KC1196307142",32,"$lights on 5:37"
-"KC1196307180",66,"ej,clinl101,P,smita901,Call at 1B ej,peskj101,M,smita901,Call at 1B Lou Clinton and Red Sox Manager Johnny Pesky ejected by 1B umpire Al Smith"
-"KC1196307180",85,"$umpires ruled a catch on the low liner, creating confusion"
-"KC1196307200",41,"$missed squeeze"
-"KC1196307210",33,"$missed squeeze"
-"KC1196308040",27,"Debut game for Don Williams"
-"KC1196308180",4,"ej,lopae101,M,hurle901,Pitcher ordered to stop warmup $Athletics manager Lopat ejected by 3B umpire Hurley when pitcher Drabowsky ordered to stop warming up because three pitches had gotten loose and came on the field"
-"KC1196308210",36,"ej,ocond101,C,hurle901,Balls and strikes $Senators coach O'Connell ejected by HP umpire Hurley for arguing balls and strikes"
-"KC1196309010",15,"missing play in KC1196309010"
-"KC1196309010",55,"Debut game for Aurelio Monteagudo"
-"KC1196309090",60,"Debut game for Dick Green"
-"KC1196309090",68,"Debut game for Jose Santiago"
-"KC1196309100",30,"$Ed Charles decoyed Roger Maris who did not slide"
-"KC1196309110",21,"420 feet"
-"KC1196309280",34,"Debut game for Bill Landis"
-"KC1196309290",1,"Debut game for John O'Donoghue"
+"KC1196304090",0,"Debut for umpire Bill Valentine"FILENAME_TX","LINE_NUMBER_CT"
+
+"KC1196304100",54,"Bill Stafford left with strained right upper forearm"1963KC1.EVA.regular.comment.csv",2
+
+"KC1196304100",58,"420 feet"1963KC1.EVA.regular.comment.csv",3
+
+"KC1196304120",64,"Debut game for Fred Lasher"1963KC1.EVA.regular.comment.csv",4
+
+"KC1196304140",39,"Debut game for Dale Willis"1963KC1.EVA.regular.comment.csv",5
+
+"KC1196304140",57,"Debut game for Paul Ratliff"1963KC1.EVA.regular.comment.csv",6
+
+"KC1196304140",70,"ej,powev101,P,chyln901,Call at 1B Vic Power ejected by 1B umpire Nestor Chylak"1963KC1.EVA.regular.comment.csv",7
+
+"KC1196304200",21,"$lights on 6:44"1963KC1.EVA.regular.comment.csv",8
+
+"KC1196304200",76,"Debut game for Dave Thies"1963KC1.EVA.regular.comment.csv",9
+
+"KC1196304210",68,"last two plays possibly the same play"1963KC1.EVA.regular.comment.csv",10
+
+"KC1196304230",9,"ej,triag101,P,runge901,Called third strike Gus Triandos ejected by HP umpire Ed Runge"1963KC1.EVA.regular.comment.csv",11
+
+"KC1196305040",0,"1:21 rain delay before start of game"1963KC1.EVA.regular.comment.csv",12
+
+"KC1196305040",20,"Debut game for Jim Gosger"1963KC1.EVA.regular.comment.csv",13
+
+"KC1196305040",57,"game called after 60 minute rain delay"1963KC1.EVA.regular.comment.csv",14
+
+"KC1196306070",65,"missing play in KC1196306070"1963KC1.EVA.regular.comment.csv",15
+
+"KC1196306090",83,"Debut game for Ken Harrelson"1963KC1.EVA.regular.comment.csv",16
+
+"KC1196306100",44,"$Dan Osinski struck on pitching index finger broken earlier in year"1963KC1.EVA.regular.comment.csv",17
+
+"KC1196306110",24,"$Billy Moran fouled a pitch off cheekbone and was treated"1963KC1.EVA.regular.comment.csv",18
+
+"KC1196306230",26,"ej,cashn101,P,ricej901,Call at 1B $Cash ejected by 1B umpire Rice for arguing call at 1st"1963KC1.EVA.regular.comment.csv",19
+
+"KC1196307141",53,"$missed squeeze"1963KC1.EVA.regular.comment.csv",20
+
+"KC1196307141",84,"Steve Hamilton left with heat exhaustion"1963KC1.EVA.regular.comment.csv",21
+
+"KC1196307142",32,"$lights on 5:37"1963KC1.EVA.regular.comment.csv",22
+
+"KC1196307180",66,"ej,clinl101,P,smita901,Call at 1B ej,peskj101,M,smita901,Call at 1B Lou Clinton and Red Sox Manager Johnny Pesky ejected by 1B umpire Al Smith"1963KC1.EVA.regular.comment.csv",23
+
+"KC1196307180",85,"$umpires ruled a catch on the low liner, creating confusion"1963KC1.EVA.regular.comment.csv",24
+
+"KC1196307200",41,"$missed squeeze"1963KC1.EVA.regular.comment.csv",25
+
+"KC1196307210",33,"$missed squeeze"1963KC1.EVA.regular.comment.csv",26
+
+"KC1196308040",27,"Debut game for Don Williams"1963KC1.EVA.regular.comment.csv",27
+
+"KC1196308180",4,"ej,lopae101,M,hurle901,Pitcher ordered to stop warmup $Athletics manager Lopat ejected by 3B umpire Hurley when pitcher Drabowsky ordered to stop warming up because three pitches had gotten loose and came on the field"1963KC1.EVA.regular.comment.csv",28
+
+"KC1196308210",36,"ej,ocond101,C,hurle901,Balls and strikes $Senators coach O'Connell ejected by HP umpire Hurley for arguing balls and strikes"1963KC1.EVA.regular.comment.csv",29
+
+"KC1196309010",15,"missing play in KC1196309010"1963KC1.EVA.regular.comment.csv",30
+
+"KC1196309010",55,"Debut game for Aurelio Monteagudo"1963KC1.EVA.regular.comment.csv",31
+
+"KC1196309090",60,"Debut game for Dick Green"1963KC1.EVA.regular.comment.csv",32
+
+"KC1196309090",68,"Debut game for Jose Santiago"1963KC1.EVA.regular.comment.csv",33
+
+"KC1196309100",30,"$Ed Charles decoyed Roger Maris who did not slide"1963KC1.EVA.regular.comment.csv",34
+
+"KC1196309110",21,"420 feet"1963KC1.EVA.regular.comment.csv",35
+
+"KC1196309280",34,"Debut game for Bill Landis"1963KC1.EVA.regular.comment.csv",36
+
+"KC1196309290",1,"Debut game for John O'Donoghue"1963KC1.EVA.regular.comment.csv",37
+

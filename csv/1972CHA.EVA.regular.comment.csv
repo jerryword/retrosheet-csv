@@ -1,63 +1,62 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"CHA197204190",1,"Debut game for Don Stanhouse"
-"CHA197205100",26,"Debut game for Phil Meeler"
-"CHA197205100",58,"Debut game for Bob Strampe"
-"CHA197205200",8,"$into CF bullpen"
-"CHA197205210",19,"440 ft"
-"CHA197206020",29,"Upper deck"
-"CHA197206030",137,"$slow roller down the 3B line"
-"CHA197206041",8,"$off the upper facade in RF"
-"CHA197206042",68,"Debut game for Cy Acosta"
-"CHA197206292",37,"ej,tannc101,M,goetr901,Call at 2B White Sox Manager Chuck Tanner ejected by 2B umpire Russ Goetz"
-"CHA197207010",12,"Debut game for Glenn Borgmann"
-"CHA197207010",48,"$onto the LF roof"
-"CHA197207050",6,"Debut game for Hugh Yancy"
-"CHA197207092",69,"off the facing of the RF upper deck"
-"CHA197207220",12,"into CF bullpen"
-"CHA197207220",48,"right center field bullpen"
-"CHA197207231",44,"upper deck in RF"
-"CHA197207271",2,"345 ft"
-"CHA197207271",26,"upper deck homer"
-"CHA197207272",42,"ej,morar102,P,flahr901,Call at HP $White Sox Morales ejected by HP umpire Red Flaherty for arguing call at home; Morales held at 3rd when ball got away from catcher, but Kelly (on first) tried for 2nd and was trapped; as Kelly was tagged, Morales tried to score and was out at HP for DP"
-"CHA197207280",8,"386 ft"
-"CHA197208020",61,"Debut game for Dave Sells"
-"CHA197208020",81,"ej,riced101,M,anthm901,Called third strike Angels Manager Del Rice ejected by HP umpire Merle Anthony"
-"CHA197208202",31,"ej,lenhd101,C,nappl901,Balls and strikes Red Sox Coach Don Lenhardt ejected by HP umpire Larry Napp"
-"CHA197208230",9,"Ed Spezio left with injured hand"
-"CHA197208230",59,"into the CF bleachers"
-"CHA197209041",68,"ej,tannc101,M,neudj901,Balls and strikes $White Sox manager Tanner ejected by HP umpire Neudecker for arguing called strike to Morales"
-"CHA197209060",47,"Debut game for Rudy Hernandez"
-"CHA197209070",16,"previous two plays are one play"
-"CHA197209082",73,"Debut game for Dan Neumeier"
-"CHA197209090",1,"Debut game for Dick Lange"
-"CHA197204190",1,"Debut game for Don Stanhouse"
-"CHA197205100",26,"Debut game for Phil Meeler"
-"CHA197205100",58,"Debut game for Bob Strampe"
-"CHA197205200",8,"$into CF bullpen"
-"CHA197205210",19,"440 ft"
-"CHA197206020",29,"Upper deck"
-"CHA197206030",137,"$slow roller down the 3B line"
-"CHA197206041",8,"$off the upper facade in RF"
-"CHA197206042",68,"Debut game for Cy Acosta"
-"CHA197206292",37,"ej,tannc101,M,goetr901,Call at 2B White Sox Manager Chuck Tanner ejected by 2B umpire Russ Goetz"
-"CHA197207010",12,"Debut game for Glenn Borgmann"
-"CHA197207010",48,"$onto the LF roof"
-"CHA197207050",6,"Debut game for Hugh Yancy"
-"CHA197207092",69,"off the facing of the RF upper deck"
-"CHA197207220",12,"into CF bullpen"
-"CHA197207220",48,"right center field bullpen"
-"CHA197207231",44,"upper deck in RF"
-"CHA197207271",2,"345 ft"
-"CHA197207271",26,"upper deck homer"
-"CHA197207272",42,"ej,morar102,P,flahr901,Call at HP $White Sox Morales ejected by HP umpire Red Flaherty for arguing call at home; Morales held at 3rd when ball got away from catcher, but Kelly (on first) tried for 2nd and was trapped; as Kelly was tagged, Morales tried to score and was out at HP for DP"
-"CHA197207280",8,"386 ft"
-"CHA197208020",61,"Debut game for Dave Sells"
-"CHA197208020",81,"ej,riced101,M,anthm901,Called third strike Angels Manager Del Rice ejected by HP umpire Merle Anthony"
-"CHA197208202",31,"ej,lenhd101,C,nappl901,Balls and strikes Red Sox Coach Don Lenhardt ejected by HP umpire Larry Napp"
-"CHA197208230",9,"Ed Spezio left with injured hand"
-"CHA197208230",59,"into the CF bleachers"
-"CHA197209041",68,"ej,tannc101,M,neudj901,Balls and strikes $White Sox manager Tanner ejected by HP umpire Neudecker for arguing called strike to Morales"
-"CHA197209060",47,"Debut game for Rudy Hernandez"
-"CHA197209070",16,"previous two plays are one play"
-"CHA197209082",73,"Debut game for Dan Neumeier"
-"CHA197209090",1,"Debut game for Dick Lange"
+"CHA197204190",1,"Debut game for Don Stanhouse"FILENAME_TX","LINE_NUMBER_CT"
+
+"CHA197205100",26,"Debut game for Phil Meeler"1972CHA.EVA.regular.comment.csv",2
+
+"CHA197205100",58,"Debut game for Bob Strampe"1972CHA.EVA.regular.comment.csv",3
+
+"CHA197205200",8,"$into CF bullpen"1972CHA.EVA.regular.comment.csv",4
+
+"CHA197205210",19,"440 ft"1972CHA.EVA.regular.comment.csv",5
+
+"CHA197206020",29,"Upper deck"1972CHA.EVA.regular.comment.csv",6
+
+"CHA197206030",137,"$slow roller down the 3B line"1972CHA.EVA.regular.comment.csv",7
+
+"CHA197206041",8,"$off the upper facade in RF"1972CHA.EVA.regular.comment.csv",8
+
+"CHA197206042",68,"Debut game for Cy Acosta"1972CHA.EVA.regular.comment.csv",9
+
+"CHA197206292",37,"ej,tannc101,M,goetr901,Call at 2B White Sox Manager Chuck Tanner ejected by 2B umpire Russ Goetz"1972CHA.EVA.regular.comment.csv",10
+
+"CHA197207010",12,"Debut game for Glenn Borgmann"1972CHA.EVA.regular.comment.csv",11
+
+"CHA197207010",48,"$onto the LF roof"1972CHA.EVA.regular.comment.csv",12
+
+"CHA197207050",6,"Debut game for Hugh Yancy"1972CHA.EVA.regular.comment.csv",13
+
+"CHA197207092",69,"off the facing of the RF upper deck"1972CHA.EVA.regular.comment.csv",14
+
+"CHA197207220",12,"into CF bullpen"1972CHA.EVA.regular.comment.csv",15
+
+"CHA197207220",48,"right center field bullpen"1972CHA.EVA.regular.comment.csv",16
+
+"CHA197207231",44,"upper deck in RF"1972CHA.EVA.regular.comment.csv",17
+
+"CHA197207271",2,"345 ft"1972CHA.EVA.regular.comment.csv",18
+
+"CHA197207271",26,"upper deck homer"1972CHA.EVA.regular.comment.csv",19
+
+"CHA197207272",42,"ej,morar102,P,flahr901,Call at HP $White Sox Morales ejected by HP umpire Red Flaherty for arguing call at home; Morales held at 3rd when ball got away from catcher, but Kelly (on first) tried for 2nd and was trapped; as Kelly was tagged, Morales tried to score and was out at HP for DP"1972CHA.EVA.regular.comment.csv",20
+
+"CHA197207280",8,"386 ft"1972CHA.EVA.regular.comment.csv",21
+
+"CHA197208020",61,"Debut game for Dave Sells"1972CHA.EVA.regular.comment.csv",22
+
+"CHA197208020",81,"ej,riced101,M,anthm901,Called third strike Angels Manager Del Rice ejected by HP umpire Merle Anthony"1972CHA.EVA.regular.comment.csv",23
+
+"CHA197208202",31,"ej,lenhd101,C,nappl901,Balls and strikes Red Sox Coach Don Lenhardt ejected by HP umpire Larry Napp"1972CHA.EVA.regular.comment.csv",24
+
+"CHA197208230",9,"Ed Spezio left with injured hand"1972CHA.EVA.regular.comment.csv",25
+
+"CHA197208230",59,"into the CF bleachers"1972CHA.EVA.regular.comment.csv",26
+
+"CHA197209041",68,"ej,tannc101,M,neudj901,Balls and strikes $White Sox manager Tanner ejected by HP umpire Neudecker for arguing called strike to Morales"1972CHA.EVA.regular.comment.csv",27
+
+"CHA197209060",47,"Debut game for Rudy Hernandez"1972CHA.EVA.regular.comment.csv",28
+
+"CHA197209070",16,"previous two plays are one play"1972CHA.EVA.regular.comment.csv",29
+
+"CHA197209082",73,"Debut game for Dan Neumeier"1972CHA.EVA.regular.comment.csv",30
+
+"CHA197209090",1,"Debut game for Dick Lange"1972CHA.EVA.regular.comment.csv",31
+

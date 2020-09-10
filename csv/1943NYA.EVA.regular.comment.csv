@@ -1,53 +1,50 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"NYA194305080",80,"ej,fleta101,C,hubbc901,Balls and strikes Yankees Coach Art Fletcher ejected by HP umpire Cal Hubbard; Earle Combs moved to coach 3B and infielder Bill Knickerbocker coached 1B"
-"NYA194306201",47,"ej,wensb101,P,stewe901,Balls and strikes Butch Wensloff ejected by HP umpire Ernie Stewart for slamming his glove down after ball 3 call"
-"NYA194306202",68,"ej,hemsr101,P,weafh901,Call at HP Rollie Hemsley ejected by HP umpire Hal Weafer"
-"NYA194307170",58,"$Ball rolled into short left field and batter out advancing"
-"NYA194307170",60,"pbp account ends here, rest deduced"
-"NYA194307170",78,"ej,weatr101,P,grieb901,Arguing play in top of 9th $Weatherly had words with umpire Grieve after crossing plate. Weatherly ejected by Grieve."
-"NYA194307220",51,"$Thunderstorm delayed play for forty minutes."
-"NYA194307242",73,"pbp ends here, rest deduced"
-"NYA194307242",83,"$Tuck Stainback rounded 2B too far and was out before Snuffy Stirnweiss scored"
-"NYA194307270",77,"pbp account ends here, rest deduced"
-"NYA194307290",46,"$Game delayed for thirty-three minutes by bad weather."
-"NYA194308012",44,"Blast into the third deck in right"
-"NYA194308031",45,"$Trucks was overcome by the heat and left game"
-"NYA194308032",19,"pbp account ends here, rest deduced"
-"NYA194308280",56,"pbp ends here, rest deduced"
-"NYA194308300",35,"$Newsome's throw hit runner going to third"
-"NYA194309051",62,"$Weatherly made a dive for the short fly and missed, allowing the ball to roll to the wall for a home run"
-"NYA194309140",48,"$the throw back to the infield went into the dugout"
-"NYA194309150",24,"$Don Heffner left with Charley Horse"
-"NYA194309250",45,"pbp account ends here, rest deduced"
-"NYA194309262",87,"$Getting dark, so likely no 11th inning"
-"NYA194309270",40,"ej,cullr101,P,rue-j901,Call at 3B, ejected from bench ej,smita104,P,rue-j901,Call at 3B, ejected from bench $Cleveland players Cullenbine and Smith ejected by base umpire who reversed call on steal attempte by Stirnweiss"
-"NYA194309270",47,"ej,cullr101,CLE,rue-j901,Bench jockeying $Cullenbine was ejected from Indians bench by umpire Summers"
-"NYA194309270",59,"$Umpire Summers walked out toward CF where he had detected a fan flashing a mirror to annoy the batter"
-"NYA194309270",60,"ej,smita104,CLE,rue-j901,Bench jockeying"
-"NYA194309280",31,"$Hockett rounded 2nd too far"
-"NYA194310021",21,"$Schultz broke hand during Crosetti AB"
-"NYA194305080",80,"ej,fleta101,C,hubbc901,Balls and strikes Yankees Coach Art Fletcher ejected by HP umpire Cal Hubbard; Earle Combs moved to coach 3B and infielder Bill Knickerbocker coached 1B"
-"NYA194306201",47,"ej,wensb101,P,stewe901,Balls and strikes Butch Wensloff ejected by HP umpire Ernie Stewart for slamming his glove down after ball 3 call"
-"NYA194306202",68,"ej,hemsr101,P,weafh901,Call at HP Rollie Hemsley ejected by HP umpire Hal Weafer"
-"NYA194307170",58,"$Ball rolled into short left field and batter out advancing"
-"NYA194307170",60,"pbp account ends here, rest deduced"
-"NYA194307170",78,"ej,weatr101,P,grieb901,Arguing play in top of 9th $Weatherly had words with umpire Grieve after crossing plate. Weatherly ejected by Grieve."
-"NYA194307220",51,"$Thunderstorm delayed play for forty minutes."
-"NYA194307242",73,"pbp ends here, rest deduced"
-"NYA194307242",83,"$Tuck Stainback rounded 2B too far and was out before Snuffy Stirnweiss scored"
-"NYA194307270",77,"pbp account ends here, rest deduced"
-"NYA194307290",46,"$Game delayed for thirty-three minutes by bad weather."
-"NYA194308012",44,"Blast into the third deck in right"
-"NYA194308031",45,"$Trucks was overcome by the heat and left game"
-"NYA194308032",19,"pbp account ends here, rest deduced"
-"NYA194308280",56,"pbp ends here, rest deduced"
-"NYA194308300",35,"$Newsome's throw hit runner going to third"
-"NYA194309051",62,"$Weatherly made a dive for the short fly and missed, allowing the ball to roll to the wall for a home run"
-"NYA194309140",48,"$the throw back to the infield went into the dugout"
-"NYA194309150",24,"$Don Heffner left with Charley Horse"
-"NYA194309250",45,"pbp account ends here, rest deduced"
-"NYA194309262",87,"$Getting dark, so likely no 11th inning"
-"NYA194309270",40,"ej,cullr101,P,rue-j901,Call at 3B, ejected from bench ej,smita104,P,rue-j901,Call at 3B, ejected from bench $Cleveland players Cullenbine and Smith ejected by base umpire who reversed call on steal attempte by Stirnweiss"
-"NYA194309270",59,"$Umpire Summers walked out toward CF where he had detected a fan flashing a mirror to annoy the batter"
-"NYA194309280",31,"$Hockett rounded 2nd too far"
-"NYA194310021",21,"$Schultz broke hand during Crosetti AB"
+"NYA194305080",80,"ej,fleta101,C,hubbc901,Balls and strikes Yankees Coach Art Fletcher ejected by HP umpire Cal Hubbard; Earle Combs moved to coach 3B and infielder Bill Knickerbocker coached 1B"FILENAME_TX","LINE_NUMBER_CT"
+
+"NYA194306201",47,"ej,wensb101,P,stewe901,Balls and strikes Butch Wensloff ejected by HP umpire Ernie Stewart for slamming his glove down after ball 3 call"1943NYA.EVA.regular.comment.csv",2
+
+"NYA194306202",68,"ej,hemsr101,P,weafh901,Call at HP Rollie Hemsley ejected by HP umpire Hal Weafer"1943NYA.EVA.regular.comment.csv",3
+
+"NYA194307170",58,"$Ball rolled into short left field and batter out advancing"1943NYA.EVA.regular.comment.csv",4
+
+"NYA194307170",60,"pbp account ends here, rest deduced"1943NYA.EVA.regular.comment.csv",5
+
+"NYA194307170",78,"ej,weatr101,P,grieb901,Arguing play in top of 9th $Weatherly had words with umpire Grieve after crossing plate. Weatherly ejected by Grieve."1943NYA.EVA.regular.comment.csv",6
+
+"NYA194307220",51,"$Thunderstorm delayed play for forty minutes."1943NYA.EVA.regular.comment.csv",7
+
+"NYA194307242",73,"pbp ends here, rest deduced"1943NYA.EVA.regular.comment.csv",8
+
+"NYA194307242",83,"$Tuck Stainback rounded 2B too far and was out before Snuffy Stirnweiss scored"1943NYA.EVA.regular.comment.csv",9
+
+"NYA194307270",77,"pbp account ends here, rest deduced"1943NYA.EVA.regular.comment.csv",10
+
+"NYA194307290",46,"$Game delayed for thirty-three minutes by bad weather."1943NYA.EVA.regular.comment.csv",11
+
+"NYA194308012",44,"Blast into the third deck in right"1943NYA.EVA.regular.comment.csv",12
+
+"NYA194308031",45,"$Trucks was overcome by the heat and left game"1943NYA.EVA.regular.comment.csv",13
+
+"NYA194308032",19,"pbp account ends here, rest deduced"1943NYA.EVA.regular.comment.csv",14
+
+"NYA194308280",56,"pbp ends here, rest deduced"1943NYA.EVA.regular.comment.csv",15
+
+"NYA194308300",35,"$Newsome's throw hit runner going to third"1943NYA.EVA.regular.comment.csv",16
+
+"NYA194309051",62,"$Weatherly made a dive for the short fly and missed, allowing the ball to roll to the wall for a home run"1943NYA.EVA.regular.comment.csv",17
+
+"NYA194309140",48,"$the throw back to the infield went into the dugout"1943NYA.EVA.regular.comment.csv",18
+
+"NYA194309150",24,"$Don Heffner left with Charley Horse"1943NYA.EVA.regular.comment.csv",19
+
+"NYA194309250",45,"pbp account ends here, rest deduced"1943NYA.EVA.regular.comment.csv",20
+
+"NYA194309262",87,"$Getting dark, so likely no 11th inning"1943NYA.EVA.regular.comment.csv",21
+
+"NYA194309270",40,"ej,cullr101,P,rue-j901,Call at 3B, ejected from bench ej,smita104,P,rue-j901,Call at 3B, ejected from bench $Cleveland players Cullenbine and Smith ejected by base umpire who reversed call on steal attempte by Stirnweiss"1943NYA.EVA.regular.comment.csv",22
+
+"NYA194309270",59,"$Umpire Summers walked out toward CF where he had detected a fan flashing a mirror to annoy the batter"1943NYA.EVA.regular.comment.csv",23
+
+"NYA194309280",31,"$Hockett rounded 2nd too far"1943NYA.EVA.regular.comment.csv",24
+
+"NYA194310021",21,"$Schultz broke hand during Crosetti AB"1943NYA.EVA.regular.comment.csv",25
+

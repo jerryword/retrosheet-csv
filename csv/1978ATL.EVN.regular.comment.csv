@@ -1,51 +1,50 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"ATL197804300",63,"$Dave Rader injured as Jerry Royster scores"
-"ATL197805010",41,"ej,cox-b103,M,colon901,Bench jockeying Braves Manager Bobby Cox ejected by HP umpire Nick Colosi"
-"ATL197805270",62,"ej,ozard801,M,crawj901,Catch/trap call $disputed catch by Jeff Burroughs; Phillies Manager Danny Ozark ejected by 3B umpire Jerry Crawford; 4th ejection in 15 days"
-"ATL197805270",76,"$the pitcher started to throw to 1B but stopped when no one was at the bag"
-"ATL197805300",30,"$Ken Griffey reached over fence to rob Gary Matthews of homerun"
-"ATL197806160",21,"$Debut game for Bob Horner"
-"ATL197806180",53,"$Willie Stargell called for interference for running out of the baseline"
-"ATL197806290",49,"$Johnny Oates called out when he overslid 2B and was tagged"
-"ATL197806301",10,"$Willie McCovey's 500th HR"
-"ATL197807010",20,"ej,madlb001,P,colon901,Interference call Bill Madlock ejected by HP umpire Nick Colosi arguing the interference call"
-"ATL197807020",78,"ej,laveg001,P,davis901,Balls and strikes Gary Lavelle ejected by HP umpire Satch Davidson"
-"ATL197807070",64,"$Debut game for Broderick Perkins"
-"ATL197807140",17,"$Debut game for Glenn Hubbard"
-"ATL197807171",1,"$Debut game for Larry McWilliams"
-"ATL197807290",58,"$Debut game for Chico Ruiz"
-"ATL197807310",42,"$Pete Rose tied Willie Keeler 44-game hitting streak"
-"ATL197808010",87,"$Pete Rose 44-game hitting streak ended"
-"ATL197808250",0,"$substitute umpires worked due to a one-day strike by the staff umpires; Debut for umpires Ed Norris, Wheeler Fowler, Andy Anderson and Hank Rountree"
-"ATL197809040",3,"$Debut game for Barry Evans"
-"ATL197809040",10,"$Debut game for Jim Wilhelm"
-"ATL197809050",63,"$Debut game for Steve Mura"
-"ATL197809100",23,"ej,smitr101,P,grege901,Balls and strikes Reggie Smith ejected by HP umpire Eric Gregg during at bat"
-"ATL197809220",45,"$George Foster robbed Jerry Royster of homer"
-"ATL197809240",21,"$55 minute rain delay"
-"ATL197809270",13,"$Debut game for Hank Small"
-"ATL197804300",63,"$Dave Rader injured as Jerry Royster scores"
-"ATL197805010",41,"ej,cox-b103,M,colon901,Bench jockeying Braves Manager Bobby Cox ejected by HP umpire Nick Colosi"
-"ATL197805270",62,"ej,ozard801,M,crawj901,Catch/trap call $disputed catch by Jeff Burroughs; Phillies Manager Danny Ozark ejected by 3B umpire Jerry Crawford; 4th ejection in 15 days"
-"ATL197805270",76,"$the pitcher started to throw to 1B but stopped when no one was at the bag"
-"ATL197805300",30,"$Ken Griffey reached over fence to rob Gary Matthews of homerun"
-"ATL197806160",21,"$Debut game for Bob Horner"
-"ATL197806180",53,"$Willie Stargell called for interference for running out of the baseline"
-"ATL197806290",49,"$Johnny Oates called out when he overslid 2B and was tagged"
-"ATL197806301",10,"$Willie McCovey's 500th HR"
-"ATL197807010",20,"ej,madlb001,P,colon901,Interference call Bill Madlock ejected by HP umpire Nick Colosi arguing the interference call"
-"ATL197807020",78,"ej,laveg001,P,davis901,Balls and strikes Gary Lavelle ejected by HP umpire Satch Davidson"
-"ATL197807070",64,"$Debut game for Broderick Perkins"
-"ATL197807140",17,"$Debut game for Glenn Hubbard"
-"ATL197807171",1,"$Debut game for Larry McWilliams"
-"ATL197807290",58,"$Debut game for Chico Ruiz"
-"ATL197807310",42,"$Pete Rose tied Willie Keeler 44-game hitting streak"
-"ATL197808010",87,"$Pete Rose 44-game hitting streak ended"
-"ATL197808250",0,"$substitute umpires worked due to a one-day strike by the staff umpires; Debut for umpires Ed Norris, Wheeler Fowler, Andy Anderson and Hank Rountree"
-"ATL197809040",3,"$Debut game for Barry Evans"
-"ATL197809040",10,"$Debut game for Jim Wilhelm"
-"ATL197809050",63,"$Debut game for Steve Mura"
-"ATL197809100",23,"ej,smitr101,P,grege901,Balls and strikes Reggie Smith ejected by HP umpire Eric Gregg during at bat"
-"ATL197809220",45,"$George Foster robbed Jerry Royster of homer"
-"ATL197809240",21,"$55 minute rain delay"
-"ATL197809270",13,"$Debut game for Hank Small"
+"ATL197804300",63,"$Dave Rader injured as Jerry Royster scores"FILENAME_TX","LINE_NUMBER_CT"
+
+"ATL197805010",41,"ej,cox-b103,M,colon901,Bench jockeying Braves Manager Bobby Cox ejected by HP umpire Nick Colosi"1978ATL.EVN.regular.comment.csv",2
+
+"ATL197805270",62,"ej,ozard801,M,crawj901,Catch/trap call $disputed catch by Jeff Burroughs; Phillies Manager Danny Ozark ejected by 3B umpire Jerry Crawford; 4th ejection in 15 days"1978ATL.EVN.regular.comment.csv",3
+
+"ATL197805270",76,"$the pitcher started to throw to 1B but stopped when no one was at the bag"1978ATL.EVN.regular.comment.csv",4
+
+"ATL197805300",30,"$Ken Griffey reached over fence to rob Gary Matthews of homerun"1978ATL.EVN.regular.comment.csv",5
+
+"ATL197806160",21,"$Debut game for Bob Horner"1978ATL.EVN.regular.comment.csv",6
+
+"ATL197806180",53,"$Willie Stargell called for interference for running out of the baseline"1978ATL.EVN.regular.comment.csv",7
+
+"ATL197806290",49,"$Johnny Oates called out when he overslid 2B and was tagged"1978ATL.EVN.regular.comment.csv",8
+
+"ATL197806301",10,"$Willie McCovey's 500th HR"1978ATL.EVN.regular.comment.csv",9
+
+"ATL197807010",20,"ej,madlb001,P,colon901,Interference call Bill Madlock ejected by HP umpire Nick Colosi arguing the interference call"1978ATL.EVN.regular.comment.csv",10
+
+"ATL197807020",78,"ej,laveg001,P,davis901,Balls and strikes Gary Lavelle ejected by HP umpire Satch Davidson"1978ATL.EVN.regular.comment.csv",11
+
+"ATL197807070",64,"$Debut game for Broderick Perkins"1978ATL.EVN.regular.comment.csv",12
+
+"ATL197807140",17,"$Debut game for Glenn Hubbard"1978ATL.EVN.regular.comment.csv",13
+
+"ATL197807171",1,"$Debut game for Larry McWilliams"1978ATL.EVN.regular.comment.csv",14
+
+"ATL197807290",58,"$Debut game for Chico Ruiz"1978ATL.EVN.regular.comment.csv",15
+
+"ATL197807310",42,"$Pete Rose tied Willie Keeler 44-game hitting streak"1978ATL.EVN.regular.comment.csv",16
+
+"ATL197808010",87,"$Pete Rose 44-game hitting streak ended"1978ATL.EVN.regular.comment.csv",17
+
+"ATL197808250",0,"$substitute umpires worked due to a one-day strike by the staff umpires; Debut for umpires Ed Norris, Wheeler Fowler, Andy Anderson and Hank Rountree"1978ATL.EVN.regular.comment.csv",18
+
+"ATL197809040",3,"$Debut game for Barry Evans"1978ATL.EVN.regular.comment.csv",19
+
+"ATL197809040",10,"$Debut game for Jim Wilhelm"1978ATL.EVN.regular.comment.csv",20
+
+"ATL197809050",63,"$Debut game for Steve Mura"1978ATL.EVN.regular.comment.csv",21
+
+"ATL197809100",23,"ej,smitr101,P,grege901,Balls and strikes Reggie Smith ejected by HP umpire Eric Gregg during at bat"1978ATL.EVN.regular.comment.csv",22
+
+"ATL197809220",45,"$George Foster robbed Jerry Royster of homer"1978ATL.EVN.regular.comment.csv",23
+
+"ATL197809240",21,"$55 minute rain delay"1978ATL.EVN.regular.comment.csv",24
+
+"ATL197809270",13,"$Debut game for Hank Small"1978ATL.EVN.regular.comment.csv",25
+

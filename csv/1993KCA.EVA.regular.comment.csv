@@ -1,35 +1,34 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"KCA199304070",17,"Debut game for Phil Hiatt"
-"KCA199304080",66,"Debut game for Billy Brewer"
-"KCA199304240",71,"ej,meacr001,P,johnm901,Balls and strikes (after removal) Rusty Meacham ejected by HP umpire Mark Johnson after being removed from the game"
-"KCA199305180",17,"Debut game for Scott Lydy"
-"KCA199305220",1,"Debut game for Jim Converse"
-"KCA199306050",76,"Debut game for Angel Miranda"
-"KCA199306210",35,"ej,gagng001,P,cousd901,Call at HP (Bumped umpire) Greg Gagne ejected by HP umpire Derryl Cousins after being called out on the tag play"
-"KCA199306220",0,"ej,mcrah001,M,brinj901,Balls and strikes Royals manager Hal McRae ejected by HP umpire Joe Brinkman sometime in game"
-"KCA199306230",0,"ej,coned001,P,mcclt901,Balls and strikes ej,mcrah001,M,mcclt901,Balls and strikes David Cone and Royals manager Hal McRae ejected by HP umpire Tim McClelland sometime in game"
-"KCA199307050",70,"ej,brooh001,P,scotd901,Call at 3B Hubie Brooks ejected by 3B umpire Dale Scott"
-"KCA199307290",74,"ej,mcrab001,P,joycj901,Charging Rangers manager Kennedy after HBP ej,pattb001,P,joycj901,Intentional HBP $Bob Patterson hit Brian McRae with a retaliatory pitch after Rafael Palmeiro had been hit twice in the last few days; when Palmeiro was hit in the previous game, Rangers manager Kevin Kennedy told reporters: 'we'll take care of it tomorrow night;' after being hit, McRae ran to the Rangers bench trying to get at Kennedy"
-"KCA199308060",0,"ej,larut101,M,scotd901,Balls and strikes Athletics manager Tony LaRussa ejected by HP umpire Dale Scott sometime in game"
-"KCA199308090",0,"Debut for umpire Jeff Henrichs"
-"KCA199309120",67,"Debut game for Bob Hamelin"
-"KCA199309240",56,"game called for rain"
-"KCA199309250",65,"fan interference"
-"KCA199309280",76,"ej,hargm001,M,tscht901,Call at 3B ej,newmj001,C,tscht901,Call at 3B Indians manager Mike Hargrove and coach Jeff Newman ejected by 3B umpire Tim Tschida"
-"KCA199304070",17,"Debut game for Phil Hiatt"
-"KCA199304080",66,"Debut game for Billy Brewer"
-"KCA199304240",71,"ej,meacr001,P,johnm901,Balls and strikes (after removal) Rusty Meacham ejected by HP umpire Mark Johnson after being removed from the game"
-"KCA199305180",17,"Debut game for Scott Lydy"
-"KCA199305220",1,"Debut game for Jim Converse"
-"KCA199306050",76,"Debut game for Angel Miranda"
-"KCA199306210",35,"ej,gagng001,P,cousd901,Call at HP (Bumped umpire) Greg Gagne ejected by HP umpire Derryl Cousins after being called out on the tag play"
-"KCA199306220",50,"ej,mcrah001,M,brinj901,Balls and strikes $Royals manager McRae ejected by HP umpire Brinkman for arguing balls and strikes with Gwynn at bat"
-"KCA199306230",27,"ej,coned001,P,mcclt901,Balls and strikes ej,mcrah001,M,mcclt901,Balls and strikes $Royals Cone, not in game, and manager McRae ejected by HP umpire McClelland for arguing balls and strikes in 3rd"
-"KCA199307050",70,"ej,brooh001,P,scotd901,Call at 3B Hubie Brooks ejected by 3B umpire Dale Scott"
-"KCA199307290",74,"ej,mcrab001,P,joycj901,Charging Rangers manager Kennedy after HBP ej,pattb001,P,joycj901,Intentional HBP $Bob Patterson hit Brian McRae with a retaliatory pitch after Rafael Palmeiro had been hit twice in the last few days; when Palmeiro was hit in the previous game, Rangers manager Kevin Kennedy told reporters: 'we'll take care of it tomorrow night;' after being hit, McRae ran to the Rangers bench trying to get at Kennedy"
-"KCA199308060",39,"ej,larut101,M,scotd901,Balls and strikes $Athletics manager LaRussa ejected by HP umpire Scott for arguing balls and strikes while Hiatt was at bat"
-"KCA199308090",0,"Debut for umpire Jeff Henrichs"
-"KCA199309120",67,"Debut game for Bob Hamelin"
-"KCA199309240",56,"game called for rain"
-"KCA199309250",65,"fan interference"
-"KCA199309280",76,"ej,hargm001,M,tscht901,Call at 3B ej,newmj001,C,tscht901,Call at 3B Indians manager Mike Hargrove and coach Jeff Newman ejected by 3B umpire Tim Tschida"
+"KCA199304070",17,"Debut game for Phil Hiatt"FILENAME_TX","LINE_NUMBER_CT"
+
+"KCA199304080",66,"Debut game for Billy Brewer"1993KCA.EVA.regular.comment.csv",2
+
+"KCA199304240",71,"ej,meacr001,P,johnm901,Balls and strikes (after removal) Rusty Meacham ejected by HP umpire Mark Johnson after being removed from the game"1993KCA.EVA.regular.comment.csv",3
+
+"KCA199305180",17,"Debut game for Scott Lydy"1993KCA.EVA.regular.comment.csv",4
+
+"KCA199305220",1,"Debut game for Jim Converse"1993KCA.EVA.regular.comment.csv",5
+
+"KCA199306050",76,"Debut game for Angel Miranda"1993KCA.EVA.regular.comment.csv",6
+
+"KCA199306210",35,"ej,gagng001,P,cousd901,Call at HP (Bumped umpire) Greg Gagne ejected by HP umpire Derryl Cousins after being called out on the tag play"1993KCA.EVA.regular.comment.csv",7
+
+"KCA199306220",50,"ej,mcrah001,M,brinj901,Balls and strikes $Royals manager McRae ejected by HP umpire Brinkman for arguing balls and strikes with Gwynn at bat"1993KCA.EVA.regular.comment.csv",8
+
+"KCA199306230",27,"ej,coned001,P,mcclt901,Balls and strikes ej,mcrah001,M,mcclt901,Balls and strikes $Royals Cone, not in game, and manager McRae ejected by HP umpire McClelland for arguing balls and strikes in 3rd"1993KCA.EVA.regular.comment.csv",9
+
+"KCA199307050",70,"ej,brooh001,P,scotd901,Call at 3B Hubie Brooks ejected by 3B umpire Dale Scott"1993KCA.EVA.regular.comment.csv",10
+
+"KCA199307290",74,"ej,mcrab001,P,joycj901,Charging Rangers manager Kennedy after HBP ej,pattb001,P,joycj901,Intentional HBP $Bob Patterson hit Brian McRae with a retaliatory pitch after Rafael Palmeiro had been hit twice in the last few days; when Palmeiro was hit in the previous game, Rangers manager Kevin Kennedy told reporters: 'we'll take care of it tomorrow night;' after being hit, McRae ran to the Rangers bench trying to get at Kennedy"1993KCA.EVA.regular.comment.csv",11
+
+"KCA199308060",39,"ej,larut101,M,scotd901,Balls and strikes $Athletics manager LaRussa ejected by HP umpire Scott for arguing balls and strikes while Hiatt was at bat"1993KCA.EVA.regular.comment.csv",12
+
+"KCA199308090",0,"Debut for umpire Jeff Henrichs"1993KCA.EVA.regular.comment.csv",13
+
+"KCA199309120",67,"Debut game for Bob Hamelin"1993KCA.EVA.regular.comment.csv",14
+
+"KCA199309240",56,"game called for rain"1993KCA.EVA.regular.comment.csv",15
+
+"KCA199309250",65,"fan interference"1993KCA.EVA.regular.comment.csv",16
+
+"KCA199309280",76,"ej,hargm001,M,tscht901,Call at 3B ej,newmj001,C,tscht901,Call at 3B Indians manager Mike Hargrove and coach Jeff Newman ejected by 3B umpire Tim Tschida"1993KCA.EVA.regular.comment.csv",17
+

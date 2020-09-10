@@ -1,15 +1,14 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"CLE199510030",0,"Start of game delayed 39 minutes by rain"
-"CLE199510030",58,"23 minute rain delay before Plunk can warm up"
-"CLE199510030",59,"Sorrento throws into outfield; Lofton misses pickup"
-"CLE199510030",80,"Vaughn drops DP relay from Alicea!"
-"CLE199510030",87,"Red Sox have Belle's bat confiscated for a cork check!"
-"CLE199510030",91,"Aguilera hurts leg due to slippage on wet mound."
-"CLE199510040",0,"Temperature in 40s in late innings"
-"CLE199510030",0,"Start of game delayed 39 minutes by rain"
-"CLE199510030",58,"23 minute rain delay before Plunk can warm up"
-"CLE199510030",59,"Sorrento throws into outfield; Lofton misses pickup"
-"CLE199510030",80,"Vaughn drops DP relay from Alicea!"
-"CLE199510030",87,"Red Sox have Belle's bat confiscated for a cork check!"
-"CLE199510030",91,"Aguilera hurts leg due to slippage on wet mound."
-"CLE199510040",0,"Temperature in 40s in late innings"
+"CLE199510030",0,"Start of game delayed 39 minutes by rain"FILENAME_TX","LINE_NUMBER_CT"
+
+"CLE199510030",58,"23 minute rain delay before Plunk can warm up"1995ALD1.EVE.post.comment.csv",2
+
+"CLE199510030",59,"Sorrento throws into outfield; Lofton misses pickup"1995ALD1.EVE.post.comment.csv",3
+
+"CLE199510030",80,"Vaughn drops DP relay from Alicea!"1995ALD1.EVE.post.comment.csv",4
+
+"CLE199510030",87,"Red Sox have Belle's bat confiscated for a cork check!"1995ALD1.EVE.post.comment.csv",5
+
+"CLE199510030",91,"Aguilera hurts leg due to slippage on wet mound."1995ALD1.EVE.post.comment.csv",6
+
+"CLE199510040",0,"Temperature in 40s in late innings"1995ALD1.EVE.post.comment.csv",7
+

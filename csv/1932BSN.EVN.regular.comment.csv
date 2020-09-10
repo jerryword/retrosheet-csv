@@ -1,55 +1,54 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"BSN193204220",52,"missing bottom 6 in BSN193204220"
-"BSN193204220",68,"$Joe Stripp and Art Shires collided; Shires carried off the field"
-"BSN193205240",79,"bunt down the 3B line with Lopez run down between 1st and 2nd, Hargrave to Akers.  Possible other player(s) involved"
-"BSN193205302",78,"$Koenecke in rundown and catcher hit him with throw"
-"BSN193205310",31,"$throw to 1B hit Ed Brandt on the back"
-"BSN193206052",4,"$Terry had to leave the game with a cramped left leg"
-"BSN193206052",12,"$Worthington's hit ricocheted off Schumacher's hand"
-"BSN193206052",75,"$Koenecke's line drive hit Shires' knee, forcing him to leave the game"
-"BSN193206150",49,"$Meine came to plate to talk to catcher and was hit in face by practice swing of Schulmerich; Meine remained in game, but left for pinch-hitter next inning"
-"BSN193206150",51,"$Maranville collided with pitcher at 1st and was awarded 2nd base on obstruction; during this appearance, Maranville was hit by slow pitch, but umpire ruled he not try to avoid it and called it a ball"
-"BSN193206181",3,"Possibly a bunt."
-"BSN193206181",63,"Intentional walk per Pittsburgh Press."
-"BSN193206190",61,"$Casper Asbjornson out on appeal for missing 2B"
-"BSN193206200",34,"$Art Shires left with injured right foot"
-"BSN193206230",88,"ej,carem101,M,barrg901,Call at 1B ej,mungv101,P,barrg901,Call at 1B Dodgers Manager Max Carey and Van Mungo ejected by 1B umpire George Barr"
-"BSN193206240",1,"ej,fredj101,P,morac102,Bench jockeying Johnny Frederick ejected by 1B umpire Charlie Moran"
-"BSN193206280",64,"$Phils forgot to ask for time before having mound conference."
-"BSN193207260",69,"rest deduced"
-"BSN193207272",78,"pbp account ends here, rest deduced"
-"BSN193209051",54,"Ball landed in last rows of bleachers."
-"BSN193209051",70,"Ball hit completely out of park onto B&A railroad tracks."
-"BSN193209140",32,"great catch"
-"BSN193209140",40,"3-2 count"
-"BSN193209140",44,"great catch"
-"BSN193209140",60,"bounder"
-"BSN193209140",71,"3 pitches"
-"BSN193209140",72,"3 pitches"
-"BSN193204220",52,"missing bottom 6 in BSN193204220"
-"BSN193204220",68,"$Joe Stripp and Art Shires collided; Shires carried off the field"
-"BSN193205240",79,"bunt down the 3B line with Lopez run down between 1st and 2nd, Hargrave to Akers.  Possible other player(s) involved"
-"BSN193205302",78,"$Koenecke in rundown and catcher hit him with throw"
-"BSN193205310",31,"$throw to 1B hit Ed Brandt on the back"
-"BSN193206052",4,"$Terry had to leave the game with a cramped left leg"
-"BSN193206052",12,"$Worthington's hit ricocheted off Schumacher's hand"
-"BSN193206052",75,"$Koenecke's line drive hit Shires' knee, forcing him to leave the game"
-"BSN193206150",49,"$Meine came to plate to talk to catcher and was hit in face by practice swing of Schulmerich; Meine remained in game, but left for pinch-hitter next inning"
-"BSN193206150",51,"$Maranville collided with pitcher at 1st and was awarded 2nd base on obstruction; during this appearance, Maranville was hit by slow pitch, but umpire ruled he not try to avoid it and called it a ball"
-"BSN193206181",3,"Possibly a bunt."
-"BSN193206181",63,"Intentional walk per Pittsburgh Press."
-"BSN193206190",61,"$Casper Asbjornson out on appeal for missing 2B"
-"BSN193206200",34,"$Art Shires left with injured right foot"
-"BSN193206230",88,"ej,carem101,M,barrg901,Call at 1B ej,mungv101,P,barrg901,Call at 1B Dodgers Manager Max Carey and Van Mungo ejected by 1B umpire George Barr"
-"BSN193206240",1,"ej,fredj101,P,morac102,Bench jockeying Johnny Frederick ejected by 1B umpire Charlie Moran"
-"BSN193206280",64,"$Phils forgot to ask for time before having mound conference."
-"BSN193207260",69,"rest deduced"
-"BSN193207272",78,"pbp account ends here, rest deduced"
-"BSN193209051",54,"Ball landed in last rows of bleachers."
-"BSN193209051",70,"Ball hit completely out of park onto B&A railroad tracks."
-"BSN193209140",32,"great catch"
-"BSN193209140",40,"3-2 count"
-"BSN193209140",44,"great catch"
-"BSN193209140",60,"bounder"
-"BSN193209140",71,"3 pitches"
-"BSN193209140",72,"3 pitches"
+"BSN193204220",52,"missing bottom 6 in BSN193204220"FILENAME_TX","LINE_NUMBER_CT"
+
+"BSN193204220",68,"$Joe Stripp and Art Shires collided; Shires carried off the field"1932BSN.EVN.regular.comment.csv",2
+
+"BSN193205240",79,"bunt down the 3B line with Lopez run down between 1st and 2nd, Hargrave to Akers.  Possible other player(s) involved"1932BSN.EVN.regular.comment.csv",3
+
+"BSN193205302",78,"$Koenecke in rundown and catcher hit him with throw"1932BSN.EVN.regular.comment.csv",4
+
+"BSN193205310",31,"$throw to 1B hit Ed Brandt on the back"1932BSN.EVN.regular.comment.csv",5
+
+"BSN193206052",4,"$Terry had to leave the game with a cramped left leg"1932BSN.EVN.regular.comment.csv",6
+
+"BSN193206052",12,"$Worthington's hit ricocheted off Schumacher's hand"1932BSN.EVN.regular.comment.csv",7
+
+"BSN193206052",75,"$Koenecke's line drive hit Shires' knee, forcing him to leave the game"1932BSN.EVN.regular.comment.csv",8
+
+"BSN193206150",49,"$Meine came to plate to talk to catcher and was hit in face by practice swing of Schulmerich; Meine remained in game, but left for pinch-hitter next inning"1932BSN.EVN.regular.comment.csv",9
+
+"BSN193206150",51,"$Maranville collided with pitcher at 1st and was awarded 2nd base on obstruction; during this appearance, Maranville was hit by slow pitch, but umpire ruled he not try to avoid it and called it a ball"1932BSN.EVN.regular.comment.csv",10
+
+"BSN193206181",3,"Possibly a bunt."1932BSN.EVN.regular.comment.csv",11
+
+"BSN193206181",63,"Intentional walk per Pittsburgh Press."1932BSN.EVN.regular.comment.csv",12
+
+"BSN193206190",61,"$Casper Asbjornson out on appeal for missing 2B"1932BSN.EVN.regular.comment.csv",13
+
+"BSN193206200",34,"$Art Shires left with injured right foot"1932BSN.EVN.regular.comment.csv",14
+
+"BSN193206230",88,"ej,carem101,M,barrg901,Call at 1B ej,mungv101,P,barrg901,Call at 1B Dodgers Manager Max Carey and Van Mungo ejected by 1B umpire George Barr"1932BSN.EVN.regular.comment.csv",15
+
+"BSN193206240",1,"ej,fredj101,P,morac102,Bench jockeying Johnny Frederick ejected by 1B umpire Charlie Moran"1932BSN.EVN.regular.comment.csv",16
+
+"BSN193206280",64,"$Phils forgot to ask for time before having mound conference."1932BSN.EVN.regular.comment.csv",17
+
+"BSN193207260",69,"rest deduced"1932BSN.EVN.regular.comment.csv",18
+
+"BSN193207272",78,"pbp account ends here, rest deduced"1932BSN.EVN.regular.comment.csv",19
+
+"BSN193209051",54,"Ball landed in last rows of bleachers."1932BSN.EVN.regular.comment.csv",20
+
+"BSN193209051",70,"Ball hit completely out of park onto B&A railroad tracks."1932BSN.EVN.regular.comment.csv",21
+
+"BSN193209140",32,"great catch"1932BSN.EVN.regular.comment.csv",22
+
+"BSN193209140",40,"3-2 count"1932BSN.EVN.regular.comment.csv",23
+
+"BSN193209140",44,"great catch"1932BSN.EVN.regular.comment.csv",24
+
+"BSN193209140",60,"bounder"1932BSN.EVN.regular.comment.csv",25
+
+"BSN193209140",71,"3 pitches"1932BSN.EVN.regular.comment.csv",26
+
+"BSN193209140",72,"3 pitches"1932BSN.EVN.regular.comment.csv",27
+

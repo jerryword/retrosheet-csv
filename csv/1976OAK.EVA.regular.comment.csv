@@ -1,41 +1,40 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"OAK197604190",37,"missing play in OAK197604190"
-"OAK197604200",52,"missing play in OAK197604200"
-"OAK197604200",83,"Debut game for Mark Fidrych"
-"OAK197605030",31,"ej,bayld001,P,dimul901,Call at 1B ej,ecked001,P,garcr901,Balls and strikes ej,robif103,M,garcr901,Balls and strikes $Dennis Eckersley and Indians Manager Frank Robinson ejected by HP umpire Rich Garcia; Baylor ejected by 1B umpire DiMuro at same time for arguing that he was safe at 1st"
-"OAK197605150",94,"$Lenney Randle was hung between 2B and 3B as Mike Hargrove reached 2B: Randle headed to 3B and Bert Campaneris' throw eluded Sal Bando"
-"OAK197606010",20,"410ft"
-"OAK197606200",30,"ej,tannc101,M,bremn901,Balls and strikes $Athletics manager Tanner ejected by HP umpire Bremigan for arguing balls and strikes on Yount before he double"
-"OAK197607070",0,"Protest=V"
-"OAK197607070",69,"$Earl Weaver protested game claiming Joe Rudi interferred with Rick Dempsey trying to field the bunt"
-"OAK197608082",28,"$Jerry Remy called for interference for running out of the base path"
-"OAK197608290",69,"Aurelio Rodriguez left with unknown injury"
-"OAK197609080",40,"$Chet Lemon left with unknown injury"
-"OAK197609191",66,"Debut game for Chris Batton"
-"OAK197609270",0,"1:07 rain delay before start of game"
-"OAK197609270",52,"400' HR"
-"OAK197609270",53,"ej,bayld001,P,hallb901,Charging mound $Don Baylor charged the mound; pitcher Dennis Leonard backed off and George Brett stepped in; Baylor knocked Brett down with a right handed punch; Baylor ejected by HP umpire Bill Haller"
-"OAK197609270",54,"$Steve Mingori left with injury"
-"OAK197609280",0,"1:02 rain delay before start of game"
-"OAK197609280",49,"380' HR"
-"OAK197609290",34,"380' HR"
-"OAK197604190",37,"missing play in OAK197604190"
-"OAK197604200",52,"missing play in OAK197604200"
-"OAK197604200",83,"Debut game for Mark Fidrych"
-"OAK197605030",31,"ej,bayld001,P,dimul901,Call at 1B ej,ecked001,P,garcr901,Balls and strikes ej,robif103,M,garcr901,Balls and strikes $Dennis Eckersley and Indians Manager Frank Robinson ejected by HP umpire Rich Garcia; Baylor ejected by 1B umpire DiMuro at same time for arguing that he was safe at 1st"
-"OAK197605150",94,"$Lenney Randle was hung between 2B and 3B as Mike Hargrove reached 2B: Randle headed to 3B and Bert Campaneris' throw eluded Sal Bando"
-"OAK197606010",20,"410ft"
-"OAK197606200",30,"ej,tannc101,M,bremn901,Balls and strikes $Athletics manager Tanner ejected by HP umpire Bremigan for arguing balls and strikes on Yount before he double"
-"OAK197607070",0,"Protest=V"
-"OAK197607070",69,"$Earl Weaver protested game claiming Joe Rudi interferred with Rick Dempsey trying to field the bunt"
-"OAK197608082",28,"$Jerry Remy called for interference for running out of the base path"
-"OAK197608290",69,"Aurelio Rodriguez left with unknown injury"
-"OAK197609080",40,"$Chet Lemon left with unknown injury"
-"OAK197609191",66,"Debut game for Chris Batton"
-"OAK197609270",0,"1:07 rain delay before start of game"
-"OAK197609270",52,"400' HR"
-"OAK197609270",53,"ej,bayld001,P,hallb901,Charging mound $Don Baylor charged the mound; pitcher Dennis Leonard backed off and George Brett stepped in; Baylor knocked Brett down with a right handed punch; Baylor ejected by HP umpire Bill Haller"
-"OAK197609270",54,"$Steve Mingori left with injury"
-"OAK197609280",0,"1:02 rain delay before start of game"
-"OAK197609280",49,"380' HR"
-"OAK197609290",34,"380' HR"
+"OAK197604190",37,"missing play in OAK197604190"FILENAME_TX","LINE_NUMBER_CT"
+
+"OAK197604200",52,"missing play in OAK197604200"1976OAK.EVA.regular.comment.csv",2
+
+"OAK197604200",83,"Debut game for Mark Fidrych"1976OAK.EVA.regular.comment.csv",3
+
+"OAK197605030",31,"ej,bayld001,P,dimul901,Call at 1B ej,ecked001,P,garcr901,Balls and strikes ej,robif103,M,garcr901,Balls and strikes $Dennis Eckersley and Indians Manager Frank Robinson ejected by HP umpire Rich Garcia; Baylor ejected by 1B umpire DiMuro at same time for arguing that he was safe at 1st"1976OAK.EVA.regular.comment.csv",4
+
+"OAK197605150",94,"$Lenney Randle was hung between 2B and 3B as Mike Hargrove reached 2B: Randle headed to 3B and Bert Campaneris' throw eluded Sal Bando"1976OAK.EVA.regular.comment.csv",5
+
+"OAK197606010",20,"410ft"1976OAK.EVA.regular.comment.csv",6
+
+"OAK197606200",30,"ej,tannc101,M,bremn901,Balls and strikes $Athletics manager Tanner ejected by HP umpire Bremigan for arguing balls and strikes on Yount before he double"1976OAK.EVA.regular.comment.csv",7
+
+"OAK197607070",0,"Protest=V"1976OAK.EVA.regular.comment.csv",8
+
+"OAK197607070",69,"$Earl Weaver protested game claiming Joe Rudi interferred with Rick Dempsey trying to field the bunt"1976OAK.EVA.regular.comment.csv",9
+
+"OAK197608082",28,"$Jerry Remy called for interference for running out of the base path"1976OAK.EVA.regular.comment.csv",10
+
+"OAK197608290",69,"Aurelio Rodriguez left with unknown injury"1976OAK.EVA.regular.comment.csv",11
+
+"OAK197609080",40,"$Chet Lemon left with unknown injury"1976OAK.EVA.regular.comment.csv",12
+
+"OAK197609191",66,"Debut game for Chris Batton"1976OAK.EVA.regular.comment.csv",13
+
+"OAK197609270",0,"1:07 rain delay before start of game"1976OAK.EVA.regular.comment.csv",14
+
+"OAK197609270",52,"400' HR"1976OAK.EVA.regular.comment.csv",15
+
+"OAK197609270",53,"ej,bayld001,P,hallb901,Charging mound $Don Baylor charged the mound; pitcher Dennis Leonard backed off and George Brett stepped in; Baylor knocked Brett down with a right handed punch; Baylor ejected by HP umpire Bill Haller"1976OAK.EVA.regular.comment.csv",16
+
+"OAK197609270",54,"$Steve Mingori left with injury"1976OAK.EVA.regular.comment.csv",17
+
+"OAK197609280",0,"1:02 rain delay before start of game"1976OAK.EVA.regular.comment.csv",18
+
+"OAK197609280",49,"380' HR"1976OAK.EVA.regular.comment.csv",19
+
+"OAK197609290",34,"380' HR"1976OAK.EVA.regular.comment.csv",20
+

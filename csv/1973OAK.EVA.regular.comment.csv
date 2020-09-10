@@ -1,49 +1,48 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"OAK197304220",42,"missing fielding in OAK197304220"
-"OAK197304220",51,"missing fielding in OAK197304220"
-"OAK197304250",62,"ej,asprk101,M,odomj901,Interference non-call $Indians manager Aspromonte ejected by HP umpire Odom for arguing Campaneris had interferred with catcher on stolen base"
-"OAK197305180",77,"ej,nortb101,P,denkd901,Fighting (Charged mound) $Bill North ducked an inside pitch, threw his bat at Doug Bird and then charged the mound; North ejected by HP umpire Don Denkinger"
-"OAK197306170",60,"ej,willd104,M,evanj901,Fair/foul call $Sal Bando fielded Rico Petrocelli's ground near the line amd thought it was foul; 3B umpire Jim Evans ruled it fair; Bando argued briefly until Athletics Manager Dick Williams came onto the field; Williams ejected by Evans"
-"OAK197306280",0,"Protest=H"
-"OAK197306280",15,"Debut game for Manny Trillo"
-"OAK197306280",17,"$Athletics Manager Dick Williams protested the game, claiming that a balk should have been called on Steve Busby"
-"OAK197306280",46,"$Deron Johnson called for interference"
-"OAK197306290",47,"Bill Melton left with sore leg"
-"OAK197307160",58,"Debut game for Don Hood"
-"OAK197307292",1,"Debut game for Glenn Abbott"
-"OAK197307292",14,"ej,fregj101,P,umonf901,Fair/foul call Jim Fregosi ejected by 3B umpire Frank Umont"
-"OAK197307292",62,"ej,herzw101,M,barnl901,Call at HP Rangers Manager Whitey Herzog ejected by HP umpire Larry Barnett"
-"OAK197308250",5,"ej,whitr101,P,odomj901,Catch/no catch call Roy White ejected by 2B umpire Jim Odom"
-"OAK197308280",38,"missed squeeze play"
-"OAK197309100",30,"$John Mayberry reached into stands"
-"OAK197309100",68,"Debut game for Phil Garner"
-"OAK197309120",21,"385' HR"
-"OAK197309120",60,"410' HR"
-"OAK197309160",35,"missing play in OAK197309160 need WP, PB or error"
-"OAK197309280",39,"Vida Blue hit on left shoulder by line drive"
-"OAK197309280",42,"Luis Alvarado missed 2B bag"
-"OAK197309290",67,"E6 occurs before E5"
-"OAK197304220",42,"missing fielding in OAK197304220"
-"OAK197304220",51,"missing fielding in OAK197304220"
-"OAK197304250",62,"ej,asprk101,M,odomj901,Interference non-call $Indians manager Aspromonte ejected by HP umpire Odom for arguing Campaneris had interferred with catcher on stolen base"
-"OAK197305180",77,"ej,nortb101,P,denkd901,Fighting (Charged mound) $Bill North ducked an inside pitch, threw his bat at Doug Bird and then charged the mound; North ejected by HP umpire Don Denkinger"
-"OAK197306170",60,"ej,willd104,M,evanj901,Fair/foul call $Sal Bando fielded Rico Petrocelli's ground near the line amd thought it was foul; 3B umpire Jim Evans ruled it fair; Bando argued briefly until Athletics Manager Dick Williams came onto the field; Williams ejected by Evans"
-"OAK197306280",0,"Protest=H"
-"OAK197306280",15,"Debut game for Manny Trillo"
-"OAK197306280",17,"$Athletics Manager Dick Williams protested the game, claiming that a balk should have been called on Steve Busby"
-"OAK197306280",46,"$Deron Johnson called for interference"
-"OAK197306290",47,"Bill Melton left with sore leg"
-"OAK197307160",58,"Debut game for Don Hood"
-"OAK197307292",1,"Debut game for Glenn Abbott"
-"OAK197307292",14,"ej,fregj101,P,umonf901,Fair/foul call Jim Fregosi ejected by 3B umpire Frank Umont"
-"OAK197307292",62,"ej,herzw101,M,barnl901,Call at HP Rangers Manager Whitey Herzog ejected by HP umpire Larry Barnett"
-"OAK197308250",5,"ej,whitr101,P,odomj901,Catch/no catch call Roy White ejected by 2B umpire Jim Odom"
-"OAK197308280",38,"missed squeeze play"
-"OAK197309100",30,"$John Mayberry reached into stands"
-"OAK197309100",68,"Debut game for Phil Garner"
-"OAK197309120",21,"385' HR"
-"OAK197309120",60,"410' HR"
-"OAK197309160",35,"missing play in OAK197309160 need WP, PB or error"
-"OAK197309280",39,"Vida Blue hit on left shoulder by line drive"
-"OAK197309280",42,"Luis Alvarado missed 2B bag"
-"OAK197309290",67,"E6 occurs before E5"
+"OAK197304220",42,"missing fielding in OAK197304220"FILENAME_TX","LINE_NUMBER_CT"
+
+"OAK197304220",51,"missing fielding in OAK197304220"1973OAK.EVA.regular.comment.csv",2
+
+"OAK197304250",62,"ej,asprk101,M,odomj901,Interference non-call $Indians manager Aspromonte ejected by HP umpire Odom for arguing Campaneris had interferred with catcher on stolen base"1973OAK.EVA.regular.comment.csv",3
+
+"OAK197305180",77,"ej,nortb101,P,denkd901,Fighting (Charged mound) $Bill North ducked an inside pitch, threw his bat at Doug Bird and then charged the mound; North ejected by HP umpire Don Denkinger"1973OAK.EVA.regular.comment.csv",4
+
+"OAK197306170",60,"ej,willd104,M,evanj901,Fair/foul call $Sal Bando fielded Rico Petrocelli's ground near the line amd thought it was foul; 3B umpire Jim Evans ruled it fair; Bando argued briefly until Athletics Manager Dick Williams came onto the field; Williams ejected by Evans"1973OAK.EVA.regular.comment.csv",5
+
+"OAK197306280",0,"Protest=H"1973OAK.EVA.regular.comment.csv",6
+
+"OAK197306280",15,"Debut game for Manny Trillo"1973OAK.EVA.regular.comment.csv",7
+
+"OAK197306280",17,"$Athletics Manager Dick Williams protested the game, claiming that a balk should have been called on Steve Busby"1973OAK.EVA.regular.comment.csv",8
+
+"OAK197306280",46,"$Deron Johnson called for interference"1973OAK.EVA.regular.comment.csv",9
+
+"OAK197306290",47,"Bill Melton left with sore leg"1973OAK.EVA.regular.comment.csv",10
+
+"OAK197307160",58,"Debut game for Don Hood"1973OAK.EVA.regular.comment.csv",11
+
+"OAK197307292",1,"Debut game for Glenn Abbott"1973OAK.EVA.regular.comment.csv",12
+
+"OAK197307292",14,"ej,fregj101,P,umonf901,Fair/foul call Jim Fregosi ejected by 3B umpire Frank Umont"1973OAK.EVA.regular.comment.csv",13
+
+"OAK197307292",62,"ej,herzw101,M,barnl901,Call at HP Rangers Manager Whitey Herzog ejected by HP umpire Larry Barnett"1973OAK.EVA.regular.comment.csv",14
+
+"OAK197308250",5,"ej,whitr101,P,odomj901,Catch/no catch call Roy White ejected by 2B umpire Jim Odom"1973OAK.EVA.regular.comment.csv",15
+
+"OAK197308280",38,"missed squeeze play"1973OAK.EVA.regular.comment.csv",16
+
+"OAK197309100",30,"$John Mayberry reached into stands"1973OAK.EVA.regular.comment.csv",17
+
+"OAK197309100",68,"Debut game for Phil Garner"1973OAK.EVA.regular.comment.csv",18
+
+"OAK197309120",21,"385' HR"1973OAK.EVA.regular.comment.csv",19
+
+"OAK197309120",60,"410' HR"1973OAK.EVA.regular.comment.csv",20
+
+"OAK197309160",35,"missing play in OAK197309160 need WP, PB or error"1973OAK.EVA.regular.comment.csv",21
+
+"OAK197309280",39,"Vida Blue hit on left shoulder by line drive"1973OAK.EVA.regular.comment.csv",22
+
+"OAK197309280",42,"Luis Alvarado missed 2B bag"1973OAK.EVA.regular.comment.csv",23
+
+"OAK197309290",67,"E6 occurs before E5"1973OAK.EVA.regular.comment.csv",24
+

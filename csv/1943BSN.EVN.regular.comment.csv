@@ -1,61 +1,60 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"BSN194304240",16,"$Johnny Rucker neglected to wear sunglasses and the ball struck him on the head when he lost it is the sun"
-"BSN194304240",27,"$the line drive struck Al Javery on the forehead"
-"BSN194304250",38,"$Ross interferes with Witek and is called out"
-"BSN194305051",21,"$Billy Jurges kept running, thinking that there were two out"
-"BSN194305052",52,"$Cuccinello fumbles likely double play ball"
-"BSN194305080",55,"$Dodgers manager Leo Durocher yelled about a called ball to Eddie Joost"
-"BSN194305080",56,"$Dodgers manager Leo Durocher continued to yell at HP umpire Babe Pinelli"
-"BSN194305080",57,"ej,durol101,M,pineb101,Delay sending up a pinch-hitter Dodgers Manager Leo Durocher ejected by HP umpire Babe Pinelli; Durocher failed to tell Pinelli about the substitution; Bordagaray signalled but Durocher yelled at the umpire"
-"BSN194305231",14,"$Goodman hurt leg on collision at plate and left game two innings later"
-"BSN194305231",58,"ej,joose101,P,conlj102,Balls and strikes (kicked dirt) $Joost ejected by HP umpire Conlan's for arguing strike 3 and kicking dirt on umpire's pants"
-"BSN194305232",62,"ej,cavap101,P,jordl901,Call at 1B (Pushed umpire) $The throw bounced against the boxes and was recovered by Cavarretta, who tagged Ryan, contending the base runner had turned toward second with the overthrow. Umpire Lou Jorda ruled Ryan had not turned, which so excited Cavarretta that Eddie Stanky had to tackle him as he charged Jorda; Cavarretta was chased."
-"BSN194306180",0,"$Stengel returns as Boston manager after leg injury in spring."
-"BSN194306180",58,"pbp account ends here, rest deduced"
-"BSN194306190",16,"$Batter caught rounding first base too far"
-"BSN194307030",0,"$the Pirates arrived 30 minutes before game time due to a train delay"
-"BSN194307030",4,"$Al Javery: 5 pitches"
-"BSN194307030",61,"$Frank Colman fell down and left with a shoulder injury"
-"BSN194307071",13,"$Eddie Miller stopped at 2B but was awarded 3B when Connie Ryan was charged with obstruction; no error charged"
-"BSN194307112",17,"$25 minute rain delay"
-"BSN194307160",23,"ej,higbk101,P,stewb901,Balls and strikes (Threw glove) Kirby Higbe ejected by HP umpire Bill Stewart"
-"BSN194307182",0,"Suspend=19430913,,4,4,34"
-"BSN194307182",55,"umpchange,6,umphp,goetl901 umpchange,6,ump1b,balll901 umpchange,6,ump3b,rearb901 suspended,19430913,BOS08,curfew $game suspended due to 5:00pm curfew; completed 9/13 with new umpires"
-"BSN194308111",34,"$Phil Masi rounded 2B too far"
-"BSN194308140",54,"ej,passc101,P,rearb901,Call at 1B $Passeau ejected for arguing call at first base"
-"BSN194308140",56,"ej,livim101,P,rearb901,Call at 1B $Livingston ejected by Reardon for continuing the arguement"
-"BSN194308171",72,"$Bob Elliott left with pulled leg muscle"
-"BSN194308171",74,"guess on assists"
-"BSN194308210",46,"$Braves manager Casey Stengel could not come out of the dugout to argue because of a broken leg; he waived his crutches at 1B umpire Jocko Conlan"
-"BSN194308280",63,"$Van Mungo out at HP but the run counted when Heinie Heltzel called for obstruction; no error charged"
-"BSN194309162",1,"Scratch hit"
-"BSN194304240",16,"$Johnny Rucker neglected to wear sunglasses and the ball struck him on the head when he lost it is the sun"
-"BSN194304240",27,"$the line drive struck Al Javery on the forehead"
-"BSN194304250",38,"$Ross interferes with Witek and is called out"
-"BSN194305051",21,"$Billy Jurges kept running, thinking that there were two out"
-"BSN194305052",52,"$Cuccinello fumbles likely double play ball"
-"BSN194305080",55,"$Dodgers manager Leo Durocher yelled about a called ball to Eddie Joost"
-"BSN194305080",56,"$Dodgers manager Leo Durocher continued to yell at HP umpire Babe Pinelli"
-"BSN194305080",57,"ej,durol101,M,pineb101,Delay sending up a pinch-hitter Dodgers Manager Leo Durocher ejected by HP umpire Babe Pinelli; Durocher failed to tell Pinelli about the substitution; Bordagaray signalled but Durocher yelled at the umpire"
-"BSN194305231",14,"$Goodman hurt leg on collision at plate and left game two innings later"
-"BSN194305231",58,"ej,joose101,P,conlj102,Balls and strikes (kicked dirt) $Joost ejected by HP umpire Conlan's for arguing strike 3 and kicking dirt on umpire's pants"
-"BSN194305232",62,"ej,cavap101,P,jordl901,Call at 1B (Pushed umpire) $The throw bounced against the boxes and was recovered by Cavarretta, who tagged Ryan, contending the base runner had turned toward second with the overthrow. Umpire Lou Jorda ruled Ryan had not turned, which so excited Cavarretta that Eddie Stanky had to tackle him as he charged Jorda; Cavarretta was chased."
-"BSN194306180",0,"$Stengel returns as Boston manager after leg injury in spring."
-"BSN194306180",58,"pbp account ends here, rest deduced"
-"BSN194306190",16,"$Batter caught rounding first base too far"
-"BSN194307030",0,"$the Pirates arrived 30 minutes before game time due to a train delay"
-"BSN194307030",4,"$Al Javery: 5 pitches"
-"BSN194307030",61,"$Frank Colman fell down and left with a shoulder injury"
-"BSN194307071",13,"$Eddie Miller stopped at 2B but was awarded 3B when Connie Ryan was charged with obstruction; no error charged"
-"BSN194307112",17,"$25 minute rain delay"
-"BSN194307160",23,"ej,higbk101,P,stewb901,Balls and strikes (Threw glove) Kirby Higbe ejected by HP umpire Bill Stewart"
-"BSN194307182",0,"Suspend=19430913,,4,4,34"
-"BSN194307182",55,"umpchange,6,umphp,goetl901 umpchange,6,ump1b,balll901 umpchange,6,ump3b,rearb901 suspended,19430913,BOS08,curfew $game suspended due to 5:00pm curfew; completed 9/13 with new umpires"
-"BSN194308111",34,"$Phil Masi rounded 2B too far"
-"BSN194308140",54,"ej,passc101,P,rearb901,Call at 1B $Passeau ejected for arguing call at first base"
-"BSN194308140",56,"ej,livim101,P,rearb901,Call at 1B $Livingston ejected by Reardon for continuing the arguement"
-"BSN194308171",72,"$Bob Elliott left with pulled leg muscle"
-"BSN194308171",74,"guess on assists"
-"BSN194308210",46,"$Braves manager Casey Stengel could not come out of the dugout to argue because of a broken leg; he waived his crutches at 1B umpire Jocko Conlan"
-"BSN194308280",63,"$Van Mungo out at HP but the run counted when Heinie Heltzel called for obstruction; no error charged"
-"BSN194309162",1,"Scratch hit"
+"BSN194304240",16,"$Johnny Rucker neglected to wear sunglasses and the ball struck him on the head when he lost it is the sun"FILENAME_TX","LINE_NUMBER_CT"
+
+"BSN194304240",27,"$the line drive struck Al Javery on the forehead"1943BSN.EVN.regular.comment.csv",2
+
+"BSN194304250",38,"$Ross interferes with Witek and is called out"1943BSN.EVN.regular.comment.csv",3
+
+"BSN194305051",21,"$Billy Jurges kept running, thinking that there were two out"1943BSN.EVN.regular.comment.csv",4
+
+"BSN194305052",52,"$Cuccinello fumbles likely double play ball"1943BSN.EVN.regular.comment.csv",5
+
+"BSN194305080",55,"$Dodgers manager Leo Durocher yelled about a called ball to Eddie Joost"1943BSN.EVN.regular.comment.csv",6
+
+"BSN194305080",56,"$Dodgers manager Leo Durocher continued to yell at HP umpire Babe Pinelli"1943BSN.EVN.regular.comment.csv",7
+
+"BSN194305080",57,"ej,durol101,M,pineb101,Delay sending up a pinch-hitter Dodgers Manager Leo Durocher ejected by HP umpire Babe Pinelli; Durocher failed to tell Pinelli about the substitution; Bordagaray signalled but Durocher yelled at the umpire"1943BSN.EVN.regular.comment.csv",8
+
+"BSN194305231",14,"$Goodman hurt leg on collision at plate and left game two innings later"1943BSN.EVN.regular.comment.csv",9
+
+"BSN194305231",58,"ej,joose101,P,conlj102,Balls and strikes (kicked dirt) $Joost ejected by HP umpire Conlan's for arguing strike 3 and kicking dirt on umpire's pants"1943BSN.EVN.regular.comment.csv",10
+
+"BSN194305232",62,"ej,cavap101,P,jordl901,Call at 1B (Pushed umpire) $The throw bounced against the boxes and was recovered by Cavarretta, who tagged Ryan, contending the base runner had turned toward second with the overthrow. Umpire Lou Jorda ruled Ryan had not turned, which so excited Cavarretta that Eddie Stanky had to tackle him as he charged Jorda; Cavarretta was chased."1943BSN.EVN.regular.comment.csv",11
+
+"BSN194306180",0,"$Stengel returns as Boston manager after leg injury in spring."1943BSN.EVN.regular.comment.csv",12
+
+"BSN194306180",58,"pbp account ends here, rest deduced"1943BSN.EVN.regular.comment.csv",13
+
+"BSN194306190",16,"$Batter caught rounding first base too far"1943BSN.EVN.regular.comment.csv",14
+
+"BSN194307030",0,"$the Pirates arrived 30 minutes before game time due to a train delay"1943BSN.EVN.regular.comment.csv",15
+
+"BSN194307030",4,"$Al Javery: 5 pitches"1943BSN.EVN.regular.comment.csv",16
+
+"BSN194307030",61,"$Frank Colman fell down and left with a shoulder injury"1943BSN.EVN.regular.comment.csv",17
+
+"BSN194307071",13,"$Eddie Miller stopped at 2B but was awarded 3B when Connie Ryan was charged with obstruction; no error charged"1943BSN.EVN.regular.comment.csv",18
+
+"BSN194307112",17,"$25 minute rain delay"1943BSN.EVN.regular.comment.csv",19
+
+"BSN194307160",23,"ej,higbk101,P,stewb901,Balls and strikes (Threw glove) Kirby Higbe ejected by HP umpire Bill Stewart"1943BSN.EVN.regular.comment.csv",20
+
+"BSN194307182",0,"Suspend=19430913,,4,4,34"1943BSN.EVN.regular.comment.csv",21
+
+"BSN194307182",55,"umpchange,6,umphp,goetl901 umpchange,6,ump1b,balll901 umpchange,6,ump3b,rearb901 suspended,19430913,BOS08,curfew $game suspended due to 5:00pm curfew; completed 9/13 with new umpires"1943BSN.EVN.regular.comment.csv",22
+
+"BSN194308111",34,"$Phil Masi rounded 2B too far"1943BSN.EVN.regular.comment.csv",23
+
+"BSN194308140",54,"ej,passc101,P,rearb901,Call at 1B $Passeau ejected for arguing call at first base"1943BSN.EVN.regular.comment.csv",24
+
+"BSN194308140",56,"ej,livim101,P,rearb901,Call at 1B $Livingston ejected by Reardon for continuing the arguement"1943BSN.EVN.regular.comment.csv",25
+
+"BSN194308171",72,"$Bob Elliott left with pulled leg muscle"1943BSN.EVN.regular.comment.csv",26
+
+"BSN194308171",74,"guess on assists"1943BSN.EVN.regular.comment.csv",27
+
+"BSN194308210",46,"$Braves manager Casey Stengel could not come out of the dugout to argue because of a broken leg; he waived his crutches at 1B umpire Jocko Conlan"1943BSN.EVN.regular.comment.csv",28
+
+"BSN194308280",63,"$Van Mungo out at HP but the run counted when Heinie Heltzel called for obstruction; no error charged"1943BSN.EVN.regular.comment.csv",29
+
+"BSN194309162",1,"Scratch hit"1943BSN.EVN.regular.comment.csv",30
+

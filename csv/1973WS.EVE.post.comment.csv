@@ -1,11 +1,10 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"OAK197310130",38,"$Joe Rudi lost the ball in the sun"
-"OAK197310130",48,"$Joe Rudi called for interference for running into his own batted ball"
-"OAK197310140",5,"$Cleon Jones lost the ball in the sun"
-"OAK197310140",29,"$missed bunt"
-"NYN197310160",33,"fan interference"
-"OAK197310130",38,"$Joe Rudi lost the ball in the sun"
-"OAK197310130",48,"$Joe Rudi called for interference for running into his own batted ball"
-"OAK197310140",5,"$Cleon Jones lost the ball in the sun"
-"OAK197310140",29,"$missed bunt"
-"NYN197310160",33,"fan interference"
+"OAK197310130",38,"$Joe Rudi lost the ball in the sun"FILENAME_TX","LINE_NUMBER_CT"
+
+"OAK197310130",48,"$Joe Rudi called for interference for running into his own batted ball"1973WS.EVE.post.comment.csv",2
+
+"OAK197310140",5,"$Cleon Jones lost the ball in the sun"1973WS.EVE.post.comment.csv",3
+
+"OAK197310140",29,"$missed bunt"1973WS.EVE.post.comment.csv",4
+
+"NYN197310160",33,"fan interference"1973WS.EVE.post.comment.csv",5
+

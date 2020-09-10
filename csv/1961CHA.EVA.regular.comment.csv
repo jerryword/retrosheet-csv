@@ -1,43 +1,42 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"CHA196104190",1,"Debut game for Ed Hobaugh"
-"CHA196104232",10,"17 minute rain delay"
-"CHA196105060",26,"$Herb Score removed because he was tired from pitching batting practice for 45 minutes on the previous day"
-"CHA196105060",64,"ej,scheb101,M,drumc901,Call at 1B (Appeal) $Norm Cash out on appeal for leaving 1B too soon; Tigers Manager Bob Scheffing ejected by 1B umpire Cal Drummond"
-"CHA196105130",21,"$Bill Tuttle's throw struck Nellie Fox"
-"CHA196105302",6,"$Floyd Robinson stole 2B but thought he was called out so he stepped off the bag and was tagged while walking off the field"
-"CHA196106020",23,"$Luis Aparicio hit a low line drive over BObby Richardson's head; Richardson fooled Bob Roselli into thinking he was going to catch the ball so Roselli retreated to 1B"
-"CHA196106131",30,"$Earl Averill struck by foul ball, left with torn finger nail"
-"CHA196106142",37,"ej,aparl101,P,drumc901,Called third strike Luis Aparicio ejected by HP umpire Cal Drummond"
-"CHA196106160",14,"Debut game for Rich Rollins"
-"CHA196106181",1,"Debut game for Dagoberto Cueto"
-"CHA196106230",10,"$Roy Sievers made a diving stop and injured his shoulder"
-"CHA196106230",17,"Roy Sievers left with an injured shoulder"
-"CHA196106251",50,"$Dick Donovan called for obstruction for bumping Andy Carey during the rundown"
-"CHA196108062",72,"415 ft"
-"CHA196108120",9,"ej,guttd101,C,drumc901,Call at 1B $White Sox coach Gutteridge ejected by 1B umpire Drummond for arguing Fox was safe at 1st"
-"CHA196108130",86,"Debut game for Gordon MacKenzie"
-"CHA196108250",39,"ej,pierj102,P,linsj901,Called third strike Jim Piersall ejected by HP umpire Joe Linsalata"
-"CHA196109120",55,"game called due to rain"
-"CHA196109220",43,"Debut game for Dean Look"
-"CHA196109220",47,"Debut game for Alan Brice"
-"CHA196104190",1,"Debut game for Ed Hobaugh"
-"CHA196104232",10,"17 minute rain delay"
-"CHA196105060",26,"$Herb Score removed because he was tired from pitching batting practice for 45 minutes on the previous day"
-"CHA196105060",64,"ej,scheb101,M,drumc901,Call at 1B (Appeal) $Norm Cash out on appeal for leaving 1B too soon; Tigers Manager Bob Scheffing ejected by 1B umpire Cal Drummond"
-"CHA196105130",21,"$Bill Tuttle's throw struck Nellie Fox"
-"CHA196105302",6,"$Floyd Robinson stole 2B but thought he was called out so he stepped off the bag and was tagged while walking off the field"
-"CHA196106020",23,"$Luis Aparicio hit a low line drive over BObby Richardson's head; Richardson fooled Bob Roselli into thinking he was going to catch the ball so Roselli retreated to 1B"
-"CHA196106131",30,"$Earl Averill struck by foul ball, left with torn finger nail"
-"CHA196106142",37,"ej,aparl101,P,drumc901,Called third strike Luis Aparicio ejected by HP umpire Cal Drummond"
-"CHA196106160",14,"Debut game for Rich Rollins"
-"CHA196106181",1,"Debut game for Dagoberto Cueto"
-"CHA196106230",10,"$Roy Sievers made a diving stop and injured his shoulder"
-"CHA196106230",17,"Roy Sievers left with an injured shoulder"
-"CHA196106251",50,"$Dick Donovan called for obstruction for bumping Andy Carey during the rundown"
-"CHA196108062",72,"415 ft"
-"CHA196108120",9,"ej,guttd101,C,drumc901,Call at 1B $White Sox coach Gutteridge ejected by 1B umpire Drummond for arguing Fox was safe at 1st"
-"CHA196108130",86,"Debut game for Gordon MacKenzie"
-"CHA196108250",39,"ej,pierj102,P,linsj901,Called third strike Jim Piersall ejected by HP umpire Joe Linsalata"
-"CHA196109120",55,"game called due to rain"
-"CHA196109220",43,"Debut game for Dean Look"
-"CHA196109220",47,"Debut game for Alan Brice"
+"CHA196104190",1,"Debut game for Ed Hobaugh"FILENAME_TX","LINE_NUMBER_CT"
+
+"CHA196104232",10,"17 minute rain delay"1961CHA.EVA.regular.comment.csv",2
+
+"CHA196105060",26,"$Herb Score removed because he was tired from pitching batting practice for 45 minutes on the previous day"1961CHA.EVA.regular.comment.csv",3
+
+"CHA196105060",64,"ej,scheb101,M,drumc901,Call at 1B (Appeal) $Norm Cash out on appeal for leaving 1B too soon; Tigers Manager Bob Scheffing ejected by 1B umpire Cal Drummond"1961CHA.EVA.regular.comment.csv",4
+
+"CHA196105130",21,"$Bill Tuttle's throw struck Nellie Fox"1961CHA.EVA.regular.comment.csv",5
+
+"CHA196105302",6,"$Floyd Robinson stole 2B but thought he was called out so he stepped off the bag and was tagged while walking off the field"1961CHA.EVA.regular.comment.csv",6
+
+"CHA196106020",23,"$Luis Aparicio hit a low line drive over BObby Richardson's head; Richardson fooled Bob Roselli into thinking he was going to catch the ball so Roselli retreated to 1B"1961CHA.EVA.regular.comment.csv",7
+
+"CHA196106131",30,"$Earl Averill struck by foul ball, left with torn finger nail"1961CHA.EVA.regular.comment.csv",8
+
+"CHA196106142",37,"ej,aparl101,P,drumc901,Called third strike Luis Aparicio ejected by HP umpire Cal Drummond"1961CHA.EVA.regular.comment.csv",9
+
+"CHA196106160",14,"Debut game for Rich Rollins"1961CHA.EVA.regular.comment.csv",10
+
+"CHA196106181",1,"Debut game for Dagoberto Cueto"1961CHA.EVA.regular.comment.csv",11
+
+"CHA196106230",10,"$Roy Sievers made a diving stop and injured his shoulder"1961CHA.EVA.regular.comment.csv",12
+
+"CHA196106230",17,"Roy Sievers left with an injured shoulder"1961CHA.EVA.regular.comment.csv",13
+
+"CHA196106251",50,"$Dick Donovan called for obstruction for bumping Andy Carey during the rundown"1961CHA.EVA.regular.comment.csv",14
+
+"CHA196108062",72,"415 ft"1961CHA.EVA.regular.comment.csv",15
+
+"CHA196108120",9,"ej,guttd101,C,drumc901,Call at 1B $White Sox coach Gutteridge ejected by 1B umpire Drummond for arguing Fox was safe at 1st"1961CHA.EVA.regular.comment.csv",16
+
+"CHA196108130",86,"Debut game for Gordon MacKenzie"1961CHA.EVA.regular.comment.csv",17
+
+"CHA196108250",39,"ej,pierj102,P,linsj901,Called third strike Jim Piersall ejected by HP umpire Joe Linsalata"1961CHA.EVA.regular.comment.csv",18
+
+"CHA196109120",55,"game called due to rain"1961CHA.EVA.regular.comment.csv",19
+
+"CHA196109220",43,"Debut game for Dean Look"1961CHA.EVA.regular.comment.csv",20
+
+"CHA196109220",47,"Debut game for Alan Brice"1961CHA.EVA.regular.comment.csv",21
+

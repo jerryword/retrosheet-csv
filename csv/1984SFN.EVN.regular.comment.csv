@@ -1,41 +1,40 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"SFN198404050",50,"Debut game for Frank Williams"
-"SFN198404050",84,"Debut game for Henry Cotto"
-"SFN198404070",1,"Debut game for Jeff Robinson"
-"SFN198404070",58,"Debut game for Ricky Horton"
-"SFN198405120",16,"$Terry Francona called for interference at 2B"
-"SFN198405130",51,"ej,robif103,M,harrl901,Appeal play (run negated) $Al Oliver scored on the single but missed HP and was called out on appeal; Giants manager Frank Robinson ejected by HP umpire Lanny Harris"
-"SFN198405200",77,"$Chili Davis called for interference"
-"SFN198406010",14,"ej,krukm001,P,davib902,Balk call Mike Krukow ejected by 1B umpire Bob Davidson"
-"SFN198406020",45,"Debut game for Jeff Cornell"
-"SFN198406290",42,"Debut game for Ray Krawczyk"
-"SFN198407042",1,"Debut game for Kurt Kepshire"
-"SFN198407042",44,"$Dan Gladden called for interference"
-"SFN198407060",73,"ej,leonj001,P,davib902,Called strike 3 $Leonard ejected by HP umpire Davidson for arguing called strike 3"
-"SFN198407240",0,"Debut for umpire Terry Luhr"
-"SFN198408210",90,"Debut game for Randy Gomez"
-"SFN198409030",12,"Debut game for Chris Brown"
-"SFN198409040",83,"Debut game for Rob Deer"
-"SFN198409241",34,"$Greg Harris stopped at 3B, then started when Alejandro Sanchez' throw was wild"
-"SFN198409241",49,"DV added play - need E6 and UR"
-"SFN198409242",94,"$Mario Ramirez was going to be out when John Rabb cut off the ball and made a wild throw to HP"
-"SFN198404050",50,"Debut game for Frank Williams"
-"SFN198404050",84,"Debut game for Henry Cotto"
-"SFN198404070",1,"Debut game for Jeff Robinson"
-"SFN198404070",58,"Debut game for Ricky Horton"
-"SFN198405120",16,"$Terry Francona called for interference at 2B"
-"SFN198405130",51,"ej,robif103,M,harrl901,Appeal play (run negated) $Al Oliver scored on the single but missed HP and was called out on appeal; Giants manager Frank Robinson ejected by HP umpire Lanny Harris"
-"SFN198405200",77,"$Chili Davis called for interference"
-"SFN198406010",14,"ej,krukm001,P,davib902,Balk call Mike Krukow ejected by 1B umpire Bob Davidson"
-"SFN198406020",45,"Debut game for Jeff Cornell"
-"SFN198406290",42,"Debut game for Ray Krawczyk"
-"SFN198407042",1,"Debut game for Kurt Kepshire"
-"SFN198407042",44,"$Dan Gladden called for interference"
-"SFN198407060",73,"ej,leonj001,P,davib902,Called strike 3 $Leonard ejected by HP umpire Davidson for arguing called strike 3"
-"SFN198407240",0,"Debut for umpire Terry Luhr"
-"SFN198408210",90,"Debut game for Randy Gomez"
-"SFN198409030",12,"Debut game for Chris Brown"
-"SFN198409040",83,"Debut game for Rob Deer"
-"SFN198409241",34,"$Greg Harris stopped at 3B, then started when Alejandro Sanchez' throw was wild"
-"SFN198409241",49,"DV added play - need E6 and UR"
-"SFN198409242",94,"$Mario Ramirez was going to be out when John Rabb cut off the ball and made a wild throw to HP"
+"SFN198404050",50,"Debut game for Frank Williams"FILENAME_TX","LINE_NUMBER_CT"
+
+"SFN198404050",84,"Debut game for Henry Cotto"1984SFN.EVN.regular.comment.csv",2
+
+"SFN198404070",1,"Debut game for Jeff Robinson"1984SFN.EVN.regular.comment.csv",3
+
+"SFN198404070",58,"Debut game for Ricky Horton"1984SFN.EVN.regular.comment.csv",4
+
+"SFN198405120",16,"$Terry Francona called for interference at 2B"1984SFN.EVN.regular.comment.csv",5
+
+"SFN198405130",51,"ej,robif103,M,harrl901,Appeal play (run negated) $Al Oliver scored on the single but missed HP and was called out on appeal; Giants manager Frank Robinson ejected by HP umpire Lanny Harris"1984SFN.EVN.regular.comment.csv",6
+
+"SFN198405200",77,"$Chili Davis called for interference"1984SFN.EVN.regular.comment.csv",7
+
+"SFN198406010",14,"ej,krukm001,P,davib902,Balk call Mike Krukow ejected by 1B umpire Bob Davidson"1984SFN.EVN.regular.comment.csv",8
+
+"SFN198406020",45,"Debut game for Jeff Cornell"1984SFN.EVN.regular.comment.csv",9
+
+"SFN198406290",42,"Debut game for Ray Krawczyk"1984SFN.EVN.regular.comment.csv",10
+
+"SFN198407042",1,"Debut game for Kurt Kepshire"1984SFN.EVN.regular.comment.csv",11
+
+"SFN198407042",44,"$Dan Gladden called for interference"1984SFN.EVN.regular.comment.csv",12
+
+"SFN198407060",73,"ej,leonj001,P,davib902,Called strike 3 $Leonard ejected by HP umpire Davidson for arguing called strike 3"1984SFN.EVN.regular.comment.csv",13
+
+"SFN198407240",0,"Debut for umpire Terry Luhr"1984SFN.EVN.regular.comment.csv",14
+
+"SFN198408210",90,"Debut game for Randy Gomez"1984SFN.EVN.regular.comment.csv",15
+
+"SFN198409030",12,"Debut game for Chris Brown"1984SFN.EVN.regular.comment.csv",16
+
+"SFN198409040",83,"Debut game for Rob Deer"1984SFN.EVN.regular.comment.csv",17
+
+"SFN198409241",34,"$Greg Harris stopped at 3B, then started when Alejandro Sanchez' throw was wild"1984SFN.EVN.regular.comment.csv",18
+
+"SFN198409241",49,"DV added play - need E6 and UR"1984SFN.EVN.regular.comment.csv",19
+
+"SFN198409242",94,"$Mario Ramirez was going to be out when John Rabb cut off the ball and made a wild throw to HP"1984SFN.EVN.regular.comment.csv",20
+

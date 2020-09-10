@@ -1,103 +1,102 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"SLA195304140",20,"$Ned Garver left with injured leg"
-"SLA195304240",3,"to match daily/TSN/CT/NYT, arbitrary 54 to 64"
-"SLA195304250",4,"to match daily/TSN/CT, arbitrary 9 to 3"
-"SLA195304250",26,"to match daily/TSN/CT, arbitrary 54(1)/FO to 64"
-"SLA195304261",49,"$Dick Littlefield struck on hand by line drive"
-"SLA195304261",57,"to match daily/TSN/NYT, arbitrary 8 to 7"
-"SLA195304262",36,"to match daily/NYT/CT, arbitrary 7 to 1"
-"SLA195304262",52,"to match daily/TSN/NYT/CT, arbitrary 31 to 43"
-"SLA195305050",25,"to match daily/NYT, arbitrary 8 to 7"
-"SLA195305080",27,"to match daily/TSN/NYT, arbitrary 53 to 63"
-"SLA195305090",77,"to match daily/TSN, arbitrary 7 to 5"
-"SLA195305280",1,"to match daily/NYT/TSN, arbitrary 9 to 7"
-"SLA195306050",15,"16 minute rain delay"
-"SLA195306060",12,"conjecture"
-"SLA195306060",27,"conjecture"
-"SLA195306060",31,"conjecture"
-"SLA195306060",32,"conjecture"
-"SLA195306060",33,"conjecture"
-"SLA195306060",35,"$onto the roof"
-"SLA195306060",67,"to match daily/NYT/TSN, arbitrary 63 to 163"
-"SLA195306102",54,"$Jimmy Piersall was brushed back and tried to charge the mound"
-"SLA195306102",59,"$Johnny Groth called for interference for running into his own batted ball"
-"SLA195306102",75,"to match daily/NYT, arbitrary 43 to 53"
-"SLA195306110",41,"remaining play-by-play is conjecture to fit official/TSN"
-"SLA195306130",5,"to match daily/NYT/TSN, arbitrary 4/P to 63"
-"SLA195307042",44,"to match daily/NYT/TSN, arbitrary 7 to 8"
-"SLA195307051",19,"ej,courc101,P,passa901,Fighting $Catcher Courtney ejected by HP umpire Passarella for applying hard tag Johnny Bucha's head; benches cleared"
-"SLA195307052",10,"to match daily/NYT/TSN, arbitrary 43 to 63"
-"SLA195307070",64,"assume the 9 picked up missed ball, but not sure how second error happened"
-"SLA195307170",16,"$Irv Noren made a diving catch"
-"SLA195307191",60,"$Roy Sievers called out on appeal for missing 3B when he apparently scored; Jim Dyck lost a single on the play"
-"SLA195307230",0,"Debut for umpire Red Flaherty"
-"SLA195307230",3,"to match daily/NY/TSN, arbitrary 63 to 64(1)"
-"SLA195307242",1,"to match daily/NYT/TSN, arbitrary 43 to 63"
-"SLA195307250",4,"$George Kell rounded 2B too far"
-"SLA195307261",17,"$Gene Stephens grounded to 1B but Duane Pillette got in the way"
-"SLA195307261",18,"missing play in SLA195307261"
-"SLA195307262",54,"$Del Wilber hit on throat by foul ball"
-"SLA195308111",36,"to match daily/NYT/TSN, arbitrary K to K23"
-"SLA195308120",17,"to match daily/NYT, arbitrary 63 to 53"
-"SLA195308130",4,"to match daily/NYT, arbitrary K to K23"
-"SLA195308130",21,"to match daily/NYT, arbitrary 8 to 9"
-"SLA195308140",6,"to match daily/NYT, arbitrary 7 to 9"
-"SLA195308271",5,"to match daily/NYT/TSN, arbitrary 9 to 2"
-"SLA195308271",7,"to match daily/NYT/TSN, arbitrary 8 to 7"
-"SLA195309020",6,"$Harry Brecheen left with sore shoulder"
-"SLA195309020",54,"to match daily/NYT/TSN, arbitrary 43 to 63"
-"SLA195309040",14,"to match daily/NYT, arbitrary 63 to 53"
-"SLA195309260",1,"to match daily/NYT/TSN, arbitrary K to K23"
-"SLA195309260",7,"to match daily/NYT/TSN, arbitrary 8 to 9"
-"SLA195309270",62,"to match daily/NYT/TSN, arbitrary 26 to 24"
-"SLA195304140",20,"$Ned Garver left with injured leg"
-"SLA195304240",3,"to match daily/TSN/CT/NYT, arbitrary 54 to 64"
-"SLA195304250",4,"to match daily/TSN/CT, arbitrary 9 to 3"
-"SLA195304250",26,"to match daily/TSN/CT, arbitrary 54(1)/FO to 64"
-"SLA195304261",49,"$Dick Littlefield struck on hand by line drive"
-"SLA195304261",57,"to match daily/TSN/NYT, arbitrary 8 to 7"
-"SLA195304262",36,"to match daily/NYT/CT, arbitrary 7 to 1"
-"SLA195304262",52,"to match daily/TSN/NYT/CT, arbitrary 31 to 43"
-"SLA195305050",25,"to match daily/NYT, arbitrary 8 to 7"
-"SLA195305080",27,"to match daily/TSN/NYT, arbitrary 53 to 63"
-"SLA195305090",77,"to match daily/TSN, arbitrary 7 to 5"
-"SLA195305280",1,"to match daily/NYT/TSN, arbitrary 9 to 7"
-"SLA195306050",15,"16 minute rain delay"
-"SLA195306060",12,"conjecture"
-"SLA195306060",27,"conjecture"
-"SLA195306060",31,"conjecture"
-"SLA195306060",32,"conjecture"
-"SLA195306060",33,"conjecture"
-"SLA195306060",35,"$onto the roof"
-"SLA195306060",67,"to match daily/NYT/TSN, arbitrary 63 to 163"
-"SLA195306102",54,"$Jimmy Piersall was brushed back and tried to charge the mound"
-"SLA195306102",59,"$Johnny Groth called for interference for running into his own batted ball"
-"SLA195306102",75,"to match daily/NYT, arbitrary 43 to 53"
-"SLA195306110",41,"remaining play-by-play is conjecture to fit official/TSN"
-"SLA195306130",5,"to match daily/NYT/TSN, arbitrary 4/P to 63"
-"SLA195307042",44,"to match daily/NYT/TSN, arbitrary 7 to 8"
-"SLA195307051",19,"ej,courc101,P,passa901,Fighting $Catcher Courtney ejected by HP umpire Passarella for applying hard tag Johnny Bucha's head; benches cleared"
-"SLA195307052",10,"to match daily/NYT/TSN, arbitrary 43 to 63"
-"SLA195307070",64,"assume the 9 picked up missed ball, but not sure how second error happened"
-"SLA195307170",16,"$Irv Noren made a diving catch"
-"SLA195307191",60,"$Roy Sievers called out on appeal for missing 3B when he apparently scored; Jim Dyck lost a single on the play"
-"SLA195307230",0,"Debut for umpire Red Flaherty"
-"SLA195307230",3,"to match daily/NY/TSN, arbitrary 63 to 64(1)"
-"SLA195307242",1,"to match daily/NYT/TSN, arbitrary 43 to 63"
-"SLA195307250",4,"$George Kell rounded 2B too far"
-"SLA195307261",17,"$Gene Stephens grounded to 1B but Duane Pillette got in the way"
-"SLA195307261",18,"missing play in SLA195307261"
-"SLA195307262",54,"$Del Wilber hit on throat by foul ball"
-"SLA195308111",36,"to match daily/NYT/TSN, arbitrary K to K23"
-"SLA195308120",17,"to match daily/NYT, arbitrary 63 to 53"
-"SLA195308130",4,"to match daily/NYT, arbitrary K to K23"
-"SLA195308130",21,"to match daily/NYT, arbitrary 8 to 9"
-"SLA195308140",6,"to match daily/NYT, arbitrary 7 to 9"
-"SLA195308271",5,"to match daily/NYT/TSN, arbitrary 9 to 2"
-"SLA195308271",7,"to match daily/NYT/TSN, arbitrary 8 to 7"
-"SLA195309020",6,"$Harry Brecheen left with sore shoulder"
-"SLA195309020",54,"to match daily/NYT/TSN, arbitrary 43 to 63"
-"SLA195309040",14,"to match daily/NYT, arbitrary 63 to 53"
-"SLA195309260",1,"to match daily/NYT/TSN, arbitrary K to K23"
-"SLA195309260",7,"to match daily/NYT/TSN, arbitrary 8 to 9"
-"SLA195309270",62,"to match daily/NYT/TSN, arbitrary 26 to 24"
+"SLA195304140",20,"$Ned Garver left with injured leg"FILENAME_TX","LINE_NUMBER_CT"
+
+"SLA195304240",3,"to match daily/TSN/CT/NYT, arbitrary 54 to 64"1953SLA.EVA.regular.comment.csv",2
+
+"SLA195304250",4,"to match daily/TSN/CT, arbitrary 9 to 3"1953SLA.EVA.regular.comment.csv",3
+
+"SLA195304250",26,"to match daily/TSN/CT, arbitrary 54(1)/FO to 64"1953SLA.EVA.regular.comment.csv",4
+
+"SLA195304261",49,"$Dick Littlefield struck on hand by line drive"1953SLA.EVA.regular.comment.csv",5
+
+"SLA195304261",57,"to match daily/TSN/NYT, arbitrary 8 to 7"1953SLA.EVA.regular.comment.csv",6
+
+"SLA195304262",36,"to match daily/NYT/CT, arbitrary 7 to 1"1953SLA.EVA.regular.comment.csv",7
+
+"SLA195304262",52,"to match daily/TSN/NYT/CT, arbitrary 31 to 43"1953SLA.EVA.regular.comment.csv",8
+
+"SLA195305050",25,"to match daily/NYT, arbitrary 8 to 7"1953SLA.EVA.regular.comment.csv",9
+
+"SLA195305080",27,"to match daily/TSN/NYT, arbitrary 53 to 63"1953SLA.EVA.regular.comment.csv",10
+
+"SLA195305090",77,"to match daily/TSN, arbitrary 7 to 5"1953SLA.EVA.regular.comment.csv",11
+
+"SLA195305280",1,"to match daily/NYT/TSN, arbitrary 9 to 7"1953SLA.EVA.regular.comment.csv",12
+
+"SLA195306050",15,"16 minute rain delay"1953SLA.EVA.regular.comment.csv",13
+
+"SLA195306060",12,"conjecture"1953SLA.EVA.regular.comment.csv",14
+
+"SLA195306060",27,"conjecture"1953SLA.EVA.regular.comment.csv",15
+
+"SLA195306060",31,"conjecture"1953SLA.EVA.regular.comment.csv",16
+
+"SLA195306060",32,"conjecture"1953SLA.EVA.regular.comment.csv",17
+
+"SLA195306060",33,"conjecture"1953SLA.EVA.regular.comment.csv",18
+
+"SLA195306060",35,"$onto the roof"1953SLA.EVA.regular.comment.csv",19
+
+"SLA195306060",67,"to match daily/NYT/TSN, arbitrary 63 to 163"1953SLA.EVA.regular.comment.csv",20
+
+"SLA195306102",54,"$Jimmy Piersall was brushed back and tried to charge the mound"1953SLA.EVA.regular.comment.csv",21
+
+"SLA195306102",59,"$Johnny Groth called for interference for running into his own batted ball"1953SLA.EVA.regular.comment.csv",22
+
+"SLA195306102",75,"to match daily/NYT, arbitrary 43 to 53"1953SLA.EVA.regular.comment.csv",23
+
+"SLA195306110",41,"remaining play-by-play is conjecture to fit official/TSN"1953SLA.EVA.regular.comment.csv",24
+
+"SLA195306130",5,"to match daily/NYT/TSN, arbitrary 4/P to 63"1953SLA.EVA.regular.comment.csv",25
+
+"SLA195307042",44,"to match daily/NYT/TSN, arbitrary 7 to 8"1953SLA.EVA.regular.comment.csv",26
+
+"SLA195307051",19,"ej,courc101,P,passa901,Fighting $Catcher Courtney ejected by HP umpire Passarella for applying hard tag Johnny Bucha's head; benches cleared"1953SLA.EVA.regular.comment.csv",27
+
+"SLA195307052",10,"to match daily/NYT/TSN, arbitrary 43 to 63"1953SLA.EVA.regular.comment.csv",28
+
+"SLA195307070",64,"assume the 9 picked up missed ball, but not sure how second error happened"1953SLA.EVA.regular.comment.csv",29
+
+"SLA195307170",16,"$Irv Noren made a diving catch"1953SLA.EVA.regular.comment.csv",30
+
+"SLA195307191",60,"$Roy Sievers called out on appeal for missing 3B when he apparently scored; Jim Dyck lost a single on the play"1953SLA.EVA.regular.comment.csv",31
+
+"SLA195307230",0,"Debut for umpire Red Flaherty"1953SLA.EVA.regular.comment.csv",32
+
+"SLA195307230",3,"to match daily/NY/TSN, arbitrary 63 to 64(1)"1953SLA.EVA.regular.comment.csv",33
+
+"SLA195307242",1,"to match daily/NYT/TSN, arbitrary 43 to 63"1953SLA.EVA.regular.comment.csv",34
+
+"SLA195307250",4,"$George Kell rounded 2B too far"1953SLA.EVA.regular.comment.csv",35
+
+"SLA195307261",17,"$Gene Stephens grounded to 1B but Duane Pillette got in the way"1953SLA.EVA.regular.comment.csv",36
+
+"SLA195307261",18,"missing play in SLA195307261"1953SLA.EVA.regular.comment.csv",37
+
+"SLA195307262",54,"$Del Wilber hit on throat by foul ball"1953SLA.EVA.regular.comment.csv",38
+
+"SLA195308111",36,"to match daily/NYT/TSN, arbitrary K to K23"1953SLA.EVA.regular.comment.csv",39
+
+"SLA195308120",17,"to match daily/NYT, arbitrary 63 to 53"1953SLA.EVA.regular.comment.csv",40
+
+"SLA195308130",4,"to match daily/NYT, arbitrary K to K23"1953SLA.EVA.regular.comment.csv",41
+
+"SLA195308130",21,"to match daily/NYT, arbitrary 8 to 9"1953SLA.EVA.regular.comment.csv",42
+
+"SLA195308140",6,"to match daily/NYT, arbitrary 7 to 9"1953SLA.EVA.regular.comment.csv",43
+
+"SLA195308271",5,"to match daily/NYT/TSN, arbitrary 9 to 2"1953SLA.EVA.regular.comment.csv",44
+
+"SLA195308271",7,"to match daily/NYT/TSN, arbitrary 8 to 7"1953SLA.EVA.regular.comment.csv",45
+
+"SLA195309020",6,"$Harry Brecheen left with sore shoulder"1953SLA.EVA.regular.comment.csv",46
+
+"SLA195309020",54,"to match daily/NYT/TSN, arbitrary 43 to 63"1953SLA.EVA.regular.comment.csv",47
+
+"SLA195309040",14,"to match daily/NYT, arbitrary 63 to 53"1953SLA.EVA.regular.comment.csv",48
+
+"SLA195309260",1,"to match daily/NYT/TSN, arbitrary K to K23"1953SLA.EVA.regular.comment.csv",49
+
+"SLA195309260",7,"to match daily/NYT/TSN, arbitrary 8 to 9"1953SLA.EVA.regular.comment.csv",50
+
+"SLA195309270",62,"to match daily/NYT/TSN, arbitrary 26 to 24"1953SLA.EVA.regular.comment.csv",51
+

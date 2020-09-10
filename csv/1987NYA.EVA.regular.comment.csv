@@ -1,29 +1,28 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"NYA198704130",15,"ej,skinj001,P,hirsj901,Call at 1B (Bumped umpire) Joel Skinner ejected by 1B umpire John Hirschbeck for bumping the umpire while arguing the call at 1B"
-"NYA198704200",54,"ej,andes101,M,welkt901,Balls and strikes $Tigers manager Anderson ejected by HP umpire Welke for arguing balls and strikes"
-"NYA198705090",23,"ej,pinil001,M,morrd901,Balls and strikes Yankees manager Lou Piniella ejected by HP umpire Dan Morrison"
-"NYA198706090",35,"ej,pinil001,M,reedr901,Call at 2B Yankees manager Lou Piniella ejected by 2B umpire Rick Reed"
-"NYA198706090",49,"ej,ferrm101,C,garcr901,Balls and strikes $Yankees coach Ferraro ejected by HP umpire Garcia for arguing balls and strikes"
-"NYA198706260",46,"ej,barrm001,P,phild901,Bench jockeying Marty Barrett ejected by HP umpire Dave Phillips from the bench sometime in the top of the fourth inning"
-"NYA198707050",76,"$Cecilio Guante injured"
-"NYA198707290",4,"Debut game for Bobby Kelly"
-"NYA198708010",60,"ej,hudsc001,P,kaisk901,Throwing at batter Charlie Hudson ejected by HP umpire Ken Kaiser for throwing a pitch behind batter Mike Heath"
-"NYA198709140",50,"Debut game for Dave Stapleton"
-"NYA198709150",1,"Debut game for Al Leiter"
-"NYA198709160",55,"Debut game for Steve Stanicek"
-"NYA198709170",57,"$85-minute rain delayat this point"
-"NYA198709170",72,"ej,willj107,M,welkt901,Catch/non-catch of strike 3 $Blue Jays manager Williams ejected by 3B umpire Welke for arguing that strike 3 had been caught cleanly and Lombardi was out"
-"NYA198704130",15,"ej,skinj001,P,hirsj901,Call at 1B (Bumped umpire) Joel Skinner ejected by 1B umpire John Hirschbeck for bumping the umpire while arguing the call at 1B"
-"NYA198704200",54,"ej,andes101,M,welkt901,Balls and strikes $Tigers manager Anderson ejected by HP umpire Welke for arguing balls and strikes"
-"NYA198705090",23,"ej,pinil001,M,morrd901,Balls and strikes Yankees manager Lou Piniella ejected by HP umpire Dan Morrison"
-"NYA198706090",35,"ej,pinil001,M,reedr901,Call at 2B Yankees manager Lou Piniella ejected by 2B umpire Rick Reed"
-"NYA198706090",49,"ej,ferrm101,C,garcr901,Balls and strikes $Yankees coach Ferraro ejected by HP umpire Garcia for arguing balls and strikes"
-"NYA198706260",46,"ej,barrm001,P,phild901,Bench jockeying Marty Barrett ejected by HP umpire Dave Phillips from the bench sometime in the top of the fourth inning"
-"NYA198707050",76,"$Cecilio Guante injured"
-"NYA198707290",4,"Debut game for Bobby Kelly"
-"NYA198708010",60,"ej,hudsc001,P,kaisk901,Throwing at batter Charlie Hudson ejected by HP umpire Ken Kaiser for throwing a pitch behind batter Mike Heath"
-"NYA198709140",50,"Debut game for Dave Stapleton"
-"NYA198709150",1,"Debut game for Al Leiter"
-"NYA198709160",55,"Debut game for Steve Stanicek"
-"NYA198709170",57,"$85-minute rain delayat this point"
-"NYA198709170",72,"ej,willj107,M,welkt901,Catch/non-catch of strike 3 $Blue Jays manager Williams ejected by 3B umpire Welke for arguing that strike 3 had been caught cleanly and Lombardi was out"
+"NYA198704130",15,"ej,skinj001,P,hirsj901,Call at 1B (Bumped umpire) Joel Skinner ejected by 1B umpire John Hirschbeck for bumping the umpire while arguing the call at 1B"FILENAME_TX","LINE_NUMBER_CT"
+
+"NYA198704200",54,"ej,andes101,M,welkt901,Balls and strikes $Tigers manager Anderson ejected by HP umpire Welke for arguing balls and strikes"1987NYA.EVA.regular.comment.csv",2
+
+"NYA198705090",23,"ej,pinil001,M,morrd901,Balls and strikes Yankees manager Lou Piniella ejected by HP umpire Dan Morrison"1987NYA.EVA.regular.comment.csv",3
+
+"NYA198706090",35,"ej,pinil001,M,reedr901,Call at 2B Yankees manager Lou Piniella ejected by 2B umpire Rick Reed"1987NYA.EVA.regular.comment.csv",4
+
+"NYA198706090",49,"ej,ferrm101,C,garcr901,Balls and strikes $Yankees coach Ferraro ejected by HP umpire Garcia for arguing balls and strikes"1987NYA.EVA.regular.comment.csv",5
+
+"NYA198706260",46,"ej,barrm001,P,phild901,Bench jockeying Marty Barrett ejected by HP umpire Dave Phillips from the bench sometime in the top of the fourth inning"1987NYA.EVA.regular.comment.csv",6
+
+"NYA198707050",76,"$Cecilio Guante injured"1987NYA.EVA.regular.comment.csv",7
+
+"NYA198707290",4,"Debut game for Bobby Kelly"1987NYA.EVA.regular.comment.csv",8
+
+"NYA198708010",60,"ej,hudsc001,P,kaisk901,Throwing at batter Charlie Hudson ejected by HP umpire Ken Kaiser for throwing a pitch behind batter Mike Heath"1987NYA.EVA.regular.comment.csv",9
+
+"NYA198709140",50,"Debut game for Dave Stapleton"1987NYA.EVA.regular.comment.csv",10
+
+"NYA198709150",1,"Debut game for Al Leiter"1987NYA.EVA.regular.comment.csv",11
+
+"NYA198709160",55,"Debut game for Steve Stanicek"1987NYA.EVA.regular.comment.csv",12
+
+"NYA198709170",57,"$85-minute rain delayat this point"1987NYA.EVA.regular.comment.csv",13
+
+"NYA198709170",72,"ej,willj107,M,welkt901,Catch/non-catch of strike 3 $Blue Jays manager Williams ejected by 3B umpire Welke for arguing that strike 3 had been caught cleanly and Lombardi was out"1987NYA.EVA.regular.comment.csv",14
+

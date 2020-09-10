@@ -1,27 +1,26 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"BAL198604070",13,"Debut game for Andy Allanson"
-"BAL198604090",74,"Debut game for Scott Bailes"
-"BAL198604200",5,"Foul bunt third strike"
-"BAL198605170",72,"Debut game for Tom Dozier"
-"BAL198606170",64,"ej,weave801,M,coont901,Balls and strikes $Orioles manager Weaver ejected by HP umpire Cooney for arguing strike call to Murray"
-"BAL198606300",11,"ej,ripkc801,C,morrd901,Balls and strikes $Orioles coach Ripken ejected by HP umpire Morrison for arguing called strike to Ripken"
-"BAL198607020",36,"ej,benij001,P,clara901,Balls and strikes Juan Beniquez ejected by HP umpire Al Clark"
-"BAL198607240",7,"Foul tipped third strike"
-"BAL198607250",65,"Debut game for Tom Dodd"
-"BAL198607260",47,"$Gene Nelson threw a pitch high and tight to Cal Ripken Jr"
-"BAL198607260",56,"ej,dempr001,P,cousd901,Charging mound ej,dixok001,P,cousd901,Fighting with Doug Rader ej,raded103,C,cousd901,Fighting with Ken Dixon $Rick Dempsey charged the mound and pitcher Gene Nelson tackled him; both benches cleared; Orioles pitcher Ken Dixon went after White Sox coach Doug Rader; while Rader was being restrained Dixon threw a punch that missed; Dempsey, Dixon and Rader ejected by HP umpire Derryl Cousins"
-"BAL198608090",62,"Debut game for Tony Arnold"
-"BAL198609210",88,"ej,weave801,M,clara901,Interference call Orioles manager Earl Weaver ejected by HP umpire Al Clark; Weaver claimed Charlie Moore threw his bat at a pitchout and hit Rick Dempsey's glove"
-"BAL198604070",13,"Debut game for Andy Allanson"
-"BAL198604090",74,"Debut game for Scott Bailes"
-"BAL198604200",5,"Foul bunt third strike"
-"BAL198605170",72,"Debut game for Tom Dozier"
-"BAL198606170",64,"ej,weave801,M,coont901,Balls and strikes $Orioles manager Weaver ejected by HP umpire Cooney for arguing strike call to Murray"
-"BAL198606300",11,"ej,ripkc801,C,morrd901,Balls and strikes $Orioles coach Ripken ejected by HP umpire Morrison for arguing called strike to Ripken"
-"BAL198607020",36,"ej,benij001,P,clara901,Balls and strikes Juan Beniquez ejected by HP umpire Al Clark"
-"BAL198607240",7,"Foul tipped third strike"
-"BAL198607250",65,"Debut game for Tom Dodd"
-"BAL198607260",47,"$Gene Nelson threw a pitch high and tight to Cal Ripken Jr"
-"BAL198607260",56,"ej,dempr001,P,cousd901,Charging mound ej,dixok001,P,cousd901,Fighting with Doug Rader ej,raded103,C,cousd901,Fighting with Ken Dixon $Rick Dempsey charged the mound and pitcher Gene Nelson tackled him; both benches cleared; Orioles pitcher Ken Dixon went after White Sox coach Doug Rader; while Rader was being restrained Dixon threw a punch that missed; Dempsey, Dixon and Rader ejected by HP umpire Derryl Cousins"
-"BAL198608090",62,"Debut game for Tony Arnold"
-"BAL198609210",88,"ej,weave801,M,clara901,Interference call Orioles manager Earl Weaver ejected by HP umpire Al Clark; Weaver claimed Charlie Moore threw his bat at a pitchout and hit Rick Dempsey's glove"
+"BAL198604070",13,"Debut game for Andy Allanson"FILENAME_TX","LINE_NUMBER_CT"
+
+"BAL198604090",74,"Debut game for Scott Bailes"1986BAL.EVA.regular.comment.csv",2
+
+"BAL198604200",5,"Foul bunt third strike"1986BAL.EVA.regular.comment.csv",3
+
+"BAL198605170",72,"Debut game for Tom Dozier"1986BAL.EVA.regular.comment.csv",4
+
+"BAL198606170",64,"ej,weave801,M,coont901,Balls and strikes $Orioles manager Weaver ejected by HP umpire Cooney for arguing strike call to Murray"1986BAL.EVA.regular.comment.csv",5
+
+"BAL198606300",11,"ej,ripkc801,C,morrd901,Balls and strikes $Orioles coach Ripken ejected by HP umpire Morrison for arguing called strike to Ripken"1986BAL.EVA.regular.comment.csv",6
+
+"BAL198607020",36,"ej,benij001,P,clara901,Balls and strikes Juan Beniquez ejected by HP umpire Al Clark"1986BAL.EVA.regular.comment.csv",7
+
+"BAL198607240",7,"Foul tipped third strike"1986BAL.EVA.regular.comment.csv",8
+
+"BAL198607250",65,"Debut game for Tom Dodd"1986BAL.EVA.regular.comment.csv",9
+
+"BAL198607260",47,"$Gene Nelson threw a pitch high and tight to Cal Ripken Jr"1986BAL.EVA.regular.comment.csv",10
+
+"BAL198607260",56,"ej,dempr001,P,cousd901,Charging mound ej,dixok001,P,cousd901,Fighting with Doug Rader ej,raded103,C,cousd901,Fighting with Ken Dixon $Rick Dempsey charged the mound and pitcher Gene Nelson tackled him; both benches cleared; Orioles pitcher Ken Dixon went after White Sox coach Doug Rader; while Rader was being restrained Dixon threw a punch that missed; Dempsey, Dixon and Rader ejected by HP umpire Derryl Cousins"1986BAL.EVA.regular.comment.csv",11
+
+"BAL198608090",62,"Debut game for Tony Arnold"1986BAL.EVA.regular.comment.csv",12
+
+"BAL198609210",88,"ej,weave801,M,clara901,Interference call Orioles manager Earl Weaver ejected by HP umpire Al Clark; Weaver claimed Charlie Moore threw his bat at a pitchout and hit Rick Dempsey's glove"1986BAL.EVA.regular.comment.csv",13
+

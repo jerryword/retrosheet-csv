@@ -1,63 +1,62 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"DET196904100",51,"Debut game for Larry Burchart"
-"DET196904110",1,"Debut game for Bill Burbach"
-"DET196904110",87,"Debut game for Mike Kilkenny"
-"DET196904260",20,"$Onto the roof"
-"DET196904260",32,"Debut game for Fred Scherman"
-"DET196905060",16,"375 feet"
-"DET196905060",75,"420 ft"
-"DET196905130",0,"35 minute rain delay before start"
-"DET196906210",49,"$Tim Cullen caught Willie Horton with the hidden ball trick"
-"DET196906222",61,"Game called due to rain; Pat Dobson entered but was not officially credited with an appearance"
-"DET196906240",0,"39 minute rain delay before start of game"
-"DET196906240",61,"370 feet"
-"DET196907010",0,"$Pat Dobson: 136 pitches"
-"DET196907010",55,"$off the facing of the right-center field upper deck"
-"DET196907020",0,"$Bill Landis: 89 pitches; Denny McLain: 136 pitches"
-"DET196907030",0,"$Ray Culp: 89 pitches; Joe Sparma: 87 pitches"
-"DET196907040",21,"68 minute rain delay"
-"DET196907040",37,"34 minute rain delay"
-"DET196907040",42,"game called after 46 minute rain delay"
-"DET196907050",21,"$the bat flew out of Frank Robinson's hand on a swing; Paul Blair strolled back to 3B while the bat was being retrieved; time was never called"
-"DET196907131",21,"$Al Kaline called for interference"
-"DET196907131",62,"ej,cashn101,P,sprim901,Called third strike Norm Cash ejected by HP umpire Marty Springstead"
-"DET196907250",42,"$Tom Tresh pulled a hamstring muscle running from 1B to 3B"
-"DET196908270",66,"ej,bands101,P,kunkb101,Called third strike Sal Bando ejected by HP umpire Bill Kunkel"
-"DET196908280",112,"$onto the roof; the ball struck the base of a tower and caromed back"
-"DET196908300",10,"ej,mcnej101,P,nappl901,Balls and strikes Jerry McNertney ejected by HP umpire Larry Napp"
-"DET196908310",62,"ej,cashn101,P,kunkb101,Called third strike Norm Cash ejected by HP umpire Bill Kunkel"
-"DET196909040",55,"Debut game for Terry Crowley"
-"DET196909050",43,"Debut game for Bob Reed"
-"DET196909170",39,"ej,cardj101,P,odomj901,Checked swing Jose Cardenal ejected by HP umpire Jim Odom"
-"DET196909180",26,"ej,nortj101,P,barnl901,Called third strike Jim Northrup ejected by HP umpire Larry Barnett"
-"DET196904100",51,"Debut game for Larry Burchart"
-"DET196904110",1,"Debut game for Bill Burbach"
-"DET196904110",87,"Debut game for Mike Kilkenny"
-"DET196904260",20,"$Onto the roof"
-"DET196904260",32,"Debut game for Fred Scherman"
-"DET196905060",16,"375 feet"
-"DET196905060",75,"420 ft"
-"DET196905130",0,"35 minute rain delay before start"
-"DET196906210",49,"$Tim Cullen caught Willie Horton with the hidden ball trick"
-"DET196906222",61,"Game called due to rain; Pat Dobson entered but was not officially credited with an appearance"
-"DET196906240",0,"39 minute rain delay before start of game"
-"DET196906240",61,"370 feet"
-"DET196907010",0,"$Pat Dobson: 136 pitches"
-"DET196907010",55,"$off the facing of the right-center field upper deck"
-"DET196907020",0,"$Bill Landis: 89 pitches; Denny McLain: 136 pitches"
-"DET196907030",0,"$Ray Culp: 89 pitches; Joe Sparma: 87 pitches"
-"DET196907040",21,"68 minute rain delay"
-"DET196907040",37,"34 minute rain delay"
-"DET196907040",42,"game called after 46 minute rain delay"
-"DET196907050",21,"$the bat flew out of Frank Robinson's hand on a swing; Paul Blair strolled back to 3B while the bat was being retrieved; time was never called"
-"DET196907131",21,"$Al Kaline called for interference"
-"DET196907131",62,"ej,cashn101,P,sprim901,Called third strike Norm Cash ejected by HP umpire Marty Springstead"
-"DET196907250",42,"$Tom Tresh pulled a hamstring muscle running from 1B to 3B"
-"DET196908270",66,"ej,bands101,P,kunkb101,Called third strike Sal Bando ejected by HP umpire Bill Kunkel"
-"DET196908280",112,"$onto the roof; the ball struck the base of a tower and caromed back"
-"DET196908300",10,"ej,mcnej101,P,nappl901,Balls and strikes Jerry McNertney ejected by HP umpire Larry Napp"
-"DET196908310",62,"ej,cashn101,P,kunkb101,Called third strike Norm Cash ejected by HP umpire Bill Kunkel"
-"DET196909040",55,"Debut game for Terry Crowley"
-"DET196909050",43,"Debut game for Bob Reed"
-"DET196909170",39,"ej,cardj101,P,odomj901,Checked swing Jose Cardenal ejected by HP umpire Jim Odom"
-"DET196909180",26,"ej,nortj101,P,barnl901,Called third strike Jim Northrup ejected by HP umpire Larry Barnett"
+"DET196904100",51,"Debut game for Larry Burchart"FILENAME_TX","LINE_NUMBER_CT"
+
+"DET196904110",1,"Debut game for Bill Burbach"1969DET.EVA.regular.comment.csv",2
+
+"DET196904110",87,"Debut game for Mike Kilkenny"1969DET.EVA.regular.comment.csv",3
+
+"DET196904260",20,"$Onto the roof"1969DET.EVA.regular.comment.csv",4
+
+"DET196904260",32,"Debut game for Fred Scherman"1969DET.EVA.regular.comment.csv",5
+
+"DET196905060",16,"375 feet"1969DET.EVA.regular.comment.csv",6
+
+"DET196905060",75,"420 ft"1969DET.EVA.regular.comment.csv",7
+
+"DET196905130",0,"35 minute rain delay before start"1969DET.EVA.regular.comment.csv",8
+
+"DET196906210",49,"$Tim Cullen caught Willie Horton with the hidden ball trick"1969DET.EVA.regular.comment.csv",9
+
+"DET196906222",61,"Game called due to rain; Pat Dobson entered but was not officially credited with an appearance"1969DET.EVA.regular.comment.csv",10
+
+"DET196906240",0,"39 minute rain delay before start of game"1969DET.EVA.regular.comment.csv",11
+
+"DET196906240",61,"370 feet"1969DET.EVA.regular.comment.csv",12
+
+"DET196907010",0,"$Pat Dobson: 136 pitches"1969DET.EVA.regular.comment.csv",13
+
+"DET196907010",55,"$off the facing of the right-center field upper deck"1969DET.EVA.regular.comment.csv",14
+
+"DET196907020",0,"$Bill Landis: 89 pitches; Denny McLain: 136 pitches"1969DET.EVA.regular.comment.csv",15
+
+"DET196907030",0,"$Ray Culp: 89 pitches; Joe Sparma: 87 pitches"1969DET.EVA.regular.comment.csv",16
+
+"DET196907040",21,"68 minute rain delay"1969DET.EVA.regular.comment.csv",17
+
+"DET196907040",37,"34 minute rain delay"1969DET.EVA.regular.comment.csv",18
+
+"DET196907040",42,"game called after 46 minute rain delay"1969DET.EVA.regular.comment.csv",19
+
+"DET196907050",21,"$the bat flew out of Frank Robinson's hand on a swing; Paul Blair strolled back to 3B while the bat was being retrieved; time was never called"1969DET.EVA.regular.comment.csv",20
+
+"DET196907131",21,"$Al Kaline called for interference"1969DET.EVA.regular.comment.csv",21
+
+"DET196907131",62,"ej,cashn101,P,sprim901,Called third strike Norm Cash ejected by HP umpire Marty Springstead"1969DET.EVA.regular.comment.csv",22
+
+"DET196907250",42,"$Tom Tresh pulled a hamstring muscle running from 1B to 3B"1969DET.EVA.regular.comment.csv",23
+
+"DET196908270",66,"ej,bands101,P,kunkb101,Called third strike Sal Bando ejected by HP umpire Bill Kunkel"1969DET.EVA.regular.comment.csv",24
+
+"DET196908280",112,"$onto the roof; the ball struck the base of a tower and caromed back"1969DET.EVA.regular.comment.csv",25
+
+"DET196908300",10,"ej,mcnej101,P,nappl901,Balls and strikes Jerry McNertney ejected by HP umpire Larry Napp"1969DET.EVA.regular.comment.csv",26
+
+"DET196908310",62,"ej,cashn101,P,kunkb101,Called third strike Norm Cash ejected by HP umpire Bill Kunkel"1969DET.EVA.regular.comment.csv",27
+
+"DET196909040",55,"Debut game for Terry Crowley"1969DET.EVA.regular.comment.csv",28
+
+"DET196909050",43,"Debut game for Bob Reed"1969DET.EVA.regular.comment.csv",29
+
+"DET196909170",39,"ej,cardj101,P,odomj901,Checked swing Jose Cardenal ejected by HP umpire Jim Odom"1969DET.EVA.regular.comment.csv",30
+
+"DET196909180",26,"ej,nortj101,P,barnl901,Called third strike Jim Northrup ejected by HP umpire Larry Barnett"1969DET.EVA.regular.comment.csv",31
+

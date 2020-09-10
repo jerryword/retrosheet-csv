@@ -1,49 +1,48 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"TEX200304090",72,"ej,garcr003,P,buckc901,Intentional HBP Reynaldo Garcia ejected by HP umpire CB Bucknor"
-"TEX200304090",85,"Debut game for Michael Neu"
-"TEX200304140",58,"Rangers Doug Glanville left the game due to an injured leg"
-"TEX200304170",40,"ej,sciom001,M,gibsg901,Called third strike Angels Manager Mike Scioscia ejected by HP umpire Greg Gibson"
-"TEX200304230",0,"1:24 delay during game"
-"TEX200305250",79,"ej,smits801,C,tscht901,Fair/foul call Rangers Coach Steve Smith ejected by HP umpire Tim Tschida"
-"TEX200306100",22,"Debut game for Jose Reyes"
-"TEX200306130",1,"Debut game for Tony Mounce"
-"TEX200306210",1,"Debut game for Rodrigo Rosario"
-"TEX200307100",15,"Debut game for Laynce Nix"
-"TEX200307230",17,"Debut game for Jason Jones"
-"TEX200307290",46,"Red Sox Manny Ramirez left the game due to an injured leg"
-"TEX200307290",76,"$Mueller switch-hit grand slams in game (first time in history)"
-"TEX200307300",74,"Debut game for Ramon Nivar"
-"TEX200308030",65,"Rangers Marcus Thames left the game due to an injured elbow"
-"TEX200308110",11,"1:51 rain delay"
-"TEX200308120",1,"Debut game for Juan Dominguez"
-"TEX200308130",0,"27 minute delay during game"
-"TEX200308140",19,"$Hank Blalock called for interference"
-"TEX200308150",18,"ej,alomr001,P,cuzzp901,Called third strike White Sox Roberto Alomar ejected by HP umpire Phil Cuzzi"
-"TEX200308170",32,"ej,smits801,C,iassd901,Call at 3B Rangers Coach Steve Smith ejected by 3B umpire Dan Iassogna"
-"TEX200308300",0,"1:26 delay during game"
-"TEX200309020",71,"Debut game for David DeJesus"
-"TEX200309180",0,"1:40 delay during game"
-"TEX200304090",72,"ej,garcr003,P,buckc901,Intentional HBP Reynaldo Garcia ejected by HP umpire CB Bucknor"
-"TEX200304090",85,"Debut game for Michael Neu"
-"TEX200304140",58,"Rangers Doug Glanville left the game due to an injured leg"
-"TEX200304170",40,"ej,sciom001,M,gibsg901,Called third strike Angels Manager Mike Scioscia ejected by HP umpire Greg Gibson"
-"TEX200304230",0,"1:24 delay during game"
-"TEX200305250",77,"ej,smits801,C,tscht901,Fair/foul call $Rangers coach Smith ejected by HP umpire Tschida for that ball hit by Diaz was foul"
-"TEX200306100",22,"Debut game for Jose Reyes"
-"TEX200306130",1,"Debut game for Tony Mounce"
-"TEX200306210",1,"Debut game for Rodrigo Rosario"
-"TEX200307100",15,"Debut game for Laynce Nix"
-"TEX200307230",17,"Debut game for Jason Jones"
-"TEX200307290",46,"Red Sox Manny Ramirez left the game due to an injured leg"
-"TEX200307290",76,"$Mueller switch-hit grand slams in game (first time in history)"
-"TEX200307300",74,"Debut game for Ramon Nivar"
-"TEX200308030",65,"Rangers Marcus Thames left the game due to an injured elbow"
-"TEX200308110",11,"1:51 rain delay"
-"TEX200308120",1,"Debut game for Juan Dominguez"
-"TEX200308130",0,"27 minute delay during game"
-"TEX200308140",19,"$Hank Blalock called for interference"
-"TEX200308150",18,"ej,alomr001,P,cuzzp901,Called third strike (Threw helmet) $Alomar ejected by HP umpire Phil Cuzzi for arguing called third strike; he threw his helmet"
-"TEX200308170",32,"ej,smits801,C,iassd901,Call at 3B $Rangers 3B coach Smith ejected by 3B umpire Iassogna as Rangers took field for arguing that Everett was out at 3rd in previous inning"
-"TEX200308300",0,"1:26 delay during game"
-"TEX200309020",71,"Debut game for David DeJesus"
-"TEX200309180",0,"1:40 delay during game"
+"TEX200304090",72,"ej,garcr003,P,buckc901,Intentional HBP Reynaldo Garcia ejected by HP umpire CB Bucknor"FILENAME_TX","LINE_NUMBER_CT"
+
+"TEX200304090",85,"Debut game for Michael Neu"2003TEX.EVA.regular.comment.csv",2
+
+"TEX200304140",58,"Rangers Doug Glanville left the game due to an injured leg"2003TEX.EVA.regular.comment.csv",3
+
+"TEX200304170",40,"ej,sciom001,M,gibsg901,Called third strike Angels Manager Mike Scioscia ejected by HP umpire Greg Gibson"2003TEX.EVA.regular.comment.csv",4
+
+"TEX200304230",0,"1:24 delay during game"2003TEX.EVA.regular.comment.csv",5
+
+"TEX200305250",77,"ej,smits801,C,tscht901,Fair/foul call $Rangers coach Smith ejected by HP umpire Tschida for that ball hit by Diaz was foul"2003TEX.EVA.regular.comment.csv",6
+
+"TEX200306100",22,"Debut game for Jose Reyes"2003TEX.EVA.regular.comment.csv",7
+
+"TEX200306130",1,"Debut game for Tony Mounce"2003TEX.EVA.regular.comment.csv",8
+
+"TEX200306210",1,"Debut game for Rodrigo Rosario"2003TEX.EVA.regular.comment.csv",9
+
+"TEX200307100",15,"Debut game for Laynce Nix"2003TEX.EVA.regular.comment.csv",10
+
+"TEX200307230",17,"Debut game for Jason Jones"2003TEX.EVA.regular.comment.csv",11
+
+"TEX200307290",46,"Red Sox Manny Ramirez left the game due to an injured leg"2003TEX.EVA.regular.comment.csv",12
+
+"TEX200307290",76,"$Mueller switch-hit grand slams in game (first time in history)"2003TEX.EVA.regular.comment.csv",13
+
+"TEX200307300",74,"Debut game for Ramon Nivar"2003TEX.EVA.regular.comment.csv",14
+
+"TEX200308030",65,"Rangers Marcus Thames left the game due to an injured elbow"2003TEX.EVA.regular.comment.csv",15
+
+"TEX200308110",11,"1:51 rain delay"2003TEX.EVA.regular.comment.csv",16
+
+"TEX200308120",1,"Debut game for Juan Dominguez"2003TEX.EVA.regular.comment.csv",17
+
+"TEX200308130",0,"27 minute delay during game"2003TEX.EVA.regular.comment.csv",18
+
+"TEX200308140",19,"$Hank Blalock called for interference"2003TEX.EVA.regular.comment.csv",19
+
+"TEX200308150",18,"ej,alomr001,P,cuzzp901,Called third strike (Threw helmet) $Alomar ejected by HP umpire Phil Cuzzi for arguing called third strike; he threw his helmet"2003TEX.EVA.regular.comment.csv",20
+
+"TEX200308170",32,"ej,smits801,C,iassd901,Call at 3B $Rangers 3B coach Smith ejected by 3B umpire Iassogna as Rangers took field for arguing that Everett was out at 3rd in previous inning"2003TEX.EVA.regular.comment.csv",21
+
+"TEX200308300",0,"1:26 delay during game"2003TEX.EVA.regular.comment.csv",22
+
+"TEX200309020",71,"Debut game for David DeJesus"2003TEX.EVA.regular.comment.csv",23
+
+"TEX200309180",0,"1:40 delay during game"2003TEX.EVA.regular.comment.csv",24
+

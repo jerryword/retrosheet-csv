@@ -1,47 +1,46 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"CHA200504040",5,"Debut game for Tadahito Iguchi"
-"CHA200504160",56,"$Ichiro Suzuki was around 2B by the time a fan interfered with the ball in play and the umpires awarded him a triple"
-"CHA200505010",17,"Debut game for Pedro Lopez"
-"CHA200505120",28,"Debut game for Jeffrey Fiorentino"
-"CHA200505140",16,"fan interference"
-"CHA200505160",37,"$Kevin Mench called for interference"
-"CHA200505160",64,"fan interference"
-"CHA200505170",11,"ej,smits801,C,dimum901,Call at 3B (Rowand steal) Rangers 3B Coach Steve Smith ejected by 3B umpire Mike DiMuro"
-"CHA200505300",58,"White Sox DH Frank Thomas left the game due to an injured leg"
-"CHA200506130",52,"White Sox DH Frank Thomas left the game due to an injured leg"
-"CHA200506200",12,"fan interference"
-"CHA200506210",55,"Debut game for Jonah Bayliss"
-"CHA200506210",67,"Debut game for Justin Huber"
-"CHA200507050",46,"fan interference"
-"CHA200507050",73,"Debut game for Fernando Cortez"
-"CHA200507060",75,"Debut game for Bobby Jenks"
-"CHA200507100",87,"ej,piera001,P,fostm901,Called third strike White Sox catcher A. J. Pierzynski ejected by HP umpire Marty Foster"
-"CHA200508020",33,"ej,guilo001,M,nelsj901,Balls and strikes White Sox Manager Ozzie Guillen ejected by HP umpire Jeff Nelson"
-"CHA200508040",74,"White Sox DH Carl Everett left the game due to an injured groin"
-"CHA200508160",21,"Debut game for Brian Anderson"
-"CHA200508200",44,"Yankees designated hitter Jason Giambi left the game due to an injured leg"
-"CHA200509080",38,"fan interference"
-"CHA200509230",6,"fan interference"
-"CHA200504040",5,"Debut game for Tadahito Iguchi"
-"CHA200504160",56,"$Ichiro Suzuki was around 2B by the time a fan interfered with the ball in play and the umpires awarded him a triple"
-"CHA200505010",17,"Debut game for Pedro Lopez"
-"CHA200505120",28,"Debut game for Jeffrey Fiorentino"
-"CHA200505140",16,"fan interference"
-"CHA200505160",37,"$Kevin Mench called for interference"
-"CHA200505160",64,"fan interference"
-"CHA200505170",12,"ej,smits801,C,dimum901,Call at 3B $Rangers 3B coach Smith ejected by 3B umpire DiMuro for arguing safe call on Rowand's steal in last inning"
-"CHA200505300",58,"White Sox DH Frank Thomas left the game due to an injured leg"
-"CHA200506130",52,"White Sox DH Frank Thomas left the game due to an injured leg"
-"CHA200506200",12,"fan interference"
-"CHA200506210",55,"Debut game for Jonah Bayliss"
-"CHA200506210",67,"Debut game for Justin Huber"
-"CHA200507050",46,"fan interference"
-"CHA200507050",73,"Debut game for Fernando Cortez"
-"CHA200507060",75,"Debut game for Bobby Jenks"
-"CHA200507100",87,"ej,piera001,P,fostm901,Called third strike White Sox catcher A. J. Pierzynski ejected by HP umpire Marty Foster"
-"CHA200508020",33,"ej,guilo001,M,nelsj901,Balls and strikes White Sox Manager Ozzie Guillen ejected by HP umpire Jeff Nelson"
-"CHA200508040",74,"White Sox DH Carl Everett left the game due to an injured groin"
-"CHA200508160",21,"Debut game for Brian Anderson"
-"CHA200508200",44,"Yankees designated hitter Jason Giambi left the game due to an injured leg"
-"CHA200509080",38,"fan interference"
-"CHA200509230",6,"fan interference"
+"CHA200504040",5,"Debut game for Tadahito Iguchi"FILENAME_TX","LINE_NUMBER_CT"
+
+"CHA200504160",56,"$Ichiro Suzuki was around 2B by the time a fan interfered with the ball in play and the umpires awarded him a triple"2005CHA.EVA.regular.comment.csv",2
+
+"CHA200505010",17,"Debut game for Pedro Lopez"2005CHA.EVA.regular.comment.csv",3
+
+"CHA200505120",28,"Debut game for Jeffrey Fiorentino"2005CHA.EVA.regular.comment.csv",4
+
+"CHA200505140",16,"fan interference"2005CHA.EVA.regular.comment.csv",5
+
+"CHA200505160",37,"$Kevin Mench called for interference"2005CHA.EVA.regular.comment.csv",6
+
+"CHA200505160",64,"fan interference"2005CHA.EVA.regular.comment.csv",7
+
+"CHA200505170",12,"ej,smits801,C,dimum901,Call at 3B $Rangers 3B coach Smith ejected by 3B umpire DiMuro for arguing safe call on Rowand's steal in last inning"2005CHA.EVA.regular.comment.csv",8
+
+"CHA200505300",58,"White Sox DH Frank Thomas left the game due to an injured leg"2005CHA.EVA.regular.comment.csv",9
+
+"CHA200506130",52,"White Sox DH Frank Thomas left the game due to an injured leg"2005CHA.EVA.regular.comment.csv",10
+
+"CHA200506200",12,"fan interference"2005CHA.EVA.regular.comment.csv",11
+
+"CHA200506210",55,"Debut game for Jonah Bayliss"2005CHA.EVA.regular.comment.csv",12
+
+"CHA200506210",67,"Debut game for Justin Huber"2005CHA.EVA.regular.comment.csv",13
+
+"CHA200507050",46,"fan interference"2005CHA.EVA.regular.comment.csv",14
+
+"CHA200507050",73,"Debut game for Fernando Cortez"2005CHA.EVA.regular.comment.csv",15
+
+"CHA200507060",75,"Debut game for Bobby Jenks"2005CHA.EVA.regular.comment.csv",16
+
+"CHA200507100",87,"ej,piera001,P,fostm901,Called third strike White Sox catcher A. J. Pierzynski ejected by HP umpire Marty Foster"2005CHA.EVA.regular.comment.csv",17
+
+"CHA200508020",33,"ej,guilo001,M,nelsj901,Balls and strikes White Sox Manager Ozzie Guillen ejected by HP umpire Jeff Nelson"2005CHA.EVA.regular.comment.csv",18
+
+"CHA200508040",74,"White Sox DH Carl Everett left the game due to an injured groin"2005CHA.EVA.regular.comment.csv",19
+
+"CHA200508160",21,"Debut game for Brian Anderson"2005CHA.EVA.regular.comment.csv",20
+
+"CHA200508200",44,"Yankees designated hitter Jason Giambi left the game due to an injured leg"2005CHA.EVA.regular.comment.csv",21
+
+"CHA200509080",38,"fan interference"2005CHA.EVA.regular.comment.csv",22
+
+"CHA200509230",6,"fan interference"2005CHA.EVA.regular.comment.csv",23
+

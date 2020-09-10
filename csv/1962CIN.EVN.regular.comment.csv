@@ -1,41 +1,40 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"CIN196204090",18,"Debut game for Tommy Harper"
-"CIN196204090",38,"Debut game for Ted Savage"
-"CIN196204160",67,"Debut game for Hank Fischer"
-"CIN196204180",53,"$the throw to 3B hit Don Blasingame"
-"CIN196204210",38,"ej,odelb101,P,forma901,Balls and strikes $Pitcher O'Dell ejected by HP umpire Forman for arguing balls and strikes to Pinson after Pinson homered"
-"CIN196205061",9,"21 minute rain delay"
-"CIN196205080",20,"ej,hutcf101,M,boggd901,Balk call Reds Manager Fred Hutchinson ejected by HP umpire Dusty Boggess"
-"CIN196205120",72,"ej,murtd101,M,secof101,Balk call Pirates Manager Danny Murtaugh ejected by HP umpire Frank Secory"
-"CIN196205260",82,"$a high pop in front of the plate that was misplayed"
-"CIN196206080",35,"ej,pinsv101,P,steim901,Call at 1B $Pinson ejected by 1B umpire Steiner for arguing that he had returned safely to 1st"
-"CIN196207022",65,"$Don Zimmer injured on play at 3B"
-"CIN196207190",12,"475 feet"
-"CIN196207221",62,"ej,ashbr101,P,smitv101,Balls and strikes Richie Ashburn ejected by HP umpire Vinnie Smith"
-"CIN196208100",34,"ej,woodg101,P,secof101,Called third strike Gene Woodling ejected by HP umpire Frank Secory"
-"CIN196208110",39,"ej,ashbr101,P,venzt901,Called third strike Richie Ashburn ejected by HP umpire Tony Venzon"
-"CIN196208170",56,"ej,alstw101,M,varge901,HBP call Dodgers Manager Walter Alston ejected by HP umpire Ed Vargo arguing that Gordy Coleman swung at HP"
-"CIN196208170",71,"$Jim Gilliam struck by foul ball in on deck circle"
-"CIN196208180",69,"$Frank Robinson rounded 3B too far"
-"CIN196209051",49,"Debut game for Freddie Burdette"
-"CIN196209120",51,"Debut game for Cap Peterson"
-"CIN196204090",18,"Debut game for Tommy Harper"
-"CIN196204090",38,"Debut game for Ted Savage"
-"CIN196204160",67,"Debut game for Hank Fischer"
-"CIN196204180",53,"$the throw to 3B hit Don Blasingame"
-"CIN196204210",38,"ej,odelb101,P,forma901,Balls and strikes $Pitcher O'Dell ejected by HP umpire Forman for arguing balls and strikes to Pinson after Pinson homered"
-"CIN196205061",9,"21 minute rain delay"
-"CIN196205080",20,"ej,hutcf101,M,boggd901,Balk call Reds Manager Fred Hutchinson ejected by HP umpire Dusty Boggess"
-"CIN196205120",72,"ej,murtd101,M,secof101,Balk call Pirates Manager Danny Murtaugh ejected by HP umpire Frank Secory"
-"CIN196205260",82,"$a high pop in front of the plate that was misplayed"
-"CIN196206080",35,"ej,pinsv101,P,steim901,Call at 1B $Pinson ejected by 1B umpire Steiner for arguing that he had returned safely to 1st"
-"CIN196207022",65,"$Don Zimmer injured on play at 3B"
-"CIN196207190",12,"475 feet"
-"CIN196207221",62,"ej,ashbr101,P,smitv101,Balls and strikes Richie Ashburn ejected by HP umpire Vinnie Smith"
-"CIN196208100",34,"ej,woodg101,P,secof101,Called third strike Gene Woodling ejected by HP umpire Frank Secory"
-"CIN196208110",39,"ej,ashbr101,P,venzt901,Called third strike Richie Ashburn ejected by HP umpire Tony Venzon"
-"CIN196208170",56,"ej,alstw101,M,varge901,HBP call Dodgers Manager Walter Alston ejected by HP umpire Ed Vargo arguing that Gordy Coleman swung at HP"
-"CIN196208170",71,"$Jim Gilliam struck by foul ball in on deck circle"
-"CIN196208180",69,"$Frank Robinson rounded 3B too far"
-"CIN196209051",49,"Debut game for Freddie Burdette"
-"CIN196209120",51,"Debut game for Cap Peterson"
+"CIN196204090",18,"Debut game for Tommy Harper"FILENAME_TX","LINE_NUMBER_CT"
+
+"CIN196204090",38,"Debut game for Ted Savage"1962CIN.EVN.regular.comment.csv",2
+
+"CIN196204160",67,"Debut game for Hank Fischer"1962CIN.EVN.regular.comment.csv",3
+
+"CIN196204180",53,"$the throw to 3B hit Don Blasingame"1962CIN.EVN.regular.comment.csv",4
+
+"CIN196204210",38,"ej,odelb101,P,forma901,Balls and strikes $Pitcher O'Dell ejected by HP umpire Forman for arguing balls and strikes to Pinson after Pinson homered"1962CIN.EVN.regular.comment.csv",5
+
+"CIN196205061",9,"21 minute rain delay"1962CIN.EVN.regular.comment.csv",6
+
+"CIN196205080",20,"ej,hutcf101,M,boggd901,Balk call Reds Manager Fred Hutchinson ejected by HP umpire Dusty Boggess"1962CIN.EVN.regular.comment.csv",7
+
+"CIN196205120",72,"ej,murtd101,M,secof101,Balk call Pirates Manager Danny Murtaugh ejected by HP umpire Frank Secory"1962CIN.EVN.regular.comment.csv",8
+
+"CIN196205260",82,"$a high pop in front of the plate that was misplayed"1962CIN.EVN.regular.comment.csv",9
+
+"CIN196206080",35,"ej,pinsv101,P,steim901,Call at 1B $Pinson ejected by 1B umpire Steiner for arguing that he had returned safely to 1st"1962CIN.EVN.regular.comment.csv",10
+
+"CIN196207022",65,"$Don Zimmer injured on play at 3B"1962CIN.EVN.regular.comment.csv",11
+
+"CIN196207190",12,"475 feet"1962CIN.EVN.regular.comment.csv",12
+
+"CIN196207221",62,"ej,ashbr101,P,smitv101,Balls and strikes Richie Ashburn ejected by HP umpire Vinnie Smith"1962CIN.EVN.regular.comment.csv",13
+
+"CIN196208100",34,"ej,woodg101,P,secof101,Called third strike Gene Woodling ejected by HP umpire Frank Secory"1962CIN.EVN.regular.comment.csv",14
+
+"CIN196208110",39,"ej,ashbr101,P,venzt901,Called third strike Richie Ashburn ejected by HP umpire Tony Venzon"1962CIN.EVN.regular.comment.csv",15
+
+"CIN196208170",56,"ej,alstw101,M,varge901,HBP call Dodgers Manager Walter Alston ejected by HP umpire Ed Vargo arguing that Gordy Coleman swung at HP"1962CIN.EVN.regular.comment.csv",16
+
+"CIN196208170",71,"$Jim Gilliam struck by foul ball in on deck circle"1962CIN.EVN.regular.comment.csv",17
+
+"CIN196208180",69,"$Frank Robinson rounded 3B too far"1962CIN.EVN.regular.comment.csv",18
+
+"CIN196209051",49,"Debut game for Freddie Burdette"1962CIN.EVN.regular.comment.csv",19
+
+"CIN196209120",51,"Debut game for Cap Peterson"1962CIN.EVN.regular.comment.csv",20
+

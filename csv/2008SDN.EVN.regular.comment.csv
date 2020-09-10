@@ -1,95 +1,94 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"SDN200803310",66,"Debut game for Wesley Wright"
-"SDN200804030",57,"Debut game for Callix Crabbe"
-"SDN200804040",1,"Debut game for Hiroki Kuroda"
-"SDN200804050",27,"$Padres catcher Bard caught the ball and then slid into the dugout; the runner was allowed to score according to rule 7.04(c)"
-"SDN200804260",54,"Diamondbacks pitcher Micah Owings left the game due to an injured foot/ankle"
-"SDN200804260",68,"Diamondbacks right fielder Justin Upton left the game due to an injured leg"
-"SDN200805090",20,"fan interference"
-"SDN200805100",18,"Debut game for Luke Carlin"
-"SDN200805110",1,"Debut game for Greg Reynolds"
-"SDN200805210",21,"$Line drive by Pujols off bridge of Young's nose; Young suffered broken nose and laceration, left game after 10 minutes of attention on mound"
-"SDN200805210",23,"$Bard suffered high ankle sprain as Pujols slid into him; placed onto DL after game"
-"SDN200805210",64,"ej,joynw001,C,reynj901,Balls and strikes on Jody Gerut Padres Batting Coach Wally Joyner ejected by HP umpire Jim Reynolds for arguing a strike called on the first pitch to Jody Gerut"
-"SDN200805220",54,"ej,encae001,P,coope901,Called third strike ej,baked002,M,coope901,Arguing Encarnacion's ejection Reds third baseman Edwin Encarnacion ejected by HP umpire Eric Cooper Reds Manager Dusty Baker ejected by HP umpire Eric Cooper"
-"SDN200805230",31,"$29 minute rain delay"
-"SDN200805240",60,"Debut game for Jared Wells"
-"SDN200805250",118,"$Gerut attempted to steal as Iguchi swung and missed, falling into catcher and being called out for interference"
-"SDN200805280",8,"Padres left fielder Justin Huber left the game due to an injured back"
-"SDN200805280",29,"$first career grand slam for Flores"
-"SDN200806020",78,"Debut game for Carlos Guevara"
-"SDN200806050",59,"$Iguchi fell while trying to avoid ball and dislocated shoulder - onto DL next day"
-"SDN200806210",24,"$Gerut leaped at wall and tipped the ball over the fence"
-"SDN200806220",66,"leaping catch at top of wall"
-"SDN200806220",68,"$Replay shows Gonzalez beat tag on very close play"
-"SDN200806220",75,"ej,blacb001,M,joycj901,Arguing that batted ball struck batter $Michael Barrett did not run as he claimed ball hit his foot; HP umpire Jim Joyce called for ball, examined it and ruled the play stood; SD manager Bud Black argued and was ejected"
-"SDN200806240",53,"originally WP, changed 2 days later to PB, makes UR"
-"SDN200806250",58,"Padres pitcher Carlos Guevara left the game due to an injured leg"
-"SDN200806260",1,"$Carlos Gomez called for interference"
-"SDN200807070",50,"ej,gonzf801,M,westj901,Reversal of call from double to foul ball $first pitch to Hanley Ramirez was hooking line drive past 3B; 3B umpire Chris Guccione called it fair, Alfredo Amezaga scored and Ramirez had double; San Diego manager Bud Black argued it was foul; the umpires huddled and reversed call, removing double; it was not clear which umpire reversed the call; Florida manager Fredi Gonzalez came to argue and was warned away by crew chief Joe West, umpiring at 2B; Gonzalez began to argue and was immediately ejected by West"
-"SDN200807090",11,"Debut game for John Baker"
-"SDN200807130",71,"fan interference"
-"SDN200807280",70,"originally scored as E2/TH, changed after game. This would have been 2E3 if it weren't automatic that the runner was out"
-"SDN200807300",34,"Throw to third was wide, but no one backed up"
-"SDN200807300",35,"originally ruled E5, but changed after game. Ball got past catcher Bard and no one chased it until made it into second base"
-"SDN200808120",59,"$Corey Hart called for interference"
-"SDN200808130",19,"Debut game for Sean Kazmar"
-"SDN200808160",1,"Debut game for Chad Reineke"
-"SDN200808290",16,"Debut game for Will Venable"
-"SDN200808300",1,"Debut game for Josh Geer"
-"SDN200809090",68,"ej,hundn001,P,fostm901,Called third strike Padres catcher Nick Hundley ejected by HP umpire Marty Foster"
-"SDN200809100",43,"Debut game for Michael Ekstrom"
-"SDN200809110",1,"$Padres center fielder Will Venable caught the ball and hit the wall at the same time"
-"SDN200809110",24,"$another catch at the wall by Will Venable"
-"SDN200809110",27,"$the first hit of Macias' career - a home run"
-"SDN200809140",18,"Padres pitcher Cha Seung Baek left the game due to an injured arm"
-"SDN200809260",35,"Padres pitcher Josh Geer left the game due to an injured elbow"
-"SDN200809260",42,"Pirates pitcher Ian Snell left the game due to an injured leg"
-"SDN200809280",20,"Padres pitcher Cha Seung Baek left the game due to an injured leg"
-"SDN200803310",66,"Debut game for Wesley Wright"
-"SDN200804030",57,"Debut game for Callix Crabbe"
-"SDN200804040",1,"Debut game for Hiroki Kuroda"
-"SDN200804050",27,"$Padres catcher Bard caught the ball and then slid into the dugout; the runner was allowed to score according to rule 7.04(c)"
-"SDN200804260",54,"Diamondbacks pitcher Micah Owings left the game due to an injured foot/ankle"
-"SDN200804260",68,"Diamondbacks right fielder Justin Upton left the game due to an injured leg"
-"SDN200805090",20,"fan interference"
-"SDN200805100",18,"Debut game for Luke Carlin"
-"SDN200805110",1,"Debut game for Greg Reynolds"
-"SDN200805210",21,"$Line drive by Pujols off bridge of Young's nose; Young suffered broken nose and laceration, left game after 10 minutes of attention on mound"
-"SDN200805210",23,"$Bard suffered high ankle sprain as Pujols slid into him; placed onto DL after game"
-"SDN200805210",64,"ej,joynw001,C,reynj901,Balls and strikes on Jody Gerut Padres Batting Coach Wally Joyner ejected by HP umpire Jim Reynolds for arguing a strike called on the first pitch to Jody Gerut"
-"SDN200805220",54,"ej,encae001,P,coope901,Called third strike ej,baked002,M,coope901,Arguing Encarnacion's ejection Reds third baseman Edwin Encarnacion ejected by HP umpire Eric Cooper Reds Manager Dusty Baker ejected by HP umpire Eric Cooper"
-"SDN200805230",31,"$29 minute rain delay"
-"SDN200805240",60,"Debut game for Jared Wells"
-"SDN200805250",118,"$Gerut attempted to steal as Iguchi swung and missed, falling into catcher and being called out for interference"
-"SDN200805280",8,"Padres left fielder Justin Huber left the game due to an injured back"
-"SDN200805280",29,"$first career grand slam for Flores"
-"SDN200806020",78,"Debut game for Carlos Guevara"
-"SDN200806050",59,"$Iguchi fell while trying to avoid ball and dislocated shoulder - onto DL next day"
-"SDN200806210",24,"$Gerut leaped at wall and tipped the ball over the fence"
-"SDN200806220",66,"leaping catch at top of wall"
-"SDN200806220",68,"$Replay shows Gonzalez beat tag on very close play"
-"SDN200806220",75,"ej,blacb001,M,joycj901,Fair/foul call $Padres manager Black ejected by HP umpire Joyce for arguing that Barrett's double play ball hit his foot and was therefore foul"
-"SDN200806240",53,"originally WP, changed 2 days later to PB, makes UR"
-"SDN200806250",58,"Padres pitcher Carlos Guevara left the game due to an injured leg"
-"SDN200806260",1,"$Carlos Gomez called for interference"
-"SDN200807070",50,"ej,gonzf801,M,westj901,Reversal of call from double to foul ball $first pitch to Hanley Ramirez was hooking line drive past 3B; 3B umpire Chris Guccione called it fair, Alfredo Amezaga scored and Ramirez had double; San Diego manager Bud Black argued it was foul; the umpires huddled and reversed call, removing double; it was not clear which umpire reversed the call; Florida manager Fredi Gonzalez came to argue and was warned away by crew chief Joe West, umpiring at 2B; Gonzalez began to argue and was immediately ejected by West"
-"SDN200807090",11,"Debut game for John Baker"
-"SDN200807130",71,"fan interference"
-"SDN200807280",70,"originally scored as E2/TH, changed after game. This would have been 2E3 if it weren't automatic that the runner was out"
-"SDN200807300",34,"Throw to third was wide, but no one backed up"
-"SDN200807300",35,"originally ruled E5, but changed after game. Ball got past catcher Bard and no one chased it until made it into second base"
-"SDN200808120",59,"$Corey Hart called for interference"
-"SDN200808130",19,"Debut game for Sean Kazmar"
-"SDN200808160",1,"Debut game for Chad Reineke"
-"SDN200808290",16,"Debut game for Will Venable"
-"SDN200808300",1,"Debut game for Josh Geer"
-"SDN200809090",68,"ej,hundn001,P,fostm901,Called third strike Padres catcher Nick Hundley ejected by HP umpire Marty Foster"
-"SDN200809100",43,"Debut game for Michael Ekstrom"
-"SDN200809110",1,"$Padres center fielder Will Venable caught the ball and hit the wall at the same time"
-"SDN200809110",24,"$another catch at the wall by Will Venable"
-"SDN200809110",27,"$the first hit of Macias' career - a home run"
-"SDN200809140",18,"Padres pitcher Cha Seung Baek left the game due to an injured arm"
-"SDN200809260",35,"Padres pitcher Josh Geer left the game due to an injured elbow"
-"SDN200809260",42,"Pirates pitcher Ian Snell left the game due to an injured leg"
-"SDN200809280",20,"Padres pitcher Cha Seung Baek left the game due to an injured leg"
+"SDN200803310",66,"Debut game for Wesley Wright"FILENAME_TX","LINE_NUMBER_CT"
+
+"SDN200804030",57,"Debut game for Callix Crabbe"2008SDN.EVN.regular.comment.csv",2
+
+"SDN200804040",1,"Debut game for Hiroki Kuroda"2008SDN.EVN.regular.comment.csv",3
+
+"SDN200804050",27,"$Padres catcher Bard caught the ball and then slid into the dugout; the runner was allowed to score according to rule 7.04(c)"2008SDN.EVN.regular.comment.csv",4
+
+"SDN200804260",54,"Diamondbacks pitcher Micah Owings left the game due to an injured foot/ankle"2008SDN.EVN.regular.comment.csv",5
+
+"SDN200804260",68,"Diamondbacks right fielder Justin Upton left the game due to an injured leg"2008SDN.EVN.regular.comment.csv",6
+
+"SDN200805090",20,"fan interference"2008SDN.EVN.regular.comment.csv",7
+
+"SDN200805100",18,"Debut game for Luke Carlin"2008SDN.EVN.regular.comment.csv",8
+
+"SDN200805110",1,"Debut game for Greg Reynolds"2008SDN.EVN.regular.comment.csv",9
+
+"SDN200805210",21,"$Line drive by Pujols off bridge of Young's nose; Young suffered broken nose and laceration, left game after 10 minutes of attention on mound"2008SDN.EVN.regular.comment.csv",10
+
+"SDN200805210",23,"$Bard suffered high ankle sprain as Pujols slid into him; placed onto DL after game"2008SDN.EVN.regular.comment.csv",11
+
+"SDN200805210",64,"ej,joynw001,C,reynj901,Balls and strikes on Jody Gerut Padres Batting Coach Wally Joyner ejected by HP umpire Jim Reynolds for arguing a strike called on the first pitch to Jody Gerut"2008SDN.EVN.regular.comment.csv",12
+
+"SDN200805220",54,"ej,encae001,P,coope901,Called third strike ej,baked002,M,coope901,Arguing Encarnacion's ejection Reds third baseman Edwin Encarnacion ejected by HP umpire Eric Cooper Reds Manager Dusty Baker ejected by HP umpire Eric Cooper"2008SDN.EVN.regular.comment.csv",13
+
+"SDN200805230",31,"$29 minute rain delay"2008SDN.EVN.regular.comment.csv",14
+
+"SDN200805240",60,"Debut game for Jared Wells"2008SDN.EVN.regular.comment.csv",15
+
+"SDN200805250",118,"$Gerut attempted to steal as Iguchi swung and missed, falling into catcher and being called out for interference"2008SDN.EVN.regular.comment.csv",16
+
+"SDN200805280",8,"Padres left fielder Justin Huber left the game due to an injured back"2008SDN.EVN.regular.comment.csv",17
+
+"SDN200805280",29,"$first career grand slam for Flores"2008SDN.EVN.regular.comment.csv",18
+
+"SDN200806020",78,"Debut game for Carlos Guevara"2008SDN.EVN.regular.comment.csv",19
+
+"SDN200806050",59,"$Iguchi fell while trying to avoid ball and dislocated shoulder - onto DL next day"2008SDN.EVN.regular.comment.csv",20
+
+"SDN200806210",24,"$Gerut leaped at wall and tipped the ball over the fence"2008SDN.EVN.regular.comment.csv",21
+
+"SDN200806220",66,"leaping catch at top of wall"2008SDN.EVN.regular.comment.csv",22
+
+"SDN200806220",68,"$Replay shows Gonzalez beat tag on very close play"2008SDN.EVN.regular.comment.csv",23
+
+"SDN200806220",75,"ej,blacb001,M,joycj901,Fair/foul call $Padres manager Black ejected by HP umpire Joyce for arguing that Barrett's double play ball hit his foot and was therefore foul"2008SDN.EVN.regular.comment.csv",24
+
+"SDN200806240",53,"originally WP, changed 2 days later to PB, makes UR"2008SDN.EVN.regular.comment.csv",25
+
+"SDN200806250",58,"Padres pitcher Carlos Guevara left the game due to an injured leg"2008SDN.EVN.regular.comment.csv",26
+
+"SDN200806260",1,"$Carlos Gomez called for interference"2008SDN.EVN.regular.comment.csv",27
+
+"SDN200807070",50,"ej,gonzf801,M,westj901,Reversal of call from double to foul ball $first pitch to Hanley Ramirez was hooking line drive past 3B; 3B umpire Chris Guccione called it fair, Alfredo Amezaga scored and Ramirez had double; San Diego manager Bud Black argued it was foul; the umpires huddled and reversed call, removing double; it was not clear which umpire reversed the call; Florida manager Fredi Gonzalez came to argue and was warned away by crew chief Joe West, umpiring at 2B; Gonzalez began to argue and was immediately ejected by West"2008SDN.EVN.regular.comment.csv",28
+
+"SDN200807090",11,"Debut game for John Baker"2008SDN.EVN.regular.comment.csv",29
+
+"SDN200807130",71,"fan interference"2008SDN.EVN.regular.comment.csv",30
+
+"SDN200807280",70,"originally scored as E2/TH, changed after game. This would have been 2E3 if it weren't automatic that the runner was out"2008SDN.EVN.regular.comment.csv",31
+
+"SDN200807300",34,"Throw to third was wide, but no one backed up"2008SDN.EVN.regular.comment.csv",32
+
+"SDN200807300",35,"originally ruled E5, but changed after game. Ball got past catcher Bard and no one chased it until made it into second base"2008SDN.EVN.regular.comment.csv",33
+
+"SDN200808120",59,"$Corey Hart called for interference"2008SDN.EVN.regular.comment.csv",34
+
+"SDN200808130",19,"Debut game for Sean Kazmar"2008SDN.EVN.regular.comment.csv",35
+
+"SDN200808160",1,"Debut game for Chad Reineke"2008SDN.EVN.regular.comment.csv",36
+
+"SDN200808290",16,"Debut game for Will Venable"2008SDN.EVN.regular.comment.csv",37
+
+"SDN200808300",1,"Debut game for Josh Geer"2008SDN.EVN.regular.comment.csv",38
+
+"SDN200809090",68,"ej,hundn001,P,fostm901,Called third strike Padres catcher Nick Hundley ejected by HP umpire Marty Foster"2008SDN.EVN.regular.comment.csv",39
+
+"SDN200809100",43,"Debut game for Michael Ekstrom"2008SDN.EVN.regular.comment.csv",40
+
+"SDN200809110",1,"$Padres center fielder Will Venable caught the ball and hit the wall at the same time"2008SDN.EVN.regular.comment.csv",41
+
+"SDN200809110",24,"$another catch at the wall by Will Venable"2008SDN.EVN.regular.comment.csv",42
+
+"SDN200809110",27,"$the first hit of Macias' career - a home run"2008SDN.EVN.regular.comment.csv",43
+
+"SDN200809140",18,"Padres pitcher Cha Seung Baek left the game due to an injured arm"2008SDN.EVN.regular.comment.csv",44
+
+"SDN200809260",35,"Padres pitcher Josh Geer left the game due to an injured elbow"2008SDN.EVN.regular.comment.csv",45
+
+"SDN200809260",42,"Pirates pitcher Ian Snell left the game due to an injured leg"2008SDN.EVN.regular.comment.csv",46
+
+"SDN200809280",20,"Padres pitcher Cha Seung Baek left the game due to an injured leg"2008SDN.EVN.regular.comment.csv",47
+

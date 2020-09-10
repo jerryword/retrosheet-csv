@@ -1,27 +1,24 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"WS1193405060",9,"$Throw by Cronin in attempt to complete DP hit Simmons in head; Al was knocked out, but remained after short delay"
-"WS1193405060",11,"$Another delay before Simmons took the field"
-"WS1193405060",25,"$Confusion caused by Chicago thinking there was only one out; Jones threw home instead of to 1st and Kuhel retreated to 3rd as Manush arrived there; Kuhel was off the base and was tagged out; the White Sox stayed on the field until the umpires informed them there were 3 outs"
-"SLA193407240",16,"Lazzeri has somthing in eye; Heffner courtesy 2b"
-"SLA193407240",33,"though Heffner in the field"
-"SLA193407240",53,"actually Heffner had previously been in the field"
-"SLA193407240",57,"$Combs hit wall; carried off unconscious"
-"SLA193407250",17,"$Chapman developed charley horse chasing West's double"
-"SLA193407250",44,"$Dickey ejected by plate umpire Ormsby for arguing that Campbell's double was foul"
-"SLA193409021",21,"$Haas left with injured leg"
-"CLE193409050",35,"ej,ferrr101,P,orsmr901,Throwing equipment $Catcher Ferrell ejected for throwing equipment after safe call"
-"SLA193409091",64,"$Ruth carried off with leg injury"
-"CHA193409091",79,"After hit, Susko caught off second, Schulte then tries to score"
-"CHA193409162",47,"$Johnson hurt his arm throwing out Hopkins"
-"WS1193405060",9,"$Throw by Cronin in attempt to complete DP hit Simmons in head; Al was knocked out, but remained after short delay"
-"WS1193405060",11,"$Another delay before Simmons took the field"
-"WS1193405060",25,"$Confusion caused by Chicago thinking there was only one out; Jones threw home instead of to 1st and Kuhel retreated to 3rd as Manush arrived there; Kuhel was off the base and was tagged out; the White Sox stayed on the field until the umpires informed them there were 3 outs"
-"SLA193407240",16,"$Lazzeri has somthing in eye; Heffner courtesy 2b"
-"SLA193407240",57,"$Combs hit wall; carried off unconscious with fractured skull, out for rest of season"
-"SLA193407250",18,"$Chapman developed charley horse chasing West's double"
-"SLA193407250",45,"ej,dickb101,P,ormsr901,Fair/foul call (Shoved umpire) $Catcher Dickey ejected by HP umpire Ormsby for arguing that Campbell's double was foul; Dickey shoved umpire in argument"
-"SLA193409021",21,"$Haas left with injured leg"
-"CLE193409050",35,"ej,ferrr101,P,orsmr901,Call at HP (Threw equipment) $Catcher Ferrell ejected by HP umpire Ormsby for arguing Hale was out at home; threw equipment during argument"
-"SLA193409091",64,"$Ruth carried off with leg injury"
-"CHA193409091",79,"After hit, Susko caught off second, Schulte then tries to score"
-"CHA193409162",47,"$Johnson hurt his arm throwing out Hopkins"
+"WS1193405060",9,"$Throw by Cronin in attempt to complete DP hit Simmons in head; Al was knocked out, but remained after short delay"FILENAME_TX","LINE_NUMBER_CT"
+
+"WS1193405060",11,"$Another delay before Simmons took the field"1934.EDA.regular.comment.csv",2
+
+"WS1193405060",25,"$Confusion caused by Chicago thinking there was only one out; Jones threw home instead of to 1st and Kuhel retreated to 3rd as Manush arrived there; Kuhel was off the base and was tagged out; the White Sox stayed on the field until the umpires informed them there were 3 outs"1934.EDA.regular.comment.csv",3
+
+"SLA193407240",16,"$Lazzeri has somthing in eye; Heffner courtesy 2b"1934.EDA.regular.comment.csv",4
+
+"SLA193407240",57,"$Combs hit wall; carried off unconscious with fractured skull, out for rest of season"1934.EDA.regular.comment.csv",5
+
+"SLA193407250",18,"$Chapman developed charley horse chasing West's double"1934.EDA.regular.comment.csv",6
+
+"SLA193407250",45,"ej,dickb101,P,ormsr901,Fair/foul call (Shoved umpire) $Catcher Dickey ejected by HP umpire Ormsby for arguing that Campbell's double was foul; Dickey shoved umpire in argument"1934.EDA.regular.comment.csv",7
+
+"SLA193409021",21,"$Haas left with injured leg"1934.EDA.regular.comment.csv",8
+
+"CLE193409050",35,"ej,ferrr101,P,orsmr901,Call at HP (Threw equipment) $Catcher Ferrell ejected by HP umpire Ormsby for arguing Hale was out at home; threw equipment during argument"1934.EDA.regular.comment.csv",9
+
+"SLA193409091",64,"$Ruth carried off with leg injury"1934.EDA.regular.comment.csv",10
+
+"CHA193409091",79,"After hit, Susko caught off second, Schulte then tries to score"1934.EDA.regular.comment.csv",11
+
+"CHA193409162",47,"$Johnson hurt his arm throwing out Hopkins"1934.EDA.regular.comment.csv",12
+

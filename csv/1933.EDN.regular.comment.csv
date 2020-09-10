@@ -1,61 +1,60 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"CHN193304301",44,"ej,wilsj105,P,morac102,Arguing call at 1B $Wilson's throw hit English; Wilson argued that English ran out of the baseline."
-"CHN193304301",53,"$1:41 rain delay"
-"BSN193305071",9,"High, wind-aided fly into runway between jury box and RF pavilion, about 415' away."
-"BSN193305071",22,"Lucky single when Grimm feigned throw home too long"
-"BSN193305071",29,"$Brandt had tried several pickoffs before balk called.  BSN strenuously argued the call."
-"BSN193305071",51,"$Demaree missed it while avoiding the wall; close play at 3B"
-"BSN193305072",3,"Tremendous HR to the left of the jury box, about 450' away"
-"BSN193305072",20,"$Herman pulled a charley horse rounding 1B, left in 3rd"
-"BSN193305072",32,"Into first row of LCF bleachers"
-"PHI193306031",2,"Low throw to 1B prevented DP"
-"PHI193306031",4,"Fullis and Klein got mixed up and it fell between them"
-"PHI193306031",61,"While pitching to Ott, Pierce developed a cramp in his right side but insisted on continuing.  After the game he was taken to the hospital as a precaution (not serious)."
-"PHI193306031",64,"Delker: diving stop"
-"BSN193308061",40,"Good catch by Hargrave reaching into the grandstands."
-"BSN193308062",72,"Throw to second base was late."
-"BSN193308062",74,"Good play by Urbanski to hold runners on their bases."
-"BSN193308062",79,"Throw to second base was late."
-"BSN193309031",15,"$Debut game for Tommy Thompson."
-"BSN193309031",19,"$Shores rounded second base too far on Moore's slow roller."
-"BSN193309031",37,"$Missed sacrifice attempt resulted in two men on second base."
-"SLN193309080",43,"pbp account ends here, rest deduced"
-"NY1193308272",68,"ej,ott-m101,P,mcgrt901,Call at 1b ej,clart101,P,mcgrt901,Call at 1b $Ott and New York coach Clarke ejected by 1b umpire McGrew for arguing call at 1st"
-"NY1193308272",77,"$Game called for darkness"
-"SLN193309230",18,"$Rain begins"
-"SLN193309230",45,"$Rain delay of 2 hours, 9 minutes at this point Second game of scheduled doubleheader canceled"
-"CHN193309102",18,"$Berly entered the game with the count 3-1 on Hack. Berly threw ball four but the walk was charged to Pearce."
-"CHN193309102",35,"$Jurges 'slid into second with one foot hoisted high as Bartell's waist line'"
-"CHN193309102",36,"$The Phillies dugout was razzing Jurges for his hard slide in the fourth. Jurges retaliated by throwing two baseballs into the Phillies dugout. The Phillies threw one ball back, almost hitting Jurges. Then several Phillies charged Jurges from the dugout, prompting several Cubs to also leave their dugout. Order was restored with no ejections."
-"CHN193309102",50,"$This was Dolph Camilli's first major-league hit."
-"NY1193309242",49,"$Game called for darkness"
-"CHN193304301",44,"ej,wilsj105,P,morac102,Arguing call at 1B $Wilson's throw hit English; Wilson argued that English ran out of the baseline."
-"CHN193304301",53,"$1:41 rain delay"
-"BSN193305071",9,"High, wind-aided fly into runway between jury box and RF pavilion, about 415' away."
-"BSN193305071",22,"Lucky single when Grimm feigned throw home too long"
-"BSN193305071",29,"$Brandt had tried several pickoffs before balk called.  BSN strenuously argued the call."
-"BSN193305071",51,"$Demaree missed it while avoiding the wall; close play at 3B"
-"BSN193305072",3,"Tremendous HR to the left of the jury box, about 450' away"
-"BSN193305072",20,"$Herman pulled a charley horse rounding 1B, left in 3rd"
-"BSN193305072",32,"Into first row of LCF bleachers"
-"PHI193306031",2,"Low throw to 1B prevented DP"
-"PHI193306031",4,"Fullis and Klein got mixed up and it fell between them"
-"PHI193306031",61,"While pitching to Ott, Pierce developed a cramp in his right side but insisted on continuing.  After the game he was taken to the hospital as a precaution (not serious)."
-"PHI193306031",64,"Delker: diving stop"
-"BSN193308061",40,"Good catch by Hargrave reaching into the grandstands."
-"BSN193308062",72,"Throw to second base was late."
-"BSN193308062",74,"Good play by Urbanski to hold runners on their bases."
-"BSN193308062",79,"Throw to second base was late."
-"BSN193309031",15,"$Debut game for Tommy Thompson."
-"BSN193309031",19,"$Shores rounded second base too far on Moore's slow roller."
-"BSN193309031",37,"$Missed sacrifice attempt resulted in two men on second base."
-"SLN193309080",43,"pbp account ends here, rest deduced"
-"NY1193308272",68,"ej,ott-m101,P,mcgrt901,Call at 1b ej,clart101,P,mcgrt901,Call at 1b $Ott and New York coach Clarke ejected by 1b umpire McGrew for arguing call at 1st"
-"NY1193308272",77,"$Game called for darkness"
-"SLN193309230",18,"$Rain begins"
-"SLN193309230",45,"$Rain delay of 2 hours, 9 minutes at this point Second game of scheduled doubleheader canceled"
-"CHN193309102",18,"$Berly entered the game with the count 3-1 on Hack. Berly threw ball four but the walk was charged to Pearce."
-"CHN193309102",35,"$Jurges 'slid into second with one foot hoisted high as Bartell's waist line'"
-"CHN193309102",36,"$The Phillies dugout was razzing Jurges for his hard slide in the fourth. Jurges retaliated by throwing two baseballs into the Phillies dugout. The Phillies threw one ball back, almost hitting Jurges. Then several Phillies charged Jurges from the dugout, prompting several Cubs to also leave their dugout. Order was restored with no ejections."
-"CHN193309102",50,"$This was Dolph Camilli's first major-league hit."
-"NY1193309242",49,"$Game called for darkness"
+"CHN193304301",44,"ej,wilsj105,P,morac102,Arguing call at 1B $Wilson's throw hit English; Wilson argued that English ran out of the baseline."FILENAME_TX","LINE_NUMBER_CT"
+
+"CHN193304301",53,"$1:41 rain delay"1933.EDN.regular.comment.csv",2
+
+"BSN193305071",9,"High, wind-aided fly into runway between jury box and RF pavilion, about 415' away."1933.EDN.regular.comment.csv",3
+
+"BSN193305071",22,"Lucky single when Grimm feigned throw home too long"1933.EDN.regular.comment.csv",4
+
+"BSN193305071",29,"$Brandt had tried several pickoffs before balk called.  BSN strenuously argued the call."1933.EDN.regular.comment.csv",5
+
+"BSN193305071",51,"$Demaree missed it while avoiding the wall; close play at 3B"1933.EDN.regular.comment.csv",6
+
+"BSN193305072",3,"Tremendous HR to the left of the jury box, about 450' away"1933.EDN.regular.comment.csv",7
+
+"BSN193305072",20,"$Herman pulled a charley horse rounding 1B, left in 3rd"1933.EDN.regular.comment.csv",8
+
+"BSN193305072",32,"Into first row of LCF bleachers"1933.EDN.regular.comment.csv",9
+
+"PHI193306031",2,"Low throw to 1B prevented DP"1933.EDN.regular.comment.csv",10
+
+"PHI193306031",4,"Fullis and Klein got mixed up and it fell between them"1933.EDN.regular.comment.csv",11
+
+"PHI193306031",61,"While pitching to Ott, Pierce developed a cramp in his right side but insisted on continuing.  After the game he was taken to the hospital as a precaution (not serious)."1933.EDN.regular.comment.csv",12
+
+"PHI193306031",64,"Delker: diving stop"1933.EDN.regular.comment.csv",13
+
+"BSN193308061",40,"Good catch by Hargrave reaching into the grandstands."1933.EDN.regular.comment.csv",14
+
+"BSN193308062",72,"Throw to second base was late."1933.EDN.regular.comment.csv",15
+
+"BSN193308062",74,"Good play by Urbanski to hold runners on their bases."1933.EDN.regular.comment.csv",16
+
+"BSN193308062",79,"Throw to second base was late."1933.EDN.regular.comment.csv",17
+
+"BSN193309031",15,"$Debut game for Tommy Thompson."1933.EDN.regular.comment.csv",18
+
+"BSN193309031",19,"$Shores rounded second base too far on Moore's slow roller."1933.EDN.regular.comment.csv",19
+
+"BSN193309031",37,"$Missed sacrifice attempt resulted in two men on second base."1933.EDN.regular.comment.csv",20
+
+"SLN193309080",43,"pbp account ends here, rest deduced"1933.EDN.regular.comment.csv",21
+
+"NY1193308272",68,"ej,ott-m101,P,mcgrt901,Call at 1b ej,clart101,P,mcgrt901,Call at 1b $Ott and New York coach Clarke ejected by 1b umpire McGrew for arguing call at 1st"1933.EDN.regular.comment.csv",22
+
+"NY1193308272",77,"$Game called for darkness"1933.EDN.regular.comment.csv",23
+
+"SLN193309230",18,"$Rain begins"1933.EDN.regular.comment.csv",24
+
+"SLN193309230",45,"$Rain delay of 2 hours, 9 minutes at this point Second game of scheduled doubleheader canceled"1933.EDN.regular.comment.csv",25
+
+"CHN193309102",18,"$Berly entered the game with the count 3-1 on Hack. Berly threw ball four but the walk was charged to Pearce."1933.EDN.regular.comment.csv",26
+
+"CHN193309102",35,"$Jurges 'slid into second with one foot hoisted high as Bartell's waist line'"1933.EDN.regular.comment.csv",27
+
+"CHN193309102",36,"$The Phillies dugout was razzing Jurges for his hard slide in the fourth. Jurges retaliated by throwing two baseballs into the Phillies dugout. The Phillies threw one ball back, almost hitting Jurges. Then several Phillies charged Jurges from the dugout, prompting several Cubs to also leave their dugout. Order was restored with no ejections."1933.EDN.regular.comment.csv",28
+
+"CHN193309102",50,"$This was Dolph Camilli's first major-league hit."1933.EDN.regular.comment.csv",29
+
+"NY1193309242",49,"$Game called for darkness"1933.EDN.regular.comment.csv",30
+

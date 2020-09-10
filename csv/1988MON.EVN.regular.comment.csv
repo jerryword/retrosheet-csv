@@ -1,73 +1,72 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"MON198804070",8,"$Tim Teufel overslid the bag"
-"MON198804070",82,"$Kevin Elster failed to step on the bag"
-"MON198804150",19,"$Steve Jeltz missed 2B bag"
-"MON198804170",45,"$David Palmer out with arm injury"
-"MON198804170",74,"$Mike Maddux injured"
-"MON198804260",17,"$force attempt, missed bag, confused runner was tagged out"
-"MON198805050",51,"ej,rodgb102,M,grege901,Call at 3B $Expos manager Rodgers ejected by 3B umpire Gregg for arguing Griffey was out at 3rd"
-"MON198805070",53,"$Pascual Perez sprained his finger attempting to bunt"
-"MON198805080",52,"ej,youmf001,P,grege901,Balls and strikes Floyd Youmans ejected by HP umpire Eric Gregg"
-"MON198805240",5,"$Randy Ready called for interference"
-"MON198805280",74,"$Johnny Paredes was called out for being outside the base line"
-"MON198805280",81,"$Jay Howell slipped and threw late to 2B"
-"MON198805300",13,"$failed squeeze play"
-"MON198806220",4,"$Otis Nixon called for interference when his bat hit the ball twice"
-"MON198806250",1,"Debut game for Brian Holman"
-"MON198806250",13,"DWS: view this error with suspicion; it makes batter and pitcher OK"
-"MON198806260",14,"umpchange,3,umphome,hirsm901 umpchange,3,ump1b,darlg901 umpchange,3,ump2b,(None) $HP umpire Bruce Froemming hit on collarbone in 1st inning, left here; 1B umpire Mark Hirschbeck moved to HP; 2B umpire Gary Darling moved to 1B"
-"MON198807030",8,"ej,nixor101,M,davib902,Balk Braves manager Russ Nixon ejected by 2B umpire Bob Davidson"
-"MON198807180",46,"Debut game for Tim Barrett"
-"MON198807260",60,"$Andres Gallaraga called for interference for running into his own batted ball"
-"MON198807270",20,"$two runners on 3B after blown squeeze"
-"MON198807290",46,"$Hubie Brooks injured on foul ball"
-"MON198808280",49,"ej,martd001,P,davib902,Balk ej,perep001,P,davib902,Balk Pascual Perez and Dennis Martinez ejected by 3B umpire Bob Davidson arguing a balk call after the inning; Martinez was not in the game"
-"MON198808280",62,"$Marvell Wynne's throw hit Tom Foley and bounced into dugout"
-"MON198809020",19,"$Atlee Hammaker injured by Tracy Jones' ground ball"
-"MON198809020",65,"Debut game for Jeff Huson"
-"MON198809030",36,"$Bob Melvin injured during play at HP"
-"MON198809030",56,"$Don Robinson left due to a foot injury"
-"MON198809030",90,"ej,uribj001,P,willc901,Call at 1B Jose Uribe ejected by 1B umpire Charlie Williams"
-"MON198809120",43,"$Terry Pendleton hurt, carried from field on stretcher"
-"MON198809150",1,"Debut game for Randy Johnson"
-"MON198809150",54,"$John Cangelosi called for interference for running into his own batted ball"
-"MON198809280",29,"$Andre Dawson injured sliding"
-"MON198809280",76,"DWS: invented play for Santovenia.  We know it's not a K"
-"MON198809300",21,"$Wallace Johnson called for interference for stepping on HP as he fouled off bunt"
-"MON198810020",68,"DWS: very suspicious about the GDP and IW this inning"
-"MON198804070",8,"$Tim Teufel overslid the bag"
-"MON198804070",82,"$Kevin Elster failed to step on the bag"
-"MON198804150",19,"$Steve Jeltz missed 2B bag"
-"MON198804170",45,"$David Palmer out with arm injury"
-"MON198804170",74,"$Mike Maddux injured"
-"MON198804260",17,"$force attempt, missed bag, confused runner was tagged out"
-"MON198805050",51,"ej,rodgb102,M,grege901,Call at 3B $Expos manager Rodgers ejected by 3B umpire Gregg for arguing Griffey was out at 3rd"
-"MON198805070",53,"$Pascual Perez sprained his finger attempting to bunt"
-"MON198805080",52,"ej,youmf001,P,grege901,Balls and strikes Floyd Youmans ejected by HP umpire Eric Gregg"
-"MON198805240",5,"$Randy Ready called for interference"
-"MON198805280",74,"$Johnny Paredes was called out for being outside the base line"
-"MON198805280",81,"$Jay Howell slipped and threw late to 2B"
-"MON198805300",13,"$failed squeeze play"
-"MON198806220",4,"$Otis Nixon called for interference when his bat hit the ball twice"
-"MON198806250",1,"Debut game for Brian Holman"
-"MON198806250",13,"DWS: view this error with suspicion; it makes batter and pitcher OK"
-"MON198806260",14,"umpchange,3,umphome,hirsm901 umpchange,3,ump1b,darlg901 umpchange,3,ump2b,(None) $HP umpire Bruce Froemming hit on collarbone in 1st inning, left here; 1B umpire Mark Hirschbeck moved to HP; 2B umpire Gary Darling moved to 1B"
-"MON198807030",8,"ej,nixor101,M,davib902,Balk Braves manager Russ Nixon ejected by 2B umpire Bob Davidson"
-"MON198807180",46,"Debut game for Tim Barrett"
-"MON198807260",60,"$Andres Gallaraga called for interference for running into his own batted ball"
-"MON198807270",20,"$two runners on 3B after blown squeeze"
-"MON198807290",46,"$Hubie Brooks injured on foul ball"
-"MON198808280",49,"ej,martd001,P,davib902,Balk ej,perep001,P,davib902,Balk Pascual Perez and Dennis Martinez ejected by 3B umpire Bob Davidson arguing a balk call after the inning; Martinez was not in the game"
-"MON198808280",62,"$Marvell Wynne's throw hit Tom Foley and bounced into dugout"
-"MON198809020",19,"$Atlee Hammaker injured by Tracy Jones' ground ball"
-"MON198809020",65,"Debut game for Jeff Huson"
-"MON198809030",36,"$Bob Melvin injured during play at HP"
-"MON198809030",56,"$Don Robinson left due to a foot injury"
-"MON198809030",90,"ej,uribj001,P,willc901,Call at 1B Jose Uribe ejected by 1B umpire Charlie Williams"
-"MON198809120",43,"$Terry Pendleton hurt, carried from field on stretcher"
-"MON198809150",1,"Debut game for Randy Johnson"
-"MON198809150",54,"$John Cangelosi called for interference for running into his own batted ball"
-"MON198809280",29,"$Andre Dawson injured sliding"
-"MON198809280",76,"DWS: invented play for Santovenia.  We know it's not a K"
-"MON198809300",21,"$Wallace Johnson called for interference for stepping on HP as he fouled off bunt"
-"MON198810020",68,"DWS: very suspicious about the GDP and IW this inning"
+"MON198804070",8,"$Tim Teufel overslid the bag"FILENAME_TX","LINE_NUMBER_CT"
+
+"MON198804070",82,"$Kevin Elster failed to step on the bag"1988MON.EVN.regular.comment.csv",2
+
+"MON198804150",19,"$Steve Jeltz missed 2B bag"1988MON.EVN.regular.comment.csv",3
+
+"MON198804170",45,"$David Palmer out with arm injury"1988MON.EVN.regular.comment.csv",4
+
+"MON198804170",74,"$Mike Maddux injured"1988MON.EVN.regular.comment.csv",5
+
+"MON198804260",17,"$force attempt, missed bag, confused runner was tagged out"1988MON.EVN.regular.comment.csv",6
+
+"MON198805050",51,"ej,rodgb102,M,grege901,Call at 3B $Expos manager Rodgers ejected by 3B umpire Gregg for arguing Griffey was out at 3rd"1988MON.EVN.regular.comment.csv",7
+
+"MON198805070",53,"$Pascual Perez sprained his finger attempting to bunt"1988MON.EVN.regular.comment.csv",8
+
+"MON198805080",52,"ej,youmf001,P,grege901,Balls and strikes Floyd Youmans ejected by HP umpire Eric Gregg"1988MON.EVN.regular.comment.csv",9
+
+"MON198805240",5,"$Randy Ready called for interference"1988MON.EVN.regular.comment.csv",10
+
+"MON198805280",74,"$Johnny Paredes was called out for being outside the base line"1988MON.EVN.regular.comment.csv",11
+
+"MON198805280",81,"$Jay Howell slipped and threw late to 2B"1988MON.EVN.regular.comment.csv",12
+
+"MON198805300",13,"$failed squeeze play"1988MON.EVN.regular.comment.csv",13
+
+"MON198806220",4,"$Otis Nixon called for interference when his bat hit the ball twice"1988MON.EVN.regular.comment.csv",14
+
+"MON198806250",1,"Debut game for Brian Holman"1988MON.EVN.regular.comment.csv",15
+
+"MON198806250",13,"DWS: view this error with suspicion; it makes batter and pitcher OK"1988MON.EVN.regular.comment.csv",16
+
+"MON198806260",14,"umpchange,3,umphome,hirsm901 umpchange,3,ump1b,darlg901 umpchange,3,ump2b,(None) $HP umpire Bruce Froemming hit on collarbone in 1st inning, left here; 1B umpire Mark Hirschbeck moved to HP; 2B umpire Gary Darling moved to 1B"1988MON.EVN.regular.comment.csv",17
+
+"MON198807030",8,"ej,nixor101,M,davib902,Balk Braves manager Russ Nixon ejected by 2B umpire Bob Davidson"1988MON.EVN.regular.comment.csv",18
+
+"MON198807180",46,"Debut game for Tim Barrett"1988MON.EVN.regular.comment.csv",19
+
+"MON198807260",60,"$Andres Gallaraga called for interference for running into his own batted ball"1988MON.EVN.regular.comment.csv",20
+
+"MON198807270",20,"$two runners on 3B after blown squeeze"1988MON.EVN.regular.comment.csv",21
+
+"MON198807290",46,"$Hubie Brooks injured on foul ball"1988MON.EVN.regular.comment.csv",22
+
+"MON198808280",49,"ej,martd001,P,davib902,Balk ej,perep001,P,davib902,Balk Pascual Perez and Dennis Martinez ejected by 3B umpire Bob Davidson arguing a balk call after the inning; Martinez was not in the game"1988MON.EVN.regular.comment.csv",23
+
+"MON198808280",62,"$Marvell Wynne's throw hit Tom Foley and bounced into dugout"1988MON.EVN.regular.comment.csv",24
+
+"MON198809020",19,"$Atlee Hammaker injured by Tracy Jones' ground ball"1988MON.EVN.regular.comment.csv",25
+
+"MON198809020",65,"Debut game for Jeff Huson"1988MON.EVN.regular.comment.csv",26
+
+"MON198809030",36,"$Bob Melvin injured during play at HP"1988MON.EVN.regular.comment.csv",27
+
+"MON198809030",56,"$Don Robinson left due to a foot injury"1988MON.EVN.regular.comment.csv",28
+
+"MON198809030",90,"ej,uribj001,P,willc901,Call at 1B Jose Uribe ejected by 1B umpire Charlie Williams"1988MON.EVN.regular.comment.csv",29
+
+"MON198809120",43,"$Terry Pendleton hurt, carried from field on stretcher"1988MON.EVN.regular.comment.csv",30
+
+"MON198809150",1,"Debut game for Randy Johnson"1988MON.EVN.regular.comment.csv",31
+
+"MON198809150",54,"$John Cangelosi called for interference for running into his own batted ball"1988MON.EVN.regular.comment.csv",32
+
+"MON198809280",29,"$Andre Dawson injured sliding"1988MON.EVN.regular.comment.csv",33
+
+"MON198809280",76,"DWS: invented play for Santovenia.  We know it's not a K"1988MON.EVN.regular.comment.csv",34
+
+"MON198809300",21,"$Wallace Johnson called for interference for stepping on HP as he fouled off bunt"1988MON.EVN.regular.comment.csv",35
+
+"MON198810020",68,"DWS: very suspicious about the GDP and IW this inning"1988MON.EVN.regular.comment.csv",36
+

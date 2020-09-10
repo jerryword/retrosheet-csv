@@ -1,7 +1,6 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"SFN196210040",5,"$Alou leaped to prevent home run but could not hold ball"
-"SFN196210050",53,"$missed bunt"
-"NYA196210080",35,"$Juan Marichal injured his hand while batting"
-"SFN196210040",5,"$Alou leaped to prevent home run but could not hold ball"
-"SFN196210050",53,"$missed bunt"
-"NYA196210080",35,"$Juan Marichal injured his hand while batting"
+"SFN196210040",5,"$Alou leaped to prevent home run but could not hold ball"FILENAME_TX","LINE_NUMBER_CT"
+
+"SFN196210050",53,"$missed bunt"1962WS.EVE.post.comment.csv",2
+
+"NYA196210080",35,"$Juan Marichal injured his hand while batting"1962WS.EVE.post.comment.csv",3
+

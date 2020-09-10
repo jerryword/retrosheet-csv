@@ -1,71 +1,70 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"LAN201910030",9,"Mound Visit"
-"LAN201910030",29,"Mound Visit"
-"LAN201910030",50,"Mound Visit"
-"LAN201910030",55,"Mound Visit"
-"LAN201910030",57,"Mound Visit"
-"LAN201910040",51,"Mound Visit"
-"LAN201910040",51,"Mound Visit"
-"LAN201910040",52,"Mound Visit"
-"LAN201910040",70,"Mound Visit"
-"LAN201910040",73,"Mound Visit"
-"LAN201910040",74,"Mound Visit Mound Visit"
-"WAS201910060",31,"Mound Visit"
-"WAS201910060",38,"Mound Visit"
-"WAS201910060",46,"Mound Visit"
-"WAS201910060",49,"Mound Visit"
-"WAS201910060",57,"Mound Visit"
-"WAS201910060",57,"Mound Visit"
-"WAS201910060",62,"Mound Visit"
-"WAS201910060",76,"Mound Visit"
-"WAS201910070",25,"Mound Visit"
-"WAS201910070",43,"Mound Visit"
-"WAS201910070",51,"$Dodgers challenged call that Turner's ball stayed in play, claiming it had wedged under outfield pad; call overturned - ground rule double"
-"WAS201910070",59,"Mound Visit"
-"WAS201910070",71,"Mound Visit"
-"LAN201910090",4,"$Umpire review of ball hit by Pederson; call upheld - double"
-"LAN201910090",8,"Mound Visit"
-"LAN201910090",18,"On-field Delay"
-"LAN201910090",38,"Mound Visit"
-"LAN201910090",52,"Injury Delay"
-"LAN201910090",55,"Mound Visit"
-"LAN201910090",58,"Mound Visit"
-"LAN201910090",61,"Mound Visit"
-"LAN201910090",78,"Mound Visit"
-"LAN201910090",81,"Mound Visit"
-"LAN201910090",86,"$Dodgers challenged call that Turner's fly was caught; call upheld - fly out"
-"LAN201910030",9,"Mound Visit"
-"LAN201910030",29,"Mound Visit"
-"LAN201910030",50,"Mound Visit"
-"LAN201910030",55,"Mound Visit"
-"LAN201910030",57,"Mound Visit"
-"LAN201910040",51,"Mound Visit"
-"LAN201910040",51,"Mound Visit"
-"LAN201910040",52,"Mound Visit"
-"LAN201910040",70,"Mound Visit"
-"LAN201910040",73,"Mound Visit"
-"LAN201910040",74,"Mound Visit Mound Visit"
-"WAS201910060",31,"Mound Visit"
-"WAS201910060",38,"Mound Visit"
-"WAS201910060",46,"Mound Visit"
-"WAS201910060",49,"Mound Visit"
-"WAS201910060",57,"Mound Visit"
-"WAS201910060",57,"Mound Visit"
-"WAS201910060",62,"Mound Visit"
-"WAS201910060",76,"Mound Visit"
-"WAS201910070",25,"Mound Visit"
-"WAS201910070",43,"Mound Visit"
-"WAS201910070",51,"$Dodgers challenged call that Turner's ball stayed in play, claiming it had wedged under outfield pad; call overturned - ground rule double"
-"WAS201910070",59,"Mound Visit"
-"WAS201910070",71,"Mound Visit"
-"LAN201910090",4,"$Umpire review of ball hit by Pederson; call upheld - double"
-"LAN201910090",8,"Mound Visit"
-"LAN201910090",18,"On-field Delay"
-"LAN201910090",38,"Mound Visit"
-"LAN201910090",52,"Injury Delay"
-"LAN201910090",55,"Mound Visit"
-"LAN201910090",58,"Mound Visit"
-"LAN201910090",61,"Mound Visit"
-"LAN201910090",78,"Mound Visit"
-"LAN201910090",81,"Mound Visit"
-"LAN201910090",86,"$Dodgers challenged call that Turner's fly was caught; call upheld - fly out"
+"LAN201910030",9,"Mound Visit"FILENAME_TX","LINE_NUMBER_CT"
+
+"LAN201910030",29,"Mound Visit"2019NLD2.EVE.post.comment.csv",2
+
+"LAN201910030",50,"Mound Visit"2019NLD2.EVE.post.comment.csv",3
+
+"LAN201910030",55,"Mound Visit"2019NLD2.EVE.post.comment.csv",4
+
+"LAN201910030",57,"Mound Visit"2019NLD2.EVE.post.comment.csv",5
+
+"LAN201910040",51,"Mound Visit"2019NLD2.EVE.post.comment.csv",6
+
+"LAN201910040",51,"Mound Visit"2019NLD2.EVE.post.comment.csv",7
+
+"LAN201910040",52,"Mound Visit"2019NLD2.EVE.post.comment.csv",8
+
+"LAN201910040",70,"Mound Visit"2019NLD2.EVE.post.comment.csv",9
+
+"LAN201910040",73,"Mound Visit"2019NLD2.EVE.post.comment.csv",10
+
+"LAN201910040",74,"Mound Visit Mound Visit"2019NLD2.EVE.post.comment.csv",11
+
+"WAS201910060",31,"Mound Visit"2019NLD2.EVE.post.comment.csv",12
+
+"WAS201910060",38,"Mound Visit"2019NLD2.EVE.post.comment.csv",13
+
+"WAS201910060",46,"Mound Visit"2019NLD2.EVE.post.comment.csv",14
+
+"WAS201910060",49,"Mound Visit"2019NLD2.EVE.post.comment.csv",15
+
+"WAS201910060",57,"Mound Visit"2019NLD2.EVE.post.comment.csv",16
+
+"WAS201910060",57,"Mound Visit"2019NLD2.EVE.post.comment.csv",17
+
+"WAS201910060",62,"Mound Visit"2019NLD2.EVE.post.comment.csv",18
+
+"WAS201910060",76,"Mound Visit"2019NLD2.EVE.post.comment.csv",19
+
+"WAS201910070",25,"Mound Visit"2019NLD2.EVE.post.comment.csv",20
+
+"WAS201910070",43,"Mound Visit"2019NLD2.EVE.post.comment.csv",21
+
+"WAS201910070",51,"$Dodgers challenged call that Turner's ball stayed in play, claiming it had wedged under outfield pad; call overturned - ground rule double"2019NLD2.EVE.post.comment.csv",22
+
+"WAS201910070",59,"Mound Visit"2019NLD2.EVE.post.comment.csv",23
+
+"WAS201910070",71,"Mound Visit"2019NLD2.EVE.post.comment.csv",24
+
+"LAN201910090",4,"$Umpire review of ball hit by Pederson; call upheld - double"2019NLD2.EVE.post.comment.csv",25
+
+"LAN201910090",8,"Mound Visit"2019NLD2.EVE.post.comment.csv",26
+
+"LAN201910090",18,"On-field Delay"2019NLD2.EVE.post.comment.csv",27
+
+"LAN201910090",38,"Mound Visit"2019NLD2.EVE.post.comment.csv",28
+
+"LAN201910090",52,"Injury Delay"2019NLD2.EVE.post.comment.csv",29
+
+"LAN201910090",55,"Mound Visit"2019NLD2.EVE.post.comment.csv",30
+
+"LAN201910090",58,"Mound Visit"2019NLD2.EVE.post.comment.csv",31
+
+"LAN201910090",61,"Mound Visit"2019NLD2.EVE.post.comment.csv",32
+
+"LAN201910090",78,"Mound Visit"2019NLD2.EVE.post.comment.csv",33
+
+"LAN201910090",81,"Mound Visit"2019NLD2.EVE.post.comment.csv",34
+
+"LAN201910090",86,"$Dodgers challenged call that Turner's fly was caught; call upheld - fly out"2019NLD2.EVE.post.comment.csv",35
+

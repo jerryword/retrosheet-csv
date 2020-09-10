@@ -1,9 +1,8 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"NLS195207080",0,"$Managers: Leo Durocher (NL New York), Casey Stengel (AL New York); 20 minute rain delay before start of game"
-"NLS195207080",18,"$Casey Stengel attempted to put Minnie Minoso in LF but Commissioner Ford Frick ordered Stengel to let starters play the required three innings"
-"NLS195207080",39,"umpchange,5,umphome,summb901 umpchange,5,ump1b,boggd901 umpchange,5,ump2b,berrc103 umpchange,5,ump3b,barla901 $the umpires changed positions"
-"NLS195207080",42,"56 minute rain delay, then game called at 4:14 pm"
-"NLS195207080",0,"$Managers: Leo Durocher (NL New York), Casey Stengel (AL New York); 20 minute rain delay before start of game"
-"NLS195207080",18,"$Casey Stengel attempted to put Minnie Minoso in LF but Commissioner Ford Frick ordered Stengel to let starters play the required three innings"
-"NLS195207080",39,"umpchange,5,umphome,summb901 umpchange,5,ump1b,boggd901 umpchange,5,ump2b,berrc103 umpchange,5,ump3b,barla901 $the umpires changed positions"
-"NLS195207080",42,"56 minute rain delay, then game called at 4:14 pm"
+"NLS195207080",0,"$Managers: Leo Durocher (NL New York), Casey Stengel (AL New York); 20 minute rain delay before start of game"FILENAME_TX","LINE_NUMBER_CT"
+
+"NLS195207080",18,"$Casey Stengel attempted to put Minnie Minoso in LF but Commissioner Ford Frick ordered Stengel to let starters play the required three innings"1952AS.EVE.asg.comment.csv",2
+
+"NLS195207080",39,"umpchange,5,umphome,summb901 umpchange,5,ump1b,boggd901 umpchange,5,ump2b,berrc103 umpchange,5,ump3b,barla901 $the umpires changed positions"1952AS.EVE.asg.comment.csv",3
+
+"NLS195207080",42,"56 minute rain delay, then game called at 4:14 pm"1952AS.EVE.asg.comment.csv",4
+

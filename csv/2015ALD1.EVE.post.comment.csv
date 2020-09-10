@@ -1,11 +1,10 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"KCA201510090",26,"replay,3,escoa003,KCA,davig901,KAN06,,Y,M,KCA,C $when Alcides Escobar was called out at 1B, Royals manager Ned Yost challenged the ruling; the call was overturned by replay"
-"KCA201510090",75,"replay,9,altuj001,HOU,davig901,KAN06,,Y,M,KCA,A $when Carlos Gomez was called safe on a pickoff attempt, Royals manager Ned Yost challenged the ruling; the call was overturned by replay"
-"HOU201510110",14,"$Carlos Gomez called for interference for running into his own bunt"
-"HOU201510110",66,"$the ball struck the RF roof, which is in play"
-"HOU201510120",55,"replay,7,riosa002,KCA,davig901,HOU03,,Y,M,HOU,A $when Terrance Gore was called safe at 3B, Astros manager A.J. Hinch challenged the ruling; the call was overturned by replay"
-"KCA201510090",26,"replay,3,escoa003,KCA,davig901,KAN06,,Y,M,KCA,C $when Alcides Escobar was called out at 1B, Royals manager Ned Yost challenged the ruling; the call was overturned by replay"
-"KCA201510090",75,"replay,9,altuj001,HOU,davig901,KAN06,,Y,M,KCA,A $when Carlos Gomez was called safe on a pickoff attempt, Royals manager Ned Yost challenged the ruling; the call was overturned by replay"
-"HOU201510110",14,"$Carlos Gomez called for interference for running into his own bunt"
-"HOU201510110",66,"$the ball struck the RF roof, which is in play"
-"HOU201510120",55,"replay,7,riosa002,KCA,davig901,HOU03,,Y,M,HOU,A $when Terrance Gore was called safe at 3B, Astros manager A.J. Hinch challenged the ruling; the call was overturned by replay"
+"KCA201510090",26,"replay,3,escoa003,KCA,davig901,KAN06,,Y,M,KCA,C $when Alcides Escobar was called out at 1B, Royals manager Ned Yost challenged the ruling; the call was overturned by replay"FILENAME_TX","LINE_NUMBER_CT"
+
+"KCA201510090",75,"replay,9,altuj001,HOU,davig901,KAN06,,Y,M,KCA,A $when Carlos Gomez was called safe on a pickoff attempt, Royals manager Ned Yost challenged the ruling; the call was overturned by replay"2015ALD1.EVE.post.comment.csv",2
+
+"HOU201510110",14,"$Carlos Gomez called for interference for running into his own bunt"2015ALD1.EVE.post.comment.csv",3
+
+"HOU201510110",66,"$the ball struck the RF roof, which is in play"2015ALD1.EVE.post.comment.csv",4
+
+"HOU201510120",55,"replay,7,riosa002,KCA,davig901,HOU03,,Y,M,HOU,A $when Terrance Gore was called safe at 3B, Astros manager A.J. Hinch challenged the ruling; the call was overturned by replay"2015ALD1.EVE.post.comment.csv",5
+

@@ -1,35 +1,34 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"CIN194304220",21,"$Mike McCormick called for interference"
-"CIN194305092",13,"14 minute rain delay"
-"CIN194305092",65,"$Peanuts Lowrey called for interference for running into his own batted ball"
-"CIN194305270",15,"ej,white102,C,goetl901,Call at 1B Phillies Coach Earl Whitehill ejected by 1B umpire Larry Goetz"
-"CIN194305280",0,"$game started at 11:00 AM to accommodate war workers from swing shift"
-"CIN194305312",43,"Game called for rain"
-"CIN194306060",52,"$pitchout on a squeeze play"
-"CIN194306210",62,"rain started"
-"CIN194306210",64,"called for rain"
-"CIN194306240",42,"$onto the LF roof"
-"CIN194306271",59,"ej,barrj106,P,,Call at 2B $Pirates Barrett ejected by unknown umpire for arguing that Mesner was out at 2nd in previous inning"
-"CIN194307212",28,"umpchange,3,umphome,conlj102 umpchange,3,ump1b,barrg901 umpchange,3,ump3b,(None) $HP umpire Jorda left when arm injured on foul ball; 1B umpire Conlan went behind plate and game finished with 2 umpires"
-"CIN194307252",39,"$missed bunt"
-"CIN194307310",67,"ej,jurgb101,P,dunnt901,Call at 1B (Threw glove) $Gee Walker kept running and scored from 2B on the play at 1B; Billy Jurges objected to the call at 1B on the close play and was ejected by 1B umpire Tom Dunn for throwing his glove in the air"
-"CIN194309101",14,"ej,mille104,P,barla901,Call at 2B Eddie Miller ejected by 1B umpire Al Barlick"
-"CIN194309221",28,"$Ernie Lombardi caught the foul tip with his bare hand and left with an injured finger"
-"CIN194309261",2,"$Tommy Holmes called for interference for running into his own bunt"
-"CIN194304220",21,"$Mike McCormick called for interference"
-"CIN194305092",13,"14 minute rain delay"
-"CIN194305092",65,"$Peanuts Lowrey called for interference for running into his own batted ball"
-"CIN194305270",15,"ej,white102,C,goetl901,Call at 1B Phillies Coach Earl Whitehill ejected by 1B umpire Larry Goetz"
-"CIN194305280",0,"$game started at 11:00 AM to accommodate war workers from swing shift"
-"CIN194305312",43,"Game called for rain"
-"CIN194306060",52,"$pitchout on a squeeze play"
-"CIN194306210",62,"rain started"
-"CIN194306210",64,"called for rain"
-"CIN194306240",42,"$onto the LF roof"
-"CIN194306271",59,"ej,barrj106,P,,Call at 2B $Pirates Barrett ejected by unknown umpire for arguing that Mesner was out at 2nd in previous inning"
-"CIN194307212",28,"umpchange,3,umphome,conlj102 umpchange,3,ump1b,barrg901 umpchange,3,ump3b,(None) $HP umpire Jorda left when arm injured on foul ball; 1B umpire Conlan went behind plate and game finished with 2 umpires"
-"CIN194307252",39,"$missed bunt"
-"CIN194307310",67,"ej,jurgb101,P,dunnt901,Call at 1B (Threw glove) $Gee Walker kept running and scored from 2B on the play at 1B; Billy Jurges objected to the call at 1B on the close play and was ejected by 1B umpire Tom Dunn for throwing his glove in the air"
-"CIN194309101",14,"ej,mille104,P,barla901,Call at 2B Eddie Miller ejected by 1B umpire Al Barlick"
-"CIN194309221",28,"$Ernie Lombardi caught the foul tip with his bare hand and left with an injured finger"
-"CIN194309261",2,"$Tommy Holmes called for interference for running into his own bunt"
+"CIN194304220",21,"$Mike McCormick called for interference"FILENAME_TX","LINE_NUMBER_CT"
+
+"CIN194305092",13,"14 minute rain delay"1943CIN.EVN.regular.comment.csv",2
+
+"CIN194305092",65,"$Peanuts Lowrey called for interference for running into his own batted ball"1943CIN.EVN.regular.comment.csv",3
+
+"CIN194305270",15,"ej,white102,C,goetl901,Call at 1B Phillies Coach Earl Whitehill ejected by 1B umpire Larry Goetz"1943CIN.EVN.regular.comment.csv",4
+
+"CIN194305280",0,"$game started at 11:00 AM to accommodate war workers from swing shift"1943CIN.EVN.regular.comment.csv",5
+
+"CIN194305312",43,"Game called for rain"1943CIN.EVN.regular.comment.csv",6
+
+"CIN194306060",52,"$pitchout on a squeeze play"1943CIN.EVN.regular.comment.csv",7
+
+"CIN194306210",62,"rain started"1943CIN.EVN.regular.comment.csv",8
+
+"CIN194306210",64,"called for rain"1943CIN.EVN.regular.comment.csv",9
+
+"CIN194306240",42,"$onto the LF roof"1943CIN.EVN.regular.comment.csv",10
+
+"CIN194306271",59,"ej,barrj106,P,,Call at 2B $Pirates Barrett ejected by unknown umpire for arguing that Mesner was out at 2nd in previous inning"1943CIN.EVN.regular.comment.csv",11
+
+"CIN194307212",28,"umpchange,3,umphome,conlj102 umpchange,3,ump1b,barrg901 umpchange,3,ump3b,(None) $HP umpire Jorda left when arm injured on foul ball; 1B umpire Conlan went behind plate and game finished with 2 umpires"1943CIN.EVN.regular.comment.csv",12
+
+"CIN194307252",39,"$missed bunt"1943CIN.EVN.regular.comment.csv",13
+
+"CIN194307310",67,"ej,jurgb101,P,dunnt901,Call at 1B (Threw glove) $Gee Walker kept running and scored from 2B on the play at 1B; Billy Jurges objected to the call at 1B on the close play and was ejected by 1B umpire Tom Dunn for throwing his glove in the air"1943CIN.EVN.regular.comment.csv",14
+
+"CIN194309101",14,"ej,mille104,P,barla901,Call at 2B Eddie Miller ejected by 1B umpire Al Barlick"1943CIN.EVN.regular.comment.csv",15
+
+"CIN194309221",28,"$Ernie Lombardi caught the foul tip with his bare hand and left with an injured finger"1943CIN.EVN.regular.comment.csv",16
+
+"CIN194309261",2,"$Tommy Holmes called for interference for running into his own bunt"1943CIN.EVN.regular.comment.csv",17
+

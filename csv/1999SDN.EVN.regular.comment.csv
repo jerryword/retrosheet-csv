@@ -1,29 +1,28 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"SDN199904040",0,"$Game played in Monterrey, Mexico"
-"SDN199905230",78,"Debut game for Mike Darr"
-"SDN199906040",17,"Debut game for Gary Matthews"
-"SDN199906040",70,"Debut game for David Newhan"
-"SDN199906080",1,"Debut game for Tim Hudson"
-"SDN199906260",74,"ej,dejem001,P,hallt901,Balls and strikes after leaving game ej,leylj801,M,hallt901,Arguing DeJean ejection Mike DeJean and Rockies manager Jim Leyland ejected by HP umpire Tom Hallion"
-"SDN199907260",69,"Debut game for Erubiel Durazo"
-"SDN199908140",10,"Debut game for Wiki Gonzalez"
-"SDN199908280",61,"Debut game for Hector Ramirez"
-"SDN199908290",1,"Debut game for Buddy Carlyle"
-"SDN199908290",54,"ej,bochb002,M,froeb901,Catch/trap on foul tip Padres manager Bruce Bochy ejected by 3B umpire Bruce Froemming"
-"SDN199909090",68,"$After Sanders struck out for the third out, the umpires and most players thought it was only the second out. Nevin was also confused and came to the plate.  After the count got to 2-1, plate umpire Layne went to the Montreal dugout and then signaled that the inning was over"
-"SDN199909090",78,"Debut game for Domingo Guzman"
-"SDN199909150",26,"ej,cox-b103,M,nelsj901,Checked swing Braves manager Bobby Cox ejected by 1B umpire Jeff Nelson"
-"SDN199904040",0,"$Game played in Monterrey, Mexico"
-"SDN199905230",78,"Debut game for Mike Darr"
-"SDN199906040",17,"Debut game for Gary Matthews"
-"SDN199906040",70,"Debut game for David Newhan"
-"SDN199906080",1,"Debut game for Tim Hudson"
-"SDN199906260",74,"ej,dejem001,P,hallt901,Balls and strikes after leaving game ej,leylj801,M,hallt901,Arguing DeJean ejection $Pitcher DeJean and Rockies manager Leyland ejected by HP umpire Hallion for aguing balls and strikes as pitching change made"
-"SDN199907260",69,"Debut game for Erubiel Durazo"
-"SDN199908140",10,"Debut game for Wiki Gonzalez"
-"SDN199908280",61,"Debut game for Hector Ramirez"
-"SDN199908290",1,"Debut game for Buddy Carlyle"
-"SDN199908290",54,"ej,bochb002,M,froeb901,Catch/trap on foul tip Padres manager Bruce Bochy ejected by 3B umpire Bruce Froemming"
-"SDN199909090",68,"$After Sanders struck out for the third out, the umpires and most players thought it was only the second out. Nevin was also confused and came to the plate.  After the count got to 2-1, plate umpire Layne went to the Montreal dugout and then signaled that the inning was over"
-"SDN199909090",78,"Debut game for Domingo Guzman"
-"SDN199909150",26,"ej,cox-b103,M,nelsj901,Checked swing Braves manager Bobby Cox ejected by 1B umpire Jeff Nelson"
+"SDN199904040",0,"$Game played in Monterrey, Mexico"FILENAME_TX","LINE_NUMBER_CT"
+
+"SDN199905230",78,"Debut game for Mike Darr"1999SDN.EVN.regular.comment.csv",2
+
+"SDN199906040",17,"Debut game for Gary Matthews"1999SDN.EVN.regular.comment.csv",3
+
+"SDN199906040",70,"Debut game for David Newhan"1999SDN.EVN.regular.comment.csv",4
+
+"SDN199906080",1,"Debut game for Tim Hudson"1999SDN.EVN.regular.comment.csv",5
+
+"SDN199906260",74,"ej,dejem001,P,hallt901,Balls and strikes after leaving game ej,leylj801,M,hallt901,Arguing DeJean ejection $Pitcher DeJean and Rockies manager Leyland ejected by HP umpire Hallion for aguing balls and strikes as pitching change made"1999SDN.EVN.regular.comment.csv",6
+
+"SDN199907260",69,"Debut game for Erubiel Durazo"1999SDN.EVN.regular.comment.csv",7
+
+"SDN199908140",10,"Debut game for Wiki Gonzalez"1999SDN.EVN.regular.comment.csv",8
+
+"SDN199908280",61,"Debut game for Hector Ramirez"1999SDN.EVN.regular.comment.csv",9
+
+"SDN199908290",1,"Debut game for Buddy Carlyle"1999SDN.EVN.regular.comment.csv",10
+
+"SDN199908290",54,"ej,bochb002,M,froeb901,Catch/trap on foul tip Padres manager Bruce Bochy ejected by 3B umpire Bruce Froemming"1999SDN.EVN.regular.comment.csv",11
+
+"SDN199909090",68,"$After Sanders struck out for the third out, the umpires and most players thought it was only the second out. Nevin was also confused and came to the plate.  After the count got to 2-1, plate umpire Layne went to the Montreal dugout and then signaled that the inning was over"1999SDN.EVN.regular.comment.csv",12
+
+"SDN199909090",78,"Debut game for Domingo Guzman"1999SDN.EVN.regular.comment.csv",13
+
+"SDN199909150",26,"ej,cox-b103,M,nelsj901,Checked swing Braves manager Bobby Cox ejected by 1B umpire Jeff Nelson"1999SDN.EVN.regular.comment.csv",14
+

@@ -1,31 +1,30 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"OAK199505080",16,"Debut game for Jason Giambi"
-"OAK199507010",67,"Debut game for Orlando Palmeiro"
-"OAK199507020",59,"Debut game for Ariel Prieto"
-"OAK199507060",44,"ej,larut101,M,barnl901,Checked swing Athletics manager Tony LaRussa ejected by HP umpire Larry Barnett sometime in game"
-"OAK199507081",1,"Debut game for Doug Johns"
-"OAK199507081",27,"$Mark McGwire hit on helmet with fastball, suffering slight concussion"
-"OAK199507081",30,"ej,johnd003,P,morrd901,Throwing at batter $Doug Johns first pitch to John Olerud was behind the batter; Johns was ejected by HP umpire Dan Morrison from his first major league game"
-"OAK199507081",57,"ej,harkm001,P,morrd901,Throwing at batter $Joe Carter yelled at the Athletics bench; both benches emptied but there were no fights; pitcher Mike Harkey ejected by HP umpire Dan Morrison"
-"OAK199507082",0,"ej,lansc001,C,clara901,Continuing argument between games of DH $Athletics coach Carney Lansford was ejected during the pregame meeting by HP umpire Al Clark"
-"OAK199507082",39,"ej,alomr001,P,clara901,Called third strike Roberto Alomar ejected by HP umpire Al Clark"
-"OAK199507220",83,"ej,duncd101,C,shulj901,Balls and strikes ej,larut101,M,shulj901,Balls and strikes Athletics manager Tony LaRussa and coach Dave Duncan ejected by HP umpire John Shulock"
-"OAK199508060",77,"Debut game for Ramon Fermin"
-"OAK199508240",30,"Debut game for John Wasdin"
-"OAK199509080",1,"Debut game for Luis Andujar"
-"OAK199509170",12,"Debut game for Brian Raabe"
-"OAK199505080",16,"Debut game for Jason Giambi"
-"OAK199507010",67,"Debut game for Orlando Palmeiro"
-"OAK199507020",59,"Debut game for Ariel Prieto"
-"OAK199507060",49,"ej,larut101,M,barnl901,Check swing $Athletics manager LaRussa ejected by HP umpire Barnett while Vaughn at bat"
-"OAK199507081",1,"Debut game for Doug Johns"
-"OAK199507081",27,"$McGwire hit on helmet with fastball, suffering slight concussion"
-"OAK199507081",30,"ej,johnd003,P,morrd901,Throwing at batter $Pitcher Johns ejected by HP umpire Morrison for throwing pitch behind Olerud; it was Johns' ML debut"
-"OAK199507081",57,"ej,harkm001,P,morrd901,Throwing at batter $Joe Carter yelled at the Athletics bench; both benches emptied but there were no fights; pitcher Mike Harkey ejected by HP umpire Dan Morrison"
-"OAK199507082",0,"ej,lansc001,C,clara901,Continuing argument between games of DH $Athletics coach Carney Lansford was ejected during the pregame meeting by HP umpire Al Clark"
-"OAK199507082",39,"ej,alomr001,P,clara901,Called third strike Roberto Alomar ejected by HP umpire Al Clark"
-"OAK199507220",83,"ej,duncd101,C,shulj901,Balls and strikes ej,larut101,M,shulj901,Balls and strikes Athletics manager Tony LaRussa and coach Dave Duncan ejected by HP umpire John Shulock"
-"OAK199508060",77,"Debut game for Ramon Fermin"
-"OAK199508240",30,"Debut game for John Wasdin"
-"OAK199509080",1,"Debut game for Luis Andujar"
-"OAK199509170",12,"Debut game for Brian Raabe"
+"OAK199505080",16,"Debut game for Jason Giambi"FILENAME_TX","LINE_NUMBER_CT"
+
+"OAK199507010",67,"Debut game for Orlando Palmeiro"1995OAK.EVA.regular.comment.csv",2
+
+"OAK199507020",59,"Debut game for Ariel Prieto"1995OAK.EVA.regular.comment.csv",3
+
+"OAK199507060",49,"ej,larut101,M,barnl901,Check swing $Athletics manager LaRussa ejected by HP umpire Barnett while Vaughn at bat"1995OAK.EVA.regular.comment.csv",4
+
+"OAK199507081",1,"Debut game for Doug Johns"1995OAK.EVA.regular.comment.csv",5
+
+"OAK199507081",27,"$McGwire hit on helmet with fastball, suffering slight concussion"1995OAK.EVA.regular.comment.csv",6
+
+"OAK199507081",30,"ej,johnd003,P,morrd901,Throwing at batter $Pitcher Johns ejected by HP umpire Morrison for throwing pitch behind Olerud; it was Johns' ML debut"1995OAK.EVA.regular.comment.csv",7
+
+"OAK199507081",57,"ej,harkm001,P,morrd901,Throwing at batter $Joe Carter yelled at the Athletics bench; both benches emptied but there were no fights; pitcher Mike Harkey ejected by HP umpire Dan Morrison"1995OAK.EVA.regular.comment.csv",8
+
+"OAK199507082",0,"ej,lansc001,C,clara901,Continuing argument between games of DH $Athletics coach Carney Lansford was ejected during the pregame meeting by HP umpire Al Clark"1995OAK.EVA.regular.comment.csv",9
+
+"OAK199507082",39,"ej,alomr001,P,clara901,Called third strike Roberto Alomar ejected by HP umpire Al Clark"1995OAK.EVA.regular.comment.csv",10
+
+"OAK199507220",83,"ej,duncd101,C,shulj901,Balls and strikes ej,larut101,M,shulj901,Balls and strikes Athletics manager Tony LaRussa and coach Dave Duncan ejected by HP umpire John Shulock"1995OAK.EVA.regular.comment.csv",11
+
+"OAK199508060",77,"Debut game for Ramon Fermin"1995OAK.EVA.regular.comment.csv",12
+
+"OAK199508240",30,"Debut game for John Wasdin"1995OAK.EVA.regular.comment.csv",13
+
+"OAK199509080",1,"Debut game for Luis Andujar"1995OAK.EVA.regular.comment.csv",14
+
+"OAK199509170",12,"Debut game for Brian Raabe"1995OAK.EVA.regular.comment.csv",15
+

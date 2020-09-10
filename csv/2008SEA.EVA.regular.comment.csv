@@ -1,65 +1,64 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"SEA200803310",57,"Debut game for Kazuo Fukumori"
-"SEA200804130",63,"Angels second baseman Howie Kendrick left the game due to an injured leg"
-"SEA200804220",29,"Mariners right fielder Brad Wilkerson left the game due to an injured leg"
-"SEA200804230",48,"Mariners pitcher Carlos Silva left the game due to an injured leg"
-"SEA200804240",58,"$Mariners Manager John McLaren argued balls and strikes"
-"SEA200804240",60,"ej,mclaj801,M,mosec901,Balls and strikes Mariners Manager John McLaren ejected by HP umpire Casey Moser"
-"SEA200804250",16,"Mariners pitcher Miguel Batista left the game due to an injured groin"
-"SEA200805050",51,"Mariners pitcher Jarrod Washburn left the game due to an injured foot/ankle"
-"SEA200805070",4,"Rangers shortstop Michael Young left the game due to an injured leg"
-"SEA200805070",9,"ej,mclaj801,M,wegnm901,Arguing Mariners Manager John McLaren ejected by HP umpire Mark Wegner"
-"SEA200805080",34,"ej,sexsr001,P,fairc901,Charging the mound after high pitch $the second pitch to Richie Sexson was high; he charged the mound, throwing his helmet at Kason Gabbard; both benches and bullpens emptied and there was a lot of pushing and shoving; former Mariner Eddie Guardado held Felix Hernandez (who had hit two batters earlier) back from the scrum; Milton Bradley picked up Gerald Laird and carried him away from trouble; Bradley had been injured in 2007 when his manager tried to do the same; Mariners first baseman Richie Sexson ejected by HP umpire Chad Fairchild"
-"SEA200805080",36,"Rangers pitcher Kason Gabbard left the game due to an injured leg"
-"SEA200805160",87,"originally DI, changed to SB on 5-19"
-"SEA200805270",40,"ej,lugoj001,P,herna901,Asking for check swing call ej,frant001,M,herna901,Arguing about Lugo ejection $Julio Lugo asked 3B umpire Angel Hernandez for a check-swing ruling on ball four to Ibanez; they argued and Hernandez ejected Lugo; Boston manager Terry Francona went out to get Lugo off the field; he asked Hernandez a question and then reacted to the answer; Hernandez ejected Francona"
-"SEA200805270",45,"$home run #499 for Ramirez"
-"SEA200805300",7,"Debut game for Jeff Larish"
-"SEA200805310",44,"ej,leylj801,M,iassd901,Call at 1B on Granderson $Mariners 3Bman Adrian Beltre was in foul territory when he made the throw to 1B; umpire Dan Iassogna ruled that Miguel Cairo had his foot on the bag when he caught the wide throw; Granderson and manager Jim Leyland argued the call; Leyland was ejected by Iassogna"
-"SEA200806140",25,"fan interference"
-"SEA200806160",38,"ej,silvc001,P,welkb901,Call at 1B Mariners pitcher Carlos Silva ejected by 1B umpire Bill Welke for throwing up his arms and swearing at Welke after the safe call at 1B; Silva then had to be restrained by manager John McLaren"
-"SEA200807040",65,"ej,rodri001,P,knigb901,Balls and strikes Tigers catcher Ivan Rodriguez ejected by HP umpire Brian Knight"
-"SEA200807180",75,"Debut game for Bryan LaHair"
-"SEA200807200",27,"Mariners pitcher Carlos Silva left the game due to an injured back"
-"SEA200807210",67,"$the ball struck Lester's right shin"
-"SEA200807220",19,"Mariners catcher Jeff Clement left the game due to an injured hand/wrist"
-"SEA200808010",7,"$Willie Bloomquist called for interference"
-"SEA200808010",49,"Orioles designated hitter Aubrey Huff was waslking from the clubhouse to the dugout, heard the crowd roar, jumped up and banged his head on the concrete ceiling; he was bleeding and bruised and left the game; he said that he would not have left the game except for the Orioles' big lead"
-"SEA200808210",7,"$Frank Thomas was upset with HP umpire Bill Hohn about strike three and discussed it with the umpire"
-"SEA200808210",40,"ej,thomf001,P,hohnb901,Balls and strikes Athletics designated hitter Frank Thomas angrily spun away from the plate after the first pitch was called a strike by HP umpire Bill Hohn; Thomas took a short walk and was talking to himself when he was ejected by Hohn; Thomas then started arguing with Hohn and threw his helmet and bat towards the plate as he went back to the dugout"
-"SEA200809050",13,"Debut game for Matt Tuiasosopo"
-"SEA200809060",22,"$Yuniesky Betancourt broke for 2B too soon and was picked off by Sidney Ponson; Betancourt was caught in a rundown but was awarded 2B when he ran into Ponson, who was charged with obstruction and an error"
-"SEA200809090",4,"Rangers designated hitter Milton Bradley strained a muscle in his back swinging at the first pitch and left the game"
-"SEA200809240",40,"replay,5,guerv001,ANA,welkt901,SEA03,F,N,I,,H $Vladimir Guerrero hit a ball down the left field line that hit just to the foul side of the pole and bounced back onto the field; 3B umpire Chuck Meriwether called it foul but Angels manager Mike Scioscia came onto the field to talk about the call; the umpires huddled and then crew chief Tim Welke watched the replay and upheld the call; this was the fifth use or replay"
-"SEA200803310",57,"Debut game for Kazuo Fukumori"
-"SEA200804130",63,"Angels second baseman Howie Kendrick left the game due to an injured leg"
-"SEA200804220",29,"Mariners right fielder Brad Wilkerson left the game due to an injured leg"
-"SEA200804230",48,"Mariners pitcher Carlos Silva left the game due to an injured leg"
-"SEA200804240",58,"$Mariners Manager John McLaren argued balls and strikes"
-"SEA200804240",60,"ej,mclaj801,M,mosec901,Balls and strikes Mariners Manager John McLaren ejected by HP umpire Casey Moser"
-"SEA200804250",16,"Mariners pitcher Miguel Batista left the game due to an injured groin"
-"SEA200805050",51,"Mariners pitcher Jarrod Washburn left the game due to an injured foot/ankle"
-"SEA200805070",4,"$Young left the game due to an injured leg"
-"SEA200805070",9,"ej,mclaj801,M,wegnm901,Balls and strikes $Mariners manager McLaren ejected by HP umpire Wegner for arguing balls and strikes"
-"SEA200805080",34,"ej,sexsr001,P,fairc901,Charging the mound after high pitch $the second pitch to Richie Sexson was high; he charged the mound, throwing his helmet at Kason Gabbard; both benches and bullpens emptied and there was a lot of pushing and shoving; former Mariner Eddie Guardado held Felix Hernandez (who had hit two batters earlier) back from the scrum; Milton Bradley picked up Gerald Laird and carried him away from trouble; Bradley had been injured in 2007 when his manager tried to do the same; Mariners first baseman Richie Sexson ejected by HP umpire Chad Fairchild"
-"SEA200805080",36,"Rangers pitcher Kason Gabbard left the game due to an injured leg"
-"SEA200805160",87,"originally DI, changed to SB on 5-19"
-"SEA200805270",40,"ej,lugoj001,P,herna901,Asking for check swing call ej,frant001,M,herna901,Arguing about Lugo ejection $Julio Lugo asked 3B umpire Angel Hernandez for a check-swing ruling on ball four to Ibanez; they argued and Hernandez ejected Lugo; Boston manager Terry Francona went out to get Lugo off the field; he asked Hernandez a question and then reacted to the answer; Hernandez ejected Francona"
-"SEA200805270",45,"$home run #499 for Ramirez"
-"SEA200805300",7,"Debut game for Jeff Larish"
-"SEA200805310",44,"ej,leylj801,M,iassd901,Call at 1B on Granderson $Mariners 3Bman Adrian Beltre was in foul territory when he made the throw to 1B; umpire Dan Iassogna ruled that Miguel Cairo had his foot on the bag when he caught the wide throw; Granderson and manager Jim Leyland argued the call; Leyland was ejected by Iassogna"
-"SEA200806140",25,"fan interference"
-"SEA200806160",38,"ej,silvc001,P,welkb901,Call at 1B Mariners pitcher Carlos Silva ejected by 1B umpire Bill Welke for throwing up his arms and swearing at Welke after the safe call at 1B; Silva then had to be restrained by manager John McLaren"
-"SEA200807040",65,"ej,rodri001,P,knigb901,Balls and strikes Tigers catcher Ivan Rodriguez ejected by HP umpire Brian Knight"
-"SEA200807180",75,"Debut game for Bryan LaHair"
-"SEA200807200",27,"Mariners pitcher Carlos Silva left the game due to an injured back"
-"SEA200807210",67,"$the ball struck Lester's right shin"
-"SEA200807220",19,"Mariners catcher Jeff Clement left the game due to an injured hand/wrist"
-"SEA200808010",7,"$Willie Bloomquist called for interference"
-"SEA200808010",49,"Orioles designated hitter Aubrey Huff was waslking from the clubhouse to the dugout, heard the crowd roar, jumped up and banged his head on the concrete ceiling; he was bleeding and bruised and left the game; he said that he would not have left the game except for the Orioles' big lead"
-"SEA200808210",7,"$Thomas was upset with HP umpire Hohn about strike three and discussed it with him"
-"SEA200808210",40,"ej,thomf001,P,hohnb901,Balls and strikes (Threw equipment) $Thomas ejcted by HP umpire Hohn for arguing that 1st pitch was was inside; he took a short walk and was talking to himself when Hohn ejcted him; he then threw his helmet and bat as he left"
-"SEA200809050",13,"Debut game for Matt Tuiasosopo"
-"SEA200809060",22,"$Yuniesky Betancourt broke for 2B too soon and was picked off by Sidney Ponson; Betancourt was caught in a rundown but was awarded 2B when he ran into Ponson, who was charged with obstruction and an error"
-"SEA200809090",4,"Rangers designated hitter Milton Bradley strained a muscle in his back swinging at the first pitch and left the game"
-"SEA200809240",40,"replay,5,guerv001,ANA,welkt901,SEA03,F,N,I,,H $Vladimir Guerrero hit a ball down the left field line that hit just to the foul side of the pole and bounced back onto the field; 3B umpire Chuck Meriwether called it foul but Angels manager Mike Scioscia came onto the field to talk about the call; the umpires huddled and then crew chief Tim Welke watched the replay and upheld the call; this was the fifth use or replay"
+"SEA200803310",57,"Debut game for Kazuo Fukumori"FILENAME_TX","LINE_NUMBER_CT"
+
+"SEA200804130",63,"Angels second baseman Howie Kendrick left the game due to an injured leg"2008SEA.EVA.regular.comment.csv",2
+
+"SEA200804220",29,"Mariners right fielder Brad Wilkerson left the game due to an injured leg"2008SEA.EVA.regular.comment.csv",3
+
+"SEA200804230",48,"Mariners pitcher Carlos Silva left the game due to an injured leg"2008SEA.EVA.regular.comment.csv",4
+
+"SEA200804240",58,"$Mariners Manager John McLaren argued balls and strikes"2008SEA.EVA.regular.comment.csv",5
+
+"SEA200804240",60,"ej,mclaj801,M,mosec901,Balls and strikes Mariners Manager John McLaren ejected by HP umpire Casey Moser"2008SEA.EVA.regular.comment.csv",6
+
+"SEA200804250",16,"Mariners pitcher Miguel Batista left the game due to an injured groin"2008SEA.EVA.regular.comment.csv",7
+
+"SEA200805050",51,"Mariners pitcher Jarrod Washburn left the game due to an injured foot/ankle"2008SEA.EVA.regular.comment.csv",8
+
+"SEA200805070",4,"$Young left the game due to an injured leg"2008SEA.EVA.regular.comment.csv",9
+
+"SEA200805070",9,"ej,mclaj801,M,wegnm901,Balls and strikes $Mariners manager McLaren ejected by HP umpire Wegner for arguing balls and strikes"2008SEA.EVA.regular.comment.csv",10
+
+"SEA200805080",34,"ej,sexsr001,P,fairc901,Charging the mound after high pitch $the second pitch to Richie Sexson was high; he charged the mound, throwing his helmet at Kason Gabbard; both benches and bullpens emptied and there was a lot of pushing and shoving; former Mariner Eddie Guardado held Felix Hernandez (who had hit two batters earlier) back from the scrum; Milton Bradley picked up Gerald Laird and carried him away from trouble; Bradley had been injured in 2007 when his manager tried to do the same; Mariners first baseman Richie Sexson ejected by HP umpire Chad Fairchild"2008SEA.EVA.regular.comment.csv",11
+
+"SEA200805080",36,"Rangers pitcher Kason Gabbard left the game due to an injured leg"2008SEA.EVA.regular.comment.csv",12
+
+"SEA200805160",87,"originally DI, changed to SB on 5-19"2008SEA.EVA.regular.comment.csv",13
+
+"SEA200805270",40,"ej,lugoj001,P,herna901,Asking for check swing call ej,frant001,M,herna901,Arguing about Lugo ejection $Julio Lugo asked 3B umpire Angel Hernandez for a check-swing ruling on ball four to Ibanez; they argued and Hernandez ejected Lugo; Boston manager Terry Francona went out to get Lugo off the field; he asked Hernandez a question and then reacted to the answer; Hernandez ejected Francona"2008SEA.EVA.regular.comment.csv",14
+
+"SEA200805270",45,"$home run #499 for Ramirez"2008SEA.EVA.regular.comment.csv",15
+
+"SEA200805300",7,"Debut game for Jeff Larish"2008SEA.EVA.regular.comment.csv",16
+
+"SEA200805310",44,"ej,leylj801,M,iassd901,Call at 1B on Granderson $Mariners 3Bman Adrian Beltre was in foul territory when he made the throw to 1B; umpire Dan Iassogna ruled that Miguel Cairo had his foot on the bag when he caught the wide throw; Granderson and manager Jim Leyland argued the call; Leyland was ejected by Iassogna"2008SEA.EVA.regular.comment.csv",17
+
+"SEA200806140",25,"fan interference"2008SEA.EVA.regular.comment.csv",18
+
+"SEA200806160",38,"ej,silvc001,P,welkb901,Call at 1B Mariners pitcher Carlos Silva ejected by 1B umpire Bill Welke for throwing up his arms and swearing at Welke after the safe call at 1B; Silva then had to be restrained by manager John McLaren"2008SEA.EVA.regular.comment.csv",19
+
+"SEA200807040",65,"ej,rodri001,P,knigb901,Balls and strikes Tigers catcher Ivan Rodriguez ejected by HP umpire Brian Knight"2008SEA.EVA.regular.comment.csv",20
+
+"SEA200807180",75,"Debut game for Bryan LaHair"2008SEA.EVA.regular.comment.csv",21
+
+"SEA200807200",27,"Mariners pitcher Carlos Silva left the game due to an injured back"2008SEA.EVA.regular.comment.csv",22
+
+"SEA200807210",67,"$the ball struck Lester's right shin"2008SEA.EVA.regular.comment.csv",23
+
+"SEA200807220",19,"Mariners catcher Jeff Clement left the game due to an injured hand/wrist"2008SEA.EVA.regular.comment.csv",24
+
+"SEA200808010",7,"$Willie Bloomquist called for interference"2008SEA.EVA.regular.comment.csv",25
+
+"SEA200808010",49,"Orioles designated hitter Aubrey Huff was waslking from the clubhouse to the dugout, heard the crowd roar, jumped up and banged his head on the concrete ceiling; he was bleeding and bruised and left the game; he said that he would not have left the game except for the Orioles' big lead"2008SEA.EVA.regular.comment.csv",26
+
+"SEA200808210",7,"$Thomas was upset with HP umpire Hohn about strike three and discussed it with him"2008SEA.EVA.regular.comment.csv",27
+
+"SEA200808210",40,"ej,thomf001,P,hohnb901,Balls and strikes (Threw equipment) $Thomas ejcted by HP umpire Hohn for arguing that 1st pitch was was inside; he took a short walk and was talking to himself when Hohn ejcted him; he then threw his helmet and bat as he left"2008SEA.EVA.regular.comment.csv",28
+
+"SEA200809050",13,"Debut game for Matt Tuiasosopo"2008SEA.EVA.regular.comment.csv",29
+
+"SEA200809060",22,"$Yuniesky Betancourt broke for 2B too soon and was picked off by Sidney Ponson; Betancourt was caught in a rundown but was awarded 2B when he ran into Ponson, who was charged with obstruction and an error"2008SEA.EVA.regular.comment.csv",30
+
+"SEA200809090",4,"Rangers designated hitter Milton Bradley strained a muscle in his back swinging at the first pitch and left the game"2008SEA.EVA.regular.comment.csv",31
+
+"SEA200809240",40,"replay,5,guerv001,ANA,welkt901,SEA03,F,N,I,,H $Vladimir Guerrero hit a ball down the left field line that hit just to the foul side of the pole and bounced back onto the field; 3B umpire Chuck Meriwether called it foul but Angels manager Mike Scioscia came onto the field to talk about the call; the umpires huddled and then crew chief Tim Welke watched the replay and upheld the call; this was the fifth use or replay"2008SEA.EVA.regular.comment.csv",32
+

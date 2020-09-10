@@ -1,47 +1,46 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"WS2197104050",22,"$Debut game for Jim Panther"
-"WS2197104050",66,"$Debut game for Tom Ragland"
-"WS2197104230",42,"ej,mclad101,P,frana901,Balls and strikes Denny McLain ejected by HP umpire Art Frantz"
-"WS2197105170",31,"$Three fielders collided chasing the fly ball which became an inside the park homer"
-"WS2197105190",1,"$Debut game for Mike Thompson"
-"WS2197106020",61,"game called for rain"
-"WS2197106040",79,"$Debut game for George Hendrick"
-"WS2197106200",1,"$Debut game for Pete Broberg"
-"WS2197106230",55,"$Jim Palmer called for obstruction during the rundown"
-"WS2197106230",77,"Jim Palmer left with blisters on his pitching hand"
-"WS2197107010",0,"26 minute rain delay before start of game"
-"WS2197107110",8,"last two plays really one continuos play"
-"WS2197107170",43,"ej,mincd101,P,soarh901,Stealing signs from CF bullpen Don Mincher ejected by HP umpire Hank Soar; Mincher was standing at the fence in the CF bullpen and the Twins thought he was stealing signs; Soar motioned for Mincher to move and Mincher motioned back from 410 feet away"
-"WS2197107180",78,"$Elliott Maddox caught between 1B and 2B and Toby Harrah scored during the rundown"
-"WS2197107190",59,"$Lenny Rabdle called for interference"
-"WS2197108060",41,"$Debut game for Mark Ballinger"
-"WS2197108110",41,"game called after 72 minute rain delay"
-"WS2197108122",1,"$Debut game for Lance Clemons"
-"WS2197109220",43,"ej,mincd101,P,phild901,Called third strike Don Mincher ejected by HP umpire Dave Phillips"
-"WS2197109300",0,"Forfeit=V $the last American League game at RFK Stadium; the Senators had already announced that they were moving to Texas after the season and the fans were upset"
-"WS2197109300",65,"$fans come onto field; game delayed"
-"WS2197109300",75,"$fans come onto field; game delayed"
-"WS2197109300",77,"$fans come onto field; game forfeited to the Yankees; statistics count but there is no winning or losing pitcher since the Senators were ahead at the time of the forfeit"
-"WS2197104050",22,"$Debut game for Jim Panther"
-"WS2197104050",66,"$Debut game for Tom Ragland"
-"WS2197104230",42,"ej,mclad101,P,frana901,Balls and strikes Denny McLain ejected by HP umpire Art Frantz"
-"WS2197105170",31,"$Three fielders collided chasing the fly ball which became an inside the park homer"
-"WS2197105190",1,"$Debut game for Mike Thompson"
-"WS2197106020",61,"game called for rain"
-"WS2197106040",79,"$Debut game for George Hendrick"
-"WS2197106200",1,"$Debut game for Pete Broberg"
-"WS2197106230",55,"$Jim Palmer called for obstruction during the rundown"
-"WS2197106230",77,"Jim Palmer left with blisters on his pitching hand"
-"WS2197107010",0,"26 minute rain delay before start of game"
-"WS2197107110",8,"last two plays really one continuos play"
-"WS2197107170",43,"ej,mincd101,P,soarh901,Stealing signs from CF bullpen Don Mincher ejected by HP umpire Hank Soar; Mincher was standing at the fence in the CF bullpen and the Twins thought he was stealing signs; Soar motioned for Mincher to move and Mincher motioned back from 410 feet away"
-"WS2197107180",78,"$Elliott Maddox caught between 1B and 2B and Toby Harrah scored during the rundown"
-"WS2197107190",59,"$Lenny Rabdle called for interference"
-"WS2197108060",41,"$Debut game for Mark Ballinger"
-"WS2197108110",41,"game called after 72 minute rain delay"
-"WS2197108122",1,"$Debut game for Lance Clemons"
-"WS2197109220",43,"ej,mincd101,P,phild901,Called third strike Don Mincher ejected by HP umpire Dave Phillips"
-"WS2197109300",0,"Forfeit=V $the last American League game at RFK Stadium; the Senators had already announced that they were moving to Texas after the season and the fans were upset"
-"WS2197109300",65,"$fans come onto field; game delayed"
-"WS2197109300",75,"$fans come onto field; game delayed"
-"WS2197109300",77,"$fans come onto field; game forfeited to the Yankees; statistics count but there is no winning or losing pitcher since the Senators were ahead at the time of the forfeit"
+"WS2197104050",22,"$Debut game for Jim Panther"FILENAME_TX","LINE_NUMBER_CT"
+
+"WS2197104050",66,"$Debut game for Tom Ragland"1971WS2.EVA.regular.comment.csv",2
+
+"WS2197104230",42,"ej,mclad101,P,frana901,Balls and strikes Denny McLain ejected by HP umpire Art Frantz"1971WS2.EVA.regular.comment.csv",3
+
+"WS2197105170",31,"$Three fielders collided chasing the fly ball which became an inside the park homer"1971WS2.EVA.regular.comment.csv",4
+
+"WS2197105190",1,"$Debut game for Mike Thompson"1971WS2.EVA.regular.comment.csv",5
+
+"WS2197106020",61,"game called for rain"1971WS2.EVA.regular.comment.csv",6
+
+"WS2197106040",79,"$Debut game for George Hendrick"1971WS2.EVA.regular.comment.csv",7
+
+"WS2197106200",1,"$Debut game for Pete Broberg"1971WS2.EVA.regular.comment.csv",8
+
+"WS2197106230",55,"$Jim Palmer called for obstruction during the rundown"1971WS2.EVA.regular.comment.csv",9
+
+"WS2197106230",77,"Jim Palmer left with blisters on his pitching hand"1971WS2.EVA.regular.comment.csv",10
+
+"WS2197107010",0,"26 minute rain delay before start of game"1971WS2.EVA.regular.comment.csv",11
+
+"WS2197107110",8,"last two plays really one continuos play"1971WS2.EVA.regular.comment.csv",12
+
+"WS2197107170",43,"ej,mincd101,P,soarh901,Stealing signs from CF bullpen Don Mincher ejected by HP umpire Hank Soar; Mincher was standing at the fence in the CF bullpen and the Twins thought he was stealing signs; Soar motioned for Mincher to move and Mincher motioned back from 410 feet away"1971WS2.EVA.regular.comment.csv",13
+
+"WS2197107180",78,"$Elliott Maddox caught between 1B and 2B and Toby Harrah scored during the rundown"1971WS2.EVA.regular.comment.csv",14
+
+"WS2197107190",59,"$Lenny Rabdle called for interference"1971WS2.EVA.regular.comment.csv",15
+
+"WS2197108060",41,"$Debut game for Mark Ballinger"1971WS2.EVA.regular.comment.csv",16
+
+"WS2197108110",41,"game called after 72 minute rain delay"1971WS2.EVA.regular.comment.csv",17
+
+"WS2197108122",1,"$Debut game for Lance Clemons"1971WS2.EVA.regular.comment.csv",18
+
+"WS2197109220",43,"ej,mincd101,P,phild901,Called third strike Don Mincher ejected by HP umpire Dave Phillips"1971WS2.EVA.regular.comment.csv",19
+
+"WS2197109300",0,"Forfeit=V $the last American League game at RFK Stadium; the Senators had already announced that they were moving to Texas after the season and the fans were upset"1971WS2.EVA.regular.comment.csv",20
+
+"WS2197109300",65,"$fans come onto field; game delayed"1971WS2.EVA.regular.comment.csv",21
+
+"WS2197109300",75,"$fans come onto field; game delayed"1971WS2.EVA.regular.comment.csv",22
+
+"WS2197109300",77,"$fans come onto field; game forfeited to the Yankees; statistics count but there is no winning or losing pitcher since the Senators were ahead at the time of the forfeit"1971WS2.EVA.regular.comment.csv",23
+

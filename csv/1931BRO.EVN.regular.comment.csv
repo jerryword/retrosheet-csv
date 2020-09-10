@@ -1,46 +1,44 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"BRO193104190",78,"rest of game deduced"
-"BRO193104240",35,"ej,spoha101,P,clarb901,Balls and strikes ej,mckeb101,M,clarb901,Balls and strikes Al Spohrer and Braves Manager Bill McKechnie ejected by HP umpire Bob Clarke"
-"BRO193105050",47,"$Al Lopez left with injured finger"
-"BRO193105110",2,"$Lefty O'Doul and Johnny Frederick collided"
-"BRO193105200",3,"ej,streg101,M,mcgrt901,Call at 1B Cardinals Manager Gabby Street ejected by 1B umpire Ted McGrew"
-"BRO193105200",10,"ej,wareb101,C,quige901,Call at 2B Cardinals Coach Buzzy Wares ejected by 3B umpire Ernie Quigley"
-"BRO193105312",80,"$game called for darkness"
-"BRO193106260",31,"$George Watkins thought there were 3 out and headed for RF"
-"BRO193106272",73,"ej,odoul101,P,clarb901,Call at 1B Lefty O'Doul ejected by 1B umpire Bob Clarke"
-"BRO193107010",14,"ej,sukec101,P,scotj104,Call at 1B Clyde Sukeforth ejected by 1B umpire Jim Scott for continuing to argue the call in the previous inning"
-"BRO193107122",54,"ej,fredj101,P,quige901,Balls and strikes Johnny Frederick ejected by HP umpire Ernie Quigley for arguing a called strike"
-"BRO193107122",99,"$Sloppy Thurston held to see if ball would be caught"
-"BRO193108130",34,"$Dazzy Vance spiked by Charlie Gelbert on inside right ankle"
-"BRO193108171",22,"$Johnny Frederick called out on appeal for leaving 2B early"
-"BRO193108172",68,"ej,fredj101,P,morac102,Called third strike (Threw bat) Johnny Frederick ejected by HP umpire Charlie Moran"
-"BRO193108191",12,"$Charlie Grimm overslid 2B"
-"BRO193108231",65,"$Joe Shaute collided with Tommy Thevenow near 3B and was called for obstruction"
-"BRO193109130",7,"$Pie Traynor's line drive struck Fred Heimach's right hip and caromed into RF"
-"BRO193109130",33,"$off Fred Heimach's right ankle"
-"BRO193109130",50,"$Tony Piet rounded 3B too far after wild throw from RF"
-"BRO193109130",60,"$the line drvie struck Fred Heimach's right shoulder"
-"BRO193109130",76,"$the line drive knocked Fred Heimach's glove off his hand"
-"BRO193109270",83,"$second game of double header called due to darkness in 4th"
-"BRO193104240",35,"ej,spoha101,P,clarb901,Balls and strikes ej,mckeb101,M,clarb901,Balls and strikes Al Spohrer and Braves Manager Bill McKechnie ejected by HP umpire Bob Clarke"
-"BRO193105050",47,"$Al Lopez left with injured finger"
-"BRO193105110",2,"$Lefty O'Doul and Johnny Frederick collided"
-"BRO193105200",3,"ej,streg101,M,mcgrt901,Call at 1B Cardinals Manager Gabby Street ejected by 1B umpire Ted McGrew"
-"BRO193105200",10,"ej,wareb101,C,quige901,Call at 2B Cardinals Coach Buzzy Wares ejected by 3B umpire Ernie Quigley"
-"BRO193105312",80,"$game called for darkness"
-"BRO193106260",31,"$George Watkins thought there were 3 out and headed for RF"
-"BRO193106272",73,"ej,odoul101,P,clarb901,Call at 1B Lefty O'Doul ejected by 1B umpire Bob Clarke"
-"BRO193107010",14,"ej,sukec101,P,scotj104,Call at 1B Clyde Sukeforth ejected by 1B umpire Jim Scott for continuing to argue the call in the previous inning"
-"BRO193107122",54,"ej,fredj101,P,quige901,Balls and strikes Johnny Frederick ejected by HP umpire Ernie Quigley for arguing a called strike"
-"BRO193107122",99,"$Sloppy Thurston held to see if ball would be caught"
-"BRO193108130",34,"$Dazzy Vance spiked by Charlie Gelbert on inside right ankle"
-"BRO193108171",22,"$Johnny Frederick called out on appeal for leaving 2B early"
-"BRO193108172",68,"ej,fredj101,P,morac102,Called third strike (Threw bat) Johnny Frederick ejected by HP umpire Charlie Moran"
-"BRO193108191",12,"$Charlie Grimm overslid 2B"
-"BRO193108231",65,"$Joe Shaute collided with Tommy Thevenow near 3B and was called for obstruction"
-"BRO193109130",7,"$Pie Traynor's line drive struck Fred Heimach's right hip and caromed into RF"
-"BRO193109130",33,"$off Fred Heimach's right ankle"
-"BRO193109130",50,"$Tony Piet rounded 3B too far after wild throw from RF"
-"BRO193109130",60,"$the line drvie struck Fred Heimach's right shoulder"
-"BRO193109130",76,"$the line drive knocked Fred Heimach's glove off his hand"
-"BRO193109270",83,"$second game of double header called due to darkness in 4th"
+"BRO193104240",35,"ej,spoha101,P,clarb901,Balls and strikes ej,mckeb101,M,clarb901,Balls and strikes Al Spohrer and Braves Manager Bill McKechnie ejected by HP umpire Bob Clarke"FILENAME_TX","LINE_NUMBER_CT"
+
+"BRO193105050",47,"$Al Lopez left with injured finger"1931BRO.EVN.regular.comment.csv",2
+
+"BRO193105110",2,"$Lefty O'Doul and Johnny Frederick collided"1931BRO.EVN.regular.comment.csv",3
+
+"BRO193105200",3,"ej,streg101,M,mcgrt901,Call at 1B Cardinals Manager Gabby Street ejected by 1B umpire Ted McGrew"1931BRO.EVN.regular.comment.csv",4
+
+"BRO193105200",10,"ej,wareb101,C,quige901,Call at 2B Cardinals Coach Buzzy Wares ejected by 3B umpire Ernie Quigley"1931BRO.EVN.regular.comment.csv",5
+
+"BRO193105312",80,"$game called for darkness"1931BRO.EVN.regular.comment.csv",6
+
+"BRO193106260",31,"$George Watkins thought there were 3 out and headed for RF"1931BRO.EVN.regular.comment.csv",7
+
+"BRO193106272",73,"ej,odoul101,P,clarb901,Call at 1B Lefty O'Doul ejected by 1B umpire Bob Clarke"1931BRO.EVN.regular.comment.csv",8
+
+"BRO193107010",14,"ej,sukec101,P,scotj104,Call at 1B Clyde Sukeforth ejected by 1B umpire Jim Scott for continuing to argue the call in the previous inning"1931BRO.EVN.regular.comment.csv",9
+
+"BRO193107122",54,"ej,fredj101,P,quige901,Balls and strikes Johnny Frederick ejected by HP umpire Ernie Quigley for arguing a called strike"1931BRO.EVN.regular.comment.csv",10
+
+"BRO193107122",99,"$Sloppy Thurston held to see if ball would be caught"1931BRO.EVN.regular.comment.csv",11
+
+"BRO193108130",34,"$Dazzy Vance spiked by Charlie Gelbert on inside right ankle"1931BRO.EVN.regular.comment.csv",12
+
+"BRO193108171",22,"$Johnny Frederick called out on appeal for leaving 2B early"1931BRO.EVN.regular.comment.csv",13
+
+"BRO193108172",68,"ej,fredj101,P,morac102,Called third strike (Threw bat) Johnny Frederick ejected by HP umpire Charlie Moran"1931BRO.EVN.regular.comment.csv",14
+
+"BRO193108191",12,"$Charlie Grimm overslid 2B"1931BRO.EVN.regular.comment.csv",15
+
+"BRO193108231",65,"$Joe Shaute collided with Tommy Thevenow near 3B and was called for obstruction"1931BRO.EVN.regular.comment.csv",16
+
+"BRO193109130",7,"$Pie Traynor's line drive struck Fred Heimach's right hip and caromed into RF"1931BRO.EVN.regular.comment.csv",17
+
+"BRO193109130",33,"$off Fred Heimach's right ankle"1931BRO.EVN.regular.comment.csv",18
+
+"BRO193109130",50,"$Tony Piet rounded 3B too far after wild throw from RF"1931BRO.EVN.regular.comment.csv",19
+
+"BRO193109130",60,"$the line drvie struck Fred Heimach's right shoulder"1931BRO.EVN.regular.comment.csv",20
+
+"BRO193109130",76,"$the line drive knocked Fred Heimach's glove off his hand"1931BRO.EVN.regular.comment.csv",21
+
+"BRO193109270",83,"$second game of double header called due to darkness in 4th"1931BRO.EVN.regular.comment.csv",22
+

@@ -1,91 +1,90 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"BAL198304162",6,"Toby Harrah hit on hand last inning, left injured"
-"BAL198304190",51,"$snow flurries at 9:10"
-"BAL198304190",58,"$wind chill at 9:15 was +6"
-"BAL198304210",107,"Mike Richardt hurt by Dan Ford's slide to end game; out 3 months"
-"BAL198305080",77,"Several rain delays, game ended at 7:47"
-"BAL198305100",47,"ej,altoj101,M,cobld901,Balls and strikes ej,ripkc801,C,cobld901,Balls and strikes Orioles manager Joe Altobelli and coach Cal Ripken Sr ejected by HP umpire Drew Coble"
-"BAL198305110",39,"Dan Ford hurt knee tripping over 1B"
-"BAL198305171",2,"Mike Flanagan left with injured knee"
-"BAL198305172",36,"SB may be later"
-"BAL198305230",40,"$John Castino walked on 2-2 pitch"
-"BAL198305250",19,"DWS: neither sheet shows WP, but official totals do"
-"BAL198305250",46,"Welchel's WP may be in this inning instead of 2nd"
-"BAL198306060",48,"Rain delay at 9:41, game called at 10:33"
-"BAL198306080",1,"Debut game for Allan Ramirez"
-"BAL198306080",62,"Don Sutton left with back spasms while warming up"
-"BAL198306170",16,"$career hit 1500 for Jim Rice"
-"BAL198306210",37,"umpchange,5,ump1b,neudj901 umpchange,5,ump2b,(None) $1B umpire Al Clark hit by Dave Winfield's foul line drive; left on stretcher; 2B umpire Jerry Neudecker moved to 1B"
-"BAL198306220",0,"Debut for umpire Rich Humphrey"
-"BAL198306240",18,"Debut game for John Stefero"
-"BAL198306240",59,"$Eddie Murray's foul popup blew into fair territory and was dropped by Lance Parrish; Murray thought it was foul and didn't run"
-"BAL198307120",1,"Debut game for Gorman Heimueller"
-"BAL198307150",20,"Todd Cruz split nail receiving throw from Benny Ayala"
-"BAL198307150",60,"Ken Singleton hit by throw to 1B"
-"BAL198307160",50,"$Cal Ripken Jr rounded 2B too far"
-"BAL198307290",45,"ej,dentb001,P,mckej901,Balls and strikes Bucky Dent ejected by HP umpire Jim McKean"
-"BAL198307290",79,"$Victor Cruz was brought into the game with a 2-0 count on Cal Ripken Jr; Dave Schmidt came back when the umpires realized this was the second trip to the mound during the same batter for Rangers manager Doug Rader"
-"BAL198307290",80,"$Rangers forced to bring in Victor Cruz now"
-"BAL198308050",0,"$Scheduled 8:05 start; Brooks Robinson HOF ceremony and 1:56 rain delay cause start at 10:01"
-"BAL198308060",65,"Debut game for Al Jones"
-"BAL198308100",61,"ej,perkb001,P,johnm901,Called third strike Broderick Perkins ejected by HP umpire Mark Johnson"
-"BAL198308191",64,"Willie Wilson left with unknown injury"
-"BAL198308200",27,"Dan Ford was picked off but Willie Aikens did not throw to 2B"
-"BAL198308210",74,"ej,altoj101,M,phild901,Balk call Orioles manager Joe Altobelli ejected by 3B umpire Dave Phillips"
-"BAL198308240",86,"$Tippy Martinez picked off three runners at 1B in this inning; infielder Lenn Sakata caught six pitches in the inning"
-"BAL198308260",18,"$two runners scored on the sacrifice fly"
-"BAL198308280",21,"$two runners scored on an infield single"
-"BAL198308280",70,"PB may be later"
-"BAL198309060",15,"rain delay from 8:05-8:23"
-"BAL198309060",62,"Jim Dwyer caught the ball over the top of the fence"
-"BAL198309060",66,"Debut game for Jackie Gutierrez Debut game for Al Nipper"
-"BAL198309160",20,"Debut game for Dion James"
-"BAL198309190",92,"ej,sakal001,P,pales901,Balk non-call Lenn Sakata ejected by 3B umpire Steve Palermo arguing that CS was a balk"
-"BAL198309290",12,"$Cal Ripken Jr's 206th hit for a new club record"
-"BAL198310010",96,"$Dave Winfield passed Omar Moreno and was called out"
-"BAL198310020",58,"ej,murre001,P,pales901,Presumed laughing at umpire $Orioles Murray ejected by 2B umpire Palermo for laughing at Sakata for being thrown out; umpire thought Murray was laughing at him"
-"BAL198304162",6,"Toby Harrah hit on hand last inning, left injured"
-"BAL198304190",51,"$snow flurries at 9:10"
-"BAL198304190",58,"$wind chill at 9:15 was +6"
-"BAL198304210",107,"Mike Richardt hurt by Dan Ford's slide to end game; out 3 months"
-"BAL198305080",77,"Several rain delays, game ended at 7:47"
-"BAL198305100",47,"ej,altoj101,M,cobld901,Balls and strikes ej,ripkc801,C,cobld901,Balls and strikes Orioles manager Joe Altobelli and coach Cal Ripken Sr ejected by HP umpire Drew Coble"
-"BAL198305110",39,"Dan Ford hurt knee tripping over 1B"
-"BAL198305171",2,"Mike Flanagan left with injured knee"
-"BAL198305172",36,"SB may be later"
-"BAL198305230",40,"$John Castino walked on 2-2 pitch"
-"BAL198305250",19,"DWS: neither sheet shows WP, but official totals do"
-"BAL198305250",46,"Welchel's WP may be in this inning instead of 2nd"
-"BAL198306060",48,"Rain delay at 9:41, game called at 10:33"
-"BAL198306080",1,"Debut game for Allan Ramirez"
-"BAL198306080",62,"Don Sutton left with back spasms while warming up"
-"BAL198306170",16,"$career hit 1500 for Jim Rice"
-"BAL198306210",37,"umpchange,5,ump1b,neudj901 umpchange,5,ump2b,(None) $1B umpire Al Clark hit by Dave Winfield's foul line drive; left on stretcher; 2B umpire Jerry Neudecker moved to 1B"
-"BAL198306220",0,"Debut for umpire Rich Humphrey"
-"BAL198306240",18,"Debut game for John Stefero"
-"BAL198306240",59,"$Eddie Murray's foul popup blew into fair territory and was dropped by Lance Parrish; Murray thought it was foul and didn't run"
-"BAL198307120",1,"Debut game for Gorman Heimueller"
-"BAL198307150",20,"Todd Cruz split nail receiving throw from Benny Ayala"
-"BAL198307150",60,"Ken Singleton hit by throw to 1B"
-"BAL198307160",50,"$Cal Ripken Jr rounded 2B too far"
-"BAL198307290",45,"ej,dentb001,P,mckej901,Balls and strikes Bucky Dent ejected by HP umpire Jim McKean"
-"BAL198307290",79,"$Victor Cruz was brought into the game with a 2-0 count on Cal Ripken Jr; Dave Schmidt came back when the umpires realized this was the second trip to the mound during the same batter for Rangers manager Doug Rader"
-"BAL198307290",80,"$Rangers forced to bring in Victor Cruz now"
-"BAL198308050",0,"$Scheduled 8:05 start; Brooks Robinson HOF ceremony and 1:56 rain delay cause start at 10:01"
-"BAL198308060",65,"Debut game for Al Jones"
-"BAL198308100",61,"ej,perkb001,P,johnm901,Called third strike Broderick Perkins ejected by HP umpire Mark Johnson"
-"BAL198308191",64,"Willie Wilson left with unknown injury"
-"BAL198308200",27,"Dan Ford was picked off but Willie Aikens did not throw to 2B"
-"BAL198308210",74,"ej,altoj101,M,phild901,Balk call Orioles manager Joe Altobelli ejected by 3B umpire Dave Phillips"
-"BAL198308240",86,"$Tippy Martinez picked off three runners at 1B in this inning; infielder Lenn Sakata caught six pitches in the inning"
-"BAL198308260",18,"$two runners scored on the sacrifice fly"
-"BAL198308280",21,"$two runners scored on an infield single"
-"BAL198308280",70,"PB may be later"
-"BAL198309060",15,"rain delay from 8:05-8:23"
-"BAL198309060",62,"Jim Dwyer caught the ball over the top of the fence"
-"BAL198309060",66,"Debut game for Jackie Gutierrez Debut game for Al Nipper"
-"BAL198309160",20,"Debut game for Dion James"
-"BAL198309190",92,"ej,sakal001,P,pales901,Balk non-call Lenn Sakata ejected by 3B umpire Steve Palermo arguing that CS was a balk"
-"BAL198309290",12,"$Cal Ripken Jr's 206th hit for a new club record"
-"BAL198310010",96,"$Dave Winfield passed Omar Moreno and was called out"
-"BAL198310020",58,"ej,murre001,P,pales901,Presumed laughing at umpire $Orioles Murray ejected by 2B umpire Palermo for laughing at Sakata for being thrown out; umpire thought Murray was laughing at him"
+"BAL198304162",6,"Toby Harrah hit on hand last inning, left injured"FILENAME_TX","LINE_NUMBER_CT"
+
+"BAL198304190",51,"$snow flurries at 9:10"1983BAL.EVA.regular.comment.csv",2
+
+"BAL198304190",58,"$wind chill at 9:15 was +6"1983BAL.EVA.regular.comment.csv",3
+
+"BAL198304210",107,"Mike Richardt hurt by Dan Ford's slide to end game; out 3 months"1983BAL.EVA.regular.comment.csv",4
+
+"BAL198305080",77,"Several rain delays, game ended at 7:47"1983BAL.EVA.regular.comment.csv",5
+
+"BAL198305100",47,"ej,altoj101,M,cobld901,Balls and strikes ej,ripkc801,C,cobld901,Balls and strikes Orioles manager Joe Altobelli and coach Cal Ripken Sr ejected by HP umpire Drew Coble"1983BAL.EVA.regular.comment.csv",6
+
+"BAL198305110",39,"Dan Ford hurt knee tripping over 1B"1983BAL.EVA.regular.comment.csv",7
+
+"BAL198305171",2,"Mike Flanagan left with injured knee"1983BAL.EVA.regular.comment.csv",8
+
+"BAL198305172",36,"SB may be later"1983BAL.EVA.regular.comment.csv",9
+
+"BAL198305230",40,"$John Castino walked on 2-2 pitch"1983BAL.EVA.regular.comment.csv",10
+
+"BAL198305250",19,"DWS: neither sheet shows WP, but official totals do"1983BAL.EVA.regular.comment.csv",11
+
+"BAL198305250",46,"Welchel's WP may be in this inning instead of 2nd"1983BAL.EVA.regular.comment.csv",12
+
+"BAL198306060",48,"Rain delay at 9:41, game called at 10:33"1983BAL.EVA.regular.comment.csv",13
+
+"BAL198306080",1,"Debut game for Allan Ramirez"1983BAL.EVA.regular.comment.csv",14
+
+"BAL198306080",62,"Don Sutton left with back spasms while warming up"1983BAL.EVA.regular.comment.csv",15
+
+"BAL198306170",16,"$career hit 1500 for Jim Rice"1983BAL.EVA.regular.comment.csv",16
+
+"BAL198306210",37,"umpchange,5,ump1b,neudj901 umpchange,5,ump2b,(None) $1B umpire Al Clark hit by Dave Winfield's foul line drive; left on stretcher; 2B umpire Jerry Neudecker moved to 1B"1983BAL.EVA.regular.comment.csv",17
+
+"BAL198306220",0,"Debut for umpire Rich Humphrey"1983BAL.EVA.regular.comment.csv",18
+
+"BAL198306240",18,"Debut game for John Stefero"1983BAL.EVA.regular.comment.csv",19
+
+"BAL198306240",59,"$Eddie Murray's foul popup blew into fair territory and was dropped by Lance Parrish; Murray thought it was foul and didn't run"1983BAL.EVA.regular.comment.csv",20
+
+"BAL198307120",1,"Debut game for Gorman Heimueller"1983BAL.EVA.regular.comment.csv",21
+
+"BAL198307150",20,"Todd Cruz split nail receiving throw from Benny Ayala"1983BAL.EVA.regular.comment.csv",22
+
+"BAL198307150",60,"Ken Singleton hit by throw to 1B"1983BAL.EVA.regular.comment.csv",23
+
+"BAL198307160",50,"$Cal Ripken Jr rounded 2B too far"1983BAL.EVA.regular.comment.csv",24
+
+"BAL198307290",45,"ej,dentb001,P,mckej901,Balls and strikes Bucky Dent ejected by HP umpire Jim McKean"1983BAL.EVA.regular.comment.csv",25
+
+"BAL198307290",79,"$Victor Cruz was brought into the game with a 2-0 count on Cal Ripken Jr; Dave Schmidt came back when the umpires realized this was the second trip to the mound during the same batter for Rangers manager Doug Rader"1983BAL.EVA.regular.comment.csv",26
+
+"BAL198307290",80,"$Rangers forced to bring in Victor Cruz now"1983BAL.EVA.regular.comment.csv",27
+
+"BAL198308050",0,"$Scheduled 8:05 start; Brooks Robinson HOF ceremony and 1:56 rain delay cause start at 10:01"1983BAL.EVA.regular.comment.csv",28
+
+"BAL198308060",65,"Debut game for Al Jones"1983BAL.EVA.regular.comment.csv",29
+
+"BAL198308100",61,"ej,perkb001,P,johnm901,Called third strike Broderick Perkins ejected by HP umpire Mark Johnson"1983BAL.EVA.regular.comment.csv",30
+
+"BAL198308191",64,"Willie Wilson left with unknown injury"1983BAL.EVA.regular.comment.csv",31
+
+"BAL198308200",27,"Dan Ford was picked off but Willie Aikens did not throw to 2B"1983BAL.EVA.regular.comment.csv",32
+
+"BAL198308210",74,"ej,altoj101,M,phild901,Balk call Orioles manager Joe Altobelli ejected by 3B umpire Dave Phillips"1983BAL.EVA.regular.comment.csv",33
+
+"BAL198308240",86,"$Tippy Martinez picked off three runners at 1B in this inning; infielder Lenn Sakata caught six pitches in the inning"1983BAL.EVA.regular.comment.csv",34
+
+"BAL198308260",18,"$two runners scored on the sacrifice fly"1983BAL.EVA.regular.comment.csv",35
+
+"BAL198308280",21,"$two runners scored on an infield single"1983BAL.EVA.regular.comment.csv",36
+
+"BAL198308280",70,"PB may be later"1983BAL.EVA.regular.comment.csv",37
+
+"BAL198309060",15,"rain delay from 8:05-8:23"1983BAL.EVA.regular.comment.csv",38
+
+"BAL198309060",62,"Jim Dwyer caught the ball over the top of the fence"1983BAL.EVA.regular.comment.csv",39
+
+"BAL198309060",66,"Debut game for Jackie Gutierrez Debut game for Al Nipper"1983BAL.EVA.regular.comment.csv",40
+
+"BAL198309160",20,"Debut game for Dion James"1983BAL.EVA.regular.comment.csv",41
+
+"BAL198309190",92,"ej,sakal001,P,pales901,Balk non-call Lenn Sakata ejected by 3B umpire Steve Palermo arguing that CS was a balk"1983BAL.EVA.regular.comment.csv",42
+
+"BAL198309290",12,"$Cal Ripken Jr's 206th hit for a new club record"1983BAL.EVA.regular.comment.csv",43
+
+"BAL198310010",96,"$Dave Winfield passed Omar Moreno and was called out"1983BAL.EVA.regular.comment.csv",44
+
+"BAL198310020",58,"ej,murre001,P,pales901,Presumed laughing at umpire $Orioles Murray ejected by 2B umpire Palermo for laughing at Sakata for being thrown out; umpire thought Murray was laughing at him"1983BAL.EVA.regular.comment.csv",45
+

@@ -1,57 +1,56 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"LAN200204030",32,"$Bonds has multi-homer games in first two games of season; only previously done by Eddie Mathews (1958)"
-"LAN200204060",1,"Debut game for Kazuhisa Ishii"
-"LAN200204210",5,"ej,bochb002,M,wintm901,Call at HP Padres Manager Bruce Bochy ejected by HP umpire Mike Winters"
-"LAN200205050",33,"hit on right bicep. warmed up in 5th, came out"
-"LAN200206160",59,"ej,sciom001,M,darlg901,Intentional HBP Angels Manager Mike Scioscia ejected by HP umpire Gary Darling"
-"LAN200206200",44,"$Mondesi scored from 2B when Green forgot how many were out"
-"LAN200206220",16,"ej,grudm001,P,danlk901,Interference call (ran out of the line) $Mark Grudzielanek ejected by HP umpire Kerwin Danley for arguing interference call"
-"LAN200206260",52,"bunt assumed"
-"LAN200207130",46,"ej,tracj101,M,millb901,Call at 2B Dodgers Manager Jim Tracy ejected by 2B umpire Bill Miller"
-"LAN200207150",57,"$Edmonds made a perfect on-the-fly throw to the plate"
-"LAN200208060",15,"$the liner struck Giles on the head and was retrieved by Hyzdu; two Dodgers ended up on 3B and Beltre was tagged out; Giles remained on the ground after the play; when the trainer and manager arrived, Giles said he was too embarrassed to get up"
-"LAN200208100",13,"$over the bullpen, against the back wall - 440 feet"
-"LAN200208100",17,"$hit on foot"
-"LAN200208100",22,"$shattered bat"
-"LAN200208100",27,"$nice scoop by Giambi on low throw"
-"LAN200208100",49,"$shattered bat"
-"LAN200208100",59,"$dive, couldn't hold"
-"LAN200208100",78,"$broken bat"
-"LAN200208100",83,"ej,bowal001,M,hollm901,Call at 2B $runner beat play at second; Phillies manager Larry Bowa ejected by 2B umpire Matt Hollowell"
-"LAN200208100",85,"$broken bat"
-"LAN200208220",4,"originally E1 all the way"
-"LAN200208230",60,"ej,pereo001,P,eddid901,Balk call Odalis Perez ejected by 1B umpire Doug Eddings"
-"LAN200208240",61,"$Sheffield lost ball in sun"
-"LAN200208240",67,"ej,belta001,P,eddid901,Called third strike Adrian Beltre eject by HP umpire Doug Eddings"
-"LAN200208260",74,"$Cora banged head on Womack's knee; Cora down for 10 minutes, leaves field on stretcher with concussion"
-"LAN200209060",47,"ej,willj107,M,kulpr901,Call at 1B Astros Manager Jimy Williams ejected by HP umpire Ron Kulpa"
-"LAN200209080",29,"$Line drive off Ishii's head, rebound foul ground, fractured skull"
-"LAN200209270",37,"fine catch and throw by Grissom, who hurt left side on throw but stayed in game"
-"LAN200204030",32,"$Bonds has multi-homer games in first two games of season; only previously done by Eddie Mathews (1958)"
-"LAN200204060",1,"Debut game for Kazuhisa Ishii"
-"LAN200204210",5,"ej,bochb002,M,wintm901,Call at HP Padres Manager Bruce Bochy ejected by HP umpire Mike Winters"
-"LAN200205050",33,"hit on right bicep. warmed up in 5th, came out"
-"LAN200206160",59,"ej,sciom001,M,darlg901,Telling umpires to clear opponents from field $Angels manager Scioscia ejected by HP umpire Darling for telling umpire to force Dodger players back to dugout; Scioscia was changing pitchers after bench-clearing incident following hit batter, but no one ejected in that scuffle"
-"LAN200206200",44,"$Mondesi scored from 2B when Green forgot how many were out"
-"LAN200206220",16,"ej,grudm001,P,danlk901,Interference call (ran out of the line) $Mark Grudzielanek ejected by HP umpire Kerwin Danley for arguing interference call"
-"LAN200206260",52,"bunt assumed"
-"LAN200207130",46,"ej,tracj101,M,millb901,Call at 2B Dodgers Manager Jim Tracy ejected by 2B umpire Bill Miller"
-"LAN200207150",57,"$Edmonds made a perfect on-the-fly throw to the plate"
-"LAN200208060",15,"$the liner struck Giles on the head and was retrieved by Hyzdu; two Dodgers ended up on 3B and Beltre was tagged out; Giles remained on the ground after the play; when the trainer and manager arrived, Giles said he was too embarrassed to get up"
-"LAN200208100",13,"$over the bullpen, against the back wall - 440 feet"
-"LAN200208100",17,"$hit on foot"
-"LAN200208100",22,"$shattered bat"
-"LAN200208100",27,"$nice scoop by Giambi on low throw"
-"LAN200208100",49,"$shattered bat"
-"LAN200208100",59,"$dive, couldn't hold"
-"LAN200208100",78,"$broken bat"
-"LAN200208100",83,"ej,bowal001,M,hollm901,Call at 2B $runner beat play at second; Phillies manager Larry Bowa ejected by 2B umpire Matt Hollowell"
-"LAN200208100",85,"$broken bat"
-"LAN200208220",4,"originally E1 all the way"
-"LAN200208230",60,"ej,pereo001,P,eddid901,Balk call Odalis Perez ejected by 1B umpire Doug Eddings"
-"LAN200208240",61,"$Sheffield lost ball in sun"
-"LAN200208240",67,"ej,belta001,P,eddid901,Called third strike Adrian Beltre eject by HP umpire Doug Eddings"
-"LAN200208260",74,"$Cora banged head on Womack's knee; Cora down for 10 minutes, leaves field on stretcher with concussion"
-"LAN200209060",47,"ej,willj107,M,kulpr901,Call at 1B Astros Manager Jimy Williams ejected by HP umpire Ron Kulpa"
-"LAN200209080",29,"$Line drive off Ishii's head, rebound foul ground, fractured skull"
-"LAN200209270",37,"fine catch and throw by Grissom, who hurt left side on throw but stayed in game"
+"LAN200204030",32,"$Bonds has multi-homer games in first two games of season; only previously done by Eddie Mathews (1958)"FILENAME_TX","LINE_NUMBER_CT"
+
+"LAN200204060",1,"Debut game for Kazuhisa Ishii"2002LAN.EVN.regular.comment.csv",2
+
+"LAN200204210",5,"ej,bochb002,M,wintm901,Call at HP Padres Manager Bruce Bochy ejected by HP umpire Mike Winters"2002LAN.EVN.regular.comment.csv",3
+
+"LAN200205050",33,"hit on right bicep. warmed up in 5th, came out"2002LAN.EVN.regular.comment.csv",4
+
+"LAN200206160",59,"ej,sciom001,M,darlg901,Telling umpires to clear opponents from field $Angels manager Scioscia ejected by HP umpire Darling for telling umpire to force Dodger players back to dugout; Scioscia was changing pitchers after bench-clearing incident following hit batter, but no one ejected in that scuffle"2002LAN.EVN.regular.comment.csv",5
+
+"LAN200206200",44,"$Mondesi scored from 2B when Green forgot how many were out"2002LAN.EVN.regular.comment.csv",6
+
+"LAN200206220",16,"ej,grudm001,P,danlk901,Interference call (ran out of the line) $Mark Grudzielanek ejected by HP umpire Kerwin Danley for arguing interference call"2002LAN.EVN.regular.comment.csv",7
+
+"LAN200206260",52,"bunt assumed"2002LAN.EVN.regular.comment.csv",8
+
+"LAN200207130",46,"ej,tracj101,M,millb901,Call at 2B Dodgers Manager Jim Tracy ejected by 2B umpire Bill Miller"2002LAN.EVN.regular.comment.csv",9
+
+"LAN200207150",57,"$Edmonds made a perfect on-the-fly throw to the plate"2002LAN.EVN.regular.comment.csv",10
+
+"LAN200208060",15,"$the liner struck Giles on the head and was retrieved by Hyzdu; two Dodgers ended up on 3B and Beltre was tagged out; Giles remained on the ground after the play; when the trainer and manager arrived, Giles said he was too embarrassed to get up"2002LAN.EVN.regular.comment.csv",11
+
+"LAN200208100",13,"$over the bullpen, against the back wall - 440 feet"2002LAN.EVN.regular.comment.csv",12
+
+"LAN200208100",17,"$hit on foot"2002LAN.EVN.regular.comment.csv",13
+
+"LAN200208100",22,"$shattered bat"2002LAN.EVN.regular.comment.csv",14
+
+"LAN200208100",27,"$nice scoop by Giambi on low throw"2002LAN.EVN.regular.comment.csv",15
+
+"LAN200208100",49,"$shattered bat"2002LAN.EVN.regular.comment.csv",16
+
+"LAN200208100",59,"$dive, couldn't hold"2002LAN.EVN.regular.comment.csv",17
+
+"LAN200208100",78,"$broken bat"2002LAN.EVN.regular.comment.csv",18
+
+"LAN200208100",83,"ej,bowal001,M,hollm901,Call at 2B $runner beat play at second; Phillies manager Larry Bowa ejected by 2B umpire Matt Hollowell"2002LAN.EVN.regular.comment.csv",19
+
+"LAN200208100",85,"$broken bat"2002LAN.EVN.regular.comment.csv",20
+
+"LAN200208220",4,"originally E1 all the way"2002LAN.EVN.regular.comment.csv",21
+
+"LAN200208230",60,"ej,pereo001,P,eddid901,Balk call Odalis Perez ejected by 1B umpire Doug Eddings"2002LAN.EVN.regular.comment.csv",22
+
+"LAN200208240",61,"$Sheffield lost ball in sun"2002LAN.EVN.regular.comment.csv",23
+
+"LAN200208240",67,"ej,belta001,P,eddid901,Called third strike Adrian Beltre eject by HP umpire Doug Eddings"2002LAN.EVN.regular.comment.csv",24
+
+"LAN200208260",74,"$Cora banged head on Womack's knee; Cora down for 10 minutes, leaves field on stretcher with concussion"2002LAN.EVN.regular.comment.csv",25
+
+"LAN200209060",47,"ej,willj107,M,kulpr901,Call at 1B Astros Manager Jimy Williams ejected by HP umpire Ron Kulpa"2002LAN.EVN.regular.comment.csv",26
+
+"LAN200209080",29,"$Line drive off Ishii's head, rebound foul ground, fractured skull"2002LAN.EVN.regular.comment.csv",27
+
+"LAN200209270",37,"fine catch and throw by Grissom, who hurt left side on throw but stayed in game"2002LAN.EVN.regular.comment.csv",28
+

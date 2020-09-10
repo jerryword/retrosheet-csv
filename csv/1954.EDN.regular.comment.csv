@@ -1,77 +1,76 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"CHN195407030",0,"$Umpire Artie Gore missed game due to leg injury"
-"MLN195405070",56,"$Dee Fondy, off with the pitch, was nearly to 2B when the foul was caught"
-"MLN195405070",62,"$leaping catch by Henry Aaron to rob Randy Jackson of homer"
-"MLN195406130",1,"$Henry Aaron reached over fence to rob Willie Jones of homer"
-"MLN195407181",0,"conjecture for event order in non-scoring innings"
-"PHI195407060",24,"ej,theij101,P,goetl901,Bench jockeying Jake Thies ejected by HP umpire Larry Goetz"
-"PHI195409112",30,"$Walker Cooper missed strike 3 for an error, then threw ball past 1B for second error"
-"PHI195409150",58,"$Willie Jones rounded 3B too far"
-"PIT195405090",0,"Source 308 has 5 innings, rest deduced"
-"PIT195405090",4,"$ball thrown around the infield 5-4-3 but everyone safe"
-"PIT195405090",9,"missing play in PIT195405090"
-"PIT195405090",41,"fabrication, but need 26 DP and no CS anywhere"
-"PIT195405130",4,"$runners were off on 3-2 pitch and Danny O'Connell kept running"
-"PIT195405140",25,"$Henry Aaron missed homer when ball hit barbed wire above wall"
-"PIT195405161",62,"might be E4"
-"PIT195405161",65,"$Might be E6 (reversal with previous error this inning)"
-"PIT195405170",39,"$homer into trees in Schenley Park"
-"PIT195405290",0,"much of game from source 308, rest deduced"
-"PIT195406230",54,"$Tom Alston injured during Preston Ward at bat"
-"PIT195407042",39,"not certain error is here"
-"PIT195407260",9,"error invented, but Cole needs one"
-"PIT195407310",0,"conjecture for CHN's D, 4 S, 2 W, 2 K in innings 1-5"
-"PIT195407310",7,"$Gene Baker broke glasses in collision with Hal Rice; 15 stitches over eye"
-"PIT195407310",43,"$Sid Gordon failed to throw to either base"
-"PIT195407310",45,"ej,hanef101,M,dascf901,Call at 1B Pirates Manager Fred Haney ejected by 1B umpire Frank Dascoli"
-"PIT195409100",0,"31 minute rain delay before start of game"
-"PIT195409110",3,"E9 might be elsewhere"
-"PIT195409110",4,"$Ray Jablonski rounded 2B too far"
-"PIT195409141",5,"$Ernie Banks rounded 1B too far"
-"PIT195409141",42,"speculation on the error, but few places to put it"
-"PIT195409141",49,"invented PO because need 3rd out and Rush did single"
-"SLN195404290",44,"$Dick Cole scored as Tom Alston argued the call at 1B"
-"SLN195404290",72,"ej,pagej101,P,dascf901,Bench jockeying $Pirate Page, not in game ejected by HP umpire Dascoli sometime in 9th inning for bench jockeying"
-"SLN195406120",30,"bogus OA"
-"SLN195407100",70,"$off screen on RF pole above pavillion roof"
-"SLN195407181",57,"1:18 rain delay in seventh"
-"SLN195407181",104,"$the second game of the double header was forfeited by the Cardinals in the top of the fifth with two out; they had been delaying while behind hoping for the game to be canceled due to rain; shortly before the forfeiture, both benches cleared and a brawl ensued; Sal Yvars and Earl Torgeson ejected by HP umpire Babe Pinelli for fighting; manager Terry Moore and Eddie Stanky tangled during the altercation"
-"SLN195409180",52,"$sinking line drive trapped"
-"CHN195407030",0,"$Umpire Artie Gore missed game due to leg injury"
-"MLN195405070",56,"$Dee Fondy, off with the pitch, was nearly to 2B when the foul was caught"
-"MLN195405070",62,"$leaping catch by Henry Aaron to rob Randy Jackson of homer"
-"MLN195406130",1,"$Henry Aaron reached over fence to rob Willie Jones of homer"
-"MLN195407181",0,"conjecture for event order in non-scoring innings"
-"PHI195407060",24,"ej,theij101,P,goetl901,Bench jockeying Jake Thies ejected by HP umpire Larry Goetz"
-"PHI195409112",30,"$Walker Cooper missed strike 3 for an error, then threw ball past 1B for second error"
-"PHI195409150",58,"$Willie Jones rounded 3B too far"
-"PIT195405090",0,"Source 308 has 5 innings, rest deduced"
-"PIT195405090",4,"$ball thrown around the infield 5-4-3 but everyone safe"
-"PIT195405090",9,"missing play in PIT195405090"
-"PIT195405090",41,"fabrication, but need 26 DP and no CS anywhere"
-"PIT195405130",4,"$runners were off on 3-2 pitch and Danny O'Connell kept running"
-"PIT195405140",25,"$Henry Aaron missed homer when ball hit barbed wire above wall"
-"PIT195405161",62,"might be E4"
-"PIT195405161",65,"$Might be E6 (reversal with previous error this inning)"
-"PIT195405170",39,"$homer into trees in Schenley Park"
-"PIT195405290",0,"much of game from source 308, rest deduced"
-"PIT195406230",54,"$Tom Alston injured during Preston Ward at bat"
-"PIT195407042",39,"not certain error is here"
-"PIT195407260",9,"error invented, but Cole needs one"
-"PIT195407310",0,"conjecture for CHN's D, 4 S, 2 W, 2 K in innings 1-5"
-"PIT195407310",7,"$Gene Baker broke glasses in collision with Hal Rice; 15 stitches over eye"
-"PIT195407310",43,"$Sid Gordon failed to throw to either base"
-"PIT195407310",45,"ej,hanef101,M,dascf901,Call at 1B Pirates Manager Fred Haney ejected by 1B umpire Frank Dascoli"
-"PIT195409100",0,"31 minute rain delay before start of game"
-"PIT195409110",3,"E9 might be elsewhere"
-"PIT195409110",4,"$Ray Jablonski rounded 2B too far"
-"PIT195409141",5,"$Ernie Banks rounded 1B too far"
-"PIT195409141",42,"speculation on the error, but few places to put it"
-"PIT195409141",49,"invented PO because need 3rd out and Rush did single"
-"SLN195404290",44,"$Dick Cole scored as Tom Alston argued the call at 1B"
-"SLN195404290",72,"ej,pagej101,P,dascf901,Bench jockeying $Pirate Page, not in game ejected by HP umpire Dascoli sometime in 9th inning for bench jockeying"
-"SLN195406120",30,"bogus OA"
-"SLN195407100",70,"$off screen on RF pole above pavillion roof"
-"SLN195407181",57,"1:18 rain delay in seventh"
-"SLN195407181",104,"$the second game of the double header was forfeited by the Cardinals in the top of the fifth with two out; they had been delaying while behind hoping for the game to be canceled due to rain; shortly before the forfeiture, both benches cleared and a brawl ensued; Sal Yvars and Earl Torgeson ejected by HP umpire Babe Pinelli for fighting; manager Terry Moore and Eddie Stanky tangled during the altercation"
-"SLN195409180",52,"$sinking line drive trapped"
+"CHN195407030",0,"$Umpire Artie Gore missed game due to leg injury"FILENAME_TX","LINE_NUMBER_CT"
+
+"MLN195405070",56,"$Dee Fondy, off with the pitch, was nearly to 2B when the foul was caught"1954.EDN.regular.comment.csv",2
+
+"MLN195405070",62,"$leaping catch by Henry Aaron to rob Randy Jackson of homer"1954.EDN.regular.comment.csv",3
+
+"MLN195406130",1,"$Henry Aaron reached over fence to rob Willie Jones of homer"1954.EDN.regular.comment.csv",4
+
+"MLN195407181",0,"conjecture for event order in non-scoring innings"1954.EDN.regular.comment.csv",5
+
+"PHI195407060",24,"ej,theij101,P,goetl901,Bench jockeying Jake Thies ejected by HP umpire Larry Goetz"1954.EDN.regular.comment.csv",6
+
+"PHI195409112",30,"$Walker Cooper missed strike 3 for an error, then threw ball past 1B for second error"1954.EDN.regular.comment.csv",7
+
+"PHI195409150",58,"$Willie Jones rounded 3B too far"1954.EDN.regular.comment.csv",8
+
+"PIT195405090",0,"Source 308 has 5 innings, rest deduced"1954.EDN.regular.comment.csv",9
+
+"PIT195405090",4,"$ball thrown around the infield 5-4-3 but everyone safe"1954.EDN.regular.comment.csv",10
+
+"PIT195405090",9,"missing play in PIT195405090"1954.EDN.regular.comment.csv",11
+
+"PIT195405090",41,"fabrication, but need 26 DP and no CS anywhere"1954.EDN.regular.comment.csv",12
+
+"PIT195405130",4,"$runners were off on 3-2 pitch and Danny O'Connell kept running"1954.EDN.regular.comment.csv",13
+
+"PIT195405140",25,"$Henry Aaron missed homer when ball hit barbed wire above wall"1954.EDN.regular.comment.csv",14
+
+"PIT195405161",62,"might be E4"1954.EDN.regular.comment.csv",15
+
+"PIT195405161",65,"$Might be E6 (reversal with previous error this inning)"1954.EDN.regular.comment.csv",16
+
+"PIT195405170",39,"$homer into trees in Schenley Park"1954.EDN.regular.comment.csv",17
+
+"PIT195405290",0,"much of game from source 308, rest deduced"1954.EDN.regular.comment.csv",18
+
+"PIT195406230",54,"$Tom Alston injured during Preston Ward at bat"1954.EDN.regular.comment.csv",19
+
+"PIT195407042",39,"not certain error is here"1954.EDN.regular.comment.csv",20
+
+"PIT195407260",9,"error invented, but Cole needs one"1954.EDN.regular.comment.csv",21
+
+"PIT195407310",0,"conjecture for CHN's D, 4 S, 2 W, 2 K in innings 1-5"1954.EDN.regular.comment.csv",22
+
+"PIT195407310",7,"$Gene Baker broke glasses in collision with Hal Rice; 15 stitches over eye"1954.EDN.regular.comment.csv",23
+
+"PIT195407310",43,"$Sid Gordon failed to throw to either base"1954.EDN.regular.comment.csv",24
+
+"PIT195407310",45,"ej,hanef101,M,dascf901,Call at 1B Pirates Manager Fred Haney ejected by 1B umpire Frank Dascoli"1954.EDN.regular.comment.csv",25
+
+"PIT195409100",0,"31 minute rain delay before start of game"1954.EDN.regular.comment.csv",26
+
+"PIT195409110",3,"E9 might be elsewhere"1954.EDN.regular.comment.csv",27
+
+"PIT195409110",4,"$Ray Jablonski rounded 2B too far"1954.EDN.regular.comment.csv",28
+
+"PIT195409141",5,"$Ernie Banks rounded 1B too far"1954.EDN.regular.comment.csv",29
+
+"PIT195409141",42,"speculation on the error, but few places to put it"1954.EDN.regular.comment.csv",30
+
+"PIT195409141",49,"invented PO because need 3rd out and Rush did single"1954.EDN.regular.comment.csv",31
+
+"SLN195404290",44,"$Dick Cole scored as Tom Alston argued the call at 1B"1954.EDN.regular.comment.csv",32
+
+"SLN195404290",72,"ej,pagej101,P,dascf901,Bench jockeying $Pirate Page, not in game ejected by HP umpire Dascoli sometime in 9th inning for bench jockeying"1954.EDN.regular.comment.csv",33
+
+"SLN195406120",30,"bogus OA"1954.EDN.regular.comment.csv",34
+
+"SLN195407100",70,"$off screen on RF pole above pavillion roof"1954.EDN.regular.comment.csv",35
+
+"SLN195407181",57,"1:18 rain delay in seventh"1954.EDN.regular.comment.csv",36
+
+"SLN195407181",104,"$the second game of the double header was forfeited by the Cardinals in the top of the fifth with two out; they had been delaying while behind hoping for the game to be canceled due to rain; shortly before the forfeiture, both benches cleared and a brawl ensued; Sal Yvars and Earl Torgeson ejected by HP umpire Babe Pinelli for fighting; manager Terry Moore and Eddie Stanky tangled during the altercation"1954.EDN.regular.comment.csv",37
+
+"SLN195409180",52,"$sinking line drive trapped"1954.EDN.regular.comment.csv",38
+

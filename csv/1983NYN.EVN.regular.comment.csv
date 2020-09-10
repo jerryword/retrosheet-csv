@@ -1,48 +1,46 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"NYN198305020",77,"Debut game for Jose Oquendo"
-"NYN198305060",6,"Debut game for Darryl Strawberry"
-"NYN198305190",56,"1:03 rain delay"
-"NYN198305230",16,"Mets say 16(1)/FO"
-"NYN198306130",62,"Jose Oquendo called for obstruction"
-"NYN198306201",35,"ej,howaf102,M,froeb901,Checked swing $Mets manager Howard ejected by HP umpire Froemming for arguing checked swing sometime in 5th"
-"NYN198306202",0,"ej,howaf102,M,tatat901,Balls and strikes Mets manager Frank Howard ejected by HP umpire Terry Tata sometime in game"
-"NYN198306240",4,"SB may be with Hayes at bat"
-"NYN198306250",1,"Debut game for Kevin Gross"
-"NYN198306250",67,"$Jose Oquendo out on appeal for leaving 2B too soon"
-"NYN198307080",36,"Brian Giles called for interference for running outside the baseline"
-"NYN198307090",60,"SB and WP possibly on one play"
-"NYN198307100",20,"Debut game for George Bjorkman"
-"NYN198307260",40,"$free-for-all after HP but no one ejected"
-"NYN198307290",26,"ej,parkd001,P,engeb901,Called third strike (Threw equipment) Dave Parker ejected by HP umpire Bob Engel for throwing equipment"
-"NYN198307300",43,"Mookie Wilson's line drive hit Rick Rhoden on the left knee"
-"NYN198308130",10,"ej,valeb102,C,froeb901,Attempting to make the pitcher balk Mets 3B coach Bobby Valentine ejected by HP umpire Bruce Froemming because Valentine was trying to force Rich Bordi to balk; Keith Hernandez called out due to Valentine's actions"
-"NYN198308260",37,"unsure if SB and WP were on the same play or not"
-"NYN198308280",6,"$Bill Laskey injured in warm-up, threw no pitches"
-"NYN198308280",37,"$Jim Barr called for interference"
-"NYN198309050",24,"SB and PB might have been on one play"
-"NYN198309050",80,"or 43"
-"NYN198309060",1,"Debut game for Ron Darling"
-"NYN198310022",79,"MON says 24"
-"NYN198305020",77,"Debut game for Jose Oquendo"
-"NYN198305060",6,"Debut game for Darryl Strawberry"
-"NYN198305190",56,"1:03 rain delay"
-"NYN198305230",16,"Mets say 16(1)/FO"
-"NYN198306130",62,"Jose Oquendo called for obstruction"
-"NYN198306202",45,"ej,howaf102,M,tatat901,Balls and strikes $Mets manager Howard ejected by HP umpire Tata sometime in 5th inning for arguing balls and strikes"
-"NYN198306240",4,"SB may be with Hayes at bat"
-"NYN198306250",1,"Debut game for Kevin Gross"
-"NYN198306250",67,"$Jose Oquendo out on appeal for leaving 2B too soon"
-"NYN198307080",36,"Brian Giles called for interference for running outside the baseline"
-"NYN198307090",60,"SB and WP possibly on one play"
-"NYN198307100",20,"Debut game for George Bjorkman"
-"NYN198307260",40,"$free-for-all after HP but no one ejected"
-"NYN198307290",26,"ej,parkd001,P,engeb901,Called third strike (Threw equipment) Dave Parker ejected by HP umpire Bob Engel for throwing equipment"
-"NYN198307300",43,"Mookie Wilson's line drive hit Rick Rhoden on the left knee"
-"NYN198308130",10,"ej,valeb102,C,froeb901,Attempting to make the pitcher balk Mets 3B coach Bobby Valentine ejected by HP umpire Bruce Froemming because Valentine was trying to force Rich Bordi to balk; Keith Hernandez called out due to Valentine's actions"
-"NYN198308260",37,"unsure if SB and WP were on the same play or not"
-"NYN198308280",6,"$Bill Laskey injured in warm-up, threw no pitches"
-"NYN198308280",37,"$Jim Barr called for interference"
-"NYN198309050",24,"SB and PB might have been on one play"
-"NYN198309050",80,"or 43"
-"NYN198309060",1,"Debut game for Ron Darling"
-"NYN198310022",79,"MON says 24"
+"NYN198305020",77,"Debut game for Jose Oquendo"FILENAME_TX","LINE_NUMBER_CT"
+
+"NYN198305060",6,"Debut game for Darryl Strawberry"1983NYN.EVN.regular.comment.csv",2
+
+"NYN198305190",56,"1:03 rain delay"1983NYN.EVN.regular.comment.csv",3
+
+"NYN198305230",16,"Mets say 16(1)/FO"1983NYN.EVN.regular.comment.csv",4
+
+"NYN198306130",62,"Jose Oquendo called for obstruction"1983NYN.EVN.regular.comment.csv",5
+
+"NYN198306202",45,"ej,howaf102,M,tatat901,Balls and strikes $Mets manager Howard ejected by HP umpire Tata sometime in 5th inning for arguing balls and strikes"1983NYN.EVN.regular.comment.csv",6
+
+"NYN198306240",4,"SB may be with Hayes at bat"1983NYN.EVN.regular.comment.csv",7
+
+"NYN198306250",1,"Debut game for Kevin Gross"1983NYN.EVN.regular.comment.csv",8
+
+"NYN198306250",67,"$Jose Oquendo out on appeal for leaving 2B too soon"1983NYN.EVN.regular.comment.csv",9
+
+"NYN198307080",36,"Brian Giles called for interference for running outside the baseline"1983NYN.EVN.regular.comment.csv",10
+
+"NYN198307090",60,"SB and WP possibly on one play"1983NYN.EVN.regular.comment.csv",11
+
+"NYN198307100",20,"Debut game for George Bjorkman"1983NYN.EVN.regular.comment.csv",12
+
+"NYN198307260",40,"$free-for-all after HP but no one ejected"1983NYN.EVN.regular.comment.csv",13
+
+"NYN198307290",26,"ej,parkd001,P,engeb901,Called third strike (Threw equipment) Dave Parker ejected by HP umpire Bob Engel for throwing equipment"1983NYN.EVN.regular.comment.csv",14
+
+"NYN198307300",43,"Mookie Wilson's line drive hit Rick Rhoden on the left knee"1983NYN.EVN.regular.comment.csv",15
+
+"NYN198308130",10,"ej,valeb102,C,froeb901,Attempting to make the pitcher balk Mets 3B coach Bobby Valentine ejected by HP umpire Bruce Froemming because Valentine was trying to force Rich Bordi to balk; Keith Hernandez called out due to Valentine's actions"1983NYN.EVN.regular.comment.csv",16
+
+"NYN198308260",37,"unsure if SB and WP were on the same play or not"1983NYN.EVN.regular.comment.csv",17
+
+"NYN198308280",6,"$Bill Laskey injured in warm-up, threw no pitches"1983NYN.EVN.regular.comment.csv",18
+
+"NYN198308280",37,"$Jim Barr called for interference"1983NYN.EVN.regular.comment.csv",19
+
+"NYN198309050",24,"SB and PB might have been on one play"1983NYN.EVN.regular.comment.csv",20
+
+"NYN198309050",80,"or 43"1983NYN.EVN.regular.comment.csv",21
+
+"NYN198309060",1,"Debut game for Ron Darling"1983NYN.EVN.regular.comment.csv",22
+
+"NYN198310022",79,"MON says 24"1983NYN.EVN.regular.comment.csv",23
+

@@ -1,139 +1,138 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"TEX201403310",68,"originally scored as DI, changed to SB on 4-08-2014"
-"TEX201404010",46,"replay,6,byrdm001,PHI,joycj901,ARL02,,Y,M,TEX,A $Rangers manager Ron Washington challenged the ruling that Ben Revere was safe on the pick off and it was overturned"
-"TEX201404130",5,"replay,1,choos001,TEX,westj901,ARL02,,Y,M,HOU,C $when 1B umpire Joe West ruled that the wide throw pulled Jesus Guzman off the bag, Astros manager Bo Porter challenged the ruling; it was overturned by replay"
-"TEX201404130",22,"ej,andre001,P,porta901,Called third strike Rangers shortstop Elvis Andrus ejected by HP umpire Alan Porter"
-"TEX201404140",47,"replay,6,millb002,SEA,barrt901,ARL02,,Y,M,SEA,C ej,washr001,M,barrt901,Replay ruling $when Dustin Ackley was called out at HP, Mariners manager Lloyd McClendon challenged the call; catcher J.P. Arencibia had fumbled the ball as he started to transfer it to his throwing hand; the ruling was overturned by replay and the run counted; Rangers manager Ron Washington ejected by crew chief Ted Barrett"
-"TEX201404190",41,"White Sox center fielder Adam Eaton left the game due to an injured leg"
-"TEX201404200",48,"replay,6,deaza001,CHA,kellj901,ARL02,,N,M,CHA,I $HP umpire James Hoye ruled that Alejandro de Aza was hit by the pitch; then the ruling was changed to a swinging strike for strike three; White Sox manager Robin Ventura challenged the call, which was upheld by replay as a strikeout"
-"TEX201404280",20,"replay,3,calla001,OAK,nelsj901,ARL02,,Y,M,TEX,A $when a pitch got away from catcher Robinson Chirinos, the runners all left their bases; Josh Donaldson ran about halfway to 2B then realized he had to get back; when he was called safe at 1B, Rangers manager Ron Washington challenged the ruling; it was overturned by replay"
-"TEX201404280",41,"Rangers second baseman Donnie Murphy left the game due to an injured foot"
-"TEX201404280",49,"originally scored as single, changed to error on 05-12-2014"
-"TEX201404280",63,"replay,8,bartd001,OAK,nelsj901,ARL02,,N,M,TEX,A $when Josh Reddick was called safe on a pick off attempt, Rangers manager Ron Washington challenged the ruling; it was upheld by replay"
-"TEX201404280",64,"replay,8,bartd001,OAK,nelsj901,ARL02,,Y,U,,C $Leonys Martin caught Daric Barton's fly at the top of the right center wall and threw to 1B on one bounce; Josh Reddick was called safe but crew chief Jeff Nelson requested a review; the call was overturned by replay"
-"TEX201404290",51,"replay,5,andre001,TEX,nelsj901,ARL02,,N,M,TEX,O $when Elvis Andrus hit a line drive down the RF line that was ruled foul, Rangers manager Ron Washington challenged the ruling; it was upheld by replay"
-"TEX201405080",57,"replay,7,blacc001,COL,cedeg901,ARL02,,N,M,COL,A $when Michael McKenry was called out at HP, Rockies manager Walt Weiss challenged the ruling; the call was upheld by replay"
-"TEX201405090",55,"originally scored as E9, changed to single on 05-14-2014"
-"TEX201405100",68,"ej,maddm002,C,carav901,Balls and strikes Rangers Pitching Coach Mike Maddux ejected by 1B umpire Vic Carapazza"
-"TEX201405100",75,"replay,8,belta001,TEX,millb901,ARL02,,N,M,TEX,C $when Adrian Beltre was called out at 1B, Rangers manager Ron Washington challenged the ruling; it was upheld by replay"
-"TEX201405160",19,"replay,3,odorr001,TEX,scotd901,ARL02,,Y,M,TOR,A $when Leonys Martin was called safe at 2B, Blue Jays manager John Gibbons challenged the ruling; it was overturned by replay"
-"TEX201405170",53,"replay,7,cabrm002,TOR,scotd901,ARL02,,N,M,TEX,A $when Anthony Gose was called safe at 3B, Rangers manager Ron Washington challenged the ruling; it was upheld by replay"
-"TEX201405170",58,"Rangers pitcher Alexi Ogando left the game due to an injured hand"
-"TEX201405180",58,"replay,7,choim001,TEX,scotd901,ARL02,,Y,M,TOR,A $when Robinson Chirinos was called safe at 3B, Blue Jays manager John Gibbons challenged the ruling; it was overturned by replay"
-"TEX201405200",57,"replay,7,frann001,SEA,kellj901,ARL02,,N,M,SEA,A $when Kyle Seager was called out at 3B, Mariners manager Lloyd McClendon challenged the ruling; it was upheld by replay"
-"TEX201406040",56,"Orioles pitcher Bud Norris left the game due to an injured arm"
-"TEX201406080",44,"Rangers second baseman Rougned Odor left the game due to an injured shoulder"
-"TEX201406080",72,"replay,9,gimec001,TEX,cedeg901,ARL02,,Y,M,CLE,A $when Alex Rios was called safe at 2B, Indians manager Terry Francona challenged the ruling; the call was overturned by replay"
-"TEX201406090",62,"umpchange,6,umphome,rippm901 umpchange,6,ump2b,(None) $Daniel Robertson fouled off the 1-1 pitch and the ball struck HP umpire Jim Wolf on the center of his mask; 2B umpire Mark Ripperger moved to HP"
-"TEX201406240",42,"replay,6,kinsi001,DET,welkt901,ARL02,,Y,M,TEX,A $when Rajai Davis was called safe at 2B, Rangers manager Ron Washington challenged the ruling; the call was overturned by replay because Davis came off the bag"
-"TEX201406280",47,"originally scored a double, changed to single plus advance on throw on 06-30-2014"
-"TEX201406290",5,"$Elvis Andrus called for interference"
-"TEX201407070",33,"replay,4,altuj001,HOU,millb901,ARL02,,Y,M,HOU,C $when Jose Altuve was called out at 1B, Astros manager Bo Porter challenged the ruling, the call was overturned by replay"
-"TEX201407080",57,"replay,7,sprig001,HOU,millb901,ARL02,,N,M,HOU,A $when George Springer was called out at 2B, Astros manager Bo Porter challenged the ruling; the call was upheld by replay"
-"TEX201407090",47,"replay,6,corpc001,HOU,millb901,ARL02,,N,M,TEX,O $when Carlos COrporan's fly ball was ruled fair on the LF line, Rangers manager Ron Washington challenged the ruling; the call Was upheld by replay"
-"TEX201407100",35,"Rangers shortstop Elvis Andrus left the game due to an injured ankle"
-"TEX201407110",16,"Rangers left fielder Jake Smolinski left the game due to an injured elbow"
-"TEX201407120",67,"$Collin Cowgill left the game after being struck by the ball on a bunt attempt; he suffered facial and right thumb injuries"
-"TEX201407250",30,"replay,4,martl004,TEX,onorb901,ARL02,,Y,M,OAK,A $when J.P. Arencibia was called safe at 1B, Athletics manager Bob Melvin challenged the ruling; the call was overturned by replay"
-"TEX201407250",57,"replay,7,andre001,TEX,onorb901,ARL02,,Y,M,OAK,C $when Elvis Andrus was called safe at 1B, Athletics manager Bob Melvin challenged the ruling; the call was overturned by replay"
-"TEX201407260",48,"Rangers pitcher Nick Tepesch left the game due to an injured knee"
-"TEX201407270",42,"replay,5,lowrj001,OAK,onorb901,ARL02,,Y,M,TEX,C $when Jed Lowrie was called safe at 1B, Rangers manager Ron Washington challenged the ruling that the throw pulled J.P. Arencibia off the bag; the call was overturned by replay"
-"TEX201407290",36,"originally scored E4, changed to single on 08-08-2014"
-"TEX201407290",48,"replay,6,jeted001,NYA,kulpr901,ARL02,,Y,M,NYA,C $when Derek Jeter was called out at 1B, Yankees manager Joe Girardi challenged the ruling; the call was overturned by replay"
-"TEX201407300",38,"Rangers right fielder Alex Rios left the game due to an injured leg"
-"TEX201408110",13,"replay,2,jennd002,TBA,westj901,ARL02,,N,U,,P $when Yunel Escobar was called out at HP, crew chief Joe West requested a review; the call was upheld by replay saying the catcher did not block HP without the ball and the runner was out"
-"TEX201408110",53,"Rays right fielder Kevin Kiermaier left the game due to an injured back"
-"TEX201408120",37,"replay,5,sotog001,TEX,westj901,ARL02,,Y,M,TBA,C $when Leonys Martin was called safe at 2B, Rays manager Joe Maddon challenged the ruling; the call was overturned by replay"
-"TEX201408120",58,"replay,7,andre001,TEX,westj901,ARL02,,N,U,,K $after the fourth pitch to Elvis Andrus, crew chief Joe West requested a review to check the count; it was confirmed as 2-2"
-"TEX201408120",77,"replay,10,zobrb001,TBA,westj901,ARL02,,N,M,TBA,C $when Ben Zobrist was called out at 1B, Rays manager Joe Maddon challenged the ruling; the call was upheld by replay"
-"TEX201408120",80,"replay,10,belta001,TEX,westj901,ARL02,,N,M,TEX,C $when Adam Rosales was called out at 1B, Rangers manager Ron Washington challenged the ruling; the call was upheld by replay"
-"TEX201408130",13,"replay,2,casac001,TBA,westj901,ARL02,O,N,U,,H $Curt Casali's fly to LF struck the padding at the top of the scoreboard; the ball was ruled in play and Casali reached 2B; crew chief Joe West requested a review, which upheld the call"
-"TEX201408150",73,"replay,9,calhk001,ANA,hallt901,ARL02,,N,M,TEX,I $when Kole Calhoun was hit by pitch, Rangers manager Ron Washington challenged the ruling; the call was upheld by replay"
-"TEX201408170",41,"replay,5,odorr001,TEX,hallt901,ARL02,,N,M,TEX,A $when Rougned Odor was called out at 2B, Rangers manager Ron Washington challenged the ruling; the call was upheld by replay"
-"TEX201408230",47,"replay,6,riosa002,TEX,wendh902,ARL02,,N,M,KCA,A $when Elvis Andrus was called safe at 2B, Royals manager Ned Yost challenged the ruling; the call was upheld by replay"
-"TEX201408230",52,"replay,7,dysoj001,KCA,wendh902,ARL02,,N,M,TEX,A $when Lorenzo Cain was called safe at HP, Rangers manager Ron Washington challenged the ruling; the call was upheld by replay"
-"TEX201408240",63,"replay,7,rosaa001,TEX,wendh902,ARL02,,Y,M,KCA,C $when Adam Rosales was called safe at 1B, Royals manager Ned Yost challenged the ruling; the call was overturned by replay"
-"TEX201409050",21,"replay,3,martl004,SEA,vanol901,ARL02,,Y,M,SEA,C $when Leonys Martin was called safe at 1B, Mariners manager Lloyd McClendon challenged the ruling; the call was overturned by replay"
-"TEX201409050",34,"Mariners right fielder Endy Chavez left the game due to an injured head"
-"TEX201409050",72,"replay,8,choim001,TEX,vanol901,ARL02,,N,M,TEX,C $when Michael Choice was called out at 1B, Rangers manager Tim Bogar challenged the ruling; the call Was upheld by replay"
-"TEX201409060",11,"replay,2,morrl001,SEA,vanol901,ARL02,,Y,M,SEA,C $when Logan Morrison was called out at 1B, Mariners manager Lloyd McClendon challenged the ruling; the call was overturned by replay"
-"TEX201409060",60,"Mariners left fielder Dustin Ackley left the game due to an injured ankle"
-"TEX201409060",69,"replay,8,morrl001,SEA,vanol901,ARL02,,N,M,TEX,B $when Kyle Seager scored, Rangers manager Tim Bogar challenged whether Seager touched 3B; the call was upheld by replay"
-"TEX201409090",56,"replay,8,calhk001,ANA,joycj901,ARL02,,N,M,TEX,A $when Collin Cowgill was called safe at 2B, Rangers manager Tim Bogar challenged the ruling; the call Was upheld by replay"
-"TEX201409100",6,"replay,1,aybae001,ANA,joycj901,ARL02,,N,U,,P $when Howie Kendricks was called out at HP, crew chief Jim Joyce requested a review; the call was upheld by replay saying the catcher did not block HP without the ball and the runner was out"
-"TEX201409100",44,"replay,5,sardl001,TEX,joycj901,ARL02,,Y,M,ANA,C $when Luis Sardinas was called safe at 1B, Angels manager Mike Scioscia challenged the ruling; the call was overturned by replay"
-"TEX201409140",19,"replay,2,andre001,TEX,millb901,ARL02,,N,M,TOR,A $when Leonys Martin was called out at 1B on a pickoff attempt, Rangers manager Tim Bogar challenged the ruling; the call was upheld by replay"
-"TEX201409140",35,"replay,4,choim001,TEX,millb901,ARL02,,Y,M,ATL,A $when Luis Sardinas was called safe at 3B, Braves manager Fredi Gonzalez challenged the ruling; the call was overturned by replay"
-"TEX201409230",54,"replay,7,presa001,HOU,barrt901,ARL02,,Y,M,TEX,C $when Alex Presley was called safe at 1B, Rangers manager Tim Bogar challenged the ruling; the call was overturned by replay"
-"TEX201409240",4,"replay,1,cartc002,HOU,barrt901,ARL02,,Y,M,TEX,A $when Robbie Grossman was called safe at 3B, Rangers manager Tim Bogar challenged the ruling; the call was overturned by replay"
-"TEX201409270",24,"replay,3,odorr001,TEX,emmep901,ARL02,,Y,M,OAK,A $when Elvis Andrus was called safe at 2B, Athletics manager Bob Melvin challenged the ruling; the call was overturned by replay"
-"TEX201409270",63,"replay,8,reddj001,OAK,emmep901,ARL02,,N,M,TEX,A $when Jonny Gomes was called safe at HP, Rangers manager Tim Bogar challenged the ruling; the call was upheld by replay"
-"TEX201403310",68,"originally scored as DI, changed to SB on 4-08-2014"
-"TEX201404010",46,"replay,6,byrdm001,PHI,joycj901,ARL02,,Y,M,TEX,A $Rangers manager Ron Washington challenged the ruling that Ben Revere was safe on the pick off and it was overturned"
-"TEX201404130",5,"replay,1,choos001,TEX,westj901,ARL02,,Y,M,HOU,C $when 1B umpire Joe West ruled that the wide throw pulled Jesus Guzman off the bag, Astros manager Bo Porter challenged the ruling; it was overturned by replay"
-"TEX201404130",22,"ej,andre001,P,porta901,Called third strike Rangers shortstop Elvis Andrus ejected by HP umpire Alan Porter"
-"TEX201404140",47,"replay,6,millb002,SEA,barrt901,ARL02,,Y,M,SEA,C ej,washr001,M,barrt901,Replay ruling $when Dustin Ackley was called out at HP, Mariners manager Lloyd McClendon challenged the call; catcher J.P. Arencibia had fumbled the ball as he started to transfer it to his throwing hand; the ruling was overturned by replay and the run counted; Rangers manager Ron Washington ejected by crew chief Ted Barrett"
-"TEX201404190",41,"White Sox center fielder Adam Eaton left the game due to an injured leg"
-"TEX201404200",48,"replay,6,deaza001,CHA,kellj901,ARL02,,N,M,CHA,I $HP umpire James Hoye ruled that Alejandro de Aza was hit by the pitch; then the ruling was changed to a swinging strike for strike three; White Sox manager Robin Ventura challenged the call, which was upheld by replay as a strikeout"
-"TEX201404280",20,"replay,3,calla001,OAK,nelsj901,ARL02,,Y,M,TEX,A $when a pitch got away from catcher Robinson Chirinos, the runners all left their bases; Josh Donaldson ran about halfway to 2B then realized he had to get back; when he was called safe at 1B, Rangers manager Ron Washington challenged the ruling; it was overturned by replay"
-"TEX201404280",41,"Rangers second baseman Donnie Murphy left the game due to an injured foot"
-"TEX201404280",49,"originally scored as single, changed to error on 05-12-2014"
-"TEX201404280",63,"replay,8,bartd001,OAK,nelsj901,ARL02,,N,M,TEX,A $when Josh Reddick was called safe on a pick off attempt, Rangers manager Ron Washington challenged the ruling; it was upheld by replay"
-"TEX201404280",64,"replay,8,bartd001,OAK,nelsj901,ARL02,,Y,U,,C $Leonys Martin caught Daric Barton's fly at the top of the right center wall and threw to 1B on one bounce; Josh Reddick was called safe but crew chief Jeff Nelson requested a review; the call was overturned by replay"
-"TEX201404290",51,"replay,5,andre001,TEX,nelsj901,ARL02,,N,M,TEX,O $when Elvis Andrus hit a line drive down the RF line that was ruled foul, Rangers manager Ron Washington challenged the ruling; it was upheld by replay"
-"TEX201405080",57,"replay,7,blacc001,COL,cedeg901,ARL02,,N,M,COL,A $when Michael McKenry was called out at HP, Rockies manager Walt Weiss challenged the ruling; the call was upheld by replay"
-"TEX201405090",55,"originally scored as E9, changed to single on 05-14-2014"
-"TEX201405100",68,"ej,maddm002,C,carav901,Balls and strikes Rangers Pitching Coach Mike Maddux ejected by 1B umpire Vic Carapazza"
-"TEX201405100",75,"replay,8,belta001,TEX,millb901,ARL02,,N,M,TEX,C $when Adrian Beltre was called out at 1B, Rangers manager Ron Washington challenged the ruling; it was upheld by replay"
-"TEX201405160",19,"replay,3,odorr001,TEX,scotd901,ARL02,,Y,M,TOR,A $when Leonys Martin was called safe at 2B, Blue Jays manager John Gibbons challenged the ruling; it was overturned by replay"
-"TEX201405170",53,"replay,7,cabrm002,TOR,scotd901,ARL02,,N,M,TEX,A $when Anthony Gose was called safe at 3B, Rangers manager Ron Washington challenged the ruling; it was upheld by replay"
-"TEX201405170",58,"Rangers pitcher Alexi Ogando left the game due to an injured hand"
-"TEX201405180",58,"replay,7,choim001,TEX,scotd901,ARL02,,Y,M,TOR,A $when Robinson Chirinos was called safe at 3B, Blue Jays manager John Gibbons challenged the ruling; it was overturned by replay"
-"TEX201405200",57,"replay,7,frann001,SEA,kellj901,ARL02,,N,M,SEA,A $when Kyle Seager was called out at 3B, Mariners manager Lloyd McClendon challenged the ruling; it was upheld by replay"
-"TEX201406040",56,"Orioles pitcher Bud Norris left the game due to an injured arm"
-"TEX201406080",44,"Rangers second baseman Rougned Odor left the game due to an injured shoulder"
-"TEX201406080",72,"replay,9,gimec001,TEX,cedeg901,ARL02,,Y,M,CLE,A $when Alex Rios was called safe at 2B, Indians manager Terry Francona challenged the ruling; the call was overturned by replay"
-"TEX201406090",62,"umpchange,6,umphome,rippm901 umpchange,6,ump2b,(None) $Daniel Robertson fouled off the 1-1 pitch and the ball struck HP umpire Jim Wolf on the center of his mask; 2B umpire Mark Ripperger moved to HP"
-"TEX201406240",42,"replay,6,kinsi001,DET,welkt901,ARL02,,Y,M,TEX,A $when Rajai Davis was called safe at 2B, Rangers manager Ron Washington challenged the ruling; the call was overturned by replay because Davis came off the bag"
-"TEX201406280",47,"originally scored a double, changed to single plus advance on throw on 06-30-2014"
-"TEX201406290",5,"$Elvis Andrus called for interference"
-"TEX201407070",33,"replay,4,altuj001,HOU,millb901,ARL02,,Y,M,HOU,C $when Jose Altuve was called out at 1B, Astros manager Bo Porter challenged the ruling, the call was overturned by replay"
-"TEX201407080",57,"replay,7,sprig001,HOU,millb901,ARL02,,N,M,HOU,A $when George Springer was called out at 2B, Astros manager Bo Porter challenged the ruling; the call was upheld by replay"
-"TEX201407090",47,"replay,6,corpc001,HOU,millb901,ARL02,,N,M,TEX,O $when Carlos COrporan's fly ball was ruled fair on the LF line, Rangers manager Ron Washington challenged the ruling; the call Was upheld by replay"
-"TEX201407100",35,"Rangers shortstop Elvis Andrus left the game due to an injured ankle"
-"TEX201407110",16,"Rangers left fielder Jake Smolinski left the game due to an injured elbow"
-"TEX201407120",67,"$Collin Cowgill left the game after being struck by the ball on a bunt attempt; he suffered facial and right thumb injuries"
-"TEX201407250",30,"replay,4,martl004,TEX,onorb901,ARL02,,Y,M,OAK,A $when J.P. Arencibia was called safe at 1B, Athletics manager Bob Melvin challenged the ruling; the call was overturned by replay"
-"TEX201407250",57,"replay,7,andre001,TEX,onorb901,ARL02,,Y,M,OAK,C $when Elvis Andrus was called safe at 1B, Athletics manager Bob Melvin challenged the ruling; the call was overturned by replay"
-"TEX201407260",48,"Rangers pitcher Nick Tepesch left the game due to an injured knee"
-"TEX201407270",42,"replay,5,lowrj001,OAK,onorb901,ARL02,,Y,M,TEX,C $when Jed Lowrie was called safe at 1B, Rangers manager Ron Washington challenged the ruling that the throw pulled J.P. Arencibia off the bag; the call was overturned by replay"
-"TEX201407290",36,"originally scored E4, changed to single on 08-08-2014"
-"TEX201407290",48,"replay,6,jeted001,NYA,kulpr901,ARL02,,Y,M,NYA,C $when Derek Jeter was called out at 1B, Yankees manager Joe Girardi challenged the ruling; the call was overturned by replay"
-"TEX201407300",38,"Rangers right fielder Alex Rios left the game due to an injured leg"
-"TEX201408110",13,"replay,2,jennd002,TBA,westj901,ARL02,,N,U,,P $when Yunel Escobar was called out at HP, crew chief Joe West requested a review; the call was upheld by replay saying the catcher did not block HP without the ball and the runner was out"
-"TEX201408110",53,"Rays right fielder Kevin Kiermaier left the game due to an injured back"
-"TEX201408120",37,"replay,5,sotog001,TEX,westj901,ARL02,,Y,M,TBA,C $when Leonys Martin was called safe at 2B, Rays manager Joe Maddon challenged the ruling; the call was overturned by replay"
-"TEX201408120",58,"replay,7,andre001,TEX,westj901,ARL02,,N,U,,K $after the fourth pitch to Elvis Andrus, crew chief Joe West requested a review to check the count; it was confirmed as 2-2"
-"TEX201408120",77,"replay,10,zobrb001,TBA,westj901,ARL02,,N,M,TBA,C $when Ben Zobrist was called out at 1B, Rays manager Joe Maddon challenged the ruling; the call was upheld by replay"
-"TEX201408120",80,"replay,10,belta001,TEX,westj901,ARL02,,N,M,TEX,C $when Adam Rosales was called out at 1B, Rangers manager Ron Washington challenged the ruling; the call was upheld by replay"
-"TEX201408130",13,"replay,2,casac001,TBA,westj901,ARL02,O,N,U,,H $Curt Casali's fly to LF struck the padding at the top of the scoreboard; the ball was ruled in play and Casali reached 2B; crew chief Joe West requested a review, which upheld the call"
-"TEX201408150",73,"replay,9,calhk001,ANA,hallt901,ARL02,,N,M,TEX,I $when Kole Calhoun was hit by pitch, Rangers manager Ron Washington challenged the ruling; the call was upheld by replay"
-"TEX201408170",41,"replay,5,odorr001,TEX,hallt901,ARL02,,N,M,TEX,A $when Rougned Odor was called out at 2B, Rangers manager Ron Washington challenged the ruling; the call was upheld by replay"
-"TEX201408230",47,"replay,6,riosa002,TEX,wendh902,ARL02,,N,M,KCA,A $when Elvis Andrus was called safe at 2B, Royals manager Ned Yost challenged the ruling; the call was upheld by replay"
-"TEX201408230",52,"replay,7,dysoj001,KCA,wendh902,ARL02,,N,M,TEX,A $when Lorenzo Cain was called safe at HP, Rangers manager Ron Washington challenged the ruling; the call was upheld by replay"
-"TEX201408240",63,"replay,7,rosaa001,TEX,wendh902,ARL02,,Y,M,KCA,C $when Adam Rosales was called safe at 1B, Royals manager Ned Yost challenged the ruling; the call was overturned by replay"
-"TEX201409050",21,"replay,3,martl004,SEA,vanol901,ARL02,,Y,M,SEA,C $when Leonys Martin was called safe at 1B, Mariners manager Lloyd McClendon challenged the ruling; the call was overturned by replay"
-"TEX201409050",34,"Mariners right fielder Endy Chavez left the game due to an injured head"
-"TEX201409050",72,"replay,8,choim001,TEX,vanol901,ARL02,,N,M,TEX,C $when Michael Choice was called out at 1B, Rangers manager Tim Bogar challenged the ruling; the call Was upheld by replay"
-"TEX201409060",11,"replay,2,morrl001,SEA,vanol901,ARL02,,Y,M,SEA,C $when Logan Morrison was called out at 1B, Mariners manager Lloyd McClendon challenged the ruling; the call was overturned by replay"
-"TEX201409060",60,"Mariners left fielder Dustin Ackley left the game due to an injured ankle"
-"TEX201409060",69,"replay,8,morrl001,SEA,vanol901,ARL02,,N,M,TEX,B $when Kyle Seager scored, Rangers manager Tim Bogar challenged whether Seager touched 3B; the call was upheld by replay"
-"TEX201409090",56,"replay,8,calhk001,ANA,joycj901,ARL02,,N,M,TEX,A $when Collin Cowgill was called safe at 2B, Rangers manager Tim Bogar challenged the ruling; the call Was upheld by replay"
-"TEX201409100",6,"replay,1,aybae001,ANA,joycj901,ARL02,,N,U,,P $when Howie Kendricks was called out at HP, crew chief Jim Joyce requested a review; the call was upheld by replay saying the catcher did not block HP without the ball and the runner was out"
-"TEX201409100",44,"replay,5,sardl001,TEX,joycj901,ARL02,,Y,M,ANA,C $when Luis Sardinas was called safe at 1B, Angels manager Mike Scioscia challenged the ruling; the call was overturned by replay"
-"TEX201409140",19,"replay,2,andre001,TEX,millb901,ARL02,,N,M,TOR,A $when Leonys Martin was called out at 1B on a pickoff attempt, Rangers manager Tim Bogar challenged the ruling; the call was upheld by replay"
-"TEX201409140",35,"replay,4,choim001,TEX,millb901,ARL02,,Y,M,ATL,A $when Luis Sardinas was called safe at 3B, Braves manager Fredi Gonzalez challenged the ruling; the call was overturned by replay"
-"TEX201409230",54,"replay,7,presa001,HOU,barrt901,ARL02,,Y,M,TEX,C $when Alex Presley was called safe at 1B, Rangers manager Tim Bogar challenged the ruling; the call was overturned by replay"
-"TEX201409240",4,"replay,1,cartc002,HOU,barrt901,ARL02,,Y,M,TEX,A $when Robbie Grossman was called safe at 3B, Rangers manager Tim Bogar challenged the ruling; the call was overturned by replay"
-"TEX201409270",24,"replay,3,odorr001,TEX,emmep901,ARL02,,Y,M,OAK,A $when Elvis Andrus was called safe at 2B, Athletics manager Bob Melvin challenged the ruling; the call was overturned by replay"
-"TEX201409270",63,"replay,8,reddj001,OAK,emmep901,ARL02,,N,M,TEX,A $when Jonny Gomes was called safe at HP, Rangers manager Tim Bogar challenged the ruling; the call was upheld by replay"
+"TEX201403310",68,"originally scored as DI, changed to SB on 4-08-2014"FILENAME_TX","LINE_NUMBER_CT"
+
+"TEX201404010",46,"replay,6,byrdm001,PHI,joycj901,ARL02,,Y,M,TEX,A $Rangers manager Ron Washington challenged the ruling that Ben Revere was safe on the pick off and it was overturned"2014TEX.EVA.regular.comment.csv",2
+
+"TEX201404130",5,"replay,1,choos001,TEX,westj901,ARL02,,Y,M,HOU,C $when 1B umpire Joe West ruled that the wide throw pulled Jesus Guzman off the bag, Astros manager Bo Porter challenged the ruling; it was overturned by replay"2014TEX.EVA.regular.comment.csv",3
+
+"TEX201404130",22,"ej,andre001,P,porta901,Called third strike Rangers shortstop Elvis Andrus ejected by HP umpire Alan Porter"2014TEX.EVA.regular.comment.csv",4
+
+"TEX201404140",47,"replay,6,millb002,SEA,barrt901,ARL02,,Y,M,SEA,C ej,washr001,M,barrt901,Replay ruling $when Dustin Ackley was called out at HP, Mariners manager Lloyd McClendon challenged the call; catcher J.P. Arencibia had fumbled the ball as he started to transfer it to his throwing hand; the ruling was overturned by replay and the run counted; Rangers manager Ron Washington ejected by crew chief Ted Barrett"2014TEX.EVA.regular.comment.csv",5
+
+"TEX201404190",41,"White Sox center fielder Adam Eaton left the game due to an injured leg"2014TEX.EVA.regular.comment.csv",6
+
+"TEX201404200",48,"replay,6,deaza001,CHA,kellj901,ARL02,,N,M,CHA,I $HP umpire James Hoye ruled that Alejandro de Aza was hit by the pitch; then the ruling was changed to a swinging strike for strike three; White Sox manager Robin Ventura challenged the call, which was upheld by replay as a strikeout"2014TEX.EVA.regular.comment.csv",7
+
+"TEX201404280",20,"replay,3,calla001,OAK,nelsj901,ARL02,,Y,M,TEX,A $when a pitch got away from catcher Robinson Chirinos, the runners all left their bases; Josh Donaldson ran about halfway to 2B then realized he had to get back; when he was called safe at 1B, Rangers manager Ron Washington challenged the ruling; it was overturned by replay"2014TEX.EVA.regular.comment.csv",8
+
+"TEX201404280",41,"Rangers second baseman Donnie Murphy left the game due to an injured foot"2014TEX.EVA.regular.comment.csv",9
+
+"TEX201404280",49,"originally scored as single, changed to error on 05-12-2014"2014TEX.EVA.regular.comment.csv",10
+
+"TEX201404280",63,"replay,8,bartd001,OAK,nelsj901,ARL02,,N,M,TEX,A $when Josh Reddick was called safe on a pick off attempt, Rangers manager Ron Washington challenged the ruling; it was upheld by replay"2014TEX.EVA.regular.comment.csv",11
+
+"TEX201404280",64,"replay,8,bartd001,OAK,nelsj901,ARL02,,Y,U,,C $Leonys Martin caught Daric Barton's fly at the top of the right center wall and threw to 1B on one bounce; Josh Reddick was called safe but crew chief Jeff Nelson requested a review; the call was overturned by replay"2014TEX.EVA.regular.comment.csv",12
+
+"TEX201404290",51,"replay,5,andre001,TEX,nelsj901,ARL02,,N,M,TEX,O $when Elvis Andrus hit a line drive down the RF line that was ruled foul, Rangers manager Ron Washington challenged the ruling; it was upheld by replay"2014TEX.EVA.regular.comment.csv",13
+
+"TEX201405080",57,"replay,7,blacc001,COL,cedeg901,ARL02,,N,M,COL,A $when Michael McKenry was called out at HP, Rockies manager Walt Weiss challenged the ruling; the call was upheld by replay"2014TEX.EVA.regular.comment.csv",14
+
+"TEX201405090",55,"originally scored as E9, changed to single on 05-14-2014"2014TEX.EVA.regular.comment.csv",15
+
+"TEX201405100",68,"ej,maddm002,C,carav901,Balls and strikes Rangers Pitching Coach Mike Maddux ejected by 1B umpire Vic Carapazza"2014TEX.EVA.regular.comment.csv",16
+
+"TEX201405100",75,"replay,8,belta001,TEX,millb901,ARL02,,N,M,TEX,C $when Adrian Beltre was called out at 1B, Rangers manager Ron Washington challenged the ruling; it was upheld by replay"2014TEX.EVA.regular.comment.csv",17
+
+"TEX201405160",19,"replay,3,odorr001,TEX,scotd901,ARL02,,Y,M,TOR,A $when Leonys Martin was called safe at 2B, Blue Jays manager John Gibbons challenged the ruling; it was overturned by replay"2014TEX.EVA.regular.comment.csv",18
+
+"TEX201405170",53,"replay,7,cabrm002,TOR,scotd901,ARL02,,N,M,TEX,A $when Anthony Gose was called safe at 3B, Rangers manager Ron Washington challenged the ruling; it was upheld by replay"2014TEX.EVA.regular.comment.csv",19
+
+"TEX201405170",58,"Rangers pitcher Alexi Ogando left the game due to an injured hand"2014TEX.EVA.regular.comment.csv",20
+
+"TEX201405180",58,"replay,7,choim001,TEX,scotd901,ARL02,,Y,M,TOR,A $when Robinson Chirinos was called safe at 3B, Blue Jays manager John Gibbons challenged the ruling; it was overturned by replay"2014TEX.EVA.regular.comment.csv",21
+
+"TEX201405200",57,"replay,7,frann001,SEA,kellj901,ARL02,,N,M,SEA,A $when Kyle Seager was called out at 3B, Mariners manager Lloyd McClendon challenged the ruling; it was upheld by replay"2014TEX.EVA.regular.comment.csv",22
+
+"TEX201406040",56,"Orioles pitcher Bud Norris left the game due to an injured arm"2014TEX.EVA.regular.comment.csv",23
+
+"TEX201406080",44,"Rangers second baseman Rougned Odor left the game due to an injured shoulder"2014TEX.EVA.regular.comment.csv",24
+
+"TEX201406080",72,"replay,9,gimec001,TEX,cedeg901,ARL02,,Y,M,CLE,A $when Alex Rios was called safe at 2B, Indians manager Terry Francona challenged the ruling; the call was overturned by replay"2014TEX.EVA.regular.comment.csv",25
+
+"TEX201406090",62,"umpchange,6,umphome,rippm901 umpchange,6,ump2b,(None) $Daniel Robertson fouled off the 1-1 pitch and the ball struck HP umpire Jim Wolf on the center of his mask; 2B umpire Mark Ripperger moved to HP"2014TEX.EVA.regular.comment.csv",26
+
+"TEX201406240",42,"replay,6,kinsi001,DET,welkt901,ARL02,,Y,M,TEX,A $when Rajai Davis was called safe at 2B, Rangers manager Ron Washington challenged the ruling; the call was overturned by replay because Davis came off the bag"2014TEX.EVA.regular.comment.csv",27
+
+"TEX201406280",47,"originally scored a double, changed to single plus advance on throw on 06-30-2014"2014TEX.EVA.regular.comment.csv",28
+
+"TEX201406290",5,"$Elvis Andrus called for interference"2014TEX.EVA.regular.comment.csv",29
+
+"TEX201407070",33,"replay,4,altuj001,HOU,millb901,ARL02,,Y,M,HOU,C $when Jose Altuve was called out at 1B, Astros manager Bo Porter challenged the ruling, the call was overturned by replay"2014TEX.EVA.regular.comment.csv",30
+
+"TEX201407080",57,"replay,7,sprig001,HOU,millb901,ARL02,,N,M,HOU,A $when George Springer was called out at 2B, Astros manager Bo Porter challenged the ruling; the call was upheld by replay"2014TEX.EVA.regular.comment.csv",31
+
+"TEX201407090",47,"replay,6,corpc001,HOU,millb901,ARL02,,N,M,TEX,O $when Carlos COrporan's fly ball was ruled fair on the LF line, Rangers manager Ron Washington challenged the ruling; the call Was upheld by replay"2014TEX.EVA.regular.comment.csv",32
+
+"TEX201407100",35,"Rangers shortstop Elvis Andrus left the game due to an injured ankle"2014TEX.EVA.regular.comment.csv",33
+
+"TEX201407110",16,"Rangers left fielder Jake Smolinski left the game due to an injured elbow"2014TEX.EVA.regular.comment.csv",34
+
+"TEX201407120",67,"$Collin Cowgill left the game after being struck by the ball on a bunt attempt; he suffered facial and right thumb injuries"2014TEX.EVA.regular.comment.csv",35
+
+"TEX201407250",30,"replay,4,martl004,TEX,onorb901,ARL02,,Y,M,OAK,A $when J.P. Arencibia was called safe at 1B, Athletics manager Bob Melvin challenged the ruling; the call was overturned by replay"2014TEX.EVA.regular.comment.csv",36
+
+"TEX201407250",57,"replay,7,andre001,TEX,onorb901,ARL02,,Y,M,OAK,C $when Elvis Andrus was called safe at 1B, Athletics manager Bob Melvin challenged the ruling; the call was overturned by replay"2014TEX.EVA.regular.comment.csv",37
+
+"TEX201407260",48,"Rangers pitcher Nick Tepesch left the game due to an injured knee"2014TEX.EVA.regular.comment.csv",38
+
+"TEX201407270",42,"replay,5,lowrj001,OAK,onorb901,ARL02,,Y,M,TEX,C $when Jed Lowrie was called safe at 1B, Rangers manager Ron Washington challenged the ruling that the throw pulled J.P. Arencibia off the bag; the call was overturned by replay"2014TEX.EVA.regular.comment.csv",39
+
+"TEX201407290",36,"originally scored E4, changed to single on 08-08-2014"2014TEX.EVA.regular.comment.csv",40
+
+"TEX201407290",48,"replay,6,jeted001,NYA,kulpr901,ARL02,,Y,M,NYA,C $when Derek Jeter was called out at 1B, Yankees manager Joe Girardi challenged the ruling; the call was overturned by replay"2014TEX.EVA.regular.comment.csv",41
+
+"TEX201407300",38,"Rangers right fielder Alex Rios left the game due to an injured leg"2014TEX.EVA.regular.comment.csv",42
+
+"TEX201408110",13,"replay,2,jennd002,TBA,westj901,ARL02,,N,U,,P $when Yunel Escobar was called out at HP, crew chief Joe West requested a review; the call was upheld by replay saying the catcher did not block HP without the ball and the runner was out"2014TEX.EVA.regular.comment.csv",43
+
+"TEX201408110",53,"Rays right fielder Kevin Kiermaier left the game due to an injured back"2014TEX.EVA.regular.comment.csv",44
+
+"TEX201408120",37,"replay,5,sotog001,TEX,westj901,ARL02,,Y,M,TBA,C $when Leonys Martin was called safe at 2B, Rays manager Joe Maddon challenged the ruling; the call was overturned by replay"2014TEX.EVA.regular.comment.csv",45
+
+"TEX201408120",58,"replay,7,andre001,TEX,westj901,ARL02,,N,U,,K $after the fourth pitch to Elvis Andrus, crew chief Joe West requested a review to check the count; it was confirmed as 2-2"2014TEX.EVA.regular.comment.csv",46
+
+"TEX201408120",77,"replay,10,zobrb001,TBA,westj901,ARL02,,N,M,TBA,C $when Ben Zobrist was called out at 1B, Rays manager Joe Maddon challenged the ruling; the call was upheld by replay"2014TEX.EVA.regular.comment.csv",47
+
+"TEX201408120",80,"replay,10,belta001,TEX,westj901,ARL02,,N,M,TEX,C $when Adam Rosales was called out at 1B, Rangers manager Ron Washington challenged the ruling; the call was upheld by replay"2014TEX.EVA.regular.comment.csv",48
+
+"TEX201408130",13,"replay,2,casac001,TBA,westj901,ARL02,O,N,U,,H $Curt Casali's fly to LF struck the padding at the top of the scoreboard; the ball was ruled in play and Casali reached 2B; crew chief Joe West requested a review, which upheld the call"2014TEX.EVA.regular.comment.csv",49
+
+"TEX201408150",73,"replay,9,calhk001,ANA,hallt901,ARL02,,N,M,TEX,I $when Kole Calhoun was hit by pitch, Rangers manager Ron Washington challenged the ruling; the call was upheld by replay"2014TEX.EVA.regular.comment.csv",50
+
+"TEX201408170",41,"replay,5,odorr001,TEX,hallt901,ARL02,,N,M,TEX,A $when Rougned Odor was called out at 2B, Rangers manager Ron Washington challenged the ruling; the call was upheld by replay"2014TEX.EVA.regular.comment.csv",51
+
+"TEX201408230",47,"replay,6,riosa002,TEX,wendh902,ARL02,,N,M,KCA,A $when Elvis Andrus was called safe at 2B, Royals manager Ned Yost challenged the ruling; the call was upheld by replay"2014TEX.EVA.regular.comment.csv",52
+
+"TEX201408230",52,"replay,7,dysoj001,KCA,wendh902,ARL02,,N,M,TEX,A $when Lorenzo Cain was called safe at HP, Rangers manager Ron Washington challenged the ruling; the call was upheld by replay"2014TEX.EVA.regular.comment.csv",53
+
+"TEX201408240",63,"replay,7,rosaa001,TEX,wendh902,ARL02,,Y,M,KCA,C $when Adam Rosales was called safe at 1B, Royals manager Ned Yost challenged the ruling; the call was overturned by replay"2014TEX.EVA.regular.comment.csv",54
+
+"TEX201409050",21,"replay,3,martl004,SEA,vanol901,ARL02,,Y,M,SEA,C $when Leonys Martin was called safe at 1B, Mariners manager Lloyd McClendon challenged the ruling; the call was overturned by replay"2014TEX.EVA.regular.comment.csv",55
+
+"TEX201409050",34,"Mariners right fielder Endy Chavez left the game due to an injured head"2014TEX.EVA.regular.comment.csv",56
+
+"TEX201409050",72,"replay,8,choim001,TEX,vanol901,ARL02,,N,M,TEX,C $when Michael Choice was called out at 1B, Rangers manager Tim Bogar challenged the ruling; the call Was upheld by replay"2014TEX.EVA.regular.comment.csv",57
+
+"TEX201409060",11,"replay,2,morrl001,SEA,vanol901,ARL02,,Y,M,SEA,C $when Logan Morrison was called out at 1B, Mariners manager Lloyd McClendon challenged the ruling; the call was overturned by replay"2014TEX.EVA.regular.comment.csv",58
+
+"TEX201409060",60,"Mariners left fielder Dustin Ackley left the game due to an injured ankle"2014TEX.EVA.regular.comment.csv",59
+
+"TEX201409060",69,"replay,8,morrl001,SEA,vanol901,ARL02,,N,M,TEX,B $when Kyle Seager scored, Rangers manager Tim Bogar challenged whether Seager touched 3B; the call was upheld by replay"2014TEX.EVA.regular.comment.csv",60
+
+"TEX201409090",56,"replay,8,calhk001,ANA,joycj901,ARL02,,N,M,TEX,A $when Collin Cowgill was called safe at 2B, Rangers manager Tim Bogar challenged the ruling; the call Was upheld by replay"2014TEX.EVA.regular.comment.csv",61
+
+"TEX201409100",6,"replay,1,aybae001,ANA,joycj901,ARL02,,N,U,,P $when Howie Kendricks was called out at HP, crew chief Jim Joyce requested a review; the call was upheld by replay saying the catcher did not block HP without the ball and the runner was out"2014TEX.EVA.regular.comment.csv",62
+
+"TEX201409100",44,"replay,5,sardl001,TEX,joycj901,ARL02,,Y,M,ANA,C $when Luis Sardinas was called safe at 1B, Angels manager Mike Scioscia challenged the ruling; the call was overturned by replay"2014TEX.EVA.regular.comment.csv",63
+
+"TEX201409140",19,"replay,2,andre001,TEX,millb901,ARL02,,N,M,TOR,A $when Leonys Martin was called out at 1B on a pickoff attempt, Rangers manager Tim Bogar challenged the ruling; the call was upheld by replay"2014TEX.EVA.regular.comment.csv",64
+
+"TEX201409140",35,"replay,4,choim001,TEX,millb901,ARL02,,Y,M,ATL,A $when Luis Sardinas was called safe at 3B, Braves manager Fredi Gonzalez challenged the ruling; the call was overturned by replay"2014TEX.EVA.regular.comment.csv",65
+
+"TEX201409230",54,"replay,7,presa001,HOU,barrt901,ARL02,,Y,M,TEX,C $when Alex Presley was called safe at 1B, Rangers manager Tim Bogar challenged the ruling; the call was overturned by replay"2014TEX.EVA.regular.comment.csv",66
+
+"TEX201409240",4,"replay,1,cartc002,HOU,barrt901,ARL02,,Y,M,TEX,A $when Robbie Grossman was called safe at 3B, Rangers manager Tim Bogar challenged the ruling; the call was overturned by replay"2014TEX.EVA.regular.comment.csv",67
+
+"TEX201409270",24,"replay,3,odorr001,TEX,emmep901,ARL02,,Y,M,OAK,A $when Elvis Andrus was called safe at 2B, Athletics manager Bob Melvin challenged the ruling; the call was overturned by replay"2014TEX.EVA.regular.comment.csv",68
+
+"TEX201409270",63,"replay,8,reddj001,OAK,emmep901,ARL02,,N,M,TEX,A $when Jonny Gomes was called safe at HP, Rangers manager Tim Bogar challenged the ruling; the call was upheld by replay"2014TEX.EVA.regular.comment.csv",69
+

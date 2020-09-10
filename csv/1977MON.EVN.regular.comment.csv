@@ -1,57 +1,56 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"MON197706010",77,"missing play in MON197706010"
-"MON197706170",66,"$Jack Billingham faked a bunt and swung"
-"MON197706200",1,"missing fielding credit in MON197706200; rotate scoring"
-"MON197706210",1,"missing fielding credit in MON197706210; rotate scoring"
-"MON197706220",30,"missing play in MON197706220 (CS)"
-"MON197706220",55,"missing play in MON197706220 (at plate)"
-"MON197706220",57,"missing play in MON197706220 here to end; begin rotation"
-"MON197706300",66,"ej,cartg001,P,grege901,Checked swing Gary Carter ejected by HP umpire Eric Gregg arguing a checked swing for strike three"
-"MON197707120",26,"50 minute rain delay"
-"MON197707290",50,"game called after 1:23 rain delay"
-"MON197708200",3,"missing fielding in MON197708200"
-"MON197708200",11,"missing fielding in MON197708200"
-"MON197708200",63,"missing fielding in MON197708200"
-"MON197708200",78,"missing fielding in MON197708200 (ground out)"
-"MON197708210",36,"Stan Bahnsen struck by line drive"
-"MON197708290",61,"missing play in MON197708290"
-"MON197708300",74,"$Pete Rose escaped rundown back to 3B"
-"MON197709020",21,"missing fielding credit in MON197709020"
-"MON197709020",64,"missing fielding credit in MON197709020"
-"MON197709030",56,"Debut game for Mike Fischlin"
-"MON197709040",3,"missing fielding credit in MON197709040"
-"MON197709040",11,"Debut game for Dan Schatzeder"
-"MON197709040",31,"missing fielding credit in MON197709040"
-"MON197709040",62,"missing fielding credit in MON197709040"
-"MON197709130",1,"Debut game for Roy Lee Jackson"
-"MON197709170",0,"2:10 rain delay before start of game"
-"MON197709170",7,"Jerry Reuss injured warming up"
-"MON197709220",69,"ej,hernk001,P,wendh901,Balls and strikes Keith Hernandez ejected by HP umpire Harry Wendelstedt"
-"MON197706010",77,"missing play in MON197706010"
-"MON197706170",66,"$Jack Billingham faked a bunt and swung"
-"MON197706200",1,"missing fielding credit in MON197706200; rotate scoring"
-"MON197706210",1,"missing fielding credit in MON197706210; rotate scoring"
-"MON197706220",30,"missing play in MON197706220 (CS)"
-"MON197706220",55,"missing play in MON197706220 (at plate)"
-"MON197706220",57,"missing play in MON197706220 here to end; begin rotation"
-"MON197706300",66,"ej,cartg001,P,grege901,Checked swing Gary Carter ejected by HP umpire Eric Gregg arguing a checked swing for strike three"
-"MON197707120",26,"50 minute rain delay"
-"MON197707290",50,"game called after 1:23 rain delay"
-"MON197708200",3,"missing fielding in MON197708200"
-"MON197708200",11,"missing fielding in MON197708200"
-"MON197708200",63,"missing fielding in MON197708200"
-"MON197708200",78,"missing fielding in MON197708200 (ground out)"
-"MON197708210",36,"Stan Bahnsen struck by line drive"
-"MON197708290",61,"missing play in MON197708290"
-"MON197708300",74,"$Pete Rose escaped rundown back to 3B"
-"MON197709020",21,"missing fielding credit in MON197709020"
-"MON197709020",64,"missing fielding credit in MON197709020"
-"MON197709030",56,"Debut game for Mike Fischlin"
-"MON197709040",3,"missing fielding credit in MON197709040"
-"MON197709040",11,"Debut game for Dan Schatzeder"
-"MON197709040",31,"missing fielding credit in MON197709040"
-"MON197709040",62,"missing fielding credit in MON197709040"
-"MON197709130",1,"Debut game for Roy Lee Jackson"
-"MON197709170",0,"2:10 rain delay before start of game"
-"MON197709170",7,"Jerry Reuss injured warming up"
-"MON197709220",69,"ej,hernk001,P,wendh901,Balls and strikes Keith Hernandez ejected by HP umpire Harry Wendelstedt"
+"MON197706010",77,"missing play in MON197706010"FILENAME_TX","LINE_NUMBER_CT"
+
+"MON197706170",66,"$Jack Billingham faked a bunt and swung"1977MON.EVN.regular.comment.csv",2
+
+"MON197706200",1,"missing fielding credit in MON197706200; rotate scoring"1977MON.EVN.regular.comment.csv",3
+
+"MON197706210",1,"missing fielding credit in MON197706210; rotate scoring"1977MON.EVN.regular.comment.csv",4
+
+"MON197706220",30,"missing play in MON197706220 (CS)"1977MON.EVN.regular.comment.csv",5
+
+"MON197706220",55,"missing play in MON197706220 (at plate)"1977MON.EVN.regular.comment.csv",6
+
+"MON197706220",57,"missing play in MON197706220 here to end; begin rotation"1977MON.EVN.regular.comment.csv",7
+
+"MON197706300",66,"ej,cartg001,P,grege901,Checked swing Gary Carter ejected by HP umpire Eric Gregg arguing a checked swing for strike three"1977MON.EVN.regular.comment.csv",8
+
+"MON197707120",26,"50 minute rain delay"1977MON.EVN.regular.comment.csv",9
+
+"MON197707290",50,"game called after 1:23 rain delay"1977MON.EVN.regular.comment.csv",10
+
+"MON197708200",3,"missing fielding in MON197708200"1977MON.EVN.regular.comment.csv",11
+
+"MON197708200",11,"missing fielding in MON197708200"1977MON.EVN.regular.comment.csv",12
+
+"MON197708200",63,"missing fielding in MON197708200"1977MON.EVN.regular.comment.csv",13
+
+"MON197708200",78,"missing fielding in MON197708200 (ground out)"1977MON.EVN.regular.comment.csv",14
+
+"MON197708210",36,"Stan Bahnsen struck by line drive"1977MON.EVN.regular.comment.csv",15
+
+"MON197708290",61,"missing play in MON197708290"1977MON.EVN.regular.comment.csv",16
+
+"MON197708300",74,"$Pete Rose escaped rundown back to 3B"1977MON.EVN.regular.comment.csv",17
+
+"MON197709020",21,"missing fielding credit in MON197709020"1977MON.EVN.regular.comment.csv",18
+
+"MON197709020",64,"missing fielding credit in MON197709020"1977MON.EVN.regular.comment.csv",19
+
+"MON197709030",56,"Debut game for Mike Fischlin"1977MON.EVN.regular.comment.csv",20
+
+"MON197709040",3,"missing fielding credit in MON197709040"1977MON.EVN.regular.comment.csv",21
+
+"MON197709040",11,"Debut game for Dan Schatzeder"1977MON.EVN.regular.comment.csv",22
+
+"MON197709040",31,"missing fielding credit in MON197709040"1977MON.EVN.regular.comment.csv",23
+
+"MON197709040",62,"missing fielding credit in MON197709040"1977MON.EVN.regular.comment.csv",24
+
+"MON197709130",1,"Debut game for Roy Lee Jackson"1977MON.EVN.regular.comment.csv",25
+
+"MON197709170",0,"2:10 rain delay before start of game"1977MON.EVN.regular.comment.csv",26
+
+"MON197709170",7,"Jerry Reuss injured warming up"1977MON.EVN.regular.comment.csv",27
+
+"MON197709220",69,"ej,hernk001,P,wendh901,Balls and strikes Keith Hernandez ejected by HP umpire Harry Wendelstedt"1977MON.EVN.regular.comment.csv",28
+

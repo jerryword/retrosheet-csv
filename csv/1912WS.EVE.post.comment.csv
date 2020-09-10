@@ -1,51 +1,50 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"NY1191210080",1,"Debut game for Harry Hooper Debut game for Jeff Tesreau"
-"NY1191210080",2,"Debut game for Steve Yerkes"
-"NY1191210080",3,"Debut game for Tris Speaker"
-"NY1191210080",4,"Debut game for Duffy Lewis"
-"NY1191210080",5,"Debut game for Joe Wood"
-"NY1191210080",10,"Debut game for Larry Gardner"
-"NY1191210080",11,"Debut game for Jake Stahl"
-"NY1191210080",12,"Debut game for Heinie Wagner"
-"NY1191210080",14,"Debut game for Hick Cady"
-"NY1191210080",40,"$Larry Doyle overslid 2B"
-"NY1191210080",58,"Debut game for Moose McCormick"
-"BOS191210090",1,"Debut game for Ray Collins"
-"BOS191210090",18,"Debut game for Bill Carrigan"
-"BOS191210090",64,"Debut game for Charles Hall"
-"BOS191210090",86,"Debut game for Tillie Shafer"
-"BOS191210090",93,"Debut game for Hugh Bedient"
-"BOS191210090",100,"$Game called due to darkness"
-"BOS191210100",1,"Debut game for Buck O'Brien"
-"BOS191210100",39,"$Jake Stahl fell rounding 1B"
-"BOS191210100",62,"Debut game for Clyde Engle"
-"BOS191210100",63,"Debut game for Neal Ball"
-"BOS191210100",74,"Debut game for Olaf Henriksen"
-"BOS191210150",24,"$bounce HR"
-"BOS191210150",51,"$the ball caromed off Larry Doyle's arm to Art Fletcher at 2B"
-"BOS191210150",57,"$bounce HR"
-"NY1191210080",1,"Debut game for Harry Hooper Debut game for Jeff Tesreau"
-"NY1191210080",2,"Debut game for Steve Yerkes"
-"NY1191210080",3,"Debut game for Tris Speaker"
-"NY1191210080",4,"Debut game for Duffy Lewis"
-"NY1191210080",5,"Debut game for Joe Wood"
-"NY1191210080",10,"Debut game for Larry Gardner"
-"NY1191210080",11,"Debut game for Jake Stahl"
-"NY1191210080",12,"Debut game for Heinie Wagner"
-"NY1191210080",14,"Debut game for Hick Cady"
-"NY1191210080",40,"$Larry Doyle overslid 2B"
-"NY1191210080",58,"Debut game for Moose McCormick"
-"BOS191210090",1,"Debut game for Ray Collins"
-"BOS191210090",18,"Debut game for Bill Carrigan"
-"BOS191210090",64,"Debut game for Charles Hall"
-"BOS191210090",86,"Debut game for Tillie Shafer"
-"BOS191210090",93,"Debut game for Hugh Bedient"
-"BOS191210090",100,"$Game called due to darkness"
-"BOS191210100",1,"Debut game for Buck O'Brien"
-"BOS191210100",39,"$Jake Stahl fell rounding 1B"
-"BOS191210100",62,"Debut game for Clyde Engle"
-"BOS191210100",63,"Debut game for Neal Ball"
-"BOS191210100",74,"Debut game for Olaf Henriksen"
-"BOS191210150",24,"$bounce HR"
-"BOS191210150",51,"$the ball caromed off Larry Doyle's arm to Art Fletcher at 2B"
-"BOS191210150",57,"$bounce HR"
+"NY1191210080",1,"Debut game for Harry Hooper Debut game for Jeff Tesreau"FILENAME_TX","LINE_NUMBER_CT"
+
+"NY1191210080",2,"Debut game for Steve Yerkes"1912WS.EVE.post.comment.csv",2
+
+"NY1191210080",3,"Debut game for Tris Speaker"1912WS.EVE.post.comment.csv",3
+
+"NY1191210080",4,"Debut game for Duffy Lewis"1912WS.EVE.post.comment.csv",4
+
+"NY1191210080",5,"Debut game for Joe Wood"1912WS.EVE.post.comment.csv",5
+
+"NY1191210080",10,"Debut game for Larry Gardner"1912WS.EVE.post.comment.csv",6
+
+"NY1191210080",11,"Debut game for Jake Stahl"1912WS.EVE.post.comment.csv",7
+
+"NY1191210080",12,"Debut game for Heinie Wagner"1912WS.EVE.post.comment.csv",8
+
+"NY1191210080",14,"Debut game for Hick Cady"1912WS.EVE.post.comment.csv",9
+
+"NY1191210080",40,"$Larry Doyle overslid 2B"1912WS.EVE.post.comment.csv",10
+
+"NY1191210080",58,"Debut game for Moose McCormick"1912WS.EVE.post.comment.csv",11
+
+"BOS191210090",1,"Debut game for Ray Collins"1912WS.EVE.post.comment.csv",12
+
+"BOS191210090",18,"Debut game for Bill Carrigan"1912WS.EVE.post.comment.csv",13
+
+"BOS191210090",64,"Debut game for Charles Hall"1912WS.EVE.post.comment.csv",14
+
+"BOS191210090",86,"Debut game for Tillie Shafer"1912WS.EVE.post.comment.csv",15
+
+"BOS191210090",93,"Debut game for Hugh Bedient"1912WS.EVE.post.comment.csv",16
+
+"BOS191210090",100,"$Game called due to darkness"1912WS.EVE.post.comment.csv",17
+
+"BOS191210100",1,"Debut game for Buck O'Brien"1912WS.EVE.post.comment.csv",18
+
+"BOS191210100",39,"$Jake Stahl fell rounding 1B"1912WS.EVE.post.comment.csv",19
+
+"BOS191210100",62,"Debut game for Clyde Engle"1912WS.EVE.post.comment.csv",20
+
+"BOS191210100",63,"Debut game for Neal Ball"1912WS.EVE.post.comment.csv",21
+
+"BOS191210100",74,"Debut game for Olaf Henriksen"1912WS.EVE.post.comment.csv",22
+
+"BOS191210150",24,"$bounce HR"1912WS.EVE.post.comment.csv",23
+
+"BOS191210150",51,"$the ball caromed off Larry Doyle's arm to Art Fletcher at 2B"1912WS.EVE.post.comment.csv",24
+
+"BOS191210150",57,"$bounce HR"1912WS.EVE.post.comment.csv",25
+

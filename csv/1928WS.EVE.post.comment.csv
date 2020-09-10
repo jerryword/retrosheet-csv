@@ -1,27 +1,26 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"NYA192810040",2,"Debut game for Andy High"
-"NYA192810040",11,"Debut game for George Harper"
-"NYA192810040",12,"Debut game for Jimmy Wilson"
-"NYA192810040",44,"Debut game for Leo Durocher"
-"NYA192810040",53,"Debut game for Ernie Orsatti"
-"NYA192810040",56,"Debut game for Syl Johnson"
-"NYA192810050",18,"Debut game for Gene Robertson"
-"NYA192810050",70,"DIFF: officials do not charge strikeout here"
-"SLN192810070",60,"Debut game for Ray Blades"
-"SLN192810090",5,"$Babe Ruth lost the ball in the sun"
-"SLN192810090",37,"$no one covered 2B"
-"SLN192810090",64,"$Chick Hafey lost the ball in the sun"
-"SLN192810090",84,"Debut game for Pepper Martin"
-"NYA192810040",2,"Debut game for Andy High"
-"NYA192810040",11,"Debut game for George Harper"
-"NYA192810040",12,"Debut game for Jimmy Wilson"
-"NYA192810040",44,"Debut game for Leo Durocher"
-"NYA192810040",53,"Debut game for Ernie Orsatti"
-"NYA192810040",56,"Debut game for Syl Johnson"
-"NYA192810050",18,"Debut game for Gene Robertson"
-"NYA192810050",70,"DIFF: officials do not charge strikeout here"
-"SLN192810070",60,"Debut game for Ray Blades"
-"SLN192810090",5,"$Babe Ruth lost the ball in the sun"
-"SLN192810090",37,"$no one covered 2B"
-"SLN192810090",64,"$Chick Hafey lost the ball in the sun"
-"SLN192810090",84,"Debut game for Pepper Martin"
+"NYA192810040",2,"Debut game for Andy High"FILENAME_TX","LINE_NUMBER_CT"
+
+"NYA192810040",11,"Debut game for George Harper"1928WS.EVE.post.comment.csv",2
+
+"NYA192810040",12,"Debut game for Jimmy Wilson"1928WS.EVE.post.comment.csv",3
+
+"NYA192810040",44,"Debut game for Leo Durocher"1928WS.EVE.post.comment.csv",4
+
+"NYA192810040",53,"Debut game for Ernie Orsatti"1928WS.EVE.post.comment.csv",5
+
+"NYA192810040",56,"Debut game for Syl Johnson"1928WS.EVE.post.comment.csv",6
+
+"NYA192810050",18,"Debut game for Gene Robertson"1928WS.EVE.post.comment.csv",7
+
+"NYA192810050",70,"DIFF: officials do not charge strikeout here"1928WS.EVE.post.comment.csv",8
+
+"SLN192810070",60,"Debut game for Ray Blades"1928WS.EVE.post.comment.csv",9
+
+"SLN192810090",5,"$Babe Ruth lost the ball in the sun"1928WS.EVE.post.comment.csv",10
+
+"SLN192810090",37,"$no one covered 2B"1928WS.EVE.post.comment.csv",11
+
+"SLN192810090",64,"$Chick Hafey lost the ball in the sun"1928WS.EVE.post.comment.csv",12
+
+"SLN192810090",84,"Debut game for Pepper Martin"1928WS.EVE.post.comment.csv",13
+

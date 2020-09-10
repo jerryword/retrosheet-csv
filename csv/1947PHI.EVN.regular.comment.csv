@@ -1,104 +1,104 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"PHI194704170",43,"$Seminick injured on play at plate"
-"PHI194705082",33,"pbp ends here, with snippets later, rest deduced"
-"PHI194705082",56,"end of all pbp"
-"PHI194705111",37,"$strikeout on knuckle ball that went to the screen"
-"PHI194705112",2,"ej,chapb102,M,barrg901,HBP call Phillies Manager Ben Chapman ejected by HP umpire George Barr arguing that Jackie Robinson was out of box when hit by pitch"
-"PHI194706010",65,"$overthrow by shortstop bounced off wall back to first baseman"
-"PHI194706051",23,"$HP umpire Jocko Conlan struck on collarbone by foul ball; taken to hospital after the game"
-"PHI194706052",17,"umpchange,2,ump3b,(None) $3B umpire Jocko Conlan left with injury from foul ball in game 1; taken to hospital"
-"PHI194706052",64,"$Benny Zientara left with injury when spiked by Harry Walker"
-"PHI194706092",39,"$Musial's bat broke and the sharp end pierced Rowe's elbow, sending him to the hospital"
-"PHI194706092",61,"$hard smaash deflected from Schultz to Verban"
-"PHI194706092",90,"pbp account ends here, rest deduced"
-"PHI194706092",116,"$hit on right elbow as he raised arm to protect face"
-"PHI194706110",8,"Musial's throw hit Albright sliding into second."
-"PHI194706110",14,"Rice's right shoulder was injured when Handley slid into the plate."
-"PHI194706110",24,"Ennis was injured in the rundown."
-"PHI194706110",37,"Schmidt bruised his right heel"
-"PHI194706110",52,"Garagiola went to the mound after Hughes but Manager Dyer and the umpires stepped between the players as members of both teams charged on the field; After a few minutes, order was restored; No blows were struck."
-"PHI194706110",68,"pbp account ends here, rest deduced"
-"PHI194706300",54,"$Dixie Walker rounded 3B too far"
-"PHI194707010",47,"$Bruce Edwards rounded 2B too far"
-"PHI194707110",0,"$Phillies manager Ben Chapman gave HP umpire George Barr the lineup he almost used the night before in game 2 listing Schoolboy Rowe while the PA announced Charley Schanz;  Barr insisted Rowe face one hitter, so although Schanz was on the mound, Rowe ran to the mound without a warm-up and threw to Billy Cox, who singled on the second pitch"
-"PHI194708110",34,"$Sid Gordon left with injured leg"
-"PHI194708110",42,"ej,culpb102,C,jordl901,Bench jockeying $Phillies coach Culp ejected by HP umpire Jorda for bench jockeying"
-"PHI194708130",33,"NY 5th inning missing from pbp account and is deduced"
-"PHI194708130",52,"pbp account ends here, rest deduced"
-"PHI194708140",38,"$Iott went into third standing up, went past base and couldn't get back in time"
-"PHI194708140",50,"$Apparently Lafata stopped at third and then broke for plate on overthrow, but was retired with no outfield assist"
-"PHI194708140",58,"pbp account ends here, rest deduced"
-"PHI194708150",30,"ej,ennid101,P,barrg901,Call at HP Del Ennis ejected by HP umpire George Barr"
-"PHI194708160",68,"$Pee Wee Reese called for interference"
-"PHI194708160",70,"$Carl Furillo out on appeal for not touching 3B after apparently scoring a run"
-"PHI194708172",0,"Suspend=19470925,,5,4,39"
-"PHI194708172",53,"ej,stane101,P,barrg901,Balls and strikes ej,bladr102,C,barrg901,Balls and strikes Eddie Stanky and Dodgers Coach Ray Blades ejected by HP umpire George Barr"
-"PHI194708172",62,"$the Phillies began stalling when they were only five minutes before curfew"
-"PHI194708172",63,"$Gene Hermanski and Dixie Walker allowed to advance without a play"
-"PHI194708172",64,"$Stan Rojek ran out of the box to swing at intentional ball, but HP umpire George Barr would not call him out"
-"PHI194708172",65,"$Gene Hermanski trotted toward HP and catcher Don Padgett stood with the ball, allowing Hermanski to run into it for the third out"
-"PHI194708172",65,"umpchange,7,umphp,pineb101 umpchange,7,ump1b,robbs901 umpchange,7,ump3b,gorea901 suspended,19470925,PHI11,stalling $game suspended with 2-1 count on Harry Walker after he couldn't find his bat; when time reached 6:59 PM, the score reverted to the last complete inning, so an apparent 5-4 Dodger win became a tie; NL President Ford Frick ruled the next day that the stalling tactics of the Phillies were excessive and he ordered the game resumed from the point of suspension instead of being replayed; it was completed on 9/25 with new umpires"
-"PHI194708200",7,"LaPointe was sliding into third."
-"PHI194708200",24,"Nice back-handed catch."
-"PHI194708200",46,"play,7,0,nichb101,??,,K play,7,0,scheb101,??,,1/P play,7,0,sturb101,??,,13 game called for rain, plays in top of 7th not count"
-"PHI194708211",42,"$a heavy mist started to fall"
-"PHI194708211",69,"$Bernie Creger and Enos Slaughter collided; Slaughter, kicked on the head, was knocked unconscious; he was carried from the field on a stretcher"
-"PHI194708212",19,"Schultz pulled a muscle in his left leg."
-"PHI194708212",20,"ej,garaj101,P,henlb101,Call at HP $Manager Dyer and other Cardinals charged Umpire Henline claiming that Verban never touched the plate after Moore's throw to Garagiola but got nowhere with the protest. Garagiola continued to complain about the call and was ejected from the game."
-"PHI194708212",30,"pbp account ends here, rest deduced"
-"PHI194708242",68,"$game called due to Sunday curfew law"
-"PHI194708300",67,"play,9,0,culld101,??,,NP sub,rowes101,'Schoolboy Rowe',1,9,1 play,9,0,culld101,??,,53 play,9,0,barrr101,??,,6/P play,9,0,holmt101,??,,S play,9,0,hoppj102,??,,K $a severe rain electrical storm hit Shibe Park in the middle of the ninth; after a 28 minute wait, the game was called and the 9th inning was negated; this included a relief appearance by Schoolboy Rowe"
-"PHI194709281",66,"$Bobby Thomson lost the ball in the sun"
-"PHI194709281",67,"$Bobby Thomson misplayed the fly ball, but got force out"
-"PHI194704170",43,"$Seminick injured on play at plate"
-"PHI194705082",33,"pbp ends here, with snippets later, rest deduced"
-"PHI194705082",56,"end of all pbp"
-"PHI194705111",37,"$strikeout on knuckle ball that went to the screen"
-"PHI194705112",2,"ej,chapb102,M,barrg901,HBP call Phillies Manager Ben Chapman ejected by HP umpire George Barr arguing that Jackie Robinson was out of box when hit by pitch"
-"PHI194706010",65,"$overthrow by shortstop bounced off wall back to first baseman"
-"PHI194706051",23,"$HP umpire Jocko Conlan struck on collarbone by foul ball; taken to hospital after the game"
-"PHI194706052",17,"umpchange,2,ump3b,(None) $3B umpire Jocko Conlan left with injury from foul ball in game 1; taken to hospital"
-"PHI194706052",64,"$Benny Zientara left with injury when spiked by Harry Walker"
-"PHI194706092",39,"$Musial's bat broke and the sharp end pierced Rowe's elbow, sending him to the hospital"
-"PHI194706092",61,"$hard smaash deflected from Schultz to Verban"
-"PHI194706092",90,"pbp account ends here, rest deduced"
-"PHI194706092",116,"$hit on right elbow as he raised arm to protect face"
-"PHI194706110",8,"Musial's throw hit Albright sliding into second."
-"PHI194706110",14,"Rice's right shoulder was injured when Handley slid into the plate."
-"PHI194706110",24,"Ennis was injured in the rundown."
-"PHI194706110",37,"Schmidt bruised his right heel"
-"PHI194706110",52,"Garagiola went to the mound after Hughes but Manager Dyer and the umpires stepped between the players as members of both teams charged on the field; After a few minutes, order was restored; No blows were struck."
-"PHI194706110",68,"pbp account ends here, rest deduced"
-"PHI194706300",54,"$Dixie Walker rounded 3B too far"
-"PHI194707010",47,"$Bruce Edwards rounded 2B too far"
-"PHI194707110",0,"$Phillies manager Ben Chapman gave HP umpire George Barr the lineup he almost used the night before in game 2 listing Schoolboy Rowe while the PA announced Charley Schanz;  Barr insisted Rowe face one hitter, so although Schanz was on the mound, Rowe ran to the mound without a warm-up and threw to Billy Cox, who singled on the second pitch"
-"PHI194708110",34,"$Sid Gordon left with injured leg"
-"PHI194708110",42,"ej,culpb102,C,jordl901,Bench jockeying $Phillies coach Culp ejected by HP umpire Jorda for bench jockeying"
-"PHI194708130",33,"NY 5th inning missing from pbp account and is deduced"
-"PHI194708130",52,"pbp account ends here, rest deduced"
-"PHI194708140",0,"Crowd totaled 9,725 including guests"
-"PHI194708140",38,"$Iott went into third standing up, went past base and couldn't get back in time."
-"PHI194708140",50,"$Apparently Lafata stopped at third and then broke for plate on overthrow, but was retired with no outfield assist"
-"PHI194708140",64,"Lafata bobbled it"
-"PHI194708150",30,"ej,ennid101,P,barrg901,Call at HP Del Ennis ejected by HP umpire George Barr"
-"PHI194708160",68,"$Pee Wee Reese called for interference"
-"PHI194708160",70,"$Carl Furillo out on appeal for not touching 3B after apparently scoring a run"
-"PHI194708172",0,"Suspend=19470925,,5,4,39"
-"PHI194708172",53,"ej,stane101,P,barrg901,Balls and strikes ej,bladr102,C,barrg901,Balls and strikes Eddie Stanky and Dodgers Coach Ray Blades ejected by HP umpire George Barr"
-"PHI194708172",62,"$the Phillies began stalling when they were only five minutes before curfew"
-"PHI194708172",63,"$Gene Hermanski and Dixie Walker allowed to advance without a play"
-"PHI194708172",64,"$Stan Rojek ran out of the box to swing at intentional ball, but HP umpire George Barr would not call him out"
-"PHI194708172",65,"$Gene Hermanski trotted toward HP and catcher Don Padgett stood with the ball, allowing Hermanski to run into it for the third out"
-"PHI194708172",65,"umpchange,7,umphp,pineb101 umpchange,7,ump1b,robbs901 umpchange,7,ump3b,gorea901 suspended,19470925,PHI11,stalling $game suspended with 2-1 count on Harry Walker after he couldn't find his bat; when time reached 6:59 PM, the score reverted to the last complete inning, so an apparent 5-4 Dodger win became a tie; NL President Ford Frick ruled the next day that the stalling tactics of the Phillies were excessive and he ordered the game resumed from the point of suspension instead of being replayed; it was completed on 9/25 with new umpires"
-"PHI194708200",7,"LaPointe was sliding into third."
-"PHI194708200",24,"Nice back-handed catch."
-"PHI194708200",46,"play,7,0,nichb101,??,,K play,7,0,scheb101,??,,1/P play,7,0,sturb101,??,,13 game called for rain, plays in top of 7th not count"
-"PHI194708211",42,"$a heavy mist started to fall"
-"PHI194708211",69,"$Bernie Creger and Enos Slaughter collided; Slaughter, kicked on the head, was knocked unconscious; he was carried from the field on a stretcher"
-"PHI194708212",19,"Schultz pulled a muscle in his left leg."
-"PHI194708212",20,"ej,garaj101,P,henlb101,Call at HP $Manager Dyer and other Cardinals charged Umpire Henline claiming that Verban never touched the plate after Moore's throw to Garagiola but got nowhere with the protest. Garagiola continued to complain about the call and was ejected from the game."
-"PHI194708212",30,"pbp account ends here, rest deduced"
-"PHI194708242",68,"$game called due to Sunday curfew law"
-"PHI194708300",67,"play,9,0,culld101,??,,NP sub,rowes101,'Schoolboy Rowe',1,9,1 play,9,0,culld101,??,,53 play,9,0,barrr101,??,,6/P play,9,0,holmt101,??,,S play,9,0,hoppj102,??,,K $a severe rain electrical storm hit Shibe Park in the middle of the ninth; after a 28 minute wait, the game was called and the 9th inning was negated; this included a relief appearance by Schoolboy Rowe"
-"PHI194709281",66,"$Bobby Thomson lost the ball in the sun"
-"PHI194709281",67,"$Bobby Thomson misplayed the fly ball, but got force out"
+"PHI194704170",43,"$Seminick injured on play at plate"FILENAME_TX","LINE_NUMBER_CT"
+
+"PHI194705082",33,"pbp ends here, with snippets later, rest deduced"1947PHI.EVN.regular.comment.csv",2
+
+"PHI194705082",56,"end of all pbp"1947PHI.EVN.regular.comment.csv",3
+
+"PHI194705111",37,"$strikeout on knuckle ball that went to the screen"1947PHI.EVN.regular.comment.csv",4
+
+"PHI194705112",2,"ej,chapb102,M,barrg901,HBP call Phillies Manager Ben Chapman ejected by HP umpire George Barr arguing that Jackie Robinson was out of box when hit by pitch"1947PHI.EVN.regular.comment.csv",5
+
+"PHI194706010",65,"$overthrow by shortstop bounced off wall back to first baseman"1947PHI.EVN.regular.comment.csv",6
+
+"PHI194706051",23,"$HP umpire Jocko Conlan struck on collarbone by foul ball; taken to hospital after the game"1947PHI.EVN.regular.comment.csv",7
+
+"PHI194706052",17,"umpchange,2,ump3b,(None) $3B umpire Jocko Conlan left with injury from foul ball in game 1; taken to hospital"1947PHI.EVN.regular.comment.csv",8
+
+"PHI194706052",64,"$Benny Zientara left with injury when spiked by Harry Walker"1947PHI.EVN.regular.comment.csv",9
+
+"PHI194706092",39,"$Musial's bat broke and the sharp end pierced Rowe's elbow, sending him to the hospital"1947PHI.EVN.regular.comment.csv",10
+
+"PHI194706092",61,"$hard smaash deflected from Schultz to Verban"1947PHI.EVN.regular.comment.csv",11
+
+"PHI194706092",90,"pbp account ends here, rest deduced"1947PHI.EVN.regular.comment.csv",12
+
+"PHI194706092",116,"$hit on right elbow as he raised arm to protect face"1947PHI.EVN.regular.comment.csv",13
+
+"PHI194706110",8,"Musial's throw hit Albright sliding into second."1947PHI.EVN.regular.comment.csv",14
+
+"PHI194706110",14,"Rice's right shoulder was injured when Handley slid into the plate."1947PHI.EVN.regular.comment.csv",15
+
+"PHI194706110",24,"Ennis was injured in the rundown."1947PHI.EVN.regular.comment.csv",16
+
+"PHI194706110",37,"Schmidt bruised his right heel"1947PHI.EVN.regular.comment.csv",17
+
+"PHI194706110",52,"Garagiola went to the mound after Hughes but Manager Dyer and the umpires stepped between the players as members of both teams charged on the field; After a few minutes, order was restored; No blows were struck."1947PHI.EVN.regular.comment.csv",18
+
+"PHI194706110",68,"pbp account ends here, rest deduced"1947PHI.EVN.regular.comment.csv",19
+
+"PHI194706300",54,"$Dixie Walker rounded 3B too far"1947PHI.EVN.regular.comment.csv",20
+
+"PHI194707010",47,"$Bruce Edwards rounded 2B too far"1947PHI.EVN.regular.comment.csv",21
+
+"PHI194707110",0,"$Phillies manager Ben Chapman gave HP umpire George Barr the lineup he almost used the night before in game 2 listing Schoolboy Rowe while the PA announced Charley Schanz;  Barr insisted Rowe face one hitter, so although Schanz was on the mound, Rowe ran to the mound without a warm-up and threw to Billy Cox, who singled on the second pitch"1947PHI.EVN.regular.comment.csv",22
+
+"PHI194708110",34,"$Sid Gordon left with injured leg"1947PHI.EVN.regular.comment.csv",23
+
+"PHI194708110",42,"ej,culpb102,C,jordl901,Bench jockeying $Phillies coach Culp ejected by HP umpire Jorda for bench jockeying"1947PHI.EVN.regular.comment.csv",24
+
+"PHI194708130",33,"NY 5th inning missing from pbp account and is deduced"1947PHI.EVN.regular.comment.csv",25
+
+"PHI194708130",52,"pbp account ends here, rest deduced"1947PHI.EVN.regular.comment.csv",26
+
+"PHI194708140",0,"Crowd totaled 9,725 including guests"1947PHI.EVN.regular.comment.csv",27
+
+"PHI194708140",38,"$Iott went into third standing up, went past base and couldn't get back in time."1947PHI.EVN.regular.comment.csv",28
+
+"PHI194708140",50,"$Apparently Lafata stopped at third and then broke for plate on overthrow, but was retired with no outfield assist"1947PHI.EVN.regular.comment.csv",29
+
+"PHI194708140",64,"Lafata bobbled it"1947PHI.EVN.regular.comment.csv",30
+
+"PHI194708150",30,"ej,ennid101,P,barrg901,Call at HP Del Ennis ejected by HP umpire George Barr"1947PHI.EVN.regular.comment.csv",31
+
+"PHI194708160",68,"$Pee Wee Reese called for interference"1947PHI.EVN.regular.comment.csv",32
+
+"PHI194708160",70,"$Carl Furillo out on appeal for not touching 3B after apparently scoring a run"1947PHI.EVN.regular.comment.csv",33
+
+"PHI194708172",0,"Suspend=19470925,,5,4,39"1947PHI.EVN.regular.comment.csv",34
+
+"PHI194708172",53,"ej,stane101,P,barrg901,Balls and strikes ej,bladr102,C,barrg901,Balls and strikes Eddie Stanky and Dodgers Coach Ray Blades ejected by HP umpire George Barr"1947PHI.EVN.regular.comment.csv",35
+
+"PHI194708172",62,"$the Phillies began stalling when they were only five minutes before curfew"1947PHI.EVN.regular.comment.csv",36
+
+"PHI194708172",63,"$Gene Hermanski and Dixie Walker allowed to advance without a play"1947PHI.EVN.regular.comment.csv",37
+
+"PHI194708172",64,"$Stan Rojek ran out of the box to swing at intentional ball, but HP umpire George Barr would not call him out"1947PHI.EVN.regular.comment.csv",38
+
+"PHI194708172",65,"$Gene Hermanski trotted toward HP and catcher Don Padgett stood with the ball, allowing Hermanski to run into it for the third out"1947PHI.EVN.regular.comment.csv",39
+
+"PHI194708172",65,"umpchange,7,umphp,pineb101 umpchange,7,ump1b,robbs901 umpchange,7,ump3b,gorea901 suspended,19470925,PHI11,stalling $game suspended with 2-1 count on Harry Walker after he couldn't find his bat; when time reached 6:59 PM, the score reverted to the last complete inning, so an apparent 5-4 Dodger win became a tie; NL President Ford Frick ruled the next day that the stalling tactics of the Phillies were excessive and he ordered the game resumed from the point of suspension instead of being replayed; it was completed on 9/25 with new umpires"1947PHI.EVN.regular.comment.csv",40
+
+"PHI194708200",7,"LaPointe was sliding into third."1947PHI.EVN.regular.comment.csv",41
+
+"PHI194708200",24,"Nice back-handed catch."1947PHI.EVN.regular.comment.csv",42
+
+"PHI194708200",46,"play,7,0,nichb101,??,,K play,7,0,scheb101,??,,1/P play,7,0,sturb101,??,,13 game called for rain, plays in top of 7th not count"1947PHI.EVN.regular.comment.csv",43
+
+"PHI194708211",42,"$a heavy mist started to fall"1947PHI.EVN.regular.comment.csv",44
+
+"PHI194708211",69,"$Bernie Creger and Enos Slaughter collided; Slaughter, kicked on the head, was knocked unconscious; he was carried from the field on a stretcher"1947PHI.EVN.regular.comment.csv",45
+
+"PHI194708212",19,"Schultz pulled a muscle in his left leg."1947PHI.EVN.regular.comment.csv",46
+
+"PHI194708212",20,"ej,garaj101,P,henlb101,Call at HP $Manager Dyer and other Cardinals charged Umpire Henline claiming that Verban never touched the plate after Moore's throw to Garagiola but got nowhere with the protest. Garagiola continued to complain about the call and was ejected from the game."1947PHI.EVN.regular.comment.csv",47
+
+"PHI194708212",30,"pbp account ends here, rest deduced"1947PHI.EVN.regular.comment.csv",48
+
+"PHI194708242",68,"$game called due to Sunday curfew law"1947PHI.EVN.regular.comment.csv",49
+
+"PHI194708300",67,"play,9,0,culld101,??,,NP sub,rowes101,'Schoolboy Rowe',1,9,1 play,9,0,culld101,??,,53 play,9,0,barrr101,??,,6/P play,9,0,holmt101,??,,S play,9,0,hoppj102,??,,K $a severe rain electrical storm hit Shibe Park in the middle of the ninth; after a 28 minute wait, the game was called and the 9th inning was negated; this included a relief appearance by Schoolboy Rowe"1947PHI.EVN.regular.comment.csv",50
+
+"PHI194709281",66,"$Bobby Thomson lost the ball in the sun"1947PHI.EVN.regular.comment.csv",51
+
+"PHI194709281",67,"$Bobby Thomson misplayed the fly ball, but got force out"1947PHI.EVN.regular.comment.csv",52
+

@@ -1,33 +1,32 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"ATL199604030",37,"Debut game for Steve Bourgeois"
-"ATL199604030",66,"Debut game for Tyler Houston"
-"ATL199604050",79,"$Royce Clayton called for interference"
-"ATL199604050",100,"ej,waltj001,P,bonig901,Called third strike Jerome Walton ejected by HP umpire Greg Bonin"
-"ATL199604070",1,"Debut game for Mike Busby"
-"ATL199604190",6,"Debut game for Tony Graffanino"
-"ATL199605170",41,"Debut game for Jermaine Dye"
-"ATL199608070",81,"game called for rain"
-"ATL199608080",1,"Debut game for Matt Beech"
-"ATL199608090",50,"ej,cox-b103,M,darlg901,Balls and strikes Braves manager Bobby Cox ejected by HP umpire Gary Darling"
-"ATL199608110",63,"ej,bayld001,M,riekr901,Call at HP Rockies manager Don Baylor ejected by HP umpire Rich Rieker"
-"ATL199608160",0,"ej,may-m001,C,wintm901,Balls and strikes Pirates coach Milt May ejected by HP umpire Mike Winters sometime in game"
-"ATL199608180",68,"ej,bellj001,P,riekr901,Called third strike (threw bat) Jay Bell ejected by HP umpire Rich Rieker"
-"ATL199608220",73,"ej,knigr001,M,bonig901,Balls and strikes Reds manager Ray Knight ejected by HP umpire Greg Bonin"
-"ATL199609080",2,"Debut game for Jason Hardtke"
-"ATL199609190",10,"Debut game for Vladimir Guerrero"
-"ATL199604030",37,"Debut game for Steve Bourgeois"
-"ATL199604030",66,"Debut game for Tyler Houston"
-"ATL199604050",79,"$Royce Clayton called for interference"
-"ATL199604050",100,"ej,waltj001,P,bonig901,Called third strike Jerome Walton ejected by HP umpire Greg Bonin"
-"ATL199604070",1,"Debut game for Mike Busby"
-"ATL199604190",6,"Debut game for Tony Graffanino"
-"ATL199605170",41,"Debut game for Jermaine Dye"
-"ATL199608070",81,"game called for rain"
-"ATL199608080",1,"Debut game for Matt Beech"
-"ATL199608090",50,"ej,cox-b103,M,darlg901,Balls and strikes Braves manager Bobby Cox ejected by HP umpire Gary Darling"
-"ATL199608110",63,"ej,bayld001,M,riekr901,Call at HP Rockies manager Don Baylor ejected by HP umpire Rich Rieker"
-"ATL199608170",41,"$Pirates coach May ejected by 3B umpire Winters for arguing balls and strikes at end of visitor's 5th"
-"ATL199608180",68,"ej,bellj001,P,riekr901,Called third strike (threw bat) Jay Bell ejected by HP umpire Rich Rieker"
-"ATL199608220",73,"ej,knigr001,M,bonig901,Balls and strikes Reds manager Ray Knight ejected by HP umpire Greg Bonin"
-"ATL199609080",2,"Debut game for Jason Hardtke"
-"ATL199609190",10,"Debut game for Vladimir Guerrero"
+"ATL199604030",37,"Debut game for Steve Bourgeois"FILENAME_TX","LINE_NUMBER_CT"
+
+"ATL199604030",66,"Debut game for Tyler Houston"1996ATL.EVN.regular.comment.csv",2
+
+"ATL199604050",79,"$Royce Clayton called for interference"1996ATL.EVN.regular.comment.csv",3
+
+"ATL199604050",100,"ej,waltj001,P,bonig901,Called third strike Jerome Walton ejected by HP umpire Greg Bonin"1996ATL.EVN.regular.comment.csv",4
+
+"ATL199604070",1,"Debut game for Mike Busby"1996ATL.EVN.regular.comment.csv",5
+
+"ATL199604190",6,"Debut game for Tony Graffanino"1996ATL.EVN.regular.comment.csv",6
+
+"ATL199605170",41,"Debut game for Jermaine Dye"1996ATL.EVN.regular.comment.csv",7
+
+"ATL199608070",81,"game called for rain"1996ATL.EVN.regular.comment.csv",8
+
+"ATL199608080",1,"Debut game for Matt Beech"1996ATL.EVN.regular.comment.csv",9
+
+"ATL199608090",50,"ej,cox-b103,M,darlg901,Balls and strikes Braves manager Bobby Cox ejected by HP umpire Gary Darling"1996ATL.EVN.regular.comment.csv",10
+
+"ATL199608110",63,"ej,bayld001,M,riekr901,Call at HP Rockies manager Don Baylor ejected by HP umpire Rich Rieker"1996ATL.EVN.regular.comment.csv",11
+
+"ATL199608170",41,"$Pirates coach May ejected by 3B umpire Winters for arguing balls and strikes at end of visitor's 5th"1996ATL.EVN.regular.comment.csv",12
+
+"ATL199608180",68,"ej,bellj001,P,riekr901,Called third strike (threw bat) Jay Bell ejected by HP umpire Rich Rieker"1996ATL.EVN.regular.comment.csv",13
+
+"ATL199608220",73,"ej,knigr001,M,bonig901,Balls and strikes Reds manager Ray Knight ejected by HP umpire Greg Bonin"1996ATL.EVN.regular.comment.csv",14
+
+"ATL199609080",2,"Debut game for Jason Hardtke"1996ATL.EVN.regular.comment.csv",15
+
+"ATL199609190",10,"Debut game for Vladimir Guerrero"1996ATL.EVN.regular.comment.csv",16
+

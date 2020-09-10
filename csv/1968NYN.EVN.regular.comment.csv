@@ -1,57 +1,56 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"NYN196805020",0,"$Nolan Ryan: 136 pitches; Woodie Fryman: 67 pitches"
-"NYN196805020",56,"13 minute rain delay"
-"NYN196805020",56,"ej,boozj101,P,varge901,Repeatedly going to mouth during warmup ej,maucg101,M,varge901,Arguing called ball for going to mouth $3 balls called while John Boozer warmed up as he went to his mouth; Boozer and Phillies Manager Gene Mauch ejected by HP umpire Ed Vargo"
-"NYN196805040",0,"$Dick Selma: 115 pitches; Ken Holtzman: 56 pitches"
-"NYN196805051",0,"$Jerry Koosman: 93 pitches; Fergie Jenkins: 113 pitches"
-"NYN196805052",0,"$Don Cardwell: 106 pitches; Bill Hands: 110 pitches"
-"NYN196805170",45,"$Tommie Agee sprained an ankle"
-"NYN196806182",23,"$Jim Wynn injured at HP while scoring"
-"NYN196806190",35,"$Dave Adlesh called out on appeal for missing 1B"
-"NYN196807030",25,"$Ed Kranepool called for obstruction on the pickoff when he fell over Maury Wills, pinning him down"
-"NYN196807111",0,"$Dick Selma: 96 pitches; Fergie Jenkins: 105 pitches"
-"NYN196807112",0,"$Don Cardwell: 110 pitches; Bill Hands: 114 pitches"
-"NYN196807120",0,"$Jerry Koosman: 124 pitches; Ken Holtzman: 100 pitches"
-"NYN196807130",0,"$Tom Seaver: 126 pitches; Gary Ross: 88 pitches"
-"NYN196807141",22,"$first pitch called ball when Al Jackson went to mouth"
-"NYN196808140",0,"Jerry Koosman: 109 pitches (73 strikes)"
-"NYN196808160",82,"63 minute rain delay"
-"NYN196808210",55,"$10 minute delay due to bomb threat after someone reported a bomb in the stadium"
-"NYN196808282",66,"ej,brisd801,M,lands901,Catch/trap call Reds Manager Dave Bristol ejected by 3B umpire Stan Landes for arguing that Bud Harrelson had caught the ball when the umpires ruled it a trap"
-"NYN196809022",52,"missing play in NYN196809022"
-"NYN196809022",53,"game called on account of rain"
-"NYN196809031",57,"Debut game for Ralph Garr"
-"NYN196809130",36,"$Bud Harrelson missed a bunt attempt; Jerry May made a bad throw during the rundown"
-"NYN196809150",0,"Debut for umpire Nick Colosi"
-"NYN196809170",0,"Protest=V"
-"NYN196809170",35,"ej,hundr101,P,varge901,Call at HP (Kicked dirt on plate) Randy Hundley ejected by HP umpire Ed Vargo; the Cubs protest the game"
-"NYN196809180",0,"$Jerry Koosman: 135 pitches; Bill Hands: 74 pitches"
-"NYN196809280",42,"off RF pole"
-"NYN196805020",0,"$Nolan Ryan: 136 pitches; Woodie Fryman: 67 pitches"
-"NYN196805020",56,"13 minute rain delay"
-"NYN196805020",56,"ej,boozj101,P,varge901,Repeatedly going to mouth during warmup ej,maucg101,M,varge901,Arguing called ball for going to mouth $3 balls called while John Boozer warmed up as he went to his mouth; Boozer and Phillies Manager Gene Mauch ejected by HP umpire Ed Vargo"
-"NYN196805040",0,"$Dick Selma: 115 pitches; Ken Holtzman: 56 pitches"
-"NYN196805051",0,"$Jerry Koosman: 93 pitches; Fergie Jenkins: 113 pitches"
-"NYN196805052",0,"$Don Cardwell: 106 pitches; Bill Hands: 110 pitches"
-"NYN196805170",45,"$Tommie Agee sprained an ankle"
-"NYN196806182",23,"$Jim Wynn injured at HP while scoring"
-"NYN196806190",35,"$Dave Adlesh called out on appeal for missing 1B"
-"NYN196807030",25,"$Ed Kranepool called for obstruction on the pickoff when he fell over Maury Wills, pinning him down"
-"NYN196807111",0,"$Dick Selma: 96 pitches; Fergie Jenkins: 105 pitches"
-"NYN196807112",0,"$Don Cardwell: 110 pitches; Bill Hands: 114 pitches"
-"NYN196807120",0,"$Jerry Koosman: 124 pitches; Ken Holtzman: 100 pitches"
-"NYN196807130",0,"$Tom Seaver: 126 pitches; Gary Ross: 88 pitches"
-"NYN196807141",22,"$first pitch called ball when Al Jackson went to mouth"
-"NYN196808140",0,"Jerry Koosman: 109 pitches (73 strikes)"
-"NYN196808160",82,"63 minute rain delay"
-"NYN196808210",55,"$10 minute delay due to bomb threat after someone reported a bomb in the stadium"
-"NYN196808282",66,"ej,brisd801,M,lands901,Catch/trap call Reds Manager Dave Bristol ejected by 3B umpire Stan Landes for arguing that Bud Harrelson had caught the ball when the umpires ruled it a trap"
-"NYN196809022",52,"missing play in NYN196809022"
-"NYN196809022",53,"game called on account of rain"
-"NYN196809031",57,"Debut game for Ralph Garr"
-"NYN196809130",36,"$Bud Harrelson missed a bunt attempt; Jerry May made a bad throw during the rundown"
-"NYN196809150",0,"Debut for umpire Nick Colosi"
-"NYN196809170",0,"Protest=V"
-"NYN196809170",35,"ej,hundr101,P,varge901,Call at HP (Kicked dirt on plate) Randy Hundley ejected by HP umpire Ed Vargo; the Cubs protest the game"
-"NYN196809180",0,"$Jerry Koosman: 135 pitches; Bill Hands: 74 pitches"
-"NYN196809280",42,"off RF pole"
+"NYN196805020",0,"$Nolan Ryan: 136 pitches; Woodie Fryman: 67 pitches"FILENAME_TX","LINE_NUMBER_CT"
+
+"NYN196805020",56,"13 minute rain delay"1968NYN.EVN.regular.comment.csv",2
+
+"NYN196805020",56,"ej,boozj101,P,varge901,Repeatedly going to mouth during warmup ej,maucg101,M,varge901,Arguing called ball for going to mouth $3 balls called while John Boozer warmed up as he went to his mouth; Boozer and Phillies Manager Gene Mauch ejected by HP umpire Ed Vargo"1968NYN.EVN.regular.comment.csv",3
+
+"NYN196805040",0,"$Dick Selma: 115 pitches; Ken Holtzman: 56 pitches"1968NYN.EVN.regular.comment.csv",4
+
+"NYN196805051",0,"$Jerry Koosman: 93 pitches; Fergie Jenkins: 113 pitches"1968NYN.EVN.regular.comment.csv",5
+
+"NYN196805052",0,"$Don Cardwell: 106 pitches; Bill Hands: 110 pitches"1968NYN.EVN.regular.comment.csv",6
+
+"NYN196805170",45,"$Tommie Agee sprained an ankle"1968NYN.EVN.regular.comment.csv",7
+
+"NYN196806182",23,"$Jim Wynn injured at HP while scoring"1968NYN.EVN.regular.comment.csv",8
+
+"NYN196806190",35,"$Dave Adlesh called out on appeal for missing 1B"1968NYN.EVN.regular.comment.csv",9
+
+"NYN196807030",25,"$Ed Kranepool called for obstruction on the pickoff when he fell over Maury Wills, pinning him down"1968NYN.EVN.regular.comment.csv",10
+
+"NYN196807111",0,"$Dick Selma: 96 pitches; Fergie Jenkins: 105 pitches"1968NYN.EVN.regular.comment.csv",11
+
+"NYN196807112",0,"$Don Cardwell: 110 pitches; Bill Hands: 114 pitches"1968NYN.EVN.regular.comment.csv",12
+
+"NYN196807120",0,"$Jerry Koosman: 124 pitches; Ken Holtzman: 100 pitches"1968NYN.EVN.regular.comment.csv",13
+
+"NYN196807130",0,"$Tom Seaver: 126 pitches; Gary Ross: 88 pitches"1968NYN.EVN.regular.comment.csv",14
+
+"NYN196807141",22,"$first pitch called ball when Al Jackson went to mouth"1968NYN.EVN.regular.comment.csv",15
+
+"NYN196808140",0,"Jerry Koosman: 109 pitches (73 strikes)"1968NYN.EVN.regular.comment.csv",16
+
+"NYN196808160",82,"63 minute rain delay"1968NYN.EVN.regular.comment.csv",17
+
+"NYN196808210",55,"$10 minute delay due to bomb threat after someone reported a bomb in the stadium"1968NYN.EVN.regular.comment.csv",18
+
+"NYN196808282",66,"ej,brisd801,M,lands901,Catch/trap call Reds Manager Dave Bristol ejected by 3B umpire Stan Landes for arguing that Bud Harrelson had caught the ball when the umpires ruled it a trap"1968NYN.EVN.regular.comment.csv",19
+
+"NYN196809022",52,"missing play in NYN196809022"1968NYN.EVN.regular.comment.csv",20
+
+"NYN196809022",53,"game called on account of rain"1968NYN.EVN.regular.comment.csv",21
+
+"NYN196809031",57,"Debut game for Ralph Garr"1968NYN.EVN.regular.comment.csv",22
+
+"NYN196809130",36,"$Bud Harrelson missed a bunt attempt; Jerry May made a bad throw during the rundown"1968NYN.EVN.regular.comment.csv",23
+
+"NYN196809150",0,"Debut for umpire Nick Colosi"1968NYN.EVN.regular.comment.csv",24
+
+"NYN196809170",0,"Protest=V"1968NYN.EVN.regular.comment.csv",25
+
+"NYN196809170",35,"ej,hundr101,P,varge901,Call at HP (Kicked dirt on plate) Randy Hundley ejected by HP umpire Ed Vargo; the Cubs protest the game"1968NYN.EVN.regular.comment.csv",26
+
+"NYN196809180",0,"$Jerry Koosman: 135 pitches; Bill Hands: 74 pitches"1968NYN.EVN.regular.comment.csv",27
+
+"NYN196809280",42,"off RF pole"1968NYN.EVN.regular.comment.csv",28
+

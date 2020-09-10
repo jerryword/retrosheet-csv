@@ -1,61 +1,60 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"CHN195504120",30,"$Tony Jacobs dropped Stan Musial's difficult throw; Gale Wade thought he was out and walked off the baseline after missing 1B"
-"CHN195504120",48,"$fan interference"
-"CHN195504200",63,"8th inning reconstructed from box"
-"CHN195504200",76,"home 9th reconstructed from box"
-"CHN195504230",39,"Warren Hacker left with unknown injury"
-"CHN195504230",52,"ej,greej102,P,gorea901,Called strike 3 $Greengrass ejected by HP umpire Gore for arguing strike 3"
-"CHN195505120",0,"$Sam Jones: 136 pitches"
-"CHN195505140",44,"$the throw went into the dugout"
-"CHN195505182",24,"ej,hacks101,M,lands901,Call at 3B Cubs Manager Stan Hack ejected by 3B umpire Stan Landes"
-"CHN195506170",56,"possible missing assist"
-"CHN195506180",40,"ej,smitm105,M,gorea901,Call at 1B (Reversed) $Robin Roberts intentionally dropped the bunted popup; Gene Baker, thinking the ball would be caught, remained at 1B; when Roberts threw to Marv Blaylock, 1B umpire Hal Dixon called both runners out, thinking Roberts had caught the fly; Cubs manager Stan Hack and coach Ray Blades argued the decision; Dixon reversed his ruling and declared Baker safe and Baumholtz out on the catch; Phillies Manager Mayo Smith ejected by 3B umpire Artie Gore"
-"CHN195506192",67,"$game called due to darkness"
-"CHN195506230",73,"$low throw bounced into dugout"
-"CHN195506240",25,"$Lloyd Merriman rounding 1B and injured ankle"
-"CHN195506250",38,"missing play in CHN195506250"
-"CHN195507070",64,"ej,kingj101,P,goetl901,Called third strike Jim King ejected by HP umpire Larry Goetz"
-"CHN195507271",1,"$DWS: bogus FLE2"
-"CHN195507280",23,"Ruben Gomez left with muscle spasms in his shoulder"
-"CHN195507300",7,"$Curt Simmons left with shoulder stiffness after four pitches"
-"CHN195507300",46,"missing play in CHN195507300"
-"CHN195507300",69,"missing play in CHN195507300"
-"CHN195507312",9,"Into RF ramps"
-"CHN195507312",60,"Landed 5 rows up into RF bleachers"
-"CHN195507312",63,"$Hit in the small of the back"
-"CHN195508031",37,"ej,freeg102,P,donaa901,Call at 1B Gene Freese ejected by 1B umpire Augie Donatelli"
-"CHN195509040",49,"$Ernie Banks left with pulled muscle in right thigh"
-"CHN195509100",24,"43 minute rain delay"
-"CHN195509100",54,"game called after 40 minute rain delay"
-"CHN195509110",29,"Into LCF bleachers against a stout breeze"
-"CHN195509110",49,"Into Waveland Avenue"
-"CHN195504120",30,"$Tony Jacobs dropped Stan Musial's difficult throw; Gale Wade thought he was out and walked off the baseline after missing 1B"
-"CHN195504120",48,"$fan interference"
-"CHN195504200",63,"8th inning reconstructed from box"
-"CHN195504200",76,"home 9th reconstructed from box"
-"CHN195504230",39,"Warren Hacker left with unknown injury"
-"CHN195504230",52,"ej,greej102,P,gorea901,Called strike 3 $Greengrass ejected by HP umpire Gore for arguing strike 3"
-"CHN195505120",0,"$Sam Jones: 136 pitches"
-"CHN195505140",44,"$the throw went into the dugout"
-"CHN195505182",24,"ej,hacks101,M,lands901,Call at 3B Cubs Manager Stan Hack ejected by 3B umpire Stan Landes"
-"CHN195506170",56,"possible missing assist"
-"CHN195506180",40,"ej,smitm105,M,gorea901,Call at 1B (Reversed) $Robin Roberts intentionally dropped the bunted popup; Gene Baker, thinking the ball would be caught, remained at 1B; when Roberts threw to Marv Blaylock, 1B umpire Hal Dixon called both runners out, thinking Roberts had caught the fly; Cubs manager Stan Hack and coach Ray Blades argued the decision; Dixon reversed his ruling and declared Baker safe and Baumholtz out on the catch; Phillies Manager Mayo Smith ejected by 3B umpire Artie Gore"
-"CHN195506192",67,"$game called due to darkness"
-"CHN195506230",73,"$low throw bounced into dugout"
-"CHN195506240",25,"$Lloyd Merriman rounding 1B and injured ankle"
-"CHN195506250",38,"missing play in CHN195506250"
-"CHN195507070",64,"ej,kingj101,P,goetl901,Called third strike Jim King ejected by HP umpire Larry Goetz"
-"CHN195507271",1,"$DWS: bogus FLE2"
-"CHN195507280",23,"Ruben Gomez left with muscle spasms in his shoulder"
-"CHN195507300",7,"$Curt Simmons left with shoulder stiffness after four pitches"
-"CHN195507300",46,"missing play in CHN195507300"
-"CHN195507300",69,"missing play in CHN195507300"
-"CHN195507312",9,"Into RF ramps"
-"CHN195507312",60,"Landed 5 rows up into RF bleachers"
-"CHN195507312",63,"$Hit in the small of the back"
-"CHN195508031",37,"ej,freeg102,P,donaa901,Call at 1B Gene Freese ejected by 1B umpire Augie Donatelli"
-"CHN195509040",49,"$Ernie Banks left with pulled muscle in right thigh"
-"CHN195509100",24,"43 minute rain delay"
-"CHN195509100",54,"game called after 40 minute rain delay"
-"CHN195509110",29,"Into LCF bleachers against a stout breeze"
-"CHN195509110",49,"Into Waveland Avenue"
+"CHN195504120",30,"$Tony Jacobs dropped Stan Musial's difficult throw; Gale Wade thought he was out and walked off the baseline after missing 1B"FILENAME_TX","LINE_NUMBER_CT"
+
+"CHN195504120",48,"$fan interference"1955CHN.EVN.regular.comment.csv",2
+
+"CHN195504200",63,"8th inning reconstructed from box"1955CHN.EVN.regular.comment.csv",3
+
+"CHN195504200",76,"home 9th reconstructed from box"1955CHN.EVN.regular.comment.csv",4
+
+"CHN195504230",39,"Warren Hacker left with unknown injury"1955CHN.EVN.regular.comment.csv",5
+
+"CHN195504230",52,"ej,greej102,P,gorea901,Called strike 3 $Greengrass ejected by HP umpire Gore for arguing strike 3"1955CHN.EVN.regular.comment.csv",6
+
+"CHN195505120",0,"$Sam Jones: 136 pitches"1955CHN.EVN.regular.comment.csv",7
+
+"CHN195505140",44,"$the throw went into the dugout"1955CHN.EVN.regular.comment.csv",8
+
+"CHN195505182",24,"ej,hacks101,M,lands901,Call at 3B Cubs Manager Stan Hack ejected by 3B umpire Stan Landes"1955CHN.EVN.regular.comment.csv",9
+
+"CHN195506170",56,"possible missing assist"1955CHN.EVN.regular.comment.csv",10
+
+"CHN195506180",40,"ej,smitm105,M,gorea901,Call at 1B (Reversed) $Robin Roberts intentionally dropped the bunted popup; Gene Baker, thinking the ball would be caught, remained at 1B; when Roberts threw to Marv Blaylock, 1B umpire Hal Dixon called both runners out, thinking Roberts had caught the fly; Cubs manager Stan Hack and coach Ray Blades argued the decision; Dixon reversed his ruling and declared Baker safe and Baumholtz out on the catch; Phillies Manager Mayo Smith ejected by 3B umpire Artie Gore"1955CHN.EVN.regular.comment.csv",11
+
+"CHN195506192",67,"$game called due to darkness"1955CHN.EVN.regular.comment.csv",12
+
+"CHN195506230",73,"$low throw bounced into dugout"1955CHN.EVN.regular.comment.csv",13
+
+"CHN195506240",25,"$Lloyd Merriman rounding 1B and injured ankle"1955CHN.EVN.regular.comment.csv",14
+
+"CHN195506250",38,"missing play in CHN195506250"1955CHN.EVN.regular.comment.csv",15
+
+"CHN195507070",64,"ej,kingj101,P,goetl901,Called third strike Jim King ejected by HP umpire Larry Goetz"1955CHN.EVN.regular.comment.csv",16
+
+"CHN195507271",1,"$DWS: bogus FLE2"1955CHN.EVN.regular.comment.csv",17
+
+"CHN195507280",23,"Ruben Gomez left with muscle spasms in his shoulder"1955CHN.EVN.regular.comment.csv",18
+
+"CHN195507300",7,"$Curt Simmons left with shoulder stiffness after four pitches"1955CHN.EVN.regular.comment.csv",19
+
+"CHN195507300",46,"missing play in CHN195507300"1955CHN.EVN.regular.comment.csv",20
+
+"CHN195507300",69,"missing play in CHN195507300"1955CHN.EVN.regular.comment.csv",21
+
+"CHN195507312",9,"Into RF ramps"1955CHN.EVN.regular.comment.csv",22
+
+"CHN195507312",60,"Landed 5 rows up into RF bleachers"1955CHN.EVN.regular.comment.csv",23
+
+"CHN195507312",63,"$Hit in the small of the back"1955CHN.EVN.regular.comment.csv",24
+
+"CHN195508031",37,"ej,freeg102,P,donaa901,Call at 1B Gene Freese ejected by 1B umpire Augie Donatelli"1955CHN.EVN.regular.comment.csv",25
+
+"CHN195509040",49,"$Ernie Banks left with pulled muscle in right thigh"1955CHN.EVN.regular.comment.csv",26
+
+"CHN195509100",24,"43 minute rain delay"1955CHN.EVN.regular.comment.csv",27
+
+"CHN195509100",54,"game called after 40 minute rain delay"1955CHN.EVN.regular.comment.csv",28
+
+"CHN195509110",29,"Into LCF bleachers against a stout breeze"1955CHN.EVN.regular.comment.csv",29
+
+"CHN195509110",49,"Into Waveland Avenue"1955CHN.EVN.regular.comment.csv",30
+

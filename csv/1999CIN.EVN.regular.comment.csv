@@ -1,31 +1,30 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"CIN199904050",82,"Debut game for Scott Williamson"
-"CIN199904060",23,"Debut game for Miguel DelToro"
-"CIN199904060",52,"Debut game for Edwards Guzman"
-"CIN199905030",19,"umpchange,2,umphome,monte901 umpchange,2,ump2b,(None) $HP umpire Danley left with dehydration; 2B umpire Montague went behind plate, game finished with 3 umpires"
-"CIN199905090",79,"Debut game for Bo Porter"
-"CIN199905270",74,"ej,morrh001,P,nauep901,Balls and strikes Hal Morris ejected by HP umpire Paul Nauert"
-"CIN199906120",79,"ej,alomr001,P,drecb901,Balls and strikes Roberto Alomar ejected by HP umpire Bruce Dreckman"
-"CIN199906150",53,"Debut game for Jason LaRue"
-"CIN199906190",8,"Debut game for Rick Greene"
-"CIN199906290",75,"Debut game for Vicente Padilla"
-"CIN199908300",65,"Debut game for David Cortes"
-"CIN199909100",57,"Debut game for Julio Ramirez"
-"CIN199909100",66,"ej,oestr001,C,wintm901,Unknown reason Reds coach Ron Oester ejected by HP umpire Mike Winters"
-"CIN199909150",17,"ej,pentj801,C,gormb901,Check swing ej,riggj801,M,gormb901,Check swing Cubs manager Jim Riggleman and coach Jeff Pentland ejected by HP umpire Brian Gorman sometime"
-"CIN199909160",73,"ej,gaetg001,P,cuzzp901,Balls and strikes Gary Gaetti ejected by HP umpire Phil Cuzzi"
-"CIN199904050",82,"Debut game for Scott Williamson"
-"CIN199904060",23,"Debut game for Miguel DelToro"
-"CIN199904060",52,"Debut game for Edwards Guzman"
-"CIN199905030",19,"umpchange,2,umphome,monte901 umpchange,2,ump2b,(None) $HP umpire Danley left with dehydration; 2B umpire Montague went behind plate, game finished with 3 umpires"
-"CIN199905090",79,"Debut game for Bo Porter"
-"CIN199905270",74,"ej,morrh001,P,nauep901,Balls and strikes Hal Morris ejected by HP umpire Paul Nauert"
-"CIN199906120",79,"ej,alomr001,P,drecb901,Balls and strikes Roberto Alomar ejected by HP umpire Bruce Dreckman"
-"CIN199906150",53,"Debut game for Jason LaRue"
-"CIN199906190",8,"Debut game for Rick Greene"
-"CIN199906290",75,"Debut game for Vicente Padilla"
-"CIN199908300",65,"Debut game for David Cortes"
-"CIN199909100",57,"Debut game for Julio Ramirez"
-"CIN199909100",66,"ej,oestr001,C,wintm901,Unknown reason Reds coach Ron Oester ejected by HP umpire Mike Winters"
-"CIN199909150",17,"ej,pentj801,C,gormb901,Check swing ej,riggj801,M,gormb901,Check swing $Cubs manager Riggleman and coach Pentland ejected by HP umpire Gorman for arguing check swing strike 3 by Lieber"
-"CIN199909160",73,"ej,gaetg001,P,cuzzp901,Balls and strikes Gary Gaetti ejected by HP umpire Phil Cuzzi"
+"CIN199904050",82,"Debut game for Scott Williamson"FILENAME_TX","LINE_NUMBER_CT"
+
+"CIN199904060",23,"Debut game for Miguel DelToro"1999CIN.EVN.regular.comment.csv",2
+
+"CIN199904060",52,"Debut game for Edwards Guzman"1999CIN.EVN.regular.comment.csv",3
+
+"CIN199905030",19,"umpchange,2,umphome,monte901 umpchange,2,ump2b,(None) $HP umpire Danley left with dehydration; 2B umpire Montague went behind plate, game finished with 3 umpires"1999CIN.EVN.regular.comment.csv",4
+
+"CIN199905090",79,"Debut game for Bo Porter"1999CIN.EVN.regular.comment.csv",5
+
+"CIN199905270",74,"ej,morrh001,P,nauep901,Balls and strikes Hal Morris ejected by HP umpire Paul Nauert"1999CIN.EVN.regular.comment.csv",6
+
+"CIN199906120",79,"ej,alomr001,P,drecb901,Balls and strikes Roberto Alomar ejected by HP umpire Bruce Dreckman"1999CIN.EVN.regular.comment.csv",7
+
+"CIN199906150",53,"Debut game for Jason LaRue"1999CIN.EVN.regular.comment.csv",8
+
+"CIN199906190",8,"Debut game for Rick Greene"1999CIN.EVN.regular.comment.csv",9
+
+"CIN199906290",75,"Debut game for Vicente Padilla"1999CIN.EVN.regular.comment.csv",10
+
+"CIN199908300",65,"Debut game for David Cortes"1999CIN.EVN.regular.comment.csv",11
+
+"CIN199909100",57,"Debut game for Julio Ramirez"1999CIN.EVN.regular.comment.csv",12
+
+"CIN199909100",66,"ej,oestr001,C,wintm901,Unknown reason Reds coach Ron Oester ejected by HP umpire Mike Winters"1999CIN.EVN.regular.comment.csv",13
+
+"CIN199909150",17,"ej,pentj801,C,gormb901,Check swing ej,riggj801,M,gormb901,Check swing $Cubs manager Riggleman and coach Pentland ejected by HP umpire Gorman for arguing check swing strike 3 by Lieber"1999CIN.EVN.regular.comment.csv",14
+
+"CIN199909160",73,"ej,gaetg001,P,cuzzp901,Balls and strikes Gary Gaetti ejected by HP umpire Phil Cuzzi"1999CIN.EVN.regular.comment.csv",15
+

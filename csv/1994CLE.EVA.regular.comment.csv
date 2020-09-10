@@ -1,17 +1,16 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"CLE199404040",70,"$Omar Vizquel called for interference; Debut game for Tim Davis"
-"CLE199404260",59,"fan interference"
-"CLE199404290",2,"$Oddibe McDowell called for interference"
-"CLE199405280",62,"ej,murre001,P,mckej901,Balls and strikes Eddie Murray ejected by HP umpire Jim McKean"
-"CLE199406180",0,"ej,russj001,P,koscg901,Arguing fair/foul call (from bench) Jeff Russell ejected by 1B umpire Greg Kosc from the bench sometime in game"
-"CLE199406240",0,"Suspend=19940625,,9,5,42"
-"CLE199406240",80,"suspended,19940625,CLE08,curfew $Game suspended for curfew at this point, resumed on 06-25"
-"CLE199406260",0,"ej,hargm001,M,reedr901,Balls and strikes ej,nelsd101,C,reedr901,Balls and strikes Indians manager Mike Hargrove and coach Dave Nelson ejected by HP umpire Rick Reed sometime in game"
-"CLE199404040",70,"$Omar Vizquel called for interference; Debut game for Tim Davis"
-"CLE199404260",59,"fan interference"
-"CLE199404290",2,"$Oddibe McDowell called for interference"
-"CLE199405280",62,"ej,murre001,P,mckej901,Balls and strikes Eddie Murray ejected by HP umpire Jim McKean"
-"CLE199406180",0,"ej,russj001,P,koscg901,Arguing fair/foul call (from bench) Jeff Russell ejected by 1B umpire Greg Kosc from the bench sometime in game"
-"CLE199406240",0,"Suspend=19940625,,9,5,42"
-"CLE199406240",80,"suspended,19940625,CLE08,curfew $Game suspended for curfew at this point, resumed on 06-25"
-"CLE199406260",25,"ej,hargm001,M,reedr901,Balls and strikes ej,nelsd101,C,reedr901,Balls and strikes $Indians manager Hargrove and coach Nelson ejected by HP umpire Reed for arguing balls and strikes while Stanley was at bat"
+"CLE199404040",70,"$Omar Vizquel called for interference; Debut game for Tim Davis"FILENAME_TX","LINE_NUMBER_CT"
+
+"CLE199404260",59,"fan interference"1994CLE.EVA.regular.comment.csv",2
+
+"CLE199404290",2,"$Oddibe McDowell called for interference"1994CLE.EVA.regular.comment.csv",3
+
+"CLE199405280",62,"ej,murre001,P,mckej901,Balls and strikes Eddie Murray ejected by HP umpire Jim McKean"1994CLE.EVA.regular.comment.csv",4
+
+"CLE199406180",0,"ej,russj001,P,koscg901,Arguing fair/foul call (from bench) Jeff Russell ejected by 1B umpire Greg Kosc from the bench sometime in game"1994CLE.EVA.regular.comment.csv",5
+
+"CLE199406240",0,"Suspend=19940625,,9,5,42"1994CLE.EVA.regular.comment.csv",6
+
+"CLE199406240",80,"suspended,19940625,CLE08,curfew $Game suspended for curfew at this point, resumed on 06-25"1994CLE.EVA.regular.comment.csv",7
+
+"CLE199406260",25,"ej,hargm001,M,reedr901,Balls and strikes ej,nelsd101,C,reedr901,Balls and strikes $Indians manager Hargrove and coach Nelson ejected by HP umpire Reed for arguing balls and strikes while Stanley was at bat"1994CLE.EVA.regular.comment.csv",8
+

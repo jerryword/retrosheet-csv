@@ -1,87 +1,86 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"CHN193404280",74,"No PBP for 9th."
-"CHN193405040",27,"rain started"
-"CHN193405040",46,"rain stopped"
-"CHN193405040",52,"$wind-blown"
-"CHN193405060",68,"$Elliott injured on play."
-"CHN193405060",71,"$Tinning injured shoulder."
-"CHN193405070",22,"$Gabby Hartnett lost track of the number of outs"
-"CHN193405080",84,"No PBP for bottom of 9th."
-"CHN193405090",78,"DWS: previous two plays really one"
-"CHN193405110",55,"ej,grimc101,M,quige901,Call at 1B Cubs Manager Charlie Grimm ejected by 1B umpire Ernie Quigley"
-"CHN193405110",62,"ej,jurgb101,P,quige901,Call at 1B Billy Jurges ejected by 1B umpire Ernie Quigley arguing call in seventh inning"
-"CHN193405120",47,"$Billy Herman injured his ankle sliding home"
-"CHN193405302",0,"$Overflow crowd onto field, creating ground rule double"
-"CHN193405302",25,"$Into the crowd."
-"CHN193405302",25,"$Klein injured his leg running to third base."
-"CHN193405302",47,"$Into the crowd."
-"CHN193405302",64,"$Into the crowd."
-"CHN193405302",65,"$Into the crowd."
-"CHN193406100",0,"Clear and cool"
-"CHN193406100",66,"3B throws home but there in no play"
-"CHN193406120",56,"$Chick Fullis thought Dick Bartell had been hit by pitch"
-"CHN193406150",38,"$Phil Collins injured ankle running to 1B"
-"CHN193406172",27,"$Herman ran Klein off 3rd and into DP"
-"CHN193406190",16,"$Woody English left with unknown illness"
-"CHN193406241",30,"$no one covered 3B"
-"CHN193406241",38,"$Don Hurst left with unknown illness"
-"CHN193406260",24,"ej,lopea102,P,riglc901,Call at 1B ej,stenc101,M,riglc901,Call at 1B Dodgers Manager Casey Stengel and Al Lopez ejected by 1B umpire Cy Rigler"
-"CHN193406260",56,"$Buzz Boyle tripped over 1B, injuring his leg and was carried off field"
-"CHN193407020",0,"Protest=X Suspend=19340731,,1,5,41"
-"CHN193407020",57,"ej,deand102,P,klemb901,Infield fly call ej,frisf101,M,klemb901,Infield fly call ej,gonzm101,C,klemb901,Infield fly call umpchange,7,umphome,quige901 umpchange,7,ump1b,stard901 umpchange,7,ump3b,barrg901 suspended,19340731,CHI11,infield fly $Chuck Klein's popup was blown into fair territory and no one could catch the ball; the Cardinals argued that Klein should have been out on the infield fly; HP umpire Bill Klem ruled that no one was in position to catch the ball; Cardinals Manager Frankie Frisch, Coach Mike Gonzalez and Dizzy Dean ejected by Klem; the Cardinals' protest was upheld and the game was replayed from this point on July 31 with new umpires; Cubs originally won 7-4"
-"CHN193407030",44,"$Leo Durocher called for interference at 2B"
-"CHN193407070",6,"$Traynor hit in face during warmup, but stayed in game after delay for first aid"
-"CHN193408020",10,"$Woody English had advanced to 3B on Kiki Cuyler's hit; Cardinal coach Mike Gonzalez complained that catcher Spud Davis had interfered with Cuyler's bat on the single; HP umpire George Barr sent English back to 2B"
-"CHN193408020",67,"DWS: pbp ends here, rest deduced"
-"CHN193408051",7,"$lost in the sun"
-"CHN193408161",59,"$Fred Frankhouse pulled a muscle pitching to Stan Hack;"
-"CHN193408230",5,"$Billy Herman hurt when Sam Leslie crashed into Herman"
-"CHN193408230",57,"DWS: pbp ends here, rest deduced"
-"CHN193408230",78,"$Al Lopez ran to 3B on sacrifice, where catcher Gabby Hartnett was covering; wild throw by Woody English allowed Lopez to score"
-"CHN193408240",17,"$Gabby Hartnett should have scored on the hit, but loafed and was three feet from HP when Bill Jurges was tagged out at 3B"
-"CHN193408240",42,"ej,grimc101,M,quige901,Call at 3B $Gabby Hartnett threw to 3B and apparently picked off Danny Taylor; base umpire Ernie Quigley ruled safe; Cubs Manager Charlie Grimm ejected by Quigley"
-"CHN193408280",8,"$Stan Hack thought the ball was caught"
-"CHN193409270",8,"$Ralph Birkofer made a wild throw to 3B"
-"CHN193404280",74,"No PBP for 9th."
-"CHN193405040",27,"rain started"
-"CHN193405040",46,"rain stopped"
-"CHN193405040",52,"$wind-blown"
-"CHN193405060",68,"$Elliott injured on play."
-"CHN193405060",71,"$Tinning injured shoulder."
-"CHN193405070",22,"$Gabby Hartnett lost track of the number of outs"
-"CHN193405080",84,"No PBP for bottom of 9th."
-"CHN193405090",78,"DWS: previous two plays really one"
-"CHN193405110",55,"ej,grimc101,M,quige901,Call at 1B Cubs Manager Charlie Grimm ejected by 1B umpire Ernie Quigley"
-"CHN193405110",62,"ej,jurgb101,P,quige901,Call at 1B Billy Jurges ejected by 1B umpire Ernie Quigley arguing call in seventh inning"
-"CHN193405120",47,"$Billy Herman injured his ankle sliding home"
-"CHN193405302",0,"$Overflow crowd onto field, creating ground rule double"
-"CHN193405302",25,"$Into the crowd."
-"CHN193405302",25,"$Klein injured his leg running to third base."
-"CHN193405302",47,"$Into the crowd."
-"CHN193405302",64,"$Into the crowd."
-"CHN193405302",65,"$Into the crowd."
-"CHN193406100",0,"Clear and cool"
-"CHN193406100",66,"3B throws home but there in no play"
-"CHN193406120",56,"$Chick Fullis thought Dick Bartell had been hit by pitch"
-"CHN193406150",38,"$Phil Collins injured ankle running to 1B"
-"CHN193406172",27,"$Herman ran Klein off 3rd and into DP"
-"CHN193406190",16,"$Woody English left with unknown illness"
-"CHN193406241",30,"$no one covered 3B"
-"CHN193406241",38,"$Don Hurst left with unknown illness"
-"CHN193406260",24,"ej,lopea102,P,riglc901,Call at 1B ej,stenc101,M,riglc901,Call at 1B Dodgers Manager Casey Stengel and Al Lopez ejected by 1B umpire Cy Rigler"
-"CHN193406260",56,"$Buzz Boyle tripped over 1B, injuring his leg and was carried off field"
-"CHN193407020",0,"Protest=X Suspend=19340731,,1,5,41"
-"CHN193407020",57,"ej,deand102,P,klemb901,Infield fly call ej,frisf101,M,klemb901,Infield fly call ej,gonzm101,C,klemb901,Infield fly call umpchange,7,umphome,quige901 umpchange,7,ump1b,stard901 umpchange,7,ump3b,barrg901 suspended,19340731,CHI11,infield fly $Chuck Klein's popup was blown into fair territory and no one could catch the ball; the Cardinals argued that Klein should have been out on the infield fly; HP umpire Bill Klem ruled that no one was in position to catch the ball; Cardinals Manager Frankie Frisch, Coach Mike Gonzalez and Dizzy Dean ejected by Klem; the Cardinals' protest was upheld and the game was replayed from this point on July 31 with new umpires; Cubs originally won 7-4"
-"CHN193407030",44,"$Leo Durocher called for interference at 2B"
-"CHN193407070",6,"$Traynor hit in face during warmup, but stayed in game after delay for first aid"
-"CHN193408020",10,"$Woody English had advanced to 3B on Kiki Cuyler's hit; Cardinal coach Mike Gonzalez complained that catcher Spud Davis had interfered with Cuyler's bat on the single; HP umpire George Barr sent English back to 2B"
-"CHN193408020",67,"DWS: pbp ends here, rest deduced"
-"CHN193408051",7,"$lost in the sun"
-"CHN193408161",59,"$Fred Frankhouse pulled a muscle pitching to Stan Hack;"
-"CHN193408230",5,"$Billy Herman hurt when Sam Leslie crashed into Herman"
-"CHN193408230",66,"DWS: pbp ends here, rest deduced"
-"CHN193408230",78,"$Al Lopez ran to 3B on sacrifice, where catcher Gabby Hartnett was covering; wild throw by Woody English allowed Lopez to score"
-"CHN193408240",17,"$Gabby Hartnett should have scored on the hit, but loafed and was three feet from HP when Bill Jurges was tagged out at 3B"
-"CHN193408240",42,"ej,grimc101,M,quige901,Call at 3B $Gabby Hartnett threw to 3B and apparently picked off Danny Taylor; base umpire Ernie Quigley ruled safe; Cubs Manager Charlie Grimm ejected by Quigley"
-"CHN193408280",8,"$Stan Hack thought the ball was caught"
-"CHN193409270",8,"$Ralph Birkofer made a wild throw to 3B"
+"CHN193404280",74,"No PBP for 9th."FILENAME_TX","LINE_NUMBER_CT"
+
+"CHN193405040",27,"rain started"1934CHN.EVN.regular.comment.csv",2
+
+"CHN193405040",46,"rain stopped"1934CHN.EVN.regular.comment.csv",3
+
+"CHN193405040",52,"$wind-blown"1934CHN.EVN.regular.comment.csv",4
+
+"CHN193405060",68,"$Elliott injured on play."1934CHN.EVN.regular.comment.csv",5
+
+"CHN193405060",71,"$Tinning injured shoulder."1934CHN.EVN.regular.comment.csv",6
+
+"CHN193405070",22,"$Gabby Hartnett lost track of the number of outs"1934CHN.EVN.regular.comment.csv",7
+
+"CHN193405080",84,"No PBP for bottom of 9th."1934CHN.EVN.regular.comment.csv",8
+
+"CHN193405090",78,"DWS: previous two plays really one"1934CHN.EVN.regular.comment.csv",9
+
+"CHN193405110",55,"ej,grimc101,M,quige901,Call at 1B Cubs Manager Charlie Grimm ejected by 1B umpire Ernie Quigley"1934CHN.EVN.regular.comment.csv",10
+
+"CHN193405110",62,"ej,jurgb101,P,quige901,Call at 1B Billy Jurges ejected by 1B umpire Ernie Quigley arguing call in seventh inning"1934CHN.EVN.regular.comment.csv",11
+
+"CHN193405120",47,"$Billy Herman injured his ankle sliding home"1934CHN.EVN.regular.comment.csv",12
+
+"CHN193405302",0,"$Overflow crowd onto field, creating ground rule double"1934CHN.EVN.regular.comment.csv",13
+
+"CHN193405302",25,"$Into the crowd."1934CHN.EVN.regular.comment.csv",14
+
+"CHN193405302",25,"$Klein injured his leg running to third base."1934CHN.EVN.regular.comment.csv",15
+
+"CHN193405302",47,"$Into the crowd."1934CHN.EVN.regular.comment.csv",16
+
+"CHN193405302",64,"$Into the crowd."1934CHN.EVN.regular.comment.csv",17
+
+"CHN193405302",65,"$Into the crowd."1934CHN.EVN.regular.comment.csv",18
+
+"CHN193406100",0,"Clear and cool"1934CHN.EVN.regular.comment.csv",19
+
+"CHN193406100",66,"3B throws home but there in no play"1934CHN.EVN.regular.comment.csv",20
+
+"CHN193406120",56,"$Chick Fullis thought Dick Bartell had been hit by pitch"1934CHN.EVN.regular.comment.csv",21
+
+"CHN193406150",38,"$Phil Collins injured ankle running to 1B"1934CHN.EVN.regular.comment.csv",22
+
+"CHN193406172",27,"$Herman ran Klein off 3rd and into DP"1934CHN.EVN.regular.comment.csv",23
+
+"CHN193406190",16,"$Woody English left with unknown illness"1934CHN.EVN.regular.comment.csv",24
+
+"CHN193406241",30,"$no one covered 3B"1934CHN.EVN.regular.comment.csv",25
+
+"CHN193406241",38,"$Don Hurst left with unknown illness"1934CHN.EVN.regular.comment.csv",26
+
+"CHN193406260",24,"ej,lopea102,P,riglc901,Call at 1B ej,stenc101,M,riglc901,Call at 1B Dodgers Manager Casey Stengel and Al Lopez ejected by 1B umpire Cy Rigler"1934CHN.EVN.regular.comment.csv",27
+
+"CHN193406260",56,"$Buzz Boyle tripped over 1B, injuring his leg and was carried off field"1934CHN.EVN.regular.comment.csv",28
+
+"CHN193407020",0,"Protest=X Suspend=19340731,,1,5,41"1934CHN.EVN.regular.comment.csv",29
+
+"CHN193407020",57,"ej,deand102,P,klemb901,Infield fly call ej,frisf101,M,klemb901,Infield fly call ej,gonzm101,C,klemb901,Infield fly call umpchange,7,umphome,quige901 umpchange,7,ump1b,stard901 umpchange,7,ump3b,barrg901 suspended,19340731,CHI11,infield fly $Chuck Klein's popup was blown into fair territory and no one could catch the ball; the Cardinals argued that Klein should have been out on the infield fly; HP umpire Bill Klem ruled that no one was in position to catch the ball; Cardinals Manager Frankie Frisch, Coach Mike Gonzalez and Dizzy Dean ejected by Klem; the Cardinals' protest was upheld and the game was replayed from this point on July 31 with new umpires; Cubs originally won 7-4"1934CHN.EVN.regular.comment.csv",30
+
+"CHN193407030",44,"$Leo Durocher called for interference at 2B"1934CHN.EVN.regular.comment.csv",31
+
+"CHN193407070",6,"$Traynor hit in face during warmup, but stayed in game after delay for first aid"1934CHN.EVN.regular.comment.csv",32
+
+"CHN193408020",10,"$Woody English had advanced to 3B on Kiki Cuyler's hit; Cardinal coach Mike Gonzalez complained that catcher Spud Davis had interfered with Cuyler's bat on the single; HP umpire George Barr sent English back to 2B"1934CHN.EVN.regular.comment.csv",33
+
+"CHN193408020",67,"DWS: pbp ends here, rest deduced"1934CHN.EVN.regular.comment.csv",34
+
+"CHN193408051",7,"$lost in the sun"1934CHN.EVN.regular.comment.csv",35
+
+"CHN193408161",59,"$Fred Frankhouse pulled a muscle pitching to Stan Hack;"1934CHN.EVN.regular.comment.csv",36
+
+"CHN193408230",5,"$Billy Herman hurt when Sam Leslie crashed into Herman"1934CHN.EVN.regular.comment.csv",37
+
+"CHN193408230",66,"DWS: pbp ends here, rest deduced"1934CHN.EVN.regular.comment.csv",38
+
+"CHN193408230",78,"$Al Lopez ran to 3B on sacrifice, where catcher Gabby Hartnett was covering; wild throw by Woody English allowed Lopez to score"1934CHN.EVN.regular.comment.csv",39
+
+"CHN193408240",17,"$Gabby Hartnett should have scored on the hit, but loafed and was three feet from HP when Bill Jurges was tagged out at 3B"1934CHN.EVN.regular.comment.csv",40
+
+"CHN193408240",42,"ej,grimc101,M,quige901,Call at 3B $Gabby Hartnett threw to 3B and apparently picked off Danny Taylor; base umpire Ernie Quigley ruled safe; Cubs Manager Charlie Grimm ejected by Quigley"1934CHN.EVN.regular.comment.csv",41
+
+"CHN193408280",8,"$Stan Hack thought the ball was caught"1934CHN.EVN.regular.comment.csv",42
+
+"CHN193409270",8,"$Ralph Birkofer made a wild throw to 3B"1934CHN.EVN.regular.comment.csv",43
+

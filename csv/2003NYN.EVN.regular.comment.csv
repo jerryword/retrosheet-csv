@@ -1,71 +1,70 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"NYN200304020",35,"Cubs Matt Clement left the game due to an injured back"
-"NYN200304050",27,"Mets Mo Vaughn left the game due to an injured leg"
-"NYN200304220",20,"Mets David Cone left the game due to an injured leg"
-"NYN200304230",72,"Mets Mike Piazza left the game due to an injured groin"
-"NYN200305100",1,"Debut game for Roger Deago"
-"NYN200305100",62,"Mets Scott Strickland left the game due to an injured leg"
-"NYN200305200",77,"Debut game for Jeff Duncan"
-"NYN200305300",0,"27 minute delay during game"
-"NYN200305310",0,"12 minute delay during game"
-"NYN200306051",43,"Debut game for Jeremy Griffiths"
-"NYN200306052",14,"Mets Tom Glavine left the game due to an injured elbow"
-"NYN200306081",0,"Debut for umpire James Hoye"
-"NYN200306200",7,"ej,burnj001,P,kulpr901,Balls and strikes Mets Jeromy Burnitz ejected by HP umpire Ron Kulpa"
-"NYN200306260",1,"Debut game for Aaron Heilman"
-"NYN200306282",1,"Debut game for Brandon Claussen"
-"NYN200306282",81,"ej,weatd001,P,timmt901,Balls and strikes David Weathers ejected by HP umpire Tim Timmons"
-"NYN200307020",35,"originally scored as E4/SH, changed to S4 next day"
-"NYN200307020",52,"originally Cabrera had RBI, changed 3 days later"
-"NYN200307070",0,"21 minute delay during game"
-"NYN200307070",53,"Debut game for Edwin Almonte"
-"NYN200307090",0,"44 minute delay during game"
-"NYN200307110",0,"36 minute delay during game"
-"NYN200307130",36,"ej,polap001,P,laynj901,Balls and strikes Phillies Placido Polanco ejected by HP umpire Jerry Layne"
-"NYN200307290",60,"$Brady Clark called for interference"
-"NYN200307310",40,"Brewers Wes Helms left the game due to an injured leg"
-"NYN200308010",0,"55 minute rain delay at start"
-"NYN200308120",52,"Giants J. T. Snow left the game due to an injured groin"
-"NYN200308130",6,"$Piazza's first game since 5/16 due to strained groin"
-"NYN200308130",62,"$Benito Santiago called for interference"
-"NYN200308150",61,"umpchange,8,umphome,randt901 umpchange,8,ump2b,(None) $HP umpire Klemm left when hit in head by barrel of shattered bat; 2B umpire Randazzo went behind plate and game finished with 3 umpires"
-"NYN200308160",46,"Helton fouled ball off leg in this AB, left for runner"
-"NYN200308160",67,"Line drive off right cheek/neck, stayed in game"
-"NYN200308310",62,"ej,ceder001,P,kulpr901,Balls and strikes Roger Cedeno ejected by HP umpire Ron Kulpa"
-"NYN200309020",8,"Debut game for Daniel Garcia"
-"NYN200309080",5,"ej,ceder001,P,gibsg901,Balls and strikes Mets Roger Cedeno ejected by HP umpire Greg Gibson"
-"NYN200304020",35,"Cubs Matt Clement left the game due to an injured back"
-"NYN200304050",27,"Mets Mo Vaughn left the game due to an injured leg"
-"NYN200304220",20,"Mets David Cone left the game due to an injured leg"
-"NYN200304230",72,"Mets Mike Piazza left the game due to an injured groin"
-"NYN200305100",1,"Debut game for Roger Deago"
-"NYN200305100",62,"Mets Scott Strickland left the game due to an injured leg"
-"NYN200305200",77,"Debut game for Jeff Duncan"
-"NYN200305300",0,"27 minute delay during game"
-"NYN200305310",0,"12 minute delay during game"
-"NYN200306051",43,"Debut game for Jeremy Griffiths"
-"NYN200306052",14,"Mets Tom Glavine left the game due to an injured elbow"
-"NYN200306081",0,"Debut for umpire James Hoye"
-"NYN200306200",7,"ej,burnj001,P,kulpr901,Balls and strikes Mets Jeromy Burnitz ejected by HP umpire Ron Kulpa"
-"NYN200306260",1,"Debut game for Aaron Heilman"
-"NYN200306282",1,"Debut game for Brandon Claussen"
-"NYN200306282",81,"ej,weatd001,P,timmt901,Balls and strikes $Pitcher Weathers ejected by HP umpire Timmons for arguing balls and strikes from the dugout"
-"NYN200307020",35,"originally scored as E4/SH, changed to S4 next day"
-"NYN200307020",52,"originally Cabrera had RBI, changed 3 days later"
-"NYN200307070",0,"21 minute delay during game"
-"NYN200307070",53,"Debut game for Edwin Almonte"
-"NYN200307090",0,"44 minute delay during game"
-"NYN200307110",0,"36 minute delay during game"
-"NYN200307130",36,"ej,polap001,P,laynj901,Balls and strikes Phillies Placido Polanco ejected by HP umpire Jerry Layne"
-"NYN200307290",60,"$Brady Clark called for interference"
-"NYN200307310",40,"Brewers Wes Helms left the game due to an injured leg"
-"NYN200308010",0,"55 minute rain delay at start"
-"NYN200308120",52,"Giants J. T. Snow left the game due to an injured groin"
-"NYN200308130",6,"$Piazza's first game since 5/16 due to strained groin"
-"NYN200308130",62,"$Benito Santiago called for interference"
-"NYN200308150",61,"umpchange,8,umphome,randt901 umpchange,8,ump2b,(None) $HP umpire Klemm left when hit in head by barrel of shattered bat; 2B umpire Randazzo went behind plate and game finished with 3 umpires"
-"NYN200308160",46,"Helton fouled ball off leg in this AB, left for runner"
-"NYN200308160",67,"Line drive off right cheek/neck, stayed in game"
-"NYN200308310",62,"ej,ceder001,P,kulpr901,Balls and strikes Roger Cedeno ejected by HP umpire Ron Kulpa"
-"NYN200309020",8,"Debut game for Daniel Garcia"
-"NYN200309080",5,"ej,ceder001,P,gibsg901,Balls and strikes Mets Roger Cedeno ejected by HP umpire Greg Gibson"
+"NYN200304020",35,"Cubs Matt Clement left the game due to an injured back"FILENAME_TX","LINE_NUMBER_CT"
+
+"NYN200304050",27,"Mets Mo Vaughn left the game due to an injured leg"2003NYN.EVN.regular.comment.csv",2
+
+"NYN200304220",20,"Mets David Cone left the game due to an injured leg"2003NYN.EVN.regular.comment.csv",3
+
+"NYN200304230",72,"Mets Mike Piazza left the game due to an injured groin"2003NYN.EVN.regular.comment.csv",4
+
+"NYN200305100",1,"Debut game for Roger Deago"2003NYN.EVN.regular.comment.csv",5
+
+"NYN200305100",62,"Mets Scott Strickland left the game due to an injured leg"2003NYN.EVN.regular.comment.csv",6
+
+"NYN200305200",77,"Debut game for Jeff Duncan"2003NYN.EVN.regular.comment.csv",7
+
+"NYN200305300",0,"27 minute delay during game"2003NYN.EVN.regular.comment.csv",8
+
+"NYN200305310",0,"12 minute delay during game"2003NYN.EVN.regular.comment.csv",9
+
+"NYN200306051",43,"Debut game for Jeremy Griffiths"2003NYN.EVN.regular.comment.csv",10
+
+"NYN200306052",14,"Mets Tom Glavine left the game due to an injured elbow"2003NYN.EVN.regular.comment.csv",11
+
+"NYN200306081",0,"Debut for umpire James Hoye"2003NYN.EVN.regular.comment.csv",12
+
+"NYN200306200",7,"ej,burnj001,P,kulpr901,Balls and strikes Mets Jeromy Burnitz ejected by HP umpire Ron Kulpa"2003NYN.EVN.regular.comment.csv",13
+
+"NYN200306260",1,"Debut game for Aaron Heilman"2003NYN.EVN.regular.comment.csv",14
+
+"NYN200306282",1,"Debut game for Brandon Claussen"2003NYN.EVN.regular.comment.csv",15
+
+"NYN200306282",81,"ej,weatd001,P,timmt901,Balls and strikes $Pitcher Weathers ejected by HP umpire Timmons for arguing balls and strikes from the dugout"2003NYN.EVN.regular.comment.csv",16
+
+"NYN200307020",35,"originally scored as E4/SH, changed to S4 next day"2003NYN.EVN.regular.comment.csv",17
+
+"NYN200307020",52,"originally Cabrera had RBI, changed 3 days later"2003NYN.EVN.regular.comment.csv",18
+
+"NYN200307070",0,"21 minute delay during game"2003NYN.EVN.regular.comment.csv",19
+
+"NYN200307070",53,"Debut game for Edwin Almonte"2003NYN.EVN.regular.comment.csv",20
+
+"NYN200307090",0,"44 minute delay during game"2003NYN.EVN.regular.comment.csv",21
+
+"NYN200307110",0,"36 minute delay during game"2003NYN.EVN.regular.comment.csv",22
+
+"NYN200307130",36,"ej,polap001,P,laynj901,Balls and strikes Phillies Placido Polanco ejected by HP umpire Jerry Layne"2003NYN.EVN.regular.comment.csv",23
+
+"NYN200307290",60,"$Brady Clark called for interference"2003NYN.EVN.regular.comment.csv",24
+
+"NYN200307310",40,"Brewers Wes Helms left the game due to an injured leg"2003NYN.EVN.regular.comment.csv",25
+
+"NYN200308010",0,"55 minute rain delay at start"2003NYN.EVN.regular.comment.csv",26
+
+"NYN200308120",52,"Giants J. T. Snow left the game due to an injured groin"2003NYN.EVN.regular.comment.csv",27
+
+"NYN200308130",6,"$Piazza's first game since 5/16 due to strained groin"2003NYN.EVN.regular.comment.csv",28
+
+"NYN200308130",62,"$Benito Santiago called for interference"2003NYN.EVN.regular.comment.csv",29
+
+"NYN200308150",61,"umpchange,8,umphome,randt901 umpchange,8,ump2b,(None) $HP umpire Klemm left when hit in head by barrel of shattered bat; 2B umpire Randazzo went behind plate and game finished with 3 umpires"2003NYN.EVN.regular.comment.csv",30
+
+"NYN200308160",46,"Helton fouled ball off leg in this AB, left for runner"2003NYN.EVN.regular.comment.csv",31
+
+"NYN200308160",67,"Line drive off right cheek/neck, stayed in game"2003NYN.EVN.regular.comment.csv",32
+
+"NYN200308310",62,"ej,ceder001,P,kulpr901,Balls and strikes Roger Cedeno ejected by HP umpire Ron Kulpa"2003NYN.EVN.regular.comment.csv",33
+
+"NYN200309020",8,"Debut game for Daniel Garcia"2003NYN.EVN.regular.comment.csv",34
+
+"NYN200309080",5,"ej,ceder001,P,gibsg901,Balls and strikes Mets Roger Cedeno ejected by HP umpire Greg Gibson"2003NYN.EVN.regular.comment.csv",35
+

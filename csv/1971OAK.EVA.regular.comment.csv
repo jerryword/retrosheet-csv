@@ -1,41 +1,40 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"OAK197104071",1,"$Debut game for Lee Richard"
-"OAK197104072",5,"$Carlos May out on appeal for failing to touch HP on his home run"
-"OAK197104090",50,"game called for rain"
-"OAK197104240",48,"ej,martb105,M,nappl901,Balls and strikes Tigers Manager Billy Martin ejected by HP umpire Larry Napp"
-"OAK197105010",28,"$Gene Tenace called for a pitchout when the Indians tried a squeeze play; in the ensuing rundown, Sal Bando tagged Graig Nettles; Indians manager Alvin Dark ran out and argued with 3B umpire Lou DiMuro that Tenace had obstructed Nettles; DiMuro asked HP umpire Bill Haller, who ruled that Tenace did obstruct Nettles and allowed the latter to score; Athletics manager Dick Williams then argued the reversal but the obstruction held"
-"OAK197105021",13,"$Sal Bando knocked the ball out of Ken Suarez' glove"
-"OAK197105021",48,"$Dave Duncan called for interference"
-"OAK197106130",68,"$Thurman Munson called for interference for running into his own batted ball"
-"OAK197106160",12,"$Debut game for Len Randle"
-"OAK197106290",81,"Tony Oliva left with badly injured knee"
-"OAK197107090",136,"ej,conit101,P,malog901,Balls and strikes Tony Conigliaro ejected by 1B umpire George Maloney"
-"OAK197107170",45,"ej,cashn101,P,lucir901,Balls and strikes Norm Cash ejected by HP umpire Ron Luciano"
-"OAK197108070",58,"$Vida Blue thought he had struck out Mike Hershberger on the 2-2 pitch; when he walked Hershberger, Blue glared at HP umpire Dave Phillips; Athletics Manager Dick Williams went to the mound and waited for Phillips to come out; Williams talked to Phillips for a while before returning to the dugout"
-"OAK197108070",59,"ej,willd104,M,phild901,Infield fly non-call $Walt Williams popup was not called as an infield fly; Athletics manager Dick Williams argued with and was ejected by HP umpire Dave Phillips"
-"OAK197108200",68,"$Gary Peters: 101 pitches; Vida Blue: 125"
-"OAK197108230",61,"Sal Bando left with bruise above left elbow"
-"OAK197108240",65,"$Vida Blue: 108 pitches; Mel Stottlemyre: 95 pitches"
-"OAK197109060",15,"ej,willd104,M,phild901,Call at 1B Athletics Manager Dick Williams ejected by 1B umpire Dave Phillips"
-"OAK197109060",39,"ej,campb101,P,goetr901,Called third strike Bert Campaneris ejected by HP umpire Russ Goetz"
-"OAK197109211",72,"ej,epstm101,P,mccol901,Fighting Mike Epstein ejected by HP umpire Larry McCoy for fighting with Bart Johnson who suffered an injured left wrist"
-"OAK197104071",1,"$Debut game for Lee Richard"
-"OAK197104072",5,"$Carlos May out on appeal for failing to touch HP on his home run"
-"OAK197104090",50,"game called for rain"
-"OAK197104240",48,"ej,martb105,M,nappl901,Balls and strikes Tigers Manager Billy Martin ejected by HP umpire Larry Napp"
-"OAK197105010",28,"$Gene Tenace called for a pitchout when the Indians tried a squeeze play; in the ensuing rundown, Sal Bando tagged Graig Nettles; Indians manager Alvin Dark ran out and argued with 3B umpire Lou DiMuro that Tenace had obstructed Nettles; DiMuro asked HP umpire Bill Haller, who ruled that Tenace did obstruct Nettles and allowed the latter to score; Athletics manager Dick Williams then argued the reversal but the obstruction held"
-"OAK197105021",13,"$Sal Bando knocked the ball out of Ken Suarez' glove"
-"OAK197105021",48,"$Dave Duncan called for interference"
-"OAK197106130",68,"$Thurman Munson called for interference for running into his own batted ball"
-"OAK197106160",12,"$Debut game for Len Randle"
-"OAK197106290",81,"Tony Oliva left with badly injured knee"
-"OAK197107090",136,"ej,conit101,P,malog901,Balls and strikes Tony Conigliaro ejected by 1B umpire George Maloney"
-"OAK197107170",45,"ej,cashn101,P,lucir901,Balls and strikes Norm Cash ejected by HP umpire Ron Luciano"
-"OAK197108070",58,"$Vida Blue thought he had struck out Mike Hershberger on the 2-2 pitch; when he walked Hershberger, Blue glared at HP umpire Dave Phillips; Athletics Manager Dick Williams went to the mound and waited for Phillips to come out; Williams talked to Phillips for a while before returning to the dugout"
-"OAK197108070",59,"ej,willd104,M,phild901,Infield fly non-call $Walt Williams popup was not called as an infield fly; Athletics manager Dick Williams argued with and was ejected by HP umpire Dave Phillips"
-"OAK197108200",68,"$Gary Peters: 101 pitches; Vida Blue: 125"
-"OAK197108230",61,"Sal Bando left with bruise above left elbow"
-"OAK197108240",65,"$Vida Blue: 108 pitches; Mel Stottlemyre: 95 pitches"
-"OAK197109060",15,"ej,willd104,M,phild901,Call at 1B Athletics Manager Dick Williams ejected by 1B umpire Dave Phillips"
-"OAK197109060",39,"ej,campb101,P,goetr901,Called third strike Bert Campaneris ejected by HP umpire Russ Goetz"
-"OAK197109211",72,"ej,epstm101,P,mccol901,Fighting Mike Epstein ejected by HP umpire Larry McCoy for fighting with Bart Johnson who suffered an injured left wrist"
+"OAK197104071",1,"$Debut game for Lee Richard"FILENAME_TX","LINE_NUMBER_CT"
+
+"OAK197104072",5,"$Carlos May out on appeal for failing to touch HP on his home run"1971OAK.EVA.regular.comment.csv",2
+
+"OAK197104090",50,"game called for rain"1971OAK.EVA.regular.comment.csv",3
+
+"OAK197104240",48,"ej,martb105,M,nappl901,Balls and strikes Tigers Manager Billy Martin ejected by HP umpire Larry Napp"1971OAK.EVA.regular.comment.csv",4
+
+"OAK197105010",28,"$Gene Tenace called for a pitchout when the Indians tried a squeeze play; in the ensuing rundown, Sal Bando tagged Graig Nettles; Indians manager Alvin Dark ran out and argued with 3B umpire Lou DiMuro that Tenace had obstructed Nettles; DiMuro asked HP umpire Bill Haller, who ruled that Tenace did obstruct Nettles and allowed the latter to score; Athletics manager Dick Williams then argued the reversal but the obstruction held"1971OAK.EVA.regular.comment.csv",5
+
+"OAK197105021",13,"$Sal Bando knocked the ball out of Ken Suarez' glove"1971OAK.EVA.regular.comment.csv",6
+
+"OAK197105021",48,"$Dave Duncan called for interference"1971OAK.EVA.regular.comment.csv",7
+
+"OAK197106130",68,"$Thurman Munson called for interference for running into his own batted ball"1971OAK.EVA.regular.comment.csv",8
+
+"OAK197106160",12,"$Debut game for Len Randle"1971OAK.EVA.regular.comment.csv",9
+
+"OAK197106290",81,"Tony Oliva left with badly injured knee"1971OAK.EVA.regular.comment.csv",10
+
+"OAK197107090",136,"ej,conit101,P,malog901,Balls and strikes Tony Conigliaro ejected by 1B umpire George Maloney"1971OAK.EVA.regular.comment.csv",11
+
+"OAK197107170",45,"ej,cashn101,P,lucir901,Balls and strikes Norm Cash ejected by HP umpire Ron Luciano"1971OAK.EVA.regular.comment.csv",12
+
+"OAK197108070",58,"$Vida Blue thought he had struck out Mike Hershberger on the 2-2 pitch; when he walked Hershberger, Blue glared at HP umpire Dave Phillips; Athletics Manager Dick Williams went to the mound and waited for Phillips to come out; Williams talked to Phillips for a while before returning to the dugout"1971OAK.EVA.regular.comment.csv",13
+
+"OAK197108070",59,"ej,willd104,M,phild901,Infield fly non-call $Walt Williams popup was not called as an infield fly; Athletics manager Dick Williams argued with and was ejected by HP umpire Dave Phillips"1971OAK.EVA.regular.comment.csv",14
+
+"OAK197108200",68,"$Gary Peters: 101 pitches; Vida Blue: 125"1971OAK.EVA.regular.comment.csv",15
+
+"OAK197108230",61,"Sal Bando left with bruise above left elbow"1971OAK.EVA.regular.comment.csv",16
+
+"OAK197108240",65,"$Vida Blue: 108 pitches; Mel Stottlemyre: 95 pitches"1971OAK.EVA.regular.comment.csv",17
+
+"OAK197109060",15,"ej,willd104,M,phild901,Call at 1B Athletics Manager Dick Williams ejected by 1B umpire Dave Phillips"1971OAK.EVA.regular.comment.csv",18
+
+"OAK197109060",39,"ej,campb101,P,goetr901,Called third strike Bert Campaneris ejected by HP umpire Russ Goetz"1971OAK.EVA.regular.comment.csv",19
+
+"OAK197109211",72,"ej,epstm101,P,mccol901,Fighting Mike Epstein ejected by HP umpire Larry McCoy for fighting with Bart Johnson who suffered an injured left wrist"1971OAK.EVA.regular.comment.csv",20
+

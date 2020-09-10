@@ -1,35 +1,34 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"CAL197004170",10,"$Luis Alcaraz got ball 4 when Tom Murphy went to his mouth"
-"CAL197004170",76,"ej,metrc101,M,hallb901,Call at 3B Royals Manager Charlie Metro ejected by 3B umpire Bill Haller"
-"CAL197005080",36,"$Clyde Wright called out on appeal for failing to touch 2B; Roger Repoz lost a hit"
-"CAL197005110",123,"Debut game for Dave LaRoche"
-"CAL197005280",49,"missed squeeze attempt"
-"CAL197005310",68,"Paul Blair left with unknown injury"
-"CAL197006190",10,"ej,johna104,P,kunkb101,Balls and strikes (Threw helmet) Alex Johnson ejected by HP umpire Bill Kunkel"
-"CAL197006200",61,"ej,brisd801,M,odomj101,Batter interference non-call $Brewers manager Bristol ejected by 1B umpire Odom for arguing that Fregosi's wild swing on the double steal had hit the catcher's glove and should have been batter's interference"
-"CAL197006230",29,"$Gail Hopkins rounded 2B too far"
-"CAL197006250",69,"ej,aparl101,P,kunkb101,Call at 1B $Aparicio ejected by 1b umpire Kunkel for arguing call at 1b"
-"CAL197007030",51,"missing fielding in CAL197007030"
-"CAL197007090",2,"$Harmon Killebrew's consecutive game streak broken yesterday (245 games) to attend father-in-law's funeral in Idaho; Jim Perry listed as starting in LF; Killebrew helicoptered from LA to Disneyland to PH in first"
-"CAL197007270",71,"$Gene Michael caught Jarvis Tatum with the hidden ball trick"
-"CAL197007290",77,"$infield fly dropped by Jack Aker"
-"CAL197008190",52,"ej,darka101,M,umonf901,Check swing $Indians manager Dark ejected by HP umpire Umont for arguing check swing on Johnson"
-"CAL197009110",5,"Debut game for Doug Griffin"
-"CAL197009260",33,"ej,bluev001,P,frana901,Called third strike Vida Blue ejected by HP umpire Art Frantz"
-"CAL197004170",10,"$Luis Alcaraz got ball 4 when Tom Murphy went to his mouth"
-"CAL197004170",76,"ej,metrc101,M,hallb901,Call at 3B Royals Manager Charlie Metro ejected by 3B umpire Bill Haller"
-"CAL197005080",36,"$Clyde Wright called out on appeal for failing to touch 2B; Roger Repoz lost a hit"
-"CAL197005110",123,"Debut game for Dave LaRoche"
-"CAL197005280",49,"missed squeeze attempt"
-"CAL197005310",68,"$Blair hit in face by pitch and missed three weeks"
-"CAL197006190",10,"ej,johna104,P,kunkb101,Balls and strikes (Threw helmet) Alex Johnson ejected by HP umpire Bill Kunkel"
-"CAL197006200",61,"ej,brisd801,M,odomj901,Batter interference non-call $Brewers manager Bristol ejected by 1B umpire Odom for arguing that Fregosi's wild swing on the double steal had hit the catcher's glove and should have been batter's interference"
-"CAL197006230",29,"$Gail Hopkins rounded 2B too far"
-"CAL197006250",69,"ej,aparl101,P,kunkb101,Call at 1B $Aparicio ejected by 1b umpire Kunkel for arguing call at 1b"
-"CAL197007030",51,"missing fielding in CAL197007030"
-"CAL197007090",2,"$Harmon Killebrew's consecutive game streak broken yesterday (245 games) to attend father-in-law's funeral in Idaho; Jim Perry listed as starting in LF; Killebrew helicoptered from LA to Disneyland to PH in first"
-"CAL197007270",71,"$Gene Michael caught Jarvis Tatum with the hidden ball trick"
-"CAL197007290",77,"$infield fly dropped by Jack Aker"
-"CAL197008190",52,"ej,darka101,M,umonf901,Check swing $Indians manager Dark ejected by HP umpire Umont for arguing check swing on Johnson"
-"CAL197009110",5,"Debut game for Doug Griffin"
-"CAL197009260",33,"ej,bluev001,P,frana901,Called third strike Vida Blue ejected by HP umpire Art Frantz"
+"CAL197004170",10,"$Luis Alcaraz got ball 4 when Tom Murphy went to his mouth"FILENAME_TX","LINE_NUMBER_CT"
+
+"CAL197004170",76,"ej,metrc101,M,hallb901,Call at 3B Royals Manager Charlie Metro ejected by 3B umpire Bill Haller"1970CAL.EVA.regular.comment.csv",2
+
+"CAL197005080",36,"$Clyde Wright called out on appeal for failing to touch 2B; Roger Repoz lost a hit"1970CAL.EVA.regular.comment.csv",3
+
+"CAL197005110",123,"Debut game for Dave LaRoche"1970CAL.EVA.regular.comment.csv",4
+
+"CAL197005280",49,"missed squeeze attempt"1970CAL.EVA.regular.comment.csv",5
+
+"CAL197005310",68,"$Blair hit in face by pitch and missed three weeks"1970CAL.EVA.regular.comment.csv",6
+
+"CAL197006190",10,"ej,johna104,P,kunkb101,Balls and strikes (Threw helmet) Alex Johnson ejected by HP umpire Bill Kunkel"1970CAL.EVA.regular.comment.csv",7
+
+"CAL197006200",61,"ej,brisd801,M,odomj901,Batter interference non-call $Brewers manager Bristol ejected by 1B umpire Odom for arguing that Fregosi's wild swing on the double steal had hit the catcher's glove and should have been batter's interference"1970CAL.EVA.regular.comment.csv",8
+
+"CAL197006230",29,"$Gail Hopkins rounded 2B too far"1970CAL.EVA.regular.comment.csv",9
+
+"CAL197006250",69,"ej,aparl101,P,kunkb101,Call at 1B $Aparicio ejected by 1b umpire Kunkel for arguing call at 1b"1970CAL.EVA.regular.comment.csv",10
+
+"CAL197007030",51,"missing fielding in CAL197007030"1970CAL.EVA.regular.comment.csv",11
+
+"CAL197007090",2,"$Harmon Killebrew's consecutive game streak broken yesterday (245 games) to attend father-in-law's funeral in Idaho; Jim Perry listed as starting in LF; Killebrew helicoptered from LA to Disneyland to PH in first"1970CAL.EVA.regular.comment.csv",12
+
+"CAL197007270",71,"$Gene Michael caught Jarvis Tatum with the hidden ball trick"1970CAL.EVA.regular.comment.csv",13
+
+"CAL197007290",77,"$infield fly dropped by Jack Aker"1970CAL.EVA.regular.comment.csv",14
+
+"CAL197008190",52,"ej,darka101,M,umonf901,Check swing $Indians manager Dark ejected by HP umpire Umont for arguing check swing on Johnson"1970CAL.EVA.regular.comment.csv",15
+
+"CAL197009110",5,"Debut game for Doug Griffin"1970CAL.EVA.regular.comment.csv",16
+
+"CAL197009260",33,"ej,bluev001,P,frana901,Called third strike Vida Blue ejected by HP umpire Art Frantz"1970CAL.EVA.regular.comment.csv",17
+

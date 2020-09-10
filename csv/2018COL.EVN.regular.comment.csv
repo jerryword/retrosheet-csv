@@ -1,763 +1,762 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"COL201804070",18,"$Rockies challenged call that Inciarte was safe at first; call was overturned - out at first to complete DP"
-"COL201804070",44,"$Braves challenged call that Albies was out at first; call was upheld - out at first"
-"COL201804090",55,"ej,greea001,M,gormb901,Arguing home run replay $Umpire review upheld call that ball was a home run; Padres claimed fan interference, but home run call was upheld; San Diego manager Green argued the call and was automatically ejected by 2b ump Gorman, the crew chief"
-"COL201804110",22,"ej,ellia001,P,gormb901Fighting ej,perdl002,P,gormb901Fighting ej,marqg001,P,gormb901Fighting ej,parrg001,P,gormb901Fighting ej,arenn001,P,gormb901Fighting $The first pitch to Arenado was behind him; he charged the mound and both benches cleared"
-"COL201804110",24,"$Padres challenged call that Desmond was safe at 2nd; call was upheld - stolen base"
-"COL201804200",32,"Rockies challenged call that Heyward was safe on pickoff attempt; call was overturned - pickoff at 1st"
-"COL201804200",40,"$Cubs challenged call that Baez was out at 3rd; call was overturned - fielder's choice, no outs"
-"COL201804200",41,"$Run originally scored as unearned, changed to earned on 04-23-2018"
-"COL201804210",5,"$Umpire review to see if Contreras' hit were a homer; call was upheld - double"
-"COL201804220",3,"ej,haina801,C,blasc901,Arguing hit by pitch ej,davic001,C,blasc901,Arguing hit by pitch $Kris Bryant hit in head with pitch, left game; initial tests revealed no concussion; Chicago coaches Andy Haines and Chili Davis argued about the hit batter and were ejected by plate ump Cory Blaser"
-"COL201804220",93,"$Cubs challenged call that Arenado safe at home on wild pitch; call was overturned - out advancing"
-"COL201804250",12,"$originally scored as single, changed to throwing error on 05-08-2018"
-"COL201804250",46,"$Padres challenged call that Pirelas was out at 2nd; call was upheld - out on caught stealing"
-"COL201805080",47,"$Rockies challenged call that second pitch was ball, claiming it hit Cuevas; call was overturned - hit by pitch"
-"COL201805080",57,"$Angels challenged call that Blackmon was safe at home; call was upheld - safe at home"
-"COL201805090",60,"$Rockies challenged call that Simmons was safe at 1st; call was overturned - ground out"
-"COL201805100",32,"$Rockies challenged call that Yelich was safe at 1st; call was upheld - single"
-"COL201805110",26,"$Brewers challenged call that LeMahieu was safe at home; call was upheld - safe at home"
-"COL201805120",7,"$Umpire review; call was upheld - home run"
-"COL201805120",9,"$Umpire review to check ball called foul on second pitch; call was upheld - foul ball, not home run"
-"COL201805290",13,"$Jeff Samardzija left with an injured shoulder"
-"COL201805290",47,"$Rockies challenged call that Freeland was out at first; call was upheld - ground out"
-"COL201806010",89,"$Dodgers challenged call that Parra was safe at first; call was upheld - force out, no DP"
-"COL201806020",34,"$Dodgers challenged call that Valera was out at first to complete double play; call was overtuend - force out, no DP"
-"COL201806090",48,"$Diamondbacks callenged call that Story was safe at second for stolen base; call was overturned - out on caught stealing"
-"COL201806180",33,"ej,blacb001,M,welkb901,Arguing call at first $Colorado manager Bud Black ejected by 1b umpire Welke for arguing call at 1st on which Welke ruled Story out for being out of baseline trying to return to first after line drive"
-"COL201806180",63,"$Rockies challenged call that deGrom was safe at first for single; call was ovrturned - ground out"
-"COL201806190",30,"$Umpire review of ball hit by Cuevas; call was upheld - double, not home run"
-"COL201806190",60,"$Double play ruled on runner interference at second"
-"COL201806200",76,"$Rockies challenged call that Murphy was out at second; call was upheld - out on caught stealing to complete double play"
-"COL201806230",51,"$Marlins challenged call that Castro was out at first; call was overturned - single"
-"COL201806240",21,"$Caleb Smith left with an injured shoulder"
-"COL201807020",10,"$Rockies challenged call that Story was out at second; call overturned - safe on fielder's choice; changed to single on 07-09-2018"
-"COL201807020",36,"Mound Visit"
-"COL201807020",53,"Mound Visit"
-"COL201807020",55,"Mound Visit"
-"COL201807020",56,"Mound Visit"
-"COL201807020",65,"Mound Visit"
-"COL201807030",13,"On-field Delay"
-"COL201807030",36,"Injury Delay"
-"COL201807030",39,"Mound Visit"
-"COL201807030",50,"Mound Visit"
-"COL201807030",59,"Injury Delay"
-"COL201807030",62,"Mound Visit"
-"COL201807030",64,"Mound Visit"
-"COL201807040",7,"$Rockies challenged call that Story was out at first; call was overturned - single"
-"COL201807040",48,"$Umpire review ball hit by Iannetta; call was upheld - home run"
-"COL201807040",51,"Mound Visit"
-"COL201807040",52,"Mound Visit"
-"COL201807040",56,"Mound Visit"
-"COL201807040",63,"Mound Visit"
-"COL201807100",25,"Mound Visit"
-"COL201807100",29,"Mound Visit"
-"COL201807100",30,"Mound Visit"
-"COL201807100",43,"Mound Visit"
-"COL201807100",44,"Mound Visit"
-"COL201807100",57,"Mound Visit"
-"COL201807100",61,"Mound Visit"
-"COL201807100",66,"Mound Visit"
-"COL201807100",67,"Mound Visit"
-"COL201807100",81,"Mound Visit"
-"COL201807100",85,"Mound Visit"
-"COL201807110",10,"Mound Visit"
-"COL201807110",18,"$Shelby Miller left with an injured arm"
-"COL201807110",21,"Mound Visit"
-"COL201807110",25,"Mound Visit"
-"COL201807110",36,"Mound Visit"
-"COL201807110",46,"Mound Visit"
-"COL201807110",62,"Mound Visit"
-"COL201807110",64,"Mound Visit"
-"COL201807120",5,"Mound Visit"
-"COL201807120",48,"Mound Visit"
-"COL201807120",49,"Mound Visit"
-"COL201807120",53,"Mound Visit"
-"COL201807120",54,"Mound Visit"
-"COL201807120",55,"Mound Visit"
-"COL201807120",60,"Mound Visit"
-"COL201807120",71,"Mound Visit"
-"COL201807130",6,"Mound Visit"
-"COL201807130",9,"$Rockies challenged call that Gamel was safe at first for single; call was overturned - ground out"
-"COL201807130",25,"Injury Delay"
-"COL201807130",37,"Mound Visit"
-"COL201807130",47,"Mound Visit"
-"COL201807130",53,"Mound Visit"
-"COL201807130",62,"Mound Visit"
-"COL201807130",66,"Mound Visit"
-"COL201807130",68,"Mound Visit"
-"COL201807130",69,"Mound Visit"
-"COL201807130",80,"Mound Visit"
-"COL201807140",20,"Mound Visit"
-"COL201807140",40,"Mound Visit"
-"COL201807140",41,"Mound Visit"
-"COL201807140",47,"On-field Delay"
-"COL201807140",59,"Mound Visit"
-"COL201807140",63,"Mound Visit"
-"COL201807140",64,"Mound Visit"
-"COL201807140",65,"Mound Visit"
-"COL201807150",6,"Mound Visit"
-"COL201807150",15,"Injury Delay"
-"COL201807150",17,"On-field Delay"
-"COL201807150",44,"Mound Visit"
-"COL201807150",50,"Mound Visit"
-"COL201807150",55,"Mound Visit $Mariners challenged call that Desmond was safe at third; call was upheld - triple"
-"COL201807150",61,"Mound Visit"
-"COL201807240",49,"Mound Visit"
-"COL201807240",52,"Mound Visit"
-"COL201807240",54,"Mound Visit"
-"COL201807240",57,"Injury Delay"
-"COL201807240",70,"Mound Visit"
-"COL201807240",73,"Mound Visit $Umpire review on ball hit by Springer; call was upheld - homer"
-"COL201807250",36,"$Jose Altuve left with an injured knee"
-"COL201807250",42,"$Rockies challenged call that Bregman's ball was a triple; call was overturned - out on fan interference"
-"COL201807250",48,"Mound Visit"
-"COL201807250",49,"Mound Visit"
-"COL201807250",53,"Mound Visit"
-"COL201807250",55,"Mound Visit"
-"COL201807250",57,"Mound Visit"
-"COL201807250",59,"On-field Delay $Originally scored as advances to 2nd and third on the foul out, changed on 08-01-2018 to advances on E5 throwing error"
-"COL201807270",5,"Mound Visit"
-"COL201807270",9,"Mound Visit"
-"COL201807270",15,"$Athletics challenged call that Chapman was out at first; call was upheld - ground out"
-"COL201807270",33,"$Rockies challenged call that Gonzalez was out at first; call was overturned - single"
-"COL201807270",53,"Mound Visit"
-"COL201807270",58,"Mound Visit"
-"COL201807270",59,"Mound Visit"
-"COL201807270",68,"Mound Visit"
-"COL201807280",4,"$Athletics challenged call that Martini was out at home; call was overturned - out to complete double play"
-"COL201807280",5,"Mound Visit"
-"COL201807280",43,"Mound Visit"
-"COL201807280",46,"Injury Delay"
-"COL201807280",47,"Mound Visit"
-"COL201807280",48,"Mound Visit"
-"COL201807280",65,"$Rockies challenged call that Semien was hit by 4th pitch; call was overturned - foul"
-"COL201807290",15,"Mound Visit"
-"COL201807290",39,"Injury Delay"
-"COL201807290",42,"Mound Visit Mound Visit"
-"COL201807290",52,"Mound Visit"
-"COL201807290",60,"Mound Visit"
-"COL201808060",23,"Mound Visit"
-"COL201808060",33,"Mound Visit"
-"COL201808060",34,"Injury Delay"
-"COL201808060",47,"Mound Visit"
-"COL201808060",48,"Mound Visit"
-"COL201808060",58,"Mound Visit"
-"COL201808070",24,"Mound Visit"
-"COL201808070",34,"Mound Visit"
-"COL201808070",38,"Mound Visit"
-"COL201808070",50,"Mound Visit"
-"COL201808070",51,"Injury Delay"
-"COL201808070",67,"Injury Delay"
-"COL201808080",24,"Mound Visit"
-"COL201808080",39,"Mound Visit"
-"COL201808080",47,"Mound Visit"
-"COL201808080",49,"Mound Visit"
-"COL201808080",58,"Mound Visit"
-"COL201808080",65,"$Rockies challenged call that Blackmon was out at 2nd; call was upheld - out on caught stealing"
-"COL201808080",71,"Mound Visit"
-"COL201808080",77,"Mound Visit"
-"COL201808080",80,"Mound Visit"
-"COL201808090",40,"Mound Visit"
-"COL201808090",54,"Mound Visit"
-"COL201808090",55,"Mound Visit"
-"COL201808090",56,"Mound Visit"
-"COL201808090",63,"Mound Visit"
-"COL201808090",72,"Mound Visit"
-"COL201808090",73,"Mound Visit"
-"COL201808100",5,"Mound Visit"
-"COL201808100",33,"Mound Visit"
-"COL201808100",40,"Mound Visit"
-"COL201808100",41,"$Nolan Arenado left with a recurrence of shoulder injury"
-"COL201808100",45,"Mound Visit"
-"COL201808100",53,"Mound Visit"
-"COL201808100",57,"Mound Visit"
-"COL201808100",58,"Mound Visit"
-"COL201808100",65,"Mound Visit"
-"COL201808100",71,"Mound Visit"
-"COL201808110",40,"Mound Visit"
-"COL201808110",44,"Injury Delay"
-"COL201808110",58,"Mound Visit"
-"COL201808110",64,"Mound Visit"
-"COL201808110",67,"Mound Visit"
-"COL201808110",67,"Mound Visit"
-"COL201808110",68,"Mound Visit"
-"COL201808120",6,"$Originally scored as passed ball, changed to wild pitch on 08-17-2018"
-"COL201808120",33,"Mound Visit"
-"COL201808120",48,"Mound Visit"
-"COL201808120",50,"Mound Visit"
-"COL201808120",60,"Mound Visit"
-"COL201808120",62,"Injury Delay"
-"COL201808120",67,"Mound Visit"
-"COL201808120",69,"Mound Visit"
-"COL201808120",71,"Mound Visit"
-"COL201808210",38,"Mound Visit"
-"COL201808210",39,"Injury Delay"
-"COL201808210",54,"Mound Visit"
-"COL201808210",55,"Mound Visit"
-"COL201808210",67,"Mound Visit"
-"COL201808220",1,"On-field Delay"
-"COL201808220",13,"Mound Visit"
-"COL201808220",56,"Mound Visit"
-"COL201808220",74,"Injury Delay"
-"COL201808230",24,"Mound Visit"
-"COL201808230",44,"Mound Visit"
-"COL201808230",47,"Mound Visit"
-"COL201808230",50,"Mound Visit"
-"COL201808230",53,"Mound Visit"
-"COL201808230",63,"Mound Visit"
-"COL201808240",11,"Mound Visit"
-"COL201808240",42,"Mound Visit"
-"COL201808240",50,"Mound Visit"
-"COL201808240",53,"Mound Visit"
-"COL201808240",60,"Mound Visit"
-"COL201808240",72,"Mound Visit"
-"COL201808240",76,"Mound Visit"
-"COL201808240",78,"Mound Visit"
-"COL201808250",9,"Injury Delay"
-"COL201808250",10,"$Kolten Wong left with an injured leg"
-"COL201808250",28,"Mound Visit"
-"COL201808250",54,"$Rockies challenged call that Garcia was safe at 1st; call was upheld - single"
-"COL201808250",55,"Mound Visit"
-"COL201808250",56,"Mound Visit"
-"COL201808250",62,"Mound Visit"
-"COL201808250",63,"Mound Visit"
-"COL201808250",64,"Mound Visit"
-"COL201808250",67,"Mound Visit"
-"COL201808250",70,"Injury Delay"
-"COL201808260",6,"Mound Visit"
-"COL201808260",10,"Mound Visit"
-"COL201809030",9,"Mound Visit"
-"COL201809030",30,"Mound Visit"
-"COL201809030",50,"Mound Visit"
-"COL201809030",59,"Mound Visit"
-"COL201809030",62,"Mound Visit"
-"COL201809030",71,"Injury Delay $Rockies challenged call that Hernandez was hit by pitch; call was upheld - hit by pitch Injury Delay"
-"COL201809030",73,"Mound Visit"
-"COL201809030",77,"Mound Visit"
-"COL201809040",45,"Mound Visit"
-"COL201809040",48,"Mound Visit"
-"COL201809040",51,"Mound Visit"
-"COL201809040",55,"Mound Visit"
-"COL201809040",61,"Mound Visit"
-"COL201809040",62,"Mound Visit"
-"COL201809040",64,"Mound Visit"
-"COL201809040",80,"Mound Visit"
-"COL201809040",81,"Mound Visit"
-"COL201809050",5,"Mound Visit"
-"COL201809050",23,"Injury Delay"
-"COL201809050",43,"Mound Visit"
-"COL201809050",53,"Mound Visit"
-"COL201809050",57,"Mound Visit"
-"COL201809050",57,"Mound Visit"
-"COL201809050",69,"Mound Visit"
-"COL201809070",32,"Mound Visit"
-"COL201809070",37,"Mound Visit"
-"COL201809070",39,"Mound Visit"
-"COL201809070",42,"On-field Delay ej,blacb001,M,fleta901,Arguing balk call $Colorado manager Black ejected by plate umpire Fletcher for arguing balk call"
-"COL201809070",43,"Mound Visit"
-"COL201809070",44,"$Rockies challenged call that Verdugo was safe at 1st; call was upheld - safe on throwing error"
-"COL201809070",59,"Mound Visit"
-"COL201809070",65,"Mound Visit"
-"COL201809070",66,"Mound Visit"
-"COL201809070",71,"Mound Visit"
-"COL201809070",72,"Mound Visit"
-"COL201809070",78,"Mound Visit"
-"COL201809070",82,"Mound Visit"
-"COL201809070",83,"Mound Visit"
-"COL201809080",34,"Mound Visit"
-"COL201809080",42,"Mound Visit"
-"COL201809080",62,"Mound Visit"
-"COL201809080",67,"Mound Visit Mound Visit"
-"COL201809090",2,"Injury Delay"
-"COL201809090",4,"Mound Visit"
-"COL201809090",14,"Mound Visit"
-"COL201809090",15,"Mound Visit"
-"COL201809090",23,"Mound Visit"
-"COL201809090",35,"Mound Visit"
-"COL201809090",40,"Mound Visit"
-"COL201809090",44,"Mound Visit"
-"COL201809090",54,"Mound Visit Mound Visit"
-"COL201809090",54,"Mound Visit"
-"COL201809090",69,"Mound Visit"
-"COL201809090",72,"Mound Visit"
-"COL201809090",82,"Mound Visit"
-"COL201809090",84,"Mound Visit"
-"COL201809090",87,"Mound Visit"
-"COL201809100",8,"Mound Visit"
-"COL201809100",25,"$Rockies challenged call that LeMahieu was out at 1st; call was upheld - ground out"
-"COL201809100",39,"Mound Visit"
-"COL201809100",40,"Mound Visit"
-"COL201809100",48,"Mound Visit"
-"COL201809100",49,"Mound Visit"
-"COL201809100",65,"Mound Visit"
-"COL201809100",66,"Mound Visit"
-"COL201809100",74,"Mound Visit"
-"COL201809110",39,"Mound Visit"
-"COL201809110",42,"Mound Visit"
-"COL201809110",49,"Mound Visit"
-"COL201809110",52,"Mound Visit"
-"COL201809110",56,"Mound Visit"
-"COL201809110",56,"Mound Visit"
-"COL201809110",58,"Mound Visit"
-"COL201809110",62,"$Diamondbacks challenged call that Pollock was out at 1st; call was overturned - single"
-"COL201809110",74,"Mound Visit"
-"COL201809110",77,"Mound Visit"
-"COL201809120",10,"Mound Visit"
-"COL201809120",13,"Mound Visit"
-"COL201809120",19,"Injury Delay"
-"COL201809120",23,"$Diamondbacks challenged call that Goldschmidt was out at 2nd to complete double play; call was overturned - stolen base"
-"COL201809120",53,"Mound Visit"
-"COL201809120",58,"Mound Visit"
-"COL201809120",62,"Mound Visit"
-"COL201809120",66,"Mound Visit"
-"COL201809120",67,"Mound Visit"
-"COL201809130",3,"$Clay Buchholz left with an injured elbow"
-"COL201809130",25,"Mound Visit"
-"COL201809130",38,"Mound Visit"
-"COL201809130",39,"Mound Visit"
-"COL201809130",43,"Mound Visit"
-"COL201809130",45,"Injury Delay"
-"COL201809130",55,"Mound Visit"
-"COL201809130",56,"Mound Visit"
-"COL201809130",58,"Mound Visit"
-"COL201809130",61,"Mound Visit"
-"COL201809130",62,"Mound Visit"
-"COL201809130",64,"Mound Visit"
-"COL201809130",67,"Mound Visit"
-"COL201809240",5,"Mound Visit"
-"COL201809240",13,"$Rockies challenged call that Quinn was safe at 1st; call was overturned - out on pickoff"
-"COL201809240",28,"Mound Visit"
-"COL201809240",29,"Mound Visit"
-"COL201809240",31,"Mound Visit"
-"COL201809240",38,"Injury Delay"
-"COL201809250",18,"Mound Visit"
-"COL201809250",19,"Mound Visit"
-"COL201809250",27,"Mound Visit"
-"COL201809250",39,"Mound Visit"
-"COL201809250",40,"Mound Visit"
-"COL201809250",48,"Mound Visit"
-"COL201809250",49,"On-field Delay"
-"COL201809250",56,"Mound Visit"
-"COL201809250",57,"$Originally scored as single, changed to E6 on 10-01-2018"
-"COL201809250",76,"Mound Visit"
-"COL201809250",77,"Mound Visit"
-"COL201809260",18,"Mound Visit"
-"COL201809260",26,"$Phillies challenged call that Quinn was out at home; call was upheld - out at home"
-"COL201809260",38,"Mound Visit"
-"COL201809260",40,"Mound Visit"
-"COL201809260",43,"Mound Visit"
-"COL201809260",45,"Mound Visit"
-"COL201809260",68,"Mound Visit"
-"COL201809270",9,"Mound Visit"
-"COL201809270",24,"Mound Visit"
-"COL201809270",29,"Mound Visit"
-"COL201809270",34,"Mound Visit"
-"COL201809270",43,"Mound Visit"
-"COL201809270",54,"Mound Visit"
-"COL201809270",56,"On-field Delay Mound Visit"
-"COL201809270",62,"Mound Visit"
-"COL201809270",64,"$Rockies challenged call that Story was out at 1st; call was upheld - ground out"
-"COL201809270",67,"Mound Visit"
-"COL201809270",72,"Mound Visit"
-"COL201809280",20,"$Nationals challenged call that Robles was outat 3rd; call was overturned - strikeout and double steal"
-"COL201809280",21,"Mound Visit"
-"COL201809280",29,"$Rockies challenged that 3rd pitch was foul ball, claiming it hit batter; call was upheld - foul ball"
-"COL201809280",42,"Mound Visit"
-"COL201809280",46,"Mound Visit"
-"COL201809280",50,"Mound Visit"
-"COL201809280",55,"Mound Visit"
-"COL201809290",1,"Injury Delay"
-"COL201809290",6,"Mound Visit"
-"COL201809290",16,"Mound Visit"
-"COL201809290",17,"Mound Visit"
-"COL201809290",23,"$Nationals challenged call that Tapia was safe at 1st; call was overturned - ground out"
-"COL201809290",52,"Mound Visit"
-"COL201809290",57,"Mound Visit"
-"COL201809290",60,"Mound Visit"
-"COL201809290",84,"Mound Visit"
-"COL201809300",39,"Mound Visit"
-"COL201809300",46,"Injury Delay"
-"COL201809300",61,"Mound Visit"
-"COL201809300",63,"Mound Visit"
-"COL201804070",18,"$Rockies challenged call that Inciarte was safe at first; call was overturned - out at first to complete DP"
-"COL201804070",44,"$Braves challenged call that Albies was out at first; call was upheld - out at first"
-"COL201804090",55,"ej,greea001,M,gormb901,Arguing home run replay $Umpire review upheld call that ball was a home run; Padres claimed fan interference, but home run call was upheld; San Diego manager Green argued the call and was automatically ejected by 2b ump Gorman, the crew chief"
-"COL201804110",22,"ej,ellia001,P,gormb901,Fighting ej,perdl002,P,gormb901,Fighting ej,marqg001,P,gormb901,Fighting ej,parrg001,P,gormb901,Fighting ej,arenn001,P,gormb901,Fighting $Padres pitcher Perdomo and catcher Ellis ejected by HP umpire Gorman along with Rockies Arenado, Marquez and Parra for fighting; incident began when first pitch to Arenado was behind him and he charged mound; benches emptie"
-"COL201804110",24,"$Padres challenged call that Desmond was safe at 2nd; call was upheld - stolen base"
-"COL201804200",32,"Rockies challenged call that Heyward was safe on pickoff attempt; call was overturned - pickoff at 1st"
-"COL201804200",40,"$Cubs challenged call that Baez was out at 3rd; call was overturned - fielder's choice, no outs"
-"COL201804200",41,"$Run originally scored as unearned, changed to earned on 04-23-2018"
-"COL201804210",5,"$Umpire review to see if Contreras' hit were a homer; call was upheld - double"
-"COL201804220",3,"ej,haina801,C,blasc901,Arguing hit by pitch ej,davic001,C,blasc901,Arguing hit by pitch $Kris Bryant hit in head with pitch, left game; initial tests revealed no concussion; Chicago coaches Andy Haines and Chili Davis argued about the hit batter and were ejected by plate ump Cory Blaser"
-"COL201804220",93,"$Cubs challenged call that Arenado safe at home on wild pitch; call was overturned - out advancing"
-"COL201804250",12,"$originally scored as single, changed to throwing error on 05-08-2018"
-"COL201804250",46,"$Padres challenged call that Pirelas was out at 2nd; call was upheld - out on caught stealing"
-"COL201805080",47,"$Rockies challenged call that second pitch was ball, claiming it hit Cuevas; call was overturned - hit by pitch"
-"COL201805080",57,"$Angels challenged call that Blackmon was safe at home; call was upheld - safe at home"
-"COL201805090",60,"$Rockies challenged call that Simmons was safe at 1st; call was overturned - ground out"
-"COL201805100",32,"$Rockies challenged call that Yelich was safe at 1st; call was upheld - single"
-"COL201805110",26,"$Brewers challenged call that LeMahieu was safe at home; call was upheld - safe at home"
-"COL201805120",7,"$Umpire review; call was upheld - home run"
-"COL201805120",9,"$Umpire review to check ball called foul on second pitch; call was upheld - foul ball, not home run"
-"COL201805290",13,"$Jeff Samardzija left with an injured shoulder"
-"COL201805290",47,"$Rockies challenged call that Freeland was out at first; call was upheld - ground out"
-"COL201806010",89,"$Dodgers challenged call that Parra was safe at first; call was upheld - force out, no DP"
-"COL201806020",34,"$Dodgers challenged call that Valera was out at first to complete double play; call was overtuend - force out, no DP"
-"COL201806090",48,"$Diamondbacks callenged call that Story was safe at second for stolen base; call was overturned - out on caught stealing"
-"COL201806180",33,"ej,blacb001,M,welkb901,Arguing call at first $Colorado manager Bud Black ejected by 1b umpire Welke for arguing call at 1st on which Welke ruled Story out for being out of baseline trying to return to first after line drive"
-"COL201806180",63,"$Rockies challenged call that deGrom was safe at first for single; call was ovrturned - ground out"
-"COL201806190",30,"$Umpire review of ball hit by Cuevas; call was upheld - double, not home run"
-"COL201806190",60,"$Double play ruled on runner interference at second"
-"COL201806200",76,"$Rockies challenged call that Murphy was out at second; call was upheld - out on caught stealing to complete double play"
-"COL201806230",51,"$Marlins challenged call that Castro was out at first; call was overturned - single"
-"COL201806240",21,"$Caleb Smith left with an injured shoulder"
-"COL201807020",10,"$Rockies challenged call that Story was out at second; call overturned - safe on fielder's choice; changed to single on 07-09-2018"
-"COL201807020",36,"Mound Visit"
-"COL201807020",53,"Mound Visit"
-"COL201807020",55,"Mound Visit"
-"COL201807020",56,"Mound Visit"
-"COL201807020",65,"Mound Visit"
-"COL201807030",13,"On-field Delay"
-"COL201807030",36,"Injury Delay"
-"COL201807030",39,"Mound Visit"
-"COL201807030",50,"Mound Visit"
-"COL201807030",59,"Injury Delay"
-"COL201807030",62,"Mound Visit"
-"COL201807030",64,"Mound Visit"
-"COL201807040",7,"$Rockies challenged call that Story was out at first; call was overturned - single"
-"COL201807040",48,"$Umpire review ball hit by Iannetta; call was upheld - home run"
-"COL201807040",51,"Mound Visit"
-"COL201807040",52,"Mound Visit"
-"COL201807040",56,"Mound Visit"
-"COL201807040",63,"Mound Visit"
-"COL201807100",25,"Mound Visit"
-"COL201807100",29,"Mound Visit"
-"COL201807100",30,"Mound Visit"
-"COL201807100",43,"Mound Visit"
-"COL201807100",44,"Mound Visit"
-"COL201807100",57,"Mound Visit"
-"COL201807100",61,"Mound Visit"
-"COL201807100",66,"Mound Visit"
-"COL201807100",67,"Mound Visit"
-"COL201807100",81,"Mound Visit"
-"COL201807100",85,"Mound Visit"
-"COL201807110",10,"Mound Visit"
-"COL201807110",18,"$Shelby Miller left with an injured arm"
-"COL201807110",21,"Mound Visit"
-"COL201807110",25,"Mound Visit"
-"COL201807110",36,"Mound Visit"
-"COL201807110",46,"Mound Visit"
-"COL201807110",62,"Mound Visit"
-"COL201807110",64,"Mound Visit"
-"COL201807120",5,"Mound Visit"
-"COL201807120",48,"Mound Visit"
-"COL201807120",49,"Mound Visit"
-"COL201807120",53,"Mound Visit"
-"COL201807120",54,"Mound Visit"
-"COL201807120",55,"Mound Visit"
-"COL201807120",60,"Mound Visit"
-"COL201807120",71,"Mound Visit"
-"COL201807130",6,"Mound Visit"
-"COL201807130",9,"$Rockies challenged call that Gamel was safe at first for single; call was overturned - ground out"
-"COL201807130",25,"Injury Delay"
-"COL201807130",37,"Mound Visit"
-"COL201807130",47,"Mound Visit"
-"COL201807130",53,"Mound Visit"
-"COL201807130",62,"Mound Visit"
-"COL201807130",66,"Mound Visit"
-"COL201807130",68,"Mound Visit"
-"COL201807130",69,"Mound Visit"
-"COL201807130",80,"Mound Visit"
-"COL201807140",20,"Mound Visit"
-"COL201807140",40,"Mound Visit"
-"COL201807140",41,"Mound Visit"
-"COL201807140",47,"On-field Delay"
-"COL201807140",59,"Mound Visit"
-"COL201807140",63,"Mound Visit"
-"COL201807140",64,"Mound Visit"
-"COL201807140",65,"Mound Visit"
-"COL201807150",6,"Mound Visit"
-"COL201807150",15,"Injury Delay"
-"COL201807150",17,"On-field Delay"
-"COL201807150",44,"Mound Visit"
-"COL201807150",50,"Mound Visit"
-"COL201807150",55,"Mound Visit $Mariners challenged call that Desmond was safe at third; call was upheld - triple"
-"COL201807150",61,"Mound Visit"
-"COL201807240",49,"Mound Visit"
-"COL201807240",52,"Mound Visit"
-"COL201807240",54,"Mound Visit"
-"COL201807240",57,"Injury Delay"
-"COL201807240",70,"Mound Visit"
-"COL201807240",73,"Mound Visit $Umpire review on ball hit by Springer; call was upheld - homer"
-"COL201807250",36,"$Jose Altuve left with an injured knee"
-"COL201807250",42,"$Rockies challenged call that Bregman's ball was a triple; call was overturned - out on fan interference"
-"COL201807250",48,"Mound Visit"
-"COL201807250",49,"Mound Visit"
-"COL201807250",53,"Mound Visit"
-"COL201807250",55,"Mound Visit"
-"COL201807250",57,"Mound Visit"
-"COL201807250",59,"On-field Delay $Originally scored as advances to 2nd and third on the foul out, changed on 08-01-2018 to advances on E5 throwing error"
-"COL201807270",5,"Mound Visit"
-"COL201807270",9,"Mound Visit"
-"COL201807270",15,"$Athletics challenged call that Chapman was out at first; call was upheld - ground out"
-"COL201807270",33,"$Rockies challenged call that Gonzalez was out at first; call was overturned - single"
-"COL201807270",53,"Mound Visit"
-"COL201807270",58,"Mound Visit"
-"COL201807270",59,"Mound Visit"
-"COL201807270",68,"Mound Visit"
-"COL201807280",4,"$Athletics challenged call that Martini was out at home; call was overturned - out to complete double play"
-"COL201807280",5,"Mound Visit"
-"COL201807280",43,"Mound Visit"
-"COL201807280",46,"Injury Delay"
-"COL201807280",47,"Mound Visit"
-"COL201807280",48,"Mound Visit"
-"COL201807280",65,"$Rockies challenged call that Semien was hit by 4th pitch; call was overturned - foul"
-"COL201807290",15,"Mound Visit"
-"COL201807290",39,"Injury Delay"
-"COL201807290",42,"Mound Visit Mound Visit"
-"COL201807290",52,"Mound Visit"
-"COL201807290",60,"Mound Visit"
-"COL201808060",23,"Mound Visit"
-"COL201808060",33,"Mound Visit"
-"COL201808060",34,"Injury Delay"
-"COL201808060",47,"Mound Visit"
-"COL201808060",48,"Mound Visit"
-"COL201808060",58,"Mound Visit"
-"COL201808070",24,"Mound Visit"
-"COL201808070",34,"Mound Visit"
-"COL201808070",38,"Mound Visit"
-"COL201808070",50,"Mound Visit"
-"COL201808070",51,"Injury Delay"
-"COL201808070",67,"Injury Delay"
-"COL201808080",24,"Mound Visit"
-"COL201808080",39,"Mound Visit"
-"COL201808080",47,"Mound Visit"
-"COL201808080",49,"Mound Visit"
-"COL201808080",58,"Mound Visit"
-"COL201808080",65,"$Rockies challenged call that Blackmon was out at 2nd; call was upheld - out on caught stealing"
-"COL201808080",71,"Mound Visit"
-"COL201808080",77,"Mound Visit"
-"COL201808080",80,"Mound Visit"
-"COL201808090",40,"Mound Visit"
-"COL201808090",54,"Mound Visit"
-"COL201808090",55,"Mound Visit"
-"COL201808090",56,"Mound Visit"
-"COL201808090",63,"Mound Visit"
-"COL201808090",72,"Mound Visit"
-"COL201808090",73,"Mound Visit"
-"COL201808100",5,"Mound Visit"
-"COL201808100",33,"Mound Visit"
-"COL201808100",40,"Mound Visit"
-"COL201808100",41,"$Nolan Arenado left with a recurrence of shoulder injury"
-"COL201808100",45,"Mound Visit"
-"COL201808100",53,"Mound Visit"
-"COL201808100",57,"Mound Visit"
-"COL201808100",58,"Mound Visit"
-"COL201808100",65,"Mound Visit"
-"COL201808100",71,"Mound Visit"
-"COL201808110",40,"Mound Visit"
-"COL201808110",44,"Injury Delay"
-"COL201808110",58,"Mound Visit"
-"COL201808110",64,"Mound Visit"
-"COL201808110",67,"Mound Visit"
-"COL201808110",67,"Mound Visit"
-"COL201808110",68,"Mound Visit"
-"COL201808120",6,"$Originally scored as passed ball, changed to wild pitch on 08-17-2018"
-"COL201808120",33,"Mound Visit"
-"COL201808120",48,"Mound Visit"
-"COL201808120",50,"Mound Visit"
-"COL201808120",60,"Mound Visit"
-"COL201808120",62,"Injury Delay"
-"COL201808120",67,"Mound Visit"
-"COL201808120",69,"Mound Visit"
-"COL201808120",71,"Mound Visit"
-"COL201808210",38,"Mound Visit"
-"COL201808210",39,"Injury Delay"
-"COL201808210",54,"Mound Visit"
-"COL201808210",55,"Mound Visit"
-"COL201808210",67,"Mound Visit"
-"COL201808220",1,"On-field Delay"
-"COL201808220",13,"Mound Visit"
-"COL201808220",56,"Mound Visit"
-"COL201808220",74,"Injury Delay"
-"COL201808230",24,"Mound Visit"
-"COL201808230",44,"Mound Visit"
-"COL201808230",47,"Mound Visit"
-"COL201808230",50,"Mound Visit"
-"COL201808230",53,"Mound Visit"
-"COL201808230",63,"Mound Visit"
-"COL201808240",11,"Mound Visit"
-"COL201808240",42,"Mound Visit"
-"COL201808240",50,"Mound Visit"
-"COL201808240",53,"Mound Visit"
-"COL201808240",60,"Mound Visit"
-"COL201808240",72,"Mound Visit"
-"COL201808240",76,"Mound Visit"
-"COL201808240",78,"Mound Visit"
-"COL201808250",9,"Injury Delay"
-"COL201808250",10,"$Kolten Wong left with an injured leg"
-"COL201808250",28,"Mound Visit"
-"COL201808250",54,"$Rockies challenged call that Garcia was safe at 1st; call was upheld - single"
-"COL201808250",55,"Mound Visit"
-"COL201808250",56,"Mound Visit"
-"COL201808250",62,"Mound Visit"
-"COL201808250",63,"Mound Visit"
-"COL201808250",64,"Mound Visit"
-"COL201808250",67,"Mound Visit"
-"COL201808250",70,"Injury Delay"
-"COL201808260",6,"Mound Visit"
-"COL201808260",10,"Mound Visit"
-"COL201809030",9,"Mound Visit"
-"COL201809030",30,"Mound Visit"
-"COL201809030",50,"Mound Visit"
-"COL201809030",59,"Mound Visit"
-"COL201809030",62,"Mound Visit"
-"COL201809030",71,"Injury Delay $Rockies challenged call that Hernandez was hit by pitch; call was upheld - hit by pitch Injury Delay"
-"COL201809030",73,"Mound Visit"
-"COL201809030",77,"Mound Visit"
-"COL201809040",45,"Mound Visit"
-"COL201809040",48,"Mound Visit"
-"COL201809040",51,"Mound Visit"
-"COL201809040",55,"Mound Visit"
-"COL201809040",61,"Mound Visit"
-"COL201809040",62,"Mound Visit"
-"COL201809040",64,"Mound Visit"
-"COL201809040",80,"Mound Visit"
-"COL201809040",81,"Mound Visit"
-"COL201809050",5,"Mound Visit"
-"COL201809050",23,"Injury Delay"
-"COL201809050",43,"Mound Visit"
-"COL201809050",53,"Mound Visit"
-"COL201809050",57,"Mound Visit"
-"COL201809050",57,"Mound Visit"
-"COL201809050",69,"Mound Visit"
-"COL201809070",32,"Mound Visit"
-"COL201809070",37,"Mound Visit"
-"COL201809070",39,"Mound Visit"
-"COL201809070",42,"On-field Delay ej,blacb001,M,fleta901,Arguing balk call $Colorado manager Black ejected by plate umpire Fletcher for arguing balk call"
-"COL201809070",43,"Mound Visit"
-"COL201809070",44,"$Rockies challenged call that Verdugo was safe at 1st; call was upheld - safe on throwing error"
-"COL201809070",59,"Mound Visit"
-"COL201809070",65,"Mound Visit"
-"COL201809070",66,"Mound Visit"
-"COL201809070",71,"Mound Visit"
-"COL201809070",72,"Mound Visit"
-"COL201809070",78,"Mound Visit"
-"COL201809070",82,"Mound Visit"
-"COL201809070",83,"Mound Visit"
-"COL201809080",34,"Mound Visit"
-"COL201809080",42,"Mound Visit"
-"COL201809080",62,"Mound Visit"
-"COL201809080",67,"Mound Visit Mound Visit"
-"COL201809090",2,"Injury Delay"
-"COL201809090",4,"Mound Visit"
-"COL201809090",14,"Mound Visit"
-"COL201809090",15,"Mound Visit"
-"COL201809090",23,"Mound Visit"
-"COL201809090",35,"Mound Visit"
-"COL201809090",40,"Mound Visit"
-"COL201809090",44,"Mound Visit"
-"COL201809090",54,"Mound Visit Mound Visit"
-"COL201809090",54,"Mound Visit"
-"COL201809090",69,"Mound Visit"
-"COL201809090",72,"Mound Visit"
-"COL201809090",82,"Mound Visit"
-"COL201809090",84,"Mound Visit"
-"COL201809090",87,"Mound Visit"
-"COL201809100",8,"Mound Visit"
-"COL201809100",25,"$Rockies challenged call that LeMahieu was out at 1st; call was upheld - ground out"
-"COL201809100",39,"Mound Visit"
-"COL201809100",40,"Mound Visit"
-"COL201809100",48,"Mound Visit"
-"COL201809100",49,"Mound Visit"
-"COL201809100",65,"Mound Visit"
-"COL201809100",66,"Mound Visit"
-"COL201809100",74,"Mound Visit"
-"COL201809110",39,"Mound Visit"
-"COL201809110",42,"Mound Visit"
-"COL201809110",49,"Mound Visit"
-"COL201809110",52,"Mound Visit"
-"COL201809110",56,"Mound Visit"
-"COL201809110",56,"Mound Visit"
-"COL201809110",58,"Mound Visit"
-"COL201809110",62,"$Diamondbacks challenged call that Pollock was out at 1st; call was overturned - single"
-"COL201809110",74,"Mound Visit"
-"COL201809110",77,"Mound Visit"
-"COL201809120",10,"Mound Visit"
-"COL201809120",13,"Mound Visit"
-"COL201809120",19,"Injury Delay"
-"COL201809120",23,"$Diamondbacks challenged call that Goldschmidt was out at 2nd to complete double play; call was overturned - stolen base"
-"COL201809120",53,"Mound Visit"
-"COL201809120",58,"Mound Visit"
-"COL201809120",62,"Mound Visit"
-"COL201809120",66,"Mound Visit"
-"COL201809120",67,"Mound Visit"
-"COL201809130",3,"$Clay Buchholz left with an injured elbow"
-"COL201809130",25,"Mound Visit"
-"COL201809130",38,"Mound Visit"
-"COL201809130",39,"Mound Visit"
-"COL201809130",43,"Mound Visit"
-"COL201809130",45,"Injury Delay"
-"COL201809130",55,"Mound Visit"
-"COL201809130",56,"Mound Visit"
-"COL201809130",58,"Mound Visit"
-"COL201809130",61,"Mound Visit"
-"COL201809130",62,"Mound Visit"
-"COL201809130",64,"Mound Visit"
-"COL201809130",67,"Mound Visit"
-"COL201809240",5,"Mound Visit"
-"COL201809240",13,"$Rockies challenged call that Quinn was safe at 1st; call was overturned - out on pickoff"
-"COL201809240",28,"Mound Visit"
-"COL201809240",29,"Mound Visit"
-"COL201809240",31,"Mound Visit"
-"COL201809240",38,"Injury Delay"
-"COL201809250",18,"Mound Visit"
-"COL201809250",19,"Mound Visit"
-"COL201809250",27,"Mound Visit"
-"COL201809250",39,"Mound Visit"
-"COL201809250",40,"Mound Visit"
-"COL201809250",48,"Mound Visit"
-"COL201809250",49,"On-field Delay"
-"COL201809250",56,"Mound Visit"
-"COL201809250",57,"$Originally scored as single, changed to E6 on 10-01-2018"
-"COL201809250",76,"Mound Visit"
-"COL201809250",77,"Mound Visit"
-"COL201809260",18,"Mound Visit"
-"COL201809260",26,"$Phillies challenged call that Quinn was out at home; call was upheld - out at home"
-"COL201809260",38,"Mound Visit"
-"COL201809260",40,"Mound Visit"
-"COL201809260",43,"Mound Visit"
-"COL201809260",45,"Mound Visit"
-"COL201809260",68,"Mound Visit"
-"COL201809270",9,"Mound Visit"
-"COL201809270",24,"Mound Visit"
-"COL201809270",29,"Mound Visit"
-"COL201809270",34,"Mound Visit"
-"COL201809270",43,"Mound Visit"
-"COL201809270",54,"Mound Visit"
-"COL201809270",56,"On-field Delay Mound Visit"
-"COL201809270",62,"Mound Visit"
-"COL201809270",64,"$Rockies challenged call that Story was out at 1st; call was upheld - ground out"
-"COL201809270",67,"Mound Visit"
-"COL201809270",72,"Mound Visit"
-"COL201809280",20,"$Nationals challenged call that Robles was outat 3rd; call was overturned - strikeout and double steal"
-"COL201809280",21,"Mound Visit"
-"COL201809280",29,"$Rockies challenged that 3rd pitch was foul ball, claiming it hit batter; call was upheld - foul ball"
-"COL201809280",42,"Mound Visit"
-"COL201809280",46,"Mound Visit"
-"COL201809280",50,"Mound Visit"
-"COL201809280",55,"Mound Visit"
-"COL201809290",1,"Injury Delay"
-"COL201809290",6,"Mound Visit"
-"COL201809290",16,"Mound Visit"
-"COL201809290",17,"Mound Visit"
-"COL201809290",23,"$Nationals challenged call that Tapia was safe at 1st; call was overturned - ground out"
-"COL201809290",52,"Mound Visit"
-"COL201809290",57,"Mound Visit"
-"COL201809290",60,"Mound Visit"
-"COL201809290",84,"Mound Visit"
-"COL201809300",39,"Mound Visit"
-"COL201809300",46,"Injury Delay"
-"COL201809300",61,"Mound Visit"
-"COL201809300",63,"Mound Visit"
+"COL201804070",18,"$Rockies challenged call that Inciarte was safe at first; call was overturned - out at first to complete DP"FILENAME_TX","LINE_NUMBER_CT"
+
+"COL201804070",44,"$Braves challenged call that Albies was out at first; call was upheld - out at first"2018COL.EVN.regular.comment.csv",2
+
+"COL201804090",55,"ej,greea001,M,gormb901,Arguing home run replay $Umpire review upheld call that ball was a home run; Padres claimed fan interference, but home run call was upheld; San Diego manager Green argued the call and was automatically ejected by 2b ump Gorman, the crew chief"2018COL.EVN.regular.comment.csv",3
+
+"COL201804110",22,"ej,ellia001,P,gormb901,Fighting ej,perdl002,P,gormb901,Fighting ej,marqg001,P,gormb901,Fighting ej,parrg001,P,gormb901,Fighting ej,arenn001,P,gormb901,Fighting $Padres pitcher Perdomo and catcher Ellis ejected by HP umpire Gorman along with Rockies Arenado, Marquez and Parra for fighting; incident began when first pitch to Arenado was behind him and he charged mound; benches emptie"2018COL.EVN.regular.comment.csv",4
+
+"COL201804110",24,"$Padres challenged call that Desmond was safe at 2nd; call was upheld - stolen base"2018COL.EVN.regular.comment.csv",5
+
+"COL201804200",32,"Rockies challenged call that Heyward was safe on pickoff attempt; call was overturned - pickoff at 1st"2018COL.EVN.regular.comment.csv",6
+
+"COL201804200",40,"$Cubs challenged call that Baez was out at 3rd; call was overturned - fielder's choice, no outs"2018COL.EVN.regular.comment.csv",7
+
+"COL201804200",41,"$Run originally scored as unearned, changed to earned on 04-23-2018"2018COL.EVN.regular.comment.csv",8
+
+"COL201804210",5,"$Umpire review to see if Contreras' hit were a homer; call was upheld - double"2018COL.EVN.regular.comment.csv",9
+
+"COL201804220",3,"ej,haina801,C,blasc901,Arguing hit by pitch ej,davic001,C,blasc901,Arguing hit by pitch $Kris Bryant hit in head with pitch, left game; initial tests revealed no concussion; Chicago coaches Andy Haines and Chili Davis argued about the hit batter and were ejected by plate ump Cory Blaser"2018COL.EVN.regular.comment.csv",10
+
+"COL201804220",93,"$Cubs challenged call that Arenado safe at home on wild pitch; call was overturned - out advancing"2018COL.EVN.regular.comment.csv",11
+
+"COL201804250",12,"$originally scored as single, changed to throwing error on 05-08-2018"2018COL.EVN.regular.comment.csv",12
+
+"COL201804250",46,"$Padres challenged call that Pirelas was out at 2nd; call was upheld - out on caught stealing"2018COL.EVN.regular.comment.csv",13
+
+"COL201805080",47,"$Rockies challenged call that second pitch was ball, claiming it hit Cuevas; call was overturned - hit by pitch"2018COL.EVN.regular.comment.csv",14
+
+"COL201805080",57,"$Angels challenged call that Blackmon was safe at home; call was upheld - safe at home"2018COL.EVN.regular.comment.csv",15
+
+"COL201805090",60,"$Rockies challenged call that Simmons was safe at 1st; call was overturned - ground out"2018COL.EVN.regular.comment.csv",16
+
+"COL201805100",32,"$Rockies challenged call that Yelich was safe at 1st; call was upheld - single"2018COL.EVN.regular.comment.csv",17
+
+"COL201805110",26,"$Brewers challenged call that LeMahieu was safe at home; call was upheld - safe at home"2018COL.EVN.regular.comment.csv",18
+
+"COL201805120",7,"$Umpire review; call was upheld - home run"2018COL.EVN.regular.comment.csv",19
+
+"COL201805120",9,"$Umpire review to check ball called foul on second pitch; call was upheld - foul ball, not home run"2018COL.EVN.regular.comment.csv",20
+
+"COL201805290",13,"$Jeff Samardzija left with an injured shoulder"2018COL.EVN.regular.comment.csv",21
+
+"COL201805290",47,"$Rockies challenged call that Freeland was out at first; call was upheld - ground out"2018COL.EVN.regular.comment.csv",22
+
+"COL201806010",89,"$Dodgers challenged call that Parra was safe at first; call was upheld - force out, no DP"2018COL.EVN.regular.comment.csv",23
+
+"COL201806020",34,"$Dodgers challenged call that Valera was out at first to complete double play; call was overtuend - force out, no DP"2018COL.EVN.regular.comment.csv",24
+
+"COL201806090",48,"$Diamondbacks callenged call that Story was safe at second for stolen base; call was overturned - out on caught stealing"2018COL.EVN.regular.comment.csv",25
+
+"COL201806180",33,"ej,blacb001,M,welkb901,Arguing call at first $Colorado manager Bud Black ejected by 1b umpire Welke for arguing call at 1st on which Welke ruled Story out for being out of baseline trying to return to first after line drive"2018COL.EVN.regular.comment.csv",26
+
+"COL201806180",63,"$Rockies challenged call that deGrom was safe at first for single; call was ovrturned - ground out"2018COL.EVN.regular.comment.csv",27
+
+"COL201806190",30,"$Umpire review of ball hit by Cuevas; call was upheld - double, not home run"2018COL.EVN.regular.comment.csv",28
+
+"COL201806190",60,"$Double play ruled on runner interference at second"2018COL.EVN.regular.comment.csv",29
+
+"COL201806200",76,"$Rockies challenged call that Murphy was out at second; call was upheld - out on caught stealing to complete double play"2018COL.EVN.regular.comment.csv",30
+
+"COL201806230",51,"$Marlins challenged call that Castro was out at first; call was overturned - single"2018COL.EVN.regular.comment.csv",31
+
+"COL201806240",21,"$Caleb Smith left with an injured shoulder"2018COL.EVN.regular.comment.csv",32
+
+"COL201807020",10,"$Rockies challenged call that Story was out at second; call overturned - safe on fielder's choice; changed to single on 07-09-2018"2018COL.EVN.regular.comment.csv",33
+
+"COL201807020",36,"Mound Visit"2018COL.EVN.regular.comment.csv",34
+
+"COL201807020",53,"Mound Visit"2018COL.EVN.regular.comment.csv",35
+
+"COL201807020",55,"Mound Visit"2018COL.EVN.regular.comment.csv",36
+
+"COL201807020",56,"Mound Visit"2018COL.EVN.regular.comment.csv",37
+
+"COL201807020",65,"Mound Visit"2018COL.EVN.regular.comment.csv",38
+
+"COL201807030",13,"On-field Delay"2018COL.EVN.regular.comment.csv",39
+
+"COL201807030",36,"Injury Delay"2018COL.EVN.regular.comment.csv",40
+
+"COL201807030",39,"Mound Visit"2018COL.EVN.regular.comment.csv",41
+
+"COL201807030",50,"Mound Visit"2018COL.EVN.regular.comment.csv",42
+
+"COL201807030",59,"Injury Delay"2018COL.EVN.regular.comment.csv",43
+
+"COL201807030",62,"Mound Visit"2018COL.EVN.regular.comment.csv",44
+
+"COL201807030",64,"Mound Visit"2018COL.EVN.regular.comment.csv",45
+
+"COL201807040",7,"$Rockies challenged call that Story was out at first; call was overturned - single"2018COL.EVN.regular.comment.csv",46
+
+"COL201807040",48,"$Umpire review ball hit by Iannetta; call was upheld - home run"2018COL.EVN.regular.comment.csv",47
+
+"COL201807040",51,"Mound Visit"2018COL.EVN.regular.comment.csv",48
+
+"COL201807040",52,"Mound Visit"2018COL.EVN.regular.comment.csv",49
+
+"COL201807040",56,"Mound Visit"2018COL.EVN.regular.comment.csv",50
+
+"COL201807040",63,"Mound Visit"2018COL.EVN.regular.comment.csv",51
+
+"COL201807100",25,"Mound Visit"2018COL.EVN.regular.comment.csv",52
+
+"COL201807100",29,"Mound Visit"2018COL.EVN.regular.comment.csv",53
+
+"COL201807100",30,"Mound Visit"2018COL.EVN.regular.comment.csv",54
+
+"COL201807100",43,"Mound Visit"2018COL.EVN.regular.comment.csv",55
+
+"COL201807100",44,"Mound Visit"2018COL.EVN.regular.comment.csv",56
+
+"COL201807100",57,"Mound Visit"2018COL.EVN.regular.comment.csv",57
+
+"COL201807100",61,"Mound Visit"2018COL.EVN.regular.comment.csv",58
+
+"COL201807100",66,"Mound Visit"2018COL.EVN.regular.comment.csv",59
+
+"COL201807100",67,"Mound Visit"2018COL.EVN.regular.comment.csv",60
+
+"COL201807100",81,"Mound Visit"2018COL.EVN.regular.comment.csv",61
+
+"COL201807100",85,"Mound Visit"2018COL.EVN.regular.comment.csv",62
+
+"COL201807110",10,"Mound Visit"2018COL.EVN.regular.comment.csv",63
+
+"COL201807110",18,"$Shelby Miller left with an injured arm"2018COL.EVN.regular.comment.csv",64
+
+"COL201807110",21,"Mound Visit"2018COL.EVN.regular.comment.csv",65
+
+"COL201807110",25,"Mound Visit"2018COL.EVN.regular.comment.csv",66
+
+"COL201807110",36,"Mound Visit"2018COL.EVN.regular.comment.csv",67
+
+"COL201807110",46,"Mound Visit"2018COL.EVN.regular.comment.csv",68
+
+"COL201807110",62,"Mound Visit"2018COL.EVN.regular.comment.csv",69
+
+"COL201807110",64,"Mound Visit"2018COL.EVN.regular.comment.csv",70
+
+"COL201807120",5,"Mound Visit"2018COL.EVN.regular.comment.csv",71
+
+"COL201807120",48,"Mound Visit"2018COL.EVN.regular.comment.csv",72
+
+"COL201807120",49,"Mound Visit"2018COL.EVN.regular.comment.csv",73
+
+"COL201807120",53,"Mound Visit"2018COL.EVN.regular.comment.csv",74
+
+"COL201807120",54,"Mound Visit"2018COL.EVN.regular.comment.csv",75
+
+"COL201807120",55,"Mound Visit"2018COL.EVN.regular.comment.csv",76
+
+"COL201807120",60,"Mound Visit"2018COL.EVN.regular.comment.csv",77
+
+"COL201807120",71,"Mound Visit"2018COL.EVN.regular.comment.csv",78
+
+"COL201807130",6,"Mound Visit"2018COL.EVN.regular.comment.csv",79
+
+"COL201807130",9,"$Rockies challenged call that Gamel was safe at first for single; call was overturned - ground out"2018COL.EVN.regular.comment.csv",80
+
+"COL201807130",25,"Injury Delay"2018COL.EVN.regular.comment.csv",81
+
+"COL201807130",37,"Mound Visit"2018COL.EVN.regular.comment.csv",82
+
+"COL201807130",47,"Mound Visit"2018COL.EVN.regular.comment.csv",83
+
+"COL201807130",53,"Mound Visit"2018COL.EVN.regular.comment.csv",84
+
+"COL201807130",62,"Mound Visit"2018COL.EVN.regular.comment.csv",85
+
+"COL201807130",66,"Mound Visit"2018COL.EVN.regular.comment.csv",86
+
+"COL201807130",68,"Mound Visit"2018COL.EVN.regular.comment.csv",87
+
+"COL201807130",69,"Mound Visit"2018COL.EVN.regular.comment.csv",88
+
+"COL201807130",80,"Mound Visit"2018COL.EVN.regular.comment.csv",89
+
+"COL201807140",20,"Mound Visit"2018COL.EVN.regular.comment.csv",90
+
+"COL201807140",40,"Mound Visit"2018COL.EVN.regular.comment.csv",91
+
+"COL201807140",41,"Mound Visit"2018COL.EVN.regular.comment.csv",92
+
+"COL201807140",47,"On-field Delay"2018COL.EVN.regular.comment.csv",93
+
+"COL201807140",59,"Mound Visit"2018COL.EVN.regular.comment.csv",94
+
+"COL201807140",63,"Mound Visit"2018COL.EVN.regular.comment.csv",95
+
+"COL201807140",64,"Mound Visit"2018COL.EVN.regular.comment.csv",96
+
+"COL201807140",65,"Mound Visit"2018COL.EVN.regular.comment.csv",97
+
+"COL201807150",6,"Mound Visit"2018COL.EVN.regular.comment.csv",98
+
+"COL201807150",15,"Injury Delay"2018COL.EVN.regular.comment.csv",99
+
+"COL201807150",17,"On-field Delay"2018COL.EVN.regular.comment.csv",100
+
+"COL201807150",44,"Mound Visit"2018COL.EVN.regular.comment.csv",101
+
+"COL201807150",50,"Mound Visit"2018COL.EVN.regular.comment.csv",102
+
+"COL201807150",55,"Mound Visit $Mariners challenged call that Desmond was safe at third; call was upheld - triple"2018COL.EVN.regular.comment.csv",103
+
+"COL201807150",61,"Mound Visit"2018COL.EVN.regular.comment.csv",104
+
+"COL201807240",49,"Mound Visit"2018COL.EVN.regular.comment.csv",105
+
+"COL201807240",52,"Mound Visit"2018COL.EVN.regular.comment.csv",106
+
+"COL201807240",54,"Mound Visit"2018COL.EVN.regular.comment.csv",107
+
+"COL201807240",57,"Injury Delay"2018COL.EVN.regular.comment.csv",108
+
+"COL201807240",70,"Mound Visit"2018COL.EVN.regular.comment.csv",109
+
+"COL201807240",73,"Mound Visit $Umpire review on ball hit by Springer; call was upheld - homer"2018COL.EVN.regular.comment.csv",110
+
+"COL201807250",36,"$Jose Altuve left with an injured knee"2018COL.EVN.regular.comment.csv",111
+
+"COL201807250",42,"$Rockies challenged call that Bregman's ball was a triple; call was overturned - out on fan interference"2018COL.EVN.regular.comment.csv",112
+
+"COL201807250",48,"Mound Visit"2018COL.EVN.regular.comment.csv",113
+
+"COL201807250",49,"Mound Visit"2018COL.EVN.regular.comment.csv",114
+
+"COL201807250",53,"Mound Visit"2018COL.EVN.regular.comment.csv",115
+
+"COL201807250",55,"Mound Visit"2018COL.EVN.regular.comment.csv",116
+
+"COL201807250",57,"Mound Visit"2018COL.EVN.regular.comment.csv",117
+
+"COL201807250",59,"On-field Delay $Originally scored as advances to 2nd and third on the foul out, changed on 08-01-2018 to advances on E5 throwing error"2018COL.EVN.regular.comment.csv",118
+
+"COL201807270",5,"Mound Visit"2018COL.EVN.regular.comment.csv",119
+
+"COL201807270",9,"Mound Visit"2018COL.EVN.regular.comment.csv",120
+
+"COL201807270",15,"$Athletics challenged call that Chapman was out at first; call was upheld - ground out"2018COL.EVN.regular.comment.csv",121
+
+"COL201807270",33,"$Rockies challenged call that Gonzalez was out at first; call was overturned - single"2018COL.EVN.regular.comment.csv",122
+
+"COL201807270",53,"Mound Visit"2018COL.EVN.regular.comment.csv",123
+
+"COL201807270",58,"Mound Visit"2018COL.EVN.regular.comment.csv",124
+
+"COL201807270",59,"Mound Visit"2018COL.EVN.regular.comment.csv",125
+
+"COL201807270",68,"Mound Visit"2018COL.EVN.regular.comment.csv",126
+
+"COL201807280",4,"$Athletics challenged call that Martini was out at home; call was overturned - out to complete double play"2018COL.EVN.regular.comment.csv",127
+
+"COL201807280",5,"Mound Visit"2018COL.EVN.regular.comment.csv",128
+
+"COL201807280",43,"Mound Visit"2018COL.EVN.regular.comment.csv",129
+
+"COL201807280",46,"Injury Delay"2018COL.EVN.regular.comment.csv",130
+
+"COL201807280",47,"Mound Visit"2018COL.EVN.regular.comment.csv",131
+
+"COL201807280",48,"Mound Visit"2018COL.EVN.regular.comment.csv",132
+
+"COL201807280",65,"$Rockies challenged call that Semien was hit by 4th pitch; call was overturned - foul"2018COL.EVN.regular.comment.csv",133
+
+"COL201807290",15,"Mound Visit"2018COL.EVN.regular.comment.csv",134
+
+"COL201807290",39,"Injury Delay"2018COL.EVN.regular.comment.csv",135
+
+"COL201807290",42,"Mound Visit Mound Visit"2018COL.EVN.regular.comment.csv",136
+
+"COL201807290",52,"Mound Visit"2018COL.EVN.regular.comment.csv",137
+
+"COL201807290",60,"Mound Visit"2018COL.EVN.regular.comment.csv",138
+
+"COL201808060",23,"Mound Visit"2018COL.EVN.regular.comment.csv",139
+
+"COL201808060",33,"Mound Visit"2018COL.EVN.regular.comment.csv",140
+
+"COL201808060",34,"Injury Delay"2018COL.EVN.regular.comment.csv",141
+
+"COL201808060",47,"Mound Visit"2018COL.EVN.regular.comment.csv",142
+
+"COL201808060",48,"Mound Visit"2018COL.EVN.regular.comment.csv",143
+
+"COL201808060",58,"Mound Visit"2018COL.EVN.regular.comment.csv",144
+
+"COL201808070",24,"Mound Visit"2018COL.EVN.regular.comment.csv",145
+
+"COL201808070",34,"Mound Visit"2018COL.EVN.regular.comment.csv",146
+
+"COL201808070",38,"Mound Visit"2018COL.EVN.regular.comment.csv",147
+
+"COL201808070",50,"Mound Visit"2018COL.EVN.regular.comment.csv",148
+
+"COL201808070",51,"Injury Delay"2018COL.EVN.regular.comment.csv",149
+
+"COL201808070",67,"Injury Delay"2018COL.EVN.regular.comment.csv",150
+
+"COL201808080",24,"Mound Visit"2018COL.EVN.regular.comment.csv",151
+
+"COL201808080",39,"Mound Visit"2018COL.EVN.regular.comment.csv",152
+
+"COL201808080",47,"Mound Visit"2018COL.EVN.regular.comment.csv",153
+
+"COL201808080",49,"Mound Visit"2018COL.EVN.regular.comment.csv",154
+
+"COL201808080",58,"Mound Visit"2018COL.EVN.regular.comment.csv",155
+
+"COL201808080",65,"$Rockies challenged call that Blackmon was out at 2nd; call was upheld - out on caught stealing"2018COL.EVN.regular.comment.csv",156
+
+"COL201808080",71,"Mound Visit"2018COL.EVN.regular.comment.csv",157
+
+"COL201808080",77,"Mound Visit"2018COL.EVN.regular.comment.csv",158
+
+"COL201808080",80,"Mound Visit"2018COL.EVN.regular.comment.csv",159
+
+"COL201808090",40,"Mound Visit"2018COL.EVN.regular.comment.csv",160
+
+"COL201808090",54,"Mound Visit"2018COL.EVN.regular.comment.csv",161
+
+"COL201808090",55,"Mound Visit"2018COL.EVN.regular.comment.csv",162
+
+"COL201808090",56,"Mound Visit"2018COL.EVN.regular.comment.csv",163
+
+"COL201808090",63,"Mound Visit"2018COL.EVN.regular.comment.csv",164
+
+"COL201808090",72,"Mound Visit"2018COL.EVN.regular.comment.csv",165
+
+"COL201808090",73,"Mound Visit"2018COL.EVN.regular.comment.csv",166
+
+"COL201808100",5,"Mound Visit"2018COL.EVN.regular.comment.csv",167
+
+"COL201808100",33,"Mound Visit"2018COL.EVN.regular.comment.csv",168
+
+"COL201808100",40,"Mound Visit"2018COL.EVN.regular.comment.csv",169
+
+"COL201808100",41,"$Nolan Arenado left with a recurrence of shoulder injury"2018COL.EVN.regular.comment.csv",170
+
+"COL201808100",45,"Mound Visit"2018COL.EVN.regular.comment.csv",171
+
+"COL201808100",53,"Mound Visit"2018COL.EVN.regular.comment.csv",172
+
+"COL201808100",57,"Mound Visit"2018COL.EVN.regular.comment.csv",173
+
+"COL201808100",58,"Mound Visit"2018COL.EVN.regular.comment.csv",174
+
+"COL201808100",65,"Mound Visit"2018COL.EVN.regular.comment.csv",175
+
+"COL201808100",71,"Mound Visit"2018COL.EVN.regular.comment.csv",176
+
+"COL201808110",40,"Mound Visit"2018COL.EVN.regular.comment.csv",177
+
+"COL201808110",44,"Injury Delay"2018COL.EVN.regular.comment.csv",178
+
+"COL201808110",58,"Mound Visit"2018COL.EVN.regular.comment.csv",179
+
+"COL201808110",64,"Mound Visit"2018COL.EVN.regular.comment.csv",180
+
+"COL201808110",67,"Mound Visit"2018COL.EVN.regular.comment.csv",181
+
+"COL201808110",67,"Mound Visit"2018COL.EVN.regular.comment.csv",182
+
+"COL201808110",68,"Mound Visit"2018COL.EVN.regular.comment.csv",183
+
+"COL201808120",6,"$Originally scored as passed ball, changed to wild pitch on 08-17-2018"2018COL.EVN.regular.comment.csv",184
+
+"COL201808120",33,"Mound Visit"2018COL.EVN.regular.comment.csv",185
+
+"COL201808120",48,"Mound Visit"2018COL.EVN.regular.comment.csv",186
+
+"COL201808120",50,"Mound Visit"2018COL.EVN.regular.comment.csv",187
+
+"COL201808120",60,"Mound Visit"2018COL.EVN.regular.comment.csv",188
+
+"COL201808120",62,"Injury Delay"2018COL.EVN.regular.comment.csv",189
+
+"COL201808120",67,"Mound Visit"2018COL.EVN.regular.comment.csv",190
+
+"COL201808120",69,"Mound Visit"2018COL.EVN.regular.comment.csv",191
+
+"COL201808120",71,"Mound Visit"2018COL.EVN.regular.comment.csv",192
+
+"COL201808210",38,"Mound Visit"2018COL.EVN.regular.comment.csv",193
+
+"COL201808210",39,"Injury Delay"2018COL.EVN.regular.comment.csv",194
+
+"COL201808210",54,"Mound Visit"2018COL.EVN.regular.comment.csv",195
+
+"COL201808210",55,"Mound Visit"2018COL.EVN.regular.comment.csv",196
+
+"COL201808210",67,"Mound Visit"2018COL.EVN.regular.comment.csv",197
+
+"COL201808220",1,"On-field Delay"2018COL.EVN.regular.comment.csv",198
+
+"COL201808220",13,"Mound Visit"2018COL.EVN.regular.comment.csv",199
+
+"COL201808220",56,"Mound Visit"2018COL.EVN.regular.comment.csv",200
+
+"COL201808220",74,"Injury Delay"2018COL.EVN.regular.comment.csv",201
+
+"COL201808230",24,"Mound Visit"2018COL.EVN.regular.comment.csv",202
+
+"COL201808230",44,"Mound Visit"2018COL.EVN.regular.comment.csv",203
+
+"COL201808230",47,"Mound Visit"2018COL.EVN.regular.comment.csv",204
+
+"COL201808230",50,"Mound Visit"2018COL.EVN.regular.comment.csv",205
+
+"COL201808230",53,"Mound Visit"2018COL.EVN.regular.comment.csv",206
+
+"COL201808230",63,"Mound Visit"2018COL.EVN.regular.comment.csv",207
+
+"COL201808240",11,"Mound Visit"2018COL.EVN.regular.comment.csv",208
+
+"COL201808240",42,"Mound Visit"2018COL.EVN.regular.comment.csv",209
+
+"COL201808240",50,"Mound Visit"2018COL.EVN.regular.comment.csv",210
+
+"COL201808240",53,"Mound Visit"2018COL.EVN.regular.comment.csv",211
+
+"COL201808240",60,"Mound Visit"2018COL.EVN.regular.comment.csv",212
+
+"COL201808240",72,"Mound Visit"2018COL.EVN.regular.comment.csv",213
+
+"COL201808240",76,"Mound Visit"2018COL.EVN.regular.comment.csv",214
+
+"COL201808240",78,"Mound Visit"2018COL.EVN.regular.comment.csv",215
+
+"COL201808250",9,"Injury Delay"2018COL.EVN.regular.comment.csv",216
+
+"COL201808250",10,"$Kolten Wong left with an injured leg"2018COL.EVN.regular.comment.csv",217
+
+"COL201808250",28,"Mound Visit"2018COL.EVN.regular.comment.csv",218
+
+"COL201808250",54,"$Rockies challenged call that Garcia was safe at 1st; call was upheld - single"2018COL.EVN.regular.comment.csv",219
+
+"COL201808250",55,"Mound Visit"2018COL.EVN.regular.comment.csv",220
+
+"COL201808250",56,"Mound Visit"2018COL.EVN.regular.comment.csv",221
+
+"COL201808250",62,"Mound Visit"2018COL.EVN.regular.comment.csv",222
+
+"COL201808250",63,"Mound Visit"2018COL.EVN.regular.comment.csv",223
+
+"COL201808250",64,"Mound Visit"2018COL.EVN.regular.comment.csv",224
+
+"COL201808250",67,"Mound Visit"2018COL.EVN.regular.comment.csv",225
+
+"COL201808250",70,"Injury Delay"2018COL.EVN.regular.comment.csv",226
+
+"COL201808260",6,"Mound Visit"2018COL.EVN.regular.comment.csv",227
+
+"COL201808260",10,"Mound Visit"2018COL.EVN.regular.comment.csv",228
+
+"COL201809030",9,"Mound Visit"2018COL.EVN.regular.comment.csv",229
+
+"COL201809030",30,"Mound Visit"2018COL.EVN.regular.comment.csv",230
+
+"COL201809030",50,"Mound Visit"2018COL.EVN.regular.comment.csv",231
+
+"COL201809030",59,"Mound Visit"2018COL.EVN.regular.comment.csv",232
+
+"COL201809030",62,"Mound Visit"2018COL.EVN.regular.comment.csv",233
+
+"COL201809030",71,"Injury Delay $Rockies challenged call that Hernandez was hit by pitch; call was upheld - hit by pitch Injury Delay"2018COL.EVN.regular.comment.csv",234
+
+"COL201809030",73,"Mound Visit"2018COL.EVN.regular.comment.csv",235
+
+"COL201809030",77,"Mound Visit"2018COL.EVN.regular.comment.csv",236
+
+"COL201809040",45,"Mound Visit"2018COL.EVN.regular.comment.csv",237
+
+"COL201809040",48,"Mound Visit"2018COL.EVN.regular.comment.csv",238
+
+"COL201809040",51,"Mound Visit"2018COL.EVN.regular.comment.csv",239
+
+"COL201809040",55,"Mound Visit"2018COL.EVN.regular.comment.csv",240
+
+"COL201809040",61,"Mound Visit"2018COL.EVN.regular.comment.csv",241
+
+"COL201809040",62,"Mound Visit"2018COL.EVN.regular.comment.csv",242
+
+"COL201809040",64,"Mound Visit"2018COL.EVN.regular.comment.csv",243
+
+"COL201809040",80,"Mound Visit"2018COL.EVN.regular.comment.csv",244
+
+"COL201809040",81,"Mound Visit"2018COL.EVN.regular.comment.csv",245
+
+"COL201809050",5,"Mound Visit"2018COL.EVN.regular.comment.csv",246
+
+"COL201809050",23,"Injury Delay"2018COL.EVN.regular.comment.csv",247
+
+"COL201809050",43,"Mound Visit"2018COL.EVN.regular.comment.csv",248
+
+"COL201809050",53,"Mound Visit"2018COL.EVN.regular.comment.csv",249
+
+"COL201809050",57,"Mound Visit"2018COL.EVN.regular.comment.csv",250
+
+"COL201809050",57,"Mound Visit"2018COL.EVN.regular.comment.csv",251
+
+"COL201809050",69,"Mound Visit"2018COL.EVN.regular.comment.csv",252
+
+"COL201809070",32,"Mound Visit"2018COL.EVN.regular.comment.csv",253
+
+"COL201809070",37,"Mound Visit"2018COL.EVN.regular.comment.csv",254
+
+"COL201809070",39,"Mound Visit"2018COL.EVN.regular.comment.csv",255
+
+"COL201809070",42,"On-field Delay ej,blacb001,M,fleta901,Arguing balk call $Colorado manager Black ejected by plate umpire Fletcher for arguing balk call"2018COL.EVN.regular.comment.csv",256
+
+"COL201809070",43,"Mound Visit"2018COL.EVN.regular.comment.csv",257
+
+"COL201809070",44,"$Rockies challenged call that Verdugo was safe at 1st; call was upheld - safe on throwing error"2018COL.EVN.regular.comment.csv",258
+
+"COL201809070",59,"Mound Visit"2018COL.EVN.regular.comment.csv",259
+
+"COL201809070",65,"Mound Visit"2018COL.EVN.regular.comment.csv",260
+
+"COL201809070",66,"Mound Visit"2018COL.EVN.regular.comment.csv",261
+
+"COL201809070",71,"Mound Visit"2018COL.EVN.regular.comment.csv",262
+
+"COL201809070",72,"Mound Visit"2018COL.EVN.regular.comment.csv",263
+
+"COL201809070",78,"Mound Visit"2018COL.EVN.regular.comment.csv",264
+
+"COL201809070",82,"Mound Visit"2018COL.EVN.regular.comment.csv",265
+
+"COL201809070",83,"Mound Visit"2018COL.EVN.regular.comment.csv",266
+
+"COL201809080",34,"Mound Visit"2018COL.EVN.regular.comment.csv",267
+
+"COL201809080",42,"Mound Visit"2018COL.EVN.regular.comment.csv",268
+
+"COL201809080",62,"Mound Visit"2018COL.EVN.regular.comment.csv",269
+
+"COL201809080",67,"Mound Visit Mound Visit"2018COL.EVN.regular.comment.csv",270
+
+"COL201809090",2,"Injury Delay"2018COL.EVN.regular.comment.csv",271
+
+"COL201809090",4,"Mound Visit"2018COL.EVN.regular.comment.csv",272
+
+"COL201809090",14,"Mound Visit"2018COL.EVN.regular.comment.csv",273
+
+"COL201809090",15,"Mound Visit"2018COL.EVN.regular.comment.csv",274
+
+"COL201809090",23,"Mound Visit"2018COL.EVN.regular.comment.csv",275
+
+"COL201809090",35,"Mound Visit"2018COL.EVN.regular.comment.csv",276
+
+"COL201809090",40,"Mound Visit"2018COL.EVN.regular.comment.csv",277
+
+"COL201809090",44,"Mound Visit"2018COL.EVN.regular.comment.csv",278
+
+"COL201809090",54,"Mound Visit Mound Visit"2018COL.EVN.regular.comment.csv",279
+
+"COL201809090",54,"Mound Visit"2018COL.EVN.regular.comment.csv",280
+
+"COL201809090",69,"Mound Visit"2018COL.EVN.regular.comment.csv",281
+
+"COL201809090",72,"Mound Visit"2018COL.EVN.regular.comment.csv",282
+
+"COL201809090",82,"Mound Visit"2018COL.EVN.regular.comment.csv",283
+
+"COL201809090",84,"Mound Visit"2018COL.EVN.regular.comment.csv",284
+
+"COL201809090",87,"Mound Visit"2018COL.EVN.regular.comment.csv",285
+
+"COL201809100",8,"Mound Visit"2018COL.EVN.regular.comment.csv",286
+
+"COL201809100",25,"$Rockies challenged call that LeMahieu was out at 1st; call was upheld - ground out"2018COL.EVN.regular.comment.csv",287
+
+"COL201809100",39,"Mound Visit"2018COL.EVN.regular.comment.csv",288
+
+"COL201809100",40,"Mound Visit"2018COL.EVN.regular.comment.csv",289
+
+"COL201809100",48,"Mound Visit"2018COL.EVN.regular.comment.csv",290
+
+"COL201809100",49,"Mound Visit"2018COL.EVN.regular.comment.csv",291
+
+"COL201809100",65,"Mound Visit"2018COL.EVN.regular.comment.csv",292
+
+"COL201809100",66,"Mound Visit"2018COL.EVN.regular.comment.csv",293
+
+"COL201809100",74,"Mound Visit"2018COL.EVN.regular.comment.csv",294
+
+"COL201809110",39,"Mound Visit"2018COL.EVN.regular.comment.csv",295
+
+"COL201809110",42,"Mound Visit"2018COL.EVN.regular.comment.csv",296
+
+"COL201809110",49,"Mound Visit"2018COL.EVN.regular.comment.csv",297
+
+"COL201809110",52,"Mound Visit"2018COL.EVN.regular.comment.csv",298
+
+"COL201809110",56,"Mound Visit"2018COL.EVN.regular.comment.csv",299
+
+"COL201809110",56,"Mound Visit"2018COL.EVN.regular.comment.csv",300
+
+"COL201809110",58,"Mound Visit"2018COL.EVN.regular.comment.csv",301
+
+"COL201809110",62,"$Diamondbacks challenged call that Pollock was out at 1st; call was overturned - single"2018COL.EVN.regular.comment.csv",302
+
+"COL201809110",74,"Mound Visit"2018COL.EVN.regular.comment.csv",303
+
+"COL201809110",77,"Mound Visit"2018COL.EVN.regular.comment.csv",304
+
+"COL201809120",10,"Mound Visit"2018COL.EVN.regular.comment.csv",305
+
+"COL201809120",13,"Mound Visit"2018COL.EVN.regular.comment.csv",306
+
+"COL201809120",19,"Injury Delay"2018COL.EVN.regular.comment.csv",307
+
+"COL201809120",23,"$Diamondbacks challenged call that Goldschmidt was out at 2nd to complete double play; call was overturned - stolen base"2018COL.EVN.regular.comment.csv",308
+
+"COL201809120",53,"Mound Visit"2018COL.EVN.regular.comment.csv",309
+
+"COL201809120",58,"Mound Visit"2018COL.EVN.regular.comment.csv",310
+
+"COL201809120",62,"Mound Visit"2018COL.EVN.regular.comment.csv",311
+
+"COL201809120",66,"Mound Visit"2018COL.EVN.regular.comment.csv",312
+
+"COL201809120",67,"Mound Visit"2018COL.EVN.regular.comment.csv",313
+
+"COL201809130",3,"$Clay Buchholz left with an injured elbow"2018COL.EVN.regular.comment.csv",314
+
+"COL201809130",25,"Mound Visit"2018COL.EVN.regular.comment.csv",315
+
+"COL201809130",38,"Mound Visit"2018COL.EVN.regular.comment.csv",316
+
+"COL201809130",39,"Mound Visit"2018COL.EVN.regular.comment.csv",317
+
+"COL201809130",43,"Mound Visit"2018COL.EVN.regular.comment.csv",318
+
+"COL201809130",45,"Injury Delay"2018COL.EVN.regular.comment.csv",319
+
+"COL201809130",55,"Mound Visit"2018COL.EVN.regular.comment.csv",320
+
+"COL201809130",56,"Mound Visit"2018COL.EVN.regular.comment.csv",321
+
+"COL201809130",58,"Mound Visit"2018COL.EVN.regular.comment.csv",322
+
+"COL201809130",61,"Mound Visit"2018COL.EVN.regular.comment.csv",323
+
+"COL201809130",62,"Mound Visit"2018COL.EVN.regular.comment.csv",324
+
+"COL201809130",64,"Mound Visit"2018COL.EVN.regular.comment.csv",325
+
+"COL201809130",67,"Mound Visit"2018COL.EVN.regular.comment.csv",326
+
+"COL201809240",5,"Mound Visit"2018COL.EVN.regular.comment.csv",327
+
+"COL201809240",13,"$Rockies challenged call that Quinn was safe at 1st; call was overturned - out on pickoff"2018COL.EVN.regular.comment.csv",328
+
+"COL201809240",28,"Mound Visit"2018COL.EVN.regular.comment.csv",329
+
+"COL201809240",29,"Mound Visit"2018COL.EVN.regular.comment.csv",330
+
+"COL201809240",31,"Mound Visit"2018COL.EVN.regular.comment.csv",331
+
+"COL201809240",38,"Injury Delay"2018COL.EVN.regular.comment.csv",332
+
+"COL201809250",18,"Mound Visit"2018COL.EVN.regular.comment.csv",333
+
+"COL201809250",19,"Mound Visit"2018COL.EVN.regular.comment.csv",334
+
+"COL201809250",27,"Mound Visit"2018COL.EVN.regular.comment.csv",335
+
+"COL201809250",39,"Mound Visit"2018COL.EVN.regular.comment.csv",336
+
+"COL201809250",40,"Mound Visit"2018COL.EVN.regular.comment.csv",337
+
+"COL201809250",48,"Mound Visit"2018COL.EVN.regular.comment.csv",338
+
+"COL201809250",49,"On-field Delay"2018COL.EVN.regular.comment.csv",339
+
+"COL201809250",56,"Mound Visit"2018COL.EVN.regular.comment.csv",340
+
+"COL201809250",57,"$Originally scored as single, changed to E6 on 10-01-2018"2018COL.EVN.regular.comment.csv",341
+
+"COL201809250",76,"Mound Visit"2018COL.EVN.regular.comment.csv",342
+
+"COL201809250",77,"Mound Visit"2018COL.EVN.regular.comment.csv",343
+
+"COL201809260",18,"Mound Visit"2018COL.EVN.regular.comment.csv",344
+
+"COL201809260",26,"$Phillies challenged call that Quinn was out at home; call was upheld - out at home"2018COL.EVN.regular.comment.csv",345
+
+"COL201809260",38,"Mound Visit"2018COL.EVN.regular.comment.csv",346
+
+"COL201809260",40,"Mound Visit"2018COL.EVN.regular.comment.csv",347
+
+"COL201809260",43,"Mound Visit"2018COL.EVN.regular.comment.csv",348
+
+"COL201809260",45,"Mound Visit"2018COL.EVN.regular.comment.csv",349
+
+"COL201809260",68,"Mound Visit"2018COL.EVN.regular.comment.csv",350
+
+"COL201809270",9,"Mound Visit"2018COL.EVN.regular.comment.csv",351
+
+"COL201809270",24,"Mound Visit"2018COL.EVN.regular.comment.csv",352
+
+"COL201809270",29,"Mound Visit"2018COL.EVN.regular.comment.csv",353
+
+"COL201809270",34,"Mound Visit"2018COL.EVN.regular.comment.csv",354
+
+"COL201809270",43,"Mound Visit"2018COL.EVN.regular.comment.csv",355
+
+"COL201809270",54,"Mound Visit"2018COL.EVN.regular.comment.csv",356
+
+"COL201809270",56,"On-field Delay Mound Visit"2018COL.EVN.regular.comment.csv",357
+
+"COL201809270",62,"Mound Visit"2018COL.EVN.regular.comment.csv",358
+
+"COL201809270",64,"$Rockies challenged call that Story was out at 1st; call was upheld - ground out"2018COL.EVN.regular.comment.csv",359
+
+"COL201809270",67,"Mound Visit"2018COL.EVN.regular.comment.csv",360
+
+"COL201809270",72,"Mound Visit"2018COL.EVN.regular.comment.csv",361
+
+"COL201809280",20,"$Nationals challenged call that Robles was outat 3rd; call was overturned - strikeout and double steal"2018COL.EVN.regular.comment.csv",362
+
+"COL201809280",21,"Mound Visit"2018COL.EVN.regular.comment.csv",363
+
+"COL201809280",29,"$Rockies challenged that 3rd pitch was foul ball, claiming it hit batter; call was upheld - foul ball"2018COL.EVN.regular.comment.csv",364
+
+"COL201809280",42,"Mound Visit"2018COL.EVN.regular.comment.csv",365
+
+"COL201809280",46,"Mound Visit"2018COL.EVN.regular.comment.csv",366
+
+"COL201809280",50,"Mound Visit"2018COL.EVN.regular.comment.csv",367
+
+"COL201809280",55,"Mound Visit"2018COL.EVN.regular.comment.csv",368
+
+"COL201809290",1,"Injury Delay"2018COL.EVN.regular.comment.csv",369
+
+"COL201809290",6,"Mound Visit"2018COL.EVN.regular.comment.csv",370
+
+"COL201809290",16,"Mound Visit"2018COL.EVN.regular.comment.csv",371
+
+"COL201809290",17,"Mound Visit"2018COL.EVN.regular.comment.csv",372
+
+"COL201809290",23,"$Nationals challenged call that Tapia was safe at 1st; call was overturned - ground out"2018COL.EVN.regular.comment.csv",373
+
+"COL201809290",52,"Mound Visit"2018COL.EVN.regular.comment.csv",374
+
+"COL201809290",57,"Mound Visit"2018COL.EVN.regular.comment.csv",375
+
+"COL201809290",60,"Mound Visit"2018COL.EVN.regular.comment.csv",376
+
+"COL201809290",84,"Mound Visit"2018COL.EVN.regular.comment.csv",377
+
+"COL201809300",39,"Mound Visit"2018COL.EVN.regular.comment.csv",378
+
+"COL201809300",46,"Injury Delay"2018COL.EVN.regular.comment.csv",379
+
+"COL201809300",61,"Mound Visit"2018COL.EVN.regular.comment.csv",380
+
+"COL201809300",63,"Mound Visit"2018COL.EVN.regular.comment.csv",381
+

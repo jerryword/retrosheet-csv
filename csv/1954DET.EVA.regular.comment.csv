@@ -1,55 +1,54 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"DET195404130",0,"$first game for the AL Baltimore Orioles"
-"DET195404200",45,"ej,richp101,M,hurle901,Balls and strikes White Sox Manager Paul Richards ejected by HP umpire Eddie Hurley"
-"DET195404240",33,"ej,hutcf101,M,flahr901,Balls and strikes $Tigers manager Hutchinson ejected by HP umpire Flaherty at conclusion of inning for arguing balls and strikes"
-"DET195404250",76,"fan interference"
-"DET195404250",92,"$Ned Garver stumbled between 2B and 3B"
-"DET195405140",25,"$ball lost in the sun"
-"DET195405150",36,"ej,hutcf101,M,mcgob901,Call at 2B Tigers Manager Fred Hutchinson ejected by 2B umpire Bill McGowan"
-"DET195405162",109,"to match daily/NYT, arbitrary 63 to 3/G"
-"DET195405170",57,"ej,niemb101,P,nappl901,Called strike 3 $Tiger Nieman, not in game, ejected by HP umpire Napp for arguing called stike 3 to Boone"
-"DET195405190",12,"DIFF: officials RBI Shantz"
-"DET195406150",18,"to match daily/NYT, arbitrary 5/P to 4/P"
-"DET195406160",4,"to match daily/NYT, arbitrary 8 to 7"
-"DET195406160",26,"to match daily/NYT, arbitrary 8 to 9"
-"DET195406220",24,"ej,stenc101,M,runge901,Balk call Yankees Manager Casey Stengel ejected by HP umpire Ed Runge"
-"DET195406220",45,"$Jerry Coleman called for obstruction"
-"DET195406260",57,"ej,hutcf101,M,runge901,Stalling $Tigers manager Hutchinson ejected by HP umpire Runge for stalling while changing pitchers"
-"DET195407051",23,"$Al Rosen called for interference"
-"DET195407060",25,"$Cass Michaels struck on finger"
-"DET195407110",6,"$Jim Delsing struck on the left shin"
-"DET195407272",12,"$Jim Delsing suffered a sprained left ankle and was carried off the field"
-"DET195407310",28,"23 minute rain delay"
-"DET195407310",48,"55 minute rain delay"
-"DET195409100",52,"$Charlie Bishop called for interference"
-"DET195409160",20,"ej,mantm101,P,runge901,Called third strike Mickey Mantle ejected by HP umpire Ed Runge"
-"DET195409160",33,"$Gil McDougald called for interference for running into his own batted ball"
-"DET195409180",0,"1:15 rain delay before start of game"
-"DET195409180",60,"53 minute rain delay"
-"DET195404130",0,"$first game for the AL Baltimore Orioles"
-"DET195404200",45,"ej,richp101,M,hurle901,Balls and strikes White Sox Manager Paul Richards ejected by HP umpire Eddie Hurley"
-"DET195404240",33,"ej,hutcf101,M,flahr901,Balls and strikes $Tigers manager Hutchinson ejected by HP umpire Flaherty at conclusion of inning for arguing balls and strikes"
-"DET195404250",76,"fan interference"
-"DET195404250",92,"$Ned Garver stumbled between 2B and 3B"
-"DET195405140",25,"$ball lost in the sun"
-"DET195405150",36,"ej,hutcf101,M,mcgob901,Call at 2B Tigers Manager Fred Hutchinson ejected by 2B umpire Bill McGowan"
-"DET195405162",109,"to match daily/NYT, arbitrary 63 to 3/G"
-"DET195405170",57,"ej,niemb101,P,nappl901,Called strike 3 $Tiger Nieman, not in game, ejected by HP umpire Napp for arguing called stike 3 to Boone"
-"DET195405190",12,"DIFF: officials RBI Shantz"
-"DET195406150",18,"to match daily/NYT, arbitrary 5/P to 4/P"
-"DET195406160",4,"to match daily/NYT, arbitrary 8 to 7"
-"DET195406160",26,"to match daily/NYT, arbitrary 8 to 9"
-"DET195406220",24,"ej,stenc101,M,runge901,Balk call Yankees Manager Casey Stengel ejected by HP umpire Ed Runge"
-"DET195406220",45,"$Jerry Coleman called for obstruction"
-"DET195406260",57,"ej,hutcf101,M,runge901,Stalling $Tigers manager Hutchinson ejected by HP umpire Runge for stalling while changing pitchers"
-"DET195407051",23,"$Al Rosen called for interference"
-"DET195407060",25,"$Cass Michaels struck on finger"
-"DET195407110",6,"$Jim Delsing struck on the left shin"
-"DET195407272",12,"$Jim Delsing suffered a sprained left ankle and was carried off the field"
-"DET195407310",28,"23 minute rain delay"
-"DET195407310",48,"55 minute rain delay"
-"DET195409100",52,"$Charlie Bishop called for interference"
-"DET195409160",20,"ej,mantm101,P,runge901,Called third strike Mickey Mantle ejected by HP umpire Ed Runge"
-"DET195409160",33,"$Gil McDougald called for interference for running into his own batted ball"
-"DET195409180",0,"1:15 rain delay before start of game"
-"DET195409180",60,"53 minute rain delay"
+"DET195404130",0,"$first game for the AL Baltimore Orioles"FILENAME_TX","LINE_NUMBER_CT"
+
+"DET195404200",45,"ej,richp101,M,hurle901,Balls and strikes White Sox Manager Paul Richards ejected by HP umpire Eddie Hurley"1954DET.EVA.regular.comment.csv",2
+
+"DET195404240",33,"ej,hutcf101,M,flahr901,Balls and strikes $Tigers manager Hutchinson ejected by HP umpire Flaherty at conclusion of inning for arguing balls and strikes"1954DET.EVA.regular.comment.csv",3
+
+"DET195404250",76,"fan interference"1954DET.EVA.regular.comment.csv",4
+
+"DET195404250",92,"$Ned Garver stumbled between 2B and 3B"1954DET.EVA.regular.comment.csv",5
+
+"DET195405140",25,"$ball lost in the sun"1954DET.EVA.regular.comment.csv",6
+
+"DET195405150",36,"ej,hutcf101,M,mcgob901,Call at 2B Tigers Manager Fred Hutchinson ejected by 2B umpire Bill McGowan"1954DET.EVA.regular.comment.csv",7
+
+"DET195405162",109,"to match daily/NYT, arbitrary 63 to 3/G"1954DET.EVA.regular.comment.csv",8
+
+"DET195405170",57,"ej,niemb101,P,nappl901,Called strike 3 $Tiger Nieman, not in game, ejected by HP umpire Napp for arguing called stike 3 to Boone"1954DET.EVA.regular.comment.csv",9
+
+"DET195405190",12,"DIFF: officials RBI Shantz"1954DET.EVA.regular.comment.csv",10
+
+"DET195406150",18,"to match daily/NYT, arbitrary 5/P to 4/P"1954DET.EVA.regular.comment.csv",11
+
+"DET195406160",4,"to match daily/NYT, arbitrary 8 to 7"1954DET.EVA.regular.comment.csv",12
+
+"DET195406160",26,"to match daily/NYT, arbitrary 8 to 9"1954DET.EVA.regular.comment.csv",13
+
+"DET195406220",24,"ej,stenc101,M,runge901,Balk call Yankees Manager Casey Stengel ejected by HP umpire Ed Runge"1954DET.EVA.regular.comment.csv",14
+
+"DET195406220",45,"$Jerry Coleman called for obstruction"1954DET.EVA.regular.comment.csv",15
+
+"DET195406260",57,"ej,hutcf101,M,runge901,Stalling $Tigers manager Hutchinson ejected by HP umpire Runge for stalling while changing pitchers"1954DET.EVA.regular.comment.csv",16
+
+"DET195407051",23,"$Al Rosen called for interference"1954DET.EVA.regular.comment.csv",17
+
+"DET195407060",25,"$Cass Michaels struck on finger"1954DET.EVA.regular.comment.csv",18
+
+"DET195407110",6,"$Jim Delsing struck on the left shin"1954DET.EVA.regular.comment.csv",19
+
+"DET195407272",12,"$Jim Delsing suffered a sprained left ankle and was carried off the field"1954DET.EVA.regular.comment.csv",20
+
+"DET195407310",28,"23 minute rain delay"1954DET.EVA.regular.comment.csv",21
+
+"DET195407310",48,"55 minute rain delay"1954DET.EVA.regular.comment.csv",22
+
+"DET195409100",52,"$Charlie Bishop called for interference"1954DET.EVA.regular.comment.csv",23
+
+"DET195409160",20,"ej,mantm101,P,runge901,Called third strike Mickey Mantle ejected by HP umpire Ed Runge"1954DET.EVA.regular.comment.csv",24
+
+"DET195409160",33,"$Gil McDougald called for interference for running into his own batted ball"1954DET.EVA.regular.comment.csv",25
+
+"DET195409180",0,"1:15 rain delay before start of game"1954DET.EVA.regular.comment.csv",26
+
+"DET195409180",60,"53 minute rain delay"1954DET.EVA.regular.comment.csv",27
+

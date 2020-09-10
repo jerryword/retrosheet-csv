@@ -1,36 +1,36 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"BSN193405200",0,"Cloudy and warm"
-"BSN193405200",73,"Error on throw to 2B"
-"BSN193405220",0,"Clear and hot"
-"BSN193405220",5,"397 feet"
-"BSN193405220",31,"Squeeze play"
-"BSN193405220",47,"450 feet"
-"BSN193405220",60,"2B misjudged 1 hand attempt and dropped ball"
-"BSN193405240",48,"$Lindstrom injured his finger trying for McManus' hit to left."
-"BSN193405240",56,"$Lindstrom replaced due to injury to finger."
-"BSN193405240",67,"$Ball stuck in screen, ground rule applied by umpires."
-"BSN193405260",35,"$Lon Warneke threw to 3B but Al Spohrer held 2B"
-"BSN193405260",49,"$ruled a home run but the Cubs argued it was fan interference; the umpires agreed and reversed the call"
-"BSN193405270",9,"$Hit on arm"
-"BSN193405290",5,"$Hendrick pulled muscle and left game"
-"BSN193407310",52,"$Pinky Whitney tried for 3B during argument but went back and Hughie Critz tagged Whitney"
-"BSN193409032",46,"$the throw hit Hal Lee"
-"BSN193409202",49,"ej,frisf101,P,pfirc901,Call at 2B Frankie Frisch ejected by 3B umpire Cy Pfirman"
-"BSN193405200",0,"Cloudy and warm"
-"BSN193405200",73,"Error on throw to 2B"
-"BSN193405220",0,"Clear and hot"
-"BSN193405220",5,"397 feet"
-"BSN193405220",31,"Squeeze play"
-"BSN193405220",47,"450 feet"
-"BSN193405220",60,"2B misjudged 1 hand attempt and dropped ball"
-"BSN193405240",48,"$Lindstrom injured his finger trying for McManus' hit to left."
-"BSN193405240",56,"$Lindstrom replaced due to injury to finger."
-"BSN193405240",67,"$Ball stuck in screen, ground rule applied by umpires."
-"BSN193405260",35,"$Lon Warneke threw to 3B but Al Spohrer held 2B"
-"BSN193405260",49,"$ruled a home run but the Cubs argued it was fan interference; the umpires agreed and reversed the call"
-"BSN193405270",9,"$Hit on arm"
-"BSN193405290",5,"$Hendrick pulled muscle and left game"
-"BSN193407310",52,"$Pinky Whitney tried for 3B during argument but went back and Hughie Critz tagged Whitney"
-"BSN193408011",9,"$Mancuso to 3rd on PB, then Verges in rundown between 1st and 2nd; Mancuso broke for home and was retired"
-"BSN193409032",46,"$the throw hit Hal Lee"
-"BSN193409202",49,"ej,frisf101,P,pfirc901,Call at 2B Frankie Frisch ejected by 3B umpire Cy Pfirman"
+"BSN193405200",0,"Cloudy and warm"FILENAME_TX","LINE_NUMBER_CT"
+
+"BSN193405200",73,"Error on throw to 2B"1934BSN.EVN.regular.comment.csv",2
+
+"BSN193405220",0,"Clear and hot"1934BSN.EVN.regular.comment.csv",3
+
+"BSN193405220",5,"397 feet"1934BSN.EVN.regular.comment.csv",4
+
+"BSN193405220",31,"Squeeze play"1934BSN.EVN.regular.comment.csv",5
+
+"BSN193405220",47,"450 feet"1934BSN.EVN.regular.comment.csv",6
+
+"BSN193405220",60,"2B misjudged 1 hand attempt and dropped ball"1934BSN.EVN.regular.comment.csv",7
+
+"BSN193405240",48,"$Lindstrom injured his finger trying for McManus' hit to left."1934BSN.EVN.regular.comment.csv",8
+
+"BSN193405240",56,"$Lindstrom replaced due to injury to finger."1934BSN.EVN.regular.comment.csv",9
+
+"BSN193405240",67,"$Ball stuck in screen, ground rule applied by umpires."1934BSN.EVN.regular.comment.csv",10
+
+"BSN193405260",35,"$Lon Warneke threw to 3B but Al Spohrer held 2B"1934BSN.EVN.regular.comment.csv",11
+
+"BSN193405260",49,"$ruled a home run but the Cubs argued it was fan interference; the umpires agreed and reversed the call"1934BSN.EVN.regular.comment.csv",12
+
+"BSN193405270",9,"$Hit on arm"1934BSN.EVN.regular.comment.csv",13
+
+"BSN193405290",5,"$Hendrick pulled muscle and left game"1934BSN.EVN.regular.comment.csv",14
+
+"BSN193407310",52,"$Pinky Whitney tried for 3B during argument but went back and Hughie Critz tagged Whitney"1934BSN.EVN.regular.comment.csv",15
+
+"BSN193408011",9,"$Mancuso to 3rd on PB, then Verges in rundown between 1st and 2nd; Mancuso broke for home and was retired"1934BSN.EVN.regular.comment.csv",16
+
+"BSN193409032",46,"$the throw hit Hal Lee"1934BSN.EVN.regular.comment.csv",17
+
+"BSN193409202",49,"ej,frisf101,P,pfirc901,Call at 2B Frankie Frisch ejected by 3B umpire Cy Pfirman"1934BSN.EVN.regular.comment.csv",18
+

@@ -1,11 +1,10 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"CLE199510140",28,"$drizzle began and later turned to rain"
-"CLE199510140",32,"$rain stopped"
-"CLE199510150",0,"$wind chill in 20s"
-"CLE199510150",71,"$Alex Diaz had passed 2B when Omar Vizquel tagged him"
-"SEA199510170",55,"ej,sojol001,P,cobld901,Called third strike Luis Sojo ejected by HP umpire Drew Coble"
-"CLE199510140",28,"$drizzle began and later turned to rain"
-"CLE199510140",32,"$rain stopped"
-"CLE199510150",0,"$wind chill in 20s"
-"CLE199510150",71,"$Alex Diaz had passed 2B when Omar Vizquel tagged him"
-"SEA199510170",55,"ej,sojol001,P,cobld901,Called third strike Luis Sojo ejected by HP umpire Drew Coble"
+"CLE199510140",28,"$drizzle began and later turned to rain"FILENAME_TX","LINE_NUMBER_CT"
+
+"CLE199510140",32,"$rain stopped"1995ALCS.EVE.post.comment.csv",2
+
+"CLE199510150",0,"$wind chill in 20s"1995ALCS.EVE.post.comment.csv",3
+
+"CLE199510150",71,"$Alex Diaz had passed 2B when Omar Vizquel tagged him"1995ALCS.EVE.post.comment.csv",4
+
+"SEA199510170",55,"ej,sojol001,P,cobld901,Called third strike Luis Sojo ejected by HP umpire Drew Coble"1995ALCS.EVE.post.comment.csv",5
+

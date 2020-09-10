@@ -1,65 +1,64 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"CIN194104150",73,"$Gus Mancuso left with an unknown injury"
-"CIN194104160",0,"rain delay of unknown length before start of game"
-"CIN194104170",57,"$Ernie Lombardi left after being struck by a foul ball"
-"CIN194105120",15,"$Ernie Lombardi missed a popup in the wind"
-"CIN194105150",25,"previous two plays actually one play"
-"CIN194105220",44,"$Mel Ott homered twice and hit a sacrifice bunt"
-"CIN194105220",45,"11 minute rain delay"
-"CIN194106160",23,"$Joe Orengo called for interference for running into his own batted ball"
-"CIN194106222",40,"$Dick West rolled the ball to the mound after first putout"
-"CIN194106300",24,"$Johnny Hudson thought the ball got through to LF"
-"CIN194107050",13,"ej,gonzm101,C,searz901,Call at 1B Cardinals Coach Mike Gonzalez ejected by 1B umpire Ziggy Sears"
-"CIN194107230",73,"arbitrary 6 to 9"
-"CIN194107260",54,"$Mickey Livingston struck on the thumb by foul ball"
-"CIN194107290",48,"$Bob Carpenter turned toward 2B but dropped the ball from his wet hand"
-"CIN194107290",48,"$Gabby Hartnett with with heat exhaustion"
-"CIN194107290",64,"$Dick Bartell left with heat exhaustion"
-"CIN194107300",14,"17 minute rain delay"
-"CIN194107300",25,"13 minute rain delay with 2-2 count on Ernie Lombardi"
-"CIN194107310",27,"$Ernie Lombardi struck on arm by foul ball and would leave"
-"CIN194107310",33,"$Ernie Lombardi left with injured arm"
-"CIN194108020",22,"umpchange,3,umphome,rearb901 umpchange,3,ump1b,conlj102 umpchange,3,ump3b,(None) $HP Umpire Larry Goetz struck on left arm by foul ball and left with a broken arm"
-"CIN194108031",0,"$umpire Larry Goetz worked with a broken left arm"
-"CIN194108032",0,"$umpire Larry Goetz worked with a broken left arm"
-"CIN194108060",23,"$Johnny Vander Meer threw 9 consecutive strikes"
-"CIN194108160",37,"ej,wilsj105,M,balll901,Call at 3B Cubs Manager Jimmie Wilson ejected by 3B umpire Lee Ballanfant"
-"CIN194108172",64,"$a fan jumped onto the field and touched the ball"
-"CIN194109100",96,"$Jim Tobin left with an injured left knee after being struck by line drive in previous inning"
-"CIN194109120",46,"$Sid Gordon agravated a right leg injury sliding into 2B"
-"CIN194109130",13,"Debut game for Hugh East"
-"CIN194109130",78,"$Babe Young left with an injured right leg"
-"CIN194109140",34,"ej,walkd101,P,conlj102,Balls and strikes Dixie Walker ejected by HP umpire Jocko Conlan"
-"CIN194109172",52,"$Harry Craft struck just below the left ear"
-"CIN194104150",73,"$Gus Mancuso left with an unknown injury"
-"CIN194104160",0,"rain delay of unknown length before start of game"
-"CIN194104170",57,"$Ernie Lombardi left after being struck by a foul ball"
-"CIN194105120",15,"$Ernie Lombardi missed a popup in the wind"
-"CIN194105150",25,"previous two plays actually one play"
-"CIN194105220",44,"$Mel Ott homered twice and hit a sacrifice bunt"
-"CIN194105220",45,"11 minute rain delay"
-"CIN194106160",23,"$Joe Orengo called for interference for running into his own batted ball"
-"CIN194106222",40,"$Dick West rolled the ball to the mound after first putout"
-"CIN194106300",24,"$Johnny Hudson thought the ball got through to LF"
-"CIN194107050",13,"ej,gonzm101,C,searz901,Call at 1B Cardinals Coach Mike Gonzalez ejected by 1B umpire Ziggy Sears"
-"CIN194107230",73,"arbitrary 6 to 9"
-"CIN194107260",54,"$Mickey Livingston struck on the thumb by foul ball"
-"CIN194107290",48,"$Bob Carpenter turned toward 2B but dropped the ball from his wet hand"
-"CIN194107290",48,"$Gabby Hartnett with with heat exhaustion"
-"CIN194107290",64,"$Dick Bartell left with heat exhaustion"
-"CIN194107300",14,"17 minute rain delay"
-"CIN194107300",25,"13 minute rain delay with 2-2 count on Ernie Lombardi"
-"CIN194107310",27,"$Ernie Lombardi struck on arm by foul ball and would leave"
-"CIN194107310",33,"$Ernie Lombardi left with injured arm"
-"CIN194108020",22,"umpchange,3,umphome,rearb901 umpchange,3,ump1b,conlj102 umpchange,3,ump3b,(None) $HP Umpire Larry Goetz struck on left arm by foul ball and left with a broken arm"
-"CIN194108031",0,"$umpire Larry Goetz worked with a broken left arm"
-"CIN194108032",0,"$umpire Larry Goetz worked with a broken left arm"
-"CIN194108060",23,"$Johnny Vander Meer threw 9 consecutive strikes"
-"CIN194108160",37,"ej,wilsj105,M,balll901,Call at 3B Cubs Manager Jimmie Wilson ejected by 3B umpire Lee Ballanfant"
-"CIN194108172",64,"$a fan jumped onto the field and touched the ball"
-"CIN194109100",96,"$Jim Tobin left with an injured left knee after being struck by line drive in previous inning"
-"CIN194109120",46,"$Sid Gordon agravated a right leg injury sliding into 2B"
-"CIN194109130",13,"Debut game for Hugh East"
-"CIN194109130",78,"$Babe Young left with an injured right leg"
-"CIN194109140",34,"ej,walkd101,P,conlj102,Balls and strikes Dixie Walker ejected by HP umpire Jocko Conlan"
-"CIN194109172",52,"$Harry Craft struck just below the left ear"
+"CIN194104150",73,"$Gus Mancuso left with an unknown injury"FILENAME_TX","LINE_NUMBER_CT"
+
+"CIN194104160",0,"rain delay of unknown length before start of game"1941CIN.EVN.regular.comment.csv",2
+
+"CIN194104170",57,"$Ernie Lombardi left after being struck by a foul ball"1941CIN.EVN.regular.comment.csv",3
+
+"CIN194105120",15,"$Ernie Lombardi missed a popup in the wind"1941CIN.EVN.regular.comment.csv",4
+
+"CIN194105150",25,"previous two plays actually one play"1941CIN.EVN.regular.comment.csv",5
+
+"CIN194105220",44,"$Mel Ott homered twice and hit a sacrifice bunt"1941CIN.EVN.regular.comment.csv",6
+
+"CIN194105220",45,"11 minute rain delay"1941CIN.EVN.regular.comment.csv",7
+
+"CIN194106160",23,"$Joe Orengo called for interference for running into his own batted ball"1941CIN.EVN.regular.comment.csv",8
+
+"CIN194106222",40,"$Dick West rolled the ball to the mound after first putout"1941CIN.EVN.regular.comment.csv",9
+
+"CIN194106300",24,"$Johnny Hudson thought the ball got through to LF"1941CIN.EVN.regular.comment.csv",10
+
+"CIN194107050",13,"ej,gonzm101,C,searz901,Call at 1B Cardinals Coach Mike Gonzalez ejected by 1B umpire Ziggy Sears"1941CIN.EVN.regular.comment.csv",11
+
+"CIN194107230",73,"arbitrary 6 to 9"1941CIN.EVN.regular.comment.csv",12
+
+"CIN194107260",54,"$Mickey Livingston struck on the thumb by foul ball"1941CIN.EVN.regular.comment.csv",13
+
+"CIN194107290",48,"$Bob Carpenter turned toward 2B but dropped the ball from his wet hand"1941CIN.EVN.regular.comment.csv",14
+
+"CIN194107290",48,"$Gabby Hartnett with with heat exhaustion"1941CIN.EVN.regular.comment.csv",15
+
+"CIN194107290",64,"$Dick Bartell left with heat exhaustion"1941CIN.EVN.regular.comment.csv",16
+
+"CIN194107300",14,"17 minute rain delay"1941CIN.EVN.regular.comment.csv",17
+
+"CIN194107300",25,"13 minute rain delay with 2-2 count on Ernie Lombardi"1941CIN.EVN.regular.comment.csv",18
+
+"CIN194107310",27,"$Ernie Lombardi struck on arm by foul ball and would leave"1941CIN.EVN.regular.comment.csv",19
+
+"CIN194107310",33,"$Ernie Lombardi left with injured arm"1941CIN.EVN.regular.comment.csv",20
+
+"CIN194108020",22,"umpchange,3,umphome,rearb901 umpchange,3,ump1b,conlj102 umpchange,3,ump3b,(None) $HP Umpire Larry Goetz struck on left arm by foul ball and left with a broken arm"1941CIN.EVN.regular.comment.csv",21
+
+"CIN194108031",0,"$umpire Larry Goetz worked with a broken left arm"1941CIN.EVN.regular.comment.csv",22
+
+"CIN194108032",0,"$umpire Larry Goetz worked with a broken left arm"1941CIN.EVN.regular.comment.csv",23
+
+"CIN194108060",23,"$Johnny Vander Meer threw 9 consecutive strikes"1941CIN.EVN.regular.comment.csv",24
+
+"CIN194108160",37,"ej,wilsj105,M,balll901,Call at 3B Cubs Manager Jimmie Wilson ejected by 3B umpire Lee Ballanfant"1941CIN.EVN.regular.comment.csv",25
+
+"CIN194108172",64,"$a fan jumped onto the field and touched the ball"1941CIN.EVN.regular.comment.csv",26
+
+"CIN194109100",96,"$Jim Tobin left with an injured left knee after being struck by line drive in previous inning"1941CIN.EVN.regular.comment.csv",27
+
+"CIN194109120",46,"$Sid Gordon agravated a right leg injury sliding into 2B"1941CIN.EVN.regular.comment.csv",28
+
+"CIN194109130",13,"Debut game for Hugh East"1941CIN.EVN.regular.comment.csv",29
+
+"CIN194109130",78,"$Babe Young left with an injured right leg"1941CIN.EVN.regular.comment.csv",30
+
+"CIN194109140",34,"ej,walkd101,P,conlj102,Balls and strikes Dixie Walker ejected by HP umpire Jocko Conlan"1941CIN.EVN.regular.comment.csv",31
+
+"CIN194109172",52,"$Harry Craft struck just below the left ear"1941CIN.EVN.regular.comment.csv",32
+

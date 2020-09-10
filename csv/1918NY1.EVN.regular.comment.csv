@@ -1,87 +1,86 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"NY1191804200",27,"Into the upper deck."
-"NY1191804220",67,"Into the seats."
-"NY1191804220",70,"Top of 9th from box score."
-"NY1191804230",79,"Top of 9th from box score and NY Times."
-"NY1191805070",0,"Also used Phil. Evening Bulletin for first 5.5 innings."
-"NY1191805070",37,"Zimmerman ejected by Rigler for arguing third strike."
-"NY1191805070",81,"9th from box score."
-"NY1191805080",0,"Also used Phil. Even. Bulletin for first 5 innings."
-"NY1191805090",0,"Also used Phil. Even. Bulletin for first 7 innings."
-"NY1191806030",5,"Stengel ejected by Harrison for arguing call at first."
-"NY1191806050",3,"Started raining."
-"NY1191806050",41,"Into the seats."
-"NY1191806050",69,"$McKechnie made bad throw home on double steal."
-"NY1191806060",43,"Into the seats."
-"NY1191806060",58,"pbp account ends here, rest deduced"
-"NY1191806060",74,"$Giants had Kavanagh in rundown, but he eluded them, scoring as Fletcher chased himt to the plate, then threw wildly since no one was covering, the catcher having gone to 3rd"
-"NY1191806060",86,"$Play started as double steal and runner from 3rd scored while runner from 1st was out to end inning"
-"NY1191806081",10,"Smith ejected for arguing call on pickoff play-Zimmerman escaped rundown?"
-"NY1191806081",27,"Into stands."
-"NY1191806110",61,"pbp account ends here, rest deduced"
-"NY1191806120",2,"DWS: source 109 has this as single"
-"NY1191806120",6,"Inside park."
-"NY1191806130",65,"Remainder of game from source 109"
-"NY1191806140",5,"Inside the park."
-"NY1191806140",38,"Rain delay."
-"NY1191806150",68,"Into the stands."
-"NY1191806170",60,"Into the stands."
-"NY1191806280",2,"Over the fence."
-"NY1191806280",73,"pbp account ends here, rest deduced"
-"NY1191807020",53,"Into stands."
-"NY1191807041",75,"Anderson walked off field, apparently unhappy with ump."
-"NY1191807252",25,"Into the seats."
-"NY1191807260",12,"Into stands."
-"NY1191807270",64,"Thorpe returned to first."
-"NY1191808032",69,"Into the seats."
-"NY1191808032",90,"Defensive indifference."
-"NY1191808071",16,"Into the stands."
-"NY1191808072",8,"$Griffith made third while Rariden argued call at plate, credited with stolen base"
-"NY1191808072",37,"$Young injured ankle on play."
-"NY1191808072",62,"pbp account ends here, rest deduced"
-"NY1191808102",19,"Henry's thumb hurt."
-"NY1191808102",64,"Into the seats."
-"NY1191808311",60,"ej,grimb101,BRO,harrp901,Call at 3B $Grimes ejected by HP umpire Harrison for arguing call at third"
-"NY1191804200",27,"Into the upper deck."
-"NY1191804220",67,"Into the seats."
-"NY1191804220",70,"Top of 9th from box score."
-"NY1191804230",79,"Top of 9th from box score and NY Times."
-"NY1191805070",0,"Also used Phil. Evening Bulletin for first 5.5 innings."
-"NY1191805070",37,"ej,zimmh101,P,riglc901,Called third strike Zimmerman ejected by Rigler for arguing third strike."
-"NY1191805070",81,"9th from box score."
-"NY1191805080",0,"Also used Phil. Even. Bulletin for first 5 innings."
-"NY1191805090",0,"Also used Phil. Even. Bulletin for first 7 innings."
-"NY1191806030",5,"Stengel ejected by Harrison for arguing call at first."
-"NY1191806050",3,"Started raining."
-"NY1191806050",41,"Into the seats."
-"NY1191806050",69,"$McKechnie made bad throw home on double steal."
-"NY1191806060",43,"Into the seats."
-"NY1191806060",58,"pbp account ends here, rest deduced"
-"NY1191806060",74,"$Giants had Kavanagh in rundown, but he eluded them, scoring as Fletcher chased himt to the plate, then threw wildly since no one was covering, the catcher having gone to 3rd"
-"NY1191806060",86,"$Play started as double steal and runner from 3rd scored while runner from 1st was out to end inning"
-"NY1191806081",9,"ej,smitj106,P,odayh101,Call at 2B Smith ejected for arguing call on pickoff play-Zimmerman escaped rundown?"
-"NY1191806081",27,"Into stands."
-"NY1191806110",61,"pbp account ends here, rest deduced"
-"NY1191806120",2,"DWS: source 109 has this as single"
-"NY1191806120",6,"Inside park."
-"NY1191806130",65,"Remainder of game from source 109"
-"NY1191806140",5,"Inside the park."
-"NY1191806140",38,"Rain delay."
-"NY1191806150",68,"Into the stands."
-"NY1191806170",60,"Into the stands."
-"NY1191806280",2,"Over the fence."
-"NY1191806280",73,"pbp account ends here, rest deduced"
-"NY1191807020",53,"Into stands."
-"NY1191807041",75,"Anderson walked off field, apparently unhappy with ump."
-"NY1191807252",25,"Into the seats."
-"NY1191807260",12,"Into stands."
-"NY1191807270",64,"Thorpe returned to first."
-"NY1191808032",69,"Into the seats."
-"NY1191808032",90,"Defensive indifference."
-"NY1191808071",16,"Into the stands."
-"NY1191808072",8,"$Griffith made third while Rariden argued call at plate, credited with stolen base"
-"NY1191808072",37,"$Young injured ankle on play."
-"NY1191808072",62,"pbp account ends here, rest deduced"
-"NY1191808102",19,"Henry's thumb hurt."
-"NY1191808102",64,"Into the seats."
-"NY1191808311",60,"ej,grimb101,BRO,harrp901,Call at 3B $Grimes ejected by HP umpire Harrison for arguing call at third"
+"NY1191804200",27,"Into the upper deck."FILENAME_TX","LINE_NUMBER_CT"
+
+"NY1191804220",67,"Into the seats."1918NY1.EVN.regular.comment.csv",2
+
+"NY1191804220",70,"Top of 9th from box score."1918NY1.EVN.regular.comment.csv",3
+
+"NY1191804230",79,"Top of 9th from box score and NY Times."1918NY1.EVN.regular.comment.csv",4
+
+"NY1191805070",0,"Also used Phil. Evening Bulletin for first 5.5 innings."1918NY1.EVN.regular.comment.csv",5
+
+"NY1191805070",37,"ej,zimmh101,P,riglc901,Called third strike Zimmerman ejected by Rigler for arguing third strike."1918NY1.EVN.regular.comment.csv",6
+
+"NY1191805070",81,"9th from box score."1918NY1.EVN.regular.comment.csv",7
+
+"NY1191805080",0,"Also used Phil. Even. Bulletin for first 5 innings."1918NY1.EVN.regular.comment.csv",8
+
+"NY1191805090",0,"Also used Phil. Even. Bulletin for first 7 innings."1918NY1.EVN.regular.comment.csv",9
+
+"NY1191806030",5,"Stengel ejected by Harrison for arguing call at first."1918NY1.EVN.regular.comment.csv",10
+
+"NY1191806050",3,"Started raining."1918NY1.EVN.regular.comment.csv",11
+
+"NY1191806050",41,"Into the seats."1918NY1.EVN.regular.comment.csv",12
+
+"NY1191806050",69,"$McKechnie made bad throw home on double steal."1918NY1.EVN.regular.comment.csv",13
+
+"NY1191806060",43,"Into the seats."1918NY1.EVN.regular.comment.csv",14
+
+"NY1191806060",58,"pbp account ends here, rest deduced"1918NY1.EVN.regular.comment.csv",15
+
+"NY1191806060",74,"$Giants had Kavanagh in rundown, but he eluded them, scoring as Fletcher chased himt to the plate, then threw wildly since no one was covering, the catcher having gone to 3rd"1918NY1.EVN.regular.comment.csv",16
+
+"NY1191806060",86,"$Play started as double steal and runner from 3rd scored while runner from 1st was out to end inning"1918NY1.EVN.regular.comment.csv",17
+
+"NY1191806081",9,"ej,smitj106,P,odayh101,Call at 2B Smith ejected for arguing call on pickoff play-Zimmerman escaped rundown?"1918NY1.EVN.regular.comment.csv",18
+
+"NY1191806081",27,"Into stands."1918NY1.EVN.regular.comment.csv",19
+
+"NY1191806110",61,"pbp account ends here, rest deduced"1918NY1.EVN.regular.comment.csv",20
+
+"NY1191806120",2,"DWS: source 109 has this as single"1918NY1.EVN.regular.comment.csv",21
+
+"NY1191806120",6,"Inside park."1918NY1.EVN.regular.comment.csv",22
+
+"NY1191806130",65,"Remainder of game from source 109"1918NY1.EVN.regular.comment.csv",23
+
+"NY1191806140",5,"Inside the park."1918NY1.EVN.regular.comment.csv",24
+
+"NY1191806140",38,"Rain delay."1918NY1.EVN.regular.comment.csv",25
+
+"NY1191806150",68,"Into the stands."1918NY1.EVN.regular.comment.csv",26
+
+"NY1191806170",60,"Into the stands."1918NY1.EVN.regular.comment.csv",27
+
+"NY1191806280",2,"Over the fence."1918NY1.EVN.regular.comment.csv",28
+
+"NY1191806280",73,"pbp account ends here, rest deduced"1918NY1.EVN.regular.comment.csv",29
+
+"NY1191807020",53,"Into stands."1918NY1.EVN.regular.comment.csv",30
+
+"NY1191807041",75,"Anderson walked off field, apparently unhappy with ump."1918NY1.EVN.regular.comment.csv",31
+
+"NY1191807252",25,"Into the seats."1918NY1.EVN.regular.comment.csv",32
+
+"NY1191807260",12,"Into stands."1918NY1.EVN.regular.comment.csv",33
+
+"NY1191807270",64,"Thorpe returned to first."1918NY1.EVN.regular.comment.csv",34
+
+"NY1191808032",69,"Into the seats."1918NY1.EVN.regular.comment.csv",35
+
+"NY1191808032",90,"Defensive indifference."1918NY1.EVN.regular.comment.csv",36
+
+"NY1191808071",16,"Into the stands."1918NY1.EVN.regular.comment.csv",37
+
+"NY1191808072",8,"$Griffith made third while Rariden argued call at plate, credited with stolen base"1918NY1.EVN.regular.comment.csv",38
+
+"NY1191808072",37,"$Young injured ankle on play."1918NY1.EVN.regular.comment.csv",39
+
+"NY1191808072",62,"pbp account ends here, rest deduced"1918NY1.EVN.regular.comment.csv",40
+
+"NY1191808102",19,"Henry's thumb hurt."1918NY1.EVN.regular.comment.csv",41
+
+"NY1191808102",64,"Into the seats."1918NY1.EVN.regular.comment.csv",42
+
+"NY1191808311",60,"ej,grimb101,BRO,harrp901,Call at 3B $Grimes ejected by HP umpire Harrison for arguing call at third"1918NY1.EVN.regular.comment.csv",43
+

@@ -1,33 +1,32 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"CLE199304080",72,"ej,farrs001,P,clara901,Throwing at Albert Belle $the second pitch by Steve Farr to Albert Belle was near his knee; Belle had been HBP earlier in the inning after Carlos Baerga's first homer of the frame; Farr ejected by HP umpire Al Clark"
-"CLE199304160",54,"Debut game for Willie Canate"
-"CLE199305020",77,"ej,martc002,P,hendt901,Fighting with Kelly Downs ej,downk001,P,hendt901,Fighting with Carlos Martinez $pitcher Kelly Downs started yelling at batter Carlos Martinez; after the fourth pitch was fouled off, the shouting intensified and HP umpire Ted Hendry tried to get between the players; Martinez tried to go around Hendry, who ejected both players; catcher Scott Hemond tackled Martinez and both benches cleared"
-"CLE199305110",49,"ej,martc002,P,clara901,Balls and strikes Carlos Martinez ejected by HP umpire Al Clark"
-"CLE199305110",65,"Debut game for Jerry DiPoto"
-"CLE199305130",73,"ej,bellj002,P,barnl901,Charging mound after HBP Albert Belle ejected by HP umpire Larry Barnett after charging the mound"
-"CLE199305220",50,"Debut game for Bill Wertz"
-"CLE199305230",0,"ej,moraj001,C,hirsj901,Checked swing Indians coach Jose Morales ejected by 3B umpire John Hirschbeck sometime in game"
-"CLE199305250",53,"$Jon Shave called for interference"
-"CLE199305260",29,"$Ball bounced off Canseco's head and over wall for HR"
-"CLE199307220",38,"$Wayne Kirby called for interference"
-"CLE199307240",80,"ej,pinil001,M,shulj901,Balk call Mariners manager Lou Piniella ejected by HP umpire John Shulock"
-"CLE199308030",71,"game calld for rain"
-"CLE199308290",0,"ej,hargm001,M,hendt901,Call at 1B Indians manager Mike Hargrove ejected by 1B umpire Ted Hendry sometime in game"
-"CLE199309120",1,"Debut game for Nate Minchey"
-"CLE199309220",17,"ej,horns001,P,koscg901,Balls and strikes Sam Horn ejected by HP umpire Greg Kosc"
-"CLE199304080",72,"ej,farrs001,P,clara901,Throwing at Albert Belle $the second pitch by Steve Farr to Albert Belle was near his knee; Belle had been HBP earlier in the inning after Carlos Baerga's first homer of the frame; Farr ejected by HP umpire Al Clark"
-"CLE199304160",54,"Debut game for Willie Canate"
-"CLE199305020",77,"ej,martc002,P,hendt901,Fighting with Kelly Downs ej,downk001,P,hendt901,Fighting with Carlos Martinez $pitcher Kelly Downs started yelling at batter Carlos Martinez; after the fourth pitch was fouled off, the shouting intensified and HP umpire Ted Hendry tried to get between the players; Martinez tried to go around Hendry, who ejected both players; catcher Scott Hemond tackled Martinez and both benches cleared"
-"CLE199305110",49,"ej,martc002,P,clara901,Balls and strikes Carlos Martinez ejected by HP umpire Al Clark"
-"CLE199305110",65,"Debut game for Jerry DiPoto"
-"CLE199305130",73,"ej,bellj002,P,barnl901,Charging mound after HBP Albert Belle ejected by HP umpire Larry Barnett after charging the mound"
-"CLE199305220",50,"Debut game for Bill Wertz"
-"CLE199305230",52,"ej,moraj001,C,hirsj901,Check swing $Indians coach Morales ejected by 3B umpire Hirschbeck for arguing check swing strike 3 to Baerga"
-"CLE199305250",53,"$Jon Shave called for interference"
-"CLE199305260",29,"$Ball bounced off Canseco's head and over wall for HR"
-"CLE199307220",38,"$Wayne Kirby called for interference"
-"CLE199307240",80,"ej,pinil001,M,shulj901,Balk call Mariners manager Lou Piniella ejected by HP umpire John Shulock"
-"CLE199308030",71,"game calld for rain"
-"CLE199308290",76,"ej,hargm001,M,hendt901,Call at 1B $Indians manager Hargrove ejected by 1B umpire Hendry for arguing that Kirby was safe at 1st"
-"CLE199309120",1,"Debut game for Nate Minchey"
-"CLE199309220",17,"ej,horns001,P,koscg901,Balls and strikes Sam Horn ejected by HP umpire Greg Kosc"
+"CLE199304080",72,"ej,farrs001,P,clara901,Throwing at Albert Belle $the second pitch by Steve Farr to Albert Belle was near his knee; Belle had been HBP earlier in the inning after Carlos Baerga's first homer of the frame; Farr ejected by HP umpire Al Clark"FILENAME_TX","LINE_NUMBER_CT"
+
+"CLE199304160",54,"Debut game for Willie Canate"1993CLE.EVA.regular.comment.csv",2
+
+"CLE199305020",77,"ej,martc002,P,hendt901,Fighting with Kelly Downs ej,downk001,P,hendt901,Fighting with Carlos Martinez $pitcher Kelly Downs started yelling at batter Carlos Martinez; after the fourth pitch was fouled off, the shouting intensified and HP umpire Ted Hendry tried to get between the players; Martinez tried to go around Hendry, who ejected both players; catcher Scott Hemond tackled Martinez and both benches cleared"1993CLE.EVA.regular.comment.csv",3
+
+"CLE199305110",49,"ej,martc002,P,clara901,Balls and strikes Carlos Martinez ejected by HP umpire Al Clark"1993CLE.EVA.regular.comment.csv",4
+
+"CLE199305110",65,"Debut game for Jerry DiPoto"1993CLE.EVA.regular.comment.csv",5
+
+"CLE199305130",73,"ej,bellj002,P,barnl901,Charging mound after HBP Albert Belle ejected by HP umpire Larry Barnett after charging the mound"1993CLE.EVA.regular.comment.csv",6
+
+"CLE199305220",50,"Debut game for Bill Wertz"1993CLE.EVA.regular.comment.csv",7
+
+"CLE199305230",52,"ej,moraj001,C,hirsj901,Check swing $Indians coach Morales ejected by 3B umpire Hirschbeck for arguing check swing strike 3 to Baerga"1993CLE.EVA.regular.comment.csv",8
+
+"CLE199305250",53,"$Jon Shave called for interference"1993CLE.EVA.regular.comment.csv",9
+
+"CLE199305260",29,"$Ball bounced off Canseco's head and over wall for HR"1993CLE.EVA.regular.comment.csv",10
+
+"CLE199307220",38,"$Wayne Kirby called for interference"1993CLE.EVA.regular.comment.csv",11
+
+"CLE199307240",80,"ej,pinil001,M,shulj901,Balk call Mariners manager Lou Piniella ejected by HP umpire John Shulock"1993CLE.EVA.regular.comment.csv",12
+
+"CLE199308030",71,"game calld for rain"1993CLE.EVA.regular.comment.csv",13
+
+"CLE199308290",76,"ej,hargm001,M,hendt901,Call at 1B $Indians manager Hargrove ejected by 1B umpire Hendry for arguing that Kirby was safe at 1st"1993CLE.EVA.regular.comment.csv",14
+
+"CLE199309120",1,"Debut game for Nate Minchey"1993CLE.EVA.regular.comment.csv",15
+
+"CLE199309220",17,"ej,horns001,P,koscg901,Balls and strikes Sam Horn ejected by HP umpire Greg Kosc"1993CLE.EVA.regular.comment.csv",16
+

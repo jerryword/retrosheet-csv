@@ -1,66 +1,74 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"PIT194904220",2,"38 minute rain delay"
-"PIT194905130",54,"$Rip Sewell called for obstruction"
-"PIT194905140",8,"#11 minute rain delay"
-"PIT194905140",45,"End of pbp from SLPD, rest deduced"
-"PIT194905170",20,"$over the scoreboard clock"
-"PIT194905200",74,"not a GDP"
-"PIT194906140",53,"ej,stane101,P,dascf901,Balls and strikes ej,russj102,P,dascf901,Balls and strikes ej,bickv101,P,dascf901,Balls and strikes Eddie Stanky, Jim Russell and Vern Bickford ejected by HP umpire Frank Dascoli"
-"PIT194906150",53,"$Ed Fitzgerald struck by pitch on his bare hand"
-"PIT194906180",11,"Line drive off Rojek's right wrist"
-"PIT194906180",57,"End of NY Sun PBP, rest is deduced"
-"PIT194906290",66,"ej,meyeb101,M,barrg901,Call at 1B Pirates Manager Billy Meyer ejected by 1B umpire George Barr"
-"PIT194906300",45,"$Bobby Adams argued the call on Dino Restelli at 2B with 1B umpire Lee Ballanfant and Johnny Hopp scored"
-"PIT194907060",59,"film 0 SH Slaughter but film 1 PA short for him"
-"PIT194907070",25,"$Johnny Hopp rounded 1B too far"
-"PIT194907070",39,"$Tiny Bonham called for interference on the bunt"
-"PIT194907090",79,"scoresheet ends here, rest deduced by DWS"
-"PIT194907090",102,"$Owen slow in recovering wild pitch, allowing Hopp to score from second on headfirst slide"
-"PIT194907090",113,"$over scoreboard"
-"PIT194907260",21,"Don't know when Mueller's PB was, might have been in 7th"
-"PIT194907260",38,"Rigney had trouble getting ball out of glove, throw to plate was late"
-"PIT194907270",51,"Bad hop grounder hits Basgall in face, Murtaugh replaces him"
-"PIT194907280",32,"ej,murtd101,P,jordl901,Bench jockeying Murtaugh ejected by HP ump Jorda for bench jockeying"
-"PIT194908200",58,"DWS: pbp ends here, rest deduced"
-"PIT194909080",57,"$dropped throw at 2B"
-"PIT194909220",69,"$Del Crandall turned to bunt but the ball struck his bat as he ducked away from an inside pitch"
-"PIT194909270",20,"$off RF pole"
-"PIT194909300",57,"$the ball struck the scoreboard clock"
-"PIT194910022",25,"$off the scoreboard clock in LF"
-"PIT194904220",2,"38 minute rain delay"
-"PIT194905130",54,"$Rip Sewell called for obstruction"
-"PIT194905140",8,"#11 minute rain delay"
-"PIT194905140",45,"End of pbp from SLPD, rest deduced"
-"PIT194905170",20,"$over the scoreboard clock"
-"PIT194905200",74,"not a GDP"
-"PIT194906140",53,"ej,stane101,P,dascf901,Balls and strikes ej,russj102,P,dascf901,Balls and strikes ej,bickv101,P,dascf901,Balls and strikes Eddie Stanky, Jim Russell and Vern Bickford ejected by HP umpire Frank Dascoli"
-"PIT194906150",53,"$Ed Fitzgerald struck by pitch on his bare hand"
-"PIT194906180",11,"Line drive off Rojek's right wrist"
-"PIT194906180",57,"End of NY Sun PBP, rest is deduced"
-"PIT194906290",66,"ej,meyeb101,M,barrg901,Call at 1B Pirates Manager Billy Meyer ejected by 1B umpire George Barr"
-"PIT194906300",45,"$Bobby Adams argued the call on Dino Restelli at 2B with 1B umpire Lee Ballanfant and Johnny Hopp scored"
-"PIT194907060",59,"film 0 SH Slaughter but film 1 PA short for him"
-"PIT194907070",25,"$Johnny Hopp rounded 1B too far"
-"PIT194907070",39,"$Tiny Bonham called for interference on the bunt"
-"PIT194907090",102,"$Owen slow in recovering wild pitch, allowing Hopp to score from second on headfirst slide"
-"PIT194907090",113,"$Clear over scoreboard"
-"PIT194907260",21,"Don't know when Mueller's PB was, might have been in 7th"
-"PIT194907260",38,"Rigney had trouble getting ball out of glove, throw to plate was late"
-"PIT194907270",51,"Bad hop grounder hits Basgall in face, Murtaugh replaces him"
-"PIT194907280",0,"13,574 Ladies Day guests also attended"
-"PIT194907280",4,"Through Hopp"
-"PIT194907280",32,"ej,murtd101,P,jordl901,Bench jockeying $Murtaugh ejected by HP ump Jorda for bench jockeying"
-"PIT194907280",49,"Kiner argued the call long and loud"
-"PIT194907280",84,"Westlake bobbled it"
-"PIT194908200",58,"DWS: pbp ends here, rest deduced"
-"PIT194909080",57,"$dropped throw at 2B"
-"PIT194909181",65,"Marshall: sensational 1-handed catch robbed Kiner"
-"PIT194909182",0,"Rain held up the start of the game"
-"PIT194909182",26,"Off the screen"
-"PIT194909182",56,"Game should have been over at this point because curfew law made another inning impossible, but was allowed to continue until 6:59. Possibly out of spite, Giants Mgr Durocher had Behrman throw two wide balls to Kiner, who had 49 homers. Durocher may have thought inning would not count if not finished."
-"PIT194909182",57,"Hansen entered with 2-0 count, finished the IW, then was relieved by Zabala."
-"PIT194909182",61,"Game ended due to Pennsylania curfew law"
-"PIT194909220",69,"$Del Crandall turned to bunt but the ball struck his bat as he ducked away from an inside pitch"
-"PIT194909270",20,"$off RF pole"
-"PIT194909300",57,"$the ball struck the scoreboard clock"
-"PIT194910022",25,"$off the scoreboard clock in LF"
+"PIT194904220",2,"38 minute rain delay"FILENAME_TX","LINE_NUMBER_CT"
+
+"PIT194905130",54,"$Rip Sewell called for obstruction"1949PIT.EVN.regular.comment.csv",2
+
+"PIT194905140",8,"#11 minute rain delay"1949PIT.EVN.regular.comment.csv",3
+
+"PIT194905140",45,"End of pbp from SLPD, rest deduced"1949PIT.EVN.regular.comment.csv",4
+
+"PIT194905170",20,"$over the scoreboard clock"1949PIT.EVN.regular.comment.csv",5
+
+"PIT194905200",74,"not a GDP"1949PIT.EVN.regular.comment.csv",6
+
+"PIT194906140",53,"ej,stane101,P,dascf901,Balls and strikes ej,russj102,P,dascf901,Balls and strikes ej,bickv101,P,dascf901,Balls and strikes Eddie Stanky, Jim Russell and Vern Bickford ejected by HP umpire Frank Dascoli"1949PIT.EVN.regular.comment.csv",7
+
+"PIT194906150",53,"$Ed Fitzgerald struck by pitch on his bare hand"1949PIT.EVN.regular.comment.csv",8
+
+"PIT194906180",11,"Line drive off Rojek's right wrist"1949PIT.EVN.regular.comment.csv",9
+
+"PIT194906180",57,"End of NY Sun PBP, rest is deduced"1949PIT.EVN.regular.comment.csv",10
+
+"PIT194906290",66,"ej,meyeb101,M,barrg901,Call at 1B Pirates Manager Billy Meyer ejected by 1B umpire George Barr"1949PIT.EVN.regular.comment.csv",11
+
+"PIT194906300",45,"$Bobby Adams argued the call on Dino Restelli at 2B with 1B umpire Lee Ballanfant and Johnny Hopp scored"1949PIT.EVN.regular.comment.csv",12
+
+"PIT194907060",59,"film 0 SH Slaughter but film 1 PA short for him"1949PIT.EVN.regular.comment.csv",13
+
+"PIT194907070",25,"$Johnny Hopp rounded 1B too far"1949PIT.EVN.regular.comment.csv",14
+
+"PIT194907070",39,"$Tiny Bonham called for interference on the bunt"1949PIT.EVN.regular.comment.csv",15
+
+"PIT194907090",102,"$Owen slow in recovering wild pitch, allowing Hopp to score from second on headfirst slide"1949PIT.EVN.regular.comment.csv",16
+
+"PIT194907090",113,"$Clear over scoreboard"1949PIT.EVN.regular.comment.csv",17
+
+"PIT194907260",21,"Don't know when Mueller's PB was, might have been in 7th"1949PIT.EVN.regular.comment.csv",18
+
+"PIT194907260",38,"Rigney had trouble getting ball out of glove, throw to plate was late"1949PIT.EVN.regular.comment.csv",19
+
+"PIT194907270",51,"Bad hop grounder hits Basgall in face, Murtaugh replaces him"1949PIT.EVN.regular.comment.csv",20
+
+"PIT194907280",0,"13,574 Ladies Day guests also attended"1949PIT.EVN.regular.comment.csv",21
+
+"PIT194907280",4,"Through Hopp"1949PIT.EVN.regular.comment.csv",22
+
+"PIT194907280",32,"ej,murtd101,P,jordl901,Bench jockeying $Murtaugh ejected by HP ump Jorda for bench jockeying"1949PIT.EVN.regular.comment.csv",23
+
+"PIT194907280",49,"Kiner argued the call long and loud"1949PIT.EVN.regular.comment.csv",24
+
+"PIT194907280",84,"Westlake bobbled it"1949PIT.EVN.regular.comment.csv",25
+
+"PIT194908200",58,"DWS: pbp ends here, rest deduced"1949PIT.EVN.regular.comment.csv",26
+
+"PIT194909080",57,"$dropped throw at 2B"1949PIT.EVN.regular.comment.csv",27
+
+"PIT194909181",65,"Marshall: sensational 1-handed catch robbed Kiner"1949PIT.EVN.regular.comment.csv",28
+
+"PIT194909182",0,"Rain held up the start of the game"1949PIT.EVN.regular.comment.csv",29
+
+"PIT194909182",26,"Off the screen"1949PIT.EVN.regular.comment.csv",30
+
+"PIT194909182",56,"Game should have been over at this point because curfew law made another inning impossible, but was allowed to continue until 6:59. Possibly out of spite, Giants Mgr Durocher had Behrman throw two wide balls to Kiner, who had 49 homers. Durocher may have thought inning would not count if not finished."1949PIT.EVN.regular.comment.csv",31
+
+"PIT194909182",57,"Hansen entered with 2-0 count, finished the IW, then was relieved by Zabala."1949PIT.EVN.regular.comment.csv",32
+
+"PIT194909182",61,"Game ended due to Pennsylania curfew law"1949PIT.EVN.regular.comment.csv",33
+
+"PIT194909220",69,"$Del Crandall turned to bunt but the ball struck his bat as he ducked away from an inside pitch"1949PIT.EVN.regular.comment.csv",34
+
+"PIT194909270",20,"$off RF pole"1949PIT.EVN.regular.comment.csv",35
+
+"PIT194909300",57,"$the ball struck the scoreboard clock"1949PIT.EVN.regular.comment.csv",36
+
+"PIT194910022",25,"$off the scoreboard clock in LF"1949PIT.EVN.regular.comment.csv",37
+

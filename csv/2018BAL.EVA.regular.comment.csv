@@ -1,603 +1,602 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"BAL201803290",82,"$Twins challenged call that Davis was safe at 2nd, claiming he had been forced by the center fielder; call was upheld -  single"
-"BAL201804090",11,"$Kendrys Morales left game with injured leg"
-"BAL201804110",42,"$Orioles challenged call that Machado's hit was foul; call was overturned - single"
-"BAL201804230",38,"$Indians challenged call that Gentry was safe at 1st for single; call was overturned - ground out"
-"BAL201804260",23,"$Rays challenged call that Wendle was out at first to complete double play; call was overturned - force out"
-"BAL201804260",74,"$Orioles challenged call that Alvarez was out at 1st; call was upheld - ground out"
-"BAL201804290",24,"$Daniel Norris left with injured groin"
-"BAL201804290",37,"$Miguel Cabrera left with injured arm"
-"BAL201805090",49,"$Royals challengd call that Trumbo was safe on throwing error; call was overturned - ground out"
-"BAL201805090",68,"$Royals challenged call that Merrifield was out at 2nd; call was overturned - safe on dropped catch error"
-"BAL201805100",83,"$Royals challenged call that Soler was out at second; call was upheld - force out"
-"BAL201805121",20,"$Rays challenged call that Sisco was safe at home; call was upheld - stolen base"
-"BAL201805122",64,"$Rays challenged call that Smith was out at 3rd; call was overturned - stolen base"
-"BAL201805290",47,"$Nationals challenged call that Taylor was out at 2nd; call was overturned - stolen base"
-"BAL201805290",75,"$Nationals challenged call that Mancini was hit by pitch; call was upheld - hit by pitch"
-"BAL201806130",14,"$Orioles challenged call that first pitch was a ball, claiming Trumbo had been hit; call was overturned - hit by pitch"
-"BAL201806130",43,"$Orioles challenged call that Martinez was safe at home; call was upheld - safe"
-"BAL201806130",60,"ej,salec001,P,knigb901,Arguing balls and strikes $Chris Sale was ejected by plate umpire Knight as he left the field after being removed; arguing balls and strikes"
-"BAL201806150",43,"$Miguel Rojas left with an injured hand; pitch deflected off his hand into his right cheek"
-"BAL201806150",52,"$originally scored E6, changed to single on 06-20-2018"
-"BAL201806250",74,"ej,odayd001,P,sches901,Arguing balk call ej,showb801,M,sches901,Arguing balk call $Pitcher O'Day and Baltimore manager Showalter ejected by HP umpire Stu Scheurwater for arguing balk call"
-"BAL201806260",16,"$Mariners challenged call that Schoop was safe at home; call was overturned - out at home"
-"BAL201806290",44,"$Angels challenged call that Simmons was out at home; call was overturned - safe at home on fielder's choice"
-"BAL201806300",63,"$Intentional walk originally charged to Scott, but signal for the walk came before the pitching change; run now the responsibility of Givens"
-"BAL201807091",5,"On-field Delay"
-"BAL201807091",18,"Mound Visit"
-"BAL201807091",31,"Mound Visit"
-"BAL201807091",33,"Mound Visit"
-"BAL201807091",50,"Mound Visit"
-"BAL201807091",73,"Mound Visit"
-"BAL201807092",25,"Mound Visit"
-"BAL201807092",38,"Mound Visit"
-"BAL201807092",40,"Mound Visit"
-"BAL201807092",65,"Mound Visit"
-"BAL201807092",69,"$Orioles challenged call that Stanton was safe at first; call was upheld - safe on error"
-"BAL201807092",77,"Mound Visit"
-"BAL201807092",81,"Mound Visit"
-"BAL201807100",11,"$Umpire review; call was overturned - double, not homer"
-"BAL201807100",30,"On-field Delay"
-"BAL201807100",31,"Mound Visit"
-"BAL201807100",40,"Mound Visit"
-"BAL201807100",51,"Mound Visit"
-"BAL201807100",58,"$Umpire review; call was overturned - homer, not single"
-"BAL201807100",68,"Mound Visit"
-"BAL201807100",69,"$Yankees challenged call that Gregorius was out at 2nd; call was upheld - out advancing"
-"BAL201807100",73,"Mound Visit"
-"BAL201807100",75,"Mound Visit"
-"BAL201807110",16,"Mound Visit"
-"BAL201807110",24,"Mound Visit"
-"BAL201807110",25,"Mound Visit"
-"BAL201807110",48,"Mound Visit"
-"BAL201807110",67,"Mound Visit"
-"BAL201807110",80,"On-field Delay"
-"BAL201807120",22,"Mound Visit"
-"BAL201807120",44,"Mound Visit"
-"BAL201807120",49,"Mound Visit"
-"BAL201807120",54,"Injury Delay"
-"BAL201807120",57,"Mound Visit"
-"BAL201807120",57,"On-field Delay"
-"BAL201807120",63,"Mound Visit"
-"BAL201807120",71,"Mound Visit"
-"BAL201807120",75,"Mound Visit"
-"BAL201807130",24,"Mound Visit"
-"BAL201807130",41,"$Rangers challenged call that Beltre was out at first to complete double play; call was upheld - double play"
-"BAL201807130",47,"Mound Visit"
-"BAL201807130",49,"Mound Visit"
-"BAL201807130",50,"On-field Delay"
-"BAL201807130",52,"Mound Visit"
-"BAL201807130",56,"Mound Visit"
-"BAL201807130",57,"Mound Visit"
-"BAL201807130",67,"Mound Visit"
-"BAL201807130",68,"Mound Visit"
-"BAL201807140",45,"Mound Visit"
-"BAL201807140",51,"Mound Visit"
-"BAL201807150",2,"Mound Visit"
-"BAL201807150",19,"Mound Visit"
-"BAL201807150",26,"Mound Visit"
-"BAL201807150",28,"Mound Visit"
-"BAL201807150",33,"Injury Delay Mound Visit"
-"BAL201807150",58,"Mound Visit"
-"BAL201807150",61,"$Rangers challenged call that Odor was out at second; call was upheld - out on caught stealing"
-"BAL201807230",28,"On-field Delay"
-"BAL201807230",34,"Mound Visit"
-"BAL201807230",37,"Mound Visit"
-"BAL201807230",62,"Mound Visit"
-"BAL201807230",64,"$Orioles challenged call that Beckham was out at first; call was overturned - single"
-"BAL201807230",72,"Mound Visit"
-"BAL201807230",75,"Mound Visit"
-"BAL201807240",36,"Mound Visit"
-"BAL201807240",43,"Mound Visit"
-"BAL201807240",52,"Mound Visit"
-"BAL201807240",54,"Mound Visit"
-"BAL201807240",66,"Mound Visit"
-"BAL201807240",76,"Mound Visit"
-"BAL201807260",13,"Mound Visit"
-"BAL201807260",33,"Mound Visit"
-"BAL201807260",52,"$Umpire review ball hit by Choi; call was upheld - double on fan interference"
-"BAL201807260",53,"Mound Visit"
-"BAL201807260",54,"Mound Visit"
-"BAL201807260",58,"Mound Visit"
-"BAL201807260",68,"Mound Visit"
-"BAL201807270",0,"$Rain delay of 1:19 at start of game"
-"BAL201807270",13,"$Orioles challenged call that Gomez was safe at 1st on pickoff attempt; call was overturned - out on pickoff"
-"BAL201807270",31,"$Rays challenged placement of runners after errant throw; call was upheld - Davis scores"
-"BAL201807270",32,"Mound Visit"
-"BAL201807270",46,"Mound Visit"
-"BAL201807270",59,"Mound Visit"
-"BAL201807270",67,"Mound Visit"
-"BAL201807270",80,"Mound Visit"
-"BAL201807270",81,"Mound Visit"
-"BAL201807270",89,"Mound Visit"
-"BAL201807280",1,"Injury Delay"
-"BAL201807280",32,"Mound Visit"
-"BAL201807280",44,"$Rays challenged call that Davis was safe at first; call was upheld - force out, not DP"
-"BAL201807280",55,"Mound Visit"
-"BAL201807280",55,"On-field Delay"
-"BAL201807280",72,"On-field Delay"
-"BAL201807290",8,"Injury Delay"
-"BAL201807290",10,"Mound Visit"
-"BAL201807290",31,"Injury Delay"
-"BAL201807290",33,"$Daniel Robertson left with an injured ankle"
-"BAL201807290",34,"$Umpire review of ball hit by Wynnes; call was upheld - homer"
-"BAL201807290",46,"$Orioles challenged call that Rickard was out at 3rd; call was overturned - safe on advance"
-"BAL201807290",47,"Mound Visit"
-"BAL201807290",70,"Mound Visit"
-"BAL201807290",81,"$Orioles challenged call that Gomez was hit by pitch; call was upheld - hit by pitch Injury Delay Mound Visit"
-"BAL201808100",19,"Mound Visit"
-"BAL201808100",31,"Mound Visit"
-"BAL201808100",32,"Mound Visit"
-"BAL201808100",34,"Mound Visit"
-"BAL201808100",58,"Mound Visit"
-"BAL201808100",63,"Mound Visit"
-"BAL201808100",64,"Mound Visit"
-"BAL201808100",70,"Mound Visit Mound Visit"
-"BAL201808100",72,"Injury Delay"
-"BAL201808100",78,"Mound Visit"
-"BAL201808100",87,"Mound Visit"
-"BAL201808100",88,"Mound Visit"
-"BAL201808100",91,"Mound Visit"
-"BAL201808111",33,"Mound Visit"
-"BAL201808111",34,"Mound Visit"
-"BAL201808111",39,"Mound Visit"
-"BAL201808111",48,"Mound Visit"
-"BAL201808112",13,"Mound Visit"
-"BAL201808112",18,"Injury Delay"
-"BAL201808112",23,"Mound Visit"
-"BAL201808112",24,"Mound Visit"
-"BAL201808112",27,"Mound Visit"
-"BAL201808112",39,"Mound Visit"
-"BAL201808112",48,"Mound Visit"
-"BAL201808112",64,"Mound Visit"
-"BAL201808112",69,"Mound Visit"
-"BAL201808112",74,"Mound Visit"
-"BAL201808112",80,"$Red Sox challenged call that Bradley was out at second; call was upheld - out on caught stealing"
-"BAL201808120",24,"Mound Visit"
-"BAL201808120",44,"Mound Visit"
-"BAL201808120",46,"Mound Visit"
-"BAL201808120",46,"Mound Visit"
-"BAL201808120",51,"Mound Visit"
-"BAL201808120",72,"Mound Visit"
-"BAL201808120",76,"Mound Visit"
-"BAL201808120",77,"Mound Visit"
-"BAL201808140",34,"Mound Visit"
-"BAL201808140",46,"Mound Visit"
-"BAL201808140",57,"Mound Visit"
-"BAL201808140",68,"Mound Visit"
-"BAL201808140",71,"Mound Visit"
-"BAL201808150",12,"Mound Visit"
-"BAL201808150",17,"$Mets challenged call that Beckham was safe at first; call was overturned - ground out"
-"BAL201808150",33,"Mound Visit"
-"BAL201808150",50,"Mound Visit"
-"BAL201808150",54,"Mound Visit"
-"BAL201808150",56,"Mound Visit"
-"BAL201808150",58,"Mound Visit"
-"BAL201808150",72,"Injury Delay"
-"BAL201808240",54,"Mound Visit"
-"BAL201808240",59,"Mound Visit"
-"BAL201808240",62,"Mound Visit"
-"BAL201808240",65,"Mound Visit"
-"BAL201808240",69,"Mound Visit"
-"BAL201808240",80,"Mound Visit"
-"BAL201808251",20,"Mound Visit"
-"BAL201808251",24,"Mound Visit"
-"BAL201808251",31,"Mound Visit"
-"BAL201808251",42,"Mound Visit"
-"BAL201808252",58,"Mound Visit"
-"BAL201808252",77,"Mound Visit"
-"BAL201808252",78,"Mound Visit"
-"BAL201808260",22,"Mound Visit"
-"BAL201808260",26,"$Batter interference as Villar ran into his own bunt"
-"BAL201808260",51,"Mound Visit"
-"BAL201808260",56,"Mound Visit"
-"BAL201808260",67,"Mound Visit"
-"BAL201808270",22,"$Orioles challenged call that Villar was out at 1st; call was overturned - single"
-"BAL201808270",34,"Mound Visit"
-"BAL201808270",43,"Mound Visit"
-"BAL201808270",46,"Mound Visit"
-"BAL201808270",52,"Mound Visit"
-"BAL201808270",63,"Mound Visit"
-"BAL201808280",23,"Mound Visit"
-"BAL201808280",32,"$Blue Jays challenged call that Hernandez was out at 1st to complete double play; call was overturned - force out, no DP"
-"BAL201808280",33,"Mound Visit"
-"BAL201808280",36,"Mound Visit"
-"BAL201808280",38,"Mound Visit"
-"BAL201808280",46,"Mound Visit"
-"BAL201808280",67,"Mound Visit"
-"BAL201808280",79,"Mound Visit"
-"BAL201808290",5,"Injury Delay"
-"BAL201808290",7,"$Blue Jays challenged call that Villar was safe at 3rd on double steal; call was overturned - out on caught stealing"
-"BAL201808290",30,"$Umpire review ball hit by Travis; call was upheld - double, not home run"
-"BAL201808290",40,"Mound Visit"
-"BAL201808290",46,"Mound Visit"
-"BAL201808290",48,"Mound Visit"
-"BAL201808290",52,"Mound Visit"
-"BAL201808290",57,"Mound Visit"
-"BAL201808290",58,"Mound Visit"
-"BAL201808290",66,"Mound Visit"
-"BAL201808290",74,"Mound Visit"
-"BAL201808290",80,"Mound Visit"
-"BAL201808290",84,"Mound Visit"
-"BAL201808290",87,"On-field Delay"
-"BAL201808290",90,"Mound Visit"
-"BAL201808290",92,"Mound Visit"
-"BAL201809110",18,"Injury Delay"
-"BAL201809110",21,"Mound Visit"
-"BAL201809110",56,"$Athletics challenged call that Lowrie was out at 1st; call was overturned - single"
-"BAL201809110",59,"Mound Visit"
-"BAL201809120",18,"Mound Visit"
-"BAL201809120",20,"Mound Visit"
-"BAL201809120",23,"Mound Visit"
-"BAL201809120",29,"Mound Visit"
-"BAL201809120",77,"Mound Visit"
-"BAL201809130",31,"Mound Visit Injury Delay"
-"BAL201809130",32,"Mound Visit"
-"BAL201809130",48,"Mound Visit"
-"BAL201809130",61,"Mound Visit"
-"BAL201809130",64,"Mound Visit"
-"BAL201809130",70,"Mound Visit"
-"BAL201809130",74,"Mound Visit"
-"BAL201809140",13,"Mound Visit"
-"BAL201809140",14,"Injury Delay"
-"BAL201809140",39,"Injury Delay Mound Visit"
-"BAL201809140",40,"Mound Visit"
-"BAL201809140",48,"$White Sox challenged callof double play due to slide interference by Sanchez; call was overturne - no interfernce, so force out, not double play"
-"BAL201809140",59,"Mound Visit"
-"BAL201809140",60,"Mound Visit"
-"BAL201809140",61,"Mound Visit"
-"BAL201809140",62,"Mound Visit"
-"BAL201809140",63,"Mound Visit"
-"BAL201809140",68,"Mound Visit"
-"BAL201809140",72,"Mound Visit"
-"BAL201809150",39,"Mound Visit"
-"BAL201809150",40,"Mound Visit"
-"BAL201809150",51,"Mound Visit Mound Visit"
-"BAL201809150",52,"Mound Visit"
-"BAL201809150",59,"Mound Visit"
-"BAL201809150",68,"Mound Visit"
-"BAL201809160",36,"Injury Delay"
-"BAL201809160",43,"Mound Visit"
-"BAL201809160",46,"Mound Visit"
-"BAL201809160",48,"Mound Visit"
-"BAL201809160",58,"Mound Visit"
-"BAL201809160",72,"Mound Visit"
-"BAL201809160",75,"Injury Delay"
-"BAL201809160",79,"Mound Visit"
-"BAL201809170",22,"On-field Delay"
-"BAL201809170",47,"Mound Visit"
-"BAL201809180",27,"$Orioles challenged call that Gurriel was safe at 2nd; call was overturned - out on caught stealing"
-"BAL201809180",31,"$Orioles challenged call that Mancini was out at home to complete double play; call was overturned - safe on sacrifice fly"
-"BAL201809180",52,"Mound Visit"
-"BAL201809180",55,"Mound Visit"
-"BAL201809180",58,"Mound Visit"
-"BAL201809180",61,"Mound Visit"
-"BAL201809190",24,"Mound Visit"
-"BAL201809190",53,"Mound Visit On-field Delay"
-"BAL201809190",54,"Mound Visit"
-"BAL201809190",59,"Mound Visit"
-"BAL201809280",48,"Mound Visit"
-"BAL201809280",56,"Mound Visit"
-"BAL201809280",58,"Mound Visit"
-"BAL201809280",63,"Injury Delay"
-"BAL201809280",66,"Mound Visit"
-"BAL201809280",69,"Mound Visit"
-"BAL201809291",39,"Mound Visit"
-"BAL201809291",44,"$Joseph called for runner interference - double play"
-"BAL201809291",54,"Mound Visit"
-"BAL201809291",60,"Mound Visit"
-"BAL201809291",72,"Mound Visit"
-"BAL201809292",26,"Mound Visit"
-"BAL201809292",30,"Mound Visit"
-"BAL201809292",56,"Mound Visit"
-"BAL201809292",57,"Mound Visit"
-"BAL201809292",65,"Mound Visit"
-"BAL201809292",71,"Mound Visit"
-"BAL201809300",13,"Mound Visit"
-"BAL201809300",16,"On-field Delay"
-"BAL201809300",31,"Mound Visit"
-"BAL201809300",32,"Mound Visit"
-"BAL201809300",48,"Mound Visit Mound Visit"
-"BAL201809300",61,"Mound Visit"
-"BAL201809300",62,"On-field Delay"
-"BAL201803290",82,"$Twins challenged call that Davis was safe at 2nd, claiming he had been forced by the center fielder; call was upheld -  single"
-"BAL201804090",11,"$Kendrys Morales left game with injured leg"
-"BAL201804110",42,"$Orioles challenged call that Machado's hit was foul; call was overturned - single"
-"BAL201804230",38,"$Indians challenged call that Gentry was safe at 1st for single; call was overturned - ground out"
-"BAL201804260",23,"$Rays challenged call that Wendle was out at first to complete double play; call was overturned - force out"
-"BAL201804260",74,"$Orioles challenged call that Alvarez was out at 1st; call was upheld - ground out"
-"BAL201804290",24,"$Daniel Norris left with injured groin"
-"BAL201804290",37,"$Miguel Cabrera left with injured arm"
-"BAL201805090",49,"$Royals challengd call that Trumbo was safe on throwing error; call was overturned - ground out"
-"BAL201805090",68,"$Royals challenged call that Merrifield was out at 2nd; call was overturned - safe on dropped catch error"
-"BAL201805100",83,"$Royals challenged call that Soler was out at second; call was upheld - force out"
-"BAL201805121",20,"$Rays challenged call that Sisco was safe at home; call was upheld - stolen base"
-"BAL201805122",64,"$Rays challenged call that Smith was out at 3rd; call was overturned - stolen base"
-"BAL201805290",47,"$Nationals challenged call that Taylor was out at 2nd; call was overturned - stolen base"
-"BAL201805290",75,"$Nationals challenged call that Mancini was hit by pitch; call was upheld - hit by pitch"
-"BAL201806130",14,"$Orioles challenged call that first pitch was a ball, claiming Trumbo had been hit; call was overturned - hit by pitch"
-"BAL201806130",43,"$Orioles challenged call that Martinez was safe at home; call was upheld - safe"
-"BAL201806130",60,"ej,salec001,P,knigb901,Arguing balls and strikes $Chris Sale was ejected by plate umpire Knight as he left the field after being removed; arguing balls and strikes"
-"BAL201806150",43,"$Miguel Rojas left with an injured hand; pitch deflected off his hand into his right cheek"
-"BAL201806150",52,"$originally scored E6, changed to single on 06-20-2018"
-"BAL201806250",74,"ej,odayd001,P,sches901,Balk call ej,showb801,M,sches901,Balk call $Pitcher O'Day and Baltimore manager Showalter ejected by HP umpire Scheurwater for arguing balk call"
-"BAL201806260",16,"$Mariners challenged call that Schoop was safe at home; call was overturned - out at home"
-"BAL201806290",44,"$Angels challenged call that Simmons was out at home; call was overturned - safe at home on fielder's choice"
-"BAL201806300",63,"$Intentional walk originally charged to Scott, but signal for the walk came before the pitching change; run now the responsibility of Givens"
-"BAL201807091",5,"On-field Delay"
-"BAL201807091",18,"Mound Visit"
-"BAL201807091",31,"Mound Visit"
-"BAL201807091",33,"Mound Visit"
-"BAL201807091",50,"Mound Visit"
-"BAL201807091",73,"Mound Visit"
-"BAL201807092",25,"Mound Visit"
-"BAL201807092",38,"Mound Visit"
-"BAL201807092",40,"Mound Visit"
-"BAL201807092",65,"Mound Visit"
-"BAL201807092",69,"$Orioles challenged call that Stanton was safe at first; call was upheld - safe on error"
-"BAL201807092",77,"Mound Visit"
-"BAL201807092",81,"Mound Visit"
-"BAL201807100",11,"$Umpire review; call was overturned - double, not homer"
-"BAL201807100",30,"On-field Delay"
-"BAL201807100",31,"Mound Visit"
-"BAL201807100",40,"Mound Visit"
-"BAL201807100",51,"Mound Visit"
-"BAL201807100",58,"$Umpire review; call was overturned - homer, not single"
-"BAL201807100",68,"Mound Visit"
-"BAL201807100",69,"$Yankees challenged call that Gregorius was out at 2nd; call was upheld - out advancing"
-"BAL201807100",73,"Mound Visit"
-"BAL201807100",75,"Mound Visit"
-"BAL201807110",16,"Mound Visit"
-"BAL201807110",24,"Mound Visit"
-"BAL201807110",25,"Mound Visit"
-"BAL201807110",48,"Mound Visit"
-"BAL201807110",67,"Mound Visit"
-"BAL201807110",80,"On-field Delay"
-"BAL201807120",22,"Mound Visit"
-"BAL201807120",44,"Mound Visit"
-"BAL201807120",49,"Mound Visit"
-"BAL201807120",54,"Injury Delay"
-"BAL201807120",57,"Mound Visit"
-"BAL201807120",57,"On-field Delay"
-"BAL201807120",63,"Mound Visit"
-"BAL201807120",71,"Mound Visit"
-"BAL201807120",75,"Mound Visit"
-"BAL201807130",24,"Mound Visit"
-"BAL201807130",41,"$Rangers challenged call that Beltre was out at first to complete double play; call was upheld - double play"
-"BAL201807130",47,"Mound Visit"
-"BAL201807130",49,"Mound Visit"
-"BAL201807130",50,"On-field Delay"
-"BAL201807130",52,"Mound Visit"
-"BAL201807130",56,"Mound Visit"
-"BAL201807130",57,"Mound Visit"
-"BAL201807130",67,"Mound Visit"
-"BAL201807130",68,"Mound Visit"
-"BAL201807140",45,"Mound Visit"
-"BAL201807140",51,"Mound Visit"
-"BAL201807150",2,"Mound Visit"
-"BAL201807150",19,"Mound Visit"
-"BAL201807150",26,"Mound Visit"
-"BAL201807150",28,"Mound Visit"
-"BAL201807150",33,"Injury Delay Mound Visit"
-"BAL201807150",58,"Mound Visit"
-"BAL201807150",61,"$Rangers challenged call that Odor was out at second; call was upheld - out on caught stealing"
-"BAL201807230",28,"On-field Delay"
-"BAL201807230",34,"Mound Visit"
-"BAL201807230",37,"Mound Visit"
-"BAL201807230",62,"Mound Visit"
-"BAL201807230",64,"$Orioles challenged call that Beckham was out at first; call was overturned - single"
-"BAL201807230",72,"Mound Visit"
-"BAL201807230",75,"Mound Visit"
-"BAL201807240",36,"Mound Visit"
-"BAL201807240",43,"Mound Visit"
-"BAL201807240",52,"Mound Visit"
-"BAL201807240",54,"Mound Visit"
-"BAL201807240",66,"Mound Visit"
-"BAL201807240",76,"Mound Visit"
-"BAL201807260",13,"Mound Visit"
-"BAL201807260",33,"Mound Visit"
-"BAL201807260",52,"$Umpire review ball hit by Choi; call was upheld - double on fan interference"
-"BAL201807260",53,"Mound Visit"
-"BAL201807260",54,"Mound Visit"
-"BAL201807260",58,"Mound Visit"
-"BAL201807260",68,"Mound Visit"
-"BAL201807270",0,"$Rain delay of 1:19 at start of game"
-"BAL201807270",13,"$Orioles challenged call that Gomez was safe at 1st on pickoff attempt; call was overturned - out on pickoff"
-"BAL201807270",31,"$Rays challenged placement of runners after errant throw; call was upheld - Davis scores"
-"BAL201807270",32,"Mound Visit"
-"BAL201807270",46,"Mound Visit"
-"BAL201807270",59,"Mound Visit"
-"BAL201807270",67,"Mound Visit"
-"BAL201807270",80,"Mound Visit"
-"BAL201807270",81,"Mound Visit"
-"BAL201807270",89,"Mound Visit"
-"BAL201807280",1,"Injury Delay"
-"BAL201807280",32,"Mound Visit"
-"BAL201807280",44,"$Rays challenged call that Davis was safe at first; call was upheld - force out, not DP"
-"BAL201807280",55,"Mound Visit"
-"BAL201807280",55,"On-field Delay"
-"BAL201807280",72,"On-field Delay"
-"BAL201807290",8,"Injury Delay"
-"BAL201807290",10,"Mound Visit"
-"BAL201807290",31,"Injury Delay"
-"BAL201807290",33,"$Daniel Robertson left with an injured ankle"
-"BAL201807290",34,"$Umpire review of ball hit by Wynnes; call was upheld - homer"
-"BAL201807290",46,"$Orioles challenged call that Rickard was out at 3rd; call was overturned - safe on advance"
-"BAL201807290",47,"Mound Visit"
-"BAL201807290",70,"Mound Visit"
-"BAL201807290",81,"$Orioles challenged call that Gomez was hit by pitch; call was upheld - hit by pitch Injury Delay Mound Visit"
-"BAL201808100",19,"Mound Visit"
-"BAL201808100",31,"Mound Visit"
-"BAL201808100",32,"Mound Visit"
-"BAL201808100",34,"Mound Visit"
-"BAL201808100",58,"Mound Visit"
-"BAL201808100",63,"Mound Visit"
-"BAL201808100",64,"Mound Visit"
-"BAL201808100",70,"Mound Visit Mound Visit"
-"BAL201808100",72,"Injury Delay"
-"BAL201808100",78,"Mound Visit"
-"BAL201808100",87,"Mound Visit"
-"BAL201808100",88,"Mound Visit"
-"BAL201808100",91,"Mound Visit"
-"BAL201808111",33,"Mound Visit"
-"BAL201808111",34,"Mound Visit"
-"BAL201808111",39,"Mound Visit"
-"BAL201808111",48,"Mound Visit"
-"BAL201808112",13,"Mound Visit"
-"BAL201808112",18,"Injury Delay"
-"BAL201808112",23,"Mound Visit"
-"BAL201808112",24,"Mound Visit"
-"BAL201808112",27,"Mound Visit"
-"BAL201808112",39,"Mound Visit"
-"BAL201808112",48,"Mound Visit"
-"BAL201808112",64,"Mound Visit"
-"BAL201808112",69,"Mound Visit"
-"BAL201808112",74,"Mound Visit"
-"BAL201808112",80,"$Red Sox challenged call that Bradley was out at second; call was upheld - out on caught stealing"
-"BAL201808120",24,"Mound Visit"
-"BAL201808120",44,"Mound Visit"
-"BAL201808120",46,"Mound Visit"
-"BAL201808120",46,"Mound Visit"
-"BAL201808120",51,"Mound Visit"
-"BAL201808120",72,"Mound Visit"
-"BAL201808120",76,"Mound Visit"
-"BAL201808120",77,"Mound Visit"
-"BAL201808140",34,"Mound Visit"
-"BAL201808140",46,"Mound Visit"
-"BAL201808140",57,"Mound Visit"
-"BAL201808140",68,"Mound Visit"
-"BAL201808140",71,"Mound Visit"
-"BAL201808150",12,"Mound Visit"
-"BAL201808150",17,"$Mets challenged call that Beckham was safe at first; call was overturned - ground out"
-"BAL201808150",33,"Mound Visit"
-"BAL201808150",50,"Mound Visit"
-"BAL201808150",54,"Mound Visit"
-"BAL201808150",56,"Mound Visit"
-"BAL201808150",58,"Mound Visit"
-"BAL201808150",72,"Injury Delay"
-"BAL201808240",54,"Mound Visit"
-"BAL201808240",59,"Mound Visit"
-"BAL201808240",62,"Mound Visit"
-"BAL201808240",65,"Mound Visit"
-"BAL201808240",69,"Mound Visit"
-"BAL201808240",80,"Mound Visit"
-"BAL201808251",20,"Mound Visit"
-"BAL201808251",24,"Mound Visit"
-"BAL201808251",31,"Mound Visit"
-"BAL201808251",42,"Mound Visit"
-"BAL201808252",58,"Mound Visit"
-"BAL201808252",77,"Mound Visit"
-"BAL201808252",78,"Mound Visit"
-"BAL201808260",22,"Mound Visit"
-"BAL201808260",26,"$Batter interference as Villar ran into his own bunt"
-"BAL201808260",51,"Mound Visit"
-"BAL201808260",56,"Mound Visit"
-"BAL201808260",67,"Mound Visit"
-"BAL201808270",22,"$Orioles challenged call that Villar was out at 1st; call was overturned - single"
-"BAL201808270",34,"Mound Visit"
-"BAL201808270",43,"Mound Visit"
-"BAL201808270",46,"Mound Visit"
-"BAL201808270",52,"Mound Visit"
-"BAL201808270",63,"Mound Visit"
-"BAL201808280",23,"Mound Visit"
-"BAL201808280",32,"$Blue Jays challenged call that Hernandez was out at 1st to complete double play; call was overturned - force out, no DP"
-"BAL201808280",33,"Mound Visit"
-"BAL201808280",36,"Mound Visit"
-"BAL201808280",38,"Mound Visit"
-"BAL201808280",46,"Mound Visit"
-"BAL201808280",67,"Mound Visit"
-"BAL201808280",79,"Mound Visit"
-"BAL201808290",5,"Injury Delay"
-"BAL201808290",7,"$Blue Jays challenged call that Villar was safe at 3rd on double steal; call was overturned - out on caught stealing"
-"BAL201808290",30,"$Umpire review ball hit by Travis; call was upheld - double, not home run"
-"BAL201808290",40,"Mound Visit"
-"BAL201808290",46,"Mound Visit"
-"BAL201808290",48,"Mound Visit"
-"BAL201808290",52,"Mound Visit"
-"BAL201808290",57,"Mound Visit"
-"BAL201808290",58,"Mound Visit"
-"BAL201808290",66,"Mound Visit"
-"BAL201808290",74,"Mound Visit"
-"BAL201808290",80,"Mound Visit"
-"BAL201808290",84,"Mound Visit"
-"BAL201808290",87,"On-field Delay"
-"BAL201808290",90,"Mound Visit"
-"BAL201808290",92,"Mound Visit"
-"BAL201809110",18,"Injury Delay"
-"BAL201809110",21,"Mound Visit"
-"BAL201809110",56,"$Athletics challenged call that Lowrie was out at 1st; call was overturned - single"
-"BAL201809110",59,"Mound Visit"
-"BAL201809120",18,"Mound Visit"
-"BAL201809120",20,"Mound Visit"
-"BAL201809120",23,"Mound Visit"
-"BAL201809120",29,"Mound Visit"
-"BAL201809120",77,"Mound Visit"
-"BAL201809130",31,"Mound Visit Injury Delay"
-"BAL201809130",32,"Mound Visit"
-"BAL201809130",48,"Mound Visit"
-"BAL201809130",61,"Mound Visit"
-"BAL201809130",64,"Mound Visit"
-"BAL201809130",70,"Mound Visit"
-"BAL201809130",74,"Mound Visit"
-"BAL201809140",13,"Mound Visit"
-"BAL201809140",14,"Injury Delay"
-"BAL201809140",39,"Injury Delay Mound Visit"
-"BAL201809140",40,"Mound Visit"
-"BAL201809140",48,"$White Sox challenged callof double play due to slide interference by Sanchez; call was overturne - no interfernce, so force out, not double play"
-"BAL201809140",59,"Mound Visit"
-"BAL201809140",60,"Mound Visit"
-"BAL201809140",61,"Mound Visit"
-"BAL201809140",62,"Mound Visit"
-"BAL201809140",63,"Mound Visit"
-"BAL201809140",68,"Mound Visit"
-"BAL201809140",72,"Mound Visit"
-"BAL201809150",39,"Mound Visit"
-"BAL201809150",40,"Mound Visit"
-"BAL201809150",51,"Mound Visit Mound Visit"
-"BAL201809150",52,"Mound Visit"
-"BAL201809150",59,"Mound Visit"
-"BAL201809150",68,"Mound Visit"
-"BAL201809160",36,"Injury Delay"
-"BAL201809160",43,"Mound Visit"
-"BAL201809160",46,"Mound Visit"
-"BAL201809160",48,"Mound Visit"
-"BAL201809160",58,"Mound Visit"
-"BAL201809160",72,"Mound Visit"
-"BAL201809160",75,"Injury Delay"
-"BAL201809160",79,"Mound Visit"
-"BAL201809170",22,"On-field Delay"
-"BAL201809170",47,"Mound Visit"
-"BAL201809180",27,"$Orioles challenged call that Gurriel was safe at 2nd; call was overturned - out on caught stealing"
-"BAL201809180",31,"$Orioles challenged call that Mancini was out at home to complete double play; call was overturned - safe on sacrifice fly"
-"BAL201809180",52,"Mound Visit"
-"BAL201809180",55,"Mound Visit"
-"BAL201809180",58,"Mound Visit"
-"BAL201809180",61,"Mound Visit"
-"BAL201809190",24,"Mound Visit"
-"BAL201809190",53,"Mound Visit On-field Delay"
-"BAL201809190",54,"Mound Visit"
-"BAL201809190",59,"Mound Visit"
-"BAL201809280",48,"Mound Visit"
-"BAL201809280",56,"Mound Visit"
-"BAL201809280",58,"Mound Visit"
-"BAL201809280",63,"Injury Delay"
-"BAL201809280",66,"Mound Visit"
-"BAL201809280",69,"Mound Visit"
-"BAL201809291",39,"Mound Visit"
-"BAL201809291",44,"$Joseph called for runner interference - double play"
-"BAL201809291",54,"Mound Visit"
-"BAL201809291",60,"Mound Visit"
-"BAL201809291",72,"Mound Visit"
-"BAL201809292",26,"Mound Visit"
-"BAL201809292",30,"Mound Visit"
-"BAL201809292",56,"Mound Visit"
-"BAL201809292",57,"Mound Visit"
-"BAL201809292",65,"Mound Visit"
-"BAL201809292",71,"Mound Visit"
-"BAL201809300",13,"Mound Visit"
-"BAL201809300",16,"On-field Delay"
-"BAL201809300",31,"Mound Visit"
-"BAL201809300",32,"Mound Visit"
-"BAL201809300",48,"Mound Visit Mound Visit"
-"BAL201809300",61,"Mound Visit"
-"BAL201809300",62,"On-field Delay"
+"BAL201803290",82,"$Twins challenged call that Davis was safe at 2nd, claiming he had been forced by the center fielder; call was upheld -  single"FILENAME_TX","LINE_NUMBER_CT"
+
+"BAL201804090",11,"$Kendrys Morales left game with injured leg"2018BAL.EVA.regular.comment.csv",2
+
+"BAL201804110",42,"$Orioles challenged call that Machado's hit was foul; call was overturned - single"2018BAL.EVA.regular.comment.csv",3
+
+"BAL201804230",38,"$Indians challenged call that Gentry was safe at 1st for single; call was overturned - ground out"2018BAL.EVA.regular.comment.csv",4
+
+"BAL201804260",23,"$Rays challenged call that Wendle was out at first to complete double play; call was overturned - force out"2018BAL.EVA.regular.comment.csv",5
+
+"BAL201804260",74,"$Orioles challenged call that Alvarez was out at 1st; call was upheld - ground out"2018BAL.EVA.regular.comment.csv",6
+
+"BAL201804290",24,"$Daniel Norris left with injured groin"2018BAL.EVA.regular.comment.csv",7
+
+"BAL201804290",37,"$Miguel Cabrera left with injured arm"2018BAL.EVA.regular.comment.csv",8
+
+"BAL201805090",49,"$Royals challengd call that Trumbo was safe on throwing error; call was overturned - ground out"2018BAL.EVA.regular.comment.csv",9
+
+"BAL201805090",68,"$Royals challenged call that Merrifield was out at 2nd; call was overturned - safe on dropped catch error"2018BAL.EVA.regular.comment.csv",10
+
+"BAL201805100",83,"$Royals challenged call that Soler was out at second; call was upheld - force out"2018BAL.EVA.regular.comment.csv",11
+
+"BAL201805121",20,"$Rays challenged call that Sisco was safe at home; call was upheld - stolen base"2018BAL.EVA.regular.comment.csv",12
+
+"BAL201805122",64,"$Rays challenged call that Smith was out at 3rd; call was overturned - stolen base"2018BAL.EVA.regular.comment.csv",13
+
+"BAL201805290",47,"$Nationals challenged call that Taylor was out at 2nd; call was overturned - stolen base"2018BAL.EVA.regular.comment.csv",14
+
+"BAL201805290",75,"$Nationals challenged call that Mancini was hit by pitch; call was upheld - hit by pitch"2018BAL.EVA.regular.comment.csv",15
+
+"BAL201806130",14,"$Orioles challenged call that first pitch was a ball, claiming Trumbo had been hit; call was overturned - hit by pitch"2018BAL.EVA.regular.comment.csv",16
+
+"BAL201806130",43,"$Orioles challenged call that Martinez was safe at home; call was upheld - safe"2018BAL.EVA.regular.comment.csv",17
+
+"BAL201806130",60,"ej,salec001,P,knigb901,Arguing balls and strikes $Chris Sale was ejected by plate umpire Knight as he left the field after being removed; arguing balls and strikes"2018BAL.EVA.regular.comment.csv",18
+
+"BAL201806150",43,"$Miguel Rojas left with an injured hand; pitch deflected off his hand into his right cheek"2018BAL.EVA.regular.comment.csv",19
+
+"BAL201806150",52,"$originally scored E6, changed to single on 06-20-2018"2018BAL.EVA.regular.comment.csv",20
+
+"BAL201806250",74,"ej,odayd001,P,sches901,Balk call ej,showb801,M,sches901,Balk call $Pitcher O'Day and Baltimore manager Showalter ejected by HP umpire Scheurwater for arguing balk call"2018BAL.EVA.regular.comment.csv",21
+
+"BAL201806260",16,"$Mariners challenged call that Schoop was safe at home; call was overturned - out at home"2018BAL.EVA.regular.comment.csv",22
+
+"BAL201806290",44,"$Angels challenged call that Simmons was out at home; call was overturned - safe at home on fielder's choice"2018BAL.EVA.regular.comment.csv",23
+
+"BAL201806300",63,"$Intentional walk originally charged to Scott, but signal for the walk came before the pitching change; run now the responsibility of Givens"2018BAL.EVA.regular.comment.csv",24
+
+"BAL201807091",5,"On-field Delay"2018BAL.EVA.regular.comment.csv",25
+
+"BAL201807091",18,"Mound Visit"2018BAL.EVA.regular.comment.csv",26
+
+"BAL201807091",31,"Mound Visit"2018BAL.EVA.regular.comment.csv",27
+
+"BAL201807091",33,"Mound Visit"2018BAL.EVA.regular.comment.csv",28
+
+"BAL201807091",50,"Mound Visit"2018BAL.EVA.regular.comment.csv",29
+
+"BAL201807091",73,"Mound Visit"2018BAL.EVA.regular.comment.csv",30
+
+"BAL201807092",25,"Mound Visit"2018BAL.EVA.regular.comment.csv",31
+
+"BAL201807092",38,"Mound Visit"2018BAL.EVA.regular.comment.csv",32
+
+"BAL201807092",40,"Mound Visit"2018BAL.EVA.regular.comment.csv",33
+
+"BAL201807092",65,"Mound Visit"2018BAL.EVA.regular.comment.csv",34
+
+"BAL201807092",69,"$Orioles challenged call that Stanton was safe at first; call was upheld - safe on error"2018BAL.EVA.regular.comment.csv",35
+
+"BAL201807092",77,"Mound Visit"2018BAL.EVA.regular.comment.csv",36
+
+"BAL201807092",81,"Mound Visit"2018BAL.EVA.regular.comment.csv",37
+
+"BAL201807100",11,"$Umpire review; call was overturned - double, not homer"2018BAL.EVA.regular.comment.csv",38
+
+"BAL201807100",30,"On-field Delay"2018BAL.EVA.regular.comment.csv",39
+
+"BAL201807100",31,"Mound Visit"2018BAL.EVA.regular.comment.csv",40
+
+"BAL201807100",40,"Mound Visit"2018BAL.EVA.regular.comment.csv",41
+
+"BAL201807100",51,"Mound Visit"2018BAL.EVA.regular.comment.csv",42
+
+"BAL201807100",58,"$Umpire review; call was overturned - homer, not single"2018BAL.EVA.regular.comment.csv",43
+
+"BAL201807100",68,"Mound Visit"2018BAL.EVA.regular.comment.csv",44
+
+"BAL201807100",69,"$Yankees challenged call that Gregorius was out at 2nd; call was upheld - out advancing"2018BAL.EVA.regular.comment.csv",45
+
+"BAL201807100",73,"Mound Visit"2018BAL.EVA.regular.comment.csv",46
+
+"BAL201807100",75,"Mound Visit"2018BAL.EVA.regular.comment.csv",47
+
+"BAL201807110",16,"Mound Visit"2018BAL.EVA.regular.comment.csv",48
+
+"BAL201807110",24,"Mound Visit"2018BAL.EVA.regular.comment.csv",49
+
+"BAL201807110",25,"Mound Visit"2018BAL.EVA.regular.comment.csv",50
+
+"BAL201807110",48,"Mound Visit"2018BAL.EVA.regular.comment.csv",51
+
+"BAL201807110",67,"Mound Visit"2018BAL.EVA.regular.comment.csv",52
+
+"BAL201807110",80,"On-field Delay"2018BAL.EVA.regular.comment.csv",53
+
+"BAL201807120",22,"Mound Visit"2018BAL.EVA.regular.comment.csv",54
+
+"BAL201807120",44,"Mound Visit"2018BAL.EVA.regular.comment.csv",55
+
+"BAL201807120",49,"Mound Visit"2018BAL.EVA.regular.comment.csv",56
+
+"BAL201807120",54,"Injury Delay"2018BAL.EVA.regular.comment.csv",57
+
+"BAL201807120",57,"Mound Visit"2018BAL.EVA.regular.comment.csv",58
+
+"BAL201807120",57,"On-field Delay"2018BAL.EVA.regular.comment.csv",59
+
+"BAL201807120",63,"Mound Visit"2018BAL.EVA.regular.comment.csv",60
+
+"BAL201807120",71,"Mound Visit"2018BAL.EVA.regular.comment.csv",61
+
+"BAL201807120",75,"Mound Visit"2018BAL.EVA.regular.comment.csv",62
+
+"BAL201807130",24,"Mound Visit"2018BAL.EVA.regular.comment.csv",63
+
+"BAL201807130",41,"$Rangers challenged call that Beltre was out at first to complete double play; call was upheld - double play"2018BAL.EVA.regular.comment.csv",64
+
+"BAL201807130",47,"Mound Visit"2018BAL.EVA.regular.comment.csv",65
+
+"BAL201807130",49,"Mound Visit"2018BAL.EVA.regular.comment.csv",66
+
+"BAL201807130",50,"On-field Delay"2018BAL.EVA.regular.comment.csv",67
+
+"BAL201807130",52,"Mound Visit"2018BAL.EVA.regular.comment.csv",68
+
+"BAL201807130",56,"Mound Visit"2018BAL.EVA.regular.comment.csv",69
+
+"BAL201807130",57,"Mound Visit"2018BAL.EVA.regular.comment.csv",70
+
+"BAL201807130",67,"Mound Visit"2018BAL.EVA.regular.comment.csv",71
+
+"BAL201807130",68,"Mound Visit"2018BAL.EVA.regular.comment.csv",72
+
+"BAL201807140",45,"Mound Visit"2018BAL.EVA.regular.comment.csv",73
+
+"BAL201807140",51,"Mound Visit"2018BAL.EVA.regular.comment.csv",74
+
+"BAL201807150",2,"Mound Visit"2018BAL.EVA.regular.comment.csv",75
+
+"BAL201807150",19,"Mound Visit"2018BAL.EVA.regular.comment.csv",76
+
+"BAL201807150",26,"Mound Visit"2018BAL.EVA.regular.comment.csv",77
+
+"BAL201807150",28,"Mound Visit"2018BAL.EVA.regular.comment.csv",78
+
+"BAL201807150",33,"Injury Delay Mound Visit"2018BAL.EVA.regular.comment.csv",79
+
+"BAL201807150",58,"Mound Visit"2018BAL.EVA.regular.comment.csv",80
+
+"BAL201807150",61,"$Rangers challenged call that Odor was out at second; call was upheld - out on caught stealing"2018BAL.EVA.regular.comment.csv",81
+
+"BAL201807230",28,"On-field Delay"2018BAL.EVA.regular.comment.csv",82
+
+"BAL201807230",34,"Mound Visit"2018BAL.EVA.regular.comment.csv",83
+
+"BAL201807230",37,"Mound Visit"2018BAL.EVA.regular.comment.csv",84
+
+"BAL201807230",62,"Mound Visit"2018BAL.EVA.regular.comment.csv",85
+
+"BAL201807230",64,"$Orioles challenged call that Beckham was out at first; call was overturned - single"2018BAL.EVA.regular.comment.csv",86
+
+"BAL201807230",72,"Mound Visit"2018BAL.EVA.regular.comment.csv",87
+
+"BAL201807230",75,"Mound Visit"2018BAL.EVA.regular.comment.csv",88
+
+"BAL201807240",36,"Mound Visit"2018BAL.EVA.regular.comment.csv",89
+
+"BAL201807240",43,"Mound Visit"2018BAL.EVA.regular.comment.csv",90
+
+"BAL201807240",52,"Mound Visit"2018BAL.EVA.regular.comment.csv",91
+
+"BAL201807240",54,"Mound Visit"2018BAL.EVA.regular.comment.csv",92
+
+"BAL201807240",66,"Mound Visit"2018BAL.EVA.regular.comment.csv",93
+
+"BAL201807240",76,"Mound Visit"2018BAL.EVA.regular.comment.csv",94
+
+"BAL201807260",13,"Mound Visit"2018BAL.EVA.regular.comment.csv",95
+
+"BAL201807260",33,"Mound Visit"2018BAL.EVA.regular.comment.csv",96
+
+"BAL201807260",52,"$Umpire review ball hit by Choi; call was upheld - double on fan interference"2018BAL.EVA.regular.comment.csv",97
+
+"BAL201807260",53,"Mound Visit"2018BAL.EVA.regular.comment.csv",98
+
+"BAL201807260",54,"Mound Visit"2018BAL.EVA.regular.comment.csv",99
+
+"BAL201807260",58,"Mound Visit"2018BAL.EVA.regular.comment.csv",100
+
+"BAL201807260",68,"Mound Visit"2018BAL.EVA.regular.comment.csv",101
+
+"BAL201807270",0,"$Rain delay of 1:19 at start of game"2018BAL.EVA.regular.comment.csv",102
+
+"BAL201807270",13,"$Orioles challenged call that Gomez was safe at 1st on pickoff attempt; call was overturned - out on pickoff"2018BAL.EVA.regular.comment.csv",103
+
+"BAL201807270",31,"$Rays challenged placement of runners after errant throw; call was upheld - Davis scores"2018BAL.EVA.regular.comment.csv",104
+
+"BAL201807270",32,"Mound Visit"2018BAL.EVA.regular.comment.csv",105
+
+"BAL201807270",46,"Mound Visit"2018BAL.EVA.regular.comment.csv",106
+
+"BAL201807270",59,"Mound Visit"2018BAL.EVA.regular.comment.csv",107
+
+"BAL201807270",67,"Mound Visit"2018BAL.EVA.regular.comment.csv",108
+
+"BAL201807270",80,"Mound Visit"2018BAL.EVA.regular.comment.csv",109
+
+"BAL201807270",81,"Mound Visit"2018BAL.EVA.regular.comment.csv",110
+
+"BAL201807270",89,"Mound Visit"2018BAL.EVA.regular.comment.csv",111
+
+"BAL201807280",1,"Injury Delay"2018BAL.EVA.regular.comment.csv",112
+
+"BAL201807280",32,"Mound Visit"2018BAL.EVA.regular.comment.csv",113
+
+"BAL201807280",44,"$Rays challenged call that Davis was safe at first; call was upheld - force out, not DP"2018BAL.EVA.regular.comment.csv",114
+
+"BAL201807280",55,"Mound Visit"2018BAL.EVA.regular.comment.csv",115
+
+"BAL201807280",55,"On-field Delay"2018BAL.EVA.regular.comment.csv",116
+
+"BAL201807280",72,"On-field Delay"2018BAL.EVA.regular.comment.csv",117
+
+"BAL201807290",8,"Injury Delay"2018BAL.EVA.regular.comment.csv",118
+
+"BAL201807290",10,"Mound Visit"2018BAL.EVA.regular.comment.csv",119
+
+"BAL201807290",31,"Injury Delay"2018BAL.EVA.regular.comment.csv",120
+
+"BAL201807290",33,"$Daniel Robertson left with an injured ankle"2018BAL.EVA.regular.comment.csv",121
+
+"BAL201807290",34,"$Umpire review of ball hit by Wynnes; call was upheld - homer"2018BAL.EVA.regular.comment.csv",122
+
+"BAL201807290",46,"$Orioles challenged call that Rickard was out at 3rd; call was overturned - safe on advance"2018BAL.EVA.regular.comment.csv",123
+
+"BAL201807290",47,"Mound Visit"2018BAL.EVA.regular.comment.csv",124
+
+"BAL201807290",70,"Mound Visit"2018BAL.EVA.regular.comment.csv",125
+
+"BAL201807290",81,"$Orioles challenged call that Gomez was hit by pitch; call was upheld - hit by pitch Injury Delay Mound Visit"2018BAL.EVA.regular.comment.csv",126
+
+"BAL201808100",19,"Mound Visit"2018BAL.EVA.regular.comment.csv",127
+
+"BAL201808100",31,"Mound Visit"2018BAL.EVA.regular.comment.csv",128
+
+"BAL201808100",32,"Mound Visit"2018BAL.EVA.regular.comment.csv",129
+
+"BAL201808100",34,"Mound Visit"2018BAL.EVA.regular.comment.csv",130
+
+"BAL201808100",58,"Mound Visit"2018BAL.EVA.regular.comment.csv",131
+
+"BAL201808100",63,"Mound Visit"2018BAL.EVA.regular.comment.csv",132
+
+"BAL201808100",64,"Mound Visit"2018BAL.EVA.regular.comment.csv",133
+
+"BAL201808100",70,"Mound Visit Mound Visit"2018BAL.EVA.regular.comment.csv",134
+
+"BAL201808100",72,"Injury Delay"2018BAL.EVA.regular.comment.csv",135
+
+"BAL201808100",78,"Mound Visit"2018BAL.EVA.regular.comment.csv",136
+
+"BAL201808100",87,"Mound Visit"2018BAL.EVA.regular.comment.csv",137
+
+"BAL201808100",88,"Mound Visit"2018BAL.EVA.regular.comment.csv",138
+
+"BAL201808100",91,"Mound Visit"2018BAL.EVA.regular.comment.csv",139
+
+"BAL201808111",33,"Mound Visit"2018BAL.EVA.regular.comment.csv",140
+
+"BAL201808111",34,"Mound Visit"2018BAL.EVA.regular.comment.csv",141
+
+"BAL201808111",39,"Mound Visit"2018BAL.EVA.regular.comment.csv",142
+
+"BAL201808111",48,"Mound Visit"2018BAL.EVA.regular.comment.csv",143
+
+"BAL201808112",13,"Mound Visit"2018BAL.EVA.regular.comment.csv",144
+
+"BAL201808112",18,"Injury Delay"2018BAL.EVA.regular.comment.csv",145
+
+"BAL201808112",23,"Mound Visit"2018BAL.EVA.regular.comment.csv",146
+
+"BAL201808112",24,"Mound Visit"2018BAL.EVA.regular.comment.csv",147
+
+"BAL201808112",27,"Mound Visit"2018BAL.EVA.regular.comment.csv",148
+
+"BAL201808112",39,"Mound Visit"2018BAL.EVA.regular.comment.csv",149
+
+"BAL201808112",48,"Mound Visit"2018BAL.EVA.regular.comment.csv",150
+
+"BAL201808112",64,"Mound Visit"2018BAL.EVA.regular.comment.csv",151
+
+"BAL201808112",69,"Mound Visit"2018BAL.EVA.regular.comment.csv",152
+
+"BAL201808112",74,"Mound Visit"2018BAL.EVA.regular.comment.csv",153
+
+"BAL201808112",80,"$Red Sox challenged call that Bradley was out at second; call was upheld - out on caught stealing"2018BAL.EVA.regular.comment.csv",154
+
+"BAL201808120",24,"Mound Visit"2018BAL.EVA.regular.comment.csv",155
+
+"BAL201808120",44,"Mound Visit"2018BAL.EVA.regular.comment.csv",156
+
+"BAL201808120",46,"Mound Visit"2018BAL.EVA.regular.comment.csv",157
+
+"BAL201808120",46,"Mound Visit"2018BAL.EVA.regular.comment.csv",158
+
+"BAL201808120",51,"Mound Visit"2018BAL.EVA.regular.comment.csv",159
+
+"BAL201808120",72,"Mound Visit"2018BAL.EVA.regular.comment.csv",160
+
+"BAL201808120",76,"Mound Visit"2018BAL.EVA.regular.comment.csv",161
+
+"BAL201808120",77,"Mound Visit"2018BAL.EVA.regular.comment.csv",162
+
+"BAL201808140",34,"Mound Visit"2018BAL.EVA.regular.comment.csv",163
+
+"BAL201808140",46,"Mound Visit"2018BAL.EVA.regular.comment.csv",164
+
+"BAL201808140",57,"Mound Visit"2018BAL.EVA.regular.comment.csv",165
+
+"BAL201808140",68,"Mound Visit"2018BAL.EVA.regular.comment.csv",166
+
+"BAL201808140",71,"Mound Visit"2018BAL.EVA.regular.comment.csv",167
+
+"BAL201808150",12,"Mound Visit"2018BAL.EVA.regular.comment.csv",168
+
+"BAL201808150",17,"$Mets challenged call that Beckham was safe at first; call was overturned - ground out"2018BAL.EVA.regular.comment.csv",169
+
+"BAL201808150",33,"Mound Visit"2018BAL.EVA.regular.comment.csv",170
+
+"BAL201808150",50,"Mound Visit"2018BAL.EVA.regular.comment.csv",171
+
+"BAL201808150",54,"Mound Visit"2018BAL.EVA.regular.comment.csv",172
+
+"BAL201808150",56,"Mound Visit"2018BAL.EVA.regular.comment.csv",173
+
+"BAL201808150",58,"Mound Visit"2018BAL.EVA.regular.comment.csv",174
+
+"BAL201808150",72,"Injury Delay"2018BAL.EVA.regular.comment.csv",175
+
+"BAL201808240",54,"Mound Visit"2018BAL.EVA.regular.comment.csv",176
+
+"BAL201808240",59,"Mound Visit"2018BAL.EVA.regular.comment.csv",177
+
+"BAL201808240",62,"Mound Visit"2018BAL.EVA.regular.comment.csv",178
+
+"BAL201808240",65,"Mound Visit"2018BAL.EVA.regular.comment.csv",179
+
+"BAL201808240",69,"Mound Visit"2018BAL.EVA.regular.comment.csv",180
+
+"BAL201808240",80,"Mound Visit"2018BAL.EVA.regular.comment.csv",181
+
+"BAL201808251",20,"Mound Visit"2018BAL.EVA.regular.comment.csv",182
+
+"BAL201808251",24,"Mound Visit"2018BAL.EVA.regular.comment.csv",183
+
+"BAL201808251",31,"Mound Visit"2018BAL.EVA.regular.comment.csv",184
+
+"BAL201808251",42,"Mound Visit"2018BAL.EVA.regular.comment.csv",185
+
+"BAL201808252",58,"Mound Visit"2018BAL.EVA.regular.comment.csv",186
+
+"BAL201808252",77,"Mound Visit"2018BAL.EVA.regular.comment.csv",187
+
+"BAL201808252",78,"Mound Visit"2018BAL.EVA.regular.comment.csv",188
+
+"BAL201808260",22,"Mound Visit"2018BAL.EVA.regular.comment.csv",189
+
+"BAL201808260",26,"$Batter interference as Villar ran into his own bunt"2018BAL.EVA.regular.comment.csv",190
+
+"BAL201808260",51,"Mound Visit"2018BAL.EVA.regular.comment.csv",191
+
+"BAL201808260",56,"Mound Visit"2018BAL.EVA.regular.comment.csv",192
+
+"BAL201808260",67,"Mound Visit"2018BAL.EVA.regular.comment.csv",193
+
+"BAL201808270",22,"$Orioles challenged call that Villar was out at 1st; call was overturned - single"2018BAL.EVA.regular.comment.csv",194
+
+"BAL201808270",34,"Mound Visit"2018BAL.EVA.regular.comment.csv",195
+
+"BAL201808270",43,"Mound Visit"2018BAL.EVA.regular.comment.csv",196
+
+"BAL201808270",46,"Mound Visit"2018BAL.EVA.regular.comment.csv",197
+
+"BAL201808270",52,"Mound Visit"2018BAL.EVA.regular.comment.csv",198
+
+"BAL201808270",63,"Mound Visit"2018BAL.EVA.regular.comment.csv",199
+
+"BAL201808280",23,"Mound Visit"2018BAL.EVA.regular.comment.csv",200
+
+"BAL201808280",32,"$Blue Jays challenged call that Hernandez was out at 1st to complete double play; call was overturned - force out, no DP"2018BAL.EVA.regular.comment.csv",201
+
+"BAL201808280",33,"Mound Visit"2018BAL.EVA.regular.comment.csv",202
+
+"BAL201808280",36,"Mound Visit"2018BAL.EVA.regular.comment.csv",203
+
+"BAL201808280",38,"Mound Visit"2018BAL.EVA.regular.comment.csv",204
+
+"BAL201808280",46,"Mound Visit"2018BAL.EVA.regular.comment.csv",205
+
+"BAL201808280",67,"Mound Visit"2018BAL.EVA.regular.comment.csv",206
+
+"BAL201808280",79,"Mound Visit"2018BAL.EVA.regular.comment.csv",207
+
+"BAL201808290",5,"Injury Delay"2018BAL.EVA.regular.comment.csv",208
+
+"BAL201808290",7,"$Blue Jays challenged call that Villar was safe at 3rd on double steal; call was overturned - out on caught stealing"2018BAL.EVA.regular.comment.csv",209
+
+"BAL201808290",30,"$Umpire review ball hit by Travis; call was upheld - double, not home run"2018BAL.EVA.regular.comment.csv",210
+
+"BAL201808290",40,"Mound Visit"2018BAL.EVA.regular.comment.csv",211
+
+"BAL201808290",46,"Mound Visit"2018BAL.EVA.regular.comment.csv",212
+
+"BAL201808290",48,"Mound Visit"2018BAL.EVA.regular.comment.csv",213
+
+"BAL201808290",52,"Mound Visit"2018BAL.EVA.regular.comment.csv",214
+
+"BAL201808290",57,"Mound Visit"2018BAL.EVA.regular.comment.csv",215
+
+"BAL201808290",58,"Mound Visit"2018BAL.EVA.regular.comment.csv",216
+
+"BAL201808290",66,"Mound Visit"2018BAL.EVA.regular.comment.csv",217
+
+"BAL201808290",74,"Mound Visit"2018BAL.EVA.regular.comment.csv",218
+
+"BAL201808290",80,"Mound Visit"2018BAL.EVA.regular.comment.csv",219
+
+"BAL201808290",84,"Mound Visit"2018BAL.EVA.regular.comment.csv",220
+
+"BAL201808290",87,"On-field Delay"2018BAL.EVA.regular.comment.csv",221
+
+"BAL201808290",90,"Mound Visit"2018BAL.EVA.regular.comment.csv",222
+
+"BAL201808290",92,"Mound Visit"2018BAL.EVA.regular.comment.csv",223
+
+"BAL201809110",18,"Injury Delay"2018BAL.EVA.regular.comment.csv",224
+
+"BAL201809110",21,"Mound Visit"2018BAL.EVA.regular.comment.csv",225
+
+"BAL201809110",56,"$Athletics challenged call that Lowrie was out at 1st; call was overturned - single"2018BAL.EVA.regular.comment.csv",226
+
+"BAL201809110",59,"Mound Visit"2018BAL.EVA.regular.comment.csv",227
+
+"BAL201809120",18,"Mound Visit"2018BAL.EVA.regular.comment.csv",228
+
+"BAL201809120",20,"Mound Visit"2018BAL.EVA.regular.comment.csv",229
+
+"BAL201809120",23,"Mound Visit"2018BAL.EVA.regular.comment.csv",230
+
+"BAL201809120",29,"Mound Visit"2018BAL.EVA.regular.comment.csv",231
+
+"BAL201809120",77,"Mound Visit"2018BAL.EVA.regular.comment.csv",232
+
+"BAL201809130",31,"Mound Visit Injury Delay"2018BAL.EVA.regular.comment.csv",233
+
+"BAL201809130",32,"Mound Visit"2018BAL.EVA.regular.comment.csv",234
+
+"BAL201809130",48,"Mound Visit"2018BAL.EVA.regular.comment.csv",235
+
+"BAL201809130",61,"Mound Visit"2018BAL.EVA.regular.comment.csv",236
+
+"BAL201809130",64,"Mound Visit"2018BAL.EVA.regular.comment.csv",237
+
+"BAL201809130",70,"Mound Visit"2018BAL.EVA.regular.comment.csv",238
+
+"BAL201809130",74,"Mound Visit"2018BAL.EVA.regular.comment.csv",239
+
+"BAL201809140",13,"Mound Visit"2018BAL.EVA.regular.comment.csv",240
+
+"BAL201809140",14,"Injury Delay"2018BAL.EVA.regular.comment.csv",241
+
+"BAL201809140",39,"Injury Delay Mound Visit"2018BAL.EVA.regular.comment.csv",242
+
+"BAL201809140",40,"Mound Visit"2018BAL.EVA.regular.comment.csv",243
+
+"BAL201809140",48,"$White Sox challenged callof double play due to slide interference by Sanchez; call was overturne - no interfernce, so force out, not double play"2018BAL.EVA.regular.comment.csv",244
+
+"BAL201809140",59,"Mound Visit"2018BAL.EVA.regular.comment.csv",245
+
+"BAL201809140",60,"Mound Visit"2018BAL.EVA.regular.comment.csv",246
+
+"BAL201809140",61,"Mound Visit"2018BAL.EVA.regular.comment.csv",247
+
+"BAL201809140",62,"Mound Visit"2018BAL.EVA.regular.comment.csv",248
+
+"BAL201809140",63,"Mound Visit"2018BAL.EVA.regular.comment.csv",249
+
+"BAL201809140",68,"Mound Visit"2018BAL.EVA.regular.comment.csv",250
+
+"BAL201809140",72,"Mound Visit"2018BAL.EVA.regular.comment.csv",251
+
+"BAL201809150",39,"Mound Visit"2018BAL.EVA.regular.comment.csv",252
+
+"BAL201809150",40,"Mound Visit"2018BAL.EVA.regular.comment.csv",253
+
+"BAL201809150",51,"Mound Visit Mound Visit"2018BAL.EVA.regular.comment.csv",254
+
+"BAL201809150",52,"Mound Visit"2018BAL.EVA.regular.comment.csv",255
+
+"BAL201809150",59,"Mound Visit"2018BAL.EVA.regular.comment.csv",256
+
+"BAL201809150",68,"Mound Visit"2018BAL.EVA.regular.comment.csv",257
+
+"BAL201809160",36,"Injury Delay"2018BAL.EVA.regular.comment.csv",258
+
+"BAL201809160",43,"Mound Visit"2018BAL.EVA.regular.comment.csv",259
+
+"BAL201809160",46,"Mound Visit"2018BAL.EVA.regular.comment.csv",260
+
+"BAL201809160",48,"Mound Visit"2018BAL.EVA.regular.comment.csv",261
+
+"BAL201809160",58,"Mound Visit"2018BAL.EVA.regular.comment.csv",262
+
+"BAL201809160",72,"Mound Visit"2018BAL.EVA.regular.comment.csv",263
+
+"BAL201809160",75,"Injury Delay"2018BAL.EVA.regular.comment.csv",264
+
+"BAL201809160",79,"Mound Visit"2018BAL.EVA.regular.comment.csv",265
+
+"BAL201809170",22,"On-field Delay"2018BAL.EVA.regular.comment.csv",266
+
+"BAL201809170",47,"Mound Visit"2018BAL.EVA.regular.comment.csv",267
+
+"BAL201809180",27,"$Orioles challenged call that Gurriel was safe at 2nd; call was overturned - out on caught stealing"2018BAL.EVA.regular.comment.csv",268
+
+"BAL201809180",31,"$Orioles challenged call that Mancini was out at home to complete double play; call was overturned - safe on sacrifice fly"2018BAL.EVA.regular.comment.csv",269
+
+"BAL201809180",52,"Mound Visit"2018BAL.EVA.regular.comment.csv",270
+
+"BAL201809180",55,"Mound Visit"2018BAL.EVA.regular.comment.csv",271
+
+"BAL201809180",58,"Mound Visit"2018BAL.EVA.regular.comment.csv",272
+
+"BAL201809180",61,"Mound Visit"2018BAL.EVA.regular.comment.csv",273
+
+"BAL201809190",24,"Mound Visit"2018BAL.EVA.regular.comment.csv",274
+
+"BAL201809190",53,"Mound Visit On-field Delay"2018BAL.EVA.regular.comment.csv",275
+
+"BAL201809190",54,"Mound Visit"2018BAL.EVA.regular.comment.csv",276
+
+"BAL201809190",59,"Mound Visit"2018BAL.EVA.regular.comment.csv",277
+
+"BAL201809280",48,"Mound Visit"2018BAL.EVA.regular.comment.csv",278
+
+"BAL201809280",56,"Mound Visit"2018BAL.EVA.regular.comment.csv",279
+
+"BAL201809280",58,"Mound Visit"2018BAL.EVA.regular.comment.csv",280
+
+"BAL201809280",63,"Injury Delay"2018BAL.EVA.regular.comment.csv",281
+
+"BAL201809280",66,"Mound Visit"2018BAL.EVA.regular.comment.csv",282
+
+"BAL201809280",69,"Mound Visit"2018BAL.EVA.regular.comment.csv",283
+
+"BAL201809291",39,"Mound Visit"2018BAL.EVA.regular.comment.csv",284
+
+"BAL201809291",44,"$Joseph called for runner interference - double play"2018BAL.EVA.regular.comment.csv",285
+
+"BAL201809291",54,"Mound Visit"2018BAL.EVA.regular.comment.csv",286
+
+"BAL201809291",60,"Mound Visit"2018BAL.EVA.regular.comment.csv",287
+
+"BAL201809291",72,"Mound Visit"2018BAL.EVA.regular.comment.csv",288
+
+"BAL201809292",26,"Mound Visit"2018BAL.EVA.regular.comment.csv",289
+
+"BAL201809292",30,"Mound Visit"2018BAL.EVA.regular.comment.csv",290
+
+"BAL201809292",56,"Mound Visit"2018BAL.EVA.regular.comment.csv",291
+
+"BAL201809292",57,"Mound Visit"2018BAL.EVA.regular.comment.csv",292
+
+"BAL201809292",65,"Mound Visit"2018BAL.EVA.regular.comment.csv",293
+
+"BAL201809292",71,"Mound Visit"2018BAL.EVA.regular.comment.csv",294
+
+"BAL201809300",13,"Mound Visit"2018BAL.EVA.regular.comment.csv",295
+
+"BAL201809300",16,"On-field Delay"2018BAL.EVA.regular.comment.csv",296
+
+"BAL201809300",31,"Mound Visit"2018BAL.EVA.regular.comment.csv",297
+
+"BAL201809300",32,"Mound Visit"2018BAL.EVA.regular.comment.csv",298
+
+"BAL201809300",48,"Mound Visit Mound Visit"2018BAL.EVA.regular.comment.csv",299
+
+"BAL201809300",61,"Mound Visit"2018BAL.EVA.regular.comment.csv",300
+
+"BAL201809300",62,"On-field Delay"2018BAL.EVA.regular.comment.csv",301
+

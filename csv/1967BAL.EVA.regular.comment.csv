@@ -1,49 +1,48 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"BAL196704110",13,"Debut game for Rod Carew"
-"BAL196704210",30,"ej,repor101,P,runge901,Call at 3B (Threw helmet) Roger Repoz ejected by 3B umpire Ed Runge"
-"BAL196704302",4,"ej,snydr102,P,sprim901,Balls and strikes during at bat Russ Snyder ejected by HP umpire Marty Springstead"
-"BAL196705100",10,"$Wayne Causey injured in collision with 2B umpire Johnny Stevens while backing up a play sometime in this inning"
-"BAL196705100",14,"$Tommy John called for interference"
-"BAL196706161",14,"Jim Fregosi left with back spasms"
-"BAL196706162",68,"Missed squeeze"
-"BAL196706191",56,"ej,ermec101,M,salea901,Foul ball vs swing $Twins manager Ermer ejected by HP umpire Salerno for arguing strike 3 on Oliva was foul ball"
-"BAL196706270",27,"$Al Weis and Frank Robinson collide at 2B"
-"BAL196706302",0,"Suspend=19670701,,0,1,30"
-"BAL196706302",38,"suspended,19670701,BAL11,curfew $Game suspended for curfew and completed the next day"
-"BAL196707010",60,"Debut game for Mike Adamson"
-"BAL196707020",49,"game called due to rain"
-"BAL196707070",17,"$neither player ran thinking the ball was foul"
-"BAL196707082",0,"Suspend=19670709,,0,0,36"
-"BAL196707082",43,"suspended,19670709,BAL11,curfew $game suspended for curfew and completed the next day"
-"BAL196708030",43,"$Jim Northrup called for interferance at 2B"
-"BAL196708030",60,"game called for rain"
-"BAL196708080",65,"$Frank Robinson appeared to be hit on the hand by a pitch; he trotted to 1B and Luis Aparicio moved to 2B; HP umpire Emmett Ashford huddled with 1B umpire Red Flaherty; they examined Robinson's hand and ruled that he had not been struck by the ball; Aparicio remained at 2B and the Indians complained; Ashford said that the pitch had been a ball and time had not been called; Aparicio was credited with a stolen base; both managers argued this play for 10 minutes"
-"BAL196708080",76,"ej,adcoj101,M,ashfe901,Call at HP Indians Manager Joe Adcock ejected by HP umpire Emmett Ashford"
-"BAL196708210",0,"56 minute rain delay at 9:26pm"
-"BAL196708210",27,"UR is a disagreement with the official totals"
-"BAL196708260",25,"Dave Johnson left with pulled muscle"
-"BAL196709081",13,"ej,etcha101,P,umonf901,Obstruction call Andy Etchebarren ejected by HP umpire Frank Umont after being called for obstruction"
-"BAL196704110",13,"Debut game for Rod Carew"
-"BAL196704210",30,"ej,repor101,P,runge901,Call at 3B (Threw helmet) Roger Repoz ejected by 3B umpire Ed Runge"
-"BAL196704302",4,"ej,snydr102,P,sprim901,Balls and strikes during at bat Russ Snyder ejected by HP umpire Marty Springstead"
-"BAL196705100",10,"$Wayne Causey injured in collision with 2B umpire Johnny Stevens while backing up a play sometime in this inning"
-"BAL196705100",14,"$Tommy John called for interference"
-"BAL196706161",14,"Jim Fregosi left with back spasms"
-"BAL196706162",68,"Missed squeeze"
-"BAL196706191",56,"ej,ermec101,M,salea901,Foul ball vs swing $Twins manager Ermer ejected by HP umpire Salerno for arguing strike 3 on Oliva was foul ball"
-"BAL196706270",27,"$Al Weis and Frank Robinson collide at 2B; Weis required knee surgery, ending his season; Robinson was knocked briefly unconscious and missed over a month with double vision"
-"BAL196706302",0,"Suspend=19670701,,0,1,30"
-"BAL196706302",38,"suspended,19670701,BAL11,curfew $Game suspended for curfew and completed the next day"
-"BAL196707010",60,"Debut game for Mike Adamson"
-"BAL196707020",49,"game called due to rain"
-"BAL196707070",17,"$neither player ran thinking the ball was foul"
-"BAL196707082",0,"Suspend=19670709,,0,0,36"
-"BAL196707082",43,"suspended,19670709,BAL11,curfew $game suspended for curfew and completed the next day"
-"BAL196708030",43,"$Jim Northrup called for interferance at 2B"
-"BAL196708030",60,"game called for rain"
-"BAL196708080",65,"$Frank Robinson appeared to be hit on the hand by a pitch; he trotted to 1B and Luis Aparicio moved to 2B; HP umpire Emmett Ashford huddled with 1B umpire Red Flaherty; they examined Robinson's hand and ruled that he had not been struck by the ball; Aparicio remained at 2B and the Indians complained; Ashford said that the pitch had been a ball and time had not been called; Aparicio was credited with a stolen base; both managers argued this play for 10 minutes"
-"BAL196708080",76,"ej,adcoj101,M,ashfe901,Call at HP Indians Manager Joe Adcock ejected by HP umpire Emmett Ashford"
-"BAL196708210",0,"56 minute rain delay at 9:26pm"
-"BAL196708210",27,"UR is a disagreement with the official totals"
-"BAL196708260",25,"Dave Johnson left with pulled muscle"
-"BAL196709081",13,"ej,etcha101,P,umonf901,Obstruction call Andy Etchebarren ejected by HP umpire Frank Umont after being called for obstruction"
+"BAL196704110",13,"Debut game for Rod Carew"FILENAME_TX","LINE_NUMBER_CT"
+
+"BAL196704210",30,"ej,repor101,P,runge901,Call at 3B (Threw helmet) Roger Repoz ejected by 3B umpire Ed Runge"1967BAL.EVA.regular.comment.csv",2
+
+"BAL196704302",4,"ej,snydr102,P,sprim901,Balls and strikes during at bat Russ Snyder ejected by HP umpire Marty Springstead"1967BAL.EVA.regular.comment.csv",3
+
+"BAL196705100",10,"$Wayne Causey injured in collision with 2B umpire Johnny Stevens while backing up a play sometime in this inning"1967BAL.EVA.regular.comment.csv",4
+
+"BAL196705100",14,"$Tommy John called for interference"1967BAL.EVA.regular.comment.csv",5
+
+"BAL196706161",14,"Jim Fregosi left with back spasms"1967BAL.EVA.regular.comment.csv",6
+
+"BAL196706162",68,"Missed squeeze"1967BAL.EVA.regular.comment.csv",7
+
+"BAL196706191",56,"ej,ermec101,M,salea901,Foul ball vs swing $Twins manager Ermer ejected by HP umpire Salerno for arguing strike 3 on Oliva was foul ball"1967BAL.EVA.regular.comment.csv",8
+
+"BAL196706270",27,"$Al Weis and Frank Robinson collide at 2B; Weis required knee surgery, ending his season; Robinson was knocked briefly unconscious and missed over a month with double vision"1967BAL.EVA.regular.comment.csv",9
+
+"BAL196706302",0,"Suspend=19670701,,0,1,30"1967BAL.EVA.regular.comment.csv",10
+
+"BAL196706302",38,"suspended,19670701,BAL11,curfew $Game suspended for curfew and completed the next day"1967BAL.EVA.regular.comment.csv",11
+
+"BAL196707010",60,"Debut game for Mike Adamson"1967BAL.EVA.regular.comment.csv",12
+
+"BAL196707020",49,"game called due to rain"1967BAL.EVA.regular.comment.csv",13
+
+"BAL196707070",17,"$neither player ran thinking the ball was foul"1967BAL.EVA.regular.comment.csv",14
+
+"BAL196707082",0,"Suspend=19670709,,0,0,36"1967BAL.EVA.regular.comment.csv",15
+
+"BAL196707082",43,"suspended,19670709,BAL11,curfew $game suspended for curfew and completed the next day"1967BAL.EVA.regular.comment.csv",16
+
+"BAL196708030",43,"$Jim Northrup called for interferance at 2B"1967BAL.EVA.regular.comment.csv",17
+
+"BAL196708030",60,"game called for rain"1967BAL.EVA.regular.comment.csv",18
+
+"BAL196708080",65,"$Frank Robinson appeared to be hit on the hand by a pitch; he trotted to 1B and Luis Aparicio moved to 2B; HP umpire Emmett Ashford huddled with 1B umpire Red Flaherty; they examined Robinson's hand and ruled that he had not been struck by the ball; Aparicio remained at 2B and the Indians complained; Ashford said that the pitch had been a ball and time had not been called; Aparicio was credited with a stolen base; both managers argued this play for 10 minutes"1967BAL.EVA.regular.comment.csv",19
+
+"BAL196708080",76,"ej,adcoj101,M,ashfe901,Call at HP Indians Manager Joe Adcock ejected by HP umpire Emmett Ashford"1967BAL.EVA.regular.comment.csv",20
+
+"BAL196708210",0,"56 minute rain delay at 9:26pm"1967BAL.EVA.regular.comment.csv",21
+
+"BAL196708210",27,"UR is a disagreement with the official totals"1967BAL.EVA.regular.comment.csv",22
+
+"BAL196708260",25,"Dave Johnson left with pulled muscle"1967BAL.EVA.regular.comment.csv",23
+
+"BAL196709081",13,"ej,etcha101,P,umonf901,Obstruction call Andy Etchebarren ejected by HP umpire Frank Umont after being called for obstruction"1967BAL.EVA.regular.comment.csv",24
+

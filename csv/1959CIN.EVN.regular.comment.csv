@@ -1,71 +1,70 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"CIN195904150",61,"Debut game for Fred Green"
-"CIN195904170",27,"Ruben Gomez left with injured knee (play on Vada Pinson)"
-"CIN195904180",19,"Debut game for Mike Cuellar"
-"CIN195904190",23,"Debut game for Chris Short"
-"CIN195904240",38,"$Frank Robinson dropped the ball when attempting throw to 2B"
-"CIN195904260",30,"Debut game for Bob Hartman"
-"CIN195904260",33,"$Willard Schmidt hit by pitch twice in one inning"
-"CIN195904260",35,"$Willard Schmidt struck on pitching hand by line drive"
-"CIN195904260",82,"missing play in CIN195904260"
-"CIN195904260",89,"missing play in CIN195904260"
-"CIN195904290",40,"36 minute rain delay"
-"CIN195905010",44,"ej,robif103,P,craws901,Balls and strikes Frank Robinson ejected by HP umpire Shag Crawford"
-"CIN195905040",69,"ej,rignb101,M,secof101,HBP call Giants Manager Bill Rigney ejected by HP umpire Frank Secory"
-"CIN195905290",29,"rain delay"
-"CIN195906250",16,"$Frank Robinson struck on arm in 2nd"
-"CIN195906281",54,"umpchange,5,umphome,burkk101 umpchange,5,ump1b,venzt901 umpchange,5,ump2b,(None) $HP umpire Jocko Conlan left due to heat exhaustion; 1B umpire Ken Burkhardt moved to HP; 2B umpire Tony Venzon moved to 1B"
-"CIN195906281",86,"ej,thomf103,P,burkk101,Balls and strikes Frank Thomas ejected by HP umpire Ken Burkhart"
-"CIN195906282",0,"$the umpires worked this game without their suit jackets due to the heat"
-"CIN195906282",28,"Ed Bailey left with split finger"
-"CIN195907100",61,"$Orlando Cepeda called for interference"
-"CIN195907130",7,"$Vada Linson rounded 2B too far"
-"CIN195907130",33,"$the ball went into an opening in the scoreboard"
-"CIN195907261",33,"Don Newcombe left with a pulled muscle"
-"CIN195907270",7,"ej,hemus101,M,lands901,Balls and strikes Cardinals Manager Solly Hemus ejected by HP umpire Stan Landes"
-"CIN195907290",49,"$missed suicide squeeze"
-"CIN195907290",57,"$Don Blasingame attempted to go to 2B on an overthrow at 1B"
-"CIN195908010",48,"Debut game for Ed Donnelly"
-"CIN195908111",71,"ej,dottd101,P,venzt901,Balls and strikes Dutch Dotterer ejected by HP umpire Tony Venzon"
-"CIN195908112",8,"$Joe Adcock caught Vada Pinson with the hidden ball trick"
-"CIN195908112",34,"$off the LF pole"
-"CIN195908130",62,"DIFF: official totals do not show this K for Bailey, but do for Pizarro"
-"CIN195908210",38,"$Alex Grammas missed 2B"
-"CIN195908210",64,"ej,robif103,P,craws901,Call at HP Frank Robinson ejected by HP umpire Shag Crawford"
-"CIN195909260",1,"Debut game for Jim Umbricht"
-"CIN195909270",34,"$missed squeeze attempt"
-"CIN195904150",61,"Debut game for Fred Green"
-"CIN195904170",27,"Ruben Gomez left with injured knee (play on Vada Pinson)"
-"CIN195904180",19,"Debut game for Mike Cuellar"
-"CIN195904190",23,"Debut game for Chris Short"
-"CIN195904240",38,"$Frank Robinson dropped the ball when attempting throw to 2B"
-"CIN195904260",30,"Debut game for Bob Hartman"
-"CIN195904260",33,"$Willard Schmidt hit by pitch twice in one inning"
-"CIN195904260",35,"$Willard Schmidt struck on pitching hand by line drive"
-"CIN195904260",82,"missing play in CIN195904260"
-"CIN195904260",89,"missing play in CIN195904260"
-"CIN195904290",40,"36 minute rain delay"
-"CIN195905010",44,"ej,robif103,P,craws901,Balls and strikes Frank Robinson ejected by HP umpire Shag Crawford"
-"CIN195905040",69,"ej,rignb101,M,secof101,HBP call Giants Manager Bill Rigney ejected by HP umpire Frank Secory"
-"CIN195905290",29,"rain delay"
-"CIN195906250",16,"$Frank Robinson struck on arm in 2nd"
-"CIN195906281",54,"umpchange,5,umphome,burkk101 umpchange,5,ump1b,venzt901 umpchange,5,ump2b,(None) $HP umpire Jocko Conlan left due to heat exhaustion; 1B umpire Ken Burkhardt moved to HP; 2B umpire Tony Venzon moved to 1B"
-"CIN195906281",86,"ej,thomf103,P,burkk101,Balls and strikes Frank Thomas ejected by HP umpire Ken Burkhart"
-"CIN195906282",0,"$the umpires worked this game without their suit jackets due to the heat"
-"CIN195906282",28,"Ed Bailey left with split finger"
-"CIN195907100",61,"$Orlando Cepeda called for interference"
-"CIN195907130",7,"$Vada Linson rounded 2B too far"
-"CIN195907130",33,"$the ball went into an opening in the scoreboard"
-"CIN195907261",33,"Don Newcombe left with a pulled muscle"
-"CIN195907270",7,"ej,hemus101,M,lands901,Balls and strikes Cardinals Manager Solly Hemus ejected by HP umpire Stan Landes"
-"CIN195907290",49,"$missed suicide squeeze"
-"CIN195907290",57,"$Don Blasingame attempted to go to 2B on an overthrow at 1B"
-"CIN195908010",48,"Debut game for Ed Donnelly"
-"CIN195908111",71,"ej,dottd101,P,venzt901,Balls and strikes Dutch Dotterer ejected by HP umpire Tony Venzon"
-"CIN195908112",8,"$Joe Adcock caught Vada Pinson with the hidden ball trick"
-"CIN195908112",34,"$off the LF pole"
-"CIN195908130",62,"DIFF: official totals do not show this K for Bailey, but do for Pizarro"
-"CIN195908210",38,"$Alex Grammas missed 2B"
-"CIN195908210",64,"ej,robif103,P,craws901,Call at HP Frank Robinson ejected by HP umpire Shag Crawford"
-"CIN195909260",1,"Debut game for Jim Umbricht"
-"CIN195909270",34,"$missed squeeze attempt"
+"CIN195904150",61,"Debut game for Fred Green"FILENAME_TX","LINE_NUMBER_CT"
+
+"CIN195904170",27,"Ruben Gomez left with injured knee (play on Vada Pinson)"1959CIN.EVN.regular.comment.csv",2
+
+"CIN195904180",19,"Debut game for Mike Cuellar"1959CIN.EVN.regular.comment.csv",3
+
+"CIN195904190",23,"Debut game for Chris Short"1959CIN.EVN.regular.comment.csv",4
+
+"CIN195904240",38,"$Frank Robinson dropped the ball when attempting throw to 2B"1959CIN.EVN.regular.comment.csv",5
+
+"CIN195904260",30,"Debut game for Bob Hartman"1959CIN.EVN.regular.comment.csv",6
+
+"CIN195904260",33,"$Willard Schmidt hit by pitch twice in one inning"1959CIN.EVN.regular.comment.csv",7
+
+"CIN195904260",35,"$Willard Schmidt struck on pitching hand by line drive"1959CIN.EVN.regular.comment.csv",8
+
+"CIN195904260",82,"missing play in CIN195904260"1959CIN.EVN.regular.comment.csv",9
+
+"CIN195904260",89,"missing play in CIN195904260"1959CIN.EVN.regular.comment.csv",10
+
+"CIN195904290",40,"36 minute rain delay"1959CIN.EVN.regular.comment.csv",11
+
+"CIN195905010",44,"ej,robif103,P,craws901,Balls and strikes Frank Robinson ejected by HP umpire Shag Crawford"1959CIN.EVN.regular.comment.csv",12
+
+"CIN195905040",69,"ej,rignb101,M,secof101,HBP call Giants Manager Bill Rigney ejected by HP umpire Frank Secory"1959CIN.EVN.regular.comment.csv",13
+
+"CIN195905290",29,"rain delay"1959CIN.EVN.regular.comment.csv",14
+
+"CIN195906250",16,"$Frank Robinson struck on arm in 2nd"1959CIN.EVN.regular.comment.csv",15
+
+"CIN195906281",54,"umpchange,5,umphome,burkk101 umpchange,5,ump1b,venzt901 umpchange,5,ump2b,(None) $HP umpire Jocko Conlan left due to heat exhaustion; 1B umpire Ken Burkhardt moved to HP; 2B umpire Tony Venzon moved to 1B"1959CIN.EVN.regular.comment.csv",16
+
+"CIN195906281",86,"ej,thomf103,P,burkk101,Balls and strikes Frank Thomas ejected by HP umpire Ken Burkhart"1959CIN.EVN.regular.comment.csv",17
+
+"CIN195906282",0,"$the umpires worked this game without their suit jackets due to the heat"1959CIN.EVN.regular.comment.csv",18
+
+"CIN195906282",28,"Ed Bailey left with split finger"1959CIN.EVN.regular.comment.csv",19
+
+"CIN195907100",61,"$Orlando Cepeda called for interference"1959CIN.EVN.regular.comment.csv",20
+
+"CIN195907130",7,"$Vada Linson rounded 2B too far"1959CIN.EVN.regular.comment.csv",21
+
+"CIN195907130",33,"$the ball went into an opening in the scoreboard"1959CIN.EVN.regular.comment.csv",22
+
+"CIN195907261",33,"Don Newcombe left with a pulled muscle"1959CIN.EVN.regular.comment.csv",23
+
+"CIN195907270",7,"ej,hemus101,M,lands901,Balls and strikes Cardinals Manager Solly Hemus ejected by HP umpire Stan Landes"1959CIN.EVN.regular.comment.csv",24
+
+"CIN195907290",49,"$missed suicide squeeze"1959CIN.EVN.regular.comment.csv",25
+
+"CIN195907290",57,"$Don Blasingame attempted to go to 2B on an overthrow at 1B"1959CIN.EVN.regular.comment.csv",26
+
+"CIN195908010",48,"Debut game for Ed Donnelly"1959CIN.EVN.regular.comment.csv",27
+
+"CIN195908111",71,"ej,dottd101,P,venzt901,Balls and strikes Dutch Dotterer ejected by HP umpire Tony Venzon"1959CIN.EVN.regular.comment.csv",28
+
+"CIN195908112",8,"$Joe Adcock caught Vada Pinson with the hidden ball trick"1959CIN.EVN.regular.comment.csv",29
+
+"CIN195908112",34,"$off the LF pole"1959CIN.EVN.regular.comment.csv",30
+
+"CIN195908130",62,"DIFF: official totals do not show this K for Bailey, but do for Pizarro"1959CIN.EVN.regular.comment.csv",31
+
+"CIN195908210",38,"$Alex Grammas missed 2B"1959CIN.EVN.regular.comment.csv",32
+
+"CIN195908210",64,"ej,robif103,P,craws901,Call at HP Frank Robinson ejected by HP umpire Shag Crawford"1959CIN.EVN.regular.comment.csv",33
+
+"CIN195909260",1,"Debut game for Jim Umbricht"1959CIN.EVN.regular.comment.csv",34
+
+"CIN195909270",34,"$missed squeeze attempt"1959CIN.EVN.regular.comment.csv",35
+

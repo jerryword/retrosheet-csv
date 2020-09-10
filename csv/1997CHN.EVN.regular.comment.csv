@@ -1,33 +1,32 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"CHN199704260",31,"ej,lamog101,M,willc901,Arguing HBP call Pirates manager Gene Lamont ejected by HP umpire Charlie Williams"
-"CHN199705190",32,"ej,kentj001,P,monte901,Call at 2B (dropped ball on tag) 2B umpire Ed Montague ruled that Jeff Kent dropped the ball on the tag play; Kent argued and was ejected by Montague"
-"CHN199705210",1,"Debut game for Edgar Ramos"
-"CHN199706030",31,"ej,lamog101,M,pullf901,Call at 1B Pirates manager Gene Lamont ejected by 1B umpire Frank Pulli"
-"CHN199706110",1,"$Carl Everett called for interference"
-"CHN199706280",66,"ej,riggj801,M,laynj901,Balls and strikes Cubs manager Jim Riggleman ejected by HP umpire Jerry Layne"
-"CHN199706290",65,"$Tim Bogar called for interference"
-"CHN199706300",65,"Debut game for Marc Pisciotta"
-"CHN199707130",73,"ej,tatir001,P,riekr901,Intentional HBP Ramon Tatis ejected by HP umpire Rich Rieker"
-"CHN199707150",72,"Debut game for Jose Cabrera"
-"CHN199708030",60,"ej,mcrab001,P,relic901,Call at 1B Brian McRae ejected by 1B umpire Charlie Reliford"
-"CHN199708090",50,"ej,bochb002,M,rapue901,Call at 1B Padres manager Bruce Bochy ejected by 1B umpire Ed Rapuano"
-"CHN199708220",49,"Debut game for Shayne Bennett"
-"CHN199708270",61,"$Doug Glanville called for interference"
-"CHN199709020",60,"Debut game for David Ortiz"
-"CHN199709190",59,"game called for rain"
-"CHN199704260",31,"ej,lamog101,M,willc901,Arguing HBP call Pirates manager Gene Lamont ejected by HP umpire Charlie Williams"
-"CHN199705190",32,"ej,kentj001,P,monte901,Interference non-call $2bman Kent ejected by Montague for arguing that Servais had interfered with throw on rundown while returning to 1st on rundown"
-"CHN199705210",1,"Debut game for Edgar Ramos"
-"CHN199706030",31,"ej,lamog101,M,pullf901,Call at 1B Pirates manager Gene Lamont ejected by 1B umpire Frank Pulli"
-"CHN199706110",1,"$Carl Everett called for interference"
-"CHN199706280",66,"ej,riggj801,M,laynj901,Balls and strikes Cubs manager Jim Riggleman ejected by HP umpire Jerry Layne"
-"CHN199706290",65,"$Tim Bogar called for interference"
-"CHN199706300",65,"Debut game for Marc Pisciotta"
-"CHN199707130",73,"ej,tatir001,P,riekr901,Intentional HBP Ramon Tatis ejected by HP umpire Rich Rieker"
-"CHN199707150",72,"Debut game for Jose Cabrera"
-"CHN199708030",60,"ej,mcrab001,P,relic901,Call at 1B Brian McRae ejected by 1B umpire Charlie Reliford"
-"CHN199708090",50,"ej,bochb002,M,rapue901,Call at 1B Padres manager Bruce Bochy ejected by 1B umpire Ed Rapuano"
-"CHN199708220",49,"Debut game for Shayne Bennett"
-"CHN199708270",61,"$Doug Glanville called for interference"
-"CHN199709020",60,"Debut game for David Ortiz"
-"CHN199709190",59,"game called for rain"
+"CHN199704260",31,"ej,lamog101,M,willc901,Arguing HBP call Pirates manager Gene Lamont ejected by HP umpire Charlie Williams"FILENAME_TX","LINE_NUMBER_CT"
+
+"CHN199705190",32,"ej,kentj001,P,monte901,Interference non-call $2bman Kent ejected by Montague for arguing that Servais had interfered with throw on rundown while returning to 1st on rundown"1997CHN.EVN.regular.comment.csv",2
+
+"CHN199705210",1,"Debut game for Edgar Ramos"1997CHN.EVN.regular.comment.csv",3
+
+"CHN199706030",31,"ej,lamog101,M,pullf901,Call at 1B Pirates manager Gene Lamont ejected by 1B umpire Frank Pulli"1997CHN.EVN.regular.comment.csv",4
+
+"CHN199706110",1,"$Carl Everett called for interference"1997CHN.EVN.regular.comment.csv",5
+
+"CHN199706280",66,"ej,riggj801,M,laynj901,Balls and strikes Cubs manager Jim Riggleman ejected by HP umpire Jerry Layne"1997CHN.EVN.regular.comment.csv",6
+
+"CHN199706290",65,"$Tim Bogar called for interference"1997CHN.EVN.regular.comment.csv",7
+
+"CHN199706300",65,"Debut game for Marc Pisciotta"1997CHN.EVN.regular.comment.csv",8
+
+"CHN199707130",73,"ej,tatir001,P,riekr901,Intentional HBP Ramon Tatis ejected by HP umpire Rich Rieker"1997CHN.EVN.regular.comment.csv",9
+
+"CHN199707150",72,"Debut game for Jose Cabrera"1997CHN.EVN.regular.comment.csv",10
+
+"CHN199708030",60,"ej,mcrab001,P,relic901,Call at 1B Brian McRae ejected by 1B umpire Charlie Reliford"1997CHN.EVN.regular.comment.csv",11
+
+"CHN199708090",50,"ej,bochb002,M,rapue901,Call at 1B Padres manager Bruce Bochy ejected by 1B umpire Ed Rapuano"1997CHN.EVN.regular.comment.csv",12
+
+"CHN199708220",49,"Debut game for Shayne Bennett"1997CHN.EVN.regular.comment.csv",13
+
+"CHN199708270",61,"$Doug Glanville called for interference"1997CHN.EVN.regular.comment.csv",14
+
+"CHN199709020",60,"Debut game for David Ortiz"1997CHN.EVN.regular.comment.csv",15
+
+"CHN199709190",59,"game called for rain"1997CHN.EVN.regular.comment.csv",16
+

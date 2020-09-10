@@ -1,25 +1,24 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"LAN199304150",7,"$Tewksbury hurt back warming up, threw no pitches"
-"LAN199305010",67,"ej,dauld001,P,hohnb901,Balls and strikes ej,fregj101,M,hohnb901,Balls and strikes Darren Daulton and Phillies manager Jim Fregosi ejected by HP umpire Bill Hohn"
-"LAN199305260",22,"ej,shefg001,P,gormb901,Call at 1B Gary Sheffield ejected by 1B umpire Brian Gorman"
-"LAN199307190",69,"Debut game for Raul Mondesi"
-"LAN199307240",16,"ej,orsuj001,P,hohnb901,Balls and strikes Joe Orsulak ejected by HP umpire Bill Hohn when the first pitch is called a strike"
-"LAN199308070",0,"ej,johnd105,M,vanol901,Fair/foul call Reds manager Davey Johnson ejected by HP umpire Larry Vanover sometime in game"
-"LAN199308080",32,"ej,saboc001,P,wendh901,Balls and strikes Chris Sabo ejected by HP umpire Harry Wendelstedt"
-"LAN199308080",45,"Debut game for Johnny Ruffin"
-"LAN199308240",22,"ej,leylj801,M,froeb901,Intentional HBP ej,walkb001,P,wintm901,Intentional HBP Bob Walk ejected by HP umpire Mike Winters; Pirates manager Jim Leyland ejected by 3B umpire Bruce Froemming"
-"LAN199308240",36,"ej,younk001,P,gormb901,Call at 1B Kevin Young ejected by 1B umpire Brian Gorman"
-"LAN199309060",59,"Debut game for Jerry Brooks"
-"LAN199309250",0,"ej,lasot101,M,gormb901,Balls and strikes Dodgers manager Tommy Lasorda ejected by HP umpire Brian Gorman sometime in game"
-"LAN199304150",7,"$Tewksbury hurt back warming up, threw no pitches"
-"LAN199305010",67,"ej,dauld001,P,hohnb901,Balls and strikes ej,fregj101,M,hohnb901,Balls and strikes Darren Daulton and Phillies manager Jim Fregosi ejected by HP umpire Bill Hohn"
-"LAN199305260",22,"ej,shefg001,P,gormb901,Call at 1B Gary Sheffield ejected by 1B umpire Brian Gorman"
-"LAN199307190",69,"Debut game for Raul Mondesi"
-"LAN199307240",16,"ej,orsuj001,P,hohnb901,Balls and strikes Joe Orsulak ejected by HP umpire Bill Hohn when the first pitch is called a strike"
-"LAN199308070",21,"ej,johnd105,M,vanol901,Fair/foul call $Reds manager Johnson ejected by HP umpire Vanover for arguing that bunt was foul; umpire ruled it was touched in fair territory"
-"LAN199308080",32,"ej,saboc001,P,wendh901,Balls and strikes Chris Sabo ejected by HP umpire Harry Wendelstedt"
-"LAN199308080",45,"Debut game for Johnny Ruffin"
-"LAN199308240",22,"ej,leylj801,M,froeb901,Intentional HBP ej,walkb001,P,wintm901,Intentional HBP Bob Walk ejected by HP umpire Mike Winters; Pirates manager Jim Leyland ejected by 3B umpire Bruce Froemming"
-"LAN199308240",36,"ej,younk001,P,gormb901,Call at 1B Kevin Young ejected by 1B umpire Brian Gorman"
-"LAN199309060",59,"Debut game for Jerry Brooks"
-"LAN199309250",32,"ej,lasot101,M,gormb901,Balls and strikes $Dodgers manager Lasorda ejected by HP umpire Gorman at end of home 4th for arguing balls and strikes"
+"LAN199304150",7,"$Tewksbury hurt back warming up, threw no pitches"FILENAME_TX","LINE_NUMBER_CT"
+
+"LAN199305010",67,"ej,dauld001,P,hohnb901,Balls and strikes ej,fregj101,M,hohnb901,Balls and strikes Darren Daulton and Phillies manager Jim Fregosi ejected by HP umpire Bill Hohn"1993LAN.EVN.regular.comment.csv",2
+
+"LAN199305260",22,"ej,shefg001,P,gormb901,Call at 1B Gary Sheffield ejected by 1B umpire Brian Gorman"1993LAN.EVN.regular.comment.csv",3
+
+"LAN199307190",69,"Debut game for Raul Mondesi"1993LAN.EVN.regular.comment.csv",4
+
+"LAN199307240",16,"ej,orsuj001,P,hohnb901,Balls and strikes Joe Orsulak ejected by HP umpire Bill Hohn when the first pitch is called a strike"1993LAN.EVN.regular.comment.csv",5
+
+"LAN199308070",21,"ej,johnd105,M,vanol901,Fair/foul call $Reds manager Johnson ejected by HP umpire Vanover for arguing that bunt was foul; umpire ruled it was touched in fair territory"1993LAN.EVN.regular.comment.csv",6
+
+"LAN199308080",32,"ej,saboc001,P,wendh901,Balls and strikes Chris Sabo ejected by HP umpire Harry Wendelstedt"1993LAN.EVN.regular.comment.csv",7
+
+"LAN199308080",45,"Debut game for Johnny Ruffin"1993LAN.EVN.regular.comment.csv",8
+
+"LAN199308240",22,"ej,leylj801,M,froeb901,Intentional HBP ej,walkb001,P,wintm901,Intentional HBP Bob Walk ejected by HP umpire Mike Winters; Pirates manager Jim Leyland ejected by 3B umpire Bruce Froemming"1993LAN.EVN.regular.comment.csv",9
+
+"LAN199308240",36,"ej,younk001,P,gormb901,Call at 1B Kevin Young ejected by 1B umpire Brian Gorman"1993LAN.EVN.regular.comment.csv",10
+
+"LAN199309060",59,"Debut game for Jerry Brooks"1993LAN.EVN.regular.comment.csv",11
+
+"LAN199309250",32,"ej,lasot101,M,gormb901,Balls and strikes $Dodgers manager Lasorda ejected by HP umpire Gorman at end of home 4th for arguing balls and strikes"1993LAN.EVN.regular.comment.csv",12
+

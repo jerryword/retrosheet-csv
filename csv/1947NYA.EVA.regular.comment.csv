@@ -1,56 +1,58 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"NYA194704150",23,"$Spud Chandler missed 1B and had to return to the bag on an apparent double"
-"NYA194704220",69,"$the ball struck 1B umpire Joe Rue, positioned near 2B"
-"NYA194704240",51,"$the throw struck Hal Wagner on the head"
-"NYA194705171",48,"$Cass Michaels was hit on the back of the head"
-"NYA194705230",7,"$Snuffy Stirnweiss held up to see if the ball would be caught"
-"NYA194705230",63,"$Ralph Houk rounded 1B too far"
-"NYA194705240",12,"$Joe DiMaggio threw ball to 1B; no one covered the bag and the ball struck Rudy York on back"
-"NYA194705250",28,"38 minute rain delay"
-"NYA194706130",62,"ej,heatj101,P,passa901,Call at 2B Several Browns argue call at second and LF Heath is ejected by 1B ump Passarella"
-"NYA194706140",41,"16 minute rain delay"
-"NYA194706152",64,"$squeeze attempt; Yogi Berra grabbed the ball, tagged Johnny Berardino as he pushed him aside and tagged Jeff Heath; the Browns claimed the bunt was foul"
-"NYA194706160",62,"ej,kolld101,P,romme101,Call at 2B ej,lyont101,P,romme101,Call at 2B ej,millb110,P,romme101,Call at 2B $umpire Eddie Rommel ruled that Cass Michaels did not have his foot on the bag; Don Kolloway, White Sox manager Ted Lyons and coach Bing Miller ejected by Rommel"
-"NYA194706160",72,"$infield in with the bases loaded"
-"NYA194706160",73,"$suicide squeeze"
-"NYA194707220",57,"ej,earlj101,P,rue-j901,Balls and strikes Jake Early ejected by HP umpire Joe Rue"
-"NYA194707230",18,"$Spec Shea left with arm trouble"
-"NYA194707272",68,"$Bob Kennedy was ruled out for running out of the baseline on attempted double steal"
-"NYA194707300",27,"12 count"
-"NYA194708021",84,"ej,gordj101,P,weafh901,Call at 2B Joe Gordon ejected by 2B umpire Hal Weafer"
-"NYA194708022",61,"$game called for darkness"
-"NYA194708040",16,"Throw to second was late"
-"NYA194708130",0,"$a blue plastic screen was hung in front of the CF bleachers to make it easier for the batters to see the ball; the plastic was transparent, allowing the fans to see the field but masking their white shirts from the players"
-"NYA194708140",75,"$Allie Reynolds left with heat exhaustion"
-"NYA194708150",50,"missing fielding credit"
-"NYA194709111",48,"pbp account ends here, rest deduced"
-"NYA194709170",49,"$bad hop off Rudy York's head"
-"NYA194704150",23,"$Spud Chandler missed 1B and had to return to the bag on an apparent double"
-"NYA194704220",69,"$the ball struck 1B umpire Joe Rue, positioned near 2B"
-"NYA194704240",51,"$the throw struck Hal Wagner on the head"
-"NYA194705171",48,"$Cass Michaels was hit on the back of the head"
-"NYA194705230",7,"$Snuffy Stirnweiss held up to see if the ball would be caught"
-"NYA194705230",63,"$Ralph Houk rounded 1B too far"
-"NYA194705240",12,"$Joe DiMaggio threw ball to 1B; no one covered the bag and the ball struck Rudy York on back"
-"NYA194705250",28,"38 minute rain delay"
-"NYA194706130",62,"ej,heatj101,P,passa901,Call at 2B Several Browns argue call at second and LF Heath is ejected by 1B ump Passarella"
-"NYA194706140",41,"16 minute rain delay"
-"NYA194706152",64,"$squeeze attempt; Yogi Berra grabbed the ball, tagged Johnny Berardino as he pushed him aside and tagged Jeff Heath; the Browns claimed the bunt was foul"
-"NYA194706160",62,"ej,kolld101,P,romme101,Call at 2B ej,lyont101,P,romme101,Call at 2B ej,millb110,P,romme101,Call at 2B $umpire Eddie Rommel ruled that Cass Michaels did not have his foot on the bag; Don Kolloway, White Sox manager Ted Lyons and coach Bing Miller ejected by Rommel"
-"NYA194706160",72,"$infield in with the bases loaded"
-"NYA194706160",73,"$suicide squeeze"
-"NYA194707220",57,"ej,earlj101,P,rue-j901,Balls and strikes Jake Early ejected by HP umpire Joe Rue"
-"NYA194707230",18,"$Spec Shea left with arm trouble"
-"NYA194707272",68,"$Bob Kennedy was ruled out for running out of the baseline on attempted double steal"
-"NYA194707300",27,"12 count"
-"NYA194708021",84,"ej,gordj101,P,weafh901,Call at 2B Joe Gordon ejected by 2B umpire Hal Weafer"
-"NYA194708022",61,"$game called for darkness"
-"NYA194708040",16,"Throw to second was late"
-"NYA194708130",0,"$a blue plastic screen was hung in front of the CF bleachers to make it easier for the batters to see the ball; the plastic was transparent, allowing the fans to see the field but masking their white shirts from the players"
-"NYA194708140",75,"$Allie Reynolds left with heat exhaustion"
-"NYA194708150",50,"missing fielding credit"
-"NYA194709111",48,"pbp account ends here, rest deduced"
-"NYA194709170",49,"$bad hop off Rudy York's head"
-"NYA194709280",32,"Infield hit"
-"NYA194709280",37,"Into LF grandstand"
-"NYA194709280",78,"Close decision"
+"NYA194704150",23,"$Spud Chandler missed 1B and had to return to the bag on an apparent double"FILENAME_TX","LINE_NUMBER_CT"
+
+"NYA194704220",69,"$the ball struck 1B umpire Joe Rue, positioned near 2B"1947NYA.EVA.regular.comment.csv",2
+
+"NYA194704240",51,"$the throw struck Hal Wagner on the head"1947NYA.EVA.regular.comment.csv",3
+
+"NYA194705171",48,"$Cass Michaels was hit on the back of the head"1947NYA.EVA.regular.comment.csv",4
+
+"NYA194705230",7,"$Snuffy Stirnweiss held up to see if the ball would be caught"1947NYA.EVA.regular.comment.csv",5
+
+"NYA194705230",63,"$Ralph Houk rounded 1B too far"1947NYA.EVA.regular.comment.csv",6
+
+"NYA194705240",12,"$Joe DiMaggio threw ball to 1B; no one covered the bag and the ball struck Rudy York on back"1947NYA.EVA.regular.comment.csv",7
+
+"NYA194705250",28,"38 minute rain delay"1947NYA.EVA.regular.comment.csv",8
+
+"NYA194706130",62,"ej,heatj101,P,passa901,Call at 2B Several Browns argue call at second and LF Heath is ejected by 1B ump Passarella"1947NYA.EVA.regular.comment.csv",9
+
+"NYA194706140",41,"16 minute rain delay"1947NYA.EVA.regular.comment.csv",10
+
+"NYA194706152",64,"$squeeze attempt; Yogi Berra grabbed the ball, tagged Johnny Berardino as he pushed him aside and tagged Jeff Heath; the Browns claimed the bunt was foul"1947NYA.EVA.regular.comment.csv",11
+
+"NYA194706160",62,"ej,kolld101,P,romme101,Call at 2B ej,lyont101,P,romme101,Call at 2B ej,millb110,P,romme101,Call at 2B $umpire Eddie Rommel ruled that Cass Michaels did not have his foot on the bag; Don Kolloway, White Sox manager Ted Lyons and coach Bing Miller ejected by Rommel"1947NYA.EVA.regular.comment.csv",12
+
+"NYA194706160",72,"$infield in with the bases loaded"1947NYA.EVA.regular.comment.csv",13
+
+"NYA194706160",73,"$suicide squeeze"1947NYA.EVA.regular.comment.csv",14
+
+"NYA194707220",57,"ej,earlj101,P,rue-j901,Balls and strikes Jake Early ejected by HP umpire Joe Rue"1947NYA.EVA.regular.comment.csv",15
+
+"NYA194707230",18,"$Spec Shea left with arm trouble"1947NYA.EVA.regular.comment.csv",16
+
+"NYA194707272",68,"$Bob Kennedy was ruled out for running out of the baseline on attempted double steal"1947NYA.EVA.regular.comment.csv",17
+
+"NYA194707300",27,"12 count"1947NYA.EVA.regular.comment.csv",18
+
+"NYA194708021",84,"ej,gordj101,P,weafh901,Call at 2B Joe Gordon ejected by 2B umpire Hal Weafer"1947NYA.EVA.regular.comment.csv",19
+
+"NYA194708022",61,"$game called for darkness"1947NYA.EVA.regular.comment.csv",20
+
+"NYA194708040",16,"Throw to second was late"1947NYA.EVA.regular.comment.csv",21
+
+"NYA194708130",0,"$a blue plastic screen was hung in front of the CF bleachers to make it easier for the batters to see the ball; the plastic was transparent, allowing the fans to see the field but masking their white shirts from the players"1947NYA.EVA.regular.comment.csv",22
+
+"NYA194708140",75,"$Allie Reynolds left with heat exhaustion"1947NYA.EVA.regular.comment.csv",23
+
+"NYA194708150",50,"missing fielding credit"1947NYA.EVA.regular.comment.csv",24
+
+"NYA194709111",48,"pbp account ends here, rest deduced"1947NYA.EVA.regular.comment.csv",25
+
+"NYA194709170",49,"$bad hop off Rudy York's head"1947NYA.EVA.regular.comment.csv",26
+
+"NYA194709280",32,"Infield hit"1947NYA.EVA.regular.comment.csv",27
+
+"NYA194709280",37,"Into LF grandstand"1947NYA.EVA.regular.comment.csv",28
+
+"NYA194709280",78,"Close decision"1947NYA.EVA.regular.comment.csv",29
+

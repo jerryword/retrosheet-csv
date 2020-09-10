@@ -1,101 +1,100 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"MON200404090",0,"$Game played in San Juan, Puerto Rico"
-"MON200404090",1,"Debut game for Tyler Yates"
-"MON200404100",0,"$Game played in San Juan, Puerto Rico"
-"MON200404110",0,"$Game played in San Juan, Puerto Rico"
-"MON200404110",3,"$Floyd pulled hamstring and left game"
-"MON200404130",0,"$Game played in San Juan, Puerto Rico"
-"MON200404140",0,"$Game played in San Juan, Puerto Rico"
-"MON200404140",41,"$Everett left the game with a injured neck"
-"MON200404150",0,"$Game played in San Juan, Puerto Rico"
-"MON200405070",47,"$Renteria left game with injured back"
-"MON200405180",0,"$Game played in San Juan, PR"
-"MON200405180",60,"Debut game for Mike Adams"
-"MON200405190",0,"$Game played in San Juan, PR"
-"MON200405200",0,"$Game played in San Juan, PR; 49 minute rain delay before start of game; 48 minute rain delay in top of first inning"
-"MON200405210",0,"$Game played in San Juan, PR"
-"MON200405220",0,"$Game played in San Juan, PR"
-"MON200405220",13,"$Everitt batted right-handed due to injury"
-"MON200405240",15,"$Everitt batting right-handed due to injury"
-"MON200405260",9,"$Carl Everitt batted right-handed due to injury"
-"MON200405260",27,"ej,cox-b103,M,welkb901,Called third strike Braves Manager Bobby Cox ejected by HP umpire Bill Welke"
-"MON200405280",14,"$Everitt batted right-handed due to injury"
-"MON200405290",14,"$Everitt batted right-handed due to injury"
-"MON200406160",85,"ej,robif103,M,cuzzp901,Fair/foul call the fly ball by Luis Rivas was ruled a fair ball home run by 3B umpire Brian O'Nora, who said it hit the screen that served as the pole; LF Brad Wilkerson and Expos Manager Frank Robinson argued the call; Robinson ejected by HP umpire Phil Cuzzi"
-"MON200406170",1,"Debut game for Matt Guerrier"
-"MON200406170",77,"$Doug Mientkiewicz called for interference"
-"MON200406190",1,"Debut game for Arnie Munoz"
-"MON200406220",35,"$Pat Burrell out on appeal for leaving 2B too soon"
-"MON200406220",65,"ej,abreb001,P,darlg901,Called third strike Bobby Abreu ejected by HP umpire Gary Darling"
-"MON200407020",1,"Debut game for David Bush"
-"MON200407050",13,"$Green left game with injured back"
-"MON200407110",10,"$Davis left game with injured leg"
-"MON200407230",34,"$Schnieder left game with injured neck"
-"MON200407260",80,"ej,franj001,P,wolfj901,Intentional HBP John Franco ejected by HP umpire Jim Wolf"
-"MON200407280",38,"$Reyes left game with injured foot"
-"MON200407280",52,"ej,peter801,N,randt901,Balls and strikes Mets coach Rick Peterson ejected by HP umpire Tony Randazzo"
-"MON200407290",42,"$the ball struck a speaker and never left the park; ground-rule home run"
-"MON200407290",60,"$Velent hit for the cycle"
-"MON200408120",23,"$Chavez left game with injured neck"
-"MON200408130",5,"$Lance Berkman called for interference"
-"MON200408130",37,"$Rauch left game with injured back"
-"MON200408250",31,"$Armas left game with injured leg"
-"MON200408250",67,"ej,sancd001,P,timmt901,Intentional HBP Duaner Sanchez ejected by HP umpire Tim Timmons"
-"MON200408260",7,"$Bradley made a sensational leaping catch along the wall; Chavez had already rounded 2B and got back to 1B just before Bradley's throw"
-"MON200408260",52,"Debut game for Gary Majewski"
-"MON200408260",71,"Gonzalez left game with injured wrist; both sides warned"
-"MON200408270",14,"Debut game for Maicer Izturis"
-"MON200408290",41,"Scored as CS3(2E5), changed to SB3 later, then back to CS3 next day!"
-"MON200409210",14,"$Richard Hidalgo called for interference"
-"MON200409250",23,"$Millwood left game with injured groin"
-"MON200409290",0,"$Last game at Olympic Stadium; team moving to Washington, DC in 2005"
-"MON200404090",0,"$Game played in San Juan, Puerto Rico"
-"MON200404090",1,"Debut game for Tyler Yates"
-"MON200404100",0,"$Game played in San Juan, Puerto Rico"
-"MON200404110",0,"$Game played in San Juan, Puerto Rico"
-"MON200404110",3,"$Floyd pulled hamstring and left game"
-"MON200404130",0,"$Game played in San Juan, Puerto Rico"
-"MON200404140",0,"$Game played in San Juan, Puerto Rico"
-"MON200404140",41,"$Everett left the game with a injured neck"
-"MON200404150",0,"$Game played in San Juan, Puerto Rico"
-"MON200405070",47,"$Renteria left game with injured back"
-"MON200405180",0,"$Game played in San Juan, PR"
-"MON200405180",60,"Debut game for Mike Adams"
-"MON200405190",0,"$Game played in San Juan, PR"
-"MON200405200",0,"$Game played in San Juan, PR; 49 minute rain delay before start of game; 48 minute rain delay in top of first inning"
-"MON200405210",0,"$Game played in San Juan, PR"
-"MON200405220",0,"$Game played in San Juan, PR"
-"MON200405220",13,"$Everitt batted right-handed due to injury"
-"MON200405240",15,"$Everitt batting right-handed due to injury"
-"MON200405260",9,"$Everett batted right-handed due to injury"
-"MON200405260",27,"ej,cox-b103,M,welkb901,Called third strike $Braves manager Cox ejected by HP umpire Welke for arguing called third strike"
-"MON200405280",14,"$Everitt batted right-handed due to injury"
-"MON200405290",14,"$Everitt batted right-handed due to injury"
-"MON200406160",85,"ej,robif103,M,cuzzp901,Fair/foul call $Expos manager Robinson ejected by HP umpire Cuzzi for arguing home run by Rivas was foul, but ruled fair by 3B umpire O'Nora who said it hit the screen serving as foul pole"
-"MON200406170",1,"Debut game for Matt Guerrier"
-"MON200406170",77,"$Doug Mientkiewicz called for interference"
-"MON200406190",1,"Debut game for Arnie Munoz"
-"MON200406220",35,"$Pat Burrell out on appeal for leaving 2B too soon"
-"MON200406220",65,"ej,abreb001,P,darlg901,Called third strike Bobby Abreu ejected by HP umpire Gary Darling"
-"MON200407020",1,"Debut game for David Bush"
-"MON200407050",13,"$Green left game with injured back"
-"MON200407110",10,"$Davis left game with injured leg"
-"MON200407230",34,"$Schnieder left game with injured neck"
-"MON200407260",80,"ej,franj001,P,wolfj901,Intentional HBP John Franco ejected by HP umpire Jim Wolf"
-"MON200407280",38,"$Reyes left game with injured foot"
-"MON200407280",52,"ej,peter801,N,randt901,Balls and strikes Mets coach Rick Peterson ejected by HP umpire Tony Randazzo"
-"MON200407290",42,"$the ball struck a speaker and never left the park; ground-rule home run"
-"MON200407290",60,"$Velent hit for the cycle"
-"MON200408120",23,"$Chavez left game with injured neck"
-"MON200408130",5,"$Lance Berkman called for interference"
-"MON200408130",37,"$Rauch left game with injured back"
-"MON200408250",31,"$Armas left game with injured leg"
-"MON200408250",67,"ej,sancd001,P,timmt901,Intentional HBP Duaner Sanchez ejected by HP umpire Tim Timmons"
-"MON200408260",7,"$Bradley made a sensational leaping catch along the wall; Chavez had already rounded 2B and got back to 1B just before Bradley's throw"
-"MON200408260",52,"Debut game for Gary Majewski"
-"MON200408260",71,"Gonzalez left game with injured wrist; both sides warned"
-"MON200408270",14,"Debut game for Maicer Izturis"
-"MON200408290",41,"Scored as CS3(2E5), changed to SB3 later, then back to CS3 next day!"
-"MON200409210",14,"$Richard Hidalgo called for interference"
-"MON200409250",23,"$Millwood left game with injured groin"
-"MON200409290",0,"$Last game at Olympic Stadium; team moving to Washington, DC in 2005"
+"MON200404090",0,"$Game played in San Juan, Puerto Rico"FILENAME_TX","LINE_NUMBER_CT"
+
+"MON200404090",1,"Debut game for Tyler Yates"2004MON.EVN.regular.comment.csv",2
+
+"MON200404100",0,"$Game played in San Juan, Puerto Rico"2004MON.EVN.regular.comment.csv",3
+
+"MON200404110",0,"$Game played in San Juan, Puerto Rico"2004MON.EVN.regular.comment.csv",4
+
+"MON200404110",3,"$Floyd pulled hamstring and left game"2004MON.EVN.regular.comment.csv",5
+
+"MON200404130",0,"$Game played in San Juan, Puerto Rico"2004MON.EVN.regular.comment.csv",6
+
+"MON200404140",0,"$Game played in San Juan, Puerto Rico"2004MON.EVN.regular.comment.csv",7
+
+"MON200404140",41,"$Everett left the game with a injured neck"2004MON.EVN.regular.comment.csv",8
+
+"MON200404150",0,"$Game played in San Juan, Puerto Rico"2004MON.EVN.regular.comment.csv",9
+
+"MON200405070",47,"$Renteria left game with injured back"2004MON.EVN.regular.comment.csv",10
+
+"MON200405180",0,"$Game played in San Juan, PR"2004MON.EVN.regular.comment.csv",11
+
+"MON200405180",60,"Debut game for Mike Adams"2004MON.EVN.regular.comment.csv",12
+
+"MON200405190",0,"$Game played in San Juan, PR"2004MON.EVN.regular.comment.csv",13
+
+"MON200405200",0,"$Game played in San Juan, PR; 49 minute rain delay before start of game; 48 minute rain delay in top of first inning"2004MON.EVN.regular.comment.csv",14
+
+"MON200405210",0,"$Game played in San Juan, PR"2004MON.EVN.regular.comment.csv",15
+
+"MON200405220",0,"$Game played in San Juan, PR"2004MON.EVN.regular.comment.csv",16
+
+"MON200405220",13,"$Everitt batted right-handed due to injury"2004MON.EVN.regular.comment.csv",17
+
+"MON200405240",15,"$Everitt batting right-handed due to injury"2004MON.EVN.regular.comment.csv",18
+
+"MON200405260",9,"$Everett batted right-handed due to injury"2004MON.EVN.regular.comment.csv",19
+
+"MON200405260",27,"ej,cox-b103,M,welkb901,Called third strike $Braves manager Cox ejected by HP umpire Welke for arguing called third strike"2004MON.EVN.regular.comment.csv",20
+
+"MON200405280",14,"$Everitt batted right-handed due to injury"2004MON.EVN.regular.comment.csv",21
+
+"MON200405290",14,"$Everitt batted right-handed due to injury"2004MON.EVN.regular.comment.csv",22
+
+"MON200406160",85,"ej,robif103,M,cuzzp901,Fair/foul call $Expos manager Robinson ejected by HP umpire Cuzzi for arguing home run by Rivas was foul, but ruled fair by 3B umpire O'Nora who said it hit the screen serving as foul pole"2004MON.EVN.regular.comment.csv",23
+
+"MON200406170",1,"Debut game for Matt Guerrier"2004MON.EVN.regular.comment.csv",24
+
+"MON200406170",77,"$Doug Mientkiewicz called for interference"2004MON.EVN.regular.comment.csv",25
+
+"MON200406190",1,"Debut game for Arnie Munoz"2004MON.EVN.regular.comment.csv",26
+
+"MON200406220",35,"$Pat Burrell out on appeal for leaving 2B too soon"2004MON.EVN.regular.comment.csv",27
+
+"MON200406220",65,"ej,abreb001,P,darlg901,Called third strike Bobby Abreu ejected by HP umpire Gary Darling"2004MON.EVN.regular.comment.csv",28
+
+"MON200407020",1,"Debut game for David Bush"2004MON.EVN.regular.comment.csv",29
+
+"MON200407050",13,"$Green left game with injured back"2004MON.EVN.regular.comment.csv",30
+
+"MON200407110",10,"$Davis left game with injured leg"2004MON.EVN.regular.comment.csv",31
+
+"MON200407230",34,"$Schnieder left game with injured neck"2004MON.EVN.regular.comment.csv",32
+
+"MON200407260",80,"ej,franj001,P,wolfj901,Intentional HBP John Franco ejected by HP umpire Jim Wolf"2004MON.EVN.regular.comment.csv",33
+
+"MON200407280",38,"$Reyes left game with injured foot"2004MON.EVN.regular.comment.csv",34
+
+"MON200407280",52,"ej,peter801,N,randt901,Balls and strikes Mets coach Rick Peterson ejected by HP umpire Tony Randazzo"2004MON.EVN.regular.comment.csv",35
+
+"MON200407290",42,"$the ball struck a speaker and never left the park; ground-rule home run"2004MON.EVN.regular.comment.csv",36
+
+"MON200407290",60,"$Velent hit for the cycle"2004MON.EVN.regular.comment.csv",37
+
+"MON200408120",23,"$Chavez left game with injured neck"2004MON.EVN.regular.comment.csv",38
+
+"MON200408130",5,"$Lance Berkman called for interference"2004MON.EVN.regular.comment.csv",39
+
+"MON200408130",37,"$Rauch left game with injured back"2004MON.EVN.regular.comment.csv",40
+
+"MON200408250",31,"$Armas left game with injured leg"2004MON.EVN.regular.comment.csv",41
+
+"MON200408250",67,"ej,sancd001,P,timmt901,Intentional HBP Duaner Sanchez ejected by HP umpire Tim Timmons"2004MON.EVN.regular.comment.csv",42
+
+"MON200408260",7,"$Bradley made a sensational leaping catch along the wall; Chavez had already rounded 2B and got back to 1B just before Bradley's throw"2004MON.EVN.regular.comment.csv",43
+
+"MON200408260",52,"Debut game for Gary Majewski"2004MON.EVN.regular.comment.csv",44
+
+"MON200408260",71,"Gonzalez left game with injured wrist; both sides warned"2004MON.EVN.regular.comment.csv",45
+
+"MON200408270",14,"Debut game for Maicer Izturis"2004MON.EVN.regular.comment.csv",46
+
+"MON200408290",41,"Scored as CS3(2E5), changed to SB3 later, then back to CS3 next day!"2004MON.EVN.regular.comment.csv",47
+
+"MON200409210",14,"$Richard Hidalgo called for interference"2004MON.EVN.regular.comment.csv",48
+
+"MON200409250",23,"$Millwood left game with injured groin"2004MON.EVN.regular.comment.csv",49
+
+"MON200409290",0,"$Last game at Olympic Stadium; team moving to Washington, DC in 2005"2004MON.EVN.regular.comment.csv",50
+

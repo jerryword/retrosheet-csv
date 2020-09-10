@@ -1,55 +1,72 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"WS1193004140",0,"$President Herbert Hoover attended the game"
-"WS1193004260",60,"$Lefty Grove left with a blister"
-"WS1193004270",46,"$Joe Boley caught the low line drive and threw to 1B with Joe Judge advancing to 3B; Judge called out on appeal for not tagging up after the catch"
-"WS1193005020",57,"5 minute rain delay"
-"WS1193006010",49,"$the throw struck Bing Miller on the back"
-"WS1193006200",49,"ej,cissb101,P,guthb901,Call at 3B Bill Cissell ejected by 3B umpire Bill Guthrie"
-"WS1193006240",46,"play,6,0,morge102,??,,99 play,6,0,hodaj101,??,,S5 play,6,0,avere101,??,,S.1-2 play,6,0,jamic101,??,,S/P34D.2-3;1-2 play,6,0,sewej101,??,,99 play,6,0,myatg101,??,,9/L9D game called for rain after six batters in the top of the sixth"
-"WS1193006250",73,"$Heinie Manush scored when Grover Hartley threw wildly to the mound"
-"WS1193007042",0,"$overflow crowd on the field"
-"WS1193007042",5,"$into the overflow crowd"
-"WS1193007042",9,"$into the overflow crowd"
-"WS1193007042",22,"$into the overflow crowd"
-"WS1193007042",26,"$into the overflow crowd"
-"WS1193007300",0,"$President Herbert Hoover attended this game"
-"WS1193008130",14,"ej,cissb101,P,nalld901,Call at 2B Bill Cissell ejected by 3B umpire Dick Nallin"
-"WS1193008140",40,"$Carl Fischer left with injured ankle after being struck by batted ball"
-"WS1193008240",65,"$Al Simmons grabbed Joe Cronin's arm to break up the double play; the umpires made no interference call and the crowd reacted by throwing bottles on the field"
-"WS1193008310",67,"Top of 9th from NY Times box score."
-"WS1193004140",0,"$President Herbert Hoover attended the game"
-"WS1193004260",60,"$Lefty Grove left with a blister"
-"WS1193004270",46,"$Joe Boley caught the low line drive and threw to 1B with Joe Judge advancing to 3B; Judge called out on appeal for not tagging up after the catch"
-"WS1193004280",61,"pbp account ends here, rest deduced"
-"WS1193005020",57,"5 minute rain delay"
-"WS1193005050",44,"$Myer hurt in collision with Funk on DP ending the 6th"
-"WS1193005060",10,"$Failed double steal as Judge stops between first and second"
-"WS1193005060",28,"No info about Rogell error, but it put a man on"
-"WS1193005070",11,"Hadley just holds the ball during double steal"
-"WS1193005070",20,"Hit and run play as Cronin covers second"
-"WS1193005070",22,"Hit and run play as Cronin covers second"
-"WS1193005212",69,"$Lisenbee entered game with 2-0 count on Rice and completed the walk which was charged to Smith"
-"WS1193006010",49,"$the throw struck Bing Miller on the back"
-"WS1193006200",49,"ej,cissb101,P,guthb901,Call at 3B Bill Cissell ejected by 3B umpire Bill Guthrie"
-"WS1193006240",46,"play,6,0,morge102,??,,99 play,6,0,hodaj101,??,,S5 play,6,0,avere101,??,,S.1-2 play,6,0,jamic101,??,,S/P34D.2-3;1-2 play,6,0,sewej101,??,,99 play,6,0,myatg101,??,,9/L9D game called for rain after six batters in the top of the sixth"
-"WS1193006250",73,"$Heinie Manush scored when Grover Hartley threw wildly to the mound"
-"WS1193006260",10,"$Hayworth left game when throw from outfield hit him in face"
-"WS1193006260",13,"$Herring replaced Whitehill with 2-0 count on Myer"
-"WS1193007042",0,"$overflow crowd on the field"
-"WS1193007042",5,"$into the overflow crowd"
-"WS1193007042",9,"$into the overflow crowd"
-"WS1193007042",22,"$into the overflow crowd"
-"WS1193007042",26,"$into the overflow crowd"
-"WS1193007050",27,"$Ruth left with inflamed hand"
-"WS1193007300",0,"$President Herbert Hoover attended this game"
-"WS1193008092",20,"Attempted sacrifice."
-"WS1193008092",27,"$Manush rounded second too far. Goldman hit on head with ball."
-"WS1193008092",32,"Porter caught ball in front of fence."
-"WS1193008092",71,"West argues with Nallin on called third strike."
-"WS1193008130",14,"ej,cissb101,P,nalld901,Call at 2B Bill Cissell ejected by 3B umpire Dick Nallin"
-"WS1193008140",40,"$Carl Fischer left with injured ankle after being struck by batted ball"
-"WS1193008190",40,"$Kuhel hand hurt"
-"WS1193008240",65,"$Al Simmons grabbed Joe Cronin's arm to break up the double play; the umpires made no interference call and the crowd reacted by throwing bottles on the field"
-"WS1193008280",54,"pbp account ends here, rest deduced"
-"WS1193008300",39,"ej,shawb102,M,nalld901,Call at HP $Yankee manager Shawkey ejected by HP umpire Nalling for arguing Chapman was safe on attempt to steal home"
-"WS1193008310",67,"Top of 9th from NY Times box score."
+"WS1193004140",0,"$President Herbert Hoover attended the game"FILENAME_TX","LINE_NUMBER_CT"
+
+"WS1193004260",60,"$Lefty Grove left with a blister"1930WS1.EVA.regular.comment.csv",2
+
+"WS1193004270",46,"$Joe Boley caught the low line drive and threw to 1B with Joe Judge advancing to 3B; Judge called out on appeal for not tagging up after the catch"1930WS1.EVA.regular.comment.csv",3
+
+"WS1193004280",61,"pbp account ends here, rest deduced"1930WS1.EVA.regular.comment.csv",4
+
+"WS1193005020",57,"5 minute rain delay"1930WS1.EVA.regular.comment.csv",5
+
+"WS1193005050",44,"$Myer hurt in collision with Funk on DP ending the 6th"1930WS1.EVA.regular.comment.csv",6
+
+"WS1193005060",10,"$Failed double steal as Judge stops between first and second"1930WS1.EVA.regular.comment.csv",7
+
+"WS1193005060",28,"No info about Rogell error, but it put a man on"1930WS1.EVA.regular.comment.csv",8
+
+"WS1193005070",11,"Hadley just holds the ball during double steal"1930WS1.EVA.regular.comment.csv",9
+
+"WS1193005070",20,"Hit and run play as Cronin covers second"1930WS1.EVA.regular.comment.csv",10
+
+"WS1193005070",22,"Hit and run play as Cronin covers second"1930WS1.EVA.regular.comment.csv",11
+
+"WS1193005212",69,"$Lisenbee entered game with 2-0 count on Rice and completed the walk which was charged to Smith"1930WS1.EVA.regular.comment.csv",12
+
+"WS1193006010",49,"$the throw struck Bing Miller on the back"1930WS1.EVA.regular.comment.csv",13
+
+"WS1193006200",49,"ej,cissb101,P,guthb901,Call at 3B Bill Cissell ejected by 3B umpire Bill Guthrie"1930WS1.EVA.regular.comment.csv",14
+
+"WS1193006240",46,"play,6,0,morge102,??,,99 play,6,0,hodaj101,??,,S5 play,6,0,avere101,??,,S.1-2 play,6,0,jamic101,??,,S/P34D.2-3;1-2 play,6,0,sewej101,??,,99 play,6,0,myatg101,??,,9/L9D game called for rain after six batters in the top of the sixth"1930WS1.EVA.regular.comment.csv",15
+
+"WS1193006250",73,"$Heinie Manush scored when Grover Hartley threw wildly to the mound"1930WS1.EVA.regular.comment.csv",16
+
+"WS1193006260",10,"$Hayworth left game when throw from outfield hit him in face"1930WS1.EVA.regular.comment.csv",17
+
+"WS1193006260",13,"$Herring replaced Whitehill with 2-0 count on Myer"1930WS1.EVA.regular.comment.csv",18
+
+"WS1193007042",0,"$overflow crowd on the field"1930WS1.EVA.regular.comment.csv",19
+
+"WS1193007042",5,"$into the overflow crowd"1930WS1.EVA.regular.comment.csv",20
+
+"WS1193007042",9,"$into the overflow crowd"1930WS1.EVA.regular.comment.csv",21
+
+"WS1193007042",22,"$into the overflow crowd"1930WS1.EVA.regular.comment.csv",22
+
+"WS1193007042",26,"$into the overflow crowd"1930WS1.EVA.regular.comment.csv",23
+
+"WS1193007050",27,"$Ruth left with inflamed hand"1930WS1.EVA.regular.comment.csv",24
+
+"WS1193007300",0,"$President Herbert Hoover attended this game"1930WS1.EVA.regular.comment.csv",25
+
+"WS1193008092",20,"Attempted sacrifice."1930WS1.EVA.regular.comment.csv",26
+
+"WS1193008092",27,"$Manush rounded second too far. Goldman hit on head with ball."1930WS1.EVA.regular.comment.csv",27
+
+"WS1193008092",32,"Porter caught ball in front of fence."1930WS1.EVA.regular.comment.csv",28
+
+"WS1193008092",71,"West argues with Nallin on called third strike."1930WS1.EVA.regular.comment.csv",29
+
+"WS1193008130",14,"ej,cissb101,P,nalld901,Call at 2B Bill Cissell ejected by 3B umpire Dick Nallin"1930WS1.EVA.regular.comment.csv",30
+
+"WS1193008140",40,"$Carl Fischer left with injured ankle after being struck by batted ball"1930WS1.EVA.regular.comment.csv",31
+
+"WS1193008190",40,"$Kuhel hand hurt"1930WS1.EVA.regular.comment.csv",32
+
+"WS1193008240",65,"$Al Simmons grabbed Joe Cronin's arm to break up the double play; the umpires made no interference call and the crowd reacted by throwing bottles on the field"1930WS1.EVA.regular.comment.csv",33
+
+"WS1193008280",54,"pbp account ends here, rest deduced"1930WS1.EVA.regular.comment.csv",34
+
+"WS1193008300",39,"ej,shawb102,M,nalld901,Call at HP $Yankee manager Shawkey ejected by HP umpire Nalling for arguing Chapman was safe on attempt to steal home"1930WS1.EVA.regular.comment.csv",35
+
+"WS1193008310",67,"Top of 9th from NY Times box score."1930WS1.EVA.regular.comment.csv",36
+

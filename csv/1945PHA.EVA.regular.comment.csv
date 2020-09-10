@@ -1,35 +1,38 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"PHA194504260",49,"pbp account ends here, rest deduced"
-"PHA194504280",42,"$Line drive off Black's hand and he left game"
-"PHA194504291",4,"$Major League debut for Dave Ferriss"
-"PHA194506032",103,"$game called for 7pm curfew; tie game will be replayed"
-"PHA194506090",79,"ej,simma101,C,mcgob901,Claiming pitcher doctoring the ball $Athletics Coach Al Simmons ejected by HP umpire Bill McGowan sometime in ninth"
-"PHA194507122",63,"$Mark Christman left injured"
-"PHA194507180",97,"play,13,0,hayef101,??,,W play,13,0,rossd101,??,,46(1)3/GDP $game called for rain as huge downpour began at this point and grounds crew could not even get the field covered. scheduled second game was called of; plays in top of 13th were erased"
-"PHA194507210",181,"$game called for darkness"
-"PHA194507222",49,"negated plays: Webb W, Mayo 13/SH.1-2 game called for rain after two batters in the top of the seventh"
-"PHA194509032",88,"ej,georg101,P,rue-j901,Balls and strikes (Punched umpire) Greek George ejected by HP umpire Joe Rue; they had been arguing about balls and strikes throughout the game and George punched Rue; the two were separated by players and umpires"
-"PHA194509102",5,"$Hal Peck called out on appeal for missing 1B on apparent double"
-"PHA194509140",35,"ej,rosab101,P,passa901,Call at HP $Skeeter Webb missed the pitch on a squeeze attempt but Bob Maier escaped the rundown; Buddy Rosar argued the Maier left the baseline; Rosar ejected by HP umpire Art Passarella"
-"PHA194509140",39,"negated plays (visitor): 63,4/L,S8,8 (home): S7 $game called for rain after one batter in the bottom of the sixth"
-"PHA194509231",62,"ej,blueo102,M,romme101,Catch/no catch call $Buddy Lewis caught the fly ball and dropped the wet ball as he started to return it to the infield; Senators Manager Ossie Bluege claimed Lewis held the ball long enough for a catch and was ejected by 1B umpire Eddie Rommel"
-"PHA194509232",74,"$game called due to darkness"
-"PHA194504260",49,"pbp account ends here, rest deduced"
-"PHA194504280",0,"Weather: chilly"
-"PHA194504280",31,"Into lower LF stands"
-"PHA194504280",39,"Into LF stands"
-"PHA194504280",42,"$Line drive off Black's hand and he left game"
-"PHA194504280",53,"Peck misjudged it"
-"PHA194504291",4,"$Major League debut for Dave Ferriss"
-"PHA194506032",103,"$game called for 7pm curfew; tie game will be replayed"
-"PHA194506090",79,"ej,simma101,C,mcgob901,Claiming pitcher doctoring the ball $Athletics Coach Al Simmons ejected by HP umpire Bill McGowan sometime in ninth"
-"PHA194507122",63,"$Mark Christman left injured"
-"PHA194507180",97,"play,13,0,hayef101,??,,W play,13,0,rossd101,??,,46(1)3/GDP $game called for rain as huge downpour began at this point and grounds crew could not even get the field covered. scheduled second game was called of; plays in top of 13th were erased"
-"PHA194507210",181,"$game called for darkness"
-"PHA194507222",49,"negated plays: Webb W, Mayo 13/SH.1-2 game called for rain after two batters in the top of the seventh"
-"PHA194509032",88,"ej,georg101,P,rue-j901,Balls and strikes (Punched umpire) Greek George ejected by HP umpire Joe Rue; they had been arguing about balls and strikes throughout the game and George punched Rue; the two were separated by players and umpires"
-"PHA194509102",5,"$Hal Peck called out on appeal for missing 1B on apparent double"
-"PHA194509140",35,"ej,rosab101,P,passa901,Call at HP $Skeeter Webb missed the pitch on a squeeze attempt but Bob Maier escaped the rundown; Buddy Rosar argued the Maier left the baseline; Rosar ejected by HP umpire Art Passarella"
-"PHA194509140",39,"negated plays (visitor): 63,4/L,S8,8 (home): S7 $game called for rain after one batter in the bottom of the sixth"
-"PHA194509231",62,"ej,blueo102,M,romme101,Catch/no catch call $Buddy Lewis caught the fly ball and dropped the wet ball as he started to return it to the infield; Senators Manager Ossie Bluege claimed Lewis held the ball long enough for a catch and was ejected by 1B umpire Eddie Rommel"
-"PHA194509232",74,"$game called due to darkness"
+"PHA194504260",49,"pbp account ends here, rest deduced"FILENAME_TX","LINE_NUMBER_CT"
+
+"PHA194504280",0,"Weather: chilly"1945PHA.EVA.regular.comment.csv",2
+
+"PHA194504280",31,"Into lower LF stands"1945PHA.EVA.regular.comment.csv",3
+
+"PHA194504280",39,"Into LF stands"1945PHA.EVA.regular.comment.csv",4
+
+"PHA194504280",42,"$Line drive off Black's hand and he left game"1945PHA.EVA.regular.comment.csv",5
+
+"PHA194504280",53,"Peck misjudged it"1945PHA.EVA.regular.comment.csv",6
+
+"PHA194504291",4,"$Major League debut for Dave Ferriss"1945PHA.EVA.regular.comment.csv",7
+
+"PHA194506032",103,"$game called for 7pm curfew; tie game will be replayed"1945PHA.EVA.regular.comment.csv",8
+
+"PHA194506090",79,"ej,simma101,C,mcgob901,Claiming pitcher doctoring the ball $Athletics Coach Al Simmons ejected by HP umpire Bill McGowan sometime in ninth"1945PHA.EVA.regular.comment.csv",9
+
+"PHA194507122",63,"$Mark Christman left injured"1945PHA.EVA.regular.comment.csv",10
+
+"PHA194507180",97,"play,13,0,hayef101,??,,W play,13,0,rossd101,??,,46(1)3/GDP $game called for rain as huge downpour began at this point and grounds crew could not even get the field covered. scheduled second game was called of; plays in top of 13th were erased"1945PHA.EVA.regular.comment.csv",11
+
+"PHA194507210",181,"$game called for darkness"1945PHA.EVA.regular.comment.csv",12
+
+"PHA194507222",49,"negated plays: Webb W, Mayo 13/SH.1-2 game called for rain after two batters in the top of the seventh"1945PHA.EVA.regular.comment.csv",13
+
+"PHA194509032",88,"ej,georg101,P,rue-j901,Balls and strikes (Punched umpire) Greek George ejected by HP umpire Joe Rue; they had been arguing about balls and strikes throughout the game and George punched Rue; the two were separated by players and umpires"1945PHA.EVA.regular.comment.csv",14
+
+"PHA194509102",5,"$Hal Peck called out on appeal for missing 1B on apparent double"1945PHA.EVA.regular.comment.csv",15
+
+"PHA194509140",35,"ej,rosab101,P,passa901,Call at HP $Skeeter Webb missed the pitch on a squeeze attempt but Bob Maier escaped the rundown; Buddy Rosar argued the Maier left the baseline; Rosar ejected by HP umpire Art Passarella"1945PHA.EVA.regular.comment.csv",16
+
+"PHA194509140",39,"negated plays (visitor): 63,4/L,S8,8 (home): S7 $game called for rain after one batter in the bottom of the sixth"1945PHA.EVA.regular.comment.csv",17
+
+"PHA194509231",62,"ej,blueo102,M,romme101,Catch/no catch call $Buddy Lewis caught the fly ball and dropped the wet ball as he started to return it to the infield; Senators Manager Ossie Bluege claimed Lewis held the ball long enough for a catch and was ejected by 1B umpire Eddie Rommel"1945PHA.EVA.regular.comment.csv",18
+
+"PHA194509232",74,"$game called due to darkness"1945PHA.EVA.regular.comment.csv",19
+

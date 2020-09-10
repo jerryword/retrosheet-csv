@@ -1,43 +1,42 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"CLE195304261",35,"ej,hutcf101,M,stevj901,Balls and strikes $Tigers manager Hutchinson ejected by HP umpire Stevens for arguing balls and strikes"
-"CLE195304290",1,"to match daily/TSN/NYT, arbitrary 8 to 7"
-"CLE195305010",6,"to match daily/TSN, arbitrary K to K23"
-"CLE195305010",39,"to match daily/TSN, arbitrary 53 to 3/G"
-"CLE195305020",7,"to match daily/NYT, arbitrary K to K23"
-"CLE195306030",3,"to match daily/NYT, arbitrary K to K23"
-"CLE195306030",67,"$missed squeeze"
-"CLE195306120",9,"to match NYT/TSN, arbitrary 54(1)/FO to 43"
-"CLE195306120",12,"to match daily/NYT/TSN, arbitrary 4/P to 63"
-"CLE195307160",4,"DWS: bogus FLE2 but Watlington needs one"
-"CLE195307220",49,"to match daily/NYT/TSN, arbitrary 7 to 9"
-"CLE195307220",77,"to match daily/NYT/TSN, arbitrary 6/F to 4"
-"CLE195307240",85,"ej,lopea102,M,romme101,Catch/trap call Indians Manager Al Lopez ejected by 1B umpire Eddie Rommel"
-"CLE195308110",59,"ej,lemob101,P,mcgob901,Balls and strikes Bob Lemon ejected by HP umpire Bill McGowan"
-"CLE195308120",64,"ej,bearg102,P,papaj901,Call at HP ej,lolls101,P,papaj901,Call at HP Sherm Lollar and Gene Bearden ejected by HP umpire Joe Paparella"
-"CLE195308270",27,"to match daily/NYT/TSN, arbitrary 63 to 53"
-"CLE195308290",19,"to match daily/NYT/TSN, arbitrary 13 to 43"
-"CLE195308302",71,"ej,rosea101,P,berrc103,Call at 2B Al Rosen ejected by 2B umpire Charlie Berry"
-"CLE195309020",13,"to match daily/NYT/TSN, arbitrary 63 to 43"
-"CLE195309040",95,"play,11,0,krsnr101,??,,D7 play,11,0,rivej101,??,,53 play,11,0,wilsr102,??,,1/G.2-3 play,11,0,fornm101,??,,NP sub,meles101,'Sam Mele',0,9,11 play,11,0,meles101,??,,53 play,11,1,kennb104,??,,NP sub,dorif101,'Fritz Dorish',0,9,1 play,11,1,kennb104,??,,NP sub,eastl101,'Luke Easter',1,9,11 play,11,1,eastl101,??,,3/L play,11,1,avilb101,??,,S7 play,11,1,glynb101,??,,7 data,er,dorif101,0 $game called due to rain; by the rules of the day, since the 11th inning was not completed, all events and appearances were erased and the end of the game reverted back to the end of the 10th inning"
-"CLE195309051",56,"ej,dobyl101,P,summb901,Balls and strikes ej,lopea102,M,summb901,Balls and strikes Larry Doby and Indians Manager Al Lopez ejected by HP umpire Bill Summers"
-"CLE195304261",35,"ej,hutcf101,M,stevj901,Balls and strikes $Tigers manager Hutchinson ejected by HP umpire Stevens for arguing balls and strikes"
-"CLE195304290",1,"to match daily/TSN/NYT, arbitrary 8 to 7"
-"CLE195305010",6,"to match daily/TSN, arbitrary K to K23"
-"CLE195305010",39,"to match daily/TSN, arbitrary 53 to 3/G"
-"CLE195305020",7,"to match daily/NYT, arbitrary K to K23"
-"CLE195306030",3,"to match daily/NYT, arbitrary K to K23"
-"CLE195306030",67,"$missed squeeze"
-"CLE195306120",9,"to match NYT/TSN, arbitrary 54(1)/FO to 43"
-"CLE195306120",12,"to match daily/NYT/TSN, arbitrary 4/P to 63"
-"CLE195307160",4,"DWS: bogus FLE2 but Watlington needs one"
-"CLE195307220",49,"to match daily/NYT/TSN, arbitrary 7 to 9"
-"CLE195307220",77,"to match daily/NYT/TSN, arbitrary 6/F to 4"
-"CLE195307240",85,"ej,lopea102,M,romme101,Catch/trap call Indians Manager Al Lopez ejected by 1B umpire Eddie Rommel"
-"CLE195308110",59,"ej,lemob101,P,mcgob901,Balls and strikes Bob Lemon ejected by HP umpire Bill McGowan"
-"CLE195308120",64,"ej,bearg102,P,papaj901,Call at HP ej,lolls101,P,papaj901,Call at HP Sherm Lollar and Gene Bearden ejected by HP umpire Joe Paparella"
-"CLE195308270",27,"to match daily/NYT/TSN, arbitrary 63 to 53"
-"CLE195308290",19,"to match daily/NYT/TSN, arbitrary 13 to 43"
-"CLE195308302",71,"ej,rosea101,P,berrc103,Call at 2B Al Rosen ejected by 2B umpire Charlie Berry"
-"CLE195309020",13,"to match daily/NYT/TSN, arbitrary 63 to 43"
-"CLE195309040",95,"play,11,0,krsnr101,??,,D7 play,11,0,rivej101,??,,53 play,11,0,wilsr102,??,,1/G.2-3 play,11,0,fornm101,??,,NP sub,meles101,'Sam Mele',0,9,11 play,11,0,meles101,??,,53 play,11,1,kennb104,??,,NP sub,dorif101,'Fritz Dorish',0,9,1 play,11,1,kennb104,??,,NP sub,eastl101,'Luke Easter',1,9,11 play,11,1,eastl101,??,,3/L play,11,1,avilb101,??,,S7 play,11,1,glynb101,??,,7 data,er,dorif101,0 $game called due to rain; by the rules of the day, since the 11th inning was not completed, all events and appearances were erased and the end of the game reverted back to the end of the 10th inning"
-"CLE195309051",56,"ej,dobyl101,P,summb901,Balls and strikes ej,lopea102,M,summb901,Balls and strikes Larry Doby and Indians Manager Al Lopez ejected by HP umpire Bill Summers"
+"CLE195304261",35,"ej,hutcf101,M,stevj901,Balls and strikes $Tigers manager Hutchinson ejected by HP umpire Stevens for arguing balls and strikes"FILENAME_TX","LINE_NUMBER_CT"
+
+"CLE195304290",1,"to match daily/TSN/NYT, arbitrary 8 to 7"1953CLE.EVA.regular.comment.csv",2
+
+"CLE195305010",6,"to match daily/TSN, arbitrary K to K23"1953CLE.EVA.regular.comment.csv",3
+
+"CLE195305010",39,"to match daily/TSN, arbitrary 53 to 3/G"1953CLE.EVA.regular.comment.csv",4
+
+"CLE195305020",7,"to match daily/NYT, arbitrary K to K23"1953CLE.EVA.regular.comment.csv",5
+
+"CLE195306030",3,"to match daily/NYT, arbitrary K to K23"1953CLE.EVA.regular.comment.csv",6
+
+"CLE195306030",67,"$missed squeeze"1953CLE.EVA.regular.comment.csv",7
+
+"CLE195306120",9,"to match NYT/TSN, arbitrary 54(1)/FO to 43"1953CLE.EVA.regular.comment.csv",8
+
+"CLE195306120",12,"to match daily/NYT/TSN, arbitrary 4/P to 63"1953CLE.EVA.regular.comment.csv",9
+
+"CLE195307160",4,"DWS: bogus FLE2 but Watlington needs one"1953CLE.EVA.regular.comment.csv",10
+
+"CLE195307220",49,"to match daily/NYT/TSN, arbitrary 7 to 9"1953CLE.EVA.regular.comment.csv",11
+
+"CLE195307220",77,"to match daily/NYT/TSN, arbitrary 6/F to 4"1953CLE.EVA.regular.comment.csv",12
+
+"CLE195307240",85,"ej,lopea102,M,romme101,Catch/trap call Indians Manager Al Lopez ejected by 1B umpire Eddie Rommel"1953CLE.EVA.regular.comment.csv",13
+
+"CLE195308110",59,"ej,lemob101,P,mcgob901,Balls and strikes Bob Lemon ejected by HP umpire Bill McGowan"1953CLE.EVA.regular.comment.csv",14
+
+"CLE195308120",64,"ej,bearg102,P,papaj901,Call at HP ej,lolls101,P,papaj901,Call at HP Sherm Lollar and Gene Bearden ejected by HP umpire Joe Paparella"1953CLE.EVA.regular.comment.csv",15
+
+"CLE195308270",27,"to match daily/NYT/TSN, arbitrary 63 to 53"1953CLE.EVA.regular.comment.csv",16
+
+"CLE195308290",19,"to match daily/NYT/TSN, arbitrary 13 to 43"1953CLE.EVA.regular.comment.csv",17
+
+"CLE195308302",71,"ej,rosea101,P,berrc103,Call at 2B Al Rosen ejected by 2B umpire Charlie Berry"1953CLE.EVA.regular.comment.csv",18
+
+"CLE195309020",13,"to match daily/NYT/TSN, arbitrary 63 to 43"1953CLE.EVA.regular.comment.csv",19
+
+"CLE195309040",95,"play,11,0,krsnr101,??,,D7 play,11,0,rivej101,??,,53 play,11,0,wilsr102,??,,1/G.2-3 play,11,0,fornm101,??,,NP sub,meles101,'Sam Mele',0,9,11 play,11,0,meles101,??,,53 play,11,1,kennb104,??,,NP sub,dorif101,'Fritz Dorish',0,9,1 play,11,1,kennb104,??,,NP sub,eastl101,'Luke Easter',1,9,11 play,11,1,eastl101,??,,3/L play,11,1,avilb101,??,,S7 play,11,1,glynb101,??,,7 data,er,dorif101,0 $game called due to rain; by the rules of the day, since the 11th inning was not completed, all events and appearances were erased and the end of the game reverted back to the end of the 10th inning"1953CLE.EVA.regular.comment.csv",20
+
+"CLE195309051",56,"ej,dobyl101,P,summb901,Balls and strikes ej,lopea102,M,summb901,Balls and strikes Larry Doby and Indians Manager Al Lopez ejected by HP umpire Bill Summers"1953CLE.EVA.regular.comment.csv",21
+

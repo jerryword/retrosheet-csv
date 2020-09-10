@@ -1,56 +1,56 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"CIN196404130",5,"Debut game for Chico Ruiz"
-"CIN196404130",49,"Debut game for Mel Queen"
-"CIN196404130",69,"$Chico Ruiz called for interference"
-"CIN196404240",64,"Debut game for Gil Garrido"
-"CIN196404240",72,"Debut game for Billy McCool"
-"CIN196405020",5,"$the wild pitch went in Reds' dugout"
-"CIN196405230",24,"$Jimmie Schaffer claimed he was hit on wrist by pitch"
-"CIN196405230",51,"$Lou Brock's throw hit the 2B bag"
-"CIN196405280",145,"Game stopped by 12:50 AM curfew (tie game)"
-"CIN196406050",44,"22 minute rain delay"
-"CIN196406060",54,"22 minute rain delay"
-"CIN196406200",17,"$Don Drysdale failed to run, thinking the ball was foul"
-"CIN196406212",1,"Debut game for Larry Miller"
-"CIN196406220",22,"ej,hutcf101,M,varge901,Warning to pitcher $John Tsitouris warned and fined $50 by HP umpire Ed Vargo for throwing at Hal Lanier; Reds Manager Fred Hutchinson ejected by Vargo"
-"CIN196407030",9,"1:30 minute rain delay"
-"CIN196407170",10,"Debut game for Costen Shockley"
-"CIN196407170",13,"missing play in CIN196407170"
-"CIN196407180",5,"$Wes Covington gets a game played but not a game in LF"
-"CIN196407200",64,"ej,nuxhj101,P,steim901,Balls and strikes Joe Nuxhall ejected by HP umpire Mel Steiner"
-"CIN196407230",30,"Missed squeeze play"
-"CIN196407261",8,"Debut game for Tony Perez"
-"CIN196408090",57,"previous two plays really one"
-"CIN196408110",41,"$Joey Jay struck on head"
-"CIN196409010",16,"Debut game for Ron Campbell"
-"CIN196409040",40,"Hank Aaron hurt ankle on play"
-"CIN196410020",44,"$As Ruiz slid into third, Allen was late covering the base and the throw bounced off his glove, allowing Ruiz to score; Shortstop Wine picked the ball up and threw over the catcher's head into the Phillies dugout, letting Pinson score as well"
-"CIN196410040",45,"$Johnny Edwards let the bunt roll"
-"CIN196404130",5,"Debut game for Chico Ruiz"
-"CIN196404130",49,"Debut game for Mel Queen"
-"CIN196404130",69,"$Chico Ruiz called for interference"
-"CIN196404240",64,"Debut game for Gil Garrido"
-"CIN196404240",72,"Debut game for Billy McCool"
-"CIN196405020",5,"$the wild pitch went in Reds' dugout"
-"CIN196405230",24,"$Jimmie Schaffer claimed he was hit on wrist by pitch"
-"CIN196405230",51,"$Lou Brock's throw hit the 2B bag"
-"CIN196405280",145,"Game stopped by 12:50 AM curfew (tie game)"
-"CIN196406050",44,"22 minute rain delay"
-"CIN196406060",54,"22 minute rain delay"
-"CIN196406200",17,"$Don Drysdale failed to run, thinking the ball was foul"
-"CIN196406212",1,"Debut game for Larry Miller"
-"CIN196406220",22,"ej,hutcf101,M,varge901,Warning to pitcher $John Tsitouris warned and fined $50 by HP umpire Ed Vargo for throwing at Hal Lanier; Reds Manager Fred Hutchinson ejected by Vargo"
-"CIN196407030",9,"1:30 minute rain delay"
-"CIN196407170",10,"Debut game for Costen Shockley"
-"CIN196407170",13,"missing play in CIN196407170"
-"CIN196407180",5,"$Wes Covington gets a game played but not a game in LF"
-"CIN196407200",64,"ej,nuxhj101,P,steim901,Balls and strikes Joe Nuxhall ejected by HP umpire Mel Steiner"
-"CIN196407230",30,"Missed squeeze play"
-"CIN196407261",8,"Debut game for Tony Perez"
-"CIN196408090",57,"previous two plays really one"
-"CIN196408110",41,"$Joey Jay struck on head"
-"CIN196409010",16,"Debut game for Ron Campbell"
-"CIN196409040",40,"Hank Aaron hurt ankle on play"
-"CIN196410020",44,"$As Ruiz slid into third, Allen was late covering the base and the throw bounced off his glove, allowing Ruiz to score; Shortstop Wine picked the ball up and threw over the catcher's head into the Phillies dugout, letting Pinson score as well"
-"CIN196410020",51,"$Ruiz was hit on the shoulder, stepped toward mountd, but was cut off by catacher Dalrymple; benches cleared, but there were no fights or ejections"
-"CIN196410040",45,"$Johnny Edwards let the bunt roll"
+"CIN196404130",5,"Debut game for Chico Ruiz"FILENAME_TX","LINE_NUMBER_CT"
+
+"CIN196404130",49,"Debut game for Mel Queen"1964CIN.EVN.regular.comment.csv",2
+
+"CIN196404130",69,"$Chico Ruiz called for interference"1964CIN.EVN.regular.comment.csv",3
+
+"CIN196404240",64,"Debut game for Gil Garrido"1964CIN.EVN.regular.comment.csv",4
+
+"CIN196404240",72,"Debut game for Billy McCool"1964CIN.EVN.regular.comment.csv",5
+
+"CIN196405020",5,"$the wild pitch went in Reds' dugout"1964CIN.EVN.regular.comment.csv",6
+
+"CIN196405230",24,"$Jimmie Schaffer claimed he was hit on wrist by pitch"1964CIN.EVN.regular.comment.csv",7
+
+"CIN196405230",51,"$Lou Brock's throw hit the 2B bag"1964CIN.EVN.regular.comment.csv",8
+
+"CIN196405280",145,"Game stopped by 12:50 AM curfew (tie game)"1964CIN.EVN.regular.comment.csv",9
+
+"CIN196406050",44,"22 minute rain delay"1964CIN.EVN.regular.comment.csv",10
+
+"CIN196406060",54,"22 minute rain delay"1964CIN.EVN.regular.comment.csv",11
+
+"CIN196406200",17,"$Don Drysdale failed to run, thinking the ball was foul"1964CIN.EVN.regular.comment.csv",12
+
+"CIN196406212",1,"Debut game for Larry Miller"1964CIN.EVN.regular.comment.csv",13
+
+"CIN196406220",22,"ej,hutcf101,M,varge901,Warning to pitcher $John Tsitouris warned and fined $50 by HP umpire Ed Vargo for throwing at Hal Lanier; Reds Manager Fred Hutchinson ejected by Vargo"1964CIN.EVN.regular.comment.csv",14
+
+"CIN196407030",9,"1:30 minute rain delay"1964CIN.EVN.regular.comment.csv",15
+
+"CIN196407170",10,"Debut game for Costen Shockley"1964CIN.EVN.regular.comment.csv",16
+
+"CIN196407170",13,"missing play in CIN196407170"1964CIN.EVN.regular.comment.csv",17
+
+"CIN196407180",5,"$Wes Covington gets a game played but not a game in LF"1964CIN.EVN.regular.comment.csv",18
+
+"CIN196407200",64,"ej,nuxhj101,P,steim901,Balls and strikes Joe Nuxhall ejected by HP umpire Mel Steiner"1964CIN.EVN.regular.comment.csv",19
+
+"CIN196407230",30,"Missed squeeze play"1964CIN.EVN.regular.comment.csv",20
+
+"CIN196407261",8,"Debut game for Tony Perez"1964CIN.EVN.regular.comment.csv",21
+
+"CIN196408090",57,"previous two plays really one"1964CIN.EVN.regular.comment.csv",22
+
+"CIN196408110",41,"$Joey Jay struck on head"1964CIN.EVN.regular.comment.csv",23
+
+"CIN196409010",16,"Debut game for Ron Campbell"1964CIN.EVN.regular.comment.csv",24
+
+"CIN196409040",40,"Hank Aaron hurt ankle on play"1964CIN.EVN.regular.comment.csv",25
+
+"CIN196410020",44,"$As Ruiz slid into third, Allen was late covering the base and the throw bounced off his glove, allowing Ruiz to score; Shortstop Wine picked the ball up and threw over the catcher's head into the Phillies dugout, letting Pinson score as well"1964CIN.EVN.regular.comment.csv",26
+
+"CIN196410020",51,"$Ruiz was hit on the shoulder, stepped toward mountd, but was cut off by catacher Dalrymple; benches cleared, but there were no fights or ejections"1964CIN.EVN.regular.comment.csv",27
+
+"CIN196410040",45,"$Johnny Edwards let the bunt roll"1964CIN.EVN.regular.comment.csv",28
+

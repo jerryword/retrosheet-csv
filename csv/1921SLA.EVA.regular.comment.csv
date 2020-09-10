@@ -1,48 +1,46 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"SLA192104160",74,"$grounder hit Gleason's face."
-"SLA192105110",47,"Evening Bulletin account ends here, rest from Post-Dispatch"
-"SLA192105120",45,"Evening Bulletin account ends here, rest deduced"
-"SLA192105130",43,"Evening Bulletin account ends here, rest from Post-Dispatch"
-"SLA192105260",87,"$Game called for rain"
-"SLA192107021",66,"pbp acount ends here, rest deduced"
-"SLA192107021",77,"$Davis tried unsuccessfully to pick Mulligan off 2nd and Johnson scored"
-"SLA192107050",36,"Austin ejected by Wilson for arguing third strike."
-"SLA192107090",85,"Hidden ball trick."
-"SLA192107110",28,"$Hit and run, Rice overran second."
-"SLA192107160",23,"Austin ordered off first base coaching box by Nallin."
-"SLA192107160",68,"$Tobin injured right hand on play."
-"SLA192107180",46,"Gerber skipped in PBP."
-"SLA192107230",34,"Sisler ejected for punching Hildebrand after arguing out call from last inning."
-"SLA192108150",51,"Cobb ejected by Connolly for arguing about Davis throwing illegal pitches."
-"SLA192108160",2,"Ellerbe fell in some mud."
-"SLA192108170",61,"Williams was rundown between second and third and got back to second, then Harris made a wild throw running down Jacobson."
-"SLA192108180",46,"Harris skipped in PBP."
-"SLA192108200",6,"Baker injured leg running home."
-"SLA192108200",17,"Broken suicide squeeze."
-"SLA192108211",70,"pbp account ends here, rest deduced"
-"SLA192108270",67,"Hit and run."
-"SLA192109102",20,"$Vangilder hurt by Wamby's hit off his arm"
-"SLA192109110",36,"$Speaker hurt his knee going over first and had to be carried from the field"
-"SLA192104160",74,"$grounder hit Gleason's face."
-"SLA192105110",47,"Evening Bulletin account ends here, rest from Post-Dispatch"
-"SLA192105120",45,"Evening Bulletin account ends here, rest deduced"
-"SLA192105130",43,"Evening Bulletin account ends here, rest from Post-Dispatch"
-"SLA192105260",87,"$Game called for rain"
-"SLA192107021",77,"$Davis tried unsuccessfully to pick Mulligan off 2nd and Johnson scored"
-"SLA192107050",36,"ej,austj101,P,wilsf901,Called third strike Austin ejected by Wilson for arguing third strike."
-"SLA192107090",85,"Hidden ball trick."
-"SLA192107110",28,"$Hit and run, Rice overran second."
-"SLA192107160",23,"Austin ordered off first base coaching box by Nallin."
-"SLA192107160",68,"$Tobin injured right hand on play."
-"SLA192107180",46,"Gerber skipped in PBP."
-"SLA192107230",34,"Sisler ejected for punching Hildebrand after arguing out call from last inning."
-"SLA192108150",51,"Cobb ejected by Connolly for arguing about Davis throwing illegal pitches."
-"SLA192108160",2,"Ellerbe fell in some mud."
-"SLA192108170",61,"Williams was rundown between second and third and got back to second, then Harris made a wild throw running down Jacobson."
-"SLA192108180",46,"Harris skipped in PBP."
-"SLA192108200",6,"Baker injured leg running home."
-"SLA192108200",17,"Broken suicide squeeze."
-"SLA192108211",70,"pbp account ends here, rest deduced"
-"SLA192108270",67,"Hit and run."
-"SLA192109102",20,"$Vangilder hurt by Wamby's hit off his arm"
-"SLA192109110",36,"$Speaker hurt his knee going over first and had to be carried from the field"
+"SLA192104160",74,"$grounder hit Gleason's face."FILENAME_TX","LINE_NUMBER_CT"
+
+"SLA192105110",47,"Evening Bulletin account ends here, rest from Post-Dispatch"1921SLA.EVA.regular.comment.csv",2
+
+"SLA192105120",45,"Evening Bulletin account ends here, rest deduced"1921SLA.EVA.regular.comment.csv",3
+
+"SLA192105130",43,"Evening Bulletin account ends here, rest from Post-Dispatch"1921SLA.EVA.regular.comment.csv",4
+
+"SLA192105260",87,"$Game called for rain"1921SLA.EVA.regular.comment.csv",5
+
+"SLA192107021",77,"$Davis tried unsuccessfully to pick Mulligan off 2nd and Johnson scored"1921SLA.EVA.regular.comment.csv",6
+
+"SLA192107050",36,"ej,austj101,P,wilsf901,Called third strike Austin ejected by Wilson for arguing third strike."1921SLA.EVA.regular.comment.csv",7
+
+"SLA192107090",85,"Hidden ball trick."1921SLA.EVA.regular.comment.csv",8
+
+"SLA192107110",28,"$Hit and run, Rice overran second."1921SLA.EVA.regular.comment.csv",9
+
+"SLA192107160",23,"Austin ordered off first base coaching box by Nallin."1921SLA.EVA.regular.comment.csv",10
+
+"SLA192107160",68,"$Tobin injured right hand on play."1921SLA.EVA.regular.comment.csv",11
+
+"SLA192107180",46,"Gerber skipped in PBP."1921SLA.EVA.regular.comment.csv",12
+
+"SLA192107230",34,"Sisler ejected for punching Hildebrand after arguing out call from last inning."1921SLA.EVA.regular.comment.csv",13
+
+"SLA192108150",51,"Cobb ejected by Connolly for arguing about Davis throwing illegal pitches."1921SLA.EVA.regular.comment.csv",14
+
+"SLA192108160",2,"Ellerbe fell in some mud."1921SLA.EVA.regular.comment.csv",15
+
+"SLA192108170",61,"Williams was rundown between second and third and got back to second, then Harris made a wild throw running down Jacobson."1921SLA.EVA.regular.comment.csv",16
+
+"SLA192108180",46,"Harris skipped in PBP."1921SLA.EVA.regular.comment.csv",17
+
+"SLA192108200",6,"Baker injured leg running home."1921SLA.EVA.regular.comment.csv",18
+
+"SLA192108200",17,"Broken suicide squeeze."1921SLA.EVA.regular.comment.csv",19
+
+"SLA192108211",70,"pbp account ends here, rest deduced"1921SLA.EVA.regular.comment.csv",20
+
+"SLA192108270",67,"Hit and run."1921SLA.EVA.regular.comment.csv",21
+
+"SLA192109102",20,"$Vangilder hurt by Wamby's hit off his arm"1921SLA.EVA.regular.comment.csv",22
+
+"SLA192109110",36,"$Speaker hurt his knee going over first and had to be carried from the field"1921SLA.EVA.regular.comment.csv",23
+

@@ -1,33 +1,32 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"BOS193205150",0,"Game was played at Braves Field."
-"CHA193206120",65,"$Frasier's wrist injured on play on McManus to end 8th"
-"DET193206230",47,"$Bridges hit by line drive"
-"WS1193207041",57,"$Dickey punch broke Reynolds jaw"
-"WS1193207100",2,"$Runner on first base thought ball would not be caught and ran all the way to third, he was doubled up on a great play by West."
-"WS1193207100",25,"Kuhel's hard line drive IPHR went all the way to the wall"
-"WS1193207100",48,"$After Appling caught line drive, he threw wild to first; $runner on first attempted to go to second base and was thrown out by Kuhel after he got the ball in foul territory; not a double play due to intervening misplay"
-"NYA193207101",72,"$Lazzeri stole 3rd when catcher tried pickoff at 1st"
-"WS1193207182",69,"Bridges threw ball one to Harris"
-"CHA193207270",35,"pbp account ends here, rest deduced"
-"CHA193207270",37,"Hit and run play."
-"DET193208040",62,"ej,haywr101,P,guthb901,Balls and strikes ej,harrb101,M,guthb901,Balls and strikes $Catcher Hayworth ejected by HP umpire Guthrie for arguing balls and strikes; Detroit manager Harris ejected by Guthrie immediately after that"
-"BOS193208200",72,"Throw to second base was late."
-"NYA193209040",6,"$Stumpf passed Alexander on base on Stumpf's fly"
-"WS1193209052",64,"$This was the only major-league game of Hank Patterson's career"
-"DET193209092",39,"Game called due to darkness"
-"BOS193205150",0,"Game was played at Braves Field."
-"CHA193206120",65,"$Frasier's wrist injured on play on McManus to end 8th"
-"DET193206230",47,"$Bridges hit by line drive"
-"WS1193207041",59,"ej,dickb101,P,hildg101,Fighting ej,reync102,P,hildg101,Fighting $Catcher Dickey and runner Reynolds ejected by HP umpire Hildebrand for fighting after Reynolds collided hard with Dickey who punched him once, breaking jaw in two places; Reynolds did not play again until August 13; Dickey was suspended indefinitely the next day and did not play again until August 4"
-"WS1193207100",2,"$Runner on first base thought ball would not be caught and ran all the way to third, he was doubled up on a great play by West."
-"WS1193207100",25,"Kuhel's hard line drive IPHR went all the way to the wall"
-"WS1193207100",48,"$After Appling caught line drive, he threw wild to first; $runner on first attempted to go to second base and was thrown out by Kuhel after he got the ball in foul territory; not a double play due to intervening misplay"
-"NYA193207101",72,"$Lazzeri stole 3rd when catcher tried pickoff at 1st"
-"WS1193207182",69,"Bridges threw ball one to Harris"
-"CHA193207270",35,"pbp account ends here, rest deduced"
-"CHA193207270",37,"Hit and run play."
-"DET193208040",62,"ej,haywr101,P,guthb901,Balls and strikes ej,harrb101,M,guthb901,Balls and strikes $Catcher Hayworth ejected by HP umpire Guthrie for arguing balls and strikes; Detroit manager Harris ejected by Guthrie immediately after that"
-"BOS193208200",72,"Throw to second base was late."
-"NYA193209040",6,"$Stumpf passed Alexander on base on Stumpf's fly"
-"WS1193209052",64,"$This was the only major-league game of Hank Patterson's career"
-"DET193209092",39,"Game called due to darkness"
+"BOS193205150",0,"Game was played at Braves Field."FILENAME_TX","LINE_NUMBER_CT"
+
+"CHA193206120",65,"$Frasier's wrist injured on play on McManus to end 8th"1932.EDA.regular.comment.csv",2
+
+"DET193206230",47,"$Bridges hit by line drive"1932.EDA.regular.comment.csv",3
+
+"WS1193207041",59,"ej,dickb101,P,hildg101,Fighting ej,reync102,P,hildg101,Fighting $Catcher Dickey and runner Reynolds ejected by HP umpire Hildebrand for fighting after Reynolds collided hard with Dickey who punched him once, breaking jaw in two places; Reynolds did not play again until August 13; Dickey was suspended indefinitely the next day and did not play again until August 4"1932.EDA.regular.comment.csv",4
+
+"WS1193207100",2,"$Runner on first base thought ball would not be caught and ran all the way to third, he was doubled up on a great play by West."1932.EDA.regular.comment.csv",5
+
+"WS1193207100",25,"Kuhel's hard line drive IPHR went all the way to the wall"1932.EDA.regular.comment.csv",6
+
+"WS1193207100",48,"$After Appling caught line drive, he threw wild to first; $runner on first attempted to go to second base and was thrown out by Kuhel after he got the ball in foul territory; not a double play due to intervening misplay"1932.EDA.regular.comment.csv",7
+
+"NYA193207101",72,"$Lazzeri stole 3rd when catcher tried pickoff at 1st"1932.EDA.regular.comment.csv",8
+
+"WS1193207182",69,"Bridges threw ball one to Harris"1932.EDA.regular.comment.csv",9
+
+"CHA193207270",35,"pbp account ends here, rest deduced"1932.EDA.regular.comment.csv",10
+
+"CHA193207270",37,"Hit and run play."1932.EDA.regular.comment.csv",11
+
+"DET193208040",62,"ej,haywr101,P,guthb901,Balls and strikes ej,harrb101,M,guthb901,Balls and strikes $Catcher Hayworth ejected by HP umpire Guthrie for arguing balls and strikes; Detroit manager Harris ejected by Guthrie immediately after that"1932.EDA.regular.comment.csv",12
+
+"BOS193208200",72,"Throw to second base was late."1932.EDA.regular.comment.csv",13
+
+"NYA193209040",6,"$Stumpf passed Alexander on base on Stumpf's fly"1932.EDA.regular.comment.csv",14
+
+"WS1193209052",64,"$This was the only major-league game of Hank Patterson's career"1932.EDA.regular.comment.csv",15
+
+"DET193209092",39,"Game called due to darkness"1932.EDA.regular.comment.csv",16
+

@@ -1,53 +1,52 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"BOS193305160",99,"$Art Scharein chased Marty McManus back to 2B and dropped the ball as he tried to tag the runner out"
-"BOS193305170",64,"$Sam West suffered a broken cheekbone when struck by a throw"
-"BOS193305190",81,"ej,fothb101,P,geish901,Arguing balls and strikes $Fothergill ejected by HP umpire Geisel for arguing balls and strikes"
-"BOS193305200",28,"off wall"
-"BOS193305200",33,"drop fly ball"
-"BOS193305200",40,"into bleachers"
-"BOS193305200",67,"off wall"
-"BOS193305200",81,"The missing play are: 43, 8, 9"
-"BOS193305260",5,"$Earl Averill was caught off 1B"
-"BOS193305302",44,"DWS: no CS on error in 1933"
-"BOS193306112",68,"Game called for curfew"
-"BOS193306140",69,"ej,gehrl101,P,summb901,Interference non-call ej,mccaj802,M,summb901,Interference non-call $Tony Lazzeri claimed Rick Ferrell ran out of the baseline; Lou Gehrig and Yankees manager Joe McCarthy ejected by 1B umpire Bill Summers"
-"BOS193306140",84,"pbp account ends here, rest deduced"
-"BOS193306150",36,"$Rick Ferrell struck on the right hand by a pitch"
-"BOS193306172",79,"$Game called for rain"
-"BOS193307080",56,"$no one covered HP"
-"BOS193307140",13,"$Freddie Muller left with injured tendon in throwing arm"
-"BOS193307261",58,"$no one covered 3B"
-"BOS193307262",27,"$Dusty Cooke called for interference for running into his own batted ball"
-"BOS193307262",35,"ej,gehrl101,P,summb901,Call at 1B Lou Gehrig ejected by 1B umpire Bill Summers"
-"BOS193307262",77,"$Bob Seeds was out on appeal for leaving 3B too soon"
-"BOS193308110",24,"$Joe Cronin failed to cover 2B"
-"BOS193309060",28,"$Hogsett entered the game with a 2-0 count on Jolley"
-"BOS193309060",33,"$25 minute rain delay with the count 1-2 on Rogell"
-"BOS193309230",97,"pbp account ends here, rest deduced"
-"BOS193309230",101,"ej,chapb102,P,ormsr901,Call at 2B Ben Chapman ejected by 1B umpire Red Ormsby"
-"BOS193305160",99,"$Art Scharein chased Marty McManus back to 2B and dropped the ball as he tried to tag the runner out"
-"BOS193305170",64,"$Sam West suffered a broken cheekbone when struck by a throw"
-"BOS193305190",81,"ej,fothb101,P,geish901,Arguing balls and strikes $Fothergill ejected by HP umpire Geisel for arguing balls and strikes"
-"BOS193305200",28,"off wall"
-"BOS193305200",33,"drop fly ball"
-"BOS193305200",40,"into bleachers"
-"BOS193305200",67,"off wall"
-"BOS193305200",81,"The missing play are: 43, 8, 9"
-"BOS193305260",5,"$Earl Averill was caught off 1B"
-"BOS193305302",44,"DWS: no CS on error in 1933"
-"BOS193306112",68,"Game called for curfew"
-"BOS193306140",69,"ej,gehrl101,P,summb901,Interference non-call ej,mccaj802,M,summb901,Interference non-call $1bman Gehrig and Yankees manager McCarthy ejected by 1B umpire Summers for arguing interference should have been called on Ferrell for running out of baseline"
-"BOS193306150",36,"$Rick Ferrell struck on the right hand by a pitch"
-"BOS193306172",79,"$Game called for rain"
-"BOS193307080",56,"$no one covered HP"
-"BOS193307140",13,"$Freddie Muller left with injured tendon in throwing arm"
-"BOS193307261",58,"$no one covered 3B"
-"BOS193307262",27,"$Cooke out for interference for running into own batted ball"
-"BOS193307262",35,"ej,gehrl101,P,summb901,Call at 1B"
-"BOS193307262",35,"ej,gehrl101,P,summb901,Call at 1B $Yankees Gehrig ejected by 1B umpire Summers for continuing to argue that Werber was out in 3rd inning which would have been a double play"
-"BOS193307262",77,"$Bob Seeds was out on appeal for leaving 3B too soon"
-"BOS193308110",24,"$Joe Cronin failed to cover 2B"
-"BOS193309060",28,"$Hogsett entered the game with a 2-0 count on Jolley"
-"BOS193309060",33,"$25 minute rain delay with the count 1-2 on Rogell"
-"BOS193309230",97,"pbp account ends here, rest deduced"
-"BOS193309230",101,"ej,chapb102,P,ormsr901,Call at 2B $Chapman ejected by 1B umpire Ormsby for arguing he was safe at 2nd"
+"BOS193305160",99,"$Art Scharein chased Marty McManus back to 2B and dropped the ball as he tried to tag the runner out"FILENAME_TX","LINE_NUMBER_CT"
+
+"BOS193305170",64,"$Sam West suffered a broken cheekbone when struck by a throw"1933BOS.EVA.regular.comment.csv",2
+
+"BOS193305190",81,"ej,fothb101,P,geish901,Arguing balls and strikes $Fothergill ejected by HP umpire Geisel for arguing balls and strikes"1933BOS.EVA.regular.comment.csv",3
+
+"BOS193305200",28,"off wall"1933BOS.EVA.regular.comment.csv",4
+
+"BOS193305200",33,"drop fly ball"1933BOS.EVA.regular.comment.csv",5
+
+"BOS193305200",40,"into bleachers"1933BOS.EVA.regular.comment.csv",6
+
+"BOS193305200",67,"off wall"1933BOS.EVA.regular.comment.csv",7
+
+"BOS193305200",81,"The missing play are: 43, 8, 9"1933BOS.EVA.regular.comment.csv",8
+
+"BOS193305260",5,"$Earl Averill was caught off 1B"1933BOS.EVA.regular.comment.csv",9
+
+"BOS193305302",44,"DWS: no CS on error in 1933"1933BOS.EVA.regular.comment.csv",10
+
+"BOS193306112",68,"Game called for curfew"1933BOS.EVA.regular.comment.csv",11
+
+"BOS193306140",69,"ej,gehrl101,P,summb901,Interference non-call ej,mccaj802,M,summb901,Interference non-call $1bman Gehrig and Yankees manager McCarthy ejected by 1B umpire Summers for arguing interference should have been called on Ferrell for running out of baseline"1933BOS.EVA.regular.comment.csv",12
+
+"BOS193306150",36,"$Rick Ferrell struck on the right hand by a pitch"1933BOS.EVA.regular.comment.csv",13
+
+"BOS193306172",79,"$Game called for rain"1933BOS.EVA.regular.comment.csv",14
+
+"BOS193307080",56,"$no one covered HP"1933BOS.EVA.regular.comment.csv",15
+
+"BOS193307140",13,"$Freddie Muller left with injured tendon in throwing arm"1933BOS.EVA.regular.comment.csv",16
+
+"BOS193307261",58,"$no one covered 3B"1933BOS.EVA.regular.comment.csv",17
+
+"BOS193307262",27,"$Cooke out for interference for running into own batted ball"1933BOS.EVA.regular.comment.csv",18
+
+"BOS193307262",35,"ej,gehrl101,P,summb901,Call at 1B"1933BOS.EVA.regular.comment.csv",19
+
+"BOS193307262",35,"ej,gehrl101,P,summb901,Call at 1B $Yankees Gehrig ejected by 1B umpire Summers for continuing to argue that Werber was out in 3rd inning which would have been a double play"1933BOS.EVA.regular.comment.csv",20
+
+"BOS193307262",77,"$Bob Seeds was out on appeal for leaving 3B too soon"1933BOS.EVA.regular.comment.csv",21
+
+"BOS193308110",24,"$Joe Cronin failed to cover 2B"1933BOS.EVA.regular.comment.csv",22
+
+"BOS193309060",28,"$Hogsett entered the game with a 2-0 count on Jolley"1933BOS.EVA.regular.comment.csv",23
+
+"BOS193309060",33,"$25 minute rain delay with the count 1-2 on Rogell"1933BOS.EVA.regular.comment.csv",24
+
+"BOS193309230",97,"pbp account ends here, rest deduced"1933BOS.EVA.regular.comment.csv",25
+
+"BOS193309230",101,"ej,chapb102,P,ormsr901,Call at 2B $Chapman ejected by 1B umpire Ormsby for arguing he was safe at 2nd"1933BOS.EVA.regular.comment.csv",26
+

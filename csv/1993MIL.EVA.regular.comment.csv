@@ -1,28 +1,28 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"MIL199304140",15,"ej,surhb001,P,morrd901,Balls and strikes B.J. Surhoff ejected by HP umpire Dan Morrison"
-"MIL199304260",48,"Debut game for George Tsamis"
-"MIL199305090",62,"Debut game for Troy O'Leary"
-"MIL199306250",50,"ej,navaj001,P,joycj901,Balls and strikes Jaime Navarro ejected by HP umpire Jim Joyce"
-"MIL199307060",60,"ej,brunt001,P,welkt901,Called third strike Tom Brunansky ejected by HP umpire Tim Welke"
-"MIL199307160",0,"ej,lamog101,M,morrd901,Arguing warning to his pitcher White Sox manager Gene Lamont ejected by HP umpire Dan Morrison after warning to his pitcher sometime in game ej,mansd801,C,clara901,After argument with Phil Garner White Sox coach Doug Mansolino ejected by 3B umpire Al Clark after arguing with Brewers manager Phil Garner sometime in game"
-"MIL199308110",0,"ej,hargm001,M,kaisk901,Balls and strikes Indians manager Mike Hargrove ejected by HP umpire Ken Kaiser sometime in game"
-"MIL199308150",73,"Debut game for John DeSilva"
-"MIL199308242",95,"ej,ecked001,P,scotd901,Balls and strikes ej,larut101,M,scotd901,Balls and strikes ej,duncd101,C,scotd901,Balls and strikes ej,neelt001,P,phild901,Bench-clearing brawl ej,nunee001,P,phild901,Bench-clearing brawl ej,reynt101,C,phild901,Bench-clearing brawl ej,folit001,C,phild901,Bench-clearing brawl ej,garnp001,M,phild901,Bench-clearing brawl ej,thond001,P,phild901,Bench-clearing brawl ej,mcgwm001,P,phild901,Bench-clearing brawl Dennis Eckersley, Athletics manager Tony LaRussa and Athletics coach Dave Duncan ejected by HP umpire Dale Scott arguing balls and strikes; LaRussa refused to leave the field and the umpires did little to get him off; Brewers manager Phil Garner came out to complain about the delay (it was after midnight) and LaRussa confronted Garner; both benches emptied and a brawl started when Troy Neel made a flying tackle of Dickie Thon; that tackle also knocked down Dave Nilsson; Athletics coach Tommie Reynolds and Brewers coach Tim Foli threw punches at each other; both managers and Mike Aldrete restrained B.J. Surhoff but Edwin Nunez felled Surhoff with a punch; that blow drew blood around Surhoff's mouth; the following people were ejected by 1B umpire (and crew chief) Dave Phillips: Neel, Nunez, Thon, Reynolds, Garner, Foli and Mark McGwire; the ejections forced some unusual substitutions: Rickey Bones (who was the Brewers starting pitcher in game 1) played RF"
-"MIL199308272",33,"Debut game for Chris Turner"
-"MIL199309010",32,"ej,mcrah001,M,brinj901,Balls and strikes Royals manager Hal McRae ejected by HP umpire Joe Brinkman"
-"MIL199309180",0,"ej,oatej101,M,meric901,Call at 2B Orioles manager Johnny Oates ejected by 2B umpire Chuck Meriwether sometime in game"
-"MIL199309280",13,"Debut game for Shawn Green"
-"MIL199304140",15,"ej,surhb001,P,morrd901,Balls and strikes B.J. Surhoff ejected by HP umpire Dan Morrison"
-"MIL199304260",48,"Debut game for George Tsamis"
-"MIL199305090",62,"Debut game for Troy O'Leary"
-"MIL199306250",50,"ej,navaj001,P,joycj901,Balls and strikes Jaime Navarro ejected by HP umpire Jim Joyce"
-"MIL199307060",60,"ej,brunt001,P,welkt901,Called third strike Tom Brunansky ejected by HP umpire Tim Welke"
-"MIL199307160",26,"ej,lamog101,M,morrd901,Arguing warning to his pitcher $White Sox manager Lamont ejected by HP umpire Morrison for arguing balls and strikes after single by Jaha"
-"MIL199307160",63,"ej,mansd801,C,clara901,Trying to fight opposing manager $White Sox coach Mansolino ejected by 3B umpire Clark for trying to fight with Brewers manager Garner"
-"MIL199308110",19,"ej,hargm001,M,kaisk901,Called third strike $Indians manager Hargrove ejected by HP umpire Kaiser for arguing called third strike"
-"MIL199308150",73,"Debut game for John DeSilva"
-"MIL199308242",95,"ej,ecked001,P,scotd901,Balls and strikes ej,larut101,M,scotd901,Balls and strikes ej,duncd101,C,scotd901,Balls and strikes ej,neelt001,P,phild901,Bench-clearing brawl ej,nunee001,P,phild901,Bench-clearing brawl ej,reynt101,C,phild901,Bench-clearing brawl ej,folit001,C,phild901,Bench-clearing brawl ej,garnp001,M,phild901,Bench-clearing brawl ej,thond001,P,phild901,Bench-clearing brawl ej,mcgwm001,P,phild901,Bench-clearing brawl $Pitcher Eckersley, Athletics manager LaRussa and Athletics coach Duncan ejected by HP umpire Scott for arguing balls and strikes; LaRussa refused to leave the field and Brewers manager Garner complained about the delay; LaRussa confronted Garner; benches emptied and a brawl started when Athletics Neel tackled Brewers Thon, knocking down Brewers Nilsson as well; Athletics coach Reynolds and Brewers coach Foli fought with each other; the managers and Athletics Aldrete restrained Brewers Surhoff but Athletics Nunez felled Surhoff with a punch that drew blood; ejections by 1B umpire (crew chief): Athletics Neel, Reynolds and McGwire plus Brewers Nunez,Thon, Garner, and Foli"
-"MIL199308272",33,"Debut game for Chris Turner"
-"MIL199309010",32,"ej,mcrah001,M,brinj901,Balls and strikes Royals manager Hal McRae ejected by HP umpire Joe Brinkman"
-"MIL199309180",54,"ej,oatej101,M,meric901,Call at 2B $Orioles manager Oates ejected by 2B Chuck Meriwether for arguing that Hamilton was out at 2nd"
-"MIL199309280",13,"Debut game for Shawn Green"
+"MIL199304140",15,"ej,surhb001,P,morrd901,Balls and strikes B.J. Surhoff ejected by HP umpire Dan Morrison"FILENAME_TX","LINE_NUMBER_CT"
+
+"MIL199304260",48,"Debut game for George Tsamis"1993MIL.EVA.regular.comment.csv",2
+
+"MIL199305090",62,"Debut game for Troy O'Leary"1993MIL.EVA.regular.comment.csv",3
+
+"MIL199306250",50,"ej,navaj001,P,joycj901,Balls and strikes Jaime Navarro ejected by HP umpire Jim Joyce"1993MIL.EVA.regular.comment.csv",4
+
+"MIL199307060",60,"ej,brunt001,P,welkt901,Called third strike Tom Brunansky ejected by HP umpire Tim Welke"1993MIL.EVA.regular.comment.csv",5
+
+"MIL199307160",26,"ej,lamog101,M,morrd901,Arguing warning to his pitcher $White Sox manager Lamont ejected by HP umpire Morrison for arguing balls and strikes after single by Jaha"1993MIL.EVA.regular.comment.csv",6
+
+"MIL199307160",63,"ej,mansd801,C,clara901,Trying to fight opposing manager $White Sox coach Mansolino ejected by 3B umpire Clark for trying to fight with Brewers manager Garner"1993MIL.EVA.regular.comment.csv",7
+
+"MIL199308110",19,"ej,hargm001,M,kaisk901,Called third strike $Indians manager Hargrove ejected by HP umpire Kaiser for arguing called third strike"1993MIL.EVA.regular.comment.csv",8
+
+"MIL199308150",73,"Debut game for John DeSilva"1993MIL.EVA.regular.comment.csv",9
+
+"MIL199308242",95,"ej,ecked001,P,scotd901,Balls and strikes ej,larut101,M,scotd901,Balls and strikes ej,duncd101,C,scotd901,Balls and strikes ej,neelt001,P,phild901,Bench-clearing brawl ej,nunee001,P,phild901,Bench-clearing brawl ej,reynt101,C,phild901,Bench-clearing brawl ej,folit001,C,phild901,Bench-clearing brawl ej,garnp001,M,phild901,Bench-clearing brawl ej,thond001,P,phild901,Bench-clearing brawl ej,mcgwm001,P,phild901,Bench-clearing brawl $Pitcher Eckersley, Athletics manager LaRussa and Athletics coach Duncan ejected by HP umpire Scott for arguing balls and strikes; LaRussa refused to leave the field and Brewers manager Garner complained about the delay; LaRussa confronted Garner; benches emptied and a brawl started when Athletics Neel tackled Brewers Thon, knocking down Brewers Nilsson as well; Athletics coach Reynolds and Brewers coach Foli fought with each other; the managers and Athletics Aldrete restrained Brewers Surhoff but Athletics Nunez felled Surhoff with a punch that drew blood; ejections by 1B umpire (crew chief): Athletics Neel, Reynolds and McGwire plus Brewers Nunez,Thon, Garner, and Foli"1993MIL.EVA.regular.comment.csv",10
+
+"MIL199308272",33,"Debut game for Chris Turner"1993MIL.EVA.regular.comment.csv",11
+
+"MIL199309010",32,"ej,mcrah001,M,brinj901,Balls and strikes Royals manager Hal McRae ejected by HP umpire Joe Brinkman"1993MIL.EVA.regular.comment.csv",12
+
+"MIL199309180",54,"ej,oatej101,M,meric901,Call at 2B $Orioles manager Oates ejected by 2B Chuck Meriwether for arguing that Hamilton was out at 2nd"1993MIL.EVA.regular.comment.csv",13
+
+"MIL199309280",13,"Debut game for Shawn Green"1993MIL.EVA.regular.comment.csv",14
+

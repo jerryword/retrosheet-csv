@@ -1,41 +1,40 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"CHA199204130",63,"ej,bellg001,P,welkt901,Called third strike George Bell ejected by HP umpire Tim Welke"
-"CHA199204150",27,"1:20 rain delay"
-"CHA199204160",58,"Debut game for Jeff Nelson"
-"CHA199204190",39,"$DP awarded when Gagne interfered with Sax - no GDP"
-"CHA199204210",74,"$Guillen's knee collides with Raines' shoulder"
-"CHA199204300",70,"$George Bell out at 3B trying for a triple to complete a cycle of hits"
-"CHA199205020",1,"Debut game for Roger Pavlik"
-"CHA199205070",12,"ej,sax-s001,P,garcr901,Call at 1B (Threw water cooler) Steve Sax ejected by 3B umpire Richie Garcia for throwing water cooler"
-"CHA199205070",22,"Ellis Burks left game with tightness in back"
-"CHA199206060",17,"Dan Pasqua left game with muscle tightness"
-"CHA199206060",53,"Jerry Browne removed with injury from catch at wall"
-"CHA199206200",1,"Debut game for Buddy Groom"
-"CHA199206200",58,"ej,bellg001,P,mcclt901,Called third strike George Bell ejected by HP umpire Tim McClelland"
-"CHA199207040",34,"ej,violf001,P,cobld901,Arguing from bench Frank Viola ejected from bench by 2B umpire Drew Coble sometime in fifth inning"
-"CHA199207040",64,"Robin Ventura hurt after swing"
-"CHA199207200",56,"$ball hit the bag and bounced to Frank Thomas"
-"CHA199208170",7,"ej,showb801,M,reedr901,Balls and strikes Yankees manager Buck Showalter ejected by HP umpire Rick Reed"
-"CHA199208250",54,"$19 minute power failure delay"
-"CHA199209090",46,"$Skeeter Barnes allowed a popup to drop"
-"CHA199209120",1,"Debut game for Dave Mlicki"
-"CHA199204130",63,"ej,bellg001,P,welkt901,Called third strike George Bell ejected by HP umpire Tim Welke"
-"CHA199204150",27,"1:20 rain delay"
-"CHA199204160",58,"Debut game for Jeff Nelson"
-"CHA199204190",39,"$DP awarded when Gagne interfered with Sax - no GDP"
-"CHA199204210",74,"$Guillen's knee collides with Raines' shoulder"
-"CHA199204300",70,"$George Bell out at 3B trying for a triple to complete a cycle of hits"
-"CHA199205020",1,"Debut game for Roger Pavlik"
-"CHA199205070",12,"ej,sax-s001,P,garcr901,Call at 1B (Threw water cooler) Steve Sax ejected by 3B umpire Richie Garcia for throwing water cooler"
-"CHA199205070",22,"Ellis Burks left game with tightness in back"
-"CHA199206060",17,"Dan Pasqua left game with muscle tightness"
-"CHA199206060",53,"Jerry Browne removed with injury from catch at wall"
-"CHA199206200",1,"Debut game for Buddy Groom"
-"CHA199206200",58,"ej,bellg001,P,mcclt901,Called third strike George Bell ejected by HP umpire Tim McClelland"
-"CHA199207040",50,"ej,violf001,P,cobld901,Bench jockeying $Red Sox Viola, not in game, ejected by 2B umpire Coble for arguing balls and strikes after Thomas walked sometime in fifth inning"
-"CHA199207040",64,"Robin Ventura hurt after swing"
-"CHA199207200",56,"$ball hit the bag and bounced to Frank Thomas"
-"CHA199208170",7,"ej,showb801,M,reedr901,Balls and strikes Yankees manager Buck Showalter ejected by HP umpire Rick Reed"
-"CHA199208250",54,"$19 minute power failure delay"
-"CHA199209090",46,"$Skeeter Barnes allowed a popup to drop"
-"CHA199209120",1,"Debut game for Dave Mlicki"
+"CHA199204130",63,"ej,bellg001,P,welkt901,Called third strike George Bell ejected by HP umpire Tim Welke"FILENAME_TX","LINE_NUMBER_CT"
+
+"CHA199204150",27,"1:20 rain delay"1992CHA.EVA.regular.comment.csv",2
+
+"CHA199204160",58,"Debut game for Jeff Nelson"1992CHA.EVA.regular.comment.csv",3
+
+"CHA199204190",39,"$DP awarded when Gagne interfered with Sax - no GDP"1992CHA.EVA.regular.comment.csv",4
+
+"CHA199204210",74,"$Guillen's knee collides with Raines' shoulder"1992CHA.EVA.regular.comment.csv",5
+
+"CHA199204300",70,"$George Bell out at 3B trying for a triple to complete a cycle of hits"1992CHA.EVA.regular.comment.csv",6
+
+"CHA199205020",1,"Debut game for Roger Pavlik"1992CHA.EVA.regular.comment.csv",7
+
+"CHA199205070",12,"ej,sax-s001,P,garcr901,Call at 1B (Threw water cooler) Steve Sax ejected by 3B umpire Richie Garcia for throwing water cooler"1992CHA.EVA.regular.comment.csv",8
+
+"CHA199205070",22,"Ellis Burks left game with tightness in back"1992CHA.EVA.regular.comment.csv",9
+
+"CHA199206060",17,"Dan Pasqua left game with muscle tightness"1992CHA.EVA.regular.comment.csv",10
+
+"CHA199206060",53,"Jerry Browne removed with injury from catch at wall"1992CHA.EVA.regular.comment.csv",11
+
+"CHA199206200",1,"Debut game for Buddy Groom"1992CHA.EVA.regular.comment.csv",12
+
+"CHA199206200",58,"ej,bellg001,P,mcclt901,Called third strike George Bell ejected by HP umpire Tim McClelland"1992CHA.EVA.regular.comment.csv",13
+
+"CHA199207040",50,"ej,violf001,P,cobld901,Bench jockeying $Red Sox Viola, not in game, ejected by 2B umpire Coble for arguing balls and strikes after Thomas walked sometime in fifth inning"1992CHA.EVA.regular.comment.csv",14
+
+"CHA199207040",64,"Robin Ventura hurt after swing"1992CHA.EVA.regular.comment.csv",15
+
+"CHA199207200",56,"$ball hit the bag and bounced to Frank Thomas"1992CHA.EVA.regular.comment.csv",16
+
+"CHA199208170",7,"ej,showb801,M,reedr901,Balls and strikes Yankees manager Buck Showalter ejected by HP umpire Rick Reed"1992CHA.EVA.regular.comment.csv",17
+
+"CHA199208250",54,"$19 minute power failure delay"1992CHA.EVA.regular.comment.csv",18
+
+"CHA199209090",46,"$Skeeter Barnes allowed a popup to drop"1992CHA.EVA.regular.comment.csv",19
+
+"CHA199209120",1,"Debut game for Dave Mlicki"1992CHA.EVA.regular.comment.csv",20
+

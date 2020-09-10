@@ -1,39 +1,38 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"SEA198604080",3,"Debut game for Wally Joyner"
-"SEA198604100",37,"Debut game for T.R. Bryden"
-"SEA198604190",78,"Debut game for Bill Mooneyham"
-"SEA198604230",4,"$Tom Brunansky overslid 2B"
-"SEA198605070",24,"ej,cottc101,M,fordd901,Interference call $Mariners manager Cottier ejected by 3B umpire Ford for arguing interference call on double play; this was Cottier's last game as manager"
-"SEA198605070",43,"ej,gedmr001,P,koscg901,Arguing about HBP ej,bradp001,P,koscg901,Charging the mound $Phil Bradley charged the mound; pitcher Al Nipper threw a punch with his left (non-throwing) hand that knocked Bradley down; both benches cleared; Bradley ejected by HP umpire Greg Kosc; Rich Gedman was also ejected by Kosc for arguing the HBP ruling"
-"SEA198605070",55,"ej,buckb001,P,koscg901,Checked swing Bill Buckner ejected by HP umpire Greg Kosc"
-"SEA198605120",14,"Debut game for Dale Sveum"
-"SEA198605250",17,"ej,lacyl001,P,welkt901,Balls and strikes Leon Lacy ejected by HP umpire Tim Welke"
-"SEA198605260",68,"ej,lynnf001,P,phild901,Balls and strikes Fred Lynn ejected by HP umpire Dave Phillips"
-"SEA198605300",64,"ej,andes101,M,mckej901,Balk Tigers manager Sparky Anderson ejected by HP umpire Jim McKean"
-"SEA198606130",72,"DWS: really one play, combined for now"
-"SEA198606150",4,"Foul tipped third strike"
-"SEA198607270",36,"$Glenn Braggs called for interference on catcher"
-"SEA198609020",66,"Debut game for Bryan Kelly"
-"SEA198609030",2,"Debut game for Bruce Fields"
-"SEA198609030",16,"Debut game for Dave Hengel"
-"SEA198609190",61,"Debut game for Bill Pecota"
-"SEA198609220",5,"ej,willd104,M,merrd901,Balls and strikes $Mariners manager Williams ejected by HP umpire Merrill at end of inning for arguing balls and strikes, particularly walk to Parrish"
-"SEA198604080",3,"Debut game for Wally Joyner"
-"SEA198604100",37,"Debut game for T.R. Bryden"
-"SEA198604190",78,"Debut game for Bill Mooneyham"
-"SEA198604230",4,"$Tom Brunansky overslid 2B"
-"SEA198605070",24,"ej,cottc101,M,fordd901,Interference call $Mariners manager Cottier ejected by 3B umpire Ford for arguing interference call on double play; this was Cottier's last game as manager"
-"SEA198605070",43,"ej,gedmr001,P,koscg901,Arguing about HBP ej,bradp001,P,koscg901,Charging the mound $Phil Bradley charged the mound; pitcher Al Nipper threw a punch with his left (non-throwing) hand that knocked Bradley down; both benches cleared; Bradley ejected by HP umpire Greg Kosc; Rich Gedman was also ejected by Kosc for arguing the HBP ruling"
-"SEA198605070",55,"ej,buckb001,P,koscg901,Checked swing Bill Buckner ejected by HP umpire Greg Kosc"
-"SEA198605120",14,"Debut game for Dale Sveum"
-"SEA198605250",17,"ej,lacyl001,P,welkt901,Balls and strikes Leon Lacy ejected by HP umpire Tim Welke"
-"SEA198605260",68,"ej,lynnf001,P,phild901,Balls and strikes Fred Lynn ejected by HP umpire Dave Phillips"
-"SEA198605300",64,"ej,andes101,M,mckej901,Balk Tigers manager Sparky Anderson ejected by HP umpire Jim McKean"
-"SEA198606130",72,"DWS: really one play, combined for now"
-"SEA198606150",4,"Foul tipped third strike"
-"SEA198607270",36,"$Glenn Braggs called for interference on catcher"
-"SEA198609020",66,"Debut game for Bryan Kelly"
-"SEA198609030",2,"Debut game for Bruce Fields"
-"SEA198609030",16,"Debut game for Dave Hengel"
-"SEA198609190",61,"Debut game for Bill Pecota"
-"SEA198609220",5,"ej,willd104,M,merrd901,Balls and strikes $Mariners manager Williams ejected by HP umpire Merrill at end of inning for arguing balls and strikes, particularly walk to Parrish"
+"SEA198604080",3,"Debut game for Wally Joyner"FILENAME_TX","LINE_NUMBER_CT"
+
+"SEA198604100",37,"Debut game for T.R. Bryden"1986SEA.EVA.regular.comment.csv",2
+
+"SEA198604190",78,"Debut game for Bill Mooneyham"1986SEA.EVA.regular.comment.csv",3
+
+"SEA198604230",4,"$Tom Brunansky overslid 2B"1986SEA.EVA.regular.comment.csv",4
+
+"SEA198605070",24,"ej,cottc101,M,fordd901,Interference call $Mariners manager Cottier ejected by 3B umpire Ford for arguing interference call on double play; this was Cottier's last game as manager"1986SEA.EVA.regular.comment.csv",5
+
+"SEA198605070",43,"ej,gedmr001,P,koscg901,Arguing about HBP ej,bradp001,P,koscg901,Charging the mound $Phil Bradley charged the mound; pitcher Al Nipper threw a punch with his left (non-throwing) hand that knocked Bradley down; both benches cleared; Bradley ejected by HP umpire Greg Kosc; Rich Gedman was also ejected by Kosc for arguing the HBP ruling"1986SEA.EVA.regular.comment.csv",6
+
+"SEA198605070",55,"ej,buckb001,P,koscg901,Checked swing Bill Buckner ejected by HP umpire Greg Kosc"1986SEA.EVA.regular.comment.csv",7
+
+"SEA198605120",14,"Debut game for Dale Sveum"1986SEA.EVA.regular.comment.csv",8
+
+"SEA198605250",17,"ej,lacyl001,P,welkt901,Balls and strikes Leon Lacy ejected by HP umpire Tim Welke"1986SEA.EVA.regular.comment.csv",9
+
+"SEA198605260",68,"ej,lynnf001,P,phild901,Balls and strikes Fred Lynn ejected by HP umpire Dave Phillips"1986SEA.EVA.regular.comment.csv",10
+
+"SEA198605300",64,"ej,andes101,M,mckej901,Balk Tigers manager Sparky Anderson ejected by HP umpire Jim McKean"1986SEA.EVA.regular.comment.csv",11
+
+"SEA198606130",72,"DWS: really one play, combined for now"1986SEA.EVA.regular.comment.csv",12
+
+"SEA198606150",4,"Foul tipped third strike"1986SEA.EVA.regular.comment.csv",13
+
+"SEA198607270",36,"$Glenn Braggs called for interference on catcher"1986SEA.EVA.regular.comment.csv",14
+
+"SEA198609020",66,"Debut game for Bryan Kelly"1986SEA.EVA.regular.comment.csv",15
+
+"SEA198609030",2,"Debut game for Bruce Fields"1986SEA.EVA.regular.comment.csv",16
+
+"SEA198609030",16,"Debut game for Dave Hengel"1986SEA.EVA.regular.comment.csv",17
+
+"SEA198609190",61,"Debut game for Bill Pecota"1986SEA.EVA.regular.comment.csv",18
+
+"SEA198609220",5,"ej,willd104,M,merrd901,Balls and strikes $Mariners manager Williams ejected by HP umpire Merrill at end of inning for arguing balls and strikes, particularly walk to Parrish"1986SEA.EVA.regular.comment.csv",19
+

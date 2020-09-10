@@ -1,60 +1,60 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"TEX200404230",63,"$Ibanez left with injured back"
-"TEX200405011",0,"$Debut for umpire Ramon Armendariz"
-"TEX200405040",46,"$Robert Fick called for interference"
-"TEX200405080",13,"ej,herso001,C,hollm901,Balls and strikes Texas pitching coach Orel Hershiser ejected by HP umpire Matt Hollowell"
-"TEX200405180",59,"$Relaford left game with injured leg"
-"TEX200405200",11,"$Laird left with injured hand/wrist"
-"TEX200405210",80,"$Giambi turned ankle rounding 1B - onto DL"
-"TEX200405230",15,"$Mench left game with injured chest"
-"TEX200405230",56,"$Lofton left game with injured leg"
-"TEX200406110",65,"ej,lankr001,P,drakr901,Called third strike Ray Lankford ejected by HP umpire Rob Drake"
-"TEX200406130",13,"$Nix left game with injured neck"
-"TEX200406270",48,"$Adam Everett called for interference"
-"TEX200407220",29,"$Rodriguez left game with injured elbow"
-"TEX200407220",55,"$Anderson left game with injured leg"
-"TEX200407290",49,"$Duchscherer left game with injured back"
-"TEX200407300",1,"Debut game for Sam Narron"
-"TEX200407310",64,"ej,nelsj001,P,froeb901,Balls and strikes $Jeff Nelson ran on the field during the 7th inning stretch to argue with HP umpire Bruce Froemming about the strike zone; he was ejected by Froemming and had to be restrained by manager Buck Showalter"
-"TEX200408130",10,"$Baldelli left game with injured leg"
-"TEX200408140",41,"Debut game for Franklin Nunez"
-"TEX200408170",49,"$Hafner left game with injured elbow"
-"TEX200408240",1,"Debut game for Chris Young"
-"TEX200408240",57,"$Silva left game with injured back"
-"TEX200409070",28,"Debut game for Wilson Valdez"
-"TEX200409080",47,"$Everett left game with injured leg"
-"TEX200409210",72,"Debut game for Joe Blanton"
-"TEX200409260",34,"umpchange,5,ump1b,mealj901 umpchange,5,ump2b,(None) $1B umpire and crew chief Ed Montague left the game with high blood pressure; he was taken to a local hospital to be checked"
-"TEX200409260",38,"Debut game for Kameron Loe"
-"TEX200409260",57,"Debut game for Travis Hughes"
-"TEX200409290",62,"$Anderson left game with injured knee"
-"TEX200404230",63,"$Ibanez left with injured back"
-"TEX200405011",0,"$Debut for umpire Ramon Armendariz"
-"TEX200405040",46,"$Robert Fick called for interference"
-"TEX200405080",13,"ej,herso001,C,hollm901,Balls and strikes Texas pitching coach Orel Hershiser ejected by HP umpire Matt Hollowell"
-"TEX200405180",59,"$Relaford left game with injured leg"
-"TEX200405200",11,"$Laird left with injured hand/wrist"
-"TEX200405210",80,"$Giambi turned ankle rounding 1B - onto DL"
-"TEX200405230",15,"$Mench left game with injured chest"
-"TEX200405230",56,"$Lofton left game with injured leg"
-"TEX200406110",65,"ej,lankr001,P,drakr901,Called third strike Ray Lankford ejected by HP umpire Rob Drake"
-"TEX200406130",13,"$Nix left game with injured neck"
-"TEX200406270",48,"$Adam Everett called for interference"
-"TEX200407220",29,"$Rodriguez left game with injured elbow"
-"TEX200407220",55,"$Anderson left game with injured leg"
-"TEX200407290",49,"$Duchscherer left game with injured back"
-"TEX200407300",1,"Debut game for Sam Narron"
-"TEX200407310",64,"ej,nelsj001,P,froeb901,Balls and strikes $Jeff Nelson ran on the field during the 7th inning stretch to argue with HP umpire Bruce Froemming about the strike zone; he was ejected by Froemming and had to be restrained by manager Buck Showalter"
-"TEX200408130",10,"$Baldelli left game with injured leg"
-"TEX200408140",41,"Debut game for Franklin Nunez"
-"TEX200408170",49,"$Hafner left game with injured elbow"
-"TEX200408240",1,"Debut game for Chris Young"
-"TEX200408240",57,"$Silva left game with injured back"
-"TEX200409070",28,"Debut game for Wilson Valdez"
-"TEX200409080",47,"$Everett left game with injured leg"
-"TEX200409120",64,"ej,gibbj001,M,spagd901,Called third strike $Blue Jays manager Gibbons ejected by HP umpire Spagnardi for arguing called third strike"
-"TEX200409210",72,"Debut game for Joe Blanton"
-"TEX200409260",34,"umpchange,5,ump1b,mealj901 umpchange,5,ump2b,(None) $1B umpire and crew chief Ed Montague left the game with high blood pressure; he was taken to a local hospital to be checked"
-"TEX200409260",38,"Debut game for Kameron Loe"
-"TEX200409260",57,"Debut game for Travis Hughes"
-"TEX200409290",62,"$Anderson left game with injured knee"
+"TEX200404230",63,"$Ibanez left with injured back"FILENAME_TX","LINE_NUMBER_CT"
+
+"TEX200405011",0,"$Debut for umpire Ramon Armendariz"2004TEX.EVA.regular.comment.csv",2
+
+"TEX200405040",46,"$Robert Fick called for interference"2004TEX.EVA.regular.comment.csv",3
+
+"TEX200405080",13,"ej,herso001,C,hollm901,Balls and strikes Texas pitching coach Orel Hershiser ejected by HP umpire Matt Hollowell"2004TEX.EVA.regular.comment.csv",4
+
+"TEX200405180",59,"$Relaford left game with injured leg"2004TEX.EVA.regular.comment.csv",5
+
+"TEX200405200",11,"$Laird left with injured hand/wrist"2004TEX.EVA.regular.comment.csv",6
+
+"TEX200405210",80,"$Giambi turned ankle rounding 1B - onto DL"2004TEX.EVA.regular.comment.csv",7
+
+"TEX200405230",15,"$Mench left game with injured chest"2004TEX.EVA.regular.comment.csv",8
+
+"TEX200405230",56,"$Lofton left game with injured leg"2004TEX.EVA.regular.comment.csv",9
+
+"TEX200406110",65,"ej,lankr001,P,drakr901,Called third strike Ray Lankford ejected by HP umpire Rob Drake"2004TEX.EVA.regular.comment.csv",10
+
+"TEX200406130",13,"$Nix left game with injured neck"2004TEX.EVA.regular.comment.csv",11
+
+"TEX200406270",48,"$Adam Everett called for interference"2004TEX.EVA.regular.comment.csv",12
+
+"TEX200407220",29,"$Rodriguez left game with injured elbow"2004TEX.EVA.regular.comment.csv",13
+
+"TEX200407220",55,"$Anderson left game with injured leg"2004TEX.EVA.regular.comment.csv",14
+
+"TEX200407290",49,"$Duchscherer left game with injured back"2004TEX.EVA.regular.comment.csv",15
+
+"TEX200407300",1,"Debut game for Sam Narron"2004TEX.EVA.regular.comment.csv",16
+
+"TEX200407310",64,"ej,nelsj001,P,froeb901,Balls and strikes $Jeff Nelson ran on the field during the 7th inning stretch to argue with HP umpire Bruce Froemming about the strike zone; he was ejected by Froemming and had to be restrained by manager Buck Showalter"2004TEX.EVA.regular.comment.csv",17
+
+"TEX200408130",10,"$Baldelli left game with injured leg"2004TEX.EVA.regular.comment.csv",18
+
+"TEX200408140",41,"Debut game for Franklin Nunez"2004TEX.EVA.regular.comment.csv",19
+
+"TEX200408170",49,"$Hafner left game with injured elbow"2004TEX.EVA.regular.comment.csv",20
+
+"TEX200408240",1,"Debut game for Chris Young"2004TEX.EVA.regular.comment.csv",21
+
+"TEX200408240",57,"$Silva left game with injured back"2004TEX.EVA.regular.comment.csv",22
+
+"TEX200409070",28,"Debut game for Wilson Valdez"2004TEX.EVA.regular.comment.csv",23
+
+"TEX200409080",47,"$Everett left game with injured leg"2004TEX.EVA.regular.comment.csv",24
+
+"TEX200409120",64,"ej,gibbj001,M,spagd901,Called third strike $Blue Jays manager Gibbons ejected by HP umpire Spagnardi for arguing called third strike"2004TEX.EVA.regular.comment.csv",25
+
+"TEX200409210",72,"Debut game for Joe Blanton"2004TEX.EVA.regular.comment.csv",26
+
+"TEX200409260",34,"umpchange,5,ump1b,mealj901 umpchange,5,ump2b,(None) $1B umpire and crew chief Ed Montague left the game with high blood pressure; he was taken to a local hospital to be checked"2004TEX.EVA.regular.comment.csv",27
+
+"TEX200409260",38,"Debut game for Kameron Loe"2004TEX.EVA.regular.comment.csv",28
+
+"TEX200409260",57,"Debut game for Travis Hughes"2004TEX.EVA.regular.comment.csv",29
+
+"TEX200409290",62,"$Anderson left game with injured knee"2004TEX.EVA.regular.comment.csv",30
+

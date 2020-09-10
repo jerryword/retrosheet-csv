@@ -1,29 +1,28 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"KC1195804180",81,"19 minute rain delay"
-"KC1195804200",3,"missing play in KC1195804200"
-"KC1195805170",53,"$Bob Cerv suffered a broken jaw"
-"KC1195805180",54,"$the ball caromed off Duke Maas"
-"KC1195806200",54,"$Bill Renna rounded 1B too far"
-"KC1195806240",71,"game called for rain; tie game"
-"KC1195806290",54,"$Bobby Shantz struck on hand"
-"KC1195807290",55,"ej,chith101,P,summb901,Balls and strikes ej,crafh101,M,summb901,Balls and strikes Harry Chiti and Athletics Manager Harry Craft ejected  by HP umpire Bill Summers"
-"KC1195807290",55,"ej,baueh101,P,summb901,Balls and strikes Hank Bauer ejected by HP umpire Bill Summers with 1-2 count"
-"KC1195807300",36,"game called after a one hour rain delay with 2-0 count on Frank House"
-"KC1195808150",67,"$Bob Cerv injured"
-"KC1195809110",0,"$Orioles manager Paul Richards listed three pitchers in starting lineup so he could skip the weak-hitting Jim Busby (and possibly Billy Gardner) in the first inning without batting for them"
-"KC1195809141",40,"$Bob Martyn left with something in his eye"
-"KC1195809171",60,"could be this W was the IW instead of previous"
-"KC1195804180",81,"19 minute rain delay"
-"KC1195804200",3,"missing play in KC1195804200"
-"KC1195805170",53,"$Bob Cerv suffered a broken jaw"
-"KC1195805180",54,"$the ball caromed off Duke Maas"
-"KC1195806200",54,"$Bill Renna rounded 1B too far"
-"KC1195806240",71,"game called for rain; tie game"
-"KC1195806290",54,"$Bobby Shantz struck on hand"
-"KC1195807290",55,"ej,chith101,P,summb901,Balls and strikes ej,crafh101,M,summb901,Balls and strikes Harry Chiti and Athletics Manager Harry Craft ejected  by HP umpire Bill Summers"
-"KC1195807290",55,"ej,baueh101,P,summb901,Balls and strikes Hank Bauer ejected by HP umpire Bill Summers with 1-2 count"
-"KC1195807300",36,"game called after a one hour rain delay with 2-0 count on Frank House"
-"KC1195808150",67,"$Bob Cerv injured"
-"KC1195809110",0,"$Orioles manager Paul Richards listed three pitchers in starting lineup so he could skip the weak-hitting Jim Busby (and possibly Billy Gardner) in the first inning without batting for them"
-"KC1195809141",40,"$Bob Martyn left with something in his eye"
-"KC1195809171",60,"could be this W was the IW instead of previous"
+"KC1195804180",81,"19 minute rain delay"FILENAME_TX","LINE_NUMBER_CT"
+
+"KC1195804200",3,"missing play in KC1195804200"1958KC1.EVA.regular.comment.csv",2
+
+"KC1195805170",53,"$Bob Cerv suffered a broken jaw"1958KC1.EVA.regular.comment.csv",3
+
+"KC1195805180",54,"$the ball caromed off Duke Maas"1958KC1.EVA.regular.comment.csv",4
+
+"KC1195806200",54,"$Bill Renna rounded 1B too far"1958KC1.EVA.regular.comment.csv",5
+
+"KC1195806240",71,"game called for rain; tie game"1958KC1.EVA.regular.comment.csv",6
+
+"KC1195806290",54,"$Bobby Shantz struck on hand"1958KC1.EVA.regular.comment.csv",7
+
+"KC1195807290",55,"ej,chith101,P,summb901,Balls and strikes ej,crafh101,M,summb901,Balls and strikes Harry Chiti and Athletics Manager Harry Craft ejected  by HP umpire Bill Summers"1958KC1.EVA.regular.comment.csv",8
+
+"KC1195807290",55,"ej,baueh101,P,summb901,Balls and strikes Hank Bauer ejected by HP umpire Bill Summers with 1-2 count"1958KC1.EVA.regular.comment.csv",9
+
+"KC1195807300",36,"game called after a one hour rain delay with 2-0 count on Frank House"1958KC1.EVA.regular.comment.csv",10
+
+"KC1195808150",67,"$Bob Cerv injured"1958KC1.EVA.regular.comment.csv",11
+
+"KC1195809110",0,"$Orioles manager Paul Richards listed three pitchers in starting lineup so he could skip the weak-hitting Jim Busby (and possibly Billy Gardner) in the first inning without batting for them"1958KC1.EVA.regular.comment.csv",12
+
+"KC1195809141",40,"$Bob Martyn left with something in his eye"1958KC1.EVA.regular.comment.csv",13
+
+"KC1195809171",60,"could be this W was the IW instead of previous"1958KC1.EVA.regular.comment.csv",14
+

@@ -1,613 +1,612 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"PHI201804070",43,"$umpires reviewed to see if Franco's ball were a home run; call was upheld - double"
-"PHI201804090",30,"$Reds challenged call that Santana was safe at home; call Was upheld - safe at home"
-"PHI201804110",63,"$Umpire review to see if Gennett's ball were a home run; call was upheld - double off top of wall"
-"PHI201804200",68,"$Hoskins was trapped off first and while Pirates were running him down, Herrara broke for home and was caught in a rundown; after Herrera was tagged out, Hoskins was caught between 2nd and 3rd to complete double play"
-"PHI201804210",42,"$Phillies challenged call that Santana was not hit by pitch; call was overturned - hit by pitch"
-"PHI201804210",66,"$Pirates challenged call that Altherr was safe at 2nd on force attempt - call was upheld - safe on throwing error"
-"PHI201804220",90,"$Umpire review to check ball hit by Knapp off top of wall; call was upheld - triple"
-"PHI201804250",40,"$Diamondbacks challenged call that Hernandez was safe at 3rd; call was overturned - out on caught stealing"
-"PHI201804270",32,"$Julio Teheran left with injured shoulder"
-"PHI201804270",67,"$Braves challenged call that Hoskins was safe at first; call was upheld - safe for single"
-"PHI201804280",19,"$Umpire review to see if Freeman's ball were a home rune; call was upheld - fly out"
-"PHI201804280",21,"$Braves challenged call that Markakis was out at 3rd; call was overturned - stolen base"
-"PHI201804280",42,"$J. P. Crawford left with injured elbow"
-"PHI201804290",77,"$Phillies challenged call that Suzuki was hit by pitch; call was upheld - hit by pitch"
-"PHI201805080",38,"$Phillies challenged call that Blanco was safe at first on pickoff attempt; call was upheld - safe on pickoff attempt, but Blanco was picked off later in at bat"
-"PHI201805080",66,"$Giants challenged call that Kingery was safe at 1st; call was overturned - ground out"
-"PHI201805090",38,"$Phillies challenged call that Kingery was out at 1st; call was overturned - single"
-"PHI201805110",56,"$Mets challenged call that Smith was out on pickoff; call was upheld - out on pickoff"
-"PHI201805130",0,"$Rain delay of 59 minutes at start of game"
-"PHI201805210",70,"$Braves challenged call that Inciarte was out at first; call was upheld - bunt ground out"
-"PHI201805230",63,"$Braves challenged call that Acuna was out at first; call was upheld - ground out"
-"PHI201806080",21,"$Dylan Cozens left with an injured leg"
-"PHI201806080",61,"$Umpire review to check ball hit by Williams; call was upheld - triple"
-"PHI201806140",10,"$Phillies challenged call that Parra was safe at first; call was overturned - out on pickoff"
-"PHI201806180",54,"$Umpire review ball hit on 6th pitch; call was upheld - foul, not home run"
-"PHI201806180",81,"$Cardinals challenged call that Herrara was safe at first for single; call was overturned - ground out"
-"PHI201806190",38,"$J.P. Crawford left with broken hand from hit by pitch in 4th"
-"PHI201806200",36,"$Michael Wacha left with an injured side"
-"PHI201806280",32,"$Phillies challenged call that Alfaro was out at first; call was overturned - single"
-"PHI201806300",19,"$Vince Velasquez left with an injured arm"
-"PHI201807010",35,"$Phillies challenged call that Turner was safe at 1st; call was overturned - ground out"
-"PHI201807030",20,"Mound Visit"
-"PHI201807030",52,"Mound Visit"
-"PHI201807030",55,"Mound Visit"
-"PHI201807030",59,"Mound Visit"
-"PHI201807030",61,"Mound Visit"
-"PHI201807030",63,"Mound Visit"
-"PHI201807030",64,"$Orioles challenged call that Davis was out at first; call was upheld - ground out"
-"PHI201807030",66,"Mound Visit"
-"PHI201807040",53,"Mound Visit"
-"PHI201807200",11,"Mound Visit"
-"PHI201807200",23,"Mound Visit"
-"PHI201807200",25,"Mound Visit"
-"PHI201807200",30,"$Padres challenged call that Myers was picked off after first pitch; call was overturned - safe on pitckoff attempt"
-"PHI201807200",39,"Mound Visit"
-"PHI201807200",40,"Mound Visit"
-"PHI201807200",58,"Mound Visit"
-"PHI201807200",76,"Mound Visit"
-"PHI201807200",80,"Mound Visit"
-"PHI201807200",81,"Injury Delay $Manuel Margot caught ball on diving catch, but dropped it when he hit the ground and bent his rest badly, leaving game"
-"PHI201807221",6,"Mound Visit $Phillies challenged call that Renfroe was safe at home; call was upheld - safe at home"
-"PHI201807221",9,"$Umpire review; call upheld - home run"
-"PHI201807221",12,"Mound Visit"
-"PHI201807221",22,"$Fan interference"
-"PHI201807221",42,"Injury Delay"
-"PHI201807221",48,"Mound Visit"
-"PHI201807221",50,"Injury Delay"
-"PHI201807221",51,"$Edubray Ramos left with 2-1 count on Reyes with a knee injury; place on DL following day"
-"PHI201807221",57,"On-field Delay"
-"PHI201807221",79,"Mound Visit"
-"PHI201807222",26,"Mound Visit"
-"PHI201807222",36,"Mound Visit"
-"PHI201807222",38,"Mound Visit"
-"PHI201807222",41,"Mound Visit"
-"PHI201807222",51,"Mound Visit"
-"PHI201807222",66,"Mound Visit"
-"PHI201807230",5,"Mound Visit"
-"PHI201807230",24,"Mound Visit"
-"PHI201807230",46,"Mound Visit"
-"PHI201807230",63,"Mound Visit"
-"PHI201807230",71,"Mound Visit"
-"PHI201807230",73,"Mound Visit"
-"PHI201807240",34,"Mound Visit"
-"PHI201807240",59,"$Umpire review of foul ball hit by Muncy on first pitch; call was upheld - foul ball, not home run"
-"PHI201807240",68,"Mound Visit"
-"PHI201807240",69,"Mound Visit"
-"PHI201807240",73,"On-field Delay"
-"PHI201807240",75,"umpchange,10,umphome,cuzzp901 umpchange,10,ump2b,(None) $Umpire Hallion hurt by foul ball to mask in top of inning; left game here"
-"PHI201807240",82,"$Fan interference"
-"PHI201807240",106,"Mound Visit"
-"PHI201807240",107,"Mound Visit"
-"PHI201807240",117,"Mound Visit"
-"PHI201807250",32,"On-field Delay $Phillies challenged call that Hernandez was safe at 3rd; call was overturned - out trying to advance"
-"PHI201807250",36,"$Umpire review of ball hit by Kingery; call was upheld - home run"
-"PHI201807250",39,"Mound Visit"
-"PHI201807250",40,"Mound Visit"
-"PHI201807250",48,"Mound Visit"
-"PHI201807250",61,"Mound Visit"
-"PHI201807250",73,"Mound Visit"
-"PHI201808020",40,"Mound Visit"
-"PHI201808020",66,"Mound Visit"
-"PHI201808020",67,"$Phillies challenged call that first pitch to Williams was a ball, claiming it hit him; call was upheld - ball, not hit by pitch"
-"PHI201808030",26,"Injury Delay"
-"PHI201808030",39,"$Phillies challenged call that Sierra was safe at first; call was overturned - ground out"
-"PHI201808030",47,"Mound Visit $Phillies challenged call that Anderson was safe on error; call was overturned - ground out"
-"PHI201808030",48,"Mound Visit"
-"PHI201808030",48,"Injury Delay"
-"PHI201808030",54,"Mound Visit"
-"PHI201808030",58,"Injury Delay"
-"PHI201808030",61,"Mound Visit"
-"PHI201808030",66,"Mound Visit"
-"PHI201808030",74,"Mound Visit Injury Delay"
-"PHI201808040",18,"Mound Visit"
-"PHI201808040",48,"Mound Visit"
-"PHI201808040",70,"Mound Visit"
-"PHI201808050",47,"Mound Visit"
-"PHI201808050",51,"Mound Visit"
-"PHI201808050",54,"Mound Visit"
-"PHI201808140",51,"Mound Visit"
-"PHI201808140",56,"On-field Delay $Herrera swung and missed a pitch that hit him on the foot; by rule it is a strike"
-"PHI201808140",58,"Mound Visit"
-"PHI201808140",65,"Mound Visit"
-"PHI201808150",15,"On-field Delay"
-"PHI201808150",21,"Mound Visit"
-"PHI201808150",23,"Mound Visit"
-"PHI201808150",24,"Mound Visit"
-"PHI201808150",36,"Mound Visit"
-"PHI201808150",42,"Injury Delay"
-"PHI201808150",51,"Mound Visit"
-"PHI201808150",52,"$Phillies challenged call that Pearse was safe at first; call was overturned - ground out"
-"PHI201808150",55,"Mound Visit"
-"PHI201808150",65,"Mound Visit"
-"PHI201808150",73,"Mound Visit"
-"PHI201808150",74,"Mound Visit"
-"PHI201808161",17,"Mound Visit"
-"PHI201808161",23,"Mound Visit"
-"PHI201808161",25,"Mound Visit"
-"PHI201808161",26,"On-field Delay"
-"PHI201808161",26,"$Brandon Nimmo left with an injured hand"
-"PHI201808161",33,"Mound Visit"
-"PHI201808161",44,"Mound Visit"
-"PHI201808161",52,"Mound Visit"
-"PHI201808161",85,"Mound Visit"
-"PHI201808161",87,"Mound Visit"
-"PHI201808162",11,"Mound Visit"
-"PHI201808162",22,"Mound Visit"
-"PHI201808162",25,"$Mets challenged call that Hernandez was safe at home; call was upheld - stolen base; he broke for home while Williams was in rundown between first and second; both runners credited with stolen bases"
-"PHI201808162",56,"Injury Delay"
-"PHI201808162",60,"$Phillies challnged call that ball hit by Williams was caught; call was overturned - trapped for single"
-"PHI201808162",66,"Mound Visit"
-"PHI201808162",81,"Mound Visit"
-"PHI201808162",83,"Mound Visit"
-"PHI201808170",57,"Mound Visit"
-"PHI201808170",68,"Mound Visit"
-"PHI201808180",27,"Injury Delay"
-"PHI201808180",54,"Mound Visit"
-"PHI201808180",58,"Mound Visit"
-"PHI201808180",59,"$Mets challenged call that Herrera was safe at second; call was upheld - force out and batter out advancing"
-"PHI201808190",0,"$Game played at Bowman Field in Williamsport, PA in conjunction with the Little League World Series"
-"PHI201808190",11,"Mound Visit"
-"PHI201808190",27,"Injury Delay"
-"PHI201808190",31,"Mound Visit"
-"PHI201808190",51,"Mound Visit"
-"PHI201808190",52,"Mound Visit"
-"PHI201808270",25,"Mound Visit"
-"PHI201808270",31,"Mound Visit"
-"PHI201808270",34,"$Nationals challenged call at plate, claiming catcher was not on the plate when he took the throw; call was upheld - force out"
-"PHI201808270",50,"Mound Visit"
-"PHI201808270",53,"Mound Visit"
-"PHI201808270",57,"Mound Visit"
-"PHI201808270",74,"Mound Visit"
-"PHI201808280",48,"Mound Visit"
-"PHI201808280",52,"Mound Visit"
-"PHI201808280",54,"On-field Delay ej,reynm001,P,holbs901,Throwing bat after called third strike $Reynolds threw his bat after called strike 3 and was ejected by plate umpire Holbrook; Reynolds came back to argue and threw his gloves, leading to second ejection signal from Holbrook"
-"PHI201808280",61,"Mound Visit"
-"PHI201808280",64,"Mound Visit $Nationals challenged call that Zimmerman was out at 2nd; call was overturned - double"
-"PHI201808280",69,"Mound Visit"
-"PHI201808280",70,"Mound Visit"
-"PHI201808280",71,"$Phillies challenged call that Velasquez was out on appeal for leaving 2nd too soon; call was upheld - out for leaving too soon to complete double play"
-"PHI201808290",24,"Mound Visit"
-"PHI201808290",47,"Mound Visit"
-"PHI201808290",53,"Mound Visit"
-"PHI201808290",55,"Mound Visit"
-"PHI201808290",66,"Injury Delay"
-"PHI201808290",69,"Mound Visit"
-"PHI201808290",71,"Mound Visit"
-"PHI201808290",73,"Mound Visit"
-"PHI201808290",74,"Mound Visit"
-"PHI201808290",79,"Mound Visit"
-"PHI201808290",81,"Mound Visit"
-"PHI201808310",18,"Mound Visit"
-"PHI201808310",19,"Mound Visit"
-"PHI201808310",49,"Mound Visit"
-"PHI201808310",54,"Mound Visit"
-"PHI201808310",56,"Mound Visit"
-"PHI201808310",60,"$Phillies challenged call that Contreras was safe at 1st; call was upheld - safe on error"
-"PHI201808310",61,"Mound Visit"
-"PHI201808310",70,"Mound Visit"
-"PHI201808310",72,"Mound Visit"
-"PHI201809010",6,"On-field Delay"
-"PHI201809010",33,"Mound Visit"
-"PHI201809010",34,"Mound Visit"
-"PHI201809010",49,"Mound Visit"
-"PHI201809010",61,"On-field Delay"
-"PHI201809010",66,"Injury Delay"
-"PHI201809020",31,"Mound Visit"
-"PHI201809020",42,"Mound Visit"
-"PHI201809020",44,"Mound Visit"
-"PHI201809020",48,"Mound Visit"
-"PHI201809020",50,"Mound Visit $Umpire review ball hit by Happ; call was upheld - triple, not home run"
-"PHI201809020",50,"On-field Delay Mound Visit"
-"PHI201809020",60,"$Phillies challenged call that Schwarber was safe at 1st; call was overturned - ground out"
-"PHI201809020",62,"Mound Visit"
-"PHI201809111",33,"Mound Visit"
-"PHI201809111",34,"Mound Visit"
-"PHI201809111",35,"Mound Visit"
-"PHI201809111",36,"$Nationals challenged call that Harper was out at 1st; call was upheld - out to complete double play"
-"PHI201809111",46,"Mound Visit"
-"PHI201809111",47,"Mound Visit"
-"PHI201809111",55,"Mound Visit"
-"PHI201809111",61,"Mound Visit"
-"PHI201809111",65,"Mound Visit"
-"PHI201809111",67,"Mound Visit"
-"PHI201809111",72,"$Phillies challenged call that Turner was safe at 3rd; call was overturned - out advancing"
-"PHI201809111",73,"Mound Visit"
-"PHI201809111",75,"Mound Visit"
-"PHI201809112",21,"Injury Delay"
-"PHI201809112",41,"Mound Visit"
-"PHI201809112",43,"Mound Visit"
-"PHI201809112",50,"Mound Visit"
-"PHI201809112",53,"Mound Visit"
-"PHI201809112",58,"$Nationals challenged call that Santana was safe at 1st; claiming slide interference; call was overturned - DP on slide interference"
-"PHI201809112",58,"Injury Delay"
-"PHI201809112",58,"$Franco fell into camera well trying to catch foul ball and it was several minutes before he was able to walk back to his dugout; he left with bruised shoulder"
-"PHI201809112",59,"Mound Visit"
-"PHI201809112",60,"$Umpire review of first pitch which had been called foul; call was overturned - ball"
-"PHI201809112",67,"On-field Delay"
-"PHI201809112",68,"Mound Visit"
-"PHI201809112",73,"Mound Visit"
-"PHI201809112",77,"Mound Visit"
-"PHI201809112",78,"Mound Visit"
-"PHI201809112",79,"Mound Visit"
-"PHI201809112",80,"$Originally scored as stolen base, changed to defensive indifference on 09-14-2018"
-"PHI201809112",88,"Mound Visit"
-"PHI201809112",90,"Mound Visit"
-"PHI201809120",6,"Mound Visit"
-"PHI201809120",38,"Injury Delay"
-"PHI201809120",42,"Mound Visit"
-"PHI201809140",9,"$Marlins challenged call that Bautista was safe at 3rd; call was overturned - out on caught stealing"
-"PHI201809140",21,"Mound Visit"
-"PHI201809140",35,"Mound Visit"
-"PHI201809140",43,"Mound Visit"
-"PHI201809140",55,"Mound Visit"
-"PHI201809140",57,"Mound Visit"
-"PHI201809140",58,"Mound Visit"
-"PHI201809140",62,"Mound Visit"
-"PHI201809140",69,"Mound Visit"
-"PHI201809150",12,"Mound Visit"
-"PHI201809150",16,"Mound Visit"
-"PHI201809150",36,"Mound Visit"
-"PHI201809150",39,"Mound Visit"
-"PHI201809150",45,"Mound Visit"
-"PHI201809150",53,"Injury Delay"
-"PHI201809160",26,"Mound Visit"
-"PHI201809160",38,"Injury Delay"
-"PHI201809160",46,"Mound Visit $Jose Urena left with muscle cramps in his hand"
-"PHI201809160",48,"Mound Visit"
-"PHI201809160",60,"Mound Visit"
-"PHI201809160",69,"Mound Visit"
-"PHI201809160",75,"Mound Visit"
-"PHI201809160",78,"Mound Visit"
-"PHI201809170",34,"Mound Visit"
-"PHI201809170",40,"Injury Delay"
-"PHI201809170",41,"Mound Visit"
-"PHI201809170",43,"Mound Visit"
-"PHI201809170",45,"Mound Visit"
-"PHI201809170",62,"Mound Visit"
-"PHI201809170",74,"Mound Visit"
-"PHI201809170",74,"Mound Visit"
-"PHI201809170",78,"Mound Visit"
-"PHI201809180",4,"Phillies challenged call that Conforto was safe on pickoff attempt after 4th pitch; call was upheld - safe on pickoff attempt"
-"PHI201809180",8,"$Mets challenged call tht Quinn was safe at 1st; call was overturned - ground out"
-"PHI201809180",10,"Mound Visit"
-"PHI201809180",22,"On-field Delay $Umpire review ball hit by Matz; call was upheld - home run"
-"PHI201809180",34,"Mound Visit"
-"PHI201809180",47,"Mound Visit"
-"PHI201809180",48,"Mound Visit"
-"PHI201809180",52,"Mound Visit"
-"PHI201809180",57,"Mound Visit"
-"PHI201809190",26,"Mound Visit"
-"PHI201809190",43,"Mound Visit"
-"PHI201809190",48,"Mound Visit"
-"PHI201809190",52,"Injury Delay"
-"PHI201809190",65,"Mound Visit"
-"PHI201809190",73,"Mound Visit"
-"PHI201809280",17,"On-field Delay"
-"PHI201809280",24,"Mound Visit"
-"PHI201809280",30,"Mound Visit"
-"PHI201809280",46,"Mound Visit"
-"PHI201809280",56,"$Phillies challenged call that Markakis was safe at 1st; call was upheld - force out, not double play"
-"PHI201809280",65,"Mound Visit"
-"PHI201809280",68,"Mound Visit"
-"PHI201809280",77,"On-field Delay"
-"PHI201809280",81,"Mound Visit"
-"PHI201809280",82,"$Umpire review of play at plate; call was overturned - out at home"
-"PHI201809280",88,"Mound Visit"
-"PHI201809290",10,"Mound Visit"
-"PHI201809290",47,"Mound Visit"
-"PHI201809290",54,"Mound Visit"
-"PHI201809290",59,"Mound Visit"
-"PHI201809290",60,"Mound Visit"
-"PHI201809290",71,"Mound Visit"
-"PHI201809300",32,"Mound Visit"
-"PHI201809300",46,"Mound Visit"
-"PHI201809300",49,"Mound Visit"
-"PHI201809300",53,"Mound Visit"
-"PHI201804070",43,"$umpires reviewed to see if Franco's ball were a home run; call was upheld - double"
-"PHI201804090",30,"$Reds challenged call that Santana was safe at home; call Was upheld - safe at home"
-"PHI201804110",63,"$Umpire review to see if Gennett's ball were a home run; call was upheld - double off top of wall"
-"PHI201804200",68,"$Hoskins was trapped off first and while Pirates were running him down, Herrara broke for home and was caught in a rundown; after Herrera was tagged out, Hoskins was caught between 2nd and 3rd to complete double play"
-"PHI201804210",42,"$Phillies challenged call that Santana was not hit by pitch; call was overturned - hit by pitch"
-"PHI201804210",66,"$Pirates challenged call that Altherr was safe at 2nd on force attempt - call was upheld - safe on throwing error"
-"PHI201804220",90,"$Umpire review to check ball hit by Knapp off top of wall; call was upheld - triple"
-"PHI201804250",40,"$Diamondbacks challenged call that Hernandez was safe at 3rd; call was overturned - out on caught stealing"
-"PHI201804270",32,"$Julio Teheran left with injured shoulder"
-"PHI201804270",67,"$Braves challenged call that Hoskins was safe at first; call was upheld - safe for single"
-"PHI201804280",19,"$Umpire review to see if Freeman's ball were a home rune; call was upheld - fly out"
-"PHI201804280",21,"$Braves challenged call that Markakis was out at 3rd; call was overturned - stolen base"
-"PHI201804280",42,"$J. P. Crawford left with injured elbow"
-"PHI201804290",77,"$Phillies challenged call that Suzuki was hit by pitch; call was upheld - hit by pitch"
-"PHI201805080",38,"$Phillies challenged call that Blanco was safe at first on pickoff attempt; call was upheld - safe on pickoff attempt, but Blanco was picked off later in at bat"
-"PHI201805080",66,"$Giants challenged call that Kingery was safe at 1st; call was overturned - ground out"
-"PHI201805090",38,"$Phillies challenged call that Kingery was out at 1st; call was overturned - single"
-"PHI201805110",56,"$Mets challenged call that Smith was out on pickoff; call was upheld - out on pickoff"
-"PHI201805130",0,"$Rain delay of 59 minutes at start of game"
-"PHI201805210",70,"$Braves challenged call that Inciarte was out at first; call was upheld - bunt ground out"
-"PHI201805230",63,"$Braves challenged call that Acuna was out at first; call was upheld - ground out"
-"PHI201806080",21,"$Dylan Cozens left with an injured leg"
-"PHI201806080",61,"$Umpire review to check ball hit by Williams; call was upheld - triple"
-"PHI201806140",10,"$Phillies challenged call that Parra was safe at first; call was overturned - out on pickoff"
-"PHI201806180",54,"$Umpire review ball hit on 6th pitch; call was upheld - foul, not home run"
-"PHI201806180",81,"$Cardinals challenged call that Herrara was safe at first for single; call was overturned - ground out"
-"PHI201806190",38,"$J.P. Crawford left with broken hand from hit by pitch in 4th"
-"PHI201806200",36,"$Michael Wacha left with an injured side"
-"PHI201806280",32,"$Phillies challenged call that Alfaro was out at first; call was overturned - single"
-"PHI201806300",19,"$Vince Velasquez left with an injured arm"
-"PHI201807010",35,"$Phillies challenged call that Turner was safe at 1st; call was overturned - ground out"
-"PHI201807030",20,"Mound Visit"
-"PHI201807030",52,"Mound Visit"
-"PHI201807030",55,"Mound Visit"
-"PHI201807030",59,"Mound Visit"
-"PHI201807030",61,"Mound Visit"
-"PHI201807030",63,"Mound Visit"
-"PHI201807030",64,"$Orioles challenged call that Davis was out at first; call was upheld - ground out"
-"PHI201807030",66,"Mound Visit"
-"PHI201807040",53,"Mound Visit"
-"PHI201807200",11,"Mound Visit"
-"PHI201807200",23,"Mound Visit"
-"PHI201807200",25,"Mound Visit"
-"PHI201807200",30,"$Padres challenged call that Myers was picked off after first pitch; call was overturned - safe on pitckoff attempt"
-"PHI201807200",39,"Mound Visit"
-"PHI201807200",40,"Mound Visit"
-"PHI201807200",58,"Mound Visit"
-"PHI201807200",76,"Mound Visit"
-"PHI201807200",80,"Mound Visit"
-"PHI201807200",81,"Injury Delay $Manuel Margot caught ball on diving catch, but dropped it when he hit the ground and bent his rest badly, leaving game"
-"PHI201807221",6,"Mound Visit $Phillies challenged call that Renfroe was safe at home; call was upheld - safe at home"
-"PHI201807221",9,"$Umpire review; call upheld - home run"
-"PHI201807221",12,"Mound Visit"
-"PHI201807221",22,"$Fan interference"
-"PHI201807221",42,"Injury Delay"
-"PHI201807221",48,"Mound Visit"
-"PHI201807221",50,"Injury Delay"
-"PHI201807221",51,"$Edubray Ramos left with 2-1 count on Reyes with a knee injury; place on DL following day"
-"PHI201807221",57,"On-field Delay"
-"PHI201807221",79,"Mound Visit"
-"PHI201807222",26,"Mound Visit"
-"PHI201807222",36,"Mound Visit"
-"PHI201807222",38,"Mound Visit"
-"PHI201807222",41,"Mound Visit"
-"PHI201807222",51,"Mound Visit"
-"PHI201807222",66,"Mound Visit"
-"PHI201807230",5,"Mound Visit"
-"PHI201807230",24,"Mound Visit"
-"PHI201807230",46,"Mound Visit"
-"PHI201807230",63,"Mound Visit"
-"PHI201807230",71,"Mound Visit"
-"PHI201807230",73,"Mound Visit"
-"PHI201807240",34,"Mound Visit"
-"PHI201807240",59,"$Umpire review of foul ball hit by Muncy on first pitch; call was upheld - foul ball, not home run"
-"PHI201807240",68,"Mound Visit"
-"PHI201807240",69,"Mound Visit"
-"PHI201807240",73,"On-field Delay"
-"PHI201807240",75,"umpchange,10,umphome,cuzzp901 umpchange,10,ump2b,(None) $Umpire Hallion hurt by foul ball to mask in top of inning; left game here"
-"PHI201807240",82,"$Fan interference"
-"PHI201807240",106,"Mound Visit"
-"PHI201807240",107,"Mound Visit"
-"PHI201807240",117,"Mound Visit"
-"PHI201807250",32,"On-field Delay $Phillies challenged call that Hernandez was safe at 3rd; call was overturned - out trying to advance"
-"PHI201807250",36,"$Umpire review of ball hit by Kingery; call was upheld - home run"
-"PHI201807250",39,"Mound Visit"
-"PHI201807250",40,"Mound Visit"
-"PHI201807250",48,"Mound Visit"
-"PHI201807250",61,"Mound Visit"
-"PHI201807250",73,"Mound Visit"
-"PHI201808020",40,"Mound Visit"
-"PHI201808020",66,"Mound Visit"
-"PHI201808020",67,"$Phillies challenged call that first pitch to Williams was a ball, claiming it hit him; call was upheld - ball, not hit by pitch"
-"PHI201808030",26,"Injury Delay"
-"PHI201808030",39,"$Phillies challenged call that Sierra was safe at first; call was overturned - ground out"
-"PHI201808030",47,"Mound Visit $Phillies challenged call that Anderson was safe on error; call was overturned - ground out"
-"PHI201808030",48,"Mound Visit"
-"PHI201808030",48,"Injury Delay"
-"PHI201808030",54,"Mound Visit"
-"PHI201808030",58,"Injury Delay"
-"PHI201808030",61,"Mound Visit"
-"PHI201808030",66,"Mound Visit"
-"PHI201808030",74,"Mound Visit Injury Delay"
-"PHI201808040",18,"Mound Visit"
-"PHI201808040",48,"Mound Visit"
-"PHI201808040",70,"Mound Visit"
-"PHI201808050",47,"Mound Visit"
-"PHI201808050",51,"Mound Visit"
-"PHI201808050",54,"Mound Visit"
-"PHI201808140",51,"Mound Visit"
-"PHI201808140",56,"On-field Delay $Herrera swung and missed a pitch that hit him on the foot; by rule it is a strike"
-"PHI201808140",58,"Mound Visit"
-"PHI201808140",65,"Mound Visit"
-"PHI201808150",15,"On-field Delay"
-"PHI201808150",21,"Mound Visit"
-"PHI201808150",23,"Mound Visit"
-"PHI201808150",24,"Mound Visit"
-"PHI201808150",36,"Mound Visit"
-"PHI201808150",42,"Injury Delay"
-"PHI201808150",51,"Mound Visit"
-"PHI201808150",52,"$Phillies challenged call that Pearse was safe at first; call was overturned - ground out"
-"PHI201808150",55,"Mound Visit"
-"PHI201808150",65,"Mound Visit"
-"PHI201808150",73,"Mound Visit"
-"PHI201808150",74,"Mound Visit"
-"PHI201808161",17,"Mound Visit"
-"PHI201808161",23,"Mound Visit"
-"PHI201808161",25,"Mound Visit"
-"PHI201808161",26,"On-field Delay"
-"PHI201808161",26,"$Brandon Nimmo left with an injured hand"
-"PHI201808161",33,"Mound Visit"
-"PHI201808161",44,"Mound Visit"
-"PHI201808161",52,"Mound Visit"
-"PHI201808161",85,"Mound Visit"
-"PHI201808161",87,"Mound Visit"
-"PHI201808162",11,"Mound Visit"
-"PHI201808162",22,"Mound Visit"
-"PHI201808162",25,"$Mets challenged call that Hernandez was safe at home; call was upheld - stolen base; he broke for home while Williams was in rundown between first and second; both runners credited with stolen bases"
-"PHI201808162",56,"Injury Delay"
-"PHI201808162",60,"$Phillies challnged call that ball hit by Williams was caught; call was overturned - trapped for single"
-"PHI201808162",66,"Mound Visit"
-"PHI201808162",81,"Mound Visit"
-"PHI201808162",83,"Mound Visit"
-"PHI201808170",57,"Mound Visit"
-"PHI201808170",68,"Mound Visit"
-"PHI201808180",27,"Injury Delay"
-"PHI201808180",54,"Mound Visit"
-"PHI201808180",58,"Mound Visit"
-"PHI201808180",59,"$Mets challenged call that Herrera was safe at second; call was upheld - force out and batter out advancing"
-"PHI201808190",0,"$Game played at Bowman Field in Williamsport, PA in conjunction with the Little League World Series"
-"PHI201808190",11,"Mound Visit"
-"PHI201808190",27,"Injury Delay"
-"PHI201808190",31,"Mound Visit"
-"PHI201808190",51,"Mound Visit"
-"PHI201808190",52,"Mound Visit"
-"PHI201808270",25,"Mound Visit"
-"PHI201808270",31,"Mound Visit"
-"PHI201808270",34,"$Nationals challenged call at plate, claiming catcher was not on the plate when he took the throw; call was upheld - force out"
-"PHI201808270",50,"Mound Visit"
-"PHI201808270",53,"Mound Visit"
-"PHI201808270",57,"Mound Visit"
-"PHI201808270",74,"Mound Visit"
-"PHI201808280",48,"Mound Visit"
-"PHI201808280",52,"Mound Visit"
-"PHI201808280",54,"On-field Delay ej,reynm001,P,holbs901,Called third strike (Threw equipment) $Reynolds ejected by HP umpire Holbrook for arguing called third strike; he threw his bat and gloves during argument"
-"PHI201808280",61,"Mound Visit"
-"PHI201808280",64,"Mound Visit $Nationals challenged call that Zimmerman was out at 2nd; call was overturned - double"
-"PHI201808280",69,"Mound Visit"
-"PHI201808280",70,"Mound Visit"
-"PHI201808280",71,"$Phillies challenged call that Velasquez was out on appeal for leaving 2nd too soon; call was upheld - out for leaving too soon to complete double play"
-"PHI201808290",24,"Mound Visit"
-"PHI201808290",47,"Mound Visit"
-"PHI201808290",53,"Mound Visit"
-"PHI201808290",55,"Mound Visit"
-"PHI201808290",66,"Injury Delay"
-"PHI201808290",69,"Mound Visit"
-"PHI201808290",71,"Mound Visit"
-"PHI201808290",73,"Mound Visit"
-"PHI201808290",74,"Mound Visit"
-"PHI201808290",79,"Mound Visit"
-"PHI201808290",81,"Mound Visit"
-"PHI201808310",18,"Mound Visit"
-"PHI201808310",19,"Mound Visit"
-"PHI201808310",49,"Mound Visit"
-"PHI201808310",54,"Mound Visit"
-"PHI201808310",56,"Mound Visit"
-"PHI201808310",60,"$Phillies challenged call that Contreras was safe at 1st; call was upheld - safe on error"
-"PHI201808310",61,"Mound Visit"
-"PHI201808310",70,"Mound Visit"
-"PHI201808310",72,"Mound Visit"
-"PHI201809010",6,"On-field Delay"
-"PHI201809010",33,"Mound Visit"
-"PHI201809010",34,"Mound Visit"
-"PHI201809010",49,"Mound Visit"
-"PHI201809010",61,"On-field Delay"
-"PHI201809010",66,"Injury Delay"
-"PHI201809020",31,"Mound Visit"
-"PHI201809020",42,"Mound Visit"
-"PHI201809020",44,"Mound Visit"
-"PHI201809020",48,"Mound Visit"
-"PHI201809020",50,"Mound Visit $Umpire review ball hit by Happ; call was upheld - triple, not home run"
-"PHI201809020",50,"On-field Delay Mound Visit"
-"PHI201809020",60,"$Phillies challenged call that Schwarber was safe at 1st; call was overturned - ground out"
-"PHI201809020",62,"Mound Visit"
-"PHI201809111",33,"Mound Visit"
-"PHI201809111",34,"Mound Visit"
-"PHI201809111",35,"Mound Visit"
-"PHI201809111",36,"$Nationals challenged call that Harper was out at 1st; call was upheld - out to complete double play"
-"PHI201809111",46,"Mound Visit"
-"PHI201809111",47,"Mound Visit"
-"PHI201809111",55,"Mound Visit"
-"PHI201809111",61,"Mound Visit"
-"PHI201809111",65,"Mound Visit"
-"PHI201809111",67,"Mound Visit"
-"PHI201809111",72,"$Phillies challenged call that Turner was safe at 3rd; call was overturned - out advancing"
-"PHI201809111",73,"Mound Visit"
-"PHI201809111",75,"Mound Visit"
-"PHI201809112",21,"Injury Delay"
-"PHI201809112",41,"Mound Visit"
-"PHI201809112",43,"Mound Visit"
-"PHI201809112",50,"Mound Visit"
-"PHI201809112",53,"Mound Visit"
-"PHI201809112",58,"$Nationals challenged call that Santana was safe at 1st; claiming slide interference; call was overturned - DP on slide interference"
-"PHI201809112",58,"Injury Delay"
-"PHI201809112",58,"$Franco fell into camera well trying to catch foul ball and it was several minutes before he was able to walk back to his dugout; he left with bruised shoulder"
-"PHI201809112",59,"Mound Visit"
-"PHI201809112",60,"$Umpire review of first pitch which had been called foul; call was overturned - ball"
-"PHI201809112",67,"On-field Delay"
-"PHI201809112",68,"Mound Visit"
-"PHI201809112",73,"Mound Visit"
-"PHI201809112",77,"Mound Visit"
-"PHI201809112",78,"Mound Visit"
-"PHI201809112",79,"Mound Visit"
-"PHI201809112",80,"$Originally scored as stolen base, changed to defensive indifference on 09-14-2018"
-"PHI201809112",88,"Mound Visit"
-"PHI201809112",90,"Mound Visit"
-"PHI201809120",6,"Mound Visit"
-"PHI201809120",38,"Injury Delay"
-"PHI201809120",42,"Mound Visit"
-"PHI201809140",9,"$Marlins challenged call that Bautista was safe at 3rd; call was overturned - out on caught stealing"
-"PHI201809140",21,"Mound Visit"
-"PHI201809140",35,"Mound Visit"
-"PHI201809140",43,"Mound Visit"
-"PHI201809140",55,"Mound Visit"
-"PHI201809140",57,"Mound Visit"
-"PHI201809140",58,"Mound Visit"
-"PHI201809140",62,"Mound Visit"
-"PHI201809140",69,"Mound Visit"
-"PHI201809150",12,"Mound Visit"
-"PHI201809150",16,"Mound Visit"
-"PHI201809150",36,"Mound Visit"
-"PHI201809150",39,"Mound Visit"
-"PHI201809150",45,"Mound Visit"
-"PHI201809150",53,"Injury Delay"
-"PHI201809160",26,"Mound Visit"
-"PHI201809160",38,"Injury Delay"
-"PHI201809160",46,"Mound Visit $Jose Urena left with muscle cramps in his hand"
-"PHI201809160",48,"Mound Visit"
-"PHI201809160",60,"Mound Visit"
-"PHI201809160",69,"Mound Visit"
-"PHI201809160",75,"Mound Visit"
-"PHI201809160",78,"Mound Visit"
-"PHI201809170",34,"Mound Visit"
-"PHI201809170",40,"Injury Delay"
-"PHI201809170",41,"Mound Visit"
-"PHI201809170",43,"Mound Visit"
-"PHI201809170",45,"Mound Visit"
-"PHI201809170",62,"Mound Visit"
-"PHI201809170",74,"Mound Visit"
-"PHI201809170",74,"Mound Visit"
-"PHI201809170",78,"Mound Visit"
-"PHI201809180",4,"Phillies challenged call that Conforto was safe on pickoff attempt after 4th pitch; call was upheld - safe on pickoff attempt"
-"PHI201809180",8,"$Mets challenged call tht Quinn was safe at 1st; call was overturned - ground out"
-"PHI201809180",10,"Mound Visit"
-"PHI201809180",22,"On-field Delay $Umpire review ball hit by Matz; call was upheld - home run"
-"PHI201809180",34,"Mound Visit"
-"PHI201809180",47,"Mound Visit"
-"PHI201809180",48,"Mound Visit"
-"PHI201809180",52,"Mound Visit"
-"PHI201809180",57,"Mound Visit"
-"PHI201809190",26,"Mound Visit"
-"PHI201809190",43,"Mound Visit"
-"PHI201809190",48,"Mound Visit"
-"PHI201809190",52,"Injury Delay"
-"PHI201809190",65,"Mound Visit"
-"PHI201809190",73,"Mound Visit"
-"PHI201809280",17,"On-field Delay"
-"PHI201809280",24,"Mound Visit"
-"PHI201809280",30,"Mound Visit"
-"PHI201809280",46,"Mound Visit"
-"PHI201809280",56,"$Phillies challenged call that Markakis was safe at 1st; call was upheld - force out, not double play"
-"PHI201809280",65,"Mound Visit"
-"PHI201809280",68,"Mound Visit"
-"PHI201809280",77,"On-field Delay"
-"PHI201809280",81,"Mound Visit"
-"PHI201809280",82,"$Umpire review of play at plate; call was overturned - out at home"
-"PHI201809280",88,"Mound Visit"
-"PHI201809290",10,"Mound Visit"
-"PHI201809290",47,"Mound Visit"
-"PHI201809290",54,"Mound Visit"
-"PHI201809290",59,"Mound Visit"
-"PHI201809290",60,"Mound Visit"
-"PHI201809290",71,"Mound Visit"
-"PHI201809300",32,"Mound Visit"
-"PHI201809300",46,"Mound Visit"
-"PHI201809300",49,"Mound Visit"
-"PHI201809300",53,"Mound Visit"
+"PHI201804070",43,"$umpires reviewed to see if Franco's ball were a home run; call was upheld - double"FILENAME_TX","LINE_NUMBER_CT"
+
+"PHI201804090",30,"$Reds challenged call that Santana was safe at home; call Was upheld - safe at home"2018PHI.EVN.regular.comment.csv",2
+
+"PHI201804110",63,"$Umpire review to see if Gennett's ball were a home run; call was upheld - double off top of wall"2018PHI.EVN.regular.comment.csv",3
+
+"PHI201804200",68,"$Hoskins was trapped off first and while Pirates were running him down, Herrara broke for home and was caught in a rundown; after Herrera was tagged out, Hoskins was caught between 2nd and 3rd to complete double play"2018PHI.EVN.regular.comment.csv",4
+
+"PHI201804210",42,"$Phillies challenged call that Santana was not hit by pitch; call was overturned - hit by pitch"2018PHI.EVN.regular.comment.csv",5
+
+"PHI201804210",66,"$Pirates challenged call that Altherr was safe at 2nd on force attempt - call was upheld - safe on throwing error"2018PHI.EVN.regular.comment.csv",6
+
+"PHI201804220",90,"$Umpire review to check ball hit by Knapp off top of wall; call was upheld - triple"2018PHI.EVN.regular.comment.csv",7
+
+"PHI201804250",40,"$Diamondbacks challenged call that Hernandez was safe at 3rd; call was overturned - out on caught stealing"2018PHI.EVN.regular.comment.csv",8
+
+"PHI201804270",32,"$Julio Teheran left with injured shoulder"2018PHI.EVN.regular.comment.csv",9
+
+"PHI201804270",67,"$Braves challenged call that Hoskins was safe at first; call was upheld - safe for single"2018PHI.EVN.regular.comment.csv",10
+
+"PHI201804280",19,"$Umpire review to see if Freeman's ball were a home rune; call was upheld - fly out"2018PHI.EVN.regular.comment.csv",11
+
+"PHI201804280",21,"$Braves challenged call that Markakis was out at 3rd; call was overturned - stolen base"2018PHI.EVN.regular.comment.csv",12
+
+"PHI201804280",42,"$J. P. Crawford left with injured elbow"2018PHI.EVN.regular.comment.csv",13
+
+"PHI201804290",77,"$Phillies challenged call that Suzuki was hit by pitch; call was upheld - hit by pitch"2018PHI.EVN.regular.comment.csv",14
+
+"PHI201805080",38,"$Phillies challenged call that Blanco was safe at first on pickoff attempt; call was upheld - safe on pickoff attempt, but Blanco was picked off later in at bat"2018PHI.EVN.regular.comment.csv",15
+
+"PHI201805080",66,"$Giants challenged call that Kingery was safe at 1st; call was overturned - ground out"2018PHI.EVN.regular.comment.csv",16
+
+"PHI201805090",38,"$Phillies challenged call that Kingery was out at 1st; call was overturned - single"2018PHI.EVN.regular.comment.csv",17
+
+"PHI201805110",56,"$Mets challenged call that Smith was out on pickoff; call was upheld - out on pickoff"2018PHI.EVN.regular.comment.csv",18
+
+"PHI201805130",0,"$Rain delay of 59 minutes at start of game"2018PHI.EVN.regular.comment.csv",19
+
+"PHI201805210",70,"$Braves challenged call that Inciarte was out at first; call was upheld - bunt ground out"2018PHI.EVN.regular.comment.csv",20
+
+"PHI201805230",63,"$Braves challenged call that Acuna was out at first; call was upheld - ground out"2018PHI.EVN.regular.comment.csv",21
+
+"PHI201806080",21,"$Dylan Cozens left with an injured leg"2018PHI.EVN.regular.comment.csv",22
+
+"PHI201806080",61,"$Umpire review to check ball hit by Williams; call was upheld - triple"2018PHI.EVN.regular.comment.csv",23
+
+"PHI201806140",10,"$Phillies challenged call that Parra was safe at first; call was overturned - out on pickoff"2018PHI.EVN.regular.comment.csv",24
+
+"PHI201806180",54,"$Umpire review ball hit on 6th pitch; call was upheld - foul, not home run"2018PHI.EVN.regular.comment.csv",25
+
+"PHI201806180",81,"$Cardinals challenged call that Herrara was safe at first for single; call was overturned - ground out"2018PHI.EVN.regular.comment.csv",26
+
+"PHI201806190",38,"$J.P. Crawford left with broken hand from hit by pitch in 4th"2018PHI.EVN.regular.comment.csv",27
+
+"PHI201806200",36,"$Michael Wacha left with an injured side"2018PHI.EVN.regular.comment.csv",28
+
+"PHI201806280",32,"$Phillies challenged call that Alfaro was out at first; call was overturned - single"2018PHI.EVN.regular.comment.csv",29
+
+"PHI201806300",19,"$Vince Velasquez left with an injured arm"2018PHI.EVN.regular.comment.csv",30
+
+"PHI201807010",35,"$Phillies challenged call that Turner was safe at 1st; call was overturned - ground out"2018PHI.EVN.regular.comment.csv",31
+
+"PHI201807030",20,"Mound Visit"2018PHI.EVN.regular.comment.csv",32
+
+"PHI201807030",52,"Mound Visit"2018PHI.EVN.regular.comment.csv",33
+
+"PHI201807030",55,"Mound Visit"2018PHI.EVN.regular.comment.csv",34
+
+"PHI201807030",59,"Mound Visit"2018PHI.EVN.regular.comment.csv",35
+
+"PHI201807030",61,"Mound Visit"2018PHI.EVN.regular.comment.csv",36
+
+"PHI201807030",63,"Mound Visit"2018PHI.EVN.regular.comment.csv",37
+
+"PHI201807030",64,"$Orioles challenged call that Davis was out at first; call was upheld - ground out"2018PHI.EVN.regular.comment.csv",38
+
+"PHI201807030",66,"Mound Visit"2018PHI.EVN.regular.comment.csv",39
+
+"PHI201807040",53,"Mound Visit"2018PHI.EVN.regular.comment.csv",40
+
+"PHI201807200",11,"Mound Visit"2018PHI.EVN.regular.comment.csv",41
+
+"PHI201807200",23,"Mound Visit"2018PHI.EVN.regular.comment.csv",42
+
+"PHI201807200",25,"Mound Visit"2018PHI.EVN.regular.comment.csv",43
+
+"PHI201807200",30,"$Padres challenged call that Myers was picked off after first pitch; call was overturned - safe on pitckoff attempt"2018PHI.EVN.regular.comment.csv",44
+
+"PHI201807200",39,"Mound Visit"2018PHI.EVN.regular.comment.csv",45
+
+"PHI201807200",40,"Mound Visit"2018PHI.EVN.regular.comment.csv",46
+
+"PHI201807200",58,"Mound Visit"2018PHI.EVN.regular.comment.csv",47
+
+"PHI201807200",76,"Mound Visit"2018PHI.EVN.regular.comment.csv",48
+
+"PHI201807200",80,"Mound Visit"2018PHI.EVN.regular.comment.csv",49
+
+"PHI201807200",81,"Injury Delay $Manuel Margot caught ball on diving catch, but dropped it when he hit the ground and bent his rest badly, leaving game"2018PHI.EVN.regular.comment.csv",50
+
+"PHI201807221",6,"Mound Visit $Phillies challenged call that Renfroe was safe at home; call was upheld - safe at home"2018PHI.EVN.regular.comment.csv",51
+
+"PHI201807221",9,"$Umpire review; call upheld - home run"2018PHI.EVN.regular.comment.csv",52
+
+"PHI201807221",12,"Mound Visit"2018PHI.EVN.regular.comment.csv",53
+
+"PHI201807221",22,"$Fan interference"2018PHI.EVN.regular.comment.csv",54
+
+"PHI201807221",42,"Injury Delay"2018PHI.EVN.regular.comment.csv",55
+
+"PHI201807221",48,"Mound Visit"2018PHI.EVN.regular.comment.csv",56
+
+"PHI201807221",50,"Injury Delay"2018PHI.EVN.regular.comment.csv",57
+
+"PHI201807221",51,"$Edubray Ramos left with 2-1 count on Reyes with a knee injury; place on DL following day"2018PHI.EVN.regular.comment.csv",58
+
+"PHI201807221",57,"On-field Delay"2018PHI.EVN.regular.comment.csv",59
+
+"PHI201807221",79,"Mound Visit"2018PHI.EVN.regular.comment.csv",60
+
+"PHI201807222",26,"Mound Visit"2018PHI.EVN.regular.comment.csv",61
+
+"PHI201807222",36,"Mound Visit"2018PHI.EVN.regular.comment.csv",62
+
+"PHI201807222",38,"Mound Visit"2018PHI.EVN.regular.comment.csv",63
+
+"PHI201807222",41,"Mound Visit"2018PHI.EVN.regular.comment.csv",64
+
+"PHI201807222",51,"Mound Visit"2018PHI.EVN.regular.comment.csv",65
+
+"PHI201807222",66,"Mound Visit"2018PHI.EVN.regular.comment.csv",66
+
+"PHI201807230",5,"Mound Visit"2018PHI.EVN.regular.comment.csv",67
+
+"PHI201807230",24,"Mound Visit"2018PHI.EVN.regular.comment.csv",68
+
+"PHI201807230",46,"Mound Visit"2018PHI.EVN.regular.comment.csv",69
+
+"PHI201807230",63,"Mound Visit"2018PHI.EVN.regular.comment.csv",70
+
+"PHI201807230",71,"Mound Visit"2018PHI.EVN.regular.comment.csv",71
+
+"PHI201807230",73,"Mound Visit"2018PHI.EVN.regular.comment.csv",72
+
+"PHI201807240",34,"Mound Visit"2018PHI.EVN.regular.comment.csv",73
+
+"PHI201807240",59,"$Umpire review of foul ball hit by Muncy on first pitch; call was upheld - foul ball, not home run"2018PHI.EVN.regular.comment.csv",74
+
+"PHI201807240",68,"Mound Visit"2018PHI.EVN.regular.comment.csv",75
+
+"PHI201807240",69,"Mound Visit"2018PHI.EVN.regular.comment.csv",76
+
+"PHI201807240",73,"On-field Delay"2018PHI.EVN.regular.comment.csv",77
+
+"PHI201807240",75,"umpchange,10,umphome,cuzzp901 umpchange,10,ump2b,(None) $Umpire Hallion hurt by foul ball to mask in top of inning; left game here"2018PHI.EVN.regular.comment.csv",78
+
+"PHI201807240",82,"$Fan interference"2018PHI.EVN.regular.comment.csv",79
+
+"PHI201807240",106,"Mound Visit"2018PHI.EVN.regular.comment.csv",80
+
+"PHI201807240",107,"Mound Visit"2018PHI.EVN.regular.comment.csv",81
+
+"PHI201807240",117,"Mound Visit"2018PHI.EVN.regular.comment.csv",82
+
+"PHI201807250",32,"On-field Delay $Phillies challenged call that Hernandez was safe at 3rd; call was overturned - out trying to advance"2018PHI.EVN.regular.comment.csv",83
+
+"PHI201807250",36,"$Umpire review of ball hit by Kingery; call was upheld - home run"2018PHI.EVN.regular.comment.csv",84
+
+"PHI201807250",39,"Mound Visit"2018PHI.EVN.regular.comment.csv",85
+
+"PHI201807250",40,"Mound Visit"2018PHI.EVN.regular.comment.csv",86
+
+"PHI201807250",48,"Mound Visit"2018PHI.EVN.regular.comment.csv",87
+
+"PHI201807250",61,"Mound Visit"2018PHI.EVN.regular.comment.csv",88
+
+"PHI201807250",73,"Mound Visit"2018PHI.EVN.regular.comment.csv",89
+
+"PHI201808020",40,"Mound Visit"2018PHI.EVN.regular.comment.csv",90
+
+"PHI201808020",66,"Mound Visit"2018PHI.EVN.regular.comment.csv",91
+
+"PHI201808020",67,"$Phillies challenged call that first pitch to Williams was a ball, claiming it hit him; call was upheld - ball, not hit by pitch"2018PHI.EVN.regular.comment.csv",92
+
+"PHI201808030",26,"Injury Delay"2018PHI.EVN.regular.comment.csv",93
+
+"PHI201808030",39,"$Phillies challenged call that Sierra was safe at first; call was overturned - ground out"2018PHI.EVN.regular.comment.csv",94
+
+"PHI201808030",47,"Mound Visit $Phillies challenged call that Anderson was safe on error; call was overturned - ground out"2018PHI.EVN.regular.comment.csv",95
+
+"PHI201808030",48,"Mound Visit"2018PHI.EVN.regular.comment.csv",96
+
+"PHI201808030",48,"Injury Delay"2018PHI.EVN.regular.comment.csv",97
+
+"PHI201808030",54,"Mound Visit"2018PHI.EVN.regular.comment.csv",98
+
+"PHI201808030",58,"Injury Delay"2018PHI.EVN.regular.comment.csv",99
+
+"PHI201808030",61,"Mound Visit"2018PHI.EVN.regular.comment.csv",100
+
+"PHI201808030",66,"Mound Visit"2018PHI.EVN.regular.comment.csv",101
+
+"PHI201808030",74,"Mound Visit Injury Delay"2018PHI.EVN.regular.comment.csv",102
+
+"PHI201808040",18,"Mound Visit"2018PHI.EVN.regular.comment.csv",103
+
+"PHI201808040",48,"Mound Visit"2018PHI.EVN.regular.comment.csv",104
+
+"PHI201808040",70,"Mound Visit"2018PHI.EVN.regular.comment.csv",105
+
+"PHI201808050",47,"Mound Visit"2018PHI.EVN.regular.comment.csv",106
+
+"PHI201808050",51,"Mound Visit"2018PHI.EVN.regular.comment.csv",107
+
+"PHI201808050",54,"Mound Visit"2018PHI.EVN.regular.comment.csv",108
+
+"PHI201808140",51,"Mound Visit"2018PHI.EVN.regular.comment.csv",109
+
+"PHI201808140",56,"On-field Delay $Herrera swung and missed a pitch that hit him on the foot; by rule it is a strike"2018PHI.EVN.regular.comment.csv",110
+
+"PHI201808140",58,"Mound Visit"2018PHI.EVN.regular.comment.csv",111
+
+"PHI201808140",65,"Mound Visit"2018PHI.EVN.regular.comment.csv",112
+
+"PHI201808150",15,"On-field Delay"2018PHI.EVN.regular.comment.csv",113
+
+"PHI201808150",21,"Mound Visit"2018PHI.EVN.regular.comment.csv",114
+
+"PHI201808150",23,"Mound Visit"2018PHI.EVN.regular.comment.csv",115
+
+"PHI201808150",24,"Mound Visit"2018PHI.EVN.regular.comment.csv",116
+
+"PHI201808150",36,"Mound Visit"2018PHI.EVN.regular.comment.csv",117
+
+"PHI201808150",42,"Injury Delay"2018PHI.EVN.regular.comment.csv",118
+
+"PHI201808150",51,"Mound Visit"2018PHI.EVN.regular.comment.csv",119
+
+"PHI201808150",52,"$Phillies challenged call that Pearse was safe at first; call was overturned - ground out"2018PHI.EVN.regular.comment.csv",120
+
+"PHI201808150",55,"Mound Visit"2018PHI.EVN.regular.comment.csv",121
+
+"PHI201808150",65,"Mound Visit"2018PHI.EVN.regular.comment.csv",122
+
+"PHI201808150",73,"Mound Visit"2018PHI.EVN.regular.comment.csv",123
+
+"PHI201808150",74,"Mound Visit"2018PHI.EVN.regular.comment.csv",124
+
+"PHI201808161",17,"Mound Visit"2018PHI.EVN.regular.comment.csv",125
+
+"PHI201808161",23,"Mound Visit"2018PHI.EVN.regular.comment.csv",126
+
+"PHI201808161",25,"Mound Visit"2018PHI.EVN.regular.comment.csv",127
+
+"PHI201808161",26,"On-field Delay"2018PHI.EVN.regular.comment.csv",128
+
+"PHI201808161",26,"$Brandon Nimmo left with an injured hand"2018PHI.EVN.regular.comment.csv",129
+
+"PHI201808161",33,"Mound Visit"2018PHI.EVN.regular.comment.csv",130
+
+"PHI201808161",44,"Mound Visit"2018PHI.EVN.regular.comment.csv",131
+
+"PHI201808161",52,"Mound Visit"2018PHI.EVN.regular.comment.csv",132
+
+"PHI201808161",85,"Mound Visit"2018PHI.EVN.regular.comment.csv",133
+
+"PHI201808161",87,"Mound Visit"2018PHI.EVN.regular.comment.csv",134
+
+"PHI201808162",11,"Mound Visit"2018PHI.EVN.regular.comment.csv",135
+
+"PHI201808162",22,"Mound Visit"2018PHI.EVN.regular.comment.csv",136
+
+"PHI201808162",25,"$Mets challenged call that Hernandez was safe at home; call was upheld - stolen base; he broke for home while Williams was in rundown between first and second; both runners credited with stolen bases"2018PHI.EVN.regular.comment.csv",137
+
+"PHI201808162",56,"Injury Delay"2018PHI.EVN.regular.comment.csv",138
+
+"PHI201808162",60,"$Phillies challnged call that ball hit by Williams was caught; call was overturned - trapped for single"2018PHI.EVN.regular.comment.csv",139
+
+"PHI201808162",66,"Mound Visit"2018PHI.EVN.regular.comment.csv",140
+
+"PHI201808162",81,"Mound Visit"2018PHI.EVN.regular.comment.csv",141
+
+"PHI201808162",83,"Mound Visit"2018PHI.EVN.regular.comment.csv",142
+
+"PHI201808170",57,"Mound Visit"2018PHI.EVN.regular.comment.csv",143
+
+"PHI201808170",68,"Mound Visit"2018PHI.EVN.regular.comment.csv",144
+
+"PHI201808180",27,"Injury Delay"2018PHI.EVN.regular.comment.csv",145
+
+"PHI201808180",54,"Mound Visit"2018PHI.EVN.regular.comment.csv",146
+
+"PHI201808180",58,"Mound Visit"2018PHI.EVN.regular.comment.csv",147
+
+"PHI201808180",59,"$Mets challenged call that Herrera was safe at second; call was upheld - force out and batter out advancing"2018PHI.EVN.regular.comment.csv",148
+
+"PHI201808190",0,"$Game played at Bowman Field in Williamsport, PA in conjunction with the Little League World Series"2018PHI.EVN.regular.comment.csv",149
+
+"PHI201808190",11,"Mound Visit"2018PHI.EVN.regular.comment.csv",150
+
+"PHI201808190",27,"Injury Delay"2018PHI.EVN.regular.comment.csv",151
+
+"PHI201808190",31,"Mound Visit"2018PHI.EVN.regular.comment.csv",152
+
+"PHI201808190",51,"Mound Visit"2018PHI.EVN.regular.comment.csv",153
+
+"PHI201808190",52,"Mound Visit"2018PHI.EVN.regular.comment.csv",154
+
+"PHI201808270",25,"Mound Visit"2018PHI.EVN.regular.comment.csv",155
+
+"PHI201808270",31,"Mound Visit"2018PHI.EVN.regular.comment.csv",156
+
+"PHI201808270",34,"$Nationals challenged call at plate, claiming catcher was not on the plate when he took the throw; call was upheld - force out"2018PHI.EVN.regular.comment.csv",157
+
+"PHI201808270",50,"Mound Visit"2018PHI.EVN.regular.comment.csv",158
+
+"PHI201808270",53,"Mound Visit"2018PHI.EVN.regular.comment.csv",159
+
+"PHI201808270",57,"Mound Visit"2018PHI.EVN.regular.comment.csv",160
+
+"PHI201808270",74,"Mound Visit"2018PHI.EVN.regular.comment.csv",161
+
+"PHI201808280",48,"Mound Visit"2018PHI.EVN.regular.comment.csv",162
+
+"PHI201808280",52,"Mound Visit"2018PHI.EVN.regular.comment.csv",163
+
+"PHI201808280",54,"On-field Delay ej,reynm001,P,holbs901,Called third strike (Threw equipment) $Reynolds ejected by HP umpire Holbrook for arguing called third strike; he threw his bat and gloves during argument"2018PHI.EVN.regular.comment.csv",164
+
+"PHI201808280",61,"Mound Visit"2018PHI.EVN.regular.comment.csv",165
+
+"PHI201808280",64,"Mound Visit $Nationals challenged call that Zimmerman was out at 2nd; call was overturned - double"2018PHI.EVN.regular.comment.csv",166
+
+"PHI201808280",69,"Mound Visit"2018PHI.EVN.regular.comment.csv",167
+
+"PHI201808280",70,"Mound Visit"2018PHI.EVN.regular.comment.csv",168
+
+"PHI201808280",71,"$Phillies challenged call that Velasquez was out on appeal for leaving 2nd too soon; call was upheld - out for leaving too soon to complete double play"2018PHI.EVN.regular.comment.csv",169
+
+"PHI201808290",24,"Mound Visit"2018PHI.EVN.regular.comment.csv",170
+
+"PHI201808290",47,"Mound Visit"2018PHI.EVN.regular.comment.csv",171
+
+"PHI201808290",53,"Mound Visit"2018PHI.EVN.regular.comment.csv",172
+
+"PHI201808290",55,"Mound Visit"2018PHI.EVN.regular.comment.csv",173
+
+"PHI201808290",66,"Injury Delay"2018PHI.EVN.regular.comment.csv",174
+
+"PHI201808290",69,"Mound Visit"2018PHI.EVN.regular.comment.csv",175
+
+"PHI201808290",71,"Mound Visit"2018PHI.EVN.regular.comment.csv",176
+
+"PHI201808290",73,"Mound Visit"2018PHI.EVN.regular.comment.csv",177
+
+"PHI201808290",74,"Mound Visit"2018PHI.EVN.regular.comment.csv",178
+
+"PHI201808290",79,"Mound Visit"2018PHI.EVN.regular.comment.csv",179
+
+"PHI201808290",81,"Mound Visit"2018PHI.EVN.regular.comment.csv",180
+
+"PHI201808310",18,"Mound Visit"2018PHI.EVN.regular.comment.csv",181
+
+"PHI201808310",19,"Mound Visit"2018PHI.EVN.regular.comment.csv",182
+
+"PHI201808310",49,"Mound Visit"2018PHI.EVN.regular.comment.csv",183
+
+"PHI201808310",54,"Mound Visit"2018PHI.EVN.regular.comment.csv",184
+
+"PHI201808310",56,"Mound Visit"2018PHI.EVN.regular.comment.csv",185
+
+"PHI201808310",60,"$Phillies challenged call that Contreras was safe at 1st; call was upheld - safe on error"2018PHI.EVN.regular.comment.csv",186
+
+"PHI201808310",61,"Mound Visit"2018PHI.EVN.regular.comment.csv",187
+
+"PHI201808310",70,"Mound Visit"2018PHI.EVN.regular.comment.csv",188
+
+"PHI201808310",72,"Mound Visit"2018PHI.EVN.regular.comment.csv",189
+
+"PHI201809010",6,"On-field Delay"2018PHI.EVN.regular.comment.csv",190
+
+"PHI201809010",33,"Mound Visit"2018PHI.EVN.regular.comment.csv",191
+
+"PHI201809010",34,"Mound Visit"2018PHI.EVN.regular.comment.csv",192
+
+"PHI201809010",49,"Mound Visit"2018PHI.EVN.regular.comment.csv",193
+
+"PHI201809010",61,"On-field Delay"2018PHI.EVN.regular.comment.csv",194
+
+"PHI201809010",66,"Injury Delay"2018PHI.EVN.regular.comment.csv",195
+
+"PHI201809020",31,"Mound Visit"2018PHI.EVN.regular.comment.csv",196
+
+"PHI201809020",42,"Mound Visit"2018PHI.EVN.regular.comment.csv",197
+
+"PHI201809020",44,"Mound Visit"2018PHI.EVN.regular.comment.csv",198
+
+"PHI201809020",48,"Mound Visit"2018PHI.EVN.regular.comment.csv",199
+
+"PHI201809020",50,"Mound Visit $Umpire review ball hit by Happ; call was upheld - triple, not home run"2018PHI.EVN.regular.comment.csv",200
+
+"PHI201809020",50,"On-field Delay Mound Visit"2018PHI.EVN.regular.comment.csv",201
+
+"PHI201809020",60,"$Phillies challenged call that Schwarber was safe at 1st; call was overturned - ground out"2018PHI.EVN.regular.comment.csv",202
+
+"PHI201809020",62,"Mound Visit"2018PHI.EVN.regular.comment.csv",203
+
+"PHI201809111",33,"Mound Visit"2018PHI.EVN.regular.comment.csv",204
+
+"PHI201809111",34,"Mound Visit"2018PHI.EVN.regular.comment.csv",205
+
+"PHI201809111",35,"Mound Visit"2018PHI.EVN.regular.comment.csv",206
+
+"PHI201809111",36,"$Nationals challenged call that Harper was out at 1st; call was upheld - out to complete double play"2018PHI.EVN.regular.comment.csv",207
+
+"PHI201809111",46,"Mound Visit"2018PHI.EVN.regular.comment.csv",208
+
+"PHI201809111",47,"Mound Visit"2018PHI.EVN.regular.comment.csv",209
+
+"PHI201809111",55,"Mound Visit"2018PHI.EVN.regular.comment.csv",210
+
+"PHI201809111",61,"Mound Visit"2018PHI.EVN.regular.comment.csv",211
+
+"PHI201809111",65,"Mound Visit"2018PHI.EVN.regular.comment.csv",212
+
+"PHI201809111",67,"Mound Visit"2018PHI.EVN.regular.comment.csv",213
+
+"PHI201809111",72,"$Phillies challenged call that Turner was safe at 3rd; call was overturned - out advancing"2018PHI.EVN.regular.comment.csv",214
+
+"PHI201809111",73,"Mound Visit"2018PHI.EVN.regular.comment.csv",215
+
+"PHI201809111",75,"Mound Visit"2018PHI.EVN.regular.comment.csv",216
+
+"PHI201809112",21,"Injury Delay"2018PHI.EVN.regular.comment.csv",217
+
+"PHI201809112",41,"Mound Visit"2018PHI.EVN.regular.comment.csv",218
+
+"PHI201809112",43,"Mound Visit"2018PHI.EVN.regular.comment.csv",219
+
+"PHI201809112",50,"Mound Visit"2018PHI.EVN.regular.comment.csv",220
+
+"PHI201809112",53,"Mound Visit"2018PHI.EVN.regular.comment.csv",221
+
+"PHI201809112",58,"$Nationals challenged call that Santana was safe at 1st; claiming slide interference; call was overturned - DP on slide interference"2018PHI.EVN.regular.comment.csv",222
+
+"PHI201809112",58,"Injury Delay"2018PHI.EVN.regular.comment.csv",223
+
+"PHI201809112",58,"$Franco fell into camera well trying to catch foul ball and it was several minutes before he was able to walk back to his dugout; he left with bruised shoulder"2018PHI.EVN.regular.comment.csv",224
+
+"PHI201809112",59,"Mound Visit"2018PHI.EVN.regular.comment.csv",225
+
+"PHI201809112",60,"$Umpire review of first pitch which had been called foul; call was overturned - ball"2018PHI.EVN.regular.comment.csv",226
+
+"PHI201809112",67,"On-field Delay"2018PHI.EVN.regular.comment.csv",227
+
+"PHI201809112",68,"Mound Visit"2018PHI.EVN.regular.comment.csv",228
+
+"PHI201809112",73,"Mound Visit"2018PHI.EVN.regular.comment.csv",229
+
+"PHI201809112",77,"Mound Visit"2018PHI.EVN.regular.comment.csv",230
+
+"PHI201809112",78,"Mound Visit"2018PHI.EVN.regular.comment.csv",231
+
+"PHI201809112",79,"Mound Visit"2018PHI.EVN.regular.comment.csv",232
+
+"PHI201809112",80,"$Originally scored as stolen base, changed to defensive indifference on 09-14-2018"2018PHI.EVN.regular.comment.csv",233
+
+"PHI201809112",88,"Mound Visit"2018PHI.EVN.regular.comment.csv",234
+
+"PHI201809112",90,"Mound Visit"2018PHI.EVN.regular.comment.csv",235
+
+"PHI201809120",6,"Mound Visit"2018PHI.EVN.regular.comment.csv",236
+
+"PHI201809120",38,"Injury Delay"2018PHI.EVN.regular.comment.csv",237
+
+"PHI201809120",42,"Mound Visit"2018PHI.EVN.regular.comment.csv",238
+
+"PHI201809140",9,"$Marlins challenged call that Bautista was safe at 3rd; call was overturned - out on caught stealing"2018PHI.EVN.regular.comment.csv",239
+
+"PHI201809140",21,"Mound Visit"2018PHI.EVN.regular.comment.csv",240
+
+"PHI201809140",35,"Mound Visit"2018PHI.EVN.regular.comment.csv",241
+
+"PHI201809140",43,"Mound Visit"2018PHI.EVN.regular.comment.csv",242
+
+"PHI201809140",55,"Mound Visit"2018PHI.EVN.regular.comment.csv",243
+
+"PHI201809140",57,"Mound Visit"2018PHI.EVN.regular.comment.csv",244
+
+"PHI201809140",58,"Mound Visit"2018PHI.EVN.regular.comment.csv",245
+
+"PHI201809140",62,"Mound Visit"2018PHI.EVN.regular.comment.csv",246
+
+"PHI201809140",69,"Mound Visit"2018PHI.EVN.regular.comment.csv",247
+
+"PHI201809150",12,"Mound Visit"2018PHI.EVN.regular.comment.csv",248
+
+"PHI201809150",16,"Mound Visit"2018PHI.EVN.regular.comment.csv",249
+
+"PHI201809150",36,"Mound Visit"2018PHI.EVN.regular.comment.csv",250
+
+"PHI201809150",39,"Mound Visit"2018PHI.EVN.regular.comment.csv",251
+
+"PHI201809150",45,"Mound Visit"2018PHI.EVN.regular.comment.csv",252
+
+"PHI201809150",53,"Injury Delay"2018PHI.EVN.regular.comment.csv",253
+
+"PHI201809160",26,"Mound Visit"2018PHI.EVN.regular.comment.csv",254
+
+"PHI201809160",38,"Injury Delay"2018PHI.EVN.regular.comment.csv",255
+
+"PHI201809160",46,"Mound Visit $Jose Urena left with muscle cramps in his hand"2018PHI.EVN.regular.comment.csv",256
+
+"PHI201809160",48,"Mound Visit"2018PHI.EVN.regular.comment.csv",257
+
+"PHI201809160",60,"Mound Visit"2018PHI.EVN.regular.comment.csv",258
+
+"PHI201809160",69,"Mound Visit"2018PHI.EVN.regular.comment.csv",259
+
+"PHI201809160",75,"Mound Visit"2018PHI.EVN.regular.comment.csv",260
+
+"PHI201809160",78,"Mound Visit"2018PHI.EVN.regular.comment.csv",261
+
+"PHI201809170",34,"Mound Visit"2018PHI.EVN.regular.comment.csv",262
+
+"PHI201809170",40,"Injury Delay"2018PHI.EVN.regular.comment.csv",263
+
+"PHI201809170",41,"Mound Visit"2018PHI.EVN.regular.comment.csv",264
+
+"PHI201809170",43,"Mound Visit"2018PHI.EVN.regular.comment.csv",265
+
+"PHI201809170",45,"Mound Visit"2018PHI.EVN.regular.comment.csv",266
+
+"PHI201809170",62,"Mound Visit"2018PHI.EVN.regular.comment.csv",267
+
+"PHI201809170",74,"Mound Visit"2018PHI.EVN.regular.comment.csv",268
+
+"PHI201809170",74,"Mound Visit"2018PHI.EVN.regular.comment.csv",269
+
+"PHI201809170",78,"Mound Visit"2018PHI.EVN.regular.comment.csv",270
+
+"PHI201809180",4,"Phillies challenged call that Conforto was safe on pickoff attempt after 4th pitch; call was upheld - safe on pickoff attempt"2018PHI.EVN.regular.comment.csv",271
+
+"PHI201809180",8,"$Mets challenged call tht Quinn was safe at 1st; call was overturned - ground out"2018PHI.EVN.regular.comment.csv",272
+
+"PHI201809180",10,"Mound Visit"2018PHI.EVN.regular.comment.csv",273
+
+"PHI201809180",22,"On-field Delay $Umpire review ball hit by Matz; call was upheld - home run"2018PHI.EVN.regular.comment.csv",274
+
+"PHI201809180",34,"Mound Visit"2018PHI.EVN.regular.comment.csv",275
+
+"PHI201809180",47,"Mound Visit"2018PHI.EVN.regular.comment.csv",276
+
+"PHI201809180",48,"Mound Visit"2018PHI.EVN.regular.comment.csv",277
+
+"PHI201809180",52,"Mound Visit"2018PHI.EVN.regular.comment.csv",278
+
+"PHI201809180",57,"Mound Visit"2018PHI.EVN.regular.comment.csv",279
+
+"PHI201809190",26,"Mound Visit"2018PHI.EVN.regular.comment.csv",280
+
+"PHI201809190",43,"Mound Visit"2018PHI.EVN.regular.comment.csv",281
+
+"PHI201809190",48,"Mound Visit"2018PHI.EVN.regular.comment.csv",282
+
+"PHI201809190",52,"Injury Delay"2018PHI.EVN.regular.comment.csv",283
+
+"PHI201809190",65,"Mound Visit"2018PHI.EVN.regular.comment.csv",284
+
+"PHI201809190",73,"Mound Visit"2018PHI.EVN.regular.comment.csv",285
+
+"PHI201809280",17,"On-field Delay"2018PHI.EVN.regular.comment.csv",286
+
+"PHI201809280",24,"Mound Visit"2018PHI.EVN.regular.comment.csv",287
+
+"PHI201809280",30,"Mound Visit"2018PHI.EVN.regular.comment.csv",288
+
+"PHI201809280",46,"Mound Visit"2018PHI.EVN.regular.comment.csv",289
+
+"PHI201809280",56,"$Phillies challenged call that Markakis was safe at 1st; call was upheld - force out, not double play"2018PHI.EVN.regular.comment.csv",290
+
+"PHI201809280",65,"Mound Visit"2018PHI.EVN.regular.comment.csv",291
+
+"PHI201809280",68,"Mound Visit"2018PHI.EVN.regular.comment.csv",292
+
+"PHI201809280",77,"On-field Delay"2018PHI.EVN.regular.comment.csv",293
+
+"PHI201809280",81,"Mound Visit"2018PHI.EVN.regular.comment.csv",294
+
+"PHI201809280",82,"$Umpire review of play at plate; call was overturned - out at home"2018PHI.EVN.regular.comment.csv",295
+
+"PHI201809280",88,"Mound Visit"2018PHI.EVN.regular.comment.csv",296
+
+"PHI201809290",10,"Mound Visit"2018PHI.EVN.regular.comment.csv",297
+
+"PHI201809290",47,"Mound Visit"2018PHI.EVN.regular.comment.csv",298
+
+"PHI201809290",54,"Mound Visit"2018PHI.EVN.regular.comment.csv",299
+
+"PHI201809290",59,"Mound Visit"2018PHI.EVN.regular.comment.csv",300
+
+"PHI201809290",60,"Mound Visit"2018PHI.EVN.regular.comment.csv",301
+
+"PHI201809290",71,"Mound Visit"2018PHI.EVN.regular.comment.csv",302
+
+"PHI201809300",32,"Mound Visit"2018PHI.EVN.regular.comment.csv",303
+
+"PHI201809300",46,"Mound Visit"2018PHI.EVN.regular.comment.csv",304
+
+"PHI201809300",49,"Mound Visit"2018PHI.EVN.regular.comment.csv",305
+
+"PHI201809300",53,"Mound Visit"2018PHI.EVN.regular.comment.csv",306
+

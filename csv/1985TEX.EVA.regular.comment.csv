@@ -1,45 +1,44 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"TEX198504240",16,"$Cliff Johnson out trying to advance on overthrow"
-"TEX198504240",41,"ej,ripkc801,C,fordd901,Fair/foul call $Orioles coach Ripken ejected by HP umpire Ford arguing that tap hit by Ripken was foul"
-"TEX198504270",57,"ej,wardg001,P,mcclt901,Call at 1B Gary Ward ejected by 1B umpire Tim McClelland"
-"TEX198504290",27,"$Bobby Meacham called out for passing Willie Randolph"
-"TEX198505080",23,"ej,garbb001,P,denkd901,Charging mound after HBP $Barbaro Garbey charged the mound and tackled Mike Mason; both benches cleared; Garbey ejected by HP umpire Don Denkinger"
-"TEX198505200",25,"$Glenn Brummer called for interference with Frank White at 2B"
-"TEX198505260",30,"DV added DP flag - suspicious however"
-"TEX198506280",59,"$Toby Harrah dropped popup; Larry Parrish to Wayne Tolleson for force"
-"TEX198507010",32,"$Glen Cook called for obstruction on Ruppert Jones"
-"TEX198507030",60,"$Oddibe McDowell called for interference for running into his own bunt"
-"TEX198507030",76,"$Juan Beniquez called for interference at 2B"
-"TEX198507060",12,"Debut game for Scotti Madison"
-"TEX198507060",61,"$Glenn Brummer overran 2B"
-"TEX198507060",72,"ej,valeb102,M,mckej901,Balk non-call $Rangers manager Valentine ejected by HP umpire McKean for arguing pitcher had balked with Wright at bat"
-"TEX198507230",15,"ej,corrp102,M,cousd901,Balk non-call $Indians manager Corrales ejected by HP umpire Cousins for arguing pitcher balked with Franco at bat"
-"TEX198508110",41,"ej,dempr001,P,hirsj901,Called third strike ej,weave801,M,hirsj901,Called third strike Rick Dempsey and Orioles manager Earl Weaver ejected by HP umpire John Hirschbeck"
-"TEX198508310",0,"ej,donnr801,C,johnm901,Call at 1B Rangers coach Rich Donnelly ejected by 1B umpire Mark Johnson sometime in game"
-"TEX198509050",51,"$Bryan Little out at 3B before Joel Skinner could score from 2B"
-"TEX198509260",16,"$Don Slaught called for interference for running into his own bunt"
-"TEX198509260",54,"$Kent Hrbek caught Bill Stein with the hidden ball trick"
-"TEX198510040",39,"$Wayne Tolleson rounded 1B after walking"
-"TEX198510060",57,"$pitchout on squeeze attempt"
-"TEX198504240",16,"$Cliff Johnson out trying to advance on overthrow"
-"TEX198504240",41,"ej,ripkc801,C,fordd901,Fair/foul call $Orioles coach Ripken ejected by HP umpire Ford arguing that tap hit by Ripken was foul"
-"TEX198504270",57,"ej,wardg001,P,mcclt901,Call at 1B Gary Ward ejected by 1B umpire Tim McClelland"
-"TEX198504290",27,"$Bobby Meacham called out for passing Willie Randolph"
-"TEX198505080",23,"ej,garbb001,P,denkd901,Charging mound after HBP $Barbaro Garbey charged the mound and tackled Mike Mason; both benches cleared; Garbey ejected by HP umpire Don Denkinger"
-"TEX198505200",25,"$Glenn Brummer called for interference with Frank White at 2B"
-"TEX198505260",30,"DV added DP flag - suspicious however"
-"TEX198506280",59,"$Toby Harrah dropped popup; Larry Parrish to Wayne Tolleson for force"
-"TEX198507010",32,"$Glen Cook called for obstruction on Ruppert Jones"
-"TEX198507030",60,"$Oddibe McDowell called for interference for running into his own bunt"
-"TEX198507030",76,"$Juan Beniquez called for interference at 2B"
-"TEX198507060",12,"Debut game for Scotti Madison"
-"TEX198507060",61,"$Glenn Brummer was safe but overran 2B, negating SH"
-"TEX198507060",72,"ej,valeb102,M,mckej901,Balk non-call $Rangers manager Valentine ejected by HP umpire McKean for arguing pitcher had balked with Wright at bat"
-"TEX198507230",15,"ej,corrp102,M,cousd901,Balk non-call $Indians manager Corrales ejected by HP umpire Cousins for arguing pitcher balked with Franco at bat"
-"TEX198508110",41,"ej,dempr001,P,hirsj901,Called third strike ej,weave801,M,hirsj901,Called third strike Rick Dempsey and Orioles manager Earl Weaver ejected by HP umpire John Hirschbeck"
-"TEX198508310",0,"ej,donnr801,C,johnm901,Call at 1B Rangers coach Rich Donnelly ejected by 1B umpire Mark Johnson sometime in game"
-"TEX198509050",51,"$Bryan Little out at 3B before Joel Skinner could score from 2B"
-"TEX198509260",16,"$Don Slaught called for interference for running into his own bunt"
-"TEX198509260",54,"$Kent Hrbek caught Bill Stein with the hidden ball trick"
-"TEX198510040",39,"$Wayne Tolleson rounded 1B after walking"
-"TEX198510060",57,"$pitchout on squeeze attempt"
+"TEX198504240",16,"$Cliff Johnson out trying to advance on overthrow"FILENAME_TX","LINE_NUMBER_CT"
+
+"TEX198504240",41,"ej,ripkc801,C,fordd901,Fair/foul call $Orioles coach Ripken ejected by HP umpire Ford arguing that tap hit by Ripken was foul"1985TEX.EVA.regular.comment.csv",2
+
+"TEX198504270",57,"ej,wardg001,P,mcclt901,Call at 1B Gary Ward ejected by 1B umpire Tim McClelland"1985TEX.EVA.regular.comment.csv",3
+
+"TEX198504290",27,"$Bobby Meacham called out for passing Willie Randolph"1985TEX.EVA.regular.comment.csv",4
+
+"TEX198505080",23,"ej,garbb001,P,denkd901,Charging mound after HBP $Barbaro Garbey charged the mound and tackled Mike Mason; both benches cleared; Garbey ejected by HP umpire Don Denkinger"1985TEX.EVA.regular.comment.csv",5
+
+"TEX198505200",25,"$Glenn Brummer called for interference with Frank White at 2B"1985TEX.EVA.regular.comment.csv",6
+
+"TEX198505260",30,"DV added DP flag - suspicious however"1985TEX.EVA.regular.comment.csv",7
+
+"TEX198506280",59,"$Toby Harrah dropped popup; Larry Parrish to Wayne Tolleson for force"1985TEX.EVA.regular.comment.csv",8
+
+"TEX198507010",32,"$Glen Cook called for obstruction on Ruppert Jones"1985TEX.EVA.regular.comment.csv",9
+
+"TEX198507030",60,"$Oddibe McDowell called for interference for running into his own bunt"1985TEX.EVA.regular.comment.csv",10
+
+"TEX198507030",76,"$Juan Beniquez called for interference at 2B"1985TEX.EVA.regular.comment.csv",11
+
+"TEX198507060",12,"Debut game for Scotti Madison"1985TEX.EVA.regular.comment.csv",12
+
+"TEX198507060",61,"$Glenn Brummer was safe but overran 2B, negating SH"1985TEX.EVA.regular.comment.csv",13
+
+"TEX198507060",72,"ej,valeb102,M,mckej901,Balk non-call $Rangers manager Valentine ejected by HP umpire McKean for arguing pitcher had balked with Wright at bat"1985TEX.EVA.regular.comment.csv",14
+
+"TEX198507230",15,"ej,corrp102,M,cousd901,Balk non-call $Indians manager Corrales ejected by HP umpire Cousins for arguing pitcher balked with Franco at bat"1985TEX.EVA.regular.comment.csv",15
+
+"TEX198508110",41,"ej,dempr001,P,hirsj901,Called third strike ej,weave801,M,hirsj901,Called third strike Rick Dempsey and Orioles manager Earl Weaver ejected by HP umpire John Hirschbeck"1985TEX.EVA.regular.comment.csv",16
+
+"TEX198508310",0,"ej,donnr801,C,johnm901,Call at 1B Rangers coach Rich Donnelly ejected by 1B umpire Mark Johnson sometime in game"1985TEX.EVA.regular.comment.csv",17
+
+"TEX198509050",51,"$Bryan Little out at 3B before Joel Skinner could score from 2B"1985TEX.EVA.regular.comment.csv",18
+
+"TEX198509260",16,"$Don Slaught called for interference for running into his own bunt"1985TEX.EVA.regular.comment.csv",19
+
+"TEX198509260",54,"$Kent Hrbek caught Bill Stein with the hidden ball trick"1985TEX.EVA.regular.comment.csv",20
+
+"TEX198510040",39,"$Wayne Tolleson rounded 1B after walking"1985TEX.EVA.regular.comment.csv",21
+
+"TEX198510060",57,"$pitchout on squeeze attempt"1985TEX.EVA.regular.comment.csv",22
+

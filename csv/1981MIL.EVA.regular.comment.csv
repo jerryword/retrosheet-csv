@@ -1,33 +1,32 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"MIL198104160",59,"ej,hargm001,P,voltv901,Arguing play at 2B $Hargrove ejected by 2B umpire Voltaggio for arguing call at 2B"
-"MIL198104260",79,"Debut game for Danny Garcia"
-"MIL198104270",98,"ej,rodgb102,M,reilm901,Call at HP Brewers Manager Buck Rodgers ejected by HP umpire Mike Reilly arguing that SS Alfredo Griffin dropped the ball tagging Paul Molitor"
-"MIL198104280",0,"Two rain delays: 6:25-7:16 & 8:08-8:43 (innings not known)"
-"MIL198104280",37,"umpchange,5,umphome,reilm901 umpchange,5,ump2b,(None) umpchange,5,ump3b,barnl901 HP umpire DiMuro injured back when he slipped walking down dugout steps during rain delay; 3B umpire Reilly went behind plate, 2B umpire Barnett moved to 3rd and game was finished with 3 umpires"
-"MIL198105230",32,"56 minute rain delay (2:54-3:50) somewhere in this inning"
-"MIL198105250",4,"$Champ Summers injured crashing into wall."
-"MIL198105250",51,"ej,andes101,M,kaisk901,Fair/foul on HR Tigers Manager Sparky Anderson ejected by 3B umpire Ken Kaiser"
-"MIL198105260",21,"$Gorman Thomas left game with stiff lower back"
-"MIL198108220",58,"ej,boslt001,P,coont901,Call at 1B Thad Bosley ejected by 1B umpire Terry Cooney"
-"MIL198108230",14,"$Moose Haas left game due to a stiff neck"
-"MIL198109140",69,"Debut game for Chuck Porter"
-"MIL198109140",76,"Debut game for Frank DiPino"
-"MIL198109290",26,"$Mark Brouhard left with pulled right calf muscle"
-"MIL198109300",11,"1:31 rain delay"
-"MIL198110030",3,"ej,mclic101,C,hallb901,Checked swing $Brewers coach McLish ejected by 3B umpire Haller for arguing that Kemp had struck out on check swing"
-"MIL198104160",59,"ej,hargm001,P,voltv901,Arguing play at 2B $Hargrove ejected by 2B umpire Voltaggio for arguing call at 2B"
-"MIL198104260",79,"Debut game for Danny Garcia"
-"MIL198104270",98,"ej,rodgb102,M,reilm901,Call at HP Brewers Manager Buck Rodgers ejected by HP umpire Mike Reilly arguing that SS Alfredo Griffin dropped the ball tagging Paul Molitor"
-"MIL198104280",0,"Two rain delays: 6:25-7:16 & 8:08-8:43 (innings not known)"
-"MIL198104280",37,"umpchange,5,umphome,reilm901 umpchange,5,ump2b,(None) umpchange,5,ump3b,barnl901 HP umpire DiMuro injured back when he slipped walking down dugout steps during rain delay; 3B umpire Reilly went behind plate, 2B umpire Barnett moved to 3rd and game was finished with 3 umpires"
-"MIL198105230",32,"56 minute rain delay (2:54-3:50) somewhere in this inning"
-"MIL198105250",4,"$Champ Summers injured crashing into wall."
-"MIL198105250",51,"ej,andes101,M,kaisk901,Fair/foul on HR Tigers Manager Sparky Anderson ejected by 3B umpire Ken Kaiser"
-"MIL198105260",21,"$Gorman Thomas left game with stiff lower back"
-"MIL198108220",58,"ej,boslt001,P,coont901,Call at 1B Thad Bosley ejected by 1B umpire Terry Cooney"
-"MIL198108230",14,"$Moose Haas left game due to a stiff neck"
-"MIL198109140",69,"Debut game for Chuck Porter"
-"MIL198109140",76,"Debut game for Frank DiPino"
-"MIL198109290",26,"$Mark Brouhard left with pulled right calf muscle"
-"MIL198109300",11,"1:31 rain delay"
-"MIL198110030",3,"ej,mclic101,C,hallb901,Checked swing $Brewers coach McLish ejected by 3B umpire Haller for arguing that Kemp had struck out on check swing"
+"MIL198104160",59,"ej,hargm001,P,voltv901,Arguing play at 2B $Hargrove ejected by 2B umpire Voltaggio for arguing call at 2B"FILENAME_TX","LINE_NUMBER_CT"
+
+"MIL198104260",79,"Debut game for Danny Garcia"1981MIL.EVA.regular.comment.csv",2
+
+"MIL198104270",98,"ej,rodgb102,M,reilm901,Call at HP Brewers Manager Buck Rodgers ejected by HP umpire Mike Reilly arguing that SS Alfredo Griffin dropped the ball tagging Paul Molitor"1981MIL.EVA.regular.comment.csv",3
+
+"MIL198104280",0,"Two rain delays: 6:25-7:16 & 8:08-8:43 (innings not known)"1981MIL.EVA.regular.comment.csv",4
+
+"MIL198104280",37,"umpchange,5,umphome,reilm901 umpchange,5,ump2b,(None) umpchange,5,ump3b,barnl901 HP umpire DiMuro injured back when he slipped walking down dugout steps during rain delay; 3B umpire Reilly went behind plate, 2B umpire Barnett moved to 3rd and game was finished with 3 umpires"1981MIL.EVA.regular.comment.csv",5
+
+"MIL198105230",32,"56 minute rain delay (2:54-3:50) somewhere in this inning"1981MIL.EVA.regular.comment.csv",6
+
+"MIL198105250",4,"$Champ Summers injured crashing into wall."1981MIL.EVA.regular.comment.csv",7
+
+"MIL198105250",51,"ej,andes101,M,kaisk901,Fair/foul on HR Tigers Manager Sparky Anderson ejected by 3B umpire Ken Kaiser"1981MIL.EVA.regular.comment.csv",8
+
+"MIL198105260",21,"$Gorman Thomas left game with stiff lower back"1981MIL.EVA.regular.comment.csv",9
+
+"MIL198108220",58,"ej,boslt001,P,coont901,Call at 1B Thad Bosley ejected by 1B umpire Terry Cooney"1981MIL.EVA.regular.comment.csv",10
+
+"MIL198108230",14,"$Moose Haas left game due to a stiff neck"1981MIL.EVA.regular.comment.csv",11
+
+"MIL198109140",69,"Debut game for Chuck Porter"1981MIL.EVA.regular.comment.csv",12
+
+"MIL198109140",76,"Debut game for Frank DiPino"1981MIL.EVA.regular.comment.csv",13
+
+"MIL198109290",26,"$Mark Brouhard left with pulled right calf muscle"1981MIL.EVA.regular.comment.csv",14
+
+"MIL198109300",11,"1:31 rain delay"1981MIL.EVA.regular.comment.csv",15
+
+"MIL198110030",3,"ej,mclic101,C,hallb901,Checked swing $Brewers coach McLish ejected by 3B umpire Haller for arguing that Kemp had struck out on check swing"1981MIL.EVA.regular.comment.csv",16
+

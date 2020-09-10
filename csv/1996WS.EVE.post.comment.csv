@@ -1,25 +1,24 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"NYA199610200",7,"$infield shifted to the left for Cecil Fielder"
-"NYA199610200",12,"$Homer in first World Series at bat"
-"NYA199610200",21,"$Infield in"
-"NYA199610200",27,"$Andruw Jones homered on first two World Series at bats; second player to accomplish this (Gene Tenace 1972)"
-"NYA199610200",39,"$struck RF pole"
-"NYA199610200",47,"$Andruw Jones' bat broke and part of it struck Wade Boggs, impeding his play of the ball"
-"NYA199610210",36,"$Infield in"
-"NYA199610210",37,"$Infield in"
-"ATL199610230",8,"$Infield shifted to right for Strawberry"
-"ATL199610230",45,"$RF umpire Tim Welke interfered with Jermaine Dye's attempt to catch Derek Jeter's first foul ball down the RF line; originally scored FLE9, changed next day"
-"ATL199610230",65,"$Chipper Jones allowed the ball to roll to the bag"
-"NYA199610260",38,"ej,cox-b103,M,welkt901,Call at 2B Braves manager Bobby Cox ejected by 3B umpire Tim Welke for cussing him; Cox was leaving the field after arguing out call at 2B made by Terry Tata"
-"NYA199610200",7,"$infield shifted to the left for Cecil Fielder"
-"NYA199610200",12,"$Homer in first World Series at bat"
-"NYA199610200",21,"$Infield in"
-"NYA199610200",27,"$Andruw Jones homered on first two World Series at bats; second player to accomplish this (Gene Tenace 1972)"
-"NYA199610200",39,"$struck RF pole"
-"NYA199610200",47,"$Andruw Jones' bat broke and part of it struck Wade Boggs, impeding his play of the ball"
-"NYA199610210",36,"$Infield in"
-"NYA199610210",37,"$Infield in"
-"ATL199610230",8,"$Infield shifted to right for Strawberry"
-"ATL199610230",45,"$RF umpire Tim Welke interfered with Jermaine Dye's attempt to catch Derek Jeter's first foul ball down the RF line; originally scored FLE9, changed next day"
-"ATL199610230",65,"$Chipper Jones allowed the ball to roll to the bag"
-"NYA199610260",38,"ej,cox-b103,M,welkt901,Call at 2B Braves manager Bobby Cox ejected by 3B umpire Tim Welke for cussing him; Cox was leaving the field after arguing out call at 2B made by Terry Tata"
+"NYA199610200",7,"$infield shifted to the left for Cecil Fielder"FILENAME_TX","LINE_NUMBER_CT"
+
+"NYA199610200",12,"$Homer in first World Series at bat"1996WS.EVE.post.comment.csv",2
+
+"NYA199610200",21,"$Infield in"1996WS.EVE.post.comment.csv",3
+
+"NYA199610200",27,"$Andruw Jones homered on first two World Series at bats; second player to accomplish this (Gene Tenace 1972)"1996WS.EVE.post.comment.csv",4
+
+"NYA199610200",39,"$struck RF pole"1996WS.EVE.post.comment.csv",5
+
+"NYA199610200",47,"$Andruw Jones' bat broke and part of it struck Wade Boggs, impeding his play of the ball"1996WS.EVE.post.comment.csv",6
+
+"NYA199610210",36,"$Infield in"1996WS.EVE.post.comment.csv",7
+
+"NYA199610210",37,"$Infield in"1996WS.EVE.post.comment.csv",8
+
+"ATL199610230",8,"$Infield shifted to right for Strawberry"1996WS.EVE.post.comment.csv",9
+
+"ATL199610230",45,"$RF umpire Tim Welke interfered with Jermaine Dye's attempt to catch Derek Jeter's first foul ball down the RF line; originally scored FLE9, changed next day"1996WS.EVE.post.comment.csv",10
+
+"ATL199610230",65,"$Chipper Jones allowed the ball to roll to the bag"1996WS.EVE.post.comment.csv",11
+
+"NYA199610260",38,"ej,cox-b103,M,welkt901,Call at 2B Braves manager Bobby Cox ejected by 3B umpire Tim Welke for cussing him; Cox was leaving the field after arguing out call at 2B made by Terry Tata"1996WS.EVE.post.comment.csv",12
+

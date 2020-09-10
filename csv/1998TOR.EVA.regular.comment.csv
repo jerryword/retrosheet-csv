@@ -1,14 +1,12 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"TOR199806030",1,"Debut game for Seth Greisinger"
-"TOR199806300",43,"Debut game for Jeff Tam"
-"TOR199807280",74,"IPHR"
-"TOR199809060",0,"ej,willj107,M,scotd901,Balls and strikes Red Sox manager Jimy Williams ejected by HP umpire Dale Scott Sometime in game"
-"TOR199809060",68,"ej,quanp001,P,scotd901,Balls and strikes Paul Quantrill ejected by HP umpire Dale Scott"
-"TOR199809070",0,"ej,hargm001,M,barrt901,Balls and strikes Indians manager Mike Hargroce ejected by HP umpire Ted Barrett sometime in game"
-"TOR199809070",31,"IPHR"
-"TOR199806030",1,"Debut game for Seth Greisinger"
-"TOR199806300",43,"Debut game for Jeff Tam"
-"TOR199807280",74,"IPHR"
-"TOR199809060",48,"ej,willj107,M,scotd901,Balls and strikes $Red Sox manager Williams ejected by HP umpire Scott for arguing balls and strikes after Santiago walked"
-"TOR199809060",68,"ej,quanp001,P,scotd901,Call at 1B ej,johnt102,M,scotd901,Call at 1B $Pitcher Quantrill and Blue Jays manager Johnson ejected by HP umpire Scott at end of visitor's 8th for arguing that Bragg was out on pickoff earlier in inning"
-"TOR199809070",23,"ej,hargm001,M,barrt901,Balls and strikes $Indians manager Hargrove ejected by HP umpire Barrett for arguing balls and strikes while Alomar was at bat"
+"TOR199806030",1,"Debut game for Seth Greisinger"FILENAME_TX","LINE_NUMBER_CT"
+
+"TOR199806300",43,"Debut game for Jeff Tam"1998TOR.EVA.regular.comment.csv",2
+
+"TOR199807280",74,"IPHR"1998TOR.EVA.regular.comment.csv",3
+
+"TOR199809060",48,"ej,willj107,M,scotd901,Balls and strikes $Red Sox manager Williams ejected by HP umpire Scott for arguing balls and strikes after Santiago walked"1998TOR.EVA.regular.comment.csv",4
+
+"TOR199809060",68,"ej,quanp001,P,scotd901,Call at 1B ej,johnt102,M,scotd901,Call at 1B $Pitcher Quantrill and Blue Jays manager Johnson ejected by HP umpire Scott at end of visitor's 8th for arguing that Bragg was out on pickoff earlier in inning"1998TOR.EVA.regular.comment.csv",5
+
+"TOR199809070",23,"ej,hargm001,M,barrt901,Balls and strikes $Indians manager Hargrove ejected by HP umpire Barrett for arguing balls and strikes while Alomar was at bat"1998TOR.EVA.regular.comment.csv",6
+

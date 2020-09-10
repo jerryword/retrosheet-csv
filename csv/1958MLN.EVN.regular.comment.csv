@@ -1,39 +1,38 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"MLN195804170",40,"$Henry Aaron rounded 2B too far"
-"MLN195804170",65,"$Frank Torre reached into the 1B box seats to make a  backhanded catch"
-"MLN195804250",0,"$Bob Rush 95 pitches; Robin Roberts 109 pitches"
-"MLN195804250",38,"$Bob Rush called for interference for running into his own bunt"
-"MLN195804260",0,"$Ray Semproch 112 pitches"
-"MLN195804270",0,"$Jack Sanford 136 pitches"
-"MLN195805090",33,"$Bob Purkey called for interference"
-"MLN195805260",64,"$Dale Long left when he hurt himself falling into the Braves dugout"
-"MLN195806280",80,"$the throw hit the runner at HP"
-"MLN195807210",25,"$Ken Boyer re-aggravated a pulled muscle in his left leg while running out grounder and left game"
-"MLN195807210",107,"ej,freeg102,P,craws901,Call at 2B Gene Freese ejected by 2B umpire Shag Crawford"
-"MLN195807251",36,"$Mel Roach spiked by Walt Moyrn on the leg"
-"MLN195807260",3,"$Tony Taylor called for interference for running out of the baseline"
-"MLN195807290",42,"Joey Jay left with strained elbow"
-"MLN195807290",61,"$Del Crandall called for obstruction during rundown"
-"MLN195807300",45,"$the throw got past Del Crandall and Warren Spahn, who was backing up; Spahn threw wildly past Crandall; Mel Roach picked the ball up at 2B and threw back to HP"
-"MLN195808040",72,"$Roman Mejias called out on appeal for missing 1B on apparent double"
-"MLN195809150",39,"$Ron Fairly hurt by foul ball"
-"MLN195809150",60,"$Don Zimmer and Bob Lillis collided"
-"MLN195804170",40,"$Henry Aaron rounded 2B too far"
-"MLN195804170",65,"$Frank Torre reached into the 1B box seats to make a  backhanded catch"
-"MLN195804250",0,"$Bob Rush 95 pitches; Robin Roberts 109 pitches"
-"MLN195804250",38,"$Bob Rush called for interference for running into his own bunt"
-"MLN195804260",0,"$Ray Semproch 112 pitches"
-"MLN195804270",0,"$Jack Sanford 136 pitches"
-"MLN195805090",33,"$Bob Purkey called for interference"
-"MLN195805260",64,"$Dale Long left when he hurt himself falling into the Braves dugout"
-"MLN195806280",80,"$the throw hit the runner at HP"
-"MLN195807210",25,"$Ken Boyer re-aggravated a pulled muscle in his left leg while running out grounder and left game"
-"MLN195807210",107,"ej,freeg102,P,craws901,Call at 2B Gene Freese ejected by 2B umpire Shag Crawford"
-"MLN195807251",36,"$Mel Roach spiked by Walt Moyrn on the leg"
-"MLN195807260",3,"$Tony Taylor called for interference for running out of the baseline"
-"MLN195807290",42,"Joey Jay left with strained elbow"
-"MLN195807290",61,"$Del Crandall called for obstruction during rundown"
-"MLN195807300",45,"$the throw got past Del Crandall and Warren Spahn, who was backing up; Spahn threw wildly past Crandall; Mel Roach picked the ball up at 2B and threw back to HP"
-"MLN195808040",72,"$Roman Mejias called out on appeal for missing 1B on apparent double"
-"MLN195809150",39,"$Ron Fairly hurt by foul ball"
-"MLN195809150",60,"$Don Zimmer and Bob Lillis collided"
+"MLN195804170",40,"$Henry Aaron rounded 2B too far"FILENAME_TX","LINE_NUMBER_CT"
+
+"MLN195804170",65,"$Frank Torre reached into the 1B box seats to make a  backhanded catch"1958MLN.EVN.regular.comment.csv",2
+
+"MLN195804250",0,"$Bob Rush 95 pitches; Robin Roberts 109 pitches"1958MLN.EVN.regular.comment.csv",3
+
+"MLN195804250",38,"$Bob Rush called for interference for running into his own bunt"1958MLN.EVN.regular.comment.csv",4
+
+"MLN195804260",0,"$Ray Semproch 112 pitches"1958MLN.EVN.regular.comment.csv",5
+
+"MLN195804270",0,"$Jack Sanford 136 pitches"1958MLN.EVN.regular.comment.csv",6
+
+"MLN195805090",33,"$Bob Purkey called for interference"1958MLN.EVN.regular.comment.csv",7
+
+"MLN195805260",64,"$Dale Long left when he hurt himself falling into the Braves dugout"1958MLN.EVN.regular.comment.csv",8
+
+"MLN195806280",80,"$the throw hit the runner at HP"1958MLN.EVN.regular.comment.csv",9
+
+"MLN195807210",25,"$Ken Boyer re-aggravated a pulled muscle in his left leg while running out grounder and left game"1958MLN.EVN.regular.comment.csv",10
+
+"MLN195807210",107,"ej,freeg102,P,craws901,Call at 2B Gene Freese ejected by 2B umpire Shag Crawford"1958MLN.EVN.regular.comment.csv",11
+
+"MLN195807251",36,"$Mel Roach spiked by Walt Moyrn on the leg"1958MLN.EVN.regular.comment.csv",12
+
+"MLN195807260",3,"$Tony Taylor called for interference for running out of the baseline"1958MLN.EVN.regular.comment.csv",13
+
+"MLN195807290",42,"Joey Jay left with strained elbow"1958MLN.EVN.regular.comment.csv",14
+
+"MLN195807290",61,"$Del Crandall called for obstruction during rundown"1958MLN.EVN.regular.comment.csv",15
+
+"MLN195807300",45,"$the throw got past Del Crandall and Warren Spahn, who was backing up; Spahn threw wildly past Crandall; Mel Roach picked the ball up at 2B and threw back to HP"1958MLN.EVN.regular.comment.csv",16
+
+"MLN195808040",72,"$Roman Mejias called out on appeal for missing 1B on apparent double"1958MLN.EVN.regular.comment.csv",17
+
+"MLN195809150",39,"$Ron Fairly hurt by foul ball"1958MLN.EVN.regular.comment.csv",18
+
+"MLN195809150",60,"$Don Zimmer and Bob Lillis collided"1958MLN.EVN.regular.comment.csv",19
+

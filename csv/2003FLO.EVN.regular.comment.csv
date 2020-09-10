@@ -1,65 +1,64 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"FLO200303310",30,"Debut game for Tommy Phelps"
-"FLO200304230",85,"ej,nelsd101,C,scotd901,Fair/foul call Brewers First Base Coach Dave Nelson ejected by HP umpire Dale Scott on a ball hit by Enrique Cruz"
-"FLO200305070",12,"Marlins Josh Beckett left the game due to an injured elbow"
-"FLO200305090",1,"Debut game for Dontrelle Willis"
-"FLO200305100",11,"ej,hurdc001,M,cousd901,Protesting order to speed up game Rockies Manager Clint Hurdle ejected by HP umpire Derryl Cousins"
-"FLO200305100",46,"Marlins Ivan Rodriguez left the game due to an injured head"
-"FLO200305281",0,"36 minute delay during game"
-"FLO200306040",63,"Marlins Brian Banks left the game due to an injured head"
-"FLO200306070",40,"ej,mckej801,M,cedeg901,Obstruction non-call Marlins Manager Jack McKeon ejected by 1B umpire Gary Cederstrom"
-"FLO200306200",21,"Debut game for Miguel Cabrera"
-"FLO200306200",62,"ej,huffa001,P,guccc901,Called third strike ej,pinil001,M,guccc901,Called third strike ej,mclaj801,C,mealj901,Called third strike Devil Rays Aubrey Huff ejected by HP umpire Chris Guccione when he threw his helmet; Devils Rays manager Lou Piniella and coach John McLaren were also ejected by Guccione"
-"FLO200306210",39,"game called for rain after 1:52 delay"
-"FLO200306220",50,"ej,encaj001,P,mealj901,Called third strike Marlins Juan Encarnacion ejected by HP umpire Jerry Meals"
-"FLO200306300",41,"Braves Kevin Gryboski left the game due to an injured back"
-"FLO200307010",0,"18 minute delay during game"
-"FLO200307190",41,"Cubs Damian Miller left the game due to an injured chest"
-"FLO200307200",16,"67 minute rain delay"
-"FLO200307220",79,"originally scored E3, changed next day"
-"FLO200307290",56,"ej,rodri001,P,nelss901,Called third strike Marlins Ivan Rodriguez ejected by HP umpire Scott Nelson"
-"FLO200308030",49,"ej,rodri001,P,klemj901,Balls and strikes Marlins Ivan Rodriguez ejected by HP umpire Justin Klemm for arguing about the pitch called strike two"
-"FLO200308110",0,"31 minute delay before game for 'threatening weather' It did not rain"
-"FLO200308110",29,"$David Ross called for interference"
-"FLO200308120",42,"ej,rodri001,P,wendh902,Call at HP Marlins Ivan Rodriguez ejected by 1B umpire Hunter Wendelstedt; Rodriguez took the relay throw while blocking the plate and tagged Paul Lo Duca; Wendelstedt, who had rotated to the plate during the play, called Lo Duca safe; Rodriguez threw his mask and screamed a profanity"
-"FLO200308150",41,"Padres Oliver Perez left the game due to an injured arm Hit on left wrist by hard one-hopper"
-"FLO200308300",53,"Debut game for Chad Cordero"
-"FLO200308300",63,"Lowell hit in hand, broken bone, out for season"
-"FLO200308310",32,"ej,zeilt001,P,welkb901,Balls and strikes Expos third baseman Todd Zeile ejected by HP umpire Bill Welke"
-"FLO200308310",59,"ej,vargc001,P,welkb901,Bench jockeying (on DL) Claudio Vargas, on the DL with shoulder tendinitis, was ejected during the seventh inning by HP umpire Bill Welke for yelling at the umpire from the bench"
-"FLO200309010",60,"ej,mccrt102,C,hollm901,Bench jockeying Expos coach Tom McCraw was ejected by HP umpire Matt Hollowell sometime in the eighth ining"
-"FLO200309020",44,"$Juan Pierre hit by throw inside baseline, called for interference"
-"FLO200309120",5,"Penny left with sore arm"
-"FLO200309250",0,"rain throughout game, heavy at times"
-"FLO200303310",30,"Debut game for Tommy Phelps"
-"FLO200304230",85,"ej,nelsd101,C,scotd901,Fair/foul call Brewers First Base Coach Dave Nelson ejected by HP umpire Dale Scott on a ball hit by Enrique Cruz"
-"FLO200305070",12,"Marlins Josh Beckett left the game due to an injured elbow"
-"FLO200305090",1,"Debut game for Dontrelle Willis"
-"FLO200305100",11,"ej,hurdc001,M,cousd901,Protesting order to speed up game Rockies Manager Clint Hurdle ejected by HP umpire Derryl Cousins"
-"FLO200305100",46,"Marlins Ivan Rodriguez left the game due to an injured head"
-"FLO200305281",0,"36 minute delay during game"
-"FLO200306040",63,"Marlins Brian Banks left the game due to an injured head"
-"FLO200306070",40,"ej,mckej801,M,cedeg901,Obstruction non-call Marlins Manager Jack McKeon ejected by 1B umpire Gary Cederstrom"
-"FLO200306200",21,"Debut game for Miguel Cabrera"
-"FLO200306200",62,"ej,huffa001,P,guccc901,Called third strike (Threw helmet) ej,pinil001,M,guccc901,Called third strike ej,mclaj801,C,mealj901,Called third strike $Devil Rays Huff ejected by HP umpire Chris Guccione for arguing called third strike and throwing helmet; Devil Rays manager Piniella also ejected by Guccione and coach McLaren ejected by 2B umpire Meals"
-"FLO200306210",39,"game called for rain after 1:52 delay"
-"FLO200306220",50,"ej,encaj001,P,mealj901,Called third strike Marlins Juan Encarnacion ejected by HP umpire Jerry Meals"
-"FLO200306300",41,"$Gryboski left the game due to an injured back"
-"FLO200307010",0,"18 minute delay during game"
-"FLO200307190",41,"Cubs Damian Miller left the game due to an injured chest"
-"FLO200307200",16,"67 minute rain delay"
-"FLO200307220",79,"originally scored E3, changed next day"
-"FLO200307290",56,"ej,rodri001,P,nelss901,Called third strike Marlins Ivan Rodriguez ejected by HP umpire Scott Nelson"
-"FLO200308030",49,"ej,rodri001,P,klemj901,Balls and strikes $Rodriguez ejected by HP umpire Klemm for arguing about the pitch that was called strike two before grounding out"
-"FLO200308110",0,"31 minute delay before game for 'threatening weather' It did not rain"
-"FLO200308110",29,"$David Ross called for interference"
-"FLO200308120",42,"ej,rodri001,P,wendh902,Call at HP Marlins Ivan Rodriguez ejected by 1B umpire Hunter Wendelstedt; Rodriguez took the relay throw while blocking the plate and tagged Paul Lo Duca; Wendelstedt, who had rotated to the plate during the play, called Lo Duca safe; Rodriguez threw his mask and screamed a profanity"
-"FLO200308150",41,"Padres Oliver Perez left the game due to an injured arm Hit on left wrist by hard one-hopper"
-"FLO200308300",53,"Debut game for Chad Cordero"
-"FLO200308300",63,"Lowell hit in hand, broken bone, out for season"
-"FLO200308310",32,"ej,zeilt001,P,welkb901,Balls and strikes Expos third baseman Todd Zeile ejected by HP umpire Bill Welke"
-"FLO200308310",59,"ej,vargc001,P,welkb901,Bench jockeying (on DL) Claudio Vargas, on the DL with shoulder tendinitis, was ejected during the seventh inning by HP umpire Bill Welke for yelling at the umpire from the bench"
-"FLO200309010",60,"ej,mccrt102,C,hollm901,Bench jockeying Expos coach Tom McCraw was ejected by HP umpire Matt Hollowell sometime in the eighth ining"
-"FLO200309020",44,"$Juan Pierre hit by throw inside baseline, called for interference"
-"FLO200309120",5,"Penny left with sore arm"
-"FLO200309250",0,"rain throughout game, heavy at times"
+"FLO200303310",30,"Debut game for Tommy Phelps"FILENAME_TX","LINE_NUMBER_CT"
+
+"FLO200304230",85,"ej,nelsd101,C,scotd901,Fair/foul call Brewers First Base Coach Dave Nelson ejected by HP umpire Dale Scott on a ball hit by Enrique Cruz"2003FLO.EVN.regular.comment.csv",2
+
+"FLO200305070",12,"Marlins Josh Beckett left the game due to an injured elbow"2003FLO.EVN.regular.comment.csv",3
+
+"FLO200305090",1,"Debut game for Dontrelle Willis"2003FLO.EVN.regular.comment.csv",4
+
+"FLO200305100",11,"ej,hurdc001,M,cousd901,Protesting order to speed up game Rockies Manager Clint Hurdle ejected by HP umpire Derryl Cousins"2003FLO.EVN.regular.comment.csv",5
+
+"FLO200305100",46,"Marlins Ivan Rodriguez left the game due to an injured head"2003FLO.EVN.regular.comment.csv",6
+
+"FLO200305281",0,"36 minute delay during game"2003FLO.EVN.regular.comment.csv",7
+
+"FLO200306040",63,"Marlins Brian Banks left the game due to an injured head"2003FLO.EVN.regular.comment.csv",8
+
+"FLO200306070",40,"ej,mckej801,M,cedeg901,Obstruction non-call Marlins Manager Jack McKeon ejected by 1B umpire Gary Cederstrom"2003FLO.EVN.regular.comment.csv",9
+
+"FLO200306200",21,"Debut game for Miguel Cabrera"2003FLO.EVN.regular.comment.csv",10
+
+"FLO200306200",62,"ej,huffa001,P,guccc901,Called third strike (Threw helmet) ej,pinil001,M,guccc901,Called third strike ej,mclaj801,C,mealj901,Called third strike $Devil Rays Huff ejected by HP umpire Chris Guccione for arguing called third strike and throwing helmet; Devil Rays manager Piniella also ejected by Guccione and coach McLaren ejected by 2B umpire Meals"2003FLO.EVN.regular.comment.csv",11
+
+"FLO200306210",39,"game called for rain after 1:52 delay"2003FLO.EVN.regular.comment.csv",12
+
+"FLO200306220",50,"ej,encaj001,P,mealj901,Called third strike Marlins Juan Encarnacion ejected by HP umpire Jerry Meals"2003FLO.EVN.regular.comment.csv",13
+
+"FLO200306300",41,"$Gryboski left the game due to an injured back"2003FLO.EVN.regular.comment.csv",14
+
+"FLO200307010",0,"18 minute delay during game"2003FLO.EVN.regular.comment.csv",15
+
+"FLO200307190",41,"Cubs Damian Miller left the game due to an injured chest"2003FLO.EVN.regular.comment.csv",16
+
+"FLO200307200",16,"67 minute rain delay"2003FLO.EVN.regular.comment.csv",17
+
+"FLO200307220",79,"originally scored E3, changed next day"2003FLO.EVN.regular.comment.csv",18
+
+"FLO200307290",56,"ej,rodri001,P,nelss901,Called third strike Marlins Ivan Rodriguez ejected by HP umpire Scott Nelson"2003FLO.EVN.regular.comment.csv",19
+
+"FLO200308030",49,"ej,rodri001,P,klemj901,Balls and strikes $Rodriguez ejected by HP umpire Klemm for arguing about the pitch that was called strike two before grounding out"2003FLO.EVN.regular.comment.csv",20
+
+"FLO200308110",0,"31 minute delay before game for 'threatening weather' It did not rain"2003FLO.EVN.regular.comment.csv",21
+
+"FLO200308110",29,"$David Ross called for interference"2003FLO.EVN.regular.comment.csv",22
+
+"FLO200308120",42,"ej,rodri001,P,wendh902,Call at HP Marlins Ivan Rodriguez ejected by 1B umpire Hunter Wendelstedt; Rodriguez took the relay throw while blocking the plate and tagged Paul Lo Duca; Wendelstedt, who had rotated to the plate during the play, called Lo Duca safe; Rodriguez threw his mask and screamed a profanity"2003FLO.EVN.regular.comment.csv",23
+
+"FLO200308150",41,"Padres Oliver Perez left the game due to an injured arm Hit on left wrist by hard one-hopper"2003FLO.EVN.regular.comment.csv",24
+
+"FLO200308300",53,"Debut game for Chad Cordero"2003FLO.EVN.regular.comment.csv",25
+
+"FLO200308300",63,"Lowell hit in hand, broken bone, out for season"2003FLO.EVN.regular.comment.csv",26
+
+"FLO200308310",32,"ej,zeilt001,P,welkb901,Balls and strikes Expos third baseman Todd Zeile ejected by HP umpire Bill Welke"2003FLO.EVN.regular.comment.csv",27
+
+"FLO200308310",59,"ej,vargc001,P,welkb901,Bench jockeying (on DL) Claudio Vargas, on the DL with shoulder tendinitis, was ejected during the seventh inning by HP umpire Bill Welke for yelling at the umpire from the bench"2003FLO.EVN.regular.comment.csv",28
+
+"FLO200309010",60,"ej,mccrt102,C,hollm901,Bench jockeying Expos coach Tom McCraw was ejected by HP umpire Matt Hollowell sometime in the eighth ining"2003FLO.EVN.regular.comment.csv",29
+
+"FLO200309020",44,"$Juan Pierre hit by throw inside baseline, called for interference"2003FLO.EVN.regular.comment.csv",30
+
+"FLO200309120",5,"Penny left with sore arm"2003FLO.EVN.regular.comment.csv",31
+
+"FLO200309250",0,"rain throughout game, heavy at times"2003FLO.EVN.regular.comment.csv",32
+

@@ -1,51 +1,50 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"CHN194204240",30,"pbp account ends here, rest deduced"
-"PIT194204280",43,"ej,murtd101,P,stewb901,Balls and Strikes $Murtaugh ejected by 1b umpire Stewart; he had complained about a strike call and said something offensive as he ran to first"
-"PHI194204160",68,"Wind-aided"
-"PHI194204150",0,"219 servicemen also attended"
-"PHI194204150",44,"Into 2nd row of upper deck in LF"
-"PHI194204150",80,"Into upper deck in LF"
-"PIT194204300",74,"ejfrisf101,M,dunnt901,Call at 1B $Pirate manager Frisch claimed that Leip had returned safely to first, argued too much and was ejected"
-"NY1194204262",0,"1203 servicemen guests also attended"
-"NY1194204262",13,"Off Koslo's glove"
-"NY1194204262",18,"Lombardi ducked away from a pitch as it hit his bat"
-"NY1194204262",19,"Ott: running catch"
-"NY1194204262",44,"$Lombardi hurt shoulder somehow and left game"
-"PIT194205050",6,"$Frankie Gustine singled to center; Braves manager Casey Stengel went to HP umpire Conlan and pointed out that the lineup card had Martin as the second batter; Apparently Pirate manager Frankie Frisch had two lineups made up, depending on the handedness of the Braves' starting pitcher and mistakenly gave the umpire the wrong card but gave the public address announcer the right one"
-"PHI194205220",95,"ej,lobeh101,M,mageg901,Balls and strikes $Phillies manager Lobert ejected by HP umpire Magerkuth for arguing called strike 3"
-"PIT194205230",34,"$45 minute rain delay"
-"PIT194205280",90,"ej,flete101,P,searz901,Call at 1B $Elbie Fletcher ejected by 1B umpire Ziggy Sears"
-"SLN194206040",17,"ej,javea101,P,conlj102,Bench jockeying $Umpires differ, finally ruling Donovan trapped liner hit by Walker which Donovan threw to 2nd, thinking he had caught it and could double off Kurowski; Braves never threw to 1st so Walker was safe there; Pitcher Javery of the Braves, not in game, ejected by HP umpire Conlan"
-"SLN194206040",18,"Failed rundown"
-"SLN194207121",31,"$Holmes injured"
-"SLN194207121",58,"$Triplett injured"
-"PIT194207192",75,"$game called as pre-agreed, not curfew or darkness"
-"BSN194209132",8,"$Sisti pulled muscle"
-"BSN194209132",89,"$Game called, curfew"
-"NY1194209252",38,"pbp account ends here, rest deduced"
-"PIT194208092",67,"game called, Sunday curfew"
-"CHN194204240",30,"pbp account ends here, rest deduced"
-"PIT194204280",43,"ej,murtd101,P,stewb901,Balls and Strikes $Murtaugh ejected by 1b umpire Stewart; he had complained about a strike call and said something offensive as he ran to first"
-"PHI194204160",68,"Wind-aided"
-"PHI194204150",0,"219 servicemen also attended"
-"PHI194204150",44,"Into 2nd row of upper deck in LF"
-"PHI194204150",80,"Into upper deck in LF"
-"PIT194204300",74,"ej,frisf101,M,dunnt901,Call at 1B $Pirate manager Frisch ejected by 1B umpire Dunn for claiming Leip had returned safely to first"
-"NY1194204262",0,"1203 servicemen guests also attended"
-"NY1194204262",13,"Off Koslo's glove"
-"NY1194204262",18,"Lombardi ducked away from a pitch as it hit his bat"
-"NY1194204262",19,"Ott: running catch"
-"NY1194204262",44,"$Lombardi hurt shoulder somehow and left game"
-"PIT194205050",6,"$Frankie Gustine singled to center; Braves manager Casey Stengel went to HP umpire Conlan and pointed out that the lineup card had Martin as the second batter; Apparently Pirate manager Frankie Frisch had two lineups made up, depending on the handedness of the Braves' starting pitcher and mistakenly gave the umpire the wrong card but gave the public address announcer the right one"
-"PHI194205220",95,"ej,lobeh101,M,mageg901,Called third strike $Phillies manager Lobert ejected by HP umpire Magerkuth for arguing called strike 3"
-"PIT194205230",34,"$45 minute rain delay"
-"PIT194205280",90,"ej,flete101,P,searz901,Call at 1B $1bman Fletcher ejected by 1B umpire Sears for arguing that Marion was out at 1st"
-"SLN194206040",17,"ej,javea101,P,conlj102,Bench jockeying $Umpires differ, finally ruling Donovan trapped liner hit by Walker which Donovan threw to 2nd, thinking he had caught it and could double off Kurowski; Braves never threw to 1st so Walker was safe there; Pitcher Javery of the Braves, not in game, ejected by HP umpire Conlan"
-"SLN194206040",18,"Failed rundown"
-"SLN194207121",31,"$Holmes injured"
-"SLN194207121",58,"$Triplett injured"
-"PIT194207192",75,"$game called as pre-agreed, not curfew or darkness"
-"BSN194209132",8,"$Sisti pulled muscle"
-"BSN194209132",89,"$Game called, curfew"
-"NY1194209252",38,"pbp account ends here, rest deduced"
-"PIT194208092",67,"game called, Sunday curfew"
+"CHN194204240",30,"pbp account ends here, rest deduced"FILENAME_TX","LINE_NUMBER_CT"
+
+"PIT194204280",43,"ej,murtd101,P,stewb901,Balls and Strikes $Murtaugh ejected by 1b umpire Stewart; he had complained about a strike call and said something offensive as he ran to first"1942.EDN.regular.comment.csv",2
+
+"PHI194204160",68,"Wind-aided"1942.EDN.regular.comment.csv",3
+
+"PHI194204150",0,"219 servicemen also attended"1942.EDN.regular.comment.csv",4
+
+"PHI194204150",44,"Into 2nd row of upper deck in LF"1942.EDN.regular.comment.csv",5
+
+"PHI194204150",80,"Into upper deck in LF"1942.EDN.regular.comment.csv",6
+
+"PIT194204300",74,"ej,frisf101,M,dunnt901,Call at 1B $Pirate manager Frisch ejected by 1B umpire Dunn for claiming Leip had returned safely to first"1942.EDN.regular.comment.csv",7
+
+"NY1194204262",0,"1203 servicemen guests also attended"1942.EDN.regular.comment.csv",8
+
+"NY1194204262",13,"Off Koslo's glove"1942.EDN.regular.comment.csv",9
+
+"NY1194204262",18,"Lombardi ducked away from a pitch as it hit his bat"1942.EDN.regular.comment.csv",10
+
+"NY1194204262",19,"Ott: running catch"1942.EDN.regular.comment.csv",11
+
+"NY1194204262",44,"$Lombardi hurt shoulder somehow and left game"1942.EDN.regular.comment.csv",12
+
+"PIT194205050",6,"$Frankie Gustine singled to center; Braves manager Casey Stengel went to HP umpire Conlan and pointed out that the lineup card had Martin as the second batter; Apparently Pirate manager Frankie Frisch had two lineups made up, depending on the handedness of the Braves' starting pitcher and mistakenly gave the umpire the wrong card but gave the public address announcer the right one"1942.EDN.regular.comment.csv",13
+
+"PHI194205220",95,"ej,lobeh101,M,mageg901,Called third strike $Phillies manager Lobert ejected by HP umpire Magerkuth for arguing called strike 3"1942.EDN.regular.comment.csv",14
+
+"PIT194205230",34,"$45 minute rain delay"1942.EDN.regular.comment.csv",15
+
+"PIT194205280",90,"ej,flete101,P,searz901,Call at 1B $1bman Fletcher ejected by 1B umpire Sears for arguing that Marion was out at 1st"1942.EDN.regular.comment.csv",16
+
+"SLN194206040",17,"ej,javea101,P,conlj102,Bench jockeying $Umpires differ, finally ruling Donovan trapped liner hit by Walker which Donovan threw to 2nd, thinking he had caught it and could double off Kurowski; Braves never threw to 1st so Walker was safe there; Pitcher Javery of the Braves, not in game, ejected by HP umpire Conlan"1942.EDN.regular.comment.csv",17
+
+"SLN194206040",18,"Failed rundown"1942.EDN.regular.comment.csv",18
+
+"SLN194207121",31,"$Holmes injured"1942.EDN.regular.comment.csv",19
+
+"SLN194207121",58,"$Triplett injured"1942.EDN.regular.comment.csv",20
+
+"PIT194207192",75,"$game called as pre-agreed, not curfew or darkness"1942.EDN.regular.comment.csv",21
+
+"BSN194209132",8,"$Sisti pulled muscle"1942.EDN.regular.comment.csv",22
+
+"BSN194209132",89,"$Game called, curfew"1942.EDN.regular.comment.csv",23
+
+"NY1194209252",38,"pbp account ends here, rest deduced"1942.EDN.regular.comment.csv",24
+
+"PIT194208092",67,"game called, Sunday curfew"1942.EDN.regular.comment.csv",25
+

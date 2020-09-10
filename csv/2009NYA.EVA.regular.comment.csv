@@ -1,121 +1,120 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"NYA200904160",0,"$First game at the new Yankee Stadium; Yogi Berra threw the ceremonial pitch"
-"NYA200904180",19,"Debut game for Anthony Claggett"
-"NYA200904180",66,"$a foul ball off the bat of Francisco struck the helmet of HP umpire Ed Hickox, cracking it; he left the field and returned with a Yankee catchers mask"
-"NYA200904180",80,"umpchange,8,umphome,hallt901 umpchange,8,ump2b,(None) $HP umpire Ed Hickox leaves game and is taken to the hospital for observation; 2B umpire Tom Hallion moves behind the plate"
-"NYA200904190",61,"replay,7,posaj001,NYA,crawj901,NYC21,I,N,I,,H $Trevor Crowe leaped in an attempt to catch the fly ball but a fan touched the ball, which hit the top of the wall and Crowe's glove before landing on the warning track; the play was ruled a homer but the Indians wanted fan interference; crew chief Jerry Crawford watched the replay and, after an 8 1/2 minute delay, upheld the call"
-"NYA200904210",25,"$Teixeira fielded the grounder, tagged 1B and then threw home; Posada chased Suzuki up the line before tagging him"
-"NYA200904220",11,"replay,2,suzuk001,OAK,davig901,NYC21,I,N,I,,H $a fan touched the ball and the Yankees complained that the fan interfered with Johnny Damon's ability to catch the ball; crew chief Gerry Davis watched the replay and upheld the home run call; it was the second replay used at Yankee Stadium in four days"
-"NYA200905010",22,"Yankees right fielder Nick Swisher left the game due to an injured elbow"
-"NYA200905010",70,"Angels left fielder Bobby Abreu left the game due to an injured back"
-"NYA200905020",6,"$Angels shortstop Erick Aybar was hit on the mouth by the deflected throw on the stolen base; x-rays were negative"
-"NYA200905020",80,"Debut game for Fernando Rodriguez"
-"NYA200905040",0,"$2:17 rain delay before start of game"
-"NYA200905040",34,"$Yankees manager Joe Girardi and Red Sox 1B coach Tim Bogar yell at each other during Kevin Youkilis' at bat; Girardi moved down the dugout to get closer to Bogar; neither person would talk about what the argument was about"
-"NYA200905040",46,"ej,giraj001,M,mealj901,Called third strike on Jeter Yankees Manager Joe Girardi ejected by HP umpire Jerry Meals"
-"NYA200905040",53,"Red Sox first baseman Kevin Youkilis left the game due to a tightness on the left side of his lower back"
-"NYA200905040",72,"$Teixeira homered from both sides of the plate"
-"NYA200905050",33,"Red Sox left fielder Jacoby Ellsbury left the game due to an injured leg"
-"NYA200905060",59,"ej,swisn001,P,hoyej901,Balls and strikes Yankees right fielder Nick Swisher ejected by HP umpire James Hoye"
-"NYA200905060",68,"$28 minute rain delay"
-"NYA200905070",50,"Yankees catcher Jose Molina left the game due to an injured leg"
-"NYA200905150",24,"ej,damoj001,P,bellw901,Called third strike; drew a line $after being called out on strikes for the second time in two at bats in the game, Johnny Damon yelled at HP umpire Wally Bell and then drew a line in the dirt showing Bell where he thought the pitch was; Damon was ejected by Bell"
-"NYA200905150",41,"Twins third baseman Joe Crede left the game due to back spasms and a tight hamstring"
-"NYA200905150",47,"$Carlos Gomez ran past Mark Teixeira at 1B on the fair side of the bag"
-"NYA200905150",69,"$as in the sixth, Gomez ran past Teixeira on the fair side of the bag, this time running into Teixeira's glove on his left hand; that wrist had been injured earlier in the season and Teixeira yelled at Gomez; both benches emptied; Twins manager Ron Gardenhire and Yankees manager Joe Girardi yelled at each other during the incident but no one was ejected"
-"NYA200905160",12,"$Michael Cuddyer slid into 2B with a popup slide and returned to 1B; he was called out on appeal for not retouching 2B before returning to 1B; the run counted on the timing play"
-"NYA200905210",4,"Yankees pitcher Joba Chamberlain left the game due to an injured knee"
-"NYA200905230",12,"Debut game for John Mayberry"
-"NYA200906130",41,"Orginally scored as S5, but rule prohibits awarding a hit when a runner is retired before reaching his next base"
-"NYA200906140",54,"ej,manuj101,M,wolfj901,Called third strike $David Wright argued the called third strike and Mets manager Jerry Manuel got in between and continued the argument; Manuel was ejected by HP umpire Jim Wolf"
-"NYA200906160",59,"Yankees shortstop Derek Jeter left the game due to an injured foot/ankle"
-"NYA200906180",0,"$Rain delay of 5:26 at start of game"
-"NYA200907010",37,"replay,5,cabrm002,NYA,scotd901,NYC21,F,N,I,,H $the fly ball by Melky Cabrera was hit near the LF pole; crew chief Dale Scott watched the replay and upheld the original call of home run"
-"NYA200907020",0,"$36 minute delay before start of game for rain that never appeared"
-"NYA200907040",60,"New York Yankees pitcher Chien-Ming Wang left the game due to an injured neck/shoulder."
-"NYA200907060",6,"ej,giraj001,M,fostm901,Call at 3B on Jeter steal attempt $Derek Jeter objected to the call at 3B; coach Rob Thomson pushed Jeter away from umpire Marty Foster; manager Joe Girardi argued with Foster about the play; Foster told Jeter and Girardi that the ball beat Jeter to the bag; it appeared that Jeter slid around Scott Rolen's tag; Girardi was ejected by Foster"
-"NYA200908060",34,"Red Sox shortstop Jed Lowrie left the game due to an injured arm"
-"NYA200908070",108,"Debut game for Junichi Tazawa"
-"NYA200908080",53,"$one pitch to Teixeira was high and inside, causing the batter to duck"
-"NYA200908080",55,"ej,ramir003,P,joycj901,Intentional HBP Red Sox pitcher Ramon Ramirez ejected by HP umpire Jim Joyce immediately after hitting Rodriguez; no warnings had been issued to the team even though there had been a few hit batters and close pitches in the series"
-"NYA200908100",21,"ej,gastc101,M,schrp901,Balls and strikes Blue Jays Manager Cito Gaston ejected by HP umpire Paul Schrieber for arguing balls and strikes"
-"NYA200908110",66,"replay,8,posaj001,NYA,westj901,NYC21,I,N,I,,H $Jorge Posada's fly barely cleared the RF wall over the glove of Joe Inglett; Blue Jays manager Cito Gaston thought that a fan interfered with Inglett's ability to catch the ball; crew chief Joe West watched the replay and upheld the call because the fan clearly did not reach out over the fence"
-"NYA200908120",22,"Yankees shortstop Derek Jeter left the game due to an injured foot/ankle"
-"NYA200908250",42,"replay,4,canor001,NYA,davib902,NYC21,F,N,I,,H $Robinson Cano's fly ball was fair by about two feet and cleared the wall by about the same distance; Rangers manager Ron Washington asked 3B umpire Chuck Meriwether about the call, so acting crew chief Bob Davidson watched the replay and upheld the home run call"
-"NYA200908260",59,"$Alex Rodriguez fouled a ball off his left foot"
-"NYA200908260",64,"Yankees catcher Jorge Posada left with a bruised joint on his left ring finger after a foul tip hit his catching hand"
-"NYA200908260",69,"Yankees third baseman Alex Rodriguez left with a bruised left foot"
-"NYA200908290",57,"$Yankees pitcher Sergio Mitre was hit on his right arm by a line drive and left the game"
-"NYA200908300",58,"Yankees left fielder Johnny Damon left the game due to cramps in both calves"
-"NYA200909071",4,"Rays first baseman Carlos Pena left the game due to an injured hand/wrist"
-"NYA200909110",49,"Orioles left fielder Felix Pie left the game due to an injured back"
-"NYA200909130",41,"$Alex Rodriguez objected to the called third strike as soon as it was called but remained in the game"
-"NYA200909130",49,"ej,rodra001,P,fostm901,Called third strike ej,giraj001,M,fostm901,Called third strike on Alex Rodriguez Yankees third baseman Alex Rodriguez and manager Joe Girardi ejected by HP umpire Marty Foster"
-"NYA200909150",76,"$the first pitch to Jorge Posada was behind him; he yelled at pitcher Jesse Carlson and both benches emptied"
-"NYA200909150",79,"ej,posaj001,P,joycj901,Threw elbow at Jesse Carlson after scoring ej,carlj001,P,joycj901,Fighting Jorge Posada $as Posada crossed the plate, he stuck his elbow out at Carlson, who turned and yelled at Posada; Posada was ejected by HP umpire Jim Joyce and then Posada ran back towards Carlson; Joyce stepped in between; the two players fought and the benches cleared again; Carlson, who suffered a gash on the left side of his forehead, was also ejected by Joyce"
-"NYA200909150",79,"umpchange,8,ump3b,millb901 umpchange,8,ump2b,(None) $3B umpire Cousins injured during the brawl when hit in the leg by a soda bottle thrown from the stands; 2B umpire Miller move to 3rd and game finished with 3 umpires"
-"NYA200909250",31,"$the shartp liner hit Red Sox pitcher Jon Lester just above the right knee and he left with a bruised quadriceps"
-"NYA200909260",23,"$Yankees third baseman Alex Rodriguez started across the plate after the last pitch but since Red Sox catcher Victor Martinez was attempting to throw out Mark Teixeira at second base on a steal attempt and Rodriguez got in the way, interference was called on ARod and Teixeira was called out"
-"NYA200909260",40,"$Red Sox catcher Victor Martinez fielded the dribbler about 10 feet up the first base line; he dove back to the plate and tagged it before Yankees runner Derek Jeter could score"
-"NYA200909260",46,"$the ball bounced off the top of the wall and into the seats"
-"NYA200909270",40,"$Yankees runner Nick Swisher was called out on appeal for leaving second base too soon when tagging up on the fly ball. Ellsbury is credited with DP, but not an assist"
-"NYA200904160",0,"$First game at the new Yankee Stadium; Yogi Berra threw the ceremonial pitch"
-"NYA200904180",19,"Debut game for Anthony Claggett"
-"NYA200904180",66,"$a foul ball off the bat of Francisco struck the helmet of HP umpire Ed Hickox, cracking it; he left the field and returned with a Yankee catchers mask"
-"NYA200904180",80,"umpchange,8,umphome,hallt901 umpchange,8,ump2b,(None) $HP umpire Ed Hickox leaves game and is taken to the hospital for observation; 2B umpire Tom Hallion moves behind the plate"
-"NYA200904190",61,"replay,7,posaj001,NYA,crawj901,NYC21,I,N,I,,H $Trevor Crowe leaped in an attempt to catch the fly ball but a fan touched the ball, which hit the top of the wall and Crowe's glove before landing on the warning track; the play was ruled a homer but the Indians wanted fan interference; crew chief Jerry Crawford watched the replay and, after an 8 1/2 minute delay, upheld the call"
-"NYA200904210",25,"$Teixeira fielded the grounder, tagged 1B and then threw home; Posada chased Suzuki up the line before tagging him"
-"NYA200904220",11,"replay,2,suzuk001,OAK,davig901,NYC21,I,N,I,,H $a fan touched the ball and the Yankees complained that the fan interfered with Johnny Damon's ability to catch the ball; crew chief Gerry Davis watched the replay and upheld the home run call; it was the second replay used at Yankee Stadium in four days"
-"NYA200905010",22,"Yankees right fielder Nick Swisher left the game due to an injured elbow"
-"NYA200905010",70,"Angels left fielder Bobby Abreu left the game due to an injured back"
-"NYA200905020",6,"$Angels shortstop Erick Aybar was hit on the mouth by the deflected throw on the stolen base; x-rays were negative"
-"NYA200905020",80,"Debut game for Fernando Rodriguez"
-"NYA200905040",0,"$2:17 rain delay before start of game"
-"NYA200905040",34,"$Yankees manager Joe Girardi and Red Sox 1B coach Tim Bogar yell at each other during Kevin Youkilis' at bat; Girardi moved down the dugout to get closer to Bogar; neither person would talk about what the argument was about"
-"NYA200905040",46,"ej,giraj001,M,mealj901,Called third strike on Jeter Yankees Manager Joe Girardi ejected by HP umpire Jerry Meals"
-"NYA200905040",53,"Red Sox first baseman Kevin Youkilis left the game due to a tightness on the left side of his lower back"
-"NYA200905040",72,"$Teixeira homered from both sides of the plate"
-"NYA200905050",33,"Red Sox left fielder Jacoby Ellsbury left the game due to an injured leg"
-"NYA200905060",59,"ej,swisn001,P,hoyej901,Balls and strikes Yankees right fielder Nick Swisher ejected by HP umpire James Hoye"
-"NYA200905060",68,"$28 minute rain delay"
-"NYA200905070",50,"Yankees catcher Jose Molina left the game due to an injured leg"
-"NYA200905150",24,"ej,damoj001,P,bellw901,Called third strike $Damon ejected by HP umpire Bell for arguing called strike 3; he drew line in dirt to show where he thought pitch was"
-"NYA200905150",41,"Twins third baseman Joe Crede left the game due to back spasms and a tight hamstring"
-"NYA200905150",47,"$Carlos Gomez ran past Mark Teixeira at 1B on the fair side of the bag"
-"NYA200905150",69,"$as in the sixth, Gomez ran past Teixeira on the fair side of the bag, this time running into Teixeira's glove on his left hand; that wrist had been injured earlier in the season and Teixeira yelled at Gomez; both benches emptied; Twins manager Ron Gardenhire and Yankees manager Joe Girardi yelled at each other during the incident but no one was ejected"
-"NYA200905160",12,"$Michael Cuddyer slid into 2B with a popup slide and returned to 1B; he was called out on appeal for not retouching 2B before returning to 1B; the run counted on the timing play"
-"NYA200905210",4,"Yankees pitcher Joba Chamberlain left the game due to an injured knee"
-"NYA200905230",12,"Debut game for John Mayberry"
-"NYA200906130",41,"Orginally scored as S5, but rule prohibits awarding a hit when a runner is retired before reaching his next base"
-"NYA200906140",54,"ej,manuj101,M,wolfj901,Called third strike $David Wright argued the called third strike and Mets manager Jerry Manuel got in between and continued the argument; Manuel was ejected by HP umpire Jim Wolf"
-"NYA200906160",59,"Yankees shortstop Derek Jeter left the game due to an injured foot/ankle"
-"NYA200906180",0,"$Rain delay of 5:26 at start of game"
-"NYA200907010",37,"replay,5,cabrm002,NYA,scotd901,NYC21,F,N,I,,H $the fly ball by Melky Cabrera was hit near the LF pole; crew chief Dale Scott watched the replay and upheld the original call of home run"
-"NYA200907020",0,"$36 minute delay before start of game for rain that never appeared"
-"NYA200907040",60,"New York Yankees pitcher Chien-Ming Wang left the game due to an injured neck/shoulder."
-"NYA200907060",6,"ej,giraj001,M,fostm901,Call at 3B on Jeter steal attempt $Derek Jeter objected to the call at 3B; coach Rob Thomson pushed Jeter away from umpire Marty Foster; manager Joe Girardi argued with Foster about the play; Foster told Jeter and Girardi that the ball beat Jeter to the bag; it appeared that Jeter slid around Scott Rolen's tag; Girardi was ejected by Foster"
-"NYA200908060",34,"Red Sox shortstop Jed Lowrie left the game due to an injured arm"
-"NYA200908070",108,"Debut game for Junichi Tazawa"
-"NYA200908080",53,"$one pitch to Teixeira was high and inside, causing the batter to duck"
-"NYA200908080",55,"ej,ramir003,P,joycj901,Intentional HBP Red Sox pitcher Ramon Ramirez ejected by HP umpire Jim Joyce immediately after hitting Rodriguez; no warnings had been issued to the team even though there had been a few hit batters and close pitches in the series"
-"NYA200908100",21,"ej,gastc101,M,schrp901,Balls and strikes Blue Jays Manager Cito Gaston ejected by HP umpire Paul Schrieber for arguing balls and strikes"
-"NYA200908110",66,"replay,8,posaj001,NYA,westj901,NYC21,I,N,I,,H $Jorge Posada's fly barely cleared the RF wall over the glove of Joe Inglett; Blue Jays manager Cito Gaston thought that a fan interfered with Inglett's ability to catch the ball; crew chief Joe West watched the replay and upheld the call because the fan clearly did not reach out over the fence"
-"NYA200908120",22,"Yankees shortstop Derek Jeter left the game due to an injured foot/ankle"
-"NYA200908250",42,"replay,4,canor001,NYA,davib902,NYC21,F,N,I,,H $Robinson Cano's fly ball was fair by about two feet and cleared the wall by about the same distance; Rangers manager Ron Washington asked 3B umpire Chuck Meriwether about the call, so acting crew chief Bob Davidson watched the replay and upheld the home run call"
-"NYA200908260",59,"$Alex Rodriguez fouled a ball off his left foot"
-"NYA200908260",64,"Yankees catcher Jorge Posada left with a bruised joint on his left ring finger after a foul tip hit his catching hand"
-"NYA200908260",69,"Yankees third baseman Alex Rodriguez left with a bruised left foot"
-"NYA200908290",57,"$Yankees pitcher Sergio Mitre was hit on his right arm by a line drive and left the game"
-"NYA200908300",58,"Yankees left fielder Johnny Damon left the game due to cramps in both calves"
-"NYA200909071",4,"Rays first baseman Carlos Pena left the game due to an injured hand/wrist"
-"NYA200909110",49,"Orioles left fielder Felix Pie left the game due to an injured back"
-"NYA200909130",41,"$Alex Rodriguez objected to the called third strike as soon as it was called but remained in the game"
-"NYA200909130",49,"ej,rodra001,P,fostm901,Called third strike ej,giraj001,M,fostm901,Called third strike on Alex Rodriguez Yankees third baseman Alex Rodriguez and manager Joe Girardi ejected by HP umpire Marty Foster"
-"NYA200909150",76,"$the first pitch to Jorge Posada was behind him; he yelled at pitcher Jesse Carlson and both benches emptied"
-"NYA200909150",79,"ej,posaj001,P,joycj901,Threw elbow at Jesse Carlson after scoring ej,carlj001,P,joycj901,Fighting Jorge Posada $as Posada crossed the plate, he stuck his elbow out at Carlson, who turned and yelled at Posada; Posada was ejected by HP umpire Jim Joyce and then Posada ran back towards Carlson; Joyce stepped in between; the two players fought and the benches cleared again; Carlson, who suffered a gash on the left side of his forehead, was also ejected by Joyce"
-"NYA200909150",79,"umpchange,8,ump3b,millb901 umpchange,8,ump2b,(None) $3B umpire Cousins injured during the brawl when hit in the leg by a soda bottle thrown from the stands; 2B umpire Miller move to 3rd and game finished with 3 umpires"
-"NYA200909250",31,"$the shartp liner hit Red Sox pitcher Jon Lester just above the right knee and he left with a bruised quadriceps"
-"NYA200909260",23,"$Yankees third baseman Alex Rodriguez started across the plate after the last pitch but since Red Sox catcher Victor Martinez was attempting to throw out Mark Teixeira at second base on a steal attempt and Rodriguez got in the way, interference was called on ARod and Teixeira was called out"
-"NYA200909260",40,"$Red Sox catcher Victor Martinez fielded the dribbler about 10 feet up the first base line; he dove back to the plate and tagged it before Yankees runner Derek Jeter could score"
-"NYA200909260",46,"$the ball bounced off the top of the wall and into the seats"
-"NYA200909270",40,"$Yankees runner Nick Swisher was called out on appeal for leaving second base too soon when tagging up on the fly ball. Ellsbury is credited with DP, but not an assist"
+"NYA200904160",0,"$First game at the new Yankee Stadium; Yogi Berra threw the ceremonial pitch"FILENAME_TX","LINE_NUMBER_CT"
+
+"NYA200904180",19,"Debut game for Anthony Claggett"2009NYA.EVA.regular.comment.csv",2
+
+"NYA200904180",66,"$a foul ball off the bat of Francisco struck the helmet of HP umpire Ed Hickox, cracking it; he left the field and returned with a Yankee catchers mask"2009NYA.EVA.regular.comment.csv",3
+
+"NYA200904180",80,"umpchange,8,umphome,hallt901 umpchange,8,ump2b,(None) $HP umpire Ed Hickox leaves game and is taken to the hospital for observation; 2B umpire Tom Hallion moves behind the plate"2009NYA.EVA.regular.comment.csv",4
+
+"NYA200904190",61,"replay,7,posaj001,NYA,crawj901,NYC21,I,N,I,,H $Trevor Crowe leaped in an attempt to catch the fly ball but a fan touched the ball, which hit the top of the wall and Crowe's glove before landing on the warning track; the play was ruled a homer but the Indians wanted fan interference; crew chief Jerry Crawford watched the replay and, after an 8 1/2 minute delay, upheld the call"2009NYA.EVA.regular.comment.csv",5
+
+"NYA200904210",25,"$Teixeira fielded the grounder, tagged 1B and then threw home; Posada chased Suzuki up the line before tagging him"2009NYA.EVA.regular.comment.csv",6
+
+"NYA200904220",11,"replay,2,suzuk001,OAK,davig901,NYC21,I,N,I,,H $a fan touched the ball and the Yankees complained that the fan interfered with Johnny Damon's ability to catch the ball; crew chief Gerry Davis watched the replay and upheld the home run call; it was the second replay used at Yankee Stadium in four days"2009NYA.EVA.regular.comment.csv",7
+
+"NYA200905010",22,"Yankees right fielder Nick Swisher left the game due to an injured elbow"2009NYA.EVA.regular.comment.csv",8
+
+"NYA200905010",70,"Angels left fielder Bobby Abreu left the game due to an injured back"2009NYA.EVA.regular.comment.csv",9
+
+"NYA200905020",6,"$Angels shortstop Erick Aybar was hit on the mouth by the deflected throw on the stolen base; x-rays were negative"2009NYA.EVA.regular.comment.csv",10
+
+"NYA200905020",80,"Debut game for Fernando Rodriguez"2009NYA.EVA.regular.comment.csv",11
+
+"NYA200905040",0,"$2:17 rain delay before start of game"2009NYA.EVA.regular.comment.csv",12
+
+"NYA200905040",34,"$Yankees manager Joe Girardi and Red Sox 1B coach Tim Bogar yell at each other during Kevin Youkilis' at bat; Girardi moved down the dugout to get closer to Bogar; neither person would talk about what the argument was about"2009NYA.EVA.regular.comment.csv",13
+
+"NYA200905040",46,"ej,giraj001,M,mealj901,Called third strike on Jeter Yankees Manager Joe Girardi ejected by HP umpire Jerry Meals"2009NYA.EVA.regular.comment.csv",14
+
+"NYA200905040",53,"Red Sox first baseman Kevin Youkilis left the game due to a tightness on the left side of his lower back"2009NYA.EVA.regular.comment.csv",15
+
+"NYA200905040",72,"$Teixeira homered from both sides of the plate"2009NYA.EVA.regular.comment.csv",16
+
+"NYA200905050",33,"Red Sox left fielder Jacoby Ellsbury left the game due to an injured leg"2009NYA.EVA.regular.comment.csv",17
+
+"NYA200905060",59,"ej,swisn001,P,hoyej901,Balls and strikes Yankees right fielder Nick Swisher ejected by HP umpire James Hoye"2009NYA.EVA.regular.comment.csv",18
+
+"NYA200905060",68,"$28 minute rain delay"2009NYA.EVA.regular.comment.csv",19
+
+"NYA200905070",50,"Yankees catcher Jose Molina left the game due to an injured leg"2009NYA.EVA.regular.comment.csv",20
+
+"NYA200905150",24,"ej,damoj001,P,bellw901,Called third strike $Damon ejected by HP umpire Bell for arguing called strike 3; he drew line in dirt to show where he thought pitch was"2009NYA.EVA.regular.comment.csv",21
+
+"NYA200905150",41,"Twins third baseman Joe Crede left the game due to back spasms and a tight hamstring"2009NYA.EVA.regular.comment.csv",22
+
+"NYA200905150",47,"$Carlos Gomez ran past Mark Teixeira at 1B on the fair side of the bag"2009NYA.EVA.regular.comment.csv",23
+
+"NYA200905150",69,"$as in the sixth, Gomez ran past Teixeira on the fair side of the bag, this time running into Teixeira's glove on his left hand; that wrist had been injured earlier in the season and Teixeira yelled at Gomez; both benches emptied; Twins manager Ron Gardenhire and Yankees manager Joe Girardi yelled at each other during the incident but no one was ejected"2009NYA.EVA.regular.comment.csv",24
+
+"NYA200905160",12,"$Michael Cuddyer slid into 2B with a popup slide and returned to 1B; he was called out on appeal for not retouching 2B before returning to 1B; the run counted on the timing play"2009NYA.EVA.regular.comment.csv",25
+
+"NYA200905210",4,"Yankees pitcher Joba Chamberlain left the game due to an injured knee"2009NYA.EVA.regular.comment.csv",26
+
+"NYA200905230",12,"Debut game for John Mayberry"2009NYA.EVA.regular.comment.csv",27
+
+"NYA200906130",41,"Orginally scored as S5, but rule prohibits awarding a hit when a runner is retired before reaching his next base"2009NYA.EVA.regular.comment.csv",28
+
+"NYA200906140",54,"ej,manuj101,M,wolfj901,Called third strike $David Wright argued the called third strike and Mets manager Jerry Manuel got in between and continued the argument; Manuel was ejected by HP umpire Jim Wolf"2009NYA.EVA.regular.comment.csv",29
+
+"NYA200906160",59,"Yankees shortstop Derek Jeter left the game due to an injured foot/ankle"2009NYA.EVA.regular.comment.csv",30
+
+"NYA200906180",0,"$Rain delay of 5:26 at start of game"2009NYA.EVA.regular.comment.csv",31
+
+"NYA200907010",37,"replay,5,cabrm002,NYA,scotd901,NYC21,F,N,I,,H $the fly ball by Melky Cabrera was hit near the LF pole; crew chief Dale Scott watched the replay and upheld the original call of home run"2009NYA.EVA.regular.comment.csv",32
+
+"NYA200907020",0,"$36 minute delay before start of game for rain that never appeared"2009NYA.EVA.regular.comment.csv",33
+
+"NYA200907040",60,"New York Yankees pitcher Chien-Ming Wang left the game due to an injured neck/shoulder."2009NYA.EVA.regular.comment.csv",34
+
+"NYA200907060",6,"ej,giraj001,M,fostm901,Call at 3B on Jeter steal attempt $Derek Jeter objected to the call at 3B; coach Rob Thomson pushed Jeter away from umpire Marty Foster; manager Joe Girardi argued with Foster about the play; Foster told Jeter and Girardi that the ball beat Jeter to the bag; it appeared that Jeter slid around Scott Rolen's tag; Girardi was ejected by Foster"2009NYA.EVA.regular.comment.csv",35
+
+"NYA200908060",34,"Red Sox shortstop Jed Lowrie left the game due to an injured arm"2009NYA.EVA.regular.comment.csv",36
+
+"NYA200908070",108,"Debut game for Junichi Tazawa"2009NYA.EVA.regular.comment.csv",37
+
+"NYA200908080",53,"$one pitch to Teixeira was high and inside, causing the batter to duck"2009NYA.EVA.regular.comment.csv",38
+
+"NYA200908080",55,"ej,ramir003,P,joycj901,Intentional HBP Red Sox pitcher Ramon Ramirez ejected by HP umpire Jim Joyce immediately after hitting Rodriguez; no warnings had been issued to the team even though there had been a few hit batters and close pitches in the series"2009NYA.EVA.regular.comment.csv",39
+
+"NYA200908100",21,"ej,gastc101,M,schrp901,Balls and strikes Blue Jays Manager Cito Gaston ejected by HP umpire Paul Schrieber for arguing balls and strikes"2009NYA.EVA.regular.comment.csv",40
+
+"NYA200908110",66,"replay,8,posaj001,NYA,westj901,NYC21,I,N,I,,H $Jorge Posada's fly barely cleared the RF wall over the glove of Joe Inglett; Blue Jays manager Cito Gaston thought that a fan interfered with Inglett's ability to catch the ball; crew chief Joe West watched the replay and upheld the call because the fan clearly did not reach out over the fence"2009NYA.EVA.regular.comment.csv",41
+
+"NYA200908120",22,"Yankees shortstop Derek Jeter left the game due to an injured foot/ankle"2009NYA.EVA.regular.comment.csv",42
+
+"NYA200908250",42,"replay,4,canor001,NYA,davib902,NYC21,F,N,I,,H $Robinson Cano's fly ball was fair by about two feet and cleared the wall by about the same distance; Rangers manager Ron Washington asked 3B umpire Chuck Meriwether about the call, so acting crew chief Bob Davidson watched the replay and upheld the home run call"2009NYA.EVA.regular.comment.csv",43
+
+"NYA200908260",59,"$Alex Rodriguez fouled a ball off his left foot"2009NYA.EVA.regular.comment.csv",44
+
+"NYA200908260",64,"Yankees catcher Jorge Posada left with a bruised joint on his left ring finger after a foul tip hit his catching hand"2009NYA.EVA.regular.comment.csv",45
+
+"NYA200908260",69,"Yankees third baseman Alex Rodriguez left with a bruised left foot"2009NYA.EVA.regular.comment.csv",46
+
+"NYA200908290",57,"$Yankees pitcher Sergio Mitre was hit on his right arm by a line drive and left the game"2009NYA.EVA.regular.comment.csv",47
+
+"NYA200908300",58,"Yankees left fielder Johnny Damon left the game due to cramps in both calves"2009NYA.EVA.regular.comment.csv",48
+
+"NYA200909071",4,"Rays first baseman Carlos Pena left the game due to an injured hand/wrist"2009NYA.EVA.regular.comment.csv",49
+
+"NYA200909110",49,"Orioles left fielder Felix Pie left the game due to an injured back"2009NYA.EVA.regular.comment.csv",50
+
+"NYA200909130",41,"$Alex Rodriguez objected to the called third strike as soon as it was called but remained in the game"2009NYA.EVA.regular.comment.csv",51
+
+"NYA200909130",49,"ej,rodra001,P,fostm901,Called third strike ej,giraj001,M,fostm901,Called third strike on Alex Rodriguez Yankees third baseman Alex Rodriguez and manager Joe Girardi ejected by HP umpire Marty Foster"2009NYA.EVA.regular.comment.csv",52
+
+"NYA200909150",76,"$the first pitch to Jorge Posada was behind him; he yelled at pitcher Jesse Carlson and both benches emptied"2009NYA.EVA.regular.comment.csv",53
+
+"NYA200909150",79,"ej,posaj001,P,joycj901,Threw elbow at Jesse Carlson after scoring ej,carlj001,P,joycj901,Fighting Jorge Posada $as Posada crossed the plate, he stuck his elbow out at Carlson, who turned and yelled at Posada; Posada was ejected by HP umpire Jim Joyce and then Posada ran back towards Carlson; Joyce stepped in between; the two players fought and the benches cleared again; Carlson, who suffered a gash on the left side of his forehead, was also ejected by Joyce"2009NYA.EVA.regular.comment.csv",54
+
+"NYA200909150",79,"umpchange,8,ump3b,millb901 umpchange,8,ump2b,(None) $3B umpire Cousins injured during the brawl when hit in the leg by a soda bottle thrown from the stands; 2B umpire Miller move to 3rd and game finished with 3 umpires"2009NYA.EVA.regular.comment.csv",55
+
+"NYA200909250",31,"$the shartp liner hit Red Sox pitcher Jon Lester just above the right knee and he left with a bruised quadriceps"2009NYA.EVA.regular.comment.csv",56
+
+"NYA200909260",23,"$Yankees third baseman Alex Rodriguez started across the plate after the last pitch but since Red Sox catcher Victor Martinez was attempting to throw out Mark Teixeira at second base on a steal attempt and Rodriguez got in the way, interference was called on ARod and Teixeira was called out"2009NYA.EVA.regular.comment.csv",57
+
+"NYA200909260",40,"$Red Sox catcher Victor Martinez fielded the dribbler about 10 feet up the first base line; he dove back to the plate and tagged it before Yankees runner Derek Jeter could score"2009NYA.EVA.regular.comment.csv",58
+
+"NYA200909260",46,"$the ball bounced off the top of the wall and into the seats"2009NYA.EVA.regular.comment.csv",59
+
+"NYA200909270",40,"$Yankees runner Nick Swisher was called out on appeal for leaving second base too soon when tagging up on the fly ball. Ellsbury is credited with DP, but not an assist"2009NYA.EVA.regular.comment.csv",60
+

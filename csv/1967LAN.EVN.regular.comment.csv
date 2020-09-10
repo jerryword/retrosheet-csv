@@ -1,53 +1,52 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"LAN196704180",64,"1:18 rain delay"
-"LAN196704240",6,"Mike Shannon left with unknown injury"
-"LAN196704250",52,"Debut game for Alan Foster"
-"LAN196704260",18,"Tony Cloninger left with pulled muscle"
-"LAN196704270",7,"Lou Johnson hurt sliding home"
-"LAN196705300",37,"Jerry Buchek spiked by Don Sutton; left on stretcher"
-"LAN196705310",83,"$Jeff Torborg stepped in front of HP on the attempted steal; a balk and interference called"
-"LAN196706160",7,"Pete Rose hurt right shoulder making diving catch"
-"LAN196706160",16,"$Chico Ruiz caught John Roseboro with the hidden ball trick to complete the double play"
-"LAN196706180",60,"Debut game for Len Boehmer"
-"LAN196706210",9,"Lou Johnson injured his ankle in the first inning"
-"LAN196706210",56,"Ray Washburn left with compound dislocation of his right thumb"
-"LAN196707130",0,"$Don Sutton 105 pitches; Rich Nye 93 pitches"
-"LAN196707140",0,"$Bill Singer 102 pitches"
-"LAN196707161",76,"Willie Davis left with a pulled muscle"
-"LAN196707270",40,"Debut game for Danny Frisella"
-"LAN196707270",60,"$Drysdale injured sliding into 3rd"
-"LAN196707270",62,"ej,grotj101,P,jackb901,Time given for warmup (Threw towel) $Mets Grote ejected by HP umpire Jackowski for arguing amount of time new Dodger pitcher was given to warm up; he threw a towel on the field"
-"LAN196708020",47,"ej,johnl104,P,pryop901,Interference call $Lou Johnson called for interference when he ran into his own bunt; Johnson ejected by HP umpire Paul Pryor"
-"LAN196709060",0,"$Bill Singer 110 pitches; Fergie Jenkins 84 pitches"
-"LAN196709070",60,"$Cubs pitching coach Joe Becker came to mound to talk with Pete Mikkelsen, left but turned around and came back to remove him for Jim Ellis; Dodgers manager Walter Alston pointed out that Mikkelsen had to stay in since Becker had left the mound"
-"LAN196709070",61,"$no one covered 1B"
-"LAN196709070",61,"ej,beckj102,C,venzt901,Pitching change argument $Cubs pitching coach Joe Becker came out to replace Pete Mikkelsen with Chuck Hartenstein but HP umpire Tony Venzon said that Jim Ellis had to come in Becker complained and was ejected by Venzon"
-"LAN196709130",15,"Debut game for Luis Alcaraz"
-"LAN196709230",64,"missed squeeze"
-"LAN196709280",62,"52 minute rain delay"
-"LAN196704180",64,"1:18 rain delay"
-"LAN196704240",6,"Mike Shannon left with unknown injury"
-"LAN196704250",52,"Debut game for Alan Foster"
-"LAN196704260",18,"Tony Cloninger left with pulled muscle"
-"LAN196704270",7,"Lou Johnson hurt sliding home"
-"LAN196705300",37,"Jerry Buchek spiked by Don Sutton; left on stretcher"
-"LAN196705310",83,"$Jeff Torborg stepped in front of HP on the attempted steal; a balk and interference called"
-"LAN196706160",7,"Pete Rose hurt right shoulder making diving catch"
-"LAN196706160",16,"$Chico Ruiz caught John Roseboro with the hidden ball trick to complete the double play"
-"LAN196706180",60,"Debut game for Len Boehmer"
-"LAN196706210",9,"Lou Johnson injured his ankle in the first inning"
-"LAN196706210",56,"Ray Washburn left with compound dislocation of his right thumb"
-"LAN196707130",0,"$Don Sutton 105 pitches; Rich Nye 93 pitches"
-"LAN196707140",0,"$Bill Singer 102 pitches"
-"LAN196707161",76,"Willie Davis left with a pulled muscle"
-"LAN196707270",40,"Debut game for Danny Frisella"
-"LAN196707270",60,"$Drysdale injured sliding into 3rd"
-"LAN196707270",62,"ej,grotj101,P,jackb901,Time given for warmup (Threw towel) $Mets Grote ejected by HP umpire Jackowski for arguing amount of time new Dodger pitcher was given to warm up; he threw a towel on the field"
-"LAN196708020",47,"ej,johnl104,P,pryop901,Interference call $Lou Johnson called for interference when he ran into his own bunt; Johnson ejected by HP umpire Paul Pryor"
-"LAN196709060",0,"$Bill Singer 110 pitches; Fergie Jenkins 84 pitches"
-"LAN196709070",60,"$Cubs pitching coach Joe Becker came to mound to talk with Pete Mikkelsen, left but turned around and came back to remove him for Jim Ellis; Dodgers manager Walter Alston pointed out that Mikkelsen had to stay in since Becker had left the mound"
-"LAN196709070",61,"$no one covered 1B"
-"LAN196709070",61,"ej,beckj102,C,venzt901,Pitching change argument $Cubs pitching coach Joe Becker came out to replace Pete Mikkelsen with Chuck Hartenstein but HP umpire Tony Venzon said that Jim Ellis had to come in Becker complained and was ejected by Venzon"
-"LAN196709130",15,"Debut game for Luis Alcaraz"
-"LAN196709230",64,"missed squeeze"
-"LAN196709280",62,"52 minute rain delay"
+"LAN196704180",64,"1:18 rain delay"FILENAME_TX","LINE_NUMBER_CT"
+
+"LAN196704240",6,"Mike Shannon left with unknown injury"1967LAN.EVN.regular.comment.csv",2
+
+"LAN196704250",52,"Debut game for Alan Foster"1967LAN.EVN.regular.comment.csv",3
+
+"LAN196704260",18,"Tony Cloninger left with pulled muscle"1967LAN.EVN.regular.comment.csv",4
+
+"LAN196704270",7,"Lou Johnson hurt sliding home"1967LAN.EVN.regular.comment.csv",5
+
+"LAN196705300",37,"Jerry Buchek spiked by Don Sutton; left on stretcher"1967LAN.EVN.regular.comment.csv",6
+
+"LAN196705310",83,"$Jeff Torborg stepped in front of HP on the attempted steal; a balk and interference called"1967LAN.EVN.regular.comment.csv",7
+
+"LAN196706160",7,"Pete Rose hurt right shoulder making diving catch"1967LAN.EVN.regular.comment.csv",8
+
+"LAN196706160",16,"$Chico Ruiz caught John Roseboro with the hidden ball trick to complete the double play"1967LAN.EVN.regular.comment.csv",9
+
+"LAN196706180",60,"Debut game for Len Boehmer"1967LAN.EVN.regular.comment.csv",10
+
+"LAN196706210",9,"Lou Johnson injured his ankle in the first inning"1967LAN.EVN.regular.comment.csv",11
+
+"LAN196706210",56,"Ray Washburn left with compound dislocation of his right thumb"1967LAN.EVN.regular.comment.csv",12
+
+"LAN196707130",0,"$Don Sutton 105 pitches; Rich Nye 93 pitches"1967LAN.EVN.regular.comment.csv",13
+
+"LAN196707140",0,"$Bill Singer 102 pitches"1967LAN.EVN.regular.comment.csv",14
+
+"LAN196707161",76,"Willie Davis left with a pulled muscle"1967LAN.EVN.regular.comment.csv",15
+
+"LAN196707270",40,"Debut game for Danny Frisella"1967LAN.EVN.regular.comment.csv",16
+
+"LAN196707270",60,"$Drysdale injured sliding into 3rd"1967LAN.EVN.regular.comment.csv",17
+
+"LAN196707270",62,"ej,grotj101,P,jackb901,Time given for warmup (Threw towel) $Mets Grote ejected by HP umpire Jackowski for arguing amount of time new Dodger pitcher was given to warm up; he threw a towel on the field"1967LAN.EVN.regular.comment.csv",18
+
+"LAN196708020",47,"ej,johnl104,P,pryop901,Interference call $Lou Johnson called for interference when he ran into his own bunt; Johnson ejected by HP umpire Paul Pryor"1967LAN.EVN.regular.comment.csv",19
+
+"LAN196709060",0,"$Bill Singer 110 pitches; Fergie Jenkins 84 pitches"1967LAN.EVN.regular.comment.csv",20
+
+"LAN196709070",60,"$Cubs pitching coach Joe Becker came to mound to talk with Pete Mikkelsen, left but turned around and came back to remove him for Jim Ellis; Dodgers manager Walter Alston pointed out that Mikkelsen had to stay in since Becker had left the mound"1967LAN.EVN.regular.comment.csv",21
+
+"LAN196709070",61,"$no one covered 1B"1967LAN.EVN.regular.comment.csv",22
+
+"LAN196709070",61,"ej,beckj102,C,venzt901,Pitching change argument $Cubs pitching coach Joe Becker came out to replace Pete Mikkelsen with Chuck Hartenstein but HP umpire Tony Venzon said that Jim Ellis had to come in Becker complained and was ejected by Venzon"1967LAN.EVN.regular.comment.csv",23
+
+"LAN196709130",15,"Debut game for Luis Alcaraz"1967LAN.EVN.regular.comment.csv",24
+
+"LAN196709230",64,"missed squeeze"1967LAN.EVN.regular.comment.csv",25
+
+"LAN196709280",62,"52 minute rain delay"1967LAN.EVN.regular.comment.csv",26
+

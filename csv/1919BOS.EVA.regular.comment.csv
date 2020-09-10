@@ -1,107 +1,106 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"BOS191905010",0,"$Opening Day at Fenway Park; Gov. Coolidge and Army and Navy officials in attendance; Coolidge threw out first ball"
-"BOS191905010",1,"ej,jones104,P,connt901, $Sam Jones ejected by Connolly in an early inning"
-"BOS191905010",9,"$Ruth overran 3B"
-"BOS191905010",19,"$Pratt threw wildly to 1B"
-"BOS191905010",28,"$Pratt spiked Mays and ripped his shoe causing an argument"
-"BOS191905010",68,"ej,pippw101,NYA,P,Interference non-call $Wally Pipp ejected by Connolly; Nallin ruled McInnis safe when he collided with Quinn at 1B and Quinn fell down; the game was delayed 15 minutes"
-"BOS191905010",75,"$As ball was folling near the line and Vitt hit it foul so Peckinpaugh kept running for a double"
-"BOS191905030",4,"missing play in BOS191905030"
-"BOS191905030",5,"missing fielders in BOS191905030"
-"BOS191905030",25,"missing fielders in BOS191905030"
-"BOS191905030",27,"No putout credited for this play in 1919"
-"BOS191905030",33,"missing fielders in BOS191905030"
-"BOS191905030",50,"missing fielders in BOS191905030"
-"BOS191905030",53,"missing fielders in BOS191905030"
-"BOS191905030",57,"missing fielders in BOS191905030"
-"BOS191905030",64,"missing fielders in BOS191905030"
-"BOS191905030",67,"missing fielders in BOS191905030"
-"BOS191905030",72,"missing fielders in BOS191905030"
-"BOS191905030",73,"missing fielders in BOS191905030"
-"BOS191905050",14,"$Lewis rounded 3B and started home but had to return and Bodie could not get back to 2B"
-"BOS191905060",2,"Hitting streak is 11"
-"BOS191905060",7,"Rice lost ball in sun"
-"BOS191905080",20,"Diving cacth of long drive"
-"BOS191905080",44,"2nd baseman tried to double up runner but hit him in back"
-"BOS191905080",48,"Infield hit"
-"BOS191906100",15,"$Gainer muffed the ball on the embankment"
-"BOS191906100",50,"$Barry's throw went into the stands"
-"BOS191906110",5,"$Barry made a wild throw to McInnis"
-"BOS191906110",63,"$Barry's throw took and unexpected hop and hit Schang on the forehead, knocking him down"
-"BOS191906120",5,"$Shean declared out for interfering with Schalk as he tried to throw out Gilhooley on a stolen base attempt"
-"BOS191906130",0,"$Gleason switched the batting order because of a team-wide slump; Sam Jones pitched for Boston in spite of his swollen hand"
-"BOS191906130",35,"$failed hit & run on a pitchout"
-"BOS191906180",79,"$Schang out on hidden ball trick to end game"
-"BOS191906240",52,"Into the stands."
-"BOS191906251",70,"Scorecard has next play 9-5."
-"BOS191906260",0,"Also used Boston Globe."
-"BOS191906260",13,"Picinich ejected for arguing strike call."
-"BOS191907071",11,"Fine play by Ruth"
-"BOS191907071",61,"McInnis overran second and was thrown out."
-"BOS191907240",37,"$Red Sox claimed Baker's popup should have been infield fly"
-"BOS191907260",39,"$Scott was hurt in the collision with Peck"
-"BOS191907260",58,"$Jones hit on the head"
-"BOS191907260",62,"$Ruth crashed into the fence trying to catch Pipp's foul fly and was knocked out briefly"
-"BOS191907280",9,"Ruth overran 2B"
-"BOS191907280",22,"missing play in BOS191907280"
-"BOS191908021",6,"$Weaver lost the ball in the sun $Overflow crowd on the field restrained by police on foot & horseback"
-"BOS191908021",17,"Liebold was caught off 1B and Schalk tried to score"
-"BOS191908021",42,"$into the overflow crowd"
-"BOS191908040",11,"$Ruth was hit on the hand"
-"BOS191908040",28,"$Ruth was picked off 1B and Roth tried to score"
-"BOS191908040",45,"$the ball struck Weaver on the right eye"
-"BOS191908281",7,"Hit and run."
-"BOS191908281",53,"Rest of game from 8/20 Boston Globe and Retrosheet box."
-"BOS191905010",0,"$Opening Day at Fenway Park; Gov. Coolidge and Army and Navy officials in attendance; Coolidge threw out first ball"
-"BOS191905010",1,"ej,jones104,P,connt901, $Sam Jones ejected by Connolly in an early inning"
-"BOS191905010",9,"$Ruth overran 3B"
-"BOS191905010",19,"$Pratt threw wildly to 1B"
-"BOS191905010",28,"$Pratt spiked Mays and ripped his shoe causing an argument"
-"BOS191905010",68,"ej,pippw101,NYA,P,Interference non-call $Wally Pipp ejected by Connolly; Nallin ruled McInnis safe when he collided with Quinn at 1B and Quinn fell down; the game was delayed 15 minutes"
-"BOS191905010",75,"$As ball was folling near the line and Vitt hit it foul so Peckinpaugh kept running for a double"
-"BOS191905030",4,"missing play in BOS191905030"
-"BOS191905030",5,"missing fielders in BOS191905030"
-"BOS191905030",25,"missing fielders in BOS191905030"
-"BOS191905030",27,"No putout credited for this play in 1919"
-"BOS191905030",33,"missing fielders in BOS191905030"
-"BOS191905030",50,"missing fielders in BOS191905030"
-"BOS191905030",53,"missing fielders in BOS191905030"
-"BOS191905030",57,"missing fielders in BOS191905030"
-"BOS191905030",64,"missing fielders in BOS191905030"
-"BOS191905030",67,"missing fielders in BOS191905030"
-"BOS191905030",72,"missing fielders in BOS191905030"
-"BOS191905030",73,"missing fielders in BOS191905030"
-"BOS191905050",14,"$Lewis rounded 3B and started home but had to return and Bodie could not get back to 2B"
-"BOS191905060",2,"Hitting streak is 11"
-"BOS191905060",7,"Rice lost ball in sun"
-"BOS191905080",20,"Diving cacth of long drive"
-"BOS191905080",44,"2nd baseman tried to double up runner but hit him in back"
-"BOS191905080",48,"Infield hit"
-"BOS191906100",15,"$Gainer muffed the ball on the embankment"
-"BOS191906100",50,"$Barry's throw went into the stands"
-"BOS191906110",5,"$Barry made a wild throw to McInnis"
-"BOS191906110",63,"$Barry's throw took and unexpected hop and hit Schang on the forehead, knocking him down"
-"BOS191906120",5,"$Shean declared out for interfering with Schalk as he tried to throw out Gilhooley on a stolen base attempt"
-"BOS191906130",0,"$Gleason switched the batting order because of a team-wide slump; Sam Jones pitched for Boston in spite of his swollen hand"
-"BOS191906130",35,"$failed hit & run on a pitchout"
-"BOS191906180",79,"$Schang out on hidden ball trick to end game"
-"BOS191906240",52,"Into the stands."
-"BOS191906251",70,"Scorecard has next play 9-5."
-"BOS191906260",0,"Also used Boston Globe."
-"BOS191906260",13,"ej,piciv101,P,connt901,Called third strike Picinich ejected for arguing strike call."
-"BOS191907071",11,"Fine play by Ruth"
-"BOS191907071",61,"McInnis overran second and was thrown out."
-"BOS191907240",37,"$Red Sox claimed Baker's popup should have been infield fly"
-"BOS191907260",39,"$Scott was hurt in the collision with Peck"
-"BOS191907260",58,"$Jones hit on the head"
-"BOS191907260",62,"$Ruth crashed into the fence trying to catch Pipp's foul fly and was knocked out briefly"
-"BOS191907280",9,"Ruth overran 2B"
-"BOS191907280",22,"missing play in BOS191907280"
-"BOS191908021",6,"$Weaver lost the ball in the sun $Overflow crowd on the field restrained by police on foot & horseback"
-"BOS191908021",17,"Liebold was caught off 1B and Schalk tried to score"
-"BOS191908021",42,"$into the overflow crowd"
-"BOS191908040",11,"$Ruth was hit on the hand"
-"BOS191908040",28,"$Ruth was picked off 1B and Roth tried to score"
-"BOS191908040",45,"$the ball struck Weaver on the right eye"
-"BOS191908281",7,"Hit and run."
-"BOS191908281",53,"Rest of game from 8/20 Boston Globe and Retrosheet box."
+"BOS191905010",0,"$Opening Day at Fenway Park; Gov. Coolidge and Army and Navy officials in attendance; Coolidge threw out first ball"FILENAME_TX","LINE_NUMBER_CT"
+
+"BOS191905010",1,"ej,jones104,P,connt901, $Sam Jones ejected by Connolly in an early inning"1919BOS.EVA.regular.comment.csv",2
+
+"BOS191905010",9,"$Ruth overran 3B"1919BOS.EVA.regular.comment.csv",3
+
+"BOS191905010",19,"$Pratt threw wildly to 1B"1919BOS.EVA.regular.comment.csv",4
+
+"BOS191905010",28,"$Pratt spiked Mays and ripped his shoe causing an argument"1919BOS.EVA.regular.comment.csv",5
+
+"BOS191905010",68,"ej,pippw101,NYA,P,Interference non-call $Wally Pipp ejected by Connolly; Nallin ruled McInnis safe when he collided with Quinn at 1B and Quinn fell down; the game was delayed 15 minutes"1919BOS.EVA.regular.comment.csv",6
+
+"BOS191905010",75,"$As ball was folling near the line and Vitt hit it foul so Peckinpaugh kept running for a double"1919BOS.EVA.regular.comment.csv",7
+
+"BOS191905030",4,"missing play in BOS191905030"1919BOS.EVA.regular.comment.csv",8
+
+"BOS191905030",5,"missing fielders in BOS191905030"1919BOS.EVA.regular.comment.csv",9
+
+"BOS191905030",25,"missing fielders in BOS191905030"1919BOS.EVA.regular.comment.csv",10
+
+"BOS191905030",27,"No putout credited for this play in 1919"1919BOS.EVA.regular.comment.csv",11
+
+"BOS191905030",33,"missing fielders in BOS191905030"1919BOS.EVA.regular.comment.csv",12
+
+"BOS191905030",50,"missing fielders in BOS191905030"1919BOS.EVA.regular.comment.csv",13
+
+"BOS191905030",53,"missing fielders in BOS191905030"1919BOS.EVA.regular.comment.csv",14
+
+"BOS191905030",57,"missing fielders in BOS191905030"1919BOS.EVA.regular.comment.csv",15
+
+"BOS191905030",64,"missing fielders in BOS191905030"1919BOS.EVA.regular.comment.csv",16
+
+"BOS191905030",67,"missing fielders in BOS191905030"1919BOS.EVA.regular.comment.csv",17
+
+"BOS191905030",72,"missing fielders in BOS191905030"1919BOS.EVA.regular.comment.csv",18
+
+"BOS191905030",73,"missing fielders in BOS191905030"1919BOS.EVA.regular.comment.csv",19
+
+"BOS191905050",14,"$Lewis rounded 3B and started home but had to return and Bodie could not get back to 2B"1919BOS.EVA.regular.comment.csv",20
+
+"BOS191905060",2,"Hitting streak is 11"1919BOS.EVA.regular.comment.csv",21
+
+"BOS191905060",7,"Rice lost ball in sun"1919BOS.EVA.regular.comment.csv",22
+
+"BOS191905080",20,"Diving cacth of long drive"1919BOS.EVA.regular.comment.csv",23
+
+"BOS191905080",44,"2nd baseman tried to double up runner but hit him in back"1919BOS.EVA.regular.comment.csv",24
+
+"BOS191905080",48,"Infield hit"1919BOS.EVA.regular.comment.csv",25
+
+"BOS191906100",15,"$Gainer muffed the ball on the embankment"1919BOS.EVA.regular.comment.csv",26
+
+"BOS191906100",50,"$Barry's throw went into the stands"1919BOS.EVA.regular.comment.csv",27
+
+"BOS191906110",5,"$Barry made a wild throw to McInnis"1919BOS.EVA.regular.comment.csv",28
+
+"BOS191906110",63,"$Barry's throw took and unexpected hop and hit Schang on the forehead, knocking him down"1919BOS.EVA.regular.comment.csv",29
+
+"BOS191906120",5,"$Shean declared out for interfering with Schalk as he tried to throw out Gilhooley on a stolen base attempt"1919BOS.EVA.regular.comment.csv",30
+
+"BOS191906130",0,"$Gleason switched the batting order because of a team-wide slump; Sam Jones pitched for Boston in spite of his swollen hand"1919BOS.EVA.regular.comment.csv",31
+
+"BOS191906130",35,"$failed hit & run on a pitchout"1919BOS.EVA.regular.comment.csv",32
+
+"BOS191906180",79,"$Schang out on hidden ball trick to end game"1919BOS.EVA.regular.comment.csv",33
+
+"BOS191906240",52,"Into the stands."1919BOS.EVA.regular.comment.csv",34
+
+"BOS191906251",70,"Scorecard has next play 9-5."1919BOS.EVA.regular.comment.csv",35
+
+"BOS191906260",0,"Also used Boston Globe."1919BOS.EVA.regular.comment.csv",36
+
+"BOS191906260",13,"ej,piciv101,P,connt901,Called third strike Picinich ejected for arguing strike call."1919BOS.EVA.regular.comment.csv",37
+
+"BOS191907071",11,"Fine play by Ruth"1919BOS.EVA.regular.comment.csv",38
+
+"BOS191907071",61,"McInnis overran second and was thrown out."1919BOS.EVA.regular.comment.csv",39
+
+"BOS191907240",37,"$Red Sox claimed Baker's popup should have been infield fly"1919BOS.EVA.regular.comment.csv",40
+
+"BOS191907260",39,"$Scott was hurt in the collision with Peck"1919BOS.EVA.regular.comment.csv",41
+
+"BOS191907260",58,"$Jones hit on the head"1919BOS.EVA.regular.comment.csv",42
+
+"BOS191907260",62,"$Ruth crashed into the fence trying to catch Pipp's foul fly and was knocked out briefly"1919BOS.EVA.regular.comment.csv",43
+
+"BOS191907280",9,"Ruth overran 2B"1919BOS.EVA.regular.comment.csv",44
+
+"BOS191907280",22,"missing play in BOS191907280"1919BOS.EVA.regular.comment.csv",45
+
+"BOS191908021",6,"$Weaver lost the ball in the sun $Overflow crowd on the field restrained by police on foot & horseback"1919BOS.EVA.regular.comment.csv",46
+
+"BOS191908021",17,"Liebold was caught off 1B and Schalk tried to score"1919BOS.EVA.regular.comment.csv",47
+
+"BOS191908021",42,"$into the overflow crowd"1919BOS.EVA.regular.comment.csv",48
+
+"BOS191908040",11,"$Ruth was hit on the hand"1919BOS.EVA.regular.comment.csv",49
+
+"BOS191908040",28,"$Ruth was picked off 1B and Roth tried to score"1919BOS.EVA.regular.comment.csv",50
+
+"BOS191908040",45,"$the ball struck Weaver on the right eye"1919BOS.EVA.regular.comment.csv",51
+
+"BOS191908281",7,"Hit and run."1919BOS.EVA.regular.comment.csv",52
+
+"BOS191908281",53,"Rest of game from 8/20 Boston Globe and Retrosheet box."1919BOS.EVA.regular.comment.csv",53
+

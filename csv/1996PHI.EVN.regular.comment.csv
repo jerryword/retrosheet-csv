@@ -1,53 +1,52 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"PHI199604040",0,"Debut for umpire CB Bucknor"
-"PHI199604060",1,"Debut game for Rich Hunter"
-"PHI199604190",56,"Debut game for Jon Zuber"
-"PHI199604230",40,"ej,incap001,P,poncl901,Balls and strikes Pete Incaviglia ejected by HP umpire Larry Poncino"
-"PHI199605060",50,"ej,fregj101,M,crawj901,Called third strike ej,whitm001,P,crawj901,Called third strike Mark Whiten and Phillies manager Jim Fregosi ejected by HP umpire Jerry Crawford"
-"PHI199605100",14,"Debut game for Glenn Murray"
-"PHI199605300",37,"$Eric Karros caught Glenn Murray with the hidden ball trick"
-"PHI199605310",40,"Debut game for Ron Blazier"
-"PHI199606300",30,"ej,fregj101,M,hohnb901,Checked swing ej,santb001,P,hohnb901,Checked swing Benito Santiago and Phillies manager Jim Fregosi ejected by HP umpire Bill Hohn arguing a check swing"
-"PHI199607040",51,"ej,schic002,P,marsr901,Balls and strikes Curt Schilling ejected by HP umpire Randy Marsh arguing balls and strikes"
-"PHI199607050",57,"ej,shefg001,P,gormb901,Called third strike Gary Sheffield ejected by HP umpire Brian Gorman"
-"PHI199608011",14,"Debut game for Scott Rolen"
-"PHI199608011",68,"Fan interference"
-"PHI199608012",18,"Debut game for Desi Relaford"
-"PHI199608012",66,"Debut game for Bronson Heflin"
-"PHI199608040",13,"Debut game for Trey Beamon"
-"PHI199608090",11,"fan interference"
-"PHI199608110",17,"Debut game for Larry Mitchell"
-"PHI199608150",2,"Debut game for Andruw Jones"
-"PHI199608160",29,"Debut game for Wendell Magee"
-"PHI199608180",14,"IPHR"
-"PHI199609080",45,"Debut game for Calvin Maduro"
-"PHI199609170",37,"Debut game for Bobby Estalella"
-"PHI199609180",79,"Debut game for Bill Hurst"
-"PHI199609240",29,"umpchange,4,umphome,pullf901 umpchange,4,ump2b,(None) $Second foul hit by Rondell White hit HP umpire Greg Bonin's collarbone; 10 minute delay and Bonin left game"
-"PHI199609240",38,"ej,martp001,P,pullf901,Bench-clearing brawl ej,speht001,P,pullf901,Bench-clearing brawl ej,fregj101,M,pullf901,Bench-clearing brawl ej,schic002,P,pullf901,Bench-clearing brawl ej,willm005,P,pullf901,Bench-clearing brawl $Pedro Martinez' first pitch to Curt Schilling was inside; a bench-clearing brawl ensued; five ejections by HP umpire Frank Pulli: Martinez, Schilling, Tim Spehr, Mike Williams and Phillies manager Jim Fregosi"
-"PHI199604040",0,"Debut for umpire CB Bucknor"
-"PHI199604060",1,"Debut game for Rich Hunter"
-"PHI199604190",56,"Debut game for Jon Zuber"
-"PHI199604230",40,"ej,incap001,P,poncl901,Balls and strikes Pete Incaviglia ejected by HP umpire Larry Poncino"
-"PHI199605060",50,"ej,fregj101,M,crawj901,Called third strike ej,whitm001,P,crawj901,Called third strike Mark Whiten and Phillies manager Jim Fregosi ejected by HP umpire Jerry Crawford"
-"PHI199605100",14,"Debut game for Glenn Murray"
-"PHI199605300",37,"$Eric Karros caught Glenn Murray with the hidden ball trick"
-"PHI199605310",40,"Debut game for Ron Blazier"
-"PHI199606300",30,"ej,fregj101,M,hohnb901,Checked swing ej,santb001,P,hohnb901,Checked swing Benito Santiago and Phillies manager Jim Fregosi ejected by HP umpire Bill Hohn arguing a check swing"
-"PHI199607040",51,"ej,schic002,P,marsr901,Balls and strikes $Pitcher Schilling ejected by HP umpire Marsh for arguing balls and strikes from bench after being removed"
-"PHI199607050",57,"ej,shefg001,P,gormb901,Called third strike Gary Sheffield ejected by HP umpire Brian Gorman"
-"PHI199608011",14,"Debut game for Scott Rolen"
-"PHI199608011",68,"Fan interference"
-"PHI199608012",18,"Debut game for Desi Relaford"
-"PHI199608012",66,"Debut game for Bronson Heflin"
-"PHI199608040",13,"Debut game for Trey Beamon"
-"PHI199608090",11,"fan interference"
-"PHI199608110",17,"Debut game for Larry Mitchell"
-"PHI199608150",2,"Debut game for Andruw Jones"
-"PHI199608160",29,"Debut game for Wendell Magee"
-"PHI199608180",14,"IPHR"
-"PHI199609080",45,"Debut game for Calvin Maduro"
-"PHI199609170",37,"Debut game for Bobby Estalella"
-"PHI199609180",79,"Debut game for Bill Hurst"
-"PHI199609240",29,"umpchange,4,umphome,pullf901 umpchange,4,ump2b,(None) $Second foul hit by Rondell White hit HP umpire Greg Bonin's collarbone; 10 minute delay and Bonin left game"
-"PHI199609240",37,"ej,martp001,P,pullf901,Fighting ej,speht001,P,pullf901,Fighting ej,fregj101,M,pullf901,Fighting ej,schic002,P,pullf901,Fighting ej,willm005,P,pullf901,Fighting $Expos Martinez and Spehr and Phillies Schilling, Williams and manager Fregosi ejected by HP umpire Pulli after pitches behind Martinez who had hit Jefferies earlier in game"
+"PHI199604040",0,"Debut for umpire CB Bucknor"FILENAME_TX","LINE_NUMBER_CT"
+
+"PHI199604060",1,"Debut game for Rich Hunter"1996PHI.EVN.regular.comment.csv",2
+
+"PHI199604190",56,"Debut game for Jon Zuber"1996PHI.EVN.regular.comment.csv",3
+
+"PHI199604230",40,"ej,incap001,P,poncl901,Balls and strikes Pete Incaviglia ejected by HP umpire Larry Poncino"1996PHI.EVN.regular.comment.csv",4
+
+"PHI199605060",50,"ej,fregj101,M,crawj901,Called third strike ej,whitm001,P,crawj901,Called third strike Mark Whiten and Phillies manager Jim Fregosi ejected by HP umpire Jerry Crawford"1996PHI.EVN.regular.comment.csv",5
+
+"PHI199605100",14,"Debut game for Glenn Murray"1996PHI.EVN.regular.comment.csv",6
+
+"PHI199605300",37,"$Eric Karros caught Glenn Murray with the hidden ball trick"1996PHI.EVN.regular.comment.csv",7
+
+"PHI199605310",40,"Debut game for Ron Blazier"1996PHI.EVN.regular.comment.csv",8
+
+"PHI199606300",30,"ej,fregj101,M,hohnb901,Checked swing ej,santb001,P,hohnb901,Checked swing Benito Santiago and Phillies manager Jim Fregosi ejected by HP umpire Bill Hohn arguing a check swing"1996PHI.EVN.regular.comment.csv",9
+
+"PHI199607040",51,"ej,schic002,P,marsr901,Balls and strikes $Pitcher Schilling ejected by HP umpire Marsh for arguing balls and strikes from bench after being removed"1996PHI.EVN.regular.comment.csv",10
+
+"PHI199607050",57,"ej,shefg001,P,gormb901,Called third strike Gary Sheffield ejected by HP umpire Brian Gorman"1996PHI.EVN.regular.comment.csv",11
+
+"PHI199608011",14,"Debut game for Scott Rolen"1996PHI.EVN.regular.comment.csv",12
+
+"PHI199608011",68,"Fan interference"1996PHI.EVN.regular.comment.csv",13
+
+"PHI199608012",18,"Debut game for Desi Relaford"1996PHI.EVN.regular.comment.csv",14
+
+"PHI199608012",66,"Debut game for Bronson Heflin"1996PHI.EVN.regular.comment.csv",15
+
+"PHI199608040",13,"Debut game for Trey Beamon"1996PHI.EVN.regular.comment.csv",16
+
+"PHI199608090",11,"fan interference"1996PHI.EVN.regular.comment.csv",17
+
+"PHI199608110",17,"Debut game for Larry Mitchell"1996PHI.EVN.regular.comment.csv",18
+
+"PHI199608150",2,"Debut game for Andruw Jones"1996PHI.EVN.regular.comment.csv",19
+
+"PHI199608160",29,"Debut game for Wendell Magee"1996PHI.EVN.regular.comment.csv",20
+
+"PHI199608180",14,"IPHR"1996PHI.EVN.regular.comment.csv",21
+
+"PHI199609080",45,"Debut game for Calvin Maduro"1996PHI.EVN.regular.comment.csv",22
+
+"PHI199609170",37,"Debut game for Bobby Estalella"1996PHI.EVN.regular.comment.csv",23
+
+"PHI199609180",79,"Debut game for Bill Hurst"1996PHI.EVN.regular.comment.csv",24
+
+"PHI199609240",29,"umpchange,4,umphome,pullf901 umpchange,4,ump2b,(None) $Second foul hit by Rondell White hit HP umpire Greg Bonin's collarbone; 10 minute delay and Bonin left game"1996PHI.EVN.regular.comment.csv",25
+
+"PHI199609240",37,"ej,martp001,P,pullf901,Fighting ej,speht001,P,pullf901,Fighting ej,fregj101,M,pullf901,Fighting ej,schic002,P,pullf901,Fighting ej,willm005,P,pullf901,Fighting $Expos Martinez and Spehr and Phillies Schilling, Williams and manager Fregosi ejected by HP umpire Pulli after pitches behind Martinez who had hit Jefferies earlier in game"1996PHI.EVN.regular.comment.csv",26
+

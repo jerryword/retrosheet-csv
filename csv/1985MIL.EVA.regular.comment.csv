@@ -1,53 +1,52 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"MIL198504090",1,"Debut game for Ozzie Guillen"
-"MIL198505120",41,"DV looks like a FC 3XH(?E2)"
-"MIL198505120",49,"$Reggie Jackson called for interference at 2B for sliding out of the baseline"
-"MIL198505120",68,"ej,maucg101,M,pales901,Mocking umpire Angels manager Gene Mauch ejected by 2B umpire Steve Palermo; Mauch was upset over the interference call on Reggie Jackson in the sixth and Robin Yount's home run, which Mauch thought was in play; when Brian Downing broke up the double play here Mauch made a facetious gesture to Palermo and was ejected"
-"MIL198505140",19,"Debut game for Ernie Riles"
-"MIL198506170",53,"$Lou Thornton singled but missed 1B; out on appeal"
-"MIL198506190",75,"ej,bambg101,M,shulj901,Fair/foul call ej,oglib001,P,shulj901,Fair/foul call $Brewers Oglivie and manager Bamberger ejected by 1B umpire umpire Shulock for arguing that long fly hit by Oglive was fair and should be home run"
-"MIL198507190",13,"$Jim Gantner ran into his own bunt"
-"MIL198507210",43,"umpchange,5,umphome,cobld901 umpchange,5,ump2b,(None) $HP umpire Al Clark hit on right knee by foul; replaced by 2B umpire Drew Coble"
-"MIL198507220",77,"DV need assist at home"
-"MIL198507220",80,"DV need assist at home $catcher Bob Boone thought there was a force at HP and stepped on the plate for the apparent out"
-"MIL198507240",22,"$Paul Molitor rounded 2B too far"
-"MIL198507250",81,"$the pitch broke Carney Lansford's right hand"
-"MIL198508120",6,"$Paul Molitor sprained his ankle beating out bunt"
-"MIL198508140",75,"Debut game for Carlos Ponce"
-"MIL198508170",77,"ej,salal001,P,welkt901,Balls and strikes Luis Salazar ejected by HP umpire Tim Welke"
-"MIL198508180",81,"missing play in MIL198508180"
-"MIL198508180",83,"missing play in MIL198508180"
-"MIL198509110",71,"Debut game for Billy Robidoux"
-"MIL198509110",75,"Debut game for Mike Felder"
-"MIL198509140",1,"Debut game for Bill Wegman"
-"MIL198509150",1,"Debut game for Jeff Sellers"
-"MIL198509150",64,"DWS: check this: why an E1 if already on base?"
-"MIL198509240",76,"Debut game for Eric Bell"
-"MIL198509270",47,"ej,simmt001,P,reilm901,Call at 1B Ted Simmons ejected by 1B umpire Mike Reilly"
-"MIL198509280",24,"$Mike Felder broke hand while sliding into 2B"
-"MIL198504090",1,"Debut game for Ozzie Guillen"
-"MIL198505120",41,"DV looks like a FC 3XH(?E2)"
-"MIL198505120",49,"$Reggie Jackson called for interference at 2B for sliding out of the baseline"
-"MIL198505120",68,"ej,maucg101,M,pales901,Mocking umpire Angels manager Gene Mauch ejected by 2B umpire Steve Palermo; Mauch was upset over the interference call on Reggie Jackson in the sixth and Robin Yount's home run, which Mauch thought was in play; when Brian Downing broke up the double play here Mauch made a facetious gesture to Palermo and was ejected"
-"MIL198505140",19,"Debut game for Ernie Riles"
-"MIL198506170",53,"$Lou Thornton singled but missed 1B; out on appeal"
-"MIL198506190",75,"ej,bambg101,M,shulj901,Fair/foul call ej,oglib001,P,shulj901,Fair/foul call $Brewers Oglivie and manager Bamberger ejected by 1B umpire umpire Shulock for arguing that long fly hit by Oglive was fair and should be home run"
-"MIL198507190",13,"$Jim Gantner ran into his own bunt"
-"MIL198507210",43,"umpchange,5,umphome,cobld901 umpchange,5,ump2b,(None) $HP umpire Al Clark hit on right knee by foul; replaced by 2B umpire Drew Coble"
-"MIL198507220",77,"DV need assist at home"
-"MIL198507220",80,"DV need assist at home $catcher Bob Boone thought there was a force at HP and stepped on the plate for the apparent out"
-"MIL198507240",22,"$Paul Molitor rounded 2B too far"
-"MIL198507250",81,"$the pitch broke Carney Lansford's right hand"
-"MIL198508120",6,"$Paul Molitor sprained his ankle beating out bunt"
-"MIL198508140",75,"Debut game for Carlos Ponce"
-"MIL198508170",77,"ej,salal001,P,welkt901,Balls and strikes Luis Salazar ejected by HP umpire Tim Welke"
-"MIL198508180",81,"missing play in MIL198508180"
-"MIL198508180",83,"missing play in MIL198508180"
-"MIL198509110",71,"Debut game for Billy Robidoux"
-"MIL198509110",75,"Debut game for Mike Felder"
-"MIL198509140",1,"Debut game for Bill Wegman"
-"MIL198509150",1,"Debut game for Jeff Sellers"
-"MIL198509150",64,"DWS: check this: why an E1 if already on base?"
-"MIL198509240",76,"Debut game for Eric Bell"
-"MIL198509270",47,"ej,simmt001,P,reilm901,Call at 1B Ted Simmons ejected by 1B umpire Mike Reilly"
-"MIL198509280",24,"$Mike Felder broke hand while sliding into 2B"
+"MIL198504090",1,"Debut game for Ozzie Guillen"FILENAME_TX","LINE_NUMBER_CT"
+
+"MIL198505120",41,"DV looks like a FC 3XH(?E2)"1985MIL.EVA.regular.comment.csv",2
+
+"MIL198505120",49,"$Reggie Jackson called for interference at 2B for sliding out of the baseline"1985MIL.EVA.regular.comment.csv",3
+
+"MIL198505120",68,"ej,maucg101,M,pales901,Mocking umpire Angels manager Gene Mauch ejected by 2B umpire Steve Palermo; Mauch was upset over the interference call on Reggie Jackson in the sixth and Robin Yount's home run, which Mauch thought was in play; when Brian Downing broke up the double play here Mauch made a facetious gesture to Palermo and was ejected"1985MIL.EVA.regular.comment.csv",4
+
+"MIL198505140",19,"Debut game for Ernie Riles"1985MIL.EVA.regular.comment.csv",5
+
+"MIL198506170",53,"$Lou Thornton singled but missed 1B; out on appeal"1985MIL.EVA.regular.comment.csv",6
+
+"MIL198506190",75,"ej,bambg101,M,shulj901,Fair/foul call ej,oglib001,P,shulj901,Fair/foul call $Brewers Oglivie and manager Bamberger ejected by 1B umpire umpire Shulock for arguing that long fly hit by Oglive was fair and should be home run"1985MIL.EVA.regular.comment.csv",7
+
+"MIL198507190",13,"$Jim Gantner ran into his own bunt"1985MIL.EVA.regular.comment.csv",8
+
+"MIL198507210",43,"umpchange,5,umphome,cobld901 umpchange,5,ump2b,(None) $HP umpire Al Clark hit on right knee by foul; replaced by 2B umpire Drew Coble"1985MIL.EVA.regular.comment.csv",9
+
+"MIL198507220",77,"DV need assist at home"1985MIL.EVA.regular.comment.csv",10
+
+"MIL198507220",80,"DV need assist at home $catcher Bob Boone thought there was a force at HP and stepped on the plate for the apparent out"1985MIL.EVA.regular.comment.csv",11
+
+"MIL198507240",22,"$Paul Molitor rounded 2B too far"1985MIL.EVA.regular.comment.csv",12
+
+"MIL198507250",81,"$the pitch broke Carney Lansford's right hand"1985MIL.EVA.regular.comment.csv",13
+
+"MIL198508120",6,"$Paul Molitor sprained his ankle beating out bunt"1985MIL.EVA.regular.comment.csv",14
+
+"MIL198508140",75,"Debut game for Carlos Ponce"1985MIL.EVA.regular.comment.csv",15
+
+"MIL198508170",77,"ej,salal001,P,welkt901,Balls and strikes Luis Salazar ejected by HP umpire Tim Welke"1985MIL.EVA.regular.comment.csv",16
+
+"MIL198508180",81,"missing play in MIL198508180"1985MIL.EVA.regular.comment.csv",17
+
+"MIL198508180",83,"missing play in MIL198508180"1985MIL.EVA.regular.comment.csv",18
+
+"MIL198509110",71,"Debut game for Billy Robidoux"1985MIL.EVA.regular.comment.csv",19
+
+"MIL198509110",75,"Debut game for Mike Felder"1985MIL.EVA.regular.comment.csv",20
+
+"MIL198509140",1,"Debut game for Bill Wegman"1985MIL.EVA.regular.comment.csv",21
+
+"MIL198509150",1,"Debut game for Jeff Sellers"1985MIL.EVA.regular.comment.csv",22
+
+"MIL198509150",64,"DWS: check this: why an E1 if already on base?"1985MIL.EVA.regular.comment.csv",23
+
+"MIL198509240",76,"Debut game for Eric Bell"1985MIL.EVA.regular.comment.csv",24
+
+"MIL198509270",47,"ej,simmt001,P,reilm901,Call at 1B Ted Simmons ejected by 1B umpire Mike Reilly"1985MIL.EVA.regular.comment.csv",25
+
+"MIL198509280",24,"$Mike Felder broke hand while sliding into 2B"1985MIL.EVA.regular.comment.csv",26
+

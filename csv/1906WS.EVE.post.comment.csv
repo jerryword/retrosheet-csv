@@ -1,59 +1,58 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"CHN190610090",1,"Debut game for Mordecai Brown Debut game for Ed Hahn"
-"CHN190610090",2,"Debut game for Fielder Jones"
-"CHN190610090",3,"Debut game for Frank Isbell"
-"CHN190610090",4,"Debut game for Nick Altrock Debut game for Solly Hofman"
-"CHN190610090",5,"Debut game for Jimmy Sheckard"
-"CHN190610090",6,"Debut game for Frank Schulte"
-"CHN190610090",7,"Debut game for George Rohe"
-"CHN190610090",8,"Debut game for Jiggs Donahue"
-"CHN190610090",10,"Debut game for Frank Chance"
-"CHN190610090",11,"Debut game for Harry Steinfeldt"
-"CHN190610090",12,"Debut game for Joe Tinker"
-"CHN190610090",13,"Debut game for Billy Sullivan"
-"CHN190610090",14,"Debut game for Lee Tannehill"
-"CHN190610090",16,"Debut game for Johnny Evers"
-"CHN190610090",17,"Debut game for Johnny Kling"
-"CHN190610090",69,"Debut game for Pat Moran"
-"CHA190610100",1,"Debut game for Doc White"
-"CHA190610100",4,"Debut game for Ed Reulbach"
-"CHA190610100",25,"Debut game for Babe Towne"
-"CHA190610100",27,"Debut game for Frank Owen"
-"CHA190610100",32,"$Johnny Evers kicked the ball into the RF crowd"
-"CHN190610110",1,"Debut game for Jack Pfiester"
-"CHN190610110",5,"Debut game for Ed Walsh"
-"CHN190610110",40,"Debut game for Bill O'Neill"
-"CHN190610110",65,"Debut game for Doc Gessler"
-"CHA190610120",4,"$no one covered 2B after a pickoff at 1B"
-"CHA190610120",20,"Debut game for George Davis"
-"CHA190610120",64,"Debut game for Ed McFarland"
-"CHN190610130",38,"Debut game for Orval Overall"
-"CHN190610090",1,"Debut game for Mordecai Brown Debut game for Ed Hahn"
-"CHN190610090",2,"Debut game for Fielder Jones"
-"CHN190610090",3,"Debut game for Frank Isbell"
-"CHN190610090",4,"Debut game for Nick Altrock Debut game for Solly Hofman"
-"CHN190610090",5,"Debut game for Jimmy Sheckard"
-"CHN190610090",6,"Debut game for Frank Schulte"
-"CHN190610090",7,"Debut game for George Rohe"
-"CHN190610090",8,"Debut game for Jiggs Donahue"
-"CHN190610090",10,"Debut game for Frank Chance"
-"CHN190610090",11,"Debut game for Harry Steinfeldt"
-"CHN190610090",12,"Debut game for Joe Tinker"
-"CHN190610090",13,"Debut game for Billy Sullivan"
-"CHN190610090",14,"Debut game for Lee Tannehill"
-"CHN190610090",16,"Debut game for Johnny Evers"
-"CHN190610090",17,"Debut game for Johnny Kling"
-"CHN190610090",69,"Debut game for Pat Moran"
-"CHA190610100",1,"Debut game for Doc White"
-"CHA190610100",4,"Debut game for Ed Reulbach"
-"CHA190610100",25,"Debut game for Babe Towne"
-"CHA190610100",27,"Debut game for Frank Owen"
-"CHA190610100",32,"$Johnny Evers kicked the ball into the RF crowd"
-"CHN190610110",1,"Debut game for Jack Pfiester"
-"CHN190610110",5,"Debut game for Ed Walsh"
-"CHN190610110",40,"Debut game for Bill O'Neill"
-"CHN190610110",65,"Debut game for Doc Gessler"
-"CHA190610120",4,"$no one covered 2B after a pickoff at 1B"
-"CHA190610120",20,"Debut game for George Davis"
-"CHA190610120",64,"Debut game for Ed McFarland"
-"CHN190610130",38,"Debut game for Orval Overall"
+"CHN190610090",1,"Debut game for Mordecai Brown Debut game for Ed Hahn"FILENAME_TX","LINE_NUMBER_CT"
+
+"CHN190610090",2,"Debut game for Fielder Jones"1906WS.EVE.post.comment.csv",2
+
+"CHN190610090",3,"Debut game for Frank Isbell"1906WS.EVE.post.comment.csv",3
+
+"CHN190610090",4,"Debut game for Nick Altrock Debut game for Solly Hofman"1906WS.EVE.post.comment.csv",4
+
+"CHN190610090",5,"Debut game for Jimmy Sheckard"1906WS.EVE.post.comment.csv",5
+
+"CHN190610090",6,"Debut game for Frank Schulte"1906WS.EVE.post.comment.csv",6
+
+"CHN190610090",7,"Debut game for George Rohe"1906WS.EVE.post.comment.csv",7
+
+"CHN190610090",8,"Debut game for Jiggs Donahue"1906WS.EVE.post.comment.csv",8
+
+"CHN190610090",10,"Debut game for Frank Chance"1906WS.EVE.post.comment.csv",9
+
+"CHN190610090",11,"Debut game for Harry Steinfeldt"1906WS.EVE.post.comment.csv",10
+
+"CHN190610090",12,"Debut game for Joe Tinker"1906WS.EVE.post.comment.csv",11
+
+"CHN190610090",13,"Debut game for Billy Sullivan"1906WS.EVE.post.comment.csv",12
+
+"CHN190610090",14,"Debut game for Lee Tannehill"1906WS.EVE.post.comment.csv",13
+
+"CHN190610090",16,"Debut game for Johnny Evers"1906WS.EVE.post.comment.csv",14
+
+"CHN190610090",17,"Debut game for Johnny Kling"1906WS.EVE.post.comment.csv",15
+
+"CHN190610090",69,"Debut game for Pat Moran"1906WS.EVE.post.comment.csv",16
+
+"CHA190610100",1,"Debut game for Doc White"1906WS.EVE.post.comment.csv",17
+
+"CHA190610100",4,"Debut game for Ed Reulbach"1906WS.EVE.post.comment.csv",18
+
+"CHA190610100",25,"Debut game for Babe Towne"1906WS.EVE.post.comment.csv",19
+
+"CHA190610100",27,"Debut game for Frank Owen"1906WS.EVE.post.comment.csv",20
+
+"CHA190610100",32,"$Johnny Evers kicked the ball into the RF crowd"1906WS.EVE.post.comment.csv",21
+
+"CHN190610110",1,"Debut game for Jack Pfiester"1906WS.EVE.post.comment.csv",22
+
+"CHN190610110",5,"Debut game for Ed Walsh"1906WS.EVE.post.comment.csv",23
+
+"CHN190610110",40,"Debut game for Bill O'Neill"1906WS.EVE.post.comment.csv",24
+
+"CHN190610110",65,"Debut game for Doc Gessler"1906WS.EVE.post.comment.csv",25
+
+"CHA190610120",4,"$no one covered 2B after a pickoff at 1B"1906WS.EVE.post.comment.csv",26
+
+"CHA190610120",20,"Debut game for George Davis"1906WS.EVE.post.comment.csv",27
+
+"CHA190610120",64,"Debut game for Ed McFarland"1906WS.EVE.post.comment.csv",28
+
+"CHN190610130",38,"Debut game for Orval Overall"1906WS.EVE.post.comment.csv",29
+

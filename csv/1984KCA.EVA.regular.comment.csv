@@ -1,35 +1,34 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"KCA198404040",33,"Debut game for Bret Saberhagen"
-"KCA198404050",15,"$Tim Foli called for obstruction on Don Slaught by 3B umpire Dale Ford"
-"KCA198404050",35,"Debut game for Jose Rijo"
-"KCA198404060",1,"Debut game for Mark Gubicza"
-"KCA198404130",67,"$Hal McRae broke late on double steal"
-"KCA198405130",70,"$Jerry Remy ran into own batted ball"
-"KCA198405180",30,"ej,raded103,M,garcr901,Interference call Rangers manager Doug Rader ejected by 2B umpire Richie Garcia after the interference called on Dave Hostetler"
-"KCA198405190",17,"ej,obrip001,P,garcr901,Arguing pickoff play Pete O'Brien ejected by 1B umpire Richie Garcia arguing a safe call on a pickoff"
-"KCA198406170",37,"$Kirby Puckett called for interference"
-"KCA198407210",73,"$Fan interference"
-"KCA198407250",106,"ej,cox-b103,M,reedr901,Call at 2B ej,garcd001,P,reedr901,Call at 2B Damaso Garcia and Blue Jays manager Bobby Cox ejected by 2B umpire Rick Reed"
-"KCA198408150",18,"$Darryl Motley out on ; he did not tag up after the catch"
-"KCA198408270",50,"$1000th career hit"
-"KCA198409050",54,"Debut game for Jim Scranton"
-"KCA198409070",75,"Debut game for Dave Valle"
-"KCA198409070",82,"Debut game for Dan Tartabull"
-"KCA198409241",15,"ej,mcnaj801,M,fordd901,Called strike 3 $Angels manager McNamara ejected by HP umpire Ford for arguing called strike 3"
-"KCA198404040",33,"Debut game for Bret Saberhagen"
-"KCA198404050",15,"$Tim Foli called for obstruction on Don Slaught by 3B umpire Dale Ford"
-"KCA198404050",35,"Debut game for Jose Rijo"
-"KCA198404060",1,"Debut game for Mark Gubicza"
-"KCA198404130",67,"$Hal McRae broke late on double steal"
-"KCA198405130",70,"$Jerry Remy ran into own batted ball"
-"KCA198405180",30,"ej,raded103,M,garcr901,Interference call Rangers manager Doug Rader ejected by 2B umpire Richie Garcia after the interference called on Dave Hostetler"
-"KCA198405190",17,"ej,obrip001,P,garcr901,Arguing pickoff play Pete O'Brien ejected by 1B umpire Richie Garcia arguing a safe call on a pickoff"
-"KCA198406170",37,"$Kirby Puckett called for interference"
-"KCA198407210",73,"$Fan interference"
-"KCA198407250",106,"ej,cox-b103,M,reedr901,Call at 2B ej,garcd001,P,reedr901,Call at 2B Damaso Garcia and Blue Jays manager Bobby Cox ejected by 2B umpire Rick Reed"
-"KCA198408150",18,"$Darryl Motley out on ; he did not tag up after the catch"
-"KCA198408270",50,"$1000th career hit"
-"KCA198409050",54,"Debut game for Jim Scranton"
-"KCA198409070",75,"Debut game for Dave Valle"
-"KCA198409070",82,"Debut game for Dan Tartabull"
-"KCA198409241",15,"ej,mcnaj801,M,fordd901,Called strike 3 $Angels manager McNamara ejected by HP umpire Ford for arguing called strike 3"
+"KCA198404040",33,"Debut game for Bret Saberhagen"FILENAME_TX","LINE_NUMBER_CT"
+
+"KCA198404050",15,"$Tim Foli called for obstruction on Don Slaught by 3B umpire Dale Ford"1984KCA.EVA.regular.comment.csv",2
+
+"KCA198404050",35,"Debut game for Jose Rijo"1984KCA.EVA.regular.comment.csv",3
+
+"KCA198404060",1,"Debut game for Mark Gubicza"1984KCA.EVA.regular.comment.csv",4
+
+"KCA198404130",67,"$Hal McRae broke late on double steal"1984KCA.EVA.regular.comment.csv",5
+
+"KCA198405130",70,"$Jerry Remy ran into own batted ball"1984KCA.EVA.regular.comment.csv",6
+
+"KCA198405180",30,"ej,raded103,M,garcr901,Interference call Rangers manager Doug Rader ejected by 2B umpire Richie Garcia after the interference called on Dave Hostetler"1984KCA.EVA.regular.comment.csv",7
+
+"KCA198405190",17,"ej,obrip001,P,garcr901,Arguing pickoff play Pete O'Brien ejected by 1B umpire Richie Garcia arguing a safe call on a pickoff"1984KCA.EVA.regular.comment.csv",8
+
+"KCA198406170",37,"$Kirby Puckett called for interference"1984KCA.EVA.regular.comment.csv",9
+
+"KCA198407210",73,"$Fan interference"1984KCA.EVA.regular.comment.csv",10
+
+"KCA198407250",106,"ej,cox-b103,M,reedr901,Call at 2B ej,garcd001,P,reedr901,Call at 2B Damaso Garcia and Blue Jays manager Bobby Cox ejected by 2B umpire Rick Reed"1984KCA.EVA.regular.comment.csv",11
+
+"KCA198408150",18,"$Darryl Motley out on ; he did not tag up after the catch"1984KCA.EVA.regular.comment.csv",12
+
+"KCA198408270",50,"$1000th career hit"1984KCA.EVA.regular.comment.csv",13
+
+"KCA198409050",54,"Debut game for Jim Scranton"1984KCA.EVA.regular.comment.csv",14
+
+"KCA198409070",75,"Debut game for Dave Valle"1984KCA.EVA.regular.comment.csv",15
+
+"KCA198409070",82,"Debut game for Dan Tartabull"1984KCA.EVA.regular.comment.csv",16
+
+"KCA198409241",15,"ej,mcnaj801,M,fordd901,Called strike 3 $Angels manager McNamara ejected by HP umpire Ford for arguing called strike 3"1984KCA.EVA.regular.comment.csv",17
+

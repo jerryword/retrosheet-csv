@@ -1,41 +1,40 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"BSN193305020",6,"$the ball hit the pitcher on non-throwing wrist"
-"BSN193305060",67,"$Charlie Grimm called for interference for running into his own batted ball"
-"BSN193305090",35,"$Earl Grace faked a throw to 1B and tagged Rabbit Maranville"
-"BSN193306022",29,"$Joe Stripp left with the flu"
-"BSN193306182",70,"$game called due to curfew"
-"BSN193307022",5,"ej,riceh101,P,mageg901,Balls and strikes Harry Rice ejected by HP umpire George Magerkurth"
-"BSN193308050",34,"$Shanty Hogan was hit on the arm and left with apparent broken bone"
-"BSN193308180",4,"ej,mckeb101,M,powej901,Call at HP Braves Manager Bill McKechnie ejected by HP umpire Jack Powell"
-"BSN193308180",51,"$Billy Urbanski and Billy Jurges stared a fight but were separated by 3B umpire Cy Rigler; both benches cleared"
-"BSN193308190",56,"Runner held at second base."
-"BSN193308190",78,"L. Waner's long drive to right was foul by about a foot."
-"BSN193308240",13,"$Leo Durocher injured his leg landing after a leaping catch of the liner"
-"BSN193308240",57,"ej,jordb101,P,morac102,Balls and strikes Buck Jordan ejected by HP umpire Charlie Moran"
-"BSN193308272",28,"$throw from catcher to 2B hit pitcher"
-"BSN193308272",61,"$Jim Bottomley stopped at 3B and then continued, so no RBI"
-"BSN193308310",8,"$Randy Moore struck on the hand; would later leave"
-"BSN193308310",42,"$Randy Moore left with an swollen hand"
-"BSN193308310",62,"$Roy Parmelee's throw struck Joe Mowry and rolled into the Giant bullpen and under a bench; infield in for Pinky Whitney"
-"BSN193309032",8,"$It started to drizzle"
-"BSN193309032",79,"$Game halted by Sunday curfew law at 6:30 PM"
-"BSN193305020",6,"$the ball hit the pitcher on non-throwing wrist"
-"BSN193305060",67,"$Charlie Grimm called for interference for running into his own batted ball"
-"BSN193305090",35,"$Earl Grace faked a throw to 1B and tagged Rabbit Maranville"
-"BSN193306022",29,"$Joe Stripp left with the flu"
-"BSN193306182",70,"$game called due to curfew"
-"BSN193307022",5,"ej,riceh101,P,mageg901,Balls and strikes Harry Rice ejected by HP umpire George Magerkurth"
-"BSN193308050",34,"$Shanty Hogan was hit on the arm and left with apparent broken bone"
-"BSN193308180",4,"ej,mckeb101,M,powej901,Call at HP Braves Manager Bill McKechnie ejected by HP umpire Jack Powell"
-"BSN193308180",51,"$Billy Urbanski and Billy Jurges stared a fight but were separated by 3B umpire Cy Rigler; both benches cleared"
-"BSN193308190",56,"Runner held at second base."
-"BSN193308190",78,"L. Waner's long drive to right was foul by about a foot."
-"BSN193308240",13,"$Leo Durocher injured his leg landing after a leaping catch of the liner"
-"BSN193308240",57,"ej,jordb101,P,morac102,Balls and strikes Buck Jordan ejected by HP umpire Charlie Moran"
-"BSN193308272",28,"$throw from catcher to 2B hit pitcher"
-"BSN193308272",61,"$Jim Bottomley stopped at 3B and then continued, so no RBI"
-"BSN193308310",8,"$Randy Moore struck on the hand; would later leave"
-"BSN193308310",42,"$Randy Moore left with an swollen hand"
-"BSN193308310",62,"$Roy Parmelee's throw struck Joe Mowry and rolled into the Giant bullpen and under a bench; infield in for Pinky Whitney"
-"BSN193309032",8,"$It started to drizzle"
-"BSN193309032",79,"$Game halted by Sunday curfew law at 6:30 PM"
+"BSN193305020",6,"$the ball hit the pitcher on non-throwing wrist"FILENAME_TX","LINE_NUMBER_CT"
+
+"BSN193305060",67,"$Charlie Grimm called for interference for running into his own batted ball"1933BSN.EVN.regular.comment.csv",2
+
+"BSN193305090",35,"$Earl Grace faked a throw to 1B and tagged Rabbit Maranville"1933BSN.EVN.regular.comment.csv",3
+
+"BSN193306022",29,"$Joe Stripp left with the flu"1933BSN.EVN.regular.comment.csv",4
+
+"BSN193306182",70,"$game called due to curfew"1933BSN.EVN.regular.comment.csv",5
+
+"BSN193307022",5,"ej,riceh101,P,mageg901,Balls and strikes Harry Rice ejected by HP umpire George Magerkurth"1933BSN.EVN.regular.comment.csv",6
+
+"BSN193308050",34,"$Shanty Hogan was hit on the arm and left with apparent broken bone"1933BSN.EVN.regular.comment.csv",7
+
+"BSN193308180",4,"ej,mckeb101,M,powej901,Call at HP Braves Manager Bill McKechnie ejected by HP umpire Jack Powell"1933BSN.EVN.regular.comment.csv",8
+
+"BSN193308180",51,"$Billy Urbanski and Billy Jurges stared a fight but were separated by 3B umpire Cy Rigler; both benches cleared"1933BSN.EVN.regular.comment.csv",9
+
+"BSN193308190",56,"Runner held at second base."1933BSN.EVN.regular.comment.csv",10
+
+"BSN193308190",78,"L. Waner's long drive to right was foul by about a foot."1933BSN.EVN.regular.comment.csv",11
+
+"BSN193308240",13,"$Leo Durocher injured his leg landing after a leaping catch of the liner"1933BSN.EVN.regular.comment.csv",12
+
+"BSN193308240",57,"ej,jordb101,P,morac102,Balls and strikes Buck Jordan ejected by HP umpire Charlie Moran"1933BSN.EVN.regular.comment.csv",13
+
+"BSN193308272",28,"$throw from catcher to 2B hit pitcher"1933BSN.EVN.regular.comment.csv",14
+
+"BSN193308272",61,"$Jim Bottomley stopped at 3B and then continued, so no RBI"1933BSN.EVN.regular.comment.csv",15
+
+"BSN193308310",8,"$Randy Moore struck on the hand; would later leave"1933BSN.EVN.regular.comment.csv",16
+
+"BSN193308310",42,"$Randy Moore left with an swollen hand"1933BSN.EVN.regular.comment.csv",17
+
+"BSN193308310",62,"$Roy Parmelee's throw struck Joe Mowry and rolled into the Giant bullpen and under a bench; infield in for Pinky Whitney"1933BSN.EVN.regular.comment.csv",18
+
+"BSN193309032",8,"$It started to drizzle"1933BSN.EVN.regular.comment.csv",19
+
+"BSN193309032",79,"$Game halted by Sunday curfew law at 6:30 PM"1933BSN.EVN.regular.comment.csv",20
+

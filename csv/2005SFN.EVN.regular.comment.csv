@@ -1,55 +1,54 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"SFN200504060",2,"Debut game for Jason Repko"
-"SFN200504060",35,"Moises Alou left the game due to an injured leg"
-"SFN200504060",41,"ej,gagne001,P,hohnb901,Balls and strikes (On DL) Dodgers pitcher Eric Gagne ejected by HP umpire Bill Hohn; Gagne is on the disabled list"
-"SFN200504060",52,"$Cesar Izturis called out on appeal"
-"SFN200504060",72,"Debut game for Stephen Schmoll"
-"SFN200504260",3,"fan interference"
-"SFN200504260",85,"Benitez tore two hamstring tendons on this play, had surgery to reattch on May 3"
-"SFN200504270",62,"fan interference"
-"SFN200505060",57,"Nationals right fielder Jose Guillen left the game due to an injured arm"
-"SFN200505080",32,"$the ball got past Johnson at 1B but was backed up by Loaiza; Alou had started down the line towards home"
-"SFN200505080",65,"fan interference"
-"SFN200505110",53,"Debut game for Scott Munter"
-"SFN200506080",11,"ej,bellb001,M,reedr901,Check swing Royals Manager Buddy Bell ejected by 1B umpire Rick Reed for arguing a check swing call"
-"SFN200506110",64,"Debut game for Jack Taschner"
-"SFN200506200",76,"Debut game for Brandon Medders"
-"SFN200506230",64,"fan interference"
-"SFN200507040",45,"$Pitcher Ramirez dropped relay throw that would have completed GDP"
-"SFN200507040",75,"$Yorvit Torrealba called for interference"
-"SFN200507100",72,"$Einar Diaz called for interference"
-"SFN200507180",47,"Giants 2B Ray Durham left the game due to an injured foot/ankle"
-"SFN200508020",27,"Giants right fielder Moises Alou left the game due to an injured leg"
-"SFN200508240",52,"Phillies pitcher Cory Lidle left the game due to an injured chest"
-"SFN200508290",1,"Debut game for Matt Cain"
-"SFN200508300",7,"Debut game for Angel Chavez"
-"SFN200509120",0,"Barry Bonds' first appearance of 2005"
-"SFN200509120",18,"ball would have hit top of wall, but fan reached over causing interference call"
-"SFN200509140",82,"Debut game for Doug Clark"
-"SFN200504060",2,"Debut game for Jason Repko"
-"SFN200504060",35,"Moises Alou left the game due to an injured leg"
-"SFN200504060",41,"ej,gagne001,P,hohnb901,Balls and strikes (On DL) Dodgers pitcher Eric Gagne ejected by HP umpire Bill Hohn; Gagne is on the disabled list"
-"SFN200504060",52,"$Cesar Izturis called out on appeal"
-"SFN200504060",72,"Debut game for Stephen Schmoll"
-"SFN200504260",3,"fan interference"
-"SFN200504260",85,"Benitez tore two hamstring tendons on this play, had surgery to reattch on May 3"
-"SFN200504270",62,"fan interference"
-"SFN200505060",57,"Nationals right fielder Jose Guillen left the game due to an injured arm"
-"SFN200505080",32,"$the ball got past Johnson at 1B but was backed up by Loaiza; Alou had started down the line towards home"
-"SFN200505080",65,"fan interference"
-"SFN200505110",53,"Debut game for Scott Munter"
-"SFN200506080",11,"ej,bellb001,M,reedr901,Check swing Royals Manager Buddy Bell ejected by 1B umpire Rick Reed for arguing a check swing call"
-"SFN200506110",64,"Debut game for Jack Taschner"
-"SFN200506200",76,"Debut game for Brandon Medders"
-"SFN200506230",64,"fan interference"
-"SFN200507040",45,"$Pitcher Ramirez dropped relay throw that would have completed GDP"
-"SFN200507040",75,"$Yorvit Torrealba called for interference"
-"SFN200507100",72,"$Einar Diaz called for interference"
-"SFN200507180",47,"Giants 2B Ray Durham left the game due to an injured foot/ankle"
-"SFN200508020",27,"Giants right fielder Moises Alou left the game due to an injured leg"
-"SFN200508240",52,"Phillies pitcher Cory Lidle left the game due to an injured chest"
-"SFN200508290",1,"Debut game for Matt Cain"
-"SFN200508300",7,"Debut game for Angel Chavez"
-"SFN200509120",0,"Barry Bonds' first appearance of 2005"
-"SFN200509120",18,"ball would have hit top of wall, but fan reached over causing interference call"
-"SFN200509140",82,"Debut game for Doug Clark"
+"SFN200504060",2,"Debut game for Jason Repko"FILENAME_TX","LINE_NUMBER_CT"
+
+"SFN200504060",35,"Moises Alou left the game due to an injured leg"2005SFN.EVN.regular.comment.csv",2
+
+"SFN200504060",41,"ej,gagne001,P,hohnb901,Balls and strikes (On DL) Dodgers pitcher Eric Gagne ejected by HP umpire Bill Hohn; Gagne is on the disabled list"2005SFN.EVN.regular.comment.csv",3
+
+"SFN200504060",52,"$Cesar Izturis called out on appeal"2005SFN.EVN.regular.comment.csv",4
+
+"SFN200504060",72,"Debut game for Stephen Schmoll"2005SFN.EVN.regular.comment.csv",5
+
+"SFN200504260",3,"fan interference"2005SFN.EVN.regular.comment.csv",6
+
+"SFN200504260",85,"Benitez tore two hamstring tendons on this play, had surgery to reattch on May 3"2005SFN.EVN.regular.comment.csv",7
+
+"SFN200504270",62,"fan interference"2005SFN.EVN.regular.comment.csv",8
+
+"SFN200505060",57,"Nationals right fielder Jose Guillen left the game due to an injured arm"2005SFN.EVN.regular.comment.csv",9
+
+"SFN200505080",32,"$the ball got past Johnson at 1B but was backed up by Loaiza; Alou had started down the line towards home"2005SFN.EVN.regular.comment.csv",10
+
+"SFN200505080",65,"fan interference"2005SFN.EVN.regular.comment.csv",11
+
+"SFN200505110",53,"Debut game for Scott Munter"2005SFN.EVN.regular.comment.csv",12
+
+"SFN200506080",11,"ej,bellb001,M,reedr901,Check swing Royals Manager Buddy Bell ejected by 1B umpire Rick Reed for arguing a check swing call"2005SFN.EVN.regular.comment.csv",13
+
+"SFN200506110",64,"Debut game for Jack Taschner"2005SFN.EVN.regular.comment.csv",14
+
+"SFN200506200",76,"Debut game for Brandon Medders"2005SFN.EVN.regular.comment.csv",15
+
+"SFN200506230",64,"fan interference"2005SFN.EVN.regular.comment.csv",16
+
+"SFN200507040",45,"$Pitcher Ramirez dropped relay throw that would have completed GDP"2005SFN.EVN.regular.comment.csv",17
+
+"SFN200507040",75,"$Yorvit Torrealba called for interference"2005SFN.EVN.regular.comment.csv",18
+
+"SFN200507100",72,"$Einar Diaz called for interference"2005SFN.EVN.regular.comment.csv",19
+
+"SFN200507180",47,"Giants 2B Ray Durham left the game due to an injured foot/ankle"2005SFN.EVN.regular.comment.csv",20
+
+"SFN200508020",27,"Giants right fielder Moises Alou left the game due to an injured leg"2005SFN.EVN.regular.comment.csv",21
+
+"SFN200508240",52,"Phillies pitcher Cory Lidle left the game due to an injured chest"2005SFN.EVN.regular.comment.csv",22
+
+"SFN200508290",1,"Debut game for Matt Cain"2005SFN.EVN.regular.comment.csv",23
+
+"SFN200508300",7,"Debut game for Angel Chavez"2005SFN.EVN.regular.comment.csv",24
+
+"SFN200509120",0,"Barry Bonds' first appearance of 2005"2005SFN.EVN.regular.comment.csv",25
+
+"SFN200509120",18,"ball would have hit top of wall, but fan reached over causing interference call"2005SFN.EVN.regular.comment.csv",26
+
+"SFN200509140",82,"Debut game for Doug Clark"2005SFN.EVN.regular.comment.csv",27
+

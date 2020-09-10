@@ -1,83 +1,82 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"CHA191804160",24,"Hit and run."
-"CHA191804160",70,"pbp account ends here, rest deduced"
-"CHA191804220",74,"pbp account ends here, rest deduced"
-"CHA191805080",16,"$Cicotte hurt ankle on first base."
-"CHA191805080",24,"Shellenback's ML debut."
-"CHA191805080",69,"$Throw to first pulled 1bman off bag, but throw to 2nd got runner there"
-"CHA191806010",58,"Evening Journal account ends here, rest from 109"
-"CHA191806010",64,"Broken squeeze play."
-"CHA191806030",70,"Top of 9th from NY Times box score."
-"CHA191806040",67,"pbp account ends here, rest deduced"
-"CHA191806070",14,"Hit and run."
-"CHA191806080",74,"Top of 10th from unknown paper."
-"CHA191806080",78,"Remainder of 10th from NY Times box score."
-"CHA191806120",72,"Bunt and run."
-"CHA191806140",69,"pbp account ends here, rest deduced"
-"CHA191806190",7,"Wamby threw into the dugout"
-"CHA191806200",4,"Off the flag staff"
-"CHA191806200",20,"Deduced"
-"CHA191806200",22,"Deduced"
-"CHA191806200",39,"Delayed steal Deduced"
-"CHA191806200",45,"Deduced"
-"CHA191806200",48,"Deduced"
-"CHA191806200",64,"Evans knocked it down then threw to Wamby who muffed it. Ump Evans called Collins out, then safe; Collins kept running."
-"CHA191806200",66,"Infield hit"
-"CHA191806200",66,"Gandil ejected for arguing pickoff attempt"
-"CHA191806200",82,"Through Wamby"
-"CHA191806220",26,"Weaver: Jumping stop of tall bounder but wide throw pulled Gandil off 1B. CDT called it an error and 4 URs this inning."
-"CHA191806220",29,"Wamby beat Collins' throw by a step"
-"CHA191806220",33,"EBA may have credited this assist to Shellenback"
-"CHA191806220",48,"Murphy: long running catch"
-"CHA191806220",53,"Bounded off Gandil's glove; Benz dropped Collins' throw. EBA appears to have not counted any assists here.  Most papers credited Collins, none credited Gandil."
-"CHA191806220",54,"39/CDT: 46(1)3/GDP"
-"CHA191806230",15,"Through Felsch"
-"CHA191806230",35,"Leibold: nice catch"
-"CHA191806230",42,"Speaker: running stab"
-"CHA191806230",46,"Felsch: running catch before colliding with Leibold"
-"CHA191806281",78,"Murphy left too soon"
-"CHA191807270",71,"pbp account ends here, rest deduced"
-"CHA191807290",86,"pbp account ends here, rest deduced"
-"CHA191808071",9,"$Ball misplayed by Peckinpaugh allowing Collins to score; originally scored as error which was later removed"
-"CHA191808071",33,"$Risberg scored while McMullin escaped rundown after pick off"
-"CHA191804160",24,"Hit and run."
-"CHA191804160",70,"pbp account ends here, rest deduced"
-"CHA191804220",74,"pbp account ends here, rest deduced"
-"CHA191805080",16,"$Cicotte hurt ankle on first base."
-"CHA191805080",24,"Shellenback's ML debut."
-"CHA191805080",69,"$Throw to first pulled 1bman off bag, but throw to 2nd got runner there"
-"CHA191806010",58,"Evening Journal account ends here, rest from 109"
-"CHA191806010",64,"Broken squeeze play."
-"CHA191806030",70,"Top of 9th from NY Times box score."
-"CHA191806040",67,"pbp account ends here, rest deduced"
-"CHA191806070",14,"Hit and run."
-"CHA191806080",74,"Top of 10th from unknown paper."
-"CHA191806080",78,"Remainder of 10th from NY Times box score."
-"CHA191806120",72,"Bunt and run."
-"CHA191806140",69,"pbp account ends here, rest deduced"
-"CHA191806190",7,"Wamby threw into the dugout"
-"CHA191806200",4,"Off the flag staff"
-"CHA191806200",20,"Deduced"
-"CHA191806200",22,"Deduced"
-"CHA191806200",39,"Delayed steal Deduced"
-"CHA191806200",45,"Deduced"
-"CHA191806200",48,"Deduced"
-"CHA191806200",64,"Evans knocked it down then threw to Wamby who muffed it. Ump Evans called Collins out, then safe; Collins kept running."
-"CHA191806200",66,"Infield hit"
-"CHA191806200",66,"ej,gandc101,P,evanb901,Pickoff attempt Gandil ejected for arguing pickoff attempt"
-"CHA191806200",82,"Through Wamby"
-"CHA191806220",26,"Weaver: Jumping stop of tall bounder but wide throw pulled Gandil off 1B. CDT called it an error and 4 URs this inning."
-"CHA191806220",29,"Wamby beat Collins' throw by a step"
-"CHA191806220",33,"EBA may have credited this assist to Shellenback"
-"CHA191806220",48,"Murphy: long running catch"
-"CHA191806220",53,"Bounded off Gandil's glove; Benz dropped Collins' throw. EBA appears to have not counted any assists here.  Most papers credited Collins, none credited Gandil."
-"CHA191806220",54,"39/CDT: 46(1)3/GDP"
-"CHA191806230",15,"Through Felsch"
-"CHA191806230",35,"Leibold: nice catch"
-"CHA191806230",42,"Speaker: running stab"
-"CHA191806230",46,"Felsch: running catch before colliding with Leibold"
-"CHA191806281",78,"Murphy left too soon"
-"CHA191807270",71,"pbp account ends here, rest deduced"
-"CHA191807290",86,"pbp account ends here, rest deduced"
-"CHA191808071",9,"$Ball misplayed by Peckinpaugh allowing Collins to score; originally scored as error which was later removed"
-"CHA191808071",33,"$Risberg scored while McMullin escaped rundown after pick off"
+"CHA191804160",24,"Hit and run."FILENAME_TX","LINE_NUMBER_CT"
+
+"CHA191804160",70,"pbp account ends here, rest deduced"1918CHA.EVA.regular.comment.csv",2
+
+"CHA191804220",74,"pbp account ends here, rest deduced"1918CHA.EVA.regular.comment.csv",3
+
+"CHA191805080",16,"$Cicotte hurt ankle on first base."1918CHA.EVA.regular.comment.csv",4
+
+"CHA191805080",24,"Shellenback's ML debut."1918CHA.EVA.regular.comment.csv",5
+
+"CHA191805080",69,"$Throw to first pulled 1bman off bag, but throw to 2nd got runner there"1918CHA.EVA.regular.comment.csv",6
+
+"CHA191806010",58,"Evening Journal account ends here, rest from 109"1918CHA.EVA.regular.comment.csv",7
+
+"CHA191806010",64,"Broken squeeze play."1918CHA.EVA.regular.comment.csv",8
+
+"CHA191806030",70,"Top of 9th from NY Times box score."1918CHA.EVA.regular.comment.csv",9
+
+"CHA191806040",67,"pbp account ends here, rest deduced"1918CHA.EVA.regular.comment.csv",10
+
+"CHA191806070",14,"Hit and run."1918CHA.EVA.regular.comment.csv",11
+
+"CHA191806080",74,"Top of 10th from unknown paper."1918CHA.EVA.regular.comment.csv",12
+
+"CHA191806080",78,"Remainder of 10th from NY Times box score."1918CHA.EVA.regular.comment.csv",13
+
+"CHA191806120",72,"Bunt and run."1918CHA.EVA.regular.comment.csv",14
+
+"CHA191806140",69,"pbp account ends here, rest deduced"1918CHA.EVA.regular.comment.csv",15
+
+"CHA191806190",7,"Wamby threw into the dugout"1918CHA.EVA.regular.comment.csv",16
+
+"CHA191806200",4,"Off the flag staff"1918CHA.EVA.regular.comment.csv",17
+
+"CHA191806200",20,"Deduced"1918CHA.EVA.regular.comment.csv",18
+
+"CHA191806200",22,"Deduced"1918CHA.EVA.regular.comment.csv",19
+
+"CHA191806200",39,"Delayed steal Deduced"1918CHA.EVA.regular.comment.csv",20
+
+"CHA191806200",45,"Deduced"1918CHA.EVA.regular.comment.csv",21
+
+"CHA191806200",48,"Deduced"1918CHA.EVA.regular.comment.csv",22
+
+"CHA191806200",64,"Evans knocked it down then threw to Wamby who muffed it. Ump Evans called Collins out, then safe; Collins kept running."1918CHA.EVA.regular.comment.csv",23
+
+"CHA191806200",66,"Infield hit"1918CHA.EVA.regular.comment.csv",24
+
+"CHA191806200",66,"ej,gandc101,P,evanb901,Pickoff attempt Gandil ejected for arguing pickoff attempt"1918CHA.EVA.regular.comment.csv",25
+
+"CHA191806200",82,"Through Wamby"1918CHA.EVA.regular.comment.csv",26
+
+"CHA191806220",26,"Weaver: Jumping stop of tall bounder but wide throw pulled Gandil off 1B. CDT called it an error and 4 URs this inning."1918CHA.EVA.regular.comment.csv",27
+
+"CHA191806220",29,"Wamby beat Collins' throw by a step"1918CHA.EVA.regular.comment.csv",28
+
+"CHA191806220",33,"EBA may have credited this assist to Shellenback"1918CHA.EVA.regular.comment.csv",29
+
+"CHA191806220",48,"Murphy: long running catch"1918CHA.EVA.regular.comment.csv",30
+
+"CHA191806220",53,"Bounded off Gandil's glove; Benz dropped Collins' throw. EBA appears to have not counted any assists here.  Most papers credited Collins, none credited Gandil."1918CHA.EVA.regular.comment.csv",31
+
+"CHA191806220",54,"39/CDT: 46(1)3/GDP"1918CHA.EVA.regular.comment.csv",32
+
+"CHA191806230",15,"Through Felsch"1918CHA.EVA.regular.comment.csv",33
+
+"CHA191806230",35,"Leibold: nice catch"1918CHA.EVA.regular.comment.csv",34
+
+"CHA191806230",42,"Speaker: running stab"1918CHA.EVA.regular.comment.csv",35
+
+"CHA191806230",46,"Felsch: running catch before colliding with Leibold"1918CHA.EVA.regular.comment.csv",36
+
+"CHA191806281",78,"Murphy left too soon"1918CHA.EVA.regular.comment.csv",37
+
+"CHA191807270",71,"pbp account ends here, rest deduced"1918CHA.EVA.regular.comment.csv",38
+
+"CHA191807290",86,"pbp account ends here, rest deduced"1918CHA.EVA.regular.comment.csv",39
+
+"CHA191808071",9,"$Ball misplayed by Peckinpaugh allowing Collins to score; originally scored as error which was later removed"1918CHA.EVA.regular.comment.csv",40
+
+"CHA191808071",33,"$Risberg scored while McMullin escaped rundown after pick off"1918CHA.EVA.regular.comment.csv",41
+

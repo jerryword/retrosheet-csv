@@ -1,77 +1,76 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"NY1192604170",63,"pbp account ends here, rest deducd"
-"NY1192605030",12,"ej,fleta101,M,mclap901,Call at 2B $Phillies Manager Art Fletcher ejected by HP umpire Peter McLaughlin"
-"NY1192605030",16,"$HP Umpire Peter McLaughlin found Phillies Manager Art Fletcher hiding in the tool shed"
-"NY1192606080",48,"Rain began"
-"NY1192606100",12,"$Ty Tyson out on appeal for missing 1B on an apparent double"
-"NY1192606140",27,"25 minute rain delay"
-"NY1192606150",5,"15 rain delay"
-"NY1192606150",14,"$the ball struck Umpire Bob Hart"
-"NY1192606220",0,"$second game rained out"
-"NY1192606292",62,"$Heinie Mueller punched Doc Gautreau for blocking his path"
-"NY1192607031",23,"$the ball struck umpire Monroe Sweeney"
-"NY1192607270",5,"$Hugh McMullen dropped strike three"
-"NY1192607300",43,"$Frankie Frisch made a lunging stop and tagged Jim Bottomley trying to get back to the bag"
-"NY1192607311",16,"$off the scoreboard on the upper lf grandstand"
-"NY1192608020",45,"$Tyson hit in head, pitcher helped him up, but he fell again; after five minutes of attention from the Giant trainer, Tyson took first"
-"NY1192608031",8,"$Ty Tyson out before Frankie Frisch scored"
-"NY1192608031",65,"$Paul Florence left due to heat exhaustion"
-"NY1192608032",16,"$Heinie Mueller leaped in the way of the relay throw; he was struck on the mouth by the ball and called out for interference"
-"NY1192608050",22,"$Virgil Barnes was struck by Wally Pipp's line drive"
-"NY1192608060",37,"$off the scoreboard on the upper deck"
-"NY1192608071",41,"$off the roof facing in the upper deck"
-"NY1192608071",45,"a hard rain started to fall"
-"NY1192608072",44,"$Freddy Lindstrom missed on the hit and run and Val Picinich threw behind Heinie Mueller"
-"NY1192608090",43,"missing play in NY1192608090"
-"NY1192608110",59,"ej,hartg103,P,klemb901,Called third strike Gabby Hartnett ejected by HP umpire Bill Klem"
-"NY1192609041",6,"$Mel Ott injured his leg"
-"NY1192609042",80,"$Dick Burrus injured his leg sliding"
-"NY1192609112",55,"pbp account ends here, rest deduced"
-"NY1192609150",62,"$lost in the sun"
-"NY1192609160",25,"$Frankie Frisch and Bill Terry collided"
-"NY1192609180",0,"$third consecutive day for Pete Donohue to pitch vs the Giants"
-"NY1192609190",55,"$short single to right, Frisch nearly out at plate, but catcher missed ball, drawing error for allow advances"
-"NY1192609201",16,"missing play in NY1192609201"
-"NY1192609210",46,"$lost in the sun"
-"NY1192609210",55,"$Howard Freigau called for interference for running out of the baseline"
-"NY1192609240",0,"$the Cardinals clinched the NL pennant today"
-"NY1192609240",67,"missing play in NY1192609240"
-"NY1192609250",21,"missing play in NY1192609250"
-"NY1192604170",63,"pbp account ends here, rest deducd"
-"NY1192605030",12,"ej,fleta101,M,mclap901,Call at 2B $Phillies Manager Art Fletcher ejected by HP umpire Peter McLaughlin"
-"NY1192605030",16,"$HP Umpire Peter McLaughlin found Phillies Manager Art Fletcher hiding in the tool shed"
-"NY1192606080",48,"Rain began"
-"NY1192606100",12,"$Ty Tyson out on appeal for missing 1B on an apparent double"
-"NY1192606140",27,"25 minute rain delay"
-"NY1192606150",5,"15 rain delay"
-"NY1192606150",14,"$the ball struck Umpire Bob Hart"
-"NY1192606220",0,"$second game rained out"
-"NY1192606292",62,"$Heinie Mueller punched Doc Gautreau for blocking his path"
-"NY1192607031",23,"$the ball struck umpire Monroe Sweeney"
-"NY1192607270",5,"$Hugh McMullen dropped strike three"
-"NY1192607300",43,"$Frankie Frisch made a lunging stop and tagged Jim Bottomley trying to get back to the bag"
-"NY1192607311",16,"$off the scoreboard on the upper lf grandstand"
-"NY1192608020",45,"$Tyson hit in head, pitcher helped him up, but he fell again; after five minutes of attention from the Giant trainer, Tyson took first"
-"NY1192608031",8,"$Ty Tyson out before Frankie Frisch scored"
-"NY1192608031",65,"$Paul Florence left due to heat exhaustion"
-"NY1192608032",16,"$Heinie Mueller leaped in the way of the relay throw; he was struck on the mouth by the ball and called out for interference"
-"NY1192608050",22,"$Virgil Barnes was struck by Wally Pipp's line drive"
-"NY1192608060",37,"$off the scoreboard on the upper deck"
-"NY1192608071",41,"$off the roof facing in the upper deck"
-"NY1192608071",45,"a hard rain started to fall"
-"NY1192608072",44,"$Freddy Lindstrom missed on the hit and run and Val Picinich threw behind Heinie Mueller"
-"NY1192608090",43,"missing play in NY1192608090"
-"NY1192608110",59,"ej,hartg103,P,klemb901,Called third strike Gabby Hartnett ejected by HP umpire Bill Klem"
-"NY1192609041",6,"$Mel Ott injured his leg"
-"NY1192609042",80,"$Dick Burrus injured his leg sliding"
-"NY1192609112",55,"pbp account ends here, rest deduced"
-"NY1192609150",62,"$lost in the sun"
-"NY1192609160",25,"$Frankie Frisch and Bill Terry collided"
-"NY1192609180",0,"$third consecutive day for Pete Donohue to pitch vs the Giants"
-"NY1192609190",55,"$short single to right, Frisch nearly out at plate, but catcher missed ball, drawing error for allow advances"
-"NY1192609201",16,"missing play in NY1192609201"
-"NY1192609210",46,"$lost in the sun"
-"NY1192609210",55,"$Howard Freigau called for interference for running out of the baseline"
-"NY1192609240",0,"$the Cardinals clinched the NL pennant today"
-"NY1192609240",67,"missing play in NY1192609240"
-"NY1192609250",21,"missing play in NY1192609250"
+"NY1192604170",63,"pbp account ends here, rest deducd"FILENAME_TX","LINE_NUMBER_CT"
+
+"NY1192605030",12,"ej,fleta101,M,mclap901,Call at 2B $Phillies Manager Art Fletcher ejected by HP umpire Peter McLaughlin"1926NY1.EVN.regular.comment.csv",2
+
+"NY1192605030",16,"$HP Umpire Peter McLaughlin found Phillies Manager Art Fletcher hiding in the tool shed"1926NY1.EVN.regular.comment.csv",3
+
+"NY1192606080",48,"Rain began"1926NY1.EVN.regular.comment.csv",4
+
+"NY1192606100",12,"$Ty Tyson out on appeal for missing 1B on an apparent double"1926NY1.EVN.regular.comment.csv",5
+
+"NY1192606140",27,"25 minute rain delay"1926NY1.EVN.regular.comment.csv",6
+
+"NY1192606150",5,"15 rain delay"1926NY1.EVN.regular.comment.csv",7
+
+"NY1192606150",14,"$the ball struck Umpire Bob Hart"1926NY1.EVN.regular.comment.csv",8
+
+"NY1192606220",0,"$second game rained out"1926NY1.EVN.regular.comment.csv",9
+
+"NY1192606292",62,"$Heinie Mueller punched Doc Gautreau for blocking his path"1926NY1.EVN.regular.comment.csv",10
+
+"NY1192607031",23,"$the ball struck umpire Monroe Sweeney"1926NY1.EVN.regular.comment.csv",11
+
+"NY1192607270",5,"$Hugh McMullen dropped strike three"1926NY1.EVN.regular.comment.csv",12
+
+"NY1192607300",43,"$Frankie Frisch made a lunging stop and tagged Jim Bottomley trying to get back to the bag"1926NY1.EVN.regular.comment.csv",13
+
+"NY1192607311",16,"$off the scoreboard on the upper lf grandstand"1926NY1.EVN.regular.comment.csv",14
+
+"NY1192608020",45,"$Tyson hit in head, pitcher helped him up, but he fell again; after five minutes of attention from the Giant trainer, Tyson took first"1926NY1.EVN.regular.comment.csv",15
+
+"NY1192608031",8,"$Ty Tyson out before Frankie Frisch scored"1926NY1.EVN.regular.comment.csv",16
+
+"NY1192608031",65,"$Paul Florence left due to heat exhaustion"1926NY1.EVN.regular.comment.csv",17
+
+"NY1192608032",16,"$Heinie Mueller leaped in the way of the relay throw; he was struck on the mouth by the ball and called out for interference"1926NY1.EVN.regular.comment.csv",18
+
+"NY1192608050",22,"$Virgil Barnes was struck by Wally Pipp's line drive"1926NY1.EVN.regular.comment.csv",19
+
+"NY1192608060",37,"$off the scoreboard on the upper deck"1926NY1.EVN.regular.comment.csv",20
+
+"NY1192608071",41,"$off the roof facing in the upper deck"1926NY1.EVN.regular.comment.csv",21
+
+"NY1192608071",45,"a hard rain started to fall"1926NY1.EVN.regular.comment.csv",22
+
+"NY1192608072",44,"$Freddy Lindstrom missed on the hit and run and Val Picinich threw behind Heinie Mueller"1926NY1.EVN.regular.comment.csv",23
+
+"NY1192608090",43,"missing play in NY1192608090"1926NY1.EVN.regular.comment.csv",24
+
+"NY1192608110",59,"ej,hartg103,P,klemb901,Called third strike Gabby Hartnett ejected by HP umpire Bill Klem"1926NY1.EVN.regular.comment.csv",25
+
+"NY1192609041",6,"$Mel Ott injured his leg"1926NY1.EVN.regular.comment.csv",26
+
+"NY1192609042",80,"$Dick Burrus injured his leg sliding"1926NY1.EVN.regular.comment.csv",27
+
+"NY1192609112",55,"pbp account ends here, rest deduced"1926NY1.EVN.regular.comment.csv",28
+
+"NY1192609150",62,"$lost in the sun"1926NY1.EVN.regular.comment.csv",29
+
+"NY1192609160",25,"$Frankie Frisch and Bill Terry collided"1926NY1.EVN.regular.comment.csv",30
+
+"NY1192609180",0,"$third consecutive day for Pete Donohue to pitch vs the Giants"1926NY1.EVN.regular.comment.csv",31
+
+"NY1192609190",55,"$short single to right, Frisch nearly out at plate, but catcher missed ball, drawing error for allow advances"1926NY1.EVN.regular.comment.csv",32
+
+"NY1192609201",16,"missing play in NY1192609201"1926NY1.EVN.regular.comment.csv",33
+
+"NY1192609210",46,"$lost in the sun"1926NY1.EVN.regular.comment.csv",34
+
+"NY1192609210",55,"$Howard Freigau called for interference for running out of the baseline"1926NY1.EVN.regular.comment.csv",35
+
+"NY1192609240",0,"$the Cardinals clinched the NL pennant today"1926NY1.EVN.regular.comment.csv",36
+
+"NY1192609240",67,"missing play in NY1192609240"1926NY1.EVN.regular.comment.csv",37
+
+"NY1192609250",21,"missing play in NY1192609250"1926NY1.EVN.regular.comment.csv",38
+

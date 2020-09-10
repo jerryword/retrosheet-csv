@@ -1,31 +1,30 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"SDN197104070",2,"$Debut game for Chris Speier"
-"SDN197104080",1,"$Debut game for Steve Stone"
-"SDN197104080",55,"$Debut game for Jimmy Rosario"
-"SDN197104170",18,"$Debut game for Enzo Hernandez"
-"SDN197105052",79,"missing fielding in SDN197105052"
-"SDN197105081",18,"missing fielding in SDN197105081"
-"SDN197105300",12,"ej,gomep101,M,engeb901,Fair/foul call Padres Manager Preston Gomez ejected by 1B umpire Bob Engel"
-"SDN197108151",56,"$Larry Bowa knocked the ball out of Nate Colbert's glove"
-"SDN197108170",39,"ej,huntr101,P,steim901,Fighting $EXpos Hunt ejected by HP umpire Steiner for fighting; he ripped off the mask of catcher Bob Barton and punched him; Barton retaliated and both benches cleared; Expos manager Mauch argued about Hunt being the only player ejected; Expos pitcher Morton, not in the game, tackled Padres Arlin"
-"SDN197109040",49,"$Debut game for Mike Caldwell"
-"SDN197109040",81,"$Debut game for Jay Franklin $Debut game for Mike Ivie"
-"SDN197109070",15,"ej,bencj101,P,wendh901,Call at HP Catcher Bench ejected by HP umpire Wendelstedt"
-"SDN197109070",54,"missing play in SDN197109070"
-"SDN197109120",63,"$Steve Garvey called for interference"
-"SDN197109300",36,"$the two steals by Willie Mays are really one continous play, as the Padres left 3B uncovered due to overshift against Willie McCovey"
-"SDN197104070",2,"$Debut game for Chris Speier"
-"SDN197104080",1,"$Debut game for Steve Stone"
-"SDN197104080",55,"$Debut game for Jimmy Rosario"
-"SDN197104170",18,"$Debut game for Enzo Hernandez"
-"SDN197105052",79,"missing fielding in SDN197105052"
-"SDN197105081",18,"missing fielding in SDN197105081"
-"SDN197105300",12,"ej,gomep101,M,engeb901,Fair/foul call Padres Manager Preston Gomez ejected by 1B umpire Bob Engel"
-"SDN197108151",56,"$Larry Bowa knocked the ball out of Nate Colbert's glove"
-"SDN197108170",39,"ej,huntr101,P,steim901,Fighting $EXpos Hunt ejected by HP umpire Steiner for fighting; he ripped off the mask of catcher Bob Barton and punched him; Barton retaliated and both benches cleared; Expos manager Mauch argued about Hunt being the only player ejected; Expos pitcher Morton, not in the game, tackled Padres Arlin"
-"SDN197109040",49,"$Debut game for Mike Caldwell"
-"SDN197109040",81,"$Debut game for Jay Franklin $Debut game for Mike Ivie"
-"SDN197109070",15,"ej,bencj101,P,wendh901,Call at HP Catcher Bench ejected by HP umpire Wendelstedt"
-"SDN197109070",54,"missing play in SDN197109070"
-"SDN197109120",63,"$Steve Garvey called for interference"
-"SDN197109300",36,"$the two steals by Willie Mays are really one continous play, as the Padres left 3B uncovered due to overshift against Willie McCovey"
+"SDN197104070",2,"$Debut game for Chris Speier"FILENAME_TX","LINE_NUMBER_CT"
+
+"SDN197104080",1,"$Debut game for Steve Stone"1971SDN.EVN.regular.comment.csv",2
+
+"SDN197104080",55,"$Debut game for Jimmy Rosario"1971SDN.EVN.regular.comment.csv",3
+
+"SDN197104170",18,"$Debut game for Enzo Hernandez"1971SDN.EVN.regular.comment.csv",4
+
+"SDN197105052",79,"missing fielding in SDN197105052"1971SDN.EVN.regular.comment.csv",5
+
+"SDN197105081",18,"missing fielding in SDN197105081"1971SDN.EVN.regular.comment.csv",6
+
+"SDN197105300",12,"ej,gomep101,M,engeb901,Fair/foul call Padres Manager Preston Gomez ejected by 1B umpire Bob Engel"1971SDN.EVN.regular.comment.csv",7
+
+"SDN197108151",56,"$Larry Bowa knocked the ball out of Nate Colbert's glove"1971SDN.EVN.regular.comment.csv",8
+
+"SDN197108170",39,"ej,huntr101,P,steim901,Fighting $EXpos Hunt ejected by HP umpire Steiner for fighting; he ripped off the mask of catcher Bob Barton and punched him; Barton retaliated and both benches cleared; Expos manager Mauch argued about Hunt being the only player ejected; Expos pitcher Morton, not in the game, tackled Padres Arlin"1971SDN.EVN.regular.comment.csv",9
+
+"SDN197109040",49,"$Debut game for Mike Caldwell"1971SDN.EVN.regular.comment.csv",10
+
+"SDN197109040",81,"$Debut game for Jay Franklin $Debut game for Mike Ivie"1971SDN.EVN.regular.comment.csv",11
+
+"SDN197109070",15,"ej,bencj101,P,wendh901,Call at HP Catcher Bench ejected by HP umpire Wendelstedt"1971SDN.EVN.regular.comment.csv",12
+
+"SDN197109070",54,"missing play in SDN197109070"1971SDN.EVN.regular.comment.csv",13
+
+"SDN197109120",63,"$Steve Garvey called for interference"1971SDN.EVN.regular.comment.csv",14
+
+"SDN197109300",36,"$the two steals by Willie Mays are really one continous play, as the Padres left 3B uncovered due to overshift against Willie McCovey"1971SDN.EVN.regular.comment.csv",15
+

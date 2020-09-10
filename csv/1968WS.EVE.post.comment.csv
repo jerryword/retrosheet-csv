@@ -1,61 +1,60 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"SLN196810020",1,"Debut game for Dick McAuliffe Debut game for Denny McLain"
-"SLN196810020",2,"Debut game for Mickey Stanley"
-"SLN196810020",3,"Debut game for Al Kaline"
-"SLN196810020",9,"Debut game for Willie Horton"
-"SLN196810020",10,"Debut game for Jim Northrup"
-"SLN196810020",15,"Debut game for Bill Freehan"
-"SLN196810020",16,"Debut game for Don Wert"
-"SLN196810020",43,"Debut game for Tommy Matchick"
-"SLN196810020",48,"Debut game for Pat Dobson"
-"SLN196810020",62,"Debut game for Gates Brown"
-"SLN196810030",1,"Debut game for Mickey Lolich"
-"SLN196810030",14,"Debut game for Ron Davis"
-"SLN196810030",23,"$off Don Wert's glove to Mickey Stanley, who fumbled the ball"
-"SLN196810030",59,"Debut game for Ray Oyler"
-"DET196810050",0,"Debut game for Earl Wilson"
-"DET196810050",1,"$Earl Wilson called for moistening the ball; the automatic ball was ball four"
-"DET196810050",60,"Debut game for Daryl Patterson"
-"DET196810050",64,"Debut game for Wayne Comer"
-"DET196810050",68,"Debut game for John Hiller"
-"DET196810050",84,"Debut game for Jim Price"
-"DET196810060",25,"1:14 rain delay"
-"DET196810060",26,"Debut game for Joe Sparma"
-"DET196810060",34,"$Bill Freehan and Norm Cash collided"
-"DET196810060",49,"Debut game for Fred Lasher"
-"DET196810070",31,"$Kaline ducked away from an inside pitch and fell down, but the ball hit his bat and rolled to the pitcher"
-"SLN196810090",52,"$Jim Northrup called interference on Dal Maxvill's throw"
-"SLN196810090",58,"Debut game for Wayne Granger"
-"SLN196810090",70,"49 minute rain delay"
-"SLN196810090",73,"Debut game for Mel Nelson"
-"SLN196810100",53,"$Jim Northrup and Willie Horton collided"
-"SLN196810020",1,"Debut game for Dick McAuliffe Debut game for Denny McLain"
-"SLN196810020",2,"Debut game for Mickey Stanley"
-"SLN196810020",3,"Debut game for Al Kaline"
-"SLN196810020",9,"Debut game for Willie Horton"
-"SLN196810020",10,"Debut game for Jim Northrup"
-"SLN196810020",15,"Debut game for Bill Freehan"
-"SLN196810020",16,"Debut game for Don Wert"
-"SLN196810020",43,"Debut game for Tommy Matchick"
-"SLN196810020",48,"Debut game for Pat Dobson"
-"SLN196810020",62,"Debut game for Gates Brown"
-"SLN196810030",1,"Debut game for Mickey Lolich"
-"SLN196810030",14,"Debut game for Ron Davis"
-"SLN196810030",23,"$off Don Wert's glove to Mickey Stanley, who fumbled the ball"
-"SLN196810030",59,"Debut game for Ray Oyler"
-"DET196810050",0,"Debut game for Earl Wilson"
-"DET196810050",1,"$Earl Wilson called for moistening the ball; the automatic ball was ball four"
-"DET196810050",60,"Debut game for Daryl Patterson"
-"DET196810050",64,"Debut game for Wayne Comer"
-"DET196810050",68,"Debut game for John Hiller"
-"DET196810050",84,"Debut game for Jim Price"
-"DET196810060",25,"1:14 rain delay"
-"DET196810060",26,"Debut game for Joe Sparma"
-"DET196810060",34,"$Bill Freehan and Norm Cash collided"
-"DET196810060",49,"Debut game for Fred Lasher"
-"DET196810070",31,"$Kaline ducked away from an inside pitch and fell down, but the ball hit his bat and rolled to the pitcher"
-"SLN196810090",52,"$Jim Northrup called interference on Dal Maxvill's throw"
-"SLN196810090",58,"Debut game for Wayne Granger"
-"SLN196810090",70,"49 minute rain delay"
-"SLN196810090",73,"Debut game for Mel Nelson"
-"SLN196810100",53,"$Jim Northrup and Willie Horton collided"
+"SLN196810020",1,"Debut game for Dick McAuliffe Debut game for Denny McLain"FILENAME_TX","LINE_NUMBER_CT"
+
+"SLN196810020",2,"Debut game for Mickey Stanley"1968WS.EVE.post.comment.csv",2
+
+"SLN196810020",3,"Debut game for Al Kaline"1968WS.EVE.post.comment.csv",3
+
+"SLN196810020",9,"Debut game for Willie Horton"1968WS.EVE.post.comment.csv",4
+
+"SLN196810020",10,"Debut game for Jim Northrup"1968WS.EVE.post.comment.csv",5
+
+"SLN196810020",15,"Debut game for Bill Freehan"1968WS.EVE.post.comment.csv",6
+
+"SLN196810020",16,"Debut game for Don Wert"1968WS.EVE.post.comment.csv",7
+
+"SLN196810020",43,"Debut game for Tommy Matchick"1968WS.EVE.post.comment.csv",8
+
+"SLN196810020",48,"Debut game for Pat Dobson"1968WS.EVE.post.comment.csv",9
+
+"SLN196810020",62,"Debut game for Gates Brown"1968WS.EVE.post.comment.csv",10
+
+"SLN196810030",1,"Debut game for Mickey Lolich"1968WS.EVE.post.comment.csv",11
+
+"SLN196810030",14,"Debut game for Ron Davis"1968WS.EVE.post.comment.csv",12
+
+"SLN196810030",23,"$off Don Wert's glove to Mickey Stanley, who fumbled the ball"1968WS.EVE.post.comment.csv",13
+
+"SLN196810030",59,"Debut game for Ray Oyler"1968WS.EVE.post.comment.csv",14
+
+"DET196810050",0,"Debut game for Earl Wilson"1968WS.EVE.post.comment.csv",15
+
+"DET196810050",1,"$Earl Wilson called for moistening the ball; the automatic ball was ball four"1968WS.EVE.post.comment.csv",16
+
+"DET196810050",60,"Debut game for Daryl Patterson"1968WS.EVE.post.comment.csv",17
+
+"DET196810050",64,"Debut game for Wayne Comer"1968WS.EVE.post.comment.csv",18
+
+"DET196810050",68,"Debut game for John Hiller"1968WS.EVE.post.comment.csv",19
+
+"DET196810050",84,"Debut game for Jim Price"1968WS.EVE.post.comment.csv",20
+
+"DET196810060",25,"1:14 rain delay"1968WS.EVE.post.comment.csv",21
+
+"DET196810060",26,"Debut game for Joe Sparma"1968WS.EVE.post.comment.csv",22
+
+"DET196810060",34,"$Bill Freehan and Norm Cash collided"1968WS.EVE.post.comment.csv",23
+
+"DET196810060",49,"Debut game for Fred Lasher"1968WS.EVE.post.comment.csv",24
+
+"DET196810070",31,"$Kaline ducked away from an inside pitch and fell down, but the ball hit his bat and rolled to the pitcher"1968WS.EVE.post.comment.csv",25
+
+"SLN196810090",52,"$Jim Northrup called interference on Dal Maxvill's throw"1968WS.EVE.post.comment.csv",26
+
+"SLN196810090",58,"Debut game for Wayne Granger"1968WS.EVE.post.comment.csv",27
+
+"SLN196810090",70,"49 minute rain delay"1968WS.EVE.post.comment.csv",28
+
+"SLN196810090",73,"Debut game for Mel Nelson"1968WS.EVE.post.comment.csv",29
+
+"SLN196810100",53,"$Jim Northrup and Willie Horton collided"1968WS.EVE.post.comment.csv",30
+

@@ -1,43 +1,42 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"BOS198204120",71,"SB may be with Bernazard at bat"
-"BOS198204140",2,"CS may be with Kemp at bat"
-"BOS198204150",34,"PB may be with Bernazard at bat"
-"BOS198204280",65,"$Jerry Remy called for interference for running into his own bunt"
-"BOS198205210",62,"$Jim Rice lined the ball of Jim Beard into foul territory"
-"BOS198205210",76,"ej,metrc101,C,garcr901,Call at 3B Athletics coach Charlie Metro ejected by 3B umpire Richie Garcia"
-"BOS198205230",18,"1:07 rain delay in third inning"
-"BOS198205230",55,"$Game called after a 32 minute rain delay"
-"BOS198206110",51,"Debut game for Bud Anderson"
-"BOS198206230",61,"$line drive off the second wall in deep center field"
-"BOS198206230",68,"$over the bullpen in RF"
-"BOS198207110",0,"$Umpire Don Denkinger ill"
-"BOS198207180",1,"Debut game for Derek Botelho"
-"BOS198207190",24,"$Buddy Bell rounded 3B too far"
-"BOS198207260",33,"$ball hit the top of the wall just inside the pole and bounced into the seats"
-"BOS198208070",5,"$Carlton Fisk hit caromed off of John Tudor's ankle"
-"BOS198208150",22,"$line drive hit Mike Torrez in head"
-"BOS198209010",52,"1:15 rain delay"
-"BOS198209131",1,"Debut game for Oil Can Boyd"
-"BOS198209131",3,"$3B umpire George Maloney ruled Toby Harrah's drive hit the yellow mark on wall"
-"BOS198209131",63,"ej,houkr101,M,malog901,Obstruction call Red Sox manager Ralph Houk ejected by 3B umpire George Maloney, who ruled obstruction on Carney Lansford"
-"BOS198204120",71,"SB may be with Bernazard at bat"
-"BOS198204140",2,"CS may be with Kemp at bat"
-"BOS198204150",34,"PB may be with Bernazard at bat"
-"BOS198204280",65,"$Jerry Remy called for interference for running into his own bunt"
-"BOS198205210",62,"$Jim Rice lined the ball of Jim Beard into foul territory"
-"BOS198205210",76,"ej,metrc101,C,garcr901,Call at 3B Athletics coach Charlie Metro ejected by 3B umpire Richie Garcia"
-"BOS198205230",18,"1:07 rain delay in third inning"
-"BOS198205230",55,"$Game called after a 32 minute rain delay"
-"BOS198206110",51,"Debut game for Bud Anderson"
-"BOS198206230",61,"$line drive off the second wall in deep center field"
-"BOS198206230",68,"$over the bullpen in RF"
-"BOS198207110",0,"$Umpire Don Denkinger ill"
-"BOS198207180",1,"Debut game for Derek Botelho"
-"BOS198207190",24,"$Buddy Bell rounded 3B too far"
-"BOS198207260",33,"$ball hit the top of the wall just inside the pole and bounced into the seats"
-"BOS198208070",5,"$Carlton Fisk hit caromed off of John Tudor's ankle"
-"BOS198208150",22,"$line drive hit Mike Torrez in head"
-"BOS198209010",52,"1:15 rain delay"
-"BOS198209131",1,"Debut game for Oil Can Boyd"
-"BOS198209131",3,"$3B umpire George Maloney ruled Toby Harrah's drive hit the yellow mark on wall"
-"BOS198209131",63,"ej,houkr101,M,malog901,Obstruction call Red Sox manager Ralph Houk ejected by 3B umpire George Maloney, who ruled obstruction on Carney Lansford"
+"BOS198204120",71,"SB may be with Bernazard at bat"FILENAME_TX","LINE_NUMBER_CT"
+
+"BOS198204140",2,"CS may be with Kemp at bat"1982BOS.EVA.regular.comment.csv",2
+
+"BOS198204150",34,"PB may be with Bernazard at bat"1982BOS.EVA.regular.comment.csv",3
+
+"BOS198204280",65,"$Jerry Remy called for interference for running into his own bunt"1982BOS.EVA.regular.comment.csv",4
+
+"BOS198205210",62,"$Jim Rice lined the ball of Jim Beard into foul territory"1982BOS.EVA.regular.comment.csv",5
+
+"BOS198205210",76,"ej,metrc101,C,garcr901,Call at 3B Athletics coach Charlie Metro ejected by 3B umpire Richie Garcia"1982BOS.EVA.regular.comment.csv",6
+
+"BOS198205230",18,"1:07 rain delay in third inning"1982BOS.EVA.regular.comment.csv",7
+
+"BOS198205230",55,"$Game called after a 32 minute rain delay"1982BOS.EVA.regular.comment.csv",8
+
+"BOS198206110",51,"Debut game for Bud Anderson"1982BOS.EVA.regular.comment.csv",9
+
+"BOS198206230",61,"$line drive off the second wall in deep center field"1982BOS.EVA.regular.comment.csv",10
+
+"BOS198206230",68,"$over the bullpen in RF"1982BOS.EVA.regular.comment.csv",11
+
+"BOS198207110",0,"$Umpire Don Denkinger ill"1982BOS.EVA.regular.comment.csv",12
+
+"BOS198207180",1,"Debut game for Derek Botelho"1982BOS.EVA.regular.comment.csv",13
+
+"BOS198207190",24,"$Buddy Bell rounded 3B too far"1982BOS.EVA.regular.comment.csv",14
+
+"BOS198207260",33,"$ball hit the top of the wall just inside the pole and bounced into the seats"1982BOS.EVA.regular.comment.csv",15
+
+"BOS198208070",5,"$Carlton Fisk hit caromed off of John Tudor's ankle"1982BOS.EVA.regular.comment.csv",16
+
+"BOS198208150",22,"$line drive hit Mike Torrez in head"1982BOS.EVA.regular.comment.csv",17
+
+"BOS198209010",52,"1:15 rain delay"1982BOS.EVA.regular.comment.csv",18
+
+"BOS198209131",1,"Debut game for Oil Can Boyd"1982BOS.EVA.regular.comment.csv",19
+
+"BOS198209131",3,"$3B umpire George Maloney ruled Toby Harrah's drive hit the yellow mark on wall"1982BOS.EVA.regular.comment.csv",20
+
+"BOS198209131",63,"ej,houkr101,M,malog901,Obstruction call Red Sox manager Ralph Houk ejected by 3B umpire George Maloney, who ruled obstruction on Carney Lansford"1982BOS.EVA.regular.comment.csv",21
+

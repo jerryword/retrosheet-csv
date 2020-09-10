@@ -1,11 +1,10 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"SLA195304280",91,"$Clint Courtney slid into 2B spikes high, which started a fight"
-"SLA195306120",49,"$Ed McGhee left with strained leg"
-"SLA195306141",15,"$Elmer Valo reinjured knee"
-"SLA195306141",28,"$Eddie Joost left with eye inflammation"
-"SLA195308272",19,"$the throw hit the runner"
-"SLA195304280",91,"$Clint Courtney slid into 2B spikes high, which started a fight"
-"SLA195306120",49,"$Ed McGhee left with strained leg"
-"SLA195306141",15,"$Elmer Valo reinjured knee"
-"SLA195306141",28,"$Eddie Joost left with eye inflammation"
-"SLA195308272",19,"$the throw hit the runner"
+"SLA195304280",91,"$Clint Courtney slid into 2B spikes high, which started a fight"FILENAME_TX","LINE_NUMBER_CT"
+
+"SLA195306120",49,"$Ed McGhee left with strained leg"1953.EDA.regular.comment.csv",2
+
+"SLA195306141",15,"$Elmer Valo reinjured knee"1953.EDA.regular.comment.csv",3
+
+"SLA195306141",28,"$Eddie Joost left with eye inflammation"1953.EDA.regular.comment.csv",4
+
+"SLA195308272",19,"$the throw hit the runner"1953.EDA.regular.comment.csv",5
+

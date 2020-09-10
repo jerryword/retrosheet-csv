@@ -1,65 +1,64 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"BOS192104250",62,"$Kicked the ball in front of the plate"
-"BOS192104280",3,"Bush ejected"
-"BOS192106040",17,"$Liner got away from Leibold, but Jamieson overran the bag"
-"BOS192106080",53,"Hit and run."
-"BOS192106080",59,"McManus dropped popup."
-"BOS192106100",1,"missing play"
-"BOS192106200",16,"$Hendryx suffered a broken finger trying to catch Meusel's fly in the first inning"
-"BOS192106200",82,"$The center field stands catch fire"
-"BOS192106252",62,"pbp account ends here, rest deduced"
-"BOS192106270",77,"pbp account ends here, rest deduced"
-"BOS192106270",84,"$Rommel backed up play at third, but threw wildly"
-"BOS192107260",12,"missing half inning"
-"BOS192107280",62,"Speaker hurt his leg sliding into 2nd."
-"BOS192108022",41,"Pennock dropped throw."
-"BOS192108050",17,"the umpire ruled Collins missed 2nd in the DP attempt."
-"BOS192109051",3,"KBBX"
-"BOS192109051",20,"X"
-"BOS192109051",38,"BX"
-"BOS192109051",55,"BX"
-"BOS192109051",70,"X"
-"BOS192109052",3,"BX"
-"BOS192109052",27,"BKBX"
-"BOS192109052",42,"BX"
-"BOS192109052",71,"FFX"
-"BOS192109060",3,"CBX"
-"BOS192109060",22,"BX"
-"BOS192109060",44,"BBFFFS"
-"BOS192109060",66,"FBX"
-"BOS192109170",4,"$Ruel breaks one of his fingers on a foul tip from Sheely and is removed."
-"BOS192109170",28," Mulligan was hit by a foul tip from his own bat last inning. He is removed now because of this."
-"BOS192109210",27,"Caldwell hurt his hand knocking down the liner."
-"BOS192109232",17,"Williams' foot injured in first game."
-"BOS192104250",62,"$Kicked the ball in front of the plate"
-"BOS192104280",3,"Bush ejected"
-"BOS192106040",17,"$Liner got away from Leibold, but Jamieson overran the bag"
-"BOS192106080",53,"Hit and run."
-"BOS192106080",59,"McManus dropped popup."
-"BOS192106100",1,"missing play"
-"BOS192106200",16,"$Hendryx suffered a broken finger trying to catch Meusel's fly in the first inning"
-"BOS192106200",82,"$The center field stands catch fire"
-"BOS192106252",62,"pbp account ends here, rest deduced"
-"BOS192106270",77,"pbp account ends here, rest deduced"
-"BOS192106270",84,"$Rommel backed up play at third, but threw wildly"
-"BOS192107260",12,"missing half inning"
-"BOS192107280",62,"Speaker hurt his leg sliding into 2nd."
-"BOS192108022",41,"Pennock dropped throw."
-"BOS192108050",17,"the umpire ruled Collins missed 2nd in the DP attempt."
-"BOS192109051",3,"KBBX"
-"BOS192109051",20,"X"
-"BOS192109051",38,"BX"
-"BOS192109051",55,"BX"
-"BOS192109051",70,"X"
-"BOS192109052",3,"BX"
-"BOS192109052",27,"BKBX"
-"BOS192109052",42,"BX"
-"BOS192109052",71,"FFX"
-"BOS192109060",3,"CBX"
-"BOS192109060",22,"BX"
-"BOS192109060",44,"BBFFFS"
-"BOS192109060",66,"FBX"
-"BOS192109170",4,"$Ruel breaks one of his fingers on a foul tip from Sheely and is removed."
-"BOS192109170",28," Mulligan was hit by a foul tip from his own bat last inning. He is removed now because of this."
-"BOS192109210",27,"Caldwell hurt his hand knocking down the liner."
-"BOS192109232",17,"Williams' foot injured in first game."
+"BOS192104250",62,"$Kicked the ball in front of the plate"FILENAME_TX","LINE_NUMBER_CT"
+
+"BOS192104280",3,"Bush ejected"1921BOS.EVA.regular.comment.csv",2
+
+"BOS192106040",17,"$Liner got away from Leibold, but Jamieson overran the bag"1921BOS.EVA.regular.comment.csv",3
+
+"BOS192106080",53,"Hit and run."1921BOS.EVA.regular.comment.csv",4
+
+"BOS192106080",59,"McManus dropped popup."1921BOS.EVA.regular.comment.csv",5
+
+"BOS192106100",1,"missing play"1921BOS.EVA.regular.comment.csv",6
+
+"BOS192106200",16,"$Hendryx suffered a broken finger trying to catch Meusel's fly in the first inning"1921BOS.EVA.regular.comment.csv",7
+
+"BOS192106200",82,"$The center field stands catch fire"1921BOS.EVA.regular.comment.csv",8
+
+"BOS192106252",62,"pbp account ends here, rest deduced"1921BOS.EVA.regular.comment.csv",9
+
+"BOS192106270",77,"pbp account ends here, rest deduced"1921BOS.EVA.regular.comment.csv",10
+
+"BOS192106270",84,"$Rommel backed up play at third, but threw wildly"1921BOS.EVA.regular.comment.csv",11
+
+"BOS192107260",12,"missing half inning"1921BOS.EVA.regular.comment.csv",12
+
+"BOS192107280",62,"Speaker hurt his leg sliding into 2nd."1921BOS.EVA.regular.comment.csv",13
+
+"BOS192108022",41,"Pennock dropped throw."1921BOS.EVA.regular.comment.csv",14
+
+"BOS192108050",17,"the umpire ruled Collins missed 2nd in the DP attempt."1921BOS.EVA.regular.comment.csv",15
+
+"BOS192109051",3,"KBBX"1921BOS.EVA.regular.comment.csv",16
+
+"BOS192109051",20,"X"1921BOS.EVA.regular.comment.csv",17
+
+"BOS192109051",38,"BX"1921BOS.EVA.regular.comment.csv",18
+
+"BOS192109051",55,"BX"1921BOS.EVA.regular.comment.csv",19
+
+"BOS192109051",70,"X"1921BOS.EVA.regular.comment.csv",20
+
+"BOS192109052",3,"BX"1921BOS.EVA.regular.comment.csv",21
+
+"BOS192109052",27,"BKBX"1921BOS.EVA.regular.comment.csv",22
+
+"BOS192109052",42,"BX"1921BOS.EVA.regular.comment.csv",23
+
+"BOS192109052",71,"FFX"1921BOS.EVA.regular.comment.csv",24
+
+"BOS192109060",3,"CBX"1921BOS.EVA.regular.comment.csv",25
+
+"BOS192109060",22,"BX"1921BOS.EVA.regular.comment.csv",26
+
+"BOS192109060",44,"BBFFFS"1921BOS.EVA.regular.comment.csv",27
+
+"BOS192109060",66,"FBX"1921BOS.EVA.regular.comment.csv",28
+
+"BOS192109170",4,"$Ruel breaks one of his fingers on a foul tip from Sheely and is removed."1921BOS.EVA.regular.comment.csv",29
+
+"BOS192109170",28," Mulligan was hit by a foul tip from his own bat last inning. He is removed now because of this."1921BOS.EVA.regular.comment.csv",30
+
+"BOS192109210",27,"Caldwell hurt his hand knocking down the liner."1921BOS.EVA.regular.comment.csv",31
+
+"BOS192109232",17,"Williams' foot injured in first game."1921BOS.EVA.regular.comment.csv",32
+

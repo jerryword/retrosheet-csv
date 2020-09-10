@@ -1,43 +1,42 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"DET194204160",51,"$Jimmy Bloodworth and Don Ross collided"
-"DET194204240",69,"$Kuhel was spiked by York and left game"
-"DET194205090",45,"game called for rain"
-"DET194205190",0,"ej,wagnc101,P,summb901, $Charlie Wagner ejected by 1B umpire Bill Summers not reported in any of 7 news stories??!!"
-"DET194205200",33,"$Wallaesa left game due to leg injury."
-"DET194205210",37,"$Kreevich scored from second on late throws by Ross/Hitchcock."
-"DET194205210",79,"$Kreevich dropped York's fly."
-"DET194205301",28,"$Tebbetts threw wild returning ball to pitcher"
-"DET194205310",4,"$Tebbetts left game with a split finger off foul tip."
-"DET194206200",33,"$Bloodworth's throw to first went into WS1 dugout"
-"DET194206211",3,"$Higgins catches Cullenbine's liner and tags Spence running to third"
-"DET194206211",60,"$Clary throws wildly past first trying to complete DP McCosky had collided with Clary and had his breath knocked out"
-"DET194206212",35,"$Clary stumbles, falls after rounding third"
-"DET194206212",40,"ej,harrb106,M,quinj901,Call at 1B $Quinn ejects Harris who bumps him protesting the call at first"
-"DET194207210",30,"$White missed 1B"
-"DET194207210",35,"$Case felt sick"
-"DET194207301",43,"$Blair hurt chasing foul pop"
-"DET194208022",39,"$DiMaggio raced in and cauht the ball just behind second base; Bloodworth thought ball would drop in and was easily tagged by DiMaggio for unasissted DP"
-"DET194209140",7,"$Zuber dropped throw-in"
-"DET194209140",18,"Campbell fumbled"
-"DET194209202",29,"ej,boudl101,M,hubbc901,Call at 3B $Cleveland manager Boudreau ejected by base umpire for arguing that Lipon was out at 3rd on SH"
-"DET194204160",51,"$Jimmy Bloodworth and Don Ross collided"
-"DET194204240",69,"$Kuhel was spiked by York and left game"
-"DET194205090",45,"game called for rain"
-"DET194205190",0,"ej,wagnc101,P,summb901, $Charlie Wagner ejected by 1B umpire Bill Summers not reported in any of 7 news stories??!!"
-"DET194205200",33,"$Wallaesa left game due to leg injury."
-"DET194205210",37,"$Kreevich scored from second on late throws by Ross/Hitchcock."
-"DET194205210",79,"$Kreevich dropped York's fly."
-"DET194205301",28,"$Tebbetts threw wild returning ball to pitcher"
-"DET194205310",4,"$Tebbetts left game with a split finger off foul tip."
-"DET194206200",33,"$Bloodworth's throw to first went into WS1 dugout"
-"DET194206211",3,"$Higgins catches Cullenbine's liner and tags Spence running to third"
-"DET194206211",60,"$Clary throws wildly past first trying to complete DP McCosky had collided with Clary and had his breath knocked out"
-"DET194206212",35,"$Clary stumbles, falls after rounding third"
-"DET194206212",40,"ej,harrb106,M,quinj901,Call at 1B $Quinn ejects Harris who bumps him protesting the call at first"
-"DET194207210",30,"$White missed 1B"
-"DET194207210",35,"$Case felt sick"
-"DET194207301",43,"$Blair hurt chasing foul pop"
-"DET194208022",39,"$DiMaggio raced in and cauht the ball just behind second base; Bloodworth thought ball would drop in and was easily tagged by DiMaggio for unasissted DP"
-"DET194209140",7,"$Zuber dropped throw-in"
-"DET194209140",18,"Campbell fumbled"
-"DET194209202",29,"ej,boudl101,M,hubbc901,Call at 3B $Cleveland manager Boudreau ejected by base umpire for arguing that Lipon was out at 3rd on SH"
+"DET194204160",51,"$Jimmy Bloodworth and Don Ross collided"FILENAME_TX","LINE_NUMBER_CT"
+
+"DET194204240",69,"$Kuhel was spiked by York and left game"1942DET.EVA.regular.comment.csv",2
+
+"DET194205090",45,"game called for rain"1942DET.EVA.regular.comment.csv",3
+
+"DET194205190",0,"ej,wagnc101,P,summb901, $Charlie Wagner ejected by 1B umpire Bill Summers not reported in any of 7 news stories??!!"1942DET.EVA.regular.comment.csv",4
+
+"DET194205200",33,"$Wallaesa left game due to leg injury."1942DET.EVA.regular.comment.csv",5
+
+"DET194205210",37,"$Kreevich scored from second on late throws by Ross/Hitchcock."1942DET.EVA.regular.comment.csv",6
+
+"DET194205210",79,"$Kreevich dropped York's fly."1942DET.EVA.regular.comment.csv",7
+
+"DET194205301",28,"$Tebbetts threw wild returning ball to pitcher"1942DET.EVA.regular.comment.csv",8
+
+"DET194205310",4,"$Tebbetts left game with a split finger off foul tip."1942DET.EVA.regular.comment.csv",9
+
+"DET194206200",33,"$Bloodworth's throw to first went into WS1 dugout"1942DET.EVA.regular.comment.csv",10
+
+"DET194206211",3,"$Higgins catches Cullenbine's liner and tags Spence running to third"1942DET.EVA.regular.comment.csv",11
+
+"DET194206211",60,"$Clary throws wildly past first trying to complete DP McCosky had collided with Clary and had his breath knocked out"1942DET.EVA.regular.comment.csv",12
+
+"DET194206212",35,"$Clary stumbles, falls after rounding third"1942DET.EVA.regular.comment.csv",13
+
+"DET194206212",40,"ej,harrb106,M,quinj901,Call at 1B $Quinn ejects Harris who bumps him protesting the call at first"1942DET.EVA.regular.comment.csv",14
+
+"DET194207210",30,"$White missed 1B"1942DET.EVA.regular.comment.csv",15
+
+"DET194207210",35,"$Case felt sick"1942DET.EVA.regular.comment.csv",16
+
+"DET194207301",43,"$Blair hurt chasing foul pop"1942DET.EVA.regular.comment.csv",17
+
+"DET194208022",39,"$DiMaggio raced in and cauht the ball just behind second base; Bloodworth thought ball would drop in and was easily tagged by DiMaggio for unasissted DP"1942DET.EVA.regular.comment.csv",18
+
+"DET194209140",7,"$Zuber dropped throw-in"1942DET.EVA.regular.comment.csv",19
+
+"DET194209140",18,"Campbell fumbled"1942DET.EVA.regular.comment.csv",20
+
+"DET194209202",29,"ej,boudl101,M,hubbc901,Call at 3B $Cleveland manager Boudreau ejected by base umpire for arguing that Lipon was out at 3rd on SH"1942DET.EVA.regular.comment.csv",21
+

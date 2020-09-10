@@ -1,141 +1,140 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"ANA201404130",64,"ej,wrigd002,P,basnt901,Balls and strikes ej,murpd006,P,basnt901,Balls and strikes Mets David Wright and Daniel Murphy ejected by HP umpire Toby Basner"
-"ANA201404140",0,"Debut for umpire Chris Segal"
-"ANA201404140",71,"replay,9,kendh001,ANA,welkt901,ANA01,,N,M,ANA,C Angels manager Mike Scioscia challenged the call, which was upheld by replay"
-"ANA201404160",56,"replay,7,iannc001,ANA,welkt901,ANA01,,N,M,OAK,I $when Chris Iannetta was ruled to have been hit by a pitch, Athletics manager Bob Melvin challenged the ruling; the call was upheld by replay"
-"ANA201404290",30,"Indians second baseman Jason Kipnis left the game due to an injured side"
-"ANA201404290",46,"replay,5,shucj001,ANA,gormb901,ANA01,,Y,M,ANA,C $when J.B. Shuck was called out at 1B, Angels manager Mike Scioscia challenged the ruling; it was overturned by replay"
-"ANA201404290",78,"replay,8,bourm001,CLE,gormb901,ANA01,,N,M,CLE,C $when Michael Bourn was called out at 1B, Indians manager Terry Francona challenged the ruling; it was upheld by replay"
-"ANA201405020",29,"Angels third baseman David Freese left the game due to an injured hand"
-"ANA201405020",62,"Rangers left fielder Shin-Soo Choo left the game due to an injured ankle"
-"ANA201405030",10,"originally scored E2 on the advance, changed to E7 on 05-04-2014"
-"ANA201405040",25,"replay,2,aybae001,ANA,demud901,ANA01,,Y,M,TEX,C $when C.J. Cron was called safe at 3B, Rangers manager Ron Washington challenged the ruling; it was overturned by replay"
-"ANA201405040",79,"originally scored as two-base E9, changed to double on 05-14-2014, makes 5 runs now earned"
-"ANA201405050",40,"replay,6,pujoa001,ANA,nelsj901,ANA01,,N,M,NYA,A $when Eric Aybar was called safe at 3B, Yankees manager Joe Girardi challenged the ruling; it was upheld by replay"
-"ANA201405050",54,"ej,giraj001,M,diazl901,Balls and strikes (Threw hat) $Yankees Manager Joe Girardi ejected by HP umpire Laz Diaz"
-"ANA201405050",62,"ej,kells001,P,diazl901,Balls and strikes Yankees pitcher Shawn Kelley ejected by HP umpire Laz Diaz; after he was removed from the game; Kelley kept talking to Diaz while leaving the field"
-"ANA201405150",36,"replay,5,greeg002,ANA,millb901,ANA01,,Y,M,ANA,A $when Grant Green was called out at 2B, Angels manager Mike Scioscia challenged the ruling; it was overturned by replay"
-"ANA201405150",62,"replay,7,pujoa001,ANA,millb901,ANA01,,Y,M,ANA,A $when Mike Trout was called out at 2B, Angels manager Mike Scioscia challenged the ruling; it was overturned by replay"
-"ANA201405160",67,"replay,8,kendh001,ANA,millb901,ANA01,,N,M,TBA,C $when Howie Kendrick was called safe at 1B, Rays manager Joe Maddon chellenged the ruling; it was upheld by replay"
-"ANA201405180",67,"replay,8,jimel002,ANA,millb901,ANA01,,N,M,ANA,A $when Grant Green was called out at 2B, Angels manager Mike Scioscia challenged the ruling; it was upheld by replay"
-"ANA201405210",15,"replay,3,presa001,HOU,davig901,ANA01,,N,M,ANA,C $when Alex Presley was called safe at 1B, Angels manager Mike Scioscia challenged the ruling; it was upheld by replay"
-"ANA201405210",37,"$Jonathan Villar called for interference"
-"ANA201405240",47,"replay,5,pujoa001,ANA,wegnm901,ANA01,,Y,M,ANA,X $when Albert Pujols' fly ball at the LF wall was ruled a catch, Angels manager Mike Scioscia challenged the call; Alex Gordon juggled the ball a few times and Scioscia claimed that the ball hit the wall before Gordon finally caught the ball; the ruling was overturned by replay"
-"ANA201405240",56,"replay,6,congh001,ANA,wengm901,ANA01,,N,M,KCA,A $when Hank Conger slid past the bag and scrambled back, he was ruled safe; Royals manager Ned Yost challenged the call, which was upheld by replay"
-"ANA201405250",2,"replay,1,hosme001,KCA,wegnm901,ANA01,,N,M,KCA,A $when Jarrod Dyson was called out at 2B, Royals manager Ned Yost challenged the ruling; the call was upheld by replay"
-"ANA201405250",63,"replay,7,cronc002,ANA,wegnm901,ANA01,,N,M,ANA,A $when Albert Pujols was called out at HP, Angels manager Mike Scioscia challenged the ruling; the call was upheld by replay"
-"ANA201406090",40,"replay,5,troum001,ANA,davib902,ANA01,O,Y,U,,H ej,sciom001,M,davib902,Replay ruling $Mike Trout's fly ball to right center was touched by a fan below the yellow line at the top of the wall; the play was ruled a home run; acting crew chief Bob Davidson requested a review, which overturned the call to fan interference and a double; Angels manager Mike Scioscia argued with Davidson about the placement of Trout and was ejected by Davidson"
-"ANA201406100",62,"replay,8,troum001,ANA,davib902,ANA01,,N,M,ANA,P $when Howie Kendrick was called at at HP, acting crew chief Bob Davidson requested a review; the call was upheld because Derek Norris did not block the plate"
-"ANA201406210",23,"ej,riosa002,P,carav901,Balls and strikes Rangers designated hitter Alex Rios ejected by HP umpire Vic Carapazza"
-"ANA201406210",68,"ej,choim001,P,carav901,Called third strike Rangers left fielder Michael Choice ejected by HP umpire Vic Carapazza"
-"ANA201406220",6,"replay,1,pujoa001,ANA,millb901,ANA01,,Y,U,,P ej,washr001,M,millb901,Replay ruling $when Kole Calhoun was called out at HP, crew chief Bill Miller requested a review; the ruling was overturned by replay because the catcher blocked HP without the ball; Rangers Manager Ron Washington ejected by Miller"
-"ANA201406250",22,"Twins shortstop Danny Santana left the game due to an injured knee"
-"ANA201407030",39,"$Collin Cowgill called for interference"
-"ANA201407040",27,"replay,3,cronc002,ANA,vanol901,ANA01,,N,U,,P $when David Freese was called out at HP, acting crew chief Larry Vanover requested a review; the call was upheld by replay, saying that the catcher did not block the plate and the runner was out"
-"ANA201407060",36,"Astros pitcher Collin McHugh left the game due to an injured hand"
-"ANA201407070",13,"Angels pitcher Jered Weaver left the game due to an injured back"
-"ANA201407070",37,"replay,5,iannc001,ANA,gormb901,ANA01,,N,U,,N $Chris Iannetta's fly ball to right center was touched by a fan who reached down over the yellow line; the ball was ruled fan interference; crew chief Brian Gorman requested a review, which upheld the call"
-"ANA201407080",19,"replay,3,reyej001,TOR,gormb901,ANA01,,Y,M,ANA,A $when Jose Reyes took a wide turn and was called safe on a tag, Angels manager Mike Scioscia challenged the ruling; the call was overturned by replay"
-"ANA201407080",54,"replay,7,aybae001,ANA,gormb901,ANA01,,N,M,TOR,C $when Erick Aybar was called safe at 1B, Blue Jays manager John Gibbons challenged the ruling; the call was upheld by replay"
-"ANA201407080",59,"originally scored as stolen base, changed to WP on 07-09-2014; changed back stolen base on 07-10-2014"
-"ANA201407090",3,"replay,1,tolls001,TOR,gormb901,ANA01,,N,U,,P $when Jose Reyes was called out at HP, crew chief Brian Gorman requested a review; the call was upheld by replay, saying the catcher did not block HP and the runner was out"
-"ANA201407090",23,"replay,3,cabrm002,TOR,gormb901,ANA01,,Y,M,ANA,C $when Melky Cabrera was called safe at 1B, Angels manager Mike Scioscia challenged the ruling; the call was overturned by replay"
-"ANA201407090",29,"replay,3,pujoa001,ANA,gormb901,ANA01,,N,U,,P $when Mike Trout was called out at HP, crew chief Brian Gorman requested a review; the call was upheld by replay saying that the catcher did not block HP and the runner was out"
-"ANA201407090",73,"replay,7,troum001,ANA,gormb901,ANA01,,N,M,TOR,C $when Mike Trout was called safe at 1B, Blue Jays manager John Gibbons challenged the ruling; the call was upheld by replay"
-"ANA201407180",71,"Angels shortstop Erick Aybar left the game due to an injured groin"
-"ANA201407180",75,"replay,10,canor001,SEA,barrt901,ANA01,,Y,M,ANA,A $when RObinson Cano was called safe at 2B, Angels manager Mike Scioscia challenged the ruling; the call was overturned by replay because Cano came off the bag during his popup slide"
-"ANA201407180",122,"replay,16,troum001,ANA,barrt901,ANA01,,N,M,SEA,B $the Mariners appealed at 1B that Mike Trout missed the bag; when Trout was called safe, Mariners manager Lloyd McClendon challenged the ruling; the call was upheld by replay"
-"ANA201407250",21,"Angels left fielder Josh Hamilton left the game due to an injured knee"
-"ANA201407260",20,"replay,3,jacka001,DET,joycj901,ANA01,,Y,M,ANA,A ej,ausmb001,M,joycj901,Replay ruling $when Eugenio Suarez was called safe at 1B, Angels manager Mike Scioscia challenged the ruling; the call was overturned by replay; Tigers manager Brad Ausmus ejected by 1B umpire Jim Joyce; Ausmus said that Scioscia took too long to come onto the field to request the review since his pitcher was already back on the mound; Joyce told Ausmus that he was allowed to review the play anyway; Ausmus was ejected for arguing the replay when he thought he was not arguing the challenge itself but whether the challenge was allowed"
-"ANA201407260",39,"$Eugenio Suarez called for interference for running into his own bunt"
-"ANA201408060",27,"replay,4,turnj001,LAN,reynj901,ANA01,,Y,M,ANA,C $when Andre Ethier was called safe at 2B, Angels manager Mike Scioscia challenged the ruling; the call was overturned by replay"
-"ANA201408070",46,"replay,6,cowgc001,ANA,reynj901,ANA01,,Y,M,LAN,C $when Collin Cowgill was called safe at 1B, Dodgers manager Don Mattingly challenged the ruling; the call was overturned by replay"
-"ANA201408070",67,"ej,kempm001,P,knigb901,Checked swing Dodgers left fielder Matt Kemp ejected by HP umpire Brian Knight"
-"ANA201408070",70,"replay,8,aybae001,ANA,reynj901,ANA01,,N,M,ANA,C $when Erick Aybar was called out at 1B, Angels manager Mike Scioscia challenged the ruling; the call was upheld by replay"
-"ANA201408090",101,"$the Angels infield was shifted to right for David Ortiz"
-"ANA201408090",103,"$Dustin Pedroia stole 2B with a feet-first slide, popped up and ran to 3B; no one covered third; these two steals are one continuous play"
-"ANA201408090",146,"replay,19,pujoa001,ANA,scotd901,ANA01,O,N,U,,H $Albert Pujols hit a fly to right center that struck the metal railing over the top of the yellow line and was ruled a home run; crew chief Dale Scott requested a review; the call was upheld by replay"
-"ANA201408100",59,"ej,napom001,P,buckc901,Called third strike Red Sox designated hitter Mike Napoli ejected by HP umpire CB Bucknor"
-"ANA201408120",8,"$Erick Aybar called for interference for running in fair territory when he was struck by the throw"
-"ANA201408250",47,"replay,6,yelic001,MIA,scotd901,ANA01,O,N,U,,H $Christian Yelich's fly to RF struck the yellow line at the top of the wall; crew chief Dale Scott requested a review, which upheld the call of ball in play"
-"ANA201408280",0,"Protest=V"
-"ANA201408280",75,"$Erick Aybar hit a bouncer down the 1B line; Dan Otero and Brandon Moss ran together to field the ball, which was fielded by Otero; Aybar ran into Otero on the fair side of the line, obstruction was called on Moss and Aybar awarded 1B; Athletics manager Bob Melvin protested the game; error changed from pitcher to first baseman Moss on 08-29-2014"
-"ANA201408290",54,"replay,7,sogae001,OAK,davig901,ANA01,,N,M,ANA,C $when Eric Sogard was called safe at 1B, Angels manager Mike Scioscia chalenged the ruling, saying Albert Pujols tagged Sogard on the head on the wild throw; the call was upheld by replay"
-"ANA201408310",17,"ej,melvb001,M,davig901,Balls and strikes Athletics Manager Bob Melvin ejected by HP umpire Gerry Davis"
-"ANA201409120",31,"replay,4,grosr001,HOU,demud901,ANA01,,Y,M,HOU,C $when Robbie Grossman was called out at 1B, Astros acting manager Tom Lawless challenged the ruling; the call was overturned by replay"
-"ANA201409150",22,"Angels first baseman Albert Pujols left the game due to an injured leg"
-"ANA201409160",28,"Mariners pitcher Roenis Elias left the game due to an injured elbow"
-"ANA201409160",35,"replay,5,chave002,SEA,mealj901,ANA01,,Y,M,ANA,C $when Endy Chavez was called safe at 1B, Angels manager Mike Scioscia challenged the ruling; the call was overturned by replay"
-"ANA201409180",29,"replay,5,morrl001,SEA,mealj901,ANA01,,Y,M,ANA,C $when Logan Morrison was called safe at 1B, Angels manager Mike Scioscia challenged the ruling; the call was overturned by replay"
-"ANA201409190",67,"replay,7,navae001,ANA,gormb901,ANA01,,N,U,,P $when C.J. Cron was called out at HP, crew chief Brian Gorman requested a review; the call was upheld be replay saying the catcher did not block HP and the runner was out"
-"ANA201409210",64,"replay,8,pujoa001,ANA,gormb901,ANA01,,Y,M,TEX,C $when Albert Pujols was called safe at 1B, Rangers manager Tim Bogar challenged the ruling; the call was overturned by replay"
-"ANA201404130",64,"ej,wrigd002,P,basnt901,Balls and strikes ej,murpd006,P,basnt901,Balls and strikes Mets David Wright and Daniel Murphy ejected by HP umpire Toby Basner"
-"ANA201404140",0,"Debut for umpire Chris Segal"
-"ANA201404140",71,"replay,9,kendh001,ANA,welkt901,ANA01,,N,M,ANA,C Angels manager Mike Scioscia challenged the call, which was upheld by replay"
-"ANA201404160",56,"replay,7,iannc001,ANA,welkt901,ANA01,,N,M,OAK,I $when Chris Iannetta was ruled to have been hit by a pitch, Athletics manager Bob Melvin challenged the ruling; the call was upheld by replay"
-"ANA201404290",30,"Indians second baseman Jason Kipnis left the game due to an injured side"
-"ANA201404290",46,"replay,5,shucj001,ANA,gormb901,ANA01,,Y,M,ANA,C $when J.B. Shuck was called out at 1B, Angels manager Mike Scioscia challenged the ruling; it was overturned by replay"
-"ANA201404290",78,"replay,8,bourm001,CLE,gormb901,ANA01,,N,M,CLE,C $when Michael Bourn was called out at 1B, Indians manager Terry Francona challenged the ruling; it was upheld by replay"
-"ANA201405020",29,"Angels third baseman David Freese left the game due to an injured hand"
-"ANA201405020",62,"Rangers left fielder Shin-Soo Choo left the game due to an injured ankle"
-"ANA201405030",10,"originally scored E2 on the advance, changed to E7 on 05-04-2014"
-"ANA201405040",25,"replay,2,aybae001,ANA,demud901,ANA01,,Y,M,TEX,C $when C.J. Cron was called safe at 3B, Rangers manager Ron Washington challenged the ruling; it was overturned by replay"
-"ANA201405040",79,"originally scored as two-base E9, changed to double on 05-14-2014, makes 5 runs now earned"
-"ANA201405050",40,"replay,6,pujoa001,ANA,nelsj901,ANA01,,N,M,NYA,A $when Eric Aybar was called safe at 3B, Yankees manager Joe Girardi challenged the ruling; it was upheld by replay"
-"ANA201405050",54,"ej,giraj001,M,diazl901,Balls and strikes (Threw hat) $Yankees Manager Joe Girardi ejected by HP umpire Laz Diaz"
-"ANA201405050",62,"ej,kells001,P,diazl901,Balls and strikes Yankees pitcher Shawn Kelley ejected by HP umpire Laz Diaz; after he was removed from the game; Kelley kept talking to Diaz while leaving the field"
-"ANA201405150",36,"replay,5,greeg002,ANA,millb901,ANA01,,Y,M,ANA,A $when Grant Green was called out at 2B, Angels manager Mike Scioscia challenged the ruling; it was overturned by replay"
-"ANA201405150",62,"replay,7,pujoa001,ANA,millb901,ANA01,,Y,M,ANA,A $when Mike Trout was called out at 2B, Angels manager Mike Scioscia challenged the ruling; it was overturned by replay"
-"ANA201405160",67,"replay,8,kendh001,ANA,millb901,ANA01,,N,M,TBA,C $when Howie Kendrick was called safe at 1B, Rays manager Joe Maddon chellenged the ruling; it was upheld by replay"
-"ANA201405180",67,"replay,8,jimel002,ANA,millb901,ANA01,,N,M,ANA,A $when Grant Green was called out at 2B, Angels manager Mike Scioscia challenged the ruling; it was upheld by replay"
-"ANA201405210",15,"replay,3,presa001,HOU,davig901,ANA01,,N,M,ANA,C $when Alex Presley was called safe at 1B, Angels manager Mike Scioscia challenged the ruling; it was upheld by replay"
-"ANA201405210",37,"$Jonathan Villar called for interference"
-"ANA201405240",47,"replay,5,pujoa001,ANA,wegnm901,ANA01,,Y,M,ANA,X $when Albert Pujols' fly ball at the LF wall was ruled a catch, Angels manager Mike Scioscia challenged the call; Alex Gordon juggled the ball a few times and Scioscia claimed that the ball hit the wall before Gordon finally caught the ball; the ruling was overturned by replay"
-"ANA201405240",56,"replay,6,congh001,ANA,wengm901,ANA01,,N,M,KCA,A $when Hank Conger slid past the bag and scrambled back, he was ruled safe; Royals manager Ned Yost challenged the call, which was upheld by replay"
-"ANA201405250",2,"replay,1,hosme001,KCA,wegnm901,ANA01,,N,M,KCA,A $when Jarrod Dyson was called out at 2B, Royals manager Ned Yost challenged the ruling; the call was upheld by replay"
-"ANA201405250",63,"replay,7,cronc002,ANA,wegnm901,ANA01,,N,M,ANA,A $when Albert Pujols was called out at HP, Angels manager Mike Scioscia challenged the ruling; the call was upheld by replay"
-"ANA201406090",40,"replay,5,troum001,ANA,davib902,ANA01,O,Y,U,,H ej,sciom001,M,davib902,Replay ruling $Mike Trout's fly ball to right center was touched by a fan below the yellow line at the top of the wall; the play was ruled a home run; acting crew chief Bob Davidson requested a review, which overturned the call to fan interference and a double; Angels manager Mike Scioscia argued with Davidson about the placement of Trout and was ejected by Davidson"
-"ANA201406100",62,"replay,8,troum001,ANA,davib902,ANA01,,N,M,ANA,P $when Howie Kendrick was called at at HP, acting crew chief Bob Davidson requested a review; the call was upheld because Derek Norris did not block the plate"
-"ANA201406210",23,"ej,riosa002,P,carav901,Balls and strikes $Rios ejected by HP umpire Carapazza for arguing Balls and strikes"
-"ANA201406210",68,"ej,choim001,P,carav901,Called third strike Rangers left fielder Michael Choice ejected by HP umpire Vic Carapazza"
-"ANA201406220",6,"replay,1,pujoa001,ANA,millb901,ANA01,,Y,U,,P ej,washr001,M,millb901,Replay ruling $when Kole Calhoun was called out at HP, crew chief Bill Miller requested a review; the ruling was overturned by replay because the catcher blocked HP without the ball; Rangers Manager Ron Washington ejected by Miller"
-"ANA201406250",22,"Twins shortstop Danny Santana left the game due to an injured knee"
-"ANA201407030",39,"$Collin Cowgill called for interference"
-"ANA201407040",27,"replay,3,cronc002,ANA,vanol901,ANA01,,N,U,,P $when David Freese was called out at HP, acting crew chief Larry Vanover requested a review; the call was upheld by replay, saying that the catcher did not block the plate and the runner was out"
-"ANA201407060",36,"Astros pitcher Collin McHugh left the game due to an injured hand"
-"ANA201407070",13,"Angels pitcher Jered Weaver left the game due to an injured back"
-"ANA201407070",37,"replay,5,iannc001,ANA,gormb901,ANA01,,N,U,,N $Chris Iannetta's fly ball to right center was touched by a fan who reached down over the yellow line; the ball was ruled fan interference; crew chief Brian Gorman requested a review, which upheld the call"
-"ANA201407080",19,"replay,3,reyej001,TOR,gormb901,ANA01,,Y,M,ANA,A $when Jose Reyes took a wide turn and was called safe on a tag, Angels manager Mike Scioscia challenged the ruling; the call was overturned by replay"
-"ANA201407080",54,"replay,7,aybae001,ANA,gormb901,ANA01,,N,M,TOR,C $when Erick Aybar was called safe at 1B, Blue Jays manager John Gibbons challenged the ruling; the call was upheld by replay"
-"ANA201407080",59,"originally scored as stolen base, changed to WP on 07-09-2014; changed back stolen base on 07-10-2014"
-"ANA201407090",3,"replay,1,tolls001,TOR,gormb901,ANA01,,N,U,,P $when Jose Reyes was called out at HP, crew chief Brian Gorman requested a review; the call was upheld by replay, saying the catcher did not block HP and the runner was out"
-"ANA201407090",23,"replay,3,cabrm002,TOR,gormb901,ANA01,,Y,M,ANA,C $when Melky Cabrera was called safe at 1B, Angels manager Mike Scioscia challenged the ruling; the call was overturned by replay"
-"ANA201407090",29,"replay,3,pujoa001,ANA,gormb901,ANA01,,N,U,,P $when Mike Trout was called out at HP, crew chief Brian Gorman requested a review; the call was upheld by replay saying that the catcher did not block HP and the runner was out"
-"ANA201407090",73,"replay,7,troum001,ANA,gormb901,ANA01,,N,M,TOR,C $when Mike Trout was called safe at 1B, Blue Jays manager John Gibbons challenged the ruling; the call was upheld by replay"
-"ANA201407180",71,"Angels shortstop Erick Aybar left the game due to an injured groin"
-"ANA201407180",75,"replay,10,canor001,SEA,barrt901,ANA01,,Y,M,ANA,A $when RObinson Cano was called safe at 2B, Angels manager Mike Scioscia challenged the ruling; the call was overturned by replay because Cano came off the bag during his popup slide"
-"ANA201407180",122,"replay,16,troum001,ANA,barrt901,ANA01,,N,M,SEA,B $the Mariners appealed at 1B that Mike Trout missed the bag; when Trout was called safe, Mariners manager Lloyd McClendon challenged the ruling; the call was upheld by replay"
-"ANA201407250",21,"Angels left fielder Josh Hamilton left the game due to an injured knee"
-"ANA201407260",20,"replay,3,jacka001,DET,joycj901,ANA01,,Y,M,ANA,A ej,ausmb001,M,joycj901,Replay ruling $when Eugenio Suarez was called safe at 1B, Angels manager Mike Scioscia challenged the ruling; the call was overturned by replay; Tigers manager Brad Ausmus ejected by 1B umpire Jim Joyce; Ausmus said that Scioscia took too long to come onto the field to request the review since his pitcher was already back on the mound; Joyce told Ausmus that he was allowed to review the play anyway; Ausmus was ejected for arguing the replay when he thought he was not arguing the challenge itself but whether the challenge was allowed"
-"ANA201407260",39,"$Eugenio Suarez called for interference for running into his own bunt"
-"ANA201408060",27,"replay,4,turnj001,LAN,reynj901,ANA01,,Y,M,ANA,C $when Andre Ethier was called safe at 2B, Angels manager Mike Scioscia challenged the ruling; the call was overturned by replay"
-"ANA201408070",46,"replay,6,cowgc001,ANA,reynj901,ANA01,,Y,M,LAN,C $when Collin Cowgill was called safe at 1B, Dodgers manager Don Mattingly challenged the ruling; the call was overturned by replay"
-"ANA201408070",67,"ej,kempm001,P,knigb901,Check swing $ Kemp ejected by HP umpire Knight for arguing check swing strike 3"
-"ANA201408070",70,"replay,8,aybae001,ANA,reynj901,ANA01,,N,M,ANA,C $when Erick Aybar was called out at 1B, Angels manager Mike Scioscia challenged the ruling; the call was upheld by replay"
-"ANA201408090",101,"$the Angels infield was shifted to right for David Ortiz"
-"ANA201408090",103,"$Dustin Pedroia stole 2B with a feet-first slide, popped up and ran to 3B; no one covered third; these two steals are one continuous play"
-"ANA201408090",146,"replay,19,pujoa001,ANA,scotd901,ANA01,O,N,U,,H $Albert Pujols hit a fly to right center that struck the metal railing over the top of the yellow line and was ruled a home run; crew chief Dale Scott requested a review; the call was upheld by replay"
-"ANA201408100",59,"ej,napom001,P,buckc901,Called third strike Red Sox designated hitter Mike Napoli ejected by HP umpire CB Bucknor"
-"ANA201408120",8,"$Erick Aybar called for interference for running in fair territory when he was struck by the throw"
-"ANA201408250",47,"replay,6,yelic001,MIA,scotd901,ANA01,O,N,U,,H $Christian Yelich's fly to RF struck the yellow line at the top of the wall; crew chief Dale Scott requested a review, which upheld the call of ball in play"
-"ANA201408280",0,"Protest=V"
-"ANA201408280",75,"$Erick Aybar hit a bouncer down the 1B line; Dan Otero and Brandon Moss ran together to field the ball, which was fielded by Otero; Aybar ran into Otero on the fair side of the line, obstruction was called on Moss and Aybar awarded 1B; Athletics manager Bob Melvin protested the game; error changed from pitcher to first baseman Moss on 08-29-2014"
-"ANA201408290",54,"replay,7,sogae001,OAK,davig901,ANA01,,N,M,ANA,C $when Eric Sogard was called safe at 1B, Angels manager Mike Scioscia chalenged the ruling, saying Albert Pujols tagged Sogard on the head on the wild throw; the call was upheld by replay"
-"ANA201408310",17,"ej,melvb001,M,davig901,Balls and strikes Athletics Manager Bob Melvin ejected by HP umpire Gerry Davis"
-"ANA201409120",31,"replay,4,grosr001,HOU,demud901,ANA01,,Y,M,HOU,C $when Robbie Grossman was called out at 1B, Astros acting manager Tom Lawless challenged the ruling; the call was overturned by replay"
-"ANA201409150",22,"Angels first baseman Albert Pujols left the game due to an injured leg"
-"ANA201409160",28,"Mariners pitcher Roenis Elias left the game due to an injured elbow"
-"ANA201409160",35,"replay,5,chave002,SEA,mealj901,ANA01,,Y,M,ANA,C $when Endy Chavez was called safe at 1B, Angels manager Mike Scioscia challenged the ruling; the call was overturned by replay"
-"ANA201409180",29,"replay,5,morrl001,SEA,mealj901,ANA01,,Y,M,ANA,C $when Logan Morrison was called safe at 1B, Angels manager Mike Scioscia challenged the ruling; the call was overturned by replay"
-"ANA201409190",67,"replay,7,navae001,ANA,gormb901,ANA01,,N,U,,P $when C.J. Cron was called out at HP, crew chief Brian Gorman requested a review; the call was upheld be replay saying the catcher did not block HP and the runner was out"
-"ANA201409210",64,"replay,8,pujoa001,ANA,gormb901,ANA01,,Y,M,TEX,C $when Albert Pujols was called safe at 1B, Rangers manager Tim Bogar challenged the ruling; the call was overturned by replay"
+"ANA201404130",64,"ej,wrigd002,P,basnt901,Balls and strikes ej,murpd006,P,basnt901,Balls and strikes Mets David Wright and Daniel Murphy ejected by HP umpire Toby Basner"FILENAME_TX","LINE_NUMBER_CT"
+
+"ANA201404140",0,"Debut for umpire Chris Segal"2014ANA.EVA.regular.comment.csv",2
+
+"ANA201404140",71,"replay,9,kendh001,ANA,welkt901,ANA01,,N,M,ANA,C Angels manager Mike Scioscia challenged the call, which was upheld by replay"2014ANA.EVA.regular.comment.csv",3
+
+"ANA201404160",56,"replay,7,iannc001,ANA,welkt901,ANA01,,N,M,OAK,I $when Chris Iannetta was ruled to have been hit by a pitch, Athletics manager Bob Melvin challenged the ruling; the call was upheld by replay"2014ANA.EVA.regular.comment.csv",4
+
+"ANA201404290",30,"Indians second baseman Jason Kipnis left the game due to an injured side"2014ANA.EVA.regular.comment.csv",5
+
+"ANA201404290",46,"replay,5,shucj001,ANA,gormb901,ANA01,,Y,M,ANA,C $when J.B. Shuck was called out at 1B, Angels manager Mike Scioscia challenged the ruling; it was overturned by replay"2014ANA.EVA.regular.comment.csv",6
+
+"ANA201404290",78,"replay,8,bourm001,CLE,gormb901,ANA01,,N,M,CLE,C $when Michael Bourn was called out at 1B, Indians manager Terry Francona challenged the ruling; it was upheld by replay"2014ANA.EVA.regular.comment.csv",7
+
+"ANA201405020",29,"Angels third baseman David Freese left the game due to an injured hand"2014ANA.EVA.regular.comment.csv",8
+
+"ANA201405020",62,"Rangers left fielder Shin-Soo Choo left the game due to an injured ankle"2014ANA.EVA.regular.comment.csv",9
+
+"ANA201405030",10,"originally scored E2 on the advance, changed to E7 on 05-04-2014"2014ANA.EVA.regular.comment.csv",10
+
+"ANA201405040",25,"replay,2,aybae001,ANA,demud901,ANA01,,Y,M,TEX,C $when C.J. Cron was called safe at 3B, Rangers manager Ron Washington challenged the ruling; it was overturned by replay"2014ANA.EVA.regular.comment.csv",11
+
+"ANA201405040",79,"originally scored as two-base E9, changed to double on 05-14-2014, makes 5 runs now earned"2014ANA.EVA.regular.comment.csv",12
+
+"ANA201405050",40,"replay,6,pujoa001,ANA,nelsj901,ANA01,,N,M,NYA,A $when Eric Aybar was called safe at 3B, Yankees manager Joe Girardi challenged the ruling; it was upheld by replay"2014ANA.EVA.regular.comment.csv",13
+
+"ANA201405050",54,"ej,giraj001,M,diazl901,Balls and strikes (Threw hat) $Yankees Manager Joe Girardi ejected by HP umpire Laz Diaz"2014ANA.EVA.regular.comment.csv",14
+
+"ANA201405050",62,"ej,kells001,P,diazl901,Balls and strikes Yankees pitcher Shawn Kelley ejected by HP umpire Laz Diaz; after he was removed from the game; Kelley kept talking to Diaz while leaving the field"2014ANA.EVA.regular.comment.csv",15
+
+"ANA201405150",36,"replay,5,greeg002,ANA,millb901,ANA01,,Y,M,ANA,A $when Grant Green was called out at 2B, Angels manager Mike Scioscia challenged the ruling; it was overturned by replay"2014ANA.EVA.regular.comment.csv",16
+
+"ANA201405150",62,"replay,7,pujoa001,ANA,millb901,ANA01,,Y,M,ANA,A $when Mike Trout was called out at 2B, Angels manager Mike Scioscia challenged the ruling; it was overturned by replay"2014ANA.EVA.regular.comment.csv",17
+
+"ANA201405160",67,"replay,8,kendh001,ANA,millb901,ANA01,,N,M,TBA,C $when Howie Kendrick was called safe at 1B, Rays manager Joe Maddon chellenged the ruling; it was upheld by replay"2014ANA.EVA.regular.comment.csv",18
+
+"ANA201405180",67,"replay,8,jimel002,ANA,millb901,ANA01,,N,M,ANA,A $when Grant Green was called out at 2B, Angels manager Mike Scioscia challenged the ruling; it was upheld by replay"2014ANA.EVA.regular.comment.csv",19
+
+"ANA201405210",15,"replay,3,presa001,HOU,davig901,ANA01,,N,M,ANA,C $when Alex Presley was called safe at 1B, Angels manager Mike Scioscia challenged the ruling; it was upheld by replay"2014ANA.EVA.regular.comment.csv",20
+
+"ANA201405210",37,"$Jonathan Villar called for interference"2014ANA.EVA.regular.comment.csv",21
+
+"ANA201405240",47,"replay,5,pujoa001,ANA,wegnm901,ANA01,,Y,M,ANA,X $when Albert Pujols' fly ball at the LF wall was ruled a catch, Angels manager Mike Scioscia challenged the call; Alex Gordon juggled the ball a few times and Scioscia claimed that the ball hit the wall before Gordon finally caught the ball; the ruling was overturned by replay"2014ANA.EVA.regular.comment.csv",22
+
+"ANA201405240",56,"replay,6,congh001,ANA,wengm901,ANA01,,N,M,KCA,A $when Hank Conger slid past the bag and scrambled back, he was ruled safe; Royals manager Ned Yost challenged the call, which was upheld by replay"2014ANA.EVA.regular.comment.csv",23
+
+"ANA201405250",2,"replay,1,hosme001,KCA,wegnm901,ANA01,,N,M,KCA,A $when Jarrod Dyson was called out at 2B, Royals manager Ned Yost challenged the ruling; the call was upheld by replay"2014ANA.EVA.regular.comment.csv",24
+
+"ANA201405250",63,"replay,7,cronc002,ANA,wegnm901,ANA01,,N,M,ANA,A $when Albert Pujols was called out at HP, Angels manager Mike Scioscia challenged the ruling; the call was upheld by replay"2014ANA.EVA.regular.comment.csv",25
+
+"ANA201406090",40,"replay,5,troum001,ANA,davib902,ANA01,O,Y,U,,H ej,sciom001,M,davib902,Replay ruling $Mike Trout's fly ball to right center was touched by a fan below the yellow line at the top of the wall; the play was ruled a home run; acting crew chief Bob Davidson requested a review, which overturned the call to fan interference and a double; Angels manager Mike Scioscia argued with Davidson about the placement of Trout and was ejected by Davidson"2014ANA.EVA.regular.comment.csv",26
+
+"ANA201406100",62,"replay,8,troum001,ANA,davib902,ANA01,,N,M,ANA,P $when Howie Kendrick was called at at HP, acting crew chief Bob Davidson requested a review; the call was upheld because Derek Norris did not block the plate"2014ANA.EVA.regular.comment.csv",27
+
+"ANA201406210",23,"ej,riosa002,P,carav901,Balls and strikes $Rios ejected by HP umpire Carapazza for arguing Balls and strikes"2014ANA.EVA.regular.comment.csv",28
+
+"ANA201406210",68,"ej,choim001,P,carav901,Called third strike Rangers left fielder Michael Choice ejected by HP umpire Vic Carapazza"2014ANA.EVA.regular.comment.csv",29
+
+"ANA201406220",6,"replay,1,pujoa001,ANA,millb901,ANA01,,Y,U,,P ej,washr001,M,millb901,Replay ruling $when Kole Calhoun was called out at HP, crew chief Bill Miller requested a review; the ruling was overturned by replay because the catcher blocked HP without the ball; Rangers Manager Ron Washington ejected by Miller"2014ANA.EVA.regular.comment.csv",30
+
+"ANA201406250",22,"Twins shortstop Danny Santana left the game due to an injured knee"2014ANA.EVA.regular.comment.csv",31
+
+"ANA201407030",39,"$Collin Cowgill called for interference"2014ANA.EVA.regular.comment.csv",32
+
+"ANA201407040",27,"replay,3,cronc002,ANA,vanol901,ANA01,,N,U,,P $when David Freese was called out at HP, acting crew chief Larry Vanover requested a review; the call was upheld by replay, saying that the catcher did not block the plate and the runner was out"2014ANA.EVA.regular.comment.csv",33
+
+"ANA201407060",36,"Astros pitcher Collin McHugh left the game due to an injured hand"2014ANA.EVA.regular.comment.csv",34
+
+"ANA201407070",13,"Angels pitcher Jered Weaver left the game due to an injured back"2014ANA.EVA.regular.comment.csv",35
+
+"ANA201407070",37,"replay,5,iannc001,ANA,gormb901,ANA01,,N,U,,N $Chris Iannetta's fly ball to right center was touched by a fan who reached down over the yellow line; the ball was ruled fan interference; crew chief Brian Gorman requested a review, which upheld the call"2014ANA.EVA.regular.comment.csv",36
+
+"ANA201407080",19,"replay,3,reyej001,TOR,gormb901,ANA01,,Y,M,ANA,A $when Jose Reyes took a wide turn and was called safe on a tag, Angels manager Mike Scioscia challenged the ruling; the call was overturned by replay"2014ANA.EVA.regular.comment.csv",37
+
+"ANA201407080",54,"replay,7,aybae001,ANA,gormb901,ANA01,,N,M,TOR,C $when Erick Aybar was called safe at 1B, Blue Jays manager John Gibbons challenged the ruling; the call was upheld by replay"2014ANA.EVA.regular.comment.csv",38
+
+"ANA201407080",59,"originally scored as stolen base, changed to WP on 07-09-2014; changed back stolen base on 07-10-2014"2014ANA.EVA.regular.comment.csv",39
+
+"ANA201407090",3,"replay,1,tolls001,TOR,gormb901,ANA01,,N,U,,P $when Jose Reyes was called out at HP, crew chief Brian Gorman requested a review; the call was upheld by replay, saying the catcher did not block HP and the runner was out"2014ANA.EVA.regular.comment.csv",40
+
+"ANA201407090",23,"replay,3,cabrm002,TOR,gormb901,ANA01,,Y,M,ANA,C $when Melky Cabrera was called safe at 1B, Angels manager Mike Scioscia challenged the ruling; the call was overturned by replay"2014ANA.EVA.regular.comment.csv",41
+
+"ANA201407090",29,"replay,3,pujoa001,ANA,gormb901,ANA01,,N,U,,P $when Mike Trout was called out at HP, crew chief Brian Gorman requested a review; the call was upheld by replay saying that the catcher did not block HP and the runner was out"2014ANA.EVA.regular.comment.csv",42
+
+"ANA201407090",73,"replay,7,troum001,ANA,gormb901,ANA01,,N,M,TOR,C $when Mike Trout was called safe at 1B, Blue Jays manager John Gibbons challenged the ruling; the call was upheld by replay"2014ANA.EVA.regular.comment.csv",43
+
+"ANA201407180",71,"Angels shortstop Erick Aybar left the game due to an injured groin"2014ANA.EVA.regular.comment.csv",44
+
+"ANA201407180",75,"replay,10,canor001,SEA,barrt901,ANA01,,Y,M,ANA,A $when RObinson Cano was called safe at 2B, Angels manager Mike Scioscia challenged the ruling; the call was overturned by replay because Cano came off the bag during his popup slide"2014ANA.EVA.regular.comment.csv",45
+
+"ANA201407180",122,"replay,16,troum001,ANA,barrt901,ANA01,,N,M,SEA,B $the Mariners appealed at 1B that Mike Trout missed the bag; when Trout was called safe, Mariners manager Lloyd McClendon challenged the ruling; the call was upheld by replay"2014ANA.EVA.regular.comment.csv",46
+
+"ANA201407250",21,"Angels left fielder Josh Hamilton left the game due to an injured knee"2014ANA.EVA.regular.comment.csv",47
+
+"ANA201407260",20,"replay,3,jacka001,DET,joycj901,ANA01,,Y,M,ANA,A ej,ausmb001,M,joycj901,Replay ruling $when Eugenio Suarez was called safe at 1B, Angels manager Mike Scioscia challenged the ruling; the call was overturned by replay; Tigers manager Brad Ausmus ejected by 1B umpire Jim Joyce; Ausmus said that Scioscia took too long to come onto the field to request the review since his pitcher was already back on the mound; Joyce told Ausmus that he was allowed to review the play anyway; Ausmus was ejected for arguing the replay when he thought he was not arguing the challenge itself but whether the challenge was allowed"2014ANA.EVA.regular.comment.csv",48
+
+"ANA201407260",39,"$Eugenio Suarez called for interference for running into his own bunt"2014ANA.EVA.regular.comment.csv",49
+
+"ANA201408060",27,"replay,4,turnj001,LAN,reynj901,ANA01,,Y,M,ANA,C $when Andre Ethier was called safe at 2B, Angels manager Mike Scioscia challenged the ruling; the call was overturned by replay"2014ANA.EVA.regular.comment.csv",50
+
+"ANA201408070",46,"replay,6,cowgc001,ANA,reynj901,ANA01,,Y,M,LAN,C $when Collin Cowgill was called safe at 1B, Dodgers manager Don Mattingly challenged the ruling; the call was overturned by replay"2014ANA.EVA.regular.comment.csv",51
+
+"ANA201408070",67,"ej,kempm001,P,knigb901,Check swing $ Kemp ejected by HP umpire Knight for arguing check swing strike 3"2014ANA.EVA.regular.comment.csv",52
+
+"ANA201408070",70,"replay,8,aybae001,ANA,reynj901,ANA01,,N,M,ANA,C $when Erick Aybar was called out at 1B, Angels manager Mike Scioscia challenged the ruling; the call was upheld by replay"2014ANA.EVA.regular.comment.csv",53
+
+"ANA201408090",101,"$the Angels infield was shifted to right for David Ortiz"2014ANA.EVA.regular.comment.csv",54
+
+"ANA201408090",103,"$Dustin Pedroia stole 2B with a feet-first slide, popped up and ran to 3B; no one covered third; these two steals are one continuous play"2014ANA.EVA.regular.comment.csv",55
+
+"ANA201408090",146,"replay,19,pujoa001,ANA,scotd901,ANA01,O,N,U,,H $Albert Pujols hit a fly to right center that struck the metal railing over the top of the yellow line and was ruled a home run; crew chief Dale Scott requested a review; the call was upheld by replay"2014ANA.EVA.regular.comment.csv",56
+
+"ANA201408100",59,"ej,napom001,P,buckc901,Called third strike Red Sox designated hitter Mike Napoli ejected by HP umpire CB Bucknor"2014ANA.EVA.regular.comment.csv",57
+
+"ANA201408120",8,"$Erick Aybar called for interference for running in fair territory when he was struck by the throw"2014ANA.EVA.regular.comment.csv",58
+
+"ANA201408250",47,"replay,6,yelic001,MIA,scotd901,ANA01,O,N,U,,H $Christian Yelich's fly to RF struck the yellow line at the top of the wall; crew chief Dale Scott requested a review, which upheld the call of ball in play"2014ANA.EVA.regular.comment.csv",59
+
+"ANA201408280",0,"Protest=V"2014ANA.EVA.regular.comment.csv",60
+
+"ANA201408280",75,"$Erick Aybar hit a bouncer down the 1B line; Dan Otero and Brandon Moss ran together to field the ball, which was fielded by Otero; Aybar ran into Otero on the fair side of the line, obstruction was called on Moss and Aybar awarded 1B; Athletics manager Bob Melvin protested the game; error changed from pitcher to first baseman Moss on 08-29-2014"2014ANA.EVA.regular.comment.csv",61
+
+"ANA201408290",54,"replay,7,sogae001,OAK,davig901,ANA01,,N,M,ANA,C $when Eric Sogard was called safe at 1B, Angels manager Mike Scioscia chalenged the ruling, saying Albert Pujols tagged Sogard on the head on the wild throw; the call was upheld by replay"2014ANA.EVA.regular.comment.csv",62
+
+"ANA201408310",17,"ej,melvb001,M,davig901,Balls and strikes Athletics Manager Bob Melvin ejected by HP umpire Gerry Davis"2014ANA.EVA.regular.comment.csv",63
+
+"ANA201409120",31,"replay,4,grosr001,HOU,demud901,ANA01,,Y,M,HOU,C $when Robbie Grossman was called out at 1B, Astros acting manager Tom Lawless challenged the ruling; the call was overturned by replay"2014ANA.EVA.regular.comment.csv",64
+
+"ANA201409150",22,"Angels first baseman Albert Pujols left the game due to an injured leg"2014ANA.EVA.regular.comment.csv",65
+
+"ANA201409160",28,"Mariners pitcher Roenis Elias left the game due to an injured elbow"2014ANA.EVA.regular.comment.csv",66
+
+"ANA201409160",35,"replay,5,chave002,SEA,mealj901,ANA01,,Y,M,ANA,C $when Endy Chavez was called safe at 1B, Angels manager Mike Scioscia challenged the ruling; the call was overturned by replay"2014ANA.EVA.regular.comment.csv",67
+
+"ANA201409180",29,"replay,5,morrl001,SEA,mealj901,ANA01,,Y,M,ANA,C $when Logan Morrison was called safe at 1B, Angels manager Mike Scioscia challenged the ruling; the call was overturned by replay"2014ANA.EVA.regular.comment.csv",68
+
+"ANA201409190",67,"replay,7,navae001,ANA,gormb901,ANA01,,N,U,,P $when C.J. Cron was called out at HP, crew chief Brian Gorman requested a review; the call was upheld be replay saying the catcher did not block HP and the runner was out"2014ANA.EVA.regular.comment.csv",69
+
+"ANA201409210",64,"replay,8,pujoa001,ANA,gormb901,ANA01,,Y,M,TEX,C $when Albert Pujols was called safe at 1B, Rangers manager Tim Bogar challenged the ruling; the call was overturned by replay"2014ANA.EVA.regular.comment.csv",70
+

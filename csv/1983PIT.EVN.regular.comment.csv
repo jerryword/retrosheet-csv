@@ -1,57 +1,56 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"PIT198304260",31,"SFN says 4(1)3/GDP"
-"PIT198304301",0,"23-minute rain delay before start of game"
-"PIT198304301",40,"$Steve Garvey rounded 2B too far"
-"PIT198305140",0,"1:31 rain delay before start of game"
-"PIT198305170",65,"SB may be with Trevino at bat"
-"PIT198306140",71,"SB may be with Hebner at bat"
-"PIT198306150",8,"Debut game for Marvell Wynne"
-"PIT198306170",0,"13 minute rain delay before start of game"
-"PIT198306170",48,"854 on Pirate sheet"
-"PIT198306180",27,"See previous note."
-"PIT198306180",53,"2/P on Pirates' sheet"
-"PIT198306180",68,"Pirate sheet has 9"
-"PIT198306190",14,"Pirates sheet says last play S7"
-"PIT198306190",26,"Pirates sheet said 46 force"
-"PIT198306190",51,"Pirate sheet says S7"
-"PIT198307041",0,"43 minute rain delay before start of game"
-"PIT198307191",0,"34 minute rain delay before start of game"
-"PIT198307210",27,"30 minute rain delay in the top of the fourth"
-"PIT198307230",1,"Debut game for Jose DeLeon"
-"PIT198308050",39,"Rain delay at 8:53pm"
-"PIT198308240",20,"maybe a throw behind Thon that was dropped, allowing him to score"
-"PIT198309090",72,"Debut game for Jeff Stone"
-"PIT198309120",48,"$Andy Van Slyke ran to 3B on Dale Berra's relay throw to HP; Tony Pena threw to 3B where the ball got passed Jim Morrison; Morrison and Van Slyke were tangled up at the bag; Van Slyke got up and scored what appeared to be the tying run but 3B umpire Randy Marsh ruled that Cardinals 3B coach Chuck Hiller assisted Van Slyke when he touched the runner; Van Slyke was called out due to coach's interference"
-"PIT198309120",75,"Debut game for Jim Adduci"
-"PIT198309130",37,"Debut game for Jeff Doyle"
-"PIT198309130",54,"Debut game for Ralph Citarella"
-"PIT198309150",47,"$Jason Thompson failed to retouch 2B and was out on appeal"
-"PIT198309150",56,"Debut game for Mike Diaz"
-"PIT198304260",31,"SFN says 4(1)3/GDP"
-"PIT198304301",0,"23-minute rain delay before start of game"
-"PIT198304301",40,"$Steve Garvey rounded 2B too far"
-"PIT198305140",0,"1:31 rain delay before start of game"
-"PIT198305170",65,"SB may be with Trevino at bat"
-"PIT198306140",71,"SB may be with Hebner at bat"
-"PIT198306150",8,"Debut game for Marvell Wynne"
-"PIT198306170",0,"13 minute rain delay before start of game"
-"PIT198306170",48,"854 on Pirate sheet"
-"PIT198306180",27,"See previous note."
-"PIT198306180",53,"2/P on Pirates' sheet"
-"PIT198306180",68,"Pirate sheet has 9"
-"PIT198306190",14,"Pirates sheet says last play S7"
-"PIT198306190",26,"Pirates sheet said 46 force"
-"PIT198306190",51,"Pirate sheet says S7"
-"PIT198307041",0,"43 minute rain delay before start of game"
-"PIT198307191",0,"34 minute rain delay before start of game"
-"PIT198307210",27,"30 minute rain delay in the top of the fourth"
-"PIT198307230",1,"Debut game for Jose DeLeon"
-"PIT198308050",39,"Rain delay at 8:53pm"
-"PIT198308240",20,"maybe a throw behind Thon that was dropped, allowing him to score"
-"PIT198309090",72,"Debut game for Jeff Stone"
-"PIT198309120",48,"$Andy Van Slyke ran to 3B on Dale Berra's relay throw to HP; Tony Pena threw to 3B where the ball got passed Jim Morrison; Morrison and Van Slyke were tangled up at the bag; Van Slyke got up and scored what appeared to be the tying run but 3B umpire Randy Marsh ruled that Cardinals 3B coach Chuck Hiller assisted Van Slyke when he touched the runner; Van Slyke was called out due to coach's interference"
-"PIT198309120",75,"Debut game for Jim Adduci"
-"PIT198309130",37,"Debut game for Jeff Doyle"
-"PIT198309130",54,"Debut game for Ralph Citarella"
-"PIT198309150",47,"$Jason Thompson failed to retouch 2B and was out on appeal"
-"PIT198309150",56,"Debut game for Mike Diaz"
+"PIT198304260",31,"SFN says 4(1)3/GDP"FILENAME_TX","LINE_NUMBER_CT"
+
+"PIT198304301",0,"23-minute rain delay before start of game"1983PIT.EVN.regular.comment.csv",2
+
+"PIT198304301",40,"$Steve Garvey rounded 2B too far"1983PIT.EVN.regular.comment.csv",3
+
+"PIT198305140",0,"1:31 rain delay before start of game"1983PIT.EVN.regular.comment.csv",4
+
+"PIT198305170",65,"SB may be with Trevino at bat"1983PIT.EVN.regular.comment.csv",5
+
+"PIT198306140",71,"SB may be with Hebner at bat"1983PIT.EVN.regular.comment.csv",6
+
+"PIT198306150",8,"Debut game for Marvell Wynne"1983PIT.EVN.regular.comment.csv",7
+
+"PIT198306170",0,"13 minute rain delay before start of game"1983PIT.EVN.regular.comment.csv",8
+
+"PIT198306170",48,"854 on Pirate sheet"1983PIT.EVN.regular.comment.csv",9
+
+"PIT198306180",27,"See previous note."1983PIT.EVN.regular.comment.csv",10
+
+"PIT198306180",53,"2/P on Pirates' sheet"1983PIT.EVN.regular.comment.csv",11
+
+"PIT198306180",68,"Pirate sheet has 9"1983PIT.EVN.regular.comment.csv",12
+
+"PIT198306190",14,"Pirates sheet says last play S7"1983PIT.EVN.regular.comment.csv",13
+
+"PIT198306190",26,"Pirates sheet said 46 force"1983PIT.EVN.regular.comment.csv",14
+
+"PIT198306190",51,"Pirate sheet says S7"1983PIT.EVN.regular.comment.csv",15
+
+"PIT198307041",0,"43 minute rain delay before start of game"1983PIT.EVN.regular.comment.csv",16
+
+"PIT198307191",0,"34 minute rain delay before start of game"1983PIT.EVN.regular.comment.csv",17
+
+"PIT198307210",27,"30 minute rain delay in the top of the fourth"1983PIT.EVN.regular.comment.csv",18
+
+"PIT198307230",1,"Debut game for Jose DeLeon"1983PIT.EVN.regular.comment.csv",19
+
+"PIT198308050",39,"Rain delay at 8:53pm"1983PIT.EVN.regular.comment.csv",20
+
+"PIT198308240",20,"maybe a throw behind Thon that was dropped, allowing him to score"1983PIT.EVN.regular.comment.csv",21
+
+"PIT198309090",72,"Debut game for Jeff Stone"1983PIT.EVN.regular.comment.csv",22
+
+"PIT198309120",48,"$Andy Van Slyke ran to 3B on Dale Berra's relay throw to HP; Tony Pena threw to 3B where the ball got passed Jim Morrison; Morrison and Van Slyke were tangled up at the bag; Van Slyke got up and scored what appeared to be the tying run but 3B umpire Randy Marsh ruled that Cardinals 3B coach Chuck Hiller assisted Van Slyke when he touched the runner; Van Slyke was called out due to coach's interference"1983PIT.EVN.regular.comment.csv",23
+
+"PIT198309120",75,"Debut game for Jim Adduci"1983PIT.EVN.regular.comment.csv",24
+
+"PIT198309130",37,"Debut game for Jeff Doyle"1983PIT.EVN.regular.comment.csv",25
+
+"PIT198309130",54,"Debut game for Ralph Citarella"1983PIT.EVN.regular.comment.csv",26
+
+"PIT198309150",47,"$Jason Thompson failed to retouch 2B and was out on appeal"1983PIT.EVN.regular.comment.csv",27
+
+"PIT198309150",56,"Debut game for Mike Diaz"1983PIT.EVN.regular.comment.csv",28
+

@@ -1,35 +1,34 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"PHI199804210",41,"ej,greew001,P,wendh901,Balls and strikes Willie Greene ejected by HP umpire Harry Wendelstedt"
-"PHI199805010",34,"ej,cottc101,C,mealj901,Argued wild pitch was foul ball ej,frant001,M,mealj901,Argued wild pitch was foul ball Phillies manager Terry Francona and coach Chuck Cottier ejected by HP umpire Jerry Meals"
-"PHI199806080",0,"ej,millr801,M,westj901,Second visit to mound in same at bat Orioles manager Ray Miller ejected by HP Umpire Joe West for making a second visit to the mound during the same at bat (sometime in game)"
-"PHI199806130",56,"ej,jeffg001,P,vanol901,Called third strike Gregg Jefferies ejected by HP umpire Larry Vanover"
-"PHI199806140",1,"Debut game for Carlton Loewer"
-"PHI199806160",33,"ej,frant001,M,gibsg901,Called third strike ej,roles001,P,gibsg901,Called third strike Scott Rolen and Phillies manager Terry Francona ejected by HP umpire Greg Gibson"
-"PHI199807290",0,"Debut for umpire Marvin Hudson"
-"PHI199807310",56,"ej,aurir001,P,hirsm901,Called third strike Rich Aurilia ejected by HP umpire Mark Hirschbeck"
-"PHI199808020",65,"ej,bottr001,P,nelsj901,Intentional HBP ej,bondb001,P,nelsj901,Charging mound after HBP $Barry Bonds charged the mound after being hit by a Ricky Bottalico pitch; both players ejected by HP umpire Jeff Nelson"
-"PHI199808020",72,"ej,ariaa001,P,nelsj901,Charging mound after HBP $Alex Arias charged the mound after being hit by a Wayne Gomes pitch; Arias was ejected by HP umpire Jeff Nelson"
-"PHI199808202",59,"Debut game for Ben Ford"
-"PHI199808270",1,"Debut game for Stan Spencer"
-"PHI199809080",62,"Debut game for Mike Kinkade"
-"PHI199809080",74,"Debut game for Marlon Anderson"
-"PHI199809090",30,"ej,valeb102,M,westj901,Called third strike Mets manager Bobby Valentine ejected by HP umpire Joe West"
-"PHI199809110",22,"umpchange,3,ump2b,(None) $2B umpire Reliford left when hit by throw; game finished with 3 umpires"
-"PHI199809190",9,"Debut game for Michael Barrett"
-"PHI199804210",41,"ej,greew001,P,wendh901,Balls and strikes Willie Greene ejected by HP umpire Harry Wendelstedt"
-"PHI199805010",34,"ej,cottc101,C,mealj901,Arguing wild pitch was foul ball ej,frant001,M,mealj901,Arguing wild pitch was foul ball $Phillies manager Francona and coach Cottier ejected by HP umpire Meals for arguing wild pitch bounced and hit bat for a foul"
-"PHI199806080",75,"ej,millr801,M,westj901,Two visits to mound in same at bat ej,benia001,P,westj901,Two visits to mound in same at bat $Orioles manager Miller ejected by HP Umpire West automatically when coach Flanagan stepped off mound and immeidately returned, constituting two visits with same batter at plate; by rule manager is ejected as is pitcher, but pitcher must finish pitching to the current batter"
-"PHI199806130",56,"ej,jeffg001,P,vanol901,Called third strike Gregg Jefferies ejected by HP umpire Larry Vanover"
-"PHI199806140",1,"Debut game for Carlton Loewer"
-"PHI199806160",33,"ej,frant001,M,gibsg901,Called third strike ej,roles001,P,gibsg901,Called third strike Scott Rolen and Phillies manager Terry Francona ejected by HP umpire Greg Gibson"
-"PHI199807290",0,"Debut for umpire Marvin Hudson"
-"PHI199807310",56,"ej,aurir001,P,hirsm901,Called third strike Rich Aurilia ejected by HP umpire Mark Hirschbeck"
-"PHI199808020",65,"ej,bottr001,P,nelsj901,Intentional HBP ej,bondb001,P,nelsj901,Charging mound after HBP $Barry Bonds charged the mound after being hit by a Ricky Bottalico pitch; both players ejected by HP umpire Jeff Nelson"
-"PHI199808020",72,"ej,ariaa001,P,nelsj901,Charging mound after HBP $Alex Arias charged the mound after being hit by a Wayne Gomes pitch; Arias was ejected by HP umpire Jeff Nelson"
-"PHI199808202",59,"Debut game for Ben Ford"
-"PHI199808270",1,"Debut game for Stan Spencer"
-"PHI199809080",62,"Debut game for Mike Kinkade"
-"PHI199809080",74,"Debut game for Marlon Anderson"
-"PHI199809090",30,"ej,valeb102,M,westj901,Called third strike Mets manager Bobby Valentine ejected by HP umpire Joe West"
-"PHI199809110",22,"umpchange,3,ump2b,(None) $2B umpire Reliford left when hit by throw; game finished with 3 umpires"
-"PHI199809190",9,"Debut game for Michael Barrett"
+"PHI199804210",41,"ej,greew001,P,wendh901,Balls and strikes Willie Greene ejected by HP umpire Harry Wendelstedt"FILENAME_TX","LINE_NUMBER_CT"
+
+"PHI199805010",34,"ej,cottc101,C,mealj901,Arguing wild pitch was foul ball ej,frant001,M,mealj901,Arguing wild pitch was foul ball $Phillies manager Francona and coach Cottier ejected by HP umpire Meals for arguing wild pitch bounced and hit bat for a foul"1998PHI.EVN.regular.comment.csv",2
+
+"PHI199806080",75,"ej,millr801,M,westj901,Two visits to mound in same at bat ej,benia001,P,westj901,Two visits to mound in same at bat $Orioles manager Miller ejected by HP Umpire West automatically when coach Flanagan stepped off mound and immeidately returned, constituting two visits with same batter at plate; by rule manager is ejected as is pitcher, but pitcher must finish pitching to the current batter"1998PHI.EVN.regular.comment.csv",3
+
+"PHI199806130",56,"ej,jeffg001,P,vanol901,Called third strike Gregg Jefferies ejected by HP umpire Larry Vanover"1998PHI.EVN.regular.comment.csv",4
+
+"PHI199806140",1,"Debut game for Carlton Loewer"1998PHI.EVN.regular.comment.csv",5
+
+"PHI199806160",33,"ej,frant001,M,gibsg901,Called third strike ej,roles001,P,gibsg901,Called third strike Scott Rolen and Phillies manager Terry Francona ejected by HP umpire Greg Gibson"1998PHI.EVN.regular.comment.csv",6
+
+"PHI199807290",0,"Debut for umpire Marvin Hudson"1998PHI.EVN.regular.comment.csv",7
+
+"PHI199807310",56,"ej,aurir001,P,hirsm901,Called third strike Rich Aurilia ejected by HP umpire Mark Hirschbeck"1998PHI.EVN.regular.comment.csv",8
+
+"PHI199808020",65,"ej,bottr001,P,nelsj901,Intentional HBP ej,bondb001,P,nelsj901,Charging mound after HBP $Barry Bonds charged the mound after being hit by a Ricky Bottalico pitch; both players ejected by HP umpire Jeff Nelson"1998PHI.EVN.regular.comment.csv",9
+
+"PHI199808020",72,"ej,ariaa001,P,nelsj901,Charging mound after HBP $Alex Arias charged the mound after being hit by a Wayne Gomes pitch; Arias was ejected by HP umpire Jeff Nelson"1998PHI.EVN.regular.comment.csv",10
+
+"PHI199808202",59,"Debut game for Ben Ford"1998PHI.EVN.regular.comment.csv",11
+
+"PHI199808270",1,"Debut game for Stan Spencer"1998PHI.EVN.regular.comment.csv",12
+
+"PHI199809080",62,"Debut game for Mike Kinkade"1998PHI.EVN.regular.comment.csv",13
+
+"PHI199809080",74,"Debut game for Marlon Anderson"1998PHI.EVN.regular.comment.csv",14
+
+"PHI199809090",30,"ej,valeb102,M,westj901,Called third strike Mets manager Bobby Valentine ejected by HP umpire Joe West"1998PHI.EVN.regular.comment.csv",15
+
+"PHI199809110",22,"umpchange,3,ump2b,(None) $2B umpire Reliford left when hit by throw; game finished with 3 umpires"1998PHI.EVN.regular.comment.csv",16
+
+"PHI199809190",9,"Debut game for Michael Barrett"1998PHI.EVN.regular.comment.csv",17
+

@@ -1,13 +1,12 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"BAL199610020",0,"37 minute rain delay before start of game"
-"BAL199610020",22,"$Kenny Lofton called for interference for running out of base line"
-"BAL199610020",50,"$Orel Hershiser left with an unspecified injury"
-"CLE199610040",5,"$Bobby Bonilla lost the ball in the sun"
-"CLE199610050",40,"$Charles Nagy ran Brady Anderson back to 2B"
-"CLE199610050",45,"$Pete Incaviglia lost the ball in the shadows"
-"BAL199610020",0,"37 minute rain delay before start of game"
-"BAL199610020",22,"$Kenny Lofton called for interference for running out of base line"
-"BAL199610020",50,"$Orel Hershiser left with an unspecified injury"
-"CLE199610040",5,"$Bobby Bonilla lost the ball in the sun"
-"CLE199610050",40,"$Charles Nagy ran Brady Anderson back to 2B"
-"CLE199610050",45,"$Pete Incaviglia lost the ball in the shadows"
+"BAL199610020",0,"37 minute rain delay before start of game"FILENAME_TX","LINE_NUMBER_CT"
+
+"BAL199610020",22,"$Kenny Lofton called for interference for running out of base line"1996ALD2.EVE.post.comment.csv",2
+
+"BAL199610020",50,"$Orel Hershiser left with an unspecified injury"1996ALD2.EVE.post.comment.csv",3
+
+"CLE199610040",5,"$Bobby Bonilla lost the ball in the sun"1996ALD2.EVE.post.comment.csv",4
+
+"CLE199610050",40,"$Charles Nagy ran Brady Anderson back to 2B"1996ALD2.EVE.post.comment.csv",5
+
+"CLE199610050",45,"$Pete Incaviglia lost the ball in the shadows"1996ALD2.EVE.post.comment.csv",6
+

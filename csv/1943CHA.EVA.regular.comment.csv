@@ -1,35 +1,34 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"CHA194304280",42,"$Tucker beat throw to second on attempted DP, but Appling was still retired at first"
-"CHA194305010",64,"pbp account ends here, rest deduced"
-"CHA194305070",47,"$Higgins dropped ball on CS; Appling would have been out"
-"CHA194305092",44,"$Culler injured hand"
-"CHA194305162",16,"$failed squeeze"
-"CHA194307051",73,"This was Miles last AB in the majors"
-"CHA194307102",44,"$Roy Weatherly knocked down Jimmy Grant, who left the game"
-"CHA194307111",0,"$90 minute rain delay at start of game"
-"CHA194308152",36,"$After one pitch to Johnson, Smith left with pulled back muscle"
-"CHA194308152",58,"$home runs on consecutive pitches"
-"CHA194308152",70,"$Game called for rain due to lightning, rain and darkness, although it cleared up and sun came out a few minutes later"
-"CHA194308160",0,"ej"
-"CHA194308170",14,"ej,dykej101,M,mcgob901,Balls and strikes $Chicago manager Dykes ejected by HP umpire McGowan for arguing balls and strikes"
-"CHA194308170",42,"Moses' throw skipped into White Sox dugout."
-"CHA194308190",15,"$Major League debut for Cass Michaels"
-"CHA194309150",14,"$Moses scored while Appling was being run down"
-"CHA194309180",37,"$Ferrell out trying to advance after Dietrich's overthrow"
-"CHA194304280",42,"$Tucker beat throw to second on attempted DP, but Appling was still retired at first"
-"CHA194305010",64,"pbp account ends here, rest deduced"
-"CHA194305070",47,"$Higgins dropped ball on CS; Appling would have been out"
-"CHA194305092",44,"$Culler injured hand"
-"CHA194305162",16,"$failed squeeze"
-"CHA194307051",73,"This was Miles last AB in the majors"
-"CHA194307102",44,"$Roy Weatherly knocked down Jimmy Grant, who left the game"
-"CHA194307111",0,"$90 minute rain delay at start of game"
-"CHA194308152",36,"$After one pitch to Johnson, Smith left with pulled back muscle"
-"CHA194308152",58,"$home runs on consecutive pitches"
-"CHA194308152",70,"$Game called for rain due to lightning, rain and darkness, although it cleared up and sun came out a few minutes later"
-"CHA194308160",0,"ej,haasm101,C,grieb901,Unknown reason $White Sox coach Haas ejected by HP umpire Grieve sometime in game for unknown reason"
-"CHA194308170",14,"ej,dykej101,M,mcgob901,Balls and strikes $Chicago manager Dykes ejected by HP umpire McGowan for arguing balls and strikes"
-"CHA194308170",42,"Moses' throw skipped into White Sox dugout."
-"CHA194308190",15,"$Major League debut for Cass Michaels"
-"CHA194309150",14,"$Moses scored while Appling was being run down"
-"CHA194309180",37,"$Ferrell out trying to advance after Dietrich's overthrow"
+"CHA194304280",42,"$Tucker beat throw to second on attempted DP, but Appling was still retired at first"FILENAME_TX","LINE_NUMBER_CT"
+
+"CHA194305010",64,"pbp account ends here, rest deduced"1943CHA.EVA.regular.comment.csv",2
+
+"CHA194305070",47,"$Higgins dropped ball on CS; Appling would have been out"1943CHA.EVA.regular.comment.csv",3
+
+"CHA194305092",44,"$Culler injured hand"1943CHA.EVA.regular.comment.csv",4
+
+"CHA194305162",16,"$failed squeeze"1943CHA.EVA.regular.comment.csv",5
+
+"CHA194307051",73,"This was Miles last AB in the majors"1943CHA.EVA.regular.comment.csv",6
+
+"CHA194307102",44,"$Roy Weatherly knocked down Jimmy Grant, who left the game"1943CHA.EVA.regular.comment.csv",7
+
+"CHA194307111",0,"$90 minute rain delay at start of game"1943CHA.EVA.regular.comment.csv",8
+
+"CHA194308152",36,"$After one pitch to Johnson, Smith left with pulled back muscle"1943CHA.EVA.regular.comment.csv",9
+
+"CHA194308152",58,"$home runs on consecutive pitches"1943CHA.EVA.regular.comment.csv",10
+
+"CHA194308152",70,"$Game called for rain due to lightning, rain and darkness, although it cleared up and sun came out a few minutes later"1943CHA.EVA.regular.comment.csv",11
+
+"CHA194308160",0,"ej,haasm101,C,grieb901,Unknown reason $White Sox coach Haas ejected by HP umpire Grieve sometime in game for unknown reason"1943CHA.EVA.regular.comment.csv",12
+
+"CHA194308170",14,"ej,dykej101,M,mcgob901,Balls and strikes $Chicago manager Dykes ejected by HP umpire McGowan for arguing balls and strikes"1943CHA.EVA.regular.comment.csv",13
+
+"CHA194308170",42,"Moses' throw skipped into White Sox dugout."1943CHA.EVA.regular.comment.csv",14
+
+"CHA194308190",15,"$Major League debut for Cass Michaels"1943CHA.EVA.regular.comment.csv",15
+
+"CHA194309150",14,"$Moses scored while Appling was being run down"1943CHA.EVA.regular.comment.csv",16
+
+"CHA194309180",37,"$Ferrell out trying to advance after Dietrich's overthrow"1943CHA.EVA.regular.comment.csv",17
+

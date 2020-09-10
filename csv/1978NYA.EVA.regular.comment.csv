@@ -1,51 +1,50 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"NYA197805020",48,"ej,fowla101,C,hallb901,Bench jockeying $Yankees coach Fowler ejected by 2B umpire Haller for arguing about brushback pitch to Nettles"
-"NYA197805060",4,"$Willie Randolph caught Bump Wills with the hidden ball trick"
-"NYA197805090",48,"30 minute rain delay"
-"NYA197805250",57,"$Willie Randolph rounded 2B too far"
-"NYA197805310",66,"ej,palmj001,P,pales901,Balls and strikes (not in game) Jim Palmer ejected by HP umpire Steve Palermo; he was not in the game"
-"NYA197807021",55,"ej,browg101,C,kaisk901,Fan interference non-call $Tigers coach Brown ejected by 1B umpire Kaiser for fan had interfered and Rivers should not have been allowed to score"
-"NYA197807022",1,"Debut game for Dave Rajsich"
-"NYA197807170",96,"ej,gossr001,P,merrd901,Balls and strikes Rich Gossage ejected by 2B umpire Durwood Merrill"
-"NYA197807290",64,"Debut game for Ron Davis"
-"NYA197808020",0,"Suspend=19780803,,5,5,84"
-"NYA197808020",65,"35 minute rain delay"
-"NYA197808020",101,"17 minute rain delay"
-"NYA197808020",118,"suspended,19780803,NYA16,curfew $at 1:16 AM, game suspended for curfew until the following night"
-"NYA197808030",65,"game callled after 1:29 rain delay at 12:51am"
-"NYA197808050",63,"ej,weave801,M,neudj901,Balls and strikes Orioles Manager Earl Weaver ejected by 2B umpire Jerry Neudecker"
-"NYA197808060",56,"ej,harll101,P,koscg901,Called third strike Larry Harlow ejected by HP umpire Greg Kosc"
-"NYA197808250",0,"$substitute umpires worked due to a one-day strike by the staff umpires; Debut for umpires Richie Lazar, Lester Fuchs and Jim Dunne"
-"NYA197808250",46,"ej,reved101,P,forma901,Balls and strikes Dave Revering ejected by HP umpire Al Forman"
-"NYA197808260",37,"ej,schor101,C,fordd901,Bench jockeying Athletics Coach Red Schoendienst ejected by HP umpire Dale Ford sometime in fifth"
-"NYA197808270",35,"ej,edwam101,P,bremn901,Call at 2B ej,wallj101,P,bremn901,Call at 2B (Left bench) Mike Edwards and Joe Wllis ejected by 2B umpire Nick Bremigan; Wallis left the bench to argue"
-"NYA197809041",54,"Debut game for Dennis Sherrill"
-"NYA197809041",55,"Debut game for Sheldon Burnside"
-"NYA197809041",61,"ej,pinil001,P,malog901,Call at 2B (Threw helmet) $Yankees Piniella ejected by HP umpire Maloney for throwing helmet to protest force call at 2nd"
-"NYA197809042",10,"Debut game for Dave Stegman"
-"NYA197810010",78,"$the Red Sox would defeat Toronto 5-0 a few moments later, thus tying Boston and New York for first place; the two teams played a one-game playoff the next afternoon at Fenway Park"
-"NYA197805020",48,"ej,fowla101,C,hallb901,Bench jockeying $Yankees coach Fowler ejected by 2B umpire Haller for arguing about brushback pitch to Nettles"
-"NYA197805060",4,"$Willie Randolph caught Bump Wills with the hidden ball trick"
-"NYA197805090",48,"30 minute rain delay"
-"NYA197805250",57,"$Willie Randolph rounded 2B too far"
-"NYA197805310",66,"ej,palmj001,P,pales901,Balls and strikes (not in game) Jim Palmer ejected by HP umpire Steve Palermo; he was not in the game"
-"NYA197807021",55,"ej,browg101,C,kaisk901,Fan interference non-call $Tigers coach Brown ejected by 1B umpire Kaiser for fan had interfered and Rivers should not have been allowed to score"
-"NYA197807022",1,"Debut game for Dave Rajsich"
-"NYA197807170",96,"ej,gossr001,P,merrd901,Balls and strikes Rich Gossage ejected by 2B umpire Durwood Merrill"
-"NYA197807290",64,"Debut game for Ron Davis"
-"NYA197808020",0,"Suspend=19780803,,5,5,84"
-"NYA197808020",65,"35 minute rain delay"
-"NYA197808020",101,"17 minute rain delay"
-"NYA197808020",118,"suspended,19780803,NYA16,curfew $at 1:16 AM, game suspended for curfew until the following night"
-"NYA197808030",65,"game callled after 1:29 rain delay at 12:51am"
-"NYA197808050",63,"ej,weave801,M,neudj901,Balls and strikes Orioles Manager Earl Weaver ejected by 2B umpire Jerry Neudecker"
-"NYA197808060",56,"ej,harll101,P,koscg901,Called third strike Larry Harlow ejected by HP umpire Greg Kosc"
-"NYA197808250",0,"$substitute umpires worked due to a one-day strike by the staff umpires; Debut for umpires Richie Lazar, Lester Fuchs and Jim Dunne"
-"NYA197808250",46,"ej,reved101,P,forma901,Balls and strikes Dave Revering ejected by HP umpire Al Forman"
-"NYA197808260",37,"ej,schor101,C,fordd901,Bench jockeying Athletics Coach Red Schoendienst ejected by HP umpire Dale Ford sometime in fifth"
-"NYA197808270",35,"ej,edwam101,P,bremn901,Call at 2B ej,wallj101,P,bremn901,Call at 2B (Left bench) Mike Edwards and Joe Wllis ejected by 2B umpire Nick Bremigan; Wallis left the bench to argue"
-"NYA197809041",54,"Debut game for Dennis Sherrill"
-"NYA197809041",55,"Debut game for Sheldon Burnside"
-"NYA197809041",61,"ej,pinil001,P,malog901,Call at 2B (Threw helmet) $Yankees Piniella ejected by HP umpire Maloney for throwing helmet to protest force call at 2nd"
-"NYA197809042",10,"Debut game for Dave Stegman"
-"NYA197810010",78,"$the Red Sox would defeat Toronto 5-0 a few moments later, thus tying Boston and New York for first place; the two teams played a one-game playoff the next afternoon at Fenway Park"
+"NYA197805020",48,"ej,fowla101,C,hallb901,Bench jockeying $Yankees coach Fowler ejected by 2B umpire Haller for arguing about brushback pitch to Nettles"FILENAME_TX","LINE_NUMBER_CT"
+
+"NYA197805060",4,"$Willie Randolph caught Bump Wills with the hidden ball trick"1978NYA.EVA.regular.comment.csv",2
+
+"NYA197805090",48,"30 minute rain delay"1978NYA.EVA.regular.comment.csv",3
+
+"NYA197805250",57,"$Willie Randolph rounded 2B too far"1978NYA.EVA.regular.comment.csv",4
+
+"NYA197805310",66,"ej,palmj001,P,pales901,Balls and strikes (not in game) Jim Palmer ejected by HP umpire Steve Palermo; he was not in the game"1978NYA.EVA.regular.comment.csv",5
+
+"NYA197807021",55,"ej,browg101,C,kaisk901,Fan interference non-call $Tigers coach Brown ejected by 1B umpire Kaiser for fan had interfered and Rivers should not have been allowed to score"1978NYA.EVA.regular.comment.csv",6
+
+"NYA197807022",1,"Debut game for Dave Rajsich"1978NYA.EVA.regular.comment.csv",7
+
+"NYA197807170",96,"ej,gossr001,P,merrd901,Balls and strikes Rich Gossage ejected by 2B umpire Durwood Merrill"1978NYA.EVA.regular.comment.csv",8
+
+"NYA197807290",64,"Debut game for Ron Davis"1978NYA.EVA.regular.comment.csv",9
+
+"NYA197808020",0,"Suspend=19780803,,5,5,84"1978NYA.EVA.regular.comment.csv",10
+
+"NYA197808020",65,"35 minute rain delay"1978NYA.EVA.regular.comment.csv",11
+
+"NYA197808020",101,"17 minute rain delay"1978NYA.EVA.regular.comment.csv",12
+
+"NYA197808020",118,"suspended,19780803,NYA16,curfew $at 1:16 AM, game suspended for curfew until the following night"1978NYA.EVA.regular.comment.csv",13
+
+"NYA197808030",65,"game callled after 1:29 rain delay at 12:51am"1978NYA.EVA.regular.comment.csv",14
+
+"NYA197808050",63,"ej,weave801,M,neudj901,Balls and strikes Orioles Manager Earl Weaver ejected by 2B umpire Jerry Neudecker"1978NYA.EVA.regular.comment.csv",15
+
+"NYA197808060",56,"ej,harll101,P,koscg901,Called third strike Larry Harlow ejected by HP umpire Greg Kosc"1978NYA.EVA.regular.comment.csv",16
+
+"NYA197808250",0,"$substitute umpires worked due to a one-day strike by the staff umpires; Debut for umpires Richie Lazar, Lester Fuchs and Jim Dunne"1978NYA.EVA.regular.comment.csv",17
+
+"NYA197808250",46,"ej,reved101,P,forma901,Balls and strikes Dave Revering ejected by HP umpire Al Forman"1978NYA.EVA.regular.comment.csv",18
+
+"NYA197808260",37,"ej,schor101,C,fordd901,Bench jockeying Athletics Coach Red Schoendienst ejected by HP umpire Dale Ford sometime in fifth"1978NYA.EVA.regular.comment.csv",19
+
+"NYA197808270",35,"ej,edwam101,P,bremn901,Call at 2B ej,wallj101,P,bremn901,Call at 2B (Left bench) Mike Edwards and Joe Wllis ejected by 2B umpire Nick Bremigan; Wallis left the bench to argue"1978NYA.EVA.regular.comment.csv",20
+
+"NYA197809041",54,"Debut game for Dennis Sherrill"1978NYA.EVA.regular.comment.csv",21
+
+"NYA197809041",55,"Debut game for Sheldon Burnside"1978NYA.EVA.regular.comment.csv",22
+
+"NYA197809041",61,"ej,pinil001,P,malog901,Call at 2B (Threw helmet) $Yankees Piniella ejected by HP umpire Maloney for throwing helmet to protest force call at 2nd"1978NYA.EVA.regular.comment.csv",23
+
+"NYA197809042",10,"Debut game for Dave Stegman"1978NYA.EVA.regular.comment.csv",24
+
+"NYA197810010",78,"$the Red Sox would defeat Toronto 5-0 a few moments later, thus tying Boston and New York for first place; the two teams played a one-game playoff the next afternoon at Fenway Park"1978NYA.EVA.regular.comment.csv",25
+

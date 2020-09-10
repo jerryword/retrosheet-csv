@@ -1,57 +1,56 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"CLE200204110",49,"ej,cresj001,P,younl901,Intentional HBP ej,gardr001,M,younl901,Intentional HBP Jack Cressend and Twins Manager Ron Gardenhire ejected by Young"
-"CLE200204120",54,"originally scored as E5"
-"CLE200204120",66,"Debut game for Nate Field"
-"CLE200204240",85,"originally scored E5"
-"CLE200205290",66,"1:41 rain delay sometime in 8th"
-"CLE200206020",31,"ej,johnm003,P,cuzzp901,Balls and strikes ej,manuj101,M,cuzzp901,Balls and strikes $White Sox Manager Manuel and coach Wallace Johnson ejected by HP umpire Phil Cuzzi in 6th"
-"CLE200206090",59,"Vaughn started to throw to 2nd, then held ball"
-"CLE200207110",0,"$CLE Mgr Charlie Manuel fired; Joel Skinner interim Mgr"
-"CLE200207150",61,"ej,stevl001,P,hudsm901,Called third strike Lee Stevens ejected by HP umpire Marvin Hudson"
-"CLE200207170",40,"ej,huntt001,P,barrt901,Throwing ball at pitcher after HBP $Torii Hunter hit on ribs; he picked up ball and threw it at Danys Baez; Hunter was ejected by HP umpire Ted Barrett"
-"CLE200207230",47,"originaly scored as single, changed next day"
-"CLE200207240",53,"Debut game for Dave Elder"
-"CLE200207240",68,"$infield shifted to right side"
-"CLE200207240",69,"truly 135 as big shift in place"
-"CLE200208060",70,"originally scored E3, changed next day"
-"CLE200208210",1,"Debut game for Ricardo Rodriguez"
-"CLE200208230",22,"Debut game for Josh Bard"
-"CLE200208230",51,"2:10 rain delay"
-"CLE200208250",0,"ej,pricb801,C,welkb901,Balls and strikes Mariners coach Bryan Price ejected by HP umpire Bill Welke in 1st"
-"CLE200208260",11,"originally scored as E4"
-"CLE200208260",76,"ej,rodrr005,P,hirsj901,Intentional HBP Ricardo Rodriguez ejected by HP umpire John Hirschbeck"
-"CLE200209090",23,"Debut game for Jason Davis"
-"CLE200209100",19,"Debut game for Victor Martinez"
-"CLE200209110",44,"Debut game for Scott Wiggins"
-"CLE200209130",59,"Debut game for Jason C. Phillips"
-"CLE200209130",67,"Debut game for Alex Herrera"
-"CLE200209150",1,"Debut game for Cliff Lee"
-"CLE200209150",49,"65 minute rain delay"
-"CLE200204110",49,"ej,cresj001,P,younl901,Intentional HBP ej,gardr001,M,younl901,Intentional HBP Jack Cressend and Twins Manager Ron Gardenhire ejected by Young"
-"CLE200204120",54,"originally scored as E5"
-"CLE200204120",66,"Debut game for Nate Field"
-"CLE200204240",85,"originally scored E5"
-"CLE200205290",66,"1:41 rain delay sometime in 8th"
-"CLE200206020",38,"ej,johnw001,C,cuzzp901,Balls and strikes ej,manuj101,M,cuzzp901,Balls and strikes $White Sox manager Manuel and coach Walalce Johnson ejected by HP umpire Phil Cuzzi for arguing balls and strikes with Lawton at bat"
-"CLE200206090",59,"Vaughn started to throw to 2nd, then held ball"
-"CLE200207110",0,"$CLE Mgr Charlie Manuel fired; Joel Skinner interim Mgr"
-"CLE200207150",61,"ej,stevl001,P,hudsm901,Called third strike Lee Stevens ejected by HP umpire Marvin Hudson"
-"CLE200207170",40,"ej,huntt001,P,barrt901,Throwing ball at pitcher after HBP $Torii Hunter hit on ribs; he picked up ball and threw it at Danys Baez; Hunter was ejected by HP umpire Ted Barrett"
-"CLE200207230",47,"originaly scored as single, changed next day"
-"CLE200207240",53,"Debut game for Dave Elder"
-"CLE200207240",68,"$infield shifted to right side"
-"CLE200207240",69,"truly 135 as big shift in place"
-"CLE200208060",70,"originally scored E3, changed next day"
-"CLE200208210",1,"Debut game for Ricardo Rodriguez"
-"CLE200208230",22,"Debut game for Josh Bard"
-"CLE200208230",51,"2:10 rain delay"
-"CLE200208250",12,"ej,pricb801,C,welkb901,Balls and strikes $Mariners coach Price ejected by HP umpire Welke for arguing balls and strikes while making mound visit"
-"CLE200208260",11,"originally scored as E4"
-"CLE200208260",76,"ej,rodrr005,P,hirsj901,Intentional HBP Ricardo Rodriguez ejected by HP umpire John Hirschbeck"
-"CLE200209090",23,"Debut game for Jason Davis"
-"CLE200209100",19,"Debut game for Victor Martinez"
-"CLE200209110",44,"Debut game for Scott Wiggins"
-"CLE200209130",59,"Debut game for Jason C. Phillips"
-"CLE200209130",67,"Debut game for Alex Herrera"
-"CLE200209150",1,"Debut game for Cliff Lee"
-"CLE200209150",49,"65 minute rain delay"
+"CLE200204110",49,"ej,cresj001,P,younl901,Intentional HBP ej,gardr001,M,younl901,Intentional HBP Jack Cressend and Twins Manager Ron Gardenhire ejected by Young"FILENAME_TX","LINE_NUMBER_CT"
+
+"CLE200204120",54,"originally scored as E5"2002CLE.EVA.regular.comment.csv",2
+
+"CLE200204120",66,"Debut game for Nate Field"2002CLE.EVA.regular.comment.csv",3
+
+"CLE200204240",85,"originally scored E5"2002CLE.EVA.regular.comment.csv",4
+
+"CLE200205290",66,"1:41 rain delay sometime in 8th"2002CLE.EVA.regular.comment.csv",5
+
+"CLE200206020",38,"ej,johnw001,C,cuzzp901,Balls and strikes ej,manuj101,M,cuzzp901,Balls and strikes $White Sox manager Manuel and coach Walalce Johnson ejected by HP umpire Phil Cuzzi for arguing balls and strikes with Lawton at bat"2002CLE.EVA.regular.comment.csv",6
+
+"CLE200206090",59,"Vaughn started to throw to 2nd, then held ball"2002CLE.EVA.regular.comment.csv",7
+
+"CLE200207110",0,"$CLE Mgr Charlie Manuel fired; Joel Skinner interim Mgr"2002CLE.EVA.regular.comment.csv",8
+
+"CLE200207150",61,"ej,stevl001,P,hudsm901,Called third strike Lee Stevens ejected by HP umpire Marvin Hudson"2002CLE.EVA.regular.comment.csv",9
+
+"CLE200207170",40,"ej,huntt001,P,barrt901,Throwing ball at pitcher after HBP $Torii Hunter hit on ribs; he picked up ball and threw it at Danys Baez; Hunter was ejected by HP umpire Ted Barrett"2002CLE.EVA.regular.comment.csv",10
+
+"CLE200207230",47,"originaly scored as single, changed next day"2002CLE.EVA.regular.comment.csv",11
+
+"CLE200207240",53,"Debut game for Dave Elder"2002CLE.EVA.regular.comment.csv",12
+
+"CLE200207240",68,"$infield shifted to right side"2002CLE.EVA.regular.comment.csv",13
+
+"CLE200207240",69,"truly 135 as big shift in place"2002CLE.EVA.regular.comment.csv",14
+
+"CLE200208060",70,"originally scored E3, changed next day"2002CLE.EVA.regular.comment.csv",15
+
+"CLE200208210",1,"Debut game for Ricardo Rodriguez"2002CLE.EVA.regular.comment.csv",16
+
+"CLE200208230",22,"Debut game for Josh Bard"2002CLE.EVA.regular.comment.csv",17
+
+"CLE200208230",51,"2:10 rain delay"2002CLE.EVA.regular.comment.csv",18
+
+"CLE200208250",12,"ej,pricb801,C,welkb901,Balls and strikes $Mariners coach Price ejected by HP umpire Welke for arguing balls and strikes while making mound visit"2002CLE.EVA.regular.comment.csv",19
+
+"CLE200208260",11,"originally scored as E4"2002CLE.EVA.regular.comment.csv",20
+
+"CLE200208260",76,"ej,rodrr005,P,hirsj901,Intentional HBP Ricardo Rodriguez ejected by HP umpire John Hirschbeck"2002CLE.EVA.regular.comment.csv",21
+
+"CLE200209090",23,"Debut game for Jason Davis"2002CLE.EVA.regular.comment.csv",22
+
+"CLE200209100",19,"Debut game for Victor Martinez"2002CLE.EVA.regular.comment.csv",23
+
+"CLE200209110",44,"Debut game for Scott Wiggins"2002CLE.EVA.regular.comment.csv",24
+
+"CLE200209130",59,"Debut game for Jason C. Phillips"2002CLE.EVA.regular.comment.csv",25
+
+"CLE200209130",67,"Debut game for Alex Herrera"2002CLE.EVA.regular.comment.csv",26
+
+"CLE200209150",1,"Debut game for Cliff Lee"2002CLE.EVA.regular.comment.csv",27
+
+"CLE200209150",49,"65 minute rain delay"2002CLE.EVA.regular.comment.csv",28
+

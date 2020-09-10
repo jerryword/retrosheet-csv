@@ -1,63 +1,62 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"ATL201104300",73,"ej,gonzf801,M,hudsm901,Balls and strikes ej,gonza002,P,hudsm901,Balls and strikes Braves shortstop Alex Gonzalez ejected by HP umpire Marvin Hudson for arguing the called third strike; Braves Manager Fredi Gonzalez ejected by Hudson for arguing after the first ejection"
-"ATL201105010",20,"Cardinals second baseman Nick Punto left the game due to an injured leg"
-"ATL201105010",53,"replay,7,uggld001,ATL,mcclt901,ATL02,O,N,I,,H $Dan Uggla's fly to center hit the top of the padding on the wall and bounced back onto the field; the ball was ruled in play but Braves manager Fredi Gonzalez asked about the call, so crew chief Tim McClelland watched the replay and upheld the call"
-"ATL201105100",57,"Braves RF Jayson Heyward left the game with numbness in his right hand"
-"ATL201105130",22,"Braves pitcher Brandon Beachy left the game due to an injured side"
-"ATL201105140",64,"Phillies center fielder Shane Victorino left the game due to an injured leg"
-"ATL201106220",57,"replay,7,conrb001,ATL,westj901,ATL02,O,Y,I,,H $Brooks Conrad's fly to RF hit the top of the padding (on top of the yellow stripe), bounced off the back wall and caromed back onto the field; it was ruled in play; Conrad thought he had a home run and slowed down then ran harder to 3B, where he was tagged out; before Braves manager Fredi Gonzalez could get onto the field, crew chief Joe West called the umpires together briefly and then left to watch the replay; he overturned his own call to a home run, which was Conrad's third PH homer of the season"
-"ATL201106220",58,"$Blue Jays RF Jose Bautista made a leaping catch at the wall, taking a home run away from Jordan Schafer"
-"ATL201107040",25,"Rockies shortstop Troy Tulowitzki left the game due to an injured leg"
-"ATL201107070",20,"Rockies center fielder Charlie Blackmon left the game due to an injured foot"
-"ATL201107170",28,"Nationals pitcher Tom Gorzelanny left the game due to an injured ankle"
-"ATL201107250",0,"2:02 rain delay before start of game"
-"ATL201107250",42,"$Neil Walker hit a pitch-out to protect the runner"
-"ATL201107260",80,"ej,mclon001,P,mealj901,Balls and strikes ej,gonzf801,M,mealj901,Balls and strikes Braves center fielder Nate McLouth and manager Fredi Gonzalez ejected by HP umpire Jerry Meals for arguing about the second strike of the at bat after the strikeout"
-"ATL201107260",86,"Braves catcher Brian McCann left the game due to a left oblique strain which he injured on the stolen base"
-"ATL201107260",167,"$the throw beat Julio Lugo and catcher Michael McHenry swept a tag across the runner but HP umpire Jerry Meals ruled that McHenry missed the tag; McHenry talked to Meals and Pirates manager Clint Hurdle ran out to yell at Meals; Hurdle walked bacwards to the dugout, continuing to yell at Meals and the other umpires"
-"ATL201108120",11,"$32-game hit streak for Dan Uggla, a new Braves record"
-"ATL201108120",26,"$1000th extra-base hit for Chipper Jones"
-"ATL201108120",42,"ej,zambc001,P,timmt901,Throwing at Chipper Jones $Cubs pitcher Carlos Zambrano threw consecutive pitches to Chipper Jones inside; Zambrano's last pitch was a fast ball at Jones'thighs, which hit the backstop; HP umpire Tim Timmons immediately came out of his crouch and ejected Zambrano; Braves players came out of the dugout but Timmons yelled for them to go back; Zambrano had surrendered five homers in the game; when the game was over, he had cleaned out his locker and left, saying he was retiring"
-"ATL201108130",9,"33-game hit streak for Dan Uggla"
-"ATL201108150",6,"Giants third baseman Pablo Sandoval left the game due to an injured foot"
-"ATL201108160",19,"Giants pitcher Jonathan Sanchez left the game due to an injured ankle"
-"ATL201108170",37,"$Giants catcher Eli Whiteside slide head-first into 2B and his face hit the ground; he was a little dazed but remained in the game"
-"ATL201108170",57,"Giants catcher Eli Whiteside left the game due to dizziness, the result of a hard slide into 2B in the fourth inning; he had a little blurry vision"
-"ATL201108180",20,"$Braves 1B Freddie Freeman dove over the tarp and reached into the seats to catch Pablo Sandoval's popup; Freeman had to reach in among the fans who were trying to catch the ball"
-"ATL201108300",28,"$Danny Espinosa was called out on appeal for leaving 1B too soon"
-"ATL201108310",13,"$Chipper Jones' 450th home run"
-"ATL201109010",12,"$Nationals right fielder Laynce Nix strained his groin rounding 2B"
-"ATL201109010",22,"Nationals right fielder Laynce Nix left the game due to an injured groin"
-"ATL201109160",44,"$Mets LF Jason Bay caught the ball over the top of the wall, taking a home run away from Alex Gonzalez"
-"ATL201109270",13,"Braves shortstop Alex Gonzalez left the game due to an injured leg"
-"ATL201104300",73,"ej,gonzf801,M,hudsm901,Balls and strikes ej,gonza002,P,hudsm901,Balls and strikes Braves shortstop Alex Gonzalez ejected by HP umpire Marvin Hudson for arguing the called third strike; Braves Manager Fredi Gonzalez ejected by Hudson for arguing after the first ejection"
-"ATL201105010",20,"Cardinals second baseman Nick Punto left the game due to an injured leg"
-"ATL201105010",53,"replay,7,uggld001,ATL,mcclt901,ATL02,O,N,I,,H $Dan Uggla's fly to center hit the top of the padding on the wall and bounced back onto the field; the ball was ruled in play but Braves manager Fredi Gonzalez asked about the call, so crew chief Tim McClelland watched the replay and upheld the call"
-"ATL201105100",57,"Braves RF Jayson Heyward left the game with numbness in his right hand"
-"ATL201105130",22,"Braves pitcher Brandon Beachy left the game due to an injured side"
-"ATL201105140",64,"Phillies center fielder Shane Victorino left the game due to an injured leg"
-"ATL201106220",57,"replay,7,conrb001,ATL,westj901,ATL02,O,Y,I,,H $Brooks Conrad's fly to RF hit the top of the padding (on top of the yellow stripe), bounced off the back wall and caromed back onto the field; it was ruled in play; Conrad thought he had a home run and slowed down then ran harder to 3B, where he was tagged out; before Braves manager Fredi Gonzalez could get onto the field, crew chief Joe West called the umpires together briefly and then left to watch the replay; he overturned his own call to a home run, which was Conrad's third PH homer of the season"
-"ATL201106220",58,"$Blue Jays RF Jose Bautista made a leaping catch at the wall, taking a home run away from Jordan Schafer"
-"ATL201107040",25,"Rockies shortstop Troy Tulowitzki left the game due to an injured leg"
-"ATL201107070",20,"Rockies center fielder Charlie Blackmon left the game due to an injured foot"
-"ATL201107170",28,"Nationals pitcher Tom Gorzelanny left the game due to an injured ankle"
-"ATL201107250",0,"2:02 rain delay before start of game"
-"ATL201107250",42,"$Neil Walker hit a pitch-out to protect the runner"
-"ATL201107260",80,"ej,mclon001,P,mealj901,Balls and strikes ej,gonzf801,M,mealj901,Balls and strikes $McLouth and Braves manager Gonzalez ejected by HP umpire Meals for arguing about the second strike of the at bat"
-"ATL201107260",86,"Braves catcher Brian McCann left the game due to a left oblique strain which he injured on the stolen base"
-"ATL201107260",167,"$the throw beat Julio Lugo and catcher Michael McHenry swept a tag across the runner but HP umpire Jerry Meals ruled that McHenry missed the tag; McHenry talked to Meals and Pirates manager Clint Hurdle ran out to yell at Meals; Hurdle walked bacwards to the dugout, continuing to yell at Meals and the other umpires"
-"ATL201108120",11,"$32-game hit streak for Dan Uggla, a new Braves record"
-"ATL201108120",26,"$1000th extra-base hit for Chipper Jones"
-"ATL201108120",42,"ej,zambc001,P,timmt901,Throwing at Chipper Jones $Cubs pitcher Carlos Zambrano threw consecutive pitches to Chipper Jones inside; Zambrano's last pitch was a fast ball at Jones'thighs, which hit the backstop; HP umpire Tim Timmons immediately came out of his crouch and ejected Zambrano; Braves players came out of the dugout but Timmons yelled for them to go back; Zambrano had surrendered five homers in the game; when the game was over, he had cleaned out his locker and left, saying he was retiring"
-"ATL201108130",9,"33-game hit streak for Dan Uggla"
-"ATL201108150",6,"Giants third baseman Pablo Sandoval left the game due to an injured foot"
-"ATL201108160",19,"Giants pitcher Jonathan Sanchez left the game due to an injured ankle"
-"ATL201108170",37,"$Giants catcher Eli Whiteside slide head-first into 2B and his face hit the ground; he was a little dazed but remained in the game"
-"ATL201108170",57,"Giants catcher Eli Whiteside left the game due to dizziness, the result of a hard slide into 2B in the fourth inning; he had a little blurry vision"
-"ATL201108180",20,"$Braves 1B Freddie Freeman dove over the tarp and reached into the seats to catch Pablo Sandoval's popup; Freeman had to reach in among the fans who were trying to catch the ball"
-"ATL201108300",28,"$Danny Espinosa was called out on appeal for leaving 1B too soon"
-"ATL201108310",13,"$Chipper Jones' 450th home run"
-"ATL201109010",12,"$Nationals right fielder Laynce Nix strained his groin rounding 2B"
-"ATL201109010",22,"Nationals right fielder Laynce Nix left the game due to an injured groin"
-"ATL201109160",44,"$Mets LF Jason Bay caught the ball over the top of the wall, taking a home run away from Alex Gonzalez"
-"ATL201109270",13,"Braves shortstop Alex Gonzalez left the game due to an injured leg"
+"ATL201104300",73,"ej,gonzf801,M,hudsm901,Balls and strikes ej,gonza002,P,hudsm901,Balls and strikes Braves shortstop Alex Gonzalez ejected by HP umpire Marvin Hudson for arguing the called third strike; Braves Manager Fredi Gonzalez ejected by Hudson for arguing after the first ejection"FILENAME_TX","LINE_NUMBER_CT"
+
+"ATL201105010",20,"Cardinals second baseman Nick Punto left the game due to an injured leg"2011ATL.EVN.regular.comment.csv",2
+
+"ATL201105010",53,"replay,7,uggld001,ATL,mcclt901,ATL02,O,N,I,,H $Dan Uggla's fly to center hit the top of the padding on the wall and bounced back onto the field; the ball was ruled in play but Braves manager Fredi Gonzalez asked about the call, so crew chief Tim McClelland watched the replay and upheld the call"2011ATL.EVN.regular.comment.csv",3
+
+"ATL201105100",57,"Braves RF Jayson Heyward left the game with numbness in his right hand"2011ATL.EVN.regular.comment.csv",4
+
+"ATL201105130",22,"Braves pitcher Brandon Beachy left the game due to an injured side"2011ATL.EVN.regular.comment.csv",5
+
+"ATL201105140",64,"Phillies center fielder Shane Victorino left the game due to an injured leg"2011ATL.EVN.regular.comment.csv",6
+
+"ATL201106220",57,"replay,7,conrb001,ATL,westj901,ATL02,O,Y,I,,H $Brooks Conrad's fly to RF hit the top of the padding (on top of the yellow stripe), bounced off the back wall and caromed back onto the field; it was ruled in play; Conrad thought he had a home run and slowed down then ran harder to 3B, where he was tagged out; before Braves manager Fredi Gonzalez could get onto the field, crew chief Joe West called the umpires together briefly and then left to watch the replay; he overturned his own call to a home run, which was Conrad's third PH homer of the season"2011ATL.EVN.regular.comment.csv",7
+
+"ATL201106220",58,"$Blue Jays RF Jose Bautista made a leaping catch at the wall, taking a home run away from Jordan Schafer"2011ATL.EVN.regular.comment.csv",8
+
+"ATL201107040",25,"Rockies shortstop Troy Tulowitzki left the game due to an injured leg"2011ATL.EVN.regular.comment.csv",9
+
+"ATL201107070",20,"Rockies center fielder Charlie Blackmon left the game due to an injured foot"2011ATL.EVN.regular.comment.csv",10
+
+"ATL201107170",28,"Nationals pitcher Tom Gorzelanny left the game due to an injured ankle"2011ATL.EVN.regular.comment.csv",11
+
+"ATL201107250",0,"2:02 rain delay before start of game"2011ATL.EVN.regular.comment.csv",12
+
+"ATL201107250",42,"$Neil Walker hit a pitch-out to protect the runner"2011ATL.EVN.regular.comment.csv",13
+
+"ATL201107260",80,"ej,mclon001,P,mealj901,Balls and strikes ej,gonzf801,M,mealj901,Balls and strikes $McLouth and Braves manager Gonzalez ejected by HP umpire Meals for arguing about the second strike of the at bat"2011ATL.EVN.regular.comment.csv",14
+
+"ATL201107260",86,"Braves catcher Brian McCann left the game due to a left oblique strain which he injured on the stolen base"2011ATL.EVN.regular.comment.csv",15
+
+"ATL201107260",167,"$the throw beat Julio Lugo and catcher Michael McHenry swept a tag across the runner but HP umpire Jerry Meals ruled that McHenry missed the tag; McHenry talked to Meals and Pirates manager Clint Hurdle ran out to yell at Meals; Hurdle walked bacwards to the dugout, continuing to yell at Meals and the other umpires"2011ATL.EVN.regular.comment.csv",16
+
+"ATL201108120",11,"$32-game hit streak for Dan Uggla, a new Braves record"2011ATL.EVN.regular.comment.csv",17
+
+"ATL201108120",26,"$1000th extra-base hit for Chipper Jones"2011ATL.EVN.regular.comment.csv",18
+
+"ATL201108120",42,"ej,zambc001,P,timmt901,Throwing at Chipper Jones $Cubs pitcher Carlos Zambrano threw consecutive pitches to Chipper Jones inside; Zambrano's last pitch was a fast ball at Jones'thighs, which hit the backstop; HP umpire Tim Timmons immediately came out of his crouch and ejected Zambrano; Braves players came out of the dugout but Timmons yelled for them to go back; Zambrano had surrendered five homers in the game; when the game was over, he had cleaned out his locker and left, saying he was retiring"2011ATL.EVN.regular.comment.csv",19
+
+"ATL201108130",9,"33-game hit streak for Dan Uggla"2011ATL.EVN.regular.comment.csv",20
+
+"ATL201108150",6,"Giants third baseman Pablo Sandoval left the game due to an injured foot"2011ATL.EVN.regular.comment.csv",21
+
+"ATL201108160",19,"Giants pitcher Jonathan Sanchez left the game due to an injured ankle"2011ATL.EVN.regular.comment.csv",22
+
+"ATL201108170",37,"$Giants catcher Eli Whiteside slide head-first into 2B and his face hit the ground; he was a little dazed but remained in the game"2011ATL.EVN.regular.comment.csv",23
+
+"ATL201108170",57,"Giants catcher Eli Whiteside left the game due to dizziness, the result of a hard slide into 2B in the fourth inning; he had a little blurry vision"2011ATL.EVN.regular.comment.csv",24
+
+"ATL201108180",20,"$Braves 1B Freddie Freeman dove over the tarp and reached into the seats to catch Pablo Sandoval's popup; Freeman had to reach in among the fans who were trying to catch the ball"2011ATL.EVN.regular.comment.csv",25
+
+"ATL201108300",28,"$Danny Espinosa was called out on appeal for leaving 1B too soon"2011ATL.EVN.regular.comment.csv",26
+
+"ATL201108310",13,"$Chipper Jones' 450th home run"2011ATL.EVN.regular.comment.csv",27
+
+"ATL201109010",12,"$Nationals right fielder Laynce Nix strained his groin rounding 2B"2011ATL.EVN.regular.comment.csv",28
+
+"ATL201109010",22,"Nationals right fielder Laynce Nix left the game due to an injured groin"2011ATL.EVN.regular.comment.csv",29
+
+"ATL201109160",44,"$Mets LF Jason Bay caught the ball over the top of the wall, taking a home run away from Alex Gonzalez"2011ATL.EVN.regular.comment.csv",30
+
+"ATL201109270",13,"Braves shortstop Alex Gonzalez left the game due to an injured leg"2011ATL.EVN.regular.comment.csv",31
+

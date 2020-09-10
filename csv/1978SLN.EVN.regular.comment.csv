@@ -1,63 +1,62 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"SLN197804100",14,"Debut game for Don Robinson"
-"SLN197804170",15,"58 minute rain delay (later in game additional 22 & 60 minute delays)"
-"SLN197804290",0,"$Ken Boyer new Cardinals manager"
-"SLN197804300",20,"$HP umpire Eric Gregg called interference on himself when he bumped catcher Ted Simmons as he threw on a steal attempt; both runners were sent back to their bases"
-"SLN197805010",70,"ej,madlb001,P,willc901,Called third strike Bill Madlock ejected by HP umpire Charlie Williams"
-"SLN197805030",23,"27 minute rain delay"
-"SLN197805030",29,"32 minute rain delay"
-"SLN197805250",47,"Debut game for George Frazier"
-"SLN197805260",43,"$suicide squeeze"
-"SLN197805270",38,"$Jerry Mumphrey called for interference at 2B"
-"SLN197805270",67,"ej,simmt001,P,rungp901,Balls and strikes (Tipped cap at umpire after HR) Ted Simmons ejected by HP umpire Paul Runge; they had been arguing about balls and strikes; Simmons tipped his cap at Runge while crossing the plate after his home run"
-"SLN197805280",35,"$Greg Gross lined the ball off John Denny's forehead into foul ground"
-"SLN197805280",43,"called for rain"
-"SLN197806250",38,"$Warren Cromartie called for interference for running out of base line"
-"SLN197807080",60,"Debut game for Steve Nicosia"
-"SLN197807140",48,"ej,suttd001,P,harvd901,Throwing a scuffed ball $Mike Tyson flied to RF but 2B umpire Doug Harvey ruled Don Sutton threw a defaced ball; Sutton ejected from his potential 200th win by Harvey"
-"SLN197807162",10,"ej,philm101,P,crawj901,Call at 2B Mike Phillips ejected by 2B umpire Jerry Crawford"
-"SLN197807162",38,"$Mike Ivie hurt"
-"SLN197808060",0,"Protest=P"
-"SLN197808060",40,"$Game played under protest"
-"SLN197808081",30,"$Mike Schmidt's double lost in sun"
-"SLN197808160",26,"$Bob Watson pulled hamstring, limped from 3B, collapsed on the plate and removed on a stretcher"
-"SLN197808160",64,"ej,simmt001,P,quicj901,Balls and strikes $Catcher Simmons ejected by HP umpire Quick for arguing ball 4 to Walling"
-"SLN197808180",66,"Debut game for Bruce Benedict"
-"SLN197808190",69,"$missed squeeze"
-"SLN197808310",69,"umpchange,9,umphome,pryop901 umpchange,9,ump2b,(None) $HP umpire Davidson left when splinters from a broken bat hit him in eye; 2B umpire Pryor moved behind the plate and the game was finished with 3 umpires"
-"SLN197809030",69,"Debut game for Jim Lentine"
-"SLN197809041",57,"Debut game for Mike Ramsey"
-"SLN197809042",68,"Debut game for Dan O'Brien"
-"SLN197809042",79,"Debut game for Terry Kennedy"
-"SLN197809042",84,"Debut game for Todd Cruz"
-"SLN197804100",14,"Debut game for Don Robinson"
-"SLN197804170",15,"58 minute rain delay (later in game additional 22 & 60 minute delays)"
-"SLN197804290",0,"$Ken Boyer new Cardinals manager"
-"SLN197804300",20,"$HP umpire Eric Gregg called interference on himself when he bumped catcher Ted Simmons as he threw on a steal attempt; both runners were sent back to their bases"
-"SLN197805010",70,"ej,madlb001,P,willc901,Called third strike Bill Madlock ejected by HP umpire Charlie Williams"
-"SLN197805030",23,"27 minute rain delay"
-"SLN197805030",29,"32 minute rain delay"
-"SLN197805250",47,"Debut game for George Frazier"
-"SLN197805260",43,"$suicide squeeze"
-"SLN197805270",38,"$Jerry Mumphrey called for interference at 2B"
-"SLN197805270",67,"ej,simmt001,P,rungp901,Balls and strikes (Tipped cap at umpire after HR) Ted Simmons ejected by HP umpire Paul Runge; they had been arguing about balls and strikes; Simmons tipped his cap at Runge while crossing the plate after his home run"
-"SLN197805280",35,"$Greg Gross lined the ball off John Denny's forehead into foul ground"
-"SLN197805280",43,"called for rain"
-"SLN197806250",38,"$Warren Cromartie called for interference for running out of base line"
-"SLN197807080",60,"Debut game for Steve Nicosia"
-"SLN197807140",48,"ej,suttd001,P,harvd901,Throwing a scuffed ball $Mike Tyson flied to RF but 2B umpire Doug Harvey ruled Don Sutton threw a defaced ball; Sutton ejected from his potential 200th win by Harvey"
-"SLN197807162",10,"ej,philm101,P,crawj901,Call at 2B Mike Phillips ejected by 2B umpire Jerry Crawford"
-"SLN197807162",38,"$Mike Ivie hurt"
-"SLN197808060",0,"Protest=P"
-"SLN197808060",40,"$Game played under protest"
-"SLN197808081",30,"$Mike Schmidt's double lost in sun"
-"SLN197808160",26,"$Bob Watson pulled hamstring, limped from 3B, collapsed on the plate and removed on a stretcher"
-"SLN197808160",64,"ej,simmt001,P,quicj901,Balls and strikes $Catcher Simmons ejected by HP umpire Quick for arguing ball 4 to Walling"
-"SLN197808180",66,"Debut game for Bruce Benedict"
-"SLN197808190",69,"$missed squeeze"
-"SLN197808310",69,"umpchange,9,umphome,pryop901 umpchange,9,ump2b,(None) $HP umpire Davidson left when splinters from a broken bat hit him in eye; 2B umpire Pryor moved behind the plate and the game was finished with 3 umpires"
-"SLN197809030",69,"Debut game for Jim Lentine"
-"SLN197809041",57,"Debut game for Mike Ramsey"
-"SLN197809042",68,"Debut game for Dan O'Brien"
-"SLN197809042",79,"Debut game for Terry Kennedy"
-"SLN197809042",84,"Debut game for Todd Cruz"
+"SLN197804100",14,"Debut game for Don Robinson"FILENAME_TX","LINE_NUMBER_CT"
+
+"SLN197804170",15,"58 minute rain delay (later in game additional 22 & 60 minute delays)"1978SLN.EVN.regular.comment.csv",2
+
+"SLN197804290",0,"$Ken Boyer new Cardinals manager"1978SLN.EVN.regular.comment.csv",3
+
+"SLN197804300",20,"$HP umpire Eric Gregg called interference on himself when he bumped catcher Ted Simmons as he threw on a steal attempt; both runners were sent back to their bases"1978SLN.EVN.regular.comment.csv",4
+
+"SLN197805010",70,"ej,madlb001,P,willc901,Called third strike Bill Madlock ejected by HP umpire Charlie Williams"1978SLN.EVN.regular.comment.csv",5
+
+"SLN197805030",23,"27 minute rain delay"1978SLN.EVN.regular.comment.csv",6
+
+"SLN197805030",29,"32 minute rain delay"1978SLN.EVN.regular.comment.csv",7
+
+"SLN197805250",47,"Debut game for George Frazier"1978SLN.EVN.regular.comment.csv",8
+
+"SLN197805260",43,"$suicide squeeze"1978SLN.EVN.regular.comment.csv",9
+
+"SLN197805270",38,"$Jerry Mumphrey called for interference at 2B"1978SLN.EVN.regular.comment.csv",10
+
+"SLN197805270",67,"ej,simmt001,P,rungp901,Balls and strikes (Tipped cap at umpire after HR) Ted Simmons ejected by HP umpire Paul Runge; they had been arguing about balls and strikes; Simmons tipped his cap at Runge while crossing the plate after his home run"1978SLN.EVN.regular.comment.csv",11
+
+"SLN197805280",35,"$Greg Gross lined the ball off John Denny's forehead into foul ground"1978SLN.EVN.regular.comment.csv",12
+
+"SLN197805280",43,"called for rain"1978SLN.EVN.regular.comment.csv",13
+
+"SLN197806250",38,"$Warren Cromartie called for interference for running out of base line"1978SLN.EVN.regular.comment.csv",14
+
+"SLN197807080",60,"Debut game for Steve Nicosia"1978SLN.EVN.regular.comment.csv",15
+
+"SLN197807140",48,"ej,suttd001,P,harvd901,Throwing a scuffed ball $Mike Tyson flied to RF but 2B umpire Doug Harvey ruled Don Sutton threw a defaced ball; Sutton ejected from his potential 200th win by Harvey"1978SLN.EVN.regular.comment.csv",16
+
+"SLN197807162",10,"ej,philm101,P,crawj901,Call at 2B Mike Phillips ejected by 2B umpire Jerry Crawford"1978SLN.EVN.regular.comment.csv",17
+
+"SLN197807162",38,"$Mike Ivie hurt"1978SLN.EVN.regular.comment.csv",18
+
+"SLN197808060",0,"Protest=P"1978SLN.EVN.regular.comment.csv",19
+
+"SLN197808060",40,"$Game played under protest"1978SLN.EVN.regular.comment.csv",20
+
+"SLN197808081",30,"$Mike Schmidt's double lost in sun"1978SLN.EVN.regular.comment.csv",21
+
+"SLN197808160",26,"$Bob Watson pulled hamstring, limped from 3B, collapsed on the plate and removed on a stretcher"1978SLN.EVN.regular.comment.csv",22
+
+"SLN197808160",64,"ej,simmt001,P,quicj901,Balls and strikes $Catcher Simmons ejected by HP umpire Quick for arguing ball 4 to Walling"1978SLN.EVN.regular.comment.csv",23
+
+"SLN197808180",66,"Debut game for Bruce Benedict"1978SLN.EVN.regular.comment.csv",24
+
+"SLN197808190",69,"$missed squeeze"1978SLN.EVN.regular.comment.csv",25
+
+"SLN197808310",69,"umpchange,9,umphome,pryop901 umpchange,9,ump2b,(None) $HP umpire Davidson left when splinters from a broken bat hit him in eye; 2B umpire Pryor moved behind the plate and the game was finished with 3 umpires"1978SLN.EVN.regular.comment.csv",26
+
+"SLN197809030",69,"Debut game for Jim Lentine"1978SLN.EVN.regular.comment.csv",27
+
+"SLN197809041",57,"Debut game for Mike Ramsey"1978SLN.EVN.regular.comment.csv",28
+
+"SLN197809042",68,"Debut game for Dan O'Brien"1978SLN.EVN.regular.comment.csv",29
+
+"SLN197809042",79,"Debut game for Terry Kennedy"1978SLN.EVN.regular.comment.csv",30
+
+"SLN197809042",84,"Debut game for Todd Cruz"1978SLN.EVN.regular.comment.csv",31
+

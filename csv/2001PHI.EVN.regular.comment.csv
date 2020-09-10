@@ -1,101 +1,100 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"PHI200104060",70,"Debut game for Jason Michaels"
-"PHI200104080",54,"ej,youne001,P,coope901,Balls and strikes Eric Young ejected by HP umpire Eric Cooper"
-"PHI200104090",50,"1:28 rain delay"
-"PHI200104210",45,"$Jones' throw hit Anderson in shoulder"
-"PHI200104220",19,"$great block by Lieberthal to keep Furcal away from the plate"
-"PHI200105150",23,"Debut game for Johnny Estrada"
-"PHI200105180",48,"Abreu hurt ankle, limped through rundown"
-"PHI200105231",5,"$hit screen on pole"
-"PHI200105240",25,"$great scoop and toss in one motion"
-"PHI200105272",0,"$Note that one umpire changed for the 2nd game"
-"PHI200105272",9,"$Bradley popped bunt over mound, did not run, pitcher made play unassisted"
-"PHI200106050",40,"$off Burrell's glove, should have been caught"
-"PHI200106050",66,"$pitcher took high bouncer to bag on his own"
-"PHI200106050",74,"$1B umpire Demuth made the call at the plate"
-"PHI200106060",32,"$Relaford threw ball away trying for DP"
-"PHI200106160",0,"1:06 rain delay sometime in the first inning"
-"PHI200106160",42,"38 minute rain delay"
-"PHI200106160",56,"$Brock dropped throw at bag"
-"PHI200106160",57,"$Abreu lost ball in lights, could have been E9"
-"PHI200106282",58,"$Darensbourg started play with bare handed stop"
-"PHI200107010",15,"Wilson sprained ligament in left thumb diving for liner.  Onto 15 day DL on 7-02"
-"PHI200107010",25,"note this AB after thumb injury"
-"PHI200107130",63,"ej,fileb001,P,cedeg901,Intentional HBP ej,martb001,M,cedeg901,Intentional HBP Bob File & Blue Jays Manager Buck Martinez ejected by HP umpire Gary Cederstrom"
-"PHI200107140",53,"ej,bowal001,M,iassd901,Balls and strikes Phillies Manager Larry Bowa ejected by HP umpire Dan Iassogna in 7th"
-"PHI200107160",87,"$about 1 foot short of game-winning homer"
-"PHI200107200",12,"ej,piazm001,P,packs901,Call at 1B Mike Piazza ejected by 1B umpire Scott Packard"
-"PHI200107210",63,"double hit the bag and took high bounce"
-"PHI200107220",41,"$Piazza had stopped at third, but scored while Johnson was in rundown"
-"PHI200108070",1,"Debut game for Brandon Duckworth"
-"PHI200108120",7,"31 minute rain delay in the 2nd"
-"PHI200108210",51,"ej,bowal001,M,iassd901,Call at 2B Phillies Manager Larry Bowa ejected by 2B umpire Dan Iassogna"
-"PHI200108230",7,"1:29 minute rain delay in 2nd"
-"PHI200108250",14,"high off the fence"
-"PHI200108250",56,"$Phillies Manager Larry Bowa argued call"
-"PHI200108250",58,"ej,bowal001,M,millb901,Call at HP Phillies manager Larry Bowa ejected by HP umpire Bill Miller for saying he saw the replay of the call at HP"
-"PHI200108310",69,"no outfield assist. Guerrero stopped, then restarted"
-"PHI200109020",76,"$Anderson kicked ball (never touched glove) to wall"
-"PHI200109030",71,"ej,ordor001,P,randt901,Called third strike Rey Ordonez ejected by HP umpire Tony Randazzo"
-"PHI200109030",82,"$Jose Santiago was mad that he did not get a strike three call and took a swipe at Todd Pratt's throw back to the mound; he didn't catch it and Todd Zeile took off for 3B; Jimmy Rollins made a wild throw trying to get Zeile, who scored"
-"PHI200109170",59,"$throw over 2nd baseman's head down the line"
-"PHI200109170",62,"$wild throw into stands"
-"PHI200109180",78,"Debut game for Wilson Betemit"
-"PHI200109190",41,"ej,cox-b103,M,mealj901,Call at 3B Braves Manager Bobby Cox ejected by 3B umpire Jerry Meals"
-"PHI200109200",8,"ej,cox-b103,M,barrm901,Balls and strikes Braves Manager Bobby Cox ejected by HP umpire Mark Barron arguing strike 2 to Caminiti"
-"PHI200109200",46,"20 minute rain delay"
-"PHI200109200",49,"$Lopez stole 3B when Rolen moved in on the grass"
-"PHI200109220",57,"Castillo safe when Santiago late covering the bag"
-"PHI200109230",73,"ej,andem003,P,welkb901,Called third strike ej,bowal001,M,welkb901,Called third strike Marlon Anderson and Phillies Manager Larry Bowa ejected by HP umpire Bill Welke"
-"PHI200109250",3,"$Rolen came in to field dribbler, 3B left open"
-"PHI200109260",2,"$Gonzalez' first major league hit and only hit of game surrendered by Wolf"
-"PHI200104060",70,"Debut game for Jason Michaels"
-"PHI200104080",54,"ej,youne001,P,coope901,Balls and strikes Eric Young ejected by HP umpire Eric Cooper"
-"PHI200104090",50,"1:28 rain delay"
-"PHI200104210",45,"$Jones' throw hit Anderson in shoulder"
-"PHI200104220",19,"$great block by Lieberthal to keep Furcal away from the plate"
-"PHI200105150",23,"Debut game for Johnny Estrada"
-"PHI200105180",48,"Abreu hurt ankle, limped through rundown"
-"PHI200105231",5,"$hit screen on pole"
-"PHI200105240",25,"$great scoop and toss in one motion"
-"PHI200105272",0,"$Note that one umpire changed for the 2nd game"
-"PHI200105272",9,"$Bradley popped bunt over mound, did not run, pitcher made play unassisted"
-"PHI200106050",40,"$off Burrell's glove, should have been caught"
-"PHI200106050",66,"$pitcher took high bouncer to bag on his own"
-"PHI200106050",74,"$1B umpire Demuth made the call at the plate"
-"PHI200106060",32,"$Relaford threw ball away trying for DP"
-"PHI200106160",0,"1:06 rain delay sometime in the first inning"
-"PHI200106160",42,"38 minute rain delay"
-"PHI200106160",56,"$Brock dropped throw at bag"
-"PHI200106160",57,"$Abreu lost ball in lights, could have been E9"
-"PHI200106282",58,"$Darensbourg started play with bare handed stop"
-"PHI200107010",15,"Wilson sprained ligament in left thumb diving for liner.  Onto 15 day DL on 7-02"
-"PHI200107010",25,"note this AB after thumb injury"
-"PHI200107130",63,"ej,fileb001,P,cedeg901,Intentional HBP ej,martb001,M,cedeg901,Intentional HBP Bob File & Blue Jays Manager Buck Martinez ejected by HP umpire Gary Cederstrom"
-"PHI200107140",62,"ej,bowal001,M,iassd901,Balls and strikes $Phillies manager Bowa ejected by HP umpire Iassogna for arguing balls and strikes while Estrada was at bat"
-"PHI200107160",87,"$about 1 foot short of game-winning homer"
-"PHI200107200",12,"ej,piazm001,P,packs901,Call at 1B Mike Piazza ejected by 1B umpire Scott Packard"
-"PHI200107210",63,"double hit the bag and took high bounce"
-"PHI200107220",41,"$Piazza had stopped at third, but scored while Johnson was in rundown"
-"PHI200108070",1,"Debut game for Brandon Duckworth"
-"PHI200108120",7,"31 minute rain delay in the 2nd"
-"PHI200108210",51,"ej,bowal001,M,iassd901,Call at 2B Phillies Manager Larry Bowa ejected by 2B umpire Dan Iassogna"
-"PHI200108230",7,"1:29 minute rain delay in 2nd"
-"PHI200108250",14,"high off the fence"
-"PHI200108250",56,"$Phillies Manager Larry Bowa argued call"
-"PHI200108250",58,"ej,bowal001,M,millb901,Call at HP Phillies manager Larry Bowa ejected by HP umpire Bill Miller for saying he saw the replay of the call at HP"
-"PHI200108310",69,"no outfield assist. Guerrero stopped, then restarted"
-"PHI200109020",76,"$Anderson kicked ball (never touched glove) to wall"
-"PHI200109030",71,"ej,ordor001,P,randt901,Called third strike Rey Ordonez ejected by HP umpire Tony Randazzo"
-"PHI200109030",82,"$Jose Santiago was mad that he did not get a strike three call and took a swipe at Todd Pratt's throw back to the mound; he didn't catch it and Todd Zeile took off for 3B; Jimmy Rollins made a wild throw trying to get Zeile, who scored"
-"PHI200109170",59,"$throw over 2nd baseman's head down the line"
-"PHI200109170",62,"$wild throw into stands"
-"PHI200109180",78,"Debut game for Wilson Betemit"
-"PHI200109190",41,"ej,cox-b103,M,mealj901,Call at 3B Braves Manager Bobby Cox ejected by 3B umpire Jerry Meals"
-"PHI200109200",8,"ej,cox-b103,M,barrm901,Balls and strikes Braves Manager Bobby Cox ejected by HP umpire Mark Barron arguing strike 2 to Caminiti"
-"PHI200109200",46,"20 minute rain delay"
-"PHI200109200",49,"$Lopez stole 3B when Rolen moved in on the grass"
-"PHI200109220",57,"Castillo safe when Santiago late covering the bag"
-"PHI200109230",73,"ej,andem003,P,welkb901,Called third strike ej,bowal001,M,welkb901,Called third strike Marlon Anderson and Phillies Manager Larry Bowa ejected by HP umpire Bill Welke"
-"PHI200109250",3,"$Rolen came in to field dribbler, 3B left open"
-"PHI200109260",2,"$Gonzalez' first major league hit and only hit of game surrendered by Wolf"
+"PHI200104060",70,"Debut game for Jason Michaels"FILENAME_TX","LINE_NUMBER_CT"
+
+"PHI200104080",54,"ej,youne001,P,coope901,Balls and strikes Eric Young ejected by HP umpire Eric Cooper"2001PHI.EVN.regular.comment.csv",2
+
+"PHI200104090",50,"1:28 rain delay"2001PHI.EVN.regular.comment.csv",3
+
+"PHI200104210",45,"$Jones' throw hit Anderson in shoulder"2001PHI.EVN.regular.comment.csv",4
+
+"PHI200104220",19,"$great block by Lieberthal to keep Furcal away from the plate"2001PHI.EVN.regular.comment.csv",5
+
+"PHI200105150",23,"Debut game for Johnny Estrada"2001PHI.EVN.regular.comment.csv",6
+
+"PHI200105180",48,"Abreu hurt ankle, limped through rundown"2001PHI.EVN.regular.comment.csv",7
+
+"PHI200105231",5,"$hit screen on pole"2001PHI.EVN.regular.comment.csv",8
+
+"PHI200105240",25,"$great scoop and toss in one motion"2001PHI.EVN.regular.comment.csv",9
+
+"PHI200105272",0,"$Note that one umpire changed for the 2nd game"2001PHI.EVN.regular.comment.csv",10
+
+"PHI200105272",9,"$Bradley popped bunt over mound, did not run, pitcher made play unassisted"2001PHI.EVN.regular.comment.csv",11
+
+"PHI200106050",40,"$off Burrell's glove, should have been caught"2001PHI.EVN.regular.comment.csv",12
+
+"PHI200106050",66,"$pitcher took high bouncer to bag on his own"2001PHI.EVN.regular.comment.csv",13
+
+"PHI200106050",74,"$1B umpire Demuth made the call at the plate"2001PHI.EVN.regular.comment.csv",14
+
+"PHI200106060",32,"$Relaford threw ball away trying for DP"2001PHI.EVN.regular.comment.csv",15
+
+"PHI200106160",0,"1:06 rain delay sometime in the first inning"2001PHI.EVN.regular.comment.csv",16
+
+"PHI200106160",42,"38 minute rain delay"2001PHI.EVN.regular.comment.csv",17
+
+"PHI200106160",56,"$Brock dropped throw at bag"2001PHI.EVN.regular.comment.csv",18
+
+"PHI200106160",57,"$Abreu lost ball in lights, could have been E9"2001PHI.EVN.regular.comment.csv",19
+
+"PHI200106282",58,"$Darensbourg started play with bare handed stop"2001PHI.EVN.regular.comment.csv",20
+
+"PHI200107010",15,"Wilson sprained ligament in left thumb diving for liner.  Onto 15 day DL on 7-02"2001PHI.EVN.regular.comment.csv",21
+
+"PHI200107010",25,"note this AB after thumb injury"2001PHI.EVN.regular.comment.csv",22
+
+"PHI200107130",63,"ej,fileb001,P,cedeg901,Intentional HBP ej,martb001,M,cedeg901,Intentional HBP Bob File & Blue Jays Manager Buck Martinez ejected by HP umpire Gary Cederstrom"2001PHI.EVN.regular.comment.csv",23
+
+"PHI200107140",62,"ej,bowal001,M,iassd901,Balls and strikes $Phillies manager Bowa ejected by HP umpire Iassogna for arguing balls and strikes while Estrada was at bat"2001PHI.EVN.regular.comment.csv",24
+
+"PHI200107160",87,"$about 1 foot short of game-winning homer"2001PHI.EVN.regular.comment.csv",25
+
+"PHI200107200",12,"ej,piazm001,P,packs901,Call at 1B Mike Piazza ejected by 1B umpire Scott Packard"2001PHI.EVN.regular.comment.csv",26
+
+"PHI200107210",63,"double hit the bag and took high bounce"2001PHI.EVN.regular.comment.csv",27
+
+"PHI200107220",41,"$Piazza had stopped at third, but scored while Johnson was in rundown"2001PHI.EVN.regular.comment.csv",28
+
+"PHI200108070",1,"Debut game for Brandon Duckworth"2001PHI.EVN.regular.comment.csv",29
+
+"PHI200108120",7,"31 minute rain delay in the 2nd"2001PHI.EVN.regular.comment.csv",30
+
+"PHI200108210",51,"ej,bowal001,M,iassd901,Call at 2B Phillies Manager Larry Bowa ejected by 2B umpire Dan Iassogna"2001PHI.EVN.regular.comment.csv",31
+
+"PHI200108230",7,"1:29 minute rain delay in 2nd"2001PHI.EVN.regular.comment.csv",32
+
+"PHI200108250",14,"high off the fence"2001PHI.EVN.regular.comment.csv",33
+
+"PHI200108250",56,"$Phillies Manager Larry Bowa argued call"2001PHI.EVN.regular.comment.csv",34
+
+"PHI200108250",58,"ej,bowal001,M,millb901,Call at HP Phillies manager Larry Bowa ejected by HP umpire Bill Miller for saying he saw the replay of the call at HP"2001PHI.EVN.regular.comment.csv",35
+
+"PHI200108310",69,"no outfield assist. Guerrero stopped, then restarted"2001PHI.EVN.regular.comment.csv",36
+
+"PHI200109020",76,"$Anderson kicked ball (never touched glove) to wall"2001PHI.EVN.regular.comment.csv",37
+
+"PHI200109030",71,"ej,ordor001,P,randt901,Called third strike Rey Ordonez ejected by HP umpire Tony Randazzo"2001PHI.EVN.regular.comment.csv",38
+
+"PHI200109030",82,"$Jose Santiago was mad that he did not get a strike three call and took a swipe at Todd Pratt's throw back to the mound; he didn't catch it and Todd Zeile took off for 3B; Jimmy Rollins made a wild throw trying to get Zeile, who scored"2001PHI.EVN.regular.comment.csv",39
+
+"PHI200109170",59,"$throw over 2nd baseman's head down the line"2001PHI.EVN.regular.comment.csv",40
+
+"PHI200109170",62,"$wild throw into stands"2001PHI.EVN.regular.comment.csv",41
+
+"PHI200109180",78,"Debut game for Wilson Betemit"2001PHI.EVN.regular.comment.csv",42
+
+"PHI200109190",41,"ej,cox-b103,M,mealj901,Call at 3B Braves Manager Bobby Cox ejected by 3B umpire Jerry Meals"2001PHI.EVN.regular.comment.csv",43
+
+"PHI200109200",8,"ej,cox-b103,M,barrm901,Balls and strikes Braves Manager Bobby Cox ejected by HP umpire Mark Barron arguing strike 2 to Caminiti"2001PHI.EVN.regular.comment.csv",44
+
+"PHI200109200",46,"20 minute rain delay"2001PHI.EVN.regular.comment.csv",45
+
+"PHI200109200",49,"$Lopez stole 3B when Rolen moved in on the grass"2001PHI.EVN.regular.comment.csv",46
+
+"PHI200109220",57,"Castillo safe when Santiago late covering the bag"2001PHI.EVN.regular.comment.csv",47
+
+"PHI200109230",73,"ej,andem003,P,welkb901,Called third strike ej,bowal001,M,welkb901,Called third strike Marlon Anderson and Phillies Manager Larry Bowa ejected by HP umpire Bill Welke"2001PHI.EVN.regular.comment.csv",48
+
+"PHI200109250",3,"$Rolen came in to field dribbler, 3B left open"2001PHI.EVN.regular.comment.csv",49
+
+"PHI200109260",2,"$Gonzalez' first major league hit and only hit of game surrendered by Wolf"2001PHI.EVN.regular.comment.csv",50
+

@@ -1,47 +1,46 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"MIN198904070",76,"Debut game for Gary Wayne"
-"MIN198904080",19,"Leaping catch at wall"
-"MIN198904080",69,"$Al Newman hurt shoulder making diving stop in hole"
-"MIN198905030",29,"Debut game for Francisco Oliveras"
-"MIN198905120",34,"$Gene Larkin rounded 2B too far"
-"MIN198905160",37,"$ball hit speaker and Bill Buckner made diving catch of rebound"
-"MIN198905170",79,"$Wellman played as 5th infielder"
-"MIN198905260",64,"$Al Newman called for interference"
-"MIN198905270",14,"ej,harpb001,P,johnm901,Fighting with Steve Buechele ej,buecs001,P,johnm901,Fighting with Brian Harper $as Steve Buechele crossed the plate, catcher Brian Harper accused Buechele of stealing signs; as a fight started, both benches cleared; the game was delayed 10 minutes; Buechele and Harper ejected by HP umpire Mark Johnson"
-"MIN198906190",89,"ej,trebt801,M,brinj901,Balk Brewers manager Tom Trebelhorn ejected by 1B umpire Joe Brinkman"
-"MIN198906270",81,"Debut game for Greg Olson"
-"MIN198906290",1,"Debut game for Mike Dyer"
-"MIN198907140",13,"ej,violf001,P,hirsj901,Balls and strikes (from bench) Frank Viola ejected by HP umpire John Hirschbeck; he was not in the game"
-"MIN198907150",51,"ej,dwyej001,P,koscg901,Called strike on bunt attempt Jim Dwyer ejected by HP umpire Greg Kosc when the first pitch was called a strike; Dwyer was restrained by Twins manager Tom Kelly"
-"MIN198907150",51,"$Red Sox manager Joe Morgan replaced Joe Price, who had thrown one pitch, with Carmelo Castillo; the umpires ordered Price to remain in the game because he had to finish the plate appearance of the batter (Jim Dwyer) or his substitute"
-"MIN198907180",46,"$ball caromed off the glass"
-"MIN198907180",75,"bogus advancement added by DV because of prev play"
-"MIN198907250",61,"Debut game for Mark Guthrie"
-"MIN198908110",67,"Debut game for Marcus Lawton"
-"MIN198908240",27,"$Ozzie Guillen cut middle finger during warmup throw"
-"MIN198908270",6,"Debut game for Chip Hale"
-"MIN198908290",8,"$Gene Larkin left the game with a strained left shoulder"
-"MIN198909120",48,"$Tony Fernandez left with sore shoulder"
-"MIN198904070",76,"Debut game for Gary Wayne"
-"MIN198904080",19,"Leaping catch at wall"
-"MIN198904080",69,"$Al Newman hurt shoulder making diving stop in hole"
-"MIN198905030",29,"Debut game for Francisco Oliveras"
-"MIN198905120",34,"$Gene Larkin rounded 2B too far"
-"MIN198905160",37,"$ball hit speaker and Bill Buckner made diving catch of rebound"
-"MIN198905170",79,"$Wellman played as 5th infielder"
-"MIN198905260",64,"$Al Newman called for interference"
-"MIN198905270",14,"ej,harpb001,P,johnm901,Fighting with Steve Buechele ej,buecs001,P,johnm901,Fighting with Brian Harper $as Steve Buechele crossed the plate, catcher Brian Harper accused Buechele of stealing signs; as a fight started, both benches cleared; the game was delayed 10 minutes; Buechele and Harper ejected by HP umpire Mark Johnson"
-"MIN198906190",89,"ej,trebt801,M,brinj901,Balk Brewers manager Tom Trebelhorn ejected by 1B umpire Joe Brinkman"
-"MIN198906270",81,"Debut game for Greg Olson"
-"MIN198906290",1,"Debut game for Mike Dyer"
-"MIN198907140",13,"ej,violf001,P,hirsj901,Balls and strikes (from bench) Frank Viola ejected by HP umpire John Hirschbeck; he was not in the game"
-"MIN198907150",51,"ej,dwyej001,P,koscg901,Called strike on bunt attempt Jim Dwyer ejected by HP umpire Greg Kosc when the first pitch was called a strike; Dwyer was restrained by Twins manager Tom Kelly"
-"MIN198907150",51,"$Red Sox manager Joe Morgan replaced Joe Price, who had thrown one pitch, with Carmelo Castillo; the umpires ordered Price to remain in the game because he had to finish the plate appearance of the batter (Jim Dwyer) or his substitute"
-"MIN198907180",46,"$ball caromed off the glass"
-"MIN198907180",75,"bogus advancement added by DV because of prev play"
-"MIN198907250",61,"Debut game for Mark Guthrie"
-"MIN198908110",67,"Debut game for Marcus Lawton"
-"MIN198908240",27,"$Ozzie Guillen cut middle finger during warmup throw"
-"MIN198908270",6,"Debut game for Chip Hale"
-"MIN198908290",8,"$Gene Larkin left the game with a strained left shoulder"
-"MIN198909120",48,"$Tony Fernandez left with sore shoulder"
+"MIN198904070",76,"Debut game for Gary Wayne"FILENAME_TX","LINE_NUMBER_CT"
+
+"MIN198904080",19,"Leaping catch at wall"1989MIN.EVA.regular.comment.csv",2
+
+"MIN198904080",69,"$Al Newman hurt shoulder making diving stop in hole"1989MIN.EVA.regular.comment.csv",3
+
+"MIN198905030",29,"Debut game for Francisco Oliveras"1989MIN.EVA.regular.comment.csv",4
+
+"MIN198905120",34,"$Gene Larkin rounded 2B too far"1989MIN.EVA.regular.comment.csv",5
+
+"MIN198905160",37,"$ball hit speaker and Bill Buckner made diving catch of rebound"1989MIN.EVA.regular.comment.csv",6
+
+"MIN198905170",79,"$Wellman played as 5th infielder"1989MIN.EVA.regular.comment.csv",7
+
+"MIN198905260",64,"$Al Newman called for interference"1989MIN.EVA.regular.comment.csv",8
+
+"MIN198905270",14,"ej,harpb001,P,johnm901,Fighting with Steve Buechele ej,buecs001,P,johnm901,Fighting with Brian Harper $as Steve Buechele crossed the plate, catcher Brian Harper accused Buechele of stealing signs; as a fight started, both benches cleared; the game was delayed 10 minutes; Buechele and Harper ejected by HP umpire Mark Johnson"1989MIN.EVA.regular.comment.csv",9
+
+"MIN198906190",89,"ej,trebt801,M,brinj901,Balk Brewers manager Tom Trebelhorn ejected by 1B umpire Joe Brinkman"1989MIN.EVA.regular.comment.csv",10
+
+"MIN198906270",81,"Debut game for Greg Olson"1989MIN.EVA.regular.comment.csv",11
+
+"MIN198906290",1,"Debut game for Mike Dyer"1989MIN.EVA.regular.comment.csv",12
+
+"MIN198907140",13,"ej,violf001,P,hirsj901,Balls and strikes (from bench) Frank Viola ejected by HP umpire John Hirschbeck; he was not in the game"1989MIN.EVA.regular.comment.csv",13
+
+"MIN198907150",51,"ej,dwyej001,P,koscg901,Called strike on bunt attempt Jim Dwyer ejected by HP umpire Greg Kosc when the first pitch was called a strike; Dwyer was restrained by Twins manager Tom Kelly"1989MIN.EVA.regular.comment.csv",14
+
+"MIN198907150",51,"$Red Sox manager Joe Morgan replaced Joe Price, who had thrown one pitch, with Carmelo Castillo; the umpires ordered Price to remain in the game because he had to finish the plate appearance of the batter (Jim Dwyer) or his substitute"1989MIN.EVA.regular.comment.csv",15
+
+"MIN198907180",46,"$ball caromed off the glass"1989MIN.EVA.regular.comment.csv",16
+
+"MIN198907180",75,"bogus advancement added by DV because of prev play"1989MIN.EVA.regular.comment.csv",17
+
+"MIN198907250",61,"Debut game for Mark Guthrie"1989MIN.EVA.regular.comment.csv",18
+
+"MIN198908110",67,"Debut game for Marcus Lawton"1989MIN.EVA.regular.comment.csv",19
+
+"MIN198908240",27,"$Ozzie Guillen cut middle finger during warmup throw"1989MIN.EVA.regular.comment.csv",20
+
+"MIN198908270",6,"Debut game for Chip Hale"1989MIN.EVA.regular.comment.csv",21
+
+"MIN198908290",8,"$Gene Larkin left the game with a strained left shoulder"1989MIN.EVA.regular.comment.csv",22
+
+"MIN198909120",48,"$Tony Fernandez left with sore shoulder"1989MIN.EVA.regular.comment.csv",23
+

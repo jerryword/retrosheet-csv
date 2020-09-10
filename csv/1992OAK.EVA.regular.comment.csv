@@ -1,58 +1,58 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"OAK199204060",14,"$Harold Baines thought the ball was going to be foul and did not run"
-"OAK199204090",15,"Terry Steinbach left with bruised left wrist"
-"OAK199204210",41,"Don Robinson left with sore left hip"
-"OAK199204220",77,"Debut game for Henry Mercedes"
-"OAK199205060",19,"the throw in from LF got past the cutoff man and Lance Blankenship tried to advance"
-"OAK199205100",67,"ej,farrs001,P,cobld901,Intentional HBP Steve Farr ejected by HP umpire Drew Coble"
-"OAK199205260",45,"Bob Welch left with twisted left knee"
-"OAK199205300",8,"Debut game for Troy Neel"
-"OAK199206020",59,"ej,clarj001,P,joycj901,Balls and strikes Jack Clark ejected by HP umpire Jim Joyce for arguing balls and strikes"
-"OAK199206030",30,"ej,dopsj001,P,craft901,Throwing at Jamie Quirk ej,quirj001,P,craft901,Charging the mound $John Dopson's first pitch to Jamie Quirk was behind the batter; Quirk charged the mound and was tackled by catcher John Flaherty; both benches emptied; both players ejected by HP umpire Terry Craft"
-"OAK199206120",10,"$first hit off Nolan Ryan at Colesium since 4/11/1977"
-"OAK199206120",23,"$Mike Bordick hit on head by 75 mph breaking ball"
-"OAK199206130",5,"Carney Lansford's 2000th hit"
-"OAK199206140",35,"Harold Baines left with sore left knee"
-"OAK199206160",21,"DWS: previous plays continuation, combined here"
-"OAK199207180",73,"Rob Deer carried off field with injured left knee"
-"OAK199208070",27,"ej,cansj001,P,hendt901,Called third strike Jose Canseco ejected by HP umpire Ted Hendry"
-"OAK199208100",12,"Carney Lansford left with slight strain of right hamstring"
-"OAK199208100",43,"Jose Canseco left with a tight lower back"
-"OAK199208120",75,"ej,lamog101,M,koscg901,Call at 2B White Sox manager Gene Lamont ejected by 2B umpire Greg Kosc"
-"OAK199208130",15,"Debut game for Damion Easley"
-"OAK199208150",55,"Debut game for Mike Raczka"
-"OAK199208160",23,"Terry Steinbach left with leg cut after being spiked by Luis Polonia"
-"OAK199209100",49,"Jay Buhner left with turned right ankle"
-"OAK199209150",58,"Debut game for Bernardo Brito"
-"OAK199210010",62,"18 minute light failure delay"
-"OAK199210030",0,"ej,gossr001,P,merrd901,Bench jockeying Rich Gossage ejected by HP umpire Durwood Merrill from the bench sometime in game"
-"OAK199210040",26,"$Rickey Henderson's 2,000th hit"
-"OAK199204060",14,"$Harold Baines thought the ball was going to be foul and did not run"
-"OAK199204090",15,"Terry Steinbach left with bruised left wrist"
-"OAK199204210",41,"Don Robinson left with sore left hip"
-"OAK199204220",77,"Debut game for Henry Mercedes"
-"OAK199205060",19,"the throw in from LF got past the cutoff man and Lance Blankenship tried to advance"
-"OAK199205100",41,"$Warning to both teams after HBP"
-"OAK199205100",67,"ej,farrs001,P,cobld901,Automatic ejection for HBP after warning ej,showb801,M,cobld901,Automatic ejection for HBP after warning Steve Farr ejected by HP umpire Drew Coble"
-"OAK199205260",45,"Bob Welch left with twisted left knee"
-"OAK199205300",8,"Debut game for Troy Neel"
-"OAK199206020",59,"ej,clarj001,P,joycj901,Balls and strikes Jack Clark ejected by HP umpire Jim Joyce for arguing balls and strikes"
-"OAK199206030",30,"ej,dopsj001,P,craft901,Throwing at Jamie Quirk ej,quirj001,P,craft901,Charging the mound $John Dopson's first pitch to Jamie Quirk was behind the batter; Quirk charged the mound and was tackled by catcher John Flaherty; both benches emptied; both players ejected by HP umpire Terry Craft"
-"OAK199206120",10,"$first hit off Nolan Ryan at Colesium since 4/11/1977"
-"OAK199206120",23,"$Mike Bordick hit on head by 75 mph breaking ball"
-"OAK199206130",5,"Carney Lansford's 2000th hit"
-"OAK199206140",35,"Harold Baines left with sore left knee"
-"OAK199206160",21,"DWS: previous plays continuation, combined here"
-"OAK199207180",73,"Rob Deer carried off field with injured left knee"
-"OAK199208070",27,"ej,cansj001,P,hendt901,Called third strike Jose Canseco ejected by HP umpire Ted Hendry"
-"OAK199208100",12,"Carney Lansford left with slight strain of right hamstring"
-"OAK199208100",43,"Jose Canseco left with a tight lower back"
-"OAK199208120",75,"ej,lamog101,M,koscg901,Call at 2B White Sox manager Gene Lamont ejected by 2B umpire Greg Kosc"
-"OAK199208130",15,"Debut game for Damion Easley"
-"OAK199208150",55,"Debut game for Mike Raczka"
-"OAK199208160",23,"Terry Steinbach left with leg cut after being spiked by Luis Polonia"
-"OAK199209100",49,"Jay Buhner left with turned right ankle"
-"OAK199209150",58,"Debut game for Bernardo Brito"
-"OAK199210010",62,"18 minute light failure delay"
-"OAK199210030",28,"ej,gossr001,P,merrd901,Bench jockeying $Athletics Gossage ejected by HP umpire Merrill for arguing balls and strikes from the bench"
-"OAK199210040",26,"$Rickey Henderson's 2,000th hit"
+"OAK199204060",14,"$Harold Baines thought the ball was going to be foul and did not run"FILENAME_TX","LINE_NUMBER_CT"
+
+"OAK199204090",15,"Terry Steinbach left with bruised left wrist"1992OAK.EVA.regular.comment.csv",2
+
+"OAK199204210",41,"Don Robinson left with sore left hip"1992OAK.EVA.regular.comment.csv",3
+
+"OAK199204220",77,"Debut game for Henry Mercedes"1992OAK.EVA.regular.comment.csv",4
+
+"OAK199205060",19,"the throw in from LF got past the cutoff man and Lance Blankenship tried to advance"1992OAK.EVA.regular.comment.csv",5
+
+"OAK199205100",41,"$Warning to both teams after HBP"1992OAK.EVA.regular.comment.csv",6
+
+"OAK199205100",67,"ej,farrs001,P,cobld901,Automatic ejection for HBP after warning ej,showb801,M,cobld901,Automatic ejection for HBP after warning Steve Farr ejected by HP umpire Drew Coble"1992OAK.EVA.regular.comment.csv",7
+
+"OAK199205260",45,"Bob Welch left with twisted left knee"1992OAK.EVA.regular.comment.csv",8
+
+"OAK199205300",8,"Debut game for Troy Neel"1992OAK.EVA.regular.comment.csv",9
+
+"OAK199206020",59,"ej,clarj001,P,joycj901,Balls and strikes Jack Clark ejected by HP umpire Jim Joyce for arguing balls and strikes"1992OAK.EVA.regular.comment.csv",10
+
+"OAK199206030",30,"ej,dopsj001,P,craft901,Throwing at Jamie Quirk ej,quirj001,P,craft901,Charging the mound $John Dopson's first pitch to Jamie Quirk was behind the batter; Quirk charged the mound and was tackled by catcher John Flaherty; both benches emptied; both players ejected by HP umpire Terry Craft"1992OAK.EVA.regular.comment.csv",11
+
+"OAK199206120",10,"$first hit off Nolan Ryan at Colesium since 4/11/1977"1992OAK.EVA.regular.comment.csv",12
+
+"OAK199206120",23,"$Mike Bordick hit on head by 75 mph breaking ball"1992OAK.EVA.regular.comment.csv",13
+
+"OAK199206130",5,"Carney Lansford's 2000th hit"1992OAK.EVA.regular.comment.csv",14
+
+"OAK199206140",35,"Harold Baines left with sore left knee"1992OAK.EVA.regular.comment.csv",15
+
+"OAK199206160",21,"DWS: previous plays continuation, combined here"1992OAK.EVA.regular.comment.csv",16
+
+"OAK199207180",73,"Rob Deer carried off field with injured left knee"1992OAK.EVA.regular.comment.csv",17
+
+"OAK199208070",27,"ej,cansj001,P,hendt901,Called third strike Jose Canseco ejected by HP umpire Ted Hendry"1992OAK.EVA.regular.comment.csv",18
+
+"OAK199208100",12,"Carney Lansford left with slight strain of right hamstring"1992OAK.EVA.regular.comment.csv",19
+
+"OAK199208100",43,"Jose Canseco left with a tight lower back"1992OAK.EVA.regular.comment.csv",20
+
+"OAK199208120",75,"ej,lamog101,M,koscg901,Call at 2B White Sox manager Gene Lamont ejected by 2B umpire Greg Kosc"1992OAK.EVA.regular.comment.csv",21
+
+"OAK199208130",15,"Debut game for Damion Easley"1992OAK.EVA.regular.comment.csv",22
+
+"OAK199208150",55,"Debut game for Mike Raczka"1992OAK.EVA.regular.comment.csv",23
+
+"OAK199208160",23,"Terry Steinbach left with leg cut after being spiked by Luis Polonia"1992OAK.EVA.regular.comment.csv",24
+
+"OAK199209100",49,"Jay Buhner left with turned right ankle"1992OAK.EVA.regular.comment.csv",25
+
+"OAK199209150",58,"Debut game for Bernardo Brito"1992OAK.EVA.regular.comment.csv",26
+
+"OAK199210010",62,"18 minute light failure delay"1992OAK.EVA.regular.comment.csv",27
+
+"OAK199210030",28,"ej,gossr001,P,merrd901,Bench jockeying $Athletics Gossage ejected by HP umpire Merrill for arguing balls and strikes from the bench"1992OAK.EVA.regular.comment.csv",28
+
+"OAK199210040",26,"$Rickey Henderson's 2,000th hit"1992OAK.EVA.regular.comment.csv",29
+

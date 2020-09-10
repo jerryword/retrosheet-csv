@@ -1,49 +1,48 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"PIT197004250",71,"$Willie Stargell's 7th career homer over the RF roof; only 18 total over Forbes Field RF roof to this point"
-"PIT197004290",0,"$Bob Moose: 90 pitches; Bill Hands: 98 pitches"
-"PIT197005160",0,"68 minute rain delay before start of game"
-"PIT197005160",57,"75 minute rain delay"
-"PIT197005180",0,"$umpire Chris Pelekoudas missed the game with the flu"
-"PIT197005180",55,"$Bob Moose checked his swing on the 1-2 pitch, which sailed to the backstop and Manny Sanguillen scored; the pitch was called a ball by HP umpire Satch Davidson but Jim Bunning appealed to 1B umpire Augie Donatelli on the checked swing; Donatelli ruled that Moose swung for strike three; catcher threw the ball to 3B to get Bill Mazeroski trying to advance from 1B; Bunning then yelled to Don Money that Moose never ran to 1B; Money threw the ball to Deron Johnson; the umpires huddled, ruled Moose out and disallowed the run; this ruling was incorrect and in top of 8th umpires reversed the decision and 'restored' the Pirates' run"
-"PIT197005180",64,"ej,myatg102,C,davis901,Call at 2B $Phillies coach Myatt ejected by base umpire Kibler for that Briggs was safe at 2nd umpire Satch Davidson"
-"PIT197005300",54,"Debut game for Jim Nelson"
-"PIT197006281",54,"Debut game for Gene Clines"
-"PIT197006282",0,"$Last game at Forbes Field"
-"PIT197007250",45,"ej,dilaj101,P,varge901,Offensive remarks $Jack DiLauro (not in game) ejected by 3B umpire Vargo for making offensive remarks as he walked to bullpen"
-"PIT197008062",38,"$Larry Bowa missed 2B on the double play attempt"
-"PIT197008100",0,"27 minute delay before start of game due to light failure"
-"PIT197008100",16,"$Freddie Patek called for obstruction"
-"PIT197008120",87,"Debut game for John Lamb"
-"PIT197008120",94,"Debut game for Charlie Hough"
-"PIT197009040",0,"Suspend=19700905,,1,4,36"
-"PIT197009040",7,"$Roberto Clemente sprained a back muscle"
-"PIT197009040",49,"suspended,19700905,PIT07,tarpaulin machine $game suspended here when tarpaulin machine jammed before covering the field during a rain delay; game concluded the next day"
-"PIT197009040",64,"17 minute rain delay"
-"PIT197009050",70,"Debut game for Ken Reynolds"
-"PIT197009060",32,"Terry Harmon left with pulled thigh muscle"
-"PIT197009072",63,"Debut game for Ed Acosta"
-"PIT197009080",89,"Debut game for Milt May"
-"PIT197004250",71,"$Willie Stargell's 7th career homer over the RF roof; only 18 total over Forbes Field RF roof to this point"
-"PIT197004290",0,"$Bob Moose: 90 pitches; Bill Hands: 98 pitches"
-"PIT197005160",0,"68 minute rain delay before start of game"
-"PIT197005160",57,"75 minute rain delay"
-"PIT197005180",0,"$umpire Chris Pelekoudas missed the game with the flu"
-"PIT197005180",55,"$Bob Moose checked his swing on the 1-2 pitch, which sailed to the backstop and Manny Sanguillen scored; the pitch was called a ball by HP umpire Satch Davidson but Jim Bunning appealed to 1B umpire Augie Donatelli on the checked swing; Donatelli ruled that Moose swung for strike three; catcher threw the ball to 3B to get Bill Mazeroski trying to advance from 1B; Bunning then yelled to Don Money that Moose never ran to 1B; Money threw the ball to Deron Johnson; the umpires huddled, ruled Moose out and disallowed the run; this ruling was incorrect and in top of 8th umpires reversed the decision and 'restored' the Pirates' run"
-"PIT197005180",64,"ej,myatg102,C,davis901,Call at 2B $Phillies coach Myatt ejected by base umpire Kibler for that Briggs was safe at 2nd umpire Satch Davidson"
-"PIT197005300",54,"Debut game for Jim Nelson"
-"PIT197006281",54,"Debut game for Gene Clines"
-"PIT197006282",0,"$Last game at Forbes Field"
-"PIT197007250",45,"ej,dilaj101,P,varge901,Offensive remarks $Jack DiLauro (not in game) ejected by 3B umpire Vargo for making offensive remarks as he walked to bullpen"
-"PIT197008062",38,"$Larry Bowa missed 2B on the double play attempt"
-"PIT197008100",0,"27 minute delay before start of game due to light failure"
-"PIT197008100",16,"$Freddie Patek called for obstruction"
-"PIT197008120",87,"Debut game for John Lamb"
-"PIT197008120",94,"Debut game for Charlie Hough"
-"PIT197009040",0,"Suspend=19700905,,1,4,36"
-"PIT197009040",7,"$Roberto Clemente sprained a back muscle"
-"PIT197009040",49,"suspended,19700905,PIT07,tarpaulin machine $game suspended here when tarpaulin machine jammed before covering the field during a rain delay; game concluded the next day"
-"PIT197009040",64,"17 minute rain delay"
-"PIT197009050",70,"Debut game for Ken Reynolds"
-"PIT197009060",32,"Terry Harmon left with pulled thigh muscle"
-"PIT197009072",63,"Debut game for Ed Acosta"
-"PIT197009080",89,"Debut game for Milt May"
+"PIT197004250",71,"$Willie Stargell's 7th career homer over the RF roof; only 18 total over Forbes Field RF roof to this point"FILENAME_TX","LINE_NUMBER_CT"
+
+"PIT197004290",0,"$Bob Moose: 90 pitches; Bill Hands: 98 pitches"1970PIT.EVN.regular.comment.csv",2
+
+"PIT197005160",0,"68 minute rain delay before start of game"1970PIT.EVN.regular.comment.csv",3
+
+"PIT197005160",57,"75 minute rain delay"1970PIT.EVN.regular.comment.csv",4
+
+"PIT197005180",0,"$umpire Chris Pelekoudas missed the game with the flu"1970PIT.EVN.regular.comment.csv",5
+
+"PIT197005180",55,"$Bob Moose checked his swing on the 1-2 pitch, which sailed to the backstop and Manny Sanguillen scored; the pitch was called a ball by HP umpire Satch Davidson but Jim Bunning appealed to 1B umpire Augie Donatelli on the checked swing; Donatelli ruled that Moose swung for strike three; catcher threw the ball to 3B to get Bill Mazeroski trying to advance from 1B; Bunning then yelled to Don Money that Moose never ran to 1B; Money threw the ball to Deron Johnson; the umpires huddled, ruled Moose out and disallowed the run; this ruling was incorrect and in top of 8th umpires reversed the decision and 'restored' the Pirates' run"1970PIT.EVN.regular.comment.csv",6
+
+"PIT197005180",64,"ej,myatg102,C,davis901,Call at 2B $Phillies coach Myatt ejected by base umpire Kibler for that Briggs was safe at 2nd umpire Satch Davidson"1970PIT.EVN.regular.comment.csv",7
+
+"PIT197005300",54,"Debut game for Jim Nelson"1970PIT.EVN.regular.comment.csv",8
+
+"PIT197006281",54,"Debut game for Gene Clines"1970PIT.EVN.regular.comment.csv",9
+
+"PIT197006282",0,"$Last game at Forbes Field"1970PIT.EVN.regular.comment.csv",10
+
+"PIT197007250",45,"ej,dilaj101,P,varge901,Offensive remarks $Jack DiLauro (not in game) ejected by 3B umpire Vargo for making offensive remarks as he walked to bullpen"1970PIT.EVN.regular.comment.csv",11
+
+"PIT197008062",38,"$Larry Bowa missed 2B on the double play attempt"1970PIT.EVN.regular.comment.csv",12
+
+"PIT197008100",0,"27 minute delay before start of game due to light failure"1970PIT.EVN.regular.comment.csv",13
+
+"PIT197008100",16,"$Freddie Patek called for obstruction"1970PIT.EVN.regular.comment.csv",14
+
+"PIT197008120",87,"Debut game for John Lamb"1970PIT.EVN.regular.comment.csv",15
+
+"PIT197008120",94,"Debut game for Charlie Hough"1970PIT.EVN.regular.comment.csv",16
+
+"PIT197009040",0,"Suspend=19700905,,1,4,36"1970PIT.EVN.regular.comment.csv",17
+
+"PIT197009040",7,"$Roberto Clemente sprained a back muscle"1970PIT.EVN.regular.comment.csv",18
+
+"PIT197009040",49,"suspended,19700905,PIT07,tarpaulin machine $game suspended here when tarpaulin machine jammed before covering the field during a rain delay; game concluded the next day"1970PIT.EVN.regular.comment.csv",19
+
+"PIT197009040",64,"17 minute rain delay"1970PIT.EVN.regular.comment.csv",20
+
+"PIT197009050",70,"Debut game for Ken Reynolds"1970PIT.EVN.regular.comment.csv",21
+
+"PIT197009060",32,"Terry Harmon left with pulled thigh muscle"1970PIT.EVN.regular.comment.csv",22
+
+"PIT197009072",63,"Debut game for Ed Acosta"1970PIT.EVN.regular.comment.csv",23
+
+"PIT197009080",89,"Debut game for Milt May"1970PIT.EVN.regular.comment.csv",24
+

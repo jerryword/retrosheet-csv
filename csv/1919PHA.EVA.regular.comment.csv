@@ -1,53 +1,52 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"PHA191905050",86,"$Game called for rain"
-"PHA191905060",1,"$Debut for George Halas"
-"PHA191905302",67,"Probably a bunt."
-"PHA191906022",23,"Bounce HR"
-"PHA191906022",50,"$Fewster injured ankled trying to complete DP"
-"PHA191906040",40,"Bounce HR"
-"PHA191906050",88,"Probably defensive indifference."
-"PHA191906070",70,"Into the stands."
-"PHA191906160",0,"$Buck Weaver's brother and many friends attended the game"
-"PHA191906160",3,"$blown sacrifice"
-"PHA191906160",58,"$Weaver argued that Thompson balked on the pickoff"
-"PHA191906300",40,"Remainder of game from 7/1 Phil. Inquirer."
-"PHA191908020",76,"$runner from 2nd rounded third too far, but run scored before he was out to complete double play"
-"PHA191908072",8,"$Leibold dropped the line drive"
-"PHA191908072",30,"$Naylor tagged Felsch"
-"PHA191908072",33,"$Sschalk singled through the empty SS spot when Turner ran to cover 2B"
-"PHA191908081",18,"$Collins tried to go to 3B on Turner's wild relay home"
-"PHA191908090",24,"Probably a bunt."
-"PHA191909020",65,"McAvoy apparently put out on bases, but not shown."
-"PHA191909061",29,"No SB per Retrosheet box score."
-"PHA191909061",80,"Scoresheet shows Scott out 65."
-"PHA191909130",57,"Collins scored on Weaver rundown"
-"PHA191909180",74,"Probably defensive indifference."
-"PHA191909271",56,"that's what it says"
-"PHA191909290",46,"$infield hit"
-"PHA191909290",47,"$infield hit"
-"PHA191905050",86,"$Game called for rain"
-"PHA191905060",1,"$Debut for George Halas"
-"PHA191905302",67,"Probably a bunt."
-"PHA191906022",23,"Bounce HR"
-"PHA191906022",50,"$Fewster injured ankled trying to complete DP"
-"PHA191906040",40,"Bounce HR"
-"PHA191906050",88,"Probably defensive indifference."
-"PHA191906070",70,"Into the stands."
-"PHA191906160",0,"$Buck Weaver's brother and many friends attended the game"
-"PHA191906160",3,"$blown sacrifice"
-"PHA191906160",58,"$Weaver argued that Thompson balked on the pickoff"
-"PHA191906300",40,"Remainder of game from 7/1 Phil. Inquirer."
-"PHA191908020",76,"$runner from 2nd rounded third too far, but run scored before he was out to complete double play"
-"PHA191908072",8,"$Leibold dropped the line drive"
-"PHA191908072",30,"$Naylor tagged Felsch"
-"PHA191908072",33,"$Sschalk singled through the empty SS spot when Turner ran to cover 2B"
-"PHA191908081",18,"$Collins tried to go to 3B on Turner's wild relay home"
-"PHA191908090",24,"Probably a bunt."
-"PHA191909020",65,"McAvoy apparently put out on bases, but not shown."
-"PHA191909061",29,"No SB per Retrosheet box score."
-"PHA191909061",80,"Scoresheet shows Scott out 65."
-"PHA191909130",57,"Collins scored on Weaver rundown"
-"PHA191909180",74,"Probably defensive indifference."
-"PHA191909271",56,"that's what it says"
-"PHA191909290",46,"$infield hit"
-"PHA191909290",47,"$infield hit"
+"PHA191905050",86,"$Game called for rain"FILENAME_TX","LINE_NUMBER_CT"
+
+"PHA191905060",1,"$Debut for George Halas"1919PHA.EVA.regular.comment.csv",2
+
+"PHA191905302",67,"Probably a bunt."1919PHA.EVA.regular.comment.csv",3
+
+"PHA191906022",23,"Bounce HR"1919PHA.EVA.regular.comment.csv",4
+
+"PHA191906022",50,"$Fewster injured ankled trying to complete DP"1919PHA.EVA.regular.comment.csv",5
+
+"PHA191906040",40,"Bounce HR"1919PHA.EVA.regular.comment.csv",6
+
+"PHA191906050",88,"Probably defensive indifference."1919PHA.EVA.regular.comment.csv",7
+
+"PHA191906070",70,"Into the stands."1919PHA.EVA.regular.comment.csv",8
+
+"PHA191906160",0,"$Buck Weaver's brother and many friends attended the game"1919PHA.EVA.regular.comment.csv",9
+
+"PHA191906160",3,"$blown sacrifice"1919PHA.EVA.regular.comment.csv",10
+
+"PHA191906160",58,"$Weaver argued that Thompson balked on the pickoff"1919PHA.EVA.regular.comment.csv",11
+
+"PHA191906300",40,"Remainder of game from 7/1 Phil. Inquirer."1919PHA.EVA.regular.comment.csv",12
+
+"PHA191908020",76,"$runner from 2nd rounded third too far, but run scored before he was out to complete double play"1919PHA.EVA.regular.comment.csv",13
+
+"PHA191908072",8,"$Leibold dropped the line drive"1919PHA.EVA.regular.comment.csv",14
+
+"PHA191908072",30,"$Naylor tagged Felsch"1919PHA.EVA.regular.comment.csv",15
+
+"PHA191908072",33,"$Sschalk singled through the empty SS spot when Turner ran to cover 2B"1919PHA.EVA.regular.comment.csv",16
+
+"PHA191908081",18,"$Collins tried to go to 3B on Turner's wild relay home"1919PHA.EVA.regular.comment.csv",17
+
+"PHA191908090",24,"Probably a bunt."1919PHA.EVA.regular.comment.csv",18
+
+"PHA191909020",65,"McAvoy apparently put out on bases, but not shown."1919PHA.EVA.regular.comment.csv",19
+
+"PHA191909061",29,"No SB per Retrosheet box score."1919PHA.EVA.regular.comment.csv",20
+
+"PHA191909061",80,"Scoresheet shows Scott out 65."1919PHA.EVA.regular.comment.csv",21
+
+"PHA191909130",57,"Collins scored on Weaver rundown"1919PHA.EVA.regular.comment.csv",22
+
+"PHA191909180",74,"Probably defensive indifference."1919PHA.EVA.regular.comment.csv",23
+
+"PHA191909271",56,"that's what it says"1919PHA.EVA.regular.comment.csv",24
+
+"PHA191909290",46,"$infield hit"1919PHA.EVA.regular.comment.csv",25
+
+"PHA191909290",47,"$infield hit"1919PHA.EVA.regular.comment.csv",26
+

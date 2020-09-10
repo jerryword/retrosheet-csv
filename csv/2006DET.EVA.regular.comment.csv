@@ -1,57 +1,56 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"DET200604130",83,"fan interference"
-"DET200604140",49,"Tigers designated hitter Dmitri Young left the game due to an injured leg"
-"DET200604160",32,"ej,wedge001,M,emmep901,Balls and strikes Indians Manager Eric Wedge ejected by HP umpire Paul Emmel"
-"DET200604290",79,"Twins designated hitter Ruben Sierra left the game due to an injured elbow"
-"DET200605040",16,"homer on first major league at bat"
-"DET200605290",25,"$originally ruled E3, changed on 6-07-2006 to hit"
-"DET200606040",0,"$Debut for umpire Scott Barry"
-"DET200606040",70,"ej,leylj801,M,nauep901,Balls and strikes Tigers Manager Jim Leyland ejected by HP umpire Paul Nauert arguing ball two to Ramirez"
-"DET200606230",35,"Rodriguez injured wrist on foul ball"
-"DET200606240",39,"fan interference"
-"DET200606250",46,"Cardinals catcher Gary Bennett left the game due to an injured back"
-"DET200606260",60,"ej,berkl001,P,buckc901,Call at 1B ej,garnp001,M,buckc901,Call at 1B Astros Lance Berkman & Mgr Phil Garner ejected by 1B umpire CB Bucknor"
-"DET200606280",26,"Tigers right fielder Magglio Ordonez left the game due to an injured leg"
-"DET200607200",59,"Tigers right fielder Craig Monroe left the game due to an injured leg"
-"DET200607210",41,"Athletics shortstop Bobby Crosby left the game due to an injured back"
-"DET200607230",6,"Tigers second baseman Placido Polanco left the game due to an injured head"
-"DET200607230",28,"ej,thomf001,P,dowda901,Called third strike Athletics designated hitter Frank Thomas ejected by HP umpire Adam Dowdy"
-"DET200608220",14,"ej,guilo001,M,iassd901,Balls and strikes $White Sox Manager Ozzie Guillen ejected by HP umpire Dan Iassogna for arguing balls and strikes during Uribe's AB; he was tossed from the bench and then came on the field"
-"DET200608230",21,"White Sox DH Jim Thome left the game due to an injured leg"
-"DET200608230",68,"$after Scott Podsednik failed to get the bunt down, he was removed for pinch-hitter Brian Anderson; Jamie Walker was brought in to face Anderson; Walker threw one pitch to complete the strikeout which is charged to Podsednik; Anderson batted left against the left-handed pitcher; officially, Walker struck out Podsednik, although the two did not face each other"
-"DET200608240",37,"$line tipped off 3bman's glove. Casey thought it was caught and stopped. It deflected to left and Casey started running, but throw just beat him."
-"DET200609020",42,"fan interference"
-"DET200609020",77,"Tigers shortstop Carlos Guillen left the game due to an injured leg"
-"DET200609060",59,"fan interference"
-"DET200609130",49,"$Hit for cycle in order"
-"DET200609260",17,"Tigers right fielder Magglio Ordonez left the game due to an injured back"
-"DET200610010",33,"ej,pereo001,P,schrp901,Call at 1B Royals pitcher Odalis Perez ejected by 1B umpire Paul Schrieber"
-"DET200610010",42,"fan interference"
-"DET200604130",83,"fan interference"
-"DET200604140",49,"Tigers designated hitter Dmitri Young left the game due to an injured leg"
-"DET200604160",32,"ej,wedge001,M,emmep901,Balls and strikes Indians Manager Eric Wedge ejected by HP umpire Paul Emmel"
-"DET200604290",79,"Twins designated hitter Ruben Sierra left the game due to an injured elbow"
-"DET200605040",16,"homer on first major league at bat"
-"DET200605290",25,"$originally ruled E3, changed on 6-07-2006 to hit"
-"DET200606040",0,"$Debut for umpire Scott Barry"
-"DET200606040",70,"ej,leylj801,M,nauep901,Balls and strikes Tigers Manager Jim Leyland ejected by HP umpire Paul Nauert arguing ball two to Ramirez"
-"DET200606230",35,"Rodriguez injured wrist on foul ball"
-"DET200606240",39,"fan interference"
-"DET200606250",46,"Cardinals catcher Gary Bennett left the game due to an injured back"
-"DET200606260",60,"ej,berkl001,P,buckc901,Call at 1B ej,garnp001,M,buckc901,Call at 1B Astros Lance Berkman & Mgr Phil Garner ejected by 1B umpire CB Bucknor"
-"DET200606280",26,"Tigers right fielder Magglio Ordonez left the game due to an injured leg"
-"DET200607200",59,"Tigers right fielder Craig Monroe left the game due to an injured leg"
-"DET200607210",41,"Athletics shortstop Bobby Crosby left the game due to an injured back"
-"DET200607230",6,"Tigers second baseman Placido Polanco left the game due to an injured head"
-"DET200607230",28,"ej,thomf001,P,dowda901,Called third strike Athletics designated hitter Frank Thomas ejected by HP umpire Adam Dowdy"
-"DET200608220",14,"ej,guilo001,M,iassd901,Balls and strikes $White Sox Manager Ozzie Guillen ejected by HP umpire Dan Iassogna for arguing balls and strikes during Uribe's AB; he was tossed from the bench and then came on the field"
-"DET200608230",21,"White Sox DH Jim Thome left the game due to an injured leg"
-"DET200608230",68,"$after Scott Podsednik failed to get the bunt down, he was removed for pinch-hitter Brian Anderson; Jamie Walker was brought in to face Anderson; Walker threw one pitch to complete the strikeout which is charged to Podsednik; Anderson batted left against the left-handed pitcher; officially, Walker struck out Podsednik, although the two did not face each other"
-"DET200608240",37,"$line tipped off 3bman's glove. Casey thought it was caught and stopped. It deflected to left and Casey started running, but throw just beat him."
-"DET200609020",42,"fan interference"
-"DET200609020",77,"Tigers shortstop Carlos Guillen left the game due to an injured leg"
-"DET200609060",59,"fan interference"
-"DET200609130",49,"$Hit for cycle in order"
-"DET200609260",17,"Tigers right fielder Magglio Ordonez left the game due to an injured back"
-"DET200610010",27,"ej,pereo001,P,schrp901,Call at 1B $Pitcher Perez ejected by 1B umpire Schrieber for arguing that Rodriguez was out at 1st in Tigers 3rd"
-"DET200610010",42,"fan interference"
+"DET200604130",83,"fan interference"FILENAME_TX","LINE_NUMBER_CT"
+
+"DET200604140",49,"Tigers designated hitter Dmitri Young left the game due to an injured leg"2006DET.EVA.regular.comment.csv",2
+
+"DET200604160",32,"ej,wedge001,M,emmep901,Balls and strikes Indians Manager Eric Wedge ejected by HP umpire Paul Emmel"2006DET.EVA.regular.comment.csv",3
+
+"DET200604290",79,"Twins designated hitter Ruben Sierra left the game due to an injured elbow"2006DET.EVA.regular.comment.csv",4
+
+"DET200605040",16,"homer on first major league at bat"2006DET.EVA.regular.comment.csv",5
+
+"DET200605290",25,"$originally ruled E3, changed on 6-07-2006 to hit"2006DET.EVA.regular.comment.csv",6
+
+"DET200606040",0,"$Debut for umpire Scott Barry"2006DET.EVA.regular.comment.csv",7
+
+"DET200606040",70,"ej,leylj801,M,nauep901,Balls and strikes Tigers Manager Jim Leyland ejected by HP umpire Paul Nauert arguing ball two to Ramirez"2006DET.EVA.regular.comment.csv",8
+
+"DET200606230",35,"Rodriguez injured wrist on foul ball"2006DET.EVA.regular.comment.csv",9
+
+"DET200606240",39,"fan interference"2006DET.EVA.regular.comment.csv",10
+
+"DET200606250",46,"Cardinals catcher Gary Bennett left the game due to an injured back"2006DET.EVA.regular.comment.csv",11
+
+"DET200606260",60,"ej,berkl001,P,buckc901,Call at 1B ej,garnp001,M,buckc901,Call at 1B Astros Lance Berkman & Mgr Phil Garner ejected by 1B umpire CB Bucknor"2006DET.EVA.regular.comment.csv",12
+
+"DET200606280",26,"Tigers right fielder Magglio Ordonez left the game due to an injured leg"2006DET.EVA.regular.comment.csv",13
+
+"DET200607200",59,"Tigers right fielder Craig Monroe left the game due to an injured leg"2006DET.EVA.regular.comment.csv",14
+
+"DET200607210",41,"Athletics shortstop Bobby Crosby left the game due to an injured back"2006DET.EVA.regular.comment.csv",15
+
+"DET200607230",6,"Tigers second baseman Placido Polanco left the game due to an injured head"2006DET.EVA.regular.comment.csv",16
+
+"DET200607230",28,"ej,thomf001,P,dowda901,Called third strike Athletics designated hitter Frank Thomas ejected by HP umpire Adam Dowdy"2006DET.EVA.regular.comment.csv",17
+
+"DET200608220",14,"ej,guilo001,M,iassd901,Balls and strikes $White Sox Manager Ozzie Guillen ejected by HP umpire Dan Iassogna for arguing balls and strikes during Uribe's AB; he was tossed from the bench and then came on the field"2006DET.EVA.regular.comment.csv",18
+
+"DET200608230",21,"White Sox DH Jim Thome left the game due to an injured leg"2006DET.EVA.regular.comment.csv",19
+
+"DET200608230",68,"$after Scott Podsednik failed to get the bunt down, he was removed for pinch-hitter Brian Anderson; Jamie Walker was brought in to face Anderson; Walker threw one pitch to complete the strikeout which is charged to Podsednik; Anderson batted left against the left-handed pitcher; officially, Walker struck out Podsednik, although the two did not face each other"2006DET.EVA.regular.comment.csv",20
+
+"DET200608240",37,"$line tipped off 3bman's glove. Casey thought it was caught and stopped. It deflected to left and Casey started running, but throw just beat him."2006DET.EVA.regular.comment.csv",21
+
+"DET200609020",42,"fan interference"2006DET.EVA.regular.comment.csv",22
+
+"DET200609020",77,"Tigers shortstop Carlos Guillen left the game due to an injured leg"2006DET.EVA.regular.comment.csv",23
+
+"DET200609060",59,"fan interference"2006DET.EVA.regular.comment.csv",24
+
+"DET200609130",49,"$Hit for cycle in order"2006DET.EVA.regular.comment.csv",25
+
+"DET200609260",17,"Tigers right fielder Magglio Ordonez left the game due to an injured back"2006DET.EVA.regular.comment.csv",26
+
+"DET200610010",27,"ej,pereo001,P,schrp901,Call at 1B $Pitcher Perez ejected by 1B umpire Schrieber for arguing that Rodriguez was out at 1st in Tigers 3rd"2006DET.EVA.regular.comment.csv",27
+
+"DET200610010",42,"fan interference"2006DET.EVA.regular.comment.csv",28
+

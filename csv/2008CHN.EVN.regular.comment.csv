@@ -1,67 +1,66 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"CHN200803310",0,"$Start of game delayed 41 minutes by rain"
-"CHN200803310",13,"Debut game for Kosuke Fukudome"
-"CHN200803310",21,"$Rain delay of 49 minutes"
-"CHN200803310",46,"Cubs pitcher Carlos Zambrano left the game due to an injured arm"
-"CHN200803310",51,"$Pitch in dirt, Fukudome took off, Kendall ran out and tagged him"
-"CHN200804030",50,"Brewers right fielder Tony Gwynn left the game due to an injured leg"
-"CHN200804050",31,"Astros Lance Berkman left the game due to an injured neck/shoulder"
-"CHN200804050",57,"Astros third baseman Ty Wigginton left the game due to an injured hand/wrist"
-"CHN200804150",3,"Cubs left fielder Alfonso Soriano left the game due to an injured leg"
-"CHN200804290",21,"umpchange,3,umphome,nauep901 umpchange,3,ump1b,hallt901 umpchange,3,ump2b,(None) $HP umpire Jerry Crawford left the game due to a bad reaction to medicine. He was taken to a local hospital and admitted over night there was a 13-minute delay while 1B umpire Paul Nauert changed into his plate gear"
-"CHN200805120",59,"Debut game for Edgar Gonzalez"
-"CHN200805180",52,"Debut game for Micah Hoffpauir"
-"CHN200805310",10,"umpchange,2,ump1b,crawj901 umpchange,2,ump2b,(None) $1B umpire Brian O'Nora left the game after pulling his left hamstring in the first inning while running into the outfield to rule on a catch; he was taken to a hospital for an MRI"
-"CHN200805310",12,"umpchange,2,ump2b,(None) umpchange,2,ump1b,crawj901 $1B umpire Brian O'Nora pulled his left hamstring running down the RF line to make a call; when he favored it making a check swing call on Jeff Baker, Cubs trainer Mark O'Neal visited with O'Nora and walked him off the field; O'Nora went to the hospital for an MRI"
-"CHN200806100",35,"Braves pitcher Tom Glavine left the game due to an injured elbow"
-"CHN200806110",17,"$Soriano hit on left hand; he suffered a minimally displaced fracture of the fourth metacarpal; expected to be in a splint for three weeks"
-"CHN200806210",41,"$second homer of the inning for Edmonds"
-"CHN200806250",0,"$Debut for umpire Dan Bellino"
-"CHN200806250",8,"Orioles pitcher Matt Albers left the game due to an injured neck/shoulder"
-"CHN200807110",19,"Giants right fielder Randy Winn left the game due to an injured knee"
-"CHN200807120",60,"Debut game for Ivan Ochoa"
-"CHN200807120",80,"Changed from S1 on 8-08-2008, makes 3 runs unearned"
-"CHN200807250",56,"Debut game for Jeff Samardzija"
-"CHN200807260",17,"umpchange,2,umphome,drecb901 umpchange,2,ump2b,(None) $Rich Harden squared to bunt but pulled the bat back; the pitch hit HP umpire Gerry Davis on the mask; he was attended to by the Cubs trainer and taken to the hospital for further observation; 2B umpire Bruce Dreckman moved behind the plate"
-"CHN200807260",71,"ej,sinam001,C,drakr901,Call at 1B ej,pinil001,M,drakr901,Call at 1B Cubs First Base Coach Matt Sinatro & Manager Lou Piniella ejected by 1B umpire Rob Drake for arguing call at 1B"
-"CHN200808040",40,"$Rain delay of 2:45, heavy lightning with tornado warnings"
-"CHN200808040",59,"$Lightning and rain return, game called at this point as shortened game"
-"CHN200808100",49,"Cardinals pitcher Chris Carpenter left the game due to a strained right tricep"
-"CHN200808290",58,"ej,smits801,C,welkb901,Call at 1B $the grounder bounced off the glove of Cubs first baseman Derrek Lee, who retrieved it and threw to pitcher Jeff Samardzija; Ryan Howard and manager Charlie Manuel protested the call; 3B coach Steve Smith argued with HP umpire Bill Welke, who ejected Smith"
-"CHN200809020",48,"$the ball and Cubs center fielder Jim Edmonds both hit the ivy-covered wall, with the ball dropping to the ground; a second ball came out of the ivy and fell to the ground; this was likely a batting practice ball that got stuck in the ivy; Edmonds threw the game ball into the infield and then retrieved the second ball and tossed it into the stands"
-"CHN200809020",86,"Debut game for Casey McGehee"
-"CHN200809160",38,"ej,sedae801,C,westj901,Call at 1B Brewers First Base Coach Ed Sedar ejected by 1B umpire Joe West for arguing that the relay throw pulled Cubs first baseman Derrek Lee off the bag"
-"CHN200809180",91,"ej,edmoj001,P,rapue901,Balls and strikes Cubs center fielder Jim Edmonds objected to two pitches that he thought were outside but called strikes; he was ejected by HP umpire Ed Rapuano after the second one"
-"CHN200803310",0,"$Start of game delayed 41 minutes by rain"
-"CHN200803310",13,"Debut game for Kosuke Fukudome"
-"CHN200803310",21,"$Rain delay of 49 minutes"
-"CHN200803310",46,"Cubs pitcher Carlos Zambrano left the game due to an injured arm"
-"CHN200803310",51,"$Pitch in dirt, Fukudome took off, Kendall ran out and tagged him"
-"CHN200804030",50,"Brewers right fielder Tony Gwynn left the game due to an injured leg"
-"CHN200804050",31,"Astros Lance Berkman left the game due to an injured neck/shoulder"
-"CHN200804050",57,"Astros third baseman Ty Wigginton left the game due to an injured hand/wrist"
-"CHN200804150",3,"Cubs left fielder Alfonso Soriano left the game due to an injured leg"
-"CHN200804290",21,"umpchange,3,umphome,nauep901 umpchange,3,ump1b,hallt901 umpchange,3,ump2b,(None) $HP umpire Jerry Crawford left the game due to a bad reaction to medicine. He was taken to a local hospital and admitted over night there was a 13-minute delay while 1B umpire Paul Nauert changed into his plate gear"
-"CHN200805120",59,"Debut game for Edgar Gonzalez"
-"CHN200805180",52,"Debut game for Micah Hoffpauir"
-"CHN200805310",10,"umpchange,2,ump1b,crawj901 umpchange,2,ump2b,(None) $1B umpire Brian O'Nora left the game after pulling his left hamstring in the first inning while running into the outfield to rule on a catch; he was taken to a hospital for an MRI"
-"CHN200805310",12,"umpchange,2,ump2b,(None) umpchange,2,ump1b,crawj901 $1B umpire Brian O'Nora pulled his left hamstring running down the RF line to make a call; when he favored it making a check swing call on Jeff Baker, Cubs trainer Mark O'Neal visited with O'Nora and walked him off the field; O'Nora went to the hospital for an MRI"
-"CHN200806100",35,"Braves pitcher Tom Glavine left the game due to an injured elbow"
-"CHN200806110",17,"$Soriano hit on left hand; he suffered a minimally displaced fracture of the fourth metacarpal; expected to be in a splint for three weeks"
-"CHN200806210",41,"$second homer of the inning for Edmonds"
-"CHN200806250",0,"$Debut for umpire Dan Bellino"
-"CHN200806250",8,"Orioles pitcher Matt Albers left the game due to an injured neck/shoulder"
-"CHN200807110",19,"Giants right fielder Randy Winn left the game due to an injured knee"
-"CHN200807120",60,"Debut game for Ivan Ochoa"
-"CHN200807120",80,"Changed from S1 on 8-08-2008, makes 3 runs unearned"
-"CHN200807250",56,"Debut game for Jeff Samardzija"
-"CHN200807260",17,"umpchange,2,umphome,drecb901 umpchange,2,ump2b,(None) $Rich Harden squared to bunt but pulled the bat back; the pitch hit HP umpire Gerry Davis on the mask; he was attended to by the Cubs trainer and taken to the hospital for further observation; 2B umpire Bruce Dreckman moved behind the plate"
-"CHN200807260",71,"ej,sinam001,C,drakr901,Call at 1B ej,pinil001,M,drakr901,Call at 1B Cubs First Base Coach Matt Sinatro & Manager Lou Piniella ejected by 1B umpire Rob Drake for arguing call at 1B"
-"CHN200808040",40,"$Rain delay of 2:45, heavy lightning with tornado warnings"
-"CHN200808040",59,"$Lightning and rain return, game called at this point as shortened game"
-"CHN200808100",49,"Cardinals pitcher Chris Carpenter left the game due to a strained right tricep"
-"CHN200808290",58,"ej,smits801,C,welkb901,Call at 1B $the grounder bounced off the glove of Cubs first baseman Derrek Lee, who retrieved it and threw to pitcher Jeff Samardzija; Ryan Howard and manager Charlie Manuel protested the call; 3B coach Steve Smith argued with HP umpire Bill Welke, who ejected Smith"
-"CHN200809020",48,"$the ball and Cubs center fielder Jim Edmonds both hit the ivy-covered wall, with the ball dropping to the ground; a second ball came out of the ivy and fell to the ground; this was likely a batting practice ball that got stuck in the ivy; Edmonds threw the game ball into the infield and then retrieved the second ball and tossed it into the stands"
-"CHN200809020",86,"Debut game for Casey McGehee"
-"CHN200809160",38,"ej,sedae801,C,westj901,Call at 1B Brewers First Base Coach Ed Sedar ejected by 1B umpire Joe West for arguing that the relay throw pulled Cubs first baseman Derrek Lee off the bag"
-"CHN200809180",91,"ej,edmoj001,P,rapue901,Balls and strikes $Edmonds ejected by HP umpire Rapuano for arguing balls and strike after two called strikes he thought were outside"
+"CHN200803310",0,"$Start of game delayed 41 minutes by rain"FILENAME_TX","LINE_NUMBER_CT"
+
+"CHN200803310",13,"Debut game for Kosuke Fukudome"2008CHN.EVN.regular.comment.csv",2
+
+"CHN200803310",21,"$Rain delay of 49 minutes"2008CHN.EVN.regular.comment.csv",3
+
+"CHN200803310",46,"Cubs pitcher Carlos Zambrano left the game due to an injured arm"2008CHN.EVN.regular.comment.csv",4
+
+"CHN200803310",51,"$Pitch in dirt, Fukudome took off, Kendall ran out and tagged him"2008CHN.EVN.regular.comment.csv",5
+
+"CHN200804030",50,"Brewers right fielder Tony Gwynn left the game due to an injured leg"2008CHN.EVN.regular.comment.csv",6
+
+"CHN200804050",31,"Astros Lance Berkman left the game due to an injured neck/shoulder"2008CHN.EVN.regular.comment.csv",7
+
+"CHN200804050",57,"Astros third baseman Ty Wigginton left the game due to an injured hand/wrist"2008CHN.EVN.regular.comment.csv",8
+
+"CHN200804150",3,"Cubs left fielder Alfonso Soriano left the game due to an injured leg"2008CHN.EVN.regular.comment.csv",9
+
+"CHN200804290",21,"umpchange,3,umphome,nauep901 umpchange,3,ump1b,hallt901 umpchange,3,ump2b,(None) $HP umpire Jerry Crawford left the game due to a bad reaction to medicine. He was taken to a local hospital and admitted over night there was a 13-minute delay while 1B umpire Paul Nauert changed into his plate gear"2008CHN.EVN.regular.comment.csv",10
+
+"CHN200805120",59,"Debut game for Edgar Gonzalez"2008CHN.EVN.regular.comment.csv",11
+
+"CHN200805180",52,"Debut game for Micah Hoffpauir"2008CHN.EVN.regular.comment.csv",12
+
+"CHN200805310",10,"umpchange,2,ump1b,crawj901 umpchange,2,ump2b,(None) $1B umpire Brian O'Nora left the game after pulling his left hamstring in the first inning while running into the outfield to rule on a catch; he was taken to a hospital for an MRI"2008CHN.EVN.regular.comment.csv",13
+
+"CHN200805310",12,"umpchange,2,ump2b,(None) umpchange,2,ump1b,crawj901 $1B umpire Brian O'Nora pulled his left hamstring running down the RF line to make a call; when he favored it making a check swing call on Jeff Baker, Cubs trainer Mark O'Neal visited with O'Nora and walked him off the field; O'Nora went to the hospital for an MRI"2008CHN.EVN.regular.comment.csv",14
+
+"CHN200806100",35,"Braves pitcher Tom Glavine left the game due to an injured elbow"2008CHN.EVN.regular.comment.csv",15
+
+"CHN200806110",17,"$Soriano hit on left hand; he suffered a minimally displaced fracture of the fourth metacarpal; expected to be in a splint for three weeks"2008CHN.EVN.regular.comment.csv",16
+
+"CHN200806210",41,"$second homer of the inning for Edmonds"2008CHN.EVN.regular.comment.csv",17
+
+"CHN200806250",0,"$Debut for umpire Dan Bellino"2008CHN.EVN.regular.comment.csv",18
+
+"CHN200806250",8,"Orioles pitcher Matt Albers left the game due to an injured neck/shoulder"2008CHN.EVN.regular.comment.csv",19
+
+"CHN200807110",19,"Giants right fielder Randy Winn left the game due to an injured knee"2008CHN.EVN.regular.comment.csv",20
+
+"CHN200807120",60,"Debut game for Ivan Ochoa"2008CHN.EVN.regular.comment.csv",21
+
+"CHN200807120",80,"Changed from S1 on 8-08-2008, makes 3 runs unearned"2008CHN.EVN.regular.comment.csv",22
+
+"CHN200807250",56,"Debut game for Jeff Samardzija"2008CHN.EVN.regular.comment.csv",23
+
+"CHN200807260",17,"umpchange,2,umphome,drecb901 umpchange,2,ump2b,(None) $Rich Harden squared to bunt but pulled the bat back; the pitch hit HP umpire Gerry Davis on the mask; he was attended to by the Cubs trainer and taken to the hospital for further observation; 2B umpire Bruce Dreckman moved behind the plate"2008CHN.EVN.regular.comment.csv",24
+
+"CHN200807260",71,"ej,sinam001,C,drakr901,Call at 1B ej,pinil001,M,drakr901,Call at 1B Cubs First Base Coach Matt Sinatro & Manager Lou Piniella ejected by 1B umpire Rob Drake for arguing call at 1B"2008CHN.EVN.regular.comment.csv",25
+
+"CHN200808040",40,"$Rain delay of 2:45, heavy lightning with tornado warnings"2008CHN.EVN.regular.comment.csv",26
+
+"CHN200808040",59,"$Lightning and rain return, game called at this point as shortened game"2008CHN.EVN.regular.comment.csv",27
+
+"CHN200808100",49,"Cardinals pitcher Chris Carpenter left the game due to a strained right tricep"2008CHN.EVN.regular.comment.csv",28
+
+"CHN200808290",58,"ej,smits801,C,welkb901,Call at 1B $the grounder bounced off the glove of Cubs first baseman Derrek Lee, who retrieved it and threw to pitcher Jeff Samardzija; Ryan Howard and manager Charlie Manuel protested the call; 3B coach Steve Smith argued with HP umpire Bill Welke, who ejected Smith"2008CHN.EVN.regular.comment.csv",29
+
+"CHN200809020",48,"$the ball and Cubs center fielder Jim Edmonds both hit the ivy-covered wall, with the ball dropping to the ground; a second ball came out of the ivy and fell to the ground; this was likely a batting practice ball that got stuck in the ivy; Edmonds threw the game ball into the infield and then retrieved the second ball and tossed it into the stands"2008CHN.EVN.regular.comment.csv",30
+
+"CHN200809020",86,"Debut game for Casey McGehee"2008CHN.EVN.regular.comment.csv",31
+
+"CHN200809160",38,"ej,sedae801,C,westj901,Call at 1B Brewers First Base Coach Ed Sedar ejected by 1B umpire Joe West for arguing that the relay throw pulled Cubs first baseman Derrek Lee off the bag"2008CHN.EVN.regular.comment.csv",32
+
+"CHN200809180",91,"ej,edmoj001,P,rapue901,Balls and strikes $Edmonds ejected by HP umpire Rapuano for arguing balls and strike after two called strikes he thought were outside"2008CHN.EVN.regular.comment.csv",33
+

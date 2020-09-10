@@ -1,37 +1,36 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"CLE197704160",54,"Debut game for Bob Stanley"
-"CLE197704160",65,"$Bob Stanley fumbled the grounder, but the ball deflected to Denny Doyle who threw wildly to 1B"
-"CLE197705110",0,"Protest=H"
-"CLE197705110",4,"$Cleveland protested game, saying pinetar too high on Dan Thomas' bat"
-"CLE197705310",17,"1:21 rain delay"
-"CLE197705310",49,"ej,gricb001,P,dimul901,Call at 2B Bobby Grich ejected by 2B umpire Lou DiMuro"
-"CLE197706191",47,"ej,tracd101,C,goetr901,Balls and strikes Tigers Coach Dick Tracewski ejected by HP umpire Russ Goetz"
-"CLE197706292",80,"$Rich Dauer threw wildly to 1B and the ball went into the Cleveland dugout; 3B umpire Jim and HP umpire Vic Voltaggio signaled Jim Norris home; both clubs leave the field; Orioles manager Earl Weaver told 1B umpire Marty Springstead that Norris had to stop at 3B; Springstead agreed so both clubs came back on the field"
-"CLE197706300",52,"game called for rain"
-"CLE197707110",0,"35 minute rain delay before start of game"
-"CLE197707120",57,"30 minute rain delay With 1-1 count on Jim Rice"
-"CLE197708141",25,"ej,moorc001,P,spenf901,Balls and strikes (while catching) Charlie Moore ejected by HP umpire Fred Spenn"
-"CLE197708280",69,"$Ruppert Jones called out on appeal"
-"CLE197709040",17,"Buddy Bell hurt on the play"
-"CLE197709051",42,"$Paul Dade called for obstruction"
-"CLE197709142",81,"ej,parrl001,P,clara901,Balls and strikes (While catching) Lance Parrish ejected by HP umpire Al Clark With a 2-0 count on Larvell Blanks"
-"CLE197709250",30,"$Paul Dade and Duane Kuiper collided; Kuiper suffered a bruised right thigh; Dade took a knee to the head"
-"CLE197709250",42,"Debut game for Dave Oliver"
-"CLE197704160",54,"Debut game for Bob Stanley"
-"CLE197704160",65,"$Bob Stanley fumbled the grounder, but the ball deflected to Denny Doyle who threw wildly to 1B"
-"CLE197705110",0,"Protest=H"
-"CLE197705110",4,"$Cleveland protested game, saying pinetar too high on Dan Thomas' bat"
-"CLE197705310",17,"1:21 rain delay"
-"CLE197705310",49,"ej,gricb001,P,dimul901,Call at 2B Bobby Grich ejected by 2B umpire Lou DiMuro"
-"CLE197706191",47,"ej,tracd101,C,goetr901,Balls and strikes Tigers Coach Dick Tracewski ejected by HP umpire Russ Goetz"
-"CLE197706292",80,"$Rich Dauer threw wildly to 1B and the ball went into the Cleveland dugout; 3B umpire Jim and HP umpire Vic Voltaggio signaled Jim Norris home; both clubs leave the field; Orioles manager Earl Weaver told 1B umpire Marty Springstead that Norris had to stop at 3B; Springstead agreed so both clubs came back on the field"
-"CLE197706300",52,"game called for rain"
-"CLE197707110",0,"35 minute rain delay before start of game"
-"CLE197707120",57,"30 minute rain delay With 1-1 count on Jim Rice"
-"CLE197708141",25,"ej,moorc001,P,spenf901,Balls and strikes (while catching) Charlie Moore ejected by HP umpire Fred Spenn"
-"CLE197708280",69,"$Ruppert Jones called out on appeal"
-"CLE197709040",17,"Buddy Bell hurt on the play"
-"CLE197709051",42,"$Paul Dade called for obstruction"
-"CLE197709142",81,"ej,parrl001,P,clara901,Balls and strikes (While catching) Lance Parrish ejected by HP umpire Al Clark With a 2-0 count on Larvell Blanks"
-"CLE197709250",30,"$Paul Dade and Duane Kuiper collided; Kuiper suffered a bruised right thigh; Dade took a knee to the head"
-"CLE197709250",42,"Debut game for Dave Oliver"
+"CLE197704160",54,"Debut game for Bob Stanley"FILENAME_TX","LINE_NUMBER_CT"
+
+"CLE197704160",65,"$Bob Stanley fumbled the grounder, but the ball deflected to Denny Doyle who threw wildly to 1B"1977CLE.EVA.regular.comment.csv",2
+
+"CLE197705110",0,"Protest=H"1977CLE.EVA.regular.comment.csv",3
+
+"CLE197705110",4,"$Cleveland protested game, saying pinetar too high on Dan Thomas' bat"1977CLE.EVA.regular.comment.csv",4
+
+"CLE197705310",17,"1:21 rain delay"1977CLE.EVA.regular.comment.csv",5
+
+"CLE197705310",49,"ej,gricb001,P,dimul901,Call at 2B Bobby Grich ejected by 2B umpire Lou DiMuro"1977CLE.EVA.regular.comment.csv",6
+
+"CLE197706191",47,"ej,tracd101,C,goetr901,Balls and strikes Tigers Coach Dick Tracewski ejected by HP umpire Russ Goetz"1977CLE.EVA.regular.comment.csv",7
+
+"CLE197706292",80,"$Rich Dauer threw wildly to 1B and the ball went into the Cleveland dugout; 3B umpire Jim and HP umpire Vic Voltaggio signaled Jim Norris home; both clubs leave the field; Orioles manager Earl Weaver told 1B umpire Marty Springstead that Norris had to stop at 3B; Springstead agreed so both clubs came back on the field"1977CLE.EVA.regular.comment.csv",8
+
+"CLE197706300",52,"game called for rain"1977CLE.EVA.regular.comment.csv",9
+
+"CLE197707110",0,"35 minute rain delay before start of game"1977CLE.EVA.regular.comment.csv",10
+
+"CLE197707120",57,"30 minute rain delay With 1-1 count on Jim Rice"1977CLE.EVA.regular.comment.csv",11
+
+"CLE197708141",25,"ej,moorc001,P,spenf901,Balls and strikes (while catching) Charlie Moore ejected by HP umpire Fred Spenn"1977CLE.EVA.regular.comment.csv",12
+
+"CLE197708280",69,"$Ruppert Jones called out on appeal"1977CLE.EVA.regular.comment.csv",13
+
+"CLE197709040",17,"Buddy Bell hurt on the play"1977CLE.EVA.regular.comment.csv",14
+
+"CLE197709051",42,"$Paul Dade called for obstruction"1977CLE.EVA.regular.comment.csv",15
+
+"CLE197709142",81,"ej,parrl001,P,clara901,Balls and strikes (While catching) Lance Parrish ejected by HP umpire Al Clark With a 2-0 count on Larvell Blanks"1977CLE.EVA.regular.comment.csv",16
+
+"CLE197709250",30,"$Paul Dade and Duane Kuiper collided; Kuiper suffered a bruised right thigh; Dade took a knee to the head"1977CLE.EVA.regular.comment.csv",17
+
+"CLE197709250",42,"Debut game for Dave Oliver"1977CLE.EVA.regular.comment.csv",18
+

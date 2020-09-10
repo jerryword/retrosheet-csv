@@ -1,111 +1,110 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"CAL198204130",0,"Suspend=19820414,ANA01,3,3,102 ej,duncd101,C,clara901,Balls and strikes Mariners coach Dave Duncan ejected by HP umpire Al Clark sometime in game"
-"CAL198204130",139,"suspended,19820414,ANA01,curfew game suspended for curfew at 1:05 AM; finished @ 7:37 PM 4/14"
-"CAL198204160",49,"ej,gricb001,P,,Fighting $Grich ejected by unknown umpire for fighting"
-"CAL198204230",27,"ej,keoum001,P,garcr901,Going to mouth after two warnings $Matt Keough ejected by 3B umpire Rich Garcia for going to his mouth after two warnings"
-"CAL198204240",5,"Last play D9 on backup sheet"
-"CAL198204240",58,"Last play D8 on backup sheet"
-"CAL198204250",6,"Last play S1 on backup sheet"
-"CAL198204250",17,"Last play S8 on backup sheet"
-"CAL198204250",28,"Last play S7 on backup sheet"
-"CAL198205110",5,"John Mayberry injured in collision with Tim Foli"
-"CAL198205110",31,"DWS: the 1E3 and 62 are part of the SAME play Yankees show out as 7-2"
-"CAL198205150",58,"$Miguel Dilone called out for being out of batter's box"
-"CAL198206020",4,"$Wilcox hurt warming up, did not throw a pitch"
-"CAL198206060",70,"DWS: check this DP; 34(1)3 is very suspicious"
-"CAL198206180",15,"$Reggie Jackson's 2000th career hit"
-"CAL198206210",18,"Last play S9 on Angels sheet."
-"CAL198206210",32,"Last play CS2(26) on Angels sheet."
-"CAL198206210",72,"Last play S5 on Angels sheet."
-"CAL198206210",73,"Last play S8 on Angels sheet."
-"CAL198206210",76,"Last play S8 on Angels sheet."
-"CAL198206220",23,"Bruce Kison left after being hit by ball"
-"CAL198206220",45,"Last play 63 on Angels sheet."
-"CAL198206220",61,"Last play 64(1)3/GDP on Angels sheet."
-"CAL198206220",74,"Last play S5 on angels sheet."
-"CAL198206230",60,"Last play S8 on Angels sheet."
-"CAL198206240",43,"squeeze play"
-"CAL198206250",27,"note on KC sheet explaining the play"
-"CAL198206260",89,"DWS: missing play in CAL198206260"
-"CAL198206270",66,"missing play in CAL198206270"
-"CAL198207260",16,"Last play HR/8 on backup sheet"
-"CAL198207260",17,"Last play HR/8 on backup sheet"
-"CAL198207260",63,"Last play clearly HR/8 on backup sheet"
-"CAL198207260",89,"Last play clearly 9 on backup sheet"
-"CAL198207260",93,"Last play possibly 63.  Both original sheets unclear"
-"CAL198207270",2,"Last play 136 on Angels sheet"
-"CAL198207270",8,"Last play D8 on backup sheet"
-"CAL198207270",65,"Last play 9 on backup sheet"
-"CAL198207270",75,"Last play S8 on backup sheet"
-"CAL198207270",103,"Last play 7/SF on backup sheet"
-"CAL198207280",29,"Last play S8 on backup sheet"
-"CAL198207280",47,"Last play S9 on backup sheet"
-"CAL198207280",49,"Last play 43 on backup sheet"
-"CAL198207280",56,"Last play possibly S8 on backup sheet"
-"CAL198207280",65,"Last play 63 on backup sheet"
-"CAL198207280",77,"Last play S9 on backup sheet"
-"CAL198208050",64,"Debut game for Rick Steirer"
-"CAL198208220",6,"ej,andes101,M,mcclt901,Balls and strikes $Tigers manager Anderson ejected by HP umpire McClelland for arguing balls and strikes after Jackson walked"
-"CAL198209060",34,"one scoresheet had out as '85'"
-"CAL198209080",34,"Last play coded 'S5-6' on W. Sox sheet."
-"CAL198209080",75,"Last play 8 on Angels sheet."
-"CAL198209100",19,"Barry Bonnell left with back spasm after second pitch"
-"CAL198209110",50,"umpchange,7,ump1b,garcr901 umpchange,7,ump2b,(None) $1B umpire Dallas Parks left the game after colliding with Willie Upshaw; 2B umpire Richie Garcia moved to 1B"
-"CAL198209120",60,"Debut game for Dave Baker"
-"CAL198209210",36,"Don Slaught left with torn ligaments"
-"CAL198210030",20,"$Jim Farr failed to get Brian Downing in run down"
-"CAL198204130",0,"Suspend=19820414,ANA01,3,3,102 ej,duncd101,C,clara901,Balls and strikes Mariners coach Dave Duncan ejected by HP umpire Al Clark sometime in game"
-"CAL198204130",139,"suspended,19820414,ANA01,curfew game suspended for curfew at 1:05 AM; finished @ 7:37 PM 4/14"
-"CAL198204160",49,"ej,gricb001,P,,Fighting $Grich ejected by unknown umpire for fighting"
-"CAL198204230",27,"ej,keoum001,P,garcr901,Going to mouth after two warnings $Matt Keough ejected by 3B umpire Rich Garcia for going to his mouth after two warnings"
-"CAL198204240",5,"Last play D9 on backup sheet"
-"CAL198204240",58,"Last play D8 on backup sheet"
-"CAL198204250",6,"Last play S1 on backup sheet"
-"CAL198204250",17,"Last play S8 on backup sheet"
-"CAL198204250",28,"Last play S7 on backup sheet"
-"CAL198205110",5,"John Mayberry injured in collision with Tim Foli"
-"CAL198205110",31,"DWS: the 1E3 and 62 are part of the SAME play Yankees show out as 7-2"
-"CAL198205150",58,"$Miguel Dilone called out for being out of batter's box"
-"CAL198206020",4,"$Wilcox hurt warming up, did not throw a pitch"
-"CAL198206060",70,"DWS: check this DP; 34(1)3 is very suspicious"
-"CAL198206180",15,"$Reggie Jackson's 2000th career hit"
-"CAL198206210",18,"Last play S9 on Angels sheet."
-"CAL198206210",32,"Last play CS2(26) on Angels sheet."
-"CAL198206210",72,"Last play S5 on Angels sheet."
-"CAL198206210",73,"Last play S8 on Angels sheet."
-"CAL198206210",76,"Last play S8 on Angels sheet."
-"CAL198206220",23,"Bruce Kison left after being hit by ball"
-"CAL198206220",45,"Last play 63 on Angels sheet."
-"CAL198206220",61,"Last play 64(1)3/GDP on Angels sheet."
-"CAL198206220",74,"Last play S5 on angels sheet."
-"CAL198206230",60,"Last play S8 on Angels sheet."
-"CAL198206240",43,"squeeze play"
-"CAL198206250",27,"note on KC sheet explaining the play"
-"CAL198206260",89,"DWS: missing play in CAL198206260"
-"CAL198206270",66,"missing play in CAL198206270"
-"CAL198207260",16,"Last play HR/8 on backup sheet"
-"CAL198207260",17,"Last play HR/8 on backup sheet"
-"CAL198207260",63,"Last play clearly HR/8 on backup sheet"
-"CAL198207260",89,"Last play clearly 9 on backup sheet"
-"CAL198207260",93,"Last play possibly 63.  Both original sheets unclear"
-"CAL198207270",2,"Last play 136 on Angels sheet"
-"CAL198207270",8,"Last play D8 on backup sheet"
-"CAL198207270",65,"Last play 9 on backup sheet"
-"CAL198207270",75,"Last play S8 on backup sheet"
-"CAL198207270",103,"Last play 7/SF on backup sheet"
-"CAL198207280",29,"Last play S8 on backup sheet"
-"CAL198207280",47,"Last play S9 on backup sheet"
-"CAL198207280",49,"Last play 43 on backup sheet"
-"CAL198207280",56,"Last play possibly S8 on backup sheet"
-"CAL198207280",65,"Last play 63 on backup sheet"
-"CAL198207280",77,"Last play S9 on backup sheet"
-"CAL198208050",64,"Debut game for Rick Steirer"
-"CAL198208220",6,"ej,andes101,M,mcclt901,Balls and strikes $Tigers manager Anderson ejected by HP umpire McClelland for arguing balls and strikes after Jackson walked"
-"CAL198209060",34,"one scoresheet had out as '85'"
-"CAL198209080",34,"Last play coded 'S5-6' on W. Sox sheet."
-"CAL198209080",75,"Last play 8 on Angels sheet."
-"CAL198209100",19,"Barry Bonnell left with back spasm after second pitch"
-"CAL198209110",50,"umpchange,7,ump1b,garcr901 umpchange,7,ump2b,(None) $1B umpire Dallas Parks left the game after colliding with Willie Upshaw; 2B umpire Richie Garcia moved to 1B"
-"CAL198209120",60,"Debut game for Dave Baker"
-"CAL198209210",36,"Don Slaught left with torn ligaments"
-"CAL198210030",20,"$Jim Farr failed to get Brian Downing in run down"
+"CAL198204130",0,"Suspend=19820414,ANA01,3,3,102 ej,duncd101,C,clara901,Balls and strikes Mariners coach Dave Duncan ejected by HP umpire Al Clark sometime in game"FILENAME_TX","LINE_NUMBER_CT"
+
+"CAL198204130",139,"suspended,19820414,ANA01,curfew game suspended for curfew at 1:05 AM; finished @ 7:37 PM 4/14"1982CAL.EVA.regular.comment.csv",2
+
+"CAL198204160",49,"ej,gricb001,P,,Fighting $Grich ejected by unknown umpire for fighting"1982CAL.EVA.regular.comment.csv",3
+
+"CAL198204230",27,"ej,keoum001,P,garcr901,Going to mouth after two warnings $Matt Keough ejected by 3B umpire Rich Garcia for going to his mouth after two warnings"1982CAL.EVA.regular.comment.csv",4
+
+"CAL198204240",5,"Last play D9 on backup sheet"1982CAL.EVA.regular.comment.csv",5
+
+"CAL198204240",58,"Last play D8 on backup sheet"1982CAL.EVA.regular.comment.csv",6
+
+"CAL198204250",6,"Last play S1 on backup sheet"1982CAL.EVA.regular.comment.csv",7
+
+"CAL198204250",17,"Last play S8 on backup sheet"1982CAL.EVA.regular.comment.csv",8
+
+"CAL198204250",28,"Last play S7 on backup sheet"1982CAL.EVA.regular.comment.csv",9
+
+"CAL198205110",5,"John Mayberry injured in collision with Tim Foli"1982CAL.EVA.regular.comment.csv",10
+
+"CAL198205110",31,"DWS: the 1E3 and 62 are part of the SAME play Yankees show out as 7-2"1982CAL.EVA.regular.comment.csv",11
+
+"CAL198205150",58,"$Miguel Dilone called out for being out of batter's box"1982CAL.EVA.regular.comment.csv",12
+
+"CAL198206020",4,"$Wilcox hurt warming up, did not throw a pitch"1982CAL.EVA.regular.comment.csv",13
+
+"CAL198206060",70,"DWS: check this DP; 34(1)3 is very suspicious"1982CAL.EVA.regular.comment.csv",14
+
+"CAL198206180",15,"$Reggie Jackson's 2000th career hit"1982CAL.EVA.regular.comment.csv",15
+
+"CAL198206210",18,"Last play S9 on Angels sheet."1982CAL.EVA.regular.comment.csv",16
+
+"CAL198206210",32,"Last play CS2(26) on Angels sheet."1982CAL.EVA.regular.comment.csv",17
+
+"CAL198206210",72,"Last play S5 on Angels sheet."1982CAL.EVA.regular.comment.csv",18
+
+"CAL198206210",73,"Last play S8 on Angels sheet."1982CAL.EVA.regular.comment.csv",19
+
+"CAL198206210",76,"Last play S8 on Angels sheet."1982CAL.EVA.regular.comment.csv",20
+
+"CAL198206220",23,"Bruce Kison left after being hit by ball"1982CAL.EVA.regular.comment.csv",21
+
+"CAL198206220",45,"Last play 63 on Angels sheet."1982CAL.EVA.regular.comment.csv",22
+
+"CAL198206220",61,"Last play 64(1)3/GDP on Angels sheet."1982CAL.EVA.regular.comment.csv",23
+
+"CAL198206220",74,"Last play S5 on angels sheet."1982CAL.EVA.regular.comment.csv",24
+
+"CAL198206230",60,"Last play S8 on Angels sheet."1982CAL.EVA.regular.comment.csv",25
+
+"CAL198206240",43,"squeeze play"1982CAL.EVA.regular.comment.csv",26
+
+"CAL198206250",27,"note on KC sheet explaining the play"1982CAL.EVA.regular.comment.csv",27
+
+"CAL198206260",89,"DWS: missing play in CAL198206260"1982CAL.EVA.regular.comment.csv",28
+
+"CAL198206270",66,"missing play in CAL198206270"1982CAL.EVA.regular.comment.csv",29
+
+"CAL198207260",16,"Last play HR/8 on backup sheet"1982CAL.EVA.regular.comment.csv",30
+
+"CAL198207260",17,"Last play HR/8 on backup sheet"1982CAL.EVA.regular.comment.csv",31
+
+"CAL198207260",63,"Last play clearly HR/8 on backup sheet"1982CAL.EVA.regular.comment.csv",32
+
+"CAL198207260",89,"Last play clearly 9 on backup sheet"1982CAL.EVA.regular.comment.csv",33
+
+"CAL198207260",93,"Last play possibly 63.  Both original sheets unclear"1982CAL.EVA.regular.comment.csv",34
+
+"CAL198207270",2,"Last play 136 on Angels sheet"1982CAL.EVA.regular.comment.csv",35
+
+"CAL198207270",8,"Last play D8 on backup sheet"1982CAL.EVA.regular.comment.csv",36
+
+"CAL198207270",65,"Last play 9 on backup sheet"1982CAL.EVA.regular.comment.csv",37
+
+"CAL198207270",75,"Last play S8 on backup sheet"1982CAL.EVA.regular.comment.csv",38
+
+"CAL198207270",103,"Last play 7/SF on backup sheet"1982CAL.EVA.regular.comment.csv",39
+
+"CAL198207280",29,"Last play S8 on backup sheet"1982CAL.EVA.regular.comment.csv",40
+
+"CAL198207280",47,"Last play S9 on backup sheet"1982CAL.EVA.regular.comment.csv",41
+
+"CAL198207280",49,"Last play 43 on backup sheet"1982CAL.EVA.regular.comment.csv",42
+
+"CAL198207280",56,"Last play possibly S8 on backup sheet"1982CAL.EVA.regular.comment.csv",43
+
+"CAL198207280",65,"Last play 63 on backup sheet"1982CAL.EVA.regular.comment.csv",44
+
+"CAL198207280",77,"Last play S9 on backup sheet"1982CAL.EVA.regular.comment.csv",45
+
+"CAL198208050",64,"Debut game for Rick Steirer"1982CAL.EVA.regular.comment.csv",46
+
+"CAL198208220",6,"ej,andes101,M,mcclt901,Balls and strikes $Tigers manager Anderson ejected by HP umpire McClelland for arguing balls and strikes after Jackson walked"1982CAL.EVA.regular.comment.csv",47
+
+"CAL198209060",34,"one scoresheet had out as '85'"1982CAL.EVA.regular.comment.csv",48
+
+"CAL198209080",34,"Last play coded 'S5-6' on W. Sox sheet."1982CAL.EVA.regular.comment.csv",49
+
+"CAL198209080",75,"Last play 8 on Angels sheet."1982CAL.EVA.regular.comment.csv",50
+
+"CAL198209100",19,"Barry Bonnell left with back spasm after second pitch"1982CAL.EVA.regular.comment.csv",51
+
+"CAL198209110",50,"umpchange,7,ump1b,garcr901 umpchange,7,ump2b,(None) $1B umpire Dallas Parks left the game after colliding with Willie Upshaw; 2B umpire Richie Garcia moved to 1B"1982CAL.EVA.regular.comment.csv",52
+
+"CAL198209120",60,"Debut game for Dave Baker"1982CAL.EVA.regular.comment.csv",53
+
+"CAL198209210",36,"Don Slaught left with torn ligaments"1982CAL.EVA.regular.comment.csv",54
+
+"CAL198210030",20,"$Jim Farr failed to get Brian Downing in run down"1982CAL.EVA.regular.comment.csv",55
+

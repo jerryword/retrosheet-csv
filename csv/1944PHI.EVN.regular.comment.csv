@@ -1,23 +1,22 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"PHI194404301",61,"ej,wasdj101,P,stewb901,Balls and strikes (Threw bat) Jimmy Wasdell ejected by HP umpire Bill Stewart"
-"PHI194404302",80,"$game called due to curfew; tie game"
-"PHI194405281",23,"$Bob Elliott left with a spike wound"
-"PHI194405282",18,"ej,dimav101,P,barrg901,Call at 2B ej,lopea102,P,barrg901,Call at 2B Vince DiMaggio and Al Lopez ejected by 3B umpire George Barr"
-"PHI194405290",9,"ej,frisf101,M,barrg901,Called strike 3 Pirate manager Frisch ejected by HP umpire George Barr for arguing strike 3 to Dahlgren sometime in game"
-"PHI194405310",62,"$After pitcher dropped ball, Adams went to third when throw home got past catcher, but pitcher retrieved it and threw home again to retire Adams"
-"PHI194407162",0,"Suspend=19440915,,6,3,48"
-"PHI194407162",78,"suspended,19440915,PHI11,curfew $game called for curfew at 6:44, completed on 9/15 with same umpire crew"
-"PHI194407202",59,"ej,frisf101,M,balll901,Balls and strikes $Pirate manager Frisch ejected by HP umpire Ballanfant for arguing balls and strikes"
-"PHI194407250",77,"ej,coopw102,P,conlj102,Balls and strikes Walker Cooper ejected by HP umpire Jocko Conlan"
-"PHI194409211",94,"last two plays one play"
-"PHI194404301",61,"ej,wasdj101,P,stewb901,Balls and strikes (Threw bat) Jimmy Wasdell ejected by HP umpire Bill Stewart"
-"PHI194404302",80,"$game called due to curfew; tie game"
-"PHI194405281",23,"$Bob Elliott left with a spike wound"
-"PHI194405282",18,"ej,dimav101,P,barrg901,Call at 2B ej,lopea102,P,barrg901,Call at 2B Vince DiMaggio and Al Lopez ejected by 3B umpire George Barr"
-"PHI194405290",9,"ej,frisf101,M,barrg901,Called strike 3 Pirate manager Frisch ejected by HP umpire George Barr for arguing strike 3 to Dahlgren sometime in game"
-"PHI194405310",62,"$After pitcher dropped ball, Adams went to third when throw home got past catcher, but pitcher retrieved it and threw home again to retire Adams"
-"PHI194407162",0,"Suspend=19440915,,6,3,48"
-"PHI194407162",78,"suspended,19440915,PHI11,curfew $game called for curfew at 6:44, completed on 9/15 with same umpire crew"
-"PHI194407202",59,"ej,frisf101,M,balll901,Balls and strikes $Pirate manager Frisch ejected by HP umpire Ballanfant for arguing balls and strikes"
-"PHI194407250",77,"ej,coopw102,P,conlj102,Balls and strikes Walker Cooper ejected by HP umpire Jocko Conlan"
-"PHI194409211",94,"last two plays one play"
+"PHI194404301",61,"ej,wasdj101,P,stewb901,Balls and strikes (Threw bat) Jimmy Wasdell ejected by HP umpire Bill Stewart"FILENAME_TX","LINE_NUMBER_CT"
+
+"PHI194404302",80,"$game called due to curfew; tie game"1944PHI.EVN.regular.comment.csv",2
+
+"PHI194405281",23,"$Bob Elliott left with a spike wound"1944PHI.EVN.regular.comment.csv",3
+
+"PHI194405282",18,"ej,dimav101,P,barrg901,Call at 2B ej,lopea102,P,barrg901,Call at 2B Vince DiMaggio and Al Lopez ejected by 3B umpire George Barr"1944PHI.EVN.regular.comment.csv",4
+
+"PHI194405290",9,"ej,frisf101,M,barrg901,Called strike 3 Pirate manager Frisch ejected by HP umpire George Barr for arguing strike 3 to Dahlgren sometime in game"1944PHI.EVN.regular.comment.csv",5
+
+"PHI194405310",62,"$After pitcher dropped ball, Adams went to third when throw home got past catcher, but pitcher retrieved it and threw home again to retire Adams"1944PHI.EVN.regular.comment.csv",6
+
+"PHI194407162",0,"Suspend=19440915,,6,3,48"1944PHI.EVN.regular.comment.csv",7
+
+"PHI194407162",78,"suspended,19440915,PHI11,curfew $game called for curfew at 6:44, completed on 9/15 with same umpire crew"1944PHI.EVN.regular.comment.csv",8
+
+"PHI194407202",59,"ej,frisf101,M,balll901,Balls and strikes $Pirate manager Frisch ejected by HP umpire Ballanfant for arguing balls and strikes"1944PHI.EVN.regular.comment.csv",9
+
+"PHI194407250",77,"ej,coopw102,P,conlj102,Balls and strikes Walker Cooper ejected by HP umpire Jocko Conlan"1944PHI.EVN.regular.comment.csv",10
+
+"PHI194409211",94,"last two plays one play"1944PHI.EVN.regular.comment.csv",11
+

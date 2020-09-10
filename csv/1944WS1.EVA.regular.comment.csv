@@ -1,35 +1,34 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"WS1194404180",0,"Debut for umpire Red Jones"
-"WS1194404301",7,"$Major League debut for Mike Milosevich"
-"WS1194405100",10,"$Ferrell split his thumb on a Niggeling knuckleball sometime during this inning"
-"WS1194405110",70,"ej,kuhej101,P,stewe901,Called strike 3 $Kuhel ejected by HP umpire Stewart for arguing strike 3"
-"WS1194405130",23,"$Myatt left with a lame leg"
-"WS1194406120",62,"ej,methb101,P,weafh901,Fighting ej,myatg102,P,weafh901,Fighting $Myatt tagged Metheny hard knocking him to the ground Metheny took exception and the two started to fight Both benches emptied and both players were ejected; they started to fight again on the way to the dressing rooms"
-"WS1194406280",7,"$Case scored from second on an infield out"
-"WS1194406290",0,"Scorecard's fielding plays missing, many suspect Out plays adjusted to fielding data in boxes"
-"WS1194406290",61,"$busted squeeze play"
-"WS1194407010",26,"$Hoag rounded third and got in rundown, returning safely to third when Ferrell dropped the ball"
-"WS1194407021",28,"$Case dove for ball and dislocated shoulder, left in pain"
-"WS1194407070",0,"Fund raising military appreciation night draws larger crowd Walter Johnson, Muddy Ruel of 1924 WS winning team appear in staged three batter 'exhibition' and retire Luke Sewell, Ossie Bluege, and Joe Kuhel"
-"WS1194408160",16,"$Myatt leave game with lame leg $Eddie Yost's major league debut"
-"WS1194408202",0,"$Early Wynn's last appearance of 1944 before joining Navy"
-"WS1194408260",49,"$Crosetti muffed the popup but Lindell caught it"
-"WS1194409041",34,"$Leonard's knuckler sent Ferrell out with a bashed hand"
-"WS1194409042",70,"pbp account ends here, rest deduced"
-"WS1194404180",0,"Debut for umpire Red Jones"
-"WS1194404301",7,"$Major League debut for Mike Milosevich"
-"WS1194405100",10,"$Ferrell split his thumb on a Niggeling knuckleball sometime during this inning"
-"WS1194405110",70,"ej,kuhej101,P,stewe901,Called strike 3 $Kuhel ejected by HP umpire Stewart for arguing strike 3"
-"WS1194405130",23,"$Myatt left with a lame leg"
-"WS1194406120",62,"ej,methb101,P,weafh901,Fighting ej,myatg102,P,weafh901,Fighting $Myatt tagged Metheny hard knocking him to the ground Metheny took exception and the two started to fight Both benches emptied and both players were ejected; they started to fight again on the way to the dressing rooms"
-"WS1194406280",7,"$Case scored from second on an infield out"
-"WS1194406290",0,"Scorecard's fielding plays missing, many suspect Out plays adjusted to fielding data in boxes"
-"WS1194406290",61,"$busted squeeze play"
-"WS1194407010",26,"$Hoag rounded third and got in rundown, returning safely to third when Ferrell dropped the ball"
-"WS1194407021",28,"$Case dove for ball and dislocated shoulder, left in pain"
-"WS1194407070",0,"Fund raising military appreciation night draws larger crowd Walter Johnson, Muddy Ruel of 1924 WS winning team appear in staged three batter 'exhibition' and retire Luke Sewell, Ossie Bluege, and Joe Kuhel"
-"WS1194408160",16,"$Myatt leave game with lame leg $Eddie Yost's major league debut"
-"WS1194408202",0,"$Early Wynn's last appearance of 1944 before joining Navy"
-"WS1194408260",49,"$Crosetti muffed the popup but Lindell caught it"
-"WS1194409041",34,"$Leonard's knuckler sent Ferrell out with a bashed hand"
-"WS1194409042",70,"pbp account ends here, rest deduced"
+"WS1194404180",0,"Debut for umpire Red Jones"FILENAME_TX","LINE_NUMBER_CT"
+
+"WS1194404301",7,"$Major League debut for Mike Milosevich"1944WS1.EVA.regular.comment.csv",2
+
+"WS1194405100",10,"$Ferrell split his thumb on a Niggeling knuckleball sometime during this inning"1944WS1.EVA.regular.comment.csv",3
+
+"WS1194405110",70,"ej,kuhej101,P,stewe901,Called strike 3 $Kuhel ejected by HP umpire Stewart for arguing strike 3"1944WS1.EVA.regular.comment.csv",4
+
+"WS1194405130",23,"$Myatt left with a lame leg"1944WS1.EVA.regular.comment.csv",5
+
+"WS1194406120",62,"ej,methb101,P,weafh901,Fighting ej,myatg102,P,weafh901,Fighting $Myatt tagged Metheny hard knocking him to the ground Metheny took exception and the two started to fight Both benches emptied and both players were ejected; they started to fight again on the way to the dressing rooms"1944WS1.EVA.regular.comment.csv",6
+
+"WS1194406280",7,"$Case scored from second on an infield out"1944WS1.EVA.regular.comment.csv",7
+
+"WS1194406290",0,"Scorecard's fielding plays missing, many suspect Out plays adjusted to fielding data in boxes"1944WS1.EVA.regular.comment.csv",8
+
+"WS1194406290",61,"$busted squeeze play"1944WS1.EVA.regular.comment.csv",9
+
+"WS1194407010",26,"$Hoag rounded third and got in rundown, returning safely to third when Ferrell dropped the ball"1944WS1.EVA.regular.comment.csv",10
+
+"WS1194407021",28,"$Case dove for ball and dislocated shoulder, left in pain"1944WS1.EVA.regular.comment.csv",11
+
+"WS1194407070",0,"Fund raising military appreciation night draws larger crowd Walter Johnson, Muddy Ruel of 1924 WS winning team appear in staged three batter 'exhibition' and retire Luke Sewell, Ossie Bluege, and Joe Kuhel"1944WS1.EVA.regular.comment.csv",12
+
+"WS1194408160",16,"$Myatt leave game with lame leg $Eddie Yost's major league debut"1944WS1.EVA.regular.comment.csv",13
+
+"WS1194408202",0,"$Early Wynn's last appearance of 1944 before joining Navy"1944WS1.EVA.regular.comment.csv",14
+
+"WS1194408260",49,"$Crosetti muffed the popup but Lindell caught it"1944WS1.EVA.regular.comment.csv",15
+
+"WS1194409041",34,"$Leonard's knuckler sent Ferrell out with a bashed hand"1944WS1.EVA.regular.comment.csv",16
+
+"WS1194409042",70,"pbp account ends here, rest deduced"1944WS1.EVA.regular.comment.csv",17
+

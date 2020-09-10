@@ -1,49 +1,48 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"CIN197704060",1,"Debut game for Gene Richards"
-"CIN197704060",72,"Debut game for Victor Bernal"
-"CIN197704100",1,"Debut game for Bob Shirley"
-"CIN197705020",38,"$Fred Norman let John Denny's pop bunt drop"
-"CIN197705130",17,"$Larry Herndon out on appeal for missing HP"
-"CIN197705180",53,"ej,andes101,M,pryop901,Balk non-call Reds Manager Sparky Anderson ejected by 1B umpire Paul Pryor"
-"CIN197705310",69,"ej,brisd801,M,weyel901,Call at 2B (Bumped umpire) Braves Manager Dave Bristol ejected by 2B umpire Lee Weyer"
-"CIN197706020",89,"$Jose Cruz hit into 46 force out, but Reds manager Sparky Anderson had come out of dugout and called time to make pitching change so the play was nullified"
-"CIN197706122",13,"$overthrow at 1B; Dan Driessen out in rundown"
-"CIN197706250",35,"$pitchout on squeeze play"
-"CIN197706270",12,"ej,altoj101,M,harvd901,Balls and strikes (dropped third strike) ej,starh101,C,harvd901,Balls and strikes (dropped third strike) Giants Manager Joe Altobelli and Giants Coach Herm Starrette ejected by HP umpire Doug Harvey arguing that catcher Marc Hill had caught the third strike and that Cesar Geronimo ran out of the baseline"
-"CIN197706280",0,"30 minute rain delay before start of game"
-"CIN197706280",12,"67 minute rain delay"
-"CIN197706300",71,"ej,plumb101,P,crawj901,Arguing ball call $Catcher Plummer ejected by HP umpire Crawford for ball 2 call to Elliott"
-"CIN197706300",76,"25 minute rain delay"
-"CIN197707160",62,"ej,andes101,M,willa901,Warning to his pitcher Reds Manager Sparky Anderson ejected by HP umpire Art Williams after Dale Murray warned for throwing at Bob Watson"
-"CIN197707160",68,"38 minute rain delay"
-"CIN197708020",66,"ej,morgj001,P,kiblj901,Call at 1B ej,andes101,M,kiblj901,Call at 1B Joe Morgan and Reds Manager Sparky Anderson ejected by 1B umpire John Kibler"
-"CIN197708051",79,"ej,hoerj101,P,quicj901,Intentional HBP ej,tavef101,P,quicj901,Throwing bat after HBP $Frank Taveras threw his bat at Joe Hoerner after HBP; Hoerner punched Taveras in the face; both benches cleared; Taveras and Hoerner ejected by HP umpire Jim Quick and Taveras suspended for 5 games"
-"CIN197708260",79,"ej,mccat101,P,tatat901,Called third strike Tim McCarver ejected by HP umpire Terry Tata"
-"CIN197708280",67,"ej,bowal001,P,davis901,Call at 1B Larry Bowa ejected by 1B umpire Satch Davidson"
-"CIN197709100",48,"Debut game for Robert Castillo"
-"CIN197709100",64,"Debut game for Ron Washington"
-"CIN197709120",31,"Debut game for Angel Torres"
-"CIN197704060",1,"Debut game for Gene Richards"
-"CIN197704060",72,"Debut game for Victor Bernal"
-"CIN197704100",1,"Debut game for Bob Shirley"
-"CIN197705020",38,"$Fred Norman let John Denny's pop bunt drop"
-"CIN197705130",17,"$Larry Herndon out on appeal for missing HP"
-"CIN197705180",53,"ej,andes101,M,pryop901,Balk non-call Reds Manager Sparky Anderson ejected by 1B umpire Paul Pryor"
-"CIN197705310",69,"ej,brisd801,M,weyel901,Call at 2B (Bumped umpire) Braves Manager Dave Bristol ejected by 2B umpire Lee Weyer"
-"CIN197706020",89,"$Jose Cruz hit into 46 force out, but Reds manager Sparky Anderson had come out of dugout and called time to make pitching change so the play was nullified"
-"CIN197706122",13,"$overthrow at 1B; Dan Driessen out in rundown"
-"CIN197706250",35,"$pitchout on squeeze play"
-"CIN197706270",12,"ej,altoj101,M,harvd901,Balls and strikes (dropped third strike) ej,starh101,C,harvd901,Balls and strikes (dropped third strike) Giants Manager Joe Altobelli and Giants Coach Herm Starrette ejected by HP umpire Doug Harvey arguing that catcher Marc Hill had caught the third strike and that Cesar Geronimo ran out of the baseline"
-"CIN197706280",0,"30 minute rain delay before start of game"
-"CIN197706280",12,"67 minute rain delay"
-"CIN197706300",71,"ej,plumb101,P,crawj901,Arguing ball call $Catcher Plummer ejected by HP umpire Crawford for ball 2 call to Elliott"
-"CIN197706300",76,"25 minute rain delay"
-"CIN197707160",62,"ej,andes101,M,willa901,Warning to his pitcher Reds Manager Sparky Anderson ejected by HP umpire Art Williams after Dale Murray warned for throwing at Bob Watson"
-"CIN197707160",68,"38 minute rain delay"
-"CIN197708020",66,"ej,morgj001,P,kiblj901,Call at 1B ej,andes101,M,kiblj901,Call at 1B Joe Morgan and Reds Manager Sparky Anderson ejected by 1B umpire John Kibler"
-"CIN197708051",79,"ej,hoerj101,P,quicj901,Intentional HBP ej,tavef101,P,quicj901,Throwing bat after HBP $Frank Taveras threw his bat at Joe Hoerner after HBP; Hoerner punched Taveras in the face; both benches cleared; Taveras and Hoerner ejected by HP umpire Jim Quick and Taveras suspended for 5 games"
-"CIN197708260",79,"ej,mccat101,P,tatat901,Called third strike Tim McCarver ejected by HP umpire Terry Tata"
-"CIN197708280",67,"ej,bowal001,P,davis901,Call at 1B Larry Bowa ejected by 1B umpire Satch Davidson"
-"CIN197709100",48,"Debut game for Robert Castillo"
-"CIN197709100",64,"Debut game for Ron Washington"
-"CIN197709120",31,"Debut game for Angel Torres"
+"CIN197704060",1,"Debut game for Gene Richards"FILENAME_TX","LINE_NUMBER_CT"
+
+"CIN197704060",72,"Debut game for Victor Bernal"1977CIN.EVN.regular.comment.csv",2
+
+"CIN197704100",1,"Debut game for Bob Shirley"1977CIN.EVN.regular.comment.csv",3
+
+"CIN197705020",38,"$Fred Norman let John Denny's pop bunt drop"1977CIN.EVN.regular.comment.csv",4
+
+"CIN197705130",17,"$Larry Herndon out on appeal for missing HP"1977CIN.EVN.regular.comment.csv",5
+
+"CIN197705180",53,"ej,andes101,M,pryop901,Balk non-call Reds Manager Sparky Anderson ejected by 1B umpire Paul Pryor"1977CIN.EVN.regular.comment.csv",6
+
+"CIN197705310",69,"ej,brisd801,M,weyel901,Call at 2B (Bumped umpire) Braves Manager Dave Bristol ejected by 2B umpire Lee Weyer"1977CIN.EVN.regular.comment.csv",7
+
+"CIN197706020",89,"$Jose Cruz hit into 46 force out, but Reds manager Sparky Anderson had come out of dugout and called time to make pitching change so the play was nullified"1977CIN.EVN.regular.comment.csv",8
+
+"CIN197706122",13,"$overthrow at 1B; Dan Driessen out in rundown"1977CIN.EVN.regular.comment.csv",9
+
+"CIN197706250",35,"$pitchout on squeeze play"1977CIN.EVN.regular.comment.csv",10
+
+"CIN197706270",12,"ej,altoj101,M,harvd901,Balls and strikes (dropped third strike) ej,starh101,C,harvd901,Balls and strikes (dropped third strike) Giants Manager Joe Altobelli and Giants Coach Herm Starrette ejected by HP umpire Doug Harvey arguing that catcher Marc Hill had caught the third strike and that Cesar Geronimo ran out of the baseline"1977CIN.EVN.regular.comment.csv",11
+
+"CIN197706280",0,"30 minute rain delay before start of game"1977CIN.EVN.regular.comment.csv",12
+
+"CIN197706280",12,"67 minute rain delay"1977CIN.EVN.regular.comment.csv",13
+
+"CIN197706300",71,"ej,plumb101,P,crawj901,Arguing ball call $Catcher Plummer ejected by HP umpire Crawford for ball 2 call to Elliott"1977CIN.EVN.regular.comment.csv",14
+
+"CIN197706300",76,"25 minute rain delay"1977CIN.EVN.regular.comment.csv",15
+
+"CIN197707160",62,"ej,andes101,M,willa901,Warning to his pitcher Reds Manager Sparky Anderson ejected by HP umpire Art Williams after Dale Murray warned for throwing at Bob Watson"1977CIN.EVN.regular.comment.csv",16
+
+"CIN197707160",68,"38 minute rain delay"1977CIN.EVN.regular.comment.csv",17
+
+"CIN197708020",66,"ej,morgj001,P,kiblj901,Call at 1B ej,andes101,M,kiblj901,Call at 1B Joe Morgan and Reds Manager Sparky Anderson ejected by 1B umpire John Kibler"1977CIN.EVN.regular.comment.csv",18
+
+"CIN197708051",79,"ej,hoerj101,P,quicj901,Intentional HBP ej,tavef101,P,quicj901,Throwing bat after HBP $Frank Taveras threw his bat at Joe Hoerner after HBP; Hoerner punched Taveras in the face; both benches cleared; Taveras and Hoerner ejected by HP umpire Jim Quick and Taveras suspended for 5 games"1977CIN.EVN.regular.comment.csv",19
+
+"CIN197708260",79,"ej,mccat101,P,tatat901,Called third strike Tim McCarver ejected by HP umpire Terry Tata"1977CIN.EVN.regular.comment.csv",20
+
+"CIN197708280",67,"ej,bowal001,P,davis901,Call at 1B Larry Bowa ejected by 1B umpire Satch Davidson"1977CIN.EVN.regular.comment.csv",21
+
+"CIN197709100",48,"Debut game for Robert Castillo"1977CIN.EVN.regular.comment.csv",22
+
+"CIN197709100",64,"Debut game for Ron Washington"1977CIN.EVN.regular.comment.csv",23
+
+"CIN197709120",31,"Debut game for Angel Torres"1977CIN.EVN.regular.comment.csv",24
+

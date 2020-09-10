@@ -1,55 +1,54 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"MIN200504140",39,"ej,gardr001,M,hicke901,Arguing warning to pitcher Twins Manager Ron Gardenhire ejected by HP umpire Ed Hickox after Hickox warned both teams about throwing at batters"
-"MIN200504210",83,"Twins catcher Mike Redmond left the game due to an injured chest"
-"MIN200505010",26,"Angels second baseman Lou Merloni left the game due to an injured foot/ankle"
-"MIN200505030",84,"$Wickman balked intentionally so he would not be distracted by possibility of sign stealing from runner on 2nd"
-"MIN200505050",60,"ej,gardr001,M,barrt901,After his player HP Twins Manager Ron Gardenhire ejected by HP umpire Ted Barrett"
-"MIN200505150",20,"Rangers Michael Young left the game due to an injured back"
-"MIN200505190",9,"$Koskie slid headfirst and broke his thumb on the base; placed on DL after game"
-"MIN200505210",62,"Debut game for Luis Rodriguez"
-"MIN200505310",4,"Indians RF Juan Gonzalez left the game due to an injured leg. Onto DL next day with pulled hamstring"
-"MIN200505310",45,"ej,gardr001,M,hohnb901,Arguing warning to pitcher Twins Manager Ron Gardenhire ejected by HP umpire Bill Hohn"
-"MIN200506020",31,"Twins first baseman Justin Morneau left the game due to an injured elbow"
-"MIN200506020",54,"Twins second baseman Nick Punto left the game due to an injured leg"
-"MIN200506160",2,"Debut game for Adam Shabala"
-"MIN200506160",32,"Twins shortstop Juan Castro left the game due to an injured foot/ankle"
-"MIN200506170",76,"Twins pitcher J. C. Romero left the game due to an injured foot/ankle"
-"MIN200506190",49,"ej,gardr001,M,kellk901,Balls and strikes Twins Manager Ron Gardenhire ejected by HP umpire Kevin Kelley"
-"MIN200506220",14,"Tigers Dmitri Young left the game due to an injured hand/wrist"
-"MIN200506280",42,"Twins 3B Glenn Williams left the game due to an injured neck/shoulder"
-"MIN200506280",74,"$Lew Ford called for interference"
-"MIN200506290",59,"Twins 3B Michael Cuddyer left the game due to an injured hand/wrist"
-"MIN200507180",60,"ej,gardr001,M,wendh902,Balls and strikes Twins Manager Ron Gardenhire ejected by HP umpire Hunter Wendelstedt"
-"MIN200508070",33,"$Tony Graffanino called for interference"
-"MIN200508070",65,"Twins third baseman Michael Cuddyer left the game due to an injured knee"
-"MIN200508210",58,"ej,nagec001,P,poncl901,Throwing pitch over batter's head Mariners pitcher Clint Nageotte ejected by HP umpire Larry Poncino"
-"MIN200508230",24,"Stewart hurt crashing into wall while catching Konerko's fly"
-"MIN200509050",65,"Debut game for Francisco Liriano Liriano surrenders homer to first batter faced in major leagues"
-"MIN200509070",19,"Rangers pitcher Chris Young left the game due to an injured arm"
-"MIN200504140",39,"ej,gardr001,M,hicke901,Arguing warning to pitcher Twins Manager Ron Gardenhire ejected by HP umpire Ed Hickox after Hickox warned both teams about throwing at batters"
-"MIN200504210",83,"Twins catcher Mike Redmond left the game due to an injured chest"
-"MIN200505010",26,"$Merloni left the game due to an injured foot/ankle"
-"MIN200505030",84,"$Wickman balked intentionally so he would not be distracted by possibility of sign stealing from runner on 2nd"
-"MIN200505050",60,"ej,gardr001,M,barrt901,Aruing issuing of warning $Twins manager Gardenhire ejected by HP umpire Barrett for arguing that warning should not have been issued"
-"MIN200505150",20,"Rangers Michael Young left the game due to an injured back"
-"MIN200505190",9,"$Koskie slid headfirst and broke his thumb on the base; placed on DL after game"
-"MIN200505210",62,"Debut game for Luis Rodriguez"
-"MIN200505310",4,"$Gonzalez left the game with injured leg, onto DL next day with pulled hamstring"
-"MIN200505310",45,"ej,gardr001,M,hohnb901,Arguing warning to pitcher $Twins manager Gardenhire ejected by HP umpire Hohn for arguing against the issuing of warnings"
-"MIN200506020",31,"Twins first baseman Justin Morneau left the game due to an injured elbow"
-"MIN200506020",54,"Twins second baseman Nick Punto left the game due to an injured leg"
-"MIN200506160",2,"Debut game for Adam Shabala"
-"MIN200506160",32,"Twins shortstop Juan Castro left the game due to an injured foot/ankle"
-"MIN200506170",76,"Twins pitcher J. C. Romero left the game due to an injured foot/ankle"
-"MIN200506190",49,"ej,gardr001,M,kellk901,Balls and strikes Twins Manager Ron Gardenhire ejected by HP umpire Kevin Kelley"
-"MIN200506220",14,"Tigers Dmitri Young left the game due to an injured hand/wrist"
-"MIN200506280",42,"Twins 3B Glenn Williams left the game due to an injured neck/shoulder"
-"MIN200506280",74,"$Lew Ford called for interference"
-"MIN200506290",59,"Twins 3B Michael Cuddyer left the game due to an injured hand/wrist"
-"MIN200507180",60,"ej,gardr001,M,wendh902,Balls and strikes Twins Manager Ron Gardenhire ejected by HP umpire Hunter Wendelstedt"
-"MIN200508070",33,"$Tony Graffanino called for interference"
-"MIN200508070",65,"Twins third baseman Michael Cuddyer left the game due to an injured knee"
-"MIN200508210",58,"ej,nagec001,P,poncl901,Throwing pitch over batter's head Mariners pitcher Clint Nageotte ejected by HP umpire Larry Poncino"
-"MIN200508230",24,"Stewart hurt crashing into wall while catching Konerko's fly"
-"MIN200509050",65,"Debut game for Francisco Liriano Liriano surrenders homer to first batter faced in major leagues"
-"MIN200509070",19,"Rangers pitcher Chris Young left the game due to an injured arm"
+"MIN200504140",39,"ej,gardr001,M,hicke901,Arguing warning to pitcher Twins Manager Ron Gardenhire ejected by HP umpire Ed Hickox after Hickox warned both teams about throwing at batters"FILENAME_TX","LINE_NUMBER_CT"
+
+"MIN200504210",83,"Twins catcher Mike Redmond left the game due to an injured chest"2005MIN.EVA.regular.comment.csv",2
+
+"MIN200505010",26,"$Merloni left the game due to an injured foot/ankle"2005MIN.EVA.regular.comment.csv",3
+
+"MIN200505030",84,"$Wickman balked intentionally so he would not be distracted by possibility of sign stealing from runner on 2nd"2005MIN.EVA.regular.comment.csv",4
+
+"MIN200505050",60,"ej,gardr001,M,barrt901,Aruing issuing of warning $Twins manager Gardenhire ejected by HP umpire Barrett for arguing that warning should not have been issued"2005MIN.EVA.regular.comment.csv",5
+
+"MIN200505150",20,"Rangers Michael Young left the game due to an injured back"2005MIN.EVA.regular.comment.csv",6
+
+"MIN200505190",9,"$Koskie slid headfirst and broke his thumb on the base; placed on DL after game"2005MIN.EVA.regular.comment.csv",7
+
+"MIN200505210",62,"Debut game for Luis Rodriguez"2005MIN.EVA.regular.comment.csv",8
+
+"MIN200505310",4,"$Gonzalez left the game with injured leg, onto DL next day with pulled hamstring"2005MIN.EVA.regular.comment.csv",9
+
+"MIN200505310",45,"ej,gardr001,M,hohnb901,Arguing warning to pitcher $Twins manager Gardenhire ejected by HP umpire Hohn for arguing against the issuing of warnings"2005MIN.EVA.regular.comment.csv",10
+
+"MIN200506020",31,"Twins first baseman Justin Morneau left the game due to an injured elbow"2005MIN.EVA.regular.comment.csv",11
+
+"MIN200506020",54,"Twins second baseman Nick Punto left the game due to an injured leg"2005MIN.EVA.regular.comment.csv",12
+
+"MIN200506160",2,"Debut game for Adam Shabala"2005MIN.EVA.regular.comment.csv",13
+
+"MIN200506160",32,"Twins shortstop Juan Castro left the game due to an injured foot/ankle"2005MIN.EVA.regular.comment.csv",14
+
+"MIN200506170",76,"Twins pitcher J. C. Romero left the game due to an injured foot/ankle"2005MIN.EVA.regular.comment.csv",15
+
+"MIN200506190",49,"ej,gardr001,M,kellk901,Balls and strikes Twins Manager Ron Gardenhire ejected by HP umpire Kevin Kelley"2005MIN.EVA.regular.comment.csv",16
+
+"MIN200506220",14,"Tigers Dmitri Young left the game due to an injured hand/wrist"2005MIN.EVA.regular.comment.csv",17
+
+"MIN200506280",42,"Twins 3B Glenn Williams left the game due to an injured neck/shoulder"2005MIN.EVA.regular.comment.csv",18
+
+"MIN200506280",74,"$Lew Ford called for interference"2005MIN.EVA.regular.comment.csv",19
+
+"MIN200506290",59,"Twins 3B Michael Cuddyer left the game due to an injured hand/wrist"2005MIN.EVA.regular.comment.csv",20
+
+"MIN200507180",60,"ej,gardr001,M,wendh902,Balls and strikes Twins Manager Ron Gardenhire ejected by HP umpire Hunter Wendelstedt"2005MIN.EVA.regular.comment.csv",21
+
+"MIN200508070",33,"$Tony Graffanino called for interference"2005MIN.EVA.regular.comment.csv",22
+
+"MIN200508070",65,"Twins third baseman Michael Cuddyer left the game due to an injured knee"2005MIN.EVA.regular.comment.csv",23
+
+"MIN200508210",58,"ej,nagec001,P,poncl901,Throwing pitch over batter's head Mariners pitcher Clint Nageotte ejected by HP umpire Larry Poncino"2005MIN.EVA.regular.comment.csv",24
+
+"MIN200508230",24,"Stewart hurt crashing into wall while catching Konerko's fly"2005MIN.EVA.regular.comment.csv",25
+
+"MIN200509050",65,"Debut game for Francisco Liriano Liriano surrenders homer to first batter faced in major leagues"2005MIN.EVA.regular.comment.csv",26
+
+"MIN200509070",19,"Rangers pitcher Chris Young left the game due to an injured arm"2005MIN.EVA.regular.comment.csv",27
+

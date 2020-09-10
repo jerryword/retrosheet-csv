@@ -1,69 +1,74 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"NY1192804130",61,"pbp account ends here, rest from NY Timrs"
-"NY1192804130",67,"$Hit on neck"
-"NY1192804291",67,"Reconstructed 9th from box score"
-"NY1192805260",54,"$Bob O'Farrell out on appeal for leaving 2B too soon"
-"NY1192806020",18,"$Dazzy Vance allowed the popup to drop"
-"NY1192806030",48,"ej,englw101,P,stard901,Call at HP Woody English ejected by HP umpire Dolly Stark"
-"NY1192806060",19,"$Lefty O'Doul rounded 2B too far"
-"NY1192806100",43,"$Dutch Henry was struck on hand by a pitch he swung at"
-"NY1192806301",45,"$attempted double steal"
-"NY1192807030",10,"$Rube Bressler & Ty Tyson collided; Bressler suffered a bloody nose, Tyson a compound fracture of the tibia; this was Tyson's last game"
-"NY1192807030",92,"bottom of 11th from NY Times"
-"NY1192807041",56,"$Freddy Lindstrom left with an injured foot"
-"NY1192807250",38,"$Paul Waner hurt his arm trying to catch Mel Ott's double in the 3rd"
-"NY1192807260",21,"$Pete Scott ran head first into the concrete wall"
-"NY1192807270",55,"$Travis Jackson left with injured knee"
-"NY1192807280",76,"ej,mccaj802,M,klemb901,Fair/foul call Cubs Manager Joe McCarthy ejected by HP umpire Bill Klem when Klem ruled Kiki Cuyler's potential home run foul"
-"NY1192807292",69,"Reconstructed bottom of 9th from box score"
-"NY1192807311",25,"ej,wilsh102,P,klemb901,Called third strike (Threw bat) $Wilson ejected by Klem for throwing bat up"
-"NY1192807311",42,"$Welsh made wild throw home so no DP"
-"NY1192808020",13,"$Andy Cohen made a wild throw to 1B"
-"NY1192808042",4,"$Val Picinich played without his chest protector due to the heat"
-"NY1192808050",122,"Bottom of 15th from NY Times"
-"NY1192808080",57,"$Jimmy Welsh thought the bases were full and trotted to HP"
-"NY1192808080",62,"$no one covered 2B"
-"NY1192808282",71,"pbp account ends here, rest deduced"
-"NY1192809020",72,"Reconstructed top of 9th from box score"
-"NY1192809202",50,"7th inning to end from NY Times"
-"NY1192809271",0,"Protest=H"
-"NY1192809271",46,"$during the rundown, Randy Reese and Gabby Hartnett collided; the Giants claimed interference, which was not allowed by HP Umpire Bill Klem; the Giants protested the game but the protest was denied by NL President John Heydler the next day"
-"NY1192809280",19,"$Gabby Hartnett struck on right hand by foul ball"
-"NY1192809290",45,"$Travis Jackson left with an injured hand"
-"NY1192804130",61,"pbp account ends here, rest from NY Timrs"
-"NY1192804130",67,"$Hit on neck"
-"NY1192804291",67,"Reconstructed 9th from box score"
-"NY1192805020",61,"$Yes, intentional wlak with bases loaded"
-"NY1192805260",54,"$Bob O'Farrell out on appeal for leaving 2B too soon"
-"NY1192806020",18,"$Dazzy Vance allowed the popup to drop"
-"NY1192806030",48,"ej,englw101,P,stard901,Call at HP Woody English ejected by HP umpire Dolly Stark"
-"NY1192806060",19,"$Lefty O'Doul rounded 2B too far"
-"NY1192806100",43,"$Dutch Henry was struck on hand by a pitch he swung at"
-"NY1192806301",45,"$attempted double steal"
-"NY1192807030",10,"$Rube Bressler & Ty Tyson collided; Bressler suffered a bloody nose, Tyson a compound fracture of the tibia; this was Tyson's last game"
-"NY1192807030",92,"bottom of 11th from NY Times"
-"NY1192807041",56,"$Freddy Lindstrom left with an injured foot"
-"NY1192807250",38,"$Paul Waner hurt his arm trying to catch Mel Ott's double in the 3rd"
-"NY1192807260",21,"$Pete Scott ran head first into the concrete wall"
-"NY1192807270",55,"$Travis Jackson left with injured knee"
-"NY1192807280",76,"ej,mccaj802,M,klemb901,Fair/foul call Cubs Manager Joe McCarthy ejected by HP umpire Bill Klem when Klem ruled Kiki Cuyler's potential home run foul"
-"NY1192807292",69,"Reconstructed bottom of 9th from box score"
-"NY1192807311",25,"ej,wilsh102,P,klemb901,Called third strike (Threw bat) $Wilson ejected by Klem for throwing bat up"
-"NY1192807311",42,"$Welsh made wild throw home so no DP"
-"NY1192808020",13,"$Andy Cohen made a wild throw to 1B"
-"NY1192808042",4,"$Val Picinich played without his chest protector due to the heat"
-"NY1192808050",122,"Bottom of 15th from NY Times"
-"NY1192808080",57,"$Jimmy Welsh thought the bases were full and trotted to HP"
-"NY1192808080",62,"$no one covered 2B"
-"NY1192808281",4,"Off the wall."
-"NY1192808281",5,"Sisler held runner at third base."
-"NY1192808281",32,"Bell held runner at second base on infield out."
-"NY1192808281",62,"Off the wall."
-"NY1192808281",64,"Great running catch by left fielder O'Doul."
-"NY1192808281",71,"Terry threw low to Scott who covered first base."
-"NY1192809020",72,"Reconstructed top of 9th from box score"
-"NY1192809202",50,"7th inning to end from NY Times"
-"NY1192809271",0,"Protest=H"
-"NY1192809271",46,"$during the rundown, Randy Reese and Gabby Hartnett collided; the Giants claimed interference, which was not allowed by HP Umpire Bill Klem; the Giants protested the game but the protest was denied by NL President John Heydler the next day"
-"NY1192809280",19,"$Gabby Hartnett struck on right hand by foul ball"
-"NY1192809290",45,"$Travis Jackson left with an injured hand"
+"NY1192804130",61,"pbp account ends here, rest from NY Timrs"FILENAME_TX","LINE_NUMBER_CT"
+
+"NY1192804130",67,"$Hit on neck"1928NY1.EVN.regular.comment.csv",2
+
+"NY1192804291",67,"Reconstructed 9th from box score"1928NY1.EVN.regular.comment.csv",3
+
+"NY1192805020",61,"$Yes, intentional wlak with bases loaded"1928NY1.EVN.regular.comment.csv",4
+
+"NY1192805260",54,"$Bob O'Farrell out on appeal for leaving 2B too soon"1928NY1.EVN.regular.comment.csv",5
+
+"NY1192806020",18,"$Dazzy Vance allowed the popup to drop"1928NY1.EVN.regular.comment.csv",6
+
+"NY1192806030",48,"ej,englw101,P,stard901,Call at HP Woody English ejected by HP umpire Dolly Stark"1928NY1.EVN.regular.comment.csv",7
+
+"NY1192806060",19,"$Lefty O'Doul rounded 2B too far"1928NY1.EVN.regular.comment.csv",8
+
+"NY1192806100",43,"$Dutch Henry was struck on hand by a pitch he swung at"1928NY1.EVN.regular.comment.csv",9
+
+"NY1192806301",45,"$attempted double steal"1928NY1.EVN.regular.comment.csv",10
+
+"NY1192807030",10,"$Rube Bressler & Ty Tyson collided; Bressler suffered a bloody nose, Tyson a compound fracture of the tibia; this was Tyson's last game"1928NY1.EVN.regular.comment.csv",11
+
+"NY1192807030",92,"bottom of 11th from NY Times"1928NY1.EVN.regular.comment.csv",12
+
+"NY1192807041",56,"$Freddy Lindstrom left with an injured foot"1928NY1.EVN.regular.comment.csv",13
+
+"NY1192807250",38,"$Paul Waner hurt his arm trying to catch Mel Ott's double in the 3rd"1928NY1.EVN.regular.comment.csv",14
+
+"NY1192807260",21,"$Pete Scott ran head first into the concrete wall"1928NY1.EVN.regular.comment.csv",15
+
+"NY1192807270",55,"$Travis Jackson left with injured knee"1928NY1.EVN.regular.comment.csv",16
+
+"NY1192807280",76,"ej,mccaj802,M,klemb901,Fair/foul call Cubs Manager Joe McCarthy ejected by HP umpire Bill Klem when Klem ruled Kiki Cuyler's potential home run foul"1928NY1.EVN.regular.comment.csv",17
+
+"NY1192807292",69,"Reconstructed bottom of 9th from box score"1928NY1.EVN.regular.comment.csv",18
+
+"NY1192807311",25,"ej,wilsh102,P,klemb901,Called third strike (Threw bat) $Wilson ejected by Klem for throwing bat up"1928NY1.EVN.regular.comment.csv",19
+
+"NY1192807311",42,"$Welsh made wild throw home so no DP"1928NY1.EVN.regular.comment.csv",20
+
+"NY1192808020",13,"$Andy Cohen made a wild throw to 1B"1928NY1.EVN.regular.comment.csv",21
+
+"NY1192808042",4,"$Val Picinich played without his chest protector due to the heat"1928NY1.EVN.regular.comment.csv",22
+
+"NY1192808050",122,"Bottom of 15th from NY Times"1928NY1.EVN.regular.comment.csv",23
+
+"NY1192808080",57,"$Jimmy Welsh thought the bases were full and trotted to HP"1928NY1.EVN.regular.comment.csv",24
+
+"NY1192808080",62,"$no one covered 2B"1928NY1.EVN.regular.comment.csv",25
+
+"NY1192808281",4,"Off the wall."1928NY1.EVN.regular.comment.csv",26
+
+"NY1192808281",5,"Sisler held runner at third base."1928NY1.EVN.regular.comment.csv",27
+
+"NY1192808281",32,"Bell held runner at second base on infield out."1928NY1.EVN.regular.comment.csv",28
+
+"NY1192808281",62,"Off the wall."1928NY1.EVN.regular.comment.csv",29
+
+"NY1192808281",64,"Great running catch by left fielder O'Doul."1928NY1.EVN.regular.comment.csv",30
+
+"NY1192808281",71,"Terry threw low to Scott who covered first base."1928NY1.EVN.regular.comment.csv",31
+
+"NY1192809020",72,"Reconstructed top of 9th from box score"1928NY1.EVN.regular.comment.csv",32
+
+"NY1192809202",50,"7th inning to end from NY Times"1928NY1.EVN.regular.comment.csv",33
+
+"NY1192809271",0,"Protest=H"1928NY1.EVN.regular.comment.csv",34
+
+"NY1192809271",46,"$during the rundown, Randy Reese and Gabby Hartnett collided; the Giants claimed interference, which was not allowed by HP Umpire Bill Klem; the Giants protested the game but the protest was denied by NL President John Heydler the next day"1928NY1.EVN.regular.comment.csv",35
+
+"NY1192809280",19,"$Gabby Hartnett struck on right hand by foul ball"1928NY1.EVN.regular.comment.csv",36
+
+"NY1192809290",45,"$Travis Jackson left with an injured hand"1928NY1.EVN.regular.comment.csv",37
+

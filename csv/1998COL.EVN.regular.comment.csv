@@ -1,49 +1,48 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"COL199804191",0,"Debut for umpire Hunter Wendelstedt"
-"COL199805170",4,"$Mike Lansing lost the ball in the sun; Dave Nilsson was out on the infield fly"
-"COL199805180",51,"ej,astap001,P,willc901,Threatening pitcher after HBP ej,judej001,P,willc901,Intentional HBP Pedro Astacio and Jeff Juden ejected by HP umpire Charlie Williams; Astacio threatened Juden with his bat after being hit on the back with the pitch; both benches emptied; Rockies manager Don Baylor took the bat away from Astacio"
-"COL199805180",52,"Debut game for Bronswell Patrick"
-"COL199806040",0,"ej,presj001,C,quicj901,Balls and strikes D-Backs coach Jim Presley ejected by HP umpire Jim Quick sometime in game"
-"COL199806190",53,"ej,shefg001,P,grege901,Call at 1B Gary Sheffield ejected by HP umpire Eric Gregg"
-"COL199806210",63,"Debut game for Paul LoDuca"
-"COL199806210",64,"Debut game for Will Brunson"
-"COL199806250",1,"Debut game for Mike Saipe"
-"COL199806280",80,"Debut game for Steve Connelly"
-"COL199807231",0,"Debut for umpire Ron Kulpa"
-"COL199807232",48,"ej,bayld001,M,riekr901,Balls and strikes (Foul tip non-call) Rockies manager Don Baylor ejected by 1B umpire Rich Rieker when Rieker ruled that a two-strike foul ball hit the ground before being caught"
-"COL199807290",61,"Debut game for Fred Rath"
-"COL199808160",10,"$Rockies manager Don Baylor argued with 1B umpire Jerry Crawford"
-"COL199808160",56,"ej,glyng801,C,davib902,Unknown reason Rockies coach Gene Glynn ejected by 3B umpire Bob Davidson"
-"COL199808260",73,"ej,lansm001,P,ripps901,Called third strike Mike Lansing ejected by HP umpire Steve Rippley"
-"COL199808280",60,"ej,walkl001,P,wintm901,Called third strike (Threw bat) ej,bayld001,M,wintm901,Called third strike Larry Walker and Rockies manager Don Baylor ejected by HP umpire Mike Winters"
-"COL199808280",90,"ej,bichd001,P,wintm901,Balls and strikes ej,funkf101,C,wintm901,Balls and strikes Dante Bichette and Rockies coach Frank Funk ejected by HP umpire Mike Winters"
-"COL199809060",66,"Debut game for Matt Clement"
-"COL199809080",17,"Debut game for Derrick Gibson"
-"COL199809090",69,"Debut game for Jim Stoops"
-"COL199809100",8,"Debut game for Brian Daubach"
-"COL199809100",13,"Debut game for Edgard Clemente"
-"COL199809220",72,"Debut game for Lariel Gonzalez"
-"COL199804191",0,"Debut for umpire Hunter Wendelstedt"
-"COL199805170",4,"$Mike Lansing lost the ball in the sun; Dave Nilsson was out on the infield fly"
-"COL199805180",51,"ej,astap001,P,willc901,Threatening pitcher after HBP ej,judej001,P,willc901,Intentional HBP Pedro Astacio and Jeff Juden ejected by HP umpire Charlie Williams; Astacio threatened Juden with his bat after being hit on the back with the pitch; both benches emptied; Rockies manager Don Baylor took the bat away from Astacio"
-"COL199805180",52,"Debut game for Bronswell Patrick"
-"COL199806040",59,"ej,presj001,C,quicj901,Balls and strikes $D-Backs coach Presley ejected by HP umpire Quick for arguing balls and strikes while Colbrunn was at bat"
-"COL199806190",53,"ej,shefg001,P,grege901,Balls and strikes $Sheffield ejected by HP umpire Gregg for arguing balls and strikes after he grounded out"
-"COL199806210",63,"Debut game for Paul LoDuca"
-"COL199806210",64,"Debut game for Will Brunson"
-"COL199806250",1,"Debut game for Mike Saipe"
-"COL199806280",80,"Debut game for Steve Connelly"
-"COL199807231",0,"Debut for umpire Ron Kulpa"
-"COL199807232",48,"ej,bayld001,M,riekr901,Balls and strikes (Foul tip non-call) Rockies manager Don Baylor ejected by 1B umpire Rich Rieker when Rieker ruled that a two-strike foul ball hit the ground before being caught"
-"COL199807290",61,"Debut game for Fred Rath"
-"COL199808160",10,"$Rockies manager Don Baylor argued with 1B umpire Jerry Crawford"
-"COL199808160",56,"ej,glyng801,C,davib902,Unknown reason Rockies coach Gene Glynn ejected by 3B umpire Bob Davidson"
-"COL199808260",73,"ej,lansm001,P,ripps901,Called third strike Mike Lansing ejected by HP umpire Steve Rippley"
-"COL199808280",60,"ej,walkl001,P,wintm901,Called third strike (Threw bat) ej,bayld001,M,wintm901,Called third strike Larry Walker and Rockies manager Don Baylor ejected by HP umpire Mike Winters"
-"COL199808280",90,"ej,bichd001,P,wintm901,Balls and strikes ej,funkf101,C,wintm901,Balls and strikes Dante Bichette and Rockies coach Frank Funk ejected by HP umpire Mike Winters"
-"COL199809060",66,"Debut game for Matt Clement"
-"COL199809080",17,"Debut game for Derrick Gibson"
-"COL199809090",69,"Debut game for Jim Stoops"
-"COL199809100",8,"Debut game for Brian Daubach"
-"COL199809100",13,"Debut game for Edgard Clemente"
-"COL199809220",72,"Debut game for Lariel Gonzalez"
+"COL199804191",0,"Debut for umpire Hunter Wendelstedt"FILENAME_TX","LINE_NUMBER_CT"
+
+"COL199805170",4,"$Mike Lansing lost the ball in the sun; Dave Nilsson was out on the infield fly"1998COL.EVN.regular.comment.csv",2
+
+"COL199805180",51,"ej,astap001,P,willc901,Threatening pitcher after HBP ej,judej001,P,willc901,Intentional HBP Pedro Astacio and Jeff Juden ejected by HP umpire Charlie Williams; Astacio threatened Juden with his bat after being hit on the back with the pitch; both benches emptied; Rockies manager Don Baylor took the bat away from Astacio"1998COL.EVN.regular.comment.csv",3
+
+"COL199805180",52,"Debut game for Bronswell Patrick"1998COL.EVN.regular.comment.csv",4
+
+"COL199806040",59,"ej,presj001,C,quicj901,Balls and strikes $D-Backs coach Presley ejected by HP umpire Quick for arguing balls and strikes while Colbrunn was at bat"1998COL.EVN.regular.comment.csv",5
+
+"COL199806190",53,"ej,shefg001,P,grege901,Balls and strikes $Sheffield ejected by HP umpire Gregg for arguing balls and strikes after he grounded out"1998COL.EVN.regular.comment.csv",6
+
+"COL199806210",63,"Debut game for Paul LoDuca"1998COL.EVN.regular.comment.csv",7
+
+"COL199806210",64,"Debut game for Will Brunson"1998COL.EVN.regular.comment.csv",8
+
+"COL199806250",1,"Debut game for Mike Saipe"1998COL.EVN.regular.comment.csv",9
+
+"COL199806280",80,"Debut game for Steve Connelly"1998COL.EVN.regular.comment.csv",10
+
+"COL199807231",0,"Debut for umpire Ron Kulpa"1998COL.EVN.regular.comment.csv",11
+
+"COL199807232",48,"ej,bayld001,M,riekr901,Balls and strikes (Foul tip non-call) Rockies manager Don Baylor ejected by 1B umpire Rich Rieker when Rieker ruled that a two-strike foul ball hit the ground before being caught"1998COL.EVN.regular.comment.csv",12
+
+"COL199807290",61,"Debut game for Fred Rath"1998COL.EVN.regular.comment.csv",13
+
+"COL199808160",10,"$Rockies manager Don Baylor argued with 1B umpire Jerry Crawford"1998COL.EVN.regular.comment.csv",14
+
+"COL199808160",56,"ej,glyng801,C,davib902,Unknown reason Rockies coach Gene Glynn ejected by 3B umpire Bob Davidson"1998COL.EVN.regular.comment.csv",15
+
+"COL199808260",73,"ej,lansm001,P,ripps901,Called third strike Mike Lansing ejected by HP umpire Steve Rippley"1998COL.EVN.regular.comment.csv",16
+
+"COL199808280",60,"ej,walkl001,P,wintm901,Called third strike (Threw bat) ej,bayld001,M,wintm901,Called third strike Larry Walker and Rockies manager Don Baylor ejected by HP umpire Mike Winters"1998COL.EVN.regular.comment.csv",17
+
+"COL199808280",90,"ej,bichd001,P,wintm901,Balls and strikes ej,funkf101,C,wintm901,Balls and strikes Dante Bichette and Rockies coach Frank Funk ejected by HP umpire Mike Winters"1998COL.EVN.regular.comment.csv",18
+
+"COL199809060",66,"Debut game for Matt Clement"1998COL.EVN.regular.comment.csv",19
+
+"COL199809080",17,"Debut game for Derrick Gibson"1998COL.EVN.regular.comment.csv",20
+
+"COL199809090",69,"Debut game for Jim Stoops"1998COL.EVN.regular.comment.csv",21
+
+"COL199809100",8,"Debut game for Brian Daubach"1998COL.EVN.regular.comment.csv",22
+
+"COL199809100",13,"Debut game for Edgard Clemente"1998COL.EVN.regular.comment.csv",23
+
+"COL199809220",72,"Debut game for Lariel Gonzalez"1998COL.EVN.regular.comment.csv",24
+

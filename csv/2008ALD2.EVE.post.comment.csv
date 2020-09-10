@@ -1,11 +1,10 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"TBA200810020",6,"$infield shifted to right for Jim Thome in each plate appearance"
-"TBA200810020",10,"$Evan Longoria homered on the first pitch of his first post-season at bat"
-"TBA200810020",14,"$Carlos Pena left game with scratched cornea"
-"TBA200810020",26,"$Evan Longoria is the second player in history to homer in his first two post-season at bats, after Gary Gaetti in 1987"
-"TBA200810030",5,"$no exaggerated shift for Jim Thome with the bases loaded and he hit the ball where the second baseman would have been standing if there was"
-"TBA200810020",6,"$infield shifted to right for Jim Thome in each plate appearance"
-"TBA200810020",10,"$Evan Longoria homered on the first pitch of his first post-season at bat"
-"TBA200810020",14,"$Carlos Pena left game with scratched cornea"
-"TBA200810020",26,"$Evan Longoria is the second player in history to homer in his first two post-season at bats, after Gary Gaetti in 1987"
-"TBA200810030",5,"$no exaggerated shift for Jim Thome with the bases loaded and he hit the ball where the second baseman would have been standing if there was"
+"TBA200810020",6,"$infield shifted to right for Jim Thome in each plate appearance"FILENAME_TX","LINE_NUMBER_CT"
+
+"TBA200810020",10,"$Evan Longoria homered on the first pitch of his first post-season at bat"2008ALD2.EVE.post.comment.csv",2
+
+"TBA200810020",14,"$Carlos Pena left game with scratched cornea"2008ALD2.EVE.post.comment.csv",3
+
+"TBA200810020",26,"$Evan Longoria is the second player in history to homer in his first two post-season at bats, after Gary Gaetti in 1987"2008ALD2.EVE.post.comment.csv",4
+
+"TBA200810030",5,"$no exaggerated shift for Jim Thome with the bases loaded and he hit the ball where the second baseman would have been standing if there was"2008ALD2.EVE.post.comment.csv",5
+

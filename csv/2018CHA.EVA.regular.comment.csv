@@ -1,677 +1,676 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"CHA201804050",17,"$White Sox challenged call that Martin was safe on pickoff attempt; call was overturned - pickoff and caught stealing"
-"CHA201804050",17,"$Miguel Cabrera left game with injured hip"
-"CHA201804050",33,"$White Sox challenged call that McCann was safe at first on error; call was overturned - ground out"
-"CHA201804050",91,"$Tigers challenged call that Iglesias was forced at 2nd; call was overturned - safe at 2nd on fielder's choice"
-"CHA201804070",33,"$Tigers challenged call that Jones was caught stealing; call was overturned - stolen base"
-"CHA201804070",50,"$Tigers challenged call that Iglesias was safe at first; call was overturned - ground out"
-"CHA201804090",78,"$Rays challenged call that Smith was out at home; call was upheld - out at home for caught stealing"
-"CHA201804100",58,"Wellington Castillo left game with injured knee"
-"CHA201804110",36,"$Rays challenged call that Anderson was safe on pickoff attempt; call was overturned - pickoff at 1st"
-"CHA201804200",50,"$Danny Farquhar collapsed unconscious in the White Sox dugout as he came off the field; tests revealed he suffered a ruptured brain aneurysm and he was hospitalized in neurological ICU at RUSH University Medical Center"
-"CHA201804220",25,"$White Sox challenged call that Moncada was out at home; call was upheld - out at home"
-"CHA201804230",23,"$Avisail Garcia left game with injured leg"
-"CHA201804230",64,"$These two outs were originally scored as separate and not a DP; changed on 04-24-2018 to double play"
-"CHA201804240",30,"$Mariners challenged call that Castillo was safe at first on error; call was upheld - safe at first"
-"CHA201804240",48,"ej,rentr001,M,estam901,Arguing called thjird strike $White Sox manager Renteria ejected by plate umpire Estabrook for arguing called third strike"
-"CHA201804250",74,"$White Sox challenged call that Cano was safe at 1st; call was upheld - safe on error"
-"CHA201805040",35,"$Twins challenged call that Castro was out at home; call was upheld - out at home"
-"CHA201805040",47,"$Yoan Moncada left with injured leg"
-"CHA201805050",67,"$Twins challenged call the LaMarre was out at second; call was upheld - out on caught stealing"
-"CHA201805080",6,"$White Sox challenged call that Garcia was out at first; call was overturned - single"
-"CHA201805080",31,"$White Sox challenged call that Moran was safe at 1st, claiming DP; call was upheld - force out, no DP"
-"CHA201805080",84,"$Umpire review of play at first; call was upheld - ground out"
-"CHA201805090",33,"$Nicky Delmonico left with injured leg"
-"CHA201805170",67,"ej,banij001,M,nauep901,Arguing balls and strikes $Rangers manager Banister ejected by plate umpire Nauert for arguing balls and strikes"
-"CHA201805180",26,"$Nicky Delmonico left with an injured hand"
-"CHA201805200",30,"$Rangers challenged call that Rua hit foul tip; claiming ball had hit him; call was upheld - foul tip strike 3"
-"CHA201805210",67,"ej,trumm001,P,rehaj901,Arguing strike three swing $Mark Trumbo ejected by plate umpire Jeremie Rehak for arguing swing on third strike"
-"CHA201805230",51,"Leury Garcia left with an injured knee"
-"CHA201806030",45,"$Breweres challenged call that Villar was out at second; call was upheld - out on caught stealing"
-"CHA201806130",9,"$Indians challenged call that Sanchez was safe at 2nd; call was upheld - safe on wild pitch"
-"CHA201806160",39,"$Originally scored as steal, changed on 06-20-2018 to safe on pickoff, caught stealing, making Tilson's run unearned"
-"CHA201806230",4,"$White Sox challenged call that second pitch to Moncada was foul ball; call was overturned - hit by pitch"
-"CHA201806230",24,"$Previous two plays really one, but must be separated for computer input; Fowler was safe on dropped catch error but thought he was out and started for dugout; 3bman picked up loose ball and tagged Fowler a few steps back toward 1st"
-"CHA201806230",26,"$Daniel Mengden left with an injured foot"
-"CHA201806230",39,"$Volstad entered with 2-0 count, walk charged to Covey, who left with an injured hip"
-"CHA201806240",37,"$White Sox challenged call that Anderson was out at 2nd; call was upheld - out on caught stealing"
-"CHA201806260",24,"$Twins challenged call that Abreu was hit by pitch; call was upheld - hit by pitch"
-"CHA201806260",69,"$Run originally scored as earned, changed to unearned on 06-27-2018"
-"CHA201806270",47,"ej,glyng801,C,davig901,Arguing balk non-call ej,moilp001,M,davig901,Arguing balk non-call $Shields faked a throw to third and 3b umpire Davis called a balk but umpires discussed the play and reversed the call to no balk; Minnesota Third Base Coach Gene Glynn and was ejected by 3B umpire; Minnesota Manager Paul Molitor also argued and was ejected by Davis"
-"CHA201806280",16,"$White Sox challenged call that Sanchez hit third pitch foul; call was upheld - foul ball"
-"CHA201806280",78,"$Umpire review play at first; call was upheld - safe on error"
-"CHA201806280",92,"ej,andet001,P,davig901,Arguing caught stealing $Umpire review of play at 2nd; Anderson was originally called safe on stolen base and call was then reversed; when call was upheld, Anderson threw his helmet and was ejected by 2b umpire Davis"
-"CHA201806280",110,"$Umpire review play at first; call was upheld - ground out; Sanchez tripped over first base and injured leg"
-"CHA201807100",19,"Mound Visit"
-"CHA201807100",29,"Injury Delay"
-"CHA201807100",44,"On-field Delay"
-"CHA201807100",45,"Mound Visit"
-"CHA201807100",48,"Mound Visit"
-"CHA201807100",53,"Mound Visit"
-"CHA201807100",54,"Mound Visit"
-"CHA201807110",3,"Injury Delay"
-"CHA201807110",7,"$Cardinals challenged call that Sanchez was safe at first; call was upheld - single"
-"CHA201807110",40,"Mound Visit"
-"CHA201807110",44,"Injury Delay"
-"CHA201807110",57,"Mound Visit"
-"CHA201807110",58,"Mound Visit"
-"CHA201807130",5,"Mound Visit"
-"CHA201807130",8,"Mound Visit"
-"CHA201807130",33,"Injury Delay"
-"CHA201807130",35,"Mound Visit"
-"CHA201807130",49,"$Royals challenged call that LaMarre was safe at 2nd; call was upheld - single and advance on error"
-"CHA201807130",58,"Mound Visit"
-"CHA201807130",67,"Mound Visit"
-"CHA201807130",68,"Mound Visit"
-"CHA201807130",69,"Mound Visit"
-"CHA201807130",78,"Mound Visit"
-"CHA201807140",33,"Mound Visit"
-"CHA201807140",37,"On-field Delay"
-"CHA201807140",39,"ej,rentr001,M,hamaa901,Arguing balls and strikes $Chicago manager Renteria ejected from dugout by plate umpire Hamari for arguing balls and strikes Injury Delay"
-"CHA201807140",39,"$Yoan Moncada left with an injured knee"
-"CHA201807140",64,"Mound Visit"
-"CHA201807140",72,"Mound Visit"
-"CHA201807150",26,"Mound Visit"
-"CHA201807150",43,"Mound Visit"
-"CHA201807150",45,"Mound Visit"
-"CHA201807150",52,"Mound Visit"
-"CHA201807150",56,"Mound Visit"
-"CHA201807270",4,"ej,rentr001,M,culbf901,Arguing check swing ej,coopd001,C,culbf901,Arguing check swing $Chicago Manager Renteria and Pitching Coach ejected by 3b umpire Culbreth for arguing ball 4 was really check swing strike 3"
-"CHA201807270",10,"Mound Visit"
-"CHA201807270",15,"Mound Visit"
-"CHA201807270",40,"Mound Visit"
-"CHA201807270",43,"On-field Delay"
-"CHA201807270",63,"Mound Visit"
-"CHA201807270",67,"$There were four balls, but walk was not awarded"
-"CHA201807270",79,"Mound Visit"
-"CHA201807280",13,"Mound Visit"
-"CHA201807280",14,"Mound Visit"
-"CHA201807280",24,"$White Sox challenged call that Smith was out at first; call was overturned - single"
-"CHA201807280",33,"Mound Visit"
-"CHA201807280",37,"Mound Visit"
-"CHA201807280",51,"Mound Visit"
-"CHA201807280",63,"Mound Visit"
-"CHA201807280",70,"Mound Visit"
-"CHA201807280",72,"Mound Visit"
-"CHA201807280",73,"Injury Delay"
-"CHA201807280",75,"Mound Visit"
-"CHA201807290",45,"Mound Visit"
-"CHA201807290",55,"Injury Delay"
-"CHA201807290",57,"Mound Visit"
-"CHA201807290",58,"Mound Visit"
-"CHA201807290",59,"Mound Visit"
-"CHA201807290",66,"Mound Visit"
-"CHA201807290",71,"Injury Delay"
-"CHA201807310",14,"Mound Visit"
-"CHA201807310",31,"$White Sox challenged call that Navarez was out at first to complete double play; call was overturned - force out, no DP"
-"CHA201807310",50,"Mound Visit"
-"CHA201807310",62,"Mound Visit"
-"CHA201807310",67,"Mound Visit"
-"CHA201807310",73,"Injury Delay"
-"CHA201808010",16,"Mound Visit"
-"CHA201808010",17,"Mound Visit"
-"CHA201808010",39,"Mound Visit"
-"CHA201808010",53,"Mound Visit"
-"CHA201808010",58,"Mound Visit"
-"CHA201808010",59,"Mound Visit"
-"CHA201808010",61,"Mound Visit"
-"CHA201808010",62,"Mound Visit"
-"CHA201808010",72,"Mound Visit"
-"CHA201808010",74,"Mound Visit"
-"CHA201808020",36,"$White Sox challenged call that Garcia was out at third; call was overturned - ground rule double"
-"CHA201808020",37,"Mound Visit"
-"CHA201808020",52,"Mound Visit"
-"CHA201808020",57,"Mound Visit"
-"CHA201808020",58,"Mound Visit"
-"CHA201808020",60,"Mound Visit"
-"CHA201808020",66,"Mound Visit"
-"CHA201808020",70,"Mound Visit"
-"CHA201808020",71,"$Royals challenged call that Phillips left second too soon for double play; callw as overturned - fly out, no DP"
-"CHA201808060",24,"Mound Visit"
-"CHA201808060",25,"Mound Visit"
-"CHA201808060",48,"Mound Visit"
-"CHA201808060",62,"Mound Visit"
-"CHA201808060",69,"Mound Visit"
-"CHA201808070",28,"Mound Visit"
-"CHA201808070",35,"$Batter's interference"
-"CHA201808070",42,"Mound Visit"
-"CHA201808070",49,"Mound Visit"
-"CHA201808070",53,"Mound Visit"
-"CHA201808070",66,"Mound Visit"
-"CHA201808070",73,"Mound Visit"
-"CHA201808070",74,"Mound Visit"
-"CHA201808070",97,"Mound Visit"
-"CHA201808070",99,"Mound Visit"
-"CHA201808080",8,"Mound Visit"
-"CHA201808080",11,"Mound Visit"
-"CHA201808080",15,"Mound Visit"
-"CHA201808080",58,"Mound Visit"
-"CHA201808080",73,"Mound Visit"
-"CHA201808080",79,"$2b umpire Dreckman left for four pitches to have moth removed from his left ear by Chicago trainer"
-"CHA201808100",4,"Mound Visit"
-"CHA201808100",17,"Mound Visit"
-"CHA201808100",26,"$Edwin Encarnacion left with an injured arm"
-"CHA201808100",53,"Mound Visit"
-"CHA201808100",61,"Mound Visit"
-"CHA201808100",63,"Mound Visit"
-"CHA201808100",64,"Mound Visit"
-"CHA201808100",65,"Mound Visit"
-"CHA201808110",50,"Injury Delay"
-"CHA201808110",51,"Mound Visit"
-"CHA201808110",52,"Mound Visit"
-"CHA201808110",58,"Injury Delay"
-"CHA201808110",59,"Mound Visit"
-"CHA201808120",10,"$Indians challenged call that Sanchez was safe at second; call was upheld - safe on fielder's choice; scoring changed to throwing error on 08-13-2018, making run unearned"
-"CHA201808120",18,"Mound Visit"
-"CHA201808120",19,"Mound Visit"
-"CHA201808120",29,"Mound Visit"
-"CHA201808120",35,"$White Sox challenged call that Lindor was safe at second; call was overturned - out on caught stealing"
-"CHA201808120",58,"Mound Visit"
-"CHA201808120",68,"Mound Visit"
-"CHA201808120",83,"Mound Visit"
-"CHA201808120",84,"Mound Visit"
-"CHA201808170",6,"$Royals challenged call that Sanchez was safe on pickoff attempt after 5th pitch; call was upheld - safe on pickoff attempt"
-"CHA201808170",25,"Mound Visit"
-"CHA201808170",43,"Mound Visit"
-"CHA201808170",45,"Mound Visit"
-"CHA201808170",51,"Mound Visit"
-"CHA201808170",59,"Mound Visit"
-"CHA201808170",64,"Mound Visit"
-"CHA201808170",65,"Mound Visit"
-"CHA201808170",66,"Mound Visit"
-"CHA201808170",69,"Mound Visit"
-"CHA201808180",43,"Mound Visit"
-"CHA201808180",44,"Mound Visit"
-"CHA201808180",48,"Mound Visit"
-"CHA201808180",49,"Mound Visit"
-"CHA201808180",53,"Mound Visit"
-"CHA201808180",59,"Mound Visit"
-"CHA201808180",64,"Mound Visit"
-"CHA201808180",73,"Mound Visit"
-"CHA201808190",12,"Mound Visit"
-"CHA201808190",16,"Mound Visit"
-"CHA201808190",21,"Mound Visit"
-"CHA201808190",24,"On-field Delay"
-"CHA201808190",35,"Injury Delay"
-"CHA201808190",37,"Mound Visit"
-"CHA201808190",39,"Mound Visit"
-"CHA201808190",61,"Mound Visit"
-"CHA201808190",75,"Mound Visit"
-"CHA201808210",28,"Mound Visit"
-"CHA201808210",42,"Mound Visit"
-"CHA201808210",69,"Mound Visit"
-"CHA201808210",70,"Mound Visit"
-"CHA201808220",5,"Mound Visit"
-"CHA201808220",42,"Mound Visit"
-"CHA201808220",45,"Mound Visit"
-"CHA201808220",49,"Mound Visit"
-"CHA201808220",57,"Mound Visit"
-"CHA201808220",62,"Mound Visit"
-"CHA201808220",77,"Mound Visit"
-"CHA201808300",11,"Mound Visit"
-"CHA201808300",19,"$White Sox challenged call that Delmonico was out at 3rd; call was overturned - safe at 3rd"
-"CHA201808300",39,"Mound Visit"
-"CHA201808300",42,"$Red Sox challenged call that Anderson was safe at 1st; call was overturned - ground out"
-"CHA201808300",48,"Mound Visit"
-"CHA201808300",52,"Mound Visit"
-"CHA201808300",53,"Mound Visit"
-"CHA201808300",59,"Mound Visit"
-"CHA201808300",60,"$Red Sox challenged call that Sanchez was safe at 2nd; call was upheld - stolen base"
-"CHA201808300",71,"Mound Visit"
-"CHA201808300",75,"Mound Visit"
-"CHA201808310",1,"Injury Delay Mound Visit"
-"CHA201808310",18,"Mound Visit $Fan interference"
-"CHA201808310",26,"Injury Delay"
-"CHA201808310",54,"Mound Visit"
-"CHA201808310",61,"Mound Visit"
-"CHA201808310",69,"ej,bogax001,P,littw901,Arguing called third strike $Bogaerts ejected by plate umpire Little for arguing called 3rd strike"
-"CHA201808310",71,"ej,porcr001,P,littw901,Arguing balls and strikes $Boston pitcher Porcello (not in game) ejected from dugout by plate umpire Little for arguing balls and strikes"
-"CHA201809010",0,"Injury Delay"
-"CHA201809010",21,"Injury Delay"
-"CHA201809010",27,"$Umpire Review of ball hit by Nunez; call was overturned - home run, not double"
-"CHA201809010",39,"Mound Visit"
-"CHA201809010",45,"Mound Visit"
-"CHA201809010",46,"$Avisail Garcia left with an injured knee"
-"CHA201809010",49,"Mound Visit"
-"CHA201809010",51,"Mound Visit"
-"CHA201809010",61,"Mound Visit"
-"CHA201809020",12,"Mound Visit"
-"CHA201809020",22,"Mound Visit"
-"CHA201809020",23,"Mound Visit"
-"CHA201809020",62,"Injury Delay"
-"CHA201809020",65,"$Ryan LaMarre left with an injured hip"
-"CHA201809020",70,"Injury Delay"
-"CHA201809030",1,"Mound Visit"
-"CHA201809030",30,"Mound Visit"
-"CHA201809030",44,"Injury Delay"
-"CHA201809030",44,"$Michael Fulmer left with an injured leg"
-"CHA201809030",60,"Mound Visit"
-"CHA201809030",65,"Mound Visit"
-"CHA201809040",10,"Mound Visit"
-"CHA201809040",13,"Mound Visit"
-"CHA201809040",14,"Mound Visit"
-"CHA201809040",37,"Mound Visit"
-"CHA201809040",38,"Mound Visit"
-"CHA201809040",54,"Mound Visit"
-"CHA201809040",67,"Mound Visit"
-"CHA201809040",71,"$White Sox challenged call that Lugo was safe at 2nd; call was overturned - single and out advancing"
-"CHA201809040",74,"On-field Delay"
-"CHA201809050",28,"Mound Visit"
-"CHA201809050",29,"Mound Visit"
-"CHA201809050",32,"Mound Visit"
-"CHA201809050",49,"Mound Visit"
-"CHA201809050",50,"Mound Visit"
-"CHA201809050",61,"Mound Visit"
-"CHA201809070",17,"Mound Visit"
-"CHA201809070",32,"Mound Visit"
-"CHA201809070",40,"Mound Visit"
-"CHA201809070",43,"Mound Visit"
-"CHA201809070",51,"On-field Delay"
-"CHA201809070",65,"Mound Visit"
-"CHA201809070",75,"Injury Delay"
-"CHA201809080",40,"Mound Visit"
-"CHA201809080",43,"Mound Visit"
-"CHA201809080",44,"Mound Visit"
-"CHA201809080",54,"Mound Visit"
-"CHA201809080",59,"Mound Visit"
-"CHA201809080",65,"Mound Visit"
-"CHA201809080",70,"Mound Visit"
-"CHA201809080",78,"Mound Visit"
-"CHA201809080",80,"Injury Delay"
-"CHA201809080",82,"Mound Visit"
-"CHA201809080",83,"Mound Visit"
-"CHA201809090",46,"Mound Visit"
-"CHA201809090",47,"Mound Visit"
-"CHA201809090",48,"Mound Visit"
-"CHA201809090",50,"Mound Visit"
-"CHA201809090",52,"Mound Visit"
-"CHA201809090",56,"$White Sox challenged call that Ohtani was safe at 3rd; call was overturned - out on caught stealing"
-"CHA201809090",65,"Mound Visit"
-"CHA201809090",68,"Mound Visit"
-"CHA201809090",70,"Mound Visit"
-"CHA201809090",71,"Mound Visit Mound Visit"
-"CHA201809210",16,"Mound Visit"
-"CHA201809210",47,"Mound Visit"
-"CHA201809210",51,"Mound Visit"
-"CHA201809210",53,"$White Sox challenged call that Anderson was out at 1st to complete double play; call was upheld - double play"
-"CHA201809210",61,"Mound Visit"
-"CHA201809210",63,"Mound Visit"
-"CHA201809210",67,"Mound Visit"
-"CHA201809210",70,"Mound Visit"
-"CHA201809210",72,"Mound Visit"
-"CHA201809210",78,"Mound Visit"
-"CHA201809220",34,"$White Sox challenged call that Contreras was safe at 1st; call was overturned - ground out"
-"CHA201809220",38,"Mound Visit"
-"CHA201809220",47,"Mound Visit"
-"CHA201809220",48,"Mound Visit"
-"CHA201809220",52,"Mound Visit"
-"CHA201809220",60,"Mound Visit"
-"CHA201809220",62,"Mound Visit"
-"CHA201809220",70,"Mound Visit"
-"CHA201809220",72,"$fan interference"
-"CHA201809220",77,"Mound Visit"
-"CHA201809220",78,"$White Sox challenged call at 2nd, claiming Baez was guilty of slide interference; call was upheld - force out, no interference;"
-"CHA201809220",79,"ej,andet001,P,westj901,Arguing non-call of slide interference ej,rentr001,M,westj901,Arguing non-call of slide interference $After first pitch to Bryant, White Sox shortstop Anderson asked for an explanation on the non-call of interference which escalated into an argument with 2b umpire West who ejected him; White Sox manager Renteria came out to argue and was also ejected by West"
-"CHA201809230",23,"Mound Visit"
-"CHA201809230",25,"Mound Visit"
-"CHA201809230",60,"Mound Visit"
-"CHA201809230",68,"Mound Visit"
-"CHA201809230",74,"Mound Visit"
-"CHA201809240",27,"Mound Visit"
-"CHA201809240",37,"Mound Visit"
-"CHA201809240",60,"Mound Visit"
-"CHA201809240",70,"Mound Visit"
-"CHA201809250",22,"Mound Visit"
-"CHA201809250",37,"$Nicky Delmonico left with an injured shoulder"
-"CHA201809250",50,"$Michael Brantley left with an injured leg"
-"CHA201809250",62,"Mound Visit"
-"CHA201809250",64,"Mound Visit"
-"CHA201809250",72,"Mound Visit"
-"CHA201809250",76,"Mound Visit"
-"CHA201809250",76,"$Indians challenged call that Sanchez was safe at 2nd; call was upheld - safe on pickoff attempt after 1st pitch"
-"CHA201809260",5,"Mound Visit"
-"CHA201809260",32,"Mound Visit"
-"CHA201809260",34,"Mound Visit"
-"CHA201809260",41,"Mound Visit"
-"CHA201809260",55,"Mound Visit"
-"CHA201809260",73,"Injury Delay"
-"CHA201809260",84,"Mound Visit"
-"CHA201809260",88,"Mound Visit"
-"CHA201804050",17,"$White Sox challenged call that Martin was safe on pickoff attempt; call was overturned - pickoff and caught stealing"
-"CHA201804050",17,"$Miguel Cabrera left game with injured hip"
-"CHA201804050",33,"$White Sox challenged call that McCann was safe at first on error; call was overturned - ground out"
-"CHA201804050",91,"$Tigers challenged call that Iglesias was forced at 2nd; call was overturned - safe at 2nd on fielder's choice"
-"CHA201804070",33,"$Tigers challenged call that Jones was caught stealing; call was overturned - stolen base"
-"CHA201804070",50,"$Tigers challenged call that Iglesias was safe at first; call was overturned - ground out"
-"CHA201804090",78,"$Rays challenged call that Smith was out at home; call was upheld - out at home for caught stealing"
-"CHA201804100",58,"Wellington Castillo left game with injured knee"
-"CHA201804110",36,"$Rays challenged call that Anderson was safe on pickoff attempt; call was overturned - pickoff at 1st"
-"CHA201804200",50,"$Danny Farquhar collapsed unconscious in the White Sox dugout as he came off the field; tests revealed he suffered a ruptured brain aneurysm and he was hospitalized in neurological ICU at RUSH University Medical Center"
-"CHA201804220",25,"$White Sox challenged call that Moncada was out at home; call was upheld - out at home"
-"CHA201804230",23,"$Avisail Garcia left game with injured leg"
-"CHA201804230",64,"$These two outs were originally scored as separate and not a DP; changed on 04-24-2018 to double play"
-"CHA201804240",30,"$Mariners challenged call that Castillo was safe at first on error; call was upheld - safe at first"
-"CHA201804240",48,"ej,rentr001,M,estam901,Arguing called third strike $White Sox manager Renteria ejected by HP umpire Estabrook for arguing called third strike"
-"CHA201804250",74,"$White Sox challenged call that Cano was safe at 1st; call was upheld - safe on error"
-"CHA201805040",35,"$Twins challenged call that Castro was out at home; call was upheld - out at home"
-"CHA201805040",47,"$Yoan Moncada left with injured leg"
-"CHA201805050",67,"$Twins challenged call the LaMarre was out at second; call was upheld - out on caught stealing"
-"CHA201805080",6,"$White Sox challenged call that Garcia was out at first; call was overturned - single"
-"CHA201805080",31,"$White Sox challenged call that Moran was safe at 1st, claiming DP; call was upheld - force out, no DP"
-"CHA201805080",84,"$Umpire review of play at first; call was upheld - ground out"
-"CHA201805090",33,"$Nicky Delmonico left with injured leg"
-"CHA201805170",67,"ej,banij001,M,nauep901,Arguing balls and strikes $Rangers manager Banister ejected by plate umpire Nauert for arguing balls and strikes"
-"CHA201805180",26,"$Nicky Delmonico left with an injured hand"
-"CHA201805200",30,"$Rangers challenged call that Rua hit foul tip; claiming ball had hit him; call was upheld - foul tip strike 3"
-"CHA201805210",67,"ej,trumm001,P,rehaj901,Arguing strike three swing $Mark Trumbo ejected by plate umpire Jeremie Rehak for arguing swing on third strike"
-"CHA201805230",51,"Leury Garcia left with an injured knee"
-"CHA201806030",45,"$Breweres challenged call that Villar was out at second; call was upheld - out on caught stealing"
-"CHA201806130",9,"$Indians challenged call that Sanchez was safe at 2nd; call was upheld - safe on wild pitch"
-"CHA201806160",39,"$Originally scored as steal, changed on 06-20-2018 to safe on pickoff, caught stealing, making Tilson's run unearned"
-"CHA201806230",4,"$White Sox challenged call that second pitch to Moncada was foul ball; call was overturned - hit by pitch"
-"CHA201806230",24,"$Previous two plays really one, but must be separated for computer input; Fowler was safe on dropped catch error but thought he was out and started for dugout; 3bman picked up loose ball and tagged Fowler a few steps back toward 1st"
-"CHA201806230",26,"$Daniel Mengden left with an injured foot"
-"CHA201806230",39,"$Volstad entered with 2-0 count, walk charged to Covey, who left with an injured hip"
-"CHA201806240",37,"$White Sox challenged call that Anderson was out at 2nd; call was upheld - out on caught stealing"
-"CHA201806260",24,"$Twins challenged call that Abreu was hit by pitch; call was upheld - hit by pitch"
-"CHA201806260",69,"$Run originally scored as earned, changed to unearned on 06-27-2018"
-"CHA201806270",47,"ej,glyng801,C,davig901,Arguing balk non-call ej,moilp001,M,davig901,Arguing balk non-call $Shields faked a throw to third and 3b umpire Davis called a balk but umpires discussed the play and reversed the call to no balk; Minnesota Third Base Coach Gene Glynn and was ejected by 3B umpire; Minnesota Manager Paul Molitor also argued and was ejected by Davis"
-"CHA201806280",16,"$White Sox challenged call that Sanchez hit third pitch foul; call was upheld - foul ball"
-"CHA201806280",78,"$Umpire review play at first; call was upheld - safe on error"
-"CHA201806280",92,"ej,andet001,P,davig901,Arguing caught stealing $Umpire review of play at 2nd; Anderson was originally called safe on stolen base and call was then reversed; when call was upheld, Anderson threw his helmet and was ejected by 2b umpire Davis"
-"CHA201806280",110,"$Umpire review play at first; call was upheld - ground out; Sanchez tripped over first base and injured leg"
-"CHA201807100",19,"Mound Visit"
-"CHA201807100",29,"Injury Delay"
-"CHA201807100",44,"On-field Delay"
-"CHA201807100",45,"Mound Visit"
-"CHA201807100",48,"Mound Visit"
-"CHA201807100",53,"Mound Visit"
-"CHA201807100",54,"Mound Visit"
-"CHA201807110",3,"Injury Delay"
-"CHA201807110",7,"$Cardinals challenged call that Sanchez was safe at first; call was upheld - single"
-"CHA201807110",40,"Mound Visit"
-"CHA201807110",44,"Injury Delay"
-"CHA201807110",57,"Mound Visit"
-"CHA201807110",58,"Mound Visit"
-"CHA201807130",5,"Mound Visit"
-"CHA201807130",8,"Mound Visit"
-"CHA201807130",33,"Injury Delay"
-"CHA201807130",35,"Mound Visit"
-"CHA201807130",49,"$Royals challenged call that LaMarre was safe at 2nd; call was upheld - single and advance on error"
-"CHA201807130",58,"Mound Visit"
-"CHA201807130",67,"Mound Visit"
-"CHA201807130",68,"Mound Visit"
-"CHA201807130",69,"Mound Visit"
-"CHA201807130",78,"Mound Visit"
-"CHA201807140",33,"Mound Visit"
-"CHA201807140",37,"On-field Delay"
-"CHA201807140",39,"ej,rentr001,M,hamaa901,Arguing balls and strikes $Chicago manager Renteria ejected from dugout by plate umpire Hamari for arguing balls and strikes Injury Delay"
-"CHA201807140",39,"$Yoan Moncada left with an injured knee"
-"CHA201807140",64,"Mound Visit"
-"CHA201807140",72,"Mound Visit"
-"CHA201807150",26,"Mound Visit"
-"CHA201807150",43,"Mound Visit"
-"CHA201807150",45,"Mound Visit"
-"CHA201807150",52,"Mound Visit"
-"CHA201807150",56,"Mound Visit"
-"CHA201807270",4,"ej,rentr001,M,culbf901,Check swing ej,coopd001,C,culbf901,Check swing $Chicago manager Renteria and coach Cooper ejected by 3B umpire Culbreth for arguing ball 4 was really check swing strike 3"
-"CHA201807270",10,"Mound Visit"
-"CHA201807270",15,"Mound Visit"
-"CHA201807270",40,"Mound Visit"
-"CHA201807270",43,"On-field Delay"
-"CHA201807270",63,"Mound Visit"
-"CHA201807270",67,"$There were four balls, but walk was not awarded"
-"CHA201807270",79,"Mound Visit"
-"CHA201807280",13,"Mound Visit"
-"CHA201807280",14,"Mound Visit"
-"CHA201807280",24,"$White Sox challenged call that Smith was out at first; call was overturned - single"
-"CHA201807280",33,"Mound Visit"
-"CHA201807280",37,"Mound Visit"
-"CHA201807280",51,"Mound Visit"
-"CHA201807280",63,"Mound Visit"
-"CHA201807280",70,"Mound Visit"
-"CHA201807280",72,"Mound Visit"
-"CHA201807280",73,"Injury Delay"
-"CHA201807280",75,"Mound Visit"
-"CHA201807290",45,"Mound Visit"
-"CHA201807290",55,"Injury Delay"
-"CHA201807290",57,"Mound Visit"
-"CHA201807290",58,"Mound Visit"
-"CHA201807290",59,"Mound Visit"
-"CHA201807290",66,"Mound Visit"
-"CHA201807290",71,"Injury Delay"
-"CHA201807310",14,"Mound Visit"
-"CHA201807310",31,"$White Sox challenged call that Navarez was out at first to complete double play; call was overturned - force out, no DP"
-"CHA201807310",50,"Mound Visit"
-"CHA201807310",62,"Mound Visit"
-"CHA201807310",67,"Mound Visit"
-"CHA201807310",73,"Injury Delay"
-"CHA201808010",16,"Mound Visit"
-"CHA201808010",17,"Mound Visit"
-"CHA201808010",39,"Mound Visit"
-"CHA201808010",53,"Mound Visit"
-"CHA201808010",58,"Mound Visit"
-"CHA201808010",59,"Mound Visit"
-"CHA201808010",61,"Mound Visit"
-"CHA201808010",62,"Mound Visit"
-"CHA201808010",72,"Mound Visit"
-"CHA201808010",74,"Mound Visit"
-"CHA201808020",36,"$White Sox challenged call that Garcia was out at third; call was overturned - ground rule double"
-"CHA201808020",37,"Mound Visit"
-"CHA201808020",52,"Mound Visit"
-"CHA201808020",57,"Mound Visit"
-"CHA201808020",58,"Mound Visit"
-"CHA201808020",60,"Mound Visit"
-"CHA201808020",66,"Mound Visit"
-"CHA201808020",70,"Mound Visit"
-"CHA201808020",71,"$Royals challenged call that Phillips left second too soon for double play; callw as overturned - fly out, no DP"
-"CHA201808060",24,"Mound Visit"
-"CHA201808060",25,"Mound Visit"
-"CHA201808060",48,"Mound Visit"
-"CHA201808060",62,"Mound Visit"
-"CHA201808060",69,"Mound Visit"
-"CHA201808070",28,"Mound Visit"
-"CHA201808070",35,"$Batter's interference"
-"CHA201808070",42,"Mound Visit"
-"CHA201808070",49,"Mound Visit"
-"CHA201808070",53,"Mound Visit"
-"CHA201808070",66,"Mound Visit"
-"CHA201808070",73,"Mound Visit"
-"CHA201808070",74,"Mound Visit"
-"CHA201808070",97,"Mound Visit"
-"CHA201808070",99,"Mound Visit"
-"CHA201808080",8,"Mound Visit"
-"CHA201808080",11,"Mound Visit"
-"CHA201808080",15,"Mound Visit"
-"CHA201808080",58,"Mound Visit"
-"CHA201808080",73,"Mound Visit"
-"CHA201808080",79,"$2b umpire Dreckman left for four pitches to have moth removed from his left ear by Chicago trainer"
-"CHA201808100",4,"Mound Visit"
-"CHA201808100",17,"Mound Visit"
-"CHA201808100",26,"$Edwin Encarnacion left with an injured arm"
-"CHA201808100",53,"Mound Visit"
-"CHA201808100",61,"Mound Visit"
-"CHA201808100",63,"Mound Visit"
-"CHA201808100",64,"Mound Visit"
-"CHA201808100",65,"Mound Visit"
-"CHA201808110",50,"Injury Delay"
-"CHA201808110",51,"Mound Visit"
-"CHA201808110",52,"Mound Visit"
-"CHA201808110",58,"Injury Delay"
-"CHA201808110",59,"Mound Visit"
-"CHA201808120",10,"$Indians challenged call that Sanchez was safe at second; call was upheld - safe on fielder's choice; scoring changed to throwing error on 08-13-2018, making run unearned"
-"CHA201808120",18,"Mound Visit"
-"CHA201808120",19,"Mound Visit"
-"CHA201808120",29,"Mound Visit"
-"CHA201808120",35,"$White Sox challenged call that Lindor was safe at second; call was overturned - out on caught stealing"
-"CHA201808120",58,"Mound Visit"
-"CHA201808120",68,"Mound Visit"
-"CHA201808120",83,"Mound Visit"
-"CHA201808120",84,"Mound Visit"
-"CHA201808170",6,"$Royals challenged call that Sanchez was safe on pickoff attempt after 5th pitch; call was upheld - safe on pickoff attempt"
-"CHA201808170",25,"Mound Visit"
-"CHA201808170",43,"Mound Visit"
-"CHA201808170",45,"Mound Visit"
-"CHA201808170",51,"Mound Visit"
-"CHA201808170",59,"Mound Visit"
-"CHA201808170",64,"Mound Visit"
-"CHA201808170",65,"Mound Visit"
-"CHA201808170",66,"Mound Visit"
-"CHA201808170",69,"Mound Visit"
-"CHA201808180",43,"Mound Visit"
-"CHA201808180",44,"Mound Visit"
-"CHA201808180",48,"Mound Visit"
-"CHA201808180",49,"Mound Visit"
-"CHA201808180",53,"Mound Visit"
-"CHA201808180",59,"Mound Visit"
-"CHA201808180",64,"Mound Visit"
-"CHA201808180",73,"Mound Visit"
-"CHA201808190",12,"Mound Visit"
-"CHA201808190",16,"Mound Visit"
-"CHA201808190",21,"Mound Visit"
-"CHA201808190",24,"On-field Delay"
-"CHA201808190",35,"Injury Delay"
-"CHA201808190",37,"Mound Visit"
-"CHA201808190",39,"Mound Visit"
-"CHA201808190",61,"Mound Visit"
-"CHA201808190",75,"Mound Visit"
-"CHA201808210",28,"Mound Visit"
-"CHA201808210",42,"Mound Visit"
-"CHA201808210",69,"Mound Visit"
-"CHA201808210",70,"Mound Visit"
-"CHA201808220",5,"Mound Visit"
-"CHA201808220",42,"Mound Visit"
-"CHA201808220",45,"Mound Visit"
-"CHA201808220",49,"Mound Visit"
-"CHA201808220",57,"Mound Visit"
-"CHA201808220",62,"Mound Visit"
-"CHA201808220",77,"Mound Visit"
-"CHA201808300",11,"Mound Visit"
-"CHA201808300",19,"$White Sox challenged call that Delmonico was out at 3rd; call was overturned - safe at 3rd"
-"CHA201808300",39,"Mound Visit"
-"CHA201808300",42,"$Red Sox challenged call that Anderson was safe at 1st; call was overturned - ground out"
-"CHA201808300",48,"Mound Visit"
-"CHA201808300",52,"Mound Visit"
-"CHA201808300",53,"Mound Visit"
-"CHA201808300",59,"Mound Visit"
-"CHA201808300",60,"$Red Sox challenged call that Sanchez was safe at 2nd; call was upheld - stolen base"
-"CHA201808300",71,"Mound Visit"
-"CHA201808300",75,"Mound Visit"
-"CHA201808310",1,"Injury Delay Mound Visit"
-"CHA201808310",18,"Mound Visit $Fan interference"
-"CHA201808310",26,"Injury Delay"
-"CHA201808310",54,"Mound Visit"
-"CHA201808310",61,"Mound Visit"
-"CHA201808310",69,"ej,bogax001,P,littw901,Called third strike $Bogaerts ejected by plate umpire Little for arguing called third strike"
-"CHA201808310",71,"ej,porcr001,P,littw901,Balls and strikes $Boston pitcher Porcello, not in game, ejected from dugout by plate umpire Little for arguing balls and strikes"
-"CHA201809010",0,"Injury Delay"
-"CHA201809010",21,"Injury Delay"
-"CHA201809010",27,"$Umpire Review of ball hit by Nunez; call was overturned - home run, not double"
-"CHA201809010",39,"Mound Visit"
-"CHA201809010",45,"Mound Visit"
-"CHA201809010",46,"$Avisail Garcia left with an injured knee"
-"CHA201809010",49,"Mound Visit"
-"CHA201809010",51,"Mound Visit"
-"CHA201809010",61,"Mound Visit"
-"CHA201809020",12,"Mound Visit"
-"CHA201809020",22,"Mound Visit"
-"CHA201809020",23,"Mound Visit"
-"CHA201809020",62,"Injury Delay"
-"CHA201809020",65,"$Ryan LaMarre left with an injured hip"
-"CHA201809020",70,"Injury Delay"
-"CHA201809030",1,"Mound Visit"
-"CHA201809030",30,"Mound Visit"
-"CHA201809030",44,"Injury Delay"
-"CHA201809030",44,"$Michael Fulmer left with an injured leg"
-"CHA201809030",60,"Mound Visit"
-"CHA201809030",65,"Mound Visit"
-"CHA201809040",10,"Mound Visit"
-"CHA201809040",13,"Mound Visit"
-"CHA201809040",14,"Mound Visit"
-"CHA201809040",37,"Mound Visit"
-"CHA201809040",38,"Mound Visit"
-"CHA201809040",54,"Mound Visit"
-"CHA201809040",67,"Mound Visit"
-"CHA201809040",71,"$White Sox challenged call that Lugo was safe at 2nd; call was overturned - single and out advancing"
-"CHA201809040",74,"On-field Delay"
-"CHA201809050",28,"Mound Visit"
-"CHA201809050",29,"Mound Visit"
-"CHA201809050",32,"Mound Visit"
-"CHA201809050",49,"Mound Visit"
-"CHA201809050",50,"Mound Visit"
-"CHA201809050",61,"Mound Visit"
-"CHA201809070",17,"Mound Visit"
-"CHA201809070",32,"Mound Visit"
-"CHA201809070",40,"Mound Visit"
-"CHA201809070",43,"Mound Visit"
-"CHA201809070",51,"On-field Delay"
-"CHA201809070",65,"Mound Visit"
-"CHA201809070",75,"Injury Delay"
-"CHA201809080",40,"Mound Visit"
-"CHA201809080",43,"Mound Visit"
-"CHA201809080",44,"Mound Visit"
-"CHA201809080",54,"Mound Visit"
-"CHA201809080",59,"Mound Visit"
-"CHA201809080",65,"Mound Visit"
-"CHA201809080",70,"Mound Visit"
-"CHA201809080",78,"Mound Visit"
-"CHA201809080",80,"Injury Delay"
-"CHA201809080",82,"Mound Visit"
-"CHA201809080",83,"Mound Visit"
-"CHA201809090",46,"Mound Visit"
-"CHA201809090",47,"Mound Visit"
-"CHA201809090",48,"Mound Visit"
-"CHA201809090",50,"Mound Visit"
-"CHA201809090",52,"Mound Visit"
-"CHA201809090",56,"$White Sox challenged call that Ohtani was safe at 3rd; call was overturned - out on caught stealing"
-"CHA201809090",65,"Mound Visit"
-"CHA201809090",68,"Mound Visit"
-"CHA201809090",70,"Mound Visit"
-"CHA201809090",71,"Mound Visit Mound Visit"
-"CHA201809210",16,"Mound Visit"
-"CHA201809210",47,"Mound Visit"
-"CHA201809210",51,"Mound Visit"
-"CHA201809210",53,"$White Sox challenged call that Anderson was out at 1st to complete double play; call was upheld - double play"
-"CHA201809210",61,"Mound Visit"
-"CHA201809210",63,"Mound Visit"
-"CHA201809210",67,"Mound Visit"
-"CHA201809210",70,"Mound Visit"
-"CHA201809210",72,"Mound Visit"
-"CHA201809210",78,"Mound Visit"
-"CHA201809220",34,"$White Sox challenged call that Contreras was safe at 1st; call was overturned - ground out"
-"CHA201809220",38,"Mound Visit"
-"CHA201809220",47,"Mound Visit"
-"CHA201809220",48,"Mound Visit"
-"CHA201809220",52,"Mound Visit"
-"CHA201809220",60,"Mound Visit"
-"CHA201809220",62,"Mound Visit"
-"CHA201809220",70,"Mound Visit"
-"CHA201809220",72,"$fan interference"
-"CHA201809220",77,"Mound Visit"
-"CHA201809220",78,"$White Sox challenged call at 2nd, claiming Baez was guilty of slide interference; call was upheld - force out, no interference;"
-"CHA201809220",79,"ej,andet001,P,westj901,Arguing non-call of slide interference ej,rentr001,M,westj901,Arguing non-call of slide interference $After first pitch to Bryant, White Sox shortstop Anderson asked for an explanation on the non-call of interference which escalated into an argument with 2b umpire West who ejected him; White Sox manager Renteria came out to argue and was also ejected by West"
-"CHA201809230",23,"Mound Visit"
-"CHA201809230",25,"Mound Visit"
-"CHA201809230",60,"Mound Visit"
-"CHA201809230",68,"Mound Visit"
-"CHA201809230",74,"Mound Visit"
-"CHA201809240",27,"Mound Visit"
-"CHA201809240",37,"Mound Visit"
-"CHA201809240",60,"Mound Visit"
-"CHA201809240",70,"Mound Visit"
-"CHA201809250",22,"Mound Visit"
-"CHA201809250",37,"$Nicky Delmonico left with an injured shoulder"
-"CHA201809250",50,"$Michael Brantley left with an injured leg"
-"CHA201809250",62,"Mound Visit"
-"CHA201809250",64,"Mound Visit"
-"CHA201809250",72,"Mound Visit"
-"CHA201809250",76,"Mound Visit"
-"CHA201809250",76,"$Indians challenged call that Sanchez was safe at 2nd; call was upheld - safe on pickoff attempt after 1st pitch"
-"CHA201809260",5,"Mound Visit"
-"CHA201809260",32,"Mound Visit"
-"CHA201809260",34,"Mound Visit"
-"CHA201809260",41,"Mound Visit"
-"CHA201809260",55,"Mound Visit"
-"CHA201809260",73,"Injury Delay"
-"CHA201809260",84,"Mound Visit"
-"CHA201809260",88,"Mound Visit"
+"CHA201804050",17,"$White Sox challenged call that Martin was safe on pickoff attempt; call was overturned - pickoff and caught stealing"FILENAME_TX","LINE_NUMBER_CT"
+
+"CHA201804050",17,"$Miguel Cabrera left game with injured hip"2018CHA.EVA.regular.comment.csv",2
+
+"CHA201804050",33,"$White Sox challenged call that McCann was safe at first on error; call was overturned - ground out"2018CHA.EVA.regular.comment.csv",3
+
+"CHA201804050",91,"$Tigers challenged call that Iglesias was forced at 2nd; call was overturned - safe at 2nd on fielder's choice"2018CHA.EVA.regular.comment.csv",4
+
+"CHA201804070",33,"$Tigers challenged call that Jones was caught stealing; call was overturned - stolen base"2018CHA.EVA.regular.comment.csv",5
+
+"CHA201804070",50,"$Tigers challenged call that Iglesias was safe at first; call was overturned - ground out"2018CHA.EVA.regular.comment.csv",6
+
+"CHA201804090",78,"$Rays challenged call that Smith was out at home; call was upheld - out at home for caught stealing"2018CHA.EVA.regular.comment.csv",7
+
+"CHA201804100",58,"Wellington Castillo left game with injured knee"2018CHA.EVA.regular.comment.csv",8
+
+"CHA201804110",36,"$Rays challenged call that Anderson was safe on pickoff attempt; call was overturned - pickoff at 1st"2018CHA.EVA.regular.comment.csv",9
+
+"CHA201804200",50,"$Danny Farquhar collapsed unconscious in the White Sox dugout as he came off the field; tests revealed he suffered a ruptured brain aneurysm and he was hospitalized in neurological ICU at RUSH University Medical Center"2018CHA.EVA.regular.comment.csv",10
+
+"CHA201804220",25,"$White Sox challenged call that Moncada was out at home; call was upheld - out at home"2018CHA.EVA.regular.comment.csv",11
+
+"CHA201804230",23,"$Avisail Garcia left game with injured leg"2018CHA.EVA.regular.comment.csv",12
+
+"CHA201804230",64,"$These two outs were originally scored as separate and not a DP; changed on 04-24-2018 to double play"2018CHA.EVA.regular.comment.csv",13
+
+"CHA201804240",30,"$Mariners challenged call that Castillo was safe at first on error; call was upheld - safe at first"2018CHA.EVA.regular.comment.csv",14
+
+"CHA201804240",48,"ej,rentr001,M,estam901,Arguing called third strike $White Sox manager Renteria ejected by HP umpire Estabrook for arguing called third strike"2018CHA.EVA.regular.comment.csv",15
+
+"CHA201804250",74,"$White Sox challenged call that Cano was safe at 1st; call was upheld - safe on error"2018CHA.EVA.regular.comment.csv",16
+
+"CHA201805040",35,"$Twins challenged call that Castro was out at home; call was upheld - out at home"2018CHA.EVA.regular.comment.csv",17
+
+"CHA201805040",47,"$Yoan Moncada left with injured leg"2018CHA.EVA.regular.comment.csv",18
+
+"CHA201805050",67,"$Twins challenged call the LaMarre was out at second; call was upheld - out on caught stealing"2018CHA.EVA.regular.comment.csv",19
+
+"CHA201805080",6,"$White Sox challenged call that Garcia was out at first; call was overturned - single"2018CHA.EVA.regular.comment.csv",20
+
+"CHA201805080",31,"$White Sox challenged call that Moran was safe at 1st, claiming DP; call was upheld - force out, no DP"2018CHA.EVA.regular.comment.csv",21
+
+"CHA201805080",84,"$Umpire review of play at first; call was upheld - ground out"2018CHA.EVA.regular.comment.csv",22
+
+"CHA201805090",33,"$Nicky Delmonico left with injured leg"2018CHA.EVA.regular.comment.csv",23
+
+"CHA201805170",67,"ej,banij001,M,nauep901,Arguing balls and strikes $Rangers manager Banister ejected by plate umpire Nauert for arguing balls and strikes"2018CHA.EVA.regular.comment.csv",24
+
+"CHA201805180",26,"$Nicky Delmonico left with an injured hand"2018CHA.EVA.regular.comment.csv",25
+
+"CHA201805200",30,"$Rangers challenged call that Rua hit foul tip; claiming ball had hit him; call was upheld - foul tip strike 3"2018CHA.EVA.regular.comment.csv",26
+
+"CHA201805210",67,"ej,trumm001,P,rehaj901,Arguing strike three swing $Mark Trumbo ejected by plate umpire Jeremie Rehak for arguing swing on third strike"2018CHA.EVA.regular.comment.csv",27
+
+"CHA201805230",51,"Leury Garcia left with an injured knee"2018CHA.EVA.regular.comment.csv",28
+
+"CHA201806030",45,"$Breweres challenged call that Villar was out at second; call was upheld - out on caught stealing"2018CHA.EVA.regular.comment.csv",29
+
+"CHA201806130",9,"$Indians challenged call that Sanchez was safe at 2nd; call was upheld - safe on wild pitch"2018CHA.EVA.regular.comment.csv",30
+
+"CHA201806160",39,"$Originally scored as steal, changed on 06-20-2018 to safe on pickoff, caught stealing, making Tilson's run unearned"2018CHA.EVA.regular.comment.csv",31
+
+"CHA201806230",4,"$White Sox challenged call that second pitch to Moncada was foul ball; call was overturned - hit by pitch"2018CHA.EVA.regular.comment.csv",32
+
+"CHA201806230",24,"$Previous two plays really one, but must be separated for computer input; Fowler was safe on dropped catch error but thought he was out and started for dugout; 3bman picked up loose ball and tagged Fowler a few steps back toward 1st"2018CHA.EVA.regular.comment.csv",33
+
+"CHA201806230",26,"$Daniel Mengden left with an injured foot"2018CHA.EVA.regular.comment.csv",34
+
+"CHA201806230",39,"$Volstad entered with 2-0 count, walk charged to Covey, who left with an injured hip"2018CHA.EVA.regular.comment.csv",35
+
+"CHA201806240",37,"$White Sox challenged call that Anderson was out at 2nd; call was upheld - out on caught stealing"2018CHA.EVA.regular.comment.csv",36
+
+"CHA201806260",24,"$Twins challenged call that Abreu was hit by pitch; call was upheld - hit by pitch"2018CHA.EVA.regular.comment.csv",37
+
+"CHA201806260",69,"$Run originally scored as earned, changed to unearned on 06-27-2018"2018CHA.EVA.regular.comment.csv",38
+
+"CHA201806270",47,"ej,glyng801,C,davig901,Arguing balk non-call ej,moilp001,M,davig901,Arguing balk non-call $Shields faked a throw to third and 3b umpire Davis called a balk but umpires discussed the play and reversed the call to no balk; Minnesota Third Base Coach Gene Glynn and was ejected by 3B umpire; Minnesota Manager Paul Molitor also argued and was ejected by Davis"2018CHA.EVA.regular.comment.csv",39
+
+"CHA201806280",16,"$White Sox challenged call that Sanchez hit third pitch foul; call was upheld - foul ball"2018CHA.EVA.regular.comment.csv",40
+
+"CHA201806280",78,"$Umpire review play at first; call was upheld - safe on error"2018CHA.EVA.regular.comment.csv",41
+
+"CHA201806280",92,"ej,andet001,P,davig901,Arguing caught stealing $Umpire review of play at 2nd; Anderson was originally called safe on stolen base and call was then reversed; when call was upheld, Anderson threw his helmet and was ejected by 2b umpire Davis"2018CHA.EVA.regular.comment.csv",42
+
+"CHA201806280",110,"$Umpire review play at first; call was upheld - ground out; Sanchez tripped over first base and injured leg"2018CHA.EVA.regular.comment.csv",43
+
+"CHA201807100",19,"Mound Visit"2018CHA.EVA.regular.comment.csv",44
+
+"CHA201807100",29,"Injury Delay"2018CHA.EVA.regular.comment.csv",45
+
+"CHA201807100",44,"On-field Delay"2018CHA.EVA.regular.comment.csv",46
+
+"CHA201807100",45,"Mound Visit"2018CHA.EVA.regular.comment.csv",47
+
+"CHA201807100",48,"Mound Visit"2018CHA.EVA.regular.comment.csv",48
+
+"CHA201807100",53,"Mound Visit"2018CHA.EVA.regular.comment.csv",49
+
+"CHA201807100",54,"Mound Visit"2018CHA.EVA.regular.comment.csv",50
+
+"CHA201807110",3,"Injury Delay"2018CHA.EVA.regular.comment.csv",51
+
+"CHA201807110",7,"$Cardinals challenged call that Sanchez was safe at first; call was upheld - single"2018CHA.EVA.regular.comment.csv",52
+
+"CHA201807110",40,"Mound Visit"2018CHA.EVA.regular.comment.csv",53
+
+"CHA201807110",44,"Injury Delay"2018CHA.EVA.regular.comment.csv",54
+
+"CHA201807110",57,"Mound Visit"2018CHA.EVA.regular.comment.csv",55
+
+"CHA201807110",58,"Mound Visit"2018CHA.EVA.regular.comment.csv",56
+
+"CHA201807130",5,"Mound Visit"2018CHA.EVA.regular.comment.csv",57
+
+"CHA201807130",8,"Mound Visit"2018CHA.EVA.regular.comment.csv",58
+
+"CHA201807130",33,"Injury Delay"2018CHA.EVA.regular.comment.csv",59
+
+"CHA201807130",35,"Mound Visit"2018CHA.EVA.regular.comment.csv",60
+
+"CHA201807130",49,"$Royals challenged call that LaMarre was safe at 2nd; call was upheld - single and advance on error"2018CHA.EVA.regular.comment.csv",61
+
+"CHA201807130",58,"Mound Visit"2018CHA.EVA.regular.comment.csv",62
+
+"CHA201807130",67,"Mound Visit"2018CHA.EVA.regular.comment.csv",63
+
+"CHA201807130",68,"Mound Visit"2018CHA.EVA.regular.comment.csv",64
+
+"CHA201807130",69,"Mound Visit"2018CHA.EVA.regular.comment.csv",65
+
+"CHA201807130",78,"Mound Visit"2018CHA.EVA.regular.comment.csv",66
+
+"CHA201807140",33,"Mound Visit"2018CHA.EVA.regular.comment.csv",67
+
+"CHA201807140",37,"On-field Delay"2018CHA.EVA.regular.comment.csv",68
+
+"CHA201807140",39,"ej,rentr001,M,hamaa901,Arguing balls and strikes $Chicago manager Renteria ejected from dugout by plate umpire Hamari for arguing balls and strikes Injury Delay"2018CHA.EVA.regular.comment.csv",69
+
+"CHA201807140",39,"$Yoan Moncada left with an injured knee"2018CHA.EVA.regular.comment.csv",70
+
+"CHA201807140",64,"Mound Visit"2018CHA.EVA.regular.comment.csv",71
+
+"CHA201807140",72,"Mound Visit"2018CHA.EVA.regular.comment.csv",72
+
+"CHA201807150",26,"Mound Visit"2018CHA.EVA.regular.comment.csv",73
+
+"CHA201807150",43,"Mound Visit"2018CHA.EVA.regular.comment.csv",74
+
+"CHA201807150",45,"Mound Visit"2018CHA.EVA.regular.comment.csv",75
+
+"CHA201807150",52,"Mound Visit"2018CHA.EVA.regular.comment.csv",76
+
+"CHA201807150",56,"Mound Visit"2018CHA.EVA.regular.comment.csv",77
+
+"CHA201807270",4,"ej,rentr001,M,culbf901,Check swing ej,coopd001,C,culbf901,Check swing $Chicago manager Renteria and coach Cooper ejected by 3B umpire Culbreth for arguing ball 4 was really check swing strike 3"2018CHA.EVA.regular.comment.csv",78
+
+"CHA201807270",10,"Mound Visit"2018CHA.EVA.regular.comment.csv",79
+
+"CHA201807270",15,"Mound Visit"2018CHA.EVA.regular.comment.csv",80
+
+"CHA201807270",40,"Mound Visit"2018CHA.EVA.regular.comment.csv",81
+
+"CHA201807270",43,"On-field Delay"2018CHA.EVA.regular.comment.csv",82
+
+"CHA201807270",63,"Mound Visit"2018CHA.EVA.regular.comment.csv",83
+
+"CHA201807270",67,"$There were four balls, but walk was not awarded"2018CHA.EVA.regular.comment.csv",84
+
+"CHA201807270",79,"Mound Visit"2018CHA.EVA.regular.comment.csv",85
+
+"CHA201807280",13,"Mound Visit"2018CHA.EVA.regular.comment.csv",86
+
+"CHA201807280",14,"Mound Visit"2018CHA.EVA.regular.comment.csv",87
+
+"CHA201807280",24,"$White Sox challenged call that Smith was out at first; call was overturned - single"2018CHA.EVA.regular.comment.csv",88
+
+"CHA201807280",33,"Mound Visit"2018CHA.EVA.regular.comment.csv",89
+
+"CHA201807280",37,"Mound Visit"2018CHA.EVA.regular.comment.csv",90
+
+"CHA201807280",51,"Mound Visit"2018CHA.EVA.regular.comment.csv",91
+
+"CHA201807280",63,"Mound Visit"2018CHA.EVA.regular.comment.csv",92
+
+"CHA201807280",70,"Mound Visit"2018CHA.EVA.regular.comment.csv",93
+
+"CHA201807280",72,"Mound Visit"2018CHA.EVA.regular.comment.csv",94
+
+"CHA201807280",73,"Injury Delay"2018CHA.EVA.regular.comment.csv",95
+
+"CHA201807280",75,"Mound Visit"2018CHA.EVA.regular.comment.csv",96
+
+"CHA201807290",45,"Mound Visit"2018CHA.EVA.regular.comment.csv",97
+
+"CHA201807290",55,"Injury Delay"2018CHA.EVA.regular.comment.csv",98
+
+"CHA201807290",57,"Mound Visit"2018CHA.EVA.regular.comment.csv",99
+
+"CHA201807290",58,"Mound Visit"2018CHA.EVA.regular.comment.csv",100
+
+"CHA201807290",59,"Mound Visit"2018CHA.EVA.regular.comment.csv",101
+
+"CHA201807290",66,"Mound Visit"2018CHA.EVA.regular.comment.csv",102
+
+"CHA201807290",71,"Injury Delay"2018CHA.EVA.regular.comment.csv",103
+
+"CHA201807310",14,"Mound Visit"2018CHA.EVA.regular.comment.csv",104
+
+"CHA201807310",31,"$White Sox challenged call that Navarez was out at first to complete double play; call was overturned - force out, no DP"2018CHA.EVA.regular.comment.csv",105
+
+"CHA201807310",50,"Mound Visit"2018CHA.EVA.regular.comment.csv",106
+
+"CHA201807310",62,"Mound Visit"2018CHA.EVA.regular.comment.csv",107
+
+"CHA201807310",67,"Mound Visit"2018CHA.EVA.regular.comment.csv",108
+
+"CHA201807310",73,"Injury Delay"2018CHA.EVA.regular.comment.csv",109
+
+"CHA201808010",16,"Mound Visit"2018CHA.EVA.regular.comment.csv",110
+
+"CHA201808010",17,"Mound Visit"2018CHA.EVA.regular.comment.csv",111
+
+"CHA201808010",39,"Mound Visit"2018CHA.EVA.regular.comment.csv",112
+
+"CHA201808010",53,"Mound Visit"2018CHA.EVA.regular.comment.csv",113
+
+"CHA201808010",58,"Mound Visit"2018CHA.EVA.regular.comment.csv",114
+
+"CHA201808010",59,"Mound Visit"2018CHA.EVA.regular.comment.csv",115
+
+"CHA201808010",61,"Mound Visit"2018CHA.EVA.regular.comment.csv",116
+
+"CHA201808010",62,"Mound Visit"2018CHA.EVA.regular.comment.csv",117
+
+"CHA201808010",72,"Mound Visit"2018CHA.EVA.regular.comment.csv",118
+
+"CHA201808010",74,"Mound Visit"2018CHA.EVA.regular.comment.csv",119
+
+"CHA201808020",36,"$White Sox challenged call that Garcia was out at third; call was overturned - ground rule double"2018CHA.EVA.regular.comment.csv",120
+
+"CHA201808020",37,"Mound Visit"2018CHA.EVA.regular.comment.csv",121
+
+"CHA201808020",52,"Mound Visit"2018CHA.EVA.regular.comment.csv",122
+
+"CHA201808020",57,"Mound Visit"2018CHA.EVA.regular.comment.csv",123
+
+"CHA201808020",58,"Mound Visit"2018CHA.EVA.regular.comment.csv",124
+
+"CHA201808020",60,"Mound Visit"2018CHA.EVA.regular.comment.csv",125
+
+"CHA201808020",66,"Mound Visit"2018CHA.EVA.regular.comment.csv",126
+
+"CHA201808020",70,"Mound Visit"2018CHA.EVA.regular.comment.csv",127
+
+"CHA201808020",71,"$Royals challenged call that Phillips left second too soon for double play; callw as overturned - fly out, no DP"2018CHA.EVA.regular.comment.csv",128
+
+"CHA201808060",24,"Mound Visit"2018CHA.EVA.regular.comment.csv",129
+
+"CHA201808060",25,"Mound Visit"2018CHA.EVA.regular.comment.csv",130
+
+"CHA201808060",48,"Mound Visit"2018CHA.EVA.regular.comment.csv",131
+
+"CHA201808060",62,"Mound Visit"2018CHA.EVA.regular.comment.csv",132
+
+"CHA201808060",69,"Mound Visit"2018CHA.EVA.regular.comment.csv",133
+
+"CHA201808070",28,"Mound Visit"2018CHA.EVA.regular.comment.csv",134
+
+"CHA201808070",35,"$Batter's interference"2018CHA.EVA.regular.comment.csv",135
+
+"CHA201808070",42,"Mound Visit"2018CHA.EVA.regular.comment.csv",136
+
+"CHA201808070",49,"Mound Visit"2018CHA.EVA.regular.comment.csv",137
+
+"CHA201808070",53,"Mound Visit"2018CHA.EVA.regular.comment.csv",138
+
+"CHA201808070",66,"Mound Visit"2018CHA.EVA.regular.comment.csv",139
+
+"CHA201808070",73,"Mound Visit"2018CHA.EVA.regular.comment.csv",140
+
+"CHA201808070",74,"Mound Visit"2018CHA.EVA.regular.comment.csv",141
+
+"CHA201808070",97,"Mound Visit"2018CHA.EVA.regular.comment.csv",142
+
+"CHA201808070",99,"Mound Visit"2018CHA.EVA.regular.comment.csv",143
+
+"CHA201808080",8,"Mound Visit"2018CHA.EVA.regular.comment.csv",144
+
+"CHA201808080",11,"Mound Visit"2018CHA.EVA.regular.comment.csv",145
+
+"CHA201808080",15,"Mound Visit"2018CHA.EVA.regular.comment.csv",146
+
+"CHA201808080",58,"Mound Visit"2018CHA.EVA.regular.comment.csv",147
+
+"CHA201808080",73,"Mound Visit"2018CHA.EVA.regular.comment.csv",148
+
+"CHA201808080",79,"$2b umpire Dreckman left for four pitches to have moth removed from his left ear by Chicago trainer"2018CHA.EVA.regular.comment.csv",149
+
+"CHA201808100",4,"Mound Visit"2018CHA.EVA.regular.comment.csv",150
+
+"CHA201808100",17,"Mound Visit"2018CHA.EVA.regular.comment.csv",151
+
+"CHA201808100",26,"$Edwin Encarnacion left with an injured arm"2018CHA.EVA.regular.comment.csv",152
+
+"CHA201808100",53,"Mound Visit"2018CHA.EVA.regular.comment.csv",153
+
+"CHA201808100",61,"Mound Visit"2018CHA.EVA.regular.comment.csv",154
+
+"CHA201808100",63,"Mound Visit"2018CHA.EVA.regular.comment.csv",155
+
+"CHA201808100",64,"Mound Visit"2018CHA.EVA.regular.comment.csv",156
+
+"CHA201808100",65,"Mound Visit"2018CHA.EVA.regular.comment.csv",157
+
+"CHA201808110",50,"Injury Delay"2018CHA.EVA.regular.comment.csv",158
+
+"CHA201808110",51,"Mound Visit"2018CHA.EVA.regular.comment.csv",159
+
+"CHA201808110",52,"Mound Visit"2018CHA.EVA.regular.comment.csv",160
+
+"CHA201808110",58,"Injury Delay"2018CHA.EVA.regular.comment.csv",161
+
+"CHA201808110",59,"Mound Visit"2018CHA.EVA.regular.comment.csv",162
+
+"CHA201808120",10,"$Indians challenged call that Sanchez was safe at second; call was upheld - safe on fielder's choice; scoring changed to throwing error on 08-13-2018, making run unearned"2018CHA.EVA.regular.comment.csv",163
+
+"CHA201808120",18,"Mound Visit"2018CHA.EVA.regular.comment.csv",164
+
+"CHA201808120",19,"Mound Visit"2018CHA.EVA.regular.comment.csv",165
+
+"CHA201808120",29,"Mound Visit"2018CHA.EVA.regular.comment.csv",166
+
+"CHA201808120",35,"$White Sox challenged call that Lindor was safe at second; call was overturned - out on caught stealing"2018CHA.EVA.regular.comment.csv",167
+
+"CHA201808120",58,"Mound Visit"2018CHA.EVA.regular.comment.csv",168
+
+"CHA201808120",68,"Mound Visit"2018CHA.EVA.regular.comment.csv",169
+
+"CHA201808120",83,"Mound Visit"2018CHA.EVA.regular.comment.csv",170
+
+"CHA201808120",84,"Mound Visit"2018CHA.EVA.regular.comment.csv",171
+
+"CHA201808170",6,"$Royals challenged call that Sanchez was safe on pickoff attempt after 5th pitch; call was upheld - safe on pickoff attempt"2018CHA.EVA.regular.comment.csv",172
+
+"CHA201808170",25,"Mound Visit"2018CHA.EVA.regular.comment.csv",173
+
+"CHA201808170",43,"Mound Visit"2018CHA.EVA.regular.comment.csv",174
+
+"CHA201808170",45,"Mound Visit"2018CHA.EVA.regular.comment.csv",175
+
+"CHA201808170",51,"Mound Visit"2018CHA.EVA.regular.comment.csv",176
+
+"CHA201808170",59,"Mound Visit"2018CHA.EVA.regular.comment.csv",177
+
+"CHA201808170",64,"Mound Visit"2018CHA.EVA.regular.comment.csv",178
+
+"CHA201808170",65,"Mound Visit"2018CHA.EVA.regular.comment.csv",179
+
+"CHA201808170",66,"Mound Visit"2018CHA.EVA.regular.comment.csv",180
+
+"CHA201808170",69,"Mound Visit"2018CHA.EVA.regular.comment.csv",181
+
+"CHA201808180",43,"Mound Visit"2018CHA.EVA.regular.comment.csv",182
+
+"CHA201808180",44,"Mound Visit"2018CHA.EVA.regular.comment.csv",183
+
+"CHA201808180",48,"Mound Visit"2018CHA.EVA.regular.comment.csv",184
+
+"CHA201808180",49,"Mound Visit"2018CHA.EVA.regular.comment.csv",185
+
+"CHA201808180",53,"Mound Visit"2018CHA.EVA.regular.comment.csv",186
+
+"CHA201808180",59,"Mound Visit"2018CHA.EVA.regular.comment.csv",187
+
+"CHA201808180",64,"Mound Visit"2018CHA.EVA.regular.comment.csv",188
+
+"CHA201808180",73,"Mound Visit"2018CHA.EVA.regular.comment.csv",189
+
+"CHA201808190",12,"Mound Visit"2018CHA.EVA.regular.comment.csv",190
+
+"CHA201808190",16,"Mound Visit"2018CHA.EVA.regular.comment.csv",191
+
+"CHA201808190",21,"Mound Visit"2018CHA.EVA.regular.comment.csv",192
+
+"CHA201808190",24,"On-field Delay"2018CHA.EVA.regular.comment.csv",193
+
+"CHA201808190",35,"Injury Delay"2018CHA.EVA.regular.comment.csv",194
+
+"CHA201808190",37,"Mound Visit"2018CHA.EVA.regular.comment.csv",195
+
+"CHA201808190",39,"Mound Visit"2018CHA.EVA.regular.comment.csv",196
+
+"CHA201808190",61,"Mound Visit"2018CHA.EVA.regular.comment.csv",197
+
+"CHA201808190",75,"Mound Visit"2018CHA.EVA.regular.comment.csv",198
+
+"CHA201808210",28,"Mound Visit"2018CHA.EVA.regular.comment.csv",199
+
+"CHA201808210",42,"Mound Visit"2018CHA.EVA.regular.comment.csv",200
+
+"CHA201808210",69,"Mound Visit"2018CHA.EVA.regular.comment.csv",201
+
+"CHA201808210",70,"Mound Visit"2018CHA.EVA.regular.comment.csv",202
+
+"CHA201808220",5,"Mound Visit"2018CHA.EVA.regular.comment.csv",203
+
+"CHA201808220",42,"Mound Visit"2018CHA.EVA.regular.comment.csv",204
+
+"CHA201808220",45,"Mound Visit"2018CHA.EVA.regular.comment.csv",205
+
+"CHA201808220",49,"Mound Visit"2018CHA.EVA.regular.comment.csv",206
+
+"CHA201808220",57,"Mound Visit"2018CHA.EVA.regular.comment.csv",207
+
+"CHA201808220",62,"Mound Visit"2018CHA.EVA.regular.comment.csv",208
+
+"CHA201808220",77,"Mound Visit"2018CHA.EVA.regular.comment.csv",209
+
+"CHA201808300",11,"Mound Visit"2018CHA.EVA.regular.comment.csv",210
+
+"CHA201808300",19,"$White Sox challenged call that Delmonico was out at 3rd; call was overturned - safe at 3rd"2018CHA.EVA.regular.comment.csv",211
+
+"CHA201808300",39,"Mound Visit"2018CHA.EVA.regular.comment.csv",212
+
+"CHA201808300",42,"$Red Sox challenged call that Anderson was safe at 1st; call was overturned - ground out"2018CHA.EVA.regular.comment.csv",213
+
+"CHA201808300",48,"Mound Visit"2018CHA.EVA.regular.comment.csv",214
+
+"CHA201808300",52,"Mound Visit"2018CHA.EVA.regular.comment.csv",215
+
+"CHA201808300",53,"Mound Visit"2018CHA.EVA.regular.comment.csv",216
+
+"CHA201808300",59,"Mound Visit"2018CHA.EVA.regular.comment.csv",217
+
+"CHA201808300",60,"$Red Sox challenged call that Sanchez was safe at 2nd; call was upheld - stolen base"2018CHA.EVA.regular.comment.csv",218
+
+"CHA201808300",71,"Mound Visit"2018CHA.EVA.regular.comment.csv",219
+
+"CHA201808300",75,"Mound Visit"2018CHA.EVA.regular.comment.csv",220
+
+"CHA201808310",1,"Injury Delay Mound Visit"2018CHA.EVA.regular.comment.csv",221
+
+"CHA201808310",18,"Mound Visit $Fan interference"2018CHA.EVA.regular.comment.csv",222
+
+"CHA201808310",26,"Injury Delay"2018CHA.EVA.regular.comment.csv",223
+
+"CHA201808310",54,"Mound Visit"2018CHA.EVA.regular.comment.csv",224
+
+"CHA201808310",61,"Mound Visit"2018CHA.EVA.regular.comment.csv",225
+
+"CHA201808310",69,"ej,bogax001,P,littw901,Called third strike $Bogaerts ejected by plate umpire Little for arguing called third strike"2018CHA.EVA.regular.comment.csv",226
+
+"CHA201808310",71,"ej,porcr001,P,littw901,Balls and strikes $Boston pitcher Porcello, not in game, ejected from dugout by plate umpire Little for arguing balls and strikes"2018CHA.EVA.regular.comment.csv",227
+
+"CHA201809010",0,"Injury Delay"2018CHA.EVA.regular.comment.csv",228
+
+"CHA201809010",21,"Injury Delay"2018CHA.EVA.regular.comment.csv",229
+
+"CHA201809010",27,"$Umpire Review of ball hit by Nunez; call was overturned - home run, not double"2018CHA.EVA.regular.comment.csv",230
+
+"CHA201809010",39,"Mound Visit"2018CHA.EVA.regular.comment.csv",231
+
+"CHA201809010",45,"Mound Visit"2018CHA.EVA.regular.comment.csv",232
+
+"CHA201809010",46,"$Avisail Garcia left with an injured knee"2018CHA.EVA.regular.comment.csv",233
+
+"CHA201809010",49,"Mound Visit"2018CHA.EVA.regular.comment.csv",234
+
+"CHA201809010",51,"Mound Visit"2018CHA.EVA.regular.comment.csv",235
+
+"CHA201809010",61,"Mound Visit"2018CHA.EVA.regular.comment.csv",236
+
+"CHA201809020",12,"Mound Visit"2018CHA.EVA.regular.comment.csv",237
+
+"CHA201809020",22,"Mound Visit"2018CHA.EVA.regular.comment.csv",238
+
+"CHA201809020",23,"Mound Visit"2018CHA.EVA.regular.comment.csv",239
+
+"CHA201809020",62,"Injury Delay"2018CHA.EVA.regular.comment.csv",240
+
+"CHA201809020",65,"$Ryan LaMarre left with an injured hip"2018CHA.EVA.regular.comment.csv",241
+
+"CHA201809020",70,"Injury Delay"2018CHA.EVA.regular.comment.csv",242
+
+"CHA201809030",1,"Mound Visit"2018CHA.EVA.regular.comment.csv",243
+
+"CHA201809030",30,"Mound Visit"2018CHA.EVA.regular.comment.csv",244
+
+"CHA201809030",44,"Injury Delay"2018CHA.EVA.regular.comment.csv",245
+
+"CHA201809030",44,"$Michael Fulmer left with an injured leg"2018CHA.EVA.regular.comment.csv",246
+
+"CHA201809030",60,"Mound Visit"2018CHA.EVA.regular.comment.csv",247
+
+"CHA201809030",65,"Mound Visit"2018CHA.EVA.regular.comment.csv",248
+
+"CHA201809040",10,"Mound Visit"2018CHA.EVA.regular.comment.csv",249
+
+"CHA201809040",13,"Mound Visit"2018CHA.EVA.regular.comment.csv",250
+
+"CHA201809040",14,"Mound Visit"2018CHA.EVA.regular.comment.csv",251
+
+"CHA201809040",37,"Mound Visit"2018CHA.EVA.regular.comment.csv",252
+
+"CHA201809040",38,"Mound Visit"2018CHA.EVA.regular.comment.csv",253
+
+"CHA201809040",54,"Mound Visit"2018CHA.EVA.regular.comment.csv",254
+
+"CHA201809040",67,"Mound Visit"2018CHA.EVA.regular.comment.csv",255
+
+"CHA201809040",71,"$White Sox challenged call that Lugo was safe at 2nd; call was overturned - single and out advancing"2018CHA.EVA.regular.comment.csv",256
+
+"CHA201809040",74,"On-field Delay"2018CHA.EVA.regular.comment.csv",257
+
+"CHA201809050",28,"Mound Visit"2018CHA.EVA.regular.comment.csv",258
+
+"CHA201809050",29,"Mound Visit"2018CHA.EVA.regular.comment.csv",259
+
+"CHA201809050",32,"Mound Visit"2018CHA.EVA.regular.comment.csv",260
+
+"CHA201809050",49,"Mound Visit"2018CHA.EVA.regular.comment.csv",261
+
+"CHA201809050",50,"Mound Visit"2018CHA.EVA.regular.comment.csv",262
+
+"CHA201809050",61,"Mound Visit"2018CHA.EVA.regular.comment.csv",263
+
+"CHA201809070",17,"Mound Visit"2018CHA.EVA.regular.comment.csv",264
+
+"CHA201809070",32,"Mound Visit"2018CHA.EVA.regular.comment.csv",265
+
+"CHA201809070",40,"Mound Visit"2018CHA.EVA.regular.comment.csv",266
+
+"CHA201809070",43,"Mound Visit"2018CHA.EVA.regular.comment.csv",267
+
+"CHA201809070",51,"On-field Delay"2018CHA.EVA.regular.comment.csv",268
+
+"CHA201809070",65,"Mound Visit"2018CHA.EVA.regular.comment.csv",269
+
+"CHA201809070",75,"Injury Delay"2018CHA.EVA.regular.comment.csv",270
+
+"CHA201809080",40,"Mound Visit"2018CHA.EVA.regular.comment.csv",271
+
+"CHA201809080",43,"Mound Visit"2018CHA.EVA.regular.comment.csv",272
+
+"CHA201809080",44,"Mound Visit"2018CHA.EVA.regular.comment.csv",273
+
+"CHA201809080",54,"Mound Visit"2018CHA.EVA.regular.comment.csv",274
+
+"CHA201809080",59,"Mound Visit"2018CHA.EVA.regular.comment.csv",275
+
+"CHA201809080",65,"Mound Visit"2018CHA.EVA.regular.comment.csv",276
+
+"CHA201809080",70,"Mound Visit"2018CHA.EVA.regular.comment.csv",277
+
+"CHA201809080",78,"Mound Visit"2018CHA.EVA.regular.comment.csv",278
+
+"CHA201809080",80,"Injury Delay"2018CHA.EVA.regular.comment.csv",279
+
+"CHA201809080",82,"Mound Visit"2018CHA.EVA.regular.comment.csv",280
+
+"CHA201809080",83,"Mound Visit"2018CHA.EVA.regular.comment.csv",281
+
+"CHA201809090",46,"Mound Visit"2018CHA.EVA.regular.comment.csv",282
+
+"CHA201809090",47,"Mound Visit"2018CHA.EVA.regular.comment.csv",283
+
+"CHA201809090",48,"Mound Visit"2018CHA.EVA.regular.comment.csv",284
+
+"CHA201809090",50,"Mound Visit"2018CHA.EVA.regular.comment.csv",285
+
+"CHA201809090",52,"Mound Visit"2018CHA.EVA.regular.comment.csv",286
+
+"CHA201809090",56,"$White Sox challenged call that Ohtani was safe at 3rd; call was overturned - out on caught stealing"2018CHA.EVA.regular.comment.csv",287
+
+"CHA201809090",65,"Mound Visit"2018CHA.EVA.regular.comment.csv",288
+
+"CHA201809090",68,"Mound Visit"2018CHA.EVA.regular.comment.csv",289
+
+"CHA201809090",70,"Mound Visit"2018CHA.EVA.regular.comment.csv",290
+
+"CHA201809090",71,"Mound Visit Mound Visit"2018CHA.EVA.regular.comment.csv",291
+
+"CHA201809210",16,"Mound Visit"2018CHA.EVA.regular.comment.csv",292
+
+"CHA201809210",47,"Mound Visit"2018CHA.EVA.regular.comment.csv",293
+
+"CHA201809210",51,"Mound Visit"2018CHA.EVA.regular.comment.csv",294
+
+"CHA201809210",53,"$White Sox challenged call that Anderson was out at 1st to complete double play; call was upheld - double play"2018CHA.EVA.regular.comment.csv",295
+
+"CHA201809210",61,"Mound Visit"2018CHA.EVA.regular.comment.csv",296
+
+"CHA201809210",63,"Mound Visit"2018CHA.EVA.regular.comment.csv",297
+
+"CHA201809210",67,"Mound Visit"2018CHA.EVA.regular.comment.csv",298
+
+"CHA201809210",70,"Mound Visit"2018CHA.EVA.regular.comment.csv",299
+
+"CHA201809210",72,"Mound Visit"2018CHA.EVA.regular.comment.csv",300
+
+"CHA201809210",78,"Mound Visit"2018CHA.EVA.regular.comment.csv",301
+
+"CHA201809220",34,"$White Sox challenged call that Contreras was safe at 1st; call was overturned - ground out"2018CHA.EVA.regular.comment.csv",302
+
+"CHA201809220",38,"Mound Visit"2018CHA.EVA.regular.comment.csv",303
+
+"CHA201809220",47,"Mound Visit"2018CHA.EVA.regular.comment.csv",304
+
+"CHA201809220",48,"Mound Visit"2018CHA.EVA.regular.comment.csv",305
+
+"CHA201809220",52,"Mound Visit"2018CHA.EVA.regular.comment.csv",306
+
+"CHA201809220",60,"Mound Visit"2018CHA.EVA.regular.comment.csv",307
+
+"CHA201809220",62,"Mound Visit"2018CHA.EVA.regular.comment.csv",308
+
+"CHA201809220",70,"Mound Visit"2018CHA.EVA.regular.comment.csv",309
+
+"CHA201809220",72,"$fan interference"2018CHA.EVA.regular.comment.csv",310
+
+"CHA201809220",77,"Mound Visit"2018CHA.EVA.regular.comment.csv",311
+
+"CHA201809220",78,"$White Sox challenged call at 2nd, claiming Baez was guilty of slide interference; call was upheld - force out, no interference;"2018CHA.EVA.regular.comment.csv",312
+
+"CHA201809220",79,"ej,andet001,P,westj901,Arguing non-call of slide interference ej,rentr001,M,westj901,Arguing non-call of slide interference $After first pitch to Bryant, White Sox shortstop Anderson asked for an explanation on the non-call of interference which escalated into an argument with 2b umpire West who ejected him; White Sox manager Renteria came out to argue and was also ejected by West"2018CHA.EVA.regular.comment.csv",313
+
+"CHA201809230",23,"Mound Visit"2018CHA.EVA.regular.comment.csv",314
+
+"CHA201809230",25,"Mound Visit"2018CHA.EVA.regular.comment.csv",315
+
+"CHA201809230",60,"Mound Visit"2018CHA.EVA.regular.comment.csv",316
+
+"CHA201809230",68,"Mound Visit"2018CHA.EVA.regular.comment.csv",317
+
+"CHA201809230",74,"Mound Visit"2018CHA.EVA.regular.comment.csv",318
+
+"CHA201809240",27,"Mound Visit"2018CHA.EVA.regular.comment.csv",319
+
+"CHA201809240",37,"Mound Visit"2018CHA.EVA.regular.comment.csv",320
+
+"CHA201809240",60,"Mound Visit"2018CHA.EVA.regular.comment.csv",321
+
+"CHA201809240",70,"Mound Visit"2018CHA.EVA.regular.comment.csv",322
+
+"CHA201809250",22,"Mound Visit"2018CHA.EVA.regular.comment.csv",323
+
+"CHA201809250",37,"$Nicky Delmonico left with an injured shoulder"2018CHA.EVA.regular.comment.csv",324
+
+"CHA201809250",50,"$Michael Brantley left with an injured leg"2018CHA.EVA.regular.comment.csv",325
+
+"CHA201809250",62,"Mound Visit"2018CHA.EVA.regular.comment.csv",326
+
+"CHA201809250",64,"Mound Visit"2018CHA.EVA.regular.comment.csv",327
+
+"CHA201809250",72,"Mound Visit"2018CHA.EVA.regular.comment.csv",328
+
+"CHA201809250",76,"Mound Visit"2018CHA.EVA.regular.comment.csv",329
+
+"CHA201809250",76,"$Indians challenged call that Sanchez was safe at 2nd; call was upheld - safe on pickoff attempt after 1st pitch"2018CHA.EVA.regular.comment.csv",330
+
+"CHA201809260",5,"Mound Visit"2018CHA.EVA.regular.comment.csv",331
+
+"CHA201809260",32,"Mound Visit"2018CHA.EVA.regular.comment.csv",332
+
+"CHA201809260",34,"Mound Visit"2018CHA.EVA.regular.comment.csv",333
+
+"CHA201809260",41,"Mound Visit"2018CHA.EVA.regular.comment.csv",334
+
+"CHA201809260",55,"Mound Visit"2018CHA.EVA.regular.comment.csv",335
+
+"CHA201809260",73,"Injury Delay"2018CHA.EVA.regular.comment.csv",336
+
+"CHA201809260",84,"Mound Visit"2018CHA.EVA.regular.comment.csv",337
+
+"CHA201809260",88,"Mound Visit"2018CHA.EVA.regular.comment.csv",338
+

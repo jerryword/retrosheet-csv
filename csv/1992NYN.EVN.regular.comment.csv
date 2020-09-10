@@ -1,49 +1,48 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"NYN199204280",12,"David Cone's 1000th strikeout"
-"NYN199204280",67,"$ball struck the 3B bag"
-"NYN199206160",0,"Debut for umpire Wally Bell"
-"NYN199206210",16,"Howard Johnson left with muscle spasms in his neck"
-"NYN199206210",60,"Dave Magadan left game with muscle spasms in his back"
-"NYN199206220",31,"ej,bonib001,P,poncl901,Charging the mound $Shawn Boskie's pitch hit Bobby Bonilla on the back; Bonilla tried to charge the mound but was slowed by catcher Joe Girardi; both benches emptied and players huddled; HP umpire Larry Poncino was knocked down in the scrum; Bonilla was ejected by Poncino"
-"NYN199207050",18,"$Pete Harnisch called for interference"
-"NYN199207160",33,"Dwight Gooden left with soreness in right shoulder"
-"NYN199207170",21,"Mike Felder left with a tight right hamstring"
-"NYN199207200",48,"Eric Karros left with contusion of his right calf"
-"NYN199208011",34,"Steve Buechele left with slight strain of left rib cage"
-"NYN199208110",18,"Alex Cole left with strained left hamstring"
-"NYN199208282",44,"Rain Delay 10:01 p.m."
-"NYN199208300",4,"ej,colev001,P,froeb901,Called third strike Vince Coleman ejected by HP umpire Bruce Froemming"
-"NYN199209010",1,"Debut game for David Nied"
-"NYN199209010",19,"ej,colev001,P,darlg901,Checked swing Vince Coleman ejected by HP umpire Gary Darling"
-"NYN199209010",20,"Debut game for Ryan Thompson"
-"NYN199209010",74,"Debut game for Melvin Nieves"
-"NYN199209160",0,"ej,torrj101,M,harvd901,Arguing whether PH formally announced Cardinals manager Joe Torre ejected by HP umpire Doug Harvey arguing whether pinch hitter was in lineup sometime in game"
-"NYN199209180",77,"Debut game for Joe Vitko"
-"NYN199209210",32,"$Andre Dawson's 2500th career hit"
-"NYN199209281",0,"Debut for umpire Mark Barron"
-"NYN199210040",45,"Pat Howell hurt hitting the fence going after HR"
-"NYN199210040",60,"$Andy Van Slyke called for interference"
-"NYN199204280",12,"David Cone's 1000th strikeout"
-"NYN199204280",67,"$ball struck the 3B bag"
-"NYN199206160",0,"Debut for umpire Wally Bell"
-"NYN199206210",16,"Howard Johnson left with muscle spasms in his neck"
-"NYN199206210",60,"Dave Magadan left game with muscle spasms in his back"
-"NYN199206220",31,"ej,bonib001,P,poncl901,Charging the mound $Shawn Boskie's pitch hit Bobby Bonilla on the back; Bonilla tried to charge the mound but was slowed by catcher Joe Girardi; both benches emptied and players huddled; HP umpire Larry Poncino was knocked down in the scrum; Bonilla was ejected by Poncino"
-"NYN199207050",18,"$Pete Harnisch called for interference"
-"NYN199207160",33,"Dwight Gooden left with soreness in right shoulder"
-"NYN199207170",21,"Mike Felder left with a tight right hamstring"
-"NYN199207200",48,"Eric Karros left with contusion of his right calf"
-"NYN199208011",34,"Steve Buechele left with slight strain of left rib cage"
-"NYN199208110",18,"Alex Cole left with strained left hamstring"
-"NYN199208282",44,"Rain Delay 10:01 p.m."
-"NYN199208300",4,"ej,colev001,P,froeb901,Called third strike Vince Coleman ejected by HP umpire Bruce Froemming"
-"NYN199209010",1,"Debut game for David Nied"
-"NYN199209010",19,"ej,colev001,P,darlg901,Checked swing Vince Coleman ejected by HP umpire Gary Darling"
-"NYN199209010",20,"Debut game for Ryan Thompson"
-"NYN199209010",74,"Debut game for Melvin Nieves"
-"NYN199209160",72,"ej,torrj101,M,harvd901,Arguing whether PH formally announced $Cardinals manager Torre ejected by HP umpire Harvey for arguing whether pinch-hitter Wilson was in the game or not"
-"NYN199209180",77,"Debut game for Joe Vitko"
-"NYN199209210",32,"$Andre Dawson's 2500th career hit"
-"NYN199209281",0,"Debut for umpire Mark Barron"
-"NYN199210040",45,"Pat Howell hurt hitting the fence going after HR"
-"NYN199210040",60,"$Andy Van Slyke called for interference"
+"NYN199204280",12,"David Cone's 1000th strikeout"FILENAME_TX","LINE_NUMBER_CT"
+
+"NYN199204280",67,"$ball struck the 3B bag"1992NYN.EVN.regular.comment.csv",2
+
+"NYN199206160",0,"Debut for umpire Wally Bell"1992NYN.EVN.regular.comment.csv",3
+
+"NYN199206210",16,"Howard Johnson left with muscle spasms in his neck"1992NYN.EVN.regular.comment.csv",4
+
+"NYN199206210",60,"Dave Magadan left game with muscle spasms in his back"1992NYN.EVN.regular.comment.csv",5
+
+"NYN199206220",31,"ej,bonib001,P,poncl901,Charging the mound $Shawn Boskie's pitch hit Bobby Bonilla on the back; Bonilla tried to charge the mound but was slowed by catcher Joe Girardi; both benches emptied and players huddled; HP umpire Larry Poncino was knocked down in the scrum; Bonilla was ejected by Poncino"1992NYN.EVN.regular.comment.csv",6
+
+"NYN199207050",18,"$Pete Harnisch called for interference"1992NYN.EVN.regular.comment.csv",7
+
+"NYN199207160",33,"Dwight Gooden left with soreness in right shoulder"1992NYN.EVN.regular.comment.csv",8
+
+"NYN199207170",21,"Mike Felder left with a tight right hamstring"1992NYN.EVN.regular.comment.csv",9
+
+"NYN199207200",48,"Eric Karros left with contusion of his right calf"1992NYN.EVN.regular.comment.csv",10
+
+"NYN199208011",34,"Steve Buechele left with slight strain of left rib cage"1992NYN.EVN.regular.comment.csv",11
+
+"NYN199208110",18,"Alex Cole left with strained left hamstring"1992NYN.EVN.regular.comment.csv",12
+
+"NYN199208282",44,"Rain Delay 10:01 p.m."1992NYN.EVN.regular.comment.csv",13
+
+"NYN199208300",4,"ej,colev001,P,froeb901,Called third strike Vince Coleman ejected by HP umpire Bruce Froemming"1992NYN.EVN.regular.comment.csv",14
+
+"NYN199209010",1,"Debut game for David Nied"1992NYN.EVN.regular.comment.csv",15
+
+"NYN199209010",19,"ej,colev001,P,darlg901,Checked swing Vince Coleman ejected by HP umpire Gary Darling"1992NYN.EVN.regular.comment.csv",16
+
+"NYN199209010",20,"Debut game for Ryan Thompson"1992NYN.EVN.regular.comment.csv",17
+
+"NYN199209010",74,"Debut game for Melvin Nieves"1992NYN.EVN.regular.comment.csv",18
+
+"NYN199209160",72,"ej,torrj101,M,harvd901,Arguing whether PH formally announced $Cardinals manager Torre ejected by HP umpire Harvey for arguing whether pinch-hitter Wilson was in the game or not"1992NYN.EVN.regular.comment.csv",19
+
+"NYN199209180",77,"Debut game for Joe Vitko"1992NYN.EVN.regular.comment.csv",20
+
+"NYN199209210",32,"$Andre Dawson's 2500th career hit"1992NYN.EVN.regular.comment.csv",21
+
+"NYN199209281",0,"Debut for umpire Mark Barron"1992NYN.EVN.regular.comment.csv",22
+
+"NYN199210040",45,"Pat Howell hurt hitting the fence going after HR"1992NYN.EVN.regular.comment.csv",23
+
+"NYN199210040",60,"$Andy Van Slyke called for interference"1992NYN.EVN.regular.comment.csv",24
+

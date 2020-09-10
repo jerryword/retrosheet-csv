@@ -1,55 +1,54 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"SLN197904060",0,"Debut for umpires Bud Miller, Ray Perez and Bob Sharp"
-"SLN197904070",0,"Debut for umpire Bob Hantak"
-"SLN197904080",41,"game suspended by rain and to be replayed on 6/29; the Phillies batted in the top of the 6th but it did not count"
-"SLN197904100",0,"Debut for umpires Tom Fleming and Pete Negri"
-"SLN197904100",57,"53 minute rain delay"
-"SLN197904200",0,"Debut for umpires Joe Bendekovits and Jim Jones"
-"SLN197904300",0,"Debut for umpire Bob Freels"
-"SLN197905120",0,"$Garry Templeton left game before first pitch for X-rays on right wrist"
-"SLN197905170",0,"Suspend=19790625,,2,2,60"
-"SLN197905170",77,"umpchange,11,umphome,rennd901 umpchange,11,ump1b,monte901 umpchange,11,ump2b,weyel901 umpchange,11,ump3b,wendh901 suspended,19790625,STL09,pre-deteremined stopping time $game suspended and resumed 6/25 with new umpire crew"
-"SLN197905300",16,"$Tony Scott called for interference"
-"SLN197905310",52,"$Tony Scott called for interference at 2B"
-"SLN197906080",91,"$Keith Hernandez missed the sign for the pickoff"
-"SLN197906090",4,"$Ozzie Smith stole 2B but started to go back to 1B"
-"SLN197906090",9,"$Keith Hernandez line single off Eric Rasmussen's right forearm; Rasmussen tried to continue but gave up after walk"
-"SLN197906090",10,"Debut game for Tom Tellmann"
-"SLN197907012",57,"ej,boyek101,M,brocf901,Balls and strikes $Cardinals manager Boyer ejected by HP umpire Brocklander for arguing balls and strikes with Rose at bat"
-"SLN197907030",41,"John Candelaria left with lower back strain"
-"SLN197907250",31,"ej,spikc101,P,crawj901,Call at 1B Charlie Spikes ejected by 1B umpire Jerry Crawford"
-"SLN197907250",45,"$Pepe Frias called for obstruction"
-"SLN197907260",64,"39 minute rain delay"
-"SLN197908130",30,"$Lou Brock's 3000th hit"
-"SLN197908130",76,"Debut game for Tom Herr"
-"SLN197908210",41,"1:26 rain delay"
-"SLN197909281",63,"Debut game for Kim Seaman"
-"SLN197909282",23,"$Garry Templeton 100th hit RH of season (also had 100 LH)"
-"SLN197909282",73,"$Ken Oberkfell called for obstruction"
-"SLN197904060",0,"Debut for umpires Bud Miller, Ray Perez and Bob Sharp"
-"SLN197904070",0,"Debut for umpire Bob Hantak"
-"SLN197904080",41,"game suspended by rain and to be replayed on 6/29; the Phillies batted in the top of the 6th but it did not count"
-"SLN197904100",0,"Debut for umpires Tom Fleming and Pete Negri"
-"SLN197904100",57,"53 minute rain delay"
-"SLN197904200",0,"Debut for umpires Joe Bendekovits and Jim Jones"
-"SLN197904300",0,"Debut for umpire Bob Freels"
-"SLN197905120",0,"$Garry Templeton left game before first pitch for X-rays on right wrist"
-"SLN197905170",0,"Suspend=19790625,,2,2,60"
-"SLN197905170",77,"umpchange,11,umphome,rennd901 umpchange,11,ump1b,monte901 umpchange,11,ump2b,weyel901 umpchange,11,ump3b,wendh901 suspended,19790625,STL09,pre-deteremined stopping time $game suspended and resumed 6/25 with new umpire crew"
-"SLN197905300",16,"$Tony Scott called for interference"
-"SLN197905310",52,"$Tony Scott called for interference at 2B"
-"SLN197906080",91,"$Keith Hernandez missed the sign for the pickoff"
-"SLN197906090",4,"$Ozzie Smith stole 2B but started to go back to 1B"
-"SLN197906090",9,"$Keith Hernandez line single off Eric Rasmussen's right forearm; Rasmussen tried to continue but gave up after walk"
-"SLN197906090",10,"Debut game for Tom Tellmann"
-"SLN197907012",57,"ej,boyek101,M,brocf901,Balls and strikes $Cardinals manager Boyer ejected by HP umpire Brocklander for arguing balls and strikes with Rose at bat"
-"SLN197907030",41,"John Candelaria left with lower back strain"
-"SLN197907250",31,"ej,spikc101,P,crawj901,Call at 1B Charlie Spikes ejected by 1B umpire Jerry Crawford"
-"SLN197907250",45,"$Pepe Frias called for obstruction"
-"SLN197907260",64,"39 minute rain delay"
-"SLN197908130",30,"$Lou Brock's 3000th hit"
-"SLN197908130",76,"Debut game for Tom Herr"
-"SLN197908210",41,"1:26 rain delay"
-"SLN197909281",63,"Debut game for Kim Seaman"
-"SLN197909282",23,"$Garry Templeton 100th hit RH of season (also had 100 LH)"
-"SLN197909282",73,"$Ken Oberkfell called for obstruction"
+"SLN197904060",0,"Debut for umpires Bud Miller, Ray Perez and Bob Sharp"FILENAME_TX","LINE_NUMBER_CT"
+
+"SLN197904070",0,"Debut for umpire Bob Hantak"1979SLN.EVN.regular.comment.csv",2
+
+"SLN197904080",41,"game suspended by rain and to be replayed on 6/29; the Phillies batted in the top of the 6th but it did not count"1979SLN.EVN.regular.comment.csv",3
+
+"SLN197904100",0,"Debut for umpires Tom Fleming and Pete Negri"1979SLN.EVN.regular.comment.csv",4
+
+"SLN197904100",57,"53 minute rain delay"1979SLN.EVN.regular.comment.csv",5
+
+"SLN197904200",0,"Debut for umpires Joe Bendekovits and Jim Jones"1979SLN.EVN.regular.comment.csv",6
+
+"SLN197904300",0,"Debut for umpire Bob Freels"1979SLN.EVN.regular.comment.csv",7
+
+"SLN197905120",0,"$Garry Templeton left game before first pitch for X-rays on right wrist"1979SLN.EVN.regular.comment.csv",8
+
+"SLN197905170",0,"Suspend=19790625,,2,2,60"1979SLN.EVN.regular.comment.csv",9
+
+"SLN197905170",77,"umpchange,11,umphome,rennd901 umpchange,11,ump1b,monte901 umpchange,11,ump2b,weyel901 umpchange,11,ump3b,wendh901 suspended,19790625,STL09,pre-deteremined stopping time $game suspended and resumed 6/25 with new umpire crew"1979SLN.EVN.regular.comment.csv",10
+
+"SLN197905300",16,"$Tony Scott called for interference"1979SLN.EVN.regular.comment.csv",11
+
+"SLN197905310",52,"$Tony Scott called for interference at 2B"1979SLN.EVN.regular.comment.csv",12
+
+"SLN197906080",91,"$Keith Hernandez missed the sign for the pickoff"1979SLN.EVN.regular.comment.csv",13
+
+"SLN197906090",4,"$Ozzie Smith stole 2B but started to go back to 1B"1979SLN.EVN.regular.comment.csv",14
+
+"SLN197906090",9,"$Keith Hernandez line single off Eric Rasmussen's right forearm; Rasmussen tried to continue but gave up after walk"1979SLN.EVN.regular.comment.csv",15
+
+"SLN197906090",10,"Debut game for Tom Tellmann"1979SLN.EVN.regular.comment.csv",16
+
+"SLN197907012",57,"ej,boyek101,M,brocf901,Balls and strikes $Cardinals manager Boyer ejected by HP umpire Brocklander for arguing balls and strikes with Rose at bat"1979SLN.EVN.regular.comment.csv",17
+
+"SLN197907030",41,"John Candelaria left with lower back strain"1979SLN.EVN.regular.comment.csv",18
+
+"SLN197907250",31,"ej,spikc101,P,crawj901,Call at 1B Charlie Spikes ejected by 1B umpire Jerry Crawford"1979SLN.EVN.regular.comment.csv",19
+
+"SLN197907250",45,"$Pepe Frias called for obstruction"1979SLN.EVN.regular.comment.csv",20
+
+"SLN197907260",64,"39 minute rain delay"1979SLN.EVN.regular.comment.csv",21
+
+"SLN197908130",30,"$Lou Brock's 3000th hit"1979SLN.EVN.regular.comment.csv",22
+
+"SLN197908130",76,"Debut game for Tom Herr"1979SLN.EVN.regular.comment.csv",23
+
+"SLN197908210",41,"1:26 rain delay"1979SLN.EVN.regular.comment.csv",24
+
+"SLN197909281",63,"Debut game for Kim Seaman"1979SLN.EVN.regular.comment.csv",25
+
+"SLN197909282",23,"$Garry Templeton 100th hit RH of season (also had 100 LH)"1979SLN.EVN.regular.comment.csv",26
+
+"SLN197909282",73,"$Ken Oberkfell called for obstruction"1979SLN.EVN.regular.comment.csv",27
+

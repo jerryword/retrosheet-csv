@@ -1,49 +1,48 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"MIN196204150",46,"Debut game for Jim Manning"
-"MIN196204150",79,"Debut game for George Banks"
-"MIN196205020",20,"ej,gentj101,P,stewb902,Balls and strikes Jim Gentile ejected by HP umpire Bob Stewart"
-"MIN196205020",59,"Debut game for Marty Martinez"
-"MIN196205110",71,"$game called for rain at 10:35 after 1 hour delay"
-"MIN196205301",61,"11 minute rain delay"
-"MIN196205301",71,"3 minute rain delay"
-"MIN196205302",73,"Joe Pepitone hurt on play"
-"MIN196206060",66,"missing play in MIN196206060"
-"MIN196207070",30,"missing play in MIN196207070"
-"MIN196207070",62,"ej,powev101,P,schwh901,Balls and strikes Vic Power ejected by HP umpire Harry Schwarts arguing a strike called on Lenny Green"
-"MIN196207080",1,"Vic Power hurt by throw"
-"MIN196207080",68,"$Overshift to left on Rollins"
-"MIN196207220",51,"ej,hitcb101,M,stewb902,Call at 3B Orioles Manager Billy Hitchcock ejected by 3B umpire Bob Stewart"
-"MIN196207230",3,"$First game for Al Kaline since 5/26"
-"MIN196207240",79,"$3B umpire Nestor Chylak reversed 2B umpire Bill McKinley's call"
-"MIN196208130",59,"$Jack Kralick struck on hand"
-"MIN196208191",6,"$Vic Power called for interference"
-"MIN196208210",0,"ej,pierj102,P,salea901,Balls and strikes $Piersall ejected by HP umpire Salerno for arguing call on first pitch of game!"
-"MIN196208220",102,"$Game called for curfew"
-"MIN196209140",82,"Debut game for Tommie Agee"
-"MIN196209150",34,"ej,powev101,P,schwh901,Call at 1B $Power ejected by 1B umpire Schwarts for arguing out call; he threw his helmet"
-"MIN196209190",44,"Debut game for Bill Faul"
-"MIN196209200",45,"Debut game for Jim Roland"
-"MIN196204150",46,"Debut game for Jim Manning"
-"MIN196204150",79,"Debut game for George Banks"
-"MIN196205020",20,"ej,gentj101,P,stewb902,Balls and strikes Jim Gentile ejected by HP umpire Bob Stewart"
-"MIN196205020",59,"Debut game for Marty Martinez"
-"MIN196205110",71,"$game called for rain at 10:35 after 1 hour delay"
-"MIN196205301",61,"11 minute rain delay"
-"MIN196205301",71,"3 minute rain delay"
-"MIN196205302",73,"Joe Pepitone hurt on play"
-"MIN196206060",66,"missing play in MIN196206060"
-"MIN196207070",30,"missing play in MIN196207070"
-"MIN196207070",62,"ej,powev101,P,schwh901,Balls and strikes Vic Power ejected by HP umpire Harry Schwarts arguing a strike called on Lenny Green"
-"MIN196207080",1,"Vic Power hurt by throw"
-"MIN196207080",68,"$Overshift to left on Rollins"
-"MIN196207220",51,"ej,hitcb101,M,stewb902,Call at 3B Orioles Manager Billy Hitchcock ejected by 3B umpire Bob Stewart"
-"MIN196207230",3,"$First game for Al Kaline since 5/26"
-"MIN196207240",79,"$3B umpire Nestor Chylak reversed 2B umpire Bill McKinley's call"
-"MIN196208130",59,"$Jack Kralick struck on hand"
-"MIN196208191",6,"$Vic Power called for interference"
-"MIN196208210",0,"ej,pierj102,P,salea901,Balls and strikes $Piersall ejected by HP umpire Salerno for arguing call on first pitch of game!"
-"MIN196208220",102,"$Game called for curfew"
-"MIN196209140",82,"Debut game for Tommie Agee"
-"MIN196209150",34,"ej,powev101,P,schwh901,Call at 1B $Power ejected by 1B umpire Schwarts for arguing out call; he threw his helmet"
-"MIN196209190",44,"Debut game for Bill Faul"
-"MIN196209200",45,"Debut game for Jim Roland"
+"MIN196204150",46,"Debut game for Jim Manning"FILENAME_TX","LINE_NUMBER_CT"
+
+"MIN196204150",79,"Debut game for George Banks"1962MIN.EVA.regular.comment.csv",2
+
+"MIN196205020",20,"ej,gentj101,P,stewb902,Balls and strikes Jim Gentile ejected by HP umpire Bob Stewart"1962MIN.EVA.regular.comment.csv",3
+
+"MIN196205020",59,"Debut game for Marty Martinez"1962MIN.EVA.regular.comment.csv",4
+
+"MIN196205110",71,"$game called for rain at 10:35 after 1 hour delay"1962MIN.EVA.regular.comment.csv",5
+
+"MIN196205301",61,"11 minute rain delay"1962MIN.EVA.regular.comment.csv",6
+
+"MIN196205301",71,"3 minute rain delay"1962MIN.EVA.regular.comment.csv",7
+
+"MIN196205302",73,"Joe Pepitone hurt on play"1962MIN.EVA.regular.comment.csv",8
+
+"MIN196206060",66,"missing play in MIN196206060"1962MIN.EVA.regular.comment.csv",9
+
+"MIN196207070",30,"missing play in MIN196207070"1962MIN.EVA.regular.comment.csv",10
+
+"MIN196207070",62,"ej,powev101,P,schwh901,Balls and strikes Vic Power ejected by HP umpire Harry Schwarts arguing a strike called on Lenny Green"1962MIN.EVA.regular.comment.csv",11
+
+"MIN196207080",1,"Vic Power hurt by throw"1962MIN.EVA.regular.comment.csv",12
+
+"MIN196207080",68,"$Overshift to left on Rollins"1962MIN.EVA.regular.comment.csv",13
+
+"MIN196207220",51,"ej,hitcb101,M,stewb902,Call at 3B Orioles Manager Billy Hitchcock ejected by 3B umpire Bob Stewart"1962MIN.EVA.regular.comment.csv",14
+
+"MIN196207230",3,"$First game for Al Kaline since 5/26"1962MIN.EVA.regular.comment.csv",15
+
+"MIN196207240",79,"$3B umpire Nestor Chylak reversed 2B umpire Bill McKinley's call"1962MIN.EVA.regular.comment.csv",16
+
+"MIN196208130",59,"$Jack Kralick struck on hand"1962MIN.EVA.regular.comment.csv",17
+
+"MIN196208191",6,"$Vic Power called for interference"1962MIN.EVA.regular.comment.csv",18
+
+"MIN196208210",0,"ej,pierj102,P,salea901,Balls and strikes $Piersall ejected by HP umpire Salerno for arguing call on first pitch of game!"1962MIN.EVA.regular.comment.csv",19
+
+"MIN196208220",102,"$Game called for curfew"1962MIN.EVA.regular.comment.csv",20
+
+"MIN196209140",82,"Debut game for Tommie Agee"1962MIN.EVA.regular.comment.csv",21
+
+"MIN196209150",34,"ej,powev101,P,schwh901,Call at 1B $Power ejected by 1B umpire Schwarts for arguing out call; he threw his helmet"1962MIN.EVA.regular.comment.csv",22
+
+"MIN196209190",44,"Debut game for Bill Faul"1962MIN.EVA.regular.comment.csv",23
+
+"MIN196209200",45,"Debut game for Jim Roland"1962MIN.EVA.regular.comment.csv",24
+

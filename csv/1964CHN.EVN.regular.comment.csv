@@ -1,85 +1,84 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"CHN196404170",48,"$Ellis Burton out on appeal for missing 1B"
-"CHN196404170",78,"Debut game for Lee Gregory"
-"CHN196404170",82,"Debut game for John Briggs"
-"CHN196404180",28,"$Tony Gonzalez hit on the back of his head"
-"CHN196404180",42,"Debut game for Rick Wise"
-"CHN196404190",25,"Debut game for Paul Popovich"
-"CHN196404190",65,"Debut game for Sterling Slaughter"
-"CHN196404210",72,"$Cubs manager Kennedy ejected by HP umpire Burkhart for arguing that Rodgers had run into 1bman and should be for interference, thus negating the double play"
-"CHN196405120",47,"$Dick Tracewski had crossed the bag too soon at 2B"
-"CHN196405142",35,"$Maury Wills overslid base"
-"CHN196405160",59,"missed squeeze"
-"CHN196405260",83,"$off LF pole"
-"CHN196405270",3,"$Frank Thomas called for interference for running into his own bunt"
-"CHN196405270",47,"$Ron Hunt injured on force out at 2B"
-"CHN196405270",59,"$Ron Santo called for interference for running into his own bunt"
-"CHN196405310",41,"$Jimmy Stewart missed 2B on double play attempt"
-"CHN196406260",43,"ej,crafh101,M,pryop901,HBP non-call $Colts manager Craft ejected by HP umpire Pryor for arguing that pitch had hit Bond on hand"
-"CHN196406282",65,"Debut game for Vic Roznovsky"
-"CHN196407082",67,"Game called due to darkness"
-"CHN196407090",20,"Jack Sanford left with arm injury"
-"CHN196407090",38,"Joey Amalfitano turned left ankle"
-"CHN196407122",19,"ej,willm102,P,willb901,Call at 2B ej,alstw101,M,willb901,Call at 2B Maury Wills and Dodgers Manager Walter Alston ejected by 3B umpire Bill Williams"
-"CHN196407130",5,"$Derrell Griffith slipped after rounding 3B"
-"CHN196407300",28,"ej,kennb104,M,venzt901,Called third strike ej,santr102,P,venzt901,Called third strike Ron Santo and Cubs Manager Bob Kennedy ejected by HP umpire Tony Venzon"
-"CHN196408110",24,"Cookie Rojas left with injured wrist; taken to hospital"
-"CHN196408110",55,"Tony Gonzalez beaned, taken to hospital"
-"CHN196408120",14,"$Ruben Amaro ran into Joey Amalfitano who was attempting to field the ground ball; Amaro called for interference; both benches cleared and Ron Santo was restrained by teammates; Amalfitano left injured"
-"CHN196408120",60,"ej,jackl102,P,harvd901,Balls and strikes ej,bertd101,P,harvd901,Balls and strikes ej,kennb104,M,harvd901,Balls and strikes Larry Jackson, Dick Bertell and Cubs Manager Bob Kennedy ejected by HP umpire Doug Harvey"
-"CHN196408130",37,"ej,burkl102,P,conlj102,Balls and strikes Leo Burke ejected by HP umpire Jocko Conlan"
-"CHN196408150",6,"Don Schwall injured back"
-"CHN196408162",73,"Steve Blass hurt his back"
-"CHN196408300",16,"$missed squeeze"
-"CHN196408300",24,"$Joe Christopher called for interference"
-"CHN196408300",70,"$missed squeeze"
-"CHN196409072",59,"Debut game for Don Kessinger"
-"CHN196409072",71,"$Hank Fischer called for interference"
-"CHN196409072",79,"Called for darkness"
-"CHN196409220",3,"Lew Burdette struck on right forearm"
-"CHN196409240",1,"Debut game for Bill Singer"
-"CHN196409240",53,"DWS: note that the ladj record accomplishes nothing, since Boccabella was already legitimately in this batting slot. our entry currently and incorrectly charges Boccabella with the at bat; that needs to be fixed by special case coding."
-"CHN196409240",54,"$John Boccabella tripled but the Dodgers appealed that he was not on lineup card (Ernie Banks was) and therefore Boccabella was batting out of turn; Banks was ruled to be the proper batter and was called out; this is incorrect; by rule Boccabella became the first baseman, batting fifth when he replaced Banks in the field in the top of the first inning, but since the ruling wasn't challenged, Banks was officially charged with the at-bat"
-"CHN196409272",54,"Debut game for Randy Hundley"
-"CHN196404170",48,"$Ellis Burton out on appeal for missing 1B"
-"CHN196404170",78,"Debut game for Lee Gregory"
-"CHN196404170",82,"Debut game for John Briggs"
-"CHN196404180",28,"$Tony Gonzalez hit on the back of his head"
-"CHN196404180",42,"Debut game for Rick Wise"
-"CHN196404190",25,"Debut game for Paul Popovich"
-"CHN196404190",65,"Debut game for Sterling Slaughter"
-"CHN196404210",72,"ej,kennb104,M,burkk101,Interference non-call $Cubs manager Kennedy ejected by HP umpire Burkhart for arguing that Rodgers had run into 1bman and should be for interference, thus negating the double play"
-"CHN196405120",47,"$Dick Tracewski had crossed the bag too soon at 2B"
-"CHN196405142",35,"$Maury Wills overslid base"
-"CHN196405160",59,"missed squeeze"
-"CHN196405260",83,"$off LF pole"
-"CHN196405270",3,"$Frank Thomas called for interference for running into his own bunt"
-"CHN196405270",47,"$Ron Hunt injured on force out at 2B"
-"CHN196405270",59,"$Ron Santo called for interference for running into his own bunt"
-"CHN196405310",41,"$Jimmy Stewart missed 2B on double play attempt"
-"CHN196406260",43,"ej,crafh101,M,pryop901,HBP non-call $Colts manager Craft ejected by HP umpire Pryor for arguing that pitch had hit Bond on hand"
-"CHN196406282",65,"Debut game for Vic Roznovsky"
-"CHN196407082",67,"Game called due to darkness"
-"CHN196407090",20,"Jack Sanford left with arm injury"
-"CHN196407090",38,"Joey Amalfitano turned left ankle"
-"CHN196407122",19,"ej,willm102,P,willb901,Call at 2B ej,alstw101,M,willb901,Call at 2B Maury Wills and Dodgers Manager Walter Alston ejected by 3B umpire Bill Williams"
-"CHN196407130",5,"$Derrell Griffith slipped after rounding 3B"
-"CHN196407300",28,"ej,kennb104,M,venzt901,Called third strike ej,santr102,P,venzt901,Called third strike Ron Santo and Cubs Manager Bob Kennedy ejected by HP umpire Tony Venzon"
-"CHN196408110",24,"Cookie Rojas left with injured wrist; taken to hospital"
-"CHN196408110",55,"Tony Gonzalez beaned, taken to hospital"
-"CHN196408120",14,"$Ruben Amaro ran into Joey Amalfitano who was attempting to field the ground ball; Amaro called for interference; both benches cleared and Ron Santo was restrained by teammates; Amalfitano left injured"
-"CHN196408120",60,"ej,jackl102,P,harvd901,Balls and strikes ej,bertd101,P,harvd901,Balls and strikes ej,kennb104,M,harvd901,Balls and strikes Larry Jackson, Dick Bertell and Cubs Manager Bob Kennedy ejected by HP umpire Doug Harvey"
-"CHN196408130",37,"ej,burkl102,P,conlj102,Balls and strikes Leo Burke ejected by HP umpire Jocko Conlan"
-"CHN196408150",6,"Don Schwall injured back"
-"CHN196408162",73,"Steve Blass hurt his back"
-"CHN196408300",16,"$missed squeeze"
-"CHN196408300",24,"$Joe Christopher called for interference"
-"CHN196408300",70,"$missed squeeze"
-"CHN196409072",59,"Debut game for Don Kessinger"
-"CHN196409072",71,"$Hank Fischer called for interference"
-"CHN196409072",79,"Called for darkness"
-"CHN196409220",3,"Lew Burdette struck on right forearm"
-"CHN196409240",1,"Debut game for Bill Singer"
-"CHN196409240",53,"DWS: note that the ladj record accomplishes nothing, since Boccabella was already legitimately in this batting slot. our entry currently and incorrectly charges Boccabella with the at bat; that needs to be fixed by special case coding."
-"CHN196409240",54,"$John Boccabella tripled but the Dodgers appealed that he was not on lineup card (Ernie Banks was) and therefore Boccabella was batting out of turn; Banks was ruled to be the proper batter and was called out; this is incorrect; by rule Boccabella became the first baseman, batting fifth when he replaced Banks in the field in the top of the first inning, but since the ruling wasn't challenged, Banks was officially charged with the at-bat"
-"CHN196409272",54,"Debut game for Randy Hundley"
+"CHN196404170",48,"$Ellis Burton out on appeal for missing 1B"FILENAME_TX","LINE_NUMBER_CT"
+
+"CHN196404170",78,"Debut game for Lee Gregory"1964CHN.EVN.regular.comment.csv",2
+
+"CHN196404170",82,"Debut game for John Briggs"1964CHN.EVN.regular.comment.csv",3
+
+"CHN196404180",28,"$Tony Gonzalez hit on the back of his head"1964CHN.EVN.regular.comment.csv",4
+
+"CHN196404180",42,"Debut game for Rick Wise"1964CHN.EVN.regular.comment.csv",5
+
+"CHN196404190",25,"Debut game for Paul Popovich"1964CHN.EVN.regular.comment.csv",6
+
+"CHN196404190",65,"Debut game for Sterling Slaughter"1964CHN.EVN.regular.comment.csv",7
+
+"CHN196404210",72,"ej,kennb104,M,burkk101,Interference non-call $Cubs manager Kennedy ejected by HP umpire Burkhart for arguing that Rodgers had run into 1bman and should be for interference, thus negating the double play"1964CHN.EVN.regular.comment.csv",8
+
+"CHN196405120",47,"$Dick Tracewski had crossed the bag too soon at 2B"1964CHN.EVN.regular.comment.csv",9
+
+"CHN196405142",35,"$Maury Wills overslid base"1964CHN.EVN.regular.comment.csv",10
+
+"CHN196405160",59,"missed squeeze"1964CHN.EVN.regular.comment.csv",11
+
+"CHN196405260",83,"$off LF pole"1964CHN.EVN.regular.comment.csv",12
+
+"CHN196405270",3,"$Frank Thomas called for interference for running into his own bunt"1964CHN.EVN.regular.comment.csv",13
+
+"CHN196405270",47,"$Ron Hunt injured on force out at 2B"1964CHN.EVN.regular.comment.csv",14
+
+"CHN196405270",59,"$Ron Santo called for interference for running into his own bunt"1964CHN.EVN.regular.comment.csv",15
+
+"CHN196405310",41,"$Jimmy Stewart missed 2B on double play attempt"1964CHN.EVN.regular.comment.csv",16
+
+"CHN196406260",43,"ej,crafh101,M,pryop901,HBP non-call $Colts manager Craft ejected by HP umpire Pryor for arguing that pitch had hit Bond on hand"1964CHN.EVN.regular.comment.csv",17
+
+"CHN196406282",65,"Debut game for Vic Roznovsky"1964CHN.EVN.regular.comment.csv",18
+
+"CHN196407082",67,"Game called due to darkness"1964CHN.EVN.regular.comment.csv",19
+
+"CHN196407090",20,"Jack Sanford left with arm injury"1964CHN.EVN.regular.comment.csv",20
+
+"CHN196407090",38,"Joey Amalfitano turned left ankle"1964CHN.EVN.regular.comment.csv",21
+
+"CHN196407122",19,"ej,willm102,P,willb901,Call at 2B ej,alstw101,M,willb901,Call at 2B Maury Wills and Dodgers Manager Walter Alston ejected by 3B umpire Bill Williams"1964CHN.EVN.regular.comment.csv",22
+
+"CHN196407130",5,"$Derrell Griffith slipped after rounding 3B"1964CHN.EVN.regular.comment.csv",23
+
+"CHN196407300",28,"ej,kennb104,M,venzt901,Called third strike ej,santr102,P,venzt901,Called third strike Ron Santo and Cubs Manager Bob Kennedy ejected by HP umpire Tony Venzon"1964CHN.EVN.regular.comment.csv",24
+
+"CHN196408110",24,"Cookie Rojas left with injured wrist; taken to hospital"1964CHN.EVN.regular.comment.csv",25
+
+"CHN196408110",55,"Tony Gonzalez beaned, taken to hospital"1964CHN.EVN.regular.comment.csv",26
+
+"CHN196408120",14,"$Ruben Amaro ran into Joey Amalfitano who was attempting to field the ground ball; Amaro called for interference; both benches cleared and Ron Santo was restrained by teammates; Amalfitano left injured"1964CHN.EVN.regular.comment.csv",27
+
+"CHN196408120",60,"ej,jackl102,P,harvd901,Balls and strikes ej,bertd101,P,harvd901,Balls and strikes ej,kennb104,M,harvd901,Balls and strikes Larry Jackson, Dick Bertell and Cubs Manager Bob Kennedy ejected by HP umpire Doug Harvey"1964CHN.EVN.regular.comment.csv",28
+
+"CHN196408130",37,"ej,burkl102,P,conlj102,Balls and strikes Leo Burke ejected by HP umpire Jocko Conlan"1964CHN.EVN.regular.comment.csv",29
+
+"CHN196408150",6,"Don Schwall injured back"1964CHN.EVN.regular.comment.csv",30
+
+"CHN196408162",73,"Steve Blass hurt his back"1964CHN.EVN.regular.comment.csv",31
+
+"CHN196408300",16,"$missed squeeze"1964CHN.EVN.regular.comment.csv",32
+
+"CHN196408300",24,"$Joe Christopher called for interference"1964CHN.EVN.regular.comment.csv",33
+
+"CHN196408300",70,"$missed squeeze"1964CHN.EVN.regular.comment.csv",34
+
+"CHN196409072",59,"Debut game for Don Kessinger"1964CHN.EVN.regular.comment.csv",35
+
+"CHN196409072",71,"$Hank Fischer called for interference"1964CHN.EVN.regular.comment.csv",36
+
+"CHN196409072",79,"Called for darkness"1964CHN.EVN.regular.comment.csv",37
+
+"CHN196409220",3,"Lew Burdette struck on right forearm"1964CHN.EVN.regular.comment.csv",38
+
+"CHN196409240",1,"Debut game for Bill Singer"1964CHN.EVN.regular.comment.csv",39
+
+"CHN196409240",53,"DWS: note that the ladj record accomplishes nothing, since Boccabella was already legitimately in this batting slot. our entry currently and incorrectly charges Boccabella with the at bat; that needs to be fixed by special case coding."1964CHN.EVN.regular.comment.csv",40
+
+"CHN196409240",54,"$John Boccabella tripled but the Dodgers appealed that he was not on lineup card (Ernie Banks was) and therefore Boccabella was batting out of turn; Banks was ruled to be the proper batter and was called out; this is incorrect; by rule Boccabella became the first baseman, batting fifth when he replaced Banks in the field in the top of the first inning, but since the ruling wasn't challenged, Banks was officially charged with the at-bat"1964CHN.EVN.regular.comment.csv",41
+
+"CHN196409272",54,"Debut game for Randy Hundley"1964CHN.EVN.regular.comment.csv",42
+

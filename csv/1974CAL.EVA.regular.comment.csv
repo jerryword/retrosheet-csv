@@ -1,59 +1,58 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"CAL197404090",65,"Debut game for Ed Figueroa"
-"CAL197404090",67,"ej,nelsd101,P,kunkb101,Call at 2B Dave Nelson ejected by 1B umpire Bill Kunkel"
-"CAL197404120",38,"Debut game for Bill Moran"
-"CAL197404130",7,"$Dave Chalk called for interference for running into his own bunt"
-"CAL197404130",24,"$Ron Santo dropped the relay throw"
-"CAL197405040",35,"ej,weave801,M,barnl901,Checked swing $Orioles manager Weaver ejected by 1B umpire Barnett for arguing check swing call on Chalk"
-"CAL197405040",38,"ej,grimr101,P,nappl901,Balls and strikes (from bench) $Orioles Grimsley, not in game, ejected by HP umpire Napp for arguing balls and strikes from bench"
-"CAL197405070",73,"$sinking liner off Denny Doyle's glove; Dave Chalk retrieved the ball and his throw went into the dugout"
-"CAL197405100",43,"$Mickey Rivers rounded 2B too far"
-"CAL197405110",41,"430' HR"
-"CAL197405290",7,"ej,valeb102,P,mccol901,Fighting ej,wrigc102,P,mccol901,Fighting $Clyde Wright's first pitch was over Bobby Valentine's head; Valentine charged the mound; they fought and both benches cleared; Valentine suffered a shoulder dislocation; Wright and Valentine ejected by HP umpire Larry McCoy"
-"CAL197406010",7,"Debut game for John Doherty"
-"CAL197406170",45,"Dave Pagan left with blister on pitching hand"
-"CAL197406180",49,"Nolan Ryan left game with a blister"
-"CAL197407050",40,"$Mickey Rivers called for interference"
-"CAL197407060",22,"Debut game for Orlando Ramirez"
-"CAL197407090",61,"Debut game for Luis Quintana"
-"CAL197407100",27,"ej,willd104,M,rodra901,Catch/no catch $Brooks Robinson caught the ball then dropped it; ruled a catch; Angels Manager Dick Williams ejected by HP umpire Armando Rodriguez"
-"CAL197407250",85,"ej,mckej801,M,odomj190,Call at 1B Royals manager Jack McKeon ejected by 1B umpire Jim Odom"
-"CAL197407282",63,"ej,roofp101,P,dimul901,Call at HP $Catcher Roof ejected by HP umpire DiMuro for arguing Stanton was out at home"
-"CAL197407310",77,"Debut game for Jim Otten"
-"CAL197408090",55,"Debut game for Tippy Martinez"
-"CAL197408100",4,"$Bobby Murcer struck by batted ball"
-"CAL197409060",69,"Frank Tanana injured"
-"CAL197409060",71,"Debut game for Nyls Nyman"
-"CAL197409091",14,"Debut game for Roy Howell"
-"CAL197409100",57,"Debut game for John Balaz"
-"CAL197409270",0,"Debut for umpire Terry Cooney"
-"CAL197409280",25,"$Steve Braun called for obstruction during rundown"
-"CAL197404090",65,"Debut game for Ed Figueroa"
-"CAL197404090",67,"ej,nelsd101,P,kunkb101,Call at 2B Dave Nelson ejected by 1B umpire Bill Kunkel"
-"CAL197404120",38,"Debut game for Bill Moran"
-"CAL197404130",7,"$Dave Chalk called for interference for running into his own bunt"
-"CAL197404130",24,"$Ron Santo dropped the relay throw"
-"CAL197405040",35,"ej,weave801,M,barnl901,Checked swing $Orioles manager Weaver ejected by 1B umpire Barnett for arguing check swing call on Chalk"
-"CAL197405040",38,"ej,grimr101,P,nappl901,Balls and strikes (from bench) $Orioles Grimsley, not in game, ejected by HP umpire Napp for arguing balls and strikes from bench"
-"CAL197405070",73,"$sinking liner off Denny Doyle's glove; Dave Chalk retrieved the ball and his throw went into the dugout"
-"CAL197405100",43,"$Mickey Rivers rounded 2B too far"
-"CAL197405110",41,"430' HR"
-"CAL197405290",7,"ej,valeb102,P,mccol901,Fighting ej,wrigc102,P,mccol901,Fighting $Clyde Wright's first pitch was over Bobby Valentine's head; Valentine charged the mound; they fought and both benches cleared; Valentine suffered a shoulder dislocation; Wright and Valentine ejected by HP umpire Larry McCoy"
-"CAL197406010",7,"Debut game for John Doherty"
-"CAL197406170",45,"Dave Pagan left with blister on pitching hand"
-"CAL197406180",49,"Nolan Ryan left game with a blister"
-"CAL197407050",40,"$Mickey Rivers called for interference"
-"CAL197407060",22,"Debut game for Orlando Ramirez"
-"CAL197407090",61,"Debut game for Luis Quintana"
-"CAL197407100",27,"ej,willd104,M,rodra901,Catch/no catch $Brooks Robinson caught the ball then dropped it; ruled a catch; Angels Manager Dick Williams ejected by HP umpire Armando Rodriguez"
-"CAL197407250",85,"ej,mckej801,M,odomj190,Call at 1B Royals manager Jack McKeon ejected by 1B umpire Jim Odom"
-"CAL197407282",63,"ej,roofp101,P,dimul901,Call at HP $Catcher Roof ejected by HP umpire DiMuro for arguing Stanton was out at home"
-"CAL197407310",77,"Debut game for Jim Otten"
-"CAL197408090",55,"Debut game for Tippy Martinez"
-"CAL197408100",4,"$Bobby Murcer struck by batted ball"
-"CAL197409060",69,"Frank Tanana injured"
-"CAL197409060",71,"Debut game for Nyls Nyman"
-"CAL197409091",14,"Debut game for Roy Howell"
-"CAL197409100",57,"Debut game for John Balaz"
-"CAL197409270",0,"Debut for umpire Terry Cooney"
-"CAL197409280",25,"$Steve Braun called for obstruction during rundown"
+"CAL197404090",65,"Debut game for Ed Figueroa"FILENAME_TX","LINE_NUMBER_CT"
+
+"CAL197404090",67,"ej,nelsd101,P,kunkb101,Call at 2B Dave Nelson ejected by 1B umpire Bill Kunkel"1974CAL.EVA.regular.comment.csv",2
+
+"CAL197404120",38,"Debut game for Bill Moran"1974CAL.EVA.regular.comment.csv",3
+
+"CAL197404130",7,"$Dave Chalk called for interference for running into his own bunt"1974CAL.EVA.regular.comment.csv",4
+
+"CAL197404130",24,"$Ron Santo dropped the relay throw"1974CAL.EVA.regular.comment.csv",5
+
+"CAL197405040",35,"ej,weave801,M,barnl901,Checked swing $Orioles manager Weaver ejected by 1B umpire Barnett for arguing check swing call on Chalk"1974CAL.EVA.regular.comment.csv",6
+
+"CAL197405040",38,"ej,grimr101,P,nappl901,Balls and strikes (from bench) $Orioles Grimsley, not in game, ejected by HP umpire Napp for arguing balls and strikes from bench"1974CAL.EVA.regular.comment.csv",7
+
+"CAL197405070",73,"$sinking liner off Denny Doyle's glove; Dave Chalk retrieved the ball and his throw went into the dugout"1974CAL.EVA.regular.comment.csv",8
+
+"CAL197405100",43,"$Mickey Rivers rounded 2B too far"1974CAL.EVA.regular.comment.csv",9
+
+"CAL197405110",41,"430' HR"1974CAL.EVA.regular.comment.csv",10
+
+"CAL197405290",7,"ej,valeb102,P,mccol901,Fighting ej,wrigc102,P,mccol901,Fighting $Clyde Wright's first pitch was over Bobby Valentine's head; Valentine charged the mound; they fought and both benches cleared; Valentine suffered a shoulder dislocation; Wright and Valentine ejected by HP umpire Larry McCoy"1974CAL.EVA.regular.comment.csv",11
+
+"CAL197406010",7,"Debut game for John Doherty"1974CAL.EVA.regular.comment.csv",12
+
+"CAL197406170",45,"Dave Pagan left with blister on pitching hand"1974CAL.EVA.regular.comment.csv",13
+
+"CAL197406180",49,"Nolan Ryan left game with a blister"1974CAL.EVA.regular.comment.csv",14
+
+"CAL197407050",40,"$Mickey Rivers called for interference"1974CAL.EVA.regular.comment.csv",15
+
+"CAL197407060",22,"Debut game for Orlando Ramirez"1974CAL.EVA.regular.comment.csv",16
+
+"CAL197407090",61,"Debut game for Luis Quintana"1974CAL.EVA.regular.comment.csv",17
+
+"CAL197407100",27,"ej,willd104,M,rodra901,Catch/no catch $Brooks Robinson caught the ball then dropped it; ruled a catch; Angels Manager Dick Williams ejected by HP umpire Armando Rodriguez"1974CAL.EVA.regular.comment.csv",18
+
+"CAL197407250",85,"ej,mckej801,M,odomj190,Call at 1B Royals manager Jack McKeon ejected by 1B umpire Jim Odom"1974CAL.EVA.regular.comment.csv",19
+
+"CAL197407282",63,"ej,roofp101,P,dimul901,Call at HP $Catcher Roof ejected by HP umpire DiMuro for arguing Stanton was out at home"1974CAL.EVA.regular.comment.csv",20
+
+"CAL197407310",77,"Debut game for Jim Otten"1974CAL.EVA.regular.comment.csv",21
+
+"CAL197408090",55,"Debut game for Tippy Martinez"1974CAL.EVA.regular.comment.csv",22
+
+"CAL197408100",4,"$Bobby Murcer struck by batted ball"1974CAL.EVA.regular.comment.csv",23
+
+"CAL197409060",69,"Frank Tanana injured"1974CAL.EVA.regular.comment.csv",24
+
+"CAL197409060",71,"Debut game for Nyls Nyman"1974CAL.EVA.regular.comment.csv",25
+
+"CAL197409091",14,"Debut game for Roy Howell"1974CAL.EVA.regular.comment.csv",26
+
+"CAL197409100",57,"Debut game for John Balaz"1974CAL.EVA.regular.comment.csv",27
+
+"CAL197409270",0,"Debut for umpire Terry Cooney"1974CAL.EVA.regular.comment.csv",28
+
+"CAL197409280",25,"$Steve Braun called for obstruction during rundown"1974CAL.EVA.regular.comment.csv",29
+

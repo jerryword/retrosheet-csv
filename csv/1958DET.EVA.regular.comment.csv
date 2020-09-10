@@ -1,41 +1,40 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"DET195805150",15,"$Billy Hoeft struck on left foot"
-"DET195806170",52,"$Billy Hoeft dropped return throw after strikeout"
-"DET195806290",54,"$infield shifted for Ted Williams"
-"DET195807220",50,"$Jim Hegan called for obstruction while tagging Hank Bauer"
-"DET195807220",66,"12 minute rain delay"
-"DET195807240",73,"$Ryne Duren hit on left cheek"
-"DET195807280",74,"rain began falling"
-"DET195807280",80,"1:09 rain delay with 3-0 count on Harvey Kuenn"
-"DET195808031",62,"ej,woodg101,P,mckib901,Call at 1B ej,richp101,M,mckib901,Call at 1B Gene Woodling and Orioles Manager Paul Richards ejected by 1B umpire Bill McKinley"
-"DET195808032",38,"ej,niemb101,P,flahr901,Fair/foul call ej,richp101,M,flahr901,Fair/foul call Bob Nieman ejected by 3B umpire Red Flaherty Orioles Manager Paul Richards ejected by 3B umpire Red Flaherty"
-"DET195808101",63,"15 minute rain delay"
-"DET195808120",72,"ej,hudlw101,C,papaj901,Balls and strikes $Tigers coach Hudlin ejected by HP umpire Paparella for arguing balls and strikes"
-"DET195809040",7,"DIFF: Official sheet shows 3 RBI"
-"DET195809040",41,"46 minute rain delay with 1-0 count on Jim Landis"
-"DET195809060",37,"37 minute rain delay with 3-2 count on Pete Ward"
-"DET195809060",60,"rain delay"
-"DET195809141",27,"$Al Kaline robbed Ted Williams of a homer"
-"DET195809170",23,"$Mantle's homer was the third fair ball hit completely out of Briggs Stadium (Ted Williams in 1939, Mantle in 1956)"
-"DET195809202",44,"TSN has no DP for this listed"
-"DET195809210",61,"rain delay"
-"DET195805150",15,"$Billy Hoeft struck on left foot"
-"DET195806170",52,"$Billy Hoeft dropped return throw after strikeout"
-"DET195806290",54,"$infield shifted for Ted Williams"
-"DET195807220",50,"$Jim Hegan called for obstruction while tagging Hank Bauer"
-"DET195807220",66,"12 minute rain delay"
-"DET195807240",73,"$Ryne Duren hit on left cheek"
-"DET195807280",74,"rain began falling"
-"DET195807280",80,"1:09 rain delay with 3-0 count on Harvey Kuenn"
-"DET195808031",62,"ej,woodg101,P,mckib901,Call at 1B ej,richp101,M,mckib901,Call at 1B Gene Woodling and Orioles Manager Paul Richards ejected by 1B umpire Bill McKinley"
-"DET195808032",38,"ej,niemb101,P,flahr901,Fair/foul call ej,richp101,M,flahr901,Fair/foul call Bob Nieman ejected by 3B umpire Red Flaherty Orioles Manager Paul Richards ejected by 3B umpire Red Flaherty"
-"DET195808101",63,"15 minute rain delay"
-"DET195808120",72,"ej,hudlw101,C,papaj901,Balls and strikes $Tigers coach Hudlin ejected by HP umpire Paparella for arguing balls and strikes"
-"DET195809040",7,"DIFF: Official sheet shows 3 RBI"
-"DET195809040",41,"46 minute rain delay with 1-0 count on Jim Landis"
-"DET195809060",37,"37 minute rain delay with 3-2 count on Pete Ward"
-"DET195809060",60,"rain delay"
-"DET195809141",27,"$Al Kaline robbed Ted Williams of a homer"
-"DET195809170",23,"$Mantle's homer was the third fair ball hit completely out of Briggs Stadium (Ted Williams in 1939, Mantle in 1956)"
-"DET195809202",44,"TSN has no DP for this listed"
-"DET195809210",61,"rain delay"
+"DET195805150",15,"$Billy Hoeft struck on left foot"FILENAME_TX","LINE_NUMBER_CT"
+
+"DET195806170",52,"$Billy Hoeft dropped return throw after strikeout"1958DET.EVA.regular.comment.csv",2
+
+"DET195806290",54,"$infield shifted for Ted Williams"1958DET.EVA.regular.comment.csv",3
+
+"DET195807220",50,"$Jim Hegan called for obstruction while tagging Hank Bauer"1958DET.EVA.regular.comment.csv",4
+
+"DET195807220",66,"12 minute rain delay"1958DET.EVA.regular.comment.csv",5
+
+"DET195807240",73,"$Ryne Duren hit on left cheek"1958DET.EVA.regular.comment.csv",6
+
+"DET195807280",74,"rain began falling"1958DET.EVA.regular.comment.csv",7
+
+"DET195807280",80,"1:09 rain delay with 3-0 count on Harvey Kuenn"1958DET.EVA.regular.comment.csv",8
+
+"DET195808031",62,"ej,woodg101,P,mckib901,Call at 1B ej,richp101,M,mckib901,Call at 1B Gene Woodling and Orioles Manager Paul Richards ejected by 1B umpire Bill McKinley"1958DET.EVA.regular.comment.csv",9
+
+"DET195808032",38,"ej,niemb101,P,flahr901,Fair/foul call ej,richp101,M,flahr901,Fair/foul call Bob Nieman ejected by 3B umpire Red Flaherty Orioles Manager Paul Richards ejected by 3B umpire Red Flaherty"1958DET.EVA.regular.comment.csv",10
+
+"DET195808101",63,"15 minute rain delay"1958DET.EVA.regular.comment.csv",11
+
+"DET195808120",72,"ej,hudlw101,C,papaj901,Balls and strikes $Tigers coach Hudlin ejected by HP umpire Paparella for arguing balls and strikes"1958DET.EVA.regular.comment.csv",12
+
+"DET195809040",7,"DIFF: Official sheet shows 3 RBI"1958DET.EVA.regular.comment.csv",13
+
+"DET195809040",41,"46 minute rain delay with 1-0 count on Jim Landis"1958DET.EVA.regular.comment.csv",14
+
+"DET195809060",37,"37 minute rain delay with 3-2 count on Pete Ward"1958DET.EVA.regular.comment.csv",15
+
+"DET195809060",60,"rain delay"1958DET.EVA.regular.comment.csv",16
+
+"DET195809141",27,"$Al Kaline robbed Ted Williams of a homer"1958DET.EVA.regular.comment.csv",17
+
+"DET195809170",23,"$Mantle's homer was the third fair ball hit completely out of Briggs Stadium (Ted Williams in 1939, Mantle in 1956)"1958DET.EVA.regular.comment.csv",18
+
+"DET195809202",44,"TSN has no DP for this listed"1958DET.EVA.regular.comment.csv",19
+
+"DET195809210",61,"rain delay"1958DET.EVA.regular.comment.csv",20
+

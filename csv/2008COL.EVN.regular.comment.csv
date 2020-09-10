@@ -1,61 +1,60 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"COL200804090",2,"$Yunel Escobar called for interference"
-"COL200804210",47,"$the ball caromed off the CF wall past Taveras"
-"COL200804210",48,"$fifth consecutive game for a homer by Utley; tied team record"
-"COL200804220",81,"Debut game for Brad Harman"
-"COL200805050",51,"Debut game for Mike Parisi"
-"COL200805050",80,"$Pujols was running on the pitch to Ankiel and beat the throw home"
-"COL200805210",82,"Debut game for Travis Denker"
-"COL200805240",9,"Debut game for Nick Evans"
-"COL200806100",68,"fan interference"
-"COL200806170",23,"$the ball hit off the right CF wall and got by Grady Sizemore"
-"COL200806170",34,"fan interference"
-"COL200806170",71,"Debut game for Doug Bernier"
-"COL200806200",58,"Originally scored S and E7, changed to D next day"
-"COL200807010",45,"Rockies center fielder Willy Taveras left the game due to an injured leg"
-"COL200807020",22,"$Barrett fouled pitch into his face and broke nose. He was admitted to hospital."
-"COL200807020",54,"$Headley hit on back of right hand"
-"COL200807020",63,"Debut game for Cedrick Bowers"
-"COL200807040",18,"$fan interference"
-"COL200807060",41,"Debut game for Chris Volstad"
-"COL200808040",52,"Nationals shortstop Alberto Gonzalez left the game due to an injured leg"
-"COL200808040",55,"Debut game for Steven Register"
-"COL200808050",8,"$Atkins made an ill-advised throw that got past de la Rosa and Milledge made an ill-advised attempt to advance to 2B"
-"COL200808230",55,"$Ian Stewart out because Jeff Baker was called for batter interference"
-"COL200808240",30,"Reds pitcher Johnny Cueto left the game due to an injured arm"
-"COL200809020",89,"Debut game for Dexter Fowler"
-"COL200809060",3,"Astros third baseman Ty Wigginton left the game due to an injured groin"
-"COL200809070",14,"Astros pitcher Wandy Rodriguez left the game due to an injured back"
-"COL200809070",63,"Debut game for Edwin Maysonet"
-"COL200809140",38,"Dodgers third baseman Casey Blake left the game due to an injured back"
-"COL200809160",14,"Padres shortstop Luis Rodriguez left the game due to an injured arm"
-"COL200804090",2,"$Yunel Escobar called for interference"
-"COL200804210",47,"$the ball caromed off the CF wall past Taveras"
-"COL200804210",48,"$fifth consecutive game for a homer by Utley; tied team record"
-"COL200804220",81,"Debut game for Brad Harman"
-"COL200805050",51,"Debut game for Mike Parisi"
-"COL200805050",80,"$Pujols was running on the pitch to Ankiel and beat the throw home"
-"COL200805210",82,"Debut game for Travis Denker"
-"COL200805240",9,"Debut game for Nick Evans"
-"COL200806100",68,"fan interference"
-"COL200806170",23,"$the ball hit off the right CF wall and got by Grady Sizemore"
-"COL200806170",34,"fan interference"
-"COL200806170",71,"Debut game for Doug Bernier"
-"COL200806200",58,"Originally scored S and E7, changed to D next day"
-"COL200807010",45,"Rockies center fielder Willy Taveras left the game due to an injured leg"
-"COL200807020",22,"$Barrett fouled pitch into his face and broke nose. He was admitted to hospital."
-"COL200807020",54,"$Headley hit on back of right hand"
-"COL200807020",63,"Debut game for Cedrick Bowers"
-"COL200807040",18,"$fan interference"
-"COL200807060",41,"Debut game for Chris Volstad"
-"COL200808040",52,"Nationals shortstop Alberto Gonzalez left the game due to an injured leg"
-"COL200808040",55,"Debut game for Steven Register"
-"COL200808050",8,"$Atkins made an ill-advised throw that got past de la Rosa and Milledge made an ill-advised attempt to advance to 2B"
-"COL200808230",55,"$Ian Stewart out because Jeff Baker was called for batter interference"
-"COL200808240",30,"Reds pitcher Johnny Cueto left the game due to an injured arm"
-"COL200809020",89,"Debut game for Dexter Fowler"
-"COL200809060",3,"Astros third baseman Ty Wigginton left the game due to an injured groin"
-"COL200809070",14,"Astros pitcher Wandy Rodriguez left the game due to an injured back"
-"COL200809070",63,"Debut game for Edwin Maysonet"
-"COL200809140",38,"Dodgers third baseman Casey Blake left the game due to an injured back"
-"COL200809160",14,"Padres shortstop Luis Rodriguez left the game due to an injured arm"
+"COL200804090",2,"$Yunel Escobar called for interference"FILENAME_TX","LINE_NUMBER_CT"
+
+"COL200804210",47,"$the ball caromed off the CF wall past Taveras"2008COL.EVN.regular.comment.csv",2
+
+"COL200804210",48,"$fifth consecutive game for a homer by Utley; tied team record"2008COL.EVN.regular.comment.csv",3
+
+"COL200804220",81,"Debut game for Brad Harman"2008COL.EVN.regular.comment.csv",4
+
+"COL200805050",51,"Debut game for Mike Parisi"2008COL.EVN.regular.comment.csv",5
+
+"COL200805050",80,"$Pujols was running on the pitch to Ankiel and beat the throw home"2008COL.EVN.regular.comment.csv",6
+
+"COL200805210",82,"Debut game for Travis Denker"2008COL.EVN.regular.comment.csv",7
+
+"COL200805240",9,"Debut game for Nick Evans"2008COL.EVN.regular.comment.csv",8
+
+"COL200806100",68,"fan interference"2008COL.EVN.regular.comment.csv",9
+
+"COL200806170",23,"$the ball hit off the right CF wall and got by Grady Sizemore"2008COL.EVN.regular.comment.csv",10
+
+"COL200806170",34,"fan interference"2008COL.EVN.regular.comment.csv",11
+
+"COL200806170",71,"Debut game for Doug Bernier"2008COL.EVN.regular.comment.csv",12
+
+"COL200806200",58,"Originally scored S and E7, changed to D next day"2008COL.EVN.regular.comment.csv",13
+
+"COL200807010",45,"Rockies center fielder Willy Taveras left the game due to an injured leg"2008COL.EVN.regular.comment.csv",14
+
+"COL200807020",22,"$Barrett fouled pitch into his face and broke nose. He was admitted to hospital."2008COL.EVN.regular.comment.csv",15
+
+"COL200807020",54,"$Headley hit on back of right hand"2008COL.EVN.regular.comment.csv",16
+
+"COL200807020",63,"Debut game for Cedrick Bowers"2008COL.EVN.regular.comment.csv",17
+
+"COL200807040",18,"$fan interference"2008COL.EVN.regular.comment.csv",18
+
+"COL200807060",41,"Debut game for Chris Volstad"2008COL.EVN.regular.comment.csv",19
+
+"COL200808040",52,"Nationals shortstop Alberto Gonzalez left the game due to an injured leg"2008COL.EVN.regular.comment.csv",20
+
+"COL200808040",55,"Debut game for Steven Register"2008COL.EVN.regular.comment.csv",21
+
+"COL200808050",8,"$Atkins made an ill-advised throw that got past de la Rosa and Milledge made an ill-advised attempt to advance to 2B"2008COL.EVN.regular.comment.csv",22
+
+"COL200808230",55,"$Ian Stewart out because Jeff Baker was called for batter interference"2008COL.EVN.regular.comment.csv",23
+
+"COL200808240",30,"Reds pitcher Johnny Cueto left the game due to an injured arm"2008COL.EVN.regular.comment.csv",24
+
+"COL200809020",89,"Debut game for Dexter Fowler"2008COL.EVN.regular.comment.csv",25
+
+"COL200809060",3,"Astros third baseman Ty Wigginton left the game due to an injured groin"2008COL.EVN.regular.comment.csv",26
+
+"COL200809070",14,"Astros pitcher Wandy Rodriguez left the game due to an injured back"2008COL.EVN.regular.comment.csv",27
+
+"COL200809070",63,"Debut game for Edwin Maysonet"2008COL.EVN.regular.comment.csv",28
+
+"COL200809140",38,"Dodgers third baseman Casey Blake left the game due to an injured back"2008COL.EVN.regular.comment.csv",29
+
+"COL200809160",14,"Padres shortstop Luis Rodriguez left the game due to an injured arm"2008COL.EVN.regular.comment.csv",30
+

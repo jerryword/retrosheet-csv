@@ -1,169 +1,168 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"ATL201604040",29,"Ben Revere left with an injured rib cage"
-"ATL201604040",54,"$Nick Markakis was called for interference for his slide into 2B; he slid past 2B, which is not allowed by the new rule"
-"ATL201604080",6,"Braves right fielder Ender Inciarte left the game due to an injured leg"
-"ATL201604080",57,"replay,7,carpm002,SLN,wintm901,ATL02,,N,M,SLN,A $when Matt Carpenter was called out at 2B, Cardinals manager Mike Matheny challenged the ruling; the call was upheld by replay"
-"ATL201604080",70,"replay,8,gyorj001,SLN,wintm901,ATL02,,N,U,,A $when Kolton Wong was called out at 1B, crew chief Mike Winters requested a review; the call was upheld by replay"
-"ATL201604090",88,"replay,9,fryee001,SLN,wintm901,ATL02,,Y,M,SLN,C $when Eric Fryer was called out at 1B, Cardinals manager Mike Matheny challenged the ruling; the call was overturned by replay"
-"ATL201604100",65,"$Daniel Winkler left with a fractured right elbow"
-"ATL201604200",58,"replay,7,seagc001,LAN,barrt901,ATL02,,N,M,ATL,A $when Enrique Hernandez was called safe at 2B, Braves manager Fredi Gonzalez challenged the ruling; the call was upheld by replay"
-"ATL201604210",7,"replay,1,castd001,ATL,barrt901,ATL02,,N,M,ATL,A $when Daniel Castro was called out at 3B, Braves manager Fredi Gonzalez challenged the ruling; the call was upheld by replay"
-"ATL201604210",55,"replay,7,seagc001,LAN,barrt901,ATL02,,N,M,LAN,A $when Clayton Kewshaw was called out at HP, Dodgers manager Dave Roberts challenged the ruling; the call was upheld by replay"
-"ATL201604220",5,"$HP umpire Jeff Kellogg was struck on the side of the mask by a foul ball"
-"ATL201604220",8,"umpchange,2,umphome,porta901 umpchange,2,ump1b,tumpj901 umpchange,2,ump2b,(None) $HP umpire Jeff Kellogg left the game; 1B umpire Alan Porter moved to HP and 2B umpire John Tumpane moved to 1B"
-"ATL201604230",38,"$Erick Aybar called for interference for running into his own bunt"
-"ATL201604240",65,"replay,9,florw001,NYN,gibsg901,ATL02,,N,M,ATL,C $when Wilmer Flores was called safe at 1B, Braves manager Fredi Gonzalez challenged the ruling; the call was upheld by replay"
-"ATL201604250",72,"replay,9,freef001,ATL,westj901,ATL02,,N,M,ATL,I $when Freddie Freeman was ruled not to have been hit by a pitch, Braves manager Fredi Gonzalez challenged the ruling; the call was upheld by replay"
-"ATL201605060",36,"ej,piera001,P,blasc901,Called third strike Braves catcher A. J. Pierzynski ejected by HP umpire Cory Blaser"
-"ATL201605080",84,"replay,11,perad001,ARI,holbs901,ATL02,,N,M,ATL,E $when Paul Goldschmidt was called out at 2B, Braves manager Fredi Gonzalez challenged the slide as illegal; the slide was deemed legal by replay and the call upheld"
-"ATL201605100",41,"$Ender Inciarte faked that he could not see the fly ball; Carlos Ruiz moved closer to 2B and could not get back to 1B in time"
-"ATL201605110",59,"$originally scored as sinlge plus error, changed to double on 05-12-2016, making run now earned"
-"ATL201605120",38,"$originally scored as error, changed to single on 05-23-2016"
-"ATL201605120",51,"replay,7,blana001,PHI,wintm901,ATL02,,Y,M,PHI,A $when Odubel Herrera was called out at 1B on a pickoff attempt, Phillies manager Pete Mackanin challenged the ruling; the call was overturned by replay"
-"ATL201605240",55,"replay,7,beckg001,ATL,hallt901,ATL02,,Y,M,MIL,A $when Mallex Smith was called safe at 2B, Brewers manager Craig Counsell challenged the ruling; the call was overturned by replay"
-"ATL201605240",58,"replay,8,villj001,MIL,hallt901,ATL02,,N,M,MIL,A $when Ramon Flores was called out at 1B, Brewers manager Craig Counsell challenged the ruling; the call was upheld by replay"
-"ATL201605250",102,"replay,12,incie001,ATL,hallt901,ATL02,,Y,M,MIL,C $when Ender Inciarte was called safe at 1B, Brewers manager Craig Counsell challenged the ruling; the call was overturned by replay"
-"ATL201605250",110,"replay,13,villj001,MIL,hallt901,ATL02,,N,M,MIL,A $when Keon Broxton was called out at HP, Brewers manager Craig Counsell challenged the ruling; the call was upheld by replay"
-"ATL201605260",1,"replay,1,villj001,MIL,hallt901,ATL02,,Y,M,MIL,C $when Jonathan Villar was called out at 1B, Brewers manager Craig Counsell challenged the ruling; the call was overturned by replay"
-"ATL201605270",74,"replay,8,flowt001,ATL,marqa901,ATL02,,Y,M,ATL,C $when Tyler Flowers was called out at 1B, Braves interim manager Brian Snitker challenged the ruling; the call was overturned by replay"
-"ATL201605280",1,"replay,1,suzui001,MIA,marqa901,ATL02,,N,M,ATL,C $when Ichiro Suzuki was called safe at 1B, Braves interim manager Brian Snitker challenged the ruling; the call was upheld by replay"
-"ATL201605280",32,"$originally scored as double plus E8, changed to triple on 06-09-2016"
-"ATL201605290",71,"$Christian Yelich hit a foul ball into the Marlins dugout; the ball caromed off a wall and struck Derek Dietrich on the back of the head"
-"ATL201605310",50,"replay,8,panij002,SFN,kellj901,ATL02,,Y,M,ATL,C $when Joe Panik was called safe at 1B, Braves interim manager Brian Snitker challenged the ruling; the call was overturned by replay"
-"ATL201606010",25,"Giants right fielder Hunter Pence left the game due to an injured leg"
-"ATL201606010",50,"Braves SS Gordon Beckham left the game due to an injured leg"
-"ATL201606100",35,"$<allex Smith out on appeal for leaving 1B too soon"
-"ATL201606120",29,"replay,4,baezj001,CHN,mealj901,ATL02,,Y,M,CHN,C $when Javier Baez was called out at 1B, Cubs manager Joe Madden challenged the ruling; the call was overturned by replay"
-"ATL201606120",48,"replay,6,lestj001,CHN,cedeg901,ATL02,,Y,M,ATL,E $when Jon Lester was ruled safe at 1B, Braves interim manager Brian Snitker challenged the play at 2B; David Ross was ruled to have not made a legal slide and Lester was ruled out by replay; Ross ran to 2B without sliding, which is legal, but ran past the bag, unable to touch it, which is not legal"
-"ATL201606120",73,"$Addison Russell's ground ball down the LF line was touched by a fan for interference"
-"ATL201606150",36,"replay,4,incie001,ATL,joycj901,ATL02,,Y,M,CIN,C $when Ender Inciarte was called safe at 1B, Reds manager Bryan Price challenged the ruling; the call was overturned by replay"
-"ATL201606150",112,"replay,12,freef001,ATL,joycj901,ATL02,,Y,M,CIN,C $when Freddie Freeman was called safe at 1B, Reds manager Bryan Price challenged the ruling; the call was overturned by replay"
-"ATL201606160",67,"Braves left fielder Adonis Garcia left the game due to an injured ankle"
-"ATL201606230",62,"replay,7,incie001,ATL,everm901,ATL02,,N,M,ATL,P ej,snitb801,M,everm901,Replay ruling $when Emilio Bonifacio was called out at HP, interim Braves manager Brian Snitker challenged the ruling; the call was upheld by replay; the Braves bench exploded and Snitker came out of the dugout; 3B umpire and acting crew chief Mike Everitt warned Snitker not to come out; Snitker ejected by Everitt when he came out anyway"
-"ATL201606230",71,"replay,8,bonie001,ATL,everm901,ATL02,,N,U,,A $when Erick Aybar was called out at 2B, acting crew chief Mike Everitt requested a review; the call was upheld by replay"
-"ATL201606240",46,"replay,5,incie001,ATL,everm901,ATL02,,Y,M,ATL,C $when Ender Inciarte was called out at 1B, Braves interim manager Brian Snitker challenged the ruling; the call was overturned by replay"
-"ATL201606240",78,"replay,9,petej002,ATL,everm901,ATL02,,N,M,ATL,C $when Jace Peterson was called out at 1B, Braves interim manager Brian Snitker challenged the ruling; the call was upheld by replay"
-"ATL201606250",0,"$crew chief Mike Everitt missed the game due to being caught in a police pursuit and shootout; his rental car was hit by an allegedly stolen vehicle and he had to take cover on the floor of the car while the police officers and suspects exchanged gunfire; Everitt was unhurt; minor league call-up umpire Chris Segal, who was in Gwinnett County to work an International League game, drove to the park to work this game instead"
-"ATL201606250",8,"replay,1,markn001,ATL,timmt901,ATL02,,N,M,NYN,A $when Ender Inciarte was called safe at 2B, Mets manager Terry Collins challenged the ruling; the call was upheld by replay"
-"ATL201606270",17,"Braves pitcher John Gant left the game due to an injured side"
-"ATL201606270",70,"umpchange,8,umphome,wendh902 umpchange,8,ump2b,(None) $a foul ball off the bat of Nick Markakis struck HP umpire Jerry Layne on his upper right shoulder near the neck; catcher Chris Gimenez grabbed Layne and held him up; 2B umpire Hunter Wendelstedt moved to HP"
-"ATL201606280",74,"replay,9,incie001,ATL,wendh902,ATL02,,N,M,ATL,C ej,franj004,P,wendh902,Replay ruling $when Ender Inciarte was called out at 1B, Braves interim manager Brian Snitker challenged the ruling; the call was upheld by replay; Braves left fielder Jeff Francoeur ejected from the bench by 1B umpire Hunter Wendelstedt; Francoeur then threw his hat onto the field"
-"ATL201606300",91,"ej,flowt001,P,vanol901,Balls and strikes Braves catcher Tyler Flowers ejected by HP umpire Larry Vanover"
-"ATL201607010",42,"replay,5,incie001,ATL,vanol901,ATL02,,Y,M,ATL,C $when Ender Inciarte was called out at 1B, Braves interim manager Brian Snitker challenged the ruling; the call was overturned by replay"
-"ATL201607010",46,"Braves center fielder Ender Inciarte left the game due to an injured groin"
-"ATL201607020",44,"replay,6,darnc001,ATL,vanol901,ATL02,,N,M,ATL,C $when Chase d'Arnaud was called out at 1B, Braves interim manager Brian Snitker challenged the ruling; the call was upheld by replay; Justin Bour injured his ankle on the play"
-"ATL201607020",47,"Marlins first baseman Justin Bour left the game due to an injured ankle"
-"ATL201607030",0,"$the game was played at Fort Bragg, NC; this is the first MLB game played in North Carolina and the first played on an active military base"
-"ATL201607160",71,"$originally scored as RBI; changed on 07-26-2016"
-"ATL201607170",54,"replay,7,recka001,ATL,laynj901,ATL02,,N,M,COL,I $when Anthony Recker was ruled to have hit by a pitch, Rockies manager Walt Weiss challenged the ruling; the call was upheld by replay"
-"ATL201607280",9,"replay,1,nolaa001,PHI,vanol901,ATL02,,Y,M,ATL,A $when Carlos Ruiz was called safe at 2B on a tag, Braves interim manager Brian Snitker challenged the ruling; the call was overturned by replay; Erick Aybar stepped on the bag for a force and then tagged Ruiz"
-"ATL201607280",31,"$a fan reached over the wall and caught the ball for fan interference"
-"ATL201607280",73,"replay,8,aschc001,PHI,vanol901,ATL02,,N,M,ATL,C $when Cody Asche was called safe at 1B, Braves Braves interim manager Brian Snitker challenged the ruling; the call was upheld by replay"
-"ATL201607290",58,"replay,7,petej002,ATL,vanol901,ATL02,,Y,M,PHI,A $when Chase d'Arnaud was called safe at 2B, Phillies manager Pete Mackanin challenged the ruling; the call was overturned by replay"
-"ATL201607310",10,"DWS: last two plays really one, but must be entered separately for now"
-"ATL201608020",45,"replay,6,polag001,PIT,barrt901,ATL02,,N,M,PIT,C $when Gregory Polanco was called out at 1B, Pirates manager Clint Hurdle challenged the ruling; the call was upheld by replay"
-"ATL201608020",71,"$originally scored as double, changed to error on 08-04-2016"
-"ATL201608170",32,"replay,3,kempm001,ATL,demud901,ATL02,,Y,M,ATL,A $when Matt Kemp was called out at 2B, Braves interim manager Brian Snitker challenged the ruling; the call was overturned by replay"
-"ATL201608180",48,"replay,6,freef001,ATL,hallt901,ATL02,,N,M,WAS,A $when Freddie Freeman was called safe at 2B, Nationals manager Dusty Baker challenged the ruling; the call was upheld by replay"
-"ATL201608180",65,"replay,8,espid001,WAS,hallt901,ATL02,,N,U,,I $when Danny Espinosa was ruled not to have been hit by a pitch, crew chief Tom Hallion requested a review; the call was upheld by replay"
-"ATL201608190",17,"replay,3,reveb001,WAS,hallt901,ATL02,,Y,M,ATL,U $when Trea Turner was called safe at 1B, Braves interim manager Brian Snitker challenged the ruling; the call was overturned by replay"
-"ATL201608190",80,"replay,9,swand001,ATL,hallt901,ATL02,,Y,M,ATL,C $when Dansby Swanson was called out at 1B, Braves interim manager Brian Snitker challenged the ruling; the call was overturned by replay"
-"ATL201608300",34,"Padres catcher Christian Bethancourt left the game due to an injured chest"
-"ATL201609100",63,"Mets third baseman Wilmer Flores left the game due to an injured neck"
-"ATL201609120",43,"Braves pitcher Mike Foltynewicz left the game due to an injured leg"
-"ATL201609120",44,"Marlins center fielder Marcell Ozuna left the game due to an injured knee"
-"ATL201609120",50,"Braves shortstop Dansby Swanson left the game due to an injured groin"
-"ATL201609120",76,"replay,7,beckg001,ATL,gormb901,ATL02,,Y,M,ATL,A $when Jace Pederson was called out at 3B, Braves interim manager Brian Snitker challenged the ruling; the call was overturned by replay"
-"ATL201609130",13,"replay,2,hecha001,MIA,gormb901,ATL02,,Y,M,ATL,C $when Adeiny Hechavarria was called safe at 1B, Braves interim manager Brian Snitker challenged the ruling; the call was overturned by replay"
-"ATL201609130",66,"ej,wallt001,C,dejer901,Balls and strikes Marlins Bench Coach Tim Wallach ejected by HP umpire Ramon De Jesus"
-"ATL201609140",53,"ej,ramij004,P,hudsm901,Throwing at batter $the first pitch to Jose Fernandez was behind his head; Fernandez yelled and started to go towards the mound but was held back by HP umpire Marvin Hudson; Braves pitcher Jose Ramirez ejected by Hudson; both benches cleared"
-"ATL201609170",73,"replay,8,garca004,ATL,westj901,ATL02,,Y,M,WAS,A $when Mallex Smith was called safe at 3B, Nationals manager Dusty Baker challenged the ruling; the call was overturned by replay"
-"ATL201609180",62,"replay,7,zimmr001,WAS,westj901,ATL02,,N,M,WAS,C $when Wilmer Difo was called out at 2B, Nationals manager Dusty Baker challenged the ruling; the call was upheld by replay"
-"ATL201609180",65,"$Game called for rain"
-"ATL201609270",52,"Phillies center fielder Roman Quinn left the game due to an injured side"
-"ATL201609280",13,"replay,2,smitm007,ATL,hallt901,ATL02,,Y,M,PHI,C $when Mallex Smith was called safe at 1B, Phillies manager Pete Mackanin challenged the ruling; the call was overturned by replay"
-"ATL201609290",28,"Phillies pitcher Jeremy Hellickson left the game due to an injured knee"
-"ATL201604040",29,"Ben Revere left with an injured rib cage"
-"ATL201604040",54,"$Nick Markakis was called for interference for his slide into 2B; he slid past 2B, which is not allowed by the new rule"
-"ATL201604080",6,"Braves right fielder Ender Inciarte left the game due to an injured leg"
-"ATL201604080",57,"replay,7,carpm002,SLN,wintm901,ATL02,,N,M,SLN,A $when Matt Carpenter was called out at 2B, Cardinals manager Mike Matheny challenged the ruling; the call was upheld by replay"
-"ATL201604080",70,"replay,8,gyorj001,SLN,wintm901,ATL02,,N,U,,A $when Kolton Wong was called out at 1B, crew chief Mike Winters requested a review; the call was upheld by replay"
-"ATL201604090",88,"replay,9,fryee001,SLN,wintm901,ATL02,,Y,M,SLN,C $when Eric Fryer was called out at 1B, Cardinals manager Mike Matheny challenged the ruling; the call was overturned by replay"
-"ATL201604100",65,"$Daniel Winkler left with a fractured right elbow"
-"ATL201604200",58,"replay,7,seagc001,LAN,barrt901,ATL02,,N,M,ATL,A $when Enrique Hernandez was called safe at 2B, Braves manager Fredi Gonzalez challenged the ruling; the call was upheld by replay"
-"ATL201604210",7,"replay,1,castd001,ATL,barrt901,ATL02,,N,M,ATL,A $when Daniel Castro was called out at 3B, Braves manager Fredi Gonzalez challenged the ruling; the call was upheld by replay"
-"ATL201604210",55,"replay,7,seagc001,LAN,barrt901,ATL02,,N,M,LAN,A $when Clayton Kewshaw was called out at HP, Dodgers manager Dave Roberts challenged the ruling; the call was upheld by replay"
-"ATL201604220",5,"$HP umpire Jeff Kellogg was struck on the side of the mask by a foul ball"
-"ATL201604220",8,"umpchange,2,umphome,porta901 umpchange,2,ump1b,tumpj901 umpchange,2,ump2b,(None) $HP umpire Jeff Kellogg left the game; 1B umpire Alan Porter moved to HP and 2B umpire John Tumpane moved to 1B"
-"ATL201604230",38,"$Erick Aybar called for interference for running into his own bunt"
-"ATL201604240",65,"replay,9,florw001,NYN,gibsg901,ATL02,,N,M,ATL,C $when Wilmer Flores was called safe at 1B, Braves manager Fredi Gonzalez challenged the ruling; the call was upheld by replay"
-"ATL201604250",72,"replay,9,freef001,ATL,westj901,ATL02,,N,M,ATL,I $when Freddie Freeman was ruled not to have been hit by a pitch, Braves manager Fredi Gonzalez challenged the ruling; the call was upheld by replay"
-"ATL201605060",36,"ej,piera001,P,blasc901,Called third strike Braves catcher A. J. Pierzynski ejected by HP umpire Cory Blaser"
-"ATL201605080",84,"replay,11,perad001,ARI,holbs901,ATL02,,N,M,ATL,E $when Paul Goldschmidt was called out at 2B, Braves manager Fredi Gonzalez challenged the slide as illegal; the slide was deemed legal by replay and the call upheld"
-"ATL201605100",41,"$Ender Inciarte faked that he could not see the fly ball; Carlos Ruiz moved closer to 2B and could not get back to 1B in time"
-"ATL201605110",59,"$originally scored as sinlge plus error, changed to double on 05-12-2016, making run now earned"
-"ATL201605120",38,"$originally scored as error, changed to single on 05-23-2016"
-"ATL201605120",51,"replay,7,blana001,PHI,wintm901,ATL02,,Y,M,PHI,A $when Odubel Herrera was called out at 1B on a pickoff attempt, Phillies manager Pete Mackanin challenged the ruling; the call was overturned by replay"
-"ATL201605240",55,"replay,7,beckg001,ATL,hallt901,ATL02,,Y,M,MIL,A $when Mallex Smith was called safe at 2B, Brewers manager Craig Counsell challenged the ruling; the call was overturned by replay"
-"ATL201605240",58,"replay,8,villj001,MIL,hallt901,ATL02,,N,M,MIL,A $when Ramon Flores was called out at 1B, Brewers manager Craig Counsell challenged the ruling; the call was upheld by replay"
-"ATL201605250",102,"replay,12,incie001,ATL,hallt901,ATL02,,Y,M,MIL,C $when Ender Inciarte was called safe at 1B, Brewers manager Craig Counsell challenged the ruling; the call was overturned by replay"
-"ATL201605250",110,"replay,13,villj001,MIL,hallt901,ATL02,,N,M,MIL,A $when Keon Broxton was called out at HP, Brewers manager Craig Counsell challenged the ruling; the call was upheld by replay"
-"ATL201605260",1,"replay,1,villj001,MIL,hallt901,ATL02,,Y,M,MIL,C $when Jonathan Villar was called out at 1B, Brewers manager Craig Counsell challenged the ruling; the call was overturned by replay"
-"ATL201605270",74,"replay,8,flowt001,ATL,marqa901,ATL02,,Y,M,ATL,C $when Tyler Flowers was called out at 1B, Braves interim manager Brian Snitker challenged the ruling; the call was overturned by replay"
-"ATL201605280",1,"replay,1,suzui001,MIA,marqa901,ATL02,,N,M,ATL,C $when Ichiro Suzuki was called safe at 1B, Braves interim manager Brian Snitker challenged the ruling; the call was upheld by replay"
-"ATL201605280",32,"$originally scored as double plus E8, changed to triple on 06-09-2016"
-"ATL201605290",71,"$Christian Yelich hit a foul ball into the Marlins dugout; the ball caromed off a wall and struck Derek Dietrich on the back of the head"
-"ATL201605310",50,"replay,8,panij002,SFN,kellj901,ATL02,,Y,M,ATL,C $when Joe Panik was called safe at 1B, Braves interim manager Brian Snitker challenged the ruling; the call was overturned by replay"
-"ATL201606010",25,"Giants right fielder Hunter Pence left the game due to an injured leg"
-"ATL201606010",50,"Braves SS Gordon Beckham left the game due to an injured leg"
-"ATL201606100",35,"$<allex Smith out on appeal for leaving 1B too soon"
-"ATL201606120",29,"replay,4,baezj001,CHN,mealj901,ATL02,,Y,M,CHN,C $when Javier Baez was called out at 1B, Cubs manager Joe Madden challenged the ruling; the call was overturned by replay"
-"ATL201606120",48,"replay,6,lestj001,CHN,cedeg901,ATL02,,Y,M,ATL,E $when Jon Lester was ruled safe at 1B, Braves interim manager Brian Snitker challenged the play at 2B; David Ross was ruled to have not made a legal slide and Lester was ruled out by replay; Ross ran to 2B without sliding, which is legal, but ran past the bag, unable to touch it, which is not legal"
-"ATL201606120",73,"$Addison Russell's ground ball down the LF line was touched by a fan for interference"
-"ATL201606150",36,"replay,4,incie001,ATL,joycj901,ATL02,,Y,M,CIN,C $when Ender Inciarte was called safe at 1B, Reds manager Bryan Price challenged the ruling; the call was overturned by replay"
-"ATL201606150",112,"replay,12,freef001,ATL,joycj901,ATL02,,Y,M,CIN,C $when Freddie Freeman was called safe at 1B, Reds manager Bryan Price challenged the ruling; the call was overturned by replay"
-"ATL201606160",67,"Braves left fielder Adonis Garcia left the game due to an injured ankle"
-"ATL201606230",62,"replay,7,incie001,ATL,everm901,ATL02,,N,M,ATL,P ej,snitb801,M,everm901,Replay ruling $when Emilio Bonifacio was called out at HP, interim Braves manager Brian Snitker challenged the ruling; the call was upheld by replay; the Braves bench exploded and Snitker came out of the dugout; 3B umpire and acting crew chief Mike Everitt warned Snitker not to come out; Snitker ejected by Everitt when he came out anyway"
-"ATL201606230",71,"replay,8,bonie001,ATL,everm901,ATL02,,N,U,,A $when Erick Aybar was called out at 2B, acting crew chief Mike Everitt requested a review; the call was upheld by replay"
-"ATL201606240",46,"replay,5,incie001,ATL,everm901,ATL02,,Y,M,ATL,C $when Ender Inciarte was called out at 1B, Braves interim manager Brian Snitker challenged the ruling; the call was overturned by replay"
-"ATL201606240",78,"replay,9,petej002,ATL,everm901,ATL02,,N,M,ATL,C $when Jace Peterson was called out at 1B, Braves interim manager Brian Snitker challenged the ruling; the call was upheld by replay"
-"ATL201606250",0,"$crew chief Mike Everitt missed the game due to being caught in a police pursuit and shootout; his rental car was hit by an allegedly stolen vehicle and he had to take cover on the floor of the car while the police officers and suspects exchanged gunfire; Everitt was unhurt; minor league call-up umpire Chris Segal, who was in Gwinnett County to work an International League game, drove to the park to work this game instead"
-"ATL201606250",8,"replay,1,markn001,ATL,timmt901,ATL02,,N,M,NYN,A $when Ender Inciarte was called safe at 2B, Mets manager Terry Collins challenged the ruling; the call was upheld by replay"
-"ATL201606270",17,"Braves pitcher John Gant left the game due to an injured side"
-"ATL201606270",70,"umpchange,8,umphome,wendh902 umpchange,8,ump2b,(None) $a foul ball off the bat of Nick Markakis struck HP umpire Jerry Layne on his upper right shoulder near the neck; catcher Chris Gimenez grabbed Layne and held him up; 2B umpire Hunter Wendelstedt moved to HP"
-"ATL201606280",74,"replay,9,incie001,ATL,wendh902,ATL02,,N,M,ATL,C ej,franj004,P,wendh902,Replay ruling $when Ender Inciarte was called out at 1B, Braves interim manager Brian Snitker challenged the ruling; the call was upheld by replay; Braves left fielder Jeff Francoeur ejected from the bench by 1B umpire Hunter Wendelstedt; Francoeur then threw his hat onto the field"
-"ATL201606300",91,"ej,flowt001,P,vanol901,Balls and strikes Braves catcher Tyler Flowers ejected by HP umpire Larry Vanover"
-"ATL201607010",42,"replay,5,incie001,ATL,vanol901,ATL02,,Y,M,ATL,C $when Ender Inciarte was called out at 1B, Braves interim manager Brian Snitker challenged the ruling; the call was overturned by replay"
-"ATL201607010",46,"Braves center fielder Ender Inciarte left the game due to an injured groin"
-"ATL201607020",44,"replay,6,darnc001,ATL,vanol901,ATL02,,N,M,ATL,C $when Chase d'Arnaud was called out at 1B, Braves interim manager Brian Snitker challenged the ruling; the call was upheld by replay; Justin Bour injured his ankle on the play"
-"ATL201607020",47,"Marlins first baseman Justin Bour left the game due to an injured ankle"
-"ATL201607030",0,"$the game was played at Fort Bragg, NC; this is the first MLB game played in North Carolina and the first played on an active military base"
-"ATL201607160",71,"$originally scored as RBI; changed on 07-26-2016"
-"ATL201607170",54,"replay,7,recka001,ATL,laynj901,ATL02,,N,M,COL,I $when Anthony Recker was ruled to have hit by a pitch, Rockies manager Walt Weiss challenged the ruling; the call was upheld by replay"
-"ATL201607280",9,"replay,1,nolaa001,PHI,vanol901,ATL02,,Y,M,ATL,A $when Carlos Ruiz was called safe at 2B on a tag, Braves interim manager Brian Snitker challenged the ruling; the call was overturned by replay; Erick Aybar stepped on the bag for a force and then tagged Ruiz"
-"ATL201607280",31,"$a fan reached over the wall and caught the ball for fan interference"
-"ATL201607280",73,"replay,8,aschc001,PHI,vanol901,ATL02,,N,M,ATL,C $when Cody Asche was called safe at 1B, Braves Braves interim manager Brian Snitker challenged the ruling; the call was upheld by replay"
-"ATL201607290",58,"replay,7,petej002,ATL,vanol901,ATL02,,Y,M,PHI,A $when Chase d'Arnaud was called safe at 2B, Phillies manager Pete Mackanin challenged the ruling; the call was overturned by replay"
-"ATL201607310",10,"DWS: last two plays really one, but must be entered separately for now"
-"ATL201608020",45,"replay,6,polag001,PIT,barrt901,ATL02,,N,M,PIT,C $when Gregory Polanco was called out at 1B, Pirates manager Clint Hurdle challenged the ruling; the call was upheld by replay"
-"ATL201608020",71,"$originally scored as double, changed to error on 08-04-2016"
-"ATL201608170",32,"replay,3,kempm001,ATL,demud901,ATL02,,Y,M,ATL,A $when Matt Kemp was called out at 2B, Braves interim manager Brian Snitker challenged the ruling; the call was overturned by replay"
-"ATL201608180",48,"replay,6,freef001,ATL,hallt901,ATL02,,N,M,WAS,A $when Freddie Freeman was called safe at 2B, Nationals manager Dusty Baker challenged the ruling; the call was upheld by replay"
-"ATL201608180",65,"replay,8,espid001,WAS,hallt901,ATL02,,N,U,,I $when Danny Espinosa was ruled not to have been hit by a pitch, crew chief Tom Hallion requested a review; the call was upheld by replay"
-"ATL201608190",17,"replay,3,reveb001,WAS,hallt901,ATL02,,Y,M,ATL,U $when Trea Turner was called safe at 1B, Braves interim manager Brian Snitker challenged the ruling; the call was overturned by replay"
-"ATL201608190",80,"replay,9,swand001,ATL,hallt901,ATL02,,Y,M,ATL,C $when Dansby Swanson was called out at 1B, Braves interim manager Brian Snitker challenged the ruling; the call was overturned by replay"
-"ATL201608300",34,"Padres catcher Christian Bethancourt left the game due to an injured chest"
-"ATL201609100",63,"Mets third baseman Wilmer Flores left the game due to an injured neck"
-"ATL201609120",43,"Braves pitcher Mike Foltynewicz left the game due to an injured leg"
-"ATL201609120",44,"Marlins center fielder Marcell Ozuna left the game due to an injured knee"
-"ATL201609120",50,"Braves shortstop Dansby Swanson left the game due to an injured groin"
-"ATL201609120",76,"replay,7,beckg001,ATL,gormb901,ATL02,,Y,M,ATL,A $when Jace Pederson was called out at 3B, Braves interim manager Brian Snitker challenged the ruling; the call was overturned by replay"
-"ATL201609130",13,"replay,2,hecha001,MIA,gormb901,ATL02,,Y,M,ATL,C $when Adeiny Hechavarria was called safe at 1B, Braves interim manager Brian Snitker challenged the ruling; the call was overturned by replay"
-"ATL201609130",66,"ej,wallt001,C,dejer901,Balls and strikes Marlins Bench Coach Tim Wallach ejected by HP umpire Ramon De Jesus"
-"ATL201609140",53,"ej,ramij004,P,hudsm901,Throwing at batter $the first pitch to Jose Fernandez was behind his head; Fernandez yelled and started to go towards the mound but was held back by HP umpire Marvin Hudson; Braves pitcher Jose Ramirez ejected by Hudson; both benches cleared"
-"ATL201609170",73,"replay,8,garca004,ATL,westj901,ATL02,,Y,M,WAS,A $when Mallex Smith was called safe at 3B, Nationals manager Dusty Baker challenged the ruling; the call was overturned by replay"
-"ATL201609180",62,"replay,7,zimmr001,WAS,westj901,ATL02,,N,M,WAS,C $when Wilmer Difo was called out at 2B, Nationals manager Dusty Baker challenged the ruling; the call was upheld by replay"
-"ATL201609180",65,"$Game called for rain"
-"ATL201609270",52,"Phillies center fielder Roman Quinn left the game due to an injured side"
-"ATL201609280",13,"replay,2,smitm007,ATL,hallt901,ATL02,,Y,M,PHI,C $when Mallex Smith was called safe at 1B, Phillies manager Pete Mackanin challenged the ruling; the call was overturned by replay"
-"ATL201609290",28,"Phillies pitcher Jeremy Hellickson left the game due to an injured knee"
+"ATL201604040",29,"Ben Revere left with an injured rib cage"FILENAME_TX","LINE_NUMBER_CT"
+
+"ATL201604040",54,"$Nick Markakis was called for interference for his slide into 2B; he slid past 2B, which is not allowed by the new rule"2016ATL.EVN.regular.comment.csv",2
+
+"ATL201604080",6,"Braves right fielder Ender Inciarte left the game due to an injured leg"2016ATL.EVN.regular.comment.csv",3
+
+"ATL201604080",57,"replay,7,carpm002,SLN,wintm901,ATL02,,N,M,SLN,A $when Matt Carpenter was called out at 2B, Cardinals manager Mike Matheny challenged the ruling; the call was upheld by replay"2016ATL.EVN.regular.comment.csv",4
+
+"ATL201604080",70,"replay,8,gyorj001,SLN,wintm901,ATL02,,N,U,,A $when Kolton Wong was called out at 1B, crew chief Mike Winters requested a review; the call was upheld by replay"2016ATL.EVN.regular.comment.csv",5
+
+"ATL201604090",88,"replay,9,fryee001,SLN,wintm901,ATL02,,Y,M,SLN,C $when Eric Fryer was called out at 1B, Cardinals manager Mike Matheny challenged the ruling; the call was overturned by replay"2016ATL.EVN.regular.comment.csv",6
+
+"ATL201604100",65,"$Daniel Winkler left with a fractured right elbow"2016ATL.EVN.regular.comment.csv",7
+
+"ATL201604200",58,"replay,7,seagc001,LAN,barrt901,ATL02,,N,M,ATL,A $when Enrique Hernandez was called safe at 2B, Braves manager Fredi Gonzalez challenged the ruling; the call was upheld by replay"2016ATL.EVN.regular.comment.csv",8
+
+"ATL201604210",7,"replay,1,castd001,ATL,barrt901,ATL02,,N,M,ATL,A $when Daniel Castro was called out at 3B, Braves manager Fredi Gonzalez challenged the ruling; the call was upheld by replay"2016ATL.EVN.regular.comment.csv",9
+
+"ATL201604210",55,"replay,7,seagc001,LAN,barrt901,ATL02,,N,M,LAN,A $when Clayton Kewshaw was called out at HP, Dodgers manager Dave Roberts challenged the ruling; the call was upheld by replay"2016ATL.EVN.regular.comment.csv",10
+
+"ATL201604220",5,"$HP umpire Jeff Kellogg was struck on the side of the mask by a foul ball"2016ATL.EVN.regular.comment.csv",11
+
+"ATL201604220",8,"umpchange,2,umphome,porta901 umpchange,2,ump1b,tumpj901 umpchange,2,ump2b,(None) $HP umpire Jeff Kellogg left the game; 1B umpire Alan Porter moved to HP and 2B umpire John Tumpane moved to 1B"2016ATL.EVN.regular.comment.csv",12
+
+"ATL201604230",38,"$Erick Aybar called for interference for running into his own bunt"2016ATL.EVN.regular.comment.csv",13
+
+"ATL201604240",65,"replay,9,florw001,NYN,gibsg901,ATL02,,N,M,ATL,C $when Wilmer Flores was called safe at 1B, Braves manager Fredi Gonzalez challenged the ruling; the call was upheld by replay"2016ATL.EVN.regular.comment.csv",14
+
+"ATL201604250",72,"replay,9,freef001,ATL,westj901,ATL02,,N,M,ATL,I $when Freddie Freeman was ruled not to have been hit by a pitch, Braves manager Fredi Gonzalez challenged the ruling; the call was upheld by replay"2016ATL.EVN.regular.comment.csv",15
+
+"ATL201605060",36,"ej,piera001,P,blasc901,Called third strike Braves catcher A. J. Pierzynski ejected by HP umpire Cory Blaser"2016ATL.EVN.regular.comment.csv",16
+
+"ATL201605080",84,"replay,11,perad001,ARI,holbs901,ATL02,,N,M,ATL,E $when Paul Goldschmidt was called out at 2B, Braves manager Fredi Gonzalez challenged the slide as illegal; the slide was deemed legal by replay and the call upheld"2016ATL.EVN.regular.comment.csv",17
+
+"ATL201605100",41,"$Ender Inciarte faked that he could not see the fly ball; Carlos Ruiz moved closer to 2B and could not get back to 1B in time"2016ATL.EVN.regular.comment.csv",18
+
+"ATL201605110",59,"$originally scored as sinlge plus error, changed to double on 05-12-2016, making run now earned"2016ATL.EVN.regular.comment.csv",19
+
+"ATL201605120",38,"$originally scored as error, changed to single on 05-23-2016"2016ATL.EVN.regular.comment.csv",20
+
+"ATL201605120",51,"replay,7,blana001,PHI,wintm901,ATL02,,Y,M,PHI,A $when Odubel Herrera was called out at 1B on a pickoff attempt, Phillies manager Pete Mackanin challenged the ruling; the call was overturned by replay"2016ATL.EVN.regular.comment.csv",21
+
+"ATL201605240",55,"replay,7,beckg001,ATL,hallt901,ATL02,,Y,M,MIL,A $when Mallex Smith was called safe at 2B, Brewers manager Craig Counsell challenged the ruling; the call was overturned by replay"2016ATL.EVN.regular.comment.csv",22
+
+"ATL201605240",58,"replay,8,villj001,MIL,hallt901,ATL02,,N,M,MIL,A $when Ramon Flores was called out at 1B, Brewers manager Craig Counsell challenged the ruling; the call was upheld by replay"2016ATL.EVN.regular.comment.csv",23
+
+"ATL201605250",102,"replay,12,incie001,ATL,hallt901,ATL02,,Y,M,MIL,C $when Ender Inciarte was called safe at 1B, Brewers manager Craig Counsell challenged the ruling; the call was overturned by replay"2016ATL.EVN.regular.comment.csv",24
+
+"ATL201605250",110,"replay,13,villj001,MIL,hallt901,ATL02,,N,M,MIL,A $when Keon Broxton was called out at HP, Brewers manager Craig Counsell challenged the ruling; the call was upheld by replay"2016ATL.EVN.regular.comment.csv",25
+
+"ATL201605260",1,"replay,1,villj001,MIL,hallt901,ATL02,,Y,M,MIL,C $when Jonathan Villar was called out at 1B, Brewers manager Craig Counsell challenged the ruling; the call was overturned by replay"2016ATL.EVN.regular.comment.csv",26
+
+"ATL201605270",74,"replay,8,flowt001,ATL,marqa901,ATL02,,Y,M,ATL,C $when Tyler Flowers was called out at 1B, Braves interim manager Brian Snitker challenged the ruling; the call was overturned by replay"2016ATL.EVN.regular.comment.csv",27
+
+"ATL201605280",1,"replay,1,suzui001,MIA,marqa901,ATL02,,N,M,ATL,C $when Ichiro Suzuki was called safe at 1B, Braves interim manager Brian Snitker challenged the ruling; the call was upheld by replay"2016ATL.EVN.regular.comment.csv",28
+
+"ATL201605280",32,"$originally scored as double plus E8, changed to triple on 06-09-2016"2016ATL.EVN.regular.comment.csv",29
+
+"ATL201605290",71,"$Christian Yelich hit a foul ball into the Marlins dugout; the ball caromed off a wall and struck Derek Dietrich on the back of the head"2016ATL.EVN.regular.comment.csv",30
+
+"ATL201605310",50,"replay,8,panij002,SFN,kellj901,ATL02,,Y,M,ATL,C $when Joe Panik was called safe at 1B, Braves interim manager Brian Snitker challenged the ruling; the call was overturned by replay"2016ATL.EVN.regular.comment.csv",31
+
+"ATL201606010",25,"Giants right fielder Hunter Pence left the game due to an injured leg"2016ATL.EVN.regular.comment.csv",32
+
+"ATL201606010",50,"Braves SS Gordon Beckham left the game due to an injured leg"2016ATL.EVN.regular.comment.csv",33
+
+"ATL201606100",35,"$<allex Smith out on appeal for leaving 1B too soon"2016ATL.EVN.regular.comment.csv",34
+
+"ATL201606120",29,"replay,4,baezj001,CHN,mealj901,ATL02,,Y,M,CHN,C $when Javier Baez was called out at 1B, Cubs manager Joe Madden challenged the ruling; the call was overturned by replay"2016ATL.EVN.regular.comment.csv",35
+
+"ATL201606120",48,"replay,6,lestj001,CHN,cedeg901,ATL02,,Y,M,ATL,E $when Jon Lester was ruled safe at 1B, Braves interim manager Brian Snitker challenged the play at 2B; David Ross was ruled to have not made a legal slide and Lester was ruled out by replay; Ross ran to 2B without sliding, which is legal, but ran past the bag, unable to touch it, which is not legal"2016ATL.EVN.regular.comment.csv",36
+
+"ATL201606120",73,"$Addison Russell's ground ball down the LF line was touched by a fan for interference"2016ATL.EVN.regular.comment.csv",37
+
+"ATL201606150",36,"replay,4,incie001,ATL,joycj901,ATL02,,Y,M,CIN,C $when Ender Inciarte was called safe at 1B, Reds manager Bryan Price challenged the ruling; the call was overturned by replay"2016ATL.EVN.regular.comment.csv",38
+
+"ATL201606150",112,"replay,12,freef001,ATL,joycj901,ATL02,,Y,M,CIN,C $when Freddie Freeman was called safe at 1B, Reds manager Bryan Price challenged the ruling; the call was overturned by replay"2016ATL.EVN.regular.comment.csv",39
+
+"ATL201606160",67,"Braves left fielder Adonis Garcia left the game due to an injured ankle"2016ATL.EVN.regular.comment.csv",40
+
+"ATL201606230",62,"replay,7,incie001,ATL,everm901,ATL02,,N,M,ATL,P ej,snitb801,M,everm901,Replay ruling $when Emilio Bonifacio was called out at HP, interim Braves manager Brian Snitker challenged the ruling; the call was upheld by replay; the Braves bench exploded and Snitker came out of the dugout; 3B umpire and acting crew chief Mike Everitt warned Snitker not to come out; Snitker ejected by Everitt when he came out anyway"2016ATL.EVN.regular.comment.csv",41
+
+"ATL201606230",71,"replay,8,bonie001,ATL,everm901,ATL02,,N,U,,A $when Erick Aybar was called out at 2B, acting crew chief Mike Everitt requested a review; the call was upheld by replay"2016ATL.EVN.regular.comment.csv",42
+
+"ATL201606240",46,"replay,5,incie001,ATL,everm901,ATL02,,Y,M,ATL,C $when Ender Inciarte was called out at 1B, Braves interim manager Brian Snitker challenged the ruling; the call was overturned by replay"2016ATL.EVN.regular.comment.csv",43
+
+"ATL201606240",78,"replay,9,petej002,ATL,everm901,ATL02,,N,M,ATL,C $when Jace Peterson was called out at 1B, Braves interim manager Brian Snitker challenged the ruling; the call was upheld by replay"2016ATL.EVN.regular.comment.csv",44
+
+"ATL201606250",0,"$crew chief Mike Everitt missed the game due to being caught in a police pursuit and shootout; his rental car was hit by an allegedly stolen vehicle and he had to take cover on the floor of the car while the police officers and suspects exchanged gunfire; Everitt was unhurt; minor league call-up umpire Chris Segal, who was in Gwinnett County to work an International League game, drove to the park to work this game instead"2016ATL.EVN.regular.comment.csv",45
+
+"ATL201606250",8,"replay,1,markn001,ATL,timmt901,ATL02,,N,M,NYN,A $when Ender Inciarte was called safe at 2B, Mets manager Terry Collins challenged the ruling; the call was upheld by replay"2016ATL.EVN.regular.comment.csv",46
+
+"ATL201606270",17,"Braves pitcher John Gant left the game due to an injured side"2016ATL.EVN.regular.comment.csv",47
+
+"ATL201606270",70,"umpchange,8,umphome,wendh902 umpchange,8,ump2b,(None) $a foul ball off the bat of Nick Markakis struck HP umpire Jerry Layne on his upper right shoulder near the neck; catcher Chris Gimenez grabbed Layne and held him up; 2B umpire Hunter Wendelstedt moved to HP"2016ATL.EVN.regular.comment.csv",48
+
+"ATL201606280",74,"replay,9,incie001,ATL,wendh902,ATL02,,N,M,ATL,C ej,franj004,P,wendh902,Replay ruling $when Ender Inciarte was called out at 1B, Braves interim manager Brian Snitker challenged the ruling; the call was upheld by replay; Braves left fielder Jeff Francoeur ejected from the bench by 1B umpire Hunter Wendelstedt; Francoeur then threw his hat onto the field"2016ATL.EVN.regular.comment.csv",49
+
+"ATL201606300",91,"ej,flowt001,P,vanol901,Balls and strikes Braves catcher Tyler Flowers ejected by HP umpire Larry Vanover"2016ATL.EVN.regular.comment.csv",50
+
+"ATL201607010",42,"replay,5,incie001,ATL,vanol901,ATL02,,Y,M,ATL,C $when Ender Inciarte was called out at 1B, Braves interim manager Brian Snitker challenged the ruling; the call was overturned by replay"2016ATL.EVN.regular.comment.csv",51
+
+"ATL201607010",46,"Braves center fielder Ender Inciarte left the game due to an injured groin"2016ATL.EVN.regular.comment.csv",52
+
+"ATL201607020",44,"replay,6,darnc001,ATL,vanol901,ATL02,,N,M,ATL,C $when Chase d'Arnaud was called out at 1B, Braves interim manager Brian Snitker challenged the ruling; the call was upheld by replay; Justin Bour injured his ankle on the play"2016ATL.EVN.regular.comment.csv",53
+
+"ATL201607020",47,"Marlins first baseman Justin Bour left the game due to an injured ankle"2016ATL.EVN.regular.comment.csv",54
+
+"ATL201607030",0,"$the game was played at Fort Bragg, NC; this is the first MLB game played in North Carolina and the first played on an active military base"2016ATL.EVN.regular.comment.csv",55
+
+"ATL201607160",71,"$originally scored as RBI; changed on 07-26-2016"2016ATL.EVN.regular.comment.csv",56
+
+"ATL201607170",54,"replay,7,recka001,ATL,laynj901,ATL02,,N,M,COL,I $when Anthony Recker was ruled to have hit by a pitch, Rockies manager Walt Weiss challenged the ruling; the call was upheld by replay"2016ATL.EVN.regular.comment.csv",57
+
+"ATL201607280",9,"replay,1,nolaa001,PHI,vanol901,ATL02,,Y,M,ATL,A $when Carlos Ruiz was called safe at 2B on a tag, Braves interim manager Brian Snitker challenged the ruling; the call was overturned by replay; Erick Aybar stepped on the bag for a force and then tagged Ruiz"2016ATL.EVN.regular.comment.csv",58
+
+"ATL201607280",31,"$a fan reached over the wall and caught the ball for fan interference"2016ATL.EVN.regular.comment.csv",59
+
+"ATL201607280",73,"replay,8,aschc001,PHI,vanol901,ATL02,,N,M,ATL,C $when Cody Asche was called safe at 1B, Braves Braves interim manager Brian Snitker challenged the ruling; the call was upheld by replay"2016ATL.EVN.regular.comment.csv",60
+
+"ATL201607290",58,"replay,7,petej002,ATL,vanol901,ATL02,,Y,M,PHI,A $when Chase d'Arnaud was called safe at 2B, Phillies manager Pete Mackanin challenged the ruling; the call was overturned by replay"2016ATL.EVN.regular.comment.csv",61
+
+"ATL201607310",10,"DWS: last two plays really one, but must be entered separately for now"2016ATL.EVN.regular.comment.csv",62
+
+"ATL201608020",45,"replay,6,polag001,PIT,barrt901,ATL02,,N,M,PIT,C $when Gregory Polanco was called out at 1B, Pirates manager Clint Hurdle challenged the ruling; the call was upheld by replay"2016ATL.EVN.regular.comment.csv",63
+
+"ATL201608020",71,"$originally scored as double, changed to error on 08-04-2016"2016ATL.EVN.regular.comment.csv",64
+
+"ATL201608170",32,"replay,3,kempm001,ATL,demud901,ATL02,,Y,M,ATL,A $when Matt Kemp was called out at 2B, Braves interim manager Brian Snitker challenged the ruling; the call was overturned by replay"2016ATL.EVN.regular.comment.csv",65
+
+"ATL201608180",48,"replay,6,freef001,ATL,hallt901,ATL02,,N,M,WAS,A $when Freddie Freeman was called safe at 2B, Nationals manager Dusty Baker challenged the ruling; the call was upheld by replay"2016ATL.EVN.regular.comment.csv",66
+
+"ATL201608180",65,"replay,8,espid001,WAS,hallt901,ATL02,,N,U,,I $when Danny Espinosa was ruled not to have been hit by a pitch, crew chief Tom Hallion requested a review; the call was upheld by replay"2016ATL.EVN.regular.comment.csv",67
+
+"ATL201608190",17,"replay,3,reveb001,WAS,hallt901,ATL02,,Y,M,ATL,U $when Trea Turner was called safe at 1B, Braves interim manager Brian Snitker challenged the ruling; the call was overturned by replay"2016ATL.EVN.regular.comment.csv",68
+
+"ATL201608190",80,"replay,9,swand001,ATL,hallt901,ATL02,,Y,M,ATL,C $when Dansby Swanson was called out at 1B, Braves interim manager Brian Snitker challenged the ruling; the call was overturned by replay"2016ATL.EVN.regular.comment.csv",69
+
+"ATL201608300",34,"Padres catcher Christian Bethancourt left the game due to an injured chest"2016ATL.EVN.regular.comment.csv",70
+
+"ATL201609100",63,"Mets third baseman Wilmer Flores left the game due to an injured neck"2016ATL.EVN.regular.comment.csv",71
+
+"ATL201609120",43,"Braves pitcher Mike Foltynewicz left the game due to an injured leg"2016ATL.EVN.regular.comment.csv",72
+
+"ATL201609120",44,"Marlins center fielder Marcell Ozuna left the game due to an injured knee"2016ATL.EVN.regular.comment.csv",73
+
+"ATL201609120",50,"Braves shortstop Dansby Swanson left the game due to an injured groin"2016ATL.EVN.regular.comment.csv",74
+
+"ATL201609120",76,"replay,7,beckg001,ATL,gormb901,ATL02,,Y,M,ATL,A $when Jace Pederson was called out at 3B, Braves interim manager Brian Snitker challenged the ruling; the call was overturned by replay"2016ATL.EVN.regular.comment.csv",75
+
+"ATL201609130",13,"replay,2,hecha001,MIA,gormb901,ATL02,,Y,M,ATL,C $when Adeiny Hechavarria was called safe at 1B, Braves interim manager Brian Snitker challenged the ruling; the call was overturned by replay"2016ATL.EVN.regular.comment.csv",76
+
+"ATL201609130",66,"ej,wallt001,C,dejer901,Balls and strikes Marlins Bench Coach Tim Wallach ejected by HP umpire Ramon De Jesus"2016ATL.EVN.regular.comment.csv",77
+
+"ATL201609140",53,"ej,ramij004,P,hudsm901,Throwing at batter $the first pitch to Jose Fernandez was behind his head; Fernandez yelled and started to go towards the mound but was held back by HP umpire Marvin Hudson; Braves pitcher Jose Ramirez ejected by Hudson; both benches cleared"2016ATL.EVN.regular.comment.csv",78
+
+"ATL201609170",73,"replay,8,garca004,ATL,westj901,ATL02,,Y,M,WAS,A $when Mallex Smith was called safe at 3B, Nationals manager Dusty Baker challenged the ruling; the call was overturned by replay"2016ATL.EVN.regular.comment.csv",79
+
+"ATL201609180",62,"replay,7,zimmr001,WAS,westj901,ATL02,,N,M,WAS,C $when Wilmer Difo was called out at 2B, Nationals manager Dusty Baker challenged the ruling; the call was upheld by replay"2016ATL.EVN.regular.comment.csv",80
+
+"ATL201609180",65,"$Game called for rain"2016ATL.EVN.regular.comment.csv",81
+
+"ATL201609270",52,"Phillies center fielder Roman Quinn left the game due to an injured side"2016ATL.EVN.regular.comment.csv",82
+
+"ATL201609280",13,"replay,2,smitm007,ATL,hallt901,ATL02,,Y,M,PHI,C $when Mallex Smith was called safe at 1B, Phillies manager Pete Mackanin challenged the ruling; the call was overturned by replay"2016ATL.EVN.regular.comment.csv",83
+
+"ATL201609290",28,"Phillies pitcher Jeremy Hellickson left the game due to an injured knee"2016ATL.EVN.regular.comment.csv",84
+

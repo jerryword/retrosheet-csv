@@ -1,51 +1,50 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"CLE195804230",45,"44 minute rain delay"
-"CLE195805181",65,"9 minute rain delay"
-"CLE195805182",0,"ej,hardm101,C,runge901,Continuing argument between games of DH Indians Coach Mel Harder ejected by 3B umpire Ed Runge before the game for continuing to argue a call in the first game"
-"CLE195805182",10,"39 minute rain delay"
-"CLE195805182",26,"$Bobby Avila rounded 3B too far"
-"CLE195805270",60,"$Don Ferrarese injured"
-"CLE195805270",77,"ej,richp101,M,umonf901,Balls and strikes $Orioles manager Richards ejected by HP umpire Umont for ball call to Porter that would have been strike 3"
-"CLE195806292",13,"$Arnie Portocarrero out on appeal for missing 1B on a apparent double"
-"CLE195806292",48,"ej,richp101,M,nappl901,Balk call Orioles Manager Paul Richards ejected by HP umpire Larry Napp"
-"CLE195807060",3,"Assist unreadable"
-"CLE195807250",31,"$Russ Nixon left with injured finger from foul ball"
-"CLE195807272",47,"ej,gordj101,M,mckib901,Called third strike $Indians manager Gordon ejected by HP umpire McKinley for called third strike"
-"CLE195807272",63,"$lights turned on"
-"CLE195807290",19,"Billy Harrell left with injured leg"
-"CLE195807300",0,"10 minute rain delay before start of game"
-"CLE195807300",45,"rain delay"
-"CLE195807300",63,"rain delay"
-"CLE195808101",65,"missing play in CLE195808101"
-"CLE195808132",50,"$Rocky Colavito's first major league appearance as a pitcher"
-"CLE195808132",51,"ej,whitj101,C,runge901,Balls and strikes $Indians coach White ejected from dugout by HP umpire Runge for arguing balls and strikes"
-"CLE195808132",53,"ej,nixor101,P,runge901,Balls and strikes ej,gordj101,M,runge901,Balls and strikes $Catcher Nixon and Indians manager ejected HP umpire Runge for arguing balls and strikes"
-"CLE195808140",87,"ej,gordj101,M,tabaf901,Call at HP $Indians manager Gordon ejected by HP umpire Tabacchi for arguing that runner was out and catcher held ball long enough"
-"CLE195808140",101,"$second steal of HP for Vic Power in game"
-"CLE195809050",36,"ej,fox-n101,P,flahr901,Bench jockeying Nellie Fox ejected by HP umpire Red Flaherty"
-"CLE195809090",49,"game called after 1 hour rain delay"
-"CLE195804230",45,"44 minute rain delay"
-"CLE195805181",65,"9 minute rain delay"
-"CLE195805182",0,"ej,hardm101,C,runge901,Continuing argument between games of DH Indians Coach Mel Harder ejected by 3B umpire Ed Runge before the game for continuing to argue a call in the first game"
-"CLE195805182",10,"39 minute rain delay"
-"CLE195805182",26,"$Bobby Avila rounded 3B too far"
-"CLE195805270",60,"$Don Ferrarese injured"
-"CLE195805270",77,"ej,richp101,M,umonf901,Balls and strikes $Orioles manager Richards ejected by HP umpire Umont for ball call to Porter that would have been strike 3"
-"CLE195806292",13,"$Arnie Portocarrero out on appeal for missing 1B on a apparent double"
-"CLE195806292",48,"ej,richp101,M,nappl901,Balk call Orioles Manager Paul Richards ejected by HP umpire Larry Napp"
-"CLE195807060",3,"Assist unreadable"
-"CLE195807250",31,"$Russ Nixon left with injured finger from foul ball"
-"CLE195807272",47,"ej,gordj101,M,mckib901,Called third strike $Indians manager Gordon ejected by HP umpire McKinley for called third strike"
-"CLE195807272",63,"$lights turned on"
-"CLE195807290",19,"Billy Harrell left with injured leg"
-"CLE195807300",0,"10 minute rain delay before start of game"
-"CLE195807300",45,"rain delay"
-"CLE195807300",63,"rain delay"
-"CLE195808101",65,"missing play in CLE195808101"
-"CLE195808132",50,"$Rocky Colavito's first major league appearance as a pitcher"
-"CLE195808132",51,"ej,whitj101,C,runge901,Balls and strikes $Indians coach White ejected from dugout by HP umpire Runge for arguing balls and strikes"
-"CLE195808132",53,"ej,nixor101,P,runge901,Balls and strikes ej,gordj101,M,runge901,Balls and strikes $Catcher Nixon and Indians manager ejected HP umpire Runge for arguing balls and strikes"
-"CLE195808140",87,"ej,gordj101,M,tabaf901,Call at HP $Indians manager Gordon ejected by HP umpire Tabacchi for arguing that runner was out and catcher held ball long enough"
-"CLE195808140",101,"$second steal of HP for Vic Power in game"
-"CLE195809050",36,"ej,fox-n101,P,flahr901,Bench jockeying Nellie Fox ejected by HP umpire Red Flaherty"
-"CLE195809090",49,"game called after 1 hour rain delay"
+"CLE195804230",45,"44 minute rain delay"FILENAME_TX","LINE_NUMBER_CT"
+
+"CLE195805181",65,"9 minute rain delay"1958CLE.EVA.regular.comment.csv",2
+
+"CLE195805182",0,"ej,hardm101,C,runge901,Continuing argument between games of DH Indians Coach Mel Harder ejected by 3B umpire Ed Runge before the game for continuing to argue a call in the first game"1958CLE.EVA.regular.comment.csv",3
+
+"CLE195805182",10,"39 minute rain delay"1958CLE.EVA.regular.comment.csv",4
+
+"CLE195805182",26,"$Bobby Avila rounded 3B too far"1958CLE.EVA.regular.comment.csv",5
+
+"CLE195805270",60,"$Don Ferrarese injured"1958CLE.EVA.regular.comment.csv",6
+
+"CLE195805270",77,"ej,richp101,M,umonf901,Balls and strikes $Orioles manager Richards ejected by HP umpire Umont for ball call to Porter that would have been strike 3"1958CLE.EVA.regular.comment.csv",7
+
+"CLE195806292",13,"$Arnie Portocarrero out on appeal for missing 1B on a apparent double"1958CLE.EVA.regular.comment.csv",8
+
+"CLE195806292",48,"ej,richp101,M,nappl901,Balk call Orioles Manager Paul Richards ejected by HP umpire Larry Napp"1958CLE.EVA.regular.comment.csv",9
+
+"CLE195807060",3,"Assist unreadable"1958CLE.EVA.regular.comment.csv",10
+
+"CLE195807250",31,"$Russ Nixon left with injured finger from foul ball"1958CLE.EVA.regular.comment.csv",11
+
+"CLE195807272",47,"ej,gordj101,M,mckib901,Called third strike $Indians manager Gordon ejected by HP umpire McKinley for called third strike"1958CLE.EVA.regular.comment.csv",12
+
+"CLE195807272",63,"$lights turned on"1958CLE.EVA.regular.comment.csv",13
+
+"CLE195807290",19,"Billy Harrell left with injured leg"1958CLE.EVA.regular.comment.csv",14
+
+"CLE195807300",0,"10 minute rain delay before start of game"1958CLE.EVA.regular.comment.csv",15
+
+"CLE195807300",45,"rain delay"1958CLE.EVA.regular.comment.csv",16
+
+"CLE195807300",63,"rain delay"1958CLE.EVA.regular.comment.csv",17
+
+"CLE195808101",65,"missing play in CLE195808101"1958CLE.EVA.regular.comment.csv",18
+
+"CLE195808132",50,"$Rocky Colavito's first major league appearance as a pitcher"1958CLE.EVA.regular.comment.csv",19
+
+"CLE195808132",51,"ej,whitj101,C,runge901,Balls and strikes $Indians coach White ejected from dugout by HP umpire Runge for arguing balls and strikes"1958CLE.EVA.regular.comment.csv",20
+
+"CLE195808132",53,"ej,nixor101,P,runge901,Balls and strikes ej,gordj101,M,runge901,Balls and strikes $Catcher Nixon and Indians manager ejected HP umpire Runge for arguing balls and strikes"1958CLE.EVA.regular.comment.csv",21
+
+"CLE195808140",87,"ej,gordj101,M,tabaf901,Call at HP $Indians manager Gordon ejected by HP umpire Tabacchi for arguing that runner was out and catcher held ball long enough"1958CLE.EVA.regular.comment.csv",22
+
+"CLE195808140",101,"$second steal of HP for Vic Power in game"1958CLE.EVA.regular.comment.csv",23
+
+"CLE195809050",36,"ej,fox-n101,P,flahr901,Bench jockeying Nellie Fox ejected by HP umpire Red Flaherty"1958CLE.EVA.regular.comment.csv",24
+
+"CLE195809090",49,"game called after 1 hour rain delay"1958CLE.EVA.regular.comment.csv",25
+

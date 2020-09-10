@@ -1,111 +1,110 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"NYA201504100",0,"$the longest game by time in Red Sox history and the longest home game by time in Yankees history; HP umpire Marty Foster watched 628 pitches"
-"NYA201504100",68,"replay,8,rodra001,NYA,wintm901,NYC21,,N,M,NYA,A $when Brett Gardner was called out at 2B, Yankees manager Joe Girardi challenged the ruling; the call was upheld by replay"
-"NYA201504100",98,"$16 minute delay due to partial light failure"
-"NYA201504100",144,"replay,17,joneg002,NYA,wintm901,NYC21,,N,U,,A $when Brett Gardner was called out at 1B, crew chief Mike Winters requested a review; the call was upheld by replay"
-"NYA201504110",61,"replay,8,navad002,BOS,wintm901,NYC21,,Y,M,BOS,C $when Daniel Nava was called out at 1B, Red Sox manager John Farrell challenged the ruling; the call was overturned by replay"
-"NYA201504240",43,"ej,neisj001,P,eddid901,Balls and strikes Mets pitcher Jon Niese ejected by HP umpire Doug Eddings"
-"NYA201504250",76,"replay,9,younc004,NYA,eddid901,NYC21,,N,M,NYA,C $when Brian McCann was called out at 2B, Yankees manager Joe Girardi challenged the ruling; the call was upheld by replay, ending the game"
-"NYA201504260",41,"replay,5,gardb001,NYA,eddid901,NYC21,,Y,M,NYA,C $when Brett Gardner was called out at 1B, Yankees manager Joe Girardi challenged the ruling; the call was overturned by replay"
-"NYA201505070",25,"$Alex Rodriguez' 661st home run to pass Willie Mays for fourth place on the career list"
-"NYA201505090",77,"replay,9,gardb001,NYA,gormb901,NYC21,,N,M,NYA,C $when Brett Gardner was called out at 1B, Yankees manager Joe Girardi challenged the ruling; the call was upheld by replay"
-"NYA201505220",11,"replay,2,martl004,TEX,vanol901,NYC21,,N,M,TEX,A $when Elvis Andrus was called out at 2B, Rangers manager Jeff Banister challenged the ruling; the call was upheld by replay"
-"NYA201505240",1,"replay,1,deshd002,TEX,vanol901,NYC21,,Y,M,NYA,C $when Delino DeShields was called safe at 1B, Yankees manager Joe Girardi challenged the ruling; the call was overturned by replay"
-"NYA201505250",50,"replay,5,hosme001,TEX,wintm901,NYC21,,Y,M,NYA,A $when Jarrod Dyson was called safe at 2B, Yankees manager Joe Girardi challenged the ruling; the call was overturned by replay"
-"NYA201506060",12,"replay,1,drews001,NYA,hallt901,NYC21,,Y,M,NYA,A $when Didi Gregorius was called out at 2B, Yankees manager Joe Girardi challenged the ruling; the call was overturned by replay"
-"NYA201506070",43,"$the Yankees objected to the third pitch to Kole Calhoun being called a ball"
-"NYA201506070",44,"ej,sabac001,P,belld901,Balls and strikes ej,giraj901,M,belld901,Balls and strikes Yankees pitcher CC Sabathia and Manager Joe Girardi ejected by HP umpire Dan Bellino"
-"NYA201506100",86,"replay,10,beltc001,NYA,cedeg901,NYC21,,N,M,NYA,A $when Didi Gregorius was called out at 2B, Yankees manager Joe Girardi challenged the ruling; the call call was upheld by replay"
-"NYA201506170",62,"replay,8,gordd002,MIA,scotd901,NYC21,,Y,M,NYA,A $when Adeiny Hechavarria was called safe at 1B, Yankees manager Joe Girardi challenged the ruling; the call was overturned by replay"
-"NYA201506190",8,"$Alex Rodriguez' 3000th major league hit"
-"NYA201506190",43,"Yankees center fielder Mason Williams left the game due to an injured shoulder"
-"NYA201506240",24,"ej,giraj001,M,porta901,Checked swing Yankees Manager Joe Girardi ejected by 1B umpire Alan Porter"
-"NYA201507030",70,"replay,9,cabra002,TBA,iassd901,NYC21,,N,M,TBA,A $when Asdrubal Cabrera was called out at 2B, Rays manager Kevin Cash challenged the ruling; the call was upheld by replay"
-"NYA201507030",83,"replay,11,longe001,TBA,iassd901,NYC21,,Y,M,NYA,A $when Evan Longoria was called safe at 2B, Yankees manager Joe Girardi challenged the ruling; the call was overturned by replay"
-"NYA201507080",29,"Athletics pitcher Scott Kazmir left the game due to an injured arm"
-"NYA201507180",4,"replay,1,cruzn002,SEA,cedeg901,NYC21,,Y,M,SEA,C $when Nelson Cruz was called out at 1B, Mariners manager Lloyd McClendon challenged the ruling; the call was overturned by replay"
-"NYA201507210",3,"replay,1,jonea003,BAL,welkt901,NYC21,,Y,M,NYA,A $when Manny Machado was called safe at 1B, Yankees manager Joe Girardi challenged the ruling; the call was overturned by replay"
-"NYA201507230",33,"$Originally scored E7, changed to double after game"
-"NYA201508050",67,"replay,9,teixm001,NYA,danlk901,NYC21,,Y,M,NYA,T $when Mark Teixeira's fly to RF was ruled a catch, Yankees manager Joe Girardi challenged the ruling; the call was overturned by replay"
-"NYA201508060",8,"replay,1,younc004,NYA,danlk901,NYC21,,Y,M,BOS,C $when Chris Young was called safe at 1B, Red Sox manager John Farrell challenged the ruling; the call was overturned by replay"
-"NYA201508070",13,"replay,2,teixm001,NYA,wintm901,NYC21,I,Y,U,,H $Mark Teixeira's fly to LF was touched by a fan over the wall and caromed back onto the field; the ball was ruled in play; crew chief Mike Winters requested a review, which overturned the call to a home run"
-"NYA201508080",19,"ej,gibbj001,M,gibsg901,Balls and strikes Blue Jays Manager John Gibbons ejected by HP umpire Greg Gibson"
-"NYA201508170",16,"$Bryan Mitchell struck on the face by a line drive, suffering a 'small nasal fracture'"
-"NYA201508170",33,"replay,3,teixm001,NYA,barrt901,NYC21,,Y,M,MIN,D $when Eddie Rosario was ruled to have not caught Mark Teixeira's fly ball, Twins manager Paul Molitor challenged the ruling; the call was overturned by replay; Alex Rodriguez was forced out at 2B but was returned to 1B by the umpires when the call was overturned"
-"NYA201508170",55,"replay,6,dozib001,MIN,barrt901,NYC21,F,N,U,,H $Brian Dozier's fly down the LF line was ruled a foul ball; crew chief Ted Barrett requested a review, which upheld the call by replay"
-"NYA201508170",60,"Yankees first baseman Mark Teixeira left the game due to an injured leg"
-"NYA201508170",69,"replay,7,hicka001,MIN,barrt901,NYC21,,Y,M,NYA,A $when Eduardo Nunez was called safe at 2B, Yankees manager Joe Girardi challenged the ruling; the call was overturned by replay"
-"NYA201508180",58,"$Alex Rodriguez' 25th grand slam, extending his own record"
-"NYA201508190",43,"Twins center fielder Aaron Hicks left the game due to an injured leg"
-"NYA201508200",69,"ej,giraj001,M,iassd901,Balls and strikes (Drew line in dirt) Yankees Manager Joe Girardi ejected by HP umpire Dan Iassogna"
-"NYA201508220",25,"ej,frant001,M,iassd901,Call at 2B $Didi Gregorius was off the 2B bag when he caught the throw; Indians manager Terry Francona asked about the out call; the umpires huddled and decided it was the neighborhood play and not reviewable; Francona ejected by 2B umpire Dan Iassogna"
-"NYA201508230",25,"Yankees pitcher CC Sabathia left the game due to an injured knee"
-"NYA201508240",34,"replay,5,congh001,HOU,coope901,NYC21,,Y,M,NYA,C $when Hank Conger was called safe at 1B, Yankees manager Joe Girardi challenged the ruling; the call was overturned by replay"
-"NYA201508260",41,"ej,rasmc001,P,holbs901,Called third strike Astros left fielder Colby Rasmus ejected by HP umpire Sam Holbrook"
-"NYA201509050",50,"Rays third baseman Evan Longoria left the game due to an injured arm"
-"NYA201509050",65,"replay,8,kierk001,TBA,westj901,NYC21,,Y,M,TBA,C $when Kevin Kiermaier was called out at 1B, Rays manager Kevin Cash challenged the ruling; the call was overturned by replay"
-"NYA201509080",44,"replay,6,davic003,BAL,mealj901,NYC21,,Y,M,NYA,C $when Chris Davis was called safe at 1B, Yankees manager Joe Girardi challenged the ruling; the call was overturned by replay"
-"NYA201509080",68,"replay,9,hardj003,BAL,mealj901,NYC21,,N,M,BAL,A $when Jimmy Paredes was called out at 3B, Orioles manager Buck Showalter challenged the ruling; the call was upheld by replay"
-"NYA201509121",14,"$Troy Tulowitzki and Kevin Pillar collided on the popup; Tulowitzki left the game due to a small crack in his left shoulder blade"
-"NYA201509130",10,"replay,2,goinr001,TOR,scotd901,NYC21,,Y,M,NYA,A $when Kevin Pillar was called safe at 2B on a pickoff attempt, Yankees manager Joe Girardi challenged the ruling; the call was overturned by replay"
-"NYA201509240",25,"$Jacoby Ellsbury got in the way of Alexei Ramirez who was trying to field the ball in front of 2B; Ellsbury called for interference on the play"
-"NYA201509280",4,"replay,1,shawt001,BOS,welkt901,NYC21,,Y,M,NYA,A $when Xander Bogaerts was called safe at 2B, Yankees manager Joe Girardi challenged the ruling; the call was overturned by replay"
-"NYA201509290",5,"replay,1,shawt001,BOS,welkt901,NYC21,,N,M,NYA,A $when Xander Bogaerts was called safe at HP, Yankees manager Joe Girardi challenged the ruling; the call was upheld by replay"
-"NYA201509300",6,"$the ball bounced into the RF seats"
-"NYA201509300",96,"$originally scored a single, changed to error on 10-29-2015, the runs charged to Bailey unearned and the run charged to Shreve is now a team unearned run"
-"NYA201510010",5,"replay,1,gardb001,NYA,welkt901,NYC21,,Y,M,BOS,C $when Brett Gardner was called safe at 1B, Red Sox acting manager Torey Lovullo challenged the ruling; the call was overturned by replay"
-"NYA201504100",0,"$the longest game by time in Red Sox history and the longest home game by time in Yankees history; HP umpire Marty Foster watched 628 pitches"
-"NYA201504100",68,"replay,8,rodra001,NYA,wintm901,NYC21,,N,M,NYA,A $when Brett Gardner was called out at 2B, Yankees manager Joe Girardi challenged the ruling; the call was upheld by replay"
-"NYA201504100",98,"$16 minute delay due to partial light failure"
-"NYA201504100",144,"replay,17,joneg002,NYA,wintm901,NYC21,,N,U,,A $when Brett Gardner was called out at 1B, crew chief Mike Winters requested a review; the call was upheld by replay"
-"NYA201504110",61,"replay,8,navad002,BOS,wintm901,NYC21,,Y,M,BOS,C $when Daniel Nava was called out at 1B, Red Sox manager John Farrell challenged the ruling; the call was overturned by replay"
-"NYA201504240",43,"ej,niesj001,P,eddid901,Balls and strikes $Mets pitcher Jon Niese ejected by HP umpire Doug Eddings"
-"NYA201504250",76,"replay,9,younc004,NYA,eddid901,NYC21,,N,M,NYA,C $when Brian McCann was called out at 2B, Yankees manager Joe Girardi challenged the ruling; the call was upheld by replay, ending the game"
-"NYA201504260",41,"replay,5,gardb001,NYA,eddid901,NYC21,,Y,M,NYA,C $when Brett Gardner was called out at 1B, Yankees manager Joe Girardi challenged the ruling; the call was overturned by replay"
-"NYA201505070",25,"$Alex Rodriguez' 661st home run to pass Willie Mays for fourth place on the career list"
-"NYA201505090",77,"replay,9,gardb001,NYA,gormb901,NYC21,,N,M,NYA,C $when Brett Gardner was called out at 1B, Yankees manager Joe Girardi challenged the ruling; the call was upheld by replay"
-"NYA201505220",11,"replay,2,martl004,TEX,vanol901,NYC21,,N,M,TEX,A $when Elvis Andrus was called out at 2B, Rangers manager Jeff Banister challenged the ruling; the call was upheld by replay"
-"NYA201505240",1,"replay,1,deshd002,TEX,vanol901,NYC21,,Y,M,NYA,C $when Delino DeShields was called safe at 1B, Yankees manager Joe Girardi challenged the ruling; the call was overturned by replay"
-"NYA201505250",50,"replay,5,hosme001,TEX,wintm901,NYC21,,Y,M,NYA,A $when Jarrod Dyson was called safe at 2B, Yankees manager Joe Girardi challenged the ruling; the call was overturned by replay"
-"NYA201506060",12,"replay,1,drews001,NYA,hallt901,NYC21,,Y,M,NYA,A $when Didi Gregorius was called out at 2B, Yankees manager Joe Girardi challenged the ruling; the call was overturned by replay"
-"NYA201506070",43,"$the Yankees objected to the third pitch to Kole Calhoun being called a ball"
-"NYA201506070",44,"ej,sabac001,P,belld901,Balls and strikes ej,giraj001,M,belld901,Balls and strikes Yankees pitcher CC Sabathia and Manager Joe Girardi ejected by HP umpire Dan Bellino"
-"NYA201506100",86,"replay,10,beltc001,NYA,cedeg901,NYC21,,N,M,NYA,A $when Didi Gregorius was called out at 2B, Yankees manager Joe Girardi challenged the ruling; the call call was upheld by replay"
-"NYA201506170",62,"replay,8,gordd002,MIA,scotd901,NYC21,,Y,M,NYA,A $when Adeiny Hechavarria was called safe at 1B, Yankees manager Joe Girardi challenged the ruling; the call was overturned by replay"
-"NYA201506190",8,"$Alex Rodriguez' 3000th major league hit"
-"NYA201506190",43,"Yankees center fielder Mason Williams left the game due to an injured shoulder"
-"NYA201506240",24,"ej,giraj001,M,porta901,Checked swing Yankees Manager Joe Girardi ejected by 1B umpire Alan Porter"
-"NYA201507030",70,"replay,9,cabra002,TBA,iassd901,NYC21,,N,M,TBA,A $when Asdrubal Cabrera was called out at 2B, Rays manager Kevin Cash challenged the ruling; the call was upheld by replay"
-"NYA201507030",83,"replay,11,longe001,TBA,iassd901,NYC21,,Y,M,NYA,A $when Evan Longoria was called safe at 2B, Yankees manager Joe Girardi challenged the ruling; the call was overturned by replay"
-"NYA201507080",29,"Athletics pitcher Scott Kazmir left the game due to an injured arm"
-"NYA201507180",4,"replay,1,cruzn002,SEA,cedeg901,NYC21,,Y,M,SEA,C $when Nelson Cruz was called out at 1B, Mariners manager Lloyd McClendon challenged the ruling; the call was overturned by replay"
-"NYA201507210",3,"replay,1,jonea003,BAL,welkt901,NYC21,,Y,M,NYA,A $when Manny Machado was called safe at 1B, Yankees manager Joe Girardi challenged the ruling; the call was overturned by replay"
-"NYA201507230",33,"$Originally scored E7, changed to double after game"
-"NYA201508050",67,"replay,9,teixm001,NYA,danlk901,NYC21,,Y,M,NYA,T $when Mark Teixeira's fly to RF was ruled a catch, Yankees manager Joe Girardi challenged the ruling; the call was overturned by replay"
-"NYA201508060",8,"replay,1,younc004,NYA,danlk901,NYC21,,Y,M,BOS,C $when Chris Young was called safe at 1B, Red Sox manager John Farrell challenged the ruling; the call was overturned by replay"
-"NYA201508070",13,"replay,2,teixm001,NYA,wintm901,NYC21,I,Y,U,,H $Mark Teixeira's fly to LF was touched by a fan over the wall and caromed back onto the field; the ball was ruled in play; crew chief Mike Winters requested a review, which overturned the call to a home run"
-"NYA201508080",19,"ej,gibbj001,M,gibsg901,Balls and strikes Blue Jays Manager John Gibbons ejected by HP umpire Greg Gibson"
-"NYA201508170",16,"$Bryan Mitchell struck on the face by a line drive, suffering a 'small nasal fracture'"
-"NYA201508170",33,"replay,3,teixm001,NYA,barrt901,NYC21,,Y,M,MIN,D $when Eddie Rosario was ruled to have not caught Mark Teixeira's fly ball, Twins manager Paul Molitor challenged the ruling; the call was overturned by replay; Alex Rodriguez was forced out at 2B but was returned to 1B by the umpires when the call was overturned"
-"NYA201508170",55,"replay,6,dozib001,MIN,barrt901,NYC21,F,N,U,,H $Brian Dozier's fly down the LF line was ruled a foul ball; crew chief Ted Barrett requested a review, which upheld the call by replay"
-"NYA201508170",60,"Yankees first baseman Mark Teixeira left the game due to an injured leg"
-"NYA201508170",69,"replay,7,hicka001,MIN,barrt901,NYC21,,Y,M,NYA,A $when Eduardo Nunez was called safe at 2B, Yankees manager Joe Girardi challenged the ruling; the call was overturned by replay"
-"NYA201508180",58,"$Alex Rodriguez' 25th grand slam, extending his own record"
-"NYA201508190",43,"Twins center fielder Aaron Hicks left the game due to an injured leg"
-"NYA201508200",69,"ej,giraj001,M,iassd901,Balls and strikes (Drew line in dirt) Yankees Manager Joe Girardi ejected by HP umpire Dan Iassogna"
-"NYA201508220",25,"ej,frant001,M,iassd901,Call at 2B $Didi Gregorius was off the 2B bag when he caught the throw; Indians manager Terry Francona asked about the out call; the umpires huddled and decided it was the neighborhood play and not reviewable; Francona ejected by 2B umpire Dan Iassogna"
-"NYA201508230",25,"Yankees pitcher CC Sabathia left the game due to an injured knee"
-"NYA201508240",34,"replay,5,congh001,HOU,coope901,NYC21,,Y,M,NYA,C $when Hank Conger was called safe at 1B, Yankees manager Joe Girardi challenged the ruling; the call was overturned by replay"
-"NYA201508260",41,"ej,rasmc001,P,holbs901,Called third strike $Rasmus ejected by HP umpire Holbrook for arguing called third strike"
-"NYA201509050",50,"Rays third baseman Evan Longoria left the game due to an injured arm"
-"NYA201509050",65,"replay,8,kierk001,TBA,westj901,NYC21,,Y,M,TBA,C $when Kevin Kiermaier was called out at 1B, Rays manager Kevin Cash challenged the ruling; the call was overturned by replay"
-"NYA201509080",44,"replay,6,davic003,BAL,mealj901,NYC21,,Y,M,NYA,C $when Chris Davis was called safe at 1B, Yankees manager Joe Girardi challenged the ruling; the call was overturned by replay"
-"NYA201509080",68,"replay,9,hardj003,BAL,mealj901,NYC21,,N,M,BAL,A $when Jimmy Paredes was called out at 3B, Orioles manager Buck Showalter challenged the ruling; the call was upheld by replay"
-"NYA201509121",14,"$Troy Tulowitzki and Kevin Pillar collided on the popup; Tulowitzki left the game due to a small crack in his left shoulder blade"
-"NYA201509130",10,"replay,2,goinr001,TOR,scotd901,NYC21,,Y,M,NYA,A $when Kevin Pillar was called safe at 2B on a pickoff attempt, Yankees manager Joe Girardi challenged the ruling; the call was overturned by replay"
-"NYA201509240",25,"$Jacoby Ellsbury got in the way of Alexei Ramirez who was trying to field the ball in front of 2B; Ellsbury called for interference on the play"
-"NYA201509280",4,"replay,1,shawt001,BOS,welkt901,NYC21,,Y,M,NYA,A $when Xander Bogaerts was called safe at 2B, Yankees manager Joe Girardi challenged the ruling; the call was overturned by replay"
-"NYA201509290",5,"replay,1,shawt001,BOS,welkt901,NYC21,,N,M,NYA,A $when Xander Bogaerts was called safe at HP, Yankees manager Joe Girardi challenged the ruling; the call was upheld by replay"
-"NYA201509300",6,"$the ball bounced into the RF seats"
-"NYA201509300",96,"$originally scored a single, changed to error on 10-29-2015, the runs charged to Bailey unearned and the run charged to Shreve is now a team unearned run"
-"NYA201510010",5,"replay,1,gardb001,NYA,welkt901,NYC21,,Y,M,BOS,C $when Brett Gardner was called safe at 1B, Red Sox acting manager Torey Lovullo challenged the ruling; the call was overturned by replay"
+"NYA201504100",0,"$the longest game by time in Red Sox history and the longest home game by time in Yankees history; HP umpire Marty Foster watched 628 pitches"FILENAME_TX","LINE_NUMBER_CT"
+
+"NYA201504100",68,"replay,8,rodra001,NYA,wintm901,NYC21,,N,M,NYA,A $when Brett Gardner was called out at 2B, Yankees manager Joe Girardi challenged the ruling; the call was upheld by replay"2015NYA.EVA.regular.comment.csv",2
+
+"NYA201504100",98,"$16 minute delay due to partial light failure"2015NYA.EVA.regular.comment.csv",3
+
+"NYA201504100",144,"replay,17,joneg002,NYA,wintm901,NYC21,,N,U,,A $when Brett Gardner was called out at 1B, crew chief Mike Winters requested a review; the call was upheld by replay"2015NYA.EVA.regular.comment.csv",4
+
+"NYA201504110",61,"replay,8,navad002,BOS,wintm901,NYC21,,Y,M,BOS,C $when Daniel Nava was called out at 1B, Red Sox manager John Farrell challenged the ruling; the call was overturned by replay"2015NYA.EVA.regular.comment.csv",5
+
+"NYA201504240",43,"ej,niesj001,P,eddid901,Balls and strikes $Mets pitcher Jon Niese ejected by HP umpire Doug Eddings"2015NYA.EVA.regular.comment.csv",6
+
+"NYA201504250",76,"replay,9,younc004,NYA,eddid901,NYC21,,N,M,NYA,C $when Brian McCann was called out at 2B, Yankees manager Joe Girardi challenged the ruling; the call was upheld by replay, ending the game"2015NYA.EVA.regular.comment.csv",7
+
+"NYA201504260",41,"replay,5,gardb001,NYA,eddid901,NYC21,,Y,M,NYA,C $when Brett Gardner was called out at 1B, Yankees manager Joe Girardi challenged the ruling; the call was overturned by replay"2015NYA.EVA.regular.comment.csv",8
+
+"NYA201505070",25,"$Alex Rodriguez' 661st home run to pass Willie Mays for fourth place on the career list"2015NYA.EVA.regular.comment.csv",9
+
+"NYA201505090",77,"replay,9,gardb001,NYA,gormb901,NYC21,,N,M,NYA,C $when Brett Gardner was called out at 1B, Yankees manager Joe Girardi challenged the ruling; the call was upheld by replay"2015NYA.EVA.regular.comment.csv",10
+
+"NYA201505220",11,"replay,2,martl004,TEX,vanol901,NYC21,,N,M,TEX,A $when Elvis Andrus was called out at 2B, Rangers manager Jeff Banister challenged the ruling; the call was upheld by replay"2015NYA.EVA.regular.comment.csv",11
+
+"NYA201505240",1,"replay,1,deshd002,TEX,vanol901,NYC21,,Y,M,NYA,C $when Delino DeShields was called safe at 1B, Yankees manager Joe Girardi challenged the ruling; the call was overturned by replay"2015NYA.EVA.regular.comment.csv",12
+
+"NYA201505250",50,"replay,5,hosme001,TEX,wintm901,NYC21,,Y,M,NYA,A $when Jarrod Dyson was called safe at 2B, Yankees manager Joe Girardi challenged the ruling; the call was overturned by replay"2015NYA.EVA.regular.comment.csv",13
+
+"NYA201506060",12,"replay,1,drews001,NYA,hallt901,NYC21,,Y,M,NYA,A $when Didi Gregorius was called out at 2B, Yankees manager Joe Girardi challenged the ruling; the call was overturned by replay"2015NYA.EVA.regular.comment.csv",14
+
+"NYA201506070",43,"$the Yankees objected to the third pitch to Kole Calhoun being called a ball"2015NYA.EVA.regular.comment.csv",15
+
+"NYA201506070",44,"ej,sabac001,P,belld901,Balls and strikes ej,giraj001,M,belld901,Balls and strikes Yankees pitcher CC Sabathia and Manager Joe Girardi ejected by HP umpire Dan Bellino"2015NYA.EVA.regular.comment.csv",16
+
+"NYA201506100",86,"replay,10,beltc001,NYA,cedeg901,NYC21,,N,M,NYA,A $when Didi Gregorius was called out at 2B, Yankees manager Joe Girardi challenged the ruling; the call call was upheld by replay"2015NYA.EVA.regular.comment.csv",17
+
+"NYA201506170",62,"replay,8,gordd002,MIA,scotd901,NYC21,,Y,M,NYA,A $when Adeiny Hechavarria was called safe at 1B, Yankees manager Joe Girardi challenged the ruling; the call was overturned by replay"2015NYA.EVA.regular.comment.csv",18
+
+"NYA201506190",8,"$Alex Rodriguez' 3000th major league hit"2015NYA.EVA.regular.comment.csv",19
+
+"NYA201506190",43,"Yankees center fielder Mason Williams left the game due to an injured shoulder"2015NYA.EVA.regular.comment.csv",20
+
+"NYA201506240",24,"ej,giraj001,M,porta901,Checked swing Yankees Manager Joe Girardi ejected by 1B umpire Alan Porter"2015NYA.EVA.regular.comment.csv",21
+
+"NYA201507030",70,"replay,9,cabra002,TBA,iassd901,NYC21,,N,M,TBA,A $when Asdrubal Cabrera was called out at 2B, Rays manager Kevin Cash challenged the ruling; the call was upheld by replay"2015NYA.EVA.regular.comment.csv",22
+
+"NYA201507030",83,"replay,11,longe001,TBA,iassd901,NYC21,,Y,M,NYA,A $when Evan Longoria was called safe at 2B, Yankees manager Joe Girardi challenged the ruling; the call was overturned by replay"2015NYA.EVA.regular.comment.csv",23
+
+"NYA201507080",29,"Athletics pitcher Scott Kazmir left the game due to an injured arm"2015NYA.EVA.regular.comment.csv",24
+
+"NYA201507180",4,"replay,1,cruzn002,SEA,cedeg901,NYC21,,Y,M,SEA,C $when Nelson Cruz was called out at 1B, Mariners manager Lloyd McClendon challenged the ruling; the call was overturned by replay"2015NYA.EVA.regular.comment.csv",25
+
+"NYA201507210",3,"replay,1,jonea003,BAL,welkt901,NYC21,,Y,M,NYA,A $when Manny Machado was called safe at 1B, Yankees manager Joe Girardi challenged the ruling; the call was overturned by replay"2015NYA.EVA.regular.comment.csv",26
+
+"NYA201507230",33,"$Originally scored E7, changed to double after game"2015NYA.EVA.regular.comment.csv",27
+
+"NYA201508050",67,"replay,9,teixm001,NYA,danlk901,NYC21,,Y,M,NYA,T $when Mark Teixeira's fly to RF was ruled a catch, Yankees manager Joe Girardi challenged the ruling; the call was overturned by replay"2015NYA.EVA.regular.comment.csv",28
+
+"NYA201508060",8,"replay,1,younc004,NYA,danlk901,NYC21,,Y,M,BOS,C $when Chris Young was called safe at 1B, Red Sox manager John Farrell challenged the ruling; the call was overturned by replay"2015NYA.EVA.regular.comment.csv",29
+
+"NYA201508070",13,"replay,2,teixm001,NYA,wintm901,NYC21,I,Y,U,,H $Mark Teixeira's fly to LF was touched by a fan over the wall and caromed back onto the field; the ball was ruled in play; crew chief Mike Winters requested a review, which overturned the call to a home run"2015NYA.EVA.regular.comment.csv",30
+
+"NYA201508080",19,"ej,gibbj001,M,gibsg901,Balls and strikes Blue Jays Manager John Gibbons ejected by HP umpire Greg Gibson"2015NYA.EVA.regular.comment.csv",31
+
+"NYA201508170",16,"$Bryan Mitchell struck on the face by a line drive, suffering a 'small nasal fracture'"2015NYA.EVA.regular.comment.csv",32
+
+"NYA201508170",33,"replay,3,teixm001,NYA,barrt901,NYC21,,Y,M,MIN,D $when Eddie Rosario was ruled to have not caught Mark Teixeira's fly ball, Twins manager Paul Molitor challenged the ruling; the call was overturned by replay; Alex Rodriguez was forced out at 2B but was returned to 1B by the umpires when the call was overturned"2015NYA.EVA.regular.comment.csv",33
+
+"NYA201508170",55,"replay,6,dozib001,MIN,barrt901,NYC21,F,N,U,,H $Brian Dozier's fly down the LF line was ruled a foul ball; crew chief Ted Barrett requested a review, which upheld the call by replay"2015NYA.EVA.regular.comment.csv",34
+
+"NYA201508170",60,"Yankees first baseman Mark Teixeira left the game due to an injured leg"2015NYA.EVA.regular.comment.csv",35
+
+"NYA201508170",69,"replay,7,hicka001,MIN,barrt901,NYC21,,Y,M,NYA,A $when Eduardo Nunez was called safe at 2B, Yankees manager Joe Girardi challenged the ruling; the call was overturned by replay"2015NYA.EVA.regular.comment.csv",36
+
+"NYA201508180",58,"$Alex Rodriguez' 25th grand slam, extending his own record"2015NYA.EVA.regular.comment.csv",37
+
+"NYA201508190",43,"Twins center fielder Aaron Hicks left the game due to an injured leg"2015NYA.EVA.regular.comment.csv",38
+
+"NYA201508200",69,"ej,giraj001,M,iassd901,Balls and strikes (Drew line in dirt) Yankees Manager Joe Girardi ejected by HP umpire Dan Iassogna"2015NYA.EVA.regular.comment.csv",39
+
+"NYA201508220",25,"ej,frant001,M,iassd901,Call at 2B $Didi Gregorius was off the 2B bag when he caught the throw; Indians manager Terry Francona asked about the out call; the umpires huddled and decided it was the neighborhood play and not reviewable; Francona ejected by 2B umpire Dan Iassogna"2015NYA.EVA.regular.comment.csv",40
+
+"NYA201508230",25,"Yankees pitcher CC Sabathia left the game due to an injured knee"2015NYA.EVA.regular.comment.csv",41
+
+"NYA201508240",34,"replay,5,congh001,HOU,coope901,NYC21,,Y,M,NYA,C $when Hank Conger was called safe at 1B, Yankees manager Joe Girardi challenged the ruling; the call was overturned by replay"2015NYA.EVA.regular.comment.csv",42
+
+"NYA201508260",41,"ej,rasmc001,P,holbs901,Called third strike $Rasmus ejected by HP umpire Holbrook for arguing called third strike"2015NYA.EVA.regular.comment.csv",43
+
+"NYA201509050",50,"Rays third baseman Evan Longoria left the game due to an injured arm"2015NYA.EVA.regular.comment.csv",44
+
+"NYA201509050",65,"replay,8,kierk001,TBA,westj901,NYC21,,Y,M,TBA,C $when Kevin Kiermaier was called out at 1B, Rays manager Kevin Cash challenged the ruling; the call was overturned by replay"2015NYA.EVA.regular.comment.csv",45
+
+"NYA201509080",44,"replay,6,davic003,BAL,mealj901,NYC21,,Y,M,NYA,C $when Chris Davis was called safe at 1B, Yankees manager Joe Girardi challenged the ruling; the call was overturned by replay"2015NYA.EVA.regular.comment.csv",46
+
+"NYA201509080",68,"replay,9,hardj003,BAL,mealj901,NYC21,,N,M,BAL,A $when Jimmy Paredes was called out at 3B, Orioles manager Buck Showalter challenged the ruling; the call was upheld by replay"2015NYA.EVA.regular.comment.csv",47
+
+"NYA201509121",14,"$Troy Tulowitzki and Kevin Pillar collided on the popup; Tulowitzki left the game due to a small crack in his left shoulder blade"2015NYA.EVA.regular.comment.csv",48
+
+"NYA201509130",10,"replay,2,goinr001,TOR,scotd901,NYC21,,Y,M,NYA,A $when Kevin Pillar was called safe at 2B on a pickoff attempt, Yankees manager Joe Girardi challenged the ruling; the call was overturned by replay"2015NYA.EVA.regular.comment.csv",49
+
+"NYA201509240",25,"$Jacoby Ellsbury got in the way of Alexei Ramirez who was trying to field the ball in front of 2B; Ellsbury called for interference on the play"2015NYA.EVA.regular.comment.csv",50
+
+"NYA201509280",4,"replay,1,shawt001,BOS,welkt901,NYC21,,Y,M,NYA,A $when Xander Bogaerts was called safe at 2B, Yankees manager Joe Girardi challenged the ruling; the call was overturned by replay"2015NYA.EVA.regular.comment.csv",51
+
+"NYA201509290",5,"replay,1,shawt001,BOS,welkt901,NYC21,,N,M,NYA,A $when Xander Bogaerts was called safe at HP, Yankees manager Joe Girardi challenged the ruling; the call was upheld by replay"2015NYA.EVA.regular.comment.csv",52
+
+"NYA201509300",6,"$the ball bounced into the RF seats"2015NYA.EVA.regular.comment.csv",53
+
+"NYA201509300",96,"$originally scored a single, changed to error on 10-29-2015, the runs charged to Bailey unearned and the run charged to Shreve is now a team unearned run"2015NYA.EVA.regular.comment.csv",54
+
+"NYA201510010",5,"replay,1,gardb001,NYA,welkt901,NYC21,,Y,M,BOS,C $when Brett Gardner was called safe at 1B, Red Sox acting manager Torey Lovullo challenged the ruling; the call was overturned by replay"2015NYA.EVA.regular.comment.csv",55
+

@@ -1,44 +1,44 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"NYA196704140",1,"Debut game for Billy Rohr"
-"NYA196704140",11,"Debut game for Russ Gibson"
-"NYA196704140",61,"Debut game for Thad Tillotson"
-"NYA196704140",67,"$great diving catch by Carl Yastrzemski to keep no-hitter alive"
-"NYA196704301",61,"$Jose Cardenal overslid the bag"
-"NYA196705120",22,"Debut game for Frank Tepedino"
-"NYA196705130",48,"Luis Aparicio left with injured right ankle"
-"NYA196705160",87,"ej,whitf103,P,dimul901,Call at 1B Fred Whitfield ejected by 1B umpire Lou DiMuro"
-"NYA196706210",17,"$Joe Foy struck on the helmet"
-"NYA196706210",23,"$Thad Tillotson struck on shoulder by fast ball; he exchanged words with Jim Lonborg then between Tillotson and Joe Foy, who had been hit in the previous inning; both benches cleared and a brawl ensued; Joe Pepitone was felled by a punch and left the game with a sprained left wrist"
-"NYA196706210",36,"ej,houkr101,M,hallb901,Call at 1B Yankees Manager Ralph Houk ejected by 1B umpire Bill Haller as Conigliaro safe at first and Yaz out trying for third"
-"NYA196706210",74,"Debut game for Charlie Sands"
-"NYA196707160",28,"Dick Howser left with injured wrist"
-"NYA196707250",69,"game called for rain (tie game)"
-"NYA196709041",40,"$Rocky Colavito collided with Don Buford, knocking ball loose"
-"NYA196709042",26,"ej,wardp102,P,ashfe901,HBP non-call (foul ball) $Ward ejected by HP umpire Ashford arguing that he was hit by a pitch called a foul ball"
-"NYA196709050",82,"Debut game for Jerry Kenney"
-"NYA196709122",13,"Debut game for Frank Fernandez"
-"NYA196709170",13,"Debut game for Tom Shopay"
-"NYA196709260",45,"ej,freeb103,P,soarh901,Balls and strikes Bill Freehan ejected by HP umpire Hank Soar"
-"NYA196709300",7,"Mickey Mantle injured hamstring running out grounder"
-"NYA196704140",1,"Debut game for Billy Rohr"
-"NYA196704140",11,"Debut game for Russ Gibson"
-"NYA196704140",61,"Debut game for Thad Tillotson"
-"NYA196704140",67,"$great diving catch by Carl Yastrzemski to keep no-hitter alive"
-"NYA196704301",61,"$Jose Cardenal overslid the bag"
-"NYA196705120",22,"Debut game for Frank Tepedino"
-"NYA196705130",48,"Luis Aparicio left with injured right ankle"
-"NYA196705140",59,"$Mantle's 500th home run"
-"NYA196705160",87,"ej,whitf103,P,dimul901,Call at 1B Fred Whitfield ejected by 1B umpire Lou DiMuro"
-"NYA196706210",17,"$Joe Foy struck on the helmet"
-"NYA196706210",23,"$Thad Tillotson struck on shoulder by fast ball; he exchanged words with Jim Lonborg then between Tillotson and Joe Foy, who had been hit in the previous inning; both benches cleared and a brawl ensued; Joe Pepitone was felled by a punch and left the game with a sprained left wrist"
-"NYA196706210",36,"ej,houkr101,M,hallb901,Call at 1B Yankees Manager Ralph Houk ejected by 1B umpire Bill Haller as Conigliaro safe at first and Yaz out trying for third"
-"NYA196706210",74,"Debut game for Charlie Sands"
-"NYA196707160",28,"Dick Howser left with injured wrist"
-"NYA196707250",69,"game called for rain (tie game)"
-"NYA196709041",40,"$Rocky Colavito collided with Don Buford, knocking ball loose"
-"NYA196709042",26,"ej,wardp102,P,ashfe901,HBP non-call (foul ball) $Ward ejected by HP umpire Ashford arguing that he was hit by a pitch called a foul ball"
-"NYA196709050",82,"Debut game for Jerry Kenney"
-"NYA196709122",13,"Debut game for Frank Fernandez"
-"NYA196709170",13,"Debut game for Tom Shopay"
-"NYA196709260",45,"ej,freeb103,P,soarh901,Balls and strikes Bill Freehan ejected by HP umpire Hank Soar"
-"NYA196709300",7,"Mickey Mantle injured hamstring running out grounder"
+"NYA196704140",1,"Debut game for Billy Rohr"FILENAME_TX","LINE_NUMBER_CT"
+
+"NYA196704140",11,"Debut game for Russ Gibson"1967NYA.EVA.regular.comment.csv",2
+
+"NYA196704140",61,"Debut game for Thad Tillotson"1967NYA.EVA.regular.comment.csv",3
+
+"NYA196704140",67,"$great diving catch by Carl Yastrzemski to keep no-hitter alive"1967NYA.EVA.regular.comment.csv",4
+
+"NYA196704301",61,"$Jose Cardenal overslid the bag"1967NYA.EVA.regular.comment.csv",5
+
+"NYA196705120",22,"Debut game for Frank Tepedino"1967NYA.EVA.regular.comment.csv",6
+
+"NYA196705130",48,"Luis Aparicio left with injured right ankle"1967NYA.EVA.regular.comment.csv",7
+
+"NYA196705140",59,"$Mantle's 500th home run"1967NYA.EVA.regular.comment.csv",8
+
+"NYA196705160",87,"ej,whitf103,P,dimul901,Call at 1B Fred Whitfield ejected by 1B umpire Lou DiMuro"1967NYA.EVA.regular.comment.csv",9
+
+"NYA196706210",17,"$Joe Foy struck on the helmet"1967NYA.EVA.regular.comment.csv",10
+
+"NYA196706210",23,"$Thad Tillotson struck on shoulder by fast ball; he exchanged words with Jim Lonborg then between Tillotson and Joe Foy, who had been hit in the previous inning; both benches cleared and a brawl ensued; Joe Pepitone was felled by a punch and left the game with a sprained left wrist"1967NYA.EVA.regular.comment.csv",11
+
+"NYA196706210",36,"ej,houkr101,M,hallb901,Call at 1B Yankees Manager Ralph Houk ejected by 1B umpire Bill Haller as Conigliaro safe at first and Yaz out trying for third"1967NYA.EVA.regular.comment.csv",12
+
+"NYA196706210",74,"Debut game for Charlie Sands"1967NYA.EVA.regular.comment.csv",13
+
+"NYA196707160",28,"Dick Howser left with injured wrist"1967NYA.EVA.regular.comment.csv",14
+
+"NYA196707250",69,"game called for rain (tie game)"1967NYA.EVA.regular.comment.csv",15
+
+"NYA196709041",40,"$Rocky Colavito collided with Don Buford, knocking ball loose"1967NYA.EVA.regular.comment.csv",16
+
+"NYA196709042",26,"ej,wardp102,P,ashfe901,HBP non-call (foul ball) $Ward ejected by HP umpire Ashford arguing that he was hit by a pitch called a foul ball"1967NYA.EVA.regular.comment.csv",17
+
+"NYA196709050",82,"Debut game for Jerry Kenney"1967NYA.EVA.regular.comment.csv",18
+
+"NYA196709122",13,"Debut game for Frank Fernandez"1967NYA.EVA.regular.comment.csv",19
+
+"NYA196709170",13,"Debut game for Tom Shopay"1967NYA.EVA.regular.comment.csv",20
+
+"NYA196709260",45,"ej,freeb103,P,soarh901,Balls and strikes Bill Freehan ejected by HP umpire Hank Soar"1967NYA.EVA.regular.comment.csv",21
+
+"NYA196709300",7,"Mickey Mantle injured hamstring running out grounder"1967NYA.EVA.regular.comment.csv",22
+

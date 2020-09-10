@@ -1,27 +1,26 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"NYA200410120",52,"$the first Red Sox baserunner after 19 straight outs"
-"BOS200410160",0,"this game delayed one day by rain"
-"BOS200410160",63,"$John Olerud left with injured foot"
-"BOS200410170",0,"$start of game delayed so FOX TV could do their pregame show and run football scores after the NL game"
-"BOS200410170",20,"$the ball left the park and landed on Landsdowne Street; a few seconds later the came sailing back into CF where Johnny Damon picked it up and threw it back over the wall onto the street; the ball came back in one more time and 2B umpire Joe West pocketed it to end the game of catch between Damon and the fans on the Street"
-"BOS200410170",108,"$second game ending HR for David Ortiz in 2004 post-season"
-"BOS200410180",126,"$second consecutive extra-inning, game-ending hit for David Ortiz"
-"NYA200410190",29,"$the ball was caught and dropped by a fan in the LF seats; it dropped onto the field and was initially called in play by LF umpire Jim Joyce; after Red Sox manager Terry Francona came onto the field, the umpires huddled and reversed the call to a home run"
-"NYA200410190",63,"$Alex Rodriguez swatted at Bronson Arroyo's arm to dislodge the ball from the glove; Doug Mientkiewicz blocked 1B umpire Randy Marsh's view of the play, who called Rodriguez safe even though he had not touched the bag; the ball rolled down the line into RF; Derek Jeter scored on the play and Rodriguez ended up at 2B; the Red Sox complained about the interference so the umpires huddled for the second time in the game and called Rodriguez out and returned Jeter to 1B; Yankees manager Joe Torre was very upset; fans threw junk on the field including baseballs; after a long meeting between the umpires, MLB security and NYC police, police in riot gear were placed along the stands on both sides of the field for the rest of the game"
-"NYA200410190",75,"$the Red Sox become the first team to come back from a 3-0 deficit in a 7-game series"
-"NYA200410200",45,"$Esteban Loaiza ran Bill Mueller back towards 2B and threw the ball into Mueller's legs and it rolled out into RF"
-"NYA200410200",68,"$the ball struck the screen on the RF pole"
-"NYA200410200",85,"$Red Sox win 4-3 after being down 3-0; first team to get to game 7 after 3-0"
-"NYA200410120",52,"$the first Red Sox baserunner after 19 straight outs"
-"BOS200410160",0,"this game delayed one day by rain"
-"BOS200410160",63,"$John Olerud left with injured foot"
-"BOS200410170",0,"$start of game delayed so FOX TV could do their pregame show and run football scores after the NL game"
-"BOS200410170",20,"$the ball left the park and landed on Landsdowne Street; a few seconds later the came sailing back into CF where Johnny Damon picked it up and threw it back over the wall onto the street; the ball came back in one more time and 2B umpire Joe West pocketed it to end the game of catch between Damon and the fans on the Street"
-"BOS200410170",108,"$second game ending HR for David Ortiz in 2004 post-season"
-"BOS200410180",126,"$second consecutive extra-inning, game-ending hit for David Ortiz"
-"NYA200410190",29,"$the ball was caught and dropped by a fan in the LF seats; it dropped onto the field and was initially called in play by LF umpire Jim Joyce; after Red Sox manager Terry Francona came onto the field, the umpires huddled and reversed the call to a home run"
-"NYA200410190",63,"$Alex Rodriguez swatted at Bronson Arroyo's arm to dislodge the ball from the glove; Doug Mientkiewicz blocked 1B umpire Randy Marsh's view of the play, who called Rodriguez safe even though he had not touched the bag; the ball rolled down the line into RF; Derek Jeter scored on the play and Rodriguez ended up at 2B; the Red Sox complained about the interference so the umpires huddled for the second time in the game and called Rodriguez out and returned Jeter to 1B; Yankees manager Joe Torre was very upset; fans threw junk on the field including baseballs; after a long meeting between the umpires, MLB security and NYC police, police in riot gear were placed along the stands on both sides of the field for the rest of the game"
-"NYA200410190",75,"$the Red Sox become the first team to come back from a 3-0 deficit in a 7-game series"
-"NYA200410200",45,"$Esteban Loaiza ran Bill Mueller back towards 2B and threw the ball into Mueller's legs and it rolled out into RF"
-"NYA200410200",68,"$the ball struck the screen on the RF pole"
-"NYA200410200",85,"$Red Sox win 4-3 after being down 3-0; first team to get to game 7 after 3-0"
+"NYA200410120",52,"$the first Red Sox baserunner after 19 straight outs"FILENAME_TX","LINE_NUMBER_CT"
+
+"BOS200410160",0,"this game delayed one day by rain"2004ALCS.EVE.post.comment.csv",2
+
+"BOS200410160",63,"$John Olerud left with injured foot"2004ALCS.EVE.post.comment.csv",3
+
+"BOS200410170",0,"$start of game delayed so FOX TV could do their pregame show and run football scores after the NL game"2004ALCS.EVE.post.comment.csv",4
+
+"BOS200410170",20,"$the ball left the park and landed on Landsdowne Street; a few seconds later the came sailing back into CF where Johnny Damon picked it up and threw it back over the wall onto the street; the ball came back in one more time and 2B umpire Joe West pocketed it to end the game of catch between Damon and the fans on the Street"2004ALCS.EVE.post.comment.csv",5
+
+"BOS200410170",108,"$second game ending HR for David Ortiz in 2004 post-season"2004ALCS.EVE.post.comment.csv",6
+
+"BOS200410180",126,"$second consecutive extra-inning, game-ending hit for David Ortiz"2004ALCS.EVE.post.comment.csv",7
+
+"NYA200410190",29,"$the ball was caught and dropped by a fan in the LF seats; it dropped onto the field and was initially called in play by LF umpire Jim Joyce; after Red Sox manager Terry Francona came onto the field, the umpires huddled and reversed the call to a home run"2004ALCS.EVE.post.comment.csv",8
+
+"NYA200410190",63,"$Alex Rodriguez swatted at Bronson Arroyo's arm to dislodge the ball from the glove; Doug Mientkiewicz blocked 1B umpire Randy Marsh's view of the play, who called Rodriguez safe even though he had not touched the bag; the ball rolled down the line into RF; Derek Jeter scored on the play and Rodriguez ended up at 2B; the Red Sox complained about the interference so the umpires huddled for the second time in the game and called Rodriguez out and returned Jeter to 1B; Yankees manager Joe Torre was very upset; fans threw junk on the field including baseballs; after a long meeting between the umpires, MLB security and NYC police, police in riot gear were placed along the stands on both sides of the field for the rest of the game"2004ALCS.EVE.post.comment.csv",9
+
+"NYA200410190",75,"$the Red Sox become the first team to come back from a 3-0 deficit in a 7-game series"2004ALCS.EVE.post.comment.csv",10
+
+"NYA200410200",45,"$Esteban Loaiza ran Bill Mueller back towards 2B and threw the ball into Mueller's legs and it rolled out into RF"2004ALCS.EVE.post.comment.csv",11
+
+"NYA200410200",68,"$the ball struck the screen on the RF pole"2004ALCS.EVE.post.comment.csv",12
+
+"NYA200410200",85,"$Red Sox win 4-3 after being down 3-0; first team to get to game 7 after 3-0"2004ALCS.EVE.post.comment.csv",13
+

@@ -1,141 +1,140 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"TBA201403310",3,"Toronto Blue Jays shortstop Jose Reyes left the game due to an injured leg"
-"TBA201404010",54,"replay,7,rasmc001,TOR,gormb901,STP01,F,N,U,,H $Colby Rasmus hit a fly ball to RF that was ruled foul; crew chief Brian Gorman asked for a review of the ruling, which was confirmed after a 3:34 delay"
-"TBA201404010",70,"replay,9,cabrm002,TOR,gormb901,STP01,,N,M,TOR,C $Blue Jays manager John Gibbons challenged the call at 1B"
-"TBA201404040",38,"Rangers pitcher Joe Saunders left the game due to an injured ankle"
-"TBA201404040",64,"replay,7,arenj001,TEX,laynj901,STP01,,Y,M,TBA,T $the play was ruled a trap but Rays manager Joe Madden challenged the call; the ruling was overturned"
-"TBA201404050",11,"replay,2,chirr001,TEX,laynj901,STP01,,Y,M,TBA,C $Robinson Chirinos was called safe but Rays manager Joe Madden challenged the ruling; it was overturned by replay"
-"TBA201404180",12,"replay,2,suzui001,NYA,westj901,STP01,,Y,M,NYA,C $when Ichiro Suzuki was called out at 1B, Yankees manager Joe Girardi challenged the call; it was overturned by replay"
-"TBA201404180",81,"ej,cabrc001,P,westj901,Intentional HBP Yankees pitcher Cesar Cabral ejected by HP umpire Joe West"
-"TBA201404190",50,"$fan interference"
-"TBA201404200",25,"replay,4,gardb001,NYA,westj901,STP01,,Y,M,NYA,X $Brett Gardner's fly ball struck the fence in right center above the padding and below the yellow stripe; Wil Myers caught the ball on the carom and sold it as a catch, which was the ruling; Yankees manager Joe Girardi challenged the call, which was overturned by replay; Gardner had circled bases as the Rays left the field; he was put at 2B"
-"TBA201404200",80,"replay,11,soria001,NYA,westj901,STP01,,Y,M,TBA,A $when Ichiro Suzuki was called safe at 2B, Rays manager Joe Maddon challenged the ruling; it was overturned by replay"
-"TBA201404220",46,"replay,5,escoy001,TBA,barrt901,STP01,,N,U,,K $the fourth pitch to Yunel Escobar was called a foul ball when it glanced off catcher Kurt Suzuki's glove; there was some confusion about the count so crew chief Ted Barrett asked for a review after the sixth pitch; the review placed the count at 3-2 when it was actually 4-2; MLB appeared to ignore the fourth pitch, because if it was a foul ball, Escobar struck out on the fifth pitch and if it was a ball, Escobar walked on the sixth pitch"
-"TBA201405060",63,"$19 minute delay due to power outage; the game resumed with some lights on the catwalk not working"
-"TBA201405060",79,"replay,9,hanir001,TBA,westj901,STP01,,N,M,TBA,C $when Ryan Hanigan was called out at 1B, Rays manager Joe Maddon challenged the ruling, saying Ryan Flaherty missed the bag; the ruling was upheld by replay"
-"TBA201405080",5,"ej,hickj801,C,fostm901,Checked swing Rays Pitching Coach Jim Hickey ejected by HP umpire Marty Foster"
-"TBA201405080",46,"replay,5,longe001,TBA,westj901,STP01,,N,M,TBA,C $when Evan Longoria was called out at 1B, Rays manager Joe challenged the ruling, saying that Steve Pearce's foot was off the bag; the call was upheld by replay"
-"TBA201405090",7,"replay,1,zobrb001,TBA,wegnm901,STP01,,Y,M,TBA,C $when Ben Zobrist was called out at 1B, Rays manager Joe Maddon challenged the ruling; it was overturned by replay"
-"TBA201405110",46,"replay,6,morgn001,CLE,wegnm901,STP01,,Y,M,CLE,C $when Nyjer Morgan was called out at 1B, Indians manager Terry Francona challenged the ruling; it was overturned by replay"
-"TBA201405110",82,"replay,9,forsl001,TBA,wengm901,STP01,,N,M,TBA,C $when Logan Forsythe was called out at 1B, Rays manager Joe Maddon challenged the ruling; it was upheld by replay"
-"TBA201405200",26,"replay,3,jennd002,TBA,gormb901,STP01,,N,M,TBA,C $when Desmond Jennings was called out at 1B, Rays manager Joe Maddon challenged the ruling; it was upheld by replay"
-"TBA201405210",72,"replay,9,forsl001,TBA,gormb901,STP01,,N,U,,S $Logan Forsythe's popup struck a catwalk above the field and fell near the mound; it was ruled a fair ball and in play; after a discussion among the umpires, crew chief Brian Gorman requested a review; the call was upheld by replay"
-"TBA201405220",71,"replay,9,escoy001,TBA,gormb901,STP01,,Y,M,OAK,A $when Desmond Jennings was called safe at 2B, Athletics manager Bob Melvin challenged the ruling; it was overturned by replay"
-"TBA201405230",65,"Red Sox right fielder Shane Victorino left the game due to an injured leg"
-"TBA201405240",8,"replay,1,rossd001,BOS,vanol901,STP01,,Y,M,BOS,C $when David Ross was called out at 1B, Red Sox manager John Farrell chellenged the ruling; it was overturned by replay"
-"TBA201405240",83,"replay,10,escoy001,TBA,vanol901,STP01,,Y,M,TBA,A $when Desmond Jennings was called out at 2B, Rays manager Joe Maddon challenged the ruling; it was overturned by replay"
-"TBA201405240",87,"Red Sox shortstop Xander Bogaerts left the game due to an injured leg"
-"TBA201405250",45,"replay,5,lonej001,TBA,vanol901,STP01,,Y,M,BOS,C $when Wil Myers was called safe at 2B, Red Sox manager John Farrell challenged the ruling; the call was overturned by replay"
-"TBA201405250",69,"ej,escoy001,P,vanol901,Fighting ej,gomej001,P,vanol901,Fighting ej,rodrs002,P,vanol901,Fighting $Yunel Escobar pointed at the Red Sox dugout and yelled something at the players; someone yelled back and Escobar started walking toward the dugout; both benches cleared; Escobar, Jonny Gomes and Sean Rodriguez ejected by 3B umpire Larry Vanover"
-"TBA201406050",68,"$fan interference"
-"TBA201406050",70,"ej,redmm001,M,millb901,Fair/foul call Marlins Manager Mike Redmond ejected by 1B umpire Bill Miller arguing that Desmond Jennings double was foul; the ball landed in front of Miller at 1B; a fair/foul call in front of the umpire is not reviewable"
-"TBA201406090",38,"replay,4,jennd002,TBA,welkt901,STP01,,N,M,TBA,C $when Desmond Jennings was called out at 1B, Rays manager Joe Maddon challenged the ruling; the call was upheld by replay"
-"TBA201406100",5,"replay,1,kierk001,TBA,laynj901,STP01,,N,M,TBA,C $when Kevin Keirmaier was called out at 1B, Rays manager Jo Maddon challenged the ruling; the call was upheld by replay"
-"TBA201406100",62,"replay,8,sandj002,TBA,laynj901,STP01,,N,M,SLN,I $when Jerry Sands was ruled to have been hit by a pitch, Cardinals manager Mike Matheny challenged the call; the call was upheld by replay"
-"TBA201406100",68,"replay,9,forsl001,TBA,laynj901,STP01,,N,U,,C $when Logan Forsythe was called out at 1B, crew chief Jerry Layne requested a review; the call was upheld by replay"
-"TBA201406170",22,"replay,3,davic003,BAL,kulpr901,STP01,,Y,U,,H $Chris Davis hit a fly down the LF line; David DeJesus ran into the wall and Davis reached 2B; the ball was ruled in play; acting crew chief Ron Kulpa requested a review, which overturned the call to a home run as the ball struck the pole"
-"TBA201406170",46,"replay,5,longe001,TBA,kulpr901,STP01,,N,M,BAL,C $when Evan Longoria was called safe at 1B, Orioles manager Buck Showalter challenged the ruling; the call was upheld by replay"
-"TBA201406210",3,"replay,1,sprig001,HOU,culbf901,STP01,,Y,M,TBA,T $when Brandon Guyer was ruled to have trapped the line drive in LF, Rays manager Joe Maddon challenged the ruling; the call was overturned by replay"
-"TBA201406220",18,"replay,3,fowld001,HOU,culbf901,STP01,,Y,M,HOU,A $when Jonathan Villar was called out at 3B, Astros manager Bo Porter challenged the ruling; the call was overturned by replay"
-"TBA201406220",27,"replay,3,longe001,TBA,culbf901,STP01,,N,M,TBA,A $Desmond Jennings tried to steal HP on the return throw to the mound; when he was called out at HP, Rays manager Joe Maddon challenged the ruling; the call was upheld by replay"
-"TBA201406220",72,"replay,8,forsl001,TBA,culbf901,STP01,,N,U,,A $when Evan Longoria was called out at HP, crew chief Fieldin Culbreth requested a review; the call was upheld by replay"
-"TBA201406240",36,"$Gregory Polanco called for interference"
-"TBA201407110",17,"Rays center fielder Desmond Jennings left the game due to an injured knee"
-"TBA201407110",33,"Blue Jays left fielder Nolan Reimold left the game due to an injured leg"
-"TBA201407110",59,"Blue Jays shortstop Munenori Kawasaki left the game due to an injured leg"
-"TBA201407110",69,"replay,8,mastd002,TOR,everm901,STP01,,N,M,TBA,C $when Darin Mastroianni was called safe at 1B, Rays manager Joe Maddon challenged the ruling; the call was upheld by replay"
-"TBA201407120",39,"replay,5,reyej001,TOR,everm901,STP01,,N,M,TOR,A $when Jose Reyes was called out at 2B, Blue Jays manager John Gibbons challenged the ruling; the call was upheld by replay"
-"TBA201407130",48,"replay,6,molij001,TBA,everm901,STP01,,Y,M,TBA,A $when Yunel Escobar was called out at HP, Rays manager Joe Maddon challenged the ruling; the call was overturned by replay"
-"TBA201407260",3,"replay,1,ortid001,BOS,millb901,STP01,I,N,U,,H $a fan caught David Ortiz' fly ball to RF in front of the yellow line and was ruled fan interference; the call was upheld by replay"
-"TBA201407280",17,"replay,3,gomec002,MIL,davib902,STP01,,N,M,TBA,C $when Carlos Gomez was called safe at 1B, Rays manager Joe Maddon challenged the ruling; the call was upheld by replay"
-"TBA201407290",63,"ej,escoy001,P,welkb901,Balls and strikes Rays shortstop Yunel Escobar ejected by HP umpire Bill Welke after first pitch of at bat"
-"TBA201408010",15,"replay,2,lonej001,TBA,vanol901,STP01,O,N,U,,H $James Loney's fly to RF struck the top of the yellow line and caromed up in the air and onto the field; the ball was ruled in play; acting crew chief Larry Vanover requested a review, which upheld the call"
-"TBA201408020",61,"replay,6,longe001,TBA,vanol901,STP01,,N,M,ANA,A $when Brandon Guyer was called safe on a pickoff attempt, Angels manager Mike Scioscia challenged the ruling; the call was upheld by replay"
-"TBA201408020",85,"replay,9,iannc001,ANA,vanol901,STP01,,N,U,,P $when C.J. Cron was called out at HP, acting crew chief Larry Vanover requested a review; the call was upheld by replay saying the catcher did not block the plate without the ball and the runner was out"
-"TBA201408190",31,"replay,4,belnv001,TBA,davig901,STP01,F,Y,U,,H $Vince Belnome's fly ball down the RF line was ruled fair and a home run; crew chief Gerry Davis requested a review, which overturned the call to a foul ball"
-"TBA201408190",40,"replay,5,cabrm001,DET,davig901,STP01,,Y,M,DET,T $when Desmond Jennings was ruled to have caught Miguel Cabrera's line drive, Tigers manager Brad Ausmus challenged the ruling; the call was overturned by replay"
-"TBA201408300",29,"replay,4,guyeb001,TBA,laynj901,STP01,,N,M,TBA,C $when Brandon Guyer was called out at 1B, Rays manager Joe Maddon challenged the ruling; the call was upheld by replay"
-"TBA201409010",74,"replay,10,hanir001,TBA,laynj901,STP01,,N,M,BOS,A $when Ryan Hanigan was called safe at 2B, Red Sox manager John Farrell challenged the ruling; the call was upheld by replay"
-"TBA201409030",39,"replay,5,encae001,TOR,cedeg901,STP01,I,N,U,,H $Edwin Encarnacion's fly to LF was touched by a fan over the top of the wall and caromed back onto the field; the ball was ruled a home run; crew chief Gary Cederstrom requested a review which upheld the call"
-"TBA201409030",57,"replay,6,lonej001,TBA,cedeg901,STP01,,Y,M,TBA,A $when James Loney was called out at 2B, Rays manager Joe Maddon challenged the ruling; the call was overturned by replay"
-"TBA201409040",40,"replay,6,myerw001,TBA,cedeg901,STP01,,N,M,TBA,A $when Wil Myers was called out at 2B, Rays manager Joe Maddon challenged the ruling; the call was upheld by replay"
-"TBA201409040",72,"replay,10,kierk001,TBA,cedeg901,STP01,,N,M,TOR,C $when Kevin Kiermaier was called safe at 1B, Blue Jays manager John Gibbons challenged the ruling; the call was upheld by replay"
-"TBA201409150",50,"ej,headc001,P,fostm901,Balls and strikes $Chase Headley was upset at the strike one call and was told multiple times to get back in the batters box by HP umpire Marty Foster; Headley continued to talk and was ejected by Foster"
-"TBA201409160",48,"replay,6,joycm001,TBA,westj901,STP01,,Y,M,TBA,A $when Nick Franklin was called out at 3B, Rays manager Joe Maddon challenged the ruling; the call was overturned by replay"
-"TBA201409160",64,"ej,giraj001,M,drakr901,Warning to both teams $both teams warned by HP umpire Rob Drake; Yankees manager Joe Girardi came onto the field and started yelling at pitcher Steve Geltz and told Drake that Geltz should be ejected; Girardi was ejected by Drake"
-"TBA201409160",67,"ej,pheld001,P,drakr901,Throwing at batter ej,penat001,C,drakr901,Throwing at batter $the second pitch to Kevin Kiermaier was inside and went to the backstop; David Phelps and acting manager Tony Pena ejected by HP umpire Rob Drake; both benches emptied"
-"TBA201409170",60,"replay,8,younc004,NYA,fostm901,STP01,,Y,M,TBA,C $when Chris Young was called safe at 1B, Rays manager Joe Maddon challenged the ruling; the call was overturned by replay"
-"TBA201409200",13,"replay,2,frann001,TBA,joycj901,STP01,O,N,U,,H $Nick Franklin's fly to RF was ruled fair and a home run; crew chief Jim Joyce requested a review, which upheld the call; the ball appeared to hit a catwalk at the wall"
-"TBA201409200",67,"$a foul ball by Dayan Viciedo struck the mask of HP umpire Marvin Hudson, who remained in the game"
-"TBA201409210",54,"replay,6,myerw001,TBA,joycj901,STP01,,Y,M,TBA,C $when Wil Myers was called out at 1B, Rays manager Joe Maddon challenged the ruling; the call was overturned by replay, allowing the run to score"
-"TBA201409210",81,"replay,9,rodrs002,TBA,joycj901,STP01,,N,M,TBA,C $when Sean Rodriguez was called out at 1B, Rays manager Joe Maddon challenged the ruling; the call was upheld by replay"
-"TBA201403310",3,"Toronto Blue Jays shortstop Jose Reyes left the game due to an injured leg"
-"TBA201404010",54,"replay,7,rasmc001,TOR,gormb901,STP01,F,N,U,,H $Colby Rasmus hit a fly ball to RF that was ruled foul; crew chief Brian Gorman asked for a review of the ruling, which was confirmed after a 3:34 delay"
-"TBA201404010",70,"replay,9,cabrm002,TOR,gormb901,STP01,,N,M,TOR,C $Blue Jays manager John Gibbons challenged the call at 1B"
-"TBA201404040",38,"Rangers pitcher Joe Saunders left the game due to an injured ankle"
-"TBA201404040",64,"replay,7,arenj001,TEX,laynj901,STP01,,Y,M,TBA,T $the play was ruled a trap but Rays manager Joe Madden challenged the call; the ruling was overturned"
-"TBA201404050",11,"replay,2,chirr001,TEX,laynj901,STP01,,Y,M,TBA,C $Robinson Chirinos was called safe but Rays manager Joe Madden challenged the ruling; it was overturned by replay"
-"TBA201404180",12,"replay,2,suzui001,NYA,westj901,STP01,,Y,M,NYA,C $when Ichiro Suzuki was called out at 1B, Yankees manager Joe Girardi challenged the call; it was overturned by replay"
-"TBA201404180",81,"ej,cabrc001,P,westj901,Intentional HBP Yankees pitcher Cesar Cabral ejected by HP umpire Joe West"
-"TBA201404190",50,"$fan interference"
-"TBA201404200",25,"replay,4,gardb001,NYA,westj901,STP01,,Y,M,NYA,X $Brett Gardner's fly ball struck the fence in right center above the padding and below the yellow stripe; Wil Myers caught the ball on the carom and sold it as a catch, which was the ruling; Yankees manager Joe Girardi challenged the call, which was overturned by replay; Gardner had circled bases as the Rays left the field; he was put at 2B"
-"TBA201404200",80,"replay,11,soria001,NYA,westj901,STP01,,Y,M,TBA,A $when Ichiro Suzuki was called safe at 2B, Rays manager Joe Maddon challenged the ruling; it was overturned by replay"
-"TBA201404220",46,"replay,5,escoy001,TBA,barrt901,STP01,,N,U,,K $the fourth pitch to Yunel Escobar was called a foul ball when it glanced off catcher Kurt Suzuki's glove; there was some confusion about the count so crew chief Ted Barrett asked for a review after the sixth pitch; the review placed the count at 3-2 when it was actually 4-2; MLB appeared to ignore the fourth pitch, because if it was a foul ball, Escobar struck out on the fifth pitch and if it was a ball, Escobar walked on the sixth pitch"
-"TBA201405060",63,"$19 minute delay due to power outage; the game resumed with some lights on the catwalk not working"
-"TBA201405060",79,"replay,9,hanir001,TBA,westj901,STP01,,N,M,TBA,C $when Ryan Hanigan was called out at 1B, Rays manager Joe Maddon challenged the ruling, saying Ryan Flaherty missed the bag; the ruling was upheld by replay"
-"TBA201405080",5,"ej,hickj801,C,fostm901,Checked swing Rays Pitching Coach Jim Hickey ejected by HP umpire Marty Foster"
-"TBA201405080",46,"replay,5,longe001,TBA,westj901,STP01,,N,M,TBA,C $when Evan Longoria was called out at 1B, Rays manager Joe challenged the ruling, saying that Steve Pearce's foot was off the bag; the call was upheld by replay"
-"TBA201405090",7,"replay,1,zobrb001,TBA,wegnm901,STP01,,Y,M,TBA,C $when Ben Zobrist was called out at 1B, Rays manager Joe Maddon challenged the ruling; it was overturned by replay"
-"TBA201405110",46,"replay,6,morgn001,CLE,wegnm901,STP01,,Y,M,CLE,C $when Nyjer Morgan was called out at 1B, Indians manager Terry Francona challenged the ruling; it was overturned by replay"
-"TBA201405110",82,"replay,9,forsl001,TBA,wengm901,STP01,,N,M,TBA,C $when Logan Forsythe was called out at 1B, Rays manager Joe Maddon challenged the ruling; it was upheld by replay"
-"TBA201405200",26,"replay,3,jennd002,TBA,gormb901,STP01,,N,M,TBA,C $when Desmond Jennings was called out at 1B, Rays manager Joe Maddon challenged the ruling; it was upheld by replay"
-"TBA201405210",72,"replay,9,forsl001,TBA,gormb901,STP01,,N,U,,S $Logan Forsythe's popup struck a catwalk above the field and fell near the mound; it was ruled a fair ball and in play; after a discussion among the umpires, crew chief Brian Gorman requested a review; the call was upheld by replay"
-"TBA201405220",71,"replay,9,escoy001,TBA,gormb901,STP01,,Y,M,OAK,A $when Desmond Jennings was called safe at 2B, Athletics manager Bob Melvin challenged the ruling; it was overturned by replay"
-"TBA201405230",65,"Red Sox right fielder Shane Victorino left the game due to an injured leg"
-"TBA201405240",8,"replay,1,rossd001,BOS,vanol901,STP01,,Y,M,BOS,C $when David Ross was called out at 1B, Red Sox manager John Farrell chellenged the ruling; it was overturned by replay"
-"TBA201405240",83,"replay,10,escoy001,TBA,vanol901,STP01,,Y,M,TBA,A $when Desmond Jennings was called out at 2B, Rays manager Joe Maddon challenged the ruling; it was overturned by replay"
-"TBA201405240",87,"Red Sox shortstop Xander Bogaerts left the game due to an injured leg"
-"TBA201405250",45,"replay,5,lonej001,TBA,vanol901,STP01,,Y,M,BOS,C $when Wil Myers was called safe at 2B, Red Sox manager John Farrell challenged the ruling; the call was overturned by replay"
-"TBA201405250",69,"ej,escoy001,P,vanol901,Fighting ej,gomej001,P,vanol901,Fighting ej,rodrs002,P,vanol901,Fighting $Yunel Escobar pointed at the Red Sox dugout and yelled something at the players; someone yelled back and Escobar started walking toward the dugout; both benches cleared; Escobar, Jonny Gomes and Sean Rodriguez ejected by 3B umpire Larry Vanover"
-"TBA201406050",68,"$fan interference"
-"TBA201406050",70,"ej,redmm001,M,millb901,Fair/foul call Marlins Manager Mike Redmond ejected by 1B umpire Bill Miller arguing that Desmond Jennings double was foul; the ball landed in front of Miller at 1B; a fair/foul call in front of the umpire is not reviewable"
-"TBA201406090",38,"replay,4,jennd002,TBA,welkt901,STP01,,N,M,TBA,C $when Desmond Jennings was called out at 1B, Rays manager Joe Maddon challenged the ruling; the call was upheld by replay"
-"TBA201406100",5,"replay,1,kierk001,TBA,laynj901,STP01,,N,M,TBA,C $when Kevin Keirmaier was called out at 1B, Rays manager Jo Maddon challenged the ruling; the call was upheld by replay"
-"TBA201406100",62,"replay,8,sandj002,TBA,laynj901,STP01,,N,M,SLN,I $when Jerry Sands was ruled to have been hit by a pitch, Cardinals manager Mike Matheny challenged the call; the call was upheld by replay"
-"TBA201406100",68,"replay,9,forsl001,TBA,laynj901,STP01,,N,U,,C $when Logan Forsythe was called out at 1B, crew chief Jerry Layne requested a review; the call was upheld by replay"
-"TBA201406170",22,"replay,3,davic003,BAL,kulpr901,STP01,,Y,U,,H $Chris Davis hit a fly down the LF line; David DeJesus ran into the wall and Davis reached 2B; the ball was ruled in play; acting crew chief Ron Kulpa requested a review, which overturned the call to a home run as the ball struck the pole"
-"TBA201406170",46,"replay,5,longe001,TBA,kulpr901,STP01,,N,M,BAL,C $when Evan Longoria was called safe at 1B, Orioles manager Buck Showalter challenged the ruling; the call was upheld by replay"
-"TBA201406210",3,"replay,1,sprig001,HOU,culbf901,STP01,,Y,M,TBA,T $when Brandon Guyer was ruled to have trapped the line drive in LF, Rays manager Joe Maddon challenged the ruling; the call was overturned by replay"
-"TBA201406220",18,"replay,3,fowld001,HOU,culbf901,STP01,,Y,M,HOU,A $when Jonathan Villar was called out at 3B, Astros manager Bo Porter challenged the ruling; the call was overturned by replay"
-"TBA201406220",27,"replay,3,longe001,TBA,culbf901,STP01,,N,M,TBA,A $Desmond Jennings tried to steal HP on the return throw to the mound; when he was called out at HP, Rays manager Joe Maddon challenged the ruling; the call was upheld by replay"
-"TBA201406220",72,"replay,8,forsl001,TBA,culbf901,STP01,,N,U,,A $when Evan Longoria was called out at HP, crew chief Fieldin Culbreth requested a review; the call was upheld by replay"
-"TBA201406240",36,"$Gregory Polanco called for interference"
-"TBA201407110",17,"Rays center fielder Desmond Jennings left the game due to an injured knee"
-"TBA201407110",33,"Blue Jays left fielder Nolan Reimold left the game due to an injured leg"
-"TBA201407110",59,"Blue Jays shortstop Munenori Kawasaki left the game due to an injured leg"
-"TBA201407110",69,"replay,8,mastd002,TOR,everm901,STP01,,N,M,TBA,C $when Darin Mastroianni was called safe at 1B, Rays manager Joe Maddon challenged the ruling; the call was upheld by replay"
-"TBA201407120",39,"replay,5,reyej001,TOR,everm901,STP01,,N,M,TOR,A $when Jose Reyes was called out at 2B, Blue Jays manager John Gibbons challenged the ruling; the call was upheld by replay"
-"TBA201407130",48,"replay,6,molij001,TBA,everm901,STP01,,Y,M,TBA,A $when Yunel Escobar was called out at HP, Rays manager Joe Maddon challenged the ruling; the call was overturned by replay"
-"TBA201407260",3,"replay,1,ortid001,BOS,millb901,STP01,I,N,U,,H $a fan caught David Ortiz' fly ball to RF in front of the yellow line and was ruled fan interference; the call was upheld by replay"
-"TBA201407280",17,"replay,3,gomec002,MIL,davib902,STP01,,N,M,TBA,C $when Carlos Gomez was called safe at 1B, Rays manager Joe Maddon challenged the ruling; the call was upheld by replay"
-"TBA201407290",63,"ej,escoy001,P,welkb901,Balls and strikes Rays shortstop Yunel Escobar ejected by HP umpire Bill Welke after first pitch of at bat"
-"TBA201408010",15,"replay,2,lonej001,TBA,vanol901,STP01,O,N,U,,H $James Loney's fly to RF struck the top of the yellow line and caromed up in the air and onto the field; the ball was ruled in play; acting crew chief Larry Vanover requested a review, which upheld the call"
-"TBA201408020",61,"replay,6,longe001,TBA,vanol901,STP01,,N,M,ANA,A $when Brandon Guyer was called safe on a pickoff attempt, Angels manager Mike Scioscia challenged the ruling; the call was upheld by replay"
-"TBA201408020",85,"replay,9,iannc001,ANA,vanol901,STP01,,N,U,,P $when C.J. Cron was called out at HP, acting crew chief Larry Vanover requested a review; the call was upheld by replay saying the catcher did not block the plate without the ball and the runner was out"
-"TBA201408190",31,"replay,4,belnv001,TBA,davig901,STP01,F,Y,U,,H $Vince Belnome's fly ball down the RF line was ruled fair and a home run; crew chief Gerry Davis requested a review, which overturned the call to a foul ball"
-"TBA201408190",40,"replay,5,cabrm001,DET,davig901,STP01,,Y,M,DET,T $when Desmond Jennings was ruled to have caught Miguel Cabrera's line drive, Tigers manager Brad Ausmus challenged the ruling; the call was overturned by replay"
-"TBA201408300",29,"replay,4,guyeb001,TBA,laynj901,STP01,,N,M,TBA,C $when Brandon Guyer was called out at 1B, Rays manager Joe Maddon challenged the ruling; the call was upheld by replay"
-"TBA201409010",74,"replay,10,hanir001,TBA,laynj901,STP01,,N,M,BOS,A $when Ryan Hanigan was called safe at 2B, Red Sox manager John Farrell challenged the ruling; the call was upheld by replay"
-"TBA201409030",39,"replay,5,encae001,TOR,cedeg901,STP01,I,N,U,,H $Edwin Encarnacion's fly to LF was touched by a fan over the top of the wall and caromed back onto the field; the ball was ruled a home run; crew chief Gary Cederstrom requested a review which upheld the call"
-"TBA201409030",57,"replay,6,lonej001,TBA,cedeg901,STP01,,Y,M,TBA,A $when James Loney was called out at 2B, Rays manager Joe Maddon challenged the ruling; the call was overturned by replay"
-"TBA201409040",40,"replay,6,myerw001,TBA,cedeg901,STP01,,N,M,TBA,A $when Wil Myers was called out at 2B, Rays manager Joe Maddon challenged the ruling; the call was upheld by replay"
-"TBA201409040",72,"replay,10,kierk001,TBA,cedeg901,STP01,,N,M,TOR,C $when Kevin Kiermaier was called safe at 1B, Blue Jays manager John Gibbons challenged the ruling; the call was upheld by replay"
-"TBA201409150",50,"ej,headc001,P,fostm901,Balls and strikes $Chase Headley was upset at the strike one call and was told multiple times to get back in the batters box by HP umpire Marty Foster; Headley continued to talk and was ejected by Foster"
-"TBA201409160",48,"replay,6,joycm001,TBA,westj901,STP01,,Y,M,TBA,A $when Nick Franklin was called out at 3B, Rays manager Joe Maddon challenged the ruling; the call was overturned by replay"
-"TBA201409160",64,"ej,giraj001,M,drakr901,Warning to both teams $both teams warned by HP umpire Rob Drake; Yankees manager Joe Girardi came onto the field and started yelling at pitcher Steve Geltz and told Drake that Geltz should be ejected; Girardi was ejected by Drake"
-"TBA201409160",67,"ej,pheld001,P,drakr901,Throwing at batter ej,penat001,C,drakr901,Throwing at batter $the second pitch to Kevin Kiermaier was inside and went to the backstop; David Phelps and acting manager Tony Pena ejected by HP umpire Rob Drake; both benches emptied"
-"TBA201409170",60,"replay,8,younc004,NYA,fostm901,STP01,,Y,M,TBA,C $when Chris Young was called safe at 1B, Rays manager Joe Maddon challenged the ruling; the call was overturned by replay"
-"TBA201409200",13,"replay,2,frann001,TBA,joycj901,STP01,O,N,U,,H $Nick Franklin's fly to RF was ruled fair and a home run; crew chief Jim Joyce requested a review, which upheld the call; the ball appeared to hit a catwalk at the wall"
-"TBA201409200",67,"$a foul ball by Dayan Viciedo struck the mask of HP umpire Marvin Hudson, who remained in the game"
-"TBA201409210",54,"replay,6,myerw001,TBA,joycj901,STP01,,Y,M,TBA,C $when Wil Myers was called out at 1B, Rays manager Joe Maddon challenged the ruling; the call was overturned by replay, allowing the run to score"
-"TBA201409210",81,"replay,9,rodrs002,TBA,joycj901,STP01,,N,M,TBA,C $when Sean Rodriguez was called out at 1B, Rays manager Joe Maddon challenged the ruling; the call was upheld by replay"
+"TBA201403310",3,"Toronto Blue Jays shortstop Jose Reyes left the game due to an injured leg"FILENAME_TX","LINE_NUMBER_CT"
+
+"TBA201404010",54,"replay,7,rasmc001,TOR,gormb901,STP01,F,N,U,,H $Colby Rasmus hit a fly ball to RF that was ruled foul; crew chief Brian Gorman asked for a review of the ruling, which was confirmed after a 3:34 delay"2014TBA.EVA.regular.comment.csv",2
+
+"TBA201404010",70,"replay,9,cabrm002,TOR,gormb901,STP01,,N,M,TOR,C $Blue Jays manager John Gibbons challenged the call at 1B"2014TBA.EVA.regular.comment.csv",3
+
+"TBA201404040",38,"Rangers pitcher Joe Saunders left the game due to an injured ankle"2014TBA.EVA.regular.comment.csv",4
+
+"TBA201404040",64,"replay,7,arenj001,TEX,laynj901,STP01,,Y,M,TBA,T $the play was ruled a trap but Rays manager Joe Madden challenged the call; the ruling was overturned"2014TBA.EVA.regular.comment.csv",5
+
+"TBA201404050",11,"replay,2,chirr001,TEX,laynj901,STP01,,Y,M,TBA,C $Robinson Chirinos was called safe but Rays manager Joe Madden challenged the ruling; it was overturned by replay"2014TBA.EVA.regular.comment.csv",6
+
+"TBA201404180",12,"replay,2,suzui001,NYA,westj901,STP01,,Y,M,NYA,C $when Ichiro Suzuki was called out at 1B, Yankees manager Joe Girardi challenged the call; it was overturned by replay"2014TBA.EVA.regular.comment.csv",7
+
+"TBA201404180",81,"ej,cabrc001,P,westj901,Intentional HBP Yankees pitcher Cesar Cabral ejected by HP umpire Joe West"2014TBA.EVA.regular.comment.csv",8
+
+"TBA201404190",50,"$fan interference"2014TBA.EVA.regular.comment.csv",9
+
+"TBA201404200",25,"replay,4,gardb001,NYA,westj901,STP01,,Y,M,NYA,X $Brett Gardner's fly ball struck the fence in right center above the padding and below the yellow stripe; Wil Myers caught the ball on the carom and sold it as a catch, which was the ruling; Yankees manager Joe Girardi challenged the call, which was overturned by replay; Gardner had circled bases as the Rays left the field; he was put at 2B"2014TBA.EVA.regular.comment.csv",10
+
+"TBA201404200",80,"replay,11,soria001,NYA,westj901,STP01,,Y,M,TBA,A $when Ichiro Suzuki was called safe at 2B, Rays manager Joe Maddon challenged the ruling; it was overturned by replay"2014TBA.EVA.regular.comment.csv",11
+
+"TBA201404220",46,"replay,5,escoy001,TBA,barrt901,STP01,,N,U,,K $the fourth pitch to Yunel Escobar was called a foul ball when it glanced off catcher Kurt Suzuki's glove; there was some confusion about the count so crew chief Ted Barrett asked for a review after the sixth pitch; the review placed the count at 3-2 when it was actually 4-2; MLB appeared to ignore the fourth pitch, because if it was a foul ball, Escobar struck out on the fifth pitch and if it was a ball, Escobar walked on the sixth pitch"2014TBA.EVA.regular.comment.csv",12
+
+"TBA201405060",63,"$19 minute delay due to power outage; the game resumed with some lights on the catwalk not working"2014TBA.EVA.regular.comment.csv",13
+
+"TBA201405060",79,"replay,9,hanir001,TBA,westj901,STP01,,N,M,TBA,C $when Ryan Hanigan was called out at 1B, Rays manager Joe Maddon challenged the ruling, saying Ryan Flaherty missed the bag; the ruling was upheld by replay"2014TBA.EVA.regular.comment.csv",14
+
+"TBA201405080",5,"ej,hickj801,C,fostm901,Checked swing Rays Pitching Coach Jim Hickey ejected by HP umpire Marty Foster"2014TBA.EVA.regular.comment.csv",15
+
+"TBA201405080",46,"replay,5,longe001,TBA,westj901,STP01,,N,M,TBA,C $when Evan Longoria was called out at 1B, Rays manager Joe challenged the ruling, saying that Steve Pearce's foot was off the bag; the call was upheld by replay"2014TBA.EVA.regular.comment.csv",16
+
+"TBA201405090",7,"replay,1,zobrb001,TBA,wegnm901,STP01,,Y,M,TBA,C $when Ben Zobrist was called out at 1B, Rays manager Joe Maddon challenged the ruling; it was overturned by replay"2014TBA.EVA.regular.comment.csv",17
+
+"TBA201405110",46,"replay,6,morgn001,CLE,wegnm901,STP01,,Y,M,CLE,C $when Nyjer Morgan was called out at 1B, Indians manager Terry Francona challenged the ruling; it was overturned by replay"2014TBA.EVA.regular.comment.csv",18
+
+"TBA201405110",82,"replay,9,forsl001,TBA,wengm901,STP01,,N,M,TBA,C $when Logan Forsythe was called out at 1B, Rays manager Joe Maddon challenged the ruling; it was upheld by replay"2014TBA.EVA.regular.comment.csv",19
+
+"TBA201405200",26,"replay,3,jennd002,TBA,gormb901,STP01,,N,M,TBA,C $when Desmond Jennings was called out at 1B, Rays manager Joe Maddon challenged the ruling; it was upheld by replay"2014TBA.EVA.regular.comment.csv",20
+
+"TBA201405210",72,"replay,9,forsl001,TBA,gormb901,STP01,,N,U,,S $Logan Forsythe's popup struck a catwalk above the field and fell near the mound; it was ruled a fair ball and in play; after a discussion among the umpires, crew chief Brian Gorman requested a review; the call was upheld by replay"2014TBA.EVA.regular.comment.csv",21
+
+"TBA201405220",71,"replay,9,escoy001,TBA,gormb901,STP01,,Y,M,OAK,A $when Desmond Jennings was called safe at 2B, Athletics manager Bob Melvin challenged the ruling; it was overturned by replay"2014TBA.EVA.regular.comment.csv",22
+
+"TBA201405230",65,"Red Sox right fielder Shane Victorino left the game due to an injured leg"2014TBA.EVA.regular.comment.csv",23
+
+"TBA201405240",8,"replay,1,rossd001,BOS,vanol901,STP01,,Y,M,BOS,C $when David Ross was called out at 1B, Red Sox manager John Farrell chellenged the ruling; it was overturned by replay"2014TBA.EVA.regular.comment.csv",24
+
+"TBA201405240",83,"replay,10,escoy001,TBA,vanol901,STP01,,Y,M,TBA,A $when Desmond Jennings was called out at 2B, Rays manager Joe Maddon challenged the ruling; it was overturned by replay"2014TBA.EVA.regular.comment.csv",25
+
+"TBA201405240",87,"Red Sox shortstop Xander Bogaerts left the game due to an injured leg"2014TBA.EVA.regular.comment.csv",26
+
+"TBA201405250",45,"replay,5,lonej001,TBA,vanol901,STP01,,Y,M,BOS,C $when Wil Myers was called safe at 2B, Red Sox manager John Farrell challenged the ruling; the call was overturned by replay"2014TBA.EVA.regular.comment.csv",27
+
+"TBA201405250",69,"ej,escoy001,P,vanol901,Fighting ej,gomej001,P,vanol901,Fighting ej,rodrs002,P,vanol901,Fighting $Yunel Escobar pointed at the Red Sox dugout and yelled something at the players; someone yelled back and Escobar started walking toward the dugout; both benches cleared; Escobar, Jonny Gomes and Sean Rodriguez ejected by 3B umpire Larry Vanover"2014TBA.EVA.regular.comment.csv",28
+
+"TBA201406050",68,"$fan interference"2014TBA.EVA.regular.comment.csv",29
+
+"TBA201406050",70,"ej,redmm001,M,millb901,Fair/foul call Marlins Manager Mike Redmond ejected by 1B umpire Bill Miller arguing that Desmond Jennings double was foul; the ball landed in front of Miller at 1B; a fair/foul call in front of the umpire is not reviewable"2014TBA.EVA.regular.comment.csv",30
+
+"TBA201406090",38,"replay,4,jennd002,TBA,welkt901,STP01,,N,M,TBA,C $when Desmond Jennings was called out at 1B, Rays manager Joe Maddon challenged the ruling; the call was upheld by replay"2014TBA.EVA.regular.comment.csv",31
+
+"TBA201406100",5,"replay,1,kierk001,TBA,laynj901,STP01,,N,M,TBA,C $when Kevin Keirmaier was called out at 1B, Rays manager Jo Maddon challenged the ruling; the call was upheld by replay"2014TBA.EVA.regular.comment.csv",32
+
+"TBA201406100",62,"replay,8,sandj002,TBA,laynj901,STP01,,N,M,SLN,I $when Jerry Sands was ruled to have been hit by a pitch, Cardinals manager Mike Matheny challenged the call; the call was upheld by replay"2014TBA.EVA.regular.comment.csv",33
+
+"TBA201406100",68,"replay,9,forsl001,TBA,laynj901,STP01,,N,U,,C $when Logan Forsythe was called out at 1B, crew chief Jerry Layne requested a review; the call was upheld by replay"2014TBA.EVA.regular.comment.csv",34
+
+"TBA201406170",22,"replay,3,davic003,BAL,kulpr901,STP01,,Y,U,,H $Chris Davis hit a fly down the LF line; David DeJesus ran into the wall and Davis reached 2B; the ball was ruled in play; acting crew chief Ron Kulpa requested a review, which overturned the call to a home run as the ball struck the pole"2014TBA.EVA.regular.comment.csv",35
+
+"TBA201406170",46,"replay,5,longe001,TBA,kulpr901,STP01,,N,M,BAL,C $when Evan Longoria was called safe at 1B, Orioles manager Buck Showalter challenged the ruling; the call was upheld by replay"2014TBA.EVA.regular.comment.csv",36
+
+"TBA201406210",3,"replay,1,sprig001,HOU,culbf901,STP01,,Y,M,TBA,T $when Brandon Guyer was ruled to have trapped the line drive in LF, Rays manager Joe Maddon challenged the ruling; the call was overturned by replay"2014TBA.EVA.regular.comment.csv",37
+
+"TBA201406220",18,"replay,3,fowld001,HOU,culbf901,STP01,,Y,M,HOU,A $when Jonathan Villar was called out at 3B, Astros manager Bo Porter challenged the ruling; the call was overturned by replay"2014TBA.EVA.regular.comment.csv",38
+
+"TBA201406220",27,"replay,3,longe001,TBA,culbf901,STP01,,N,M,TBA,A $Desmond Jennings tried to steal HP on the return throw to the mound; when he was called out at HP, Rays manager Joe Maddon challenged the ruling; the call was upheld by replay"2014TBA.EVA.regular.comment.csv",39
+
+"TBA201406220",72,"replay,8,forsl001,TBA,culbf901,STP01,,N,U,,A $when Evan Longoria was called out at HP, crew chief Fieldin Culbreth requested a review; the call was upheld by replay"2014TBA.EVA.regular.comment.csv",40
+
+"TBA201406240",36,"$Gregory Polanco called for interference"2014TBA.EVA.regular.comment.csv",41
+
+"TBA201407110",17,"Rays center fielder Desmond Jennings left the game due to an injured knee"2014TBA.EVA.regular.comment.csv",42
+
+"TBA201407110",33,"Blue Jays left fielder Nolan Reimold left the game due to an injured leg"2014TBA.EVA.regular.comment.csv",43
+
+"TBA201407110",59,"Blue Jays shortstop Munenori Kawasaki left the game due to an injured leg"2014TBA.EVA.regular.comment.csv",44
+
+"TBA201407110",69,"replay,8,mastd002,TOR,everm901,STP01,,N,M,TBA,C $when Darin Mastroianni was called safe at 1B, Rays manager Joe Maddon challenged the ruling; the call was upheld by replay"2014TBA.EVA.regular.comment.csv",45
+
+"TBA201407120",39,"replay,5,reyej001,TOR,everm901,STP01,,N,M,TOR,A $when Jose Reyes was called out at 2B, Blue Jays manager John Gibbons challenged the ruling; the call was upheld by replay"2014TBA.EVA.regular.comment.csv",46
+
+"TBA201407130",48,"replay,6,molij001,TBA,everm901,STP01,,Y,M,TBA,A $when Yunel Escobar was called out at HP, Rays manager Joe Maddon challenged the ruling; the call was overturned by replay"2014TBA.EVA.regular.comment.csv",47
+
+"TBA201407260",3,"replay,1,ortid001,BOS,millb901,STP01,I,N,U,,H $a fan caught David Ortiz' fly ball to RF in front of the yellow line and was ruled fan interference; the call was upheld by replay"2014TBA.EVA.regular.comment.csv",48
+
+"TBA201407280",17,"replay,3,gomec002,MIL,davib902,STP01,,N,M,TBA,C $when Carlos Gomez was called safe at 1B, Rays manager Joe Maddon challenged the ruling; the call was upheld by replay"2014TBA.EVA.regular.comment.csv",49
+
+"TBA201407290",63,"ej,escoy001,P,welkb901,Balls and strikes Rays shortstop Yunel Escobar ejected by HP umpire Bill Welke after first pitch of at bat"2014TBA.EVA.regular.comment.csv",50
+
+"TBA201408010",15,"replay,2,lonej001,TBA,vanol901,STP01,O,N,U,,H $James Loney's fly to RF struck the top of the yellow line and caromed up in the air and onto the field; the ball was ruled in play; acting crew chief Larry Vanover requested a review, which upheld the call"2014TBA.EVA.regular.comment.csv",51
+
+"TBA201408020",61,"replay,6,longe001,TBA,vanol901,STP01,,N,M,ANA,A $when Brandon Guyer was called safe on a pickoff attempt, Angels manager Mike Scioscia challenged the ruling; the call was upheld by replay"2014TBA.EVA.regular.comment.csv",52
+
+"TBA201408020",85,"replay,9,iannc001,ANA,vanol901,STP01,,N,U,,P $when C.J. Cron was called out at HP, acting crew chief Larry Vanover requested a review; the call was upheld by replay saying the catcher did not block the plate without the ball and the runner was out"2014TBA.EVA.regular.comment.csv",53
+
+"TBA201408190",31,"replay,4,belnv001,TBA,davig901,STP01,F,Y,U,,H $Vince Belnome's fly ball down the RF line was ruled fair and a home run; crew chief Gerry Davis requested a review, which overturned the call to a foul ball"2014TBA.EVA.regular.comment.csv",54
+
+"TBA201408190",40,"replay,5,cabrm001,DET,davig901,STP01,,Y,M,DET,T $when Desmond Jennings was ruled to have caught Miguel Cabrera's line drive, Tigers manager Brad Ausmus challenged the ruling; the call was overturned by replay"2014TBA.EVA.regular.comment.csv",55
+
+"TBA201408300",29,"replay,4,guyeb001,TBA,laynj901,STP01,,N,M,TBA,C $when Brandon Guyer was called out at 1B, Rays manager Joe Maddon challenged the ruling; the call was upheld by replay"2014TBA.EVA.regular.comment.csv",56
+
+"TBA201409010",74,"replay,10,hanir001,TBA,laynj901,STP01,,N,M,BOS,A $when Ryan Hanigan was called safe at 2B, Red Sox manager John Farrell challenged the ruling; the call was upheld by replay"2014TBA.EVA.regular.comment.csv",57
+
+"TBA201409030",39,"replay,5,encae001,TOR,cedeg901,STP01,I,N,U,,H $Edwin Encarnacion's fly to LF was touched by a fan over the top of the wall and caromed back onto the field; the ball was ruled a home run; crew chief Gary Cederstrom requested a review which upheld the call"2014TBA.EVA.regular.comment.csv",58
+
+"TBA201409030",57,"replay,6,lonej001,TBA,cedeg901,STP01,,Y,M,TBA,A $when James Loney was called out at 2B, Rays manager Joe Maddon challenged the ruling; the call was overturned by replay"2014TBA.EVA.regular.comment.csv",59
+
+"TBA201409040",40,"replay,6,myerw001,TBA,cedeg901,STP01,,N,M,TBA,A $when Wil Myers was called out at 2B, Rays manager Joe Maddon challenged the ruling; the call was upheld by replay"2014TBA.EVA.regular.comment.csv",60
+
+"TBA201409040",72,"replay,10,kierk001,TBA,cedeg901,STP01,,N,M,TOR,C $when Kevin Kiermaier was called safe at 1B, Blue Jays manager John Gibbons challenged the ruling; the call was upheld by replay"2014TBA.EVA.regular.comment.csv",61
+
+"TBA201409150",50,"ej,headc001,P,fostm901,Balls and strikes $Chase Headley was upset at the strike one call and was told multiple times to get back in the batters box by HP umpire Marty Foster; Headley continued to talk and was ejected by Foster"2014TBA.EVA.regular.comment.csv",62
+
+"TBA201409160",48,"replay,6,joycm001,TBA,westj901,STP01,,Y,M,TBA,A $when Nick Franklin was called out at 3B, Rays manager Joe Maddon challenged the ruling; the call was overturned by replay"2014TBA.EVA.regular.comment.csv",63
+
+"TBA201409160",64,"ej,giraj001,M,drakr901,Warning to both teams $both teams warned by HP umpire Rob Drake; Yankees manager Joe Girardi came onto the field and started yelling at pitcher Steve Geltz and told Drake that Geltz should be ejected; Girardi was ejected by Drake"2014TBA.EVA.regular.comment.csv",64
+
+"TBA201409160",67,"ej,pheld001,P,drakr901,Throwing at batter ej,penat001,C,drakr901,Throwing at batter $the second pitch to Kevin Kiermaier was inside and went to the backstop; David Phelps and acting manager Tony Pena ejected by HP umpire Rob Drake; both benches emptied"2014TBA.EVA.regular.comment.csv",65
+
+"TBA201409170",60,"replay,8,younc004,NYA,fostm901,STP01,,Y,M,TBA,C $when Chris Young was called safe at 1B, Rays manager Joe Maddon challenged the ruling; the call was overturned by replay"2014TBA.EVA.regular.comment.csv",66
+
+"TBA201409200",13,"replay,2,frann001,TBA,joycj901,STP01,O,N,U,,H $Nick Franklin's fly to RF was ruled fair and a home run; crew chief Jim Joyce requested a review, which upheld the call; the ball appeared to hit a catwalk at the wall"2014TBA.EVA.regular.comment.csv",67
+
+"TBA201409200",67,"$a foul ball by Dayan Viciedo struck the mask of HP umpire Marvin Hudson, who remained in the game"2014TBA.EVA.regular.comment.csv",68
+
+"TBA201409210",54,"replay,6,myerw001,TBA,joycj901,STP01,,Y,M,TBA,C $when Wil Myers was called out at 1B, Rays manager Joe Maddon challenged the ruling; the call was overturned by replay, allowing the run to score"2014TBA.EVA.regular.comment.csv",69
+
+"TBA201409210",81,"replay,9,rodrs002,TBA,joycj901,STP01,,N,M,TBA,C $when Sean Rodriguez was called out at 1B, Rays manager Joe Maddon challenged the ruling; the call was upheld by replay"2014TBA.EVA.regular.comment.csv",70
+

@@ -1,129 +1,128 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"MIN198704070",28,"1st pitch was pitchout"
-"MIN198704070",70,"$Reggie Jackson argued he called time on strikeout pitch"
-"MIN198704070",76,"$Kirby Puckett caught ball over the wall"
-"MIN198704070",83,"$hit over drawn-in outfield"
-"MIN198704080",68,"$Kirby Puckett caught ball over wall"
-"MIN198704090",53,"Debut game for Joe Klink"
-"MIN198704220",39,"WP on 1st or 3rd pitch with count 0-0 or 1-1"
-"MIN198704250",44,"Debut game for DeWayne Buice"
-"MIN198704250",87,"$two man outfield as Doug DeCinces played between 3B and SS"
-"MIN198704260",13,"$trapped liner to CF"
-"MIN198704260",71,"Note: substitution not in TSN - needed to comply with officials"
-"MIN198705010",47,"$Mark Salas thought there were two outs"
-"MIN198705030",8,"Went on 1st pitch (called strike)"
-"MIN198705030",38,"2B umpire Richie Garcia said foul tip hit the ground but was overruled"
-"MIN198705140",62,"ej,gladd001,P,voltv901,Arguing catch/trap (from bench) Dan Gladden ejected by 1B umpire Vic Voltaggio arguing that the line drive was trapped"
-"MIN198705170",32,"$Tom Nieto's left with fractured hand"
-"MIN198705170",52,"Debut game for Tom Bolton"
-"MIN198705220",1,"Incomplete scoresheet"
-"MIN198705220",7,"Incomplete scoresheet"
-"MIN198705220",10,"Advance assumed"
-"MIN198705220",17,"Advance assumed"
-"MIN198705220",58,"no runner advance assumed"
-"MIN198705220",72,"Runner advance assumed"
-"MIN198705240",37,"$infield shifted to right; SS on 1B side of 2B"
-"MIN198705240",41,"blown squeeze play"
-"MIN198705240",62,"only 1 intentional ball"
-"MIN198705280",10,"ej,trebt801,M,mckej901,Arguing double was caught Brewers manager Tom Trebelhorn ejected by 1B umpire Jim McKean arguing that Rob Deer caught Gary Gaetti's double"
-"MIN198705280",27,"$ball lined off wall and bounced back to ss"
-"MIN198706060",93,"Only last ball intentional"
-"MIN198706070",74,"Debut game for Paul Kilgus"
-"MIN198706080",24,"$misplayed pop fly"
-"MIN198706100",22,"$no one covered 2B"
-"MIN198706100",80,"1st three balls unintentional"
-"MIN198706230",65,"$Joe Carter suffered broken nose"
-"MIN198706250",41,"$lined off Bert Blyleven's leg"
-"MIN198707040",48,"ej,ripkc801,M,tscht901,Balls and strikes $Orioles manager Ripken ejected by HP umpire Tschida for arguing called strike to Ripken"
-"MIN198707050",44,"ej,lynnf001,P,bremn901,Called third strike Fred Lynn ejected by HP umpire Nick Bremigan"
-"MIN198707050",54,"$ball hit 1B bag"
-"MIN198707170",72,"$Tom Brunansky rounded 3B on fake throw to 1B"
-"MIN198707190",69,"$Tom Brunansky dropped pop up"
-"MIN198707210",52,"$Kirby Puckett caught the ball over the wall"
-"MIN198707210",68,"$Gary Ward beat the throw but missed HP"
-"MIN198707220",63,"$Kirby Puckett caught the ball over the wall"
-"MIN198708060",83,"$Alfredo Griffin's fake throw to 1B lured Gary Gaetti off 2B"
-"MIN198708070",32,"$Steve Lombardozzi tipped ground ball to Greg Gagne"
-"MIN198708070",44,"$both benches cleared and brawl ensued"
-"MIN198708090",21,"$Kirby Puckett caught the ball over the wall"
-"MIN198708120",23,"$Devon White caught the ball over the wall"
-"MIN198708160",8,"ej,connb101,C,scotd901,Balls and strikes $Mariners coach Connors ejected by HP umpire Scott for arguing balls and strikes after Gaetti's double"
-"MIN198708240",1,"ej,whitl001,P,phild901,Called third strike Lou Whitaker ejected by HP umpire Dave Phillips"
-"MIN198708240",24,"$Dan Gladden injured on slide"
-"MIN198708260",53,"$fouled off 5 straight pitches before home run"
-"MIN198709020",19,"$obstruction called on Al Nipper, who was injured"
-"MIN198709020",63,"Gary Gaetti called for interference at 2B"
-"MIN198709040",62,"$ball hit Len Barker, who was hurt"
-"MIN198709040",85,"$Mark Clear's first pitch to Kirby Puckett was a brushback"
-"MIN198709040",94,"$Chris Pittaro caught in rundown but Greg Brock dropped throw"
-"MIN198709060",5,"$Kent Hrbek threw home but Paul Molitor returned safely to 3B"
-"MIN198709230",61,"ej,parrl002,P,merrd901,Call at 1B Larry Parrish ejected by 1B umpire Durwood Merrill"
-"MIN198709240",32,"$Tom Nieto called for interference for running into his own bunt"
-"MIN198709240",48,"$Bob Brower missed diving catch and ball rolled to wall"
-"MIN198709240",70,"$fouled off 5 stright pitches before walk"
-"MIN198709250",32,"$George Brett rounded 3B too far"
-"MIN198709270",28,"$both teams warned after brushback fastball on 1st pitch"
-"MIN198704070",28,"1st pitch was pitchout"
-"MIN198704070",70,"$Reggie Jackson argued he called time on strikeout pitch"
-"MIN198704070",76,"$Kirby Puckett caught ball over the wall"
-"MIN198704070",83,"$hit over drawn-in outfield"
-"MIN198704080",68,"$Kirby Puckett caught ball over wall"
-"MIN198704090",53,"Debut game for Joe Klink"
-"MIN198704220",39,"WP on 1st or 3rd pitch with count 0-0 or 1-1"
-"MIN198704250",44,"Debut game for DeWayne Buice"
-"MIN198704250",87,"$two man outfield as Doug DeCinces played between 3B and SS"
-"MIN198704260",13,"$trapped liner to CF"
-"MIN198704260",71,"Note: substitution not in TSN - needed to comply with officials"
-"MIN198705010",47,"$Mark Salas thought there were two outs"
-"MIN198705030",8,"Went on 1st pitch (called strike)"
-"MIN198705030",38,"2B umpire Richie Garcia said foul tip hit the ground but was overruled"
-"MIN198705140",62,"ej,gladd001,P,voltv901,Arguing catch/trap (from bench) Dan Gladden ejected by 1B umpire Vic Voltaggio arguing that the line drive was trapped"
-"MIN198705170",32,"$Tom Nieto's left with fractured hand"
-"MIN198705170",52,"Debut game for Tom Bolton"
-"MIN198705220",1,"Incomplete scoresheet"
-"MIN198705220",7,"Incomplete scoresheet"
-"MIN198705220",10,"Advance assumed"
-"MIN198705220",17,"Advance assumed"
-"MIN198705220",58,"no runner advance assumed"
-"MIN198705220",72,"Runner advance assumed"
-"MIN198705240",37,"$infield shifted to right; SS on 1B side of 2B"
-"MIN198705240",41,"blown squeeze play"
-"MIN198705240",62,"only 1 intentional ball"
-"MIN198705280",10,"ej,trebt801,M,mckej901,Arguing double was caught Brewers manager Tom Trebelhorn ejected by 1B umpire Jim McKean arguing that Rob Deer caught Gary Gaetti's double"
-"MIN198705280",27,"$ball lined off wall and bounced back to ss"
-"MIN198706060",93,"Only last ball intentional"
-"MIN198706070",74,"Debut game for Paul Kilgus"
-"MIN198706080",24,"$misplayed pop fly"
-"MIN198706100",22,"$no one covered 2B"
-"MIN198706100",80,"1st three balls unintentional"
-"MIN198706230",65,"$Joe Carter suffered broken nose"
-"MIN198706250",41,"$lined off Bert Blyleven's leg"
-"MIN198707040",48,"ej,ripkc801,M,tscht901,Balls and strikes $Orioles manager Ripken ejected by HP umpire Tschida for arguing called strike to Ripken"
-"MIN198707050",44,"ej,lynnf001,P,bremn901,Called third strike Fred Lynn ejected by HP umpire Nick Bremigan"
-"MIN198707050",54,"$ball hit 1B bag"
-"MIN198707170",72,"$Tom Brunansky rounded 3B on fake throw to 1B"
-"MIN198707190",69,"$Tom Brunansky dropped pop up"
-"MIN198707210",52,"$Kirby Puckett caught the ball over the wall"
-"MIN198707210",68,"$Gary Ward beat the throw but missed HP"
-"MIN198707220",63,"$Kirby Puckett caught the ball over the wall"
-"MIN198708060",83,"$Alfredo Griffin's fake throw to 1B lured Gary Gaetti off 2B"
-"MIN198708070",32,"$Steve Lombardozzi tipped ground ball to Greg Gagne"
-"MIN198708070",44,"$both benches cleared and brawl ensued"
-"MIN198708090",21,"$Kirby Puckett caught the ball over the wall"
-"MIN198708120",23,"$Devon White caught the ball over the wall"
-"MIN198708160",8,"ej,connb101,C,scotd901,Balls and strikes $Mariners coach Connors ejected by HP umpire Scott for arguing balls and strikes after Gaetti's double"
-"MIN198708240",1,"ej,whitl001,P,phild901,Called third strike Lou Whitaker ejected by HP umpire Dave Phillips"
-"MIN198708240",24,"$Dan Gladden injured on slide"
-"MIN198708260",53,"$fouled off 5 straight pitches before home run"
-"MIN198709020",19,"$obstruction called on Al Nipper, who was injured"
-"MIN198709020",63,"Gary Gaetti called for interference at 2B"
-"MIN198709040",62,"$ball hit Len Barker, who was hurt"
-"MIN198709040",85,"$Mark Clear's first pitch to Kirby Puckett was a brushback"
-"MIN198709040",94,"$Chris Pittaro caught in rundown but Greg Brock dropped throw"
-"MIN198709060",5,"$Kent Hrbek threw home but Paul Molitor returned safely to 3B"
-"MIN198709230",61,"ej,parrl002,P,merrd901,Call at 1B Larry Parrish ejected by 1B umpire Durwood Merrill"
-"MIN198709240",32,"$Tom Nieto called for interference for running into his own bunt"
-"MIN198709240",48,"$Bob Brower missed diving catch and ball rolled to wall"
-"MIN198709240",70,"$fouled off 5 stright pitches before walk"
-"MIN198709250",32,"$George Brett rounded 3B too far"
-"MIN198709270",28,"$both teams warned after brushback fastball on 1st pitch"
+"MIN198704070",28,"1st pitch was pitchout"FILENAME_TX","LINE_NUMBER_CT"
+
+"MIN198704070",70,"$Reggie Jackson argued he called time on strikeout pitch"1987MIN.EVA.regular.comment.csv",2
+
+"MIN198704070",76,"$Kirby Puckett caught ball over the wall"1987MIN.EVA.regular.comment.csv",3
+
+"MIN198704070",83,"$hit over drawn-in outfield"1987MIN.EVA.regular.comment.csv",4
+
+"MIN198704080",68,"$Kirby Puckett caught ball over wall"1987MIN.EVA.regular.comment.csv",5
+
+"MIN198704090",53,"Debut game for Joe Klink"1987MIN.EVA.regular.comment.csv",6
+
+"MIN198704220",39,"WP on 1st or 3rd pitch with count 0-0 or 1-1"1987MIN.EVA.regular.comment.csv",7
+
+"MIN198704250",44,"Debut game for DeWayne Buice"1987MIN.EVA.regular.comment.csv",8
+
+"MIN198704250",87,"$two man outfield as Doug DeCinces played between 3B and SS"1987MIN.EVA.regular.comment.csv",9
+
+"MIN198704260",13,"$trapped liner to CF"1987MIN.EVA.regular.comment.csv",10
+
+"MIN198704260",71,"Note: substitution not in TSN - needed to comply with officials"1987MIN.EVA.regular.comment.csv",11
+
+"MIN198705010",47,"$Mark Salas thought there were two outs"1987MIN.EVA.regular.comment.csv",12
+
+"MIN198705030",8,"Went on 1st pitch (called strike)"1987MIN.EVA.regular.comment.csv",13
+
+"MIN198705030",38,"2B umpire Richie Garcia said foul tip hit the ground but was overruled"1987MIN.EVA.regular.comment.csv",14
+
+"MIN198705140",62,"ej,gladd001,P,voltv901,Arguing catch/trap (from bench) Dan Gladden ejected by 1B umpire Vic Voltaggio arguing that the line drive was trapped"1987MIN.EVA.regular.comment.csv",15
+
+"MIN198705170",32,"$Tom Nieto's left with fractured hand"1987MIN.EVA.regular.comment.csv",16
+
+"MIN198705170",52,"Debut game for Tom Bolton"1987MIN.EVA.regular.comment.csv",17
+
+"MIN198705220",1,"Incomplete scoresheet"1987MIN.EVA.regular.comment.csv",18
+
+"MIN198705220",7,"Incomplete scoresheet"1987MIN.EVA.regular.comment.csv",19
+
+"MIN198705220",10,"Advance assumed"1987MIN.EVA.regular.comment.csv",20
+
+"MIN198705220",17,"Advance assumed"1987MIN.EVA.regular.comment.csv",21
+
+"MIN198705220",58,"no runner advance assumed"1987MIN.EVA.regular.comment.csv",22
+
+"MIN198705220",72,"Runner advance assumed"1987MIN.EVA.regular.comment.csv",23
+
+"MIN198705240",37,"$infield shifted to right; SS on 1B side of 2B"1987MIN.EVA.regular.comment.csv",24
+
+"MIN198705240",41,"blown squeeze play"1987MIN.EVA.regular.comment.csv",25
+
+"MIN198705240",62,"only 1 intentional ball"1987MIN.EVA.regular.comment.csv",26
+
+"MIN198705280",10,"ej,trebt801,M,mckej901,Arguing double was caught Brewers manager Tom Trebelhorn ejected by 1B umpire Jim McKean arguing that Rob Deer caught Gary Gaetti's double"1987MIN.EVA.regular.comment.csv",27
+
+"MIN198705280",27,"$ball lined off wall and bounced back to ss"1987MIN.EVA.regular.comment.csv",28
+
+"MIN198706060",93,"Only last ball intentional"1987MIN.EVA.regular.comment.csv",29
+
+"MIN198706070",74,"Debut game for Paul Kilgus"1987MIN.EVA.regular.comment.csv",30
+
+"MIN198706080",24,"$misplayed pop fly"1987MIN.EVA.regular.comment.csv",31
+
+"MIN198706100",22,"$no one covered 2B"1987MIN.EVA.regular.comment.csv",32
+
+"MIN198706100",80,"1st three balls unintentional"1987MIN.EVA.regular.comment.csv",33
+
+"MIN198706230",65,"$Joe Carter suffered broken nose"1987MIN.EVA.regular.comment.csv",34
+
+"MIN198706250",41,"$lined off Bert Blyleven's leg"1987MIN.EVA.regular.comment.csv",35
+
+"MIN198707040",48,"ej,ripkc801,M,tscht901,Balls and strikes $Orioles manager Ripken ejected by HP umpire Tschida for arguing called strike to Ripken"1987MIN.EVA.regular.comment.csv",36
+
+"MIN198707050",44,"ej,lynnf001,P,bremn901,Called third strike Fred Lynn ejected by HP umpire Nick Bremigan"1987MIN.EVA.regular.comment.csv",37
+
+"MIN198707050",54,"$ball hit 1B bag"1987MIN.EVA.regular.comment.csv",38
+
+"MIN198707170",72,"$Tom Brunansky rounded 3B on fake throw to 1B"1987MIN.EVA.regular.comment.csv",39
+
+"MIN198707190",69,"$Tom Brunansky dropped pop up"1987MIN.EVA.regular.comment.csv",40
+
+"MIN198707210",52,"$Kirby Puckett caught the ball over the wall"1987MIN.EVA.regular.comment.csv",41
+
+"MIN198707210",68,"$Gary Ward beat the throw but missed HP"1987MIN.EVA.regular.comment.csv",42
+
+"MIN198707220",63,"$Kirby Puckett caught the ball over the wall"1987MIN.EVA.regular.comment.csv",43
+
+"MIN198708060",83,"$Alfredo Griffin's fake throw to 1B lured Gary Gaetti off 2B"1987MIN.EVA.regular.comment.csv",44
+
+"MIN198708070",32,"$Steve Lombardozzi tipped ground ball to Greg Gagne"1987MIN.EVA.regular.comment.csv",45
+
+"MIN198708070",44,"$both benches cleared and brawl ensued"1987MIN.EVA.regular.comment.csv",46
+
+"MIN198708090",21,"$Kirby Puckett caught the ball over the wall"1987MIN.EVA.regular.comment.csv",47
+
+"MIN198708120",23,"$Devon White caught the ball over the wall"1987MIN.EVA.regular.comment.csv",48
+
+"MIN198708160",8,"ej,connb101,C,scotd901,Balls and strikes $Mariners coach Connors ejected by HP umpire Scott for arguing balls and strikes after Gaetti's double"1987MIN.EVA.regular.comment.csv",49
+
+"MIN198708240",1,"ej,whitl001,P,phild901,Called third strike Lou Whitaker ejected by HP umpire Dave Phillips"1987MIN.EVA.regular.comment.csv",50
+
+"MIN198708240",24,"$Dan Gladden injured on slide"1987MIN.EVA.regular.comment.csv",51
+
+"MIN198708260",53,"$fouled off 5 straight pitches before home run"1987MIN.EVA.regular.comment.csv",52
+
+"MIN198709020",19,"$obstruction called on Al Nipper, who was injured"1987MIN.EVA.regular.comment.csv",53
+
+"MIN198709020",63,"Gary Gaetti called for interference at 2B"1987MIN.EVA.regular.comment.csv",54
+
+"MIN198709040",62,"$ball hit Len Barker, who was hurt"1987MIN.EVA.regular.comment.csv",55
+
+"MIN198709040",85,"$Mark Clear's first pitch to Kirby Puckett was a brushback"1987MIN.EVA.regular.comment.csv",56
+
+"MIN198709040",94,"$Chris Pittaro caught in rundown but Greg Brock dropped throw"1987MIN.EVA.regular.comment.csv",57
+
+"MIN198709060",5,"$Kent Hrbek threw home but Paul Molitor returned safely to 3B"1987MIN.EVA.regular.comment.csv",58
+
+"MIN198709230",61,"ej,parrl002,P,merrd901,Call at 1B Larry Parrish ejected by 1B umpire Durwood Merrill"1987MIN.EVA.regular.comment.csv",59
+
+"MIN198709240",32,"$Tom Nieto called for interference for running into his own bunt"1987MIN.EVA.regular.comment.csv",60
+
+"MIN198709240",48,"$Bob Brower missed diving catch and ball rolled to wall"1987MIN.EVA.regular.comment.csv",61
+
+"MIN198709240",70,"$fouled off 5 stright pitches before walk"1987MIN.EVA.regular.comment.csv",62
+
+"MIN198709250",32,"$George Brett rounded 3B too far"1987MIN.EVA.regular.comment.csv",63
+
+"MIN198709270",28,"$both teams warned after brushback fastball on 1st pitch"1987MIN.EVA.regular.comment.csv",64
+

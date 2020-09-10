@@ -1,25 +1,24 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"SDN198704130",60,"ej,bowal001,M,engeb901,Interference call $Padres manager Bowa ejected by 2B umpire Engel for arguing interference call on Flannery to complete DP"
-"SDN198704140",3,"$Jeffrey Leonard swung at a pitchout"
-"SDN198704140",29,"$pitchout on pick off"
-"SDN198704140",40,"$Will Clark claimed the ball hit his foot"
-"SDN198705040",22,"$pitchout on caught stealing"
-"SDN198705040",43,"$pitchout on caught stealing"
-"SDN198705050",87,"ej,bowal001,M,demud901,Arguing foul ball was actually WP $Padres manager Bowa ejected by HP umpire DeMuth for arguing that Templeton had missed a pitch that appeared to be a wild pitch, but umpire ruled he had ticked it for a foul"
-"SDN198705220",51,"$pitchout on caught stealing"
-"SDN198705220",68,"$pitchout on caught stealing"
-"SDN198705250",15,"Debut game for Shane Mack"
-"SDN198705310",20,"$pitchout on caught stealing"
-"SDN198709110",51,"Debut game for Rob Mallicoat"
-"SDN198704130",60,"ej,bowal001,M,engeb901,Interference call $Padres manager Bowa ejected by 2B umpire Engel for arguing interference call on Flannery to complete DP"
-"SDN198704140",3,"$Jeffrey Leonard swung at a pitchout"
-"SDN198704140",29,"$pitchout on pick off"
-"SDN198704140",40,"$Will Clark claimed the ball hit his foot"
-"SDN198705040",22,"$pitchout on caught stealing"
-"SDN198705040",43,"$pitchout on caught stealing"
-"SDN198705050",87,"ej,bowal001,M,demud901,Arguing foul ball was actually WP $Padres manager Bowa ejected by HP umpire DeMuth for arguing that Templeton had missed a pitch that appeared to be a wild pitch, but umpire ruled he had ticked it for a foul"
-"SDN198705220",51,"$pitchout on caught stealing"
-"SDN198705220",68,"$pitchout on caught stealing"
-"SDN198705250",15,"Debut game for Shane Mack"
-"SDN198705310",20,"$pitchout on caught stealing"
-"SDN198709110",51,"Debut game for Rob Mallicoat"
+"SDN198704130",60,"ej,bowal001,M,engeb901,Interference call $Padres manager Bowa ejected by 2B umpire Engel for arguing interference call on Flannery to complete DP"FILENAME_TX","LINE_NUMBER_CT"
+
+"SDN198704140",3,"$Jeffrey Leonard swung at a pitchout"1987SDN.EVN.regular.comment.csv",2
+
+"SDN198704140",29,"$pitchout on pick off"1987SDN.EVN.regular.comment.csv",3
+
+"SDN198704140",40,"$Will Clark claimed the ball hit his foot"1987SDN.EVN.regular.comment.csv",4
+
+"SDN198705040",22,"$pitchout on caught stealing"1987SDN.EVN.regular.comment.csv",5
+
+"SDN198705040",43,"$pitchout on caught stealing"1987SDN.EVN.regular.comment.csv",6
+
+"SDN198705050",87,"ej,bowal001,M,demud901,Arguing foul ball was actually WP $Padres manager Bowa ejected by HP umpire DeMuth for arguing that Templeton had missed a pitch that appeared to be a wild pitch, but umpire ruled he had ticked it for a foul"1987SDN.EVN.regular.comment.csv",7
+
+"SDN198705220",51,"$pitchout on caught stealing"1987SDN.EVN.regular.comment.csv",8
+
+"SDN198705220",68,"$pitchout on caught stealing"1987SDN.EVN.regular.comment.csv",9
+
+"SDN198705250",15,"Debut game for Shane Mack"1987SDN.EVN.regular.comment.csv",10
+
+"SDN198705310",20,"$pitchout on caught stealing"1987SDN.EVN.regular.comment.csv",11
+
+"SDN198709110",51,"Debut game for Rob Mallicoat"1987SDN.EVN.regular.comment.csv",12
+

@@ -1,15 +1,14 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"ATL199405080",60,"Debut game for Mike Mordecai"
-"ATL199405090",25,"ej,judej001,P,demud901,Intentional HBP Jeff Juden ejected by HP umpire Dana DeMuth"
-"ATL199406030",55,"Debut game for Eddie Pye"
-"ATL199406200",0,"$the umpires had worked in St. Louis on the previous day; their equipment did not arrive on time for this game, so they wore Braves caps and t-shirts amd shorts"
-"ATL199407050",0,"ej,cox-b103,M,wintm901,Call at 1B Braves manager Bobby Cox ejected by 1B umpire Mike Winters sometime in game"
-"ATL199407050",53,"game called for rain"
-"ATL199407290",62,"Debut game for Ricky Bottalico"
-"ATL199405080",60,"Debut game for Mike Mordecai"
-"ATL199405090",25,"ej,judej001,P,demud901,Intentional HBP Jeff Juden ejected by HP umpire Dana DeMuth"
-"ATL199406030",55,"Debut game for Eddie Pye"
-"ATL199406200",0,"$the umpires had worked in St. Louis on the previous day; their equipment did not arrive on time for this game, so they wore Braves caps and t-shirts amd shorts"
-"ATL199407050",44,"ej,cox-b103,M,wintm901,Call at 1B $Braves manager Cox ejected by 1B umpire Winters for Hunter was out at 1st"
-"ATL199407050",53,"game called for rain"
-"ATL199407290",62,"Debut game for Ricky Bottalico"
+"ATL199405080",60,"Debut game for Mike Mordecai"FILENAME_TX","LINE_NUMBER_CT"
+
+"ATL199405090",25,"ej,judej001,P,demud901,Intentional HBP Jeff Juden ejected by HP umpire Dana DeMuth"1994ATL.EVN.regular.comment.csv",2
+
+"ATL199406030",55,"Debut game for Eddie Pye"1994ATL.EVN.regular.comment.csv",3
+
+"ATL199406200",0,"$the umpires had worked in St. Louis on the previous day; their equipment did not arrive on time for this game, so they wore Braves caps and t-shirts amd shorts"1994ATL.EVN.regular.comment.csv",4
+
+"ATL199407050",44,"ej,cox-b103,M,wintm901,Call at 1B $Braves manager Cox ejected by 1B umpire Winters for Hunter was out at 1st"1994ATL.EVN.regular.comment.csv",5
+
+"ATL199407050",53,"game called for rain"1994ATL.EVN.regular.comment.csv",6
+
+"ATL199407290",62,"Debut game for Ricky Bottalico"1994ATL.EVN.regular.comment.csv",7
+

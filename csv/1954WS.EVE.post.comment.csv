@@ -1,27 +1,26 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"NY1195409290",34,"beyond third into left field"
-"NY1195409290",62,"off Dark's hand"
-"NY1195409290",63,"The Catch; over the shoulder at the 460' mark in center DV: Mays more proud of the throw following the catch"
-"NY1195409300",11,"down the left field line"
-"NY1195409300",29,"fantastic stop by Thompson"
-"NY1195409300",46,"off the left field wall"
-"NY1195409300",68,"off Antonelli's glove"
-"CLE195410010",21,"through short"
-"CLE195410010",22,"JFB: rundown is incompletely described; simplest assumed"
-"CLE195410010",65,"Mueller dropped the fly after a long run"
-"CLE195410020",15,"off the right-center field fence"
-"CLE195410020",22,"into the left field corner"
-"CLE195410020",56,"off Avila's glove"
-"NY1195409290",34,"beyond third into left field"
-"NY1195409290",62,"off Dark's hand"
-"NY1195409290",63,"$The Catch; over the shoulder at the 460' mark in center"
-"NY1195409300",11,"down the left field line"
-"NY1195409300",29,"fantastic stop by Thompson"
-"NY1195409300",46,"off the left field wall"
-"NY1195409300",68,"$off Antonelli's glove"
-"CLE195410010",21,"through short"
-"CLE195410010",65,"Mueller dropped the fly after a long run"
-"CLE195410020",15,"off the right-center field fence"
-"CLE195410020",22,"into the left field corner"
-"CLE195410020",56,"off Avila's glove"
-"CLE195410020",68,"$Avila swung and missed at what appeared to be wild pitch"
+"NY1195409290",34,"beyond third into left field"FILENAME_TX","LINE_NUMBER_CT"
+
+"NY1195409290",62,"off Dark's hand"1954WS.EVE.post.comment.csv",2
+
+"NY1195409290",63,"$The Catch; over the shoulder at the 460' mark in center"1954WS.EVE.post.comment.csv",3
+
+"NY1195409300",11,"down the left field line"1954WS.EVE.post.comment.csv",4
+
+"NY1195409300",29,"fantastic stop by Thompson"1954WS.EVE.post.comment.csv",5
+
+"NY1195409300",46,"off the left field wall"1954WS.EVE.post.comment.csv",6
+
+"NY1195409300",68,"$off Antonelli's glove"1954WS.EVE.post.comment.csv",7
+
+"CLE195410010",21,"through short"1954WS.EVE.post.comment.csv",8
+
+"CLE195410010",65,"Mueller dropped the fly after a long run"1954WS.EVE.post.comment.csv",9
+
+"CLE195410020",15,"off the right-center field fence"1954WS.EVE.post.comment.csv",10
+
+"CLE195410020",22,"into the left field corner"1954WS.EVE.post.comment.csv",11
+
+"CLE195410020",56,"off Avila's glove"1954WS.EVE.post.comment.csv",12
+
+"CLE195410020",68,"$Avila swung and missed at what appeared to be wild pitch"1954WS.EVE.post.comment.csv",13
+

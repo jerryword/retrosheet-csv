@@ -1,29 +1,28 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"MON199704260",28,"ej,segud001,P,drecb901,Balls and strikes David Segui ejected by HP umpire Bruce Dreckman"
-"MON199705140",20,"ej,worrt002,P,relic901,Intentional HBP Tim Worrell ejected by HP umpire Charlie Reliford"
-"MON199705140",66,"ej,scott002,P,relic901,Intentional HBP Tim Scott ejected by HP umpire Charlie Reliford"
-"MON199705260",55,"IPHR"
-"MON199706050",18,"Debut game for Ryan McGuire"
-"MON199706060",0,"Debut for umpire Paul Schrieber"
-"MON199706080",60,"Debut game for Jose Vidro"
-"MON199707220",28,"Debut game for Steve Falteisek"
-"MON199708070",13,"Debut game for Adam Riggs"
-"MON199709010",17,"Debut game for Michael Coleman"
-"MON199709020",1,"Debut game for Mike Thurman"
-"MON199709020",36,"Debut game for Brad Fullmer"
-"MON199709030",19,"ej,grudm001,P,davib902,Called third strike Mark Grudzielanek ejected by HP umpire Bob Davidson"
-"MON199709030",22,"Debut game for Orlando Cabrera"
-"MON199704260",28,"ej,segud001,P,drecb901,Balls and strikes David Segui ejected by HP umpire Bruce Dreckman"
-"MON199705140",20,"ej,worrt002,P,relic901,Intentional HBP Tim Worrell ejected by HP umpire Charlie Reliford"
-"MON199705140",66,"ej,scott002,P,relic901,Intentional HBP Tim Scott ejected by HP umpire Charlie Reliford"
-"MON199705260",55,"IPHR"
-"MON199706050",18,"Debut game for Ryan McGuire"
-"MON199706060",0,"Debut for umpire Paul Schrieber"
-"MON199706080",60,"Debut game for Jose Vidro"
-"MON199707220",28,"Debut game for Steve Falteisek"
-"MON199708070",13,"Debut game for Adam Riggs"
-"MON199709010",17,"Debut game for Michael Coleman"
-"MON199709020",1,"Debut game for Mike Thurman"
-"MON199709020",36,"Debut game for Brad Fullmer"
-"MON199709030",19,"ej,grudm001,P,davib902,Called third strike Mark Grudzielanek ejected by HP umpire Bob Davidson"
-"MON199709030",22,"Debut game for Orlando Cabrera"
+"MON199704260",28,"ej,segud001,P,drecb901,Balls and strikes David Segui ejected by HP umpire Bruce Dreckman"FILENAME_TX","LINE_NUMBER_CT"
+
+"MON199705140",20,"ej,worrt002,P,relic901,Intentional HBP Tim Worrell ejected by HP umpire Charlie Reliford"1997MON.EVN.regular.comment.csv",2
+
+"MON199705140",66,"ej,scott002,P,relic901,Intentional HBP Tim Scott ejected by HP umpire Charlie Reliford"1997MON.EVN.regular.comment.csv",3
+
+"MON199705260",55,"IPHR"1997MON.EVN.regular.comment.csv",4
+
+"MON199706050",18,"Debut game for Ryan McGuire"1997MON.EVN.regular.comment.csv",5
+
+"MON199706060",0,"Debut for umpire Paul Schrieber"1997MON.EVN.regular.comment.csv",6
+
+"MON199706080",60,"Debut game for Jose Vidro"1997MON.EVN.regular.comment.csv",7
+
+"MON199707220",28,"Debut game for Steve Falteisek"1997MON.EVN.regular.comment.csv",8
+
+"MON199708070",13,"Debut game for Adam Riggs"1997MON.EVN.regular.comment.csv",9
+
+"MON199709010",17,"Debut game for Michael Coleman"1997MON.EVN.regular.comment.csv",10
+
+"MON199709020",1,"Debut game for Mike Thurman"1997MON.EVN.regular.comment.csv",11
+
+"MON199709020",36,"Debut game for Brad Fullmer"1997MON.EVN.regular.comment.csv",12
+
+"MON199709030",19,"ej,grudm001,P,davib902,Called third strike Mark Grudzielanek ejected by HP umpire Bob Davidson"1997MON.EVN.regular.comment.csv",13
+
+"MON199709030",22,"Debut game for Orlando Cabrera"1997MON.EVN.regular.comment.csv",14
+

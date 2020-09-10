@@ -1,41 +1,40 @@
-GAME_ID,EVENT_ID,COMMENT_TX
-"SLA193405220",91,"Runner at 3rd did not advance"
-"SLA193405230",60,"Remainder of game from scorecard."
-"SLA193405280",17,"$No one covered second base"
-"SLA193405280",51,"$Yankees originally had Burns in rundown then abandoned that to get Pepper at 2nd"
-"SLA193405301",3,"$ball rolled through lf legs, E7, out trying for 3b"
-"SLA193406020",36,"$hit on the head"
-"SLA193406020",42,"$Lloyd Brown left with heat exhaustion"
-"SLA193406300",67,"rain delay"
-"SLA193407220",26,"$Hemsley threw down to first to try to pick off Travis; Cronin tried for third; Burns's throw to third would have beaten Cronin, but the ball got away and both runners were safe."
-"SLA193407282",11,"ej,gharp101,C,owenb901,Call at 1B $Indians coach Gharrity ejected for arguing call at 1B"
-"SLA193407300",5,"$Al Simmons injured right hand on play at HP"
-"SLA193407300",68,"$Harlond Clift left with injured hand"
-"SLA193408020",78,"DWS: pbp ends here, rest deduced"
-"SLA193409010",31,"rain started"
-"SLA193409010",44,"Game called for rain"
-"SLA193409032",29,"$Garbark injured at HP"
-"SLA193409072",65,"$Hidden ball trick"
-"SLA193409092",52,"$Game called for darkness"
-"SLA193409180",13,"ej,ferrr101,P,kolll901,Arguing strike 3 ej,ferrw101,P,kolll901,Arguing strike 3 $Wes and Rick Ferrell both ejected by HP umpire Kolls for arguing called third strike to Wes"
-"SLA193409222",77,"$Game called for darkness"
-"SLA193405220",91,"Runner at 3rd did not advance"
-"SLA193405230",60,"Remainder of game from scorecard."
-"SLA193405280",17,"$No one covered second base"
-"SLA193405280",51,"$Yankees originally had Burns in rundown then abandoned that to get Pepper at 2nd"
-"SLA193405301",3,"$ball rolled through lf legs, E7, out trying for 3b"
-"SLA193406020",36,"$hit on the head"
-"SLA193406020",42,"$Lloyd Brown left with heat exhaustion"
-"SLA193406300",67,"rain delay"
-"SLA193407220",26,"$Hemsley threw down to first to try to pick off Travis; Cronin tried for third; Burns's throw to third would have beaten Cronin, but the ball got away and both runners were safe."
-"SLA193407282",11,"ej,gharp101,C,owenb901,Call at 1B $Indians coach Gharrity ejected for arguing call at 1B"
-"SLA193407300",5,"$Al Simmons injured right hand on play at HP"
-"SLA193407300",68,"$Harlond Clift left with injured hand"
-"SLA193408020",78,"DWS: pbp ends here, rest deduced"
-"SLA193409010",31,"rain started"
-"SLA193409010",44,"Game called for rain"
-"SLA193409032",29,"$Garbark injured at HP"
-"SLA193409072",65,"$Hidden ball trick"
-"SLA193409092",52,"$Game called for darkness"
-"SLA193409180",13,"ej,ferrr101,P,kolll901,Called third strike ej,ferrw101,P,kolll901,Called third strike $Wes and Rick Ferrell both ejected by HP umpire Kolls for arguing called third strike to Wes"
-"SLA193409222",77,"$Game called for darkness"
+"SLA193405220",91,"Runner at 3rd did not advance"FILENAME_TX","LINE_NUMBER_CT"
+
+"SLA193405230",60,"Remainder of game from scorecard."1934SLA.EVA.regular.comment.csv",2
+
+"SLA193405280",17,"$No one covered second base"1934SLA.EVA.regular.comment.csv",3
+
+"SLA193405280",51,"$Yankees originally had Burns in rundown then abandoned that to get Pepper at 2nd"1934SLA.EVA.regular.comment.csv",4
+
+"SLA193405301",3,"$ball rolled through lf legs, E7, out trying for 3b"1934SLA.EVA.regular.comment.csv",5
+
+"SLA193406020",36,"$hit on the head"1934SLA.EVA.regular.comment.csv",6
+
+"SLA193406020",42,"$Lloyd Brown left with heat exhaustion"1934SLA.EVA.regular.comment.csv",7
+
+"SLA193406300",67,"rain delay"1934SLA.EVA.regular.comment.csv",8
+
+"SLA193407220",26,"$Hemsley threw down to first to try to pick off Travis; Cronin tried for third; Burns's throw to third would have beaten Cronin, but the ball got away and both runners were safe."1934SLA.EVA.regular.comment.csv",9
+
+"SLA193407282",11,"ej,gharp101,C,owenb901,Call at 1B $Indians coach Gharrity ejected for arguing call at 1B"1934SLA.EVA.regular.comment.csv",10
+
+"SLA193407300",5,"$Al Simmons injured right hand on play at HP"1934SLA.EVA.regular.comment.csv",11
+
+"SLA193407300",68,"$Harlond Clift left with injured hand"1934SLA.EVA.regular.comment.csv",12
+
+"SLA193408020",78,"DWS: pbp ends here, rest deduced"1934SLA.EVA.regular.comment.csv",13
+
+"SLA193409010",31,"rain started"1934SLA.EVA.regular.comment.csv",14
+
+"SLA193409010",44,"Game called for rain"1934SLA.EVA.regular.comment.csv",15
+
+"SLA193409032",29,"$Garbark injured at HP"1934SLA.EVA.regular.comment.csv",16
+
+"SLA193409072",65,"$Hidden ball trick"1934SLA.EVA.regular.comment.csv",17
+
+"SLA193409092",52,"$Game called for darkness"1934SLA.EVA.regular.comment.csv",18
+
+"SLA193409180",13,"ej,ferrr101,P,kolll901,Called third strike ej,ferrw101,P,kolll901,Called third strike $Wes and Rick Ferrell both ejected by HP umpire Kolls for arguing called third strike to Wes"1934SLA.EVA.regular.comment.csv",19
+
+"SLA193409222",77,"$Game called for darkness"1934SLA.EVA.regular.comment.csv",20
+
