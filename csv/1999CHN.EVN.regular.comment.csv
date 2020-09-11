@@ -1,19 +1,20 @@
-"CHN199904230",0,"Debut for umpire Brian Runge","FILENAME_TX","LINE_NUMBER_CT"
-"CHN199904240",66,"Debut game for Vance Wilson","1999CHN.EVN.regular.comment.csv",2
-"CHN199904250",72,"Debut game for Richard Barker","1999CHN.EVN.regular.comment.csv",3
-"CHN199905020",59,"ej,demem801,C,grege901,Balls and strikes Cubs pitching coach Marty DeMerritt ejected by HP umpire Eric Gregg sometime in eighth","1999CHN.EVN.regular.comment.csv",4
-"CHN199905030",72,"Debut game for Chris Sexton","1999CHN.EVN.regular.comment.csv",5
-"CHN199906010",43,"$rainout","1999CHN.EVN.regular.comment.csv",6
-"CHN199906110",0,"Debut for umpire Mark Carlson","1999CHN.EVN.regular.comment.csv",7
-"CHN199906110",53,"$rainout?","1999CHN.EVN.regular.comment.csv",8
-"CHN199907170",68,"Debut game for Steve Rain","1999CHN.EVN.regular.comment.csv",9
-"CHN199908061",7,"Debut game for Chad Meyers","1999CHN.EVN.regular.comment.csv",10
-"CHN199908070",50,"ej,gracm001,P,grege901,Fair/foul call ej,riggj801,M,grege901,Fair/foul call $Grace and Cubs manager Riggleman ejected by 1B umpire Gregg arguing that ball hit by Grace was fair; Grace's ejection came after he flied out","1999CHN.EVN.regular.comment.csv",11
-"CHN199908240",0,"Debut for umpire Andy Fletcher","1999CHN.EVN.regular.comment.csv",12
-"CHN199908251",66,"ej,riggj801,M,wendh902,Balls and strikes Cubs manager Jim Riggleman ejected by HP umpire Hunter Wendelstedt sometime in seventh","1999CHN.EVN.regular.comment.csv",13
-"CHN199909030",15,"Debut game for Cole Liniak","1999CHN.EVN.regular.comment.csv",14
-"CHN199909060",21,"Debut game for Jose Molina","1999CHN.EVN.regular.comment.csv",15
-"CHN199909071",65,"ej,yound001,P,iassd901,Balls and strikes Dmitri Young ejected by HP umpire Dan Iassogna","1999CHN.EVN.regular.comment.csv",16
-"CHN199909072",1,"Debut game for Brian McNichol","1999CHN.EVN.regular.comment.csv",17
-"CHN199909170",65,"ej,moram001,P,gibsg901,Call at 1B ej,radid801,C,gibsg901,Call at 1B $Morandini and 1B coach Radisson ejected by 1B umpire Gibson arguing call at 1st","1999CHN.EVN.regular.comment.csv",18
-"CHN199909180",82,"ej,lefej101,M,gibsg901,Balls and strikes ej,wickb001,P,gibsg901,Balls and strikes Bob Wickman and Brewers manager Jim Lefebvre ejected by HP umpire Greg Gibson for arguing balls and strikes","1999CHN.EVN.regular.comment.csv",19
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"CHN199904230",0,"Debut for umpire Brian Runge","1999CHN.EVN.regular.comment.csv",2
+"CHN199904240",66,"Debut game for Vance Wilson","1999CHN.EVN.regular.comment.csv",3
+"CHN199904250",72,"Debut game for Richard Barker","1999CHN.EVN.regular.comment.csv",4
+"CHN199905020",59,"ej,demem801,C,grege901,Balls and strikes Cubs pitching coach Marty DeMerritt ejected by HP umpire Eric Gregg sometime in eighth","1999CHN.EVN.regular.comment.csv",5
+"CHN199905030",72,"Debut game for Chris Sexton","1999CHN.EVN.regular.comment.csv",6
+"CHN199906010",43,"$rainout","1999CHN.EVN.regular.comment.csv",7
+"CHN199906110",0,"Debut for umpire Mark Carlson","1999CHN.EVN.regular.comment.csv",8
+"CHN199906110",53,"$rainout?","1999CHN.EVN.regular.comment.csv",9
+"CHN199907170",68,"Debut game for Steve Rain","1999CHN.EVN.regular.comment.csv",10
+"CHN199908061",7,"Debut game for Chad Meyers","1999CHN.EVN.regular.comment.csv",11
+"CHN199908070",50,"ej,gracm001,P,grege901,Fair/foul call ej,riggj801,M,grege901,Fair/foul call $Grace and Cubs manager Riggleman ejected by 1B umpire Gregg arguing that ball hit by Grace was fair; Grace's ejection came after he flied out","1999CHN.EVN.regular.comment.csv",12
+"CHN199908240",0,"Debut for umpire Andy Fletcher","1999CHN.EVN.regular.comment.csv",13
+"CHN199908251",66,"ej,riggj801,M,wendh902,Balls and strikes Cubs manager Jim Riggleman ejected by HP umpire Hunter Wendelstedt sometime in seventh","1999CHN.EVN.regular.comment.csv",14
+"CHN199909030",15,"Debut game for Cole Liniak","1999CHN.EVN.regular.comment.csv",15
+"CHN199909060",21,"Debut game for Jose Molina","1999CHN.EVN.regular.comment.csv",16
+"CHN199909071",65,"ej,yound001,P,iassd901,Balls and strikes Dmitri Young ejected by HP umpire Dan Iassogna","1999CHN.EVN.regular.comment.csv",17
+"CHN199909072",1,"Debut game for Brian McNichol","1999CHN.EVN.regular.comment.csv",18
+"CHN199909170",65,"ej,moram001,P,gibsg901,Call at 1B ej,radid801,C,gibsg901,Call at 1B $Morandini and 1B coach Radisson ejected by 1B umpire Gibson arguing call at 1st","1999CHN.EVN.regular.comment.csv",19
+"CHN199909180",82,"ej,lefej101,M,gibsg901,Balls and strikes ej,wickb001,P,gibsg901,Balls and strikes Bob Wickman and Brewers manager Jim Lefebvre ejected by HP umpire Greg Gibson for arguing balls and strikes","1999CHN.EVN.regular.comment.csv",20

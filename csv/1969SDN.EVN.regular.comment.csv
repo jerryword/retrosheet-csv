@@ -1,52 +1,53 @@
-"SDN196904080",8,"Debut game for Rafael Robles","FILENAME_TX","LINE_NUMBER_CT"
-"SDN196904100",1,"Debut game for Tom Griffin","1969SDN.EVN.regular.comment.csv",2
-"SDN196904110",1,"Debut game for Clay Kirby","1969SDN.EVN.regular.comment.csv",3
-"SDN196904110",61,"Debut game for Jerry DaVanon","1969SDN.EVN.regular.comment.csv",4
-"SDN196904210",40,"Debut game for Leon Everitt","1969SDN.EVN.regular.comment.csv",5
-"SDN196905210",6,"TJR: placement a guess.","1969SDN.EVN.regular.comment.csv",6
-"SDN196905210",12,"TJR: placement a guess.","1969SDN.EVN.regular.comment.csv",7
-"SDN196905210",22,"TJR: placement a guess.","1969SDN.EVN.regular.comment.csv",8
-"SDN196905210",26,"TJR: placement a guess.","1969SDN.EVN.regular.comment.csv",9
-"SDN196905210",36,"TJR: placement a guess.","1969SDN.EVN.regular.comment.csv",10
-"SDN196905210",57,"TJR: placement a guess.","1969SDN.EVN.regular.comment.csv",11
-"SDN196905210",67,"TJR: placement a guess.","1969SDN.EVN.regular.comment.csv",12
-"SDN196905210",72,"TJR: placement a guess.","1969SDN.EVN.regular.comment.csv",13
-"SDN196905240",7,"Debut game for John Sipin","1969SDN.EVN.regular.comment.csv",14
-"SDN196905240",52,"no pitches for Cub hitters rest of the game!!","1969SDN.EVN.regular.comment.csv",15
-"SDN196905240",68,"ej,durol101,M,steld901,Call at 1B Cubs Manager Leo Durocher ejected by 1B umpire Dick Stello","1969SDN.EVN.regular.comment.csv",16
-"SDN196905251",53,"no pitches for next two hitters","1969SDN.EVN.regular.comment.csv",17
-"SDN196905251",59,"no pitches for Ferrara","1969SDN.EVN.regular.comment.csv",18
-"SDN196905251",60,"no pitches for first three hitters","1969SDN.EVN.regular.comment.csv",19
-"SDN196905251",64,"no pitches for Banks or Rudolph","1969SDN.EVN.regular.comment.csv",20
-"SDN196905252",19,"Debut game for Sonny Ruberto","1969SDN.EVN.regular.comment.csv",21
-"SDN196905252",49,"no pitches for Brown","1969SDN.EVN.regular.comment.csv",22
-"SDN196905252",61,"no pitches for Murrell","1969SDN.EVN.regular.comment.csv",23
-"SDN196905252",63,"no pitches for Gonzalez","1969SDN.EVN.regular.comment.csv",24
-"SDN196906070",4,"Rod Gaspar rounded 3B too far","1969SDN.EVN.regular.comment.csv",25
-"SDN196906130",47,"Debut game for Van Kelly","1969SDN.EVN.regular.comment.csv",26
-"SDN196906140",40,"$the ball went into the dugout","1969SDN.EVN.regular.comment.csv",27
-"SDN196906150",25,"$Deron Johnson pulled a leg muscle","1969SDN.EVN.regular.comment.csv",28
-"SDN196906150",27,"450 ft","1969SDN.EVN.regular.comment.csv",29
-"SDN196907040",26,"Padres 4th inning is accurate.","1969SDN.EVN.regular.comment.csv",30
-"SDN196907040",30,"Astros 5th inning is accurate.","1969SDN.EVN.regular.comment.csv",31
-"SDN196907061",1,"Debut game for Dave Roberts","1969SDN.EVN.regular.comment.csv",32
-"SDN196907110",2,"$Felix Millan called for interference for running into his own batted ball","1969SDN.EVN.regular.comment.csv",33
-"SDN196907130",0,"$Third time in their careers that Phil and Joe Niekro faced each other","1969SDN.EVN.regular.comment.csv",34
-"SDN196908080",37,"ej,clemr101,P,weyel901,Called third strike Roberto Clemente ejected by HP umpire Lee Weyer","1969SDN.EVN.regular.comment.csv",35
-"SDN196908120",60,"$Randy Hundley injured during rundown","1969SDN.EVN.regular.comment.csv",36
-"SDN196908130",3,"$hit and run into a triple play","1969SDN.EVN.regular.comment.csv",37
-"SDN196908130",6,"ej,penar101,P,pelec901,Call at 2B Roberto Pena ejected by 2B umpire Chris Pelekoudas","1969SDN.EVN.regular.comment.csv",38
-"SDN196909010",44,"$Cookie Rojas let pop fly fall intentionally","1969SDN.EVN.regular.comment.csv",39
-"SDN196909020",25,"$Larry Hisle left with unknown illness","1969SDN.EVN.regular.comment.csv",40
-"SDN196909030",47,"Debut game for Frankie Libran","1969SDN.EVN.regular.comment.csv",41
-"SDN196909040",22,"$Dick Kelley left injured","1969SDN.EVN.regular.comment.csv",42
-"SDN196909050",72,"Debut game for Jerry Morales","1969SDN.EVN.regular.comment.csv",43
-"SDN196909150",43,"Debut game for Keith Lampard","1969SDN.EVN.regular.comment.csv",44
-"SDN196909160",46,"Debut game for Scipio Spinks","1969SDN.EVN.regular.comment.csv",45
-"SDN196909200",11,"TJR: placement a guess","1969SDN.EVN.regular.comment.csv",46
-"SDN196909200",15,"TJR: placement a guess","1969SDN.EVN.regular.comment.csv",47
-"SDN196909200",30,"TJR: placement a guess","1969SDN.EVN.regular.comment.csv",48
-"SDN196909200",38,"TJR: placement a guess","1969SDN.EVN.regular.comment.csv",49
-"SDN196909200",52,"TJR: placement a guess","1969SDN.EVN.regular.comment.csv",50
-"SDN196909200",68,"$Missed squeeze","1969SDN.EVN.regular.comment.csv",51
-"SDN196909220",57,"$Willie Mays' 600th homer","1969SDN.EVN.regular.comment.csv",52
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"SDN196904080",8,"Debut game for Rafael Robles","1969SDN.EVN.regular.comment.csv",2
+"SDN196904100",1,"Debut game for Tom Griffin","1969SDN.EVN.regular.comment.csv",3
+"SDN196904110",1,"Debut game for Clay Kirby","1969SDN.EVN.regular.comment.csv",4
+"SDN196904110",61,"Debut game for Jerry DaVanon","1969SDN.EVN.regular.comment.csv",5
+"SDN196904210",40,"Debut game for Leon Everitt","1969SDN.EVN.regular.comment.csv",6
+"SDN196905210",6,"TJR: placement a guess.","1969SDN.EVN.regular.comment.csv",7
+"SDN196905210",12,"TJR: placement a guess.","1969SDN.EVN.regular.comment.csv",8
+"SDN196905210",22,"TJR: placement a guess.","1969SDN.EVN.regular.comment.csv",9
+"SDN196905210",26,"TJR: placement a guess.","1969SDN.EVN.regular.comment.csv",10
+"SDN196905210",36,"TJR: placement a guess.","1969SDN.EVN.regular.comment.csv",11
+"SDN196905210",57,"TJR: placement a guess.","1969SDN.EVN.regular.comment.csv",12
+"SDN196905210",67,"TJR: placement a guess.","1969SDN.EVN.regular.comment.csv",13
+"SDN196905210",72,"TJR: placement a guess.","1969SDN.EVN.regular.comment.csv",14
+"SDN196905240",7,"Debut game for John Sipin","1969SDN.EVN.regular.comment.csv",15
+"SDN196905240",52,"no pitches for Cub hitters rest of the game!!","1969SDN.EVN.regular.comment.csv",16
+"SDN196905240",68,"ej,durol101,M,steld901,Call at 1B Cubs Manager Leo Durocher ejected by 1B umpire Dick Stello","1969SDN.EVN.regular.comment.csv",17
+"SDN196905251",53,"no pitches for next two hitters","1969SDN.EVN.regular.comment.csv",18
+"SDN196905251",59,"no pitches for Ferrara","1969SDN.EVN.regular.comment.csv",19
+"SDN196905251",60,"no pitches for first three hitters","1969SDN.EVN.regular.comment.csv",20
+"SDN196905251",64,"no pitches for Banks or Rudolph","1969SDN.EVN.regular.comment.csv",21
+"SDN196905252",19,"Debut game for Sonny Ruberto","1969SDN.EVN.regular.comment.csv",22
+"SDN196905252",49,"no pitches for Brown","1969SDN.EVN.regular.comment.csv",23
+"SDN196905252",61,"no pitches for Murrell","1969SDN.EVN.regular.comment.csv",24
+"SDN196905252",63,"no pitches for Gonzalez","1969SDN.EVN.regular.comment.csv",25
+"SDN196906070",4,"Rod Gaspar rounded 3B too far","1969SDN.EVN.regular.comment.csv",26
+"SDN196906130",47,"Debut game for Van Kelly","1969SDN.EVN.regular.comment.csv",27
+"SDN196906140",40,"$the ball went into the dugout","1969SDN.EVN.regular.comment.csv",28
+"SDN196906150",25,"$Deron Johnson pulled a leg muscle","1969SDN.EVN.regular.comment.csv",29
+"SDN196906150",27,"450 ft","1969SDN.EVN.regular.comment.csv",30
+"SDN196907040",26,"Padres 4th inning is accurate.","1969SDN.EVN.regular.comment.csv",31
+"SDN196907040",30,"Astros 5th inning is accurate.","1969SDN.EVN.regular.comment.csv",32
+"SDN196907061",1,"Debut game for Dave Roberts","1969SDN.EVN.regular.comment.csv",33
+"SDN196907110",2,"$Felix Millan called for interference for running into his own batted ball","1969SDN.EVN.regular.comment.csv",34
+"SDN196907130",0,"$Third time in their careers that Phil and Joe Niekro faced each other","1969SDN.EVN.regular.comment.csv",35
+"SDN196908080",37,"ej,clemr101,P,weyel901,Called third strike Roberto Clemente ejected by HP umpire Lee Weyer","1969SDN.EVN.regular.comment.csv",36
+"SDN196908120",60,"$Randy Hundley injured during rundown","1969SDN.EVN.regular.comment.csv",37
+"SDN196908130",3,"$hit and run into a triple play","1969SDN.EVN.regular.comment.csv",38
+"SDN196908130",6,"ej,penar101,P,pelec901,Call at 2B Roberto Pena ejected by 2B umpire Chris Pelekoudas","1969SDN.EVN.regular.comment.csv",39
+"SDN196909010",44,"$Cookie Rojas let pop fly fall intentionally","1969SDN.EVN.regular.comment.csv",40
+"SDN196909020",25,"$Larry Hisle left with unknown illness","1969SDN.EVN.regular.comment.csv",41
+"SDN196909030",47,"Debut game for Frankie Libran","1969SDN.EVN.regular.comment.csv",42
+"SDN196909040",22,"$Dick Kelley left injured","1969SDN.EVN.regular.comment.csv",43
+"SDN196909050",72,"Debut game for Jerry Morales","1969SDN.EVN.regular.comment.csv",44
+"SDN196909150",43,"Debut game for Keith Lampard","1969SDN.EVN.regular.comment.csv",45
+"SDN196909160",46,"Debut game for Scipio Spinks","1969SDN.EVN.regular.comment.csv",46
+"SDN196909200",11,"TJR: placement a guess","1969SDN.EVN.regular.comment.csv",47
+"SDN196909200",15,"TJR: placement a guess","1969SDN.EVN.regular.comment.csv",48
+"SDN196909200",30,"TJR: placement a guess","1969SDN.EVN.regular.comment.csv",49
+"SDN196909200",38,"TJR: placement a guess","1969SDN.EVN.regular.comment.csv",50
+"SDN196909200",52,"TJR: placement a guess","1969SDN.EVN.regular.comment.csv",51
+"SDN196909200",68,"$Missed squeeze","1969SDN.EVN.regular.comment.csv",52
+"SDN196909220",57,"$Willie Mays' 600th homer","1969SDN.EVN.regular.comment.csv",53

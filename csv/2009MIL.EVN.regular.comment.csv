@@ -1,34 +1,35 @@
-"MIL200904120",21,"Soriano's 250th career stolen base; became the 19th player with 250 steals and 250 home runs","FILENAME_TX","LINE_NUMBER_CT"
-"MIL200904120",32,"Cubs center fielder Milton Bradley left the game due to an injured groin","2009MIL.EVN.regular.comment.csv",2
-"MIL200904280",36,"Brewers catcher Mike Rivera left the game due to an injured foot/ankle","2009MIL.EVN.regular.comment.csv",3
-"MIL200905080",22,"Cubs third baseman Aramis Ramirez left the game due to an injured neck/shoulder","2009MIL.EVN.regular.comment.csv",4
-"MIL200905130",54,"replay,6,gloar001,FLO,darlg901,MIL06,F,Y,I,,H $Ross Gload hit a ball into the right field corner; it cleared the 8-foot wall and was ruled a homer by first base umpire Bruce Dreckman; the Brewers complained about the call; crew chief Gary Darling took about two minutes to watch the replay and reversed the call from homer to foul","2009MIL.EVN.regular.comment.csv",5
-"MIL200905130",58,"Brewers shortstop J. Hardy left the game due to an injured head","2009MIL.EVN.regular.comment.csv",6
-"MIL200905260",26,"Ryan Braun was hit on the right wrist","2009MIL.EVN.regular.comment.csv",7
-"MIL200905260",39,"Brewers left fielder Ryan Braun left the game due to an injured wrist","2009MIL.EVN.regular.comment.csv",8
-"MIL200906110",18,"umpchange,3,ump1b,belld901 umpchange,3,ump2b,(None) $1B umpire Jerry Crawford left the game after becoming ill","2009MIL.EVN.regular.comment.csv",9
-"MIL200906120",65,"Debut game for Aaron Poreda","2009MIL.EVN.regular.comment.csv",10
-"MIL200906230",67,"Twins shortstop Nick Punto left the game due to an injured chest","2009MIL.EVN.regular.comment.csv",11
-"MIL200906240",71,"$the relay throw to the plate by Brendan Harris skipped past catcher Joe Mauer; pitcher Nick Blackburn was backing up the play and threw to 3B trying to get Jason Kendall advancing but the throw sailed past Joe Crede","2009MIL.EVN.regular.comment.csv",12
-"MIL200906280",1,"Debut game for Ryan Sadowski","2009MIL.EVN.regular.comment.csv",13
-"MIL200906280",49,"Giants third baseman Pablo Sandoval left the game due to an injured chest","2009MIL.EVN.regular.comment.csv",14
-"MIL200906300",35,"$Mets center fielder Fernando Martinez slipped while chasing the fly ball; the ball landed about two feet away","2009MIL.EVN.regular.comment.csv",15
-"MIL200906300",36,"ej,wartd101,C,wolfj901,Balls and strikes $Mets Pitching Coach Dan Warthen went to the mound to talk with Johan Santana; as Warthen left the field he said something to HP umpire Jim Wolf and was ejected","2009MIL.EVN.regular.comment.csv",16
-"MIL200906300",37,"$the relay throw to the plate by SS Alex Cora bounced away from catcher Omir Santos; pitcher Johan Santana backed up the play and his throw to 3B went into LF","2009MIL.EVN.regular.comment.csv",17
-"MIL200907010",39,"fan interference","2009MIL.EVN.regular.comment.csv",18
-"MIL200907070",21,"ej,sveud001,C,hohnb901,Check swing $Brewers coach Sveum ejected by HP umpire Hohn for arguing that Gallardo checked his swing on strike three","2009MIL.EVN.regular.comment.csv",19
-"MIL200907070",21,"ej,randw001,C,hohnb901,Check swing $Brewers coach Randolph was ejected by HP umpire Hohn for arguing check swing on pitch to Pujols","2009MIL.EVN.regular.comment.csv",20
-"MIL200907270",60,"$Josh Willingham becomes the 13th player and 3rd NL player to hit two grand slams in the same game","2009MIL.EVN.regular.comment.csv",21
-"MIL200907290",31,"replay,3,braur002,MIL,westj901,MIL06,O,Y,I,,H $Ryan Braun's fly to deep CF hit the glove of Nationals centerfielder Nyjer Morgan and then went behind the glove, striking the yellow stripe at the top of the Wall; it was ruled a home run; the umpires huddled and then crew chief Joe West watched the replay and reversed the call to ball in play; West allowed Craig Counsell to score and placed Braun at 3B","2009MIL.EVN.regular.comment.csv",22
-"MIL200907300",0,"$Umpire Joe West's 4000th game in the majors","2009MIL.EVN.regular.comment.csv",23
-"MIL200907300",16,"ej,riggj801,M,westj901,Balls and strikes Nationals Manager Jim Riggleman ejected by HP umpire Joe West","2009MIL.EVN.regular.comment.csv",24
-"MIL200908110",76,"$Line drive off Colome's pitching hand, X-rays show no break","2009MIL.EVN.regular.comment.csv",25
-"MIL200908130",1,"Debut game for Cesar Carrillo","2009MIL.EVN.regular.comment.csv",26
-"MIL200908140",46,"Debut game for Samuel Gervacio","2009MIL.EVN.regular.comment.csv",27
-"MIL200908160",43,"replay,6,pench001,HOU,welkt901,MIL06,F,Y,I,,H $Hunter Pence hit a fly ball down the LF line the was ruled fair and a home run; crew chief Tim Welke looked at the replay and overturned the call to a foul ball","2009MIL.EVN.regular.comment.csv",28
-"MIL200908260",69,"originally E1, changed to single plus E1 two days later","2009MIL.EVN.regular.comment.csv",29
-"MIL200909040",60,"Debut game for Dan Runzler","2009MIL.EVN.regular.comment.csv",30
-"MIL200909060",97,"$the Brewers all greeted Prince Fielder at the plate; he jumped onto the plate and the team all fell down around him","2009MIL.EVN.regular.comment.csv",31
-"MIL200909090",35,"Cardinals left fielder Matt Holliday left the game due to an injured knee","2009MIL.EVN.regular.comment.csv",32
-"MIL200909210",7,"Debut game for Tyler Colvin","2009MIL.EVN.regular.comment.csv",33
-"MIL200909210",60,"Debut game for Josh Butler","2009MIL.EVN.regular.comment.csv",34
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"MIL200904120",21,"Soriano's 250th career stolen base; became the 19th player with 250 steals and 250 home runs","2009MIL.EVN.regular.comment.csv",2
+"MIL200904120",32,"Cubs center fielder Milton Bradley left the game due to an injured groin","2009MIL.EVN.regular.comment.csv",3
+"MIL200904280",36,"Brewers catcher Mike Rivera left the game due to an injured foot/ankle","2009MIL.EVN.regular.comment.csv",4
+"MIL200905080",22,"Cubs third baseman Aramis Ramirez left the game due to an injured neck/shoulder","2009MIL.EVN.regular.comment.csv",5
+"MIL200905130",54,"replay,6,gloar001,FLO,darlg901,MIL06,F,Y,I,,H $Ross Gload hit a ball into the right field corner; it cleared the 8-foot wall and was ruled a homer by first base umpire Bruce Dreckman; the Brewers complained about the call; crew chief Gary Darling took about two minutes to watch the replay and reversed the call from homer to foul","2009MIL.EVN.regular.comment.csv",6
+"MIL200905130",58,"Brewers shortstop J. Hardy left the game due to an injured head","2009MIL.EVN.regular.comment.csv",7
+"MIL200905260",26,"Ryan Braun was hit on the right wrist","2009MIL.EVN.regular.comment.csv",8
+"MIL200905260",39,"Brewers left fielder Ryan Braun left the game due to an injured wrist","2009MIL.EVN.regular.comment.csv",9
+"MIL200906110",18,"umpchange,3,ump1b,belld901 umpchange,3,ump2b,(None) $1B umpire Jerry Crawford left the game after becoming ill","2009MIL.EVN.regular.comment.csv",10
+"MIL200906120",65,"Debut game for Aaron Poreda","2009MIL.EVN.regular.comment.csv",11
+"MIL200906230",67,"Twins shortstop Nick Punto left the game due to an injured chest","2009MIL.EVN.regular.comment.csv",12
+"MIL200906240",71,"$the relay throw to the plate by Brendan Harris skipped past catcher Joe Mauer; pitcher Nick Blackburn was backing up the play and threw to 3B trying to get Jason Kendall advancing but the throw sailed past Joe Crede","2009MIL.EVN.regular.comment.csv",13
+"MIL200906280",1,"Debut game for Ryan Sadowski","2009MIL.EVN.regular.comment.csv",14
+"MIL200906280",49,"Giants third baseman Pablo Sandoval left the game due to an injured chest","2009MIL.EVN.regular.comment.csv",15
+"MIL200906300",35,"$Mets center fielder Fernando Martinez slipped while chasing the fly ball; the ball landed about two feet away","2009MIL.EVN.regular.comment.csv",16
+"MIL200906300",36,"ej,wartd101,C,wolfj901,Balls and strikes $Mets Pitching Coach Dan Warthen went to the mound to talk with Johan Santana; as Warthen left the field he said something to HP umpire Jim Wolf and was ejected","2009MIL.EVN.regular.comment.csv",17
+"MIL200906300",37,"$the relay throw to the plate by SS Alex Cora bounced away from catcher Omir Santos; pitcher Johan Santana backed up the play and his throw to 3B went into LF","2009MIL.EVN.regular.comment.csv",18
+"MIL200907010",39,"fan interference","2009MIL.EVN.regular.comment.csv",19
+"MIL200907070",21,"ej,sveud001,C,hohnb901,Check swing $Brewers coach Sveum ejected by HP umpire Hohn for arguing that Gallardo checked his swing on strike three","2009MIL.EVN.regular.comment.csv",20
+"MIL200907070",21,"ej,randw001,C,hohnb901,Check swing $Brewers coach Randolph was ejected by HP umpire Hohn for arguing check swing on pitch to Pujols","2009MIL.EVN.regular.comment.csv",21
+"MIL200907270",60,"$Josh Willingham becomes the 13th player and 3rd NL player to hit two grand slams in the same game","2009MIL.EVN.regular.comment.csv",22
+"MIL200907290",31,"replay,3,braur002,MIL,westj901,MIL06,O,Y,I,,H $Ryan Braun's fly to deep CF hit the glove of Nationals centerfielder Nyjer Morgan and then went behind the glove, striking the yellow stripe at the top of the Wall; it was ruled a home run; the umpires huddled and then crew chief Joe West watched the replay and reversed the call to ball in play; West allowed Craig Counsell to score and placed Braun at 3B","2009MIL.EVN.regular.comment.csv",23
+"MIL200907300",0,"$Umpire Joe West's 4000th game in the majors","2009MIL.EVN.regular.comment.csv",24
+"MIL200907300",16,"ej,riggj801,M,westj901,Balls and strikes Nationals Manager Jim Riggleman ejected by HP umpire Joe West","2009MIL.EVN.regular.comment.csv",25
+"MIL200908110",76,"$Line drive off Colome's pitching hand, X-rays show no break","2009MIL.EVN.regular.comment.csv",26
+"MIL200908130",1,"Debut game for Cesar Carrillo","2009MIL.EVN.regular.comment.csv",27
+"MIL200908140",46,"Debut game for Samuel Gervacio","2009MIL.EVN.regular.comment.csv",28
+"MIL200908160",43,"replay,6,pench001,HOU,welkt901,MIL06,F,Y,I,,H $Hunter Pence hit a fly ball down the LF line the was ruled fair and a home run; crew chief Tim Welke looked at the replay and overturned the call to a foul ball","2009MIL.EVN.regular.comment.csv",29
+"MIL200908260",69,"originally E1, changed to single plus E1 two days later","2009MIL.EVN.regular.comment.csv",30
+"MIL200909040",60,"Debut game for Dan Runzler","2009MIL.EVN.regular.comment.csv",31
+"MIL200909060",97,"$the Brewers all greeted Prince Fielder at the plate; he jumped onto the plate and the team all fell down around him","2009MIL.EVN.regular.comment.csv",32
+"MIL200909090",35,"Cardinals left fielder Matt Holliday left the game due to an injured knee","2009MIL.EVN.regular.comment.csv",33
+"MIL200909210",7,"Debut game for Tyler Colvin","2009MIL.EVN.regular.comment.csv",34
+"MIL200909210",60,"Debut game for Josh Butler","2009MIL.EVN.regular.comment.csv",35

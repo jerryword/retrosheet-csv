@@ -1,37 +1,38 @@
-"CHN195804180",8,"ej,hutcf101,M,craws901,Balls and strikes ej,wehmh101,P,craws901,Bench jockeying Herm Wehmeier and Cardinals Manager Fred Hutchinson ejected by HP umpire Shag Crawford","FILENAME_TX","LINE_NUMBER_CT"
-"CHN195804190",60,"15 minute rain delay","1958CHN.EVN.regular.comment.csv",2
-"CHN195804300",5,"$the ball caromed off Bob Buhl's glove","1958CHN.EVN.regular.comment.csv",3
-"CHN195805010",32,"$the ball struck the bat while Johnny Logan tried to dodge an inside pitch","1958CHN.EVN.regular.comment.csv",4
-"CHN195805020",20,"DIFF: officials E5","1958CHN.EVN.regular.comment.csv",5
-"CHN195805041",84,"$Frank Robinson injured; twisted neck and cuts from sunglasses","1958CHN.EVN.regular.comment.csv",6
-"CHN195805080",17,"ej,tempj101,P,dixoh901,Called third strike (Threw bat) ej,tebbb101,M,dixoh901,Called third strike Johnny Temple and Reds Manager Birdie Tebbetts ejected by HP umpire Hal Dixon; Temple threw his bat","1958CHN.EVN.regular.comment.csv",7
-"CHN195805130",49,"$3000th hit for Stan Musial","1958CHN.EVN.regular.comment.csv",8
-"CHN195805150",17,"$the throw bounced into the dugout","1958CHN.EVN.regular.comment.csv",9
-"CHN195805302",15,"$the throw went into the dugout","1958CHN.EVN.regular.comment.csv",10
-"CHN195806040",85,"$Richie Ashburn hurt running into the wall","1958CHN.EVN.regular.comment.csv",11
-"CHN195806060",26,"$Lee Walls was called back to 1B by coach George Myatt $because he had not touched it","1958CHN.EVN.regular.comment.csv",12
-"CHN195806080",55,"52 minute rain delay","1958CHN.EVN.regular.comment.csv",13
-"CHN195806140",0,"Protest=H","1958CHN.EVN.regular.comment.csv",14
-"CHN195806140",18,"$Johnny Temple and George Crowe switched positions for one batter; Cubs manager Bob Scheffing protested game; NL President Warren Giles ruled next day that a first baseman switching to another position must change to a regular glove","1958CHN.EVN.regular.comment.csv",15
-"CHN195807100",0,"$game two of scheduled double header rained out","1958CHN.EVN.regular.comment.csv",16
-"CHN195807100",54,"$Taylor Phillips left game with injured shoulder","1958CHN.EVN.regular.comment.csv",17
-"CHN195807100",73,"16 minute rain delay with 2-1 count to Dick Groat","1958CHN.EVN.regular.comment.csv",18
-"CHN195807110",13,"rain starts","1958CHN.EVN.regular.comment.csv",19
-"CHN195807110",26,"$Al Dark rounded 2B too far","1958CHN.EVN.regular.comment.csv",20
-"CHN195807132",23,"$Stan Lopata's hand injured by foul ball","1958CHN.EVN.regular.comment.csv",21
-"CHN195807140",102,"ej,jonew101,P,lands901,Call at 3B Willie Jones ejected by 3B umpire Stan Landes","1958CHN.EVN.regular.comment.csv",22
-"CHN195807180",16,"$Tony Taylor called for interference for running into his own batted ball","1958CHN.EVN.regular.comment.csv",23
-"CHN195808050",99,"DIFF: officials Antonelli 0 ER","1958CHN.EVN.regular.comment.csv",24
-"CHN195808070",12,"ej,podrj101,P,conlj102,Bench jockeying Johnny Podres ejected by 3B umpire Jocko Conlan","1958CHN.EVN.regular.comment.csv",25
-"CHN195808070",67,"rain starts","1958CHN.EVN.regular.comment.csv",26
-"CHN195808190",30,"Tribune says Moryn walked but box has 4 AB which means no W","1958CHN.EVN.regular.comment.csv",27
-"CHN195808190",55,"missing play in CHN195808190","1958CHN.EVN.regular.comment.csv",28
-"CHN195808190",59,"reconstructed top of 8th to end in CHN195808190","1958CHN.EVN.regular.comment.csv",29
-"CHN195808201",22,"$Bill Hall and Dick Stuart collided; Stuart knocked out temporarily but held the ball","1958CHN.EVN.regular.comment.csv",30
-"CHN195808201",70,"ej,neemc101,P,dascf901,Call at HP ej,scheb101,M,dascf901,Call at HP Cal Neeman and Cubs Manager Bob Scheffing ejected by HP umpire Frank Dascoli","1958CHN.EVN.regular.comment.csv",31
-"CHN195808202",47,"game called for rain, Cubs batting in 5th counts","1958CHN.EVN.regular.comment.csv",32
-"CHN195808242",71,"game called for rain","1958CHN.EVN.regular.comment.csv",33
-"CHN195809030",1,"$Lee Walls injured","1958CHN.EVN.regular.comment.csv",34
-"CHN195809030",91,"$Ruben Amaro spiked on the play","1958CHN.EVN.regular.comment.csv",35
-"CHN195809190",30,"Frank Howard left with injured ankle","1958CHN.EVN.regular.comment.csv",36
-"CHN195809190",69,"$Ralph Mauriello dropped the ball during windup","1958CHN.EVN.regular.comment.csv",37
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"CHN195804180",8,"ej,hutcf101,M,craws901,Balls and strikes ej,wehmh101,P,craws901,Bench jockeying Herm Wehmeier and Cardinals Manager Fred Hutchinson ejected by HP umpire Shag Crawford","1958CHN.EVN.regular.comment.csv",2
+"CHN195804190",60,"15 minute rain delay","1958CHN.EVN.regular.comment.csv",3
+"CHN195804300",5,"$the ball caromed off Bob Buhl's glove","1958CHN.EVN.regular.comment.csv",4
+"CHN195805010",32,"$the ball struck the bat while Johnny Logan tried to dodge an inside pitch","1958CHN.EVN.regular.comment.csv",5
+"CHN195805020",20,"DIFF: officials E5","1958CHN.EVN.regular.comment.csv",6
+"CHN195805041",84,"$Frank Robinson injured; twisted neck and cuts from sunglasses","1958CHN.EVN.regular.comment.csv",7
+"CHN195805080",17,"ej,tempj101,P,dixoh901,Called third strike (Threw bat) ej,tebbb101,M,dixoh901,Called third strike Johnny Temple and Reds Manager Birdie Tebbetts ejected by HP umpire Hal Dixon; Temple threw his bat","1958CHN.EVN.regular.comment.csv",8
+"CHN195805130",49,"$3000th hit for Stan Musial","1958CHN.EVN.regular.comment.csv",9
+"CHN195805150",17,"$the throw bounced into the dugout","1958CHN.EVN.regular.comment.csv",10
+"CHN195805302",15,"$the throw went into the dugout","1958CHN.EVN.regular.comment.csv",11
+"CHN195806040",85,"$Richie Ashburn hurt running into the wall","1958CHN.EVN.regular.comment.csv",12
+"CHN195806060",26,"$Lee Walls was called back to 1B by coach George Myatt $because he had not touched it","1958CHN.EVN.regular.comment.csv",13
+"CHN195806080",55,"52 minute rain delay","1958CHN.EVN.regular.comment.csv",14
+"CHN195806140",0,"Protest=H","1958CHN.EVN.regular.comment.csv",15
+"CHN195806140",18,"$Johnny Temple and George Crowe switched positions for one batter; Cubs manager Bob Scheffing protested game; NL President Warren Giles ruled next day that a first baseman switching to another position must change to a regular glove","1958CHN.EVN.regular.comment.csv",16
+"CHN195807100",0,"$game two of scheduled double header rained out","1958CHN.EVN.regular.comment.csv",17
+"CHN195807100",54,"$Taylor Phillips left game with injured shoulder","1958CHN.EVN.regular.comment.csv",18
+"CHN195807100",73,"16 minute rain delay with 2-1 count to Dick Groat","1958CHN.EVN.regular.comment.csv",19
+"CHN195807110",13,"rain starts","1958CHN.EVN.regular.comment.csv",20
+"CHN195807110",26,"$Al Dark rounded 2B too far","1958CHN.EVN.regular.comment.csv",21
+"CHN195807132",23,"$Stan Lopata's hand injured by foul ball","1958CHN.EVN.regular.comment.csv",22
+"CHN195807140",102,"ej,jonew101,P,lands901,Call at 3B Willie Jones ejected by 3B umpire Stan Landes","1958CHN.EVN.regular.comment.csv",23
+"CHN195807180",16,"$Tony Taylor called for interference for running into his own batted ball","1958CHN.EVN.regular.comment.csv",24
+"CHN195808050",99,"DIFF: officials Antonelli 0 ER","1958CHN.EVN.regular.comment.csv",25
+"CHN195808070",12,"ej,podrj101,P,conlj102,Bench jockeying Johnny Podres ejected by 3B umpire Jocko Conlan","1958CHN.EVN.regular.comment.csv",26
+"CHN195808070",67,"rain starts","1958CHN.EVN.regular.comment.csv",27
+"CHN195808190",30,"Tribune says Moryn walked but box has 4 AB which means no W","1958CHN.EVN.regular.comment.csv",28
+"CHN195808190",55,"missing play in CHN195808190","1958CHN.EVN.regular.comment.csv",29
+"CHN195808190",59,"reconstructed top of 8th to end in CHN195808190","1958CHN.EVN.regular.comment.csv",30
+"CHN195808201",22,"$Bill Hall and Dick Stuart collided; Stuart knocked out temporarily but held the ball","1958CHN.EVN.regular.comment.csv",31
+"CHN195808201",70,"ej,neemc101,P,dascf901,Call at HP ej,scheb101,M,dascf901,Call at HP Cal Neeman and Cubs Manager Bob Scheffing ejected by HP umpire Frank Dascoli","1958CHN.EVN.regular.comment.csv",32
+"CHN195808202",47,"game called for rain, Cubs batting in 5th counts","1958CHN.EVN.regular.comment.csv",33
+"CHN195808242",71,"game called for rain","1958CHN.EVN.regular.comment.csv",34
+"CHN195809030",1,"$Lee Walls injured","1958CHN.EVN.regular.comment.csv",35
+"CHN195809030",91,"$Ruben Amaro spiked on the play","1958CHN.EVN.regular.comment.csv",36
+"CHN195809190",30,"Frank Howard left with injured ankle","1958CHN.EVN.regular.comment.csv",37
+"CHN195809190",69,"$Ralph Mauriello dropped the ball during windup","1958CHN.EVN.regular.comment.csv",38

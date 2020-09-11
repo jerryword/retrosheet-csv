@@ -1,36 +1,37 @@
-"PIT196204100",60,"Debut game for Howie Goss","FILENAME_TX","LINE_NUMBER_CT"
-"PIT196204210",58,"$Bob Friend struck above right elbow","1962PIT.EVN.regular.comment.csv",2
-"PIT196204210",66,"$Hobie Landrith struck on head by Bob Skinner's bat; carried from field","1962PIT.EVN.regular.comment.csv",3
-"PIT196204230",23,"Debut game for Orlando McFarlane","1962PIT.EVN.regular.comment.csv",4
-"PIT196204230",49,"$Dick Stuart threw the ball into RF between outs","1962PIT.EVN.regular.comment.csv",5
-"PIT196204230",77,"$the Mets first victory","1962PIT.EVN.regular.comment.csv",6
-"PIT196205050",20,"$Roberto Clemente rounded 2B too far","1962PIT.EVN.regular.comment.csv",7
-"PIT196205150",58,"ej,dykej101,C,venzt901,Balk call $Braves coach Dykes ejected by 3B umpire Venzon for arguing balk call","1962PIT.EVN.regular.comment.csv",8
-"PIT196205170",63,"pbp ends here, rest deduced","1962PIT.EVN.regular.comment.csv",9
-"PIT196205210",21,"$the ball went through the window of the scoreboard; the Cubs requested that the scoreboard be emptied and Roy Face came out","1962PIT.EVN.regular.comment.csv",10
-"PIT196205210",35,"rest of game deduced","1962PIT.EVN.regular.comment.csv",11
-"PIT196205210",47,"Strikeout may be in 8th","1962PIT.EVN.regular.comment.csv",12
-"PIT196205210",81,"DWS: complete fabrication, need third out without AB","1962PIT.EVN.regular.comment.csv",13
-"PIT196205220",25,"425 ft","1962PIT.EVN.regular.comment.csv",14
-"PIT196205220",32,"rest of game deduced","1962PIT.EVN.regular.comment.csv",15
-"PIT196205220",42,"Strikeout may be in 7th","1962PIT.EVN.regular.comment.csv",16
-"PIT196205310",26,"$Bill White called for interference","1962PIT.EVN.regular.comment.csv",17
-"PIT196206051",0,"Rain delay before start of game until 7:22","1962PIT.EVN.regular.comment.csv",18
-"PIT196206052",0,"Suspend=19620606,,7,3,48","1962PIT.EVN.regular.comment.csv",19
-"PIT196206052",74,"suspended,19620606,PIT06,curfew $Game suspended by curfew and completed the next day","1962PIT.EVN.regular.comment.csv",20
-"PIT196206190",20,"$Don Blasingame rounded 1B too far","1962PIT.EVN.regular.comment.csv",21
-"PIT196206250",0,"Protest=H","1962PIT.EVN.regular.comment.csv",22
-"PIT196206250",14,"$the Pirates claimed Frank Thomas ran out of baseline, protest game","1962PIT.EVN.regular.comment.csv",23
-"PIT196206260",20,"$Joe Gibbon jammed hand sliding into 2B on pickoff attempt","1962PIT.EVN.regular.comment.csv",24
-"PIT196207120",27,"ej,hoakd101,P,donaa901,Called third strike Don Hoak ejected by HP umpire Augie Donatelli","1962PIT.EVN.regular.comment.csv",25
-"PIT196207151",53,"ej,boyek101,P,venzt901,Call at 3B Ken Boyer ejected by 3B umpire Tony Venzon","1962PIT.EVN.regular.comment.csv",26
-"PIT196207151",77,"ej,keanj801,M,donaa901,Negative remarks about umpires Cardinals Manager Johnny Keane ejected by 1B umpire Augie Donatelli","1962PIT.EVN.regular.comment.csv",27
-"PIT196207210",6,"$Willie McCovey rounded 3B too far","1962PIT.EVN.regular.comment.csv",28
-"PIT196208070",63,"$22 minute delay for a fire in the stands","1962PIT.EVN.regular.comment.csv",29
-"PIT196208300",40,"ej,oceaf801,C,varge901,Call at 3B $Pirates coach Oceak ejected by 3B umpire Vargo for arguing that Clemente was safe at 3rd","1962PIT.EVN.regular.comment.csv",30
-"PIT196209031",8,"$Bob Skinner struck by line drive","1962PIT.EVN.regular.comment.csv",31
-"PIT196209031",37,"$Richie Ashburn crashed into wall; later says he didn't remember anything about game after this point","1962PIT.EVN.regular.comment.csv",32
-"PIT196209040",59,"ej,stenc101,M,lands901,Call at 2B Mets Manager Casey Stengel ejected by 2B umpire Stan Landes","1962PIT.EVN.regular.comment.csv",33
-"PIT196209140",16,"Debut game for Bob Bailey","1962PIT.EVN.regular.comment.csv",34
-"PIT196209160",85,"Debut game for Willie Stargell","1962PIT.EVN.regular.comment.csv",35
-"PIT196209200",66,"Debut game for Bob Priddy","1962PIT.EVN.regular.comment.csv",36
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"PIT196204100",60,"Debut game for Howie Goss","1962PIT.EVN.regular.comment.csv",2
+"PIT196204210",58,"$Bob Friend struck above right elbow","1962PIT.EVN.regular.comment.csv",3
+"PIT196204210",66,"$Hobie Landrith struck on head by Bob Skinner's bat; carried from field","1962PIT.EVN.regular.comment.csv",4
+"PIT196204230",23,"Debut game for Orlando McFarlane","1962PIT.EVN.regular.comment.csv",5
+"PIT196204230",49,"$Dick Stuart threw the ball into RF between outs","1962PIT.EVN.regular.comment.csv",6
+"PIT196204230",77,"$the Mets first victory","1962PIT.EVN.regular.comment.csv",7
+"PIT196205050",20,"$Roberto Clemente rounded 2B too far","1962PIT.EVN.regular.comment.csv",8
+"PIT196205150",58,"ej,dykej101,C,venzt901,Balk call $Braves coach Dykes ejected by 3B umpire Venzon for arguing balk call","1962PIT.EVN.regular.comment.csv",9
+"PIT196205170",63,"pbp ends here, rest deduced","1962PIT.EVN.regular.comment.csv",10
+"PIT196205210",21,"$the ball went through the window of the scoreboard; the Cubs requested that the scoreboard be emptied and Roy Face came out","1962PIT.EVN.regular.comment.csv",11
+"PIT196205210",35,"rest of game deduced","1962PIT.EVN.regular.comment.csv",12
+"PIT196205210",47,"Strikeout may be in 8th","1962PIT.EVN.regular.comment.csv",13
+"PIT196205210",81,"DWS: complete fabrication, need third out without AB","1962PIT.EVN.regular.comment.csv",14
+"PIT196205220",25,"425 ft","1962PIT.EVN.regular.comment.csv",15
+"PIT196205220",32,"rest of game deduced","1962PIT.EVN.regular.comment.csv",16
+"PIT196205220",42,"Strikeout may be in 7th","1962PIT.EVN.regular.comment.csv",17
+"PIT196205310",26,"$Bill White called for interference","1962PIT.EVN.regular.comment.csv",18
+"PIT196206051",0,"Rain delay before start of game until 7:22","1962PIT.EVN.regular.comment.csv",19
+"PIT196206052",0,"Suspend=19620606,,7,3,48","1962PIT.EVN.regular.comment.csv",20
+"PIT196206052",74,"suspended,19620606,PIT06,curfew $Game suspended by curfew and completed the next day","1962PIT.EVN.regular.comment.csv",21
+"PIT196206190",20,"$Don Blasingame rounded 1B too far","1962PIT.EVN.regular.comment.csv",22
+"PIT196206250",0,"Protest=H","1962PIT.EVN.regular.comment.csv",23
+"PIT196206250",14,"$the Pirates claimed Frank Thomas ran out of baseline, protest game","1962PIT.EVN.regular.comment.csv",24
+"PIT196206260",20,"$Joe Gibbon jammed hand sliding into 2B on pickoff attempt","1962PIT.EVN.regular.comment.csv",25
+"PIT196207120",27,"ej,hoakd101,P,donaa901,Called third strike Don Hoak ejected by HP umpire Augie Donatelli","1962PIT.EVN.regular.comment.csv",26
+"PIT196207151",53,"ej,boyek101,P,venzt901,Call at 3B Ken Boyer ejected by 3B umpire Tony Venzon","1962PIT.EVN.regular.comment.csv",27
+"PIT196207151",77,"ej,keanj801,M,donaa901,Negative remarks about umpires Cardinals Manager Johnny Keane ejected by 1B umpire Augie Donatelli","1962PIT.EVN.regular.comment.csv",28
+"PIT196207210",6,"$Willie McCovey rounded 3B too far","1962PIT.EVN.regular.comment.csv",29
+"PIT196208070",63,"$22 minute delay for a fire in the stands","1962PIT.EVN.regular.comment.csv",30
+"PIT196208300",40,"ej,oceaf801,C,varge901,Call at 3B $Pirates coach Oceak ejected by 3B umpire Vargo for arguing that Clemente was safe at 3rd","1962PIT.EVN.regular.comment.csv",31
+"PIT196209031",8,"$Bob Skinner struck by line drive","1962PIT.EVN.regular.comment.csv",32
+"PIT196209031",37,"$Richie Ashburn crashed into wall; later says he didn't remember anything about game after this point","1962PIT.EVN.regular.comment.csv",33
+"PIT196209040",59,"ej,stenc101,M,lands901,Call at 2B Mets Manager Casey Stengel ejected by 2B umpire Stan Landes","1962PIT.EVN.regular.comment.csv",34
+"PIT196209140",16,"Debut game for Bob Bailey","1962PIT.EVN.regular.comment.csv",35
+"PIT196209160",85,"Debut game for Willie Stargell","1962PIT.EVN.regular.comment.csv",36
+"PIT196209200",66,"Debut game for Bob Priddy","1962PIT.EVN.regular.comment.csv",37

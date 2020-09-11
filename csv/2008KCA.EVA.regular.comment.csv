@@ -1,25 +1,26 @@
-"KCA200804130",44,"$Billy Butler called for interference","FILENAME_TX","LINE_NUMBER_CT"
-"KCA200805100",6,"Orioles second baseman Brian Roberts left the game due to an injured foot/ankle","2008KCA.EVA.regular.comment.csv",2
-"KCA200805100",28,"ej,paytj001,P,tscht901,Balls and strikes Orioles left fielder Jay Payton ejected by HP umpire Tim Tschida","2008KCA.EVA.regular.comment.csv",3
-"KCA200805130",7,"$Double was short fly that Ordonez dived for and held for short time and dropped. He then threw to first and Grudzielanek kept going to second","2008KCA.EVA.regular.comment.csv",4
-"KCA200805290",20,"Debut game for Mike Aviles","2008KCA.EVA.regular.comment.csv",5
-"KCA200806100",73,"ej,hillt801,M,everm901,Balls and strikes Royals Manager Trey Hillman ejected by HP umpire Mike Everitt for arguing a strike call on Joey Gathright","2008KCA.EVA.regular.comment.csv",6
-"KCA200806120",1,"Debut game for Eric Hurley","2008KCA.EVA.regular.comment.csv",7
-"KCA200806200",53,"Giants second baseman Ray Durham left the game due to an injured foot/ankle","2008KCA.EVA.regular.comment.csv",8
-"KCA200806220",89,"ej,hinsa001,P,welkb901,Balls and strikes Giants pitcher Alex Hinshaw ejected by HP umpire Bill Welke","2008KCA.EVA.regular.comment.csv",9
-"KCA200806240",14,"umpchange,2,umphome,nauep901 umpchange,2,ump1b,campa902 umpchange,2,ump2b,(None) $Olivo's maple bat broke and the barrel struck plate umpire Brian O'Nora on the side of the head; he went to the KC dugout and was treated for a cut on the forehead; he was taken to the hospital for further evaluation","2008KCA.EVA.regular.comment.csv",10
-"KCA200806290",18,"Royals center fielder David DeJesus left the game due to an injured chest","2008KCA.EVA.regular.comment.csv",11
-"KCA200807120",15,"Debut game for Tug Hulett","2008KCA.EVA.regular.comment.csv",12
-"KCA200807260",31,"ej,hillt801,M,onorb901,Call at 1B Royals Manager Trey Hillman ejected by 1B umpire Brian O'Nora","2008KCA.EVA.regular.comment.csv",13
-"KCA200808020",53,"White Sox center fielder Ken Griffey left the game due to an injured leg","2008KCA.EVA.regular.comment.csv",14
-"KCA200808030",46,"ej,carrd001,P,timmt901,Intentional HBP ej,guilo001,M,timmt901,Intentional HBP ej,olivm001,P,timmt901,Charging the mound after HBP $Royals catcher Miguel Olivo charged the mound after two pitches were thrown at him, including the one that hit him; White Sox catcher A.J. Pierzynski restrained Olivo before he got to the mound; Royals base runner Jose Guillen ran over and grabbed Pierzynski; Olivo was ejected by HP umpire Tim Timmons; White Sox pitcher D. J. Carrasco and manager Ozzie Guillen were ejected by HP umpire Tim Timmons","2008KCA.EVA.regular.comment.csv",15
-"KCA200808030",65,"ej,greiz001,P,timmt901,Intentional HBP ej,hillt801,M,timmt901,Intentional HBP Royals pitcher Zack Greinke and Manager Trey Hillman ejected by HP umpire Tim Timmons","2008KCA.EVA.regular.comment.csv",16
-"KCA200808050",58,"$Royals center fielder Mitch Maier attempted a leaping catch at the top of the wall in left-center; the ball hit his glove and landed on top of the wall where it rolled along for about 10 feet before left fielder Ross Gload swatted the ball off the fence and threw it into the infield","2008KCA.EVA.regular.comment.csv",17
-"KCA200808060",5,"$Red Sox first baseman Kevin Youkilis left the game due to a bruised hand","2008KCA.EVA.regular.comment.csv",18
-"KCA200809020",49,"Debut game for Josh Outman","2008KCA.EVA.regular.comment.csv",19
-"KCA200809042",59,"Debut game for Kila Ka'aihue","2008KCA.EVA.regular.comment.csv",20
-"KCA200809050",67,"Debut game for Devon Lowery","2008KCA.EVA.regular.comment.csv",21
-"KCA200809150",9,"$Ryan Shealy called out on appeal for missing 3B","2008KCA.EVA.regular.comment.csv",22
-"KCA200809160",3,"$Yuniesky Betancourt out on appeal","2008KCA.EVA.regular.comment.csv",23
-"KCA200809170",62,"$Suzuki's 200th hit of the season, his eighth consecutive year with at least 200 hits; this ties the major league record set by Willie Keeler (1894-1901) and breaks the American League record set by Wade Boggs (1983-89)","2008KCA.EVA.regular.comment.csv",24
-"KCA200809190",59,"Royals pitcher Robinson Tejeda left the game due to an injured leg","2008KCA.EVA.regular.comment.csv",25
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"KCA200804130",44,"$Billy Butler called for interference","2008KCA.EVA.regular.comment.csv",2
+"KCA200805100",6,"Orioles second baseman Brian Roberts left the game due to an injured foot/ankle","2008KCA.EVA.regular.comment.csv",3
+"KCA200805100",28,"ej,paytj001,P,tscht901,Balls and strikes Orioles left fielder Jay Payton ejected by HP umpire Tim Tschida","2008KCA.EVA.regular.comment.csv",4
+"KCA200805130",7,"$Double was short fly that Ordonez dived for and held for short time and dropped. He then threw to first and Grudzielanek kept going to second","2008KCA.EVA.regular.comment.csv",5
+"KCA200805290",20,"Debut game for Mike Aviles","2008KCA.EVA.regular.comment.csv",6
+"KCA200806100",73,"ej,hillt801,M,everm901,Balls and strikes Royals Manager Trey Hillman ejected by HP umpire Mike Everitt for arguing a strike call on Joey Gathright","2008KCA.EVA.regular.comment.csv",7
+"KCA200806120",1,"Debut game for Eric Hurley","2008KCA.EVA.regular.comment.csv",8
+"KCA200806200",53,"Giants second baseman Ray Durham left the game due to an injured foot/ankle","2008KCA.EVA.regular.comment.csv",9
+"KCA200806220",89,"ej,hinsa001,P,welkb901,Balls and strikes Giants pitcher Alex Hinshaw ejected by HP umpire Bill Welke","2008KCA.EVA.regular.comment.csv",10
+"KCA200806240",14,"umpchange,2,umphome,nauep901 umpchange,2,ump1b,campa902 umpchange,2,ump2b,(None) $Olivo's maple bat broke and the barrel struck plate umpire Brian O'Nora on the side of the head; he went to the KC dugout and was treated for a cut on the forehead; he was taken to the hospital for further evaluation","2008KCA.EVA.regular.comment.csv",11
+"KCA200806290",18,"Royals center fielder David DeJesus left the game due to an injured chest","2008KCA.EVA.regular.comment.csv",12
+"KCA200807120",15,"Debut game for Tug Hulett","2008KCA.EVA.regular.comment.csv",13
+"KCA200807260",31,"ej,hillt801,M,onorb901,Call at 1B Royals Manager Trey Hillman ejected by 1B umpire Brian O'Nora","2008KCA.EVA.regular.comment.csv",14
+"KCA200808020",53,"White Sox center fielder Ken Griffey left the game due to an injured leg","2008KCA.EVA.regular.comment.csv",15
+"KCA200808030",46,"ej,carrd001,P,timmt901,Intentional HBP ej,guilo001,M,timmt901,Intentional HBP ej,olivm001,P,timmt901,Charging the mound after HBP $Royals catcher Miguel Olivo charged the mound after two pitches were thrown at him, including the one that hit him; White Sox catcher A.J. Pierzynski restrained Olivo before he got to the mound; Royals base runner Jose Guillen ran over and grabbed Pierzynski; Olivo was ejected by HP umpire Tim Timmons; White Sox pitcher D. J. Carrasco and manager Ozzie Guillen were ejected by HP umpire Tim Timmons","2008KCA.EVA.regular.comment.csv",16
+"KCA200808030",65,"ej,greiz001,P,timmt901,Intentional HBP ej,hillt801,M,timmt901,Intentional HBP Royals pitcher Zack Greinke and Manager Trey Hillman ejected by HP umpire Tim Timmons","2008KCA.EVA.regular.comment.csv",17
+"KCA200808050",58,"$Royals center fielder Mitch Maier attempted a leaping catch at the top of the wall in left-center; the ball hit his glove and landed on top of the wall where it rolled along for about 10 feet before left fielder Ross Gload swatted the ball off the fence and threw it into the infield","2008KCA.EVA.regular.comment.csv",18
+"KCA200808060",5,"$Red Sox first baseman Kevin Youkilis left the game due to a bruised hand","2008KCA.EVA.regular.comment.csv",19
+"KCA200809020",49,"Debut game for Josh Outman","2008KCA.EVA.regular.comment.csv",20
+"KCA200809042",59,"Debut game for Kila Ka'aihue","2008KCA.EVA.regular.comment.csv",21
+"KCA200809050",67,"Debut game for Devon Lowery","2008KCA.EVA.regular.comment.csv",22
+"KCA200809150",9,"$Ryan Shealy called out on appeal for missing 3B","2008KCA.EVA.regular.comment.csv",23
+"KCA200809160",3,"$Yuniesky Betancourt out on appeal","2008KCA.EVA.regular.comment.csv",24
+"KCA200809170",62,"$Suzuki's 200th hit of the season, his eighth consecutive year with at least 200 hits; this ties the major league record set by Willie Keeler (1894-1901) and breaks the American League record set by Wade Boggs (1983-89)","2008KCA.EVA.regular.comment.csv",25
+"KCA200809190",59,"Royals pitcher Robinson Tejeda left the game due to an injured leg","2008KCA.EVA.regular.comment.csv",26

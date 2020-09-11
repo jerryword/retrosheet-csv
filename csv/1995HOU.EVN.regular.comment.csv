@@ -1,15 +1,16 @@
-"HOU199504300",1,"Debut game for Juan Acevedo","FILENAME_TX","LINE_NUMBER_CT"
-"HOU199504300",9,"Debut game for Jorge Brito","1995HOU.EVN.regular.comment.csv",2
-"HOU199505190",30,"ej,collt801,M,willc901,Intentional HBP ej,kiled001,P,willc901,Intentional HBP Darryl Kile and Astros manager Terry Collins ejected by HP umpire Charlie Williams","1995HOU.EVN.regular.comment.csv",3
-"HOU199506110",13,"Debut game for Phil Nevin","1995HOU.EVN.regular.comment.csv",4
-"HOU199506220",35,"fan interference","1995HOU.EVN.regular.comment.csv",5
-"HOU199507060",7,"$Derek Bell called for interference","1995HOU.EVN.regular.comment.csv",6
-"HOU199507070",81,"Debut game for Marc Kroon","1995HOU.EVN.regular.comment.csv",7
-"HOU199508160",52,"ej,hayec001,P,gormb901,Called third strike Charlie Hayes ejected by HP umpire Brian Gorman","1995HOU.EVN.regular.comment.csv",8
-"HOU199508220",46,"ej,collt801,M,davig901,Balls and strikes $Astros manager Collins ejected by HP umpire Davis for arguing balls and strikes while Cangelosi was at bat","1995HOU.EVN.regular.comment.csv",9
-"HOU199509020",65,"Debut game for Donne Wall","1995HOU.EVN.regular.comment.csv",10
-"HOU199509050",52,"$Reds claimed that Astros catcher Pat Borders elbowed Reds catcher Benito Santiago as Borders crossed the plate; $Xavier Hernandez threw a pitch behind Brian Hunter, which resulted in a brief bench-clearing incident; both teams were warned","1995HOU.EVN.regular.comment.csv",11
-"HOU199509050",53,"ej,gantr001,P,wendh901,Fighting ej,bordp001,P,wendh901,Fighting $Gant catcher Borders ejected by HP umpire Wendelstedt for fightint","1995HOU.EVN.regular.comment.csv",12
-"HOU199509050",58,"ej,hernx001,P,wendh901,Intentional HBP ej,johnd105,M,wendh901,Intentional HBP ej,harrl001,P,wendh901,Fighting $after two batters were hit by consecutive Xavier Hernandez pitches, both benches emptied for a lengthy brawl; the pitch that hit Jeff Bagwell struck the protective pad over his left hand, which had been fractured by another HBP on July 30; Hernandez and Reds manager Davey Johnson were ejected by HP umpire Harry Wendelstedt; Lenny Harris, who had pinch hit in the sixth inning, was also ejected by Wendelstedt","1995HOU.EVN.regular.comment.csv",13
-"HOU199509050",66,"ej,collt801,M,wendh901,Intentional HBP ej,drabd001,P,wendh901,Intentional HBP Doug Drabek and Astros manager Terry Collins ejected by HP umpire Harry Wendelstedt","1995HOU.EVN.regular.comment.csv",14
-"HOU199509260",20,"$Orlando Merced called for interference","1995HOU.EVN.regular.comment.csv",15
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"HOU199504300",1,"Debut game for Juan Acevedo","1995HOU.EVN.regular.comment.csv",2
+"HOU199504300",9,"Debut game for Jorge Brito","1995HOU.EVN.regular.comment.csv",3
+"HOU199505190",30,"ej,collt801,M,willc901,Intentional HBP ej,kiled001,P,willc901,Intentional HBP Darryl Kile and Astros manager Terry Collins ejected by HP umpire Charlie Williams","1995HOU.EVN.regular.comment.csv",4
+"HOU199506110",13,"Debut game for Phil Nevin","1995HOU.EVN.regular.comment.csv",5
+"HOU199506220",35,"fan interference","1995HOU.EVN.regular.comment.csv",6
+"HOU199507060",7,"$Derek Bell called for interference","1995HOU.EVN.regular.comment.csv",7
+"HOU199507070",81,"Debut game for Marc Kroon","1995HOU.EVN.regular.comment.csv",8
+"HOU199508160",52,"ej,hayec001,P,gormb901,Called third strike Charlie Hayes ejected by HP umpire Brian Gorman","1995HOU.EVN.regular.comment.csv",9
+"HOU199508220",46,"ej,collt801,M,davig901,Balls and strikes $Astros manager Collins ejected by HP umpire Davis for arguing balls and strikes while Cangelosi was at bat","1995HOU.EVN.regular.comment.csv",10
+"HOU199509020",65,"Debut game for Donne Wall","1995HOU.EVN.regular.comment.csv",11
+"HOU199509050",52,"$Reds claimed that Astros catcher Pat Borders elbowed Reds catcher Benito Santiago as Borders crossed the plate; $Xavier Hernandez threw a pitch behind Brian Hunter, which resulted in a brief bench-clearing incident; both teams were warned","1995HOU.EVN.regular.comment.csv",12
+"HOU199509050",53,"ej,gantr001,P,wendh901,Fighting ej,bordp001,P,wendh901,Fighting $Gant catcher Borders ejected by HP umpire Wendelstedt for fightint","1995HOU.EVN.regular.comment.csv",13
+"HOU199509050",58,"ej,hernx001,P,wendh901,Intentional HBP ej,johnd105,M,wendh901,Intentional HBP ej,harrl001,P,wendh901,Fighting $after two batters were hit by consecutive Xavier Hernandez pitches, both benches emptied for a lengthy brawl; the pitch that hit Jeff Bagwell struck the protective pad over his left hand, which had been fractured by another HBP on July 30; Hernandez and Reds manager Davey Johnson were ejected by HP umpire Harry Wendelstedt; Lenny Harris, who had pinch hit in the sixth inning, was also ejected by Wendelstedt","1995HOU.EVN.regular.comment.csv",14
+"HOU199509050",66,"ej,collt801,M,wendh901,Intentional HBP ej,drabd001,P,wendh901,Intentional HBP Doug Drabek and Astros manager Terry Collins ejected by HP umpire Harry Wendelstedt","1995HOU.EVN.regular.comment.csv",15
+"HOU199509260",20,"$Orlando Merced called for interference","1995HOU.EVN.regular.comment.csv",16

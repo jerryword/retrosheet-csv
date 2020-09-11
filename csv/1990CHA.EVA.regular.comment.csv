@@ -1,38 +1,39 @@
-"CHA199004090",0,"$last opening day at Comiskey Park","FILENAME_TX","LINE_NUMBER_CT"
-"CHA199004090",25,"$Diaz slipped and fell after fielding grounder in the hole","1990CHA.EVA.regular.comment.csv",2
-"CHA199004090",53,"Debut game for Scott Radinsky","1990CHA.EVA.regular.comment.csv",3
-"CHA199004130",64,"Debut game for Craig Grebeck","1990CHA.EVA.regular.comment.csv",4
-"CHA199004140",20,"$Greg Swindell bobbled squeeze bunt","1990CHA.EVA.regular.comment.csv",5
-"CHA199004140",65,"Debut game for Carlos Baerga","1990CHA.EVA.regular.comment.csv",6
-"CHA199004150",1,"Debut game for Kevin Bearse","1990CHA.EVA.regular.comment.csv",7
-"CHA199004280",1,"Debut game for Jerry Kutzler","1990CHA.EVA.regular.comment.csv",8
-"CHA199004280",53,"$Dave Gallagher left with pulled hamstring","1990CHA.EVA.regular.comment.csv",9
-"CHA199004300",56,"ej,valeb102,M,welkt901,Balls and strikes Rangers manager Bobby Valentine ejected by HP umpire Tim Welke","1990CHA.EVA.regular.comment.csv",10
-"CHA199004300",88,"Debut game for Rodney McCray","1990CHA.EVA.regular.comment.csv",11
-"CHA199005130",85,"$five infielders (rf between 2B and 1B)","1990CHA.EVA.regular.comment.csv",12
-"CHA199005160",33,"$Mike Devereaux left with hamstring strain suffered in top third","1990CHA.EVA.regular.comment.csv",13
-"CHA199005180",31,"Upper deck","1990CHA.EVA.regular.comment.csv",14
-"CHA199005180",48,"ej,heatm001,P,johnm901,Fair/foul call on HR Mike Heath ejected by HP Umpire Mark Johnson","1990CHA.EVA.regular.comment.csv",15
-"CHA199006030",67,"ej,hrbek001,P,koscg901,Balls and strikes Kent Hrbek ejected by HP umpire Greg Kosc","1990CHA.EVA.regular.comment.csv",16
-"CHA199006160",7,"Debut game for Steve Howard","1990CHA.EVA.regular.comment.csv",17
-"CHA199006160",56,"$59 minute rain delay","1990CHA.EVA.regular.comment.csv",18
-"CHA199006160",57,"DWS: invented play","1990CHA.EVA.regular.comment.csv",19
-"CHA199006180",11,"umpchange,2,umphome,hicke901 umpchange,2,ump2b,(None) $the passed ball hit HP umpire John Hirschbeck; Ed Hickox moved behind plate","1990CHA.EVA.regular.comment.csv",20
-"CHA199006180",43,"DWS: missing play","1990CHA.EVA.regular.comment.csv",21
-"CHA199006190",25,"$Sammy Sosa called out for missing 2B on way back to 1B","1990CHA.EVA.regular.comment.csv",22
-"CHA199006290",10,"Debut game for Kevin Maas","1990CHA.EVA.regular.comment.csv",23
-"CHA199007080",94,"ej,flets001,P,younl901,Called third strike $Fletcher ejected by HP umpire Young for arguing called third strike","1990CHA.EVA.regular.comment.csv",24
-"CHA199007110",101,"$over the shoulder catch by Guillen","1990CHA.EVA.regular.comment.csv",25
-"CHA199007240",48,"1:11 rain delay","1990CHA.EVA.regular.comment.csv",26
-"CHA199008101",10,"59 minute rain delay","1990CHA.EVA.regular.comment.csv",27
-"CHA199008140",68,"Debut game for Rob MacDonald","1990CHA.EVA.regular.comment.csv",28
-"CHA199008140",78,"$ball hit 2B umpire Richie Garcia","1990CHA.EVA.regular.comment.csv",29
-"CHA199008200",0,"17-minute rain delay at start of game","1990CHA.EVA.regular.comment.csv",30
-"CHA199008200",2,"$15-minute delay as infield is repaired","1990CHA.EVA.regular.comment.csv",31
-"CHA199008200",10,"$DaveHenderson hurt knee diving for Carlton Fisk's single and goes on DL","1990CHA.EVA.regular.comment.csv",32
-"CHA199008200",64,"$Frank Thomas held as Doug Jennings misjudged an easy pop fly","1990CHA.EVA.regular.comment.csv",33
-"CHA199008210",12,"Debut game for Darren Lewis","1990CHA.EVA.regular.comment.csv",34
-"CHA199008230",67,"ej,fiskc001,P,johnm901,Call at 2B (Bumped umpire) Carlton Fisk ejected by 2B umpire Mark Johnson for bumping the umpire during an argument over the pickoff","1990CHA.EVA.regular.comment.csv",35
-"CHA199009130",77,"$fan interference","1990CHA.EVA.regular.comment.csv",36
-"CHA199009260",52,"ej,caldi001,P,clara901,Balls and strikes Ivan Calderon ejected by HP umpire Al Clark","1990CHA.EVA.regular.comment.csv",37
-"CHA199009280",6,"ej,johnl001,P,brinj901,Call at 2B Lance Johnson ejected by 2B umpire Joe Brinkman","1990CHA.EVA.regular.comment.csv",38
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"CHA199004090",0,"$last opening day at Comiskey Park","1990CHA.EVA.regular.comment.csv",2
+"CHA199004090",25,"$Diaz slipped and fell after fielding grounder in the hole","1990CHA.EVA.regular.comment.csv",3
+"CHA199004090",53,"Debut game for Scott Radinsky","1990CHA.EVA.regular.comment.csv",4
+"CHA199004130",64,"Debut game for Craig Grebeck","1990CHA.EVA.regular.comment.csv",5
+"CHA199004140",20,"$Greg Swindell bobbled squeeze bunt","1990CHA.EVA.regular.comment.csv",6
+"CHA199004140",65,"Debut game for Carlos Baerga","1990CHA.EVA.regular.comment.csv",7
+"CHA199004150",1,"Debut game for Kevin Bearse","1990CHA.EVA.regular.comment.csv",8
+"CHA199004280",1,"Debut game for Jerry Kutzler","1990CHA.EVA.regular.comment.csv",9
+"CHA199004280",53,"$Dave Gallagher left with pulled hamstring","1990CHA.EVA.regular.comment.csv",10
+"CHA199004300",56,"ej,valeb102,M,welkt901,Balls and strikes Rangers manager Bobby Valentine ejected by HP umpire Tim Welke","1990CHA.EVA.regular.comment.csv",11
+"CHA199004300",88,"Debut game for Rodney McCray","1990CHA.EVA.regular.comment.csv",12
+"CHA199005130",85,"$five infielders (rf between 2B and 1B)","1990CHA.EVA.regular.comment.csv",13
+"CHA199005160",33,"$Mike Devereaux left with hamstring strain suffered in top third","1990CHA.EVA.regular.comment.csv",14
+"CHA199005180",31,"Upper deck","1990CHA.EVA.regular.comment.csv",15
+"CHA199005180",48,"ej,heatm001,P,johnm901,Fair/foul call on HR Mike Heath ejected by HP Umpire Mark Johnson","1990CHA.EVA.regular.comment.csv",16
+"CHA199006030",67,"ej,hrbek001,P,koscg901,Balls and strikes Kent Hrbek ejected by HP umpire Greg Kosc","1990CHA.EVA.regular.comment.csv",17
+"CHA199006160",7,"Debut game for Steve Howard","1990CHA.EVA.regular.comment.csv",18
+"CHA199006160",56,"$59 minute rain delay","1990CHA.EVA.regular.comment.csv",19
+"CHA199006160",57,"DWS: invented play","1990CHA.EVA.regular.comment.csv",20
+"CHA199006180",11,"umpchange,2,umphome,hicke901 umpchange,2,ump2b,(None) $the passed ball hit HP umpire John Hirschbeck; Ed Hickox moved behind plate","1990CHA.EVA.regular.comment.csv",21
+"CHA199006180",43,"DWS: missing play","1990CHA.EVA.regular.comment.csv",22
+"CHA199006190",25,"$Sammy Sosa called out for missing 2B on way back to 1B","1990CHA.EVA.regular.comment.csv",23
+"CHA199006290",10,"Debut game for Kevin Maas","1990CHA.EVA.regular.comment.csv",24
+"CHA199007080",94,"ej,flets001,P,younl901,Called third strike $Fletcher ejected by HP umpire Young for arguing called third strike","1990CHA.EVA.regular.comment.csv",25
+"CHA199007110",101,"$over the shoulder catch by Guillen","1990CHA.EVA.regular.comment.csv",26
+"CHA199007240",48,"1:11 rain delay","1990CHA.EVA.regular.comment.csv",27
+"CHA199008101",10,"59 minute rain delay","1990CHA.EVA.regular.comment.csv",28
+"CHA199008140",68,"Debut game for Rob MacDonald","1990CHA.EVA.regular.comment.csv",29
+"CHA199008140",78,"$ball hit 2B umpire Richie Garcia","1990CHA.EVA.regular.comment.csv",30
+"CHA199008200",0,"17-minute rain delay at start of game","1990CHA.EVA.regular.comment.csv",31
+"CHA199008200",2,"$15-minute delay as infield is repaired","1990CHA.EVA.regular.comment.csv",32
+"CHA199008200",10,"$DaveHenderson hurt knee diving for Carlton Fisk's single and goes on DL","1990CHA.EVA.regular.comment.csv",33
+"CHA199008200",64,"$Frank Thomas held as Doug Jennings misjudged an easy pop fly","1990CHA.EVA.regular.comment.csv",34
+"CHA199008210",12,"Debut game for Darren Lewis","1990CHA.EVA.regular.comment.csv",35
+"CHA199008230",67,"ej,fiskc001,P,johnm901,Call at 2B (Bumped umpire) Carlton Fisk ejected by 2B umpire Mark Johnson for bumping the umpire during an argument over the pickoff","1990CHA.EVA.regular.comment.csv",36
+"CHA199009130",77,"$fan interference","1990CHA.EVA.regular.comment.csv",37
+"CHA199009260",52,"ej,caldi001,P,clara901,Balls and strikes Ivan Calderon ejected by HP umpire Al Clark","1990CHA.EVA.regular.comment.csv",38
+"CHA199009280",6,"ej,johnl001,P,brinj901,Call at 2B Lance Johnson ejected by 2B umpire Joe Brinkman","1990CHA.EVA.regular.comment.csv",39

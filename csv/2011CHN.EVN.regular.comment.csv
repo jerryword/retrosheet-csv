@@ -1,33 +1,34 @@
-"CHN201104020",48,"Cubs pitcher Carlos Zambrano left the game due to an injured hand","FILENAME_TX","LINE_NUMBER_CT"
-"CHN201104230",42,"$Dodgers first baseman James Loney called for obstruction","2011CHN.EVN.regular.comment.csv",2
-"CHN201105100",0,"$Cardinals manager Tony LaRussa was not with the team; he was in Arizona because of a persistent case of shingles","2011CHN.EVN.regular.comment.csv",3
-"CHN201105100",13,"Cubs catcher Geovany Soto left the game due to an injured groin","2011CHN.EVN.regular.comment.csv",4
-"CHN201105110",0,"$Cardinals manager Tony LaRussa was not with the team; he was in Arizona because of a persistent case of shingles","2011CHN.EVN.regular.comment.csv",5
-"CHN201105120",0,"$Cardinals manager Tony LaRussa was not with the team because of a persistent case of shingles","2011CHN.EVN.regular.comment.csv",6
-"CHN201105140",53,"$Game called for rain after delay of 40 minutes","2011CHN.EVN.regular.comment.csv",7
-"CHN201105240",59,"Mets left fielder Jason Bay left the game due to an injured leg","2011CHN.EVN.regular.comment.csv",8
-"CHN201105250",62,"Game called for rain; when crew chief Dale Scott pulled the teams off the field, Cubs manager Mike Quade went onto the field and argued with Scott for a few minutes","2011CHN.EVN.regular.comment.csv",9
-"CHN201105260",16,"$RF Kosuke Fukudome's throw was not handled by 2B Darwin Barney so Jose Reyes advanced to 3B; Barney's throw to 3B bounced past 3B Blake DeWitt","2011CHN.EVN.regular.comment.csv",10
-"CHN201105260",23,"Mets pitcher R. A. Dickey left the game due to an injured ankle","2011CHN.EVN.regular.comment.csv",11
-"CHN201105260",58,"$the ball deflected off pitcher Sean Marshall's glove","2011CHN.EVN.regular.comment.csv",12
-"CHN201105280",29,"Pirates first baseman Steve Pearce left the game due to an injured leg","2011CHN.EVN.regular.comment.csv",13
-"CHN201105290",16,"originally E6 and changed to E3 on 5-31","2011CHN.EVN.regular.comment.csv",14
-"CHN201105290",17,"Pirates catcher Ryan Doumit left the game due to an injured ankle","2011CHN.EVN.regular.comment.csv",15
-"CHN201105300",13,"Cubs left fielder Alfonso Soriano left the game due to an injured leg","2011CHN.EVN.regular.comment.csv",16
-"CHN201106010",50,"$Chris Johnson's hard grounder bounced and struck Cubs 3B Aramis Ramirez on the face as he dove towards the line; he suffered a laceration on the inside of his upper lip and was taken to the hospital to get stitiches","2011CHN.EVN.regular.comment.csv",17
-"CHN201106130",13,"umpchange,2,ump3b,hicke901 umpchange,2,ump2b,(None) $3B umpire and crew chief Ed Rapuano left the game because of what was described as a non-emergency medical reason","2011CHN.EVN.regular.comment.csv",18
-"CHN201106140",73,"ej,quadm801,M,marqa901,Balls and strikes Cubs Manager Mike Quade ejected by HP umpire Alfonso Marquez for yelling from the dugout after Marquez called the seventh pitch to Prince Fielder a ball","2011CHN.EVN.regular.comment.csv",19
-"CHN201106150",16,"originally scored as E5, changed next day to single","2011CHN.EVN.regular.comment.csv",20
-"CHN201106300",11,"Cubs pitcher Carlos Zambrano left the game due to an injured back","2011CHN.EVN.regular.comment.csv",21
-"CHN201107010",44,"$300th career homer for Aramis Ramirez","2011CHN.EVN.regular.comment.csv",22
-"CHN201107020",14,"ej,quadm801,M,emmep901,Call at 2B $on the double play, White Sox 2B Gordon Beckham seemed to be off the bag when he caught the throw; 2B umpire Paul Emmel ruled Marlon Byrd out; Cubs manager Mike Quade argued the play and was ejected by Emmel; as Quade left the field, he also yelled at HP umpire and crew chief Gary Darling from a distance","2011CHN.EVN.regular.comment.csv",23
-"CHN201107180",38,"Phillies pitcher Roy Halladay left because of the heat","2011CHN.EVN.regular.comment.csv",24
-"CHN201107220",41,"originally scored as single, changed 6 days later","2011CHN.EVN.regular.comment.csv",25
-"CHN201107230",66,"$Chris Johnson made a diving stop on the 3B line but could not get the ball out of his glove the first time he tried; he then threw the ball away to 1B, allowing the second run to score","2011CHN.EVN.regular.comment.csv",26
-"CHN201108060",26,"$23rd career homer for pitcher Carlos Zambrano","2011CHN.EVN.regular.comment.csv",27
-"CHN201108060",35,"$2B Brandon Phillips caught the ball then collided with CF Drew Stubbs; Phillips dropped the ball in the collision and sprained his right ankle; he stayed in the game","2011CHN.EVN.regular.comment.csv",28
-"CHN201108060",45,"Brandon Phillips left the game with a sprained right ankle","2011CHN.EVN.regular.comment.csv",29
-"CHN201108070",73,"umpchange,8,umphome,eddid901 umpchange,8,ump1b,demud901 umpchange,8,ump2b,(None) $HP umpire Paul Nauert left the game due to heat-related issues; he had been using wet towels between innings to cool off and drinking water and Gatorade","2011CHN.EVN.regular.comment.csv",30
-"CHN201108220",52,"Braves center fielder Jose Constanza left the game due to an injured ankle","2011CHN.EVN.regular.comment.csv",31
-"CHN201109180",68,"ej,quadm801,M,fostm901,Home run replay ruling replay,5,penac001,CHN,nelsj901,CHI11,O,Y,I,,H $Carlos Pena's fly to LF hit the yellow stripe on the front edge of the basket that hangs on the wall; there was an umbrella in the basket that moved as the ball hit, making it appear that the ball struck the umbrella and caromed back onto the field; the play was ruled a homer by 3B umpire Marty Foster but when Astros manager Brad Mills asked about the call, acting chief Jeff Nelson watched the replay and overturned the call to a ball in play; the runners were placed at 2B and 3B, which was the correct ruling based on the position of Starlin Castro as the ball was thrown into the infield; Cubs manager Mike Quade argued the ruling and was ejected by Foster","2011CHN.EVN.regular.comment.csv",32
-"CHN201109200",53,"Cubs third baseman Aramis Ramirez left the game due to an injured leg","2011CHN.EVN.regular.comment.csv",33
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"CHN201104020",48,"Cubs pitcher Carlos Zambrano left the game due to an injured hand","2011CHN.EVN.regular.comment.csv",2
+"CHN201104230",42,"$Dodgers first baseman James Loney called for obstruction","2011CHN.EVN.regular.comment.csv",3
+"CHN201105100",0,"$Cardinals manager Tony LaRussa was not with the team; he was in Arizona because of a persistent case of shingles","2011CHN.EVN.regular.comment.csv",4
+"CHN201105100",13,"Cubs catcher Geovany Soto left the game due to an injured groin","2011CHN.EVN.regular.comment.csv",5
+"CHN201105110",0,"$Cardinals manager Tony LaRussa was not with the team; he was in Arizona because of a persistent case of shingles","2011CHN.EVN.regular.comment.csv",6
+"CHN201105120",0,"$Cardinals manager Tony LaRussa was not with the team because of a persistent case of shingles","2011CHN.EVN.regular.comment.csv",7
+"CHN201105140",53,"$Game called for rain after delay of 40 minutes","2011CHN.EVN.regular.comment.csv",8
+"CHN201105240",59,"Mets left fielder Jason Bay left the game due to an injured leg","2011CHN.EVN.regular.comment.csv",9
+"CHN201105250",62,"Game called for rain; when crew chief Dale Scott pulled the teams off the field, Cubs manager Mike Quade went onto the field and argued with Scott for a few minutes","2011CHN.EVN.regular.comment.csv",10
+"CHN201105260",16,"$RF Kosuke Fukudome's throw was not handled by 2B Darwin Barney so Jose Reyes advanced to 3B; Barney's throw to 3B bounced past 3B Blake DeWitt","2011CHN.EVN.regular.comment.csv",11
+"CHN201105260",23,"Mets pitcher R. A. Dickey left the game due to an injured ankle","2011CHN.EVN.regular.comment.csv",12
+"CHN201105260",58,"$the ball deflected off pitcher Sean Marshall's glove","2011CHN.EVN.regular.comment.csv",13
+"CHN201105280",29,"Pirates first baseman Steve Pearce left the game due to an injured leg","2011CHN.EVN.regular.comment.csv",14
+"CHN201105290",16,"originally E6 and changed to E3 on 5-31","2011CHN.EVN.regular.comment.csv",15
+"CHN201105290",17,"Pirates catcher Ryan Doumit left the game due to an injured ankle","2011CHN.EVN.regular.comment.csv",16
+"CHN201105300",13,"Cubs left fielder Alfonso Soriano left the game due to an injured leg","2011CHN.EVN.regular.comment.csv",17
+"CHN201106010",50,"$Chris Johnson's hard grounder bounced and struck Cubs 3B Aramis Ramirez on the face as he dove towards the line; he suffered a laceration on the inside of his upper lip and was taken to the hospital to get stitiches","2011CHN.EVN.regular.comment.csv",18
+"CHN201106130",13,"umpchange,2,ump3b,hicke901 umpchange,2,ump2b,(None) $3B umpire and crew chief Ed Rapuano left the game because of what was described as a non-emergency medical reason","2011CHN.EVN.regular.comment.csv",19
+"CHN201106140",73,"ej,quadm801,M,marqa901,Balls and strikes Cubs Manager Mike Quade ejected by HP umpire Alfonso Marquez for yelling from the dugout after Marquez called the seventh pitch to Prince Fielder a ball","2011CHN.EVN.regular.comment.csv",20
+"CHN201106150",16,"originally scored as E5, changed next day to single","2011CHN.EVN.regular.comment.csv",21
+"CHN201106300",11,"Cubs pitcher Carlos Zambrano left the game due to an injured back","2011CHN.EVN.regular.comment.csv",22
+"CHN201107010",44,"$300th career homer for Aramis Ramirez","2011CHN.EVN.regular.comment.csv",23
+"CHN201107020",14,"ej,quadm801,M,emmep901,Call at 2B $on the double play, White Sox 2B Gordon Beckham seemed to be off the bag when he caught the throw; 2B umpire Paul Emmel ruled Marlon Byrd out; Cubs manager Mike Quade argued the play and was ejected by Emmel; as Quade left the field, he also yelled at HP umpire and crew chief Gary Darling from a distance","2011CHN.EVN.regular.comment.csv",24
+"CHN201107180",38,"Phillies pitcher Roy Halladay left because of the heat","2011CHN.EVN.regular.comment.csv",25
+"CHN201107220",41,"originally scored as single, changed 6 days later","2011CHN.EVN.regular.comment.csv",26
+"CHN201107230",66,"$Chris Johnson made a diving stop on the 3B line but could not get the ball out of his glove the first time he tried; he then threw the ball away to 1B, allowing the second run to score","2011CHN.EVN.regular.comment.csv",27
+"CHN201108060",26,"$23rd career homer for pitcher Carlos Zambrano","2011CHN.EVN.regular.comment.csv",28
+"CHN201108060",35,"$2B Brandon Phillips caught the ball then collided with CF Drew Stubbs; Phillips dropped the ball in the collision and sprained his right ankle; he stayed in the game","2011CHN.EVN.regular.comment.csv",29
+"CHN201108060",45,"Brandon Phillips left the game with a sprained right ankle","2011CHN.EVN.regular.comment.csv",30
+"CHN201108070",73,"umpchange,8,umphome,eddid901 umpchange,8,ump1b,demud901 umpchange,8,ump2b,(None) $HP umpire Paul Nauert left the game due to heat-related issues; he had been using wet towels between innings to cool off and drinking water and Gatorade","2011CHN.EVN.regular.comment.csv",31
+"CHN201108220",52,"Braves center fielder Jose Constanza left the game due to an injured ankle","2011CHN.EVN.regular.comment.csv",32
+"CHN201109180",68,"ej,quadm801,M,fostm901,Home run replay ruling replay,5,penac001,CHN,nelsj901,CHI11,O,Y,I,,H $Carlos Pena's fly to LF hit the yellow stripe on the front edge of the basket that hangs on the wall; there was an umbrella in the basket that moved as the ball hit, making it appear that the ball struck the umbrella and caromed back onto the field; the play was ruled a homer by 3B umpire Marty Foster but when Astros manager Brad Mills asked about the call, acting chief Jeff Nelson watched the replay and overturned the call to a ball in play; the runners were placed at 2B and 3B, which was the correct ruling based on the position of Starlin Castro as the ball was thrown into the infield; Cubs manager Mike Quade argued the ruling and was ejected by Foster","2011CHN.EVN.regular.comment.csv",33
+"CHN201109200",53,"Cubs third baseman Aramis Ramirez left the game due to an injured leg","2011CHN.EVN.regular.comment.csv",34

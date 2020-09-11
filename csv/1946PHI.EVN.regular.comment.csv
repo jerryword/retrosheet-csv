@@ -1,26 +1,27 @@
-"PHI194604212",55,"$game called for curfew","FILENAME_TX","LINE_NUMBER_CT"
-"PHI194604240",3,"$370 feet","1946PHI.EVN.regular.comment.csv",2
-"PHI194605170",57,"$game called for rain","1946PHI.EVN.regular.comment.csv",3
-"PHI194605210",16,"$14 minute rain delay with two strikes on Tabor","1946PHI.EVN.regular.comment.csv",4
-"PHI194605210",52,"pbp account ends here, rest deduced","1946PHI.EVN.regular.comment.csv",5
-"PHI194605250",22,"$as Pete Reiser stole HP, Augie Galan fouled the pitch but Andy Seminick tipped the bat; HP umpire Al Barlick let Reiser score and awarded Galan 1B; Phillies manager Ben Chapman argued that Reiser had to go back to 3B; Barlick said after it was interference and catcher's balk; official scorer Bill Dooley gave Reiser a SB and did not give balk","1946PHI.EVN.regular.comment.csv",6
-"PHI194605261",58,"$Al Jurisich left with sore arm","1946PHI.EVN.regular.comment.csv",7
-"PHI194605262",62,"$came called due to curfew","1946PHI.EVN.regular.comment.csv",8
-"PHI194605301",28,"$Del Ennis called for interference","1946PHI.EVN.regular.comment.csv",9
-"PHI194606232",87,"$Game called for curfew","1946PHI.EVN.regular.comment.csv",10
-"PHI194606280",4,"$Marshall turned too wide at 3rd and was out","1946PHI.EVN.regular.comment.csv",11
-"PHI194606280",62,"pbp account ends here, rest deduced","1946PHI.EVN.regular.comment.csv",12
-"PHI194607272",24,"umpchange,4,umphome,pineb101 umpchange,4,ump1b,barla901 umpchange,4,ump3b,(None) $HP umpire Lee Ballanfant left due to illness","1946PHI.EVN.regular.comment.csv",13
-"PHI194608020",0,"ej,culpb102,C,goetl901,Call at 1B Phillies Coach Benny Culp ejected by 1B umpire Larry Goetz sometime in game","1946PHI.EVN.regular.comment.csv",14
-"PHI194608030",40,"game called due to rain","1946PHI.EVN.regular.comment.csv",15
-"PHI194608042",63,"$Schoolboy Rowe was injured chasing Erv Dusak's grounder","1946PHI.EVN.regular.comment.csv",16
-"PHI194608060",32,"$Johnny Wyrostek rounded 2B too far","1946PHI.EVN.regular.comment.csv",17
-"PHI194608060",84,"rain started","1946PHI.EVN.regular.comment.csv",18
-"PHI194608111",76,"$the Phillies claimed Ed Stevens out at HP; fans threw pop bottles onto the field","1946PHI.EVN.regular.comment.csv",19
-"PHI194608112",1,"ej,stane101,P,mageg901,Called third strike (Shoved umpire) ej,durol101,M,mageg901,Called third strike (Shoved umpire) $as Eddie Stanky walked away, he ran into HP umpire George Magerkurth's outstretched arm which was signaling the called third strike; as they stood entangled, Magerkurth insisted that Stanky retrace his steps and walk in front or behind him; Stanky was just as stubborn and there was a bit of shovingbefore they untabgled themselves; Dodgers manager Leo Durocher yelled at Magerkurth from the bench and was ejected; Durocher ran to HP and crowded the umpire, who pushed Durocher away; Durocher ran at Magerkurth but the other umpires got between the two; Stanky and Durocher ejected by Magerkurth","1946PHI.EVN.regular.comment.csv",20
-"PHI194608112",20,"ej,behrh101,P,mageg901,Bench jockeying ej,branr103,P,mageg901,Bench jockeying Hank Behrman and Ralph Branca ejected by HP umpire George Magerkurth","1946PHI.EVN.regular.comment.csv",21
-"PHI194608112",31,"$HP umpire George Magerkurth cleared the Dodgers bench, leaving only coaches Charley Dressen and Red Corriden","1946PHI.EVN.regular.comment.csv",22
-"PHI194608311",29,"$Danny Litwhiler struck on the face, breaking his right cheekbone","1946PHI.EVN.regular.comment.csv",23
-"PHI194608311",84,"$Dick Mauney and Rollie Hemsley collided","1946PHI.EVN.regular.comment.csv",24
-"PHI194608312",26,"$Mike McCormick tore cartilage in his left leg sliding into 3B","1946PHI.EVN.regular.comment.csv",25
-"PHI194609160",44,"$apparently second baseman missed base on DP try","1946PHI.EVN.regular.comment.csv",26
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"PHI194604212",55,"$game called for curfew","1946PHI.EVN.regular.comment.csv",2
+"PHI194604240",3,"$370 feet","1946PHI.EVN.regular.comment.csv",3
+"PHI194605170",57,"$game called for rain","1946PHI.EVN.regular.comment.csv",4
+"PHI194605210",16,"$14 minute rain delay with two strikes on Tabor","1946PHI.EVN.regular.comment.csv",5
+"PHI194605210",52,"pbp account ends here, rest deduced","1946PHI.EVN.regular.comment.csv",6
+"PHI194605250",22,"$as Pete Reiser stole HP, Augie Galan fouled the pitch but Andy Seminick tipped the bat; HP umpire Al Barlick let Reiser score and awarded Galan 1B; Phillies manager Ben Chapman argued that Reiser had to go back to 3B; Barlick said after it was interference and catcher's balk; official scorer Bill Dooley gave Reiser a SB and did not give balk","1946PHI.EVN.regular.comment.csv",7
+"PHI194605261",58,"$Al Jurisich left with sore arm","1946PHI.EVN.regular.comment.csv",8
+"PHI194605262",62,"$came called due to curfew","1946PHI.EVN.regular.comment.csv",9
+"PHI194605301",28,"$Del Ennis called for interference","1946PHI.EVN.regular.comment.csv",10
+"PHI194606232",87,"$Game called for curfew","1946PHI.EVN.regular.comment.csv",11
+"PHI194606280",4,"$Marshall turned too wide at 3rd and was out","1946PHI.EVN.regular.comment.csv",12
+"PHI194606280",62,"pbp account ends here, rest deduced","1946PHI.EVN.regular.comment.csv",13
+"PHI194607272",24,"umpchange,4,umphome,pineb101 umpchange,4,ump1b,barla901 umpchange,4,ump3b,(None) $HP umpire Lee Ballanfant left due to illness","1946PHI.EVN.regular.comment.csv",14
+"PHI194608020",0,"ej,culpb102,C,goetl901,Call at 1B Phillies Coach Benny Culp ejected by 1B umpire Larry Goetz sometime in game","1946PHI.EVN.regular.comment.csv",15
+"PHI194608030",40,"game called due to rain","1946PHI.EVN.regular.comment.csv",16
+"PHI194608042",63,"$Schoolboy Rowe was injured chasing Erv Dusak's grounder","1946PHI.EVN.regular.comment.csv",17
+"PHI194608060",32,"$Johnny Wyrostek rounded 2B too far","1946PHI.EVN.regular.comment.csv",18
+"PHI194608060",84,"rain started","1946PHI.EVN.regular.comment.csv",19
+"PHI194608111",76,"$the Phillies claimed Ed Stevens out at HP; fans threw pop bottles onto the field","1946PHI.EVN.regular.comment.csv",20
+"PHI194608112",1,"ej,stane101,P,mageg901,Called third strike (Shoved umpire) ej,durol101,M,mageg901,Called third strike (Shoved umpire) $as Eddie Stanky walked away, he ran into HP umpire George Magerkurth's outstretched arm which was signaling the called third strike; as they stood entangled, Magerkurth insisted that Stanky retrace his steps and walk in front or behind him; Stanky was just as stubborn and there was a bit of shovingbefore they untabgled themselves; Dodgers manager Leo Durocher yelled at Magerkurth from the bench and was ejected; Durocher ran to HP and crowded the umpire, who pushed Durocher away; Durocher ran at Magerkurth but the other umpires got between the two; Stanky and Durocher ejected by Magerkurth","1946PHI.EVN.regular.comment.csv",21
+"PHI194608112",20,"ej,behrh101,P,mageg901,Bench jockeying ej,branr103,P,mageg901,Bench jockeying Hank Behrman and Ralph Branca ejected by HP umpire George Magerkurth","1946PHI.EVN.regular.comment.csv",22
+"PHI194608112",31,"$HP umpire George Magerkurth cleared the Dodgers bench, leaving only coaches Charley Dressen and Red Corriden","1946PHI.EVN.regular.comment.csv",23
+"PHI194608311",29,"$Danny Litwhiler struck on the face, breaking his right cheekbone","1946PHI.EVN.regular.comment.csv",24
+"PHI194608311",84,"$Dick Mauney and Rollie Hemsley collided","1946PHI.EVN.regular.comment.csv",25
+"PHI194608312",26,"$Mike McCormick tore cartilage in his left leg sliding into 3B","1946PHI.EVN.regular.comment.csv",26
+"PHI194609160",44,"$apparently second baseman missed base on DP try","1946PHI.EVN.regular.comment.csv",27

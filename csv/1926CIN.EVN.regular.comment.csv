@@ -1,22 +1,23 @@
-"CIN192605090",49,"rain started to fall","FILENAME_TX","LINE_NUMBER_CT"
-"CIN192605170",24,"ej,rouse101,P,riglc901,Balk non-call Edd Roush ejected by HP umpire Cy Rigler claiming that Jimmy Ring balked","1926CIN.EVN.regular.comment.csv",2
-"CIN192606210",69,"$Piercy entered with 2-0 count and threw wild pitch; walk charged to Milstead","1926CIN.EVN.regular.comment.csv",3
-"CIN192606210",92,"ej,maysc101,P,pfirc901,Fair/foul call ej,piciv101,P,odayh101,Fair/foul call Carl Mays & Val Picinich ejected by HP umpire Hank O'Day arguing a fair/foul call","1926CIN.EVN.regular.comment.csv",4
-"CIN192607092",1,"$the ball hit the bag and bounced away from Babe Pinelli","1926CIN.EVN.regular.comment.csv",5
-"CIN192607100",35,"$Val Picinich left the plate unguarded","1926CIN.EVN.regular.comment.csv",6
-"CIN192607100",41,"$HP Umpire Peter McLaughlin had his right ear torn by a foul tip during this half inning","1926CIN.EVN.regular.comment.csv",7
-"CIN192607100",56,"$Freddy Lindstrom hurt his ankle sliding into 1B","1926CIN.EVN.regular.comment.csv",8
-"CIN192607200",30,"$the Reds pulled the hidden ball trick","1926CIN.EVN.regular.comment.csv",9
-"CIN192607200",34,"ej,marrw101,P,odayh101,Fighting ej,pippw101,P,odayh101,Fighting $Wally Pipp ran into Bill Marriott on the play and they started to fight; Pipp & Marriott ejected by 3B umpire Hank O'Day","1926CIN.EVN.regular.comment.csv",10
-"CIN192607250",33,"ej,devla101,C,mccob104,Fighting ej,piciv101,P,mccob104,Fighting ej,pineb101,P,mccob104,Fighting Val Picinich, Babe Pinelli & Braves Coach Art Devlin ejected by HP umpire Barry McCormick","1926CIN.EVN.regular.comment.csv",11
-"CIN192608200",21,"ej,pineb101,P,sweej901,Balls and strikes Reds' Pinelli ejected for arguing balls and strikes","1926CIN.EVN.regular.comment.csv",12
-"CIN192608210",102,"game called for darkness","1926CIN.EVN.regular.comment.csv",13
-"CIN192608240",0,"$Reds' tenth consecutive win and Giants' sixth straight loss","1926CIN.EVN.regular.comment.csv",14
-"CIN192609030",9,"$Les Bell struck Edd Roush on the head with a throw","1926CIN.EVN.regular.comment.csv",15
-"CIN192609040",5,"$Rogers Horsnby fell backwards attempting the catch and was slightly injured","1926CIN.EVN.regular.comment.csv",16
-"CIN192609061",0,"$Labor Day morning game","1926CIN.EVN.regular.comment.csv",17
-"CIN192609061",20,"$Jakie May injured on the play","1926CIN.EVN.regular.comment.csv",18
-"CIN192609061",58,"$Sparky Adams dropped the ball trying for a double play; Umpire Cy Rigler ruled the batter was out and Hod Ford was permitted to remain at 1B","1926CIN.EVN.regular.comment.csv",19
-"CIN192609061",59,"$Hod Ford slipped rounding 2B","1926CIN.EVN.regular.comment.csv",20
-"CIN192609062",0,"$Labor Day afternoon game","1926CIN.EVN.regular.comment.csv",21
-"CIN192609062",25,"$lost in the sun","1926CIN.EVN.regular.comment.csv",22
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"CIN192605090",49,"rain started to fall","1926CIN.EVN.regular.comment.csv",2
+"CIN192605170",24,"ej,rouse101,P,riglc901,Balk non-call Edd Roush ejected by HP umpire Cy Rigler claiming that Jimmy Ring balked","1926CIN.EVN.regular.comment.csv",3
+"CIN192606210",69,"$Piercy entered with 2-0 count and threw wild pitch; walk charged to Milstead","1926CIN.EVN.regular.comment.csv",4
+"CIN192606210",92,"ej,maysc101,P,pfirc901,Fair/foul call ej,piciv101,P,odayh101,Fair/foul call Carl Mays & Val Picinich ejected by HP umpire Hank O'Day arguing a fair/foul call","1926CIN.EVN.regular.comment.csv",5
+"CIN192607092",1,"$the ball hit the bag and bounced away from Babe Pinelli","1926CIN.EVN.regular.comment.csv",6
+"CIN192607100",35,"$Val Picinich left the plate unguarded","1926CIN.EVN.regular.comment.csv",7
+"CIN192607100",41,"$HP Umpire Peter McLaughlin had his right ear torn by a foul tip during this half inning","1926CIN.EVN.regular.comment.csv",8
+"CIN192607100",56,"$Freddy Lindstrom hurt his ankle sliding into 1B","1926CIN.EVN.regular.comment.csv",9
+"CIN192607200",30,"$the Reds pulled the hidden ball trick","1926CIN.EVN.regular.comment.csv",10
+"CIN192607200",34,"ej,marrw101,P,odayh101,Fighting ej,pippw101,P,odayh101,Fighting $Wally Pipp ran into Bill Marriott on the play and they started to fight; Pipp & Marriott ejected by 3B umpire Hank O'Day","1926CIN.EVN.regular.comment.csv",11
+"CIN192607250",33,"ej,devla101,C,mccob104,Fighting ej,piciv101,P,mccob104,Fighting ej,pineb101,P,mccob104,Fighting Val Picinich, Babe Pinelli & Braves Coach Art Devlin ejected by HP umpire Barry McCormick","1926CIN.EVN.regular.comment.csv",12
+"CIN192608200",21,"ej,pineb101,P,sweej901,Balls and strikes Reds' Pinelli ejected for arguing balls and strikes","1926CIN.EVN.regular.comment.csv",13
+"CIN192608210",102,"game called for darkness","1926CIN.EVN.regular.comment.csv",14
+"CIN192608240",0,"$Reds' tenth consecutive win and Giants' sixth straight loss","1926CIN.EVN.regular.comment.csv",15
+"CIN192609030",9,"$Les Bell struck Edd Roush on the head with a throw","1926CIN.EVN.regular.comment.csv",16
+"CIN192609040",5,"$Rogers Horsnby fell backwards attempting the catch and was slightly injured","1926CIN.EVN.regular.comment.csv",17
+"CIN192609061",0,"$Labor Day morning game","1926CIN.EVN.regular.comment.csv",18
+"CIN192609061",20,"$Jakie May injured on the play","1926CIN.EVN.regular.comment.csv",19
+"CIN192609061",58,"$Sparky Adams dropped the ball trying for a double play; Umpire Cy Rigler ruled the batter was out and Hod Ford was permitted to remain at 1B","1926CIN.EVN.regular.comment.csv",20
+"CIN192609061",59,"$Hod Ford slipped rounding 2B","1926CIN.EVN.regular.comment.csv",21
+"CIN192609062",0,"$Labor Day afternoon game","1926CIN.EVN.regular.comment.csv",22
+"CIN192609062",25,"$lost in the sun","1926CIN.EVN.regular.comment.csv",23

@@ -1,41 +1,42 @@
-"DET195904100",87,"Debut game for Rudy Arias","FILENAME_TX","LINE_NUMBER_CT"
-"DET195904220",15,"Debut game for Gene Leek","1959DET.EVA.regular.comment.csv",2
-"DET195904230",1,"Debut game for Jim Perry","1959DET.EVA.regular.comment.csv",3
-"DET195904290",15,"20 minute rain delay","1959DET.EVA.regular.comment.csv",4
-"DET195904290",24,"5 minute rain delay","1959DET.EVA.regular.comment.csv",5
-"DET195904290",32,"21 minute rain delay","1959DET.EVA.regular.comment.csv",6
-"DET195904290",48,"$Larry Doby held up to see if Lenny Green would catch the ball","1959DET.EVA.regular.comment.csv",7
-"DET195904290",51,"game called after 1:05 rain delay; Willie Tasby led off the 6th with a single which was washed out","1959DET.EVA.regular.comment.csv",8
-"DET195905031",56,"DIFF: officials Richards 0 CS today;per Det s/s & NY s/s CS","1959DET.EVA.regular.comment.csv",9
-"DET195905100",5,"$Bob Cerv struck on the hand","1959DET.EVA.regular.comment.csv",10
-"DET195905100",69,"$Bud Meyer struck by ball","1959DET.EVA.regular.comment.csv",11
-"DET195906030",34,"DIFF: officials McDougald 0 CS today;per Det s/s & NY s/s CS","1959DET.EVA.regular.comment.csv",12
-"DET195906030",78,"375 ft","1959DET.EVA.regular.comment.csv",13
-"DET195906230",27,"$Don Buddin's throw hit Harvey Kuenn on the back","1959DET.EVA.regular.comment.csv",14
-"DET195906250",77,"$Jackie Jensen's throw hit Harvey Kuenn","1959DET.EVA.regular.comment.csv",15
-"DET195906290",19,"$Jim Bunning struck on his right wrist","1959DET.EVA.regular.comment.csv",16
-"DET195906290",50,"missing play in DET195906290","1959DET.EVA.regular.comment.csv",17
-"DET195907010",9,"$Johnny Groth left with leg injury","1959DET.EVA.regular.comment.csv",18
-"DET195907010",18,"10 minute rain delay","1959DET.EVA.regular.comment.csv",19
-"DET195907010",49,"35 minute rain delay","1959DET.EVA.regular.comment.csv",20
-"DET195907020",18,"$Ted Lepicio hurt his ankle sliding into 2B","1959DET.EVA.regular.comment.csv",21
-"DET195907030",28,"DIFF: officials Maxwell 0 GDP today","1959DET.EVA.regular.comment.csv",22
-"DET195907042",66,"$Russ Nixon struck on the foot by a foul ball","1959DET.EVA.regular.comment.csv",23
-"DET195907230",55,"15 minute rain delay","1959DET.EVA.regular.comment.csv",24
-"DET195907240",39,"$Rocky Bridges left with injured left ankle","1959DET.EVA.regular.comment.csv",25
-"DET195907250",86,"$Bill Skowron left with severely dislocated wrist","1959DET.EVA.regular.comment.csv",26
-"DET195907270",1,"Debut game for Barry Shetrone","1959DET.EVA.regular.comment.csv",27
-"DET195907290",58,"Debut game for Steve Demeter","1959DET.EVA.regular.comment.csv",28
-"DET195908010",0,"Protest=H","1959DET.EVA.regular.comment.csv",29
-"DET195908010",33,"$Tigers manager Jimmy Dykes claimed Jerry Casale balked and played the game under protest","1959DET.EVA.regular.comment.csv",30
-"DET195908020",63,"DIFF: officials Malzone 0 CS today; Det s/s says CS","1959DET.EVA.regular.comment.csv",31
-"DET195908170",30,"Russ Nixon hurt running to 2B","1959DET.EVA.regular.comment.csv",32
-"DET195908180",16,"DIFF: officials Kaline 0 CS today;per Det s/s CS","1959DET.EVA.regular.comment.csv",33
-"DET195908200",4,"DIFF: officials Kubek 0 CS today; per DET & NY s/s CS","1959DET.EVA.regular.comment.csv",34
-"DET195908220",66,"Debut game for Ron Shoop","1959DET.EVA.regular.comment.csv",35
-"DET195908230",51,"18 minute rain delay","1959DET.EVA.regular.comment.csv",36
-"DET195908230",83,"$second game of double header started but rained out","1959DET.EVA.regular.comment.csv",37
-"DET195909220",32,"missing play in DET195909220","1959DET.EVA.regular.comment.csv",38
-"DET195909220",37,"missing play in DET195909220","1959DET.EVA.regular.comment.csv",39
-"DET195909250",78,"$Norm Cash argued the call at 1B with umpire Larry Napp","1959DET.EVA.regular.comment.csv",40
-"DET195909270",48,"Debut game for Cam Carreon","1959DET.EVA.regular.comment.csv",41
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"DET195904100",87,"Debut game for Rudy Arias","1959DET.EVA.regular.comment.csv",2
+"DET195904220",15,"Debut game for Gene Leek","1959DET.EVA.regular.comment.csv",3
+"DET195904230",1,"Debut game for Jim Perry","1959DET.EVA.regular.comment.csv",4
+"DET195904290",15,"20 minute rain delay","1959DET.EVA.regular.comment.csv",5
+"DET195904290",24,"5 minute rain delay","1959DET.EVA.regular.comment.csv",6
+"DET195904290",32,"21 minute rain delay","1959DET.EVA.regular.comment.csv",7
+"DET195904290",48,"$Larry Doby held up to see if Lenny Green would catch the ball","1959DET.EVA.regular.comment.csv",8
+"DET195904290",51,"game called after 1:05 rain delay; Willie Tasby led off the 6th with a single which was washed out","1959DET.EVA.regular.comment.csv",9
+"DET195905031",56,"DIFF: officials Richards 0 CS today;per Det s/s & NY s/s CS","1959DET.EVA.regular.comment.csv",10
+"DET195905100",5,"$Bob Cerv struck on the hand","1959DET.EVA.regular.comment.csv",11
+"DET195905100",69,"$Bud Meyer struck by ball","1959DET.EVA.regular.comment.csv",12
+"DET195906030",34,"DIFF: officials McDougald 0 CS today;per Det s/s & NY s/s CS","1959DET.EVA.regular.comment.csv",13
+"DET195906030",78,"375 ft","1959DET.EVA.regular.comment.csv",14
+"DET195906230",27,"$Don Buddin's throw hit Harvey Kuenn on the back","1959DET.EVA.regular.comment.csv",15
+"DET195906250",77,"$Jackie Jensen's throw hit Harvey Kuenn","1959DET.EVA.regular.comment.csv",16
+"DET195906290",19,"$Jim Bunning struck on his right wrist","1959DET.EVA.regular.comment.csv",17
+"DET195906290",50,"missing play in DET195906290","1959DET.EVA.regular.comment.csv",18
+"DET195907010",9,"$Johnny Groth left with leg injury","1959DET.EVA.regular.comment.csv",19
+"DET195907010",18,"10 minute rain delay","1959DET.EVA.regular.comment.csv",20
+"DET195907010",49,"35 minute rain delay","1959DET.EVA.regular.comment.csv",21
+"DET195907020",18,"$Ted Lepicio hurt his ankle sliding into 2B","1959DET.EVA.regular.comment.csv",22
+"DET195907030",28,"DIFF: officials Maxwell 0 GDP today","1959DET.EVA.regular.comment.csv",23
+"DET195907042",66,"$Russ Nixon struck on the foot by a foul ball","1959DET.EVA.regular.comment.csv",24
+"DET195907230",55,"15 minute rain delay","1959DET.EVA.regular.comment.csv",25
+"DET195907240",39,"$Rocky Bridges left with injured left ankle","1959DET.EVA.regular.comment.csv",26
+"DET195907250",86,"$Bill Skowron left with severely dislocated wrist","1959DET.EVA.regular.comment.csv",27
+"DET195907270",1,"Debut game for Barry Shetrone","1959DET.EVA.regular.comment.csv",28
+"DET195907290",58,"Debut game for Steve Demeter","1959DET.EVA.regular.comment.csv",29
+"DET195908010",0,"Protest=H","1959DET.EVA.regular.comment.csv",30
+"DET195908010",33,"$Tigers manager Jimmy Dykes claimed Jerry Casale balked and played the game under protest","1959DET.EVA.regular.comment.csv",31
+"DET195908020",63,"DIFF: officials Malzone 0 CS today; Det s/s says CS","1959DET.EVA.regular.comment.csv",32
+"DET195908170",30,"Russ Nixon hurt running to 2B","1959DET.EVA.regular.comment.csv",33
+"DET195908180",16,"DIFF: officials Kaline 0 CS today;per Det s/s CS","1959DET.EVA.regular.comment.csv",34
+"DET195908200",4,"DIFF: officials Kubek 0 CS today; per DET & NY s/s CS","1959DET.EVA.regular.comment.csv",35
+"DET195908220",66,"Debut game for Ron Shoop","1959DET.EVA.regular.comment.csv",36
+"DET195908230",51,"18 minute rain delay","1959DET.EVA.regular.comment.csv",37
+"DET195908230",83,"$second game of double header started but rained out","1959DET.EVA.regular.comment.csv",38
+"DET195909220",32,"missing play in DET195909220","1959DET.EVA.regular.comment.csv",39
+"DET195909220",37,"missing play in DET195909220","1959DET.EVA.regular.comment.csv",40
+"DET195909250",78,"$Norm Cash argued the call at 1B with umpire Larry Napp","1959DET.EVA.regular.comment.csv",41
+"DET195909270",48,"Debut game for Cam Carreon","1959DET.EVA.regular.comment.csv",42

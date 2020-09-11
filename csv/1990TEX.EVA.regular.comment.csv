@@ -1,37 +1,38 @@
-"TEX199004170",59,"ej,crimc001,P,voltv901,Intentional HBP Chuck Crim ejected by HP umpire Vic Voltaggio","FILENAME_TX","LINE_NUMBER_CT"
-"TEX199004180",18,"$Rob Deer was at 3B but Gary Sheffield ran to 3B; Deer ran for HP and was tagged out","1990TEX.EVA.regular.comment.csv",2
-"TEX199004190",51,"Debut game for Ramon Manon","1990TEX.EVA.regular.comment.csv",3
-"TEX199004250",82,"ej,petrg001,P,cobld901,Called third strike $Petralli ejected by HP umpire Coble for from dugout for arguing called third strike to Bosley after game was over","1990TEX.EVA.regular.comment.csv",4
-"TEX199005110",0,"Suspend=19900512,ARL01,4,4,33","1990TEX.EVA.regular.comment.csv",5
-"TEX199005110",50,"suspended,19900512,ARL01,rain $game suspended here due to rain, completed on May 12","1990TEX.EVA.regular.comment.csv",6
-"TEX199005130",26,"$Pete Incaviglia hurt throwing to plate","1990TEX.EVA.regular.comment.csv",7
-"TEX199005130",43,"$Tom Brookens left with leg injury","1990TEX.EVA.regular.comment.csv",8
-"TEX199005250",9,"$Mickey Tettleton injured when hit by pitch in previous inning","1990TEX.EVA.regular.comment.csv",9
-"TEX199005260",20,"$Billy Ripken failed to handle throw from CF","1990TEX.EVA.regular.comment.csv",10
-"TEX199005270",49,"$Billy Ripken hurt back on swing","1990TEX.EVA.regular.comment.csv",11
-"TEX199005280",18,"$double play completed before Ellis Burks could score","1990TEX.EVA.regular.comment.csv",12
-"TEX199006030",28,"$Julio Franco rounded 2B too far","1990TEX.EVA.regular.comment.csv",13
-"TEX199006240",78,"$Gary Pettis injured left hamstring as he scored","1990TEX.EVA.regular.comment.csv",14
-"TEX199007230",5,"$Mike Stanley injured by foul ball","1990TEX.EVA.regular.comment.csv",15
-"TEX199007240",0,"$rain delayed start of game until 9:33","1990TEX.EVA.regular.comment.csv",16
-"TEX199007240",67,"Debut game for Mark Leiter","1990TEX.EVA.regular.comment.csv",17
-"TEX199007240",72,"ej,merrs801,M,joycj901,Balls and strikes Yankees manager Stump Merrill ejected by HP umpire Jim Joyce","1990TEX.EVA.regular.comment.csv",18
-"TEX199008020",24,"18 minute rain delay","1990TEX.EVA.regular.comment.csv",19
-"TEX199008030",42,"$Wild throw by Fred McGriff after good pickoff throw","1990TEX.EVA.regular.comment.csv",20
-"TEX199008030",63,"ej,gastc101,M,scotd901,Arguing during pitching change Blue Jays manager Cito Gaston ejected by HP Umpire Dale Scott during pitching change","1990TEX.EVA.regular.comment.csv",21
-"TEX199008050",78,"DWS: invented play","1990TEX.EVA.regular.comment.csv",22
-"TEX199008171",35,"ej,buecs001,P,mcclt901,Charging mound after HBP Steve Buechele ejected by HP umpire Tim McClelland for charging the mound; he was hurt during the fight and later suspended","1990TEX.EVA.regular.comment.csv",23
-"TEX199008172",8,"$Carlton Fisk's 328th homer as a catcher; new record","1990TEX.EVA.regular.comment.csv",24
-"TEX199008172",37,"$Lance Johnson ran out of baseline","1990TEX.EVA.regular.comment.csv",25
-"TEX199008200",9,"Debut game for Tino Martinez","1990TEX.EVA.regular.comment.csv",26
-"TEX199008200",79,"$Julio Franco single over drawn-in outfield; fielded by no one","1990TEX.EVA.regular.comment.csv",27
-"TEX199008220",50,"$ball 4 called for pitcher going to mouth","1990TEX.EVA.regular.comment.csv",28
-"TEX199009030",70,"Debut game for Kevin Belcher","1990TEX.EVA.regular.comment.csv",29
-"TEX199009030",71,"Debut game for Bill Haselman","1990TEX.EVA.regular.comment.csv",30
-"TEX199009050",1,"Debut game for Scott Chiamparino","1990TEX.EVA.regular.comment.csv",31
-"TEX199009090",1,"Debut game for Gerald Alexander","1990TEX.EVA.regular.comment.csv",32
-"TEX199009140",33,"$Jack Daugherty called for interference when hit by throw running in fair territory","1990TEX.EVA.regular.comment.csv",33
-"TEX199009150",56,"umpchange,5,umphome,kaisk901 umpchange,5,ump2b,(None) $HP umpire Jim McKean left after being injured by foul ball; 2B umpire Ken Kaiser moved behind the plate","1990TEX.EVA.regular.comment.csv",34
-"TEX199009250",1,"Debut game for Scott Lewis","1990TEX.EVA.regular.comment.csv",35
-"TEX199009250",58,"ej,venam001,P,shulj901,Interference call Max Venable ejected by 2B umpire John Shulock arguing the runner interference call","1990TEX.EVA.regular.comment.csv",36
-"TEX199009270",52,"$Jose Canseco out with bad back","1990TEX.EVA.regular.comment.csv",37
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"TEX199004170",59,"ej,crimc001,P,voltv901,Intentional HBP Chuck Crim ejected by HP umpire Vic Voltaggio","1990TEX.EVA.regular.comment.csv",2
+"TEX199004180",18,"$Rob Deer was at 3B but Gary Sheffield ran to 3B; Deer ran for HP and was tagged out","1990TEX.EVA.regular.comment.csv",3
+"TEX199004190",51,"Debut game for Ramon Manon","1990TEX.EVA.regular.comment.csv",4
+"TEX199004250",82,"ej,petrg001,P,cobld901,Called third strike $Petralli ejected by HP umpire Coble for from dugout for arguing called third strike to Bosley after game was over","1990TEX.EVA.regular.comment.csv",5
+"TEX199005110",0,"Suspend=19900512,ARL01,4,4,33","1990TEX.EVA.regular.comment.csv",6
+"TEX199005110",50,"suspended,19900512,ARL01,rain $game suspended here due to rain, completed on May 12","1990TEX.EVA.regular.comment.csv",7
+"TEX199005130",26,"$Pete Incaviglia hurt throwing to plate","1990TEX.EVA.regular.comment.csv",8
+"TEX199005130",43,"$Tom Brookens left with leg injury","1990TEX.EVA.regular.comment.csv",9
+"TEX199005250",9,"$Mickey Tettleton injured when hit by pitch in previous inning","1990TEX.EVA.regular.comment.csv",10
+"TEX199005260",20,"$Billy Ripken failed to handle throw from CF","1990TEX.EVA.regular.comment.csv",11
+"TEX199005270",49,"$Billy Ripken hurt back on swing","1990TEX.EVA.regular.comment.csv",12
+"TEX199005280",18,"$double play completed before Ellis Burks could score","1990TEX.EVA.regular.comment.csv",13
+"TEX199006030",28,"$Julio Franco rounded 2B too far","1990TEX.EVA.regular.comment.csv",14
+"TEX199006240",78,"$Gary Pettis injured left hamstring as he scored","1990TEX.EVA.regular.comment.csv",15
+"TEX199007230",5,"$Mike Stanley injured by foul ball","1990TEX.EVA.regular.comment.csv",16
+"TEX199007240",0,"$rain delayed start of game until 9:33","1990TEX.EVA.regular.comment.csv",17
+"TEX199007240",67,"Debut game for Mark Leiter","1990TEX.EVA.regular.comment.csv",18
+"TEX199007240",72,"ej,merrs801,M,joycj901,Balls and strikes Yankees manager Stump Merrill ejected by HP umpire Jim Joyce","1990TEX.EVA.regular.comment.csv",19
+"TEX199008020",24,"18 minute rain delay","1990TEX.EVA.regular.comment.csv",20
+"TEX199008030",42,"$Wild throw by Fred McGriff after good pickoff throw","1990TEX.EVA.regular.comment.csv",21
+"TEX199008030",63,"ej,gastc101,M,scotd901,Arguing during pitching change Blue Jays manager Cito Gaston ejected by HP Umpire Dale Scott during pitching change","1990TEX.EVA.regular.comment.csv",22
+"TEX199008050",78,"DWS: invented play","1990TEX.EVA.regular.comment.csv",23
+"TEX199008171",35,"ej,buecs001,P,mcclt901,Charging mound after HBP Steve Buechele ejected by HP umpire Tim McClelland for charging the mound; he was hurt during the fight and later suspended","1990TEX.EVA.regular.comment.csv",24
+"TEX199008172",8,"$Carlton Fisk's 328th homer as a catcher; new record","1990TEX.EVA.regular.comment.csv",25
+"TEX199008172",37,"$Lance Johnson ran out of baseline","1990TEX.EVA.regular.comment.csv",26
+"TEX199008200",9,"Debut game for Tino Martinez","1990TEX.EVA.regular.comment.csv",27
+"TEX199008200",79,"$Julio Franco single over drawn-in outfield; fielded by no one","1990TEX.EVA.regular.comment.csv",28
+"TEX199008220",50,"$ball 4 called for pitcher going to mouth","1990TEX.EVA.regular.comment.csv",29
+"TEX199009030",70,"Debut game for Kevin Belcher","1990TEX.EVA.regular.comment.csv",30
+"TEX199009030",71,"Debut game for Bill Haselman","1990TEX.EVA.regular.comment.csv",31
+"TEX199009050",1,"Debut game for Scott Chiamparino","1990TEX.EVA.regular.comment.csv",32
+"TEX199009090",1,"Debut game for Gerald Alexander","1990TEX.EVA.regular.comment.csv",33
+"TEX199009140",33,"$Jack Daugherty called for interference when hit by throw running in fair territory","1990TEX.EVA.regular.comment.csv",34
+"TEX199009150",56,"umpchange,5,umphome,kaisk901 umpchange,5,ump2b,(None) $HP umpire Jim McKean left after being injured by foul ball; 2B umpire Ken Kaiser moved behind the plate","1990TEX.EVA.regular.comment.csv",35
+"TEX199009250",1,"Debut game for Scott Lewis","1990TEX.EVA.regular.comment.csv",36
+"TEX199009250",58,"ej,venam001,P,shulj901,Interference call Max Venable ejected by 2B umpire John Shulock arguing the runner interference call","1990TEX.EVA.regular.comment.csv",37
+"TEX199009270",52,"$Jose Canseco out with bad back","1990TEX.EVA.regular.comment.csv",38

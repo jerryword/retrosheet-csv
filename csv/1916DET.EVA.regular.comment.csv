@@ -1,46 +1,47 @@
-"DET191604200",0,"Opening Day 1916 at Navin Field.","FILENAME_TX","LINE_NUMBER_CT"
-"DET191604200",6,"Ball deflected off pitcher.","1916DET.EVA.regular.comment.csv",2
-"DET191604200",50,"$It began to rain but play continued.","1916DET.EVA.regular.comment.csv",3
-"DET191604210",2,"Attempted sacrifice.","1916DET.EVA.regular.comment.csv",4
-"DET191604210",6,"Ball deflected to pitcher.","1916DET.EVA.regular.comment.csv",5
-"DET191604210",26,"IPHR to center.","1916DET.EVA.regular.comment.csv",6
-"DET191604210",48,"$Veach went to third as Terry tried to catch him off first. Game delayed while umpires examined ball. Danforth accused of doctoring the baseball.","1916DET.EVA.regular.comment.csv",7
-"DET191604240",24,"$Game delayed while Tiger trainer checked on Bush's knee.","1916DET.EVA.regular.comment.csv",8
-"DET191604240",29,"Schalk fell chasing bad throw, had to be replaced.","1916DET.EVA.regular.comment.csv",9
-"DET191605301",0,"Morning game of Memorial Day double-header.","1916DET.EVA.regular.comment.csv",10
-"DET191605301",56,"Jackson slipped going after the ball.","1916DET.EVA.regular.comment.csv",11
-"DET191605301",80,"Ball deflected off Hamilton's leg.","1916DET.EVA.regular.comment.csv",12
-"DET191605302",0,"Afternoon game of Memorial Day double-header.","1916DET.EVA.regular.comment.csv",13
-"DET191605302",67,"Harper tried to score when relay throw got past catcher.","1916DET.EVA.regular.comment.csv",14
-"DET191605302",69,"Harper hurt his leg after catching fly ball out.","1916DET.EVA.regular.comment.csv",15
-"DET191605302",90,"$Ball bounced off McMullin's shin into short leftfield.","1916DET.EVA.regular.comment.csv",16
-"DET191605310",16,"Schalk spiked by Veach, game delayed a few minutes.","1916DET.EVA.regular.comment.csv",17
-"DET191605310",40,"McMullin went to Sox bench to catch foul fly.","1916DET.EVA.regular.comment.csv",18
-"DET191606010",69,"Jackson's ninth hit in last nine at bats. Ness chased off third base coach's box.","1916DET.EVA.regular.comment.csv",19
-"DET191606090",79,"Bottom of ninth inning from Globe.","1916DET.EVA.regular.comment.csv",20
-"DET191606120",9,"Pitch got away from Nunamaker.","1916DET.EVA.regular.comment.csv",21
-"DET191606120",13,"Play made on Burns at first, Heilmann out trying for third.","1916DET.EVA.regular.comment.csv",22
-"DET191606120",30,"Manager Donovan ejected by Chill.","1916DET.EVA.regular.comment.csv",23
-"DET191606120",44,"Inside park.","1916DET.EVA.regular.comment.csv",24
-"DET191606120",71,"Top of eighth inning to end from Free Press/Times/RBS.","1916DET.EVA.regular.comment.csv",25
-"DET191606120",77,"Attempted sacrifice.","1916DET.EVA.regular.comment.csv",26
-"DET191606130",73,"Shawkey came in with 3-0 count on Dubuc.","1916DET.EVA.regular.comment.csv",27
-"DET191606140",0,"Rain and wet field to start the game. 'No ball game played under worse conditions' (Free Press).","1916DET.EVA.regular.comment.csv",28
-"DET191606140",31,"$Twenty minute rain delay.","1916DET.EVA.regular.comment.csv",29
-"DET191606140",48,"$Another rain delay.","1916DET.EVA.regular.comment.csv",30
-"DET191606140",63,"Bottom of eighth inning to end from Free Press/Times/RBS.","1916DET.EVA.regular.comment.csv",31
-"DET191607240",70,"ej,schar103,P,dinnb101,Called third strike $Schalk ejected by HP umpire Dinneen for arguing called third strike","1916DET.EVA.regular.comment.csv",32
-"DET191607240",76,"Lapp touched Vitt out as he started for first.","1916DET.EVA.regular.comment.csv",33
-"DET191607240",86,"Coveleski threw late to second, no sacrifice hit awarded.","1916DET.EVA.regular.comment.csv",34
-"DET191607240",87,"ej,fourj101,P,nalld901,Bench jockeying $White Sox Fournier ejected by 1B umpire Nallin for bench jockeying","1916DET.EVA.regular.comment.csv",35
-"DET191607240",103,"Thirteenth inning from Tribune.","1916DET.EVA.regular.comment.csv",36
-"DET191608050",48,"Oldring had to hold at second base.","1916DET.EVA.regular.comment.csv",37
-"DET191608050",104,"Top of thirteenth inning to end (14) from Times/RBS.","1916DET.EVA.regular.comment.csv",38
-"DET191609020",24,"Attempted sacrifice.","1916DET.EVA.regular.comment.csv",39
-"DET191609020",52,"Schalk held third.","1916DET.EVA.regular.comment.csv",40
-"DET191609020",53,"Perfectly executed squeeze play by S. Collins.","1916DET.EVA.regular.comment.csv",41
-"DET191609020",75,"ej,rowlp801,M,hildg101,Call at 1B $Chicago manager Rowland ejected by 1B umpire Hildebrand for arguing that Young missed first","1916DET.EVA.regular.comment.csv",42
-"DET191609130",28,"High injured leg.","1916DET.EVA.regular.comment.csv",43
-"DET191609130",64,"$Spencer's right arm injured on play.","1916DET.EVA.regular.comment.csv",44
-"DET191609150",7,"$High suffering from charley horse.","1916DET.EVA.regular.comment.csv",45
-"DET191609200",69,"Henriksen entered with a 1-1 count.","1916DET.EVA.regular.comment.csv",46
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"DET191604200",0,"Opening Day 1916 at Navin Field.","1916DET.EVA.regular.comment.csv",2
+"DET191604200",6,"Ball deflected off pitcher.","1916DET.EVA.regular.comment.csv",3
+"DET191604200",50,"$It began to rain but play continued.","1916DET.EVA.regular.comment.csv",4
+"DET191604210",2,"Attempted sacrifice.","1916DET.EVA.regular.comment.csv",5
+"DET191604210",6,"Ball deflected to pitcher.","1916DET.EVA.regular.comment.csv",6
+"DET191604210",26,"IPHR to center.","1916DET.EVA.regular.comment.csv",7
+"DET191604210",48,"$Veach went to third as Terry tried to catch him off first. Game delayed while umpires examined ball. Danforth accused of doctoring the baseball.","1916DET.EVA.regular.comment.csv",8
+"DET191604240",24,"$Game delayed while Tiger trainer checked on Bush's knee.","1916DET.EVA.regular.comment.csv",9
+"DET191604240",29,"Schalk fell chasing bad throw, had to be replaced.","1916DET.EVA.regular.comment.csv",10
+"DET191605301",0,"Morning game of Memorial Day double-header.","1916DET.EVA.regular.comment.csv",11
+"DET191605301",56,"Jackson slipped going after the ball.","1916DET.EVA.regular.comment.csv",12
+"DET191605301",80,"Ball deflected off Hamilton's leg.","1916DET.EVA.regular.comment.csv",13
+"DET191605302",0,"Afternoon game of Memorial Day double-header.","1916DET.EVA.regular.comment.csv",14
+"DET191605302",67,"Harper tried to score when relay throw got past catcher.","1916DET.EVA.regular.comment.csv",15
+"DET191605302",69,"Harper hurt his leg after catching fly ball out.","1916DET.EVA.regular.comment.csv",16
+"DET191605302",90,"$Ball bounced off McMullin's shin into short leftfield.","1916DET.EVA.regular.comment.csv",17
+"DET191605310",16,"Schalk spiked by Veach, game delayed a few minutes.","1916DET.EVA.regular.comment.csv",18
+"DET191605310",40,"McMullin went to Sox bench to catch foul fly.","1916DET.EVA.regular.comment.csv",19
+"DET191606010",69,"Jackson's ninth hit in last nine at bats. Ness chased off third base coach's box.","1916DET.EVA.regular.comment.csv",20
+"DET191606090",79,"Bottom of ninth inning from Globe.","1916DET.EVA.regular.comment.csv",21
+"DET191606120",9,"Pitch got away from Nunamaker.","1916DET.EVA.regular.comment.csv",22
+"DET191606120",13,"Play made on Burns at first, Heilmann out trying for third.","1916DET.EVA.regular.comment.csv",23
+"DET191606120",30,"Manager Donovan ejected by Chill.","1916DET.EVA.regular.comment.csv",24
+"DET191606120",44,"Inside park.","1916DET.EVA.regular.comment.csv",25
+"DET191606120",71,"Top of eighth inning to end from Free Press/Times/RBS.","1916DET.EVA.regular.comment.csv",26
+"DET191606120",77,"Attempted sacrifice.","1916DET.EVA.regular.comment.csv",27
+"DET191606130",73,"Shawkey came in with 3-0 count on Dubuc.","1916DET.EVA.regular.comment.csv",28
+"DET191606140",0,"Rain and wet field to start the game. 'No ball game played under worse conditions' (Free Press).","1916DET.EVA.regular.comment.csv",29
+"DET191606140",31,"$Twenty minute rain delay.","1916DET.EVA.regular.comment.csv",30
+"DET191606140",48,"$Another rain delay.","1916DET.EVA.regular.comment.csv",31
+"DET191606140",63,"Bottom of eighth inning to end from Free Press/Times/RBS.","1916DET.EVA.regular.comment.csv",32
+"DET191607240",70,"ej,schar103,P,dinnb101,Called third strike $Schalk ejected by HP umpire Dinneen for arguing called third strike","1916DET.EVA.regular.comment.csv",33
+"DET191607240",76,"Lapp touched Vitt out as he started for first.","1916DET.EVA.regular.comment.csv",34
+"DET191607240",86,"Coveleski threw late to second, no sacrifice hit awarded.","1916DET.EVA.regular.comment.csv",35
+"DET191607240",87,"ej,fourj101,P,nalld901,Bench jockeying $White Sox Fournier ejected by 1B umpire Nallin for bench jockeying","1916DET.EVA.regular.comment.csv",36
+"DET191607240",103,"Thirteenth inning from Tribune.","1916DET.EVA.regular.comment.csv",37
+"DET191608050",48,"Oldring had to hold at second base.","1916DET.EVA.regular.comment.csv",38
+"DET191608050",104,"Top of thirteenth inning to end (14) from Times/RBS.","1916DET.EVA.regular.comment.csv",39
+"DET191609020",24,"Attempted sacrifice.","1916DET.EVA.regular.comment.csv",40
+"DET191609020",52,"Schalk held third.","1916DET.EVA.regular.comment.csv",41
+"DET191609020",53,"Perfectly executed squeeze play by S. Collins.","1916DET.EVA.regular.comment.csv",42
+"DET191609020",75,"ej,rowlp801,M,hildg101,Call at 1B $Chicago manager Rowland ejected by 1B umpire Hildebrand for arguing that Young missed first","1916DET.EVA.regular.comment.csv",43
+"DET191609130",28,"High injured leg.","1916DET.EVA.regular.comment.csv",44
+"DET191609130",64,"$Spencer's right arm injured on play.","1916DET.EVA.regular.comment.csv",45
+"DET191609150",7,"$High suffering from charley horse.","1916DET.EVA.regular.comment.csv",46
+"DET191609200",69,"Henriksen entered with a 1-1 count.","1916DET.EVA.regular.comment.csv",47

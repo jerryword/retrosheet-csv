@@ -1,9 +1,10 @@
-"COL199404150",50,"IPHR","FILENAME_TX","LINE_NUMBER_CT"
-"COL199404230",71,"IPHR","1994COL.EVN.regular.comment.csv",2
-"COL199405240",75,"ej,fernt001,P,bellw901,Called third strike ej,johnd105,M,bellw901,Called third strike Tony Fernandez and Reds manager Davey Johnson ejected by HP umpire Wally Bell","1994COL.EVN.regular.comment.csv",3
-"COL199406070",83,"ej,greed101,M,hohnb901,Balls and strikes $Mets manager Green ejected by HP umpire Hohn for arguing balls and strike from the bench","1994COL.EVN.regular.comment.csv",4
-"COL199406240",45,"$Bill VanLandingham called for interference","1994COL.EVN.regular.comment.csv",5
-"COL199406240",73,"ej,bondb001,P,herna901,Balls and strikes Barry Bonds ejected by HP umpire Angel Hernandez","1994COL.EVN.regular.comment.csv",6
-"COL199407170",52,"ej,sutcr001,P,mcshj901,Intentional HBP ej,torrj101,M,mcshj901,Intentional HBP Rick Sutcliffe and Cardinals manager Joe Torre ejected by HP umpire John McSherry","1994COL.EVN.regular.comment.csv",7
-"COL199408070",55,"ej,bayld001,M,bellw901,Call at 1B $Rockies manager Baylor ejected by 1B umpire Bell for arguing Girardi was safe at 1st","1994COL.EVN.regular.comment.csv",8
-"COL199408100",52,"game called for rain","1994COL.EVN.regular.comment.csv",9
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"COL199404150",50,"IPHR","1994COL.EVN.regular.comment.csv",2
+"COL199404230",71,"IPHR","1994COL.EVN.regular.comment.csv",3
+"COL199405240",75,"ej,fernt001,P,bellw901,Called third strike ej,johnd105,M,bellw901,Called third strike Tony Fernandez and Reds manager Davey Johnson ejected by HP umpire Wally Bell","1994COL.EVN.regular.comment.csv",4
+"COL199406070",83,"ej,greed101,M,hohnb901,Balls and strikes $Mets manager Green ejected by HP umpire Hohn for arguing balls and strike from the bench","1994COL.EVN.regular.comment.csv",5
+"COL199406240",45,"$Bill VanLandingham called for interference","1994COL.EVN.regular.comment.csv",6
+"COL199406240",73,"ej,bondb001,P,herna901,Balls and strikes Barry Bonds ejected by HP umpire Angel Hernandez","1994COL.EVN.regular.comment.csv",7
+"COL199407170",52,"ej,sutcr001,P,mcshj901,Intentional HBP ej,torrj101,M,mcshj901,Intentional HBP Rick Sutcliffe and Cardinals manager Joe Torre ejected by HP umpire John McSherry","1994COL.EVN.regular.comment.csv",8
+"COL199408070",55,"ej,bayld001,M,bellw901,Call at 1B $Rockies manager Baylor ejected by 1B umpire Bell for arguing Girardi was safe at 1st","1994COL.EVN.regular.comment.csv",9
+"COL199408100",52,"game called for rain","1994COL.EVN.regular.comment.csv",10

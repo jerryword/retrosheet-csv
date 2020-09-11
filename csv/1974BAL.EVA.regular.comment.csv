@@ -1,38 +1,39 @@
-"BAL197404050",0,"Debut for umpire Nick Bremigan","FILENAME_TX","LINE_NUMBER_CT"
-"BAL197404060",48,"$the ball struck 3B umpire Nestor Chylak","1974BAL.EVA.regular.comment.csv",2
-"BAL197404072",15,"Debut game for Mike Reinbach","1974BAL.EVA.regular.comment.csv",3
-"BAL197404200",14,"$Gene Michael rounded 2B too far","1974BAL.EVA.regular.comment.csv",4
-"BAL197404200",54,"ej,sudab101,P,barnl901,Called third strike Bill Sudakis ejected by HP umpire Larry Barnett","1974BAL.EVA.regular.comment.csv",5
-"BAL197404212",0,"Protest=H","1974BAL.EVA.regular.comment.csv",6
-"BAL197404212",29,"ej,virdb101,M,nappl901,Checked swing $Yankees manager Virdon ejected by 1B umpire Napp for arguing that Grich offered at a pinch on an attempted bunt; it was ruled no swing by HP umpire Jim Evans","1974BAL.EVA.regular.comment.csv",7
-"BAL197404212",48,"$Yankees pitching coach Whitey Ford came out to visit pitcher Sam McDowell a second time during Tommy Davis' plate appearance; 1B umpire Larry Napp yelled to Ford to stop him but Ford walked onto the field with the intention of removing McDowell; Napp sent Ford back to the dugout, told McDowell to finish pitching to Davis and then removed McDowell from the game' Orioles manager Earl Weaver protested the game, saying that McDowell should have left the game when Ford came out the second time","1974BAL.EVA.regular.comment.csv",8
-"BAL197404230",29,"ej,weave801,M,nappl901,Balls and strikes Orioles Manager Earl Weaver ejected by HP umpire Larry Napp","1974BAL.EVA.regular.comment.csv",9
-"BAL197404260",86,"ej,wille101,P,goetr901,Balls and strikes Earl Williams ejected by HP umpire Russ Goetz","1974BAL.EVA.regular.comment.csv",10
-"BAL197405130",73,"missing fielding in BAL197405130","1974BAL.EVA.regular.comment.csv",11
-"BAL197405170",55,"31 minute rain delay and then game called","1974BAL.EVA.regular.comment.csv",12
-"BAL197406040",3,"390' HR","1974BAL.EVA.regular.comment.csv",13
-"BAL197406040",20,"400' HR","1974BAL.EVA.regular.comment.csv",14
-"BAL197406050",57,"400' HR","1974BAL.EVA.regular.comment.csv",15
-"BAL197406070",22,"53 minute rain delay with 3-0 count to Jeff Burroughs","1974BAL.EVA.regular.comment.csv",16
-"BAL197406160",48,"missing fielding in BAL197406160","1974BAL.EVA.regular.comment.csv",17
-"BAL197406180",32,"missing fielding in BAL197406180","1974BAL.EVA.regular.comment.csv",18
-"BAL197406240",55,"missing fielding in BAL197406240","1974BAL.EVA.regular.comment.csv",19
-"BAL197406250",24,"ej,cuelm101,P,goetr901,Balls and strikes ej,weave801,M,goetr901,Balls and strikes Mike Cuellar and Orioles Manager Earl Weaver ejected by HP umpire Russ Goetz","1974BAL.EVA.regular.comment.csv",20
-"BAL197407020",53,"Debut game for Dave Johnson","1974BAL.EVA.regular.comment.csv",21
-"BAL197407020",78,"ej,carbb101,P,deegb901,Balls and strikes ej,dragd101,P,deegb901,Balls and strikes ej,zimmd101,C,deegb901,Balls and strikes Bernie Carbo, Dick Drago and Red Sox Coach Don Zimmer ejected by HP umpire Bill Deegan arguing a pitch to Boog Powell in the previous inning","1974BAL.EVA.regular.comment.csv",22
-"BAL197407150",44,"Gene Tenace spiked on play at 1B","1974BAL.EVA.regular.comment.csv",23
-"BAL197407190",55,"Debut game for Bruce Bochte","1974BAL.EVA.regular.comment.csv",24
-"BAL197407210",5,"ej,valeb102,P,bremn901,Called third strike (threw helmet) $Valentine ejected by HP umpire Bremigan for arguing called third strike and throwing helmet","1974BAL.EVA.regular.comment.csv",25
-"BAL197408220",61,"28 minute rain delay","1974BAL.EVA.regular.comment.csv",26
-"BAL197408220",74,"ej,burrj001,P,kunkb101,Balls and strikes Jeff Burroughs ejected by 2B umpire Bill Kunkel","1974BAL.EVA.regular.comment.csv",27
-"BAL197409022",49,"ej,weave801,M,odomj901,Call at 1B Orioles Manager Earl Weaver ejected by 1B umpire Jim Odom","1974BAL.EVA.regular.comment.csv",28
-"BAL197409040",49,"ej,coopc001,P,odomj901,Called third strike Cecil Cooper ejected by HP umpire Jim Odom","1974BAL.EVA.regular.comment.csv",29
-"BAL197409111",62,"$Paul Blair tapped ball down 3B line; Graig Nettles fielded it and collided with Enos Cabell, running from 3B; Cabell called for interference","1974BAL.EVA.regular.comment.csv",30
-"BAL197409111",63,"ej,weave801,M,lucir901,Checked swing Orioles Manager Earl Weaver ejected by 1B umpire Ron Luciano","1974BAL.EVA.regular.comment.csv",31
-"BAL197409131",50,"Debut game for Tim Nordbrook","1974BAL.EVA.regular.comment.csv",32
-"BAL197409132",0,"Suspend=19740914,,6,8,48 Protest=V","1974BAL.EVA.regular.comment.csv",33
-"BAL197409132",69,"Multiple rain delays of approximately 2 hours starting in the 7th","1974BAL.EVA.regular.comment.csv",34
-"BAL197409132",70,"$Tommy Davis pulled right hamstring rounding bases on HR","1974BAL.EVA.regular.comment.csv",35
-"BAL197409132",85,"suspended,19740914,BAL11,rain $game suspended by rain, resumed the next day; Cleveland protested that the Orioles ground crew deliberately delayed preparing the field after rain delay","1974BAL.EVA.regular.comment.csv",36
-"BAL197409240",25,"$Al Kaline's 3000th hit","1974BAL.EVA.regular.comment.csv",37
-"BAL197409250",58,"$Freehan was ill and left game","1974BAL.EVA.regular.comment.csv",38
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"BAL197404050",0,"Debut for umpire Nick Bremigan","1974BAL.EVA.regular.comment.csv",2
+"BAL197404060",48,"$the ball struck 3B umpire Nestor Chylak","1974BAL.EVA.regular.comment.csv",3
+"BAL197404072",15,"Debut game for Mike Reinbach","1974BAL.EVA.regular.comment.csv",4
+"BAL197404200",14,"$Gene Michael rounded 2B too far","1974BAL.EVA.regular.comment.csv",5
+"BAL197404200",54,"ej,sudab101,P,barnl901,Called third strike Bill Sudakis ejected by HP umpire Larry Barnett","1974BAL.EVA.regular.comment.csv",6
+"BAL197404212",0,"Protest=H","1974BAL.EVA.regular.comment.csv",7
+"BAL197404212",29,"ej,virdb101,M,nappl901,Checked swing $Yankees manager Virdon ejected by 1B umpire Napp for arguing that Grich offered at a pinch on an attempted bunt; it was ruled no swing by HP umpire Jim Evans","1974BAL.EVA.regular.comment.csv",8
+"BAL197404212",48,"$Yankees pitching coach Whitey Ford came out to visit pitcher Sam McDowell a second time during Tommy Davis' plate appearance; 1B umpire Larry Napp yelled to Ford to stop him but Ford walked onto the field with the intention of removing McDowell; Napp sent Ford back to the dugout, told McDowell to finish pitching to Davis and then removed McDowell from the game' Orioles manager Earl Weaver protested the game, saying that McDowell should have left the game when Ford came out the second time","1974BAL.EVA.regular.comment.csv",9
+"BAL197404230",29,"ej,weave801,M,nappl901,Balls and strikes Orioles Manager Earl Weaver ejected by HP umpire Larry Napp","1974BAL.EVA.regular.comment.csv",10
+"BAL197404260",86,"ej,wille101,P,goetr901,Balls and strikes Earl Williams ejected by HP umpire Russ Goetz","1974BAL.EVA.regular.comment.csv",11
+"BAL197405130",73,"missing fielding in BAL197405130","1974BAL.EVA.regular.comment.csv",12
+"BAL197405170",55,"31 minute rain delay and then game called","1974BAL.EVA.regular.comment.csv",13
+"BAL197406040",3,"390' HR","1974BAL.EVA.regular.comment.csv",14
+"BAL197406040",20,"400' HR","1974BAL.EVA.regular.comment.csv",15
+"BAL197406050",57,"400' HR","1974BAL.EVA.regular.comment.csv",16
+"BAL197406070",22,"53 minute rain delay with 3-0 count to Jeff Burroughs","1974BAL.EVA.regular.comment.csv",17
+"BAL197406160",48,"missing fielding in BAL197406160","1974BAL.EVA.regular.comment.csv",18
+"BAL197406180",32,"missing fielding in BAL197406180","1974BAL.EVA.regular.comment.csv",19
+"BAL197406240",55,"missing fielding in BAL197406240","1974BAL.EVA.regular.comment.csv",20
+"BAL197406250",24,"ej,cuelm101,P,goetr901,Balls and strikes ej,weave801,M,goetr901,Balls and strikes Mike Cuellar and Orioles Manager Earl Weaver ejected by HP umpire Russ Goetz","1974BAL.EVA.regular.comment.csv",21
+"BAL197407020",53,"Debut game for Dave Johnson","1974BAL.EVA.regular.comment.csv",22
+"BAL197407020",78,"ej,carbb101,P,deegb901,Balls and strikes ej,dragd101,P,deegb901,Balls and strikes ej,zimmd101,C,deegb901,Balls and strikes Bernie Carbo, Dick Drago and Red Sox Coach Don Zimmer ejected by HP umpire Bill Deegan arguing a pitch to Boog Powell in the previous inning","1974BAL.EVA.regular.comment.csv",23
+"BAL197407150",44,"Gene Tenace spiked on play at 1B","1974BAL.EVA.regular.comment.csv",24
+"BAL197407190",55,"Debut game for Bruce Bochte","1974BAL.EVA.regular.comment.csv",25
+"BAL197407210",5,"ej,valeb102,P,bremn901,Called third strike (threw helmet) $Valentine ejected by HP umpire Bremigan for arguing called third strike and throwing helmet","1974BAL.EVA.regular.comment.csv",26
+"BAL197408220",61,"28 minute rain delay","1974BAL.EVA.regular.comment.csv",27
+"BAL197408220",74,"ej,burrj001,P,kunkb101,Balls and strikes Jeff Burroughs ejected by 2B umpire Bill Kunkel","1974BAL.EVA.regular.comment.csv",28
+"BAL197409022",49,"ej,weave801,M,odomj901,Call at 1B Orioles Manager Earl Weaver ejected by 1B umpire Jim Odom","1974BAL.EVA.regular.comment.csv",29
+"BAL197409040",49,"ej,coopc001,P,odomj901,Called third strike Cecil Cooper ejected by HP umpire Jim Odom","1974BAL.EVA.regular.comment.csv",30
+"BAL197409111",62,"$Paul Blair tapped ball down 3B line; Graig Nettles fielded it and collided with Enos Cabell, running from 3B; Cabell called for interference","1974BAL.EVA.regular.comment.csv",31
+"BAL197409111",63,"ej,weave801,M,lucir901,Checked swing Orioles Manager Earl Weaver ejected by 1B umpire Ron Luciano","1974BAL.EVA.regular.comment.csv",32
+"BAL197409131",50,"Debut game for Tim Nordbrook","1974BAL.EVA.regular.comment.csv",33
+"BAL197409132",0,"Suspend=19740914,,6,8,48 Protest=V","1974BAL.EVA.regular.comment.csv",34
+"BAL197409132",69,"Multiple rain delays of approximately 2 hours starting in the 7th","1974BAL.EVA.regular.comment.csv",35
+"BAL197409132",70,"$Tommy Davis pulled right hamstring rounding bases on HR","1974BAL.EVA.regular.comment.csv",36
+"BAL197409132",85,"suspended,19740914,BAL11,rain $game suspended by rain, resumed the next day; Cleveland protested that the Orioles ground crew deliberately delayed preparing the field after rain delay","1974BAL.EVA.regular.comment.csv",37
+"BAL197409240",25,"$Al Kaline's 3000th hit","1974BAL.EVA.regular.comment.csv",38
+"BAL197409250",58,"$Freehan was ill and left game","1974BAL.EVA.regular.comment.csv",39

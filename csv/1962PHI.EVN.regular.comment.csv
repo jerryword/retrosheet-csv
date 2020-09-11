@@ -1,30 +1,31 @@
-"PHI196204130",1,"Debut game for Jack Hamilton","FILENAME_TX","LINE_NUMBER_CT"
-"PHI196204130",53,"Debut game for Pidge Browne","1962PHI.EVN.regular.comment.csv",2
-"PHI196204130",61,"Debut game for Dave Giusti","1962PHI.EVN.regular.comment.csv",3
-"PHI196204130",69,"Debut game for Merritt Ranew","1962PHI.EVN.regular.comment.csv",4
-"PHI196204130",70,"Debut game for Johnny Weekly","1962PHI.EVN.regular.comment.csv",5
-"PHI196204180",52,"$Wes Covington called for interference","1962PHI.EVN.regular.comment.csv",6
-"PHI196204190",50,"Debut game for Larry Elliot","1962PHI.EVN.regular.comment.csv",7
-"PHI196204190",57,"Debut game for Jacke Davis","1962PHI.EVN.regular.comment.csv",8
-"PHI196205060",66,"$56 minute rain delay","1962PHI.EVN.regular.comment.csv",9
-"PHI196205060",111,"ej,hemus101,C,conlj102,Objecting to umpire breaking up mound chat $Mets coach Hemus ejected by HP umpire Conlan for mocking umpire conference","1962PHI.EVN.regular.comment.csv",10
-"PHI196205060",116,"$second game postponed","1962PHI.EVN.regular.comment.csv",11
-"PHI196206012",1,"$Maury Wills called for interference","1962PHI.EVN.regular.comment.csv",12
-"PHI196206020",63,"$rain delay; Dodgers manager Walter Alston wanted to use Andy Carey as a pinch-hitter and then have him pitch the eighth; umpires Ken Burkhart and Jocko Conlan ruled that this was not permitted so Joe Moeller stayed in the game; the NL ruled the next day that anyone on the active roster was permitted to pitch","1962PHI.EVN.regular.comment.csv",13
-"PHI196206030",14,"$Sammy White injured by foul ball while Maury Wills at bat","1962PHI.EVN.regular.comment.csv",14
-"PHI196206160",45,"$failed suicide squeeze","1962PHI.EVN.regular.comment.csv",15
-"PHI196206160",51,"ej,cardl101,P,conlj102,Balls and strikes ej,oterr101,C,conlj102,Balls and strikes Leo Cardenas and Reds Coach Reggie Otero ejected by HP umpire Jocko Conlan","1962PHI.EVN.regular.comment.csv",16
-"PHI196207151",45,"$Ron Fairly thought the fly was the third out","1962PHI.EVN.regular.comment.csv",17
-"PHI196207151",58,"$Tony Taylor and Johnny Callison collided in CF; Callison hurt","1962PHI.EVN.regular.comment.csv",18
-"PHI196207152",8,"$the ball caromed off the scoreboard back towards the infield","1962PHI.EVN.regular.comment.csv",19
-"PHI196207152",32,"$Bobby Wine ran to 2B and Clay Dalrymple left the bag","1962PHI.EVN.regular.comment.csv",20
-"PHI196207210",36,"$Henry Aaron passed Eddie Mathews; Mathews had tagged up hoping to advance when the ball struck the wall;  Mathews was touching 1B when Aaron rounded the bag","1962PHI.EVN.regular.comment.csv",21
-"PHI196207221",54,"Debut game for John Boozer","1962PHI.EVN.regular.comment.csv",22
-"PHI196207222",11,"$Ken Aspromonte called for interference","1962PHI.EVN.regular.comment.csv",23
-"PHI196207272",8,"ej,murtd101,M,craws901,Bench jockeying $Pirates manager Murtaugh ejected by HP umpire Crawford for arguing called strike to Mazeroski","1962PHI.EVN.regular.comment.csv",24
-"PHI196208282",56,"Ken MacKenzie left with muscle spasms","1962PHI.EVN.regular.comment.csv",25
-"PHI196209140",62,"$Johnny Callison's second consecutive game-ending homer","1962PHI.EVN.regular.comment.csv",26
-"PHI196209150",49,"Debut game for John Herrnstein","1962PHI.EVN.regular.comment.csv",27
-"PHI196209190",57,"$Game called due to rain; second game cancelled","1962PHI.EVN.regular.comment.csv",28
-"PHI196209220",35,"Joe Nuxhall left with strained elbow","1962PHI.EVN.regular.comment.csv",29
-"PHI196209230",27,"$Billy Klaus called for interference at 2B","1962PHI.EVN.regular.comment.csv",30
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"PHI196204130",1,"Debut game for Jack Hamilton","1962PHI.EVN.regular.comment.csv",2
+"PHI196204130",53,"Debut game for Pidge Browne","1962PHI.EVN.regular.comment.csv",3
+"PHI196204130",61,"Debut game for Dave Giusti","1962PHI.EVN.regular.comment.csv",4
+"PHI196204130",69,"Debut game for Merritt Ranew","1962PHI.EVN.regular.comment.csv",5
+"PHI196204130",70,"Debut game for Johnny Weekly","1962PHI.EVN.regular.comment.csv",6
+"PHI196204180",52,"$Wes Covington called for interference","1962PHI.EVN.regular.comment.csv",7
+"PHI196204190",50,"Debut game for Larry Elliot","1962PHI.EVN.regular.comment.csv",8
+"PHI196204190",57,"Debut game for Jacke Davis","1962PHI.EVN.regular.comment.csv",9
+"PHI196205060",66,"$56 minute rain delay","1962PHI.EVN.regular.comment.csv",10
+"PHI196205060",111,"ej,hemus101,C,conlj102,Objecting to umpire breaking up mound chat $Mets coach Hemus ejected by HP umpire Conlan for mocking umpire conference","1962PHI.EVN.regular.comment.csv",11
+"PHI196205060",116,"$second game postponed","1962PHI.EVN.regular.comment.csv",12
+"PHI196206012",1,"$Maury Wills called for interference","1962PHI.EVN.regular.comment.csv",13
+"PHI196206020",63,"$rain delay; Dodgers manager Walter Alston wanted to use Andy Carey as a pinch-hitter and then have him pitch the eighth; umpires Ken Burkhart and Jocko Conlan ruled that this was not permitted so Joe Moeller stayed in the game; the NL ruled the next day that anyone on the active roster was permitted to pitch","1962PHI.EVN.regular.comment.csv",14
+"PHI196206030",14,"$Sammy White injured by foul ball while Maury Wills at bat","1962PHI.EVN.regular.comment.csv",15
+"PHI196206160",45,"$failed suicide squeeze","1962PHI.EVN.regular.comment.csv",16
+"PHI196206160",51,"ej,cardl101,P,conlj102,Balls and strikes ej,oterr101,C,conlj102,Balls and strikes Leo Cardenas and Reds Coach Reggie Otero ejected by HP umpire Jocko Conlan","1962PHI.EVN.regular.comment.csv",17
+"PHI196207151",45,"$Ron Fairly thought the fly was the third out","1962PHI.EVN.regular.comment.csv",18
+"PHI196207151",58,"$Tony Taylor and Johnny Callison collided in CF; Callison hurt","1962PHI.EVN.regular.comment.csv",19
+"PHI196207152",8,"$the ball caromed off the scoreboard back towards the infield","1962PHI.EVN.regular.comment.csv",20
+"PHI196207152",32,"$Bobby Wine ran to 2B and Clay Dalrymple left the bag","1962PHI.EVN.regular.comment.csv",21
+"PHI196207210",36,"$Henry Aaron passed Eddie Mathews; Mathews had tagged up hoping to advance when the ball struck the wall;  Mathews was touching 1B when Aaron rounded the bag","1962PHI.EVN.regular.comment.csv",22
+"PHI196207221",54,"Debut game for John Boozer","1962PHI.EVN.regular.comment.csv",23
+"PHI196207222",11,"$Ken Aspromonte called for interference","1962PHI.EVN.regular.comment.csv",24
+"PHI196207272",8,"ej,murtd101,M,craws901,Bench jockeying $Pirates manager Murtaugh ejected by HP umpire Crawford for arguing called strike to Mazeroski","1962PHI.EVN.regular.comment.csv",25
+"PHI196208282",56,"Ken MacKenzie left with muscle spasms","1962PHI.EVN.regular.comment.csv",26
+"PHI196209140",62,"$Johnny Callison's second consecutive game-ending homer","1962PHI.EVN.regular.comment.csv",27
+"PHI196209150",49,"Debut game for John Herrnstein","1962PHI.EVN.regular.comment.csv",28
+"PHI196209190",57,"$Game called due to rain; second game cancelled","1962PHI.EVN.regular.comment.csv",29
+"PHI196209220",35,"Joe Nuxhall left with strained elbow","1962PHI.EVN.regular.comment.csv",30
+"PHI196209230",27,"$Billy Klaus called for interference at 2B","1962PHI.EVN.regular.comment.csv",31

@@ -1,35 +1,36 @@
-"SLA193704210",47,"$430 ft","FILENAME_TX","LINE_NUMBER_CT"
-"SLA193705100",52,"S/s stopped here. Reconstructed using WPost game story","1937SLA.EVA.regular.comment.csv",2
-"SLA193705110",48,"pbp account ends here, rest deduced","1937SLA.EVA.regular.comment.csv",3
-"SLA193705130",49,"pbp account ends here, rest deduced","1937SLA.EVA.regular.comment.csv",4
-"SLA193705140",65,"pbp account ends here, rest deduced","1937SLA.EVA.regular.comment.csv",5
-"SLA193705150",12,"ej,knicb101,P,mcgob901,Call at 3B Bill Knickerbocker ejected by 3B umpire Bill McGowan","1937SLA.EVA.regular.comment.csv",6
-"SLA193706050",0,"$Field in poor condition from heavy rain in the morning","1937SLA.EVA.regular.comment.csv",7
-"SLA193706070",46,"$Oral Hildebrand had to dodge the flying bat to make the play","1937SLA.EVA.regular.comment.csv",8
-"SLA193706070",48,"$Bennie Huffman made a bad throw back to the mound","1937SLA.EVA.regular.comment.csv",9
-"SLA193706100",42,"Reconstructed from here to end","1937SLA.EVA.regular.comment.csv",10
-"SLA193706132",102,"$game called due to darkness and to allow the teams to catch trains","1937SLA.EVA.regular.comment.csv",11
-"SLA193707020",50,"pbp account ends here, rest deduced","1937SLA.EVA.regular.comment.csv",12
-"SLA193707150",24,"$Eric McNair intentionally dropped the popup","1937SLA.EVA.regular.comment.csv",13
-"SLA193707160",46,"$Fabian Gaffke was out at 3B before Eric McNair could score","1937SLA.EVA.regular.comment.csv",14
-"SLA193707220",17,"$Bump Hadley left with an injured back","1937SLA.EVA.regular.comment.csv",15
-"SLA193707230",52,"pbp account ends here, rest deduced","1937SLA.EVA.regular.comment.csv",16
-"SLA193708190",43,"Reconstructed from here to end","1937SLA.EVA.regular.comment.csv",17
-"SLA193708200",26,"$Knott hurt his hand during his last at bat, had to leave game.","1937SLA.EVA.regular.comment.csv",18
-"SLA193708210",67,"pbp accounts ends here, rest deduced","1937SLA.EVA.regular.comment.csv",19
-"SLA193708221",45,"$Fan interference","1937SLA.EVA.regular.comment.csv",20
-"SLA193708240",46,"Reconstructed from here to end","1937SLA.EVA.regular.comment.csv",21
-"SLA193708250",49,"pbp account ends here, rest deduced","1937SLA.EVA.regular.comment.csv",22
-"SLA193709010",47,"pbp account ends here, rest deduced","1937SLA.EVA.regular.comment.csv",23
-"SLA193709020",50,"pbp account ends here, rest deduced","1937SLA.EVA.regular.comment.csv",24
-"SLA193709030",54,"pbp account ends here, rest deduced","1937SLA.EVA.regular.comment.csv",25
-"SLA193709030",56,"$Johnny Allen missed 2B, went back to touch it then was out at 3B","1937SLA.EVA.regular.comment.csv",26
-"SLA193709030",65,"pbp account ends here, rest deduced","1937SLA.EVA.regular.comment.csv",27
-"SLA193709042",60,"$Game called for darkness","1937SLA.EVA.regular.comment.csv",28
-"SLA193709080",51,"pbp account ends here, rest deduced","1937SLA.EVA.regular.comment.csv",29
-"SLA193709090",43,"pbp account ends here, rest deduced","1937SLA.EVA.regular.comment.csv",30
-"SLA193709090",51,"$Merv Connors and Jimmy Dykes both ended up at 2B","1937SLA.EVA.regular.comment.csv",31
-"SLA193709090",72,"$Oral Hildebrand suffered a broken finger when struck by a line drive","1937SLA.EVA.regular.comment.csv",32
-"SLA193709300",22,"$Muncrief left with injured hand after 3-2 count","1937SLA.EVA.regular.comment.csv",33
-"SLA193710032",42,"$This was George Gick's major-league debut","1937SLA.EVA.regular.comment.csv",34
-"SLA193710032",51,"$Game called for darkness","1937SLA.EVA.regular.comment.csv",35
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"SLA193704210",47,"$430 ft","1937SLA.EVA.regular.comment.csv",2
+"SLA193705100",52,"S/s stopped here. Reconstructed using WPost game story","1937SLA.EVA.regular.comment.csv",3
+"SLA193705110",48,"pbp account ends here, rest deduced","1937SLA.EVA.regular.comment.csv",4
+"SLA193705130",49,"pbp account ends here, rest deduced","1937SLA.EVA.regular.comment.csv",5
+"SLA193705140",65,"pbp account ends here, rest deduced","1937SLA.EVA.regular.comment.csv",6
+"SLA193705150",12,"ej,knicb101,P,mcgob901,Call at 3B Bill Knickerbocker ejected by 3B umpire Bill McGowan","1937SLA.EVA.regular.comment.csv",7
+"SLA193706050",0,"$Field in poor condition from heavy rain in the morning","1937SLA.EVA.regular.comment.csv",8
+"SLA193706070",46,"$Oral Hildebrand had to dodge the flying bat to make the play","1937SLA.EVA.regular.comment.csv",9
+"SLA193706070",48,"$Bennie Huffman made a bad throw back to the mound","1937SLA.EVA.regular.comment.csv",10
+"SLA193706100",42,"Reconstructed from here to end","1937SLA.EVA.regular.comment.csv",11
+"SLA193706132",102,"$game called due to darkness and to allow the teams to catch trains","1937SLA.EVA.regular.comment.csv",12
+"SLA193707020",50,"pbp account ends here, rest deduced","1937SLA.EVA.regular.comment.csv",13
+"SLA193707150",24,"$Eric McNair intentionally dropped the popup","1937SLA.EVA.regular.comment.csv",14
+"SLA193707160",46,"$Fabian Gaffke was out at 3B before Eric McNair could score","1937SLA.EVA.regular.comment.csv",15
+"SLA193707220",17,"$Bump Hadley left with an injured back","1937SLA.EVA.regular.comment.csv",16
+"SLA193707230",52,"pbp account ends here, rest deduced","1937SLA.EVA.regular.comment.csv",17
+"SLA193708190",43,"Reconstructed from here to end","1937SLA.EVA.regular.comment.csv",18
+"SLA193708200",26,"$Knott hurt his hand during his last at bat, had to leave game.","1937SLA.EVA.regular.comment.csv",19
+"SLA193708210",67,"pbp accounts ends here, rest deduced","1937SLA.EVA.regular.comment.csv",20
+"SLA193708221",45,"$Fan interference","1937SLA.EVA.regular.comment.csv",21
+"SLA193708240",46,"Reconstructed from here to end","1937SLA.EVA.regular.comment.csv",22
+"SLA193708250",49,"pbp account ends here, rest deduced","1937SLA.EVA.regular.comment.csv",23
+"SLA193709010",47,"pbp account ends here, rest deduced","1937SLA.EVA.regular.comment.csv",24
+"SLA193709020",50,"pbp account ends here, rest deduced","1937SLA.EVA.regular.comment.csv",25
+"SLA193709030",54,"pbp account ends here, rest deduced","1937SLA.EVA.regular.comment.csv",26
+"SLA193709030",56,"$Johnny Allen missed 2B, went back to touch it then was out at 3B","1937SLA.EVA.regular.comment.csv",27
+"SLA193709030",65,"pbp account ends here, rest deduced","1937SLA.EVA.regular.comment.csv",28
+"SLA193709042",60,"$Game called for darkness","1937SLA.EVA.regular.comment.csv",29
+"SLA193709080",51,"pbp account ends here, rest deduced","1937SLA.EVA.regular.comment.csv",30
+"SLA193709090",43,"pbp account ends here, rest deduced","1937SLA.EVA.regular.comment.csv",31
+"SLA193709090",51,"$Merv Connors and Jimmy Dykes both ended up at 2B","1937SLA.EVA.regular.comment.csv",32
+"SLA193709090",72,"$Oral Hildebrand suffered a broken finger when struck by a line drive","1937SLA.EVA.regular.comment.csv",33
+"SLA193709300",22,"$Muncrief left with injured hand after 3-2 count","1937SLA.EVA.regular.comment.csv",34
+"SLA193710032",42,"$This was George Gick's major-league debut","1937SLA.EVA.regular.comment.csv",35
+"SLA193710032",51,"$Game called for darkness","1937SLA.EVA.regular.comment.csv",36

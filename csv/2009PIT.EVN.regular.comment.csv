@@ -1,26 +1,27 @@
-"PIT200904130",6,"fan interference","FILENAME_TX","LINE_NUMBER_CT"
-"PIT200904160",18,"Debut game for Jason Jaramillo","2009PIT.EVN.regular.comment.csv",2
-"PIT200904190",33,"Braves left fielder Garret Anderson left the game due to an injured leg","2009PIT.EVN.regular.comment.csv",3
-"PIT200905040",11,"Brewers third baseman Bill Hall left the game due to an injured leg","2009PIT.EVN.regular.comment.csv",4
-"PIT200905120",20,"Cardinals right fielder Ryan Ludwick left the game due to an injured leg","2009PIT.EVN.regular.comment.csv",5
-"PIT200905130",7,"replay,1,laroa001,PIT,marsr901,PIT08,O,Y,I,,H $Adam LaRoche hit a ball to right that hit either a railing or a screen above the 21-foot wall; both objects are in play but first base umpire Lance Barksdale ruled it a home run; LaRoche had stopped at second but continued on to score; after crew chief Randy Marsh and two other members of the crew watched the replay, Marsh reversed the call from homer to in play and awarded LaRoche a double; this was the first homer that was reviewed and reversed","2009PIT.EVN.regular.comment.csv",6
-"PIT200906010",61,"Debut game for Steven Jackson","2009PIT.EVN.regular.comment.csv",7
-"PIT200906020",39,"ej,morgn001,P,mcclt901,Call at 1B Pirates LF Nyjer Morgan ejected by 1B umpire Tim McClelland","2009PIT.EVN.regular.comment.csv",8
-"PIT200906040",5,"Debut game for Andrew McCutchen","2009PIT.EVN.regular.comment.csv",9
-"PIT200906040",64,"Pirates third baseman Andy LaRoche left the game due to an injured knee","2009PIT.EVN.regular.comment.csv",10
-"PIT200906250",45,"ej,russj002,M,laynj901,Arguing foul ball was HBP Pirates Manager John Russell ejected by HP umpire Jerry Layne when he argued that the second pitch to Nyjer Morgan hit Morgan's finger and not the bat; Layne called it a foul ball","2009PIT.EVN.regular.comment.csv",11
-"PIT200906250",76,"$Andrew McCutchen showed bunt and the Indians' infield put on the 'wheel play' to cover; Jack Wilson stole third when no one covered the bag","2009PIT.EVN.regular.comment.csv",12
-"PIT200906260",34,"umpchange,5,ump3b,estam901 $3B umpire Jerry Crawford left after becoming ill","2009PIT.EVN.regular.comment.csv",13
-"PIT200906270",38,"$Chen's liner bounced into a nook in LF where a fan touched it; he was originally credited with a double on the interference but, after the umpires huddled, Chen was sent to first for a single","2009PIT.EVN.regular.comment.csv",14
-"PIT200906270",72,"ej,olivm001,P,cuzzp901,Balls and strikes Royals catcher Miguel Olivo ejected by HP umpire Phil Cuzzi for making a comment as he left the plate after being called out on a check swing","2009PIT.EVN.regular.comment.csv",15
-"PIT200906280",54,"$59 minute rain delay at this point","2009PIT.EVN.regular.comment.csv",16
-"PIT200907020",71,"ej,yound004,P,fairc901,Called third strike Pirates right fielder Delwyn Young ejected by HP umpire Chad Fairchild","2009PIT.EVN.regular.comment.csv",17
-"PIT200907200",73,"$Jeff Karstens had hit Ryan Braun with a pitch on April 27 and this appeared to be payback; both teams came on the field; Karstens glared at Chris Smith and catcher Jason Kendall restrained Karstens; those two talked to each other and Pirates pitching coach Joe Kerrigan started yelling at Kendall; when Kendall got agitated, teammate Prince Fielder restrained Kendall; no one Was ejected","2009PIT.EVN.regular.comment.csv",18
-"PIT200907210",63,"Brewers second baseman Felipe Lopez left the game due to an injured leg","2009PIT.EVN.regular.comment.csv",19
-"PIT200907220",25,"replay,3,doumr001,PIT,bellw901,PIT08,I,Y,I,,H $Ryan Doumit's fly ball to right was touched by a fan and was ruled in play; acting crew chief Wally Bell watched the replay and reversed the call to a home run","2009PIT.EVN.regular.comment.csv",20
-"PIT200908020",51,"fan interference","2009PIT.EVN.regular.comment.csv",21
-"PIT200908060",12,"Debut game for Trent Oeltjen","2009PIT.EVN.regular.comment.csv",22
-"PIT200908090",61,"ej,cappm001,P,estam901,Intentional HBP Pirates pitcher Matt Capps ejected by HP umpire Mike Estabrook","2009PIT.EVN.regular.comment.csv",23
-"PIT200908230",27,"Reds left fielder Chris Dickerson left the game due to an injured foot/ankle","2009PIT.EVN.regular.comment.csv",24
-"PIT200909220",70,"Debut game for Eric Hacker","2009PIT.EVN.regular.comment.csv",25
-"PIT200909230",79,"DWS: This was 3E6 at 2nd with runner continuing to 3rd","2009PIT.EVN.regular.comment.csv",26
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"PIT200904130",6,"fan interference","2009PIT.EVN.regular.comment.csv",2
+"PIT200904160",18,"Debut game for Jason Jaramillo","2009PIT.EVN.regular.comment.csv",3
+"PIT200904190",33,"Braves left fielder Garret Anderson left the game due to an injured leg","2009PIT.EVN.regular.comment.csv",4
+"PIT200905040",11,"Brewers third baseman Bill Hall left the game due to an injured leg","2009PIT.EVN.regular.comment.csv",5
+"PIT200905120",20,"Cardinals right fielder Ryan Ludwick left the game due to an injured leg","2009PIT.EVN.regular.comment.csv",6
+"PIT200905130",7,"replay,1,laroa001,PIT,marsr901,PIT08,O,Y,I,,H $Adam LaRoche hit a ball to right that hit either a railing or a screen above the 21-foot wall; both objects are in play but first base umpire Lance Barksdale ruled it a home run; LaRoche had stopped at second but continued on to score; after crew chief Randy Marsh and two other members of the crew watched the replay, Marsh reversed the call from homer to in play and awarded LaRoche a double; this was the first homer that was reviewed and reversed","2009PIT.EVN.regular.comment.csv",7
+"PIT200906010",61,"Debut game for Steven Jackson","2009PIT.EVN.regular.comment.csv",8
+"PIT200906020",39,"ej,morgn001,P,mcclt901,Call at 1B Pirates LF Nyjer Morgan ejected by 1B umpire Tim McClelland","2009PIT.EVN.regular.comment.csv",9
+"PIT200906040",5,"Debut game for Andrew McCutchen","2009PIT.EVN.regular.comment.csv",10
+"PIT200906040",64,"Pirates third baseman Andy LaRoche left the game due to an injured knee","2009PIT.EVN.regular.comment.csv",11
+"PIT200906250",45,"ej,russj002,M,laynj901,Arguing foul ball was HBP Pirates Manager John Russell ejected by HP umpire Jerry Layne when he argued that the second pitch to Nyjer Morgan hit Morgan's finger and not the bat; Layne called it a foul ball","2009PIT.EVN.regular.comment.csv",12
+"PIT200906250",76,"$Andrew McCutchen showed bunt and the Indians' infield put on the 'wheel play' to cover; Jack Wilson stole third when no one covered the bag","2009PIT.EVN.regular.comment.csv",13
+"PIT200906260",34,"umpchange,5,ump3b,estam901 $3B umpire Jerry Crawford left after becoming ill","2009PIT.EVN.regular.comment.csv",14
+"PIT200906270",38,"$Chen's liner bounced into a nook in LF where a fan touched it; he was originally credited with a double on the interference but, after the umpires huddled, Chen was sent to first for a single","2009PIT.EVN.regular.comment.csv",15
+"PIT200906270",72,"ej,olivm001,P,cuzzp901,Balls and strikes Royals catcher Miguel Olivo ejected by HP umpire Phil Cuzzi for making a comment as he left the plate after being called out on a check swing","2009PIT.EVN.regular.comment.csv",16
+"PIT200906280",54,"$59 minute rain delay at this point","2009PIT.EVN.regular.comment.csv",17
+"PIT200907020",71,"ej,yound004,P,fairc901,Called third strike Pirates right fielder Delwyn Young ejected by HP umpire Chad Fairchild","2009PIT.EVN.regular.comment.csv",18
+"PIT200907200",73,"$Jeff Karstens had hit Ryan Braun with a pitch on April 27 and this appeared to be payback; both teams came on the field; Karstens glared at Chris Smith and catcher Jason Kendall restrained Karstens; those two talked to each other and Pirates pitching coach Joe Kerrigan started yelling at Kendall; when Kendall got agitated, teammate Prince Fielder restrained Kendall; no one Was ejected","2009PIT.EVN.regular.comment.csv",19
+"PIT200907210",63,"Brewers second baseman Felipe Lopez left the game due to an injured leg","2009PIT.EVN.regular.comment.csv",20
+"PIT200907220",25,"replay,3,doumr001,PIT,bellw901,PIT08,I,Y,I,,H $Ryan Doumit's fly ball to right was touched by a fan and was ruled in play; acting crew chief Wally Bell watched the replay and reversed the call to a home run","2009PIT.EVN.regular.comment.csv",21
+"PIT200908020",51,"fan interference","2009PIT.EVN.regular.comment.csv",22
+"PIT200908060",12,"Debut game for Trent Oeltjen","2009PIT.EVN.regular.comment.csv",23
+"PIT200908090",61,"ej,cappm001,P,estam901,Intentional HBP Pirates pitcher Matt Capps ejected by HP umpire Mike Estabrook","2009PIT.EVN.regular.comment.csv",24
+"PIT200908230",27,"Reds left fielder Chris Dickerson left the game due to an injured foot/ankle","2009PIT.EVN.regular.comment.csv",25
+"PIT200909220",70,"Debut game for Eric Hacker","2009PIT.EVN.regular.comment.csv",26
+"PIT200909230",79,"DWS: This was 3E6 at 2nd with runner continuing to 3rd","2009PIT.EVN.regular.comment.csv",27

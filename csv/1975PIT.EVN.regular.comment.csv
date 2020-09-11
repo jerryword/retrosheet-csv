@@ -1,37 +1,38 @@
-"PIT197504140",61,"27 minute delay to due power outage","FILENAME_TX","LINE_NUMBER_CT"
-"PIT197504170",21,"Debut game for Bombo Rivera","1975PIT.EVN.regular.comment.csv",2
-"PIT197504270",33,"per film, was D9.B-3(E9)","1975PIT.EVN.regular.comment.csv",3
-"PIT197505100",48,"ej,stenr101,P,willa901,Call at 2B (Bumped umpire) Rennie Stennett ejected by 2B umpire Art Williams for bumping the arbiter arguing the call at 2B on Tom Paciorek; Stennett bumped Williams and was suspended two days (May 13 and 14)","1975PIT.EVN.regular.comment.csv",4
-"PIT197505100",79,"$Willie Stargell called for obstruction","1975PIT.EVN.regular.comment.csv",5
-"PIT197506030",78,"$Dave Parker out on appeal for leaving 2B too soon","1975PIT.EVN.regular.comment.csv",6
-"PIT197506040",49,"$Liner off Jerry Reuss' leg below knee cap; X-Rays OK","1975PIT.EVN.regular.comment.csv",7
-"PIT197506060",0,"$Start of game delayed 50 minutes due to mechanical problems with automatic tarpaulin","1975PIT.EVN.regular.comment.csv",8
-"PIT197506060",60,"ej,westw101,P,pelec901,Called 3rd strike $Giants manager Westrum ejected by HP umpire Pelekoudas for arguing called strike 3 to Murcer","1975PIT.EVN.regular.comment.csv",9
-"PIT197506070",33,"$timing play: Willie Montanez had not touched HP when Marc Hill was tagged out at 2B","1975PIT.EVN.regular.comment.csv",10
-"PIT197506081",1,"Debut game for John Candelaria","1975PIT.EVN.regular.comment.csv",11
-"PIT197506160",59,"ej,lewij102,C,rungp901,Call at 1B Cardinals Coach Johnny Lewis ejected by 1B umpire Paul Runge","1975PIT.EVN.regular.comment.csv",12
-"PIT197506160",63,"ej,reitk101,P,willa901,Called third strike Ken Reitz ejected by HP umpire Art Williams","1975PIT.EVN.regular.comment.csv",13
-"PIT197506160",69,"ej,schor101,M,willa901,Balk call Cardinals Manager Red Schoendienst ejected by HP umpire Art Williams","1975PIT.EVN.regular.comment.csv",14
-"PIT197506170",57,"Al Oliver left with a pulled right hamstring","1975PIT.EVN.regular.comment.csv",15
-"PIT197506180",69,"Debut game for Mike Barlow","1975PIT.EVN.regular.comment.csv",16
-"PIT197506180",79,"$Richie Hebner left with a bruise","1975PIT.EVN.regular.comment.csv",17
-"PIT197506271",46,"$Andre Thornton overslid 2B","1975PIT.EVN.regular.comment.csv",18
-"PIT197506272",72,"ej,hoslt101,P,rennd901,Called third strike Tim Hosley ejected by HP umpire Dutch Rennert","1975PIT.EVN.regular.comment.csv",19
-"PIT197506292",48,"Al Oliver hit on thigh","1975PIT.EVN.regular.comment.csv",20
-"PIT197507080",56,"19 minute rain delay; Don Sutton left with pulled groin","1975PIT.EVN.regular.comment.csv",21
-"PIT197507100",47,"34 minute rain delay","1975PIT.EVN.regular.comment.csv",22
-"PIT197507111",53,"Bill Robinson jammed his right thumb diving for the ball","1975PIT.EVN.regular.comment.csv",23
-"PIT197507120",40,"Frank Taveras injured his right ankle","1975PIT.EVN.regular.comment.csv",24
-"PIT197507250",57,"Bob Robertson left with pulled groin","1975PIT.EVN.regular.comment.csv",25
-"PIT197507290",5,"Debut game for Willie Randolph","1975PIT.EVN.regular.comment.csv",26
-"PIT197507300",0,"$18 minute delay before start of game to allow the overflow crowd in (12,435 ladies)","1975PIT.EVN.regular.comment.csv",27
-"PIT197508010",55,"Debut game for Craig Reynolds","1975PIT.EVN.regular.comment.csv",28
-"PIT197508031",0,"1:15 rain delay before start of game","1975PIT.EVN.regular.comment.csv",29
-"PIT197508031",19,"Rain delay","1975PIT.EVN.regular.comment.csv",30
-"PIT197508221",1,"Manny Sanguillen left with dislocated middle finger on right hand","1975PIT.EVN.regular.comment.csv",31
-"PIT197509080",0,"48 minute rain delay in first","1975PIT.EVN.regular.comment.csv",32
-"PIT197509090",38,"Bill Madlock hit on right hand","1975PIT.EVN.regular.comment.csv",33
-"PIT197509110",59,"Debut game for Odell Jones","1975PIT.EVN.regular.comment.csv",34
-"PIT197509120",0,"$Expos manager Gene Mauch not at park (virus); coach Dave Bristol managing team","1975PIT.EVN.regular.comment.csv",35
-"PIT197509120",58,"ej,folit001,P,rungp901,Call at 2B (Spit sprayed) $Ellis Valentine dropped the fly ball but threw to 2B; 2B umpire Paul Runge called Rennie Stennett safe and Tim Foli argued the call; Foli cussed at Runge and spit sprayed on the umpire; Runge warned Foli and then ejected him","1975PIT.EVN.regular.comment.csv",36
-"PIT197509220",0,"25 minute rain delay before start of game","1975PIT.EVN.regular.comment.csv",37
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"PIT197504140",61,"27 minute delay to due power outage","1975PIT.EVN.regular.comment.csv",2
+"PIT197504170",21,"Debut game for Bombo Rivera","1975PIT.EVN.regular.comment.csv",3
+"PIT197504270",33,"per film, was D9.B-3(E9)","1975PIT.EVN.regular.comment.csv",4
+"PIT197505100",48,"ej,stenr101,P,willa901,Call at 2B (Bumped umpire) Rennie Stennett ejected by 2B umpire Art Williams for bumping the arbiter arguing the call at 2B on Tom Paciorek; Stennett bumped Williams and was suspended two days (May 13 and 14)","1975PIT.EVN.regular.comment.csv",5
+"PIT197505100",79,"$Willie Stargell called for obstruction","1975PIT.EVN.regular.comment.csv",6
+"PIT197506030",78,"$Dave Parker out on appeal for leaving 2B too soon","1975PIT.EVN.regular.comment.csv",7
+"PIT197506040",49,"$Liner off Jerry Reuss' leg below knee cap; X-Rays OK","1975PIT.EVN.regular.comment.csv",8
+"PIT197506060",0,"$Start of game delayed 50 minutes due to mechanical problems with automatic tarpaulin","1975PIT.EVN.regular.comment.csv",9
+"PIT197506060",60,"ej,westw101,P,pelec901,Called 3rd strike $Giants manager Westrum ejected by HP umpire Pelekoudas for arguing called strike 3 to Murcer","1975PIT.EVN.regular.comment.csv",10
+"PIT197506070",33,"$timing play: Willie Montanez had not touched HP when Marc Hill was tagged out at 2B","1975PIT.EVN.regular.comment.csv",11
+"PIT197506081",1,"Debut game for John Candelaria","1975PIT.EVN.regular.comment.csv",12
+"PIT197506160",59,"ej,lewij102,C,rungp901,Call at 1B Cardinals Coach Johnny Lewis ejected by 1B umpire Paul Runge","1975PIT.EVN.regular.comment.csv",13
+"PIT197506160",63,"ej,reitk101,P,willa901,Called third strike Ken Reitz ejected by HP umpire Art Williams","1975PIT.EVN.regular.comment.csv",14
+"PIT197506160",69,"ej,schor101,M,willa901,Balk call Cardinals Manager Red Schoendienst ejected by HP umpire Art Williams","1975PIT.EVN.regular.comment.csv",15
+"PIT197506170",57,"Al Oliver left with a pulled right hamstring","1975PIT.EVN.regular.comment.csv",16
+"PIT197506180",69,"Debut game for Mike Barlow","1975PIT.EVN.regular.comment.csv",17
+"PIT197506180",79,"$Richie Hebner left with a bruise","1975PIT.EVN.regular.comment.csv",18
+"PIT197506271",46,"$Andre Thornton overslid 2B","1975PIT.EVN.regular.comment.csv",19
+"PIT197506272",72,"ej,hoslt101,P,rennd901,Called third strike Tim Hosley ejected by HP umpire Dutch Rennert","1975PIT.EVN.regular.comment.csv",20
+"PIT197506292",48,"Al Oliver hit on thigh","1975PIT.EVN.regular.comment.csv",21
+"PIT197507080",56,"19 minute rain delay; Don Sutton left with pulled groin","1975PIT.EVN.regular.comment.csv",22
+"PIT197507100",47,"34 minute rain delay","1975PIT.EVN.regular.comment.csv",23
+"PIT197507111",53,"Bill Robinson jammed his right thumb diving for the ball","1975PIT.EVN.regular.comment.csv",24
+"PIT197507120",40,"Frank Taveras injured his right ankle","1975PIT.EVN.regular.comment.csv",25
+"PIT197507250",57,"Bob Robertson left with pulled groin","1975PIT.EVN.regular.comment.csv",26
+"PIT197507290",5,"Debut game for Willie Randolph","1975PIT.EVN.regular.comment.csv",27
+"PIT197507300",0,"$18 minute delay before start of game to allow the overflow crowd in (12,435 ladies)","1975PIT.EVN.regular.comment.csv",28
+"PIT197508010",55,"Debut game for Craig Reynolds","1975PIT.EVN.regular.comment.csv",29
+"PIT197508031",0,"1:15 rain delay before start of game","1975PIT.EVN.regular.comment.csv",30
+"PIT197508031",19,"Rain delay","1975PIT.EVN.regular.comment.csv",31
+"PIT197508221",1,"Manny Sanguillen left with dislocated middle finger on right hand","1975PIT.EVN.regular.comment.csv",32
+"PIT197509080",0,"48 minute rain delay in first","1975PIT.EVN.regular.comment.csv",33
+"PIT197509090",38,"Bill Madlock hit on right hand","1975PIT.EVN.regular.comment.csv",34
+"PIT197509110",59,"Debut game for Odell Jones","1975PIT.EVN.regular.comment.csv",35
+"PIT197509120",0,"$Expos manager Gene Mauch not at park (virus); coach Dave Bristol managing team","1975PIT.EVN.regular.comment.csv",36
+"PIT197509120",58,"ej,folit001,P,rungp901,Call at 2B (Spit sprayed) $Ellis Valentine dropped the fly ball but threw to 2B; 2B umpire Paul Runge called Rennie Stennett safe and Tim Foli argued the call; Foli cussed at Runge and spit sprayed on the umpire; Runge warned Foli and then ejected him","1975PIT.EVN.regular.comment.csv",37
+"PIT197509220",0,"25 minute rain delay before start of game","1975PIT.EVN.regular.comment.csv",38

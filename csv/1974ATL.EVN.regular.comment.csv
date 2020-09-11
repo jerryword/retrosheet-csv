@@ -1,31 +1,32 @@
-"ATL197404080",30,"$Hank Aaron's 715th homer to pass Babe Ruth; 11 minute delay for celebration","FILENAME_TX","LINE_NUMBER_CT"
-"ATL197404080",59,"$Davey Lopes hurts back","1974ATL.EVN.regular.comment.csv",2
-"ATL197404090",35,"$dispute over fair or foul on home run; LF Bill Buckner threw his glove during the argument and was fined $100 but not ejected","1974ATL.EVN.regular.comment.csv",3
-"ATL197404130",45,"Debut game for Pat Osburn","1974ATL.EVN.regular.comment.csv",4
-"ATL197404160",75,"$Johnny Grubb rounded 2B too far as Craig Robinson bobbled Fred Kendall's grounder","1974ATL.EVN.regular.comment.csv",5
-"ATL197404170",22,"$Darrell Evans injured in play at 3B","1974ATL.EVN.regular.comment.csv",6
-"ATL197405250",66,"missing fielding in ATL197405250","1974ATL.EVN.regular.comment.csv",7
-"ATL197406070",0,"1:04 rain delay before start of game","1974ATL.EVN.regular.comment.csv",8
-"ATL197406070",51,"sheet isn't clear how Capra moved around the bases; only indicated Evans went to 2B on an E2; E2 can sometimes be pick off but I decided it was more likely that Capra wouldn't score if the error was part of the base hit play","1974ATL.EVN.regular.comment.csv",9
-"ATL197406080",4,"DWS: leave comment until some resolution coded with 'K' and a '21'. I guess K21 is possible but I don't think it's more likely that the 21 means something else that I don't understand At some point it's probably worth a check as it would be a very unusual play","1974ATL.EVN.regular.comment.csv",10
-"ATL197406150",63,"ej,bensv101,C,froeb901,Balls and strikes ej,simmt001,P,froeb901,Balls and strikes $Cardinals Simmons and coach Benson ejected by HP umpire Froemming for arguing balls and strikes while Brock was at bat","1974ATL.EVN.regular.comment.csv",11
-"ATL197406160",67,"ej,mathe101,M,rungp901,Interference non-call $Braves manager Mathews ejected by 1B umpire Runge for arguing McGlothen should be out for interference on ball hit by Brock","1974ATL.EVN.regular.comment.csv",12
-"ATL197406270",0,"1:10 rain delay before start of game","1974ATL.EVN.regular.comment.csv",13
-"ATL197406300",44,"See comment last play.","1974ATL.EVN.regular.comment.csv",14
-"ATL197407010",12,"ej,gomep101,varge901,Reversal of home run to double $Astros manager Gomez ejected by HP umpire Vargo for arguing when Rader's apparent homer reversed to double","1974ATL.EVN.regular.comment.csv",15
-"ATL197407020",0,"14 minute rain delay before start of game","1974ATL.EVN.regular.comment.csv",16
-"ATL197407200",25,"Carl Morton left with a sprained ankle","1974ATL.EVN.regular.comment.csv",17
-"ATL197407250",71,"Debut game for Mike Johnson","1974ATL.EVN.regular.comment.csv",18
-"ATL197407270",41,"Debut game for Rex Hudson","1974ATL.EVN.regular.comment.csv",19
-"ATL197407280",25,"Buzz Capra left with blister on finger","1974ATL.EVN.regular.comment.csv",20
-"ATL197407300",48,"ej,garrr101,P,harvd901,Call at 1B Ralph Garr ejected by 1B umpire Doug Harvey","1974ATL.EVN.regular.comment.csv",21
-"ATL197408140",49,"$low liner that made runners freeze, then Jim Northrup broke for HP after throw to first and was easy out","1974ATL.EVN.regular.comment.csv",22
-"ATL197408232",49,"Lew Krausse left with blister","1974ATL.EVN.regular.comment.csv",23
-"ATL197409021",3,"Debut game for Jerry Turner","1974ATL.EVN.regular.comment.csv",24
-"ATL197409021",16,"Debut game for Bill Almon","1974ATL.EVN.regular.comment.csv",25
-"ATL197409022",12,"1:35 rain delay","1974ATL.EVN.regular.comment.csv",26
-"ATL197409070",29,"ej,starh101,C,wendh901,Balk call Braves Coach Herm Starrette ejected by 2B umpire Harry Wendelstedt","1974ATL.EVN.regular.comment.csv",27
-"ATL197409070",69,"Debut game for Mike Beard","1974ATL.EVN.regular.comment.csv",28
-"ATL197409080",11,"Debut game for Glenn Redmon","1974ATL.EVN.regular.comment.csv",29
-"ATL197409080",44,"Debut game for Butch Metzger","1974ATL.EVN.regular.comment.csv",30
-"ATL197409090",6,"$Marty Perez called for interference","1974ATL.EVN.regular.comment.csv",31
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"ATL197404080",30,"$Hank Aaron's 715th homer to pass Babe Ruth; 11 minute delay for celebration","1974ATL.EVN.regular.comment.csv",2
+"ATL197404080",59,"$Davey Lopes hurts back","1974ATL.EVN.regular.comment.csv",3
+"ATL197404090",35,"$dispute over fair or foul on home run; LF Bill Buckner threw his glove during the argument and was fined $100 but not ejected","1974ATL.EVN.regular.comment.csv",4
+"ATL197404130",45,"Debut game for Pat Osburn","1974ATL.EVN.regular.comment.csv",5
+"ATL197404160",75,"$Johnny Grubb rounded 2B too far as Craig Robinson bobbled Fred Kendall's grounder","1974ATL.EVN.regular.comment.csv",6
+"ATL197404170",22,"$Darrell Evans injured in play at 3B","1974ATL.EVN.regular.comment.csv",7
+"ATL197405250",66,"missing fielding in ATL197405250","1974ATL.EVN.regular.comment.csv",8
+"ATL197406070",0,"1:04 rain delay before start of game","1974ATL.EVN.regular.comment.csv",9
+"ATL197406070",51,"sheet isn't clear how Capra moved around the bases; only indicated Evans went to 2B on an E2; E2 can sometimes be pick off but I decided it was more likely that Capra wouldn't score if the error was part of the base hit play","1974ATL.EVN.regular.comment.csv",10
+"ATL197406080",4,"DWS: leave comment until some resolution coded with 'K' and a '21'. I guess K21 is possible but I don't think it's more likely that the 21 means something else that I don't understand At some point it's probably worth a check as it would be a very unusual play","1974ATL.EVN.regular.comment.csv",11
+"ATL197406150",63,"ej,bensv101,C,froeb901,Balls and strikes ej,simmt001,P,froeb901,Balls and strikes $Cardinals Simmons and coach Benson ejected by HP umpire Froemming for arguing balls and strikes while Brock was at bat","1974ATL.EVN.regular.comment.csv",12
+"ATL197406160",67,"ej,mathe101,M,rungp901,Interference non-call $Braves manager Mathews ejected by 1B umpire Runge for arguing McGlothen should be out for interference on ball hit by Brock","1974ATL.EVN.regular.comment.csv",13
+"ATL197406270",0,"1:10 rain delay before start of game","1974ATL.EVN.regular.comment.csv",14
+"ATL197406300",44,"See comment last play.","1974ATL.EVN.regular.comment.csv",15
+"ATL197407010",12,"ej,gomep101,varge901,Reversal of home run to double $Astros manager Gomez ejected by HP umpire Vargo for arguing when Rader's apparent homer reversed to double","1974ATL.EVN.regular.comment.csv",16
+"ATL197407020",0,"14 minute rain delay before start of game","1974ATL.EVN.regular.comment.csv",17
+"ATL197407200",25,"Carl Morton left with a sprained ankle","1974ATL.EVN.regular.comment.csv",18
+"ATL197407250",71,"Debut game for Mike Johnson","1974ATL.EVN.regular.comment.csv",19
+"ATL197407270",41,"Debut game for Rex Hudson","1974ATL.EVN.regular.comment.csv",20
+"ATL197407280",25,"Buzz Capra left with blister on finger","1974ATL.EVN.regular.comment.csv",21
+"ATL197407300",48,"ej,garrr101,P,harvd901,Call at 1B Ralph Garr ejected by 1B umpire Doug Harvey","1974ATL.EVN.regular.comment.csv",22
+"ATL197408140",49,"$low liner that made runners freeze, then Jim Northrup broke for HP after throw to first and was easy out","1974ATL.EVN.regular.comment.csv",23
+"ATL197408232",49,"Lew Krausse left with blister","1974ATL.EVN.regular.comment.csv",24
+"ATL197409021",3,"Debut game for Jerry Turner","1974ATL.EVN.regular.comment.csv",25
+"ATL197409021",16,"Debut game for Bill Almon","1974ATL.EVN.regular.comment.csv",26
+"ATL197409022",12,"1:35 rain delay","1974ATL.EVN.regular.comment.csv",27
+"ATL197409070",29,"ej,starh101,C,wendh901,Balk call Braves Coach Herm Starrette ejected by 2B umpire Harry Wendelstedt","1974ATL.EVN.regular.comment.csv",28
+"ATL197409070",69,"Debut game for Mike Beard","1974ATL.EVN.regular.comment.csv",29
+"ATL197409080",11,"Debut game for Glenn Redmon","1974ATL.EVN.regular.comment.csv",30
+"ATL197409080",44,"Debut game for Butch Metzger","1974ATL.EVN.regular.comment.csv",31
+"ATL197409090",6,"$Marty Perez called for interference","1974ATL.EVN.regular.comment.csv",32

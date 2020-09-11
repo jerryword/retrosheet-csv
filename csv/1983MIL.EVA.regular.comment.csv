@@ -1,22 +1,23 @@
-"MIL198305110",20,"fan interference","FILENAME_TX","LINE_NUMBER_CT"
-"MIL198306050",64,"$Simmons left 3rd base too soon, out on appeal","1983MIL.EVA.regular.comment.csv",2
-"MIL198306120",27,"$off the LF pole","1983MIL.EVA.regular.comment.csv",3
-"MIL198306240",13,"SB may be with Vukovich at bat","1983MIL.EVA.regular.comment.csv",4
-"MIL198306240",59,"$Don Sutton's 3000th career strikeout","1983MIL.EVA.regular.comment.csv",5
-"MIL198306250",61,"$Rick Manning called for interference on steal attempt","1983MIL.EVA.regular.comment.csv",6
-"MIL198306300",58,"ej,garcd801,C,pales901,Throwing ball to pitcher $Brewers coach Garcia ejected by HP umpire Palermo when umpire would not give ball to Garcia to throw to the pitcher","1983MIL.EVA.regular.comment.csv",7
-"MIL198307160",67,"$Kent Hrbek called for interference running the 1B line","1983MIL.EVA.regular.comment.csv",8
-"MIL198307181",35,"$delay when the lights went out","1983MIL.EVA.regular.comment.csv",9
-"MIL198307182",68,"ej,raded103,M,brinj901,Balls and strikes Rangers manager Doug Rader ejected by HP umpire Joe Brinkman","1983MIL.EVA.regular.comment.csv",10
-"MIL198307210",0,"22-minute delay before start of game due to storm threat","1983MIL.EVA.regular.comment.csv",11
-"MIL198307210",25,"$Charlie Moore out on appeal for leaving the 3B early","1983MIL.EVA.regular.comment.csv",12
-"MIL198307210",35,"ej,kuenh101,M,barnl901,Dropped foul fly call $1B umpire Larry Barnett ruled Charlie Moore dropped the fly ball in foul territory Brewers manager Harvey Kuenn ejected by Barnett","1983MIL.EVA.regular.comment.csv",13
-"MIL198307220",47,"Floyd Bannister left game with sore shoulder","1983MIL.EVA.regular.comment.csv",14
-"MIL198307240",17,"ej,moned101,P,kaisk901,Bench jockeying Don Money ejected by HP umpire Ken Kaiser from the bench","1983MIL.EVA.regular.comment.csv",15
-"MIL198308160",19,"Wade Boggs left with pulled hamstring","1983MIL.EVA.regular.comment.csv",16
-"MIL198308210",51,"21 minute rain delay","1983MIL.EVA.regular.comment.csv",17
-"MIL198309060",28,"$Paul Molitor called for interference","1983MIL.EVA.regular.comment.csv",18
-"MIL198309070",43,"Debut game for Jaime Cocanower","1983MIL.EVA.regular.comment.csv",19
-"MIL198309080",21,"DWS: fielding credit invented","1983MIL.EVA.regular.comment.csv",20
-"MIL198309250",22,"ej,moorc001,P,koscg901,Balls and strikes Charlie Moore ejected by HP umpire Greg Kosc","1983MIL.EVA.regular.comment.csv",21
-"MIL198309290",79,"ej,kuenh101,M,neudj901,Hit by pitch $Brewers manager Kuenn ejected by HP umpire Neudecker for arguing that Castillo was not hit by pitch","1983MIL.EVA.regular.comment.csv",22
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"MIL198305110",20,"fan interference","1983MIL.EVA.regular.comment.csv",2
+"MIL198306050",64,"$Simmons left 3rd base too soon, out on appeal","1983MIL.EVA.regular.comment.csv",3
+"MIL198306120",27,"$off the LF pole","1983MIL.EVA.regular.comment.csv",4
+"MIL198306240",13,"SB may be with Vukovich at bat","1983MIL.EVA.regular.comment.csv",5
+"MIL198306240",59,"$Don Sutton's 3000th career strikeout","1983MIL.EVA.regular.comment.csv",6
+"MIL198306250",61,"$Rick Manning called for interference on steal attempt","1983MIL.EVA.regular.comment.csv",7
+"MIL198306300",58,"ej,garcd801,C,pales901,Throwing ball to pitcher $Brewers coach Garcia ejected by HP umpire Palermo when umpire would not give ball to Garcia to throw to the pitcher","1983MIL.EVA.regular.comment.csv",8
+"MIL198307160",67,"$Kent Hrbek called for interference running the 1B line","1983MIL.EVA.regular.comment.csv",9
+"MIL198307181",35,"$delay when the lights went out","1983MIL.EVA.regular.comment.csv",10
+"MIL198307182",68,"ej,raded103,M,brinj901,Balls and strikes Rangers manager Doug Rader ejected by HP umpire Joe Brinkman","1983MIL.EVA.regular.comment.csv",11
+"MIL198307210",0,"22-minute delay before start of game due to storm threat","1983MIL.EVA.regular.comment.csv",12
+"MIL198307210",25,"$Charlie Moore out on appeal for leaving the 3B early","1983MIL.EVA.regular.comment.csv",13
+"MIL198307210",35,"ej,kuenh101,M,barnl901,Dropped foul fly call $1B umpire Larry Barnett ruled Charlie Moore dropped the fly ball in foul territory Brewers manager Harvey Kuenn ejected by Barnett","1983MIL.EVA.regular.comment.csv",14
+"MIL198307220",47,"Floyd Bannister left game with sore shoulder","1983MIL.EVA.regular.comment.csv",15
+"MIL198307240",17,"ej,moned101,P,kaisk901,Bench jockeying Don Money ejected by HP umpire Ken Kaiser from the bench","1983MIL.EVA.regular.comment.csv",16
+"MIL198308160",19,"Wade Boggs left with pulled hamstring","1983MIL.EVA.regular.comment.csv",17
+"MIL198308210",51,"21 minute rain delay","1983MIL.EVA.regular.comment.csv",18
+"MIL198309060",28,"$Paul Molitor called for interference","1983MIL.EVA.regular.comment.csv",19
+"MIL198309070",43,"Debut game for Jaime Cocanower","1983MIL.EVA.regular.comment.csv",20
+"MIL198309080",21,"DWS: fielding credit invented","1983MIL.EVA.regular.comment.csv",21
+"MIL198309250",22,"ej,moorc001,P,koscg901,Balls and strikes Charlie Moore ejected by HP umpire Greg Kosc","1983MIL.EVA.regular.comment.csv",22
+"MIL198309290",79,"ej,kuenh101,M,neudj901,Hit by pitch $Brewers manager Kuenn ejected by HP umpire Neudecker for arguing that Castillo was not hit by pitch","1983MIL.EVA.regular.comment.csv",23

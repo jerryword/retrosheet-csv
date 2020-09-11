@@ -1,25 +1,26 @@
-"CLE197304222",55,"Rogelio Moret hurt when tagging 1B","FILENAME_TX","LINE_NUMBER_CT"
-"CLE197305080",0,"1:25 rain delay before start of game","1973CLE.EVA.regular.comment.csv",2
-"CLE197305180",60,"Earl Williams suffered slight strain of left ankle coming into 2B","1973CLE.EVA.regular.comment.csv",3
-"CLE197305190",74,"$pickoff throw by Thurman Munson hit batter George Hendrick and bounced away","1973CLE.EVA.regular.comment.csv",4
-"CLE197306061",46,"umpchange,6,ump2b,(None) $2B umpire Dave Phillips left with unknown illness sometime in game","1973CLE.EVA.regular.comment.csv",5
-"CLE197306062",0,"$Umpire Dave Phillips was ill and did not work game","1973CLE.EVA.regular.comment.csv",6
-"CLE197306080",19,"ej,lutzj101,C,kunkb101,Insulting Dick Allen from bench $Indians coach Joe Lutz and Dick Allen started a name-calling incident; both benches cleared; Lutz ejected by HP umpire Bill Kunkel","1973CLE.EVA.regular.comment.csv",7
-"CLE197306130",56,"ej,herzw101,M,nappl901,Balls and strikes $Rangers manager Herzog ejected by HP umpire Napp for arguing balls and strikes from the dugout","1973CLE.EVA.regular.comment.csv",8
-"CLE197306160",1,"41 minute rain delay","1973CLE.EVA.regular.comment.csv",9
-"CLE197306190",48,"43 minute rain delay during 6th inning","1973CLE.EVA.regular.comment.csv",10
-"CLE197306250",10,"Buddy Bell hurt back","1973CLE.EVA.regular.comment.csv",11
-"CLE197306250",62,"ej,howsd101,C,dimul901,Arguing G. Perry throwing spitter $Yankees manager Ralph Houk asked HP umpire Lou DiMuro to check Gaylord Perry for a foreign substance that the Yankees claimed Perry was putting on the ball; nothing was found; Yankees Coach Dick Howser ejected by DiMuro","1973CLE.EVA.regular.comment.csv",12
-"CLE197306260",68,"Graig Nettles hit on left leg by foul ball","1973CLE.EVA.regular.comment.csv",13
-"CLE197306260",82,"Rain begins","1973CLE.EVA.regular.comment.csv",14
-"CLE197307030",68,"Debut game for Alan Ashby","1973CLE.EVA.regular.comment.csv",15
-"CLE197307310",0,"$Umpire Lou DiMuro missed game due to virus","1973CLE.EVA.regular.comment.csv",16
-"CLE197308180",35,"Debut game for Danny Fife","1973CLE.EVA.regular.comment.csv",17
-"CLE197308192",3,"ej,bellb001,P,anthm901,Call at 3B $Rod Carew appeared to slide into Buddy Bell's glove but was called safe by 3B umpire Merle Anthony; Bell charged Anthony and was ejected","1973CLE.EVA.regular.comment.csv",18
-"CLE197308280",13,"Lou Piniella injured right ankle sliding into 2B","1973CLE.EVA.regular.comment.csv",19
-"CLE197308290",39,"Fran Healy hit on left wrist by foul ball from Walt Williams","1973CLE.EVA.regular.comment.csv",20
-"CLE197309060",73,"Debut game for Tommy Smith","1973CLE.EVA.regular.comment.csv",21
-"CLE197309091",63,"Debut game for Doug DeCinces","1973CLE.EVA.regular.comment.csv",22
-"CLE197309092",49,"Elrod Hendricks suffered dislocated left ankle sliding home; out for season","1973CLE.EVA.regular.comment.csv",23
-"CLE197309220",16,"14 minute rain delay","1973CLE.EVA.regular.comment.csv",24
-"CLE197309220",31,"23 minute rain delay","1973CLE.EVA.regular.comment.csv",25
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"CLE197304222",55,"Rogelio Moret hurt when tagging 1B","1973CLE.EVA.regular.comment.csv",2
+"CLE197305080",0,"1:25 rain delay before start of game","1973CLE.EVA.regular.comment.csv",3
+"CLE197305180",60,"Earl Williams suffered slight strain of left ankle coming into 2B","1973CLE.EVA.regular.comment.csv",4
+"CLE197305190",74,"$pickoff throw by Thurman Munson hit batter George Hendrick and bounced away","1973CLE.EVA.regular.comment.csv",5
+"CLE197306061",46,"umpchange,6,ump2b,(None) $2B umpire Dave Phillips left with unknown illness sometime in game","1973CLE.EVA.regular.comment.csv",6
+"CLE197306062",0,"$Umpire Dave Phillips was ill and did not work game","1973CLE.EVA.regular.comment.csv",7
+"CLE197306080",19,"ej,lutzj101,C,kunkb101,Insulting Dick Allen from bench $Indians coach Joe Lutz and Dick Allen started a name-calling incident; both benches cleared; Lutz ejected by HP umpire Bill Kunkel","1973CLE.EVA.regular.comment.csv",8
+"CLE197306130",56,"ej,herzw101,M,nappl901,Balls and strikes $Rangers manager Herzog ejected by HP umpire Napp for arguing balls and strikes from the dugout","1973CLE.EVA.regular.comment.csv",9
+"CLE197306160",1,"41 minute rain delay","1973CLE.EVA.regular.comment.csv",10
+"CLE197306190",48,"43 minute rain delay during 6th inning","1973CLE.EVA.regular.comment.csv",11
+"CLE197306250",10,"Buddy Bell hurt back","1973CLE.EVA.regular.comment.csv",12
+"CLE197306250",62,"ej,howsd101,C,dimul901,Arguing G. Perry throwing spitter $Yankees manager Ralph Houk asked HP umpire Lou DiMuro to check Gaylord Perry for a foreign substance that the Yankees claimed Perry was putting on the ball; nothing was found; Yankees Coach Dick Howser ejected by DiMuro","1973CLE.EVA.regular.comment.csv",13
+"CLE197306260",68,"Graig Nettles hit on left leg by foul ball","1973CLE.EVA.regular.comment.csv",14
+"CLE197306260",82,"Rain begins","1973CLE.EVA.regular.comment.csv",15
+"CLE197307030",68,"Debut game for Alan Ashby","1973CLE.EVA.regular.comment.csv",16
+"CLE197307310",0,"$Umpire Lou DiMuro missed game due to virus","1973CLE.EVA.regular.comment.csv",17
+"CLE197308180",35,"Debut game for Danny Fife","1973CLE.EVA.regular.comment.csv",18
+"CLE197308192",3,"ej,bellb001,P,anthm901,Call at 3B $Rod Carew appeared to slide into Buddy Bell's glove but was called safe by 3B umpire Merle Anthony; Bell charged Anthony and was ejected","1973CLE.EVA.regular.comment.csv",19
+"CLE197308280",13,"Lou Piniella injured right ankle sliding into 2B","1973CLE.EVA.regular.comment.csv",20
+"CLE197308290",39,"Fran Healy hit on left wrist by foul ball from Walt Williams","1973CLE.EVA.regular.comment.csv",21
+"CLE197309060",73,"Debut game for Tommy Smith","1973CLE.EVA.regular.comment.csv",22
+"CLE197309091",63,"Debut game for Doug DeCinces","1973CLE.EVA.regular.comment.csv",23
+"CLE197309092",49,"Elrod Hendricks suffered dislocated left ankle sliding home; out for season","1973CLE.EVA.regular.comment.csv",24
+"CLE197309220",16,"14 minute rain delay","1973CLE.EVA.regular.comment.csv",25
+"CLE197309220",31,"23 minute rain delay","1973CLE.EVA.regular.comment.csv",26

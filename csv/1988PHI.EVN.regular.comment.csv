@@ -1,34 +1,35 @@
-"PHI198804080",65,"$Lenny Dykstra dropped fly ball","FILENAME_TX","LINE_NUMBER_CT"
-"PHI198804080",70,"$Gary Carter is out on a hidden ball trick by Steve Jeltz","1988PHI.EVN.regular.comment.csv",2
-"PHI198804100",71,"$Roger McDowell missed bunt; Gary Carter and Howard Johnson both on 3B","1988PHI.EVN.regular.comment.csv",3
-"PHI198804230",57,"Debut game for Keith Miller Game called due to rain","1988PHI.EVN.regular.comment.csv",4
-"PHI198805010",53,"Debut game for Danny Clay","1988PHI.EVN.regular.comment.csv",5
-"PHI198805110",56,"Rain begins","1988PHI.EVN.regular.comment.csv",6
-"PHI198805110",61,"42 minute rain delay","1988PHI.EVN.regular.comment.csv",7
-"PHI198805240",51,"ej,lasot101,M,marsr901,Interference non-call $Dodgers manager Lasorda ejected by HP umpire Marsh for arguing that Thompson ran inside baseline and interfered with throw to 1st","1988PHI.EVN.regular.comment.csv",8
-"PHI198805280",71,"$Jeffrey Leonard overslid bag","1988PHI.EVN.regular.comment.csv",9
-"PHI198805310",29,"ej,elial101,M,bonig901,Call at 2B Phillies manager Lee Elia ejected by 2B umpire Greg Bonin arguing the caught stealing","1988PHI.EVN.regular.comment.csv",10
-"PHI198805310",79,"$ball off Randy Ready's glove","1988PHI.EVN.regular.comment.csv",11
-"PHI198806010",32,"49 minute rain delay","1988PHI.EVN.regular.comment.csv",12
-"PHI198806010",73,"46 minute rain delay","1988PHI.EVN.regular.comment.csv",13
-"PHI198806020",119,"Debut game for unknown Costello","1988PHI.EVN.regular.comment.csv",14
-"PHI198806050",3,"$Ozzie Smith rounded the bag too far","1988PHI.EVN.regular.comment.csv",15
-"PHI198806141",30,"Debut game for Brad Moore","1988PHI.EVN.regular.comment.csv",16
-"PHI198807020",53,"Debut game for Tommy Barrett","1988PHI.EVN.regular.comment.csv",17
-"PHI198807140",66,"Debut game for John Fishel","1988PHI.EVN.regular.comment.csv",18
-"PHI198807170",15,"Debut game for Ricky Jordan","1988PHI.EVN.regular.comment.csv",19
-"PHI198807182",42,"$Mike Schmidt called for interference","1988PHI.EVN.regular.comment.csv",20
-"PHI198807290",61,"$fake pickoff to 3B and throw to 1B","1988PHI.EVN.regular.comment.csv",21
-"PHI198808090",76,"ej,elial101,M,davib902,Check swing ej,taylt101,C,davib902,Check swing $Phillies manager and coach Taylor ejected by 1B umpire Davidson for arguing check swing strike 3 on Jordan","1988PHI.EVN.regular.comment.csv",22
-"PHI198808121",20,"ej,leylj801,M,bonig901,Balls and strikes Pirates manager Jim Leyland ejected by HP umpire Greg Bonin","1988PHI.EVN.regular.comment.csv",23
-"PHI198808122",0,"Protest=H","1988PHI.EVN.regular.comment.csv",24
-"PHI198808122",46,"$fan interference; Andy Van Slyke allowed to score and game protested","1988PHI.EVN.regular.comment.csv",25
-"PHI198808122",56,"$Mike Schmidt left game with bruised shoulder","1988PHI.EVN.regular.comment.csv",26
-"PHI198808260",13,"Debut game for Ron Jones","1988PHI.EVN.regular.comment.csv",27
-"PHI198808270",60,"ej,stubf001,P,kiblj901,Called third strike Franklin Stubbs ejected by HP umpire John Kibler","1988PHI.EVN.regular.comment.csv",28
-"PHI198808300",4,"$Will Clark called out on appeal for leaving 1B early","1988PHI.EVN.regular.comment.csv",29
-"PHI198809020",63,"ej,jelts001,P,darlg901,Arguing ball 4 call $Jeltz (no longer in game) ejected by HP umpire Darling for arguing ball 4 from bench","1988PHI.EVN.regular.comment.csv",30
-"PHI198809140",68,"$Denny Walling injured sliding into 2B","1988PHI.EVN.regular.comment.csv",31
-"PHI198809150",9,"$Jim Lindeman was injured on play","1988PHI.EVN.regular.comment.csv",32
-"PHI198809170",68,"ej,parrl001,P,engeb901,Balls and strikes (while catching) catcher Lance Parrish ejected by HP umpire Bob Engel after 2-2 pitch to Barry Bonds was called a ball","1988PHI.EVN.regular.comment.csv",33
-"PHI198809240",39,"1:30 rain delay and then the game was called","1988PHI.EVN.regular.comment.csv",34
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"PHI198804080",65,"$Lenny Dykstra dropped fly ball","1988PHI.EVN.regular.comment.csv",2
+"PHI198804080",70,"$Gary Carter is out on a hidden ball trick by Steve Jeltz","1988PHI.EVN.regular.comment.csv",3
+"PHI198804100",71,"$Roger McDowell missed bunt; Gary Carter and Howard Johnson both on 3B","1988PHI.EVN.regular.comment.csv",4
+"PHI198804230",57,"Debut game for Keith Miller Game called due to rain","1988PHI.EVN.regular.comment.csv",5
+"PHI198805010",53,"Debut game for Danny Clay","1988PHI.EVN.regular.comment.csv",6
+"PHI198805110",56,"Rain begins","1988PHI.EVN.regular.comment.csv",7
+"PHI198805110",61,"42 minute rain delay","1988PHI.EVN.regular.comment.csv",8
+"PHI198805240",51,"ej,lasot101,M,marsr901,Interference non-call $Dodgers manager Lasorda ejected by HP umpire Marsh for arguing that Thompson ran inside baseline and interfered with throw to 1st","1988PHI.EVN.regular.comment.csv",9
+"PHI198805280",71,"$Jeffrey Leonard overslid bag","1988PHI.EVN.regular.comment.csv",10
+"PHI198805310",29,"ej,elial101,M,bonig901,Call at 2B Phillies manager Lee Elia ejected by 2B umpire Greg Bonin arguing the caught stealing","1988PHI.EVN.regular.comment.csv",11
+"PHI198805310",79,"$ball off Randy Ready's glove","1988PHI.EVN.regular.comment.csv",12
+"PHI198806010",32,"49 minute rain delay","1988PHI.EVN.regular.comment.csv",13
+"PHI198806010",73,"46 minute rain delay","1988PHI.EVN.regular.comment.csv",14
+"PHI198806020",119,"Debut game for unknown Costello","1988PHI.EVN.regular.comment.csv",15
+"PHI198806050",3,"$Ozzie Smith rounded the bag too far","1988PHI.EVN.regular.comment.csv",16
+"PHI198806141",30,"Debut game for Brad Moore","1988PHI.EVN.regular.comment.csv",17
+"PHI198807020",53,"Debut game for Tommy Barrett","1988PHI.EVN.regular.comment.csv",18
+"PHI198807140",66,"Debut game for John Fishel","1988PHI.EVN.regular.comment.csv",19
+"PHI198807170",15,"Debut game for Ricky Jordan","1988PHI.EVN.regular.comment.csv",20
+"PHI198807182",42,"$Mike Schmidt called for interference","1988PHI.EVN.regular.comment.csv",21
+"PHI198807290",61,"$fake pickoff to 3B and throw to 1B","1988PHI.EVN.regular.comment.csv",22
+"PHI198808090",76,"ej,elial101,M,davib902,Check swing ej,taylt101,C,davib902,Check swing $Phillies manager and coach Taylor ejected by 1B umpire Davidson for arguing check swing strike 3 on Jordan","1988PHI.EVN.regular.comment.csv",23
+"PHI198808121",20,"ej,leylj801,M,bonig901,Balls and strikes Pirates manager Jim Leyland ejected by HP umpire Greg Bonin","1988PHI.EVN.regular.comment.csv",24
+"PHI198808122",0,"Protest=H","1988PHI.EVN.regular.comment.csv",25
+"PHI198808122",46,"$fan interference; Andy Van Slyke allowed to score and game protested","1988PHI.EVN.regular.comment.csv",26
+"PHI198808122",56,"$Mike Schmidt left game with bruised shoulder","1988PHI.EVN.regular.comment.csv",27
+"PHI198808260",13,"Debut game for Ron Jones","1988PHI.EVN.regular.comment.csv",28
+"PHI198808270",60,"ej,stubf001,P,kiblj901,Called third strike Franklin Stubbs ejected by HP umpire John Kibler","1988PHI.EVN.regular.comment.csv",29
+"PHI198808300",4,"$Will Clark called out on appeal for leaving 1B early","1988PHI.EVN.regular.comment.csv",30
+"PHI198809020",63,"ej,jelts001,P,darlg901,Arguing ball 4 call $Jeltz (no longer in game) ejected by HP umpire Darling for arguing ball 4 from bench","1988PHI.EVN.regular.comment.csv",31
+"PHI198809140",68,"$Denny Walling injured sliding into 2B","1988PHI.EVN.regular.comment.csv",32
+"PHI198809150",9,"$Jim Lindeman was injured on play","1988PHI.EVN.regular.comment.csv",33
+"PHI198809170",68,"ej,parrl001,P,engeb901,Balls and strikes (while catching) catcher Lance Parrish ejected by HP umpire Bob Engel after 2-2 pitch to Barry Bonds was called a ball","1988PHI.EVN.regular.comment.csv",34
+"PHI198809240",39,"1:30 rain delay and then the game was called","1988PHI.EVN.regular.comment.csv",35

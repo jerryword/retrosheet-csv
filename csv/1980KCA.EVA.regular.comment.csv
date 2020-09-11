@@ -1,41 +1,42 @@
-"KCA198004110",19,"Debut game for Bob Detherage","FILENAME_TX","LINE_NUMBER_CT"
-"KCA198004120",36,"umpchange,4,umphome,phild901 umpchange,4,ump2b,(None) $HP umpire Al Clark left with a nose bleed; 2B umpire Dave Phillips moved to HP","1980KCA.EVA.regular.comment.csv",2
-"KCA198004250",28,"$George Brett left with bruised right heel suffered sliding into 2B in the second inning","1980KCA.EVA.regular.comment.csv",3
-"KCA198005170",0,"$Umpire Bill Haller missed game for unknown reason","1980KCA.EVA.regular.comment.csv",4
-"KCA198005180",16,"ej,connb101,C,hallb901,Balls and strikes from bench Royals Coach Bill Connors ejected by HP umpire Bill Haller sometime in second","1980KCA.EVA.regular.comment.csv",5
-"KCA198005210",0,"Protest=V $Oakland played the game under protest","1980KCA.EVA.regular.comment.csv",6
-"KCA198005210",85,"$John Wathan called for interference with catcher","1980KCA.EVA.regular.comment.csv",7
-"KCA198005220",44,"Debut game for Ernie Camacho","1980KCA.EVA.regular.comment.csv",8
-"KCA198005310",0,"1:02 rain delay before start of game","1980KCA.EVA.regular.comment.csv",9
-"KCA198005310",73,"Squeeze play","1980KCA.EVA.regular.comment.csv",10
-"KCA198006020",0,"1:13 rain delay before start of game","1980KCA.EVA.regular.comment.csv",11
-"KCA198006020",3,"Dennis Werth hurt on play at 2B","1980KCA.EVA.regular.comment.csv",12
-"KCA198006040",15,"Squeeze","1980KCA.EVA.regular.comment.csv",13
-"KCA198006040",45,"Ball tipped by Ed Figueroa to Willie Randolph","1980KCA.EVA.regular.comment.csv",14
-"KCA198006180",16,"ej,harrt001,P,kaisk901,Balls and strikes $Indians Harrah ejected by HP umpire Kaiser at end of inning for arguing balls and strikes on Rick Manning","1980KCA.EVA.regular.comment.csv",15
-"KCA198006180",68,"$a pitch sailed over Joe Charboneau's head; he and John Wathan argued, the benches cleared but no blows thrown","1980KCA.EVA.regular.comment.csv",16
-"KCA198006300",60,"ej,freyj801,M,phild901,Fair/foul call Royals Manager Jim Frey ejected by 1B umpire Dave Phillips","1980KCA.EVA.regular.comment.csv",17
-"KCA198006300",63,"ej,sofir101,P,clara901,Call at 3B Rick Sofield ejected by 3B umpire Al Clark","1980KCA.EVA.regular.comment.csv",18
-"KCA198007020",60,"$Rawly Eastwick threw the ball over Pete LaCock's head","1980KCA.EVA.regular.comment.csv",19
-"KCA198007030",67,"missed squeeze play","1980KCA.EVA.regular.comment.csv",20
-"KCA198007050",44,"Debut game for Jeff Twitty","1980KCA.EVA.regular.comment.csv",21
-"KCA198007210",33,"ej,portd001,P,shulj901,Balls and strikes Darrell Porter ejected by HP umpire John Shulock","1980KCA.EVA.regular.comment.csv",22
-"KCA198007290",39,"$Tony Perez left because of dizzyness","1980KCA.EVA.regular.comment.csv",23
-"KCA198007290",52,"$Glenn Hoffman missed squeeze attempt","1980KCA.EVA.regular.comment.csv",24
-"KCA198007300",75,"$Yaz made two outs in 9th","1980KCA.EVA.regular.comment.csv",25
-"KCA198007310",53,"$Fred Lynn and Dwight Evans colide; scored E8 then IPHR after game","1980KCA.EVA.regular.comment.csv",26
-"KCA198008110",19,"DWS: fielding credit invented","1980KCA.EVA.regular.comment.csv",27
-"KCA198008150",60,"1:12 rain delay at 9:49","1980KCA.EVA.regular.comment.csv",28
-"KCA198008170",18,"ej,wilsw001,P,reilm901,Called third strike Willie Wilson ejected by HP umpire Mike Reilly","1980KCA.EVA.regular.comment.csv",29
-"KCA198008170",30,"$Dave Chalk left with injured right knee","1980KCA.EVA.regular.comment.csv",30
-"KCA198008170",34,"Squeeze play","1980KCA.EVA.regular.comment.csv",31
-"KCA198008170",58,"ej,grifa001,P,malog901,Call at 2B Alfredo Griffin ejected by 2B umpire George Maloney","1980KCA.EVA.regular.comment.csv",32
-"KCA198008290",48,"$Buddy Bell left with pulled right hamstring","1980KCA.EVA.regular.comment.csv",33
-"KCA198008300",11,"Debut game for Mike Richardt","1980KCA.EVA.regular.comment.csv",34
-"KCA198008300",48,"$Richie Zisk overran 3B","1980KCA.EVA.regular.comment.csv",35
-"KCA198008300",88,"Debut game for Onix Concepcion","1980KCA.EVA.regular.comment.csv",36
-"KCA198008310",15,"$John Wathan beaned","1980KCA.EVA.regular.comment.csv",37
-"KCA198009010",84,"Debut game for Manny Castillo","1980KCA.EVA.regular.comment.csv",38
-"KCA198009172",40,"$John Wathan out on appeal for leaving 2B too soon","1980KCA.EVA.regular.comment.csv",39
-"KCA198009200",60,"Debut game for Ken Phelps","1980KCA.EVA.regular.comment.csv",40
-"KCA198009300",26,"ej,honer001,P,kunkb101,Throwing doctored ball ej,willm102,M,kunkb101,Throwing doctored ball $Rick Honeycutt examined by HP umpire Bill Kunkel, who found a tack taped to Honeycutt's index finger on his glove hand; there was sandpaper glued to the tack; Honeycutt and Mariners Manager Maury Wills ejected by Kunkel","1980KCA.EVA.regular.comment.csv",41
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"KCA198004110",19,"Debut game for Bob Detherage","1980KCA.EVA.regular.comment.csv",2
+"KCA198004120",36,"umpchange,4,umphome,phild901 umpchange,4,ump2b,(None) $HP umpire Al Clark left with a nose bleed; 2B umpire Dave Phillips moved to HP","1980KCA.EVA.regular.comment.csv",3
+"KCA198004250",28,"$George Brett left with bruised right heel suffered sliding into 2B in the second inning","1980KCA.EVA.regular.comment.csv",4
+"KCA198005170",0,"$Umpire Bill Haller missed game for unknown reason","1980KCA.EVA.regular.comment.csv",5
+"KCA198005180",16,"ej,connb101,C,hallb901,Balls and strikes from bench Royals Coach Bill Connors ejected by HP umpire Bill Haller sometime in second","1980KCA.EVA.regular.comment.csv",6
+"KCA198005210",0,"Protest=V $Oakland played the game under protest","1980KCA.EVA.regular.comment.csv",7
+"KCA198005210",85,"$John Wathan called for interference with catcher","1980KCA.EVA.regular.comment.csv",8
+"KCA198005220",44,"Debut game for Ernie Camacho","1980KCA.EVA.regular.comment.csv",9
+"KCA198005310",0,"1:02 rain delay before start of game","1980KCA.EVA.regular.comment.csv",10
+"KCA198005310",73,"Squeeze play","1980KCA.EVA.regular.comment.csv",11
+"KCA198006020",0,"1:13 rain delay before start of game","1980KCA.EVA.regular.comment.csv",12
+"KCA198006020",3,"Dennis Werth hurt on play at 2B","1980KCA.EVA.regular.comment.csv",13
+"KCA198006040",15,"Squeeze","1980KCA.EVA.regular.comment.csv",14
+"KCA198006040",45,"Ball tipped by Ed Figueroa to Willie Randolph","1980KCA.EVA.regular.comment.csv",15
+"KCA198006180",16,"ej,harrt001,P,kaisk901,Balls and strikes $Indians Harrah ejected by HP umpire Kaiser at end of inning for arguing balls and strikes on Rick Manning","1980KCA.EVA.regular.comment.csv",16
+"KCA198006180",68,"$a pitch sailed over Joe Charboneau's head; he and John Wathan argued, the benches cleared but no blows thrown","1980KCA.EVA.regular.comment.csv",17
+"KCA198006300",60,"ej,freyj801,M,phild901,Fair/foul call Royals Manager Jim Frey ejected by 1B umpire Dave Phillips","1980KCA.EVA.regular.comment.csv",18
+"KCA198006300",63,"ej,sofir101,P,clara901,Call at 3B Rick Sofield ejected by 3B umpire Al Clark","1980KCA.EVA.regular.comment.csv",19
+"KCA198007020",60,"$Rawly Eastwick threw the ball over Pete LaCock's head","1980KCA.EVA.regular.comment.csv",20
+"KCA198007030",67,"missed squeeze play","1980KCA.EVA.regular.comment.csv",21
+"KCA198007050",44,"Debut game for Jeff Twitty","1980KCA.EVA.regular.comment.csv",22
+"KCA198007210",33,"ej,portd001,P,shulj901,Balls and strikes Darrell Porter ejected by HP umpire John Shulock","1980KCA.EVA.regular.comment.csv",23
+"KCA198007290",39,"$Tony Perez left because of dizzyness","1980KCA.EVA.regular.comment.csv",24
+"KCA198007290",52,"$Glenn Hoffman missed squeeze attempt","1980KCA.EVA.regular.comment.csv",25
+"KCA198007300",75,"$Yaz made two outs in 9th","1980KCA.EVA.regular.comment.csv",26
+"KCA198007310",53,"$Fred Lynn and Dwight Evans colide; scored E8 then IPHR after game","1980KCA.EVA.regular.comment.csv",27
+"KCA198008110",19,"DWS: fielding credit invented","1980KCA.EVA.regular.comment.csv",28
+"KCA198008150",60,"1:12 rain delay at 9:49","1980KCA.EVA.regular.comment.csv",29
+"KCA198008170",18,"ej,wilsw001,P,reilm901,Called third strike Willie Wilson ejected by HP umpire Mike Reilly","1980KCA.EVA.regular.comment.csv",30
+"KCA198008170",30,"$Dave Chalk left with injured right knee","1980KCA.EVA.regular.comment.csv",31
+"KCA198008170",34,"Squeeze play","1980KCA.EVA.regular.comment.csv",32
+"KCA198008170",58,"ej,grifa001,P,malog901,Call at 2B Alfredo Griffin ejected by 2B umpire George Maloney","1980KCA.EVA.regular.comment.csv",33
+"KCA198008290",48,"$Buddy Bell left with pulled right hamstring","1980KCA.EVA.regular.comment.csv",34
+"KCA198008300",11,"Debut game for Mike Richardt","1980KCA.EVA.regular.comment.csv",35
+"KCA198008300",48,"$Richie Zisk overran 3B","1980KCA.EVA.regular.comment.csv",36
+"KCA198008300",88,"Debut game for Onix Concepcion","1980KCA.EVA.regular.comment.csv",37
+"KCA198008310",15,"$John Wathan beaned","1980KCA.EVA.regular.comment.csv",38
+"KCA198009010",84,"Debut game for Manny Castillo","1980KCA.EVA.regular.comment.csv",39
+"KCA198009172",40,"$John Wathan out on appeal for leaving 2B too soon","1980KCA.EVA.regular.comment.csv",40
+"KCA198009200",60,"Debut game for Ken Phelps","1980KCA.EVA.regular.comment.csv",41
+"KCA198009300",26,"ej,honer001,P,kunkb101,Throwing doctored ball ej,willm102,M,kunkb101,Throwing doctored ball $Rick Honeycutt examined by HP umpire Bill Kunkel, who found a tack taped to Honeycutt's index finger on his glove hand; there was sandpaper glued to the tack; Honeycutt and Mariners Manager Maury Wills ejected by Kunkel","1980KCA.EVA.regular.comment.csv",42

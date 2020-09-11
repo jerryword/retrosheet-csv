@@ -1,37 +1,38 @@
-"SLN196204110",0,"$First game for NY Mets franchise","FILENAME_TX","LINE_NUMBER_CT"
-"SLN196204110",37,"Debut game for Bob Moorhead","1962SLN.EVN.regular.comment.csv",2
-"SLN196204221",0,"$23 minute rain delay before start of game","1962SLN.EVN.regular.comment.csv",3
-"SLN196204221",12,"10 minute rain delay","1962SLN.EVN.regular.comment.csv",4
-"SLN196204221",59,"Debut game for Paul Toth","1962SLN.EVN.regular.comment.csv",5
-"SLN196204221",76,"44 minute rain delay","1962SLN.EVN.regular.comment.csv",6
-"SLN196204222",30,"44 minute rain delay","1962SLN.EVN.regular.comment.csv",7
-"SLN196204270",33,"ej,hutcf101,M,barla901,Call at 2B $Reds manager Hutchinson ejected by 1B umpire Barlick for arguing ruling that 2bman Rojas did not keep his foot on base when receiving throw from pitcher; call was made by 2B umpire Crawford, but as Hutchinson was leaving field after arguing call, he made a comment that caused Barlick to eject him","1962SLN.EVN.regular.comment.csv",8
-"SLN196204280",5,"rain delay","1962SLN.EVN.regular.comment.csv",9
-"SLN196205020",18,"ej,walkh102,C,boggd901,HBP non-call Cardinals Coach Harry Walker ejected by HP umpire Dusty Boggess arguing that Julio Gotay has been hit by a pitch","1962SLN.EVN.regular.comment.csv",10
-"SLN196205080",41,"$Larry Jackson out on appeal for leaving 1B too soon, not a DP","1962SLN.EVN.regular.comment.csv",11
-"SLN196205100",74,"missing play in SLN196205100","1962SLN.EVN.regular.comment.csv",12
-"SLN196205110",51,"$Minnie Minoso crashed into the wall and left injured","1962SLN.EVN.regular.comment.csv",13
-"SLN196205120",32,"Ball got past third baseman, Oliver out trying to advance there should be no assist for the LF","1962SLN.EVN.regular.comment.csv",14
-"SLN196205120",116,"Pete Richert left with injured arm","1962SLN.EVN.regular.comment.csv",15
-"SLN196205270",63,"Debut game for Fred Whitfield","1962SLN.EVN.regular.comment.csv",16
-"SLN196206060",67,"$two runners thrown out at HP on the same play","1962SLN.EVN.regular.comment.csv",17
-"SLN196206101",78,"Debut game for Dal Maxvill","1962SLN.EVN.regular.comment.csv",18
-"SLN196206290",22,"$Julian Javier called for interference","1962SLN.EVN.regular.comment.csv",19
-"SLN196207020",18,"ej,whitb105,P,forma901,Call at HP Bill White ejected by HP umpire Al Forman","1962SLN.EVN.regular.comment.csv",20
-"SLN196207032",0,"Suspend=19620704,,5,5,48","1962SLN.EVN.regular.comment.csv",21
-"SLN196207032",78,"suspended,19620704,STL07,curfew $the game was suspended by curfew and resumed the next day","1962SLN.EVN.regular.comment.csv",22
-"SLN196207250",48,"$hit light tower","1962SLN.EVN.regular.comment.csv",23
-"SLN196207291",76,"ej,hemus101,C,steim901,Obstruction non-call $the Mets claimed that catcher Jimmie Schaffer tripped Joe Christopher during the rundown and should be called for obstruction; Mets Coach Solly Hemus ejected by HP umpire Mel Steiner","1962SLN.EVN.regular.comment.csv",24
-"SLN196207292",14,"$Gene Woodling left with injury","1962SLN.EVN.regular.comment.csv",25
-"SLN196208251",5,"Debut game for Bob Burda","1962SLN.EVN.regular.comment.csv",26
-"SLN196209010",91,"$Bob Moorhead broke hand punching dugout door after game","1962SLN.EVN.regular.comment.csv",27
-"SLN196209020",0,"Protest=H","1962SLN.EVN.regular.comment.csv",28
-"SLN196209020",24,"$the Cardinals protested the game due to a timeout call","1962SLN.EVN.regular.comment.csv",29
-"SLN196209040",53,"Debut game for Billy Ott","1962SLN.EVN.regular.comment.csv",30
-"SLN196209050",52,"ej,tebbb101,M,forma901,Checked swing Braves Manager Birdie Tebbetts ejected by HP umpire Al Forman","1962SLN.EVN.regular.comment.csv",31
-"SLN196209060",71,"Debut game for Ethan Blackaby","1962SLN.EVN.regular.comment.csv",32
-"SLN196209110",15,"Debut game for Mike Shannon","1962SLN.EVN.regular.comment.csv",33
-"SLN196209110",50,"ej,olivg101,P,harvd901,Balls and strikes Gene Oliver ejected by HP umpire Doug Harvey","1962SLN.EVN.regular.comment.csv",34
-"SLN196209210",0,"$Bob Gibson suffered a broken right fibula during batting practice; this was the first game for Sandy Koufax since he injured a finger in July","1962SLN.EVN.regular.comment.csv",35
-"SLN196209220",76,"$John Roseboro injured by foul ball","1962SLN.EVN.regular.comment.csv",36
-"SLN196209230",48,"ej,mullg101,C,secof101,Call at 1B Dodgers Coach Greg Mulleavy ejected by 1B umpire Frank Secory","1962SLN.EVN.regular.comment.csv",37
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"SLN196204110",0,"$First game for NY Mets franchise","1962SLN.EVN.regular.comment.csv",2
+"SLN196204110",37,"Debut game for Bob Moorhead","1962SLN.EVN.regular.comment.csv",3
+"SLN196204221",0,"$23 minute rain delay before start of game","1962SLN.EVN.regular.comment.csv",4
+"SLN196204221",12,"10 minute rain delay","1962SLN.EVN.regular.comment.csv",5
+"SLN196204221",59,"Debut game for Paul Toth","1962SLN.EVN.regular.comment.csv",6
+"SLN196204221",76,"44 minute rain delay","1962SLN.EVN.regular.comment.csv",7
+"SLN196204222",30,"44 minute rain delay","1962SLN.EVN.regular.comment.csv",8
+"SLN196204270",33,"ej,hutcf101,M,barla901,Call at 2B $Reds manager Hutchinson ejected by 1B umpire Barlick for arguing ruling that 2bman Rojas did not keep his foot on base when receiving throw from pitcher; call was made by 2B umpire Crawford, but as Hutchinson was leaving field after arguing call, he made a comment that caused Barlick to eject him","1962SLN.EVN.regular.comment.csv",9
+"SLN196204280",5,"rain delay","1962SLN.EVN.regular.comment.csv",10
+"SLN196205020",18,"ej,walkh102,C,boggd901,HBP non-call Cardinals Coach Harry Walker ejected by HP umpire Dusty Boggess arguing that Julio Gotay has been hit by a pitch","1962SLN.EVN.regular.comment.csv",11
+"SLN196205080",41,"$Larry Jackson out on appeal for leaving 1B too soon, not a DP","1962SLN.EVN.regular.comment.csv",12
+"SLN196205100",74,"missing play in SLN196205100","1962SLN.EVN.regular.comment.csv",13
+"SLN196205110",51,"$Minnie Minoso crashed into the wall and left injured","1962SLN.EVN.regular.comment.csv",14
+"SLN196205120",32,"Ball got past third baseman, Oliver out trying to advance there should be no assist for the LF","1962SLN.EVN.regular.comment.csv",15
+"SLN196205120",116,"Pete Richert left with injured arm","1962SLN.EVN.regular.comment.csv",16
+"SLN196205270",63,"Debut game for Fred Whitfield","1962SLN.EVN.regular.comment.csv",17
+"SLN196206060",67,"$two runners thrown out at HP on the same play","1962SLN.EVN.regular.comment.csv",18
+"SLN196206101",78,"Debut game for Dal Maxvill","1962SLN.EVN.regular.comment.csv",19
+"SLN196206290",22,"$Julian Javier called for interference","1962SLN.EVN.regular.comment.csv",20
+"SLN196207020",18,"ej,whitb105,P,forma901,Call at HP Bill White ejected by HP umpire Al Forman","1962SLN.EVN.regular.comment.csv",21
+"SLN196207032",0,"Suspend=19620704,,5,5,48","1962SLN.EVN.regular.comment.csv",22
+"SLN196207032",78,"suspended,19620704,STL07,curfew $the game was suspended by curfew and resumed the next day","1962SLN.EVN.regular.comment.csv",23
+"SLN196207250",48,"$hit light tower","1962SLN.EVN.regular.comment.csv",24
+"SLN196207291",76,"ej,hemus101,C,steim901,Obstruction non-call $the Mets claimed that catcher Jimmie Schaffer tripped Joe Christopher during the rundown and should be called for obstruction; Mets Coach Solly Hemus ejected by HP umpire Mel Steiner","1962SLN.EVN.regular.comment.csv",25
+"SLN196207292",14,"$Gene Woodling left with injury","1962SLN.EVN.regular.comment.csv",26
+"SLN196208251",5,"Debut game for Bob Burda","1962SLN.EVN.regular.comment.csv",27
+"SLN196209010",91,"$Bob Moorhead broke hand punching dugout door after game","1962SLN.EVN.regular.comment.csv",28
+"SLN196209020",0,"Protest=H","1962SLN.EVN.regular.comment.csv",29
+"SLN196209020",24,"$the Cardinals protested the game due to a timeout call","1962SLN.EVN.regular.comment.csv",30
+"SLN196209040",53,"Debut game for Billy Ott","1962SLN.EVN.regular.comment.csv",31
+"SLN196209050",52,"ej,tebbb101,M,forma901,Checked swing Braves Manager Birdie Tebbetts ejected by HP umpire Al Forman","1962SLN.EVN.regular.comment.csv",32
+"SLN196209060",71,"Debut game for Ethan Blackaby","1962SLN.EVN.regular.comment.csv",33
+"SLN196209110",15,"Debut game for Mike Shannon","1962SLN.EVN.regular.comment.csv",34
+"SLN196209110",50,"ej,olivg101,P,harvd901,Balls and strikes Gene Oliver ejected by HP umpire Doug Harvey","1962SLN.EVN.regular.comment.csv",35
+"SLN196209210",0,"$Bob Gibson suffered a broken right fibula during batting practice; this was the first game for Sandy Koufax since he injured a finger in July","1962SLN.EVN.regular.comment.csv",36
+"SLN196209220",76,"$John Roseboro injured by foul ball","1962SLN.EVN.regular.comment.csv",37
+"SLN196209230",48,"ej,mullg101,C,secof101,Call at 1B Dodgers Coach Greg Mulleavy ejected by 1B umpire Frank Secory","1962SLN.EVN.regular.comment.csv",38

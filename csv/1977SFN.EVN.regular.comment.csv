@@ -1,14 +1,15 @@
-"SFN197705050",51,"$Andre Dawson called for interference","FILENAME_TX","LINE_NUMBER_CT"
-"SFN197705082",0,"Protest=X","1977SFN.EVN.regular.comment.csv",2
-"SFN197705082",59,"$game halted by rain at this point; the Mets protested the game because the umpires did not wait at least 30 minutes after suspending play; NL President Chub Feeney upheld the protest and ordered that the game be resumed on July 26; on July 13, the Mets withdrew their protest after Feeney had ruled in their favor","1977SFN.EVN.regular.comment.csv",3
-"SFN197705250",1,"Debut game for Tom Hume","1977SFN.EVN.regular.comment.csv",4
-"SFN197706192",78,"ej,tolab101,P,quicj901,Balls and strikes Bobby Tolan ejected by HP umpire Jim Quick","1977SFN.EVN.regular.comment.csv",5
-"SFN197707010",59,"Steve Yeager left with unknown injury","1977SFN.EVN.regular.comment.csv",6
-"SFN197707020",51,"ej,madlb001,P,weyel901,Called third strike Bill Madlock ejected by HP umpire Lee Weyer","1977SFN.EVN.regular.comment.csv",7
-"SFN197707030",68,"ej,madlb001,P,willa901,Called third strike Bill Madlock ejected by HP umpire Art Williams","1977SFN.EVN.regular.comment.csv",8
-"SFN197707241",23,"$Tony Perez rounded 3B too far","1977SFN.EVN.regular.comment.csv",9
-"SFN197708260",64,"ej,madlb001,P,willb901,Called third strike $Madlock ejected by HP umpire Williams for arguing called third strike","1977SFN.EVN.regular.comment.csv",10
-"SFN197709030",29,"Bob Forsch left with unknown injury","1977SFN.EVN.regular.comment.csv",11
-"SFN197709120",64,"Debut game for Skip James","1977SFN.EVN.regular.comment.csv",12
-"SFN197709130",1,"Debut game for Mickey Mahler","1977SFN.EVN.regular.comment.csv",13
-"SFN197709170",70,"ej,plumb101,P,crawj901,Arguing check string strike 3 $Plummer ejected by 1B umpire Crawford who called half swing strike 3","1977SFN.EVN.regular.comment.csv",14
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"SFN197705050",51,"$Andre Dawson called for interference","1977SFN.EVN.regular.comment.csv",2
+"SFN197705082",0,"Protest=X","1977SFN.EVN.regular.comment.csv",3
+"SFN197705082",59,"$game halted by rain at this point; the Mets protested the game because the umpires did not wait at least 30 minutes after suspending play; NL President Chub Feeney upheld the protest and ordered that the game be resumed on July 26; on July 13, the Mets withdrew their protest after Feeney had ruled in their favor","1977SFN.EVN.regular.comment.csv",4
+"SFN197705250",1,"Debut game for Tom Hume","1977SFN.EVN.regular.comment.csv",5
+"SFN197706192",78,"ej,tolab101,P,quicj901,Balls and strikes Bobby Tolan ejected by HP umpire Jim Quick","1977SFN.EVN.regular.comment.csv",6
+"SFN197707010",59,"Steve Yeager left with unknown injury","1977SFN.EVN.regular.comment.csv",7
+"SFN197707020",51,"ej,madlb001,P,weyel901,Called third strike Bill Madlock ejected by HP umpire Lee Weyer","1977SFN.EVN.regular.comment.csv",8
+"SFN197707030",68,"ej,madlb001,P,willa901,Called third strike Bill Madlock ejected by HP umpire Art Williams","1977SFN.EVN.regular.comment.csv",9
+"SFN197707241",23,"$Tony Perez rounded 3B too far","1977SFN.EVN.regular.comment.csv",10
+"SFN197708260",64,"ej,madlb001,P,willb901,Called third strike $Madlock ejected by HP umpire Williams for arguing called third strike","1977SFN.EVN.regular.comment.csv",11
+"SFN197709030",29,"Bob Forsch left with unknown injury","1977SFN.EVN.regular.comment.csv",12
+"SFN197709120",64,"Debut game for Skip James","1977SFN.EVN.regular.comment.csv",13
+"SFN197709130",1,"Debut game for Mickey Mahler","1977SFN.EVN.regular.comment.csv",14
+"SFN197709170",70,"ej,plumb101,P,crawj901,Arguing check string strike 3 $Plummer ejected by 1B umpire Crawford who called half swing strike 3","1977SFN.EVN.regular.comment.csv",15

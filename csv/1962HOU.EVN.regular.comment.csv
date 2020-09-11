@@ -1,33 +1,34 @@
-"HOU196204100",0,"$First game for Houston franchise","FILENAME_TX","LINE_NUMBER_CT"
-"HOU196204100",12,"Debut game for Elder White","1962HOU.EVN.regular.comment.csv",2
-"HOU196204100",26,"Debut game for Dave Gerard","1962HOU.EVN.regular.comment.csv",3
-"HOU196204100",59,"Debut game for Jack Warner","1962HOU.EVN.regular.comment.csv",4
-"HOU196204250",22,"$Minnie Minoso called for interference","1962HOU.EVN.regular.comment.csv",5
-"HOU196204250",148,"$game was called by curfew","1962HOU.EVN.regular.comment.csv",6
-"HOU196205100",55,"ej,gillj102,P,secof101,Call at 2B (Threw helmet) Jim Gilliam ejected by 2B umpire Frank Secory","1962HOU.EVN.regular.comment.csv",7
-"HOU196205220",49,"missing play in HOU196205220","1962HOU.EVN.regular.comment.csv",8
-"HOU196205240",8,"ej,hutcf101,M,steim901,Balls and strikes ej,whisp101,C,steim901,Balls and strikes Reds Manager Fred Hutchinson and Coach Pete Whisenant ejected by HP umpire Mel Steiner after the first eight pitches by Joey Jay were called balls","1962HOU.EVN.regular.comment.csv",9
-"HOU196205250",54,"DIFF: not GDP but film scored it as 1-Official Error","1962HOU.EVN.regular.comment.csv",10
-"HOU196206090",7,"$John Roseboro collided with HP umpire Frank Walsh; unable to throw to 2B","1962HOU.EVN.regular.comment.csv",11
-"HOU196206102",84,"Norm Sherry injured by foul ball","1962HOU.EVN.regular.comment.csv",12
-"HOU196206290",19,"ej,blasd101,P,pelec901,Called strike 3 $Blasingame ejected by HP umpire Pelekoudas for arguing called strike 3","1962HOU.EVN.regular.comment.csv",13
-"HOU196206290",19,"$Left fielder Keough injured chasing foul hit by Johnson and was replaced by Lynch","1962HOU.EVN.regular.comment.csv",14
-"HOU196206300",56,"$pop fly that Eddie Kasko lost in the fog; it landed a few feet from 2B","1962HOU.EVN.regular.comment.csv",15
-"HOU196206300",66,"$game called for fog; Reds manager Fred Hutchinson protested","1962HOU.EVN.regular.comment.csv",16
-"HOU196207020",0,"Protest=V","1962HOU.EVN.regular.comment.csv",17
-"HOU196207020",48,"$Pirates coach Ron Northey called for interference for being out of the coaching box; Bob Skinner called out; Pirates manager Danny Murtaugh protested the game","1962HOU.EVN.regular.comment.csv",18
-"HOU196207030",62,"Debut game for Ernie Fazio","1962HOU.EVN.regular.comment.csv",19
-"HOU196207152",5,"$Lillis returned to 1st as Banks dropped liner and then stepped on 1st instead of throwing to second to start DP; Lillis alertly returned to 1st behind him","1962HOU.EVN.regular.comment.csv",20
-"HOU196207152",6,"ej,hobbg101,P,craws901,Call at 1B $Cubs Hobbie, not in game, ejected by 1B umpire Crawford for arguing that Mejias was out at 1st to complete DP","1962HOU.EVN.regular.comment.csv",21
-"HOU196207152",8,"ej,metrc101,M,barla901,Fair/foul call $Cubs managaer/head coach Metro ejected by HP umpire Barlick for arguing that a tap hit by Aspromnote was fair; after Aspromonte was hit by pitch, Metro argued the fair/foul call and was ejected","1962HOU.EVN.regular.comment.csv",22
-"HOU196207152",25,"Ernie Banks left with an upset stomach","1962HOU.EVN.regular.comment.csv",23
-"HOU196207152",59,"umpchange,8,umphome,craws901 umpchange,8,ump1b,harvd901 umpchange,8,ump3b,(None) $HP Umpire Al Barlick left with heat exhaustion","1962HOU.EVN.regular.comment.csv",24
-"HOU196207171",14,"Debut game for Jim Campbell","1962HOU.EVN.regular.comment.csv",25
-"HOU196207200",49,"$Bill White's throw struck 2B umpire Tom Gorman","1962HOU.EVN.regular.comment.csv",26
-"HOU196207211",60,"Debut game for J.C. Hartman","1962HOU.EVN.regular.comment.csv",27
-"HOU196208070",18,"ej,zimmd101,P,secof101,Balk non-call Don Zimmer ejected by 3B umpire Frank Secory","1962HOU.EVN.regular.comment.csv",28
-"HOU196208160",57,"ej,farrt101,P,weyel901,Balls and strikes Turk Farrell ejected by HP umpire Lee Weyer","1962HOU.EVN.regular.comment.csv",29
-"HOU196208181",46,"ej,buhlb101,P,walsf901,Balk call (Reversed) $Cubs Buhl ejected by HP umpire Walsh for arguing reversal of balk call with Williams batting","1962HOU.EVN.regular.comment.csv",30
-"HOU196208190",30,"Hal Woodeshick left pulled muscle","1962HOU.EVN.regular.comment.csv",31
-"HOU196209050",39,"Debut game for Dave Roberts","1962HOU.EVN.regular.comment.csv",32
-"HOU196209090",84,"$game called due to a 7PM curfew","1962HOU.EVN.regular.comment.csv",33
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"HOU196204100",0,"$First game for Houston franchise","1962HOU.EVN.regular.comment.csv",2
+"HOU196204100",12,"Debut game for Elder White","1962HOU.EVN.regular.comment.csv",3
+"HOU196204100",26,"Debut game for Dave Gerard","1962HOU.EVN.regular.comment.csv",4
+"HOU196204100",59,"Debut game for Jack Warner","1962HOU.EVN.regular.comment.csv",5
+"HOU196204250",22,"$Minnie Minoso called for interference","1962HOU.EVN.regular.comment.csv",6
+"HOU196204250",148,"$game was called by curfew","1962HOU.EVN.regular.comment.csv",7
+"HOU196205100",55,"ej,gillj102,P,secof101,Call at 2B (Threw helmet) Jim Gilliam ejected by 2B umpire Frank Secory","1962HOU.EVN.regular.comment.csv",8
+"HOU196205220",49,"missing play in HOU196205220","1962HOU.EVN.regular.comment.csv",9
+"HOU196205240",8,"ej,hutcf101,M,steim901,Balls and strikes ej,whisp101,C,steim901,Balls and strikes Reds Manager Fred Hutchinson and Coach Pete Whisenant ejected by HP umpire Mel Steiner after the first eight pitches by Joey Jay were called balls","1962HOU.EVN.regular.comment.csv",10
+"HOU196205250",54,"DIFF: not GDP but film scored it as 1-Official Error","1962HOU.EVN.regular.comment.csv",11
+"HOU196206090",7,"$John Roseboro collided with HP umpire Frank Walsh; unable to throw to 2B","1962HOU.EVN.regular.comment.csv",12
+"HOU196206102",84,"Norm Sherry injured by foul ball","1962HOU.EVN.regular.comment.csv",13
+"HOU196206290",19,"ej,blasd101,P,pelec901,Called strike 3 $Blasingame ejected by HP umpire Pelekoudas for arguing called strike 3","1962HOU.EVN.regular.comment.csv",14
+"HOU196206290",19,"$Left fielder Keough injured chasing foul hit by Johnson and was replaced by Lynch","1962HOU.EVN.regular.comment.csv",15
+"HOU196206300",56,"$pop fly that Eddie Kasko lost in the fog; it landed a few feet from 2B","1962HOU.EVN.regular.comment.csv",16
+"HOU196206300",66,"$game called for fog; Reds manager Fred Hutchinson protested","1962HOU.EVN.regular.comment.csv",17
+"HOU196207020",0,"Protest=V","1962HOU.EVN.regular.comment.csv",18
+"HOU196207020",48,"$Pirates coach Ron Northey called for interference for being out of the coaching box; Bob Skinner called out; Pirates manager Danny Murtaugh protested the game","1962HOU.EVN.regular.comment.csv",19
+"HOU196207030",62,"Debut game for Ernie Fazio","1962HOU.EVN.regular.comment.csv",20
+"HOU196207152",5,"$Lillis returned to 1st as Banks dropped liner and then stepped on 1st instead of throwing to second to start DP; Lillis alertly returned to 1st behind him","1962HOU.EVN.regular.comment.csv",21
+"HOU196207152",6,"ej,hobbg101,P,craws901,Call at 1B $Cubs Hobbie, not in game, ejected by 1B umpire Crawford for arguing that Mejias was out at 1st to complete DP","1962HOU.EVN.regular.comment.csv",22
+"HOU196207152",8,"ej,metrc101,M,barla901,Fair/foul call $Cubs managaer/head coach Metro ejected by HP umpire Barlick for arguing that a tap hit by Aspromnote was fair; after Aspromonte was hit by pitch, Metro argued the fair/foul call and was ejected","1962HOU.EVN.regular.comment.csv",23
+"HOU196207152",25,"Ernie Banks left with an upset stomach","1962HOU.EVN.regular.comment.csv",24
+"HOU196207152",59,"umpchange,8,umphome,craws901 umpchange,8,ump1b,harvd901 umpchange,8,ump3b,(None) $HP Umpire Al Barlick left with heat exhaustion","1962HOU.EVN.regular.comment.csv",25
+"HOU196207171",14,"Debut game for Jim Campbell","1962HOU.EVN.regular.comment.csv",26
+"HOU196207200",49,"$Bill White's throw struck 2B umpire Tom Gorman","1962HOU.EVN.regular.comment.csv",27
+"HOU196207211",60,"Debut game for J.C. Hartman","1962HOU.EVN.regular.comment.csv",28
+"HOU196208070",18,"ej,zimmd101,P,secof101,Balk non-call Don Zimmer ejected by 3B umpire Frank Secory","1962HOU.EVN.regular.comment.csv",29
+"HOU196208160",57,"ej,farrt101,P,weyel901,Balls and strikes Turk Farrell ejected by HP umpire Lee Weyer","1962HOU.EVN.regular.comment.csv",30
+"HOU196208181",46,"ej,buhlb101,P,walsf901,Balk call (Reversed) $Cubs Buhl ejected by HP umpire Walsh for arguing reversal of balk call with Williams batting","1962HOU.EVN.regular.comment.csv",31
+"HOU196208190",30,"Hal Woodeshick left pulled muscle","1962HOU.EVN.regular.comment.csv",32
+"HOU196209050",39,"Debut game for Dave Roberts","1962HOU.EVN.regular.comment.csv",33
+"HOU196209090",84,"$game called due to a 7PM curfew","1962HOU.EVN.regular.comment.csv",34

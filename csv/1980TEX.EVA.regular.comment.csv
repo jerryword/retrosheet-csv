@@ -1,30 +1,31 @@
-"TEX198004131",0,"2:30 rain delay before start of game","FILENAME_TX","LINE_NUMBER_CT"
-"TEX198004132",57,"ej,gambo001,P,merrd901,Called third strike Oscar Gamble ejected by HP umpire Durwood Merrill","1980TEX.EVA.regular.comment.csv",2
-"TEX198004230",37,"$botched rundown on Rusty Staub","1980TEX.EVA.regular.comment.csv",3
-"TEX198005030",36,"$Jim Palmer left game due to sore back","1980TEX.EVA.regular.comment.csv",4
-"TEX198005040",28,"$lights went out for 21 minutes due to nearby accident","1980TEX.EVA.regular.comment.csv",5
-"TEX198005060",0,"44 minute rain delay before start of game","1980TEX.EVA.regular.comment.csv",6
-"TEX198005110",28,"ej,nordw101,P,garcr901,Called third strike $Nordhagen ejected by HP umpire Garcia for arguing called third strike","1980TEX.EVA.regular.comment.csv",7
-"TEX198005110",53,"ej,larut101,M,garcr901,Called third strike $Chicago manager LaRussa ejected by HP umpire Garcia for called third strike","1980TEX.EVA.regular.comment.csv",8
-"TEX198005200",61,"game called on account of rain","1980TEX.EVA.regular.comment.csv",9
-"TEX198006010",22,"$Jeff Newman left with injured left kneecap","1980TEX.EVA.regular.comment.csv",10
-"TEX198006070",71,"$Willie Wilson injured chasing foul fly by Rusty Staub","1980TEX.EVA.regular.comment.csv",11
-"TEX198006220",12,"$botched rundown","1980TEX.EVA.regular.comment.csv",12
-"TEX198006250",52,"$Richie Zisk called for interference at 2B","1980TEX.EVA.regular.comment.csv",13
-"TEX198006270",64,"Perry threw 82 pitches","1980TEX.EVA.regular.comment.csv",14
-"TEX198006280",19,"$Al Oliver affected by heat","1980TEX.EVA.regular.comment.csv",15
-"TEX198007150",42,"ej,corrp102,M,spenf901,Call at 1B (on pick off) Rangers Manager Pat Corrales ejected by 1B umpire Fred Spenn arguing a failed pick off by the Rangers on Chet Lemon","1980TEX.EVA.regular.comment.csv",16
-"TEX198007170",4,"$Ross Baumgarten told to take tape off his shoes","1980TEX.EVA.regular.comment.csv",17
-"TEX198007170",12,"$Kevin Bell hit in face by grounder","1980TEX.EVA.regular.comment.csv",18
-"TEX198007300",44,"$line drive took big hop over Al Bumbry's head","1980TEX.EVA.regular.comment.csv",19
-"TEX198007300",56,"ej,corrp102,M,fordd901,Call at 1B $Rangers manager Corrales ejected by 1B umpire Ford for arguing Wills was safe at 1st","1980TEX.EVA.regular.comment.csv",20
-"TEX198008020",28,"ej,zimmd101,M,shulj901,Call at 1B Red Sox Manager Don Zimmer ejected by 1B umpire John Shulock","1980TEX.EVA.regular.comment.csv",21
-"TEX198008030",80,"$Tom Burgmeier becomes the first Red Sox pitcher to play another position since Mike Ryba caught three games in 1942","1980TEX.EVA.regular.comment.csv",22
-"TEX198008180",3,"$30 game hitting streak","1980TEX.EVA.regular.comment.csv",23
-"TEX198008180",55,"ej,willb101,P,mckej901,Called third strike Bump Wills ejected by HP umpire Jim McKean","1980TEX.EVA.regular.comment.csv",24
-"TEX198008190",65,"$George Brett's 30 game hitting streak stopped","1980TEX.EVA.regular.comment.csv",25
-"TEX198008221",40,"$Fergie Jenkins left with neck problem","1980TEX.EVA.regular.comment.csv",26
-"TEX198008222",1,"$Jim Gantner called for interference for running into his own batted ball","1980TEX.EVA.regular.comment.csv",27
-"TEX198008240",44,"$Bill Travers left with blister","1980TEX.EVA.regular.comment.csv",28
-"TEX198009030",65,"Debut game for Odie Davis","1980TEX.EVA.regular.comment.csv",29
-"TEX198009190",34,"$Rick Miller had pulled his left groin in the 2nd inning","1980TEX.EVA.regular.comment.csv",30
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"TEX198004131",0,"2:30 rain delay before start of game","1980TEX.EVA.regular.comment.csv",2
+"TEX198004132",57,"ej,gambo001,P,merrd901,Called third strike Oscar Gamble ejected by HP umpire Durwood Merrill","1980TEX.EVA.regular.comment.csv",3
+"TEX198004230",37,"$botched rundown on Rusty Staub","1980TEX.EVA.regular.comment.csv",4
+"TEX198005030",36,"$Jim Palmer left game due to sore back","1980TEX.EVA.regular.comment.csv",5
+"TEX198005040",28,"$lights went out for 21 minutes due to nearby accident","1980TEX.EVA.regular.comment.csv",6
+"TEX198005060",0,"44 minute rain delay before start of game","1980TEX.EVA.regular.comment.csv",7
+"TEX198005110",28,"ej,nordw101,P,garcr901,Called third strike $Nordhagen ejected by HP umpire Garcia for arguing called third strike","1980TEX.EVA.regular.comment.csv",8
+"TEX198005110",53,"ej,larut101,M,garcr901,Called third strike $Chicago manager LaRussa ejected by HP umpire Garcia for called third strike","1980TEX.EVA.regular.comment.csv",9
+"TEX198005200",61,"game called on account of rain","1980TEX.EVA.regular.comment.csv",10
+"TEX198006010",22,"$Jeff Newman left with injured left kneecap","1980TEX.EVA.regular.comment.csv",11
+"TEX198006070",71,"$Willie Wilson injured chasing foul fly by Rusty Staub","1980TEX.EVA.regular.comment.csv",12
+"TEX198006220",12,"$botched rundown","1980TEX.EVA.regular.comment.csv",13
+"TEX198006250",52,"$Richie Zisk called for interference at 2B","1980TEX.EVA.regular.comment.csv",14
+"TEX198006270",64,"Perry threw 82 pitches","1980TEX.EVA.regular.comment.csv",15
+"TEX198006280",19,"$Al Oliver affected by heat","1980TEX.EVA.regular.comment.csv",16
+"TEX198007150",42,"ej,corrp102,M,spenf901,Call at 1B (on pick off) Rangers Manager Pat Corrales ejected by 1B umpire Fred Spenn arguing a failed pick off by the Rangers on Chet Lemon","1980TEX.EVA.regular.comment.csv",17
+"TEX198007170",4,"$Ross Baumgarten told to take tape off his shoes","1980TEX.EVA.regular.comment.csv",18
+"TEX198007170",12,"$Kevin Bell hit in face by grounder","1980TEX.EVA.regular.comment.csv",19
+"TEX198007300",44,"$line drive took big hop over Al Bumbry's head","1980TEX.EVA.regular.comment.csv",20
+"TEX198007300",56,"ej,corrp102,M,fordd901,Call at 1B $Rangers manager Corrales ejected by 1B umpire Ford for arguing Wills was safe at 1st","1980TEX.EVA.regular.comment.csv",21
+"TEX198008020",28,"ej,zimmd101,M,shulj901,Call at 1B Red Sox Manager Don Zimmer ejected by 1B umpire John Shulock","1980TEX.EVA.regular.comment.csv",22
+"TEX198008030",80,"$Tom Burgmeier becomes the first Red Sox pitcher to play another position since Mike Ryba caught three games in 1942","1980TEX.EVA.regular.comment.csv",23
+"TEX198008180",3,"$30 game hitting streak","1980TEX.EVA.regular.comment.csv",24
+"TEX198008180",55,"ej,willb101,P,mckej901,Called third strike Bump Wills ejected by HP umpire Jim McKean","1980TEX.EVA.regular.comment.csv",25
+"TEX198008190",65,"$George Brett's 30 game hitting streak stopped","1980TEX.EVA.regular.comment.csv",26
+"TEX198008221",40,"$Fergie Jenkins left with neck problem","1980TEX.EVA.regular.comment.csv",27
+"TEX198008222",1,"$Jim Gantner called for interference for running into his own batted ball","1980TEX.EVA.regular.comment.csv",28
+"TEX198008240",44,"$Bill Travers left with blister","1980TEX.EVA.regular.comment.csv",29
+"TEX198009030",65,"Debut game for Odie Davis","1980TEX.EVA.regular.comment.csv",30
+"TEX198009190",34,"$Rick Miller had pulled his left groin in the 2nd inning","1980TEX.EVA.regular.comment.csv",31

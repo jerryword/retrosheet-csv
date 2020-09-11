@@ -1,23 +1,24 @@
-"PIT198605070",0,"70s","FILENAME_TX","LINE_NUMBER_CT"
-"PIT198605070",57,"$Sam Khalifa ruled out of baseline when Bill Laskey's throw hit him","1986PIT.EVN.regular.comment.csv",2
-"PIT198605080",0,"60s","1986PIT.EVN.regular.comment.csv",3
-"PIT198605080",16,"$Safety squeeze but Reynolds did not try to advance","1986PIT.EVN.regular.comment.csv",4
-"PIT198605300",7,"Debut game for Barry Bonds","1986PIT.EVN.regular.comment.csv",5
-"PIT198606061",38,"$Gary Carter asked HP Umpire Bill Williams to check the baseball; Williams checked the ball and Rick Rhoden's glove and gave Rhoden a warning about throwing a doctored ball","1986PIT.EVN.regular.comment.csv",6
-"PIT198606061",39,"ej,robib101,C,willb901,Pushing Rick Rhoden in fight $Rick Rhoden exchanged words with Mets 1B coach Bill Robinson; Robinson lunged at Rhoden, pushing him; both benches cleared and a brawl ensued; Robinson ejected by HP umpire Bill Williams","1986PIT.EVN.regular.comment.csv",7
-"PIT198606110",56,"$Joe Orsulak missed sign for suicide squeeze","1986PIT.EVN.regular.comment.csv",8
-"PIT198606160",0,"Protest=Y Suspend=19860618,,4,1,32","1986PIT.EVN.regular.comment.csv",9
-"PIT198606160",37,"$Jose Oquendo called for interference for being out of box on bunt","1986PIT.EVN.regular.comment.csv",10
-"PIT198606160",48,"suspended,19860618,PIT07,rain related $Game had delays of 17 and 22 minutes and was called at this point as a 4-1 St. Louis win; Pirates protested that the umpires had failed to wait the required 30 minutes; NL President Feeney agreed the next day and ordered the game resumed at this point","1986PIT.EVN.regular.comment.csv",11
-"PIT198606290",52,"$Barry Bonds trapped the ball","1986PIT.EVN.regular.comment.csv",12
-"PIT198607010",1,"Debut game for Rich Sauveur","1986PIT.EVN.regular.comment.csv",13
-"PIT198607010",105,"$Right fielder Glenn Wilson was stationed directly behind second and the ball was hit right to him; he stepped on 2nd and threw to 1st to complete the DP","1986PIT.EVN.regular.comment.csv",14
-"PIT198607180",81,"Debut game for Barry Jones","1986PIT.EVN.regular.comment.csv",15
-"PIT198607250",11,"$Bob Melvin was running as Jose Uribe swung at a pitch in the dirt; Junior Ortiz threw to 2B","1986PIT.EVN.regular.comment.csv",16
-"PIT198608220",68,"$Reynolds missed squeeze bunt, Ray was caught in rundown and scored when catcher made wild throw Braves manager Tanner complained to HP Umpire Hallion that Reynolds had interfered with catcher after missing squeeze bunt","1986PIT.EVN.regular.comment.csv",17
-"PIT198608220",71,"ej,tannc101,M,hallt901,Interference non-call $Braves manager Tanner ejected by HP umpire Hallion as he field after pitching change, complaining about earlier lack of interference call","1986PIT.EVN.regular.comment.csv",18
-"PIT198609140",1,"Debut game for Drew Hall","1986PIT.EVN.regular.comment.csv",19
-"PIT198609140",70,"Debut game for Rich Renteria","1986PIT.EVN.regular.comment.csv",20
-"PIT198609230",51,"ej,leylj801,M,hallt901,Balls and strikes ej,schur101,C,hallt901,Balls and strikes $Pirates manager Leyland and coach Schueler ejected by HP umpire Hallion for arguing balls and strikes with Bream up","1986PIT.EVN.regular.comment.csv",21
-"PIT198609270",41,"ej,orsuj001,P,willc901,Called strike 3 $Orsulak ejected by HP umpire Williams for arguing called strike 3","1986PIT.EVN.regular.comment.csv",22
-"PIT198609270",50,"ej,leylj801,M,willc901,Objecting to warning after HBP $Pirates manager Leyland ejected by 3B umpire Wendelstedt for objecting to warning issued after HBP","1986PIT.EVN.regular.comment.csv",23
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"PIT198605070",0,"70s","1986PIT.EVN.regular.comment.csv",2
+"PIT198605070",57,"$Sam Khalifa ruled out of baseline when Bill Laskey's throw hit him","1986PIT.EVN.regular.comment.csv",3
+"PIT198605080",0,"60s","1986PIT.EVN.regular.comment.csv",4
+"PIT198605080",16,"$Safety squeeze but Reynolds did not try to advance","1986PIT.EVN.regular.comment.csv",5
+"PIT198605300",7,"Debut game for Barry Bonds","1986PIT.EVN.regular.comment.csv",6
+"PIT198606061",38,"$Gary Carter asked HP Umpire Bill Williams to check the baseball; Williams checked the ball and Rick Rhoden's glove and gave Rhoden a warning about throwing a doctored ball","1986PIT.EVN.regular.comment.csv",7
+"PIT198606061",39,"ej,robib101,C,willb901,Pushing Rick Rhoden in fight $Rick Rhoden exchanged words with Mets 1B coach Bill Robinson; Robinson lunged at Rhoden, pushing him; both benches cleared and a brawl ensued; Robinson ejected by HP umpire Bill Williams","1986PIT.EVN.regular.comment.csv",8
+"PIT198606110",56,"$Joe Orsulak missed sign for suicide squeeze","1986PIT.EVN.regular.comment.csv",9
+"PIT198606160",0,"Protest=Y Suspend=19860618,,4,1,32","1986PIT.EVN.regular.comment.csv",10
+"PIT198606160",37,"$Jose Oquendo called for interference for being out of box on bunt","1986PIT.EVN.regular.comment.csv",11
+"PIT198606160",48,"suspended,19860618,PIT07,rain related $Game had delays of 17 and 22 minutes and was called at this point as a 4-1 St. Louis win; Pirates protested that the umpires had failed to wait the required 30 minutes; NL President Feeney agreed the next day and ordered the game resumed at this point","1986PIT.EVN.regular.comment.csv",12
+"PIT198606290",52,"$Barry Bonds trapped the ball","1986PIT.EVN.regular.comment.csv",13
+"PIT198607010",1,"Debut game for Rich Sauveur","1986PIT.EVN.regular.comment.csv",14
+"PIT198607010",105,"$Right fielder Glenn Wilson was stationed directly behind second and the ball was hit right to him; he stepped on 2nd and threw to 1st to complete the DP","1986PIT.EVN.regular.comment.csv",15
+"PIT198607180",81,"Debut game for Barry Jones","1986PIT.EVN.regular.comment.csv",16
+"PIT198607250",11,"$Bob Melvin was running as Jose Uribe swung at a pitch in the dirt; Junior Ortiz threw to 2B","1986PIT.EVN.regular.comment.csv",17
+"PIT198608220",68,"$Reynolds missed squeeze bunt, Ray was caught in rundown and scored when catcher made wild throw Braves manager Tanner complained to HP Umpire Hallion that Reynolds had interfered with catcher after missing squeeze bunt","1986PIT.EVN.regular.comment.csv",18
+"PIT198608220",71,"ej,tannc101,M,hallt901,Interference non-call $Braves manager Tanner ejected by HP umpire Hallion as he field after pitching change, complaining about earlier lack of interference call","1986PIT.EVN.regular.comment.csv",19
+"PIT198609140",1,"Debut game for Drew Hall","1986PIT.EVN.regular.comment.csv",20
+"PIT198609140",70,"Debut game for Rich Renteria","1986PIT.EVN.regular.comment.csv",21
+"PIT198609230",51,"ej,leylj801,M,hallt901,Balls and strikes ej,schur101,C,hallt901,Balls and strikes $Pirates manager Leyland and coach Schueler ejected by HP umpire Hallion for arguing balls and strikes with Bream up","1986PIT.EVN.regular.comment.csv",22
+"PIT198609270",41,"ej,orsuj001,P,willc901,Called strike 3 $Orsulak ejected by HP umpire Williams for arguing called strike 3","1986PIT.EVN.regular.comment.csv",23
+"PIT198609270",50,"ej,leylj801,M,willc901,Objecting to warning after HBP $Pirates manager Leyland ejected by 3B umpire Wendelstedt for objecting to warning issued after HBP","1986PIT.EVN.regular.comment.csv",24

@@ -1,26 +1,27 @@
-"SFN197004070",6,"Debut game for Al Gallagher","FILENAME_TX","LINE_NUMBER_CT"
-"SFN197004090",23,"Debut game for Bob Taylor","1970SFN.EVN.regular.comment.csv",2
-"SFN197004100",49,"Debut game for Don Gullett","1970SFN.EVN.regular.comment.csv",3
-"SFN197004261",21,"$Bobby Wine caught Willie Mays with the hidden ball trick","1970SFN.EVN.regular.comment.csv",4
-"SFN197004300",48,"$Ron Swoboda called for interference when his slide pinned down catcher Dick Dietz","1970SFN.EVN.regular.comment.csv",5
-"SFN197005020",39,"Tim McCarver left with a broken hand on 2-1 foul","1970SFN.EVN.regular.comment.csv",6
-"SFN197005020",42,"$Mike Ryan suffered broken hand when Willie McCovey spiked him","1970SFN.EVN.regular.comment.csv",7
-"SFN197005031",23,"umpchange,4,ump2b,(None) $2B umpire Burkhart left when hit in face by deflected throw","1970SFN.EVN.regular.comment.csv",8
-"SFN197005031",27,"umpchange,4,ump2b,burkk101 $Umpire Burkhart returned to 2nd","1970SFN.EVN.regular.comment.csv",9
-"SFN197005032",1,"Debut game for Miguel Puente","1970SFN.EVN.regular.comment.csv",10
-"SFN197005230",160,"$This was Clyde King's final game as manager","1970SFN.EVN.regular.comment.csv",11
-"SFN197005270",5,"ej,bondb101,P,davis901,Called third strike $Bonds ejected by HP umpire Davidson for arguing called third strike","1970SFN.EVN.regular.comment.csv",12
-"SFN197006120",1,"Debut game for Skip Pitlock","1970SFN.EVN.regular.comment.csv",13
-"SFN197006140",58,"Debut game for Jim Kennedy","1970SFN.EVN.regular.comment.csv",14
-"SFN197006160",20,"Debut game for Roger Metzger","1970SFN.EVN.regular.comment.csv",15
-"SFN197008092",17,"Debut game for Larry Howard","1970SFN.EVN.regular.comment.csv",16
-"SFN197008210",58,"ej,hendk101,P,pryop901,Called third strike Ken Henderson ejected by HP umpire Paul Pryor","1970SFN.EVN.regular.comment.csv",17
-"SFN197009072",12,"Debut game for Bernie Williams","1970SFN.EVN.regular.comment.csv",18
-"SFN197009100",40,"Debut game for Buddy Harris","1970SFN.EVN.regular.comment.csv",19
-"SFN197009100",55,"ej,raded103,P,steld901,Call at HP $Rader ejected by HP umpire Stello for arguing he was safe","1970SFN.EVN.regular.comment.csv",20
-"SFN197009120",14,"Debut game for Tom Paciorek","1970SFN.EVN.regular.comment.csv",21
-"SFN197009120",73,"Debut game for Mike Strahler","1970SFN.EVN.regular.comment.csv",22
-"SFN197009120",78,"Debut game for Joe Ferguson","1970SFN.EVN.regular.comment.csv",23
-"SFN197009120",84,"$Maury Wills called for obstruction on Bernie Williams","1970SFN.EVN.regular.comment.csv",24
-"SFN197009130",2,"$Manny Mota called for interference with catcher Dick Dietz","1970SFN.EVN.regular.comment.csv",25
-"SFN197009250",0,"Debut for umpire Jerry Dale","1970SFN.EVN.regular.comment.csv",26
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"SFN197004070",6,"Debut game for Al Gallagher","1970SFN.EVN.regular.comment.csv",2
+"SFN197004090",23,"Debut game for Bob Taylor","1970SFN.EVN.regular.comment.csv",3
+"SFN197004100",49,"Debut game for Don Gullett","1970SFN.EVN.regular.comment.csv",4
+"SFN197004261",21,"$Bobby Wine caught Willie Mays with the hidden ball trick","1970SFN.EVN.regular.comment.csv",5
+"SFN197004300",48,"$Ron Swoboda called for interference when his slide pinned down catcher Dick Dietz","1970SFN.EVN.regular.comment.csv",6
+"SFN197005020",39,"Tim McCarver left with a broken hand on 2-1 foul","1970SFN.EVN.regular.comment.csv",7
+"SFN197005020",42,"$Mike Ryan suffered broken hand when Willie McCovey spiked him","1970SFN.EVN.regular.comment.csv",8
+"SFN197005031",23,"umpchange,4,ump2b,(None) $2B umpire Burkhart left when hit in face by deflected throw","1970SFN.EVN.regular.comment.csv",9
+"SFN197005031",27,"umpchange,4,ump2b,burkk101 $Umpire Burkhart returned to 2nd","1970SFN.EVN.regular.comment.csv",10
+"SFN197005032",1,"Debut game for Miguel Puente","1970SFN.EVN.regular.comment.csv",11
+"SFN197005230",160,"$This was Clyde King's final game as manager","1970SFN.EVN.regular.comment.csv",12
+"SFN197005270",5,"ej,bondb101,P,davis901,Called third strike $Bonds ejected by HP umpire Davidson for arguing called third strike","1970SFN.EVN.regular.comment.csv",13
+"SFN197006120",1,"Debut game for Skip Pitlock","1970SFN.EVN.regular.comment.csv",14
+"SFN197006140",58,"Debut game for Jim Kennedy","1970SFN.EVN.regular.comment.csv",15
+"SFN197006160",20,"Debut game for Roger Metzger","1970SFN.EVN.regular.comment.csv",16
+"SFN197008092",17,"Debut game for Larry Howard","1970SFN.EVN.regular.comment.csv",17
+"SFN197008210",58,"ej,hendk101,P,pryop901,Called third strike Ken Henderson ejected by HP umpire Paul Pryor","1970SFN.EVN.regular.comment.csv",18
+"SFN197009072",12,"Debut game for Bernie Williams","1970SFN.EVN.regular.comment.csv",19
+"SFN197009100",40,"Debut game for Buddy Harris","1970SFN.EVN.regular.comment.csv",20
+"SFN197009100",55,"ej,raded103,P,steld901,Call at HP $Rader ejected by HP umpire Stello for arguing he was safe","1970SFN.EVN.regular.comment.csv",21
+"SFN197009120",14,"Debut game for Tom Paciorek","1970SFN.EVN.regular.comment.csv",22
+"SFN197009120",73,"Debut game for Mike Strahler","1970SFN.EVN.regular.comment.csv",23
+"SFN197009120",78,"Debut game for Joe Ferguson","1970SFN.EVN.regular.comment.csv",24
+"SFN197009120",84,"$Maury Wills called for obstruction on Bernie Williams","1970SFN.EVN.regular.comment.csv",25
+"SFN197009130",2,"$Manny Mota called for interference with catcher Dick Dietz","1970SFN.EVN.regular.comment.csv",26
+"SFN197009250",0,"Debut for umpire Jerry Dale","1970SFN.EVN.regular.comment.csv",27

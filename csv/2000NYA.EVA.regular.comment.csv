@@ -1,32 +1,33 @@
-"NYA200004130",11,"DWS: originally scored E3","FILENAME_TX","LINE_NUMBER_CT"
-"NYA200004150",50,"Debut game for Darrell Einertson","2000NYA.EVA.regular.comment.csv",2
-"NYA200004250",78,"DV need one in this inning","2000NYA.EVA.regular.comment.csv",3
-"NYA200005060",55,"originally scored as E4, not corrected until 6-13!","2000NYA.EVA.regular.comment.csv",4
-"NYA200005080",56,"ej,rothl101,M,bellw901,Balls and strikes $Tampa manager Rothschild ejected by HP umpire Bell for arguing balls and strikes","2000NYA.EVA.regular.comment.csv",5
-"NYA200005170",59,"Debut game for Kevin Beirne","2000NYA.EVA.regular.comment.csv",6
-"NYA200005280",32,"$Plate umpire Rapuano hit by foul tip on inside right knee during Ledee's AB","2000NYA.EVA.regular.comment.csv",7
-"NYA200005280",35,"umpchange,6,umphome,rungb901 umpchange,6,ump1b,shulj901 umpchange,6,ump2b,(None) $Rapuano left game due to knee injury; 14 minute delay while Runge changed to plate gear; Shulock moved from 2B to 1B","2000NYA.EVA.regular.comment.csv",8
-"NYA200006090",15,"ej,abbok002,P,fostm901,Call at 1B Kurt Abbott ejected by 1B umpire Marty Foster","2000NYA.EVA.regular.comment.csv",9
-"NYA200006140",69,"ej,offej001,P,danlk901,Call at 2B Jose Offerman ejected by 2B umpire Kerwin Danley","2000NYA.EVA.regular.comment.csv",10
-"NYA200006170",0,"57 minute rain delay in the fifth","2000NYA.EVA.regular.comment.csv",11
-"NYA200006170",1,"Debut game for Jake Westbrook","2000NYA.EVA.regular.comment.csv",12
-"NYA200007082",0,"$Second game of day between these teams; the first was at Shea Stadium","2000NYA.EVA.regular.comment.csv",13
-"NYA200007082",8,"$hit in head; misses All-Star Game","2000NYA.EVA.regular.comment.csv",14
-"NYA200008030",0,"Rain delay of 2:08, start at 10:38 PM","2000NYA.EVA.regular.comment.csv",15
-"NYA200008050",0,"Protest=H","2000NYA.EVA.regular.comment.csv",16
-"NYA200008050",51,"$Sele hit on foot by liner","2000NYA.EVA.regular.comment.csv",17
-"NYA200008050",53,"$the Yankees protested game because the umpires allowed Arthur Rhodes unlimited warm-up pitches due to Aaron Sele injury","2000NYA.EVA.regular.comment.csv",18
-"NYA200008070",73,"ej,nelsj001,P,carlm901,Balls and strikes $Pitcher Nelson ejected by HP umpire Carlson for arguing balls and strikes as he left the mound","2000NYA.EVA.regular.comment.csv",19
-"NYA200008080",31,"IPHR - actually over wall, but ruled in play","2000NYA.EVA.regular.comment.csv",20
-"NYA200008170",13,"$Molina came halfway home, then stopped, causing domino-like backup of runners with Gil being tagged out in rundown; good play by Posada running at him before throwing to Martinez","2000NYA.EVA.regular.comment.csv",21
-"NYA200008170",16,"$Hill 15th player to homer into the CF batter's background","2000NYA.EVA.regular.comment.csv",22
-"NYA200008170",41,"$throw into fifth row of stands","2000NYA.EVA.regular.comment.csv",23
-"NYA200008170",57,"$great stop by Brosius, Gil held 3B, Erstad rounded second too far and Yankees ran him down","2000NYA.EVA.regular.comment.csv",24
-"NYA200008190",21,"Debut game for Shawn Wooten","2000NYA.EVA.regular.comment.csv",25
-"NYA200008190",25,"$Gant dropped the liner","2000NYA.EVA.regular.comment.csv",26
-"NYA200008190",27,"$Gant thought there were two out and leaned against the wall","2000NYA.EVA.regular.comment.csv",27
-"NYA200009020",76,"game called after 38 minute rain delay","2000NYA.EVA.regular.comment.csv",28
-"NYA200009030",0,"54 minute rain delay in eighth","2000NYA.EVA.regular.comment.csv",29
-"NYA200009140",55,"ej,torrj101,M,fostm901,Call at 1B Yankees manager Joe Torre ejected by 1B umpire Marty Foster","2000NYA.EVA.regular.comment.csv",30
-"NYA200009230",19,"$Clemens struck on right thigh; suffered bruise","2000NYA.EVA.regular.comment.csv",31
-"NYA200009230",20,"$slap bunt past mound","2000NYA.EVA.regular.comment.csv",32
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"NYA200004130",11,"DWS: originally scored E3","2000NYA.EVA.regular.comment.csv",2
+"NYA200004150",50,"Debut game for Darrell Einertson","2000NYA.EVA.regular.comment.csv",3
+"NYA200004250",78,"DV need one in this inning","2000NYA.EVA.regular.comment.csv",4
+"NYA200005060",55,"originally scored as E4, not corrected until 6-13!","2000NYA.EVA.regular.comment.csv",5
+"NYA200005080",56,"ej,rothl101,M,bellw901,Balls and strikes $Tampa manager Rothschild ejected by HP umpire Bell for arguing balls and strikes","2000NYA.EVA.regular.comment.csv",6
+"NYA200005170",59,"Debut game for Kevin Beirne","2000NYA.EVA.regular.comment.csv",7
+"NYA200005280",32,"$Plate umpire Rapuano hit by foul tip on inside right knee during Ledee's AB","2000NYA.EVA.regular.comment.csv",8
+"NYA200005280",35,"umpchange,6,umphome,rungb901 umpchange,6,ump1b,shulj901 umpchange,6,ump2b,(None) $Rapuano left game due to knee injury; 14 minute delay while Runge changed to plate gear; Shulock moved from 2B to 1B","2000NYA.EVA.regular.comment.csv",9
+"NYA200006090",15,"ej,abbok002,P,fostm901,Call at 1B Kurt Abbott ejected by 1B umpire Marty Foster","2000NYA.EVA.regular.comment.csv",10
+"NYA200006140",69,"ej,offej001,P,danlk901,Call at 2B Jose Offerman ejected by 2B umpire Kerwin Danley","2000NYA.EVA.regular.comment.csv",11
+"NYA200006170",0,"57 minute rain delay in the fifth","2000NYA.EVA.regular.comment.csv",12
+"NYA200006170",1,"Debut game for Jake Westbrook","2000NYA.EVA.regular.comment.csv",13
+"NYA200007082",0,"$Second game of day between these teams; the first was at Shea Stadium","2000NYA.EVA.regular.comment.csv",14
+"NYA200007082",8,"$hit in head; misses All-Star Game","2000NYA.EVA.regular.comment.csv",15
+"NYA200008030",0,"Rain delay of 2:08, start at 10:38 PM","2000NYA.EVA.regular.comment.csv",16
+"NYA200008050",0,"Protest=H","2000NYA.EVA.regular.comment.csv",17
+"NYA200008050",51,"$Sele hit on foot by liner","2000NYA.EVA.regular.comment.csv",18
+"NYA200008050",53,"$the Yankees protested game because the umpires allowed Arthur Rhodes unlimited warm-up pitches due to Aaron Sele injury","2000NYA.EVA.regular.comment.csv",19
+"NYA200008070",73,"ej,nelsj001,P,carlm901,Balls and strikes $Pitcher Nelson ejected by HP umpire Carlson for arguing balls and strikes as he left the mound","2000NYA.EVA.regular.comment.csv",20
+"NYA200008080",31,"IPHR - actually over wall, but ruled in play","2000NYA.EVA.regular.comment.csv",21
+"NYA200008170",13,"$Molina came halfway home, then stopped, causing domino-like backup of runners with Gil being tagged out in rundown; good play by Posada running at him before throwing to Martinez","2000NYA.EVA.regular.comment.csv",22
+"NYA200008170",16,"$Hill 15th player to homer into the CF batter's background","2000NYA.EVA.regular.comment.csv",23
+"NYA200008170",41,"$throw into fifth row of stands","2000NYA.EVA.regular.comment.csv",24
+"NYA200008170",57,"$great stop by Brosius, Gil held 3B, Erstad rounded second too far and Yankees ran him down","2000NYA.EVA.regular.comment.csv",25
+"NYA200008190",21,"Debut game for Shawn Wooten","2000NYA.EVA.regular.comment.csv",26
+"NYA200008190",25,"$Gant dropped the liner","2000NYA.EVA.regular.comment.csv",27
+"NYA200008190",27,"$Gant thought there were two out and leaned against the wall","2000NYA.EVA.regular.comment.csv",28
+"NYA200009020",76,"game called after 38 minute rain delay","2000NYA.EVA.regular.comment.csv",29
+"NYA200009030",0,"54 minute rain delay in eighth","2000NYA.EVA.regular.comment.csv",30
+"NYA200009140",55,"ej,torrj101,M,fostm901,Call at 1B Yankees manager Joe Torre ejected by 1B umpire Marty Foster","2000NYA.EVA.regular.comment.csv",31
+"NYA200009230",19,"$Clemens struck on right thigh; suffered bruise","2000NYA.EVA.regular.comment.csv",32
+"NYA200009230",20,"$slap bunt past mound","2000NYA.EVA.regular.comment.csv",33

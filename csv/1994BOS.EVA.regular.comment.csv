@@ -1,17 +1,18 @@
-"BOS199404070",72,"ej,gullb001,P,shulj901,Intentional HBP Bill Gullickson ejected by HP umpire John Shulock","FILENAME_TX","LINE_NUMBER_CT"
-"BOS199404150",11,"Fan interference","1994BOS.EVA.regular.comment.csv",2
-"BOS199404240",71,"Debut game for Jorge Fabregas","1994BOS.EVA.regular.comment.csv",3
-"BOS199405030",28,"ej,anthe001,P,phild901,Charging mound after pitch over his head Eric Anthony ejected by HP umpire Dave Phillips; the third ball was over Anthony's head; he charged the mound after the walk was completed and both benches emptied; Anthony was suspended 4 games","1994BOS.EVA.regular.comment.csv",4
-"BOS199405100",1,"Debut game for Gar Finnvold","1994BOS.EVA.regular.comment.csv",5
-"BOS199405100",53,"ej,garnp001,M,craft901,Called third strike ej,vaugg001,P,craft901,Called third strike Greg Vaughn and Brewers manager Phil Garner ejected by HP umpire Terry Craft","1994BOS.EVA.regular.comment.csv",6
-"BOS199405110",61,"Debut game for Jeff Cirillo","1994BOS.EVA.regular.comment.csv",7
-"BOS199405140",20,"ej,whitd001,P,koscg901,Called third strike DEvon White ejected by HP umpire Greg Kosc","1994BOS.EVA.regular.comment.csv",8
-"BOS199405260",0,"Debut for umpire Matt Winans","1994BOS.EVA.regular.comment.csv",9
-"BOS199406030",26,"fan interference","1994BOS.EVA.regular.comment.csv",10
-"BOS199406130",43,"ej,easlm001,C,joycj901,Balls and strikes Red Sox coach Mike Easler ejected by 1B umpire Jim Joyce when Easler told HP umpire Jim McKean to bear down","1994BOS.EVA.regular.comment.csv",11
-"BOS199406280",67,"ej,hobsb101,M,koscg901,Argued warning given to pitcher $HP umpire Greg Kosc warned Sergio Valdez after a pitch sailed behind Jim Leyritz; Red Sox manager Butch Hobson ejected by Kosc; during the argument, 3B umpire Larry Barnett got between Hobson and Kosc; Hobson shoved Barnett three times after being ejected","1994BOS.EVA.regular.comment.csv",12
-"BOS199407030",45,"$Tom Brunansky called for interference","1994BOS.EVA.regular.comment.csv",13
-"BOS199407080",19,"Debut game for Alex Rodriguez","1994BOS.EVA.regular.comment.csv",14
-"BOS199407090",26,"ej,flets001,P,hicke901,Called third strike Scott Fletcher ejected by HP Umpire Ed Hickox","1994BOS.EVA.regular.comment.csv",15
-"BOS199407220",9,"umpchange,3,umphome,hicke901 umpchange,3,ump2b,(None) umpchange,3,ump3b,craft901 $HP umpire Kaiser left with neck injury from foul; 3B umpire Hickox went behind plate, 2B umpire Craft moved to 3rd and game finished with 3 umpires","1994BOS.EVA.regular.comment.csv",16
-"BOS199408072",121,"ej,bellj002,P,hirsj901,Fair/foul call $Belle ejected by 1B umpire Hirschbeck for arguing his grounder was foul","1994BOS.EVA.regular.comment.csv",17
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"BOS199404070",72,"ej,gullb001,P,shulj901,Intentional HBP Bill Gullickson ejected by HP umpire John Shulock","1994BOS.EVA.regular.comment.csv",2
+"BOS199404150",11,"Fan interference","1994BOS.EVA.regular.comment.csv",3
+"BOS199404240",71,"Debut game for Jorge Fabregas","1994BOS.EVA.regular.comment.csv",4
+"BOS199405030",28,"ej,anthe001,P,phild901,Charging mound after pitch over his head Eric Anthony ejected by HP umpire Dave Phillips; the third ball was over Anthony's head; he charged the mound after the walk was completed and both benches emptied; Anthony was suspended 4 games","1994BOS.EVA.regular.comment.csv",5
+"BOS199405100",1,"Debut game for Gar Finnvold","1994BOS.EVA.regular.comment.csv",6
+"BOS199405100",53,"ej,garnp001,M,craft901,Called third strike ej,vaugg001,P,craft901,Called third strike Greg Vaughn and Brewers manager Phil Garner ejected by HP umpire Terry Craft","1994BOS.EVA.regular.comment.csv",7
+"BOS199405110",61,"Debut game for Jeff Cirillo","1994BOS.EVA.regular.comment.csv",8
+"BOS199405140",20,"ej,whitd001,P,koscg901,Called third strike DEvon White ejected by HP umpire Greg Kosc","1994BOS.EVA.regular.comment.csv",9
+"BOS199405260",0,"Debut for umpire Matt Winans","1994BOS.EVA.regular.comment.csv",10
+"BOS199406030",26,"fan interference","1994BOS.EVA.regular.comment.csv",11
+"BOS199406130",43,"ej,easlm001,C,joycj901,Balls and strikes Red Sox coach Mike Easler ejected by 1B umpire Jim Joyce when Easler told HP umpire Jim McKean to bear down","1994BOS.EVA.regular.comment.csv",12
+"BOS199406280",67,"ej,hobsb101,M,koscg901,Argued warning given to pitcher $HP umpire Greg Kosc warned Sergio Valdez after a pitch sailed behind Jim Leyritz; Red Sox manager Butch Hobson ejected by Kosc; during the argument, 3B umpire Larry Barnett got between Hobson and Kosc; Hobson shoved Barnett three times after being ejected","1994BOS.EVA.regular.comment.csv",13
+"BOS199407030",45,"$Tom Brunansky called for interference","1994BOS.EVA.regular.comment.csv",14
+"BOS199407080",19,"Debut game for Alex Rodriguez","1994BOS.EVA.regular.comment.csv",15
+"BOS199407090",26,"ej,flets001,P,hicke901,Called third strike Scott Fletcher ejected by HP Umpire Ed Hickox","1994BOS.EVA.regular.comment.csv",16
+"BOS199407220",9,"umpchange,3,umphome,hicke901 umpchange,3,ump2b,(None) umpchange,3,ump3b,craft901 $HP umpire Kaiser left with neck injury from foul; 3B umpire Hickox went behind plate, 2B umpire Craft moved to 3rd and game finished with 3 umpires","1994BOS.EVA.regular.comment.csv",17
+"BOS199408072",121,"ej,bellj002,P,hirsj901,Fair/foul call $Belle ejected by 1B umpire Hirschbeck for arguing his grounder was foul","1994BOS.EVA.regular.comment.csv",18

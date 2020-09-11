@@ -1,27 +1,28 @@
-"MIN199004240",16,"$Mike Heath rounded 1B too far","FILENAME_TX","LINE_NUMBER_CT"
-"MIN199005110",3,"$Greg Gagne shifted behind 2B","1990MIN.EVA.regular.comment.csv",2
-"MIN199005110",4,"$greg Gagne had long run to normal SS position for grounder","1990MIN.EVA.regular.comment.csv",3
-"MIN199005280",2,"$the ball hit off the trash bag in left center","1990MIN.EVA.regular.comment.csv",4
-"MIN199005280",7,"434 feet","1990MIN.EVA.regular.comment.csv",5
-"MIN199005280",64,"ej,robif103,M,cobld901,Arguing too many opposition mound visits $Orioles manager Robinson ejected by HP umpire Coble for arguing that Twins made two mound visits when manager Kelly left mound after changing pitchers and then returned with more instructions; after game Robinson was later suspended for calling umpire Coble a 'no-good human being and a 'liar'","1990MIN.EVA.regular.comment.csv",6
-"MIN199005290",69,"$Greg Gagne lost popup in roof","1990MIN.EVA.regular.comment.csv",7
-"MIN199005300",12,"$Steve Finley lost double in ceiling","1990MIN.EVA.regular.comment.csv",8
-"MIN199006090",43,"ej,kellt101,M,joycj901,Balls and strikes ej,manrf001,P,joycj901,Balls and strikes Fred Manrique and Twins manager Tom Kelly ejected by HP umpire Jim Joyce when the second pitch was called a strike","1990MIN.EVA.regular.comment.csv",9
-"MIN199006220",19,"$HP umpire Al Clark removed the bat of Steve Jeltz for too much pine tar","1990MIN.EVA.regular.comment.csv",10
-"MIN199006250",1,"Debut game for Scott Erickson","1990MIN.EVA.regular.comment.csv",11
-"MIN199006290",77,"ej,gladd001,P,coont901,Called third strike Dan Gladden ejected by HP umpire Terry Cooney after the game was over for arguing the called third strike","1990MIN.EVA.regular.comment.csv",12
-"MIN199007240",36,"$Shane Mack lost the ball in the roof","1990MIN.EVA.regular.comment.csv",13
-"MIN199007250",65,"$Junior Ortiz out on fan interference","1990MIN.EVA.regular.comment.csv",14
-"MIN199007310",27,"ej,raded103,M,mcclt901,Call at HP Angels manager Doug Rader ejected by HP umpire Tim McClelland arguing the call on Brian Downing at HP","1990MIN.EVA.regular.comment.csv",15
-"MIN199007310",81,"DWS: invented play","1990MIN.EVA.regular.comment.csv",16
-"MIN199007310",87,"DWS: invented play","1990MIN.EVA.regular.comment.csv",17
-"MIN199009010",7,"$Mike Heath dropped pitch, threw to 3B in time but Travis Fryman dropped the ball","1990MIN.EVA.regular.comment.csv",18
-"MIN199009010",20,"Debut game for Pedro Munoz","1990MIN.EVA.regular.comment.csv",19
-"MIN199009010",63,"$Lloyd Moseby called for interference","1990MIN.EVA.regular.comment.csv",20
-"MIN199009090",76,"Debut game for Larry Casian","1990MIN.EVA.regular.comment.csv",21
-"MIN199009170",12,"Debut game for Sean Berry","1990MIN.EVA.regular.comment.csv",22
-"MIN199009180",17,"Debut game for Brent Mayne","1990MIN.EVA.regular.comment.csv",23
-"MIN199009180",73,"Debut game for Dar Smith","1990MIN.EVA.regular.comment.csv",24
-"MIN199009180",75,"Debut game for Rich Garces","1990MIN.EVA.regular.comment.csv",25
-"MIN199009190",84,"$five man infield with Steve Jeltz playing in","1990MIN.EVA.regular.comment.csv",26
-"MIN199009190",86,"$regular alignment in field","1990MIN.EVA.regular.comment.csv",27
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"MIN199004240",16,"$Mike Heath rounded 1B too far","1990MIN.EVA.regular.comment.csv",2
+"MIN199005110",3,"$Greg Gagne shifted behind 2B","1990MIN.EVA.regular.comment.csv",3
+"MIN199005110",4,"$greg Gagne had long run to normal SS position for grounder","1990MIN.EVA.regular.comment.csv",4
+"MIN199005280",2,"$the ball hit off the trash bag in left center","1990MIN.EVA.regular.comment.csv",5
+"MIN199005280",7,"434 feet","1990MIN.EVA.regular.comment.csv",6
+"MIN199005280",64,"ej,robif103,M,cobld901,Arguing too many opposition mound visits $Orioles manager Robinson ejected by HP umpire Coble for arguing that Twins made two mound visits when manager Kelly left mound after changing pitchers and then returned with more instructions; after game Robinson was later suspended for calling umpire Coble a 'no-good human being and a 'liar'","1990MIN.EVA.regular.comment.csv",7
+"MIN199005290",69,"$Greg Gagne lost popup in roof","1990MIN.EVA.regular.comment.csv",8
+"MIN199005300",12,"$Steve Finley lost double in ceiling","1990MIN.EVA.regular.comment.csv",9
+"MIN199006090",43,"ej,kellt101,M,joycj901,Balls and strikes ej,manrf001,P,joycj901,Balls and strikes Fred Manrique and Twins manager Tom Kelly ejected by HP umpire Jim Joyce when the second pitch was called a strike","1990MIN.EVA.regular.comment.csv",10
+"MIN199006220",19,"$HP umpire Al Clark removed the bat of Steve Jeltz for too much pine tar","1990MIN.EVA.regular.comment.csv",11
+"MIN199006250",1,"Debut game for Scott Erickson","1990MIN.EVA.regular.comment.csv",12
+"MIN199006290",77,"ej,gladd001,P,coont901,Called third strike Dan Gladden ejected by HP umpire Terry Cooney after the game was over for arguing the called third strike","1990MIN.EVA.regular.comment.csv",13
+"MIN199007240",36,"$Shane Mack lost the ball in the roof","1990MIN.EVA.regular.comment.csv",14
+"MIN199007250",65,"$Junior Ortiz out on fan interference","1990MIN.EVA.regular.comment.csv",15
+"MIN199007310",27,"ej,raded103,M,mcclt901,Call at HP Angels manager Doug Rader ejected by HP umpire Tim McClelland arguing the call on Brian Downing at HP","1990MIN.EVA.regular.comment.csv",16
+"MIN199007310",81,"DWS: invented play","1990MIN.EVA.regular.comment.csv",17
+"MIN199007310",87,"DWS: invented play","1990MIN.EVA.regular.comment.csv",18
+"MIN199009010",7,"$Mike Heath dropped pitch, threw to 3B in time but Travis Fryman dropped the ball","1990MIN.EVA.regular.comment.csv",19
+"MIN199009010",20,"Debut game for Pedro Munoz","1990MIN.EVA.regular.comment.csv",20
+"MIN199009010",63,"$Lloyd Moseby called for interference","1990MIN.EVA.regular.comment.csv",21
+"MIN199009090",76,"Debut game for Larry Casian","1990MIN.EVA.regular.comment.csv",22
+"MIN199009170",12,"Debut game for Sean Berry","1990MIN.EVA.regular.comment.csv",23
+"MIN199009180",17,"Debut game for Brent Mayne","1990MIN.EVA.regular.comment.csv",24
+"MIN199009180",73,"Debut game for Dar Smith","1990MIN.EVA.regular.comment.csv",25
+"MIN199009180",75,"Debut game for Rich Garces","1990MIN.EVA.regular.comment.csv",26
+"MIN199009190",84,"$five man infield with Steve Jeltz playing in","1990MIN.EVA.regular.comment.csv",27
+"MIN199009190",86,"$regular alignment in field","1990MIN.EVA.regular.comment.csv",28

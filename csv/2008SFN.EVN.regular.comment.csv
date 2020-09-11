@@ -1,31 +1,32 @@
-"SFN200804070",49,"$Barrett left game with strained elbow, onto DL next day","FILENAME_TX","LINE_NUMBER_CT"
-"SFN200804080",62,"ej,hairs001,P,timmt901,Balls and strikes Padres left fielder Scott Hairston ejected by HP umpire Tim Timmons","2008SFN.EVN.regular.comment.csv",2
-"SFN200804080",78,"Debut game for Clay Timpner","2008SFN.EVN.regular.comment.csv",3
-"SFN200804110",23,"fan interference","2008SFN.EVN.regular.comment.csv",4
-"SFN200804120",13,"Debut game for John Bowker","2008SFN.EVN.regular.comment.csv",5
-"SFN200804130",69,"fan interference","2008SFN.EVN.regular.comment.csv",6
-"SFN200804260",2,"Giants pitcher Kevin Correia left the game due to an injured chest","2008SFN.EVN.regular.comment.csv",7
-"SFN200804260",89,"fan interference","2008SFN.EVN.regular.comment.csv",8
-"SFN200804280",7,"ej,hurdc001,M,emmep901,Balk call Rockies Manager Clint Hurdle ejected by HP umpire Paul Emmel","2008SFN.EVN.regular.comment.csv",9
-"SFN200804290",12,"Rockies shortstop Troy Tulowitzki left the game due to an injured leg","2008SFN.EVN.regular.comment.csv",10
-"SFN200804290",54,"ej,bochb002,M,darlg901,Balk call Giants Manager Bruce Bochy ejected by HP umpire Gary Darling","2008SFN.EVN.regular.comment.csv",11
-"SFN200804300",11,"Debut game for Jonathan Herrera","2008SFN.EVN.regular.comment.csv",12
-"SFN200805150",73,"Debut game for Alex Hinshaw","2008SFN.EVN.regular.comment.csv",13
-"SFN200805150",78,"Astros pitcher Geoff Geary left the game due to an injured groin","2008SFN.EVN.regular.comment.csv",14
-"SFN200805300",78,"Debut game for Brian Horwitz","2008SFN.EVN.regular.comment.csv",15
-"SFN200806160",54,"ej,bochb002,M,hallt901,Call at HP Giants Manager Bruce Bochy ejected by HP umpire Tom Hallion for arguing that Bengie Molina had tagged Ivan Rodriguez","2008SFN.EVN.regular.comment.csv",16
-"SFN200806160",69,"fan interference","2008SFN.EVN.regular.comment.csv",17
-"SFN200807030",74,"Debut game for Osiris Matos","2008SFN.EVN.regular.comment.csv",18
-"SFN200807050",1,"fan interference","2008SFN.EVN.regular.comment.csv",19
-"SFN200807180",16,"Giants manager Bruce Bochy argued the call at 1B","2008SFN.EVN.regular.comment.csv",20
-"SFN200807180",34,"ej,bochb002,M,wolfj901,Call at 3B Giants Manager Bruce Bochy ejected by HP umpire Jim Wolf for arguing that Ryan Braun was out at 3B","2008SFN.EVN.regular.comment.csv",21
-"SFN200807200",63,"Debut game for Geno Espineli","2008SFN.EVN.regular.comment.csv",22
-"SFN200807220",14,"fan interference","2008SFN.EVN.regular.comment.csv",23
-"SFN200808100",60,"fan interference","2008SFN.EVN.regular.comment.csv",24
-"SFN200808200",33,"Marlins shortstop Hanley Ramirez left the game due to an injured hand/wrist","2008SFN.EVN.regular.comment.csv",25
-"SFN200808230",1,"Debut game for Dirk Hayhurst","2008SFN.EVN.regular.comment.csv",26
-"SFN200809070",37,"$Sandoval hit a sinking liner to left-center and McClouth dove for the ball; it bounced up into he face, knocking the lens out of his sunglasses and driving the frame into his face; he suffered a laceration above his left eyebrow that required six stitches to close","2008SFN.EVN.regular.comment.csv",27
-"SFN200809090",54,"Debut game for Conor Gillaspie","2008SFN.EVN.regular.comment.csv",28
-"SFN200809260",0,"Protest=H","2008SFN.EVN.regular.comment.csv",29
-"SFN200809260",47,"replay,6,molib001,SFN,welkb901,SFO03,O,Y,I,,H $Bengie Molina's fly ball hit a few feet to the left of the 'Splash Hits' sign in right field; Molina held at first while Pablo Sandoval ran from first to third; Giants manager Bruce Bochy had told Emmanuel Burriss to run for Molina if he got on base, so Burriss immediately popped out of the dugout and replaced Molina; then Omar Vizquel said he thought the ball hit the green metal awning along the right field wall, which is a home run; Bochy saw a baseball with green paint on it and went out to the field to show it to the umpires and asked them to discuss the play; crew chief Bill Welke decided to use the replay system and reversed the call from ball in play to home run; however, he would not allow the Giants to put Molina back in to run out his homer; Bochy protested the game, which became moot because the Giants won the contest; Molina was given credit for a home run and two RBI but no run scored; Burriss ran out the homer and was given credit for the run scored; when he returned to the dugout, Molina greeted him by saying 'Good Swing!'; the total delay was 12 minutes","2008SFN.EVN.regular.comment.csv",30
-"SFN200809270",0,"$J.T. Snow signed a one-day contract with the Giants so he could retire as a Giant","2008SFN.EVN.regular.comment.csv",31
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"SFN200804070",49,"$Barrett left game with strained elbow, onto DL next day","2008SFN.EVN.regular.comment.csv",2
+"SFN200804080",62,"ej,hairs001,P,timmt901,Balls and strikes Padres left fielder Scott Hairston ejected by HP umpire Tim Timmons","2008SFN.EVN.regular.comment.csv",3
+"SFN200804080",78,"Debut game for Clay Timpner","2008SFN.EVN.regular.comment.csv",4
+"SFN200804110",23,"fan interference","2008SFN.EVN.regular.comment.csv",5
+"SFN200804120",13,"Debut game for John Bowker","2008SFN.EVN.regular.comment.csv",6
+"SFN200804130",69,"fan interference","2008SFN.EVN.regular.comment.csv",7
+"SFN200804260",2,"Giants pitcher Kevin Correia left the game due to an injured chest","2008SFN.EVN.regular.comment.csv",8
+"SFN200804260",89,"fan interference","2008SFN.EVN.regular.comment.csv",9
+"SFN200804280",7,"ej,hurdc001,M,emmep901,Balk call Rockies Manager Clint Hurdle ejected by HP umpire Paul Emmel","2008SFN.EVN.regular.comment.csv",10
+"SFN200804290",12,"Rockies shortstop Troy Tulowitzki left the game due to an injured leg","2008SFN.EVN.regular.comment.csv",11
+"SFN200804290",54,"ej,bochb002,M,darlg901,Balk call Giants Manager Bruce Bochy ejected by HP umpire Gary Darling","2008SFN.EVN.regular.comment.csv",12
+"SFN200804300",11,"Debut game for Jonathan Herrera","2008SFN.EVN.regular.comment.csv",13
+"SFN200805150",73,"Debut game for Alex Hinshaw","2008SFN.EVN.regular.comment.csv",14
+"SFN200805150",78,"Astros pitcher Geoff Geary left the game due to an injured groin","2008SFN.EVN.regular.comment.csv",15
+"SFN200805300",78,"Debut game for Brian Horwitz","2008SFN.EVN.regular.comment.csv",16
+"SFN200806160",54,"ej,bochb002,M,hallt901,Call at HP Giants Manager Bruce Bochy ejected by HP umpire Tom Hallion for arguing that Bengie Molina had tagged Ivan Rodriguez","2008SFN.EVN.regular.comment.csv",17
+"SFN200806160",69,"fan interference","2008SFN.EVN.regular.comment.csv",18
+"SFN200807030",74,"Debut game for Osiris Matos","2008SFN.EVN.regular.comment.csv",19
+"SFN200807050",1,"fan interference","2008SFN.EVN.regular.comment.csv",20
+"SFN200807180",16,"Giants manager Bruce Bochy argued the call at 1B","2008SFN.EVN.regular.comment.csv",21
+"SFN200807180",34,"ej,bochb002,M,wolfj901,Call at 3B Giants Manager Bruce Bochy ejected by HP umpire Jim Wolf for arguing that Ryan Braun was out at 3B","2008SFN.EVN.regular.comment.csv",22
+"SFN200807200",63,"Debut game for Geno Espineli","2008SFN.EVN.regular.comment.csv",23
+"SFN200807220",14,"fan interference","2008SFN.EVN.regular.comment.csv",24
+"SFN200808100",60,"fan interference","2008SFN.EVN.regular.comment.csv",25
+"SFN200808200",33,"Marlins shortstop Hanley Ramirez left the game due to an injured hand/wrist","2008SFN.EVN.regular.comment.csv",26
+"SFN200808230",1,"Debut game for Dirk Hayhurst","2008SFN.EVN.regular.comment.csv",27
+"SFN200809070",37,"$Sandoval hit a sinking liner to left-center and McClouth dove for the ball; it bounced up into he face, knocking the lens out of his sunglasses and driving the frame into his face; he suffered a laceration above his left eyebrow that required six stitches to close","2008SFN.EVN.regular.comment.csv",28
+"SFN200809090",54,"Debut game for Conor Gillaspie","2008SFN.EVN.regular.comment.csv",29
+"SFN200809260",0,"Protest=H","2008SFN.EVN.regular.comment.csv",30
+"SFN200809260",47,"replay,6,molib001,SFN,welkb901,SFO03,O,Y,I,,H $Bengie Molina's fly ball hit a few feet to the left of the 'Splash Hits' sign in right field; Molina held at first while Pablo Sandoval ran from first to third; Giants manager Bruce Bochy had told Emmanuel Burriss to run for Molina if he got on base, so Burriss immediately popped out of the dugout and replaced Molina; then Omar Vizquel said he thought the ball hit the green metal awning along the right field wall, which is a home run; Bochy saw a baseball with green paint on it and went out to the field to show it to the umpires and asked them to discuss the play; crew chief Bill Welke decided to use the replay system and reversed the call from ball in play to home run; however, he would not allow the Giants to put Molina back in to run out his homer; Bochy protested the game, which became moot because the Giants won the contest; Molina was given credit for a home run and two RBI but no run scored; Burriss ran out the homer and was given credit for the run scored; when he returned to the dugout, Molina greeted him by saying 'Good Swing!'; the total delay was 12 minutes","2008SFN.EVN.regular.comment.csv",31
+"SFN200809270",0,"$J.T. Snow signed a one-day contract with the Giants so he could retire as a Giant","2008SFN.EVN.regular.comment.csv",32

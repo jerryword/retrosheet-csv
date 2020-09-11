@@ -1,22 +1,23 @@
-"CAL198704070",1,"Debut game for Donell Nixon","FILENAME_TX","LINE_NUMBER_CT"
-"CAL198704170",25,"$ball knocked out of Gary Pettis' glove when he ran into wall","1987CAL.EVA.regular.comment.csv",2
-"CAL198704170",50,"$Devon White caught the ball over the fence","1987CAL.EVA.regular.comment.csv",3
-"CAL198704220",50,"$Dwayne Murphy and Mike Davis collide and both hurt","1987CAL.EVA.regular.comment.csv",4
-"CAL198704280",56,"ej,candj001,P,reilm901,Balls and strikes $Angels Candelaria ejected by HP umpire Reilly for arguing ball call to Yount","1987CAL.EVA.regular.comment.csv",5
-"CAL198704300",73,"Debut game for Miguel Garcia","1987CAL.EVA.regular.comment.csv",6
-"CAL198705030",24,"$Mark McLemore stole 3b when Marc Sullivan failed to call time before arguing","1987CAL.EVA.regular.comment.csv",7
-"CAL198705160",75,"Debut game for Bryan Harvey","1987CAL.EVA.regular.comment.csv",8
-"CAL198705190",71,"ej,willj107,M,younl901,Call at 1B $Blue Jays manager Williams ejected by 1B umpire Young for arguing McLemore was out at 1st","1987CAL.EVA.regular.comment.csv",9
-"CAL198706100",15,"ej,decid001,P,fordd901,Balls and strikes Doug DeCinces ejected by HP umpire Dale Ford when the second pitch was called a strike","1987CAL.EVA.regular.comment.csv",10
-"CAL198706170",27,"$pickoff throw dropped, then SS threw into CF during rundown","1987CAL.EVA.regular.comment.csv",11
-"CAL198706170",41,"$pickoff throw hit Doug DeCinces","1987CAL.EVA.regular.comment.csv",12
-"CAL198707050",75,"ej,mannr001,P,hirsj901,Checked swing ej,etcha101,C,hirsj901,Checked swing Rick Manning ejected by 3B umpire John Hirschbeck from the bench for protesting the ruling on a checked swing on the 2-2 pitch to Devon White; Brewers coach Andy Etchebarren ejected by HP umpire Richie Garcia for continuing to protest the checked swing call","1987CAL.EVA.regular.comment.csv",13
-"CAL198708030",38,"ej,niekj001,P,phild901,Scuffing the ball Joe Niekro ejected by 1B umpire Dave Phillips for scuffing baseballs; after the 1-1 pitch, HP umpire Tim Tschida picked up the ball when it popped out of catcher Sal Butera's glove; Tschida had already saved a few balls as proof of scuffing; after examing this one, Tschida walked to the mound and Niekro tried to walk away with his hands in his pockets; he was ordered to empty his pockets and an emery board and some sandpaper fell onto the ground; Niekro claimed they were to manicure his finger nails; Niekro was suspended for 10 days","1987CAL.EVA.regular.comment.csv",14
-"CAL198708160",57,"ej,lansc001,P,mckej901,Balls and strikes $Athletics Lansford ejected by HP umpire McKean for arguing balls and strikes","1987CAL.EVA.regular.comment.csv",15
-"CAL198708190",45,"ej,joner002,P,scotd901,Call at 1B Ruppert Jones ejected by 1B umpire Dale Scott","1987CAL.EVA.regular.comment.csv",16
-"CAL198708200",33,"$Bob Boone called for interference for running into his own batted ball","1987CAL.EVA.regular.comment.csv",17
-"CAL198709080",65,"Debut game for Jim Eppard","1987CAL.EVA.regular.comment.csv",18
-"CAL198709100",67,"Debut game for Greg Tabor","1987CAL.EVA.regular.comment.csv",19
-"CAL198709120",28,"$Dave Meier dropped ball trying to make basket catch","1987CAL.EVA.regular.comment.csv",20
-"CAL198709120",38,"$Dick Schofield rounded 2B too far","1987CAL.EVA.regular.comment.csv",21
-"CAL198710020",45,"$Ruppert Jones caught ball over wall","1987CAL.EVA.regular.comment.csv",22
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"CAL198704070",1,"Debut game for Donell Nixon","1987CAL.EVA.regular.comment.csv",2
+"CAL198704170",25,"$ball knocked out of Gary Pettis' glove when he ran into wall","1987CAL.EVA.regular.comment.csv",3
+"CAL198704170",50,"$Devon White caught the ball over the fence","1987CAL.EVA.regular.comment.csv",4
+"CAL198704220",50,"$Dwayne Murphy and Mike Davis collide and both hurt","1987CAL.EVA.regular.comment.csv",5
+"CAL198704280",56,"ej,candj001,P,reilm901,Balls and strikes $Angels Candelaria ejected by HP umpire Reilly for arguing ball call to Yount","1987CAL.EVA.regular.comment.csv",6
+"CAL198704300",73,"Debut game for Miguel Garcia","1987CAL.EVA.regular.comment.csv",7
+"CAL198705030",24,"$Mark McLemore stole 3b when Marc Sullivan failed to call time before arguing","1987CAL.EVA.regular.comment.csv",8
+"CAL198705160",75,"Debut game for Bryan Harvey","1987CAL.EVA.regular.comment.csv",9
+"CAL198705190",71,"ej,willj107,M,younl901,Call at 1B $Blue Jays manager Williams ejected by 1B umpire Young for arguing McLemore was out at 1st","1987CAL.EVA.regular.comment.csv",10
+"CAL198706100",15,"ej,decid001,P,fordd901,Balls and strikes Doug DeCinces ejected by HP umpire Dale Ford when the second pitch was called a strike","1987CAL.EVA.regular.comment.csv",11
+"CAL198706170",27,"$pickoff throw dropped, then SS threw into CF during rundown","1987CAL.EVA.regular.comment.csv",12
+"CAL198706170",41,"$pickoff throw hit Doug DeCinces","1987CAL.EVA.regular.comment.csv",13
+"CAL198707050",75,"ej,mannr001,P,hirsj901,Checked swing ej,etcha101,C,hirsj901,Checked swing Rick Manning ejected by 3B umpire John Hirschbeck from the bench for protesting the ruling on a checked swing on the 2-2 pitch to Devon White; Brewers coach Andy Etchebarren ejected by HP umpire Richie Garcia for continuing to protest the checked swing call","1987CAL.EVA.regular.comment.csv",14
+"CAL198708030",38,"ej,niekj001,P,phild901,Scuffing the ball Joe Niekro ejected by 1B umpire Dave Phillips for scuffing baseballs; after the 1-1 pitch, HP umpire Tim Tschida picked up the ball when it popped out of catcher Sal Butera's glove; Tschida had already saved a few balls as proof of scuffing; after examing this one, Tschida walked to the mound and Niekro tried to walk away with his hands in his pockets; he was ordered to empty his pockets and an emery board and some sandpaper fell onto the ground; Niekro claimed they were to manicure his finger nails; Niekro was suspended for 10 days","1987CAL.EVA.regular.comment.csv",15
+"CAL198708160",57,"ej,lansc001,P,mckej901,Balls and strikes $Athletics Lansford ejected by HP umpire McKean for arguing balls and strikes","1987CAL.EVA.regular.comment.csv",16
+"CAL198708190",45,"ej,joner002,P,scotd901,Call at 1B Ruppert Jones ejected by 1B umpire Dale Scott","1987CAL.EVA.regular.comment.csv",17
+"CAL198708200",33,"$Bob Boone called for interference for running into his own batted ball","1987CAL.EVA.regular.comment.csv",18
+"CAL198709080",65,"Debut game for Jim Eppard","1987CAL.EVA.regular.comment.csv",19
+"CAL198709100",67,"Debut game for Greg Tabor","1987CAL.EVA.regular.comment.csv",20
+"CAL198709120",28,"$Dave Meier dropped ball trying to make basket catch","1987CAL.EVA.regular.comment.csv",21
+"CAL198709120",38,"$Dick Schofield rounded 2B too far","1987CAL.EVA.regular.comment.csv",22
+"CAL198710020",45,"$Ruppert Jones caught ball over wall","1987CAL.EVA.regular.comment.csv",23

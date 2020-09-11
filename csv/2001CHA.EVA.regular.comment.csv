@@ -1,36 +1,37 @@
-"CHA200104060",0,"unspecified delay somewhere in this game","FILENAME_TX","LINE_NUMBER_CT"
-"CHA200104090",56,"Woodard hit above elbow, leaves on stretcher, DL","2001CHA.EVA.regular.comment.csv",2
-"CHA200104110",42,"12 minute rain delay","2001CHA.EVA.regular.comment.csv",3
-"CHA200104110",77,"ej,manuc101,M,froeb901,Called third strike White Sox Manager Jerry Manuel ejected by HP umpire Bruce Froemming","2001CHA.EVA.regular.comment.csv",4
-"CHA200104240",17,"$almost triple play, but throw to 1B went into dugout","2001CHA.EVA.regular.comment.csv",5
-"CHA200104260",29,"$great play by Durham sitting on ground","2001CHA.EVA.regular.comment.csv",6
-"CHA200104270",11,"originally scored as single, changes 3 ER to unearned","2001CHA.EVA.regular.comment.csv",7
-"CHA200104270",14,"$Frank Thomas strained tricep diving for grounder, which he deflected into foul ground for a double","2001CHA.EVA.regular.comment.csv",8
-"CHA200104270",74,"$Edgar Martinez injured ankle in slide into second","2001CHA.EVA.regular.comment.csv",9
-"CHA200104270",84,"ej,konep001,P,craft901,Balls and strikes Paul Konerko ejected by HP umpire Terry Craft","2001CHA.EVA.regular.comment.csv",10
-"CHA200104280",54,"Off McLemore's glove; he dived to base, nearly got runner","2001CHA.EVA.regular.comment.csv",11
-"CHA200105090",77,"Debut game for Jamie Burke","2001CHA.EVA.regular.comment.csv",12
-"CHA200105290",4,"$Singleton left with irritation in right Achilles' tendon, injury suffered in batting practice","2001CHA.EVA.regular.comment.csv",13
-"CHA200105290",40,"$Liefer ran through stop sign, out easily","2001CHA.EVA.regular.comment.csv",14
-"CHA200105300",68,"$broken bat chopper; Valentin ducked under Castillo's arm in his slide and got his foot on the plate before the tag","2001CHA.EVA.regular.comment.csv",15
-"CHA200106030",5,"$Cedeno left with back spasms","2001CHA.EVA.regular.comment.csv",16
-"CHA200106030",82,"ej,garnp001,M,bonig901,Called third strike ej,palmd002,P,bonig901,Called third strike $Palmer and Tigers Manager Garner ejected by HP umpire Bonin for arguing called third strike","2001CHA.EVA.regular.comment.csv",17
-"CHA200106080",5,"$Wells left with back spasms","2001CHA.EVA.regular.comment.csv",18
-"CHA200106080",8,"Valentin pulled hamstring rounding first","2001CHA.EVA.regular.comment.csv",19
-"CHA200106100",21,"ej,manuj101,M,wendh902,Reversal of call $originally no call by HP umpire Hunter Wendelstedt but Sammy Sosa kept pointing to his arm and finally Wendelstedt ruled he was hit; White Sox Manager Jerry Manuel rushed out and was very animated while arguing and was ejected by Wendelstedt","2001CHA.EVA.regular.comment.csv",20
-"CHA200106140",67,"This is one of the questionable Elias catcher's interference earned runs.","2001CHA.EVA.regular.comment.csv",21
-"CHA200107010",29,"$hit on wrist, left game next inning. X-ray negative","2001CHA.EVA.regular.comment.csv",22
-"CHA200107060",6,"$Valentin reaggravated left hamstring strain","2001CHA.EVA.regular.comment.csv",23
-"CHA200107080",6,"umpchange,1,umphome,mcclt901 umpchange,1,ump1b,emmep901 umpchange,1,ump2b,(None) $Carlos Lee fouled off the fourth pitch and hit HP umpire Lance Barksdale on the back of the head with his backswing; Barksdale was treated by the White Sox trainers and immediately left the game. After a 10-minute delay, Tim McClelland changed into his plate gear and took over for Barksdale; the latter tried to return in the top of the third but was told no by McClelland as a precaution","2001CHA.EVA.regular.comment.csv",24
-"CHA200108030",36,"$hit on helmet","2001CHA.EVA.regular.comment.csv",25
-"CHA200108190",36,"ej,manuj101,M,fichm901,Balls and strikes $White Sox manager Manuel ejected by HP umpire Fichter for arguing ball 4 call to Menechino","2001CHA.EVA.regular.comment.csv",26
-"CHA200109020",21,"originally scored as E1","2001CHA.EVA.regular.comment.csv",27
-"CHA200109020",45,"ej,frymt001,P,rungb901,Balls and strikes Travis Fryman ejected by HP umpire Brian Runge","2001CHA.EVA.regular.comment.csv",28
-"CHA200109020",87,"Debut game for Josh Fogg","2001CHA.EVA.regular.comment.csv",29
-"CHA200109042",17,"Debut game for Chris Wakeland","2001CHA.EVA.regular.comment.csv",30
-"CHA200109180",44,"ej,pettg001,C,wintm901,Fair/foul call $with 3-2 count, Ray Durham hit the ball down the 1B line which was called foul; 1B coach Gary Pettis argued and was ejected by 1B umpire Mike Winters","2001CHA.EVA.regular.comment.csv",31
-"CHA200109180",45,"ej,durhr001,P,wintm901,Fair/foul call $Ray Durham slams bat repeatedly against wall in dugout and is ejected by 1B umpire Mike Winters; he storms onto the field and is restrained by Jose Valentin","2001CHA.EVA.regular.comment.csv",32
-"CHA200109200",3,"ej,zimmd101,C,drakr901,Bench jockeying $Yankees coach Zimmer ejected by 1B umpire Drake for bench jockeying after Williams hit by pitch","2001CHA.EVA.regular.comment.csv",33
-"CHA200109220",1,"Debut game for Mike MacDougal","2001CHA.EVA.regular.comment.csv",34
-"CHA200109230",23,"ej,nippa001,C,onorb901,Length of mound visit $Royals coach Nipper ejected by HP umpire O'Nora for arguing about length of mound visit after Konerko's walk","2001CHA.EVA.regular.comment.csv",35
-"CHA200109250",68,"$Torii Hunter out on appeal for leaving 1B too soon","2001CHA.EVA.regular.comment.csv",36
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"CHA200104060",0,"unspecified delay somewhere in this game","2001CHA.EVA.regular.comment.csv",2
+"CHA200104090",56,"Woodard hit above elbow, leaves on stretcher, DL","2001CHA.EVA.regular.comment.csv",3
+"CHA200104110",42,"12 minute rain delay","2001CHA.EVA.regular.comment.csv",4
+"CHA200104110",77,"ej,manuc101,M,froeb901,Called third strike White Sox Manager Jerry Manuel ejected by HP umpire Bruce Froemming","2001CHA.EVA.regular.comment.csv",5
+"CHA200104240",17,"$almost triple play, but throw to 1B went into dugout","2001CHA.EVA.regular.comment.csv",6
+"CHA200104260",29,"$great play by Durham sitting on ground","2001CHA.EVA.regular.comment.csv",7
+"CHA200104270",11,"originally scored as single, changes 3 ER to unearned","2001CHA.EVA.regular.comment.csv",8
+"CHA200104270",14,"$Frank Thomas strained tricep diving for grounder, which he deflected into foul ground for a double","2001CHA.EVA.regular.comment.csv",9
+"CHA200104270",74,"$Edgar Martinez injured ankle in slide into second","2001CHA.EVA.regular.comment.csv",10
+"CHA200104270",84,"ej,konep001,P,craft901,Balls and strikes Paul Konerko ejected by HP umpire Terry Craft","2001CHA.EVA.regular.comment.csv",11
+"CHA200104280",54,"Off McLemore's glove; he dived to base, nearly got runner","2001CHA.EVA.regular.comment.csv",12
+"CHA200105090",77,"Debut game for Jamie Burke","2001CHA.EVA.regular.comment.csv",13
+"CHA200105290",4,"$Singleton left with irritation in right Achilles' tendon, injury suffered in batting practice","2001CHA.EVA.regular.comment.csv",14
+"CHA200105290",40,"$Liefer ran through stop sign, out easily","2001CHA.EVA.regular.comment.csv",15
+"CHA200105300",68,"$broken bat chopper; Valentin ducked under Castillo's arm in his slide and got his foot on the plate before the tag","2001CHA.EVA.regular.comment.csv",16
+"CHA200106030",5,"$Cedeno left with back spasms","2001CHA.EVA.regular.comment.csv",17
+"CHA200106030",82,"ej,garnp001,M,bonig901,Called third strike ej,palmd002,P,bonig901,Called third strike $Palmer and Tigers Manager Garner ejected by HP umpire Bonin for arguing called third strike","2001CHA.EVA.regular.comment.csv",18
+"CHA200106080",5,"$Wells left with back spasms","2001CHA.EVA.regular.comment.csv",19
+"CHA200106080",8,"Valentin pulled hamstring rounding first","2001CHA.EVA.regular.comment.csv",20
+"CHA200106100",21,"ej,manuj101,M,wendh902,Reversal of call $originally no call by HP umpire Hunter Wendelstedt but Sammy Sosa kept pointing to his arm and finally Wendelstedt ruled he was hit; White Sox Manager Jerry Manuel rushed out and was very animated while arguing and was ejected by Wendelstedt","2001CHA.EVA.regular.comment.csv",21
+"CHA200106140",67,"This is one of the questionable Elias catcher's interference earned runs.","2001CHA.EVA.regular.comment.csv",22
+"CHA200107010",29,"$hit on wrist, left game next inning. X-ray negative","2001CHA.EVA.regular.comment.csv",23
+"CHA200107060",6,"$Valentin reaggravated left hamstring strain","2001CHA.EVA.regular.comment.csv",24
+"CHA200107080",6,"umpchange,1,umphome,mcclt901 umpchange,1,ump1b,emmep901 umpchange,1,ump2b,(None) $Carlos Lee fouled off the fourth pitch and hit HP umpire Lance Barksdale on the back of the head with his backswing; Barksdale was treated by the White Sox trainers and immediately left the game. After a 10-minute delay, Tim McClelland changed into his plate gear and took over for Barksdale; the latter tried to return in the top of the third but was told no by McClelland as a precaution","2001CHA.EVA.regular.comment.csv",25
+"CHA200108030",36,"$hit on helmet","2001CHA.EVA.regular.comment.csv",26
+"CHA200108190",36,"ej,manuj101,M,fichm901,Balls and strikes $White Sox manager Manuel ejected by HP umpire Fichter for arguing ball 4 call to Menechino","2001CHA.EVA.regular.comment.csv",27
+"CHA200109020",21,"originally scored as E1","2001CHA.EVA.regular.comment.csv",28
+"CHA200109020",45,"ej,frymt001,P,rungb901,Balls and strikes Travis Fryman ejected by HP umpire Brian Runge","2001CHA.EVA.regular.comment.csv",29
+"CHA200109020",87,"Debut game for Josh Fogg","2001CHA.EVA.regular.comment.csv",30
+"CHA200109042",17,"Debut game for Chris Wakeland","2001CHA.EVA.regular.comment.csv",31
+"CHA200109180",44,"ej,pettg001,C,wintm901,Fair/foul call $with 3-2 count, Ray Durham hit the ball down the 1B line which was called foul; 1B coach Gary Pettis argued and was ejected by 1B umpire Mike Winters","2001CHA.EVA.regular.comment.csv",32
+"CHA200109180",45,"ej,durhr001,P,wintm901,Fair/foul call $Ray Durham slams bat repeatedly against wall in dugout and is ejected by 1B umpire Mike Winters; he storms onto the field and is restrained by Jose Valentin","2001CHA.EVA.regular.comment.csv",33
+"CHA200109200",3,"ej,zimmd101,C,drakr901,Bench jockeying $Yankees coach Zimmer ejected by 1B umpire Drake for bench jockeying after Williams hit by pitch","2001CHA.EVA.regular.comment.csv",34
+"CHA200109220",1,"Debut game for Mike MacDougal","2001CHA.EVA.regular.comment.csv",35
+"CHA200109230",23,"ej,nippa001,C,onorb901,Length of mound visit $Royals coach Nipper ejected by HP umpire O'Nora for arguing about length of mound visit after Konerko's walk","2001CHA.EVA.regular.comment.csv",36
+"CHA200109250",68,"$Torii Hunter out on appeal for leaving 1B too soon","2001CHA.EVA.regular.comment.csv",37

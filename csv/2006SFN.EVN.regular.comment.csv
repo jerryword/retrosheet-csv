@@ -1,27 +1,28 @@
-"SFN200604060",12,"Giants pitcher Noah Lowry left the game due to an injured back","FILENAME_TX","LINE_NUMBER_CT"
-"SFN200604070",61,"ej,cox-b103,M,gibsg901,Balls and strikes Braves Manager Bobby Cox ejected by 1B umpire Greg Gibson","2006SFN.EVN.regular.comment.csv",2
-"SFN200604090",57,"Braves second baseman Marcus Giles left the game due to a sore right quadriceps","2006SFN.EVN.regular.comment.csv",3
-"SFN200604090",60,"Braves third baseman Chipper Jones left the game due to an injured foot/ankle","2006SFN.EVN.regular.comment.csv",4
-"SFN200604131",0,"rain delayed start until 9:01","2006SFN.EVN.regular.comment.csv",5
-"SFN200604131",17,"Astros pitcher Brandon Backe left the game due to an injured elbow","2006SFN.EVN.regular.comment.csv",6
-"SFN200604240",44,"fan interference","2006SFN.EVN.regular.comment.csv",7
-"SFN200604260",54,"Mets pitcher Brian Bannister left the game due to an injured leg","2006SFN.EVN.regular.comment.csv",8
-"SFN200605240",40,"$homer on first pitch of first ML AB for Wainwright","2006SFN.EVN.regular.comment.csv",9
-"SFN200605260",11,"Rockies second baseman Luis A. Gonzalez left the game due to an injured hand/wrist","2006SFN.EVN.regular.comment.csv",10
-"SFN200605260",41,"Rockies left fielder Matt Holliday left the game due to an injured hand/wrist","2006SFN.EVN.regular.comment.csv",11
-"SFN200606100",11,"ej,sancf001,P,reedr901,Called third strike $ Sanchez ejected by HP umpire Reed for arguing called third strike","2006SFN.EVN.regular.comment.csv",12
-"SFN200606110",32,"Pirates right fielder Jeromy Burnitz left the game due to an injured leg","2006SFN.EVN.regular.comment.csv",13
-"SFN200606240",77,"fan interference","2006SFN.EVN.regular.comment.csv",14
-"SFN200606250",18,"Giants left fielder Barry Bonds left the game due to an injured knee","2006SFN.EVN.regular.comment.csv",15
-"SFN200606270",45,"ej,younm003,P,younl901,Called third strike ej,showb801,M,younl901,Called third strike $Young and manager Showalter ejected by HP umpire Young for arguing called third strike","2006SFN.EVN.regular.comment.csv",16
-"SFN200606270",81,"ej,teixm001,P,hallt901,Fair/foul call ej,derom001,P,hallt901,Fair/foul call $Teixeira ejected by 1B umpire Hallion for arguing that his grounder on 0-2 pitch was fair; Rangers DeRosa also ejected Hallion for running onto field to argue","2006SFN.EVN.regular.comment.csv",17
-"SFN200607160",47,"Giants second baseman Ray Durham left the game due to an injured neck/shoulder","2006SFN.EVN.regular.comment.csv",18
-"SFN200607210",7,"Bonds hit on Knee by pitch","2006SFN.EVN.regular.comment.csv",19
-"SFN200607210",25,"Giants left fielder Barry Bonds left the game due to an injured knee","2006SFN.EVN.regular.comment.csv",20
-"SFN200607220",48,"Giants right fielder Moises Alou left the game due to an injured leg","2006SFN.EVN.regular.comment.csv",21
-"SFN200607310",28,"ej,aloum001,P,gormb901,Called third strike $Alou ejected by HP umpire Gorman for arguing called third strike","2006SFN.EVN.regular.comment.csv",22
-"SFN200608040",26,"Durham left with a migraine headache","2006SFN.EVN.regular.comment.csv",23
-"SFN200608040",67,"ej,bondb001,P,kulpr901,Balls and strikes Barry Bonds ejected by HP umpire Ron Kulpa after complaining on called strike; he refused to leave dugout and game was delayed for 11 minutes as fans threw debris on field","2006SFN.EVN.regular.comment.csv",24
-"SFN200608050",40,"ej,hurdc001,M,iassd901,Interference call $Clint Barmes swung at a pitchout to protect Jamey Carroll on a stolen base attempt but hit Todd Greene's mitt; Barmes called for interference by HP umpire Dan Iassogna; Rockies Manager Clint Hurdle ejected by Iassogna","2006SFN.EVN.regular.comment.csv",25
-"SFN200609120",22,"tag by pitcher","2006SFN.EVN.regular.comment.csv",26
-"SFN200609120",76,"Chulk left with right groin injury","2006SFN.EVN.regular.comment.csv",27
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"SFN200604060",12,"Giants pitcher Noah Lowry left the game due to an injured back","2006SFN.EVN.regular.comment.csv",2
+"SFN200604070",61,"ej,cox-b103,M,gibsg901,Balls and strikes Braves Manager Bobby Cox ejected by 1B umpire Greg Gibson","2006SFN.EVN.regular.comment.csv",3
+"SFN200604090",57,"Braves second baseman Marcus Giles left the game due to a sore right quadriceps","2006SFN.EVN.regular.comment.csv",4
+"SFN200604090",60,"Braves third baseman Chipper Jones left the game due to an injured foot/ankle","2006SFN.EVN.regular.comment.csv",5
+"SFN200604131",0,"rain delayed start until 9:01","2006SFN.EVN.regular.comment.csv",6
+"SFN200604131",17,"Astros pitcher Brandon Backe left the game due to an injured elbow","2006SFN.EVN.regular.comment.csv",7
+"SFN200604240",44,"fan interference","2006SFN.EVN.regular.comment.csv",8
+"SFN200604260",54,"Mets pitcher Brian Bannister left the game due to an injured leg","2006SFN.EVN.regular.comment.csv",9
+"SFN200605240",40,"$homer on first pitch of first ML AB for Wainwright","2006SFN.EVN.regular.comment.csv",10
+"SFN200605260",11,"Rockies second baseman Luis A. Gonzalez left the game due to an injured hand/wrist","2006SFN.EVN.regular.comment.csv",11
+"SFN200605260",41,"Rockies left fielder Matt Holliday left the game due to an injured hand/wrist","2006SFN.EVN.regular.comment.csv",12
+"SFN200606100",11,"ej,sancf001,P,reedr901,Called third strike $ Sanchez ejected by HP umpire Reed for arguing called third strike","2006SFN.EVN.regular.comment.csv",13
+"SFN200606110",32,"Pirates right fielder Jeromy Burnitz left the game due to an injured leg","2006SFN.EVN.regular.comment.csv",14
+"SFN200606240",77,"fan interference","2006SFN.EVN.regular.comment.csv",15
+"SFN200606250",18,"Giants left fielder Barry Bonds left the game due to an injured knee","2006SFN.EVN.regular.comment.csv",16
+"SFN200606270",45,"ej,younm003,P,younl901,Called third strike ej,showb801,M,younl901,Called third strike $Young and manager Showalter ejected by HP umpire Young for arguing called third strike","2006SFN.EVN.regular.comment.csv",17
+"SFN200606270",81,"ej,teixm001,P,hallt901,Fair/foul call ej,derom001,P,hallt901,Fair/foul call $Teixeira ejected by 1B umpire Hallion for arguing that his grounder on 0-2 pitch was fair; Rangers DeRosa also ejected Hallion for running onto field to argue","2006SFN.EVN.regular.comment.csv",18
+"SFN200607160",47,"Giants second baseman Ray Durham left the game due to an injured neck/shoulder","2006SFN.EVN.regular.comment.csv",19
+"SFN200607210",7,"Bonds hit on Knee by pitch","2006SFN.EVN.regular.comment.csv",20
+"SFN200607210",25,"Giants left fielder Barry Bonds left the game due to an injured knee","2006SFN.EVN.regular.comment.csv",21
+"SFN200607220",48,"Giants right fielder Moises Alou left the game due to an injured leg","2006SFN.EVN.regular.comment.csv",22
+"SFN200607310",28,"ej,aloum001,P,gormb901,Called third strike $Alou ejected by HP umpire Gorman for arguing called third strike","2006SFN.EVN.regular.comment.csv",23
+"SFN200608040",26,"Durham left with a migraine headache","2006SFN.EVN.regular.comment.csv",24
+"SFN200608040",67,"ej,bondb001,P,kulpr901,Balls and strikes Barry Bonds ejected by HP umpire Ron Kulpa after complaining on called strike; he refused to leave dugout and game was delayed for 11 minutes as fans threw debris on field","2006SFN.EVN.regular.comment.csv",25
+"SFN200608050",40,"ej,hurdc001,M,iassd901,Interference call $Clint Barmes swung at a pitchout to protect Jamey Carroll on a stolen base attempt but hit Todd Greene's mitt; Barmes called for interference by HP umpire Dan Iassogna; Rockies Manager Clint Hurdle ejected by Iassogna","2006SFN.EVN.regular.comment.csv",26
+"SFN200609120",22,"tag by pitcher","2006SFN.EVN.regular.comment.csv",27
+"SFN200609120",76,"Chulk left with right groin injury","2006SFN.EVN.regular.comment.csv",28

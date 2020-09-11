@@ -1,30 +1,31 @@
-"PHI196004220",5,"$over the roof","FILENAME_TX","LINE_NUMBER_CT"
-"PHI196004242",19,"Debut game for Clay Dalrymple","1960PHI.EVN.regular.comment.csv",2
-"PHI196004280",38,"$Bob Skinner rounded 2B too far","1960PHI.EVN.regular.comment.csv",3
-"PHI196005160",64,"ej,hemus101,M,boggd901,Call at 1B Cardinals Manager Solly Hemus ejected by 1B umpire Dusty Boggess","1960PHI.EVN.regular.comment.csv",4
-"PHI196005200",0,"58 minute by rain delay before start of game","1960PHI.EVN.regular.comment.csv",5
-"PHI196005200",8,"32 minute rain delay","1960PHI.EVN.regular.comment.csv",6
-"PHI196005220",28,"$lights on","1960PHI.EVN.regular.comment.csv",7
-"PHI196005220",46,"5 minute rain delay","1960PHI.EVN.regular.comment.csv",8
-"PHI196005250",28,"ej,maucg101,M,dascf901,Call at HP Phillies Manager Gene Mauch ejected by HP umpire Frank Dascoli","1960PHI.EVN.regular.comment.csv",9
-"PHI196005250",70,"game called for rain during the top of the ninth inning","1960PHI.EVN.regular.comment.csv",10
-"PHI196006030",22,"$Tony Curry and Joe Koppe collided","1960PHI.EVN.regular.comment.csv",11
-"PHI196006212",0,"Suspend=19600622,,5,7,48 Protest=V","1960PHI.EVN.regular.comment.csv",12
-"PHI196006212",46,"ej,zimmd101,P,varge901,Fan interference $Don Zimmer's wild throw was picked up by a fan; Tony Gonzalez, who was running on the pitch, was allowed to score; Zimmer argued vigorously and was ejected by 1B umpire Ed Vargo; Cubs manager Lou Boudreau protested the game","1960PHI.EVN.regular.comment.csv",13
-"PHI196006212",73,"suspended,19600622,PHI11,curfew Game suspended due to 12:50am curfew and resumed the next day","1960PHI.EVN.regular.comment.csv",14
-"PHI196006292",27,"ej,willm102,P,venzt901,Call at 1B Maury Wills ejected by 1B umpire Tony Venzon","1960PHI.EVN.regular.comment.csv",15
-"PHI196006300",12,"$off light tower","1960PHI.EVN.regular.comment.csv",16
-"PHI196006300",13,"$onto the roof","1960PHI.EVN.regular.comment.csv",17
-"PHI196007150",40,"$Chuck Cottier missed the bag at 2B","1960PHI.EVN.regular.comment.csv",18
-"PHI196008021",50,"Debut game for Sherman Jones","1960PHI.EVN.regular.comment.csv",19
-"PHI196008022",76,"$Turk Farrell called for interference","1960PHI.EVN.regular.comment.csv",20
-"PHI196008100",26,"$Julian Javier dropped the relay throw","1960PHI.EVN.regular.comment.csv",21
-"PHI196008120",27,"ej,maucg101,M,secof901,Balls and strikes $Phillies manager Mauch ejected by HP umpire Secory for for arguing called strike to Curry","1960PHI.EVN.regular.comment.csv",22
-"PHI196009050",44,"ej,hutcf101,M,donaa901,Balls and strikes $Reds manager Hutchinson ejected by HP umpire Donatelli for arguing ball 4 to Malkmus","1960PHI.EVN.regular.comment.csv",23
-"PHI196009060",9,"ej,maucg101,M,burkk101,Called strike 3 $Phillies manager Mauch ejected by HP umpire Burkhart for arguing called 3rd strike to Callison","1960PHI.EVN.regular.comment.csv",24
-"PHI196009080",19,"umpchange,3,umphome,gormt101 umpchange,3,ump1b,smitv101 umpchange,3,ump2b,(None) $HP umpire Boggess left when hit in chest with foul ball; 1B umpire Gorman went behind the plate, 2B umpire Smith moved to 1st and game was finished with 3 umpires","1960PHI.EVN.regular.comment.csv",25
-"PHI196009090",42,"Game called for rain","1960PHI.EVN.regular.comment.csv",26
-"PHI196009100",35,"$Ray Sadecki missed the bag","1960PHI.EVN.regular.comment.csv",27
-"PHI196009131",73,"$ball dropped after John Roseboro tagged out","1960PHI.EVN.regular.comment.csv",28
-"PHI196009132",33,"ej,maucg101,M,craws901,Called third strike Phillies Manager Gene Mauch ejected by HP umpire Shag Crawford","1960PHI.EVN.regular.comment.csv",29
-"PHI196009202",15,"Debut game for Bobby Wine","1960PHI.EVN.regular.comment.csv",30
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"PHI196004220",5,"$over the roof","1960PHI.EVN.regular.comment.csv",2
+"PHI196004242",19,"Debut game for Clay Dalrymple","1960PHI.EVN.regular.comment.csv",3
+"PHI196004280",38,"$Bob Skinner rounded 2B too far","1960PHI.EVN.regular.comment.csv",4
+"PHI196005160",64,"ej,hemus101,M,boggd901,Call at 1B Cardinals Manager Solly Hemus ejected by 1B umpire Dusty Boggess","1960PHI.EVN.regular.comment.csv",5
+"PHI196005200",0,"58 minute by rain delay before start of game","1960PHI.EVN.regular.comment.csv",6
+"PHI196005200",8,"32 minute rain delay","1960PHI.EVN.regular.comment.csv",7
+"PHI196005220",28,"$lights on","1960PHI.EVN.regular.comment.csv",8
+"PHI196005220",46,"5 minute rain delay","1960PHI.EVN.regular.comment.csv",9
+"PHI196005250",28,"ej,maucg101,M,dascf901,Call at HP Phillies Manager Gene Mauch ejected by HP umpire Frank Dascoli","1960PHI.EVN.regular.comment.csv",10
+"PHI196005250",70,"game called for rain during the top of the ninth inning","1960PHI.EVN.regular.comment.csv",11
+"PHI196006030",22,"$Tony Curry and Joe Koppe collided","1960PHI.EVN.regular.comment.csv",12
+"PHI196006212",0,"Suspend=19600622,,5,7,48 Protest=V","1960PHI.EVN.regular.comment.csv",13
+"PHI196006212",46,"ej,zimmd101,P,varge901,Fan interference $Don Zimmer's wild throw was picked up by a fan; Tony Gonzalez, who was running on the pitch, was allowed to score; Zimmer argued vigorously and was ejected by 1B umpire Ed Vargo; Cubs manager Lou Boudreau protested the game","1960PHI.EVN.regular.comment.csv",14
+"PHI196006212",73,"suspended,19600622,PHI11,curfew Game suspended due to 12:50am curfew and resumed the next day","1960PHI.EVN.regular.comment.csv",15
+"PHI196006292",27,"ej,willm102,P,venzt901,Call at 1B Maury Wills ejected by 1B umpire Tony Venzon","1960PHI.EVN.regular.comment.csv",16
+"PHI196006300",12,"$off light tower","1960PHI.EVN.regular.comment.csv",17
+"PHI196006300",13,"$onto the roof","1960PHI.EVN.regular.comment.csv",18
+"PHI196007150",40,"$Chuck Cottier missed the bag at 2B","1960PHI.EVN.regular.comment.csv",19
+"PHI196008021",50,"Debut game for Sherman Jones","1960PHI.EVN.regular.comment.csv",20
+"PHI196008022",76,"$Turk Farrell called for interference","1960PHI.EVN.regular.comment.csv",21
+"PHI196008100",26,"$Julian Javier dropped the relay throw","1960PHI.EVN.regular.comment.csv",22
+"PHI196008120",27,"ej,maucg101,M,secof901,Balls and strikes $Phillies manager Mauch ejected by HP umpire Secory for for arguing called strike to Curry","1960PHI.EVN.regular.comment.csv",23
+"PHI196009050",44,"ej,hutcf101,M,donaa901,Balls and strikes $Reds manager Hutchinson ejected by HP umpire Donatelli for arguing ball 4 to Malkmus","1960PHI.EVN.regular.comment.csv",24
+"PHI196009060",9,"ej,maucg101,M,burkk101,Called strike 3 $Phillies manager Mauch ejected by HP umpire Burkhart for arguing called 3rd strike to Callison","1960PHI.EVN.regular.comment.csv",25
+"PHI196009080",19,"umpchange,3,umphome,gormt101 umpchange,3,ump1b,smitv101 umpchange,3,ump2b,(None) $HP umpire Boggess left when hit in chest with foul ball; 1B umpire Gorman went behind the plate, 2B umpire Smith moved to 1st and game was finished with 3 umpires","1960PHI.EVN.regular.comment.csv",26
+"PHI196009090",42,"Game called for rain","1960PHI.EVN.regular.comment.csv",27
+"PHI196009100",35,"$Ray Sadecki missed the bag","1960PHI.EVN.regular.comment.csv",28
+"PHI196009131",73,"$ball dropped after John Roseboro tagged out","1960PHI.EVN.regular.comment.csv",29
+"PHI196009132",33,"ej,maucg101,M,craws901,Called third strike Phillies Manager Gene Mauch ejected by HP umpire Shag Crawford","1960PHI.EVN.regular.comment.csv",30
+"PHI196009202",15,"Debut game for Bobby Wine","1960PHI.EVN.regular.comment.csv",31

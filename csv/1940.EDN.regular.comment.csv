@@ -1,24 +1,25 @@
-"BSN194004280",64,"$West hand hurt","FILENAME_TX","LINE_NUMBER_CT"
-"PHI194005200",26,"ej,martj102,P,balll901,Call at 1B $Marty ejected by 1B umpire Campbell for arguing he was safe","1940.EDN.regular.comment.csv",2
-"PHI194005200",68,"ej,ellib103,P,campb901,Call at 1B ej,frisf101,M,campb901,Call at 1B $Elliott and Pirate manager Frisch ejected by 1b umpire Campbell for aruging call at 1b","1940.EDN.regular.comment.csv",3
-"PHI194005200",73,"$Brown left with strained arm","1940.EDN.regular.comment.csv",4
-"BSN194006232",73,"$Game called for curfew","1940.EDN.regular.comment.csv",5
-"PIT194006070",22,"ej,frisf101,M,campb901,Call at 2B (Bumped umpire) $Pirate manager Frisch ejected by 1B umpire Campbell for arguing that Handley was safe; Frisch bumped umpire","1940.EDN.regular.comment.csv",6
-"PHI194006220",20,"$Blanton hurt hand warming up","1940.EDN.regular.comment.csv",7
-"CHN194007111",39,"$18 minute rain delay","1940.EDN.regular.comment.csv",8
-"CHN194007111",70,"$Passeau initially stopped at 3B. Hack was trapped between 1B and 2B when Passeau broke for home. The Bees' threw home too late to get Passeau and Hack made it to 2B.","1940.EDN.regular.comment.csv",9
-"SLN194007160",0,"$sln I3,5,7 are interchangeable","1940.EDN.regular.comment.csv",10
-"SLN194007192",0,"Protest=V","1940.EDN.regular.comment.csv",11
-"SLN194007192",28,"$Mueller was apparently forced at 2nd and started to leave field; however, umpires ruled that 2bman Orengo had missed the base; Orengo threw wildly to 1st trying to get the batter; Rizzo was called out for passing Mueller as Mueller was leaving field; Cardinals then tagged out Mueller; play was ruled a double play, Orengo Was charged with error for dropping throw and Phillies played rest of game under protest, which was disallowed","1940.EDN.regular.comment.csv",12
-"NY1194007260",33,"can flip with I7 stewg","1940.EDN.regular.comment.csv",13
-"NY1194007260",77,"$13 minute rain interruption","1940.EDN.regular.comment.csv",14
-"PHI194008020",20,"$Blanton pulled muscle fielding","1940.EDN.regular.comment.csv",15
-"PHI194008020",86,"ej,macfd101,P,klemb901,Balls and strikes $Macfayden ejected by HP umpire Klem on 2-2 count for arguing balls and strikes","1940.EDN.regular.comment.csv",16
-"BSN194007270",31,"$Bowman was overcome by the heat and left game","1940.EDN.regular.comment.csv",17
-"BSN194007281",62,"$Gustine collied with Elliott on Sist's popup and was hurt","1940.EDN.regular.comment.csv",18
-"PIT194008290",3,"$Throw in was deflected to catcher who threw out runner","1940.EDN.regular.comment.csv",19
-"NY1194009052",29,"$off foul pole","1940.EDN.regular.comment.csv",20
-"BSN194009152",80,"$This was the 150th and final win of Dizzy Dean's major-league career","1940.EDN.regular.comment.csv",21
-"CHN194009221",65,"$Carden Gillenwater's major-league debut","1940.EDN.regular.comment.csv",22
-"CHN194009252",44,"ej,frisf101,M,rearb901,Arguing interference call $Elliott bumped into Warstler and was called out for interference; Pirates Manager Frisch disagreed vehemently and was ejected by 1B umpire Reardon","1940.EDN.regular.comment.csv",23
-"BRO194009222",70,"$Game called for darkness","1940.EDN.regular.comment.csv",24
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"BSN194004280",64,"$West hand hurt","1940.EDN.regular.comment.csv",2
+"PHI194005200",26,"ej,martj102,P,balll901,Call at 1B $Marty ejected by 1B umpire Campbell for arguing he was safe","1940.EDN.regular.comment.csv",3
+"PHI194005200",68,"ej,ellib103,P,campb901,Call at 1B ej,frisf101,M,campb901,Call at 1B $Elliott and Pirate manager Frisch ejected by 1b umpire Campbell for aruging call at 1b","1940.EDN.regular.comment.csv",4
+"PHI194005200",73,"$Brown left with strained arm","1940.EDN.regular.comment.csv",5
+"BSN194006232",73,"$Game called for curfew","1940.EDN.regular.comment.csv",6
+"PIT194006070",22,"ej,frisf101,M,campb901,Call at 2B (Bumped umpire) $Pirate manager Frisch ejected by 1B umpire Campbell for arguing that Handley was safe; Frisch bumped umpire","1940.EDN.regular.comment.csv",7
+"PHI194006220",20,"$Blanton hurt hand warming up","1940.EDN.regular.comment.csv",8
+"CHN194007111",39,"$18 minute rain delay","1940.EDN.regular.comment.csv",9
+"CHN194007111",70,"$Passeau initially stopped at 3B. Hack was trapped between 1B and 2B when Passeau broke for home. The Bees' threw home too late to get Passeau and Hack made it to 2B.","1940.EDN.regular.comment.csv",10
+"SLN194007160",0,"$sln I3,5,7 are interchangeable","1940.EDN.regular.comment.csv",11
+"SLN194007192",0,"Protest=V","1940.EDN.regular.comment.csv",12
+"SLN194007192",28,"$Mueller was apparently forced at 2nd and started to leave field; however, umpires ruled that 2bman Orengo had missed the base; Orengo threw wildly to 1st trying to get the batter; Rizzo was called out for passing Mueller as Mueller was leaving field; Cardinals then tagged out Mueller; play was ruled a double play, Orengo Was charged with error for dropping throw and Phillies played rest of game under protest, which was disallowed","1940.EDN.regular.comment.csv",13
+"NY1194007260",33,"can flip with I7 stewg","1940.EDN.regular.comment.csv",14
+"NY1194007260",77,"$13 minute rain interruption","1940.EDN.regular.comment.csv",15
+"PHI194008020",20,"$Blanton pulled muscle fielding","1940.EDN.regular.comment.csv",16
+"PHI194008020",86,"ej,macfd101,P,klemb901,Balls and strikes $Macfayden ejected by HP umpire Klem on 2-2 count for arguing balls and strikes","1940.EDN.regular.comment.csv",17
+"BSN194007270",31,"$Bowman was overcome by the heat and left game","1940.EDN.regular.comment.csv",18
+"BSN194007281",62,"$Gustine collied with Elliott on Sist's popup and was hurt","1940.EDN.regular.comment.csv",19
+"PIT194008290",3,"$Throw in was deflected to catcher who threw out runner","1940.EDN.regular.comment.csv",20
+"NY1194009052",29,"$off foul pole","1940.EDN.regular.comment.csv",21
+"BSN194009152",80,"$This was the 150th and final win of Dizzy Dean's major-league career","1940.EDN.regular.comment.csv",22
+"CHN194009221",65,"$Carden Gillenwater's major-league debut","1940.EDN.regular.comment.csv",23
+"CHN194009252",44,"ej,frisf101,M,rearb901,Arguing interference call $Elliott bumped into Warstler and was called out for interference; Pirates Manager Frisch disagreed vehemently and was ejected by 1B umpire Reardon","1940.EDN.regular.comment.csv",24
+"BRO194009222",70,"$Game called for darkness","1940.EDN.regular.comment.csv",25

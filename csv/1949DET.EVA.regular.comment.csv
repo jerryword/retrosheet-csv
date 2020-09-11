@@ -1,31 +1,32 @@
-"DET194904190",0,"Chilly temperature","FILENAME_TX","LINE_NUMBER_CT"
-"DET194904190",12,"HR distance: 325'","1949DET.EVA.regular.comment.csv",2
-"DET194904190",34,"$Pat Seerey changed direction to avoid the low concrete wall as the ball landed fair by inches; Cass Michaels got to it before Seerey.","1949DET.EVA.regular.comment.csv",3
-"DET194904190",44,"Wind-blown drive eluded Groth","1949DET.EVA.regular.comment.csv",4
-"DET194904190",50,"Off the upper deck in LF, high above 350' mark","1949DET.EVA.regular.comment.csv",5
-"DET194904200",17,"$Gordon Goldsberry intentionally dropped the popup","1949DET.EVA.regular.comment.csv",6
-"DET194905030",135,"$game called for darkness","1949DET.EVA.regular.comment.csv",7
-"DET194905080",21,"$Tommy Henrich rounded 2B too far","1949DET.EVA.regular.comment.csv",8
-"DET194905080",81,"$Tommy Byrne rounded 2B too far","1949DET.EVA.regular.comment.csv",9
-"DET194905100",0,"Very cold and windy Yogi Berra hit in head by throw during infield practice Is knocked out briefly and taken to Henry Ford Hospital Has bruise on right temple, X-rays of head are negative","1949DET.EVA.regular.comment.csv",10
-"DET194905100",18,"Hard smash off Reynolds's pitching hand","1949DET.EVA.regular.comment.csv",11
-"DET194905100",42,"End of NY Sun play-by-play, rest is deduced","1949DET.EVA.regular.comment.csv",12
-"DET194905100",44,"Ball hits Phillips in face and bounces to Coleman","1949DET.EVA.regular.comment.csv",13
-"DET194905100",62,"Newhouser fails to touch first after taking throw","1949DET.EVA.regular.comment.csv",14
-"DET194906080",11,"$Snuffy Stirnweiss dropped the infield fly; he threw the ball to Yogi Berra who stepped on HP and ran to 3B; after Berra tagged Don Kolloway the Yankees insisted this was a triple play but 3B umpire Red Jones  ruled Stirnweiss dropped the ball intentionally","1949DET.EVA.regular.comment.csv",15
-"DET194906080",66,"ej,bartd101,C,hurle901,Balls and strikes Tigers Coach Dick Bartell ejected by HP umpire Eddie Hurley","1949DET.EVA.regular.comment.csv",16
-"DET194906090",10,"$Aaron Robinson struck Yogi Berra with throw during the rundown","1949DET.EVA.regular.comment.csv",17
-"DET194906090",63,"$Dick Kryhoski failed to step on 1B before throwing to HP","1949DET.EVA.regular.comment.csv",18
-"DET194906090",68,"$Johnny Lipon slid into 2B ahead of the throw and Johnny Groth beat the relay from Dick Kryhoiski at HP","1949DET.EVA.regular.comment.csv",19
-"DET194907042",28,"DI invented","1949DET.EVA.regular.comment.csv",20
-"DET194907140",36,"$Dom DiMaggio appeared to be hit by an inside pitch, but HP umpire Bill McKinley ruled he was not struck; DiMaggio and Red Sox manager Joe McCarthy argued the call; DiMaggio was hit on the hand, and would miss several games","1949DET.EVA.regular.comment.csv",21
-"DET194907160",32,"$Williams bunted to beat the shift","1949DET.EVA.regular.comment.csv",22
-"DET194907160",78,"DET194907160 MISSING home 9th","1949DET.EVA.regular.comment.csv",23
-"DET194907190",80,"ej,kuhej101,M,berrc103,Arguing timing of 3rd out $Washington manager Kuhel ejected by HP umpire Berry for arguing ruling that Mele was out at 2nd before Yost crossed plate","1949DET.EVA.regular.comment.csv",24
-"DET194907240",68,"High into the LF upper deck","1949DET.EVA.regular.comment.csv",25
-"DET194908240",19,"Houtteman fouled off 3 fast balls with a 3-2 count","1949DET.EVA.regular.comment.csv",26
-"DET194908240",23,"High into RF upper deck","1949DET.EVA.regular.comment.csv",27
-"DET194908240",67,"Deep into RF upper deck","1949DET.EVA.regular.comment.csv",28
-"DET194908240",82,"Infield hit","1949DET.EVA.regular.comment.csv",29
-"DET194908250",71,"$the ball took a bad bounce and struck Eddie Yost below the right eye","1949DET.EVA.regular.comment.csv",30
-"DET194909020",9,"the fielding credit may not be correct on this play","1949DET.EVA.regular.comment.csv",31
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"DET194904190",0,"Chilly temperature","1949DET.EVA.regular.comment.csv",2
+"DET194904190",12,"HR distance: 325'","1949DET.EVA.regular.comment.csv",3
+"DET194904190",34,"$Pat Seerey changed direction to avoid the low concrete wall as the ball landed fair by inches; Cass Michaels got to it before Seerey.","1949DET.EVA.regular.comment.csv",4
+"DET194904190",44,"Wind-blown drive eluded Groth","1949DET.EVA.regular.comment.csv",5
+"DET194904190",50,"Off the upper deck in LF, high above 350' mark","1949DET.EVA.regular.comment.csv",6
+"DET194904200",17,"$Gordon Goldsberry intentionally dropped the popup","1949DET.EVA.regular.comment.csv",7
+"DET194905030",135,"$game called for darkness","1949DET.EVA.regular.comment.csv",8
+"DET194905080",21,"$Tommy Henrich rounded 2B too far","1949DET.EVA.regular.comment.csv",9
+"DET194905080",81,"$Tommy Byrne rounded 2B too far","1949DET.EVA.regular.comment.csv",10
+"DET194905100",0,"Very cold and windy Yogi Berra hit in head by throw during infield practice Is knocked out briefly and taken to Henry Ford Hospital Has bruise on right temple, X-rays of head are negative","1949DET.EVA.regular.comment.csv",11
+"DET194905100",18,"Hard smash off Reynolds's pitching hand","1949DET.EVA.regular.comment.csv",12
+"DET194905100",42,"End of NY Sun play-by-play, rest is deduced","1949DET.EVA.regular.comment.csv",13
+"DET194905100",44,"Ball hits Phillips in face and bounces to Coleman","1949DET.EVA.regular.comment.csv",14
+"DET194905100",62,"Newhouser fails to touch first after taking throw","1949DET.EVA.regular.comment.csv",15
+"DET194906080",11,"$Snuffy Stirnweiss dropped the infield fly; he threw the ball to Yogi Berra who stepped on HP and ran to 3B; after Berra tagged Don Kolloway the Yankees insisted this was a triple play but 3B umpire Red Jones  ruled Stirnweiss dropped the ball intentionally","1949DET.EVA.regular.comment.csv",16
+"DET194906080",66,"ej,bartd101,C,hurle901,Balls and strikes Tigers Coach Dick Bartell ejected by HP umpire Eddie Hurley","1949DET.EVA.regular.comment.csv",17
+"DET194906090",10,"$Aaron Robinson struck Yogi Berra with throw during the rundown","1949DET.EVA.regular.comment.csv",18
+"DET194906090",63,"$Dick Kryhoski failed to step on 1B before throwing to HP","1949DET.EVA.regular.comment.csv",19
+"DET194906090",68,"$Johnny Lipon slid into 2B ahead of the throw and Johnny Groth beat the relay from Dick Kryhoiski at HP","1949DET.EVA.regular.comment.csv",20
+"DET194907042",28,"DI invented","1949DET.EVA.regular.comment.csv",21
+"DET194907140",36,"$Dom DiMaggio appeared to be hit by an inside pitch, but HP umpire Bill McKinley ruled he was not struck; DiMaggio and Red Sox manager Joe McCarthy argued the call; DiMaggio was hit on the hand, and would miss several games","1949DET.EVA.regular.comment.csv",22
+"DET194907160",32,"$Williams bunted to beat the shift","1949DET.EVA.regular.comment.csv",23
+"DET194907160",78,"DET194907160 MISSING home 9th","1949DET.EVA.regular.comment.csv",24
+"DET194907190",80,"ej,kuhej101,M,berrc103,Arguing timing of 3rd out $Washington manager Kuhel ejected by HP umpire Berry for arguing ruling that Mele was out at 2nd before Yost crossed plate","1949DET.EVA.regular.comment.csv",25
+"DET194907240",68,"High into the LF upper deck","1949DET.EVA.regular.comment.csv",26
+"DET194908240",19,"Houtteman fouled off 3 fast balls with a 3-2 count","1949DET.EVA.regular.comment.csv",27
+"DET194908240",23,"High into RF upper deck","1949DET.EVA.regular.comment.csv",28
+"DET194908240",67,"Deep into RF upper deck","1949DET.EVA.regular.comment.csv",29
+"DET194908240",82,"Infield hit","1949DET.EVA.regular.comment.csv",30
+"DET194908250",71,"$the ball took a bad bounce and struck Eddie Yost below the right eye","1949DET.EVA.regular.comment.csv",31
+"DET194909020",9,"the fielding credit may not be correct on this play","1949DET.EVA.regular.comment.csv",32

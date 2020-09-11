@@ -1,33 +1,34 @@
-"HOU197804140",19,"$Ken Forsch left with pulled groin","FILENAME_TX","LINE_NUMBER_CT"
-"HOU197804140",78,"$Bob Watson and Art Howe collided","1978HOU.EVN.regular.comment.csv",2
-"HOU197804260",51,"$Jose Cruz called for interference to complete DP","1978HOU.EVN.regular.comment.csv",3
-"HOU197804280",39,"$Bill Virdon argued the balk called by 1B umpire Joe West","1978HOU.EVN.regular.comment.csv",4
-"HOU197805150",58,"ej,boonb001,P,froeb901,Balls and strikes $Warren Brusstar thought he had struck out Cesar Cedeno on a pitch that was called a ball by HP umpire Bruce Froemming; after Cedeno singled, Brusstar yelled at Froemming, who came out from behind the plate and walked toward Brusstar; catcher Bob Boone ran in front of Froemming and there was contact between the two; Boone ejected by Froemming","1978HOU.EVN.regular.comment.csv",5
-"HOU197805160",68,"ej,taylt101,C,willb901,Call at 1B Phillies Coach Tony Taylor ejected by 1B umpire Bill Williams; Phillies manager Danny Ozark takes over at 1B","1978HOU.EVN.regular.comment.csv",6
-"HOU197805160",76,"umpchange,9,ump2b,(None) $2B umpire Dick Stello left game due to upset stomach","1978HOU.EVN.regular.comment.csv",7
-"HOU197805170",40,"$Joaquin Andujar injured during AB","1978HOU.EVN.regular.comment.csv",8
-"HOU197805180",0,"Protest=V","1978HOU.EVN.regular.comment.csv",9
-"HOU197805180",60,"$Phillies manager Danny Ozark protested game because the umpires returned Jay Johnstone to 1B","1978HOU.EVN.regular.comment.csv",10
-"HOU197805190",26,"$Cesar Cedeno left due to strained abdominal muscle","1978HOU.EVN.regular.comment.csv",11
-"HOU197805190",46,"$Wilbur Howard sprained ankle sliding into 2B","1978HOU.EVN.regular.comment.csv",12
-"HOU197805290",38,"$Joe Ferguson slight sprain on collision at HP","1978HOU.EVN.regular.comment.csv",13
-"HOU197806120",40,"$Reggie Baldwin left after collision with Dave Parker","1978HOU.EVN.regular.comment.csv",14
-"HOU197806120",68,"$Debut game for Rick Williams","1978HOU.EVN.regular.comment.csv",15
-"HOU197806130",51,"$Floyd Bannister left with blister on middle finger","1978HOU.EVN.regular.comment.csv",16
-"HOU197806160",43,"$Cesar Cedeno injured left knee sliding into 2B","1978HOU.EVN.regular.comment.csv",17
-"HOU197806160",94,"ej,rojac101,C,froeb901,Interference non-call (Runner ran inside line) $Cubs coach Rojas ejected by HP umpire Froemming for arguing that Gonzalez was running inside line when hit by throw home after out at 1st so it should have been interference with to end inning","1978HOU.EVN.regular.comment.csv",18
-"HOU197806170",23,"$Joaquin Andujar pulled right hamstring on balk","1978HOU.EVN.regular.comment.csv",19
-"HOU197807012",9,"ej,virdb101,M,quicj901,Unknown reason Astros Manager Bill Virdon ejected by HP umpire Jim Quick","1978HOU.EVN.regular.comment.csv",20
-"HOU197807082",26,"$Steve Garvey hit in mouth with pick-off throw","1978HOU.EVN.regular.comment.csv",21
-"HOU197807260",58,"$Terry Puhl rounded 2B too far, no DP","1978HOU.EVN.regular.comment.csv",22
-"HOU197807270",63,"ej,torrj101,M,westj901,Call at 2B ej,valeb102,P,westj901,Call at 2B $2B umpire Joe West ruled that Doug Flynn was off the bag when he caught the throw at 2B; Mets Manager Joe Torre and Bobby Valentine ejected by West","1978HOU.EVN.regular.comment.csv",23
-"HOU197807310",3,"$Terry Whitfield and Art Howe colide at 2B with both suffering lacerations to $forehead & Howe with loose teeth and fractured jaw","1978HOU.EVN.regular.comment.csv",24
-"HOU197808250",0,"$substitute umpires worked due to a one-day strike by the staff umpires; Debut for umpires Murray Strey, Bob Schroeder, Jim Rains and Howard Hansen","1978HOU.EVN.regular.comment.csv",25
-"HOU197808260",21,"$Frank Taveras called for obstructiuon","1978HOU.EVN.regular.comment.csv",26
-"HOU197808270",66,"ej,rookj101,P,tatat901,Balk non-call Jim Rooker ejected by 2B umpire Terry Tata arguing that Joaquin Andujar balked; Rooker told Tata: 'You stink'","1978HOU.EVN.regular.comment.csv",27
-"HOU197808290",24,"$Pete Vuckovich didn't cover 1B","1978HOU.EVN.regular.comment.csv",28
-"HOU197808290",49,"$Art Howe hit by throw to 1B, taken for X-rays","1978HOU.EVN.regular.comment.csv",29
-"HOU197809190",7,"$Jimmy Sexton strained back sliding into 2B, left game in 4th","1978HOU.EVN.regular.comment.csv",30
-"HOU197809190",27,"$Jimmy Sexton left because of strained back","1978HOU.EVN.regular.comment.csv",31
-"HOU197809190",61,"$J.R. Richard left due to stiffness in forearm","1978HOU.EVN.regular.comment.csv",32
-"HOU197809290",63,"$Jack Clark injured by foul ball","1978HOU.EVN.regular.comment.csv",33
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"HOU197804140",19,"$Ken Forsch left with pulled groin","1978HOU.EVN.regular.comment.csv",2
+"HOU197804140",78,"$Bob Watson and Art Howe collided","1978HOU.EVN.regular.comment.csv",3
+"HOU197804260",51,"$Jose Cruz called for interference to complete DP","1978HOU.EVN.regular.comment.csv",4
+"HOU197804280",39,"$Bill Virdon argued the balk called by 1B umpire Joe West","1978HOU.EVN.regular.comment.csv",5
+"HOU197805150",58,"ej,boonb001,P,froeb901,Balls and strikes $Warren Brusstar thought he had struck out Cesar Cedeno on a pitch that was called a ball by HP umpire Bruce Froemming; after Cedeno singled, Brusstar yelled at Froemming, who came out from behind the plate and walked toward Brusstar; catcher Bob Boone ran in front of Froemming and there was contact between the two; Boone ejected by Froemming","1978HOU.EVN.regular.comment.csv",6
+"HOU197805160",68,"ej,taylt101,C,willb901,Call at 1B Phillies Coach Tony Taylor ejected by 1B umpire Bill Williams; Phillies manager Danny Ozark takes over at 1B","1978HOU.EVN.regular.comment.csv",7
+"HOU197805160",76,"umpchange,9,ump2b,(None) $2B umpire Dick Stello left game due to upset stomach","1978HOU.EVN.regular.comment.csv",8
+"HOU197805170",40,"$Joaquin Andujar injured during AB","1978HOU.EVN.regular.comment.csv",9
+"HOU197805180",0,"Protest=V","1978HOU.EVN.regular.comment.csv",10
+"HOU197805180",60,"$Phillies manager Danny Ozark protested game because the umpires returned Jay Johnstone to 1B","1978HOU.EVN.regular.comment.csv",11
+"HOU197805190",26,"$Cesar Cedeno left due to strained abdominal muscle","1978HOU.EVN.regular.comment.csv",12
+"HOU197805190",46,"$Wilbur Howard sprained ankle sliding into 2B","1978HOU.EVN.regular.comment.csv",13
+"HOU197805290",38,"$Joe Ferguson slight sprain on collision at HP","1978HOU.EVN.regular.comment.csv",14
+"HOU197806120",40,"$Reggie Baldwin left after collision with Dave Parker","1978HOU.EVN.regular.comment.csv",15
+"HOU197806120",68,"$Debut game for Rick Williams","1978HOU.EVN.regular.comment.csv",16
+"HOU197806130",51,"$Floyd Bannister left with blister on middle finger","1978HOU.EVN.regular.comment.csv",17
+"HOU197806160",43,"$Cesar Cedeno injured left knee sliding into 2B","1978HOU.EVN.regular.comment.csv",18
+"HOU197806160",94,"ej,rojac101,C,froeb901,Interference non-call (Runner ran inside line) $Cubs coach Rojas ejected by HP umpire Froemming for arguing that Gonzalez was running inside line when hit by throw home after out at 1st so it should have been interference with to end inning","1978HOU.EVN.regular.comment.csv",19
+"HOU197806170",23,"$Joaquin Andujar pulled right hamstring on balk","1978HOU.EVN.regular.comment.csv",20
+"HOU197807012",9,"ej,virdb101,M,quicj901,Unknown reason Astros Manager Bill Virdon ejected by HP umpire Jim Quick","1978HOU.EVN.regular.comment.csv",21
+"HOU197807082",26,"$Steve Garvey hit in mouth with pick-off throw","1978HOU.EVN.regular.comment.csv",22
+"HOU197807260",58,"$Terry Puhl rounded 2B too far, no DP","1978HOU.EVN.regular.comment.csv",23
+"HOU197807270",63,"ej,torrj101,M,westj901,Call at 2B ej,valeb102,P,westj901,Call at 2B $2B umpire Joe West ruled that Doug Flynn was off the bag when he caught the throw at 2B; Mets Manager Joe Torre and Bobby Valentine ejected by West","1978HOU.EVN.regular.comment.csv",24
+"HOU197807310",3,"$Terry Whitfield and Art Howe colide at 2B with both suffering lacerations to $forehead & Howe with loose teeth and fractured jaw","1978HOU.EVN.regular.comment.csv",25
+"HOU197808250",0,"$substitute umpires worked due to a one-day strike by the staff umpires; Debut for umpires Murray Strey, Bob Schroeder, Jim Rains and Howard Hansen","1978HOU.EVN.regular.comment.csv",26
+"HOU197808260",21,"$Frank Taveras called for obstructiuon","1978HOU.EVN.regular.comment.csv",27
+"HOU197808270",66,"ej,rookj101,P,tatat901,Balk non-call Jim Rooker ejected by 2B umpire Terry Tata arguing that Joaquin Andujar balked; Rooker told Tata: 'You stink'","1978HOU.EVN.regular.comment.csv",28
+"HOU197808290",24,"$Pete Vuckovich didn't cover 1B","1978HOU.EVN.regular.comment.csv",29
+"HOU197808290",49,"$Art Howe hit by throw to 1B, taken for X-rays","1978HOU.EVN.regular.comment.csv",30
+"HOU197809190",7,"$Jimmy Sexton strained back sliding into 2B, left game in 4th","1978HOU.EVN.regular.comment.csv",31
+"HOU197809190",27,"$Jimmy Sexton left because of strained back","1978HOU.EVN.regular.comment.csv",32
+"HOU197809190",61,"$J.R. Richard left due to stiffness in forearm","1978HOU.EVN.regular.comment.csv",33
+"HOU197809290",63,"$Jack Clark injured by foul ball","1978HOU.EVN.regular.comment.csv",34

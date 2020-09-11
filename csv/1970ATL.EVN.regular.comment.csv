@@ -1,37 +1,38 @@
-"ATL197004130",11,"Debut game for Jim Johnson","FILENAME_TX","LINE_NUMBER_CT"
-"ATL197004150",36,"$Sonny Jackson's hit a foul-pop that Tommy Dean caught momentarily before dropping when he collided with Ed Spiezio and Jerry Morales; Dean suffered a minor shoulder separation","1970ATL.EVN.regular.comment.csv",2
-"ATL197004150",37,"$Dave Campbell got to the ball, but Jose Arcia wasn't covering 2B; Campbell threw to Nate Colbert instead, but Sonny Jackson was called safe on a close call; Colbert thought the third out had been made and didn't recover in time to throw out Bob Didier","1970ATL.EVN.regular.comment.csv",3
-"ATL197004160",19,"missed suicide squeeze","1970ATL.EVN.regular.comment.csv",4
-"ATL197004180",65,"assist invented","1970ATL.EVN.regular.comment.csv",5
-"ATL197004190",72,"$Larry Jaster brushed back Willie Davis with a pitch near his head; on the next pitch Davis bunted foul for strike three; Davis yelled at Jaster, accusing the latter of throwing at him intentionally; Davis charged the mound and threw a punch that Jaster blocked; Jaster punched Davis and both benches cleared; Jaster chased Davis into the dugout but was restrained; no ejections","1970ATL.EVN.regular.comment.csv",6
-"ATL197004300",0,"George Stone: 128 pitches; Fergie Jenkins 38 pitches","1970ATL.EVN.regular.comment.csv",7
-"ATL197004300",64,"Debut game for Larry Gura","1970ATL.EVN.regular.comment.csv",8
-"ATL197005010",25,"$Willie Smith's bat hit Bob Didier's head","1970ATL.EVN.regular.comment.csv",9
-"ATL197005020",0,"25 minute rain delay before start of game","1970ATL.EVN.regular.comment.csv",10
-"ATL197005020",51,"ej,durol101,M,wendh901,Balls and strikes Cubs Manager Leo Durocher ejected by HP umpire Harry Wendelstedt after ball three to Pat Jarvis","1970ATL.EVN.regular.comment.csv",11
-"ATL197005020",52,"ej,holtk101,P,wendh901,Balls and strikes Ken Holtzman ejected by HP umpire Harry Wendelstedt","1970ATL.EVN.regular.comment.csv",12
-"ATL197005270",0,"This account has no fielding data","1970ATL.EVN.regular.comment.csv",13
-"ATL197005290",20,"rain delay","1970ATL.EVN.regular.comment.csv",14
-"ATL197005290",33,"64 minute rain delay","1970ATL.EVN.regular.comment.csv",15
-"ATL197005300",66,"$Ron Stone safe on head first slide","1970ATL.EVN.regular.comment.csv",16
-"ATL197006050",40,"$Felix Millan's grounder hit Bobby Wine in face","1970ATL.EVN.regular.comment.csv",17
-"ATL197006060",63,"$Mike Lum pulled left hamstring trying shoestring catch","1970ATL.EVN.regular.comment.csv",18
-"ATL197006060",71,"ej,phila101,P,dezef901,Balls and strikes ej,willd104,C,dezef901,Balls and strikes Adolpho Phillips ejected by HP umpire Frank Dezelan for yelling about the strike zone as he flew out; Expos coach Dick Williams ejected by Dezelan","1970ATL.EVN.regular.comment.csv",19
-"ATL197006060",73,"ej,harrl101,M,dezef901,Balls and strikes ej,cepeo101,P,dezef901,Balls and strikes Braves manager Luman Harris and Orlando Cepeda ejected by HP umpire Frank Dezelan for arguing the strike zone","1970ATL.EVN.regular.comment.csv",20
-"ATL197006192",66,"George Culver left with elbow trouble","1970ATL.EVN.regular.comment.csv",21
-"ATL197006200",3,"Debut game for Cesar Cedeno","1970ATL.EVN.regular.comment.csv",22
-"ATL197006200",5,"$Felix Milan hit on hand, taken to hospital. X-rays show no break","1970ATL.EVN.regular.comment.csv",23
-"ATL197007102",39,"ej,harrl101,M,olsea901,Check swing $Braves manager Harris ejected by 1B umpire Olsen for arguing check swing to Perez","1970ATL.EVN.regular.comment.csv",24
-"ATL197007102",42,"ej,mcrah001,P,weyel901,Called strike 3 $McRae ejected by HP umpire Weyer for arguing called strike 3","1970ATL.EVN.regular.comment.csv",25
-"ATL197007120",31,"ej,andes101,M,burkk101,Call at HP $Reds manager Anderson ejected by HP umpire Burkhart for arguing that May was safe at home","1970ATL.EVN.regular.comment.csv",26
-"ATL197007201",33,"Rico Carty pulled a muscle running","1970ATL.EVN.regular.comment.csv",27
-"ATL197007202",19,"Felix Millan hit in head by pitch","1970ATL.EVN.regular.comment.csv",28
-"ATL197007202",43,"$Rain delay starts at 10:55 PM; game called after 80 minute delay","1970ATL.EVN.regular.comment.csv",29
-"ATL197007210",0,"23 minute rain delay before start of game","1970ATL.EVN.regular.comment.csv",30
-"ATL197007210",28,"$34 minute rain delay","1970ATL.EVN.regular.comment.csv",31
-"ATL197008150",67,"$Tom Seaver crossed up Jerry Grote on third strike","1970ATL.EVN.regular.comment.csv",32
-"ATL197008160",33,"$Sonny Jackson tagged up and scored before Ken Boswell could throw to 1B","1970ATL.EVN.regular.comment.csv",33
-"ATL197009052",10,"Debut game for Ed Goodson","1970ATL.EVN.regular.comment.csv",34
-"ATL197009220",8,"$Cito Gaston twisted his knee on play, dropping catchable ball","1970ATL.EVN.regular.comment.csv",35
-"ATL197009220",18,"Mike Corkins left with heat exhaustion","1970ATL.EVN.regular.comment.csv",36
-"ATL197009220",74,"$Ivan Murrell tore ligaments in his left knee in collison at HP","1970ATL.EVN.regular.comment.csv",37
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"ATL197004130",11,"Debut game for Jim Johnson","1970ATL.EVN.regular.comment.csv",2
+"ATL197004150",36,"$Sonny Jackson's hit a foul-pop that Tommy Dean caught momentarily before dropping when he collided with Ed Spiezio and Jerry Morales; Dean suffered a minor shoulder separation","1970ATL.EVN.regular.comment.csv",3
+"ATL197004150",37,"$Dave Campbell got to the ball, but Jose Arcia wasn't covering 2B; Campbell threw to Nate Colbert instead, but Sonny Jackson was called safe on a close call; Colbert thought the third out had been made and didn't recover in time to throw out Bob Didier","1970ATL.EVN.regular.comment.csv",4
+"ATL197004160",19,"missed suicide squeeze","1970ATL.EVN.regular.comment.csv",5
+"ATL197004180",65,"assist invented","1970ATL.EVN.regular.comment.csv",6
+"ATL197004190",72,"$Larry Jaster brushed back Willie Davis with a pitch near his head; on the next pitch Davis bunted foul for strike three; Davis yelled at Jaster, accusing the latter of throwing at him intentionally; Davis charged the mound and threw a punch that Jaster blocked; Jaster punched Davis and both benches cleared; Jaster chased Davis into the dugout but was restrained; no ejections","1970ATL.EVN.regular.comment.csv",7
+"ATL197004300",0,"George Stone: 128 pitches; Fergie Jenkins 38 pitches","1970ATL.EVN.regular.comment.csv",8
+"ATL197004300",64,"Debut game for Larry Gura","1970ATL.EVN.regular.comment.csv",9
+"ATL197005010",25,"$Willie Smith's bat hit Bob Didier's head","1970ATL.EVN.regular.comment.csv",10
+"ATL197005020",0,"25 minute rain delay before start of game","1970ATL.EVN.regular.comment.csv",11
+"ATL197005020",51,"ej,durol101,M,wendh901,Balls and strikes Cubs Manager Leo Durocher ejected by HP umpire Harry Wendelstedt after ball three to Pat Jarvis","1970ATL.EVN.regular.comment.csv",12
+"ATL197005020",52,"ej,holtk101,P,wendh901,Balls and strikes Ken Holtzman ejected by HP umpire Harry Wendelstedt","1970ATL.EVN.regular.comment.csv",13
+"ATL197005270",0,"This account has no fielding data","1970ATL.EVN.regular.comment.csv",14
+"ATL197005290",20,"rain delay","1970ATL.EVN.regular.comment.csv",15
+"ATL197005290",33,"64 minute rain delay","1970ATL.EVN.regular.comment.csv",16
+"ATL197005300",66,"$Ron Stone safe on head first slide","1970ATL.EVN.regular.comment.csv",17
+"ATL197006050",40,"$Felix Millan's grounder hit Bobby Wine in face","1970ATL.EVN.regular.comment.csv",18
+"ATL197006060",63,"$Mike Lum pulled left hamstring trying shoestring catch","1970ATL.EVN.regular.comment.csv",19
+"ATL197006060",71,"ej,phila101,P,dezef901,Balls and strikes ej,willd104,C,dezef901,Balls and strikes Adolpho Phillips ejected by HP umpire Frank Dezelan for yelling about the strike zone as he flew out; Expos coach Dick Williams ejected by Dezelan","1970ATL.EVN.regular.comment.csv",20
+"ATL197006060",73,"ej,harrl101,M,dezef901,Balls and strikes ej,cepeo101,P,dezef901,Balls and strikes Braves manager Luman Harris and Orlando Cepeda ejected by HP umpire Frank Dezelan for arguing the strike zone","1970ATL.EVN.regular.comment.csv",21
+"ATL197006192",66,"George Culver left with elbow trouble","1970ATL.EVN.regular.comment.csv",22
+"ATL197006200",3,"Debut game for Cesar Cedeno","1970ATL.EVN.regular.comment.csv",23
+"ATL197006200",5,"$Felix Milan hit on hand, taken to hospital. X-rays show no break","1970ATL.EVN.regular.comment.csv",24
+"ATL197007102",39,"ej,harrl101,M,olsea901,Check swing $Braves manager Harris ejected by 1B umpire Olsen for arguing check swing to Perez","1970ATL.EVN.regular.comment.csv",25
+"ATL197007102",42,"ej,mcrah001,P,weyel901,Called strike 3 $McRae ejected by HP umpire Weyer for arguing called strike 3","1970ATL.EVN.regular.comment.csv",26
+"ATL197007120",31,"ej,andes101,M,burkk101,Call at HP $Reds manager Anderson ejected by HP umpire Burkhart for arguing that May was safe at home","1970ATL.EVN.regular.comment.csv",27
+"ATL197007201",33,"Rico Carty pulled a muscle running","1970ATL.EVN.regular.comment.csv",28
+"ATL197007202",19,"Felix Millan hit in head by pitch","1970ATL.EVN.regular.comment.csv",29
+"ATL197007202",43,"$Rain delay starts at 10:55 PM; game called after 80 minute delay","1970ATL.EVN.regular.comment.csv",30
+"ATL197007210",0,"23 minute rain delay before start of game","1970ATL.EVN.regular.comment.csv",31
+"ATL197007210",28,"$34 minute rain delay","1970ATL.EVN.regular.comment.csv",32
+"ATL197008150",67,"$Tom Seaver crossed up Jerry Grote on third strike","1970ATL.EVN.regular.comment.csv",33
+"ATL197008160",33,"$Sonny Jackson tagged up and scored before Ken Boswell could throw to 1B","1970ATL.EVN.regular.comment.csv",34
+"ATL197009052",10,"Debut game for Ed Goodson","1970ATL.EVN.regular.comment.csv",35
+"ATL197009220",8,"$Cito Gaston twisted his knee on play, dropping catchable ball","1970ATL.EVN.regular.comment.csv",36
+"ATL197009220",18,"Mike Corkins left with heat exhaustion","1970ATL.EVN.regular.comment.csv",37
+"ATL197009220",74,"$Ivan Murrell tore ligaments in his left knee in collison at HP","1970ATL.EVN.regular.comment.csv",38

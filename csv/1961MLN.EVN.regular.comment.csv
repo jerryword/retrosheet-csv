@@ -1,21 +1,22 @@
-"MLN196104110",0,"Debut for umpire Al Forman","FILENAME_TX","LINE_NUMBER_CT"
-"MLN196104290",71,"Debut game for Phil Roof","1961MLN.EVN.regular.comment.csv",2
-"MLN196105090",62,"$Frank Bolling took 2B on throw to HP and 3B while the Cubs argued the call HP","1961MLN.EVN.regular.comment.csv",3
-"MLN196105260",27,"$beaned","1961MLN.EVN.regular.comment.csv",4
-"MLN196106020",61,"ej,logaj101,P,varge901,Called third strike Johnny Logan ejected by HP umpire Ed Vargo","1961MLN.EVN.regular.comment.csv",5
-"MLN196106220",67,"ej,loesb101,P,varge901,Balls and strikes $Pitcher Loes ejected by HP umpire Vargo for arguing ball 1 call to Aaron","1961MLN.EVN.regular.comment.csv",6
-"MLN196106230",1,"Debut game for Bob Hendley","1961MLN.EVN.regular.comment.csv",7
-"MLN196106230",65,"$Joe Adcock caught Billy Williams with the hidden ball trick to complete the double play","1961MLN.EVN.regular.comment.csv",8
-"MLN196106240",57,"rain began to fall and the lights were turned on","1961MLN.EVN.regular.comment.csv",9
-"MLN196106240",60,"47 minute rain delay","1961MLN.EVN.regular.comment.csv",10
-"MLN196107021",35,"ej,mathe101,P,forma901,Fighting $Jim O'Toole was tagged by Eddie Mathews; O'Toole tried to knock the ball out of Mathews' glove; Mathews went after O'Toole and both benches cleared; O'Toole was called for interference; Mathews ejected by 3B umpire Al Forman","1961MLN.EVN.regular.comment.csv",11
-"MLN196107030",66,"$the ball caromed off the pitcher","1961MLN.EVN.regular.comment.csv",12
-"MLN196107240",45,"ej,myatg102,C,dascf901,Fair/foul call Braves Coach George Myatt ejected by 3B umpire Frank Dascoli arguing that Henry Aaron's fly was fair and a home run; Braves manager Charlie Dressen coached 3B","1961MLN.EVN.regular.comment.csv",13
-"MLN196107240",53,"rain starts","1961MLN.EVN.regular.comment.csv",14
-"MLN196107240",54,"28 minute rain delay","1961MLN.EVN.regular.comment.csv",15
-"MLN196107290",40,"$Julian Javier called for interference for running into his own bunt","1961MLN.EVN.regular.comment.csv",16
-"MLN196109050",29,"missing play in MLN196109050","1961MLN.EVN.regular.comment.csv",17
-"MLN196109100",61,"ej,clemr101,P,steim901,Call at 1B (Threw helmet) Roberto Clemente ejected by 1B umpire Mel Steiner for throwing his helmet","1961MLN.EVN.regular.comment.csv",18
-"MLN196109230",58,"game called due to rain after 34 minute delay","1961MLN.EVN.regular.comment.csv",19
-"MLN196109250",33,"ej,olivg101,P,jackb901,Balk call $Cardinals catcher Oliver (not in game) ejected by HP umpire Jackowski for arguing balk call","1961MLN.EVN.regular.comment.csv",20
-"MLN196109290",42,"game called due to rain","1961MLN.EVN.regular.comment.csv",21
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"MLN196104110",0,"Debut for umpire Al Forman","1961MLN.EVN.regular.comment.csv",2
+"MLN196104290",71,"Debut game for Phil Roof","1961MLN.EVN.regular.comment.csv",3
+"MLN196105090",62,"$Frank Bolling took 2B on throw to HP and 3B while the Cubs argued the call HP","1961MLN.EVN.regular.comment.csv",4
+"MLN196105260",27,"$beaned","1961MLN.EVN.regular.comment.csv",5
+"MLN196106020",61,"ej,logaj101,P,varge901,Called third strike Johnny Logan ejected by HP umpire Ed Vargo","1961MLN.EVN.regular.comment.csv",6
+"MLN196106220",67,"ej,loesb101,P,varge901,Balls and strikes $Pitcher Loes ejected by HP umpire Vargo for arguing ball 1 call to Aaron","1961MLN.EVN.regular.comment.csv",7
+"MLN196106230",1,"Debut game for Bob Hendley","1961MLN.EVN.regular.comment.csv",8
+"MLN196106230",65,"$Joe Adcock caught Billy Williams with the hidden ball trick to complete the double play","1961MLN.EVN.regular.comment.csv",9
+"MLN196106240",57,"rain began to fall and the lights were turned on","1961MLN.EVN.regular.comment.csv",10
+"MLN196106240",60,"47 minute rain delay","1961MLN.EVN.regular.comment.csv",11
+"MLN196107021",35,"ej,mathe101,P,forma901,Fighting $Jim O'Toole was tagged by Eddie Mathews; O'Toole tried to knock the ball out of Mathews' glove; Mathews went after O'Toole and both benches cleared; O'Toole was called for interference; Mathews ejected by 3B umpire Al Forman","1961MLN.EVN.regular.comment.csv",12
+"MLN196107030",66,"$the ball caromed off the pitcher","1961MLN.EVN.regular.comment.csv",13
+"MLN196107240",45,"ej,myatg102,C,dascf901,Fair/foul call Braves Coach George Myatt ejected by 3B umpire Frank Dascoli arguing that Henry Aaron's fly was fair and a home run; Braves manager Charlie Dressen coached 3B","1961MLN.EVN.regular.comment.csv",14
+"MLN196107240",53,"rain starts","1961MLN.EVN.regular.comment.csv",15
+"MLN196107240",54,"28 minute rain delay","1961MLN.EVN.regular.comment.csv",16
+"MLN196107290",40,"$Julian Javier called for interference for running into his own bunt","1961MLN.EVN.regular.comment.csv",17
+"MLN196109050",29,"missing play in MLN196109050","1961MLN.EVN.regular.comment.csv",18
+"MLN196109100",61,"ej,clemr101,P,steim901,Call at 1B (Threw helmet) Roberto Clemente ejected by 1B umpire Mel Steiner for throwing his helmet","1961MLN.EVN.regular.comment.csv",19
+"MLN196109230",58,"game called due to rain after 34 minute delay","1961MLN.EVN.regular.comment.csv",20
+"MLN196109250",33,"ej,olivg101,P,jackb901,Balk call $Cardinals catcher Oliver (not in game) ejected by HP umpire Jackowski for arguing balk call","1961MLN.EVN.regular.comment.csv",21
+"MLN196109290",42,"game called due to rain","1961MLN.EVN.regular.comment.csv",22

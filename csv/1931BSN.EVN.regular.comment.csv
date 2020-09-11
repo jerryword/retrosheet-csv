@@ -1,24 +1,25 @@
-"BSN193104150",47,"$Ike Boone sent to RF but replaced immediately by Alta Cohen","FILENAME_TX","LINE_NUMBER_CT"
-"BSN193104150",52,"$Alta Cohen batted out of turn but not caught by the Braves","1931BSN.EVN.regular.comment.csv",2
-"BSN193104150",64,"$Alta Cohen batted in the correct spot","1931BSN.EVN.regular.comment.csv",3
-"BSN193104180",34,"ej,lopea102,P,klemb901,Balls and strikes Al Lopez ejected by HP umpire Bill Klem","1931BSN.EVN.regular.comment.csv",4
-"BSN193104201",63,"$Red Worthington injured","1931BSN.EVN.regular.comment.csv",5
-"BSN193105050",45,"ej,hursd101,P,clarb901,Call at 1B ej,shieb101,P,clarb901,Call at 1B ej,ellij103,P,clarb901,Call at 1B $Don Hurst, Ben Shields and Jumbo Elliott ejected by 1B umpire Bob Clarke","1931BSN.EVN.regular.comment.csv",6
-"BSN193105160",25,"Throw to pitcher covering first base was wide.","1931BSN.EVN.regular.comment.csv",7
-"BSN193105160",49,"Regan just misses a HR, ball hits high on wall.","1931BSN.EVN.regular.comment.csv",8
-"BSN193105190",56,"$Hack Wilson injured finger on Wally Berger's triple","1931BSN.EVN.regular.comment.csv",9
-"BSN193105242",53,"$game called due to 6 o'clock Sunday curfew","1931BSN.EVN.regular.comment.csv",10
-"BSN193106231",60,"rain started","1931BSN.EVN.regular.comment.csv",11
-"BSN193106232",64,"$Game called for rain","1931BSN.EVN.regular.comment.csv",12
-"BSN193106282",76,"$game called for Sunday curfew in the top of the 10th; Rogers Hornsby and Riggs Stephenson had both flied to LF","1931BSN.EVN.regular.comment.csv",13
-"BSN193107041",10,"Debut game for Urbanski.","1931BSN.EVN.regular.comment.csv",14
-"BSN193107041",78,"Maranville credited with single when ball hits runner.","1931BSN.EVN.regular.comment.csv",15
-"BSN193107042",27,"Game delayed as Phillies argue balk call.","1931BSN.EVN.regular.comment.csv",16
-"BSN193107050",0,"A Phillies bench player was ejected early in the game-  sources don't say who.","1931BSN.EVN.regular.comment.csv",17
-"BSN193107050",17,"Inside the park.","1931BSN.EVN.regular.comment.csv",18
-"BSN193107090",41,"$Glenn Wright injured finger","1931BSN.EVN.regular.comment.csv",19
-"BSN193108070",6,"rain delay","1931BSN.EVN.regular.comment.csv",20
-"BSN193108141",41,"15 minute rain delay","1931BSN.EVN.regular.comment.csv",21
-"BSN193108142",0,"$Ladies day made total attendance about 10,000","1931BSN.EVN.regular.comment.csv",22
-"BSN193108250",65,"ej,frisf101,P,klemb901,Call at 2B Frankie Frisch ejected by 3B umpire Bill Klem","1931BSN.EVN.regular.comment.csv",23
-"BSN193109010",15,"$Ben Cantwell fumbled the throw to HP","1931BSN.EVN.regular.comment.csv",24
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"BSN193104150",47,"$Ike Boone sent to RF but replaced immediately by Alta Cohen","1931BSN.EVN.regular.comment.csv",2
+"BSN193104150",52,"$Alta Cohen batted out of turn but not caught by the Braves","1931BSN.EVN.regular.comment.csv",3
+"BSN193104150",64,"$Alta Cohen batted in the correct spot","1931BSN.EVN.regular.comment.csv",4
+"BSN193104180",34,"ej,lopea102,P,klemb901,Balls and strikes Al Lopez ejected by HP umpire Bill Klem","1931BSN.EVN.regular.comment.csv",5
+"BSN193104201",63,"$Red Worthington injured","1931BSN.EVN.regular.comment.csv",6
+"BSN193105050",45,"ej,hursd101,P,clarb901,Call at 1B ej,shieb101,P,clarb901,Call at 1B ej,ellij103,P,clarb901,Call at 1B $Don Hurst, Ben Shields and Jumbo Elliott ejected by 1B umpire Bob Clarke","1931BSN.EVN.regular.comment.csv",7
+"BSN193105160",25,"Throw to pitcher covering first base was wide.","1931BSN.EVN.regular.comment.csv",8
+"BSN193105160",49,"Regan just misses a HR, ball hits high on wall.","1931BSN.EVN.regular.comment.csv",9
+"BSN193105190",56,"$Hack Wilson injured finger on Wally Berger's triple","1931BSN.EVN.regular.comment.csv",10
+"BSN193105242",53,"$game called due to 6 o'clock Sunday curfew","1931BSN.EVN.regular.comment.csv",11
+"BSN193106231",60,"rain started","1931BSN.EVN.regular.comment.csv",12
+"BSN193106232",64,"$Game called for rain","1931BSN.EVN.regular.comment.csv",13
+"BSN193106282",76,"$game called for Sunday curfew in the top of the 10th; Rogers Hornsby and Riggs Stephenson had both flied to LF","1931BSN.EVN.regular.comment.csv",14
+"BSN193107041",10,"Debut game for Urbanski.","1931BSN.EVN.regular.comment.csv",15
+"BSN193107041",78,"Maranville credited with single when ball hits runner.","1931BSN.EVN.regular.comment.csv",16
+"BSN193107042",27,"Game delayed as Phillies argue balk call.","1931BSN.EVN.regular.comment.csv",17
+"BSN193107050",0,"A Phillies bench player was ejected early in the game-  sources don't say who.","1931BSN.EVN.regular.comment.csv",18
+"BSN193107050",17,"Inside the park.","1931BSN.EVN.regular.comment.csv",19
+"BSN193107090",41,"$Glenn Wright injured finger","1931BSN.EVN.regular.comment.csv",20
+"BSN193108070",6,"rain delay","1931BSN.EVN.regular.comment.csv",21
+"BSN193108141",41,"15 minute rain delay","1931BSN.EVN.regular.comment.csv",22
+"BSN193108142",0,"$Ladies day made total attendance about 10,000","1931BSN.EVN.regular.comment.csv",23
+"BSN193108250",65,"ej,frisf101,P,klemb901,Call at 2B Frankie Frisch ejected by 3B umpire Bill Klem","1931BSN.EVN.regular.comment.csv",24
+"BSN193109010",15,"$Ben Cantwell fumbled the throw to HP","1931BSN.EVN.regular.comment.csv",25

@@ -1,51 +1,52 @@
-"WS1191604210",3,"Dropped fly ball.","FILENAME_TX","LINE_NUMBER_CT"
-"WS1191604210",67,"$Game called for rain","1916WS1.EVA.regular.comment.csv",2
-"WS1191604240",48,"Shocker's first Major League game.","1916WS1.EVA.regular.comment.csv",3
-"WS1191605160",28,"Attempted double steal.","1916WS1.EVA.regular.comment.csv",4
-"WS1191605220",49,"Ball deflected off Foster to shortstop.","1916WS1.EVA.regular.comment.csv",5
-"WS1191605220",53,"Attempted sacrifice.","1916WS1.EVA.regular.comment.csv",6
-"WS1191605220",62,"McMullin's throw to second was late.","1916WS1.EVA.regular.comment.csv",7
-"WS1191605240",26,"Weaver overran second and was tagged out.","1916WS1.EVA.regular.comment.csv",8
-"WS1191605240",30,"Ball deflected by Faber.","1916WS1.EVA.regular.comment.csv",9
-"WS1191605250",38,"Great one-handed catch with bare hand by Foster.","1916WS1.EVA.regular.comment.csv",10
-"WS1191605250",49,"Schalk not credited with SH on bad throw to plate.","1916WS1.EVA.regular.comment.csv",11
-"WS1191605250",73,"Senators stalled five minutes allowing Johnson to warm up.","1916WS1.EVA.regular.comment.csv",12
-"WS1191605250",73,"Johnson in to pitch with 0-1 count.","1916WS1.EVA.regular.comment.csv",13
-"WS1191605250",86,"Used Tribune/Post and Retrosheet box score from here to end.","1916WS1.EVA.regular.comment.csv",14
-"WS1191605250",107,"Game ends due to darkness, final score 3-3 tie.","1916WS1.EVA.regular.comment.csv",15
-"WS1191607030",80,"$Gilhooley broke leg sliding into 3rd","1916WS1.EVA.regular.comment.csv",16
-"WS1191607030",85,"$Milan beat play, but overslid base","1916WS1.EVA.regular.comment.csv",17
-"WS1191607191",14,"S. Collins scored before the putout.","1916WS1.EVA.regular.comment.csv",18
-"WS1191607191",30,"109 had double, Retrosheet box score had as entered.","1916WS1.EVA.regular.comment.csv",19
-"WS1191607191",35,"Ball deflected off pitcher.","1916WS1.EVA.regular.comment.csv",20
-"WS1191607192",10,"Benz tossed ball down right field stands.","1916WS1.EVA.regular.comment.csv",21
-"WS1191607192",28,"Attempted sacrifice.","1916WS1.EVA.regular.comment.csv",22
-"WS1191607192",64,"Top of eighth inning to end from Post/Tribune & box scores.","1916WS1.EVA.regular.comment.csv",23
-"WS1191607192",72,"Gharrity stumbled around second base, more assists possible.","1916WS1.EVA.regular.comment.csv",24
-"WS1191607192",75,"Milan mis-judged fly ball.","1916WS1.EVA.regular.comment.csv",25
-"WS1191607201",50,"McBride muffed throw as runner returned to second.","1916WS1.EVA.regular.comment.csv",26
-"WS1191607202",11,"Great running catch by J. Collins.","1916WS1.EVA.regular.comment.csv",27
-"WS1191607202",53,"$Ball lodged in hole at bottom of fence","1916WS1.EVA.regular.comment.csv",28
-"WS1191607210",73,"Top of eighth inning to end from Post/Tribune.","1916WS1.EVA.regular.comment.csv",29
-"WS1191607220",59,"Attempted sacrifice.","1916WS1.EVA.regular.comment.csv",30
-"WS1191607220",67,"Shalk slipped going after the ball.","1916WS1.EVA.regular.comment.csv",31
-"WS1191608172",27,"$1bman missed base","1916WS1.EVA.regular.comment.csv",32
-"WS1191608172",82,"$Game called for darkness","1916WS1.EVA.regular.comment.csv",33
-"WS1191608240",4,"McBride held relay throw, E. Collins also scored.","1916WS1.EVA.regular.comment.csv",34
-"WS1191608240",27,"Hit and run.","1916WS1.EVA.regular.comment.csv",35
-"WS1191608240",35,"Judge deflected Lapp's hard liner to Foster.","1916WS1.EVA.regular.comment.csv",36
-"WS1191608250",38,"S. Collins held third on grounder to short.","1916WS1.EVA.regular.comment.csv",37
-"WS1191608250",45,"McBride over-ran third, called out interfering with ball.","1916WS1.EVA.regular.comment.csv",38
-"WS1191608250",57,"Judge's hit fell between three Chicago players.","1916WS1.EVA.regular.comment.csv",39
-"WS1191608260",51,"Judge's throw to the plate was late.","1916WS1.EVA.regular.comment.csv",40
-"WS1191608260",60,"Gallia threw wild to the grandstand.","1916WS1.EVA.regular.comment.csv",41
-"WS1191608260",62,"Fournier scored before Felsch was tagged out on double steal.","1916WS1.EVA.regular.comment.csv",42
-"WS1191609041",0,"Morning game of Labor Day DH.","1916WS1.EVA.regular.comment.csv",43
-"WS1191609041",67,"Attempted double steal.","1916WS1.EVA.regular.comment.csv",44
-"WS1191609050",45,"Leonard ejected for arguing call.","1916WS1.EVA.regular.comment.csv",45
-"WS1191609071",36,"$20 minute rain delay.","1916WS1.EVA.regular.comment.csv",46
-"WS1191609072",56,"Top of eighth inning to end from Times/Post/RBS.","1916WS1.EVA.regular.comment.csv",47
-"WS1191609072",64,"Leonard tried for second as Fisher held ball.","1916WS1.EVA.regular.comment.csv",48
-"WS1191609072",68,"Goodwin's ML debut.","1916WS1.EVA.regular.comment.csv",49
-"WS1191609080",0,"Game entered as deduced game, used Globe/Post/RBS. Rain threatened to prevent the starting of the battle - Post","1916WS1.EVA.regular.comment.csv",50
-"WS1191609080",51,"Game called due to rain, ends in 0-0 tie.","1916WS1.EVA.regular.comment.csv",51
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"WS1191604210",3,"Dropped fly ball.","1916WS1.EVA.regular.comment.csv",2
+"WS1191604210",67,"$Game called for rain","1916WS1.EVA.regular.comment.csv",3
+"WS1191604240",48,"Shocker's first Major League game.","1916WS1.EVA.regular.comment.csv",4
+"WS1191605160",28,"Attempted double steal.","1916WS1.EVA.regular.comment.csv",5
+"WS1191605220",49,"Ball deflected off Foster to shortstop.","1916WS1.EVA.regular.comment.csv",6
+"WS1191605220",53,"Attempted sacrifice.","1916WS1.EVA.regular.comment.csv",7
+"WS1191605220",62,"McMullin's throw to second was late.","1916WS1.EVA.regular.comment.csv",8
+"WS1191605240",26,"Weaver overran second and was tagged out.","1916WS1.EVA.regular.comment.csv",9
+"WS1191605240",30,"Ball deflected by Faber.","1916WS1.EVA.regular.comment.csv",10
+"WS1191605250",38,"Great one-handed catch with bare hand by Foster.","1916WS1.EVA.regular.comment.csv",11
+"WS1191605250",49,"Schalk not credited with SH on bad throw to plate.","1916WS1.EVA.regular.comment.csv",12
+"WS1191605250",73,"Senators stalled five minutes allowing Johnson to warm up.","1916WS1.EVA.regular.comment.csv",13
+"WS1191605250",73,"Johnson in to pitch with 0-1 count.","1916WS1.EVA.regular.comment.csv",14
+"WS1191605250",86,"Used Tribune/Post and Retrosheet box score from here to end.","1916WS1.EVA.regular.comment.csv",15
+"WS1191605250",107,"Game ends due to darkness, final score 3-3 tie.","1916WS1.EVA.regular.comment.csv",16
+"WS1191607030",80,"$Gilhooley broke leg sliding into 3rd","1916WS1.EVA.regular.comment.csv",17
+"WS1191607030",85,"$Milan beat play, but overslid base","1916WS1.EVA.regular.comment.csv",18
+"WS1191607191",14,"S. Collins scored before the putout.","1916WS1.EVA.regular.comment.csv",19
+"WS1191607191",30,"109 had double, Retrosheet box score had as entered.","1916WS1.EVA.regular.comment.csv",20
+"WS1191607191",35,"Ball deflected off pitcher.","1916WS1.EVA.regular.comment.csv",21
+"WS1191607192",10,"Benz tossed ball down right field stands.","1916WS1.EVA.regular.comment.csv",22
+"WS1191607192",28,"Attempted sacrifice.","1916WS1.EVA.regular.comment.csv",23
+"WS1191607192",64,"Top of eighth inning to end from Post/Tribune & box scores.","1916WS1.EVA.regular.comment.csv",24
+"WS1191607192",72,"Gharrity stumbled around second base, more assists possible.","1916WS1.EVA.regular.comment.csv",25
+"WS1191607192",75,"Milan mis-judged fly ball.","1916WS1.EVA.regular.comment.csv",26
+"WS1191607201",50,"McBride muffed throw as runner returned to second.","1916WS1.EVA.regular.comment.csv",27
+"WS1191607202",11,"Great running catch by J. Collins.","1916WS1.EVA.regular.comment.csv",28
+"WS1191607202",53,"$Ball lodged in hole at bottom of fence","1916WS1.EVA.regular.comment.csv",29
+"WS1191607210",73,"Top of eighth inning to end from Post/Tribune.","1916WS1.EVA.regular.comment.csv",30
+"WS1191607220",59,"Attempted sacrifice.","1916WS1.EVA.regular.comment.csv",31
+"WS1191607220",67,"Shalk slipped going after the ball.","1916WS1.EVA.regular.comment.csv",32
+"WS1191608172",27,"$1bman missed base","1916WS1.EVA.regular.comment.csv",33
+"WS1191608172",82,"$Game called for darkness","1916WS1.EVA.regular.comment.csv",34
+"WS1191608240",4,"McBride held relay throw, E. Collins also scored.","1916WS1.EVA.regular.comment.csv",35
+"WS1191608240",27,"Hit and run.","1916WS1.EVA.regular.comment.csv",36
+"WS1191608240",35,"Judge deflected Lapp's hard liner to Foster.","1916WS1.EVA.regular.comment.csv",37
+"WS1191608250",38,"S. Collins held third on grounder to short.","1916WS1.EVA.regular.comment.csv",38
+"WS1191608250",45,"McBride over-ran third, called out interfering with ball.","1916WS1.EVA.regular.comment.csv",39
+"WS1191608250",57,"Judge's hit fell between three Chicago players.","1916WS1.EVA.regular.comment.csv",40
+"WS1191608260",51,"Judge's throw to the plate was late.","1916WS1.EVA.regular.comment.csv",41
+"WS1191608260",60,"Gallia threw wild to the grandstand.","1916WS1.EVA.regular.comment.csv",42
+"WS1191608260",62,"Fournier scored before Felsch was tagged out on double steal.","1916WS1.EVA.regular.comment.csv",43
+"WS1191609041",0,"Morning game of Labor Day DH.","1916WS1.EVA.regular.comment.csv",44
+"WS1191609041",67,"Attempted double steal.","1916WS1.EVA.regular.comment.csv",45
+"WS1191609050",45,"Leonard ejected for arguing call.","1916WS1.EVA.regular.comment.csv",46
+"WS1191609071",36,"$20 minute rain delay.","1916WS1.EVA.regular.comment.csv",47
+"WS1191609072",56,"Top of eighth inning to end from Times/Post/RBS.","1916WS1.EVA.regular.comment.csv",48
+"WS1191609072",64,"Leonard tried for second as Fisher held ball.","1916WS1.EVA.regular.comment.csv",49
+"WS1191609072",68,"Goodwin's ML debut.","1916WS1.EVA.regular.comment.csv",50
+"WS1191609080",0,"Game entered as deduced game, used Globe/Post/RBS. Rain threatened to prevent the starting of the battle - Post","1916WS1.EVA.regular.comment.csv",51
+"WS1191609080",51,"Game called due to rain, ends in 0-0 tie.","1916WS1.EVA.regular.comment.csv",52

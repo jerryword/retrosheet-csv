@@ -1,27 +1,28 @@
-"SEA200904150",77,"Debut game for Rafael Rodriguez","FILENAME_TX","LINE_NUMBER_CT"
-"SEA200905020",26,"originally scored as single, changed to double after game.","2009SEA.EVA.regular.comment.csv",2
-"SEA200905030",0,"$This is umpire Derryl Cousins' 4,000th major league game; he is the 18th person to umpire 4,000 games","2009SEA.EVA.regular.comment.csv",3
-"SEA200905050",68,"Kelley left with strained oblique after 3 pitches","2009SEA.EVA.regular.comment.csv",4
-"SEA200905170",51,"$Johnson's bunt rolled down the 1B line; Varitek threw to 1B to get Johnson but Balentien rounded second and started back to 1B thinking it was a foul ball.","2009SEA.EVA.regular.comment.csv",5
-"SEA200905170",51,"Mariners catcher Rob Johnson left the game due to an injured hand/wrist","2009SEA.EVA.regular.comment.csv",6
-"SEA200905180",10,"$Napoli overslid base so did not reach and hold it safely. Originally scored as double, but changed to single on 6-10-2009","2009SEA.EVA.regular.comment.csv",7
-"SEA200905200",12,"Angels left fielder Bobby Abreu left the game due to an injured foot/ankle","2009SEA.EVA.regular.comment.csv",8
-"SEA200906030",3,"replay,1,huffa001,BAL,wintm901,SEA03,F,N,I,,H $Aubrey Huff hit a fly down the RF line near the pole that was ruled a home run; the umpires huddled and changed the call to a foul ball and Orioles manager Dave Trembley came out to discuss the ruling; acting crew chief Mike Winters decided to watch the replay and upheld the foul call after a two-minute review","2009SEA.EVA.regular.comment.csv",9
-"SEA200906190",39,"$Mariners SS Yuniesky Betancourt and LF Endy Chavez collided as Betancourt made a spectacular catch of the popup; Chavez was taken off the field on a a motorized cart with possible ligament damage to his right knee","2009SEA.EVA.regular.comment.csv",10
-"SEA200906200",69,"DWS: this is 5E4 with advancement","2009SEA.EVA.regular.comment.csv",11
-"SEA200906230",55,"$the 5000th home run by the Mariners, appropriately hit by Ken Griffey","2009SEA.EVA.regular.comment.csv",12
-"SEA200906250",27,"ej,hairs001,P,hudsm901,Balls and strikes ej,blacb001,M,hudsm901,Balls and strikes on Hairston $Scott Hairston started towards first after a 3-2 pitch that he thought was high and outside; HP umpire Marvin Hudson emphatically called him out on the pitch and Hairston yelled at Hudson, who ejected Hairston; Padres manager Bud Black was also ejected by Hudson","2009SEA.EVA.regular.comment.csv",13
-"SEA200906250",63,"fan interference","2009SEA.EVA.regular.comment.csv",14
-"SEA200907070",6,"$Throw into stands; Orioles manager Trembley argued that runner on 1st should be allowed to score","2009SEA.EVA.regular.comment.csv",15
-"SEA200907070",7,"ej,tremd801,M,hallt901,Runner placement $Orioles manager Trembley ejected by HP umpire Hallion for resuming argument on runner placement; he threw hat","2009SEA.EVA.regular.comment.csv",16
-"SEA200907250",17,"Debut game for Michael Saunders","2009SEA.EVA.regular.comment.csv",17
-"SEA200907250",48,"$both benches emptied after Ben Francisco objected to being hit; both sides warned","2009SEA.EVA.regular.comment.csv",18
-"SEA200907250",81,"ej,abrew001,P,scotd901,Intentional HBP ej,wedge001,M,scotd901,Intentional HBP Indians pitcher Winston Abreu and manager Eric Wedge ejected by HP umpire Dale Scott","2009SEA.EVA.regular.comment.csv",19
-"SEA200907250",82,"fan interference","2009SEA.EVA.regular.comment.csv",20
-"SEA200908080",77,"Debut game for Doug Fister","2009SEA.EVA.regular.comment.csv",21
-"SEA200908140",11,"replay,2,posaj001,NYA,davig901,SEA03,I,N,I,,H $Jorge Posada's fly ball hit the top of the wall in right center and bounced back onto the field; it was ruled in play but Posada claimed that it was touched by a fan; crew chief Gerry Davis watched the replay and upheld the call","2009SEA.EVA.regular.comment.csv",22
-"SEA200908140",68,"fan interference","2009SEA.EVA.regular.comment.csv",23
-"SEA200908260",46,"replay,6,custj001,OAK,wintm901,SEA03,F,N,I,,H $Jack Cust hit the first pitch down the RF line and the ball struck a window at the top of a restaurant; it was called foul by 1B umpire and acting crew chief Mike Winters; Athletics manager Bob Geren asked if it went over the pole; Winters watched the replay and upheld the call as a foul ball","2009SEA.EVA.regular.comment.csv",24
-"SEA200908280",40,"Mariners first baseman Russell Branyan left the game due to an injured back","2009SEA.EVA.regular.comment.csv",25
-"SEA200909160",28,"White Sox pitcher Gavin Floyd left the game due to an injured foot/ankle","2009SEA.EVA.regular.comment.csv",26
-"SEA200909170",25,"Debut game for Adam Moore","2009SEA.EVA.regular.comment.csv",27
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"SEA200904150",77,"Debut game for Rafael Rodriguez","2009SEA.EVA.regular.comment.csv",2
+"SEA200905020",26,"originally scored as single, changed to double after game.","2009SEA.EVA.regular.comment.csv",3
+"SEA200905030",0,"$This is umpire Derryl Cousins' 4,000th major league game; he is the 18th person to umpire 4,000 games","2009SEA.EVA.regular.comment.csv",4
+"SEA200905050",68,"Kelley left with strained oblique after 3 pitches","2009SEA.EVA.regular.comment.csv",5
+"SEA200905170",51,"$Johnson's bunt rolled down the 1B line; Varitek threw to 1B to get Johnson but Balentien rounded second and started back to 1B thinking it was a foul ball.","2009SEA.EVA.regular.comment.csv",6
+"SEA200905170",51,"Mariners catcher Rob Johnson left the game due to an injured hand/wrist","2009SEA.EVA.regular.comment.csv",7
+"SEA200905180",10,"$Napoli overslid base so did not reach and hold it safely. Originally scored as double, but changed to single on 6-10-2009","2009SEA.EVA.regular.comment.csv",8
+"SEA200905200",12,"Angels left fielder Bobby Abreu left the game due to an injured foot/ankle","2009SEA.EVA.regular.comment.csv",9
+"SEA200906030",3,"replay,1,huffa001,BAL,wintm901,SEA03,F,N,I,,H $Aubrey Huff hit a fly down the RF line near the pole that was ruled a home run; the umpires huddled and changed the call to a foul ball and Orioles manager Dave Trembley came out to discuss the ruling; acting crew chief Mike Winters decided to watch the replay and upheld the foul call after a two-minute review","2009SEA.EVA.regular.comment.csv",10
+"SEA200906190",39,"$Mariners SS Yuniesky Betancourt and LF Endy Chavez collided as Betancourt made a spectacular catch of the popup; Chavez was taken off the field on a a motorized cart with possible ligament damage to his right knee","2009SEA.EVA.regular.comment.csv",11
+"SEA200906200",69,"DWS: this is 5E4 with advancement","2009SEA.EVA.regular.comment.csv",12
+"SEA200906230",55,"$the 5000th home run by the Mariners, appropriately hit by Ken Griffey","2009SEA.EVA.regular.comment.csv",13
+"SEA200906250",27,"ej,hairs001,P,hudsm901,Balls and strikes ej,blacb001,M,hudsm901,Balls and strikes on Hairston $Scott Hairston started towards first after a 3-2 pitch that he thought was high and outside; HP umpire Marvin Hudson emphatically called him out on the pitch and Hairston yelled at Hudson, who ejected Hairston; Padres manager Bud Black was also ejected by Hudson","2009SEA.EVA.regular.comment.csv",14
+"SEA200906250",63,"fan interference","2009SEA.EVA.regular.comment.csv",15
+"SEA200907070",6,"$Throw into stands; Orioles manager Trembley argued that runner on 1st should be allowed to score","2009SEA.EVA.regular.comment.csv",16
+"SEA200907070",7,"ej,tremd801,M,hallt901,Runner placement $Orioles manager Trembley ejected by HP umpire Hallion for resuming argument on runner placement; he threw hat","2009SEA.EVA.regular.comment.csv",17
+"SEA200907250",17,"Debut game for Michael Saunders","2009SEA.EVA.regular.comment.csv",18
+"SEA200907250",48,"$both benches emptied after Ben Francisco objected to being hit; both sides warned","2009SEA.EVA.regular.comment.csv",19
+"SEA200907250",81,"ej,abrew001,P,scotd901,Intentional HBP ej,wedge001,M,scotd901,Intentional HBP Indians pitcher Winston Abreu and manager Eric Wedge ejected by HP umpire Dale Scott","2009SEA.EVA.regular.comment.csv",20
+"SEA200907250",82,"fan interference","2009SEA.EVA.regular.comment.csv",21
+"SEA200908080",77,"Debut game for Doug Fister","2009SEA.EVA.regular.comment.csv",22
+"SEA200908140",11,"replay,2,posaj001,NYA,davig901,SEA03,I,N,I,,H $Jorge Posada's fly ball hit the top of the wall in right center and bounced back onto the field; it was ruled in play but Posada claimed that it was touched by a fan; crew chief Gerry Davis watched the replay and upheld the call","2009SEA.EVA.regular.comment.csv",23
+"SEA200908140",68,"fan interference","2009SEA.EVA.regular.comment.csv",24
+"SEA200908260",46,"replay,6,custj001,OAK,wintm901,SEA03,F,N,I,,H $Jack Cust hit the first pitch down the RF line and the ball struck a window at the top of a restaurant; it was called foul by 1B umpire and acting crew chief Mike Winters; Athletics manager Bob Geren asked if it went over the pole; Winters watched the replay and upheld the call as a foul ball","2009SEA.EVA.regular.comment.csv",25
+"SEA200908280",40,"Mariners first baseman Russell Branyan left the game due to an injured back","2009SEA.EVA.regular.comment.csv",26
+"SEA200909160",28,"White Sox pitcher Gavin Floyd left the game due to an injured foot/ankle","2009SEA.EVA.regular.comment.csv",27
+"SEA200909170",25,"Debut game for Adam Moore","2009SEA.EVA.regular.comment.csv",28

@@ -1,17 +1,18 @@
-"BOS194104250",1,"$Major League debut for Dick Newsome","FILENAME_TX","LINE_NUMBER_CT"
-"BOS194105150",48,"ej,desag101,P,rue-j901,Balls and strikes Gene Desautels ejected by HP umpire Joe Rue","1941BOS.EVA.regular.comment.csv",2
-"BOS194105170",85,"$Ken Keltner's hand was injured by the batted ball","1941BOS.EVA.regular.comment.csv",3
-"BOS194105170",88,"play,9,0,mackr101,??,,4/P play,9,0,desag101,??,,HP play,9,0,browc103,??,,13.1-2 play,9,0,boudl101,??,,23 play,9,1,pytlf101,??,,63 $Game called due to rain after one batter in the bottom of the ninth; plays from top and bottom of 9th erased","1941BOS.EVA.regular.comment.csv",4
-"BOS194105180",37,"$Carey spiked on hand by York, had to leave game.","1941BOS.EVA.regular.comment.csv",5
-"BOS194105180",77,"$Tabor actually CS2, out trying to advance to third.","1941BOS.EVA.regular.comment.csv",6
-"BOS194105210",29,"$Harlond Clift's fly ball struck the speaker horn atop the LF wall; he claimed it should be ruled a homer","1941BOS.EVA.regular.comment.csv",7
-"BOS194105302",48,"$Ken Keller hurt his ankle","1941BOS.EVA.regular.comment.csv",8
-"BOS194106240",21,"$Lou Boudreau worked the hidden ball trick on Dick Newsome","1941BOS.EVA.regular.comment.csv",9
-"BOS194107270",45,"$on an attempted double steal, Campbell scored on Bobby Doerr's errant throw to HP; Heath was run down","1941BOS.EVA.regular.comment.csv",10
-"BOS194107312",62,"$game called for mist (controversily), not rain","1941BOS.EVA.regular.comment.csv",11
-"BOS194108030",36,"$Collision between Sullivan and Pytlak who apparently tagged runner out; plate umpire Pipgras ruled obstruciton on Pytlak and Sullivan scored; RBI, no error","1941BOS.EVA.regular.comment.csv",12
-"BOS194108080",0,"$7,000 ladies and children","1941BOS.EVA.regular.comment.csv",13
-"BOS194108300",16,"$the throw to 3B struck Johnny Peacock","1941BOS.EVA.regular.comment.csv",14
-"BOS194109030",22,"$Sometime in the 3rd, Buddy Rosar fell chasing a foul and knocked himself out; Bill Dickey replaced him","1941BOS.EVA.regular.comment.csv",15
-"BOS194109030",41,"ej,gomel102,P,summb901,Bench jockeying $Lefty Gomez (not in game) ejected by 3B umpire Summers for arguing call of safe at 2nd base on pickoff","1941BOS.EVA.regular.comment.csv",16
-"BOS194109200",26,"$Jim Tabor lost track of outs and had rounded 3B","1941BOS.EVA.regular.comment.csv",17
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"BOS194104250",1,"$Major League debut for Dick Newsome","1941BOS.EVA.regular.comment.csv",2
+"BOS194105150",48,"ej,desag101,P,rue-j901,Balls and strikes Gene Desautels ejected by HP umpire Joe Rue","1941BOS.EVA.regular.comment.csv",3
+"BOS194105170",85,"$Ken Keltner's hand was injured by the batted ball","1941BOS.EVA.regular.comment.csv",4
+"BOS194105170",88,"play,9,0,mackr101,??,,4/P play,9,0,desag101,??,,HP play,9,0,browc103,??,,13.1-2 play,9,0,boudl101,??,,23 play,9,1,pytlf101,??,,63 $Game called due to rain after one batter in the bottom of the ninth; plays from top and bottom of 9th erased","1941BOS.EVA.regular.comment.csv",5
+"BOS194105180",37,"$Carey spiked on hand by York, had to leave game.","1941BOS.EVA.regular.comment.csv",6
+"BOS194105180",77,"$Tabor actually CS2, out trying to advance to third.","1941BOS.EVA.regular.comment.csv",7
+"BOS194105210",29,"$Harlond Clift's fly ball struck the speaker horn atop the LF wall; he claimed it should be ruled a homer","1941BOS.EVA.regular.comment.csv",8
+"BOS194105302",48,"$Ken Keller hurt his ankle","1941BOS.EVA.regular.comment.csv",9
+"BOS194106240",21,"$Lou Boudreau worked the hidden ball trick on Dick Newsome","1941BOS.EVA.regular.comment.csv",10
+"BOS194107270",45,"$on an attempted double steal, Campbell scored on Bobby Doerr's errant throw to HP; Heath was run down","1941BOS.EVA.regular.comment.csv",11
+"BOS194107312",62,"$game called for mist (controversily), not rain","1941BOS.EVA.regular.comment.csv",12
+"BOS194108030",36,"$Collision between Sullivan and Pytlak who apparently tagged runner out; plate umpire Pipgras ruled obstruciton on Pytlak and Sullivan scored; RBI, no error","1941BOS.EVA.regular.comment.csv",13
+"BOS194108080",0,"$7,000 ladies and children","1941BOS.EVA.regular.comment.csv",14
+"BOS194108300",16,"$the throw to 3B struck Johnny Peacock","1941BOS.EVA.regular.comment.csv",15
+"BOS194109030",22,"$Sometime in the 3rd, Buddy Rosar fell chasing a foul and knocked himself out; Bill Dickey replaced him","1941BOS.EVA.regular.comment.csv",16
+"BOS194109030",41,"ej,gomel102,P,summb901,Bench jockeying $Lefty Gomez (not in game) ejected by 3B umpire Summers for arguing call of safe at 2nd base on pickoff","1941BOS.EVA.regular.comment.csv",17
+"BOS194109200",26,"$Jim Tabor lost track of outs and had rounded 3B","1941BOS.EVA.regular.comment.csv",18

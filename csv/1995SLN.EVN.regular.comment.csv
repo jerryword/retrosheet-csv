@@ -1,13 +1,14 @@
-"SLN199504260",0,"Debut for umpires Dave Yeast, Fred Schaaf, Bob Homolka and Bill Davis the season started with replacement umpires because the staff arbiters were on strike","FILENAME_TX","LINE_NUMBER_CT"
-"SLN199504260",42,"Debut game for Allen Battle","1995SLN.EVN.regular.comment.csv",2
-"SLN199505020",33,"umpchange,4,ump2b,(None) $2B umpire Terry Bovey left with a torn right calf muscle; this was Bovey's last game as a major league umpire; he worked as a replacement umpire for multiple strikes","1995SLN.EVN.regular.comment.csv",3
-"SLN199505020",41,"Debut game for Freddie Garcia","1995SLN.EVN.regular.comment.csv",4
-"SLN199505020",56,"Debut game for Angelo Encarnacion","1995SLN.EVN.regular.comment.csv",5
-"SLN199505040",58,"Debut game for Terry Bradshaw","1995SLN.EVN.regular.comment.csv",6
-"SLN199506200",64,"Debut game for Roger Cedeno","1995SLN.EVN.regular.comment.csv",7
-"SLN199506230",49,"Debut game for Ryan Karp","1995SLN.EVN.regular.comment.csv",8
-"SLN199508040",17,"Debut game for Mark Sweeney","1995SLN.EVN.regular.comment.csv",9
-"SLN199508060",55,"ej,jorgm001,M,willc901,Call at 1B $Cardinals manager Jorgensen ejected by 1B umpire Williams for arguing that Hemond had returned safely to 1st","1995SLN.EVN.regular.comment.csv",10
-"SLN199508230",12,"ej,jordb001,P,rapue901,Called third strike $Jordan ejected by HP umpire Rapuano for arguing called third strike","1995SLN.EVN.regular.comment.csv",11
-"SLN199509090",42,"ej,bochb002,M,vanol901,Called third strike ej,camik001,P,vanol901,Called third strike Ken Caminiti and Padres manager Bruce Bochy ejected by HP umpire Larry Vanover","1995SLN.EVN.regular.comment.csv",12
-"SLN199509170",62,"Debut game for Doug Creek","1995SLN.EVN.regular.comment.csv",13
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"SLN199504260",0,"Debut for umpires Dave Yeast, Fred Schaaf, Bob Homolka and Bill Davis the season started with replacement umpires because the staff arbiters were on strike","1995SLN.EVN.regular.comment.csv",2
+"SLN199504260",42,"Debut game for Allen Battle","1995SLN.EVN.regular.comment.csv",3
+"SLN199505020",33,"umpchange,4,ump2b,(None) $2B umpire Terry Bovey left with a torn right calf muscle; this was Bovey's last game as a major league umpire; he worked as a replacement umpire for multiple strikes","1995SLN.EVN.regular.comment.csv",4
+"SLN199505020",41,"Debut game for Freddie Garcia","1995SLN.EVN.regular.comment.csv",5
+"SLN199505020",56,"Debut game for Angelo Encarnacion","1995SLN.EVN.regular.comment.csv",6
+"SLN199505040",58,"Debut game for Terry Bradshaw","1995SLN.EVN.regular.comment.csv",7
+"SLN199506200",64,"Debut game for Roger Cedeno","1995SLN.EVN.regular.comment.csv",8
+"SLN199506230",49,"Debut game for Ryan Karp","1995SLN.EVN.regular.comment.csv",9
+"SLN199508040",17,"Debut game for Mark Sweeney","1995SLN.EVN.regular.comment.csv",10
+"SLN199508060",55,"ej,jorgm001,M,willc901,Call at 1B $Cardinals manager Jorgensen ejected by 1B umpire Williams for arguing that Hemond had returned safely to 1st","1995SLN.EVN.regular.comment.csv",11
+"SLN199508230",12,"ej,jordb001,P,rapue901,Called third strike $Jordan ejected by HP umpire Rapuano for arguing called third strike","1995SLN.EVN.regular.comment.csv",12
+"SLN199509090",42,"ej,bochb002,M,vanol901,Called third strike ej,camik001,P,vanol901,Called third strike Ken Caminiti and Padres manager Bruce Bochy ejected by HP umpire Larry Vanover","1995SLN.EVN.regular.comment.csv",13
+"SLN199509170",62,"Debut game for Doug Creek","1995SLN.EVN.regular.comment.csv",14

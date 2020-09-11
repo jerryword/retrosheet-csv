@@ -1,26 +1,27 @@
-"SLN197304140",11,"$Ted Sizemore called for obstruction","FILENAME_TX","LINE_NUMBER_CT"
-"SLN197304170",117,"ej,brocl102,P,olsea901,Called third strike Lou Brock ejected by HP umpire Andy Olsen","1973SLN.EVN.regular.comment.csv",2
-"SLN197304250",7,"Ted Sizemore injured","1973SLN.EVN.regular.comment.csv",3
-"SLN197305260",42,"$Mike Tyson attempted to run from 1B to 3B on the WP","1973SLN.EVN.regular.comment.csv",4
-"SLN197305260",64,"Game called after 1 hour rain delay","1973SLN.EVN.regular.comment.csv",5
-"SLN197305310",5,"ej,andes101,M,froeb901,Balk call $Reds manager Anderson ejected by HP umpire Froemming for arguing balk call","1973SLN.EVN.regular.comment.csv",6
-"SLN197306030",72,"ej,durol101,M,davis901,Catch/drop $Astros manager Durocher ejected by 2B umpire Davidson for arguing that SS dropped line drive but umpire it a catch with the drop when he started to throw","1973SLN.EVN.regular.comment.csv",7
-"SLN197306180",30,"ej,folit001,P,burkk101,Stalling (Bumped umpire) $Foli ejected by HP umpire Burkhart for stalling as the Expos hoped for a rain stoppage before the game was official; Foli bumped umpire during argument","1973SLN.EVN.regular.comment.csv",8
-"SLN197306180",36,"game called after 62 minute rain delay","1973SLN.EVN.regular.comment.csv",9
-"SLN197306220",36,"$Bernie Carbo slipped trying to score","1973SLN.EVN.regular.comment.csv",10
-"SLN197306230",16,"$Don Kessinger decked by Fergie Jenkins pitch","1973SLN.EVN.regular.comment.csv",11
-"SLN197306230",20,"$Rick Wise decked on first pitch","1973SLN.EVN.regular.comment.csv",12
-"SLN197307031",61,"Ramon Hernandez twisted left ankle fielding Joe Torre's grounder","1973SLN.EVN.regular.comment.csv",13
-"SLN197307050",5,"$Willie Stargell hit on elbow","1973SLN.EVN.regular.comment.csv",14
-"SLN197307050",40,"Willie Stargell left to get elbow X-rayed","1973SLN.EVN.regular.comment.csv",15
-"SLN197307261",52,"Debut game for Bake McBride","1973SLN.EVN.regular.comment.csv",16
-"SLN197308110",63,"Debut game for Heity Cruz","1973SLN.EVN.regular.comment.csv",17
-"SLN197308120",62,"Debut game for Tom Heintzelman","1973SLN.EVN.regular.comment.csv",18
-"SLN197308300",58,"fan interference","1973SLN.EVN.regular.comment.csv",19
-"SLN197308300",71,"ej,milnj101,P,weyel901,Catch/no catch call $Mets Milner ejected by 3B umpire Weyer for arguing he caught a foul hit by McCarver but tripped over bullpen mound and dropped; it was ruled no catch","1973SLN.EVN.regular.comment.csv",20
-"SLN197309120",58,"$Steve Rogers called for interference on steal attempt","1973SLN.EVN.regular.comment.csv",21
-"SLN197309140",7,"ej,hebnr001,P,davis901,Call at HP Richie Hebner ejected by HP umpire Satch Davidson","1973SLN.EVN.regular.comment.csv",22
-"SLN197309250",41,"Rick Monday injured catching Lou Brock's fly ball","1973SLN.EVN.regular.comment.csv",23
-"SLN197309280",15,"Debut game for Marc Hill","1973SLN.EVN.regular.comment.csv",24
-"SLN197309280",30,"two rain delays during Ken Reitz's at bat: 5 minutes and 71 minutes","1973SLN.EVN.regular.comment.csv",25
-"SLN197309290",76,"$Bake McBride out on appeal for leaving 3B too soon","1973SLN.EVN.regular.comment.csv",26
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"SLN197304140",11,"$Ted Sizemore called for obstruction","1973SLN.EVN.regular.comment.csv",2
+"SLN197304170",117,"ej,brocl102,P,olsea901,Called third strike Lou Brock ejected by HP umpire Andy Olsen","1973SLN.EVN.regular.comment.csv",3
+"SLN197304250",7,"Ted Sizemore injured","1973SLN.EVN.regular.comment.csv",4
+"SLN197305260",42,"$Mike Tyson attempted to run from 1B to 3B on the WP","1973SLN.EVN.regular.comment.csv",5
+"SLN197305260",64,"Game called after 1 hour rain delay","1973SLN.EVN.regular.comment.csv",6
+"SLN197305310",5,"ej,andes101,M,froeb901,Balk call $Reds manager Anderson ejected by HP umpire Froemming for arguing balk call","1973SLN.EVN.regular.comment.csv",7
+"SLN197306030",72,"ej,durol101,M,davis901,Catch/drop $Astros manager Durocher ejected by 2B umpire Davidson for arguing that SS dropped line drive but umpire it a catch with the drop when he started to throw","1973SLN.EVN.regular.comment.csv",8
+"SLN197306180",30,"ej,folit001,P,burkk101,Stalling (Bumped umpire) $Foli ejected by HP umpire Burkhart for stalling as the Expos hoped for a rain stoppage before the game was official; Foli bumped umpire during argument","1973SLN.EVN.regular.comment.csv",9
+"SLN197306180",36,"game called after 62 minute rain delay","1973SLN.EVN.regular.comment.csv",10
+"SLN197306220",36,"$Bernie Carbo slipped trying to score","1973SLN.EVN.regular.comment.csv",11
+"SLN197306230",16,"$Don Kessinger decked by Fergie Jenkins pitch","1973SLN.EVN.regular.comment.csv",12
+"SLN197306230",20,"$Rick Wise decked on first pitch","1973SLN.EVN.regular.comment.csv",13
+"SLN197307031",61,"Ramon Hernandez twisted left ankle fielding Joe Torre's grounder","1973SLN.EVN.regular.comment.csv",14
+"SLN197307050",5,"$Willie Stargell hit on elbow","1973SLN.EVN.regular.comment.csv",15
+"SLN197307050",40,"Willie Stargell left to get elbow X-rayed","1973SLN.EVN.regular.comment.csv",16
+"SLN197307261",52,"Debut game for Bake McBride","1973SLN.EVN.regular.comment.csv",17
+"SLN197308110",63,"Debut game for Heity Cruz","1973SLN.EVN.regular.comment.csv",18
+"SLN197308120",62,"Debut game for Tom Heintzelman","1973SLN.EVN.regular.comment.csv",19
+"SLN197308300",58,"fan interference","1973SLN.EVN.regular.comment.csv",20
+"SLN197308300",71,"ej,milnj101,P,weyel901,Catch/no catch call $Mets Milner ejected by 3B umpire Weyer for arguing he caught a foul hit by McCarver but tripped over bullpen mound and dropped; it was ruled no catch","1973SLN.EVN.regular.comment.csv",21
+"SLN197309120",58,"$Steve Rogers called for interference on steal attempt","1973SLN.EVN.regular.comment.csv",22
+"SLN197309140",7,"ej,hebnr001,P,davis901,Call at HP Richie Hebner ejected by HP umpire Satch Davidson","1973SLN.EVN.regular.comment.csv",23
+"SLN197309250",41,"Rick Monday injured catching Lou Brock's fly ball","1973SLN.EVN.regular.comment.csv",24
+"SLN197309280",15,"Debut game for Marc Hill","1973SLN.EVN.regular.comment.csv",25
+"SLN197309280",30,"two rain delays during Ken Reitz's at bat: 5 minutes and 71 minutes","1973SLN.EVN.regular.comment.csv",26
+"SLN197309290",76,"$Bake McBride out on appeal for leaving 3B too soon","1973SLN.EVN.regular.comment.csv",27

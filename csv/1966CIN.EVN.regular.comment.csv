@@ -1,21 +1,22 @@
-"CIN196604240",45,"Game called for rain; game 2 rained out","FILENAME_TX","LINE_NUMBER_CT"
-"CIN196605220",59,"ej,schor101,M,secof101,Call at HP Cardinals Manager Red Schoendienst ejected by HP umpire Frank Secory","1966CIN.EVN.regular.comment.csv",2
-"CIN196606020",49,"$Tommy Harper called for interference for running into his own batted ball","1966CIN.EVN.regular.comment.csv",3
-"CIN196606020",72,"ej,rosep001,P,kiblj901,Call at 1B Pete Rose ejected by 1B umpire John Kibler","1966CIN.EVN.regular.comment.csv",4
-"CIN196606020",82,"ej,batej102,P,pryop901,Balls and strikes John Bateman ejected by HP umpire Paul Pryor","1966CIN.EVN.regular.comment.csv",5
-"CIN196606052",44,"missing play in CIN196606052","1966CIN.EVN.regular.comment.csv",6
-"CIN196606052",72,"missing play in CIN196606052","1966CIN.EVN.regular.comment.csv",7
-"CIN196606152",10,"ej,jackl102,P,venzt901,Bench jockeying $Phillies pitcher Jackson (not in game) ejected by HP umpire Venzon for bench jockeying","1966CIN.EVN.regular.comment.csv",8
-"CIN196607150",60,"ej,cepeo101,P,kiblj901,Call at 1B $Cepeda ejected by 1B umpire Kibler for arguing he was safe at 1st","1966CIN.EVN.regular.comment.csv",9
-"CIN196608130",50,"game called after 50 minute rain delay","1966CIN.EVN.regular.comment.csv",10
-"CIN196608140",78,"missing play in CIN196608140","1966CIN.EVN.regular.comment.csv",11
-"CIN196608271",27,"ej,brisd801,M,secof101,Balk call (Reversed twice) $Reds manager Bristol ejected by 1B umpire Secory after balk call was reverse upon Houston appeal and then reversed back after Philadekphis appeal","1966CIN.EVN.regular.comment.csv",12
-"CIN196608310",72,"Missing play in CIN196608310","1966CIN.EVN.regular.comment.csv",13
-"CIN196609020",15,"ej,brisd801,M,craws901,Tagging up on sac fly $Reds manager Bristol ejected by 3B umpire Crawford at end of inning for continuing to argue that Roseboro had not tagged up before scoring on Parker's fly ball","1966CIN.EVN.regular.comment.csv",14
-"CIN196609020",54,"Claude Osteen left with pulled groin muscle","1966CIN.EVN.regular.comment.csv",15
-"CIN196609030",61,"Sandy Koufax left with flareup in arthritic elbow","1966CIN.EVN.regular.comment.csv",16
-"CIN196609040",27,"Don Drysdale's trick knee popped out","1966CIN.EVN.regular.comment.csv",17
-"CIN196609040",62,"umpchange,7,umphome,harvd901 umpchange,7,ump2b,(None) umpchange,7,ump3b,varge901 $HP umpire Wendelstedt leaves with heat exhaustion; 3B umpire Harvey moves behind plate, 2B umpire Vargo moves to 3rd and game finished wuth 3 umpires","1966CIN.EVN.regular.comment.csv",18
-"CIN196609230",0,"Debut for umpire Frank Dezelan","1966CIN.EVN.regular.comment.csv",19
-"CIN196609290",17,"Debut game for Don Wilson","1966CIN.EVN.regular.comment.csv",20
-"CIN196610011",43,"Debut game for Cecil Upshaw","1966CIN.EVN.regular.comment.csv",21
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"CIN196604240",45,"Game called for rain; game 2 rained out","1966CIN.EVN.regular.comment.csv",2
+"CIN196605220",59,"ej,schor101,M,secof101,Call at HP Cardinals Manager Red Schoendienst ejected by HP umpire Frank Secory","1966CIN.EVN.regular.comment.csv",3
+"CIN196606020",49,"$Tommy Harper called for interference for running into his own batted ball","1966CIN.EVN.regular.comment.csv",4
+"CIN196606020",72,"ej,rosep001,P,kiblj901,Call at 1B Pete Rose ejected by 1B umpire John Kibler","1966CIN.EVN.regular.comment.csv",5
+"CIN196606020",82,"ej,batej102,P,pryop901,Balls and strikes John Bateman ejected by HP umpire Paul Pryor","1966CIN.EVN.regular.comment.csv",6
+"CIN196606052",44,"missing play in CIN196606052","1966CIN.EVN.regular.comment.csv",7
+"CIN196606052",72,"missing play in CIN196606052","1966CIN.EVN.regular.comment.csv",8
+"CIN196606152",10,"ej,jackl102,P,venzt901,Bench jockeying $Phillies pitcher Jackson (not in game) ejected by HP umpire Venzon for bench jockeying","1966CIN.EVN.regular.comment.csv",9
+"CIN196607150",60,"ej,cepeo101,P,kiblj901,Call at 1B $Cepeda ejected by 1B umpire Kibler for arguing he was safe at 1st","1966CIN.EVN.regular.comment.csv",10
+"CIN196608130",50,"game called after 50 minute rain delay","1966CIN.EVN.regular.comment.csv",11
+"CIN196608140",78,"missing play in CIN196608140","1966CIN.EVN.regular.comment.csv",12
+"CIN196608271",27,"ej,brisd801,M,secof101,Balk call (Reversed twice) $Reds manager Bristol ejected by 1B umpire Secory after balk call was reverse upon Houston appeal and then reversed back after Philadekphis appeal","1966CIN.EVN.regular.comment.csv",13
+"CIN196608310",72,"Missing play in CIN196608310","1966CIN.EVN.regular.comment.csv",14
+"CIN196609020",15,"ej,brisd801,M,craws901,Tagging up on sac fly $Reds manager Bristol ejected by 3B umpire Crawford at end of inning for continuing to argue that Roseboro had not tagged up before scoring on Parker's fly ball","1966CIN.EVN.regular.comment.csv",15
+"CIN196609020",54,"Claude Osteen left with pulled groin muscle","1966CIN.EVN.regular.comment.csv",16
+"CIN196609030",61,"Sandy Koufax left with flareup in arthritic elbow","1966CIN.EVN.regular.comment.csv",17
+"CIN196609040",27,"Don Drysdale's trick knee popped out","1966CIN.EVN.regular.comment.csv",18
+"CIN196609040",62,"umpchange,7,umphome,harvd901 umpchange,7,ump2b,(None) umpchange,7,ump3b,varge901 $HP umpire Wendelstedt leaves with heat exhaustion; 3B umpire Harvey moves behind plate, 2B umpire Vargo moves to 3rd and game finished wuth 3 umpires","1966CIN.EVN.regular.comment.csv",19
+"CIN196609230",0,"Debut for umpire Frank Dezelan","1966CIN.EVN.regular.comment.csv",20
+"CIN196609290",17,"Debut game for Don Wilson","1966CIN.EVN.regular.comment.csv",21
+"CIN196610011",43,"Debut game for Cecil Upshaw","1966CIN.EVN.regular.comment.csv",22

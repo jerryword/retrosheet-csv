@@ -1,31 +1,32 @@
-"CHA192204130",40,"$Frank Ellerbee out on appeal for missing 2B","FILENAME_TX","LINE_NUMBER_CT"
-"CHA192205020",77,"$Stuffy McInnis called for interference for running into his own bunt","1922CHA.EVA.regular.comment.csv",2
-"CHA192205050",37,"ej,mcins101,P,nalld901,Call at 1B Stuffy McInnis ejected by 1B umpire Dick Nallin","1922CHA.EVA.regular.comment.csv",3
-"CHA192205260",46,"$Joe Mulligan caught in a rundown; he got back to 2B and Johnny Mostil was there and Mostil tagged out","1922CHA.EVA.regular.comment.csv",4
-"CHA192206070",88,"ej,falkb101,P,wilsf901,Balls and strikes (Threw bat) ej,mcclh103,P,wilsf901,Balls and strikes Bibb Falk and Hervey McClellan ejected by HP umpire Frank Wilson","1922CHA.EVA.regular.comment.csv",5
-"CHA192206090",45,"$Wally Schang hurt sliding into 1B; replaced by courtesy runner Al DeVormer","1922CHA.EVA.regular.comment.csv",6
-"CHA192206090",46,"$Wally Schang back in the lineup","1922CHA.EVA.regular.comment.csv",7
-"CHA192206090",69,"$Al DeVormer already ran for Wally Schang in the sixth","1922CHA.EVA.regular.comment.csv",8
-"CHA192206130",39,"$Johnny Mostil and Joe Harris collided; Mostil stepped on Harris' foot","1922CHA.EVA.regular.comment.csv",9
-"CHA192206130",47,"$Ray Schalk called for interference for running into his own batted ball","1922CHA.EVA.regular.comment.csv",10
-"CHA192206140",75,"$Jimmy Dykes rounded 1B too far","1922CHA.EVA.regular.comment.csv",11
-"CHA192206160",72,"$Ralph Young rounded 2B too far","1922CHA.EVA.regular.comment.csv",12
-"CHA192206200",91,"reconstructed top of 10th to end in CHA192206200","1922CHA.EVA.regular.comment.csv",13
-"CHA192206210",59,"$Charlie Robertson and Patsy Gharrity collided at HP","1922CHA.EVA.regular.comment.csv",14
-"CHA192206230",74,"$Bill Doran rounded 3B too far","1922CHA.EVA.regular.comment.csv",15
-"CHA192206250",79,"ej,speat101,M,walse101,Balls and strikes Indians Manager Tris Speaker ejected by HP umpire Ed Walsh","1922CHA.EVA.regular.comment.csv",16
-"CHA192207010",63,"reconstructed top of 7th to end in CHA192207010","1922CHA.EVA.regular.comment.csv",17
-"CHA192207250",17,"in 1922 no PO given","1922CHA.EVA.regular.comment.csv",18
-"CHA192207270",56,"$Dixie Leverette hit on the side of the head and knocked unconscious","1922CHA.EVA.regular.comment.csv",19
-"CHA192207290",21,"Off Johnson's glove.","1922CHA.EVA.regular.comment.csv",20
-"CHA192207290",61,"rain started","1922CHA.EVA.regular.comment.csv",21
-"CHA192208040",47,"bunt assumed","1922CHA.EVA.regular.comment.csv",22
-"CHA192208070",67,"reconstructed top of 8th to end in CHA192208070","1922CHA.EVA.regular.comment.csv",23
-"CHA192209042",19,"bunt assumed","1922CHA.EVA.regular.comment.csv",24
-"CHA192209042",62,"$a fire broke out in LF stands and spread quickly but an attendant with hand extinguisher put it out","1922CHA.EVA.regular.comment.csv",25
-"CHA192209051",3,"$Bobby Veach and Earl Sheely collided at 1B","1922CHA.EVA.regular.comment.csv",26
-"CHA192209070",92,"$Ray Schalk struck on finger by a foul ball","1922CHA.EVA.regular.comment.csv",27
-"CHA192209120",8,"$Yam Yaryan injured by a foul ball","1922CHA.EVA.regular.comment.csv",28
-"CHA192209131",58,"$the Yankees played 9/11 in Philadelphia and were off 9/12; Everett Scott didn't travel with the team but went home to Auburn, IN; early this morning, Scott caught a train to Chicago but the engine blew out a cylinder head near South Bend; with his 970-game iron man streak in danger, he caught an interurban car in South Bend which got him to Gary; he then took a taxi from Gary to Comiskey Park which cost him $40","1922CHA.EVA.regular.comment.csv",29
-"CHA192209160",61,"pbp account ends here, rest deduced","1922CHA.EVA.regular.comment.csv",30
-"CHA192209201",11,"$Bing Miller called for interference for running into his own bunt","1922CHA.EVA.regular.comment.csv",31
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"CHA192204130",40,"$Frank Ellerbee out on appeal for missing 2B","1922CHA.EVA.regular.comment.csv",2
+"CHA192205020",77,"$Stuffy McInnis called for interference for running into his own bunt","1922CHA.EVA.regular.comment.csv",3
+"CHA192205050",37,"ej,mcins101,P,nalld901,Call at 1B Stuffy McInnis ejected by 1B umpire Dick Nallin","1922CHA.EVA.regular.comment.csv",4
+"CHA192205260",46,"$Joe Mulligan caught in a rundown; he got back to 2B and Johnny Mostil was there and Mostil tagged out","1922CHA.EVA.regular.comment.csv",5
+"CHA192206070",88,"ej,falkb101,P,wilsf901,Balls and strikes (Threw bat) ej,mcclh103,P,wilsf901,Balls and strikes Bibb Falk and Hervey McClellan ejected by HP umpire Frank Wilson","1922CHA.EVA.regular.comment.csv",6
+"CHA192206090",45,"$Wally Schang hurt sliding into 1B; replaced by courtesy runner Al DeVormer","1922CHA.EVA.regular.comment.csv",7
+"CHA192206090",46,"$Wally Schang back in the lineup","1922CHA.EVA.regular.comment.csv",8
+"CHA192206090",69,"$Al DeVormer already ran for Wally Schang in the sixth","1922CHA.EVA.regular.comment.csv",9
+"CHA192206130",39,"$Johnny Mostil and Joe Harris collided; Mostil stepped on Harris' foot","1922CHA.EVA.regular.comment.csv",10
+"CHA192206130",47,"$Ray Schalk called for interference for running into his own batted ball","1922CHA.EVA.regular.comment.csv",11
+"CHA192206140",75,"$Jimmy Dykes rounded 1B too far","1922CHA.EVA.regular.comment.csv",12
+"CHA192206160",72,"$Ralph Young rounded 2B too far","1922CHA.EVA.regular.comment.csv",13
+"CHA192206200",91,"reconstructed top of 10th to end in CHA192206200","1922CHA.EVA.regular.comment.csv",14
+"CHA192206210",59,"$Charlie Robertson and Patsy Gharrity collided at HP","1922CHA.EVA.regular.comment.csv",15
+"CHA192206230",74,"$Bill Doran rounded 3B too far","1922CHA.EVA.regular.comment.csv",16
+"CHA192206250",79,"ej,speat101,M,walse101,Balls and strikes Indians Manager Tris Speaker ejected by HP umpire Ed Walsh","1922CHA.EVA.regular.comment.csv",17
+"CHA192207010",63,"reconstructed top of 7th to end in CHA192207010","1922CHA.EVA.regular.comment.csv",18
+"CHA192207250",17,"in 1922 no PO given","1922CHA.EVA.regular.comment.csv",19
+"CHA192207270",56,"$Dixie Leverette hit on the side of the head and knocked unconscious","1922CHA.EVA.regular.comment.csv",20
+"CHA192207290",21,"Off Johnson's glove.","1922CHA.EVA.regular.comment.csv",21
+"CHA192207290",61,"rain started","1922CHA.EVA.regular.comment.csv",22
+"CHA192208040",47,"bunt assumed","1922CHA.EVA.regular.comment.csv",23
+"CHA192208070",67,"reconstructed top of 8th to end in CHA192208070","1922CHA.EVA.regular.comment.csv",24
+"CHA192209042",19,"bunt assumed","1922CHA.EVA.regular.comment.csv",25
+"CHA192209042",62,"$a fire broke out in LF stands and spread quickly but an attendant with hand extinguisher put it out","1922CHA.EVA.regular.comment.csv",26
+"CHA192209051",3,"$Bobby Veach and Earl Sheely collided at 1B","1922CHA.EVA.regular.comment.csv",27
+"CHA192209070",92,"$Ray Schalk struck on finger by a foul ball","1922CHA.EVA.regular.comment.csv",28
+"CHA192209120",8,"$Yam Yaryan injured by a foul ball","1922CHA.EVA.regular.comment.csv",29
+"CHA192209131",58,"$the Yankees played 9/11 in Philadelphia and were off 9/12; Everett Scott didn't travel with the team but went home to Auburn, IN; early this morning, Scott caught a train to Chicago but the engine blew out a cylinder head near South Bend; with his 970-game iron man streak in danger, he caught an interurban car in South Bend which got him to Gary; he then took a taxi from Gary to Comiskey Park which cost him $40","1922CHA.EVA.regular.comment.csv",30
+"CHA192209160",61,"pbp account ends here, rest deduced","1922CHA.EVA.regular.comment.csv",31
+"CHA192209201",11,"$Bing Miller called for interference for running into his own bunt","1922CHA.EVA.regular.comment.csv",32

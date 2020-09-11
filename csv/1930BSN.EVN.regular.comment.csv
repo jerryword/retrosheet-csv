@@ -1,24 +1,25 @@
-"BSN193004270",13,"ej,mckeb101,M,morac102,Interference non-call $Braves manager McKechnie ejected by HP umpire Moran for arguing that Phils third base coach did not get out of way of the Braves third baseman trying to catch wind- blown pop-up","FILENAME_TX","LINE_NUMBER_CT"
-"BSN193006011",79,"This was Buster Chatham's major-league debut","1930BSN.EVN.regular.comment.csv",2
-"BSN193006012",70,"$game called due to curfew","1930BSN.EVN.regular.comment.csv",3
-"BSN193006130",51,"$late throw to second; no hit","1930BSN.EVN.regular.comment.csv",4
-"BSN193007132",35,"$Spohrer injured by foul-tip during Bush's at bat","1930BSN.EVN.regular.comment.csv",5
-"BSN193007132",61,"play,9,0,wilsh102,??,,S9 play,9,0,stepr101,??,,S/BG.1-2 play,9,0,grimc101,??,,S7.2-H;1-3(E7) play,9,0,nelsl101,??,,NP sub,tolsc101,'Chick Tolson',0,7,11 play,9,0,tolsc101,??,,K play,9,0,farrd101,??,,S8.3-H;1-3 play,9,0,hartg103,??,,D/78.3-H;1-H play,9,0,blaif101,??,,NP sub,sherb101,'Bill Sherdel',1,9,1 play,9,0,blaif101,??,,CS3(25) play,9,0,blaif101,??,,K play,9,1,sislg101,??,,S play,9,1,chatb101,??,,NP sub,neunj101,'Johnny Neun',1,4,12 play,9,1,chatb101,??,,K/BF play,9,1,welsj101,??,,D9.1-3 play,9,1,cronb101,??,,NP sub,mooor103,'Randy Moore',1,7,11 play,9,1,moorr103,01,F,NP $Game called in bottom of 9th at 6 PM for Sunday curfew law with Boston at bat; Chicago scored 4 in top of 9th to take lead, but those runs were erased when score reverted to end of 8th, the last completed inning; Chicago tried to hurry by intentinal caught stealing and strikeout after their four runs; Boston stalled in 8th and 9th and ran out the time until 6 PM; umpires were confused and thought the inning could be finished, but a policeman came on the field and said it had to stop immediately","1930BSN.EVN.regular.comment.csv",6
-"BSN193007150",7,"$the ball stuck in the screen in LF; the Cubs protested as both runners scored but were sent back","1930BSN.EVN.regular.comment.csv",7
-"BSN193007161",82,"$the throw hit Freddie Maguire on the back of the head and caromed to the grandstand","1930BSN.EVN.regular.comment.csv",8
-"BSN193007261",59,"$Tom Zachary fumbled Wally Berger's throw","1930BSN.EVN.regular.comment.csv",9
-"BSN193007262",3,"$Frankie Frisch spiked Johnny Neun","1930BSN.EVN.regular.comment.csv",10
-"BSN193007280",50,"$Ben Cantwell pulled a muscle","1930BSN.EVN.regular.comment.csv",11
-"BSN193007290",66,"$Wally Berger called for interference for running out of the baseline","1930BSN.EVN.regular.comment.csv",12
-"BSN193007290",67,"ej,mckeb101,M,jordl901,Call at HP Braves Manager Bill McKechnie ejected by HP umpire Lou Jorda","1930BSN.EVN.regular.comment.csv",13
-"BSN193008021",66,"$the Braves claimed that the Phillies had batted out of order; they had been out of order the entire game until this inning but the Braves did not catch it","1930BSN.EVN.regular.comment.csv",14
-"BSN193008031",13,"Phillies 'slipped up' on fielder's choice grounder by Rollings.","1930BSN.EVN.regular.comment.csv",15
-"BSN193008031",34,"$Sherlock rounded second base too far.","1930BSN.EVN.regular.comment.csv",16
-"BSN193009031",28,"$George Sisler left with a Charlie horse","1930BSN.EVN.regular.comment.csv",17
-"BSN193009061",13,"$Freddy Lindstrom struck on the face","1930BSN.EVN.regular.comment.csv",18
-"BSN193009110",70,"$throw into the Pirate dugout","1930BSN.EVN.regular.comment.csv",19
-"BSN193009130",60,"umpchange,7,ump1b,quige901 umpchange,7,ump3b,(None) $Umpire Jorda suffered cut near left eye on wild throw and left; 3B umpire Quigley moved to 2st and game finished with 2 umpires","1930BSN.EVN.regular.comment.csv",20
-"BSN193009130",73,"$Spohrer initially stopped at second, but took off when the throw got away from Gelbert who recovered and tagged the runner before he could reach third base","1930BSN.EVN.regular.comment.csv",21
-"BSN193009141",41,"ej,spoha101,P,scotj104,Balls and strikes $Braves catcher Spohrer ejected by HP umpire Scott for arguing called strike two","1930BSN.EVN.regular.comment.csv",22
-"BSN193009142",71,"$Game called at 6:00 due to Boston Sunday curfew law","1930BSN.EVN.regular.comment.csv",23
-"BSN193009190",14,"$seven consecutive balls by Zachary","1930BSN.EVN.regular.comment.csv",24
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"BSN193004270",13,"ej,mckeb101,M,morac102,Interference non-call $Braves manager McKechnie ejected by HP umpire Moran for arguing that Phils third base coach did not get out of way of the Braves third baseman trying to catch wind- blown pop-up","1930BSN.EVN.regular.comment.csv",2
+"BSN193006011",79,"This was Buster Chatham's major-league debut","1930BSN.EVN.regular.comment.csv",3
+"BSN193006012",70,"$game called due to curfew","1930BSN.EVN.regular.comment.csv",4
+"BSN193006130",51,"$late throw to second; no hit","1930BSN.EVN.regular.comment.csv",5
+"BSN193007132",35,"$Spohrer injured by foul-tip during Bush's at bat","1930BSN.EVN.regular.comment.csv",6
+"BSN193007132",61,"play,9,0,wilsh102,??,,S9 play,9,0,stepr101,??,,S/BG.1-2 play,9,0,grimc101,??,,S7.2-H;1-3(E7) play,9,0,nelsl101,??,,NP sub,tolsc101,'Chick Tolson',0,7,11 play,9,0,tolsc101,??,,K play,9,0,farrd101,??,,S8.3-H;1-3 play,9,0,hartg103,??,,D/78.3-H;1-H play,9,0,blaif101,??,,NP sub,sherb101,'Bill Sherdel',1,9,1 play,9,0,blaif101,??,,CS3(25) play,9,0,blaif101,??,,K play,9,1,sislg101,??,,S play,9,1,chatb101,??,,NP sub,neunj101,'Johnny Neun',1,4,12 play,9,1,chatb101,??,,K/BF play,9,1,welsj101,??,,D9.1-3 play,9,1,cronb101,??,,NP sub,mooor103,'Randy Moore',1,7,11 play,9,1,moorr103,01,F,NP $Game called in bottom of 9th at 6 PM for Sunday curfew law with Boston at bat; Chicago scored 4 in top of 9th to take lead, but those runs were erased when score reverted to end of 8th, the last completed inning; Chicago tried to hurry by intentinal caught stealing and strikeout after their four runs; Boston stalled in 8th and 9th and ran out the time until 6 PM; umpires were confused and thought the inning could be finished, but a policeman came on the field and said it had to stop immediately","1930BSN.EVN.regular.comment.csv",7
+"BSN193007150",7,"$the ball stuck in the screen in LF; the Cubs protested as both runners scored but were sent back","1930BSN.EVN.regular.comment.csv",8
+"BSN193007161",82,"$the throw hit Freddie Maguire on the back of the head and caromed to the grandstand","1930BSN.EVN.regular.comment.csv",9
+"BSN193007261",59,"$Tom Zachary fumbled Wally Berger's throw","1930BSN.EVN.regular.comment.csv",10
+"BSN193007262",3,"$Frankie Frisch spiked Johnny Neun","1930BSN.EVN.regular.comment.csv",11
+"BSN193007280",50,"$Ben Cantwell pulled a muscle","1930BSN.EVN.regular.comment.csv",12
+"BSN193007290",66,"$Wally Berger called for interference for running out of the baseline","1930BSN.EVN.regular.comment.csv",13
+"BSN193007290",67,"ej,mckeb101,M,jordl901,Call at HP Braves Manager Bill McKechnie ejected by HP umpire Lou Jorda","1930BSN.EVN.regular.comment.csv",14
+"BSN193008021",66,"$the Braves claimed that the Phillies had batted out of order; they had been out of order the entire game until this inning but the Braves did not catch it","1930BSN.EVN.regular.comment.csv",15
+"BSN193008031",13,"Phillies 'slipped up' on fielder's choice grounder by Rollings.","1930BSN.EVN.regular.comment.csv",16
+"BSN193008031",34,"$Sherlock rounded second base too far.","1930BSN.EVN.regular.comment.csv",17
+"BSN193009031",28,"$George Sisler left with a Charlie horse","1930BSN.EVN.regular.comment.csv",18
+"BSN193009061",13,"$Freddy Lindstrom struck on the face","1930BSN.EVN.regular.comment.csv",19
+"BSN193009110",70,"$throw into the Pirate dugout","1930BSN.EVN.regular.comment.csv",20
+"BSN193009130",60,"umpchange,7,ump1b,quige901 umpchange,7,ump3b,(None) $Umpire Jorda suffered cut near left eye on wild throw and left; 3B umpire Quigley moved to 2st and game finished with 2 umpires","1930BSN.EVN.regular.comment.csv",21
+"BSN193009130",73,"$Spohrer initially stopped at second, but took off when the throw got away from Gelbert who recovered and tagged the runner before he could reach third base","1930BSN.EVN.regular.comment.csv",22
+"BSN193009141",41,"ej,spoha101,P,scotj104,Balls and strikes $Braves catcher Spohrer ejected by HP umpire Scott for arguing called strike two","1930BSN.EVN.regular.comment.csv",23
+"BSN193009142",71,"$Game called at 6:00 due to Boston Sunday curfew law","1930BSN.EVN.regular.comment.csv",24
+"BSN193009190",14,"$seven consecutive balls by Zachary","1930BSN.EVN.regular.comment.csv",25

@@ -1,33 +1,34 @@
-"DET192104140",35,"$Kerr misjudged the fly, and so was forced at 2nd.","FILENAME_TX","LINE_NUMBER_CT"
-"DET192104140",52,"pbp account ends here, rest deduced","1921DET.EVA.regular.comment.csv",2
-"DET192104200",29,"overran 2nd","1921DET.EVA.regular.comment.csv",3
-"DET192104300",61,"three pitches!","1921DET.EVA.regular.comment.csv",4
-"DET192105030",79,"pbp account ends here, rest deduced","1921DET.EVA.regular.comment.csv",5
-"DET192105110",50,"pbp account ends here, rest deduced","1921DET.EVA.regular.comment.csv",6
-"DET192105110",58,"$This play is unclear, but the sequence of fielders is agreed upon by all sources","1921DET.EVA.regular.comment.csv",7
-"DET192105110",63,"$Bush stole home as Cobb faked to 2nd; throw went to Ward who did not handle it cleanly","1921DET.EVA.regular.comment.csv",8
-"DET192105240",45,"$Griffin hurt sliding into 3rd","1921DET.EVA.regular.comment.csv",9
-"DET192105240",80,"pbp account ends here, rest deduced","1921DET.EVA.regular.comment.csv",10
-"DET192105262",47,"$Cobb was 'seized with an attack of dizziness'; courtesy runner","1921DET.EVA.regular.comment.csv",11
-"DET192105262",48,"$Cobb 'recovered from his momentary illness.'","1921DET.EVA.regular.comment.csv",12
-"DET192105262",56,"$Cobb finally retires","1921DET.EVA.regular.comment.csv",13
-"DET192105280",64,"pbp account ends here, rest deduced","1921DET.EVA.regular.comment.csv",14
-"DET192107140",50,"pbp account ends here, rest deduced","1921DET.EVA.regular.comment.csv",15
-"DET192107180",61,"pbp account ends here, rest deduced","1921DET.EVA.regular.comment.csv",16
-"DET192108130",36,"Ellerbe missing from PBP.","1921DET.EVA.regular.comment.csv",17
-"DET192108200",56,"pbp account ends here, rest deduced","1921DET.EVA.regular.comment.csv",18
-"DET192108270",2,"As the paper is now giving you Ruth's AB's pitch by pitch I will now include them in these comments for future  reference... BSSX","1921DET.EVA.regular.comment.csv",19
-"DET192108270",22,"X","1921DET.EVA.regular.comment.csv",20
-"DET192108270",39,"BKKK","1921DET.EVA.regular.comment.csv",21
-"DET192108270",61,"BBBB","1921DET.EVA.regular.comment.csv",22
-"DET192108280",3,"KKBBC","1921DET.EVA.regular.comment.csv",23
-"DET192108280",24,"BFKX","1921DET.EVA.regular.comment.csv",24
-"DET192108280",42,"FBBX","1921DET.EVA.regular.comment.csv",25
-"DET192108280",65,"FBBCBX","1921DET.EVA.regular.comment.csv",26
-"DET192108280",83,"BKBCX","1921DET.EVA.regular.comment.csv",27
-"DET192109010",95,"$Jamieson was caught between 2nd and 3rd, but made it back to 2nd on Sargent's throwing error.","1921DET.EVA.regular.comment.csv",28
-"DET192109030",15,"missing play","1921DET.EVA.regular.comment.csv",29
-"DET192109040",32,"40 min rain delay...","1921DET.EVA.regular.comment.csv",30
-"DET192109040",39,"missing play","1921DET.EVA.regular.comment.csv",31
-"DET192109040",77,"missing half-inning!","1921DET.EVA.regular.comment.csv",32
-"DET192109040",80,"remember previous half-inning was bogus! RGF guess that Walsh enters here!","1921DET.EVA.regular.comment.csv",33
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"DET192104140",35,"$Kerr misjudged the fly, and so was forced at 2nd.","1921DET.EVA.regular.comment.csv",2
+"DET192104140",52,"pbp account ends here, rest deduced","1921DET.EVA.regular.comment.csv",3
+"DET192104200",29,"overran 2nd","1921DET.EVA.regular.comment.csv",4
+"DET192104300",61,"three pitches!","1921DET.EVA.regular.comment.csv",5
+"DET192105030",79,"pbp account ends here, rest deduced","1921DET.EVA.regular.comment.csv",6
+"DET192105110",50,"pbp account ends here, rest deduced","1921DET.EVA.regular.comment.csv",7
+"DET192105110",58,"$This play is unclear, but the sequence of fielders is agreed upon by all sources","1921DET.EVA.regular.comment.csv",8
+"DET192105110",63,"$Bush stole home as Cobb faked to 2nd; throw went to Ward who did not handle it cleanly","1921DET.EVA.regular.comment.csv",9
+"DET192105240",45,"$Griffin hurt sliding into 3rd","1921DET.EVA.regular.comment.csv",10
+"DET192105240",80,"pbp account ends here, rest deduced","1921DET.EVA.regular.comment.csv",11
+"DET192105262",47,"$Cobb was 'seized with an attack of dizziness'; courtesy runner","1921DET.EVA.regular.comment.csv",12
+"DET192105262",48,"$Cobb 'recovered from his momentary illness.'","1921DET.EVA.regular.comment.csv",13
+"DET192105262",56,"$Cobb finally retires","1921DET.EVA.regular.comment.csv",14
+"DET192105280",64,"pbp account ends here, rest deduced","1921DET.EVA.regular.comment.csv",15
+"DET192107140",50,"pbp account ends here, rest deduced","1921DET.EVA.regular.comment.csv",16
+"DET192107180",61,"pbp account ends here, rest deduced","1921DET.EVA.regular.comment.csv",17
+"DET192108130",36,"Ellerbe missing from PBP.","1921DET.EVA.regular.comment.csv",18
+"DET192108200",56,"pbp account ends here, rest deduced","1921DET.EVA.regular.comment.csv",19
+"DET192108270",2,"As the paper is now giving you Ruth's AB's pitch by pitch I will now include them in these comments for future  reference... BSSX","1921DET.EVA.regular.comment.csv",20
+"DET192108270",22,"X","1921DET.EVA.regular.comment.csv",21
+"DET192108270",39,"BKKK","1921DET.EVA.regular.comment.csv",22
+"DET192108270",61,"BBBB","1921DET.EVA.regular.comment.csv",23
+"DET192108280",3,"KKBBC","1921DET.EVA.regular.comment.csv",24
+"DET192108280",24,"BFKX","1921DET.EVA.regular.comment.csv",25
+"DET192108280",42,"FBBX","1921DET.EVA.regular.comment.csv",26
+"DET192108280",65,"FBBCBX","1921DET.EVA.regular.comment.csv",27
+"DET192108280",83,"BKBCX","1921DET.EVA.regular.comment.csv",28
+"DET192109010",95,"$Jamieson was caught between 2nd and 3rd, but made it back to 2nd on Sargent's throwing error.","1921DET.EVA.regular.comment.csv",29
+"DET192109030",15,"missing play","1921DET.EVA.regular.comment.csv",30
+"DET192109040",32,"40 min rain delay...","1921DET.EVA.regular.comment.csv",31
+"DET192109040",39,"missing play","1921DET.EVA.regular.comment.csv",32
+"DET192109040",77,"missing half-inning!","1921DET.EVA.regular.comment.csv",33
+"DET192109040",80,"remember previous half-inning was bogus! RGF guess that Walsh enters here!","1921DET.EVA.regular.comment.csv",34

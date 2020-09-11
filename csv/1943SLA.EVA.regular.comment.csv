@@ -1,33 +1,34 @@
-"SLA194304240",29,"$Hayes dropped ball and Kolloway was apparently safe, but he missed the plate so Hayes picked up ball and tagged him","FILENAME_TX","LINE_NUMBER_CT"
-"SLA194304240",36,"$McQuinn was caught off first and in subsequent rundowns both runners were safe; ruling was double steal","1943SLA.EVA.regular.comment.csv",2
-"SLA194304240",37,"pbp account ends here, rest deduced","1943SLA.EVA.regular.comment.csv",3
-"SLA194304240",59,"$Tresh made bluff at scoring after fly out, but was late getting back to bag so DP","1943SLA.EVA.regular.comment.csv",4
-"SLA194304250",62,"$Game called for rain; scheduled second game cancelled","1943SLA.EVA.regular.comment.csv",5
-"SLA194305040",21,"pbp account ends here, rest deduced","1943SLA.EVA.regular.comment.csv",6
-"SLA194305040",34,"this E5 could replace any deanp 99","1943SLA.EVA.regular.comment.csv",7
-"SLA194305060",20,"pbp account ends here, rest deduced","1943SLA.EVA.regular.comment.csv",8
-"SLA194305130",78,"$blown suicide squeeze","1943SLA.EVA.regular.comment.csv",9
-"SLA194306230",46,"pbp account ends here, rest deduced","1943SLA.EVA.regular.comment.csv",10
-"SLA194306241",46,"$41 minute rain delay","1943SLA.EVA.regular.comment.csv",11
-"SLA194306250",21,"$Throw was late for force at second base. Higgins out at first after rounding bag too far.","1943SLA.EVA.regular.comment.csv",12
-"SLA194306260",47,"$Harris wandered off second and they threw behind him","1943SLA.EVA.regular.comment.csv",13
-"SLA194307051",67,"$the throw went into the St. Louis dugout; 1B umpire Bill Summers allowed Don Gutteridge and Milt Byrnes to score, apparently winning the game for the Browns; the Yankees protested that the batter should have been stopped at 3B since he had not reached 2B when the wild throw was made; HP umpire Ernie Stewart ruled that the batter should not have been allowed to score; the Browns had gone to their clubhouse and were undressing when Summers entered and told them to come back to the field because the game was only tied and not ended; Browns manager Luke Sewell announced he would protest the game but withdrew that after the doubleheader ended","1943SLA.EVA.regular.comment.csv",14
-"SLA194307060",31,"$Frankie Hayes missed a catch near the Yankees dugout and received taunts from their bench; he tried to get at Johnny Lindell but was restrained","1943SLA.EVA.regular.comment.csv",15
-"SLA194307060",33,"$as Johnny Lindell came to bat, he and Frankie Hayes resumed their argument and nearly fought; they were separated as both benches cleared","1943SLA.EVA.regular.comment.csv",16
-"SLA194307060",51,"$Marius Russo struck by line drive on right little finger; left with injured finger","1943SLA.EVA.regular.comment.csv",17
-"SLA194307070",11,"$Bill Dickey injured his leg while running to 2B","1943SLA.EVA.regular.comment.csv",18
-"SLA194307070",22,"$onto pavillion roof","1943SLA.EVA.regular.comment.csv",19
-"SLA194307100",28,"Ball hit off right field screen.","1943SLA.EVA.regular.comment.csv",20
-"SLA194307100",35,"Ball hit off right field screen.","1943SLA.EVA.regular.comment.csv",21
-"SLA194307170",60,"pbp account ends here, rest deduced","1943SLA.EVA.regular.comment.csv",22
-"SLA194308100",7,"$Gordon hurt back when Gutteridge slid into him, but stayed in game through the fourth inning","1943SLA.EVA.regular.comment.csv",23
-"SLA194308100",47,"pbp account ends here, rest deduced","1943SLA.EVA.regular.comment.csv",24
-"SLA194308120",40,"pbp account ends here, rest deduced","1943SLA.EVA.regular.comment.csv",25
-"SLA194308130",34,"ej,stait101,,P,hubbc901,Balls and strikes $Stainback ejected by Hubbard from bench.","1943SLA.EVA.regular.comment.csv",26
-"SLA194308151",49,"$Culberson spiked at 2b","1943SLA.EVA.regular.comment.csv",27
-"SLA194308190",39,"$No one fielded the throw in and Gutteridge kept running, so two runs scored on the same fly ball; 2 RBI, no errors","1943SLA.EVA.regular.comment.csv",28
-"SLA194308231",8,"Runner picked of 2nd and caught in run down (154), but 2B threw wild to 3rd and everyone was safe","1943SLA.EVA.regular.comment.csv",29
-"SLA194308231",69,"Ball hit to the roof in RF","1943SLA.EVA.regular.comment.csv",30
-"SLA194308231",80,"pbp account ends here, rest deduced","1943SLA.EVA.regular.comment.csv",31
-"SLA194308250",36,"pbp account ends here, rest deduced","1943SLA.EVA.regular.comment.csv",32
-"SLA194308262",65,"game 8 innings by agreement, not rain","1943SLA.EVA.regular.comment.csv",33
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"SLA194304240",29,"$Hayes dropped ball and Kolloway was apparently safe, but he missed the plate so Hayes picked up ball and tagged him","1943SLA.EVA.regular.comment.csv",2
+"SLA194304240",36,"$McQuinn was caught off first and in subsequent rundowns both runners were safe; ruling was double steal","1943SLA.EVA.regular.comment.csv",3
+"SLA194304240",37,"pbp account ends here, rest deduced","1943SLA.EVA.regular.comment.csv",4
+"SLA194304240",59,"$Tresh made bluff at scoring after fly out, but was late getting back to bag so DP","1943SLA.EVA.regular.comment.csv",5
+"SLA194304250",62,"$Game called for rain; scheduled second game cancelled","1943SLA.EVA.regular.comment.csv",6
+"SLA194305040",21,"pbp account ends here, rest deduced","1943SLA.EVA.regular.comment.csv",7
+"SLA194305040",34,"this E5 could replace any deanp 99","1943SLA.EVA.regular.comment.csv",8
+"SLA194305060",20,"pbp account ends here, rest deduced","1943SLA.EVA.regular.comment.csv",9
+"SLA194305130",78,"$blown suicide squeeze","1943SLA.EVA.regular.comment.csv",10
+"SLA194306230",46,"pbp account ends here, rest deduced","1943SLA.EVA.regular.comment.csv",11
+"SLA194306241",46,"$41 minute rain delay","1943SLA.EVA.regular.comment.csv",12
+"SLA194306250",21,"$Throw was late for force at second base. Higgins out at first after rounding bag too far.","1943SLA.EVA.regular.comment.csv",13
+"SLA194306260",47,"$Harris wandered off second and they threw behind him","1943SLA.EVA.regular.comment.csv",14
+"SLA194307051",67,"$the throw went into the St. Louis dugout; 1B umpire Bill Summers allowed Don Gutteridge and Milt Byrnes to score, apparently winning the game for the Browns; the Yankees protested that the batter should have been stopped at 3B since he had not reached 2B when the wild throw was made; HP umpire Ernie Stewart ruled that the batter should not have been allowed to score; the Browns had gone to their clubhouse and were undressing when Summers entered and told them to come back to the field because the game was only tied and not ended; Browns manager Luke Sewell announced he would protest the game but withdrew that after the doubleheader ended","1943SLA.EVA.regular.comment.csv",15
+"SLA194307060",31,"$Frankie Hayes missed a catch near the Yankees dugout and received taunts from their bench; he tried to get at Johnny Lindell but was restrained","1943SLA.EVA.regular.comment.csv",16
+"SLA194307060",33,"$as Johnny Lindell came to bat, he and Frankie Hayes resumed their argument and nearly fought; they were separated as both benches cleared","1943SLA.EVA.regular.comment.csv",17
+"SLA194307060",51,"$Marius Russo struck by line drive on right little finger; left with injured finger","1943SLA.EVA.regular.comment.csv",18
+"SLA194307070",11,"$Bill Dickey injured his leg while running to 2B","1943SLA.EVA.regular.comment.csv",19
+"SLA194307070",22,"$onto pavillion roof","1943SLA.EVA.regular.comment.csv",20
+"SLA194307100",28,"Ball hit off right field screen.","1943SLA.EVA.regular.comment.csv",21
+"SLA194307100",35,"Ball hit off right field screen.","1943SLA.EVA.regular.comment.csv",22
+"SLA194307170",60,"pbp account ends here, rest deduced","1943SLA.EVA.regular.comment.csv",23
+"SLA194308100",7,"$Gordon hurt back when Gutteridge slid into him, but stayed in game through the fourth inning","1943SLA.EVA.regular.comment.csv",24
+"SLA194308100",47,"pbp account ends here, rest deduced","1943SLA.EVA.regular.comment.csv",25
+"SLA194308120",40,"pbp account ends here, rest deduced","1943SLA.EVA.regular.comment.csv",26
+"SLA194308130",34,"ej,stait101,,P,hubbc901,Balls and strikes $Stainback ejected by Hubbard from bench.","1943SLA.EVA.regular.comment.csv",27
+"SLA194308151",49,"$Culberson spiked at 2b","1943SLA.EVA.regular.comment.csv",28
+"SLA194308190",39,"$No one fielded the throw in and Gutteridge kept running, so two runs scored on the same fly ball; 2 RBI, no errors","1943SLA.EVA.regular.comment.csv",29
+"SLA194308231",8,"Runner picked of 2nd and caught in run down (154), but 2B threw wild to 3rd and everyone was safe","1943SLA.EVA.regular.comment.csv",30
+"SLA194308231",69,"Ball hit to the roof in RF","1943SLA.EVA.regular.comment.csv",31
+"SLA194308231",80,"pbp account ends here, rest deduced","1943SLA.EVA.regular.comment.csv",32
+"SLA194308250",36,"pbp account ends here, rest deduced","1943SLA.EVA.regular.comment.csv",33
+"SLA194308262",65,"game 8 innings by agreement, not rain","1943SLA.EVA.regular.comment.csv",34

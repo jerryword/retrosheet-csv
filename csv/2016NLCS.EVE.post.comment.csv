@@ -1,10 +1,11 @@
-"CHN201610150",28,"replay,3,russa002,CHN,cedeg901,CHI11,,Y,M,CHN,C $when Addison Russell was called out at 1B, Cubs manager Joe Maddon challenged the ruling; the call was overturned by replay","FILENAME_TX","LINE_NUMBER_CT"
-"LAN201610180",54,"replay,7,coghc001,CHN,cedeg901,LOS03,,Y,M,LAN,C $when Chris Coghlan was called safe at 1B, Dodgers manager Dave Roberts challenged the ruling; the call was overturned by replay","2016NLCS.EVE.post.comment.csv",2
-"LAN201610190",17,"replay,2,tolea001,LAN,cedeg901,LOS03,,N,M,LAN,A $when Adrian Gonzalez was called out at HP, Dodgers manager Dave Roberts challenged the ruling; the call was upheld by replay","2016NLCS.EVE.post.comment.csv",3
-"LAN201610190",55,"replay,6,zobrb001,CHN,cedeg901,LOS03,,Y,M,CHN,C $when Ben Zobrist was called out at 1B, Cubs manager Joe Maddon challenged the ruling; the call was overturned by replay","2016NLCS.EVE.post.comment.csv",4
-"LAN201610190",66,"Cubs pitcher Carl Edwards left the game due to an injured leg","2016NLCS.EVE.post.comment.csv",5
-"LAN201610200",34,"replay,4,gonza003,LAN,cedeg901,LOS03,,Y,M,LAN,A $when Howie Kendrick was called out at 3B, Dodgers manager Dave Roberts challenged the ruling; the call was overturned by replay","2016NLCS.EVE.post.comment.csv",6
-"LAN201610200",60,"replay,7,gonza003,LAN,cedeg901,LOS03,,Y,M,CHN,C $when Adrian Gonzalez was called safe at 1B, Cubs manager Joe Maddon challenged the ruling; the call was oveturned by replay","2016NLCS.EVE.post.comment.csv",7
-"LAN201610200",68,"replay,8,bryak001,CHN,cedeg901,LOS03,,N,M,LAN,C $when Kris Bryant was called safe at 1B, Dodgers manager Dave Roberts challenged the ruling; the call was upheld by replay","2016NLCS.EVE.post.comment.csv",8
-"LAN201610200",69,"replay,8,rizza001,CHN,cedeg901,LOS03,,Y,M,CHN,C $when Dexter Fowler was called out at 2B, Cubs manager Joe Maddon challenged the ruling; the call was overturned by replay","2016NLCS.EVE.post.comment.csv",9
-"CHN201610220",0,"$the Dodgers had three base runners, all of whom were out as part of double plays or pickoffs; only 27 Dodgers batted","2016NLCS.EVE.post.comment.csv",10
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"CHN201610150",28,"replay,3,russa002,CHN,cedeg901,CHI11,,Y,M,CHN,C $when Addison Russell was called out at 1B, Cubs manager Joe Maddon challenged the ruling; the call was overturned by replay","2016NLCS.EVE.post.comment.csv",2
+"LAN201610180",54,"replay,7,coghc001,CHN,cedeg901,LOS03,,Y,M,LAN,C $when Chris Coghlan was called safe at 1B, Dodgers manager Dave Roberts challenged the ruling; the call was overturned by replay","2016NLCS.EVE.post.comment.csv",3
+"LAN201610190",17,"replay,2,tolea001,LAN,cedeg901,LOS03,,N,M,LAN,A $when Adrian Gonzalez was called out at HP, Dodgers manager Dave Roberts challenged the ruling; the call was upheld by replay","2016NLCS.EVE.post.comment.csv",4
+"LAN201610190",55,"replay,6,zobrb001,CHN,cedeg901,LOS03,,Y,M,CHN,C $when Ben Zobrist was called out at 1B, Cubs manager Joe Maddon challenged the ruling; the call was overturned by replay","2016NLCS.EVE.post.comment.csv",5
+"LAN201610190",66,"Cubs pitcher Carl Edwards left the game due to an injured leg","2016NLCS.EVE.post.comment.csv",6
+"LAN201610200",34,"replay,4,gonza003,LAN,cedeg901,LOS03,,Y,M,LAN,A $when Howie Kendrick was called out at 3B, Dodgers manager Dave Roberts challenged the ruling; the call was overturned by replay","2016NLCS.EVE.post.comment.csv",7
+"LAN201610200",60,"replay,7,gonza003,LAN,cedeg901,LOS03,,Y,M,CHN,C $when Adrian Gonzalez was called safe at 1B, Cubs manager Joe Maddon challenged the ruling; the call was oveturned by replay","2016NLCS.EVE.post.comment.csv",8
+"LAN201610200",68,"replay,8,bryak001,CHN,cedeg901,LOS03,,N,M,LAN,C $when Kris Bryant was called safe at 1B, Dodgers manager Dave Roberts challenged the ruling; the call was upheld by replay","2016NLCS.EVE.post.comment.csv",9
+"LAN201610200",69,"replay,8,rizza001,CHN,cedeg901,LOS03,,Y,M,CHN,C $when Dexter Fowler was called out at 2B, Cubs manager Joe Maddon challenged the ruling; the call was overturned by replay","2016NLCS.EVE.post.comment.csv",10
+"CHN201610220",0,"$the Dodgers had three base runners, all of whom were out as part of double plays or pickoffs; only 27 Dodgers batted","2016NLCS.EVE.post.comment.csv",11

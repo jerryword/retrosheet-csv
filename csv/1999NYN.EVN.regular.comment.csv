@@ -1,20 +1,21 @@
-"NYN199904140",62,"Debut game for Terrence Long","FILENAME_TX","LINE_NUMBER_CT"
-"NYN199905180",71,"ej,valeb102,M,tatat901,Interference non-call $Mets manager Valentine ejected by 1B umpire Tata that interference should have been called against Brewers with Allensworth at bat","1999NYN.EVN.regular.comment.csv",2
-"NYN199905202",8,"ej,garnp001,M,wendh902,Arguing strike 3 was a foul $Brewers manager Garner ejected by HP umpire Wendelstedt for arguing that Nilsson had fouled the last pitch and that it was not caught cleanly, so not strike 3","1999NYN.EVN.regular.comment.csv",3
-"NYN199905202",40,"ej,woods001,P,wendh902,Intentional HBP $Pitcher Woodard ejected by HP umpire Wendelstedt for arguing balls and strikes after being removed from game","1999NYN.EVN.regular.comment.csv",4
-"NYN199905290",12,"ej,mcrab001,P,poncl901,Balls and strikes Brian McRae ejected by HP umpire Larry Poncino","1999NYN.EVN.regular.comment.csv",5
-"NYN199905290",89,"Debut game for Byung-Hyun Kim","1999NYN.EVN.regular.comment.csv",6
-"NYN199905300",30,"Debut game for Melvin Mora","1999NYN.EVN.regular.comment.csv",7
-"NYN199906020",19,"ej,tuckm001,P,drecb901,Balls and strikes Michael Tucker ejected by HP umpire Bruce Dreckman","1999NYN.EVN.regular.comment.csv",8
-"NYN199906070",17,"Debut game for Chris Woodward","1999NYN.EVN.regular.comment.csv",9
-"NYN199906080",23,"ej,rojac101,C,herna901,Balk non-call $Mets coach Rojas ejected by 3B umpire Hernandez for arguing that pitcher had balked","1999NYN.EVN.regular.comment.csv",10
-"NYN199906090",95,"ej,valeb102,M,marsr901,Catcher's interference call Mets manager Bobby Valentine ejected by HP umpire Randy Marsh arguing the catcher's interference call; Valentine returned to the dugout wearing sunglasses, a Mets t-shirt and a fake mustache; he was suspended three games and fined $5,000","1999NYN.EVN.regular.comment.csv",11
-"NYN199906130",63,"$Damon Buford called for interference","1999NYN.EVN.regular.comment.csv",12
-"NYN199908090",65,"Debut game for Dan Murray","1999NYN.EVN.regular.comment.csv",13
-"NYN199908210",15,"Debut game for Adam Kennedy","1999NYN.EVN.regular.comment.csv",14
-"NYN199908240",6,"umpchange,1,ump2b,(None) $2B umpire Hudson left with strained Achilles tendon; game finished with 3 umpires","1999NYN.EVN.regular.comment.csv",15
-"NYN199909030",0,"Debut for umpires Rob Cook and Morris Hodges","1999NYN.EVN.regular.comment.csv",16
-"NYN199909280",66,"ej,cookd001,P,marqa901,Balls and strikes $Pitcher Cook ejected by HP umpire Marquez for arguing balls and strikes after being removed from game","1999NYN.EVN.regular.comment.csv",17
-"NYN199909300",86,"ej,valeb102,M,cuzzp901,Balls and strikes $Mets manager Valentine ejected by HP umpire Cuzzi for arguing balls and strikes after Alfonzo struck out","1999NYN.EVN.regular.comment.csv",18
-"NYN199910010",0,"ej,lamog101,M,hirsm901,Balls and strikes Pirates manager Gene Lamont ejected by HP umpire Mark Hirschbeck sometime in game","1999NYN.EVN.regular.comment.csv",19
-"NYN199910030",19,"ej,jonej801,C,froeb901,Call at 1B Pirates coach Joe Jones ejected by 1B umpire Andy Fletcher","1999NYN.EVN.regular.comment.csv",20
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"NYN199904140",62,"Debut game for Terrence Long","1999NYN.EVN.regular.comment.csv",2
+"NYN199905180",71,"ej,valeb102,M,tatat901,Interference non-call $Mets manager Valentine ejected by 1B umpire Tata that interference should have been called against Brewers with Allensworth at bat","1999NYN.EVN.regular.comment.csv",3
+"NYN199905202",8,"ej,garnp001,M,wendh902,Arguing strike 3 was a foul $Brewers manager Garner ejected by HP umpire Wendelstedt for arguing that Nilsson had fouled the last pitch and that it was not caught cleanly, so not strike 3","1999NYN.EVN.regular.comment.csv",4
+"NYN199905202",40,"ej,woods001,P,wendh902,Intentional HBP $Pitcher Woodard ejected by HP umpire Wendelstedt for arguing balls and strikes after being removed from game","1999NYN.EVN.regular.comment.csv",5
+"NYN199905290",12,"ej,mcrab001,P,poncl901,Balls and strikes Brian McRae ejected by HP umpire Larry Poncino","1999NYN.EVN.regular.comment.csv",6
+"NYN199905290",89,"Debut game for Byung-Hyun Kim","1999NYN.EVN.regular.comment.csv",7
+"NYN199905300",30,"Debut game for Melvin Mora","1999NYN.EVN.regular.comment.csv",8
+"NYN199906020",19,"ej,tuckm001,P,drecb901,Balls and strikes Michael Tucker ejected by HP umpire Bruce Dreckman","1999NYN.EVN.regular.comment.csv",9
+"NYN199906070",17,"Debut game for Chris Woodward","1999NYN.EVN.regular.comment.csv",10
+"NYN199906080",23,"ej,rojac101,C,herna901,Balk non-call $Mets coach Rojas ejected by 3B umpire Hernandez for arguing that pitcher had balked","1999NYN.EVN.regular.comment.csv",11
+"NYN199906090",95,"ej,valeb102,M,marsr901,Catcher's interference call Mets manager Bobby Valentine ejected by HP umpire Randy Marsh arguing the catcher's interference call; Valentine returned to the dugout wearing sunglasses, a Mets t-shirt and a fake mustache; he was suspended three games and fined $5,000","1999NYN.EVN.regular.comment.csv",12
+"NYN199906130",63,"$Damon Buford called for interference","1999NYN.EVN.regular.comment.csv",13
+"NYN199908090",65,"Debut game for Dan Murray","1999NYN.EVN.regular.comment.csv",14
+"NYN199908210",15,"Debut game for Adam Kennedy","1999NYN.EVN.regular.comment.csv",15
+"NYN199908240",6,"umpchange,1,ump2b,(None) $2B umpire Hudson left with strained Achilles tendon; game finished with 3 umpires","1999NYN.EVN.regular.comment.csv",16
+"NYN199909030",0,"Debut for umpires Rob Cook and Morris Hodges","1999NYN.EVN.regular.comment.csv",17
+"NYN199909280",66,"ej,cookd001,P,marqa901,Balls and strikes $Pitcher Cook ejected by HP umpire Marquez for arguing balls and strikes after being removed from game","1999NYN.EVN.regular.comment.csv",18
+"NYN199909300",86,"ej,valeb102,M,cuzzp901,Balls and strikes $Mets manager Valentine ejected by HP umpire Cuzzi for arguing balls and strikes after Alfonzo struck out","1999NYN.EVN.regular.comment.csv",19
+"NYN199910010",0,"ej,lamog101,M,hirsm901,Balls and strikes Pirates manager Gene Lamont ejected by HP umpire Mark Hirschbeck sometime in game","1999NYN.EVN.regular.comment.csv",20
+"NYN199910030",19,"ej,jonej801,C,froeb901,Call at 1B Pirates coach Joe Jones ejected by 1B umpire Andy Fletcher","1999NYN.EVN.regular.comment.csv",21

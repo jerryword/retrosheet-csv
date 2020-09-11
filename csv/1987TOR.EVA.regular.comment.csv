@@ -1,27 +1,28 @@
-"TOR198704060",18,"Debut game for Mike Sharperson","FILENAME_TX","LINE_NUMBER_CT"
-"TOR198704080",16,"Debut game for Matt Stark","1987TOR.EVA.regular.comment.csv",2
-"TOR198704080",50,"ej,bellg001,P,merrd901,Balls and strikes George Bell ejected by HP umpire Durwood Merrill","1987TOR.EVA.regular.comment.csv",3
-"TOR198704090",62,"Debut game for Jose Nunez","1987TOR.EVA.regular.comment.csv",4
-"TOR198704190",66,"Debut game for Jeff DeWillis","1987TOR.EVA.regular.comment.csv",5
-"TOR198705010",24,"Debut game for Bob Ducey","1987TOR.EVA.regular.comment.csv",6
-"TOR198705020",64,"ej,hougc001,P,voltv901,Balls and strikes ej,valeb102,M,voltv901,Balls and strikes Charlie Hough and Rangers manager Bobby Valentine ejected by HP umpire Vic Voltaggio","1987TOR.EVA.regular.comment.csv",7
-"TOR198705030",18,"ej,valeb102,M,roe-r901,Mocked umpire $the Tangers bench exploded after the bases-loaded walk; HP umpire Rocky Roe came to the dugout and told Rangers manager Bobby Valentine that he worked better in a quiet environment; Valentine turned to his players and said that they could not yell at Roe any more; Valentine was ejected by Roe","1987TOR.EVA.regular.comment.csv",8
-"TOR198706170",63,"ej,willj107,M,hirsj901,Interference call $Blue Jays manager Williams ejected by HP umpire Hirschbeck when umpire ruled Fernandez interfered with ball while running to 1st after 3rd strike bouned away from catcher","1987TOR.EVA.regular.comment.csv",9
-"TOR198706200",53,"ej,willj107,M,garcr901,Call at 2B $Blue Jays manager Williams ejected by 2B umpire Garcia for arguing that Schroeder was out advancing to 2nd on throw to 3rd","1987TOR.EVA.regular.comment.csv",10
-"TOR198706290",46,"$Catcher made a weak throw which pitcher caught and then threw wildly to 2nd, allowing runner to take 3rd","1987TOR.EVA.regular.comment.csv",11
-"TOR198706290",60,"ej,willj107,M,johnm901,Check swing strike $Blue Jays manager Williams ejected by 1B umpire Johnson for arguing check swing strike call to Whitt","1987TOR.EVA.regular.comment.csv",12
-"TOR198706290",81,"$Henderson's single hit Musselman on inside of right knee; after rolling on the ground in great pain for several minutes, he was helped off the field","1987TOR.EVA.regular.comment.csv",13
-"TOR198706300",1,"Debut game for Dave Wells","1987TOR.EVA.regular.comment.csv",14
-"TOR198706300",69,"ej,tollw001,P,cousd901,Call at 2B Wayne Tolleson ejected by 2B umpire Derryl Cousins","1987TOR.EVA.regular.comment.csv",15
-"TOR198707090",4,"ej,tartd001,P,scotd901,Called third strike Danny Tartabull ejected by HP umpire Dale Scott","1987TOR.EVA.regular.comment.csv",16
-"TOR198707270",27,"ej,mcnaj801,M,cobld901,Catch/trap call $Red Sox manager John McNamara ejected by 1B umpire Drew Coble for arguing that Horn's fly had been trapped, not caught","1987TOR.EVA.regular.comment.csv",17
-"TOR198707270",63,"ej,mullr001,P,bremn901,Call at 3B $Mulliniks ejected by 3B umpire Bremigan for arguing call at 3B","1987TOR.EVA.regular.comment.csv",18
-"TOR198708130",34,"ej,fregj101,M,fordd901,Called strike 3 $White Sox manager Fregosi ejected by HP umpire Ford for arguing called strike 3 to Redus","1987TOR.EVA.regular.comment.csv",19
-"TOR198709110",15,"Debut game for Jay Buhner","1987TOR.EVA.regular.comment.csv",20
-"TOR198709110",57,"Debut game for Orestes Destrade","1987TOR.EVA.regular.comment.csv",21
-"TOR198709120",60,"Debut game for Bill Fulton","1987TOR.EVA.regular.comment.csv",22
-"TOR198709120",78,"Debut game for Greg Myers","1987TOR.EVA.regular.comment.csv",23
-"TOR198709160",23,"ej,ripkc801,M,roe-r901,Called strike 3 $Orioles manager Ripken ejected by HP umpire Roe for called strike 3 to Hart","1987TOR.EVA.regular.comment.csv",24
-"TOR198709240",21,"$Madlock slid hard into Fernandez and the shortstop fell behind the base and broke his elbow when he hit a wooden strip that separates the dirt from the turf in the cutout around the base; Fernandez left game and DH Madlock left for a pinch-hitter the next time he was due up since he was hit in the chest by a knee","1987TOR.EVA.regular.comment.csv",25
-"TOR198709260",0,"ej,muffb101,C,mcclt901,Balls and strikes $Tigers coach Billy Muffett ejected by HP umpire McClelland for arguing balls and strikes sometime in game","1987TOR.EVA.regular.comment.csv",26
-"TOR198709270",103,"Debut game for Alexis Infante","1987TOR.EVA.regular.comment.csv",27
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"TOR198704060",18,"Debut game for Mike Sharperson","1987TOR.EVA.regular.comment.csv",2
+"TOR198704080",16,"Debut game for Matt Stark","1987TOR.EVA.regular.comment.csv",3
+"TOR198704080",50,"ej,bellg001,P,merrd901,Balls and strikes George Bell ejected by HP umpire Durwood Merrill","1987TOR.EVA.regular.comment.csv",4
+"TOR198704090",62,"Debut game for Jose Nunez","1987TOR.EVA.regular.comment.csv",5
+"TOR198704190",66,"Debut game for Jeff DeWillis","1987TOR.EVA.regular.comment.csv",6
+"TOR198705010",24,"Debut game for Bob Ducey","1987TOR.EVA.regular.comment.csv",7
+"TOR198705020",64,"ej,hougc001,P,voltv901,Balls and strikes ej,valeb102,M,voltv901,Balls and strikes Charlie Hough and Rangers manager Bobby Valentine ejected by HP umpire Vic Voltaggio","1987TOR.EVA.regular.comment.csv",8
+"TOR198705030",18,"ej,valeb102,M,roe-r901,Mocked umpire $the Tangers bench exploded after the bases-loaded walk; HP umpire Rocky Roe came to the dugout and told Rangers manager Bobby Valentine that he worked better in a quiet environment; Valentine turned to his players and said that they could not yell at Roe any more; Valentine was ejected by Roe","1987TOR.EVA.regular.comment.csv",9
+"TOR198706170",63,"ej,willj107,M,hirsj901,Interference call $Blue Jays manager Williams ejected by HP umpire Hirschbeck when umpire ruled Fernandez interfered with ball while running to 1st after 3rd strike bouned away from catcher","1987TOR.EVA.regular.comment.csv",10
+"TOR198706200",53,"ej,willj107,M,garcr901,Call at 2B $Blue Jays manager Williams ejected by 2B umpire Garcia for arguing that Schroeder was out advancing to 2nd on throw to 3rd","1987TOR.EVA.regular.comment.csv",11
+"TOR198706290",46,"$Catcher made a weak throw which pitcher caught and then threw wildly to 2nd, allowing runner to take 3rd","1987TOR.EVA.regular.comment.csv",12
+"TOR198706290",60,"ej,willj107,M,johnm901,Check swing strike $Blue Jays manager Williams ejected by 1B umpire Johnson for arguing check swing strike call to Whitt","1987TOR.EVA.regular.comment.csv",13
+"TOR198706290",81,"$Henderson's single hit Musselman on inside of right knee; after rolling on the ground in great pain for several minutes, he was helped off the field","1987TOR.EVA.regular.comment.csv",14
+"TOR198706300",1,"Debut game for Dave Wells","1987TOR.EVA.regular.comment.csv",15
+"TOR198706300",69,"ej,tollw001,P,cousd901,Call at 2B Wayne Tolleson ejected by 2B umpire Derryl Cousins","1987TOR.EVA.regular.comment.csv",16
+"TOR198707090",4,"ej,tartd001,P,scotd901,Called third strike Danny Tartabull ejected by HP umpire Dale Scott","1987TOR.EVA.regular.comment.csv",17
+"TOR198707270",27,"ej,mcnaj801,M,cobld901,Catch/trap call $Red Sox manager John McNamara ejected by 1B umpire Drew Coble for arguing that Horn's fly had been trapped, not caught","1987TOR.EVA.regular.comment.csv",18
+"TOR198707270",63,"ej,mullr001,P,bremn901,Call at 3B $Mulliniks ejected by 3B umpire Bremigan for arguing call at 3B","1987TOR.EVA.regular.comment.csv",19
+"TOR198708130",34,"ej,fregj101,M,fordd901,Called strike 3 $White Sox manager Fregosi ejected by HP umpire Ford for arguing called strike 3 to Redus","1987TOR.EVA.regular.comment.csv",20
+"TOR198709110",15,"Debut game for Jay Buhner","1987TOR.EVA.regular.comment.csv",21
+"TOR198709110",57,"Debut game for Orestes Destrade","1987TOR.EVA.regular.comment.csv",22
+"TOR198709120",60,"Debut game for Bill Fulton","1987TOR.EVA.regular.comment.csv",23
+"TOR198709120",78,"Debut game for Greg Myers","1987TOR.EVA.regular.comment.csv",24
+"TOR198709160",23,"ej,ripkc801,M,roe-r901,Called strike 3 $Orioles manager Ripken ejected by HP umpire Roe for called strike 3 to Hart","1987TOR.EVA.regular.comment.csv",25
+"TOR198709240",21,"$Madlock slid hard into Fernandez and the shortstop fell behind the base and broke his elbow when he hit a wooden strip that separates the dirt from the turf in the cutout around the base; Fernandez left game and DH Madlock left for a pinch-hitter the next time he was due up since he was hit in the chest by a knee","1987TOR.EVA.regular.comment.csv",26
+"TOR198709260",0,"ej,muffb101,C,mcclt901,Balls and strikes $Tigers coach Billy Muffett ejected by HP umpire McClelland for arguing balls and strikes sometime in game","1987TOR.EVA.regular.comment.csv",27
+"TOR198709270",103,"Debut game for Alexis Infante","1987TOR.EVA.regular.comment.csv",28

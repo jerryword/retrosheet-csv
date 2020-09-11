@@ -1,19 +1,20 @@
-"NY1193806191",108,"ej,frisf101,M,goetl901,Call at 1B $Cardinal manager Frisch ejected by 1b umpire Goetz for arguing that Ott was out","FILENAME_TX","LINE_NUMBER_CT"
-"BRO193806260",37,"$Stu Martin injured stretching for throw","1938.EDN.regular.comment.csv",2
-"BRO193806260",55,"$game called, rain (controversially)","1938.EDN.regular.comment.csv",3
-"PHI193804300",55,"ej,flete101,P,searz901,Balls and strikes $Fletcher ejected by 3b umpire Sears for arguing balls and strikes","1938.EDN.regular.comment.csv",4
-"BSN193807012",63,"$Art Kenney's major-league debut","1938.EDN.regular.comment.csv",5
-"PIT193807172",0,"$Many 'ground rule doubles' into overflow crowd","1938.EDN.regular.comment.csv",6
-"PIT193807172",50,"$Failed double steal when pitcher intercepted throw to 2nd","1938.EDN.regular.comment.csv",7
-"PIT193807172",54,"$Late throw to third so all-safe fielder's choice","1938.EDN.regular.comment.csv",8
-"PIT193807172",61,"ej,tobij103,P,goetl901,Called third strike ej,rizzj101,P,goetl901,Called third strike $Tobin ejected by plate umpire Goetz for arguing strike three; Rizzo also ejected from bench","1938.EDN.regular.comment.csv",9
-"PIT193807172",83,"$Game called for curfew after first two batters in 10th","1938.EDN.regular.comment.csv",10
-"SLN193806051",76,"$After out at home, Owen threw to first trying for Mueller, throw was muffed by Mize, allowing Cuccinello to third; ball was retrived by Brown who threw to Gutteridge to retire Mueller","1938.EDN.regular.comment.csv",11
-"PIT193807140",63,"ej,grimb101,M,klemb901,Call at 3B $Dodgers manager Grimes ejected by HP umpire Klem for arguing Koy was safe at 3rd","1938.EDN.regular.comment.csv",12
-"PHI193807312",65,"$Game called on account of Sunday curfew","1938.EDN.regular.comment.csv",13
-"PHI193808160",11,"$Young and Brack collided chasing Warstler's fly ball","1938.EDN.regular.comment.csv",14
-"SLN193808302",68,"Sivess broke finger","1938.EDN.regular.comment.csv",15
-"PHI193809051",16,"$Catcher Mancuso injured by foul ball hit by Davis","1938.EDN.regular.comment.csv",16
-"BSN193809041",26,"$Klein waited at 2nd because he thought ball would be caught","1938.EDN.regular.comment.csv",17
-"BRO193809292",66,"Game called for darkness","1938.EDN.regular.comment.csv",18
-"NY1193808210",48,"$fight at 2b, atwob vs bartd, feature of game","1938.EDN.regular.comment.csv",19
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"NY1193806191",108,"ej,frisf101,M,goetl901,Call at 1B $Cardinal manager Frisch ejected by 1b umpire Goetz for arguing that Ott was out","1938.EDN.regular.comment.csv",2
+"BRO193806260",37,"$Stu Martin injured stretching for throw","1938.EDN.regular.comment.csv",3
+"BRO193806260",55,"$game called, rain (controversially)","1938.EDN.regular.comment.csv",4
+"PHI193804300",55,"ej,flete101,P,searz901,Balls and strikes $Fletcher ejected by 3b umpire Sears for arguing balls and strikes","1938.EDN.regular.comment.csv",5
+"BSN193807012",63,"$Art Kenney's major-league debut","1938.EDN.regular.comment.csv",6
+"PIT193807172",0,"$Many 'ground rule doubles' into overflow crowd","1938.EDN.regular.comment.csv",7
+"PIT193807172",50,"$Failed double steal when pitcher intercepted throw to 2nd","1938.EDN.regular.comment.csv",8
+"PIT193807172",54,"$Late throw to third so all-safe fielder's choice","1938.EDN.regular.comment.csv",9
+"PIT193807172",61,"ej,tobij103,P,goetl901,Called third strike ej,rizzj101,P,goetl901,Called third strike $Tobin ejected by plate umpire Goetz for arguing strike three; Rizzo also ejected from bench","1938.EDN.regular.comment.csv",10
+"PIT193807172",83,"$Game called for curfew after first two batters in 10th","1938.EDN.regular.comment.csv",11
+"SLN193806051",76,"$After out at home, Owen threw to first trying for Mueller, throw was muffed by Mize, allowing Cuccinello to third; ball was retrived by Brown who threw to Gutteridge to retire Mueller","1938.EDN.regular.comment.csv",12
+"PIT193807140",63,"ej,grimb101,M,klemb901,Call at 3B $Dodgers manager Grimes ejected by HP umpire Klem for arguing Koy was safe at 3rd","1938.EDN.regular.comment.csv",13
+"PHI193807312",65,"$Game called on account of Sunday curfew","1938.EDN.regular.comment.csv",14
+"PHI193808160",11,"$Young and Brack collided chasing Warstler's fly ball","1938.EDN.regular.comment.csv",15
+"SLN193808302",68,"Sivess broke finger","1938.EDN.regular.comment.csv",16
+"PHI193809051",16,"$Catcher Mancuso injured by foul ball hit by Davis","1938.EDN.regular.comment.csv",17
+"BSN193809041",26,"$Klein waited at 2nd because he thought ball would be caught","1938.EDN.regular.comment.csv",18
+"BRO193809292",66,"Game called for darkness","1938.EDN.regular.comment.csv",19
+"NY1193808210",48,"$fight at 2b, atwob vs bartd, feature of game","1938.EDN.regular.comment.csv",20

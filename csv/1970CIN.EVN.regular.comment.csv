@@ -1,22 +1,23 @@
-"CIN197004060",15,"Debut game for Dave Concepcion","FILENAME_TX","LINE_NUMBER_CT"
-"CIN197005010",21,"$Wayne Simpson called for interference","1970CIN.EVN.regular.comment.csv",2
-"CIN197005010",25,"45 minute rain delay","1970CIN.EVN.regular.comment.csv",3
-"CIN197005010",69,"63 minute rain delay","1970CIN.EVN.regular.comment.csv",4
-"CIN197005020",15,"ej,clemr101,P,colon901,Bench Jockeying $Roberto Clemente (not in game) ejected by HP umpire Colosi for bench jockeying","1970CIN.EVN.regular.comment.csv",5
-"CIN197005150",5,"$a pitch in the dirt got by Johnny Bench","1970CIN.EVN.regular.comment.csv",6
-"CIN197005180",0,"$Bill Hands: 97 pitches; Ray Washburn: 46 pitches","1970CIN.EVN.regular.comment.csv",7
-"CIN197005190",0,"$Joe Decker: 88 pitches; Gary Nolan: 99 pitches","1970CIN.EVN.regular.comment.csv",8
-"CIN197006020",67,"Game called on account of rain","1970CIN.EVN.regular.comment.csv",9
-"CIN197006050",70,"Game called on account of rain","1970CIN.EVN.regular.comment.csv",10
-"CIN197006211",12,"$Billy Grabarkewitz called for interference for running into his own batted ball","1970CIN.EVN.regular.comment.csv",11
-"CIN197006300",67,"ej,andes101,M,steld901,Call at 1B $Reds manager Anderson ejected by 1B umpire Stello for arguing that Jackson was out at 1st","1970CIN.EVN.regular.comment.csv",12
-"CIN197007070",0,"Debut for umpire Dick Tremblay","1970CIN.EVN.regular.comment.csv",13
-"CIN197007080",75,"$Johnny Bench lost ball in rundown","1970CIN.EVN.regular.comment.csv",14
-"CIN197008010",50,"Johnny Bench hit by Willie Smith's throw","1970CIN.EVN.regular.comment.csv",15
-"CIN197008140",21,"Wayne Simpson left with unknown injury","1970CIN.EVN.regular.comment.csv",16
-"CIN197008140",22,"Debut game for Mel Behney","1970CIN.EVN.regular.comment.csv",17
-"CIN197008140",26,"$Johnny Bench's throw hit John Briggs and caromed into the dugout; Tony Perez spiked on the play","1970CIN.EVN.regular.comment.csv",18
-"CIN197008150",31,"Mike Ryan left with injured right middle finger","1970CIN.EVN.regular.comment.csv",19
-"CIN197008180",40,"ej,andes101,M,dezef901,Call at 1B $Reds manager Anderson ejected by 1B umpire Dezelan at end of inning for call made on Staub's grounder during the 5th; Dezelan ruled that 1bman May came off the bag before catching the throw that clearly had beaten Staub","1970CIN.EVN.regular.comment.csv",20
-"CIN197009040",53,"Debut game for Frank Duffy","1970CIN.EVN.regular.comment.csv",21
-"CIN197009050",1,"Debut game for Milt Wilcox","1970CIN.EVN.regular.comment.csv",22
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"CIN197004060",15,"Debut game for Dave Concepcion","1970CIN.EVN.regular.comment.csv",2
+"CIN197005010",21,"$Wayne Simpson called for interference","1970CIN.EVN.regular.comment.csv",3
+"CIN197005010",25,"45 minute rain delay","1970CIN.EVN.regular.comment.csv",4
+"CIN197005010",69,"63 minute rain delay","1970CIN.EVN.regular.comment.csv",5
+"CIN197005020",15,"ej,clemr101,P,colon901,Bench Jockeying $Roberto Clemente (not in game) ejected by HP umpire Colosi for bench jockeying","1970CIN.EVN.regular.comment.csv",6
+"CIN197005150",5,"$a pitch in the dirt got by Johnny Bench","1970CIN.EVN.regular.comment.csv",7
+"CIN197005180",0,"$Bill Hands: 97 pitches; Ray Washburn: 46 pitches","1970CIN.EVN.regular.comment.csv",8
+"CIN197005190",0,"$Joe Decker: 88 pitches; Gary Nolan: 99 pitches","1970CIN.EVN.regular.comment.csv",9
+"CIN197006020",67,"Game called on account of rain","1970CIN.EVN.regular.comment.csv",10
+"CIN197006050",70,"Game called on account of rain","1970CIN.EVN.regular.comment.csv",11
+"CIN197006211",12,"$Billy Grabarkewitz called for interference for running into his own batted ball","1970CIN.EVN.regular.comment.csv",12
+"CIN197006300",67,"ej,andes101,M,steld901,Call at 1B $Reds manager Anderson ejected by 1B umpire Stello for arguing that Jackson was out at 1st","1970CIN.EVN.regular.comment.csv",13
+"CIN197007070",0,"Debut for umpire Dick Tremblay","1970CIN.EVN.regular.comment.csv",14
+"CIN197007080",75,"$Johnny Bench lost ball in rundown","1970CIN.EVN.regular.comment.csv",15
+"CIN197008010",50,"Johnny Bench hit by Willie Smith's throw","1970CIN.EVN.regular.comment.csv",16
+"CIN197008140",21,"Wayne Simpson left with unknown injury","1970CIN.EVN.regular.comment.csv",17
+"CIN197008140",22,"Debut game for Mel Behney","1970CIN.EVN.regular.comment.csv",18
+"CIN197008140",26,"$Johnny Bench's throw hit John Briggs and caromed into the dugout; Tony Perez spiked on the play","1970CIN.EVN.regular.comment.csv",19
+"CIN197008150",31,"Mike Ryan left with injured right middle finger","1970CIN.EVN.regular.comment.csv",20
+"CIN197008180",40,"ej,andes101,M,dezef901,Call at 1B $Reds manager Anderson ejected by 1B umpire Dezelan at end of inning for call made on Staub's grounder during the 5th; Dezelan ruled that 1bman May came off the bag before catching the throw that clearly had beaten Staub","1970CIN.EVN.regular.comment.csv",21
+"CIN197009040",53,"Debut game for Frank Duffy","1970CIN.EVN.regular.comment.csv",22
+"CIN197009050",1,"Debut game for Milt Wilcox","1970CIN.EVN.regular.comment.csv",23

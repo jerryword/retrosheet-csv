@@ -1,19 +1,20 @@
-"DET199704170",91,"ej,bellb001,M,phild901,Balls and strikes $Tigers manager Bell ejected by HP umpire Phillips at end of visitors 9th for arguing balls and strikes","FILENAME_TX","LINE_NUMBER_CT"
-"DET199704170",92,"ej,adair801,C,phild901,Call at 1B $Tigers coach Adair ejected by HP umpire Phillips for arguing that Hunter was safe at 1st","1997DET.EVA.regular.comment.csv",2
-"DET199704190",45,"$Scott Spiezio called for interference","1997DET.EVA.regular.comment.csv",3
-"DET199705270",1,"Debut game for Matt Perisho","1997DET.EVA.regular.comment.csv",4
-"DET199706100",12,"Debut game for Mark Bellhorn","1997DET.EVA.regular.comment.csv",5
-"DET199706100",42,"ej,howea001,M,joycj901,Balls and strikes ej,mcgwm001,P,joycj901,Balls and strikes Mark McGwire and Athletics manager Art Howe ejected by HP umpire Jim Joyce","1997DET.EVA.regular.comment.csv",6
-"DET199706170",69,"Debut game for Antonio Alfonseca","1997DET.EVA.regular.comment.csv",7
-"DET199706240",91,"ej,brocd001,P,culbf901,Intentional HBP Doug Brocail ejected by HP umpire Fieldin Culbreth","1997DET.EVA.regular.comment.csv",8
-"DET199707060",66,"Debut game for Roberto Duran","1997DET.EVA.regular.comment.csv",9
-"DET199707230",69,"Debut game for Chris Clemons","1997DET.EVA.regular.comment.csv",10
-"DET199707270",63,"Debut game for Mike Misuraca","1997DET.EVA.regular.comment.csv",11
-"DET199708010",46,"ej,bellb001,M,mcclt901,Stalling for pitcher to warm up ej,casar001,P,mcclt901,Stalling for pitcher to warm up Raul Casanova and Tigers manager Buddy Bell ejected by HP umpire Tim McClelland for stalling in order to allow a pitcher to warm up","1997DET.EVA.regular.comment.csv",12
-"DET199708170",2,"Debut game for Larry Sutton","1997DET.EVA.regular.comment.csv",13
-"DET199709070",0,"ej,carer001,C,everm901,Balls and strikes Angels coach Rod Carew ejected by HP umpire Mike Everitt sometime in game","1997DET.EVA.regular.comment.csv",14
-"DET199709070",67,"ej,frymt001,P,everm901,Called third strike Travis Fryman ejected by HP umpire Mike Everitt","1997DET.EVA.regular.comment.csv",15
-"DET199709070",101,"ej,salmt001,P,everm901,Balls and strikes Tim Salmon ejected by HP umpire Mike Everitt; Angels coach Larry Bowa tried to hold Salmon, who broke free and went chest-to-chest with Everitt","1997DET.EVA.regular.comment.csv",16
-"DET199709070",121,"ej,bellb001,M,everm901,Balls and strikes Tigers manager Buddy Bell ejected by HP umpire Mike Everitt sometime in the 15th inning","1997DET.EVA.regular.comment.csv",17
-"DET199709070",124,"$the Tigers were upset with Mike Everitt's strike zone; Phil Nevin, who was on deck at the end of the game, tossed his helmet after the last pitch; as the umpires entered the Tigers dugout walking to their dressing room, Nevin tossed a batting glove towards Everitt","1997DET.EVA.regular.comment.csv",18
-"DET199709240",79,"Debut game for Jason Varitek","1997DET.EVA.regular.comment.csv",19
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"DET199704170",91,"ej,bellb001,M,phild901,Balls and strikes $Tigers manager Bell ejected by HP umpire Phillips at end of visitors 9th for arguing balls and strikes","1997DET.EVA.regular.comment.csv",2
+"DET199704170",92,"ej,adair801,C,phild901,Call at 1B $Tigers coach Adair ejected by HP umpire Phillips for arguing that Hunter was safe at 1st","1997DET.EVA.regular.comment.csv",3
+"DET199704190",45,"$Scott Spiezio called for interference","1997DET.EVA.regular.comment.csv",4
+"DET199705270",1,"Debut game for Matt Perisho","1997DET.EVA.regular.comment.csv",5
+"DET199706100",12,"Debut game for Mark Bellhorn","1997DET.EVA.regular.comment.csv",6
+"DET199706100",42,"ej,howea001,M,joycj901,Balls and strikes ej,mcgwm001,P,joycj901,Balls and strikes Mark McGwire and Athletics manager Art Howe ejected by HP umpire Jim Joyce","1997DET.EVA.regular.comment.csv",7
+"DET199706170",69,"Debut game for Antonio Alfonseca","1997DET.EVA.regular.comment.csv",8
+"DET199706240",91,"ej,brocd001,P,culbf901,Intentional HBP Doug Brocail ejected by HP umpire Fieldin Culbreth","1997DET.EVA.regular.comment.csv",9
+"DET199707060",66,"Debut game for Roberto Duran","1997DET.EVA.regular.comment.csv",10
+"DET199707230",69,"Debut game for Chris Clemons","1997DET.EVA.regular.comment.csv",11
+"DET199707270",63,"Debut game for Mike Misuraca","1997DET.EVA.regular.comment.csv",12
+"DET199708010",46,"ej,bellb001,M,mcclt901,Stalling for pitcher to warm up ej,casar001,P,mcclt901,Stalling for pitcher to warm up Raul Casanova and Tigers manager Buddy Bell ejected by HP umpire Tim McClelland for stalling in order to allow a pitcher to warm up","1997DET.EVA.regular.comment.csv",13
+"DET199708170",2,"Debut game for Larry Sutton","1997DET.EVA.regular.comment.csv",14
+"DET199709070",0,"ej,carer001,C,everm901,Balls and strikes Angels coach Rod Carew ejected by HP umpire Mike Everitt sometime in game","1997DET.EVA.regular.comment.csv",15
+"DET199709070",67,"ej,frymt001,P,everm901,Called third strike Travis Fryman ejected by HP umpire Mike Everitt","1997DET.EVA.regular.comment.csv",16
+"DET199709070",101,"ej,salmt001,P,everm901,Balls and strikes Tim Salmon ejected by HP umpire Mike Everitt; Angels coach Larry Bowa tried to hold Salmon, who broke free and went chest-to-chest with Everitt","1997DET.EVA.regular.comment.csv",17
+"DET199709070",121,"ej,bellb001,M,everm901,Balls and strikes Tigers manager Buddy Bell ejected by HP umpire Mike Everitt sometime in the 15th inning","1997DET.EVA.regular.comment.csv",18
+"DET199709070",124,"$the Tigers were upset with Mike Everitt's strike zone; Phil Nevin, who was on deck at the end of the game, tossed his helmet after the last pitch; as the umpires entered the Tigers dugout walking to their dressing room, Nevin tossed a batting glove towards Everitt","1997DET.EVA.regular.comment.csv",19
+"DET199709240",79,"Debut game for Jason Varitek","1997DET.EVA.regular.comment.csv",20

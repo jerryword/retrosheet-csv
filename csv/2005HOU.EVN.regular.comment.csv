@@ -1,26 +1,27 @@
-"HOU200504050",14,"Debut game for Luke Scott","FILENAME_TX","LINE_NUMBER_CT"
-"HOU200504090",15,"Fan interference","2005HOU.EVN.regular.comment.csv",2
-"HOU200504190",53,"ej,mondr002,P,dimum901,Call at 1B Braves right fielder Raul Mondesi ejected by 1B umpire Mike DiMuro","2005HOU.EVN.regular.comment.csv",3
-"HOU200504200",69,"ej,spivj001,P,hirsj901,Balls and strikes Brewers second baseman Junior Spivey ejected by HP umpire John Hirschbeck","2005HOU.EVN.regular.comment.csv",4
-"HOU200504210",62,"Astros shortstop Adam Everett left the game due to an injured leg","2005HOU.EVN.regular.comment.csv",5
-"HOU200504300",32,"Cubs pitcher Kerry Wood left the game due to an injured neck/shoulder","2005HOU.EVN.regular.comment.csv",6
-"HOU200505010",55,"Astros pitcher Roy Oswalt left the game due to an injured foot/ankle","2005HOU.EVN.regular.comment.csv",7
-"HOU200505030",1,"Debut game for Ezequiel Astacio","2005HOU.EVN.regular.comment.csv",8
-"HOU200505120",83,"Debut game for Todd Self","2005HOU.EVN.regular.comment.csv",9
-"HOU200505130",42,"Debut game for Mike Burns","2005HOU.EVN.regular.comment.csv",10
-"HOU200506110",47,"ej,zaung001,P,barrt901,Balls and strikes Blue Jays catcher Gregg Zaun ejected by HP umpire Ted Barrett","2005HOU.EVN.regular.comment.csv",11
-"HOU200507060",44,"Astros pitcher Andy Pettitte left the game due to an injured elbow","2005HOU.EVN.regular.comment.csv",12
-"HOU200507090",56,"originally WP, but must have been changed to PB, since Oswalt's ER was reduced two days later.","2005HOU.EVN.regular.comment.csv",13
-"HOU200507260",51,"fan interference","2005HOU.EVN.regular.comment.csv",14
-"HOU200507310",7,"ej,aloms101,C,drakr901,Whether time had been called $Ensberg thought he walked and started for 1B but it was only ball 3; Berkman started for 2B; HP umpire Davidson called time; the Mets tagged Berkman out in a rundown but the umpires put him back on 1B; Mgr Randolph complained and then Bench Coach Sandy Alomar Sr. ejected by 3B umpire Rob Drake","2005HOU.EVN.regular.comment.csv",15
-"HOU200508090",1,"Debut game for Brandon Watson","2005HOU.EVN.regular.comment.csv",16
-"HOU200508090",21,"fan interference","2005HOU.EVN.regular.comment.csv",17
-"HOU200508170",36,"Cubs shortstop Nomar Garciaparra left the game due to an injured back","2005HOU.EVN.regular.comment.csv",18
-"HOU200509020",31,"Cardinals right fielder Larry Walker left the game due to an injured neck/shoulder","2005HOU.EVN.regular.comment.csv",19
-"HOU200509030",40,"Astros pitcher Roger Clemens left the game due to an injured leg","2005HOU.EVN.regular.comment.csv",20
-"HOU200509120",28,"Dontrelle Willis called for interference","2005HOU.EVN.regular.comment.csv",21
-"HOU200509130",22,"Astros center fielder Willy Taveras left the game due to an injured head","2005HOU.EVN.regular.comment.csv",22
-"HOU200509140",21,"Astros Chris Burke left the game due to an injured neck/shoulder","2005HOU.EVN.regular.comment.csv",23
-"HOU200509140",75,"Debut game for Charlton Jimerson","2005HOU.EVN.regular.comment.csv",24
-"HOU200509170",27,"originally scored S7 and throw, changed to 2B, then back","2005HOU.EVN.regular.comment.csv",25
-"HOU200509170",75,"Debut game for Nelson Cruz","2005HOU.EVN.regular.comment.csv",26
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"HOU200504050",14,"Debut game for Luke Scott","2005HOU.EVN.regular.comment.csv",2
+"HOU200504090",15,"Fan interference","2005HOU.EVN.regular.comment.csv",3
+"HOU200504190",53,"ej,mondr002,P,dimum901,Call at 1B Braves right fielder Raul Mondesi ejected by 1B umpire Mike DiMuro","2005HOU.EVN.regular.comment.csv",4
+"HOU200504200",69,"ej,spivj001,P,hirsj901,Balls and strikes Brewers second baseman Junior Spivey ejected by HP umpire John Hirschbeck","2005HOU.EVN.regular.comment.csv",5
+"HOU200504210",62,"Astros shortstop Adam Everett left the game due to an injured leg","2005HOU.EVN.regular.comment.csv",6
+"HOU200504300",32,"Cubs pitcher Kerry Wood left the game due to an injured neck/shoulder","2005HOU.EVN.regular.comment.csv",7
+"HOU200505010",55,"Astros pitcher Roy Oswalt left the game due to an injured foot/ankle","2005HOU.EVN.regular.comment.csv",8
+"HOU200505030",1,"Debut game for Ezequiel Astacio","2005HOU.EVN.regular.comment.csv",9
+"HOU200505120",83,"Debut game for Todd Self","2005HOU.EVN.regular.comment.csv",10
+"HOU200505130",42,"Debut game for Mike Burns","2005HOU.EVN.regular.comment.csv",11
+"HOU200506110",47,"ej,zaung001,P,barrt901,Balls and strikes Blue Jays catcher Gregg Zaun ejected by HP umpire Ted Barrett","2005HOU.EVN.regular.comment.csv",12
+"HOU200507060",44,"Astros pitcher Andy Pettitte left the game due to an injured elbow","2005HOU.EVN.regular.comment.csv",13
+"HOU200507090",56,"originally WP, but must have been changed to PB, since Oswalt's ER was reduced two days later.","2005HOU.EVN.regular.comment.csv",14
+"HOU200507260",51,"fan interference","2005HOU.EVN.regular.comment.csv",15
+"HOU200507310",7,"ej,aloms101,C,drakr901,Whether time had been called $Ensberg thought he walked and started for 1B but it was only ball 3; Berkman started for 2B; HP umpire Davidson called time; the Mets tagged Berkman out in a rundown but the umpires put him back on 1B; Mgr Randolph complained and then Bench Coach Sandy Alomar Sr. ejected by 3B umpire Rob Drake","2005HOU.EVN.regular.comment.csv",16
+"HOU200508090",1,"Debut game for Brandon Watson","2005HOU.EVN.regular.comment.csv",17
+"HOU200508090",21,"fan interference","2005HOU.EVN.regular.comment.csv",18
+"HOU200508170",36,"Cubs shortstop Nomar Garciaparra left the game due to an injured back","2005HOU.EVN.regular.comment.csv",19
+"HOU200509020",31,"Cardinals right fielder Larry Walker left the game due to an injured neck/shoulder","2005HOU.EVN.regular.comment.csv",20
+"HOU200509030",40,"Astros pitcher Roger Clemens left the game due to an injured leg","2005HOU.EVN.regular.comment.csv",21
+"HOU200509120",28,"Dontrelle Willis called for interference","2005HOU.EVN.regular.comment.csv",22
+"HOU200509130",22,"Astros center fielder Willy Taveras left the game due to an injured head","2005HOU.EVN.regular.comment.csv",23
+"HOU200509140",21,"Astros Chris Burke left the game due to an injured neck/shoulder","2005HOU.EVN.regular.comment.csv",24
+"HOU200509140",75,"Debut game for Charlton Jimerson","2005HOU.EVN.regular.comment.csv",25
+"HOU200509170",27,"originally scored S7 and throw, changed to 2B, then back","2005HOU.EVN.regular.comment.csv",26
+"HOU200509170",75,"Debut game for Nelson Cruz","2005HOU.EVN.regular.comment.csv",27

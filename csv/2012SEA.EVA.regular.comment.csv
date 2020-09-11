@@ -1,28 +1,29 @@
-"SEA201204180",23,"replay,3,cunna001,CLE,scotd901,SEA03,O,N,I,,H $Aaron Cunningham's fly ball hit the top of the wall and rebounded onto the field; it was ruled in play; Indians manager Manny Acta asked about the call so crew chief Dale Scott watched the replay and upheld the call","FILENAME_TX","LINE_NUMBER_CT"
-"SEA201204210",0,"White Sox pitcher Philip Humber threw the 21st perfect game in history and the third for the White Sox","2012SEA.EVA.regular.comment.csv",2
-"SEA201204220",47,"$Alex Liddi called for runner interference","2012SEA.EVA.regular.comment.csv",3
-"SEA201205070",24,"Mariners pitcher Blake Beavan left the game due to an injured elbow","2012SEA.EVA.regular.comment.csv",4
-"SEA201205080",33,"ej,leylj801,M,knigb801,Balls and strikes Tigers Manager Jim Leyland ejected by HP umpire Brian Knight; he objected to the 1-2 pitch, a curve, being called a ball to John Jaso; on the next, also called a ball, pitcher Justin Verlander said something to Knight, who took off his mask and stepped slightly around catcher Gerald Laird; Laird told Knight he would take care of it; pitching coach Jeff Jones came out to talk to Verlander","2012SEA.EVA.regular.comment.csv",5
-"SEA201205220",22,"fan interference","2012SEA.EVA.regular.comment.csv",6
-"SEA201205220",39,"$originally scored E5, changed to single on 5-25-2012","2012SEA.EVA.regular.comment.csv",7
-"SEA201205240",44,"$Erick Aybar called out for running into his own bunted ball","2012SEA.EVA.regular.comment.csv",8
-"SEA201205270",52,"Angels pitcher C. J. Wilson left the game due to an injured hand","2012SEA.EVA.regular.comment.csv",9
-"SEA201206080",0,"$six Mariners combine to throw a no-hitter; the Astros used six pitchers in a no-hitter on 6/11/2003","2012SEA.EVA.regular.comment.csv",10
-"SEA201206080",43,"Mariners pitcher Kevin Millwood left the game due to an injured groin","2012SEA.EVA.regular.comment.csv",11
-"SEA201206120",78,"$originally scored as K+PB, but PB removed on 6-15-2012","2012SEA.EVA.regular.comment.csv",12
-"SEA201206120",82,"fan interference","2012SEA.EVA.regular.comment.csv",13
-"SEA201206170",54,"umpchange,8,umphome,westj901 umpchange,8,ump2b,(None) $HP umpire Andy Fletcher left the game when the third pitch to Melky Cabrera was in the dirt, bounced past catcher Miguel Olivo and struck Fletcher on the right wrist; Fletcher suffered a broken scaphoid; 2B umpire Joe West moved behind the plate","2012SEA.EVA.regular.comment.csv",14
-"SEA201206170",68,"HP umpire Joe West lost track of the count on Gregor Blanco; the Giants thought Blanco had walked but West did not agree; the umpires huddled and then West called the press box to ask about the count; Blanco was brought back to HP for one more pitch; Blanco then walked","2012SEA.EVA.regular.comment.csv",15
-"SEA201206270",21,"Mariners pitcher Kevin Millwood left the game due to an injured groin","2012SEA.EVA.regular.comment.csv",16
-"SEA201206270",59,"fan interference","2012SEA.EVA.regular.comment.csv",17
-"SEA201207130",71,"Rangers catcher Mike Napoli left the game due to an injured leg","2012SEA.EVA.regular.comment.csv",18
-"SEA201207240",58,"Alex Rodriguez left with a non-displaced fracture of the left fifth metacarpal","2012SEA.EVA.regular.comment.csv",19
-"SEA201207300",59,"$Travis Snider removed from the game because he had been traded to the Pirates","2012SEA.EVA.regular.comment.csv",20
-"SEA201208150",0,"$Perfect game by Felix Hernandez","2012SEA.EVA.regular.comment.csv",21
-"SEA201208150",44,"ej,maddj801,M,drakr901,Balls and strikes Rays Manager Joe Maddon ejected by HP umpire Rob Drake","2012SEA.EVA.regular.comment.csv",22
-"SEA201208220",65,"ej,actam801,,hicke901,Call at 2B $Kyle Seager slid in under the tag, pulling his right hand back and reaching with the left; SS Asdrubal Cabrera yelled about the call and Indians Manager Manny Acta argued for a while until he was ejected by 2B umpire Ed Hickox","2012SEA.EVA.regular.comment.csv",23
-"SEA201209010",59,"$originally scored as no RBI, but changed on 9-07-2012","2012SEA.EVA.regular.comment.csv",24
-"SEA201209040",28,"Mariners center fielder Franklin Gutierrez left the game due to an injured groin","2012SEA.EVA.regular.comment.csv",25
-"SEA201209180",76,"ej,saunm001,P,bakej902,Called third strike $Saunders ejected by HP umpire Baker for arguing called third strike","2012SEA.EVA.regular.comment.csv",26
-"SEA201209210",27,"Mariners second baseman Dustin Ackley left the game due to an injured neck","2012SEA.EVA.regular.comment.csv",27
-"SEA201210010",64,"Angels right fielder Torii Hunter left the game due to an injured head","2012SEA.EVA.regular.comment.csv",28
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"SEA201204180",23,"replay,3,cunna001,CLE,scotd901,SEA03,O,N,I,,H $Aaron Cunningham's fly ball hit the top of the wall and rebounded onto the field; it was ruled in play; Indians manager Manny Acta asked about the call so crew chief Dale Scott watched the replay and upheld the call","2012SEA.EVA.regular.comment.csv",2
+"SEA201204210",0,"White Sox pitcher Philip Humber threw the 21st perfect game in history and the third for the White Sox","2012SEA.EVA.regular.comment.csv",3
+"SEA201204220",47,"$Alex Liddi called for runner interference","2012SEA.EVA.regular.comment.csv",4
+"SEA201205070",24,"Mariners pitcher Blake Beavan left the game due to an injured elbow","2012SEA.EVA.regular.comment.csv",5
+"SEA201205080",33,"ej,leylj801,M,knigb801,Balls and strikes Tigers Manager Jim Leyland ejected by HP umpire Brian Knight; he objected to the 1-2 pitch, a curve, being called a ball to John Jaso; on the next, also called a ball, pitcher Justin Verlander said something to Knight, who took off his mask and stepped slightly around catcher Gerald Laird; Laird told Knight he would take care of it; pitching coach Jeff Jones came out to talk to Verlander","2012SEA.EVA.regular.comment.csv",6
+"SEA201205220",22,"fan interference","2012SEA.EVA.regular.comment.csv",7
+"SEA201205220",39,"$originally scored E5, changed to single on 5-25-2012","2012SEA.EVA.regular.comment.csv",8
+"SEA201205240",44,"$Erick Aybar called out for running into his own bunted ball","2012SEA.EVA.regular.comment.csv",9
+"SEA201205270",52,"Angels pitcher C. J. Wilson left the game due to an injured hand","2012SEA.EVA.regular.comment.csv",10
+"SEA201206080",0,"$six Mariners combine to throw a no-hitter; the Astros used six pitchers in a no-hitter on 6/11/2003","2012SEA.EVA.regular.comment.csv",11
+"SEA201206080",43,"Mariners pitcher Kevin Millwood left the game due to an injured groin","2012SEA.EVA.regular.comment.csv",12
+"SEA201206120",78,"$originally scored as K+PB, but PB removed on 6-15-2012","2012SEA.EVA.regular.comment.csv",13
+"SEA201206120",82,"fan interference","2012SEA.EVA.regular.comment.csv",14
+"SEA201206170",54,"umpchange,8,umphome,westj901 umpchange,8,ump2b,(None) $HP umpire Andy Fletcher left the game when the third pitch to Melky Cabrera was in the dirt, bounced past catcher Miguel Olivo and struck Fletcher on the right wrist; Fletcher suffered a broken scaphoid; 2B umpire Joe West moved behind the plate","2012SEA.EVA.regular.comment.csv",15
+"SEA201206170",68,"HP umpire Joe West lost track of the count on Gregor Blanco; the Giants thought Blanco had walked but West did not agree; the umpires huddled and then West called the press box to ask about the count; Blanco was brought back to HP for one more pitch; Blanco then walked","2012SEA.EVA.regular.comment.csv",16
+"SEA201206270",21,"Mariners pitcher Kevin Millwood left the game due to an injured groin","2012SEA.EVA.regular.comment.csv",17
+"SEA201206270",59,"fan interference","2012SEA.EVA.regular.comment.csv",18
+"SEA201207130",71,"Rangers catcher Mike Napoli left the game due to an injured leg","2012SEA.EVA.regular.comment.csv",19
+"SEA201207240",58,"Alex Rodriguez left with a non-displaced fracture of the left fifth metacarpal","2012SEA.EVA.regular.comment.csv",20
+"SEA201207300",59,"$Travis Snider removed from the game because he had been traded to the Pirates","2012SEA.EVA.regular.comment.csv",21
+"SEA201208150",0,"$Perfect game by Felix Hernandez","2012SEA.EVA.regular.comment.csv",22
+"SEA201208150",44,"ej,maddj801,M,drakr901,Balls and strikes Rays Manager Joe Maddon ejected by HP umpire Rob Drake","2012SEA.EVA.regular.comment.csv",23
+"SEA201208220",65,"ej,actam801,,hicke901,Call at 2B $Kyle Seager slid in under the tag, pulling his right hand back and reaching with the left; SS Asdrubal Cabrera yelled about the call and Indians Manager Manny Acta argued for a while until he was ejected by 2B umpire Ed Hickox","2012SEA.EVA.regular.comment.csv",24
+"SEA201209010",59,"$originally scored as no RBI, but changed on 9-07-2012","2012SEA.EVA.regular.comment.csv",25
+"SEA201209040",28,"Mariners center fielder Franklin Gutierrez left the game due to an injured groin","2012SEA.EVA.regular.comment.csv",26
+"SEA201209180",76,"ej,saunm001,P,bakej902,Called third strike $Saunders ejected by HP umpire Baker for arguing called third strike","2012SEA.EVA.regular.comment.csv",27
+"SEA201209210",27,"Mariners second baseman Dustin Ackley left the game due to an injured neck","2012SEA.EVA.regular.comment.csv",28
+"SEA201210010",64,"Angels right fielder Torii Hunter left the game due to an injured head","2012SEA.EVA.regular.comment.csv",29

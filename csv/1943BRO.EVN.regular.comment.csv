@@ -1,17 +1,18 @@
-"BRO194304250",60,"$Curt Davis suffered injured finger taking hard throw","FILENAME_TX","LINE_NUMBER_CT"
-"BRO194305130",70,"ej,sewer101,P,balll901,Call at 1B ej,flete101,P,balll901,Call at 1B ej,frisf101,M,balll901,Call at 1B Rip Sewell, Elbie Fletcher and Pirates Manager Frankie Frisch ejected by 1B umpire Lee Ballanfant","1943BRO.EVN.regular.comment.csv",2
-"BRO194306210",73,"$game called for darkness","1943BRO.EVN.regular.comment.csv",3
-"BRO194306240",66,"ej,bordf101,P,conlj102,Call at 2B Frenchy Bordagaray ejected by 1B umpire Jocko Conlan","1943BRO.EVN.regular.comment.csv",4
-"BRO194306302",1,"$Whit Wyatt left with arm trouble","1943BRO.EVN.regular.comment.csv",5
-"BRO194307080",25,"ej,frisf101,M,rearb901,Balls and strikes Pirates Manager Frankie Frisch ejected by HP umpire Beans Reardon","1943BRO.EVN.regular.comment.csv",6
-"BRO194307090",8,"ej,macom101,P,goetl901,Bench jockeying $Max Macon, not in game, ejected by HP umpire Goetz for bench jockeying","1943BRO.EVN.regular.comment.csv",7
-"BRO194307090",64,"ej,newsb101,P,goetl901,Balls and strikes $Newsom ejected by HP umpire Goetz arguing balls and strikes","1943BRO.EVN.regular.comment.csv",8
-"BRO194308060",44,"ej,wyatw101,P,conlj102,Fair/foul call ej,durol101,M,conlj102,Fair/foul call Whit Wyatt and Dodgers Manager Leo Durocher ejected by HP umpire Jocko Conlan","1943BRO.EVN.regular.comment.csv",9
-"BRO194308181",21,"ej,hacks101,P,stewb901,Balls and strikes Stan Hack ejected by HP umpire Bill Stewart","1943BRO.EVN.regular.comment.csv",10
-"BRO194308181",28,"$Hal Gregg struck on ankle by line drive","1943BRO.EVN.regular.comment.csv",11
-"BRO194308181",37,"ej,wilsj105,M,dunnt901,Call at 1B Cubs Manager Jimmie Wilson ejected by 1B umpire Tom Dunn","1943BRO.EVN.regular.comment.csv",12
-"BRO194308210",57,"$the Dodgers ran off the field thinking there were three out","1943BRO.EVN.regular.comment.csv",13
-"BRO194308240",72,"$game called for darkness","1943BRO.EVN.regular.comment.csv",14
-"BRO194308250",35,"ej,dimav101,P,barrg901,Called third strike ej,lopea102,P,barrg901,Called third strike Vince DiMaggio and Al Lopez ejected by HP umpire George Barr","1943BRO.EVN.regular.comment.csv",15
-"BRO194309040",49,"ej,ott-m101,M,stewb901,Checked swing ej,allej102,P,stewb901,Checked swing $Johnny Allen and Giants manager Ott ejected by HP umpire Stewart disputing a checked swing call on Charlie Mead","1943BRO.EVN.regular.comment.csv",16
-"BRO194309040",89,"pbp account end here, rest deduced","1943BRO.EVN.regular.comment.csv",17
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"BRO194304250",60,"$Curt Davis suffered injured finger taking hard throw","1943BRO.EVN.regular.comment.csv",2
+"BRO194305130",70,"ej,sewer101,P,balll901,Call at 1B ej,flete101,P,balll901,Call at 1B ej,frisf101,M,balll901,Call at 1B Rip Sewell, Elbie Fletcher and Pirates Manager Frankie Frisch ejected by 1B umpire Lee Ballanfant","1943BRO.EVN.regular.comment.csv",3
+"BRO194306210",73,"$game called for darkness","1943BRO.EVN.regular.comment.csv",4
+"BRO194306240",66,"ej,bordf101,P,conlj102,Call at 2B Frenchy Bordagaray ejected by 1B umpire Jocko Conlan","1943BRO.EVN.regular.comment.csv",5
+"BRO194306302",1,"$Whit Wyatt left with arm trouble","1943BRO.EVN.regular.comment.csv",6
+"BRO194307080",25,"ej,frisf101,M,rearb901,Balls and strikes Pirates Manager Frankie Frisch ejected by HP umpire Beans Reardon","1943BRO.EVN.regular.comment.csv",7
+"BRO194307090",8,"ej,macom101,P,goetl901,Bench jockeying $Max Macon, not in game, ejected by HP umpire Goetz for bench jockeying","1943BRO.EVN.regular.comment.csv",8
+"BRO194307090",64,"ej,newsb101,P,goetl901,Balls and strikes $Newsom ejected by HP umpire Goetz arguing balls and strikes","1943BRO.EVN.regular.comment.csv",9
+"BRO194308060",44,"ej,wyatw101,P,conlj102,Fair/foul call ej,durol101,M,conlj102,Fair/foul call Whit Wyatt and Dodgers Manager Leo Durocher ejected by HP umpire Jocko Conlan","1943BRO.EVN.regular.comment.csv",10
+"BRO194308181",21,"ej,hacks101,P,stewb901,Balls and strikes Stan Hack ejected by HP umpire Bill Stewart","1943BRO.EVN.regular.comment.csv",11
+"BRO194308181",28,"$Hal Gregg struck on ankle by line drive","1943BRO.EVN.regular.comment.csv",12
+"BRO194308181",37,"ej,wilsj105,M,dunnt901,Call at 1B Cubs Manager Jimmie Wilson ejected by 1B umpire Tom Dunn","1943BRO.EVN.regular.comment.csv",13
+"BRO194308210",57,"$the Dodgers ran off the field thinking there were three out","1943BRO.EVN.regular.comment.csv",14
+"BRO194308240",72,"$game called for darkness","1943BRO.EVN.regular.comment.csv",15
+"BRO194308250",35,"ej,dimav101,P,barrg901,Called third strike ej,lopea102,P,barrg901,Called third strike Vince DiMaggio and Al Lopez ejected by HP umpire George Barr","1943BRO.EVN.regular.comment.csv",16
+"BRO194309040",49,"ej,ott-m101,M,stewb901,Checked swing ej,allej102,P,stewb901,Checked swing $Johnny Allen and Giants manager Ott ejected by HP umpire Stewart disputing a checked swing call on Charlie Mead","1943BRO.EVN.regular.comment.csv",17
+"BRO194309040",89,"pbp account end here, rest deduced","1943BRO.EVN.regular.comment.csv",18

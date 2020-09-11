@@ -1,11 +1,12 @@
-"KCA201510270",4,"$the first inside-the-park home run in the World Series since 1929","FILENAME_TX","LINE_NUMBER_CT"
-"KCA201510270",31,"$the power to the primary TV truck went out and with it the ability for the teams to watch video for a possible replay; the game was delayed 6-7 minutes while Joe Torre talked with the umpires and managers; both managers agreed to play on without replay","2015WS.EVE.post.comment.csv",2
-"KCA201510270",75,"replay,9,murpd006,NYN,cedeg901,KAN06,,Y,M,KCA,A $when David Wright was called safe at 2B, Royals manager Ned Yost challenged the ruling; the call was overturned by replay","2015WS.EVE.post.comment.csv",3
-"NYN201510300",0,"$the first pitch to Alcides Escobar was a fast ball near his head","2015WS.EVE.post.comment.csv",4
-"NYN201510300",13,"replay,2,riosa002,KCA,cedeg901,NYC20,,Y,M,NYN,A $when Alex Gordon was called safe at 3B, Mets manager Terry Collins challenged the ruling; the call was overturned by replay","2015WS.EVE.post.comment.csv",5
-"NYN201510300",39,"$Raul Mondesi becomes the first player to make his major league debut in the World Series","2015WS.EVE.post.comment.csv",6
-"NYN201510310",2,"$Ben Zobrist called for interference on steal attempt when he stepped across HP after his swing","2015WS.EVE.post.comment.csv",7
-"NYN201510310",21,"replay,3,granc001,NYN,cedeg901,NYC20,,N,M,KCA,U $Alex Rios thought there were three outs and did not throw immediately; the Royals appealed the tag-up at 3B; when Wilmer Flores was called safe, Royals manager Ned Yost challenged the ruling; the call was uphelded by replay","2015WS.EVE.post.comment.csv",8
-"NYN201511010",0,"$Salvador Perez named World Series MVP","2015WS.EVE.post.comment.csv",9
-"NYN201511010",44,"Yoenis Cespedes fouled a pitch off his left knee","2015WS.EVE.post.comment.csv",10
-"NYN201511010",47,"Yoenis Cespedes left with an injured left knee","2015WS.EVE.post.comment.csv",11
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"KCA201510270",4,"$the first inside-the-park home run in the World Series since 1929","2015WS.EVE.post.comment.csv",2
+"KCA201510270",31,"$the power to the primary TV truck went out and with it the ability for the teams to watch video for a possible replay; the game was delayed 6-7 minutes while Joe Torre talked with the umpires and managers; both managers agreed to play on without replay","2015WS.EVE.post.comment.csv",3
+"KCA201510270",75,"replay,9,murpd006,NYN,cedeg901,KAN06,,Y,M,KCA,A $when David Wright was called safe at 2B, Royals manager Ned Yost challenged the ruling; the call was overturned by replay","2015WS.EVE.post.comment.csv",4
+"NYN201510300",0,"$the first pitch to Alcides Escobar was a fast ball near his head","2015WS.EVE.post.comment.csv",5
+"NYN201510300",13,"replay,2,riosa002,KCA,cedeg901,NYC20,,Y,M,NYN,A $when Alex Gordon was called safe at 3B, Mets manager Terry Collins challenged the ruling; the call was overturned by replay","2015WS.EVE.post.comment.csv",6
+"NYN201510300",39,"$Raul Mondesi becomes the first player to make his major league debut in the World Series","2015WS.EVE.post.comment.csv",7
+"NYN201510310",2,"$Ben Zobrist called for interference on steal attempt when he stepped across HP after his swing","2015WS.EVE.post.comment.csv",8
+"NYN201510310",21,"replay,3,granc001,NYN,cedeg901,NYC20,,N,M,KCA,U $Alex Rios thought there were three outs and did not throw immediately; the Royals appealed the tag-up at 3B; when Wilmer Flores was called safe, Royals manager Ned Yost challenged the ruling; the call was uphelded by replay","2015WS.EVE.post.comment.csv",9
+"NYN201511010",0,"$Salvador Perez named World Series MVP","2015WS.EVE.post.comment.csv",10
+"NYN201511010",44,"Yoenis Cespedes fouled a pitch off his left knee","2015WS.EVE.post.comment.csv",11
+"NYN201511010",47,"Yoenis Cespedes left with an injured left knee","2015WS.EVE.post.comment.csv",12

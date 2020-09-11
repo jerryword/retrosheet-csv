@@ -1,26 +1,27 @@
-"PIT199704180",44,"$Tony Womack called for interference","FILENAME_TX","LINE_NUMBER_CT"
-"PIT199704300",52,"ej,johnm001,P,gormb901,Called third strike Mark Johnson ejected by HP umpire Brian Gorman","1997PIT.EVN.regular.comment.csv",2
-"PIT199705120",28,"ej,marta001,P,monte901,Balls and strikes (threw equipment) Al Martin ejected by HP umpire Ed Montague","1997PIT.EVN.regular.comment.csv",3
-"PIT199705160",7,"Debut game for Adrian Brown","1997PIT.EVN.regular.comment.csv",4
-"PIT199705170",56,"Debut game for Kevin Polcovich","1997PIT.EVN.regular.comment.csv",5
-"PIT199705260",42,"IPHR","1997PIT.EVN.regular.comment.csv",6
-"PIT199705260",46,"IPHR","1997PIT.EVN.regular.comment.csv",7
-"PIT199705270",1,"Debut game for Jeremi Gonzalez","1997PIT.EVN.regular.comment.csv",8
-"PIT199705300",19,"ej,judej001,P,darlg901,Call at 1B (while pitching) Jeff Juden ejected by 1B umpire Gary Darling","1997PIT.EVN.regular.comment.csv",9
-"PIT199706040",11,"ej,schmj001,P,laynj901,Intentional HBP Jason Schmidt ejected by HP umpire Jerry Layne","1997PIT.EVN.regular.comment.csv",10
-"PIT199706070",1,"Debut game for Ryan Nye","1997PIT.EVN.regular.comment.csv",11
-"PIT199706070",70,"ej,frant001,M,wintm901,Bench jockeying $Phillies manager Francona ejected by HP umpire Winters for bench jockeying by many players about balls and strikes","1997PIT.EVN.regular.comment.csv",12
-"PIT199706280",67,"Debut game for Lou Collier","1997PIT.EVN.regular.comment.csv",13
-"PIT199706280",70,"ej,valeb102,M,hirsm901,Call at 2B $Mets manager Valentine ejected by 2B umpire Hirschbeck for arguing that 2bman Baerga was on base and should have been DP","1997PIT.EVN.regular.comment.csv",14
-"PIT199708020",9,"Debut game for Todd Helton","1997PIT.EVN.regular.comment.csv",15
-"PIT199708060",62,"ej,marta001,P,gibsg901,Check swing Al Martin ejected by HP umpire Greg Gibson arguing the check swing call on the wild pitch; he had reached 1B","1997PIT.EVN.regular.comment.csv",16
-"PIT199708070",13,"ej,cordf001,P,laynj901,Intentional HBP ej,lamog101,M,westj901,Arguing Cordova ejection Francisco Cordova ejected by HP umpire Jerry Layne; Pirates manager Gene Lamont ejected by 2B umpire Joe West while arguing about Cordova's ejection","1997PIT.EVN.regular.comment.csv",17
-"PIT199708210",52,"Debut game for Jeff Wallace","1997PIT.EVN.regular.comment.csv",18
-"PIT199708251",43,"ej,vuckp001,C,tatat901,Balls and strikes Pirates coach Pete Vuckovich ejected by HP umpire Terry Tata","1997PIT.EVN.regular.comment.csv",19
-"PIT199708270",10,"Debut game for Abraham Nunez","1997PIT.EVN.regular.comment.csv",20
-"PIT199708270",16,"Debut game for Jason Johnson","1997PIT.EVN.regular.comment.csv",21
-"PIT199709030",46,"$both teams warned by HP umpire Mark Barron","1997PIT.EVN.regular.comment.csv",22
-"PIT199709030",53,"ej,chrij002,P,barrm901,Intentional HBP ej,lamog101,M,barrm901,Intentional HBP Jason Christiansen and Pirates manager Gene Lamont ejected by HP umpire Mark Barron","1997PIT.EVN.regular.comment.csv",23
-"PIT199709130",72,"Debut game for Terrell Lowery","1997PIT.EVN.regular.comment.csv",24
-"PIT199709160",61,"IPHR","1997PIT.EVN.regular.comment.csv",25
-"PIT199709200",73,"ej,bautj001,P,wintm901,Intentional HBP Jose Bautista ejected by HP umpire Mike Winters","1997PIT.EVN.regular.comment.csv",26
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"PIT199704180",44,"$Tony Womack called for interference","1997PIT.EVN.regular.comment.csv",2
+"PIT199704300",52,"ej,johnm001,P,gormb901,Called third strike Mark Johnson ejected by HP umpire Brian Gorman","1997PIT.EVN.regular.comment.csv",3
+"PIT199705120",28,"ej,marta001,P,monte901,Balls and strikes (threw equipment) Al Martin ejected by HP umpire Ed Montague","1997PIT.EVN.regular.comment.csv",4
+"PIT199705160",7,"Debut game for Adrian Brown","1997PIT.EVN.regular.comment.csv",5
+"PIT199705170",56,"Debut game for Kevin Polcovich","1997PIT.EVN.regular.comment.csv",6
+"PIT199705260",42,"IPHR","1997PIT.EVN.regular.comment.csv",7
+"PIT199705260",46,"IPHR","1997PIT.EVN.regular.comment.csv",8
+"PIT199705270",1,"Debut game for Jeremi Gonzalez","1997PIT.EVN.regular.comment.csv",9
+"PIT199705300",19,"ej,judej001,P,darlg901,Call at 1B (while pitching) Jeff Juden ejected by 1B umpire Gary Darling","1997PIT.EVN.regular.comment.csv",10
+"PIT199706040",11,"ej,schmj001,P,laynj901,Intentional HBP Jason Schmidt ejected by HP umpire Jerry Layne","1997PIT.EVN.regular.comment.csv",11
+"PIT199706070",1,"Debut game for Ryan Nye","1997PIT.EVN.regular.comment.csv",12
+"PIT199706070",70,"ej,frant001,M,wintm901,Bench jockeying $Phillies manager Francona ejected by HP umpire Winters for bench jockeying by many players about balls and strikes","1997PIT.EVN.regular.comment.csv",13
+"PIT199706280",67,"Debut game for Lou Collier","1997PIT.EVN.regular.comment.csv",14
+"PIT199706280",70,"ej,valeb102,M,hirsm901,Call at 2B $Mets manager Valentine ejected by 2B umpire Hirschbeck for arguing that 2bman Baerga was on base and should have been DP","1997PIT.EVN.regular.comment.csv",15
+"PIT199708020",9,"Debut game for Todd Helton","1997PIT.EVN.regular.comment.csv",16
+"PIT199708060",62,"ej,marta001,P,gibsg901,Check swing Al Martin ejected by HP umpire Greg Gibson arguing the check swing call on the wild pitch; he had reached 1B","1997PIT.EVN.regular.comment.csv",17
+"PIT199708070",13,"ej,cordf001,P,laynj901,Intentional HBP ej,lamog101,M,westj901,Arguing Cordova ejection Francisco Cordova ejected by HP umpire Jerry Layne; Pirates manager Gene Lamont ejected by 2B umpire Joe West while arguing about Cordova's ejection","1997PIT.EVN.regular.comment.csv",18
+"PIT199708210",52,"Debut game for Jeff Wallace","1997PIT.EVN.regular.comment.csv",19
+"PIT199708251",43,"ej,vuckp001,C,tatat901,Balls and strikes Pirates coach Pete Vuckovich ejected by HP umpire Terry Tata","1997PIT.EVN.regular.comment.csv",20
+"PIT199708270",10,"Debut game for Abraham Nunez","1997PIT.EVN.regular.comment.csv",21
+"PIT199708270",16,"Debut game for Jason Johnson","1997PIT.EVN.regular.comment.csv",22
+"PIT199709030",46,"$both teams warned by HP umpire Mark Barron","1997PIT.EVN.regular.comment.csv",23
+"PIT199709030",53,"ej,chrij002,P,barrm901,Intentional HBP ej,lamog101,M,barrm901,Intentional HBP Jason Christiansen and Pirates manager Gene Lamont ejected by HP umpire Mark Barron","1997PIT.EVN.regular.comment.csv",24
+"PIT199709130",72,"Debut game for Terrell Lowery","1997PIT.EVN.regular.comment.csv",25
+"PIT199709160",61,"IPHR","1997PIT.EVN.regular.comment.csv",26
+"PIT199709200",73,"ej,bautj001,P,wintm901,Intentional HBP Jose Bautista ejected by HP umpire Mike Winters","1997PIT.EVN.regular.comment.csv",27

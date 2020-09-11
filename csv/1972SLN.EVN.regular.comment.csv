@@ -1,30 +1,31 @@
-"SLN197205070",71,"ej,schor101,M,olsea901,Call at HP $Cardinals manager Schoendienst ejected by HP umpire Olsen for arguing that Evans was out at home","FILENAME_TX","LINE_NUMBER_CT"
-"SLN197205090",8,"Matty Alou left with pulled hamstring","1972SLN.EVN.regular.comment.csv",2
-"SLN197205100",80,"$Cesar Cedeno called for interference when his bat hit the ball twice","1972SLN.EVN.regular.comment.csv",3
-"SLN197205180",46,"$Matty Alou tried to score from 2B during argument at 1B","1972SLN.EVN.regular.comment.csv",4
-"SLN197205190",24,"ej,boyek101,C,sudoe901,Interference call Cardinals Coach Ken Boyer ejected by 2B umpire Ed Sudol","1972SLN.EVN.regular.comment.csv",5
-"SLN197205200",8,"ej,schor101,M,colon901,Obstruction non-call $Cardinals manager Schoendienst ejected by 3B umpire Colosi for arguing that Fanzone had obstructed Sizemore","1972SLN.EVN.regular.comment.csv",6
-"SLN197205210",44,"$Ted Simmons called for interference with Glenn Beckert","1972SLN.EVN.regular.comment.csv",7
-"SLN197205210",60,"Debut game for Charlie Hudson","1972SLN.EVN.regular.comment.csv",8
-"SLN197205230",8,"$Ted Sizemore called for interference","1972SLN.EVN.regular.comment.csv",9
-"SLN197205270",0,"36-minute rain delay before start of game","1972SLN.EVN.regular.comment.csv",10
-"SLN197206271",92,"$Expos stacked three infielders on the right side, including Hector Torres","1972SLN.EVN.regular.comment.csv",11
-"SLN197206272",22,"ej,torrj101,P,weyel901,Call at 3B Joe Torre ejected by 3B umpire Lee Weyer","1972SLN.EVN.regular.comment.csv",12
-"SLN197206290",20,"$Billy Williams charged the mound but was restrained","1972SLN.EVN.regular.comment.csv",13
-"SLN197206290",28,"$Joe Torre knocked down by Burt Hooton","1972SLN.EVN.regular.comment.csv",14
-"SLN197207160",1,"$Debut game for Don Durham","1972SLN.EVN.regular.comment.csv",15
-"SLN197207160",21,"$Joe Morgan was safe but overslid the bag","1972SLN.EVN.regular.comment.csv",16
-"SLN197208020",45,"$Lou Brock had hit into a forceout but that play was eliminated because of the catcher's interference","1972SLN.EVN.regular.comment.csv",17
-"SLN197208020",76,"$game called for rain","1972SLN.EVN.regular.comment.csv",18
-"SLN197209012",18,"Debut game for Skip Jutze","1972SLN.EVN.regular.comment.csv",19
-"SLN197209012",20,"Debut game for Mick Kelleher","1972SLN.EVN.regular.comment.csv",20
-"SLN197209020",1,"Debut game for Doug Rau","1972SLN.EVN.regular.comment.csv",21
-"SLN197209030",3,"ej,alstw101,M,steim901,Call at 3B Dodgers Manager Walter Alston ejected by 3B umpire Mel Steiner","1972SLN.EVN.regular.comment.csv",22
-"SLN197209042",1,"Debut game for Jim Bibby","1972SLN.EVN.regular.comment.csv",23
-"SLN197209050",9,"Debut game for Mike Tyson","1972SLN.EVN.regular.comment.csv",24
-"SLN197209050",18,"Debut game for Ken Reitz","1972SLN.EVN.regular.comment.csv",25
-"SLN197209150",29,"Debut game for Jim McKee","1972SLN.EVN.regular.comment.csv",26
-"SLN197209150",68,"Debut game for Fernando Gonzalez","1972SLN.EVN.regular.comment.csv",27
-"SLN197209160",43,"$Ted Simmons ball caromed off Steve Blass's leg to Willie Stargell","1972SLN.EVN.regular.comment.csv",28
-"SLN197209200",2,"missing fielding in SLN197209200","1972SLN.EVN.regular.comment.csv",29
-"SLN197209232",9,"$Ron Santo injured ankle on bag","1972SLN.EVN.regular.comment.csv",30
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"SLN197205070",71,"ej,schor101,M,olsea901,Call at HP $Cardinals manager Schoendienst ejected by HP umpire Olsen for arguing that Evans was out at home","1972SLN.EVN.regular.comment.csv",2
+"SLN197205090",8,"Matty Alou left with pulled hamstring","1972SLN.EVN.regular.comment.csv",3
+"SLN197205100",80,"$Cesar Cedeno called for interference when his bat hit the ball twice","1972SLN.EVN.regular.comment.csv",4
+"SLN197205180",46,"$Matty Alou tried to score from 2B during argument at 1B","1972SLN.EVN.regular.comment.csv",5
+"SLN197205190",24,"ej,boyek101,C,sudoe901,Interference call Cardinals Coach Ken Boyer ejected by 2B umpire Ed Sudol","1972SLN.EVN.regular.comment.csv",6
+"SLN197205200",8,"ej,schor101,M,colon901,Obstruction non-call $Cardinals manager Schoendienst ejected by 3B umpire Colosi for arguing that Fanzone had obstructed Sizemore","1972SLN.EVN.regular.comment.csv",7
+"SLN197205210",44,"$Ted Simmons called for interference with Glenn Beckert","1972SLN.EVN.regular.comment.csv",8
+"SLN197205210",60,"Debut game for Charlie Hudson","1972SLN.EVN.regular.comment.csv",9
+"SLN197205230",8,"$Ted Sizemore called for interference","1972SLN.EVN.regular.comment.csv",10
+"SLN197205270",0,"36-minute rain delay before start of game","1972SLN.EVN.regular.comment.csv",11
+"SLN197206271",92,"$Expos stacked three infielders on the right side, including Hector Torres","1972SLN.EVN.regular.comment.csv",12
+"SLN197206272",22,"ej,torrj101,P,weyel901,Call at 3B Joe Torre ejected by 3B umpire Lee Weyer","1972SLN.EVN.regular.comment.csv",13
+"SLN197206290",20,"$Billy Williams charged the mound but was restrained","1972SLN.EVN.regular.comment.csv",14
+"SLN197206290",28,"$Joe Torre knocked down by Burt Hooton","1972SLN.EVN.regular.comment.csv",15
+"SLN197207160",1,"$Debut game for Don Durham","1972SLN.EVN.regular.comment.csv",16
+"SLN197207160",21,"$Joe Morgan was safe but overslid the bag","1972SLN.EVN.regular.comment.csv",17
+"SLN197208020",45,"$Lou Brock had hit into a forceout but that play was eliminated because of the catcher's interference","1972SLN.EVN.regular.comment.csv",18
+"SLN197208020",76,"$game called for rain","1972SLN.EVN.regular.comment.csv",19
+"SLN197209012",18,"Debut game for Skip Jutze","1972SLN.EVN.regular.comment.csv",20
+"SLN197209012",20,"Debut game for Mick Kelleher","1972SLN.EVN.regular.comment.csv",21
+"SLN197209020",1,"Debut game for Doug Rau","1972SLN.EVN.regular.comment.csv",22
+"SLN197209030",3,"ej,alstw101,M,steim901,Call at 3B Dodgers Manager Walter Alston ejected by 3B umpire Mel Steiner","1972SLN.EVN.regular.comment.csv",23
+"SLN197209042",1,"Debut game for Jim Bibby","1972SLN.EVN.regular.comment.csv",24
+"SLN197209050",9,"Debut game for Mike Tyson","1972SLN.EVN.regular.comment.csv",25
+"SLN197209050",18,"Debut game for Ken Reitz","1972SLN.EVN.regular.comment.csv",26
+"SLN197209150",29,"Debut game for Jim McKee","1972SLN.EVN.regular.comment.csv",27
+"SLN197209150",68,"Debut game for Fernando Gonzalez","1972SLN.EVN.regular.comment.csv",28
+"SLN197209160",43,"$Ted Simmons ball caromed off Steve Blass's leg to Willie Stargell","1972SLN.EVN.regular.comment.csv",29
+"SLN197209200",2,"missing fielding in SLN197209200","1972SLN.EVN.regular.comment.csv",30
+"SLN197209232",9,"$Ron Santo injured ankle on bag","1972SLN.EVN.regular.comment.csv",31

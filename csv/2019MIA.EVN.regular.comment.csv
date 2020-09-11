@@ -1,504 +1,505 @@
-"MIA201903280",8,"Injury Delay","FILENAME_TX","LINE_NUMBER_CT"
-"MIA201903280",26,"Mound Visit $originally scored as single, changed to double on 03-30-2019; error remains for other advances; run scored by McMahon changed from unearned to earned","2019MIA.EVN.regular.comment.csv",2
-"MIA201903280",38,"Mound Visit","2019MIA.EVN.regular.comment.csv",3
-"MIA201903280",47,"Mound Visit","2019MIA.EVN.regular.comment.csv",4
-"MIA201903290",27,"Injury Delay","2019MIA.EVN.regular.comment.csv",5
-"MIA201903290",30,"On-field Delay","2019MIA.EVN.regular.comment.csv",6
-"MIA201903290",39,"Mound Visit","2019MIA.EVN.regular.comment.csv",7
-"MIA201903290",42,"$Marlins challenged call that Herrera was out at first; call was overturned - single","2019MIA.EVN.regular.comment.csv",8
-"MIA201903290",44,"Mound Visit","2019MIA.EVN.regular.comment.csv",9
-"MIA201903290",47,"Mound Visit","2019MIA.EVN.regular.comment.csv",10
-"MIA201903290",62,"Mound Visit","2019MIA.EVN.regular.comment.csv",11
-"MIA201903290",68,"Mound Visit","2019MIA.EVN.regular.comment.csv",12
-"MIA201903290",70,"Mound Visit","2019MIA.EVN.regular.comment.csv",13
-"MIA201903290",72,"Mound Visit","2019MIA.EVN.regular.comment.csv",14
-"MIA201903300",16,"Mound Visit","2019MIA.EVN.regular.comment.csv",15
-"MIA201903300",47,"Mound Visit","2019MIA.EVN.regular.comment.csv",16
-"MIA201903300",59,"Mound Visit","2019MIA.EVN.regular.comment.csv",17
-"MIA201903300",63,"Mound Visit","2019MIA.EVN.regular.comment.csv",18
-"MIA201903300",64,"Mound Visit","2019MIA.EVN.regular.comment.csv",19
-"MIA201903310",36,"Mound Visit","2019MIA.EVN.regular.comment.csv",20
-"MIA201903310",51,"Injury Delay","2019MIA.EVN.regular.comment.csv",21
-"MIA201903310",57,"Mound Visit","2019MIA.EVN.regular.comment.csv",22
-"MIA201903310",62,"Mound Visit","2019MIA.EVN.regular.comment.csv",23
-"MIA201904010",13,"Mound Visit","2019MIA.EVN.regular.comment.csv",24
-"MIA201904010",36,"$Originally a dropped foul error on McNeil on 2nd pitch; error removed on 04-0-2-2019","2019MIA.EVN.regular.comment.csv",25
-"MIA201904010",47,"Mound Visit","2019MIA.EVN.regular.comment.csv",26
-"MIA201904010",48,"Mound Visit","2019MIA.EVN.regular.comment.csv",27
-"MIA201904010",55,"Mound Visit","2019MIA.EVN.regular.comment.csv",28
-"MIA201904010",66,"$Marlins challenged call that Lagares was hit by pitch; call was upheld - hit by pitch Injury Delay Mound Visit","2019MIA.EVN.regular.comment.csv",29
-"MIA201904010",76,"Mound Visit","2019MIA.EVN.regular.comment.csv",30
-"MIA201904020",6,"Mound Visit","2019MIA.EVN.regular.comment.csv",31
-"MIA201904020",45,"$Marlins challenged call that Rosario was safe at 2nd; call was upheld - stolen base","2019MIA.EVN.regular.comment.csv",32
-"MIA201904020",51,"Mound Visit","2019MIA.EVN.regular.comment.csv",33
-"MIA201904020",65,"Mound Visit","2019MIA.EVN.regular.comment.csv",34
-"MIA201904020",70,"Mound Visit","2019MIA.EVN.regular.comment.csv",35
-"MIA201904020",74,"Mound Visit","2019MIA.EVN.regular.comment.csv",36
-"MIA201904020",82,"Mound Visit","2019MIA.EVN.regular.comment.csv",37
-"MIA201904030",18,"Mound Visit","2019MIA.EVN.regular.comment.csv",38
-"MIA201904030",52,"Mound Visit","2019MIA.EVN.regular.comment.csv",39
-"MIA201904030",73,"Mound Visit","2019MIA.EVN.regular.comment.csv",40
-"MIA201904030",74,"Mound Visit","2019MIA.EVN.regular.comment.csv",41
-"MIA201904030",78,"Mound Visit","2019MIA.EVN.regular.comment.csv",42
-"MIA201904120",20,"Mound Visit","2019MIA.EVN.regular.comment.csv",43
-"MIA201904120",69,"Mound Visit","2019MIA.EVN.regular.comment.csv",44
-"MIA201904130",4,"Mound Visit","2019MIA.EVN.regular.comment.csv",45
-"MIA201904130",26,"Mound Visit","2019MIA.EVN.regular.comment.csv",46
-"MIA201904130",79,"Mound Visit","2019MIA.EVN.regular.comment.csv",47
-"MIA201904140",3,"Injury Delay","2019MIA.EVN.regular.comment.csv",48
-"MIA201904140",28,"Mound Visit","2019MIA.EVN.regular.comment.csv",49
-"MIA201904140",44,"Mound Visit","2019MIA.EVN.regular.comment.csv",50
-"MIA201904140",45,"Mound Visit","2019MIA.EVN.regular.comment.csv",51
-"MIA201904140",48,"Mound Visit","2019MIA.EVN.regular.comment.csv",52
-"MIA201904140",49,"Mound Visit On-field Delay","2019MIA.EVN.regular.comment.csv",53
-"MIA201904140",58,"Mound Visit","2019MIA.EVN.regular.comment.csv",54
-"MIA201904140",100,"Mound Visit","2019MIA.EVN.regular.comment.csv",55
-"MIA201904150",7,"Mound Visit","2019MIA.EVN.regular.comment.csv",56
-"MIA201904150",15,"Mound Visit","2019MIA.EVN.regular.comment.csv",57
-"MIA201904150",21,"Mound Visit","2019MIA.EVN.regular.comment.csv",58
-"MIA201904150",41,"Mound Visit","2019MIA.EVN.regular.comment.csv",59
-"MIA201904150",44,"$Cubs challenged call that Contreras was out at 2nd; call was overturned - safe on fielder's choice","2019MIA.EVN.regular.comment.csv",60
-"MIA201904150",50,"Mound Visit","2019MIA.EVN.regular.comment.csv",61
-"MIA201904150",55,"Injury Delay","2019MIA.EVN.regular.comment.csv",62
-"MIA201904150",67,"$Marlins challenged calls at both 2nd and 1st; both were upheld - double play","2019MIA.EVN.regular.comment.csv",63
-"MIA201904160",25,"Mound Visit","2019MIA.EVN.regular.comment.csv",64
-"MIA201904160",40,"$Marlins challenged call that Baez was safe at 2nd; call was overturned - single and out stretching","2019MIA.EVN.regular.comment.csv",65
-"MIA201904160",47,"Mound Visit","2019MIA.EVN.regular.comment.csv",66
-"MIA201904160",55,"Mound Visit","2019MIA.EVN.regular.comment.csv",67
-"MIA201904160",61,"Mound Visit","2019MIA.EVN.regular.comment.csv",68
-"MIA201904160",64,"Mound Visit","2019MIA.EVN.regular.comment.csv",69
-"MIA201904160",66,"Injury Delay","2019MIA.EVN.regular.comment.csv",70
-"MIA201904170",20,"Mound Visit","2019MIA.EVN.regular.comment.csv",71
-"MIA201904170",50,"Mound Visit","2019MIA.EVN.regular.comment.csv",72
-"MIA201904190",21,"$Marlins challenged call that Robles was safe at 2nd; call was upheld - stolen base","2019MIA.EVN.regular.comment.csv",73
-"MIA201904190",52,"Mound Visit","2019MIA.EVN.regular.comment.csv",74
-"MIA201904190",53,"Mound Visit","2019MIA.EVN.regular.comment.csv",75
-"MIA201904190",55,"Mound Visit","2019MIA.EVN.regular.comment.csv",76
-"MIA201904190",59,"Mound Visit","2019MIA.EVN.regular.comment.csv",77
-"MIA201904190",67,"Mound Visit","2019MIA.EVN.regular.comment.csv",78
-"MIA201904190",70,"Mound Visit","2019MIA.EVN.regular.comment.csv",79
-"MIA201904200",28,"Mound Visit","2019MIA.EVN.regular.comment.csv",80
-"MIA201904200",55,"Mound Visit","2019MIA.EVN.regular.comment.csv",81
-"MIA201904200",56,"Mound Visit","2019MIA.EVN.regular.comment.csv",82
-"MIA201904200",57,"Injury Delay","2019MIA.EVN.regular.comment.csv",83
-"MIA201904200",61,"$Marlins challenged call that Kendrick was safe at 1st; call was overturned - ground out","2019MIA.EVN.regular.comment.csv",84
-"MIA201904200",66,"$Nationals challenged call that Castro was safe at 1st; call was overturned - ground out","2019MIA.EVN.regular.comment.csv",85
-"MIA201904200",67,"Injury Delay","2019MIA.EVN.regular.comment.csv",86
-"MIA201904200",69,"Mound Visit","2019MIA.EVN.regular.comment.csv",87
-"MIA201904200",85,"Mound Visit","2019MIA.EVN.regular.comment.csv",88
-"MIA201904210",9,"Mound Visit","2019MIA.EVN.regular.comment.csv",89
-"MIA201904210",50,"Mound Visit","2019MIA.EVN.regular.comment.csv",90
-"MIA201904210",63,"Mound Visit","2019MIA.EVN.regular.comment.csv",91
-"MIA201904210",64,"Mound Visit","2019MIA.EVN.regular.comment.csv",92
-"MIA201904210",71,"Mound Visit","2019MIA.EVN.regular.comment.csv",93
-"MIA201904300",21,"Mound Visit","2019MIA.EVN.regular.comment.csv",94
-"MIA201904300",27,"Mound Visit","2019MIA.EVN.regular.comment.csv",95
-"MIA201904300",33,"Injury Delay","2019MIA.EVN.regular.comment.csv",96
-"MIA201904300",37,"Mound Visit","2019MIA.EVN.regular.comment.csv",97
-"MIA201904300",53,"Mound Visit","2019MIA.EVN.regular.comment.csv",98
-"MIA201904300",73,"Mound Visit","2019MIA.EVN.regular.comment.csv",99
-"MIA201904300",75,"Mound Visit","2019MIA.EVN.regular.comment.csv",100
-"MIA201905010",40,"Injury Delay $Kluber hit with line drive and suffered broken right ulna","2019MIA.EVN.regular.comment.csv",101
-"MIA201905010",49,"Mound Visit","2019MIA.EVN.regular.comment.csv",102
-"MIA201905010",54,"Mound Visit","2019MIA.EVN.regular.comment.csv",103
-"MIA201905030",14,"Mound Visit","2019MIA.EVN.regular.comment.csv",104
-"MIA201905030",15,"On-field Delay","2019MIA.EVN.regular.comment.csv",105
-"MIA201905030",15,"ej,gausk001,P,nelsj901,Throwing behind batter $Gausman ejected by HP umpire Nelson for throwing first first pitch behind Urena","2019MIA.EVN.regular.comment.csv",106
-"MIA201905030",50,"Mound Visit","2019MIA.EVN.regular.comment.csv",107
-"MIA201905030",50,"ej,mattd001,M,nelsj901,Arguing balls and strikes $Miami manager Mattingly ejected by HP umpire Nelson for arguing called strike on 4th pitch","2019MIA.EVN.regular.comment.csv",108
-"MIA201905030",53,"Mound Visit","2019MIA.EVN.regular.comment.csv",109
-"MIA201905030",56,"Mound Visit","2019MIA.EVN.regular.comment.csv",110
-"MIA201905030",57,"Mound Visit","2019MIA.EVN.regular.comment.csv",111
-"MIA201905030",60,"Mound Visit","2019MIA.EVN.regular.comment.csv",112
-"MIA201905040",14,"Mound Visit","2019MIA.EVN.regular.comment.csv",113
-"MIA201905040",31,"Mound Visit","2019MIA.EVN.regular.comment.csv",114
-"MIA201905040",35,"Mound Visit","2019MIA.EVN.regular.comment.csv",115
-"MIA201905040",38,"Mound Visit","2019MIA.EVN.regular.comment.csv",116
-"MIA201905040",44,"$Braves challenged call that Acuna was out at 1st; call was overturned - ground out","2019MIA.EVN.regular.comment.csv",117
-"MIA201905040",49,"Mound Visit","2019MIA.EVN.regular.comment.csv",118
-"MIA201905040",57,"Injury Delay","2019MIA.EVN.regular.comment.csv",119
-"MIA201905040",60,"Mound Visit","2019MIA.EVN.regular.comment.csv",120
-"MIA201905040",63,"$originally scored as S4 and E4, changed to S6 and E6 on 05-07-2019","2019MIA.EVN.regular.comment.csv",121
-"MIA201905050",29,"Mound Visit","2019MIA.EVN.regular.comment.csv",122
-"MIA201905050",33,"Mound Visit","2019MIA.EVN.regular.comment.csv",123
-"MIA201905050",44,"Mound Visit","2019MIA.EVN.regular.comment.csv",124
-"MIA201905050",56,"Mound Visit","2019MIA.EVN.regular.comment.csv",125
-"MIA201905050",57,"Mound Visit","2019MIA.EVN.regular.comment.csv",126
-"MIA201905050",70,"Mound Visit","2019MIA.EVN.regular.comment.csv",127
-"MIA201905140",39,"Mound Visit","2019MIA.EVN.regular.comment.csv",128
-"MIA201905140",55,"Mound Visit","2019MIA.EVN.regular.comment.csv",129
-"MIA201905150",33,"Mound Visit","2019MIA.EVN.regular.comment.csv",130
-"MIA201905150",34,"$Rojas left with injured back","2019MIA.EVN.regular.comment.csv",131
-"MIA201905150",36,"Injury Delay","2019MIA.EVN.regular.comment.csv",132
-"MIA201905150",41,"Mound Visit","2019MIA.EVN.regular.comment.csv",133
-"MIA201905150",43,"Mound Visit","2019MIA.EVN.regular.comment.csv",134
-"MIA201905150",51,"Mound Visit","2019MIA.EVN.regular.comment.csv",135
-"MIA201905150",57,"Mound Visit","2019MIA.EVN.regular.comment.csv",136
-"MIA201905150",65,"Mound Visit","2019MIA.EVN.regular.comment.csv",137
-"MIA201905150",70,"Mound Visit","2019MIA.EVN.regular.comment.csv",138
-"MIA201905150",74,"Mound Visit","2019MIA.EVN.regular.comment.csv",139
-"MIA201905170",22,"$Marlins challenged call that Rojas was out at 2nd; call was overturned - safe on pickoff attempt","2019MIA.EVN.regular.comment.csv",140
-"MIA201905170",44,"Mound Visit","2019MIA.EVN.regular.comment.csv",141
-"MIA201905170",48,"Mound Visit","2019MIA.EVN.regular.comment.csv",142
-"MIA201905170",58,"Mound Visit","2019MIA.EVN.regular.comment.csv",143
-"MIA201905170",60,"Mound Visit","2019MIA.EVN.regular.comment.csv",144
-"MIA201905170",62,"Mound Visit","2019MIA.EVN.regular.comment.csv",145
-"MIA201905170",68,"Mound Visit","2019MIA.EVN.regular.comment.csv",146
-"MIA201905170",69,"Mound Visit","2019MIA.EVN.regular.comment.csv",147
-"MIA201905180",32,"Mound Visit","2019MIA.EVN.regular.comment.csv",148
-"MIA201905180",33,"$Alfaro left with injured leg","2019MIA.EVN.regular.comment.csv",149
-"MIA201905180",43,"Mound Visit","2019MIA.EVN.regular.comment.csv",150
-"MIA201905180",45,"Injury Delay","2019MIA.EVN.regular.comment.csv",151
-"MIA201905180",55,"Mound Visit","2019MIA.EVN.regular.comment.csv",152
-"MIA201905180",61,"Mound Visit","2019MIA.EVN.regular.comment.csv",153
-"MIA201905190",36,"Mound Visit","2019MIA.EVN.regular.comment.csv",154
-"MIA201905190",44,"Injury Delay","2019MIA.EVN.regular.comment.csv",155
-"MIA201905190",48,"Mound Visit","2019MIA.EVN.regular.comment.csv",156
-"MIA201905190",50,"Mound Visit","2019MIA.EVN.regular.comment.csv",157
-"MIA201905280",24,"$Marlins challenged call that Castro was out at 3rd; call was overturned - double and safe at 3rd on error","2019MIA.EVN.regular.comment.csv",158
-"MIA201905280",41,"Mound Visit","2019MIA.EVN.regular.comment.csv",159
-"MIA201905280",50,"Injury Delay","2019MIA.EVN.regular.comment.csv",160
-"MIA201905280",71,"Mound Visit","2019MIA.EVN.regular.comment.csv",161
-"MIA201905290",13,"Mound Visit","2019MIA.EVN.regular.comment.csv",162
-"MIA201905290",26,"Mound Visit","2019MIA.EVN.regular.comment.csv",163
-"MIA201905290",52,"Mound Visit","2019MIA.EVN.regular.comment.csv",164
-"MIA201905290",53,"$Batter interference","2019MIA.EVN.regular.comment.csv",165
-"MIA201905300",15,"Mound Visit","2019MIA.EVN.regular.comment.csv",166
-"MIA201905300",19,"Mound Visit","2019MIA.EVN.regular.comment.csv",167
-"MIA201905300",29,"Mound Visit","2019MIA.EVN.regular.comment.csv",168
-"MIA201905300",46,"Mound Visit","2019MIA.EVN.regular.comment.csv",169
-"MIA201905300",53,"Mound Visit","2019MIA.EVN.regular.comment.csv",170
-"MIA201905300",62,"Mound Visit","2019MIA.EVN.regular.comment.csv",171
-"MIA201905300",70,"Mound Visit","2019MIA.EVN.regular.comment.csv",172
-"MIA201906070",32,"Mound Visit","2019MIA.EVN.regular.comment.csv",173
-"MIA201906070",73,"Mound Visit","2019MIA.EVN.regular.comment.csv",174
-"MIA201906080",30,"Injury Delay","2019MIA.EVN.regular.comment.csv",175
-"MIA201906080",43,"Mound Visit","2019MIA.EVN.regular.comment.csv",176
-"MIA201906080",57,"Mound Visit","2019MIA.EVN.regular.comment.csv",177
-"MIA201906080",58,"Mound Visit","2019MIA.EVN.regular.comment.csv",178
-"MIA201906080",61,"$Marlins challenged call at 1st; call was upheld - ground out","2019MIA.EVN.regular.comment.csv",179
-"MIA201906090",17,"Mound Visit","2019MIA.EVN.regular.comment.csv",180
-"MIA201906090",19,"$Braves challenged call that Fried was out at home; call was upheld - out on fielder's choice","2019MIA.EVN.regular.comment.csv",181
-"MIA201906090",38,"Mound Visit","2019MIA.EVN.regular.comment.csv",182
-"MIA201906090",44,"Mound Visit","2019MIA.EVN.regular.comment.csv",183
-"MIA201906090",51,"Mound Visit","2019MIA.EVN.regular.comment.csv",184
-"MIA201906090",52,"Mound Visit","2019MIA.EVN.regular.comment.csv",185
-"MIA201906090",56,"Mound Visit","2019MIA.EVN.regular.comment.csv",186
-"MIA201906090",60,"Mound Visit","2019MIA.EVN.regular.comment.csv",187
-"MIA201906090",71,"Mound Visit","2019MIA.EVN.regular.comment.csv",188
-"MIA201906090",77,"Mound Visit","2019MIA.EVN.regular.comment.csv",189
-"MIA201906090",85,"Mound Visit","2019MIA.EVN.regular.comment.csv",190
-"MIA201906090",87,"Mound Visit","2019MIA.EVN.regular.comment.csv",191
-"MIA201906090",97,"Mound Visit","2019MIA.EVN.regular.comment.csv",192
-"MIA201906100",20,"$Cardinals challenged call that Alfaro was out at 2nd; call was overturned - safe on pickoff attempt","2019MIA.EVN.regular.comment.csv",193
-"MIA201906100",27,"Mound Visit","2019MIA.EVN.regular.comment.csv",194
-"MIA201906100",48,"Mound Visit","2019MIA.EVN.regular.comment.csv",195
-"MIA201906110",8,"$Marlins challenged call that Castro was out at 1st; call was overturned - safe on dropped catch error","2019MIA.EVN.regular.comment.csv",196
-"MIA201906110",27,"Mound Visit","2019MIA.EVN.regular.comment.csv",197
-"MIA201906110",42,"Mound Visit","2019MIA.EVN.regular.comment.csv",198
-"MIA201906110",44,"Mound Visit","2019MIA.EVN.regular.comment.csv",199
-"MIA201906110",45,"Mound Visit","2019MIA.EVN.regular.comment.csv",200
-"MIA201906110",46,"$Cardinals challenged call of ball, claiming Fowler was hit by pitch; call was upheld - ball and double steal","2019MIA.EVN.regular.comment.csv",201
-"MIA201906110",47,"Mound Visit","2019MIA.EVN.regular.comment.csv",202
-"MIA201906110",60,"Mound Visit","2019MIA.EVN.regular.comment.csv",203
-"MIA201906110",78,"Mound Visit","2019MIA.EVN.regular.comment.csv",204
-"MIA201906120",46,"Mound Visit","2019MIA.EVN.regular.comment.csv",205
-"MIA201906120",47,"Mound Visit","2019MIA.EVN.regular.comment.csv",206
-"MIA201906120",52,"Mound Visit","2019MIA.EVN.regular.comment.csv",207
-"MIA201906140",8,"Injury Delay","2019MIA.EVN.regular.comment.csv",208
-"MIA201906140",25,"Mound Visit","2019MIA.EVN.regular.comment.csv",209
-"MIA201906140",39,"Mound Visit","2019MIA.EVN.regular.comment.csv",210
-"MIA201906150",27,"Mound Visit","2019MIA.EVN.regular.comment.csv",211
-"MIA201906150",33,"Mound Visit","2019MIA.EVN.regular.comment.csv",212
-"MIA201906150",36,"Mound Visit","2019MIA.EVN.regular.comment.csv",213
-"MIA201906150",57,"Mound Visit","2019MIA.EVN.regular.comment.csv",214
-"MIA201906150",70,"Mound Visit","2019MIA.EVN.regular.comment.csv",215
-"MIA201906150",74,"$Pirates challenged call that Cabrera was out at 1st; call was upheld - double play to end game","2019MIA.EVN.regular.comment.csv",216
-"MIA201906160",24,"$Marlins challenged call taht Bell was safe at 1st; call was upheld - force out, no double play","2019MIA.EVN.regular.comment.csv",217
-"MIA201906160",31,"Mound Visit","2019MIA.EVN.regular.comment.csv",218
-"MIA201906160",34,"Mound Visit","2019MIA.EVN.regular.comment.csv",219
-"MIA201906160",42,"Mound Visit","2019MIA.EVN.regular.comment.csv",220
-"MIA201906160",48,"Mound Visit","2019MIA.EVN.regular.comment.csv",221
-"MIA201906160",52,"Mound Visit","2019MIA.EVN.regular.comment.csv",222
-"MIA201906160",60,"Mound Visit","2019MIA.EVN.regular.comment.csv",223
-"MIA201906160",72,"Mound Visit","2019MIA.EVN.regular.comment.csv",224
-"MIA201906250",25,"Injury Delay","2019MIA.EVN.regular.comment.csv",225
-"MIA201906250",62,"ej,rojam002,P,estam901,Called third strike ej,mattd001,M,estam901,Called third strike $Rojas and Miami manager Mattingly ejected by HP umpire Estabrook for arguing called third strike","2019MIA.EVN.regular.comment.csv",226
-"MIA201906260",23,"Mound Visit","2019MIA.EVN.regular.comment.csv",227
-"MIA201906260",41,"Mound Visit","2019MIA.EVN.regular.comment.csv",228
-"MIA201906260",44,"Mound Visit","2019MIA.EVN.regular.comment.csv",229
-"MIA201906260",59,"Mound Visit","2019MIA.EVN.regular.comment.csv",230
-"MIA201906260",65,"Mound Visit","2019MIA.EVN.regular.comment.csv",231
-"MIA201906260",70,"Mound Visit","2019MIA.EVN.regular.comment.csv",232
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"MIA201903280",8,"Injury Delay","2019MIA.EVN.regular.comment.csv",2
+"MIA201903280",26,"Mound Visit $originally scored as single, changed to double on 03-30-2019; error remains for other advances; run scored by McMahon changed from unearned to earned","2019MIA.EVN.regular.comment.csv",3
+"MIA201903280",38,"Mound Visit","2019MIA.EVN.regular.comment.csv",4
+"MIA201903280",47,"Mound Visit","2019MIA.EVN.regular.comment.csv",5
+"MIA201903290",27,"Injury Delay","2019MIA.EVN.regular.comment.csv",6
+"MIA201903290",30,"On-field Delay","2019MIA.EVN.regular.comment.csv",7
+"MIA201903290",39,"Mound Visit","2019MIA.EVN.regular.comment.csv",8
+"MIA201903290",42,"$Marlins challenged call that Herrera was out at first; call was overturned - single","2019MIA.EVN.regular.comment.csv",9
+"MIA201903290",44,"Mound Visit","2019MIA.EVN.regular.comment.csv",10
+"MIA201903290",47,"Mound Visit","2019MIA.EVN.regular.comment.csv",11
+"MIA201903290",62,"Mound Visit","2019MIA.EVN.regular.comment.csv",12
+"MIA201903290",68,"Mound Visit","2019MIA.EVN.regular.comment.csv",13
+"MIA201903290",70,"Mound Visit","2019MIA.EVN.regular.comment.csv",14
+"MIA201903290",72,"Mound Visit","2019MIA.EVN.regular.comment.csv",15
+"MIA201903300",16,"Mound Visit","2019MIA.EVN.regular.comment.csv",16
+"MIA201903300",47,"Mound Visit","2019MIA.EVN.regular.comment.csv",17
+"MIA201903300",59,"Mound Visit","2019MIA.EVN.regular.comment.csv",18
+"MIA201903300",63,"Mound Visit","2019MIA.EVN.regular.comment.csv",19
+"MIA201903300",64,"Mound Visit","2019MIA.EVN.regular.comment.csv",20
+"MIA201903310",36,"Mound Visit","2019MIA.EVN.regular.comment.csv",21
+"MIA201903310",51,"Injury Delay","2019MIA.EVN.regular.comment.csv",22
+"MIA201903310",57,"Mound Visit","2019MIA.EVN.regular.comment.csv",23
+"MIA201903310",62,"Mound Visit","2019MIA.EVN.regular.comment.csv",24
+"MIA201904010",13,"Mound Visit","2019MIA.EVN.regular.comment.csv",25
+"MIA201904010",36,"$Originally a dropped foul error on McNeil on 2nd pitch; error removed on 04-0-2-2019","2019MIA.EVN.regular.comment.csv",26
+"MIA201904010",47,"Mound Visit","2019MIA.EVN.regular.comment.csv",27
+"MIA201904010",48,"Mound Visit","2019MIA.EVN.regular.comment.csv",28
+"MIA201904010",55,"Mound Visit","2019MIA.EVN.regular.comment.csv",29
+"MIA201904010",66,"$Marlins challenged call that Lagares was hit by pitch; call was upheld - hit by pitch Injury Delay Mound Visit","2019MIA.EVN.regular.comment.csv",30
+"MIA201904010",76,"Mound Visit","2019MIA.EVN.regular.comment.csv",31
+"MIA201904020",6,"Mound Visit","2019MIA.EVN.regular.comment.csv",32
+"MIA201904020",45,"$Marlins challenged call that Rosario was safe at 2nd; call was upheld - stolen base","2019MIA.EVN.regular.comment.csv",33
+"MIA201904020",51,"Mound Visit","2019MIA.EVN.regular.comment.csv",34
+"MIA201904020",65,"Mound Visit","2019MIA.EVN.regular.comment.csv",35
+"MIA201904020",70,"Mound Visit","2019MIA.EVN.regular.comment.csv",36
+"MIA201904020",74,"Mound Visit","2019MIA.EVN.regular.comment.csv",37
+"MIA201904020",82,"Mound Visit","2019MIA.EVN.regular.comment.csv",38
+"MIA201904030",18,"Mound Visit","2019MIA.EVN.regular.comment.csv",39
+"MIA201904030",52,"Mound Visit","2019MIA.EVN.regular.comment.csv",40
+"MIA201904030",73,"Mound Visit","2019MIA.EVN.regular.comment.csv",41
+"MIA201904030",74,"Mound Visit","2019MIA.EVN.regular.comment.csv",42
+"MIA201904030",78,"Mound Visit","2019MIA.EVN.regular.comment.csv",43
+"MIA201904120",20,"Mound Visit","2019MIA.EVN.regular.comment.csv",44
+"MIA201904120",69,"Mound Visit","2019MIA.EVN.regular.comment.csv",45
+"MIA201904130",4,"Mound Visit","2019MIA.EVN.regular.comment.csv",46
+"MIA201904130",26,"Mound Visit","2019MIA.EVN.regular.comment.csv",47
+"MIA201904130",79,"Mound Visit","2019MIA.EVN.regular.comment.csv",48
+"MIA201904140",3,"Injury Delay","2019MIA.EVN.regular.comment.csv",49
+"MIA201904140",28,"Mound Visit","2019MIA.EVN.regular.comment.csv",50
+"MIA201904140",44,"Mound Visit","2019MIA.EVN.regular.comment.csv",51
+"MIA201904140",45,"Mound Visit","2019MIA.EVN.regular.comment.csv",52
+"MIA201904140",48,"Mound Visit","2019MIA.EVN.regular.comment.csv",53
+"MIA201904140",49,"Mound Visit On-field Delay","2019MIA.EVN.regular.comment.csv",54
+"MIA201904140",58,"Mound Visit","2019MIA.EVN.regular.comment.csv",55
+"MIA201904140",100,"Mound Visit","2019MIA.EVN.regular.comment.csv",56
+"MIA201904150",7,"Mound Visit","2019MIA.EVN.regular.comment.csv",57
+"MIA201904150",15,"Mound Visit","2019MIA.EVN.regular.comment.csv",58
+"MIA201904150",21,"Mound Visit","2019MIA.EVN.regular.comment.csv",59
+"MIA201904150",41,"Mound Visit","2019MIA.EVN.regular.comment.csv",60
+"MIA201904150",44,"$Cubs challenged call that Contreras was out at 2nd; call was overturned - safe on fielder's choice","2019MIA.EVN.regular.comment.csv",61
+"MIA201904150",50,"Mound Visit","2019MIA.EVN.regular.comment.csv",62
+"MIA201904150",55,"Injury Delay","2019MIA.EVN.regular.comment.csv",63
+"MIA201904150",67,"$Marlins challenged calls at both 2nd and 1st; both were upheld - double play","2019MIA.EVN.regular.comment.csv",64
+"MIA201904160",25,"Mound Visit","2019MIA.EVN.regular.comment.csv",65
+"MIA201904160",40,"$Marlins challenged call that Baez was safe at 2nd; call was overturned - single and out stretching","2019MIA.EVN.regular.comment.csv",66
+"MIA201904160",47,"Mound Visit","2019MIA.EVN.regular.comment.csv",67
+"MIA201904160",55,"Mound Visit","2019MIA.EVN.regular.comment.csv",68
+"MIA201904160",61,"Mound Visit","2019MIA.EVN.regular.comment.csv",69
+"MIA201904160",64,"Mound Visit","2019MIA.EVN.regular.comment.csv",70
+"MIA201904160",66,"Injury Delay","2019MIA.EVN.regular.comment.csv",71
+"MIA201904170",20,"Mound Visit","2019MIA.EVN.regular.comment.csv",72
+"MIA201904170",50,"Mound Visit","2019MIA.EVN.regular.comment.csv",73
+"MIA201904190",21,"$Marlins challenged call that Robles was safe at 2nd; call was upheld - stolen base","2019MIA.EVN.regular.comment.csv",74
+"MIA201904190",52,"Mound Visit","2019MIA.EVN.regular.comment.csv",75
+"MIA201904190",53,"Mound Visit","2019MIA.EVN.regular.comment.csv",76
+"MIA201904190",55,"Mound Visit","2019MIA.EVN.regular.comment.csv",77
+"MIA201904190",59,"Mound Visit","2019MIA.EVN.regular.comment.csv",78
+"MIA201904190",67,"Mound Visit","2019MIA.EVN.regular.comment.csv",79
+"MIA201904190",70,"Mound Visit","2019MIA.EVN.regular.comment.csv",80
+"MIA201904200",28,"Mound Visit","2019MIA.EVN.regular.comment.csv",81
+"MIA201904200",55,"Mound Visit","2019MIA.EVN.regular.comment.csv",82
+"MIA201904200",56,"Mound Visit","2019MIA.EVN.regular.comment.csv",83
+"MIA201904200",57,"Injury Delay","2019MIA.EVN.regular.comment.csv",84
+"MIA201904200",61,"$Marlins challenged call that Kendrick was safe at 1st; call was overturned - ground out","2019MIA.EVN.regular.comment.csv",85
+"MIA201904200",66,"$Nationals challenged call that Castro was safe at 1st; call was overturned - ground out","2019MIA.EVN.regular.comment.csv",86
+"MIA201904200",67,"Injury Delay","2019MIA.EVN.regular.comment.csv",87
+"MIA201904200",69,"Mound Visit","2019MIA.EVN.regular.comment.csv",88
+"MIA201904200",85,"Mound Visit","2019MIA.EVN.regular.comment.csv",89
+"MIA201904210",9,"Mound Visit","2019MIA.EVN.regular.comment.csv",90
+"MIA201904210",50,"Mound Visit","2019MIA.EVN.regular.comment.csv",91
+"MIA201904210",63,"Mound Visit","2019MIA.EVN.regular.comment.csv",92
+"MIA201904210",64,"Mound Visit","2019MIA.EVN.regular.comment.csv",93
+"MIA201904210",71,"Mound Visit","2019MIA.EVN.regular.comment.csv",94
+"MIA201904300",21,"Mound Visit","2019MIA.EVN.regular.comment.csv",95
+"MIA201904300",27,"Mound Visit","2019MIA.EVN.regular.comment.csv",96
+"MIA201904300",33,"Injury Delay","2019MIA.EVN.regular.comment.csv",97
+"MIA201904300",37,"Mound Visit","2019MIA.EVN.regular.comment.csv",98
+"MIA201904300",53,"Mound Visit","2019MIA.EVN.regular.comment.csv",99
+"MIA201904300",73,"Mound Visit","2019MIA.EVN.regular.comment.csv",100
+"MIA201904300",75,"Mound Visit","2019MIA.EVN.regular.comment.csv",101
+"MIA201905010",40,"Injury Delay $Kluber hit with line drive and suffered broken right ulna","2019MIA.EVN.regular.comment.csv",102
+"MIA201905010",49,"Mound Visit","2019MIA.EVN.regular.comment.csv",103
+"MIA201905010",54,"Mound Visit","2019MIA.EVN.regular.comment.csv",104
+"MIA201905030",14,"Mound Visit","2019MIA.EVN.regular.comment.csv",105
+"MIA201905030",15,"On-field Delay","2019MIA.EVN.regular.comment.csv",106
+"MIA201905030",15,"ej,gausk001,P,nelsj901,Throwing behind batter $Gausman ejected by HP umpire Nelson for throwing first first pitch behind Urena","2019MIA.EVN.regular.comment.csv",107
+"MIA201905030",50,"Mound Visit","2019MIA.EVN.regular.comment.csv",108
+"MIA201905030",50,"ej,mattd001,M,nelsj901,Arguing balls and strikes $Miami manager Mattingly ejected by HP umpire Nelson for arguing called strike on 4th pitch","2019MIA.EVN.regular.comment.csv",109
+"MIA201905030",53,"Mound Visit","2019MIA.EVN.regular.comment.csv",110
+"MIA201905030",56,"Mound Visit","2019MIA.EVN.regular.comment.csv",111
+"MIA201905030",57,"Mound Visit","2019MIA.EVN.regular.comment.csv",112
+"MIA201905030",60,"Mound Visit","2019MIA.EVN.regular.comment.csv",113
+"MIA201905040",14,"Mound Visit","2019MIA.EVN.regular.comment.csv",114
+"MIA201905040",31,"Mound Visit","2019MIA.EVN.regular.comment.csv",115
+"MIA201905040",35,"Mound Visit","2019MIA.EVN.regular.comment.csv",116
+"MIA201905040",38,"Mound Visit","2019MIA.EVN.regular.comment.csv",117
+"MIA201905040",44,"$Braves challenged call that Acuna was out at 1st; call was overturned - ground out","2019MIA.EVN.regular.comment.csv",118
+"MIA201905040",49,"Mound Visit","2019MIA.EVN.regular.comment.csv",119
+"MIA201905040",57,"Injury Delay","2019MIA.EVN.regular.comment.csv",120
+"MIA201905040",60,"Mound Visit","2019MIA.EVN.regular.comment.csv",121
+"MIA201905040",63,"$originally scored as S4 and E4, changed to S6 and E6 on 05-07-2019","2019MIA.EVN.regular.comment.csv",122
+"MIA201905050",29,"Mound Visit","2019MIA.EVN.regular.comment.csv",123
+"MIA201905050",33,"Mound Visit","2019MIA.EVN.regular.comment.csv",124
+"MIA201905050",44,"Mound Visit","2019MIA.EVN.regular.comment.csv",125
+"MIA201905050",56,"Mound Visit","2019MIA.EVN.regular.comment.csv",126
+"MIA201905050",57,"Mound Visit","2019MIA.EVN.regular.comment.csv",127
+"MIA201905050",70,"Mound Visit","2019MIA.EVN.regular.comment.csv",128
+"MIA201905140",39,"Mound Visit","2019MIA.EVN.regular.comment.csv",129
+"MIA201905140",55,"Mound Visit","2019MIA.EVN.regular.comment.csv",130
+"MIA201905150",33,"Mound Visit","2019MIA.EVN.regular.comment.csv",131
+"MIA201905150",34,"$Rojas left with injured back","2019MIA.EVN.regular.comment.csv",132
+"MIA201905150",36,"Injury Delay","2019MIA.EVN.regular.comment.csv",133
+"MIA201905150",41,"Mound Visit","2019MIA.EVN.regular.comment.csv",134
+"MIA201905150",43,"Mound Visit","2019MIA.EVN.regular.comment.csv",135
+"MIA201905150",51,"Mound Visit","2019MIA.EVN.regular.comment.csv",136
+"MIA201905150",57,"Mound Visit","2019MIA.EVN.regular.comment.csv",137
+"MIA201905150",65,"Mound Visit","2019MIA.EVN.regular.comment.csv",138
+"MIA201905150",70,"Mound Visit","2019MIA.EVN.regular.comment.csv",139
+"MIA201905150",74,"Mound Visit","2019MIA.EVN.regular.comment.csv",140
+"MIA201905170",22,"$Marlins challenged call that Rojas was out at 2nd; call was overturned - safe on pickoff attempt","2019MIA.EVN.regular.comment.csv",141
+"MIA201905170",44,"Mound Visit","2019MIA.EVN.regular.comment.csv",142
+"MIA201905170",48,"Mound Visit","2019MIA.EVN.regular.comment.csv",143
+"MIA201905170",58,"Mound Visit","2019MIA.EVN.regular.comment.csv",144
+"MIA201905170",60,"Mound Visit","2019MIA.EVN.regular.comment.csv",145
+"MIA201905170",62,"Mound Visit","2019MIA.EVN.regular.comment.csv",146
+"MIA201905170",68,"Mound Visit","2019MIA.EVN.regular.comment.csv",147
+"MIA201905170",69,"Mound Visit","2019MIA.EVN.regular.comment.csv",148
+"MIA201905180",32,"Mound Visit","2019MIA.EVN.regular.comment.csv",149
+"MIA201905180",33,"$Alfaro left with injured leg","2019MIA.EVN.regular.comment.csv",150
+"MIA201905180",43,"Mound Visit","2019MIA.EVN.regular.comment.csv",151
+"MIA201905180",45,"Injury Delay","2019MIA.EVN.regular.comment.csv",152
+"MIA201905180",55,"Mound Visit","2019MIA.EVN.regular.comment.csv",153
+"MIA201905180",61,"Mound Visit","2019MIA.EVN.regular.comment.csv",154
+"MIA201905190",36,"Mound Visit","2019MIA.EVN.regular.comment.csv",155
+"MIA201905190",44,"Injury Delay","2019MIA.EVN.regular.comment.csv",156
+"MIA201905190",48,"Mound Visit","2019MIA.EVN.regular.comment.csv",157
+"MIA201905190",50,"Mound Visit","2019MIA.EVN.regular.comment.csv",158
+"MIA201905280",24,"$Marlins challenged call that Castro was out at 3rd; call was overturned - double and safe at 3rd on error","2019MIA.EVN.regular.comment.csv",159
+"MIA201905280",41,"Mound Visit","2019MIA.EVN.regular.comment.csv",160
+"MIA201905280",50,"Injury Delay","2019MIA.EVN.regular.comment.csv",161
+"MIA201905280",71,"Mound Visit","2019MIA.EVN.regular.comment.csv",162
+"MIA201905290",13,"Mound Visit","2019MIA.EVN.regular.comment.csv",163
+"MIA201905290",26,"Mound Visit","2019MIA.EVN.regular.comment.csv",164
+"MIA201905290",52,"Mound Visit","2019MIA.EVN.regular.comment.csv",165
+"MIA201905290",53,"$Batter interference","2019MIA.EVN.regular.comment.csv",166
+"MIA201905300",15,"Mound Visit","2019MIA.EVN.regular.comment.csv",167
+"MIA201905300",19,"Mound Visit","2019MIA.EVN.regular.comment.csv",168
+"MIA201905300",29,"Mound Visit","2019MIA.EVN.regular.comment.csv",169
+"MIA201905300",46,"Mound Visit","2019MIA.EVN.regular.comment.csv",170
+"MIA201905300",53,"Mound Visit","2019MIA.EVN.regular.comment.csv",171
+"MIA201905300",62,"Mound Visit","2019MIA.EVN.regular.comment.csv",172
+"MIA201905300",70,"Mound Visit","2019MIA.EVN.regular.comment.csv",173
+"MIA201906070",32,"Mound Visit","2019MIA.EVN.regular.comment.csv",174
+"MIA201906070",73,"Mound Visit","2019MIA.EVN.regular.comment.csv",175
+"MIA201906080",30,"Injury Delay","2019MIA.EVN.regular.comment.csv",176
+"MIA201906080",43,"Mound Visit","2019MIA.EVN.regular.comment.csv",177
+"MIA201906080",57,"Mound Visit","2019MIA.EVN.regular.comment.csv",178
+"MIA201906080",58,"Mound Visit","2019MIA.EVN.regular.comment.csv",179
+"MIA201906080",61,"$Marlins challenged call at 1st; call was upheld - ground out","2019MIA.EVN.regular.comment.csv",180
+"MIA201906090",17,"Mound Visit","2019MIA.EVN.regular.comment.csv",181
+"MIA201906090",19,"$Braves challenged call that Fried was out at home; call was upheld - out on fielder's choice","2019MIA.EVN.regular.comment.csv",182
+"MIA201906090",38,"Mound Visit","2019MIA.EVN.regular.comment.csv",183
+"MIA201906090",44,"Mound Visit","2019MIA.EVN.regular.comment.csv",184
+"MIA201906090",51,"Mound Visit","2019MIA.EVN.regular.comment.csv",185
+"MIA201906090",52,"Mound Visit","2019MIA.EVN.regular.comment.csv",186
+"MIA201906090",56,"Mound Visit","2019MIA.EVN.regular.comment.csv",187
+"MIA201906090",60,"Mound Visit","2019MIA.EVN.regular.comment.csv",188
+"MIA201906090",71,"Mound Visit","2019MIA.EVN.regular.comment.csv",189
+"MIA201906090",77,"Mound Visit","2019MIA.EVN.regular.comment.csv",190
+"MIA201906090",85,"Mound Visit","2019MIA.EVN.regular.comment.csv",191
+"MIA201906090",87,"Mound Visit","2019MIA.EVN.regular.comment.csv",192
+"MIA201906090",97,"Mound Visit","2019MIA.EVN.regular.comment.csv",193
+"MIA201906100",20,"$Cardinals challenged call that Alfaro was out at 2nd; call was overturned - safe on pickoff attempt","2019MIA.EVN.regular.comment.csv",194
+"MIA201906100",27,"Mound Visit","2019MIA.EVN.regular.comment.csv",195
+"MIA201906100",48,"Mound Visit","2019MIA.EVN.regular.comment.csv",196
+"MIA201906110",8,"$Marlins challenged call that Castro was out at 1st; call was overturned - safe on dropped catch error","2019MIA.EVN.regular.comment.csv",197
+"MIA201906110",27,"Mound Visit","2019MIA.EVN.regular.comment.csv",198
+"MIA201906110",42,"Mound Visit","2019MIA.EVN.regular.comment.csv",199
+"MIA201906110",44,"Mound Visit","2019MIA.EVN.regular.comment.csv",200
+"MIA201906110",45,"Mound Visit","2019MIA.EVN.regular.comment.csv",201
+"MIA201906110",46,"$Cardinals challenged call of ball, claiming Fowler was hit by pitch; call was upheld - ball and double steal","2019MIA.EVN.regular.comment.csv",202
+"MIA201906110",47,"Mound Visit","2019MIA.EVN.regular.comment.csv",203
+"MIA201906110",60,"Mound Visit","2019MIA.EVN.regular.comment.csv",204
+"MIA201906110",78,"Mound Visit","2019MIA.EVN.regular.comment.csv",205
+"MIA201906120",46,"Mound Visit","2019MIA.EVN.regular.comment.csv",206
+"MIA201906120",47,"Mound Visit","2019MIA.EVN.regular.comment.csv",207
+"MIA201906120",52,"Mound Visit","2019MIA.EVN.regular.comment.csv",208
+"MIA201906140",8,"Injury Delay","2019MIA.EVN.regular.comment.csv",209
+"MIA201906140",25,"Mound Visit","2019MIA.EVN.regular.comment.csv",210
+"MIA201906140",39,"Mound Visit","2019MIA.EVN.regular.comment.csv",211
+"MIA201906150",27,"Mound Visit","2019MIA.EVN.regular.comment.csv",212
+"MIA201906150",33,"Mound Visit","2019MIA.EVN.regular.comment.csv",213
+"MIA201906150",36,"Mound Visit","2019MIA.EVN.regular.comment.csv",214
+"MIA201906150",57,"Mound Visit","2019MIA.EVN.regular.comment.csv",215
+"MIA201906150",70,"Mound Visit","2019MIA.EVN.regular.comment.csv",216
+"MIA201906150",74,"$Pirates challenged call that Cabrera was out at 1st; call was upheld - double play to end game","2019MIA.EVN.regular.comment.csv",217
+"MIA201906160",24,"$Marlins challenged call taht Bell was safe at 1st; call was upheld - force out, no double play","2019MIA.EVN.regular.comment.csv",218
+"MIA201906160",31,"Mound Visit","2019MIA.EVN.regular.comment.csv",219
+"MIA201906160",34,"Mound Visit","2019MIA.EVN.regular.comment.csv",220
+"MIA201906160",42,"Mound Visit","2019MIA.EVN.regular.comment.csv",221
+"MIA201906160",48,"Mound Visit","2019MIA.EVN.regular.comment.csv",222
+"MIA201906160",52,"Mound Visit","2019MIA.EVN.regular.comment.csv",223
+"MIA201906160",60,"Mound Visit","2019MIA.EVN.regular.comment.csv",224
+"MIA201906160",72,"Mound Visit","2019MIA.EVN.regular.comment.csv",225
+"MIA201906250",25,"Injury Delay","2019MIA.EVN.regular.comment.csv",226
+"MIA201906250",62,"ej,rojam002,P,estam901,Called third strike ej,mattd001,M,estam901,Called third strike $Rojas and Miami manager Mattingly ejected by HP umpire Estabrook for arguing called third strike","2019MIA.EVN.regular.comment.csv",227
+"MIA201906260",23,"Mound Visit","2019MIA.EVN.regular.comment.csv",228
+"MIA201906260",41,"Mound Visit","2019MIA.EVN.regular.comment.csv",229
+"MIA201906260",44,"Mound Visit","2019MIA.EVN.regular.comment.csv",230
+"MIA201906260",59,"Mound Visit","2019MIA.EVN.regular.comment.csv",231
+"MIA201906260",65,"Mound Visit","2019MIA.EVN.regular.comment.csv",232
 "MIA201906260",70,"Mound Visit","2019MIA.EVN.regular.comment.csv",233
-"MIA201906260",78,"Mound Visit","2019MIA.EVN.regular.comment.csv",234
-"MIA201906260",79,"Mound Visit","2019MIA.EVN.regular.comment.csv",235
-"MIA201906270",34,"Mound Visit","2019MIA.EVN.regular.comment.csv",236
-"MIA201906270",48,"Mound Visit","2019MIA.EVN.regular.comment.csv",237
-"MIA201906270",72,"Injury Delay","2019MIA.EVN.regular.comment.csv",238
-"MIA201906270",74,"Mound Visit","2019MIA.EVN.regular.comment.csv",239
-"MIA201906280",39,"Mound Visit","2019MIA.EVN.regular.comment.csv",240
-"MIA201906280",41,"Mound Visit","2019MIA.EVN.regular.comment.csv",241
-"MIA201906280",45,"Mound Visit","2019MIA.EVN.regular.comment.csv",242
-"MIA201906280",56,"Mound Visit","2019MIA.EVN.regular.comment.csv",243
-"MIA201906290",1,"$Originally scored as single and error, changed to 2-base error on 07-05-2019, making both runs in inning unearned","2019MIA.EVN.regular.comment.csv",244
-"MIA201906290",5,"Mound Visit","2019MIA.EVN.regular.comment.csv",245
-"MIA201906290",12,"Mound Visit","2019MIA.EVN.regular.comment.csv",246
-"MIA201906290",26,"$Phillies challenged call that Rojas was safe at 1st; call was upheld - safe on pickoff attempt","2019MIA.EVN.regular.comment.csv",247
-"MIA201906290",32,"Mound Visit","2019MIA.EVN.regular.comment.csv",248
-"MIA201906290",33,"$Marlins challenged call that Hernandez was safe at 2nd; call was upheld - safe on pickoff attempt","2019MIA.EVN.regular.comment.csv",249
-"MIA201906290",66,"Mound Visit","2019MIA.EVN.regular.comment.csv",250
-"MIA201906290",71,"Mound Visit","2019MIA.EVN.regular.comment.csv",251
-"MIA201906290",73,"Mound Visit","2019MIA.EVN.regular.comment.csv",252
-"MIA201906300",35,"Mound Visit","2019MIA.EVN.regular.comment.csv",253
-"MIA201906300",41,"Mound Visit","2019MIA.EVN.regular.comment.csv",254
-"MIA201906300",47,"Mound Visit","2019MIA.EVN.regular.comment.csv",255
-"MIA201906300",50,"$Originally run scored from 3rd without an error; obstruction error on catcher added on 07-01-2019 and 4 assists were added","2019MIA.EVN.regular.comment.csv",256
-"MIA201906300",51,"Injury Delay","2019MIA.EVN.regular.comment.csv",257
-"MIA201906300",52,"$Run originally earned, now earned after addition of obstruction error","2019MIA.EVN.regular.comment.csv",258
-"MIA201906300",55,"Mound Visit","2019MIA.EVN.regular.comment.csv",259
-"MIA201906300",82,"Mound Visit","2019MIA.EVN.regular.comment.csv",260
-"MIA201907120",17,"Mound Visit $Originally scored as pickoff, caught stealing with dropped catch error by 1bman; changed to steal on 07-13-2019, making two runs earned","2019MIA.EVN.regular.comment.csv",261
-"MIA201907120",20,"Mound Visit","2019MIA.EVN.regular.comment.csv",262
-"MIA201907120",28,"Mound Visit","2019MIA.EVN.regular.comment.csv",263
-"MIA201907120",43,"Mound Visit","2019MIA.EVN.regular.comment.csv",264
-"MIA201907120",47,"Mound Visit","2019MIA.EVN.regular.comment.csv",265
-"MIA201907120",48,"Mound Visit","2019MIA.EVN.regular.comment.csv",266
-"MIA201907120",66,"Mound Visit","2019MIA.EVN.regular.comment.csv",267
-"MIA201907120",67,"Mound Visit","2019MIA.EVN.regular.comment.csv",268
-"MIA201907130",21,"Mound Visit","2019MIA.EVN.regular.comment.csv",269
-"MIA201907130",35,"Mound Visit","2019MIA.EVN.regular.comment.csv",270
-"MIA201907130",40,"Mound Visit","2019MIA.EVN.regular.comment.csv",271
-"MIA201907130",57,"Mound Visit","2019MIA.EVN.regular.comment.csv",272
-"MIA201907140",29,"Mound Visit","2019MIA.EVN.regular.comment.csv",273
-"MIA201907140",32,"Mound Visit","2019MIA.EVN.regular.comment.csv",274
-"MIA201907140",52,"Mound Visit","2019MIA.EVN.regular.comment.csv",275
-"MIA201907140",64,"Mound Visit","2019MIA.EVN.regular.comment.csv",276
-"MIA201907140",65,"Mound Visit","2019MIA.EVN.regular.comment.csv",277
-"MIA201907140",83,"Mound Visit","2019MIA.EVN.regular.comment.csv",278
-"MIA201907160",12,"Mound Visit","2019MIA.EVN.regular.comment.csv",279
-"MIA201907160",13,"Mound Visit","2019MIA.EVN.regular.comment.csv",280
-"MIA201907160",18,"Mound Visit","2019MIA.EVN.regular.comment.csv",281
-"MIA201907160",21,"Mound Visit","2019MIA.EVN.regular.comment.csv",282
-"MIA201907160",31,"Mound Visit","2019MIA.EVN.regular.comment.csv",283
-"MIA201907160",55,"Mound Visit","2019MIA.EVN.regular.comment.csv",284
-"MIA201907160",56,"Mound Visit","2019MIA.EVN.regular.comment.csv",285
-"MIA201907160",81,"Mound Visit","2019MIA.EVN.regular.comment.csv",286
-"MIA201907170",28,"Mound Visit","2019MIA.EVN.regular.comment.csv",287
-"MIA201907170",44,"Mound Visit","2019MIA.EVN.regular.comment.csv",288
-"MIA201907170",49,"$Marlins challenged call that Rojas was out at 1st; call was upheld - ground out","2019MIA.EVN.regular.comment.csv",289
-"MIA201907170",61,"Mound Visit","2019MIA.EVN.regular.comment.csv",290
-"MIA201907170",70,"Mound Visit","2019MIA.EVN.regular.comment.csv",291
-"MIA201907180",5,"Mound Visit","2019MIA.EVN.regular.comment.csv",292
-"MIA201907180",6,"Mound Visit","2019MIA.EVN.regular.comment.csv",293
-"MIA201907180",51,"Mound Visit","2019MIA.EVN.regular.comment.csv",294
-"MIA201907180",53,"Mound Visit","2019MIA.EVN.regular.comment.csv",295
-"MIA201907180",67,"Mound Visit","2019MIA.EVN.regular.comment.csv",296
-"MIA201907260",15,"Mound Visit","2019MIA.EVN.regular.comment.csv",297
-"MIA201907260",42,"Mound Visit","2019MIA.EVN.regular.comment.csv",298
-"MIA201907260",52,"Mound Visit","2019MIA.EVN.regular.comment.csv",299
-"MIA201907260",69,"Mound Visit","2019MIA.EVN.regular.comment.csv",300
-"MIA201907260",70,"Mound Visit","2019MIA.EVN.regular.comment.csv",301
-"MIA201907260",71,"Mound Visit","2019MIA.EVN.regular.comment.csv",302
-"MIA201907270",7,"Injury Delay","2019MIA.EVN.regular.comment.csv",303
-"MIA201907270",21,"Mound Visit","2019MIA.EVN.regular.comment.csv",304
-"MIA201907270",22,"Mound Visit","2019MIA.EVN.regular.comment.csv",305
-"MIA201907270",49,"Mound Visit Injury Delay","2019MIA.EVN.regular.comment.csv",306
-"MIA201907270",55,"Mound Visit","2019MIA.EVN.regular.comment.csv",307
-"MIA201907270",60,"On-field Delay","2019MIA.EVN.regular.comment.csv",308
-"MIA201907280",14,"On-field Delay","2019MIA.EVN.regular.comment.csv",309
-"MIA201907280",18,"Mound Visit","2019MIA.EVN.regular.comment.csv",310
-"MIA201907280",22,"Mound Visit","2019MIA.EVN.regular.comment.csv",311
-"MIA201907280",40,"Mound Visit","2019MIA.EVN.regular.comment.csv",312
-"MIA201907280",44,"$Diamondbacks challenged call that Escobar was out at 2nd; call upheld - after catching liner, 2bman threw wildly trying to double runner at 1st, but catcher backed up play and got out at 2nd; no double play due to misplay","2019MIA.EVN.regular.comment.csv",313
-"MIA201907280",56,"Mound Visit","2019MIA.EVN.regular.comment.csv",314
-"MIA201907280",60,"Mound Visit","2019MIA.EVN.regular.comment.csv",315
-"MIA201907280",61,"Mound Visit","2019MIA.EVN.regular.comment.csv",316
-"MIA201907280",65,"$Marlins challenged call that Anderson was out at 1st; call was overturned - single","2019MIA.EVN.regular.comment.csv",317
-"MIA201907290",32,"Mound Visit","2019MIA.EVN.regular.comment.csv",318
-"MIA201907290",59,"Mound Visit","2019MIA.EVN.regular.comment.csv",319
-"MIA201907290",63,"$Marlins challenged call that Locastro was safe at 1st; call Was overturned - ground out","2019MIA.EVN.regular.comment.csv",320
-"MIA201907290",66,"Mound Visit","2019MIA.EVN.regular.comment.csv",321
-"MIA201907290",74,"Injury Delay","2019MIA.EVN.regular.comment.csv",322
-"MIA201907300",13,"$Cooper left with an injured leg","2019MIA.EVN.regular.comment.csv",323
-"MIA201907300",43,"Mound Visit","2019MIA.EVN.regular.comment.csv",324
-"MIA201907300",52,"Mound Visit","2019MIA.EVN.regular.comment.csv",325
-"MIA201907300",53,"Mound Visit","2019MIA.EVN.regular.comment.csv",326
-"MIA201907300",59,"Mound Visit","2019MIA.EVN.regular.comment.csv",327
-"MIA201907310",15,"Mound Visit","2019MIA.EVN.regular.comment.csv",328
-"MIA201907310",36,"Mound Visit","2019MIA.EVN.regular.comment.csv",329
-"MIA201907310",69,"Mound Visit","2019MIA.EVN.regular.comment.csv",330
-"MIA201907310",70,"Mound Visit","2019MIA.EVN.regular.comment.csv",331
-"MIA201908010",10,"$Twins challenged call that Adrianza was out at 1st; call was overturned - force out, no double play","2019MIA.EVN.regular.comment.csv",332
-"MIA201908010",26,"Mound Visit","2019MIA.EVN.regular.comment.csv",333
-"MIA201908010",27,"$Rojas left with an injured hip","2019MIA.EVN.regular.comment.csv",334
-"MIA201908010",58,"Mound Visit","2019MIA.EVN.regular.comment.csv",335
-"MIA201908010",64,"Mound Visit","2019MIA.EVN.regular.comment.csv",336
-"MIA201908010",73,"$Twins challenged call that Cruz was out at 2nd; call was uphelff - force out","2019MIA.EVN.regular.comment.csv",337
-"MIA201908010",77,"Mound Visit","2019MIA.EVN.regular.comment.csv",338
-"MIA201908010",78,"Mound Visit","2019MIA.EVN.regular.comment.csv",339
-"MIA201908080",7,"Mound Visit","2019MIA.EVN.regular.comment.csv",340
-"MIA201908080",15,"Mound Visit","2019MIA.EVN.regular.comment.csv",341
-"MIA201908080",33,"Mound Visit","2019MIA.EVN.regular.comment.csv",342
-"MIA201908080",36,"Mound Visit","2019MIA.EVN.regular.comment.csv",343
-"MIA201908080",37,"Mound Visit","2019MIA.EVN.regular.comment.csv",344
-"MIA201908080",72,"Mound Visit","2019MIA.EVN.regular.comment.csv",345
-"MIA201908080",75,"Mound Visit","2019MIA.EVN.regular.comment.csv",346
-"MIA201908090",34,"Mound Visit","2019MIA.EVN.regular.comment.csv",347
-"MIA201908090",35,"On-field Delay ej,mattd001,M,tumpj901,Arguing balk call $Miami manger Mattingly ejected by 2b umpire Tumpane for arguing balk call","2019MIA.EVN.regular.comment.csv",348
-"MIA201908090",37,"Mound Visit","2019MIA.EVN.regular.comment.csv",349
-"MIA201908090",42,"Mound Visit","2019MIA.EVN.regular.comment.csv",350
-"MIA201908090",66,"Mound Visit","2019MIA.EVN.regular.comment.csv",351
-"MIA201908090",67,"Mound Visit","2019MIA.EVN.regular.comment.csv",352
-"MIA201908100",53,"Mound Visit","2019MIA.EVN.regular.comment.csv",353
-"MIA201908100",54,"Mound Visit","2019MIA.EVN.regular.comment.csv",354
-"MIA201908100",55,"Mound Visit","2019MIA.EVN.regular.comment.csv",355
-"MIA201908100",59,"Mound Visit","2019MIA.EVN.regular.comment.csv",356
-"MIA201908100",60,"Mound Visit Mound Visit","2019MIA.EVN.regular.comment.csv",357
-"MIA201908100",70,"Mound Visit","2019MIA.EVN.regular.comment.csv",358
-"MIA201908100",71,"Mound Visit","2019MIA.EVN.regular.comment.csv",359
-"MIA201908100",76,"Mound Visit","2019MIA.EVN.regular.comment.csv",360
-"MIA201908100",79,"$Marlins challenged call that Diaz was out at home; call upheld - out trying to score on double","2019MIA.EVN.regular.comment.csv",361
-"MIA201908110",48,"Mound Visit $Umpire review of Castro's ball; call upheld - double, not home run","2019MIA.EVN.regular.comment.csv",362
-"MIA201908110",51,"Mound Visit","2019MIA.EVN.regular.comment.csv",363
-"MIA201908110",55,"Mound Visit","2019MIA.EVN.regular.comment.csv",364
-"MIA201908110",71,"Mound Visit","2019MIA.EVN.regular.comment.csv",365
-"MIA201908110",75,"Mound Visit","2019MIA.EVN.regular.comment.csv",366
-"MIA201908130",26,"Mound Visit","2019MIA.EVN.regular.comment.csv",367
-"MIA201908130",40,"Mound Visit","2019MIA.EVN.regular.comment.csv",368
-"MIA201908130",48,"Mound Visit","2019MIA.EVN.regular.comment.csv",369
-"MIA201908130",49,"Mound Visit","2019MIA.EVN.regular.comment.csv",370
-"MIA201908130",54,"Mound Visit","2019MIA.EVN.regular.comment.csv",371
-"MIA201908130",76,"Mound Visit","2019MIA.EVN.regular.comment.csv",372
-"MIA201908130",77,"Mound Visit","2019MIA.EVN.regular.comment.csv",373
-"MIA201908130",78,"Injury Delay","2019MIA.EVN.regular.comment.csv",374
-"MIA201908130",78,"umpchange,9,umphome,lentn901 umpchange,9,ump2b,(None) $Foul ball on 2-1 pitch hit HP umpire on chin and left game; 2B umpire Lentz went behind plate and game was finished with three umpires","2019MIA.EVN.regular.comment.csv",375
-"MIA201908140",5,"Mound Visit","2019MIA.EVN.regular.comment.csv",376
-"MIA201908140",43,"Mound Visit","2019MIA.EVN.regular.comment.csv",377
-"MIA201908140",60,"Mound Visit","2019MIA.EVN.regular.comment.csv",378
-"MIA201908150",13,"Mound Visit","2019MIA.EVN.regular.comment.csv",379
-"MIA201908150",25,"Mound Visit","2019MIA.EVN.regular.comment.csv",380
-"MIA201908150",42,"Mound Visit","2019MIA.EVN.regular.comment.csv",381
-"MIA201908150",45,"Mound Visit","2019MIA.EVN.regular.comment.csv",382
-"MIA201908150",46,"Mound Visit","2019MIA.EVN.regular.comment.csv",383
-"MIA201908150",47,"Injury Delay $Marlins challenged call that Alfaro was out at 3rd; call upheld - out advancing on double","2019MIA.EVN.regular.comment.csv",384
-"MIA201908150",52,"Mound Visit","2019MIA.EVN.regular.comment.csv",385
-"MIA201908150",59,"Mound Visit","2019MIA.EVN.regular.comment.csv",386
-"MIA201908150",70,"Mound Visit","2019MIA.EVN.regular.comment.csv",387
-"MIA201908150",88,"Mound Visit","2019MIA.EVN.regular.comment.csv",388
-"MIA201908230",33,"Injury Delay Mound Visit","2019MIA.EVN.regular.comment.csv",389
-"MIA201908230",36,"Mound Visit","2019MIA.EVN.regular.comment.csv",390
-"MIA201908230",37,"Injury Delay","2019MIA.EVN.regular.comment.csv",391
-"MIA201908230",37,"$NIcasio left with an injured shoulder","2019MIA.EVN.regular.comment.csv",392
-"MIA201908230",38,"$Anderson left with an injured hand","2019MIA.EVN.regular.comment.csv",393
-"MIA201908230",44,"Mound Visit","2019MIA.EVN.regular.comment.csv",394
-"MIA201908230",48,"On-field Delay","2019MIA.EVN.regular.comment.csv",395
-"MIA201908230",57,"Mound Visit","2019MIA.EVN.regular.comment.csv",396
-"MIA201908230",61,"Mound Visit","2019MIA.EVN.regular.comment.csv",397
-"MIA201908230",64,"Mound Visit","2019MIA.EVN.regular.comment.csv",398
-"MIA201908230",89,"Mound Visit","2019MIA.EVN.regular.comment.csv",399
-"MIA201908230",93,"Mound Visit","2019MIA.EVN.regular.comment.csv",400
-"MIA201908230",97,"Mound Visit","2019MIA.EVN.regular.comment.csv",401
-"MIA201908230",98,"Mound Visit","2019MIA.EVN.regular.comment.csv",402
-"MIA201908240",23,"$Phillies challenged call that Berti was safe at 1st; call upheld - safe on pickoff attempt","2019MIA.EVN.regular.comment.csv",403
-"MIA201908240",31,"Mound Visit","2019MIA.EVN.regular.comment.csv",404
-"MIA201908240",33,"Mound Visit","2019MIA.EVN.regular.comment.csv",405
-"MIA201908240",34,"Mound Visit","2019MIA.EVN.regular.comment.csv",406
-"MIA201908240",78,"Mound Visit","2019MIA.EVN.regular.comment.csv",407
-"MIA201908250",18,"$Marlins challenged call that Brinson was out at 1st; call upheld - ground out","2019MIA.EVN.regular.comment.csv",408
-"MIA201908250",36,"Mound Visit","2019MIA.EVN.regular.comment.csv",409
-"MIA201908250",40,"Mound Visit","2019MIA.EVN.regular.comment.csv",410
-"MIA201908250",42,"Mound Visit","2019MIA.EVN.regular.comment.csv",411
-"MIA201908250",48,"$Phillies challenged call that Kingery was out 2nd; call upheld - caught stealing","2019MIA.EVN.regular.comment.csv",412
-"MIA201908250",53,"Mound Visit","2019MIA.EVN.regular.comment.csv",413
-"MIA201908250",55,"Mound Visit","2019MIA.EVN.regular.comment.csv",414
-"MIA201908260",25,"Mound Visit","2019MIA.EVN.regular.comment.csv",415
-"MIA201908260",37,"Mound Visit","2019MIA.EVN.regular.comment.csv",416
-"MIA201908260",55,"Mound Visit","2019MIA.EVN.regular.comment.csv",417
-"MIA201908260",56,"Mound Visit","2019MIA.EVN.regular.comment.csv",418
-"MIA201908260",72,"Mound Visit","2019MIA.EVN.regular.comment.csv",419
-"MIA201908260",77,"Mound Visit","2019MIA.EVN.regular.comment.csv",420
-"MIA201908270",2,"$Marlins challenged call that Senzel was safe at 2nd; call upheld; safe advancing on fly ball","2019MIA.EVN.regular.comment.csv",421
-"MIA201908270",7,"Mound Visit","2019MIA.EVN.regular.comment.csv",422
-"MIA201908270",21,"Mound Visit","2019MIA.EVN.regular.comment.csv",423
-"MIA201908270",43,"Mound Visit","2019MIA.EVN.regular.comment.csv",424
-"MIA201908270",66,"Mound Visit","2019MIA.EVN.regular.comment.csv",425
-"MIA201908270",80,"Mound Visit","2019MIA.EVN.regular.comment.csv",426
-"MIA201908270",80,"ej,garra001,P,blakr901,Balls and strikes $Garrett ejected by HP umpire Blakney for arguing balls and strikes","2019MIA.EVN.regular.comment.csv",427
-"MIA201908270",88,"Mound Visit","2019MIA.EVN.regular.comment.csv",428
-"MIA201908280",35,"Injury Delay","2019MIA.EVN.regular.comment.csv",429
-"MIA201908290",49,"Mound Visit","2019MIA.EVN.regular.comment.csv",430
-"MIA201908290",51,"Mound Visit","2019MIA.EVN.regular.comment.csv",431
-"MIA201908290",57,"Mound Visit","2019MIA.EVN.regular.comment.csv",432
-"MIA201908290",66,"Mound Visit","2019MIA.EVN.regular.comment.csv",433
-"MIA201908290",70,"Mound Visit","2019MIA.EVN.regular.comment.csv",434
-"MIA201908290",74,"Mound Visit","2019MIA.EVN.regular.comment.csv",435
-"MIA201909060",30,"$Marlins challenged call that Viloria was safe at 1st; call overturned - ground out","2019MIA.EVN.regular.comment.csv",436
-"MIA201909060",45,"Mound Visit","2019MIA.EVN.regular.comment.csv",437
-"MIA201909060",46,"Mound Visit","2019MIA.EVN.regular.comment.csv",438
-"MIA201909060",47,"Mound Visit","2019MIA.EVN.regular.comment.csv",439
-"MIA201909060",61,"Mound Visit","2019MIA.EVN.regular.comment.csv",440
-"MIA201909070",54,"Mound Visit","2019MIA.EVN.regular.comment.csv",441
-"MIA201909070",57,"Mound Visit","2019MIA.EVN.regular.comment.csv",442
-"MIA201909070",59,"Mound Visit","2019MIA.EVN.regular.comment.csv",443
-"MIA201909070",60,"Mound Visit","2019MIA.EVN.regular.comment.csv",444
-"MIA201909070",72,"Mound Visit","2019MIA.EVN.regular.comment.csv",445
-"MIA201909070",73,"Mound Visit","2019MIA.EVN.regular.comment.csv",446
-"MIA201909070",74,"Mound Visit","2019MIA.EVN.regular.comment.csv",447
-"MIA201909080",28,"Mound Visit","2019MIA.EVN.regular.comment.csv",448
-"MIA201909080",36,"Mound Visit","2019MIA.EVN.regular.comment.csv",449
-"MIA201909080",42,"Mound Visit","2019MIA.EVN.regular.comment.csv",450
-"MIA201909080",46,"Mound Visit","2019MIA.EVN.regular.comment.csv",451
-"MIA201909080",66,"Mound Visit","2019MIA.EVN.regular.comment.csv",452
-"MIA201909090",4,"Mound Visit","2019MIA.EVN.regular.comment.csv",453
-"MIA201909090",25,"Mound Visit","2019MIA.EVN.regular.comment.csv",454
-"MIA201909090",41,"Mound Visit","2019MIA.EVN.regular.comment.csv",455
-"MIA201909090",47,"Mound Visit","2019MIA.EVN.regular.comment.csv",456
-"MIA201909090",53,"Mound Visit","2019MIA.EVN.regular.comment.csv",457
-"MIA201909090",54,"Mound Visit","2019MIA.EVN.regular.comment.csv",458
-"MIA201909090",59,"Mound Visit","2019MIA.EVN.regular.comment.csv",459
-"MIA201909090",63,"Mound Visit","2019MIA.EVN.regular.comment.csv",460
-"MIA201909090",70,"Mound Visit","2019MIA.EVN.regular.comment.csv",461
-"MIA201909090",72,"Mound Visit","2019MIA.EVN.regular.comment.csv",462
-"MIA201909090",77,"Mound Visit","2019MIA.EVN.regular.comment.csv",463
-"MIA201909090",79,"Mound Visit","2019MIA.EVN.regular.comment.csv",464
-"MIA201909100",2,"Injury Delay","2019MIA.EVN.regular.comment.csv",465
-"MIA201909100",2,"$Yelich fouled 3rd pitch off right knee and fractured kneecap - out for rest of season; Grisham completed strikeout which was charged to Yelich","2019MIA.EVN.regular.comment.csv",466
-"MIA201909100",30,"Mound Visit","2019MIA.EVN.regular.comment.csv",467
-"MIA201909100",45,"Mound Visit","2019MIA.EVN.regular.comment.csv",468
-"MIA201909100",47,"Mound Visit","2019MIA.EVN.regular.comment.csv",469
-"MIA201909100",60,"Mound Visit","2019MIA.EVN.regular.comment.csv",470
-"MIA201909100",66,"Mound Visit","2019MIA.EVN.regular.comment.csv",471
-"MIA201909100",67,"Mound Visit","2019MIA.EVN.regular.comment.csv",472
-"MIA201909100",71,"Mound Visit","2019MIA.EVN.regular.comment.csv",473
-"MIA201909110",23,"Mound Visit","2019MIA.EVN.regular.comment.csv",474
-"MIA201909110",24,"Mound Visit","2019MIA.EVN.regular.comment.csv",475
-"MIA201909110",43,"Mound Visit","2019MIA.EVN.regular.comment.csv",476
-"MIA201909110",44,"Mound Visit","2019MIA.EVN.regular.comment.csv",477
-"MIA201909110",58,"Mound Visit","2019MIA.EVN.regular.comment.csv",478
-"MIA201909110",59,"Mound Visit","2019MIA.EVN.regular.comment.csv",479
-"MIA201909120",36,"Mound Visit","2019MIA.EVN.regular.comment.csv",480
-"MIA201909120",49,"Mound Visit","2019MIA.EVN.regular.comment.csv",481
-"MIA201909200",34,"Mound Visit","2019MIA.EVN.regular.comment.csv",482
-"MIA201909200",47,"$Marlins challenged call that Kendrick scored before tag at 2nd for 3rd out; call upheld - run scores","2019MIA.EVN.regular.comment.csv",483
-"MIA201909200",49,"Mound Visit","2019MIA.EVN.regular.comment.csv",484
-"MIA201909200",54,"Mound Visit","2019MIA.EVN.regular.comment.csv",485
-"MIA201909200",59,"Mound Visit","2019MIA.EVN.regular.comment.csv",486
-"MIA201909200",64,"Mound Visit","2019MIA.EVN.regular.comment.csv",487
-"MIA201909200",70,"Mound Visit","2019MIA.EVN.regular.comment.csv",488
-"MIA201909210",3,"Mound Visit","2019MIA.EVN.regular.comment.csv",489
-"MIA201909210",38,"Mound Visit","2019MIA.EVN.regular.comment.csv",490
-"MIA201909210",39,"Mound Visit","2019MIA.EVN.regular.comment.csv",491
-"MIA201909210",58,"Mound Visit","2019MIA.EVN.regular.comment.csv",492
-"MIA201909210",59,"Injury Delay","2019MIA.EVN.regular.comment.csv",493
-"MIA201909210",62,"Mound Visit","2019MIA.EVN.regular.comment.csv",494
-"MIA201909210",69,"Mound Visit","2019MIA.EVN.regular.comment.csv",495
-"MIA201909210",72,"Mound Visit","2019MIA.EVN.regular.comment.csv",496
-"MIA201909210",85,"Mound Visit","2019MIA.EVN.regular.comment.csv",497
-"MIA201909210",88,"Mound Visit","2019MIA.EVN.regular.comment.csv",498
-"MIA201909210",91,"Mound Visit","2019MIA.EVN.regular.comment.csv",499
-"MIA201909220",29,"$Nationals challenged call that Dozier was out at 2nd; call overturned - safe when 2bman missed base, but batter out","2019MIA.EVN.regular.comment.csv",500
-"MIA201909220",56,"Mound Visit","2019MIA.EVN.regular.comment.csv",501
-"MIA201909220",59,"Mound Visit","2019MIA.EVN.regular.comment.csv",502
-"MIA201909220",63,"Mound Visit","2019MIA.EVN.regular.comment.csv",503
-"MIA201909220",69,"Mound Visit","2019MIA.EVN.regular.comment.csv",504
+"MIA201906260",70,"Mound Visit","2019MIA.EVN.regular.comment.csv",234
+"MIA201906260",78,"Mound Visit","2019MIA.EVN.regular.comment.csv",235
+"MIA201906260",79,"Mound Visit","2019MIA.EVN.regular.comment.csv",236
+"MIA201906270",34,"Mound Visit","2019MIA.EVN.regular.comment.csv",237
+"MIA201906270",48,"Mound Visit","2019MIA.EVN.regular.comment.csv",238
+"MIA201906270",72,"Injury Delay","2019MIA.EVN.regular.comment.csv",239
+"MIA201906270",74,"Mound Visit","2019MIA.EVN.regular.comment.csv",240
+"MIA201906280",39,"Mound Visit","2019MIA.EVN.regular.comment.csv",241
+"MIA201906280",41,"Mound Visit","2019MIA.EVN.regular.comment.csv",242
+"MIA201906280",45,"Mound Visit","2019MIA.EVN.regular.comment.csv",243
+"MIA201906280",56,"Mound Visit","2019MIA.EVN.regular.comment.csv",244
+"MIA201906290",1,"$Originally scored as single and error, changed to 2-base error on 07-05-2019, making both runs in inning unearned","2019MIA.EVN.regular.comment.csv",245
+"MIA201906290",5,"Mound Visit","2019MIA.EVN.regular.comment.csv",246
+"MIA201906290",12,"Mound Visit","2019MIA.EVN.regular.comment.csv",247
+"MIA201906290",26,"$Phillies challenged call that Rojas was safe at 1st; call was upheld - safe on pickoff attempt","2019MIA.EVN.regular.comment.csv",248
+"MIA201906290",32,"Mound Visit","2019MIA.EVN.regular.comment.csv",249
+"MIA201906290",33,"$Marlins challenged call that Hernandez was safe at 2nd; call was upheld - safe on pickoff attempt","2019MIA.EVN.regular.comment.csv",250
+"MIA201906290",66,"Mound Visit","2019MIA.EVN.regular.comment.csv",251
+"MIA201906290",71,"Mound Visit","2019MIA.EVN.regular.comment.csv",252
+"MIA201906290",73,"Mound Visit","2019MIA.EVN.regular.comment.csv",253
+"MIA201906300",35,"Mound Visit","2019MIA.EVN.regular.comment.csv",254
+"MIA201906300",41,"Mound Visit","2019MIA.EVN.regular.comment.csv",255
+"MIA201906300",47,"Mound Visit","2019MIA.EVN.regular.comment.csv",256
+"MIA201906300",50,"$Originally run scored from 3rd without an error; obstruction error on catcher added on 07-01-2019 and 4 assists were added","2019MIA.EVN.regular.comment.csv",257
+"MIA201906300",51,"Injury Delay","2019MIA.EVN.regular.comment.csv",258
+"MIA201906300",52,"$Run originally earned, now earned after addition of obstruction error","2019MIA.EVN.regular.comment.csv",259
+"MIA201906300",55,"Mound Visit","2019MIA.EVN.regular.comment.csv",260
+"MIA201906300",82,"Mound Visit","2019MIA.EVN.regular.comment.csv",261
+"MIA201907120",17,"Mound Visit $Originally scored as pickoff, caught stealing with dropped catch error by 1bman; changed to steal on 07-13-2019, making two runs earned","2019MIA.EVN.regular.comment.csv",262
+"MIA201907120",20,"Mound Visit","2019MIA.EVN.regular.comment.csv",263
+"MIA201907120",28,"Mound Visit","2019MIA.EVN.regular.comment.csv",264
+"MIA201907120",43,"Mound Visit","2019MIA.EVN.regular.comment.csv",265
+"MIA201907120",47,"Mound Visit","2019MIA.EVN.regular.comment.csv",266
+"MIA201907120",48,"Mound Visit","2019MIA.EVN.regular.comment.csv",267
+"MIA201907120",66,"Mound Visit","2019MIA.EVN.regular.comment.csv",268
+"MIA201907120",67,"Mound Visit","2019MIA.EVN.regular.comment.csv",269
+"MIA201907130",21,"Mound Visit","2019MIA.EVN.regular.comment.csv",270
+"MIA201907130",35,"Mound Visit","2019MIA.EVN.regular.comment.csv",271
+"MIA201907130",40,"Mound Visit","2019MIA.EVN.regular.comment.csv",272
+"MIA201907130",57,"Mound Visit","2019MIA.EVN.regular.comment.csv",273
+"MIA201907140",29,"Mound Visit","2019MIA.EVN.regular.comment.csv",274
+"MIA201907140",32,"Mound Visit","2019MIA.EVN.regular.comment.csv",275
+"MIA201907140",52,"Mound Visit","2019MIA.EVN.regular.comment.csv",276
+"MIA201907140",64,"Mound Visit","2019MIA.EVN.regular.comment.csv",277
+"MIA201907140",65,"Mound Visit","2019MIA.EVN.regular.comment.csv",278
+"MIA201907140",83,"Mound Visit","2019MIA.EVN.regular.comment.csv",279
+"MIA201907160",12,"Mound Visit","2019MIA.EVN.regular.comment.csv",280
+"MIA201907160",13,"Mound Visit","2019MIA.EVN.regular.comment.csv",281
+"MIA201907160",18,"Mound Visit","2019MIA.EVN.regular.comment.csv",282
+"MIA201907160",21,"Mound Visit","2019MIA.EVN.regular.comment.csv",283
+"MIA201907160",31,"Mound Visit","2019MIA.EVN.regular.comment.csv",284
+"MIA201907160",55,"Mound Visit","2019MIA.EVN.regular.comment.csv",285
+"MIA201907160",56,"Mound Visit","2019MIA.EVN.regular.comment.csv",286
+"MIA201907160",81,"Mound Visit","2019MIA.EVN.regular.comment.csv",287
+"MIA201907170",28,"Mound Visit","2019MIA.EVN.regular.comment.csv",288
+"MIA201907170",44,"Mound Visit","2019MIA.EVN.regular.comment.csv",289
+"MIA201907170",49,"$Marlins challenged call that Rojas was out at 1st; call was upheld - ground out","2019MIA.EVN.regular.comment.csv",290
+"MIA201907170",61,"Mound Visit","2019MIA.EVN.regular.comment.csv",291
+"MIA201907170",70,"Mound Visit","2019MIA.EVN.regular.comment.csv",292
+"MIA201907180",5,"Mound Visit","2019MIA.EVN.regular.comment.csv",293
+"MIA201907180",6,"Mound Visit","2019MIA.EVN.regular.comment.csv",294
+"MIA201907180",51,"Mound Visit","2019MIA.EVN.regular.comment.csv",295
+"MIA201907180",53,"Mound Visit","2019MIA.EVN.regular.comment.csv",296
+"MIA201907180",67,"Mound Visit","2019MIA.EVN.regular.comment.csv",297
+"MIA201907260",15,"Mound Visit","2019MIA.EVN.regular.comment.csv",298
+"MIA201907260",42,"Mound Visit","2019MIA.EVN.regular.comment.csv",299
+"MIA201907260",52,"Mound Visit","2019MIA.EVN.regular.comment.csv",300
+"MIA201907260",69,"Mound Visit","2019MIA.EVN.regular.comment.csv",301
+"MIA201907260",70,"Mound Visit","2019MIA.EVN.regular.comment.csv",302
+"MIA201907260",71,"Mound Visit","2019MIA.EVN.regular.comment.csv",303
+"MIA201907270",7,"Injury Delay","2019MIA.EVN.regular.comment.csv",304
+"MIA201907270",21,"Mound Visit","2019MIA.EVN.regular.comment.csv",305
+"MIA201907270",22,"Mound Visit","2019MIA.EVN.regular.comment.csv",306
+"MIA201907270",49,"Mound Visit Injury Delay","2019MIA.EVN.regular.comment.csv",307
+"MIA201907270",55,"Mound Visit","2019MIA.EVN.regular.comment.csv",308
+"MIA201907270",60,"On-field Delay","2019MIA.EVN.regular.comment.csv",309
+"MIA201907280",14,"On-field Delay","2019MIA.EVN.regular.comment.csv",310
+"MIA201907280",18,"Mound Visit","2019MIA.EVN.regular.comment.csv",311
+"MIA201907280",22,"Mound Visit","2019MIA.EVN.regular.comment.csv",312
+"MIA201907280",40,"Mound Visit","2019MIA.EVN.regular.comment.csv",313
+"MIA201907280",44,"$Diamondbacks challenged call that Escobar was out at 2nd; call upheld - after catching liner, 2bman threw wildly trying to double runner at 1st, but catcher backed up play and got out at 2nd; no double play due to misplay","2019MIA.EVN.regular.comment.csv",314
+"MIA201907280",56,"Mound Visit","2019MIA.EVN.regular.comment.csv",315
+"MIA201907280",60,"Mound Visit","2019MIA.EVN.regular.comment.csv",316
+"MIA201907280",61,"Mound Visit","2019MIA.EVN.regular.comment.csv",317
+"MIA201907280",65,"$Marlins challenged call that Anderson was out at 1st; call was overturned - single","2019MIA.EVN.regular.comment.csv",318
+"MIA201907290",32,"Mound Visit","2019MIA.EVN.regular.comment.csv",319
+"MIA201907290",59,"Mound Visit","2019MIA.EVN.regular.comment.csv",320
+"MIA201907290",63,"$Marlins challenged call that Locastro was safe at 1st; call Was overturned - ground out","2019MIA.EVN.regular.comment.csv",321
+"MIA201907290",66,"Mound Visit","2019MIA.EVN.regular.comment.csv",322
+"MIA201907290",74,"Injury Delay","2019MIA.EVN.regular.comment.csv",323
+"MIA201907300",13,"$Cooper left with an injured leg","2019MIA.EVN.regular.comment.csv",324
+"MIA201907300",43,"Mound Visit","2019MIA.EVN.regular.comment.csv",325
+"MIA201907300",52,"Mound Visit","2019MIA.EVN.regular.comment.csv",326
+"MIA201907300",53,"Mound Visit","2019MIA.EVN.regular.comment.csv",327
+"MIA201907300",59,"Mound Visit","2019MIA.EVN.regular.comment.csv",328
+"MIA201907310",15,"Mound Visit","2019MIA.EVN.regular.comment.csv",329
+"MIA201907310",36,"Mound Visit","2019MIA.EVN.regular.comment.csv",330
+"MIA201907310",69,"Mound Visit","2019MIA.EVN.regular.comment.csv",331
+"MIA201907310",70,"Mound Visit","2019MIA.EVN.regular.comment.csv",332
+"MIA201908010",10,"$Twins challenged call that Adrianza was out at 1st; call was overturned - force out, no double play","2019MIA.EVN.regular.comment.csv",333
+"MIA201908010",26,"Mound Visit","2019MIA.EVN.regular.comment.csv",334
+"MIA201908010",27,"$Rojas left with an injured hip","2019MIA.EVN.regular.comment.csv",335
+"MIA201908010",58,"Mound Visit","2019MIA.EVN.regular.comment.csv",336
+"MIA201908010",64,"Mound Visit","2019MIA.EVN.regular.comment.csv",337
+"MIA201908010",73,"$Twins challenged call that Cruz was out at 2nd; call was uphelff - force out","2019MIA.EVN.regular.comment.csv",338
+"MIA201908010",77,"Mound Visit","2019MIA.EVN.regular.comment.csv",339
+"MIA201908010",78,"Mound Visit","2019MIA.EVN.regular.comment.csv",340
+"MIA201908080",7,"Mound Visit","2019MIA.EVN.regular.comment.csv",341
+"MIA201908080",15,"Mound Visit","2019MIA.EVN.regular.comment.csv",342
+"MIA201908080",33,"Mound Visit","2019MIA.EVN.regular.comment.csv",343
+"MIA201908080",36,"Mound Visit","2019MIA.EVN.regular.comment.csv",344
+"MIA201908080",37,"Mound Visit","2019MIA.EVN.regular.comment.csv",345
+"MIA201908080",72,"Mound Visit","2019MIA.EVN.regular.comment.csv",346
+"MIA201908080",75,"Mound Visit","2019MIA.EVN.regular.comment.csv",347
+"MIA201908090",34,"Mound Visit","2019MIA.EVN.regular.comment.csv",348
+"MIA201908090",35,"On-field Delay ej,mattd001,M,tumpj901,Arguing balk call $Miami manger Mattingly ejected by 2b umpire Tumpane for arguing balk call","2019MIA.EVN.regular.comment.csv",349
+"MIA201908090",37,"Mound Visit","2019MIA.EVN.regular.comment.csv",350
+"MIA201908090",42,"Mound Visit","2019MIA.EVN.regular.comment.csv",351
+"MIA201908090",66,"Mound Visit","2019MIA.EVN.regular.comment.csv",352
+"MIA201908090",67,"Mound Visit","2019MIA.EVN.regular.comment.csv",353
+"MIA201908100",53,"Mound Visit","2019MIA.EVN.regular.comment.csv",354
+"MIA201908100",54,"Mound Visit","2019MIA.EVN.regular.comment.csv",355
+"MIA201908100",55,"Mound Visit","2019MIA.EVN.regular.comment.csv",356
+"MIA201908100",59,"Mound Visit","2019MIA.EVN.regular.comment.csv",357
+"MIA201908100",60,"Mound Visit Mound Visit","2019MIA.EVN.regular.comment.csv",358
+"MIA201908100",70,"Mound Visit","2019MIA.EVN.regular.comment.csv",359
+"MIA201908100",71,"Mound Visit","2019MIA.EVN.regular.comment.csv",360
+"MIA201908100",76,"Mound Visit","2019MIA.EVN.regular.comment.csv",361
+"MIA201908100",79,"$Marlins challenged call that Diaz was out at home; call upheld - out trying to score on double","2019MIA.EVN.regular.comment.csv",362
+"MIA201908110",48,"Mound Visit $Umpire review of Castro's ball; call upheld - double, not home run","2019MIA.EVN.regular.comment.csv",363
+"MIA201908110",51,"Mound Visit","2019MIA.EVN.regular.comment.csv",364
+"MIA201908110",55,"Mound Visit","2019MIA.EVN.regular.comment.csv",365
+"MIA201908110",71,"Mound Visit","2019MIA.EVN.regular.comment.csv",366
+"MIA201908110",75,"Mound Visit","2019MIA.EVN.regular.comment.csv",367
+"MIA201908130",26,"Mound Visit","2019MIA.EVN.regular.comment.csv",368
+"MIA201908130",40,"Mound Visit","2019MIA.EVN.regular.comment.csv",369
+"MIA201908130",48,"Mound Visit","2019MIA.EVN.regular.comment.csv",370
+"MIA201908130",49,"Mound Visit","2019MIA.EVN.regular.comment.csv",371
+"MIA201908130",54,"Mound Visit","2019MIA.EVN.regular.comment.csv",372
+"MIA201908130",76,"Mound Visit","2019MIA.EVN.regular.comment.csv",373
+"MIA201908130",77,"Mound Visit","2019MIA.EVN.regular.comment.csv",374
+"MIA201908130",78,"Injury Delay","2019MIA.EVN.regular.comment.csv",375
+"MIA201908130",78,"umpchange,9,umphome,lentn901 umpchange,9,ump2b,(None) $Foul ball on 2-1 pitch hit HP umpire on chin and left game; 2B umpire Lentz went behind plate and game was finished with three umpires","2019MIA.EVN.regular.comment.csv",376
+"MIA201908140",5,"Mound Visit","2019MIA.EVN.regular.comment.csv",377
+"MIA201908140",43,"Mound Visit","2019MIA.EVN.regular.comment.csv",378
+"MIA201908140",60,"Mound Visit","2019MIA.EVN.regular.comment.csv",379
+"MIA201908150",13,"Mound Visit","2019MIA.EVN.regular.comment.csv",380
+"MIA201908150",25,"Mound Visit","2019MIA.EVN.regular.comment.csv",381
+"MIA201908150",42,"Mound Visit","2019MIA.EVN.regular.comment.csv",382
+"MIA201908150",45,"Mound Visit","2019MIA.EVN.regular.comment.csv",383
+"MIA201908150",46,"Mound Visit","2019MIA.EVN.regular.comment.csv",384
+"MIA201908150",47,"Injury Delay $Marlins challenged call that Alfaro was out at 3rd; call upheld - out advancing on double","2019MIA.EVN.regular.comment.csv",385
+"MIA201908150",52,"Mound Visit","2019MIA.EVN.regular.comment.csv",386
+"MIA201908150",59,"Mound Visit","2019MIA.EVN.regular.comment.csv",387
+"MIA201908150",70,"Mound Visit","2019MIA.EVN.regular.comment.csv",388
+"MIA201908150",88,"Mound Visit","2019MIA.EVN.regular.comment.csv",389
+"MIA201908230",33,"Injury Delay Mound Visit","2019MIA.EVN.regular.comment.csv",390
+"MIA201908230",36,"Mound Visit","2019MIA.EVN.regular.comment.csv",391
+"MIA201908230",37,"Injury Delay","2019MIA.EVN.regular.comment.csv",392
+"MIA201908230",37,"$NIcasio left with an injured shoulder","2019MIA.EVN.regular.comment.csv",393
+"MIA201908230",38,"$Anderson left with an injured hand","2019MIA.EVN.regular.comment.csv",394
+"MIA201908230",44,"Mound Visit","2019MIA.EVN.regular.comment.csv",395
+"MIA201908230",48,"On-field Delay","2019MIA.EVN.regular.comment.csv",396
+"MIA201908230",57,"Mound Visit","2019MIA.EVN.regular.comment.csv",397
+"MIA201908230",61,"Mound Visit","2019MIA.EVN.regular.comment.csv",398
+"MIA201908230",64,"Mound Visit","2019MIA.EVN.regular.comment.csv",399
+"MIA201908230",89,"Mound Visit","2019MIA.EVN.regular.comment.csv",400
+"MIA201908230",93,"Mound Visit","2019MIA.EVN.regular.comment.csv",401
+"MIA201908230",97,"Mound Visit","2019MIA.EVN.regular.comment.csv",402
+"MIA201908230",98,"Mound Visit","2019MIA.EVN.regular.comment.csv",403
+"MIA201908240",23,"$Phillies challenged call that Berti was safe at 1st; call upheld - safe on pickoff attempt","2019MIA.EVN.regular.comment.csv",404
+"MIA201908240",31,"Mound Visit","2019MIA.EVN.regular.comment.csv",405
+"MIA201908240",33,"Mound Visit","2019MIA.EVN.regular.comment.csv",406
+"MIA201908240",34,"Mound Visit","2019MIA.EVN.regular.comment.csv",407
+"MIA201908240",78,"Mound Visit","2019MIA.EVN.regular.comment.csv",408
+"MIA201908250",18,"$Marlins challenged call that Brinson was out at 1st; call upheld - ground out","2019MIA.EVN.regular.comment.csv",409
+"MIA201908250",36,"Mound Visit","2019MIA.EVN.regular.comment.csv",410
+"MIA201908250",40,"Mound Visit","2019MIA.EVN.regular.comment.csv",411
+"MIA201908250",42,"Mound Visit","2019MIA.EVN.regular.comment.csv",412
+"MIA201908250",48,"$Phillies challenged call that Kingery was out 2nd; call upheld - caught stealing","2019MIA.EVN.regular.comment.csv",413
+"MIA201908250",53,"Mound Visit","2019MIA.EVN.regular.comment.csv",414
+"MIA201908250",55,"Mound Visit","2019MIA.EVN.regular.comment.csv",415
+"MIA201908260",25,"Mound Visit","2019MIA.EVN.regular.comment.csv",416
+"MIA201908260",37,"Mound Visit","2019MIA.EVN.regular.comment.csv",417
+"MIA201908260",55,"Mound Visit","2019MIA.EVN.regular.comment.csv",418
+"MIA201908260",56,"Mound Visit","2019MIA.EVN.regular.comment.csv",419
+"MIA201908260",72,"Mound Visit","2019MIA.EVN.regular.comment.csv",420
+"MIA201908260",77,"Mound Visit","2019MIA.EVN.regular.comment.csv",421
+"MIA201908270",2,"$Marlins challenged call that Senzel was safe at 2nd; call upheld; safe advancing on fly ball","2019MIA.EVN.regular.comment.csv",422
+"MIA201908270",7,"Mound Visit","2019MIA.EVN.regular.comment.csv",423
+"MIA201908270",21,"Mound Visit","2019MIA.EVN.regular.comment.csv",424
+"MIA201908270",43,"Mound Visit","2019MIA.EVN.regular.comment.csv",425
+"MIA201908270",66,"Mound Visit","2019MIA.EVN.regular.comment.csv",426
+"MIA201908270",80,"Mound Visit","2019MIA.EVN.regular.comment.csv",427
+"MIA201908270",80,"ej,garra001,P,blakr901,Balls and strikes $Garrett ejected by HP umpire Blakney for arguing balls and strikes","2019MIA.EVN.regular.comment.csv",428
+"MIA201908270",88,"Mound Visit","2019MIA.EVN.regular.comment.csv",429
+"MIA201908280",35,"Injury Delay","2019MIA.EVN.regular.comment.csv",430
+"MIA201908290",49,"Mound Visit","2019MIA.EVN.regular.comment.csv",431
+"MIA201908290",51,"Mound Visit","2019MIA.EVN.regular.comment.csv",432
+"MIA201908290",57,"Mound Visit","2019MIA.EVN.regular.comment.csv",433
+"MIA201908290",66,"Mound Visit","2019MIA.EVN.regular.comment.csv",434
+"MIA201908290",70,"Mound Visit","2019MIA.EVN.regular.comment.csv",435
+"MIA201908290",74,"Mound Visit","2019MIA.EVN.regular.comment.csv",436
+"MIA201909060",30,"$Marlins challenged call that Viloria was safe at 1st; call overturned - ground out","2019MIA.EVN.regular.comment.csv",437
+"MIA201909060",45,"Mound Visit","2019MIA.EVN.regular.comment.csv",438
+"MIA201909060",46,"Mound Visit","2019MIA.EVN.regular.comment.csv",439
+"MIA201909060",47,"Mound Visit","2019MIA.EVN.regular.comment.csv",440
+"MIA201909060",61,"Mound Visit","2019MIA.EVN.regular.comment.csv",441
+"MIA201909070",54,"Mound Visit","2019MIA.EVN.regular.comment.csv",442
+"MIA201909070",57,"Mound Visit","2019MIA.EVN.regular.comment.csv",443
+"MIA201909070",59,"Mound Visit","2019MIA.EVN.regular.comment.csv",444
+"MIA201909070",60,"Mound Visit","2019MIA.EVN.regular.comment.csv",445
+"MIA201909070",72,"Mound Visit","2019MIA.EVN.regular.comment.csv",446
+"MIA201909070",73,"Mound Visit","2019MIA.EVN.regular.comment.csv",447
+"MIA201909070",74,"Mound Visit","2019MIA.EVN.regular.comment.csv",448
+"MIA201909080",28,"Mound Visit","2019MIA.EVN.regular.comment.csv",449
+"MIA201909080",36,"Mound Visit","2019MIA.EVN.regular.comment.csv",450
+"MIA201909080",42,"Mound Visit","2019MIA.EVN.regular.comment.csv",451
+"MIA201909080",46,"Mound Visit","2019MIA.EVN.regular.comment.csv",452
+"MIA201909080",66,"Mound Visit","2019MIA.EVN.regular.comment.csv",453
+"MIA201909090",4,"Mound Visit","2019MIA.EVN.regular.comment.csv",454
+"MIA201909090",25,"Mound Visit","2019MIA.EVN.regular.comment.csv",455
+"MIA201909090",41,"Mound Visit","2019MIA.EVN.regular.comment.csv",456
+"MIA201909090",47,"Mound Visit","2019MIA.EVN.regular.comment.csv",457
+"MIA201909090",53,"Mound Visit","2019MIA.EVN.regular.comment.csv",458
+"MIA201909090",54,"Mound Visit","2019MIA.EVN.regular.comment.csv",459
+"MIA201909090",59,"Mound Visit","2019MIA.EVN.regular.comment.csv",460
+"MIA201909090",63,"Mound Visit","2019MIA.EVN.regular.comment.csv",461
+"MIA201909090",70,"Mound Visit","2019MIA.EVN.regular.comment.csv",462
+"MIA201909090",72,"Mound Visit","2019MIA.EVN.regular.comment.csv",463
+"MIA201909090",77,"Mound Visit","2019MIA.EVN.regular.comment.csv",464
+"MIA201909090",79,"Mound Visit","2019MIA.EVN.regular.comment.csv",465
+"MIA201909100",2,"Injury Delay","2019MIA.EVN.regular.comment.csv",466
+"MIA201909100",2,"$Yelich fouled 3rd pitch off right knee and fractured kneecap - out for rest of season; Grisham completed strikeout which was charged to Yelich","2019MIA.EVN.regular.comment.csv",467
+"MIA201909100",30,"Mound Visit","2019MIA.EVN.regular.comment.csv",468
+"MIA201909100",45,"Mound Visit","2019MIA.EVN.regular.comment.csv",469
+"MIA201909100",47,"Mound Visit","2019MIA.EVN.regular.comment.csv",470
+"MIA201909100",60,"Mound Visit","2019MIA.EVN.regular.comment.csv",471
+"MIA201909100",66,"Mound Visit","2019MIA.EVN.regular.comment.csv",472
+"MIA201909100",67,"Mound Visit","2019MIA.EVN.regular.comment.csv",473
+"MIA201909100",71,"Mound Visit","2019MIA.EVN.regular.comment.csv",474
+"MIA201909110",23,"Mound Visit","2019MIA.EVN.regular.comment.csv",475
+"MIA201909110",24,"Mound Visit","2019MIA.EVN.regular.comment.csv",476
+"MIA201909110",43,"Mound Visit","2019MIA.EVN.regular.comment.csv",477
+"MIA201909110",44,"Mound Visit","2019MIA.EVN.regular.comment.csv",478
+"MIA201909110",58,"Mound Visit","2019MIA.EVN.regular.comment.csv",479
+"MIA201909110",59,"Mound Visit","2019MIA.EVN.regular.comment.csv",480
+"MIA201909120",36,"Mound Visit","2019MIA.EVN.regular.comment.csv",481
+"MIA201909120",49,"Mound Visit","2019MIA.EVN.regular.comment.csv",482
+"MIA201909200",34,"Mound Visit","2019MIA.EVN.regular.comment.csv",483
+"MIA201909200",47,"$Marlins challenged call that Kendrick scored before tag at 2nd for 3rd out; call upheld - run scores","2019MIA.EVN.regular.comment.csv",484
+"MIA201909200",49,"Mound Visit","2019MIA.EVN.regular.comment.csv",485
+"MIA201909200",54,"Mound Visit","2019MIA.EVN.regular.comment.csv",486
+"MIA201909200",59,"Mound Visit","2019MIA.EVN.regular.comment.csv",487
+"MIA201909200",64,"Mound Visit","2019MIA.EVN.regular.comment.csv",488
+"MIA201909200",70,"Mound Visit","2019MIA.EVN.regular.comment.csv",489
+"MIA201909210",3,"Mound Visit","2019MIA.EVN.regular.comment.csv",490
+"MIA201909210",38,"Mound Visit","2019MIA.EVN.regular.comment.csv",491
+"MIA201909210",39,"Mound Visit","2019MIA.EVN.regular.comment.csv",492
+"MIA201909210",58,"Mound Visit","2019MIA.EVN.regular.comment.csv",493
+"MIA201909210",59,"Injury Delay","2019MIA.EVN.regular.comment.csv",494
+"MIA201909210",62,"Mound Visit","2019MIA.EVN.regular.comment.csv",495
+"MIA201909210",69,"Mound Visit","2019MIA.EVN.regular.comment.csv",496
+"MIA201909210",72,"Mound Visit","2019MIA.EVN.regular.comment.csv",497
+"MIA201909210",85,"Mound Visit","2019MIA.EVN.regular.comment.csv",498
+"MIA201909210",88,"Mound Visit","2019MIA.EVN.regular.comment.csv",499
+"MIA201909210",91,"Mound Visit","2019MIA.EVN.regular.comment.csv",500
+"MIA201909220",29,"$Nationals challenged call that Dozier was out at 2nd; call overturned - safe when 2bman missed base, but batter out","2019MIA.EVN.regular.comment.csv",501
+"MIA201909220",56,"Mound Visit","2019MIA.EVN.regular.comment.csv",502
+"MIA201909220",59,"Mound Visit","2019MIA.EVN.regular.comment.csv",503
+"MIA201909220",63,"Mound Visit","2019MIA.EVN.regular.comment.csv",504
+"MIA201909220",69,"Mound Visit","2019MIA.EVN.regular.comment.csv",505

@@ -1,22 +1,23 @@
-"MON197104181",3,"$Ron Swoboda dove and the ball caromed off his glove to Rusty Staub","FILENAME_TX","LINE_NUMBER_CT"
-"MON197104181",43,"Steve Renko left with right groin pull","1971MON.EVN.regular.comment.csv",2
-"MON197104182",10,"$Rusty Staub homers into a snow bank beyond RF fence","1971MON.EVN.regular.comment.csv",3
-"MON197106160",52,"$missed squeeze","1971MON.EVN.regular.comment.csv",4
-"MON197106290",13,"$Pete Rose robbed Ron Fairly of homer","1971MON.EVN.regular.comment.csv",5
-"MON197107021",11,"Debut game for Rich Hacker","1971MON.EVN.regular.comment.csv",6
-"MON197107040",25,"$over second fence","1971MON.EVN.regular.comment.csv",7
-"MON197107040",69,"$the throw hit Deron Johnson returning to 3B","1971MON.EVN.regular.comment.csv",8
-"MON197107230",7,"ej,gibsb101,P,burkk101,Bench jockeying $37 minute delay due to power failure; Bob Gibson ejected by HP umpire Ken Burkhart for leaving the bench and shouting at the umpires","1971MON.EVN.regular.comment.csv",9
-"MON197107270",65,"$only last 2 balls intentional","1971MON.EVN.regular.comment.csv",10
-"MON197107280",6,"$Glenn Beckert injured sliding home","1971MON.EVN.regular.comment.csv",11
-"MON197108050",35,"Jose Pagan left with fractured arm","1971MON.EVN.regular.comment.csv",12
-"MON197108050",41,"ej,virdb101,C,weyel901,Complaining about warning ej,granj101,P,weyel901,Complaining about warning $Pirates coach Virdon and Pirate Grant, not in game, ejected by HP umpire Weyer after complaining about warning issued to pitcher Kison after brushback pitch to Fairey","1971MON.EVN.regular.comment.csv",13
-"MON197108230",15,"ej,alstw101,M,dalej901,Call at HP $Dodgers Manager Walter Alston argued with HP umpire Jerry Dale about the call at HP; Dale was blocked on the tag and Alston wanted Dale to talk with 1B umpire Augie Donatelli; Alston ejected by Dale","1971MON.EVN.regular.comment.csv",14
-"MON197108230",62,"$dust blew into Willie Davis' eyes; he stepped out and asked for time; the pitch was called strike three","1971MON.EVN.regular.comment.csv",15
-"MON197108291",20,"Ron Woods left with injured hamstring","1971MON.EVN.regular.comment.csv",16
-"MON197109110",60,"$Debut game for Rimp Lanier","1971MON.EVN.regular.comment.csv",17
-"MON197109170",40,"ej,maucg101,M,gormt101,Condition of field $Expos manager Mauch ejected by HP umpire Gorman for arguing game should be stopped for rain","1971MON.EVN.regular.comment.csv",18
-"MON197109280",26,"Juan Pizarro hurt covering 1B","1971MON.EVN.regular.comment.csv",19
-"MON197109280",32,"$Bill Bonham called for interference with catcher","1971MON.EVN.regular.comment.csv",20
-"MON197109290",34,"ej,dobyl101,C,burkk901,Balls and strikes Montreal coach Larry Doby ejected by HP umpire Ken Burkhart sometime in fourth","1971MON.EVN.regular.comment.csv",21
-"MON197109300",49,"Brock Davis left with pulled muscle","1971MON.EVN.regular.comment.csv",22
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"MON197104181",3,"$Ron Swoboda dove and the ball caromed off his glove to Rusty Staub","1971MON.EVN.regular.comment.csv",2
+"MON197104181",43,"Steve Renko left with right groin pull","1971MON.EVN.regular.comment.csv",3
+"MON197104182",10,"$Rusty Staub homers into a snow bank beyond RF fence","1971MON.EVN.regular.comment.csv",4
+"MON197106160",52,"$missed squeeze","1971MON.EVN.regular.comment.csv",5
+"MON197106290",13,"$Pete Rose robbed Ron Fairly of homer","1971MON.EVN.regular.comment.csv",6
+"MON197107021",11,"Debut game for Rich Hacker","1971MON.EVN.regular.comment.csv",7
+"MON197107040",25,"$over second fence","1971MON.EVN.regular.comment.csv",8
+"MON197107040",69,"$the throw hit Deron Johnson returning to 3B","1971MON.EVN.regular.comment.csv",9
+"MON197107230",7,"ej,gibsb101,P,burkk101,Bench jockeying $37 minute delay due to power failure; Bob Gibson ejected by HP umpire Ken Burkhart for leaving the bench and shouting at the umpires","1971MON.EVN.regular.comment.csv",10
+"MON197107270",65,"$only last 2 balls intentional","1971MON.EVN.regular.comment.csv",11
+"MON197107280",6,"$Glenn Beckert injured sliding home","1971MON.EVN.regular.comment.csv",12
+"MON197108050",35,"Jose Pagan left with fractured arm","1971MON.EVN.regular.comment.csv",13
+"MON197108050",41,"ej,virdb101,C,weyel901,Complaining about warning ej,granj101,P,weyel901,Complaining about warning $Pirates coach Virdon and Pirate Grant, not in game, ejected by HP umpire Weyer after complaining about warning issued to pitcher Kison after brushback pitch to Fairey","1971MON.EVN.regular.comment.csv",14
+"MON197108230",15,"ej,alstw101,M,dalej901,Call at HP $Dodgers Manager Walter Alston argued with HP umpire Jerry Dale about the call at HP; Dale was blocked on the tag and Alston wanted Dale to talk with 1B umpire Augie Donatelli; Alston ejected by Dale","1971MON.EVN.regular.comment.csv",15
+"MON197108230",62,"$dust blew into Willie Davis' eyes; he stepped out and asked for time; the pitch was called strike three","1971MON.EVN.regular.comment.csv",16
+"MON197108291",20,"Ron Woods left with injured hamstring","1971MON.EVN.regular.comment.csv",17
+"MON197109110",60,"$Debut game for Rimp Lanier","1971MON.EVN.regular.comment.csv",18
+"MON197109170",40,"ej,maucg101,M,gormt101,Condition of field $Expos manager Mauch ejected by HP umpire Gorman for arguing game should be stopped for rain","1971MON.EVN.regular.comment.csv",19
+"MON197109280",26,"Juan Pizarro hurt covering 1B","1971MON.EVN.regular.comment.csv",20
+"MON197109280",32,"$Bill Bonham called for interference with catcher","1971MON.EVN.regular.comment.csv",21
+"MON197109290",34,"ej,dobyl101,C,burkk901,Balls and strikes Montreal coach Larry Doby ejected by HP umpire Ken Burkhart sometime in fourth","1971MON.EVN.regular.comment.csv",22
+"MON197109300",49,"Brock Davis left with pulled muscle","1971MON.EVN.regular.comment.csv",23

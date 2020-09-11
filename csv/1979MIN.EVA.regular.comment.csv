@@ -1,22 +1,23 @@
-"MIN197904170",0,"Debut for umpires Mike Briscese, Bill Ivory and George Sweeney","FILENAME_TX","LINE_NUMBER_CT"
-"MIN197905030",0,"Debut for umpires Bill Hafner, Larry Gallagher and Gene Kelly","1979MIN.EVA.regular.comment.csv",2
-"MIN197905070",0,"Debut for umpires Bill Follmer and Les Novack","1979MIN.EVA.regular.comment.csv",3
-"MIN197905080",62,"ej,jackr002,P,cousd901,Charging mound $Twins Jackson ejected by HP umpire Cousins after he was hit on thigh and charged mound; benches cleared","1979MIN.EVA.regular.comment.csv",4
-"MIN197905080",74,"ej,leppd101,C,cousd901,Fighting ej,veleo101,P,cousd901,Fighting $Blue Jays coach and right fielder Velez ejected by HP umpire Cousins inciting a fight after Moore threw pitch behind Smalley, who charged mound; both benches cleared","1979MIN.EVA.regular.comment.csv",5
-"MIN197905080",80,"ej,castj001,P,cousd901,Charging mound ej,moorb101,P,cousd901,Intentional HBP $Twins Castino and Blue Jays Moore ejected by HP umpire Cousins after Castino was hit and charged mound; Moore was ejected for intentional HBP; benches cleared for third time in game","1979MIN.EVA.regular.comment.csv",6
-"MIN197905110",64,"ej,harrt001,P,fitzm901,Balls and strikes (during at bat) Toby Harrah ejected by HP umpire Mike Fitzpatrick during at bat","1979MIN.EVA.regular.comment.csv",7
-"MIN197905160",79,"$Pat Putnam called for interference","1979MIN.EVA.regular.comment.csv",8
-"MIN197905300",0,"rain delay before start of game","1979MIN.EVA.regular.comment.csv",9
-"MIN197906010",0,"Debut for umpire Dan Morrison","1979MIN.EVA.regular.comment.csv",10
-"MIN197906150",2,"Debut game for Wayne Krenchicki","1979MIN.EVA.regular.comment.csv",11
-"MIN197907010",64,"ej,trous001,P,shulj901,Balls and strikes Steve Trout ejected by HP umpire John Shulock","1979MIN.EVA.regular.comment.csv",12
-"MIN197907031",0,"35 minute rain delay before start of game Debut for umpire Rocky Roe","1979MIN.EVA.regular.comment.csv",13
-"MIN197907190",0,"26 minute rain delay before start of game","1979MIN.EVA.regular.comment.csv",14
-"MIN197907200",0,"9 minute rain delay before start of game","1979MIN.EVA.regular.comment.csv",15
-"MIN197907240",14,"$Cliff Johnson out on appeal for leaving 3B too soon","1979MIN.EVA.regular.comment.csv",16
-"MIN197908220",70,"$after one pitch to Fred Lynn and a 1:27 rain delay, the game was called","1979MIN.EVA.regular.comment.csv",17
-"MIN197909030",55,"Debut game for Gary Ward","1979MIN.EVA.regular.comment.csv",18
-"MIN197909050",68,"Debut game for Jesus Vega","1979MIN.EVA.regular.comment.csv",19
-"MIN197909050",73,"Debut game for Craig Eaton","1979MIN.EVA.regular.comment.csv",20
-"MIN197909280",71,"Debut game for Terry Felton","1979MIN.EVA.regular.comment.csv",21
-"MIN197909300",64,"ej,thomg001,P,cousd901,Called third strike Gorman Thomas ejected by HP umpire Derryl Cousins","1979MIN.EVA.regular.comment.csv",22
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"MIN197904170",0,"Debut for umpires Mike Briscese, Bill Ivory and George Sweeney","1979MIN.EVA.regular.comment.csv",2
+"MIN197905030",0,"Debut for umpires Bill Hafner, Larry Gallagher and Gene Kelly","1979MIN.EVA.regular.comment.csv",3
+"MIN197905070",0,"Debut for umpires Bill Follmer and Les Novack","1979MIN.EVA.regular.comment.csv",4
+"MIN197905080",62,"ej,jackr002,P,cousd901,Charging mound $Twins Jackson ejected by HP umpire Cousins after he was hit on thigh and charged mound; benches cleared","1979MIN.EVA.regular.comment.csv",5
+"MIN197905080",74,"ej,leppd101,C,cousd901,Fighting ej,veleo101,P,cousd901,Fighting $Blue Jays coach and right fielder Velez ejected by HP umpire Cousins inciting a fight after Moore threw pitch behind Smalley, who charged mound; both benches cleared","1979MIN.EVA.regular.comment.csv",6
+"MIN197905080",80,"ej,castj001,P,cousd901,Charging mound ej,moorb101,P,cousd901,Intentional HBP $Twins Castino and Blue Jays Moore ejected by HP umpire Cousins after Castino was hit and charged mound; Moore was ejected for intentional HBP; benches cleared for third time in game","1979MIN.EVA.regular.comment.csv",7
+"MIN197905110",64,"ej,harrt001,P,fitzm901,Balls and strikes (during at bat) Toby Harrah ejected by HP umpire Mike Fitzpatrick during at bat","1979MIN.EVA.regular.comment.csv",8
+"MIN197905160",79,"$Pat Putnam called for interference","1979MIN.EVA.regular.comment.csv",9
+"MIN197905300",0,"rain delay before start of game","1979MIN.EVA.regular.comment.csv",10
+"MIN197906010",0,"Debut for umpire Dan Morrison","1979MIN.EVA.regular.comment.csv",11
+"MIN197906150",2,"Debut game for Wayne Krenchicki","1979MIN.EVA.regular.comment.csv",12
+"MIN197907010",64,"ej,trous001,P,shulj901,Balls and strikes Steve Trout ejected by HP umpire John Shulock","1979MIN.EVA.regular.comment.csv",13
+"MIN197907031",0,"35 minute rain delay before start of game Debut for umpire Rocky Roe","1979MIN.EVA.regular.comment.csv",14
+"MIN197907190",0,"26 minute rain delay before start of game","1979MIN.EVA.regular.comment.csv",15
+"MIN197907200",0,"9 minute rain delay before start of game","1979MIN.EVA.regular.comment.csv",16
+"MIN197907240",14,"$Cliff Johnson out on appeal for leaving 3B too soon","1979MIN.EVA.regular.comment.csv",17
+"MIN197908220",70,"$after one pitch to Fred Lynn and a 1:27 rain delay, the game was called","1979MIN.EVA.regular.comment.csv",18
+"MIN197909030",55,"Debut game for Gary Ward","1979MIN.EVA.regular.comment.csv",19
+"MIN197909050",68,"Debut game for Jesus Vega","1979MIN.EVA.regular.comment.csv",20
+"MIN197909050",73,"Debut game for Craig Eaton","1979MIN.EVA.regular.comment.csv",21
+"MIN197909280",71,"Debut game for Terry Felton","1979MIN.EVA.regular.comment.csv",22
+"MIN197909300",64,"ej,thomg001,P,cousd901,Called third strike Gorman Thomas ejected by HP umpire Derryl Cousins","1979MIN.EVA.regular.comment.csv",23

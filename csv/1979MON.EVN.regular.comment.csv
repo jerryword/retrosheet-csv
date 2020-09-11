@@ -1,30 +1,31 @@
-"MON197904140",0,"Debut for umpires John Baird, Emilien Cote and Mike Spinelli","FILENAME_TX","LINE_NUMBER_CT"
-"MON197904150",7,"missing play in MON197904150","1979MON.EVN.regular.comment.csv",2
-"MON197904180",37,"Debut game for Mike Scott","1979MON.EVN.regular.comment.csv",3
-"MON197904270",0,"Debut for umpire Jacques Lauzon","1979MON.EVN.regular.comment.csv",4
-"MON197905271",59,"$Ellis Valentine called for interference","1979MON.EVN.regular.comment.csv",5
-"MON197906110",30,"missing play in MON197906110","1979MON.EVN.regular.comment.csv",6
-"MON197906150",29,"missing play in MON197906150","1979MON.EVN.regular.comment.csv",7
-"MON197906220",76,"ej,ozard801,M,fiels901,Interference non-call $Phillies catcher Bob Boone claimed that Andre Dawson interfered as Boone tried to throw to 2B on the steal; Phillies Manager Danny Ozark ejected by HP umpire Steve Fields","1979MON.EVN.regular.comment.csv",8
-"MON197907070",36,"missing play in MON197907070","1979MON.EVN.regular.comment.csv",9
-"MON197907120",12,"$Roger Metzger called for interference","1979MON.EVN.regular.comment.csv",10
-"MON197907131",14,"Debut game for Tony Bernazard","1979MON.EVN.regular.comment.csv",11
-"MON197907132",5,"$Eric Rasmussen injured while warming up","1979MON.EVN.regular.comment.csv",12
-"MON197907150",39,"$Scott Sanderson hit on pitching hand trying to bunt","1979MON.EVN.regular.comment.csv",13
-"MON197907301",37,"$Bill Lee called for interference","1979MON.EVN.regular.comment.csv",14
-"MON197907302",43,"$Rodney Scott called for interference","1979MON.EVN.regular.comment.csv",15
-"MON197908190",55,"ej,offir101,P,fiels901,Balls and strikes Roland Office ejected by HP umpire Steve Fields","1979MON.EVN.regular.comment.csv",16
-"MON197908310",61,"$Larry Parrish out on appeal at 3B; he had passed 3B and did not retouch on the way back to 2B","1979MON.EVN.regular.comment.csv",17
-"MON197908310",97,"$Jim Mason called for interference when the throw hit him in fair territory","1979MON.EVN.regular.comment.csv",18
-"MON197909010",46,"missing play in MON197909010","1979MON.EVN.regular.comment.csv",19
-"MON197909020",30,"missing play in MON197909020","1979MON.EVN.regular.comment.csv",20
-"MON197909020",47,"missing play in MON197909020","1979MON.EVN.regular.comment.csv",21
-"MON197909020",50,"missing play in MON197909020","1979MON.EVN.regular.comment.csv",22
-"MON197909111",60,"Debut game for Tim Raines","1979MON.EVN.regular.comment.csv",23
-"MON197909130",38,"missing play in MON197909130","1979MON.EVN.regular.comment.csv",24
-"MON197909161",58,"missing play in MON197909160","1979MON.EVN.regular.comment.csv",25
-"MON197909170",22,"$Dave Parker stole 2B but was returned to 1B when HP umpire Doug Harvey ruled that Willie Stargell unintentionally interfered with Gary Carter","1979MON.EVN.regular.comment.csv",26
-"MON197909180",0,"Protest=H","1979MON.EVN.regular.comment.csv",27
-"MON197909180",40,"9 minute rain delay $Expos Manager Dick Williams protested the game because umpires resumed play while rain still falling","1979MON.EVN.regular.comment.csv",28
-"MON197909180",45,"2:54 rain delay","1979MON.EVN.regular.comment.csv",29
-"MON197909180",48,"$Bill Robinson had injured left shoulder in slide, couldn't continue after rain delay","1979MON.EVN.regular.comment.csv",30
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"MON197904140",0,"Debut for umpires John Baird, Emilien Cote and Mike Spinelli","1979MON.EVN.regular.comment.csv",2
+"MON197904150",7,"missing play in MON197904150","1979MON.EVN.regular.comment.csv",3
+"MON197904180",37,"Debut game for Mike Scott","1979MON.EVN.regular.comment.csv",4
+"MON197904270",0,"Debut for umpire Jacques Lauzon","1979MON.EVN.regular.comment.csv",5
+"MON197905271",59,"$Ellis Valentine called for interference","1979MON.EVN.regular.comment.csv",6
+"MON197906110",30,"missing play in MON197906110","1979MON.EVN.regular.comment.csv",7
+"MON197906150",29,"missing play in MON197906150","1979MON.EVN.regular.comment.csv",8
+"MON197906220",76,"ej,ozard801,M,fiels901,Interference non-call $Phillies catcher Bob Boone claimed that Andre Dawson interfered as Boone tried to throw to 2B on the steal; Phillies Manager Danny Ozark ejected by HP umpire Steve Fields","1979MON.EVN.regular.comment.csv",9
+"MON197907070",36,"missing play in MON197907070","1979MON.EVN.regular.comment.csv",10
+"MON197907120",12,"$Roger Metzger called for interference","1979MON.EVN.regular.comment.csv",11
+"MON197907131",14,"Debut game for Tony Bernazard","1979MON.EVN.regular.comment.csv",12
+"MON197907132",5,"$Eric Rasmussen injured while warming up","1979MON.EVN.regular.comment.csv",13
+"MON197907150",39,"$Scott Sanderson hit on pitching hand trying to bunt","1979MON.EVN.regular.comment.csv",14
+"MON197907301",37,"$Bill Lee called for interference","1979MON.EVN.regular.comment.csv",15
+"MON197907302",43,"$Rodney Scott called for interference","1979MON.EVN.regular.comment.csv",16
+"MON197908190",55,"ej,offir101,P,fiels901,Balls and strikes Roland Office ejected by HP umpire Steve Fields","1979MON.EVN.regular.comment.csv",17
+"MON197908310",61,"$Larry Parrish out on appeal at 3B; he had passed 3B and did not retouch on the way back to 2B","1979MON.EVN.regular.comment.csv",18
+"MON197908310",97,"$Jim Mason called for interference when the throw hit him in fair territory","1979MON.EVN.regular.comment.csv",19
+"MON197909010",46,"missing play in MON197909010","1979MON.EVN.regular.comment.csv",20
+"MON197909020",30,"missing play in MON197909020","1979MON.EVN.regular.comment.csv",21
+"MON197909020",47,"missing play in MON197909020","1979MON.EVN.regular.comment.csv",22
+"MON197909020",50,"missing play in MON197909020","1979MON.EVN.regular.comment.csv",23
+"MON197909111",60,"Debut game for Tim Raines","1979MON.EVN.regular.comment.csv",24
+"MON197909130",38,"missing play in MON197909130","1979MON.EVN.regular.comment.csv",25
+"MON197909161",58,"missing play in MON197909160","1979MON.EVN.regular.comment.csv",26
+"MON197909170",22,"$Dave Parker stole 2B but was returned to 1B when HP umpire Doug Harvey ruled that Willie Stargell unintentionally interfered with Gary Carter","1979MON.EVN.regular.comment.csv",27
+"MON197909180",0,"Protest=H","1979MON.EVN.regular.comment.csv",28
+"MON197909180",40,"9 minute rain delay $Expos Manager Dick Williams protested the game because umpires resumed play while rain still falling","1979MON.EVN.regular.comment.csv",29
+"MON197909180",45,"2:54 rain delay","1979MON.EVN.regular.comment.csv",30
+"MON197909180",48,"$Bill Robinson had injured left shoulder in slide, couldn't continue after rain delay","1979MON.EVN.regular.comment.csv",31

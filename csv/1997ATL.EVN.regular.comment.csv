@@ -1,21 +1,22 @@
-"ATL199704050",0,"Suspend=19970406,,5,8,39","FILENAME_TX","LINE_NUMBER_CT"
-"ATL199704050",69,"suspended,19970406,ATL02,curfew and weather $game suspended and completed the next day","1997ATL.EVN.regular.comment.csv",2
-"ATL199704050",90,"$Dave Clark called for interference","1997ATL.EVN.regular.comment.csv",3
-"ATL199704080",10,"Debut game for Russ Johnson","1997ATL.EVN.regular.comment.csv",4
-"ATL199704080",73,"ej,spieb001,P,hallt901,Balls and strikes Bill Spiers ejected by HP umpire Tom Hallion","1997ATL.EVN.regular.comment.csv",5
-"ATL199704100",62,"ej,cox-b103,M,vanol901,Check swing $Braves manager Cox ejected by 3B umpire Vanover for arguing check swing with with Gonzalez at bat","1997ATL.EVN.regular.comment.csv",6
-"ATL199704250",57,"Debut game for Joey Long","1997ATL.EVN.regular.comment.csv",7
-"ATL199704270",37,"game called for rain","1997ATL.EVN.regular.comment.csv",8
-"ATL199705170",72,"ej,cox-b103,M,davib902,Balk call Braves manager Bobby Cox ejected by 2B umpire Bob Davidson","1997ATL.EVN.regular.comment.csv",9
-"ATL199705300",59,"ej,cox-b103,M,hallt901,Call at 3B Braves manager Bobby Cox ejected by 3B umpire Tom Hallion","1997ATL.EVN.regular.comment.csv",10
-"ATL199706270",66,"ej,dauld001,P,tatat901,Called third strike Darren Daulton ejected by HP umpire Terry Tata","1997ATL.EVN.regular.comment.csv",11
-"ATL199707130",43,"Debut game for Chad Fox","1997ATL.EVN.regular.comment.csv",12
-"ATL199707130",57,"Debut game for Mike Cather","1997ATL.EVN.regular.comment.csv",13
-"ATL199707140",47,"Debut game for Kevin Millwood","1997ATL.EVN.regular.comment.csv",14
-"ATL199707190",29,"ej,cox-b103,M,gormb901,Call at 1B Braves manager Bobby Cox ejected by 1B umpire Brian Gorman","1997ATL.EVN.regular.comment.csv",15
-"ATL199708060",45,"ej,cox-b103,M,hallt901,Balls and strikes (Bumped umpire) $Braves manager Cox ejected by HP umpire Hallion at end of visitor's 6th for arguing balls and strikes; during argument Cox bumped and stepped on 1B umpire Montague","1997ATL.EVN.regular.comment.csv",16
-"ATL199708120",73,"Debut game for Kerry Ligtenberg","1997ATL.EVN.regular.comment.csv",17
-"ATL199708130",13,"ej,lamog101,M,riekr901,Interference call $John Smoltz bare-handed the ball along the 3B line and threw low to 1B; Jason Kendall scored on the play; HP umpire Rich Rieker ruled that Jose Guillen was called for interference for running in fair territory; Pirates manager Gene Lamont ejected by Rieker","1997ATL.EVN.regular.comment.csv",18
-"ATL199709010",57,"Debut game for Randall Simon","1997ATL.EVN.regular.comment.csv",19
-"ATL199709020",11,"Debut game for Juan Encarnacion","1997ATL.EVN.regular.comment.csv",20
-"ATL199709030",78,"Debut game for Frank Catalanotto","1997ATL.EVN.regular.comment.csv",21
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"ATL199704050",0,"Suspend=19970406,,5,8,39","1997ATL.EVN.regular.comment.csv",2
+"ATL199704050",69,"suspended,19970406,ATL02,curfew and weather $game suspended and completed the next day","1997ATL.EVN.regular.comment.csv",3
+"ATL199704050",90,"$Dave Clark called for interference","1997ATL.EVN.regular.comment.csv",4
+"ATL199704080",10,"Debut game for Russ Johnson","1997ATL.EVN.regular.comment.csv",5
+"ATL199704080",73,"ej,spieb001,P,hallt901,Balls and strikes Bill Spiers ejected by HP umpire Tom Hallion","1997ATL.EVN.regular.comment.csv",6
+"ATL199704100",62,"ej,cox-b103,M,vanol901,Check swing $Braves manager Cox ejected by 3B umpire Vanover for arguing check swing with with Gonzalez at bat","1997ATL.EVN.regular.comment.csv",7
+"ATL199704250",57,"Debut game for Joey Long","1997ATL.EVN.regular.comment.csv",8
+"ATL199704270",37,"game called for rain","1997ATL.EVN.regular.comment.csv",9
+"ATL199705170",72,"ej,cox-b103,M,davib902,Balk call Braves manager Bobby Cox ejected by 2B umpire Bob Davidson","1997ATL.EVN.regular.comment.csv",10
+"ATL199705300",59,"ej,cox-b103,M,hallt901,Call at 3B Braves manager Bobby Cox ejected by 3B umpire Tom Hallion","1997ATL.EVN.regular.comment.csv",11
+"ATL199706270",66,"ej,dauld001,P,tatat901,Called third strike Darren Daulton ejected by HP umpire Terry Tata","1997ATL.EVN.regular.comment.csv",12
+"ATL199707130",43,"Debut game for Chad Fox","1997ATL.EVN.regular.comment.csv",13
+"ATL199707130",57,"Debut game for Mike Cather","1997ATL.EVN.regular.comment.csv",14
+"ATL199707140",47,"Debut game for Kevin Millwood","1997ATL.EVN.regular.comment.csv",15
+"ATL199707190",29,"ej,cox-b103,M,gormb901,Call at 1B Braves manager Bobby Cox ejected by 1B umpire Brian Gorman","1997ATL.EVN.regular.comment.csv",16
+"ATL199708060",45,"ej,cox-b103,M,hallt901,Balls and strikes (Bumped umpire) $Braves manager Cox ejected by HP umpire Hallion at end of visitor's 6th for arguing balls and strikes; during argument Cox bumped and stepped on 1B umpire Montague","1997ATL.EVN.regular.comment.csv",17
+"ATL199708120",73,"Debut game for Kerry Ligtenberg","1997ATL.EVN.regular.comment.csv",18
+"ATL199708130",13,"ej,lamog101,M,riekr901,Interference call $John Smoltz bare-handed the ball along the 3B line and threw low to 1B; Jason Kendall scored on the play; HP umpire Rich Rieker ruled that Jose Guillen was called for interference for running in fair territory; Pirates manager Gene Lamont ejected by Rieker","1997ATL.EVN.regular.comment.csv",19
+"ATL199709010",57,"Debut game for Randall Simon","1997ATL.EVN.regular.comment.csv",20
+"ATL199709020",11,"Debut game for Juan Encarnacion","1997ATL.EVN.regular.comment.csv",21
+"ATL199709030",78,"Debut game for Frank Catalanotto","1997ATL.EVN.regular.comment.csv",22

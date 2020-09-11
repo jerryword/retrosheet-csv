@@ -1,42 +1,43 @@
-"CAL198604160",56,"$Domingo Ramos dropped throw during rundown play","FILENAME_TX","LINE_NUMBER_CT"
-"CAL198604230",46,"$Tony Phillips lost track of how many outs there were","1986CAL.EVA.regular.comment.csv",2
-"CAL198605070",54,"$Angels conceded run but Cliff Johnson didn't run","1986CAL.EVA.regular.comment.csv",3
-"CAL198605090",43,"$Paul Molitor injured on Rob Wilfong's bunt","1986CAL.EVA.regular.comment.csv",4
-"CAL198605110",68,"$ball hit the bag","1986CAL.EVA.regular.comment.csv",5
-"CAL198605120",12,"pitchout on caught stealing","1986CAL.EVA.regular.comment.csv",6
-"CAL198605140",70,"ej,mcnaj801,M,cousd901,Call at 2B Red Sox manager John McNamara ejected by 2B umpire Derryl Cousins","1986CAL.EVA.regular.comment.csv",7
-"CAL198605280",59,"$Terry Forster injured","1986CAL.EVA.regular.comment.csv",8
-"CAL198605290",48,"Debut game for Chuck Finley","1986CAL.EVA.regular.comment.csv",9
-"CAL198605290",61,"Debut game for Todd Fischer","1986CAL.EVA.regular.comment.csv",10
-"CAL198605290",70,"ej,decid001,P,scotd901,Called third strike Doug DeCinces ejected by HP umpire Dale Scott","1986CAL.EVA.regular.comment.csv",11
-"CAL198605300",18,"$Mike Flanagan left game with tender elbow","1986CAL.EVA.regular.comment.csv",12
-"CAL198606030",39,"$pitchout on caught stealing","1986CAL.EVA.regular.comment.csv",13
-"CAL198606130",22,"$38 minute delay because of power failure","1986CAL.EVA.regular.comment.csv",14
-"CAL198606140",60,"ej,howsd101,M,garcr901,Arguing HBP call Royals manager Dick Howser ejected by HP umpire Richie Garcia","1986CAL.EVA.regular.comment.csv",15
-"CAL198606150",32,"ej,blayg101,C,fordd901,Bench jockeying $Royals coach Blaylock ejected by HP umpire Ford for arguing balls and strikes during Sundberg's at bat","1986CAL.EVA.regular.comment.csv",16
-"CAL198606160",64,"$the first hit off Charlie Hough in the game","1986CAL.EVA.regular.comment.csv",17
-"CAL198606160",68,"$runners moving on 3-2 pitch and Charlie Hough didn't cover HP","1986CAL.EVA.regular.comment.csv",18
-"CAL198606170",20,"$Steve Buechele injured sliding into 2B","1986CAL.EVA.regular.comment.csv",19
-"CAL198606170",75,"ej,folit001,C,cousd901,Bench jockeying ej,houst101,C,evanj901,Bench jockeying $Rangers coaches Foli and House ejected by HP umpire Cousins for bench jockeying with Petralli at bat","1986CAL.EVA.regular.comment.csv",20
-"CAL198606180",62,"$fan interference, costing the Angels a run","1986CAL.EVA.regular.comment.csv",21
-"CAL198606180",67,"$Don Sutton's 300th victory","1986CAL.EVA.regular.comment.csv",22
-"CAL198606270",73,"$Doug DeCinces bobbled the ball but Rick Burleson picked it up and made tag","1986CAL.EVA.regular.comment.csv",23
-"CAL198606290",61,"ej,maucg101,M,evanj901,Checked swing $Angels manager Mauch ejected by 3B umpire Evans for arguing check swing strikeout of Howell","1986CAL.EVA.regular.comment.csv",24
-"CAL198606290",70,"ej,allaa001,P,hendt901,Arguing catch/trap call Andy Allanson ejected by 1B umpire Ted Hendry arguing the non-catch ruling","1986CAL.EVA.regular.comment.csv",25
-"CAL198607010",1,"Debut game for Mike Cook","1986CAL.EVA.regular.comment.csv",26
-"CAL198607180",68,"ej,joner002,P,hirsj901,Balls and strikes (from bench) Ruppert Jones ejected by HP umpire John Hirschbeck","1986CAL.EVA.regular.comment.csv",27
-"CAL198607220",30,"$Lights went out as ball was hit; 14 minute delay","1986CAL.EVA.regular.comment.csv",28
-"CAL198607250",67,"$Dick Schofield dropped line drive intentionally to get DP","1986CAL.EVA.regular.comment.csv",29
-"CAL198607260",24,"$Gary Pettis dropped easy fly; Red Sox ran into DP","1986CAL.EVA.regular.comment.csv",30
-"CAL198607270",29,"ej,bayld001,P,mcclt901,Balls and strikes ej,mcnaj801,M,mcclt901,Balls and strikes Don Baylor and Red Sox manager John McNamara ejected by HP umpire Tim McClelland","1986CAL.EVA.regular.comment.csv",31
-"CAL198608090",1,"Debut game for Mickey Brantley","1986CAL.EVA.regular.comment.csv",32
-"CAL198608100",5,"$Wally Joyner called for interference","1986CAL.EVA.regular.comment.csv",33
-"CAL198609030",12,"Debut game for Ricky Jones","1986CAL.EVA.regular.comment.csv",34
-"CAL198609030",26,"$Storm Davis injured ankle stepping on 1B; out for year","1986CAL.EVA.regular.comment.csv",35
-"CAL198609030",50,"ej,ripkc801,C,welkt901,Foul ball call ej,weave801,M,welkt901,Foul ball call Orioles manager Earl Weaver and coach Cal Ripken Sr ejected by 3B umpire Tim Welke arguing a foul ball ruling","1986CAL.EVA.regular.comment.csv",36
-"CAL198609060",0,"$Claudell Washington injured","1986CAL.EVA.regular.comment.csv",37
-"CAL198609060",51,"Debut game for Brad Arnsberg","1986CAL.EVA.regular.comment.csv",38
-"CAL198609180",75,"ej,boonb001,P,merrd901,Called third strike Bob Boone ejected by HP umpire Durwood Merrill","1986CAL.EVA.regular.comment.csv",39
-"CAL198609221",25,"$Gary Pettis forget number of outs and didn't make a throw","1986CAL.EVA.regular.comment.csv",40
-"CAL198609230",2,"$Julio Franco injured","1986CAL.EVA.regular.comment.csv",41
-"CAL198609250",64,"$Frank Wills turned to throw to 3B but no one was covering","1986CAL.EVA.regular.comment.csv",42
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"CAL198604160",56,"$Domingo Ramos dropped throw during rundown play","1986CAL.EVA.regular.comment.csv",2
+"CAL198604230",46,"$Tony Phillips lost track of how many outs there were","1986CAL.EVA.regular.comment.csv",3
+"CAL198605070",54,"$Angels conceded run but Cliff Johnson didn't run","1986CAL.EVA.regular.comment.csv",4
+"CAL198605090",43,"$Paul Molitor injured on Rob Wilfong's bunt","1986CAL.EVA.regular.comment.csv",5
+"CAL198605110",68,"$ball hit the bag","1986CAL.EVA.regular.comment.csv",6
+"CAL198605120",12,"pitchout on caught stealing","1986CAL.EVA.regular.comment.csv",7
+"CAL198605140",70,"ej,mcnaj801,M,cousd901,Call at 2B Red Sox manager John McNamara ejected by 2B umpire Derryl Cousins","1986CAL.EVA.regular.comment.csv",8
+"CAL198605280",59,"$Terry Forster injured","1986CAL.EVA.regular.comment.csv",9
+"CAL198605290",48,"Debut game for Chuck Finley","1986CAL.EVA.regular.comment.csv",10
+"CAL198605290",61,"Debut game for Todd Fischer","1986CAL.EVA.regular.comment.csv",11
+"CAL198605290",70,"ej,decid001,P,scotd901,Called third strike Doug DeCinces ejected by HP umpire Dale Scott","1986CAL.EVA.regular.comment.csv",12
+"CAL198605300",18,"$Mike Flanagan left game with tender elbow","1986CAL.EVA.regular.comment.csv",13
+"CAL198606030",39,"$pitchout on caught stealing","1986CAL.EVA.regular.comment.csv",14
+"CAL198606130",22,"$38 minute delay because of power failure","1986CAL.EVA.regular.comment.csv",15
+"CAL198606140",60,"ej,howsd101,M,garcr901,Arguing HBP call Royals manager Dick Howser ejected by HP umpire Richie Garcia","1986CAL.EVA.regular.comment.csv",16
+"CAL198606150",32,"ej,blayg101,C,fordd901,Bench jockeying $Royals coach Blaylock ejected by HP umpire Ford for arguing balls and strikes during Sundberg's at bat","1986CAL.EVA.regular.comment.csv",17
+"CAL198606160",64,"$the first hit off Charlie Hough in the game","1986CAL.EVA.regular.comment.csv",18
+"CAL198606160",68,"$runners moving on 3-2 pitch and Charlie Hough didn't cover HP","1986CAL.EVA.regular.comment.csv",19
+"CAL198606170",20,"$Steve Buechele injured sliding into 2B","1986CAL.EVA.regular.comment.csv",20
+"CAL198606170",75,"ej,folit001,C,cousd901,Bench jockeying ej,houst101,C,evanj901,Bench jockeying $Rangers coaches Foli and House ejected by HP umpire Cousins for bench jockeying with Petralli at bat","1986CAL.EVA.regular.comment.csv",21
+"CAL198606180",62,"$fan interference, costing the Angels a run","1986CAL.EVA.regular.comment.csv",22
+"CAL198606180",67,"$Don Sutton's 300th victory","1986CAL.EVA.regular.comment.csv",23
+"CAL198606270",73,"$Doug DeCinces bobbled the ball but Rick Burleson picked it up and made tag","1986CAL.EVA.regular.comment.csv",24
+"CAL198606290",61,"ej,maucg101,M,evanj901,Checked swing $Angels manager Mauch ejected by 3B umpire Evans for arguing check swing strikeout of Howell","1986CAL.EVA.regular.comment.csv",25
+"CAL198606290",70,"ej,allaa001,P,hendt901,Arguing catch/trap call Andy Allanson ejected by 1B umpire Ted Hendry arguing the non-catch ruling","1986CAL.EVA.regular.comment.csv",26
+"CAL198607010",1,"Debut game for Mike Cook","1986CAL.EVA.regular.comment.csv",27
+"CAL198607180",68,"ej,joner002,P,hirsj901,Balls and strikes (from bench) Ruppert Jones ejected by HP umpire John Hirschbeck","1986CAL.EVA.regular.comment.csv",28
+"CAL198607220",30,"$Lights went out as ball was hit; 14 minute delay","1986CAL.EVA.regular.comment.csv",29
+"CAL198607250",67,"$Dick Schofield dropped line drive intentionally to get DP","1986CAL.EVA.regular.comment.csv",30
+"CAL198607260",24,"$Gary Pettis dropped easy fly; Red Sox ran into DP","1986CAL.EVA.regular.comment.csv",31
+"CAL198607270",29,"ej,bayld001,P,mcclt901,Balls and strikes ej,mcnaj801,M,mcclt901,Balls and strikes Don Baylor and Red Sox manager John McNamara ejected by HP umpire Tim McClelland","1986CAL.EVA.regular.comment.csv",32
+"CAL198608090",1,"Debut game for Mickey Brantley","1986CAL.EVA.regular.comment.csv",33
+"CAL198608100",5,"$Wally Joyner called for interference","1986CAL.EVA.regular.comment.csv",34
+"CAL198609030",12,"Debut game for Ricky Jones","1986CAL.EVA.regular.comment.csv",35
+"CAL198609030",26,"$Storm Davis injured ankle stepping on 1B; out for year","1986CAL.EVA.regular.comment.csv",36
+"CAL198609030",50,"ej,ripkc801,C,welkt901,Foul ball call ej,weave801,M,welkt901,Foul ball call Orioles manager Earl Weaver and coach Cal Ripken Sr ejected by 3B umpire Tim Welke arguing a foul ball ruling","1986CAL.EVA.regular.comment.csv",37
+"CAL198609060",0,"$Claudell Washington injured","1986CAL.EVA.regular.comment.csv",38
+"CAL198609060",51,"Debut game for Brad Arnsberg","1986CAL.EVA.regular.comment.csv",39
+"CAL198609180",75,"ej,boonb001,P,merrd901,Called third strike Bob Boone ejected by HP umpire Durwood Merrill","1986CAL.EVA.regular.comment.csv",40
+"CAL198609221",25,"$Gary Pettis forget number of outs and didn't make a throw","1986CAL.EVA.regular.comment.csv",41
+"CAL198609230",2,"$Julio Franco injured","1986CAL.EVA.regular.comment.csv",42
+"CAL198609250",64,"$Frank Wills turned to throw to 3B but no one was covering","1986CAL.EVA.regular.comment.csv",43

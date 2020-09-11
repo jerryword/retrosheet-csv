@@ -1,35 +1,36 @@
-"CHA195304160",50,"$wind-blown popup","FILENAME_TX","LINE_NUMBER_CT"
-"CHA195304180",83,"$Bobby Avila and Minnie Minoso collided","1953CHA.EVA.regular.comment.csv",2
-"CHA195304300",26,"ej,richp101,M,duffj901,Home run call White Sox Manager Paul Richards ejected by 2B umpire Jim Duffy claiming that the ball struck the wall when a fan reached over the wall","1953CHA.EVA.regular.comment.csv",3
-"CHA195304300",32,"ej,minom101,P,duffj901,Call at 2B Minnie Minoso rounded 2B too far and was ejected by 2B umpire Jim Duffy","1953CHA.EVA.regular.comment.csv",4
-"CHA195305032",8,"$Ferris Fain rounded 3B too far but Ray Murray's throw hit Fain","1953CHA.EVA.regular.comment.csv",5
-"CHA195305090",5,"to match daily/TSN/NYT, arbitrary 63 to 53","1953CHA.EVA.regular.comment.csv",6
-"CHA195305090",81,"to match daily/TSN/NYT, arbitrary 53 to 43","1953CHA.EVA.regular.comment.csv",7
-"CHA195305102",10,"$no one covered HP on the WP","1953CHA.EVA.regular.comment.csv",8
-"CHA195305102",67,"ej,niemb101,P,mckib901,Arguing opponent should be ejected for throwing bat $Tiger Nieman ejected by HP umpire McKinley for arguing that Minoso should have been ejected for throwing bat after striking out","1953CHA.EVA.regular.comment.csv",9
-"CHA195305270",43,"ej,ginsj101,P,berrc103,Balls and strikes Joe Ginsberg ejected by HP umpire Charlie Berry","1953CHA.EVA.regular.comment.csv",10
-"CHA195305270",70,"$Sherm Lollar called for interference","1953CHA.EVA.regular.comment.csv",11
-"CHA195305270",135,"$game called due to 1:00am curfew","1953CHA.EVA.regular.comment.csv",12
-"CHA195306020",66,"ej,richp101,M,hurle901,HBP non-call White Sox Manager Paul Richards ejected by HP umpire Eddie Hurley","1953CHA.EVA.regular.comment.csv",13
-"CHA195306040",55,"to match daily/NYT/TSN, arbitrary 64(1) to 6(1)","1953CHA.EVA.regular.comment.csv",14
-"CHA195306040",62,"to match daily/NYT/TSN, arbitrary 5 to 6","1953CHA.EVA.regular.comment.csv",15
-"CHA195307010",28,"$Jim Rivera called out on appeal for missing 1B on apparent triple","1953CHA.EVA.regular.comment.csv",16
-"CHA195307010",54,"$Mike Blyzka called for obstruction along the 1B line","1953CHA.EVA.regular.comment.csv",17
-"CHA195307010",69,"55 minute rain delay","1953CHA.EVA.regular.comment.csv",18
-"CHA195307110",74,"$Indians manager Al Lopez changed pinch runners","1953CHA.EVA.regular.comment.csv",19
-"CHA195307220",8,"$Minnie Minoso rounded 2B too far","1953CHA.EVA.regular.comment.csv",20
-"CHA195307230",2,"to match daily/NYT/TSN, arbitrary 8 to 9","1953CHA.EVA.regular.comment.csv",21
-"CHA195307262",43,"ej,dykej101,M,froeg901,Called strike 3 $Athletics manager Dykes ejected by HP umpire Froese for arguing called strike 3","1953CHA.EVA.regular.comment.csv",22
-"CHA195308181",56,"$Bobby Young left with injured knee","1953CHA.EVA.regular.comment.csv",23
-"CHA195308231",47,"to match daily/NYT/TSN, arbitrary 64 to 6","1953CHA.EVA.regular.comment.csv",24
-"CHA195308232",48,"ej,hutcf101,M,honoj901,Balls and strikes Tigers Manager Fred Hutchinson ejected by HP umpire Jim Honochick","1953CHA.EVA.regular.comment.csv",25
-"CHA195308232",81,"$Walt Dropo called for obstruction","1953CHA.EVA.regular.comment.csv",26
-"CHA195308260",27,"$the ball knocked Mike Fornieles' glove off his hand; 1B umpire Johnny Stevens ruled that Fornieles threw his glove at the ball and awarded Dave Philley a triple","1953CHA.EVA.regular.comment.csv",27
-"CHA195308270",2,"ej,richp101,M,stevj901,Balls and strikes White Sox Manager Paul Richards ejected by HP umpire Johnny Stevens","1953CHA.EVA.regular.comment.csv",28
-"CHA195308280",2,"infield shifted for Ted Williams","1953CHA.EVA.regular.comment.csv",29
-"CHA195308280",21,"ej,niarg101,P,summb901,Fighting $Bob Keegan mishandled the ball before throwing to 2B; Jimmy Piersall slid into 2B with his spikes up and he knocked down Chico Carrasquel; the players squared off, both benches cleared and a brawl ensued; Gus Niarhos ran at Carrasquel but was restrained by Sam Mele and 1B umpire Hank Soar; Soar and Niarhos fell to the ground; Niarhos ejected by HP umpire Bill Summers","1953CHA.EVA.regular.comment.csv",30
-"CHA195308301",14,"to match daily/NYT/TSN, arbitrary 7 to 8","1953CHA.EVA.regular.comment.csv",31
-"CHA195308301",48,"to match daily/NYT/TSN, arbitrary 13 to 43","1953CHA.EVA.regular.comment.csv",32
-"CHA195308302",62,"ej,richp101,M,mckib901,Balls and strikes $White Sox manager Richards ejected by HP umpire McKinley for arguing ball call to Bauer (not ball 4)","1953CHA.EVA.regular.comment.csv",33
-"CHA195309030",32,"to match daily/NYT, arbitrary K to K23","1953CHA.EVA.regular.comment.csv",34
-"CHA195309201",58,"ej,marim101,M,stevj901,Call at 2B $Browns manager Marion ejected by 2B umpire Stevens for arguing call at 2nd","1953CHA.EVA.regular.comment.csv",35
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"CHA195304160",50,"$wind-blown popup","1953CHA.EVA.regular.comment.csv",2
+"CHA195304180",83,"$Bobby Avila and Minnie Minoso collided","1953CHA.EVA.regular.comment.csv",3
+"CHA195304300",26,"ej,richp101,M,duffj901,Home run call White Sox Manager Paul Richards ejected by 2B umpire Jim Duffy claiming that the ball struck the wall when a fan reached over the wall","1953CHA.EVA.regular.comment.csv",4
+"CHA195304300",32,"ej,minom101,P,duffj901,Call at 2B Minnie Minoso rounded 2B too far and was ejected by 2B umpire Jim Duffy","1953CHA.EVA.regular.comment.csv",5
+"CHA195305032",8,"$Ferris Fain rounded 3B too far but Ray Murray's throw hit Fain","1953CHA.EVA.regular.comment.csv",6
+"CHA195305090",5,"to match daily/TSN/NYT, arbitrary 63 to 53","1953CHA.EVA.regular.comment.csv",7
+"CHA195305090",81,"to match daily/TSN/NYT, arbitrary 53 to 43","1953CHA.EVA.regular.comment.csv",8
+"CHA195305102",10,"$no one covered HP on the WP","1953CHA.EVA.regular.comment.csv",9
+"CHA195305102",67,"ej,niemb101,P,mckib901,Arguing opponent should be ejected for throwing bat $Tiger Nieman ejected by HP umpire McKinley for arguing that Minoso should have been ejected for throwing bat after striking out","1953CHA.EVA.regular.comment.csv",10
+"CHA195305270",43,"ej,ginsj101,P,berrc103,Balls and strikes Joe Ginsberg ejected by HP umpire Charlie Berry","1953CHA.EVA.regular.comment.csv",11
+"CHA195305270",70,"$Sherm Lollar called for interference","1953CHA.EVA.regular.comment.csv",12
+"CHA195305270",135,"$game called due to 1:00am curfew","1953CHA.EVA.regular.comment.csv",13
+"CHA195306020",66,"ej,richp101,M,hurle901,HBP non-call White Sox Manager Paul Richards ejected by HP umpire Eddie Hurley","1953CHA.EVA.regular.comment.csv",14
+"CHA195306040",55,"to match daily/NYT/TSN, arbitrary 64(1) to 6(1)","1953CHA.EVA.regular.comment.csv",15
+"CHA195306040",62,"to match daily/NYT/TSN, arbitrary 5 to 6","1953CHA.EVA.regular.comment.csv",16
+"CHA195307010",28,"$Jim Rivera called out on appeal for missing 1B on apparent triple","1953CHA.EVA.regular.comment.csv",17
+"CHA195307010",54,"$Mike Blyzka called for obstruction along the 1B line","1953CHA.EVA.regular.comment.csv",18
+"CHA195307010",69,"55 minute rain delay","1953CHA.EVA.regular.comment.csv",19
+"CHA195307110",74,"$Indians manager Al Lopez changed pinch runners","1953CHA.EVA.regular.comment.csv",20
+"CHA195307220",8,"$Minnie Minoso rounded 2B too far","1953CHA.EVA.regular.comment.csv",21
+"CHA195307230",2,"to match daily/NYT/TSN, arbitrary 8 to 9","1953CHA.EVA.regular.comment.csv",22
+"CHA195307262",43,"ej,dykej101,M,froeg901,Called strike 3 $Athletics manager Dykes ejected by HP umpire Froese for arguing called strike 3","1953CHA.EVA.regular.comment.csv",23
+"CHA195308181",56,"$Bobby Young left with injured knee","1953CHA.EVA.regular.comment.csv",24
+"CHA195308231",47,"to match daily/NYT/TSN, arbitrary 64 to 6","1953CHA.EVA.regular.comment.csv",25
+"CHA195308232",48,"ej,hutcf101,M,honoj901,Balls and strikes Tigers Manager Fred Hutchinson ejected by HP umpire Jim Honochick","1953CHA.EVA.regular.comment.csv",26
+"CHA195308232",81,"$Walt Dropo called for obstruction","1953CHA.EVA.regular.comment.csv",27
+"CHA195308260",27,"$the ball knocked Mike Fornieles' glove off his hand; 1B umpire Johnny Stevens ruled that Fornieles threw his glove at the ball and awarded Dave Philley a triple","1953CHA.EVA.regular.comment.csv",28
+"CHA195308270",2,"ej,richp101,M,stevj901,Balls and strikes White Sox Manager Paul Richards ejected by HP umpire Johnny Stevens","1953CHA.EVA.regular.comment.csv",29
+"CHA195308280",2,"infield shifted for Ted Williams","1953CHA.EVA.regular.comment.csv",30
+"CHA195308280",21,"ej,niarg101,P,summb901,Fighting $Bob Keegan mishandled the ball before throwing to 2B; Jimmy Piersall slid into 2B with his spikes up and he knocked down Chico Carrasquel; the players squared off, both benches cleared and a brawl ensued; Gus Niarhos ran at Carrasquel but was restrained by Sam Mele and 1B umpire Hank Soar; Soar and Niarhos fell to the ground; Niarhos ejected by HP umpire Bill Summers","1953CHA.EVA.regular.comment.csv",31
+"CHA195308301",14,"to match daily/NYT/TSN, arbitrary 7 to 8","1953CHA.EVA.regular.comment.csv",32
+"CHA195308301",48,"to match daily/NYT/TSN, arbitrary 13 to 43","1953CHA.EVA.regular.comment.csv",33
+"CHA195308302",62,"ej,richp101,M,mckib901,Balls and strikes $White Sox manager Richards ejected by HP umpire McKinley for arguing ball call to Bauer (not ball 4)","1953CHA.EVA.regular.comment.csv",34
+"CHA195309030",32,"to match daily/NYT, arbitrary K to K23","1953CHA.EVA.regular.comment.csv",35
+"CHA195309201",58,"ej,marim101,M,stevj901,Call at 2B $Browns manager Marion ejected by 2B umpire Stevens for arguing call at 2nd","1953CHA.EVA.regular.comment.csv",36

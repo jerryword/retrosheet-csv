@@ -1,24 +1,25 @@
-"BOS199204190",14,"ej,clarj001,P,reedr901,Called third strike Jack Clark ejected by HP umpire Rick Reed","FILENAME_TX","LINE_NUMBER_CT"
-"BOS199204240",52,"Game called for rain","1992BOS.EVA.regular.comment.csv",2
-"BOS199205170",59,"Wade Boggs' 2000th hit; 6th Red Sox player to reach 2000","1992BOS.EVA.regular.comment.csv",3
-"BOS199206070",14,"$Bob Zupcic called for interference","1992BOS.EVA.regular.comment.csv",4
-"BOS199206070",42,"$line drive splits the webbing in Boggs' glove","1992BOS.EVA.regular.comment.csv",5
-"BOS199206150",63,"$Jeff Reardon's 342nd career save; new record","1992BOS.EVA.regular.comment.csv",6
-"BOS199206180",18,"ej,hayec001,P,denkd901,Called third strike (Threw bat) Charlie Hayes ejected by HP umpire Don Denkinger","1992BOS.EVA.regular.comment.csv",7
-"BOS199206270",77,"ej,rearj001,P,barnl901,Balls and strikes Jeff Reardon ejected by HP umpire Larry Barnett","1992BOS.EVA.regular.comment.csv",8
-"BOS199206280",80,"Jaime Navarro left with pulled leg muscle","1992BOS.EVA.regular.comment.csv",9
-"BOS199207120",23,"high chopper","1992BOS.EVA.regular.comment.csv",10
-"BOS199207270",14,"Debut game for John Valentin","1992BOS.EVA.regular.comment.csv",11
-"BOS199207312",1,"Debut game for Richie Lewis","1992BOS.EVA.regular.comment.csv",12
-"BOS199207312",52,"Game called for rain","1992BOS.EVA.regular.comment.csv",13
-"BOS199208010",1,"ej,hobsb101,M,younl901,Balls and strikes $Red Sox manager Hobson ejected by HP umpire Young for arguing balls and strikes to Anderson","1992BOS.EVA.regular.comment.csv",14
-"BOS199208030",42,"Debut game for Doug Linton","1992BOS.EVA.regular.comment.csv",15
-"BOS199208050",31,"ej,stott001,P,joycj901,Call at 3B (Bumped umpire) $Pitcher Stottlemyre ejected by 3B umpire Joyce for arguing call at 3B; runners took off after infield fly was not caught so there was no force and runner did not need to be tagged at 3rd; Stottlemyre bumped umpire as he argued","1992BOS.EVA.regular.comment.csv",16
-"BOS199208050",32,"Wade Boggs left with injured elbow","1992BOS.EVA.regular.comment.csv",17
-"BOS199208050",42,"ej,alomr001,P,craft901,Balls and strikes ej,gastc101,M,craft901,Balls and strikes Roberto Alomar and Blue Jays manager Cito Gaston ejected by HP umpire Terry Craft","1992BOS.EVA.regular.comment.csv",18
-"BOS199208240",78,"Debut game for Todd Revenig","1992BOS.EVA.regular.comment.csv",19
-"BOS199209120",48,"ej,andes101,M,roe-r901,Call at 2B $Tigers manager Anderson ejected by 2B umpire Roe for arguing that Brunansky was out at 2nd","1992BOS.EVA.regular.comment.csv",20
-"BOS199209120",50,"ej,frymt001,P,joycj901,Call at 2B ej,consb101,C,joycj901,Arguing player's ejection $Tigers coach Consolo amd SS Fryman ejected by 3B umpire Joyce at end of inning for continuing to complain about call at 3nd; Joyce overheard Fryman in dugout and ejected him, causing coach Consolo to react very strongly; he had to be restrained","1992BOS.EVA.regular.comment.csv",21
-"BOS199209130",37,"ej,galer001,C,roe-r901,Check swing $Red Sox coach Gale ejected by 1B umpire Roe for arguing check swing by Fielder before he struck out","1992BOS.EVA.regular.comment.csv",22
-"BOS199209170",55,"Debut game for Scott Taylor","1992BOS.EVA.regular.comment.csv",23
-"BOS199209170",79,"Debut game for Jose Valentin","1992BOS.EVA.regular.comment.csv",24
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"BOS199204190",14,"ej,clarj001,P,reedr901,Called third strike Jack Clark ejected by HP umpire Rick Reed","1992BOS.EVA.regular.comment.csv",2
+"BOS199204240",52,"Game called for rain","1992BOS.EVA.regular.comment.csv",3
+"BOS199205170",59,"Wade Boggs' 2000th hit; 6th Red Sox player to reach 2000","1992BOS.EVA.regular.comment.csv",4
+"BOS199206070",14,"$Bob Zupcic called for interference","1992BOS.EVA.regular.comment.csv",5
+"BOS199206070",42,"$line drive splits the webbing in Boggs' glove","1992BOS.EVA.regular.comment.csv",6
+"BOS199206150",63,"$Jeff Reardon's 342nd career save; new record","1992BOS.EVA.regular.comment.csv",7
+"BOS199206180",18,"ej,hayec001,P,denkd901,Called third strike (Threw bat) Charlie Hayes ejected by HP umpire Don Denkinger","1992BOS.EVA.regular.comment.csv",8
+"BOS199206270",77,"ej,rearj001,P,barnl901,Balls and strikes Jeff Reardon ejected by HP umpire Larry Barnett","1992BOS.EVA.regular.comment.csv",9
+"BOS199206280",80,"Jaime Navarro left with pulled leg muscle","1992BOS.EVA.regular.comment.csv",10
+"BOS199207120",23,"high chopper","1992BOS.EVA.regular.comment.csv",11
+"BOS199207270",14,"Debut game for John Valentin","1992BOS.EVA.regular.comment.csv",12
+"BOS199207312",1,"Debut game for Richie Lewis","1992BOS.EVA.regular.comment.csv",13
+"BOS199207312",52,"Game called for rain","1992BOS.EVA.regular.comment.csv",14
+"BOS199208010",1,"ej,hobsb101,M,younl901,Balls and strikes $Red Sox manager Hobson ejected by HP umpire Young for arguing balls and strikes to Anderson","1992BOS.EVA.regular.comment.csv",15
+"BOS199208030",42,"Debut game for Doug Linton","1992BOS.EVA.regular.comment.csv",16
+"BOS199208050",31,"ej,stott001,P,joycj901,Call at 3B (Bumped umpire) $Pitcher Stottlemyre ejected by 3B umpire Joyce for arguing call at 3B; runners took off after infield fly was not caught so there was no force and runner did not need to be tagged at 3rd; Stottlemyre bumped umpire as he argued","1992BOS.EVA.regular.comment.csv",17
+"BOS199208050",32,"Wade Boggs left with injured elbow","1992BOS.EVA.regular.comment.csv",18
+"BOS199208050",42,"ej,alomr001,P,craft901,Balls and strikes ej,gastc101,M,craft901,Balls and strikes Roberto Alomar and Blue Jays manager Cito Gaston ejected by HP umpire Terry Craft","1992BOS.EVA.regular.comment.csv",19
+"BOS199208240",78,"Debut game for Todd Revenig","1992BOS.EVA.regular.comment.csv",20
+"BOS199209120",48,"ej,andes101,M,roe-r901,Call at 2B $Tigers manager Anderson ejected by 2B umpire Roe for arguing that Brunansky was out at 2nd","1992BOS.EVA.regular.comment.csv",21
+"BOS199209120",50,"ej,frymt001,P,joycj901,Call at 2B ej,consb101,C,joycj901,Arguing player's ejection $Tigers coach Consolo amd SS Fryman ejected by 3B umpire Joyce at end of inning for continuing to complain about call at 3nd; Joyce overheard Fryman in dugout and ejected him, causing coach Consolo to react very strongly; he had to be restrained","1992BOS.EVA.regular.comment.csv",22
+"BOS199209130",37,"ej,galer001,C,roe-r901,Check swing $Red Sox coach Gale ejected by 1B umpire Roe for arguing check swing by Fielder before he struck out","1992BOS.EVA.regular.comment.csv",23
+"BOS199209170",55,"Debut game for Scott Taylor","1992BOS.EVA.regular.comment.csv",24
+"BOS199209170",79,"Debut game for Jose Valentin","1992BOS.EVA.regular.comment.csv",25

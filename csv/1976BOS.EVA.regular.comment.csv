@@ -1,49 +1,50 @@
-"BOS197604130",16,"Ray Fosse injured on Jim Rice's slide","FILENAME_TX","LINE_NUMBER_CT"
-"BOS197604150",5,"$Rick Wise let Carlton Fisk field the dribbler; throw late to 1B and no one covered HP","1976BOS.EVA.regular.comment.csv",2
-"BOS197604170",58,"missed squeeze","1976BOS.EVA.regular.comment.csv",3
-"BOS197604180",64,"Debut game for Rick Jones","1976BOS.EVA.regular.comment.csv",4
-"BOS197604190",64,"Fergie Jenkins threw 113 pitches","1976BOS.EVA.regular.comment.csv",5
-"BOS197604200",31,"$just to left of CF flagpole, almost at top of wall","1976BOS.EVA.regular.comment.csv",6
-"BOS197605040",16,"$fan interference","1976BOS.EVA.regular.comment.csv",7
-"BOS197605040",18,"340ft","1976BOS.EVA.regular.comment.csv",8
-"BOS197605040",40,"340ft","1976BOS.EVA.regular.comment.csv",9
-"BOS197605050",41,"340ft","1976BOS.EVA.regular.comment.csv",10
-"BOS197605082",16,"$Dwight Evans dropped flyball when he hit RF wall","1976BOS.EVA.regular.comment.csv",11
-"BOS197605090",23,"410' HR over visitors' bullpen","1976BOS.EVA.regular.comment.csv",12
-"BOS197605090",43,"$John Ellis broke ankle sliding into 2B","1976BOS.EVA.regular.comment.csv",13
-"BOS197605160",89,"$after walk, catcher Darrell Porter threw wildly back to mound","1976BOS.EVA.regular.comment.csv",14
-"BOS197605240",63,"Rick Wise threw 97 pitches","1976BOS.EVA.regular.comment.csv",15
-"BOS197605250",19,"$Bruce Kimm faked throw to 2B to get Dwight Evans","1976BOS.EVA.regular.comment.csv",16
-"BOS197605250",70,"Luis Tiant: 100 pitches","1976BOS.EVA.regular.comment.csv",17
-"BOS197605310",52,"Rain began to fall during 6th inning","1976BOS.EVA.regular.comment.csv",18
-"BOS197606040",13,"Andy Etchebarren injured sliding into 2B","1976BOS.EVA.regular.comment.csv",19
-"BOS197606240",48,"ej,johnd106,M,barnl901,Balls and strikes ej,zimmd101,C,barnl901,Balls and strikes Red Sox Manager Darrell Johnson and Red Sox Coach Don Zimmer ejected by HP umpire Larry Barnett","1976BOS.EVA.regular.comment.csv",20
-"BOS197606270",6,"$Tigers manager Ralph Houk listed two players as DH; lost use of the DH and Alex Johnson","1976BOS.EVA.regular.comment.csv",21
-"BOS197606280",63,"ej,weave801,M,evanj901,Throwing batting helmet from bench Orioles Manager Earl Weaver ejected by 3B umpire Jim Evans","1976BOS.EVA.regular.comment.csv",22
-"BOS197607300",19,"Rick Miller injured","1976BOS.EVA.regular.comment.csv",23
-"BOS197607300",56,"Willie Randolph injured tripping over 1B","1976BOS.EVA.regular.comment.csv",24
-"BOS197608210",55,"Debut game for Wayne Gross","1976BOS.EVA.regular.comment.csv",25
-"BOS197608230",33,"$Hit on head","1976BOS.EVA.regular.comment.csv",26
-"BOS197608240",14,"$Carl Yastrzemski tore a muscle in his left thigh while sliding","1976BOS.EVA.regular.comment.csv",27
-"BOS197608260",94,"ej,hillc101,C,garcr901,Call at HP Royals Coach Chuck Hiller ejected by HP umpire Rich Garcia","1976BOS.EVA.regular.comment.csv",28
-"BOS197608270",11,"410' HR","1976BOS.EVA.regular.comment.csv",29
-"BOS197608270",31,"350' HR","1976BOS.EVA.regular.comment.csv",30
-"BOS197608270",41,"420' triple","1976BOS.EVA.regular.comment.csv",31
-"BOS197608270",58,"400' HR into Sox bullpen","1976BOS.EVA.regular.comment.csv",32
-"BOS197608270",64,"Rain starts","1976BOS.EVA.regular.comment.csv",33
-"BOS197608270",75,"400' HR into visitor's bullpen","1976BOS.EVA.regular.comment.csv",34
-"BOS197608280",19,"$Rick Miller and Fred Lynn collide; Lynn's right knee hits Miller's chest","1976BOS.EVA.regular.comment.csv",35
-"BOS197608280",71,"360' HR","1976BOS.EVA.regular.comment.csv",36
-"BOS197608290",13,"51 minute rain delay; temperature dropped 19 degrees","1976BOS.EVA.regular.comment.csv",37
-"BOS197608290",27,"370' HR","1976BOS.EVA.regular.comment.csv",38
-"BOS197608290",46,"340' HR","1976BOS.EVA.regular.comment.csv",39
-"BOS197608290",48,"360' HR","1976BOS.EVA.regular.comment.csv",40
-"BOS197608290",49,"410' HR into RF seats","1976BOS.EVA.regular.comment.csv",41
-"BOS197608290",59,"370' HR","1976BOS.EVA.regular.comment.csv",42
-"BOS197608300",19,"$Rick Burleson was hit in the head above the left ear","1976BOS.EVA.regular.comment.csv",43
-"BOS197609010",35,"Ferguson Jenkins left with injured right achilles tendon","1976BOS.EVA.regular.comment.csv",44
-"BOS197609100",40,"Game called due to rain at 10:01pm","1976BOS.EVA.regular.comment.csv",45
-"BOS197609110",67,"Debut game for Jack Baker","1976BOS.EVA.regular.comment.csv",46
-"BOS197609120",59,"Debut game for Ernie Whitt","1976BOS.EVA.regular.comment.csv",47
-"BOS197609280",43,"ej,millr001,P,koscg901,Call at 2B Rick Miller ejected by 2B umpire Greg Kosc","1976BOS.EVA.regular.comment.csv",48
-"BOS197610020",0,"Debut for umpire Steve Palermo","1976BOS.EVA.regular.comment.csv",49
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"BOS197604130",16,"Ray Fosse injured on Jim Rice's slide","1976BOS.EVA.regular.comment.csv",2
+"BOS197604150",5,"$Rick Wise let Carlton Fisk field the dribbler; throw late to 1B and no one covered HP","1976BOS.EVA.regular.comment.csv",3
+"BOS197604170",58,"missed squeeze","1976BOS.EVA.regular.comment.csv",4
+"BOS197604180",64,"Debut game for Rick Jones","1976BOS.EVA.regular.comment.csv",5
+"BOS197604190",64,"Fergie Jenkins threw 113 pitches","1976BOS.EVA.regular.comment.csv",6
+"BOS197604200",31,"$just to left of CF flagpole, almost at top of wall","1976BOS.EVA.regular.comment.csv",7
+"BOS197605040",16,"$fan interference","1976BOS.EVA.regular.comment.csv",8
+"BOS197605040",18,"340ft","1976BOS.EVA.regular.comment.csv",9
+"BOS197605040",40,"340ft","1976BOS.EVA.regular.comment.csv",10
+"BOS197605050",41,"340ft","1976BOS.EVA.regular.comment.csv",11
+"BOS197605082",16,"$Dwight Evans dropped flyball when he hit RF wall","1976BOS.EVA.regular.comment.csv",12
+"BOS197605090",23,"410' HR over visitors' bullpen","1976BOS.EVA.regular.comment.csv",13
+"BOS197605090",43,"$John Ellis broke ankle sliding into 2B","1976BOS.EVA.regular.comment.csv",14
+"BOS197605160",89,"$after walk, catcher Darrell Porter threw wildly back to mound","1976BOS.EVA.regular.comment.csv",15
+"BOS197605240",63,"Rick Wise threw 97 pitches","1976BOS.EVA.regular.comment.csv",16
+"BOS197605250",19,"$Bruce Kimm faked throw to 2B to get Dwight Evans","1976BOS.EVA.regular.comment.csv",17
+"BOS197605250",70,"Luis Tiant: 100 pitches","1976BOS.EVA.regular.comment.csv",18
+"BOS197605310",52,"Rain began to fall during 6th inning","1976BOS.EVA.regular.comment.csv",19
+"BOS197606040",13,"Andy Etchebarren injured sliding into 2B","1976BOS.EVA.regular.comment.csv",20
+"BOS197606240",48,"ej,johnd106,M,barnl901,Balls and strikes ej,zimmd101,C,barnl901,Balls and strikes Red Sox Manager Darrell Johnson and Red Sox Coach Don Zimmer ejected by HP umpire Larry Barnett","1976BOS.EVA.regular.comment.csv",21
+"BOS197606270",6,"$Tigers manager Ralph Houk listed two players as DH; lost use of the DH and Alex Johnson","1976BOS.EVA.regular.comment.csv",22
+"BOS197606280",63,"ej,weave801,M,evanj901,Throwing batting helmet from bench Orioles Manager Earl Weaver ejected by 3B umpire Jim Evans","1976BOS.EVA.regular.comment.csv",23
+"BOS197607300",19,"Rick Miller injured","1976BOS.EVA.regular.comment.csv",24
+"BOS197607300",56,"Willie Randolph injured tripping over 1B","1976BOS.EVA.regular.comment.csv",25
+"BOS197608210",55,"Debut game for Wayne Gross","1976BOS.EVA.regular.comment.csv",26
+"BOS197608230",33,"$Hit on head","1976BOS.EVA.regular.comment.csv",27
+"BOS197608240",14,"$Carl Yastrzemski tore a muscle in his left thigh while sliding","1976BOS.EVA.regular.comment.csv",28
+"BOS197608260",94,"ej,hillc101,C,garcr901,Call at HP Royals Coach Chuck Hiller ejected by HP umpire Rich Garcia","1976BOS.EVA.regular.comment.csv",29
+"BOS197608270",11,"410' HR","1976BOS.EVA.regular.comment.csv",30
+"BOS197608270",31,"350' HR","1976BOS.EVA.regular.comment.csv",31
+"BOS197608270",41,"420' triple","1976BOS.EVA.regular.comment.csv",32
+"BOS197608270",58,"400' HR into Sox bullpen","1976BOS.EVA.regular.comment.csv",33
+"BOS197608270",64,"Rain starts","1976BOS.EVA.regular.comment.csv",34
+"BOS197608270",75,"400' HR into visitor's bullpen","1976BOS.EVA.regular.comment.csv",35
+"BOS197608280",19,"$Rick Miller and Fred Lynn collide; Lynn's right knee hits Miller's chest","1976BOS.EVA.regular.comment.csv",36
+"BOS197608280",71,"360' HR","1976BOS.EVA.regular.comment.csv",37
+"BOS197608290",13,"51 minute rain delay; temperature dropped 19 degrees","1976BOS.EVA.regular.comment.csv",38
+"BOS197608290",27,"370' HR","1976BOS.EVA.regular.comment.csv",39
+"BOS197608290",46,"340' HR","1976BOS.EVA.regular.comment.csv",40
+"BOS197608290",48,"360' HR","1976BOS.EVA.regular.comment.csv",41
+"BOS197608290",49,"410' HR into RF seats","1976BOS.EVA.regular.comment.csv",42
+"BOS197608290",59,"370' HR","1976BOS.EVA.regular.comment.csv",43
+"BOS197608300",19,"$Rick Burleson was hit in the head above the left ear","1976BOS.EVA.regular.comment.csv",44
+"BOS197609010",35,"Ferguson Jenkins left with injured right achilles tendon","1976BOS.EVA.regular.comment.csv",45
+"BOS197609100",40,"Game called due to rain at 10:01pm","1976BOS.EVA.regular.comment.csv",46
+"BOS197609110",67,"Debut game for Jack Baker","1976BOS.EVA.regular.comment.csv",47
+"BOS197609120",59,"Debut game for Ernie Whitt","1976BOS.EVA.regular.comment.csv",48
+"BOS197609280",43,"ej,millr001,P,koscg901,Call at 2B Rick Miller ejected by 2B umpire Greg Kosc","1976BOS.EVA.regular.comment.csv",49
+"BOS197610020",0,"Debut for umpire Steve Palermo","1976BOS.EVA.regular.comment.csv",50

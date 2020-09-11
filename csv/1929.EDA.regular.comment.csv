@@ -1,42 +1,43 @@
-"CHA192905272",10,"Into lower LF pavilion","FILENAME_TX","LINE_NUMBER_CT"
-"CHA192905272",26,"Lined into LF stand, almost into upper tier","1929.EDA.regular.comment.csv",2
-"CHA192905272",44,"Low throw pulled Clancy off bag","1929.EDA.regular.comment.csv",3
-"CHA192905272",53,"Hot grounder","1929.EDA.regular.comment.csv",4
-"CHA192905272",56,"To the flagpole","1929.EDA.regular.comment.csv",5
-"CHA192905272",78,"Into RF pavilion","1929.EDA.regular.comment.csv",6
-"CHA192905272",99,"Blankenship replaced Weiland with 2-0 count to Rice","1929.EDA.regular.comment.csv",7
-"WS1192906070",6,"No info about Sigafoos error, but need a man on in this inning","1929.EDA.regular.comment.csv",8
-"WS1192906070",10,"No info about Barnes error, but it did not put a man on","1929.EDA.regular.comment.csv",9
-"WS1192906070",33,"No info about Tate PB, but it did not affect the scoring","1929.EDA.regular.comment.csv",10
-"WS1192906070",69,"Stoner comes in with 2-0 count on judge and completes the walk","1929.EDA.regular.comment.csv",11
-"WS1192906070",92,"Yde hurts knee sliding into 3rd","1929.EDA.regular.comment.csv",12
-"WS1192906070",97,"Getting dark, so Alexander lets himself get caught to speed up game","1929.EDA.regular.comment.csv",13
-"SLA192907041",89,"$Heilmann left game after getting hit by pitch on wrist.","1929.EDA.regular.comment.csv",14
-"NYA192907042",59,"ej,judgj101,P,morig101,Called third strike $Judge ejected by HP umpire Moriarty for arguing called third strike","1929.EDA.regular.comment.csv",15
-"SLA192907042",26,"$Failed hit & run play, Badgro tagged on baseline.","1929.EDA.regular.comment.csv",16
-"SLA192907042",62,"Johnson threw wild to third backing up error by Schuble.","1929.EDA.regular.comment.csv",17
-"WS1192908041",11,"No info on Spencer error, but it did not put a man on","1929.EDA.regular.comment.csv",18
-"WS1192908041",27,"No info on H. Rice error, but it did not put a man on","1929.EDA.regular.comment.csv",19
-"WS1192908042",64,"CF Harry Rice loses line drive in sun and it rolls by him","1929.EDA.regular.comment.csv",20
-"WS1192908042",68,"Hadley comes in with 2-0 count on Shea and finishes the walk","1929.EDA.regular.comment.csv",21
-"WS1192908042",75,"Brown comes in with 3-0 count on Phillips and finishes the walk","1929.EDA.regular.comment.csv",22
-"WS1192908042",91,"$Game called for darkness","1929.EDA.regular.comment.csv",23
-"WS1192909151",83,"Wild pick-off throw to first goes down RF line","1929.EDA.regular.comment.csv",24
-"WS1192909160",8,"Judge run down between 2nd and 3rd, exact scoring unknown","1929.EDA.regular.comment.csv",25
-"WS1192909160",37,"Stone loses ball in sun and lets it drop for a double","1929.EDA.regular.comment.csv",26
-"WS1192909160",40,"Goslin is run down (exact play not known) allowing Rice to score","1929.EDA.regular.comment.csv",27
-"WS1192909160",76,"Graham has West trapped off third, but lets him get back","1929.EDA.regular.comment.csv",28
-"WS1192909160",78,"Failed squeeze try; Hargrave's throw hits West in back as he retreats","1929.EDA.regular.comment.csv",29
-"WS1192909160",93,"Whitehill comes in with 3-1 count and throws his only pitch for ball four $Game called for darkness","1929.EDA.regular.comment.csv",30
-"CHA192910060",27,"Don't know when, why, or how (PH in 5th?) he came into the game","1929.EDA.regular.comment.csv",31
-"CHA192910060",38,"Don't know when, why, or how (PH in 7th?) he came into the game","1929.EDA.regular.comment.csv",32
-"CHA192910060",51,"Don't know when, why, or how (PH in 8th?) he came into the game","1929.EDA.regular.comment.csv",33
-"CHA192910060",82,"No description except Gehringer error; deducing wild throw","1929.EDA.regular.comment.csv",34
-"BOS192906160",58,"$Blue safe at second because Regan dropped ball twice, then forgot how many outs there were","1929.EDA.regular.comment.csv",35
-"WS1192906200",74,"Off the wall.","1929.EDA.regular.comment.csv",36
-"BOS192907260",19,"Carroll held third base on infield hit.","1929.EDA.regular.comment.csv",37
-"BOS192907260",42,"Rothrock's single bounced off Alexander to Gehringer.","1929.EDA.regular.comment.csv",38
-"BOS192907260",64,"Runner held at third base.","1929.EDA.regular.comment.csv",39
-"DET192907110",14,"Both sources have as single and second run scoring on error.","1929.EDA.regular.comment.csv",40
-"DET192907110",54,"$Billings entered with 3-0 count on Bayne, walk charged to Stoner","1929.EDA.regular.comment.csv",41
-"BOS192909151",0,"$Played at Braves Field","1929.EDA.regular.comment.csv",42
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"CHA192905272",10,"Into lower LF pavilion","1929.EDA.regular.comment.csv",2
+"CHA192905272",26,"Lined into LF stand, almost into upper tier","1929.EDA.regular.comment.csv",3
+"CHA192905272",44,"Low throw pulled Clancy off bag","1929.EDA.regular.comment.csv",4
+"CHA192905272",53,"Hot grounder","1929.EDA.regular.comment.csv",5
+"CHA192905272",56,"To the flagpole","1929.EDA.regular.comment.csv",6
+"CHA192905272",78,"Into RF pavilion","1929.EDA.regular.comment.csv",7
+"CHA192905272",99,"Blankenship replaced Weiland with 2-0 count to Rice","1929.EDA.regular.comment.csv",8
+"WS1192906070",6,"No info about Sigafoos error, but need a man on in this inning","1929.EDA.regular.comment.csv",9
+"WS1192906070",10,"No info about Barnes error, but it did not put a man on","1929.EDA.regular.comment.csv",10
+"WS1192906070",33,"No info about Tate PB, but it did not affect the scoring","1929.EDA.regular.comment.csv",11
+"WS1192906070",69,"Stoner comes in with 2-0 count on judge and completes the walk","1929.EDA.regular.comment.csv",12
+"WS1192906070",92,"Yde hurts knee sliding into 3rd","1929.EDA.regular.comment.csv",13
+"WS1192906070",97,"Getting dark, so Alexander lets himself get caught to speed up game","1929.EDA.regular.comment.csv",14
+"SLA192907041",89,"$Heilmann left game after getting hit by pitch on wrist.","1929.EDA.regular.comment.csv",15
+"NYA192907042",59,"ej,judgj101,P,morig101,Called third strike $Judge ejected by HP umpire Moriarty for arguing called third strike","1929.EDA.regular.comment.csv",16
+"SLA192907042",26,"$Failed hit & run play, Badgro tagged on baseline.","1929.EDA.regular.comment.csv",17
+"SLA192907042",62,"Johnson threw wild to third backing up error by Schuble.","1929.EDA.regular.comment.csv",18
+"WS1192908041",11,"No info on Spencer error, but it did not put a man on","1929.EDA.regular.comment.csv",19
+"WS1192908041",27,"No info on H. Rice error, but it did not put a man on","1929.EDA.regular.comment.csv",20
+"WS1192908042",64,"CF Harry Rice loses line drive in sun and it rolls by him","1929.EDA.regular.comment.csv",21
+"WS1192908042",68,"Hadley comes in with 2-0 count on Shea and finishes the walk","1929.EDA.regular.comment.csv",22
+"WS1192908042",75,"Brown comes in with 3-0 count on Phillips and finishes the walk","1929.EDA.regular.comment.csv",23
+"WS1192908042",91,"$Game called for darkness","1929.EDA.regular.comment.csv",24
+"WS1192909151",83,"Wild pick-off throw to first goes down RF line","1929.EDA.regular.comment.csv",25
+"WS1192909160",8,"Judge run down between 2nd and 3rd, exact scoring unknown","1929.EDA.regular.comment.csv",26
+"WS1192909160",37,"Stone loses ball in sun and lets it drop for a double","1929.EDA.regular.comment.csv",27
+"WS1192909160",40,"Goslin is run down (exact play not known) allowing Rice to score","1929.EDA.regular.comment.csv",28
+"WS1192909160",76,"Graham has West trapped off third, but lets him get back","1929.EDA.regular.comment.csv",29
+"WS1192909160",78,"Failed squeeze try; Hargrave's throw hits West in back as he retreats","1929.EDA.regular.comment.csv",30
+"WS1192909160",93,"Whitehill comes in with 3-1 count and throws his only pitch for ball four $Game called for darkness","1929.EDA.regular.comment.csv",31
+"CHA192910060",27,"Don't know when, why, or how (PH in 5th?) he came into the game","1929.EDA.regular.comment.csv",32
+"CHA192910060",38,"Don't know when, why, or how (PH in 7th?) he came into the game","1929.EDA.regular.comment.csv",33
+"CHA192910060",51,"Don't know when, why, or how (PH in 8th?) he came into the game","1929.EDA.regular.comment.csv",34
+"CHA192910060",82,"No description except Gehringer error; deducing wild throw","1929.EDA.regular.comment.csv",35
+"BOS192906160",58,"$Blue safe at second because Regan dropped ball twice, then forgot how many outs there were","1929.EDA.regular.comment.csv",36
+"WS1192906200",74,"Off the wall.","1929.EDA.regular.comment.csv",37
+"BOS192907260",19,"Carroll held third base on infield hit.","1929.EDA.regular.comment.csv",38
+"BOS192907260",42,"Rothrock's single bounced off Alexander to Gehringer.","1929.EDA.regular.comment.csv",39
+"BOS192907260",64,"Runner held at third base.","1929.EDA.regular.comment.csv",40
+"DET192907110",14,"Both sources have as single and second run scoring on error.","1929.EDA.regular.comment.csv",41
+"DET192907110",54,"$Billings entered with 3-0 count on Bayne, walk charged to Stoner","1929.EDA.regular.comment.csv",42
+"BOS192909151",0,"$Played at Braves Field","1929.EDA.regular.comment.csv",43

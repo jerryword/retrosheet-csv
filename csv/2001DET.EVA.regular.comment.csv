@@ -1,29 +1,30 @@
-"DET200104030",23,"Debut game for Brandon Inge","FILENAME_TX","LINE_NUMBER_CT"
-"DET200104030",71,"Debut game for Jermaine Clark","2001DET.EVA.regular.comment.csv",2
-"DET200104250",62,"ej,garnp001,M,scotd901,HBP non-call $Tigers Manager Garner ejected by HP umpire Scott for arguing that Easley had been hit by pitch","2001DET.EVA.regular.comment.csv",3
-"DET200104260",62,"Debut game for Jorge Julio","2001DET.EVA.regular.comment.csv",4
-"DET200104290",30,"$McGriff's 38th park to homer in, setting new record","2001DET.EVA.regular.comment.csv",5
-"DET200105080",53,"Debut game for Matt Miller","2001DET.EVA.regular.comment.csv",6
-"DET200105080",78,"ej,ceder001,P,meric901,Called third strike Roger Cedeno ejected by HP umpire Chuck Meriwether","2001DET.EVA.regular.comment.csv",7
-"DET200105110",61,"IPHR","2001DET.EVA.regular.comment.csv",8
-"DET200105110",100,"Debut game for Mark Lukasiewicz","2001DET.EVA.regular.comment.csv",9
-"DET200105250",18,"originally scored E5/TH","2001DET.EVA.regular.comment.csv",10
-"DET200105290",0,"$Indians Manager Charlie Manuel serving game 1 of 2 game suspension for returning to the field on 5/23 after being ejected","2001DET.EVA.regular.comment.csv",11
-"DET200105290",31,"$Jim Thome passed Albert Belle for the Indians' franchise homer lead with #243","2001DET.EVA.regular.comment.csv",12
-"DET200106090",70,"$hard contact on tag, much pushing, no fight","2001DET.EVA.regular.comment.csv",13
-"DET200106100",30,"$Encarnacion left with sprained jaw from collision with Easley","2001DET.EVA.regular.comment.csv",14
-"DET200106100",58,"1:12 rain delay","2001DET.EVA.regular.comment.csv",15
-"DET200106220",1,"Debut game for Kyle Lohse","2001DET.EVA.regular.comment.csv",16
-"DET200106240",52,"love those knuckleballs!","2001DET.EVA.regular.comment.csv",17
-"DET200107040",54,"29 minute rain delay in the 7th","2001DET.EVA.regular.comment.csv",18
-"DET200107070",73,"ej,mansd801,C,barrt901,Balls and strikes $Tigers coach Mansolino by HP umpire Barrett for arguing balls and strikes from dugout sometime in 8th inning","2001DET.EVA.regular.comment.csv",19
-"DET200107182",68,"$Williams missed base","2001DET.EVA.regular.comment.csv",20
-"DET200107190",34,"originally scored E6, changed after game","2001DET.EVA.regular.comment.csv",21
-"DET200107290",41,"Debut game for Ryan Drese","2001DET.EVA.regular.comment.csv",22
-"DET200108010",59,"1:08 rain delay in 7th","2001DET.EVA.regular.comment.csv",23
-"DET200108040",59,"Debut game for Luis Pineda","2001DET.EVA.regular.comment.csv",24
-"DET200108160",0,"1:27 rain delay before start","2001DET.EVA.regular.comment.csv",25
-"DET200108160",20,"27 minute rain delay","2001DET.EVA.regular.comment.csv",26
-"DET200109080",37,"1:40 rain delay","2001DET.EVA.regular.comment.csv",27
-"DET200109090",50,"2:08 rain delay with 0-2 count","2001DET.EVA.regular.comment.csv",28
-"DET200109090",82,"no save because needed 3 IP with 3 run lead $game called for rain after 18 minute delay; trouble covering plate, too muddy to continue","2001DET.EVA.regular.comment.csv",29
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"DET200104030",23,"Debut game for Brandon Inge","2001DET.EVA.regular.comment.csv",2
+"DET200104030",71,"Debut game for Jermaine Clark","2001DET.EVA.regular.comment.csv",3
+"DET200104250",62,"ej,garnp001,M,scotd901,HBP non-call $Tigers Manager Garner ejected by HP umpire Scott for arguing that Easley had been hit by pitch","2001DET.EVA.regular.comment.csv",4
+"DET200104260",62,"Debut game for Jorge Julio","2001DET.EVA.regular.comment.csv",5
+"DET200104290",30,"$McGriff's 38th park to homer in, setting new record","2001DET.EVA.regular.comment.csv",6
+"DET200105080",53,"Debut game for Matt Miller","2001DET.EVA.regular.comment.csv",7
+"DET200105080",78,"ej,ceder001,P,meric901,Called third strike Roger Cedeno ejected by HP umpire Chuck Meriwether","2001DET.EVA.regular.comment.csv",8
+"DET200105110",61,"IPHR","2001DET.EVA.regular.comment.csv",9
+"DET200105110",100,"Debut game for Mark Lukasiewicz","2001DET.EVA.regular.comment.csv",10
+"DET200105250",18,"originally scored E5/TH","2001DET.EVA.regular.comment.csv",11
+"DET200105290",0,"$Indians Manager Charlie Manuel serving game 1 of 2 game suspension for returning to the field on 5/23 after being ejected","2001DET.EVA.regular.comment.csv",12
+"DET200105290",31,"$Jim Thome passed Albert Belle for the Indians' franchise homer lead with #243","2001DET.EVA.regular.comment.csv",13
+"DET200106090",70,"$hard contact on tag, much pushing, no fight","2001DET.EVA.regular.comment.csv",14
+"DET200106100",30,"$Encarnacion left with sprained jaw from collision with Easley","2001DET.EVA.regular.comment.csv",15
+"DET200106100",58,"1:12 rain delay","2001DET.EVA.regular.comment.csv",16
+"DET200106220",1,"Debut game for Kyle Lohse","2001DET.EVA.regular.comment.csv",17
+"DET200106240",52,"love those knuckleballs!","2001DET.EVA.regular.comment.csv",18
+"DET200107040",54,"29 minute rain delay in the 7th","2001DET.EVA.regular.comment.csv",19
+"DET200107070",73,"ej,mansd801,C,barrt901,Balls and strikes $Tigers coach Mansolino by HP umpire Barrett for arguing balls and strikes from dugout sometime in 8th inning","2001DET.EVA.regular.comment.csv",20
+"DET200107182",68,"$Williams missed base","2001DET.EVA.regular.comment.csv",21
+"DET200107190",34,"originally scored E6, changed after game","2001DET.EVA.regular.comment.csv",22
+"DET200107290",41,"Debut game for Ryan Drese","2001DET.EVA.regular.comment.csv",23
+"DET200108010",59,"1:08 rain delay in 7th","2001DET.EVA.regular.comment.csv",24
+"DET200108040",59,"Debut game for Luis Pineda","2001DET.EVA.regular.comment.csv",25
+"DET200108160",0,"1:27 rain delay before start","2001DET.EVA.regular.comment.csv",26
+"DET200108160",20,"27 minute rain delay","2001DET.EVA.regular.comment.csv",27
+"DET200109080",37,"1:40 rain delay","2001DET.EVA.regular.comment.csv",28
+"DET200109090",50,"2:08 rain delay with 0-2 count","2001DET.EVA.regular.comment.csv",29
+"DET200109090",82,"no save because needed 3 IP with 3 run lead $game called for rain after 18 minute delay; trouble covering plate, too muddy to continue","2001DET.EVA.regular.comment.csv",30

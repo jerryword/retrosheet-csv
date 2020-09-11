@@ -1,25 +1,26 @@
-"PHA194104180",42,"$Pytlak suffered split finger on foul ball, left in next inning","FILENAME_TX","LINE_NUMBER_CT"
-"PHA194105130",0,"StL fldg matches NYT box","1941PHA.EVA.regular.comment.csv",2
-"PHA194105190",30,"$Gee Walker was spiked by Al Brancato and was helped to the bench","1941PHA.EVA.regular.comment.csv",3
-"PHA194105200",64,"$Ferrick entered with 2-0 count, walk charged to Potter","1941PHA.EVA.regular.comment.csv",4
-"PHA194105210",28,"$Hoag and Kreevich collided and the ball tipped off Hoag's glove","1941PHA.EVA.regular.comment.csv",5
-"PHA194105210",46,"Tresh apparently singled to left with Wright scoring and Hoag reaching third, but Hoag missed second and was out on appeal","1941PHA.EVA.regular.comment.csv",6
-"PHA194106150",47,"ej,simma101,P,hubbc901,Call at 2B (Reversed) $Al Simmons ejected by 3B umpire Cal Hubbard when out on lead runner reversed from safe to out; original ruling was 2bman not on base, but that was changed","1941PHA.EVA.regular.comment.csv",7
-"PHA194106170",70,"$Pete Suder thought he had been doubled at 1B and wandered off the bag","1941PHA.EVA.regular.comment.csv",8
-"PHA194106190",29,"$Bill Beckman injured his leg jumping for the ball","1941PHA.EVA.regular.comment.csv",9
-"PHA194106210",38,"ej,chapb102,P,stewe901,Balls and strikes Ben Chapman ejected by HP umpire Ernie Stewart","1941PHA.EVA.regular.comment.csv",10
-"PHA194106260",54,"arbitrary 9 to 8","1941PHA.EVA.regular.comment.csv",11
-"PHA194106270",8,"$close play at HP; catcher Buddy Rosar objected strongly, leading A's coach Earle Mack to argue with Rosar, nearly causing a fight","1941PHA.EVA.regular.comment.csv",12
-"PHA194106270",60,"$450 feet over LF roof","1941PHA.EVA.regular.comment.csv",13
-"PHA194106270",76,"$the throw hit Frenchy Bordagary sliding home, stunning him","1941PHA.EVA.regular.comment.csv",14
-"PHA194106280",81,"ej,donaa101,P,summb901,Balls and strikes Atley Donald ejected by HP umpire Bill Summers","1941PHA.EVA.regular.comment.csv",15
-"PHA194107010",1,"DWS: bogus FLE5 but can't find Suder's error","1941PHA.EVA.regular.comment.csv",16
-"PHA194107020",28,"Siebert dropped Travis' late throw to 1B","1941PHA.EVA.regular.comment.csv",17
-"PHA194107240",32,"arbitrary 53 to 3/G","1941PHA.EVA.regular.comment.csv",18
-"PHA194107300",0,"game played in the rain","1941PHA.EVA.regular.comment.csv",19
-"PHA194107300",67,"$Luke Appling rounded 2B too far","1941PHA.EVA.regular.comment.csv",20
-"PHA194108020",10,"$Ken Keltner called for interference for running into his own bunt","1941PHA.EVA.regular.comment.csv",21
-"PHA194108090",2,"$Johnny Babich struck on pitching had by ball","1941PHA.EVA.regular.comment.csv",22
-"PHA194108120",32,"$Moses left with pulled muscle","1941PHA.EVA.regular.comment.csv",23
-"PHA194109150",80,"reconstructed from here","1941PHA.EVA.regular.comment.csv",24
-"PHA194109282",69,"$Game called for darkness","1941PHA.EVA.regular.comment.csv",25
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"PHA194104180",42,"$Pytlak suffered split finger on foul ball, left in next inning","1941PHA.EVA.regular.comment.csv",2
+"PHA194105130",0,"StL fldg matches NYT box","1941PHA.EVA.regular.comment.csv",3
+"PHA194105190",30,"$Gee Walker was spiked by Al Brancato and was helped to the bench","1941PHA.EVA.regular.comment.csv",4
+"PHA194105200",64,"$Ferrick entered with 2-0 count, walk charged to Potter","1941PHA.EVA.regular.comment.csv",5
+"PHA194105210",28,"$Hoag and Kreevich collided and the ball tipped off Hoag's glove","1941PHA.EVA.regular.comment.csv",6
+"PHA194105210",46,"Tresh apparently singled to left with Wright scoring and Hoag reaching third, but Hoag missed second and was out on appeal","1941PHA.EVA.regular.comment.csv",7
+"PHA194106150",47,"ej,simma101,P,hubbc901,Call at 2B (Reversed) $Al Simmons ejected by 3B umpire Cal Hubbard when out on lead runner reversed from safe to out; original ruling was 2bman not on base, but that was changed","1941PHA.EVA.regular.comment.csv",8
+"PHA194106170",70,"$Pete Suder thought he had been doubled at 1B and wandered off the bag","1941PHA.EVA.regular.comment.csv",9
+"PHA194106190",29,"$Bill Beckman injured his leg jumping for the ball","1941PHA.EVA.regular.comment.csv",10
+"PHA194106210",38,"ej,chapb102,P,stewe901,Balls and strikes Ben Chapman ejected by HP umpire Ernie Stewart","1941PHA.EVA.regular.comment.csv",11
+"PHA194106260",54,"arbitrary 9 to 8","1941PHA.EVA.regular.comment.csv",12
+"PHA194106270",8,"$close play at HP; catcher Buddy Rosar objected strongly, leading A's coach Earle Mack to argue with Rosar, nearly causing a fight","1941PHA.EVA.regular.comment.csv",13
+"PHA194106270",60,"$450 feet over LF roof","1941PHA.EVA.regular.comment.csv",14
+"PHA194106270",76,"$the throw hit Frenchy Bordagary sliding home, stunning him","1941PHA.EVA.regular.comment.csv",15
+"PHA194106280",81,"ej,donaa101,P,summb901,Balls and strikes Atley Donald ejected by HP umpire Bill Summers","1941PHA.EVA.regular.comment.csv",16
+"PHA194107010",1,"DWS: bogus FLE5 but can't find Suder's error","1941PHA.EVA.regular.comment.csv",17
+"PHA194107020",28,"Siebert dropped Travis' late throw to 1B","1941PHA.EVA.regular.comment.csv",18
+"PHA194107240",32,"arbitrary 53 to 3/G","1941PHA.EVA.regular.comment.csv",19
+"PHA194107300",0,"game played in the rain","1941PHA.EVA.regular.comment.csv",20
+"PHA194107300",67,"$Luke Appling rounded 2B too far","1941PHA.EVA.regular.comment.csv",21
+"PHA194108020",10,"$Ken Keltner called for interference for running into his own bunt","1941PHA.EVA.regular.comment.csv",22
+"PHA194108090",2,"$Johnny Babich struck on pitching had by ball","1941PHA.EVA.regular.comment.csv",23
+"PHA194108120",32,"$Moses left with pulled muscle","1941PHA.EVA.regular.comment.csv",24
+"PHA194109150",80,"reconstructed from here","1941PHA.EVA.regular.comment.csv",25
+"PHA194109282",69,"$Game called for darkness","1941PHA.EVA.regular.comment.csv",26

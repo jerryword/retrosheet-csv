@@ -1,22 +1,23 @@
-"LAN198204070",1,"Debut game for Alan Fowlkes","FILENAME_TX","LINE_NUMBER_CT"
-"LAN198206110",18,"$Steve Sax hit a ground ball back to Frank Pastore, who looked at Mike Scioscia, who was hung up off 3B, and didn't recognize what he was seeing; instead, Pastore threw out Sax at 1B, while the reprieved Scioscia ran the rest of the way to HP","1982LAN.EVN.regular.comment.csv",2
-"LAN198206302",67,"ej,bevak001,P,westj901,Leaving bench to charge mound after HBP $Kurt Bevacqua charged the mound from the bench and was ejected by 1B umpire Joe West; Bevacqua was not in the game","1982LAN.EVN.regular.comment.csv",3
-"LAN198207020",36,"ej,virdb101,M,monte901,Balls and strikes $Astros manager Virdon ejected by HP umpire Montague during Scioscia's at bat","1982LAN.EVN.regular.comment.csv",4
-"LAN198207030",0,"Protest=H","1982LAN.EVN.regular.comment.csv",5
-"LAN198207030",46,"$Ron Roenicke called for interference; Dodgers manager Tommy Lasorda protested game","1982LAN.EVN.regular.comment.csv",6
-"LAN198207160",61,"missing play in LAN198207160","1982LAN.EVN.regular.comment.csv",7
-"LAN198207180",50,"ej,bambg101,M,crawj901,Checked swing ej,freyj801,C,crawj901,Checked swing $ets manager Bamberger and coach Frey ejected by HP umpire Crawford aguing a checked swing call on Valentine","1982LAN.EVN.regular.comment.csv",8
-"LAN198207250",20,"Debut game for Don Crow","1982LAN.EVN.regular.comment.csv",9
-"LAN198208050",42,"$Fernando Valenzuela was hit by Bob Horner's line drive","1982LAN.EVN.regular.comment.csv",10
-"LAN198208070",68,"ej,torrj101,M,tatat901,Dropped strike 3 $Braves manager Torre ejected by HP umpire Tata for arguing strike 3 had been dropped","1982LAN.EVN.regular.comment.csv",11
-"LAN198208140",68,"$Johnny LeMaster left with a pulled thigh muscle","1982LAN.EVN.regular.comment.csv",12
-"LAN198209010",59,"Debut game for Greg Brock","1982LAN.EVN.regular.comment.csv",13
-"LAN198209010",105,"Debut game for Kelly Paris","1982LAN.EVN.regular.comment.csv",14
-"LAN198209010",116,"Debut game for Dave Sax","1982LAN.EVN.regular.comment.csv",15
-"LAN198209040",0,"$Willie Stargell day at Dodger Stadium","1982LAN.EVN.regular.comment.csv",16
-"LAN198209040",1,"Debut game for Lee Tunnell","1982LAN.EVN.regular.comment.csv",17
-"LAN198209040",28,"$Omar Moreno left with stiff lower back","1982LAN.EVN.regular.comment.csv",18
-"LAN198209050",54,"$Ron Cey left with a pulled thigh muscle","1982LAN.EVN.regular.comment.csv",19
-"LAN198209050",58,"Debut game for Doug Frobel","1982LAN.EVN.regular.comment.csv",20
-"LAN198209260",0,"2:53 rain delay before start of game","1982LAN.EVN.regular.comment.csv",21
-"LAN198209280",42,"$Dusty Baker called for interference","1982LAN.EVN.regular.comment.csv",22
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"LAN198204070",1,"Debut game for Alan Fowlkes","1982LAN.EVN.regular.comment.csv",2
+"LAN198206110",18,"$Steve Sax hit a ground ball back to Frank Pastore, who looked at Mike Scioscia, who was hung up off 3B, and didn't recognize what he was seeing; instead, Pastore threw out Sax at 1B, while the reprieved Scioscia ran the rest of the way to HP","1982LAN.EVN.regular.comment.csv",3
+"LAN198206302",67,"ej,bevak001,P,westj901,Leaving bench to charge mound after HBP $Kurt Bevacqua charged the mound from the bench and was ejected by 1B umpire Joe West; Bevacqua was not in the game","1982LAN.EVN.regular.comment.csv",4
+"LAN198207020",36,"ej,virdb101,M,monte901,Balls and strikes $Astros manager Virdon ejected by HP umpire Montague during Scioscia's at bat","1982LAN.EVN.regular.comment.csv",5
+"LAN198207030",0,"Protest=H","1982LAN.EVN.regular.comment.csv",6
+"LAN198207030",46,"$Ron Roenicke called for interference; Dodgers manager Tommy Lasorda protested game","1982LAN.EVN.regular.comment.csv",7
+"LAN198207160",61,"missing play in LAN198207160","1982LAN.EVN.regular.comment.csv",8
+"LAN198207180",50,"ej,bambg101,M,crawj901,Checked swing ej,freyj801,C,crawj901,Checked swing $ets manager Bamberger and coach Frey ejected by HP umpire Crawford aguing a checked swing call on Valentine","1982LAN.EVN.regular.comment.csv",9
+"LAN198207250",20,"Debut game for Don Crow","1982LAN.EVN.regular.comment.csv",10
+"LAN198208050",42,"$Fernando Valenzuela was hit by Bob Horner's line drive","1982LAN.EVN.regular.comment.csv",11
+"LAN198208070",68,"ej,torrj101,M,tatat901,Dropped strike 3 $Braves manager Torre ejected by HP umpire Tata for arguing strike 3 had been dropped","1982LAN.EVN.regular.comment.csv",12
+"LAN198208140",68,"$Johnny LeMaster left with a pulled thigh muscle","1982LAN.EVN.regular.comment.csv",13
+"LAN198209010",59,"Debut game for Greg Brock","1982LAN.EVN.regular.comment.csv",14
+"LAN198209010",105,"Debut game for Kelly Paris","1982LAN.EVN.regular.comment.csv",15
+"LAN198209010",116,"Debut game for Dave Sax","1982LAN.EVN.regular.comment.csv",16
+"LAN198209040",0,"$Willie Stargell day at Dodger Stadium","1982LAN.EVN.regular.comment.csv",17
+"LAN198209040",1,"Debut game for Lee Tunnell","1982LAN.EVN.regular.comment.csv",18
+"LAN198209040",28,"$Omar Moreno left with stiff lower back","1982LAN.EVN.regular.comment.csv",19
+"LAN198209050",54,"$Ron Cey left with a pulled thigh muscle","1982LAN.EVN.regular.comment.csv",20
+"LAN198209050",58,"Debut game for Doug Frobel","1982LAN.EVN.regular.comment.csv",21
+"LAN198209260",0,"2:53 rain delay before start of game","1982LAN.EVN.regular.comment.csv",22
+"LAN198209280",42,"$Dusty Baker called for interference","1982LAN.EVN.regular.comment.csv",23

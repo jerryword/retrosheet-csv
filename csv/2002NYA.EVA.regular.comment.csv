@@ -1,22 +1,23 @@
-"NYA200204170",66,"Debut game for Erik Bedard","FILENAME_TX","LINE_NUMBER_CT"
-"NYA200204300",48,"1:47 rain delay","2002NYA.EVA.regular.comment.csv",2
-"NYA200205030",64,"$Jeff Cirillo called for interference","2002NYA.EVA.regular.comment.csv",3
-"NYA200205180",50,"ej,gardr001,M,darlg901,Arguing checked swing $Twins manager Gardenhire ejected by HP umpire Darling for arguing that Blake checked his swing on strike 3","2002NYA.EVA.regular.comment.csv",4
-"NYA200205200",51,"ej,connm801,C,dimum901,Balls and strikes Blue Jays coach Mark Connor ejected by HP umpire Mike DiMuro when DiMuro went to mound to break up conference between Connor and Eyre","2002NYA.EVA.regular.comment.csv",5
-"NYA200205310",0,"1:14 rain delay in the 1st","2002NYA.EVA.regular.comment.csv",6
-"NYA200206080",0,"$NYA rookie RF Juan Rivera took wrong train to the stadium and then ran into a maintenance truck during batting practice, breaking his kneecap","2002NYA.EVA.regular.comment.csv",7
-"NYA200206080",3,"$Bonds first home run at Yankee Stadium (#588 of career)","2002NYA.EVA.regular.comment.csv",8
-"NYA200206100",20,"Debut game for Marcus Thames $homer on first pitch of first ML at bat","2002NYA.EVA.regular.comment.csv",9
-"NYA200206280",57,"Debut game for Jaime Cerda","2002NYA.EVA.regular.comment.csv",10
-"NYA200207200",66,"ej,littg801,M,relic901,Checked swing Red Sox Manager Grady Little ejected by 1B umpire Charlie Reliford for arguing a checked swing on the third strike by Ramirez","2002NYA.EVA.regular.comment.csv",11
-"NYA200207210",78,"ej,offej001,P,hudsm901,Call at 3B Jose Offerman ejected by 3B umpire Marvin Hudson","2002NYA.EVA.regular.comment.csv",12
-"NYA200207210",83,"$five infielders for Boston and Ramirez in shallow CF","2002NYA.EVA.regular.comment.csv",13
-"NYA200209020",53,"1:29 rain delay","2002NYA.EVA.regular.comment.csv",14
-"NYA200209050",74,"Debut game for Drew Henson","2002NYA.EVA.regular.comment.csv",15
-"NYA200209070",16,"Debut game for Omar Infante","2002NYA.EVA.regular.comment.csv",16
-"NYA200209070",48,"Debut game for Franklyn German","2002NYA.EVA.regular.comment.csv",17
-"NYA200209101",61,"$hit on the right arm; Giambi glared at Roberts, took a step towards the mound and then went to 1B; both teams were warned","2002NYA.EVA.regular.comment.csv",18
-"NYA200209110",71,"ej,torrj101,M,herna901,Called third strike ej,ventr001,P,herna901,Called third strike Robin Ventura and Yankees Manager Joe Torre ejected by HP umpire Angel Hernandez","2002NYA.EVA.regular.comment.csv",19
-"NYA200209150",0,"3 rain delays in the 3rd & 6th totaling 1:56","2002NYA.EVA.regular.comment.csv",20
-"NYA200209150",15,"Debut game for Miguel Olivo $84th player to homer in first ML at bat","2002NYA.EVA.regular.comment.csv",21
-"NYA200209150",50,"$Game called for rain","2002NYA.EVA.regular.comment.csv",22
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"NYA200204170",66,"Debut game for Erik Bedard","2002NYA.EVA.regular.comment.csv",2
+"NYA200204300",48,"1:47 rain delay","2002NYA.EVA.regular.comment.csv",3
+"NYA200205030",64,"$Jeff Cirillo called for interference","2002NYA.EVA.regular.comment.csv",4
+"NYA200205180",50,"ej,gardr001,M,darlg901,Arguing checked swing $Twins manager Gardenhire ejected by HP umpire Darling for arguing that Blake checked his swing on strike 3","2002NYA.EVA.regular.comment.csv",5
+"NYA200205200",51,"ej,connm801,C,dimum901,Balls and strikes Blue Jays coach Mark Connor ejected by HP umpire Mike DiMuro when DiMuro went to mound to break up conference between Connor and Eyre","2002NYA.EVA.regular.comment.csv",6
+"NYA200205310",0,"1:14 rain delay in the 1st","2002NYA.EVA.regular.comment.csv",7
+"NYA200206080",0,"$NYA rookie RF Juan Rivera took wrong train to the stadium and then ran into a maintenance truck during batting practice, breaking his kneecap","2002NYA.EVA.regular.comment.csv",8
+"NYA200206080",3,"$Bonds first home run at Yankee Stadium (#588 of career)","2002NYA.EVA.regular.comment.csv",9
+"NYA200206100",20,"Debut game for Marcus Thames $homer on first pitch of first ML at bat","2002NYA.EVA.regular.comment.csv",10
+"NYA200206280",57,"Debut game for Jaime Cerda","2002NYA.EVA.regular.comment.csv",11
+"NYA200207200",66,"ej,littg801,M,relic901,Checked swing Red Sox Manager Grady Little ejected by 1B umpire Charlie Reliford for arguing a checked swing on the third strike by Ramirez","2002NYA.EVA.regular.comment.csv",12
+"NYA200207210",78,"ej,offej001,P,hudsm901,Call at 3B Jose Offerman ejected by 3B umpire Marvin Hudson","2002NYA.EVA.regular.comment.csv",13
+"NYA200207210",83,"$five infielders for Boston and Ramirez in shallow CF","2002NYA.EVA.regular.comment.csv",14
+"NYA200209020",53,"1:29 rain delay","2002NYA.EVA.regular.comment.csv",15
+"NYA200209050",74,"Debut game for Drew Henson","2002NYA.EVA.regular.comment.csv",16
+"NYA200209070",16,"Debut game for Omar Infante","2002NYA.EVA.regular.comment.csv",17
+"NYA200209070",48,"Debut game for Franklyn German","2002NYA.EVA.regular.comment.csv",18
+"NYA200209101",61,"$hit on the right arm; Giambi glared at Roberts, took a step towards the mound and then went to 1B; both teams were warned","2002NYA.EVA.regular.comment.csv",19
+"NYA200209110",71,"ej,torrj101,M,herna901,Called third strike ej,ventr001,P,herna901,Called third strike Robin Ventura and Yankees Manager Joe Torre ejected by HP umpire Angel Hernandez","2002NYA.EVA.regular.comment.csv",20
+"NYA200209150",0,"3 rain delays in the 3rd & 6th totaling 1:56","2002NYA.EVA.regular.comment.csv",21
+"NYA200209150",15,"Debut game for Miguel Olivo $84th player to homer in first ML at bat","2002NYA.EVA.regular.comment.csv",22
+"NYA200209150",50,"$Game called for rain","2002NYA.EVA.regular.comment.csv",23

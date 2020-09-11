@@ -1,27 +1,28 @@
-"NYA193704260",33,"$Bill Dickey pulled a muscle running the bases","FILENAME_TX","LINE_NUMBER_CT"
-"NYA193705210",79,"$Bennie Huffman struck by foul ball","1937NYA.EVA.regular.comment.csv",2
-"NYA193705230",17,"$Frank Crosetti intentionally dropped the pop up","1937NYA.EVA.regular.comment.csv",3
-"NYA193705230",32,"$rain delay","1937NYA.EVA.regular.comment.csv",4
-"NYA193705250",37,"$Mickey Cochrane suffered a fractured skull","1937NYA.EVA.regular.comment.csv",5
-"NYA193705270",47,"$Hank Greenberg left with a charley horse","1937NYA.EVA.regular.comment.csv",6
-"NYA193705270",85,"pbp account ends here, rest deduced","1937NYA.EVA.regular.comment.csv",7
-"NYA193705270",100,"$Schoolboy Rowe left with a sore arm","1937NYA.EVA.regular.comment.csv",8
-"NYA193705291",71,"$Frank Crosetti pulled the hidden ball trick","1937NYA.EVA.regular.comment.csv",9
-"NYA193707052",4,"$Myril Hoag crashed into the wall trying for Joe Cronin's hit","1937NYA.EVA.regular.comment.csv",10
-"NYA193707090",60,"ej,powej106,P,hubbc901,Fighting ej,kuhej101,P,hubbc901,Fighting $Powell and 1bman Kuhel ejected by HP umpire Hubbard for fighting; Powell bumped Kuhel as he crossed bag on ground out; they began fighting and were immediately ejected","1937NYA.EVA.regular.comment.csv",11
-"NYA193707112",80,"$game called due to darkness","1937NYA.EVA.regular.comment.csv",12
-"NYA193707280",74,"$Gee Walker was tagged out before Charlie Gehringer touched HP","1937NYA.EVA.regular.comment.csv",13
-"NYA193708032",63,"$Luke Sewell turned toward 2B and was tagged out","1937NYA.EVA.regular.comment.csv",14
-"NYA193708040",28,"ej,dykej101,M,owenb901,Balls and strikes $HP umpire Brick Owens ruled a swing but 1B umpire George Moriarty overruled Owens; White Sox Manager Jimmy Dykes ejected by Owens","1937NYA.EVA.regular.comment.csv",15
-"NYA193708060",0,"Protest=V Forfeit=T","1937NYA.EVA.regular.comment.csv",16
-"NYA193708060",44,"$Earl Averill intentionally dropped the fly ball","1937NYA.EVA.regular.comment.csv",17
-"NYA193708060",95,"$Joe DiMaggio's long fly ruled foul by HP umpire Charles Johnston and overruled by 3B umpire George Moriarity allowing the winning run to score; Indians manager Steve O'Neill protested saying Moose Solters could have cut off the winning run at the plate if the umpire had not signaled foul; on 8/31, AL president Will Harridge ruled that the umpire should have sent the winning run back to 3B; Harridge ruled no decision in contest","1937NYA.EVA.regular.comment.csv",18
-"NYA193708080",0,"27 minute rain delay before start of game","1937NYA.EVA.regular.comment.csv",19
-"NYA193708080",67,"ej,weatr101,P,johnc901,Call at 1B Roy Weatherly ejected by 1B umpire Charles Johnston","1937NYA.EVA.regular.comment.csv",20
-"NYA193708210",76,"$game called due to rain","1937NYA.EVA.regular.comment.csv",21
-"NYA193708220",24,"ej,finnl101,P,hubbc901,Called third strike Lou Finney ejected by HP umpire Cal Hubbard","1937NYA.EVA.regular.comment.csv",22
-"NYA193708220",45,"$game called due to rain","1937NYA.EVA.regular.comment.csv",23
-"NYA193709292",61,"$game called due to darkness","1937NYA.EVA.regular.comment.csv",24
-"NYA193709301",0,"ej,gomel102,P,summb901,Bench jockeying Lefty Gomez ejected by 3B umpire Bill Summers sometime in game","1937NYA.EVA.regular.comment.csv",25
-"NYA193709302",63,"$game called due to darkness","1937NYA.EVA.regular.comment.csv",26
-"NYA193710010",69,"$game called due to rain","1937NYA.EVA.regular.comment.csv",27
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"NYA193704260",33,"$Bill Dickey pulled a muscle running the bases","1937NYA.EVA.regular.comment.csv",2
+"NYA193705210",79,"$Bennie Huffman struck by foul ball","1937NYA.EVA.regular.comment.csv",3
+"NYA193705230",17,"$Frank Crosetti intentionally dropped the pop up","1937NYA.EVA.regular.comment.csv",4
+"NYA193705230",32,"$rain delay","1937NYA.EVA.regular.comment.csv",5
+"NYA193705250",37,"$Mickey Cochrane suffered a fractured skull","1937NYA.EVA.regular.comment.csv",6
+"NYA193705270",47,"$Hank Greenberg left with a charley horse","1937NYA.EVA.regular.comment.csv",7
+"NYA193705270",85,"pbp account ends here, rest deduced","1937NYA.EVA.regular.comment.csv",8
+"NYA193705270",100,"$Schoolboy Rowe left with a sore arm","1937NYA.EVA.regular.comment.csv",9
+"NYA193705291",71,"$Frank Crosetti pulled the hidden ball trick","1937NYA.EVA.regular.comment.csv",10
+"NYA193707052",4,"$Myril Hoag crashed into the wall trying for Joe Cronin's hit","1937NYA.EVA.regular.comment.csv",11
+"NYA193707090",60,"ej,powej106,P,hubbc901,Fighting ej,kuhej101,P,hubbc901,Fighting $Powell and 1bman Kuhel ejected by HP umpire Hubbard for fighting; Powell bumped Kuhel as he crossed bag on ground out; they began fighting and were immediately ejected","1937NYA.EVA.regular.comment.csv",12
+"NYA193707112",80,"$game called due to darkness","1937NYA.EVA.regular.comment.csv",13
+"NYA193707280",74,"$Gee Walker was tagged out before Charlie Gehringer touched HP","1937NYA.EVA.regular.comment.csv",14
+"NYA193708032",63,"$Luke Sewell turned toward 2B and was tagged out","1937NYA.EVA.regular.comment.csv",15
+"NYA193708040",28,"ej,dykej101,M,owenb901,Balls and strikes $HP umpire Brick Owens ruled a swing but 1B umpire George Moriarty overruled Owens; White Sox Manager Jimmy Dykes ejected by Owens","1937NYA.EVA.regular.comment.csv",16
+"NYA193708060",0,"Protest=V Forfeit=T","1937NYA.EVA.regular.comment.csv",17
+"NYA193708060",44,"$Earl Averill intentionally dropped the fly ball","1937NYA.EVA.regular.comment.csv",18
+"NYA193708060",95,"$Joe DiMaggio's long fly ruled foul by HP umpire Charles Johnston and overruled by 3B umpire George Moriarity allowing the winning run to score; Indians manager Steve O'Neill protested saying Moose Solters could have cut off the winning run at the plate if the umpire had not signaled foul; on 8/31, AL president Will Harridge ruled that the umpire should have sent the winning run back to 3B; Harridge ruled no decision in contest","1937NYA.EVA.regular.comment.csv",19
+"NYA193708080",0,"27 minute rain delay before start of game","1937NYA.EVA.regular.comment.csv",20
+"NYA193708080",67,"ej,weatr101,P,johnc901,Call at 1B Roy Weatherly ejected by 1B umpire Charles Johnston","1937NYA.EVA.regular.comment.csv",21
+"NYA193708210",76,"$game called due to rain","1937NYA.EVA.regular.comment.csv",22
+"NYA193708220",24,"ej,finnl101,P,hubbc901,Called third strike Lou Finney ejected by HP umpire Cal Hubbard","1937NYA.EVA.regular.comment.csv",23
+"NYA193708220",45,"$game called due to rain","1937NYA.EVA.regular.comment.csv",24
+"NYA193709292",61,"$game called due to darkness","1937NYA.EVA.regular.comment.csv",25
+"NYA193709301",0,"ej,gomel102,P,summb901,Bench jockeying Lefty Gomez ejected by 3B umpire Bill Summers sometime in game","1937NYA.EVA.regular.comment.csv",26
+"NYA193709302",63,"$game called due to darkness","1937NYA.EVA.regular.comment.csv",27
+"NYA193710010",69,"$game called due to rain","1937NYA.EVA.regular.comment.csv",28

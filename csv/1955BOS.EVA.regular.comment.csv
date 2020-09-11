@@ -1,30 +1,31 @@
-"BOS195504140",46,"ej,baueh101,P,mckib901,Call at HP ej,norei101,P,mckib901,Call at HP Irv Noren and Hank Bauer ejected by HP umpire Bill McKinley","FILENAME_TX","LINE_NUMBER_CT"
-"BOS195504150",56,"Lepcio probably reached base by W in bottom of 7th","1955BOS.EVA.regular.comment.csv",2
-"BOS195505120",83,"missing play in BOS195505120","1955BOS.EVA.regular.comment.csv",3
-"BOS195505130",0,"Protest=V","1955BOS.EVA.regular.comment.csv",4
-"BOS195505130",63,"ej,boudl101,M,berrc103,Resumption of game in rain $1:23 rain delay; Athletics Manager Lou Boudreau ejected by HP umpire Charlie Berry; Boudreau announced he was playing under protest because action had started before the rain had stopped","1955BOS.EVA.regular.comment.csv",5
-"BOS195505151",7,"$Gene Stephens rounded 2B too far","1955BOS.EVA.regular.comment.csv",6
-"BOS195505180",0,"this game, like most with this Cleveland scorer must be checked for assists, since he writes '4' for a '43'. Comparison to NY Times box shows at least 9 assists missing in our account","1955BOS.EVA.regular.comment.csv",7
-"BOS195505180",38,"$Dave Philley scored when Billy Goodman dropped relay throw","1955BOS.EVA.regular.comment.csv",8
-"BOS195505302",74,"ej,pierj102,P,papaj901,Catch/trap call Jim Piersall ejected by 2B umpire Joe Paparella arguing the ball was trapped","1955BOS.EVA.regular.comment.csv",9
-"BOS195506150",31,"missing play in BOS195506150","1955BOS.EVA.regular.comment.csv",10
-"BOS195506150",76,"All plays from this one on are guesses from a hard to read scorecard","1955BOS.EVA.regular.comment.csv",11
-"BOS195506160",30,"missing fielders in BOS195506160","1955BOS.EVA.regular.comment.csv",12
-"BOS195506172",17,"guess","1955BOS.EVA.regular.comment.csv",13
-"BOS195506190",68,"ej,woodg101,P,summb901,Call at 1B ej,wertv101,P,summb901,Call at 1B Gene Woodling and Vic Wertz ejected by 1B umpire Bill Summers","1955BOS.EVA.regular.comment.csv",14
-"BOS195506210",48,"Sheet very hard to read","1955BOS.EVA.regular.comment.csv",15
-"BOS195506220",0,"ej,hitcb101,C,berrc103,Balls and strikes Tigers Coach Billy Hitchcock ejected by HP umpire Charlie Berry sometime in game","1955BOS.EVA.regular.comment.csv",16
-"BOS195506240",75,"$Chico Carrasquel caught Sammy White with the hidden ball trick to complete the double play","1955BOS.EVA.regular.comment.csv",17
-"BOS195506262",27,"$Jim Brideweser spiked by Jackie Jensen","1955BOS.EVA.regular.comment.csv",18
-"BOS195506262",30,"$Jim Brideweser left game due to spiking","1955BOS.EVA.regular.comment.csv",19
-"BOS195507300",80,"ej,housf103,P,romme101,Catch/trap call Al Kaline and Frank House argue that Kaline caught the sinking liner; House ejected by 2B umpire Eddie Rommel","1955BOS.EVA.regular.comment.csv",20
-"BOS195507311",3,"$Al Kaline hit on left arm","1955BOS.EVA.regular.comment.csv",21
-"BOS195507311",68,"$Jim Piersall reached over bullpen wall to rob Earl Torgeson of homer","1955BOS.EVA.regular.comment.csv",22
-"BOS195507312",67,"ej,hatff101,P,romme101,Bench jockeying ej,hitcb101,C,romme101,Bench jockeying $SS Harvey Kuenn shifted from left side to right side of 2B during Williams' at bat; after Kuenn moved four times before a pitch; Williams asked HP umpire Eddie Rommel if that was legal; Red Sox manager Pinky Higgins told Rommel he would protest the game if Kuenn continued; Rommel told Tigers manager Bucky Harris to have Kuenn stop; Fred Hatfield and Tigers Coach Billy Hitchcock ejected by Rommel for heckling","1955BOS.EVA.regular.comment.csv",23
-"BOS195508130",0,"game 2 of scheduled double header rained out","1955BOS.EVA.regular.comment.csv",24
-"BOS195508130",23,"59 minute rain delay during bottom of the third","1955BOS.EVA.regular.comment.csv",25
-"BOS195509052",23,"$Eddie Yost missed tag at 3B","1955BOS.EVA.regular.comment.csv",26
-"BOS195509100",24,"$1B umpire John Rice ruled a trap by Gene Woodling; this was disputed by Woodling and ndians Manager Al Lopez","1955BOS.EVA.regular.comment.csv",27
-"BOS195509100",58,"ej,lopea102,M,nappl901,Call at 2B Indians Manager Al Lopez ejected by 2B umpire Larry Napp","1955BOS.EVA.regular.comment.csv",28
-"BOS195509140",26,"$Ted Williams left the game with a bruised right ankle, which was struck by his own batted ball","1955BOS.EVA.regular.comment.csv",29
-"BOS195509251",36,"possibly an advance 2-3","1955BOS.EVA.regular.comment.csv",30
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"BOS195504140",46,"ej,baueh101,P,mckib901,Call at HP ej,norei101,P,mckib901,Call at HP Irv Noren and Hank Bauer ejected by HP umpire Bill McKinley","1955BOS.EVA.regular.comment.csv",2
+"BOS195504150",56,"Lepcio probably reached base by W in bottom of 7th","1955BOS.EVA.regular.comment.csv",3
+"BOS195505120",83,"missing play in BOS195505120","1955BOS.EVA.regular.comment.csv",4
+"BOS195505130",0,"Protest=V","1955BOS.EVA.regular.comment.csv",5
+"BOS195505130",63,"ej,boudl101,M,berrc103,Resumption of game in rain $1:23 rain delay; Athletics Manager Lou Boudreau ejected by HP umpire Charlie Berry; Boudreau announced he was playing under protest because action had started before the rain had stopped","1955BOS.EVA.regular.comment.csv",6
+"BOS195505151",7,"$Gene Stephens rounded 2B too far","1955BOS.EVA.regular.comment.csv",7
+"BOS195505180",0,"this game, like most with this Cleveland scorer must be checked for assists, since he writes '4' for a '43'. Comparison to NY Times box shows at least 9 assists missing in our account","1955BOS.EVA.regular.comment.csv",8
+"BOS195505180",38,"$Dave Philley scored when Billy Goodman dropped relay throw","1955BOS.EVA.regular.comment.csv",9
+"BOS195505302",74,"ej,pierj102,P,papaj901,Catch/trap call Jim Piersall ejected by 2B umpire Joe Paparella arguing the ball was trapped","1955BOS.EVA.regular.comment.csv",10
+"BOS195506150",31,"missing play in BOS195506150","1955BOS.EVA.regular.comment.csv",11
+"BOS195506150",76,"All plays from this one on are guesses from a hard to read scorecard","1955BOS.EVA.regular.comment.csv",12
+"BOS195506160",30,"missing fielders in BOS195506160","1955BOS.EVA.regular.comment.csv",13
+"BOS195506172",17,"guess","1955BOS.EVA.regular.comment.csv",14
+"BOS195506190",68,"ej,woodg101,P,summb901,Call at 1B ej,wertv101,P,summb901,Call at 1B Gene Woodling and Vic Wertz ejected by 1B umpire Bill Summers","1955BOS.EVA.regular.comment.csv",15
+"BOS195506210",48,"Sheet very hard to read","1955BOS.EVA.regular.comment.csv",16
+"BOS195506220",0,"ej,hitcb101,C,berrc103,Balls and strikes Tigers Coach Billy Hitchcock ejected by HP umpire Charlie Berry sometime in game","1955BOS.EVA.regular.comment.csv",17
+"BOS195506240",75,"$Chico Carrasquel caught Sammy White with the hidden ball trick to complete the double play","1955BOS.EVA.regular.comment.csv",18
+"BOS195506262",27,"$Jim Brideweser spiked by Jackie Jensen","1955BOS.EVA.regular.comment.csv",19
+"BOS195506262",30,"$Jim Brideweser left game due to spiking","1955BOS.EVA.regular.comment.csv",20
+"BOS195507300",80,"ej,housf103,P,romme101,Catch/trap call Al Kaline and Frank House argue that Kaline caught the sinking liner; House ejected by 2B umpire Eddie Rommel","1955BOS.EVA.regular.comment.csv",21
+"BOS195507311",3,"$Al Kaline hit on left arm","1955BOS.EVA.regular.comment.csv",22
+"BOS195507311",68,"$Jim Piersall reached over bullpen wall to rob Earl Torgeson of homer","1955BOS.EVA.regular.comment.csv",23
+"BOS195507312",67,"ej,hatff101,P,romme101,Bench jockeying ej,hitcb101,C,romme101,Bench jockeying $SS Harvey Kuenn shifted from left side to right side of 2B during Williams' at bat; after Kuenn moved four times before a pitch; Williams asked HP umpire Eddie Rommel if that was legal; Red Sox manager Pinky Higgins told Rommel he would protest the game if Kuenn continued; Rommel told Tigers manager Bucky Harris to have Kuenn stop; Fred Hatfield and Tigers Coach Billy Hitchcock ejected by Rommel for heckling","1955BOS.EVA.regular.comment.csv",24
+"BOS195508130",0,"game 2 of scheduled double header rained out","1955BOS.EVA.regular.comment.csv",25
+"BOS195508130",23,"59 minute rain delay during bottom of the third","1955BOS.EVA.regular.comment.csv",26
+"BOS195509052",23,"$Eddie Yost missed tag at 3B","1955BOS.EVA.regular.comment.csv",27
+"BOS195509100",24,"$1B umpire John Rice ruled a trap by Gene Woodling; this was disputed by Woodling and ndians Manager Al Lopez","1955BOS.EVA.regular.comment.csv",28
+"BOS195509100",58,"ej,lopea102,M,nappl901,Call at 2B Indians Manager Al Lopez ejected by 2B umpire Larry Napp","1955BOS.EVA.regular.comment.csv",29
+"BOS195509140",26,"$Ted Williams left the game with a bruised right ankle, which was struck by his own batted ball","1955BOS.EVA.regular.comment.csv",30
+"BOS195509251",36,"possibly an advance 2-3","1955BOS.EVA.regular.comment.csv",31

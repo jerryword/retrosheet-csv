@@ -1,36 +1,37 @@
-"SLN196104140",45,"450 feet","FILENAME_TX","LINE_NUMBER_CT"
-"SLN196104140",82,"Debut game for Jerry Zimmerman","1961SLN.EVN.regular.comment.csv",2
-"SLN196104150",0,"Protest=V","1961SLN.EVN.regular.comment.csv",3
-"SLN196104150",29,"$lights turned on","1961SLN.EVN.regular.comment.csv",4
-"SLN196104150",51,"Game called after 47 minute rain delay; Reds manager Fred Hutchinson protested the game because it should have been called in the 2nd or 3rd inning","1961SLN.EVN.regular.comment.csv",5
-"SLN196104160",47,"Debut game for Ken Hunt","1961SLN.EVN.regular.comment.csv",6
-"SLN196104280",49,"Debut game for Jack Baldschun","1961SLN.EVN.regular.comment.csv",7
-"SLN196105020",55,"$Bob Nieman tore hamstring muscle","1961SLN.EVN.regular.comment.csv",8
-"SLN196105030",34,"$Ken Boyer trapped in rundown between 3B and HP","1961SLN.EVN.regular.comment.csv",9
-"SLN196105060",4,"$off Ray Sadecki's right knee","1961SLN.EVN.regular.comment.csv",10
-"SLN196105070",28,"$a security guard picked up Joe Cunningham's drive off the LF wall and lobbed it to Billy Williams; Cunningham reached 3B but was sent back to 2B on the interference","1961SLN.EVN.regular.comment.csv",11
-"SLN196105070",44,"Game called due to heavy rain; second game of doubleheader cancelled; played on 7/17","1961SLN.EVN.regular.comment.csv",12
-"SLN196105230",2,"$onto the RF roof","1961SLN.EVN.regular.comment.csv",13
-"SLN196105240",8,"$onto the roof","1961SLN.EVN.regular.comment.csv",14
-"SLN196105240",43,"$onto the roof","1961SLN.EVN.regular.comment.csv",15
-"SLN196106062",0,"1:20 rain delay before start of game","1961SLN.EVN.regular.comment.csv",16
-"SLN196106062",85,"$game called due to curfew as no inning can start after 12:50 AM","1961SLN.EVN.regular.comment.csv",17
-"SLN196106230",56,"Debut game for Craig Anderson","1961SLN.EVN.regular.comment.csv",18
-"SLN196106251",78,"$Julio Gotay called for obstruction","1961SLN.EVN.regular.comment.csv",19
-"SLN196107130",1,"Debut game for Mack Jones","1961SLN.EVN.regular.comment.csv",20
-"SLN196107182",11,"Dick Drott left with aching side","1961SLN.EVN.regular.comment.csv",21
-"SLN196107220",38,"1:23 rain delay","1961SLN.EVN.regular.comment.csv",22
-"SLN196107230",54,"ej,podrj101,P,pelec901,Balls and strikes ej,alstw101,M,pelec901,Balls and strikes Johnny Podres and Dodgers Manager Walter Alston ejected by HP umpire Chris Pelekoudas","1961SLN.EVN.regular.comment.csv",23
-"SLN196108020",6,"$Joe Cunningham called for interference","1961SLN.EVN.regular.comment.csv",24
-"SLN196108020",38,"Bob Friend struck by Julian Javier's line drive","1961SLN.EVN.regular.comment.csv",25
-"SLN196108080",60,"ej,jay-j101,P,pelec901,Call at 1B (not in game) Joey Jay ejected by 1B umpire Chris Pelekoudas for yelling from the bench on the play at 1B","1961SLN.EVN.regular.comment.csv",26
-"SLN196108230",69,"$onto the roof","1961SLN.EVN.regular.comment.csv",27
-"SLN196108230",77,"Norm Sherry hurt knee on foul ball","1961SLN.EVN.regular.comment.csv",28
-"SLN196108240",7,"$onto the roof","1961SLN.EVN.regular.comment.csv",29
-"SLN196108240",40,"Ernie Broglio left with injured arm","1961SLN.EVN.regular.comment.csv",30
-"SLN196109010",75,"$off RF pole","1961SLN.EVN.regular.comment.csv",31
-"SLN196109110",0,"Debut for umpire Frank Walsh","1961SLN.EVN.regular.comment.csv",32
-"SLN196109190",10,"ej,walkh102,C,varge901,Call at 1B Cardinals Coach Harry Walker ejected by 1B umpire Ed Vargo","1961SLN.EVN.regular.comment.csv",33
-"SLN196109200",46,"Debut game for Ray Washburn","1961SLN.EVN.regular.comment.csv",34
-"SLN196109220",8,"$onto the roof","1961SLN.EVN.regular.comment.csv",35
-"SLN196109240",0,"26 minute rain delay before start of game","1961SLN.EVN.regular.comment.csv",36
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"SLN196104140",45,"450 feet","1961SLN.EVN.regular.comment.csv",2
+"SLN196104140",82,"Debut game for Jerry Zimmerman","1961SLN.EVN.regular.comment.csv",3
+"SLN196104150",0,"Protest=V","1961SLN.EVN.regular.comment.csv",4
+"SLN196104150",29,"$lights turned on","1961SLN.EVN.regular.comment.csv",5
+"SLN196104150",51,"Game called after 47 minute rain delay; Reds manager Fred Hutchinson protested the game because it should have been called in the 2nd or 3rd inning","1961SLN.EVN.regular.comment.csv",6
+"SLN196104160",47,"Debut game for Ken Hunt","1961SLN.EVN.regular.comment.csv",7
+"SLN196104280",49,"Debut game for Jack Baldschun","1961SLN.EVN.regular.comment.csv",8
+"SLN196105020",55,"$Bob Nieman tore hamstring muscle","1961SLN.EVN.regular.comment.csv",9
+"SLN196105030",34,"$Ken Boyer trapped in rundown between 3B and HP","1961SLN.EVN.regular.comment.csv",10
+"SLN196105060",4,"$off Ray Sadecki's right knee","1961SLN.EVN.regular.comment.csv",11
+"SLN196105070",28,"$a security guard picked up Joe Cunningham's drive off the LF wall and lobbed it to Billy Williams; Cunningham reached 3B but was sent back to 2B on the interference","1961SLN.EVN.regular.comment.csv",12
+"SLN196105070",44,"Game called due to heavy rain; second game of doubleheader cancelled; played on 7/17","1961SLN.EVN.regular.comment.csv",13
+"SLN196105230",2,"$onto the RF roof","1961SLN.EVN.regular.comment.csv",14
+"SLN196105240",8,"$onto the roof","1961SLN.EVN.regular.comment.csv",15
+"SLN196105240",43,"$onto the roof","1961SLN.EVN.regular.comment.csv",16
+"SLN196106062",0,"1:20 rain delay before start of game","1961SLN.EVN.regular.comment.csv",17
+"SLN196106062",85,"$game called due to curfew as no inning can start after 12:50 AM","1961SLN.EVN.regular.comment.csv",18
+"SLN196106230",56,"Debut game for Craig Anderson","1961SLN.EVN.regular.comment.csv",19
+"SLN196106251",78,"$Julio Gotay called for obstruction","1961SLN.EVN.regular.comment.csv",20
+"SLN196107130",1,"Debut game for Mack Jones","1961SLN.EVN.regular.comment.csv",21
+"SLN196107182",11,"Dick Drott left with aching side","1961SLN.EVN.regular.comment.csv",22
+"SLN196107220",38,"1:23 rain delay","1961SLN.EVN.regular.comment.csv",23
+"SLN196107230",54,"ej,podrj101,P,pelec901,Balls and strikes ej,alstw101,M,pelec901,Balls and strikes Johnny Podres and Dodgers Manager Walter Alston ejected by HP umpire Chris Pelekoudas","1961SLN.EVN.regular.comment.csv",24
+"SLN196108020",6,"$Joe Cunningham called for interference","1961SLN.EVN.regular.comment.csv",25
+"SLN196108020",38,"Bob Friend struck by Julian Javier's line drive","1961SLN.EVN.regular.comment.csv",26
+"SLN196108080",60,"ej,jay-j101,P,pelec901,Call at 1B (not in game) Joey Jay ejected by 1B umpire Chris Pelekoudas for yelling from the bench on the play at 1B","1961SLN.EVN.regular.comment.csv",27
+"SLN196108230",69,"$onto the roof","1961SLN.EVN.regular.comment.csv",28
+"SLN196108230",77,"Norm Sherry hurt knee on foul ball","1961SLN.EVN.regular.comment.csv",29
+"SLN196108240",7,"$onto the roof","1961SLN.EVN.regular.comment.csv",30
+"SLN196108240",40,"Ernie Broglio left with injured arm","1961SLN.EVN.regular.comment.csv",31
+"SLN196109010",75,"$off RF pole","1961SLN.EVN.regular.comment.csv",32
+"SLN196109110",0,"Debut for umpire Frank Walsh","1961SLN.EVN.regular.comment.csv",33
+"SLN196109190",10,"ej,walkh102,C,varge901,Call at 1B Cardinals Coach Harry Walker ejected by 1B umpire Ed Vargo","1961SLN.EVN.regular.comment.csv",34
+"SLN196109200",46,"Debut game for Ray Washburn","1961SLN.EVN.regular.comment.csv",35
+"SLN196109220",8,"$onto the roof","1961SLN.EVN.regular.comment.csv",36
+"SLN196109240",0,"26 minute rain delay before start of game","1961SLN.EVN.regular.comment.csv",37

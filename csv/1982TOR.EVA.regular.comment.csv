@@ -1,21 +1,22 @@
-"TOR198204090",28,"$ball hit 1B bag","FILENAME_TX","LINE_NUMBER_CT"
-"TOR198204090",57,"Debut game for Jim Gott","1982TOR.EVA.regular.comment.csv",2
-"TOR198204090",63,"ej,cox-b103,M,coont901,Balls and strikes Blue Jays manager Bobby Cox ejected by HP umpire Terry Cooney sometime in the bottom of the sixth inning arguing balls/strikes","1982TOR.EVA.regular.comment.csv",3
-"TOR198204090",92,"Debut game for Kevin Bass","1982TOR.EVA.regular.comment.csv",4
-"TOR198204090",94,"Debut game for Doug Jones","1982TOR.EVA.regular.comment.csv",5
-"TOR198204140",1,"Debut game for Howard Johnson","1982TOR.EVA.regular.comment.csv",6
-"TOR198204280",59,"$Damaso Garcia rounded 1B too far","1982TOR.EVA.regular.comment.csv",7
-"TOR198205100",40,"$Damaso Garcia left with strained elbow","1982TOR.EVA.regular.comment.csv",8
-"TOR198205210",28,"$line drive hit Mike Flanagan on left bicep","1982TOR.EVA.regular.comment.csv",9
-"TOR198205230",15,"22 minute rain delay","1982TOR.EVA.regular.comment.csv",10
-"TOR198206030",39,"ej,michg101,M,garcr901,Arguing where pitcher could take sign Yankees manager Gene Michael ejected by HP umpire Richie Garcia arguing about where the pitcher could take the sign","1982TOR.EVA.regular.comment.csv",11
-"TOR198206062",85,"Debut game for Steve Senteney","1982TOR.EVA.regular.comment.csv",12
-"TOR198206080",0,"Debut for umpire Drew Coble","1982TOR.EVA.regular.comment.csv",13
-"TOR198206110",27,"$missed suicide squeeze","1982TOR.EVA.regular.comment.csv",14
-"TOR198207170",4,"59 minute rain delay","1982TOR.EVA.regular.comment.csv",15
-"TOR198207180",60,"Unsure what happened last play","1982TOR.EVA.regular.comment.csv",16
-"TOR198208270",52,"ej,gambo001,P,parkd901,Call at 1B $Yankees Gamble ejected by 1B umpire Parks for arguing original out call which was changed to safe","1982TOR.EVA.regular.comment.csv",17
-"TOR198208280",73,"ej,smalr001,P,parkd901,Called third strike Roy Smalley Jr ejected by HP umpire Dallas Parks","1982TOR.EVA.regular.comment.csv",18
-"TOR198208300",1,"Debut game for Mark Eichhorn","1982TOR.EVA.regular.comment.csv",19
-"TOR198209282",32,"ej,bonnb001,P,garcr901,Charging mound after brushback $Bonnell ejected by HP umpire Garcia for charging mound after 1st pitch was behind his head; Bonnell tackled pitcher Felton and both benches cleared","1982TOR.EVA.regular.comment.csv",20
-"TOR198209282",34,"ej,hatcm001,P,garcr901,Bench jockeying $Twins Hatcher, not in game, ejected by HP umpire Garcia for bench jockeying at end of 3rd inning","1982TOR.EVA.regular.comment.csv",21
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"TOR198204090",28,"$ball hit 1B bag","1982TOR.EVA.regular.comment.csv",2
+"TOR198204090",57,"Debut game for Jim Gott","1982TOR.EVA.regular.comment.csv",3
+"TOR198204090",63,"ej,cox-b103,M,coont901,Balls and strikes Blue Jays manager Bobby Cox ejected by HP umpire Terry Cooney sometime in the bottom of the sixth inning arguing balls/strikes","1982TOR.EVA.regular.comment.csv",4
+"TOR198204090",92,"Debut game for Kevin Bass","1982TOR.EVA.regular.comment.csv",5
+"TOR198204090",94,"Debut game for Doug Jones","1982TOR.EVA.regular.comment.csv",6
+"TOR198204140",1,"Debut game for Howard Johnson","1982TOR.EVA.regular.comment.csv",7
+"TOR198204280",59,"$Damaso Garcia rounded 1B too far","1982TOR.EVA.regular.comment.csv",8
+"TOR198205100",40,"$Damaso Garcia left with strained elbow","1982TOR.EVA.regular.comment.csv",9
+"TOR198205210",28,"$line drive hit Mike Flanagan on left bicep","1982TOR.EVA.regular.comment.csv",10
+"TOR198205230",15,"22 minute rain delay","1982TOR.EVA.regular.comment.csv",11
+"TOR198206030",39,"ej,michg101,M,garcr901,Arguing where pitcher could take sign Yankees manager Gene Michael ejected by HP umpire Richie Garcia arguing about where the pitcher could take the sign","1982TOR.EVA.regular.comment.csv",12
+"TOR198206062",85,"Debut game for Steve Senteney","1982TOR.EVA.regular.comment.csv",13
+"TOR198206080",0,"Debut for umpire Drew Coble","1982TOR.EVA.regular.comment.csv",14
+"TOR198206110",27,"$missed suicide squeeze","1982TOR.EVA.regular.comment.csv",15
+"TOR198207170",4,"59 minute rain delay","1982TOR.EVA.regular.comment.csv",16
+"TOR198207180",60,"Unsure what happened last play","1982TOR.EVA.regular.comment.csv",17
+"TOR198208270",52,"ej,gambo001,P,parkd901,Call at 1B $Yankees Gamble ejected by 1B umpire Parks for arguing original out call which was changed to safe","1982TOR.EVA.regular.comment.csv",18
+"TOR198208280",73,"ej,smalr001,P,parkd901,Called third strike Roy Smalley Jr ejected by HP umpire Dallas Parks","1982TOR.EVA.regular.comment.csv",19
+"TOR198208300",1,"Debut game for Mark Eichhorn","1982TOR.EVA.regular.comment.csv",20
+"TOR198209282",32,"ej,bonnb001,P,garcr901,Charging mound after brushback $Bonnell ejected by HP umpire Garcia for charging mound after 1st pitch was behind his head; Bonnell tackled pitcher Felton and both benches cleared","1982TOR.EVA.regular.comment.csv",21
+"TOR198209282",34,"ej,hatcm001,P,garcr901,Bench jockeying $Twins Hatcher, not in game, ejected by HP umpire Garcia for bench jockeying at end of 3rd inning","1982TOR.EVA.regular.comment.csv",22

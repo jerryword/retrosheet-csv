@@ -1,14 +1,15 @@
-"PIT199304060",62,"Debut game for Pat Gomez","FILENAME_TX","LINE_NUMBER_CT"
-"PIT199304080",43,"Debut game for Darrell Sherman","1993PIT.EVN.regular.comment.csv",2
-"PIT199304200",25,"$Randy Tomlin called for interference","1993PIT.EVN.regular.comment.csv",3
-"PIT199307090",13,"Debut game for Keith Gordon","1993PIT.EVN.regular.comment.csv",4
-"PIT199307230",76,"ej,smitl002,P,relic901,Call at 2B Lonnie Smith ejected by 2B umpire Charlie Reliford","1993PIT.EVN.regular.comment.csv",5
-"PIT199307280",79,"Debut game for Joe Siddall","1993PIT.EVN.regular.comment.csv",6
-"PIT199308120",54,"Debut game for Andy Tomberlin","1993PIT.EVN.regular.comment.csv",7
-"PIT199308292",1,"Debut game for John Hope","1993PIT.EVN.regular.comment.csv",8
-"PIT199309010",10,"ej,lasot101,M,grege901,Balls and strikes $Dodgers manager Lasorda ejected by HP umpire Gregg for arguing balls and strikes with King at bat","1993PIT.EVN.regular.comment.csv",9
-"PIT199309090",100,"Debut game for Danny Miceli","1993PIT.EVN.regular.comment.csv",10
-"PIT199309090",101,"Debut game for Rich Aude","1993PIT.EVN.regular.comment.csv",11
-"PIT199309100",14,"Debut game for Midre Cummings","1993PIT.EVN.regular.comment.csv",12
-"PIT199309100",59,"Debut game for Tony Womack","1993PIT.EVN.regular.comment.csv",13
-"PIT199309262",9,"$Tom Foley called out when the Pirates batted out of turn","1993PIT.EVN.regular.comment.csv",14
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"PIT199304060",62,"Debut game for Pat Gomez","1993PIT.EVN.regular.comment.csv",2
+"PIT199304080",43,"Debut game for Darrell Sherman","1993PIT.EVN.regular.comment.csv",3
+"PIT199304200",25,"$Randy Tomlin called for interference","1993PIT.EVN.regular.comment.csv",4
+"PIT199307090",13,"Debut game for Keith Gordon","1993PIT.EVN.regular.comment.csv",5
+"PIT199307230",76,"ej,smitl002,P,relic901,Call at 2B Lonnie Smith ejected by 2B umpire Charlie Reliford","1993PIT.EVN.regular.comment.csv",6
+"PIT199307280",79,"Debut game for Joe Siddall","1993PIT.EVN.regular.comment.csv",7
+"PIT199308120",54,"Debut game for Andy Tomberlin","1993PIT.EVN.regular.comment.csv",8
+"PIT199308292",1,"Debut game for John Hope","1993PIT.EVN.regular.comment.csv",9
+"PIT199309010",10,"ej,lasot101,M,grege901,Balls and strikes $Dodgers manager Lasorda ejected by HP umpire Gregg for arguing balls and strikes with King at bat","1993PIT.EVN.regular.comment.csv",10
+"PIT199309090",100,"Debut game for Danny Miceli","1993PIT.EVN.regular.comment.csv",11
+"PIT199309090",101,"Debut game for Rich Aude","1993PIT.EVN.regular.comment.csv",12
+"PIT199309100",14,"Debut game for Midre Cummings","1993PIT.EVN.regular.comment.csv",13
+"PIT199309100",59,"Debut game for Tony Womack","1993PIT.EVN.regular.comment.csv",14
+"PIT199309262",9,"$Tom Foley called out when the Pirates batted out of turn","1993PIT.EVN.regular.comment.csv",15

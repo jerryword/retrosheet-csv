@@ -1,31 +1,32 @@
-"CIN194704160",34,"$Red Munger tripped over the 2B bag and fell; he was helped off the field by teammates","FILENAME_TX","LINE_NUMBER_CT"
-"CIN194704170",32,"light rain began to fall","1947CIN.EVN.regular.comment.csv",2
-"CIN194705150",4,"$Harry Walker got back to 3B to find Del Ennis standing there","1947CIN.EVN.regular.comment.csv",3
-"CIN194705200",26,"7 minute rain delay","1947CIN.EVN.regular.comment.csv",4
-"CIN194705260",43,"ej,basie101,P,barla901,Call at 2B (Threw glove) Eddie Basinski ejected by 3B umpire Al Barlick","1947CIN.EVN.regular.comment.csv",5
-"CIN194706140",35,"$Buddy Kerr called for interference for running into his own batted ball","1947CIN.EVN.regular.comment.csv",6
-"CIN194706180",0,"$Ewell Blackwell: 96 pitches","1947CIN.EVN.regular.comment.csv",7
-"CIN194706180",66,"missing fielding credit","1947CIN.EVN.regular.comment.csv",8
-"CIN194706222",18,"ej,hermg101,P,conlj102,Balls and strikes (Not in game) Gene Hermanski ejected by HP umpire Jocko Conlan","1947CIN.EVN.regular.comment.csv",9
-"CIN194706300",29,"ej,younb102,P,goetl901,Called third strike Babe Young ejected by HP umpire Larry Goetz","1947CIN.EVN.regular.comment.csv",10
-"CIN194706300",59,"ej,lowrp101,P,goetl901,Called third strike Peanuts Lowrey ejected by HP umpire Larry Goetz","1947CIN.EVN.regular.comment.csv",11
-"CIN194707250",13,"$the ball caromed off Ewell Blackwell's shin","1947CIN.EVN.regular.comment.csv",12
-"CIN194707250",16,"$Augie Galan rounded 2B too far","1947CIN.EVN.regular.comment.csv",13
-"CIN194707271",52,"$Jack Albright left with dislocated right ankle","1947CIN.EVN.regular.comment.csv",14
-"CIN194707271",57,"$Eddie Miller struck on head","1947CIN.EVN.regular.comment.csv",15
-"CIN194707272",77,"Game called due to rain and darkness","1947CIN.EVN.regular.comment.csv",16
-"CIN194707310",0,"$HP umpire Beans Reardon worked without his coat","1947CIN.EVN.regular.comment.csv",17
-"CIN194707310",7,"$Bill Rigney slipped on the muddy infield running to cover 1B on the bunt; the throw was right at the bag","1947CIN.EVN.regular.comment.csv",18
-"CIN194708031",53,"$Ewell Blackwell left with heat exhaustion","1947CIN.EVN.regular.comment.csv",19
-"CIN194708031",60,"umpchange,8,umphome,jordl901 umpchange,8,ump3b,(None) $HP umpire Dusty Boggess left with heat exhaustion","1947CIN.EVN.regular.comment.csv",20
-"CIN194708031",63,"umpchange,8,ump3b,boggd901 $umpire Dusty Boggess returned to the field at 3B","1947CIN.EVN.regular.comment.csv",21
-"CIN194708060",33,"ej,galaa101,P,mageg901,Call at 3B Augie Galan ejected by 3B umpire George Magerkurth","1947CIN.EVN.regular.comment.csv",22
-"CIN194708070",46,"$Frank Baumholtz and Eddie Miller collided; both left injured","1947CIN.EVN.regular.comment.csv",23
-"CIN194708120",63,"$Kirby Higbe left with heat exhaustion","1947CIN.EVN.regular.comment.csv",24
-"CIN194708120",75,"$Ewell Blackwell left with heat exhaustion","1947CIN.EVN.regular.comment.csv",25
-"CIN194708150",17,"ej,johnr103,C,mageg901,Fair/foul call $Doyle Lade bunted along the 1B line; Johnny Vander Meer allowed the ball to roll foul and it was ruled so by HP umpire George Magerkurth; 1B umpire Bill Stewart ruled it was a fair ball and the Reds stormed around Stewart; Magerkurth's call stood and the Cubs argued with him; Cubs Coach Roy Johnson ejected by Magerkurth","1947CIN.EVN.regular.comment.csv",26
-"CIN194708171",23,"$Eddie Waitkus rounded 3B too far","1947CIN.EVN.regular.comment.csv",27
-"CIN194708172",26,"ej,rickm101,P,stewb901,Call at 1B $no one covered 1B on the bunt; Marv Rickert ran out of the bullpen to argue with 1B umpire Bill Stewart and was ejected by Stewart","1947CIN.EVN.regular.comment.csv",28
-"CIN194708310",30,"HP umpire Beans Reardon removed his coat","1947CIN.EVN.regular.comment.csv",29
-"CIN194709100",51,"$Ewell Blackwell left with a pulled muscle on the left side of his torso","1947CIN.EVN.regular.comment.csv",30
-"CIN194709212",81,"$game called due to darkness; the Reds objected","1947CIN.EVN.regular.comment.csv",31
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"CIN194704160",34,"$Red Munger tripped over the 2B bag and fell; he was helped off the field by teammates","1947CIN.EVN.regular.comment.csv",2
+"CIN194704170",32,"light rain began to fall","1947CIN.EVN.regular.comment.csv",3
+"CIN194705150",4,"$Harry Walker got back to 3B to find Del Ennis standing there","1947CIN.EVN.regular.comment.csv",4
+"CIN194705200",26,"7 minute rain delay","1947CIN.EVN.regular.comment.csv",5
+"CIN194705260",43,"ej,basie101,P,barla901,Call at 2B (Threw glove) Eddie Basinski ejected by 3B umpire Al Barlick","1947CIN.EVN.regular.comment.csv",6
+"CIN194706140",35,"$Buddy Kerr called for interference for running into his own batted ball","1947CIN.EVN.regular.comment.csv",7
+"CIN194706180",0,"$Ewell Blackwell: 96 pitches","1947CIN.EVN.regular.comment.csv",8
+"CIN194706180",66,"missing fielding credit","1947CIN.EVN.regular.comment.csv",9
+"CIN194706222",18,"ej,hermg101,P,conlj102,Balls and strikes (Not in game) Gene Hermanski ejected by HP umpire Jocko Conlan","1947CIN.EVN.regular.comment.csv",10
+"CIN194706300",29,"ej,younb102,P,goetl901,Called third strike Babe Young ejected by HP umpire Larry Goetz","1947CIN.EVN.regular.comment.csv",11
+"CIN194706300",59,"ej,lowrp101,P,goetl901,Called third strike Peanuts Lowrey ejected by HP umpire Larry Goetz","1947CIN.EVN.regular.comment.csv",12
+"CIN194707250",13,"$the ball caromed off Ewell Blackwell's shin","1947CIN.EVN.regular.comment.csv",13
+"CIN194707250",16,"$Augie Galan rounded 2B too far","1947CIN.EVN.regular.comment.csv",14
+"CIN194707271",52,"$Jack Albright left with dislocated right ankle","1947CIN.EVN.regular.comment.csv",15
+"CIN194707271",57,"$Eddie Miller struck on head","1947CIN.EVN.regular.comment.csv",16
+"CIN194707272",77,"Game called due to rain and darkness","1947CIN.EVN.regular.comment.csv",17
+"CIN194707310",0,"$HP umpire Beans Reardon worked without his coat","1947CIN.EVN.regular.comment.csv",18
+"CIN194707310",7,"$Bill Rigney slipped on the muddy infield running to cover 1B on the bunt; the throw was right at the bag","1947CIN.EVN.regular.comment.csv",19
+"CIN194708031",53,"$Ewell Blackwell left with heat exhaustion","1947CIN.EVN.regular.comment.csv",20
+"CIN194708031",60,"umpchange,8,umphome,jordl901 umpchange,8,ump3b,(None) $HP umpire Dusty Boggess left with heat exhaustion","1947CIN.EVN.regular.comment.csv",21
+"CIN194708031",63,"umpchange,8,ump3b,boggd901 $umpire Dusty Boggess returned to the field at 3B","1947CIN.EVN.regular.comment.csv",22
+"CIN194708060",33,"ej,galaa101,P,mageg901,Call at 3B Augie Galan ejected by 3B umpire George Magerkurth","1947CIN.EVN.regular.comment.csv",23
+"CIN194708070",46,"$Frank Baumholtz and Eddie Miller collided; both left injured","1947CIN.EVN.regular.comment.csv",24
+"CIN194708120",63,"$Kirby Higbe left with heat exhaustion","1947CIN.EVN.regular.comment.csv",25
+"CIN194708120",75,"$Ewell Blackwell left with heat exhaustion","1947CIN.EVN.regular.comment.csv",26
+"CIN194708150",17,"ej,johnr103,C,mageg901,Fair/foul call $Doyle Lade bunted along the 1B line; Johnny Vander Meer allowed the ball to roll foul and it was ruled so by HP umpire George Magerkurth; 1B umpire Bill Stewart ruled it was a fair ball and the Reds stormed around Stewart; Magerkurth's call stood and the Cubs argued with him; Cubs Coach Roy Johnson ejected by Magerkurth","1947CIN.EVN.regular.comment.csv",27
+"CIN194708171",23,"$Eddie Waitkus rounded 3B too far","1947CIN.EVN.regular.comment.csv",28
+"CIN194708172",26,"ej,rickm101,P,stewb901,Call at 1B $no one covered 1B on the bunt; Marv Rickert ran out of the bullpen to argue with 1B umpire Bill Stewart and was ejected by Stewart","1947CIN.EVN.regular.comment.csv",29
+"CIN194708310",30,"HP umpire Beans Reardon removed his coat","1947CIN.EVN.regular.comment.csv",30
+"CIN194709100",51,"$Ewell Blackwell left with a pulled muscle on the left side of his torso","1947CIN.EVN.regular.comment.csv",31
+"CIN194709212",81,"$game called due to darkness; the Reds objected","1947CIN.EVN.regular.comment.csv",32

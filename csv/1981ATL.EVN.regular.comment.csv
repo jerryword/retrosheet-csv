@@ -1,21 +1,22 @@
-"ATL198104100",10,"Debut game for Rufino Linares","FILENAME_TX","LINE_NUMBER_CT"
-"ATL198105080",74,"ej,cox-b103,M,monte901,Balk call Braves Manager Bobby Cox ejected by HP umpire Ed Montague","1981ATL.EVN.regular.comment.csv",2
-"ATL198105100",107,"30 minute rain delay","1981ATL.EVN.regular.comment.csv",3
-"ATL198105100",114,"Rain halts game after 14th with scored tied","1981ATL.EVN.regular.comment.csv",4
-"ATL198105110",52,"$Ernie Camacho left with right groin pull","1981ATL.EVN.regular.comment.csv",5
-"ATL198105120",22,"$Eddie Miller injured left hamstring running to 1B","1981ATL.EVN.regular.comment.csv",6
-"ATL198105130",54,"Debut game for Bob Porter","1981ATL.EVN.regular.comment.csv",7
-"ATL198105130",59,"$Dave Parker left with injured right achilles tendon","1981ATL.EVN.regular.comment.csv",8
-"ATL198105130",104,"ej,tannc101,M,fiels901,Catch/trap $Pirates manager Tanner ejected by 3B umpire Fields for arguing that left fielder had caught liner from Gomez","1981ATL.EVN.regular.comment.csv",9
-"ATL198105230",6,"$the ball hit 1B umpire Bruce Froemming","1981ATL.EVN.regular.comment.csv",10
-"ATL198106070",69,"ej,cox-b103,M,quicj901,Call at 1B ej,linar001,P,quicj901,Call at 1B Rufino Linares and Braves manager Bobby Cox ejected by 1B umpire Jim Quick","1981ATL.EVN.regular.comment.csv",11
-"ATL198108180",1,"$Joel Youngblood out with left knee problems","1981ATL.EVN.regular.comment.csv",12
-"ATL198108200",5,"Debut game for Brett Butler","1981ATL.EVN.regular.comment.csv",13
-"ATL198108210",0,"attendance could be 4103 instead of 9103","1981ATL.EVN.regular.comment.csv",14
-"ATL198109020",76,"Debut game for Ryne Sandberg","1981ATL.EVN.regular.comment.csv",15
-"ATL198109080",3,"ej,cedec001,P,pryop901,Entering stands to attack heckler Cesar Cedeno ejected by HP umpire Paul Pryor when he entered the stands to attack a heckler who was chanting 'Killer, Killer' at Cedeno; Cedeno fined $5000 by NL","1981ATL.EVN.regular.comment.csv",16
-"ATL198109090",83,"Debut game for Tim Tolman","1981ATL.EVN.regular.comment.csv",17
-"ATL198109120",86,"Debut game for Albert Hall","1981ATL.EVN.regular.comment.csv",18
-"ATL198109130",62,"Debut game for Brook Jacoby","1981ATL.EVN.regular.comment.csv",19
-"ATL198109250",65,"Debut game for Paul Runge","1981ATL.EVN.regular.comment.csv",20
-"ATL198110010",66,"Debut game for Jose Alvarez","1981ATL.EVN.regular.comment.csv",21
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"ATL198104100",10,"Debut game for Rufino Linares","1981ATL.EVN.regular.comment.csv",2
+"ATL198105080",74,"ej,cox-b103,M,monte901,Balk call Braves Manager Bobby Cox ejected by HP umpire Ed Montague","1981ATL.EVN.regular.comment.csv",3
+"ATL198105100",107,"30 minute rain delay","1981ATL.EVN.regular.comment.csv",4
+"ATL198105100",114,"Rain halts game after 14th with scored tied","1981ATL.EVN.regular.comment.csv",5
+"ATL198105110",52,"$Ernie Camacho left with right groin pull","1981ATL.EVN.regular.comment.csv",6
+"ATL198105120",22,"$Eddie Miller injured left hamstring running to 1B","1981ATL.EVN.regular.comment.csv",7
+"ATL198105130",54,"Debut game for Bob Porter","1981ATL.EVN.regular.comment.csv",8
+"ATL198105130",59,"$Dave Parker left with injured right achilles tendon","1981ATL.EVN.regular.comment.csv",9
+"ATL198105130",104,"ej,tannc101,M,fiels901,Catch/trap $Pirates manager Tanner ejected by 3B umpire Fields for arguing that left fielder had caught liner from Gomez","1981ATL.EVN.regular.comment.csv",10
+"ATL198105230",6,"$the ball hit 1B umpire Bruce Froemming","1981ATL.EVN.regular.comment.csv",11
+"ATL198106070",69,"ej,cox-b103,M,quicj901,Call at 1B ej,linar001,P,quicj901,Call at 1B Rufino Linares and Braves manager Bobby Cox ejected by 1B umpire Jim Quick","1981ATL.EVN.regular.comment.csv",12
+"ATL198108180",1,"$Joel Youngblood out with left knee problems","1981ATL.EVN.regular.comment.csv",13
+"ATL198108200",5,"Debut game for Brett Butler","1981ATL.EVN.regular.comment.csv",14
+"ATL198108210",0,"attendance could be 4103 instead of 9103","1981ATL.EVN.regular.comment.csv",15
+"ATL198109020",76,"Debut game for Ryne Sandberg","1981ATL.EVN.regular.comment.csv",16
+"ATL198109080",3,"ej,cedec001,P,pryop901,Entering stands to attack heckler Cesar Cedeno ejected by HP umpire Paul Pryor when he entered the stands to attack a heckler who was chanting 'Killer, Killer' at Cedeno; Cedeno fined $5000 by NL","1981ATL.EVN.regular.comment.csv",17
+"ATL198109090",83,"Debut game for Tim Tolman","1981ATL.EVN.regular.comment.csv",18
+"ATL198109120",86,"Debut game for Albert Hall","1981ATL.EVN.regular.comment.csv",19
+"ATL198109130",62,"Debut game for Brook Jacoby","1981ATL.EVN.regular.comment.csv",20
+"ATL198109250",65,"Debut game for Paul Runge","1981ATL.EVN.regular.comment.csv",21
+"ATL198110010",66,"Debut game for Jose Alvarez","1981ATL.EVN.regular.comment.csv",22

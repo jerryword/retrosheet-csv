@@ -1,40 +1,41 @@
-"WS2197004060",0,"55 minute rain delay before start of game","FILENAME_TX","LINE_NUMBER_CT"
-"WS2197004060",55,"$Norm Cash out at 3B before Al Kaline scored","1970WS2.EVA.regular.comment.csv",2
-"WS2197004060",74,"Debut game for Dick Such","1970WS2.EVA.regular.comment.csv",3
-"WS2197004070",37,"Debut game for Ken Szotkiewicz","1970WS2.EVA.regular.comment.csv",4
-"WS2197004070",59,"Debut game for Elliott Maddox","1970WS2.EVA.regular.comment.csv",5
-"WS2197004100",70,"$Jim Lonborg: 102 pitches","1970WS2.EVA.regular.comment.csv",6
-"WS2197004230",24,"missed suicide squeeze","1970WS2.EVA.regular.comment.csv",7
-"WS2197004230",68,"Roy White left with a pulled muscle in his side","1970WS2.EVA.regular.comment.csv",8
-"WS2197004240",45,"ej,howaf102,P,honoj901,Called third strike Frank Howard ejected by HP umpire Jim Honochick","1970WS2.EVA.regular.comment.csv",9
-"WS2197004240",47,"Debut game for Greg Garrett","1970WS2.EVA.regular.comment.csv",10
-"WS2197004260",50,"ej,fox-n101,C,odonj901,Balls and strikes Senators Coach Nellie Fox ejected by HP umpire Jake O'Donnell sometime in the seventh","1970WS2.EVA.regular.comment.csv",11
-"WS2197005010",84,"$Jose Tartabull out at 3B before Jim Grant touched HP","1970WS2.EVA.regular.comment.csv",12
-"WS2197005150",77,"$Mike Epstein bobbled the throw at 1B; 1B umpire Bill Kunkel ruled out, then safe; Don Buford tried to score on play","1970WS2.EVA.regular.comment.csv",13
-"WS2197005190",38,"Debut game for Vince Colbert","1970WS2.EVA.regular.comment.csv",14
-"WS2197005300",30,"$Joe Keough thought fly to shallow RF was going to be caught","1970WS2.EVA.regular.comment.csv",15
-"WS2197005300",43,"360 feet","1970WS2.EVA.regular.comment.csv",16
-"WS2197005300",60,"$Tim Cullen made diving stop and crawled to 2B for the force","1970WS2.EVA.regular.comment.csv",17
-"WS2197005310",31,"400 feet","1970WS2.EVA.regular.comment.csv",18
-"WS2197005310",64,"410 feet","1970WS2.EVA.regular.comment.csv",19
-"WS2197006050",1,"Debut game for Bert Blyleven","1970WS2.EVA.regular.comment.csv",20
-"WS2197006250",0,"40 minute rain delay before start of game","1970WS2.EVA.regular.comment.csv",21
-"WS2197006270",64,"Clay Dalrymple dislocated or broke ankle in collision with Mike Epstein","1970WS2.EVA.regular.comment.csv",22
-"WS2197006290",2,"Debut game for Bobby Grich","1970WS2.EVA.regular.comment.csv",23
-"WS2197007100",1,"Debut game for Steve Kline","1970WS2.EVA.regular.comment.csv",24
-"WS2197007110",40,"$Bobby Murcer called for interference at 2B","1970WS2.EVA.regular.comment.csv",25
-"WS2197007170",26,"Debut game for Larry Biittner","1970WS2.EVA.regular.comment.csv",26
-"WS2197007180",0,"$Prince Charles and Princess Anne attended the game","1970WS2.EVA.regular.comment.csv",27
-"WS2197007200",0,"$President Richard Nixon attended with Julie and David Eisenhower","1970WS2.EVA.regular.comment.csv",28
-"WS2197007200",15,"Debut game for Jeff Burroughs","1970WS2.EVA.regular.comment.csv",29
-"WS2197008110",2,"umpchange,1,umphome,kunkb101 umpchange,1,ump2b,(None) $Tony Oliva's bat slipped out of his hand and struck the head of HP umpire Jim Odom; Odom was carried off the field and received four stitches high on the right side of the back of his head; 2B umpire Bill Kunkel moved to HP","1970WS2.EVA.regular.comment.csv",30
-"WS2197008130",38,"$Twins manager Bill Rigney argued the call at 1B","1970WS2.EVA.regular.comment.csv",31
-"WS2197008130",56,"ej,blylb001,P,runge901,Bench jockeying (Waved towel) $Rick Renick called out for interference when he and catcher Paul Casanova collided; Twins manager Bill Rigney argued with HP Umpire Bill Haller for a long time; when Haller leaned over to clean the plate, Rigney leaned over, yelled at Haller and kicked dirt back onto the plate; Bert Blyleven ejected by 2B umpire Ed Runge for waving a towel from the bench","1970WS2.EVA.regular.comment.csv",32
-"WS2197008130",56,"ej,manuc101,P,hallb901,Balls and strikes (Slammed bat to ground) Charlie Manuel ejected by HP umpire Bill Haller when he slammed his bat down after the first pitch was called a strike","1970WS2.EVA.regular.comment.csv",33
-"WS2197008140",29,"Rain delay","1970WS2.EVA.regular.comment.csv",34
-"WS2197009020",58,"Debut game for John Lowenstein","1970WS2.EVA.regular.comment.csv",35
-"WS2197009030",19,"Debut game for Bill Gogolewski","1970WS2.EVA.regular.comment.csv",36
-"WS2197009030",63,"ej,reicr101,P,goetr901,Called third strike Rick Reichardt ejected by HP umpire Russ Goetz","1970WS2.EVA.regular.comment.csv",37
-"WS2197009150",67,"Debut game for Denny Riddleberger","1970WS2.EVA.regular.comment.csv",38
-"WS2197009170",55,"Debut game for Johnny Oates","1970WS2.EVA.regular.comment.csv",39
-"WS2197009240",65,"$Rick Reichardt out at 3B before Frank Howard could touch HP","1970WS2.EVA.regular.comment.csv",40
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"WS2197004060",0,"55 minute rain delay before start of game","1970WS2.EVA.regular.comment.csv",2
+"WS2197004060",55,"$Norm Cash out at 3B before Al Kaline scored","1970WS2.EVA.regular.comment.csv",3
+"WS2197004060",74,"Debut game for Dick Such","1970WS2.EVA.regular.comment.csv",4
+"WS2197004070",37,"Debut game for Ken Szotkiewicz","1970WS2.EVA.regular.comment.csv",5
+"WS2197004070",59,"Debut game for Elliott Maddox","1970WS2.EVA.regular.comment.csv",6
+"WS2197004100",70,"$Jim Lonborg: 102 pitches","1970WS2.EVA.regular.comment.csv",7
+"WS2197004230",24,"missed suicide squeeze","1970WS2.EVA.regular.comment.csv",8
+"WS2197004230",68,"Roy White left with a pulled muscle in his side","1970WS2.EVA.regular.comment.csv",9
+"WS2197004240",45,"ej,howaf102,P,honoj901,Called third strike Frank Howard ejected by HP umpire Jim Honochick","1970WS2.EVA.regular.comment.csv",10
+"WS2197004240",47,"Debut game for Greg Garrett","1970WS2.EVA.regular.comment.csv",11
+"WS2197004260",50,"ej,fox-n101,C,odonj901,Balls and strikes Senators Coach Nellie Fox ejected by HP umpire Jake O'Donnell sometime in the seventh","1970WS2.EVA.regular.comment.csv",12
+"WS2197005010",84,"$Jose Tartabull out at 3B before Jim Grant touched HP","1970WS2.EVA.regular.comment.csv",13
+"WS2197005150",77,"$Mike Epstein bobbled the throw at 1B; 1B umpire Bill Kunkel ruled out, then safe; Don Buford tried to score on play","1970WS2.EVA.regular.comment.csv",14
+"WS2197005190",38,"Debut game for Vince Colbert","1970WS2.EVA.regular.comment.csv",15
+"WS2197005300",30,"$Joe Keough thought fly to shallow RF was going to be caught","1970WS2.EVA.regular.comment.csv",16
+"WS2197005300",43,"360 feet","1970WS2.EVA.regular.comment.csv",17
+"WS2197005300",60,"$Tim Cullen made diving stop and crawled to 2B for the force","1970WS2.EVA.regular.comment.csv",18
+"WS2197005310",31,"400 feet","1970WS2.EVA.regular.comment.csv",19
+"WS2197005310",64,"410 feet","1970WS2.EVA.regular.comment.csv",20
+"WS2197006050",1,"Debut game for Bert Blyleven","1970WS2.EVA.regular.comment.csv",21
+"WS2197006250",0,"40 minute rain delay before start of game","1970WS2.EVA.regular.comment.csv",22
+"WS2197006270",64,"Clay Dalrymple dislocated or broke ankle in collision with Mike Epstein","1970WS2.EVA.regular.comment.csv",23
+"WS2197006290",2,"Debut game for Bobby Grich","1970WS2.EVA.regular.comment.csv",24
+"WS2197007100",1,"Debut game for Steve Kline","1970WS2.EVA.regular.comment.csv",25
+"WS2197007110",40,"$Bobby Murcer called for interference at 2B","1970WS2.EVA.regular.comment.csv",26
+"WS2197007170",26,"Debut game for Larry Biittner","1970WS2.EVA.regular.comment.csv",27
+"WS2197007180",0,"$Prince Charles and Princess Anne attended the game","1970WS2.EVA.regular.comment.csv",28
+"WS2197007200",0,"$President Richard Nixon attended with Julie and David Eisenhower","1970WS2.EVA.regular.comment.csv",29
+"WS2197007200",15,"Debut game for Jeff Burroughs","1970WS2.EVA.regular.comment.csv",30
+"WS2197008110",2,"umpchange,1,umphome,kunkb101 umpchange,1,ump2b,(None) $Tony Oliva's bat slipped out of his hand and struck the head of HP umpire Jim Odom; Odom was carried off the field and received four stitches high on the right side of the back of his head; 2B umpire Bill Kunkel moved to HP","1970WS2.EVA.regular.comment.csv",31
+"WS2197008130",38,"$Twins manager Bill Rigney argued the call at 1B","1970WS2.EVA.regular.comment.csv",32
+"WS2197008130",56,"ej,blylb001,P,runge901,Bench jockeying (Waved towel) $Rick Renick called out for interference when he and catcher Paul Casanova collided; Twins manager Bill Rigney argued with HP Umpire Bill Haller for a long time; when Haller leaned over to clean the plate, Rigney leaned over, yelled at Haller and kicked dirt back onto the plate; Bert Blyleven ejected by 2B umpire Ed Runge for waving a towel from the bench","1970WS2.EVA.regular.comment.csv",33
+"WS2197008130",56,"ej,manuc101,P,hallb901,Balls and strikes (Slammed bat to ground) Charlie Manuel ejected by HP umpire Bill Haller when he slammed his bat down after the first pitch was called a strike","1970WS2.EVA.regular.comment.csv",34
+"WS2197008140",29,"Rain delay","1970WS2.EVA.regular.comment.csv",35
+"WS2197009020",58,"Debut game for John Lowenstein","1970WS2.EVA.regular.comment.csv",36
+"WS2197009030",19,"Debut game for Bill Gogolewski","1970WS2.EVA.regular.comment.csv",37
+"WS2197009030",63,"ej,reicr101,P,goetr901,Called third strike Rick Reichardt ejected by HP umpire Russ Goetz","1970WS2.EVA.regular.comment.csv",38
+"WS2197009150",67,"Debut game for Denny Riddleberger","1970WS2.EVA.regular.comment.csv",39
+"WS2197009170",55,"Debut game for Johnny Oates","1970WS2.EVA.regular.comment.csv",40
+"WS2197009240",65,"$Rick Reichardt out at 3B before Frank Howard could touch HP","1970WS2.EVA.regular.comment.csv",41

@@ -1,30 +1,31 @@
-"CIN197204150",0,"Debut for umpire Frank Pulli","FILENAME_TX","LINE_NUMBER_CT"
-"CIN197204160",9,"20 minute rain delay","1972CIN.EVN.regular.comment.csv",2
-"CIN197205270",16,"missed squeeze","1972CIN.EVN.regular.comment.csv",3
-"CIN197205280",27,"missed squeeze","1972CIN.EVN.regular.comment.csv",4
-"CIN197206180",42,"Rusty Staub hurt","1972CIN.EVN.regular.comment.csv",5
-"CIN197206210",22,"$Pete Rose tried to score on overthrow to HP","1972CIN.EVN.regular.comment.csv",6
-"CIN197206220",83,"ej,andes101,M,craws901,Balls and strikes Reds Manager Sparky Anderson ejected by HP umpire Shag Crawford after some towels flew out of the dugout","1972CIN.EVN.regular.comment.csv",7
-"CIN197206230",0,"43 minute rain delay before start of game","1972CIN.EVN.regular.comment.csv",8
-"CIN197206240",29,"$Bob Watson's ball caromed off Jack Billingham's foot","1972CIN.EVN.regular.comment.csv",9
-"CIN197207040",25,"$Scipio Spinks collided with Johnny Bench and tore ligaments in right knee","1972CIN.EVN.regular.comment.csv",10
-"CIN197207040",53,"56 minute rain delay sometime","1972CIN.EVN.regular.comment.csv",11
-"CIN197207040",66,"$Ted Simmons out when trying to advance on a wild throw back to the infield","1972CIN.EVN.regular.comment.csv",12
-"CIN197207080",28,"$only fourth ball intentional","1972CIN.EVN.regular.comment.csv",13
-"CIN197207080",33,"umpchange,4,ump2b,(None) $2B umpire Shag Crawford left the game with an unknown illness","1972CIN.EVN.regular.comment.csv",14
-"CIN197207091",28,"$Balk on attempted steal of home","1972CIN.EVN.regular.comment.csv",15
-"CIN197207091",35,"$Fergie Jenkins out on appeal for leaving 3B early","1972CIN.EVN.regular.comment.csv",16
-"CIN197207091",62,"ej,aguih101,C,pelec901,Call at 3B ej,reisp101,C,steim901,Call at 3B Cubs Coaches Hank Aguirre and Pete Reiser ejected by 3b umpire Mel Steiner; Cubs manager Leo Durocher new 3B Coach","1972CIN.EVN.regular.comment.csv",17
-"CIN197207270",57,"$Fred Stanley's ball riccocheted off Jack Billingham's shin to 1B","1972CIN.EVN.regular.comment.csv",18
-"CIN197207280",19,"$with 2-2 count on Cesar Geronimo, Clay Kirby went to mouth for called ball 3","1972CIN.EVN.regular.comment.csv",19
-"CIN197207290",22,"$Larry Stahl out attempting to advance on wild pitch","1972CIN.EVN.regular.comment.csv",20
-"CIN197207301",20,"$Garry Maddox called for interference for running in fair territory when he was struck by the throw","1972CIN.EVN.regular.comment.csv",21
-"CIN197207302",44,"$Tom Hall called for interference for running in fair territory when the throw hit him","1972CIN.EVN.regular.comment.csv",22
-"CIN197208050",66,"ej,harrl101,M,steld901,Complaining about warning $Braves manager Harris ejected by HP umpire Stello for complaining when pitcher Schueler was warned after brushback pitch to Perez following Bench's home run","1972CIN.EVN.regular.comment.csv",23
-"CIN197208050",70,"$Debut game for Rowland Office","1972CIN.EVN.regular.comment.csv",24
-"CIN197208060",38,"Wayne Simpson pulled up lame running the bases","1972CIN.EVN.regular.comment.csv",25
-"CIN197208080",4,"43 minute rain delay","1972CIN.EVN.regular.comment.csv",26
-"CIN197209020",29,"50 minute rain delay","1972CIN.EVN.regular.comment.csv",27
-"CIN197209020",67,"$Debut game for Dave Tomlin","1972CIN.EVN.regular.comment.csv",28
-"CIN197209150",42,"$Pete Rose called for interference when he ran into his own bunted ball; there was a prolonged argument about whether the ball was fair or foul","1972CIN.EVN.regular.comment.csv",29
-"CIN197209170",53,"$Pedro Borbon trying to bunt when hit","1972CIN.EVN.regular.comment.csv",30
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"CIN197204150",0,"Debut for umpire Frank Pulli","1972CIN.EVN.regular.comment.csv",2
+"CIN197204160",9,"20 minute rain delay","1972CIN.EVN.regular.comment.csv",3
+"CIN197205270",16,"missed squeeze","1972CIN.EVN.regular.comment.csv",4
+"CIN197205280",27,"missed squeeze","1972CIN.EVN.regular.comment.csv",5
+"CIN197206180",42,"Rusty Staub hurt","1972CIN.EVN.regular.comment.csv",6
+"CIN197206210",22,"$Pete Rose tried to score on overthrow to HP","1972CIN.EVN.regular.comment.csv",7
+"CIN197206220",83,"ej,andes101,M,craws901,Balls and strikes Reds Manager Sparky Anderson ejected by HP umpire Shag Crawford after some towels flew out of the dugout","1972CIN.EVN.regular.comment.csv",8
+"CIN197206230",0,"43 minute rain delay before start of game","1972CIN.EVN.regular.comment.csv",9
+"CIN197206240",29,"$Bob Watson's ball caromed off Jack Billingham's foot","1972CIN.EVN.regular.comment.csv",10
+"CIN197207040",25,"$Scipio Spinks collided with Johnny Bench and tore ligaments in right knee","1972CIN.EVN.regular.comment.csv",11
+"CIN197207040",53,"56 minute rain delay sometime","1972CIN.EVN.regular.comment.csv",12
+"CIN197207040",66,"$Ted Simmons out when trying to advance on a wild throw back to the infield","1972CIN.EVN.regular.comment.csv",13
+"CIN197207080",28,"$only fourth ball intentional","1972CIN.EVN.regular.comment.csv",14
+"CIN197207080",33,"umpchange,4,ump2b,(None) $2B umpire Shag Crawford left the game with an unknown illness","1972CIN.EVN.regular.comment.csv",15
+"CIN197207091",28,"$Balk on attempted steal of home","1972CIN.EVN.regular.comment.csv",16
+"CIN197207091",35,"$Fergie Jenkins out on appeal for leaving 3B early","1972CIN.EVN.regular.comment.csv",17
+"CIN197207091",62,"ej,aguih101,C,pelec901,Call at 3B ej,reisp101,C,steim901,Call at 3B Cubs Coaches Hank Aguirre and Pete Reiser ejected by 3b umpire Mel Steiner; Cubs manager Leo Durocher new 3B Coach","1972CIN.EVN.regular.comment.csv",18
+"CIN197207270",57,"$Fred Stanley's ball riccocheted off Jack Billingham's shin to 1B","1972CIN.EVN.regular.comment.csv",19
+"CIN197207280",19,"$with 2-2 count on Cesar Geronimo, Clay Kirby went to mouth for called ball 3","1972CIN.EVN.regular.comment.csv",20
+"CIN197207290",22,"$Larry Stahl out attempting to advance on wild pitch","1972CIN.EVN.regular.comment.csv",21
+"CIN197207301",20,"$Garry Maddox called for interference for running in fair territory when he was struck by the throw","1972CIN.EVN.regular.comment.csv",22
+"CIN197207302",44,"$Tom Hall called for interference for running in fair territory when the throw hit him","1972CIN.EVN.regular.comment.csv",23
+"CIN197208050",66,"ej,harrl101,M,steld901,Complaining about warning $Braves manager Harris ejected by HP umpire Stello for complaining when pitcher Schueler was warned after brushback pitch to Perez following Bench's home run","1972CIN.EVN.regular.comment.csv",24
+"CIN197208050",70,"$Debut game for Rowland Office","1972CIN.EVN.regular.comment.csv",25
+"CIN197208060",38,"Wayne Simpson pulled up lame running the bases","1972CIN.EVN.regular.comment.csv",26
+"CIN197208080",4,"43 minute rain delay","1972CIN.EVN.regular.comment.csv",27
+"CIN197209020",29,"50 minute rain delay","1972CIN.EVN.regular.comment.csv",28
+"CIN197209020",67,"$Debut game for Dave Tomlin","1972CIN.EVN.regular.comment.csv",29
+"CIN197209150",42,"$Pete Rose called for interference when he ran into his own bunted ball; there was a prolonged argument about whether the ball was fair or foul","1972CIN.EVN.regular.comment.csv",30
+"CIN197209170",53,"$Pedro Borbon trying to bunt when hit","1972CIN.EVN.regular.comment.csv",31

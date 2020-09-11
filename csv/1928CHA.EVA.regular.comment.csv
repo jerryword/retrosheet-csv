@@ -1,39 +1,40 @@
-"CHA192804110",28,"$Lou Fonseca & Ed Morgan collided","FILENAME_TX","LINE_NUMBER_CT"
-"CHA192804110",41,"$Ed Morgan left with left shoulder and possible concussion","1928CHA.EVA.regular.comment.csv",2
-"CHA192804120",51,"$lost in sun","1928CHA.EVA.regular.comment.csv",3
-"CHA192804120",54,"$missed bunt","1928CHA.EVA.regular.comment.csv",4
-"CHA192804130",54,"Game called for rain","1928CHA.EVA.regular.comment.csv",5
-"CHA192804160",64,"$Carl Reynolds injured on steal","1928CHA.EVA.regular.comment.csv",6
-"CHA192805020",61,"$both runners ended up at 2B","1928CHA.EVA.regular.comment.csv",7
-"CHA192805230",53,"2b fumbled p throw","1928CHA.EVA.regular.comment.csv",8
-"CHA192805240",45,"$Throw to first attempting to complete DP hit runner in head","1928CHA.EVA.regular.comment.csv",9
-"CHA192805240",57,"$Clancy dropped bunt to get DP","1928CHA.EVA.regular.comment.csv",10
-"CHA192806020",4,"$intermediate overthrow so no DP","1928CHA.EVA.regular.comment.csv",11
-"CHA192806040",6,"$Tris Speaker took 2B when Buck Crouse attempted to pickoff Ty Cobb at 3B","1928CHA.EVA.regular.comment.csv",12
-"CHA192806040",78,"rain started","1928CHA.EVA.regular.comment.csv",13
-"CHA192806070",65,"$Buck Redfern made a wild thrown in the rundown","1928CHA.EVA.regular.comment.csv",14
-"CHA192806120",19,"DWS: last two plays really one to be combined","1928CHA.EVA.regular.comment.csv",15
-"CHA192806120",43,"$Buck Crouse left with split finger from foul ball","1928CHA.EVA.regular.comment.csv",16
-"CHA192807021",10,"$Melillo spiked on play.","1928CHA.EVA.regular.comment.csv",17
-"CHA192807252",30,"Hunnerfield makes 3rd, and Cochrane throws there wildly","1928CHA.EVA.regular.comment.csv",18
-"CHA192807270",71,"$Willie Kamm pulled the hidden ball trick on Mickey Cochrane","1928CHA.EVA.regular.comment.csv",19
-"CHA192807292",14,"ej,reevb101,P,hildg101,Bench-jockeying ej,wests101,P,hildg101,Bench-jockeying ej,braxg101,P,hildg101,Bench-jockeying ej,burkb102,P,hildg101,Bench-jockeying ej,zacht101,P,hildg101,Bench-jockeying $Washington players Reeves, West, Braxton, Burke, and Zachary were ejected from the dugout by umpire Hildebrand for yelling insults at White Sox pitcher Adkins","1928CHA.EVA.regular.comment.csv",20
-"CHA192807292",25,"ej,altrn101,C,hildg101,Bench-jockeying $Washington coach Altrock was ejected by umpire Hildebrand for continuing to yell insults at pitcher Adkins","1928CHA.EVA.regular.comment.csv",21
-"CHA192808060",84,"$Cedric Durst batted out of turn; Durst pinch ran for Lou Gehrig in the fourth lineup spot but batted in the ninth spot","1928CHA.EVA.regular.comment.csv",22
-"CHA192808060",85,"$Earle Combs batted out of turn","1928CHA.EVA.regular.comment.csv",23
-"CHA192808060",88,"$Wilcy Moore would be batting out of turn here; Heimach is hitting for Moore; theorectically, he is not batting out of turn as a pinch hitter","1928CHA.EVA.regular.comment.csv",24
-"CHA192808060",92,"pbp account ends here, rest deduced","1928CHA.EVA.regular.comment.csv",25
-"CHA192808060",93,"$Bob Meusel batted out of turn","1928CHA.EVA.regular.comment.csv",26
-"CHA192808060",102,"$Cedric Durst batted out of turn","1928CHA.EVA.regular.comment.csv",27
-"CHA192808060",103,"$Earle Combs batted out of turn","1928CHA.EVA.regular.comment.csv",28
-"CHA192808060",112,"$George Pipgras batted out of turn","1928CHA.EVA.regular.comment.csv",29
-"CHA192808060",118,"$Bob Meusel batted out of turn","1928CHA.EVA.regular.comment.csv",30
-"CHA192808060",126,"$the White Sox pointed out that Cedric Durst was batting out of turn, but Umpire Bill Dinneen said Durst had a right to bat where he was, prompting the White Sox to file a protest in case the Yankees won","1928CHA.EVA.regular.comment.csv",31
-"CHA192808060",127,"$Earle Combs batted out of turn","1928CHA.EVA.regular.comment.csv",32
-"CHA192808070",41,"ej,pascb102,P,mcgob901,Call at 1B Ben Paschal ejected by 1B umpire Bill McGowan from the bench","1928CHA.EVA.regular.comment.csv",33
-"CHA192808070",71,"missing top of 9th to end of CHA192808070 reconstructed by DWV","1928CHA.EVA.regular.comment.csv",34
-"CHA192808070",79,"defensive credit made up","1928CHA.EVA.regular.comment.csv",35
-"CHA192809020",36,"$Game halted for 30 minutes due to rain","1928CHA.EVA.regular.comment.csv",36
-"CHA192809050",15,"$Moe Berg left with injured finger","1928CHA.EVA.regular.comment.csv",37
-"CHA192809210",16,"ej,metza101,P,guthb901,Call at HP Alex Metzler ejected by HP umpire Bill Guthrie","1928CHA.EVA.regular.comment.csv",38
-"CHA192809270",50,"$Carl Reynolds was awarded 3B when Jimmy Dykes was called for obstruction","1928CHA.EVA.regular.comment.csv",39
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"CHA192804110",28,"$Lou Fonseca & Ed Morgan collided","1928CHA.EVA.regular.comment.csv",2
+"CHA192804110",41,"$Ed Morgan left with left shoulder and possible concussion","1928CHA.EVA.regular.comment.csv",3
+"CHA192804120",51,"$lost in sun","1928CHA.EVA.regular.comment.csv",4
+"CHA192804120",54,"$missed bunt","1928CHA.EVA.regular.comment.csv",5
+"CHA192804130",54,"Game called for rain","1928CHA.EVA.regular.comment.csv",6
+"CHA192804160",64,"$Carl Reynolds injured on steal","1928CHA.EVA.regular.comment.csv",7
+"CHA192805020",61,"$both runners ended up at 2B","1928CHA.EVA.regular.comment.csv",8
+"CHA192805230",53,"2b fumbled p throw","1928CHA.EVA.regular.comment.csv",9
+"CHA192805240",45,"$Throw to first attempting to complete DP hit runner in head","1928CHA.EVA.regular.comment.csv",10
+"CHA192805240",57,"$Clancy dropped bunt to get DP","1928CHA.EVA.regular.comment.csv",11
+"CHA192806020",4,"$intermediate overthrow so no DP","1928CHA.EVA.regular.comment.csv",12
+"CHA192806040",6,"$Tris Speaker took 2B when Buck Crouse attempted to pickoff Ty Cobb at 3B","1928CHA.EVA.regular.comment.csv",13
+"CHA192806040",78,"rain started","1928CHA.EVA.regular.comment.csv",14
+"CHA192806070",65,"$Buck Redfern made a wild thrown in the rundown","1928CHA.EVA.regular.comment.csv",15
+"CHA192806120",19,"DWS: last two plays really one to be combined","1928CHA.EVA.regular.comment.csv",16
+"CHA192806120",43,"$Buck Crouse left with split finger from foul ball","1928CHA.EVA.regular.comment.csv",17
+"CHA192807021",10,"$Melillo spiked on play.","1928CHA.EVA.regular.comment.csv",18
+"CHA192807252",30,"Hunnerfield makes 3rd, and Cochrane throws there wildly","1928CHA.EVA.regular.comment.csv",19
+"CHA192807270",71,"$Willie Kamm pulled the hidden ball trick on Mickey Cochrane","1928CHA.EVA.regular.comment.csv",20
+"CHA192807292",14,"ej,reevb101,P,hildg101,Bench-jockeying ej,wests101,P,hildg101,Bench-jockeying ej,braxg101,P,hildg101,Bench-jockeying ej,burkb102,P,hildg101,Bench-jockeying ej,zacht101,P,hildg101,Bench-jockeying $Washington players Reeves, West, Braxton, Burke, and Zachary were ejected from the dugout by umpire Hildebrand for yelling insults at White Sox pitcher Adkins","1928CHA.EVA.regular.comment.csv",21
+"CHA192807292",25,"ej,altrn101,C,hildg101,Bench-jockeying $Washington coach Altrock was ejected by umpire Hildebrand for continuing to yell insults at pitcher Adkins","1928CHA.EVA.regular.comment.csv",22
+"CHA192808060",84,"$Cedric Durst batted out of turn; Durst pinch ran for Lou Gehrig in the fourth lineup spot but batted in the ninth spot","1928CHA.EVA.regular.comment.csv",23
+"CHA192808060",85,"$Earle Combs batted out of turn","1928CHA.EVA.regular.comment.csv",24
+"CHA192808060",88,"$Wilcy Moore would be batting out of turn here; Heimach is hitting for Moore; theorectically, he is not batting out of turn as a pinch hitter","1928CHA.EVA.regular.comment.csv",25
+"CHA192808060",92,"pbp account ends here, rest deduced","1928CHA.EVA.regular.comment.csv",26
+"CHA192808060",93,"$Bob Meusel batted out of turn","1928CHA.EVA.regular.comment.csv",27
+"CHA192808060",102,"$Cedric Durst batted out of turn","1928CHA.EVA.regular.comment.csv",28
+"CHA192808060",103,"$Earle Combs batted out of turn","1928CHA.EVA.regular.comment.csv",29
+"CHA192808060",112,"$George Pipgras batted out of turn","1928CHA.EVA.regular.comment.csv",30
+"CHA192808060",118,"$Bob Meusel batted out of turn","1928CHA.EVA.regular.comment.csv",31
+"CHA192808060",126,"$the White Sox pointed out that Cedric Durst was batting out of turn, but Umpire Bill Dinneen said Durst had a right to bat where he was, prompting the White Sox to file a protest in case the Yankees won","1928CHA.EVA.regular.comment.csv",32
+"CHA192808060",127,"$Earle Combs batted out of turn","1928CHA.EVA.regular.comment.csv",33
+"CHA192808070",41,"ej,pascb102,P,mcgob901,Call at 1B Ben Paschal ejected by 1B umpire Bill McGowan from the bench","1928CHA.EVA.regular.comment.csv",34
+"CHA192808070",71,"missing top of 9th to end of CHA192808070 reconstructed by DWV","1928CHA.EVA.regular.comment.csv",35
+"CHA192808070",79,"defensive credit made up","1928CHA.EVA.regular.comment.csv",36
+"CHA192809020",36,"$Game halted for 30 minutes due to rain","1928CHA.EVA.regular.comment.csv",37
+"CHA192809050",15,"$Moe Berg left with injured finger","1928CHA.EVA.regular.comment.csv",38
+"CHA192809210",16,"ej,metza101,P,guthb901,Call at HP Alex Metzler ejected by HP umpire Bill Guthrie","1928CHA.EVA.regular.comment.csv",39
+"CHA192809270",50,"$Carl Reynolds was awarded 3B when Jimmy Dykes was called for obstruction","1928CHA.EVA.regular.comment.csv",40

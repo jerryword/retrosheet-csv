@@ -1,17 +1,18 @@
-"SDN197004080",67,"ej,cepeo101,P,steim901,Balls and strikes Orlando Cepeda ejected by HP umpire Mel Steiner","FILENAME_TX","LINE_NUMBER_CT"
-"SDN197004260",64,"$Tim McCarver ran into the Padres dugout to tag Jerry Morales who missed HP","1970SDN.EVN.regular.comment.csv",2
-"SDN197004290",42,"Debut game for John Strohmayer","1970SDN.EVN.regular.comment.csv",3
-"SDN197005020",53,"ej,krane101,P,barla901,Balls and strikes Ed Kranepool ejected by HP umpire Al Barlick","1970SDN.EVN.regular.comment.csv",4
-"SDN197005120",37,"ej,kingc101,M,harvd901,Balls and strikes Giants Manager Clyde King ejected by HP umpire Doug Harvey","1970SDN.EVN.regular.comment.csv",5
-"SDN197006090",45,"ej,kellv101,P,varge901,Called third strike Van Kelly ejected by HP umpire Ed Vargo","1970SDN.EVN.regular.comment.csv",6
-"SDN197006160",61,"Debut game for Al Hrabosky","1970SDN.EVN.regular.comment.csv",7
-"SDN197008260",1,"Debut game for Fred Cambria","1970SDN.EVN.regular.comment.csv",8
-"SDN197008260",3,"ej,aloum101,P,olsea901,Call at 2B ej,murtd101,M,olsea901,Call at 2B Matty Alou  and Pirates Manager Danny Murtaugh ejected by 2B umpire Andy Olsen","1970SDN.EVN.regular.comment.csv",9
-"SDN197008270",24,"umpchange,3,umphome,burkk101 umpchange,3,ump2b,(None) $HP umpire Lee Weyer struck near the right elbow by foul ball on the 0-2 pitch; injured and left game; 2B umpire Ken Burkhart moved to HP","1970SDN.EVN.regular.comment.csv",10
-"SDN197008280",41,"ej,hundr101,P,olsea901,Refusal to give umpire the ball ej,durol101,M,olsea901,Threw ball into dugout $Fergie Jenkins threw the ball to Randy Hundley, asking the catcher to rub the shine off it; HP umpire Andy Olsen asked Hundley for the ball but Hundley refused, putting the ball behind his back; Hundley was ejected by Olsen; Cubs Manager Leo Durocher ran out, took the ball from Hundley and rolled it into the Cubs dugout; Durocher was ejected by Olsen","1970SDN.EVN.regular.comment.csv",11
-"SDN197008280",80,"Ron Herbel objected to the ball four call and was told to be quiet by HP umpire Andy Olsen","1970SDN.EVN.regular.comment.csv",12
-"SDN197008280",82,"ej,herbr102,P,olsea901,Balls and strikes ej,gomep101,M,olsea901,Balls and strikes Ron Herbel and Padres Manager Preston Gomez ejected by HP umpire Andy Olsen for continuing to argue the strike zone","1970SDN.EVN.regular.comment.csv",13
-"SDN197009071",1,"Debut game for Ken Forsch","1970SDN.EVN.regular.comment.csv",14
-"SDN197009100",60,"Debut game for Dave Robinson","1970SDN.EVN.regular.comment.csv",15
-"SDN197009180",49,"ej,gastc101,P,sudoe901,Called strike 3 $Gaston ejected by HP umpire Sudol for arguing called strike 3","1970SDN.EVN.regular.comment.csv",16
-"SDN197009180",69,"umpchange,9,umphome,weyel901 umpchange,9,ump2b,(None) $HP umpire Sudol injured sometime in 9th with foul ball off his foot; Weyer went behind the plate and the game was finished with 3 umpires","1970SDN.EVN.regular.comment.csv",17
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"SDN197004080",67,"ej,cepeo101,P,steim901,Balls and strikes Orlando Cepeda ejected by HP umpire Mel Steiner","1970SDN.EVN.regular.comment.csv",2
+"SDN197004260",64,"$Tim McCarver ran into the Padres dugout to tag Jerry Morales who missed HP","1970SDN.EVN.regular.comment.csv",3
+"SDN197004290",42,"Debut game for John Strohmayer","1970SDN.EVN.regular.comment.csv",4
+"SDN197005020",53,"ej,krane101,P,barla901,Balls and strikes Ed Kranepool ejected by HP umpire Al Barlick","1970SDN.EVN.regular.comment.csv",5
+"SDN197005120",37,"ej,kingc101,M,harvd901,Balls and strikes Giants Manager Clyde King ejected by HP umpire Doug Harvey","1970SDN.EVN.regular.comment.csv",6
+"SDN197006090",45,"ej,kellv101,P,varge901,Called third strike Van Kelly ejected by HP umpire Ed Vargo","1970SDN.EVN.regular.comment.csv",7
+"SDN197006160",61,"Debut game for Al Hrabosky","1970SDN.EVN.regular.comment.csv",8
+"SDN197008260",1,"Debut game for Fred Cambria","1970SDN.EVN.regular.comment.csv",9
+"SDN197008260",3,"ej,aloum101,P,olsea901,Call at 2B ej,murtd101,M,olsea901,Call at 2B Matty Alou  and Pirates Manager Danny Murtaugh ejected by 2B umpire Andy Olsen","1970SDN.EVN.regular.comment.csv",10
+"SDN197008270",24,"umpchange,3,umphome,burkk101 umpchange,3,ump2b,(None) $HP umpire Lee Weyer struck near the right elbow by foul ball on the 0-2 pitch; injured and left game; 2B umpire Ken Burkhart moved to HP","1970SDN.EVN.regular.comment.csv",11
+"SDN197008280",41,"ej,hundr101,P,olsea901,Refusal to give umpire the ball ej,durol101,M,olsea901,Threw ball into dugout $Fergie Jenkins threw the ball to Randy Hundley, asking the catcher to rub the shine off it; HP umpire Andy Olsen asked Hundley for the ball but Hundley refused, putting the ball behind his back; Hundley was ejected by Olsen; Cubs Manager Leo Durocher ran out, took the ball from Hundley and rolled it into the Cubs dugout; Durocher was ejected by Olsen","1970SDN.EVN.regular.comment.csv",12
+"SDN197008280",80,"Ron Herbel objected to the ball four call and was told to be quiet by HP umpire Andy Olsen","1970SDN.EVN.regular.comment.csv",13
+"SDN197008280",82,"ej,herbr102,P,olsea901,Balls and strikes ej,gomep101,M,olsea901,Balls and strikes Ron Herbel and Padres Manager Preston Gomez ejected by HP umpire Andy Olsen for continuing to argue the strike zone","1970SDN.EVN.regular.comment.csv",14
+"SDN197009071",1,"Debut game for Ken Forsch","1970SDN.EVN.regular.comment.csv",15
+"SDN197009100",60,"Debut game for Dave Robinson","1970SDN.EVN.regular.comment.csv",16
+"SDN197009180",49,"ej,gastc101,P,sudoe901,Called strike 3 $Gaston ejected by HP umpire Sudol for arguing called strike 3","1970SDN.EVN.regular.comment.csv",17
+"SDN197009180",69,"umpchange,9,umphome,weyel901 umpchange,9,ump2b,(None) $HP umpire Sudol injured sometime in 9th with foul ball off his foot; Weyer went behind the plate and the game was finished with 3 umpires","1970SDN.EVN.regular.comment.csv",18

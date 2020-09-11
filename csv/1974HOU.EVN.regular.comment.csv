@@ -1,30 +1,31 @@
-"HOU197404120",64,"missing play in HOU197404120","FILENAME_TX","LINE_NUMBER_CT"
-"HOU197404130",73,"missing play in HOU197404130","1974HOU.EVN.regular.comment.csv",2
-"HOU197404210",48,"$Tommy Helm rounded 3B too far on the infield hit","1974HOU.EVN.regular.comment.csv",3
-"HOU197404210",50,"$attempted double steal","1974HOU.EVN.regular.comment.csv",4
-"HOU197404210",77,"hit the 3B bag","1974HOU.EVN.regular.comment.csv",5
-"HOU197404290",23,"Debut game for Jim Todd","1974HOU.EVN.regular.comment.csv",6
-"HOU197404300",7,"Larry Milbourne turned ankle","1974HOU.EVN.regular.comment.csv",7
-"HOU197405010",35,"Tom Griffin left with injury","1974HOU.EVN.regular.comment.csv",8
-"HOU197405050",68,"Bob Gibson left with sore right knee","1974HOU.EVN.regular.comment.csv",9
-"HOU197405070",35,"$Tom Griffin threw to 3B, where there was no runner; it was ruled a balk","1974HOU.EVN.regular.comment.csv",10
-"HOU197405090",36,"$Rennie Stennett missed 2B on apparent double to RF by Gene Clines","1974HOU.EVN.regular.comment.csv",11
-"HOU197405200",29,"$Doug Rader made catch in the dugout","1974HOU.EVN.regular.comment.csv",12
-"HOU197405210",1,"Debut game for Dan Spillner","1974HOU.EVN.regular.comment.csv",13
-"HOU197406100",3,"$Mike Schmidt's fly ball hit CF speaker, 117 ft above field","1974HOU.EVN.regular.comment.csv",14
-"HOU197406260",27,"ej,hattg101,C,froeb901,Call at 1B $Astros coach Hatton ejected by 1B umpire Froemming for arguing that Cedeno was safe at 1st","1974HOU.EVN.regular.comment.csv",15
-"HOU197407050",0,"$umpire Shag Crawford missed the game due to a back problem","1974HOU.EVN.regular.comment.csv",16
-"HOU197407060",0,"$umpire Shag Crawford missed the game due to a back problem","1974HOU.EVN.regular.comment.csv",17
-"HOU197407060",15,"$Larry Demery was hit on the right forearm","1974HOU.EVN.regular.comment.csv",18
-"HOU197407070",0,"$umpire Shag Crawford missed the game due to a back problem","1974HOU.EVN.regular.comment.csv",19
-"HOU197407120",6,"$Jerry Morales dropped a sinking liner","1974HOU.EVN.regular.comment.csv",20
-"HOU197407280",27,"$Greg Gross out on appeal for leaving 1B too soon","1974HOU.EVN.regular.comment.csv",21
-"HOU197408090",31,"Dennis Blair missed bag","1974HOU.EVN.regular.comment.csv",22
-"HOU197408200",37,"Bob Apodaca left with blister","1974HOU.EVN.regular.comment.csv",23
-"HOU197408210",50,"Debut game for Ramon de los Santos","1974HOU.EVN.regular.comment.csv",24
-"HOU197409020",60,"ej,andes101,M,dalej901,Call at HP Reds Manager Sparky Anderson ejected by HP umpire Jerry Dale","1974HOU.EVN.regular.comment.csv",25
-"HOU197409030",67,"ej,gomep101,M,harvd901,Reversal of balk call $Astros manager Gomez ejected by 2B umpire Harvey when balk call was reversed","1974HOU.EVN.regular.comment.csv",26
-"HOU197409070",1,"Debut game for Paul Siebert","1974HOU.EVN.regular.comment.csv",27
-"HOU197409070",61,"Debut game for John Scott","1974HOU.EVN.regular.comment.csv",28
-"HOU197409100",98,"Debut game for Gary Lavelle","1974HOU.EVN.regular.comment.csv",29
-"HOU197410020",58,"Debut game for Kevin Pasley","1974HOU.EVN.regular.comment.csv",30
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"HOU197404120",64,"missing play in HOU197404120","1974HOU.EVN.regular.comment.csv",2
+"HOU197404130",73,"missing play in HOU197404130","1974HOU.EVN.regular.comment.csv",3
+"HOU197404210",48,"$Tommy Helm rounded 3B too far on the infield hit","1974HOU.EVN.regular.comment.csv",4
+"HOU197404210",50,"$attempted double steal","1974HOU.EVN.regular.comment.csv",5
+"HOU197404210",77,"hit the 3B bag","1974HOU.EVN.regular.comment.csv",6
+"HOU197404290",23,"Debut game for Jim Todd","1974HOU.EVN.regular.comment.csv",7
+"HOU197404300",7,"Larry Milbourne turned ankle","1974HOU.EVN.regular.comment.csv",8
+"HOU197405010",35,"Tom Griffin left with injury","1974HOU.EVN.regular.comment.csv",9
+"HOU197405050",68,"Bob Gibson left with sore right knee","1974HOU.EVN.regular.comment.csv",10
+"HOU197405070",35,"$Tom Griffin threw to 3B, where there was no runner; it was ruled a balk","1974HOU.EVN.regular.comment.csv",11
+"HOU197405090",36,"$Rennie Stennett missed 2B on apparent double to RF by Gene Clines","1974HOU.EVN.regular.comment.csv",12
+"HOU197405200",29,"$Doug Rader made catch in the dugout","1974HOU.EVN.regular.comment.csv",13
+"HOU197405210",1,"Debut game for Dan Spillner","1974HOU.EVN.regular.comment.csv",14
+"HOU197406100",3,"$Mike Schmidt's fly ball hit CF speaker, 117 ft above field","1974HOU.EVN.regular.comment.csv",15
+"HOU197406260",27,"ej,hattg101,C,froeb901,Call at 1B $Astros coach Hatton ejected by 1B umpire Froemming for arguing that Cedeno was safe at 1st","1974HOU.EVN.regular.comment.csv",16
+"HOU197407050",0,"$umpire Shag Crawford missed the game due to a back problem","1974HOU.EVN.regular.comment.csv",17
+"HOU197407060",0,"$umpire Shag Crawford missed the game due to a back problem","1974HOU.EVN.regular.comment.csv",18
+"HOU197407060",15,"$Larry Demery was hit on the right forearm","1974HOU.EVN.regular.comment.csv",19
+"HOU197407070",0,"$umpire Shag Crawford missed the game due to a back problem","1974HOU.EVN.regular.comment.csv",20
+"HOU197407120",6,"$Jerry Morales dropped a sinking liner","1974HOU.EVN.regular.comment.csv",21
+"HOU197407280",27,"$Greg Gross out on appeal for leaving 1B too soon","1974HOU.EVN.regular.comment.csv",22
+"HOU197408090",31,"Dennis Blair missed bag","1974HOU.EVN.regular.comment.csv",23
+"HOU197408200",37,"Bob Apodaca left with blister","1974HOU.EVN.regular.comment.csv",24
+"HOU197408210",50,"Debut game for Ramon de los Santos","1974HOU.EVN.regular.comment.csv",25
+"HOU197409020",60,"ej,andes101,M,dalej901,Call at HP Reds Manager Sparky Anderson ejected by HP umpire Jerry Dale","1974HOU.EVN.regular.comment.csv",26
+"HOU197409030",67,"ej,gomep101,M,harvd901,Reversal of balk call $Astros manager Gomez ejected by 2B umpire Harvey when balk call was reversed","1974HOU.EVN.regular.comment.csv",27
+"HOU197409070",1,"Debut game for Paul Siebert","1974HOU.EVN.regular.comment.csv",28
+"HOU197409070",61,"Debut game for John Scott","1974HOU.EVN.regular.comment.csv",29
+"HOU197409100",98,"Debut game for Gary Lavelle","1974HOU.EVN.regular.comment.csv",30
+"HOU197410020",58,"Debut game for Kevin Pasley","1974HOU.EVN.regular.comment.csv",31

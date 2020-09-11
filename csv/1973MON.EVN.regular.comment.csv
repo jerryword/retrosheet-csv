@@ -1,29 +1,30 @@
-"MON197304170",1,"Debut game for Dick Ruthven","FILENAME_TX","LINE_NUMBER_CT"
-"MON197304180",56,"Debut game for Larry Cox","1973MON.EVN.regular.comment.csv",2
-"MON197306070",65,"missing fielding in MON197306070","1973MON.EVN.regular.comment.csv",3
-"MON197306070",66,"missing play in MON197306070","1973MON.EVN.regular.comment.csv",4
-"MON197306140",52,"ej,zimmd101,M,wendh901,Call at 1B $Padres manager Zimmer ejected by 1B umpire Wendelstedt for arguing that Bailey was out at 1st","1973MON.EVN.regular.comment.csv",5
-"MON197306150",55,"$Manny Mota's batted ball struck Al Downing's leg","1973MON.EVN.regular.comment.csv",6
-"MON197306160",61,"Game called for rain","1973MON.EVN.regular.comment.csv",7
-"MON197306170",7,"$the ball struck the 3B bag","1973MON.EVN.regular.comment.csv",8
-"MON197306170",104,"Dave Lopes hurt on DP","1973MON.EVN.regular.comment.csv",9
-"MON197307061",81,"Debut game for Otis Thornton","1973MON.EVN.regular.comment.csv",10
-"MON197307080",30,"$Tim Foli suffered broken jaw in collision with Bob Watson","1973MON.EVN.regular.comment.csv",11
-"MON197307310",11,"umpchange,1,umphome,pullf901 umpchange,1,ump2b,(None) $HP umpire Lee Weyer struck on his left wrist by a foul ball by Ken Singleton; he suffered no broken bones; 2B umpire Frank Pulli moved to HP","1973MON.EVN.regular.comment.csv",12
-"MON197307310",47,"$Tom Walker threw a bruchback pitch at Alan Foster, who had hit Mike Jorgensen in the previous inning; both benches cleared; there was a mild scuffle","1973MON.EVN.regular.comment.csv",13
-"MON197308170",80,"ej,renks101,P,varge901,Balls and strikes (from bench) Steve Renko ejected by HP umpire Ed Vargo from the bench","1973MON.EVN.regular.comment.csv",14
-"MON197308180",46,"umpchange,6,umphome,tatat901 umpchange,6,ump2b,(None) HP umpire Paul Pryor struck by a foul ball on the foot and left game; 2B umpire Terry Tata moved to HP","1973MON.EVN.regular.comment.csv",15
-"MON197308190",26,"ej,boccj101,P,froeb901,Balls and strikes John Boccabella ejected by HP umpire Bruce Froemming","1973MON.EVN.regular.comment.csv",16
-"MON197308190",52,"ej,mathe101,M,tatat901,Call at 1B Braves Manager Eddie Mathews ejected by 1B umpire Terry Tata","1973MON.EVN.regular.comment.csv",17
-"MON197308200",75,"$Bobby Bonds called for interference","1973MON.EVN.regular.comment.csv",18
-"MON197308240",68,"fan interference","1973MON.EVN.regular.comment.csv",19
-"MON197309030",25,"40 minute rain delay","1973MON.EVN.regular.comment.csv",20
-"MON197309030",61,"ej,lockw101,M,craws901,Checked swing $Cubs manager Lockman ejected by HP umpire Crawford for arguing check swing","1973MON.EVN.regular.comment.csv",21
-"MON197309072",77,"$Mets ended up with two runners on 2B","1973MON.EVN.regular.comment.csv",22
-"MON197309080",0,"Debut for umpire Dutch Rennert","1973MON.EVN.regular.comment.csv",23
-"MON197309090",62,"Debut game for John Montague","1973MON.EVN.regular.comment.csv",24
-"MON197309140",39,"Debut game for Barry Foote","1973MON.EVN.regular.comment.csv",25
-"MON197309150",44,"Debut game for Jim Essian","1973MON.EVN.regular.comment.csv",26
-"MON197309160",68,"$Mike Schmidt's throw hit runner at HP","1973MON.EVN.regular.comment.csv",27
-"MON197309172",96,"72 minute rain delay","1973MON.EVN.regular.comment.csv",28
-"MON197309241",67,"$Ron Woods ran into the wall chasing HR","1973MON.EVN.regular.comment.csv",29
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"MON197304170",1,"Debut game for Dick Ruthven","1973MON.EVN.regular.comment.csv",2
+"MON197304180",56,"Debut game for Larry Cox","1973MON.EVN.regular.comment.csv",3
+"MON197306070",65,"missing fielding in MON197306070","1973MON.EVN.regular.comment.csv",4
+"MON197306070",66,"missing play in MON197306070","1973MON.EVN.regular.comment.csv",5
+"MON197306140",52,"ej,zimmd101,M,wendh901,Call at 1B $Padres manager Zimmer ejected by 1B umpire Wendelstedt for arguing that Bailey was out at 1st","1973MON.EVN.regular.comment.csv",6
+"MON197306150",55,"$Manny Mota's batted ball struck Al Downing's leg","1973MON.EVN.regular.comment.csv",7
+"MON197306160",61,"Game called for rain","1973MON.EVN.regular.comment.csv",8
+"MON197306170",7,"$the ball struck the 3B bag","1973MON.EVN.regular.comment.csv",9
+"MON197306170",104,"Dave Lopes hurt on DP","1973MON.EVN.regular.comment.csv",10
+"MON197307061",81,"Debut game for Otis Thornton","1973MON.EVN.regular.comment.csv",11
+"MON197307080",30,"$Tim Foli suffered broken jaw in collision with Bob Watson","1973MON.EVN.regular.comment.csv",12
+"MON197307310",11,"umpchange,1,umphome,pullf901 umpchange,1,ump2b,(None) $HP umpire Lee Weyer struck on his left wrist by a foul ball by Ken Singleton; he suffered no broken bones; 2B umpire Frank Pulli moved to HP","1973MON.EVN.regular.comment.csv",13
+"MON197307310",47,"$Tom Walker threw a bruchback pitch at Alan Foster, who had hit Mike Jorgensen in the previous inning; both benches cleared; there was a mild scuffle","1973MON.EVN.regular.comment.csv",14
+"MON197308170",80,"ej,renks101,P,varge901,Balls and strikes (from bench) Steve Renko ejected by HP umpire Ed Vargo from the bench","1973MON.EVN.regular.comment.csv",15
+"MON197308180",46,"umpchange,6,umphome,tatat901 umpchange,6,ump2b,(None) HP umpire Paul Pryor struck by a foul ball on the foot and left game; 2B umpire Terry Tata moved to HP","1973MON.EVN.regular.comment.csv",16
+"MON197308190",26,"ej,boccj101,P,froeb901,Balls and strikes John Boccabella ejected by HP umpire Bruce Froemming","1973MON.EVN.regular.comment.csv",17
+"MON197308190",52,"ej,mathe101,M,tatat901,Call at 1B Braves Manager Eddie Mathews ejected by 1B umpire Terry Tata","1973MON.EVN.regular.comment.csv",18
+"MON197308200",75,"$Bobby Bonds called for interference","1973MON.EVN.regular.comment.csv",19
+"MON197308240",68,"fan interference","1973MON.EVN.regular.comment.csv",20
+"MON197309030",25,"40 minute rain delay","1973MON.EVN.regular.comment.csv",21
+"MON197309030",61,"ej,lockw101,M,craws901,Checked swing $Cubs manager Lockman ejected by HP umpire Crawford for arguing check swing","1973MON.EVN.regular.comment.csv",22
+"MON197309072",77,"$Mets ended up with two runners on 2B","1973MON.EVN.regular.comment.csv",23
+"MON197309080",0,"Debut for umpire Dutch Rennert","1973MON.EVN.regular.comment.csv",24
+"MON197309090",62,"Debut game for John Montague","1973MON.EVN.regular.comment.csv",25
+"MON197309140",39,"Debut game for Barry Foote","1973MON.EVN.regular.comment.csv",26
+"MON197309150",44,"Debut game for Jim Essian","1973MON.EVN.regular.comment.csv",27
+"MON197309160",68,"$Mike Schmidt's throw hit runner at HP","1973MON.EVN.regular.comment.csv",28
+"MON197309172",96,"72 minute rain delay","1973MON.EVN.regular.comment.csv",29
+"MON197309241",67,"$Ron Woods ran into the wall chasing HR","1973MON.EVN.regular.comment.csv",30

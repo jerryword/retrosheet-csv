@@ -1,611 +1,612 @@
-"PHI201903280",13,"Mound Visit","FILENAME_TX","LINE_NUMBER_CT"
-"PHI201903280",28,"Mound Visit","2019PHI.EVN.regular.comment.csv",2
-"PHI201903280",34,"Mound Visit","2019PHI.EVN.regular.comment.csv",3
-"PHI201903280",52,"Mound Visit","2019PHI.EVN.regular.comment.csv",4
-"PHI201903280",53,"Mound Visit","2019PHI.EVN.regular.comment.csv",5
-"PHI201903280",57,"Mound Visit","2019PHI.EVN.regular.comment.csv",6
-"PHI201903280",58,"Mound Visit","2019PHI.EVN.regular.comment.csv",7
-"PHI201903280",63,"Mound Visit","2019PHI.EVN.regular.comment.csv",8
-"PHI201903300",7,"$Braves challenged call that Segura was safe at 3rd; call was overturned - out advancing to complete double play","2019PHI.EVN.regular.comment.csv",9
-"PHI201903300",27,"Mound Visit","2019PHI.EVN.regular.comment.csv",10
-"PHI201903300",37,"Mound Visit","2019PHI.EVN.regular.comment.csv",11
-"PHI201903300",40,"Mound Visit","2019PHI.EVN.regular.comment.csv",12
-"PHI201903300",43,"Mound Visit","2019PHI.EVN.regular.comment.csv",13
-"PHI201903300",48,"Mound Visit","2019PHI.EVN.regular.comment.csv",14
-"PHI201903300",52,"Mound Visit $Braves challenged call that Swanson was out at 1st to complete double play; call was overturned - safe at 1st","2019PHI.EVN.regular.comment.csv",15
-"PHI201903300",56,"Mound Visit","2019PHI.EVN.regular.comment.csv",16
-"PHI201903300",58,"Mound Visit","2019PHI.EVN.regular.comment.csv",17
-"PHI201903300",63,"Mound Visit","2019PHI.EVN.regular.comment.csv",18
-"PHI201903300",67,"Mound Visit","2019PHI.EVN.regular.comment.csv",19
-"PHI201903300",70,"Mound Visit","2019PHI.EVN.regular.comment.csv",20
-"PHI201903300",72,"Mound Visit","2019PHI.EVN.regular.comment.csv",21
-"PHI201903300",75,"Mound Visit","2019PHI.EVN.regular.comment.csv",22
-"PHI201903300",78,"Mound Visit","2019PHI.EVN.regular.comment.csv",23
-"PHI201903310",3,"Mound Visit","2019PHI.EVN.regular.comment.csv",24
-"PHI201903310",7,"Mound Visit","2019PHI.EVN.regular.comment.csv",25
-"PHI201903310",9,"Mound Visit","2019PHI.EVN.regular.comment.csv",26
-"PHI201903310",15,"$Phillies challenged call that McCann was hit by pitch; call was upheld - hit by pitch","2019PHI.EVN.regular.comment.csv",27
-"PHI201903310",30,"Mound Visit","2019PHI.EVN.regular.comment.csv",28
-"PHI201903310",46,"Mound Visit","2019PHI.EVN.regular.comment.csv",29
-"PHI201903310",48,"Mound Visit","2019PHI.EVN.regular.comment.csv",30
-"PHI201903310",64,"ej,carls002,P,drakr901,Intentionally HBP $Braves pitcher Carle ejected by HP umpire Drake foro intentionally hitting Hoskins after home run","2019PHI.EVN.regular.comment.csv",31
-"PHI201904050",0,"$Steady light rain througout game","2019PHI.EVN.regular.comment.csv",32
-"PHI201904050",9,"Mound Visit","2019PHI.EVN.regular.comment.csv",33
-"PHI201904050",10,"Mound Visit","2019PHI.EVN.regular.comment.csv",34
-"PHI201904050",11,"Mound Visit","2019PHI.EVN.regular.comment.csv",35
-"PHI201904050",35,"Mound Visit","2019PHI.EVN.regular.comment.csv",36
-"PHI201904050",52,"Mound Visit","2019PHI.EVN.regular.comment.csv",37
-"PHI201904050",53,"Mound Visit","2019PHI.EVN.regular.comment.csv",38
-"PHI201904050",65,"Mound Visit","2019PHI.EVN.regular.comment.csv",39
-"PHI201904050",72,"Mound Visit","2019PHI.EVN.regular.comment.csv",40
-"PHI201904060",20,"Mound Visit","2019PHI.EVN.regular.comment.csv",41
-"PHI201904060",48,"Mound Visit","2019PHI.EVN.regular.comment.csv",42
-"PHI201904060",50,"Mound Visit","2019PHI.EVN.regular.comment.csv",43
-"PHI201904060",66,"Mound Visit","2019PHI.EVN.regular.comment.csv",44
-"PHI201904060",70,"Mound Visit","2019PHI.EVN.regular.comment.csv",45
-"PHI201904060",72,"Mound Visit","2019PHI.EVN.regular.comment.csv",46
-"PHI201904070",46,"Mound Visit","2019PHI.EVN.regular.comment.csv",47
-"PHI201904070",54,"Mound Visit","2019PHI.EVN.regular.comment.csv",48
-"PHI201904070",58,"Mound Visit","2019PHI.EVN.regular.comment.csv",49
-"PHI201904070",63,"Mound Visit","2019PHI.EVN.regular.comment.csv",50
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"PHI201903280",13,"Mound Visit","2019PHI.EVN.regular.comment.csv",2
+"PHI201903280",28,"Mound Visit","2019PHI.EVN.regular.comment.csv",3
+"PHI201903280",34,"Mound Visit","2019PHI.EVN.regular.comment.csv",4
+"PHI201903280",52,"Mound Visit","2019PHI.EVN.regular.comment.csv",5
+"PHI201903280",53,"Mound Visit","2019PHI.EVN.regular.comment.csv",6
+"PHI201903280",57,"Mound Visit","2019PHI.EVN.regular.comment.csv",7
+"PHI201903280",58,"Mound Visit","2019PHI.EVN.regular.comment.csv",8
+"PHI201903280",63,"Mound Visit","2019PHI.EVN.regular.comment.csv",9
+"PHI201903300",7,"$Braves challenged call that Segura was safe at 3rd; call was overturned - out advancing to complete double play","2019PHI.EVN.regular.comment.csv",10
+"PHI201903300",27,"Mound Visit","2019PHI.EVN.regular.comment.csv",11
+"PHI201903300",37,"Mound Visit","2019PHI.EVN.regular.comment.csv",12
+"PHI201903300",40,"Mound Visit","2019PHI.EVN.regular.comment.csv",13
+"PHI201903300",43,"Mound Visit","2019PHI.EVN.regular.comment.csv",14
+"PHI201903300",48,"Mound Visit","2019PHI.EVN.regular.comment.csv",15
+"PHI201903300",52,"Mound Visit $Braves challenged call that Swanson was out at 1st to complete double play; call was overturned - safe at 1st","2019PHI.EVN.regular.comment.csv",16
+"PHI201903300",56,"Mound Visit","2019PHI.EVN.regular.comment.csv",17
+"PHI201903300",58,"Mound Visit","2019PHI.EVN.regular.comment.csv",18
+"PHI201903300",63,"Mound Visit","2019PHI.EVN.regular.comment.csv",19
+"PHI201903300",67,"Mound Visit","2019PHI.EVN.regular.comment.csv",20
+"PHI201903300",70,"Mound Visit","2019PHI.EVN.regular.comment.csv",21
+"PHI201903300",72,"Mound Visit","2019PHI.EVN.regular.comment.csv",22
+"PHI201903300",75,"Mound Visit","2019PHI.EVN.regular.comment.csv",23
+"PHI201903300",78,"Mound Visit","2019PHI.EVN.regular.comment.csv",24
+"PHI201903310",3,"Mound Visit","2019PHI.EVN.regular.comment.csv",25
+"PHI201903310",7,"Mound Visit","2019PHI.EVN.regular.comment.csv",26
+"PHI201903310",9,"Mound Visit","2019PHI.EVN.regular.comment.csv",27
+"PHI201903310",15,"$Phillies challenged call that McCann was hit by pitch; call was upheld - hit by pitch","2019PHI.EVN.regular.comment.csv",28
+"PHI201903310",30,"Mound Visit","2019PHI.EVN.regular.comment.csv",29
+"PHI201903310",46,"Mound Visit","2019PHI.EVN.regular.comment.csv",30
+"PHI201903310",48,"Mound Visit","2019PHI.EVN.regular.comment.csv",31
+"PHI201903310",64,"ej,carls002,P,drakr901,Intentionally HBP $Braves pitcher Carle ejected by HP umpire Drake foro intentionally hitting Hoskins after home run","2019PHI.EVN.regular.comment.csv",32
+"PHI201904050",0,"$Steady light rain througout game","2019PHI.EVN.regular.comment.csv",33
+"PHI201904050",9,"Mound Visit","2019PHI.EVN.regular.comment.csv",34
+"PHI201904050",10,"Mound Visit","2019PHI.EVN.regular.comment.csv",35
+"PHI201904050",11,"Mound Visit","2019PHI.EVN.regular.comment.csv",36
+"PHI201904050",35,"Mound Visit","2019PHI.EVN.regular.comment.csv",37
+"PHI201904050",52,"Mound Visit","2019PHI.EVN.regular.comment.csv",38
+"PHI201904050",53,"Mound Visit","2019PHI.EVN.regular.comment.csv",39
+"PHI201904050",65,"Mound Visit","2019PHI.EVN.regular.comment.csv",40
+"PHI201904050",72,"Mound Visit","2019PHI.EVN.regular.comment.csv",41
+"PHI201904060",20,"Mound Visit","2019PHI.EVN.regular.comment.csv",42
+"PHI201904060",48,"Mound Visit","2019PHI.EVN.regular.comment.csv",43
+"PHI201904060",50,"Mound Visit","2019PHI.EVN.regular.comment.csv",44
+"PHI201904060",66,"Mound Visit","2019PHI.EVN.regular.comment.csv",45
+"PHI201904060",70,"Mound Visit","2019PHI.EVN.regular.comment.csv",46
+"PHI201904060",72,"Mound Visit","2019PHI.EVN.regular.comment.csv",47
+"PHI201904070",46,"Mound Visit","2019PHI.EVN.regular.comment.csv",48
+"PHI201904070",54,"Mound Visit","2019PHI.EVN.regular.comment.csv",49
+"PHI201904070",58,"Mound Visit","2019PHI.EVN.regular.comment.csv",50
 "PHI201904070",63,"Mound Visit","2019PHI.EVN.regular.comment.csv",51
-"PHI201904070",64,"Mound Visit","2019PHI.EVN.regular.comment.csv",52
-"PHI201904080",46,"Mound Visit","2019PHI.EVN.regular.comment.csv",53
-"PHI201904080",53,"Mound Visit","2019PHI.EVN.regular.comment.csv",54
-"PHI201904080",55,"Mound Visit","2019PHI.EVN.regular.comment.csv",55
-"PHI201904080",63,"$originally scored E5, changed to single on 04-10-2019","2019PHI.EVN.regular.comment.csv",56
-"PHI201904080",66,"Mound Visit","2019PHI.EVN.regular.comment.csv",57
-"PHI201904080",67,"Mound Visit","2019PHI.EVN.regular.comment.csv",58
-"PHI201904090",22,"Mound Visit","2019PHI.EVN.regular.comment.csv",59
-"PHI201904090",35,"Mound Visit","2019PHI.EVN.regular.comment.csv",60
-"PHI201904090",39,"Mound Visit","2019PHI.EVN.regular.comment.csv",61
-"PHI201904090",47,"Mound Visit","2019PHI.EVN.regular.comment.csv",62
-"PHI201904090",56,"Mound Visit","2019PHI.EVN.regular.comment.csv",63
-"PHI201904090",65,"Mound Visit Mound Visit","2019PHI.EVN.regular.comment.csv",64
-"PHI201904090",66,"Mound Visit","2019PHI.EVN.regular.comment.csv",65
-"PHI201904090",73,"Mound Visit","2019PHI.EVN.regular.comment.csv",66
-"PHI201904090",76,"Mound Visit","2019PHI.EVN.regular.comment.csv",67
-"PHI201904090",78,"Mound Visit","2019PHI.EVN.regular.comment.csv",68
-"PHI201904090",82,"$Umpire review of Soto's ball; call was upheld - homer","2019PHI.EVN.regular.comment.csv",69
-"PHI201904100",2,"Mound Visit","2019PHI.EVN.regular.comment.csv",70
-"PHI201904100",4,"Mound Visit","2019PHI.EVN.regular.comment.csv",71
-"PHI201904100",32,"Mound Visit","2019PHI.EVN.regular.comment.csv",72
-"PHI201904100",33,"Mound Visit","2019PHI.EVN.regular.comment.csv",73
-"PHI201904100",53,"Mound Visit","2019PHI.EVN.regular.comment.csv",74
-"PHI201904100",59,"Mound Visit","2019PHI.EVN.regular.comment.csv",75
-"PHI201904100",65,"Mound Visit","2019PHI.EVN.regular.comment.csv",76
-"PHI201904100",71,"Injury Delay","2019PHI.EVN.regular.comment.csv",77
-"PHI201904100",86,"Mound Visit","2019PHI.EVN.regular.comment.csv",78
-"PHI201904150",11,"Injury Delay","2019PHI.EVN.regular.comment.csv",79
-"PHI201904150",27,"Mound Visit","2019PHI.EVN.regular.comment.csv",80
-"PHI201904150",34,"Mound Visit","2019PHI.EVN.regular.comment.csv",81
-"PHI201904150",38,"Mound Visit","2019PHI.EVN.regular.comment.csv",82
-"PHI201904150",46,"Mound Visit","2019PHI.EVN.regular.comment.csv",83
-"PHI201904150",54,"Mound Visit","2019PHI.EVN.regular.comment.csv",84
-"PHI201904150",73,"Mound Visit $Phillies challenged call that Lagares was out at 2nd; call was overturned - safe on error and out stretching","2019PHI.EVN.regular.comment.csv",85
-"PHI201904150",77,"Mound Visit","2019PHI.EVN.regular.comment.csv",86
-"PHI201904150",80,"Mound Visit","2019PHI.EVN.regular.comment.csv",87
-"PHI201904150",89,"Mound Visit","2019PHI.EVN.regular.comment.csv",88
-"PHI201904160",7,"Injury Delay","2019PHI.EVN.regular.comment.csv",89
-"PHI201904160",9,"Mound Visit","2019PHI.EVN.regular.comment.csv",90
-"PHI201904160",12,"Mound Visit","2019PHI.EVN.regular.comment.csv",91
-"PHI201904160",12,"$Nimmo left with injured neck","2019PHI.EVN.regular.comment.csv",92
-"PHI201904160",18,"$Segura left with injured leg","2019PHI.EVN.regular.comment.csv",93
-"PHI201904160",34,"On-field Delay","2019PHI.EVN.regular.comment.csv",94
-"PHI201904160",48,"Mound Visit","2019PHI.EVN.regular.comment.csv",95
-"PHI201904160",61,"Mound Visit","2019PHI.EVN.regular.comment.csv",96
-"PHI201904160",62,"Mound Visit","2019PHI.EVN.regular.comment.csv",97
-"PHI201904170",26,"Mound Visit","2019PHI.EVN.regular.comment.csv",98
-"PHI201904170",34,"Injury Delay","2019PHI.EVN.regular.comment.csv",99
-"PHI201904170",56,"$Mets challenged call that Broxton was out at 1st; call was upheld - ground out","2019PHI.EVN.regular.comment.csv",100
-"PHI201904170",62,"Mound Visit","2019PHI.EVN.regular.comment.csv",101
-"PHI201904170",64,"Mound Visit","2019PHI.EVN.regular.comment.csv",102
-"PHI201904170",66,"Mound Visit","2019PHI.EVN.regular.comment.csv",103
-"PHI201904170",67,"Injury Delay","2019PHI.EVN.regular.comment.csv",104
-"PHI201904250",43,"Mound Visit","2019PHI.EVN.regular.comment.csv",105
-"PHI201904250",49,"Mound Visit","2019PHI.EVN.regular.comment.csv",106
-"PHI201904250",50,"Mound Visit","2019PHI.EVN.regular.comment.csv",107
-"PHI201904250",53,"$Fan interference","2019PHI.EVN.regular.comment.csv",108
-"PHI201904250",54,"Mound Visit","2019PHI.EVN.regular.comment.csv",109
-"PHI201904250",59,"Mound Visit","2019PHI.EVN.regular.comment.csv",110
-"PHI201904250",60,"Mound Visit","2019PHI.EVN.regular.comment.csv",111
-"PHI201904250",74,"Mound Visit","2019PHI.EVN.regular.comment.csv",112
-"PHI201904260",0,"$Rain delay of 1 hour 33 minutes at start","2019PHI.EVN.regular.comment.csv",113
-"PHI201904260",10,"$Phillies challenged call that Alfaro was safe at 1st; call was overturned - ground out","2019PHI.EVN.regular.comment.csv",114
-"PHI201904260",31,"$Batter's interference","2019PHI.EVN.regular.comment.csv",115
-"PHI201904260",42,"Mound Visit","2019PHI.EVN.regular.comment.csv",116
-"PHI201904260",49,"Mound Visit","2019PHI.EVN.regular.comment.csv",117
-"PHI201904260",53,"Mound Visit","2019PHI.EVN.regular.comment.csv",118
-"PHI201904260",54,"Mound Visit","2019PHI.EVN.regular.comment.csv",119
-"PHI201904260",61,"Mound Visit","2019PHI.EVN.regular.comment.csv",120
-"PHI201904270",12,"On-field Delay","2019PHI.EVN.regular.comment.csv",121
-"PHI201904270",20,"Mound Visit","2019PHI.EVN.regular.comment.csv",122
-"PHI201904270",21,"Injury Delay","2019PHI.EVN.regular.comment.csv",123
-"PHI201904270",49,"Mound Visit","2019PHI.EVN.regular.comment.csv",124
-"PHI201904270",50,"Mound Visit","2019PHI.EVN.regular.comment.csv",125
-"PHI201904270",51,"Mound Visit","2019PHI.EVN.regular.comment.csv",126
-"PHI201904270",56,"Mound Visit","2019PHI.EVN.regular.comment.csv",127
-"PHI201904270",57,"Mound Visit","2019PHI.EVN.regular.comment.csv",128
-"PHI201904270",65,"Mound Visit","2019PHI.EVN.regular.comment.csv",129
-"PHI201904270",76,"Mound Visit $Marlins challenged call that Granderson was out at 1st; call was upheld - ground out","2019PHI.EVN.regular.comment.csv",130
-"PHI201904270",84,"$originally scored as E6, changed to single on 04-28-2019","2019PHI.EVN.regular.comment.csv",131
-"PHI201904270",89,"Mound Visit","2019PHI.EVN.regular.comment.csv",132
-"PHI201904280",43,"Mound Visit","2019PHI.EVN.regular.comment.csv",133
-"PHI201904280",46,"Mound Visit","2019PHI.EVN.regular.comment.csv",134
-"PHI201904280",65,"Mound Visit","2019PHI.EVN.regular.comment.csv",135
-"PHI201904300",24,"Mound Visit","2019PHI.EVN.regular.comment.csv",136
-"PHI201904300",25,"Mound Visit","2019PHI.EVN.regular.comment.csv",137
-"PHI201904300",37,"Mound Visit","2019PHI.EVN.regular.comment.csv",138
-"PHI201905010",1,"Mound Visit","2019PHI.EVN.regular.comment.csv",139
-"PHI201905010",12,"$Phillies challenged call that Realmuto was out, claiming fly had been trapped; call was overturned - single","2019PHI.EVN.regular.comment.csv",140
-"PHI201905010",26,"Injury Delay","2019PHI.EVN.regular.comment.csv",141
-"PHI201905010",41,"$Tigers challenged call that Goodrum was out at 2nd; call was upheld - caught stealing","2019PHI.EVN.regular.comment.csv",142
-"PHI201905010",43,"Mound Visit","2019PHI.EVN.regular.comment.csv",143
-"PHI201905010",45,"Mound Visit","2019PHI.EVN.regular.comment.csv",144
-"PHI201905010",59,"Injury Delay Mound Visit","2019PHI.EVN.regular.comment.csv",145
-"PHI201905010",60,"Mound Visit","2019PHI.EVN.regular.comment.csv",146
-"PHI201905010",64,"Mound Visit","2019PHI.EVN.regular.comment.csv",147
-"PHI201905010",69,"Mound Visit","2019PHI.EVN.regular.comment.csv",148
-"PHI201905010",76,"Mound Visit","2019PHI.EVN.regular.comment.csv",149
-"PHI201905030",16,"Mound Visit","2019PHI.EVN.regular.comment.csv",150
-"PHI201905030",20,"Mound Visit","2019PHI.EVN.regular.comment.csv",151
-"PHI201905030",33,"Mound Visit","2019PHI.EVN.regular.comment.csv",152
-"PHI201905030",47,"Mound Visit","2019PHI.EVN.regular.comment.csv",153
-"PHI201905030",51,"Mound Visit","2019PHI.EVN.regular.comment.csv",154
-"PHI201905030",65,"On-field Delay","2019PHI.EVN.regular.comment.csv",155
-"PHI201905040",9,"Mound Visit","2019PHI.EVN.regular.comment.csv",156
-"PHI201905040",24,"$Adams left with injured shoulder","2019PHI.EVN.regular.comment.csv",157
-"PHI201905040",50,"Mound Visit","2019PHI.EVN.regular.comment.csv",158
-"PHI201905040",60,"Mound Visit","2019PHI.EVN.regular.comment.csv",159
-"PHI201905040",66,"Mound Visit","2019PHI.EVN.regular.comment.csv",160
-"PHI201905040",72,"Mound Visit","2019PHI.EVN.regular.comment.csv",161
+"PHI201904070",63,"Mound Visit","2019PHI.EVN.regular.comment.csv",52
+"PHI201904070",64,"Mound Visit","2019PHI.EVN.regular.comment.csv",53
+"PHI201904080",46,"Mound Visit","2019PHI.EVN.regular.comment.csv",54
+"PHI201904080",53,"Mound Visit","2019PHI.EVN.regular.comment.csv",55
+"PHI201904080",55,"Mound Visit","2019PHI.EVN.regular.comment.csv",56
+"PHI201904080",63,"$originally scored E5, changed to single on 04-10-2019","2019PHI.EVN.regular.comment.csv",57
+"PHI201904080",66,"Mound Visit","2019PHI.EVN.regular.comment.csv",58
+"PHI201904080",67,"Mound Visit","2019PHI.EVN.regular.comment.csv",59
+"PHI201904090",22,"Mound Visit","2019PHI.EVN.regular.comment.csv",60
+"PHI201904090",35,"Mound Visit","2019PHI.EVN.regular.comment.csv",61
+"PHI201904090",39,"Mound Visit","2019PHI.EVN.regular.comment.csv",62
+"PHI201904090",47,"Mound Visit","2019PHI.EVN.regular.comment.csv",63
+"PHI201904090",56,"Mound Visit","2019PHI.EVN.regular.comment.csv",64
+"PHI201904090",65,"Mound Visit Mound Visit","2019PHI.EVN.regular.comment.csv",65
+"PHI201904090",66,"Mound Visit","2019PHI.EVN.regular.comment.csv",66
+"PHI201904090",73,"Mound Visit","2019PHI.EVN.regular.comment.csv",67
+"PHI201904090",76,"Mound Visit","2019PHI.EVN.regular.comment.csv",68
+"PHI201904090",78,"Mound Visit","2019PHI.EVN.regular.comment.csv",69
+"PHI201904090",82,"$Umpire review of Soto's ball; call was upheld - homer","2019PHI.EVN.regular.comment.csv",70
+"PHI201904100",2,"Mound Visit","2019PHI.EVN.regular.comment.csv",71
+"PHI201904100",4,"Mound Visit","2019PHI.EVN.regular.comment.csv",72
+"PHI201904100",32,"Mound Visit","2019PHI.EVN.regular.comment.csv",73
+"PHI201904100",33,"Mound Visit","2019PHI.EVN.regular.comment.csv",74
+"PHI201904100",53,"Mound Visit","2019PHI.EVN.regular.comment.csv",75
+"PHI201904100",59,"Mound Visit","2019PHI.EVN.regular.comment.csv",76
+"PHI201904100",65,"Mound Visit","2019PHI.EVN.regular.comment.csv",77
+"PHI201904100",71,"Injury Delay","2019PHI.EVN.regular.comment.csv",78
+"PHI201904100",86,"Mound Visit","2019PHI.EVN.regular.comment.csv",79
+"PHI201904150",11,"Injury Delay","2019PHI.EVN.regular.comment.csv",80
+"PHI201904150",27,"Mound Visit","2019PHI.EVN.regular.comment.csv",81
+"PHI201904150",34,"Mound Visit","2019PHI.EVN.regular.comment.csv",82
+"PHI201904150",38,"Mound Visit","2019PHI.EVN.regular.comment.csv",83
+"PHI201904150",46,"Mound Visit","2019PHI.EVN.regular.comment.csv",84
+"PHI201904150",54,"Mound Visit","2019PHI.EVN.regular.comment.csv",85
+"PHI201904150",73,"Mound Visit $Phillies challenged call that Lagares was out at 2nd; call was overturned - safe on error and out stretching","2019PHI.EVN.regular.comment.csv",86
+"PHI201904150",77,"Mound Visit","2019PHI.EVN.regular.comment.csv",87
+"PHI201904150",80,"Mound Visit","2019PHI.EVN.regular.comment.csv",88
+"PHI201904150",89,"Mound Visit","2019PHI.EVN.regular.comment.csv",89
+"PHI201904160",7,"Injury Delay","2019PHI.EVN.regular.comment.csv",90
+"PHI201904160",9,"Mound Visit","2019PHI.EVN.regular.comment.csv",91
+"PHI201904160",12,"Mound Visit","2019PHI.EVN.regular.comment.csv",92
+"PHI201904160",12,"$Nimmo left with injured neck","2019PHI.EVN.regular.comment.csv",93
+"PHI201904160",18,"$Segura left with injured leg","2019PHI.EVN.regular.comment.csv",94
+"PHI201904160",34,"On-field Delay","2019PHI.EVN.regular.comment.csv",95
+"PHI201904160",48,"Mound Visit","2019PHI.EVN.regular.comment.csv",96
+"PHI201904160",61,"Mound Visit","2019PHI.EVN.regular.comment.csv",97
+"PHI201904160",62,"Mound Visit","2019PHI.EVN.regular.comment.csv",98
+"PHI201904170",26,"Mound Visit","2019PHI.EVN.regular.comment.csv",99
+"PHI201904170",34,"Injury Delay","2019PHI.EVN.regular.comment.csv",100
+"PHI201904170",56,"$Mets challenged call that Broxton was out at 1st; call was upheld - ground out","2019PHI.EVN.regular.comment.csv",101
+"PHI201904170",62,"Mound Visit","2019PHI.EVN.regular.comment.csv",102
+"PHI201904170",64,"Mound Visit","2019PHI.EVN.regular.comment.csv",103
+"PHI201904170",66,"Mound Visit","2019PHI.EVN.regular.comment.csv",104
+"PHI201904170",67,"Injury Delay","2019PHI.EVN.regular.comment.csv",105
+"PHI201904250",43,"Mound Visit","2019PHI.EVN.regular.comment.csv",106
+"PHI201904250",49,"Mound Visit","2019PHI.EVN.regular.comment.csv",107
+"PHI201904250",50,"Mound Visit","2019PHI.EVN.regular.comment.csv",108
+"PHI201904250",53,"$Fan interference","2019PHI.EVN.regular.comment.csv",109
+"PHI201904250",54,"Mound Visit","2019PHI.EVN.regular.comment.csv",110
+"PHI201904250",59,"Mound Visit","2019PHI.EVN.regular.comment.csv",111
+"PHI201904250",60,"Mound Visit","2019PHI.EVN.regular.comment.csv",112
+"PHI201904250",74,"Mound Visit","2019PHI.EVN.regular.comment.csv",113
+"PHI201904260",0,"$Rain delay of 1 hour 33 minutes at start","2019PHI.EVN.regular.comment.csv",114
+"PHI201904260",10,"$Phillies challenged call that Alfaro was safe at 1st; call was overturned - ground out","2019PHI.EVN.regular.comment.csv",115
+"PHI201904260",31,"$Batter's interference","2019PHI.EVN.regular.comment.csv",116
+"PHI201904260",42,"Mound Visit","2019PHI.EVN.regular.comment.csv",117
+"PHI201904260",49,"Mound Visit","2019PHI.EVN.regular.comment.csv",118
+"PHI201904260",53,"Mound Visit","2019PHI.EVN.regular.comment.csv",119
+"PHI201904260",54,"Mound Visit","2019PHI.EVN.regular.comment.csv",120
+"PHI201904260",61,"Mound Visit","2019PHI.EVN.regular.comment.csv",121
+"PHI201904270",12,"On-field Delay","2019PHI.EVN.regular.comment.csv",122
+"PHI201904270",20,"Mound Visit","2019PHI.EVN.regular.comment.csv",123
+"PHI201904270",21,"Injury Delay","2019PHI.EVN.regular.comment.csv",124
+"PHI201904270",49,"Mound Visit","2019PHI.EVN.regular.comment.csv",125
+"PHI201904270",50,"Mound Visit","2019PHI.EVN.regular.comment.csv",126
+"PHI201904270",51,"Mound Visit","2019PHI.EVN.regular.comment.csv",127
+"PHI201904270",56,"Mound Visit","2019PHI.EVN.regular.comment.csv",128
+"PHI201904270",57,"Mound Visit","2019PHI.EVN.regular.comment.csv",129
+"PHI201904270",65,"Mound Visit","2019PHI.EVN.regular.comment.csv",130
+"PHI201904270",76,"Mound Visit $Marlins challenged call that Granderson was out at 1st; call was upheld - ground out","2019PHI.EVN.regular.comment.csv",131
+"PHI201904270",84,"$originally scored as E6, changed to single on 04-28-2019","2019PHI.EVN.regular.comment.csv",132
+"PHI201904270",89,"Mound Visit","2019PHI.EVN.regular.comment.csv",133
+"PHI201904280",43,"Mound Visit","2019PHI.EVN.regular.comment.csv",134
+"PHI201904280",46,"Mound Visit","2019PHI.EVN.regular.comment.csv",135
+"PHI201904280",65,"Mound Visit","2019PHI.EVN.regular.comment.csv",136
+"PHI201904300",24,"Mound Visit","2019PHI.EVN.regular.comment.csv",137
+"PHI201904300",25,"Mound Visit","2019PHI.EVN.regular.comment.csv",138
+"PHI201904300",37,"Mound Visit","2019PHI.EVN.regular.comment.csv",139
+"PHI201905010",1,"Mound Visit","2019PHI.EVN.regular.comment.csv",140
+"PHI201905010",12,"$Phillies challenged call that Realmuto was out, claiming fly had been trapped; call was overturned - single","2019PHI.EVN.regular.comment.csv",141
+"PHI201905010",26,"Injury Delay","2019PHI.EVN.regular.comment.csv",142
+"PHI201905010",41,"$Tigers challenged call that Goodrum was out at 2nd; call was upheld - caught stealing","2019PHI.EVN.regular.comment.csv",143
+"PHI201905010",43,"Mound Visit","2019PHI.EVN.regular.comment.csv",144
+"PHI201905010",45,"Mound Visit","2019PHI.EVN.regular.comment.csv",145
+"PHI201905010",59,"Injury Delay Mound Visit","2019PHI.EVN.regular.comment.csv",146
+"PHI201905010",60,"Mound Visit","2019PHI.EVN.regular.comment.csv",147
+"PHI201905010",64,"Mound Visit","2019PHI.EVN.regular.comment.csv",148
+"PHI201905010",69,"Mound Visit","2019PHI.EVN.regular.comment.csv",149
+"PHI201905010",76,"Mound Visit","2019PHI.EVN.regular.comment.csv",150
+"PHI201905030",16,"Mound Visit","2019PHI.EVN.regular.comment.csv",151
+"PHI201905030",20,"Mound Visit","2019PHI.EVN.regular.comment.csv",152
+"PHI201905030",33,"Mound Visit","2019PHI.EVN.regular.comment.csv",153
+"PHI201905030",47,"Mound Visit","2019PHI.EVN.regular.comment.csv",154
+"PHI201905030",51,"Mound Visit","2019PHI.EVN.regular.comment.csv",155
+"PHI201905030",65,"On-field Delay","2019PHI.EVN.regular.comment.csv",156
+"PHI201905040",9,"Mound Visit","2019PHI.EVN.regular.comment.csv",157
+"PHI201905040",24,"$Adams left with injured shoulder","2019PHI.EVN.regular.comment.csv",158
+"PHI201905040",50,"Mound Visit","2019PHI.EVN.regular.comment.csv",159
+"PHI201905040",60,"Mound Visit","2019PHI.EVN.regular.comment.csv",160
+"PHI201905040",66,"Mound Visit","2019PHI.EVN.regular.comment.csv",161
 "PHI201905040",72,"Mound Visit","2019PHI.EVN.regular.comment.csv",162
-"PHI201905040",79,"Mound Visit","2019PHI.EVN.regular.comment.csv",163
-"PHI201905040",80,"Injury Delay","2019PHI.EVN.regular.comment.csv",164
-"PHI201905040",81,"$Phillies challenged call that Dozier was safe at 3rd; call was upheld - safe advancing to 3rd on single","2019PHI.EVN.regular.comment.csv",165
-"PHI201905040",88,"Mound Visit","2019PHI.EVN.regular.comment.csv",166
-"PHI201905050",8,"Mound Visit","2019PHI.EVN.regular.comment.csv",167
-"PHI201905050",43,"Mound Visit","2019PHI.EVN.regular.comment.csv",168
-"PHI201905050",52,"Mound Visit","2019PHI.EVN.regular.comment.csv",169
-"PHI201905050",59,"Mound Visit","2019PHI.EVN.regular.comment.csv",170
-"PHI201905130",2,"$Umpire review of ball hit by Yelich; call was upheld - double","2019PHI.EVN.regular.comment.csv",171
-"PHI201905130",4,"Mound Visit","2019PHI.EVN.regular.comment.csv",172
-"PHI201905130",6,"Mound Visit","2019PHI.EVN.regular.comment.csv",173
-"PHI201905130",21,"Mound Visit","2019PHI.EVN.regular.comment.csv",174
-"PHI201905130",22,"Mound Visit","2019PHI.EVN.regular.comment.csv",175
-"PHI201905130",40,"Mound Visit","2019PHI.EVN.regular.comment.csv",176
-"PHI201905130",43,"Mound Visit","2019PHI.EVN.regular.comment.csv",177
-"PHI201905130",51,"Mound Visit","2019PHI.EVN.regular.comment.csv",178
-"PHI201905130",62,"Mound Visit","2019PHI.EVN.regular.comment.csv",179
-"PHI201905130",69,"Mound Visit","2019PHI.EVN.regular.comment.csv",180
-"PHI201905130",72,"Mound Visit","2019PHI.EVN.regular.comment.csv",181
-"PHI201905130",73,"Mound Visit","2019PHI.EVN.regular.comment.csv",182
-"PHI201905130",77,"Mound Visit","2019PHI.EVN.regular.comment.csv",183
-"PHI201905140",12,"Injury Delay","2019PHI.EVN.regular.comment.csv",184
-"PHI201905140",17,"$Phillies challenged call that Herrera was out at 2nd; call was overturned - stolen base","2019PHI.EVN.regular.comment.csv",185
-"PHI201905140",34,"Mound Visit","2019PHI.EVN.regular.comment.csv",186
-"PHI201905140",47,"Injury Delay","2019PHI.EVN.regular.comment.csv",187
-"PHI201905140",61,"Mound Visit","2019PHI.EVN.regular.comment.csv",188
-"PHI201905140",79,"Mound Visit","2019PHI.EVN.regular.comment.csv",189
-"PHI201905150",2,"Injury Delay","2019PHI.EVN.regular.comment.csv",190
-"PHI201905150",18,"Mound Visit","2019PHI.EVN.regular.comment.csv",191
-"PHI201905150",22,"Mound Visit","2019PHI.EVN.regular.comment.csv",192
-"PHI201905150",28,"Mound Visit","2019PHI.EVN.regular.comment.csv",193
-"PHI201905150",32,"$Pina left with injured leg","2019PHI.EVN.regular.comment.csv",194
-"PHI201905150",47,"Injury Delay","2019PHI.EVN.regular.comment.csv",195
-"PHI201905150",50,"Mound Visit","2019PHI.EVN.regular.comment.csv",196
-"PHI201905150",56,"Mound Visit","2019PHI.EVN.regular.comment.csv",197
-"PHI201905150",63,"Mound Visit","2019PHI.EVN.regular.comment.csv",198
-"PHI201905150",70,"Mound Visit","2019PHI.EVN.regular.comment.csv",199
-"PHI201905150",75,"Mound Visit","2019PHI.EVN.regular.comment.csv",200
-"PHI201905150",77,"$Braun's advance originally scoreed as defensive indifference;  changed sto stolen base on 05-16-2019","2019PHI.EVN.regular.comment.csv",201
-"PHI201905160",23,"Mound Visit","2019PHI.EVN.regular.comment.csv",202
-"PHI201905160",42,"Mound Visit","2019PHI.EVN.regular.comment.csv",203
-"PHI201905160",46,"Mound Visit","2019PHI.EVN.regular.comment.csv",204
-"PHI201905160",58,"Mound Visit","2019PHI.EVN.regular.comment.csv",205
-"PHI201905160",62,"Mound Visit","2019PHI.EVN.regular.comment.csv",206
-"PHI201905160",63,"Mound Visit","2019PHI.EVN.regular.comment.csv",207
-"PHI201905170",6,"On-field Delay","2019PHI.EVN.regular.comment.csv",208
-"PHI201905170",12,"$Phillies challenged call that Rodgers was safe at 1st; call was upheld - safe on fielder's choice","2019PHI.EVN.regular.comment.csv",209
-"PHI201905170",13,"Mound Visit","2019PHI.EVN.regular.comment.csv",210
-"PHI201905170",34,"Mound Visit","2019PHI.EVN.regular.comment.csv",211
-"PHI201905170",42,"Mound Visit","2019PHI.EVN.regular.comment.csv",212
-"PHI201905180",33,"Mound Visit","2019PHI.EVN.regular.comment.csv",213
-"PHI201905180",54,"On-field Delay $Umpire review of ball hit by Wolters; call upheld - triple","2019PHI.EVN.regular.comment.csv",214
-"PHI201905180",55,"Mound Visit","2019PHI.EVN.regular.comment.csv",215
-"PHI201905180",56,"Mound Visit","2019PHI.EVN.regular.comment.csv",216
-"PHI201905180",57,"Mound Visit","2019PHI.EVN.regular.comment.csv",217
-"PHI201905180",58,"Mound Visit","2019PHI.EVN.regular.comment.csv",218
-"PHI201905180",62,"Mound Visit","2019PHI.EVN.regular.comment.csv",219
-"PHI201905180",63,"Mound Visit","2019PHI.EVN.regular.comment.csv",220
+"PHI201905040",72,"Mound Visit","2019PHI.EVN.regular.comment.csv",163
+"PHI201905040",79,"Mound Visit","2019PHI.EVN.regular.comment.csv",164
+"PHI201905040",80,"Injury Delay","2019PHI.EVN.regular.comment.csv",165
+"PHI201905040",81,"$Phillies challenged call that Dozier was safe at 3rd; call was upheld - safe advancing to 3rd on single","2019PHI.EVN.regular.comment.csv",166
+"PHI201905040",88,"Mound Visit","2019PHI.EVN.regular.comment.csv",167
+"PHI201905050",8,"Mound Visit","2019PHI.EVN.regular.comment.csv",168
+"PHI201905050",43,"Mound Visit","2019PHI.EVN.regular.comment.csv",169
+"PHI201905050",52,"Mound Visit","2019PHI.EVN.regular.comment.csv",170
+"PHI201905050",59,"Mound Visit","2019PHI.EVN.regular.comment.csv",171
+"PHI201905130",2,"$Umpire review of ball hit by Yelich; call was upheld - double","2019PHI.EVN.regular.comment.csv",172
+"PHI201905130",4,"Mound Visit","2019PHI.EVN.regular.comment.csv",173
+"PHI201905130",6,"Mound Visit","2019PHI.EVN.regular.comment.csv",174
+"PHI201905130",21,"Mound Visit","2019PHI.EVN.regular.comment.csv",175
+"PHI201905130",22,"Mound Visit","2019PHI.EVN.regular.comment.csv",176
+"PHI201905130",40,"Mound Visit","2019PHI.EVN.regular.comment.csv",177
+"PHI201905130",43,"Mound Visit","2019PHI.EVN.regular.comment.csv",178
+"PHI201905130",51,"Mound Visit","2019PHI.EVN.regular.comment.csv",179
+"PHI201905130",62,"Mound Visit","2019PHI.EVN.regular.comment.csv",180
+"PHI201905130",69,"Mound Visit","2019PHI.EVN.regular.comment.csv",181
+"PHI201905130",72,"Mound Visit","2019PHI.EVN.regular.comment.csv",182
+"PHI201905130",73,"Mound Visit","2019PHI.EVN.regular.comment.csv",183
+"PHI201905130",77,"Mound Visit","2019PHI.EVN.regular.comment.csv",184
+"PHI201905140",12,"Injury Delay","2019PHI.EVN.regular.comment.csv",185
+"PHI201905140",17,"$Phillies challenged call that Herrera was out at 2nd; call was overturned - stolen base","2019PHI.EVN.regular.comment.csv",186
+"PHI201905140",34,"Mound Visit","2019PHI.EVN.regular.comment.csv",187
+"PHI201905140",47,"Injury Delay","2019PHI.EVN.regular.comment.csv",188
+"PHI201905140",61,"Mound Visit","2019PHI.EVN.regular.comment.csv",189
+"PHI201905140",79,"Mound Visit","2019PHI.EVN.regular.comment.csv",190
+"PHI201905150",2,"Injury Delay","2019PHI.EVN.regular.comment.csv",191
+"PHI201905150",18,"Mound Visit","2019PHI.EVN.regular.comment.csv",192
+"PHI201905150",22,"Mound Visit","2019PHI.EVN.regular.comment.csv",193
+"PHI201905150",28,"Mound Visit","2019PHI.EVN.regular.comment.csv",194
+"PHI201905150",32,"$Pina left with injured leg","2019PHI.EVN.regular.comment.csv",195
+"PHI201905150",47,"Injury Delay","2019PHI.EVN.regular.comment.csv",196
+"PHI201905150",50,"Mound Visit","2019PHI.EVN.regular.comment.csv",197
+"PHI201905150",56,"Mound Visit","2019PHI.EVN.regular.comment.csv",198
+"PHI201905150",63,"Mound Visit","2019PHI.EVN.regular.comment.csv",199
+"PHI201905150",70,"Mound Visit","2019PHI.EVN.regular.comment.csv",200
+"PHI201905150",75,"Mound Visit","2019PHI.EVN.regular.comment.csv",201
+"PHI201905150",77,"$Braun's advance originally scoreed as defensive indifference;  changed sto stolen base on 05-16-2019","2019PHI.EVN.regular.comment.csv",202
+"PHI201905160",23,"Mound Visit","2019PHI.EVN.regular.comment.csv",203
+"PHI201905160",42,"Mound Visit","2019PHI.EVN.regular.comment.csv",204
+"PHI201905160",46,"Mound Visit","2019PHI.EVN.regular.comment.csv",205
+"PHI201905160",58,"Mound Visit","2019PHI.EVN.regular.comment.csv",206
+"PHI201905160",62,"Mound Visit","2019PHI.EVN.regular.comment.csv",207
+"PHI201905160",63,"Mound Visit","2019PHI.EVN.regular.comment.csv",208
+"PHI201905170",6,"On-field Delay","2019PHI.EVN.regular.comment.csv",209
+"PHI201905170",12,"$Phillies challenged call that Rodgers was safe at 1st; call was upheld - safe on fielder's choice","2019PHI.EVN.regular.comment.csv",210
+"PHI201905170",13,"Mound Visit","2019PHI.EVN.regular.comment.csv",211
+"PHI201905170",34,"Mound Visit","2019PHI.EVN.regular.comment.csv",212
+"PHI201905170",42,"Mound Visit","2019PHI.EVN.regular.comment.csv",213
+"PHI201905180",33,"Mound Visit","2019PHI.EVN.regular.comment.csv",214
+"PHI201905180",54,"On-field Delay $Umpire review of ball hit by Wolters; call upheld - triple","2019PHI.EVN.regular.comment.csv",215
+"PHI201905180",55,"Mound Visit","2019PHI.EVN.regular.comment.csv",216
+"PHI201905180",56,"Mound Visit","2019PHI.EVN.regular.comment.csv",217
+"PHI201905180",57,"Mound Visit","2019PHI.EVN.regular.comment.csv",218
+"PHI201905180",58,"Mound Visit","2019PHI.EVN.regular.comment.csv",219
+"PHI201905180",62,"Mound Visit","2019PHI.EVN.regular.comment.csv",220
 "PHI201905180",63,"Mound Visit","2019PHI.EVN.regular.comment.csv",221
-"PHI201905190",18,"Mound Visit","2019PHI.EVN.regular.comment.csv",222
-"PHI201905190",20,"Mound Visit","2019PHI.EVN.regular.comment.csv",223
-"PHI201905190",22,"Mound Visit","2019PHI.EVN.regular.comment.csv",224
-"PHI201905190",45,"Mound Visit","2019PHI.EVN.regular.comment.csv",225
-"PHI201905190",50,"Mound Visit","2019PHI.EVN.regular.comment.csv",226
-"PHI201905190",52,"Mound Visit","2019PHI.EVN.regular.comment.csv",227
-"PHI201905190",55,"Mound Visit","2019PHI.EVN.regular.comment.csv",228
-"PHI201905190",62,"Mound Visit","2019PHI.EVN.regular.comment.csv",229
-"PHI201905280",4,"Mound Visit","2019PHI.EVN.regular.comment.csv",230
-"PHI201905280",30,"Mound Visit","2019PHI.EVN.regular.comment.csv",231
-"PHI201905280",43,"Mound Visit","2019PHI.EVN.regular.comment.csv",232
-"PHI201905280",53,"Mound Visit","2019PHI.EVN.regular.comment.csv",233
-"PHI201905290",10,"On-field Delay On-field Delay $Hernandez in rundown between 1st and 2nd, then Hoskins broke for home and was out in a second rundown","2019PHI.EVN.regular.comment.csv",234
-"PHI201905290",26,"Mound Visit","2019PHI.EVN.regular.comment.csv",235
-"PHI201905290",35,"Mound Visit","2019PHI.EVN.regular.comment.csv",236
-"PHI201905290",47,"Mound Visit","2019PHI.EVN.regular.comment.csv",237
-"PHI201905290",49,"Mound Visit","2019PHI.EVN.regular.comment.csv",238
-"PHI201905290",49,"Injury Delay","2019PHI.EVN.regular.comment.csv",239
-"PHI201905290",68,"Mound Visit","2019PHI.EVN.regular.comment.csv",240
-"PHI201905300",44,"Mound Visit","2019PHI.EVN.regular.comment.csv",241
-"PHI201905300",49,"Mound Visit","2019PHI.EVN.regular.comment.csv",242
-"PHI201905300",61,"Mound Visit","2019PHI.EVN.regular.comment.csv",243
-"PHI201905300",62,"Mound Visit","2019PHI.EVN.regular.comment.csv",244
-"PHI201905300",65,"Mound Visit","2019PHI.EVN.regular.comment.csv",245
-"PHI201905300",68,"Mound Visit","2019PHI.EVN.regular.comment.csv",246
-"PHI201906070",30,"On-field Delay","2019PHI.EVN.regular.comment.csv",247
-"PHI201906070",38,"Mound Visit","2019PHI.EVN.regular.comment.csv",248
-"PHI201906070",47,"Mound Visit","2019PHI.EVN.regular.comment.csv",249
-"PHI201906070",54,"Mound Visit","2019PHI.EVN.regular.comment.csv",250
-"PHI201906070",65,"Mound Visit","2019PHI.EVN.regular.comment.csv",251
-"PHI201906070",72,"Mound Visit","2019PHI.EVN.regular.comment.csv",252
-"PHI201906080",9,"Mound Visit","2019PHI.EVN.regular.comment.csv",253
-"PHI201906080",56,"Mound Visit","2019PHI.EVN.regular.comment.csv",254
-"PHI201906090",26,"Mound Visit","2019PHI.EVN.regular.comment.csv",255
-"PHI201906090",27,"$Popup lost in sun; Phillies challenged call that Harper was out at home, claiming slide interference by catcher; slide interference was disallowed, but out call overturned","2019PHI.EVN.regular.comment.csv",256
-"PHI201906090",49,"Mound Visit","2019PHI.EVN.regular.comment.csv",257
-"PHI201906090",54,"Injury Delay","2019PHI.EVN.regular.comment.csv",258
-"PHI201906090",55,"Mound Visit","2019PHI.EVN.regular.comment.csv",259
-"PHI201906090",57,"Mound Visit","2019PHI.EVN.regular.comment.csv",260
-"PHI201906090",61,"Mound Visit","2019PHI.EVN.regular.comment.csv",261
-"PHI201906090",69,"Mound Visit","2019PHI.EVN.regular.comment.csv",262
-"PHI201906100",24,"$Phillies challenged call that Segura was out at 1st to complete double play; call was overturned - force out, no DP","2019PHI.EVN.regular.comment.csv",263
-"PHI201906100",25,"On-field Delay $Phillies challenged call that Segura was out at 2nd; call was overturned - stolen base","2019PHI.EVN.regular.comment.csv",264
-"PHI201906100",27,"Mound Visit","2019PHI.EVN.regular.comment.csv",265
-"PHI201906100",31,"Mound Visit","2019PHI.EVN.regular.comment.csv",266
-"PHI201906100",33,"Mound Visit","2019PHI.EVN.regular.comment.csv",267
-"PHI201906100",40,"Mound Visit","2019PHI.EVN.regular.comment.csv",268
-"PHI201906100",41,"Mound Visit","2019PHI.EVN.regular.comment.csv",269
-"PHI201906100",78,"$Umpire review of ball hit by Williams; call overturned from home run to double","2019PHI.EVN.regular.comment.csv",270
-"PHI201906100",83,"Mound Visit","2019PHI.EVN.regular.comment.csv",271
-"PHI201906100",91,"$Phillies challenged call that Kingery was out at 1st; call was upheld - ground out","2019PHI.EVN.regular.comment.csv",272
-"PHI201906110",3,"$Phillies challenged call that Escobar was safe at 1st; call was upheld - safe on pickoff attempt","2019PHI.EVN.regular.comment.csv",273
-"PHI201906110",7,"Injury Delay","2019PHI.EVN.regular.comment.csv",274
-"PHI201906110",15,"Mound Visit","2019PHI.EVN.regular.comment.csv",275
-"PHI201906110",55,"Mound Visit","2019PHI.EVN.regular.comment.csv",276
-"PHI201906110",65,"Mound Visit","2019PHI.EVN.regular.comment.csv",277
-"PHI201906110",70,"Mound Visit","2019PHI.EVN.regular.comment.csv",278
-"PHI201906110",72,"Mound Visit","2019PHI.EVN.regular.comment.csv",279
-"PHI201906120",43,"Injury Delay","2019PHI.EVN.regular.comment.csv",280
-"PHI201906120",48,"$Phillies challenged call that Realmuto was out at 1st; call was overturned - single","2019PHI.EVN.regular.comment.csv",281
-"PHI201906120",49,"$Diamondbacks challenged call that Kingery was safe at 1st; call was overturne - ground out","2019PHI.EVN.regular.comment.csv",282
-"PHI201906120",54,"Mound Visit","2019PHI.EVN.regular.comment.csv",283
-"PHI201906210",35,"Mound Visit","2019PHI.EVN.regular.comment.csv",284
-"PHI201906210",37,"Mound Visit","2019PHI.EVN.regular.comment.csv",285
-"PHI201906210",48,"Mound Visit","2019PHI.EVN.regular.comment.csv",286
-"PHI201906210",61,"$Phillies challenged call that Ramirez was safe on pickoff attempt; call was upheld - safe at 1st","2019PHI.EVN.regular.comment.csv",287
-"PHI201906210",67,"$Batter interference","2019PHI.EVN.regular.comment.csv",288
-"PHI201906210",68,"Mound Visit","2019PHI.EVN.regular.comment.csv",289
-"PHI201906210",69,"Mound Visit","2019PHI.EVN.regular.comment.csv",290
+"PHI201905180",63,"Mound Visit","2019PHI.EVN.regular.comment.csv",222
+"PHI201905190",18,"Mound Visit","2019PHI.EVN.regular.comment.csv",223
+"PHI201905190",20,"Mound Visit","2019PHI.EVN.regular.comment.csv",224
+"PHI201905190",22,"Mound Visit","2019PHI.EVN.regular.comment.csv",225
+"PHI201905190",45,"Mound Visit","2019PHI.EVN.regular.comment.csv",226
+"PHI201905190",50,"Mound Visit","2019PHI.EVN.regular.comment.csv",227
+"PHI201905190",52,"Mound Visit","2019PHI.EVN.regular.comment.csv",228
+"PHI201905190",55,"Mound Visit","2019PHI.EVN.regular.comment.csv",229
+"PHI201905190",62,"Mound Visit","2019PHI.EVN.regular.comment.csv",230
+"PHI201905280",4,"Mound Visit","2019PHI.EVN.regular.comment.csv",231
+"PHI201905280",30,"Mound Visit","2019PHI.EVN.regular.comment.csv",232
+"PHI201905280",43,"Mound Visit","2019PHI.EVN.regular.comment.csv",233
+"PHI201905280",53,"Mound Visit","2019PHI.EVN.regular.comment.csv",234
+"PHI201905290",10,"On-field Delay On-field Delay $Hernandez in rundown between 1st and 2nd, then Hoskins broke for home and was out in a second rundown","2019PHI.EVN.regular.comment.csv",235
+"PHI201905290",26,"Mound Visit","2019PHI.EVN.regular.comment.csv",236
+"PHI201905290",35,"Mound Visit","2019PHI.EVN.regular.comment.csv",237
+"PHI201905290",47,"Mound Visit","2019PHI.EVN.regular.comment.csv",238
+"PHI201905290",49,"Mound Visit","2019PHI.EVN.regular.comment.csv",239
+"PHI201905290",49,"Injury Delay","2019PHI.EVN.regular.comment.csv",240
+"PHI201905290",68,"Mound Visit","2019PHI.EVN.regular.comment.csv",241
+"PHI201905300",44,"Mound Visit","2019PHI.EVN.regular.comment.csv",242
+"PHI201905300",49,"Mound Visit","2019PHI.EVN.regular.comment.csv",243
+"PHI201905300",61,"Mound Visit","2019PHI.EVN.regular.comment.csv",244
+"PHI201905300",62,"Mound Visit","2019PHI.EVN.regular.comment.csv",245
+"PHI201905300",65,"Mound Visit","2019PHI.EVN.regular.comment.csv",246
+"PHI201905300",68,"Mound Visit","2019PHI.EVN.regular.comment.csv",247
+"PHI201906070",30,"On-field Delay","2019PHI.EVN.regular.comment.csv",248
+"PHI201906070",38,"Mound Visit","2019PHI.EVN.regular.comment.csv",249
+"PHI201906070",47,"Mound Visit","2019PHI.EVN.regular.comment.csv",250
+"PHI201906070",54,"Mound Visit","2019PHI.EVN.regular.comment.csv",251
+"PHI201906070",65,"Mound Visit","2019PHI.EVN.regular.comment.csv",252
+"PHI201906070",72,"Mound Visit","2019PHI.EVN.regular.comment.csv",253
+"PHI201906080",9,"Mound Visit","2019PHI.EVN.regular.comment.csv",254
+"PHI201906080",56,"Mound Visit","2019PHI.EVN.regular.comment.csv",255
+"PHI201906090",26,"Mound Visit","2019PHI.EVN.regular.comment.csv",256
+"PHI201906090",27,"$Popup lost in sun; Phillies challenged call that Harper was out at home, claiming slide interference by catcher; slide interference was disallowed, but out call overturned","2019PHI.EVN.regular.comment.csv",257
+"PHI201906090",49,"Mound Visit","2019PHI.EVN.regular.comment.csv",258
+"PHI201906090",54,"Injury Delay","2019PHI.EVN.regular.comment.csv",259
+"PHI201906090",55,"Mound Visit","2019PHI.EVN.regular.comment.csv",260
+"PHI201906090",57,"Mound Visit","2019PHI.EVN.regular.comment.csv",261
+"PHI201906090",61,"Mound Visit","2019PHI.EVN.regular.comment.csv",262
+"PHI201906090",69,"Mound Visit","2019PHI.EVN.regular.comment.csv",263
+"PHI201906100",24,"$Phillies challenged call that Segura was out at 1st to complete double play; call was overturned - force out, no DP","2019PHI.EVN.regular.comment.csv",264
+"PHI201906100",25,"On-field Delay $Phillies challenged call that Segura was out at 2nd; call was overturned - stolen base","2019PHI.EVN.regular.comment.csv",265
+"PHI201906100",27,"Mound Visit","2019PHI.EVN.regular.comment.csv",266
+"PHI201906100",31,"Mound Visit","2019PHI.EVN.regular.comment.csv",267
+"PHI201906100",33,"Mound Visit","2019PHI.EVN.regular.comment.csv",268
+"PHI201906100",40,"Mound Visit","2019PHI.EVN.regular.comment.csv",269
+"PHI201906100",41,"Mound Visit","2019PHI.EVN.regular.comment.csv",270
+"PHI201906100",78,"$Umpire review of ball hit by Williams; call overturned from home run to double","2019PHI.EVN.regular.comment.csv",271
+"PHI201906100",83,"Mound Visit","2019PHI.EVN.regular.comment.csv",272
+"PHI201906100",91,"$Phillies challenged call that Kingery was out at 1st; call was upheld - ground out","2019PHI.EVN.regular.comment.csv",273
+"PHI201906110",3,"$Phillies challenged call that Escobar was safe at 1st; call was upheld - safe on pickoff attempt","2019PHI.EVN.regular.comment.csv",274
+"PHI201906110",7,"Injury Delay","2019PHI.EVN.regular.comment.csv",275
+"PHI201906110",15,"Mound Visit","2019PHI.EVN.regular.comment.csv",276
+"PHI201906110",55,"Mound Visit","2019PHI.EVN.regular.comment.csv",277
+"PHI201906110",65,"Mound Visit","2019PHI.EVN.regular.comment.csv",278
+"PHI201906110",70,"Mound Visit","2019PHI.EVN.regular.comment.csv",279
+"PHI201906110",72,"Mound Visit","2019PHI.EVN.regular.comment.csv",280
+"PHI201906120",43,"Injury Delay","2019PHI.EVN.regular.comment.csv",281
+"PHI201906120",48,"$Phillies challenged call that Realmuto was out at 1st; call was overturned - single","2019PHI.EVN.regular.comment.csv",282
+"PHI201906120",49,"$Diamondbacks challenged call that Kingery was safe at 1st; call was overturne - ground out","2019PHI.EVN.regular.comment.csv",283
+"PHI201906120",54,"Mound Visit","2019PHI.EVN.regular.comment.csv",284
+"PHI201906210",35,"Mound Visit","2019PHI.EVN.regular.comment.csv",285
+"PHI201906210",37,"Mound Visit","2019PHI.EVN.regular.comment.csv",286
+"PHI201906210",48,"Mound Visit","2019PHI.EVN.regular.comment.csv",287
+"PHI201906210",61,"$Phillies challenged call that Ramirez was safe on pickoff attempt; call was upheld - safe at 1st","2019PHI.EVN.regular.comment.csv",288
+"PHI201906210",67,"$Batter interference","2019PHI.EVN.regular.comment.csv",289
+"PHI201906210",68,"Mound Visit","2019PHI.EVN.regular.comment.csv",290
 "PHI201906210",69,"Mound Visit","2019PHI.EVN.regular.comment.csv",291
-"PHI201906220",21,"Mound Visit","2019PHI.EVN.regular.comment.csv",292
-"PHI201906220",28,"On-field Delay ej,kaplg001,M,guccc901,Arguing balls and strikes $Philadelphia manager ejected by HP umpire Guccione; pitch hit Kingery on hand, but on appeal 1B umpire Everitt ruled that he had swung so it was strike 3; Kapler claimed that Kingery had not swung which cannot be argued","2019PHI.EVN.regular.comment.csv",293
-"PHI201906220",46,"Mound Visit","2019PHI.EVN.regular.comment.csv",294
-"PHI201906220",47,"Mound Visit","2019PHI.EVN.regular.comment.csv",295
-"PHI201906220",49,"Mound Visit","2019PHI.EVN.regular.comment.csv",296
-"PHI201906220",50,"$First hit and RBI for Castillo in 3654 games (June 20, 2009)","2019PHI.EVN.regular.comment.csv",297
-"PHI201906220",56,"Mound Visit","2019PHI.EVN.regular.comment.csv",298
-"PHI201906220",68,"Mound Visit","2019PHI.EVN.regular.comment.csv",299
-"PHI201906220",69,"Mound Visit","2019PHI.EVN.regular.comment.csv",300
-"PHI201906220",71,"Mound Visit","2019PHI.EVN.regular.comment.csv",301
-"PHI201906230",6,"$Phillies challenged call that Rojas was safe at home; call was overturned - out at home on single","2019PHI.EVN.regular.comment.csv",302
-"PHI201906230",8,"Mound Visit","2019PHI.EVN.regular.comment.csv",303
-"PHI201906230",9,"Mound Visit","2019PHI.EVN.regular.comment.csv",304
-"PHI201906230",32,"Mound Visit","2019PHI.EVN.regular.comment.csv",305
-"PHI201906230",43,"Mound Visit","2019PHI.EVN.regular.comment.csv",306
-"PHI201906230",68,"Mound Visit","2019PHI.EVN.regular.comment.csv",307
-"PHI201906230",71,"Mound Visit","2019PHI.EVN.regular.comment.csv",308
-"PHI201906230",72,"$Phillies challenged call that Kingery was out at 1st; call was overturned - force out, no double play","2019PHI.EVN.regular.comment.csv",309
-"PHI201906240",2,"$Mets challenged call that Alonso was out at 1st; call was overturned - single","2019PHI.EVN.regular.comment.csv",310
-"PHI201906240",11,"Mound Visit","2019PHI.EVN.regular.comment.csv",311
-"PHI201906240",37,"Mound Visit","2019PHI.EVN.regular.comment.csv",312
-"PHI201906240",53,"Mound Visit","2019PHI.EVN.regular.comment.csv",313
-"PHI201906240",66,"Mound Visit","2019PHI.EVN.regular.comment.csv",314
-"PHI201906240",90,"$Mets challenged call that Frazier was out at 1st; call was upheld - out to complete double play","2019PHI.EVN.regular.comment.csv",315
-"PHI201906250",14,"Mound Visit","2019PHI.EVN.regular.comment.csv",316
-"PHI201906250",54,"Mound Visit","2019PHI.EVN.regular.comment.csv",317
-"PHI201906250",58,"Mound Visit","2019PHI.EVN.regular.comment.csv",318
-"PHI201906250",59,"Mound Visit ej,kaplg001,M,westj901,Arguing warnings after HBP $Philadelphia manager Kapler ejected by HP umpire West after warnings were issued to both teams following HBP","2019PHI.EVN.regular.comment.csv",319
-"PHI201906250",63,"Mound Visit","2019PHI.EVN.regular.comment.csv",320
-"PHI201906250",71,"Mound Visit","2019PHI.EVN.regular.comment.csv",321
-"PHI201906250",72,"Mound Visit $Umpire review of Mcneil's ball; call was upheld - fan interference for double","2019PHI.EVN.regular.comment.csv",322
-"PHI201906260",7,"Mound Visit","2019PHI.EVN.regular.comment.csv",323
-"PHI201906260",45,"Mound Visit","2019PHI.EVN.regular.comment.csv",324
-"PHI201906260",49,"Mound Visit","2019PHI.EVN.regular.comment.csv",325
-"PHI201906260",60,"Mound Visit","2019PHI.EVN.regular.comment.csv",326
-"PHI201906260",61,"Mound Visit","2019PHI.EVN.regular.comment.csv",327
-"PHI201906260",64,"Mound Visit","2019PHI.EVN.regular.comment.csv",328
-"PHI201906260",70,"Mound Visit","2019PHI.EVN.regular.comment.csv",329
-"PHI201906260",87,"Mound Visit","2019PHI.EVN.regular.comment.csv",330
-"PHI201906270",6,"$Phillies challenged call that Harper was out at 1st; call was overturned - force out, not double play","2019PHI.EVN.regular.comment.csv",331
-"PHI201906270",50,"Mound Visit","2019PHI.EVN.regular.comment.csv",332
-"PHI201906270",64,"Mound Visit","2019PHI.EVN.regular.comment.csv",333
-"PHI201906270",65,"Mound Visit","2019PHI.EVN.regular.comment.csv",334
-"PHI201906270",69,"$Umpire review of Franco's hit; call upheld - home run","2019PHI.EVN.regular.comment.csv",335
-"PHI201906270",71,"Mound Visit","2019PHI.EVN.regular.comment.csv",336
-"PHI201907120",34,"$Phillies challenged call that 5th pitch to Knapp was ball, claiming he was hit; call was upheld - ball, not hit by pitch","2019PHI.EVN.regular.comment.csv",337
-"PHI201907120",39,"Mound Visit","2019PHI.EVN.regular.comment.csv",338
-"PHI201907120",69,"Mound Visit","2019PHI.EVN.regular.comment.csv",339
-"PHI201907130",47,"Mound Visit","2019PHI.EVN.regular.comment.csv",340
-"PHI201907130",53,"Mound Visit","2019PHI.EVN.regular.comment.csv",341
-"PHI201907130",59,"Mound Visit","2019PHI.EVN.regular.comment.csv",342
-"PHI201907130",67,"Mound Visit","2019PHI.EVN.regular.comment.csv",343
-"PHI201907130",70,"Mound Visit","2019PHI.EVN.regular.comment.csv",344
-"PHI201907140",26,"Mound Visit","2019PHI.EVN.regular.comment.csv",345
-"PHI201907140",38,"Mound Visit","2019PHI.EVN.regular.comment.csv",346
-"PHI201907140",53,"Mound Visit","2019PHI.EVN.regular.comment.csv",347
-"PHI201907140",55,"Mound Visit","2019PHI.EVN.regular.comment.csv",348
-"PHI201907150",27,"Mound Visit","2019PHI.EVN.regular.comment.csv",349
-"PHI201907150",33,"Mound Visit","2019PHI.EVN.regular.comment.csv",350
-"PHI201907150",35,"Injury Delay","2019PHI.EVN.regular.comment.csv",351
-"PHI201907150",66,"Mound Visit","2019PHI.EVN.regular.comment.csv",352
-"PHI201907150",70,"Mound Visit","2019PHI.EVN.regular.comment.csv",353
-"PHI201907150",73,"On-field Delay ej,riosy001,P,eddid901,Intentionally hitting batter $Rios ejected by HP umpire Eddings who ruled that Turner was hit intentionally","2019PHI.EVN.regular.comment.csv",354
-"PHI201907150",76,"Mound Visit","2019PHI.EVN.regular.comment.csv",355
-"PHI201907150",77,"Mound Visit","2019PHI.EVN.regular.comment.csv",356
-"PHI201907150",79,"Mound Visit","2019PHI.EVN.regular.comment.csv",357
-"PHI201907160",19,"Mound Visit","2019PHI.EVN.regular.comment.csv",358
-"PHI201907160",24,"Injury Delay","2019PHI.EVN.regular.comment.csv",359
-"PHI201907160",24,"$Bruce left with injured side, hurt on check swing; Quinn completed strikeout charged to Bruce","2019PHI.EVN.regular.comment.csv",360
-"PHI201907160",31,"Mound Visit","2019PHI.EVN.regular.comment.csv",361
-"PHI201907160",32,"Mound Visit","2019PHI.EVN.regular.comment.csv",362
-"PHI201907160",40,"Mound Visit","2019PHI.EVN.regular.comment.csv",363
-"PHI201907160",54,"Mound Visit","2019PHI.EVN.regular.comment.csv",364
-"PHI201907160",70,"ej,nerih001,P,conrc901,Intentional HBP ej,kaplg001,M,conrc901,Intentional HBP $Neris and Philadelphia manager Kapler ejected by HP umpire Conroy for intentionally hitting Freese; Neris suspended for 3 games and fined the next day","2019PHI.EVN.regular.comment.csv",365
-"PHI201907160",73,"Mound Visit","2019PHI.EVN.regular.comment.csv",366
-"PHI201907160",75,"Injury Delay","2019PHI.EVN.regular.comment.csv",367
-"PHI201907170",1,"Injury Delay","2019PHI.EVN.regular.comment.csv",368
-"PHI201907170",4,"Mound Visit","2019PHI.EVN.regular.comment.csv",369
-"PHI201907170",24,"Mound Visit","2019PHI.EVN.regular.comment.csv",370
-"PHI201907170",25,"$Dodgers challenged call that Kingery was safe at 2nd; call was overturned - caught stealing","2019PHI.EVN.regular.comment.csv",371
-"PHI201907170",28,"Mound Visit","2019PHI.EVN.regular.comment.csv",372
-"PHI201907170",29,"Mound Visit","2019PHI.EVN.regular.comment.csv",373
-"PHI201907170",53,"Mound Visit","2019PHI.EVN.regular.comment.csv",374
-"PHI201907170",59,"$Dodgers challenged call that Pollock was out at 1st; call was upheld - ground out","2019PHI.EVN.regular.comment.csv",375
-"PHI201907170",75,"Phillies challenged call that Pollock was safe at 2nd; call was uphelf - stolen base","2019PHI.EVN.regular.comment.csv",376
-"PHI201907180",22,"$Dodgers challenged call that Verdugo was out at 2nd; call was upheld - force out","2019PHI.EVN.regular.comment.csv",377
-"PHI201907180",27,"Mound Visit","2019PHI.EVN.regular.comment.csv",378
-"PHI201907180",49,"Mound Visit","2019PHI.EVN.regular.comment.csv",379
-"PHI201907180",59,"Mound Visit","2019PHI.EVN.regular.comment.csv",380
+"PHI201906210",69,"Mound Visit","2019PHI.EVN.regular.comment.csv",292
+"PHI201906220",21,"Mound Visit","2019PHI.EVN.regular.comment.csv",293
+"PHI201906220",28,"On-field Delay ej,kaplg001,M,guccc901,Arguing balls and strikes $Philadelphia manager ejected by HP umpire Guccione; pitch hit Kingery on hand, but on appeal 1B umpire Everitt ruled that he had swung so it was strike 3; Kapler claimed that Kingery had not swung which cannot be argued","2019PHI.EVN.regular.comment.csv",294
+"PHI201906220",46,"Mound Visit","2019PHI.EVN.regular.comment.csv",295
+"PHI201906220",47,"Mound Visit","2019PHI.EVN.regular.comment.csv",296
+"PHI201906220",49,"Mound Visit","2019PHI.EVN.regular.comment.csv",297
+"PHI201906220",50,"$First hit and RBI for Castillo in 3654 games (June 20, 2009)","2019PHI.EVN.regular.comment.csv",298
+"PHI201906220",56,"Mound Visit","2019PHI.EVN.regular.comment.csv",299
+"PHI201906220",68,"Mound Visit","2019PHI.EVN.regular.comment.csv",300
+"PHI201906220",69,"Mound Visit","2019PHI.EVN.regular.comment.csv",301
+"PHI201906220",71,"Mound Visit","2019PHI.EVN.regular.comment.csv",302
+"PHI201906230",6,"$Phillies challenged call that Rojas was safe at home; call was overturned - out at home on single","2019PHI.EVN.regular.comment.csv",303
+"PHI201906230",8,"Mound Visit","2019PHI.EVN.regular.comment.csv",304
+"PHI201906230",9,"Mound Visit","2019PHI.EVN.regular.comment.csv",305
+"PHI201906230",32,"Mound Visit","2019PHI.EVN.regular.comment.csv",306
+"PHI201906230",43,"Mound Visit","2019PHI.EVN.regular.comment.csv",307
+"PHI201906230",68,"Mound Visit","2019PHI.EVN.regular.comment.csv",308
+"PHI201906230",71,"Mound Visit","2019PHI.EVN.regular.comment.csv",309
+"PHI201906230",72,"$Phillies challenged call that Kingery was out at 1st; call was overturned - force out, no double play","2019PHI.EVN.regular.comment.csv",310
+"PHI201906240",2,"$Mets challenged call that Alonso was out at 1st; call was overturned - single","2019PHI.EVN.regular.comment.csv",311
+"PHI201906240",11,"Mound Visit","2019PHI.EVN.regular.comment.csv",312
+"PHI201906240",37,"Mound Visit","2019PHI.EVN.regular.comment.csv",313
+"PHI201906240",53,"Mound Visit","2019PHI.EVN.regular.comment.csv",314
+"PHI201906240",66,"Mound Visit","2019PHI.EVN.regular.comment.csv",315
+"PHI201906240",90,"$Mets challenged call that Frazier was out at 1st; call was upheld - out to complete double play","2019PHI.EVN.regular.comment.csv",316
+"PHI201906250",14,"Mound Visit","2019PHI.EVN.regular.comment.csv",317
+"PHI201906250",54,"Mound Visit","2019PHI.EVN.regular.comment.csv",318
+"PHI201906250",58,"Mound Visit","2019PHI.EVN.regular.comment.csv",319
+"PHI201906250",59,"Mound Visit ej,kaplg001,M,westj901,Arguing warnings after HBP $Philadelphia manager Kapler ejected by HP umpire West after warnings were issued to both teams following HBP","2019PHI.EVN.regular.comment.csv",320
+"PHI201906250",63,"Mound Visit","2019PHI.EVN.regular.comment.csv",321
+"PHI201906250",71,"Mound Visit","2019PHI.EVN.regular.comment.csv",322
+"PHI201906250",72,"Mound Visit $Umpire review of Mcneil's ball; call was upheld - fan interference for double","2019PHI.EVN.regular.comment.csv",323
+"PHI201906260",7,"Mound Visit","2019PHI.EVN.regular.comment.csv",324
+"PHI201906260",45,"Mound Visit","2019PHI.EVN.regular.comment.csv",325
+"PHI201906260",49,"Mound Visit","2019PHI.EVN.regular.comment.csv",326
+"PHI201906260",60,"Mound Visit","2019PHI.EVN.regular.comment.csv",327
+"PHI201906260",61,"Mound Visit","2019PHI.EVN.regular.comment.csv",328
+"PHI201906260",64,"Mound Visit","2019PHI.EVN.regular.comment.csv",329
+"PHI201906260",70,"Mound Visit","2019PHI.EVN.regular.comment.csv",330
+"PHI201906260",87,"Mound Visit","2019PHI.EVN.regular.comment.csv",331
+"PHI201906270",6,"$Phillies challenged call that Harper was out at 1st; call was overturned - force out, not double play","2019PHI.EVN.regular.comment.csv",332
+"PHI201906270",50,"Mound Visit","2019PHI.EVN.regular.comment.csv",333
+"PHI201906270",64,"Mound Visit","2019PHI.EVN.regular.comment.csv",334
+"PHI201906270",65,"Mound Visit","2019PHI.EVN.regular.comment.csv",335
+"PHI201906270",69,"$Umpire review of Franco's hit; call upheld - home run","2019PHI.EVN.regular.comment.csv",336
+"PHI201906270",71,"Mound Visit","2019PHI.EVN.regular.comment.csv",337
+"PHI201907120",34,"$Phillies challenged call that 5th pitch to Knapp was ball, claiming he was hit; call was upheld - ball, not hit by pitch","2019PHI.EVN.regular.comment.csv",338
+"PHI201907120",39,"Mound Visit","2019PHI.EVN.regular.comment.csv",339
+"PHI201907120",69,"Mound Visit","2019PHI.EVN.regular.comment.csv",340
+"PHI201907130",47,"Mound Visit","2019PHI.EVN.regular.comment.csv",341
+"PHI201907130",53,"Mound Visit","2019PHI.EVN.regular.comment.csv",342
+"PHI201907130",59,"Mound Visit","2019PHI.EVN.regular.comment.csv",343
+"PHI201907130",67,"Mound Visit","2019PHI.EVN.regular.comment.csv",344
+"PHI201907130",70,"Mound Visit","2019PHI.EVN.regular.comment.csv",345
+"PHI201907140",26,"Mound Visit","2019PHI.EVN.regular.comment.csv",346
+"PHI201907140",38,"Mound Visit","2019PHI.EVN.regular.comment.csv",347
+"PHI201907140",53,"Mound Visit","2019PHI.EVN.regular.comment.csv",348
+"PHI201907140",55,"Mound Visit","2019PHI.EVN.regular.comment.csv",349
+"PHI201907150",27,"Mound Visit","2019PHI.EVN.regular.comment.csv",350
+"PHI201907150",33,"Mound Visit","2019PHI.EVN.regular.comment.csv",351
+"PHI201907150",35,"Injury Delay","2019PHI.EVN.regular.comment.csv",352
+"PHI201907150",66,"Mound Visit","2019PHI.EVN.regular.comment.csv",353
+"PHI201907150",70,"Mound Visit","2019PHI.EVN.regular.comment.csv",354
+"PHI201907150",73,"On-field Delay ej,riosy001,P,eddid901,Intentionally hitting batter $Rios ejected by HP umpire Eddings who ruled that Turner was hit intentionally","2019PHI.EVN.regular.comment.csv",355
+"PHI201907150",76,"Mound Visit","2019PHI.EVN.regular.comment.csv",356
+"PHI201907150",77,"Mound Visit","2019PHI.EVN.regular.comment.csv",357
+"PHI201907150",79,"Mound Visit","2019PHI.EVN.regular.comment.csv",358
+"PHI201907160",19,"Mound Visit","2019PHI.EVN.regular.comment.csv",359
+"PHI201907160",24,"Injury Delay","2019PHI.EVN.regular.comment.csv",360
+"PHI201907160",24,"$Bruce left with injured side, hurt on check swing; Quinn completed strikeout charged to Bruce","2019PHI.EVN.regular.comment.csv",361
+"PHI201907160",31,"Mound Visit","2019PHI.EVN.regular.comment.csv",362
+"PHI201907160",32,"Mound Visit","2019PHI.EVN.regular.comment.csv",363
+"PHI201907160",40,"Mound Visit","2019PHI.EVN.regular.comment.csv",364
+"PHI201907160",54,"Mound Visit","2019PHI.EVN.regular.comment.csv",365
+"PHI201907160",70,"ej,nerih001,P,conrc901,Intentional HBP ej,kaplg001,M,conrc901,Intentional HBP $Neris and Philadelphia manager Kapler ejected by HP umpire Conroy for intentionally hitting Freese; Neris suspended for 3 games and fined the next day","2019PHI.EVN.regular.comment.csv",366
+"PHI201907160",73,"Mound Visit","2019PHI.EVN.regular.comment.csv",367
+"PHI201907160",75,"Injury Delay","2019PHI.EVN.regular.comment.csv",368
+"PHI201907170",1,"Injury Delay","2019PHI.EVN.regular.comment.csv",369
+"PHI201907170",4,"Mound Visit","2019PHI.EVN.regular.comment.csv",370
+"PHI201907170",24,"Mound Visit","2019PHI.EVN.regular.comment.csv",371
+"PHI201907170",25,"$Dodgers challenged call that Kingery was safe at 2nd; call was overturned - caught stealing","2019PHI.EVN.regular.comment.csv",372
+"PHI201907170",28,"Mound Visit","2019PHI.EVN.regular.comment.csv",373
+"PHI201907170",29,"Mound Visit","2019PHI.EVN.regular.comment.csv",374
+"PHI201907170",53,"Mound Visit","2019PHI.EVN.regular.comment.csv",375
+"PHI201907170",59,"$Dodgers challenged call that Pollock was out at 1st; call was upheld - ground out","2019PHI.EVN.regular.comment.csv",376
+"PHI201907170",75,"Phillies challenged call that Pollock was safe at 2nd; call was uphelf - stolen base","2019PHI.EVN.regular.comment.csv",377
+"PHI201907180",22,"$Dodgers challenged call that Verdugo was out at 2nd; call was upheld - force out","2019PHI.EVN.regular.comment.csv",378
+"PHI201907180",27,"Mound Visit","2019PHI.EVN.regular.comment.csv",379
+"PHI201907180",49,"Mound Visit","2019PHI.EVN.regular.comment.csv",380
 "PHI201907180",59,"Mound Visit","2019PHI.EVN.regular.comment.csv",381
-"PHI201907180",61,"Mound Visit","2019PHI.EVN.regular.comment.csv",382
-"PHI201907180",74,"Mound Visit","2019PHI.EVN.regular.comment.csv",383
-"PHI201907260",3,"$Braves challenged call that Acuna was out at 2nd; call was overturned - stolen base","2019PHI.EVN.regular.comment.csv",384
-"PHI201907260",31,"Mound Visit","2019PHI.EVN.regular.comment.csv",385
-"PHI201907260",42,"Mound Visit","2019PHI.EVN.regular.comment.csv",386
-"PHI201907260",45,"Mound Visit","2019PHI.EVN.regular.comment.csv",387
-"PHI201907260",46,"Mound Visit","2019PHI.EVN.regular.comment.csv",388
-"PHI201907260",47,"Injury Delay","2019PHI.EVN.regular.comment.csv",389
-"PHI201907260",49,"Mound Visit","2019PHI.EVN.regular.comment.csv",390
-"PHI201907260",51,"$Originally fielder's choice and E4, no RBI; changed on 08-09-2019 to double with one RBI and all runs now earned","2019PHI.EVN.regular.comment.csv",391
-"PHI201907260",53,"Mound Visit","2019PHI.EVN.regular.comment.csv",392
-"PHI201907270",14,"Mound Visit","2019PHI.EVN.regular.comment.csv",393
-"PHI201907270",28,"Mound Visit","2019PHI.EVN.regular.comment.csv",394
-"PHI201907270",29,"$Phillies challenged call that Fried was safe at 1st; call was upheld - force out, no double play","2019PHI.EVN.regular.comment.csv",395
-"PHI201907270",31,"Mound Visit","2019PHI.EVN.regular.comment.csv",396
-"PHI201907270",65,"Mound Visit","2019PHI.EVN.regular.comment.csv",397
-"PHI201907270",66,"Mound Visit","2019PHI.EVN.regular.comment.csv",398
-"PHI201907270",70,"Mound Visit","2019PHI.EVN.regular.comment.csv",399
-"PHI201907270",78,"Mound Visit","2019PHI.EVN.regular.comment.csv",400
+"PHI201907180",59,"Mound Visit","2019PHI.EVN.regular.comment.csv",382
+"PHI201907180",61,"Mound Visit","2019PHI.EVN.regular.comment.csv",383
+"PHI201907180",74,"Mound Visit","2019PHI.EVN.regular.comment.csv",384
+"PHI201907260",3,"$Braves challenged call that Acuna was out at 2nd; call was overturned - stolen base","2019PHI.EVN.regular.comment.csv",385
+"PHI201907260",31,"Mound Visit","2019PHI.EVN.regular.comment.csv",386
+"PHI201907260",42,"Mound Visit","2019PHI.EVN.regular.comment.csv",387
+"PHI201907260",45,"Mound Visit","2019PHI.EVN.regular.comment.csv",388
+"PHI201907260",46,"Mound Visit","2019PHI.EVN.regular.comment.csv",389
+"PHI201907260",47,"Injury Delay","2019PHI.EVN.regular.comment.csv",390
+"PHI201907260",49,"Mound Visit","2019PHI.EVN.regular.comment.csv",391
+"PHI201907260",51,"$Originally fielder's choice and E4, no RBI; changed on 08-09-2019 to double with one RBI and all runs now earned","2019PHI.EVN.regular.comment.csv",392
+"PHI201907260",53,"Mound Visit","2019PHI.EVN.regular.comment.csv",393
+"PHI201907270",14,"Mound Visit","2019PHI.EVN.regular.comment.csv",394
+"PHI201907270",28,"Mound Visit","2019PHI.EVN.regular.comment.csv",395
+"PHI201907270",29,"$Phillies challenged call that Fried was safe at 1st; call was upheld - force out, no double play","2019PHI.EVN.regular.comment.csv",396
+"PHI201907270",31,"Mound Visit","2019PHI.EVN.regular.comment.csv",397
+"PHI201907270",65,"Mound Visit","2019PHI.EVN.regular.comment.csv",398
+"PHI201907270",66,"Mound Visit","2019PHI.EVN.regular.comment.csv",399
+"PHI201907270",70,"Mound Visit","2019PHI.EVN.regular.comment.csv",400
 "PHI201907270",78,"Mound Visit","2019PHI.EVN.regular.comment.csv",401
-"PHI201907270",87,"Mound Visit","2019PHI.EVN.regular.comment.csv",402
-"PHI201907280",18,"Mound Visit","2019PHI.EVN.regular.comment.csv",403
-"PHI201907280",40,"Mound Visit","2019PHI.EVN.regular.comment.csv",404
-"PHI201907280",42,"Mound Visit","2019PHI.EVN.regular.comment.csv",405
-"PHI201907280",53,"Mound Visit","2019PHI.EVN.regular.comment.csv",406
-"PHI201907280",55,"Mound Visit","2019PHI.EVN.regular.comment.csv",407
-"PHI201907280",58,"Injury Delay $Ball, SS and runner arrived at 2nd base at same time; ball hit SS Segura on right shin and he was assisted off field while runner Acuna hurt neck while sliding into Segura; he stayed in game, but was replaced the next inning","2019PHI.EVN.regular.comment.csv",408
-"PHI201907280",59,"Mound Visit","2019PHI.EVN.regular.comment.csv",409
-"PHI201907280",65,"Mound Visit","2019PHI.EVN.regular.comment.csv",410
-"PHI201907300",31,"Mound Visit","2019PHI.EVN.regular.comment.csv",411
-"PHI201907300",51,"Mound Visit Mound Visit","2019PHI.EVN.regular.comment.csv",412
-"PHI201907300",64,"Mound Visit","2019PHI.EVN.regular.comment.csv",413
-"PHI201907310",39,"Mound Visit","2019PHI.EVN.regular.comment.csv",414
-"PHI201907310",43,"Mound Visit","2019PHI.EVN.regular.comment.csv",415
-"PHI201907310",53,"Mound Visit","2019PHI.EVN.regular.comment.csv",416
-"PHI201907310",54,"Mound Visit","2019PHI.EVN.regular.comment.csv",417
-"PHI201907310",65,"Mound Visit","2019PHI.EVN.regular.comment.csv",418
-"PHI201908010",17,"$Phillies challenged call that Arrieta was out at 1st; call was overturned - safe at 1st on error","2019PHI.EVN.regular.comment.csv",419
-"PHI201908010",18,"Mound Visit","2019PHI.EVN.regular.comment.csv",420
-"PHI201908010",28,"Mound Visit","2019PHI.EVN.regular.comment.csv",421
-"PHI201908010",31,"Injury Delay","2019PHI.EVN.regular.comment.csv",422
-"PHI201908010",33,"Mound Visit","2019PHI.EVN.regular.comment.csv",423
-"PHI201908010",37,"Mound Visit","2019PHI.EVN.regular.comment.csv",424
-"PHI201908010",40,"Injury Delay","2019PHI.EVN.regular.comment.csv",425
-"PHI201908010",44,"Mound Visit","2019PHI.EVN.regular.comment.csv",426
-"PHI201908010",46,"Mound Visit","2019PHI.EVN.regular.comment.csv",427
-"PHI201908020",43,"Mound Visit","2019PHI.EVN.regular.comment.csv",428
-"PHI201908020",44,"Mound Visit","2019PHI.EVN.regular.comment.csv",429
-"PHI201908020",45,"Mound Visit","2019PHI.EVN.regular.comment.csv",430
-"PHI201908020",49,"Mound Visit","2019PHI.EVN.regular.comment.csv",431
-"PHI201908020",52,"Mound Visit","2019PHI.EVN.regular.comment.csv",432
-"PHI201908020",54,"Mound Visit","2019PHI.EVN.regular.comment.csv",433
-"PHI201908020",57,"$White Soc challenged call at 2nd; call upheld - stolen base","2019PHI.EVN.regular.comment.csv",434
-"PHI201908020",58,"Mound Visit","2019PHI.EVN.regular.comment.csv",435
-"PHI201908020",63,"On-field Delay $Phillies challenged ruling that ball hit by Sanchez was fair; call upheld - triple","2019PHI.EVN.regular.comment.csv",436
-"PHI201908020",65,"Mound Visit","2019PHI.EVN.regular.comment.csv",437
-"PHI201908020",70,"Mound Visit","2019PHI.EVN.regular.comment.csv",438
-"PHI201908020",74,"Mound Visit","2019PHI.EVN.regular.comment.csv",439
-"PHI201908020",75,"Mound Visit","2019PHI.EVN.regular.comment.csv",440
-"PHI201908020",76,"Mound Visit","2019PHI.EVN.regular.comment.csv",441
-"PHI201908020",107,"$Umpire review play at 2nd; call upheld - force out","2019PHI.EVN.regular.comment.csv",442
-"PHI201908020",108,"Mound Visit","2019PHI.EVN.regular.comment.csv",443
-"PHI201908020",120,"Mound Visit","2019PHI.EVN.regular.comment.csv",444
-"PHI201908020",122,"$Umpire review play at home; call upheld - safe","2019PHI.EVN.regular.comment.csv",445
-"PHI201908030",19,"$Phillies challenged call that Garcia was safe at 1st; call upheld - safe on pickoff attempt","2019PHI.EVN.regular.comment.csv",446
-"PHI201908030",43,"Mound Visit","2019PHI.EVN.regular.comment.csv",447
-"PHI201908030",49,"Mound Visit","2019PHI.EVN.regular.comment.csv",448
-"PHI201908030",53,"Mound Visit","2019PHI.EVN.regular.comment.csv",449
-"PHI201908030",56,"$White Sox challenged call that Segura was hit by pitch; call upheld - hit by pitch","2019PHI.EVN.regular.comment.csv",450
-"PHI201908030",68,"Mound Visit","2019PHI.EVN.regular.comment.csv",451
-"PHI201908040",11,"Mound Visit","2019PHI.EVN.regular.comment.csv",452
-"PHI201908040",37,"Mound Visit","2019PHI.EVN.regular.comment.csv",453
-"PHI201908040",39,"Mound Visit","2019PHI.EVN.regular.comment.csv",454
-"PHI201908040",47,"Mound Visit","2019PHI.EVN.regular.comment.csv",455
-"PHI201908040",48,"Mound Visit","2019PHI.EVN.regular.comment.csv",456
-"PHI201908040",50,"Mound Visit","2019PHI.EVN.regular.comment.csv",457
-"PHI201908130",26,"Injury Delay","2019PHI.EVN.regular.comment.csv",458
-"PHI201908130",26,"$Dickerson hit on hand but was ruled to have swung, so strike 2; replaced by Rodriguez who completed strikeout, charged to Dickerson","2019PHI.EVN.regular.comment.csv",459
-"PHI201908130",47,"Mound Visit","2019PHI.EVN.regular.comment.csv",460
-"PHI201908130",59,"Mound Visit","2019PHI.EVN.regular.comment.csv",461
-"PHI201908130",69,"Mound Visit","2019PHI.EVN.regular.comment.csv",462
-"PHI201908130",74,"Mound Visit","2019PHI.EVN.regular.comment.csv",463
-"PHI201908140",18,"Mound Visit","2019PHI.EVN.regular.comment.csv",464
-"PHI201908140",29,"Mound Visit","2019PHI.EVN.regular.comment.csv",465
-"PHI201908150",31,"Mound Visit","2019PHI.EVN.regular.comment.csv",466
-"PHI201908150",43,"Mound Visit","2019PHI.EVN.regular.comment.csv",467
-"PHI201908150",66,"Mound Visit","2019PHI.EVN.regular.comment.csv",468
-"PHI201908150",67,"Mound Visit","2019PHI.EVN.regular.comment.csv",469
-"PHI201908150",73,"Mound Visit","2019PHI.EVN.regular.comment.csv",470
-"PHI201908150",78,"Mound Visit","2019PHI.EVN.regular.comment.csv",471
-"PHI201908150",79,"Mound Visit","2019PHI.EVN.regular.comment.csv",472
-"PHI201908150",80,"Injury Delay Mound Visit","2019PHI.EVN.regular.comment.csv",473
-"PHI201908160",41,"Mound Visit","2019PHI.EVN.regular.comment.csv",474
-"PHI201908160",43,"$Padres challenged call that Realmuto was safe at 2nd; call overurned - out on fielder's choice returning to base","2019PHI.EVN.regular.comment.csv",475
-"PHI201908160",44,"Mound Visit","2019PHI.EVN.regular.comment.csv",476
-"PHI201908160",50,"Mound Visit","2019PHI.EVN.regular.comment.csv",477
-"PHI201908160",55,"Injury Delay Mound Visit","2019PHI.EVN.regular.comment.csv",478
-"PHI201908160",59,"Mound Visit","2019PHI.EVN.regular.comment.csv",479
-"PHI201908160",73,"$Quinn left with tightness in his hamstring","2019PHI.EVN.regular.comment.csv",480
-"PHI201908170",32,"Mound Visit","2019PHI.EVN.regular.comment.csv",481
-"PHI201908170",34,"Mound Visit","2019PHI.EVN.regular.comment.csv",482
-"PHI201908170",47,"Mound Visit","2019PHI.EVN.regular.comment.csv",483
-"PHI201908170",57,"Mound Visit","2019PHI.EVN.regular.comment.csv",484
-"PHI201908170",67,"On-field Delay","2019PHI.EVN.regular.comment.csv",485
-"PHI201908170",72,"Mound Visit","2019PHI.EVN.regular.comment.csv",486
-"PHI201908180",43,"Mound Visit","2019PHI.EVN.regular.comment.csv",487
-"PHI201908180",47,"Mound Visit","2019PHI.EVN.regular.comment.csv",488
-"PHI201908180",55,"Mound Visit","2019PHI.EVN.regular.comment.csv",489
-"PHI201908180",56,"Mound Visit","2019PHI.EVN.regular.comment.csv",490
-"PHI201908180",57,"Injury Delay","2019PHI.EVN.regular.comment.csv",491
-"PHI201908260",46,"$Kingery left with injured chest","2019PHI.EVN.regular.comment.csv",492
-"PHI201908260",48,"$Umpire review of ball hit by Moran; call upheld - double, not homer","2019PHI.EVN.regular.comment.csv",493
-"PHI201908260",49,"Mound Visit","2019PHI.EVN.regular.comment.csv",494
-"PHI201908260",51,"Mound Visit","2019PHI.EVN.regular.comment.csv",495
-"PHI201908260",54,"Mound Visit","2019PHI.EVN.regular.comment.csv",496
-"PHI201908260",64,"$Umpire review of ball hit by Harper; call upheld - homer","2019PHI.EVN.regular.comment.csv",497
-"PHI201908260",66,"Mound Visit","2019PHI.EVN.regular.comment.csv",498
-"PHI201908260",73,"Mound Visit","2019PHI.EVN.regular.comment.csv",499
-"PHI201908260",75,"Mound Visit","2019PHI.EVN.regular.comment.csv",500
-"PHI201908260",86,"Mound Visit","2019PHI.EVN.regular.comment.csv",501
-"PHI201908260",91,"Mound Visit","2019PHI.EVN.regular.comment.csv",502
-"PHI201908270",4,"Mound Visit","2019PHI.EVN.regular.comment.csv",503
-"PHI201908270",29,"Mound Visit","2019PHI.EVN.regular.comment.csv",504
-"PHI201908270",43,"Mound Visit","2019PHI.EVN.regular.comment.csv",505
-"PHI201908270",51,"Mound Visit","2019PHI.EVN.regular.comment.csv",506
-"PHI201908270",65,"Mound Visit","2019PHI.EVN.regular.comment.csv",507
-"PHI201908270",69,"Mound Visit","2019PHI.EVN.regular.comment.csv",508
-"PHI201908270",70,"Mound Visit","2019PHI.EVN.regular.comment.csv",509
-"PHI201908270",73,"Mound Visit","2019PHI.EVN.regular.comment.csv",510
-"PHI201908270",74,"Mound Visit","2019PHI.EVN.regular.comment.csv",511
-"PHI201908280",16,"Mound Visit","2019PHI.EVN.regular.comment.csv",512
-"PHI201908280",24,"On-field Delay $Umpire review of ball hit by Hoskins; call upheld - double","2019PHI.EVN.regular.comment.csv",513
-"PHI201908280",40,"Mound Visit","2019PHI.EVN.regular.comment.csv",514
-"PHI201908280",41,"Mound Visit","2019PHI.EVN.regular.comment.csv",515
-"PHI201908280",44,"Mound Visit","2019PHI.EVN.regular.comment.csv",516
-"PHI201908280",76,"Mound Visit","2019PHI.EVN.regular.comment.csv",517
-"PHI201908280",81,"Mound Visit","2019PHI.EVN.regular.comment.csv",518
-"PHI201908300",39,"$Phillies challenged call that Dickerson was out at home; call upheld - out trying to score","2019PHI.EVN.regular.comment.csv",519
-"PHI201908300",45,"Mound Visit","2019PHI.EVN.regular.comment.csv",520
-"PHI201908300",52,"Mound Visit","2019PHI.EVN.regular.comment.csv",521
-"PHI201908300",53,"Mound Visit","2019PHI.EVN.regular.comment.csv",522
-"PHI201908300",54,"Mound Visit","2019PHI.EVN.regular.comment.csv",523
-"PHI201908300",61,"Mound Visit","2019PHI.EVN.regular.comment.csv",524
-"PHI201908300",63,"Mound Visit","2019PHI.EVN.regular.comment.csv",525
-"PHI201908300",64,"Mound Visit","2019PHI.EVN.regular.comment.csv",526
-"PHI201908300",65,"Mound Visit","2019PHI.EVN.regular.comment.csv",527
-"PHI201908300",77,"Injury Delay","2019PHI.EVN.regular.comment.csv",528
-"PHI201908300",85,"Mound Visit","2019PHI.EVN.regular.comment.csv",529
-"PHI201908310",32,"ej,hoskr001,P,littw901,Called strike 3 $Hoskins ejected by HP umpire Little for arguing strike 3","2019PHI.EVN.regular.comment.csv",530
-"PHI201908310",43,"Mound Visit","2019PHI.EVN.regular.comment.csv",531
-"PHI201908310",55,"Mound Visit","2019PHI.EVN.regular.comment.csv",532
-"PHI201908310",56,"Mound Visit","2019PHI.EVN.regular.comment.csv",533
-"PHI201908310",66,"Mound Visit","2019PHI.EVN.regular.comment.csv",534
-"PHI201908310",67,"Mound Visit","2019PHI.EVN.regular.comment.csv",535
-"PHI201908310",69,"Mound Visit","2019PHI.EVN.regular.comment.csv",536
-"PHI201908310",72,"Injury Delay","2019PHI.EVN.regular.comment.csv",537
-"PHI201908310",77,"Mound Visit","2019PHI.EVN.regular.comment.csv",538
-"PHI201909010",12,"Mound Visit","2019PHI.EVN.regular.comment.csv",539
-"PHI201909010",51,"Mound Visit","2019PHI.EVN.regular.comment.csv",540
-"PHI201909010",53,"Mound Visit","2019PHI.EVN.regular.comment.csv",541
-"PHI201909010",56,"Mound Visit","2019PHI.EVN.regular.comment.csv",542
-"PHI201909010",58,"Mound Visit","2019PHI.EVN.regular.comment.csv",543
-"PHI201909010",62,"Mound Visit","2019PHI.EVN.regular.comment.csv",544
-"PHI201909010",63,"Mound Visit","2019PHI.EVN.regular.comment.csv",545
-"PHI201909090",50,"$Phillies challenged call that Acuna was safe at 1st; call call upheld - returned safely after line drive","2019PHI.EVN.regular.comment.csv",546
-"PHI201909100",8,"Mound Visit","2019PHI.EVN.regular.comment.csv",547
-"PHI201909100",25,"Mound Visit","2019PHI.EVN.regular.comment.csv",548
-"PHI201909100",36,"Mound Visit","2019PHI.EVN.regular.comment.csv",549
-"PHI201909100",52,"Mound Visit","2019PHI.EVN.regular.comment.csv",550
-"PHI201909100",57,"Mound Visit","2019PHI.EVN.regular.comment.csv",551
-"PHI201909100",61,"Mound Visit","2019PHI.EVN.regular.comment.csv",552
-"PHI201909100",69,"On-field Delay","2019PHI.EVN.regular.comment.csv",553
-"PHI201909100",70,"Mound Visit","2019PHI.EVN.regular.comment.csv",554
-"PHI201909110",26,"Injury Delay","2019PHI.EVN.regular.comment.csv",555
-"PHI201909110",26,"$Camargo fouled first pitch off right shin, had to be helped off field; diagnosis is right shin contusion","2019PHI.EVN.regular.comment.csv",556
-"PHI201909110",30,"Mound Visit","2019PHI.EVN.regular.comment.csv",557
-"PHI201909110",39,"$Batter interference","2019PHI.EVN.regular.comment.csv",558
-"PHI201909110",42,"Mound Visit","2019PHI.EVN.regular.comment.csv",559
-"PHI201909110",54,"Mound Visit","2019PHI.EVN.regular.comment.csv",560
-"PHI201909110",61,"$Braves challenged call that Hamilton was out at 1st; call upheld - pickoff at 1st","2019PHI.EVN.regular.comment.csv",561
-"PHI201909110",70,"Mound Visit","2019PHI.EVN.regular.comment.csv",562
-"PHI201909110",75,"Mound Visit","2019PHI.EVN.regular.comment.csv",563
-"PHI201909120",21,"Mound Visit","2019PHI.EVN.regular.comment.csv",564
-"PHI201909120",47,"Mound Visit","2019PHI.EVN.regular.comment.csv",565
-"PHI201909120",51,"Mound Visit","2019PHI.EVN.regular.comment.csv",566
-"PHI201909120",61,"Mound Visit","2019PHI.EVN.regular.comment.csv",567
-"PHI201909120",63,"Mound Visit","2019PHI.EVN.regular.comment.csv",568
-"PHI201909120",70,"Mound Visit","2019PHI.EVN.regular.comment.csv",569
-"PHI201909120",74,"Mound Visit","2019PHI.EVN.regular.comment.csv",570
-"PHI201909120",77,"Mound Visit","2019PHI.EVN.regular.comment.csv",571
-"PHI201909140",21,"$Phillies challenged call that Bogaerts was safe at 1st; call upheld - safe on pickoff attempt","2019PHI.EVN.regular.comment.csv",572
-"PHI201909140",22,"Injury Delay","2019PHI.EVN.regular.comment.csv",573
-"PHI201909140",43,"Mound Visit","2019PHI.EVN.regular.comment.csv",574
-"PHI201909140",46,"Mound Visit","2019PHI.EVN.regular.comment.csv",575
-"PHI201909140",52,"Mound Visit","2019PHI.EVN.regular.comment.csv",576
-"PHI201909140",53,"Mound Visit","2019PHI.EVN.regular.comment.csv",577
-"PHI201909140",54,"Mound Visit","2019PHI.EVN.regular.comment.csv",578
-"PHI201909140",58,"Mound Visit","2019PHI.EVN.regular.comment.csv",579
-"PHI201909140",69,"Mound Visit","2019PHI.EVN.regular.comment.csv",580
-"PHI201909140",73,"Mound Visit","2019PHI.EVN.regular.comment.csv",581
-"PHI201909150",3,"Injury Delay","2019PHI.EVN.regular.comment.csv",582
-"PHI201909150",20,"Mound Visit","2019PHI.EVN.regular.comment.csv",583
-"PHI201909150",31,"ej,harpb003,P,morag901,Called strike 3 ej,kaplg001,M,morag901,Called strike 3 $Harper ejected by HP umpire Morales after 1st pitch to Hoskins; Phillies manager Kapler then argued very angrily and was also ejected by Morales","2019PHI.EVN.regular.comment.csv",584
-"PHI201909150",39,"Mound Visit","2019PHI.EVN.regular.comment.csv",585
-"PHI201909150",61,"Mound Visit","2019PHI.EVN.regular.comment.csv",586
-"PHI201909150",73,"Mound Visit","2019PHI.EVN.regular.comment.csv",587
-"PHI201909270",34,"Mound Visit","2019PHI.EVN.regular.comment.csv",588
-"PHI201909270",35,"$Phillies challenged call that Rojas was safe at 1st; call overturned - out on pickoff","2019PHI.EVN.regular.comment.csv",589
-"PHI201909270",35,"$Brinson left with a foot contusion, injured by foul ball when he batted in the 3rd","2019PHI.EVN.regular.comment.csv",590
-"PHI201909270",39,"Mound Visit","2019PHI.EVN.regular.comment.csv",591
-"PHI201909270",46,"Mound Visit","2019PHI.EVN.regular.comment.csv",592
-"PHI201909270",52,"Mound Visit","2019PHI.EVN.regular.comment.csv",593
-"PHI201909270",67,"Mound Visit","2019PHI.EVN.regular.comment.csv",594
-"PHI201909270",69,"Mound Visit","2019PHI.EVN.regular.comment.csv",595
-"PHI201909270",79,"Mound Visit","2019PHI.EVN.regular.comment.csv",596
-"PHI201909270",93,"Mound Visit $Phillies challenged call that Haseley was not hit by pitch; call overturned - hit by pitch","2019PHI.EVN.regular.comment.csv",597
-"PHI201909270",102,"$Marlins challenged call that Harper was safe at 1st; call overturned - ground out","2019PHI.EVN.regular.comment.csv",598
-"PHI201909270",124,"Mound Visit","2019PHI.EVN.regular.comment.csv",599
-"PHI201909280",25,"Mound Visit","2019PHI.EVN.regular.comment.csv",600
-"PHI201909280",37,"Injury Delay","2019PHI.EVN.regular.comment.csv",601
-"PHI201909280",48,"Mound Visit","2019PHI.EVN.regular.comment.csv",602
-"PHI201909280",67,"Mound Visit","2019PHI.EVN.regular.comment.csv",603
-"PHI201909280",70,"Injury Delay","2019PHI.EVN.regular.comment.csv",604
-"PHI201909290",10,"Mound Visit","2019PHI.EVN.regular.comment.csv",605
-"PHI201909290",44,"Mound Visit","2019PHI.EVN.regular.comment.csv",606
-"PHI201909290",50,"Mound Visit","2019PHI.EVN.regular.comment.csv",607
-"PHI201909290",56,"Mound Visit","2019PHI.EVN.regular.comment.csv",608
-"PHI201909290",57,"Mound Visit","2019PHI.EVN.regular.comment.csv",609
-"PHI201909290",68,"Mound Visit","2019PHI.EVN.regular.comment.csv",610
-"PHI201909290",75,"Mound Visit","2019PHI.EVN.regular.comment.csv",611
+"PHI201907270",78,"Mound Visit","2019PHI.EVN.regular.comment.csv",402
+"PHI201907270",87,"Mound Visit","2019PHI.EVN.regular.comment.csv",403
+"PHI201907280",18,"Mound Visit","2019PHI.EVN.regular.comment.csv",404
+"PHI201907280",40,"Mound Visit","2019PHI.EVN.regular.comment.csv",405
+"PHI201907280",42,"Mound Visit","2019PHI.EVN.regular.comment.csv",406
+"PHI201907280",53,"Mound Visit","2019PHI.EVN.regular.comment.csv",407
+"PHI201907280",55,"Mound Visit","2019PHI.EVN.regular.comment.csv",408
+"PHI201907280",58,"Injury Delay $Ball, SS and runner arrived at 2nd base at same time; ball hit SS Segura on right shin and he was assisted off field while runner Acuna hurt neck while sliding into Segura; he stayed in game, but was replaced the next inning","2019PHI.EVN.regular.comment.csv",409
+"PHI201907280",59,"Mound Visit","2019PHI.EVN.regular.comment.csv",410
+"PHI201907280",65,"Mound Visit","2019PHI.EVN.regular.comment.csv",411
+"PHI201907300",31,"Mound Visit","2019PHI.EVN.regular.comment.csv",412
+"PHI201907300",51,"Mound Visit Mound Visit","2019PHI.EVN.regular.comment.csv",413
+"PHI201907300",64,"Mound Visit","2019PHI.EVN.regular.comment.csv",414
+"PHI201907310",39,"Mound Visit","2019PHI.EVN.regular.comment.csv",415
+"PHI201907310",43,"Mound Visit","2019PHI.EVN.regular.comment.csv",416
+"PHI201907310",53,"Mound Visit","2019PHI.EVN.regular.comment.csv",417
+"PHI201907310",54,"Mound Visit","2019PHI.EVN.regular.comment.csv",418
+"PHI201907310",65,"Mound Visit","2019PHI.EVN.regular.comment.csv",419
+"PHI201908010",17,"$Phillies challenged call that Arrieta was out at 1st; call was overturned - safe at 1st on error","2019PHI.EVN.regular.comment.csv",420
+"PHI201908010",18,"Mound Visit","2019PHI.EVN.regular.comment.csv",421
+"PHI201908010",28,"Mound Visit","2019PHI.EVN.regular.comment.csv",422
+"PHI201908010",31,"Injury Delay","2019PHI.EVN.regular.comment.csv",423
+"PHI201908010",33,"Mound Visit","2019PHI.EVN.regular.comment.csv",424
+"PHI201908010",37,"Mound Visit","2019PHI.EVN.regular.comment.csv",425
+"PHI201908010",40,"Injury Delay","2019PHI.EVN.regular.comment.csv",426
+"PHI201908010",44,"Mound Visit","2019PHI.EVN.regular.comment.csv",427
+"PHI201908010",46,"Mound Visit","2019PHI.EVN.regular.comment.csv",428
+"PHI201908020",43,"Mound Visit","2019PHI.EVN.regular.comment.csv",429
+"PHI201908020",44,"Mound Visit","2019PHI.EVN.regular.comment.csv",430
+"PHI201908020",45,"Mound Visit","2019PHI.EVN.regular.comment.csv",431
+"PHI201908020",49,"Mound Visit","2019PHI.EVN.regular.comment.csv",432
+"PHI201908020",52,"Mound Visit","2019PHI.EVN.regular.comment.csv",433
+"PHI201908020",54,"Mound Visit","2019PHI.EVN.regular.comment.csv",434
+"PHI201908020",57,"$White Soc challenged call at 2nd; call upheld - stolen base","2019PHI.EVN.regular.comment.csv",435
+"PHI201908020",58,"Mound Visit","2019PHI.EVN.regular.comment.csv",436
+"PHI201908020",63,"On-field Delay $Phillies challenged ruling that ball hit by Sanchez was fair; call upheld - triple","2019PHI.EVN.regular.comment.csv",437
+"PHI201908020",65,"Mound Visit","2019PHI.EVN.regular.comment.csv",438
+"PHI201908020",70,"Mound Visit","2019PHI.EVN.regular.comment.csv",439
+"PHI201908020",74,"Mound Visit","2019PHI.EVN.regular.comment.csv",440
+"PHI201908020",75,"Mound Visit","2019PHI.EVN.regular.comment.csv",441
+"PHI201908020",76,"Mound Visit","2019PHI.EVN.regular.comment.csv",442
+"PHI201908020",107,"$Umpire review play at 2nd; call upheld - force out","2019PHI.EVN.regular.comment.csv",443
+"PHI201908020",108,"Mound Visit","2019PHI.EVN.regular.comment.csv",444
+"PHI201908020",120,"Mound Visit","2019PHI.EVN.regular.comment.csv",445
+"PHI201908020",122,"$Umpire review play at home; call upheld - safe","2019PHI.EVN.regular.comment.csv",446
+"PHI201908030",19,"$Phillies challenged call that Garcia was safe at 1st; call upheld - safe on pickoff attempt","2019PHI.EVN.regular.comment.csv",447
+"PHI201908030",43,"Mound Visit","2019PHI.EVN.regular.comment.csv",448
+"PHI201908030",49,"Mound Visit","2019PHI.EVN.regular.comment.csv",449
+"PHI201908030",53,"Mound Visit","2019PHI.EVN.regular.comment.csv",450
+"PHI201908030",56,"$White Sox challenged call that Segura was hit by pitch; call upheld - hit by pitch","2019PHI.EVN.regular.comment.csv",451
+"PHI201908030",68,"Mound Visit","2019PHI.EVN.regular.comment.csv",452
+"PHI201908040",11,"Mound Visit","2019PHI.EVN.regular.comment.csv",453
+"PHI201908040",37,"Mound Visit","2019PHI.EVN.regular.comment.csv",454
+"PHI201908040",39,"Mound Visit","2019PHI.EVN.regular.comment.csv",455
+"PHI201908040",47,"Mound Visit","2019PHI.EVN.regular.comment.csv",456
+"PHI201908040",48,"Mound Visit","2019PHI.EVN.regular.comment.csv",457
+"PHI201908040",50,"Mound Visit","2019PHI.EVN.regular.comment.csv",458
+"PHI201908130",26,"Injury Delay","2019PHI.EVN.regular.comment.csv",459
+"PHI201908130",26,"$Dickerson hit on hand but was ruled to have swung, so strike 2; replaced by Rodriguez who completed strikeout, charged to Dickerson","2019PHI.EVN.regular.comment.csv",460
+"PHI201908130",47,"Mound Visit","2019PHI.EVN.regular.comment.csv",461
+"PHI201908130",59,"Mound Visit","2019PHI.EVN.regular.comment.csv",462
+"PHI201908130",69,"Mound Visit","2019PHI.EVN.regular.comment.csv",463
+"PHI201908130",74,"Mound Visit","2019PHI.EVN.regular.comment.csv",464
+"PHI201908140",18,"Mound Visit","2019PHI.EVN.regular.comment.csv",465
+"PHI201908140",29,"Mound Visit","2019PHI.EVN.regular.comment.csv",466
+"PHI201908150",31,"Mound Visit","2019PHI.EVN.regular.comment.csv",467
+"PHI201908150",43,"Mound Visit","2019PHI.EVN.regular.comment.csv",468
+"PHI201908150",66,"Mound Visit","2019PHI.EVN.regular.comment.csv",469
+"PHI201908150",67,"Mound Visit","2019PHI.EVN.regular.comment.csv",470
+"PHI201908150",73,"Mound Visit","2019PHI.EVN.regular.comment.csv",471
+"PHI201908150",78,"Mound Visit","2019PHI.EVN.regular.comment.csv",472
+"PHI201908150",79,"Mound Visit","2019PHI.EVN.regular.comment.csv",473
+"PHI201908150",80,"Injury Delay Mound Visit","2019PHI.EVN.regular.comment.csv",474
+"PHI201908160",41,"Mound Visit","2019PHI.EVN.regular.comment.csv",475
+"PHI201908160",43,"$Padres challenged call that Realmuto was safe at 2nd; call overurned - out on fielder's choice returning to base","2019PHI.EVN.regular.comment.csv",476
+"PHI201908160",44,"Mound Visit","2019PHI.EVN.regular.comment.csv",477
+"PHI201908160",50,"Mound Visit","2019PHI.EVN.regular.comment.csv",478
+"PHI201908160",55,"Injury Delay Mound Visit","2019PHI.EVN.regular.comment.csv",479
+"PHI201908160",59,"Mound Visit","2019PHI.EVN.regular.comment.csv",480
+"PHI201908160",73,"$Quinn left with tightness in his hamstring","2019PHI.EVN.regular.comment.csv",481
+"PHI201908170",32,"Mound Visit","2019PHI.EVN.regular.comment.csv",482
+"PHI201908170",34,"Mound Visit","2019PHI.EVN.regular.comment.csv",483
+"PHI201908170",47,"Mound Visit","2019PHI.EVN.regular.comment.csv",484
+"PHI201908170",57,"Mound Visit","2019PHI.EVN.regular.comment.csv",485
+"PHI201908170",67,"On-field Delay","2019PHI.EVN.regular.comment.csv",486
+"PHI201908170",72,"Mound Visit","2019PHI.EVN.regular.comment.csv",487
+"PHI201908180",43,"Mound Visit","2019PHI.EVN.regular.comment.csv",488
+"PHI201908180",47,"Mound Visit","2019PHI.EVN.regular.comment.csv",489
+"PHI201908180",55,"Mound Visit","2019PHI.EVN.regular.comment.csv",490
+"PHI201908180",56,"Mound Visit","2019PHI.EVN.regular.comment.csv",491
+"PHI201908180",57,"Injury Delay","2019PHI.EVN.regular.comment.csv",492
+"PHI201908260",46,"$Kingery left with injured chest","2019PHI.EVN.regular.comment.csv",493
+"PHI201908260",48,"$Umpire review of ball hit by Moran; call upheld - double, not homer","2019PHI.EVN.regular.comment.csv",494
+"PHI201908260",49,"Mound Visit","2019PHI.EVN.regular.comment.csv",495
+"PHI201908260",51,"Mound Visit","2019PHI.EVN.regular.comment.csv",496
+"PHI201908260",54,"Mound Visit","2019PHI.EVN.regular.comment.csv",497
+"PHI201908260",64,"$Umpire review of ball hit by Harper; call upheld - homer","2019PHI.EVN.regular.comment.csv",498
+"PHI201908260",66,"Mound Visit","2019PHI.EVN.regular.comment.csv",499
+"PHI201908260",73,"Mound Visit","2019PHI.EVN.regular.comment.csv",500
+"PHI201908260",75,"Mound Visit","2019PHI.EVN.regular.comment.csv",501
+"PHI201908260",86,"Mound Visit","2019PHI.EVN.regular.comment.csv",502
+"PHI201908260",91,"Mound Visit","2019PHI.EVN.regular.comment.csv",503
+"PHI201908270",4,"Mound Visit","2019PHI.EVN.regular.comment.csv",504
+"PHI201908270",29,"Mound Visit","2019PHI.EVN.regular.comment.csv",505
+"PHI201908270",43,"Mound Visit","2019PHI.EVN.regular.comment.csv",506
+"PHI201908270",51,"Mound Visit","2019PHI.EVN.regular.comment.csv",507
+"PHI201908270",65,"Mound Visit","2019PHI.EVN.regular.comment.csv",508
+"PHI201908270",69,"Mound Visit","2019PHI.EVN.regular.comment.csv",509
+"PHI201908270",70,"Mound Visit","2019PHI.EVN.regular.comment.csv",510
+"PHI201908270",73,"Mound Visit","2019PHI.EVN.regular.comment.csv",511
+"PHI201908270",74,"Mound Visit","2019PHI.EVN.regular.comment.csv",512
+"PHI201908280",16,"Mound Visit","2019PHI.EVN.regular.comment.csv",513
+"PHI201908280",24,"On-field Delay $Umpire review of ball hit by Hoskins; call upheld - double","2019PHI.EVN.regular.comment.csv",514
+"PHI201908280",40,"Mound Visit","2019PHI.EVN.regular.comment.csv",515
+"PHI201908280",41,"Mound Visit","2019PHI.EVN.regular.comment.csv",516
+"PHI201908280",44,"Mound Visit","2019PHI.EVN.regular.comment.csv",517
+"PHI201908280",76,"Mound Visit","2019PHI.EVN.regular.comment.csv",518
+"PHI201908280",81,"Mound Visit","2019PHI.EVN.regular.comment.csv",519
+"PHI201908300",39,"$Phillies challenged call that Dickerson was out at home; call upheld - out trying to score","2019PHI.EVN.regular.comment.csv",520
+"PHI201908300",45,"Mound Visit","2019PHI.EVN.regular.comment.csv",521
+"PHI201908300",52,"Mound Visit","2019PHI.EVN.regular.comment.csv",522
+"PHI201908300",53,"Mound Visit","2019PHI.EVN.regular.comment.csv",523
+"PHI201908300",54,"Mound Visit","2019PHI.EVN.regular.comment.csv",524
+"PHI201908300",61,"Mound Visit","2019PHI.EVN.regular.comment.csv",525
+"PHI201908300",63,"Mound Visit","2019PHI.EVN.regular.comment.csv",526
+"PHI201908300",64,"Mound Visit","2019PHI.EVN.regular.comment.csv",527
+"PHI201908300",65,"Mound Visit","2019PHI.EVN.regular.comment.csv",528
+"PHI201908300",77,"Injury Delay","2019PHI.EVN.regular.comment.csv",529
+"PHI201908300",85,"Mound Visit","2019PHI.EVN.regular.comment.csv",530
+"PHI201908310",32,"ej,hoskr001,P,littw901,Called strike 3 $Hoskins ejected by HP umpire Little for arguing strike 3","2019PHI.EVN.regular.comment.csv",531
+"PHI201908310",43,"Mound Visit","2019PHI.EVN.regular.comment.csv",532
+"PHI201908310",55,"Mound Visit","2019PHI.EVN.regular.comment.csv",533
+"PHI201908310",56,"Mound Visit","2019PHI.EVN.regular.comment.csv",534
+"PHI201908310",66,"Mound Visit","2019PHI.EVN.regular.comment.csv",535
+"PHI201908310",67,"Mound Visit","2019PHI.EVN.regular.comment.csv",536
+"PHI201908310",69,"Mound Visit","2019PHI.EVN.regular.comment.csv",537
+"PHI201908310",72,"Injury Delay","2019PHI.EVN.regular.comment.csv",538
+"PHI201908310",77,"Mound Visit","2019PHI.EVN.regular.comment.csv",539
+"PHI201909010",12,"Mound Visit","2019PHI.EVN.regular.comment.csv",540
+"PHI201909010",51,"Mound Visit","2019PHI.EVN.regular.comment.csv",541
+"PHI201909010",53,"Mound Visit","2019PHI.EVN.regular.comment.csv",542
+"PHI201909010",56,"Mound Visit","2019PHI.EVN.regular.comment.csv",543
+"PHI201909010",58,"Mound Visit","2019PHI.EVN.regular.comment.csv",544
+"PHI201909010",62,"Mound Visit","2019PHI.EVN.regular.comment.csv",545
+"PHI201909010",63,"Mound Visit","2019PHI.EVN.regular.comment.csv",546
+"PHI201909090",50,"$Phillies challenged call that Acuna was safe at 1st; call call upheld - returned safely after line drive","2019PHI.EVN.regular.comment.csv",547
+"PHI201909100",8,"Mound Visit","2019PHI.EVN.regular.comment.csv",548
+"PHI201909100",25,"Mound Visit","2019PHI.EVN.regular.comment.csv",549
+"PHI201909100",36,"Mound Visit","2019PHI.EVN.regular.comment.csv",550
+"PHI201909100",52,"Mound Visit","2019PHI.EVN.regular.comment.csv",551
+"PHI201909100",57,"Mound Visit","2019PHI.EVN.regular.comment.csv",552
+"PHI201909100",61,"Mound Visit","2019PHI.EVN.regular.comment.csv",553
+"PHI201909100",69,"On-field Delay","2019PHI.EVN.regular.comment.csv",554
+"PHI201909100",70,"Mound Visit","2019PHI.EVN.regular.comment.csv",555
+"PHI201909110",26,"Injury Delay","2019PHI.EVN.regular.comment.csv",556
+"PHI201909110",26,"$Camargo fouled first pitch off right shin, had to be helped off field; diagnosis is right shin contusion","2019PHI.EVN.regular.comment.csv",557
+"PHI201909110",30,"Mound Visit","2019PHI.EVN.regular.comment.csv",558
+"PHI201909110",39,"$Batter interference","2019PHI.EVN.regular.comment.csv",559
+"PHI201909110",42,"Mound Visit","2019PHI.EVN.regular.comment.csv",560
+"PHI201909110",54,"Mound Visit","2019PHI.EVN.regular.comment.csv",561
+"PHI201909110",61,"$Braves challenged call that Hamilton was out at 1st; call upheld - pickoff at 1st","2019PHI.EVN.regular.comment.csv",562
+"PHI201909110",70,"Mound Visit","2019PHI.EVN.regular.comment.csv",563
+"PHI201909110",75,"Mound Visit","2019PHI.EVN.regular.comment.csv",564
+"PHI201909120",21,"Mound Visit","2019PHI.EVN.regular.comment.csv",565
+"PHI201909120",47,"Mound Visit","2019PHI.EVN.regular.comment.csv",566
+"PHI201909120",51,"Mound Visit","2019PHI.EVN.regular.comment.csv",567
+"PHI201909120",61,"Mound Visit","2019PHI.EVN.regular.comment.csv",568
+"PHI201909120",63,"Mound Visit","2019PHI.EVN.regular.comment.csv",569
+"PHI201909120",70,"Mound Visit","2019PHI.EVN.regular.comment.csv",570
+"PHI201909120",74,"Mound Visit","2019PHI.EVN.regular.comment.csv",571
+"PHI201909120",77,"Mound Visit","2019PHI.EVN.regular.comment.csv",572
+"PHI201909140",21,"$Phillies challenged call that Bogaerts was safe at 1st; call upheld - safe on pickoff attempt","2019PHI.EVN.regular.comment.csv",573
+"PHI201909140",22,"Injury Delay","2019PHI.EVN.regular.comment.csv",574
+"PHI201909140",43,"Mound Visit","2019PHI.EVN.regular.comment.csv",575
+"PHI201909140",46,"Mound Visit","2019PHI.EVN.regular.comment.csv",576
+"PHI201909140",52,"Mound Visit","2019PHI.EVN.regular.comment.csv",577
+"PHI201909140",53,"Mound Visit","2019PHI.EVN.regular.comment.csv",578
+"PHI201909140",54,"Mound Visit","2019PHI.EVN.regular.comment.csv",579
+"PHI201909140",58,"Mound Visit","2019PHI.EVN.regular.comment.csv",580
+"PHI201909140",69,"Mound Visit","2019PHI.EVN.regular.comment.csv",581
+"PHI201909140",73,"Mound Visit","2019PHI.EVN.regular.comment.csv",582
+"PHI201909150",3,"Injury Delay","2019PHI.EVN.regular.comment.csv",583
+"PHI201909150",20,"Mound Visit","2019PHI.EVN.regular.comment.csv",584
+"PHI201909150",31,"ej,harpb003,P,morag901,Called strike 3 ej,kaplg001,M,morag901,Called strike 3 $Harper ejected by HP umpire Morales after 1st pitch to Hoskins; Phillies manager Kapler then argued very angrily and was also ejected by Morales","2019PHI.EVN.regular.comment.csv",585
+"PHI201909150",39,"Mound Visit","2019PHI.EVN.regular.comment.csv",586
+"PHI201909150",61,"Mound Visit","2019PHI.EVN.regular.comment.csv",587
+"PHI201909150",73,"Mound Visit","2019PHI.EVN.regular.comment.csv",588
+"PHI201909270",34,"Mound Visit","2019PHI.EVN.regular.comment.csv",589
+"PHI201909270",35,"$Phillies challenged call that Rojas was safe at 1st; call overturned - out on pickoff","2019PHI.EVN.regular.comment.csv",590
+"PHI201909270",35,"$Brinson left with a foot contusion, injured by foul ball when he batted in the 3rd","2019PHI.EVN.regular.comment.csv",591
+"PHI201909270",39,"Mound Visit","2019PHI.EVN.regular.comment.csv",592
+"PHI201909270",46,"Mound Visit","2019PHI.EVN.regular.comment.csv",593
+"PHI201909270",52,"Mound Visit","2019PHI.EVN.regular.comment.csv",594
+"PHI201909270",67,"Mound Visit","2019PHI.EVN.regular.comment.csv",595
+"PHI201909270",69,"Mound Visit","2019PHI.EVN.regular.comment.csv",596
+"PHI201909270",79,"Mound Visit","2019PHI.EVN.regular.comment.csv",597
+"PHI201909270",93,"Mound Visit $Phillies challenged call that Haseley was not hit by pitch; call overturned - hit by pitch","2019PHI.EVN.regular.comment.csv",598
+"PHI201909270",102,"$Marlins challenged call that Harper was safe at 1st; call overturned - ground out","2019PHI.EVN.regular.comment.csv",599
+"PHI201909270",124,"Mound Visit","2019PHI.EVN.regular.comment.csv",600
+"PHI201909280",25,"Mound Visit","2019PHI.EVN.regular.comment.csv",601
+"PHI201909280",37,"Injury Delay","2019PHI.EVN.regular.comment.csv",602
+"PHI201909280",48,"Mound Visit","2019PHI.EVN.regular.comment.csv",603
+"PHI201909280",67,"Mound Visit","2019PHI.EVN.regular.comment.csv",604
+"PHI201909280",70,"Injury Delay","2019PHI.EVN.regular.comment.csv",605
+"PHI201909290",10,"Mound Visit","2019PHI.EVN.regular.comment.csv",606
+"PHI201909290",44,"Mound Visit","2019PHI.EVN.regular.comment.csv",607
+"PHI201909290",50,"Mound Visit","2019PHI.EVN.regular.comment.csv",608
+"PHI201909290",56,"Mound Visit","2019PHI.EVN.regular.comment.csv",609
+"PHI201909290",57,"Mound Visit","2019PHI.EVN.regular.comment.csv",610
+"PHI201909290",68,"Mound Visit","2019PHI.EVN.regular.comment.csv",611
+"PHI201909290",75,"Mound Visit","2019PHI.EVN.regular.comment.csv",612

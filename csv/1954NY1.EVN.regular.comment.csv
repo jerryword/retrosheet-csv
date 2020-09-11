@@ -1,34 +1,35 @@
-"NY1195404140",52,"IW's not officially recorded","FILENAME_TX","LINE_NUMBER_CT"
-"NY1195404190",64,"To match all stats/boxes, arbitrary 43 play to 63","1954NY1.EVN.regular.comment.csv",2
-"NY1195404251",12,"ej,burgs101,P,boggd901,Balls and strikes Smoky Burgess ejected by HP umpire Dusty Boggess","1954NY1.EVN.regular.comment.csv",3
-"NY1195404252",64,"may have been IW","1954NY1.EVN.regular.comment.csv",4
-"NY1195405120",62,"$off the LF pole","1954NY1.EVN.regular.comment.csv",5
-"NY1195405150",23,"$rolled under stairs","1954NY1.EVN.regular.comment.csv",6
-"NY1195405150",48,"$the throw hit runner at 3B","1954NY1.EVN.regular.comment.csv",7
-"NY1195405161",74,"ej,darka101,P,secof101,Called third strike Al Dark ejected by HP umpire Frank Secory","1954NY1.EVN.regular.comment.csv",8
-"NY1195405190",24,"$lights turned on","1954NY1.EVN.regular.comment.csv",9
-"NY1195405190",32,"10 minute rain delay","1954NY1.EVN.regular.comment.csv",10
-"NY1195405250",45,"this cannot be a triple with runner thrown out at HP","1954NY1.EVN.regular.comment.csv",11
-"NY1195405250",62,"Jake Thies left with a pulled muscle on the left side of his neck","1954NY1.EVN.regular.comment.csv",12
-"NY1195405250",71,"$off the roof of the Pirates bullpen","1954NY1.EVN.regular.comment.csv",13
-"NY1195406180",52,"to match daily/boxes, arbitrarily changed 3/FL to 2/FL","1954NY1.EVN.regular.comment.csv",14
-"NY1195406190",49,"ej,lockw101,P,dascf901,Called third strike (Threw bat) Whitey Lockman ejected by HP umpire Frank Dascoli","1954NY1.EVN.regular.comment.csv",15
-"NY1195406190",76,"$off LF pole","1954NY1.EVN.regular.comment.csv",16
-"NY1195406200",81,"ej,lockw101,P,secof101,Call at 1B (Threw glove) Whitey Lockman ejected by 1B umpire Frank Secory","1954NY1.EVN.regular.comment.csv",17
-"NY1195406230",1,"$Willie Mays caught the ball with his back to HP while running full speed and fell after the catch","1954NY1.EVN.regular.comment.csv",18
-"NY1195406230",43,"rain started","1954NY1.EVN.regular.comment.csv",19
-"NY1195406250",17,"$shortly after the 3rd inning began, Willie Mays sunk to his knees in CF; he had felt woozy after running out his inside-the- park homer in the extreme heat; after receiving first aid, he remained in the game, although still not feeling well","1954NY1.EVN.regular.comment.csv",20
-"NY1195406270",22,"$the Giants argued that a fan reached over the wall","1954NY1.EVN.regular.comment.csv",21
-"NY1195407010",1,"DIFF: Official have Grissom has no BFP","1954NY1.EVN.regular.comment.csv",22
-"NY1195407280",39,"to match daily/boxes, arbitarily changed 8 to 2","1954NY1.EVN.regular.comment.csv",23
-"NY1195407280",54,"to match daily/boxes, arbitrarily changed 4 to 3","1954NY1.EVN.regular.comment.csv",24
-"NY1195407290",46,"$Lockman failed to run out the grounder and got into a shouting match with manager Durocher; Lockman was removed from game","1954NY1.EVN.regular.comment.csv",25
-"NY1195407300",62,"Assuming that this wasn't a pickoff","1954NY1.EVN.regular.comment.csv",26
-"NY1195408030",66,"ej,mueld101,P,donaa901,Call at 2B (Threw dirt) Don Mueller ejected by 2B umpire Augie Donatelli","1954NY1.EVN.regular.comment.csv",27
-"NY1195408170",24,"ej,hamng102,P,donaa901,Fan interference non-call (Reversed) ej,wehmh101,P,donaa901,Fan interference non-call (Reversed) $a fan touched the ball in an upper deck box seat; the ball caromed back onto the field and was ruled fan interference by 3B umpire Augie Donatelli; Giants manager Leo Durocher argued the call and the umpires huddled; the call was reversed by HP umpire Jocko Conlan to a home run; the Phillies argued the reversal; Granny Hamner and Herm Wehmeier ejected by 3B umpire Augie Donatelli","1954NY1.EVN.regular.comment.csv",28
-"NY1195408180",53,"missing play in NY1195408180","1954NY1.EVN.regular.comment.csv",29
-"NY1195408222",13,"ej,atwet101,P,jackb901,Call at 2B Toby Atwell ejected by 2B umpire Bill Jackowski","1954NY1.EVN.regular.comment.csv",30
-"NY1195408222",28,"NYTimes says two bizarre errors with no details","1954NY1.EVN.regular.comment.csv",31
-"NY1195409091",46,"Mays had an unrecorded error","1954NY1.EVN.regular.comment.csv",32
-"NY1195409091",60,"may have been IW","1954NY1.EVN.regular.comment.csv",33
-"NY1195409170",11,"Changed arbitrary 8 to 7, matching boxes, daily","1954NY1.EVN.regular.comment.csv",34
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"NY1195404140",52,"IW's not officially recorded","1954NY1.EVN.regular.comment.csv",2
+"NY1195404190",64,"To match all stats/boxes, arbitrary 43 play to 63","1954NY1.EVN.regular.comment.csv",3
+"NY1195404251",12,"ej,burgs101,P,boggd901,Balls and strikes Smoky Burgess ejected by HP umpire Dusty Boggess","1954NY1.EVN.regular.comment.csv",4
+"NY1195404252",64,"may have been IW","1954NY1.EVN.regular.comment.csv",5
+"NY1195405120",62,"$off the LF pole","1954NY1.EVN.regular.comment.csv",6
+"NY1195405150",23,"$rolled under stairs","1954NY1.EVN.regular.comment.csv",7
+"NY1195405150",48,"$the throw hit runner at 3B","1954NY1.EVN.regular.comment.csv",8
+"NY1195405161",74,"ej,darka101,P,secof101,Called third strike Al Dark ejected by HP umpire Frank Secory","1954NY1.EVN.regular.comment.csv",9
+"NY1195405190",24,"$lights turned on","1954NY1.EVN.regular.comment.csv",10
+"NY1195405190",32,"10 minute rain delay","1954NY1.EVN.regular.comment.csv",11
+"NY1195405250",45,"this cannot be a triple with runner thrown out at HP","1954NY1.EVN.regular.comment.csv",12
+"NY1195405250",62,"Jake Thies left with a pulled muscle on the left side of his neck","1954NY1.EVN.regular.comment.csv",13
+"NY1195405250",71,"$off the roof of the Pirates bullpen","1954NY1.EVN.regular.comment.csv",14
+"NY1195406180",52,"to match daily/boxes, arbitrarily changed 3/FL to 2/FL","1954NY1.EVN.regular.comment.csv",15
+"NY1195406190",49,"ej,lockw101,P,dascf901,Called third strike (Threw bat) Whitey Lockman ejected by HP umpire Frank Dascoli","1954NY1.EVN.regular.comment.csv",16
+"NY1195406190",76,"$off LF pole","1954NY1.EVN.regular.comment.csv",17
+"NY1195406200",81,"ej,lockw101,P,secof101,Call at 1B (Threw glove) Whitey Lockman ejected by 1B umpire Frank Secory","1954NY1.EVN.regular.comment.csv",18
+"NY1195406230",1,"$Willie Mays caught the ball with his back to HP while running full speed and fell after the catch","1954NY1.EVN.regular.comment.csv",19
+"NY1195406230",43,"rain started","1954NY1.EVN.regular.comment.csv",20
+"NY1195406250",17,"$shortly after the 3rd inning began, Willie Mays sunk to his knees in CF; he had felt woozy after running out his inside-the- park homer in the extreme heat; after receiving first aid, he remained in the game, although still not feeling well","1954NY1.EVN.regular.comment.csv",21
+"NY1195406270",22,"$the Giants argued that a fan reached over the wall","1954NY1.EVN.regular.comment.csv",22
+"NY1195407010",1,"DIFF: Official have Grissom has no BFP","1954NY1.EVN.regular.comment.csv",23
+"NY1195407280",39,"to match daily/boxes, arbitarily changed 8 to 2","1954NY1.EVN.regular.comment.csv",24
+"NY1195407280",54,"to match daily/boxes, arbitrarily changed 4 to 3","1954NY1.EVN.regular.comment.csv",25
+"NY1195407290",46,"$Lockman failed to run out the grounder and got into a shouting match with manager Durocher; Lockman was removed from game","1954NY1.EVN.regular.comment.csv",26
+"NY1195407300",62,"Assuming that this wasn't a pickoff","1954NY1.EVN.regular.comment.csv",27
+"NY1195408030",66,"ej,mueld101,P,donaa901,Call at 2B (Threw dirt) Don Mueller ejected by 2B umpire Augie Donatelli","1954NY1.EVN.regular.comment.csv",28
+"NY1195408170",24,"ej,hamng102,P,donaa901,Fan interference non-call (Reversed) ej,wehmh101,P,donaa901,Fan interference non-call (Reversed) $a fan touched the ball in an upper deck box seat; the ball caromed back onto the field and was ruled fan interference by 3B umpire Augie Donatelli; Giants manager Leo Durocher argued the call and the umpires huddled; the call was reversed by HP umpire Jocko Conlan to a home run; the Phillies argued the reversal; Granny Hamner and Herm Wehmeier ejected by 3B umpire Augie Donatelli","1954NY1.EVN.regular.comment.csv",29
+"NY1195408180",53,"missing play in NY1195408180","1954NY1.EVN.regular.comment.csv",30
+"NY1195408222",13,"ej,atwet101,P,jackb901,Call at 2B Toby Atwell ejected by 2B umpire Bill Jackowski","1954NY1.EVN.regular.comment.csv",31
+"NY1195408222",28,"NYTimes says two bizarre errors with no details","1954NY1.EVN.regular.comment.csv",32
+"NY1195409091",46,"Mays had an unrecorded error","1954NY1.EVN.regular.comment.csv",33
+"NY1195409091",60,"may have been IW","1954NY1.EVN.regular.comment.csv",34
+"NY1195409170",11,"Changed arbitrary 8 to 7, matching boxes, daily","1954NY1.EVN.regular.comment.csv",35

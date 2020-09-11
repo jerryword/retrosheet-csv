@@ -1,27 +1,28 @@
-"CHA197904100",0,"Debut for umpire Al Scheel","FILENAME_TX","LINE_NUMBER_CT"
-"CHA197904100",1,"Debut game for Phil Huffman","1979CHA.EVA.regular.comment.csv",2
-"CHA197904120",41,"$Mike Proly left with sprained ankle","1979CHA.EVA.regular.comment.csv",3
-"CHA197904130",65,"Debut game for Jerry Narron","1979CHA.EVA.regular.comment.csv",4
-"CHA197904270",0,"Debut for umpire Dave Slickenmeyer","1979CHA.EVA.regular.comment.csv",5
-"CHA197904280",32,"$Chet Lemon rounded 2B too far","1979CHA.EVA.regular.comment.csv",6
-"CHA197904290",0,"1:06 rain delay before start of game Debut for umpire Marvin Hecht","1979CHA.EVA.regular.comment.csv",7
-"CHA197904290",8,"34 minute rain delay at 2:43 (sometime in second inning)","1979CHA.EVA.regular.comment.csv",8
-"CHA197905010",0,"Debut for umpire Gene Fowler","1979CHA.EVA.regular.comment.csv",9
-"CHA197905100",0,"Debut for umpire Gary McAvoy","1979CHA.EVA.regular.comment.csv",10
-"CHA197905110",16,"$George Brett hit on head by throw allowing Alan Bannister to score","1979CHA.EVA.regular.comment.csv",11
-"CHA197905260",1,"Debut game for Fred Howard","1979CHA.EVA.regular.comment.csv",12
-"CHA197906160",20,"$Claudell Washington hurt on the play","1979CHA.EVA.regular.comment.csv",13
-"CHA197906230",58,"$1B umpire Ron Luciano called Joe Gates safe but was overruled by HP umpire Bill Haller","1979CHA.EVA.regular.comment.csv",14
-"CHA197907110",1,"Debut game for Jerry Gleaton","1979CHA.EVA.regular.comment.csv",15
-"CHA197907121",77,"$second game of DH forfeited to Detroit (Disco Demolition Night)","1979CHA.EVA.regular.comment.csv",16
-"CHA197907240",0,"10 minute rain delay before start with another delay at 9:07 for 1:10","1979CHA.EVA.regular.comment.csv",17
-"CHA197907300",71,"$Juan Beniquez injured on play","1979CHA.EVA.regular.comment.csv",18
-"CHA197908121",13,"ej,boser101,P,evanj901,Called third strike Rick Bosetti ejected by HP umpire Jim Evans","1979CHA.EVA.regular.comment.csv",19
-"CHA197908261",44,"ej,weave801,M,lucir901,Called third strike Orioles Manager Earl Weaver ejected by HP umpire Ron Luciano","1979CHA.EVA.regular.comment.csv",20
-"CHA197908270",60,"ej,larut101,M,kaisk901,Call at HP White Sox Manager Tony LaRussa ejected by HP umpire Ken Kaiser","1979CHA.EVA.regular.comment.csv",21
-"CHA197909010",6,"Debut game for Rusty Kuntz","1979CHA.EVA.regular.comment.csv",22
-"CHA197909010",46,"game called after 1 hour rain delay","1979CHA.EVA.regular.comment.csv",23
-"CHA197909120",36,"ej,larut101,M,neudj901,Warning to pitcher White Sox Manager Tony LaRussa ejected by 1B umpire Jerry Neudecker","1979CHA.EVA.regular.comment.csv",24
-"CHA197909120",78,"Debut game for Bob Ferris","1979CHA.EVA.regular.comment.csv",25
-"CHA197909140",72,"Debut game for Lamarr Hoyt","1979CHA.EVA.regular.comment.csv",26
-"CHA197909150",1,"$Rickey Henderson fouled ball off foot and left game","1979CHA.EVA.regular.comment.csv",27
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"CHA197904100",0,"Debut for umpire Al Scheel","1979CHA.EVA.regular.comment.csv",2
+"CHA197904100",1,"Debut game for Phil Huffman","1979CHA.EVA.regular.comment.csv",3
+"CHA197904120",41,"$Mike Proly left with sprained ankle","1979CHA.EVA.regular.comment.csv",4
+"CHA197904130",65,"Debut game for Jerry Narron","1979CHA.EVA.regular.comment.csv",5
+"CHA197904270",0,"Debut for umpire Dave Slickenmeyer","1979CHA.EVA.regular.comment.csv",6
+"CHA197904280",32,"$Chet Lemon rounded 2B too far","1979CHA.EVA.regular.comment.csv",7
+"CHA197904290",0,"1:06 rain delay before start of game Debut for umpire Marvin Hecht","1979CHA.EVA.regular.comment.csv",8
+"CHA197904290",8,"34 minute rain delay at 2:43 (sometime in second inning)","1979CHA.EVA.regular.comment.csv",9
+"CHA197905010",0,"Debut for umpire Gene Fowler","1979CHA.EVA.regular.comment.csv",10
+"CHA197905100",0,"Debut for umpire Gary McAvoy","1979CHA.EVA.regular.comment.csv",11
+"CHA197905110",16,"$George Brett hit on head by throw allowing Alan Bannister to score","1979CHA.EVA.regular.comment.csv",12
+"CHA197905260",1,"Debut game for Fred Howard","1979CHA.EVA.regular.comment.csv",13
+"CHA197906160",20,"$Claudell Washington hurt on the play","1979CHA.EVA.regular.comment.csv",14
+"CHA197906230",58,"$1B umpire Ron Luciano called Joe Gates safe but was overruled by HP umpire Bill Haller","1979CHA.EVA.regular.comment.csv",15
+"CHA197907110",1,"Debut game for Jerry Gleaton","1979CHA.EVA.regular.comment.csv",16
+"CHA197907121",77,"$second game of DH forfeited to Detroit (Disco Demolition Night)","1979CHA.EVA.regular.comment.csv",17
+"CHA197907240",0,"10 minute rain delay before start with another delay at 9:07 for 1:10","1979CHA.EVA.regular.comment.csv",18
+"CHA197907300",71,"$Juan Beniquez injured on play","1979CHA.EVA.regular.comment.csv",19
+"CHA197908121",13,"ej,boser101,P,evanj901,Called third strike Rick Bosetti ejected by HP umpire Jim Evans","1979CHA.EVA.regular.comment.csv",20
+"CHA197908261",44,"ej,weave801,M,lucir901,Called third strike Orioles Manager Earl Weaver ejected by HP umpire Ron Luciano","1979CHA.EVA.regular.comment.csv",21
+"CHA197908270",60,"ej,larut101,M,kaisk901,Call at HP White Sox Manager Tony LaRussa ejected by HP umpire Ken Kaiser","1979CHA.EVA.regular.comment.csv",22
+"CHA197909010",6,"Debut game for Rusty Kuntz","1979CHA.EVA.regular.comment.csv",23
+"CHA197909010",46,"game called after 1 hour rain delay","1979CHA.EVA.regular.comment.csv",24
+"CHA197909120",36,"ej,larut101,M,neudj901,Warning to pitcher White Sox Manager Tony LaRussa ejected by 1B umpire Jerry Neudecker","1979CHA.EVA.regular.comment.csv",25
+"CHA197909120",78,"Debut game for Bob Ferris","1979CHA.EVA.regular.comment.csv",26
+"CHA197909140",72,"Debut game for Lamarr Hoyt","1979CHA.EVA.regular.comment.csv",27
+"CHA197909150",1,"$Rickey Henderson fouled ball off foot and left game","1979CHA.EVA.regular.comment.csv",28

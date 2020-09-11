@@ -1,31 +1,32 @@
-"SLN200704010",63,"Debut game for Joe Smith","FILENAME_TX","LINE_NUMBER_CT"
-"SLN200704250",27,"fan interference","2007SLN.EVN.regular.comment.csv",2
-"SLN200704270",56,"Debut game for Kelvin Jimenez","2007SLN.EVN.regular.comment.csv",3
-"SLN200705070",22,"$Yadier Molina called for interference","2007SLN.EVN.regular.comment.csv",4
-"SLN200705070",59,"ej,hurdc001,M,davib902,Home run non-call $Rockies manager Hurdle ejected by 2B umpire Davidson for arguing that Tulowitzki's fly ball went over the fence","2007SLN.EVN.regular.comment.csv",5
-"SLN200705240",50,"Pirates pitcher Tom Gorzelanny left the game due to an injured hand/wrist","2007SLN.EVN.regular.comment.csv",6
-"SLN200705270",30,"$Rolen and Young collide","2007SLN.EVN.regular.comment.csv",7
-"SLN200705270",38,"61 minute rain delay","2007SLN.EVN.regular.comment.csv",8
-"SLN200705270",38,"Nationals first baseman Dmitri Young left the game due to a lower lumbar strain","2007SLN.EVN.regular.comment.csv",9
-"SLN200705270",64,"Debut game for Troy Cate","2007SLN.EVN.regular.comment.csv",10
-"SLN200705270",67,"Scott Rolen left with a possible concussion from the earlier collision","2007SLN.EVN.regular.comment.csv",11
-"SLN200706050",17,"$Bennett hit in back of helmet by pitch, left with contusion","2007SLN.EVN.regular.comment.csv",12
-"SLN200706060",68,"Debut game for Marcus McBeth","2007SLN.EVN.regular.comment.csv",13
-"SLN200706070",63,"Debut game for Andy Cavazos","2007SLN.EVN.regular.comment.csv",14
-"SLN200706090",36,"fan interference","2007SLN.EVN.regular.comment.csv",15
-"SLN200706090",42,"Angels left fielder Garret Anderson left the game due to an injured leg","2007SLN.EVN.regular.comment.csv",16
-"SLN200706090",52,"Angels first baseman Casey Kotchman left the game due to an injured elbow","2007SLN.EVN.regular.comment.csv",17
-"SLN200706100",32,"Angels pitcher Jered Weaver left the game due to an injured back","2007SLN.EVN.regular.comment.csv",18
-"SLN200707070",64,"fan interference","2007SLN.EVN.regular.comment.csv",19
-"SLN200707240",17,"Cubs second baseman Mark DeRosa left the game due to an injured leg","2007SLN.EVN.regular.comment.csv",20
-"SLN200707270",78,"Previous play is actually 6E4","2007SLN.EVN.regular.comment.csv",21
-"SLN200707281",58,"ej,larut101,M,gibsg901,Checked swing Cardinals Manager Tony La Russa ejected by 3B umpire Greg Gibson for arguing a check swing call to Schumaker","2007SLN.EVN.regular.comment.csv",22
-"SLN200708060",74,"fan interference","2007SLN.EVN.regular.comment.csv",23
-"SLN200708090",39,"Hairston strained left oblique muscle and left next inning","2007SLN.EVN.regular.comment.csv",24
-"SLN200708310",52,"$Cardinals Juan Encarnacion was struck on the eye with a foul ball from Aaron Miles while standing in the on deck circle. He was taken to the hospital where 'multiple fractures of left eye socket were found. Encarnacion onto DL for remainder of year","2007SLN.EVN.regular.comment.csv",25
-"SLN200709010",57,"Previous play is actually 3E6","2007SLN.EVN.regular.comment.csv",26
-"SLN200709010",82,"Percival left after 4 pitches with Hamilton still at bat - injury?","2007SLN.EVN.regular.comment.csv",27
-"SLN200709030",39,"Pirates Xavier Nady left the game due to an injured head","2007SLN.EVN.regular.comment.csv",28
-"SLN200709060",66,"Debut game for Dave Davidson","2007SLN.EVN.regular.comment.csv",29
-"SLN200709060",91,"$Game called for rain","2007SLN.EVN.regular.comment.csv",30
-"SLN200709160",70,"ej,edmoj001,P,schrp901,Balls and strikes Cardinals center fielder Jim Edmonds ejected by HP umpire Paul Schrieber","2007SLN.EVN.regular.comment.csv",31
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"SLN200704010",63,"Debut game for Joe Smith","2007SLN.EVN.regular.comment.csv",2
+"SLN200704250",27,"fan interference","2007SLN.EVN.regular.comment.csv",3
+"SLN200704270",56,"Debut game for Kelvin Jimenez","2007SLN.EVN.regular.comment.csv",4
+"SLN200705070",22,"$Yadier Molina called for interference","2007SLN.EVN.regular.comment.csv",5
+"SLN200705070",59,"ej,hurdc001,M,davib902,Home run non-call $Rockies manager Hurdle ejected by 2B umpire Davidson for arguing that Tulowitzki's fly ball went over the fence","2007SLN.EVN.regular.comment.csv",6
+"SLN200705240",50,"Pirates pitcher Tom Gorzelanny left the game due to an injured hand/wrist","2007SLN.EVN.regular.comment.csv",7
+"SLN200705270",30,"$Rolen and Young collide","2007SLN.EVN.regular.comment.csv",8
+"SLN200705270",38,"61 minute rain delay","2007SLN.EVN.regular.comment.csv",9
+"SLN200705270",38,"Nationals first baseman Dmitri Young left the game due to a lower lumbar strain","2007SLN.EVN.regular.comment.csv",10
+"SLN200705270",64,"Debut game for Troy Cate","2007SLN.EVN.regular.comment.csv",11
+"SLN200705270",67,"Scott Rolen left with a possible concussion from the earlier collision","2007SLN.EVN.regular.comment.csv",12
+"SLN200706050",17,"$Bennett hit in back of helmet by pitch, left with contusion","2007SLN.EVN.regular.comment.csv",13
+"SLN200706060",68,"Debut game for Marcus McBeth","2007SLN.EVN.regular.comment.csv",14
+"SLN200706070",63,"Debut game for Andy Cavazos","2007SLN.EVN.regular.comment.csv",15
+"SLN200706090",36,"fan interference","2007SLN.EVN.regular.comment.csv",16
+"SLN200706090",42,"Angels left fielder Garret Anderson left the game due to an injured leg","2007SLN.EVN.regular.comment.csv",17
+"SLN200706090",52,"Angels first baseman Casey Kotchman left the game due to an injured elbow","2007SLN.EVN.regular.comment.csv",18
+"SLN200706100",32,"Angels pitcher Jered Weaver left the game due to an injured back","2007SLN.EVN.regular.comment.csv",19
+"SLN200707070",64,"fan interference","2007SLN.EVN.regular.comment.csv",20
+"SLN200707240",17,"Cubs second baseman Mark DeRosa left the game due to an injured leg","2007SLN.EVN.regular.comment.csv",21
+"SLN200707270",78,"Previous play is actually 6E4","2007SLN.EVN.regular.comment.csv",22
+"SLN200707281",58,"ej,larut101,M,gibsg901,Checked swing Cardinals Manager Tony La Russa ejected by 3B umpire Greg Gibson for arguing a check swing call to Schumaker","2007SLN.EVN.regular.comment.csv",23
+"SLN200708060",74,"fan interference","2007SLN.EVN.regular.comment.csv",24
+"SLN200708090",39,"Hairston strained left oblique muscle and left next inning","2007SLN.EVN.regular.comment.csv",25
+"SLN200708310",52,"$Cardinals Juan Encarnacion was struck on the eye with a foul ball from Aaron Miles while standing in the on deck circle. He was taken to the hospital where 'multiple fractures of left eye socket were found. Encarnacion onto DL for remainder of year","2007SLN.EVN.regular.comment.csv",26
+"SLN200709010",57,"Previous play is actually 3E6","2007SLN.EVN.regular.comment.csv",27
+"SLN200709010",82,"Percival left after 4 pitches with Hamilton still at bat - injury?","2007SLN.EVN.regular.comment.csv",28
+"SLN200709030",39,"Pirates Xavier Nady left the game due to an injured head","2007SLN.EVN.regular.comment.csv",29
+"SLN200709060",66,"Debut game for Dave Davidson","2007SLN.EVN.regular.comment.csv",30
+"SLN200709060",91,"$Game called for rain","2007SLN.EVN.regular.comment.csv",31
+"SLN200709160",70,"ej,edmoj001,P,schrp901,Balls and strikes Cardinals center fielder Jim Edmonds ejected by HP umpire Paul Schrieber","2007SLN.EVN.regular.comment.csv",32

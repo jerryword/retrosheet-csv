@@ -1,30 +1,31 @@
-"SFN199005180",19,"$Delino DeShields caught Terry Kennedy with the hidden ball trick to complete the double play","FILENAME_TX","LINE_NUMBER_CT"
-"SFN199005200",32,"ej,mitck001,P,bonig901,Called third strike Kevin Mitchell ejected by HP umpire Greg Bonin","1990SFN.EVN.regular.comment.csv",2
-"SFN199005310",85,"ej,clarw001,P,rennd901,Arguing third strike Will Clark ejected by HP umpire Dutch Rennert","1990SFN.EVN.regular.comment.csv",3
-"SFN199006010",83,"$Will Clark called for interference at 2B","1990SFN.EVN.regular.comment.csv",4
-"SFN199006040",70,"$Tim Birtsas struck out 4 batters in one inning","1990SFN.EVN.regular.comment.csv",5
-"SFN199006150",0,"Debut for umpire Ron Barnes","1990SFN.EVN.regular.comment.csv",6
-"SFN199007040",44,"ej,colev001,P,monte901,Call at 2B (Bumped umpire) Vince Coleman ejected by 2B umpire Ed Montague for bumping the umpire during an argument","1990SFN.EVN.regular.comment.csv",7
-"SFN199007040",71,"$both benches warned by HP umpire John McSherry","1990SFN.EVN.regular.comment.csv",8
-"SFN199007040",75,"DWS: invented play","1990SFN.EVN.regular.comment.csv",9
-"SFN199007081",71,"ej,zimmd101,C,quicj901,Check swing $Cubs manager Zimmer ejected by 3B umpire Quick for arguing check swing strike 3 on Wynne","1990SFN.EVN.regular.comment.csv",10
-"SFN199007280",48,"$missed suicide squeeze","1990SFN.EVN.regular.comment.csv",11
-"SFN199007310",1,"Debut game for Rafael Novoa","1990SFN.EVN.regular.comment.csv",12
-"SFN199007310",80,"DWS: invented play","1990SFN.EVN.regular.comment.csv",13
-"SFN199008040",8,"$Hubie Brooks thought fly ball was third out, let runner score from 2B","1990SFN.EVN.regular.comment.csv",14
-"SFN199008170",39,"$Jose Uribe collided with Gregg Jefferies; called for interference","1990SFN.EVN.regular.comment.csv",15
-"SFN199008200",3,"$Tim Raines out on appeal for missing 1B on apparent double","1990SFN.EVN.regular.comment.csv",16
-"SFN199008240",84,"Debut game for Mark Dewey","1990SFN.EVN.regular.comment.csv",17
-"SFN199009050",38,"ej,pinil001,M,quicj901,Bench jockeying Reds manager Lou Piniella ejected by HP Umpire Jim Quick for yelling from the bench","1990SFN.EVN.regular.comment.csv",18
-"SFN199009060",76,"ej,duncm001,P,rennd901,Balls and strikes Mariano Duncan ejected by HP umpire Dutch Rennert","1990SFN.EVN.regular.comment.csv",19
-"SFN199009070",11,"$Ken Caminiti rounded 2B too far","1990SFN.EVN.regular.comment.csv",20
-"SFN199009100",15,"$Don Robinson out due to pain in arthritic left hip","1990SFN.EVN.regular.comment.csv",21
-"SFN199009120",37,"ej,cox-b103,M,davib902,Balls and strikes $Braves manager Cox ejected by HP umpire Davidson for arguing balls and strikes while Whitt was at bat","1990SFN.EVN.regular.comment.csv",22
-"SFN199009120",72,"ej,bassk001,P,davib902,Claiming pitch hit him $Kevin Bass ejected by HP umpire Davidson for claiming that he was hit by the pitch","1990SFN.EVN.regular.comment.csv",23
-"SFN199009240",27,"$Benito Santiago called out for leaving baseline to avoid the tag","1990SFN.EVN.regular.comment.csv",24
-"SFN199009250",8,"$Will Clark called for interference with catcher's throw","1990SFN.EVN.regular.comment.csv",25
-"SFN199009260",5,"ej,clarj001,P,hohnb901,Balls and strikes Jack Clark ejected by HP umpire Bill Hohn","1990SFN.EVN.regular.comment.csv",26
-"SFN199009260",69,"$Atlee Hammaker left with injury","1990SFN.EVN.regular.comment.csv",27
-"SFN199009280",33,"$Kal Daniels hurt running into wall trying for Kevin Bass' double","1990SFN.EVN.regular.comment.csv",28
-"SFN199009300",52,"$popup dropped in wind","1990SFN.EVN.regular.comment.csv",29
-"SFN199010020",2,"$Mike Bell did not tag 2B on way back to 1B; out on appeal","1990SFN.EVN.regular.comment.csv",30
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"SFN199005180",19,"$Delino DeShields caught Terry Kennedy with the hidden ball trick to complete the double play","1990SFN.EVN.regular.comment.csv",2
+"SFN199005200",32,"ej,mitck001,P,bonig901,Called third strike Kevin Mitchell ejected by HP umpire Greg Bonin","1990SFN.EVN.regular.comment.csv",3
+"SFN199005310",85,"ej,clarw001,P,rennd901,Arguing third strike Will Clark ejected by HP umpire Dutch Rennert","1990SFN.EVN.regular.comment.csv",4
+"SFN199006010",83,"$Will Clark called for interference at 2B","1990SFN.EVN.regular.comment.csv",5
+"SFN199006040",70,"$Tim Birtsas struck out 4 batters in one inning","1990SFN.EVN.regular.comment.csv",6
+"SFN199006150",0,"Debut for umpire Ron Barnes","1990SFN.EVN.regular.comment.csv",7
+"SFN199007040",44,"ej,colev001,P,monte901,Call at 2B (Bumped umpire) Vince Coleman ejected by 2B umpire Ed Montague for bumping the umpire during an argument","1990SFN.EVN.regular.comment.csv",8
+"SFN199007040",71,"$both benches warned by HP umpire John McSherry","1990SFN.EVN.regular.comment.csv",9
+"SFN199007040",75,"DWS: invented play","1990SFN.EVN.regular.comment.csv",10
+"SFN199007081",71,"ej,zimmd101,C,quicj901,Check swing $Cubs manager Zimmer ejected by 3B umpire Quick for arguing check swing strike 3 on Wynne","1990SFN.EVN.regular.comment.csv",11
+"SFN199007280",48,"$missed suicide squeeze","1990SFN.EVN.regular.comment.csv",12
+"SFN199007310",1,"Debut game for Rafael Novoa","1990SFN.EVN.regular.comment.csv",13
+"SFN199007310",80,"DWS: invented play","1990SFN.EVN.regular.comment.csv",14
+"SFN199008040",8,"$Hubie Brooks thought fly ball was third out, let runner score from 2B","1990SFN.EVN.regular.comment.csv",15
+"SFN199008170",39,"$Jose Uribe collided with Gregg Jefferies; called for interference","1990SFN.EVN.regular.comment.csv",16
+"SFN199008200",3,"$Tim Raines out on appeal for missing 1B on apparent double","1990SFN.EVN.regular.comment.csv",17
+"SFN199008240",84,"Debut game for Mark Dewey","1990SFN.EVN.regular.comment.csv",18
+"SFN199009050",38,"ej,pinil001,M,quicj901,Bench jockeying Reds manager Lou Piniella ejected by HP Umpire Jim Quick for yelling from the bench","1990SFN.EVN.regular.comment.csv",19
+"SFN199009060",76,"ej,duncm001,P,rennd901,Balls and strikes Mariano Duncan ejected by HP umpire Dutch Rennert","1990SFN.EVN.regular.comment.csv",20
+"SFN199009070",11,"$Ken Caminiti rounded 2B too far","1990SFN.EVN.regular.comment.csv",21
+"SFN199009100",15,"$Don Robinson out due to pain in arthritic left hip","1990SFN.EVN.regular.comment.csv",22
+"SFN199009120",37,"ej,cox-b103,M,davib902,Balls and strikes $Braves manager Cox ejected by HP umpire Davidson for arguing balls and strikes while Whitt was at bat","1990SFN.EVN.regular.comment.csv",23
+"SFN199009120",72,"ej,bassk001,P,davib902,Claiming pitch hit him $Kevin Bass ejected by HP umpire Davidson for claiming that he was hit by the pitch","1990SFN.EVN.regular.comment.csv",24
+"SFN199009240",27,"$Benito Santiago called out for leaving baseline to avoid the tag","1990SFN.EVN.regular.comment.csv",25
+"SFN199009250",8,"$Will Clark called for interference with catcher's throw","1990SFN.EVN.regular.comment.csv",26
+"SFN199009260",5,"ej,clarj001,P,hohnb901,Balls and strikes Jack Clark ejected by HP umpire Bill Hohn","1990SFN.EVN.regular.comment.csv",27
+"SFN199009260",69,"$Atlee Hammaker left with injury","1990SFN.EVN.regular.comment.csv",28
+"SFN199009280",33,"$Kal Daniels hurt running into wall trying for Kevin Bass' double","1990SFN.EVN.regular.comment.csv",29
+"SFN199009300",52,"$popup dropped in wind","1990SFN.EVN.regular.comment.csv",30
+"SFN199010020",2,"$Mike Bell did not tag 2B on way back to 1B; out on appeal","1990SFN.EVN.regular.comment.csv",31

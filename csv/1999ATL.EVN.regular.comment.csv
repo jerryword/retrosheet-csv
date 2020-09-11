@@ -1,12 +1,13 @@
-"ATL199904050",54,"Debut game for Kevin McGlinchy","FILENAME_TX","LINE_NUMBER_CT"
-"ATL199904060",67,"Debut game for Derrin Ebert","1999ATL.EVN.regular.comment.csv",2
-"ATL199904100",53,"Debut game for Joe Winkelsas","1999ATL.EVN.regular.comment.csv",3
-"ATL199905040",18,"ej,merck001,P,poncl901,Throwing at Andruw Jones Kent Mercker ejected by HP umpire Larry Poncino for throwing at Andruw Jones","1999ATL.EVN.regular.comment.csv",4
-"ATL199905200",79,"ej,radid801,C,drecb901,Balls and strikes $Cubs 1B coach Radison ejected by 1B umpire Dreckman at end of visitor's 10th for arguing balls and strikes","1999ATL.EVN.regular.comment.csv",5
-"ATL199905210",62,"Debut game for Ray King","1999ATL.EVN.regular.comment.csv",6
-"ATL199906010",23,"ej,leylj801,M,wintm901,Call at 3B $Rockies manager Leyland ejected by 3B umpire Winters for arguing that Smoltz was out at 3rd in rundown, but call was that 3bman dropped ball making tag","1999ATL.EVN.regular.comment.csv",7
-"ATL199906260",1,"Debut game for Octavio Dotel","1999ATL.EVN.regular.comment.csv",8
-"ATL199907050",74,"Debut game for Amaury Garcia","1999ATL.EVN.regular.comment.csv",9
-"ATL199907300",27,"ej,smolj001,P,mealj901,Intentional HBP John Smoltz ejected by HP umpire Jerry Meals","1999ATL.EVN.regular.comment.csv",10
-"ATL199907300",27,"ej,peree002,P,mealj901,Punching Paul Byrd while Byrd at bat Eddie Perez ejected by HP umpire Jerry Meals","1999ATL.EVN.regular.comment.csv",11
-"ATL199907300",48,"ej,cox-b103,M,poncl901,Call at 2B (runner interference) $Bret Boone called for interference at 2B; Braves manager Bobby Cox ejected by 2B umpire Larry Poncino","1999ATL.EVN.regular.comment.csv",12
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"ATL199904050",54,"Debut game for Kevin McGlinchy","1999ATL.EVN.regular.comment.csv",2
+"ATL199904060",67,"Debut game for Derrin Ebert","1999ATL.EVN.regular.comment.csv",3
+"ATL199904100",53,"Debut game for Joe Winkelsas","1999ATL.EVN.regular.comment.csv",4
+"ATL199905040",18,"ej,merck001,P,poncl901,Throwing at Andruw Jones Kent Mercker ejected by HP umpire Larry Poncino for throwing at Andruw Jones","1999ATL.EVN.regular.comment.csv",5
+"ATL199905200",79,"ej,radid801,C,drecb901,Balls and strikes $Cubs 1B coach Radison ejected by 1B umpire Dreckman at end of visitor's 10th for arguing balls and strikes","1999ATL.EVN.regular.comment.csv",6
+"ATL199905210",62,"Debut game for Ray King","1999ATL.EVN.regular.comment.csv",7
+"ATL199906010",23,"ej,leylj801,M,wintm901,Call at 3B $Rockies manager Leyland ejected by 3B umpire Winters for arguing that Smoltz was out at 3rd in rundown, but call was that 3bman dropped ball making tag","1999ATL.EVN.regular.comment.csv",8
+"ATL199906260",1,"Debut game for Octavio Dotel","1999ATL.EVN.regular.comment.csv",9
+"ATL199907050",74,"Debut game for Amaury Garcia","1999ATL.EVN.regular.comment.csv",10
+"ATL199907300",27,"ej,smolj001,P,mealj901,Intentional HBP John Smoltz ejected by HP umpire Jerry Meals","1999ATL.EVN.regular.comment.csv",11
+"ATL199907300",27,"ej,peree002,P,mealj901,Punching Paul Byrd while Byrd at bat Eddie Perez ejected by HP umpire Jerry Meals","1999ATL.EVN.regular.comment.csv",12
+"ATL199907300",48,"ej,cox-b103,M,poncl901,Call at 2B (runner interference) $Bret Boone called for interference at 2B; Braves manager Bobby Cox ejected by 2B umpire Larry Poncino","1999ATL.EVN.regular.comment.csv",13

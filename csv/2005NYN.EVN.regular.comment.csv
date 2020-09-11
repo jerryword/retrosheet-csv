@@ -1,25 +1,26 @@
-"NYN200504170",9,"ej,alfoa001,P,relic901,Fair/foul call reversal $Marlins Alfonseca, not in game, ejected by 3B umpire Reliford for arguing about reversal of fair call hit by Paul LoDuca","FILENAME_TX","LINE_NUMBER_CT"
-"NYN200505150",65,"Cardinals Jim Edmonds left the game due to an injured foot/ankle","2005NYN.EVN.regular.comment.csv",2
-"NYN200505180",38,"ej,miled801,M,buckc901,Call at 1B Reds Manager Dave Miley ejected by 1B umpire CB Bucknor","2005NYN.EVN.regular.comment.csv",3
-"NYN200505210",42,"Mets CF Carlos Beltran left the game due to an injured leg Mets 2B Kazuo Matsui left the game due to an injured neck/shoulder","2005NYN.EVN.regular.comment.csv",4
-"NYN200505210",43,"$hit on left elbow","2005NYN.EVN.regular.comment.csv",5
-"NYN200505210",46,"Yankees shortstop Derek Jeter left the game due to an injured elbow","2005NYN.EVN.regular.comment.csv",6
-"NYN200506010",58,"Mets second baseman Miguel Cairo left the game due to an injured leg","2005NYN.EVN.regular.comment.csv",7
-"NYN200506080",7,"Mets catcher Mike Piazza left the game due to an injured hand/wrist","2005NYN.EVN.regular.comment.csv",8
-"NYN200506120",11,"ej,piazm001,P,coope901,Called third strike Mets catcher Mike Piazza ejected by HP umpire Eric Cooper","2005NYN.EVN.regular.comment.csv",9
-"NYN200506300",14,"ej,pratt001,P,marqa901,Balls and strikes (while catching) ej,manuc101,M,marqa901,Balls and strikes Todd Pratt and Mgr Charlie Manuel ejected by HP umpire Alfonso Marquez","2005NYN.EVN.regular.comment.csv",10
-"NYN200507020",25,"$Carlos Beltran hit a soft line drive and did not run to 1B; Jose Reyes held, thinking the ball would be caught; Carlos Delgado allowed the ball to drop and started the double play","2005NYN.EVN.regular.comment.csv",11
-"NYN200507200",60,"Debut game for Clay Hensley","2005NYN.EVN.regular.comment.csv",12
-"NYN200507220",4,"fan interference","2005NYN.EVN.regular.comment.csv",13
-"NYN200508030",70,"ej,durrt001,P,nauep901,Call at 3B Brewers Trent Durrington ejected by 3B umpire Paul Nauert","2005NYN.EVN.regular.comment.csv",14
-"NYN200508070",31,"Cubs pitcher Carlos Zambrano left the game due to an injured back","2005NYN.EVN.regular.comment.csv",15
-"NYN200508160",52,"$Piazza hit by the foul tip, broke pisiform bone in left wrist, left game next inning.","2005NYN.EVN.regular.comment.csv",16
-"NYN200508210",47,"Debut game for Mike Jacobs $Homer by Jacobs in first ML at bat","2005NYN.EVN.regular.comment.csv",17
-"NYN200508300",39,"ej,manuc101,M,culbf901,Call at HP Phillies Manager Charlie Manuel ejected by HP umpire Fieldin Culbreth","2005NYN.EVN.regular.comment.csv",18
-"NYN200509010",48,"ej,thomm001,C,younl901,Catch/no catch Phillies Batting Coach Milt Thompson ejected by HP umpire Larry Young","2005NYN.EVN.regular.comment.csv",19
-"NYN200509130",49,"ej,robif103,M,nelsj901,Balls and strikes $Washington manager Frank Robinson ejected by HP umpire Jeff Nelson for claiming that ball 1 to Diaz was actually a swing","2005NYN.EVN.regular.comment.csv",20
-"NYN200509130",60,"$Offerman thought ball had been caught by pitcher and he went back to 1st. But it was a grounder into center, so he was out at second on an easy force","2005NYN.EVN.regular.comment.csv",21
-"NYN200509140",37,"ej,guilj001,P,millb901,Called third strike Nationals right fielder Jose Guillen ejected by HP umpire Bill Miller from the dugout; Guillen then threw various pieces of equipment onto the field","2005NYN.EVN.regular.comment.csv",22
-"NYN200509150",72,"originally scored as S9 and E9, changed after game","2005NYN.EVN.regular.comment.csv",23
-"NYN200509180",14,"Debut game for Anderson Hernandez","2005NYN.EVN.regular.comment.csv",24
-"NYN200509210",7,"Miguel Cabrera left the game due to an injured knee","2005NYN.EVN.regular.comment.csv",25
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"NYN200504170",9,"ej,alfoa001,P,relic901,Fair/foul call reversal $Marlins Alfonseca, not in game, ejected by 3B umpire Reliford for arguing about reversal of fair call hit by Paul LoDuca","2005NYN.EVN.regular.comment.csv",2
+"NYN200505150",65,"Cardinals Jim Edmonds left the game due to an injured foot/ankle","2005NYN.EVN.regular.comment.csv",3
+"NYN200505180",38,"ej,miled801,M,buckc901,Call at 1B Reds Manager Dave Miley ejected by 1B umpire CB Bucknor","2005NYN.EVN.regular.comment.csv",4
+"NYN200505210",42,"Mets CF Carlos Beltran left the game due to an injured leg Mets 2B Kazuo Matsui left the game due to an injured neck/shoulder","2005NYN.EVN.regular.comment.csv",5
+"NYN200505210",43,"$hit on left elbow","2005NYN.EVN.regular.comment.csv",6
+"NYN200505210",46,"Yankees shortstop Derek Jeter left the game due to an injured elbow","2005NYN.EVN.regular.comment.csv",7
+"NYN200506010",58,"Mets second baseman Miguel Cairo left the game due to an injured leg","2005NYN.EVN.regular.comment.csv",8
+"NYN200506080",7,"Mets catcher Mike Piazza left the game due to an injured hand/wrist","2005NYN.EVN.regular.comment.csv",9
+"NYN200506120",11,"ej,piazm001,P,coope901,Called third strike Mets catcher Mike Piazza ejected by HP umpire Eric Cooper","2005NYN.EVN.regular.comment.csv",10
+"NYN200506300",14,"ej,pratt001,P,marqa901,Balls and strikes (while catching) ej,manuc101,M,marqa901,Balls and strikes Todd Pratt and Mgr Charlie Manuel ejected by HP umpire Alfonso Marquez","2005NYN.EVN.regular.comment.csv",11
+"NYN200507020",25,"$Carlos Beltran hit a soft line drive and did not run to 1B; Jose Reyes held, thinking the ball would be caught; Carlos Delgado allowed the ball to drop and started the double play","2005NYN.EVN.regular.comment.csv",12
+"NYN200507200",60,"Debut game for Clay Hensley","2005NYN.EVN.regular.comment.csv",13
+"NYN200507220",4,"fan interference","2005NYN.EVN.regular.comment.csv",14
+"NYN200508030",70,"ej,durrt001,P,nauep901,Call at 3B Brewers Trent Durrington ejected by 3B umpire Paul Nauert","2005NYN.EVN.regular.comment.csv",15
+"NYN200508070",31,"Cubs pitcher Carlos Zambrano left the game due to an injured back","2005NYN.EVN.regular.comment.csv",16
+"NYN200508160",52,"$Piazza hit by the foul tip, broke pisiform bone in left wrist, left game next inning.","2005NYN.EVN.regular.comment.csv",17
+"NYN200508210",47,"Debut game for Mike Jacobs $Homer by Jacobs in first ML at bat","2005NYN.EVN.regular.comment.csv",18
+"NYN200508300",39,"ej,manuc101,M,culbf901,Call at HP Phillies Manager Charlie Manuel ejected by HP umpire Fieldin Culbreth","2005NYN.EVN.regular.comment.csv",19
+"NYN200509010",48,"ej,thomm001,C,younl901,Catch/no catch Phillies Batting Coach Milt Thompson ejected by HP umpire Larry Young","2005NYN.EVN.regular.comment.csv",20
+"NYN200509130",49,"ej,robif103,M,nelsj901,Balls and strikes $Washington manager Frank Robinson ejected by HP umpire Jeff Nelson for claiming that ball 1 to Diaz was actually a swing","2005NYN.EVN.regular.comment.csv",21
+"NYN200509130",60,"$Offerman thought ball had been caught by pitcher and he went back to 1st. But it was a grounder into center, so he was out at second on an easy force","2005NYN.EVN.regular.comment.csv",22
+"NYN200509140",37,"ej,guilj001,P,millb901,Called third strike Nationals right fielder Jose Guillen ejected by HP umpire Bill Miller from the dugout; Guillen then threw various pieces of equipment onto the field","2005NYN.EVN.regular.comment.csv",23
+"NYN200509150",72,"originally scored as S9 and E9, changed after game","2005NYN.EVN.regular.comment.csv",24
+"NYN200509180",14,"Debut game for Anderson Hernandez","2005NYN.EVN.regular.comment.csv",25
+"NYN200509210",7,"Miguel Cabrera left the game due to an injured knee","2005NYN.EVN.regular.comment.csv",26

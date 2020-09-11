@@ -1,43 +1,44 @@
-"PHI196804200",38,"Debut game for Danny Walton","FILENAME_TX","LINE_NUMBER_CT"
-"PHI196804220",29,"$the ball struck the 1B bag","1968PHI.EVN.regular.comment.csv",2
-"PHI196805030",27,"Tony Gonzalez left due to right side injury from yesterday","1968PHI.EVN.regular.comment.csv",3
-"PHI196805030",52,"$Willie Stargell broke for 2B and stopped; Clay Dalrymple's arm hit HP umpire Bob Engel producing the wild throw","1968PHI.EVN.regular.comment.csv",4
-"PHI196805040",47,"$Tommie Sisk attemped a squeeze bunt; Jose Pagan held 3B and 1B Bill White let the ball roll foul; Sisk tripped over 1B and hurt his right leg","1968PHI.EVN.regular.comment.csv",5
-"PHI196805130",68,"$ball three to Dick Allen when Phil Niekro went to mouth","1968PHI.EVN.regular.comment.csv",6
-"PHI196805140",18,"$ball four to Henry Aaron called when Larry Jackson went to mouth","1968PHI.EVN.regular.comment.csv",7
-"PHI196805291",3,"off light tower","1968PHI.EVN.regular.comment.csv",8
-"PHI196805292",27,"Dick Allen left with pulled right groin","1968PHI.EVN.regular.comment.csv",9
-"PHI196806142",47,"$Dick Allen's ball hit 1 foot from bottom of wall at 447 ft sign","1968PHI.EVN.regular.comment.csv",10
-"PHI196806160",0,"$first game managed by Bob Skinner","1968PHI.EVN.regular.comment.csv",11
-"PHI196806181",16,"Gaylord Perry left with muscle injury in his side","1968PHI.EVN.regular.comment.csv",12
-"PHI196806181",58,"$Hal Lanier dropped the infield fly","1968PHI.EVN.regular.comment.csv",13
-"PHI196806280",21,"$Jerry May held 3B on the grounder but Jim Bunning ran to 3B","1968PHI.EVN.regular.comment.csv",14
-"PHI196806300",45,"Jerry May struck by foul ball","1968PHI.EVN.regular.comment.csv",15
-"PHI196806300",66,"onto roof","1968PHI.EVN.regular.comment.csv",16
-"PHI196807060",38,"Ed Charles left with injured hand","1968PHI.EVN.regular.comment.csv",17
-"PHI196807072",72,"ej,hodgg101,M,burkk101,Balls and strikes $Mets manager Hodges ejected by HP umpire Burkhart for arguing when Burkhart changed call on inside pitch to Gonzalez from foul tip to ball","1968PHI.EVN.regular.comment.csv",18
-"PHI196807171",16,"$Tony Taylor struck on face by foul ball","1968PHI.EVN.regular.comment.csv",19
-"PHI196807171",67,"Debut game for Jerry Johnson","1968PHI.EVN.regular.comment.csv",20
-"PHI196807262",30,"onto roof","1968PHI.EVN.regular.comment.csv",21
-"PHI196807262",45,"$Milt Pappas struck on right shin; left with bruise","1968PHI.EVN.regular.comment.csv",22
-"PHI196807262",56,"onto roof","1968PHI.EVN.regular.comment.csv",23
-"PHI196808010",30,"off light tower","1968PHI.EVN.regular.comment.csv",24
-"PHI196808010",55,"Game called after 70 minute rain delay","1968PHI.EVN.regular.comment.csv",25
-"PHI196808220",27,"onto roof","1968PHI.EVN.regular.comment.csv",26
-"PHI196808300",15,"short passed ball","1968PHI.EVN.regular.comment.csv",27
-"PHI196808300",33,"Cookie Rojas injured left ankle on pick-off","1968PHI.EVN.regular.comment.csv",28
-"PHI196808300",36,"Chris Short dove for bunt and made tag but injured right ankle","1968PHI.EVN.regular.comment.csv",29
-"PHI196808300",47,"Jim Maloney left with blister","1968PHI.EVN.regular.comment.csv",30
-"PHI196808310",42,"Tony Cloninger left with sore elbow","1968PHI.EVN.regular.comment.csv",31
-"PHI196809010",73,"onto roof","1968PHI.EVN.regular.comment.csv",32
-"PHI196809021",38,"$John Purdin threw to Jim Lefebvre who was off the base","1968PHI.EVN.regular.comment.csv",33
-"PHI196809030",3,"Debut game for Bill Sudakis","1968PHI.EVN.regular.comment.csv",34
-"PHI196809030",45,"struck front of roof","1968PHI.EVN.regular.comment.csv",35
-"PHI196809030",61,"off light tower","1968PHI.EVN.regular.comment.csv",36
-"PHI196809030",63,"through light tower","1968PHI.EVN.regular.comment.csv",37
-"PHI196809131",0,"Debut for umpire Andy Olsen","1968PHI.EVN.regular.comment.csv",38
-"PHI196809131",57,"Debut game for Vic LaRose","1968PHI.EVN.regular.comment.csv",39
-"PHI196809150",13,"onto roof","1968PHI.EVN.regular.comment.csv",40
-"PHI196809160",29,"onto roof","1968PHI.EVN.regular.comment.csv",41
-"PHI196809180",65,"$Matty Alou beat the throw to 2B, saw 3B uncovered","1968PHI.EVN.regular.comment.csv",42
-"PHI196809210",14,"Debut game for Duffy Dyer","1968PHI.EVN.regular.comment.csv",43
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"PHI196804200",38,"Debut game for Danny Walton","1968PHI.EVN.regular.comment.csv",2
+"PHI196804220",29,"$the ball struck the 1B bag","1968PHI.EVN.regular.comment.csv",3
+"PHI196805030",27,"Tony Gonzalez left due to right side injury from yesterday","1968PHI.EVN.regular.comment.csv",4
+"PHI196805030",52,"$Willie Stargell broke for 2B and stopped; Clay Dalrymple's arm hit HP umpire Bob Engel producing the wild throw","1968PHI.EVN.regular.comment.csv",5
+"PHI196805040",47,"$Tommie Sisk attemped a squeeze bunt; Jose Pagan held 3B and 1B Bill White let the ball roll foul; Sisk tripped over 1B and hurt his right leg","1968PHI.EVN.regular.comment.csv",6
+"PHI196805130",68,"$ball three to Dick Allen when Phil Niekro went to mouth","1968PHI.EVN.regular.comment.csv",7
+"PHI196805140",18,"$ball four to Henry Aaron called when Larry Jackson went to mouth","1968PHI.EVN.regular.comment.csv",8
+"PHI196805291",3,"off light tower","1968PHI.EVN.regular.comment.csv",9
+"PHI196805292",27,"Dick Allen left with pulled right groin","1968PHI.EVN.regular.comment.csv",10
+"PHI196806142",47,"$Dick Allen's ball hit 1 foot from bottom of wall at 447 ft sign","1968PHI.EVN.regular.comment.csv",11
+"PHI196806160",0,"$first game managed by Bob Skinner","1968PHI.EVN.regular.comment.csv",12
+"PHI196806181",16,"Gaylord Perry left with muscle injury in his side","1968PHI.EVN.regular.comment.csv",13
+"PHI196806181",58,"$Hal Lanier dropped the infield fly","1968PHI.EVN.regular.comment.csv",14
+"PHI196806280",21,"$Jerry May held 3B on the grounder but Jim Bunning ran to 3B","1968PHI.EVN.regular.comment.csv",15
+"PHI196806300",45,"Jerry May struck by foul ball","1968PHI.EVN.regular.comment.csv",16
+"PHI196806300",66,"onto roof","1968PHI.EVN.regular.comment.csv",17
+"PHI196807060",38,"Ed Charles left with injured hand","1968PHI.EVN.regular.comment.csv",18
+"PHI196807072",72,"ej,hodgg101,M,burkk101,Balls and strikes $Mets manager Hodges ejected by HP umpire Burkhart for arguing when Burkhart changed call on inside pitch to Gonzalez from foul tip to ball","1968PHI.EVN.regular.comment.csv",19
+"PHI196807171",16,"$Tony Taylor struck on face by foul ball","1968PHI.EVN.regular.comment.csv",20
+"PHI196807171",67,"Debut game for Jerry Johnson","1968PHI.EVN.regular.comment.csv",21
+"PHI196807262",30,"onto roof","1968PHI.EVN.regular.comment.csv",22
+"PHI196807262",45,"$Milt Pappas struck on right shin; left with bruise","1968PHI.EVN.regular.comment.csv",23
+"PHI196807262",56,"onto roof","1968PHI.EVN.regular.comment.csv",24
+"PHI196808010",30,"off light tower","1968PHI.EVN.regular.comment.csv",25
+"PHI196808010",55,"Game called after 70 minute rain delay","1968PHI.EVN.regular.comment.csv",26
+"PHI196808220",27,"onto roof","1968PHI.EVN.regular.comment.csv",27
+"PHI196808300",15,"short passed ball","1968PHI.EVN.regular.comment.csv",28
+"PHI196808300",33,"Cookie Rojas injured left ankle on pick-off","1968PHI.EVN.regular.comment.csv",29
+"PHI196808300",36,"Chris Short dove for bunt and made tag but injured right ankle","1968PHI.EVN.regular.comment.csv",30
+"PHI196808300",47,"Jim Maloney left with blister","1968PHI.EVN.regular.comment.csv",31
+"PHI196808310",42,"Tony Cloninger left with sore elbow","1968PHI.EVN.regular.comment.csv",32
+"PHI196809010",73,"onto roof","1968PHI.EVN.regular.comment.csv",33
+"PHI196809021",38,"$John Purdin threw to Jim Lefebvre who was off the base","1968PHI.EVN.regular.comment.csv",34
+"PHI196809030",3,"Debut game for Bill Sudakis","1968PHI.EVN.regular.comment.csv",35
+"PHI196809030",45,"struck front of roof","1968PHI.EVN.regular.comment.csv",36
+"PHI196809030",61,"off light tower","1968PHI.EVN.regular.comment.csv",37
+"PHI196809030",63,"through light tower","1968PHI.EVN.regular.comment.csv",38
+"PHI196809131",0,"Debut for umpire Andy Olsen","1968PHI.EVN.regular.comment.csv",39
+"PHI196809131",57,"Debut game for Vic LaRose","1968PHI.EVN.regular.comment.csv",40
+"PHI196809150",13,"onto roof","1968PHI.EVN.regular.comment.csv",41
+"PHI196809160",29,"onto roof","1968PHI.EVN.regular.comment.csv",42
+"PHI196809180",65,"$Matty Alou beat the throw to 2B, saw 3B uncovered","1968PHI.EVN.regular.comment.csv",43
+"PHI196809210",14,"Debut game for Duffy Dyer","1968PHI.EVN.regular.comment.csv",44

@@ -1,26 +1,27 @@
-"BAL196304100",0,"Debut for umpire Lou DiMuro","FILENAME_TX","LINE_NUMBER_CT"
-"BAL196304190",74,"ej,tebbb101,M,hallb901,Fair/foul call $Max Alvis fielded the abll on the line and thought it was foul so he did not throw to 1B; Luis Aparicio also thought it foul and stopped running halfway to 1B; HP umpire Bill Haller ruled it a fair ball and Aparicio raced to 1B; Indians Manager Birdie Tebbetts ejected by Haller","1963BAL.EVA.regular.comment.csv",2
-"BAL196304250",13,"missing play in BAL196304250","1963BAL.EVA.regular.comment.csv",3
-"BAL196305120",60,"$Jackie Brandt dropped the ball when he hit fence","1963BAL.EVA.regular.comment.csv",4
-"BAL196305200",65,"ej,cashn101,P,honoj901,Called third strike Norm Cash ejected by HP umpire Jim Honochick","1963BAL.EVA.regular.comment.csv",5
-"BAL196305210",25,"ej,gentj101,P,runge901,Balls and strikes Jim Gentile ejected by HP umpire Ed Runge after returning to the field","1963BAL.EVA.regular.comment.csv",6
-"BAL196306050",0,"1:08 rain delay before start of game","1963BAL.EVA.regular.comment.csv",7
-"BAL196306050",47,"$Clete Boyer hurt shoulder trying for foul ball","1963BAL.EVA.regular.comment.csv",8
-"BAL196306050",48,"$Mickey Mantle ran into fence; suffered fractured third metatarsal bone in left foot","1963BAL.EVA.regular.comment.csv",9
-"BAL196306050",64,"ej,hitcb101,M,papaj901,Interference non-call $Tom Tresh knocked the ball out of Dick Brown's hand; Roger Maris scored; Orioles Manager Billy Hitchcock ejected by HP umpire Joe Paparella arguing Tresh should have been called for interference","1963BAL.EVA.regular.comment.csv",10
-"BAL196306060",25,"$Elston Howard dropped the pitch then threw out Jim Gentile","1963BAL.EVA.regular.comment.csv",11
-"BAL196306060",30,"$Jim Bouton struck on right jaw","1963BAL.EVA.regular.comment.csv",12
-"BAL196307010",60,"Debut game for Herman Starrette","1963BAL.EVA.regular.comment.csv",13
-"BAL196307030",64,"ej,deesc101,P,hurle901,Batter missing 1B $Angels Dees ejected by 1B umpire Hurley for arguing Johnson missed 1st base on his double","1963BAL.EVA.regular.comment.csv",14
-"BAL196308080",27,"$Russ Snyder struck on the arm by Larry Brown's relay throw","1963BAL.EVA.regular.comment.csv",15
-"BAL196308212",35,"$missed squeeze","1963BAL.EVA.regular.comment.csv",16
-"BAL196308220",46,"$Jackie Brandt fouled a ball off his left ankle","1963BAL.EVA.regular.comment.csv",17
-"BAL196308220",62,"ej,riced101,C,nappl901,Balls and strikes ej,rignb101,M,nappl901,Balls and strikes Angels Manager Bill Rigney and Coach Del Rice ejected by HP umpire Larry Napp","1963BAL.EVA.regular.comment.csv",18
-"BAL196308250",66,"$Jackie Brandt thought the ball would drop foul","1963BAL.EVA.regular.comment.csv",19
-"BAL196308270",33,"$Robin Roberts threw to 1B but Jim Gentile behind bag","1963BAL.EVA.regular.comment.csv",20
-"BAL196309061",26,"ej,hitcb101,M,stevj901,Fair/foul call Orioles Manager Billy Hitchcock ejected by 1B umpire Johnny Stevens","1963BAL.EVA.regular.comment.csv",21
-"BAL196309062",36,"$Roman Mejias fell down and caught the ball while lying on his back","1963BAL.EVA.regular.comment.csv",22
-"BAL196309070",60,"Debut game for Sam Bowens","1963BAL.EVA.regular.comment.csv",23
-"BAL196309222",28,"Sam Bowens left with leg cramp","1963BAL.EVA.regular.comment.csv",24
-"BAL196309250",55,"ej,fox-n101,P,salea901,Call at 1B ej,fishe102,P,salea901,Call at 1B $White Sox Fox and Fisher, neither in game, ejected by 1B umpire Salerno for arguing ruling that Weis had run out of baseline; in addition, Chicago bench cleared so that only manager Lopez remained, but these players were not ejected and were allowed to enter the game later","1963BAL.EVA.regular.comment.csv",25
-"BAL196309290",1,"Debut game for Wally Bunker","1963BAL.EVA.regular.comment.csv",26
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"BAL196304100",0,"Debut for umpire Lou DiMuro","1963BAL.EVA.regular.comment.csv",2
+"BAL196304190",74,"ej,tebbb101,M,hallb901,Fair/foul call $Max Alvis fielded the abll on the line and thought it was foul so he did not throw to 1B; Luis Aparicio also thought it foul and stopped running halfway to 1B; HP umpire Bill Haller ruled it a fair ball and Aparicio raced to 1B; Indians Manager Birdie Tebbetts ejected by Haller","1963BAL.EVA.regular.comment.csv",3
+"BAL196304250",13,"missing play in BAL196304250","1963BAL.EVA.regular.comment.csv",4
+"BAL196305120",60,"$Jackie Brandt dropped the ball when he hit fence","1963BAL.EVA.regular.comment.csv",5
+"BAL196305200",65,"ej,cashn101,P,honoj901,Called third strike Norm Cash ejected by HP umpire Jim Honochick","1963BAL.EVA.regular.comment.csv",6
+"BAL196305210",25,"ej,gentj101,P,runge901,Balls and strikes Jim Gentile ejected by HP umpire Ed Runge after returning to the field","1963BAL.EVA.regular.comment.csv",7
+"BAL196306050",0,"1:08 rain delay before start of game","1963BAL.EVA.regular.comment.csv",8
+"BAL196306050",47,"$Clete Boyer hurt shoulder trying for foul ball","1963BAL.EVA.regular.comment.csv",9
+"BAL196306050",48,"$Mickey Mantle ran into fence; suffered fractured third metatarsal bone in left foot","1963BAL.EVA.regular.comment.csv",10
+"BAL196306050",64,"ej,hitcb101,M,papaj901,Interference non-call $Tom Tresh knocked the ball out of Dick Brown's hand; Roger Maris scored; Orioles Manager Billy Hitchcock ejected by HP umpire Joe Paparella arguing Tresh should have been called for interference","1963BAL.EVA.regular.comment.csv",11
+"BAL196306060",25,"$Elston Howard dropped the pitch then threw out Jim Gentile","1963BAL.EVA.regular.comment.csv",12
+"BAL196306060",30,"$Jim Bouton struck on right jaw","1963BAL.EVA.regular.comment.csv",13
+"BAL196307010",60,"Debut game for Herman Starrette","1963BAL.EVA.regular.comment.csv",14
+"BAL196307030",64,"ej,deesc101,P,hurle901,Batter missing 1B $Angels Dees ejected by 1B umpire Hurley for arguing Johnson missed 1st base on his double","1963BAL.EVA.regular.comment.csv",15
+"BAL196308080",27,"$Russ Snyder struck on the arm by Larry Brown's relay throw","1963BAL.EVA.regular.comment.csv",16
+"BAL196308212",35,"$missed squeeze","1963BAL.EVA.regular.comment.csv",17
+"BAL196308220",46,"$Jackie Brandt fouled a ball off his left ankle","1963BAL.EVA.regular.comment.csv",18
+"BAL196308220",62,"ej,riced101,C,nappl901,Balls and strikes ej,rignb101,M,nappl901,Balls and strikes Angels Manager Bill Rigney and Coach Del Rice ejected by HP umpire Larry Napp","1963BAL.EVA.regular.comment.csv",19
+"BAL196308250",66,"$Jackie Brandt thought the ball would drop foul","1963BAL.EVA.regular.comment.csv",20
+"BAL196308270",33,"$Robin Roberts threw to 1B but Jim Gentile behind bag","1963BAL.EVA.regular.comment.csv",21
+"BAL196309061",26,"ej,hitcb101,M,stevj901,Fair/foul call Orioles Manager Billy Hitchcock ejected by 1B umpire Johnny Stevens","1963BAL.EVA.regular.comment.csv",22
+"BAL196309062",36,"$Roman Mejias fell down and caught the ball while lying on his back","1963BAL.EVA.regular.comment.csv",23
+"BAL196309070",60,"Debut game for Sam Bowens","1963BAL.EVA.regular.comment.csv",24
+"BAL196309222",28,"Sam Bowens left with leg cramp","1963BAL.EVA.regular.comment.csv",25
+"BAL196309250",55,"ej,fox-n101,P,salea901,Call at 1B ej,fishe102,P,salea901,Call at 1B $White Sox Fox and Fisher, neither in game, ejected by 1B umpire Salerno for arguing ruling that Weis had run out of baseline; in addition, Chicago bench cleared so that only manager Lopez remained, but these players were not ejected and were allowed to enter the game later","1963BAL.EVA.regular.comment.csv",26
+"BAL196309290",1,"Debut game for Wally Bunker","1963BAL.EVA.regular.comment.csv",27

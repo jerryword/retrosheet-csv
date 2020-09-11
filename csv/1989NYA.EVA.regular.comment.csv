@@ -1,37 +1,38 @@
-"NYA198904090",68,"25 minute rain delay","FILENAME_TX","LINE_NUMBER_CT"
-"NYA198904120",56,"$Rickey Henderson stole 2B on fake throw","1989NYA.EVA.regular.comment.csv",2
-"NYA198904160",0,"1:35 rain delay before start of game","1989NYA.EVA.regular.comment.csv",3
-"NYA198904290",14,"5 minute rain delay","1989NYA.EVA.regular.comment.csv",4
-"NYA198904290",71,"ej,bevit801,C,garcr901,Fighting $White Sox coach Bevington ejected by HP umpire Garcia at end of inning for fighting with Slaught since he did not that Slaught tried to bunt with a big lead","1989NYA.EVA.regular.comment.csv",5
-"NYA198905310",20,"Debut game for Deion Sanders","1989NYA.EVA.regular.comment.csv",6
-"NYA198906050",6,"$Tom Brookens and Jesse Barfield collided on easy fly","1989NYA.EVA.regular.comment.csv",7
-"NYA198906050",93,"$Rickey Henderson rounded 1B too far","1989NYA.EVA.regular.comment.csv",8
-"NYA198906080",5,"$Carlos Quintana hurt on Sax double","1989NYA.EVA.regular.comment.csv",9
-"NYA198906111",4,"ej,hebnr001,C,garcr901,Protesting fine on batter who threw bat $Red Sox coach Hebner ejected by 1B umpire Garcia for arguing fine against Greenwell who threw bat after being called out on strikes","1989NYA.EVA.regular.comment.csv",10
-"NYA198906161",1,"Debut game for Sammy Sosa","1989NYA.EVA.regular.comment.csv",11
-"NYA198906162",9,"43 minute rain delay","1989NYA.EVA.regular.comment.csv",12
-"NYA198906162",48,"after five pitches 1:34 rain delay","1989NYA.EVA.regular.comment.csv",13
-"NYA198906170",61,"ej,greed101,M,scotd901,Fair/foul call $Yankees manager Green ejected by 3B umpire Scott for arguing that long drive by Balboni was fair for homer","1989NYA.EVA.regular.comment.csv",14
-"NYA198906180",52,"ej,connb101,C,garcr901,Balk call Yankees coach Billy Connors ejected by 3B umpire Richie Garcia","1989NYA.EVA.regular.comment.csv",15
-"NYA198906300",72,"$Robin Yount came in to be a fifth infielder","1989NYA.EVA.regular.comment.csv",16
-"NYA198906300",73,"$Robin Yount moved back to outfield","1989NYA.EVA.regular.comment.csv",17
-"NYA198907010",1,"Debut game for Randy Veres","1989NYA.EVA.regular.comment.csv",18
-"NYA198907010",70,"$suicide squeeze attempt that was popped up; the Brewers got the third out at 1B as Mike Pagliarulo crossed HP;  the Brewers did not appeal the fact that Pagliarulo did not tag up at 3B before scoring and left the field; this would have been a 'fourth out' that the Brewers could have used to negate the run, which made no difference in the game's outcome","1989NYA.EVA.regular.comment.csv",19
-"NYA198907020",18,"$Bob Geren ran into Gus Polidor who was injured; Geren called for interference","1989NYA.EVA.regular.comment.csv",20
-"NYA198907020",40,"$Robin Yount's 2500th career hit","1989NYA.EVA.regular.comment.csv",21
-"NYA198907060",79,"ej,lemoc001,P,younl901,Balls and strikes Chet Lemon ejected by HP umpire Larry Young when the second pitch is called a strike","1989NYA.EVA.regular.comment.csv",22
-"NYA198907150",68,"Debut game for Bob Davidson","1989NYA.EVA.regular.comment.csv",23
-"NYA198907160",69,"Game called because of rain","1989NYA.EVA.regular.comment.csv",24
-"NYA198907280",15,"$Tom Brookens injured on foul ball","1989NYA.EVA.regular.comment.csv",25
-"NYA198907290",67,"$Mel Hall rounded 3B too far","1989NYA.EVA.regular.comment.csv",26
-"NYA198907310",13,"Debut game for Glenallen Hill","1989NYA.EVA.regular.comment.csv",27
-"NYA198908070",68,"ej,mattd001,P,morrd901,Checked swing Don Mattingly ejected by 3B umpire Dan Morrison","1989NYA.EVA.regular.comment.csv",28
-"NYA198908210",79,"ej,morgj101,M,fordd901,Balls and strikes $Red Sox manager Morgan ejected by HP umpire Ford for arguing balls and strikes while Barrett at bat","1989NYA.EVA.regular.comment.csv",29
-"NYA198908230",18,"Debut game for Hensley Meulens","1989NYA.EVA.regular.comment.csv",30
-"NYA198908280",17,"$Carney Lansford out trying to score on overthrow","1989NYA.EVA.regular.comment.csv",31
-"NYA198909010",24,"Debut game for Mike Fetters","1989NYA.EVA.regular.comment.csv",32
-"NYA198909010",73,"Debut game for Mike Blowers","1989NYA.EVA.regular.comment.csv",33
-"NYA198909020",58,"ej,kellb002,P,clara901,Balls and strikes Roberto Kelly ejected by HP umpire Al Clark","1989NYA.EVA.regular.comment.csv",34
-"NYA198909160",59,"Game called by rain","1989NYA.EVA.regular.comment.csv",35
-"NYA198909211",55,"ej,knudm001,P,fordd901,Intentional HBP ej,hallm001,P,fordd901,Fighting ej,polol001,P,fordd901,Fighting $Pitcher Knudson ejected by HP umpire Ford for intentionally hitting Polonia who charged mound and tried to kick pitcher but was wrestled to ground by pitcher and catcher O'Brien; both benches emptied into brawl; as Brewers manager Trebelhorn argued with Ford, Yankees Hall ran into them and was ejected by Ford","1989NYA.EVA.regular.comment.csv",36
-"NYA198909211",59,"ej,mmahk001,P,fordd901,Intentional HBP ej,dentb001,M,fordd901,Intentional HBP $Yankees Mmahat and manager Dent ejected by HP umpire Ford for intentionally hitting O'Brien","1989NYA.EVA.regular.comment.csv",37
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"NYA198904090",68,"25 minute rain delay","1989NYA.EVA.regular.comment.csv",2
+"NYA198904120",56,"$Rickey Henderson stole 2B on fake throw","1989NYA.EVA.regular.comment.csv",3
+"NYA198904160",0,"1:35 rain delay before start of game","1989NYA.EVA.regular.comment.csv",4
+"NYA198904290",14,"5 minute rain delay","1989NYA.EVA.regular.comment.csv",5
+"NYA198904290",71,"ej,bevit801,C,garcr901,Fighting $White Sox coach Bevington ejected by HP umpire Garcia at end of inning for fighting with Slaught since he did not that Slaught tried to bunt with a big lead","1989NYA.EVA.regular.comment.csv",6
+"NYA198905310",20,"Debut game for Deion Sanders","1989NYA.EVA.regular.comment.csv",7
+"NYA198906050",6,"$Tom Brookens and Jesse Barfield collided on easy fly","1989NYA.EVA.regular.comment.csv",8
+"NYA198906050",93,"$Rickey Henderson rounded 1B too far","1989NYA.EVA.regular.comment.csv",9
+"NYA198906080",5,"$Carlos Quintana hurt on Sax double","1989NYA.EVA.regular.comment.csv",10
+"NYA198906111",4,"ej,hebnr001,C,garcr901,Protesting fine on batter who threw bat $Red Sox coach Hebner ejected by 1B umpire Garcia for arguing fine against Greenwell who threw bat after being called out on strikes","1989NYA.EVA.regular.comment.csv",11
+"NYA198906161",1,"Debut game for Sammy Sosa","1989NYA.EVA.regular.comment.csv",12
+"NYA198906162",9,"43 minute rain delay","1989NYA.EVA.regular.comment.csv",13
+"NYA198906162",48,"after five pitches 1:34 rain delay","1989NYA.EVA.regular.comment.csv",14
+"NYA198906170",61,"ej,greed101,M,scotd901,Fair/foul call $Yankees manager Green ejected by 3B umpire Scott for arguing that long drive by Balboni was fair for homer","1989NYA.EVA.regular.comment.csv",15
+"NYA198906180",52,"ej,connb101,C,garcr901,Balk call Yankees coach Billy Connors ejected by 3B umpire Richie Garcia","1989NYA.EVA.regular.comment.csv",16
+"NYA198906300",72,"$Robin Yount came in to be a fifth infielder","1989NYA.EVA.regular.comment.csv",17
+"NYA198906300",73,"$Robin Yount moved back to outfield","1989NYA.EVA.regular.comment.csv",18
+"NYA198907010",1,"Debut game for Randy Veres","1989NYA.EVA.regular.comment.csv",19
+"NYA198907010",70,"$suicide squeeze attempt that was popped up; the Brewers got the third out at 1B as Mike Pagliarulo crossed HP;  the Brewers did not appeal the fact that Pagliarulo did not tag up at 3B before scoring and left the field; this would have been a 'fourth out' that the Brewers could have used to negate the run, which made no difference in the game's outcome","1989NYA.EVA.regular.comment.csv",20
+"NYA198907020",18,"$Bob Geren ran into Gus Polidor who was injured; Geren called for interference","1989NYA.EVA.regular.comment.csv",21
+"NYA198907020",40,"$Robin Yount's 2500th career hit","1989NYA.EVA.regular.comment.csv",22
+"NYA198907060",79,"ej,lemoc001,P,younl901,Balls and strikes Chet Lemon ejected by HP umpire Larry Young when the second pitch is called a strike","1989NYA.EVA.regular.comment.csv",23
+"NYA198907150",68,"Debut game for Bob Davidson","1989NYA.EVA.regular.comment.csv",24
+"NYA198907160",69,"Game called because of rain","1989NYA.EVA.regular.comment.csv",25
+"NYA198907280",15,"$Tom Brookens injured on foul ball","1989NYA.EVA.regular.comment.csv",26
+"NYA198907290",67,"$Mel Hall rounded 3B too far","1989NYA.EVA.regular.comment.csv",27
+"NYA198907310",13,"Debut game for Glenallen Hill","1989NYA.EVA.regular.comment.csv",28
+"NYA198908070",68,"ej,mattd001,P,morrd901,Checked swing Don Mattingly ejected by 3B umpire Dan Morrison","1989NYA.EVA.regular.comment.csv",29
+"NYA198908210",79,"ej,morgj101,M,fordd901,Balls and strikes $Red Sox manager Morgan ejected by HP umpire Ford for arguing balls and strikes while Barrett at bat","1989NYA.EVA.regular.comment.csv",30
+"NYA198908230",18,"Debut game for Hensley Meulens","1989NYA.EVA.regular.comment.csv",31
+"NYA198908280",17,"$Carney Lansford out trying to score on overthrow","1989NYA.EVA.regular.comment.csv",32
+"NYA198909010",24,"Debut game for Mike Fetters","1989NYA.EVA.regular.comment.csv",33
+"NYA198909010",73,"Debut game for Mike Blowers","1989NYA.EVA.regular.comment.csv",34
+"NYA198909020",58,"ej,kellb002,P,clara901,Balls and strikes Roberto Kelly ejected by HP umpire Al Clark","1989NYA.EVA.regular.comment.csv",35
+"NYA198909160",59,"Game called by rain","1989NYA.EVA.regular.comment.csv",36
+"NYA198909211",55,"ej,knudm001,P,fordd901,Intentional HBP ej,hallm001,P,fordd901,Fighting ej,polol001,P,fordd901,Fighting $Pitcher Knudson ejected by HP umpire Ford for intentionally hitting Polonia who charged mound and tried to kick pitcher but was wrestled to ground by pitcher and catcher O'Brien; both benches emptied into brawl; as Brewers manager Trebelhorn argued with Ford, Yankees Hall ran into them and was ejected by Ford","1989NYA.EVA.regular.comment.csv",37
+"NYA198909211",59,"ej,mmahk001,P,fordd901,Intentional HBP ej,dentb001,M,fordd901,Intentional HBP $Yankees Mmahat and manager Dent ejected by HP umpire Ford for intentionally hitting O'Brien","1989NYA.EVA.regular.comment.csv",38

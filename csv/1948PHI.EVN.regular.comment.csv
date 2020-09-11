@@ -1,23 +1,24 @@
-"PHI194804200",4,"$strike three got away from Andy Seminick; after Jim Russell was tagged out, Bert Haas saw that Bob Elliott had not run to 1B; Haas grabbed the ball and ran to 1B","FILENAME_TX","LINE_NUMBER_CT"
-"PHI194804220",40,"$ball deflected by shortstop","1948PHI.EVN.regular.comment.csv",2
-"PHI194804220",60,"DWS: pbp ends here, rest deduced","1948PHI.EVN.regular.comment.csv",3
-"PHI194805010",33,"missing fielding credit $Jackie Robinson rounded 2B too far","1948PHI.EVN.regular.comment.csv",4
-"PHI194805021",52,"missing fielding credit","1948PHI.EVN.regular.comment.csv",5
-"PHI194805021",56,"$Spider Jorgensen called for interference for running into his own bunt","1948PHI.EVN.regular.comment.csv",6
-"PHI194805150",13,"$Ennis rounded second too far and was tagged out","1948PHI.EVN.regular.comment.csv",7
-"PHI194805150",53,"DWS: pbp account ends here, rest deduced","1948PHI.EVN.regular.comment.csv",8
-"PHI194805150",54,"$The E6 could been for Verban, Blatnik or Sisler","1948PHI.EVN.regular.comment.csv",9
-"PHI194806210",40,"$onto the LF roof","1948PHI.EVN.regular.comment.csv",10
-"PHI194806210",67,"ej,chapb102,M,gorea901, Phillies Manager Ben Chapman ejected by HP umpire Artie Gore","1948PHI.EVN.regular.comment.csv",11
-"PHI194806220",58,"$Claude Corbitt left with an injured leg","1948PHI.EVN.regular.comment.csv",12
-"PHI194806260",14,"$Miller forced Ennis and turned left as he passed first, where he was tagged out to complete the DP","1948PHI.EVN.regular.comment.csv",13
-"PHI194806260",40,"DWS: pbp ends here, rest deduced","1948PHI.EVN.regular.comment.csv",14
-"PHI194806272",77,"$Game called for curfew","1948PHI.EVN.regular.comment.csv",15
-"PHI194807030",31,"$Emil Verban suffered an injured knee on Earl Torgeson's hard slide into 2B","1948PHI.EVN.regular.comment.csv",16
-"PHI194807041",0,"Debut for umpire Frank Dascoli","1948PHI.EVN.regular.comment.csv",17
-"PHI194807060",5,"ej,hermg101,P,jordl901,Fighting ej,semia101,P,jordl901,Fighting $Hermanski scored standing up and knocked down catcher Seminick who threw a punch and Hermanski retaliated; both benches cleared; Hermanski and Seminick ejected by HP umpire Jorda","1948PHI.EVN.regular.comment.csv",18
-"PHI194807070",24,"$Third out made at 3rd base before Mize could score","1948PHI.EVN.regular.comment.csv",19
-"PHI194807300",25,"$Blackwell left with recurrence of shoulder injury","1948PHI.EVN.regular.comment.csv",20
-"PHI194809062",65,"$game called due to darkness","1948PHI.EVN.regular.comment.csv",21
-"PHI194809250",29,"$Dutch Leonard left with pulled muscle in neck","1948PHI.EVN.regular.comment.csv",22
-"PHI194809250",60,"ej,reisp101,P,conlj102,Call at 3B (Pushed umpire) Pete Reiser ejected by HP umpire Jocko Conlan for pushing Conlan while arguing","1948PHI.EVN.regular.comment.csv",23
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"PHI194804200",4,"$strike three got away from Andy Seminick; after Jim Russell was tagged out, Bert Haas saw that Bob Elliott had not run to 1B; Haas grabbed the ball and ran to 1B","1948PHI.EVN.regular.comment.csv",2
+"PHI194804220",40,"$ball deflected by shortstop","1948PHI.EVN.regular.comment.csv",3
+"PHI194804220",60,"DWS: pbp ends here, rest deduced","1948PHI.EVN.regular.comment.csv",4
+"PHI194805010",33,"missing fielding credit $Jackie Robinson rounded 2B too far","1948PHI.EVN.regular.comment.csv",5
+"PHI194805021",52,"missing fielding credit","1948PHI.EVN.regular.comment.csv",6
+"PHI194805021",56,"$Spider Jorgensen called for interference for running into his own bunt","1948PHI.EVN.regular.comment.csv",7
+"PHI194805150",13,"$Ennis rounded second too far and was tagged out","1948PHI.EVN.regular.comment.csv",8
+"PHI194805150",53,"DWS: pbp account ends here, rest deduced","1948PHI.EVN.regular.comment.csv",9
+"PHI194805150",54,"$The E6 could been for Verban, Blatnik or Sisler","1948PHI.EVN.regular.comment.csv",10
+"PHI194806210",40,"$onto the LF roof","1948PHI.EVN.regular.comment.csv",11
+"PHI194806210",67,"ej,chapb102,M,gorea901, Phillies Manager Ben Chapman ejected by HP umpire Artie Gore","1948PHI.EVN.regular.comment.csv",12
+"PHI194806220",58,"$Claude Corbitt left with an injured leg","1948PHI.EVN.regular.comment.csv",13
+"PHI194806260",14,"$Miller forced Ennis and turned left as he passed first, where he was tagged out to complete the DP","1948PHI.EVN.regular.comment.csv",14
+"PHI194806260",40,"DWS: pbp ends here, rest deduced","1948PHI.EVN.regular.comment.csv",15
+"PHI194806272",77,"$Game called for curfew","1948PHI.EVN.regular.comment.csv",16
+"PHI194807030",31,"$Emil Verban suffered an injured knee on Earl Torgeson's hard slide into 2B","1948PHI.EVN.regular.comment.csv",17
+"PHI194807041",0,"Debut for umpire Frank Dascoli","1948PHI.EVN.regular.comment.csv",18
+"PHI194807060",5,"ej,hermg101,P,jordl901,Fighting ej,semia101,P,jordl901,Fighting $Hermanski scored standing up and knocked down catcher Seminick who threw a punch and Hermanski retaliated; both benches cleared; Hermanski and Seminick ejected by HP umpire Jorda","1948PHI.EVN.regular.comment.csv",19
+"PHI194807070",24,"$Third out made at 3rd base before Mize could score","1948PHI.EVN.regular.comment.csv",20
+"PHI194807300",25,"$Blackwell left with recurrence of shoulder injury","1948PHI.EVN.regular.comment.csv",21
+"PHI194809062",65,"$game called due to darkness","1948PHI.EVN.regular.comment.csv",22
+"PHI194809250",29,"$Dutch Leonard left with pulled muscle in neck","1948PHI.EVN.regular.comment.csv",23
+"PHI194809250",60,"ej,reisp101,P,conlj102,Call at 3B (Pushed umpire) Pete Reiser ejected by HP umpire Jocko Conlan for pushing Conlan while arguing","1948PHI.EVN.regular.comment.csv",24

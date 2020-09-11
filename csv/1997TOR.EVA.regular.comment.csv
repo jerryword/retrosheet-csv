@@ -1,13 +1,14 @@
-"TOR199704020",67,"Debut game for Carlos Castillo","FILENAME_TX","LINE_NUMBER_CT"
-"TOR199704260",50,"Debut game for Derek Lowe","1997TOR.EVA.regular.comment.csv",2
-"TOR199705160",19,"umpchange,3,umphome,hendt901 umpchange,3,ump2b,(None) $HP umpire Brian O'Nora left the game with the flu; 2B umpire Ted Hendry moved to HP","1997TOR.EVA.regular.comment.csv",3
-"TOR199705240",19,"IPHR","1997TOR.EVA.regular.comment.csv",4
-"TOR199706050",1,"Debut game for Jason McDonald","1997TOR.EVA.regular.comment.csv",5
-"TOR199706100",70,"ej,charn001,P,brinj901,Intentional HBP Norm Charlton ejected by HP umpire Joe Brinkman","1997TOR.EVA.regular.comment.csv",6
-"TOR199706160",66,"ej,sprae001,P,koscg901,Called third strike $Sprague ejected by HP umpire Kosc for arguing called third strike","1997TOR.EVA.regular.comment.csv",7
-"TOR199707060",49,"ej,oneip001,P,clara901,Balls and strikes Paul O'Neill ejected by HP umpire Al Clark","1997TOR.EVA.regular.comment.csv",8
-"TOR199708110",48,"Debut game for Eddie Gaillard","1997TOR.EVA.regular.comment.csv",9
-"TOR199709040",72,"Debut game for Carlos Almanzar","1997TOR.EVA.regular.comment.csv",10
-"TOR199709060",13,"Debut game for Rich Butler","1997TOR.EVA.regular.comment.csv",11
-"TOR199709060",70,"ej,leyrj001,P,joycj901,Called third strike (after game over) Jim Leyritz ejected by HP umpire Jim Joyce","1997TOR.EVA.regular.comment.csv",12
-"TOR199709230",52,"ej,johnd105,M,meric901,Protesting non-warning $Orioles manager Johnson ejected by HP Meriwether for arguing warning should have been issued to Clemens after two high and inside pitches to Alomar","1997TOR.EVA.regular.comment.csv",13
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"TOR199704020",67,"Debut game for Carlos Castillo","1997TOR.EVA.regular.comment.csv",2
+"TOR199704260",50,"Debut game for Derek Lowe","1997TOR.EVA.regular.comment.csv",3
+"TOR199705160",19,"umpchange,3,umphome,hendt901 umpchange,3,ump2b,(None) $HP umpire Brian O'Nora left the game with the flu; 2B umpire Ted Hendry moved to HP","1997TOR.EVA.regular.comment.csv",4
+"TOR199705240",19,"IPHR","1997TOR.EVA.regular.comment.csv",5
+"TOR199706050",1,"Debut game for Jason McDonald","1997TOR.EVA.regular.comment.csv",6
+"TOR199706100",70,"ej,charn001,P,brinj901,Intentional HBP Norm Charlton ejected by HP umpire Joe Brinkman","1997TOR.EVA.regular.comment.csv",7
+"TOR199706160",66,"ej,sprae001,P,koscg901,Called third strike $Sprague ejected by HP umpire Kosc for arguing called third strike","1997TOR.EVA.regular.comment.csv",8
+"TOR199707060",49,"ej,oneip001,P,clara901,Balls and strikes Paul O'Neill ejected by HP umpire Al Clark","1997TOR.EVA.regular.comment.csv",9
+"TOR199708110",48,"Debut game for Eddie Gaillard","1997TOR.EVA.regular.comment.csv",10
+"TOR199709040",72,"Debut game for Carlos Almanzar","1997TOR.EVA.regular.comment.csv",11
+"TOR199709060",13,"Debut game for Rich Butler","1997TOR.EVA.regular.comment.csv",12
+"TOR199709060",70,"ej,leyrj001,P,joycj901,Called third strike (after game over) Jim Leyritz ejected by HP umpire Jim Joyce","1997TOR.EVA.regular.comment.csv",13
+"TOR199709230",52,"ej,johnd105,M,meric901,Protesting non-warning $Orioles manager Johnson ejected by HP Meriwether for arguing warning should have been issued to Clemens after two high and inside pitches to Alomar","1997TOR.EVA.regular.comment.csv",14

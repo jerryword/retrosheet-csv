@@ -1,26 +1,27 @@
-"FLO199504250",0,"Debut for umpires Mark Widlowski and Frank Sylvester; the season started with replacement umpires because the staff arbiters were on strike","FILENAME_TX","LINE_NUMBER_CT"
-"FLO199504250",6,"Debut game for Quilvio Veras","1995FLO.EVN.regular.comment.csv",2
-"FLO199504250",52,"Debut game for Todd Hollandsworth","1995FLO.EVN.regular.comment.csv",3
-"FLO199504250",55,"Debut game for Matt Dunbar","1995FLO.EVN.regular.comment.csv",4
-"FLO199504250",62,"Debut game for Antonio Osuna","1995FLO.EVN.regular.comment.csv",5
-"FLO199504250",76,"Debut game for Mike Myers","1995FLO.EVN.regular.comment.csv",6
-"FLO199505020",0,"Debut for umpire Jim Lambeth","1995FLO.EVN.regular.comment.csv",7
-"FLO199505040",0,"Suspend=19950907,,3,4,48","1995FLO.EVN.regular.comment.csv",8
-"FLO199505040",73,"suspended,19950907,MIA01,rain Game suspended at this point - rain - completed 9-07 umpchange,9,umphome,kellj901 umpchange,9,ump1b,riekr901 umpchange,9,ump2b,wendh901 umpchange,9,ump3b,marsr901","1995FLO.EVN.regular.comment.csv",9
-"FLO199505150",21,"ej,shefg001,P,hohnb901,Called third strike $Sheffield ejected by HP umpire Hohn for arguing called third strike","1995FLO.EVN.regular.comment.csv",10
-"FLO199505150",64,"ej,dyksl001,P,hohnb901,Balls and strikes $Dykstra ejected by HP umpire Hohn for arguing balls and strikes after called strike two","1995FLO.EVN.regular.comment.csv",11
-"FLO199505160",98,"ej,lachr101,M,davib902,Failure to control player ej,pendt001,P,hohnb901,Call at 3B (bumped umpire) $Terry Pendleton argued with 3B umpire Bill Hohn when Hohn ruled Kevin Stocker slid under Pendleton's tag; during the argument, Pendleton bumped and was ejected by Hohn; Pendleton was suspended four games by the league; Marlins manager Rene Lacheman was ejected by acting crew chief Bob Davidson because the manager failed to restrain Pendleton","1995FLO.EVN.regular.comment.csv",12
-"FLO199505170",30,"$Darren Daulton called for interference","1995FLO.EVN.regular.comment.csv",13
-"FLO199506020",5,"IPHR","1995FLO.EVN.regular.comment.csv",14
-"FLO199507240",1,"Debut game for Jamie Brewington","1995FLO.EVN.regular.comment.csv",15
-"FLO199507280",65,"Debut game for T.J. Mathews","1995FLO.EVN.regular.comment.csv",16
-"FLO199508090",6,"ej,rojac101,C,grege901,Balls and strikes Marlins coach Cookie Rojas ejected by HP umpire Eric Gregg arguing that the swinging third strike to Jeff Conine had hit the ground before being caught","1995FLO.EVN.regular.comment.csv",17
-"FLO199508120",16,"IPHR","1995FLO.EVN.regular.comment.csv",18
-"FLO199508280",1,"Debut game for Marc Valdes","1995FLO.EVN.regular.comment.csv",19
-"FLO199508280",30,"umpchange,3,umphome,relic901 umpchange,3,ump2b,(None) $HP umpire Wendelstedt left when hit on hand by foul; 2B umpire Reliford went behind plate and game finished with 3 umpires","1995FLO.EVN.regular.comment.csv",20
-"FLO199509100",20,"Debut game for Ed Giovanola","1995FLO.EVN.regular.comment.csv",21
-"FLO199509100",38,"Debut game for Jay Powell","1995FLO.EVN.regular.comment.csv",22
-"FLO199509100",55,"Debut game for Darrell May","1995FLO.EVN.regular.comment.csv",23
-"FLO199509100",96,"Debut game for Eddie Perez","1995FLO.EVN.regular.comment.csv",24
-"FLO199509220",62,"game called for rain","1995FLO.EVN.regular.comment.csv",25
-"FLO199509240",50,"ej,hundt001,P,tatat901,Call at 1B Todd Hundley ejected by 1B umpire Terry Tata","1995FLO.EVN.regular.comment.csv",26
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"FLO199504250",0,"Debut for umpires Mark Widlowski and Frank Sylvester; the season started with replacement umpires because the staff arbiters were on strike","1995FLO.EVN.regular.comment.csv",2
+"FLO199504250",6,"Debut game for Quilvio Veras","1995FLO.EVN.regular.comment.csv",3
+"FLO199504250",52,"Debut game for Todd Hollandsworth","1995FLO.EVN.regular.comment.csv",4
+"FLO199504250",55,"Debut game for Matt Dunbar","1995FLO.EVN.regular.comment.csv",5
+"FLO199504250",62,"Debut game for Antonio Osuna","1995FLO.EVN.regular.comment.csv",6
+"FLO199504250",76,"Debut game for Mike Myers","1995FLO.EVN.regular.comment.csv",7
+"FLO199505020",0,"Debut for umpire Jim Lambeth","1995FLO.EVN.regular.comment.csv",8
+"FLO199505040",0,"Suspend=19950907,,3,4,48","1995FLO.EVN.regular.comment.csv",9
+"FLO199505040",73,"suspended,19950907,MIA01,rain Game suspended at this point - rain - completed 9-07 umpchange,9,umphome,kellj901 umpchange,9,ump1b,riekr901 umpchange,9,ump2b,wendh901 umpchange,9,ump3b,marsr901","1995FLO.EVN.regular.comment.csv",10
+"FLO199505150",21,"ej,shefg001,P,hohnb901,Called third strike $Sheffield ejected by HP umpire Hohn for arguing called third strike","1995FLO.EVN.regular.comment.csv",11
+"FLO199505150",64,"ej,dyksl001,P,hohnb901,Balls and strikes $Dykstra ejected by HP umpire Hohn for arguing balls and strikes after called strike two","1995FLO.EVN.regular.comment.csv",12
+"FLO199505160",98,"ej,lachr101,M,davib902,Failure to control player ej,pendt001,P,hohnb901,Call at 3B (bumped umpire) $Terry Pendleton argued with 3B umpire Bill Hohn when Hohn ruled Kevin Stocker slid under Pendleton's tag; during the argument, Pendleton bumped and was ejected by Hohn; Pendleton was suspended four games by the league; Marlins manager Rene Lacheman was ejected by acting crew chief Bob Davidson because the manager failed to restrain Pendleton","1995FLO.EVN.regular.comment.csv",13
+"FLO199505170",30,"$Darren Daulton called for interference","1995FLO.EVN.regular.comment.csv",14
+"FLO199506020",5,"IPHR","1995FLO.EVN.regular.comment.csv",15
+"FLO199507240",1,"Debut game for Jamie Brewington","1995FLO.EVN.regular.comment.csv",16
+"FLO199507280",65,"Debut game for T.J. Mathews","1995FLO.EVN.regular.comment.csv",17
+"FLO199508090",6,"ej,rojac101,C,grege901,Balls and strikes Marlins coach Cookie Rojas ejected by HP umpire Eric Gregg arguing that the swinging third strike to Jeff Conine had hit the ground before being caught","1995FLO.EVN.regular.comment.csv",18
+"FLO199508120",16,"IPHR","1995FLO.EVN.regular.comment.csv",19
+"FLO199508280",1,"Debut game for Marc Valdes","1995FLO.EVN.regular.comment.csv",20
+"FLO199508280",30,"umpchange,3,umphome,relic901 umpchange,3,ump2b,(None) $HP umpire Wendelstedt left when hit on hand by foul; 2B umpire Reliford went behind plate and game finished with 3 umpires","1995FLO.EVN.regular.comment.csv",21
+"FLO199509100",20,"Debut game for Ed Giovanola","1995FLO.EVN.regular.comment.csv",22
+"FLO199509100",38,"Debut game for Jay Powell","1995FLO.EVN.regular.comment.csv",23
+"FLO199509100",55,"Debut game for Darrell May","1995FLO.EVN.regular.comment.csv",24
+"FLO199509100",96,"Debut game for Eddie Perez","1995FLO.EVN.regular.comment.csv",25
+"FLO199509220",62,"game called for rain","1995FLO.EVN.regular.comment.csv",26
+"FLO199509240",50,"ej,hundt001,P,tatat901,Call at 1B Todd Hundley ejected by 1B umpire Terry Tata","1995FLO.EVN.regular.comment.csv",27

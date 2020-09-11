@@ -1,29 +1,30 @@
-"NYA200304100",38,"Rick Reed left with injured groin","FILENAME_TX","LINE_NUMBER_CT"
-"NYA200304130",21,"Devil Rays Travis Lee left the game with injured chest","2003NYA.EVA.regular.comment.csv",2
-"NYA200304170",71,"Debut game for Reed Johnson","2003NYA.EVA.regular.comment.csv",3
-"NYA200305020",0,"1:18 delay during game","2003NYA.EVA.regular.comment.csv",4
-"NYA200305140",77,"Johnson discovered stress fracture in right hand on 5-16, out 4-6 weeks","2003NYA.EVA.regular.comment.csv",5
-"NYA200305230",0,"$26 minute rain delay at start of game","2003NYA.EVA.regular.comment.csv",6
-"NYA200305230",73,"ej,posaj001,P,culbf901,Interference call $Posada ejected by 2B umpire Culbreth for arguing interference call; Posada raised both arms and shoved SS Bordick while trying to break up double play; Posada had been HBP for the third time in two days","2003NYA.EVA.regular.comment.csv",7
-"NYA200305260",0,"1:42 rain delay before start of game","2003NYA.EVA.regular.comment.csv",8
-"NYA200305260",36,"$infield shift on for Giambi","2003NYA.EVA.regular.comment.csv",9
-"NYA200305270",46,"originally scored E7. changed on 6-02","2003NYA.EVA.regular.comment.csv",10
-"NYA200305270",64,"Debut game for Matt White","2003NYA.EVA.regular.comment.csv",11
-"NYA200306110",0,"$no-hitter by six Houston pitchers; the first against the Yankees since 9/20/1958; the most pitchers for a no-hitter (previous record was 4","2003NYA.EVA.regular.comment.csv",12
-"NYA200306110",14,"Astros Roy Oswalt left the game due to an injured groin","2003NYA.EVA.regular.comment.csv",13
-"NYA200306130",0,"$Win #300 for Roger Clemens on his 4th try","2003NYA.EVA.regular.comment.csv",14
-"NYA200306130",11,"$Strikeout #4000 for Roger Clemens, the 3rd to reach that milestone (Nolan Ryan and Steve Carlton)","2003NYA.EVA.regular.comment.csv",15
-"NYA200306140",0,"1:27 delay during game","2003NYA.EVA.regular.comment.csv",16
-"NYA200306171",31,"ej,bosic001,C,marqa901,Balls and strikes Devil Rays Coach Chris Bosio ejected by HP ump Alfonso Marquez","2003NYA.EVA.regular.comment.csv",17
-"NYA200306290",24,"ej,howea001,M,timmt901,Call at 3B Mets Manager Art Howe ejected by 3B umpire Tim Timmons","2003NYA.EVA.regular.comment.csv",18
-"NYA200307180",0,"1:01 delay during game","2003NYA.EVA.regular.comment.csv",19
-"NYA200307210",68,"Game called for rain after 30 minute delay","2003NYA.EVA.regular.comment.csv",20
-"NYA200308070",10,"Sadler hurt finger attemepting to bunt","2003NYA.EVA.regular.comment.csv",21
-"NYA200309050",69,"Debut game for Jorge De Paula","2003NYA.EVA.regular.comment.csv",22
-"NYA200309060",70,"Debut game for Michel Hernandez","2003NYA.EVA.regular.comment.csv",23
-"NYA200309080",70,"Debut game for Vinny Chulk","2003NYA.EVA.regular.comment.csv",24
-"NYA200309110",34,"originally scored CS2(2E6), changed next day","2003NYA.EVA.regular.comment.csv",25
-"NYA200309110",36,"This run became earned when the CS became SB","2003NYA.EVA.regular.comment.csv",26
-"NYA200309120",8,"Debut game for Jonny Gomes","2003NYA.EVA.regular.comment.csv",27
-"NYA200309131",57,"$multiple homers on his 35th birthday","2003NYA.EVA.regular.comment.csv",28
-"NYA200309132",0,"11 minute delay during game","2003NYA.EVA.regular.comment.csv",29
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"NYA200304100",38,"Rick Reed left with injured groin","2003NYA.EVA.regular.comment.csv",2
+"NYA200304130",21,"Devil Rays Travis Lee left the game with injured chest","2003NYA.EVA.regular.comment.csv",3
+"NYA200304170",71,"Debut game for Reed Johnson","2003NYA.EVA.regular.comment.csv",4
+"NYA200305020",0,"1:18 delay during game","2003NYA.EVA.regular.comment.csv",5
+"NYA200305140",77,"Johnson discovered stress fracture in right hand on 5-16, out 4-6 weeks","2003NYA.EVA.regular.comment.csv",6
+"NYA200305230",0,"$26 minute rain delay at start of game","2003NYA.EVA.regular.comment.csv",7
+"NYA200305230",73,"ej,posaj001,P,culbf901,Interference call $Posada ejected by 2B umpire Culbreth for arguing interference call; Posada raised both arms and shoved SS Bordick while trying to break up double play; Posada had been HBP for the third time in two days","2003NYA.EVA.regular.comment.csv",8
+"NYA200305260",0,"1:42 rain delay before start of game","2003NYA.EVA.regular.comment.csv",9
+"NYA200305260",36,"$infield shift on for Giambi","2003NYA.EVA.regular.comment.csv",10
+"NYA200305270",46,"originally scored E7. changed on 6-02","2003NYA.EVA.regular.comment.csv",11
+"NYA200305270",64,"Debut game for Matt White","2003NYA.EVA.regular.comment.csv",12
+"NYA200306110",0,"$no-hitter by six Houston pitchers; the first against the Yankees since 9/20/1958; the most pitchers for a no-hitter (previous record was 4","2003NYA.EVA.regular.comment.csv",13
+"NYA200306110",14,"Astros Roy Oswalt left the game due to an injured groin","2003NYA.EVA.regular.comment.csv",14
+"NYA200306130",0,"$Win #300 for Roger Clemens on his 4th try","2003NYA.EVA.regular.comment.csv",15
+"NYA200306130",11,"$Strikeout #4000 for Roger Clemens, the 3rd to reach that milestone (Nolan Ryan and Steve Carlton)","2003NYA.EVA.regular.comment.csv",16
+"NYA200306140",0,"1:27 delay during game","2003NYA.EVA.regular.comment.csv",17
+"NYA200306171",31,"ej,bosic001,C,marqa901,Balls and strikes Devil Rays Coach Chris Bosio ejected by HP ump Alfonso Marquez","2003NYA.EVA.regular.comment.csv",18
+"NYA200306290",24,"ej,howea001,M,timmt901,Call at 3B Mets Manager Art Howe ejected by 3B umpire Tim Timmons","2003NYA.EVA.regular.comment.csv",19
+"NYA200307180",0,"1:01 delay during game","2003NYA.EVA.regular.comment.csv",20
+"NYA200307210",68,"Game called for rain after 30 minute delay","2003NYA.EVA.regular.comment.csv",21
+"NYA200308070",10,"Sadler hurt finger attemepting to bunt","2003NYA.EVA.regular.comment.csv",22
+"NYA200309050",69,"Debut game for Jorge De Paula","2003NYA.EVA.regular.comment.csv",23
+"NYA200309060",70,"Debut game for Michel Hernandez","2003NYA.EVA.regular.comment.csv",24
+"NYA200309080",70,"Debut game for Vinny Chulk","2003NYA.EVA.regular.comment.csv",25
+"NYA200309110",34,"originally scored CS2(2E6), changed next day","2003NYA.EVA.regular.comment.csv",26
+"NYA200309110",36,"This run became earned when the CS became SB","2003NYA.EVA.regular.comment.csv",27
+"NYA200309120",8,"Debut game for Jonny Gomes","2003NYA.EVA.regular.comment.csv",28
+"NYA200309131",57,"$multiple homers on his 35th birthday","2003NYA.EVA.regular.comment.csv",29
+"NYA200309132",0,"11 minute delay during game","2003NYA.EVA.regular.comment.csv",30

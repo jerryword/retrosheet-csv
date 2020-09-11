@@ -1,35 +1,36 @@
-"SLA193104150",12,"$the throw hit 3B umpire Harry Geisel standing behind the mound","FILENAME_TX","LINE_NUMBER_CT"
-"SLA193104150",57,"$Charlie Gehringer rounded 2B too far","1931SLA.EVA.regular.comment.csv",2
-"SLA193104160",20,"$Goose Goslin struck on right wrist by foul ball","1931SLA.EVA.regular.comment.csv",3
-"SLA193104190",16,"$70 minute rain delay","1931SLA.EVA.regular.comment.csv",4
-"SLA193105050",43,"$Jim Levey called for interference for running into his own batted ball","1931SLA.EVA.regular.comment.csv",5
-"SLA193105050",74,"ej,grays102,P,nalld901,Bench jockeying Sam Gray ejected by HP umpire Dick Nallin","1931SLA.EVA.regular.comment.csv",6
-"SLA193105090",57,"ej,austj101,C,geish901,HBP non-call $Browns coach Austin ejected by HP umpire Geisel for arguing that Kress had been hit by pitch","1931SLA.EVA.regular.comment.csv",7
-"SLA193105090",65,"$Schulte left with twisted ankle","1931SLA.EVA.regular.comment.csv",8
-"SLA193105150",44,"$Goose Goslin lost track of outs and left 2B","1931SLA.EVA.regular.comment.csv",9
-"SLA193105150",66,"$Dave Harris rounded 1B too and was hung up when Sam West stopped at 3B; West scored during Harris rundown","1931SLA.EVA.regular.comment.csv",10
-"SLA193105241",26,"$2bman fielded ball near 2nd and tagged runner; no advances","1931SLA.EVA.regular.comment.csv",11
-"SLA193106190",92,"Bottom of ninth deduced","1931SLA.EVA.regular.comment.csv",12
-"SLA193106200",26,"$Ball got away from Burns, so intervening misplay means no DP","1931SLA.EVA.regular.comment.csv",13
-"SLA193106211",12,"Missing assist","1931SLA.EVA.regular.comment.csv",14
-"SLA193106260",70,"$Rip Collins left with heat exhaustion","1931SLA.EVA.regular.comment.csv",15
-"SLA193106281",74,"$Ball hit umpire","1931SLA.EVA.regular.comment.csv",16
-"SLA193106282",39,"$Hebert rounded 2nd too far","1931SLA.EVA.regular.comment.csv",17
-"SLA193106290",24,"$Lefty Stewart struck on pitching hand by ball","1931SLA.EVA.regular.comment.csv",18
-"SLA193106300",68,"Reconstructed visitors' ninth","1931SLA.EVA.regular.comment.csv",19
-"SLA193107010",60,"$game called after 90 minute rain delay","1931SLA.EVA.regular.comment.csv",20
-"SLA193107052",87,"ej,bushd102,M,morig101,Arguing balls and strikes $White Sox manager Bush ejected by HP umpire Moriarty for arguing balls and strikes","1931SLA.EVA.regular.comment.csv",21
-"SLA193107060",69,"home ninth reconstructed","1931SLA.EVA.regular.comment.csv",22
-"SLA193108010",0,"Debut for umpire Pat Monahan","1931SLA.EVA.regular.comment.csv",23
-"SLA193108010",71,"ej,bengb101,P,owenb901,Balls and strikes ej,killb101,M,owenb901,Balls and strikes Benny Bengough and Browns Manager Bill Killefer ejected by HP umpire Brick Owens","1931SLA.EVA.regular.comment.csv",24
-"SLA193108022",45,"$Ski Melillo had been spiked on Willie Kamm's bunt single","1931SLA.EVA.regular.comment.csv",25
-"SLA193108150",33,"$Joe Cronin waited until Ski Melillo started walking back to the infield to start his dash to HP","1931SLA.EVA.regular.comment.csv",26
-"SLA193108150",97,"pbp account ends here, rest reconstructed","1931SLA.EVA.regular.comment.csv",27
-"SLA193108190",58,"$Pipgras injured finger on the play and left game","1931SLA.EVA.regular.comment.csv",28
-"SLA193108210",70,"ej,ruthb101,P,vangr901,Home run call $Ruth ejected by Vangraflan for arguing there was fan interference on Kress' home run","1931SLA.EVA.regular.comment.csv",29
-"SLA193108220",104,"Remainder of game deduced","1931SLA.EVA.regular.comment.csv",30
-"SLA193108231",21,"misplayed by Simmons' sub","1931SLA.EVA.regular.comment.csv",31
-"SLA193108310",23,"previous two plays really one play","1931SLA.EVA.regular.comment.csv",32
-"SLA193109062",58,"$Rollie Stiles left with injured arm","1931SLA.EVA.regular.comment.csv",33
-"SLA193109261",73,"ej,bluel101,P,guthb901,Called third strike Le Blue ejected by HP umpire Bill Guthrie","1931SLA.EVA.regular.comment.csv",34
-"SLA193109262",81,"Game called for darkness","1931SLA.EVA.regular.comment.csv",35
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"SLA193104150",12,"$the throw hit 3B umpire Harry Geisel standing behind the mound","1931SLA.EVA.regular.comment.csv",2
+"SLA193104150",57,"$Charlie Gehringer rounded 2B too far","1931SLA.EVA.regular.comment.csv",3
+"SLA193104160",20,"$Goose Goslin struck on right wrist by foul ball","1931SLA.EVA.regular.comment.csv",4
+"SLA193104190",16,"$70 minute rain delay","1931SLA.EVA.regular.comment.csv",5
+"SLA193105050",43,"$Jim Levey called for interference for running into his own batted ball","1931SLA.EVA.regular.comment.csv",6
+"SLA193105050",74,"ej,grays102,P,nalld901,Bench jockeying Sam Gray ejected by HP umpire Dick Nallin","1931SLA.EVA.regular.comment.csv",7
+"SLA193105090",57,"ej,austj101,C,geish901,HBP non-call $Browns coach Austin ejected by HP umpire Geisel for arguing that Kress had been hit by pitch","1931SLA.EVA.regular.comment.csv",8
+"SLA193105090",65,"$Schulte left with twisted ankle","1931SLA.EVA.regular.comment.csv",9
+"SLA193105150",44,"$Goose Goslin lost track of outs and left 2B","1931SLA.EVA.regular.comment.csv",10
+"SLA193105150",66,"$Dave Harris rounded 1B too and was hung up when Sam West stopped at 3B; West scored during Harris rundown","1931SLA.EVA.regular.comment.csv",11
+"SLA193105241",26,"$2bman fielded ball near 2nd and tagged runner; no advances","1931SLA.EVA.regular.comment.csv",12
+"SLA193106190",92,"Bottom of ninth deduced","1931SLA.EVA.regular.comment.csv",13
+"SLA193106200",26,"$Ball got away from Burns, so intervening misplay means no DP","1931SLA.EVA.regular.comment.csv",14
+"SLA193106211",12,"Missing assist","1931SLA.EVA.regular.comment.csv",15
+"SLA193106260",70,"$Rip Collins left with heat exhaustion","1931SLA.EVA.regular.comment.csv",16
+"SLA193106281",74,"$Ball hit umpire","1931SLA.EVA.regular.comment.csv",17
+"SLA193106282",39,"$Hebert rounded 2nd too far","1931SLA.EVA.regular.comment.csv",18
+"SLA193106290",24,"$Lefty Stewart struck on pitching hand by ball","1931SLA.EVA.regular.comment.csv",19
+"SLA193106300",68,"Reconstructed visitors' ninth","1931SLA.EVA.regular.comment.csv",20
+"SLA193107010",60,"$game called after 90 minute rain delay","1931SLA.EVA.regular.comment.csv",21
+"SLA193107052",87,"ej,bushd102,M,morig101,Arguing balls and strikes $White Sox manager Bush ejected by HP umpire Moriarty for arguing balls and strikes","1931SLA.EVA.regular.comment.csv",22
+"SLA193107060",69,"home ninth reconstructed","1931SLA.EVA.regular.comment.csv",23
+"SLA193108010",0,"Debut for umpire Pat Monahan","1931SLA.EVA.regular.comment.csv",24
+"SLA193108010",71,"ej,bengb101,P,owenb901,Balls and strikes ej,killb101,M,owenb901,Balls and strikes Benny Bengough and Browns Manager Bill Killefer ejected by HP umpire Brick Owens","1931SLA.EVA.regular.comment.csv",25
+"SLA193108022",45,"$Ski Melillo had been spiked on Willie Kamm's bunt single","1931SLA.EVA.regular.comment.csv",26
+"SLA193108150",33,"$Joe Cronin waited until Ski Melillo started walking back to the infield to start his dash to HP","1931SLA.EVA.regular.comment.csv",27
+"SLA193108150",97,"pbp account ends here, rest reconstructed","1931SLA.EVA.regular.comment.csv",28
+"SLA193108190",58,"$Pipgras injured finger on the play and left game","1931SLA.EVA.regular.comment.csv",29
+"SLA193108210",70,"ej,ruthb101,P,vangr901,Home run call $Ruth ejected by Vangraflan for arguing there was fan interference on Kress' home run","1931SLA.EVA.regular.comment.csv",30
+"SLA193108220",104,"Remainder of game deduced","1931SLA.EVA.regular.comment.csv",31
+"SLA193108231",21,"misplayed by Simmons' sub","1931SLA.EVA.regular.comment.csv",32
+"SLA193108310",23,"previous two plays really one play","1931SLA.EVA.regular.comment.csv",33
+"SLA193109062",58,"$Rollie Stiles left with injured arm","1931SLA.EVA.regular.comment.csv",34
+"SLA193109261",73,"ej,bluel101,P,guthb901,Called third strike Le Blue ejected by HP umpire Bill Guthrie","1931SLA.EVA.regular.comment.csv",35
+"SLA193109262",81,"Game called for darkness","1931SLA.EVA.regular.comment.csv",36

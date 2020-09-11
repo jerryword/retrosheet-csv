@@ -1,30 +1,31 @@
-"BRO194105030",4,"arbitrary 3/FL to 2/FL, matching ebn","FILENAME_TX","LINE_NUMBER_CT"
-"BRO194105080",13,"$Pete Reiser crashed into the wall, left field under own power","1941BRO.EVN.regular.comment.csv",2
-"BRO194105240",38,"ej,podgj101,P,conlj102,Bench jockeying Johnny Podgajny ejected by HP umpire Jocko Conlan sometime in the bottom of the fifth","1941BRO.EVN.regular.comment.csv",3
-"BRO194106020",57,"$Billy Herman picked up a muffed throw","1941BRO.EVN.regular.comment.csv",4
-"BRO194106060",22,"ej,deand102,C,rearb901,Interference non-call ej,mccuc101,P,rearb901,Interference non-call $Clyde McCullough claimed Billy Herman interfered with the throw to 2B on the steal attempt; McCullough and Cubs Coach Dizzy Dean ejected by HP umpire Beans Reardon","1941BRO.EVN.regular.comment.csv",5
-"BRO194106070",13,"arbitrary 43 to 13","1941BRO.EVN.regular.comment.csv",6
-"BRO194106080",75,"$Dick West struck by foul ball","1941BRO.EVN.regular.comment.csv",7
-"BRO194107061",5,"arbitrary 8 to 6","1941BRO.EVN.regular.comment.csv",8
-"BRO194107062",41,"arbitrary 43 to 53","1941BRO.EVN.regular.comment.csv",9
-"BRO194107062",64,"$Game called for rain","1941BRO.EVN.regular.comment.csv",10
-"BRO194107131",10,"arbitrary 53 to 63","1941BRO.EVN.regular.comment.csv",11
-"BRO194107201",23,"$Freddie Fitzsimmons struck on the wrist by ball","1941BRO.EVN.regular.comment.csv",12
-"BRO194107201",25,"arbitrary 53 to 63","1941BRO.EVN.regular.comment.csv",13
-"BRO194107202",17,"ej,ellib103,P,jordl901,Called third strike (Threw bat) ej,frisf101,M,jordl901,Balls and strikes Bob Elliott and Pirates Manager Frankie Frisch ejected by HP umpire Lou Jorda","1941BRO.EVN.regular.comment.csv",14
-"BRO194108080",7,"arbitrary 63 to 64(1)/FO","1941BRO.EVN.regular.comment.csv",15
-"BRO194108090",0,"5 Miller A not explainable","1941BRO.EVN.regular.comment.csv",16
-"BRO194108122",12,"$Billy Herman left with injured finger","1941BRO.EVN.regular.comment.csv",17
-"BRO194108180",61,"not a continuation play","1941BRO.EVN.regular.comment.csv",18
-"BRO194108192",0,"$there was a steady rain during the game","1941BRO.EVN.regular.comment.csv",19
-"BRO194108192",8,"$the Pirates started stalling tactics to prevent the completion of the game","1941BRO.EVN.regular.comment.csv",20
-"BRO194108192",18,"ej,frisf101,M,conlj102,Bringing umbrella to protest weather Pirates Manager Frankie Frisch ejected by HP umpire Jocko Conlan","1941BRO.EVN.regular.comment.csv",21
-"BRO194108210",16,"ej,durol101,M,barrg901,Balls and strikes Dodgers Manager Leo Durocher ejected by 1B umpire George Barr","1941BRO.EVN.regular.comment.csv",22
-"BRO194108210",48,"ej,wilsj105,M,searz901,Fair/foul call Cubs Manager Jimmie Wilson ejected by 3B umpire Ziggy Sears","1941BRO.EVN.regular.comment.csv",23
-"BRO194108262",68,"$game called due to curfew","1941BRO.EVN.regular.comment.csv",24
-"BRO194109011",18,"arbitrary 63 to 53","1941BRO.EVN.regular.comment.csv",25
-"BRO194109012",48,"$game called due to darkness","1941BRO.EVN.regular.comment.csv",26
-"BRO194109072",32,"ej,durol101,M,dunnt901,Balls and strikes Dodgers Manager Leo Durocher ejected by HP umpire Tom Dunn; fans threw bottles at Dunn","1941BRO.EVN.regular.comment.csv",27
-"BRO194109072",65,"$fans threw paper onto the field celebrating the game-tying hit; HP umpire Tom Dunn instructed the announcer to tell the crowd that unless they stopped, the game would be stopped; there was a 10-minute delay to clear the field","1941BRO.EVN.regular.comment.csv",28
-"BRO194109270",0,"no good way to rationalize coscp101/hermb101 po","1941BRO.EVN.regular.comment.csv",29
-"BRO194109280",0,"several Phi fldg stats not possible","1941BRO.EVN.regular.comment.csv",30
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"BRO194105030",4,"arbitrary 3/FL to 2/FL, matching ebn","1941BRO.EVN.regular.comment.csv",2
+"BRO194105080",13,"$Pete Reiser crashed into the wall, left field under own power","1941BRO.EVN.regular.comment.csv",3
+"BRO194105240",38,"ej,podgj101,P,conlj102,Bench jockeying Johnny Podgajny ejected by HP umpire Jocko Conlan sometime in the bottom of the fifth","1941BRO.EVN.regular.comment.csv",4
+"BRO194106020",57,"$Billy Herman picked up a muffed throw","1941BRO.EVN.regular.comment.csv",5
+"BRO194106060",22,"ej,deand102,C,rearb901,Interference non-call ej,mccuc101,P,rearb901,Interference non-call $Clyde McCullough claimed Billy Herman interfered with the throw to 2B on the steal attempt; McCullough and Cubs Coach Dizzy Dean ejected by HP umpire Beans Reardon","1941BRO.EVN.regular.comment.csv",6
+"BRO194106070",13,"arbitrary 43 to 13","1941BRO.EVN.regular.comment.csv",7
+"BRO194106080",75,"$Dick West struck by foul ball","1941BRO.EVN.regular.comment.csv",8
+"BRO194107061",5,"arbitrary 8 to 6","1941BRO.EVN.regular.comment.csv",9
+"BRO194107062",41,"arbitrary 43 to 53","1941BRO.EVN.regular.comment.csv",10
+"BRO194107062",64,"$Game called for rain","1941BRO.EVN.regular.comment.csv",11
+"BRO194107131",10,"arbitrary 53 to 63","1941BRO.EVN.regular.comment.csv",12
+"BRO194107201",23,"$Freddie Fitzsimmons struck on the wrist by ball","1941BRO.EVN.regular.comment.csv",13
+"BRO194107201",25,"arbitrary 53 to 63","1941BRO.EVN.regular.comment.csv",14
+"BRO194107202",17,"ej,ellib103,P,jordl901,Called third strike (Threw bat) ej,frisf101,M,jordl901,Balls and strikes Bob Elliott and Pirates Manager Frankie Frisch ejected by HP umpire Lou Jorda","1941BRO.EVN.regular.comment.csv",15
+"BRO194108080",7,"arbitrary 63 to 64(1)/FO","1941BRO.EVN.regular.comment.csv",16
+"BRO194108090",0,"5 Miller A not explainable","1941BRO.EVN.regular.comment.csv",17
+"BRO194108122",12,"$Billy Herman left with injured finger","1941BRO.EVN.regular.comment.csv",18
+"BRO194108180",61,"not a continuation play","1941BRO.EVN.regular.comment.csv",19
+"BRO194108192",0,"$there was a steady rain during the game","1941BRO.EVN.regular.comment.csv",20
+"BRO194108192",8,"$the Pirates started stalling tactics to prevent the completion of the game","1941BRO.EVN.regular.comment.csv",21
+"BRO194108192",18,"ej,frisf101,M,conlj102,Bringing umbrella to protest weather Pirates Manager Frankie Frisch ejected by HP umpire Jocko Conlan","1941BRO.EVN.regular.comment.csv",22
+"BRO194108210",16,"ej,durol101,M,barrg901,Balls and strikes Dodgers Manager Leo Durocher ejected by 1B umpire George Barr","1941BRO.EVN.regular.comment.csv",23
+"BRO194108210",48,"ej,wilsj105,M,searz901,Fair/foul call Cubs Manager Jimmie Wilson ejected by 3B umpire Ziggy Sears","1941BRO.EVN.regular.comment.csv",24
+"BRO194108262",68,"$game called due to curfew","1941BRO.EVN.regular.comment.csv",25
+"BRO194109011",18,"arbitrary 63 to 53","1941BRO.EVN.regular.comment.csv",26
+"BRO194109012",48,"$game called due to darkness","1941BRO.EVN.regular.comment.csv",27
+"BRO194109072",32,"ej,durol101,M,dunnt901,Balls and strikes Dodgers Manager Leo Durocher ejected by HP umpire Tom Dunn; fans threw bottles at Dunn","1941BRO.EVN.regular.comment.csv",28
+"BRO194109072",65,"$fans threw paper onto the field celebrating the game-tying hit; HP umpire Tom Dunn instructed the announcer to tell the crowd that unless they stopped, the game would be stopped; there was a 10-minute delay to clear the field","1941BRO.EVN.regular.comment.csv",29
+"BRO194109270",0,"no good way to rationalize coscp101/hermb101 po","1941BRO.EVN.regular.comment.csv",30
+"BRO194109280",0,"several Phi fldg stats not possible","1941BRO.EVN.regular.comment.csv",31

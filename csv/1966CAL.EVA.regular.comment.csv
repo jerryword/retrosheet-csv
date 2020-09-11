@@ -1,22 +1,23 @@
-"CAL196604190",0,"$First major league game played at Anaheim Stadium","FILENAME_TX","LINE_NUMBER_CT"
-"CAL196604190",38,"Jose Cardenal left with injured leg","1966CAL.EVA.regular.comment.csv",2
-"CAL196604210",52,"Debut game for Jorge Rubio","1966CAL.EVA.regular.comment.csv",3
-"CAL196604210",69,"ej,pierj102,P,hallb901,Called third strike on teammate ej,rignb101,M,hallb901,Called third strike $Angels Piersall (no longer in game) and Angels manager Rigney ejected by HP umpire Haller for arguing called strike 3 on Kirkpatrick","1966CAL.EVA.regular.comment.csv",4
-"CAL196605060",38,"$Tom Tresh argued the call at 3B without calling time","1966CAL.EVA.regular.comment.csv",5
-"CAL196605080",3,"400 feet","1966CAL.EVA.regular.comment.csv",6
-"CAL196605080",65,"410 feet","1966CAL.EVA.regular.comment.csv",7
-"CAL196605302",1,"Debut game for Minnie Rojas","1966CAL.EVA.regular.comment.csv",8
-"CAL196606010",60,"umpchange,7,umphome,honoj901 umpchange,7,ump3b,kinnb901 umpchange,7,ump2b,(None) $Jim Fregosi fouled a pitch; catcher Andy Etchebarren, trying to get out of the way, stood up suddenly and struck HP umpire Jerry Neudecker on the chin with his head; Neudecker left the game and received 10 stitches; 3B umpire Jim Honochick moved to HP and 2B umpire Bill Kinnamon moved to 3B","1966CAL.EVA.regular.comment.csv",9
-"CAL196606240",41,"$off the RF pole","1966CAL.EVA.regular.comment.csv",10
-"CAL196606240",85,"ej,baueh101,M,hallb901,Balls and strikes Orioles Manager Hank Bauer ejected by HP umpire Bill Haller","1966CAL.EVA.regular.comment.csv",11
-"CAL196606240",96,"missing play in CAL196606240","1966CAL.EVA.regular.comment.csv",12
-"CAL196606260",0,"ej,pierj102,P,stevj901,Bench jockeying Jimmy Piersall ejected by HP umpire Johnny Stevens for bench jockeying sometime in game","1966CAL.EVA.regular.comment.csv",13
-"CAL196607150",10,"ej,hermb101,M,flahr901,Arguing strike 3 was foul ball $Red Sox manager Herman ejected by HP umpire Flaherty for that strike 3 was a foul tip that wasn't caught","1966CAL.EVA.regular.comment.csv",14
-"CAL196607300",5,"Debut game for Jay Johnstone","1966CAL.EVA.regular.comment.csv",15
-"CAL196608020",61,"$the ball was fumbled by Jim Fregosi and picked up by Bobby Knoop","1966CAL.EVA.regular.comment.csv",16
-"CAL196608040",53,"$the line drive hit Lew Burdette on the left shin and bounced to 1B","1966CAL.EVA.regular.comment.csv",17
-"CAL196608260",1,"Debut game for John Donaldson","1966CAL.EVA.regular.comment.csv",18
-"CAL196608310",42,"$hit on head","1966CAL.EVA.regular.comment.csv",19
-"CAL196608310",79,"$Jose Cardenal hurt left ankle","1966CAL.EVA.regular.comment.csv",20
-"CAL196609010",55,"400 feet","1966CAL.EVA.regular.comment.csv",21
-"CAL196609280",10,"$the ball struck Paul Schaal's knee","1966CAL.EVA.regular.comment.csv",22
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"CAL196604190",0,"$First major league game played at Anaheim Stadium","1966CAL.EVA.regular.comment.csv",2
+"CAL196604190",38,"Jose Cardenal left with injured leg","1966CAL.EVA.regular.comment.csv",3
+"CAL196604210",52,"Debut game for Jorge Rubio","1966CAL.EVA.regular.comment.csv",4
+"CAL196604210",69,"ej,pierj102,P,hallb901,Called third strike on teammate ej,rignb101,M,hallb901,Called third strike $Angels Piersall (no longer in game) and Angels manager Rigney ejected by HP umpire Haller for arguing called strike 3 on Kirkpatrick","1966CAL.EVA.regular.comment.csv",5
+"CAL196605060",38,"$Tom Tresh argued the call at 3B without calling time","1966CAL.EVA.regular.comment.csv",6
+"CAL196605080",3,"400 feet","1966CAL.EVA.regular.comment.csv",7
+"CAL196605080",65,"410 feet","1966CAL.EVA.regular.comment.csv",8
+"CAL196605302",1,"Debut game for Minnie Rojas","1966CAL.EVA.regular.comment.csv",9
+"CAL196606010",60,"umpchange,7,umphome,honoj901 umpchange,7,ump3b,kinnb901 umpchange,7,ump2b,(None) $Jim Fregosi fouled a pitch; catcher Andy Etchebarren, trying to get out of the way, stood up suddenly and struck HP umpire Jerry Neudecker on the chin with his head; Neudecker left the game and received 10 stitches; 3B umpire Jim Honochick moved to HP and 2B umpire Bill Kinnamon moved to 3B","1966CAL.EVA.regular.comment.csv",10
+"CAL196606240",41,"$off the RF pole","1966CAL.EVA.regular.comment.csv",11
+"CAL196606240",85,"ej,baueh101,M,hallb901,Balls and strikes Orioles Manager Hank Bauer ejected by HP umpire Bill Haller","1966CAL.EVA.regular.comment.csv",12
+"CAL196606240",96,"missing play in CAL196606240","1966CAL.EVA.regular.comment.csv",13
+"CAL196606260",0,"ej,pierj102,P,stevj901,Bench jockeying Jimmy Piersall ejected by HP umpire Johnny Stevens for bench jockeying sometime in game","1966CAL.EVA.regular.comment.csv",14
+"CAL196607150",10,"ej,hermb101,M,flahr901,Arguing strike 3 was foul ball $Red Sox manager Herman ejected by HP umpire Flaherty for that strike 3 was a foul tip that wasn't caught","1966CAL.EVA.regular.comment.csv",15
+"CAL196607300",5,"Debut game for Jay Johnstone","1966CAL.EVA.regular.comment.csv",16
+"CAL196608020",61,"$the ball was fumbled by Jim Fregosi and picked up by Bobby Knoop","1966CAL.EVA.regular.comment.csv",17
+"CAL196608040",53,"$the line drive hit Lew Burdette on the left shin and bounced to 1B","1966CAL.EVA.regular.comment.csv",18
+"CAL196608260",1,"Debut game for John Donaldson","1966CAL.EVA.regular.comment.csv",19
+"CAL196608310",42,"$hit on head","1966CAL.EVA.regular.comment.csv",20
+"CAL196608310",79,"$Jose Cardenal hurt left ankle","1966CAL.EVA.regular.comment.csv",21
+"CAL196609010",55,"400 feet","1966CAL.EVA.regular.comment.csv",22
+"CAL196609280",10,"$the ball struck Paul Schaal's knee","1966CAL.EVA.regular.comment.csv",23

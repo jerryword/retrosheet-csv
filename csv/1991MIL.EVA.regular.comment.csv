@@ -1,12 +1,13 @@
-"MIL199104300",6,"umpchange,1,umphome,joycj901 umpchange,1,ump2b,(None) $HP umpire Ford lwft when hit on arm by foul; 2B umpire Joyce went behind plate and game finished with 3 umpires","FILENAME_TX","LINE_NUMBER_CT"
-"MIL199105230",77,"Debut game for Matias Carrillo","1991MIL.EVA.regular.comment.csv",2
-"MIL199106230",25,"umpchange,4,ump2b,(None) umpchange,4,ump3b,mckej901 $3B umpire Kaiser left with foot problem; 2B umpire McKean moved to 3rd and game finished with 3 umpires","1991MIL.EVA.regular.comment.csv",3
-"MIL199107150",32,"Debut game for Doug Henry","1991MIL.EVA.regular.comment.csv",4
-"MIL199108040",60,"ej,bosic001,P,reedr901,Intentional HBP ej,reimk001,P,reedr901,Charging mound $Kevin Reimer charged the mound; Reimer and Chris Bosio ejected by HP umpire Rick Reed","1991MIL.EVA.regular.comment.csv",5
-"MIL199109030",39,"$Dave Henderson called for interference","1991MIL.EVA.regular.comment.csv",6
-"MIL199109240",1,"Debut game for Cal Eldred","1991MIL.EVA.regular.comment.csv",7
-"MIL199109250",77,"ej,merrs801,M,mcclt901,Balls and strikes $Yankees manager Merrill ejected by HP umpire McClelland for arguing balls and strikes aafter walk to Sveum","1991MIL.EVA.regular.comment.csv",8
-"MIL199109270",34,"Steve Lyons left with strained hamstring","1991MIL.EVA.regular.comment.csv",9
-"MIL199109280",23,"Wade Boggs left with shoulder aggravation","1991MIL.EVA.regular.comment.csv",10
-"MIL199109290",28,"Ellis Burks left with a sore back","1991MIL.EVA.regular.comment.csv",11
-"MIL199109290",42,"Robin Yount left with strained left calf","1991MIL.EVA.regular.comment.csv",12
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"MIL199104300",6,"umpchange,1,umphome,joycj901 umpchange,1,ump2b,(None) $HP umpire Ford lwft when hit on arm by foul; 2B umpire Joyce went behind plate and game finished with 3 umpires","1991MIL.EVA.regular.comment.csv",2
+"MIL199105230",77,"Debut game for Matias Carrillo","1991MIL.EVA.regular.comment.csv",3
+"MIL199106230",25,"umpchange,4,ump2b,(None) umpchange,4,ump3b,mckej901 $3B umpire Kaiser left with foot problem; 2B umpire McKean moved to 3rd and game finished with 3 umpires","1991MIL.EVA.regular.comment.csv",4
+"MIL199107150",32,"Debut game for Doug Henry","1991MIL.EVA.regular.comment.csv",5
+"MIL199108040",60,"ej,bosic001,P,reedr901,Intentional HBP ej,reimk001,P,reedr901,Charging mound $Kevin Reimer charged the mound; Reimer and Chris Bosio ejected by HP umpire Rick Reed","1991MIL.EVA.regular.comment.csv",6
+"MIL199109030",39,"$Dave Henderson called for interference","1991MIL.EVA.regular.comment.csv",7
+"MIL199109240",1,"Debut game for Cal Eldred","1991MIL.EVA.regular.comment.csv",8
+"MIL199109250",77,"ej,merrs801,M,mcclt901,Balls and strikes $Yankees manager Merrill ejected by HP umpire McClelland for arguing balls and strikes aafter walk to Sveum","1991MIL.EVA.regular.comment.csv",9
+"MIL199109270",34,"Steve Lyons left with strained hamstring","1991MIL.EVA.regular.comment.csv",10
+"MIL199109280",23,"Wade Boggs left with shoulder aggravation","1991MIL.EVA.regular.comment.csv",11
+"MIL199109290",28,"Ellis Burks left with a sore back","1991MIL.EVA.regular.comment.csv",12
+"MIL199109290",42,"Robin Yount left with strained left calf","1991MIL.EVA.regular.comment.csv",13

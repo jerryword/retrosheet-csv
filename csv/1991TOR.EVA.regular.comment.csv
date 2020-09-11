@@ -1,39 +1,40 @@
-"TOR199104080",0,"Debut for umpires Jim Uremovich and John Higgins, who worked because the staff umpires were not working due to contract negotiations which stalled during spring training; the contract was settled but the assigned umpires could not get to Toronto in time to work the game","FILENAME_TX","LINE_NUMBER_CT"
-"TOR199104080",61,"Debut game for Mike Timlin","1991TOR.EVA.regular.comment.csv",2
-"TOR199104120",1,"Debut game for Denis Boucher","1991TOR.EVA.regular.comment.csv",3
-"TOR199104120",21,"Roberto Alomar's 500th Hit","1991TOR.EVA.regular.comment.csv",4
-"TOR199104260",29,"Rance Mulliniks left with jammed right heel","1991TOR.EVA.regular.comment.csv",5
-"TOR199105070",18,"Debut game for Ed Sprague","1991TOR.EVA.regular.comment.csv",6
-"TOR199105070",48,"$the ball hit the 3B bag","1991TOR.EVA.regular.comment.csv",7
-"TOR199105100",40,"fan interference","1991TOR.EVA.regular.comment.csv",8
-"TOR199105110",18,"$Charlie Hough's 2000th strikeout","1991TOR.EVA.regular.comment.csv",9
-"TOR199105130",25,"$John Olerud called out for running out of the baseline to avoid a tag","1991TOR.EVA.regular.comment.csv",10
-"TOR199105280",50,"$pitch out on hit and run; Quirk swung and missed","1991TOR.EVA.regular.comment.csv",11
-"TOR199106160",24,"ej,welld001,P,morrd901,Balls and strikes $Pitcher Wells ejected by HP umpire Morrison for arguing balls and strikes when 2-2 pitch to Milligan was a ball","1991TOR.EVA.regular.comment.csv",12
-"TOR199106180",1,"Debut game for Scott Kamieniecki","1991TOR.EVA.regular.comment.csv",13
-"TOR199106190",29,"$Hensley Meulens called for interference","1991TOR.EVA.regular.comment.csv",14
-"TOR199106280",25,"Debut game for Derek Bell","1991TOR.EVA.regular.comment.csv",15
-"TOR199106290",34,"$Jimmy Key hit by line drive on pitching hand","1991TOR.EVA.regular.comment.csv",16
-"TOR199106300",16,"$both teams warned after third HBP of game","1991TOR.EVA.regular.comment.csv",17
-"TOR199107020",42,"Debut game for Jarvis Brown","1991TOR.EVA.regular.comment.csv",18
-"TOR199107030",38,"ej,andea001,P,joycj901,Intentional HBP Allan Anderson ejected by HP Umpire Jim Joyce","1991TOR.EVA.regular.comment.csv",19
-"TOR199107030",71,"$starting to close the roof","1991TOR.EVA.regular.comment.csv",20
-"TOR199107040",18,"umpchange,3,ump2b,craft901 $umpire Terry Craft enters the game at 2B","1991TOR.EVA.regular.comment.csv",21
-"TOR199107110",64,"$first inside the park HR in Skydome; Kevin Reimer misplayed liner","1991TOR.EVA.regular.comment.csv",22
-"TOR199107120",13,"$roof begins to close","1991TOR.EVA.regular.comment.csv",23
-"TOR199107120",23,"$roof is now closed","1991TOR.EVA.regular.comment.csv",24
-"TOR199107260",87,"ej,gastc101,M,hirsj901,Checked swing Blue Jays manager Cito Gaston ejected by HP umpire John Hirschbeck","1991TOR.EVA.regular.comment.csv",25
-"TOR199108080",60,"$roof is starting to close","1991TOR.EVA.regular.comment.csv",26
-"TOR199108080",65,"$roof is now closed, taking 25 minutes","1991TOR.EVA.regular.comment.csv",27
-"TOR199108100",14,"$starting to close the roof","1991TOR.EVA.regular.comment.csv",28
-"TOR199108100",22,"14 minute rain delay (2:22pm to 2:36pm); roof closed at 2:28pm","1991TOR.EVA.regular.comment.csv",29
-"TOR199108200",63,"ej,trebt801,M,merrd901,Call at 2B Brewers manager Tom Trebelhorn ejected by 2B umpire Durwood Merrill","1991TOR.EVA.regular.comment.csv",30
-"TOR199108220",45,"Debut game for Mike Ignasiak","1991TOR.EVA.regular.comment.csv",31
-"TOR199109020",32,"Debut game for Eddie Zosky","1991TOR.EVA.regular.comment.csv",32
-"TOR199109030",0,"$Umpire Greg Kosc, scheduled to work HP, will miss game because of unspecified injury; Larry Barnett (HP) and Al Clark (1B) each move up one place in the rotation; Ed Hickox will be the fourth crew member but is late arriving","1991TOR.EVA.regular.comment.csv",33
-"TOR199109030",10,"$roof starting to close","1991TOR.EVA.regular.comment.csv",34
-"TOR199109030",23,"umpchange,4,ump2b,hicke901 $umpire Ed Hickox takes the field at 2B $roof is closed","1991TOR.EVA.regular.comment.csv",35
-"TOR199109030",63,"Debut game for Pat Hentgen","1991TOR.EVA.regular.comment.csv",36
-"TOR199109130",38,"Fan interference","1991TOR.EVA.regular.comment.csv",37
-"TOR199109150",77,"ej,ackej001,P,welkt901,Intentional HBP Jim Acker ejected by HP Umpire Tim Welke","1991TOR.EVA.regular.comment.csv",38
-"TOR199109270",42,"$2-minute delay for light failure; seemed to be dim and umpires check with stadium operations","1991TOR.EVA.regular.comment.csv",39
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"TOR199104080",0,"Debut for umpires Jim Uremovich and John Higgins, who worked because the staff umpires were not working due to contract negotiations which stalled during spring training; the contract was settled but the assigned umpires could not get to Toronto in time to work the game","1991TOR.EVA.regular.comment.csv",2
+"TOR199104080",61,"Debut game for Mike Timlin","1991TOR.EVA.regular.comment.csv",3
+"TOR199104120",1,"Debut game for Denis Boucher","1991TOR.EVA.regular.comment.csv",4
+"TOR199104120",21,"Roberto Alomar's 500th Hit","1991TOR.EVA.regular.comment.csv",5
+"TOR199104260",29,"Rance Mulliniks left with jammed right heel","1991TOR.EVA.regular.comment.csv",6
+"TOR199105070",18,"Debut game for Ed Sprague","1991TOR.EVA.regular.comment.csv",7
+"TOR199105070",48,"$the ball hit the 3B bag","1991TOR.EVA.regular.comment.csv",8
+"TOR199105100",40,"fan interference","1991TOR.EVA.regular.comment.csv",9
+"TOR199105110",18,"$Charlie Hough's 2000th strikeout","1991TOR.EVA.regular.comment.csv",10
+"TOR199105130",25,"$John Olerud called out for running out of the baseline to avoid a tag","1991TOR.EVA.regular.comment.csv",11
+"TOR199105280",50,"$pitch out on hit and run; Quirk swung and missed","1991TOR.EVA.regular.comment.csv",12
+"TOR199106160",24,"ej,welld001,P,morrd901,Balls and strikes $Pitcher Wells ejected by HP umpire Morrison for arguing balls and strikes when 2-2 pitch to Milligan was a ball","1991TOR.EVA.regular.comment.csv",13
+"TOR199106180",1,"Debut game for Scott Kamieniecki","1991TOR.EVA.regular.comment.csv",14
+"TOR199106190",29,"$Hensley Meulens called for interference","1991TOR.EVA.regular.comment.csv",15
+"TOR199106280",25,"Debut game for Derek Bell","1991TOR.EVA.regular.comment.csv",16
+"TOR199106290",34,"$Jimmy Key hit by line drive on pitching hand","1991TOR.EVA.regular.comment.csv",17
+"TOR199106300",16,"$both teams warned after third HBP of game","1991TOR.EVA.regular.comment.csv",18
+"TOR199107020",42,"Debut game for Jarvis Brown","1991TOR.EVA.regular.comment.csv",19
+"TOR199107030",38,"ej,andea001,P,joycj901,Intentional HBP Allan Anderson ejected by HP Umpire Jim Joyce","1991TOR.EVA.regular.comment.csv",20
+"TOR199107030",71,"$starting to close the roof","1991TOR.EVA.regular.comment.csv",21
+"TOR199107040",18,"umpchange,3,ump2b,craft901 $umpire Terry Craft enters the game at 2B","1991TOR.EVA.regular.comment.csv",22
+"TOR199107110",64,"$first inside the park HR in Skydome; Kevin Reimer misplayed liner","1991TOR.EVA.regular.comment.csv",23
+"TOR199107120",13,"$roof begins to close","1991TOR.EVA.regular.comment.csv",24
+"TOR199107120",23,"$roof is now closed","1991TOR.EVA.regular.comment.csv",25
+"TOR199107260",87,"ej,gastc101,M,hirsj901,Checked swing Blue Jays manager Cito Gaston ejected by HP umpire John Hirschbeck","1991TOR.EVA.regular.comment.csv",26
+"TOR199108080",60,"$roof is starting to close","1991TOR.EVA.regular.comment.csv",27
+"TOR199108080",65,"$roof is now closed, taking 25 minutes","1991TOR.EVA.regular.comment.csv",28
+"TOR199108100",14,"$starting to close the roof","1991TOR.EVA.regular.comment.csv",29
+"TOR199108100",22,"14 minute rain delay (2:22pm to 2:36pm); roof closed at 2:28pm","1991TOR.EVA.regular.comment.csv",30
+"TOR199108200",63,"ej,trebt801,M,merrd901,Call at 2B Brewers manager Tom Trebelhorn ejected by 2B umpire Durwood Merrill","1991TOR.EVA.regular.comment.csv",31
+"TOR199108220",45,"Debut game for Mike Ignasiak","1991TOR.EVA.regular.comment.csv",32
+"TOR199109020",32,"Debut game for Eddie Zosky","1991TOR.EVA.regular.comment.csv",33
+"TOR199109030",0,"$Umpire Greg Kosc, scheduled to work HP, will miss game because of unspecified injury; Larry Barnett (HP) and Al Clark (1B) each move up one place in the rotation; Ed Hickox will be the fourth crew member but is late arriving","1991TOR.EVA.regular.comment.csv",34
+"TOR199109030",10,"$roof starting to close","1991TOR.EVA.regular.comment.csv",35
+"TOR199109030",23,"umpchange,4,ump2b,hicke901 $umpire Ed Hickox takes the field at 2B $roof is closed","1991TOR.EVA.regular.comment.csv",36
+"TOR199109030",63,"Debut game for Pat Hentgen","1991TOR.EVA.regular.comment.csv",37
+"TOR199109130",38,"Fan interference","1991TOR.EVA.regular.comment.csv",38
+"TOR199109150",77,"ej,ackej001,P,welkt901,Intentional HBP Jim Acker ejected by HP Umpire Tim Welke","1991TOR.EVA.regular.comment.csv",39
+"TOR199109270",42,"$2-minute delay for light failure; seemed to be dim and umpires check with stadium operations","1991TOR.EVA.regular.comment.csv",40

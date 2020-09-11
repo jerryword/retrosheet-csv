@@ -1,43 +1,44 @@
-"CHN199104090",1,"fan interference","FILENAME_TX","LINE_NUMBER_CT"
-"CHN199104090",20,"Debut game for Gary Scott","1991CHN.EVN.regular.comment.csv",2
-"CHN199104110",17,"Jerome Walton left with stomach virus","1991CHN.EVN.regular.comment.csv",3
-"CHN199104110",43,"Debut game for Heathcliff Slocumb","1991CHN.EVN.regular.comment.csv",4
-"CHN199104140",53,"Bob Walk left with strained right groin","1991CHN.EVN.regular.comment.csv",5
-"CHN199104170",4,"$Darren Daulton called for interference","1991CHN.EVN.regular.comment.csv",6
-"CHN199104170",19,"Shawon Dunston left with strained right hamstring","1991CHN.EVN.regular.comment.csv",7
-"CHN199105100",55,"Barry Larkin left with tightness in right elbow","1991CHN.EVN.regular.comment.csv",8
-"CHN199105110",7,"$Larkin hurt on pickoff attempt in top of 1st, left game","1991CHN.EVN.regular.comment.csv",9
-"CHN199105120",40,"Bill Doran left with sore back","1991CHN.EVN.regular.comment.csv",10
-"CHN199105140",47,"ej,bellr001,P,ripps901,Call at 1B Rafael Belliard ejected by 1B umpire Steve Rippley","1991CHN.EVN.regular.comment.csv",11
-"CHN199105260",73,"ej,rodgb102,M,wickd901,Balls and strikes $Expos manager ROdgers ejected by HP umpire Wickham for arguing balls and strikes","1991CHN.EVN.regular.comment.csv",12
-"CHN199105260",79,"rain delay","1991CHN.EVN.regular.comment.csv",13
-"CHN199105270",70,"ej,violf001,P,willc901,Call at 1B Frank Viola ejected by 1B umpire Charlie Williams","1991CHN.EVN.regular.comment.csv",14
-"CHN199105280",75,"Debut game for Ced Landrum","1991CHN.EVN.regular.comment.csv",15
-"CHN199106060",20,"Debut game for Rick Wilkins","1991CHN.EVN.regular.comment.csv",16
-"CHN199106090",15,"$Shawon Dunston reached 1B but turned the wrong way after passing the bag and was called out on appeal","1991CHN.EVN.regular.comment.csv",17
-"CHN199106130",25,"ej,waltj001,P,wintm901,Balls and strikes Jerome Walton ejected by HP umpire Mike Winters arguing the missed bunt strike","1991CHN.EVN.regular.comment.csv",18
-"CHN199106130",49,"$George Bell threw to HP, Steve Decker out trying to advance","1991CHN.EVN.regular.comment.csv",19
-"CHN199106280",63,"$Ray Lankford's ball hit 2B umpire Terry Tata","1991CHN.EVN.regular.comment.csv",20
-"CHN199107020",9,"Ryne Sandberg left with injured hand","1991CHN.EVN.regular.comment.csv",21
-"CHN199107030",64,"Debut game for Laddie Renfroe","1991CHN.EVN.regular.comment.csv",22
-"CHN199107110",0,"Debut for umpire Scott Potter","1991CHN.EVN.regular.comment.csv",23
-"CHN199107110",71,"Shawon Dunston left with strained right thigh","1991CHN.EVN.regular.comment.csv",24
-"CHN199107120",73,"Debut game for Scott Servais","1991CHN.EVN.regular.comment.csv",25
-"CHN199107130",64,"$Eric Anthony lost ball in sun","1991CHN.EVN.regular.comment.csv",26
-"CHN199107230",65,"ej,dawsa001,P,westj901,Called third strike ej,essij001,M,westj901,Called third strike $Cubs Andre Dawson was ejected by HP umpire Joe West for arguing the called third strike; Dawson appeared to bump West during the argument; Cubs manager Jim Essian was also ejected by West; after returning to the dugout, Dawson threw about a dozen bats onto the field, inciting the crowd; the fans threw a lot of trash onto the field; Dawson was fined $1000 and wrote on his check: 'Donation to the blind'","1991CHN.EVN.regular.comment.csv",27
-"CHN199107230",77,"ej,dibbr001,P,westj901,Throwing bunted ball at batter/runner $Reds pitcher Rob Dibble, who had just served a three-day suspension, fielded the squeeze bunt and threw the ball at the hitter; Dibble was ejected by HP umpire Joe West","1991CHN.EVN.regular.comment.csv",28
-"CHN199107270",7,"$Andre Dawson left after being hit on the right elbow; taken to hospital for evaluation","1991CHN.EVN.regular.comment.csv",29
-"CHN199108100",1,"Frank Castillo left with strained right deltoid","1991CHN.EVN.regular.comment.csv",30
-"CHN199108110",27,"Joe Girardi's throw hit Mark Grace on the mouth","1991CHN.EVN.regular.comment.csv",31
-"CHN199108140",30,"$Andre Dawson hit on the face; warning issued to both teams","1991CHN.EVN.regular.comment.csv",32
-"CHN199108150",63,"$Shawon Dunston and George Bell collided on popup","1991CHN.EVN.regular.comment.csv",33
-"CHN199108150",63,"George Bell left the with a bruised chin","1991CHN.EVN.regular.comment.csv",34
-"CHN199108170",40,"Jerome Walton hit fence making catch","1991CHN.EVN.regular.comment.csv",35
-"CHN199108180",1,"Debut game for Braulio Castillo","1991CHN.EVN.regular.comment.csv",36
-"CHN199108180",56,"George Bell left with bruised left forearm","1991CHN.EVN.regular.comment.csv",37
-"CHN199108230",71,"$ball bounced up and hit Ryne Sandberg in the face","1991CHN.EVN.regular.comment.csv",38
-"CHN199109080",0,"$Fergie Jenkins Day at Wrigley Field","1991CHN.EVN.regular.comment.csv",39
-"CHN199109080",60,"Shawon Dunston left game with bruised right hand","1991CHN.EVN.regular.comment.csv",40
-"CHN199109080",61,"Debut game for Rey Sanchez","1991CHN.EVN.regular.comment.csv",41
-"CHN199109250",39,"George Bell left with sprained right ankle","1991CHN.EVN.regular.comment.csv",42
-"CHN199109250",60,"$Doug Dascenzo hit on head","1991CHN.EVN.regular.comment.csv",43
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"CHN199104090",1,"fan interference","1991CHN.EVN.regular.comment.csv",2
+"CHN199104090",20,"Debut game for Gary Scott","1991CHN.EVN.regular.comment.csv",3
+"CHN199104110",17,"Jerome Walton left with stomach virus","1991CHN.EVN.regular.comment.csv",4
+"CHN199104110",43,"Debut game for Heathcliff Slocumb","1991CHN.EVN.regular.comment.csv",5
+"CHN199104140",53,"Bob Walk left with strained right groin","1991CHN.EVN.regular.comment.csv",6
+"CHN199104170",4,"$Darren Daulton called for interference","1991CHN.EVN.regular.comment.csv",7
+"CHN199104170",19,"Shawon Dunston left with strained right hamstring","1991CHN.EVN.regular.comment.csv",8
+"CHN199105100",55,"Barry Larkin left with tightness in right elbow","1991CHN.EVN.regular.comment.csv",9
+"CHN199105110",7,"$Larkin hurt on pickoff attempt in top of 1st, left game","1991CHN.EVN.regular.comment.csv",10
+"CHN199105120",40,"Bill Doran left with sore back","1991CHN.EVN.regular.comment.csv",11
+"CHN199105140",47,"ej,bellr001,P,ripps901,Call at 1B Rafael Belliard ejected by 1B umpire Steve Rippley","1991CHN.EVN.regular.comment.csv",12
+"CHN199105260",73,"ej,rodgb102,M,wickd901,Balls and strikes $Expos manager ROdgers ejected by HP umpire Wickham for arguing balls and strikes","1991CHN.EVN.regular.comment.csv",13
+"CHN199105260",79,"rain delay","1991CHN.EVN.regular.comment.csv",14
+"CHN199105270",70,"ej,violf001,P,willc901,Call at 1B Frank Viola ejected by 1B umpire Charlie Williams","1991CHN.EVN.regular.comment.csv",15
+"CHN199105280",75,"Debut game for Ced Landrum","1991CHN.EVN.regular.comment.csv",16
+"CHN199106060",20,"Debut game for Rick Wilkins","1991CHN.EVN.regular.comment.csv",17
+"CHN199106090",15,"$Shawon Dunston reached 1B but turned the wrong way after passing the bag and was called out on appeal","1991CHN.EVN.regular.comment.csv",18
+"CHN199106130",25,"ej,waltj001,P,wintm901,Balls and strikes Jerome Walton ejected by HP umpire Mike Winters arguing the missed bunt strike","1991CHN.EVN.regular.comment.csv",19
+"CHN199106130",49,"$George Bell threw to HP, Steve Decker out trying to advance","1991CHN.EVN.regular.comment.csv",20
+"CHN199106280",63,"$Ray Lankford's ball hit 2B umpire Terry Tata","1991CHN.EVN.regular.comment.csv",21
+"CHN199107020",9,"Ryne Sandberg left with injured hand","1991CHN.EVN.regular.comment.csv",22
+"CHN199107030",64,"Debut game for Laddie Renfroe","1991CHN.EVN.regular.comment.csv",23
+"CHN199107110",0,"Debut for umpire Scott Potter","1991CHN.EVN.regular.comment.csv",24
+"CHN199107110",71,"Shawon Dunston left with strained right thigh","1991CHN.EVN.regular.comment.csv",25
+"CHN199107120",73,"Debut game for Scott Servais","1991CHN.EVN.regular.comment.csv",26
+"CHN199107130",64,"$Eric Anthony lost ball in sun","1991CHN.EVN.regular.comment.csv",27
+"CHN199107230",65,"ej,dawsa001,P,westj901,Called third strike ej,essij001,M,westj901,Called third strike $Cubs Andre Dawson was ejected by HP umpire Joe West for arguing the called third strike; Dawson appeared to bump West during the argument; Cubs manager Jim Essian was also ejected by West; after returning to the dugout, Dawson threw about a dozen bats onto the field, inciting the crowd; the fans threw a lot of trash onto the field; Dawson was fined $1000 and wrote on his check: 'Donation to the blind'","1991CHN.EVN.regular.comment.csv",28
+"CHN199107230",77,"ej,dibbr001,P,westj901,Throwing bunted ball at batter/runner $Reds pitcher Rob Dibble, who had just served a three-day suspension, fielded the squeeze bunt and threw the ball at the hitter; Dibble was ejected by HP umpire Joe West","1991CHN.EVN.regular.comment.csv",29
+"CHN199107270",7,"$Andre Dawson left after being hit on the right elbow; taken to hospital for evaluation","1991CHN.EVN.regular.comment.csv",30
+"CHN199108100",1,"Frank Castillo left with strained right deltoid","1991CHN.EVN.regular.comment.csv",31
+"CHN199108110",27,"Joe Girardi's throw hit Mark Grace on the mouth","1991CHN.EVN.regular.comment.csv",32
+"CHN199108140",30,"$Andre Dawson hit on the face; warning issued to both teams","1991CHN.EVN.regular.comment.csv",33
+"CHN199108150",63,"$Shawon Dunston and George Bell collided on popup","1991CHN.EVN.regular.comment.csv",34
+"CHN199108150",63,"George Bell left the with a bruised chin","1991CHN.EVN.regular.comment.csv",35
+"CHN199108170",40,"Jerome Walton hit fence making catch","1991CHN.EVN.regular.comment.csv",36
+"CHN199108180",1,"Debut game for Braulio Castillo","1991CHN.EVN.regular.comment.csv",37
+"CHN199108180",56,"George Bell left with bruised left forearm","1991CHN.EVN.regular.comment.csv",38
+"CHN199108230",71,"$ball bounced up and hit Ryne Sandberg in the face","1991CHN.EVN.regular.comment.csv",39
+"CHN199109080",0,"$Fergie Jenkins Day at Wrigley Field","1991CHN.EVN.regular.comment.csv",40
+"CHN199109080",60,"Shawon Dunston left game with bruised right hand","1991CHN.EVN.regular.comment.csv",41
+"CHN199109080",61,"Debut game for Rey Sanchez","1991CHN.EVN.regular.comment.csv",42
+"CHN199109250",39,"George Bell left with sprained right ankle","1991CHN.EVN.regular.comment.csv",43
+"CHN199109250",60,"$Doug Dascenzo hit on head","1991CHN.EVN.regular.comment.csv",44

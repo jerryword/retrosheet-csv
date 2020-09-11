@@ -1,27 +1,28 @@
-"PHI198504290",47,"$John Denny injured sliding into 2B","FILENAME_TX","LINE_NUMBER_CT"
-"PHI198504300",39,"ej,gullb001,P,westj901,Balk call $Pitcher Gullickson ejected by 2B umpire West for arguing balk call while Stone was at bat; Phillies accepted the single and declined the balk","1985PHI.EVN.regular.comment.csv",2
-"PHI198505170",77,"Debut game for Rocky Childress","1985PHI.EVN.regular.comment.csv",3
-"PHI198505200",43,"Mike Krukow left game with sprained Achilles tendon","1985PHI.EVN.regular.comment.csv",4
-"PHI198505200",49,"Chris Brown injured leg rounding 1B","1985PHI.EVN.regular.comment.csv",5
-"PHI198505200",58,"$catcher Bob Brenly faked a throw to 2B on the attempted steal by Juan Samuel, then got Steve Jeltz in a rundown, but threw wild","1985PHI.EVN.regular.comment.csv",6
-"PHI198505210",8,"66-minute rain delay","1985PHI.EVN.regular.comment.csv",7
-"PHI198505220",77,"$fan interference on Jose Uribe's overthrow, resulting in an extra base for each runner","1985PHI.EVN.regular.comment.csv",8
-"PHI198505240",62,"$Jeff Stone tripped on his way to 3B and tried to return to 2B","1985PHI.EVN.regular.comment.csv",9
-"PHI198506120",84,"Debut game for Rick Aguilera","1985PHI.EVN.regular.comment.csv",10
-"PHI198506210",128,"$Doug Frobel moved into the infield for Glenn Wilson's at bat","1985PHI.EVN.regular.comment.csv",11
-"PHI198506210",129,"DWS: not GDP according to officials","1985PHI.EVN.regular.comment.csv",12
-"PHI198506260",59,"ej,herzw101,M,quicj901,Interference call $Willie McGee called for interference on attempted steal; Cardinals manager Whitey Herzog ejected by HP umpire Jim Quick","1985PHI.EVN.regular.comment.csv",13
-"PHI198506270",49,"$fan interference","1985PHI.EVN.regular.comment.csv",14
-"PHI198506270",62,"$Juan Samuel missed bag on force at 2B","1985PHI.EVN.regular.comment.csv",15
-"PHI198507030",33,"$Glenn Wilson overan 2B","1985PHI.EVN.regular.comment.csv",16
-"PHI198507030",56,"$Chris Speier overran 2B","1985PHI.EVN.regular.comment.csv",17
-"PHI198507220",32,"1:46 rain delay from 8:38 to 10:24","1985PHI.EVN.regular.comment.csv",18
-"PHI198507240",51,"$failed squeeze; Ozzie Virgil ran Phil Garner back to 3B, but Mark Bailey was there and tagged out","1985PHI.EVN.regular.comment.csv",19
-"PHI198507250",1,"Debut game for Joe Johnson","1985PHI.EVN.regular.comment.csv",20
-"PHI198507250",68,"ej,wilsg001,P,grege901,Call at 2B Glenn Wilson ejected by 2B umpire Eric Gregg","1985PHI.EVN.regular.comment.csv",21
-"PHI198508101",47,"Debut game for Dave Shipanoff","1985PHI.EVN.regular.comment.csv",22
-"PHI198508230",47,"$Bob Brenly rounded 3B too far","1985PHI.EVN.regular.comment.csv",23
-"PHI198508240",15,"$Bob Brenly rounded 3B too far","1985PHI.EVN.regular.comment.csv",24
-"PHI198508240",43,"$Jeff Stone ran out of base path trying to avoid tag","1985PHI.EVN.regular.comment.csv",25
-"PHI198508250",26,"17-minute rain delay","1985PHI.EVN.regular.comment.csv",26
-"PHI198509220",34,"$Bob Dernier out for interference with catcher's throw","1985PHI.EVN.regular.comment.csv",27
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"PHI198504290",47,"$John Denny injured sliding into 2B","1985PHI.EVN.regular.comment.csv",2
+"PHI198504300",39,"ej,gullb001,P,westj901,Balk call $Pitcher Gullickson ejected by 2B umpire West for arguing balk call while Stone was at bat; Phillies accepted the single and declined the balk","1985PHI.EVN.regular.comment.csv",3
+"PHI198505170",77,"Debut game for Rocky Childress","1985PHI.EVN.regular.comment.csv",4
+"PHI198505200",43,"Mike Krukow left game with sprained Achilles tendon","1985PHI.EVN.regular.comment.csv",5
+"PHI198505200",49,"Chris Brown injured leg rounding 1B","1985PHI.EVN.regular.comment.csv",6
+"PHI198505200",58,"$catcher Bob Brenly faked a throw to 2B on the attempted steal by Juan Samuel, then got Steve Jeltz in a rundown, but threw wild","1985PHI.EVN.regular.comment.csv",7
+"PHI198505210",8,"66-minute rain delay","1985PHI.EVN.regular.comment.csv",8
+"PHI198505220",77,"$fan interference on Jose Uribe's overthrow, resulting in an extra base for each runner","1985PHI.EVN.regular.comment.csv",9
+"PHI198505240",62,"$Jeff Stone tripped on his way to 3B and tried to return to 2B","1985PHI.EVN.regular.comment.csv",10
+"PHI198506120",84,"Debut game for Rick Aguilera","1985PHI.EVN.regular.comment.csv",11
+"PHI198506210",128,"$Doug Frobel moved into the infield for Glenn Wilson's at bat","1985PHI.EVN.regular.comment.csv",12
+"PHI198506210",129,"DWS: not GDP according to officials","1985PHI.EVN.regular.comment.csv",13
+"PHI198506260",59,"ej,herzw101,M,quicj901,Interference call $Willie McGee called for interference on attempted steal; Cardinals manager Whitey Herzog ejected by HP umpire Jim Quick","1985PHI.EVN.regular.comment.csv",14
+"PHI198506270",49,"$fan interference","1985PHI.EVN.regular.comment.csv",15
+"PHI198506270",62,"$Juan Samuel missed bag on force at 2B","1985PHI.EVN.regular.comment.csv",16
+"PHI198507030",33,"$Glenn Wilson overan 2B","1985PHI.EVN.regular.comment.csv",17
+"PHI198507030",56,"$Chris Speier overran 2B","1985PHI.EVN.regular.comment.csv",18
+"PHI198507220",32,"1:46 rain delay from 8:38 to 10:24","1985PHI.EVN.regular.comment.csv",19
+"PHI198507240",51,"$failed squeeze; Ozzie Virgil ran Phil Garner back to 3B, but Mark Bailey was there and tagged out","1985PHI.EVN.regular.comment.csv",20
+"PHI198507250",1,"Debut game for Joe Johnson","1985PHI.EVN.regular.comment.csv",21
+"PHI198507250",68,"ej,wilsg001,P,grege901,Call at 2B Glenn Wilson ejected by 2B umpire Eric Gregg","1985PHI.EVN.regular.comment.csv",22
+"PHI198508101",47,"Debut game for Dave Shipanoff","1985PHI.EVN.regular.comment.csv",23
+"PHI198508230",47,"$Bob Brenly rounded 3B too far","1985PHI.EVN.regular.comment.csv",24
+"PHI198508240",15,"$Bob Brenly rounded 3B too far","1985PHI.EVN.regular.comment.csv",25
+"PHI198508240",43,"$Jeff Stone ran out of base path trying to avoid tag","1985PHI.EVN.regular.comment.csv",26
+"PHI198508250",26,"17-minute rain delay","1985PHI.EVN.regular.comment.csv",27
+"PHI198509220",34,"$Bob Dernier out for interference with catcher's throw","1985PHI.EVN.regular.comment.csv",28

@@ -1,39 +1,40 @@
-"FLO200404060",16,"Debut game for Terrmel Sledge","FILENAME_TX","LINE_NUMBER_CT"
-"FLO200404070",53,"Debut game for Chad Bentz","2004FLO.EVN.regular.comment.csv",2
-"FLO200404230",38,"originally scored E6. changed next day","2004FLO.EVN.regular.comment.csv",3
-"FLO200404240",10,"Yes, SF to 4","2004FLO.EVN.regular.comment.csv",4
-"FLO200405040",34,"$Dave Roberts left game with injured leg","2004FLO.EVN.regular.comment.csv",5
-"FLO200405070",44,"ej,nevip001,P,eddid901,Called third strike Phil Nevin ejected by HP umpire Doug Eddings","2004FLO.EVN.regular.comment.csv",6
-"FLO200405070",54,"ej,peavj001,P,eddid901,Intentional HBP Jake Peavy ejected by HP umpire Doug Eddings","2004FLO.EVN.regular.comment.csv",7
-"FLO200405080",10,"$Miguel Ojeda and Terrence Long thought Juan Pierre had caught the ball but it was ruled a trap; Long went back to 1B and Ojeda passed him","2004FLO.EVN.regular.comment.csv",8
-"FLO200405220",32,"$Harris left game with injured leg","2004FLO.EVN.regular.comment.csv",9
-"FLO200405220",51,"Sexson reinjured shoulder on check swing","2004FLO.EVN.regular.comment.csv",10
-"FLO200405290",12,"$Floyd left game with injured leg","2004FLO.EVN.regular.comment.csv",11
-"FLO200405290",32,"$Redmond left game with injured arm","2004FLO.EVN.regular.comment.csv",12
-"FLO200405300",23,"$Beckett left game with injured hand/wrist","2004FLO.EVN.regular.comment.csv",13
-"FLO200405310",28,"$Castro left game with injured chest","2004FLO.EVN.regular.comment.csv",14
-"FLO200406010",18,"$Castro left game with injured foot","2004FLO.EVN.regular.comment.csv",15
-"FLO200406020",15,"Debut game for Matt Treanor","2004FLO.EVN.regular.comment.csv",16
-"FLO200406170",25,"$Beckett left game with injured back","2004FLO.EVN.regular.comment.csv",17
-"FLO200406170",32,"originally scored S5, changed next day changed back to S5 the day after that!","2004FLO.EVN.regular.comment.csv",18
-"FLO200406170",53,"$fan interference","2004FLO.EVN.regular.comment.csv",19
-"FLO200406200",16,"$Alex Gonzalez called for interference","2004FLO.EVN.regular.comment.csv",20
-"FLO200406230",37,"Debut game for Charles Thomas","2004FLO.EVN.regular.comment.csv",21
-"FLO200407050",53,"Redmond left game with injured back","2004FLO.EVN.regular.comment.csv",22
-"FLO200407060",14,"Debut game for Josh Willingham","2004FLO.EVN.regular.comment.csv",23
-"FLO200407280",26,"rain delay of 29 minutes","2004FLO.EVN.regular.comment.csv",24
-"FLO200407280",43,"$Penny left game with injured chest. Marlins say it was 'heat-related'","2004FLO.EVN.regular.comment.csv",25
-"FLO200407280",64,"rain delay of 44 minutes","2004FLO.EVN.regular.comment.csv",26
-"FLO200408060",30,"$Moeller left game with injured leg","2004FLO.EVN.regular.comment.csv",27
-"FLO200408100",22,"$Carpenter left game with injured back","2004FLO.EVN.regular.comment.csv",28
-"FLO200408100",74,"ej,lodup001,P,guccc901,Called third strike Paul Lo Duca ejected by HP umpire Chris Guccione","2004FLO.EVN.regular.comment.csv",29
-"FLO200408120",0,"game originally scheduled for evening, but changed to avoid projected effect of Hurricane Charley","2004FLO.EVN.regular.comment.csv",30
-"FLO200408270",49,"$Valdez left game with injured foot","2004FLO.EVN.regular.comment.csv",31
-"FLO200409130",0,"$game played at U.S. Cellular Field, Chicago (venue changed due to Hurricane Ivan)","2004FLO.EVN.regular.comment.csv",32
-"FLO200409140",0,"$game played at U.S. Cellular Field, Chicago (venue changed due to HUrricane Ivan)","2004FLO.EVN.regular.comment.csv",33
-"FLO200409140",50,"$Sledge left game with injured hand","2004FLO.EVN.regular.comment.csv",34
-"FLO200409140",51,"$fan interference","2004FLO.EVN.regular.comment.csv",35
-"FLO200409151",30,"$Mike Lowell caught Brian Schneider with the hidden ball trick; Lowell had the ball as play ended, went to the mound, kept ball returned to 3B and tagged Schneider as he led off","2004FLO.EVN.regular.comment.csv",36
-"FLO200409151",68,"$Luis Castillo called for interference","2004FLO.EVN.regular.comment.csv",37
-"FLO200409152",39,"$Church left game with injured leg","2004FLO.EVN.regular.comment.csv",38
-"FLO200409170",13,"originally scored as E5, changed two days later","2004FLO.EVN.regular.comment.csv",39
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"FLO200404060",16,"Debut game for Terrmel Sledge","2004FLO.EVN.regular.comment.csv",2
+"FLO200404070",53,"Debut game for Chad Bentz","2004FLO.EVN.regular.comment.csv",3
+"FLO200404230",38,"originally scored E6. changed next day","2004FLO.EVN.regular.comment.csv",4
+"FLO200404240",10,"Yes, SF to 4","2004FLO.EVN.regular.comment.csv",5
+"FLO200405040",34,"$Dave Roberts left game with injured leg","2004FLO.EVN.regular.comment.csv",6
+"FLO200405070",44,"ej,nevip001,P,eddid901,Called third strike Phil Nevin ejected by HP umpire Doug Eddings","2004FLO.EVN.regular.comment.csv",7
+"FLO200405070",54,"ej,peavj001,P,eddid901,Intentional HBP Jake Peavy ejected by HP umpire Doug Eddings","2004FLO.EVN.regular.comment.csv",8
+"FLO200405080",10,"$Miguel Ojeda and Terrence Long thought Juan Pierre had caught the ball but it was ruled a trap; Long went back to 1B and Ojeda passed him","2004FLO.EVN.regular.comment.csv",9
+"FLO200405220",32,"$Harris left game with injured leg","2004FLO.EVN.regular.comment.csv",10
+"FLO200405220",51,"Sexson reinjured shoulder on check swing","2004FLO.EVN.regular.comment.csv",11
+"FLO200405290",12,"$Floyd left game with injured leg","2004FLO.EVN.regular.comment.csv",12
+"FLO200405290",32,"$Redmond left game with injured arm","2004FLO.EVN.regular.comment.csv",13
+"FLO200405300",23,"$Beckett left game with injured hand/wrist","2004FLO.EVN.regular.comment.csv",14
+"FLO200405310",28,"$Castro left game with injured chest","2004FLO.EVN.regular.comment.csv",15
+"FLO200406010",18,"$Castro left game with injured foot","2004FLO.EVN.regular.comment.csv",16
+"FLO200406020",15,"Debut game for Matt Treanor","2004FLO.EVN.regular.comment.csv",17
+"FLO200406170",25,"$Beckett left game with injured back","2004FLO.EVN.regular.comment.csv",18
+"FLO200406170",32,"originally scored S5, changed next day changed back to S5 the day after that!","2004FLO.EVN.regular.comment.csv",19
+"FLO200406170",53,"$fan interference","2004FLO.EVN.regular.comment.csv",20
+"FLO200406200",16,"$Alex Gonzalez called for interference","2004FLO.EVN.regular.comment.csv",21
+"FLO200406230",37,"Debut game for Charles Thomas","2004FLO.EVN.regular.comment.csv",22
+"FLO200407050",53,"Redmond left game with injured back","2004FLO.EVN.regular.comment.csv",23
+"FLO200407060",14,"Debut game for Josh Willingham","2004FLO.EVN.regular.comment.csv",24
+"FLO200407280",26,"rain delay of 29 minutes","2004FLO.EVN.regular.comment.csv",25
+"FLO200407280",43,"$Penny left game with injured chest. Marlins say it was 'heat-related'","2004FLO.EVN.regular.comment.csv",26
+"FLO200407280",64,"rain delay of 44 minutes","2004FLO.EVN.regular.comment.csv",27
+"FLO200408060",30,"$Moeller left game with injured leg","2004FLO.EVN.regular.comment.csv",28
+"FLO200408100",22,"$Carpenter left game with injured back","2004FLO.EVN.regular.comment.csv",29
+"FLO200408100",74,"ej,lodup001,P,guccc901,Called third strike Paul Lo Duca ejected by HP umpire Chris Guccione","2004FLO.EVN.regular.comment.csv",30
+"FLO200408120",0,"game originally scheduled for evening, but changed to avoid projected effect of Hurricane Charley","2004FLO.EVN.regular.comment.csv",31
+"FLO200408270",49,"$Valdez left game with injured foot","2004FLO.EVN.regular.comment.csv",32
+"FLO200409130",0,"$game played at U.S. Cellular Field, Chicago (venue changed due to Hurricane Ivan)","2004FLO.EVN.regular.comment.csv",33
+"FLO200409140",0,"$game played at U.S. Cellular Field, Chicago (venue changed due to HUrricane Ivan)","2004FLO.EVN.regular.comment.csv",34
+"FLO200409140",50,"$Sledge left game with injured hand","2004FLO.EVN.regular.comment.csv",35
+"FLO200409140",51,"$fan interference","2004FLO.EVN.regular.comment.csv",36
+"FLO200409151",30,"$Mike Lowell caught Brian Schneider with the hidden ball trick; Lowell had the ball as play ended, went to the mound, kept ball returned to 3B and tagged Schneider as he led off","2004FLO.EVN.regular.comment.csv",37
+"FLO200409151",68,"$Luis Castillo called for interference","2004FLO.EVN.regular.comment.csv",38
+"FLO200409152",39,"$Church left game with injured leg","2004FLO.EVN.regular.comment.csv",39
+"FLO200409170",13,"originally scored as E5, changed two days later","2004FLO.EVN.regular.comment.csv",40

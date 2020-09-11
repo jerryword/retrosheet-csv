@@ -1,41 +1,42 @@
-"BAL196104110",16,"Debut game for John Papa","FILENAME_TX","LINE_NUMBER_CT"
-"BAL196104150",45,"Debut game for Ron Henry","1961BAL.EVA.regular.comment.csv",2
-"BAL196104150",70,"Debut game for Lee Stange","1961BAL.EVA.regular.comment.csv",3
-"BAL196104162",77,"Debut game for Bill Pleis","1961BAL.EVA.regular.comment.csv",4
-"BAL196104221",71,"Debut game for Lee Thomas","1961BAL.EVA.regular.comment.csv",5
-"BAL196104222",62,"Game called after 32 minute rain delay; tie game to be replayed in entirety","1961BAL.EVA.regular.comment.csv",6
-"BAL196104230",35,"$3B Umpire Ed Runge called Ron Hansen out for interfernce at 3B but changed his mind and ruled it a single; Clete Boyer hurt on the play","1961BAL.EVA.regular.comment.csv",7
-"BAL196104230",41,"Debut game for Rollie Sheldon","1961BAL.EVA.regular.comment.csv",8
-"BAL196104230",69,"Debut game for Jack Reed","1961BAL.EVA.regular.comment.csv",9
-"BAL196104250",8,"Jackie Brandt left with pulled leg muscle","1961BAL.EVA.regular.comment.csv",10
-"BAL196104250",43,"Debut game for Hal Jones","1961BAL.EVA.regular.comment.csv",11
-"BAL196104260",18,"ej,tempj101,P,flahr901,Balls and strikes $Indians Temple ejected by HP umpire Flaherty after the first pitch was called a strike","1961BAL.EVA.regular.comment.csv",12
-"BAL196105150",27,"ej,richp101,M,soarh901,Call at 1B $Orioles manager Richards ejected by 1B umpire Soar for arguing that Stephens was safe at 1st","1961BAL.EVA.regular.comment.csv",13
-"BAL196105170",36,"DIFF: official records do not have the CS","1961BAL.EVA.regular.comment.csv",14
-"BAL196105170",39,"$Jake Wood injured","1961BAL.EVA.regular.comment.csv",15
-"BAL196105170",62,"$Norm Cash injured on wild throw","1961BAL.EVA.regular.comment.csv",16
-"BAL196105250",34,"ej,richp101,M,nappl901,Interference call $Dick Williams called for interference for running out of the baseline at 2B trying to get in the way of the relay throw; Jackie Brandt beat the throw but was called out; Orioles Manager Paul Richards ejected by 2B umpire Larry Napp","1961BAL.EVA.regular.comment.csv",17
-"BAL196106062",2,"$Lee Thomas struck on the head","1961BAL.EVA.regular.comment.csv",18
-"BAL196106062",23,"$Ken McBride threw behind Chuck Estrada; McBride was warned and fined $50 by HP umpire Ed Runge","1961BAL.EVA.regular.comment.csv",19
-"BAL196106062",50,"ej,gentj101,P,carrh901,Fair/foul call Jim Gentile ejected by 1B umpire Sam Carrigan for arguing about a foul ball that Gentile thought was a homer","1961BAL.EVA.regular.comment.csv",20
-"BAL196106080",3,"DIFF: official records do not have this strikeout","1961BAL.EVA.regular.comment.csv",21
-"BAL196106120",5,"$hit and run","1961BAL.EVA.regular.comment.csv",22
-"BAL196106120",76,"$Clint Courtney struck on bare hand by foul ball","1961BAL.EVA.regular.comment.csv",23
-"BAL196107010",43,"Debut game for Fred Gladding","1961BAL.EVA.regular.comment.csv",24
-"BAL196107040",11,"$Jim Gentile jammed his glove hand thumb in a collison at 1B with Chuck Essegian","1961BAL.EVA.regular.comment.csv",25
-"BAL196107071",3,"$Bobby Del Greco injured ankle sliding into 2B","1961BAL.EVA.regular.comment.csv",26
-"BAL196107160",36,"$rain starts and the lights turned on","1961BAL.EVA.regular.comment.csv",27
-"BAL196107160",45,"56 minute rain delay","1961BAL.EVA.regular.comment.csv",28
-"BAL196107261",41,"$Billy Hoeft left with a blister on his finger with a 2-1 count on Jim Pagliaroni","1961BAL.EVA.regular.comment.csv",29
-"BAL196108050",55,"ej,rignb101,M,linsj901,Called strike 3 $Angels manager Rigney ejected by 1B umpire Linsalata for arguing strike 3 call to Wagner","1961BAL.EVA.regular.comment.csv",30
-"BAL196108082",44,"Passed ball appears in Triandos' official records","1961BAL.EVA.regular.comment.csv",31
-"BAL196108120",3,"$Carl Yastrzemski was spiked sliding into 2B","1961BAL.EVA.regular.comment.csv",32
-"BAL196108120",70,"$Dick Hall fell at 1B and left injured","1961BAL.EVA.regular.comment.csv",33
-"BAL196109010",45,"$Chuck Estrada bunted and was tagged by Vic Power; Charlie Lau thought the ball went foul and started back toward 1B; Barry Latman grabbed ball from Power and threw to Woody Held","1961BAL.EVA.regular.comment.csv",34
-"BAL196109041",59,"Debut game for Ron Nischwitz","1961BAL.EVA.regular.comment.csv",35
-"BAL196109042",0,"Suspend=19610905,,1,4,48","1961BAL.EVA.regular.comment.csv",36
-"BAL196109042",18,"$Jerry Adair rounded 2B too far","1961BAL.EVA.regular.comment.csv",37
-"BAL196109042",26,"$Brandt stopped at third, but broke for home when Kline turned his back; he was out, but the catcher dropped the ball","1961BAL.EVA.regular.comment.csv",38
-"BAL196109042",74,"suspended,19610905,BAL11,curfew $game suspended due to Baltimore city ordinance not allowing an inning to start after 11:59 pm; resumed the next day","1961BAL.EVA.regular.comment.csv",39
-"BAL196109090",15,"Debut game for Ken Retzer","1961BAL.EVA.regular.comment.csv",40
-"BAL196109210",39,"$Jerry Adair spiked on play at 2B","1961BAL.EVA.regular.comment.csv",41
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"BAL196104110",16,"Debut game for John Papa","1961BAL.EVA.regular.comment.csv",2
+"BAL196104150",45,"Debut game for Ron Henry","1961BAL.EVA.regular.comment.csv",3
+"BAL196104150",70,"Debut game for Lee Stange","1961BAL.EVA.regular.comment.csv",4
+"BAL196104162",77,"Debut game for Bill Pleis","1961BAL.EVA.regular.comment.csv",5
+"BAL196104221",71,"Debut game for Lee Thomas","1961BAL.EVA.regular.comment.csv",6
+"BAL196104222",62,"Game called after 32 minute rain delay; tie game to be replayed in entirety","1961BAL.EVA.regular.comment.csv",7
+"BAL196104230",35,"$3B Umpire Ed Runge called Ron Hansen out for interfernce at 3B but changed his mind and ruled it a single; Clete Boyer hurt on the play","1961BAL.EVA.regular.comment.csv",8
+"BAL196104230",41,"Debut game for Rollie Sheldon","1961BAL.EVA.regular.comment.csv",9
+"BAL196104230",69,"Debut game for Jack Reed","1961BAL.EVA.regular.comment.csv",10
+"BAL196104250",8,"Jackie Brandt left with pulled leg muscle","1961BAL.EVA.regular.comment.csv",11
+"BAL196104250",43,"Debut game for Hal Jones","1961BAL.EVA.regular.comment.csv",12
+"BAL196104260",18,"ej,tempj101,P,flahr901,Balls and strikes $Indians Temple ejected by HP umpire Flaherty after the first pitch was called a strike","1961BAL.EVA.regular.comment.csv",13
+"BAL196105150",27,"ej,richp101,M,soarh901,Call at 1B $Orioles manager Richards ejected by 1B umpire Soar for arguing that Stephens was safe at 1st","1961BAL.EVA.regular.comment.csv",14
+"BAL196105170",36,"DIFF: official records do not have the CS","1961BAL.EVA.regular.comment.csv",15
+"BAL196105170",39,"$Jake Wood injured","1961BAL.EVA.regular.comment.csv",16
+"BAL196105170",62,"$Norm Cash injured on wild throw","1961BAL.EVA.regular.comment.csv",17
+"BAL196105250",34,"ej,richp101,M,nappl901,Interference call $Dick Williams called for interference for running out of the baseline at 2B trying to get in the way of the relay throw; Jackie Brandt beat the throw but was called out; Orioles Manager Paul Richards ejected by 2B umpire Larry Napp","1961BAL.EVA.regular.comment.csv",18
+"BAL196106062",2,"$Lee Thomas struck on the head","1961BAL.EVA.regular.comment.csv",19
+"BAL196106062",23,"$Ken McBride threw behind Chuck Estrada; McBride was warned and fined $50 by HP umpire Ed Runge","1961BAL.EVA.regular.comment.csv",20
+"BAL196106062",50,"ej,gentj101,P,carrh901,Fair/foul call Jim Gentile ejected by 1B umpire Sam Carrigan for arguing about a foul ball that Gentile thought was a homer","1961BAL.EVA.regular.comment.csv",21
+"BAL196106080",3,"DIFF: official records do not have this strikeout","1961BAL.EVA.regular.comment.csv",22
+"BAL196106120",5,"$hit and run","1961BAL.EVA.regular.comment.csv",23
+"BAL196106120",76,"$Clint Courtney struck on bare hand by foul ball","1961BAL.EVA.regular.comment.csv",24
+"BAL196107010",43,"Debut game for Fred Gladding","1961BAL.EVA.regular.comment.csv",25
+"BAL196107040",11,"$Jim Gentile jammed his glove hand thumb in a collison at 1B with Chuck Essegian","1961BAL.EVA.regular.comment.csv",26
+"BAL196107071",3,"$Bobby Del Greco injured ankle sliding into 2B","1961BAL.EVA.regular.comment.csv",27
+"BAL196107160",36,"$rain starts and the lights turned on","1961BAL.EVA.regular.comment.csv",28
+"BAL196107160",45,"56 minute rain delay","1961BAL.EVA.regular.comment.csv",29
+"BAL196107261",41,"$Billy Hoeft left with a blister on his finger with a 2-1 count on Jim Pagliaroni","1961BAL.EVA.regular.comment.csv",30
+"BAL196108050",55,"ej,rignb101,M,linsj901,Called strike 3 $Angels manager Rigney ejected by 1B umpire Linsalata for arguing strike 3 call to Wagner","1961BAL.EVA.regular.comment.csv",31
+"BAL196108082",44,"Passed ball appears in Triandos' official records","1961BAL.EVA.regular.comment.csv",32
+"BAL196108120",3,"$Carl Yastrzemski was spiked sliding into 2B","1961BAL.EVA.regular.comment.csv",33
+"BAL196108120",70,"$Dick Hall fell at 1B and left injured","1961BAL.EVA.regular.comment.csv",34
+"BAL196109010",45,"$Chuck Estrada bunted and was tagged by Vic Power; Charlie Lau thought the ball went foul and started back toward 1B; Barry Latman grabbed ball from Power and threw to Woody Held","1961BAL.EVA.regular.comment.csv",35
+"BAL196109041",59,"Debut game for Ron Nischwitz","1961BAL.EVA.regular.comment.csv",36
+"BAL196109042",0,"Suspend=19610905,,1,4,48","1961BAL.EVA.regular.comment.csv",37
+"BAL196109042",18,"$Jerry Adair rounded 2B too far","1961BAL.EVA.regular.comment.csv",38
+"BAL196109042",26,"$Brandt stopped at third, but broke for home when Kline turned his back; he was out, but the catcher dropped the ball","1961BAL.EVA.regular.comment.csv",39
+"BAL196109042",74,"suspended,19610905,BAL11,curfew $game suspended due to Baltimore city ordinance not allowing an inning to start after 11:59 pm; resumed the next day","1961BAL.EVA.regular.comment.csv",40
+"BAL196109090",15,"Debut game for Ken Retzer","1961BAL.EVA.regular.comment.csv",41
+"BAL196109210",39,"$Jerry Adair spiked on play at 2B","1961BAL.EVA.regular.comment.csv",42

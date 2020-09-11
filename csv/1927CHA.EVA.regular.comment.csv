@@ -1,30 +1,31 @@
-"CHA192704200",0,"Debut for umpire Roy Van Graflan","FILENAME_TX","LINE_NUMBER_CT"
-"CHA192704200",40,"To the scoreboard","1927CHA.EVA.regular.comment.csv",2
-"CHA192704240",0,"Cold and dreary almost wintery weather","1927CHA.EVA.regular.comment.csv",3
-"CHA192704240",14,"Clancy ducks and misses the throw","1927CHA.EVA.regular.comment.csv",4
-"CHA192704240",66,"Manush missed team's train and caught a later one","1927CHA.EVA.regular.comment.csv",5
-"CHA192704240",75,"Delayed double steal; Jacobs tries to catch Blue off first","1927CHA.EVA.regular.comment.csv",6
-"CHA192704250",91,"end of pbp; rest deduced","1927CHA.EVA.regular.comment.csv",7
-"CHA192705070",0,"$US Vice President Charles Dawes attended the game","1927CHA.EVA.regular.comment.csv",8
-"CHA192705160",22,"$Hal Wiltse struck on the stomach by the ball; carried off the field","1927CHA.EVA.regular.comment.csv",9
-"CHA192705310",2,"$HP umpire Harry Geisel would not allow George Sisler to use his regular bat because it had a slight coating of tar","1927CHA.EVA.regular.comment.csv",10
-"CHA192705310",6,"$HP umpire Harry Geisel would not allow Bill Barrett to use his regular bat; the bat was discolored but had no tar on it; the two argued for several minutes but Barrett's bat was ruled illegal","1927CHA.EVA.regular.comment.csv",11
-"CHA192705310",31,"$Harry Rice called for interference for running into his own batted ball","1927CHA.EVA.regular.comment.csv",12
-"CHA192705310",33,"$HP umpire Harry Geisel would not allow Bill Hunnefield to use his regular bat","1927CHA.EVA.regular.comment.csv",13
-"CHA192706230",22,"$Ted Lyons failed to advance on the grounder and Alex Metzler was trapped","1927CHA.EVA.regular.comment.csv",14
-"CHA192706230",84,"pbp account ends here. Rest deduced","1927CHA.EVA.regular.comment.csv",15
-"CHA192706280",0,"ej,schar103,M,owenb901,Fair/foul call White Sox Manager Ray Schalk ejected by HP umpire Brick Owens sometime in game","1927CHA.EVA.regular.comment.csv",16
-"CHA192706292",49,"$Johnny Hodapp injured his foot sliding into 2B","1927CHA.EVA.regular.comment.csv",17
-"CHA192707130",63,"30 minute rain delay","1927CHA.EVA.regular.comment.csv",18
-"CHA192707200",14,"$Aaron Ward and Bobby Reeves collided; Ward injured","1927CHA.EVA.regular.comment.csv",19
-"CHA192707200",24,"$Roger Peckinpaugh and Bobby Reeves collided","1927CHA.EVA.regular.comment.csv",20
-"CHA192707220",17,"$Ray Schalk Julie Wera collided; Schalk suffered injured nose and dislocated shoulder","1927CHA.EVA.regular.comment.csv",21
-"CHA192707220",43,"$Bill Hunnefield waited to see if the ball would be caught","1927CHA.EVA.regular.comment.csv",22
-"CHA192707220",59,"$Julie Wera left with a charley horse","1927CHA.EVA.regular.comment.csv",23
-"CHA192708160",37,"$over the roof of the double-decked RF stands","1927CHA.EVA.regular.comment.csv",24
-"CHA192708200",71,"$Max Bishop rounded 3B too far","1927CHA.EVA.regular.comment.csv",25
-"CHA192708220",13,"$Chick Galloway rounded 1B too far","1927CHA.EVA.regular.comment.csv",26
-"CHA192708270",26,"$Goose Goslin complained to HP umpire Brick Owens that Ted Lyons was taking too long to wind up, and stepped out of the batters box; when Goslin refused to step back in, Owens told Lyons to pitch; the ball was called strike three","1927CHA.EVA.regular.comment.csv",27
-"CHA192709040",70,"$Rube Lutzke rounded 2B too far","1927CHA.EVA.regular.comment.csv",28
-"CHA192709302",51,"$game called for darkness","1927CHA.EVA.regular.comment.csv",29
-"CHA192710012",49,"$game called due to darkness","1927CHA.EVA.regular.comment.csv",30
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"CHA192704200",0,"Debut for umpire Roy Van Graflan","1927CHA.EVA.regular.comment.csv",2
+"CHA192704200",40,"To the scoreboard","1927CHA.EVA.regular.comment.csv",3
+"CHA192704240",0,"Cold and dreary almost wintery weather","1927CHA.EVA.regular.comment.csv",4
+"CHA192704240",14,"Clancy ducks and misses the throw","1927CHA.EVA.regular.comment.csv",5
+"CHA192704240",66,"Manush missed team's train and caught a later one","1927CHA.EVA.regular.comment.csv",6
+"CHA192704240",75,"Delayed double steal; Jacobs tries to catch Blue off first","1927CHA.EVA.regular.comment.csv",7
+"CHA192704250",91,"end of pbp; rest deduced","1927CHA.EVA.regular.comment.csv",8
+"CHA192705070",0,"$US Vice President Charles Dawes attended the game","1927CHA.EVA.regular.comment.csv",9
+"CHA192705160",22,"$Hal Wiltse struck on the stomach by the ball; carried off the field","1927CHA.EVA.regular.comment.csv",10
+"CHA192705310",2,"$HP umpire Harry Geisel would not allow George Sisler to use his regular bat because it had a slight coating of tar","1927CHA.EVA.regular.comment.csv",11
+"CHA192705310",6,"$HP umpire Harry Geisel would not allow Bill Barrett to use his regular bat; the bat was discolored but had no tar on it; the two argued for several minutes but Barrett's bat was ruled illegal","1927CHA.EVA.regular.comment.csv",12
+"CHA192705310",31,"$Harry Rice called for interference for running into his own batted ball","1927CHA.EVA.regular.comment.csv",13
+"CHA192705310",33,"$HP umpire Harry Geisel would not allow Bill Hunnefield to use his regular bat","1927CHA.EVA.regular.comment.csv",14
+"CHA192706230",22,"$Ted Lyons failed to advance on the grounder and Alex Metzler was trapped","1927CHA.EVA.regular.comment.csv",15
+"CHA192706230",84,"pbp account ends here. Rest deduced","1927CHA.EVA.regular.comment.csv",16
+"CHA192706280",0,"ej,schar103,M,owenb901,Fair/foul call White Sox Manager Ray Schalk ejected by HP umpire Brick Owens sometime in game","1927CHA.EVA.regular.comment.csv",17
+"CHA192706292",49,"$Johnny Hodapp injured his foot sliding into 2B","1927CHA.EVA.regular.comment.csv",18
+"CHA192707130",63,"30 minute rain delay","1927CHA.EVA.regular.comment.csv",19
+"CHA192707200",14,"$Aaron Ward and Bobby Reeves collided; Ward injured","1927CHA.EVA.regular.comment.csv",20
+"CHA192707200",24,"$Roger Peckinpaugh and Bobby Reeves collided","1927CHA.EVA.regular.comment.csv",21
+"CHA192707220",17,"$Ray Schalk Julie Wera collided; Schalk suffered injured nose and dislocated shoulder","1927CHA.EVA.regular.comment.csv",22
+"CHA192707220",43,"$Bill Hunnefield waited to see if the ball would be caught","1927CHA.EVA.regular.comment.csv",23
+"CHA192707220",59,"$Julie Wera left with a charley horse","1927CHA.EVA.regular.comment.csv",24
+"CHA192708160",37,"$over the roof of the double-decked RF stands","1927CHA.EVA.regular.comment.csv",25
+"CHA192708200",71,"$Max Bishop rounded 3B too far","1927CHA.EVA.regular.comment.csv",26
+"CHA192708220",13,"$Chick Galloway rounded 1B too far","1927CHA.EVA.regular.comment.csv",27
+"CHA192708270",26,"$Goose Goslin complained to HP umpire Brick Owens that Ted Lyons was taking too long to wind up, and stepped out of the batters box; when Goslin refused to step back in, Owens told Lyons to pitch; the ball was called strike three","1927CHA.EVA.regular.comment.csv",28
+"CHA192709040",70,"$Rube Lutzke rounded 2B too far","1927CHA.EVA.regular.comment.csv",29
+"CHA192709302",51,"$game called for darkness","1927CHA.EVA.regular.comment.csv",30
+"CHA192710012",49,"$game called due to darkness","1927CHA.EVA.regular.comment.csv",31

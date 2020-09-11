@@ -1,28 +1,29 @@
-"CAL197804080",14,"Debut game for Dave Revering","FILENAME_TX","LINE_NUMBER_CT"
-"CAL197804080",61,"Debut game for Dwayne Murphy","1978CAL.EVA.regular.comment.csv",2
-"CAL197804080",81,"Debut game for Carney Lansford","1978CAL.EVA.regular.comment.csv",3
-"CAL197804090",1,"Debut game for Alan Wirth","1978CAL.EVA.regular.comment.csv",4
-"CAL197804260",48,"$Angel manager Dave Garcia objected to ruling by HP umpire Joe Brinkman, who placed Lyman Bostock at 1B after the ball was touched by ball boy","1978CAL.EVA.regular.comment.csv",5
-"CAL197805230",35,"ej,minom101,C,fordd901,Call at 1B White Sox Coach Minnie Minoso ejected by 1B umpire Dale Ford","1978CAL.EVA.regular.comment.csv",6
-"CAL197805260",47,"ej,kuenh101,C,mckej901,Call at 1B Brewers Coach Harvey Kuenn ejected by 1B umpire Jim McKean","1978CAL.EVA.regular.comment.csv",7
-"CAL197806030",44,"$sometime during the 6th inning, a slight earthquake tremor was felt; the earthquake, measuring 3.6 on the Richter scale, was centered 8 miles away in Pomona","1978CAL.EVA.regular.comment.csv",8
-"CAL197806100",29,"$Thuman Munson had been hit on the throat by a foul ball earlier in the game","1978CAL.EVA.regular.comment.csv",9
-"CAL197806100",87,"ej,heatm001,P,barnl901,Fighting ej,martb105,M,barnl901,Call at HP (collision) $Carney Lansford suffered a jammed thumb on the play when he collided with catcher Mike Heath; Heath, having been run into on consecutive plays, came up swinging at Lansford; both benches cleared; Heath and Yankees manager Billy Martin ejected by HP umpire Larry Barnett","1978CAL.EVA.regular.comment.csv",10
-"CAL197807010",72,"ej,fairr101,P,coont901,Call at 1B (Threw dirt on umpire) Ron Fairly ejected by 1B umpire Terry Cooney","1978CAL.EVA.regular.comment.csv",11
-"CAL197807020",4,"ej,campb101,P,coont901,Fighting $Bert Campaneris tried to score on an errant pitch; Ken Brett covered HP and fell on Campaneris during the plate at HP; Brett headed for the bench but Campaneris picked up the ball and threw it at Brett; they exchanged words and punches; both benches cleared; Campaneris ejected by HP umpire Terry Cooney","1978CAL.EVA.regular.comment.csv",12
-"CAL197807020",27,"Debut game for Jim Anderson","1978CAL.EVA.regular.comment.csv",13
-"CAL197807190",72,"ej,alexg101,P,koscg901,Called third strike Gary Alexander ejected by HP umpire Greg Kosc","1978CAL.EVA.regular.comment.csv",14
-"CAL197807310",73,"ej,fregj101,M,reilm901,Call at 2B $Angels manager Fregois ejected by 2B umpire Reilly for arguing Baylor ws safe at 2nd on force out","1978CAL.EVA.regular.comment.csv",15
-"CAL197808200",98,"$Carlos Lopez let the short popup hit and then it got by him","1978CAL.EVA.regular.comment.csv",16
-"CAL197809070",68,"Debut game for LaRue Washington","1978CAL.EVA.regular.comment.csv",17
-"CAL197809091",0,"$Umpire Al Clark out with injured toe","1978CAL.EVA.regular.comment.csv",18
-"CAL197809091",59,"Debut game for Luis Silverio","1978CAL.EVA.regular.comment.csv",19
-"CAL197809092",0,"Protest=V $Umpire Al Clark out with hurt toe","1978CAL.EVA.regular.comment.csv",20
-"CAL197809092",57,"$Royals protested game, claiming Dave Frost not pausing in stretch","1978CAL.EVA.regular.comment.csv",21
-"CAL197809092",66,"ej,mcnaj801,C,kunkb101,Appeal play $Don Baylor out on appeal for leaving early; Angels Coach John McNamara ejected by 3B umpire Bill Kunkel","1978CAL.EVA.regular.comment.csv",22
-"CAL197809100",0,"ej,herzw101,M,deegb901,Argued runner left baseline Royals Manager Whitey Herzog ejected by 3B umpire Bill Deegan sometime in game","1978CAL.EVA.regular.comment.csv",23
-"CAL197809100",45,"$Joe Rudi sprained thumb on strikeout","1978CAL.EVA.regular.comment.csv",24
-"CAL197809100",63,"Debut game for Dave Cripe Debut game for Jim Gaudet","1978CAL.EVA.regular.comment.csv",25
-"CAL197809100",64,"Debut game for Jim Gaudet","1978CAL.EVA.regular.comment.csv",26
-"CAL197809300",36,"$Rick Miller out on appeal for missing 3B","1978CAL.EVA.regular.comment.csv",27
-"CAL197810010",74,"ej,dobyl101,M,lucir901,Balls and strikes $White Sox manager Doby ejected by HP umpire Luciano for arguing balls and strike","1978CAL.EVA.regular.comment.csv",28
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"CAL197804080",14,"Debut game for Dave Revering","1978CAL.EVA.regular.comment.csv",2
+"CAL197804080",61,"Debut game for Dwayne Murphy","1978CAL.EVA.regular.comment.csv",3
+"CAL197804080",81,"Debut game for Carney Lansford","1978CAL.EVA.regular.comment.csv",4
+"CAL197804090",1,"Debut game for Alan Wirth","1978CAL.EVA.regular.comment.csv",5
+"CAL197804260",48,"$Angel manager Dave Garcia objected to ruling by HP umpire Joe Brinkman, who placed Lyman Bostock at 1B after the ball was touched by ball boy","1978CAL.EVA.regular.comment.csv",6
+"CAL197805230",35,"ej,minom101,C,fordd901,Call at 1B White Sox Coach Minnie Minoso ejected by 1B umpire Dale Ford","1978CAL.EVA.regular.comment.csv",7
+"CAL197805260",47,"ej,kuenh101,C,mckej901,Call at 1B Brewers Coach Harvey Kuenn ejected by 1B umpire Jim McKean","1978CAL.EVA.regular.comment.csv",8
+"CAL197806030",44,"$sometime during the 6th inning, a slight earthquake tremor was felt; the earthquake, measuring 3.6 on the Richter scale, was centered 8 miles away in Pomona","1978CAL.EVA.regular.comment.csv",9
+"CAL197806100",29,"$Thuman Munson had been hit on the throat by a foul ball earlier in the game","1978CAL.EVA.regular.comment.csv",10
+"CAL197806100",87,"ej,heatm001,P,barnl901,Fighting ej,martb105,M,barnl901,Call at HP (collision) $Carney Lansford suffered a jammed thumb on the play when he collided with catcher Mike Heath; Heath, having been run into on consecutive plays, came up swinging at Lansford; both benches cleared; Heath and Yankees manager Billy Martin ejected by HP umpire Larry Barnett","1978CAL.EVA.regular.comment.csv",11
+"CAL197807010",72,"ej,fairr101,P,coont901,Call at 1B (Threw dirt on umpire) Ron Fairly ejected by 1B umpire Terry Cooney","1978CAL.EVA.regular.comment.csv",12
+"CAL197807020",4,"ej,campb101,P,coont901,Fighting $Bert Campaneris tried to score on an errant pitch; Ken Brett covered HP and fell on Campaneris during the plate at HP; Brett headed for the bench but Campaneris picked up the ball and threw it at Brett; they exchanged words and punches; both benches cleared; Campaneris ejected by HP umpire Terry Cooney","1978CAL.EVA.regular.comment.csv",13
+"CAL197807020",27,"Debut game for Jim Anderson","1978CAL.EVA.regular.comment.csv",14
+"CAL197807190",72,"ej,alexg101,P,koscg901,Called third strike Gary Alexander ejected by HP umpire Greg Kosc","1978CAL.EVA.regular.comment.csv",15
+"CAL197807310",73,"ej,fregj101,M,reilm901,Call at 2B $Angels manager Fregois ejected by 2B umpire Reilly for arguing Baylor ws safe at 2nd on force out","1978CAL.EVA.regular.comment.csv",16
+"CAL197808200",98,"$Carlos Lopez let the short popup hit and then it got by him","1978CAL.EVA.regular.comment.csv",17
+"CAL197809070",68,"Debut game for LaRue Washington","1978CAL.EVA.regular.comment.csv",18
+"CAL197809091",0,"$Umpire Al Clark out with injured toe","1978CAL.EVA.regular.comment.csv",19
+"CAL197809091",59,"Debut game for Luis Silverio","1978CAL.EVA.regular.comment.csv",20
+"CAL197809092",0,"Protest=V $Umpire Al Clark out with hurt toe","1978CAL.EVA.regular.comment.csv",21
+"CAL197809092",57,"$Royals protested game, claiming Dave Frost not pausing in stretch","1978CAL.EVA.regular.comment.csv",22
+"CAL197809092",66,"ej,mcnaj801,C,kunkb101,Appeal play $Don Baylor out on appeal for leaving early; Angels Coach John McNamara ejected by 3B umpire Bill Kunkel","1978CAL.EVA.regular.comment.csv",23
+"CAL197809100",0,"ej,herzw101,M,deegb901,Argued runner left baseline Royals Manager Whitey Herzog ejected by 3B umpire Bill Deegan sometime in game","1978CAL.EVA.regular.comment.csv",24
+"CAL197809100",45,"$Joe Rudi sprained thumb on strikeout","1978CAL.EVA.regular.comment.csv",25
+"CAL197809100",63,"Debut game for Dave Cripe Debut game for Jim Gaudet","1978CAL.EVA.regular.comment.csv",26
+"CAL197809100",64,"Debut game for Jim Gaudet","1978CAL.EVA.regular.comment.csv",27
+"CAL197809300",36,"$Rick Miller out on appeal for missing 3B","1978CAL.EVA.regular.comment.csv",28
+"CAL197810010",74,"ej,dobyl101,M,lucir901,Balls and strikes $White Sox manager Doby ejected by HP umpire Luciano for arguing balls and strike","1978CAL.EVA.regular.comment.csv",29

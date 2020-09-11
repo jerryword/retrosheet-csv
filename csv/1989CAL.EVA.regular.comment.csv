@@ -1,28 +1,29 @@
-"CAL198904040",52,"$Devon White hustled routine single into double","FILENAME_TX","LINE_NUMBER_CT"
-"CAL198904040",70,"ej,mcclb001,P,brinj901,Intentional HBP ej,caldi001,P,brinj901,Charged the mound $Ivan Calderon charged the mound and threw his helmet at pitcher Bob McClure; both benches cleared and a brawl ensued; McClure and Calderon ejected by HP umpire Joe Brinkman","1989CAL.EVA.regular.comment.csv",2
-"CAL198904050",28,"$Johnny Ray ran Harold Baines back to 1B as Dave Gallagher tried to score","1989CAL.EVA.regular.comment.csv",3
-"CAL198904050",50,"$Dan Pasqua broke wrist trying for foul, left for hitter in 7th","1989CAL.EVA.regular.comment.csv",4
-"CAL198904080",1,"Debut game for Jim Abbott","1989CAL.EVA.regular.comment.csv",5
-"CAL198904100",27,"$Mark McGwire left game with strained lower back muscle","1989CAL.EVA.regular.comment.csv",6
-"CAL198904240",28,"$Mike Devereaux was picked off 1B and ran for 2B","1989CAL.EVA.regular.comment.csv",7
-"CAL198904250",54,"Debut game for Chris Hoiles","1989CAL.EVA.regular.comment.csv",8
-"CAL198904270",42,"$Brian Downing hurt knee in attempt to leg a double","1989CAL.EVA.regular.comment.csv",9
-"CAL198904270",50,"Debut game for Ramon Pena","1989CAL.EVA.regular.comment.csv",10
-"CAL198904280",41,"$pickoff to 1B; Wally Joyner ran to 2B while Fred McGriff threw to 3B","1989CAL.EVA.regular.comment.csv",11
-"CAL198904290",70,"$Manny Lee hurt sliding back into 1B","1989CAL.EVA.regular.comment.csv",12
-"CAL198905170",16,"ej,evand002,P,coont901,Checked swing (Threw bat) Dwight Evans ejected by 1B umpire Terry Cooney for throwing his bat after a checked swing called for strike three","1989CAL.EVA.regular.comment.csv",13
-"CAL198905200",6,"$16 minute delay due to light failure after 4th pitch to Brian Downing","1989CAL.EVA.regular.comment.csv",14
-"CAL198906040",1,"Debut game for Kevin Appier","1989CAL.EVA.regular.comment.csv",15
-"CAL198906070",54,"$throw to 1B hit Felix Fermin who was out trying for 2B","1989CAL.EVA.regular.comment.csv",16
-"CAL198906190",71,"ej,raded103,M,clara901,Balls and strikes Angels manager Doug Rader ejected by HP umpire Al Clark arguing balls and strikes","1989CAL.EVA.regular.comment.csv",17
-"CAL198906210",74,"ej,mclaj801,C,phild901,Failure to call balk Blue Jays coach John McLaren ejected by 3B umpire Dave Phillips arguing that the pitcher balked","1989CAL.EVA.regular.comment.csv",18
-"CAL198907080",40,"$Al Newman cut hand on attempted bunt","1989CAL.EVA.regular.comment.csv",19
-"CAL198907210",54,"umpchange,6,umphome,koscg901 umpchange,6,ump2b,(None) $HP umpire Dale Ford hit on right arm by pitch and left; 2B umpire Greg Kosc moved behind plate","1989CAL.EVA.regular.comment.csv",20
-"CAL198907290",3,"ej,torbj101,M,welkt901,Call at 1B $White Sox manager Torborg ejected by 1B umpire Welke for arguing that Boston was safe at 1st","1989CAL.EVA.regular.comment.csv",21
-"CAL198907290",55,"$SS Dick Schofield missed 2B on tag, threw late to 1B, runner out on return","1989CAL.EVA.regular.comment.csv",22
-"CAL198908120",88,"Debut game for Bobby Rose","1989CAL.EVA.regular.comment.csv",23
-"CAL198908200",20,"Debut game for John Orton","1989CAL.EVA.regular.comment.csv",24
-"CAL198908200",27,"$Devon White loped in and didn't touch plate in time to score run","1989CAL.EVA.regular.comment.csv",25
-"CAL198909090",55,"$Devon White stole 2B, 3B, and home in same inning","1989CAL.EVA.regular.comment.csv",26
-"CAL198909130",10,"$Wally Joyner ruled out when coach Moose Stubing grabbed him rounding 3B","1989CAL.EVA.regular.comment.csv",27
-"CAL198909260",35,"$Claudell Washington lost ball in lights","1989CAL.EVA.regular.comment.csv",28
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"CAL198904040",52,"$Devon White hustled routine single into double","1989CAL.EVA.regular.comment.csv",2
+"CAL198904040",70,"ej,mcclb001,P,brinj901,Intentional HBP ej,caldi001,P,brinj901,Charged the mound $Ivan Calderon charged the mound and threw his helmet at pitcher Bob McClure; both benches cleared and a brawl ensued; McClure and Calderon ejected by HP umpire Joe Brinkman","1989CAL.EVA.regular.comment.csv",3
+"CAL198904050",28,"$Johnny Ray ran Harold Baines back to 1B as Dave Gallagher tried to score","1989CAL.EVA.regular.comment.csv",4
+"CAL198904050",50,"$Dan Pasqua broke wrist trying for foul, left for hitter in 7th","1989CAL.EVA.regular.comment.csv",5
+"CAL198904080",1,"Debut game for Jim Abbott","1989CAL.EVA.regular.comment.csv",6
+"CAL198904100",27,"$Mark McGwire left game with strained lower back muscle","1989CAL.EVA.regular.comment.csv",7
+"CAL198904240",28,"$Mike Devereaux was picked off 1B and ran for 2B","1989CAL.EVA.regular.comment.csv",8
+"CAL198904250",54,"Debut game for Chris Hoiles","1989CAL.EVA.regular.comment.csv",9
+"CAL198904270",42,"$Brian Downing hurt knee in attempt to leg a double","1989CAL.EVA.regular.comment.csv",10
+"CAL198904270",50,"Debut game for Ramon Pena","1989CAL.EVA.regular.comment.csv",11
+"CAL198904280",41,"$pickoff to 1B; Wally Joyner ran to 2B while Fred McGriff threw to 3B","1989CAL.EVA.regular.comment.csv",12
+"CAL198904290",70,"$Manny Lee hurt sliding back into 1B","1989CAL.EVA.regular.comment.csv",13
+"CAL198905170",16,"ej,evand002,P,coont901,Checked swing (Threw bat) Dwight Evans ejected by 1B umpire Terry Cooney for throwing his bat after a checked swing called for strike three","1989CAL.EVA.regular.comment.csv",14
+"CAL198905200",6,"$16 minute delay due to light failure after 4th pitch to Brian Downing","1989CAL.EVA.regular.comment.csv",15
+"CAL198906040",1,"Debut game for Kevin Appier","1989CAL.EVA.regular.comment.csv",16
+"CAL198906070",54,"$throw to 1B hit Felix Fermin who was out trying for 2B","1989CAL.EVA.regular.comment.csv",17
+"CAL198906190",71,"ej,raded103,M,clara901,Balls and strikes Angels manager Doug Rader ejected by HP umpire Al Clark arguing balls and strikes","1989CAL.EVA.regular.comment.csv",18
+"CAL198906210",74,"ej,mclaj801,C,phild901,Failure to call balk Blue Jays coach John McLaren ejected by 3B umpire Dave Phillips arguing that the pitcher balked","1989CAL.EVA.regular.comment.csv",19
+"CAL198907080",40,"$Al Newman cut hand on attempted bunt","1989CAL.EVA.regular.comment.csv",20
+"CAL198907210",54,"umpchange,6,umphome,koscg901 umpchange,6,ump2b,(None) $HP umpire Dale Ford hit on right arm by pitch and left; 2B umpire Greg Kosc moved behind plate","1989CAL.EVA.regular.comment.csv",21
+"CAL198907290",3,"ej,torbj101,M,welkt901,Call at 1B $White Sox manager Torborg ejected by 1B umpire Welke for arguing that Boston was safe at 1st","1989CAL.EVA.regular.comment.csv",22
+"CAL198907290",55,"$SS Dick Schofield missed 2B on tag, threw late to 1B, runner out on return","1989CAL.EVA.regular.comment.csv",23
+"CAL198908120",88,"Debut game for Bobby Rose","1989CAL.EVA.regular.comment.csv",24
+"CAL198908200",20,"Debut game for John Orton","1989CAL.EVA.regular.comment.csv",25
+"CAL198908200",27,"$Devon White loped in and didn't touch plate in time to score run","1989CAL.EVA.regular.comment.csv",26
+"CAL198909090",55,"$Devon White stole 2B, 3B, and home in same inning","1989CAL.EVA.regular.comment.csv",27
+"CAL198909130",10,"$Wally Joyner ruled out when coach Moose Stubing grabbed him rounding 3B","1989CAL.EVA.regular.comment.csv",28
+"CAL198909260",35,"$Claudell Washington lost ball in lights","1989CAL.EVA.regular.comment.csv",29

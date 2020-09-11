@@ -1,22 +1,23 @@
-"ARI200004190",68,"ej,buttb801,C,monte901,Balls and strikes $D-Backs coach Butterfield ejected by HP umpire Montague for arguing strike 3 to Lee","FILENAME_TX","LINE_NUMBER_CT"
-"ARI200005060",42,"ej,smitd001,C,reedr901,Balls and strikes (from bench) $Padres coach Smith ejected by HP umpire Reed in fourth for arguing balls and strikes from bench","2000ARI.EVN.regular.comment.csv",2
-"ARI200005250",78,"$Bell made it safely to 2nd, but went too far and was out returning to base, so not GDP","2000ARI.EVN.regular.comment.csv",3
-"ARI200005300",60,"ej,dunss001,P,gibsg901,Call at HP Shawon Dunston ejected by 1B umpire Greg Gibson","2000ARI.EVN.regular.comment.csv",4
-"ARI200005310",59,"Debut game for Mike Matthews","2000ARI.EVN.regular.comment.csv",5
-"ARI200006110",64,"DWS: this play appears to be right as it is","2000ARI.EVN.regular.comment.csv",6
-"ARI200006190",1,"originally scored S8.B-2(E8)","2000ARI.EVN.regular.comment.csv",7
-"ARI200006200",1,"Debut game for Brian Tollberg","2000ARI.EVN.regular.comment.csv",8
-"ARI200006200",40,"ej,bellj001,P,eddid901,Balls and strikes Jay Bell ejected by HP umpire Doug Eddings","2000ARI.EVN.regular.comment.csv",9
-"ARI200006210",85,"both of the above singles originally scored as E","2000ARI.EVN.regular.comment.csv",10
-"ARI200006260",65,"Debut game for Alex Cabrera $homer in first at bat in majors","2000ARI.EVN.regular.comment.csv",11
-"ARI200006270",71,"DWS: the errors are right, maybe E1 after backup","2000ARI.EVN.regular.comment.csv",12
-"ARI200006270",85,"ej,melum001,P,iassd901,Call at HP (while catching) Mitch Meluskey ejected by HP umpire Dan Iassogna","2000ARI.EVN.regular.comment.csv",13
-"ARI200006290",70,"Debut game for Jason Conti","2000ARI.EVN.regular.comment.csv",14
-"ARI200007010",52,"ej,aybam001,P,emmep901,Intentional HBP Manny Aybar ejected by HP umpire Paul Emmel","2000ARI.EVN.regular.comment.csv",15
-"ARI200007180",70,"apparently a busted squeeze","2000ARI.EVN.regular.comment.csv",16
-"ARI200008010",52,"$disputed fan interference","2000ARI.EVN.regular.comment.csv",17
-"ARI200008010",67,"$great sliding catch to end game","2000ARI.EVN.regular.comment.csv",18
-"ARI200009030",9,"last two plays really one","2000ARI.EVN.regular.comment.csv",19
-"ARI200009120",56,"$Hansen's seventh pinch homer of the year, breaking 68 yr old record","2000ARI.EVN.regular.comment.csv",20
-"ARI200009120",65,"$Finley hit on hand","2000ARI.EVN.regular.comment.csv",21
-"ARI200009130",57,"Debut game for Hiram Bocachica","2000ARI.EVN.regular.comment.csv",22
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"ARI200004190",68,"ej,buttb801,C,monte901,Balls and strikes $D-Backs coach Butterfield ejected by HP umpire Montague for arguing strike 3 to Lee","2000ARI.EVN.regular.comment.csv",2
+"ARI200005060",42,"ej,smitd001,C,reedr901,Balls and strikes (from bench) $Padres coach Smith ejected by HP umpire Reed in fourth for arguing balls and strikes from bench","2000ARI.EVN.regular.comment.csv",3
+"ARI200005250",78,"$Bell made it safely to 2nd, but went too far and was out returning to base, so not GDP","2000ARI.EVN.regular.comment.csv",4
+"ARI200005300",60,"ej,dunss001,P,gibsg901,Call at HP Shawon Dunston ejected by 1B umpire Greg Gibson","2000ARI.EVN.regular.comment.csv",5
+"ARI200005310",59,"Debut game for Mike Matthews","2000ARI.EVN.regular.comment.csv",6
+"ARI200006110",64,"DWS: this play appears to be right as it is","2000ARI.EVN.regular.comment.csv",7
+"ARI200006190",1,"originally scored S8.B-2(E8)","2000ARI.EVN.regular.comment.csv",8
+"ARI200006200",1,"Debut game for Brian Tollberg","2000ARI.EVN.regular.comment.csv",9
+"ARI200006200",40,"ej,bellj001,P,eddid901,Balls and strikes Jay Bell ejected by HP umpire Doug Eddings","2000ARI.EVN.regular.comment.csv",10
+"ARI200006210",85,"both of the above singles originally scored as E","2000ARI.EVN.regular.comment.csv",11
+"ARI200006260",65,"Debut game for Alex Cabrera $homer in first at bat in majors","2000ARI.EVN.regular.comment.csv",12
+"ARI200006270",71,"DWS: the errors are right, maybe E1 after backup","2000ARI.EVN.regular.comment.csv",13
+"ARI200006270",85,"ej,melum001,P,iassd901,Call at HP (while catching) Mitch Meluskey ejected by HP umpire Dan Iassogna","2000ARI.EVN.regular.comment.csv",14
+"ARI200006290",70,"Debut game for Jason Conti","2000ARI.EVN.regular.comment.csv",15
+"ARI200007010",52,"ej,aybam001,P,emmep901,Intentional HBP Manny Aybar ejected by HP umpire Paul Emmel","2000ARI.EVN.regular.comment.csv",16
+"ARI200007180",70,"apparently a busted squeeze","2000ARI.EVN.regular.comment.csv",17
+"ARI200008010",52,"$disputed fan interference","2000ARI.EVN.regular.comment.csv",18
+"ARI200008010",67,"$great sliding catch to end game","2000ARI.EVN.regular.comment.csv",19
+"ARI200009030",9,"last two plays really one","2000ARI.EVN.regular.comment.csv",20
+"ARI200009120",56,"$Hansen's seventh pinch homer of the year, breaking 68 yr old record","2000ARI.EVN.regular.comment.csv",21
+"ARI200009120",65,"$Finley hit on hand","2000ARI.EVN.regular.comment.csv",22
+"ARI200009130",57,"Debut game for Hiram Bocachica","2000ARI.EVN.regular.comment.csv",23

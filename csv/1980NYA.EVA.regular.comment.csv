@@ -1,35 +1,36 @@
-"NYA198004220",60,"$Willie Randolph called for interference for running inside base line","FILENAME_TX","LINE_NUMBER_CT"
-"NYA198004270",0,"30 minute rain delay before start of game","1980NYA.EVA.regular.comment.csv",2
-"NYA198005100",47,"$Eric Soderholm called for interference at 2B","1980NYA.EVA.regular.comment.csv",3
-"NYA198005120",56,"37 minute rain delay","1980NYA.EVA.regular.comment.csv",4
-"NYA198005310",57,"46 minute rain delay (10:12pm to 10:58pm)","1980NYA.EVA.regular.comment.csv",5
-"NYA198006200",35,"ej,guerm101,P,malog901,Called third strike Mario Guerrero ejected by HP umpire George Maloney","1980NYA.EVA.regular.comment.csv",6
-"NYA198006200",51,"Luis Tiant left with strained thigh","1980NYA.EVA.regular.comment.csv",7
-"NYA198006220",47,"$Mickey Klutts called for interference for running into his own batted ball","1980NYA.EVA.regular.comment.csv",8
-"NYA198006240",75,"umpchange,8,ump2b,(None) $2B umpire Voltaggio injured knee when he stepped on outfield drain when he ran out on fly ball; game was finished with 3 umpires","1980NYA.EVA.regular.comment.csv",9
-"NYA198006280",66,"Debut game for Tim Lollar","1980NYA.EVA.regular.comment.csv",10
-"NYA198007160",0,"Rain delay before start of game","1980NYA.EVA.regular.comment.csv",11
-"NYA198007190",9,"$Lou Piniella rounded 2B too far","1980NYA.EVA.regular.comment.csv",12
-"NYA198007222",0,"8 minute wind delay sometime in first; gusts to 28+ MPH","1980NYA.EVA.regular.comment.csv",13
-"NYA198007222",8,"2:09 rain delay; Bill Travers arm tightened","1980NYA.EVA.regular.comment.csv",14
-"NYA198007230",65,"$Don Money muffed the throw to 3B","1980NYA.EVA.regular.comment.csv",15
-"NYA198008090",65,"$Reggie Jackson brought ball back from over the fence","1980NYA.EVA.regular.comment.csv",16
-"NYA198008110",1,"Debut game for Leo Sutherland","1980NYA.EVA.regular.comment.csv",17
-"NYA198008110",25,"$Reggie Jackson's 400th home run","1980NYA.EVA.regular.comment.csv",18
-"NYA198008300",0,"Protest=V","1980NYA.EVA.regular.comment.csv",19
-"NYA198008300",16,"$Mariners protested game due to Gaylord Perry's red glove","1980NYA.EVA.regular.comment.csv",20
-"NYA198008310",50,"$Floyd Bannister left with strained muscle in lower back","1980NYA.EVA.regular.comment.csv",21
-"NYA198008310",67,"Rain delay with 1-1 count","1980NYA.EVA.regular.comment.csv",22
-"NYA198009020",0,"40 minute rain delay before start of game","1980NYA.EVA.regular.comment.csv",23
-"NYA198009020",11,"fan interference","1980NYA.EVA.regular.comment.csv",24
-"NYA198009020",29,"20 minute rain delay","1980NYA.EVA.regular.comment.csv",25
-"NYA198009170",0,"Suspend=19800918,NYC16,5,3,56","1980NYA.EVA.regular.comment.csv",26
-"NYA198009170",73,"ej,bailb001,P,merrd901,Called third strike Bob Bailor ejected by HP umpire Durwood Merrill","1980NYA.EVA.regular.comment.csv",27
-"NYA198009170",75,"$the ball rolled through Jackson's legs","1980NYA.EVA.regular.comment.csv",28
-"NYA198009170",76,"suspended,19800918,NYC16,rain Rain delay at 10:50pm, game later suspended and resumed 9-18","1980NYA.EVA.regular.comment.csv",29
-"NYA198009180",49,"ej,jackr001,P,cousd901,Called third strike Reggie Jackson ejected by HP umpire Derryl Cousins","1980NYA.EVA.regular.comment.csv",30
-"NYA198010020",47,"ej,andes101,M,hallb901,Ball struck runner $Oscar Gamble danced to avoid being hit by Reggie Jackson's line drive; Tigers Manager Sparky Anderson argued that Gamble had been hit by the batted ball and should be out; Anderson ejected by 1B umpire Bill Haller","1980NYA.EVA.regular.comment.csv",31
-"NYA198010020",63,"ej,kemps001,P,kaisk901,Called third strike Steve Kemp ejected by HP umpire Ken Kaiser","1980NYA.EVA.regular.comment.csv",32
-"NYA198010041",45,"Rick Peters hurt","1980NYA.EVA.regular.comment.csv",33
-"NYA198010041",62,"$Lou Whitaker caught Willie Randolph with the hidden ball trick","1980NYA.EVA.regular.comment.csv",34
-"NYA198010042",15,"Debut game for Roger Holt","1980NYA.EVA.regular.comment.csv",35
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"NYA198004220",60,"$Willie Randolph called for interference for running inside base line","1980NYA.EVA.regular.comment.csv",2
+"NYA198004270",0,"30 minute rain delay before start of game","1980NYA.EVA.regular.comment.csv",3
+"NYA198005100",47,"$Eric Soderholm called for interference at 2B","1980NYA.EVA.regular.comment.csv",4
+"NYA198005120",56,"37 minute rain delay","1980NYA.EVA.regular.comment.csv",5
+"NYA198005310",57,"46 minute rain delay (10:12pm to 10:58pm)","1980NYA.EVA.regular.comment.csv",6
+"NYA198006200",35,"ej,guerm101,P,malog901,Called third strike Mario Guerrero ejected by HP umpire George Maloney","1980NYA.EVA.regular.comment.csv",7
+"NYA198006200",51,"Luis Tiant left with strained thigh","1980NYA.EVA.regular.comment.csv",8
+"NYA198006220",47,"$Mickey Klutts called for interference for running into his own batted ball","1980NYA.EVA.regular.comment.csv",9
+"NYA198006240",75,"umpchange,8,ump2b,(None) $2B umpire Voltaggio injured knee when he stepped on outfield drain when he ran out on fly ball; game was finished with 3 umpires","1980NYA.EVA.regular.comment.csv",10
+"NYA198006280",66,"Debut game for Tim Lollar","1980NYA.EVA.regular.comment.csv",11
+"NYA198007160",0,"Rain delay before start of game","1980NYA.EVA.regular.comment.csv",12
+"NYA198007190",9,"$Lou Piniella rounded 2B too far","1980NYA.EVA.regular.comment.csv",13
+"NYA198007222",0,"8 minute wind delay sometime in first; gusts to 28+ MPH","1980NYA.EVA.regular.comment.csv",14
+"NYA198007222",8,"2:09 rain delay; Bill Travers arm tightened","1980NYA.EVA.regular.comment.csv",15
+"NYA198007230",65,"$Don Money muffed the throw to 3B","1980NYA.EVA.regular.comment.csv",16
+"NYA198008090",65,"$Reggie Jackson brought ball back from over the fence","1980NYA.EVA.regular.comment.csv",17
+"NYA198008110",1,"Debut game for Leo Sutherland","1980NYA.EVA.regular.comment.csv",18
+"NYA198008110",25,"$Reggie Jackson's 400th home run","1980NYA.EVA.regular.comment.csv",19
+"NYA198008300",0,"Protest=V","1980NYA.EVA.regular.comment.csv",20
+"NYA198008300",16,"$Mariners protested game due to Gaylord Perry's red glove","1980NYA.EVA.regular.comment.csv",21
+"NYA198008310",50,"$Floyd Bannister left with strained muscle in lower back","1980NYA.EVA.regular.comment.csv",22
+"NYA198008310",67,"Rain delay with 1-1 count","1980NYA.EVA.regular.comment.csv",23
+"NYA198009020",0,"40 minute rain delay before start of game","1980NYA.EVA.regular.comment.csv",24
+"NYA198009020",11,"fan interference","1980NYA.EVA.regular.comment.csv",25
+"NYA198009020",29,"20 minute rain delay","1980NYA.EVA.regular.comment.csv",26
+"NYA198009170",0,"Suspend=19800918,NYC16,5,3,56","1980NYA.EVA.regular.comment.csv",27
+"NYA198009170",73,"ej,bailb001,P,merrd901,Called third strike Bob Bailor ejected by HP umpire Durwood Merrill","1980NYA.EVA.regular.comment.csv",28
+"NYA198009170",75,"$the ball rolled through Jackson's legs","1980NYA.EVA.regular.comment.csv",29
+"NYA198009170",76,"suspended,19800918,NYC16,rain Rain delay at 10:50pm, game later suspended and resumed 9-18","1980NYA.EVA.regular.comment.csv",30
+"NYA198009180",49,"ej,jackr001,P,cousd901,Called third strike Reggie Jackson ejected by HP umpire Derryl Cousins","1980NYA.EVA.regular.comment.csv",31
+"NYA198010020",47,"ej,andes101,M,hallb901,Ball struck runner $Oscar Gamble danced to avoid being hit by Reggie Jackson's line drive; Tigers Manager Sparky Anderson argued that Gamble had been hit by the batted ball and should be out; Anderson ejected by 1B umpire Bill Haller","1980NYA.EVA.regular.comment.csv",32
+"NYA198010020",63,"ej,kemps001,P,kaisk901,Called third strike Steve Kemp ejected by HP umpire Ken Kaiser","1980NYA.EVA.regular.comment.csv",33
+"NYA198010041",45,"Rick Peters hurt","1980NYA.EVA.regular.comment.csv",34
+"NYA198010041",62,"$Lou Whitaker caught Willie Randolph with the hidden ball trick","1980NYA.EVA.regular.comment.csv",35
+"NYA198010042",15,"Debut game for Roger Holt","1980NYA.EVA.regular.comment.csv",36

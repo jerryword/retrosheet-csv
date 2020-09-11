@@ -1,36 +1,37 @@
-"BOS192604130",0,"$Weather; very cold and breezy","FILENAME_TX","LINE_NUMBER_CT"
-"BOS192604130",63,"$Dud Lee and Fred Haney collided","1926BOS.EVA.regular.comment.csv",2
-"BOS192604130",64,"$lost in the sun","1926BOS.EVA.regular.comment.csv",3
-"BOS192604130",85,"$Alex Gaston was caught between 3B and HP but got back to 3B; Jack Rothrock had run to the same base","1926BOS.EVA.regular.comment.csv",4
-"BOS192604130",95,"DWS: single inferred as play is missing in paper","1926BOS.EVA.regular.comment.csv",5
-"BOS192604130",97,"DWV reconstructed the ninth inning","1926BOS.EVA.regular.comment.csv",6
-"BOS192604170",0,"$Weather: Very cold and windy","1926BOS.EVA.regular.comment.csv",7
-"BOS192605070",58,"$lost in the sun","1926BOS.EVA.regular.comment.csv",8
-"BOS192605100",29,"$Phil Todt overslid 3B","1926BOS.EVA.regular.comment.csv",9
-"BOS192605130",81,"$Fothergill scored on Rosenthal's overthrow; catcher Gaston retrieved the ball and threw wildly, allowing O'Rourke to score","1926BOS.EVA.regular.comment.csv",10
-"BOS192605180",44,"McManus fell after catch.","1926BOS.EVA.regular.comment.csv",11
-"BOS192605200",19,"$lost in the sun","1926BOS.EVA.regular.comment.csv",12
-"BOS192605210",52,"$Mike Herrera called for interference for running into his own batted ball","1926BOS.EVA.regular.comment.csv",13
-"BOS192605220",74,"ej,hunnb101,P,mcgob901,Call at 3B $Bill Hunnefield ejected by 1B Umpire Bill McGowan arguing call at 3B on Fred Haney; Alex Gaston stole 2B during the argument","1926BOS.EVA.regular.comment.csv",14
-"BOS192605251",48,"$the game was delayed while players and umpires put out a fire in the grandstand","1926BOS.EVA.regular.comment.csv",15
-"BOS192605251",55,"$the ball landed about 6 rows from the top of the bleachers","1926BOS.EVA.regular.comment.csv",16
-"BOS192605311",31,"Probably a bunt","1926BOS.EVA.regular.comment.csv",17
-"BOS192606240",62,"$Babe Ruth left with Charley Horse","1926BOS.EVA.regular.comment.csv",18
-"BOS192606252",51,"$Bob Meusel injured his leg on slide","1926BOS.EVA.regular.comment.csv",19
-"BOS192607211",33,"$lost in the sun","1926BOS.EVA.regular.comment.csv",20
-"BOS192607212",62,"pbp account ends here, rest deduced","1926BOS.EVA.regular.comment.csv",21
-"BOS192607220",78,"Remainder of game imputed-11th inning from Boston Globe.","1926BOS.EVA.regular.comment.csv",22
-"BOS192607230",57,"Haney skipped in PBP.","1926BOS.EVA.regular.comment.csv",23
-"BOS192607230",81,"Remainder of game from 7/24 Boston Globe.","1926BOS.EVA.regular.comment.csv",24
-"BOS192607241",13,"$Alex Gaston tried to steal occupied 2B, forcing Fred Haney to run to 3B","1926BOS.EVA.regular.comment.csv",25
-"BOS192608122",63,"play,8,0,gallc101,??,,NP sub,russj103,'Jack Russell',1,9,1 play,8,0,gallc101,??,,S7 play,8,0,romme101,??,,13/SH.1-2 Game called due to rain after two batters in top 8","1926BOS.EVA.regular.comment.csv",26
-"BOS192608141",19,"Probably a bunt","1926BOS.EVA.regular.comment.csv",27
-"BOS192608142",47,"Not clear when Perkins entered","1926BOS.EVA.regular.comment.csv",28
-"BOS192608142",58,"Not clear when Dykes entered","1926BOS.EVA.regular.comment.csv",29
-"BOS192608162",0,"$rain throughout game","1926BOS.EVA.regular.comment.csv",30
-"BOS192608162",57,"$Game called on account of rain","1926BOS.EVA.regular.comment.csv",31
-"BOS192608210",0,"$No hit game for Ted Lyons","1926BOS.EVA.regular.comment.csv",32
-"BOS192608272",15,"$Luke Sewell rounded 2B too far","1926BOS.EVA.regular.comment.csv",33
-"BOS192608272",74,"$Freddy Spurgeon called for interference for running into his own batted ball","1926BOS.EVA.regular.comment.csv",34
-"BOS192608281",0,"$Dutch Levsen threw two complete game victories today","1926BOS.EVA.regular.comment.csv",35
-"BOS192608282",0,"$Dutch Levsen threw two complete game victories today","1926BOS.EVA.regular.comment.csv",36
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"BOS192604130",0,"$Weather; very cold and breezy","1926BOS.EVA.regular.comment.csv",2
+"BOS192604130",63,"$Dud Lee and Fred Haney collided","1926BOS.EVA.regular.comment.csv",3
+"BOS192604130",64,"$lost in the sun","1926BOS.EVA.regular.comment.csv",4
+"BOS192604130",85,"$Alex Gaston was caught between 3B and HP but got back to 3B; Jack Rothrock had run to the same base","1926BOS.EVA.regular.comment.csv",5
+"BOS192604130",95,"DWS: single inferred as play is missing in paper","1926BOS.EVA.regular.comment.csv",6
+"BOS192604130",97,"DWV reconstructed the ninth inning","1926BOS.EVA.regular.comment.csv",7
+"BOS192604170",0,"$Weather: Very cold and windy","1926BOS.EVA.regular.comment.csv",8
+"BOS192605070",58,"$lost in the sun","1926BOS.EVA.regular.comment.csv",9
+"BOS192605100",29,"$Phil Todt overslid 3B","1926BOS.EVA.regular.comment.csv",10
+"BOS192605130",81,"$Fothergill scored on Rosenthal's overthrow; catcher Gaston retrieved the ball and threw wildly, allowing O'Rourke to score","1926BOS.EVA.regular.comment.csv",11
+"BOS192605180",44,"McManus fell after catch.","1926BOS.EVA.regular.comment.csv",12
+"BOS192605200",19,"$lost in the sun","1926BOS.EVA.regular.comment.csv",13
+"BOS192605210",52,"$Mike Herrera called for interference for running into his own batted ball","1926BOS.EVA.regular.comment.csv",14
+"BOS192605220",74,"ej,hunnb101,P,mcgob901,Call at 3B $Bill Hunnefield ejected by 1B Umpire Bill McGowan arguing call at 3B on Fred Haney; Alex Gaston stole 2B during the argument","1926BOS.EVA.regular.comment.csv",15
+"BOS192605251",48,"$the game was delayed while players and umpires put out a fire in the grandstand","1926BOS.EVA.regular.comment.csv",16
+"BOS192605251",55,"$the ball landed about 6 rows from the top of the bleachers","1926BOS.EVA.regular.comment.csv",17
+"BOS192605311",31,"Probably a bunt","1926BOS.EVA.regular.comment.csv",18
+"BOS192606240",62,"$Babe Ruth left with Charley Horse","1926BOS.EVA.regular.comment.csv",19
+"BOS192606252",51,"$Bob Meusel injured his leg on slide","1926BOS.EVA.regular.comment.csv",20
+"BOS192607211",33,"$lost in the sun","1926BOS.EVA.regular.comment.csv",21
+"BOS192607212",62,"pbp account ends here, rest deduced","1926BOS.EVA.regular.comment.csv",22
+"BOS192607220",78,"Remainder of game imputed-11th inning from Boston Globe.","1926BOS.EVA.regular.comment.csv",23
+"BOS192607230",57,"Haney skipped in PBP.","1926BOS.EVA.regular.comment.csv",24
+"BOS192607230",81,"Remainder of game from 7/24 Boston Globe.","1926BOS.EVA.regular.comment.csv",25
+"BOS192607241",13,"$Alex Gaston tried to steal occupied 2B, forcing Fred Haney to run to 3B","1926BOS.EVA.regular.comment.csv",26
+"BOS192608122",63,"play,8,0,gallc101,??,,NP sub,russj103,'Jack Russell',1,9,1 play,8,0,gallc101,??,,S7 play,8,0,romme101,??,,13/SH.1-2 Game called due to rain after two batters in top 8","1926BOS.EVA.regular.comment.csv",27
+"BOS192608141",19,"Probably a bunt","1926BOS.EVA.regular.comment.csv",28
+"BOS192608142",47,"Not clear when Perkins entered","1926BOS.EVA.regular.comment.csv",29
+"BOS192608142",58,"Not clear when Dykes entered","1926BOS.EVA.regular.comment.csv",30
+"BOS192608162",0,"$rain throughout game","1926BOS.EVA.regular.comment.csv",31
+"BOS192608162",57,"$Game called on account of rain","1926BOS.EVA.regular.comment.csv",32
+"BOS192608210",0,"$No hit game for Ted Lyons","1926BOS.EVA.regular.comment.csv",33
+"BOS192608272",15,"$Luke Sewell rounded 2B too far","1926BOS.EVA.regular.comment.csv",34
+"BOS192608272",74,"$Freddy Spurgeon called for interference for running into his own batted ball","1926BOS.EVA.regular.comment.csv",35
+"BOS192608281",0,"$Dutch Levsen threw two complete game victories today","1926BOS.EVA.regular.comment.csv",36
+"BOS192608282",0,"$Dutch Levsen threw two complete game victories today","1926BOS.EVA.regular.comment.csv",37

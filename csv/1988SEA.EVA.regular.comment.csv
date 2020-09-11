@@ -1,40 +1,41 @@
-"SEA198804130",94,"ej,duncd101,C,hirsj901,Balk ej,larut101,M,hirsj901,Balk Athletics manager Tony LaRussa and coach Dave Duncan ejected by 1B umpire John Hirschbeck","FILENAME_TX","LINE_NUMBER_CT"
-"SEA198804140",0,"ej,younc001,P,garcr901,Bench jockeying (on disabled list) $Athletic Young, on disabled list, ejected by 1B umpire Garcia sometime in game","1988SEA.EVA.regular.comment.csv",2
-"SEA198804140",30,"$pop up hit speaker in foul territory, caught in fair","1988SEA.EVA.regular.comment.csv",3
-"SEA198804150",41,"ej,willd104,M,bremn901,Balls and strikes Mariners manager Dick Williams ejected by HP umpire Nick Bremigan","1988SEA.EVA.regular.comment.csv",4
-"SEA198804160",6,"$Alvin Davis pulled groin","1988SEA.EVA.regular.comment.csv",5
-"SEA198804160",64,"$Bob Boone out with hyper-extended knee","1988SEA.EVA.regular.comment.csv",6
-"SEA198804190",25,"3B Rich Renteria dropped throw from catcher Dave Valle","1988SEA.EVA.regular.comment.csv",7
-"SEA198805020",3,"$Kelly Gruber and Cecil Fielder alternated repeatedly","1988SEA.EVA.regular.comment.csv",8
-"SEA198805030",11,"$Kelly Gruber and Pat Borders switched positions throughout game","1988SEA.EVA.regular.comment.csv",9
-"SEA198805050",18,"$Mario Diaz out with neck strain","1988SEA.EVA.regular.comment.csv",10
-"SEA198805070",6,"ej,willd104,M,barnl901,Balk call Mariners manager Dick Williams ejected by 2B umpire Larry Barnett","1988SEA.EVA.regular.comment.csv",11
-"SEA198805070",51,"$liner hit Jerry Reed and fell at his feet","1988SEA.EVA.regular.comment.csv",12
-"SEA198805080",17,"$Gary Pettis out trying to score while Darrell Evans involved in rundown","1988SEA.EVA.regular.comment.csv",13
-"SEA198805310",26,"$Ed Nunez out with sore back","1988SEA.EVA.regular.comment.csv",14
-"SEA198806090",52,"ej,cotth001,P,fordd901,Called third strike $Cotto ejected by HP umpire Ford for arguing called third strike","1988SEA.EVA.regular.comment.csv",15
-"SEA198806100",37,"$ball hit speaker wire","1988SEA.EVA.regular.comment.csv",16
-"SEA198806100",70,"Debut game for Mike Schooler","1988SEA.EVA.regular.comment.csv",17
-"SEA198806120",29,"$Gene Larkin's foul hit speaker","1988SEA.EVA.regular.comment.csv",18
-"SEA198806270",21,"Debut game for Greg Briley","1988SEA.EVA.regular.comment.csv",19
-"SEA198806270",30,"$Mike Stanley injured running out the double","1988SEA.EVA.regular.comment.csv",20
-"SEA198807140",30,"$Ron Washington lost ball in lights","1988SEA.EVA.regular.comment.csv",21
-"SEA198807150",12,"$first Mariner homer into 3rd deck, 442 ft","1988SEA.EVA.regular.comment.csv",22
-"SEA198807160",25,"$delayed steal, came as ball was being thrown back to Bud Black","1988SEA.EVA.regular.comment.csv",23
-"SEA198807230",20,"451' HR","1988SEA.EVA.regular.comment.csv",24
-"SEA198807230",54,"$Tony Fernandez held up on deep fly, causing him to be out at HP","1988SEA.EVA.regular.comment.csv",25
-"SEA198807240",58,"437 ft. HR","1988SEA.EVA.regular.comment.csv",26
-"SEA198807290",47,"$Bob Welch left game with injured hamstring","1988SEA.EVA.regular.comment.csv",27
-"SEA198807310",4,"$ball deflected off pitcher's leg","1988SEA.EVA.regular.comment.csv",28
-"SEA198808010",22,"$Wally Joyner called for obstruction","1988SEA.EVA.regular.comment.csv",29
-"SEA198808020",29,"Debut game for Bill McGuire","1988SEA.EVA.regular.comment.csv",30
-"SEA198808270",55,"$ball hit hard off pitcher Bill Swift's leg","1988SEA.EVA.regular.comment.csv",31
-"SEA198808290",81,"DWS: official totals call first run unearned. Can't be","1988SEA.EVA.regular.comment.csv",32
-"SEA198808300",56,"ej,dotsr001,P,mcclt901,Intentional HBP Richard Dotson ejected by HP umpire Tim McClelland","1988SEA.EVA.regular.comment.csv",33
-"SEA198808300",67,"$Claudell Washington injured fielding Rey Quinones ball","1988SEA.EVA.regular.comment.csv",34
-"SEA198809020",63,"Debut game for Gregg Olson","1988SEA.EVA.regular.comment.csv",35
-"SEA198809040",20,"$Jeff Ballard hit on elbow by liner on last out in the second","1988SEA.EVA.regular.comment.csv",36
-"SEA198809170",35,"Darnell Coles scored while Alvin Davis being thrown out","1988SEA.EVA.regular.comment.csv",37
-"SEA198809210",19,"$Kevin Seitzer and Jim Eisenreich both at 3B","1988SEA.EVA.regular.comment.csv",38
-"SEA198809290",39,"$ball hit speaker","1988SEA.EVA.regular.comment.csv",39
-"SEA198810010",76,"$Darnell Coles injured on previous play","1988SEA.EVA.regular.comment.csv",40
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"SEA198804130",94,"ej,duncd101,C,hirsj901,Balk ej,larut101,M,hirsj901,Balk Athletics manager Tony LaRussa and coach Dave Duncan ejected by 1B umpire John Hirschbeck","1988SEA.EVA.regular.comment.csv",2
+"SEA198804140",0,"ej,younc001,P,garcr901,Bench jockeying (on disabled list) $Athletic Young, on disabled list, ejected by 1B umpire Garcia sometime in game","1988SEA.EVA.regular.comment.csv",3
+"SEA198804140",30,"$pop up hit speaker in foul territory, caught in fair","1988SEA.EVA.regular.comment.csv",4
+"SEA198804150",41,"ej,willd104,M,bremn901,Balls and strikes Mariners manager Dick Williams ejected by HP umpire Nick Bremigan","1988SEA.EVA.regular.comment.csv",5
+"SEA198804160",6,"$Alvin Davis pulled groin","1988SEA.EVA.regular.comment.csv",6
+"SEA198804160",64,"$Bob Boone out with hyper-extended knee","1988SEA.EVA.regular.comment.csv",7
+"SEA198804190",25,"3B Rich Renteria dropped throw from catcher Dave Valle","1988SEA.EVA.regular.comment.csv",8
+"SEA198805020",3,"$Kelly Gruber and Cecil Fielder alternated repeatedly","1988SEA.EVA.regular.comment.csv",9
+"SEA198805030",11,"$Kelly Gruber and Pat Borders switched positions throughout game","1988SEA.EVA.regular.comment.csv",10
+"SEA198805050",18,"$Mario Diaz out with neck strain","1988SEA.EVA.regular.comment.csv",11
+"SEA198805070",6,"ej,willd104,M,barnl901,Balk call Mariners manager Dick Williams ejected by 2B umpire Larry Barnett","1988SEA.EVA.regular.comment.csv",12
+"SEA198805070",51,"$liner hit Jerry Reed and fell at his feet","1988SEA.EVA.regular.comment.csv",13
+"SEA198805080",17,"$Gary Pettis out trying to score while Darrell Evans involved in rundown","1988SEA.EVA.regular.comment.csv",14
+"SEA198805310",26,"$Ed Nunez out with sore back","1988SEA.EVA.regular.comment.csv",15
+"SEA198806090",52,"ej,cotth001,P,fordd901,Called third strike $Cotto ejected by HP umpire Ford for arguing called third strike","1988SEA.EVA.regular.comment.csv",16
+"SEA198806100",37,"$ball hit speaker wire","1988SEA.EVA.regular.comment.csv",17
+"SEA198806100",70,"Debut game for Mike Schooler","1988SEA.EVA.regular.comment.csv",18
+"SEA198806120",29,"$Gene Larkin's foul hit speaker","1988SEA.EVA.regular.comment.csv",19
+"SEA198806270",21,"Debut game for Greg Briley","1988SEA.EVA.regular.comment.csv",20
+"SEA198806270",30,"$Mike Stanley injured running out the double","1988SEA.EVA.regular.comment.csv",21
+"SEA198807140",30,"$Ron Washington lost ball in lights","1988SEA.EVA.regular.comment.csv",22
+"SEA198807150",12,"$first Mariner homer into 3rd deck, 442 ft","1988SEA.EVA.regular.comment.csv",23
+"SEA198807160",25,"$delayed steal, came as ball was being thrown back to Bud Black","1988SEA.EVA.regular.comment.csv",24
+"SEA198807230",20,"451' HR","1988SEA.EVA.regular.comment.csv",25
+"SEA198807230",54,"$Tony Fernandez held up on deep fly, causing him to be out at HP","1988SEA.EVA.regular.comment.csv",26
+"SEA198807240",58,"437 ft. HR","1988SEA.EVA.regular.comment.csv",27
+"SEA198807290",47,"$Bob Welch left game with injured hamstring","1988SEA.EVA.regular.comment.csv",28
+"SEA198807310",4,"$ball deflected off pitcher's leg","1988SEA.EVA.regular.comment.csv",29
+"SEA198808010",22,"$Wally Joyner called for obstruction","1988SEA.EVA.regular.comment.csv",30
+"SEA198808020",29,"Debut game for Bill McGuire","1988SEA.EVA.regular.comment.csv",31
+"SEA198808270",55,"$ball hit hard off pitcher Bill Swift's leg","1988SEA.EVA.regular.comment.csv",32
+"SEA198808290",81,"DWS: official totals call first run unearned. Can't be","1988SEA.EVA.regular.comment.csv",33
+"SEA198808300",56,"ej,dotsr001,P,mcclt901,Intentional HBP Richard Dotson ejected by HP umpire Tim McClelland","1988SEA.EVA.regular.comment.csv",34
+"SEA198808300",67,"$Claudell Washington injured fielding Rey Quinones ball","1988SEA.EVA.regular.comment.csv",35
+"SEA198809020",63,"Debut game for Gregg Olson","1988SEA.EVA.regular.comment.csv",36
+"SEA198809040",20,"$Jeff Ballard hit on elbow by liner on last out in the second","1988SEA.EVA.regular.comment.csv",37
+"SEA198809170",35,"Darnell Coles scored while Alvin Davis being thrown out","1988SEA.EVA.regular.comment.csv",38
+"SEA198809210",19,"$Kevin Seitzer and Jim Eisenreich both at 3B","1988SEA.EVA.regular.comment.csv",39
+"SEA198809290",39,"$ball hit speaker","1988SEA.EVA.regular.comment.csv",40
+"SEA198810010",76,"$Darnell Coles injured on previous play","1988SEA.EVA.regular.comment.csv",41

@@ -1,27 +1,28 @@
-"CHN194104150",1,"$the ball caromed off Claude Passeau's leg to Clyde McCullough","FILENAME_TX","LINE_NUMBER_CT"
-"CHN194104260",37,"$Foul tip split McCullough's right hand.","1941CHN.EVN.regular.comment.csv",2
-"CHN194104260",39,"$Herman injured in collision with Brown and was replaced.","1941CHN.EVN.regular.comment.csv",3
-"CHN194105170",52,"$McCullough threw to second, but Whithead took off for third and made it for a stolen base","1941CHN.EVN.regular.comment.csv",4
-"CHN194105170",65,"$Throw to second was too late for force, but they got batter","1941CHN.EVN.regular.comment.csv",5
-"CHN194105200",54,"arbitrary 7 to 9","1941CHN.EVN.regular.comment.csv",6
-"CHN194105210",14,"Mooty replaced Erickson with the count 3-1 on May","1941CHN.EVN.regular.comment.csv",7
-"CHN194105210",44,"ej,warrb102,P,jordl901,Call at HP $May threw to Warren who chased Hack back to third. Warren was ejected by Umpire Jorda arguing that he tagged Hack.","1941CHN.EVN.regular.comment.csv",8
-"CHN194105241",8,"$Lonny Frey spiked on his right foot","1941CHN.EVN.regular.comment.csv",9
-"CHN194106140",0,"$48 minute rain delay at start","1941CHN.EVN.regular.comment.csv",10
-"CHN194106140",29,"$When Rizzo bobbled the ball, Cavarretta headed for second, but Leiber had stumbled rounding second and was still there. Cavarretta was run down trying to get back to first.","1941CHN.EVN.regular.comment.csv",11
-"CHN194106140",52,"$17 minute rain delay","1941CHN.EVN.regular.comment.csv",12
-"CHN194106152",30,"$May and Podgajny almost had a fight on the pitcher's mound. May walked the ball to the mound and said 'Don't give up'. Podgajny took offense and they had to be separated by 3B Umpire Goetz. May and Podgajny apologized to each other at the end of the inning.","1941CHN.EVN.regular.comment.csv",13
-"CHN194106240",14,"$Ott injured finger fielding ball.","1941CHN.EVN.regular.comment.csv",14
-"CHN194106240",70,"$Leiber hit in head and taken to hospital.","1941CHN.EVN.regular.comment.csv",15
-"CHN194106240",75,"Not certain when Moore entered.","1941CHN.EVN.regular.comment.csv",16
-"CHN194106270",64,"$A fan ran onto the field and positioned himself as a fifth infielder to the right of second. Upon being chased by four policemen, the fan slid into third base with what the New York Times called 'a perfect hook slide'. After also sliding into second base, the fan was apprehended and arrested for 'disorderly conduct'.","1941CHN.EVN.regular.comment.csv",17
-"CHN194106270",65,"$Nicholson's hit cut Fletcher above the right eye","1941CHN.EVN.regular.comment.csv",18
-"CHN194106270",69,"$Nicholson knocked over Cavarretta as he was about to catch Sewell's routine fly ball.","1941CHN.EVN.regular.comment.csv",19
-"CHN194106270",73,"$Cavarretta made the catch despite being 'knocked on the seat of his pants' by Stringer.","1941CHN.EVN.regular.comment.csv",20
-"CHN194106280",0,"$The start of the game was delayed one hour due to rain.","1941CHN.EVN.regular.comment.csv",21
-"CHN194107260",83,"$Passeau hurt on slide","1941CHN.EVN.regular.comment.csv",22
-"CHN194108020",10,"ej,durol101,M,stewb901,Call at 2B (Reversed) ej,wyatw101,P,dunnt901,Call at 2B (Reversed) $1B umpire Tom Dunn called Dom Dallessandro out at 2B; Cubs manager Jim Wilson claimed that Peewee Reese dropped the ball; Dunn had ruled that the drop was during the transfer of the ball to Reese's throwing hand; Dunn huddled with 3B umpire Bill Stewart and then reversed the ruling to safe; Whit Wyatt and Dodgers Manager Leo Durocher ejected by Stewart","1941CHN.EVN.regular.comment.csv",23
-"CHN194108050",41,"$Lake missed second, but got out at 1st; error, no RBI and runs unearned","1941CHN.EVN.regular.comment.csv",24
-"CHN194109011",65,"$Billy Werber called for interference","1941CHN.EVN.regular.comment.csv",25
-"CHN194109270",57,"$Cavarretta crashed into wall and had to be replaced.","1941CHN.EVN.regular.comment.csv",26
-"CHN194109280",69,"$Musial initially held 3b, but scored when Nicholson's throw got away from Scheffing.","1941CHN.EVN.regular.comment.csv",27
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"CHN194104150",1,"$the ball caromed off Claude Passeau's leg to Clyde McCullough","1941CHN.EVN.regular.comment.csv",2
+"CHN194104260",37,"$Foul tip split McCullough's right hand.","1941CHN.EVN.regular.comment.csv",3
+"CHN194104260",39,"$Herman injured in collision with Brown and was replaced.","1941CHN.EVN.regular.comment.csv",4
+"CHN194105170",52,"$McCullough threw to second, but Whithead took off for third and made it for a stolen base","1941CHN.EVN.regular.comment.csv",5
+"CHN194105170",65,"$Throw to second was too late for force, but they got batter","1941CHN.EVN.regular.comment.csv",6
+"CHN194105200",54,"arbitrary 7 to 9","1941CHN.EVN.regular.comment.csv",7
+"CHN194105210",14,"Mooty replaced Erickson with the count 3-1 on May","1941CHN.EVN.regular.comment.csv",8
+"CHN194105210",44,"ej,warrb102,P,jordl901,Call at HP $May threw to Warren who chased Hack back to third. Warren was ejected by Umpire Jorda arguing that he tagged Hack.","1941CHN.EVN.regular.comment.csv",9
+"CHN194105241",8,"$Lonny Frey spiked on his right foot","1941CHN.EVN.regular.comment.csv",10
+"CHN194106140",0,"$48 minute rain delay at start","1941CHN.EVN.regular.comment.csv",11
+"CHN194106140",29,"$When Rizzo bobbled the ball, Cavarretta headed for second, but Leiber had stumbled rounding second and was still there. Cavarretta was run down trying to get back to first.","1941CHN.EVN.regular.comment.csv",12
+"CHN194106140",52,"$17 minute rain delay","1941CHN.EVN.regular.comment.csv",13
+"CHN194106152",30,"$May and Podgajny almost had a fight on the pitcher's mound. May walked the ball to the mound and said 'Don't give up'. Podgajny took offense and they had to be separated by 3B Umpire Goetz. May and Podgajny apologized to each other at the end of the inning.","1941CHN.EVN.regular.comment.csv",14
+"CHN194106240",14,"$Ott injured finger fielding ball.","1941CHN.EVN.regular.comment.csv",15
+"CHN194106240",70,"$Leiber hit in head and taken to hospital.","1941CHN.EVN.regular.comment.csv",16
+"CHN194106240",75,"Not certain when Moore entered.","1941CHN.EVN.regular.comment.csv",17
+"CHN194106270",64,"$A fan ran onto the field and positioned himself as a fifth infielder to the right of second. Upon being chased by four policemen, the fan slid into third base with what the New York Times called 'a perfect hook slide'. After also sliding into second base, the fan was apprehended and arrested for 'disorderly conduct'.","1941CHN.EVN.regular.comment.csv",18
+"CHN194106270",65,"$Nicholson's hit cut Fletcher above the right eye","1941CHN.EVN.regular.comment.csv",19
+"CHN194106270",69,"$Nicholson knocked over Cavarretta as he was about to catch Sewell's routine fly ball.","1941CHN.EVN.regular.comment.csv",20
+"CHN194106270",73,"$Cavarretta made the catch despite being 'knocked on the seat of his pants' by Stringer.","1941CHN.EVN.regular.comment.csv",21
+"CHN194106280",0,"$The start of the game was delayed one hour due to rain.","1941CHN.EVN.regular.comment.csv",22
+"CHN194107260",83,"$Passeau hurt on slide","1941CHN.EVN.regular.comment.csv",23
+"CHN194108020",10,"ej,durol101,M,stewb901,Call at 2B (Reversed) ej,wyatw101,P,dunnt901,Call at 2B (Reversed) $1B umpire Tom Dunn called Dom Dallessandro out at 2B; Cubs manager Jim Wilson claimed that Peewee Reese dropped the ball; Dunn had ruled that the drop was during the transfer of the ball to Reese's throwing hand; Dunn huddled with 3B umpire Bill Stewart and then reversed the ruling to safe; Whit Wyatt and Dodgers Manager Leo Durocher ejected by Stewart","1941CHN.EVN.regular.comment.csv",24
+"CHN194108050",41,"$Lake missed second, but got out at 1st; error, no RBI and runs unearned","1941CHN.EVN.regular.comment.csv",25
+"CHN194109011",65,"$Billy Werber called for interference","1941CHN.EVN.regular.comment.csv",26
+"CHN194109270",57,"$Cavarretta crashed into wall and had to be replaced.","1941CHN.EVN.regular.comment.csv",27
+"CHN194109280",69,"$Musial initially held 3b, but scored when Nicholson's throw got away from Scheffing.","1941CHN.EVN.regular.comment.csv",28

@@ -1,14 +1,15 @@
-"PHI198104130",9,"umpchange,1,umphome,steld901 umpchange,1,ump2b,(None) $HP umpire West left when hit on head by bat; 2B umpire Stello went behind plate and game finished with 3 umpires","FILENAME_TX","LINE_NUMBER_CT"
-"PHI198104150",0,"$Umpire Dick Stello missed game after suffering a lower back injury in a car accident","1981PHI.EVN.regular.comment.csv",2
-"PHI198104290",3,"$Steve Carlton's 3000th career strikeout","1981PHI.EVN.regular.comment.csv",3
-"PHI198106010",9,"$Manny Trillo left with strained hamstring","1981PHI.EVN.regular.comment.csv",4
-"PHI198106090",45,"Debut game for Billy Smith","1981PHI.EVN.regular.comment.csv",5
-"PHI198108240",75,"ej,bowal001,P,fiels901,Call at 2B (Threw glove) ej,greed101,M,fiels901,Call at 2B (Took umpire's hat) $Larry Bowa missed 2B bag on DP try; Bowa argued with 2B umpire Steve Fields; when Bowa threw his glove, he was ejected by Fields; Phillies manager Dallas Green bumped Fields during the argument and threw Fields' hat on the ground; Green ejected by Fields","1981PHI.EVN.regular.comment.csv",6
-"PHI198109030",43,"Debut game for Len Matuszek","1981PHI.EVN.regular.comment.csv",7
-"PHI198109070",61,"ej,wallt001,P,colon901,Call at 3B Tim Wallach ejected by 3B umpire Nick Colosi","1981PHI.EVN.regular.comment.csv",8
-"PHI198109080",40,"Debut game for Bryn Smith","1981PHI.EVN.regular.comment.csv",9
-"PHI198109080",42,"Debut game for Wallace Johnson","1981PHI.EVN.regular.comment.csv",10
-"PHI198109090",87,"Debut game for Pat Rooney","1981PHI.EVN.regular.comment.csv",11
-"PHI198109180",0,"39 minute rain delay before start of game","1981PHI.EVN.regular.comment.csv",12
-"PHI198110010",63,"2:59 rain delay (9:22pm - 11:21pm)","1981PHI.EVN.regular.comment.csv",13
-"PHI198110030",0,"ej,bowal001,P,,Bench jockeying Larry Bowa ejected by unknown umpire sometime during game from bench","1981PHI.EVN.regular.comment.csv",14
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"PHI198104130",9,"umpchange,1,umphome,steld901 umpchange,1,ump2b,(None) $HP umpire West left when hit on head by bat; 2B umpire Stello went behind plate and game finished with 3 umpires","1981PHI.EVN.regular.comment.csv",2
+"PHI198104150",0,"$Umpire Dick Stello missed game after suffering a lower back injury in a car accident","1981PHI.EVN.regular.comment.csv",3
+"PHI198104290",3,"$Steve Carlton's 3000th career strikeout","1981PHI.EVN.regular.comment.csv",4
+"PHI198106010",9,"$Manny Trillo left with strained hamstring","1981PHI.EVN.regular.comment.csv",5
+"PHI198106090",45,"Debut game for Billy Smith","1981PHI.EVN.regular.comment.csv",6
+"PHI198108240",75,"ej,bowal001,P,fiels901,Call at 2B (Threw glove) ej,greed101,M,fiels901,Call at 2B (Took umpire's hat) $Larry Bowa missed 2B bag on DP try; Bowa argued with 2B umpire Steve Fields; when Bowa threw his glove, he was ejected by Fields; Phillies manager Dallas Green bumped Fields during the argument and threw Fields' hat on the ground; Green ejected by Fields","1981PHI.EVN.regular.comment.csv",7
+"PHI198109030",43,"Debut game for Len Matuszek","1981PHI.EVN.regular.comment.csv",8
+"PHI198109070",61,"ej,wallt001,P,colon901,Call at 3B Tim Wallach ejected by 3B umpire Nick Colosi","1981PHI.EVN.regular.comment.csv",9
+"PHI198109080",40,"Debut game for Bryn Smith","1981PHI.EVN.regular.comment.csv",10
+"PHI198109080",42,"Debut game for Wallace Johnson","1981PHI.EVN.regular.comment.csv",11
+"PHI198109090",87,"Debut game for Pat Rooney","1981PHI.EVN.regular.comment.csv",12
+"PHI198109180",0,"39 minute rain delay before start of game","1981PHI.EVN.regular.comment.csv",13
+"PHI198110010",63,"2:59 rain delay (9:22pm - 11:21pm)","1981PHI.EVN.regular.comment.csv",14
+"PHI198110030",0,"ej,bowal001,P,,Bench jockeying Larry Bowa ejected by unknown umpire sometime during game from bench","1981PHI.EVN.regular.comment.csv",15

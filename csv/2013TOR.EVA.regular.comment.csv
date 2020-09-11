@@ -1,32 +1,33 @@
-"TOR201304050",31,"Red Sox shortstop Jose Iglesias left the game due to an injured arm","FILENAME_TX","LINE_NUMBER_CT"
-"TOR201304060",40,"Red Sox pitcher John Lackey left the game due to an injured arm","2013TOR.EVA.regular.comment.csv",2
-"TOR201304180",48,"Blue Jays pitcher R. A. Dickey left the game due to an injured back","2013TOR.EVA.regular.comment.csv",3
-"TOR201304200",36,"originally scored as single, changed to error on 4-22-2013, lost two RBI and made run unearned","2013TOR.EVA.regular.comment.csv",4
-"TOR201304200",44,"Yankees first baseman Kevin Youkilis left the game due to an injured back","2013TOR.EVA.regular.comment.csv",5
-"TOR201305010",26,"$into the third deck","2013TOR.EVA.regular.comment.csv",6
-"TOR201305010",55,"$into the fourth deck, one level lower than the hotel","2013TOR.EVA.regular.comment.csv",7
-"TOR201305210",50,"Rays left fielder Matt Joyce left the game due to an injured leg","2013TOR.EVA.regular.comment.csv",8
-"TOR201305230",58,"fan interference","2013TOR.EVA.regular.comment.csv",9
-"TOR201305240",37,"ej,lawrb002,P,belld901,Called third strike (Threw equipment) ej,gibbj001,M,belld901,Called third strike $Blue Jays third baseman Brett Lawrie threw his helmet and bat down after being called out on strikes; he was assessed an euiqpment fine by HP umpire Dan Bellino; as Lawrie walked up the 3B line, he threw his gloves back toward HP and Bellino and was ejected by Bellino; Blue Jays Manager John Gibbons came out to talk and was ejected by Bellino for arguing the strike zone","2013TOR.EVA.regular.comment.csv",10
-"TOR201305270",52,"Blue Jays third baseman Brett Lawrie left the game due to an injured ankle","2013TOR.EVA.regular.comment.csv",11
-"TOR201306080",39,"originally scored as E5, changed to single on 6-12-2013","2013TOR.EVA.regular.comment.csv",12
-"TOR201306090",80,"ej,bautj002,P,darlg901,Balls and strikes (Threw equipment) $Bautista ejected by HP umpire Darling for arguing balls and strikes; he threw equipment during argument","2013TOR.EVA.regular.comment.csv",13
-"TOR201306210",10,"ej,showb801,M,herna901,Balls and strikes (Reversed) $Chris Davis swung at a pitch that was called a foul ball by HP umpire Angel Hernandez; Davis has started running to 1B when the pitch was not caught by Josh Thole, who retrieved the ball and threw it to 1B; the Blue Jays complained that Davis had mossed the pitch so the umpires huddled and reversed the call to a swing and a miss; Orioles Manager Buck Showalter ejected by Hernandez","2013TOR.EVA.regular.comment.csv",14
-"TOR201306220",30,"originally sored E4, changed to single on 6-27-2013, making his run earned","2013TOR.EVA.regular.comment.csv",15
-"TOR201307020",78,"ej,gibbj001,M,porta901,Balls and strikes Blue Jays Manager John Gibbons ejected by HP umpire Alan Porter; Porter called the third pitch to Munenori Kawasaki a foul ball on a bunt attempt and Gibbons disputed the call","2013TOR.EVA.regular.comment.csv",16
-"TOR201307030",36,"Tigers second baseman Omar Infante left the game due to an injured leg","2013TOR.EVA.regular.comment.csv",17
-"TOR201307060",55,"Twins right fielder Oswaldo Arcia left the game due to an injured hand","2013TOR.EVA.regular.comment.csv",18
-"TOR201307220",60,"previous unearned run changed to TUR on 7-31-2013; run now earned for Cecil","2013TOR.EVA.regular.comment.csv",19
-"TOR201307260",65,"Astros left fielder J. D. Martinez left the game due to an injured wrist","2013TOR.EVA.regular.comment.csv",20
-"TOR201307270",54,"Astros second baseman Jose Altuve left the game due to an injured leg","2013TOR.EVA.regular.comment.csv",21
-"TOR201307280",52,"replay,6,encae001,TOR,westj901,TOR02,O,N,I,,H $Edwin Encarnacion's fly ball struck the padded wall in the shadows in CF; the ball was ruled in play and Encarnacion reached 2B; crew chief Joe West watched the replay and upheld the call","2013TOR.EVA.regular.comment.csv",22
-"TOR201307280",63,"ej,bautj002,P,holbs901,Balls and strikes Blue Jays designated hitter Jose Bautista ejected by HP umpire Sam Holbrook","2013TOR.EVA.regular.comment.csv",23
-"TOR201308140",76,"originally scored as E5, changed to single on 08-21-2013","2013TOR.EVA.regular.comment.csv",24
-"TOR201308270",9,"Yankees second baseman Robinson Cano left the game due to an injured hand","2013TOR.EVA.regular.comment.csv",25
-"TOR201308300",56,"originally scored as single, changed to E3 on 09-09-2013, making Escobar's run unearaned","2013TOR.EVA.regular.comment.csv",26
-"TOR201308310",66,"this run was orignally TUR, changed to UR on 9-03-2013","2013TOR.EVA.regular.comment.csv",27
-"TOR201308310",66,"ej,yoste001,M,littw901,Balls and strikes Royals Manager Ned Yost ejected by HP umpire Will Little; Yost yelled about the last pitch to Rajai Davis then walked to the mound to change pitchers; Yost continued to yell from the mound","2013TOR.EVA.regular.comment.csv",28
-"TOR201309010",17,"$Jose Reyes called for obstruction during a rundown; he got in Jarrod Dyson's way","2013TOR.EVA.regular.comment.csv",29
-"TOR201309150",50,"Orioles pitcher Miguel Gonzalez left the game due to an injured groin","2013TOR.EVA.regular.comment.csv",30
-"TOR201309190",7,"$Chris Stewart ran Jose Reyes back to 3B, where Brett Lawrie had arrived; Mark Reynolds tagged Lawrie who was standing on the bag; Reyes was sitting on the ground next to the bag in foul territory and Reynolds tagged Reyes; Lawrie was called out because he was the trail runner; Reyes had possession of the base legally but was was touching the base so he was called out","2013TOR.EVA.regular.comment.csv",31
-"TOR201309290",62,"ej,maddj801,M,schrp901,Balls and strikes $Rays manager Maddon ejected by HP umpire Schrieber for arguing balls and strikes during mound visit","2013TOR.EVA.regular.comment.csv",32
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"TOR201304050",31,"Red Sox shortstop Jose Iglesias left the game due to an injured arm","2013TOR.EVA.regular.comment.csv",2
+"TOR201304060",40,"Red Sox pitcher John Lackey left the game due to an injured arm","2013TOR.EVA.regular.comment.csv",3
+"TOR201304180",48,"Blue Jays pitcher R. A. Dickey left the game due to an injured back","2013TOR.EVA.regular.comment.csv",4
+"TOR201304200",36,"originally scored as single, changed to error on 4-22-2013, lost two RBI and made run unearned","2013TOR.EVA.regular.comment.csv",5
+"TOR201304200",44,"Yankees first baseman Kevin Youkilis left the game due to an injured back","2013TOR.EVA.regular.comment.csv",6
+"TOR201305010",26,"$into the third deck","2013TOR.EVA.regular.comment.csv",7
+"TOR201305010",55,"$into the fourth deck, one level lower than the hotel","2013TOR.EVA.regular.comment.csv",8
+"TOR201305210",50,"Rays left fielder Matt Joyce left the game due to an injured leg","2013TOR.EVA.regular.comment.csv",9
+"TOR201305230",58,"fan interference","2013TOR.EVA.regular.comment.csv",10
+"TOR201305240",37,"ej,lawrb002,P,belld901,Called third strike (Threw equipment) ej,gibbj001,M,belld901,Called third strike $Blue Jays third baseman Brett Lawrie threw his helmet and bat down after being called out on strikes; he was assessed an euiqpment fine by HP umpire Dan Bellino; as Lawrie walked up the 3B line, he threw his gloves back toward HP and Bellino and was ejected by Bellino; Blue Jays Manager John Gibbons came out to talk and was ejected by Bellino for arguing the strike zone","2013TOR.EVA.regular.comment.csv",11
+"TOR201305270",52,"Blue Jays third baseman Brett Lawrie left the game due to an injured ankle","2013TOR.EVA.regular.comment.csv",12
+"TOR201306080",39,"originally scored as E5, changed to single on 6-12-2013","2013TOR.EVA.regular.comment.csv",13
+"TOR201306090",80,"ej,bautj002,P,darlg901,Balls and strikes (Threw equipment) $Bautista ejected by HP umpire Darling for arguing balls and strikes; he threw equipment during argument","2013TOR.EVA.regular.comment.csv",14
+"TOR201306210",10,"ej,showb801,M,herna901,Balls and strikes (Reversed) $Chris Davis swung at a pitch that was called a foul ball by HP umpire Angel Hernandez; Davis has started running to 1B when the pitch was not caught by Josh Thole, who retrieved the ball and threw it to 1B; the Blue Jays complained that Davis had mossed the pitch so the umpires huddled and reversed the call to a swing and a miss; Orioles Manager Buck Showalter ejected by Hernandez","2013TOR.EVA.regular.comment.csv",15
+"TOR201306220",30,"originally sored E4, changed to single on 6-27-2013, making his run earned","2013TOR.EVA.regular.comment.csv",16
+"TOR201307020",78,"ej,gibbj001,M,porta901,Balls and strikes Blue Jays Manager John Gibbons ejected by HP umpire Alan Porter; Porter called the third pitch to Munenori Kawasaki a foul ball on a bunt attempt and Gibbons disputed the call","2013TOR.EVA.regular.comment.csv",17
+"TOR201307030",36,"Tigers second baseman Omar Infante left the game due to an injured leg","2013TOR.EVA.regular.comment.csv",18
+"TOR201307060",55,"Twins right fielder Oswaldo Arcia left the game due to an injured hand","2013TOR.EVA.regular.comment.csv",19
+"TOR201307220",60,"previous unearned run changed to TUR on 7-31-2013; run now earned for Cecil","2013TOR.EVA.regular.comment.csv",20
+"TOR201307260",65,"Astros left fielder J. D. Martinez left the game due to an injured wrist","2013TOR.EVA.regular.comment.csv",21
+"TOR201307270",54,"Astros second baseman Jose Altuve left the game due to an injured leg","2013TOR.EVA.regular.comment.csv",22
+"TOR201307280",52,"replay,6,encae001,TOR,westj901,TOR02,O,N,I,,H $Edwin Encarnacion's fly ball struck the padded wall in the shadows in CF; the ball was ruled in play and Encarnacion reached 2B; crew chief Joe West watched the replay and upheld the call","2013TOR.EVA.regular.comment.csv",23
+"TOR201307280",63,"ej,bautj002,P,holbs901,Balls and strikes Blue Jays designated hitter Jose Bautista ejected by HP umpire Sam Holbrook","2013TOR.EVA.regular.comment.csv",24
+"TOR201308140",76,"originally scored as E5, changed to single on 08-21-2013","2013TOR.EVA.regular.comment.csv",25
+"TOR201308270",9,"Yankees second baseman Robinson Cano left the game due to an injured hand","2013TOR.EVA.regular.comment.csv",26
+"TOR201308300",56,"originally scored as single, changed to E3 on 09-09-2013, making Escobar's run unearaned","2013TOR.EVA.regular.comment.csv",27
+"TOR201308310",66,"this run was orignally TUR, changed to UR on 9-03-2013","2013TOR.EVA.regular.comment.csv",28
+"TOR201308310",66,"ej,yoste001,M,littw901,Balls and strikes Royals Manager Ned Yost ejected by HP umpire Will Little; Yost yelled about the last pitch to Rajai Davis then walked to the mound to change pitchers; Yost continued to yell from the mound","2013TOR.EVA.regular.comment.csv",29
+"TOR201309010",17,"$Jose Reyes called for obstruction during a rundown; he got in Jarrod Dyson's way","2013TOR.EVA.regular.comment.csv",30
+"TOR201309150",50,"Orioles pitcher Miguel Gonzalez left the game due to an injured groin","2013TOR.EVA.regular.comment.csv",31
+"TOR201309190",7,"$Chris Stewart ran Jose Reyes back to 3B, where Brett Lawrie had arrived; Mark Reynolds tagged Lawrie who was standing on the bag; Reyes was sitting on the ground next to the bag in foul territory and Reynolds tagged Reyes; Lawrie was called out because he was the trail runner; Reyes had possession of the base legally but was was touching the base so he was called out","2013TOR.EVA.regular.comment.csv",32
+"TOR201309290",62,"ej,maddj801,M,schrp901,Balls and strikes $Rays manager Maddon ejected by HP umpire Schrieber for arguing balls and strikes during mound visit","2013TOR.EVA.regular.comment.csv",33

@@ -1,37 +1,38 @@
-"HOU200604050",6,"fan interference","FILENAME_TX","LINE_NUMBER_CT"
-"HOU200604070",43,"Nationals right fielder Jose Guillen left the game due to an injured arm","2006HOU.EVN.regular.comment.csv",2
-"HOU200604090",79,"fan interference","2006HOU.EVN.regular.comment.csv",3
-"HOU200604190",0,"$Debut for umpire Adrian Johnson","2006HOU.EVN.regular.comment.csv",4
-"HOU200604210",4,"ej,garnp001,M,reedr901,Umpire's actions towards pitcher $Astros pitcher Wandy Rodriguez reacted to a couple of pitch calls by HP umpire Rick Reed; after the second time, Reed went out to the mound to tell Rodriguez to stop; Astros Manager Phil Garner went onto the field to object to Reed's actions and was ejected by Reed","2006HOU.EVN.regular.comment.csv",5
-"HOU200604250",41,"Astros shortstop Adam Everett left the game due to an injured hand/wrist","2006HOU.EVN.regular.comment.csv",6
-"HOU200604250",77,"originally scored as DI, changed next day","2006HOU.EVN.regular.comment.csv",7
-"HOU200604250",81,"ej,ausmb001,P,marqa901,Balls and strikes Astros catcher Brad Ausmus ejected by HP umpire Alfonso Marquez after the first pitch of the at bat","2006HOU.EVN.regular.comment.csv",8
-"HOU200605120",62,"Astros first baseman Lance Berkman left the game due to an injured leg","2006HOU.EVN.regular.comment.csv",9
-"HOU200605160",47,"$Springer to Bonds: first pitch skipped behind Bonds to the backstop; West warned Astros which was argued by Garner and Springer; second pitch nearly hit Bonds on knee; third pitch was inside fastball that knicked bat; fourth pitch was fastball way inside","2006HOU.EVN.regular.comment.csv",10
-"HOU200605160",48,"ej,sprir001,P,westj901,Automatic ejection on HBP after warning ej,garnp001,M,westj901,Automatic ejection on HBP after warning $Pitcher Springer and manager Garner ejected by HP umpire West for HBP after warning","2006HOU.EVN.regular.comment.csv",11
-"HOU200606050",34,"umpchange,4,umphome,cedeg901 umpchange,4,ump1b,reynj901 umpchange,4,ump2b,(None) $HP umpire Kerwin Danley left the game after being hit on the collarbone in the second inning; Gary Cederstrom moved to the plate and Jim Reynolds moved from second to first","2006HOU.EVN.regular.comment.csv",12
-"HOU200606070",20,"Astros second baseman Chris Burke left the game due to an injured neck/shoulder","2006HOU.EVN.regular.comment.csv",13
-"HOU200606090",66,"Astros third baseman Morgan Ensberg left the game due to an injured neck/shoulder","2006HOU.EVN.regular.comment.csv",14
-"HOU200606110",23,"Braves pitcher Horacio Ramirez left the game due to an injured head","2006HOU.EVN.regular.comment.csv",15
-"HOU200606110",43,"Astros second baseman Chris Burke left the game due to an injured elbow","2006HOU.EVN.regular.comment.csv",16
-"HOU200606160",3,"fan interference","2006HOU.EVN.regular.comment.csv",17
-"HOU200607060",16,"Molina hit on back of head by curve ball; had to leave game","2006HOU.EVN.regular.comment.csv",18
-"HOU200607090",94,"$Roy Oswalt called out on appeal for missing 1B on a pinch hit double","2006HOU.EVN.regular.comment.csv",19
-"HOU200607250",16,"$Great fake throw to second, then Clayton in rundown","2006HOU.EVN.regular.comment.csv",20
-"HOU200607280",61,"$Willy Taveras called for interference","2006HOU.EVN.regular.comment.csv",21
-"HOU200607300",35,"Batista was set, then removed hand from glove to signal catcher to repeat signs. Since he did not step off rubber, balk","2006HOU.EVN.regular.comment.csv",22
-"HOU200608090",59,"Pirates pitcher Josh Sharpless left the game due to an injured foot/ankle","2006HOU.EVN.regular.comment.csv",23
-"HOU200608130",32,"Padres shortstop Khalil Greene left the game due to an injured hand/wrist","2006HOU.EVN.regular.comment.csv",24
-"HOU200608140",59,"Astros pitcher Roy Oswalt left the game due to an injured hand/wrist","2006HOU.EVN.regular.comment.csv",25
-"HOU200608150",70,"Cubs pitcher Scott Eyre left the game due to an injured leg","2006HOU.EVN.regular.comment.csv",26
-"HOU200608290",47,"Brewers left fielder Gabe Gross left the game due to an injured leg","2006HOU.EVN.regular.comment.csv",27
-"HOU200608310",1,"$Clark was clearly out but yelled at 1B umpire Timmons; 1B coach Dave Nelson restrained Clark and Mgr Ned Yost came out to argue; the Brewers said that Timmons stared at Clark and then called him out aggressively","2006HOU.EVN.regular.comment.csv",28
-"HOU200608310",3,"ej,cirij001,P,timmt901,Call at 1B ej,yoste001,M,timmt901,Call at 1B Brewers Jeff Cirillo & Mgr Ned Yost ejected by 1B umpire Tim Timmons for arguing a very close play at 1B","2006HOU.EVN.regular.comment.csv",29
-"HOU200609020",15,"$John Maine called for interference","2006HOU.EVN.regular.comment.csv",30
-"HOU200609020",69,"Mets center fielder Carlos Beltran left the game due to an injured knee","2006HOU.EVN.regular.comment.csv",31
-"HOU200609030",22,"$grounder to first, Biggio evaded rundown, returned to first","2006HOU.EVN.regular.comment.csv",32
-"HOU200609160",41,"$fan interference; the ball was touched by a fan and should have been ruled a homer but was not; umpire Poncino issued a statement after the game saying that the ball was indeed over the wall when touched","2006HOU.EVN.regular.comment.csv",33
-"HOU200609180",55,"Astros pitcher Roy Oswalt left the game due to an injured neck/shoulder","2006HOU.EVN.regular.comment.csv",34
-"HOU200609190",7,"Reds second baseman Brandon Phillips left the game due to an injured head","2006HOU.EVN.regular.comment.csv",35
-"HOU200609200",28,"Reds right fielder Chris Denorfia left the game due to an injured foot/ankle Reds left fielder Ryan Freel left the game due to an injured hand/wrist","2006HOU.EVN.regular.comment.csv",36
-"HOU200609240",37,"Cardinals shortstop David Eckstein left the game due to an injured leg","2006HOU.EVN.regular.comment.csv",37
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"HOU200604050",6,"fan interference","2006HOU.EVN.regular.comment.csv",2
+"HOU200604070",43,"Nationals right fielder Jose Guillen left the game due to an injured arm","2006HOU.EVN.regular.comment.csv",3
+"HOU200604090",79,"fan interference","2006HOU.EVN.regular.comment.csv",4
+"HOU200604190",0,"$Debut for umpire Adrian Johnson","2006HOU.EVN.regular.comment.csv",5
+"HOU200604210",4,"ej,garnp001,M,reedr901,Umpire's actions towards pitcher $Astros pitcher Wandy Rodriguez reacted to a couple of pitch calls by HP umpire Rick Reed; after the second time, Reed went out to the mound to tell Rodriguez to stop; Astros Manager Phil Garner went onto the field to object to Reed's actions and was ejected by Reed","2006HOU.EVN.regular.comment.csv",6
+"HOU200604250",41,"Astros shortstop Adam Everett left the game due to an injured hand/wrist","2006HOU.EVN.regular.comment.csv",7
+"HOU200604250",77,"originally scored as DI, changed next day","2006HOU.EVN.regular.comment.csv",8
+"HOU200604250",81,"ej,ausmb001,P,marqa901,Balls and strikes Astros catcher Brad Ausmus ejected by HP umpire Alfonso Marquez after the first pitch of the at bat","2006HOU.EVN.regular.comment.csv",9
+"HOU200605120",62,"Astros first baseman Lance Berkman left the game due to an injured leg","2006HOU.EVN.regular.comment.csv",10
+"HOU200605160",47,"$Springer to Bonds: first pitch skipped behind Bonds to the backstop; West warned Astros which was argued by Garner and Springer; second pitch nearly hit Bonds on knee; third pitch was inside fastball that knicked bat; fourth pitch was fastball way inside","2006HOU.EVN.regular.comment.csv",11
+"HOU200605160",48,"ej,sprir001,P,westj901,Automatic ejection on HBP after warning ej,garnp001,M,westj901,Automatic ejection on HBP after warning $Pitcher Springer and manager Garner ejected by HP umpire West for HBP after warning","2006HOU.EVN.regular.comment.csv",12
+"HOU200606050",34,"umpchange,4,umphome,cedeg901 umpchange,4,ump1b,reynj901 umpchange,4,ump2b,(None) $HP umpire Kerwin Danley left the game after being hit on the collarbone in the second inning; Gary Cederstrom moved to the plate and Jim Reynolds moved from second to first","2006HOU.EVN.regular.comment.csv",13
+"HOU200606070",20,"Astros second baseman Chris Burke left the game due to an injured neck/shoulder","2006HOU.EVN.regular.comment.csv",14
+"HOU200606090",66,"Astros third baseman Morgan Ensberg left the game due to an injured neck/shoulder","2006HOU.EVN.regular.comment.csv",15
+"HOU200606110",23,"Braves pitcher Horacio Ramirez left the game due to an injured head","2006HOU.EVN.regular.comment.csv",16
+"HOU200606110",43,"Astros second baseman Chris Burke left the game due to an injured elbow","2006HOU.EVN.regular.comment.csv",17
+"HOU200606160",3,"fan interference","2006HOU.EVN.regular.comment.csv",18
+"HOU200607060",16,"Molina hit on back of head by curve ball; had to leave game","2006HOU.EVN.regular.comment.csv",19
+"HOU200607090",94,"$Roy Oswalt called out on appeal for missing 1B on a pinch hit double","2006HOU.EVN.regular.comment.csv",20
+"HOU200607250",16,"$Great fake throw to second, then Clayton in rundown","2006HOU.EVN.regular.comment.csv",21
+"HOU200607280",61,"$Willy Taveras called for interference","2006HOU.EVN.regular.comment.csv",22
+"HOU200607300",35,"Batista was set, then removed hand from glove to signal catcher to repeat signs. Since he did not step off rubber, balk","2006HOU.EVN.regular.comment.csv",23
+"HOU200608090",59,"Pirates pitcher Josh Sharpless left the game due to an injured foot/ankle","2006HOU.EVN.regular.comment.csv",24
+"HOU200608130",32,"Padres shortstop Khalil Greene left the game due to an injured hand/wrist","2006HOU.EVN.regular.comment.csv",25
+"HOU200608140",59,"Astros pitcher Roy Oswalt left the game due to an injured hand/wrist","2006HOU.EVN.regular.comment.csv",26
+"HOU200608150",70,"Cubs pitcher Scott Eyre left the game due to an injured leg","2006HOU.EVN.regular.comment.csv",27
+"HOU200608290",47,"Brewers left fielder Gabe Gross left the game due to an injured leg","2006HOU.EVN.regular.comment.csv",28
+"HOU200608310",1,"$Clark was clearly out but yelled at 1B umpire Timmons; 1B coach Dave Nelson restrained Clark and Mgr Ned Yost came out to argue; the Brewers said that Timmons stared at Clark and then called him out aggressively","2006HOU.EVN.regular.comment.csv",29
+"HOU200608310",3,"ej,cirij001,P,timmt901,Call at 1B ej,yoste001,M,timmt901,Call at 1B Brewers Jeff Cirillo & Mgr Ned Yost ejected by 1B umpire Tim Timmons for arguing a very close play at 1B","2006HOU.EVN.regular.comment.csv",30
+"HOU200609020",15,"$John Maine called for interference","2006HOU.EVN.regular.comment.csv",31
+"HOU200609020",69,"Mets center fielder Carlos Beltran left the game due to an injured knee","2006HOU.EVN.regular.comment.csv",32
+"HOU200609030",22,"$grounder to first, Biggio evaded rundown, returned to first","2006HOU.EVN.regular.comment.csv",33
+"HOU200609160",41,"$fan interference; the ball was touched by a fan and should have been ruled a homer but was not; umpire Poncino issued a statement after the game saying that the ball was indeed over the wall when touched","2006HOU.EVN.regular.comment.csv",34
+"HOU200609180",55,"Astros pitcher Roy Oswalt left the game due to an injured neck/shoulder","2006HOU.EVN.regular.comment.csv",35
+"HOU200609190",7,"Reds second baseman Brandon Phillips left the game due to an injured head","2006HOU.EVN.regular.comment.csv",36
+"HOU200609200",28,"Reds right fielder Chris Denorfia left the game due to an injured foot/ankle Reds left fielder Ryan Freel left the game due to an injured hand/wrist","2006HOU.EVN.regular.comment.csv",37
+"HOU200609240",37,"Cardinals shortstop David Eckstein left the game due to an injured leg","2006HOU.EVN.regular.comment.csv",38

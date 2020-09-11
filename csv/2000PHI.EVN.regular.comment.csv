@@ -1,38 +1,39 @@
-"PHI200004120",0,"Debut for umpire Mike Vanvleet","FILENAME_TX","LINE_NUMBER_CT"
-"PHI200005020",69,"BBW changes this to E6 (5-24 to 5-30, p 58), but Elias totals make it clear should still be S6","2000PHI.EVN.regular.comment.csv",2
-"PHI200005130",0,"2:57 rain delay in the 7th","2000PHI.EVN.regular.comment.csv",3
-"PHI200005180",76,"Debut game for Jose Rodriguez","2000PHI.EVN.regular.comment.csv",4
-"PHI200006040",20,"DWS: SH not in BBW, but Elias requires it","2000PHI.EVN.regular.comment.csv",5
-"PHI200006040",105,"originally scored as single","2000PHI.EVN.regular.comment.csv",6
-"PHI200006060",47,"ej,vukoj101,C,timmt901,Balls and strikes $Phillies coach Vukovich ejected by HP umpire Timmons for arguing balls and strikes while Martinez was at bat","2000PHI.EVN.regular.comment.csv",7
-"PHI200006070",10,"DV: need one this inning","2000PHI.EVN.regular.comment.csv",8
-"PHI200006120",26,"2:35 rain delay","2000PHI.EVN.regular.comment.csv",9
-"PHI200006130",1,"Debut game for Chuck Smith","2000PHI.EVN.regular.comment.csv",10
-"PHI200006180",0,"35 minute rain delay in eighth","2000PHI.EVN.regular.comment.csv",11
-"PHI200006180",73,"ej,gomew001,P,reilm901,Balls and strikes Wayne Gomes ejected by HP umpire Mike Reilly","2000PHI.EVN.regular.comment.csv",12
-"PHI200006300",1,"Debut game for Tike Redman","2000PHI.EVN.regular.comment.csv",13
-"PHI200007010",57,"Holzemer left with hamstring injury","2000PHI.EVN.regular.comment.csv",14
-"PHI200007260",0,"rain delays of 1:22 in the fourth and 29 minutes in the eighth","2000PHI.EVN.regular.comment.csv",15
-"PHI200008080",69,"$a giant dragonfly sat on Vosberg's cap as he pitched","2000PHI.EVN.regular.comment.csv",16
-"PHI200008080",73,"$the dragonfly left","2000PHI.EVN.regular.comment.csv",17
-"PHI200008100",63,"ej,frant001,M,willc901,Refusal to call ground rule double Phiilies Manager Terry Francona ejected by 1B umpire Charlie Williams","2000PHI.EVN.regular.comment.csv",18
-"PHI200008120",10,"$2:22 rain delay","2000PHI.EVN.regular.comment.csv",19
-"PHI200008120",33,"ej,aloum001,P,gibsg901,Balls and strikes Moises Alou ejected by HP umpire Greg Gibson","2000PHI.EVN.regular.comment.csv",20
-"PHI200008150",33,"$throw went into stands","2000PHI.EVN.regular.comment.csv",21
-"PHI200008150",43,"$Guzman lost glove, stepped on ball, strained knee","2000PHI.EVN.regular.comment.csv",22
-"PHI200008270",75,"IPHR","2000PHI.EVN.regular.comment.csv",23
-"PHI200008280",0,"$Mgr Bell serving first of two day suspension (team managed by Harrah)","2000PHI.EVN.regular.comment.csv",24
-"PHI200008290",0,"$Mgr Bell serving second of two game suspension (Toby Harrah running club)","2000PHI.EVN.regular.comment.csv",25
-"PHI200008300",84,"ej,hammj001,P,drakr901,Called third strike $Hammonds ejected by HP umpire Drake for arguing called third strike","2000PHI.EVN.regular.comment.csv",26
-"PHI200008300",92,"ej,frant001,M,drakr901,Number of warmup pitches $Phillies manager Francona ejected by HP umpire Drake for complaining that Jimenez took too many warmup pitches; he was not properly warned up and a Rockies infielder pretended to have dirt in his eye; as trainer treated the infielder, Jimenez continued to throw warmup pitches, causing a violent reaction from Francona and his ejection","2000PHI.EVN.regular.comment.csv",27
-"PHI200009112",80,"ej,guerv001,P,welkb901,Balls and strikes $Expos Guerrero ejected by 1B umpire Welke for arguing balls and strikes after popping up","2000PHI.EVN.regular.comment.csv",28
-"PHI200009120",24,"$great play by Lee reaching into stands","2000PHI.EVN.regular.comment.csv",29
-"PHI200009130",13,"Debut game for Yohanny Valera","2000PHI.EVN.regular.comment.csv",30
-"PHI200009150",26,"$Rolen left with a stiff back","2000PHI.EVN.regular.comment.csv",31
-"PHI200009170",4,"Debut game for Reggie Taylor","2000PHI.EVN.regular.comment.csv",32
-"PHI200009170",5,"Debut game for Jimmy Rollins","2000PHI.EVN.regular.comment.csv",33
-"PHI200009180",82,"Debut game for Douglas Nickle","2000PHI.EVN.regular.comment.csv",34
-"PHI200009190",33,"1:43 rain delay","2000PHI.EVN.regular.comment.csv",35
-"PHI200009190",66,"Debut game for Clemente Alvarez","2000PHI.EVN.regular.comment.csv",36
-"PHI200009220",80,"$save 39 for Benitez; new Mets record","2000PHI.EVN.regular.comment.csv",37
-"PHI200009240",19,"IPHR","2000PHI.EVN.regular.comment.csv",38
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"PHI200004120",0,"Debut for umpire Mike Vanvleet","2000PHI.EVN.regular.comment.csv",2
+"PHI200005020",69,"BBW changes this to E6 (5-24 to 5-30, p 58), but Elias totals make it clear should still be S6","2000PHI.EVN.regular.comment.csv",3
+"PHI200005130",0,"2:57 rain delay in the 7th","2000PHI.EVN.regular.comment.csv",4
+"PHI200005180",76,"Debut game for Jose Rodriguez","2000PHI.EVN.regular.comment.csv",5
+"PHI200006040",20,"DWS: SH not in BBW, but Elias requires it","2000PHI.EVN.regular.comment.csv",6
+"PHI200006040",105,"originally scored as single","2000PHI.EVN.regular.comment.csv",7
+"PHI200006060",47,"ej,vukoj101,C,timmt901,Balls and strikes $Phillies coach Vukovich ejected by HP umpire Timmons for arguing balls and strikes while Martinez was at bat","2000PHI.EVN.regular.comment.csv",8
+"PHI200006070",10,"DV: need one this inning","2000PHI.EVN.regular.comment.csv",9
+"PHI200006120",26,"2:35 rain delay","2000PHI.EVN.regular.comment.csv",10
+"PHI200006130",1,"Debut game for Chuck Smith","2000PHI.EVN.regular.comment.csv",11
+"PHI200006180",0,"35 minute rain delay in eighth","2000PHI.EVN.regular.comment.csv",12
+"PHI200006180",73,"ej,gomew001,P,reilm901,Balls and strikes Wayne Gomes ejected by HP umpire Mike Reilly","2000PHI.EVN.regular.comment.csv",13
+"PHI200006300",1,"Debut game for Tike Redman","2000PHI.EVN.regular.comment.csv",14
+"PHI200007010",57,"Holzemer left with hamstring injury","2000PHI.EVN.regular.comment.csv",15
+"PHI200007260",0,"rain delays of 1:22 in the fourth and 29 minutes in the eighth","2000PHI.EVN.regular.comment.csv",16
+"PHI200008080",69,"$a giant dragonfly sat on Vosberg's cap as he pitched","2000PHI.EVN.regular.comment.csv",17
+"PHI200008080",73,"$the dragonfly left","2000PHI.EVN.regular.comment.csv",18
+"PHI200008100",63,"ej,frant001,M,willc901,Refusal to call ground rule double Phiilies Manager Terry Francona ejected by 1B umpire Charlie Williams","2000PHI.EVN.regular.comment.csv",19
+"PHI200008120",10,"$2:22 rain delay","2000PHI.EVN.regular.comment.csv",20
+"PHI200008120",33,"ej,aloum001,P,gibsg901,Balls and strikes Moises Alou ejected by HP umpire Greg Gibson","2000PHI.EVN.regular.comment.csv",21
+"PHI200008150",33,"$throw went into stands","2000PHI.EVN.regular.comment.csv",22
+"PHI200008150",43,"$Guzman lost glove, stepped on ball, strained knee","2000PHI.EVN.regular.comment.csv",23
+"PHI200008270",75,"IPHR","2000PHI.EVN.regular.comment.csv",24
+"PHI200008280",0,"$Mgr Bell serving first of two day suspension (team managed by Harrah)","2000PHI.EVN.regular.comment.csv",25
+"PHI200008290",0,"$Mgr Bell serving second of two game suspension (Toby Harrah running club)","2000PHI.EVN.regular.comment.csv",26
+"PHI200008300",84,"ej,hammj001,P,drakr901,Called third strike $Hammonds ejected by HP umpire Drake for arguing called third strike","2000PHI.EVN.regular.comment.csv",27
+"PHI200008300",92,"ej,frant001,M,drakr901,Number of warmup pitches $Phillies manager Francona ejected by HP umpire Drake for complaining that Jimenez took too many warmup pitches; he was not properly warned up and a Rockies infielder pretended to have dirt in his eye; as trainer treated the infielder, Jimenez continued to throw warmup pitches, causing a violent reaction from Francona and his ejection","2000PHI.EVN.regular.comment.csv",28
+"PHI200009112",80,"ej,guerv001,P,welkb901,Balls and strikes $Expos Guerrero ejected by 1B umpire Welke for arguing balls and strikes after popping up","2000PHI.EVN.regular.comment.csv",29
+"PHI200009120",24,"$great play by Lee reaching into stands","2000PHI.EVN.regular.comment.csv",30
+"PHI200009130",13,"Debut game for Yohanny Valera","2000PHI.EVN.regular.comment.csv",31
+"PHI200009150",26,"$Rolen left with a stiff back","2000PHI.EVN.regular.comment.csv",32
+"PHI200009170",4,"Debut game for Reggie Taylor","2000PHI.EVN.regular.comment.csv",33
+"PHI200009170",5,"Debut game for Jimmy Rollins","2000PHI.EVN.regular.comment.csv",34
+"PHI200009180",82,"Debut game for Douglas Nickle","2000PHI.EVN.regular.comment.csv",35
+"PHI200009190",33,"1:43 rain delay","2000PHI.EVN.regular.comment.csv",36
+"PHI200009190",66,"Debut game for Clemente Alvarez","2000PHI.EVN.regular.comment.csv",37
+"PHI200009220",80,"$save 39 for Benitez; new Mets record","2000PHI.EVN.regular.comment.csv",38
+"PHI200009240",19,"IPHR","2000PHI.EVN.regular.comment.csv",39

@@ -1,33 +1,34 @@
-"CIN192404150",0,"$Overflow crowd on the field","FILENAME_TX","LINE_NUMBER_CT"
-"CIN192404150",32,"$Ground rule triple; fly ball into CF crowd","1924CIN.EVN.regular.comment.csv",2
-"CIN192404150",46,"$Ground rule triple into the overflow crowd","1924CIN.EVN.regular.comment.csv",3
-"CIN192404150",68,"$Ground rule triple which landed in the temporary bleachers","1924CIN.EVN.regular.comment.csv",4
-"CIN192404190",17,"Rain started lasting a few minutes","1924CIN.EVN.regular.comment.csv",5
-"CIN192404200",28,"ej,fribb101,P,pfirc901,Call at 3B $Bernie Friberg ejected by 3B umpire Cy Pfirman","1924CIN.EVN.regular.comment.csv",6
-"CIN192404200",30,"ej,dugeo101,C,morac102,Call at 3B $Cubs Coach Oscar Dugey ejected by 1B umpire Charlie Moran","1924CIN.EVN.regular.comment.csv",7
-"CIN192404200",45,"ej,luqud101,P,powej901,Balls and strikes $Dolf Luque ejected by HP umpire Jack Powell","1924CIN.EVN.regular.comment.csv",8
-"CIN192404200",55,"ej,statj101,P,powej901,Called third strike $Jigger Statz ejected by HP umpire Jack Powell","1924CIN.EVN.regular.comment.csv",9
-"CIN192404200",64,"#Edd Roush strained his side while fouling off 1st pitch","1924CIN.EVN.regular.comment.csv",10
-"CIN192404220",0,"Weather: very cold; Field: soft and slow","1924CIN.EVN.regular.comment.csv",11
-"CIN192405041",3,"$lost in the sun","1924CIN.EVN.regular.comment.csv",12
-"CIN192405120",17,"$Cy Williams & Curt Walker collided","1924CIN.EVN.regular.comment.csv",13
-"CIN192405150",8,"ej,luqud101,P,pfirc901,Balls and strikes $Dolf Luque ejected by HP umpire Cy Pfirman","1924CIN.EVN.regular.comment.csv",14
-"CIN192405160",8,"ej,nealg101,P,pfirc901,Call at 3B $Greasy Neale ejected by 3B Umpire Cy Pfirman","1924CIN.EVN.regular.comment.csv",15
-"CIN192405170",10,"Sperber courtesy runner for Padgett after hit by pitch","1924CIN.EVN.regular.comment.csv",16
-"CIN192405230",3,"$Rube Bressler left with cinders in his eye","1924CIN.EVN.regular.comment.csv",17
-"CIN192406010",15,"$Hughie Critz batted in place of Fowler, singling to center; Fowler called out because of the batting out of turn","1924CIN.EVN.regular.comment.csv",18
-"CIN192406240",32,"$Walter Schmidt was struck by a foul ball","1924CIN.EVN.regular.comment.csv",19
-"CIN192406240",54,"$first base runner for the Pirates","1924CIN.EVN.regular.comment.csv",20
-"CIN192406252",38,"$Jack Smith rounded 1B too far","1924CIN.EVN.regular.comment.csv",21
-"CIN192406290",67,"ej,ofarb101,P,hartb901,Balls and strikes $Bob O'Farrell ejected by HP Umpire Bob Hart","1924CIN.EVN.regular.comment.csv",22
-"CIN192407060",0,"Weather: threatening clouds held down attendance","1924CIN.EVN.regular.comment.csv",23
-"CIN192407060",13,"$Pie Traynor was caught off 3B, but during the rundown, Charlie Grimm reached 3B and Traynor scored when Ike Caveney's throw struck Grimm's head","1924CIN.EVN.regular.comment.csv",24
-"CIN192407110",65,"Not certain when Henrich entered.","1924CIN.EVN.regular.comment.csv",25
-"CIN192407110",67,"Not clear when Wendell entered.","1924CIN.EVN.regular.comment.csv",26
-"CIN192407210",106,"$Frank Frisch threw to 2B to double up Edd Roush thinking he caught the liner","1924CIN.EVN.regular.comment.csv",27
-"CIN192407210",107,"$1B Umpire Ernie Quigley ruled George Kelly took his foot off the bag before he caught the throw","1924CIN.EVN.regular.comment.csv",28
-"CIN192408171",56,"Not clear when Fowler entered.","1924CIN.EVN.regular.comment.csv",29
-"CIN192408210",19,"Not clear when Bohne entered.","1924CIN.EVN.regular.comment.csv",30
-"CIN192408220",21,"$Bounce HR","1924CIN.EVN.regular.comment.csv",31
-"CIN192408220",73,"Not certain when Mokan entered.","1924CIN.EVN.regular.comment.csv",32
-"CIN192408220",74,"Not certain when Henline entered.","1924CIN.EVN.regular.comment.csv",33
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"CIN192404150",0,"$Overflow crowd on the field","1924CIN.EVN.regular.comment.csv",2
+"CIN192404150",32,"$Ground rule triple; fly ball into CF crowd","1924CIN.EVN.regular.comment.csv",3
+"CIN192404150",46,"$Ground rule triple into the overflow crowd","1924CIN.EVN.regular.comment.csv",4
+"CIN192404150",68,"$Ground rule triple which landed in the temporary bleachers","1924CIN.EVN.regular.comment.csv",5
+"CIN192404190",17,"Rain started lasting a few minutes","1924CIN.EVN.regular.comment.csv",6
+"CIN192404200",28,"ej,fribb101,P,pfirc901,Call at 3B $Bernie Friberg ejected by 3B umpire Cy Pfirman","1924CIN.EVN.regular.comment.csv",7
+"CIN192404200",30,"ej,dugeo101,C,morac102,Call at 3B $Cubs Coach Oscar Dugey ejected by 1B umpire Charlie Moran","1924CIN.EVN.regular.comment.csv",8
+"CIN192404200",45,"ej,luqud101,P,powej901,Balls and strikes $Dolf Luque ejected by HP umpire Jack Powell","1924CIN.EVN.regular.comment.csv",9
+"CIN192404200",55,"ej,statj101,P,powej901,Called third strike $Jigger Statz ejected by HP umpire Jack Powell","1924CIN.EVN.regular.comment.csv",10
+"CIN192404200",64,"#Edd Roush strained his side while fouling off 1st pitch","1924CIN.EVN.regular.comment.csv",11
+"CIN192404220",0,"Weather: very cold; Field: soft and slow","1924CIN.EVN.regular.comment.csv",12
+"CIN192405041",3,"$lost in the sun","1924CIN.EVN.regular.comment.csv",13
+"CIN192405120",17,"$Cy Williams & Curt Walker collided","1924CIN.EVN.regular.comment.csv",14
+"CIN192405150",8,"ej,luqud101,P,pfirc901,Balls and strikes $Dolf Luque ejected by HP umpire Cy Pfirman","1924CIN.EVN.regular.comment.csv",15
+"CIN192405160",8,"ej,nealg101,P,pfirc901,Call at 3B $Greasy Neale ejected by 3B Umpire Cy Pfirman","1924CIN.EVN.regular.comment.csv",16
+"CIN192405170",10,"Sperber courtesy runner for Padgett after hit by pitch","1924CIN.EVN.regular.comment.csv",17
+"CIN192405230",3,"$Rube Bressler left with cinders in his eye","1924CIN.EVN.regular.comment.csv",18
+"CIN192406010",15,"$Hughie Critz batted in place of Fowler, singling to center; Fowler called out because of the batting out of turn","1924CIN.EVN.regular.comment.csv",19
+"CIN192406240",32,"$Walter Schmidt was struck by a foul ball","1924CIN.EVN.regular.comment.csv",20
+"CIN192406240",54,"$first base runner for the Pirates","1924CIN.EVN.regular.comment.csv",21
+"CIN192406252",38,"$Jack Smith rounded 1B too far","1924CIN.EVN.regular.comment.csv",22
+"CIN192406290",67,"ej,ofarb101,P,hartb901,Balls and strikes $Bob O'Farrell ejected by HP Umpire Bob Hart","1924CIN.EVN.regular.comment.csv",23
+"CIN192407060",0,"Weather: threatening clouds held down attendance","1924CIN.EVN.regular.comment.csv",24
+"CIN192407060",13,"$Pie Traynor was caught off 3B, but during the rundown, Charlie Grimm reached 3B and Traynor scored when Ike Caveney's throw struck Grimm's head","1924CIN.EVN.regular.comment.csv",25
+"CIN192407110",65,"Not certain when Henrich entered.","1924CIN.EVN.regular.comment.csv",26
+"CIN192407110",67,"Not clear when Wendell entered.","1924CIN.EVN.regular.comment.csv",27
+"CIN192407210",106,"$Frank Frisch threw to 2B to double up Edd Roush thinking he caught the liner","1924CIN.EVN.regular.comment.csv",28
+"CIN192407210",107,"$1B Umpire Ernie Quigley ruled George Kelly took his foot off the bag before he caught the throw","1924CIN.EVN.regular.comment.csv",29
+"CIN192408171",56,"Not clear when Fowler entered.","1924CIN.EVN.regular.comment.csv",30
+"CIN192408210",19,"Not clear when Bohne entered.","1924CIN.EVN.regular.comment.csv",31
+"CIN192408220",21,"$Bounce HR","1924CIN.EVN.regular.comment.csv",32
+"CIN192408220",73,"Not certain when Mokan entered.","1924CIN.EVN.regular.comment.csv",33
+"CIN192408220",74,"Not certain when Henline entered.","1924CIN.EVN.regular.comment.csv",34

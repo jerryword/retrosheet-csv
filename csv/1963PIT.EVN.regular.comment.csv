@@ -1,32 +1,33 @@
-"PIT196304100",62,"$Roberto Clemente rounded 3B too far","FILENAME_TX","LINE_NUMBER_CT"
-"PIT196304200",67,"ej,hutcf101,M,harvd901,Balls and strikes Reds manager Fred Hutchinson ejected by HP umpire Doug Harvey","1963PIT.EVN.regular.comment.csv",2
-"PIT196304200",70,"ej,clemr101,P,harvd901,Called third strike (Threw bat) Roberto Clemente ejected by HP umpire Doug Harvey","1963PIT.EVN.regular.comment.csv",3
-"PIT196304210",78,"$the ball stuck under the batting cage","1963PIT.EVN.regular.comment.csv",4
-"PIT196304230",74,"ej,savat101,P,walsf901,Called third strike Ted Savage ejected by HP umpire Frank Walsh","1963PIT.EVN.regular.comment.csv",5
-"PIT196304270",62,"$Ron Hunt called for inteference","1963PIT.EVN.regular.comment.csv",6
-"PIT196305030",2,"$Jim Gilliam rounded 2B too far","1963PIT.EVN.regular.comment.csv",7
-"PIT196305050",34,"$Maury Wills called for interference when the ball struck his bat in fair territory","1963PIT.EVN.regular.comment.csv",8
-"PIT196305280",45,"ej,clemr101,P,jackb901,Call at 1B (Bumped umpire) Roberto Clemente ejected by 1B umpire Bill Jackowski","1963PIT.EVN.regular.comment.csv",9
-"PIT196306051",6,"Joe Nuxhall left with injured leg muscle","1963PIT.EVN.regular.comment.csv",10
-"PIT196306061",74,"$Pete Rose turned the wrong way beyond 1B","1963PIT.EVN.regular.comment.csv",11
-"PIT196306062",0,"Protest=V","1963PIT.EVN.regular.comment.csv",12
-"PIT196306062",34,"$Reds manager Fred Hutchinson placed the game under protest when he argued that Bill Mazeroski interfered with Daryl Spencer on Don Clendenon's infield hit","1963PIT.EVN.regular.comment.csv",13
-"PIT196306091",31,"$originally scored as E5, later changed to single","1963PIT.EVN.regular.comment.csv",14
-"PIT196306092",67,"ej,mcmir101,P,sudoe901,Call at 2B Roy McMillan ejected by 2B umpire Ed Sudol","1963PIT.EVN.regular.comment.csv",15
-"PIT196306250",37,"ej,vinca801,C,venzt901,Call at 2B Phillies Coach Al Vincent ejected by 2B umpire Tony Venzon","1963PIT.EVN.regular.comment.csv",16
-"PIT196306260",8,"Jerry Lynch injured right toe chasing Tony Gonzalez' triple","1963PIT.EVN.regular.comment.csv",17
-"PIT196306260",48,"$Cal McLish out on appeal for missing 1B on double","1963PIT.EVN.regular.comment.csv",18
-"PIT196306260",56,"Bob Veale left with blister on thumb","1963PIT.EVN.regular.comment.csv",19
-"PIT196306260",61,"ej,logaj101,P,steim901,Call at 2B $Tony Gonzalez scored while Johnny Logan argued safe call at 2B; Logan ejected by 2B umpire Mel Steiner","1963PIT.EVN.regular.comment.csv",20
-"PIT196306290",24,"ej,harkt101,P,smitv101,Call at 1B Tim Harkness ejected by 1B umpire Vinnie Smith","1963PIT.EVN.regular.comment.csv",21
-"PIT196307100",6,"Debut game for Jim Wynn","1963PIT.EVN.regular.comment.csv",22
-"PIT196307170",31,"$Ken McMullen swung at fourth intentional ball","1963PIT.EVN.regular.comment.csv",23
-"PIT196307170",59,"ej,alstw101,M,lands901,Call at 1B Dodgers Manager Walter Alston ejected by 1B umpire Stan Landes","1963PIT.EVN.regular.comment.csv",24
-"PIT196308080",58,"$one bank of lights went out","1963PIT.EVN.regular.comment.csv",25
-"PIT196308270",36,"$Don Clendenon's liner hit Grover Powell on right cheek","1963PIT.EVN.regular.comment.csv",26
-"PIT196308270",42,"$Grover Powell left with blurred vision","1963PIT.EVN.regular.comment.csv",27
-"PIT196308310",43,"Al McBean left with sore arm","1963PIT.EVN.regular.comment.csv",28
-"PIT196309062",41,"Debut game for Corky Withrow","1963PIT.EVN.regular.comment.csv",29
-"PIT196309070",69,"ej,paglj101,P.forma901,Call at 1B ej,nortr101,C.forma901,Call at 1B $Pagliaroni and Pirate coach Northey ejected by 1b umpire Forman for arguing that Pagliaroni was safe at 1st","1963PIT.EVN.regular.comment.csv",30
-"PIT196309080",44,"$George Altman rounded 1B on low throw","1963PIT.EVN.regular.comment.csv",31
-"PIT196309120",0,"71 minute rain delay before start of game","1963PIT.EVN.regular.comment.csv",32
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"PIT196304100",62,"$Roberto Clemente rounded 3B too far","1963PIT.EVN.regular.comment.csv",2
+"PIT196304200",67,"ej,hutcf101,M,harvd901,Balls and strikes Reds manager Fred Hutchinson ejected by HP umpire Doug Harvey","1963PIT.EVN.regular.comment.csv",3
+"PIT196304200",70,"ej,clemr101,P,harvd901,Called third strike (Threw bat) Roberto Clemente ejected by HP umpire Doug Harvey","1963PIT.EVN.regular.comment.csv",4
+"PIT196304210",78,"$the ball stuck under the batting cage","1963PIT.EVN.regular.comment.csv",5
+"PIT196304230",74,"ej,savat101,P,walsf901,Called third strike Ted Savage ejected by HP umpire Frank Walsh","1963PIT.EVN.regular.comment.csv",6
+"PIT196304270",62,"$Ron Hunt called for inteference","1963PIT.EVN.regular.comment.csv",7
+"PIT196305030",2,"$Jim Gilliam rounded 2B too far","1963PIT.EVN.regular.comment.csv",8
+"PIT196305050",34,"$Maury Wills called for interference when the ball struck his bat in fair territory","1963PIT.EVN.regular.comment.csv",9
+"PIT196305280",45,"ej,clemr101,P,jackb901,Call at 1B (Bumped umpire) Roberto Clemente ejected by 1B umpire Bill Jackowski","1963PIT.EVN.regular.comment.csv",10
+"PIT196306051",6,"Joe Nuxhall left with injured leg muscle","1963PIT.EVN.regular.comment.csv",11
+"PIT196306061",74,"$Pete Rose turned the wrong way beyond 1B","1963PIT.EVN.regular.comment.csv",12
+"PIT196306062",0,"Protest=V","1963PIT.EVN.regular.comment.csv",13
+"PIT196306062",34,"$Reds manager Fred Hutchinson placed the game under protest when he argued that Bill Mazeroski interfered with Daryl Spencer on Don Clendenon's infield hit","1963PIT.EVN.regular.comment.csv",14
+"PIT196306091",31,"$originally scored as E5, later changed to single","1963PIT.EVN.regular.comment.csv",15
+"PIT196306092",67,"ej,mcmir101,P,sudoe901,Call at 2B Roy McMillan ejected by 2B umpire Ed Sudol","1963PIT.EVN.regular.comment.csv",16
+"PIT196306250",37,"ej,vinca801,C,venzt901,Call at 2B Phillies Coach Al Vincent ejected by 2B umpire Tony Venzon","1963PIT.EVN.regular.comment.csv",17
+"PIT196306260",8,"Jerry Lynch injured right toe chasing Tony Gonzalez' triple","1963PIT.EVN.regular.comment.csv",18
+"PIT196306260",48,"$Cal McLish out on appeal for missing 1B on double","1963PIT.EVN.regular.comment.csv",19
+"PIT196306260",56,"Bob Veale left with blister on thumb","1963PIT.EVN.regular.comment.csv",20
+"PIT196306260",61,"ej,logaj101,P,steim901,Call at 2B $Tony Gonzalez scored while Johnny Logan argued safe call at 2B; Logan ejected by 2B umpire Mel Steiner","1963PIT.EVN.regular.comment.csv",21
+"PIT196306290",24,"ej,harkt101,P,smitv101,Call at 1B Tim Harkness ejected by 1B umpire Vinnie Smith","1963PIT.EVN.regular.comment.csv",22
+"PIT196307100",6,"Debut game for Jim Wynn","1963PIT.EVN.regular.comment.csv",23
+"PIT196307170",31,"$Ken McMullen swung at fourth intentional ball","1963PIT.EVN.regular.comment.csv",24
+"PIT196307170",59,"ej,alstw101,M,lands901,Call at 1B Dodgers Manager Walter Alston ejected by 1B umpire Stan Landes","1963PIT.EVN.regular.comment.csv",25
+"PIT196308080",58,"$one bank of lights went out","1963PIT.EVN.regular.comment.csv",26
+"PIT196308270",36,"$Don Clendenon's liner hit Grover Powell on right cheek","1963PIT.EVN.regular.comment.csv",27
+"PIT196308270",42,"$Grover Powell left with blurred vision","1963PIT.EVN.regular.comment.csv",28
+"PIT196308310",43,"Al McBean left with sore arm","1963PIT.EVN.regular.comment.csv",29
+"PIT196309062",41,"Debut game for Corky Withrow","1963PIT.EVN.regular.comment.csv",30
+"PIT196309070",69,"ej,paglj101,P.forma901,Call at 1B ej,nortr101,C.forma901,Call at 1B $Pagliaroni and Pirate coach Northey ejected by 1b umpire Forman for arguing that Pagliaroni was safe at 1st","1963PIT.EVN.regular.comment.csv",31
+"PIT196309080",44,"$George Altman rounded 1B on low throw","1963PIT.EVN.regular.comment.csv",32
+"PIT196309120",0,"71 minute rain delay before start of game","1963PIT.EVN.regular.comment.csv",33

@@ -1,34 +1,35 @@
-"TOR200104010",0,"$Played at Hiram Bithorn Stadium, San Juan, Puerto Rico","FILENAME_TX","LINE_NUMBER_CT"
-"TOR200104010",59,"$ARod tripped on his shoelace","2001TOR.EVA.regular.comment.csv",2
-"TOR200104110",14,"Batista out after rounding 3rd","2001TOR.EVA.regular.comment.csv",3
-"TOR200104140",41,"this could be separate pickoff error after SB","2001TOR.EVA.regular.comment.csv",4
-"TOR200104140",69,"Debut game for Bob File","2001TOR.EVA.regular.comment.csv",5
-"TOR200104170",32,"$straight steal, high pitch without a tag","2001TOR.EVA.regular.comment.csv",6
-"TOR200104170",41,"ej,torrj101,M,mealj901,Call at 2B Yankees manager Joe Torre ejected by 2B umpire Jerry Meals","2001TOR.EVA.regular.comment.csv",7
-"TOR200104190",107,"Debut game for Donzell McDonald","2001TOR.EVA.regular.comment.csv",8
-"TOR200104290",68,"Debut game for Luis Lopez","2001TOR.EVA.regular.comment.csv",9
-"TOR200105090",13,"$Jeremy Giambi strained hamstring running to 3B","2001TOR.EVA.regular.comment.csv",10
-"TOR200105130",54,"Mondesi had him going back, Batista dropped it","2001TOR.EVA.regular.comment.csv",11
-"TOR200105230",9,"$Wells thought this was the 3rd out, tossed ball to ump, allowing Mondesi to score from 2B","2001TOR.EVA.regular.comment.csv",12
-"TOR200105230",59,"$hit on hand","2001TOR.EVA.regular.comment.csv",13
-"TOR200105230",80,"Debut game for Ken Vining","2001TOR.EVA.regular.comment.csv",14
-"TOR200106010",77,"originally scored as E5","2001TOR.EVA.regular.comment.csv",15
-"TOR200106010",84,"originally scored as E4","2001TOR.EVA.regular.comment.csv",16
-"TOR200106030",28,"$491 ft, longest in SkyDome history","2001TOR.EVA.regular.comment.csv",17
-"TOR200106060",1,"Debut game for Joe Kennedy","2001TOR.EVA.regular.comment.csv",18
-"TOR200106100",70,"Elias incorrectly has this catch made by Delgado. Video confirms that File made the catch.","2001TOR.EVA.regular.comment.csv",19
-"TOR200106120",9,"Runner thought 1B caught low line drive and headed back to base to be tagged","2001TOR.EVA.regular.comment.csv",20
-"TOR200106130",37,"ej,cox-b103,M,reedr901,Call at HP ej,helmw001,P,reedr901,Call at HP Wes Helms and Braves manager Bobby Cox ejected by HP umpire Rick Reed","2001TOR.EVA.regular.comment.csv",21
-"TOR200106130",41,"$benches and bullpens empty as Raul Mondesi yelled at Tom Glavine; John Rocker tried to get at Mondesi","2001TOR.EVA.regular.comment.csv",22
-"TOR200106130",68,"Debut game for Joe Nelson","2001TOR.EVA.regular.comment.csv",23
-"TOR200106270",65,"Debut game for Brian Bowles","2001TOR.EVA.regular.comment.csv",24
-"TOR200107070",54,"IPHR","2001TOR.EVA.regular.comment.csv",25
-"TOR200108030",19,"Debut game for Felipe Lopez","2001TOR.EVA.regular.comment.csv",26
-"TOR200108030",69,"Debut game for Kris Foster","2001TOR.EVA.regular.comment.csv",27
-"TOR200108040",1,"Debut game for Brandon Lyon","2001TOR.EVA.regular.comment.csv",28
-"TOR200108040",46,"Gibbons broke wrist on foul ball, out for season","2001TOR.EVA.regular.comment.csv",29
-"TOR200108170",65,"Frye had easy double, held up to get cycle","2001TOR.EVA.regular.comment.csv",30
-"TOR200109030",87,"ej,posaj001,P,fleta901,Called third strike $Jorge Posada argued with HP umpire Andy Fletcher about third strike; spittle flew and Posada bumped Fletcher; Posada was ejected by Fletcher","2001TOR.EVA.regular.comment.csv",31
-"TOR200109040",46,"Debut game for Erick Almonte","2001TOR.EVA.regular.comment.csv",32
-"TOR200109040",53,"Debut game for Juan Rivera","2001TOR.EVA.regular.comment.csv",33
-"TOR200109190",49,"$Lopez doubled off 1B twice by Matos","2001TOR.EVA.regular.comment.csv",34
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"TOR200104010",0,"$Played at Hiram Bithorn Stadium, San Juan, Puerto Rico","2001TOR.EVA.regular.comment.csv",2
+"TOR200104010",59,"$ARod tripped on his shoelace","2001TOR.EVA.regular.comment.csv",3
+"TOR200104110",14,"Batista out after rounding 3rd","2001TOR.EVA.regular.comment.csv",4
+"TOR200104140",41,"this could be separate pickoff error after SB","2001TOR.EVA.regular.comment.csv",5
+"TOR200104140",69,"Debut game for Bob File","2001TOR.EVA.regular.comment.csv",6
+"TOR200104170",32,"$straight steal, high pitch without a tag","2001TOR.EVA.regular.comment.csv",7
+"TOR200104170",41,"ej,torrj101,M,mealj901,Call at 2B Yankees manager Joe Torre ejected by 2B umpire Jerry Meals","2001TOR.EVA.regular.comment.csv",8
+"TOR200104190",107,"Debut game for Donzell McDonald","2001TOR.EVA.regular.comment.csv",9
+"TOR200104290",68,"Debut game for Luis Lopez","2001TOR.EVA.regular.comment.csv",10
+"TOR200105090",13,"$Jeremy Giambi strained hamstring running to 3B","2001TOR.EVA.regular.comment.csv",11
+"TOR200105130",54,"Mondesi had him going back, Batista dropped it","2001TOR.EVA.regular.comment.csv",12
+"TOR200105230",9,"$Wells thought this was the 3rd out, tossed ball to ump, allowing Mondesi to score from 2B","2001TOR.EVA.regular.comment.csv",13
+"TOR200105230",59,"$hit on hand","2001TOR.EVA.regular.comment.csv",14
+"TOR200105230",80,"Debut game for Ken Vining","2001TOR.EVA.regular.comment.csv",15
+"TOR200106010",77,"originally scored as E5","2001TOR.EVA.regular.comment.csv",16
+"TOR200106010",84,"originally scored as E4","2001TOR.EVA.regular.comment.csv",17
+"TOR200106030",28,"$491 ft, longest in SkyDome history","2001TOR.EVA.regular.comment.csv",18
+"TOR200106060",1,"Debut game for Joe Kennedy","2001TOR.EVA.regular.comment.csv",19
+"TOR200106100",70,"Elias incorrectly has this catch made by Delgado. Video confirms that File made the catch.","2001TOR.EVA.regular.comment.csv",20
+"TOR200106120",9,"Runner thought 1B caught low line drive and headed back to base to be tagged","2001TOR.EVA.regular.comment.csv",21
+"TOR200106130",37,"ej,cox-b103,M,reedr901,Call at HP ej,helmw001,P,reedr901,Call at HP Wes Helms and Braves manager Bobby Cox ejected by HP umpire Rick Reed","2001TOR.EVA.regular.comment.csv",22
+"TOR200106130",41,"$benches and bullpens empty as Raul Mondesi yelled at Tom Glavine; John Rocker tried to get at Mondesi","2001TOR.EVA.regular.comment.csv",23
+"TOR200106130",68,"Debut game for Joe Nelson","2001TOR.EVA.regular.comment.csv",24
+"TOR200106270",65,"Debut game for Brian Bowles","2001TOR.EVA.regular.comment.csv",25
+"TOR200107070",54,"IPHR","2001TOR.EVA.regular.comment.csv",26
+"TOR200108030",19,"Debut game for Felipe Lopez","2001TOR.EVA.regular.comment.csv",27
+"TOR200108030",69,"Debut game for Kris Foster","2001TOR.EVA.regular.comment.csv",28
+"TOR200108040",1,"Debut game for Brandon Lyon","2001TOR.EVA.regular.comment.csv",29
+"TOR200108040",46,"Gibbons broke wrist on foul ball, out for season","2001TOR.EVA.regular.comment.csv",30
+"TOR200108170",65,"Frye had easy double, held up to get cycle","2001TOR.EVA.regular.comment.csv",31
+"TOR200109030",87,"ej,posaj001,P,fleta901,Called third strike $Jorge Posada argued with HP umpire Andy Fletcher about third strike; spittle flew and Posada bumped Fletcher; Posada was ejected by Fletcher","2001TOR.EVA.regular.comment.csv",32
+"TOR200109040",46,"Debut game for Erick Almonte","2001TOR.EVA.regular.comment.csv",33
+"TOR200109040",53,"Debut game for Juan Rivera","2001TOR.EVA.regular.comment.csv",34
+"TOR200109190",49,"$Lopez doubled off 1B twice by Matos","2001TOR.EVA.regular.comment.csv",35

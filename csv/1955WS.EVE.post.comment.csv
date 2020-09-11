@@ -1,39 +1,40 @@
-"NYA195509280",5,"past the mound","FILENAME_TX","LINE_NUMBER_CT"
-"NYA195509280",11,"over second","1955WS.EVE.post.comment.csv",2
-"NYA195509280",54,"over Gilliam's head","1955WS.EVE.post.comment.csv",3
-"NYA195509280",74,"past first","1955WS.EVE.post.comment.csv",4
-"NYA195509290",14,"Bauer pulled a muscle while caught stealing in the first","1955WS.EVE.post.comment.csv",5
-"NYA195509290",21,"into the left field corner","1955WS.EVE.post.comment.csv",6
-"NYA195509290",38,"through the hole between short and third","1955WS.EVE.post.comment.csv",7
-"BRO195509300",10,"down the left field line","1955WS.EVE.post.comment.csv",8
-"BRO195509300",13,"$Skowron knocked ball out of Campanella's glove","1955WS.EVE.post.comment.csv",9
-"BRO195509300",14,"$outfield shuffled because of Mantle's sore thigh","1955WS.EVE.post.comment.csv",10
-"BRO195509300",26,"into the left field corner","1955WS.EVE.post.comment.csv",11
-"BRO195509300",38,"Rule 10.08 (d) (1) states ball must be fair for sacrifice fly","1955WS.EVE.post.comment.csv",12
-"BRO195509300",40,"great stop by Robinson","1955WS.EVE.post.comment.csv",13
-"BRO195509300",59,"off the left field wall","1955WS.EVE.post.comment.csv",14
-"BRO195509300",61,"leaping catch robbed Hodges of a homer","1955WS.EVE.post.comment.csv",15
-"BRO195509300",62,"inside the third base line","1955WS.EVE.post.comment.csv",16
-"BRO195509300",71,"into the left field corner","1955WS.EVE.post.comment.csv",17
-"BRO195510010",6,"in short right","1955WS.EVE.post.comment.csv",18
-"BRO195510010",23,"down the third base line","1955WS.EVE.post.comment.csv",19
-"BRO195510010",33,"beat out over Larsen's head","1955WS.EVE.post.comment.csv",20
-"BRO195510010",46,"$Kucks failed to cover first","1955WS.EVE.post.comment.csv",21
-"BRO195510010",53,"over Snider's head","1955WS.EVE.post.comment.csv",22
-"BRO195510010",68,"$Off Coleman's glove","1955WS.EVE.post.comment.csv",23
-"BRO195510010",76,"down the third base line","1955WS.EVE.post.comment.csv",24
-"BRO195510020",28,"off the right field scoreboard","1955WS.EVE.post.comment.csv",25
-"BRO195510020",45,"$Campanella avoided tag but ran out of baseline","1955WS.EVE.post.comment.csv",26
-"BRO195510020",60,"inside the left field line","1955WS.EVE.post.comment.csv",27
-"BRO195510020",64,"into the right field corner","1955WS.EVE.post.comment.csv",28
-"BRO195510020",66,"off Martin's glove","1955WS.EVE.post.comment.csv",29
-"BRO195510020",68,"past short","1955WS.EVE.post.comment.csv",30
-"NYA195510030",7,"over Spooner's head into center","1955WS.EVE.post.comment.csv",31
-"NYA195510030",10,"toward first","1955WS.EVE.post.comment.csv",32
-"NYA195510030",27,"high bouncer behind second","1955WS.EVE.post.comment.csv",33
-"NYA195510030",27,"Snider twisted his knee in the third","1955WS.EVE.post.comment.csv",34
-"NYA195510040",23,"grounder hit Rizzuto for an automatic out","1955WS.EVE.post.comment.csv",35
-"NYA195510040",25,"into the left field corner","1955WS.EVE.post.comment.csv",36
-"NYA195510040",29,"$Ball dropped between Gilliam and Snider","1955WS.EVE.post.comment.csv",37
-"NYA195510040",40,"$Ball knocked out of Skowron's glove as tag applied","1955WS.EVE.post.comment.csv",38
-"NYA195510040",49,"Fantastic catch by Amoros and an easy double play at first","1955WS.EVE.post.comment.csv",39
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"NYA195509280",5,"past the mound","1955WS.EVE.post.comment.csv",2
+"NYA195509280",11,"over second","1955WS.EVE.post.comment.csv",3
+"NYA195509280",54,"over Gilliam's head","1955WS.EVE.post.comment.csv",4
+"NYA195509280",74,"past first","1955WS.EVE.post.comment.csv",5
+"NYA195509290",14,"Bauer pulled a muscle while caught stealing in the first","1955WS.EVE.post.comment.csv",6
+"NYA195509290",21,"into the left field corner","1955WS.EVE.post.comment.csv",7
+"NYA195509290",38,"through the hole between short and third","1955WS.EVE.post.comment.csv",8
+"BRO195509300",10,"down the left field line","1955WS.EVE.post.comment.csv",9
+"BRO195509300",13,"$Skowron knocked ball out of Campanella's glove","1955WS.EVE.post.comment.csv",10
+"BRO195509300",14,"$outfield shuffled because of Mantle's sore thigh","1955WS.EVE.post.comment.csv",11
+"BRO195509300",26,"into the left field corner","1955WS.EVE.post.comment.csv",12
+"BRO195509300",38,"Rule 10.08 (d) (1) states ball must be fair for sacrifice fly","1955WS.EVE.post.comment.csv",13
+"BRO195509300",40,"great stop by Robinson","1955WS.EVE.post.comment.csv",14
+"BRO195509300",59,"off the left field wall","1955WS.EVE.post.comment.csv",15
+"BRO195509300",61,"leaping catch robbed Hodges of a homer","1955WS.EVE.post.comment.csv",16
+"BRO195509300",62,"inside the third base line","1955WS.EVE.post.comment.csv",17
+"BRO195509300",71,"into the left field corner","1955WS.EVE.post.comment.csv",18
+"BRO195510010",6,"in short right","1955WS.EVE.post.comment.csv",19
+"BRO195510010",23,"down the third base line","1955WS.EVE.post.comment.csv",20
+"BRO195510010",33,"beat out over Larsen's head","1955WS.EVE.post.comment.csv",21
+"BRO195510010",46,"$Kucks failed to cover first","1955WS.EVE.post.comment.csv",22
+"BRO195510010",53,"over Snider's head","1955WS.EVE.post.comment.csv",23
+"BRO195510010",68,"$Off Coleman's glove","1955WS.EVE.post.comment.csv",24
+"BRO195510010",76,"down the third base line","1955WS.EVE.post.comment.csv",25
+"BRO195510020",28,"off the right field scoreboard","1955WS.EVE.post.comment.csv",26
+"BRO195510020",45,"$Campanella avoided tag but ran out of baseline","1955WS.EVE.post.comment.csv",27
+"BRO195510020",60,"inside the left field line","1955WS.EVE.post.comment.csv",28
+"BRO195510020",64,"into the right field corner","1955WS.EVE.post.comment.csv",29
+"BRO195510020",66,"off Martin's glove","1955WS.EVE.post.comment.csv",30
+"BRO195510020",68,"past short","1955WS.EVE.post.comment.csv",31
+"NYA195510030",7,"over Spooner's head into center","1955WS.EVE.post.comment.csv",32
+"NYA195510030",10,"toward first","1955WS.EVE.post.comment.csv",33
+"NYA195510030",27,"high bouncer behind second","1955WS.EVE.post.comment.csv",34
+"NYA195510030",27,"Snider twisted his knee in the third","1955WS.EVE.post.comment.csv",35
+"NYA195510040",23,"grounder hit Rizzuto for an automatic out","1955WS.EVE.post.comment.csv",36
+"NYA195510040",25,"into the left field corner","1955WS.EVE.post.comment.csv",37
+"NYA195510040",29,"$Ball dropped between Gilliam and Snider","1955WS.EVE.post.comment.csv",38
+"NYA195510040",40,"$Ball knocked out of Skowron's glove as tag applied","1955WS.EVE.post.comment.csv",39
+"NYA195510040",49,"Fantastic catch by Amoros and an easy double play at first","1955WS.EVE.post.comment.csv",40

@@ -1,47 +1,48 @@
-"CHN192804220",0,"Protest=V $overflow crowd on the field","FILENAME_TX","LINE_NUMBER_CT"
-"CHN192804220",64,"$Clyde Barnhart kicked the ball against the grandstand wall in foul territory; the Pirates argued with Umpire Bill Klem that Riggs Stephenson should be held at 2B but the Cubs countered that there were no fans in the LF foul territory, so the ground rule did not apply the Pirates protested the game but were denied by NL President John Heydler on 5/5","1928CHN.EVN.regular.comment.csv",2
-"CHN192804250",37,"$Paul Waner escaped rundown on a throwing error","1928CHN.EVN.regular.comment.csv",3
-"CHN192804280",56,"DWS: no indication of SH here","1928CHN.EVN.regular.comment.csv",4
-"CHN192805070",41,"$Bounce home run","1928CHN.EVN.regular.comment.csv",5
-"CHN192805080",70,"Top of 9th from Chicago Tribune","1928CHN.EVN.regular.comment.csv",6
-"CHN192805090",11,"$Babe Herman called out on appeal for leaving 3B too soon","1928CHN.EVN.regular.comment.csv",7
-"CHN192805090",99,"bottom of 12th from Times and Tribune","1928CHN.EVN.regular.comment.csv",8
-"CHN192805110",14,"$bad return throw to the mound that sailed into center field","1928CHN.EVN.regular.comment.csv",9
-"CHN192805130",0,"$overflow crowd on the field","1928CHN.EVN.regular.comment.csv",10
-"CHN192805130",22,"$into the overflow crowd","1928CHN.EVN.regular.comment.csv",11
-"CHN192805130",25,"$into the overflow crowd","1928CHN.EVN.regular.comment.csv",12
-"CHN192805130",32,"$into the overflow crowd","1928CHN.EVN.regular.comment.csv",13
-"CHN192805130",50,"$into the overflow crowd","1928CHN.EVN.regular.comment.csv",14
-"CHN192805180",38,"Cooney failed to make contact on a hit and run play.","1928CHN.EVN.regular.comment.csv",15
-"CHN192805270",42,"$Lloyd Waner & Dick Bartell collided","1928CHN.EVN.regular.comment.csv",16
-"CHN192805302",27,"$George Kelly left with charley horse","1928CHN.EVN.regular.comment.csv",17
-"CHN192806212",70,"$Hack Wilson went into the stands to fight with a fan; other players followed and a riot ensued; about 5000 fans went on the field; 12 delay to clear the field","1928CHN.EVN.regular.comment.csv",18
-"CHN192806220",54,"$Game called on account of rain in the top of the seventh; the score reverted to the end of the sixth after Frankie Frisch doubled and Jim Bottomley homered with two outs","1928CHN.EVN.regular.comment.csv",19
-"CHN192806262",32,"$Woody English left with an injury suffered during practice","1928CHN.EVN.regular.comment.csv",20
-"CHN192807060",88,"$bounce HR","1928CHN.EVN.regular.comment.csv",21
-"CHN192807071",44,"$Freddie Maguire called for interference for running into his own batted ball","1928CHN.EVN.regular.comment.csv",22
-"CHN192807071",45,"CC4: 98 had 7 here, 97 had 3/P","1928CHN.EVN.regular.comment.csv",23
-"CHN192807071",46,"CC4: 98 had 7 here, 97 had 3/P","1928CHN.EVN.regular.comment.csv",24
-"CHN192807071",59,"$Doug McWeeny left with heat exhaustion","1928CHN.EVN.regular.comment.csv",25
-"CHN192807142",2,"tag","1928CHN.EVN.regular.comment.csv",26
-"CHN192807142",4,"off glove","1928CHN.EVN.regular.comment.csv",27
-"CHN192807142",25,"back of 2b","1928CHN.EVN.regular.comment.csv",28
-"CHN192807142",28,"slow bounder","1928CHN.EVN.regular.comment.csv",29
-"CHN192807142",29,"p stab hot bounder","1928CHN.EVN.regular.comment.csv",30
-"CHN192807142",30,"protested","1928CHN.EVN.regular.comment.csv",31
-"CHN192807142",44,"great running catch over foul line","1928CHN.EVN.regular.comment.csv",32
-"CHN192807142",59,"Nehf overslid 3b, attempted to score","1928CHN.EVN.regular.comment.csv",33
-"CHN192807142",60,"bounder over 2b","1928CHN.EVN.regular.comment.csv",34
-"CHN192807142",62,"tap to p, caught Whitney in rundown","1928CHN.EVN.regular.comment.csv",35
-"CHN192807142",65,"south end of bleachers, fair by foot or two","1928CHN.EVN.regular.comment.csv",36
-"CHN192807142",69,"8 or 63","1928CHN.EVN.regular.comment.csv",37
-"CHN192807142",70,"8 or 63","1928CHN.EVN.regular.comment.csv",38
-"CHN192807160",38,"ej,hartg103,P,klemb901,Balls and strikes Gabby Hartnett ejected by HP Umpire Bill Klem","1928CHN.EVN.regular.comment.csv",39
-"CHN192807211",93,"$O'Farrell overran third","1928CHN.EVN.regular.comment.csv",40
-"CHN192808200",30,"$Charlie Grimm left injured chasing a foul ball","1928CHN.EVN.regular.comment.csv",41
-"CHN192808200",47,"$Bounce home run","1928CHN.EVN.regular.comment.csv",42
-"CHN192808200",49,"$Alex Ferguson left injured","1928CHN.EVN.regular.comment.csv",43
-"CHN192808200",82,"ej,wilsh102,P,pfirc901,Called third strike (Threw bat) Hack Wilson ejected by HP Umpire Cy Pfirman","1928CHN.EVN.regular.comment.csv",44
-"CHN192808220",15,"$Clyde Beck left with spiked right hand","1928CHN.EVN.regular.comment.csv",45
-"CHN192809020",3,"$the game was delayed to put sand on mound","1928CHN.EVN.regular.comment.csv",46
-"CHN192809020",21,"Rain was falling heavily but the game continued","1928CHN.EVN.regular.comment.csv",47
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"CHN192804220",0,"Protest=V $overflow crowd on the field","1928CHN.EVN.regular.comment.csv",2
+"CHN192804220",64,"$Clyde Barnhart kicked the ball against the grandstand wall in foul territory; the Pirates argued with Umpire Bill Klem that Riggs Stephenson should be held at 2B but the Cubs countered that there were no fans in the LF foul territory, so the ground rule did not apply the Pirates protested the game but were denied by NL President John Heydler on 5/5","1928CHN.EVN.regular.comment.csv",3
+"CHN192804250",37,"$Paul Waner escaped rundown on a throwing error","1928CHN.EVN.regular.comment.csv",4
+"CHN192804280",56,"DWS: no indication of SH here","1928CHN.EVN.regular.comment.csv",5
+"CHN192805070",41,"$Bounce home run","1928CHN.EVN.regular.comment.csv",6
+"CHN192805080",70,"Top of 9th from Chicago Tribune","1928CHN.EVN.regular.comment.csv",7
+"CHN192805090",11,"$Babe Herman called out on appeal for leaving 3B too soon","1928CHN.EVN.regular.comment.csv",8
+"CHN192805090",99,"bottom of 12th from Times and Tribune","1928CHN.EVN.regular.comment.csv",9
+"CHN192805110",14,"$bad return throw to the mound that sailed into center field","1928CHN.EVN.regular.comment.csv",10
+"CHN192805130",0,"$overflow crowd on the field","1928CHN.EVN.regular.comment.csv",11
+"CHN192805130",22,"$into the overflow crowd","1928CHN.EVN.regular.comment.csv",12
+"CHN192805130",25,"$into the overflow crowd","1928CHN.EVN.regular.comment.csv",13
+"CHN192805130",32,"$into the overflow crowd","1928CHN.EVN.regular.comment.csv",14
+"CHN192805130",50,"$into the overflow crowd","1928CHN.EVN.regular.comment.csv",15
+"CHN192805180",38,"Cooney failed to make contact on a hit and run play.","1928CHN.EVN.regular.comment.csv",16
+"CHN192805270",42,"$Lloyd Waner & Dick Bartell collided","1928CHN.EVN.regular.comment.csv",17
+"CHN192805302",27,"$George Kelly left with charley horse","1928CHN.EVN.regular.comment.csv",18
+"CHN192806212",70,"$Hack Wilson went into the stands to fight with a fan; other players followed and a riot ensued; about 5000 fans went on the field; 12 delay to clear the field","1928CHN.EVN.regular.comment.csv",19
+"CHN192806220",54,"$Game called on account of rain in the top of the seventh; the score reverted to the end of the sixth after Frankie Frisch doubled and Jim Bottomley homered with two outs","1928CHN.EVN.regular.comment.csv",20
+"CHN192806262",32,"$Woody English left with an injury suffered during practice","1928CHN.EVN.regular.comment.csv",21
+"CHN192807060",88,"$bounce HR","1928CHN.EVN.regular.comment.csv",22
+"CHN192807071",44,"$Freddie Maguire called for interference for running into his own batted ball","1928CHN.EVN.regular.comment.csv",23
+"CHN192807071",45,"CC4: 98 had 7 here, 97 had 3/P","1928CHN.EVN.regular.comment.csv",24
+"CHN192807071",46,"CC4: 98 had 7 here, 97 had 3/P","1928CHN.EVN.regular.comment.csv",25
+"CHN192807071",59,"$Doug McWeeny left with heat exhaustion","1928CHN.EVN.regular.comment.csv",26
+"CHN192807142",2,"tag","1928CHN.EVN.regular.comment.csv",27
+"CHN192807142",4,"off glove","1928CHN.EVN.regular.comment.csv",28
+"CHN192807142",25,"back of 2b","1928CHN.EVN.regular.comment.csv",29
+"CHN192807142",28,"slow bounder","1928CHN.EVN.regular.comment.csv",30
+"CHN192807142",29,"p stab hot bounder","1928CHN.EVN.regular.comment.csv",31
+"CHN192807142",30,"protested","1928CHN.EVN.regular.comment.csv",32
+"CHN192807142",44,"great running catch over foul line","1928CHN.EVN.regular.comment.csv",33
+"CHN192807142",59,"Nehf overslid 3b, attempted to score","1928CHN.EVN.regular.comment.csv",34
+"CHN192807142",60,"bounder over 2b","1928CHN.EVN.regular.comment.csv",35
+"CHN192807142",62,"tap to p, caught Whitney in rundown","1928CHN.EVN.regular.comment.csv",36
+"CHN192807142",65,"south end of bleachers, fair by foot or two","1928CHN.EVN.regular.comment.csv",37
+"CHN192807142",69,"8 or 63","1928CHN.EVN.regular.comment.csv",38
+"CHN192807142",70,"8 or 63","1928CHN.EVN.regular.comment.csv",39
+"CHN192807160",38,"ej,hartg103,P,klemb901,Balls and strikes Gabby Hartnett ejected by HP Umpire Bill Klem","1928CHN.EVN.regular.comment.csv",40
+"CHN192807211",93,"$O'Farrell overran third","1928CHN.EVN.regular.comment.csv",41
+"CHN192808200",30,"$Charlie Grimm left injured chasing a foul ball","1928CHN.EVN.regular.comment.csv",42
+"CHN192808200",47,"$Bounce home run","1928CHN.EVN.regular.comment.csv",43
+"CHN192808200",49,"$Alex Ferguson left injured","1928CHN.EVN.regular.comment.csv",44
+"CHN192808200",82,"ej,wilsh102,P,pfirc901,Called third strike (Threw bat) Hack Wilson ejected by HP Umpire Cy Pfirman","1928CHN.EVN.regular.comment.csv",45
+"CHN192808220",15,"$Clyde Beck left with spiked right hand","1928CHN.EVN.regular.comment.csv",46
+"CHN192809020",3,"$the game was delayed to put sand on mound","1928CHN.EVN.regular.comment.csv",47
+"CHN192809020",21,"Rain was falling heavily but the game continued","1928CHN.EVN.regular.comment.csv",48

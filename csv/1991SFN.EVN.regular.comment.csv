@@ -1,18 +1,19 @@
-"SFN199105120",0,"$umpire Eric Gregg went home and missed game","FILENAME_TX","LINE_NUMBER_CT"
-"SFN199105120",20,"ej,colev001,P,wintm901,Called third strike Vince Coleman ejected by HP umpire Mike Winters","1991SFN.EVN.regular.comment.csv",2
-"SFN199105150",32,"Kevin Mitchell left with stiffness in left knee","1991SFN.EVN.regular.comment.csv",3
-"SFN199105190",67,"ej,crair101,M,hallt901,Called third strike on Mitchell ej,mitck001,P,hallt901,Called third strike Kevin Mitchell and Giants manager Roger Craig ejected by HP umpire Tom Hallion","1991SFN.EVN.regular.comment.csv",4
-"SFN199105270",66,"ej,davie001,P,froeb901,Called third strike Eric Davis ejected by HP umpire Bruce Froemming","1991SFN.EVN.regular.comment.csv",5
-"SFN199105300",2,"Kirt Manwaring injured by foul ball","1991SFN.EVN.regular.comment.csv",6
-"SFN199105310",13,"Debut game for Brian Hunter","1991SFN.EVN.regular.comment.csv",7
-"SFN199106150",1,"Debut game for Mike Remlinger","1991SFN.EVN.regular.comment.csv",8
-"SFN199106200",74,"ej,kim-w801,C,wintm901,Call at 1B Giants coach Wendell Kim ejected by 1B umpire MIke Winters","1991SFN.EVN.regular.comment.csv",9
-"SFN199107230",40,"$Keith Miller called out for running into his own batted ball","1991SFN.EVN.regular.comment.csv",10
-"SFN199107250",34,"umpchange,4,umphome,froeb901 umpchange,4,ump2b,(None) $HP umpire Ed Montague injured his elbow on pitch that hit Trevor Wilson; 2B base umpire Bruce Froemming moved behind HP","1991SFN.EVN.regular.comment.csv",11
-"SFN199107250",75,"Debut game for Bryan Hickerson","1991SFN.EVN.regular.comment.csv",12
-"SFN199107260",58,"ej,dauld001,P,tatat901,Balls and strikes ej,fregj101,M,tatat901,Balls and strikes Darren Daulton and Phillies manager Jim Fregosi ejected by HP umpire Terry Tata","1991SFN.EVN.regular.comment.csv",13
-"SFN199108140",15,"ej,smitl002,P,rapue901,Call at 2B $LF Smith ejected by 1B umpire Rapuano for arguing Manwaring was out at 2nd","1991SFN.EVN.regular.comment.csv",14
-"SFN199109010",65,"Debut game for Gil Heredia","1991SFN.EVN.regular.comment.csv",15
-"SFN199109020",76,"ej,bonib001,P,grege901,Balls and strikes Bobby Bonilla ejected by HP umpire Eric Gregg","1991SFN.EVN.regular.comment.csv",16
-"SFN199109030",50,"Debut game for Scott Bullett","1991SFN.EVN.regular.comment.csv",17
-"SFN199109040",78,"Debut game for Ted Wood","1991SFN.EVN.regular.comment.csv",18
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"SFN199105120",0,"$umpire Eric Gregg went home and missed game","1991SFN.EVN.regular.comment.csv",2
+"SFN199105120",20,"ej,colev001,P,wintm901,Called third strike Vince Coleman ejected by HP umpire Mike Winters","1991SFN.EVN.regular.comment.csv",3
+"SFN199105150",32,"Kevin Mitchell left with stiffness in left knee","1991SFN.EVN.regular.comment.csv",4
+"SFN199105190",67,"ej,crair101,M,hallt901,Called third strike on Mitchell ej,mitck001,P,hallt901,Called third strike Kevin Mitchell and Giants manager Roger Craig ejected by HP umpire Tom Hallion","1991SFN.EVN.regular.comment.csv",5
+"SFN199105270",66,"ej,davie001,P,froeb901,Called third strike Eric Davis ejected by HP umpire Bruce Froemming","1991SFN.EVN.regular.comment.csv",6
+"SFN199105300",2,"Kirt Manwaring injured by foul ball","1991SFN.EVN.regular.comment.csv",7
+"SFN199105310",13,"Debut game for Brian Hunter","1991SFN.EVN.regular.comment.csv",8
+"SFN199106150",1,"Debut game for Mike Remlinger","1991SFN.EVN.regular.comment.csv",9
+"SFN199106200",74,"ej,kim-w801,C,wintm901,Call at 1B Giants coach Wendell Kim ejected by 1B umpire MIke Winters","1991SFN.EVN.regular.comment.csv",10
+"SFN199107230",40,"$Keith Miller called out for running into his own batted ball","1991SFN.EVN.regular.comment.csv",11
+"SFN199107250",34,"umpchange,4,umphome,froeb901 umpchange,4,ump2b,(None) $HP umpire Ed Montague injured his elbow on pitch that hit Trevor Wilson; 2B base umpire Bruce Froemming moved behind HP","1991SFN.EVN.regular.comment.csv",12
+"SFN199107250",75,"Debut game for Bryan Hickerson","1991SFN.EVN.regular.comment.csv",13
+"SFN199107260",58,"ej,dauld001,P,tatat901,Balls and strikes ej,fregj101,M,tatat901,Balls and strikes Darren Daulton and Phillies manager Jim Fregosi ejected by HP umpire Terry Tata","1991SFN.EVN.regular.comment.csv",14
+"SFN199108140",15,"ej,smitl002,P,rapue901,Call at 2B $LF Smith ejected by 1B umpire Rapuano for arguing Manwaring was out at 2nd","1991SFN.EVN.regular.comment.csv",15
+"SFN199109010",65,"Debut game for Gil Heredia","1991SFN.EVN.regular.comment.csv",16
+"SFN199109020",76,"ej,bonib001,P,grege901,Balls and strikes Bobby Bonilla ejected by HP umpire Eric Gregg","1991SFN.EVN.regular.comment.csv",17
+"SFN199109030",50,"Debut game for Scott Bullett","1991SFN.EVN.regular.comment.csv",18
+"SFN199109040",78,"Debut game for Ted Wood","1991SFN.EVN.regular.comment.csv",19

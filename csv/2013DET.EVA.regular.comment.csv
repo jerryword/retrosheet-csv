@@ -1,35 +1,36 @@
-"DET201304050",31,"Yankees shortstop Eduardo Nunez left the game due to an injured arm","FILENAME_TX","LINE_NUMBER_CT"
-"DET201304060",42,"originally scored as E9/TH, changed on 4-11-2013","2013DET.EVA.regular.comment.csv",2
-"DET201304070",60,"fan interference","2013DET.EVA.regular.comment.csv",3
-"DET201304250",60,"Tigers pitcher Justin Verlander left the game due to a blister","2013DET.EVA.regular.comment.csv",4
-"DET201305130",15,"Astros second baseman Jose Altuve left the game due to an injured head","2013DET.EVA.regular.comment.csv",5
-"DET201305130",50,"Astros pitcher Bud Norris left the game due to an injured back","2013DET.EVA.regular.comment.csv",6
-"DET201305230",10,"fan interference","2013DET.EVA.regular.comment.csv",7
-"DET201305230",26,"Twins shortstop Pedro Florimon left the game due to an injured hand","2013DET.EVA.regular.comment.csv",8
-"DET201305250",2,"replay,1,mauej001,MIN,westj901,DET05,O,N,I,,H $Joe Mauer's fly ball struck on top of the RF wall and caromed off the metal railing back onto the field; the ball was ruled a home run but the Tigers asked about the call; crew chief Joe West watched the replay and upheld the call","2013DET.EVA.regular.comment.csv",9
-"DET201305250",23,"ej,gardr001,M,westj901,Interference call $Twins manager Gardenhire ejected by 2B umpire for arguing interference call against Willingham","2013DET.EVA.regular.comment.csv",10
-"DET201305270",72,"originally scored as E3, changed to single on 5-30-2013, giving batter RBI and making his run earned","2013DET.EVA.regular.comment.csv",11
-"DET201306060",58,"Rays pitcher Jake McGee left the game due to an injured leg","2013DET.EVA.regular.comment.csv",12
-"DET201306080",71,"ej,frant001,M,fleta901,Balls and strikes $Nick Swisher talked with HP umpire Andy Fletcher between innings and the conversation heated up fast; Indians Manager Terry Francona ran out to protect Swisher and was ejected by Fletcher","2013DET.EVA.regular.comment.csv",13
-"DET201306230",75,"Red Sox right fielder Shane Victorino left the game due to an injured back","2013DET.EVA.regular.comment.csv",14
-"DET201306230",76,"ej,farrj001,M,dimum901,Catch/no catch call $Daniel Nava caught the ball on the warning track and dropped it as he flipped it towards his throwing hand; it was ruled no catch by 2B umpire Mike DiMuro; Red Sox Manager John Farrell ejected by DiMuro","2013DET.EVA.regular.comment.csv",15
-"DET201307110",44,"$the first pitch to Prince Fielder was up and in but Chris Sale immediately reacted as if the ball got away from him","2013DET.EVA.regular.comment.csv",16
-"DET201307110",51,"ej,putkl001,P,fairc901,Throwing at batter ej,leylj801,M,fairc901,Throwing at batter $Luke Putkonen's first pitch to Alexei Ramirez went behind Ramirez' back; Ramirez walked toward the mound yelling and pointing; both benches cleared; Putkonen and Tigers manager Jim Leyland ejected by HP umpire Chad Fairchild; Leyland came back onto the field to argue that Ramirez should have been ejected as well","2013DET.EVA.regular.comment.csv",17
-"DET201307110",52,"White Sox shortstop Alexei Ramirez left the game due to an injured leg","2013DET.EVA.regular.comment.csv",18
-"DET201307140",55,"Tigers pitcher Justin Verlander left the game due to an injured leg","2013DET.EVA.regular.comment.csv",19
-"DET201307280",23,"ej,cabrm001,P,fairc901,Balls and strikes ej,leylj801,M,fairc901,Balls and strikes $Tigers third baseman Miguel Cabrera and Tigers Manager Jim Leyland ejected by HP umpire Chad Fairchild","2013DET.EVA.regular.comment.csv",20
-"DET201307280",59,"all runs originally scored as UR, last three changed to TUR on 07-31-2013, raises Garcia's ER count from 0 to 3","2013DET.EVA.regular.comment.csv",21
-"DET201307300",32,"fan interference","2013DET.EVA.regular.comment.csv",22
-"DET201308170",36,"ej,leylj801,M,davib902,Foul ball non-call $Tigers manager Leyland ejected by HP umpire Muchlinski for arguing that wild pitch was foul ball that bounced and hit bat","2013DET.EVA.regular.comment.csv",23
-"DET201308170",37,"ej,penab002,P,muchm901,Foul ball non-call $Catcher Pena ejected by HP umpire Muchlinski for continuing to argue the foul ball non-call","2013DET.EVA.regular.comment.csv",24
-"DET201308170",60,"Tigers second baseman Omar Infante left the game due to an injured back","2013DET.EVA.regular.comment.csv",25
-"DET201308210",64,"$Torii Hunter scored from 2B on a PB and throw to 1B when pitcher Caleb Thielbar did not cover HP","2013DET.EVA.regular.comment.csv",26
-"DET201308210",76,"originally scored E4, changed to single on 08-29-2013","2013DET.EVA.regular.comment.csv",27
-"DET201308270",49,"$Game called for rain after delay of 1:20","2013DET.EVA.regular.comment.csv",28
-"DET201308290",46,"Miguel Cabrera left the game with an abdominal injury","2013DET.EVA.regular.comment.csv",29
-"DET201308300",16,"Tigers third baseman Miguel Cabrera left the game due to an injured side","2013DET.EVA.regular.comment.csv",30
-"DET201308300",65,"$Game called for rain after delay of 1:09","2013DET.EVA.regular.comment.csv",31
-"DET201309130",4,"originally scored as double plus error, changed to triple on 09-26-2013, making run earned","2013DET.EVA.regular.comment.csv",32
-"DET201309140",20,"ej,bonie001,P,hoyej901,Call at 1B (Threw helmet) Royals second baseman Emilio Bonifacio ejected by 1B umpire James Hoye","2013DET.EVA.regular.comment.csv",33
-"DET201309190",54,"Tigers shortstop Jose Iglesias left the game due to an injured hand","2013DET.EVA.regular.comment.csv",34
-"DET201309210",81,"Tigers third baseman Miguel Cabrera left the game due to an injured groin","2013DET.EVA.regular.comment.csv",35
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"DET201304050",31,"Yankees shortstop Eduardo Nunez left the game due to an injured arm","2013DET.EVA.regular.comment.csv",2
+"DET201304060",42,"originally scored as E9/TH, changed on 4-11-2013","2013DET.EVA.regular.comment.csv",3
+"DET201304070",60,"fan interference","2013DET.EVA.regular.comment.csv",4
+"DET201304250",60,"Tigers pitcher Justin Verlander left the game due to a blister","2013DET.EVA.regular.comment.csv",5
+"DET201305130",15,"Astros second baseman Jose Altuve left the game due to an injured head","2013DET.EVA.regular.comment.csv",6
+"DET201305130",50,"Astros pitcher Bud Norris left the game due to an injured back","2013DET.EVA.regular.comment.csv",7
+"DET201305230",10,"fan interference","2013DET.EVA.regular.comment.csv",8
+"DET201305230",26,"Twins shortstop Pedro Florimon left the game due to an injured hand","2013DET.EVA.regular.comment.csv",9
+"DET201305250",2,"replay,1,mauej001,MIN,westj901,DET05,O,N,I,,H $Joe Mauer's fly ball struck on top of the RF wall and caromed off the metal railing back onto the field; the ball was ruled a home run but the Tigers asked about the call; crew chief Joe West watched the replay and upheld the call","2013DET.EVA.regular.comment.csv",10
+"DET201305250",23,"ej,gardr001,M,westj901,Interference call $Twins manager Gardenhire ejected by 2B umpire for arguing interference call against Willingham","2013DET.EVA.regular.comment.csv",11
+"DET201305270",72,"originally scored as E3, changed to single on 5-30-2013, giving batter RBI and making his run earned","2013DET.EVA.regular.comment.csv",12
+"DET201306060",58,"Rays pitcher Jake McGee left the game due to an injured leg","2013DET.EVA.regular.comment.csv",13
+"DET201306080",71,"ej,frant001,M,fleta901,Balls and strikes $Nick Swisher talked with HP umpire Andy Fletcher between innings and the conversation heated up fast; Indians Manager Terry Francona ran out to protect Swisher and was ejected by Fletcher","2013DET.EVA.regular.comment.csv",14
+"DET201306230",75,"Red Sox right fielder Shane Victorino left the game due to an injured back","2013DET.EVA.regular.comment.csv",15
+"DET201306230",76,"ej,farrj001,M,dimum901,Catch/no catch call $Daniel Nava caught the ball on the warning track and dropped it as he flipped it towards his throwing hand; it was ruled no catch by 2B umpire Mike DiMuro; Red Sox Manager John Farrell ejected by DiMuro","2013DET.EVA.regular.comment.csv",16
+"DET201307110",44,"$the first pitch to Prince Fielder was up and in but Chris Sale immediately reacted as if the ball got away from him","2013DET.EVA.regular.comment.csv",17
+"DET201307110",51,"ej,putkl001,P,fairc901,Throwing at batter ej,leylj801,M,fairc901,Throwing at batter $Luke Putkonen's first pitch to Alexei Ramirez went behind Ramirez' back; Ramirez walked toward the mound yelling and pointing; both benches cleared; Putkonen and Tigers manager Jim Leyland ejected by HP umpire Chad Fairchild; Leyland came back onto the field to argue that Ramirez should have been ejected as well","2013DET.EVA.regular.comment.csv",18
+"DET201307110",52,"White Sox shortstop Alexei Ramirez left the game due to an injured leg","2013DET.EVA.regular.comment.csv",19
+"DET201307140",55,"Tigers pitcher Justin Verlander left the game due to an injured leg","2013DET.EVA.regular.comment.csv",20
+"DET201307280",23,"ej,cabrm001,P,fairc901,Balls and strikes ej,leylj801,M,fairc901,Balls and strikes $Tigers third baseman Miguel Cabrera and Tigers Manager Jim Leyland ejected by HP umpire Chad Fairchild","2013DET.EVA.regular.comment.csv",21
+"DET201307280",59,"all runs originally scored as UR, last three changed to TUR on 07-31-2013, raises Garcia's ER count from 0 to 3","2013DET.EVA.regular.comment.csv",22
+"DET201307300",32,"fan interference","2013DET.EVA.regular.comment.csv",23
+"DET201308170",36,"ej,leylj801,M,davib902,Foul ball non-call $Tigers manager Leyland ejected by HP umpire Muchlinski for arguing that wild pitch was foul ball that bounced and hit bat","2013DET.EVA.regular.comment.csv",24
+"DET201308170",37,"ej,penab002,P,muchm901,Foul ball non-call $Catcher Pena ejected by HP umpire Muchlinski for continuing to argue the foul ball non-call","2013DET.EVA.regular.comment.csv",25
+"DET201308170",60,"Tigers second baseman Omar Infante left the game due to an injured back","2013DET.EVA.regular.comment.csv",26
+"DET201308210",64,"$Torii Hunter scored from 2B on a PB and throw to 1B when pitcher Caleb Thielbar did not cover HP","2013DET.EVA.regular.comment.csv",27
+"DET201308210",76,"originally scored E4, changed to single on 08-29-2013","2013DET.EVA.regular.comment.csv",28
+"DET201308270",49,"$Game called for rain after delay of 1:20","2013DET.EVA.regular.comment.csv",29
+"DET201308290",46,"Miguel Cabrera left the game with an abdominal injury","2013DET.EVA.regular.comment.csv",30
+"DET201308300",16,"Tigers third baseman Miguel Cabrera left the game due to an injured side","2013DET.EVA.regular.comment.csv",31
+"DET201308300",65,"$Game called for rain after delay of 1:09","2013DET.EVA.regular.comment.csv",32
+"DET201309130",4,"originally scored as double plus error, changed to triple on 09-26-2013, making run earned","2013DET.EVA.regular.comment.csv",33
+"DET201309140",20,"ej,bonie001,P,hoyej901,Call at 1B (Threw helmet) Royals second baseman Emilio Bonifacio ejected by 1B umpire James Hoye","2013DET.EVA.regular.comment.csv",34
+"DET201309190",54,"Tigers shortstop Jose Iglesias left the game due to an injured hand","2013DET.EVA.regular.comment.csv",35
+"DET201309210",81,"Tigers third baseman Miguel Cabrera left the game due to an injured groin","2013DET.EVA.regular.comment.csv",36

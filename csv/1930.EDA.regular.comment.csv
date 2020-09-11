@@ -1,27 +1,28 @@
-"SLA193004270",0,"$White Sox 1bman Clancy sets major league record with no putouts, assists or errors","FILENAME_TX","LINE_NUMBER_CT"
-"SLA193004270",50,"$Yes, the GDP was started by the left fielder","1930.EDA.regular.comment.csv",2
-"SLA193004270",51,"$Thomas left with strained arm on 1-2 count","1930.EDA.regular.comment.csv",3
-"WS1193005040",15,"2-1 count on Manion","1930.EDA.regular.comment.csv",4
-"SLA193006010",32,"$Hale hit in face by ball during warmups.","1930.EDA.regular.comment.csv",5
-"DET193006100",2,"No info on McManus error, but it did not put a man on","1930.EDA.regular.comment.csv",6
-"DET193006100",21,"Deduced FC/SH since need another base runner","1930.EDA.regular.comment.csv",7
-"DET193006100",57,"Hargrave throws wildly to second trying for a pick off","1930.EDA.regular.comment.csv",8
-"DET193006100",60,"Hargraves second hit may have been in 8th with Rhyne's error this inning","1930.EDA.regular.comment.csv",9
-"DET193006100",63,"Hogsett's throw goes into RF, Johnson throws wildly past third, but McManus retrieves ball and throws Scarritt out at home","1930.EDA.regular.comment.csv",10
-"DET193006100",76,"No info on Rhyne error, but it put a man on and enables Koenig SH","1930.EDA.regular.comment.csv",11
-"WS1193006290",81,"$Kress collided with O'Rourke and knocked ball loose; HP umpire Campbell ruled it a catch, inciting a near riot","1930.EDA.regular.comment.csv",12
-"CHA193007042",44,"ej,stewl101,P,guthb901,Balls and strikes $Stewart ejected by HP umpire Guthrie for arguing balls and strikes after Reynolds' home run","1930.EDA.regular.comment.csv",13
-"DET193007170",61,"$McManus removed for standing at plate after he topped ball and was tagged out without running","1930.EDA.regular.comment.csv",14
-"DET193007180",4,"$wild throw on ball 4","1930.EDA.regular.comment.csv",15
-"DET193007180",67,"Hogsett entered with 2-1 count on Miller","1930.EDA.regular.comment.csv",16
-"BOS193008100",5,"Hit and run.","1930.EDA.regular.comment.csv",17
-"BOS193008100",6,"$Warstler missed touching second.","1930.EDA.regular.comment.csv",18
-"BOS193008100",63,"Not certain when Berry entered game.","1930.EDA.regular.comment.csv",19
-"SLA193007272",2,"No info about McNeely's error, but it did not put a man on","1930.EDA.regular.comment.csv",20
-"SLA193007272",30,"Not sure who hit into DP, which may have been a LDP","1930.EDA.regular.comment.csv",21
-"SLA193007272",68,"No info on Warsteler error, but it put a man on and Badgro had 2 CS","1930.EDA.regular.comment.csv",22
-"SLA193007272",75,"Not clear if PH then new pitcher or other way around","1930.EDA.regular.comment.csv",23
-"NYA193008171",65,"Not sure when Chapman entered.","1930.EDA.regular.comment.csv",24
-"NYA193008171",83,"Not certain when Byrd entered.","1930.EDA.regular.comment.csv",25
-"BOS193008241",0,"AL game played at Braves Field.","1930.EDA.regular.comment.csv",26
-"DET193009190",33,"Not clear when Koenig entered.","1930.EDA.regular.comment.csv",27
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"SLA193004270",0,"$White Sox 1bman Clancy sets major league record with no putouts, assists or errors","1930.EDA.regular.comment.csv",2
+"SLA193004270",50,"$Yes, the GDP was started by the left fielder","1930.EDA.regular.comment.csv",3
+"SLA193004270",51,"$Thomas left with strained arm on 1-2 count","1930.EDA.regular.comment.csv",4
+"WS1193005040",15,"2-1 count on Manion","1930.EDA.regular.comment.csv",5
+"SLA193006010",32,"$Hale hit in face by ball during warmups.","1930.EDA.regular.comment.csv",6
+"DET193006100",2,"No info on McManus error, but it did not put a man on","1930.EDA.regular.comment.csv",7
+"DET193006100",21,"Deduced FC/SH since need another base runner","1930.EDA.regular.comment.csv",8
+"DET193006100",57,"Hargrave throws wildly to second trying for a pick off","1930.EDA.regular.comment.csv",9
+"DET193006100",60,"Hargraves second hit may have been in 8th with Rhyne's error this inning","1930.EDA.regular.comment.csv",10
+"DET193006100",63,"Hogsett's throw goes into RF, Johnson throws wildly past third, but McManus retrieves ball and throws Scarritt out at home","1930.EDA.regular.comment.csv",11
+"DET193006100",76,"No info on Rhyne error, but it put a man on and enables Koenig SH","1930.EDA.regular.comment.csv",12
+"WS1193006290",81,"$Kress collided with O'Rourke and knocked ball loose; HP umpire Campbell ruled it a catch, inciting a near riot","1930.EDA.regular.comment.csv",13
+"CHA193007042",44,"ej,stewl101,P,guthb901,Balls and strikes $Stewart ejected by HP umpire Guthrie for arguing balls and strikes after Reynolds' home run","1930.EDA.regular.comment.csv",14
+"DET193007170",61,"$McManus removed for standing at plate after he topped ball and was tagged out without running","1930.EDA.regular.comment.csv",15
+"DET193007180",4,"$wild throw on ball 4","1930.EDA.regular.comment.csv",16
+"DET193007180",67,"Hogsett entered with 2-1 count on Miller","1930.EDA.regular.comment.csv",17
+"BOS193008100",5,"Hit and run.","1930.EDA.regular.comment.csv",18
+"BOS193008100",6,"$Warstler missed touching second.","1930.EDA.regular.comment.csv",19
+"BOS193008100",63,"Not certain when Berry entered game.","1930.EDA.regular.comment.csv",20
+"SLA193007272",2,"No info about McNeely's error, but it did not put a man on","1930.EDA.regular.comment.csv",21
+"SLA193007272",30,"Not sure who hit into DP, which may have been a LDP","1930.EDA.regular.comment.csv",22
+"SLA193007272",68,"No info on Warsteler error, but it put a man on and Badgro had 2 CS","1930.EDA.regular.comment.csv",23
+"SLA193007272",75,"Not clear if PH then new pitcher or other way around","1930.EDA.regular.comment.csv",24
+"NYA193008171",65,"Not sure when Chapman entered.","1930.EDA.regular.comment.csv",25
+"NYA193008171",83,"Not certain when Byrd entered.","1930.EDA.regular.comment.csv",26
+"BOS193008241",0,"AL game played at Braves Field.","1930.EDA.regular.comment.csv",27
+"DET193009190",33,"Not clear when Koenig entered.","1930.EDA.regular.comment.csv",28

@@ -1,41 +1,42 @@
-"PHI199004150",16,"Originally scored E5","FILENAME_TX","LINE_NUMBER_CT"
-"PHI199004150",24,"$the Cardinals botched the rundown","1990PHI.EVN.regular.comment.csv",2
-"PHI199004190",52,"ej,hayev001,P,hirsm901,Called third strike Von Hayes ejected by HP umpire Mark Hirschbeck","1990PHI.EVN.regular.comment.csv",3
-"PHI199004240",26,"$Eric Davis hurt knee","1990PHI.EVN.regular.comment.csv",4
-"PHI199004250",83,"ej,leyvn801,M,hallt901,Balls and strikes $Phillies manager Leyva ejected by HP umpire Hallion at end of home 8th for arguing balls and strikes","1990PHI.EVN.regular.comment.csv",5
-"PHI199005300",49,"Debut game for Jim Vatcher","1990PHI.EVN.regular.comment.csv",6
-"PHI199006010",18,"$Howard Johnson called for interference for running into his own batted ball","1990PHI.EVN.regular.comment.csv",7
-"PHI199006020",21,"$Darren Daulton called for interference","1990PHI.EVN.regular.comment.csv",8
-"PHI199006030",64,"Debut game for Dave Liddell","1990PHI.EVN.regular.comment.csv",9
-"PHI199006111",69,"$Nixon stole 2B but had to return on umpire's interference by HP Umpire Winters on catcher","1990PHI.EVN.regular.comment.csv",10
-"PHI199006111",73,"$force out after dropped popup","1990PHI.EVN.regular.comment.csv",11
-"PHI199006112",1,"Debut game for Chris Nabholz","1990PHI.EVN.regular.comment.csv",12
-"PHI199006112",37,"$Jordan hurt wrist on double last inning","1990PHI.EVN.regular.comment.csv",13
-"PHI199006112",41,"ej,leyvn801,M,laynj901,Balls and strikes $Phillies manager Leyva ejected by HP umpire Layne for arguing balls and strikes while Fitzgerald batting","1990PHI.EVN.regular.comment.csv",14
-"PHI199006160",4,"$Shawon Dunston hit in face by throw from LF","1990PHI.EVN.regular.comment.csv",15
-"PHI199006170",37,"$Jerome Walton broke hand but stayed in game until 7th","1990PHI.EVN.regular.comment.csv",16
-"PHI199006200",58,"Grounder deflected off pitcher to 2B to start DP","1990PHI.EVN.regular.comment.csv",17
-"PHI199006300",59,"$Ron Jones hurt knee on inside the park homer; out for season","1990PHI.EVN.regular.comment.csv",18
-"PHI199007080",1,"$Billy Hatcher called for interference for running into own bunt","1990PHI.EVN.regular.comment.csv",19
-"PHI199008030",78,"$the only hit off Doug Drabek comes with 2 out in ninth","1990PHI.EVN.regular.comment.csv",20
-"PHI199008040",43,"ej,leyvn801,M,mcshj901,Safe/out call Phillies manager Nick Leyva ejected by 1B umpire John McSherry for arguing that Dykstra had beaten play at 1st","1990PHI.EVN.regular.comment.csv",21
-"PHI199008050",23,"$Andy Van Slyke twisted ankle on bag at 1B","1990PHI.EVN.regular.comment.csv",22
-"PHI199008061",1,"Debut game for Randy Tomlin","1990PHI.EVN.regular.comment.csv",23
-"PHI199008140",47,"DWS: invented play","1990PHI.EVN.regular.comment.csv",24
-"PHI199008140",48,"DWS: invented play","1990PHI.EVN.regular.comment.csv",25
-"PHI199008140",104,"DWS: invented play","1990PHI.EVN.regular.comment.csv",26
-"PHI199008280",44,"$Kal Daniels hurt by foul ball","1990PHI.EVN.regular.comment.csv",27
-"PHI199008290",17,"2:22 rain delay at 8:08 PM","1990PHI.EVN.regular.comment.csv",28
-"PHI199008310",59,"Debut game for Wes Chamberlain","1990PHI.EVN.regular.comment.csv",29
-"PHI199008310",62,"$off top of wall","1990PHI.EVN.regular.comment.csv",30
-"PHI199009011",60,"Debut game for Mickey Morandini","1990PHI.EVN.regular.comment.csv",31
-"PHI199009012",4,"DWS: invented play","1990PHI.EVN.regular.comment.csv",32
-"PHI199009012",10,"DWS: invented play","1990PHI.EVN.regular.comment.csv",33
-"PHI199009012",13,"DWS: invented fielding credit on double play","1990PHI.EVN.regular.comment.csv",34
-"PHI199009012",14,"No pitch data for any batter before C. Hayes","1990PHI.EVN.regular.comment.csv",35
-"PHI199009060",5,"Debut game for Derrick May","1990PHI.EVN.regular.comment.csv",36
-"PHI199009060",49,"Debut game for Chuck Malone","1990PHI.EVN.regular.comment.csv",37
-"PHI199009070",69,"$Mickey Morandini called for interference for running inside baseline","1990PHI.EVN.regular.comment.csv",38
-"PHI199009100",55,"$Bobby Bonilla hit in helmet by 94 mph fast ball","1990PHI.EVN.regular.comment.csv",39
-"PHI199009100",74,"ej,leyvn801,M,harvd901,Call at 1B $Phillies manager Leyva ejected by 1B umpire Harvey for arguing King was out at 1B","1990PHI.EVN.regular.comment.csv",40
-"PHI199009210",98,"DWS: invented play","1990PHI.EVN.regular.comment.csv",41
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"PHI199004150",16,"Originally scored E5","1990PHI.EVN.regular.comment.csv",2
+"PHI199004150",24,"$the Cardinals botched the rundown","1990PHI.EVN.regular.comment.csv",3
+"PHI199004190",52,"ej,hayev001,P,hirsm901,Called third strike Von Hayes ejected by HP umpire Mark Hirschbeck","1990PHI.EVN.regular.comment.csv",4
+"PHI199004240",26,"$Eric Davis hurt knee","1990PHI.EVN.regular.comment.csv",5
+"PHI199004250",83,"ej,leyvn801,M,hallt901,Balls and strikes $Phillies manager Leyva ejected by HP umpire Hallion at end of home 8th for arguing balls and strikes","1990PHI.EVN.regular.comment.csv",6
+"PHI199005300",49,"Debut game for Jim Vatcher","1990PHI.EVN.regular.comment.csv",7
+"PHI199006010",18,"$Howard Johnson called for interference for running into his own batted ball","1990PHI.EVN.regular.comment.csv",8
+"PHI199006020",21,"$Darren Daulton called for interference","1990PHI.EVN.regular.comment.csv",9
+"PHI199006030",64,"Debut game for Dave Liddell","1990PHI.EVN.regular.comment.csv",10
+"PHI199006111",69,"$Nixon stole 2B but had to return on umpire's interference by HP Umpire Winters on catcher","1990PHI.EVN.regular.comment.csv",11
+"PHI199006111",73,"$force out after dropped popup","1990PHI.EVN.regular.comment.csv",12
+"PHI199006112",1,"Debut game for Chris Nabholz","1990PHI.EVN.regular.comment.csv",13
+"PHI199006112",37,"$Jordan hurt wrist on double last inning","1990PHI.EVN.regular.comment.csv",14
+"PHI199006112",41,"ej,leyvn801,M,laynj901,Balls and strikes $Phillies manager Leyva ejected by HP umpire Layne for arguing balls and strikes while Fitzgerald batting","1990PHI.EVN.regular.comment.csv",15
+"PHI199006160",4,"$Shawon Dunston hit in face by throw from LF","1990PHI.EVN.regular.comment.csv",16
+"PHI199006170",37,"$Jerome Walton broke hand but stayed in game until 7th","1990PHI.EVN.regular.comment.csv",17
+"PHI199006200",58,"Grounder deflected off pitcher to 2B to start DP","1990PHI.EVN.regular.comment.csv",18
+"PHI199006300",59,"$Ron Jones hurt knee on inside the park homer; out for season","1990PHI.EVN.regular.comment.csv",19
+"PHI199007080",1,"$Billy Hatcher called for interference for running into own bunt","1990PHI.EVN.regular.comment.csv",20
+"PHI199008030",78,"$the only hit off Doug Drabek comes with 2 out in ninth","1990PHI.EVN.regular.comment.csv",21
+"PHI199008040",43,"ej,leyvn801,M,mcshj901,Safe/out call Phillies manager Nick Leyva ejected by 1B umpire John McSherry for arguing that Dykstra had beaten play at 1st","1990PHI.EVN.regular.comment.csv",22
+"PHI199008050",23,"$Andy Van Slyke twisted ankle on bag at 1B","1990PHI.EVN.regular.comment.csv",23
+"PHI199008061",1,"Debut game for Randy Tomlin","1990PHI.EVN.regular.comment.csv",24
+"PHI199008140",47,"DWS: invented play","1990PHI.EVN.regular.comment.csv",25
+"PHI199008140",48,"DWS: invented play","1990PHI.EVN.regular.comment.csv",26
+"PHI199008140",104,"DWS: invented play","1990PHI.EVN.regular.comment.csv",27
+"PHI199008280",44,"$Kal Daniels hurt by foul ball","1990PHI.EVN.regular.comment.csv",28
+"PHI199008290",17,"2:22 rain delay at 8:08 PM","1990PHI.EVN.regular.comment.csv",29
+"PHI199008310",59,"Debut game for Wes Chamberlain","1990PHI.EVN.regular.comment.csv",30
+"PHI199008310",62,"$off top of wall","1990PHI.EVN.regular.comment.csv",31
+"PHI199009011",60,"Debut game for Mickey Morandini","1990PHI.EVN.regular.comment.csv",32
+"PHI199009012",4,"DWS: invented play","1990PHI.EVN.regular.comment.csv",33
+"PHI199009012",10,"DWS: invented play","1990PHI.EVN.regular.comment.csv",34
+"PHI199009012",13,"DWS: invented fielding credit on double play","1990PHI.EVN.regular.comment.csv",35
+"PHI199009012",14,"No pitch data for any batter before C. Hayes","1990PHI.EVN.regular.comment.csv",36
+"PHI199009060",5,"Debut game for Derrick May","1990PHI.EVN.regular.comment.csv",37
+"PHI199009060",49,"Debut game for Chuck Malone","1990PHI.EVN.regular.comment.csv",38
+"PHI199009070",69,"$Mickey Morandini called for interference for running inside baseline","1990PHI.EVN.regular.comment.csv",39
+"PHI199009100",55,"$Bobby Bonilla hit in helmet by 94 mph fast ball","1990PHI.EVN.regular.comment.csv",40
+"PHI199009100",74,"ej,leyvn801,M,harvd901,Call at 1B $Phillies manager Leyva ejected by 1B umpire Harvey for arguing King was out at 1B","1990PHI.EVN.regular.comment.csv",41
+"PHI199009210",98,"DWS: invented play","1990PHI.EVN.regular.comment.csv",42

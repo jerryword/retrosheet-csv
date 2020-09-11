@@ -1,34 +1,35 @@
-"MIN198204060",4,"Debut game for Jim Eisenreich","FILENAME_TX","LINE_NUMBER_CT"
-"MIN198204070",46,"Debut game for Ed Nunez","1982MIN.EVA.regular.comment.csv",2
-"MIN198204070",77,"Debut game for Ed Vande Berg","1982MIN.EVA.regular.comment.csv",3
-"MIN198204070",83,"Debut game for Steve Stroughter","1982MIN.EVA.regular.comment.csv",4
-"MIN198204280",19,"Debut game for Mark DeJohn","1982MIN.EVA.regular.comment.csv",5
-"MIN198205010",82,"Debut game for Randy Bush","1982MIN.EVA.regular.comment.csv",6
-"MIN198205110",15,"discrepancy with official totals - this is counted UR","1982MIN.EVA.regular.comment.csv",7
-"MIN198205290",11,"$both runners running on the pitch; catcher Sal Butera threw to 3B and during the rundown, 3B Gary Gaetti threw to 1B to put out Graig Nettles; throw back to 3B to put out Bobby Murcer","1982MIN.EVA.regular.comment.csv",8
-"MIN198205300",75,"ej,hatcm001,P,hallb901,Called strike 3 $Hatcher ejected by HP umpire Haller for arguing called strike 3 after he had returned to dugout","1982MIN.EVA.regular.comment.csv",9
-"MIN198206060",1,"Debut game for Frank Viola","1982MIN.EVA.regular.comment.csv",10
-"MIN198206100",43,"Dave Frost left with sore elbow","1982MIN.EVA.regular.comment.csv",11
-"MIN198206180",35,"$missed squeeze","1982MIN.EVA.regular.comment.csv",12
-"MIN198206180",57,"$ball hit 3B bag","1982MIN.EVA.regular.comment.csv",13
-"MIN198207150",13,"434 ft. HR","1982MIN.EVA.regular.comment.csv",14
-"MIN198207160",11,"426 ft. HR","1982MIN.EVA.regular.comment.csv",15
-"MIN198207160",17,"ej,andes101,M,johnm901,Arguing that apparent HR ruled 3B Tigers manager Sparky Anderson ejected by 2B umpire Mark Johnson arguing that Lou Whitaker's ball was a home run","1982MIN.EVA.regular.comment.csv",16
-"MIN198207170",73,"448 ft. HR","1982MIN.EVA.regular.comment.csv",17
-"MIN198207180",32,"420 ft. HR","1982MIN.EVA.regular.comment.csv",18
-"MIN198207190",42,"424 ft. HR","1982MIN.EVA.regular.comment.csv",19
-"MIN198207200",45,"ej,mcclb001,P,goetr901,Fighting ej,hrbek001,P,goetr901,Fighting $Twins Hrbek and Brewers McClure, not in game, ejected by 2B umpire Goetz for fighting; Hrbek had slid hard into 2nd in the 5th inning and Yount did the same here; benches emptied in brawl and several Brewers went for Hrbek","1982MIN.EVA.regular.comment.csv",20
-"MIN198207200",46,"Jim Gantner left with bruised right hip","1982MIN.EVA.regular.comment.csv",21
-"MIN198207210",19,"435 ft. HR","1982MIN.EVA.regular.comment.csv",22
-"MIN198207240",20,"430 ft. HR","1982MIN.EVA.regular.comment.csv",23
-"MIN198208070",56,"445 ft. HR","1982MIN.EVA.regular.comment.csv",24
-"MIN198208190",72,"454 ft HR","1982MIN.EVA.regular.comment.csv",25
-"MIN198208290",5,"423 ft. HR","1982MIN.EVA.regular.comment.csv",26
-"MIN198208300",59,"425 ft. HR","1982MIN.EVA.regular.comment.csv",27
-"MIN198209010",2,"425 ft. HR","1982MIN.EVA.regular.comment.csv",28
-"MIN198209130",1,"Debut game for Mike Mason","1982MIN.EVA.regular.comment.csv",29
-"MIN198209160",40,"$Lamar Johnson rounded 2B too far","1982MIN.EVA.regular.comment.csv",30
-"MIN198209180",14,"Willie Aikens left with pulled rib cage muscle","1982MIN.EVA.regular.comment.csv",31
-"MIN198209200",33,"438 ft HR","1982MIN.EVA.regular.comment.csv",32
-"MIN198209200",48,"439 ft HR","1982MIN.EVA.regular.comment.csv",33
-"MIN198210010",57,"$Steve Kemp and Rudy Law collided at the wall","1982MIN.EVA.regular.comment.csv",34
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"MIN198204060",4,"Debut game for Jim Eisenreich","1982MIN.EVA.regular.comment.csv",2
+"MIN198204070",46,"Debut game for Ed Nunez","1982MIN.EVA.regular.comment.csv",3
+"MIN198204070",77,"Debut game for Ed Vande Berg","1982MIN.EVA.regular.comment.csv",4
+"MIN198204070",83,"Debut game for Steve Stroughter","1982MIN.EVA.regular.comment.csv",5
+"MIN198204280",19,"Debut game for Mark DeJohn","1982MIN.EVA.regular.comment.csv",6
+"MIN198205010",82,"Debut game for Randy Bush","1982MIN.EVA.regular.comment.csv",7
+"MIN198205110",15,"discrepancy with official totals - this is counted UR","1982MIN.EVA.regular.comment.csv",8
+"MIN198205290",11,"$both runners running on the pitch; catcher Sal Butera threw to 3B and during the rundown, 3B Gary Gaetti threw to 1B to put out Graig Nettles; throw back to 3B to put out Bobby Murcer","1982MIN.EVA.regular.comment.csv",9
+"MIN198205300",75,"ej,hatcm001,P,hallb901,Called strike 3 $Hatcher ejected by HP umpire Haller for arguing called strike 3 after he had returned to dugout","1982MIN.EVA.regular.comment.csv",10
+"MIN198206060",1,"Debut game for Frank Viola","1982MIN.EVA.regular.comment.csv",11
+"MIN198206100",43,"Dave Frost left with sore elbow","1982MIN.EVA.regular.comment.csv",12
+"MIN198206180",35,"$missed squeeze","1982MIN.EVA.regular.comment.csv",13
+"MIN198206180",57,"$ball hit 3B bag","1982MIN.EVA.regular.comment.csv",14
+"MIN198207150",13,"434 ft. HR","1982MIN.EVA.regular.comment.csv",15
+"MIN198207160",11,"426 ft. HR","1982MIN.EVA.regular.comment.csv",16
+"MIN198207160",17,"ej,andes101,M,johnm901,Arguing that apparent HR ruled 3B Tigers manager Sparky Anderson ejected by 2B umpire Mark Johnson arguing that Lou Whitaker's ball was a home run","1982MIN.EVA.regular.comment.csv",17
+"MIN198207170",73,"448 ft. HR","1982MIN.EVA.regular.comment.csv",18
+"MIN198207180",32,"420 ft. HR","1982MIN.EVA.regular.comment.csv",19
+"MIN198207190",42,"424 ft. HR","1982MIN.EVA.regular.comment.csv",20
+"MIN198207200",45,"ej,mcclb001,P,goetr901,Fighting ej,hrbek001,P,goetr901,Fighting $Twins Hrbek and Brewers McClure, not in game, ejected by 2B umpire Goetz for fighting; Hrbek had slid hard into 2nd in the 5th inning and Yount did the same here; benches emptied in brawl and several Brewers went for Hrbek","1982MIN.EVA.regular.comment.csv",21
+"MIN198207200",46,"Jim Gantner left with bruised right hip","1982MIN.EVA.regular.comment.csv",22
+"MIN198207210",19,"435 ft. HR","1982MIN.EVA.regular.comment.csv",23
+"MIN198207240",20,"430 ft. HR","1982MIN.EVA.regular.comment.csv",24
+"MIN198208070",56,"445 ft. HR","1982MIN.EVA.regular.comment.csv",25
+"MIN198208190",72,"454 ft HR","1982MIN.EVA.regular.comment.csv",26
+"MIN198208290",5,"423 ft. HR","1982MIN.EVA.regular.comment.csv",27
+"MIN198208300",59,"425 ft. HR","1982MIN.EVA.regular.comment.csv",28
+"MIN198209010",2,"425 ft. HR","1982MIN.EVA.regular.comment.csv",29
+"MIN198209130",1,"Debut game for Mike Mason","1982MIN.EVA.regular.comment.csv",30
+"MIN198209160",40,"$Lamar Johnson rounded 2B too far","1982MIN.EVA.regular.comment.csv",31
+"MIN198209180",14,"Willie Aikens left with pulled rib cage muscle","1982MIN.EVA.regular.comment.csv",32
+"MIN198209200",33,"438 ft HR","1982MIN.EVA.regular.comment.csv",33
+"MIN198209200",48,"439 ft HR","1982MIN.EVA.regular.comment.csv",34
+"MIN198210010",57,"$Steve Kemp and Rudy Law collided at the wall","1982MIN.EVA.regular.comment.csv",35

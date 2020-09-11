@@ -1,16 +1,17 @@
-"CHN193204240",13,"$Cuyler broke his toe","FILENAME_TX","LINE_NUMBER_CT"
-"BSN193204250",45,"$Hurst had Maranville in rundown when Zachary tried to score","1932.EDN.regular.comment.csv",2
-"SLN193205150",23,"$3b runner left early, out an appeal","1932.EDN.regular.comment.csv",3
-"BRO193205291",21,"$Ground rules homer off screen.","1932.EDN.regular.comment.csv",4
-"CHN193205150",85,"$Hansen entered with 2-0 count on English, walk to Nichols","1932.EDN.regular.comment.csv",5
-"SLN193205081",7,"$Blades ran into the wall and sprained his wrist and had to be pinch hit for in the second inning","1932.EDN.regular.comment.csv",6
-"SLN193205082",38,"$Dean's bunt went over the head of 3B Vergez into shallow LF. Vergez chased the ball, SS Jackson covered 3B, and 2B Critz was covering 1B, leaving 2B unoccupied. So Dean tried for a double. Critz raced him to 2B but LF Koenecke's throw sailed over Critz's head. C Hogan chased down the ball near 1B, leaving home plate open, so Dean tried to score. Hogan's throw landed in the stands, but he wasn't charged an error on the play.","1932.EDN.regular.comment.csv",7
-"BSN193207232",66,"$Game called for darkness","1932.EDN.regular.comment.csv",8
-"PHI193207260",27,"$10 Reds banished from bench by HP umpire Moran, but not ejected so they were eligibile to enter game later, except for pithcer Carroll who had already left game; the 10 were: Carroll, Johnson, Benton, Rixey, Asbjornson, Hilcher, Frey, Lucas, Crabtree and Morrissey","1932.EDN.regular.comment.csv",9
-"NY1193207311",79,"$Line drive off pitcher's bare hand; Fitzimmons left game","1932.EDN.regular.comment.csv",10
-"BSN193208072",16,"$Worthington broke leg on slide","1932.EDN.regular.comment.csv",11
-"SLN193208211",116,"$Orsatti dislocated shoulder diving for triple and left game","1932.EDN.regular.comment.csv",12
-"SLN193208212",54,"$Game called for darkness","1932.EDN.regular.comment.csv",13
-"PIT193208302",40,"$Knothe broke leg on caught stealing","1932.EDN.regular.comment.csv",14
-"BSN193209052",27,"Ball just missed being a home run, hitting high off the wall.","1932.EDN.regular.comment.csv",15
-"NY1193209252",71,"$Game called for darkness","1932.EDN.regular.comment.csv",16
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"CHN193204240",13,"$Cuyler broke his toe","1932.EDN.regular.comment.csv",2
+"BSN193204250",45,"$Hurst had Maranville in rundown when Zachary tried to score","1932.EDN.regular.comment.csv",3
+"SLN193205150",23,"$3b runner left early, out an appeal","1932.EDN.regular.comment.csv",4
+"BRO193205291",21,"$Ground rules homer off screen.","1932.EDN.regular.comment.csv",5
+"CHN193205150",85,"$Hansen entered with 2-0 count on English, walk to Nichols","1932.EDN.regular.comment.csv",6
+"SLN193205081",7,"$Blades ran into the wall and sprained his wrist and had to be pinch hit for in the second inning","1932.EDN.regular.comment.csv",7
+"SLN193205082",38,"$Dean's bunt went over the head of 3B Vergez into shallow LF. Vergez chased the ball, SS Jackson covered 3B, and 2B Critz was covering 1B, leaving 2B unoccupied. So Dean tried for a double. Critz raced him to 2B but LF Koenecke's throw sailed over Critz's head. C Hogan chased down the ball near 1B, leaving home plate open, so Dean tried to score. Hogan's throw landed in the stands, but he wasn't charged an error on the play.","1932.EDN.regular.comment.csv",8
+"BSN193207232",66,"$Game called for darkness","1932.EDN.regular.comment.csv",9
+"PHI193207260",27,"$10 Reds banished from bench by HP umpire Moran, but not ejected so they were eligibile to enter game later, except for pithcer Carroll who had already left game; the 10 were: Carroll, Johnson, Benton, Rixey, Asbjornson, Hilcher, Frey, Lucas, Crabtree and Morrissey","1932.EDN.regular.comment.csv",10
+"NY1193207311",79,"$Line drive off pitcher's bare hand; Fitzimmons left game","1932.EDN.regular.comment.csv",11
+"BSN193208072",16,"$Worthington broke leg on slide","1932.EDN.regular.comment.csv",12
+"SLN193208211",116,"$Orsatti dislocated shoulder diving for triple and left game","1932.EDN.regular.comment.csv",13
+"SLN193208212",54,"$Game called for darkness","1932.EDN.regular.comment.csv",14
+"PIT193208302",40,"$Knothe broke leg on caught stealing","1932.EDN.regular.comment.csv",15
+"BSN193209052",27,"Ball just missed being a home run, hitting high off the wall.","1932.EDN.regular.comment.csv",16
+"NY1193209252",71,"$Game called for darkness","1932.EDN.regular.comment.csv",17

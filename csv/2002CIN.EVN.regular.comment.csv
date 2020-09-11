@@ -1,30 +1,31 @@
-"CIN200204030",79,"ej,pinel001,P,everm901,Intentional HBP Luis Pineda ejected by HP umpire Mike Everitt","FILENAME_TX","LINE_NUMBER_CT"
-"CIN200204050",91,"tremendous diving tag by catcher on runner from 3rd","2002CIN.EVN.regular.comment.csv",2
-"CIN200204050",92,"DV: this has to be UR for Vosberg discrepancy with officials DWS: changed away from UR for now - note that removing the UR from Larue's play makes us agree with the not this one","2002CIN.EVN.regular.comment.csv",3
-"CIN200204070",64,"Griffey hurt knee badly on play -> DL","2002CIN.EVN.regular.comment.csv",4
-"CIN200204170",18,"Debut game for Austin Kearns","2002CIN.EVN.regular.comment.csv",5
-"CIN200204170",75,"Debut game for Brandon Puffer","2002CIN.EVN.regular.comment.csv",6
-"CIN200204240",25,"2:39 rain delay","2002CIN.EVN.regular.comment.csv",7
-"CIN200204270",69,"game called after 30 minute rain delay Fultz announced into game, but did not throw a pitch","2002CIN.EVN.regular.comment.csv",8
-"CIN200205080",75,"ej,mallb002,P,tscht901,Throwing at Austin Kearns Brian Mallette ejected by HP umpire Tim Tschida","2002CIN.EVN.regular.comment.csv",9
-"CIN200205310",34,"1:04 rain delay","2002CIN.EVN.regular.comment.csv",10
-"CIN200206140",17,"1:45 rain delay in 3rd","2002CIN.EVN.regular.comment.csv",11
-"CIN200206150",36,"1:53 rain delay","2002CIN.EVN.regular.comment.csv",12
-"CIN200206230",28,"$Griffey reaggravated left hamstring rounding 1B","2002CIN.EVN.regular.comment.csv",13
-"CIN200207010",70,"Debut game for Luke Hudson","2002CIN.EVN.regular.comment.csv",14
-"CIN200207190",26,"$HP umpire Bill Miller slipped and sprained an ankle covering a foul ball hit by Mo Vaughn near the 3B dugout","2002CIN.EVN.regular.comment.csv",15
-"CIN200207190",32,"umpchange,4,umphome,hohnb901 umpchange,4,ump1b,younl901 umpchange,4,ump2b,(None) $HP umpire Bill Miller left to have his ankle X-rayed; there was no break","2002CIN.EVN.regular.comment.csv",16
-"CIN200207190",44,"$the ball by Kearns was called a catch by the three-man umpire crew; the television replay showed that the ball hit the wall and Timo Perez caught it off the barrier; Todd Walker was doubled off 2B before Brady Clark could score a run; Adam Dunn, running from 1B, had passed 2B when Walker ran back to 2B; even if Walker had not been called out on the tagup, Dunn would have been out for passing Walker","2002CIN.EVN.regular.comment.csv",17
-"CIN200207210",51,"Debut game for Marco Scutaro","2002CIN.EVN.regular.comment.csv",18
-"CIN200207210",68,"Debut game for Jay Weong Seo","2002CIN.EVN.regular.comment.csv",19
-"CIN200207230",74,"ej,manzj001,P,marsr901,Balls and strikes $Pitcher Manzanillo ejected by HP umpire Marsh for arguing balls and strikes as he left field at end of inning","2002CIN.EVN.regular.comment.csv",20
-"CIN200207300",31,"$Lo Duca threw wildly after PB","2002CIN.EVN.regular.comment.csv",21
-"CIN200207300",34,"Debut game for Victor Alvarez","2002CIN.EVN.regular.comment.csv",22
-"CIN200208010",73,"ej,gagne001,P,iassd901,Intentional HBP ej,tracj101,M,iassd901,Intentional HBP Eric Gagne and Dodgers manager Jim Tracy ejected by HP umpire Dan Iassogna","2002CIN.EVN.regular.comment.csv",23
-"CIN200208110",73,"1:33 rain delay in 9th","2002CIN.EVN.regular.comment.csv",24
-"CIN200208180",18,"2:56 rain delay","2002CIN.EVN.regular.comment.csv",25
-"CIN200208271",49,"$Kearns pulled hamstring here, onto DL between games","2002CIN.EVN.regular.comment.csv",26
-"CIN200209010",53,"Debut game for Billy Hall","2002CIN.EVN.regular.comment.csv",27
-"CIN200209010",59,"$Sanchez rounded the bag too far after sacrifice; he broke his leg sliding back into 2B and had surgery the next day","2002CIN.EVN.regular.comment.csv",28
-"CIN200209100",21,"Debut game for Wily Mo Pena","2002CIN.EVN.regular.comment.csv",29
-"CIN200209100",53,"ej,wills801,C,hudsm901,Balls and strikes $Pirates coach Williams ejected by HP umpire Hudson for arguing balls and strikes with Branyan at bat","2002CIN.EVN.regular.comment.csv",30
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"CIN200204030",79,"ej,pinel001,P,everm901,Intentional HBP Luis Pineda ejected by HP umpire Mike Everitt","2002CIN.EVN.regular.comment.csv",2
+"CIN200204050",91,"tremendous diving tag by catcher on runner from 3rd","2002CIN.EVN.regular.comment.csv",3
+"CIN200204050",92,"DV: this has to be UR for Vosberg discrepancy with officials DWS: changed away from UR for now - note that removing the UR from Larue's play makes us agree with the not this one","2002CIN.EVN.regular.comment.csv",4
+"CIN200204070",64,"Griffey hurt knee badly on play -> DL","2002CIN.EVN.regular.comment.csv",5
+"CIN200204170",18,"Debut game for Austin Kearns","2002CIN.EVN.regular.comment.csv",6
+"CIN200204170",75,"Debut game for Brandon Puffer","2002CIN.EVN.regular.comment.csv",7
+"CIN200204240",25,"2:39 rain delay","2002CIN.EVN.regular.comment.csv",8
+"CIN200204270",69,"game called after 30 minute rain delay Fultz announced into game, but did not throw a pitch","2002CIN.EVN.regular.comment.csv",9
+"CIN200205080",75,"ej,mallb002,P,tscht901,Throwing at Austin Kearns Brian Mallette ejected by HP umpire Tim Tschida","2002CIN.EVN.regular.comment.csv",10
+"CIN200205310",34,"1:04 rain delay","2002CIN.EVN.regular.comment.csv",11
+"CIN200206140",17,"1:45 rain delay in 3rd","2002CIN.EVN.regular.comment.csv",12
+"CIN200206150",36,"1:53 rain delay","2002CIN.EVN.regular.comment.csv",13
+"CIN200206230",28,"$Griffey reaggravated left hamstring rounding 1B","2002CIN.EVN.regular.comment.csv",14
+"CIN200207010",70,"Debut game for Luke Hudson","2002CIN.EVN.regular.comment.csv",15
+"CIN200207190",26,"$HP umpire Bill Miller slipped and sprained an ankle covering a foul ball hit by Mo Vaughn near the 3B dugout","2002CIN.EVN.regular.comment.csv",16
+"CIN200207190",32,"umpchange,4,umphome,hohnb901 umpchange,4,ump1b,younl901 umpchange,4,ump2b,(None) $HP umpire Bill Miller left to have his ankle X-rayed; there was no break","2002CIN.EVN.regular.comment.csv",17
+"CIN200207190",44,"$the ball by Kearns was called a catch by the three-man umpire crew; the television replay showed that the ball hit the wall and Timo Perez caught it off the barrier; Todd Walker was doubled off 2B before Brady Clark could score a run; Adam Dunn, running from 1B, had passed 2B when Walker ran back to 2B; even if Walker had not been called out on the tagup, Dunn would have been out for passing Walker","2002CIN.EVN.regular.comment.csv",18
+"CIN200207210",51,"Debut game for Marco Scutaro","2002CIN.EVN.regular.comment.csv",19
+"CIN200207210",68,"Debut game for Jay Weong Seo","2002CIN.EVN.regular.comment.csv",20
+"CIN200207230",74,"ej,manzj001,P,marsr901,Balls and strikes $Pitcher Manzanillo ejected by HP umpire Marsh for arguing balls and strikes as he left field at end of inning","2002CIN.EVN.regular.comment.csv",21
+"CIN200207300",31,"$Lo Duca threw wildly after PB","2002CIN.EVN.regular.comment.csv",22
+"CIN200207300",34,"Debut game for Victor Alvarez","2002CIN.EVN.regular.comment.csv",23
+"CIN200208010",73,"ej,gagne001,P,iassd901,Intentional HBP ej,tracj101,M,iassd901,Intentional HBP Eric Gagne and Dodgers manager Jim Tracy ejected by HP umpire Dan Iassogna","2002CIN.EVN.regular.comment.csv",24
+"CIN200208110",73,"1:33 rain delay in 9th","2002CIN.EVN.regular.comment.csv",25
+"CIN200208180",18,"2:56 rain delay","2002CIN.EVN.regular.comment.csv",26
+"CIN200208271",49,"$Kearns pulled hamstring here, onto DL between games","2002CIN.EVN.regular.comment.csv",27
+"CIN200209010",53,"Debut game for Billy Hall","2002CIN.EVN.regular.comment.csv",28
+"CIN200209010",59,"$Sanchez rounded the bag too far after sacrifice; he broke his leg sliding back into 2B and had surgery the next day","2002CIN.EVN.regular.comment.csv",29
+"CIN200209100",21,"Debut game for Wily Mo Pena","2002CIN.EVN.regular.comment.csv",30
+"CIN200209100",53,"ej,wills801,C,hudsm901,Balls and strikes $Pirates coach Williams ejected by HP umpire Hudson for arguing balls and strikes with Branyan at bat","2002CIN.EVN.regular.comment.csv",31

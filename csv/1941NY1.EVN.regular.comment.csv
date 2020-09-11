@@ -1,27 +1,28 @@
-"NY1194104190",9,"Racing in, Rizzo barely got to it but knocked it into foul territory, under the tarpaulins there.  Ott scored when May threw Rizzo's return over Warren.  After much discussion and arguing, a ground-rule double was eventually decided.","FILENAME_TX","LINE_NUMBER_CT"
-"NY1194104190",11,"Into LF upper deck","1941NY1.EVN.regular.comment.csv",2
-"NY1194104190",54,"May held it too long; late throw to 1B","1941NY1.EVN.regular.comment.csv",3
-"NY1194104190",56,"Into LF upper deck","1941NY1.EVN.regular.comment.csv",4
-"NY1194104300",46,"$runner was tagged","1941NY1.EVN.regular.comment.csv",5
-"NY1194105010",55,"$2b dove for throw from outfield, landed on head, stunned manager massaged his head","1941NY1.EVN.regular.comment.csv",6
-"NY1194105020",118,"$game called, darkness","1941NY1.EVN.regular.comment.csv",7
-"NY1194105102",29,"$Bunt was popped up, but Salvo let it drop, threw to first for an out and Ott was then tagged to completed the DP","1941NY1.EVN.regular.comment.csv",8
-"NY1194105102",38,"$The play at third was very close and the Braves argued strongly; Whitehead went to second during the argument, and was awarded a stolen base","1941NY1.EVN.regular.comment.csv",9
-"NY1194105270",56,"$Game delayed for 45 minutes so everyone could listen to a fireside chat by President Roosevelt","1941NY1.EVN.regular.comment.csv",10
-"NY1194105310",69,"arbitrary 13 to 43, matching ebn","1941NY1.EVN.regular.comment.csv",11
-"NY1194105310",71,"arbitrary 13 to 143, matching ebn","1941NY1.EVN.regular.comment.csv",12
-"NY1194106011",24,"$Mel Ott's 400th home run; he is the first NL player to reach this milestone and the fourth overall (Ruth, Gehrig, Foxx)","1941NY1.EVN.regular.comment.csv",13
-"NY1194106011",55,"ej,dannh101,P,balll901,Balls and strikes Harry Danning ejected by HP umpire Lee Ballanfant","1941NY1.EVN.regular.comment.csv",14
-"NY1194106112",71,"ej,leibh101,P,searz901,Arguing balls and strikes $Leiber was ejected by HP umpire Sears with the count 1-2, for arguing balls and strikes.","1941NY1.EVN.regular.comment.csv",15
-"NY1194106112",87,"$Whitehead's hit went over Dallessandro's head and probably would have been a triple if it didn't end the game","1941NY1.EVN.regular.comment.csv",16
-"NY1194106120",33,"$On Jurges' bouncer, pitcher Lee threw high to 2B for an  error, and Moore was safe at second and Jurges at first. Moore overslid and was tagged out, Sturgeon to Cavaretta to Sturgeon, with Ott scoring from third.","1941NY1.EVN.regular.comment.csv",17
-"NY1194106270",39,"$Etten left on stretcher","1941NY1.EVN.regular.comment.csv",18
-"NY1194106280",72,"ej,warrb102,P,dunnt901,Arguing balls and strikes $Catcher Warren was ejected by home plate umpire Dunn for arguing ball three on Jurges.","1941NY1.EVN.regular.comment.csv",19
-"NY1194107131",60,"$Run scored during double play before third out.","1941NY1.EVN.regular.comment.csv",20
-"NY1194108200",62,"$overthrow during play, so not a double play","1941NY1.EVN.regular.comment.csv",21
-"NY1194108232",70,"$Melton left with the count 1-1 on Gustine, complaining of a pain in his side","1941NY1.EVN.regular.comment.csv",22
-"NY1194108262",68,"play,9,0,joose101,??,,W play,9,0,lombe101,??,,K.B-1(E2) $game called due to darkness after two batters in the top of the ninth","1941NY1.EVN.regular.comment.csv",23
-"NY1194108290",0,"ebn fldg impossible (medwj101/camid102 PO)","1941NY1.EVN.regular.comment.csv",24
-"NY1194108301",33,"arbitrary 9 to 3","1941NY1.EVN.regular.comment.csv",25
-"NY1194108302",25,"arbitrary 8 to 9","1941NY1.EVN.regular.comment.csv",26
-"NY1194108310",29,"arbitrary 9 to 6","1941NY1.EVN.regular.comment.csv",27
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"NY1194104190",9,"Racing in, Rizzo barely got to it but knocked it into foul territory, under the tarpaulins there.  Ott scored when May threw Rizzo's return over Warren.  After much discussion and arguing, a ground-rule double was eventually decided.","1941NY1.EVN.regular.comment.csv",2
+"NY1194104190",11,"Into LF upper deck","1941NY1.EVN.regular.comment.csv",3
+"NY1194104190",54,"May held it too long; late throw to 1B","1941NY1.EVN.regular.comment.csv",4
+"NY1194104190",56,"Into LF upper deck","1941NY1.EVN.regular.comment.csv",5
+"NY1194104300",46,"$runner was tagged","1941NY1.EVN.regular.comment.csv",6
+"NY1194105010",55,"$2b dove for throw from outfield, landed on head, stunned manager massaged his head","1941NY1.EVN.regular.comment.csv",7
+"NY1194105020",118,"$game called, darkness","1941NY1.EVN.regular.comment.csv",8
+"NY1194105102",29,"$Bunt was popped up, but Salvo let it drop, threw to first for an out and Ott was then tagged to completed the DP","1941NY1.EVN.regular.comment.csv",9
+"NY1194105102",38,"$The play at third was very close and the Braves argued strongly; Whitehead went to second during the argument, and was awarded a stolen base","1941NY1.EVN.regular.comment.csv",10
+"NY1194105270",56,"$Game delayed for 45 minutes so everyone could listen to a fireside chat by President Roosevelt","1941NY1.EVN.regular.comment.csv",11
+"NY1194105310",69,"arbitrary 13 to 43, matching ebn","1941NY1.EVN.regular.comment.csv",12
+"NY1194105310",71,"arbitrary 13 to 143, matching ebn","1941NY1.EVN.regular.comment.csv",13
+"NY1194106011",24,"$Mel Ott's 400th home run; he is the first NL player to reach this milestone and the fourth overall (Ruth, Gehrig, Foxx)","1941NY1.EVN.regular.comment.csv",14
+"NY1194106011",55,"ej,dannh101,P,balll901,Balls and strikes Harry Danning ejected by HP umpire Lee Ballanfant","1941NY1.EVN.regular.comment.csv",15
+"NY1194106112",71,"ej,leibh101,P,searz901,Arguing balls and strikes $Leiber was ejected by HP umpire Sears with the count 1-2, for arguing balls and strikes.","1941NY1.EVN.regular.comment.csv",16
+"NY1194106112",87,"$Whitehead's hit went over Dallessandro's head and probably would have been a triple if it didn't end the game","1941NY1.EVN.regular.comment.csv",17
+"NY1194106120",33,"$On Jurges' bouncer, pitcher Lee threw high to 2B for an  error, and Moore was safe at second and Jurges at first. Moore overslid and was tagged out, Sturgeon to Cavaretta to Sturgeon, with Ott scoring from third.","1941NY1.EVN.regular.comment.csv",18
+"NY1194106270",39,"$Etten left on stretcher","1941NY1.EVN.regular.comment.csv",19
+"NY1194106280",72,"ej,warrb102,P,dunnt901,Arguing balls and strikes $Catcher Warren was ejected by home plate umpire Dunn for arguing ball three on Jurges.","1941NY1.EVN.regular.comment.csv",20
+"NY1194107131",60,"$Run scored during double play before third out.","1941NY1.EVN.regular.comment.csv",21
+"NY1194108200",62,"$overthrow during play, so not a double play","1941NY1.EVN.regular.comment.csv",22
+"NY1194108232",70,"$Melton left with the count 1-1 on Gustine, complaining of a pain in his side","1941NY1.EVN.regular.comment.csv",23
+"NY1194108262",68,"play,9,0,joose101,??,,W play,9,0,lombe101,??,,K.B-1(E2) $game called due to darkness after two batters in the top of the ninth","1941NY1.EVN.regular.comment.csv",24
+"NY1194108290",0,"ebn fldg impossible (medwj101/camid102 PO)","1941NY1.EVN.regular.comment.csv",25
+"NY1194108301",33,"arbitrary 9 to 3","1941NY1.EVN.regular.comment.csv",26
+"NY1194108302",25,"arbitrary 8 to 9","1941NY1.EVN.regular.comment.csv",27
+"NY1194108310",29,"arbitrary 9 to 6","1941NY1.EVN.regular.comment.csv",28

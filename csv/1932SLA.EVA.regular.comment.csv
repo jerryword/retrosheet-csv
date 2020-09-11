@@ -1,39 +1,40 @@
-"SLA193204200",57,"$15 minute rain delay","FILENAME_TX","LINE_NUMBER_CT"
-"SLA193204230",23,"rain started","1932SLA.EVA.regular.comment.csv",2
-"SLA193204240",31,"$Luke Sewell thought the ball was caught","1932SLA.EVA.regular.comment.csv",3
-"SLA193204300",67,"pbp account ends here, rest deduced","1932SLA.EVA.regular.comment.csv",4
-"SLA193205291",72,"$Bill Cissell lost the ball in the sun","1932SLA.EVA.regular.comment.csv",5
-"SLA193206090",51,"$the ball struck 1B umpire Harry Geisel","1932SLA.EVA.regular.comment.csv",6
-"SLA193206140",3,"Ball landed on pavilion roof.","1932SLA.EVA.regular.comment.csv",7
-"SLA193206140",6,"Off the screen.","1932SLA.EVA.regular.comment.csv",8
-"SLA193206140",17,"$Rain delay, play was resumed in 40 minutes.","1932SLA.EVA.regular.comment.csv",9
-"SLA193206140",39,"$Marberry slipped on Burns' tap back to the mound.","1932SLA.EVA.regular.comment.csv",10
-"SLA193206140",42,"$Error charged to Myer for not covering second base.","1932SLA.EVA.regular.comment.csv",11
-"SLA193206140",43,"$Rain began falling again.","1932SLA.EVA.regular.comment.csv",12
-"SLA193206140",44,"$Trying to speed up game Melillo deliberately bunted into DP.","1932SLA.EVA.regular.comment.csv",13
-"SLA193206140",48,"With Myer's flyout the game became an official one.","1932SLA.EVA.regular.comment.csv",14
-"SLA193206210",74,"$Ed Grimes fell and injured leg after scoring","1932SLA.EVA.regular.comment.csv",15
-"SLA193206210",83,"pbp account ends here, rest deduced","1932SLA.EVA.regular.comment.csv",16
-"SLA193206230",92,"pbp account ends here, rest deduced","1932SLA.EVA.regular.comment.csv",17
-"SLA193206290",65,"pbp account ends here, rest deduced","1932SLA.EVA.regular.comment.csv",18
-"SLA193206300",74,"pbp account ends here, rest deduced","1932SLA.EVA.regular.comment.csv",19
-"SLA193207020",85,"pbp account ends here, rest deduced","1932SLA.EVA.regular.comment.csv",20
-"SLA193207030",0,"$Start of game delayed over 90 minutes by rain, which  continued through third inning","1932SLA.EVA.regular.comment.csv",21
-"SLA193207030",41,"Hit and run.","1932SLA.EVA.regular.comment.csv",22
-"SLA193207270",60,"pbp account ends here, rest deduced","1932SLA.EVA.regular.comment.csv",23
-"SLA193207270",64,"Weaver said to be tired from running bases","1932SLA.EVA.regular.comment.csv",24
-"SLA193207270",67,"Not sure when Bengough entered.","1932SLA.EVA.regular.comment.csv",25
-"SLA193207290",66,"pbp account ends here, rest deduced","1932SLA.EVA.regular.comment.csv",26
-"SLA193207300",80,"pbp account ends here, rest deduced","1932SLA.EVA.regular.comment.csv",27
-"SLA193208020",55,"pbp account ends here, rest deduced","1932SLA.EVA.regular.comment.csv",28
-"SLA193208090",50,"$onto RF roof","1932SLA.EVA.regular.comment.csv",29
-"SLA193208090",68,"pbp accounts end here, rest deduced","1932SLA.EVA.regular.comment.csv",30
-"SLA193208100",43,"$Debut for Debs Garms","1932SLA.EVA.regular.comment.csv",31
-"SLA193208100",58,"$Joe Sewell rounded 2B too far","1932SLA.EVA.regular.comment.csv",32
-"SLA193208100",71,"pbp accounts end here, rest deduced","1932SLA.EVA.regular.comment.csv",33
-"SLA193209061",83,"$Earl Averill lost the ball in the sun","1932SLA.EVA.regular.comment.csv",34
-"SLA193209080",6,"No PBP for top of 2nd","1932SLA.EVA.regular.comment.csv",35
-"SLA193209080",25,"ej,melis101,P,guthb901,Call at 2B Ski Melillo ejected by 1B umpire Bill Guthrie","1932SLA.EVA.regular.comment.csv",36
-"SLA193209090",76,"Bottom of ninth deduced","1932SLA.EVA.regular.comment.csv",37
-"SLA193209100",90,"pbp account ends here, rest deduced","1932SLA.EVA.regular.comment.csv",38
-"SLA193209160",51,"$Mickey Cochrane injured blocking HP","1932SLA.EVA.regular.comment.csv",39
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"SLA193204200",57,"$15 minute rain delay","1932SLA.EVA.regular.comment.csv",2
+"SLA193204230",23,"rain started","1932SLA.EVA.regular.comment.csv",3
+"SLA193204240",31,"$Luke Sewell thought the ball was caught","1932SLA.EVA.regular.comment.csv",4
+"SLA193204300",67,"pbp account ends here, rest deduced","1932SLA.EVA.regular.comment.csv",5
+"SLA193205291",72,"$Bill Cissell lost the ball in the sun","1932SLA.EVA.regular.comment.csv",6
+"SLA193206090",51,"$the ball struck 1B umpire Harry Geisel","1932SLA.EVA.regular.comment.csv",7
+"SLA193206140",3,"Ball landed on pavilion roof.","1932SLA.EVA.regular.comment.csv",8
+"SLA193206140",6,"Off the screen.","1932SLA.EVA.regular.comment.csv",9
+"SLA193206140",17,"$Rain delay, play was resumed in 40 minutes.","1932SLA.EVA.regular.comment.csv",10
+"SLA193206140",39,"$Marberry slipped on Burns' tap back to the mound.","1932SLA.EVA.regular.comment.csv",11
+"SLA193206140",42,"$Error charged to Myer for not covering second base.","1932SLA.EVA.regular.comment.csv",12
+"SLA193206140",43,"$Rain began falling again.","1932SLA.EVA.regular.comment.csv",13
+"SLA193206140",44,"$Trying to speed up game Melillo deliberately bunted into DP.","1932SLA.EVA.regular.comment.csv",14
+"SLA193206140",48,"With Myer's flyout the game became an official one.","1932SLA.EVA.regular.comment.csv",15
+"SLA193206210",74,"$Ed Grimes fell and injured leg after scoring","1932SLA.EVA.regular.comment.csv",16
+"SLA193206210",83,"pbp account ends here, rest deduced","1932SLA.EVA.regular.comment.csv",17
+"SLA193206230",92,"pbp account ends here, rest deduced","1932SLA.EVA.regular.comment.csv",18
+"SLA193206290",65,"pbp account ends here, rest deduced","1932SLA.EVA.regular.comment.csv",19
+"SLA193206300",74,"pbp account ends here, rest deduced","1932SLA.EVA.regular.comment.csv",20
+"SLA193207020",85,"pbp account ends here, rest deduced","1932SLA.EVA.regular.comment.csv",21
+"SLA193207030",0,"$Start of game delayed over 90 minutes by rain, which  continued through third inning","1932SLA.EVA.regular.comment.csv",22
+"SLA193207030",41,"Hit and run.","1932SLA.EVA.regular.comment.csv",23
+"SLA193207270",60,"pbp account ends here, rest deduced","1932SLA.EVA.regular.comment.csv",24
+"SLA193207270",64,"Weaver said to be tired from running bases","1932SLA.EVA.regular.comment.csv",25
+"SLA193207270",67,"Not sure when Bengough entered.","1932SLA.EVA.regular.comment.csv",26
+"SLA193207290",66,"pbp account ends here, rest deduced","1932SLA.EVA.regular.comment.csv",27
+"SLA193207300",80,"pbp account ends here, rest deduced","1932SLA.EVA.regular.comment.csv",28
+"SLA193208020",55,"pbp account ends here, rest deduced","1932SLA.EVA.regular.comment.csv",29
+"SLA193208090",50,"$onto RF roof","1932SLA.EVA.regular.comment.csv",30
+"SLA193208090",68,"pbp accounts end here, rest deduced","1932SLA.EVA.regular.comment.csv",31
+"SLA193208100",43,"$Debut for Debs Garms","1932SLA.EVA.regular.comment.csv",32
+"SLA193208100",58,"$Joe Sewell rounded 2B too far","1932SLA.EVA.regular.comment.csv",33
+"SLA193208100",71,"pbp accounts end here, rest deduced","1932SLA.EVA.regular.comment.csv",34
+"SLA193209061",83,"$Earl Averill lost the ball in the sun","1932SLA.EVA.regular.comment.csv",35
+"SLA193209080",6,"No PBP for top of 2nd","1932SLA.EVA.regular.comment.csv",36
+"SLA193209080",25,"ej,melis101,P,guthb901,Call at 2B Ski Melillo ejected by 1B umpire Bill Guthrie","1932SLA.EVA.regular.comment.csv",37
+"SLA193209090",76,"Bottom of ninth deduced","1932SLA.EVA.regular.comment.csv",38
+"SLA193209100",90,"pbp account ends here, rest deduced","1932SLA.EVA.regular.comment.csv",39
+"SLA193209160",51,"$Mickey Cochrane injured blocking HP","1932SLA.EVA.regular.comment.csv",40

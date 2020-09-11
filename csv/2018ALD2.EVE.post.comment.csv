@@ -1,43 +1,44 @@
-"BOS201810050",22,"Mound Visit","FILENAME_TX","LINE_NUMBER_CT"
-"BOS201810050",23,"Mound Visit","2018ALD2.EVE.post.comment.csv",2
-"BOS201810050",26,"On-field Delay","2018ALD2.EVE.post.comment.csv",3
-"BOS201810050",28,"Injury Delay","2018ALD2.EVE.post.comment.csv",4
-"BOS201810050",28,"$Aaron Hicks left with an injured right hamstring after 1st pitch to Stanton","2018ALD2.EVE.post.comment.csv",5
-"BOS201810050",40,"On-field Delay","2018ALD2.EVE.post.comment.csv",6
-"BOS201810050",47,"Mound Visit","2018ALD2.EVE.post.comment.csv",7
-"BOS201810050",51,"Mound Visit","2018ALD2.EVE.post.comment.csv",8
-"BOS201810050",52,"Mound Visit","2018ALD2.EVE.post.comment.csv",9
-"BOS201810050",59,"Mound Visit","2018ALD2.EVE.post.comment.csv",10
-"BOS201810050",61,"Mound Visit","2018ALD2.EVE.post.comment.csv",11
-"BOS201810050",71,"Mound Visit","2018ALD2.EVE.post.comment.csv",12
-"BOS201810060",13,"Mound Visit","2018ALD2.EVE.post.comment.csv",13
-"BOS201810060",14,"Mound Visit","2018ALD2.EVE.post.comment.csv",14
-"BOS201810060",37,"Mound Visit","2018ALD2.EVE.post.comment.csv",15
-"BOS201810060",45,"Mound Visit","2018ALD2.EVE.post.comment.csv",16
-"BOS201810060",46,"Mound Visit","2018ALD2.EVE.post.comment.csv",17
-"BOS201810060",52,"Mound Visit","2018ALD2.EVE.post.comment.csv",18
-"BOS201810060",53,"$Red Sox challenged call that Voit was safe at 2nd; call was overturned - force out","2018ALD2.EVE.post.comment.csv",19
-"BOS201810060",70,"Mound Visit","2018ALD2.EVE.post.comment.csv",20
-"NYA201810080",14,"$Red Sox challenged call that Gregorius was safe at 1st for single; call was overturned - out at 1st for sacrifice","2018ALD2.EVE.post.comment.csv",21
-"NYA201810080",20,"Mound Visit","2018ALD2.EVE.post.comment.csv",22
-"NYA201810080",23,"$Yankees challenged call that Torres was out at 1st; call was overturned - safe for single","2018ALD2.EVE.post.comment.csv",23
-"NYA201810080",29,"Mound Visit","2018ALD2.EVE.post.comment.csv",24
-"NYA201810080",29,"Injury Delay","2018ALD2.EVE.post.comment.csv",25
-"NYA201810080",33,"Mound Visit","2018ALD2.EVE.post.comment.csv",26
-"NYA201810080",38,"$Red Sox challenged call that Voit was safe at 1st; call was upheld - single","2018ALD2.EVE.post.comment.csv",27
-"NYA201810080",40,"$Yankees challenged call that Gregorius was out at 1st to complete complete double play; call was overturned - force out, not DP","2018ALD2.EVE.post.comment.csv",28
-"NYA201810080",47,"Mound Visit","2018ALD2.EVE.post.comment.csv",29
-"NYA201810080",61,"Mound Visit","2018ALD2.EVE.post.comment.csv",30
-"NYA201810080",69,"Mound Visit","2018ALD2.EVE.post.comment.csv",31
-"NYA201810080",88,"Mound Visit","2018ALD2.EVE.post.comment.csv",32
-"NYA201810090",43,"Mound Visit","2018ALD2.EVE.post.comment.csv",33
-"NYA201810090",54,"Mound Visit","2018ALD2.EVE.post.comment.csv",34
-"NYA201810090",57,"Mound Visit","2018ALD2.EVE.post.comment.csv",35
-"NYA201810090",61,"Mound Visit","2018ALD2.EVE.post.comment.csv",36
-"NYA201810090",62,"Mound Visit","2018ALD2.EVE.post.comment.csv",37
-"NYA201810090",63,"Mound Visit","2018ALD2.EVE.post.comment.csv",38
-"NYA201810090",73,"Mound Visit","2018ALD2.EVE.post.comment.csv",39
-"NYA201810090",74,"Mound Visit","2018ALD2.EVE.post.comment.csv",40
-"NYA201810090",76,"Mound Visit","2018ALD2.EVE.post.comment.csv",41
-"NYA201810090",78,"Mound Visit","2018ALD2.EVE.post.comment.csv",42
-"NYA201810090",79,"$Yankees challenged call that Torres was out at 1st; call was upheld - ground out","2018ALD2.EVE.post.comment.csv",43
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"BOS201810050",22,"Mound Visit","2018ALD2.EVE.post.comment.csv",2
+"BOS201810050",23,"Mound Visit","2018ALD2.EVE.post.comment.csv",3
+"BOS201810050",26,"On-field Delay","2018ALD2.EVE.post.comment.csv",4
+"BOS201810050",28,"Injury Delay","2018ALD2.EVE.post.comment.csv",5
+"BOS201810050",28,"$Aaron Hicks left with an injured right hamstring after 1st pitch to Stanton","2018ALD2.EVE.post.comment.csv",6
+"BOS201810050",40,"On-field Delay","2018ALD2.EVE.post.comment.csv",7
+"BOS201810050",47,"Mound Visit","2018ALD2.EVE.post.comment.csv",8
+"BOS201810050",51,"Mound Visit","2018ALD2.EVE.post.comment.csv",9
+"BOS201810050",52,"Mound Visit","2018ALD2.EVE.post.comment.csv",10
+"BOS201810050",59,"Mound Visit","2018ALD2.EVE.post.comment.csv",11
+"BOS201810050",61,"Mound Visit","2018ALD2.EVE.post.comment.csv",12
+"BOS201810050",71,"Mound Visit","2018ALD2.EVE.post.comment.csv",13
+"BOS201810060",13,"Mound Visit","2018ALD2.EVE.post.comment.csv",14
+"BOS201810060",14,"Mound Visit","2018ALD2.EVE.post.comment.csv",15
+"BOS201810060",37,"Mound Visit","2018ALD2.EVE.post.comment.csv",16
+"BOS201810060",45,"Mound Visit","2018ALD2.EVE.post.comment.csv",17
+"BOS201810060",46,"Mound Visit","2018ALD2.EVE.post.comment.csv",18
+"BOS201810060",52,"Mound Visit","2018ALD2.EVE.post.comment.csv",19
+"BOS201810060",53,"$Red Sox challenged call that Voit was safe at 2nd; call was overturned - force out","2018ALD2.EVE.post.comment.csv",20
+"BOS201810060",70,"Mound Visit","2018ALD2.EVE.post.comment.csv",21
+"NYA201810080",14,"$Red Sox challenged call that Gregorius was safe at 1st for single; call was overturned - out at 1st for sacrifice","2018ALD2.EVE.post.comment.csv",22
+"NYA201810080",20,"Mound Visit","2018ALD2.EVE.post.comment.csv",23
+"NYA201810080",23,"$Yankees challenged call that Torres was out at 1st; call was overturned - safe for single","2018ALD2.EVE.post.comment.csv",24
+"NYA201810080",29,"Mound Visit","2018ALD2.EVE.post.comment.csv",25
+"NYA201810080",29,"Injury Delay","2018ALD2.EVE.post.comment.csv",26
+"NYA201810080",33,"Mound Visit","2018ALD2.EVE.post.comment.csv",27
+"NYA201810080",38,"$Red Sox challenged call that Voit was safe at 1st; call was upheld - single","2018ALD2.EVE.post.comment.csv",28
+"NYA201810080",40,"$Yankees challenged call that Gregorius was out at 1st to complete complete double play; call was overturned - force out, not DP","2018ALD2.EVE.post.comment.csv",29
+"NYA201810080",47,"Mound Visit","2018ALD2.EVE.post.comment.csv",30
+"NYA201810080",61,"Mound Visit","2018ALD2.EVE.post.comment.csv",31
+"NYA201810080",69,"Mound Visit","2018ALD2.EVE.post.comment.csv",32
+"NYA201810080",88,"Mound Visit","2018ALD2.EVE.post.comment.csv",33
+"NYA201810090",43,"Mound Visit","2018ALD2.EVE.post.comment.csv",34
+"NYA201810090",54,"Mound Visit","2018ALD2.EVE.post.comment.csv",35
+"NYA201810090",57,"Mound Visit","2018ALD2.EVE.post.comment.csv",36
+"NYA201810090",61,"Mound Visit","2018ALD2.EVE.post.comment.csv",37
+"NYA201810090",62,"Mound Visit","2018ALD2.EVE.post.comment.csv",38
+"NYA201810090",63,"Mound Visit","2018ALD2.EVE.post.comment.csv",39
+"NYA201810090",73,"Mound Visit","2018ALD2.EVE.post.comment.csv",40
+"NYA201810090",74,"Mound Visit","2018ALD2.EVE.post.comment.csv",41
+"NYA201810090",76,"Mound Visit","2018ALD2.EVE.post.comment.csv",42
+"NYA201810090",78,"Mound Visit","2018ALD2.EVE.post.comment.csv",43
+"NYA201810090",79,"$Yankees challenged call that Torres was out at 1st; call was upheld - ground out","2018ALD2.EVE.post.comment.csv",44

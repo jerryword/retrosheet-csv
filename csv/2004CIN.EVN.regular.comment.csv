@@ -1,35 +1,36 @@
-"CIN200404050",52,"Debut game for Michael Wuertz","FILENAME_TX","LINE_NUMBER_CT"
-"CIN200404100",13,"$Simon left due to injury","2004CIN.EVN.regular.comment.csv",2
-"CIN200404210",11,"Perez tagged Casey and they both fell; Perez dropped the ball into Casey's lap and started to walk away; Casey threw the ball at Perez and they had to be separated by teammates","2004CIN.EVN.regular.comment.csv",3
-"CIN200404220",46,"Game called for rain","2004CIN.EVN.regular.comment.csv",4
-"CIN200405070",49,"$fan interference","2004CIN.EVN.regular.comment.csv",5
-"CIN200405190",58,"ej,hurdc001,M,hudsm901,Balls and strikes Rockies Manager Clint Hurdle ejected by HP umpire Marvin Hudson","2004CIN.EVN.regular.comment.csv",6
-"CIN200406270",61,"$Casey left game with injured leg","2004CIN.EVN.regular.comment.csv",7
-"CIN200407160",20,"$great catch hanging over rail into SLN dugout","2004CIN.EVN.regular.comment.csv",8
-"CIN200407160",75,"$ball well over fence, great catch by Edmonds to bring it back; he looked like a kid after catch with huge smile","2004CIN.EVN.regular.comment.csv",9
-"CIN200407170",34,"$Larson left game with injured leg","2004CIN.EVN.regular.comment.csv",10
-"CIN200407260",57,"ej,andem003,P,wintm901,Called third strike Marlon Anderson ejected by HP umpire Mike Winters","2004CIN.EVN.regular.comment.csv",11
-"CIN200407280",53,"$Edmonds left game with injured back","2004CIN.EVN.regular.comment.csv",12
-"CIN200407280",83,"$Felipe Lopez called for obstruction","2004CIN.EVN.regular.comment.csv",13
-"CIN200407300",0,"Suspend=20040731,,1,3,32 41 minute rain delay before start of game; Harang had thrown 4 warm-up pitches when the delay was called","2004CIN.EVN.regular.comment.csv",14
-"CIN200407300",13,"$Jason Larue called for interference","2004CIN.EVN.regular.comment.csv",15
-"CIN200407300",17,"27 minute rain delay; Todd Jones threw gum & sunflower seeds into the stands during delay; he was traded to Philadelphia shortly after (not as a result of the gum throwing)","2004CIN.EVN.regular.comment.csv",16
-"CIN200407300",46,"$heavy rain started during Bagwell's at bat","2004CIN.EVN.regular.comment.csv",17
-"CIN200407300",47,"suspended,20040731,CIN09,rain $Game suspended at this point for rain, completed next day","2004CIN.EVN.regular.comment.csv",18
-"CIN200407310",33,"$Joe Vizcaino called for interference","2004CIN.EVN.regular.comment.csv",19
-"CIN200408010",68,"ej,riedj001,P,fleta901,Balls and strikes $Pitcher Riedling ejected by HP umpire Fletcher for arguing balls and strikes after being replaced","2004CIN.EVN.regular.comment.csv",20
-"CIN200408100",24,"$Freel left game with injured knee","2004CIN.EVN.regular.comment.csv",21
-"CIN200408100",32,"$bounced on the street outside the park onto a piece of driftwood on the Ohio River; estimated 535'","2004CIN.EVN.regular.comment.csv",22
-"CIN200408110",26,"$Bradley left game with injured leg","2004CIN.EVN.regular.comment.csv",23
-"CIN200408110",29,"$Vander Wal left game with injured knee","2004CIN.EVN.regular.comment.csv",24
-"CIN200408150",54,"$Ojeda left game with injured hand","2004CIN.EVN.regular.comment.csv",25
-"CIN200409010",61,"$Oswalt left game with injured chest","2004CIN.EVN.regular.comment.csv",26
-"CIN200409120",7,"$fan interference","2004CIN.EVN.regular.comment.csv",27
-"CIN200409150",5,"$Pratt backed into Thome as he caught the popup","2004CIN.EVN.regular.comment.csv",28
-"CIN200409150",5,"$Thome left game with bruised chest","2004CIN.EVN.regular.comment.csv",29
-"CIN200409150",5,"$Pratt caught one pitch to Casey and then left game with bruised left shoulder; Hinch's first game for Philadelphia","2004CIN.EVN.regular.comment.csv",30
-"CIN200409150",6,"$Casey destroyed a trash can behind the dugout after striking out","2004CIN.EVN.regular.comment.csv",31
-"CIN200409160",64,"ej,rothl101,C,hohnb901,Balls and strikes Cubs pitching coach Larry Rothschild ejected by HP umpire Bill Hohn","2004CIN.EVN.regular.comment.csv",32
-"CIN200409180",22,"ej,narrj001,C,welkt901,Balls and strikes Reds coach Jerry Narron ejected by HP umpire Tim Welke","2004CIN.EVN.regular.comment.csv",33
-"CIN200409180",56,"$Riedling left game with injured foot","2004CIN.EVN.regular.comment.csv",34
-"CIN200409190",57,"ej,miled801,M,reynj901,Call at 1B $Reds Manager Dave Miley ejected by 1B umpire Jim Reynolds","2004CIN.EVN.regular.comment.csv",35
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"CIN200404050",52,"Debut game for Michael Wuertz","2004CIN.EVN.regular.comment.csv",2
+"CIN200404100",13,"$Simon left due to injury","2004CIN.EVN.regular.comment.csv",3
+"CIN200404210",11,"Perez tagged Casey and they both fell; Perez dropped the ball into Casey's lap and started to walk away; Casey threw the ball at Perez and they had to be separated by teammates","2004CIN.EVN.regular.comment.csv",4
+"CIN200404220",46,"Game called for rain","2004CIN.EVN.regular.comment.csv",5
+"CIN200405070",49,"$fan interference","2004CIN.EVN.regular.comment.csv",6
+"CIN200405190",58,"ej,hurdc001,M,hudsm901,Balls and strikes Rockies Manager Clint Hurdle ejected by HP umpire Marvin Hudson","2004CIN.EVN.regular.comment.csv",7
+"CIN200406270",61,"$Casey left game with injured leg","2004CIN.EVN.regular.comment.csv",8
+"CIN200407160",20,"$great catch hanging over rail into SLN dugout","2004CIN.EVN.regular.comment.csv",9
+"CIN200407160",75,"$ball well over fence, great catch by Edmonds to bring it back; he looked like a kid after catch with huge smile","2004CIN.EVN.regular.comment.csv",10
+"CIN200407170",34,"$Larson left game with injured leg","2004CIN.EVN.regular.comment.csv",11
+"CIN200407260",57,"ej,andem003,P,wintm901,Called third strike Marlon Anderson ejected by HP umpire Mike Winters","2004CIN.EVN.regular.comment.csv",12
+"CIN200407280",53,"$Edmonds left game with injured back","2004CIN.EVN.regular.comment.csv",13
+"CIN200407280",83,"$Felipe Lopez called for obstruction","2004CIN.EVN.regular.comment.csv",14
+"CIN200407300",0,"Suspend=20040731,,1,3,32 41 minute rain delay before start of game; Harang had thrown 4 warm-up pitches when the delay was called","2004CIN.EVN.regular.comment.csv",15
+"CIN200407300",13,"$Jason Larue called for interference","2004CIN.EVN.regular.comment.csv",16
+"CIN200407300",17,"27 minute rain delay; Todd Jones threw gum & sunflower seeds into the stands during delay; he was traded to Philadelphia shortly after (not as a result of the gum throwing)","2004CIN.EVN.regular.comment.csv",17
+"CIN200407300",46,"$heavy rain started during Bagwell's at bat","2004CIN.EVN.regular.comment.csv",18
+"CIN200407300",47,"suspended,20040731,CIN09,rain $Game suspended at this point for rain, completed next day","2004CIN.EVN.regular.comment.csv",19
+"CIN200407310",33,"$Joe Vizcaino called for interference","2004CIN.EVN.regular.comment.csv",20
+"CIN200408010",68,"ej,riedj001,P,fleta901,Balls and strikes $Pitcher Riedling ejected by HP umpire Fletcher for arguing balls and strikes after being replaced","2004CIN.EVN.regular.comment.csv",21
+"CIN200408100",24,"$Freel left game with injured knee","2004CIN.EVN.regular.comment.csv",22
+"CIN200408100",32,"$bounced on the street outside the park onto a piece of driftwood on the Ohio River; estimated 535'","2004CIN.EVN.regular.comment.csv",23
+"CIN200408110",26,"$Bradley left game with injured leg","2004CIN.EVN.regular.comment.csv",24
+"CIN200408110",29,"$Vander Wal left game with injured knee","2004CIN.EVN.regular.comment.csv",25
+"CIN200408150",54,"$Ojeda left game with injured hand","2004CIN.EVN.regular.comment.csv",26
+"CIN200409010",61,"$Oswalt left game with injured chest","2004CIN.EVN.regular.comment.csv",27
+"CIN200409120",7,"$fan interference","2004CIN.EVN.regular.comment.csv",28
+"CIN200409150",5,"$Pratt backed into Thome as he caught the popup","2004CIN.EVN.regular.comment.csv",29
+"CIN200409150",5,"$Thome left game with bruised chest","2004CIN.EVN.regular.comment.csv",30
+"CIN200409150",5,"$Pratt caught one pitch to Casey and then left game with bruised left shoulder; Hinch's first game for Philadelphia","2004CIN.EVN.regular.comment.csv",31
+"CIN200409150",6,"$Casey destroyed a trash can behind the dugout after striking out","2004CIN.EVN.regular.comment.csv",32
+"CIN200409160",64,"ej,rothl101,C,hohnb901,Balls and strikes Cubs pitching coach Larry Rothschild ejected by HP umpire Bill Hohn","2004CIN.EVN.regular.comment.csv",33
+"CIN200409180",22,"ej,narrj001,C,welkt901,Balls and strikes Reds coach Jerry Narron ejected by HP umpire Tim Welke","2004CIN.EVN.regular.comment.csv",34
+"CIN200409180",56,"$Riedling left game with injured foot","2004CIN.EVN.regular.comment.csv",35
+"CIN200409190",57,"ej,miled801,M,reynj901,Call at 1B $Reds Manager Dave Miley ejected by 1B umpire Jim Reynolds","2004CIN.EVN.regular.comment.csv",36

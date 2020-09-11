@@ -1,11 +1,12 @@
-"NYA199904090",1,"Debut game for Beiker Graterol","FILENAME_TX","LINE_NUMBER_CT"
-"NYA199904090",61,"Debut game for Clay Bellinger","1999NYA.EVA.regular.comment.csv",2
-"NYA199904090",71,"Game called at this point by rain","1999NYA.EVA.regular.comment.csv",3
-"NYA199905090",20,"ej,smits801,C,hirsj901,Call at HP $Mariners coach Smith ejected by HP umpire Hirschbeck for arguing Wilson was safe at HP","1999NYA.EVA.regular.comment.csv",4
-"NYA199905110",88,"ej,oneip001,P,koscg901,Called third strike (threw equipment) Paul O'Neill ejected by HP umpire Greg Kosc; he threw equipment after the called third strike","1999NYA.EVA.regular.comment.csv",5
-"NYA199907020",46,"ej,millr801,M,barnl901,Catch/trap call (Reversed) $Orioles manager Miller ejected by 1B umpire Barnett for arguing reversal of out call after umpire conference","1999NYA.EVA.regular.comment.csv",6
-"NYA199907040",58,"umpchange,7,umphome,hicke901 umpchange,7,ump2b,(None) $HP umpire Greg Kosc left due to heat exhaustion","1999NYA.EVA.regular.comment.csv",7
-"NYA199907150",67,"Debut game for Ed Yarnall","1999NYA.EVA.regular.comment.csv",8
-"NYA199907170",76,"ej,guilo001,P,barrt901,Call at 1B Ozzie Guillen ejected by 1B umpire Ted Barrett","1999NYA.EVA.regular.comment.csv",9
-"NYA199908270",40,"Debut game for Robert Ramsay","1999NYA.EVA.regular.comment.csv",10
-"NYA199909260",11,"umpchange,2,umphome,katzt901 umpchange,2,ump2b,(None) $HP umpire Joyce with bruised cornea from mud in his eye in first inning","1999NYA.EVA.regular.comment.csv",11
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"NYA199904090",1,"Debut game for Beiker Graterol","1999NYA.EVA.regular.comment.csv",2
+"NYA199904090",61,"Debut game for Clay Bellinger","1999NYA.EVA.regular.comment.csv",3
+"NYA199904090",71,"Game called at this point by rain","1999NYA.EVA.regular.comment.csv",4
+"NYA199905090",20,"ej,smits801,C,hirsj901,Call at HP $Mariners coach Smith ejected by HP umpire Hirschbeck for arguing Wilson was safe at HP","1999NYA.EVA.regular.comment.csv",5
+"NYA199905110",88,"ej,oneip001,P,koscg901,Called third strike (threw equipment) Paul O'Neill ejected by HP umpire Greg Kosc; he threw equipment after the called third strike","1999NYA.EVA.regular.comment.csv",6
+"NYA199907020",46,"ej,millr801,M,barnl901,Catch/trap call (Reversed) $Orioles manager Miller ejected by 1B umpire Barnett for arguing reversal of out call after umpire conference","1999NYA.EVA.regular.comment.csv",7
+"NYA199907040",58,"umpchange,7,umphome,hicke901 umpchange,7,ump2b,(None) $HP umpire Greg Kosc left due to heat exhaustion","1999NYA.EVA.regular.comment.csv",8
+"NYA199907150",67,"Debut game for Ed Yarnall","1999NYA.EVA.regular.comment.csv",9
+"NYA199907170",76,"ej,guilo001,P,barrt901,Call at 1B Ozzie Guillen ejected by 1B umpire Ted Barrett","1999NYA.EVA.regular.comment.csv",10
+"NYA199908270",40,"Debut game for Robert Ramsay","1999NYA.EVA.regular.comment.csv",11
+"NYA199909260",11,"umpchange,2,umphome,katzt901 umpchange,2,ump2b,(None) $HP umpire Joyce with bruised cornea from mud in his eye in first inning","1999NYA.EVA.regular.comment.csv",12

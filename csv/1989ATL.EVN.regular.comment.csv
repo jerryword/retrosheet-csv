@@ -1,31 +1,32 @@
-"ATL198904190",59,"$Tommy Gregg injured on Bill Doran's hit","FILENAME_TX","LINE_NUMBER_CT"
-"ATL198905040",47,"$Juan Samuel called for interference","1989ATL.EVN.regular.comment.csv",2
-"ATL198905070",37,"$Jeff Blauser called for interference","1989ATL.EVN.regular.comment.csv",3
-"ATL198905190",11,"$Lonnie Smith injured foot chasing foul ball","1989ATL.EVN.regular.comment.csv",4
-"ATL198905240",12,"Debut game for David Justice","1989ATL.EVN.regular.comment.csv",5
-"ATL198905240",65,"ej,leylj801,M,engeb901,Check swing $Pirates manager Leyland ejected by 3B umpire Engel for arguing check swing strike 3 on Van Slyke","1989ATL.EVN.regular.comment.csv",6
-"ATL198905290",0,"Debut for umpire Charlie Reliford","1989ATL.EVN.regular.comment.csv",7
-"ATL198906051",42,"$Alfredo Griffin rounded the base too far","1989ATL.EVN.regular.comment.csv",8
-"ATL198906052",42,"ej,davij001,P,ripps901,Balls and strikes (while catching) Jody Davis ejected by HP umpire Steve Rippley when the first pitch to Alfredo Griffin was called a ball","1989ATL.EVN.regular.comment.csv",9
-"ATL198906070",66,"Debut game for Jeff Wetherby","1989ATL.EVN.regular.comment.csv",10
-"ATL198906211",58,"40 minute rain delay","1989ATL.EVN.regular.comment.csv",11
-"ATL198906211",64,"$Gerald Perry argued on pickoff attempt at 1B as runner scored from 3B","1989ATL.EVN.regular.comment.csv",12
-"ATL198906212",5,"ej,nixor101,M,wendh901,Balls and strikes $Braves manager Nixon ejected by HP umpire Wendelstedt for arguing balls and strikes while making mound visit","1989ATL.EVN.regular.comment.csv",13
-"ATL198907030",44,"ej,thoma001,P,laynj901,Called third strike Andres Thomas ejected by HP umpire Jerry Layne","1989ATL.EVN.regular.comment.csv",14
-"ATL198907050",80,"Debut game for Ed Whited","1989ATL.EVN.regular.comment.csv",15
-"ATL198907090",55,"$Gerald Perry dislocated shoulder diving for Jim Adduci's hit","1989ATL.EVN.regular.comment.csv",16
-"ATL198907150",19,"1:11 rain delay","1989ATL.EVN.regular.comment.csv",17
-"ATL198907240",39,"$Uribe came off bag too soon at 2B","1989ATL.EVN.regular.comment.csv",18
-"ATL198907280",50,"$Ron Oester's ground ball hit 2B umpire Fred Brocklander","1989ATL.EVN.regular.comment.csv",19
-"ATL198907290",33,"49 minute rain delay","1989ATL.EVN.regular.comment.csv",20
-"ATL198908240",61,"Debut game for Mike Stanton","1989ATL.EVN.regular.comment.csv",21
-"ATL198909010",52,"ej,smitl002,P,froeb901,Called third strike Lonnie Smith ejected by HP umpire Bruce Froemming","1989ATL.EVN.regular.comment.csv",22
-"ATL198909020",45,"Debut game for Greg Smith","1989ATL.EVN.regular.comment.csv",23
-"ATL198909040",17,"Debut game for Kelly Mann","1989ATL.EVN.regular.comment.csv",24
-"ATL198909070",46,"$diving stop and flip from ground by Jeff Treadway","1989ATL.EVN.regular.comment.csv",25
-"ATL198909200",1,"Debut game for Rusty Richards","1989ATL.EVN.regular.comment.csv",26
-"ATL198909200",85,"$infield shifted around for Darrell Evans","1989ATL.EVN.regular.comment.csv",27
-"ATL198909220",36,"$popup fell between fielders","1989ATL.EVN.regular.comment.csv",28
-"ATL198909220",61,"Debut game for Kent Mercker","1989ATL.EVN.regular.comment.csv",29
-"ATL198909230",35,"$Tom Browning called for interference","1989ATL.EVN.regular.comment.csv",30
-"ATL198910010",37,"$Jose Vizcaino called for interference","1989ATL.EVN.regular.comment.csv",31
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"ATL198904190",59,"$Tommy Gregg injured on Bill Doran's hit","1989ATL.EVN.regular.comment.csv",2
+"ATL198905040",47,"$Juan Samuel called for interference","1989ATL.EVN.regular.comment.csv",3
+"ATL198905070",37,"$Jeff Blauser called for interference","1989ATL.EVN.regular.comment.csv",4
+"ATL198905190",11,"$Lonnie Smith injured foot chasing foul ball","1989ATL.EVN.regular.comment.csv",5
+"ATL198905240",12,"Debut game for David Justice","1989ATL.EVN.regular.comment.csv",6
+"ATL198905240",65,"ej,leylj801,M,engeb901,Check swing $Pirates manager Leyland ejected by 3B umpire Engel for arguing check swing strike 3 on Van Slyke","1989ATL.EVN.regular.comment.csv",7
+"ATL198905290",0,"Debut for umpire Charlie Reliford","1989ATL.EVN.regular.comment.csv",8
+"ATL198906051",42,"$Alfredo Griffin rounded the base too far","1989ATL.EVN.regular.comment.csv",9
+"ATL198906052",42,"ej,davij001,P,ripps901,Balls and strikes (while catching) Jody Davis ejected by HP umpire Steve Rippley when the first pitch to Alfredo Griffin was called a ball","1989ATL.EVN.regular.comment.csv",10
+"ATL198906070",66,"Debut game for Jeff Wetherby","1989ATL.EVN.regular.comment.csv",11
+"ATL198906211",58,"40 minute rain delay","1989ATL.EVN.regular.comment.csv",12
+"ATL198906211",64,"$Gerald Perry argued on pickoff attempt at 1B as runner scored from 3B","1989ATL.EVN.regular.comment.csv",13
+"ATL198906212",5,"ej,nixor101,M,wendh901,Balls and strikes $Braves manager Nixon ejected by HP umpire Wendelstedt for arguing balls and strikes while making mound visit","1989ATL.EVN.regular.comment.csv",14
+"ATL198907030",44,"ej,thoma001,P,laynj901,Called third strike Andres Thomas ejected by HP umpire Jerry Layne","1989ATL.EVN.regular.comment.csv",15
+"ATL198907050",80,"Debut game for Ed Whited","1989ATL.EVN.regular.comment.csv",16
+"ATL198907090",55,"$Gerald Perry dislocated shoulder diving for Jim Adduci's hit","1989ATL.EVN.regular.comment.csv",17
+"ATL198907150",19,"1:11 rain delay","1989ATL.EVN.regular.comment.csv",18
+"ATL198907240",39,"$Uribe came off bag too soon at 2B","1989ATL.EVN.regular.comment.csv",19
+"ATL198907280",50,"$Ron Oester's ground ball hit 2B umpire Fred Brocklander","1989ATL.EVN.regular.comment.csv",20
+"ATL198907290",33,"49 minute rain delay","1989ATL.EVN.regular.comment.csv",21
+"ATL198908240",61,"Debut game for Mike Stanton","1989ATL.EVN.regular.comment.csv",22
+"ATL198909010",52,"ej,smitl002,P,froeb901,Called third strike Lonnie Smith ejected by HP umpire Bruce Froemming","1989ATL.EVN.regular.comment.csv",23
+"ATL198909020",45,"Debut game for Greg Smith","1989ATL.EVN.regular.comment.csv",24
+"ATL198909040",17,"Debut game for Kelly Mann","1989ATL.EVN.regular.comment.csv",25
+"ATL198909070",46,"$diving stop and flip from ground by Jeff Treadway","1989ATL.EVN.regular.comment.csv",26
+"ATL198909200",1,"Debut game for Rusty Richards","1989ATL.EVN.regular.comment.csv",27
+"ATL198909200",85,"$infield shifted around for Darrell Evans","1989ATL.EVN.regular.comment.csv",28
+"ATL198909220",36,"$popup fell between fielders","1989ATL.EVN.regular.comment.csv",29
+"ATL198909220",61,"Debut game for Kent Mercker","1989ATL.EVN.regular.comment.csv",30
+"ATL198909230",35,"$Tom Browning called for interference","1989ATL.EVN.regular.comment.csv",31
+"ATL198910010",37,"$Jose Vizcaino called for interference","1989ATL.EVN.regular.comment.csv",32

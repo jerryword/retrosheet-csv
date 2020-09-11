@@ -1,32 +1,33 @@
-"CHA200604020",22,"Indians pitcher Sabathia left the game due to an injured chest onto DL after game","FILENAME_TX","LINE_NUMBER_CT"
-"CHA200604050",65,"$Ron Belliard called for interference","2006CHA.EVA.regular.comment.csv",2
-"CHA200604160",54,"$game called for rain","2006CHA.EVA.regular.comment.csv",3
-"CHA200604180",9,"Royals center fielder David DeJesus left the game due to an injured leg","2006CHA.EVA.regular.comment.csv",4
-"CHA200605070",36,"ej,bellb001,M,coope901,Balls and strikes Royals Manager Buddy Bell ejected by HP umpire Eric Cooper","2006CHA.EVA.regular.comment.csv",5
-"CHA200605200",17,"ej,piera001,P,relic901,Fight at HP ej,andeb003,P,relic901,Fight at HP ej,barrm003,P,relic901,Fight at HP ej,mabrj001,P,relic901,Fight at HP $as Barrett waited for the throw, Pierzynski ran him over then nudged Barrett after the latter got up; Barrett punched Pierzynski on the jaw and both benches cleared; Barrett, Pierzynski, Anderson and Mabry ejected by Reliford","2006CHA.EVA.regular.comment.csv",6
-"CHA200605220",14,"ej,guilo001,M,eddid901,Balls and strikes White Sox Manager Ozzie Guillen ejected by HP umpire Doug Eddings","2006CHA.EVA.regular.comment.csv",7
-"CHA200606020",17,"$Kinsler swung and missed for strike 3 at a pitch which hit him in the right bicep. As written in rule 6.05(f), he is out. But the rule does not specify putout and in this case the ball rolled to the first baseman who made the play. Apparently (according to MLB and STATS game totals), the putout went to the catcher and there was no assist.","2006CHA.EVA.regular.comment.csv",8
-"CHA200606060",28,"Tigers catcher Ivan Rodriguez left the game due to an injured back","2006CHA.EVA.regular.comment.csv",9
-"CHA200606070",22,"Tigers right fielder Craig Monroe left the game due to an injured foot/ankle","2006CHA.EVA.regular.comment.csv",10
-"CHA200606080",27,"White Sox third baseman Joe Crede left the game due to an injured back","2006CHA.EVA.regular.comment.csv",11
-"CHA200606200",73,"ej,riskd001,P,everm901,Intentional HBP ej,guilo001,M,everm901,Intentional HBP White Sox pitcher David Riske & Mgr Ozzie Guillen ejected by HP umpire Mike Everitt","2006CHA.EVA.regular.comment.csv",12
-"CHA200606210",30,"Edmonds crashed into the wall trying to catch the homer","2006CHA.EVA.regular.comment.csv",13
-"CHA200606210",30,"Cardinals center fielder Jim Edmonds left the game with a mild concussion","2006CHA.EVA.regular.comment.csv",14
-"CHA200606220",48,"Thome's homer is the only hit by the White Sox in a 1-0 game they won","2006CHA.EVA.regular.comment.csv",15
-"CHA200606250",94,"White Sox third baseman Pablo Ozuna left the game due to an injured leg","2006CHA.EVA.regular.comment.csv",16
-"CHA200607030",31,"fan interference","2006CHA.EVA.regular.comment.csv",17
-"CHA200607030",32,"Iguchi suffered sprained ankle in collision with Dye on Millar's popup; Dye was kicked in the mouth and had a few cuts","2006CHA.EVA.regular.comment.csv",18
-"CHA200607040",35,"White Sox third baseman Joe Crede left the game due to an injured arm","2006CHA.EVA.regular.comment.csv",19
-"CHA200607230",0,"Rangers managed by bench coach Don Wakamatsu when Buck Showalter missed the game because of an irregular heartbeat brought on by dehydration; Showalter was expected to spend the night in the hospital","2006CHA.EVA.regular.comment.csv",20
-"CHA200608080",79,"Yankees designated hitter Jason Giambi left the game due to an injured elbow","2006CHA.EVA.regular.comment.csv",21
-"CHA200608090",27,"Yankees center fielder Johnny Damon left the game due to an injured groin","2006CHA.EVA.regular.comment.csv",22
-"CHA200608100",59,"ej,guilo001,M,coope901,Call at 1B $White Sox manager Guillen ejected by 1B umpire Cooper for arguing that Abreu was out returning to 1st on popup","2006CHA.EVA.regular.comment.csv",23
-"CHA200608120",9,"fan interference","2006CHA.EVA.regular.comment.csv",24
-"CHA200608130",64,"ej,rodri001,P,timmt901,Called third strike Tigers catcher Ivan Rodriguez ejected by HP umpire Tim Timmons","2006CHA.EVA.regular.comment.csv",25
-"CHA200608140",39,"White Sox right fielder Jermaine Dye left the game due to an injured leg","2006CHA.EVA.regular.comment.csv",26
-"CHA200608150",38,"fan interference","2006CHA.EVA.regular.comment.csv",27
-"CHA200608160",21,"fan interference","2006CHA.EVA.regular.comment.csv",28
-"CHA200608250",79,"fan interference","2006CHA.EVA.regular.comment.csv",29
-"CHA200608300",81,"$Ben Zobrist called out on appeal for leaving 1B too soon","2006CHA.EVA.regular.comment.csv",30
-"CHA200609090",85,"ej,wedge001,M,wendh902,Non-ejection after earlier warning $Indians manager Wedge ejected by HP umpire Wendelstedt for arguing that pitcher should have been ejected after first pitch was high and inside after earlier warning","2006CHA.EVA.regular.comment.csv",31
-"CHA200609220",19,"White Sox pitcher Jose Contreras left the game due to an injured leg","2006CHA.EVA.regular.comment.csv",32
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"CHA200604020",22,"Indians pitcher Sabathia left the game due to an injured chest onto DL after game","2006CHA.EVA.regular.comment.csv",2
+"CHA200604050",65,"$Ron Belliard called for interference","2006CHA.EVA.regular.comment.csv",3
+"CHA200604160",54,"$game called for rain","2006CHA.EVA.regular.comment.csv",4
+"CHA200604180",9,"Royals center fielder David DeJesus left the game due to an injured leg","2006CHA.EVA.regular.comment.csv",5
+"CHA200605070",36,"ej,bellb001,M,coope901,Balls and strikes Royals Manager Buddy Bell ejected by HP umpire Eric Cooper","2006CHA.EVA.regular.comment.csv",6
+"CHA200605200",17,"ej,piera001,P,relic901,Fight at HP ej,andeb003,P,relic901,Fight at HP ej,barrm003,P,relic901,Fight at HP ej,mabrj001,P,relic901,Fight at HP $as Barrett waited for the throw, Pierzynski ran him over then nudged Barrett after the latter got up; Barrett punched Pierzynski on the jaw and both benches cleared; Barrett, Pierzynski, Anderson and Mabry ejected by Reliford","2006CHA.EVA.regular.comment.csv",7
+"CHA200605220",14,"ej,guilo001,M,eddid901,Balls and strikes White Sox Manager Ozzie Guillen ejected by HP umpire Doug Eddings","2006CHA.EVA.regular.comment.csv",8
+"CHA200606020",17,"$Kinsler swung and missed for strike 3 at a pitch which hit him in the right bicep. As written in rule 6.05(f), he is out. But the rule does not specify putout and in this case the ball rolled to the first baseman who made the play. Apparently (according to MLB and STATS game totals), the putout went to the catcher and there was no assist.","2006CHA.EVA.regular.comment.csv",9
+"CHA200606060",28,"Tigers catcher Ivan Rodriguez left the game due to an injured back","2006CHA.EVA.regular.comment.csv",10
+"CHA200606070",22,"Tigers right fielder Craig Monroe left the game due to an injured foot/ankle","2006CHA.EVA.regular.comment.csv",11
+"CHA200606080",27,"White Sox third baseman Joe Crede left the game due to an injured back","2006CHA.EVA.regular.comment.csv",12
+"CHA200606200",73,"ej,riskd001,P,everm901,Intentional HBP ej,guilo001,M,everm901,Intentional HBP White Sox pitcher David Riske & Mgr Ozzie Guillen ejected by HP umpire Mike Everitt","2006CHA.EVA.regular.comment.csv",13
+"CHA200606210",30,"Edmonds crashed into the wall trying to catch the homer","2006CHA.EVA.regular.comment.csv",14
+"CHA200606210",30,"Cardinals center fielder Jim Edmonds left the game with a mild concussion","2006CHA.EVA.regular.comment.csv",15
+"CHA200606220",48,"Thome's homer is the only hit by the White Sox in a 1-0 game they won","2006CHA.EVA.regular.comment.csv",16
+"CHA200606250",94,"White Sox third baseman Pablo Ozuna left the game due to an injured leg","2006CHA.EVA.regular.comment.csv",17
+"CHA200607030",31,"fan interference","2006CHA.EVA.regular.comment.csv",18
+"CHA200607030",32,"Iguchi suffered sprained ankle in collision with Dye on Millar's popup; Dye was kicked in the mouth and had a few cuts","2006CHA.EVA.regular.comment.csv",19
+"CHA200607040",35,"White Sox third baseman Joe Crede left the game due to an injured arm","2006CHA.EVA.regular.comment.csv",20
+"CHA200607230",0,"Rangers managed by bench coach Don Wakamatsu when Buck Showalter missed the game because of an irregular heartbeat brought on by dehydration; Showalter was expected to spend the night in the hospital","2006CHA.EVA.regular.comment.csv",21
+"CHA200608080",79,"Yankees designated hitter Jason Giambi left the game due to an injured elbow","2006CHA.EVA.regular.comment.csv",22
+"CHA200608090",27,"Yankees center fielder Johnny Damon left the game due to an injured groin","2006CHA.EVA.regular.comment.csv",23
+"CHA200608100",59,"ej,guilo001,M,coope901,Call at 1B $White Sox manager Guillen ejected by 1B umpire Cooper for arguing that Abreu was out returning to 1st on popup","2006CHA.EVA.regular.comment.csv",24
+"CHA200608120",9,"fan interference","2006CHA.EVA.regular.comment.csv",25
+"CHA200608130",64,"ej,rodri001,P,timmt901,Called third strike Tigers catcher Ivan Rodriguez ejected by HP umpire Tim Timmons","2006CHA.EVA.regular.comment.csv",26
+"CHA200608140",39,"White Sox right fielder Jermaine Dye left the game due to an injured leg","2006CHA.EVA.regular.comment.csv",27
+"CHA200608150",38,"fan interference","2006CHA.EVA.regular.comment.csv",28
+"CHA200608160",21,"fan interference","2006CHA.EVA.regular.comment.csv",29
+"CHA200608250",79,"fan interference","2006CHA.EVA.regular.comment.csv",30
+"CHA200608300",81,"$Ben Zobrist called out on appeal for leaving 1B too soon","2006CHA.EVA.regular.comment.csv",31
+"CHA200609090",85,"ej,wedge001,M,wendh902,Non-ejection after earlier warning $Indians manager Wedge ejected by HP umpire Wendelstedt for arguing that pitcher should have been ejected after first pitch was high and inside after earlier warning","2006CHA.EVA.regular.comment.csv",32
+"CHA200609220",19,"White Sox pitcher Jose Contreras left the game due to an injured leg","2006CHA.EVA.regular.comment.csv",33

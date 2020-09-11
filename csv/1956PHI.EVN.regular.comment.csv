@@ -1,28 +1,29 @@
-"PHI195605180",56,"ej,hutcf101,M,gorea901,Balls and strikes $Cardinal manager Hutchinson ejected by HP umpire Gore for arguing balls and strikes to unknown batter","FILENAME_TX","LINE_NUMBER_CT"
-"PHI195605202",15,"ej,burgs101,P,secof101,Balls and strikes Smoky Burgess ejected by HP umpire Frank Secory","1956PHI.EVN.regular.comment.csv",2
-"PHI195605202",23,"$Tom Acker injured","1956PHI.EVN.regular.comment.csv",3
-"PHI195605202",34,"$Alex Grammas called for interference for running into his own bunt","1956PHI.EVN.regular.comment.csv",4
-"PHI195605250",71,"ej,millb103,P,balll901,Balls and strikes $Phillies pitcher Miller ejected from bench by HP umpire Ballanfant for arguing balls and strikes","1956PHI.EVN.regular.comment.csv",5
-"PHI195605301",27,"$onto the roof","1956PHI.EVN.regular.comment.csv",6
-"PHI195605301",65,"31 minute rain delay","1956PHI.EVN.regular.comment.csv",7
-"PHI195606152",21,"ej,hackw102,P,delmv901,Balls and strikes ej,chith101,P,delmv901,Balls and strikes ej,fondd101,P,conlj102,Balls and strikes Warren Hacker and Harry Chiti ejected by HP umpire Vic Delmore arguing the strike zone; the Cubs bench threw towels and other equipment onto the field; Dee Fondy ejected by 1B umpire Jocko Conlan","1956PHI.EVN.regular.comment.csv",8
-"PHI195606250",60,"ej,hemus101,P,pineb101,Call at 2B ej,rober102,P,pineb101,Call at 2B $Eddie Mathews collided with Danny O'Connell at 2B while Richie Ashburn was chasing Henry Aaron's fly ball; the Phillies bench yelled that Mathews should be out for passing O'Connell; Solly Hemus and Robin Roberts ejected by 2B umpire Babe Pinelli","1956PHI.EVN.regular.comment.csv",9
-"PHI195607070",2,"$the ball caromed off Marv Blaylock","1956PHI.EVN.regular.comment.csv",10
-"PHI195607081",80,"$onto the roof","1956PHI.EVN.regular.comment.csv",11
-"PHI195607082",47,"$Peewee Reese dropped the infield fly","1956PHI.EVN.regular.comment.csv",12
-"PHI195607301",46,"$Vito Valentinetti struck on leg","1956PHI.EVN.regular.comment.csv",13
-"PHI195608010",13,"ej,mikse101,P,jackb901,Called third strike Eddie Miksis ejected by HP umpire Bill Jackowski","1956PHI.EVN.regular.comment.csv",14
-"PHI195608010",55,"PH missing on sheet but initial H almost has to be Haddix","1956PHI.EVN.regular.comment.csv",15
-"PHI195608180",41,"missing play in PHI195608180","1956PHI.EVN.regular.comment.csv",16
-"PHI195609050",32,"$Hearn left with a sore muscle in his side","1956PHI.EVN.regular.comment.csv",17
-"PHI195609050",72,"ej,ashbr101,P,secof101,Called third strike (Threw bat) Richie Ashburn ejected by HP umpire Frank Secory","1956PHI.EVN.regular.comment.csv",18
-"PHI195609091",55,"ej,bragb101,M,dixoh901,Call at 3B Pirates Manager Bobby Bragan ejected by 3B umpire Hal Dixon","1956PHI.EVN.regular.comment.csv",19
-"PHI195609092",65,"$Thomas intentionally dropped the bunt, forced Jones at second and Groat then threw to Foiles to complete DP on Hemus who had continued to run from second","1956PHI.EVN.regular.comment.csv",20
-"PHI195609110",35,"$Ken Boyer hurt during AB","1956PHI.EVN.regular.comment.csv",21
-"PHI195609132",67,"ej,smitm105,M,gorea901,Call at HP ej,hemus101,P,gorea901,Call at HP Solly Hemus and Phillies Manager Mayo Smith ejected by HP umpire Artie Gore","1956PHI.EVN.regular.comment.csv",22
-"PHI195609140",0,"Protest=V","1956PHI.EVN.regular.comment.csv",23
-"PHI195609140",10,"$an attendant caught the ball down the LF line; it was ruled interference and the Braves argued that Del Ennis should have been held at 1B on the play; Braves manager Fred Haney protested the game","1956PHI.EVN.regular.comment.csv",24
-"PHI195609150",72,"$the Braves thought Richie Ashburn had struck out on the 1-2 pitch which was called a ball by HP umpire Shag Crawford","1956PHI.EVN.regular.comment.csv",25
-"PHI195609150",73,"ej,mathe101,P,craws901,Balls and strikes ej,hanef101,M,craws901,Balls and strikes ej,tannc101,P,craws901,Balls and strikes (Threw towels) $Braves Mathews and Tanner and Braves manager Haney ejected by HP umpire Crawford arguing the previous pitch to Richie Ashburn; Tanner threw towels onto the field","1956PHI.EVN.regular.comment.csv",26
-"PHI195609150",75,"ej,trowb101,P,craws901,Balls and strikes $Pitcher Trowbridge ejected by HP umpire Crawford as he left field for arguing the call to Richie Ashburn;","1956PHI.EVN.regular.comment.csv",27
-"PHI195609150",75,"ej,logaj101,P,craws901,Balls and strikes $Logan ejected by HP umpire Crawford after strike 2","1956PHI.EVN.regular.comment.csv",28
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"PHI195605180",56,"ej,hutcf101,M,gorea901,Balls and strikes $Cardinal manager Hutchinson ejected by HP umpire Gore for arguing balls and strikes to unknown batter","1956PHI.EVN.regular.comment.csv",2
+"PHI195605202",15,"ej,burgs101,P,secof101,Balls and strikes Smoky Burgess ejected by HP umpire Frank Secory","1956PHI.EVN.regular.comment.csv",3
+"PHI195605202",23,"$Tom Acker injured","1956PHI.EVN.regular.comment.csv",4
+"PHI195605202",34,"$Alex Grammas called for interference for running into his own bunt","1956PHI.EVN.regular.comment.csv",5
+"PHI195605250",71,"ej,millb103,P,balll901,Balls and strikes $Phillies pitcher Miller ejected from bench by HP umpire Ballanfant for arguing balls and strikes","1956PHI.EVN.regular.comment.csv",6
+"PHI195605301",27,"$onto the roof","1956PHI.EVN.regular.comment.csv",7
+"PHI195605301",65,"31 minute rain delay","1956PHI.EVN.regular.comment.csv",8
+"PHI195606152",21,"ej,hackw102,P,delmv901,Balls and strikes ej,chith101,P,delmv901,Balls and strikes ej,fondd101,P,conlj102,Balls and strikes Warren Hacker and Harry Chiti ejected by HP umpire Vic Delmore arguing the strike zone; the Cubs bench threw towels and other equipment onto the field; Dee Fondy ejected by 1B umpire Jocko Conlan","1956PHI.EVN.regular.comment.csv",9
+"PHI195606250",60,"ej,hemus101,P,pineb101,Call at 2B ej,rober102,P,pineb101,Call at 2B $Eddie Mathews collided with Danny O'Connell at 2B while Richie Ashburn was chasing Henry Aaron's fly ball; the Phillies bench yelled that Mathews should be out for passing O'Connell; Solly Hemus and Robin Roberts ejected by 2B umpire Babe Pinelli","1956PHI.EVN.regular.comment.csv",10
+"PHI195607070",2,"$the ball caromed off Marv Blaylock","1956PHI.EVN.regular.comment.csv",11
+"PHI195607081",80,"$onto the roof","1956PHI.EVN.regular.comment.csv",12
+"PHI195607082",47,"$Peewee Reese dropped the infield fly","1956PHI.EVN.regular.comment.csv",13
+"PHI195607301",46,"$Vito Valentinetti struck on leg","1956PHI.EVN.regular.comment.csv",14
+"PHI195608010",13,"ej,mikse101,P,jackb901,Called third strike Eddie Miksis ejected by HP umpire Bill Jackowski","1956PHI.EVN.regular.comment.csv",15
+"PHI195608010",55,"PH missing on sheet but initial H almost has to be Haddix","1956PHI.EVN.regular.comment.csv",16
+"PHI195608180",41,"missing play in PHI195608180","1956PHI.EVN.regular.comment.csv",17
+"PHI195609050",32,"$Hearn left with a sore muscle in his side","1956PHI.EVN.regular.comment.csv",18
+"PHI195609050",72,"ej,ashbr101,P,secof101,Called third strike (Threw bat) Richie Ashburn ejected by HP umpire Frank Secory","1956PHI.EVN.regular.comment.csv",19
+"PHI195609091",55,"ej,bragb101,M,dixoh901,Call at 3B Pirates Manager Bobby Bragan ejected by 3B umpire Hal Dixon","1956PHI.EVN.regular.comment.csv",20
+"PHI195609092",65,"$Thomas intentionally dropped the bunt, forced Jones at second and Groat then threw to Foiles to complete DP on Hemus who had continued to run from second","1956PHI.EVN.regular.comment.csv",21
+"PHI195609110",35,"$Ken Boyer hurt during AB","1956PHI.EVN.regular.comment.csv",22
+"PHI195609132",67,"ej,smitm105,M,gorea901,Call at HP ej,hemus101,P,gorea901,Call at HP Solly Hemus and Phillies Manager Mayo Smith ejected by HP umpire Artie Gore","1956PHI.EVN.regular.comment.csv",23
+"PHI195609140",0,"Protest=V","1956PHI.EVN.regular.comment.csv",24
+"PHI195609140",10,"$an attendant caught the ball down the LF line; it was ruled interference and the Braves argued that Del Ennis should have been held at 1B on the play; Braves manager Fred Haney protested the game","1956PHI.EVN.regular.comment.csv",25
+"PHI195609150",72,"$the Braves thought Richie Ashburn had struck out on the 1-2 pitch which was called a ball by HP umpire Shag Crawford","1956PHI.EVN.regular.comment.csv",26
+"PHI195609150",73,"ej,mathe101,P,craws901,Balls and strikes ej,hanef101,M,craws901,Balls and strikes ej,tannc101,P,craws901,Balls and strikes (Threw towels) $Braves Mathews and Tanner and Braves manager Haney ejected by HP umpire Crawford arguing the previous pitch to Richie Ashburn; Tanner threw towels onto the field","1956PHI.EVN.regular.comment.csv",27
+"PHI195609150",75,"ej,trowb101,P,craws901,Balls and strikes $Pitcher Trowbridge ejected by HP umpire Crawford as he left field for arguing the call to Richie Ashburn;","1956PHI.EVN.regular.comment.csv",28
+"PHI195609150",75,"ej,logaj101,P,craws901,Balls and strikes $Logan ejected by HP umpire Crawford after strike 2","1956PHI.EVN.regular.comment.csv",29

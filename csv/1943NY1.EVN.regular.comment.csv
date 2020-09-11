@@ -1,31 +1,32 @@
-"NY1194304290",19,"throw caromed into LC OF","FILENAME_TX","LINE_NUMBER_CT"
-"NY1194305012",11,"$Alex Kampouris batted out of order in Dee Moore's place; Dodger manager Leo Durocher noticed and sent Kampouris to bat again, supposedly in his own spot; however, after Kampouris batted, the next batter should have been Bobo Newsom; the Giants made no objections to any part of this; the end result is that Moore was skipped this time around","1943NY1.EVN.regular.comment.csv",2
-"NY1194305021",27,"$Wyatt leaves due to arm tightening (NYDN)","1943NY1.EVN.regular.comment.csv",3
-"NY1194305022",3,"Don't have any information about Trinkle's error","1943NY1.EVN.regular.comment.csv",4
-"NY1194305130",53,"pbp account ends here, rest deduced","1943NY1.EVN.regular.comment.csv",5
-"NY1194305140",56,"pbp account ends here, rest deduced","1943NY1.EVN.regular.comment.csv",6
-"NY1194305180",16,"$HP umpire Bean Reardon struck on the foot by a foul ball","1943NY1.EVN.regular.comment.csv",7
-"NY1194305180",24,"umpchange,4,umphome,balll901 umpchange,4,ump1b,goetl901 umpchange,4,ump3b,(None) $HP umpire Bean Reardon left after being struck on the foot by a foul ball; 1B umpire Lee Ballanfant moved to HP and 3B umpire Larry Goetz moved to 1B","1943NY1.EVN.regular.comment.csv",8
-"NY1194305180",77,"$Mel Ott's throw struck Gee Walker at 1B","1943NY1.EVN.regular.comment.csv",9
-"NY1194305190",4,"$Nap Reyes left with injured leg after chasing foul ball","1943NY1.EVN.regular.comment.csv",10
-"NY1194305221",76,"$Runner on 1st went to 2nd on a PB, C threw wild to 2nd allowing runner on 3rd to to score. The 2B retrieved ball and threw wild to 3rd allowing another runner to score.","1943NY1.EVN.regular.comment.csv",11
-"NY1194306121",69,"Batter missed to bunt and runner caught between 3rd and home Rowe spiked high on leg during play and left the game","1943NY1.EVN.regular.comment.csv",12
-"NY1194306150",28,"$Ernie Lombardi left with a twisted right knee","1943NY1.EVN.regular.comment.csv",13
-"NY1194306150",63,"ej,ott-m101,M,goetl901,Called third strike Giants Manager Mel Ott ejected by HP umpire Larry Goetz","1943NY1.EVN.regular.comment.csv",14
-"NY1194306250",45,"$Batter rounded first too far","1943NY1.EVN.regular.comment.csv",15
-"NY1194307101",3,"$Gordon twisted his right knee and left the game","1943NY1.EVN.regular.comment.csv",16
-"NY1194308070",8,"Moore rounded second base too far and was thrown out.","1943NY1.EVN.regular.comment.csv",17
-"NY1194308070",25,"$Bartell got caught in run down after stealing third base.","1943NY1.EVN.regular.comment.csv",18
-"NY1194308081",55,"$off pole","1943NY1.EVN.regular.comment.csv",19
-"NY1194308141",77,"$RF dropped ball as he was ready to throw","1943NY1.EVN.regular.comment.csv",20
-"NY1194308142",3,"$Walker spiked at 2b as he slid into Bartell, left field on stretcher","1943NY1.EVN.regular.comment.csv",21
-"NY1194308142",32,"ej,jonnb101,C,barrg901,Call at 1B Giants Coach Bubber Jonnard ejected by 1B umpire George Barr for arguing call on Maynard","1943NY1.EVN.regular.comment.csv",22
-"NY1194308151",74,"$Ernie Lombardi left with injured right hand","1943NY1.EVN.regular.comment.csv",23
-"NY1194308190",72,"Inside the park home run to visiting bullpen","1943NY1.EVN.regular.comment.csv",24
-"NY1194308202",20,"pbp account ends here, rest deduced","1943NY1.EVN.regular.comment.csv",25
-"NY1194308210",57,"pbp account ends here, rest deduced","1943NY1.EVN.regular.comment.csv",26
-"NY1194308221",44,"ej,lowrp101,P,barla901,Call at 1B $Lowry ejected by 1B umpire Barlick for arguing he was safe","1943NY1.EVN.regular.comment.csv",27
-"NY1194308241",36,"ej,stane101,P,jordl901,Arguing Stanky was ejected by umpire Jorda for aguing","1943NY1.EVN.regular.comment.csv",28
-"NY1194309100",59,"ej,ruckj101,NY1,balll901,Call at 2B $Rucker ejected by Ballanfant for arguing steal attempt out.","1943NY1.EVN.regular.comment.csv",29
-"NY1194309110",46,"pbp account ends here, rest deduced","1943NY1.EVN.regular.comment.csv",30
-"NY1194309180",47,"pbp account ends here, rest deduced","1943NY1.EVN.regular.comment.csv",31
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"NY1194304290",19,"throw caromed into LC OF","1943NY1.EVN.regular.comment.csv",2
+"NY1194305012",11,"$Alex Kampouris batted out of order in Dee Moore's place; Dodger manager Leo Durocher noticed and sent Kampouris to bat again, supposedly in his own spot; however, after Kampouris batted, the next batter should have been Bobo Newsom; the Giants made no objections to any part of this; the end result is that Moore was skipped this time around","1943NY1.EVN.regular.comment.csv",3
+"NY1194305021",27,"$Wyatt leaves due to arm tightening (NYDN)","1943NY1.EVN.regular.comment.csv",4
+"NY1194305022",3,"Don't have any information about Trinkle's error","1943NY1.EVN.regular.comment.csv",5
+"NY1194305130",53,"pbp account ends here, rest deduced","1943NY1.EVN.regular.comment.csv",6
+"NY1194305140",56,"pbp account ends here, rest deduced","1943NY1.EVN.regular.comment.csv",7
+"NY1194305180",16,"$HP umpire Bean Reardon struck on the foot by a foul ball","1943NY1.EVN.regular.comment.csv",8
+"NY1194305180",24,"umpchange,4,umphome,balll901 umpchange,4,ump1b,goetl901 umpchange,4,ump3b,(None) $HP umpire Bean Reardon left after being struck on the foot by a foul ball; 1B umpire Lee Ballanfant moved to HP and 3B umpire Larry Goetz moved to 1B","1943NY1.EVN.regular.comment.csv",9
+"NY1194305180",77,"$Mel Ott's throw struck Gee Walker at 1B","1943NY1.EVN.regular.comment.csv",10
+"NY1194305190",4,"$Nap Reyes left with injured leg after chasing foul ball","1943NY1.EVN.regular.comment.csv",11
+"NY1194305221",76,"$Runner on 1st went to 2nd on a PB, C threw wild to 2nd allowing runner on 3rd to to score. The 2B retrieved ball and threw wild to 3rd allowing another runner to score.","1943NY1.EVN.regular.comment.csv",12
+"NY1194306121",69,"Batter missed to bunt and runner caught between 3rd and home Rowe spiked high on leg during play and left the game","1943NY1.EVN.regular.comment.csv",13
+"NY1194306150",28,"$Ernie Lombardi left with a twisted right knee","1943NY1.EVN.regular.comment.csv",14
+"NY1194306150",63,"ej,ott-m101,M,goetl901,Called third strike Giants Manager Mel Ott ejected by HP umpire Larry Goetz","1943NY1.EVN.regular.comment.csv",15
+"NY1194306250",45,"$Batter rounded first too far","1943NY1.EVN.regular.comment.csv",16
+"NY1194307101",3,"$Gordon twisted his right knee and left the game","1943NY1.EVN.regular.comment.csv",17
+"NY1194308070",8,"Moore rounded second base too far and was thrown out.","1943NY1.EVN.regular.comment.csv",18
+"NY1194308070",25,"$Bartell got caught in run down after stealing third base.","1943NY1.EVN.regular.comment.csv",19
+"NY1194308081",55,"$off pole","1943NY1.EVN.regular.comment.csv",20
+"NY1194308141",77,"$RF dropped ball as he was ready to throw","1943NY1.EVN.regular.comment.csv",21
+"NY1194308142",3,"$Walker spiked at 2b as he slid into Bartell, left field on stretcher","1943NY1.EVN.regular.comment.csv",22
+"NY1194308142",32,"ej,jonnb101,C,barrg901,Call at 1B Giants Coach Bubber Jonnard ejected by 1B umpire George Barr for arguing call on Maynard","1943NY1.EVN.regular.comment.csv",23
+"NY1194308151",74,"$Ernie Lombardi left with injured right hand","1943NY1.EVN.regular.comment.csv",24
+"NY1194308190",72,"Inside the park home run to visiting bullpen","1943NY1.EVN.regular.comment.csv",25
+"NY1194308202",20,"pbp account ends here, rest deduced","1943NY1.EVN.regular.comment.csv",26
+"NY1194308210",57,"pbp account ends here, rest deduced","1943NY1.EVN.regular.comment.csv",27
+"NY1194308221",44,"ej,lowrp101,P,barla901,Call at 1B $Lowry ejected by 1B umpire Barlick for arguing he was safe","1943NY1.EVN.regular.comment.csv",28
+"NY1194308241",36,"ej,stane101,P,jordl901,Arguing Stanky was ejected by umpire Jorda for aguing","1943NY1.EVN.regular.comment.csv",29
+"NY1194309100",59,"ej,ruckj101,NY1,balll901,Call at 2B $Rucker ejected by Ballanfant for arguing steal attempt out.","1943NY1.EVN.regular.comment.csv",30
+"NY1194309110",46,"pbp account ends here, rest deduced","1943NY1.EVN.regular.comment.csv",31
+"NY1194309180",47,"pbp account ends here, rest deduced","1943NY1.EVN.regular.comment.csv",32

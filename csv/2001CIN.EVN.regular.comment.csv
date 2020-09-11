@@ -1,40 +1,41 @@
-"CIN200104030",14,"Debut game for Jack Wilson","FILENAME_TX","LINE_NUMBER_CT"
-"CIN200104040",1,"Debut game for Chris Reitsma","2001CIN.EVN.regular.comment.csv",2
-"CIN200104180",68,"ej,tuckm001,P,davig901,Fan interference non-call $Reds Tucker ejected by 1B umpire Davis for arguing fan interference should have been called when Brewers were batting in 8th","2001CIN.EVN.regular.comment.csv",3
-"CIN200104210",21,"ej,boonb001,M,drakr901,Call at 2B $Pokey Reese fumbled the ball at 2B and Reds manager Bob Boone argued that Kevin Appier should be out since Reese held the ball long enough; Boone ejected by 2B umpire ROb Drake","2001CIN.EVN.regular.comment.csv",4
-"CIN200105040",77,"Debut game for Brandon Larson","2001CIN.EVN.regular.comment.csv",5
-"CIN200105050",4,"$Klesko going on pitch, rounded too far, caught going back","2001CIN.EVN.regular.comment.csv",6
-"CIN200105050",9,"$Sanders going on pitch, could not get back","2001CIN.EVN.regular.comment.csv",7
-"CIN200105050",18,"ball stuck in Reese's glove, or else DP, Klesko just beat play at first","2001CIN.EVN.regular.comment.csv",8
-"CIN200105050",19,"$Nevin pulled hamstring, out at least 2 days","2001CIN.EVN.regular.comment.csv",9
-"CIN200105050",74,"$Hoffman did not cover, Klesko tried for ball","2001CIN.EVN.regular.comment.csv",10
-"CIN200105140",5,"clear this is what happened - Biggio rounded too far","2001CIN.EVN.regular.comment.csv",11
-"CIN200105160",1,"Debut game for Brian Reith","2001CIN.EVN.regular.comment.csv",12
-"CIN200105170",26,"2:53 rain delay; Cin Mgr Bob Boone, Coach Tim Foli, pitcher Pete Harnisch and 1Bman Sean Casey helped pull the tarp; Boone developed a blister from the task","2001CIN.EVN.regular.comment.csv",13
-"CIN200105270",50,"52 minute rain delay","2001CIN.EVN.regular.comment.csv",14
-"CIN200105280",52,"ej,hundt001,P,gormb901,Check swing Todd Hundley ejected by 3B umpire Brian Gorman","2001CIN.EVN.regular.comment.csv",15
-"CIN200106160",1,"Debut game for Lance Davis","2001CIN.EVN.regular.comment.csv",16
-"CIN200106160",16,"ej,reesp001,P,emmep901,Called third strike Pokey Reese ejected by HP umpire Paul Emmel","2001CIN.EVN.regular.comment.csv",17
-"CIN200106180",57,"$Belliard slid hard into LaRue, knocking the ball out of his hand; Casanova took 3B on the play","2001CIN.EVN.regular.comment.csv",18
-"CIN200106180",79,"$8th consecutive loss at home for the Reds","2001CIN.EVN.regular.comment.csv",19
-"CIN200106190",1,"Debut game for Jose Acevedo","2001CIN.EVN.regular.comment.csv",20
-"CIN200106280",67,"1:05 rain delay in the eighth","2001CIN.EVN.regular.comment.csv",21
-"CIN200107160",1,"Debut game for Adam Pettyjohn","2001CIN.EVN.regular.comment.csv",22
-"CIN200107160",66,"Debut game for Pedro Santana","2001CIN.EVN.regular.comment.csv",23
-"CIN200107170",14,"ej,ceder001,P,cousd901,Balls and strikes Roger Cedeno ejected by HP umpire Derryl Cousins","2001CIN.EVN.regular.comment.csv",24
-"CIN200107180",62,"Game called for rain after 1:27 delay","2001CIN.EVN.regular.comment.csv",25
-"CIN200107280",52,"Debut game for Gary Knotts","2001CIN.EVN.regular.comment.csv",26
-"CIN200108100",55,"$both E6 this inning into dugout","2001CIN.EVN.regular.comment.csv",27
-"CIN200108190",1,"Debut game for Nickolas Neugebauer","2001CIN.EVN.regular.comment.csv",28
-"CIN200108200",0,"Protest=V","2001CIN.EVN.regular.comment.csv",29
-"CIN200108200",28,"first homer over 40' centerfield wall","2001CIN.EVN.regular.comment.csv",30
-"CIN200108200",67,"$fourth pitcher of the inning for the Cardinals","2001CIN.EVN.regular.comment.csv",31
-"CIN200108200",76,"$Fernando Vina called for obstruction while trying to field the grounder; Cardinals play under protest; error removed on 08-21","2001CIN.EVN.regular.comment.csv",32
-"CIN200108200",90,"Edmonds thought flyball was the third out and belatedly threw in","2001CIN.EVN.regular.comment.csv",33
-"CIN200108200",95,"IPHR $the ball caromed off Edmonds' foot into left field","2001CIN.EVN.regular.comment.csv",34
-"CIN200108310",68,"Debut game for Chris Piersoll","2001CIN.EVN.regular.comment.csv",35
-"CIN200109040",22,"Debut game for Corky Miller","2001CIN.EVN.regular.comment.csv",36
-"CIN200109190",61,"Debut game for Jared Fernandez","2001CIN.EVN.regular.comment.csv",37
-"CIN200109190",72,"Debut game for Scott Chiasson","2001CIN.EVN.regular.comment.csv",38
-"CIN200110062",68,"definite FLE3 at exactly this point","2001CIN.EVN.regular.comment.csv",39
-"CIN200110070",13,"Pitcher Davis dropped the popup.","2001CIN.EVN.regular.comment.csv",40
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"CIN200104030",14,"Debut game for Jack Wilson","2001CIN.EVN.regular.comment.csv",2
+"CIN200104040",1,"Debut game for Chris Reitsma","2001CIN.EVN.regular.comment.csv",3
+"CIN200104180",68,"ej,tuckm001,P,davig901,Fan interference non-call $Reds Tucker ejected by 1B umpire Davis for arguing fan interference should have been called when Brewers were batting in 8th","2001CIN.EVN.regular.comment.csv",4
+"CIN200104210",21,"ej,boonb001,M,drakr901,Call at 2B $Pokey Reese fumbled the ball at 2B and Reds manager Bob Boone argued that Kevin Appier should be out since Reese held the ball long enough; Boone ejected by 2B umpire ROb Drake","2001CIN.EVN.regular.comment.csv",5
+"CIN200105040",77,"Debut game for Brandon Larson","2001CIN.EVN.regular.comment.csv",6
+"CIN200105050",4,"$Klesko going on pitch, rounded too far, caught going back","2001CIN.EVN.regular.comment.csv",7
+"CIN200105050",9,"$Sanders going on pitch, could not get back","2001CIN.EVN.regular.comment.csv",8
+"CIN200105050",18,"ball stuck in Reese's glove, or else DP, Klesko just beat play at first","2001CIN.EVN.regular.comment.csv",9
+"CIN200105050",19,"$Nevin pulled hamstring, out at least 2 days","2001CIN.EVN.regular.comment.csv",10
+"CIN200105050",74,"$Hoffman did not cover, Klesko tried for ball","2001CIN.EVN.regular.comment.csv",11
+"CIN200105140",5,"clear this is what happened - Biggio rounded too far","2001CIN.EVN.regular.comment.csv",12
+"CIN200105160",1,"Debut game for Brian Reith","2001CIN.EVN.regular.comment.csv",13
+"CIN200105170",26,"2:53 rain delay; Cin Mgr Bob Boone, Coach Tim Foli, pitcher Pete Harnisch and 1Bman Sean Casey helped pull the tarp; Boone developed a blister from the task","2001CIN.EVN.regular.comment.csv",14
+"CIN200105270",50,"52 minute rain delay","2001CIN.EVN.regular.comment.csv",15
+"CIN200105280",52,"ej,hundt001,P,gormb901,Check swing Todd Hundley ejected by 3B umpire Brian Gorman","2001CIN.EVN.regular.comment.csv",16
+"CIN200106160",1,"Debut game for Lance Davis","2001CIN.EVN.regular.comment.csv",17
+"CIN200106160",16,"ej,reesp001,P,emmep901,Called third strike Pokey Reese ejected by HP umpire Paul Emmel","2001CIN.EVN.regular.comment.csv",18
+"CIN200106180",57,"$Belliard slid hard into LaRue, knocking the ball out of his hand; Casanova took 3B on the play","2001CIN.EVN.regular.comment.csv",19
+"CIN200106180",79,"$8th consecutive loss at home for the Reds","2001CIN.EVN.regular.comment.csv",20
+"CIN200106190",1,"Debut game for Jose Acevedo","2001CIN.EVN.regular.comment.csv",21
+"CIN200106280",67,"1:05 rain delay in the eighth","2001CIN.EVN.regular.comment.csv",22
+"CIN200107160",1,"Debut game for Adam Pettyjohn","2001CIN.EVN.regular.comment.csv",23
+"CIN200107160",66,"Debut game for Pedro Santana","2001CIN.EVN.regular.comment.csv",24
+"CIN200107170",14,"ej,ceder001,P,cousd901,Balls and strikes Roger Cedeno ejected by HP umpire Derryl Cousins","2001CIN.EVN.regular.comment.csv",25
+"CIN200107180",62,"Game called for rain after 1:27 delay","2001CIN.EVN.regular.comment.csv",26
+"CIN200107280",52,"Debut game for Gary Knotts","2001CIN.EVN.regular.comment.csv",27
+"CIN200108100",55,"$both E6 this inning into dugout","2001CIN.EVN.regular.comment.csv",28
+"CIN200108190",1,"Debut game for Nickolas Neugebauer","2001CIN.EVN.regular.comment.csv",29
+"CIN200108200",0,"Protest=V","2001CIN.EVN.regular.comment.csv",30
+"CIN200108200",28,"first homer over 40' centerfield wall","2001CIN.EVN.regular.comment.csv",31
+"CIN200108200",67,"$fourth pitcher of the inning for the Cardinals","2001CIN.EVN.regular.comment.csv",32
+"CIN200108200",76,"$Fernando Vina called for obstruction while trying to field the grounder; Cardinals play under protest; error removed on 08-21","2001CIN.EVN.regular.comment.csv",33
+"CIN200108200",90,"Edmonds thought flyball was the third out and belatedly threw in","2001CIN.EVN.regular.comment.csv",34
+"CIN200108200",95,"IPHR $the ball caromed off Edmonds' foot into left field","2001CIN.EVN.regular.comment.csv",35
+"CIN200108310",68,"Debut game for Chris Piersoll","2001CIN.EVN.regular.comment.csv",36
+"CIN200109040",22,"Debut game for Corky Miller","2001CIN.EVN.regular.comment.csv",37
+"CIN200109190",61,"Debut game for Jared Fernandez","2001CIN.EVN.regular.comment.csv",38
+"CIN200109190",72,"Debut game for Scott Chiasson","2001CIN.EVN.regular.comment.csv",39
+"CIN200110062",68,"definite FLE3 at exactly this point","2001CIN.EVN.regular.comment.csv",40
+"CIN200110070",13,"Pitcher Davis dropped the popup.","2001CIN.EVN.regular.comment.csv",41

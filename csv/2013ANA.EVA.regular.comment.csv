@@ -1,32 +1,33 @@
-"ANA201304090",27,"Angels shortstop Erick Aybar left the game due to an injured foot","FILENAME_TX","LINE_NUMBER_CT"
-"ANA201304090",38,"Athletics second baseman Scott Sizemore left the game due to an injured knee","2013ANA.EVA.regular.comment.csv",2
-"ANA201304100",0,"$the 4000th game for umpire Gerry Davis","2013ANA.EVA.regular.comment.csv",3
-"ANA201304110",30,"$the ball struck Albert Pujols' glove and caromed to Chris Ianetta","2013ANA.EVA.regular.comment.csv",4
-"ANA201304110",63,"Angels third baseman Alberto Callaspo left the game due to an injured leg","2013ANA.EVA.regular.comment.csv",5
-"ANA201304210",29,"originally scored as double, changed to error on 4-22-2013, lost two RBI and runs became unearned","2013ANA.EVA.regular.comment.csv",6
-"ANA201304230",8,"Rangers first baseman Jeff Baker left the game due to an injured knee","2013ANA.EVA.regular.comment.csv",7
-"ANA201305030",20,"replay,3,aybae001,ANA,bellw901,ANA01,O,N,I,,H $Erick Aybar's fly ball struck near the top of the short wall in RF and was ruled in play; acting crew chief Wally Bell watched the replay and upheld the call","2013ANA.EVA.regular.comment.csv",8
-"ANA201305030",35,"Orioles first baseman Chris Davis left the game due to an injured knee","2013ANA.EVA.regular.comment.csv",9
-"ANA201305030",50,"Orioles pitcher Miguel Gonzalez left the game due to an injured hand","2013ANA.EVA.regular.comment.csv",10
-"ANA201305050",9,"$a foul ball by Mark Trumbo struck the mask of HP umpire Larry Vanover; the mask and his hat both flew off","2013ANA.EVA.regular.comment.csv",11
-"ANA201305050",22,"umpchange,3,umphome,gonzm901 umpchange,3,ump2b,(None) $HP umpire Larry Vanover left the game with a possible concussion from the foul ball in the first inning; 2B umpire Manny Gonzzalez moved to HP after a short delay","2013ANA.EVA.regular.comment.csv",12
-"ANA201305150",81,"Royals center fielder Jarrod Dyson left the game due to an injured ankle","2013ANA.EVA.regular.comment.csv",13
-"ANA201305160",60,"originally WP on this play but rule 10.13(f)(2) says no","2013ANA.EVA.regular.comment.csv",14
-"ANA201305180",52,"White Sox first baseman Adam Dunn left the game due to an injured back","2013ANA.EVA.regular.comment.csv",15
-"ANA201305210",51,"Angels shortstop Erick Aybar left the game due to an injured knee","2013ANA.EVA.regular.comment.csv",16
-"ANA201306020",38,"$Erick Aybar called for interference","2013ANA.EVA.regular.comment.csv",17
-"ANA201306050",16,"replay,2,shucj001,ANA,joycj901,ANA01,F,Y,I,,H J.B. Shuck hit a fly ball down the RF line that was ruled a home run; the Cubs claimed it was foul so the umpires huddled; crew chief Jim Joyce watched the replay and overturned the call to a foul ball","2013ANA.EVA.regular.comment.csv",18
-"ANA201306150",32,"Yankees first baseman Mark Teixeira left the game due to an injured wrist","2013ANA.EVA.regular.comment.csv",19
-"ANA201306170",16,"originally scored as single, changed to E6 on 6-21-2013, making all three runs in inning unearned","2013ANA.EVA.regular.comment.csv",20
-"ANA201306180",10,"replay,2,smoaj001,SEA,hirsj901,ANA01,I,N,I,,H $Justin Smoak's fly ball to RF was touched by a fan just over the top of the wall; it was ruled a home run but the Angels claimed fan interference; crew chief John Hirschbeck watched the replay and upheld the call","2013ANA.EVA.regular.comment.csv",21
-"ANA201306230",33,"Angels center fielder Peter Bourjos left the game due to an injured hand","2013ANA.EVA.regular.comment.csv",22
-"ANA201307070",46,"$Red Sox left third base uncovered and Pujols continued to third after hamilton's walk; scored as SB and we enter that as separate play","2013ANA.EVA.regular.comment.csv",23
-"ANA201308010",35,"Blue Jays left fielder Melky Cabrera left the game due to an injured knee","2013ANA.EVA.regular.comment.csv",24
-"ANA201308050",40,"Angels second baseman Howie Kendrick left the game due to an injured knee","2013ANA.EVA.regular.comment.csv",25
-"ANA201308050",70,"originally scored as E5, changed to single on 08-09-2013","2013ANA.EVA.regular.comment.csv",26
-"ANA201308160",56,"Angels pitcher Kevin Jepsen left the game due to an injured hand","2013ANA.EVA.regular.comment.csv",27
-"ANA201308180",47,"Angels left fielder Mike Trout left the game due to an injured leg","2013ANA.EVA.regular.comment.csv",28
-"ANA201308210",26,"$Josh Hamilton called for interference with catcher Carlos Santana's throw on a steal attempt; Erick Aybar out","2013ANA.EVA.regular.comment.csv",29
-"ANA201309070",7,"originally scored as E1, changed to single plus error on 09-16-2013, making Shuck's and Trumbo's runs earned","2013ANA.EVA.regular.comment.csv",30
-"ANA201309070",29,"replay,3,trumm001,ANA,culbf901,ANA01,F,N,I,,H $Mark Trumbo hit a fly ball down the LF line that was just foul; Angels manager Mike Scioscia asked about the call so crew chief Fieldin Culbreth watched the replay and upheld the call","2013ANA.EVA.regular.comment.csv",31
-"ANA201309200",56,"Mariners pitcher Erasmo Ramirez left the game due to an injured groin","2013ANA.EVA.regular.comment.csv",32
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"ANA201304090",27,"Angels shortstop Erick Aybar left the game due to an injured foot","2013ANA.EVA.regular.comment.csv",2
+"ANA201304090",38,"Athletics second baseman Scott Sizemore left the game due to an injured knee","2013ANA.EVA.regular.comment.csv",3
+"ANA201304100",0,"$the 4000th game for umpire Gerry Davis","2013ANA.EVA.regular.comment.csv",4
+"ANA201304110",30,"$the ball struck Albert Pujols' glove and caromed to Chris Ianetta","2013ANA.EVA.regular.comment.csv",5
+"ANA201304110",63,"Angels third baseman Alberto Callaspo left the game due to an injured leg","2013ANA.EVA.regular.comment.csv",6
+"ANA201304210",29,"originally scored as double, changed to error on 4-22-2013, lost two RBI and runs became unearned","2013ANA.EVA.regular.comment.csv",7
+"ANA201304230",8,"Rangers first baseman Jeff Baker left the game due to an injured knee","2013ANA.EVA.regular.comment.csv",8
+"ANA201305030",20,"replay,3,aybae001,ANA,bellw901,ANA01,O,N,I,,H $Erick Aybar's fly ball struck near the top of the short wall in RF and was ruled in play; acting crew chief Wally Bell watched the replay and upheld the call","2013ANA.EVA.regular.comment.csv",9
+"ANA201305030",35,"Orioles first baseman Chris Davis left the game due to an injured knee","2013ANA.EVA.regular.comment.csv",10
+"ANA201305030",50,"Orioles pitcher Miguel Gonzalez left the game due to an injured hand","2013ANA.EVA.regular.comment.csv",11
+"ANA201305050",9,"$a foul ball by Mark Trumbo struck the mask of HP umpire Larry Vanover; the mask and his hat both flew off","2013ANA.EVA.regular.comment.csv",12
+"ANA201305050",22,"umpchange,3,umphome,gonzm901 umpchange,3,ump2b,(None) $HP umpire Larry Vanover left the game with a possible concussion from the foul ball in the first inning; 2B umpire Manny Gonzzalez moved to HP after a short delay","2013ANA.EVA.regular.comment.csv",13
+"ANA201305150",81,"Royals center fielder Jarrod Dyson left the game due to an injured ankle","2013ANA.EVA.regular.comment.csv",14
+"ANA201305160",60,"originally WP on this play but rule 10.13(f)(2) says no","2013ANA.EVA.regular.comment.csv",15
+"ANA201305180",52,"White Sox first baseman Adam Dunn left the game due to an injured back","2013ANA.EVA.regular.comment.csv",16
+"ANA201305210",51,"Angels shortstop Erick Aybar left the game due to an injured knee","2013ANA.EVA.regular.comment.csv",17
+"ANA201306020",38,"$Erick Aybar called for interference","2013ANA.EVA.regular.comment.csv",18
+"ANA201306050",16,"replay,2,shucj001,ANA,joycj901,ANA01,F,Y,I,,H J.B. Shuck hit a fly ball down the RF line that was ruled a home run; the Cubs claimed it was foul so the umpires huddled; crew chief Jim Joyce watched the replay and overturned the call to a foul ball","2013ANA.EVA.regular.comment.csv",19
+"ANA201306150",32,"Yankees first baseman Mark Teixeira left the game due to an injured wrist","2013ANA.EVA.regular.comment.csv",20
+"ANA201306170",16,"originally scored as single, changed to E6 on 6-21-2013, making all three runs in inning unearned","2013ANA.EVA.regular.comment.csv",21
+"ANA201306180",10,"replay,2,smoaj001,SEA,hirsj901,ANA01,I,N,I,,H $Justin Smoak's fly ball to RF was touched by a fan just over the top of the wall; it was ruled a home run but the Angels claimed fan interference; crew chief John Hirschbeck watched the replay and upheld the call","2013ANA.EVA.regular.comment.csv",22
+"ANA201306230",33,"Angels center fielder Peter Bourjos left the game due to an injured hand","2013ANA.EVA.regular.comment.csv",23
+"ANA201307070",46,"$Red Sox left third base uncovered and Pujols continued to third after hamilton's walk; scored as SB and we enter that as separate play","2013ANA.EVA.regular.comment.csv",24
+"ANA201308010",35,"Blue Jays left fielder Melky Cabrera left the game due to an injured knee","2013ANA.EVA.regular.comment.csv",25
+"ANA201308050",40,"Angels second baseman Howie Kendrick left the game due to an injured knee","2013ANA.EVA.regular.comment.csv",26
+"ANA201308050",70,"originally scored as E5, changed to single on 08-09-2013","2013ANA.EVA.regular.comment.csv",27
+"ANA201308160",56,"Angels pitcher Kevin Jepsen left the game due to an injured hand","2013ANA.EVA.regular.comment.csv",28
+"ANA201308180",47,"Angels left fielder Mike Trout left the game due to an injured leg","2013ANA.EVA.regular.comment.csv",29
+"ANA201308210",26,"$Josh Hamilton called for interference with catcher Carlos Santana's throw on a steal attempt; Erick Aybar out","2013ANA.EVA.regular.comment.csv",30
+"ANA201309070",7,"originally scored as E1, changed to single plus error on 09-16-2013, making Shuck's and Trumbo's runs earned","2013ANA.EVA.regular.comment.csv",31
+"ANA201309070",29,"replay,3,trumm001,ANA,culbf901,ANA01,F,N,I,,H $Mark Trumbo hit a fly ball down the LF line that was just foul; Angels manager Mike Scioscia asked about the call so crew chief Fieldin Culbreth watched the replay and upheld the call","2013ANA.EVA.regular.comment.csv",32
+"ANA201309200",56,"Mariners pitcher Erasmo Ramirez left the game due to an injured groin","2013ANA.EVA.regular.comment.csv",33

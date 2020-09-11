@@ -1,26 +1,27 @@
-"WS2196304080",0,"$President John Kennedy attended the game","FILENAME_TX","LINE_NUMBER_CT"
-"WS2196304080",17,"Debut game for Tom Brown","1963WS2.EVA.regular.comment.csv",2
-"WS2196304130",1,"Debut game for Dave Morehead","1963WS2.EVA.regular.comment.csv",3
-"WS2196304130",13,"Debut game for Jim Duckworth","1963WS2.EVA.regular.comment.csv",4
-"WS2196304140",1,"Debut game for Jerry Stephenson","1963WS2.EVA.regular.comment.csv",5
-"WS2196304261",85,"Debut game for Pete Lovrich","1963WS2.EVA.regular.comment.csv",6
-"WS2196304280",22,"$Ed Rakow threw at Jim Coates in retaliation for Ed Charles' HBP","1963WS2.EVA.regular.comment.csv",7
-"WS2196304280",25,"$Ed Charles bumped into Chuck Cottier as catch made; they exchange words near mound; both teams warned by umpires","1963WS2.EVA.regular.comment.csv",8
-"WS2196305070",6,"ej,pierj102,P,salea901,Balls and strikes $Jim Piersall ejected by HP umpire Al Salerno for arguing balls and strikes","1963WS2.EVA.regular.comment.csv",9
-"WS2196305070",77,"ej,kingj101,P,salea901,Balls and strikes ej,cottc101,P,salea901,Balls and strikes ej,caseg101,C,salea901,Balls and strikes $Outfielder King, infielder Cottier and coach Case ejected by by HP umpire Salerno for arguing balls and strikes; Bronstad completed King's at bat and completed King's strikeout","1963WS2.EVA.regular.comment.csv",10
-"WS2196305182",5,"ej,bunnj101,P,hurle901,Balls and strikes Jim Bunning ejected by HP umpire Eddie Hurley","1963WS2.EVA.regular.comment.csv",11
-"WS2196305220",31,"ej,osbob101,P,soarh901,Balls and strikes Bobo Osborne ejected by HP umpire Hank Soar","1963WS2.EVA.regular.comment.csv",12
-"WS2196306101",27,"$lights on","1963WS2.EVA.regular.comment.csv",13
-"WS2196306102",20,"rain and strong wind","1963WS2.EVA.regular.comment.csv",14
-"WS2196307041",61,"ej,lopae101,M,stewb902,Balk call ej,dykej101,C,stewb902,Balk call Athletics Manager Eddie Lopat and Coach Jimmy Dykes ejected by 1B umpire Bob Stewart","1963WS2.EVA.regular.comment.csv",15
-"WS2196307060",9,"Dave Stenhouse left with sore arm","1963WS2.EVA.regular.comment.csv",16
-"WS2196307110",45,"Tom Cheney left injured","1963WS2.EVA.regular.comment.csv",17
-"WS2196307300",40,"ej,blasd101,P,carrh901,Call at 1B ej,ocond101,C,carrh901,Call at 1B Don Blasingame and Senators Coach Danny O'Connell ejected by 1B umpire Sam Carrigan","1963WS2.EVA.regular.comment.csv",18
-"WS2196308080",53,"$Tony Kubek ran on the pitch but stopped","1963WS2.EVA.regular.comment.csv",19
-"WS2196308090",22,"$Jerry Adair called for obstruction","1963WS2.EVA.regular.comment.csv",20
-"WS2196308100",26,"Bennie Daniels left with sore arm","1963WS2.EVA.regular.comment.csv",21
-"WS2196308110",24,"Tom Cheney left with sore arm","1963WS2.EVA.regular.comment.csv",22
-"WS2196308262",43,"Debut game for Dwight Siebler","1963WS2.EVA.regular.comment.csv",23
-"WS2196309060",58,"Debut game for Tommy John","1963WS2.EVA.regular.comment.csv",24
-"WS2196309101",38,"Debut game for Willie Horton","1963WS2.EVA.regular.comment.csv",25
-"WS2196309140",18,"Debut game for Don Buford","1963WS2.EVA.regular.comment.csv",26
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"WS2196304080",0,"$President John Kennedy attended the game","1963WS2.EVA.regular.comment.csv",2
+"WS2196304080",17,"Debut game for Tom Brown","1963WS2.EVA.regular.comment.csv",3
+"WS2196304130",1,"Debut game for Dave Morehead","1963WS2.EVA.regular.comment.csv",4
+"WS2196304130",13,"Debut game for Jim Duckworth","1963WS2.EVA.regular.comment.csv",5
+"WS2196304140",1,"Debut game for Jerry Stephenson","1963WS2.EVA.regular.comment.csv",6
+"WS2196304261",85,"Debut game for Pete Lovrich","1963WS2.EVA.regular.comment.csv",7
+"WS2196304280",22,"$Ed Rakow threw at Jim Coates in retaliation for Ed Charles' HBP","1963WS2.EVA.regular.comment.csv",8
+"WS2196304280",25,"$Ed Charles bumped into Chuck Cottier as catch made; they exchange words near mound; both teams warned by umpires","1963WS2.EVA.regular.comment.csv",9
+"WS2196305070",6,"ej,pierj102,P,salea901,Balls and strikes $Jim Piersall ejected by HP umpire Al Salerno for arguing balls and strikes","1963WS2.EVA.regular.comment.csv",10
+"WS2196305070",77,"ej,kingj101,P,salea901,Balls and strikes ej,cottc101,P,salea901,Balls and strikes ej,caseg101,C,salea901,Balls and strikes $Outfielder King, infielder Cottier and coach Case ejected by by HP umpire Salerno for arguing balls and strikes; Bronstad completed King's at bat and completed King's strikeout","1963WS2.EVA.regular.comment.csv",11
+"WS2196305182",5,"ej,bunnj101,P,hurle901,Balls and strikes Jim Bunning ejected by HP umpire Eddie Hurley","1963WS2.EVA.regular.comment.csv",12
+"WS2196305220",31,"ej,osbob101,P,soarh901,Balls and strikes Bobo Osborne ejected by HP umpire Hank Soar","1963WS2.EVA.regular.comment.csv",13
+"WS2196306101",27,"$lights on","1963WS2.EVA.regular.comment.csv",14
+"WS2196306102",20,"rain and strong wind","1963WS2.EVA.regular.comment.csv",15
+"WS2196307041",61,"ej,lopae101,M,stewb902,Balk call ej,dykej101,C,stewb902,Balk call Athletics Manager Eddie Lopat and Coach Jimmy Dykes ejected by 1B umpire Bob Stewart","1963WS2.EVA.regular.comment.csv",16
+"WS2196307060",9,"Dave Stenhouse left with sore arm","1963WS2.EVA.regular.comment.csv",17
+"WS2196307110",45,"Tom Cheney left injured","1963WS2.EVA.regular.comment.csv",18
+"WS2196307300",40,"ej,blasd101,P,carrh901,Call at 1B ej,ocond101,C,carrh901,Call at 1B Don Blasingame and Senators Coach Danny O'Connell ejected by 1B umpire Sam Carrigan","1963WS2.EVA.regular.comment.csv",19
+"WS2196308080",53,"$Tony Kubek ran on the pitch but stopped","1963WS2.EVA.regular.comment.csv",20
+"WS2196308090",22,"$Jerry Adair called for obstruction","1963WS2.EVA.regular.comment.csv",21
+"WS2196308100",26,"Bennie Daniels left with sore arm","1963WS2.EVA.regular.comment.csv",22
+"WS2196308110",24,"Tom Cheney left with sore arm","1963WS2.EVA.regular.comment.csv",23
+"WS2196308262",43,"Debut game for Dwight Siebler","1963WS2.EVA.regular.comment.csv",24
+"WS2196309060",58,"Debut game for Tommy John","1963WS2.EVA.regular.comment.csv",25
+"WS2196309101",38,"Debut game for Willie Horton","1963WS2.EVA.regular.comment.csv",26
+"WS2196309140",18,"Debut game for Don Buford","1963WS2.EVA.regular.comment.csv",27

@@ -1,31 +1,32 @@
-"PHI197904100",0,"Debut for umpires Joe Myers, Bob Nelson and Tom Telford","FILENAME_TX","LINE_NUMBER_CT"
-"PHI197904200",0,"Debut for umpire Greg Mills","1979PHI.EVN.regular.comment.csv",2
-"PHI197904210",0,"Debut for umpire John Schleyer","1979PHI.EVN.regular.comment.csv",3
-"PHI197904240",31,"ej,lasot101,M,nelsb901,Call at HP Dodgers Manager Tom Lasorda ejected by HP umpire Bob Nelson","1979PHI.EVN.regular.comment.csv",4
-"PHI197905180",25,"15 minute rain delay","1979PHI.EVN.regular.comment.csv",5
-"PHI197905180",45,"16 minute rain delay","1979PHI.EVN.regular.comment.csv",6
-"PHI197905200",75,"ej,ozard801,M,olsea901,Balls and strikes $Phillies manager Ozark ejected by HP umpire Olsen for arguing balls and strikes while making pitching change","1979PHI.EVN.regular.comment.csv",7
-"PHI197905210",0,"$first game for staff umpires in 1979 after strike","1979PHI.EVN.regular.comment.csv",8
-"PHI197905210",65,"$Lou Brock threw helmet and bat","1979PHI.EVN.regular.comment.csv",9
-"PHI197905210",66,"ej,brocl102,P,olsea901,Balls and strikes (Threw equipment) Lou Brock ejected by 3B umpire Andy Olsen","1979PHI.EVN.regular.comment.csv",10
-"PHI197905230",0,"28 minute rain delay before start of game","1979PHI.EVN.regular.comment.csv",11
-"PHI197905230",68,"73 minute rain delay","1979PHI.EVN.regular.comment.csv",12
-"PHI197905280",24,"72 minute rain delay sometime this game","1979PHI.EVN.regular.comment.csv",13
-"PHI197905280",41,"ej,maddg001,P,tatat901,Arguing call at 2B $Maddox ejected by 2B umpire Tata for arguing call that out stretching","1979PHI.EVN.regular.comment.csv",14
-"PHI197906160",75,"ej,bencj101,P,grege901,Balls and strikes Johnny Bench ejected by HP umpire Eric Gregg","1979PHI.EVN.regular.comment.csv",15
-"PHI197906170",0,"27 minute rain delay before start of game","1979PHI.EVN.regular.comment.csv",16
-"PHI197907050",1,"Debut game for Dickie Noles","1979PHI.EVN.regular.comment.csv",17
-"PHI197907100",73,"$Del Unser set ML record with 3rd straight PH HR","1979PHI.EVN.regular.comment.csv",18
-"PHI197907120",67,"ej,ozard801,M,crawj901,Balk call Phillies manager Danny Ozark ejected by HP umpire Jerry Crawford","1979PHI.EVN.regular.comment.csv",19
-"PHI197907310",4,"$Jerry Martin and Scot Thompson collided","1979PHI.EVN.regular.comment.csv",20
-"PHI197908080",76,"ej,willd104,M,davis901,Balls and strikes $xpos manager Williams ejected by HP umpire Davidson for arguing ball call to McBride","1979PHI.EVN.regular.comment.csv",21
-"PHI197908101",3,"44 minute rain delay","1979PHI.EVN.regular.comment.csv",22
-"PHI197908101",81,"19 minute rain delay","1979PHI.EVN.regular.comment.csv",23
-"PHI197908250",53,"2:24 rain delay","1979PHI.EVN.regular.comment.csv",24
-"PHI197908270",0,"1:57 rain delay before start of game","1979PHI.EVN.regular.comment.csv",25
-"PHI197908290",0,"18 minute rain delay before start of game","1979PHI.EVN.regular.comment.csv",26
-"PHI197909062",29,"ej,torrj101,M,palld901,Arguing caught stealing at 2B Mets Manager Joe Torre ejected by 2B umpire Dave Pallone","1979PHI.EVN.regular.comment.csv",27
-"PHI197909150",40,"Debut game for George Riley","1979PHI.EVN.regular.comment.csv",28
-"PHI197909200",0,"Protest=H","1979PHI.EVN.regular.comment.csv",29
-"PHI197909200",53,"ej,greed101,M,harvd901,Fair/foul call (Reversed; threw equipment) $Keith Moreland's fly to LF was ruled a home run; the Pirates argued the call; the umpires huddled and HP umpire Doug Harvey overruled 3B umpire Eric Gregg, calling it a foul ball; Phillies manager Dallas Green argued with and was ejected by Harvey; Green threw equipment onto the field from the bench after the ejection and was fined; Mike Schmidt threw his helmet and was fined; Green protested the game","1979PHI.EVN.regular.comment.csv",30
-"PHI197909240",82,"ej,brocl102,P,willb901,Arguing balls and strikes $Lou Brock, not in game, ejected by HP umpire Williams for running on field and joining argument on called strike to Scott","1979PHI.EVN.regular.comment.csv",31
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"PHI197904100",0,"Debut for umpires Joe Myers, Bob Nelson and Tom Telford","1979PHI.EVN.regular.comment.csv",2
+"PHI197904200",0,"Debut for umpire Greg Mills","1979PHI.EVN.regular.comment.csv",3
+"PHI197904210",0,"Debut for umpire John Schleyer","1979PHI.EVN.regular.comment.csv",4
+"PHI197904240",31,"ej,lasot101,M,nelsb901,Call at HP Dodgers Manager Tom Lasorda ejected by HP umpire Bob Nelson","1979PHI.EVN.regular.comment.csv",5
+"PHI197905180",25,"15 minute rain delay","1979PHI.EVN.regular.comment.csv",6
+"PHI197905180",45,"16 minute rain delay","1979PHI.EVN.regular.comment.csv",7
+"PHI197905200",75,"ej,ozard801,M,olsea901,Balls and strikes $Phillies manager Ozark ejected by HP umpire Olsen for arguing balls and strikes while making pitching change","1979PHI.EVN.regular.comment.csv",8
+"PHI197905210",0,"$first game for staff umpires in 1979 after strike","1979PHI.EVN.regular.comment.csv",9
+"PHI197905210",65,"$Lou Brock threw helmet and bat","1979PHI.EVN.regular.comment.csv",10
+"PHI197905210",66,"ej,brocl102,P,olsea901,Balls and strikes (Threw equipment) Lou Brock ejected by 3B umpire Andy Olsen","1979PHI.EVN.regular.comment.csv",11
+"PHI197905230",0,"28 minute rain delay before start of game","1979PHI.EVN.regular.comment.csv",12
+"PHI197905230",68,"73 minute rain delay","1979PHI.EVN.regular.comment.csv",13
+"PHI197905280",24,"72 minute rain delay sometime this game","1979PHI.EVN.regular.comment.csv",14
+"PHI197905280",41,"ej,maddg001,P,tatat901,Arguing call at 2B $Maddox ejected by 2B umpire Tata for arguing call that out stretching","1979PHI.EVN.regular.comment.csv",15
+"PHI197906160",75,"ej,bencj101,P,grege901,Balls and strikes Johnny Bench ejected by HP umpire Eric Gregg","1979PHI.EVN.regular.comment.csv",16
+"PHI197906170",0,"27 minute rain delay before start of game","1979PHI.EVN.regular.comment.csv",17
+"PHI197907050",1,"Debut game for Dickie Noles","1979PHI.EVN.regular.comment.csv",18
+"PHI197907100",73,"$Del Unser set ML record with 3rd straight PH HR","1979PHI.EVN.regular.comment.csv",19
+"PHI197907120",67,"ej,ozard801,M,crawj901,Balk call Phillies manager Danny Ozark ejected by HP umpire Jerry Crawford","1979PHI.EVN.regular.comment.csv",20
+"PHI197907310",4,"$Jerry Martin and Scot Thompson collided","1979PHI.EVN.regular.comment.csv",21
+"PHI197908080",76,"ej,willd104,M,davis901,Balls and strikes $xpos manager Williams ejected by HP umpire Davidson for arguing ball call to McBride","1979PHI.EVN.regular.comment.csv",22
+"PHI197908101",3,"44 minute rain delay","1979PHI.EVN.regular.comment.csv",23
+"PHI197908101",81,"19 minute rain delay","1979PHI.EVN.regular.comment.csv",24
+"PHI197908250",53,"2:24 rain delay","1979PHI.EVN.regular.comment.csv",25
+"PHI197908270",0,"1:57 rain delay before start of game","1979PHI.EVN.regular.comment.csv",26
+"PHI197908290",0,"18 minute rain delay before start of game","1979PHI.EVN.regular.comment.csv",27
+"PHI197909062",29,"ej,torrj101,M,palld901,Arguing caught stealing at 2B Mets Manager Joe Torre ejected by 2B umpire Dave Pallone","1979PHI.EVN.regular.comment.csv",28
+"PHI197909150",40,"Debut game for George Riley","1979PHI.EVN.regular.comment.csv",29
+"PHI197909200",0,"Protest=H","1979PHI.EVN.regular.comment.csv",30
+"PHI197909200",53,"ej,greed101,M,harvd901,Fair/foul call (Reversed; threw equipment) $Keith Moreland's fly to LF was ruled a home run; the Pirates argued the call; the umpires huddled and HP umpire Doug Harvey overruled 3B umpire Eric Gregg, calling it a foul ball; Phillies manager Dallas Green argued with and was ejected by Harvey; Green threw equipment onto the field from the bench after the ejection and was fined; Mike Schmidt threw his helmet and was fined; Green protested the game","1979PHI.EVN.regular.comment.csv",31
+"PHI197909240",82,"ej,brocl102,P,willb901,Arguing balls and strikes $Lou Brock, not in game, ejected by HP umpire Williams for running on field and joining argument on called strike to Scott","1979PHI.EVN.regular.comment.csv",32

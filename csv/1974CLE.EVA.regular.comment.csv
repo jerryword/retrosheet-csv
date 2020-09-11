@@ -1,42 +1,43 @@
-"CLE197404100",71,"Debut game for Bob Sheldon","FILENAME_TX","LINE_NUMBER_CT"
-"CLE197404120",36,"just inside the LF pole","1974CLE.EVA.regular.comment.csv",2
-"CLE197404130",80,"$Roy White thought he was out and left the base then was tagged out","1974CLE.EVA.regular.comment.csv",3
-"CLE197404141",40,"39 minute rain delay","1974CLE.EVA.regular.comment.csv",4
-"CLE197404260",63,"Debut game for Morris Nettles","1974CLE.EVA.regular.comment.csv",5
-"CLE197405110",37,"$Hermoso was injured as Baylor slid hard, breaking up DP","1974CLE.EVA.regular.comment.csv",6
-"CLE197405150",53,"ej,johnd106,M,rodra901,Call at 1B Red Sox Manager Darrell Johnson ejected by 1B umpire Armando Rodriguez","1974CLE.EVA.regular.comment.csv",7
-"CLE197405310",17,"$Dave Duncan fell in front of HP trying to field bunt","1974CLE.EVA.regular.comment.csv",8
-"CLE197405310",22,"Rain delay","1974CLE.EVA.regular.comment.csv",9
-"CLE197405310",29,"$ball hit wire across stadium, which was in play","1974CLE.EVA.regular.comment.csv",10
-"CLE197406010",23,"410' HR","1974CLE.EVA.regular.comment.csv",11
-"CLE197406010",28,"410' HR","1974CLE.EVA.regular.comment.csv",12
-"CLE197406010",44,"400' HR","1974CLE.EVA.regular.comment.csv",13
-"CLE197406020",33,"400' HR","1974CLE.EVA.regular.comment.csv",14
-"CLE197406040",0,"Forfeit=V","1974CLE.EVA.regular.comment.csv",15
-"CLE197406040",30,"$Leron Lee's liner hit Fergie Jenkins on the stomach","1974CLE.EVA.regular.comment.csv",16
-"CLE197406040",50,"$Fergie Jenkins spiked on his left knee during the play at 3B","1974CLE.EVA.regular.comment.csv",17
-"CLE197406040",77,"$10-cent Beer Night promotion; fans erupted from the stands at this point and charged Rangers RF Jeff Burroughs; both benches cleared in support; fans had continually disrupted the game by running onto the field and throwing firecrackers into the dugouts; game forfeited to the Rangers","1974CLE.EVA.regular.comment.csv",18
-"CLE197406060",72,"$Alex Johnson rounded 2B too far","1974CLE.EVA.regular.comment.csv",19
-"CLE197406180",59,"$Dick Allen flipped the ball to 1B umpire Merle Anthony after the double play thinking there were 3 outs","1974CLE.EVA.regular.comment.csv",20
-"CLE197406190",72,"$Jorge Orta scored during the rundown","1974CLE.EVA.regular.comment.csv",21
-"CLE197406280",66,"$Fisk injured kneww ligaments in collision at HP, out for season","1974CLE.EVA.regular.comment.csv",22
-"CLE197407011",47,"missing fielding in CLE197407011","1974CLE.EVA.regular.comment.csv",23
-"CLE197408200",28,"420' HR","1974CLE.EVA.regular.comment.csv",24
-"CLE197408200",31,"395' HR","1974CLE.EVA.regular.comment.csv",25
-"CLE197408200",33,"Al Fitzmorris struck on right leg just below knee","1974CLE.EVA.regular.comment.csv",26
-"CLE197408200",34,"Al Fitzmorris struck on right forearm","1974CLE.EVA.regular.comment.csv",27
-"CLE197408210",11,"425' HR","1974CLE.EVA.regular.comment.csv",28
-"CLE197408210",23,"380' HR","1974CLE.EVA.regular.comment.csv",29
-"CLE197408220",63,"410' HR","1974CLE.EVA.regular.comment.csv",30
-"CLE197408220",69,"370' HR","1974CLE.EVA.regular.comment.csv",31
-"CLE197409062",1,"Debut game for Jim Kern","1974CLE.EVA.regular.comment.csv",32
-"CLE197409062",29,"ej,lowej001,P,mccol901,Balls and strikes (threw helmet) John Lowenstein ejected by HP umpire Larry McCoy","1974CLE.EVA.regular.comment.csv",33
-"CLE197409070",72,"ej,ellij101,P,bremn901,Call at 1B ej,duncd101,P,bremn901,Call at 1B ej,asprk101,M,bremn901,Call at 1B John Ellis, Dave Duncan and Indians Manager Ken Aspromonte ejected by 1B umpire Nick Bremigan","1974CLE.EVA.regular.comment.csv",34
-"CLE197409090",0,"$umpire Merle Anthony missed game with unknown illness","1974CLE.EVA.regular.comment.csv",35
-"CLE197409090",31,"Debut game for Vern Ruhle","1974CLE.EVA.regular.comment.csv",36
-"CLE197409090",55,"ej,houkr101,M,kunkb101,Throwing at batter $both teams warned after brushback; Tigers Manager Ralph Houk ejected by HP umpire Bill Kunkel","1974CLE.EVA.regular.comment.csv",37
-"CLE197409090",61,"Debut game for Duane Kuiper","1974CLE.EVA.regular.comment.csv",38
-"CLE197409100",82,"missing play in CLE197409100","1974CLE.EVA.regular.comment.csv",39
-"CLE197409232",59,"ej,portd001,P,sprim901,Entering stands to chase heckling fan $Darrell Porter jumped on top of the dugout to go after a fan who had been heckling Porter all night; Porter ejected by HP umpire Marty Springstead","1974CLE.EVA.regular.comment.csv",40
-"CLE197409250",78,"Debut game for Larry Anderson","1974CLE.EVA.regular.comment.csv",41
-"CLE197409290",58,"Debut game for Terry Whitfield","1974CLE.EVA.regular.comment.csv",42
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"CLE197404100",71,"Debut game for Bob Sheldon","1974CLE.EVA.regular.comment.csv",2
+"CLE197404120",36,"just inside the LF pole","1974CLE.EVA.regular.comment.csv",3
+"CLE197404130",80,"$Roy White thought he was out and left the base then was tagged out","1974CLE.EVA.regular.comment.csv",4
+"CLE197404141",40,"39 minute rain delay","1974CLE.EVA.regular.comment.csv",5
+"CLE197404260",63,"Debut game for Morris Nettles","1974CLE.EVA.regular.comment.csv",6
+"CLE197405110",37,"$Hermoso was injured as Baylor slid hard, breaking up DP","1974CLE.EVA.regular.comment.csv",7
+"CLE197405150",53,"ej,johnd106,M,rodra901,Call at 1B Red Sox Manager Darrell Johnson ejected by 1B umpire Armando Rodriguez","1974CLE.EVA.regular.comment.csv",8
+"CLE197405310",17,"$Dave Duncan fell in front of HP trying to field bunt","1974CLE.EVA.regular.comment.csv",9
+"CLE197405310",22,"Rain delay","1974CLE.EVA.regular.comment.csv",10
+"CLE197405310",29,"$ball hit wire across stadium, which was in play","1974CLE.EVA.regular.comment.csv",11
+"CLE197406010",23,"410' HR","1974CLE.EVA.regular.comment.csv",12
+"CLE197406010",28,"410' HR","1974CLE.EVA.regular.comment.csv",13
+"CLE197406010",44,"400' HR","1974CLE.EVA.regular.comment.csv",14
+"CLE197406020",33,"400' HR","1974CLE.EVA.regular.comment.csv",15
+"CLE197406040",0,"Forfeit=V","1974CLE.EVA.regular.comment.csv",16
+"CLE197406040",30,"$Leron Lee's liner hit Fergie Jenkins on the stomach","1974CLE.EVA.regular.comment.csv",17
+"CLE197406040",50,"$Fergie Jenkins spiked on his left knee during the play at 3B","1974CLE.EVA.regular.comment.csv",18
+"CLE197406040",77,"$10-cent Beer Night promotion; fans erupted from the stands at this point and charged Rangers RF Jeff Burroughs; both benches cleared in support; fans had continually disrupted the game by running onto the field and throwing firecrackers into the dugouts; game forfeited to the Rangers","1974CLE.EVA.regular.comment.csv",19
+"CLE197406060",72,"$Alex Johnson rounded 2B too far","1974CLE.EVA.regular.comment.csv",20
+"CLE197406180",59,"$Dick Allen flipped the ball to 1B umpire Merle Anthony after the double play thinking there were 3 outs","1974CLE.EVA.regular.comment.csv",21
+"CLE197406190",72,"$Jorge Orta scored during the rundown","1974CLE.EVA.regular.comment.csv",22
+"CLE197406280",66,"$Fisk injured kneww ligaments in collision at HP, out for season","1974CLE.EVA.regular.comment.csv",23
+"CLE197407011",47,"missing fielding in CLE197407011","1974CLE.EVA.regular.comment.csv",24
+"CLE197408200",28,"420' HR","1974CLE.EVA.regular.comment.csv",25
+"CLE197408200",31,"395' HR","1974CLE.EVA.regular.comment.csv",26
+"CLE197408200",33,"Al Fitzmorris struck on right leg just below knee","1974CLE.EVA.regular.comment.csv",27
+"CLE197408200",34,"Al Fitzmorris struck on right forearm","1974CLE.EVA.regular.comment.csv",28
+"CLE197408210",11,"425' HR","1974CLE.EVA.regular.comment.csv",29
+"CLE197408210",23,"380' HR","1974CLE.EVA.regular.comment.csv",30
+"CLE197408220",63,"410' HR","1974CLE.EVA.regular.comment.csv",31
+"CLE197408220",69,"370' HR","1974CLE.EVA.regular.comment.csv",32
+"CLE197409062",1,"Debut game for Jim Kern","1974CLE.EVA.regular.comment.csv",33
+"CLE197409062",29,"ej,lowej001,P,mccol901,Balls and strikes (threw helmet) John Lowenstein ejected by HP umpire Larry McCoy","1974CLE.EVA.regular.comment.csv",34
+"CLE197409070",72,"ej,ellij101,P,bremn901,Call at 1B ej,duncd101,P,bremn901,Call at 1B ej,asprk101,M,bremn901,Call at 1B John Ellis, Dave Duncan and Indians Manager Ken Aspromonte ejected by 1B umpire Nick Bremigan","1974CLE.EVA.regular.comment.csv",35
+"CLE197409090",0,"$umpire Merle Anthony missed game with unknown illness","1974CLE.EVA.regular.comment.csv",36
+"CLE197409090",31,"Debut game for Vern Ruhle","1974CLE.EVA.regular.comment.csv",37
+"CLE197409090",55,"ej,houkr101,M,kunkb101,Throwing at batter $both teams warned after brushback; Tigers Manager Ralph Houk ejected by HP umpire Bill Kunkel","1974CLE.EVA.regular.comment.csv",38
+"CLE197409090",61,"Debut game for Duane Kuiper","1974CLE.EVA.regular.comment.csv",39
+"CLE197409100",82,"missing play in CLE197409100","1974CLE.EVA.regular.comment.csv",40
+"CLE197409232",59,"ej,portd001,P,sprim901,Entering stands to chase heckling fan $Darrell Porter jumped on top of the dugout to go after a fan who had been heckling Porter all night; Porter ejected by HP umpire Marty Springstead","1974CLE.EVA.regular.comment.csv",41
+"CLE197409250",78,"Debut game for Larry Anderson","1974CLE.EVA.regular.comment.csv",42
+"CLE197409290",58,"Debut game for Terry Whitfield","1974CLE.EVA.regular.comment.csv",43

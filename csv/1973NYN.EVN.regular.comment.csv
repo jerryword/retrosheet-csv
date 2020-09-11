@@ -1,21 +1,22 @@
-"NYN197304060",23,"missing fielding in NYN197304060","FILENAME_TX","LINE_NUMBER_CT"
-"NYN197306100",15,"missing fielding in NYN197306100","1973NYN.EVN.regular.comment.csv",2
-"NYN197306110",25,"$Willie Mays flipped the ball to George Theodore who dropped it in surprise","1973NYN.EVN.regular.comment.csv",3
-"NYN197306130",14,"Debut game for Ron Hodges","1973NYN.EVN.regular.comment.csv",4
-"NYN197306160",44,"Debut game for Randy Jones","1973NYN.EVN.regular.comment.csv",5
-"NYN197306160",52,"400 ft","1973NYN.EVN.regular.comment.csv",6
-"NYN197306272",1,"Debut game for Mike Wallace","1973NYN.EVN.regular.comment.csv",7
-"NYN197306280",15,"Suicide squeeze","1973NYN.EVN.regular.comment.csv",8
-"NYN197307070",59,"Don Hahn and George Theodore injured","1973NYN.EVN.regular.comment.csv",9
-"NYN197307290",40,"ej,maucg101,M,gormt101,Call at 2B (Kicked base) $Expos manager Mauch ejected by 2B umpire Gorman for arguing that 2bman dropped throw; ruling was that he was throwing when the ball was dropped","1973NYN.EVN.regular.comment.csv",10
-"NYN197308030",10,"John Milner injured when hit by throw at 3B","1973NYN.EVN.regular.comment.csv",11
-"NYN197308040",20,"Bob Gibson's knee collapsed at 1B","1973NYN.EVN.regular.comment.csv",12
-"NYN197308052",43,"Debut game for Brian Ostrosser","1973NYN.EVN.regular.comment.csv",13
-"NYN197308200",94,"missing fielding in NYN197308200","1973NYN.EVN.regular.comment.csv",14
-"NYN197309031",50,"Failed squeeze","1973NYN.EVN.regular.comment.csv",15
-"NYN197309032",1,"Debut game for Craig Swan","1973NYN.EVN.regular.comment.csv",16
-"NYN197309151",58,"ej,berry101,M,dalej901,Call at HP $Mets manager Berra ejected by HP umpire Dale for arguing that Millan was safe at home","1973NYN.EVN.regular.comment.csv",17
-"NYN197309152",43,"Debut game for Greg Harts","1973NYN.EVN.regular.comment.csv",18
-"NYN197309160",64,"Harry Parker struck on hand by line drive","1973NYN.EVN.regular.comment.csv",19
-"NYN197309160",70,"Suicide squeeze","1973NYN.EVN.regular.comment.csv",20
-"NYN197309200",16,"Rennie Stennett left with pulled ribcage muscle","1973NYN.EVN.regular.comment.csv",21
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"NYN197304060",23,"missing fielding in NYN197304060","1973NYN.EVN.regular.comment.csv",2
+"NYN197306100",15,"missing fielding in NYN197306100","1973NYN.EVN.regular.comment.csv",3
+"NYN197306110",25,"$Willie Mays flipped the ball to George Theodore who dropped it in surprise","1973NYN.EVN.regular.comment.csv",4
+"NYN197306130",14,"Debut game for Ron Hodges","1973NYN.EVN.regular.comment.csv",5
+"NYN197306160",44,"Debut game for Randy Jones","1973NYN.EVN.regular.comment.csv",6
+"NYN197306160",52,"400 ft","1973NYN.EVN.regular.comment.csv",7
+"NYN197306272",1,"Debut game for Mike Wallace","1973NYN.EVN.regular.comment.csv",8
+"NYN197306280",15,"Suicide squeeze","1973NYN.EVN.regular.comment.csv",9
+"NYN197307070",59,"Don Hahn and George Theodore injured","1973NYN.EVN.regular.comment.csv",10
+"NYN197307290",40,"ej,maucg101,M,gormt101,Call at 2B (Kicked base) $Expos manager Mauch ejected by 2B umpire Gorman for arguing that 2bman dropped throw; ruling was that he was throwing when the ball was dropped","1973NYN.EVN.regular.comment.csv",11
+"NYN197308030",10,"John Milner injured when hit by throw at 3B","1973NYN.EVN.regular.comment.csv",12
+"NYN197308040",20,"Bob Gibson's knee collapsed at 1B","1973NYN.EVN.regular.comment.csv",13
+"NYN197308052",43,"Debut game for Brian Ostrosser","1973NYN.EVN.regular.comment.csv",14
+"NYN197308200",94,"missing fielding in NYN197308200","1973NYN.EVN.regular.comment.csv",15
+"NYN197309031",50,"Failed squeeze","1973NYN.EVN.regular.comment.csv",16
+"NYN197309032",1,"Debut game for Craig Swan","1973NYN.EVN.regular.comment.csv",17
+"NYN197309151",58,"ej,berry101,M,dalej901,Call at HP $Mets manager Berra ejected by HP umpire Dale for arguing that Millan was safe at home","1973NYN.EVN.regular.comment.csv",18
+"NYN197309152",43,"Debut game for Greg Harts","1973NYN.EVN.regular.comment.csv",19
+"NYN197309160",64,"Harry Parker struck on hand by line drive","1973NYN.EVN.regular.comment.csv",20
+"NYN197309160",70,"Suicide squeeze","1973NYN.EVN.regular.comment.csv",21
+"NYN197309200",16,"Rennie Stennett left with pulled ribcage muscle","1973NYN.EVN.regular.comment.csv",22

@@ -1,27 +1,28 @@
-"CAL197504070",19,"Debut game for Jerry Remy","FILENAME_TX","LINE_NUMBER_CT"
-"CAL197504090",8,"400' HR","1975CAL.EVA.regular.comment.csv",2
-"CAL197504090",22,"380' HR","1975CAL.EVA.regular.comment.csv",3
-"CAL197504131",57,"Debut game for Billy Smith","1975CAL.EVA.regular.comment.csv",4
-"CAL197504272",60,"$Bruce Bochte hit on the head by Jim Todd's pitch; the Angels charged the mound, led by manager Dick Williams; both benches cleared and a shoving match ensued; Williams argued with HP umpire Dave Phillips that Todd should be ejected, which he was not","1975CAL.EVA.regular.comment.csv",5
-"CAL197505260",0,"$Dave Garcia managed 3 games during Robinson's suspension","1975CAL.EVA.regular.comment.csv",6
-"CAL197505260",51,"umpchange,6,umphome,sprim901 umpchange,6,ump3b,morgh901 umpchange,6,ump2b,(None) $HP umpire Don Denkinger left with an unknown injury; 3B umpire Marty Springstead moved HP","1975CAL.EVA.regular.comment.csv",7
-"CAL197505270",4,"ej,willd104,M,barnl901,Call at HP $Angels manager Williams ejected by HP umpire Barnett arguing that Bell was out at home","1975CAL.EVA.regular.comment.csv",8
-"CAL197505300",43,"ej,muffb101,C,denkd901,Balls and strikes $Angels coach Muffett ejected by HP umpire Denkinger for arguing balls and strikes sometime in 6th","1975CAL.EVA.regular.comment.csv",9
-"CAL197506010",65,"$Nolan Ryan throws his 4th career no-hitter","1975CAL.EVA.regular.comment.csv",10
-"CAL197506070",4,"Debut game for Dave Collins","1975CAL.EVA.regular.comment.csv",11
-"CAL197506212",26,"ej,willd104,M,malog901,Call at 2B (Threw paper airplane) ej,herzw101,C,malog901,Call at 2B (Threw paper airplane) $Angels manager Williams and coach Herzog ejected by 3B umpire Maloney for arguing that Harper was safe at 2nd; Williams threw a paper airplane","1975CAL.EVA.regular.comment.csv",12
-"CAL197506250",19,"blown squeeze","1975CAL.EVA.regular.comment.csv",13
-"CAL197506260",67,"$Al Cowens called for interference for running into his own batted ball","1975CAL.EVA.regular.comment.csv",14
-"CAL197506290",51,"previous two plays really one","1975CAL.EVA.regular.comment.csv",15
-"CAL197506290",83,"Debut game for Tommy Sandt","1975CAL.EVA.regular.comment.csv",16
-"CAL197507080",80,"ej,huntb105,C,evanj901,Bench jockeying (Threw helmets) ej,weave801,M,evanj901,Balls and strikes $Orioles coach Hunter ejected by HP umpire Evans for arguing balls and strikes and he threw helmets onto the field; Orioles manager Weaver ejected by Evans as he changed pitchers","1975CAL.EVA.regular.comment.csv",17
-"CAL197507080",81,"ej,davit103,P,evanj901,Bench jockeying ej,freyj801,C,evanj901,Bench jockeying $Orioles Davis and coach Frey ejected by HP umpire Evans as Orioles came to bat in top of tenth; Orioles pitcher Grimsley coached 1B due to shortage of coaches","1975CAL.EVA.regular.comment.csv",18
-"CAL197507100",49,"ej,palmj001,P,phild901,Bench jockeying Call at 1B $Orioles Palmer, not in game, ejected by 1B umpire Phillips for arguing that Remy was out at 1st","1975CAL.EVA.regular.comment.csv",19
-"CAL197507130",7,"$Jerry Remy and Dave Collins both ended up at 3B","1975CAL.EVA.regular.comment.csv",20
-"CAL197507262",22,"ej,willd104,M,,Unknown reason $Angels manager Williams ejected by unknown umpire in 3rd inning for unknown reason","1975CAL.EVA.regular.comment.csv",21
-"CAL197508190",100,"ej,willd104,M,brinj901,Balls and strikes $Angels manager Williams ejected by HP umpire Brinkman for arguing balls and strikes sometime in 13th inning","1975CAL.EVA.regular.comment.csv",22
-"CAL197509030",21,"Debut game for Danny Goodwin","1975CAL.EVA.regular.comment.csv",23
-"CAL197509070",0,"Protest=H","1975CAL.EVA.regular.comment.csv",24
-"CAL197509070",23,"$the Angels claimed the pine tar on John Mayberry's bat was too far up the handle; the umpires did not penalize Mayberry; the Angels protested the game, but that was denied by AL President Lee McPhail, who said that the pine tar did not give a batter a competitive edge and that the rule was to prevent ball discoloration","1975CAL.EVA.regular.comment.csv",25
-"CAL197509070",99,"Debut game for George Throop","1975CAL.EVA.regular.comment.csv",26
-"CAL197509220",74,"ej,tannc101,M,bremn901,Called third strike $White Sox manager Tanner ejected by HP umpire Bremigan for arguing called strike 3 to Downing","1975CAL.EVA.regular.comment.csv",27
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"CAL197504070",19,"Debut game for Jerry Remy","1975CAL.EVA.regular.comment.csv",2
+"CAL197504090",8,"400' HR","1975CAL.EVA.regular.comment.csv",3
+"CAL197504090",22,"380' HR","1975CAL.EVA.regular.comment.csv",4
+"CAL197504131",57,"Debut game for Billy Smith","1975CAL.EVA.regular.comment.csv",5
+"CAL197504272",60,"$Bruce Bochte hit on the head by Jim Todd's pitch; the Angels charged the mound, led by manager Dick Williams; both benches cleared and a shoving match ensued; Williams argued with HP umpire Dave Phillips that Todd should be ejected, which he was not","1975CAL.EVA.regular.comment.csv",6
+"CAL197505260",0,"$Dave Garcia managed 3 games during Robinson's suspension","1975CAL.EVA.regular.comment.csv",7
+"CAL197505260",51,"umpchange,6,umphome,sprim901 umpchange,6,ump3b,morgh901 umpchange,6,ump2b,(None) $HP umpire Don Denkinger left with an unknown injury; 3B umpire Marty Springstead moved HP","1975CAL.EVA.regular.comment.csv",8
+"CAL197505270",4,"ej,willd104,M,barnl901,Call at HP $Angels manager Williams ejected by HP umpire Barnett arguing that Bell was out at home","1975CAL.EVA.regular.comment.csv",9
+"CAL197505300",43,"ej,muffb101,C,denkd901,Balls and strikes $Angels coach Muffett ejected by HP umpire Denkinger for arguing balls and strikes sometime in 6th","1975CAL.EVA.regular.comment.csv",10
+"CAL197506010",65,"$Nolan Ryan throws his 4th career no-hitter","1975CAL.EVA.regular.comment.csv",11
+"CAL197506070",4,"Debut game for Dave Collins","1975CAL.EVA.regular.comment.csv",12
+"CAL197506212",26,"ej,willd104,M,malog901,Call at 2B (Threw paper airplane) ej,herzw101,C,malog901,Call at 2B (Threw paper airplane) $Angels manager Williams and coach Herzog ejected by 3B umpire Maloney for arguing that Harper was safe at 2nd; Williams threw a paper airplane","1975CAL.EVA.regular.comment.csv",13
+"CAL197506250",19,"blown squeeze","1975CAL.EVA.regular.comment.csv",14
+"CAL197506260",67,"$Al Cowens called for interference for running into his own batted ball","1975CAL.EVA.regular.comment.csv",15
+"CAL197506290",51,"previous two plays really one","1975CAL.EVA.regular.comment.csv",16
+"CAL197506290",83,"Debut game for Tommy Sandt","1975CAL.EVA.regular.comment.csv",17
+"CAL197507080",80,"ej,huntb105,C,evanj901,Bench jockeying (Threw helmets) ej,weave801,M,evanj901,Balls and strikes $Orioles coach Hunter ejected by HP umpire Evans for arguing balls and strikes and he threw helmets onto the field; Orioles manager Weaver ejected by Evans as he changed pitchers","1975CAL.EVA.regular.comment.csv",18
+"CAL197507080",81,"ej,davit103,P,evanj901,Bench jockeying ej,freyj801,C,evanj901,Bench jockeying $Orioles Davis and coach Frey ejected by HP umpire Evans as Orioles came to bat in top of tenth; Orioles pitcher Grimsley coached 1B due to shortage of coaches","1975CAL.EVA.regular.comment.csv",19
+"CAL197507100",49,"ej,palmj001,P,phild901,Bench jockeying Call at 1B $Orioles Palmer, not in game, ejected by 1B umpire Phillips for arguing that Remy was out at 1st","1975CAL.EVA.regular.comment.csv",20
+"CAL197507130",7,"$Jerry Remy and Dave Collins both ended up at 3B","1975CAL.EVA.regular.comment.csv",21
+"CAL197507262",22,"ej,willd104,M,,Unknown reason $Angels manager Williams ejected by unknown umpire in 3rd inning for unknown reason","1975CAL.EVA.regular.comment.csv",22
+"CAL197508190",100,"ej,willd104,M,brinj901,Balls and strikes $Angels manager Williams ejected by HP umpire Brinkman for arguing balls and strikes sometime in 13th inning","1975CAL.EVA.regular.comment.csv",23
+"CAL197509030",21,"Debut game for Danny Goodwin","1975CAL.EVA.regular.comment.csv",24
+"CAL197509070",0,"Protest=H","1975CAL.EVA.regular.comment.csv",25
+"CAL197509070",23,"$the Angels claimed the pine tar on John Mayberry's bat was too far up the handle; the umpires did not penalize Mayberry; the Angels protested the game, but that was denied by AL President Lee McPhail, who said that the pine tar did not give a batter a competitive edge and that the rule was to prevent ball discoloration","1975CAL.EVA.regular.comment.csv",26
+"CAL197509070",99,"Debut game for George Throop","1975CAL.EVA.regular.comment.csv",27
+"CAL197509220",74,"ej,tannc101,M,bremn901,Called third strike $White Sox manager Tanner ejected by HP umpire Bremigan for arguing called strike 3 to Downing","1975CAL.EVA.regular.comment.csv",28

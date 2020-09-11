@@ -1,39 +1,40 @@
-"DET197904070",0,"Debut for umpires Mike Fitzpatrick, Bob Moyer and Tom Ravashiere","FILENAME_TX","LINE_NUMBER_CT"
-"DET197904070",80,"Debut game for Dan Gonzales","1979DET.EVA.regular.comment.csv",2
-"DET197904160",0,"Debut for umpire Dick Runchey","1979DET.EVA.regular.comment.csv",3
-"DET197904170",57,"$Hal McRae called for interference","1979DET.EVA.regular.comment.csv",4
-"DET197905080",4,"$Chet Lemon rounded the bag too far","1979DET.EVA.regular.comment.csv",5
-"DET197905110",13,"$Gorman Thomas called for interference with throw","1979DET.EVA.regular.comment.csv",6
-"DET197905120",41,"1:31 rain delay","1979DET.EVA.regular.comment.csv",7
-"DET197905260",44,"ej,wilcm001,P,phild901,Balls and strikes Milt Wilcox ejected by HP umpire Dave Phillips","1979DET.EVA.regular.comment.csv",8
-"DET197906170",87,"$Willie Davis was called out on appeal for leaving 2B early","1979DET.EVA.regular.comment.csv",9
-"DET197906270",25,"18 minute rain delay","1979DET.EVA.regular.comment.csv",10
-"DET197906270",68,"43 minute rain delay with 0-1 count on Tom Poquette","1979DET.EVA.regular.comment.csv",11
-"DET197906290",0,"34 minute rain delay before start of game","1979DET.EVA.regular.comment.csv",12
-"DET197906290",39,"$Bobby Bonds called out on appeal for leaving 3B early","1979DET.EVA.regular.comment.csv",13
-"DET197907020",67,"ej,harrt001,P,koscg901,Balls and strikes (Bumped umpire) Toby Harrah ejected by HP umpire Greg Kosc with 2-1 count arguing called strike; Harrah bumped Kosc","1979DET.EVA.regular.comment.csv",14
-"DET197907050",11,"ej,andes101,M,lucir901,Insulting 1B umpire Dan Morrison Tigers Manager Sparky Anderson ejected by HP umpire Ron Luciano for insulting 1B umpire Dan Morrison","1979DET.EVA.regular.comment.csv",15
-"DET197907100",16,"Debut game for Tom Brookens","1979DET.EVA.regular.comment.csv",16
-"DET197907100",79,"ej,maucg101,M,parkd901,Balls and strikes Twins Manager Gene Mauch ejected by HP umpire Dallas Parks","1979DET.EVA.regular.comment.csv",17
-"DET197907110",9,"30 minute rain delay","1979DET.EVA.regular.comment.csv",18
-"DET197907110",51,"ej,andes101,M,merrd901,Called third strike Tigers Manager Sparky Anderson ejected by HP umpire Durwood Merrill","1979DET.EVA.regular.comment.csv",19
-"DET197907230",80,"Debut game for Al Greene","1979DET.EVA.regular.comment.csv",20
-"DET197908032",45,"missing putout in DET197908032","1979DET.EVA.regular.comment.csv",21
-"DET197908071",0,"Debut for umpire Mark Johnson","1979DET.EVA.regular.comment.csv",22
-"DET197908082",27,"Debut game for Brian Allard","1979DET.EVA.regular.comment.csv",23
-"DET197908250",43,"$Joe Simpson left with a 1-1 count after fouling pitch off his foot","1979DET.EVA.regular.comment.csv",24
-"DET197908270",38,"$Jerry Morales lined the ball off Jim Barr's right shin","1979DET.EVA.regular.comment.csv",25
-"DET197908290",0,"1:10 rain delay before start of game","1979DET.EVA.regular.comment.csv",26
-"DET197908290",30,"ej,gricb001,P,bremn901,Called third strike Bobby Grich ejected by HP umpire Nick Bremigan","1979DET.EVA.regular.comment.csv",27
-"DET197908290",38,"ej,carer001,P,bremn901,Called third strike (Bumped umpire) Rod Carew ejected by HP umpire Nick Bremigan for bumping the umpire","1979DET.EVA.regular.comment.csv",28
-"DET197909060",0,"Protest=H Protest=V","1979DET.EVA.regular.comment.csv",29
-"DET197909060",36,"$Tigers manager Sparky Anderson protested the game because Lou Piniella was warming up the infielders at 1B","1979DET.EVA.regular.comment.csv",30
-"DET197909060",40,"$Yankees manager Billy Martin protested the game because Al Greene was warming up the pitcher","1979DET.EVA.regular.comment.csv",31
-"DET197909070",0,"28 minute rain delay before start of game","1979DET.EVA.regular.comment.csv",32
-"DET197909070",23,"$Bruce Robbins hurt on the play","1979DET.EVA.regular.comment.csv",33
-"DET197909070",57,"Debut game for Roger Slagle","1979DET.EVA.regular.comment.csv",34
-"DET197909080",12,"$Brian Doyle called for interference for running into his own bunt","1979DET.EVA.regular.comment.csv",35
-"DET197909080",67,"Debut game for Rick Peters","1979DET.EVA.regular.comment.csv",36
-"DET197909080",77,"Debut game for Kirk Gibson","1979DET.EVA.regular.comment.csv",37
-"DET197909090",33,"$Dave Stegman called for interference for running into his own batted ball","1979DET.EVA.regular.comment.csv",38
-"DET197909170",41,"$Billy Smith hurt his shoulder in collision","1979DET.EVA.regular.comment.csv",39
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"DET197904070",0,"Debut for umpires Mike Fitzpatrick, Bob Moyer and Tom Ravashiere","1979DET.EVA.regular.comment.csv",2
+"DET197904070",80,"Debut game for Dan Gonzales","1979DET.EVA.regular.comment.csv",3
+"DET197904160",0,"Debut for umpire Dick Runchey","1979DET.EVA.regular.comment.csv",4
+"DET197904170",57,"$Hal McRae called for interference","1979DET.EVA.regular.comment.csv",5
+"DET197905080",4,"$Chet Lemon rounded the bag too far","1979DET.EVA.regular.comment.csv",6
+"DET197905110",13,"$Gorman Thomas called for interference with throw","1979DET.EVA.regular.comment.csv",7
+"DET197905120",41,"1:31 rain delay","1979DET.EVA.regular.comment.csv",8
+"DET197905260",44,"ej,wilcm001,P,phild901,Balls and strikes Milt Wilcox ejected by HP umpire Dave Phillips","1979DET.EVA.regular.comment.csv",9
+"DET197906170",87,"$Willie Davis was called out on appeal for leaving 2B early","1979DET.EVA.regular.comment.csv",10
+"DET197906270",25,"18 minute rain delay","1979DET.EVA.regular.comment.csv",11
+"DET197906270",68,"43 minute rain delay with 0-1 count on Tom Poquette","1979DET.EVA.regular.comment.csv",12
+"DET197906290",0,"34 minute rain delay before start of game","1979DET.EVA.regular.comment.csv",13
+"DET197906290",39,"$Bobby Bonds called out on appeal for leaving 3B early","1979DET.EVA.regular.comment.csv",14
+"DET197907020",67,"ej,harrt001,P,koscg901,Balls and strikes (Bumped umpire) Toby Harrah ejected by HP umpire Greg Kosc with 2-1 count arguing called strike; Harrah bumped Kosc","1979DET.EVA.regular.comment.csv",15
+"DET197907050",11,"ej,andes101,M,lucir901,Insulting 1B umpire Dan Morrison Tigers Manager Sparky Anderson ejected by HP umpire Ron Luciano for insulting 1B umpire Dan Morrison","1979DET.EVA.regular.comment.csv",16
+"DET197907100",16,"Debut game for Tom Brookens","1979DET.EVA.regular.comment.csv",17
+"DET197907100",79,"ej,maucg101,M,parkd901,Balls and strikes Twins Manager Gene Mauch ejected by HP umpire Dallas Parks","1979DET.EVA.regular.comment.csv",18
+"DET197907110",9,"30 minute rain delay","1979DET.EVA.regular.comment.csv",19
+"DET197907110",51,"ej,andes101,M,merrd901,Called third strike Tigers Manager Sparky Anderson ejected by HP umpire Durwood Merrill","1979DET.EVA.regular.comment.csv",20
+"DET197907230",80,"Debut game for Al Greene","1979DET.EVA.regular.comment.csv",21
+"DET197908032",45,"missing putout in DET197908032","1979DET.EVA.regular.comment.csv",22
+"DET197908071",0,"Debut for umpire Mark Johnson","1979DET.EVA.regular.comment.csv",23
+"DET197908082",27,"Debut game for Brian Allard","1979DET.EVA.regular.comment.csv",24
+"DET197908250",43,"$Joe Simpson left with a 1-1 count after fouling pitch off his foot","1979DET.EVA.regular.comment.csv",25
+"DET197908270",38,"$Jerry Morales lined the ball off Jim Barr's right shin","1979DET.EVA.regular.comment.csv",26
+"DET197908290",0,"1:10 rain delay before start of game","1979DET.EVA.regular.comment.csv",27
+"DET197908290",30,"ej,gricb001,P,bremn901,Called third strike Bobby Grich ejected by HP umpire Nick Bremigan","1979DET.EVA.regular.comment.csv",28
+"DET197908290",38,"ej,carer001,P,bremn901,Called third strike (Bumped umpire) Rod Carew ejected by HP umpire Nick Bremigan for bumping the umpire","1979DET.EVA.regular.comment.csv",29
+"DET197909060",0,"Protest=H Protest=V","1979DET.EVA.regular.comment.csv",30
+"DET197909060",36,"$Tigers manager Sparky Anderson protested the game because Lou Piniella was warming up the infielders at 1B","1979DET.EVA.regular.comment.csv",31
+"DET197909060",40,"$Yankees manager Billy Martin protested the game because Al Greene was warming up the pitcher","1979DET.EVA.regular.comment.csv",32
+"DET197909070",0,"28 minute rain delay before start of game","1979DET.EVA.regular.comment.csv",33
+"DET197909070",23,"$Bruce Robbins hurt on the play","1979DET.EVA.regular.comment.csv",34
+"DET197909070",57,"Debut game for Roger Slagle","1979DET.EVA.regular.comment.csv",35
+"DET197909080",12,"$Brian Doyle called for interference for running into his own bunt","1979DET.EVA.regular.comment.csv",36
+"DET197909080",67,"Debut game for Rick Peters","1979DET.EVA.regular.comment.csv",37
+"DET197909080",77,"Debut game for Kirk Gibson","1979DET.EVA.regular.comment.csv",38
+"DET197909090",33,"$Dave Stegman called for interference for running into his own batted ball","1979DET.EVA.regular.comment.csv",39
+"DET197909170",41,"$Billy Smith hurt his shoulder in collision","1979DET.EVA.regular.comment.csv",40

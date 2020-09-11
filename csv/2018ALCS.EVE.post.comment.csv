@@ -1,61 +1,62 @@
-"BOS201810130",3,"$Red Sox challenged call that Altuve was safe at 2nd; call was overturned - force out","FILENAME_TX","LINE_NUMBER_CT"
-"BOS201810130",13,"Injury Delay","2018ALCS.EVE.post.comment.csv",2
-"BOS201810130",14,"Mound Visit","2018ALCS.EVE.post.comment.csv",3
-"BOS201810130",37,"Mound Visit","2018ALCS.EVE.post.comment.csv",4
-"BOS201810130",39,"Mound Visit","2018ALCS.EVE.post.comment.csv",5
-"BOS201810130",42,"Mound Visit","2018ALCS.EVE.post.comment.csv",6
-"BOS201810130",43,"ej,coraa001,M,hoyej901,Arguing called 3rd strike $Boston manager Cora ejected by plate umpire Hoye for arguing called third strike","2018ALCS.EVE.post.comment.csv",7
-"BOS201810130",44,"Injury Delay","2018ALCS.EVE.post.comment.csv",8
-"BOS201810130",46,"Mound Visit Mound Visit","2018ALCS.EVE.post.comment.csv",9
-"BOS201810130",48,"Mound Visit","2018ALCS.EVE.post.comment.csv",10
-"BOS201810130",56,"Mound Visit","2018ALCS.EVE.post.comment.csv",11
-"BOS201810130",62,"$Astros challenged call that first pitch to White was a foul, claiming it hit him; call was overturned - hit by pitch","2018ALCS.EVE.post.comment.csv",12
-"BOS201810130",73,"Mound Visit","2018ALCS.EVE.post.comment.csv",13
-"BOS201810130",75,"Mound Visit","2018ALCS.EVE.post.comment.csv",14
-"BOS201810140",10,"Mound Visit","2018ALCS.EVE.post.comment.csv",15
-"BOS201810140",30,"Injury Delay","2018ALCS.EVE.post.comment.csv",16
-"BOS201810140",32,"Mound Visit","2018ALCS.EVE.post.comment.csv",17
-"BOS201810140",42,"Mound Visit","2018ALCS.EVE.post.comment.csv",18
-"BOS201810140",44,"Mound Visit","2018ALCS.EVE.post.comment.csv",19
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"BOS201810130",3,"$Red Sox challenged call that Altuve was safe at 2nd; call was overturned - force out","2018ALCS.EVE.post.comment.csv",2
+"BOS201810130",13,"Injury Delay","2018ALCS.EVE.post.comment.csv",3
+"BOS201810130",14,"Mound Visit","2018ALCS.EVE.post.comment.csv",4
+"BOS201810130",37,"Mound Visit","2018ALCS.EVE.post.comment.csv",5
+"BOS201810130",39,"Mound Visit","2018ALCS.EVE.post.comment.csv",6
+"BOS201810130",42,"Mound Visit","2018ALCS.EVE.post.comment.csv",7
+"BOS201810130",43,"ej,coraa001,M,hoyej901,Arguing called 3rd strike $Boston manager Cora ejected by plate umpire Hoye for arguing called third strike","2018ALCS.EVE.post.comment.csv",8
+"BOS201810130",44,"Injury Delay","2018ALCS.EVE.post.comment.csv",9
+"BOS201810130",46,"Mound Visit Mound Visit","2018ALCS.EVE.post.comment.csv",10
+"BOS201810130",48,"Mound Visit","2018ALCS.EVE.post.comment.csv",11
+"BOS201810130",56,"Mound Visit","2018ALCS.EVE.post.comment.csv",12
+"BOS201810130",62,"$Astros challenged call that first pitch to White was a foul, claiming it hit him; call was overturned - hit by pitch","2018ALCS.EVE.post.comment.csv",13
+"BOS201810130",73,"Mound Visit","2018ALCS.EVE.post.comment.csv",14
+"BOS201810130",75,"Mound Visit","2018ALCS.EVE.post.comment.csv",15
+"BOS201810140",10,"Mound Visit","2018ALCS.EVE.post.comment.csv",16
+"BOS201810140",30,"Injury Delay","2018ALCS.EVE.post.comment.csv",17
+"BOS201810140",32,"Mound Visit","2018ALCS.EVE.post.comment.csv",18
+"BOS201810140",42,"Mound Visit","2018ALCS.EVE.post.comment.csv",19
 "BOS201810140",44,"Mound Visit","2018ALCS.EVE.post.comment.csv",20
-"BOS201810140",53,"$Umpire review of ball hit by Bradley on second pitch which was called fair for a ground out; call was overturned - foul ball","2018ALCS.EVE.post.comment.csv",21
-"BOS201810140",57,"Mound Visit","2018ALCS.EVE.post.comment.csv",22
-"BOS201810140",60,"Mound Visit","2018ALCS.EVE.post.comment.csv",23
-"BOS201810140",63,"Mound Visit","2018ALCS.EVE.post.comment.csv",24
-"BOS201810140",72,"Mound Visit","2018ALCS.EVE.post.comment.csv",25
-"BOS201810140",73,"Mound Visit","2018ALCS.EVE.post.comment.csv",26
-"HOU201810160",10,"Injury Delay","2018ALCS.EVE.post.comment.csv",27
-"HOU201810160",11,"Mound Visit","2018ALCS.EVE.post.comment.csv",28
-"HOU201810160",22,"Mound Visit","2018ALCS.EVE.post.comment.csv",29
-"HOU201810160",23,"$Red Sox challenged call that Pearse's ball had been caught; clal was upheld - fly out","2018ALCS.EVE.post.comment.csv",30
-"HOU201810160",26,"Mound Visit","2018ALCS.EVE.post.comment.csv",31
-"HOU201810160",41,"Mound Visit","2018ALCS.EVE.post.comment.csv",32
-"HOU201810160",45,"Mound Visit","2018ALCS.EVE.post.comment.csv",33
-"HOU201810160",53,"Mound Visit","2018ALCS.EVE.post.comment.csv",34
-"HOU201810160",61,"Mound Visit","2018ALCS.EVE.post.comment.csv",35
-"HOU201810160",65,"$Red Sox challenged call that third pitch to Holt was a ball, claiming it hit him; call was overturned - hit by pitch","2018ALCS.EVE.post.comment.csv",36
-"HOU201810160",67,"Mound Visit","2018ALCS.EVE.post.comment.csv",37
-"HOU201810160",71,"Mound Visit","2018ALCS.EVE.post.comment.csv",38
-"HOU201810170",4,"Mound Visit","2018ALCS.EVE.post.comment.csv",39
-"HOU201810170",10,"On-field Delay $Umpire review call that fan interferred on ball hit by Altuve; call was upheld - out on fan interference","2018ALCS.EVE.post.comment.csv",40
-"HOU201810170",22,"Mound Visit","2018ALCS.EVE.post.comment.csv",41
-"HOU201810170",25,"Mound Visit","2018ALCS.EVE.post.comment.csv",42
-"HOU201810170",29,"Injury Delay Mound Visit","2018ALCS.EVE.post.comment.csv",43
-"HOU201810170",41,"Mound Visit","2018ALCS.EVE.post.comment.csv",44
-"HOU201810170",46,"$Astros challenged call that Martinez was safe at 1st; call was overturned - ground out","2018ALCS.EVE.post.comment.csv",45
-"HOU201810170",52,"Mound Visit","2018ALCS.EVE.post.comment.csv",46
-"HOU201810170",57,"Mound Visit","2018ALCS.EVE.post.comment.csv",47
-"HOU201810170",60,"Mound Visit","2018ALCS.EVE.post.comment.csv",48
-"HOU201810170",68,"Mound Visit","2018ALCS.EVE.post.comment.csv",49
-"HOU201810170",69,"Mound Visit","2018ALCS.EVE.post.comment.csv",50
-"HOU201810170",72,"Injury Delay","2018ALCS.EVE.post.comment.csv",51
-"HOU201810170",74,"Mound Visit","2018ALCS.EVE.post.comment.csv",52
-"HOU201810170",80,"Mound Visit","2018ALCS.EVE.post.comment.csv",53
-"HOU201810170",90,"Mound Visit","2018ALCS.EVE.post.comment.csv",54
-"HOU201810170",97,"Mound Visit","2018ALCS.EVE.post.comment.csv",55
-"HOU201810180",13,"Mound Visit","2018ALCS.EVE.post.comment.csv",56
-"HOU201810180",32,"Mound Visit","2018ALCS.EVE.post.comment.csv",57
-"HOU201810180",36,"Mound Visit","2018ALCS.EVE.post.comment.csv",58
-"HOU201810180",41,"Mound Visit","2018ALCS.EVE.post.comment.csv",59
-"HOU201810180",56,"Mound Visit","2018ALCS.EVE.post.comment.csv",60
-"HOU201810180",59,"Mound Visit","2018ALCS.EVE.post.comment.csv",61
+"BOS201810140",44,"Mound Visit","2018ALCS.EVE.post.comment.csv",21
+"BOS201810140",53,"$Umpire review of ball hit by Bradley on second pitch which was called fair for a ground out; call was overturned - foul ball","2018ALCS.EVE.post.comment.csv",22
+"BOS201810140",57,"Mound Visit","2018ALCS.EVE.post.comment.csv",23
+"BOS201810140",60,"Mound Visit","2018ALCS.EVE.post.comment.csv",24
+"BOS201810140",63,"Mound Visit","2018ALCS.EVE.post.comment.csv",25
+"BOS201810140",72,"Mound Visit","2018ALCS.EVE.post.comment.csv",26
+"BOS201810140",73,"Mound Visit","2018ALCS.EVE.post.comment.csv",27
+"HOU201810160",10,"Injury Delay","2018ALCS.EVE.post.comment.csv",28
+"HOU201810160",11,"Mound Visit","2018ALCS.EVE.post.comment.csv",29
+"HOU201810160",22,"Mound Visit","2018ALCS.EVE.post.comment.csv",30
+"HOU201810160",23,"$Red Sox challenged call that Pearse's ball had been caught; clal was upheld - fly out","2018ALCS.EVE.post.comment.csv",31
+"HOU201810160",26,"Mound Visit","2018ALCS.EVE.post.comment.csv",32
+"HOU201810160",41,"Mound Visit","2018ALCS.EVE.post.comment.csv",33
+"HOU201810160",45,"Mound Visit","2018ALCS.EVE.post.comment.csv",34
+"HOU201810160",53,"Mound Visit","2018ALCS.EVE.post.comment.csv",35
+"HOU201810160",61,"Mound Visit","2018ALCS.EVE.post.comment.csv",36
+"HOU201810160",65,"$Red Sox challenged call that third pitch to Holt was a ball, claiming it hit him; call was overturned - hit by pitch","2018ALCS.EVE.post.comment.csv",37
+"HOU201810160",67,"Mound Visit","2018ALCS.EVE.post.comment.csv",38
+"HOU201810160",71,"Mound Visit","2018ALCS.EVE.post.comment.csv",39
+"HOU201810170",4,"Mound Visit","2018ALCS.EVE.post.comment.csv",40
+"HOU201810170",10,"On-field Delay $Umpire review call that fan interferred on ball hit by Altuve; call was upheld - out on fan interference","2018ALCS.EVE.post.comment.csv",41
+"HOU201810170",22,"Mound Visit","2018ALCS.EVE.post.comment.csv",42
+"HOU201810170",25,"Mound Visit","2018ALCS.EVE.post.comment.csv",43
+"HOU201810170",29,"Injury Delay Mound Visit","2018ALCS.EVE.post.comment.csv",44
+"HOU201810170",41,"Mound Visit","2018ALCS.EVE.post.comment.csv",45
+"HOU201810170",46,"$Astros challenged call that Martinez was safe at 1st; call was overturned - ground out","2018ALCS.EVE.post.comment.csv",46
+"HOU201810170",52,"Mound Visit","2018ALCS.EVE.post.comment.csv",47
+"HOU201810170",57,"Mound Visit","2018ALCS.EVE.post.comment.csv",48
+"HOU201810170",60,"Mound Visit","2018ALCS.EVE.post.comment.csv",49
+"HOU201810170",68,"Mound Visit","2018ALCS.EVE.post.comment.csv",50
+"HOU201810170",69,"Mound Visit","2018ALCS.EVE.post.comment.csv",51
+"HOU201810170",72,"Injury Delay","2018ALCS.EVE.post.comment.csv",52
+"HOU201810170",74,"Mound Visit","2018ALCS.EVE.post.comment.csv",53
+"HOU201810170",80,"Mound Visit","2018ALCS.EVE.post.comment.csv",54
+"HOU201810170",90,"Mound Visit","2018ALCS.EVE.post.comment.csv",55
+"HOU201810170",97,"Mound Visit","2018ALCS.EVE.post.comment.csv",56
+"HOU201810180",13,"Mound Visit","2018ALCS.EVE.post.comment.csv",57
+"HOU201810180",32,"Mound Visit","2018ALCS.EVE.post.comment.csv",58
+"HOU201810180",36,"Mound Visit","2018ALCS.EVE.post.comment.csv",59
+"HOU201810180",41,"Mound Visit","2018ALCS.EVE.post.comment.csv",60
+"HOU201810180",56,"Mound Visit","2018ALCS.EVE.post.comment.csv",61
+"HOU201810180",59,"Mound Visit","2018ALCS.EVE.post.comment.csv",62

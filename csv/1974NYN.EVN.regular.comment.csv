@@ -1,27 +1,28 @@
-"NYN197404112",72,"Debut game for Stan Papi","FILENAME_TX","LINE_NUMBER_CT"
-"NYN197406010",51,"ej,berry101,M,steld901,Fair/foul call $Mets manager Berra ejected by 3B umpire Stello for arguing that a ball hit by MArtinez was fair","1974NYN.EVN.regular.comment.csv",2
-"NYN197407042",66,"$Mike Schmidt rounded 2B too far","1974NYN.EVN.regular.comment.csv",3
-"NYN197407050",2,"$Chris Speier and HP umpire Nick Colosi argued","1974NYN.EVN.regular.comment.csv",4
-"NYN197407060",39,"ej,grotj101,P,willa901,Bench jockeying ej,speic001,P,colon901,Harrassment of umpire ej,westw101,M,colon901,Refusing to continue game Jerry Grote ejected by HP umpire Art Williams for abusive language from the dugout; Chris Speier and Tito Fuentes were joking in the infield about this and Speier was ejected 3B umpire Nick Colosi, who thought their joking was directed at him; Colosi and Speier had argued in the previous game about a called third strike; Giants Manager Wes Westrum came onto the field to argue with Colosi about the Speier ejection; Westrum told Colosi he was carrying a grudge; Westrum ejected by Colosi","1974NYN.EVN.regular.comment.csv",5
-"NYN197407060",48,"Bobby Bonds left with a strained right rib muscle","1974NYN.EVN.regular.comment.csv",6
-"NYN197407080",40,"$Jerry Grote hit by Derrell Thomas' bat","1974NYN.EVN.regular.comment.csv",7
-"NYN197407290",48,"$Jerry Grote called for interference","1974NYN.EVN.regular.comment.csv",8
-"NYN197407310",49,"$Bud Harrelson hit on elbow","1974NYN.EVN.regular.comment.csv",9
-"NYN197408090",72,"Debut game for Junior Kennedy","1974NYN.EVN.regular.comment.csv",10
-"NYN197408270",14,"Debut game for Benny Ayala","1974NYN.EVN.regular.comment.csv",11
-"NYN197408290",65,"missing fielding in NYN197408290","1974NYN.EVN.regular.comment.csv",12
-"NYN197408310",33,"$Blown squeeze","1974NYN.EVN.regular.comment.csv",13
-"NYN197409010",19,"ej,corrv101,P,colon901,Balls and strikes ej,kingc101,M,colon901,Balls and strikes $Braves Correll and manager King ejected by HP umpire Colosi sometime in Mets 3rd for arguing balls and strikes","1974NYN.EVN.regular.comment.csv",14
-"NYN197409100",75,"Debut game for Brock Pemberton","1974NYN.EVN.regular.comment.csv",15
-"NYN197409110",162,"ej,berry101,M,sudoe901,Checked swing Mets Manager Yogi Berra ejected by HP umpire Ed Sudol at 1:30 AM","1974NYN.EVN.regular.comment.csv",16
-"NYN197409110",186,"Debut game for Bruce Boisclair","1974NYN.EVN.regular.comment.csv",17
-"NYN197409110",203,"$wild throw on pickoff; 2B umpire Bob Engel called a balk but a recent rule change allowed advances on an overthrow; previously ball was dead on a balk unless it was put in play","1974NYN.EVN.regular.comment.csv",18
-"NYN197409120",58,"Debut game for John Denny","1974NYN.EVN.regular.comment.csv",19
-"NYN197409120",92,"Debut game for Ike Hampton","1974NYN.EVN.regular.comment.csv",20
-"NYN197409132",1,"Debut game for Nino Espinosa","1974NYN.EVN.regular.comment.csv",21
-"NYN197409132",76,"missing play in NYN197409132","1974NYN.EVN.regular.comment.csv",22
-"NYN197409132",77,"Debut game for Rich Puig","1974NYN.EVN.regular.comment.csv",23
-"NYN197409140",38,"Bill Madlock injured sliding","1974NYN.EVN.regular.comment.csv",24
-"NYN197409280",0,"57 minute rain delay before start of game","1974NYN.EVN.regular.comment.csv",25
-"NYN197409280",58,"Willie Stargell injured left knee sliding on passed ball in third","1974NYN.EVN.regular.comment.csv",26
-"NYN197409280",65,"7 minute rain delay","1974NYN.EVN.regular.comment.csv",27
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"NYN197404112",72,"Debut game for Stan Papi","1974NYN.EVN.regular.comment.csv",2
+"NYN197406010",51,"ej,berry101,M,steld901,Fair/foul call $Mets manager Berra ejected by 3B umpire Stello for arguing that a ball hit by MArtinez was fair","1974NYN.EVN.regular.comment.csv",3
+"NYN197407042",66,"$Mike Schmidt rounded 2B too far","1974NYN.EVN.regular.comment.csv",4
+"NYN197407050",2,"$Chris Speier and HP umpire Nick Colosi argued","1974NYN.EVN.regular.comment.csv",5
+"NYN197407060",39,"ej,grotj101,P,willa901,Bench jockeying ej,speic001,P,colon901,Harrassment of umpire ej,westw101,M,colon901,Refusing to continue game Jerry Grote ejected by HP umpire Art Williams for abusive language from the dugout; Chris Speier and Tito Fuentes were joking in the infield about this and Speier was ejected 3B umpire Nick Colosi, who thought their joking was directed at him; Colosi and Speier had argued in the previous game about a called third strike; Giants Manager Wes Westrum came onto the field to argue with Colosi about the Speier ejection; Westrum told Colosi he was carrying a grudge; Westrum ejected by Colosi","1974NYN.EVN.regular.comment.csv",6
+"NYN197407060",48,"Bobby Bonds left with a strained right rib muscle","1974NYN.EVN.regular.comment.csv",7
+"NYN197407080",40,"$Jerry Grote hit by Derrell Thomas' bat","1974NYN.EVN.regular.comment.csv",8
+"NYN197407290",48,"$Jerry Grote called for interference","1974NYN.EVN.regular.comment.csv",9
+"NYN197407310",49,"$Bud Harrelson hit on elbow","1974NYN.EVN.regular.comment.csv",10
+"NYN197408090",72,"Debut game for Junior Kennedy","1974NYN.EVN.regular.comment.csv",11
+"NYN197408270",14,"Debut game for Benny Ayala","1974NYN.EVN.regular.comment.csv",12
+"NYN197408290",65,"missing fielding in NYN197408290","1974NYN.EVN.regular.comment.csv",13
+"NYN197408310",33,"$Blown squeeze","1974NYN.EVN.regular.comment.csv",14
+"NYN197409010",19,"ej,corrv101,P,colon901,Balls and strikes ej,kingc101,M,colon901,Balls and strikes $Braves Correll and manager King ejected by HP umpire Colosi sometime in Mets 3rd for arguing balls and strikes","1974NYN.EVN.regular.comment.csv",15
+"NYN197409100",75,"Debut game for Brock Pemberton","1974NYN.EVN.regular.comment.csv",16
+"NYN197409110",162,"ej,berry101,M,sudoe901,Checked swing Mets Manager Yogi Berra ejected by HP umpire Ed Sudol at 1:30 AM","1974NYN.EVN.regular.comment.csv",17
+"NYN197409110",186,"Debut game for Bruce Boisclair","1974NYN.EVN.regular.comment.csv",18
+"NYN197409110",203,"$wild throw on pickoff; 2B umpire Bob Engel called a balk but a recent rule change allowed advances on an overthrow; previously ball was dead on a balk unless it was put in play","1974NYN.EVN.regular.comment.csv",19
+"NYN197409120",58,"Debut game for John Denny","1974NYN.EVN.regular.comment.csv",20
+"NYN197409120",92,"Debut game for Ike Hampton","1974NYN.EVN.regular.comment.csv",21
+"NYN197409132",1,"Debut game for Nino Espinosa","1974NYN.EVN.regular.comment.csv",22
+"NYN197409132",76,"missing play in NYN197409132","1974NYN.EVN.regular.comment.csv",23
+"NYN197409132",77,"Debut game for Rich Puig","1974NYN.EVN.regular.comment.csv",24
+"NYN197409140",38,"Bill Madlock injured sliding","1974NYN.EVN.regular.comment.csv",25
+"NYN197409280",0,"57 minute rain delay before start of game","1974NYN.EVN.regular.comment.csv",26
+"NYN197409280",58,"Willie Stargell injured left knee sliding on passed ball in third","1974NYN.EVN.regular.comment.csv",27
+"NYN197409280",65,"7 minute rain delay","1974NYN.EVN.regular.comment.csv",28

@@ -1,31 +1,32 @@
-"PIT193404240",46,"$Rothrock continued home after stealing third, but was not credited with an additional stolen base","FILENAME_TX","LINE_NUMBER_CT"
-"PIT193404260",55,"$Hit on foot","1934PIT.EVN.regular.comment.csv",2
-"PIT193404280",0,"Clear and cool","1934PIT.EVN.regular.comment.csv",3
-"PIT193404300",57,"$Hal Smith left with a sore finger","1934PIT.EVN.regular.comment.csv",4
-"PIT193405070",67,"$Larry French injured on play","1934PIT.EVN.regular.comment.csv",5
-"PIT193405090",8,"$Grace split his finger on a foul ball some time this inning; Exact placement is unknown","1934PIT.EVN.regular.comment.csv",6
-"PIT193406010",35,"$Durocher injured his hand while scoring but stayed in game","1934PIT.EVN.regular.comment.csv",7
-"PIT193406010",74,"$Durocher's throw home pulled catcher off the plate, allowing winning run to score; Cardinals argued strongly to no avail","1934PIT.EVN.regular.comment.csv",8
-"PIT193406022",65,"$Overslid third.","1934PIT.EVN.regular.comment.csv",9
-"PIT193406220",32,"$Lavagetto dropped line drive close to second and tried for a double play. Umpires would not allow play sending Hogan to second base and calling batter out at first. Game delayed as Braves argued with both umpires.","1934PIT.EVN.regular.comment.csv",10
-"PIT193406220",49,"$Pirates argue with umpires that Lindstrom scored before the third out was made. Pirates refused to take the field until the umpires threatened to forfeit the game. Game delayed again.","1934PIT.EVN.regular.comment.csv",11
-"PIT193406220",60,"ej,jensw102,P,magek901,Bench jockeying ej,swifb101,P,magek901,Bench jockeying $Pirates Jensen and Swift ejected for bench jockying by Magerkurth","1934PIT.EVN.regular.comment.csv",12
-"PIT193406220",67,"$Lee rounded second base too far and L. Waner threw him out.","1934PIT.EVN.regular.comment.csv",13
-"PIT193406262",49,"$Game called for darkness with 1-0 count on Clancy who pinch-hit for Holley, but is not in the offical daily totals; rest of inning counts","1934PIT.EVN.regular.comment.csv",14
-"PIT193406290",74,"ej,hartg103,P,pfirc901,Balls and strikes Gabby Hartnett ejected by HP umpire Cy Pfirman","1934PIT.EVN.regular.comment.csv",15
-"PIT193406290",87,"$Game called for rain","1934PIT.EVN.regular.comment.csv",16
-"PIT193407010",40,"ej,grimc101,M,pfirc901,Call at 3B $Chicago manager Grimm ejected by umpire Pfirman for arguing call at 3rd","1934PIT.EVN.regular.comment.csv",17
-"PIT193407010",65,"ej,vauga101,P,pfirc901,Called third strike $Vaughan ejected by plate umpire Pfirman for throwing bat after striking out","1934PIT.EVN.regular.comment.csv",18
-"PIT193407041",0,"$morning game","1934PIT.EVN.regular.comment.csv",19
-"PIT193407042",0,"$afternoon game","1934PIT.EVN.regular.comment.csv",20
-"PIT193407290",14,"$Holley hit on pitching hand","1934PIT.EVN.regular.comment.csv",21
-"PIT193408070",69,"No PBP for top of 9th.","1934PIT.EVN.regular.comment.csv",22
-"PIT193408151",4,"1 hour rain delay","1934PIT.EVN.regular.comment.csv",23
-"PIT193408172",30,"$Traynor left with injured hand","1934PIT.EVN.regular.comment.csv",24
-"PIT193408190",68,"$Glenn Chapman fought the sun; DOdgers manager Casey Stengel switched his outfielders","1934PIT.EVN.regular.comment.csv",25
-"PIT193408230",24,"$Attemped double steal. Grace threw to 3B behind Moore who who was run down","1934PIT.EVN.regular.comment.csv",26
-"PIT193408230",65,"$L. Waner's line drive hit Johnson in the hand. Johnson tried to continue but had to leave after one more batter.","1934PIT.EVN.regular.comment.csv",27
-"PIT193408280",41,"$Waner pulled muscle","1934PIT.EVN.regular.comment.csv",28
-"PIT193408292",3,"$Mallon left with Charley Horse","1934PIT.EVN.regular.comment.csv",29
-"PIT193409032",46,"$Paul Waner lost fly ball in sun","1934PIT.EVN.regular.comment.csv",30
-"PIT193409212",43,"$Clyde Manion left injured","1934PIT.EVN.regular.comment.csv",31
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"PIT193404240",46,"$Rothrock continued home after stealing third, but was not credited with an additional stolen base","1934PIT.EVN.regular.comment.csv",2
+"PIT193404260",55,"$Hit on foot","1934PIT.EVN.regular.comment.csv",3
+"PIT193404280",0,"Clear and cool","1934PIT.EVN.regular.comment.csv",4
+"PIT193404300",57,"$Hal Smith left with a sore finger","1934PIT.EVN.regular.comment.csv",5
+"PIT193405070",67,"$Larry French injured on play","1934PIT.EVN.regular.comment.csv",6
+"PIT193405090",8,"$Grace split his finger on a foul ball some time this inning; Exact placement is unknown","1934PIT.EVN.regular.comment.csv",7
+"PIT193406010",35,"$Durocher injured his hand while scoring but stayed in game","1934PIT.EVN.regular.comment.csv",8
+"PIT193406010",74,"$Durocher's throw home pulled catcher off the plate, allowing winning run to score; Cardinals argued strongly to no avail","1934PIT.EVN.regular.comment.csv",9
+"PIT193406022",65,"$Overslid third.","1934PIT.EVN.regular.comment.csv",10
+"PIT193406220",32,"$Lavagetto dropped line drive close to second and tried for a double play. Umpires would not allow play sending Hogan to second base and calling batter out at first. Game delayed as Braves argued with both umpires.","1934PIT.EVN.regular.comment.csv",11
+"PIT193406220",49,"$Pirates argue with umpires that Lindstrom scored before the third out was made. Pirates refused to take the field until the umpires threatened to forfeit the game. Game delayed again.","1934PIT.EVN.regular.comment.csv",12
+"PIT193406220",60,"ej,jensw102,P,magek901,Bench jockeying ej,swifb101,P,magek901,Bench jockeying $Pirates Jensen and Swift ejected for bench jockying by Magerkurth","1934PIT.EVN.regular.comment.csv",13
+"PIT193406220",67,"$Lee rounded second base too far and L. Waner threw him out.","1934PIT.EVN.regular.comment.csv",14
+"PIT193406262",49,"$Game called for darkness with 1-0 count on Clancy who pinch-hit for Holley, but is not in the offical daily totals; rest of inning counts","1934PIT.EVN.regular.comment.csv",15
+"PIT193406290",74,"ej,hartg103,P,pfirc901,Balls and strikes Gabby Hartnett ejected by HP umpire Cy Pfirman","1934PIT.EVN.regular.comment.csv",16
+"PIT193406290",87,"$Game called for rain","1934PIT.EVN.regular.comment.csv",17
+"PIT193407010",40,"ej,grimc101,M,pfirc901,Call at 3B $Chicago manager Grimm ejected by umpire Pfirman for arguing call at 3rd","1934PIT.EVN.regular.comment.csv",18
+"PIT193407010",65,"ej,vauga101,P,pfirc901,Called third strike $Vaughan ejected by plate umpire Pfirman for throwing bat after striking out","1934PIT.EVN.regular.comment.csv",19
+"PIT193407041",0,"$morning game","1934PIT.EVN.regular.comment.csv",20
+"PIT193407042",0,"$afternoon game","1934PIT.EVN.regular.comment.csv",21
+"PIT193407290",14,"$Holley hit on pitching hand","1934PIT.EVN.regular.comment.csv",22
+"PIT193408070",69,"No PBP for top of 9th.","1934PIT.EVN.regular.comment.csv",23
+"PIT193408151",4,"1 hour rain delay","1934PIT.EVN.regular.comment.csv",24
+"PIT193408172",30,"$Traynor left with injured hand","1934PIT.EVN.regular.comment.csv",25
+"PIT193408190",68,"$Glenn Chapman fought the sun; DOdgers manager Casey Stengel switched his outfielders","1934PIT.EVN.regular.comment.csv",26
+"PIT193408230",24,"$Attemped double steal. Grace threw to 3B behind Moore who who was run down","1934PIT.EVN.regular.comment.csv",27
+"PIT193408230",65,"$L. Waner's line drive hit Johnson in the hand. Johnson tried to continue but had to leave after one more batter.","1934PIT.EVN.regular.comment.csv",28
+"PIT193408280",41,"$Waner pulled muscle","1934PIT.EVN.regular.comment.csv",29
+"PIT193408292",3,"$Mallon left with Charley Horse","1934PIT.EVN.regular.comment.csv",30
+"PIT193409032",46,"$Paul Waner lost fly ball in sun","1934PIT.EVN.regular.comment.csv",31
+"PIT193409212",43,"$Clyde Manion left injured","1934PIT.EVN.regular.comment.csv",32

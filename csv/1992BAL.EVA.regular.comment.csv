@@ -1,25 +1,26 @@
-"BAL199204190",36,"umpchange,5,ump1b,kaisk901 umpchange,5,ump2b,(None) $2B umpire Jim McKean left with a throat/ear infection","FILENAME_TX","LINE_NUMBER_CT"
-"BAL199205010",19,"ej,plumb101,M,younl901,Balls and strikes $Mariners manager Plummer ejected by HP umpire at end of home 2nd for arguing balls and strikes","1992BAL.EVA.regular.comment.csv",2
-"BAL199205030",74,"$suicide squeeze","1992BAL.EVA.regular.comment.csv",3
-"BAL199205190",23,"20-minute light failure delay","1992BAL.EVA.regular.comment.csv",4
-"BAL199205220",59,"Randy Milligan left with injury","1992BAL.EVA.regular.comment.csv",5
-"BAL199205240",61,"ej,lachm101,C,cousd901,Balls and strikes $Angels coach Lachemann ejected by HP umpire Cousins for arguing balls and strikes while Ripken was at bat","1992BAL.EVA.regular.comment.csv",6
-"BAL199206060",72,"ej,ripkc801,C,meric901,Call at 2B $Orioles coach Ripken ejected by 2B umpire Meriwether for arguing that McLemore was safe at 2nd on steal attempt","1992BAL.EVA.regular.comment.csv",7
-"BAL199206190",80,"ej,showb801,M,joycj901,Runner placement after fan interference ej,meyer101,C,phild901,Heckling after manager's ejection $Yankees manager Showalter ejected by 1B umpire Joyce for arguing runner placement after fan interference, claiming batter should have been held at 1st; Yankees coach Meyer ejected by 3B umpire Phillips for bench jockeying after Showalter's ejection","1992BAL.EVA.regular.comment.csv",8
-"BAL199206210",0,"Protest=H","1992BAL.EVA.regular.comment.csv",9
-"BAL199206210",36,"$the Orioles played the game under protest with a 1-2 count on Brady Anderson, when Tim Leary appeared to eat something as the umpires came out to check the ball for a foreign substance; the protest was denied by AL President Bobby Brown","1992BAL.EVA.regular.comment.csv",10
-"BAL199206280",1,"Debut game for Kevin Koslofski","1992BAL.EVA.regular.comment.csv",11
-"BAL199207080",66,"ej,bellg001,P,scotd901,Called third strike (Threw helmet) George Bell ejected by HP umpire Dale Scott for throwing his helmet after being called out on strikes","1992BAL.EVA.regular.comment.csv",12
-"BAL199207080",74,"Gregg Olson left with unknown injury","1992BAL.EVA.regular.comment.csv",13
-"BAL199207100",63,"ej,andeb001,P,hirsj901,Balls and strikes Brady Anderson ejected by HP umpire John Hirschbeck","1992BAL.EVA.regular.comment.csv",14
-"BAL199207240",22,"Ivan Rodriguez left with injury due to being kicked by Glenn Davis during play at HP in second inning","1992BAL.EVA.regular.comment.csv",15
-"BAL199207240",75,"Game called for rain","1992BAL.EVA.regular.comment.csv",16
-"BAL199207250",89,"Debut game for Tommy Shields","1992BAL.EVA.regular.comment.csv",17
-"BAL199208030",63,"Debut game for Jack Voigt","1992BAL.EVA.regular.comment.csv",18
-"BAL199208190",15,"Debut game for Bret Boone","1992BAL.EVA.regular.comment.csv",19
-"BAL199208190",35,"ej,froht001,P,barnl901,Balls and strikes Todd Frohwirth ejected by HP umpire Larry Barnett","1992BAL.EVA.regular.comment.csv",20
-"BAL199208260",24,"ej,oatej101,M,younl901,Protesting warning to pitcher $Orioles manager Oates ejected by HP umpire Young for protesting the warning to his pitcher after HBP","1992BAL.EVA.regular.comment.csv",21
-"BAL199209110",28,"Sam Horn left with unknown injury suffered during plate appearance in second inning","1992BAL.EVA.regular.comment.csv",22
-"BAL199209120",56,"Storm Davis left with cramp on right side","1992BAL.EVA.regular.comment.csv",23
-"BAL199209160",39,"$Keith Miller called for interference","1992BAL.EVA.regular.comment.csv",24
-"BAL199209220",32,"Rick Sutcliffe left game with back spasm","1992BAL.EVA.regular.comment.csv",25
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"BAL199204190",36,"umpchange,5,ump1b,kaisk901 umpchange,5,ump2b,(None) $2B umpire Jim McKean left with a throat/ear infection","1992BAL.EVA.regular.comment.csv",2
+"BAL199205010",19,"ej,plumb101,M,younl901,Balls and strikes $Mariners manager Plummer ejected by HP umpire at end of home 2nd for arguing balls and strikes","1992BAL.EVA.regular.comment.csv",3
+"BAL199205030",74,"$suicide squeeze","1992BAL.EVA.regular.comment.csv",4
+"BAL199205190",23,"20-minute light failure delay","1992BAL.EVA.regular.comment.csv",5
+"BAL199205220",59,"Randy Milligan left with injury","1992BAL.EVA.regular.comment.csv",6
+"BAL199205240",61,"ej,lachm101,C,cousd901,Balls and strikes $Angels coach Lachemann ejected by HP umpire Cousins for arguing balls and strikes while Ripken was at bat","1992BAL.EVA.regular.comment.csv",7
+"BAL199206060",72,"ej,ripkc801,C,meric901,Call at 2B $Orioles coach Ripken ejected by 2B umpire Meriwether for arguing that McLemore was safe at 2nd on steal attempt","1992BAL.EVA.regular.comment.csv",8
+"BAL199206190",80,"ej,showb801,M,joycj901,Runner placement after fan interference ej,meyer101,C,phild901,Heckling after manager's ejection $Yankees manager Showalter ejected by 1B umpire Joyce for arguing runner placement after fan interference, claiming batter should have been held at 1st; Yankees coach Meyer ejected by 3B umpire Phillips for bench jockeying after Showalter's ejection","1992BAL.EVA.regular.comment.csv",9
+"BAL199206210",0,"Protest=H","1992BAL.EVA.regular.comment.csv",10
+"BAL199206210",36,"$the Orioles played the game under protest with a 1-2 count on Brady Anderson, when Tim Leary appeared to eat something as the umpires came out to check the ball for a foreign substance; the protest was denied by AL President Bobby Brown","1992BAL.EVA.regular.comment.csv",11
+"BAL199206280",1,"Debut game for Kevin Koslofski","1992BAL.EVA.regular.comment.csv",12
+"BAL199207080",66,"ej,bellg001,P,scotd901,Called third strike (Threw helmet) George Bell ejected by HP umpire Dale Scott for throwing his helmet after being called out on strikes","1992BAL.EVA.regular.comment.csv",13
+"BAL199207080",74,"Gregg Olson left with unknown injury","1992BAL.EVA.regular.comment.csv",14
+"BAL199207100",63,"ej,andeb001,P,hirsj901,Balls and strikes Brady Anderson ejected by HP umpire John Hirschbeck","1992BAL.EVA.regular.comment.csv",15
+"BAL199207240",22,"Ivan Rodriguez left with injury due to being kicked by Glenn Davis during play at HP in second inning","1992BAL.EVA.regular.comment.csv",16
+"BAL199207240",75,"Game called for rain","1992BAL.EVA.regular.comment.csv",17
+"BAL199207250",89,"Debut game for Tommy Shields","1992BAL.EVA.regular.comment.csv",18
+"BAL199208030",63,"Debut game for Jack Voigt","1992BAL.EVA.regular.comment.csv",19
+"BAL199208190",15,"Debut game for Bret Boone","1992BAL.EVA.regular.comment.csv",20
+"BAL199208190",35,"ej,froht001,P,barnl901,Balls and strikes Todd Frohwirth ejected by HP umpire Larry Barnett","1992BAL.EVA.regular.comment.csv",21
+"BAL199208260",24,"ej,oatej101,M,younl901,Protesting warning to pitcher $Orioles manager Oates ejected by HP umpire Young for protesting the warning to his pitcher after HBP","1992BAL.EVA.regular.comment.csv",22
+"BAL199209110",28,"Sam Horn left with unknown injury suffered during plate appearance in second inning","1992BAL.EVA.regular.comment.csv",23
+"BAL199209120",56,"Storm Davis left with cramp on right side","1992BAL.EVA.regular.comment.csv",24
+"BAL199209160",39,"$Keith Miller called for interference","1992BAL.EVA.regular.comment.csv",25
+"BAL199209220",32,"Rick Sutcliffe left game with back spasm","1992BAL.EVA.regular.comment.csv",26

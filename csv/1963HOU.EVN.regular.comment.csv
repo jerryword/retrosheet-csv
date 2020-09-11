@@ -1,44 +1,45 @@
-"HOU196304090",15,"Debut game for Rusty Staub","FILENAME_TX","LINE_NUMBER_CT"
-"HOU196304090",58,"Debut game for Brock Davis","1963HOU.EVN.regular.comment.csv",2
-"HOU196304110",46,"Debut game for Conrad Cardinal","1963HOU.EVN.regular.comment.csv",3
-"HOU196304110",49,"$Jim Davenport called for interference","1963HOU.EVN.regular.comment.csv",4
-"HOU196304110",68,"Debut game for Chris Zachary","1963HOU.EVN.regular.comment.csv",5
-"HOU196304140",26,"$John Roseboro fell between 1B and 2B","1963HOU.EVN.regular.comment.csv",6
-"HOU196304140",62,"Debut game for Ken Rowe","1963HOU.EVN.regular.comment.csv",7
-"HOU196304260",2,"missing play in HOU196304260","1963HOU.EVN.regular.comment.csv",8
-"HOU196305100",37,"$Turk Farrell called for interference","1963HOU.EVN.regular.comment.csv",9
-"HOU196305111",22,"ej,crafh101,M,steim901,Call at 2B Colts Manager Harry Craft ejected by 2B umpire Mel Steiner","1963HOU.EVN.regular.comment.csv",10
-"HOU196305112",5,"ej,spana101,P,venzt901,Called third strike Al Spangler ejected by HP umpire Tony Venzon","1963HOU.EVN.regular.comment.csv",11
-"HOU196305120",65,"ej,campj104,P,steim901,Balls and strikes Jim Campbell ejected by HP umpire Mel Steiner","1963HOU.EVN.regular.comment.csv",12
-"HOU196305120",66,"Debut game for Dave Adlesh","1963HOU.EVN.regular.comment.csv",13
-"HOU196305180",63,"$Carl Warwick called for interference","1963HOU.EVN.regular.comment.csv",14
-"HOU196305190",54,"ej,tempj101,P,forma901,Called strike 3 $Temple ejected by HP umpire Forman for arguing strike 3","1963HOU.EVN.regular.comment.csv",15
-"HOU196306050",26,"ej,asprb101,P,venzt901,Call at 1B Bob Aspromonte ejected by 1B umpire Tony Venzon","1963HOU.EVN.regular.comment.csv",16
-"HOU196307020",32,"$failed squeeze","1963HOU.EVN.regular.comment.csv",17
-"HOU196307020",59,"Debut game for Jim Dickson","1963HOU.EVN.regular.comment.csv",18
-"HOU196307041",46,"$Gordy Coleman called for obstruction","1963HOU.EVN.regular.comment.csv",19
-"HOU196307042",41,"ej,hutcf101,M,varge901,Balk non-call $Reds manager Hutchinson ejected by 1B umpire Vargo for arguing pitcher had balked","1963HOU.EVN.regular.comment.csv",20
-"HOU196307050",15,"$Bob Sadowski called for interference","1963HOU.EVN.regular.comment.csv",21
-"HOU196307270",13,"$Frank Thomas caught Jimmy Wynn with the hidden ball trick","1963HOU.EVN.regular.comment.csv",22
-"HOU196307270",59,"ej,snidd101,P,burkk101,Called third strike (Threw helmet) Duke Snider ejected by HP umpire Ken Burkhart","1963HOU.EVN.regular.comment.csv",23
-"HOU196307280",65,"$Ken Johnson called for interference","1963HOU.EVN.regular.comment.csv",24
-"HOU196307310",8,"$Bob Aspromonte called for interference","1963HOU.EVN.regular.comment.csv",25
-"HOU196308020",69,"$the ball struck 1B umpire Doug Harvey","1963HOU.EVN.regular.comment.csv",26
-"HOU196309070",0,"1:32 rain delay before start of game","1963HOU.EVN.regular.comment.csv",27
-"HOU196309080",59,"$Bob Bruce hurt during warm-up","1963HOU.EVN.regular.comment.csv",28
-"HOU196309200",7,"Debut game for Glenn Vaughan","1963HOU.EVN.regular.comment.csv",29
-"HOU196309210",8,"Debut game for Mike White","1963HOU.EVN.regular.comment.csv",30
-"HOU196309210",18,"ej,crafh101,M,jackb901,Call at HP Colts Manager Harry Craft ejected by HP umpire Bill Jackowski","1963HOU.EVN.regular.comment.csv",31
-"HOU196309210",26,"Debut game for Joe Morgan","1963HOU.EVN.regular.comment.csv",32
-"HOU196309210",35,"ej,maucg101,M,craws901,Fair/foul call Phillies Manager Gene Mauch ejected by 1B umpire Shag Crawford","1963HOU.EVN.regular.comment.csv",33
-"HOU196309210",38,"Debut game for Jerry Grote","1963HOU.EVN.regular.comment.csv",34
-"HOU196309220",56,"$Hal Brown struck on leg","1963HOU.EVN.regular.comment.csv",35
-"HOU196309220",66,"Debut game for Aaron Pointer","1963HOU.EVN.regular.comment.csv",36
-"HOU196309260",1,"Debut game for Larry Yellen","1963HOU.EVN.regular.comment.csv",37
-"HOU196309270",0,"$All rookie lineup for Houston","1963HOU.EVN.regular.comment.csv",38
-"HOU196309270",1,"Debut game for Jay Dahl","1963HOU.EVN.regular.comment.csv",39
-"HOU196309270",4,"Debut game for Sonny Jackson","1963HOU.EVN.regular.comment.csv",40
-"HOU196309270",27,"Debut game for Danny Coombs","1963HOU.EVN.regular.comment.csv",41
-"HOU196309270",36,"Debut game for Joe Hoerner","1963HOU.EVN.regular.comment.csv",42
-"HOU196309280",65,"Debut game for Ivan Murrell","1963HOU.EVN.regular.comment.csv",43
-"HOU196309290",15,"Debut game for John Paciorek","1963HOU.EVN.regular.comment.csv",44
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"HOU196304090",15,"Debut game for Rusty Staub","1963HOU.EVN.regular.comment.csv",2
+"HOU196304090",58,"Debut game for Brock Davis","1963HOU.EVN.regular.comment.csv",3
+"HOU196304110",46,"Debut game for Conrad Cardinal","1963HOU.EVN.regular.comment.csv",4
+"HOU196304110",49,"$Jim Davenport called for interference","1963HOU.EVN.regular.comment.csv",5
+"HOU196304110",68,"Debut game for Chris Zachary","1963HOU.EVN.regular.comment.csv",6
+"HOU196304140",26,"$John Roseboro fell between 1B and 2B","1963HOU.EVN.regular.comment.csv",7
+"HOU196304140",62,"Debut game for Ken Rowe","1963HOU.EVN.regular.comment.csv",8
+"HOU196304260",2,"missing play in HOU196304260","1963HOU.EVN.regular.comment.csv",9
+"HOU196305100",37,"$Turk Farrell called for interference","1963HOU.EVN.regular.comment.csv",10
+"HOU196305111",22,"ej,crafh101,M,steim901,Call at 2B Colts Manager Harry Craft ejected by 2B umpire Mel Steiner","1963HOU.EVN.regular.comment.csv",11
+"HOU196305112",5,"ej,spana101,P,venzt901,Called third strike Al Spangler ejected by HP umpire Tony Venzon","1963HOU.EVN.regular.comment.csv",12
+"HOU196305120",65,"ej,campj104,P,steim901,Balls and strikes Jim Campbell ejected by HP umpire Mel Steiner","1963HOU.EVN.regular.comment.csv",13
+"HOU196305120",66,"Debut game for Dave Adlesh","1963HOU.EVN.regular.comment.csv",14
+"HOU196305180",63,"$Carl Warwick called for interference","1963HOU.EVN.regular.comment.csv",15
+"HOU196305190",54,"ej,tempj101,P,forma901,Called strike 3 $Temple ejected by HP umpire Forman for arguing strike 3","1963HOU.EVN.regular.comment.csv",16
+"HOU196306050",26,"ej,asprb101,P,venzt901,Call at 1B Bob Aspromonte ejected by 1B umpire Tony Venzon","1963HOU.EVN.regular.comment.csv",17
+"HOU196307020",32,"$failed squeeze","1963HOU.EVN.regular.comment.csv",18
+"HOU196307020",59,"Debut game for Jim Dickson","1963HOU.EVN.regular.comment.csv",19
+"HOU196307041",46,"$Gordy Coleman called for obstruction","1963HOU.EVN.regular.comment.csv",20
+"HOU196307042",41,"ej,hutcf101,M,varge901,Balk non-call $Reds manager Hutchinson ejected by 1B umpire Vargo for arguing pitcher had balked","1963HOU.EVN.regular.comment.csv",21
+"HOU196307050",15,"$Bob Sadowski called for interference","1963HOU.EVN.regular.comment.csv",22
+"HOU196307270",13,"$Frank Thomas caught Jimmy Wynn with the hidden ball trick","1963HOU.EVN.regular.comment.csv",23
+"HOU196307270",59,"ej,snidd101,P,burkk101,Called third strike (Threw helmet) Duke Snider ejected by HP umpire Ken Burkhart","1963HOU.EVN.regular.comment.csv",24
+"HOU196307280",65,"$Ken Johnson called for interference","1963HOU.EVN.regular.comment.csv",25
+"HOU196307310",8,"$Bob Aspromonte called for interference","1963HOU.EVN.regular.comment.csv",26
+"HOU196308020",69,"$the ball struck 1B umpire Doug Harvey","1963HOU.EVN.regular.comment.csv",27
+"HOU196309070",0,"1:32 rain delay before start of game","1963HOU.EVN.regular.comment.csv",28
+"HOU196309080",59,"$Bob Bruce hurt during warm-up","1963HOU.EVN.regular.comment.csv",29
+"HOU196309200",7,"Debut game for Glenn Vaughan","1963HOU.EVN.regular.comment.csv",30
+"HOU196309210",8,"Debut game for Mike White","1963HOU.EVN.regular.comment.csv",31
+"HOU196309210",18,"ej,crafh101,M,jackb901,Call at HP Colts Manager Harry Craft ejected by HP umpire Bill Jackowski","1963HOU.EVN.regular.comment.csv",32
+"HOU196309210",26,"Debut game for Joe Morgan","1963HOU.EVN.regular.comment.csv",33
+"HOU196309210",35,"ej,maucg101,M,craws901,Fair/foul call Phillies Manager Gene Mauch ejected by 1B umpire Shag Crawford","1963HOU.EVN.regular.comment.csv",34
+"HOU196309210",38,"Debut game for Jerry Grote","1963HOU.EVN.regular.comment.csv",35
+"HOU196309220",56,"$Hal Brown struck on leg","1963HOU.EVN.regular.comment.csv",36
+"HOU196309220",66,"Debut game for Aaron Pointer","1963HOU.EVN.regular.comment.csv",37
+"HOU196309260",1,"Debut game for Larry Yellen","1963HOU.EVN.regular.comment.csv",38
+"HOU196309270",0,"$All rookie lineup for Houston","1963HOU.EVN.regular.comment.csv",39
+"HOU196309270",1,"Debut game for Jay Dahl","1963HOU.EVN.regular.comment.csv",40
+"HOU196309270",4,"Debut game for Sonny Jackson","1963HOU.EVN.regular.comment.csv",41
+"HOU196309270",27,"Debut game for Danny Coombs","1963HOU.EVN.regular.comment.csv",42
+"HOU196309270",36,"Debut game for Joe Hoerner","1963HOU.EVN.regular.comment.csv",43
+"HOU196309280",65,"Debut game for Ivan Murrell","1963HOU.EVN.regular.comment.csv",44
+"HOU196309290",15,"Debut game for John Paciorek","1963HOU.EVN.regular.comment.csv",45

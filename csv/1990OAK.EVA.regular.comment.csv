@@ -1,32 +1,33 @@
-"OAK199004110",55,"$Mike Norris' first appearance since 1983","FILENAME_TX","LINE_NUMBER_CT"
-"OAK199004110",62,"Debut game for Mike Bordick","1990OAK.EVA.regular.comment.csv",2
-"OAK199004200",70,"$first baserunner allowed by Brian Holman with 2 out in 9th","1990OAK.EVA.regular.comment.csv",3
-"OAK199004220",70,"$Dave Valle caught in rundown after pitchout","1990OAK.EVA.regular.comment.csv",4
-"OAK199005260",4,"$Keith Hernandez pulled muscle running in 1B","1990OAK.EVA.regular.comment.csv",5
-"OAK199005260",41,"$Rickey Henderson tied Ty Cobb's AL SB record at 892","1990OAK.EVA.regular.comment.csv",6
-"OAK199005290",46,"$Rickey Henderson broke Ty Cobb's AL record with 893rd stolen base","1990OAK.EVA.regular.comment.csv",7
-"OAK199006110",54,"Attempted double play: missed at 2nd","1990OAK.EVA.regular.comment.csv",8
-"OAK199006120",89,"SS dropped throw, 2b picked it up & threw to 3rd","1990OAK.EVA.regular.comment.csv",9
-"OAK199006220",10,"$Dan Pasqua kept running when Carney Lansford overran Scott Fletcher's bunt","1990OAK.EVA.regular.comment.csv",10
-"OAK199006220",25,"DWS: invented play","1990OAK.EVA.regular.comment.csv",11
-"OAK199006270",22,"$Jose Canseco out with strained right wrist","1990OAK.EVA.regular.comment.csv",12
-"OAK199006270",51,"ej,whitl001,P,cedeg901,Balls and strikes Lou Whitaker ejected by HP umpire Gary Cederstrom when the first pitch is called a strike","1990OAK.EVA.regular.comment.csv",13
-"OAK199007140",9,"$Willie Randolph injured in collision with Mark McGwire","1990OAK.EVA.regular.comment.csv",14
-"OAK199007140",56,"$Walt Weiss rounded 1B too far","1990OAK.EVA.regular.comment.csv",15
-"OAK199007182",62,"Debut game for Ozzie Canseco","1990OAK.EVA.regular.comment.csv",16
-"OAK199007230",5,"$Felix Jose lost the ball in the sun","1990OAK.EVA.regular.comment.csv",17
-"OAK199007240",39,"$Ball one to Gallego called when Abbott went to mouth","1990OAK.EVA.regular.comment.csv",18
-"OAK199007240",49,"ej,finlc001,P,cobld901,Bench Jockeying $Angels Finley, not in game, ejected by 1B umpire Coble for bench jockeying after balk","1990OAK.EVA.regular.comment.csv",19
-"OAK199007310",59,"Debut game for Joe Bitker","1990OAK.EVA.regular.comment.csv",20
-"OAK199008070",4,"$Randy Milligan hurt shoulder, left game at bottom of inning","1990OAK.EVA.regular.comment.csv",21
-"OAK199008070",13,"$18 minute light failure delay","1990OAK.EVA.regular.comment.csv",22
-"OAK199008070",40,"$Rickey Henderson hurt hamstring last play","1990OAK.EVA.regular.comment.csv",23
-"OAK199008070",52,"$Mickey Tettleton left as result of HBP in the 6th","1990OAK.EVA.regular.comment.csv",24
-"OAK199008080",67,"$Sam Horn hurt himself swinging at second strike","1990OAK.EVA.regular.comment.csv",25
-"OAK199008090",7,"$Jose Canseco tagged up last play and only advanced 1 base","1990OAK.EVA.regular.comment.csv",26
-"OAK199008090",66,"$Orioles manager Frank Robinson had umpires check Gene Nelson's glove","1990OAK.EVA.regular.comment.csv",27
-"OAK199008110",75,"$Felix Jose called for interference for running inside baseline","1990OAK.EVA.regular.comment.csv",28
-"OAK199008140",21,"$Mike Moore left with injury","1990OAK.EVA.regular.comment.csv",29
-"OAK199008310",73,"ej,petrg001,P,tscht901,Balls and strikes Gene Petralli ejected by HP umpire Tim Tschida when the first two pitches are called strikes","1990OAK.EVA.regular.comment.csv",30
-"OAK199009230",5,"$Lou Whitaker injured on play at the plate","1990OAK.EVA.regular.comment.csv",31
-"OAK199009230",23,"$Willie McGee left with hamstring pull","1990OAK.EVA.regular.comment.csv",32
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"OAK199004110",55,"$Mike Norris' first appearance since 1983","1990OAK.EVA.regular.comment.csv",2
+"OAK199004110",62,"Debut game for Mike Bordick","1990OAK.EVA.regular.comment.csv",3
+"OAK199004200",70,"$first baserunner allowed by Brian Holman with 2 out in 9th","1990OAK.EVA.regular.comment.csv",4
+"OAK199004220",70,"$Dave Valle caught in rundown after pitchout","1990OAK.EVA.regular.comment.csv",5
+"OAK199005260",4,"$Keith Hernandez pulled muscle running in 1B","1990OAK.EVA.regular.comment.csv",6
+"OAK199005260",41,"$Rickey Henderson tied Ty Cobb's AL SB record at 892","1990OAK.EVA.regular.comment.csv",7
+"OAK199005290",46,"$Rickey Henderson broke Ty Cobb's AL record with 893rd stolen base","1990OAK.EVA.regular.comment.csv",8
+"OAK199006110",54,"Attempted double play: missed at 2nd","1990OAK.EVA.regular.comment.csv",9
+"OAK199006120",89,"SS dropped throw, 2b picked it up & threw to 3rd","1990OAK.EVA.regular.comment.csv",10
+"OAK199006220",10,"$Dan Pasqua kept running when Carney Lansford overran Scott Fletcher's bunt","1990OAK.EVA.regular.comment.csv",11
+"OAK199006220",25,"DWS: invented play","1990OAK.EVA.regular.comment.csv",12
+"OAK199006270",22,"$Jose Canseco out with strained right wrist","1990OAK.EVA.regular.comment.csv",13
+"OAK199006270",51,"ej,whitl001,P,cedeg901,Balls and strikes Lou Whitaker ejected by HP umpire Gary Cederstrom when the first pitch is called a strike","1990OAK.EVA.regular.comment.csv",14
+"OAK199007140",9,"$Willie Randolph injured in collision with Mark McGwire","1990OAK.EVA.regular.comment.csv",15
+"OAK199007140",56,"$Walt Weiss rounded 1B too far","1990OAK.EVA.regular.comment.csv",16
+"OAK199007182",62,"Debut game for Ozzie Canseco","1990OAK.EVA.regular.comment.csv",17
+"OAK199007230",5,"$Felix Jose lost the ball in the sun","1990OAK.EVA.regular.comment.csv",18
+"OAK199007240",39,"$Ball one to Gallego called when Abbott went to mouth","1990OAK.EVA.regular.comment.csv",19
+"OAK199007240",49,"ej,finlc001,P,cobld901,Bench Jockeying $Angels Finley, not in game, ejected by 1B umpire Coble for bench jockeying after balk","1990OAK.EVA.regular.comment.csv",20
+"OAK199007310",59,"Debut game for Joe Bitker","1990OAK.EVA.regular.comment.csv",21
+"OAK199008070",4,"$Randy Milligan hurt shoulder, left game at bottom of inning","1990OAK.EVA.regular.comment.csv",22
+"OAK199008070",13,"$18 minute light failure delay","1990OAK.EVA.regular.comment.csv",23
+"OAK199008070",40,"$Rickey Henderson hurt hamstring last play","1990OAK.EVA.regular.comment.csv",24
+"OAK199008070",52,"$Mickey Tettleton left as result of HBP in the 6th","1990OAK.EVA.regular.comment.csv",25
+"OAK199008080",67,"$Sam Horn hurt himself swinging at second strike","1990OAK.EVA.regular.comment.csv",26
+"OAK199008090",7,"$Jose Canseco tagged up last play and only advanced 1 base","1990OAK.EVA.regular.comment.csv",27
+"OAK199008090",66,"$Orioles manager Frank Robinson had umpires check Gene Nelson's glove","1990OAK.EVA.regular.comment.csv",28
+"OAK199008110",75,"$Felix Jose called for interference for running inside baseline","1990OAK.EVA.regular.comment.csv",29
+"OAK199008140",21,"$Mike Moore left with injury","1990OAK.EVA.regular.comment.csv",30
+"OAK199008310",73,"ej,petrg001,P,tscht901,Balls and strikes Gene Petralli ejected by HP umpire Tim Tschida when the first two pitches are called strikes","1990OAK.EVA.regular.comment.csv",31
+"OAK199009230",5,"$Lou Whitaker injured on play at the plate","1990OAK.EVA.regular.comment.csv",32
+"OAK199009230",23,"$Willie McGee left with hamstring pull","1990OAK.EVA.regular.comment.csv",33

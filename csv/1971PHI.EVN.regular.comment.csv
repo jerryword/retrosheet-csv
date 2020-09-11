@@ -1,35 +1,36 @@
-"PHI197104110",57,"$Debut game for Ernie McAnally","FILENAME_TX","LINE_NUMBER_CT"
-"PHI197104130",35,"$Gene Clines started for 2B on the error","1971PHI.EVN.regular.comment.csv",2
-"PHI197104140",64,"ej,luccf801,M,wendh901,Foul ball non-call on passed ball Phillies Manager Frank Lucchesi ejected by HP umpire Harry Wendelstedt; Lucchesi claimed that Bob Robertson had fouled the pitch that sailed past catcher Tim McCarver; Wendelstedt accused Lucchesi of putting on a show and Lucchesi cussed Wendelstedt","1971PHI.EVN.regular.comment.csv",3
-"PHI197104180",42,"ej,bowal001,P,wendh901,Call at 1B Larry Bowa ejected by 1B umpire Harry Wendelstedt","1971PHI.EVN.regular.comment.csv",4
-"PHI197105070",13,"$hard bunt past the charging Don Money and through Larry Bowa covering 3B","1971PHI.EVN.regular.comment.csv",5
-"PHI197106260",37,"umpchange,4,ump1b,kiblj901 umpchange,4,ump2b,(None) $1B umpire Crawford injured ribs when he ran into grandstand wall trying for position on a foul; 2B Kibler moved to 1st and game finished with 3 umpires","1971PHI.EVN.regular.comment.csv",6
-"PHI197106290",60,"ej,boswk101,P,donaa901,Arguing call at 1B ej,hodgg101,M,donaa901,Arguing call at 1B $Boswell and New York manager Hodges ejected by 1B umpire Donatelli for arguing call at 1B","1971PHI.EVN.regular.comment.csv",7
-"PHI197106300",55,"$Pete Rose out on appeal for leaving 1B too soon","1971PHI.EVN.regular.comment.csv",8
-"PHI197107010",28,"Larry Bowa struck on foot","1971PHI.EVN.regular.comment.csv",9
-"PHI197107101",26,"John Vukovich's casual throw late","1971PHI.EVN.regular.comment.csv",10
-"PHI197107101",51,"Don Money hit on back","1971PHI.EVN.regular.comment.csv",11
-"PHI197107110",77,"$Veteran Stadium fences raised from 8 ft to 12 ft after today","1971PHI.EVN.regular.comment.csv",12
-"PHI197107230",0,"$Veteran Stadium fences raised from 8 ft to 12 ft starting today","1971PHI.EVN.regular.comment.csv",13
-"PHI197107240",10,"$Deron Johnson's throw hit runner","1971PHI.EVN.regular.comment.csv",14
-"PHI197107240",40,"$Rick Wise struck on end of ring finger by ball; finger already had bone bruise; Wise suffered dislocated finger which trainer put back in and taped it to little finger","1971PHI.EVN.regular.comment.csv",15
-"PHI197107250",7,"$Chris Cannizzaro called for obstruction during rundown","1971PHI.EVN.regular.comment.csv",16
-"PHI197107250",56,"$Ron Santo struck on right hand by line drive","1971PHI.EVN.regular.comment.csv",17
-"PHI197107260",50,"Johnny Edwards left with injured right hand","1971PHI.EVN.regular.comment.csv",18
-"PHI197108010",0,"Suspend=19710907,,6,3,67 Protest=X","1971PHI.EVN.regular.comment.csv",19
-"PHI197108010",80,"$Joe Hoerner left hurt","1971PHI.EVN.regular.comment.csv",20
-"PHI197108010",95,"1:49 rain delay","1971PHI.EVN.regular.comment.csv",21
-"PHI197108010",96,"$Deron Johnson held Lou Brock and ran down Julian Javier who escaped back to 1B while Brock scored","1971PHI.EVN.regular.comment.csv",22
-"PHI197108010",101,"umpchange,12,umphome,kiblj901 umpchange,12,ump1b,froeb901 umpchange,12,ump2b,barla901 umpchange,12,ump3b,pryop901 suspended,19710907,PHI12,protested - unplayable field $31 minute rain delay; game was to revert to 3-3 tie when rain removal machine broke down before making field playable; the Cardinals protested and won; game resumed on 9/7 with new umpires","1971PHI.EVN.regular.comment.csv",23
-"PHI197108030",67,"previous two plays one play on same pitch","1971PHI.EVN.regular.comment.csv",24
-"PHI197108040",47,"rain started","1971PHI.EVN.regular.comment.csv",25
-"PHI197108040",78,"rain delay","1971PHI.EVN.regular.comment.csv",26
-"PHI197109020",6,"$Debut game for Mike Anderson","1971PHI.EVN.regular.comment.csv",27
-"PHI197109030",39,"$Debut game for Manny Muniz","1971PHI.EVN.regular.comment.csv",28
-"PHI197109041",20,"$Wayne Twitchell did not cover 1B","1971PHI.EVN.regular.comment.csv",29
-"PHI197109050",40,"Tim McCarver left with thigh bruise","1971PHI.EVN.regular.comment.csv",30
-"PHI197109061",30,"ej,mccat101,P,barla901,Punching Lou Brock $Phillies McCarver ejected by HP umpire Barlick for punching Brock after 2nd pitch was way inside and Brock argued with McCarver","1971PHI.EVN.regular.comment.csv",31
-"PHI197109061",35,"$Gibson threw a pitch behind Ryan, and was warned by HP umpire Barlick","1971PHI.EVN.regular.comment.csv",32
-"PHI197109061",57,"Mike Ryan left after being hit by foul ball","1971PHI.EVN.regular.comment.csv",33
-"PHI197109070",0,"$suspended game of 8/1 completed before this game","1971PHI.EVN.regular.comment.csv",34
-"PHI197109070",76,"ej,luccf801,M,barla901,Balk call Phillies Manager Frank Lucchesi ejected by 2B umpire Al Barlick when Joe Hoerner was called for a balk on a pick off attempt","1971PHI.EVN.regular.comment.csv",35
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"PHI197104110",57,"$Debut game for Ernie McAnally","1971PHI.EVN.regular.comment.csv",2
+"PHI197104130",35,"$Gene Clines started for 2B on the error","1971PHI.EVN.regular.comment.csv",3
+"PHI197104140",64,"ej,luccf801,M,wendh901,Foul ball non-call on passed ball Phillies Manager Frank Lucchesi ejected by HP umpire Harry Wendelstedt; Lucchesi claimed that Bob Robertson had fouled the pitch that sailed past catcher Tim McCarver; Wendelstedt accused Lucchesi of putting on a show and Lucchesi cussed Wendelstedt","1971PHI.EVN.regular.comment.csv",4
+"PHI197104180",42,"ej,bowal001,P,wendh901,Call at 1B Larry Bowa ejected by 1B umpire Harry Wendelstedt","1971PHI.EVN.regular.comment.csv",5
+"PHI197105070",13,"$hard bunt past the charging Don Money and through Larry Bowa covering 3B","1971PHI.EVN.regular.comment.csv",6
+"PHI197106260",37,"umpchange,4,ump1b,kiblj901 umpchange,4,ump2b,(None) $1B umpire Crawford injured ribs when he ran into grandstand wall trying for position on a foul; 2B Kibler moved to 1st and game finished with 3 umpires","1971PHI.EVN.regular.comment.csv",7
+"PHI197106290",60,"ej,boswk101,P,donaa901,Arguing call at 1B ej,hodgg101,M,donaa901,Arguing call at 1B $Boswell and New York manager Hodges ejected by 1B umpire Donatelli for arguing call at 1B","1971PHI.EVN.regular.comment.csv",8
+"PHI197106300",55,"$Pete Rose out on appeal for leaving 1B too soon","1971PHI.EVN.regular.comment.csv",9
+"PHI197107010",28,"Larry Bowa struck on foot","1971PHI.EVN.regular.comment.csv",10
+"PHI197107101",26,"John Vukovich's casual throw late","1971PHI.EVN.regular.comment.csv",11
+"PHI197107101",51,"Don Money hit on back","1971PHI.EVN.regular.comment.csv",12
+"PHI197107110",77,"$Veteran Stadium fences raised from 8 ft to 12 ft after today","1971PHI.EVN.regular.comment.csv",13
+"PHI197107230",0,"$Veteran Stadium fences raised from 8 ft to 12 ft starting today","1971PHI.EVN.regular.comment.csv",14
+"PHI197107240",10,"$Deron Johnson's throw hit runner","1971PHI.EVN.regular.comment.csv",15
+"PHI197107240",40,"$Rick Wise struck on end of ring finger by ball; finger already had bone bruise; Wise suffered dislocated finger which trainer put back in and taped it to little finger","1971PHI.EVN.regular.comment.csv",16
+"PHI197107250",7,"$Chris Cannizzaro called for obstruction during rundown","1971PHI.EVN.regular.comment.csv",17
+"PHI197107250",56,"$Ron Santo struck on right hand by line drive","1971PHI.EVN.regular.comment.csv",18
+"PHI197107260",50,"Johnny Edwards left with injured right hand","1971PHI.EVN.regular.comment.csv",19
+"PHI197108010",0,"Suspend=19710907,,6,3,67 Protest=X","1971PHI.EVN.regular.comment.csv",20
+"PHI197108010",80,"$Joe Hoerner left hurt","1971PHI.EVN.regular.comment.csv",21
+"PHI197108010",95,"1:49 rain delay","1971PHI.EVN.regular.comment.csv",22
+"PHI197108010",96,"$Deron Johnson held Lou Brock and ran down Julian Javier who escaped back to 1B while Brock scored","1971PHI.EVN.regular.comment.csv",23
+"PHI197108010",101,"umpchange,12,umphome,kiblj901 umpchange,12,ump1b,froeb901 umpchange,12,ump2b,barla901 umpchange,12,ump3b,pryop901 suspended,19710907,PHI12,protested - unplayable field $31 minute rain delay; game was to revert to 3-3 tie when rain removal machine broke down before making field playable; the Cardinals protested and won; game resumed on 9/7 with new umpires","1971PHI.EVN.regular.comment.csv",24
+"PHI197108030",67,"previous two plays one play on same pitch","1971PHI.EVN.regular.comment.csv",25
+"PHI197108040",47,"rain started","1971PHI.EVN.regular.comment.csv",26
+"PHI197108040",78,"rain delay","1971PHI.EVN.regular.comment.csv",27
+"PHI197109020",6,"$Debut game for Mike Anderson","1971PHI.EVN.regular.comment.csv",28
+"PHI197109030",39,"$Debut game for Manny Muniz","1971PHI.EVN.regular.comment.csv",29
+"PHI197109041",20,"$Wayne Twitchell did not cover 1B","1971PHI.EVN.regular.comment.csv",30
+"PHI197109050",40,"Tim McCarver left with thigh bruise","1971PHI.EVN.regular.comment.csv",31
+"PHI197109061",30,"ej,mccat101,P,barla901,Punching Lou Brock $Phillies McCarver ejected by HP umpire Barlick for punching Brock after 2nd pitch was way inside and Brock argued with McCarver","1971PHI.EVN.regular.comment.csv",32
+"PHI197109061",35,"$Gibson threw a pitch behind Ryan, and was warned by HP umpire Barlick","1971PHI.EVN.regular.comment.csv",33
+"PHI197109061",57,"Mike Ryan left after being hit by foul ball","1971PHI.EVN.regular.comment.csv",34
+"PHI197109070",0,"$suspended game of 8/1 completed before this game","1971PHI.EVN.regular.comment.csv",35
+"PHI197109070",76,"ej,luccf801,M,barla901,Balk call Phillies Manager Frank Lucchesi ejected by 2B umpire Al Barlick when Joe Hoerner was called for a balk on a pick off attempt","1971PHI.EVN.regular.comment.csv",36

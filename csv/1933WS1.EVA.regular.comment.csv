@@ -1,36 +1,37 @@
-"WS1193304240",10,"$Joe Kuhel overslid 3B","FILENAME_TX","LINE_NUMBER_CT"
-"WS1193304250",32,"ej,chapb102,P,morig101,Fighting ej,myerb103,P,morig101,Fighting ej,walkd101,P,morig101,Fighting ej,white102,P,morig101,Fighting $Yankees Chapman and Walker ejected by HP umpire Moriarty along with Senators Myer and Whitehill after Chapman slid hard into Myer' game was delayed 20 minutes as both teams and several hundred fans joined the fray","1933WS1.EVA.regular.comment.csv",2
-"WS1193305160",100,"ej,cissb101,P,vangr901,Called third strike ej,peckr101,M,vangr901,Called third strike Bill Cissell and Indians Manager Roger Peckinpaugh ejected by HP umpire Roy Van Graflan","1933WS1.EVA.regular.comment.csv",3
-"WS1193305260",62,"Game called due to rain","1933WS1.EVA.regular.comment.csv",4
-"WS1193305300",0,"Protest=H","1933WS1.EVA.regular.comment.csv",5
-"WS1193305300",58,"$Washington manager Cronin and several players argued for twenty minutes that the ball was foul. Washington formally protested the game, arguing that HP umpire Owens should have asked for help from 1B umpire Van Graflan.","1933WS1.EVA.regular.comment.csv",6
-"WS1193305300",74,"$Game 2 of scheduled doubleheader was postponed due to rain","1933WS1.EVA.regular.comment.csv",7
-"WS1193305311",11,"$Bill Dickey pulled a leg muscle running to 1B","1933WS1.EVA.regular.comment.csv",8
-"WS1193306040",10,"Ball hit off the wall.","1933WS1.EVA.regular.comment.csv",9
-"WS1193306040",26,"ej,ferrr101,P,summb901,Arguing called strike 3 $Ferrell ejected by HP Summers for arguing called strike 3","1933WS1.EVA.regular.comment.csv",10
-"WS1193306040",63,"Great catch by Myer.","1933WS1.EVA.regular.comment.csv",11
-"WS1193306040",68,"Throw to third base was late.","1933WS1.EVA.regular.comment.csv",12
-"WS1193307090",61,"$55min rain delay","1933WS1.EVA.regular.comment.csv",13
-"WS1193307100",9,"Into LF bleachers","1933WS1.EVA.regular.comment.csv",14
-"WS1193307100",14,"Off Harder's glove","1933WS1.EVA.regular.comment.csv",15
-"WS1193307100",20,"Schulte: running catch","1933WS1.EVA.regular.comment.csv",16
-"WS1193307100",53,"Schulte: nice running catch","1933WS1.EVA.regular.comment.csv",17
-"WS1193307100",57,"Harder tagged Myer","1933WS1.EVA.regular.comment.csv",18
-"WS1193307100",58,"Vosmik: running catch","1933WS1.EVA.regular.comment.csv",19
-"WS1193307100",84,"Low throw","1933WS1.EVA.regular.comment.csv",20
-"WS1193307110",44,"$missed bunt attempt","1933WS1.EVA.regular.comment.csv",21
-"WS1193307200",9,"Myer: nice play on drag bunt","1933WS1.EVA.regular.comment.csv",22
-"WS1193307200",13,"Rogell: great stop and throw","1933WS1.EVA.regular.comment.csv",23
-"WS1193307200",19,"Doljack: spectacular grab","1933WS1.EVA.regular.comment.csv",24
-"WS1193307200",27,"Cronin: nice play","1933WS1.EVA.regular.comment.csv",25
-"WS1193307200",29,"Cronin: Remarkable stop and throw","1933WS1.EVA.regular.comment.csv",26
-"WS1193307200",33,"Stone: great running back-handed catch","1933WS1.EVA.regular.comment.csv",27
-"WS1193307200",35,"Bluege: nice play","1933WS1.EVA.regular.comment.csv",28
-"WS1193307200",49,"Off LF bleacher screen; missed HR by 2'","1933WS1.EVA.regular.comment.csv",29
-"WS1193307230",45,"ej,harrb106,M,mcgob901,Yelling at opposing pitcher $Tigers manager Harris ejected by HP umpire McGowan for continuing to yell at opposing pitcher","1933WS1.EVA.regular.comment.csv",30
-"WS1193307270",62,"pbp account ends here, rest deduced","1933WS1.EVA.regular.comment.csv",31
-"WS1193307290",50,"pbp account ends here, rest deduced","1933WS1.EVA.regular.comment.csv",32
-"WS1193307300",60,"$Gehrig's sacrifice attempt went over Bluege's head for a hit.","1933WS1.EVA.regular.comment.csv",33
-"WS1193307310",58,"pbp account ends here, rest deduced","1933WS1.EVA.regular.comment.csv",34
-"WS1193308020",57,"$Batted ball hit umpire; dead ball","1933WS1.EVA.regular.comment.csv",35
-"WS1193309190",76,"pbp account ends here, rest deduced","1933WS1.EVA.regular.comment.csv",36
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"WS1193304240",10,"$Joe Kuhel overslid 3B","1933WS1.EVA.regular.comment.csv",2
+"WS1193304250",32,"ej,chapb102,P,morig101,Fighting ej,myerb103,P,morig101,Fighting ej,walkd101,P,morig101,Fighting ej,white102,P,morig101,Fighting $Yankees Chapman and Walker ejected by HP umpire Moriarty along with Senators Myer and Whitehill after Chapman slid hard into Myer' game was delayed 20 minutes as both teams and several hundred fans joined the fray","1933WS1.EVA.regular.comment.csv",3
+"WS1193305160",100,"ej,cissb101,P,vangr901,Called third strike ej,peckr101,M,vangr901,Called third strike Bill Cissell and Indians Manager Roger Peckinpaugh ejected by HP umpire Roy Van Graflan","1933WS1.EVA.regular.comment.csv",4
+"WS1193305260",62,"Game called due to rain","1933WS1.EVA.regular.comment.csv",5
+"WS1193305300",0,"Protest=H","1933WS1.EVA.regular.comment.csv",6
+"WS1193305300",58,"$Washington manager Cronin and several players argued for twenty minutes that the ball was foul. Washington formally protested the game, arguing that HP umpire Owens should have asked for help from 1B umpire Van Graflan.","1933WS1.EVA.regular.comment.csv",7
+"WS1193305300",74,"$Game 2 of scheduled doubleheader was postponed due to rain","1933WS1.EVA.regular.comment.csv",8
+"WS1193305311",11,"$Bill Dickey pulled a leg muscle running to 1B","1933WS1.EVA.regular.comment.csv",9
+"WS1193306040",10,"Ball hit off the wall.","1933WS1.EVA.regular.comment.csv",10
+"WS1193306040",26,"ej,ferrr101,P,summb901,Arguing called strike 3 $Ferrell ejected by HP Summers for arguing called strike 3","1933WS1.EVA.regular.comment.csv",11
+"WS1193306040",63,"Great catch by Myer.","1933WS1.EVA.regular.comment.csv",12
+"WS1193306040",68,"Throw to third base was late.","1933WS1.EVA.regular.comment.csv",13
+"WS1193307090",61,"$55min rain delay","1933WS1.EVA.regular.comment.csv",14
+"WS1193307100",9,"Into LF bleachers","1933WS1.EVA.regular.comment.csv",15
+"WS1193307100",14,"Off Harder's glove","1933WS1.EVA.regular.comment.csv",16
+"WS1193307100",20,"Schulte: running catch","1933WS1.EVA.regular.comment.csv",17
+"WS1193307100",53,"Schulte: nice running catch","1933WS1.EVA.regular.comment.csv",18
+"WS1193307100",57,"Harder tagged Myer","1933WS1.EVA.regular.comment.csv",19
+"WS1193307100",58,"Vosmik: running catch","1933WS1.EVA.regular.comment.csv",20
+"WS1193307100",84,"Low throw","1933WS1.EVA.regular.comment.csv",21
+"WS1193307110",44,"$missed bunt attempt","1933WS1.EVA.regular.comment.csv",22
+"WS1193307200",9,"Myer: nice play on drag bunt","1933WS1.EVA.regular.comment.csv",23
+"WS1193307200",13,"Rogell: great stop and throw","1933WS1.EVA.regular.comment.csv",24
+"WS1193307200",19,"Doljack: spectacular grab","1933WS1.EVA.regular.comment.csv",25
+"WS1193307200",27,"Cronin: nice play","1933WS1.EVA.regular.comment.csv",26
+"WS1193307200",29,"Cronin: Remarkable stop and throw","1933WS1.EVA.regular.comment.csv",27
+"WS1193307200",33,"Stone: great running back-handed catch","1933WS1.EVA.regular.comment.csv",28
+"WS1193307200",35,"Bluege: nice play","1933WS1.EVA.regular.comment.csv",29
+"WS1193307200",49,"Off LF bleacher screen; missed HR by 2'","1933WS1.EVA.regular.comment.csv",30
+"WS1193307230",45,"ej,harrb106,M,mcgob901,Yelling at opposing pitcher $Tigers manager Harris ejected by HP umpire McGowan for continuing to yell at opposing pitcher","1933WS1.EVA.regular.comment.csv",31
+"WS1193307270",62,"pbp account ends here, rest deduced","1933WS1.EVA.regular.comment.csv",32
+"WS1193307290",50,"pbp account ends here, rest deduced","1933WS1.EVA.regular.comment.csv",33
+"WS1193307300",60,"$Gehrig's sacrifice attempt went over Bluege's head for a hit.","1933WS1.EVA.regular.comment.csv",34
+"WS1193307310",58,"pbp account ends here, rest deduced","1933WS1.EVA.regular.comment.csv",35
+"WS1193308020",57,"$Batted ball hit umpire; dead ball","1933WS1.EVA.regular.comment.csv",36
+"WS1193309190",76,"pbp account ends here, rest deduced","1933WS1.EVA.regular.comment.csv",37

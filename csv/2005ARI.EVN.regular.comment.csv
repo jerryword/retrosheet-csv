@@ -1,31 +1,32 @@
-"ARI200504040",55,"ej,zambc001,P,scotd901,Balls and strikes $Pitcher Zambrano ejected by HP umpire Scott for arguing balls and strikes after being removed","FILENAME_TX","LINE_NUMBER_CT"
-"ARI200504090",44,"Debut game for Dennis Houlton","2005ARI.EVN.regular.comment.csv",2
-"ARI200504100",41,"$Lowe was hit by a line drive and and forced to leave the game","2005ARI.EVN.regular.comment.csv",3
-"ARI200504100",67,"Debut game for Norihiro Nakamura","2005ARI.EVN.regular.comment.csv",4
-"ARI200504220",0,"$Debut for umpire Travis Reininger","2005ARI.EVN.regular.comment.csv",5
-"ARI200504230",67,"$Tracy hit high popup behind second which Loretta dropped with his back to the base, but recovered to force runner when pitcher Otsuka covered base","2005ARI.EVN.regular.comment.csv",6
-"ARI200505040",67,"Debut game for Jeremy Accardo","2005ARI.EVN.regular.comment.csv",7
-"ARI200505060",67,"ej,mccll001,M,mcclt901,Runner placement on fan interference $Pirates manager McClendon ejected by 1B umpire McClelland for arguing that Bay should have been allowed to score on Ward's ground rule double; he waved from dugout which offended","2005ARI.EVN.regular.comment.csv",8
-"ARI200505080",13,"Debut game for Ray Sadler","2005ARI.EVN.regular.comment.csv",9
-"ARI200505090",42,"ej,gonzl001,P,nelsj901,Called third strike ej,melvb001,M,nelsj901,Called third strike on Gonzalez Diamondbacks LF Luis Gonzalez and Mgr Bob Melvin ejected by HP umpire Jeff Nelson","2005ARI.EVN.regular.comment.csv",10
-"ARI200505090",56,"Nationals SS Cristian Guzman left with left hamstring pull","2005ARI.EVN.regular.comment.csv",11
-"ARI200505280",1,"Debut game for Derek Thompson","2005ARI.EVN.regular.comment.csv",12
-"ARI200505280",59,"$Luis Terrero awarded triple when ball bounced high in the air  and Duaner Sanchez threw his glove at the ball and hit it","2005ARI.EVN.regular.comment.csv",13
-"ARI200505280",69,"ej,glaut001,P,craft901,Balls and strikes Diamondbacks 3B Troy Glaus ejected by HP umpire Terry Craft","2005ARI.EVN.regular.comment.csv",14
-"ARI200506070",50,"Debut game for Glenn Williams","2005ARI.EVN.regular.comment.csv",15
-"ARI200506070",78,"originally scored E1, changed on 6-10 to 1E6","2005ARI.EVN.regular.comment.csv",16
-"ARI200506100",47,"fan interference","2005ARI.EVN.regular.comment.csv",17
-"ARI200506100",49,"$Royals pitcher Steve Stemle left the game due to an injured back","2005ARI.EVN.regular.comment.csv",18
-"ARI200506110",1,"Debut game for J.P. Howell","2005ARI.EVN.regular.comment.csv",19
-"ARI200506240",47,"ej,trama001,M,welkb901,Call at 2B Tigers Manager Alan Trammell ejected by 2B umpire Bill Welke","2005ARI.EVN.regular.comment.csv",20
-"ARI200506290",38,"ej,snowj001,P,randt901,Call at 1B Giants first baseman J. T. Snow ejected by 1B umpire Tony Randazzo","2005ARI.EVN.regular.comment.csv",21
-"ARI200507220",24,"fan interference","2005ARI.EVN.regular.comment.csv",22
-"ARI200507220",72,"Debut game for Macay McBride","2005ARI.EVN.regular.comment.csv",23
-"ARI200507220",79,"ej,melvb001,M,wolfj901,Balls and strikes ej,davim001,C,wolfj901,Balls and strikes Arizona Mgr Bob Melvin & coach Mark Davis ejected by HP umpire Jim WOlf for arguing balls and strikes","2005ARI.EVN.regular.comment.csv",24
-"ARI200508260",23,"$Gonzalez turned toward second and Utley alertly retrieved ball to get him","2005ARI.EVN.regular.comment.csv",25
-"ARI200508260",62,"Debut game for Jason Bulger","2005ARI.EVN.regular.comment.csv",26
-"ARI200509150",43,"Brewers shortstop J. Hardy left the game due to an injured foot/ankle","2005ARI.EVN.regular.comment.csv",27
-"ARI200509160",6,"Rockies pitcher Zach Day left the game due to an injured hand/wrist","2005ARI.EVN.regular.comment.csv",28
-"ARI200509180",0,"$Debut for umpire Peter Durfee","2005ARI.EVN.regular.comment.csv",29
-"ARI200509210",7,"Dodgers pitcher Brad Penny left the game due to an injured arm","2005ARI.EVN.regular.comment.csv",30
-"ARI200509240",24,"$Khalil Greene left the game due to an injured leg. He fouled pitch off shin for 2nd day in a row","2005ARI.EVN.regular.comment.csv",31
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"ARI200504040",55,"ej,zambc001,P,scotd901,Balls and strikes $Pitcher Zambrano ejected by HP umpire Scott for arguing balls and strikes after being removed","2005ARI.EVN.regular.comment.csv",2
+"ARI200504090",44,"Debut game for Dennis Houlton","2005ARI.EVN.regular.comment.csv",3
+"ARI200504100",41,"$Lowe was hit by a line drive and and forced to leave the game","2005ARI.EVN.regular.comment.csv",4
+"ARI200504100",67,"Debut game for Norihiro Nakamura","2005ARI.EVN.regular.comment.csv",5
+"ARI200504220",0,"$Debut for umpire Travis Reininger","2005ARI.EVN.regular.comment.csv",6
+"ARI200504230",67,"$Tracy hit high popup behind second which Loretta dropped with his back to the base, but recovered to force runner when pitcher Otsuka covered base","2005ARI.EVN.regular.comment.csv",7
+"ARI200505040",67,"Debut game for Jeremy Accardo","2005ARI.EVN.regular.comment.csv",8
+"ARI200505060",67,"ej,mccll001,M,mcclt901,Runner placement on fan interference $Pirates manager McClendon ejected by 1B umpire McClelland for arguing that Bay should have been allowed to score on Ward's ground rule double; he waved from dugout which offended","2005ARI.EVN.regular.comment.csv",9
+"ARI200505080",13,"Debut game for Ray Sadler","2005ARI.EVN.regular.comment.csv",10
+"ARI200505090",42,"ej,gonzl001,P,nelsj901,Called third strike ej,melvb001,M,nelsj901,Called third strike on Gonzalez Diamondbacks LF Luis Gonzalez and Mgr Bob Melvin ejected by HP umpire Jeff Nelson","2005ARI.EVN.regular.comment.csv",11
+"ARI200505090",56,"Nationals SS Cristian Guzman left with left hamstring pull","2005ARI.EVN.regular.comment.csv",12
+"ARI200505280",1,"Debut game for Derek Thompson","2005ARI.EVN.regular.comment.csv",13
+"ARI200505280",59,"$Luis Terrero awarded triple when ball bounced high in the air  and Duaner Sanchez threw his glove at the ball and hit it","2005ARI.EVN.regular.comment.csv",14
+"ARI200505280",69,"ej,glaut001,P,craft901,Balls and strikes Diamondbacks 3B Troy Glaus ejected by HP umpire Terry Craft","2005ARI.EVN.regular.comment.csv",15
+"ARI200506070",50,"Debut game for Glenn Williams","2005ARI.EVN.regular.comment.csv",16
+"ARI200506070",78,"originally scored E1, changed on 6-10 to 1E6","2005ARI.EVN.regular.comment.csv",17
+"ARI200506100",47,"fan interference","2005ARI.EVN.regular.comment.csv",18
+"ARI200506100",49,"$Royals pitcher Steve Stemle left the game due to an injured back","2005ARI.EVN.regular.comment.csv",19
+"ARI200506110",1,"Debut game for J.P. Howell","2005ARI.EVN.regular.comment.csv",20
+"ARI200506240",47,"ej,trama001,M,welkb901,Call at 2B Tigers Manager Alan Trammell ejected by 2B umpire Bill Welke","2005ARI.EVN.regular.comment.csv",21
+"ARI200506290",38,"ej,snowj001,P,randt901,Call at 1B Giants first baseman J. T. Snow ejected by 1B umpire Tony Randazzo","2005ARI.EVN.regular.comment.csv",22
+"ARI200507220",24,"fan interference","2005ARI.EVN.regular.comment.csv",23
+"ARI200507220",72,"Debut game for Macay McBride","2005ARI.EVN.regular.comment.csv",24
+"ARI200507220",79,"ej,melvb001,M,wolfj901,Balls and strikes ej,davim001,C,wolfj901,Balls and strikes Arizona Mgr Bob Melvin & coach Mark Davis ejected by HP umpire Jim WOlf for arguing balls and strikes","2005ARI.EVN.regular.comment.csv",25
+"ARI200508260",23,"$Gonzalez turned toward second and Utley alertly retrieved ball to get him","2005ARI.EVN.regular.comment.csv",26
+"ARI200508260",62,"Debut game for Jason Bulger","2005ARI.EVN.regular.comment.csv",27
+"ARI200509150",43,"Brewers shortstop J. Hardy left the game due to an injured foot/ankle","2005ARI.EVN.regular.comment.csv",28
+"ARI200509160",6,"Rockies pitcher Zach Day left the game due to an injured hand/wrist","2005ARI.EVN.regular.comment.csv",29
+"ARI200509180",0,"$Debut for umpire Peter Durfee","2005ARI.EVN.regular.comment.csv",30
+"ARI200509210",7,"Dodgers pitcher Brad Penny left the game due to an injured arm","2005ARI.EVN.regular.comment.csv",31
+"ARI200509240",24,"$Khalil Greene left the game due to an injured leg. He fouled pitch off shin for 2nd day in a row","2005ARI.EVN.regular.comment.csv",32

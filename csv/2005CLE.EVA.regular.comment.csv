@@ -1,36 +1,37 @@
-"CLE200504110",42,"Indians left fielder Casey Blake left the game due to an injured leg","FILENAME_TX","LINE_NUMBER_CT"
-"CLE200504140",10,"White Sox left fielder Carl Everett left the game due to an injured neck","2005CLE.EVA.regular.comment.csv",2
-"CLE200504140",52,"Fan interference","2005CLE.EVA.regular.comment.csv",3
-"CLE200504160",1,"Debut game for Dave Gassner","2005CLE.EVA.regular.comment.csv",4
-"CLE200505150",44,"ej,gibbj001,M,reynj901,Balls and strikes Blue Jays Mgr John Gibbons ejected by HP umpire Jim Reynolds","2005CLE.EVA.regular.comment.csv",5
-"CLE200505170",1,"Debut game for Ervin Santana","2005CLE.EVA.regular.comment.csv",6
-"CLE200505170",65,"Indians CF Coco Crisp left the game due to an injured hand/wrist","2005CLE.EVA.regular.comment.csv",7
-"CLE200505240",44,"ej,jonej003,P,wendh902,Called third strike Twins Jacque Jones ejected by HP umpire Hunter Wendelstedt","2005CLE.EVA.regular.comment.csv",8
-"CLE200505250",30,"Indians pitcher Kevin Millwood left the game due to an injured groin","2005CLE.EVA.regular.comment.csv",9
-"CLE200505270",13,"Debut game for Dan Johnson","2005CLE.EVA.regular.comment.csv",10
-"CLE200506140",13,"Debut game for Ryan Shealy","2005CLE.EVA.regular.comment.csv",11
-"CLE200506200",44,"fan interference","2005CLE.EVA.regular.comment.csv",12
-"CLE200506240",19,"Debut game for Edwin Encarnacion","2005CLE.EVA.regular.comment.csv",13
-"CLE200506260",57,"Debut game for Brian Shackelford","2005CLE.EVA.regular.comment.csv",14
-"CLE200507041",0,"$Debut for umpire Dusty Dellinger","2005CLE.EVA.regular.comment.csv",15
-"CLE200507042",1,"Debut game for Justin Verlander","2005CLE.EVA.regular.comment.csv",16
-"CLE200507042",80,"ej,wilsv001,P,guccc901,Called third strike Tigers catcher Vance Wilson ejected by HP umpire Chris Guccione","2005CLE.EVA.regular.comment.csv",17
-"CLE200507060",55,"Ivan Rodriguez left game with left pinky finger strain","2005CLE.EVA.regular.comment.csv",18
-"CLE200507150",47,"Indians pitcher Matt Miller left the game due to an injured arm","2005CLE.EVA.regular.comment.csv",19
-"CLE200507160",6,"Indians DH Travis Hafner left the game due to an injured head","2005CLE.EVA.regular.comment.csv",20
-"CLE200507180",49,"$Game called for rain","2005CLE.EVA.regular.comment.csv",21
-"CLE200507200",12,"Debut game for Chip Ambres","2005CLE.EVA.regular.comment.csv",22
-"CLE200507230",62,"ej,elars001,P,mcclt901,Bench jockeying (not in game) Indians pitcher Scott Elarton ejected by 2B umpire Tim McClelland; he was not in the game","2005CLE.EVA.regular.comment.csv",23
-"CLE200508130",37,"Indians left fielder Casey Blake left the game due to an injured neck/shoulder","2005CLE.EVA.regular.comment.csv",24
-"CLE200508140",68,"third time in history that a 1-0 game was decided by a PH HR","2005CLE.EVA.regular.comment.csv",25
-"CLE200508180",51,"Indians second baseman Ron Belliard left the game due to an injured neck/shoulder","2005CLE.EVA.regular.comment.csv",26
-"CLE200508310",73,"Debut game for Franklin Gutierrez","2005CLE.EVA.regular.comment.csv",27
-"CLE200509090",56,"Twins catcher Joe Mauer left the game due to an injured neck/shoulder","2005CLE.EVA.regular.comment.csv",28
-"CLE200509100",60,"Debut game for Travis Bowyer","2005CLE.EVA.regular.comment.csv",29
-"CLE200509100",68,"ej,stews002,P,schrp901,Call at 1B Twins left fielder Shannon Stewart ejected by 1B umpire Paul Schrieber","2005CLE.EVA.regular.comment.csv",30
-"CLE200509100",69,"Debut game for Chris Heintz","2005CLE.EVA.regular.comment.csv",31
-"CLE200509110",14,"Twins pitcher Carlos Silva left the game due to an injured knee","2005CLE.EVA.regular.comment.csv",32
-"CLE200509130",36,"$Jason Kendall called for interference","2005CLE.EVA.regular.comment.csv",33
-"CLE200509130",42,"ej,wedge001,M,vanol901,Balls and strikes Indians Manager Eric Wedge ejected by HP umpire Larry Vanover","2005CLE.EVA.regular.comment.csv",34
-"CLE200509130",48,"$Light failure with Scutaro at bat, game delayed 21 minutes","2005CLE.EVA.regular.comment.csv",35
-"CLE200509180",68,"Debut game for Ryan Garko","2005CLE.EVA.regular.comment.csv",36
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"CLE200504110",42,"Indians left fielder Casey Blake left the game due to an injured leg","2005CLE.EVA.regular.comment.csv",2
+"CLE200504140",10,"White Sox left fielder Carl Everett left the game due to an injured neck","2005CLE.EVA.regular.comment.csv",3
+"CLE200504140",52,"Fan interference","2005CLE.EVA.regular.comment.csv",4
+"CLE200504160",1,"Debut game for Dave Gassner","2005CLE.EVA.regular.comment.csv",5
+"CLE200505150",44,"ej,gibbj001,M,reynj901,Balls and strikes Blue Jays Mgr John Gibbons ejected by HP umpire Jim Reynolds","2005CLE.EVA.regular.comment.csv",6
+"CLE200505170",1,"Debut game for Ervin Santana","2005CLE.EVA.regular.comment.csv",7
+"CLE200505170",65,"Indians CF Coco Crisp left the game due to an injured hand/wrist","2005CLE.EVA.regular.comment.csv",8
+"CLE200505240",44,"ej,jonej003,P,wendh902,Called third strike Twins Jacque Jones ejected by HP umpire Hunter Wendelstedt","2005CLE.EVA.regular.comment.csv",9
+"CLE200505250",30,"Indians pitcher Kevin Millwood left the game due to an injured groin","2005CLE.EVA.regular.comment.csv",10
+"CLE200505270",13,"Debut game for Dan Johnson","2005CLE.EVA.regular.comment.csv",11
+"CLE200506140",13,"Debut game for Ryan Shealy","2005CLE.EVA.regular.comment.csv",12
+"CLE200506200",44,"fan interference","2005CLE.EVA.regular.comment.csv",13
+"CLE200506240",19,"Debut game for Edwin Encarnacion","2005CLE.EVA.regular.comment.csv",14
+"CLE200506260",57,"Debut game for Brian Shackelford","2005CLE.EVA.regular.comment.csv",15
+"CLE200507041",0,"$Debut for umpire Dusty Dellinger","2005CLE.EVA.regular.comment.csv",16
+"CLE200507042",1,"Debut game for Justin Verlander","2005CLE.EVA.regular.comment.csv",17
+"CLE200507042",80,"ej,wilsv001,P,guccc901,Called third strike Tigers catcher Vance Wilson ejected by HP umpire Chris Guccione","2005CLE.EVA.regular.comment.csv",18
+"CLE200507060",55,"Ivan Rodriguez left game with left pinky finger strain","2005CLE.EVA.regular.comment.csv",19
+"CLE200507150",47,"Indians pitcher Matt Miller left the game due to an injured arm","2005CLE.EVA.regular.comment.csv",20
+"CLE200507160",6,"Indians DH Travis Hafner left the game due to an injured head","2005CLE.EVA.regular.comment.csv",21
+"CLE200507180",49,"$Game called for rain","2005CLE.EVA.regular.comment.csv",22
+"CLE200507200",12,"Debut game for Chip Ambres","2005CLE.EVA.regular.comment.csv",23
+"CLE200507230",62,"ej,elars001,P,mcclt901,Bench jockeying (not in game) Indians pitcher Scott Elarton ejected by 2B umpire Tim McClelland; he was not in the game","2005CLE.EVA.regular.comment.csv",24
+"CLE200508130",37,"Indians left fielder Casey Blake left the game due to an injured neck/shoulder","2005CLE.EVA.regular.comment.csv",25
+"CLE200508140",68,"third time in history that a 1-0 game was decided by a PH HR","2005CLE.EVA.regular.comment.csv",26
+"CLE200508180",51,"Indians second baseman Ron Belliard left the game due to an injured neck/shoulder","2005CLE.EVA.regular.comment.csv",27
+"CLE200508310",73,"Debut game for Franklin Gutierrez","2005CLE.EVA.regular.comment.csv",28
+"CLE200509090",56,"Twins catcher Joe Mauer left the game due to an injured neck/shoulder","2005CLE.EVA.regular.comment.csv",29
+"CLE200509100",60,"Debut game for Travis Bowyer","2005CLE.EVA.regular.comment.csv",30
+"CLE200509100",68,"ej,stews002,P,schrp901,Call at 1B Twins left fielder Shannon Stewart ejected by 1B umpire Paul Schrieber","2005CLE.EVA.regular.comment.csv",31
+"CLE200509100",69,"Debut game for Chris Heintz","2005CLE.EVA.regular.comment.csv",32
+"CLE200509110",14,"Twins pitcher Carlos Silva left the game due to an injured knee","2005CLE.EVA.regular.comment.csv",33
+"CLE200509130",36,"$Jason Kendall called for interference","2005CLE.EVA.regular.comment.csv",34
+"CLE200509130",42,"ej,wedge001,M,vanol901,Balls and strikes Indians Manager Eric Wedge ejected by HP umpire Larry Vanover","2005CLE.EVA.regular.comment.csv",35
+"CLE200509130",48,"$Light failure with Scutaro at bat, game delayed 21 minutes","2005CLE.EVA.regular.comment.csv",36
+"CLE200509180",68,"Debut game for Ryan Garko","2005CLE.EVA.regular.comment.csv",37

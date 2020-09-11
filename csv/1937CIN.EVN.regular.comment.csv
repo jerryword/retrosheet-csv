@@ -1,32 +1,33 @@
-"CIN193705160",37,"$Gabby Hartnett suffered a bruised finger when struck by a foul ball","FILENAME_TX","LINE_NUMBER_CT"
-"CIN193705160",44,"$Gabby Hartnett left due to earlier injury","1937CIN.EVN.regular.comment.csv",2
-"CIN193705160",77,"$catcher John Bottarini injured in HP collision","1937CIN.EVN.regular.comment.csv",3
-"CIN193705200",38,"$Bill Hallahan left with an injured left hand","1937CIN.EVN.regular.comment.csv",4
-"CIN193705200",68,"$onto the LF roof","1937CIN.EVN.regular.comment.csv",5
-"CIN193705270",40,"$missed bunt attempt","1937CIN.EVN.regular.comment.csv",6
-"CIN193706150",76,"$Brack held third, but could have scored as Reds tried for DP","1937CIN.EVN.regular.comment.csv",7
-"CIN193706190",43,"ej,whitb101,P,stewb901,Call at 2B Burgess Whitehead ejected by 3B umpire Bill Stewart","1937CIN.EVN.regular.comment.csv",8
-"CIN193706200",22,"$Jo-jo Moore injured in collision at HP","1937CIN.EVN.regular.comment.csv",9
-"CIN193706271",20,"$Debs Garms rounded 3B too far","1937CIN.EVN.regular.comment.csv",10
-"CIN193706272",44,"$Chick Hafey left with an injured right ankle","1937CIN.EVN.regular.comment.csv",11
-"CIN193706272",71,"$Gene Schott started game 1","1937CIN.EVN.regular.comment.csv",12
-"CIN193706300",71,"ej,ens-j101,C,morac102,Bench jockeying $Pirates coach Ens ejected by HP Moran for bench jockeying","1937CIN.EVN.regular.comment.csv",13
-"CIN193707041",38,"$into the overflow crowd","1937CIN.EVN.regular.comment.csv",14
-"CIN193707042",54,"game called for rain","1937CIN.EVN.regular.comment.csv",15
-"CIN193707310",25,"ej,yound105,P,morac102,Call at HP $Phillies Young ejected by HP umpire Moran for arguing he was safe at home","1937CIN.EVN.regular.comment.csv",16
-"CIN193708011",5,"ej,wilsj105,M,mageg901,Call at HP ej,lobeh101,C,mageg901,Call at HP Phillies Manager Jimmie Wilson and Coach Hans Lobert ejected by HP umpire George Magerkurth","1937CIN.EVN.regular.comment.csv",17
-"CIN193708011",37,"ej,atwob101,P,mageg901,Call at 2B Bill Atwood ejected by 3B umpire Charlie Moran","1937CIN.EVN.regular.comment.csv",18
-"CIN193708012",0,"$Phillies Manager Jimmie Wilson, Coach Hans Lobert and Bill Atwood not eligible for this game because they were ejected from game 1","1937CIN.EVN.regular.comment.csv",19
-"CIN193708040",12,"$Chick Hafey called for interference for running into his own batted ball","1937CIN.EVN.regular.comment.csv",20
-"CIN193708081",70,"$Woody English left with injured left foot","1937CIN.EVN.regular.comment.csv",21
-"CIN193708081",79,"$Joe Stripp was struck on the Adam's apple by a throw","1937CIN.EVN.regular.comment.csv",22
-"CIN193708082",76,"game called due to darkness","1937CIN.EVN.regular.comment.csv",23
-"CIN193708170",57,"rain started","1937CIN.EVN.regular.comment.csv",24
-"CIN193708170",73,"ej,frisf101,M,klemb901,Call at 1B Cardinals manager Frankie Frisch ejected by 1B umpire Bill Klem","1937CIN.EVN.regular.comment.csv",25
-"CIN193708192",0,"Protest=H","1937CIN.EVN.regular.comment.csv",26
-"CIN193708192",46,"$Joe Medwick went from 1B to 3B when a pitch got by Gilly Campbell; HP umpire Ziggy Sears put a new ball in play and Medwick scored when Campbell did not attempt to tag Medwick when Lew Riggs threw one of the balls to Campbell; Reds manager Charlie Dressen played the game under protest","1937CIN.EVN.regular.comment.csv",27
-"CIN193708210",74,"ej,lombe101,P,rearb901,Call at 2B (Appeal) Ernie Lombardi ejected by 1B umpire Beans Reardon after being called out on appeal for leaving 2B too soon","1937CIN.EVN.regular.comment.csv",28
-"CIN193709051",20,"ej,campg101,P,stewb901,Bench jockeying Gilly Campbell ejected by HP umpire Bill Stewart","1937CIN.EVN.regular.comment.csv",29
-"CIN193709180",42,"ej,myerb101,P,rearb901,Call at 2B Billy Myers ejected by 3B umpire Beans Reardon","1937CIN.EVN.regular.comment.csv",30
-"CIN193709261",65,"ej,lombe101,P,balll901,Balls and strikes Ernie Lombardi ejected by HP umpire Lee Ballanfant","1937CIN.EVN.regular.comment.csv",31
-"CIN193709280",16,"$Alex Kampouris out on appeal for missing 1B on apparent double","1937CIN.EVN.regular.comment.csv",32
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"CIN193705160",37,"$Gabby Hartnett suffered a bruised finger when struck by a foul ball","1937CIN.EVN.regular.comment.csv",2
+"CIN193705160",44,"$Gabby Hartnett left due to earlier injury","1937CIN.EVN.regular.comment.csv",3
+"CIN193705160",77,"$catcher John Bottarini injured in HP collision","1937CIN.EVN.regular.comment.csv",4
+"CIN193705200",38,"$Bill Hallahan left with an injured left hand","1937CIN.EVN.regular.comment.csv",5
+"CIN193705200",68,"$onto the LF roof","1937CIN.EVN.regular.comment.csv",6
+"CIN193705270",40,"$missed bunt attempt","1937CIN.EVN.regular.comment.csv",7
+"CIN193706150",76,"$Brack held third, but could have scored as Reds tried for DP","1937CIN.EVN.regular.comment.csv",8
+"CIN193706190",43,"ej,whitb101,P,stewb901,Call at 2B Burgess Whitehead ejected by 3B umpire Bill Stewart","1937CIN.EVN.regular.comment.csv",9
+"CIN193706200",22,"$Jo-jo Moore injured in collision at HP","1937CIN.EVN.regular.comment.csv",10
+"CIN193706271",20,"$Debs Garms rounded 3B too far","1937CIN.EVN.regular.comment.csv",11
+"CIN193706272",44,"$Chick Hafey left with an injured right ankle","1937CIN.EVN.regular.comment.csv",12
+"CIN193706272",71,"$Gene Schott started game 1","1937CIN.EVN.regular.comment.csv",13
+"CIN193706300",71,"ej,ens-j101,C,morac102,Bench jockeying $Pirates coach Ens ejected by HP Moran for bench jockeying","1937CIN.EVN.regular.comment.csv",14
+"CIN193707041",38,"$into the overflow crowd","1937CIN.EVN.regular.comment.csv",15
+"CIN193707042",54,"game called for rain","1937CIN.EVN.regular.comment.csv",16
+"CIN193707310",25,"ej,yound105,P,morac102,Call at HP $Phillies Young ejected by HP umpire Moran for arguing he was safe at home","1937CIN.EVN.regular.comment.csv",17
+"CIN193708011",5,"ej,wilsj105,M,mageg901,Call at HP ej,lobeh101,C,mageg901,Call at HP Phillies Manager Jimmie Wilson and Coach Hans Lobert ejected by HP umpire George Magerkurth","1937CIN.EVN.regular.comment.csv",18
+"CIN193708011",37,"ej,atwob101,P,mageg901,Call at 2B Bill Atwood ejected by 3B umpire Charlie Moran","1937CIN.EVN.regular.comment.csv",19
+"CIN193708012",0,"$Phillies Manager Jimmie Wilson, Coach Hans Lobert and Bill Atwood not eligible for this game because they were ejected from game 1","1937CIN.EVN.regular.comment.csv",20
+"CIN193708040",12,"$Chick Hafey called for interference for running into his own batted ball","1937CIN.EVN.regular.comment.csv",21
+"CIN193708081",70,"$Woody English left with injured left foot","1937CIN.EVN.regular.comment.csv",22
+"CIN193708081",79,"$Joe Stripp was struck on the Adam's apple by a throw","1937CIN.EVN.regular.comment.csv",23
+"CIN193708082",76,"game called due to darkness","1937CIN.EVN.regular.comment.csv",24
+"CIN193708170",57,"rain started","1937CIN.EVN.regular.comment.csv",25
+"CIN193708170",73,"ej,frisf101,M,klemb901,Call at 1B Cardinals manager Frankie Frisch ejected by 1B umpire Bill Klem","1937CIN.EVN.regular.comment.csv",26
+"CIN193708192",0,"Protest=H","1937CIN.EVN.regular.comment.csv",27
+"CIN193708192",46,"$Joe Medwick went from 1B to 3B when a pitch got by Gilly Campbell; HP umpire Ziggy Sears put a new ball in play and Medwick scored when Campbell did not attempt to tag Medwick when Lew Riggs threw one of the balls to Campbell; Reds manager Charlie Dressen played the game under protest","1937CIN.EVN.regular.comment.csv",28
+"CIN193708210",74,"ej,lombe101,P,rearb901,Call at 2B (Appeal) Ernie Lombardi ejected by 1B umpire Beans Reardon after being called out on appeal for leaving 2B too soon","1937CIN.EVN.regular.comment.csv",29
+"CIN193709051",20,"ej,campg101,P,stewb901,Bench jockeying Gilly Campbell ejected by HP umpire Bill Stewart","1937CIN.EVN.regular.comment.csv",30
+"CIN193709180",42,"ej,myerb101,P,rearb901,Call at 2B Billy Myers ejected by 3B umpire Beans Reardon","1937CIN.EVN.regular.comment.csv",31
+"CIN193709261",65,"ej,lombe101,P,balll901,Balls and strikes Ernie Lombardi ejected by HP umpire Lee Ballanfant","1937CIN.EVN.regular.comment.csv",32
+"CIN193709280",16,"$Alex Kampouris out on appeal for missing 1B on apparent double","1937CIN.EVN.regular.comment.csv",33

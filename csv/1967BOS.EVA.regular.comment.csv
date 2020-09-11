@@ -1,22 +1,23 @@
-"BOS196704230",51,"ej,willd104,M,flahr901,Balls and strikes $Boston manager Williams ejected by HP umpire Red Flaherty for arguing balls and strikes","FILENAME_TX","LINE_NUMBER_CT"
-"BOS196704230",52,"ej,yastc101,P,flahr901,Balls and strikes $Carl Yastrzemski ejected by HP umpire Red Flaherty for arguing balls and strikes","1967BOS.EVA.regular.comment.csv",2
-"BOS196705120",59,"$the throw to 2B hit pitcher John Wyatt on the head","1967BOS.EVA.regular.comment.csv",3
-"BOS196705170",78,"$the pop fly hit Brooks Robinson's glove, bounced off Mark Belanger's shoulder and Curt Blefary made a diving catch","1967BOS.EVA.regular.comment.csv",4
-"BOS196705302",32,"no SF because of E9","1967BOS.EVA.regular.comment.csv",5
-"BOS196706100",0,"$the umpires removed their coats during the game due to extreme heat","1967BOS.EVA.regular.comment.csv",6
-"BOS196706100",72,"$over screen, across street, onto roof","1967BOS.EVA.regular.comment.csv",7
-"BOS196706112",1,"Debut game for Gary Waslewski","1967BOS.EVA.regular.comment.csv",8
-"BOS196706142",49,"ej,stane101,M,neudj901,Fair/foul call $J.C. Martin hit a ball into the RF stands that many witnesses said was fair but 1B umpire Larry Napp ruled foul; White Sox Manager Eddie Stanky ejected by HP umpire Jerry Neudecker","1967BOS.EVA.regular.comment.csv",9
-"BOS196706150",73,"ej,burgs101,P,nappl901,Balls and strikes ej,stane101,M,nappl901,Balls and strikes Smoky Burgess and White Sox Manager Eddie Stanky ejected by HP umpire Larry Napp","1967BOS.EVA.regular.comment.csv",10
-"BOS196706230",56,"Rico Petrocelli hit on the wrist","1967BOS.EVA.regular.comment.csv",11
-"BOS196707260",22,"ej,heffd101,C,drumc901,Fair/foul call $Jim Fregosi hit a dribbler down the 3B line; Joe Foy threw wildly to 1B and Fregosi was safe; HP umpire Cal Drummond then ruled the ball foul; Angels coach Don Heffner ejected Drummond","1967BOS.EVA.regular.comment.csv",12
-"BOS196707260",60,"ej,hamij101,P,hallb901,Call at 1B (not in game) $Joe Foy ruled safe on a close play at 1B; Don Mincher and Angels manager Bill Rigney argued the call; the Angels bench kept hecking 1B umpire Bill Haller; Jack Hamilton ejected by Haller from the bench","1967BOS.EVA.regular.comment.csv",13
-"BOS196708160",66,"ej,willd104,M,umonf901,Call at 1B Red Sox manager Dick Williams ejected by 1B umpire Frank Umont arguing that Scott had beaten the play at first","1967BOS.EVA.regular.comment.csv",14
-"BOS196708180",27,"$Tony Conigliaro beaned","1967BOS.EVA.regular.comment.csv",15
-"BOS196708202",81,"ej,willd104,M,valeb901,Hit by pitch (spit on umpire's shoes) $Red Sox manager Williams ejected by 1B umpire Valentine for arguing hit by pitch and spitting on umpire's shoes","1967BOS.EVA.regular.comment.csv",16
-"BOS196708221",29,"ej,popoe801,C,hallb901,Call at 3B (Appeal play) $George Scott out on appeal for leaving 3B too soon; Red Sox Coach Eddie Popowski ejected by 3B umpire Bill Haller","1967BOS.EVA.regular.comment.csv",17
-"BOS196709010",50,"Debut game for Ed Herrmann Debut game for Cotton Nash","1967BOS.EVA.regular.comment.csv",18
-"BOS196709090",66,"Debut game for Dale Roberts","1967BOS.EVA.regular.comment.csv",19
-"BOS196709270",61,"Debut game for Ken Brett","1967BOS.EVA.regular.comment.csv",20
-"BOS196709300",23,"Jim Kaat strained left elbow while striking out Jose Santiago","1967BOS.EVA.regular.comment.csv",21
-"BOS196710010",63,"Jerry Adair spiked on DP","1967BOS.EVA.regular.comment.csv",22
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"BOS196704230",51,"ej,willd104,M,flahr901,Balls and strikes $Boston manager Williams ejected by HP umpire Red Flaherty for arguing balls and strikes","1967BOS.EVA.regular.comment.csv",2
+"BOS196704230",52,"ej,yastc101,P,flahr901,Balls and strikes $Carl Yastrzemski ejected by HP umpire Red Flaherty for arguing balls and strikes","1967BOS.EVA.regular.comment.csv",3
+"BOS196705120",59,"$the throw to 2B hit pitcher John Wyatt on the head","1967BOS.EVA.regular.comment.csv",4
+"BOS196705170",78,"$the pop fly hit Brooks Robinson's glove, bounced off Mark Belanger's shoulder and Curt Blefary made a diving catch","1967BOS.EVA.regular.comment.csv",5
+"BOS196705302",32,"no SF because of E9","1967BOS.EVA.regular.comment.csv",6
+"BOS196706100",0,"$the umpires removed their coats during the game due to extreme heat","1967BOS.EVA.regular.comment.csv",7
+"BOS196706100",72,"$over screen, across street, onto roof","1967BOS.EVA.regular.comment.csv",8
+"BOS196706112",1,"Debut game for Gary Waslewski","1967BOS.EVA.regular.comment.csv",9
+"BOS196706142",49,"ej,stane101,M,neudj901,Fair/foul call $J.C. Martin hit a ball into the RF stands that many witnesses said was fair but 1B umpire Larry Napp ruled foul; White Sox Manager Eddie Stanky ejected by HP umpire Jerry Neudecker","1967BOS.EVA.regular.comment.csv",10
+"BOS196706150",73,"ej,burgs101,P,nappl901,Balls and strikes ej,stane101,M,nappl901,Balls and strikes Smoky Burgess and White Sox Manager Eddie Stanky ejected by HP umpire Larry Napp","1967BOS.EVA.regular.comment.csv",11
+"BOS196706230",56,"Rico Petrocelli hit on the wrist","1967BOS.EVA.regular.comment.csv",12
+"BOS196707260",22,"ej,heffd101,C,drumc901,Fair/foul call $Jim Fregosi hit a dribbler down the 3B line; Joe Foy threw wildly to 1B and Fregosi was safe; HP umpire Cal Drummond then ruled the ball foul; Angels coach Don Heffner ejected Drummond","1967BOS.EVA.regular.comment.csv",13
+"BOS196707260",60,"ej,hamij101,P,hallb901,Call at 1B (not in game) $Joe Foy ruled safe on a close play at 1B; Don Mincher and Angels manager Bill Rigney argued the call; the Angels bench kept hecking 1B umpire Bill Haller; Jack Hamilton ejected by Haller from the bench","1967BOS.EVA.regular.comment.csv",14
+"BOS196708160",66,"ej,willd104,M,umonf901,Call at 1B Red Sox manager Dick Williams ejected by 1B umpire Frank Umont arguing that Scott had beaten the play at first","1967BOS.EVA.regular.comment.csv",15
+"BOS196708180",27,"$Tony Conigliaro beaned","1967BOS.EVA.regular.comment.csv",16
+"BOS196708202",81,"ej,willd104,M,valeb901,Hit by pitch (spit on umpire's shoes) $Red Sox manager Williams ejected by 1B umpire Valentine for arguing hit by pitch and spitting on umpire's shoes","1967BOS.EVA.regular.comment.csv",17
+"BOS196708221",29,"ej,popoe801,C,hallb901,Call at 3B (Appeal play) $George Scott out on appeal for leaving 3B too soon; Red Sox Coach Eddie Popowski ejected by 3B umpire Bill Haller","1967BOS.EVA.regular.comment.csv",18
+"BOS196709010",50,"Debut game for Ed Herrmann Debut game for Cotton Nash","1967BOS.EVA.regular.comment.csv",19
+"BOS196709090",66,"Debut game for Dale Roberts","1967BOS.EVA.regular.comment.csv",20
+"BOS196709270",61,"Debut game for Ken Brett","1967BOS.EVA.regular.comment.csv",21
+"BOS196709300",23,"Jim Kaat strained left elbow while striking out Jose Santiago","1967BOS.EVA.regular.comment.csv",22
+"BOS196710010",63,"Jerry Adair spiked on DP","1967BOS.EVA.regular.comment.csv",23

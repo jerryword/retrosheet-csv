@@ -1,42 +1,43 @@
-"CHN196904080",44,"Debut game for Bill Wilson","FILENAME_TX","LINE_NUMBER_CT"
-"CHN196904080",60,"Debut game for Barry Lersch","1969CHN.EVN.regular.comment.csv",2
-"CHN196904090",61,"Debut game for Luis Peraza","1969CHN.EVN.regular.comment.csv",3
-"CHN196904090",69,"Debut game for Dave Watkins","1969CHN.EVN.regular.comment.csv",4
-"CHN196904100",53,"Debut game for Jim Qualls","1969CHN.EVN.regular.comment.csv",5
-"CHN196904110",1,"Debut game for Carl Morton","1969CHN.EVN.regular.comment.csv",6
-"CHN196904130",54,"ej,hundr101,P,donaa901,Called third strike Randy Hundley ejected by HP umpire Augie Donatelli","1969CHN.EVN.regular.comment.csv",7
-"CHN196905042",42,"$Dick Selma called for interference for running into his own batted ball","1969CHN.EVN.regular.comment.csv",8
-"CHN196905090",0,"17 minute rain delay before start of game","1969CHN.EVN.regular.comment.csv",9
-"CHN196905090",5,"43 minute rain delay in bottom of first","1969CHN.EVN.regular.comment.csv",10
-"CHN196905090",48,"42 minute rain delay this half-inning","1969CHN.EVN.regular.comment.csv",11
-"CHN196905090",57,"21 minute rain delay this half-inning","1969CHN.EVN.regular.comment.csv",12
-"CHN196905120",5,"$Glenn Beckert struck on jaw","1969CHN.EVN.regular.comment.csv",13
-"CHN196905140",51,"$Jerry DaVanon missed on a squeeze attempt; Ed Spiezio was caught at home; Chris Cannizarro and Spiezio both tried to occupy 3B; Cannizzaro called out; Spiezio heard Steiner but did not see where he was pointing; Spiezio thought he was and stepped off the bag","1969CHN.EVN.regular.comment.csv",14
-"CHN196905310",0,"Rain delay before start of game","1969CHN.EVN.regular.comment.csv",15
-"CHN196906040",45,"32 minute rain delay this half-inning","1969CHN.EVN.regular.comment.csv",16
-"CHN196906060",20,"$Glenn Beckert suffered broken thumb tagging Tony Cloninger","1969CHN.EVN.regular.comment.csv",17
-"CHN196906070",78,"game called for rain","1969CHN.EVN.regular.comment.csv",18
-"CHN196906090",62,"ej,durol101,M,donaa901,Taking too long to change pitchers Cubs Manager Leo Durocher ejected by 1B umpire Augie Donatelli","1969CHN.EVN.regular.comment.csv",19
-"CHN196906210",65,"$Ron Brand struck by foul ball","1969CHN.EVN.regular.comment.csv",20
-"CHN196906221",0,"40 minute rain delay before start of game","1969CHN.EVN.regular.comment.csv",21
-"CHN196906222",63,"$Game called for darkness","1969CHN.EVN.regular.comment.csv",22
-"CHN196906230",27,"$Al Oliver injured while running","1969CHN.EVN.regular.comment.csv",23
-"CHN196906240",0,"26 minute rain delay before start of game","1969CHN.EVN.regular.comment.csv",24
-"CHN196906250",49,"$Randy Hundley hurt trying to break up double play","1969CHN.EVN.regular.comment.csv",25
-"CHN196906291",0,"$Billy Williams Day at Wrigley Field; 895th consecutive game, tying NL record","1969CHN.EVN.regular.comment.csv",26
-"CHN196906292",0,"$Billy Williams breaks NL record playing in 896th consecutive game","1969CHN.EVN.regular.comment.csv",27
-"CHN196907120",5,"$Willie Smith caught the ball but collided with Jim Qualls","1969CHN.EVN.regular.comment.csv",28
-"CHN196907120",48,"$HP umpire Ed Sudol removed coat because of heat; umpired in T-shirt","1969CHN.EVN.regular.comment.csv",29
-"CHN196907132",1,"Debut game for Jim Colborn","1969CHN.EVN.regular.comment.csv",30
-"CHN196907250",20,"$Fergie Jenkins struck on right thumb","1969CHN.EVN.regular.comment.csv",31
-"CHN196907290",59,"$Willie Mays injured his knee crashing into Randy Hundley","1969CHN.EVN.regular.comment.csv",32
-"CHN196907300",36,"ej,bartb101,P,kiblj901,Call at 2B $Giants Barton, not in game, ejected by 2B umpire Kibler from bullpen for arguing that Marshall was safe at 2nd since SS dropped ball; Kibler ruled ball was caught and drop was in act of throwing","1969CHN.EVN.regular.comment.csv",33
-"CHN196908190",54,"$Bill Heath suffered broken finger by Aaron foul ball","1969CHN.EVN.regular.comment.csv",34
-"CHN196908200",31,"$Clete Boyer injured on force play","1969CHN.EVN.regular.comment.csv",35
-"CHN196908260",16,"ej,durol101,M,craws901,Abusive language and kicking umpire $Cubs manager Durocher ejected by 1B umpire Crawford for abusive language and kicking Crawford while kicking dirt on his shoes","1969CHN.EVN.regular.comment.csv",36
-"CHN196908270",17,"Debut game for Oscar Gamble","1969CHN.EVN.regular.comment.csv",37
-"CHN196909060",58,"Debut game for Johnny Hairston","1969CHN.EVN.regular.comment.csv",38
-"CHN196909070",61,"ej,shepl801,M,wendh901,Call at 2B $Pirates manager Shepard ejected by 2B umpire Wendelstedt for arguing that SS held ball long enough for out at 2nd, but umpire ruled he did not have possession, so safe","1969CHN.EVN.regular.comment.csv",39
-"CHN196909180",1,"Debut game for Joe Decker","1969CHN.EVN.regular.comment.csv",40
-"CHN196909180",64,"$second run scored when the Cubs botched a rundown play (2-4)","1969CHN.EVN.regular.comment.csv",41
-"CHN196909230",0,"Rain delay before start of game","1969CHN.EVN.regular.comment.csv",42
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"CHN196904080",44,"Debut game for Bill Wilson","1969CHN.EVN.regular.comment.csv",2
+"CHN196904080",60,"Debut game for Barry Lersch","1969CHN.EVN.regular.comment.csv",3
+"CHN196904090",61,"Debut game for Luis Peraza","1969CHN.EVN.regular.comment.csv",4
+"CHN196904090",69,"Debut game for Dave Watkins","1969CHN.EVN.regular.comment.csv",5
+"CHN196904100",53,"Debut game for Jim Qualls","1969CHN.EVN.regular.comment.csv",6
+"CHN196904110",1,"Debut game for Carl Morton","1969CHN.EVN.regular.comment.csv",7
+"CHN196904130",54,"ej,hundr101,P,donaa901,Called third strike Randy Hundley ejected by HP umpire Augie Donatelli","1969CHN.EVN.regular.comment.csv",8
+"CHN196905042",42,"$Dick Selma called for interference for running into his own batted ball","1969CHN.EVN.regular.comment.csv",9
+"CHN196905090",0,"17 minute rain delay before start of game","1969CHN.EVN.regular.comment.csv",10
+"CHN196905090",5,"43 minute rain delay in bottom of first","1969CHN.EVN.regular.comment.csv",11
+"CHN196905090",48,"42 minute rain delay this half-inning","1969CHN.EVN.regular.comment.csv",12
+"CHN196905090",57,"21 minute rain delay this half-inning","1969CHN.EVN.regular.comment.csv",13
+"CHN196905120",5,"$Glenn Beckert struck on jaw","1969CHN.EVN.regular.comment.csv",14
+"CHN196905140",51,"$Jerry DaVanon missed on a squeeze attempt; Ed Spiezio was caught at home; Chris Cannizarro and Spiezio both tried to occupy 3B; Cannizzaro called out; Spiezio heard Steiner but did not see where he was pointing; Spiezio thought he was and stepped off the bag","1969CHN.EVN.regular.comment.csv",15
+"CHN196905310",0,"Rain delay before start of game","1969CHN.EVN.regular.comment.csv",16
+"CHN196906040",45,"32 minute rain delay this half-inning","1969CHN.EVN.regular.comment.csv",17
+"CHN196906060",20,"$Glenn Beckert suffered broken thumb tagging Tony Cloninger","1969CHN.EVN.regular.comment.csv",18
+"CHN196906070",78,"game called for rain","1969CHN.EVN.regular.comment.csv",19
+"CHN196906090",62,"ej,durol101,M,donaa901,Taking too long to change pitchers Cubs Manager Leo Durocher ejected by 1B umpire Augie Donatelli","1969CHN.EVN.regular.comment.csv",20
+"CHN196906210",65,"$Ron Brand struck by foul ball","1969CHN.EVN.regular.comment.csv",21
+"CHN196906221",0,"40 minute rain delay before start of game","1969CHN.EVN.regular.comment.csv",22
+"CHN196906222",63,"$Game called for darkness","1969CHN.EVN.regular.comment.csv",23
+"CHN196906230",27,"$Al Oliver injured while running","1969CHN.EVN.regular.comment.csv",24
+"CHN196906240",0,"26 minute rain delay before start of game","1969CHN.EVN.regular.comment.csv",25
+"CHN196906250",49,"$Randy Hundley hurt trying to break up double play","1969CHN.EVN.regular.comment.csv",26
+"CHN196906291",0,"$Billy Williams Day at Wrigley Field; 895th consecutive game, tying NL record","1969CHN.EVN.regular.comment.csv",27
+"CHN196906292",0,"$Billy Williams breaks NL record playing in 896th consecutive game","1969CHN.EVN.regular.comment.csv",28
+"CHN196907120",5,"$Willie Smith caught the ball but collided with Jim Qualls","1969CHN.EVN.regular.comment.csv",29
+"CHN196907120",48,"$HP umpire Ed Sudol removed coat because of heat; umpired in T-shirt","1969CHN.EVN.regular.comment.csv",30
+"CHN196907132",1,"Debut game for Jim Colborn","1969CHN.EVN.regular.comment.csv",31
+"CHN196907250",20,"$Fergie Jenkins struck on right thumb","1969CHN.EVN.regular.comment.csv",32
+"CHN196907290",59,"$Willie Mays injured his knee crashing into Randy Hundley","1969CHN.EVN.regular.comment.csv",33
+"CHN196907300",36,"ej,bartb101,P,kiblj901,Call at 2B $Giants Barton, not in game, ejected by 2B umpire Kibler from bullpen for arguing that Marshall was safe at 2nd since SS dropped ball; Kibler ruled ball was caught and drop was in act of throwing","1969CHN.EVN.regular.comment.csv",34
+"CHN196908190",54,"$Bill Heath suffered broken finger by Aaron foul ball","1969CHN.EVN.regular.comment.csv",35
+"CHN196908200",31,"$Clete Boyer injured on force play","1969CHN.EVN.regular.comment.csv",36
+"CHN196908260",16,"ej,durol101,M,craws901,Abusive language and kicking umpire $Cubs manager Durocher ejected by 1B umpire Crawford for abusive language and kicking Crawford while kicking dirt on his shoes","1969CHN.EVN.regular.comment.csv",37
+"CHN196908270",17,"Debut game for Oscar Gamble","1969CHN.EVN.regular.comment.csv",38
+"CHN196909060",58,"Debut game for Johnny Hairston","1969CHN.EVN.regular.comment.csv",39
+"CHN196909070",61,"ej,shepl801,M,wendh901,Call at 2B $Pirates manager Shepard ejected by 2B umpire Wendelstedt for arguing that SS held ball long enough for out at 2nd, but umpire ruled he did not have possession, so safe","1969CHN.EVN.regular.comment.csv",40
+"CHN196909180",1,"Debut game for Joe Decker","1969CHN.EVN.regular.comment.csv",41
+"CHN196909180",64,"$second run scored when the Cubs botched a rundown play (2-4)","1969CHN.EVN.regular.comment.csv",42
+"CHN196909230",0,"Rain delay before start of game","1969CHN.EVN.regular.comment.csv",43

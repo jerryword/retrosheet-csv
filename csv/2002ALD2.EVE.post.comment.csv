@@ -1,6 +1,7 @@
-"NYA200210010",28,"$infield shifted","FILENAME_TX","LINE_NUMBER_CT"
-"NYA200210010",50,"$infield shifted","2002ALD2.EVE.post.comment.csv",2
-"NYA200210010",64,"$Rondell White hurt hamstring running out grounder","2002ALD2.EVE.post.comment.csv",3
-"NYA200210020",6,"$infield shifted to right for Giambi throughout game","2002ALD2.EVE.post.comment.csv",4
-"NYA200210020",74,"$Ben Weber left with sprained finger after being struck by ball","2002ALD2.EVE.post.comment.csv",5
-"ANA200210040",3,"$Troy Glaus covered 2B on 'Giambi shift'; Benjie Molina threw to 2B on ball 4; when ball was missed and no one was covering 3B, Derek Jeter advanced; Official ruling 'fielder's choice'","2002ALD2.EVE.post.comment.csv",6
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"NYA200210010",28,"$infield shifted","2002ALD2.EVE.post.comment.csv",2
+"NYA200210010",50,"$infield shifted","2002ALD2.EVE.post.comment.csv",3
+"NYA200210010",64,"$Rondell White hurt hamstring running out grounder","2002ALD2.EVE.post.comment.csv",4
+"NYA200210020",6,"$infield shifted to right for Giambi throughout game","2002ALD2.EVE.post.comment.csv",5
+"NYA200210020",74,"$Ben Weber left with sprained finger after being struck by ball","2002ALD2.EVE.post.comment.csv",6
+"ANA200210040",3,"$Troy Glaus covered 2B on 'Giambi shift'; Benjie Molina threw to 2B on ball 4; when ball was missed and no one was covering 3B, Derek Jeter advanced; Official ruling 'fielder's choice'","2002ALD2.EVE.post.comment.csv",7

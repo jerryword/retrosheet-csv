@@ -1,25 +1,26 @@
-"KCA198804040",20,"Debut game for Sil Campusano","FILENAME_TX","LINE_NUMBER_CT"
-"KCA198804060",7,"Debut game for Pat Borders","1988KCA.EVA.regular.comment.csv",2
-"KCA198804060",74,"Debut game for Todd Stottlemyre","1988KCA.EVA.regular.comment.csv",3
-"KCA198804080",61,"Debut game for Paul Gibson","1988KCA.EVA.regular.comment.csv",4
-"KCA198804100",16,"$Danny Tartabull dropped shallow fly ball","1988KCA.EVA.regular.comment.csv",5
-"KCA198804100",21,"$Chet Lemon's throw hit Kevin Seitzer","1988KCA.EVA.regular.comment.csv",6
-"KCA198804230",16,"ej,robif103,M,cobld901,Balk Orioles manager Frank Robinson ejected by 3B umpire Drew Coble","1988KCA.EVA.regular.comment.csv",7
-"KCA198804230",52,"$Danny Tartabull advanced when Rene Gonzales fell into dugout","1988KCA.EVA.regular.comment.csv",8
-"KCA198805040",62,"ej,candj001,P,merrd901,Balls and strikes $Yankees Candelaria ejected by HP umpire Merrill for arguing balls and strikes while leaving field at end of inning","1988KCA.EVA.regular.comment.csv",9
-"KCA198805060",50,"$B.J. Surhoff called for interference","1988KCA.EVA.regular.comment.csv",10
-"KCA198805080",0,"21 minute rain delay at start of game","1988KCA.EVA.regular.comment.csv",11
-"KCA198805080",57,"$Brad Wellman pulled hidden ball trick","1988KCA.EVA.regular.comment.csv",12
-"KCA198805220",0,"19 minute rain delay prior to start","1988KCA.EVA.regular.comment.csv",13
-"KCA198805270",68,"$Jose Guzman missed the bag","1988KCA.EVA.regular.comment.csv",14
-"KCA198807030",66,"ej,evand002,P,hirsj901,Called third strike ej,mcnaj801,M,hirsj901,Called third strike Dwight Evans and Red Sox manager John McNamara ejected by HP umpire John Hirschbeck","1988KCA.EVA.regular.comment.csv",15
-"KCA198807070",65,"Debut game for Israel Sanchez","1988KCA.EVA.regular.comment.csv",16
-"KCA198808140",73,"Debut game for Tony Castillo","1988KCA.EVA.regular.comment.csv",17
-"KCA198809050",56,"Debut game for Dante Bichette","1988KCA.EVA.regular.comment.csv",18
-"KCA198809070",10,"Debut game for L Delos Santos","1988KCA.EVA.regular.comment.csv",19
-"KCA198809080",48,"Debut game for Rey Palacios","1988KCA.EVA.regular.comment.csv",20
-"KCA198809080",50,"Debut game for Tom Gordon","1988KCA.EVA.regular.comment.csv",21
-"KCA198809080",64,"Debut game for Mark Lee","1988KCA.EVA.regular.comment.csv",22
-"KCA198809090",1,"Debut game for Jose DeJesus","1988KCA.EVA.regular.comment.csv",23
-"KCA198809110",92,"ej,wathj001,M,hendt901,Obstruction call $Pat Tabler called for obstructing Luis Polonia; Royals manager John Wathan argued and was ejected by 1B umpire Ted Hendry","1988KCA.EVA.regular.comment.csv",24
-"KCA198810020",45,"$hidden ball trick by George Brett","1988KCA.EVA.regular.comment.csv",25
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"KCA198804040",20,"Debut game for Sil Campusano","1988KCA.EVA.regular.comment.csv",2
+"KCA198804060",7,"Debut game for Pat Borders","1988KCA.EVA.regular.comment.csv",3
+"KCA198804060",74,"Debut game for Todd Stottlemyre","1988KCA.EVA.regular.comment.csv",4
+"KCA198804080",61,"Debut game for Paul Gibson","1988KCA.EVA.regular.comment.csv",5
+"KCA198804100",16,"$Danny Tartabull dropped shallow fly ball","1988KCA.EVA.regular.comment.csv",6
+"KCA198804100",21,"$Chet Lemon's throw hit Kevin Seitzer","1988KCA.EVA.regular.comment.csv",7
+"KCA198804230",16,"ej,robif103,M,cobld901,Balk Orioles manager Frank Robinson ejected by 3B umpire Drew Coble","1988KCA.EVA.regular.comment.csv",8
+"KCA198804230",52,"$Danny Tartabull advanced when Rene Gonzales fell into dugout","1988KCA.EVA.regular.comment.csv",9
+"KCA198805040",62,"ej,candj001,P,merrd901,Balls and strikes $Yankees Candelaria ejected by HP umpire Merrill for arguing balls and strikes while leaving field at end of inning","1988KCA.EVA.regular.comment.csv",10
+"KCA198805060",50,"$B.J. Surhoff called for interference","1988KCA.EVA.regular.comment.csv",11
+"KCA198805080",0,"21 minute rain delay at start of game","1988KCA.EVA.regular.comment.csv",12
+"KCA198805080",57,"$Brad Wellman pulled hidden ball trick","1988KCA.EVA.regular.comment.csv",13
+"KCA198805220",0,"19 minute rain delay prior to start","1988KCA.EVA.regular.comment.csv",14
+"KCA198805270",68,"$Jose Guzman missed the bag","1988KCA.EVA.regular.comment.csv",15
+"KCA198807030",66,"ej,evand002,P,hirsj901,Called third strike ej,mcnaj801,M,hirsj901,Called third strike Dwight Evans and Red Sox manager John McNamara ejected by HP umpire John Hirschbeck","1988KCA.EVA.regular.comment.csv",16
+"KCA198807070",65,"Debut game for Israel Sanchez","1988KCA.EVA.regular.comment.csv",17
+"KCA198808140",73,"Debut game for Tony Castillo","1988KCA.EVA.regular.comment.csv",18
+"KCA198809050",56,"Debut game for Dante Bichette","1988KCA.EVA.regular.comment.csv",19
+"KCA198809070",10,"Debut game for L Delos Santos","1988KCA.EVA.regular.comment.csv",20
+"KCA198809080",48,"Debut game for Rey Palacios","1988KCA.EVA.regular.comment.csv",21
+"KCA198809080",50,"Debut game for Tom Gordon","1988KCA.EVA.regular.comment.csv",22
+"KCA198809080",64,"Debut game for Mark Lee","1988KCA.EVA.regular.comment.csv",23
+"KCA198809090",1,"Debut game for Jose DeJesus","1988KCA.EVA.regular.comment.csv",24
+"KCA198809110",92,"ej,wathj001,M,hendt901,Obstruction call $Pat Tabler called for obstructing Luis Polonia; Royals manager John Wathan argued and was ejected by 1B umpire Ted Hendry","1988KCA.EVA.regular.comment.csv",25
+"KCA198810020",45,"$hidden ball trick by George Brett","1988KCA.EVA.regular.comment.csv",26

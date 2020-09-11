@@ -1,21 +1,22 @@
-"BSN193906111",80,"ej,lopea102,P,mageg901,Arguing balls and strikes ej,stenc101,M,mageg901,Arguing balls and strikes $Boston catcher Lopez and manager Stengel ejected for arguing balls and strikes","FILENAME_TX","LINE_NUMBER_CT"
-"BSN193906112",57,"$Game called for curfew","1939.EDN.regular.comment.csv",2
-"BRO193907140",32,"$Foul tip injured Phelps while Brubaker at bat, left game","1939.EDN.regular.comment.csv",3
-"BRO193907232",10,"$first baseman lost bunt popup in sun","1939.EDN.regular.comment.csv",4
-"BRO193907232",80,"$Mungo broke his ankle sliding into second and was out for rest of season","1939.EDN.regular.comment.csv",5
-"CHN193908010",36,"ej,protd101,M,campb901,Arguing interference call $Bartell scores on interference by Millies (no error); Phillies manager Prothro ejected by 3b umpire Campbell","1939.EDN.regular.comment.csv",6
-"PHI193908102",7,"$Walker left 3b early","1939.EDN.regular.comment.csv",7
-"SLN193906251",83,"$With Lanning pitching and the count 1-1, Moore just missed a 3-run HR to LF that just curled foul, prompting Stengel to bring in Frankhouse","1939.EDN.regular.comment.csv",8
-"BSN193908272",85,"$Game called for curfew","1939.EDN.regular.comment.csv",9
-"BRO193909082",47,"$Game called for darkness","1939.EDN.regular.comment.csv",10
-"PIT193909171",0,"$Johnny Gee's major-league debut","1939.EDN.regular.comment.csv",11
-"PIT193909171",58,"$Juelich injured his ankle in a collision with Benjamin at 1B","1939.EDN.regular.comment.csv",12
-"PIT193909172",57,"$Joe Kracher's major-league debut","1939.EDN.regular.comment.csv",13
-"PIT193909212",16,"ej,stenc101,M,dunnt901,Arguing foul ball $Boston manager Stengel ejected by HP umpire Dunn who ruled Sisti's hit glanced off his clothing and was therefore foul; Sisti had beaten play on apparent infield single but was called back and then was out","1939.EDN.regular.comment.csv",14
-"PHI193909282",42,"$Throw hit leg of 1b who was carried off field","1939.EDN.regular.comment.csv",15
-"PHI193909282",71,"game called, darkness","1939.EDN.regular.comment.csv",16
-"CHN193909302",47,"$Murry Dickson's major-league debut","1939.EDN.regular.comment.csv",17
-"BSN193910010",69,"$Game 2 of scheduled doubleheader was canceled after two innings due to rain","1939.EDN.regular.comment.csv",18
-"BSN193906270",107,"$Huber appeared to be able to score easily, but tripped as he approached third base and had to hold","1939.EDN.regular.comment.csv",19
-"BSN193906270",135,"$Wyatt left with a sore knee","1939.EDN.regular.comment.csv",20
-"BSN193906270",182,"$Game called for darkness","1939.EDN.regular.comment.csv",21
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"BSN193906111",80,"ej,lopea102,P,mageg901,Arguing balls and strikes ej,stenc101,M,mageg901,Arguing balls and strikes $Boston catcher Lopez and manager Stengel ejected for arguing balls and strikes","1939.EDN.regular.comment.csv",2
+"BSN193906112",57,"$Game called for curfew","1939.EDN.regular.comment.csv",3
+"BRO193907140",32,"$Foul tip injured Phelps while Brubaker at bat, left game","1939.EDN.regular.comment.csv",4
+"BRO193907232",10,"$first baseman lost bunt popup in sun","1939.EDN.regular.comment.csv",5
+"BRO193907232",80,"$Mungo broke his ankle sliding into second and was out for rest of season","1939.EDN.regular.comment.csv",6
+"CHN193908010",36,"ej,protd101,M,campb901,Arguing interference call $Bartell scores on interference by Millies (no error); Phillies manager Prothro ejected by 3b umpire Campbell","1939.EDN.regular.comment.csv",7
+"PHI193908102",7,"$Walker left 3b early","1939.EDN.regular.comment.csv",8
+"SLN193906251",83,"$With Lanning pitching and the count 1-1, Moore just missed a 3-run HR to LF that just curled foul, prompting Stengel to bring in Frankhouse","1939.EDN.regular.comment.csv",9
+"BSN193908272",85,"$Game called for curfew","1939.EDN.regular.comment.csv",10
+"BRO193909082",47,"$Game called for darkness","1939.EDN.regular.comment.csv",11
+"PIT193909171",0,"$Johnny Gee's major-league debut","1939.EDN.regular.comment.csv",12
+"PIT193909171",58,"$Juelich injured his ankle in a collision with Benjamin at 1B","1939.EDN.regular.comment.csv",13
+"PIT193909172",57,"$Joe Kracher's major-league debut","1939.EDN.regular.comment.csv",14
+"PIT193909212",16,"ej,stenc101,M,dunnt901,Arguing foul ball $Boston manager Stengel ejected by HP umpire Dunn who ruled Sisti's hit glanced off his clothing and was therefore foul; Sisti had beaten play on apparent infield single but was called back and then was out","1939.EDN.regular.comment.csv",15
+"PHI193909282",42,"$Throw hit leg of 1b who was carried off field","1939.EDN.regular.comment.csv",16
+"PHI193909282",71,"game called, darkness","1939.EDN.regular.comment.csv",17
+"CHN193909302",47,"$Murry Dickson's major-league debut","1939.EDN.regular.comment.csv",18
+"BSN193910010",69,"$Game 2 of scheduled doubleheader was canceled after two innings due to rain","1939.EDN.regular.comment.csv",19
+"BSN193906270",107,"$Huber appeared to be able to score easily, but tripped as he approached third base and had to hold","1939.EDN.regular.comment.csv",20
+"BSN193906270",135,"$Wyatt left with a sore knee","1939.EDN.regular.comment.csv",21
+"BSN193906270",182,"$Game called for darkness","1939.EDN.regular.comment.csv",22

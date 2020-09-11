@@ -1,38 +1,39 @@
-"BAL197704070",2,"Debut game for Bump Wills","FILENAME_TX","LINE_NUMBER_CT"
-"BAL197704070",13,"Debut game for Eddie Murray","1977BAL.EVA.regular.comment.csv",2
-"BAL197704250",19,"$Willie Randolph given a triple instead of a probable double because of Lee May's obstruction at 1B","1977BAL.EVA.regular.comment.csv",3
-"BAL197704250",29,"$Eddie Murray caught in run-down when pitch bounced away from Thurman Munson","1977BAL.EVA.regular.comment.csv",4
-"BAL197704250",36,"$Rick Dempsey called for interference for running outside of the 1B lane","1977BAL.EVA.regular.comment.csv",5
-"BAL197705252",8,"ej,weave801,M,brinj901,Call at 1B Orioles Manager Earl Weaver ejected by 1B umpire Joe Brinkman","1977BAL.EVA.regular.comment.csv",6
-"BAL197705252",28,"ej,garck001,P,pales901,Balls and strikes Kiko Garcia ejected by HP umpire Steve Palermo","1977BAL.EVA.regular.comment.csv",7
-"BAL197706210",59,"$George Scott charged mound, chasing Dennis Martinez around the infield","1977BAL.EVA.regular.comment.csv",8
-"BAL197706230",31,"ej,weave801,M,malog901,Balls and strikes Orioles Manager Earl Weaver ejected by HP umpire George Maloney; Weaver went to the mound under the pretense of visiting Mike Flanagan but wanting to talk to Maloney","1977BAL.EVA.regular.comment.csv",9
-"BAL197706230",48,"$Ken Singleton left with back spasms","1977BAL.EVA.regular.comment.csv",10
-"BAL197707052",49,"$off LF pole","1977BAL.EVA.regular.comment.csv",11
-"BAL197707080",17,"$Rick Dempsey hit on left hand","1977BAL.EVA.regular.comment.csv",12
-"BAL197707080",28,"$Rick Dempsey left game with broken second metacarpal in left hand","1977BAL.EVA.regular.comment.csv",13
-"BAL197707100",30,"$Paul Blair and Bucky Dent collided","1977BAL.EVA.regular.comment.csv",14
-"BAL197707110",77,"$Rich Dauer's drive deflected off Sparky Lyle and was caught by Willie Randolph","1977BAL.EVA.regular.comment.csv",15
-"BAL197707230",14,"$Doug DeCinces called out on a checked swing","1977BAL.EVA.regular.comment.csv",16
-"BAL197707230",15,"ej,weave801,M,bremn901,Checked swing Orioles Manager Earl Weaver ejected by 3B umpire Nick Bremigan arguing a checked swing call on Mike Hargrove that was ruled no swing","1977BAL.EVA.regular.comment.csv",17
-"BAL197707250",73,"$Billy Smith ran to 2B where Andres Mora was standing","1977BAL.EVA.regular.comment.csv",18
-"BAL197708080",10,"1:24 rain delay","1977BAL.EVA.regular.comment.csv",19
-"BAL197708100",55,"19 min rain delay with 2-0 count on Dave Collins","1977BAL.EVA.regular.comment.csv",20
-"BAL197708100",61,"$Elliott Maddox pulled up lame at 3B","1977BAL.EVA.regular.comment.csv",21
-"BAL197708120",60,"$Jerry Tabb fielded ball and stepped on 1B, Rich Dauer dove back safely","1977BAL.EVA.regular.comment.csv",22
-"BAL197708130",78,"PO1(1E6)","1977BAL.EVA.regular.comment.csv",23
-"BAL197708160",49,"$Butch Wynegar held up play with a moth in his ear","1977BAL.EVA.regular.comment.csv",24
-"BAL197708160",96,"ej,weave801,M,clara901,HBP call (Reversal) Orioles Manager Earl Weaver ejected by HP umpire Al Clark Lyman Bostock claimed he was hit by the pitch; Clark ruled no and then reversed himself","1977BAL.EVA.regular.comment.csv",25
-"BAL197708240",12,"ej,weave801,M,denkd901,Checked swing Orioles Manager Earl Weaver ejected by HP umpire Don Denkinger","1977BAL.EVA.regular.comment.csv",26
-"BAL197708240",42,"$Jim Essian called out on appeal for missing 3B, thus negating an apparent RBI single by Alan Bannister","1977BAL.EVA.regular.comment.csv",27
-"BAL197708250",59,"ej,weave801,M,mccol901,Balls and strikes $Orioles manager Weaver ejected by HP umpire McCoy for arguing that Johnson should have been called on the pitch before his double","1977BAL.EVA.regular.comment.csv",28
-"BAL197708300",66,"$Al Bumbry scored when nobody covered HP","1977BAL.EVA.regular.comment.csv",29
-"BAL197708310",72,"31 minute rain delay with 2-2 count on Rance Mulliniks","1977BAL.EVA.regular.comment.csv",30
-"BAL197709110",65,"Debut game for Cardell Camper","1977BAL.EVA.regular.comment.csv",31
-"BAL197709180",2,"Debut game for Ted Cox","1977BAL.EVA.regular.comment.csv",32
-"BAL197709190",72,"ej,hartr101,M,neudj901,Catch/trap call Blue Jays Manager Roy Hartsfield ejected by 3B umpire Jerry Neudecker arguing trap call on dive by Steve Bowling","1977BAL.EVA.regular.comment.csv",33
-"BAL197709200",18,"$Ken Singleton lost ball in lights","1977BAL.EVA.regular.comment.csv",34
-"BAL197709210",8,"$Doug DeCinces hit on right thumb","1977BAL.EVA.regular.comment.csv",35
-"BAL197709210",38,"$Steve Bowling lost ball in lights","1977BAL.EVA.regular.comment.csv",36
-"BAL197709210",60,"$Al Bumbry tried to score when Steve Bowling fumbled the ball","1977BAL.EVA.regular.comment.csv",37
-"BAL197709220",73,"$no one covered 1B","1977BAL.EVA.regular.comment.csv",38
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"BAL197704070",2,"Debut game for Bump Wills","1977BAL.EVA.regular.comment.csv",2
+"BAL197704070",13,"Debut game for Eddie Murray","1977BAL.EVA.regular.comment.csv",3
+"BAL197704250",19,"$Willie Randolph given a triple instead of a probable double because of Lee May's obstruction at 1B","1977BAL.EVA.regular.comment.csv",4
+"BAL197704250",29,"$Eddie Murray caught in run-down when pitch bounced away from Thurman Munson","1977BAL.EVA.regular.comment.csv",5
+"BAL197704250",36,"$Rick Dempsey called for interference for running outside of the 1B lane","1977BAL.EVA.regular.comment.csv",6
+"BAL197705252",8,"ej,weave801,M,brinj901,Call at 1B Orioles Manager Earl Weaver ejected by 1B umpire Joe Brinkman","1977BAL.EVA.regular.comment.csv",7
+"BAL197705252",28,"ej,garck001,P,pales901,Balls and strikes Kiko Garcia ejected by HP umpire Steve Palermo","1977BAL.EVA.regular.comment.csv",8
+"BAL197706210",59,"$George Scott charged mound, chasing Dennis Martinez around the infield","1977BAL.EVA.regular.comment.csv",9
+"BAL197706230",31,"ej,weave801,M,malog901,Balls and strikes Orioles Manager Earl Weaver ejected by HP umpire George Maloney; Weaver went to the mound under the pretense of visiting Mike Flanagan but wanting to talk to Maloney","1977BAL.EVA.regular.comment.csv",10
+"BAL197706230",48,"$Ken Singleton left with back spasms","1977BAL.EVA.regular.comment.csv",11
+"BAL197707052",49,"$off LF pole","1977BAL.EVA.regular.comment.csv",12
+"BAL197707080",17,"$Rick Dempsey hit on left hand","1977BAL.EVA.regular.comment.csv",13
+"BAL197707080",28,"$Rick Dempsey left game with broken second metacarpal in left hand","1977BAL.EVA.regular.comment.csv",14
+"BAL197707100",30,"$Paul Blair and Bucky Dent collided","1977BAL.EVA.regular.comment.csv",15
+"BAL197707110",77,"$Rich Dauer's drive deflected off Sparky Lyle and was caught by Willie Randolph","1977BAL.EVA.regular.comment.csv",16
+"BAL197707230",14,"$Doug DeCinces called out on a checked swing","1977BAL.EVA.regular.comment.csv",17
+"BAL197707230",15,"ej,weave801,M,bremn901,Checked swing Orioles Manager Earl Weaver ejected by 3B umpire Nick Bremigan arguing a checked swing call on Mike Hargrove that was ruled no swing","1977BAL.EVA.regular.comment.csv",18
+"BAL197707250",73,"$Billy Smith ran to 2B where Andres Mora was standing","1977BAL.EVA.regular.comment.csv",19
+"BAL197708080",10,"1:24 rain delay","1977BAL.EVA.regular.comment.csv",20
+"BAL197708100",55,"19 min rain delay with 2-0 count on Dave Collins","1977BAL.EVA.regular.comment.csv",21
+"BAL197708100",61,"$Elliott Maddox pulled up lame at 3B","1977BAL.EVA.regular.comment.csv",22
+"BAL197708120",60,"$Jerry Tabb fielded ball and stepped on 1B, Rich Dauer dove back safely","1977BAL.EVA.regular.comment.csv",23
+"BAL197708130",78,"PO1(1E6)","1977BAL.EVA.regular.comment.csv",24
+"BAL197708160",49,"$Butch Wynegar held up play with a moth in his ear","1977BAL.EVA.regular.comment.csv",25
+"BAL197708160",96,"ej,weave801,M,clara901,HBP call (Reversal) Orioles Manager Earl Weaver ejected by HP umpire Al Clark Lyman Bostock claimed he was hit by the pitch; Clark ruled no and then reversed himself","1977BAL.EVA.regular.comment.csv",26
+"BAL197708240",12,"ej,weave801,M,denkd901,Checked swing Orioles Manager Earl Weaver ejected by HP umpire Don Denkinger","1977BAL.EVA.regular.comment.csv",27
+"BAL197708240",42,"$Jim Essian called out on appeal for missing 3B, thus negating an apparent RBI single by Alan Bannister","1977BAL.EVA.regular.comment.csv",28
+"BAL197708250",59,"ej,weave801,M,mccol901,Balls and strikes $Orioles manager Weaver ejected by HP umpire McCoy for arguing that Johnson should have been called on the pitch before his double","1977BAL.EVA.regular.comment.csv",29
+"BAL197708300",66,"$Al Bumbry scored when nobody covered HP","1977BAL.EVA.regular.comment.csv",30
+"BAL197708310",72,"31 minute rain delay with 2-2 count on Rance Mulliniks","1977BAL.EVA.regular.comment.csv",31
+"BAL197709110",65,"Debut game for Cardell Camper","1977BAL.EVA.regular.comment.csv",32
+"BAL197709180",2,"Debut game for Ted Cox","1977BAL.EVA.regular.comment.csv",33
+"BAL197709190",72,"ej,hartr101,M,neudj901,Catch/trap call Blue Jays Manager Roy Hartsfield ejected by 3B umpire Jerry Neudecker arguing trap call on dive by Steve Bowling","1977BAL.EVA.regular.comment.csv",34
+"BAL197709200",18,"$Ken Singleton lost ball in lights","1977BAL.EVA.regular.comment.csv",35
+"BAL197709210",8,"$Doug DeCinces hit on right thumb","1977BAL.EVA.regular.comment.csv",36
+"BAL197709210",38,"$Steve Bowling lost ball in lights","1977BAL.EVA.regular.comment.csv",37
+"BAL197709210",60,"$Al Bumbry tried to score when Steve Bowling fumbled the ball","1977BAL.EVA.regular.comment.csv",38
+"BAL197709220",73,"$no one covered 1B","1977BAL.EVA.regular.comment.csv",39

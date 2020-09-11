@@ -1,43 +1,44 @@
-"CIN193904170",0,"$The expected surge of water over the OF from nearby swollen streams didn't happen.","FILENAME_TX","LINE_NUMBER_CT"
-"CIN193904170",16,"$Brubaker's long throw struck Myers behind L ear. Myers, unconscious, was taken to hospital. Myers awakened in time to hear end of game on radio.","1939CIN.EVN.regular.comment.csv",2
-"CIN193904270",65,"The scorecard had this play scored FC1.3XH(142);B-1","1939CIN.EVN.regular.comment.csv",3
-"CIN193904270",66,"I am assuming this is how and when Leiber made his error.","1939CIN.EVN.regular.comment.csv",4
-"CIN193904280",34,"$Werber dropped the throw letting Hack take 2B.","1939CIN.EVN.regular.comment.csv",5
-"CIN193904280",47,"ej,bartd101,P,klemb901,Called third strike $Bartell ejected by Klem for arguing third strike","1939CIN.EVN.regular.comment.csv",6
-"CIN193905190",26,"15 minute rain delay","1939CIN.EVN.regular.comment.csv",7
-"CIN193905240",8,"$the ball was lost in the sun","1939CIN.EVN.regular.comment.csv",8
-"CIN193905240",38,"$onto the LF roof","1939CIN.EVN.regular.comment.csv",9
-"CIN193905250",30,"$onto the LF roof","1939CIN.EVN.regular.comment.csv",10
-"CIN193905250",38,"$Whitey Moore called for interference for running into his own bunt","1939CIN.EVN.regular.comment.csv",11
-"CIN193905290",0,"Protest=V","1939CIN.EVN.regular.comment.csv",12
-"CIN193905290",35,"$on a tag play at 2B, 3B umpire Bill Stewart ruled Ernie Lombardi out; 1B umpire George Magerkurth ruled Lombardi safe; Magerkurth prevailed and the Cubs protested the game","1939CIN.EVN.regular.comment.csv",13
-"CIN193905301",0,"$Game two of a morning/afternoon, separate admission double header","1939CIN.EVN.regular.comment.csv",14
-"CIN193905301",55,"$Willard Hershberger's throw struck 3B umpire Dolly Stark","1939CIN.EVN.regular.comment.csv",15
-"CIN193905302",0,"$Game two of a morning/afternoon, separate admission double header","1939CIN.EVN.regular.comment.csv",16
-"CIN193906170",59,"14 minute rain delay","1939CIN.EVN.regular.comment.csv",17
-"CIN193906230",57,"$missed squeeze","1939CIN.EVN.regular.comment.csv",18
-"CIN193906270",0,"$Attendance: paid 5181; 9823 ladies","1939CIN.EVN.regular.comment.csv",19
-"CIN193906270",65,"DWS: bunt assumed","1939CIN.EVN.regular.comment.csv",20
-"CIN193907050",40,"$Ival Goodman struck on the back of the head by the throw","1939CIN.EVN.regular.comment.csv",21
-"CIN193907060",0,"Protest=V","1939CIN.EVN.regular.comment.csv",22
-"CIN193907060",35,"$onto the LF roof","1939CIN.EVN.regular.comment.csv",23
-"CIN193907060",37,"$the Cardinals protest the game claiming that Ival Goodman was in the lineup turned in by the Reds at the start of the game","1939CIN.EVN.regular.comment.csv",24
-"CIN193907250",21,"could be 3/G?","1939CIN.EVN.regular.comment.csv",25
-"CIN193907250",46,"$Gamble and McCormick hit & run.","1939CIN.EVN.regular.comment.csv",26
-"CIN193907250",56,"could be 3/G","1939CIN.EVN.regular.comment.csv",27
-"CIN193907271",7,"$1B umpire Dolly Stark injured his groin","1939CIN.EVN.regular.comment.csv",28
-"CIN193907271",19,"umpchange,3,ump1b,goetl901 umpchange,3,ump3b,(None) $1B umpire Dolly Stark left with an injured groin; 3B umpire Larry Goetz moved to 1B","1939CIN.EVN.regular.comment.csv",29
-"CIN193907301",43,"$outfielder Joe Marty's only pitching appearance","1939CIN.EVN.regular.comment.csv",30
-"CIN193907302",36,"bunt assumed","1939CIN.EVN.regular.comment.csv",31
-"CIN193908050",45,"ej,durol101,M,stewb901,Call at 3B (Appeal) Dodgers Manager Leo Durocher ejected by 3B umpire Bill Stewart after Dolph Camilli was called out on appeal for leaving 3B too soon","1939CIN.EVN.regular.comment.csv",32
-"CIN193908062",42,"$Willard Hershberger called for obstruction during rundown","1939CIN.EVN.regular.comment.csv",33
-"CIN193908140",32,"ej,lombe101,P,goetl901,Fair/foul call ej,mckeb101,M,goetl901,Fair/foul call $Lombardi and McKechnie ejected by Goetz for arguing foul was GDP.","1939CIN.EVN.regular.comment.csv",34
-"CIN193908190",77,"game called for rain","1939CIN.EVN.regular.comment.csv",35
-"CIN193908201",57,"$Billy Werber muffed the throw and left with an injured right hand","1939CIN.EVN.regular.comment.csv",36
-"CIN193909151",74,"30 minute rain delay","1939CIN.EVN.regular.comment.csv",37
-"CIN193909152",62,"game called due to darkness","1939CIN.EVN.regular.comment.csv",38
-"CIN193909160",9,"ej,dannh101,P,dunnt901,Balls and strikes Harry Danning ejected by HP umpire Tom Dunn","1939CIN.EVN.regular.comment.csv",39
-"CIN193909200",51,"$Morrie Arnovich left after being struck on the face by the ball","1939CIN.EVN.regular.comment.csv",40
-"CIN193909210",47,"ej,arnom101,P,rearb901,Balls and strikes Morrie Arnovich ejected by HP umpire Beans Reardon after second called strike","1939CIN.EVN.regular.comment.csv",41
-"CIN193909231",75,"ej,rizzj101,P,campb901,HBP call $HP umpire Bick Campbell refused to allow Joe Bowman to take 1B after being hit by a pitch; after an argument from the the Pirates, Campbell changed his mind; Johnny Rizzo ejected during the argument by Campbell","1939CIN.EVN.regular.comment.csv",42
-"CIN193909231",77,"ej,vauga101,P,campb901,Balls and strikes $Arky Vaughan ejected by HP umpire Bick Campell arguing the second strike","1939CIN.EVN.regular.comment.csv",43
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"CIN193904170",0,"$The expected surge of water over the OF from nearby swollen streams didn't happen.","1939CIN.EVN.regular.comment.csv",2
+"CIN193904170",16,"$Brubaker's long throw struck Myers behind L ear. Myers, unconscious, was taken to hospital. Myers awakened in time to hear end of game on radio.","1939CIN.EVN.regular.comment.csv",3
+"CIN193904270",65,"The scorecard had this play scored FC1.3XH(142);B-1","1939CIN.EVN.regular.comment.csv",4
+"CIN193904270",66,"I am assuming this is how and when Leiber made his error.","1939CIN.EVN.regular.comment.csv",5
+"CIN193904280",34,"$Werber dropped the throw letting Hack take 2B.","1939CIN.EVN.regular.comment.csv",6
+"CIN193904280",47,"ej,bartd101,P,klemb901,Called third strike $Bartell ejected by Klem for arguing third strike","1939CIN.EVN.regular.comment.csv",7
+"CIN193905190",26,"15 minute rain delay","1939CIN.EVN.regular.comment.csv",8
+"CIN193905240",8,"$the ball was lost in the sun","1939CIN.EVN.regular.comment.csv",9
+"CIN193905240",38,"$onto the LF roof","1939CIN.EVN.regular.comment.csv",10
+"CIN193905250",30,"$onto the LF roof","1939CIN.EVN.regular.comment.csv",11
+"CIN193905250",38,"$Whitey Moore called for interference for running into his own bunt","1939CIN.EVN.regular.comment.csv",12
+"CIN193905290",0,"Protest=V","1939CIN.EVN.regular.comment.csv",13
+"CIN193905290",35,"$on a tag play at 2B, 3B umpire Bill Stewart ruled Ernie Lombardi out; 1B umpire George Magerkurth ruled Lombardi safe; Magerkurth prevailed and the Cubs protested the game","1939CIN.EVN.regular.comment.csv",14
+"CIN193905301",0,"$Game two of a morning/afternoon, separate admission double header","1939CIN.EVN.regular.comment.csv",15
+"CIN193905301",55,"$Willard Hershberger's throw struck 3B umpire Dolly Stark","1939CIN.EVN.regular.comment.csv",16
+"CIN193905302",0,"$Game two of a morning/afternoon, separate admission double header","1939CIN.EVN.regular.comment.csv",17
+"CIN193906170",59,"14 minute rain delay","1939CIN.EVN.regular.comment.csv",18
+"CIN193906230",57,"$missed squeeze","1939CIN.EVN.regular.comment.csv",19
+"CIN193906270",0,"$Attendance: paid 5181; 9823 ladies","1939CIN.EVN.regular.comment.csv",20
+"CIN193906270",65,"DWS: bunt assumed","1939CIN.EVN.regular.comment.csv",21
+"CIN193907050",40,"$Ival Goodman struck on the back of the head by the throw","1939CIN.EVN.regular.comment.csv",22
+"CIN193907060",0,"Protest=V","1939CIN.EVN.regular.comment.csv",23
+"CIN193907060",35,"$onto the LF roof","1939CIN.EVN.regular.comment.csv",24
+"CIN193907060",37,"$the Cardinals protest the game claiming that Ival Goodman was in the lineup turned in by the Reds at the start of the game","1939CIN.EVN.regular.comment.csv",25
+"CIN193907250",21,"could be 3/G?","1939CIN.EVN.regular.comment.csv",26
+"CIN193907250",46,"$Gamble and McCormick hit & run.","1939CIN.EVN.regular.comment.csv",27
+"CIN193907250",56,"could be 3/G","1939CIN.EVN.regular.comment.csv",28
+"CIN193907271",7,"$1B umpire Dolly Stark injured his groin","1939CIN.EVN.regular.comment.csv",29
+"CIN193907271",19,"umpchange,3,ump1b,goetl901 umpchange,3,ump3b,(None) $1B umpire Dolly Stark left with an injured groin; 3B umpire Larry Goetz moved to 1B","1939CIN.EVN.regular.comment.csv",30
+"CIN193907301",43,"$outfielder Joe Marty's only pitching appearance","1939CIN.EVN.regular.comment.csv",31
+"CIN193907302",36,"bunt assumed","1939CIN.EVN.regular.comment.csv",32
+"CIN193908050",45,"ej,durol101,M,stewb901,Call at 3B (Appeal) Dodgers Manager Leo Durocher ejected by 3B umpire Bill Stewart after Dolph Camilli was called out on appeal for leaving 3B too soon","1939CIN.EVN.regular.comment.csv",33
+"CIN193908062",42,"$Willard Hershberger called for obstruction during rundown","1939CIN.EVN.regular.comment.csv",34
+"CIN193908140",32,"ej,lombe101,P,goetl901,Fair/foul call ej,mckeb101,M,goetl901,Fair/foul call $Lombardi and McKechnie ejected by Goetz for arguing foul was GDP.","1939CIN.EVN.regular.comment.csv",35
+"CIN193908190",77,"game called for rain","1939CIN.EVN.regular.comment.csv",36
+"CIN193908201",57,"$Billy Werber muffed the throw and left with an injured right hand","1939CIN.EVN.regular.comment.csv",37
+"CIN193909151",74,"30 minute rain delay","1939CIN.EVN.regular.comment.csv",38
+"CIN193909152",62,"game called due to darkness","1939CIN.EVN.regular.comment.csv",39
+"CIN193909160",9,"ej,dannh101,P,dunnt901,Balls and strikes Harry Danning ejected by HP umpire Tom Dunn","1939CIN.EVN.regular.comment.csv",40
+"CIN193909200",51,"$Morrie Arnovich left after being struck on the face by the ball","1939CIN.EVN.regular.comment.csv",41
+"CIN193909210",47,"ej,arnom101,P,rearb901,Balls and strikes Morrie Arnovich ejected by HP umpire Beans Reardon after second called strike","1939CIN.EVN.regular.comment.csv",42
+"CIN193909231",75,"ej,rizzj101,P,campb901,HBP call $HP umpire Bick Campbell refused to allow Joe Bowman to take 1B after being hit by a pitch; after an argument from the the Pirates, Campbell changed his mind; Johnny Rizzo ejected during the argument by Campbell","1939CIN.EVN.regular.comment.csv",43
+"CIN193909231",77,"ej,vauga101,P,campb901,Balls and strikes $Arky Vaughan ejected by HP umpire Bick Campell arguing the second strike","1939CIN.EVN.regular.comment.csv",44

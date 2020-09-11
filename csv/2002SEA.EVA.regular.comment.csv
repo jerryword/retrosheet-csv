@@ -1,25 +1,26 @@
-"SEA200204020",43,"Cirillo spiked in knee by Lofton","FILENAME_TX","LINE_NUMBER_CT"
-"SEA200204020",66,"Debut game for Jon Rauch","2002SEA.EVA.regular.comment.csv",2
-"SEA200204030",78,"Debut game for Luis Ugueto","2002SEA.EVA.regular.comment.csv",3
-"SEA200204280",58,"$the famous 'walk, but slid over base play'; Jeter gets out by persuading umpire; argument but no ejections","2002SEA.EVA.regular.comment.csv",4
-"SEA200205070",30,"scores 'on throw' - no RBI","2002SEA.EVA.regular.comment.csv",5
-"SEA200205070",60,"Debut game for Julio Mateo","2002SEA.EVA.regular.comment.csv",6
-"SEA200205090",79,"Debut game for Justin Kaye","2002SEA.EVA.regular.comment.csv",7
-"SEA200205100",56,"Debut game for Rafael Soriano","2002SEA.EVA.regular.comment.csv",8
-"SEA200205220",27,"fielding is correct","2002SEA.EVA.regular.comment.csv",9
-"SEA200205220",36,"another strange one, fielding OK","2002SEA.EVA.regular.comment.csv",10
-"SEA200205220",45,"$Cameron rounded third and was caught coming back","2002SEA.EVA.regular.comment.csv",11
-"SEA200205250",18,"Debut game for Chris Snelling","2002SEA.EVA.regular.comment.csv",12
-"SEA200206100",20,"Debut game for So Taguchi","2002SEA.EVA.regular.comment.csv",13
-"SEA200207010",31,"ej,beltc001,P,eddid901,Called third strike Carlos Beltran ejected by HP umpire Doug Eddings","2002SEA.EVA.regular.comment.csv",14
-"SEA200207260",63,"$acrobatic play by Eckstein off deflection by Lackey","2002SEA.EVA.regular.comment.csv",15
-"SEA200207300",22,"$John Halama caught runner, ran at & tagged him","2002SEA.EVA.regular.comment.csv",16
-"SEA200207300",75,"ej,cirij001,P,mealj901,Called third strike Jeff Cirillo ejected by HP umpire Jerry Meals","2002SEA.EVA.regular.comment.csv",17
-"SEA200209010",81,"Debut game for Willie Bloomquist","2002SEA.EVA.regular.comment.csv",18
-"SEA200209160",14,"ej,rodri001,P,carlm901,Called third strike Ivan Rodriguez ejected by HP umpire Mark Carlson","2002SEA.EVA.regular.comment.csv",19
-"SEA200209170",71,"ej,powej001,P,hirsj901,Balls and strikes Jay Powell ejected by HP umpire John Hirschbeck","2002SEA.EVA.regular.comment.csv",20
-"SEA200209170",79,"$the ball bounced over the wall but Rule 10.07(f) made it a single","2002SEA.EVA.regular.comment.csv",21
-"SEA200209180",82,"ej,pinil001,M,buckc901,Call at 1B Mariners manager Lou Piniella ejected by CB Bucknor after call at 1B; Piniella threw his hat, kicked his hat, kicked the infield dirt and threw the 1B bag down the RF line twice; 1B coach John McLaren restrained him from getting to Bucknor; after the game, Piniella admitted that his hamstring & right shoulder hurt","2002SEA.EVA.regular.comment.csv",22
-"SEA200209190",1,"Debut game for Ben Kozlowski","2002SEA.EVA.regular.comment.csv",23
-"SEA200209210",15,"ej,perrg001,C,guccc901,Checked swing $Mariners coach Perry ejected by HP umpire Guccione for arguing checked swing strike 3 by Cameron","2002SEA.EVA.regular.comment.csv",24
-"SEA200209260",65,"ej,nelsj001,P,mcclt901,Balls and strikes Jeff Nelson ejected by HP umpire Tim McClelland","2002SEA.EVA.regular.comment.csv",25
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"SEA200204020",43,"Cirillo spiked in knee by Lofton","2002SEA.EVA.regular.comment.csv",2
+"SEA200204020",66,"Debut game for Jon Rauch","2002SEA.EVA.regular.comment.csv",3
+"SEA200204030",78,"Debut game for Luis Ugueto","2002SEA.EVA.regular.comment.csv",4
+"SEA200204280",58,"$the famous 'walk, but slid over base play'; Jeter gets out by persuading umpire; argument but no ejections","2002SEA.EVA.regular.comment.csv",5
+"SEA200205070",30,"scores 'on throw' - no RBI","2002SEA.EVA.regular.comment.csv",6
+"SEA200205070",60,"Debut game for Julio Mateo","2002SEA.EVA.regular.comment.csv",7
+"SEA200205090",79,"Debut game for Justin Kaye","2002SEA.EVA.regular.comment.csv",8
+"SEA200205100",56,"Debut game for Rafael Soriano","2002SEA.EVA.regular.comment.csv",9
+"SEA200205220",27,"fielding is correct","2002SEA.EVA.regular.comment.csv",10
+"SEA200205220",36,"another strange one, fielding OK","2002SEA.EVA.regular.comment.csv",11
+"SEA200205220",45,"$Cameron rounded third and was caught coming back","2002SEA.EVA.regular.comment.csv",12
+"SEA200205250",18,"Debut game for Chris Snelling","2002SEA.EVA.regular.comment.csv",13
+"SEA200206100",20,"Debut game for So Taguchi","2002SEA.EVA.regular.comment.csv",14
+"SEA200207010",31,"ej,beltc001,P,eddid901,Called third strike Carlos Beltran ejected by HP umpire Doug Eddings","2002SEA.EVA.regular.comment.csv",15
+"SEA200207260",63,"$acrobatic play by Eckstein off deflection by Lackey","2002SEA.EVA.regular.comment.csv",16
+"SEA200207300",22,"$John Halama caught runner, ran at & tagged him","2002SEA.EVA.regular.comment.csv",17
+"SEA200207300",75,"ej,cirij001,P,mealj901,Called third strike Jeff Cirillo ejected by HP umpire Jerry Meals","2002SEA.EVA.regular.comment.csv",18
+"SEA200209010",81,"Debut game for Willie Bloomquist","2002SEA.EVA.regular.comment.csv",19
+"SEA200209160",14,"ej,rodri001,P,carlm901,Called third strike Ivan Rodriguez ejected by HP umpire Mark Carlson","2002SEA.EVA.regular.comment.csv",20
+"SEA200209170",71,"ej,powej001,P,hirsj901,Balls and strikes Jay Powell ejected by HP umpire John Hirschbeck","2002SEA.EVA.regular.comment.csv",21
+"SEA200209170",79,"$the ball bounced over the wall but Rule 10.07(f) made it a single","2002SEA.EVA.regular.comment.csv",22
+"SEA200209180",82,"ej,pinil001,M,buckc901,Call at 1B Mariners manager Lou Piniella ejected by CB Bucknor after call at 1B; Piniella threw his hat, kicked his hat, kicked the infield dirt and threw the 1B bag down the RF line twice; 1B coach John McLaren restrained him from getting to Bucknor; after the game, Piniella admitted that his hamstring & right shoulder hurt","2002SEA.EVA.regular.comment.csv",23
+"SEA200209190",1,"Debut game for Ben Kozlowski","2002SEA.EVA.regular.comment.csv",24
+"SEA200209210",15,"ej,perrg001,C,guccc901,Checked swing $Mariners coach Perry ejected by HP umpire Guccione for arguing checked swing strike 3 by Cameron","2002SEA.EVA.regular.comment.csv",25
+"SEA200209260",65,"ej,nelsj001,P,mcclt901,Balls and strikes Jeff Nelson ejected by HP umpire Tim McClelland","2002SEA.EVA.regular.comment.csv",26

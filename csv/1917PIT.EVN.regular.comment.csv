@@ -1,45 +1,46 @@
-"PIT191704190",36,"Bigbee slipped on wet grass.","FILENAME_TX","LINE_NUMBER_CT"
-"PIT191704280",60,"Thorpe's throw got past catcher but pitcher backed up play.","1917PIT.EVN.regular.comment.csv",2
-"PIT191705301",46,"$Bigbee apparently replaced for failing to score.","1917PIT.EVN.regular.comment.csv",3
-"PIT191705301",80,"$No sacrifice credited","1917PIT.EVN.regular.comment.csv",4
-"PIT191706110",42,"$Advanced to third on Pitler's obstruction","1917PIT.EVN.regular.comment.csv",5
-"PIT191706130",30,"Hit and run","1917PIT.EVN.regular.comment.csv",6
-"PIT191706140",27,"Bad throw on rundown of Zimmerman.","1917PIT.EVN.regular.comment.csv",7
-"PIT191706160",67,"Bunt was pushed past infielders.","1917PIT.EVN.regular.comment.csv",8
-"PIT191706232",21,"$Carey reported as being 'lame.'","1917PIT.EVN.regular.comment.csv",9
-"PIT191706232",79,"ej,calln101,M.harrp901,Balk non-call $Pirates manager Callahan ejected by HP umpire Harrison for arguing that Hendrix had balked","1917PIT.EVN.regular.comment.csv",10
-"PIT191706260",17,"$Error on fly ball, but runner on 3rd out trying to return","1917PIT.EVN.regular.comment.csv",11
-"PIT191706280",42,"ej,tonef101,P,byrol901,Balls and strikes $Pitcher Toney ejected by HP umpire Byron for arguing balls and strikes","1917PIT.EVN.regular.comment.csv",12
-"PIT191706290",27,"Attempted double steal.","1917PIT.EVN.regular.comment.csv",13
-"PIT191706300",72,"$Out at third on appeal-runner left too soon. Pitler caught ball in short right running back","1917PIT.EVN.regular.comment.csv",14
-"PIT191707020",20,"$Wagner's throw went into center; runner held second, but Carey's return throw was wild.","1917PIT.EVN.regular.comment.csv",15
-"PIT191707041",24,"ej,barid101,P,harrp901,Call at 3B $3bman Baird ejected by base umpire Harrison for arguing runner was out at 3rd","1917PIT.EVN.regular.comment.csv",16
-"PIT191707041",43,"Packard covered third.","1917PIT.EVN.regular.comment.csv",17
-"PIT191707250",29,"Hit and run.","1917PIT.EVN.regular.comment.csv",18
-"PIT191707250",62,"Inside park","1917PIT.EVN.regular.comment.csv",19
-"PIT191707261",22,"Hit and run.","1917PIT.EVN.regular.comment.csv",20
-"PIT191707262",1,"Boeckel hit in face by bad hop.","1917PIT.EVN.regular.comment.csv",21
-"PIT191707270",17,"Ward called out for going out of baseline after missing home","1917PIT.EVN.regular.comment.csv",22
-"PIT191707281",57,"Hit and run.  Steele made bad relay throw.","1917PIT.EVN.regular.comment.csv",23
-"PIT191707311",64,"Hit and run","1917PIT.EVN.regular.comment.csv",24
-"PIT191707311",86,"Defensive indifference","1917PIT.EVN.regular.comment.csv",25
-"PIT191707312",57,"ej,zimmh101,P,klemb901,Arguing foul ball call $Zimmerman ejected by HP umpire Klem for arguing foul ball call; at bat completed by Lobert","1917PIT.EVN.regular.comment.csv",26
-"PIT191708040",3,"Stole on pickoff attempt.","1917PIT.EVN.regular.comment.csv",27
-"PIT191708090",8,"Hit and run","1917PIT.EVN.regular.comment.csv",28
-"PIT191708090",57,"ej,everj102,P,riglc901,Balls and strikes $Phillies Evers ejected by HP umpire Rigler at end of 7th for arguing strike call when he batted in 6th","1917PIT.EVN.regular.comment.csv",29
-"PIT191708112",66,"Steele entered game with 2-0 count on Evers.","1917PIT.EVN.regular.comment.csv",30
-"PIT191708150",34,"Wagner hit with own batted ball.","1917PIT.EVN.regular.comment.csv",31
-"PIT191708312",26,"30 minute time out due to darkness.","1917PIT.EVN.regular.comment.csv",32
-"PIT191708312",37,"Game called due to rain.","1917PIT.EVN.regular.comment.csv",33
-"PIT191709011",58,"Bottom of 8th missing from paper.","1917PIT.EVN.regular.comment.csv",34
-"PIT191709031",54,"Carey dropped fly intentionally.","1917PIT.EVN.regular.comment.csv",35
-"PIT191709032",40,"Fischer hurt leg.","1917PIT.EVN.regular.comment.csv",36
-"PIT191709032",53,"Steele stopped running, so Chase got cute.","1917PIT.EVN.regular.comment.csv",37
-"PIT191709080",69,"Wilson missed ball on squeeze play.","1917PIT.EVN.regular.comment.csv",38
-"PIT191709182",40,"ej,meyec101,P,klemb901,Fighting ej,kingl103,P,klemb901,Fighting ej,jacoe013,P,klemb901,Fighting $Catcher Meyers ejected by HP umpire Klem for kicking King while King was being retired; brawl followed and fans threw bottles; King and Pirates Jacobs, not in game, also ejected by Klem ","1917PIT.EVN.regular.comment.csv",39
-"PIT191709192",36,"$After Boeckel scored on fly, Kelly threw wildly and King  scored but was called out for leaving second early on appeal","1917PIT.EVN.regular.comment.csv",40
-"PIT191709200",102,"Game called due to darkness.","1917PIT.EVN.regular.comment.csv",41
-"PIT191709210",14,"ej,bezdh801,M,klemb901,Balls and strikes $Pirates manager Bezdek ejected by HP umpire Klem for arguing balls and strikes","1917PIT.EVN.regular.comment.csv",42
-"PIT191709240",0,"Wagner and Webb hurt in exhibition game prev. day, Caton hurt before game and Ward has sore arm.","1917PIT.EVN.regular.comment.csv",43
-"PIT191709260",32,"Schmidt hurt by foul ball.","1917PIT.EVN.regular.comment.csv",44
-"PIT191710010",54,"Maranville covered home.","1917PIT.EVN.regular.comment.csv",45
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"PIT191704190",36,"Bigbee slipped on wet grass.","1917PIT.EVN.regular.comment.csv",2
+"PIT191704280",60,"Thorpe's throw got past catcher but pitcher backed up play.","1917PIT.EVN.regular.comment.csv",3
+"PIT191705301",46,"$Bigbee apparently replaced for failing to score.","1917PIT.EVN.regular.comment.csv",4
+"PIT191705301",80,"$No sacrifice credited","1917PIT.EVN.regular.comment.csv",5
+"PIT191706110",42,"$Advanced to third on Pitler's obstruction","1917PIT.EVN.regular.comment.csv",6
+"PIT191706130",30,"Hit and run","1917PIT.EVN.regular.comment.csv",7
+"PIT191706140",27,"Bad throw on rundown of Zimmerman.","1917PIT.EVN.regular.comment.csv",8
+"PIT191706160",67,"Bunt was pushed past infielders.","1917PIT.EVN.regular.comment.csv",9
+"PIT191706232",21,"$Carey reported as being 'lame.'","1917PIT.EVN.regular.comment.csv",10
+"PIT191706232",79,"ej,calln101,M.harrp901,Balk non-call $Pirates manager Callahan ejected by HP umpire Harrison for arguing that Hendrix had balked","1917PIT.EVN.regular.comment.csv",11
+"PIT191706260",17,"$Error on fly ball, but runner on 3rd out trying to return","1917PIT.EVN.regular.comment.csv",12
+"PIT191706280",42,"ej,tonef101,P,byrol901,Balls and strikes $Pitcher Toney ejected by HP umpire Byron for arguing balls and strikes","1917PIT.EVN.regular.comment.csv",13
+"PIT191706290",27,"Attempted double steal.","1917PIT.EVN.regular.comment.csv",14
+"PIT191706300",72,"$Out at third on appeal-runner left too soon. Pitler caught ball in short right running back","1917PIT.EVN.regular.comment.csv",15
+"PIT191707020",20,"$Wagner's throw went into center; runner held second, but Carey's return throw was wild.","1917PIT.EVN.regular.comment.csv",16
+"PIT191707041",24,"ej,barid101,P,harrp901,Call at 3B $3bman Baird ejected by base umpire Harrison for arguing runner was out at 3rd","1917PIT.EVN.regular.comment.csv",17
+"PIT191707041",43,"Packard covered third.","1917PIT.EVN.regular.comment.csv",18
+"PIT191707250",29,"Hit and run.","1917PIT.EVN.regular.comment.csv",19
+"PIT191707250",62,"Inside park","1917PIT.EVN.regular.comment.csv",20
+"PIT191707261",22,"Hit and run.","1917PIT.EVN.regular.comment.csv",21
+"PIT191707262",1,"Boeckel hit in face by bad hop.","1917PIT.EVN.regular.comment.csv",22
+"PIT191707270",17,"Ward called out for going out of baseline after missing home","1917PIT.EVN.regular.comment.csv",23
+"PIT191707281",57,"Hit and run.  Steele made bad relay throw.","1917PIT.EVN.regular.comment.csv",24
+"PIT191707311",64,"Hit and run","1917PIT.EVN.regular.comment.csv",25
+"PIT191707311",86,"Defensive indifference","1917PIT.EVN.regular.comment.csv",26
+"PIT191707312",57,"ej,zimmh101,P,klemb901,Arguing foul ball call $Zimmerman ejected by HP umpire Klem for arguing foul ball call; at bat completed by Lobert","1917PIT.EVN.regular.comment.csv",27
+"PIT191708040",3,"Stole on pickoff attempt.","1917PIT.EVN.regular.comment.csv",28
+"PIT191708090",8,"Hit and run","1917PIT.EVN.regular.comment.csv",29
+"PIT191708090",57,"ej,everj102,P,riglc901,Balls and strikes $Phillies Evers ejected by HP umpire Rigler at end of 7th for arguing strike call when he batted in 6th","1917PIT.EVN.regular.comment.csv",30
+"PIT191708112",66,"Steele entered game with 2-0 count on Evers.","1917PIT.EVN.regular.comment.csv",31
+"PIT191708150",34,"Wagner hit with own batted ball.","1917PIT.EVN.regular.comment.csv",32
+"PIT191708312",26,"30 minute time out due to darkness.","1917PIT.EVN.regular.comment.csv",33
+"PIT191708312",37,"Game called due to rain.","1917PIT.EVN.regular.comment.csv",34
+"PIT191709011",58,"Bottom of 8th missing from paper.","1917PIT.EVN.regular.comment.csv",35
+"PIT191709031",54,"Carey dropped fly intentionally.","1917PIT.EVN.regular.comment.csv",36
+"PIT191709032",40,"Fischer hurt leg.","1917PIT.EVN.regular.comment.csv",37
+"PIT191709032",53,"Steele stopped running, so Chase got cute.","1917PIT.EVN.regular.comment.csv",38
+"PIT191709080",69,"Wilson missed ball on squeeze play.","1917PIT.EVN.regular.comment.csv",39
+"PIT191709182",40,"ej,meyec101,P,klemb901,Fighting ej,kingl103,P,klemb901,Fighting ej,jacoe013,P,klemb901,Fighting $Catcher Meyers ejected by HP umpire Klem for kicking King while King was being retired; brawl followed and fans threw bottles; King and Pirates Jacobs, not in game, also ejected by Klem ","1917PIT.EVN.regular.comment.csv",40
+"PIT191709192",36,"$After Boeckel scored on fly, Kelly threw wildly and King  scored but was called out for leaving second early on appeal","1917PIT.EVN.regular.comment.csv",41
+"PIT191709200",102,"Game called due to darkness.","1917PIT.EVN.regular.comment.csv",42
+"PIT191709210",14,"ej,bezdh801,M,klemb901,Balls and strikes $Pirates manager Bezdek ejected by HP umpire Klem for arguing balls and strikes","1917PIT.EVN.regular.comment.csv",43
+"PIT191709240",0,"Wagner and Webb hurt in exhibition game prev. day, Caton hurt before game and Ward has sore arm.","1917PIT.EVN.regular.comment.csv",44
+"PIT191709260",32,"Schmidt hurt by foul ball.","1917PIT.EVN.regular.comment.csv",45
+"PIT191710010",54,"Maranville covered home.","1917PIT.EVN.regular.comment.csv",46

@@ -1,34 +1,35 @@
-"CIN200004030",48,"$Game called for rain","FILENAME_TX","LINE_NUMBER_CT"
-"CIN200004040",67,"Debut game for Hector Mercado","2000CIN.EVN.regular.comment.csv",2
-"CIN200004050",55,"Debut game for David Cromer","2000CIN.EVN.regular.comment.csv",3
-"CIN200004050",66,"Debut game for Matt T. Williams","2000CIN.EVN.regular.comment.csv",4
-"CIN200004080",1,"Debut game for Rob Bell","2000CIN.EVN.regular.comment.csv",5
-"CIN200004090",1,"Debut game for Scott Downs","2000CIN.EVN.regular.comment.csv",6
-"CIN200004090",75,"Debut game for Daniel Garibay","2000CIN.EVN.regular.comment.csv",7
-"CIN200004090",84,"ej,giraj001,P,reynj901,Call at 2B Joe Girardi ejected by 2B umpire Jim Reynolds","2000CIN.EVN.regular.comment.csv",8
-"CIN200005070",71,"ej,dunss001,P,shulj901,Balls and strikes Shawon Dunston ejected by HP umpire John Shulock","2000CIN.EVN.regular.comment.csv",9
-"CIN200005110",51,"IPHR","2000CIN.EVN.regular.comment.csv",10
-"CIN200005110",90,"$both Boones homer in the same game","2000CIN.EVN.regular.comment.csv",11
-"CIN200005270",0,"45 minute rain delay in the sixth","2000CIN.EVN.regular.comment.csv",12
-"CIN200006070",3,"DV chg from S8.B-3(E8) and another on 6-9","2000CIN.EVN.regular.comment.csv",13
-"CIN200006210",66,"May have subbed earlier without PH","2000CIN.EVN.regular.comment.csv",14
-"CIN200006230",17,"Debut game for Kevin Nicholson","2000CIN.EVN.regular.comment.csv",15
-"CIN200007090",61,"ej,grifk002,P,klemj901,Balls and strikes Ken Griffey ejected by HP umpire Justin Klemm","2000CIN.EVN.regular.comment.csv",16
-"CIN200007230",41,"apparently E3 allowed Griffey to 3rd, then out at home","2000CIN.EVN.regular.comment.csv",17
-"CIN200007240",63,"Debut game for Wayne Franklin","2000CIN.EVN.regular.comment.csv",18
-"CIN200008040",57,"need FLE4 in this inning","2000CIN.EVN.regular.comment.csv",19
-"CIN200008050",0,"26 minute rain delay in the seventh","2000CIN.EVN.regular.comment.csv",20
-"CIN200008070",47,"$Jordan pulled ball back","2000CIN.EVN.regular.comment.csv",21
-"CIN200008070",81,"$Jordan caught foul against wall which was ruled a catch and then a trap","2000CIN.EVN.regular.comment.csv",22
-"CIN200008080",1,"Yep, this is a bunt double","2000CIN.EVN.regular.comment.csv",23
-"CIN200008080",38,"$Jordan left with groin pull","2000CIN.EVN.regular.comment.csv",24
-"CIN200008090",58,"multiple sources confirm odd-looking fielding on DP","2000CIN.EVN.regular.comment.csv",25
-"CIN200008180",60,"$Bichette charged but missed the ball and it rolled to the wall","2000CIN.EVN.regular.comment.csv",26
-"CIN200008210",26,"$Larkin's 2000th career hit","2000CIN.EVN.regular.comment.csv",27
-"CIN200008220",70,"$Griffey going on pitch, didn't look back","2000CIN.EVN.regular.comment.csv",28
-"CIN200009030",71,"Debut game for Brady Clark","2000CIN.EVN.regular.comment.csv",29
-"CIN200009110",42,"apparently a pop that wouldn't let Sosa advance","2000CIN.EVN.regular.comment.csv",30
-"CIN200009110",65,"$Griffey strained his left hamstring as he rounded 3B and crashed into catcher Girardi","2000CIN.EVN.regular.comment.csv",31
-"CIN200009130",2,"$Young's 26th consecutive SB","2000CIN.EVN.regular.comment.csv",32
-"CIN200009220",22,"$Lima's 47th homer surrendered for new NL record","2000CIN.EVN.regular.comment.csv",33
-"CIN200009230",0,"1:52 rain delay in the eighth","2000CIN.EVN.regular.comment.csv",34
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"CIN200004030",48,"$Game called for rain","2000CIN.EVN.regular.comment.csv",2
+"CIN200004040",67,"Debut game for Hector Mercado","2000CIN.EVN.regular.comment.csv",3
+"CIN200004050",55,"Debut game for David Cromer","2000CIN.EVN.regular.comment.csv",4
+"CIN200004050",66,"Debut game for Matt T. Williams","2000CIN.EVN.regular.comment.csv",5
+"CIN200004080",1,"Debut game for Rob Bell","2000CIN.EVN.regular.comment.csv",6
+"CIN200004090",1,"Debut game for Scott Downs","2000CIN.EVN.regular.comment.csv",7
+"CIN200004090",75,"Debut game for Daniel Garibay","2000CIN.EVN.regular.comment.csv",8
+"CIN200004090",84,"ej,giraj001,P,reynj901,Call at 2B Joe Girardi ejected by 2B umpire Jim Reynolds","2000CIN.EVN.regular.comment.csv",9
+"CIN200005070",71,"ej,dunss001,P,shulj901,Balls and strikes Shawon Dunston ejected by HP umpire John Shulock","2000CIN.EVN.regular.comment.csv",10
+"CIN200005110",51,"IPHR","2000CIN.EVN.regular.comment.csv",11
+"CIN200005110",90,"$both Boones homer in the same game","2000CIN.EVN.regular.comment.csv",12
+"CIN200005270",0,"45 minute rain delay in the sixth","2000CIN.EVN.regular.comment.csv",13
+"CIN200006070",3,"DV chg from S8.B-3(E8) and another on 6-9","2000CIN.EVN.regular.comment.csv",14
+"CIN200006210",66,"May have subbed earlier without PH","2000CIN.EVN.regular.comment.csv",15
+"CIN200006230",17,"Debut game for Kevin Nicholson","2000CIN.EVN.regular.comment.csv",16
+"CIN200007090",61,"ej,grifk002,P,klemj901,Balls and strikes Ken Griffey ejected by HP umpire Justin Klemm","2000CIN.EVN.regular.comment.csv",17
+"CIN200007230",41,"apparently E3 allowed Griffey to 3rd, then out at home","2000CIN.EVN.regular.comment.csv",18
+"CIN200007240",63,"Debut game for Wayne Franklin","2000CIN.EVN.regular.comment.csv",19
+"CIN200008040",57,"need FLE4 in this inning","2000CIN.EVN.regular.comment.csv",20
+"CIN200008050",0,"26 minute rain delay in the seventh","2000CIN.EVN.regular.comment.csv",21
+"CIN200008070",47,"$Jordan pulled ball back","2000CIN.EVN.regular.comment.csv",22
+"CIN200008070",81,"$Jordan caught foul against wall which was ruled a catch and then a trap","2000CIN.EVN.regular.comment.csv",23
+"CIN200008080",1,"Yep, this is a bunt double","2000CIN.EVN.regular.comment.csv",24
+"CIN200008080",38,"$Jordan left with groin pull","2000CIN.EVN.regular.comment.csv",25
+"CIN200008090",58,"multiple sources confirm odd-looking fielding on DP","2000CIN.EVN.regular.comment.csv",26
+"CIN200008180",60,"$Bichette charged but missed the ball and it rolled to the wall","2000CIN.EVN.regular.comment.csv",27
+"CIN200008210",26,"$Larkin's 2000th career hit","2000CIN.EVN.regular.comment.csv",28
+"CIN200008220",70,"$Griffey going on pitch, didn't look back","2000CIN.EVN.regular.comment.csv",29
+"CIN200009030",71,"Debut game for Brady Clark","2000CIN.EVN.regular.comment.csv",30
+"CIN200009110",42,"apparently a pop that wouldn't let Sosa advance","2000CIN.EVN.regular.comment.csv",31
+"CIN200009110",65,"$Griffey strained his left hamstring as he rounded 3B and crashed into catcher Girardi","2000CIN.EVN.regular.comment.csv",32
+"CIN200009130",2,"$Young's 26th consecutive SB","2000CIN.EVN.regular.comment.csv",33
+"CIN200009220",22,"$Lima's 47th homer surrendered for new NL record","2000CIN.EVN.regular.comment.csv",34
+"CIN200009230",0,"1:52 rain delay in the eighth","2000CIN.EVN.regular.comment.csv",35

@@ -1,40 +1,41 @@
-"CHN192907300",9,"$Grimm fell but threw out runner from a sitting position","FILENAME_TX","LINE_NUMBER_CT"
-"CHN192907300",14,"Deflected by Cunningham","1929.EDN.regular.comment.csv",2
-"CHN192907300",30,"Over LF wall","1929.EDN.regular.comment.csv",3
-"CHN192907300",38,"Hornsby: good play","1929.EDN.regular.comment.csv",4
-"CHN192907020",83,"$Critz injured when Stephenson slid into him.","1929.EDN.regular.comment.csv",5
-"CHN192907020",87,"$Reds kept trying to spike Grimm in revenge for Critz.","1929.EDN.regular.comment.csv",6
-"CHN192907020",87,"ej,pittp101,P,jordl901,Fighting $Pittinger ejected by HP umpire Jorda for grabbing ball after inside pitch and throwing it into RF trying to hit Grimm","1929.EDN.regular.comment.csv",7
-"CHN192907041",79,"$Game called for rain","1929.EDN.regular.comment.csv",8
-"CHN192907042",6,"$Kelly called out for leaving third base too soon","1929.EDN.regular.comment.csv",9
-"CHN192907042",47,"ej,wilsh102,P,riglc901,Fighting ej,kolpr101,P,riglc901,Fighting $Wilson and Reds Kolp ejected by HP umpire Jorda for fighting when Wislon took offense to something he heard from the Reds dugout and ran into the dugout and starting punching","1929.EDN.regular.comment.csv",10
-"CHN192907042",76,"$McMillan twisted his ankle rounding first base","1929.EDN.regular.comment.csv",11
-"NY1192907141",63,"$Delker's line drive hit Jackson in the knee and he had to leave game","1929.EDN.regular.comment.csv",12
-"NY1192907112",40,"$Roush fumbles hit (E8), picked up by LF Fullis","1929.EDN.regular.comment.csv",13
-"NY1192907112",72,"pbp account ends here, rest deduced","1929.EDN.regular.comment.csv",14
-"NY1192907112",81,"No info on Stephenson error, but it did not put a man on","1929.EDN.regular.comment.csv",15
-"CHN192907260",6,"$Klein left third too soon and was out on appeal","1929.EDN.regular.comment.csv",16
-"CHN192907260",9,"No info on O'Doul error, but it did not put a man on","1929.EDN.regular.comment.csv",17
-"CHN192907260",21,"Need another out on the bases; not sure this was it","1929.EDN.regular.comment.csv",18
-"CHN192907260",28,"No info on when Davis replaced Lerian (hurt sliding into plate?)","1929.EDN.regular.comment.csv",19
-"CHN192907260",32,"Hard grounder takes a bad hop and hits Hurst in chest; Jonnard stays put","1929.EDN.regular.comment.csv",20
-"CHN192907260",83,"Heathcote makes a leaping catch against the screen","1929.EDN.regular.comment.csv",21
-"PHI192908210",71,"ej,bushd102,M,mccob104,Non-ejection of opponent (Threw bat) $Pitcher Bush ejected by HP umpire McCormick for arguing that that Hurst should have been ejected for throwing his bat after grounding out; During the argument Bush threw Hurst's bat","1929.EDN.regular.comment.csv",22
-"SLN192909082",53,"$Game called for darkness","1929.EDN.regular.comment.csv",23
-"SLN192909152",13,"$Douthit hurt his hand diving for a ball in the first inning","1929.EDN.regular.comment.csv",24
-"SLN192906140",0,"$Regular start time at 3:20 o'clock delayed by 1 hr 13 minutes.","1929.EDN.regular.comment.csv",25
-"SLN192906140",42,"Ball hit over pavilion roof.","1929.EDN.regular.comment.csv",26
-"SLN192906140",53,"Orsatti's threw ball into the stands.","1929.EDN.regular.comment.csv",27
-"SLN192906140",68,"Perfectly placed bunt by Clark.","1929.EDN.regular.comment.csv",28
-"SLN192906162",2,"No info on Wilson error, but it likely (not certain) did not put a man on","1929.EDN.regular.comment.csv",29
-"SLN192906162",38,"No info on Bottomley error, but it likely (not certain) put a man on","1929.EDN.regular.comment.csv",30
-"SLN192906162",86,"Seibold comes in with 2-0 count on Hafey","1929.EDN.regular.comment.csv",31
-"BSN192906252",85,"$two runners at 3b","1929.EDN.regular.comment.csv",32
-"BSN192906252",88,"$Hurst thought RF caught ball","1929.EDN.regular.comment.csv",33
-"BSN192907042",1,"$Bob Smith, a pitcher, plays SS due to injuries to usual ones","1929.EDN.regular.comment.csv",34
-"BSN192907042",29,"$Roush is hurting","1929.EDN.regular.comment.csv",35
-"BSN192908160",0,"2,400 Ladies Day guests","1929.EDN.regular.comment.csv",36
-"BSN192908160",31,"$Richbourg leaves second too soon and is out on appeal","1929.EDN.regular.comment.csv",37
-"CHN192909080",2,"Ball deflected off pitcher.","1929.EDN.regular.comment.csv",38
-"CHN192909080",45,"$Spohrer replaced after taking foul tip off right hand.","1929.EDN.regular.comment.csv",39
-"CHN192909080",65,"Off the wall.","1929.EDN.regular.comment.csv",40
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"CHN192907300",9,"$Grimm fell but threw out runner from a sitting position","1929.EDN.regular.comment.csv",2
+"CHN192907300",14,"Deflected by Cunningham","1929.EDN.regular.comment.csv",3
+"CHN192907300",30,"Over LF wall","1929.EDN.regular.comment.csv",4
+"CHN192907300",38,"Hornsby: good play","1929.EDN.regular.comment.csv",5
+"CHN192907020",83,"$Critz injured when Stephenson slid into him.","1929.EDN.regular.comment.csv",6
+"CHN192907020",87,"$Reds kept trying to spike Grimm in revenge for Critz.","1929.EDN.regular.comment.csv",7
+"CHN192907020",87,"ej,pittp101,P,jordl901,Fighting $Pittinger ejected by HP umpire Jorda for grabbing ball after inside pitch and throwing it into RF trying to hit Grimm","1929.EDN.regular.comment.csv",8
+"CHN192907041",79,"$Game called for rain","1929.EDN.regular.comment.csv",9
+"CHN192907042",6,"$Kelly called out for leaving third base too soon","1929.EDN.regular.comment.csv",10
+"CHN192907042",47,"ej,wilsh102,P,riglc901,Fighting ej,kolpr101,P,riglc901,Fighting $Wilson and Reds Kolp ejected by HP umpire Jorda for fighting when Wislon took offense to something he heard from the Reds dugout and ran into the dugout and starting punching","1929.EDN.regular.comment.csv",11
+"CHN192907042",76,"$McMillan twisted his ankle rounding first base","1929.EDN.regular.comment.csv",12
+"NY1192907141",63,"$Delker's line drive hit Jackson in the knee and he had to leave game","1929.EDN.regular.comment.csv",13
+"NY1192907112",40,"$Roush fumbles hit (E8), picked up by LF Fullis","1929.EDN.regular.comment.csv",14
+"NY1192907112",72,"pbp account ends here, rest deduced","1929.EDN.regular.comment.csv",15
+"NY1192907112",81,"No info on Stephenson error, but it did not put a man on","1929.EDN.regular.comment.csv",16
+"CHN192907260",6,"$Klein left third too soon and was out on appeal","1929.EDN.regular.comment.csv",17
+"CHN192907260",9,"No info on O'Doul error, but it did not put a man on","1929.EDN.regular.comment.csv",18
+"CHN192907260",21,"Need another out on the bases; not sure this was it","1929.EDN.regular.comment.csv",19
+"CHN192907260",28,"No info on when Davis replaced Lerian (hurt sliding into plate?)","1929.EDN.regular.comment.csv",20
+"CHN192907260",32,"Hard grounder takes a bad hop and hits Hurst in chest; Jonnard stays put","1929.EDN.regular.comment.csv",21
+"CHN192907260",83,"Heathcote makes a leaping catch against the screen","1929.EDN.regular.comment.csv",22
+"PHI192908210",71,"ej,bushd102,M,mccob104,Non-ejection of opponent (Threw bat) $Pitcher Bush ejected by HP umpire McCormick for arguing that that Hurst should have been ejected for throwing his bat after grounding out; During the argument Bush threw Hurst's bat","1929.EDN.regular.comment.csv",23
+"SLN192909082",53,"$Game called for darkness","1929.EDN.regular.comment.csv",24
+"SLN192909152",13,"$Douthit hurt his hand diving for a ball in the first inning","1929.EDN.regular.comment.csv",25
+"SLN192906140",0,"$Regular start time at 3:20 o'clock delayed by 1 hr 13 minutes.","1929.EDN.regular.comment.csv",26
+"SLN192906140",42,"Ball hit over pavilion roof.","1929.EDN.regular.comment.csv",27
+"SLN192906140",53,"Orsatti's threw ball into the stands.","1929.EDN.regular.comment.csv",28
+"SLN192906140",68,"Perfectly placed bunt by Clark.","1929.EDN.regular.comment.csv",29
+"SLN192906162",2,"No info on Wilson error, but it likely (not certain) did not put a man on","1929.EDN.regular.comment.csv",30
+"SLN192906162",38,"No info on Bottomley error, but it likely (not certain) put a man on","1929.EDN.regular.comment.csv",31
+"SLN192906162",86,"Seibold comes in with 2-0 count on Hafey","1929.EDN.regular.comment.csv",32
+"BSN192906252",85,"$two runners at 3b","1929.EDN.regular.comment.csv",33
+"BSN192906252",88,"$Hurst thought RF caught ball","1929.EDN.regular.comment.csv",34
+"BSN192907042",1,"$Bob Smith, a pitcher, plays SS due to injuries to usual ones","1929.EDN.regular.comment.csv",35
+"BSN192907042",29,"$Roush is hurting","1929.EDN.regular.comment.csv",36
+"BSN192908160",0,"2,400 Ladies Day guests","1929.EDN.regular.comment.csv",37
+"BSN192908160",31,"$Richbourg leaves second too soon and is out on appeal","1929.EDN.regular.comment.csv",38
+"CHN192909080",2,"Ball deflected off pitcher.","1929.EDN.regular.comment.csv",39
+"CHN192909080",45,"$Spohrer replaced after taking foul tip off right hand.","1929.EDN.regular.comment.csv",40
+"CHN192909080",65,"Off the wall.","1929.EDN.regular.comment.csv",41

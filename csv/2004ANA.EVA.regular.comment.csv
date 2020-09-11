@@ -1,38 +1,39 @@
-"ANA200405040",76,"Debut game for Matt Hensley","FILENAME_TX","LINE_NUMBER_CT"
-"ANA200405050",48,"ej,escok001,P,marqa901,Balls and strikes (after being removed) ej,sciom001,M,marqa901,Escobar's ejection $Pitcher Escobar ejected by HP umpire Marquez for arguing balls and strikes as he left field after being removed; Angels manager Scioscia argued with Marquez and was also ejected","2004ANA.EVA.regular.comment.csv",2
-"ANA200405080",27,"$Erstad left game with injured leg","2004ANA.EVA.regular.comment.csv",3
-"ANA200405090",14,"Debut game for Casey Kotchman","2004ANA.EVA.regular.comment.csv",4
-"ANA200405090",43,"$Perez ruptured Achilles tendon. Out for season","2004ANA.EVA.regular.comment.csv",5
-"ANA200405190",51,"ej,torrj101,M,timmt901,Balls and strikes Yankees Manager Joe Torre ejected by HP umpire Tim Timmons for arguing a called strike to Alex Rodriguez; Torre yelled that the pitch was low and motioned near the bottom of his shin near his ankle","2004ANA.EVA.regular.comment.csv",6
-"ANA200406030",23,"$Eckstein left game with injured leg","2004ANA.EVA.regular.comment.csv",7
-"ANA200406050",39,"Dawley left game with injured elbow","2004ANA.EVA.regular.comment.csv",8
-"ANA200406090",75,"Debut game for Dusty Bergman","2004ANA.EVA.regular.comment.csv",9
-"ANA200406100",47,"$Sele left game with injured neck","2004ANA.EVA.regular.comment.csv",10
-"ANA200406120",12,"$fan interference","2004ANA.EVA.regular.comment.csv",11
-"ANA200406210",78,"Debut game for Ramon Castro","2004ANA.EVA.regular.comment.csv",12
-"ANA200406230",29,"$Marco Scutaro called for interference","2004ANA.EVA.regular.comment.csv",13
-"ANA200407020",33,"ej,bradm001,P,hirsj901,Called third strike Milton Bradley ejected by HP umpire John Hirschbeck","2004ANA.EVA.regular.comment.csv",14
-"ANA200407030",17,"$Jackson left game with injured elbow","2004ANA.EVA.regular.comment.csv",15
-"ANA200407160",57,"ej,ortid001,P,hollm901,Called third strike David Ortiz ejected by HP umpire Matt Hollowell","2004ANA.EVA.regular.comment.csv",16
-"ANA200407180",40,"$HP umpire Kevin Kelley warned both teams","2004ANA.EVA.regular.comment.csv",17
-"ANA200407180",64,"ej,sciom001,M,kellk901,Arguing for ejection of Schilling $Angels manager Mike Scioscia argued that Curt Schilling should be ejected; Scioscia ejected by HP umpire Kevin Kelley","2004ANA.EVA.regular.comment.csv",18
-"ANA200407310",11,"Debut game for Jose Lopez","2004ANA.EVA.regular.comment.csv",19
-"ANA200407310",51,"Debut game for Scott Atchison","2004ANA.EVA.regular.comment.csv",20
-"ANA200407310",53,"$Guerrero left game with injured neck","2004ANA.EVA.regular.comment.csv",21
-"ANA200407310",64,"$B.Molina left game with injured hand","2004ANA.EVA.regular.comment.csv",22
-"ANA200408270",32,"$DaVanon left game with injured foot","2004ANA.EVA.regular.comment.csv",23
-"ANA200408270",34,"$Koskie left game with injured knee","2004ANA.EVA.regular.comment.csv",24
-"ANA200408290",21,"ej,sciom001,M,cuzzp901,Call at 2B $Angels Manager Mike Scioscia ejected by 2B umpire Phil Cuzzi","2004ANA.EVA.regular.comment.csv",25
-"ANA200408290",44,"$Silva left game with injured neck","2004ANA.EVA.regular.comment.csv",26
-"ANA200409100",61,"Debut game for Dallas McPherson","2004ANA.EVA.regular.comment.csv",27
-"ANA200409110",78,"Debut game for Scott Dunn","2004ANA.EVA.regular.comment.csv",28
-"ANA200409120",40,"$Erstad left game with injured back","2004ANA.EVA.regular.comment.csv",29
-"ANA200409190",59,"ej,almac001,P,rapue901,Balls and strikes Carlos Almanzar ejected by HP umpire Ed Rapuano","2004ANA.EVA.regular.comment.csv",30
-"ANA200409200",6,"ej,sciom001,M,bellw901,Argument after HBP $Angels manager scioscia ejected by HP umpire Bell for arguing that pitcher should have been ejected for intentionally hitting Guerrero on left side of head; X-rays at hospital were negative; both benches emptied and both teams warned","2004ANA.EVA.regular.comment.csv",31
-"ANA200409200",21,"$hit on right knee; no ejections","2004ANA.EVA.regular.comment.csv",32
-"ANA200409200",40,"$Kennedy left game with sprained knee","2004ANA.EVA.regular.comment.csv",33
-"ANA200409200",45,"$Winn left game with bruised knee","2004ANA.EVA.regular.comment.csv",34
-"ANA200409200",77,"ej,olivm001,P,bellw901,Call at HP (while catching) $Catcher Olivo ejected by HP umpire Bell for arguing runner was out at home","2004ANA.EVA.regular.comment.csv",35
-"ANA200409220",89,"Debut game for Rene Rivera","2004ANA.EVA.regular.comment.csv",36
-"ANA200409250",62,"$Guillen was not happy about being replaced; he threw his helmet towards the end of the dugout where Mgr Scioscia was standing, walked to and entered at the other end of the dugout, and threw his glove against the wall; he was suspended for the rest of the season the next day by the team","2004ANA.EVA.regular.comment.csv",37
-"ANA200409260",0,"$the Angels announced that Jose Guillen was suspended for the rest of the season due to his actions the previous day","2004ANA.EVA.regular.comment.csv",38
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"ANA200405040",76,"Debut game for Matt Hensley","2004ANA.EVA.regular.comment.csv",2
+"ANA200405050",48,"ej,escok001,P,marqa901,Balls and strikes (after being removed) ej,sciom001,M,marqa901,Escobar's ejection $Pitcher Escobar ejected by HP umpire Marquez for arguing balls and strikes as he left field after being removed; Angels manager Scioscia argued with Marquez and was also ejected","2004ANA.EVA.regular.comment.csv",3
+"ANA200405080",27,"$Erstad left game with injured leg","2004ANA.EVA.regular.comment.csv",4
+"ANA200405090",14,"Debut game for Casey Kotchman","2004ANA.EVA.regular.comment.csv",5
+"ANA200405090",43,"$Perez ruptured Achilles tendon. Out for season","2004ANA.EVA.regular.comment.csv",6
+"ANA200405190",51,"ej,torrj101,M,timmt901,Balls and strikes Yankees Manager Joe Torre ejected by HP umpire Tim Timmons for arguing a called strike to Alex Rodriguez; Torre yelled that the pitch was low and motioned near the bottom of his shin near his ankle","2004ANA.EVA.regular.comment.csv",7
+"ANA200406030",23,"$Eckstein left game with injured leg","2004ANA.EVA.regular.comment.csv",8
+"ANA200406050",39,"Dawley left game with injured elbow","2004ANA.EVA.regular.comment.csv",9
+"ANA200406090",75,"Debut game for Dusty Bergman","2004ANA.EVA.regular.comment.csv",10
+"ANA200406100",47,"$Sele left game with injured neck","2004ANA.EVA.regular.comment.csv",11
+"ANA200406120",12,"$fan interference","2004ANA.EVA.regular.comment.csv",12
+"ANA200406210",78,"Debut game for Ramon Castro","2004ANA.EVA.regular.comment.csv",13
+"ANA200406230",29,"$Marco Scutaro called for interference","2004ANA.EVA.regular.comment.csv",14
+"ANA200407020",33,"ej,bradm001,P,hirsj901,Called third strike Milton Bradley ejected by HP umpire John Hirschbeck","2004ANA.EVA.regular.comment.csv",15
+"ANA200407030",17,"$Jackson left game with injured elbow","2004ANA.EVA.regular.comment.csv",16
+"ANA200407160",57,"ej,ortid001,P,hollm901,Called third strike David Ortiz ejected by HP umpire Matt Hollowell","2004ANA.EVA.regular.comment.csv",17
+"ANA200407180",40,"$HP umpire Kevin Kelley warned both teams","2004ANA.EVA.regular.comment.csv",18
+"ANA200407180",64,"ej,sciom001,M,kellk901,Arguing for ejection of Schilling $Angels manager Mike Scioscia argued that Curt Schilling should be ejected; Scioscia ejected by HP umpire Kevin Kelley","2004ANA.EVA.regular.comment.csv",19
+"ANA200407310",11,"Debut game for Jose Lopez","2004ANA.EVA.regular.comment.csv",20
+"ANA200407310",51,"Debut game for Scott Atchison","2004ANA.EVA.regular.comment.csv",21
+"ANA200407310",53,"$Guerrero left game with injured neck","2004ANA.EVA.regular.comment.csv",22
+"ANA200407310",64,"$B.Molina left game with injured hand","2004ANA.EVA.regular.comment.csv",23
+"ANA200408270",32,"$DaVanon left game with injured foot","2004ANA.EVA.regular.comment.csv",24
+"ANA200408270",34,"$Koskie left game with injured knee","2004ANA.EVA.regular.comment.csv",25
+"ANA200408290",21,"ej,sciom001,M,cuzzp901,Call at 2B $Angels Manager Mike Scioscia ejected by 2B umpire Phil Cuzzi","2004ANA.EVA.regular.comment.csv",26
+"ANA200408290",44,"$Silva left game with injured neck","2004ANA.EVA.regular.comment.csv",27
+"ANA200409100",61,"Debut game for Dallas McPherson","2004ANA.EVA.regular.comment.csv",28
+"ANA200409110",78,"Debut game for Scott Dunn","2004ANA.EVA.regular.comment.csv",29
+"ANA200409120",40,"$Erstad left game with injured back","2004ANA.EVA.regular.comment.csv",30
+"ANA200409190",59,"ej,almac001,P,rapue901,Balls and strikes Carlos Almanzar ejected by HP umpire Ed Rapuano","2004ANA.EVA.regular.comment.csv",31
+"ANA200409200",6,"ej,sciom001,M,bellw901,Argument after HBP $Angels manager scioscia ejected by HP umpire Bell for arguing that pitcher should have been ejected for intentionally hitting Guerrero on left side of head; X-rays at hospital were negative; both benches emptied and both teams warned","2004ANA.EVA.regular.comment.csv",32
+"ANA200409200",21,"$hit on right knee; no ejections","2004ANA.EVA.regular.comment.csv",33
+"ANA200409200",40,"$Kennedy left game with sprained knee","2004ANA.EVA.regular.comment.csv",34
+"ANA200409200",45,"$Winn left game with bruised knee","2004ANA.EVA.regular.comment.csv",35
+"ANA200409200",77,"ej,olivm001,P,bellw901,Call at HP (while catching) $Catcher Olivo ejected by HP umpire Bell for arguing runner was out at home","2004ANA.EVA.regular.comment.csv",36
+"ANA200409220",89,"Debut game for Rene Rivera","2004ANA.EVA.regular.comment.csv",37
+"ANA200409250",62,"$Guillen was not happy about being replaced; he threw his helmet towards the end of the dugout where Mgr Scioscia was standing, walked to and entered at the other end of the dugout, and threw his glove against the wall; he was suspended for the rest of the season the next day by the team","2004ANA.EVA.regular.comment.csv",38
+"ANA200409260",0,"$the Angels announced that Jose Guillen was suspended for the rest of the season due to his actions the previous day","2004ANA.EVA.regular.comment.csv",39

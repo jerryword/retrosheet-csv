@@ -1,29 +1,30 @@
-"SLN194404180",34,"pbp account ends here, rest deduced","FILENAME_TX","LINE_NUMBER_CT"
-"SLN194404200",18,"short 'passed ball'","1944SLN.EVN.regular.comment.csv",2
-"SLN194404200",46,"pbp account ends here, rest deduced","1944SLN.EVN.regular.comment.csv",3
-"SLN194405160",0,"Suspend=19440629,,6,4,42","1944SLN.EVN.regular.comment.csv",4
-"SLN194405160",69,"suspended,19440629,STL07,catch train $Game suspended at this point (10:15 PM) so the Phillies could catch a train for Cincinnati; completed on June 29 umpchange,8,umphp,goetl901 umpchange,8,ump3b,rearb901","1944SLN.EVN.regular.comment.csv",5
-"SLN194405170",50,"pbp account ends here, rest deduced","1944SLN.EVN.regular.comment.csv",6
-"SLN194405170",64,"$missed squeeze","1944SLN.EVN.regular.comment.csv",7
-"SLN194405190",12,"Only ball four was intentional","1944SLN.EVN.regular.comment.csv",8
-"SLN194405190",13,"$Wietelmann batted right-handed because he could not see out of one eye","1944SLN.EVN.regular.comment.csv",9
-"SLN194405190",22,"$Mort Cooper left the game with stiffness in his arm after taking his warmup pitches before the 3rd inning","1944SLN.EVN.regular.comment.csv",10
-"SLN194406290",53,"pbp account ends here, rest deduced","1944SLN.EVN.regular.comment.csv",11
-"SLN194408090",5,"K may have been in a different inning","1944SLN.EVN.regular.comment.csv",12
-"SLN194408090",6,"Shea only has 4 PO, so there was a K23, but don't know which one","1944SLN.EVN.regular.comment.csv",13
-"SLN194408090",9,"Sanders dropps Fallon's throw; play might have been 64/FO","1944SLN.EVN.regular.comment.csv",14
-"SLN194408090",25,"K may have been in a different inning","1944SLN.EVN.regular.comment.csv",15
-"SLN194408090",30,"K may have been in a different inning","1944SLN.EVN.regular.comment.csv",16
-"SLN194408090",39,"Letchas K might have been in a different inning","1944SLN.EVN.regular.comment.csv",17
-"SLN194408090",49,"Don't know when the E3 was","1944SLN.EVN.regular.comment.csv",18
-"SLN194408090",50,"No info on when the E2 was","1944SLN.EVN.regular.comment.csv",19
-"SLN194408090",51,"Likewise, no info on Shea's PB","1944SLN.EVN.regular.comment.csv",20
-"SLN194408090",57,"Sanders kicks bunt to Cooper who throws wildly to first","1944SLN.EVN.regular.comment.csv",21
-"SLN194408110",29,"ej,peacj101,P,jordl901,Balls and strikes $Catcher Peacock ejected by HP umpire Jorda for arguing Balls and strikes","1944SLN.EVN.regular.comment.csv",22
-"SLN194408190",70,"$Pitcher tried to let ball roll foul, but it did not; he then kicked it foul allowing runner to take 3rd","1944SLN.EVN.regular.comment.csv",23
-"SLN194408230",11,"pbp account ends here, rest deduced","1944SLN.EVN.regular.comment.csv",24
-"SLN194408230",40,"$Ival Goodman crashed into wall chasing Cooper's drive; he remained in the game one more inning, then was rushed to the hospital where was he was admitte, staying at least two  days; this was the final game of Goodman's career","1944SLN.EVN.regular.comment.csv",25
-"SLN194408271",35,"ej,soutb101,M,conlj102,Balls and strikes $Cardinal manager Southworth ejected by HP umpire Conlan for arguing balls and strikes","1944SLN.EVN.regular.comment.csv",26
-"SLN194408271",67,"$Kurowski was hit in head by Coscarart who was throwing to first in attempt to complete double play","1944SLN.EVN.regular.comment.csv",27
-"SLN194408272",78,"$game called for darkness","1944SLN.EVN.regular.comment.csv",28
-"SLN194408290",10,"$Gee Walker left with an injured back","1944SLN.EVN.regular.comment.csv",29
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"SLN194404180",34,"pbp account ends here, rest deduced","1944SLN.EVN.regular.comment.csv",2
+"SLN194404200",18,"short 'passed ball'","1944SLN.EVN.regular.comment.csv",3
+"SLN194404200",46,"pbp account ends here, rest deduced","1944SLN.EVN.regular.comment.csv",4
+"SLN194405160",0,"Suspend=19440629,,6,4,42","1944SLN.EVN.regular.comment.csv",5
+"SLN194405160",69,"suspended,19440629,STL07,catch train $Game suspended at this point (10:15 PM) so the Phillies could catch a train for Cincinnati; completed on June 29 umpchange,8,umphp,goetl901 umpchange,8,ump3b,rearb901","1944SLN.EVN.regular.comment.csv",6
+"SLN194405170",50,"pbp account ends here, rest deduced","1944SLN.EVN.regular.comment.csv",7
+"SLN194405170",64,"$missed squeeze","1944SLN.EVN.regular.comment.csv",8
+"SLN194405190",12,"Only ball four was intentional","1944SLN.EVN.regular.comment.csv",9
+"SLN194405190",13,"$Wietelmann batted right-handed because he could not see out of one eye","1944SLN.EVN.regular.comment.csv",10
+"SLN194405190",22,"$Mort Cooper left the game with stiffness in his arm after taking his warmup pitches before the 3rd inning","1944SLN.EVN.regular.comment.csv",11
+"SLN194406290",53,"pbp account ends here, rest deduced","1944SLN.EVN.regular.comment.csv",12
+"SLN194408090",5,"K may have been in a different inning","1944SLN.EVN.regular.comment.csv",13
+"SLN194408090",6,"Shea only has 4 PO, so there was a K23, but don't know which one","1944SLN.EVN.regular.comment.csv",14
+"SLN194408090",9,"Sanders dropps Fallon's throw; play might have been 64/FO","1944SLN.EVN.regular.comment.csv",15
+"SLN194408090",25,"K may have been in a different inning","1944SLN.EVN.regular.comment.csv",16
+"SLN194408090",30,"K may have been in a different inning","1944SLN.EVN.regular.comment.csv",17
+"SLN194408090",39,"Letchas K might have been in a different inning","1944SLN.EVN.regular.comment.csv",18
+"SLN194408090",49,"Don't know when the E3 was","1944SLN.EVN.regular.comment.csv",19
+"SLN194408090",50,"No info on when the E2 was","1944SLN.EVN.regular.comment.csv",20
+"SLN194408090",51,"Likewise, no info on Shea's PB","1944SLN.EVN.regular.comment.csv",21
+"SLN194408090",57,"Sanders kicks bunt to Cooper who throws wildly to first","1944SLN.EVN.regular.comment.csv",22
+"SLN194408110",29,"ej,peacj101,P,jordl901,Balls and strikes $Catcher Peacock ejected by HP umpire Jorda for arguing Balls and strikes","1944SLN.EVN.regular.comment.csv",23
+"SLN194408190",70,"$Pitcher tried to let ball roll foul, but it did not; he then kicked it foul allowing runner to take 3rd","1944SLN.EVN.regular.comment.csv",24
+"SLN194408230",11,"pbp account ends here, rest deduced","1944SLN.EVN.regular.comment.csv",25
+"SLN194408230",40,"$Ival Goodman crashed into wall chasing Cooper's drive; he remained in the game one more inning, then was rushed to the hospital where was he was admitte, staying at least two  days; this was the final game of Goodman's career","1944SLN.EVN.regular.comment.csv",26
+"SLN194408271",35,"ej,soutb101,M,conlj102,Balls and strikes $Cardinal manager Southworth ejected by HP umpire Conlan for arguing balls and strikes","1944SLN.EVN.regular.comment.csv",27
+"SLN194408271",67,"$Kurowski was hit in head by Coscarart who was throwing to first in attempt to complete double play","1944SLN.EVN.regular.comment.csv",28
+"SLN194408272",78,"$game called for darkness","1944SLN.EVN.regular.comment.csv",29
+"SLN194408290",10,"$Gee Walker left with an injured back","1944SLN.EVN.regular.comment.csv",30

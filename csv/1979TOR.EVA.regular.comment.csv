@@ -1,21 +1,22 @@
-"TOR197904130",39,"28 minute rain delay at 4:41pm","FILENAME_TX","LINE_NUMBER_CT"
-"TOR197904130",49,"game called after 1:11 rain delay","1979TOR.EVA.regular.comment.csv",2
-"TOR197904160",49,"Debut game for Randy Scarbery","1979TOR.EVA.regular.comment.csv",3
-"TOR197904280",81,"ej,hartr101,M,sawcj901,Balk call $Blue Jays manager Hartsfield ejected by 1B umpire Sawchuk for arguing balk","1979TOR.EVA.regular.comment.csv",4
-"TOR197905180",68,"ej,hower001,P,reilm901,Call at 1B ej,hartr101,M,reilm901,Call at 1B Roy Howell and Blue Jays manager Roy Hartsfield ejected by 1B umpire Mike Reilly","1979TOR.EVA.regular.comment.csv",5
-"TOR197905190",0,"$first game for staff umpires in 1979 after strike","1979TOR.EVA.regular.comment.csv",6
-"TOR197905210",24,"Debut game for Danny Ainge","1979TOR.EVA.regular.comment.csv",7
-"TOR197905270",63,"$Stan Papi missed 2B on his way back to 1B; out on appeal","1979TOR.EVA.regular.comment.csv",8
-"TOR197905290",51,"ej,bailb001,P,evanj901,Call at 2B Bob Bailor ejected by 2B umpire Jim Evans","1979TOR.EVA.regular.comment.csv",9
-"TOR197905310",1,"Debut game for Pat Underwood","1979TOR.EVA.regular.comment.csv",10
-"TOR197906131",1,"Debut game for Steve Eddy","1979TOR.EVA.regular.comment.csv",11
-"TOR197907110",0,"33-minute rain delay before start of game","1979TOR.EVA.regular.comment.csv",12
-"TOR197907150",15,"43 minute rain delay","1979TOR.EVA.regular.comment.csv",13
-"TOR197907250",0,"54 minute rain delay before start of game","1979TOR.EVA.regular.comment.csv",14
-"TOR197907280",1,"Debut game for Bruce Robbins","1979TOR.EVA.regular.comment.csv",15
-"TOR197908030",0,"$Tony LaRussa's first game as manager of the White Sox","1979TOR.EVA.regular.comment.csv",16
-"TOR197908050",24,"ej,garrr101,P,goetr901,Bench jockeying Ralph Garr ejected by HP umpire Russ Goetz sometime in fourth","1979TOR.EVA.regular.comment.csv",17
-"TOR197908090",0,"ej,hartr101,M,kaisk901,Balls and strikes Blue Jays Manager Roy Hartsfield ejected by HP umpire Ken Kaiser sometime in game","1979TOR.EVA.regular.comment.csv",18
-"TOR197908300",47,"ej,pinsv101,C,fordd901,Call at 1B Mariners Coach Vada Pinson ejected by 1B umpire Dale Ford arguing call on Bobby Valentine","1979TOR.EVA.regular.comment.csv",19
-"TOR197909130",2,"Debut game for Tom Chism","1979TOR.EVA.regular.comment.csv",20
-"TOR197909210",4,"$Nettles was hurt during the first inning","1979TOR.EVA.regular.comment.csv",21
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"TOR197904130",39,"28 minute rain delay at 4:41pm","1979TOR.EVA.regular.comment.csv",2
+"TOR197904130",49,"game called after 1:11 rain delay","1979TOR.EVA.regular.comment.csv",3
+"TOR197904160",49,"Debut game for Randy Scarbery","1979TOR.EVA.regular.comment.csv",4
+"TOR197904280",81,"ej,hartr101,M,sawcj901,Balk call $Blue Jays manager Hartsfield ejected by 1B umpire Sawchuk for arguing balk","1979TOR.EVA.regular.comment.csv",5
+"TOR197905180",68,"ej,hower001,P,reilm901,Call at 1B ej,hartr101,M,reilm901,Call at 1B Roy Howell and Blue Jays manager Roy Hartsfield ejected by 1B umpire Mike Reilly","1979TOR.EVA.regular.comment.csv",6
+"TOR197905190",0,"$first game for staff umpires in 1979 after strike","1979TOR.EVA.regular.comment.csv",7
+"TOR197905210",24,"Debut game for Danny Ainge","1979TOR.EVA.regular.comment.csv",8
+"TOR197905270",63,"$Stan Papi missed 2B on his way back to 1B; out on appeal","1979TOR.EVA.regular.comment.csv",9
+"TOR197905290",51,"ej,bailb001,P,evanj901,Call at 2B Bob Bailor ejected by 2B umpire Jim Evans","1979TOR.EVA.regular.comment.csv",10
+"TOR197905310",1,"Debut game for Pat Underwood","1979TOR.EVA.regular.comment.csv",11
+"TOR197906131",1,"Debut game for Steve Eddy","1979TOR.EVA.regular.comment.csv",12
+"TOR197907110",0,"33-minute rain delay before start of game","1979TOR.EVA.regular.comment.csv",13
+"TOR197907150",15,"43 minute rain delay","1979TOR.EVA.regular.comment.csv",14
+"TOR197907250",0,"54 minute rain delay before start of game","1979TOR.EVA.regular.comment.csv",15
+"TOR197907280",1,"Debut game for Bruce Robbins","1979TOR.EVA.regular.comment.csv",16
+"TOR197908030",0,"$Tony LaRussa's first game as manager of the White Sox","1979TOR.EVA.regular.comment.csv",17
+"TOR197908050",24,"ej,garrr101,P,goetr901,Bench jockeying Ralph Garr ejected by HP umpire Russ Goetz sometime in fourth","1979TOR.EVA.regular.comment.csv",18
+"TOR197908090",0,"ej,hartr101,M,kaisk901,Balls and strikes Blue Jays Manager Roy Hartsfield ejected by HP umpire Ken Kaiser sometime in game","1979TOR.EVA.regular.comment.csv",19
+"TOR197908300",47,"ej,pinsv101,C,fordd901,Call at 1B Mariners Coach Vada Pinson ejected by 1B umpire Dale Ford arguing call on Bobby Valentine","1979TOR.EVA.regular.comment.csv",20
+"TOR197909130",2,"Debut game for Tom Chism","1979TOR.EVA.regular.comment.csv",21
+"TOR197909210",4,"$Nettles was hurt during the first inning","1979TOR.EVA.regular.comment.csv",22

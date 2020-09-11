@@ -1,24 +1,25 @@
-"SEA198904100",8,"$Ken Griffey Jr homered on his first pitch in the Kingdome","FILENAME_TX","LINE_NUMBER_CT"
-"SEA198904100",50,"$Greg Walker muffed roller, Steve Lyons picked it up and Eric King dropped it","1989SEA.EVA.regular.comment.csv",2
-"SEA198904100",60,"$fly ball hit speaker; Dave Valle ran through stop sign","1989SEA.EVA.regular.comment.csv",3
-"SEA198904110",25,"$Greg Walker pulled quad muscle and left next inning","1989SEA.EVA.regular.comment.csv",4
-"SEA198904120",47,"Debut game for Matt Merullo","1989SEA.EVA.regular.comment.csv",5
-"SEA198904150",12,"Debut game for Kent Anderson","1989SEA.EVA.regular.comment.csv",6
-"SEA198904160",72,"Debut game for Brian Brady","1989SEA.EVA.regular.comment.csv",7
-"SEA198904180",68,"$Henry Cotto called for interference because of his slide into 2B","1989SEA.EVA.regular.comment.csv",8
-"SEA198904280",58,"$grounder bounced off pitcher into dugout","1989SEA.EVA.regular.comment.csv",9
-"SEA198905160",76,"ej,trebt801,M,evanj901,Call at 1B $Brewers manager Trebelhorn ejected by 1B umpire Evans for arguing Sheffield was safe at 1st","1989SEA.EVA.regular.comment.csv",10
-"SEA198905190",24,"ej,corrp102,C,mcclt901,Balk non-call $Yankees coach Corrales ejected by 1B umpire McClelland for aguing pitcher had balked","1989SEA.EVA.regular.comment.csv",11
-"SEA198906030",1,"Debut game for Clint Zavaras","1989SEA.EVA.regular.comment.csv",12
-"SEA198906060",55,"Debut game for Rick Luecken","1989SEA.EVA.regular.comment.csv",13
-"SEA198906060",65,"ej,grifk002,P,joycj901,Called third strike Ken Griffey Jr ejected by HP umpire Jim Joyce","1989SEA.EVA.regular.comment.csv",14
-"SEA198906190",51,"$Jay Buhner tried to throw before catching the ball and dropped it","1989SEA.EVA.regular.comment.csv",15
-"SEA198906190",53,"$botched squeeze","1989SEA.EVA.regular.comment.csv",16
-"SEA198906250",17,"$Dave Bergman called for obstruction","1989SEA.EVA.regular.comment.csv",17
-"SEA198907070",74,"Debut game for Peter Dalena","1989SEA.EVA.regular.comment.csv",18
-"SEA198907070",95,"umpchange,11,umphome,brinj901 umpchange,11,ump2b,(None) $HP umpire Terry Cooney hit by foul ball and left game; 2B umpire Joe Brinkman moved behind plate","1989SEA.EVA.regular.comment.csv",19
-"SEA198907200",44,"$Alvin Davis tried to advance on wild pickoff throw","1989SEA.EVA.regular.comment.csv",20
-"SEA198907200",61,"$Junior Felix called for being out of batter's box trying to bunt","1989SEA.EVA.regular.comment.csv",21
-"SEA198908030",22,"Devon White overslid 2B, out at 3rd","1989SEA.EVA.regular.comment.csv",22
-"SEA198909050",23,"$Randy Johnson injured","1989SEA.EVA.regular.comment.csv",23
-"SEA198909290",44,"ej,backw001,P,voltv901,Called third strike Wally Backman ejected by HP umpire Vic Voltaggio","1989SEA.EVA.regular.comment.csv",24
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"SEA198904100",8,"$Ken Griffey Jr homered on his first pitch in the Kingdome","1989SEA.EVA.regular.comment.csv",2
+"SEA198904100",50,"$Greg Walker muffed roller, Steve Lyons picked it up and Eric King dropped it","1989SEA.EVA.regular.comment.csv",3
+"SEA198904100",60,"$fly ball hit speaker; Dave Valle ran through stop sign","1989SEA.EVA.regular.comment.csv",4
+"SEA198904110",25,"$Greg Walker pulled quad muscle and left next inning","1989SEA.EVA.regular.comment.csv",5
+"SEA198904120",47,"Debut game for Matt Merullo","1989SEA.EVA.regular.comment.csv",6
+"SEA198904150",12,"Debut game for Kent Anderson","1989SEA.EVA.regular.comment.csv",7
+"SEA198904160",72,"Debut game for Brian Brady","1989SEA.EVA.regular.comment.csv",8
+"SEA198904180",68,"$Henry Cotto called for interference because of his slide into 2B","1989SEA.EVA.regular.comment.csv",9
+"SEA198904280",58,"$grounder bounced off pitcher into dugout","1989SEA.EVA.regular.comment.csv",10
+"SEA198905160",76,"ej,trebt801,M,evanj901,Call at 1B $Brewers manager Trebelhorn ejected by 1B umpire Evans for arguing Sheffield was safe at 1st","1989SEA.EVA.regular.comment.csv",11
+"SEA198905190",24,"ej,corrp102,C,mcclt901,Balk non-call $Yankees coach Corrales ejected by 1B umpire McClelland for aguing pitcher had balked","1989SEA.EVA.regular.comment.csv",12
+"SEA198906030",1,"Debut game for Clint Zavaras","1989SEA.EVA.regular.comment.csv",13
+"SEA198906060",55,"Debut game for Rick Luecken","1989SEA.EVA.regular.comment.csv",14
+"SEA198906060",65,"ej,grifk002,P,joycj901,Called third strike Ken Griffey Jr ejected by HP umpire Jim Joyce","1989SEA.EVA.regular.comment.csv",15
+"SEA198906190",51,"$Jay Buhner tried to throw before catching the ball and dropped it","1989SEA.EVA.regular.comment.csv",16
+"SEA198906190",53,"$botched squeeze","1989SEA.EVA.regular.comment.csv",17
+"SEA198906250",17,"$Dave Bergman called for obstruction","1989SEA.EVA.regular.comment.csv",18
+"SEA198907070",74,"Debut game for Peter Dalena","1989SEA.EVA.regular.comment.csv",19
+"SEA198907070",95,"umpchange,11,umphome,brinj901 umpchange,11,ump2b,(None) $HP umpire Terry Cooney hit by foul ball and left game; 2B umpire Joe Brinkman moved behind plate","1989SEA.EVA.regular.comment.csv",20
+"SEA198907200",44,"$Alvin Davis tried to advance on wild pickoff throw","1989SEA.EVA.regular.comment.csv",21
+"SEA198907200",61,"$Junior Felix called for being out of batter's box trying to bunt","1989SEA.EVA.regular.comment.csv",22
+"SEA198908030",22,"Devon White overslid 2B, out at 3rd","1989SEA.EVA.regular.comment.csv",23
+"SEA198909050",23,"$Randy Johnson injured","1989SEA.EVA.regular.comment.csv",24
+"SEA198909290",44,"ej,backw001,P,voltv901,Called third strike Wally Backman ejected by HP umpire Vic Voltaggio","1989SEA.EVA.regular.comment.csv",25

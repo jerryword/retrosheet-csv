@@ -1,21 +1,22 @@
-"BOS199604260",49,"$fan interference","FILENAME_TX","LINE_NUMBER_CT"
-"BOS199605030",0,"Suspend=19960504,,6,1,36","1996BOS.EVA.regular.comment.csv",2
-"BOS199605030",60,"suspended,19960504,BOS07,curfew Game suspended at 1 AM for curfew after rain delays totaling 3:43; game completed on the next day","1996BOS.EVA.regular.comment.csv",3
-"BOS199605190",36,"ej,clucb801,C,garcr901,Balls and strikes $Athletics coach Cluck ejected by HP umpire Garcia for arguing balls and strikes as he made mound visit","1996BOS.EVA.regular.comment.csv",4
-"BOS199605230",62,"Debut game for Jose Malave","1996BOS.EVA.regular.comment.csv",5
-"BOS199606080",56,"ej,cirij001,P,garcr901,Balls and strikes ej,garnp001,M,garcr901,Balls and strikes Jeff Cirillo and Brewers manager Phil Garner ejected by HP umpire Richie Garcia","1996BOS.EVA.regular.comment.csv",6
-"BOS199606150",82,"ej,gunde001,P,phild901,Fighting with Frazier ej,frazl001,P,phild901,Fighting with Gunderson Lou Frazier and Eric Gunderson ejected by HP umpire Dave Phillips for fighting","1996BOS.EVA.regular.comment.csv",7
-"BOS199606250",30,"umpchange,4,umphome,cobld901 umpchange,4,ump2b,(None) umpchange,4,ump3b,coope901 $HP umpire Johnson left after rib injury from foul; 3B umpire Coble went behind plate, 2B umpire Cooper moved to 3rd and game finished with 3 umpires","1996BOS.EVA.regular.comment.csv",8
-"BOS199606260",0,"Debut for umpire Sam Holbrook","1996BOS.EVA.regular.comment.csv",9
-"BOS199606260",1,"ej,loftk001,P,younl901,Balls and strikes Kenny Lofton ejected by HP umpire Larry Young","1996BOS.EVA.regular.comment.csv",10
-"BOS199607230",0,"$Rain delay of 1:55 at start of game","1996BOS.EVA.regular.comment.csv",11
-"BOS199607230",1,"ej,offej001,P,clara901,Called third strike $Offerman ejected by HP umpire Clark for arguing called third strike","1996BOS.EVA.regular.comment.csv",12
-"BOS199607230",55,"Fan interference","1996BOS.EVA.regular.comment.csv",13
-"BOS199608080",77,"Debut game for Ken Grundt","1996BOS.EVA.regular.comment.csv",14
-"BOS199608160",73,"Debut game for Kerry Lacy","1996BOS.EVA.regular.comment.csv",15
-"BOS199608230",31,"ej,marte001,P,barrt901,Balls and strikes Edgar Martinez ejected by HP umpire Ted Barrett","1996BOS.EVA.regular.comment.csv",16
-"BOS199608230",38,"ej,pinil001,M,barrt901,Balls and strikes Mariners manager Lou Piniella ejected by HP umpire Ted Barrett during Andy Sheets' at bat","1996BOS.EVA.regular.comment.csv",17
-"BOS199608230",44,"ej,coraj001,P,barrt901,Balls and strikes Joey Cora ejected by HP umpire Ted Barrett","1996BOS.EVA.regular.comment.csv",18
-"BOS199609090",74,"Debut game for Brian Banks","1996BOS.EVA.regular.comment.csv",19
-"BOS199609140",86,"ej,haseb001,P,welkt901,Balls and strikes (while catching) Bill Haselman ejected by HP umpire Tim Welke","1996BOS.EVA.regular.comment.csv",20
-"BOS199609140",87,"Debut game for Walt McKeel","1996BOS.EVA.regular.comment.csv",21
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"BOS199604260",49,"$fan interference","1996BOS.EVA.regular.comment.csv",2
+"BOS199605030",0,"Suspend=19960504,,6,1,36","1996BOS.EVA.regular.comment.csv",3
+"BOS199605030",60,"suspended,19960504,BOS07,curfew Game suspended at 1 AM for curfew after rain delays totaling 3:43; game completed on the next day","1996BOS.EVA.regular.comment.csv",4
+"BOS199605190",36,"ej,clucb801,C,garcr901,Balls and strikes $Athletics coach Cluck ejected by HP umpire Garcia for arguing balls and strikes as he made mound visit","1996BOS.EVA.regular.comment.csv",5
+"BOS199605230",62,"Debut game for Jose Malave","1996BOS.EVA.regular.comment.csv",6
+"BOS199606080",56,"ej,cirij001,P,garcr901,Balls and strikes ej,garnp001,M,garcr901,Balls and strikes Jeff Cirillo and Brewers manager Phil Garner ejected by HP umpire Richie Garcia","1996BOS.EVA.regular.comment.csv",7
+"BOS199606150",82,"ej,gunde001,P,phild901,Fighting with Frazier ej,frazl001,P,phild901,Fighting with Gunderson Lou Frazier and Eric Gunderson ejected by HP umpire Dave Phillips for fighting","1996BOS.EVA.regular.comment.csv",8
+"BOS199606250",30,"umpchange,4,umphome,cobld901 umpchange,4,ump2b,(None) umpchange,4,ump3b,coope901 $HP umpire Johnson left after rib injury from foul; 3B umpire Coble went behind plate, 2B umpire Cooper moved to 3rd and game finished with 3 umpires","1996BOS.EVA.regular.comment.csv",9
+"BOS199606260",0,"Debut for umpire Sam Holbrook","1996BOS.EVA.regular.comment.csv",10
+"BOS199606260",1,"ej,loftk001,P,younl901,Balls and strikes Kenny Lofton ejected by HP umpire Larry Young","1996BOS.EVA.regular.comment.csv",11
+"BOS199607230",0,"$Rain delay of 1:55 at start of game","1996BOS.EVA.regular.comment.csv",12
+"BOS199607230",1,"ej,offej001,P,clara901,Called third strike $Offerman ejected by HP umpire Clark for arguing called third strike","1996BOS.EVA.regular.comment.csv",13
+"BOS199607230",55,"Fan interference","1996BOS.EVA.regular.comment.csv",14
+"BOS199608080",77,"Debut game for Ken Grundt","1996BOS.EVA.regular.comment.csv",15
+"BOS199608160",73,"Debut game for Kerry Lacy","1996BOS.EVA.regular.comment.csv",16
+"BOS199608230",31,"ej,marte001,P,barrt901,Balls and strikes Edgar Martinez ejected by HP umpire Ted Barrett","1996BOS.EVA.regular.comment.csv",17
+"BOS199608230",38,"ej,pinil001,M,barrt901,Balls and strikes Mariners manager Lou Piniella ejected by HP umpire Ted Barrett during Andy Sheets' at bat","1996BOS.EVA.regular.comment.csv",18
+"BOS199608230",44,"ej,coraj001,P,barrt901,Balls and strikes Joey Cora ejected by HP umpire Ted Barrett","1996BOS.EVA.regular.comment.csv",19
+"BOS199609090",74,"Debut game for Brian Banks","1996BOS.EVA.regular.comment.csv",20
+"BOS199609140",86,"ej,haseb001,P,welkt901,Balls and strikes (while catching) Bill Haselman ejected by HP umpire Tim Welke","1996BOS.EVA.regular.comment.csv",21
+"BOS199609140",87,"Debut game for Walt McKeel","1996BOS.EVA.regular.comment.csv",22

@@ -1,22 +1,23 @@
-"MON197004100",0,"$Joe Sparma: 106 pitches; Bill Hands: 83 pitches","FILENAME_TX","LINE_NUMBER_CT"
-"MON197004220",88,"ej,maucg101,M,donaa901,Interference call $Expos manager Mauch ejected by HP umpire Donatelli for arguing against call that Jones interfered with batted ball","1970MON.EVN.regular.comment.csv",2
-"MON197005081",0,"$Padres Manager Preston Gomez missed the game with the flu; Coach Bob Skinner ran the team","1970MON.EVN.regular.comment.csv",3
-"MON197005082",44,"off the pole","1970MON.EVN.regular.comment.csv",4
-"MON197005100",56,"$catcher Bob Barton struck on throat with foul ball","1970MON.EVN.regular.comment.csv",5
-"MON197005210",59,"Debut game for Balor Moore","1970MON.EVN.regular.comment.csv",6
-"MON197005260",11,"Del Bates hit on right elbow","1970MON.EVN.regular.comment.csv",7
-"MON197005260",24,"$Oscar Gamble suffered injured right knee in collision with Ron Stone","1970MON.EVN.regular.comment.csv",8
-"MON197005260",70,"$Rusty Staub trapped Byron Browne's ball; Browne passed Jim Hutto","1970MON.EVN.regular.comment.csv",9
-"MON197005260",71,"$Adolpho Phillips injured running into fence","1970MON.EVN.regular.comment.csv",10
-"MON197006280",46,"ej,hodgg101,M,sudoe901,Call at 3B $Mets manager Hodges ejected by HP umpire Sudol for arguing ruling that Shamsky left 3rd too soon","1970MON.EVN.regular.comment.csv",11
-"MON197006300",61,"hit on left hand","1970MON.EVN.regular.comment.csv",12
-"MON197008060",54,"ej,staur001,P,steim901,Arguing called strike 3 $Staub ejected by HP umpire Steiner for arguing strike 3","1970MON.EVN.regular.comment.csv",13
-"MON197008270",70,"Expos manager Gene Mauch argued that Jesus Alou's single struck Larry Dierker","1970MON.EVN.regular.comment.csv",14
-"MON197008300",11,"$Tommy Helms called for interference","1970MON.EVN.regular.comment.csv",15
-"MON197009020",68,"ej,maucg101,M,pryop901,Check swing $Expos manager Mauch ejected by HP umpire Pryor for arguing check swing strike 3","1970MON.EVN.regular.comment.csv",16
-"MON197009110",12,"Debut game for John Vukovich","1970MON.EVN.regular.comment.csv",17
-"MON197009182",60,"Boots Day's bunt hit his bat in fair territory; called out for interference","1970MON.EVN.regular.comment.csv",18
-"MON197009260",21,"ej,maucg101,M,wendh901,Arguing warning $Expos manager Mauch ejected by 1B umpire Wendelstedt for complaining about warning issued to both teams after brushback pitch Carlton threw at Stoneman","1970MON.EVN.regular.comment.csv",19
-"MON197009260",23,"ej,stonb101,P,kiblj901,Intentional HBP $Stoneman ejected by HP umpire Kibler for intentionally hitting Torre","1970MON.EVN.regular.comment.csv",20
-"MON197009260",38,"ej,batej102,P,burkk101,Call at 1B $Bateman ejected by 3B umpire Burkhart for arguing call that he was out at 1st","1970MON.EVN.regular.comment.csv",21
-"MON197009270",69,"ej,schor101,M,olsea901,Call at 1B $Cardinals manager Schoendienst ejected by 1B umpire Olsen for arguing Davalillo was safe at 1st","1970MON.EVN.regular.comment.csv",22
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"MON197004100",0,"$Joe Sparma: 106 pitches; Bill Hands: 83 pitches","1970MON.EVN.regular.comment.csv",2
+"MON197004220",88,"ej,maucg101,M,donaa901,Interference call $Expos manager Mauch ejected by HP umpire Donatelli for arguing against call that Jones interfered with batted ball","1970MON.EVN.regular.comment.csv",3
+"MON197005081",0,"$Padres Manager Preston Gomez missed the game with the flu; Coach Bob Skinner ran the team","1970MON.EVN.regular.comment.csv",4
+"MON197005082",44,"off the pole","1970MON.EVN.regular.comment.csv",5
+"MON197005100",56,"$catcher Bob Barton struck on throat with foul ball","1970MON.EVN.regular.comment.csv",6
+"MON197005210",59,"Debut game for Balor Moore","1970MON.EVN.regular.comment.csv",7
+"MON197005260",11,"Del Bates hit on right elbow","1970MON.EVN.regular.comment.csv",8
+"MON197005260",24,"$Oscar Gamble suffered injured right knee in collision with Ron Stone","1970MON.EVN.regular.comment.csv",9
+"MON197005260",70,"$Rusty Staub trapped Byron Browne's ball; Browne passed Jim Hutto","1970MON.EVN.regular.comment.csv",10
+"MON197005260",71,"$Adolpho Phillips injured running into fence","1970MON.EVN.regular.comment.csv",11
+"MON197006280",46,"ej,hodgg101,M,sudoe901,Call at 3B $Mets manager Hodges ejected by HP umpire Sudol for arguing ruling that Shamsky left 3rd too soon","1970MON.EVN.regular.comment.csv",12
+"MON197006300",61,"hit on left hand","1970MON.EVN.regular.comment.csv",13
+"MON197008060",54,"ej,staur001,P,steim901,Arguing called strike 3 $Staub ejected by HP umpire Steiner for arguing strike 3","1970MON.EVN.regular.comment.csv",14
+"MON197008270",70,"Expos manager Gene Mauch argued that Jesus Alou's single struck Larry Dierker","1970MON.EVN.regular.comment.csv",15
+"MON197008300",11,"$Tommy Helms called for interference","1970MON.EVN.regular.comment.csv",16
+"MON197009020",68,"ej,maucg101,M,pryop901,Check swing $Expos manager Mauch ejected by HP umpire Pryor for arguing check swing strike 3","1970MON.EVN.regular.comment.csv",17
+"MON197009110",12,"Debut game for John Vukovich","1970MON.EVN.regular.comment.csv",18
+"MON197009182",60,"Boots Day's bunt hit his bat in fair territory; called out for interference","1970MON.EVN.regular.comment.csv",19
+"MON197009260",21,"ej,maucg101,M,wendh901,Arguing warning $Expos manager Mauch ejected by 1B umpire Wendelstedt for complaining about warning issued to both teams after brushback pitch Carlton threw at Stoneman","1970MON.EVN.regular.comment.csv",20
+"MON197009260",23,"ej,stonb101,P,kiblj901,Intentional HBP $Stoneman ejected by HP umpire Kibler for intentionally hitting Torre","1970MON.EVN.regular.comment.csv",21
+"MON197009260",38,"ej,batej102,P,burkk101,Call at 1B $Bateman ejected by 3B umpire Burkhart for arguing call that he was out at 1st","1970MON.EVN.regular.comment.csv",22
+"MON197009270",69,"ej,schor101,M,olsea901,Call at 1B $Cardinals manager Schoendienst ejected by 1B umpire Olsen for arguing Davalillo was safe at 1st","1970MON.EVN.regular.comment.csv",23

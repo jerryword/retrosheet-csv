@@ -1,35 +1,36 @@
-"ANA200704060",46,"Athletics shortstop Bobby Crosby left the game due to an injured back","FILENAME_TX","LINE_NUMBER_CT"
-"ANA200704200",61,"fan interference","2007ANA.EVA.regular.comment.csv",2
-"ANA200704230",2,"$fan reached onto field and knocked ball away from Anderson","2007ANA.EVA.regular.comment.csv",3
-"ANA200704230",3,"$Kotchman reached into stands but ball bounced off his glove and into fan. Ball came back to Kotchman as 1B umpire Joyce tumbled into camera well. Kotchman tried to claim he had caught ball","2007ANA.EVA.regular.comment.csv",4
-"ANA200704240",10,"Previous play is really 1E6 on runner from first","2007ANA.EVA.regular.comment.csv",5
-"ANA200704260",14,"Debut game for Brandon Wood","2007ANA.EVA.regular.comment.csv",6
-"ANA200705100",61,"Debut game for Matthew Brown","2007ANA.EVA.regular.comment.csv",7
-"ANA200705280",70,"Debut game for Nathan Haynes","2007ANA.EVA.regular.comment.csv",8
-"ANA200706050",25,"$Gary Matthews called for interference","2007ANA.EVA.regular.comment.csv",9
-"ANA200706230",25,"Angels center fielder Gary Matthews left the game due to an injured leg","2007ANA.EVA.regular.comment.csv",10
-"ANA200706260",53,"$Joey Gathright called out on appeal for leaving 3B early; RF Vlad Guerrero is credited with DP, but not assist","2007ANA.EVA.regular.comment.csv",11
-"ANA200706270",58,"Angels Reggie Willits left the game due to an injured knee","2007ANA.EVA.regular.comment.csv",12
-"ANA200707230",13,"Angels pitcher Bartolo Colon left the game due to an injured elbow","2007ANA.EVA.regular.comment.csv",13
-"ANA200707240",62,"Athletics shortstop Bobby Crosby left the game due to an injured hand/wrist","2007ANA.EVA.regular.comment.csv",14
-"ANA200707270",18,"Angels catcher Mike Napoli left the game due to an injured foot/ankle","2007ANA.EVA.regular.comment.csv",15
-"ANA200707290",86,"Debut game for Marcus Gwyn","2007ANA.EVA.regular.comment.csv",16
-"ANA200708060",25,"ej,ramim002,P,hoyej901,Checked swing Red Sox Manny Ramirez ejected by HP umpire James Hoye","2007ANA.EVA.regular.comment.csv",17
-"ANA200708060",30,"Debut game for Brandon Moss","2007ANA.EVA.regular.comment.csv",18
-"ANA200708100",76,"Debut game for Tommy Watkins","2007ANA.EVA.regular.comment.csv",19
-"ANA200708110",25,"Twins designated hitter Jason Kubel left the game due to an injured chest","2007ANA.EVA.regular.comment.csv",20
-"ANA200708200",73,"ej,sciom001,M,iassd901,Checked swing Angels Manager Mike Scioscia ejected by 3B umpire Dan Iassogna","2007ANA.EVA.regular.comment.csv",21
-"ANA200708210",40,"Angels third baseman Chone Figgins left the game due to an injured hand/wrist","2007ANA.EVA.regular.comment.csv",22
-"ANA200708220",27,"orginally scored as S1, changed next day","2007ANA.EVA.regular.comment.csv",23
-"ANA200709010",69,"Debut game for Rich Thompson","2007ANA.EVA.regular.comment.csv",24
-"ANA200709050",75,"originally ruled DI, changed after game to SB changed back to DI two days later","2007ANA.EVA.regular.comment.csv",25
-"ANA200709170",20,"$Devil Rays argued the call at 1B by umpire Wegner","2007ANA.EVA.regular.comment.csv",26
-"ANA200709170",68,"Debut game for Jeff Ridgway","2007ANA.EVA.regular.comment.csv",27
-"ANA200709170",73,"$Gomes called out on a check swing call by 1B umpire Mark Wegner","2007ANA.EVA.regular.comment.csv",28
-"ANA200709170",74,"ej,maddj801,M,froeb901,Check swing $Devil Rays manager Maddon ejected by HP umpire Froemming for yelling at 1B umpire Mark Wegner about check swing on Wilson","2007ANA.EVA.regular.comment.csv",29
-"ANA200709190",67,"Debut game for Justin Ruggiano","2007ANA.EVA.regular.comment.csv",30
-"ANA200709200",35,"$Johjima stared at the mound as he went to 1B","2007ANA.EVA.regular.comment.csv",31
-"ANA200709200",36,"$Campillo threw a pitch up and in to Mathis","2007ANA.EVA.regular.comment.csv",32
-"ANA200709200",39,"$ball two to Guerrero was at his head; both sides warned","2007ANA.EVA.regular.comment.csv",33
-"ANA200709200",60,"ej,campj002,P,demud901,Throwing at batter after warning ej,mclaj801,M,demud901,Throwing at batter after warning $Pitcher Campillo and Seattle manager McLaren ejected by HP umpire DeMuth when first pitch to Guerrero was at his head; benches emptied and Guerrero had to be restrained","2007ANA.EVA.regular.comment.csv",34
-"ANA200709200",82,"Scioscia's 700th victory as manager","2007ANA.EVA.regular.comment.csv",35
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"ANA200704060",46,"Athletics shortstop Bobby Crosby left the game due to an injured back","2007ANA.EVA.regular.comment.csv",2
+"ANA200704200",61,"fan interference","2007ANA.EVA.regular.comment.csv",3
+"ANA200704230",2,"$fan reached onto field and knocked ball away from Anderson","2007ANA.EVA.regular.comment.csv",4
+"ANA200704230",3,"$Kotchman reached into stands but ball bounced off his glove and into fan. Ball came back to Kotchman as 1B umpire Joyce tumbled into camera well. Kotchman tried to claim he had caught ball","2007ANA.EVA.regular.comment.csv",5
+"ANA200704240",10,"Previous play is really 1E6 on runner from first","2007ANA.EVA.regular.comment.csv",6
+"ANA200704260",14,"Debut game for Brandon Wood","2007ANA.EVA.regular.comment.csv",7
+"ANA200705100",61,"Debut game for Matthew Brown","2007ANA.EVA.regular.comment.csv",8
+"ANA200705280",70,"Debut game for Nathan Haynes","2007ANA.EVA.regular.comment.csv",9
+"ANA200706050",25,"$Gary Matthews called for interference","2007ANA.EVA.regular.comment.csv",10
+"ANA200706230",25,"Angels center fielder Gary Matthews left the game due to an injured leg","2007ANA.EVA.regular.comment.csv",11
+"ANA200706260",53,"$Joey Gathright called out on appeal for leaving 3B early; RF Vlad Guerrero is credited with DP, but not assist","2007ANA.EVA.regular.comment.csv",12
+"ANA200706270",58,"Angels Reggie Willits left the game due to an injured knee","2007ANA.EVA.regular.comment.csv",13
+"ANA200707230",13,"Angels pitcher Bartolo Colon left the game due to an injured elbow","2007ANA.EVA.regular.comment.csv",14
+"ANA200707240",62,"Athletics shortstop Bobby Crosby left the game due to an injured hand/wrist","2007ANA.EVA.regular.comment.csv",15
+"ANA200707270",18,"Angels catcher Mike Napoli left the game due to an injured foot/ankle","2007ANA.EVA.regular.comment.csv",16
+"ANA200707290",86,"Debut game for Marcus Gwyn","2007ANA.EVA.regular.comment.csv",17
+"ANA200708060",25,"ej,ramim002,P,hoyej901,Checked swing Red Sox Manny Ramirez ejected by HP umpire James Hoye","2007ANA.EVA.regular.comment.csv",18
+"ANA200708060",30,"Debut game for Brandon Moss","2007ANA.EVA.regular.comment.csv",19
+"ANA200708100",76,"Debut game for Tommy Watkins","2007ANA.EVA.regular.comment.csv",20
+"ANA200708110",25,"Twins designated hitter Jason Kubel left the game due to an injured chest","2007ANA.EVA.regular.comment.csv",21
+"ANA200708200",73,"ej,sciom001,M,iassd901,Checked swing Angels Manager Mike Scioscia ejected by 3B umpire Dan Iassogna","2007ANA.EVA.regular.comment.csv",22
+"ANA200708210",40,"Angels third baseman Chone Figgins left the game due to an injured hand/wrist","2007ANA.EVA.regular.comment.csv",23
+"ANA200708220",27,"orginally scored as S1, changed next day","2007ANA.EVA.regular.comment.csv",24
+"ANA200709010",69,"Debut game for Rich Thompson","2007ANA.EVA.regular.comment.csv",25
+"ANA200709050",75,"originally ruled DI, changed after game to SB changed back to DI two days later","2007ANA.EVA.regular.comment.csv",26
+"ANA200709170",20,"$Devil Rays argued the call at 1B by umpire Wegner","2007ANA.EVA.regular.comment.csv",27
+"ANA200709170",68,"Debut game for Jeff Ridgway","2007ANA.EVA.regular.comment.csv",28
+"ANA200709170",73,"$Gomes called out on a check swing call by 1B umpire Mark Wegner","2007ANA.EVA.regular.comment.csv",29
+"ANA200709170",74,"ej,maddj801,M,froeb901,Check swing $Devil Rays manager Maddon ejected by HP umpire Froemming for yelling at 1B umpire Mark Wegner about check swing on Wilson","2007ANA.EVA.regular.comment.csv",30
+"ANA200709190",67,"Debut game for Justin Ruggiano","2007ANA.EVA.regular.comment.csv",31
+"ANA200709200",35,"$Johjima stared at the mound as he went to 1B","2007ANA.EVA.regular.comment.csv",32
+"ANA200709200",36,"$Campillo threw a pitch up and in to Mathis","2007ANA.EVA.regular.comment.csv",33
+"ANA200709200",39,"$ball two to Guerrero was at his head; both sides warned","2007ANA.EVA.regular.comment.csv",34
+"ANA200709200",60,"ej,campj002,P,demud901,Throwing at batter after warning ej,mclaj801,M,demud901,Throwing at batter after warning $Pitcher Campillo and Seattle manager McLaren ejected by HP umpire DeMuth when first pitch to Guerrero was at his head; benches emptied and Guerrero had to be restrained","2007ANA.EVA.regular.comment.csv",35
+"ANA200709200",82,"Scioscia's 700th victory as manager","2007ANA.EVA.regular.comment.csv",36

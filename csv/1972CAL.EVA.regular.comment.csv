@@ -1,23 +1,24 @@
-"CAL197204150",15,"Debut game for Joe Lovitto","FILENAME_TX","LINE_NUMBER_CT"
-"CAL197204180",56,"Debut game for Tom Norton","1972CAL.EVA.regular.comment.csv",2
-"CAL197205050",11,"$Joe Lahoud rounded 2B too far but was safe on the error","1972CAL.EVA.regular.comment.csv",3
-"CAL197205060",55,"ej,riced101,M,malog901,Call at 1B Angels Manager Del Rice ejected by 1B umpire George Maloney arguing that the ball did not hit the runner","1972CAL.EVA.regular.comment.csv",4
-"CAL197205090",48,"$in a collision at HP with Art Kusnyer, Carl Yastrzemski strained ligaments in his right knee","1972CAL.EVA.regular.comment.csv",5
-"CAL197205120",56,"$Art Kusyner's throw back to the mound was wild","1972CAL.EVA.regular.comment.csv",6
-"CAL197205250",5,"ej,lemob101,M,odomj901,Obstruction non-call $Cookie Rojas argued obstruction should be called on Bob Oliver during rundown; Royals Manager Bob Lemon ejected by HP umpire Jim Odom","1972CAL.EVA.regular.comment.csv",7
-"CAL197205250",10,"390 ft","1972CAL.EVA.regular.comment.csv",8
-"CAL197205260",46,"ej,riced101,M,denkd901,Balls and strikes $Angels manager Rice ejected by HP umpire Denkinger for arguing balls and strikes while Otis was at bat","1972CAL.EVA.regular.comment.csv",9
-"CAL197205280",39,"$Dick Drago failed to cover 1B","1972CAL.EVA.regular.comment.csv",10
-"CAL197205291",46,"425 ft","1972CAL.EVA.regular.comment.csv",11
-"CAL197207070",0,"Protest=V","1972CAL.EVA.regular.comment.csv",12
-"CAL197207070",75,"ej,gaglp101,P,ricej901,Call at HP (Reversed) ej,kaske101,M,ricej901,Call at HP (Reversed; Faked fainting) $Ben Oglivie was called safe at HP when he swerved to the left and slid around Jeff Torborg; Angels manager Del Rice argued with HP umpire Hank Morgenweck, who eventually asked 3B umpire Marty Springstead for help; Springstead ruled that Oglivie did run outside the baseline; the call was reversed and Oglivie ruled out; Red Sox manager Eddie Kasko charged the plate and Red Sox players threw towels out of the dugout; Kasko faked fainting on the field and was ejected by 2B umpire John Rice; Phil Gagliano ejected by Rice from the bench; the Red Sox protested the game","1972CAL.EVA.regular.comment.csv",13
-"CAL197207110",20,"$infield in for Felipe Alou","1972CAL.EVA.regular.comment.csv",14
-"CAL197207120",20,"$John Stephenson left with injured finger","1972CAL.EVA.regular.comment.csv",15
-"CAL197207120",71,"$Mel Stottlemyre pitched 37 consecutive shutout innings against the Angels","1972CAL.EVA.regular.comment.csv",16
-"CAL197207310",68,"$Lou Piniella had to hold at 3B on the popup","1972CAL.EVA.regular.comment.csv",17
-"CAL197208120",26,"ej,riced101,M,nappl901,Fair/foul call $Angels manager Rice ejected by HP umpire Napp for arguing that Cardenas's ball was foul and not a ground out","1972CAL.EVA.regular.comment.csv",18
-"CAL197209130",74,"$Vic Harris called for interference","1972CAL.EVA.regular.comment.csv",19
-"CAL197209200",8,"ej,may-j101,P,ricej901,Bench jockeying ej,lemob101,M,ricej901,Time out call ej,dragd101,P,ricej901,Bench jockeying $Royals pitcher Steve Busby hit a grand slam to LF; however, 1B umpire John Rice had called time before the pitch to eject Jerry May from the bench for yelling about an earlier call at 1B; Royals Manager Bob Lemon argued the loss of the home run and was ejected by Rice; Dick Drago was ejected from the bench by Rice","1972CAL.EVA.regular.comment.csv",20
-"CAL197209200",43,"$John Mayberry and Carl Taylor collided chasing Curt Motton's foul ball","1972CAL.EVA.regular.comment.csv",21
-"CAL197209210",61,"missed squeeze play","1972CAL.EVA.regular.comment.csv",22
-"CAL197210030",55,"last two plays one play","1972CAL.EVA.regular.comment.csv",23
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"CAL197204150",15,"Debut game for Joe Lovitto","1972CAL.EVA.regular.comment.csv",2
+"CAL197204180",56,"Debut game for Tom Norton","1972CAL.EVA.regular.comment.csv",3
+"CAL197205050",11,"$Joe Lahoud rounded 2B too far but was safe on the error","1972CAL.EVA.regular.comment.csv",4
+"CAL197205060",55,"ej,riced101,M,malog901,Call at 1B Angels Manager Del Rice ejected by 1B umpire George Maloney arguing that the ball did not hit the runner","1972CAL.EVA.regular.comment.csv",5
+"CAL197205090",48,"$in a collision at HP with Art Kusnyer, Carl Yastrzemski strained ligaments in his right knee","1972CAL.EVA.regular.comment.csv",6
+"CAL197205120",56,"$Art Kusyner's throw back to the mound was wild","1972CAL.EVA.regular.comment.csv",7
+"CAL197205250",5,"ej,lemob101,M,odomj901,Obstruction non-call $Cookie Rojas argued obstruction should be called on Bob Oliver during rundown; Royals Manager Bob Lemon ejected by HP umpire Jim Odom","1972CAL.EVA.regular.comment.csv",8
+"CAL197205250",10,"390 ft","1972CAL.EVA.regular.comment.csv",9
+"CAL197205260",46,"ej,riced101,M,denkd901,Balls and strikes $Angels manager Rice ejected by HP umpire Denkinger for arguing balls and strikes while Otis was at bat","1972CAL.EVA.regular.comment.csv",10
+"CAL197205280",39,"$Dick Drago failed to cover 1B","1972CAL.EVA.regular.comment.csv",11
+"CAL197205291",46,"425 ft","1972CAL.EVA.regular.comment.csv",12
+"CAL197207070",0,"Protest=V","1972CAL.EVA.regular.comment.csv",13
+"CAL197207070",75,"ej,gaglp101,P,ricej901,Call at HP (Reversed) ej,kaske101,M,ricej901,Call at HP (Reversed; Faked fainting) $Ben Oglivie was called safe at HP when he swerved to the left and slid around Jeff Torborg; Angels manager Del Rice argued with HP umpire Hank Morgenweck, who eventually asked 3B umpire Marty Springstead for help; Springstead ruled that Oglivie did run outside the baseline; the call was reversed and Oglivie ruled out; Red Sox manager Eddie Kasko charged the plate and Red Sox players threw towels out of the dugout; Kasko faked fainting on the field and was ejected by 2B umpire John Rice; Phil Gagliano ejected by Rice from the bench; the Red Sox protested the game","1972CAL.EVA.regular.comment.csv",14
+"CAL197207110",20,"$infield in for Felipe Alou","1972CAL.EVA.regular.comment.csv",15
+"CAL197207120",20,"$John Stephenson left with injured finger","1972CAL.EVA.regular.comment.csv",16
+"CAL197207120",71,"$Mel Stottlemyre pitched 37 consecutive shutout innings against the Angels","1972CAL.EVA.regular.comment.csv",17
+"CAL197207310",68,"$Lou Piniella had to hold at 3B on the popup","1972CAL.EVA.regular.comment.csv",18
+"CAL197208120",26,"ej,riced101,M,nappl901,Fair/foul call $Angels manager Rice ejected by HP umpire Napp for arguing that Cardenas's ball was foul and not a ground out","1972CAL.EVA.regular.comment.csv",19
+"CAL197209130",74,"$Vic Harris called for interference","1972CAL.EVA.regular.comment.csv",20
+"CAL197209200",8,"ej,may-j101,P,ricej901,Bench jockeying ej,lemob101,M,ricej901,Time out call ej,dragd101,P,ricej901,Bench jockeying $Royals pitcher Steve Busby hit a grand slam to LF; however, 1B umpire John Rice had called time before the pitch to eject Jerry May from the bench for yelling about an earlier call at 1B; Royals Manager Bob Lemon argued the loss of the home run and was ejected by Rice; Dick Drago was ejected from the bench by Rice","1972CAL.EVA.regular.comment.csv",21
+"CAL197209200",43,"$John Mayberry and Carl Taylor collided chasing Curt Motton's foul ball","1972CAL.EVA.regular.comment.csv",22
+"CAL197209210",61,"missed squeeze play","1972CAL.EVA.regular.comment.csv",23
+"CAL197210030",55,"last two plays one play","1972CAL.EVA.regular.comment.csv",24

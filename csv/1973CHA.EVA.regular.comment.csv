@@ -1,24 +1,25 @@
-"CHA197305010",50,"23 minute rain delay","FILENAME_TX","LINE_NUMBER_CT"
-"CHA197305020",54,"20 minute rain delay","1973CHA.EVA.regular.comment.csv",2
-"CHA197305070",2,"$Tommy Harper overslid 2B bag","1973CHA.EVA.regular.comment.csv",3
-"CHA197305260",0,"Suspend=19730528,,2,2,96","1973CHA.EVA.regular.comment.csv",4
-"CHA197305260",6,"Debut game for Bill Sharp","1973CHA.EVA.regular.comment.csv",5
-"CHA197305260",104,"17 minute rain delay","1973CHA.EVA.regular.comment.csv",6
-"CHA197305260",127,"suspended,19730528,CHI10,curfew Game suspended due to curfew; resumed on 5/28/73","1973CHA.EVA.regular.comment.csv",7
-"CHA197305310",59,"Debut game for Brian Downing, who left injured after one pitch; Downing made a sliding catch of Dick McAuliffe's popup and slid down the dugout steps and severly damaged his knee","1973CHA.EVA.regular.comment.csv",8
-"CHA197306160",64,"Game called after 1:08 rain delay beginning at 10:22","1973CHA.EVA.regular.comment.csv",9
-"CHA197306230",59,"5 minute rain delay","1973CHA.EVA.regular.comment.csv",10
-"CHA197306230",63,"20 minute rain delay","1973CHA.EVA.regular.comment.csv",11
-"CHA197308010",0,"Protest=V","1973CHA.EVA.regular.comment.csv",12
-"CHA197308010",3,"2B umpire Bill Deegan made Dave McNally change tape on left ear to flesh color; Orioles manager Earl Weaver protested the game","1973CHA.EVA.regular.comment.csv",13
-"CHA197308020",13,"Debut game for George Brett","1973CHA.EVA.regular.comment.csv",14
-"CHA197308262",14,"Debut game for Pete Varney","1973CHA.EVA.regular.comment.csv",15
-"CHA197308280",67,"$missed squeeze attempt","1973CHA.EVA.regular.comment.csv",16
-"CHA197309010",32,"Carlos May left with strained left thigh","1973CHA.EVA.regular.comment.csv",17
-"CHA197309020",47,"Brian Downing spiked","1973CHA.EVA.regular.comment.csv",18
-"CHA197309031",1,"Debut game for Rick Henninger","1973CHA.EVA.regular.comment.csv",19
-"CHA197309031",62,"ej,johna104,P,malog901,Balls and strikes Alex Johnson ejected by 1B umpire George Maloney","1973CHA.EVA.regular.comment.csv",20
-"CHA197309032",41,"24 minute rain delay","1973CHA.EVA.regular.comment.csv",21
-"CHA197309140",15,"ej,may-c101,P,frana901,Called third strike Carlos May ejected by HP umpire Art Frantz","1973CHA.EVA.regular.comment.csv",22
-"CHA197309250",38,"$Bill Sharp hit on shoulder","1973CHA.EVA.regular.comment.csv",23
-"CHA197309260",30,"ball struck Stan Bahnsen and went into LF","1973CHA.EVA.regular.comment.csv",24
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"CHA197305010",50,"23 minute rain delay","1973CHA.EVA.regular.comment.csv",2
+"CHA197305020",54,"20 minute rain delay","1973CHA.EVA.regular.comment.csv",3
+"CHA197305070",2,"$Tommy Harper overslid 2B bag","1973CHA.EVA.regular.comment.csv",4
+"CHA197305260",0,"Suspend=19730528,,2,2,96","1973CHA.EVA.regular.comment.csv",5
+"CHA197305260",6,"Debut game for Bill Sharp","1973CHA.EVA.regular.comment.csv",6
+"CHA197305260",104,"17 minute rain delay","1973CHA.EVA.regular.comment.csv",7
+"CHA197305260",127,"suspended,19730528,CHI10,curfew Game suspended due to curfew; resumed on 5/28/73","1973CHA.EVA.regular.comment.csv",8
+"CHA197305310",59,"Debut game for Brian Downing, who left injured after one pitch; Downing made a sliding catch of Dick McAuliffe's popup and slid down the dugout steps and severly damaged his knee","1973CHA.EVA.regular.comment.csv",9
+"CHA197306160",64,"Game called after 1:08 rain delay beginning at 10:22","1973CHA.EVA.regular.comment.csv",10
+"CHA197306230",59,"5 minute rain delay","1973CHA.EVA.regular.comment.csv",11
+"CHA197306230",63,"20 minute rain delay","1973CHA.EVA.regular.comment.csv",12
+"CHA197308010",0,"Protest=V","1973CHA.EVA.regular.comment.csv",13
+"CHA197308010",3,"2B umpire Bill Deegan made Dave McNally change tape on left ear to flesh color; Orioles manager Earl Weaver protested the game","1973CHA.EVA.regular.comment.csv",14
+"CHA197308020",13,"Debut game for George Brett","1973CHA.EVA.regular.comment.csv",15
+"CHA197308262",14,"Debut game for Pete Varney","1973CHA.EVA.regular.comment.csv",16
+"CHA197308280",67,"$missed squeeze attempt","1973CHA.EVA.regular.comment.csv",17
+"CHA197309010",32,"Carlos May left with strained left thigh","1973CHA.EVA.regular.comment.csv",18
+"CHA197309020",47,"Brian Downing spiked","1973CHA.EVA.regular.comment.csv",19
+"CHA197309031",1,"Debut game for Rick Henninger","1973CHA.EVA.regular.comment.csv",20
+"CHA197309031",62,"ej,johna104,P,malog901,Balls and strikes Alex Johnson ejected by 1B umpire George Maloney","1973CHA.EVA.regular.comment.csv",21
+"CHA197309032",41,"24 minute rain delay","1973CHA.EVA.regular.comment.csv",22
+"CHA197309140",15,"ej,may-c101,P,frana901,Called third strike Carlos May ejected by HP umpire Art Frantz","1973CHA.EVA.regular.comment.csv",23
+"CHA197309250",38,"$Bill Sharp hit on shoulder","1973CHA.EVA.regular.comment.csv",24
+"CHA197309260",30,"ball struck Stan Bahnsen and went into LF","1973CHA.EVA.regular.comment.csv",25

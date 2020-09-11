@@ -1,29 +1,30 @@
-"PHI193405230",0,"Clear and warm","FILENAME_TX","LINE_NUMBER_CT"
-"PHI193405230",7,"Big hop","1934PHI.EVN.regular.comment.csv",2
-"PHI193405230",57,"Pop up to CF and pitcher hit 3B in back","1934PHI.EVN.regular.comment.csv",3
-"PHI193405230",64,"Pop fly behing SS","1934PHI.EVN.regular.comment.csv",4
-"PHI193405240",0,"Clear and warm","1934PHI.EVN.regular.comment.csv",5
-"PHI193405240",34,"Hit and run -  SS pulled over","1934PHI.EVN.regular.comment.csv",6
-"PHI193405280",53,"$line drive to ss, intentionally dropped, tagged 2b runner, stepped on 2b","1934PHI.EVN.regular.comment.csv",7
-"PHI193406060",51,"ej,lopea102,P,pfirc901,Balls and strikes Al Lopez ejected by HP umpire Cy Pfirman","1934PHI.EVN.regular.comment.csv",8
-"PHI193406060",72,"$Lonny Frey spiked by Dick Bartell","1934PHI.EVN.regular.comment.csv",9
-"PHI193406100",20,"$7-minute rain delay","1934PHI.EVN.regular.comment.csv",10
-"PHI193406100",51,"$The ball hit Hubbell in the left thumb. He then slipped on the wet grass, injuring his arm too","1934PHI.EVN.regular.comment.csv",11
-"PHI193407042",15,"$Beck threw ball against RF wall, getting nickname of Boom-Boom","1934PHI.EVN.regular.comment.csv",12
-"PHI193407072",80,"$Berger hit the ball onto Lehigh Avenue. This was the third homer ever hit onto Lehigh Ave., the second time by Berger.","1934PHI.EVN.regular.comment.csv",13
-"PHI193407080",18,"$Busted squeeze play","1934PHI.EVN.regular.comment.csv",14
-"PHI193407121",19,"$Paul Dean left with sprained left ankle","1934PHI.EVN.regular.comment.csv",15
-"PHI193407121",40,"$Jack Rothrock threw wildly to 1B","1934PHI.EVN.regular.comment.csv",16
-"PHI193407121",53,"ej,frisf101,M,stard901,Call at 2B Cardinals manager Frank Frisch ejected by 1B umpire Dolly Stark","1934PHI.EVN.regular.comment.csv",17
-"PHI193407121",53,"ej,delab102,P,barrg901,Balls and strikes Bill DeLancey ejected by HP umpire George Barr with 3-2 count on Bucky Walters","1934PHI.EVN.regular.comment.csv",18
-"PHI193407122",62,"DWS: pbp ends here, rest deduced","1934PHI.EVN.regular.comment.csv",19
-"PHI193407262",70,"ej,trayp101,M,morac102,Call at 2B $Pirate manager Traynor argued that Todd was out at 2nd and was ejected by 3b umpire Moran who ruled that Hoyt's throw pulled Vaughan off base; no sacrifice awarded","1934PHI.EVN.regular.comment.csv",20
-"PHI193408042",13,"$Ethan Allen stopped at 3B but tried to score when the ball got away from Hughie Critz","1934PHI.EVN.regular.comment.csv",21
-"PHI193408042",62,"DWS: pbp ends here, rest deduced","1934PHI.EVN.regular.comment.csv",22
-"PHI193408110",70,"$Dick Bartell trapped a pop fly","1934PHI.EVN.regular.comment.csv",23
-"PHI193409091",8,"$Medwick re-aggravated an injury from an earlier spiking and had to leave the game.","1934PHI.EVN.regular.comment.csv",24
-"PHI193409092",0,"$This was the first Sunday doubleheader in Philadelphia history; Philadelphia Blue Laws only allowed baseball to be played on Sunday from 2 - 6 pm EST (3 - 7 pm EDT).","1934PHI.EVN.regular.comment.csv",25
-"PHI193409092",72,"$Game called after 8 innings due to Sunday curfew","1934PHI.EVN.regular.comment.csv",26
-"PHI193409100",14,"10 minute rain delay","1934PHI.EVN.regular.comment.csv",27
-"PHI193409181",22,"ej,warnl101,P,rearb901,Balls and strikes Lon Warneke ejected by HP umpire Beans Reardon","1934PHI.EVN.regular.comment.csv",28
-"PHI193409290",38,"rain started","1934PHI.EVN.regular.comment.csv",29
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"PHI193405230",0,"Clear and warm","1934PHI.EVN.regular.comment.csv",2
+"PHI193405230",7,"Big hop","1934PHI.EVN.regular.comment.csv",3
+"PHI193405230",57,"Pop up to CF and pitcher hit 3B in back","1934PHI.EVN.regular.comment.csv",4
+"PHI193405230",64,"Pop fly behing SS","1934PHI.EVN.regular.comment.csv",5
+"PHI193405240",0,"Clear and warm","1934PHI.EVN.regular.comment.csv",6
+"PHI193405240",34,"Hit and run -  SS pulled over","1934PHI.EVN.regular.comment.csv",7
+"PHI193405280",53,"$line drive to ss, intentionally dropped, tagged 2b runner, stepped on 2b","1934PHI.EVN.regular.comment.csv",8
+"PHI193406060",51,"ej,lopea102,P,pfirc901,Balls and strikes Al Lopez ejected by HP umpire Cy Pfirman","1934PHI.EVN.regular.comment.csv",9
+"PHI193406060",72,"$Lonny Frey spiked by Dick Bartell","1934PHI.EVN.regular.comment.csv",10
+"PHI193406100",20,"$7-minute rain delay","1934PHI.EVN.regular.comment.csv",11
+"PHI193406100",51,"$The ball hit Hubbell in the left thumb. He then slipped on the wet grass, injuring his arm too","1934PHI.EVN.regular.comment.csv",12
+"PHI193407042",15,"$Beck threw ball against RF wall, getting nickname of Boom-Boom","1934PHI.EVN.regular.comment.csv",13
+"PHI193407072",80,"$Berger hit the ball onto Lehigh Avenue. This was the third homer ever hit onto Lehigh Ave., the second time by Berger.","1934PHI.EVN.regular.comment.csv",14
+"PHI193407080",18,"$Busted squeeze play","1934PHI.EVN.regular.comment.csv",15
+"PHI193407121",19,"$Paul Dean left with sprained left ankle","1934PHI.EVN.regular.comment.csv",16
+"PHI193407121",40,"$Jack Rothrock threw wildly to 1B","1934PHI.EVN.regular.comment.csv",17
+"PHI193407121",53,"ej,frisf101,M,stard901,Call at 2B Cardinals manager Frank Frisch ejected by 1B umpire Dolly Stark","1934PHI.EVN.regular.comment.csv",18
+"PHI193407121",53,"ej,delab102,P,barrg901,Balls and strikes Bill DeLancey ejected by HP umpire George Barr with 3-2 count on Bucky Walters","1934PHI.EVN.regular.comment.csv",19
+"PHI193407122",62,"DWS: pbp ends here, rest deduced","1934PHI.EVN.regular.comment.csv",20
+"PHI193407262",70,"ej,trayp101,M,morac102,Call at 2B $Pirate manager Traynor argued that Todd was out at 2nd and was ejected by 3b umpire Moran who ruled that Hoyt's throw pulled Vaughan off base; no sacrifice awarded","1934PHI.EVN.regular.comment.csv",21
+"PHI193408042",13,"$Ethan Allen stopped at 3B but tried to score when the ball got away from Hughie Critz","1934PHI.EVN.regular.comment.csv",22
+"PHI193408042",62,"DWS: pbp ends here, rest deduced","1934PHI.EVN.regular.comment.csv",23
+"PHI193408110",70,"$Dick Bartell trapped a pop fly","1934PHI.EVN.regular.comment.csv",24
+"PHI193409091",8,"$Medwick re-aggravated an injury from an earlier spiking and had to leave the game.","1934PHI.EVN.regular.comment.csv",25
+"PHI193409092",0,"$This was the first Sunday doubleheader in Philadelphia history; Philadelphia Blue Laws only allowed baseball to be played on Sunday from 2 - 6 pm EST (3 - 7 pm EDT).","1934PHI.EVN.regular.comment.csv",26
+"PHI193409092",72,"$Game called after 8 innings due to Sunday curfew","1934PHI.EVN.regular.comment.csv",27
+"PHI193409100",14,"10 minute rain delay","1934PHI.EVN.regular.comment.csv",28
+"PHI193409181",22,"ej,warnl101,P,rearb901,Balls and strikes Lon Warneke ejected by HP umpire Beans Reardon","1934PHI.EVN.regular.comment.csv",29
+"PHI193409290",38,"rain started","1934PHI.EVN.regular.comment.csv",30

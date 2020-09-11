@@ -1,26 +1,27 @@
-"PHI197504140",1,"Debut game for Randy Tate","FILENAME_TX","LINE_NUMBER_CT"
-"PHI197505130",30,"ej,ozard801,M,olsea901,Balls and strikes $Phillies manager Ozark ejected by HP umpire Olsen for arguing balls and strikes while returning to dugout after mound visit","1975PHI.EVN.regular.comment.csv",2
-"PHI197505140",10,"ej,andes101,M,tatat901,Balls and strikes Reds Manager Sparky Anderson ejected by HP umpire Terry Tata","1975PHI.EVN.regular.comment.csv",3
-"PHI197505300",78,"Debut game for Larry Fritz","1975PHI.EVN.regular.comment.csv",4
-"PHI197505310",71,"$Cliff Johnson had pinch hit previously in this inning; officially his position is null for this home run","1975PHI.EVN.regular.comment.csv",5
-"PHI197506040",69,"$Greg Luzinski charged the mound and struck Bill Greif; both benches cleared; brawl ensued","1975PHI.EVN.regular.comment.csv",6
-"PHI197506060",54,"Rain delay","1975PHI.EVN.regular.comment.csv",7
-"PHI197506241",36,"$Manny Sanguillen sprained right ankle rounding 3B","1975PHI.EVN.regular.comment.csv",8
-"PHI197506242",52,"$Bob Robertson hit on left elbow","1975PHI.EVN.regular.comment.csv",9
-"PHI197506250",79,"$Frank Taveras called for interference for being out of batter's box","1975PHI.EVN.regular.comment.csv",10
-"PHI197507170",97,"$Larry Bowa saw 3B not covered on sacrifice","1975PHI.EVN.regular.comment.csv",11
-"PHI197507200",7,"missing play in PHI197507200","1975PHI.EVN.regular.comment.csv",12
-"PHI197507240",61,"ej,starh101,C,willb901,Balls and strikes $Braves coach Starrette ejected by HP umpire Williams for arguing balls and strikes","1975PHI.EVN.regular.comment.csv",13
-"PHI197508040",0,"Protest=V","1975PHI.EVN.regular.comment.csv",14
-"PHI197508040",32,"21 minute rain delay","1975PHI.EVN.regular.comment.csv",15
-"PHI197508040",59,"2:18 rain delay; Cubs manager Jim Marshall protested that the umpires should have called the game","1975PHI.EVN.regular.comment.csv",16
-"PHI197508050",13,"Debut game for Ken Crosby","1975PHI.EVN.regular.comment.csv",17
-"PHI197508170",30,"Mike Ivie injured his back running to 1B","1975PHI.EVN.regular.comment.csv",18
-"PHI197509010",64,"$Gary Carter injured knee at play at plate in this inning","1975PHI.EVN.regular.comment.csv",19
-"PHI197509030",12,"Debut game for Ellis Valentine","1975PHI.EVN.regular.comment.csv",20
-"PHI197509051",42,"ej,madlb001,P,dalej901,Called third strike Bill Madlock ejected by HP umpire Jerry Dale","1975PHI.EVN.regular.comment.csv",21
-"PHI197509052",7,"Rick Reuschel injured","1975PHI.EVN.regular.comment.csv",22
-"PHI197509080",0,"Protest=H","1975PHI.EVN.regular.comment.csv",23
-"PHI197509080",25,"$the Phillies protested the game, alleging that Greg Luzinski should only get one extra base on the overthrow","1975PHI.EVN.regular.comment.csv",24
-"PHI197509080",62,"ej,reedr001,P,froeb901,Arguing balls and strikes $Cardinals Reed ejected by HP umpire Froemming for arguing balls and strikes after he was removed","1975PHI.EVN.regular.comment.csv",25
-"PHI197509261",41,"$Greg Luzinski called for interference","1975PHI.EVN.regular.comment.csv",26
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"PHI197504140",1,"Debut game for Randy Tate","1975PHI.EVN.regular.comment.csv",2
+"PHI197505130",30,"ej,ozard801,M,olsea901,Balls and strikes $Phillies manager Ozark ejected by HP umpire Olsen for arguing balls and strikes while returning to dugout after mound visit","1975PHI.EVN.regular.comment.csv",3
+"PHI197505140",10,"ej,andes101,M,tatat901,Balls and strikes Reds Manager Sparky Anderson ejected by HP umpire Terry Tata","1975PHI.EVN.regular.comment.csv",4
+"PHI197505300",78,"Debut game for Larry Fritz","1975PHI.EVN.regular.comment.csv",5
+"PHI197505310",71,"$Cliff Johnson had pinch hit previously in this inning; officially his position is null for this home run","1975PHI.EVN.regular.comment.csv",6
+"PHI197506040",69,"$Greg Luzinski charged the mound and struck Bill Greif; both benches cleared; brawl ensued","1975PHI.EVN.regular.comment.csv",7
+"PHI197506060",54,"Rain delay","1975PHI.EVN.regular.comment.csv",8
+"PHI197506241",36,"$Manny Sanguillen sprained right ankle rounding 3B","1975PHI.EVN.regular.comment.csv",9
+"PHI197506242",52,"$Bob Robertson hit on left elbow","1975PHI.EVN.regular.comment.csv",10
+"PHI197506250",79,"$Frank Taveras called for interference for being out of batter's box","1975PHI.EVN.regular.comment.csv",11
+"PHI197507170",97,"$Larry Bowa saw 3B not covered on sacrifice","1975PHI.EVN.regular.comment.csv",12
+"PHI197507200",7,"missing play in PHI197507200","1975PHI.EVN.regular.comment.csv",13
+"PHI197507240",61,"ej,starh101,C,willb901,Balls and strikes $Braves coach Starrette ejected by HP umpire Williams for arguing balls and strikes","1975PHI.EVN.regular.comment.csv",14
+"PHI197508040",0,"Protest=V","1975PHI.EVN.regular.comment.csv",15
+"PHI197508040",32,"21 minute rain delay","1975PHI.EVN.regular.comment.csv",16
+"PHI197508040",59,"2:18 rain delay; Cubs manager Jim Marshall protested that the umpires should have called the game","1975PHI.EVN.regular.comment.csv",17
+"PHI197508050",13,"Debut game for Ken Crosby","1975PHI.EVN.regular.comment.csv",18
+"PHI197508170",30,"Mike Ivie injured his back running to 1B","1975PHI.EVN.regular.comment.csv",19
+"PHI197509010",64,"$Gary Carter injured knee at play at plate in this inning","1975PHI.EVN.regular.comment.csv",20
+"PHI197509030",12,"Debut game for Ellis Valentine","1975PHI.EVN.regular.comment.csv",21
+"PHI197509051",42,"ej,madlb001,P,dalej901,Called third strike Bill Madlock ejected by HP umpire Jerry Dale","1975PHI.EVN.regular.comment.csv",22
+"PHI197509052",7,"Rick Reuschel injured","1975PHI.EVN.regular.comment.csv",23
+"PHI197509080",0,"Protest=H","1975PHI.EVN.regular.comment.csv",24
+"PHI197509080",25,"$the Phillies protested the game, alleging that Greg Luzinski should only get one extra base on the overthrow","1975PHI.EVN.regular.comment.csv",25
+"PHI197509080",62,"ej,reedr001,P,froeb901,Arguing balls and strikes $Cardinals Reed ejected by HP umpire Froemming for arguing balls and strikes after he was removed","1975PHI.EVN.regular.comment.csv",26
+"PHI197509261",41,"$Greg Luzinski called for interference","1975PHI.EVN.regular.comment.csv",27

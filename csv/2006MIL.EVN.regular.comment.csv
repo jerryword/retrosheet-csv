@@ -1,26 +1,27 @@
-"MIL200604200",26,"ej,narrj001,M,relic901,Call at 1B Reds Manager Jerry Narron ejected by 1B umpire Charlie Reliford","FILENAME_TX","LINE_NUMBER_CT"
-"MIL200604230",42,"fan interference","2006MIL.EVN.regular.comment.csv",2
-"MIL200604260",52,"ej,corrp102,C,randt901,Balls and strikes Braves Bench Coach Pat Corrales ejected by HP umpire Tony Randazzo","2006MIL.EVN.regular.comment.csv",3
-"MIL200605010",42,"Brewers pitcher Tomo Ohka left the game due to an injured neck/shoulder","2006MIL.EVN.regular.comment.csv",4
-"MIL200605040",10,"Fielder ran through Greene, who lay on the ground for about 5 minutes before walking to the dugout; he suffered a bruised right shoulder and bruises on his face; Koskie tried to score while Greene was laying on the ground but was tagged by Hennessey","2006MIL.EVN.regular.comment.csv",5
-"MIL200605130",75,"ej,sancd001,P,tscht901,Intentional HBP ej,randw001,M,tscht901,Intentional HBP Mets pitcher Duaner Sanchez & Mgr Willie Randolph ejected by HP umpire Tim Tschida","2006MIL.EVN.regular.comment.csv",6
-"MIL200605210",39,"Brewers catcher Damian Miller left the game due to an injured back","2006MIL.EVN.regular.comment.csv",7
-"MIL200606040",23,"Fielder and Jenkins collide while trying to catch a foul popup hit by Harris down the RF line","2006MIL.EVN.regular.comment.csv",8
-"MIL200606040",31,"Brewers right fielder Geoff Jenkins left the game due to a mild concussion","2006MIL.EVN.regular.comment.csv",9
-"MIL200606040",50,"ej,yoste001,M,wolfj901,Called third strike $Hall made a face on the third strike call, dropped his bat on the plate and walked towards the dugout; umpire Wolf yelled at Hall to pick up the bat but Hall kept walking; mgr Yost came out to argue with Wolf; Wolf told the batboy not to pick up the bat; Yost ejected by Wolf","2006MIL.EVN.regular.comment.csv",10
-"MIL200606100",19,"Brewers center fielder Brady Clark left the game due to an injured neck/shoulder","2006MIL.EVN.regular.comment.csv",11
-"MIL200606110",43,"ej,yoste001,M,hudsm901,Balls and strikes Brewers Manager Ned Yost ejected by HP umpire Marvin Hudson","2006MIL.EVN.regular.comment.csv",12
-"MIL200606210",51,"Tigers right fielder Craig Monroe left the game due to an injured leg","2006MIL.EVN.regular.comment.csv",13
-"MIL200607240",25,"Brewers second baseman Rickie Weeks left the game due to an injured hand/wrist","2006MIL.EVN.regular.comment.csv",14
-"MIL200607280",20,"ej,narrj001,M,rungb901,Balls and strikes Reds Manager Jerry Narron ejected by HP umpire Brian Runge with 1-1 count on Graffanino","2006MIL.EVN.regular.comment.csv",15
-"MIL200608190",48,"Astros pitcher Fernando Nieve left the game due to an injured elbow","2006MIL.EVN.regular.comment.csv",16
-"MIL200608240",49,"Brewers catcher Damian Miller left the game due to an injured head","2006MIL.EVN.regular.comment.csv",17
-"MIL200609020",65,"$dropped third strike, forceout at home, still strikeout","2006MIL.EVN.regular.comment.csv",18
-"MIL200609030",2,"$Dan Uggla called for interference","2006MIL.EVN.regular.comment.csv",19
-"MIL200609030",54,"$ball got away, Olivo recovered to get out, no DP","2006MIL.EVN.regular.comment.csv",20
-"MIL200609030",64,"ej,olivm001,P,westj901,Onfield altercation after HBP Marlins catcher Miguel Olivo ejected by 2B umpire Joe West after onfield altercation","2006MIL.EVN.regular.comment.csv",21
-"MIL200609080",56,"Brewers catcher Damian Miller left the game due to an injured head","2006MIL.EVN.regular.comment.csv",22
-"MIL200609190",60,"Brewers shortstop Bill Hall left the game due to an injured back","2006MIL.EVN.regular.comment.csv",23
-"MIL200609220",7,"previous play is really 5E4","2006MIL.EVN.regular.comment.csv",24
-"MIL200609230",21,"Giants catcher Todd Greene left the game due to an injured leg","2006MIL.EVN.regular.comment.csv",25
-"MIL200609230",28,"$homer #734 for Bonds to set new NL record, passing Hank Aaron","2006MIL.EVN.regular.comment.csv",26
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"MIL200604200",26,"ej,narrj001,M,relic901,Call at 1B Reds Manager Jerry Narron ejected by 1B umpire Charlie Reliford","2006MIL.EVN.regular.comment.csv",2
+"MIL200604230",42,"fan interference","2006MIL.EVN.regular.comment.csv",3
+"MIL200604260",52,"ej,corrp102,C,randt901,Balls and strikes Braves Bench Coach Pat Corrales ejected by HP umpire Tony Randazzo","2006MIL.EVN.regular.comment.csv",4
+"MIL200605010",42,"Brewers pitcher Tomo Ohka left the game due to an injured neck/shoulder","2006MIL.EVN.regular.comment.csv",5
+"MIL200605040",10,"Fielder ran through Greene, who lay on the ground for about 5 minutes before walking to the dugout; he suffered a bruised right shoulder and bruises on his face; Koskie tried to score while Greene was laying on the ground but was tagged by Hennessey","2006MIL.EVN.regular.comment.csv",6
+"MIL200605130",75,"ej,sancd001,P,tscht901,Intentional HBP ej,randw001,M,tscht901,Intentional HBP Mets pitcher Duaner Sanchez & Mgr Willie Randolph ejected by HP umpire Tim Tschida","2006MIL.EVN.regular.comment.csv",7
+"MIL200605210",39,"Brewers catcher Damian Miller left the game due to an injured back","2006MIL.EVN.regular.comment.csv",8
+"MIL200606040",23,"Fielder and Jenkins collide while trying to catch a foul popup hit by Harris down the RF line","2006MIL.EVN.regular.comment.csv",9
+"MIL200606040",31,"Brewers right fielder Geoff Jenkins left the game due to a mild concussion","2006MIL.EVN.regular.comment.csv",10
+"MIL200606040",50,"ej,yoste001,M,wolfj901,Called third strike $Hall made a face on the third strike call, dropped his bat on the plate and walked towards the dugout; umpire Wolf yelled at Hall to pick up the bat but Hall kept walking; mgr Yost came out to argue with Wolf; Wolf told the batboy not to pick up the bat; Yost ejected by Wolf","2006MIL.EVN.regular.comment.csv",11
+"MIL200606100",19,"Brewers center fielder Brady Clark left the game due to an injured neck/shoulder","2006MIL.EVN.regular.comment.csv",12
+"MIL200606110",43,"ej,yoste001,M,hudsm901,Balls and strikes Brewers Manager Ned Yost ejected by HP umpire Marvin Hudson","2006MIL.EVN.regular.comment.csv",13
+"MIL200606210",51,"Tigers right fielder Craig Monroe left the game due to an injured leg","2006MIL.EVN.regular.comment.csv",14
+"MIL200607240",25,"Brewers second baseman Rickie Weeks left the game due to an injured hand/wrist","2006MIL.EVN.regular.comment.csv",15
+"MIL200607280",20,"ej,narrj001,M,rungb901,Balls and strikes Reds Manager Jerry Narron ejected by HP umpire Brian Runge with 1-1 count on Graffanino","2006MIL.EVN.regular.comment.csv",16
+"MIL200608190",48,"Astros pitcher Fernando Nieve left the game due to an injured elbow","2006MIL.EVN.regular.comment.csv",17
+"MIL200608240",49,"Brewers catcher Damian Miller left the game due to an injured head","2006MIL.EVN.regular.comment.csv",18
+"MIL200609020",65,"$dropped third strike, forceout at home, still strikeout","2006MIL.EVN.regular.comment.csv",19
+"MIL200609030",2,"$Dan Uggla called for interference","2006MIL.EVN.regular.comment.csv",20
+"MIL200609030",54,"$ball got away, Olivo recovered to get out, no DP","2006MIL.EVN.regular.comment.csv",21
+"MIL200609030",64,"ej,olivm001,P,westj901,Onfield altercation after HBP Marlins catcher Miguel Olivo ejected by 2B umpire Joe West after onfield altercation","2006MIL.EVN.regular.comment.csv",22
+"MIL200609080",56,"Brewers catcher Damian Miller left the game due to an injured head","2006MIL.EVN.regular.comment.csv",23
+"MIL200609190",60,"Brewers shortstop Bill Hall left the game due to an injured back","2006MIL.EVN.regular.comment.csv",24
+"MIL200609220",7,"previous play is really 5E4","2006MIL.EVN.regular.comment.csv",25
+"MIL200609230",21,"Giants catcher Todd Greene left the game due to an injured leg","2006MIL.EVN.regular.comment.csv",26
+"MIL200609230",28,"$homer #734 for Bonds to set new NL record, passing Hank Aaron","2006MIL.EVN.regular.comment.csv",27

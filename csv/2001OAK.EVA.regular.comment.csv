@@ -1,20 +1,21 @@
-"OAK200104070",1,"Debut game for Steve Green","FILENAME_TX","LINE_NUMBER_CT"
-"OAK200104140",34,"ej,rodri001,P,diazl901,Balls and strikes Ivan Rodriguez ejected by HP umpire Laz Diaz","2001OAK.EVA.regular.comment.csv",2
-"OAK200105150",22,"$Jeremy Giambi left with tightness in left hamstring","2001OAK.EVA.regular.comment.csv",3
-"OAK200105150",44,"$Jaha pulled thigh muscle ducking under pitch","2001OAK.EVA.regular.comment.csv",4
-"OAK200105150",95,"$Oakland argued that the ball struck the bat twice and should have been a foul ball","2001OAK.EVA.regular.comment.csv",5
-"OAK200105160",73,"ej,howea001,M,nelsj901,Fair/foul call Athletics Manager Art Howe ejected by 3B umpire Jeff Nelson for arguing foul bunt; carried over from previous game","2001OAK.EVA.regular.comment.csv",6
-"OAK200105190",15,"Debut game for Tom Wilson","2001OAK.EVA.regular.comment.csv",7
-"OAK200106020",69,"originally scored as E4","2001OAK.EVA.regular.comment.csv",8
-"OAK200106100",53,"$Frank Menechino's 10-game hitting streak stopped","2001OAK.EVA.regular.comment.csv",9
-"OAK200106100",67,"ej,santb001,P,roe-r901,Balls and strikes Benito Santiago ejected by HP umpire Rocky Roe","2001OAK.EVA.regular.comment.csv",10
-"OAK200106180",68,"$21 consecutive steals for McLemore","2001OAK.EVA.regular.comment.csv",11
-"OAK200107020",83,"$5-man infield for Damon with Erstad at 1B","2001OAK.EVA.regular.comment.csv",12
-"OAK200107260",80,"ej,lidlc001,P,emmep901,Bench jockeying after HBP Athletics pitcher Cory Lidle ejected from bench by HP umpire Paul Emmel","2001OAK.EVA.regular.comment.csv",13
-"OAK200108070",35,"ej,hernr002,P,danlk901,Balls and strikes Ramon Hernandez ejected by HP umpire Kerwin Danley","2001OAK.EVA.regular.comment.csv",14
-"OAK200108080",24,"$the ball bounced into a beer cup on the field and lodged there; it was ruled a dead ball and automatic double","2001OAK.EVA.regular.comment.csv",15
-"OAK200108220",58,"ej,manuc101,M,culbf901,Balls and strikes $Indians manager Manuel ejected by HP umpire Culbreth for arguing balls and strikes while Giambi was at bat","2001OAK.EVA.regular.comment.csv",16
-"OAK200108260",52,"ej,hilje001,P,guccc901,Balk Erik Hiljus ejected by 3B umpire Chris Guccione","2001OAK.EVA.regular.comment.csv",17
-"OAK200109050",37,"$F.P. Santangelo called for interference for running into his own batted ball","2001OAK.EVA.regular.comment.csv",18
-"OAK200109080",78,"Debut game for Paul Hoover","2001OAK.EVA.regular.comment.csv",19
-"OAK200109100",65,"Debut game for Andy Abad","2001OAK.EVA.regular.comment.csv",20
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"OAK200104070",1,"Debut game for Steve Green","2001OAK.EVA.regular.comment.csv",2
+"OAK200104140",34,"ej,rodri001,P,diazl901,Balls and strikes Ivan Rodriguez ejected by HP umpire Laz Diaz","2001OAK.EVA.regular.comment.csv",3
+"OAK200105150",22,"$Jeremy Giambi left with tightness in left hamstring","2001OAK.EVA.regular.comment.csv",4
+"OAK200105150",44,"$Jaha pulled thigh muscle ducking under pitch","2001OAK.EVA.regular.comment.csv",5
+"OAK200105150",95,"$Oakland argued that the ball struck the bat twice and should have been a foul ball","2001OAK.EVA.regular.comment.csv",6
+"OAK200105160",73,"ej,howea001,M,nelsj901,Fair/foul call Athletics Manager Art Howe ejected by 3B umpire Jeff Nelson for arguing foul bunt; carried over from previous game","2001OAK.EVA.regular.comment.csv",7
+"OAK200105190",15,"Debut game for Tom Wilson","2001OAK.EVA.regular.comment.csv",8
+"OAK200106020",69,"originally scored as E4","2001OAK.EVA.regular.comment.csv",9
+"OAK200106100",53,"$Frank Menechino's 10-game hitting streak stopped","2001OAK.EVA.regular.comment.csv",10
+"OAK200106100",67,"ej,santb001,P,roe-r901,Balls and strikes Benito Santiago ejected by HP umpire Rocky Roe","2001OAK.EVA.regular.comment.csv",11
+"OAK200106180",68,"$21 consecutive steals for McLemore","2001OAK.EVA.regular.comment.csv",12
+"OAK200107020",83,"$5-man infield for Damon with Erstad at 1B","2001OAK.EVA.regular.comment.csv",13
+"OAK200107260",80,"ej,lidlc001,P,emmep901,Bench jockeying after HBP Athletics pitcher Cory Lidle ejected from bench by HP umpire Paul Emmel","2001OAK.EVA.regular.comment.csv",14
+"OAK200108070",35,"ej,hernr002,P,danlk901,Balls and strikes Ramon Hernandez ejected by HP umpire Kerwin Danley","2001OAK.EVA.regular.comment.csv",15
+"OAK200108080",24,"$the ball bounced into a beer cup on the field and lodged there; it was ruled a dead ball and automatic double","2001OAK.EVA.regular.comment.csv",16
+"OAK200108220",58,"ej,manuc101,M,culbf901,Balls and strikes $Indians manager Manuel ejected by HP umpire Culbreth for arguing balls and strikes while Giambi was at bat","2001OAK.EVA.regular.comment.csv",17
+"OAK200108260",52,"ej,hilje001,P,guccc901,Balk Erik Hiljus ejected by 3B umpire Chris Guccione","2001OAK.EVA.regular.comment.csv",18
+"OAK200109050",37,"$F.P. Santangelo called for interference for running into his own batted ball","2001OAK.EVA.regular.comment.csv",19
+"OAK200109080",78,"Debut game for Paul Hoover","2001OAK.EVA.regular.comment.csv",20
+"OAK200109100",65,"Debut game for Andy Abad","2001OAK.EVA.regular.comment.csv",21

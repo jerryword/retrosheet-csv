@@ -1,35 +1,36 @@
-"TOR199204120",34,"Debut game for Jeff Kent","FILENAME_TX","LINE_NUMBER_CT"
-"TOR199204160",23,"$Mel Hall dropped the ball in the stands","1992TOR.EVA.regular.comment.csv",2
-"TOR199205130",67,"$batted ball struck 2B umpire Richie Garcia","1992TOR.EVA.regular.comment.csv",3
-"TOR199205200",93,"$Randy Bush in from RF to be a fifth infielder","1992TOR.EVA.regular.comment.csv",4
-"TOR199205260",63,"ej,garnp001,M,barnl901,Balls and strikes Brewers manager Phil Garner ejected by HP umpire Larry Barnett","1992TOR.EVA.regular.comment.csv",5
-"TOR199205270",36,"ej,cartj001,P,koscg901,Charging mound Joe Carter ejected by HP umpire Greg Kosc for charging the mound","1992TOR.EVA.regular.comment.csv",6
-"TOR199205270",52,"ej,stott001,P,koscg901,Intentional HBP Todd Stottlymyre ejected by HP umpire Greg Kosc","1992TOR.EVA.regular.comment.csv",7
-"TOR199205290",2,"$700th career stolen base for Tim Raines","1992TOR.EVA.regular.comment.csv",8
-"TOR199205290",6,"$Juan Guzman threw 36 pitches, 20 strikes in first inning which took 23 minutes with no hits or runs","1992TOR.EVA.regular.comment.csv",9
-"TOR199205290",9,"$Greg Hibbard threw 6 pitches in 4 minute bottom of first","1992TOR.EVA.regular.comment.csv",10
-"TOR199205290",20,"$roof begins closing due to dropping temperature and higher winds","1992TOR.EVA.regular.comment.csv",11
-"TOR199205290",29,"$roof closed","1992TOR.EVA.regular.comment.csv",12
-"TOR199205290",37,"$fan interference; White Sox manager Gene Lamont argued Steve Sax would have scored on the play","1992TOR.EVA.regular.comment.csv",13
-"TOR199206170",1,"ej,philt001,P,craft901,Balls and strikes Tony Phillips ejected by HP umprie Terry Craft","1992TOR.EVA.regular.comment.csv",14
-"TOR199206170",52,"$roof closing due to anticipated increase in winds","1992TOR.EVA.regular.comment.csv",15
-"TOR199206180",7,"$Devon White caught off base; both runners ended up on 2B","1992TOR.EVA.regular.comment.csv",16
-"TOR199206300",100,"ej,cartj001,P,reedr901,Arguing balls and strikes $$Blue Jays Carter ejected by HP umpire Reed for arguing balls and strikes","1992TOR.EVA.regular.comment.csv",17
-"TOR199207040",70,"ej,hayev001,P,voltv901,Checked swing Von Hayes ejected by 3B umpire Vic Voltaggio for arguing check swing","1992TOR.EVA.regular.comment.csv",18
-"TOR199207060",66,"Debut game for Mike Butcher","1992TOR.EVA.regular.comment.csv",19
-"TOR199207080",42,"fan interference","1992TOR.EVA.regular.comment.csv",20
-"TOR199207120",17,"$Roof begins to close; slight drizzle","1992TOR.EVA.regular.comment.csv",21
-"TOR199207120",25,"$Roof has finished closing","1992TOR.EVA.regular.comment.csv",22
-"TOR199207280",1,"Debut game for Dennis Moeller","1992TOR.EVA.regular.comment.csv",23
-"TOR199207280",71,"$Roof starting to close because of chance of rain","1992TOR.EVA.regular.comment.csv",24
-"TOR199207300",16,"$Kelly Gruber was at 3B by time Candy Maldonado was run back to the bag; Gruber was called out for passing Maldonado who then stepped off the bag thinking he was out and was tagged tom complete the double play","1992TOR.EVA.regular.comment.csv",25
-"TOR199208110",60,"ej,oatej101,M,cobld901,Called third strike $Cal Ripken Jr upset about called third strike; Orioles manager Johnny Oates ran out to protect Ripken and was ejected by HP umpire Drew Coble","1992TOR.EVA.regular.comment.csv",26
-"TOR199208270",40,"$ball hit top of fence and rebounded onto field","1992TOR.EVA.regular.comment.csv",27
-"TOR199208280",80,"$fourth ball scored a wild pitch; B.J. Surhoff walked on five balls; HP umpire Don Denkinger lost track of the count","1992TOR.EVA.regular.comment.csv",28
-"TOR199209020",72,"Debut game for Mike Maksudian","1992TOR.EVA.regular.comment.csv",29
-"TOR199209150",1,"Debut game for Alan Embree","1992TOR.EVA.regular.comment.csv",30
-"TOR199209170",41,"$Mark Whiten took out Kelly Gruber with a rolling block","1992TOR.EVA.regular.comment.csv",31
-"TOR199209170",71,"$Carlos Martinez thought he lined out and returned to the dugout","1992TOR.EVA.regular.comment.csv",32
-"TOR199209180",25,"$Dave winfield's 1700th career rbi(1698th and 1699th too","1992TOR.EVA.regular.comment.csv",33
-"TOR199209180",42,"Debut game for Cris Colon","1992TOR.EVA.regular.comment.csv",34
-"TOR199209200",54,"$ball hit top of wall and rebounded onto the field","1992TOR.EVA.regular.comment.csv",35
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"TOR199204120",34,"Debut game for Jeff Kent","1992TOR.EVA.regular.comment.csv",2
+"TOR199204160",23,"$Mel Hall dropped the ball in the stands","1992TOR.EVA.regular.comment.csv",3
+"TOR199205130",67,"$batted ball struck 2B umpire Richie Garcia","1992TOR.EVA.regular.comment.csv",4
+"TOR199205200",93,"$Randy Bush in from RF to be a fifth infielder","1992TOR.EVA.regular.comment.csv",5
+"TOR199205260",63,"ej,garnp001,M,barnl901,Balls and strikes Brewers manager Phil Garner ejected by HP umpire Larry Barnett","1992TOR.EVA.regular.comment.csv",6
+"TOR199205270",36,"ej,cartj001,P,koscg901,Charging mound Joe Carter ejected by HP umpire Greg Kosc for charging the mound","1992TOR.EVA.regular.comment.csv",7
+"TOR199205270",52,"ej,stott001,P,koscg901,Intentional HBP Todd Stottlymyre ejected by HP umpire Greg Kosc","1992TOR.EVA.regular.comment.csv",8
+"TOR199205290",2,"$700th career stolen base for Tim Raines","1992TOR.EVA.regular.comment.csv",9
+"TOR199205290",6,"$Juan Guzman threw 36 pitches, 20 strikes in first inning which took 23 minutes with no hits or runs","1992TOR.EVA.regular.comment.csv",10
+"TOR199205290",9,"$Greg Hibbard threw 6 pitches in 4 minute bottom of first","1992TOR.EVA.regular.comment.csv",11
+"TOR199205290",20,"$roof begins closing due to dropping temperature and higher winds","1992TOR.EVA.regular.comment.csv",12
+"TOR199205290",29,"$roof closed","1992TOR.EVA.regular.comment.csv",13
+"TOR199205290",37,"$fan interference; White Sox manager Gene Lamont argued Steve Sax would have scored on the play","1992TOR.EVA.regular.comment.csv",14
+"TOR199206170",1,"ej,philt001,P,craft901,Balls and strikes Tony Phillips ejected by HP umprie Terry Craft","1992TOR.EVA.regular.comment.csv",15
+"TOR199206170",52,"$roof closing due to anticipated increase in winds","1992TOR.EVA.regular.comment.csv",16
+"TOR199206180",7,"$Devon White caught off base; both runners ended up on 2B","1992TOR.EVA.regular.comment.csv",17
+"TOR199206300",100,"ej,cartj001,P,reedr901,Arguing balls and strikes $$Blue Jays Carter ejected by HP umpire Reed for arguing balls and strikes","1992TOR.EVA.regular.comment.csv",18
+"TOR199207040",70,"ej,hayev001,P,voltv901,Checked swing Von Hayes ejected by 3B umpire Vic Voltaggio for arguing check swing","1992TOR.EVA.regular.comment.csv",19
+"TOR199207060",66,"Debut game for Mike Butcher","1992TOR.EVA.regular.comment.csv",20
+"TOR199207080",42,"fan interference","1992TOR.EVA.regular.comment.csv",21
+"TOR199207120",17,"$Roof begins to close; slight drizzle","1992TOR.EVA.regular.comment.csv",22
+"TOR199207120",25,"$Roof has finished closing","1992TOR.EVA.regular.comment.csv",23
+"TOR199207280",1,"Debut game for Dennis Moeller","1992TOR.EVA.regular.comment.csv",24
+"TOR199207280",71,"$Roof starting to close because of chance of rain","1992TOR.EVA.regular.comment.csv",25
+"TOR199207300",16,"$Kelly Gruber was at 3B by time Candy Maldonado was run back to the bag; Gruber was called out for passing Maldonado who then stepped off the bag thinking he was out and was tagged tom complete the double play","1992TOR.EVA.regular.comment.csv",26
+"TOR199208110",60,"ej,oatej101,M,cobld901,Called third strike $Cal Ripken Jr upset about called third strike; Orioles manager Johnny Oates ran out to protect Ripken and was ejected by HP umpire Drew Coble","1992TOR.EVA.regular.comment.csv",27
+"TOR199208270",40,"$ball hit top of fence and rebounded onto field","1992TOR.EVA.regular.comment.csv",28
+"TOR199208280",80,"$fourth ball scored a wild pitch; B.J. Surhoff walked on five balls; HP umpire Don Denkinger lost track of the count","1992TOR.EVA.regular.comment.csv",29
+"TOR199209020",72,"Debut game for Mike Maksudian","1992TOR.EVA.regular.comment.csv",30
+"TOR199209150",1,"Debut game for Alan Embree","1992TOR.EVA.regular.comment.csv",31
+"TOR199209170",41,"$Mark Whiten took out Kelly Gruber with a rolling block","1992TOR.EVA.regular.comment.csv",32
+"TOR199209170",71,"$Carlos Martinez thought he lined out and returned to the dugout","1992TOR.EVA.regular.comment.csv",33
+"TOR199209180",25,"$Dave winfield's 1700th career rbi(1698th and 1699th too","1992TOR.EVA.regular.comment.csv",34
+"TOR199209180",42,"Debut game for Cris Colon","1992TOR.EVA.regular.comment.csv",35
+"TOR199209200",54,"$ball hit top of wall and rebounded onto the field","1992TOR.EVA.regular.comment.csv",36

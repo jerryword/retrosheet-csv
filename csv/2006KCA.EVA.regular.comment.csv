@@ -1,30 +1,31 @@
-"KCA200604050",15,"$Brown fell as he hit the ball and only got two or three steps toward first base","FILENAME_TX","LINE_NUMBER_CT"
-"KCA200604050",73,"ej,woodm002,P,eddid901,Intentional HBP Royals pitcher Mike Wood ejected by HP umpire Doug Eddings","2006KCA.EVA.regular.comment.csv",2
-"KCA200604070",65,"Royals center fielder David DeJesus left the game due to an injured leg","2006KCA.EVA.regular.comment.csv",3
-"KCA200604090",68,"ej,bellb001,M,wintm901,Catch/no catch Royals Manager Buddy Bell ejected by HP umpire Mike Winters for arguing that the ball popped out of Crede's glove","2006KCA.EVA.regular.comment.csv",4
-"KCA200604220",52,"ej,guthj001,P,wolfj901,Intentional HBP ej,wedge001,M,westj901,Arguing ejection of player $Pitcher Guthrie ejected by HP umpire Wolf for intentional hit by pitch; Indians manager Wedge ejected by 1B umpire West for arguing Guthrie's ejection","2006KCA.EVA.regular.comment.csv",5
-"KCA200606110",11,"$Aubrey Huff out on appeal for leaving 3B too soon to complete the triple play","2006KCA.EVA.regular.comment.csv",6
-"KCA200607050",59,"ej,bellb001,M,hallt901,Foul ball non-call $Royals manager Bell ejected by 1B umpire Hallion for arguing that Punto fouled the pitch when Castillo stole 2B","2006KCA.EVA.regular.comment.csv",7
-"KCA200607070",79,"ej,zaung001,P,fleta901,Called third strike Blue Jays catcher Gregg Zaun ejected by HP umpire Andy Fletcher","2006KCA.EVA.regular.comment.csv",8
-"KCA200607080",52,"Royals second baseman Mark Grudzielanek left the game due to an injured back","2006KCA.EVA.regular.comment.csv",9
-"KCA200607200",56,"$Angel Berroa called for interference","2006KCA.EVA.regular.comment.csv",10
-"KCA200607220",67,"ej,graft001,P,westj901,Balls and strikes ej,bellb001,M,westj901,Balls and strikes Royals Tony Graffanino & Mgr Buddy Bell ejected by HP umpire Joe West","2006KCA.EVA.regular.comment.csv",11
-"KCA200607230",56,"$Howie Kendrick called for interfering with catcher John Buck","2006KCA.EVA.regular.comment.csv",12
-"KCA200607250",17,"$Jeff Conine called for interference","2006KCA.EVA.regular.comment.csv",13
-"KCA200607250",56,"Error, even though Hernandez did not touch ball","2006KCA.EVA.regular.comment.csv",14
-"KCA200608010",60,"$Konerko left the with an injured elbow","2006KCA.EVA.regular.comment.csv",15
-"KCA200608010",81,"ej,bellb001,M,welkb901,Balk call $Royals manager Bell ejected by HP umpire Welke for arguing balk call","2006KCA.EVA.regular.comment.csv",16
-"KCA200608030",0,"Coach Scott Ullger managed in place of Ron Gardenhire who missed the game with flu-like symptoms","2006KCA.EVA.regular.comment.csv",17
-"KCA200608050",42,"ej,bakop001,P,knigb901,Balls and strikes Royals catcher Paul Bako ejected by HP umpire Brian Knight","2006KCA.EVA.regular.comment.csv",18
-"KCA200608080",43,"Loretta hit on elbow and left game with bad bruise","2006KCA.EVA.regular.comment.csv",19
-"KCA200608181",49,"Royals shortstop Angel Berroa left the game due to an injured neck/shoulder","2006KCA.EVA.regular.comment.csv",20
-"KCA200608190",25,"Royals designated hitter Mike Sweeney left the game due to an injured knee","2006KCA.EVA.regular.comment.csv",21
-"KCA200608190",38,"$David DeJesus called for interference","2006KCA.EVA.regular.comment.csv",22
-"KCA200609050",46,"Royals pitcher Jorge De La Rosa left the game due to an injured hand/wrist","2006KCA.EVA.regular.comment.csv",23
-"KCA200609060",70,"originally scored E4, changed after game","2006KCA.EVA.regular.comment.csv",24
-"KCA200609190",24,"Royals second baseman Mark Grudzielanek left the game due to an injured leg","2006KCA.EVA.regular.comment.csv",25
-"KCA200609200",31,"Royals center fielder David DeJesus left the game due to an injured hand/wrist","2006KCA.EVA.regular.comment.csv",26
-"KCA200609200",52,"$Angel Berroa called for interference","2006KCA.EVA.regular.comment.csv",27
-"KCA200609220",0,"KC Mgr Buddy Bell out for surgery to remove growth behind tonsils; bench coach Billy Doran running the team","2006KCA.EVA.regular.comment.csv",28
-"KCA200609230",0,"KC Mgr Buddy Bell out for surgery to remove growth behind tonsils; bench coach Billy Doran running the team","2006KCA.EVA.regular.comment.csv",29
-"KCA200609240",0,"KC Mgr Buddy Bell out for surgery to remove growth behind tonsils; bench coach Billy Doran running the team","2006KCA.EVA.regular.comment.csv",30
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"KCA200604050",15,"$Brown fell as he hit the ball and only got two or three steps toward first base","2006KCA.EVA.regular.comment.csv",2
+"KCA200604050",73,"ej,woodm002,P,eddid901,Intentional HBP Royals pitcher Mike Wood ejected by HP umpire Doug Eddings","2006KCA.EVA.regular.comment.csv",3
+"KCA200604070",65,"Royals center fielder David DeJesus left the game due to an injured leg","2006KCA.EVA.regular.comment.csv",4
+"KCA200604090",68,"ej,bellb001,M,wintm901,Catch/no catch Royals Manager Buddy Bell ejected by HP umpire Mike Winters for arguing that the ball popped out of Crede's glove","2006KCA.EVA.regular.comment.csv",5
+"KCA200604220",52,"ej,guthj001,P,wolfj901,Intentional HBP ej,wedge001,M,westj901,Arguing ejection of player $Pitcher Guthrie ejected by HP umpire Wolf for intentional hit by pitch; Indians manager Wedge ejected by 1B umpire West for arguing Guthrie's ejection","2006KCA.EVA.regular.comment.csv",6
+"KCA200606110",11,"$Aubrey Huff out on appeal for leaving 3B too soon to complete the triple play","2006KCA.EVA.regular.comment.csv",7
+"KCA200607050",59,"ej,bellb001,M,hallt901,Foul ball non-call $Royals manager Bell ejected by 1B umpire Hallion for arguing that Punto fouled the pitch when Castillo stole 2B","2006KCA.EVA.regular.comment.csv",8
+"KCA200607070",79,"ej,zaung001,P,fleta901,Called third strike Blue Jays catcher Gregg Zaun ejected by HP umpire Andy Fletcher","2006KCA.EVA.regular.comment.csv",9
+"KCA200607080",52,"Royals second baseman Mark Grudzielanek left the game due to an injured back","2006KCA.EVA.regular.comment.csv",10
+"KCA200607200",56,"$Angel Berroa called for interference","2006KCA.EVA.regular.comment.csv",11
+"KCA200607220",67,"ej,graft001,P,westj901,Balls and strikes ej,bellb001,M,westj901,Balls and strikes Royals Tony Graffanino & Mgr Buddy Bell ejected by HP umpire Joe West","2006KCA.EVA.regular.comment.csv",12
+"KCA200607230",56,"$Howie Kendrick called for interfering with catcher John Buck","2006KCA.EVA.regular.comment.csv",13
+"KCA200607250",17,"$Jeff Conine called for interference","2006KCA.EVA.regular.comment.csv",14
+"KCA200607250",56,"Error, even though Hernandez did not touch ball","2006KCA.EVA.regular.comment.csv",15
+"KCA200608010",60,"$Konerko left the with an injured elbow","2006KCA.EVA.regular.comment.csv",16
+"KCA200608010",81,"ej,bellb001,M,welkb901,Balk call $Royals manager Bell ejected by HP umpire Welke for arguing balk call","2006KCA.EVA.regular.comment.csv",17
+"KCA200608030",0,"Coach Scott Ullger managed in place of Ron Gardenhire who missed the game with flu-like symptoms","2006KCA.EVA.regular.comment.csv",18
+"KCA200608050",42,"ej,bakop001,P,knigb901,Balls and strikes Royals catcher Paul Bako ejected by HP umpire Brian Knight","2006KCA.EVA.regular.comment.csv",19
+"KCA200608080",43,"Loretta hit on elbow and left game with bad bruise","2006KCA.EVA.regular.comment.csv",20
+"KCA200608181",49,"Royals shortstop Angel Berroa left the game due to an injured neck/shoulder","2006KCA.EVA.regular.comment.csv",21
+"KCA200608190",25,"Royals designated hitter Mike Sweeney left the game due to an injured knee","2006KCA.EVA.regular.comment.csv",22
+"KCA200608190",38,"$David DeJesus called for interference","2006KCA.EVA.regular.comment.csv",23
+"KCA200609050",46,"Royals pitcher Jorge De La Rosa left the game due to an injured hand/wrist","2006KCA.EVA.regular.comment.csv",24
+"KCA200609060",70,"originally scored E4, changed after game","2006KCA.EVA.regular.comment.csv",25
+"KCA200609190",24,"Royals second baseman Mark Grudzielanek left the game due to an injured leg","2006KCA.EVA.regular.comment.csv",26
+"KCA200609200",31,"Royals center fielder David DeJesus left the game due to an injured hand/wrist","2006KCA.EVA.regular.comment.csv",27
+"KCA200609200",52,"$Angel Berroa called for interference","2006KCA.EVA.regular.comment.csv",28
+"KCA200609220",0,"KC Mgr Buddy Bell out for surgery to remove growth behind tonsils; bench coach Billy Doran running the team","2006KCA.EVA.regular.comment.csv",29
+"KCA200609230",0,"KC Mgr Buddy Bell out for surgery to remove growth behind tonsils; bench coach Billy Doran running the team","2006KCA.EVA.regular.comment.csv",30
+"KCA200609240",0,"KC Mgr Buddy Bell out for surgery to remove growth behind tonsils; bench coach Billy Doran running the team","2006KCA.EVA.regular.comment.csv",31

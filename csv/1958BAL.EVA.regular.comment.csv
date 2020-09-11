@@ -1,25 +1,26 @@
-"BAL195804260",70,"$Joe Ginsberg called for interference for colliding with Bob Turley, who was trying to field the popup","FILENAME_TX","LINE_NUMBER_CT"
-"BAL195805010",43,"DIFF: officials 24; 2 s/s 23 DP","1958BAL.EVA.regular.comment.csv",2
-"BAL195805030",99,"ej,minom101,P,umonf901,Called third strike Minnie Minoso ejected by HP umpire Frank Umont","1958BAL.EVA.regular.comment.csv",3
-"BAL195805111",56,"missing play in BAL195805111","1958BAL.EVA.regular.comment.csv",4
-"BAL195805112",28,"58 minute rain delay in this inning","1958BAL.EVA.regular.comment.csv",5
-"BAL195805112",32,"ej,pierj102,P,stevj901,Stalling with rain approaching Jim Piersall ejected by 3B umpire Johnny Stevens","1958BAL.EVA.regular.comment.csv",6
-"BAL195805301",27,"$375 ft","1958BAL.EVA.regular.comment.csv",7
-"BAL195806010",36,"ej,loesb101,P,nappl901,Call at HP (Shoved umpire) Billy Loes ejected by HP umpire Larry Napp arguing the call at HP; Loes shoved Napp","1958BAL.EVA.regular.comment.csv",8
-"BAL195806061",6,"Gene Woodling left with injured thumb","1958BAL.EVA.regular.comment.csv",9
-"BAL195806110",55,"rain started falling","1958BAL.EVA.regular.comment.csv",10
-"BAL195806130",112,"$game stopped due to curfew; tie game","1958BAL.EVA.regular.comment.csv",11
-"BAL195806140",40,"ej,richp101,M,summb901,Fair/foul call $Tito Francona bunted into a double play; the White Sox asked HP umpire Bill Summers to examine the ball; when Summers found evidence that the ball had struck Francona's shoe, the double play was reversed to a foul ball; Orioles Manager Paul Richards ejected by Summers","1958BAL.EVA.regular.comment.csv",12
-"BAL195807011",52,"$lights turned on","1958BAL.EVA.regular.comment.csv",13
-"BAL195807011",53,"$Billy Loes struck on hand by ball","1958BAL.EVA.regular.comment.csv",14
-"BAL195807140",48,"ej,hitcb101,C,ricej901,Called third strike $Tigers coach Hitchcock ejected by HP umpire Rice for arguing called third strike","1958BAL.EVA.regular.comment.csv",15
-"BAL195807150",93,"ej,richp101,M,papaj901,Balls and strikes Orioles Manager Paul Richards ejected by HP umpire Joe Paparella","1958BAL.EVA.regular.comment.csv",16
-"BAL195807162",46,"ej,niemb101,P,runge901,Called third strike Bob Nieman ejected by HP umpire Ed Runge","1958BAL.EVA.regular.comment.csv",17
-"BAL195807162",57,"ej,richp101,M,runge901,Call at HP Orioles Manager Paul Richards ejected by HP umpire Ed Runge","1958BAL.EVA.regular.comment.csv",18
-"BAL195807180",19,"$Mickey Vernon broke for 2B after catch; he drew a throw Minnie Minoso tried to advance","1958BAL.EVA.regular.comment.csv",19
-"BAL195808060",55,"ej,mantm101,P,flahr901,Called third strike Mickey Mantle ejected by HP umpire Red Flaherty","1958BAL.EVA.regular.comment.csv",20
-"BAL195808180",53,"ej,crafh101,M,soarh901,HR call $Athletics manager Craft ejected by 1B umpire Soar for arguing that ball hit by Williams hit fence but did not clear it","1958BAL.EVA.regular.comment.csv",21
-"BAL195808191",20,"$the ball caromed off Whitey Herzog's glove","1958BAL.EVA.regular.comment.csv",22
-"BAL195809200",35,"Rain started","1958BAL.EVA.regular.comment.csv",23
-"BAL195809200",37,"$lights turned on","1958BAL.EVA.regular.comment.csv",24
-"BAL195809200",47,"$415 feet","1958BAL.EVA.regular.comment.csv",25
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"BAL195804260",70,"$Joe Ginsberg called for interference for colliding with Bob Turley, who was trying to field the popup","1958BAL.EVA.regular.comment.csv",2
+"BAL195805010",43,"DIFF: officials 24; 2 s/s 23 DP","1958BAL.EVA.regular.comment.csv",3
+"BAL195805030",99,"ej,minom101,P,umonf901,Called third strike Minnie Minoso ejected by HP umpire Frank Umont","1958BAL.EVA.regular.comment.csv",4
+"BAL195805111",56,"missing play in BAL195805111","1958BAL.EVA.regular.comment.csv",5
+"BAL195805112",28,"58 minute rain delay in this inning","1958BAL.EVA.regular.comment.csv",6
+"BAL195805112",32,"ej,pierj102,P,stevj901,Stalling with rain approaching Jim Piersall ejected by 3B umpire Johnny Stevens","1958BAL.EVA.regular.comment.csv",7
+"BAL195805301",27,"$375 ft","1958BAL.EVA.regular.comment.csv",8
+"BAL195806010",36,"ej,loesb101,P,nappl901,Call at HP (Shoved umpire) Billy Loes ejected by HP umpire Larry Napp arguing the call at HP; Loes shoved Napp","1958BAL.EVA.regular.comment.csv",9
+"BAL195806061",6,"Gene Woodling left with injured thumb","1958BAL.EVA.regular.comment.csv",10
+"BAL195806110",55,"rain started falling","1958BAL.EVA.regular.comment.csv",11
+"BAL195806130",112,"$game stopped due to curfew; tie game","1958BAL.EVA.regular.comment.csv",12
+"BAL195806140",40,"ej,richp101,M,summb901,Fair/foul call $Tito Francona bunted into a double play; the White Sox asked HP umpire Bill Summers to examine the ball; when Summers found evidence that the ball had struck Francona's shoe, the double play was reversed to a foul ball; Orioles Manager Paul Richards ejected by Summers","1958BAL.EVA.regular.comment.csv",13
+"BAL195807011",52,"$lights turned on","1958BAL.EVA.regular.comment.csv",14
+"BAL195807011",53,"$Billy Loes struck on hand by ball","1958BAL.EVA.regular.comment.csv",15
+"BAL195807140",48,"ej,hitcb101,C,ricej901,Called third strike $Tigers coach Hitchcock ejected by HP umpire Rice for arguing called third strike","1958BAL.EVA.regular.comment.csv",16
+"BAL195807150",93,"ej,richp101,M,papaj901,Balls and strikes Orioles Manager Paul Richards ejected by HP umpire Joe Paparella","1958BAL.EVA.regular.comment.csv",17
+"BAL195807162",46,"ej,niemb101,P,runge901,Called third strike Bob Nieman ejected by HP umpire Ed Runge","1958BAL.EVA.regular.comment.csv",18
+"BAL195807162",57,"ej,richp101,M,runge901,Call at HP Orioles Manager Paul Richards ejected by HP umpire Ed Runge","1958BAL.EVA.regular.comment.csv",19
+"BAL195807180",19,"$Mickey Vernon broke for 2B after catch; he drew a throw Minnie Minoso tried to advance","1958BAL.EVA.regular.comment.csv",20
+"BAL195808060",55,"ej,mantm101,P,flahr901,Called third strike Mickey Mantle ejected by HP umpire Red Flaherty","1958BAL.EVA.regular.comment.csv",21
+"BAL195808180",53,"ej,crafh101,M,soarh901,HR call $Athletics manager Craft ejected by 1B umpire Soar for arguing that ball hit by Williams hit fence but did not clear it","1958BAL.EVA.regular.comment.csv",22
+"BAL195808191",20,"$the ball caromed off Whitey Herzog's glove","1958BAL.EVA.regular.comment.csv",23
+"BAL195809200",35,"Rain started","1958BAL.EVA.regular.comment.csv",24
+"BAL195809200",37,"$lights turned on","1958BAL.EVA.regular.comment.csv",25
+"BAL195809200",47,"$415 feet","1958BAL.EVA.regular.comment.csv",26

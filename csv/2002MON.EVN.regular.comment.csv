@@ -1,35 +1,36 @@
-"MON200204030",23,"originally scored as E5","FILENAME_TX","LINE_NUMBER_CT"
-"MON200204190",21,"originally scored 1E4","2002MON.EVN.regular.comment.csv",2
-"MON200204190",79,"ej,burnj001,P,carlm901,Bench jockeying $Timo Perez stepped out after the third pitch was called a strike; Perez indicated to HP umpire Mark Carlson that he thought the pitch was low; Carlson told Perez to get back in the box; Perez stepped in and then out again; Carlson ordered Matt Herges to pitch and the Mets bench erupted; Perez jumped in the box in time to foul off the next pitch; Jeromy Burnitz ejected by Carlson from the bench","2002MON.EVN.regular.comment.csv",3
-"MON200204200",55,"E2 when Piazza's throw hit pitcher","2002MON.EVN.regular.comment.csv",4
-"MON200204270",61,"ej,vidrj001,P,marqa901,Called third strike $Vidro ejected by HP umpire Marquez for arguing called third strike","2002MON.EVN.regular.comment.csv",5
-"MON200205120",6,"8 minute delay in the 2nd","2002MON.EVN.regular.comment.csv",6
-"MON200205210",74,"$Furcal hit in head by throw as he scored","2002MON.EVN.regular.comment.csv",7
-"MON200205220",22,"$Sheffield pulled left hamstring running out grounder","2002MON.EVN.regular.comment.csv",8
-"MON200205240",0,"PHI Mgr Bowa serving first of three game suspension","2002MON.EVN.regular.comment.csv",9
-"MON200205250",0,"PHI Mgr Bowa serving game 2 of 3 game suspension","2002MON.EVN.regular.comment.csv",10
-"MON200206030",64,"bunt presumed","2002MON.EVN.regular.comment.csv",11
-"MON200206040",71,"ej,cordw001,P,westj901,Balls and strikes Wil Cordero ejected by HP umpire Joe West","2002MON.EVN.regular.comment.csv",12
-"MON200206150",28,"Debut game for Zach Day","2002MON.EVN.regular.comment.csv",13
-"MON200206180",1,"Debut game for Shawn Sedlacek","2002MON.EVN.regular.comment.csv",14
-"MON200206190",64,"two errors on this play","2002MON.EVN.regular.comment.csv",15
-"MON200206220",71,"Debut game for Benjamin Broussard","2002MON.EVN.regular.comment.csv",16
-"MON200207140",25,"bunt assumed","2002MON.EVN.regular.comment.csv",17
-"MON200207160",27,"$off concrete rim of stadium; Expos Mgr Robinson argued that ball was out of play, 3rd base umpire Meals ruled in play","2002MON.EVN.regular.comment.csv",18
-"MON200207170",69,"ej,robif103,M,iassd901,Balls and strikes $Expos manager Robinson ejected by HP umpire Iassogna for arguing balls and strikes while Galarraga was at bat","2002MON.EVN.regular.comment.csv",19
-"MON200207260",63,"originally scored E4, changed 2 days later","2002MON.EVN.regular.comment.csv",20
-"MON200207310",69,"Debut game for Matthew Cepicky","2002MON.EVN.regular.comment.csv",21
-"MON200208160",25,"$Jones hit on left forearm, onto DL","2002MON.EVN.regular.comment.csv",22
-"MON200208160",68,"$Guerrero left with strained shoulder","2002MON.EVN.regular.comment.csv",23
-"MON200208170",1,"Debut game for Mike Bynum","2002MON.EVN.regular.comment.csv",24
-"MON200208180",24,"$Ryan Klesko out on appeal for missing 1B on apparent double","2002MON.EVN.regular.comment.csv",25
-"MON200208190",19,"Cruz tagged out standing up","2002MON.EVN.regular.comment.csv",26
-"MON200209030",10,"$Tatis made a diving stop but his throw sailed into the Expos' dugout","2002MON.EVN.regular.comment.csv",27
-"MON200209030",63,"$Galarraga's foot came off the bag as he took the throw","2002MON.EVN.regular.comment.csv",28
-"MON200209030",78,"Eischen slide, twist ankle, tag bag","2002MON.EVN.regular.comment.csv",29
-"MON200209130",76,"Debut game for Pat Strange","2002MON.EVN.regular.comment.csv",30
-"MON200209270",36,"Dessens held up so grounder would not hit him, then Wilkinson fielded ball, tagged Dessens and flipped to Vazquez to complete the double play","2002MON.EVN.regular.comment.csv",31
-"MON200209270",84,"$five-man infield, left fielder Dunn on left side","2002MON.EVN.regular.comment.csv",32
-"MON200209270",85,"$throwing error while trying to complete DP","2002MON.EVN.regular.comment.csv",33
-"MON200209290",67,"$out on checked swing; fans throw debris on field and Reds go to dugout, delaying game for 6 minutes","2002MON.EVN.regular.comment.csv",34
-"MON200209290",70,"$Guerrero leaves to standing ovation","2002MON.EVN.regular.comment.csv",35
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"MON200204030",23,"originally scored as E5","2002MON.EVN.regular.comment.csv",2
+"MON200204190",21,"originally scored 1E4","2002MON.EVN.regular.comment.csv",3
+"MON200204190",79,"ej,burnj001,P,carlm901,Bench jockeying $Timo Perez stepped out after the third pitch was called a strike; Perez indicated to HP umpire Mark Carlson that he thought the pitch was low; Carlson told Perez to get back in the box; Perez stepped in and then out again; Carlson ordered Matt Herges to pitch and the Mets bench erupted; Perez jumped in the box in time to foul off the next pitch; Jeromy Burnitz ejected by Carlson from the bench","2002MON.EVN.regular.comment.csv",4
+"MON200204200",55,"E2 when Piazza's throw hit pitcher","2002MON.EVN.regular.comment.csv",5
+"MON200204270",61,"ej,vidrj001,P,marqa901,Called third strike $Vidro ejected by HP umpire Marquez for arguing called third strike","2002MON.EVN.regular.comment.csv",6
+"MON200205120",6,"8 minute delay in the 2nd","2002MON.EVN.regular.comment.csv",7
+"MON200205210",74,"$Furcal hit in head by throw as he scored","2002MON.EVN.regular.comment.csv",8
+"MON200205220",22,"$Sheffield pulled left hamstring running out grounder","2002MON.EVN.regular.comment.csv",9
+"MON200205240",0,"PHI Mgr Bowa serving first of three game suspension","2002MON.EVN.regular.comment.csv",10
+"MON200205250",0,"PHI Mgr Bowa serving game 2 of 3 game suspension","2002MON.EVN.regular.comment.csv",11
+"MON200206030",64,"bunt presumed","2002MON.EVN.regular.comment.csv",12
+"MON200206040",71,"ej,cordw001,P,westj901,Balls and strikes Wil Cordero ejected by HP umpire Joe West","2002MON.EVN.regular.comment.csv",13
+"MON200206150",28,"Debut game for Zach Day","2002MON.EVN.regular.comment.csv",14
+"MON200206180",1,"Debut game for Shawn Sedlacek","2002MON.EVN.regular.comment.csv",15
+"MON200206190",64,"two errors on this play","2002MON.EVN.regular.comment.csv",16
+"MON200206220",71,"Debut game for Benjamin Broussard","2002MON.EVN.regular.comment.csv",17
+"MON200207140",25,"bunt assumed","2002MON.EVN.regular.comment.csv",18
+"MON200207160",27,"$off concrete rim of stadium; Expos Mgr Robinson argued that ball was out of play, 3rd base umpire Meals ruled in play","2002MON.EVN.regular.comment.csv",19
+"MON200207170",69,"ej,robif103,M,iassd901,Balls and strikes $Expos manager Robinson ejected by HP umpire Iassogna for arguing balls and strikes while Galarraga was at bat","2002MON.EVN.regular.comment.csv",20
+"MON200207260",63,"originally scored E4, changed 2 days later","2002MON.EVN.regular.comment.csv",21
+"MON200207310",69,"Debut game for Matthew Cepicky","2002MON.EVN.regular.comment.csv",22
+"MON200208160",25,"$Jones hit on left forearm, onto DL","2002MON.EVN.regular.comment.csv",23
+"MON200208160",68,"$Guerrero left with strained shoulder","2002MON.EVN.regular.comment.csv",24
+"MON200208170",1,"Debut game for Mike Bynum","2002MON.EVN.regular.comment.csv",25
+"MON200208180",24,"$Ryan Klesko out on appeal for missing 1B on apparent double","2002MON.EVN.regular.comment.csv",26
+"MON200208190",19,"Cruz tagged out standing up","2002MON.EVN.regular.comment.csv",27
+"MON200209030",10,"$Tatis made a diving stop but his throw sailed into the Expos' dugout","2002MON.EVN.regular.comment.csv",28
+"MON200209030",63,"$Galarraga's foot came off the bag as he took the throw","2002MON.EVN.regular.comment.csv",29
+"MON200209030",78,"Eischen slide, twist ankle, tag bag","2002MON.EVN.regular.comment.csv",30
+"MON200209130",76,"Debut game for Pat Strange","2002MON.EVN.regular.comment.csv",31
+"MON200209270",36,"Dessens held up so grounder would not hit him, then Wilkinson fielded ball, tagged Dessens and flipped to Vazquez to complete the double play","2002MON.EVN.regular.comment.csv",32
+"MON200209270",84,"$five-man infield, left fielder Dunn on left side","2002MON.EVN.regular.comment.csv",33
+"MON200209270",85,"$throwing error while trying to complete DP","2002MON.EVN.regular.comment.csv",34
+"MON200209290",67,"$out on checked swing; fans throw debris on field and Reds go to dugout, delaying game for 6 minutes","2002MON.EVN.regular.comment.csv",35
+"MON200209290",70,"$Guerrero leaves to standing ovation","2002MON.EVN.regular.comment.csv",36

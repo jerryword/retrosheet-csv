@@ -1,32 +1,33 @@
-"HOU197004100",43,"Debut game for Ron Cook","FILENAME_TX","LINE_NUMBER_CT"
-"HOU197004160",44,"ej,perrg101,P,,Arguing balk call $Giant pitcher Gaylord Perry, who was not in game, ejected by unknown umpire for arguing balk call","1970HOU.EVN.regular.comment.csv",2
-"HOU197005040",0,"$Jim Bouton: 106 pitches; Bill Hands 66 pitches","1970HOU.EVN.regular.comment.csv",3
-"HOU197005050",0,"$Fergie Jenkins: 136 pitches; Larry Dierker: 104 pitches","1970HOU.EVN.regular.comment.csv",4
-"HOU197006020",64,"$Jim Wynn crashed into fence","1970HOU.EVN.regular.comment.csv",5
-"HOU197006020",77,"Jim Wynn left with sore ribs","1970HOU.EVN.regular.comment.csv",6
-"HOU197006030",0,"$Expos 1B coach Jimmy Bragan missed the start of the game due to a scouting trip to Oklahoma City; manager Gene Mauch coached 3B and 3B coach Dick Williams moved to 1B","1970HOU.EVN.regular.comment.csv",7
-"HOU197006030",7,"ej,maucg101,M,pelec901,Balk call Expos manager Gene Mauch ejected by HP umpire Chris Pelekoudas","1970HOU.EVN.regular.comment.csv",8
-"HOU197006030",9,"Jimmy Bragan arrived and coached 1B","1970HOU.EVN.regular.comment.csv",9
-"HOU197006040",30,"ej,walkh102,M,kiblj901,Fair/foul call Astros manager Harry Walker ejected by HP umpire John Kibler when botched roller was ruled a foul ball","1970HOU.EVN.regular.comment.csv",10
-"HOU197006040",38,"Johnny Edwards struck on right shoulder by foul ball","1970HOU.EVN.regular.comment.csv",11
-"HOU197006050",50,"Del Bates struck by foul ball on hand","1970HOU.EVN.regular.comment.csv",12
-"HOU197006100",41,"Debut game for Rich Folkers","1970HOU.EVN.regular.comment.csv",13
-"HOU197007100",62,"ej,walkh102,M,pryop901,Call at 1B $Astros manager Walker ejected by 1B umpire Pryor for arguing that Alou was safe at 1st","1970HOU.EVN.regular.comment.csv",14
-"HOU197007120",14,"ej,masod101,P,barla901,Bench Jockeying $Don Mason (not in game) ejected by 1B umpire Barlick for for bench jockeying as umpires searched Perry for foreign substance","1970HOU.EVN.regular.comment.csv",15
-"HOU197007170",28,"Jim Wynn left cut eye","1970HOU.EVN.regular.comment.csv",16
-"HOU197007210",57,"Debut game for Dick Colpaert","1970HOU.EVN.regular.comment.csv",17
-"HOU197008031",61,"Denis Menke left with injured ankle","1970HOU.EVN.regular.comment.csv",18
-"HOU197008031",67,"$Jesus Alou, arguing ball was foul, didn't run; George Culver was safe at 3B and the Braves still had time to throw out Alou","1970HOU.EVN.regular.comment.csv",19
-"HOU197008032",62,"ej,lum-m101,P,davis901,Called third strike Mike Lum ejected by HP umpire Satch Davidson","1970HOU.EVN.regular.comment.csv",20
-"HOU197008130",40,"$catcher Johnny Edwards tried a pickoff; Wade Blasingame missed John Mayberry's return throw","1970HOU.EVN.regular.comment.csv",21
-"HOU197008140",21,"Cesar Cedeno injured on play","1970HOU.EVN.regular.comment.csv",22
-"HOU197008160",25,"$Johnny Edwards suffered fractured left big toe","1970HOU.EVN.regular.comment.csv",23
-"HOU197008290",86,"ej,edwaj101,P,kiblj901,Call at 1B (Threw towel) Johnny Edwards ejected by 1B umpire John Kibler for throwing a towel out of the dugout","1970HOU.EVN.regular.comment.csv",24
-"HOU197009010",72,"$John Mayberry let the ball roll thinking it would go foul","1970HOU.EVN.regular.comment.csv",25
-"HOU197009020",10,"$the wild pitch hit the facing of the stands behind HP and bounced back to Larry Howard","1970HOU.EVN.regular.comment.csv",26
-"HOU197009020",30,"$Bob Watson slid hard into 2B; Dave Campbell dropped the ball, picked it up and applied a hard tag even though Watson had been ruled out; the two wrestled and both benches cleared","1970HOU.EVN.regular.comment.csv",27
-"HOU197009120",20,"last two really one play","1970HOU.EVN.regular.comment.csv",28
-"HOU197009130",32,"FO is a guess","1970HOU.EVN.regular.comment.csv",29
-"HOU197009130",70,"$Orlando Cepeda stood next to Don Wilson with the ball but forgot to tag him","1970HOU.EVN.regular.comment.csv",30
-"HOU197009130",71,"FO is a guess","1970HOU.EVN.regular.comment.csv",31
-"HOU197009130",83,"Debut game for Earl Williams","1970HOU.EVN.regular.comment.csv",32
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"HOU197004100",43,"Debut game for Ron Cook","1970HOU.EVN.regular.comment.csv",2
+"HOU197004160",44,"ej,perrg101,P,,Arguing balk call $Giant pitcher Gaylord Perry, who was not in game, ejected by unknown umpire for arguing balk call","1970HOU.EVN.regular.comment.csv",3
+"HOU197005040",0,"$Jim Bouton: 106 pitches; Bill Hands 66 pitches","1970HOU.EVN.regular.comment.csv",4
+"HOU197005050",0,"$Fergie Jenkins: 136 pitches; Larry Dierker: 104 pitches","1970HOU.EVN.regular.comment.csv",5
+"HOU197006020",64,"$Jim Wynn crashed into fence","1970HOU.EVN.regular.comment.csv",6
+"HOU197006020",77,"Jim Wynn left with sore ribs","1970HOU.EVN.regular.comment.csv",7
+"HOU197006030",0,"$Expos 1B coach Jimmy Bragan missed the start of the game due to a scouting trip to Oklahoma City; manager Gene Mauch coached 3B and 3B coach Dick Williams moved to 1B","1970HOU.EVN.regular.comment.csv",8
+"HOU197006030",7,"ej,maucg101,M,pelec901,Balk call Expos manager Gene Mauch ejected by HP umpire Chris Pelekoudas","1970HOU.EVN.regular.comment.csv",9
+"HOU197006030",9,"Jimmy Bragan arrived and coached 1B","1970HOU.EVN.regular.comment.csv",10
+"HOU197006040",30,"ej,walkh102,M,kiblj901,Fair/foul call Astros manager Harry Walker ejected by HP umpire John Kibler when botched roller was ruled a foul ball","1970HOU.EVN.regular.comment.csv",11
+"HOU197006040",38,"Johnny Edwards struck on right shoulder by foul ball","1970HOU.EVN.regular.comment.csv",12
+"HOU197006050",50,"Del Bates struck by foul ball on hand","1970HOU.EVN.regular.comment.csv",13
+"HOU197006100",41,"Debut game for Rich Folkers","1970HOU.EVN.regular.comment.csv",14
+"HOU197007100",62,"ej,walkh102,M,pryop901,Call at 1B $Astros manager Walker ejected by 1B umpire Pryor for arguing that Alou was safe at 1st","1970HOU.EVN.regular.comment.csv",15
+"HOU197007120",14,"ej,masod101,P,barla901,Bench Jockeying $Don Mason (not in game) ejected by 1B umpire Barlick for for bench jockeying as umpires searched Perry for foreign substance","1970HOU.EVN.regular.comment.csv",16
+"HOU197007170",28,"Jim Wynn left cut eye","1970HOU.EVN.regular.comment.csv",17
+"HOU197007210",57,"Debut game for Dick Colpaert","1970HOU.EVN.regular.comment.csv",18
+"HOU197008031",61,"Denis Menke left with injured ankle","1970HOU.EVN.regular.comment.csv",19
+"HOU197008031",67,"$Jesus Alou, arguing ball was foul, didn't run; George Culver was safe at 3B and the Braves still had time to throw out Alou","1970HOU.EVN.regular.comment.csv",20
+"HOU197008032",62,"ej,lum-m101,P,davis901,Called third strike Mike Lum ejected by HP umpire Satch Davidson","1970HOU.EVN.regular.comment.csv",21
+"HOU197008130",40,"$catcher Johnny Edwards tried a pickoff; Wade Blasingame missed John Mayberry's return throw","1970HOU.EVN.regular.comment.csv",22
+"HOU197008140",21,"Cesar Cedeno injured on play","1970HOU.EVN.regular.comment.csv",23
+"HOU197008160",25,"$Johnny Edwards suffered fractured left big toe","1970HOU.EVN.regular.comment.csv",24
+"HOU197008290",86,"ej,edwaj101,P,kiblj901,Call at 1B (Threw towel) Johnny Edwards ejected by 1B umpire John Kibler for throwing a towel out of the dugout","1970HOU.EVN.regular.comment.csv",25
+"HOU197009010",72,"$John Mayberry let the ball roll thinking it would go foul","1970HOU.EVN.regular.comment.csv",26
+"HOU197009020",10,"$the wild pitch hit the facing of the stands behind HP and bounced back to Larry Howard","1970HOU.EVN.regular.comment.csv",27
+"HOU197009020",30,"$Bob Watson slid hard into 2B; Dave Campbell dropped the ball, picked it up and applied a hard tag even though Watson had been ruled out; the two wrestled and both benches cleared","1970HOU.EVN.regular.comment.csv",28
+"HOU197009120",20,"last two really one play","1970HOU.EVN.regular.comment.csv",29
+"HOU197009130",32,"FO is a guess","1970HOU.EVN.regular.comment.csv",30
+"HOU197009130",70,"$Orlando Cepeda stood next to Don Wilson with the ball but forgot to tag him","1970HOU.EVN.regular.comment.csv",31
+"HOU197009130",71,"FO is a guess","1970HOU.EVN.regular.comment.csv",32
+"HOU197009130",83,"Debut game for Earl Williams","1970HOU.EVN.regular.comment.csv",33

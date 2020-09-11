@@ -1,35 +1,36 @@
-"CIN192704120",0,"Debut for umpire Lou Jorda","FILENAME_TX","LINE_NUMBER_CT"
-"CIN192704120",14,"$George Grantham called for interference when the bat slipped out of his hands as he tapped in front of the plate","1927CIN.EVN.regular.comment.csv",2
-"CIN192704250",51,"$Wally Pipp fell rounding 1B, injuring his right shoulder","1927CIN.EVN.regular.comment.csv",3
-"CIN192704260",18,"$Jimmy Cooney collided with Ethan Allen and was injured","1927CIN.EVN.regular.comment.csv",4
-"CIN192705220",42,"Start to sprinkle","1927CIN.EVN.regular.comment.csv",5
-"CIN192705220",44,"ej,grimc101,P,jordl101,Bench jockeying $Hack Wilson argued when he was calleed out and got into a shoving match with catcher Picinich; Grimm was out of the game with a sore finger and was ejected by HP umpire Jorda when he waved a towel from the dugout","1927CIN.EVN.regular.comment.csv",6
-"CIN192705220",70,"Ball hit to 3B, runner trapped between 3rd and home (5252) for out, batter out going to 2nd (24)","1927CIN.EVN.regular.comment.csv",7
-"CIN192705230",7,"ej,rhynh101,P,jordl901,Call at 3B Hal Rhyne ejected by 3B umpire Lou Jorda","1927CIN.EVN.regular.comment.csv",8
-"CIN192705230",13,"$Pie Traynor waited to see of the popup would be caught","1927CIN.EVN.regular.comment.csv",9
-"CIN192705250",52,"$Hughie Critz left with a charley horse","1927CIN.EVN.regular.comment.csv",10
-"CIN192706090",11,"Bressler hurt","1927CIN.EVN.regular.comment.csv",11
-"CIN192706100",51,"Sukeforth PH for May in middle of AB, strikeout to May","1927CIN.EVN.regular.comment.csv",12
-"CIN192706150",60,"$Jay Partridge called for interference for running into his own batted ball","1927CIN.EVN.regular.comment.csv",13
-"CIN192706160",61,"pbp account ends here, rest deduced","1927CIN.EVN.regular.comment.csv",14
-"CIN192706170",60,"pbp account ends here, rest deduced","1927CIN.EVN.regular.comment.csv",15
-"CIN192706270",24,"ej,piciv101,P,wilsf901, Val Picinich ejected by HP umpire Frank Wilson","1927CIN.EVN.regular.comment.csv",16
-"CIN192706290",60,"$Riggs Stephenson called for interference on a steal attempt","1927CIN.EVN.regular.comment.csv",17
-"CIN192707260",40,"$Billy Zitzman reached 2B during the rundown, saw 3B was unguarded, and tried to advance","1927CIN.EVN.regular.comment.csv",18
-"CIN192707280",25,"Firstbaseman Burrus hurt on play","1927CIN.EVN.regular.comment.csv",19
-"CIN192707280",35,"Rain starts to fall","1927CIN.EVN.regular.comment.csv",20
-"CIN192708010",24,"$Harvey Hendrick overslid 3B","1927CIN.EVN.regular.comment.csv",21
-"CIN192708010",67,"Missing bottom of 9th to end in CIN192708010.","1927CIN.EVN.regular.comment.csv",22
-"CIN192708050",0,"Time of game was less than 2 hours","1927CIN.EVN.regular.comment.csv",23
-"CIN192709040",37,"$bounce home run","1927CIN.EVN.regular.comment.csv",24
-"CIN192709040",39,"$bounce home run","1927CIN.EVN.regular.comment.csv",25
-"CIN192709090",16,"Rain starts to fall","1927CIN.EVN.regular.comment.csv",26
-"CIN192709112",14,"3B fell down on play","1927CIN.EVN.regular.comment.csv",27
-"CIN192709121",13,"$unassisted DP by pitcher Luque; he grabbed grounder, ran toward runner on 2nd and tagged him; in the meantime, the batter tried to advance to 2nd and Luque tagged him too","1927CIN.EVN.regular.comment.csv",28
-"CIN192709171",3,"$bounce home run","1927CIN.EVN.regular.comment.csv",29
-"CIN192709182",48,"3B hurts left hand","1927CIN.EVN.regular.comment.csv",30
-"CIN192709190",24,"Ball hit over the bleachers","1927CIN.EVN.regular.comment.csv",31
-"CIN192709241",65,"SS chased CF away","1927CIN.EVN.regular.comment.csv",32
-"CIN192709260",53,"$Bob O'Farrell injured when a foul ball struck his right thumb","1927CIN.EVN.regular.comment.csv",33
-"CIN192709290",0,"$sawdust was scattered over the infield after rain had soaked the park; the early innings were played in a drizzle; the infield was a sea of mud, while the outfielders navigated around small lakes created by the day and a half of almost incessant rain","1927CIN.EVN.regular.comment.csv",34
-"CIN192709300",58,"ej,piciv101,P,quige901,Call at 3B Val Picinich ejected by 3B umpire Ernie Quigley","1927CIN.EVN.regular.comment.csv",35
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"CIN192704120",0,"Debut for umpire Lou Jorda","1927CIN.EVN.regular.comment.csv",2
+"CIN192704120",14,"$George Grantham called for interference when the bat slipped out of his hands as he tapped in front of the plate","1927CIN.EVN.regular.comment.csv",3
+"CIN192704250",51,"$Wally Pipp fell rounding 1B, injuring his right shoulder","1927CIN.EVN.regular.comment.csv",4
+"CIN192704260",18,"$Jimmy Cooney collided with Ethan Allen and was injured","1927CIN.EVN.regular.comment.csv",5
+"CIN192705220",42,"Start to sprinkle","1927CIN.EVN.regular.comment.csv",6
+"CIN192705220",44,"ej,grimc101,P,jordl101,Bench jockeying $Hack Wilson argued when he was calleed out and got into a shoving match with catcher Picinich; Grimm was out of the game with a sore finger and was ejected by HP umpire Jorda when he waved a towel from the dugout","1927CIN.EVN.regular.comment.csv",7
+"CIN192705220",70,"Ball hit to 3B, runner trapped between 3rd and home (5252) for out, batter out going to 2nd (24)","1927CIN.EVN.regular.comment.csv",8
+"CIN192705230",7,"ej,rhynh101,P,jordl901,Call at 3B Hal Rhyne ejected by 3B umpire Lou Jorda","1927CIN.EVN.regular.comment.csv",9
+"CIN192705230",13,"$Pie Traynor waited to see of the popup would be caught","1927CIN.EVN.regular.comment.csv",10
+"CIN192705250",52,"$Hughie Critz left with a charley horse","1927CIN.EVN.regular.comment.csv",11
+"CIN192706090",11,"Bressler hurt","1927CIN.EVN.regular.comment.csv",12
+"CIN192706100",51,"Sukeforth PH for May in middle of AB, strikeout to May","1927CIN.EVN.regular.comment.csv",13
+"CIN192706150",60,"$Jay Partridge called for interference for running into his own batted ball","1927CIN.EVN.regular.comment.csv",14
+"CIN192706160",61,"pbp account ends here, rest deduced","1927CIN.EVN.regular.comment.csv",15
+"CIN192706170",60,"pbp account ends here, rest deduced","1927CIN.EVN.regular.comment.csv",16
+"CIN192706270",24,"ej,piciv101,P,wilsf901, Val Picinich ejected by HP umpire Frank Wilson","1927CIN.EVN.regular.comment.csv",17
+"CIN192706290",60,"$Riggs Stephenson called for interference on a steal attempt","1927CIN.EVN.regular.comment.csv",18
+"CIN192707260",40,"$Billy Zitzman reached 2B during the rundown, saw 3B was unguarded, and tried to advance","1927CIN.EVN.regular.comment.csv",19
+"CIN192707280",25,"Firstbaseman Burrus hurt on play","1927CIN.EVN.regular.comment.csv",20
+"CIN192707280",35,"Rain starts to fall","1927CIN.EVN.regular.comment.csv",21
+"CIN192708010",24,"$Harvey Hendrick overslid 3B","1927CIN.EVN.regular.comment.csv",22
+"CIN192708010",67,"Missing bottom of 9th to end in CIN192708010.","1927CIN.EVN.regular.comment.csv",23
+"CIN192708050",0,"Time of game was less than 2 hours","1927CIN.EVN.regular.comment.csv",24
+"CIN192709040",37,"$bounce home run","1927CIN.EVN.regular.comment.csv",25
+"CIN192709040",39,"$bounce home run","1927CIN.EVN.regular.comment.csv",26
+"CIN192709090",16,"Rain starts to fall","1927CIN.EVN.regular.comment.csv",27
+"CIN192709112",14,"3B fell down on play","1927CIN.EVN.regular.comment.csv",28
+"CIN192709121",13,"$unassisted DP by pitcher Luque; he grabbed grounder, ran toward runner on 2nd and tagged him; in the meantime, the batter tried to advance to 2nd and Luque tagged him too","1927CIN.EVN.regular.comment.csv",29
+"CIN192709171",3,"$bounce home run","1927CIN.EVN.regular.comment.csv",30
+"CIN192709182",48,"3B hurts left hand","1927CIN.EVN.regular.comment.csv",31
+"CIN192709190",24,"Ball hit over the bleachers","1927CIN.EVN.regular.comment.csv",32
+"CIN192709241",65,"SS chased CF away","1927CIN.EVN.regular.comment.csv",33
+"CIN192709260",53,"$Bob O'Farrell injured when a foul ball struck his right thumb","1927CIN.EVN.regular.comment.csv",34
+"CIN192709290",0,"$sawdust was scattered over the infield after rain had soaked the park; the early innings were played in a drizzle; the infield was a sea of mud, while the outfielders navigated around small lakes created by the day and a half of almost incessant rain","1927CIN.EVN.regular.comment.csv",35
+"CIN192709300",58,"ej,piciv101,P,quige901,Call at 3B Val Picinich ejected by 3B umpire Ernie Quigley","1927CIN.EVN.regular.comment.csv",36

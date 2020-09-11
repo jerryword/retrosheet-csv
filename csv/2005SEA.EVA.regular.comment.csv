@@ -1,31 +1,32 @@
-"SEA200504060",32,"Bobby Madritsch left the game due to an injured neck/shoulder","FILENAME_TX","LINE_NUMBER_CT"
-"SEA200504060",58,"Justin Morneau left the game due to an injured head","2005SEA.EVA.regular.comment.csv",2
-"SEA200504210",70,"Debut game for Shin-Soo Choo","2005SEA.EVA.regular.comment.csv",3
-"SEA200505040",52,"Angels catcher Josh Paul left the game due to an injured hand/wrist","2005SEA.EVA.regular.comment.csv",4
-"SEA200505040",66,"Mariners catcher Dan Wilson left the game due to an injured knee","2005SEA.EVA.regular.comment.csv",5
-"SEA200505170",43,"Mariners third baseman Adrian Beltre left the game due to an injured leg","2005SEA.EVA.regular.comment.csv",6
-"SEA200505200",68,"Debut game for Jorge Campillo","2005SEA.EVA.regular.comment.csv",7
-"SEA200505310",30,"ej,franr001,P,wolfj901,Intentional HBP Mariners pitcher Ryan Franklin ejected by HP umpire Jim Wolf","2005SEA.EVA.regular.comment.csv",8
-"SEA200505310",69,"Debut game for Mike Morse","2005SEA.EVA.regular.comment.csv",9
-"SEA200506030",28,"Devil Rays pitcher Casey Fossum left the game due to an injured groin","2005SEA.EVA.regular.comment.csv",10
-"SEA200506170",70,"ej,andem003,P,iassd901,Called third strike Marlon Anderson ejected by HP umpire Dan Iassogna","2005SEA.EVA.regular.comment.csv",11
-"SEA200506180",7,"ej,sexsr001,P,scotd901,Called third strike ej,hargm001,M,scotd901,Called third strike Richie Sexson & Mgr Mike Hargrove ejected by HP umpire Dale Scott","2005SEA.EVA.regular.comment.csv",12
-"SEA200507150",40,"$3000th hit for Palmeiro","2005SEA.EVA.regular.comment.csv",13
-"SEA200507160",75,"originally scored S1 and E1, changed after game changed again back to S! and E1","2005SEA.EVA.regular.comment.csv",14
-"SEA200507280",19,"Debut game for Yuniesky Betancourt","2005SEA.EVA.regular.comment.csv",15
-"SEA200507280",31,"Mariners pitcher Gil Meche left the game due to an injured neck/shoulder","2005SEA.EVA.regular.comment.csv",16
-"SEA200507290",43,"$Reed left the game with injured head","2005SEA.EVA.regular.comment.csv",17
-"SEA200507290",63,"ej,hases001,P,guccc901,Intentional HBP $Pitcher Hasegawa ejected by HP umpire Guccione for intentionally hitting Sizemore","2005SEA.EVA.regular.comment.csv",18
-"SEA200507290",66,"ej,millk004,P,guccc901,Intentional HBP ej,wedge001,M,guccc901,Intentional HBP $Pitcher Millwood and Indians manager Wedge ejected by HP umpire Guccione for intentional HBP after earlier warning; both benches and bullpens emptied","2005SEA.EVA.regular.comment.csv",19
-"SEA200507290",84,"ej,riskd001,P,guccc901,Intentional HBP ej,thomr003,C,guccc901,Intentional HBP $Pitcher Riske and bench coach (and acting manager) Thompson ejected by HP umpire Guccione for intentional HBP after earlier warning","2005SEA.EVA.regular.comment.csv",20
-"SEA200508100",79,"Twins shortstop Juan Castro left the game due to an injured knee","2005SEA.EVA.regular.comment.csv",21
-"SEA200508120",76,"Debut game for Jeff Mathis","2005SEA.EVA.regular.comment.csv",22
-"SEA200508280",15,"Mariners first baseman Richie Sexson left the game due a blurry right eye","2005SEA.EVA.regular.comment.csv",23
-"SEA200508280",51,"Mariners third baseman Adrian Beltre left the game due to an injured knee","2005SEA.EVA.regular.comment.csv",24
-"SEA200508290",34,"Mariners third baseman Willie Bloomquist left the game due to an injured leg","2005SEA.EVA.regular.comment.csv",25
-"SEA200509010",46,"Yankees pitcher Jaret Wright left the game due to an injured neck/shoulder","2005SEA.EVA.regular.comment.csv",26
-"SEA200509090",61,"ej,perls101,M,dowda901,Call at HP Orioles Manager Sam Perlozzo ejected by HP umpire Adam Dowdy","2005SEA.EVA.regular.comment.csv",27
-"SEA200509100",7,"ej,hargm001,M,wintm901,Call at 2B Mariners Manager Mike Hargrove ejected by 2B umpire Mike Winters","2005SEA.EVA.regular.comment.csv",28
-"SEA200509110",14,"Mariners center fielder Jamal Strong left the game with a broken hand","2005SEA.EVA.regular.comment.csv",29
-"SEA200509130",66,"$Angels had 5 man infield","2005SEA.EVA.regular.comment.csv",30
-"SEA200509270",58,"ej,showb801,M,timmt901,Call at 1B Rangers Manager Buck Showalter ejected by 1B umpire Tim Timmons","2005SEA.EVA.regular.comment.csv",31
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"SEA200504060",32,"Bobby Madritsch left the game due to an injured neck/shoulder","2005SEA.EVA.regular.comment.csv",2
+"SEA200504060",58,"Justin Morneau left the game due to an injured head","2005SEA.EVA.regular.comment.csv",3
+"SEA200504210",70,"Debut game for Shin-Soo Choo","2005SEA.EVA.regular.comment.csv",4
+"SEA200505040",52,"Angels catcher Josh Paul left the game due to an injured hand/wrist","2005SEA.EVA.regular.comment.csv",5
+"SEA200505040",66,"Mariners catcher Dan Wilson left the game due to an injured knee","2005SEA.EVA.regular.comment.csv",6
+"SEA200505170",43,"Mariners third baseman Adrian Beltre left the game due to an injured leg","2005SEA.EVA.regular.comment.csv",7
+"SEA200505200",68,"Debut game for Jorge Campillo","2005SEA.EVA.regular.comment.csv",8
+"SEA200505310",30,"ej,franr001,P,wolfj901,Intentional HBP Mariners pitcher Ryan Franklin ejected by HP umpire Jim Wolf","2005SEA.EVA.regular.comment.csv",9
+"SEA200505310",69,"Debut game for Mike Morse","2005SEA.EVA.regular.comment.csv",10
+"SEA200506030",28,"Devil Rays pitcher Casey Fossum left the game due to an injured groin","2005SEA.EVA.regular.comment.csv",11
+"SEA200506170",70,"ej,andem003,P,iassd901,Called third strike Marlon Anderson ejected by HP umpire Dan Iassogna","2005SEA.EVA.regular.comment.csv",12
+"SEA200506180",7,"ej,sexsr001,P,scotd901,Called third strike ej,hargm001,M,scotd901,Called third strike Richie Sexson & Mgr Mike Hargrove ejected by HP umpire Dale Scott","2005SEA.EVA.regular.comment.csv",13
+"SEA200507150",40,"$3000th hit for Palmeiro","2005SEA.EVA.regular.comment.csv",14
+"SEA200507160",75,"originally scored S1 and E1, changed after game changed again back to S! and E1","2005SEA.EVA.regular.comment.csv",15
+"SEA200507280",19,"Debut game for Yuniesky Betancourt","2005SEA.EVA.regular.comment.csv",16
+"SEA200507280",31,"Mariners pitcher Gil Meche left the game due to an injured neck/shoulder","2005SEA.EVA.regular.comment.csv",17
+"SEA200507290",43,"$Reed left the game with injured head","2005SEA.EVA.regular.comment.csv",18
+"SEA200507290",63,"ej,hases001,P,guccc901,Intentional HBP $Pitcher Hasegawa ejected by HP umpire Guccione for intentionally hitting Sizemore","2005SEA.EVA.regular.comment.csv",19
+"SEA200507290",66,"ej,millk004,P,guccc901,Intentional HBP ej,wedge001,M,guccc901,Intentional HBP $Pitcher Millwood and Indians manager Wedge ejected by HP umpire Guccione for intentional HBP after earlier warning; both benches and bullpens emptied","2005SEA.EVA.regular.comment.csv",20
+"SEA200507290",84,"ej,riskd001,P,guccc901,Intentional HBP ej,thomr003,C,guccc901,Intentional HBP $Pitcher Riske and bench coach (and acting manager) Thompson ejected by HP umpire Guccione for intentional HBP after earlier warning","2005SEA.EVA.regular.comment.csv",21
+"SEA200508100",79,"Twins shortstop Juan Castro left the game due to an injured knee","2005SEA.EVA.regular.comment.csv",22
+"SEA200508120",76,"Debut game for Jeff Mathis","2005SEA.EVA.regular.comment.csv",23
+"SEA200508280",15,"Mariners first baseman Richie Sexson left the game due a blurry right eye","2005SEA.EVA.regular.comment.csv",24
+"SEA200508280",51,"Mariners third baseman Adrian Beltre left the game due to an injured knee","2005SEA.EVA.regular.comment.csv",25
+"SEA200508290",34,"Mariners third baseman Willie Bloomquist left the game due to an injured leg","2005SEA.EVA.regular.comment.csv",26
+"SEA200509010",46,"Yankees pitcher Jaret Wright left the game due to an injured neck/shoulder","2005SEA.EVA.regular.comment.csv",27
+"SEA200509090",61,"ej,perls101,M,dowda901,Call at HP Orioles Manager Sam Perlozzo ejected by HP umpire Adam Dowdy","2005SEA.EVA.regular.comment.csv",28
+"SEA200509100",7,"ej,hargm001,M,wintm901,Call at 2B Mariners Manager Mike Hargrove ejected by 2B umpire Mike Winters","2005SEA.EVA.regular.comment.csv",29
+"SEA200509110",14,"Mariners center fielder Jamal Strong left the game with a broken hand","2005SEA.EVA.regular.comment.csv",30
+"SEA200509130",66,"$Angels had 5 man infield","2005SEA.EVA.regular.comment.csv",31
+"SEA200509270",58,"ej,showb801,M,timmt901,Call at 1B Rangers Manager Buck Showalter ejected by 1B umpire Tim Timmons","2005SEA.EVA.regular.comment.csv",32

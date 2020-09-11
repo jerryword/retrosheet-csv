@@ -1,32 +1,33 @@
-"PHI192604140",55,"pbp account ends here, rest deduced","FILENAME_TX","LINE_NUMBER_CT"
-"PHI192604170",32,"$Heinie Sand in as courtesy runner for Clarence Huber","1926PHI.EVN.regular.comment.csv",2
-"PHI192604190",65,"pbp account ends here, rest deduced","1926PHI.EVN.regular.comment.csv",3
-"PHI192604260",75,"$Frank Frisch tried for 3B on PB but went back to 2B","1926PHI.EVN.regular.comment.csv",4
-"PHI192604270",20,"Bounce HR","1926PHI.EVN.regular.comment.csv",5
-"PHI192604270",35,"ej,fleta101,M,klemb901,Call at 1B Phillies Manager Art Fletcher ejected by 1B umpire Bill Klem","1926PHI.EVN.regular.comment.csv",6
-"PHI192604270",41,"$Travis Jackson left with injured ankle","1926PHI.EVN.regular.comment.csv",7
-"PHI192604280",8,"Light rain began","1926PHI.EVN.regular.comment.csv",8
-"PHI192606010",17,"ej,harpg101,P,sweej901,Call at 2B George Harper ejected by 3B umpire Monroe Sweeney; Frank Frisch injured leg on play","1926PHI.EVN.regular.comment.csv",9
-"PHI192606180",0,"ej,donop102,P,rearb901,Bench jockeying Pete Donohue ejected by 1B umpire Beans Reardon sometime in game","1926PHI.EVN.regular.comment.csv",10
-"PHI192607270",17,"Delayed steal.","1926PHI.EVN.regular.comment.csv",11
-"PHI192607281",27,"Lost it in the sun.","1926PHI.EVN.regular.comment.csv",12
-"PHI192607281",28,"Delayed steal.","1926PHI.EVN.regular.comment.csv",13
-"PHI192607281",64,"Blades escaped rundown.","1926PHI.EVN.regular.comment.csv",14
-"PHI192607281",70,"Delayed steal.","1926PHI.EVN.regular.comment.csv",15
-"PHI192608040",66,"$Russ Wrightstone struck by the batted ball","1926PHI.EVN.regular.comment.csv",16
-"PHI192608140",22,"$rain started; the game was held up while the bleacher fans raced across the field to the covered section of the grandstand","1926PHI.EVN.regular.comment.csv",17
-"PHI192608140",62,"DWV reconstructed bottom 8","1926PHI.EVN.regular.comment.csv",18
-"PHI192608140",66,"$game called for rain; second game postponed","1926PHI.EVN.regular.comment.csv",19
-"PHI192609070",40,"$lost in the sun","1926PHI.EVN.regular.comment.csv",20
-"PHI192609140",51,"$Hack Wilson was struck on the head","1926PHI.EVN.regular.comment.csv",21
-"PHI192609162",39,"ej,wilsj105,P,klemb901,Balls and strikes Jimmie Wilson ejected by HP umpire Bill Klem","1926PHI.EVN.regular.comment.csv",22
-"PHI192609162",40,"ej,fleta101,M,klemb901,Balls and strikes Phillies Manager Art Fletcher ejected by HP umpire Bill Klem","1926PHI.EVN.regular.comment.csv",23
-"PHI192609170",74,"$Freddy Leach bumped his head on the concrete and was badly hurt","1926PHI.EVN.regular.comment.csv",24
-"PHI192609170",79,"not sure when Vick entered","1926PHI.EVN.regular.comment.csv",25
-"PHI192609220",60,"$Texas league hit; Paul Waner paused to watch the play; George Grantham passed Waner and was called out","1926PHI.EVN.regular.comment.csv",26
-"PHI192609230",30,"Bounce HR","1926PHI.EVN.regular.comment.csv",27
-"PHI192609230",120,"$game called because of darkness","1926PHI.EVN.regular.comment.csv",28
-"PHI192609242",76,"$Cuckoo Christensen rounded 2B too far","1926PHI.EVN.regular.comment.csv",29
-"PHI192609242",78,"$Bubber Jonnard ran Curt Walker back to 3B where Wally Pipp had advanced; Jonnard tagged Pipp then Walker stepped off the bag","1926PHI.EVN.regular.comment.csv",30
-"PHI192609250",4,"$Wally Pipp injured on play at HP","1926PHI.EVN.regular.comment.csv",31
-"PHI192609250",65,"$Denny Sothern called for interference for running into his own batted ball","1926PHI.EVN.regular.comment.csv",32
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"PHI192604140",55,"pbp account ends here, rest deduced","1926PHI.EVN.regular.comment.csv",2
+"PHI192604170",32,"$Heinie Sand in as courtesy runner for Clarence Huber","1926PHI.EVN.regular.comment.csv",3
+"PHI192604190",65,"pbp account ends here, rest deduced","1926PHI.EVN.regular.comment.csv",4
+"PHI192604260",75,"$Frank Frisch tried for 3B on PB but went back to 2B","1926PHI.EVN.regular.comment.csv",5
+"PHI192604270",20,"Bounce HR","1926PHI.EVN.regular.comment.csv",6
+"PHI192604270",35,"ej,fleta101,M,klemb901,Call at 1B Phillies Manager Art Fletcher ejected by 1B umpire Bill Klem","1926PHI.EVN.regular.comment.csv",7
+"PHI192604270",41,"$Travis Jackson left with injured ankle","1926PHI.EVN.regular.comment.csv",8
+"PHI192604280",8,"Light rain began","1926PHI.EVN.regular.comment.csv",9
+"PHI192606010",17,"ej,harpg101,P,sweej901,Call at 2B George Harper ejected by 3B umpire Monroe Sweeney; Frank Frisch injured leg on play","1926PHI.EVN.regular.comment.csv",10
+"PHI192606180",0,"ej,donop102,P,rearb901,Bench jockeying Pete Donohue ejected by 1B umpire Beans Reardon sometime in game","1926PHI.EVN.regular.comment.csv",11
+"PHI192607270",17,"Delayed steal.","1926PHI.EVN.regular.comment.csv",12
+"PHI192607281",27,"Lost it in the sun.","1926PHI.EVN.regular.comment.csv",13
+"PHI192607281",28,"Delayed steal.","1926PHI.EVN.regular.comment.csv",14
+"PHI192607281",64,"Blades escaped rundown.","1926PHI.EVN.regular.comment.csv",15
+"PHI192607281",70,"Delayed steal.","1926PHI.EVN.regular.comment.csv",16
+"PHI192608040",66,"$Russ Wrightstone struck by the batted ball","1926PHI.EVN.regular.comment.csv",17
+"PHI192608140",22,"$rain started; the game was held up while the bleacher fans raced across the field to the covered section of the grandstand","1926PHI.EVN.regular.comment.csv",18
+"PHI192608140",62,"DWV reconstructed bottom 8","1926PHI.EVN.regular.comment.csv",19
+"PHI192608140",66,"$game called for rain; second game postponed","1926PHI.EVN.regular.comment.csv",20
+"PHI192609070",40,"$lost in the sun","1926PHI.EVN.regular.comment.csv",21
+"PHI192609140",51,"$Hack Wilson was struck on the head","1926PHI.EVN.regular.comment.csv",22
+"PHI192609162",39,"ej,wilsj105,P,klemb901,Balls and strikes Jimmie Wilson ejected by HP umpire Bill Klem","1926PHI.EVN.regular.comment.csv",23
+"PHI192609162",40,"ej,fleta101,M,klemb901,Balls and strikes Phillies Manager Art Fletcher ejected by HP umpire Bill Klem","1926PHI.EVN.regular.comment.csv",24
+"PHI192609170",74,"$Freddy Leach bumped his head on the concrete and was badly hurt","1926PHI.EVN.regular.comment.csv",25
+"PHI192609170",79,"not sure when Vick entered","1926PHI.EVN.regular.comment.csv",26
+"PHI192609220",60,"$Texas league hit; Paul Waner paused to watch the play; George Grantham passed Waner and was called out","1926PHI.EVN.regular.comment.csv",27
+"PHI192609230",30,"Bounce HR","1926PHI.EVN.regular.comment.csv",28
+"PHI192609230",120,"$game called because of darkness","1926PHI.EVN.regular.comment.csv",29
+"PHI192609242",76,"$Cuckoo Christensen rounded 2B too far","1926PHI.EVN.regular.comment.csv",30
+"PHI192609242",78,"$Bubber Jonnard ran Curt Walker back to 3B where Wally Pipp had advanced; Jonnard tagged Pipp then Walker stepped off the bag","1926PHI.EVN.regular.comment.csv",31
+"PHI192609250",4,"$Wally Pipp injured on play at HP","1926PHI.EVN.regular.comment.csv",32
+"PHI192609250",65,"$Denny Sothern called for interference for running into his own batted ball","1926PHI.EVN.regular.comment.csv",33

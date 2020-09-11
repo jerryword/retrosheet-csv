@@ -1,22 +1,23 @@
-"DET200304020",1,"Debut game for Jeremy Bonderman","FILENAME_TX","LINE_NUMBER_CT"
-"DET200304020",39,"Debut game for Wil Ledezma","2003DET.EVA.regular.comment.csv",2
-"DET200304020",53,"Debut game for Chris Spurling","2003DET.EVA.regular.comment.csv",3
-"DET200304020",61,"Debut game for Matt Roney","2003DET.EVA.regular.comment.csv",4
-"DET200305011",17,"Orioles Rodrigo Lopez left the game due to an injured back","2003DET.EVA.regular.comment.csv",5
-"DET200305160",53,"ej,cirij001,P,vanol901,Called third strike Mariners Jeff Cirillo ejected by HP umpire Larry Vanover","2003DET.EVA.regular.comment.csv",6
-"DET200305270",15,"Indians Jason Bere left the game due to an injured neck/shoulder","2003DET.EVA.regular.comment.csv",7
-"DET200305270",27,"Tigers Carlos Pena left the game due to an injured leg","2003DET.EVA.regular.comment.csv",8
-"DET200305280",15,"Tigers Mike Maroth left the game due to an injured leg","2003DET.EVA.regular.comment.csv",9
-"DET200305300",0,"44 minute delay during game","2003DET.EVA.regular.comment.csv",10
-"DET200306100",0,"28 minute delay during game","2003DET.EVA.regular.comment.csv",11
-"DET200306130",39,"ej,apodb101,C,timmt901,Call at 1B (from the bench) Rockies Coach Bob Apodaca ejected by 1B umpire Tim Timmons","2003DET.EVA.regular.comment.csv",12
-"DET200306280",0,"1:36 delay during game","2003DET.EVA.regular.comment.csv",13
-"DET200306290",84,"Debut game for Chris Mears","2003DET.EVA.regular.comment.csv",14
-"DET200307080",64,"ej,ordom001,P,guccc901,Check swing White Sox Magglio Ordonez ejected by HP umpire Chris Guccione","2003DET.EVA.regular.comment.csv",15
-"DET200307250",86,"$Bobby Higginson called for interference","2003DET.EVA.regular.comment.csv",16
-"DET200308090",56,"Witt was going on pitch, overslid base and was out","2003DET.EVA.regular.comment.csv",17
-"DET200308100",13,"ej,gibsk001,C,eddid901,Higginson ejection ej,higgb001,P,eddid901,Threw bat after popping up Tigers Bobby Higginson threw his bat after hitting the popup; he was ejected by HP umpire Doug Eddings; Coach Kirk Gibson ejected by Eddings for yelling from the bench","2003DET.EVA.regular.comment.csv",18
-"DET200308240",54,"Debut game for Brian Schmack","2003DET.EVA.regular.comment.csv",19
-"DET200308290",8,"Ordonez hyperextended left index finger diving for Higginson's double","2003DET.EVA.regular.comment.csv",20
-"DET200309010",0,"11 minute delay during game","2003DET.EVA.regular.comment.csv",21
-"DET200309160",46,"ej,higgb001,P,hollm901,Checked swing Tigers Bobby Higginson ejected by HP umpire Matt Hollowell","2003DET.EVA.regular.comment.csv",22
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"DET200304020",1,"Debut game for Jeremy Bonderman","2003DET.EVA.regular.comment.csv",2
+"DET200304020",39,"Debut game for Wil Ledezma","2003DET.EVA.regular.comment.csv",3
+"DET200304020",53,"Debut game for Chris Spurling","2003DET.EVA.regular.comment.csv",4
+"DET200304020",61,"Debut game for Matt Roney","2003DET.EVA.regular.comment.csv",5
+"DET200305011",17,"Orioles Rodrigo Lopez left the game due to an injured back","2003DET.EVA.regular.comment.csv",6
+"DET200305160",53,"ej,cirij001,P,vanol901,Called third strike Mariners Jeff Cirillo ejected by HP umpire Larry Vanover","2003DET.EVA.regular.comment.csv",7
+"DET200305270",15,"Indians Jason Bere left the game due to an injured neck/shoulder","2003DET.EVA.regular.comment.csv",8
+"DET200305270",27,"Tigers Carlos Pena left the game due to an injured leg","2003DET.EVA.regular.comment.csv",9
+"DET200305280",15,"Tigers Mike Maroth left the game due to an injured leg","2003DET.EVA.regular.comment.csv",10
+"DET200305300",0,"44 minute delay during game","2003DET.EVA.regular.comment.csv",11
+"DET200306100",0,"28 minute delay during game","2003DET.EVA.regular.comment.csv",12
+"DET200306130",39,"ej,apodb101,C,timmt901,Call at 1B (from the bench) Rockies Coach Bob Apodaca ejected by 1B umpire Tim Timmons","2003DET.EVA.regular.comment.csv",13
+"DET200306280",0,"1:36 delay during game","2003DET.EVA.regular.comment.csv",14
+"DET200306290",84,"Debut game for Chris Mears","2003DET.EVA.regular.comment.csv",15
+"DET200307080",64,"ej,ordom001,P,guccc901,Check swing White Sox Magglio Ordonez ejected by HP umpire Chris Guccione","2003DET.EVA.regular.comment.csv",16
+"DET200307250",86,"$Bobby Higginson called for interference","2003DET.EVA.regular.comment.csv",17
+"DET200308090",56,"Witt was going on pitch, overslid base and was out","2003DET.EVA.regular.comment.csv",18
+"DET200308100",13,"ej,gibsk001,C,eddid901,Higginson ejection ej,higgb001,P,eddid901,Threw bat after popping up Tigers Bobby Higginson threw his bat after hitting the popup; he was ejected by HP umpire Doug Eddings; Coach Kirk Gibson ejected by Eddings for yelling from the bench","2003DET.EVA.regular.comment.csv",19
+"DET200308240",54,"Debut game for Brian Schmack","2003DET.EVA.regular.comment.csv",20
+"DET200308290",8,"Ordonez hyperextended left index finger diving for Higginson's double","2003DET.EVA.regular.comment.csv",21
+"DET200309010",0,"11 minute delay during game","2003DET.EVA.regular.comment.csv",22
+"DET200309160",46,"ej,higgb001,P,hollm901,Checked swing Tigers Bobby Higginson ejected by HP umpire Matt Hollowell","2003DET.EVA.regular.comment.csv",23

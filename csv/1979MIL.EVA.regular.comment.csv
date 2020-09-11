@@ -1,31 +1,32 @@
-"MIL197904100",0,"Debut for umpires Dick Heitzer, Ken Kirby and Jim O'Brien","FILENAME_TX","LINE_NUMBER_CT"
-"MIL197904130",42,"ej,singk001,P,heitd901,Balls and strikes (Threw helmet) ej,weave801,M,heitd901,Balls and strikes Ken Singleton and Orioles Manager Earl Weaver ejected by 1B umpire Dick Heitzer","1979MIL.EVA.regular.comment.csv",2
-"MIL197904130",64,"ej,ripkc801,C,shulj901,Balk call Orioles Coach Cal Ripken Sr ejected by HP umpire John Shulock; Shulock called a balk after a long delay delay","1979MIL.EVA.regular.comment.csv",3
-"MIL197904150",40,"$Mark Belanger and Gary Roenicke collided","1979MIL.EVA.regular.comment.csv",4
-"MIL197905030",0,"Debut for umpires Doug Brown and Jim Mulcahy","1979MIL.EVA.regular.comment.csv",5
-"MIL197905080",0,"Debut for umpire Mike Farmer","1979MIL.EVA.regular.comment.csv",6
-"MIL197905090",0,"Debut for umpire Rick Reed","1979MIL.EVA.regular.comment.csv",7
-"MIL197905090",85,"ej,torbj101,M,reedr901,Balk call Indians Manager Jeff Torborg ejected by HP umpire Rick Reed","1979MIL.EVA.regular.comment.csv",8
-"MIL197905220",5,"$Joe Rudi left with strained right hamstring","1979MIL.EVA.regular.comment.csv",9
-"MIL197905220",67,"Debut game for Dickie Thon","1979MIL.EVA.regular.comment.csv",10
-"MIL197905240",28,"$wind blown pop up; Cecil Cooper held until ball dropped","1979MIL.EVA.regular.comment.csv",11
-"MIL197905250",58,"ej,bambg101,M,deegb901,Call at HP $Brewers maager Bamberger ejected by HP umpire Deegan for arguing Wohlford was safe at home","1979MIL.EVA.regular.comment.csv",12
-"MIL197905300",80,"ej,bambg101,M,clara901,Checked swing Brewers Manager George Bamberger ejected by 1B umpire Al Clark arguing a checked swing call","1979MIL.EVA.regular.comment.csv",13
-"MIL197905300",83,"umpchange,11,umphome,clara901 umpchange,11,ump1b,merrd901 umpchange,11,ump2b,(None) $Cliff Johnson ran into HP umpire Lou DiMuro after scoring a run and both fell to the ground; Johnson suffered slight injuries but DiMuro suffered major injuries; DiMuro was taken off the field on a stretcher after a 30-minute wait for the ambulance","1979MIL.EVA.regular.comment.csv",14
-"MIL197906090",0,"Rain delay before start of game","1979MIL.EVA.regular.comment.csv",15
-"MIL197906100",62,"ej,thomg001,P,shulj901,Called third strike Gorman Thomas ejected by HP umpire John Shulock","1979MIL.EVA.regular.comment.csv",16
-"MIL197906300",0,"21 minute rain delay before start of game","1979MIL.EVA.regular.comment.csv",17
-"MIL197907061",23,"$Molitor hit a sinking liner to LF; Kemp appeared to catch it but 3B umpire Deegan signaled no catch; neither Gantner nor Molitor saw the signal at first; Molitor started back to dugout, thinking he was out; Ganter started to 2B, went back to 1B then finally to 2B Brewers Manager George Bamberger argued but was not ejected","1979MIL.EVA.regular.comment.csv",18
-"MIL197907061",65,"ej,moned101,P,neudj901,Call at 3B ej,bambg101,M,neudj901,Call at 3B $Brewers Money and manager Bamberger ejected by 1B umpire Neudecker for arguing Whitaker was out at 3rd; ejections by 1B umpire who was crew chief after long discussion among the umpires","1979MIL.EVA.regular.comment.csv",19
-"MIL197907082",1,"Debut game for Dan Petry","1979MIL.EVA.regular.comment.csv",20
-"MIL197907270",25,"ej,jackr001,P,shulj901,Charging mound Reggie Jackson ejected by HP umpire John Shulock after throwing his bat at pitcher Mike Caldwell and charging the mound; Jackson claimed Caldwell threw a brushback at him","1979MIL.EVA.regular.comment.csv",21
-"MIL197907290",56,"ej,gantj001,P,fordd901,Fighting $Jim Gantner was hit on the face by Lou Piniella's elbow as the latter slid into 3B; they both fell to the ground but Gantner jumped up and went after Piniella; both benches cleared; Gantner ejected by 3B umpire Dale Ford","1979MIL.EVA.regular.comment.csv",22
-"MIL197908030",47,"Debut game for Win Remmerswaal","1979MIL.EVA.regular.comment.csv",23
-"MIL197908052",53,"ej,montb101,P,deegb901,Checked swing Bob Montgomery ejected by 1B umpire Bill Deegan","1979MIL.EVA.regular.comment.csv",24
-"MIL197908130",35,"$Jim Wohlford called for interference for running into his own bunt","1979MIL.EVA.regular.comment.csv",25
-"MIL197908220",0,"21 minute rain delay before start of game","1979MIL.EVA.regular.comment.csv",26
-"MIL197909140",42,"$Ford was still unhappy with some close pitches by Sorensen from a week before; he was backed away from the plate here and took a few steps toward mound but was stopped by catcher Martinez","1979MIL.EVA.regular.comment.csv",27
-"MIL197909140",57,"ej,fordd001,P,goetr901,Charging mound ej,sorel001,P,goetr901,Throwing at batter $Angels Ford and Brewers Sorensen ejected by HP umpire Goetz when pitch was behind Ford's head; Ford charged mound, both benches cleared","1979MIL.EVA.regular.comment.csv",28
-"MIL197909140",91,"ej,mclic101,C,goetr901,Bench jockeying Brewers coach Cal McLish ejected by Goetz for bench jockeying","1979MIL.EVA.regular.comment.csv",29
-"MIL197909150",49,"two plays really one play","1979MIL.EVA.regular.comment.csv",30
-"MIL197909260",52,"$Charlie Moore injured on the play","1979MIL.EVA.regular.comment.csv",31
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"MIL197904100",0,"Debut for umpires Dick Heitzer, Ken Kirby and Jim O'Brien","1979MIL.EVA.regular.comment.csv",2
+"MIL197904130",42,"ej,singk001,P,heitd901,Balls and strikes (Threw helmet) ej,weave801,M,heitd901,Balls and strikes Ken Singleton and Orioles Manager Earl Weaver ejected by 1B umpire Dick Heitzer","1979MIL.EVA.regular.comment.csv",3
+"MIL197904130",64,"ej,ripkc801,C,shulj901,Balk call Orioles Coach Cal Ripken Sr ejected by HP umpire John Shulock; Shulock called a balk after a long delay delay","1979MIL.EVA.regular.comment.csv",4
+"MIL197904150",40,"$Mark Belanger and Gary Roenicke collided","1979MIL.EVA.regular.comment.csv",5
+"MIL197905030",0,"Debut for umpires Doug Brown and Jim Mulcahy","1979MIL.EVA.regular.comment.csv",6
+"MIL197905080",0,"Debut for umpire Mike Farmer","1979MIL.EVA.regular.comment.csv",7
+"MIL197905090",0,"Debut for umpire Rick Reed","1979MIL.EVA.regular.comment.csv",8
+"MIL197905090",85,"ej,torbj101,M,reedr901,Balk call Indians Manager Jeff Torborg ejected by HP umpire Rick Reed","1979MIL.EVA.regular.comment.csv",9
+"MIL197905220",5,"$Joe Rudi left with strained right hamstring","1979MIL.EVA.regular.comment.csv",10
+"MIL197905220",67,"Debut game for Dickie Thon","1979MIL.EVA.regular.comment.csv",11
+"MIL197905240",28,"$wind blown pop up; Cecil Cooper held until ball dropped","1979MIL.EVA.regular.comment.csv",12
+"MIL197905250",58,"ej,bambg101,M,deegb901,Call at HP $Brewers maager Bamberger ejected by HP umpire Deegan for arguing Wohlford was safe at home","1979MIL.EVA.regular.comment.csv",13
+"MIL197905300",80,"ej,bambg101,M,clara901,Checked swing Brewers Manager George Bamberger ejected by 1B umpire Al Clark arguing a checked swing call","1979MIL.EVA.regular.comment.csv",14
+"MIL197905300",83,"umpchange,11,umphome,clara901 umpchange,11,ump1b,merrd901 umpchange,11,ump2b,(None) $Cliff Johnson ran into HP umpire Lou DiMuro after scoring a run and both fell to the ground; Johnson suffered slight injuries but DiMuro suffered major injuries; DiMuro was taken off the field on a stretcher after a 30-minute wait for the ambulance","1979MIL.EVA.regular.comment.csv",15
+"MIL197906090",0,"Rain delay before start of game","1979MIL.EVA.regular.comment.csv",16
+"MIL197906100",62,"ej,thomg001,P,shulj901,Called third strike Gorman Thomas ejected by HP umpire John Shulock","1979MIL.EVA.regular.comment.csv",17
+"MIL197906300",0,"21 minute rain delay before start of game","1979MIL.EVA.regular.comment.csv",18
+"MIL197907061",23,"$Molitor hit a sinking liner to LF; Kemp appeared to catch it but 3B umpire Deegan signaled no catch; neither Gantner nor Molitor saw the signal at first; Molitor started back to dugout, thinking he was out; Ganter started to 2B, went back to 1B then finally to 2B Brewers Manager George Bamberger argued but was not ejected","1979MIL.EVA.regular.comment.csv",19
+"MIL197907061",65,"ej,moned101,P,neudj901,Call at 3B ej,bambg101,M,neudj901,Call at 3B $Brewers Money and manager Bamberger ejected by 1B umpire Neudecker for arguing Whitaker was out at 3rd; ejections by 1B umpire who was crew chief after long discussion among the umpires","1979MIL.EVA.regular.comment.csv",20
+"MIL197907082",1,"Debut game for Dan Petry","1979MIL.EVA.regular.comment.csv",21
+"MIL197907270",25,"ej,jackr001,P,shulj901,Charging mound Reggie Jackson ejected by HP umpire John Shulock after throwing his bat at pitcher Mike Caldwell and charging the mound; Jackson claimed Caldwell threw a brushback at him","1979MIL.EVA.regular.comment.csv",22
+"MIL197907290",56,"ej,gantj001,P,fordd901,Fighting $Jim Gantner was hit on the face by Lou Piniella's elbow as the latter slid into 3B; they both fell to the ground but Gantner jumped up and went after Piniella; both benches cleared; Gantner ejected by 3B umpire Dale Ford","1979MIL.EVA.regular.comment.csv",23
+"MIL197908030",47,"Debut game for Win Remmerswaal","1979MIL.EVA.regular.comment.csv",24
+"MIL197908052",53,"ej,montb101,P,deegb901,Checked swing Bob Montgomery ejected by 1B umpire Bill Deegan","1979MIL.EVA.regular.comment.csv",25
+"MIL197908130",35,"$Jim Wohlford called for interference for running into his own bunt","1979MIL.EVA.regular.comment.csv",26
+"MIL197908220",0,"21 minute rain delay before start of game","1979MIL.EVA.regular.comment.csv",27
+"MIL197909140",42,"$Ford was still unhappy with some close pitches by Sorensen from a week before; he was backed away from the plate here and took a few steps toward mound but was stopped by catcher Martinez","1979MIL.EVA.regular.comment.csv",28
+"MIL197909140",57,"ej,fordd001,P,goetr901,Charging mound ej,sorel001,P,goetr901,Throwing at batter $Angels Ford and Brewers Sorensen ejected by HP umpire Goetz when pitch was behind Ford's head; Ford charged mound, both benches cleared","1979MIL.EVA.regular.comment.csv",29
+"MIL197909140",91,"ej,mclic101,C,goetr901,Bench jockeying Brewers coach Cal McLish ejected by Goetz for bench jockeying","1979MIL.EVA.regular.comment.csv",30
+"MIL197909150",49,"two plays really one play","1979MIL.EVA.regular.comment.csv",31
+"MIL197909260",52,"$Charlie Moore injured on the play","1979MIL.EVA.regular.comment.csv",32

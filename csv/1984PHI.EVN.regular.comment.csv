@@ -1,31 +1,32 @@
-"PHI198404240",24,"$Leon Lacy safe at 2B on DP attempt","FILENAME_TX","LINE_NUMBER_CT"
-"PHI198405020",4,"$Tim Raines rounded 1B to far","1984PHI.EVN.regular.comment.csv",2
-"PHI198405220",3,"Debut game for Lemmie Miller","1984PHI.EVN.regular.comment.csv",3
-"PHI198406020",4,"$Ryne Sandberg beat throw to 2B","1984PHI.EVN.regular.comment.csv",4
-"PHI198406030",26,"$Leon Durham rounded 3B too far","1984PHI.EVN.regular.comment.csv",5
-"PHI198406081",69,"$Ozzie Virgil called for interference with catcher on steal attempt","1984PHI.EVN.regular.comment.csv",6
-"PHI198406081",69,"$Jason Thompson hit a line drive down the 1B line that was foul, hit a seam in the AstroTurf and bounced into Len Matuszek's hand, breaking two knuckles and dislocating the middle finger on his right hand","1984PHI.EVN.regular.comment.csv",7
-"PHI198406250",29,"ej,samuj001,P,palld901,Call at 1B $Samuel ejected by 1B umpire Pallone for argung he was sge on pickoff","1984PHI.EVN.regular.comment.csv",8
-"PHI198406280",36,"$missed squeeze play","1984PHI.EVN.regular.comment.csv",9
-"PHI198406280",87,"$missed squeeze play","1984PHI.EVN.regular.comment.csv",10
-"PHI198406290",73,"$Ray Knight called for interference for running into own batted ball","1984PHI.EVN.regular.comment.csv",11
-"PHI198407020",6,"$Jeff Stone called for interference for running into own batted ball","1984PHI.EVN.regular.comment.csv",12
-"PHI198407050",55,"game rained out","1984PHI.EVN.regular.comment.csv",13
-"PHI198407060",44,"Jeff Stone injured","1984PHI.EVN.regular.comment.csv",14
-"PHI198407080",43,"Somewhat of a guess.  Komminsk had an error this inning.","1984PHI.EVN.regular.comment.csv",15
-"PHI198407080",61,"ej,garck001,P,grege901,Balls and strikes Kiko Garcia ejected by HP umpire Eric Gregg after the third pitch is called a strike","1984PHI.EVN.regular.comment.csv",16
-"PHI198407240",33,"Foul tipped third strike","1984PHI.EVN.regular.comment.csv",17
-"PHI198407270",58,"Debut game for Rene Gonzales","1984PHI.EVN.regular.comment.csv",18
-"PHI198408100",46,"$the ball bounced off catcher Darrell Porter to pitcher Kurt Kepshire who threw late to 3B with the relay on time to 1B","1984PHI.EVN.regular.comment.csv",19
-"PHI198408240",55,"IW by deduction (6/22/91 LK)","1984PHI.EVN.regular.comment.csv",20
-"PHI198408260",65,"Debut game for Francisco Melendez","1984PHI.EVN.regular.comment.csv",21
-"PHI198409010",6,"Debut game for Rich Schu","1984PHI.EVN.regular.comment.csv",22
-"PHI198409010",55,"IW by deduction (6/22/91 LK","1984PHI.EVN.regular.comment.csv",23
-"PHI198409130",2,"$curve ball bounced in the dirt and hit Tom Herr on foot","1984PHI.EVN.regular.comment.csv",24
-"PHI198409130",5,"$Joaquin Andujar threw near Juan Samuel's head; HP umpire Ed Montague warned both teams about further knock-down pitches","1984PHI.EVN.regular.comment.csv",25
-"PHI198409130",11,"Debut game for Jose Uribe","1984PHI.EVN.regular.comment.csv",26
-"PHI198409130",59,"DWS: Rucker needs a WP; this looks good","1984PHI.EVN.regular.comment.csv",27
-"PHI198409140",68,"DWS: this looks like it should be CS, but newspaper clearly says no CS in this game","1984PHI.EVN.regular.comment.csv",28
-"PHI198409170",60,"ej,owenp801,M,wendh901,Call at 2B $Phillies manager Owens ejected by 2B umpire Wendelstedt for arguing that DeJesus was safe at 2nd","1984PHI.EVN.regular.comment.csv",29
-"PHI198409301",26,"ej,brisd801,C,palld901,Checked swing ej,felsj101,C,palld901,Checked swing $Phillies coaches Bristol and Felske ejected by HP umpire Dave Pallone on a checked swing call","1984PHI.EVN.regular.comment.csv",30
-"PHI198409302",48,"ej,wockj001,P,rungp901,Obscene gesture John Wockenfuss ejected by HP umpire Paul Runge","1984PHI.EVN.regular.comment.csv",31
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"PHI198404240",24,"$Leon Lacy safe at 2B on DP attempt","1984PHI.EVN.regular.comment.csv",2
+"PHI198405020",4,"$Tim Raines rounded 1B to far","1984PHI.EVN.regular.comment.csv",3
+"PHI198405220",3,"Debut game for Lemmie Miller","1984PHI.EVN.regular.comment.csv",4
+"PHI198406020",4,"$Ryne Sandberg beat throw to 2B","1984PHI.EVN.regular.comment.csv",5
+"PHI198406030",26,"$Leon Durham rounded 3B too far","1984PHI.EVN.regular.comment.csv",6
+"PHI198406081",69,"$Ozzie Virgil called for interference with catcher on steal attempt","1984PHI.EVN.regular.comment.csv",7
+"PHI198406081",69,"$Jason Thompson hit a line drive down the 1B line that was foul, hit a seam in the AstroTurf and bounced into Len Matuszek's hand, breaking two knuckles and dislocating the middle finger on his right hand","1984PHI.EVN.regular.comment.csv",8
+"PHI198406250",29,"ej,samuj001,P,palld901,Call at 1B $Samuel ejected by 1B umpire Pallone for argung he was sge on pickoff","1984PHI.EVN.regular.comment.csv",9
+"PHI198406280",36,"$missed squeeze play","1984PHI.EVN.regular.comment.csv",10
+"PHI198406280",87,"$missed squeeze play","1984PHI.EVN.regular.comment.csv",11
+"PHI198406290",73,"$Ray Knight called for interference for running into own batted ball","1984PHI.EVN.regular.comment.csv",12
+"PHI198407020",6,"$Jeff Stone called for interference for running into own batted ball","1984PHI.EVN.regular.comment.csv",13
+"PHI198407050",55,"game rained out","1984PHI.EVN.regular.comment.csv",14
+"PHI198407060",44,"Jeff Stone injured","1984PHI.EVN.regular.comment.csv",15
+"PHI198407080",43,"Somewhat of a guess.  Komminsk had an error this inning.","1984PHI.EVN.regular.comment.csv",16
+"PHI198407080",61,"ej,garck001,P,grege901,Balls and strikes Kiko Garcia ejected by HP umpire Eric Gregg after the third pitch is called a strike","1984PHI.EVN.regular.comment.csv",17
+"PHI198407240",33,"Foul tipped third strike","1984PHI.EVN.regular.comment.csv",18
+"PHI198407270",58,"Debut game for Rene Gonzales","1984PHI.EVN.regular.comment.csv",19
+"PHI198408100",46,"$the ball bounced off catcher Darrell Porter to pitcher Kurt Kepshire who threw late to 3B with the relay on time to 1B","1984PHI.EVN.regular.comment.csv",20
+"PHI198408240",55,"IW by deduction (6/22/91 LK)","1984PHI.EVN.regular.comment.csv",21
+"PHI198408260",65,"Debut game for Francisco Melendez","1984PHI.EVN.regular.comment.csv",22
+"PHI198409010",6,"Debut game for Rich Schu","1984PHI.EVN.regular.comment.csv",23
+"PHI198409010",55,"IW by deduction (6/22/91 LK","1984PHI.EVN.regular.comment.csv",24
+"PHI198409130",2,"$curve ball bounced in the dirt and hit Tom Herr on foot","1984PHI.EVN.regular.comment.csv",25
+"PHI198409130",5,"$Joaquin Andujar threw near Juan Samuel's head; HP umpire Ed Montague warned both teams about further knock-down pitches","1984PHI.EVN.regular.comment.csv",26
+"PHI198409130",11,"Debut game for Jose Uribe","1984PHI.EVN.regular.comment.csv",27
+"PHI198409130",59,"DWS: Rucker needs a WP; this looks good","1984PHI.EVN.regular.comment.csv",28
+"PHI198409140",68,"DWS: this looks like it should be CS, but newspaper clearly says no CS in this game","1984PHI.EVN.regular.comment.csv",29
+"PHI198409170",60,"ej,owenp801,M,wendh901,Call at 2B $Phillies manager Owens ejected by 2B umpire Wendelstedt for arguing that DeJesus was safe at 2nd","1984PHI.EVN.regular.comment.csv",30
+"PHI198409301",26,"ej,brisd801,C,palld901,Checked swing ej,felsj101,C,palld901,Checked swing $Phillies coaches Bristol and Felske ejected by HP umpire Dave Pallone on a checked swing call","1984PHI.EVN.regular.comment.csv",31
+"PHI198409302",48,"ej,wockj001,P,rungp901,Obscene gesture John Wockenfuss ejected by HP umpire Paul Runge","1984PHI.EVN.regular.comment.csv",32

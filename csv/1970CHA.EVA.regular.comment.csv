@@ -1,38 +1,39 @@
-"CHA197004070",14,"Debut game for John Matias","FILENAME_TX","LINE_NUMBER_CT"
-"CHA197004070",76,"Debut game for Gene Rounsaville","1970CHA.EVA.regular.comment.csv",2
-"CHA197004090",74,"Debut game for Steve Barber","1970CHA.EVA.regular.comment.csv",3
-"CHA197004090",82,"Debut game for Minnie Mendoza","1970CHA.EVA.regular.comment.csv",4
-"CHA197004100",1,"Debut game for Jerry Janeski","1970CHA.EVA.regular.comment.csv",5
-"CHA197004280",13,"$Duane Josephson was picked off 1B; while he was in a rundown Luis Aparicio tried to score","1970CHA.EVA.regular.comment.csv",6
-"CHA197004280",51,"missing fielder in CHA197004280","1970CHA.EVA.regular.comment.csv",7
-"CHA197004300",63,"64 minute rain delay","1970CHA.EVA.regular.comment.csv",8
-"CHA197005010",11,"ej,meltb101,P,umonf901,Fighting ej,mcaud101,P,umonf901,Fighting ej,smitm105,M,umonf901,Ejection of player $Tigers McAuliffe and White Sox Melton ejected by 2B umpire Umont for fighting after Melton slid hard into McAuliffe; Tigers manager ejected by Umont for arguing McAuliffe's ejection","1970CHA.EVA.regular.comment.csv",9
-"CHA197006090",60,"Sonny Siebert: 105 pitches","1970CHA.EVA.regular.comment.csv",10
-"CHA197006090",67,"Jerry Janeski: 100 pitches","1970CHA.EVA.regular.comment.csv",11
-"CHA197006100",31,"$Tommy McCraw deflected the ball over the fence","1970CHA.EVA.regular.comment.csv",12
-"CHA197006100",71,"Joe Horlen: 109 pitches","1970CHA.EVA.regular.comment.csv",13
-"CHA197006100",103,"ej,conit101,P,lucir901,Called third strike Tony Conigliaro ejected by HP umpire Ron Luciano","1970CHA.EVA.regular.comment.csv",14
-"CHA197006160",29,"Ron Woods overslid 2B","1970CHA.EVA.regular.comment.csv",15
-"CHA197006260",14,"Debut game for Rich McKinney","1970CHA.EVA.regular.comment.csv",16
-"CHA197006260",72,"ej,rignb101,M,runge901,Balls and strikes $Twins manager Rigney ejected by HP umpire Runge for arguimg called strike with Cardenas at bat","1970CHA.EVA.regular.comment.csv",17
-"CHA197006281",46,"Debut game for Jim Magnuson","1970CHA.EVA.regular.comment.csv",18
-"CHA197006282",12,"Dave Boswell left with unknown injury","1970CHA.EVA.regular.comment.csv",19
-"CHA197006300",42,"Bill Melton left with unknown injury","1970CHA.EVA.regular.comment.csv",20
-"CHA197007180",6,"off the LF pole","1970CHA.EVA.regular.comment.csv",21
-"CHA197007192",23,"ej,weave801,M,dimul901,Balls and strikes Orioles Manager Earl Weaver ejected by HP umpire Lou DiMuro","1970CHA.EVA.regular.comment.csv",22
-"CHA197007192",51,"60 minute rain delay","1970CHA.EVA.regular.comment.csv",23
-"CHA197007192",65,"missing fielder in CHA197007192","1970CHA.EVA.regular.comment.csv",24
-"CHA197008070",47,"umpchange,6,umphp,chyln901 umpchange,6,ump1b,goetr901 umpchange,6,ump2b,(None) HP umpire Art Frantz was struck on the mask by a foul ball in the fifth inning; 1B umpire Nestor Chylak moved to HP and 2B umpire Russ Goetz moved to 1B","1970CHA.EVA.regular.comment.csv",25
-"CHA197009072",62,"Debut game for Don Eddy","1970CHA.EVA.regular.comment.csv",26
-"CHA197009092",66,"game called after 75 minute rain delay","1970CHA.EVA.regular.comment.csv",27
-"CHA197009200",68,"Debut game for Richie Moloney","1970CHA.EVA.regular.comment.csv",28
-"CHA197009211",0,"$this doubleheader is a makeup of games rained out in Kansas City earlier in September","1970CHA.EVA.regular.comment.csv",29
-"CHA197009211",15,"$rundown on botched squeeze","1970CHA.EVA.regular.comment.csv",30
-"CHA197009211",25,"Jim Rooker left with strained shoulder","1970CHA.EVA.regular.comment.csv",31
-"CHA197009211",64,"$Duane Josephson hit on the side of the head","1970CHA.EVA.regular.comment.csv",32
-"CHA197009212",0,"$this doubleheader is a makeup of games rained out in Kansas City earlier in September","1970CHA.EVA.regular.comment.csv",33
-"CHA197009212",18,"Debut game for Art Kusnyer","1970CHA.EVA.regular.comment.csv",34
-"CHA197009212",38,"ej,campj105,P,runge901,Bench jockeying Jim Campanis ejected by 1B umpire Ed Runge","1970CHA.EVA.regular.comment.csv",35
-"CHA197009212",45,"Debut game for Jim York","1970CHA.EVA.regular.comment.csv",36
-"CHA197009230",1,"Debut game for Paul Splittorff","1970CHA.EVA.regular.comment.csv",37
-"CHA197009260",0,"$30 minute rain delay before start of game","1970CHA.EVA.regular.comment.csv",38
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"CHA197004070",14,"Debut game for John Matias","1970CHA.EVA.regular.comment.csv",2
+"CHA197004070",76,"Debut game for Gene Rounsaville","1970CHA.EVA.regular.comment.csv",3
+"CHA197004090",74,"Debut game for Steve Barber","1970CHA.EVA.regular.comment.csv",4
+"CHA197004090",82,"Debut game for Minnie Mendoza","1970CHA.EVA.regular.comment.csv",5
+"CHA197004100",1,"Debut game for Jerry Janeski","1970CHA.EVA.regular.comment.csv",6
+"CHA197004280",13,"$Duane Josephson was picked off 1B; while he was in a rundown Luis Aparicio tried to score","1970CHA.EVA.regular.comment.csv",7
+"CHA197004280",51,"missing fielder in CHA197004280","1970CHA.EVA.regular.comment.csv",8
+"CHA197004300",63,"64 minute rain delay","1970CHA.EVA.regular.comment.csv",9
+"CHA197005010",11,"ej,meltb101,P,umonf901,Fighting ej,mcaud101,P,umonf901,Fighting ej,smitm105,M,umonf901,Ejection of player $Tigers McAuliffe and White Sox Melton ejected by 2B umpire Umont for fighting after Melton slid hard into McAuliffe; Tigers manager ejected by Umont for arguing McAuliffe's ejection","1970CHA.EVA.regular.comment.csv",10
+"CHA197006090",60,"Sonny Siebert: 105 pitches","1970CHA.EVA.regular.comment.csv",11
+"CHA197006090",67,"Jerry Janeski: 100 pitches","1970CHA.EVA.regular.comment.csv",12
+"CHA197006100",31,"$Tommy McCraw deflected the ball over the fence","1970CHA.EVA.regular.comment.csv",13
+"CHA197006100",71,"Joe Horlen: 109 pitches","1970CHA.EVA.regular.comment.csv",14
+"CHA197006100",103,"ej,conit101,P,lucir901,Called third strike Tony Conigliaro ejected by HP umpire Ron Luciano","1970CHA.EVA.regular.comment.csv",15
+"CHA197006160",29,"Ron Woods overslid 2B","1970CHA.EVA.regular.comment.csv",16
+"CHA197006260",14,"Debut game for Rich McKinney","1970CHA.EVA.regular.comment.csv",17
+"CHA197006260",72,"ej,rignb101,M,runge901,Balls and strikes $Twins manager Rigney ejected by HP umpire Runge for arguimg called strike with Cardenas at bat","1970CHA.EVA.regular.comment.csv",18
+"CHA197006281",46,"Debut game for Jim Magnuson","1970CHA.EVA.regular.comment.csv",19
+"CHA197006282",12,"Dave Boswell left with unknown injury","1970CHA.EVA.regular.comment.csv",20
+"CHA197006300",42,"Bill Melton left with unknown injury","1970CHA.EVA.regular.comment.csv",21
+"CHA197007180",6,"off the LF pole","1970CHA.EVA.regular.comment.csv",22
+"CHA197007192",23,"ej,weave801,M,dimul901,Balls and strikes Orioles Manager Earl Weaver ejected by HP umpire Lou DiMuro","1970CHA.EVA.regular.comment.csv",23
+"CHA197007192",51,"60 minute rain delay","1970CHA.EVA.regular.comment.csv",24
+"CHA197007192",65,"missing fielder in CHA197007192","1970CHA.EVA.regular.comment.csv",25
+"CHA197008070",47,"umpchange,6,umphp,chyln901 umpchange,6,ump1b,goetr901 umpchange,6,ump2b,(None) HP umpire Art Frantz was struck on the mask by a foul ball in the fifth inning; 1B umpire Nestor Chylak moved to HP and 2B umpire Russ Goetz moved to 1B","1970CHA.EVA.regular.comment.csv",26
+"CHA197009072",62,"Debut game for Don Eddy","1970CHA.EVA.regular.comment.csv",27
+"CHA197009092",66,"game called after 75 minute rain delay","1970CHA.EVA.regular.comment.csv",28
+"CHA197009200",68,"Debut game for Richie Moloney","1970CHA.EVA.regular.comment.csv",29
+"CHA197009211",0,"$this doubleheader is a makeup of games rained out in Kansas City earlier in September","1970CHA.EVA.regular.comment.csv",30
+"CHA197009211",15,"$rundown on botched squeeze","1970CHA.EVA.regular.comment.csv",31
+"CHA197009211",25,"Jim Rooker left with strained shoulder","1970CHA.EVA.regular.comment.csv",32
+"CHA197009211",64,"$Duane Josephson hit on the side of the head","1970CHA.EVA.regular.comment.csv",33
+"CHA197009212",0,"$this doubleheader is a makeup of games rained out in Kansas City earlier in September","1970CHA.EVA.regular.comment.csv",34
+"CHA197009212",18,"Debut game for Art Kusnyer","1970CHA.EVA.regular.comment.csv",35
+"CHA197009212",38,"ej,campj105,P,runge901,Bench jockeying Jim Campanis ejected by 1B umpire Ed Runge","1970CHA.EVA.regular.comment.csv",36
+"CHA197009212",45,"Debut game for Jim York","1970CHA.EVA.regular.comment.csv",37
+"CHA197009230",1,"Debut game for Paul Splittorff","1970CHA.EVA.regular.comment.csv",38
+"CHA197009260",0,"$30 minute rain delay before start of game","1970CHA.EVA.regular.comment.csv",39

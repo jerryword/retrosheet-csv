@@ -1,34 +1,35 @@
-"CLE195704260",34,"$Frank Lary struck by line drive on left knee","FILENAME_TX","LINE_NUMBER_CT"
-"CLE195704270",50,"$13 minute rain delay with 3-1 count on Roger Maris","1957CLE.EVA.regular.comment.csv",2
-"CLE195704270",63,"$Al Kaline dropped the fly ball","1957CLE.EVA.regular.comment.csv",3
-"CLE195704300",17,"$Bob Lemon's 37th and last homer","1957CLE.EVA.regular.comment.csv",4
-"CLE195705010",0,"ej,kresr101,C,hurle901,Call from previous day Indians Coach Red Kress ejected by 1B umpire Eddie Hurley sometime in game","1957CLE.EVA.regular.comment.csv",5
-"CLE195705040",45,"Indians scored this E2; but NY Times gave Maris RBI and no E on White as did TSN. Officials have both RBI and E2 which inconsistent","1957CLE.EVA.regular.comment.csv",6
-"CLE195705051",33,"$struck on elbow","1957CLE.EVA.regular.comment.csv",7
-"CLE195705070",2,"$Herb Score struck on right eye; carried off on stretcher","1957CLE.EVA.regular.comment.csv",8
-"CLE195705080",19,"$440 feet","1957CLE.EVA.regular.comment.csv",9
-"CLE195705121",57,"the following seems to need GDP or RBI","1957CLE.EVA.regular.comment.csv",10
-"CLE195705121",58,"$Milt Graff chased George Strickland back towards 1B and then threw to Vic Power, who stepped on 1B then tagged Strickland","1957CLE.EVA.regular.comment.csv",11
-"CLE195705240",54,"$Bob Lemon pulled thigh muscle","1957CLE.EVA.regular.comment.csv",12
-"CLE195705240",62,"$Eddie Robinson thought a pinch runner was coming in for him and left the bag","1957CLE.EVA.regular.comment.csv",13
-"CLE195705250",55,"$hit flag pole in LF","1957CLE.EVA.regular.comment.csv",14
-"CLE195705261",73,"$Eddie Robinson overslid 2B","1957CLE.EVA.regular.comment.csv",15
-"CLE195706050",18,"$foul ball by Larry Raines broke Yogi Berra's mask and nose","1957CLE.EVA.regular.comment.csv",16
-"CLE195706050",24,"$450 feet","1957CLE.EVA.regular.comment.csv",17
-"CLE195706060",3,"$465 feet","1957CLE.EVA.regular.comment.csv",18
-"CLE195706120",23,"ej,pierj102,,P,flahr901,Balls and strikes $Piersall was ejected by plate umpire Flaherty for arguing called strike; Stephens finished the at bat","1957CLE.EVA.regular.comment.csv",19
-"CLE195706130",75,"$first AL player to have two 3-homer games in same season","1957CLE.EVA.regular.comment.csv",20
-"CLE195707130",42,"DIFF: officials not CS but Bal s/s says 'ST'","1957CLE.EVA.regular.comment.csv",21
-"CLE195707190",48,"missing play in CLE195707190","1957CLE.EVA.regular.comment.csv",22
-"CLE195707190",56,"$off RF pole","1957CLE.EVA.regular.comment.csv",23
-"CLE195707190",56,"$Whitey Ford left with shoulder twinge","1957CLE.EVA.regular.comment.csv",24
-"CLE195707212",32,"$Gil McDougald left with leg cramps","1957CLE.EVA.regular.comment.csv",25
-"CLE195708150",0,"ej,hardm101,C,hurle901,Failure to eject opponent Indians Coach Mel Harder ejected by 2B umpire Eddie Hurley","1957CLE.EVA.regular.comment.csv",26
-"CLE195708200",50,"DIFF: officials have GDP","1957CLE.EVA.regular.comment.csv",27
-"CLE195708230",48,"$Bobby Shantz struck on hand","1957CLE.EVA.regular.comment.csv",28
-"CLE195709010",9,"DIFF: officials 0 WP","1957CLE.EVA.regular.comment.csv",29
-"CLE195709021",46,"DIFF: officials counted this as 2 team DPs","1957CLE.EVA.regular.comment.csv",30
-"CLE195709022",13,"ej,powev101,P,runge901,Balls and strikes Vic Power ejected by HP umpire Ed Runge","1957CLE.EVA.regular.comment.csv",31
-"CLE195709210",40,"36 minute rain delay","1957CLE.EVA.regular.comment.csv",32
-"CLE195709220",29,"1:02 rain delay","1957CLE.EVA.regular.comment.csv",33
-"CLE195709220",45,"$Mike Garcia was hit on the knee by a line drive","1957CLE.EVA.regular.comment.csv",34
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"CLE195704260",34,"$Frank Lary struck by line drive on left knee","1957CLE.EVA.regular.comment.csv",2
+"CLE195704270",50,"$13 minute rain delay with 3-1 count on Roger Maris","1957CLE.EVA.regular.comment.csv",3
+"CLE195704270",63,"$Al Kaline dropped the fly ball","1957CLE.EVA.regular.comment.csv",4
+"CLE195704300",17,"$Bob Lemon's 37th and last homer","1957CLE.EVA.regular.comment.csv",5
+"CLE195705010",0,"ej,kresr101,C,hurle901,Call from previous day Indians Coach Red Kress ejected by 1B umpire Eddie Hurley sometime in game","1957CLE.EVA.regular.comment.csv",6
+"CLE195705040",45,"Indians scored this E2; but NY Times gave Maris RBI and no E on White as did TSN. Officials have both RBI and E2 which inconsistent","1957CLE.EVA.regular.comment.csv",7
+"CLE195705051",33,"$struck on elbow","1957CLE.EVA.regular.comment.csv",8
+"CLE195705070",2,"$Herb Score struck on right eye; carried off on stretcher","1957CLE.EVA.regular.comment.csv",9
+"CLE195705080",19,"$440 feet","1957CLE.EVA.regular.comment.csv",10
+"CLE195705121",57,"the following seems to need GDP or RBI","1957CLE.EVA.regular.comment.csv",11
+"CLE195705121",58,"$Milt Graff chased George Strickland back towards 1B and then threw to Vic Power, who stepped on 1B then tagged Strickland","1957CLE.EVA.regular.comment.csv",12
+"CLE195705240",54,"$Bob Lemon pulled thigh muscle","1957CLE.EVA.regular.comment.csv",13
+"CLE195705240",62,"$Eddie Robinson thought a pinch runner was coming in for him and left the bag","1957CLE.EVA.regular.comment.csv",14
+"CLE195705250",55,"$hit flag pole in LF","1957CLE.EVA.regular.comment.csv",15
+"CLE195705261",73,"$Eddie Robinson overslid 2B","1957CLE.EVA.regular.comment.csv",16
+"CLE195706050",18,"$foul ball by Larry Raines broke Yogi Berra's mask and nose","1957CLE.EVA.regular.comment.csv",17
+"CLE195706050",24,"$450 feet","1957CLE.EVA.regular.comment.csv",18
+"CLE195706060",3,"$465 feet","1957CLE.EVA.regular.comment.csv",19
+"CLE195706120",23,"ej,pierj102,,P,flahr901,Balls and strikes $Piersall was ejected by plate umpire Flaherty for arguing called strike; Stephens finished the at bat","1957CLE.EVA.regular.comment.csv",20
+"CLE195706130",75,"$first AL player to have two 3-homer games in same season","1957CLE.EVA.regular.comment.csv",21
+"CLE195707130",42,"DIFF: officials not CS but Bal s/s says 'ST'","1957CLE.EVA.regular.comment.csv",22
+"CLE195707190",48,"missing play in CLE195707190","1957CLE.EVA.regular.comment.csv",23
+"CLE195707190",56,"$off RF pole","1957CLE.EVA.regular.comment.csv",24
+"CLE195707190",56,"$Whitey Ford left with shoulder twinge","1957CLE.EVA.regular.comment.csv",25
+"CLE195707212",32,"$Gil McDougald left with leg cramps","1957CLE.EVA.regular.comment.csv",26
+"CLE195708150",0,"ej,hardm101,C,hurle901,Failure to eject opponent Indians Coach Mel Harder ejected by 2B umpire Eddie Hurley","1957CLE.EVA.regular.comment.csv",27
+"CLE195708200",50,"DIFF: officials have GDP","1957CLE.EVA.regular.comment.csv",28
+"CLE195708230",48,"$Bobby Shantz struck on hand","1957CLE.EVA.regular.comment.csv",29
+"CLE195709010",9,"DIFF: officials 0 WP","1957CLE.EVA.regular.comment.csv",30
+"CLE195709021",46,"DIFF: officials counted this as 2 team DPs","1957CLE.EVA.regular.comment.csv",31
+"CLE195709022",13,"ej,powev101,P,runge901,Balls and strikes Vic Power ejected by HP umpire Ed Runge","1957CLE.EVA.regular.comment.csv",32
+"CLE195709210",40,"36 minute rain delay","1957CLE.EVA.regular.comment.csv",33
+"CLE195709220",29,"1:02 rain delay","1957CLE.EVA.regular.comment.csv",34
+"CLE195709220",45,"$Mike Garcia was hit on the knee by a line drive","1957CLE.EVA.regular.comment.csv",35

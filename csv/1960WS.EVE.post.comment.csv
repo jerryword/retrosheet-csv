@@ -1,45 +1,46 @@
-"PIT196010050",1,"$off the third base bag","FILENAME_TX","LINE_NUMBER_CT"
-"PIT196010050",6,"$No one covered second, and Berra's throw went into center","1960WS.EVE.post.comment.csv",2
-"PIT196010050",7,"into the right field corner","1960WS.EVE.post.comment.csv",3
-"PIT196010050",30,"great catch by Virdon at the right-center field wall","1960WS.EVE.post.comment.csv",4
-"PIT196010050",41,"past the mound","1960WS.EVE.post.comment.csv",5
-"PIT196010050",46,"JFB: incomplete description of fielders; simplest assumed","1960WS.EVE.post.comment.csv",6
-"PIT196010050",54,"off the right field screen","1960WS.EVE.post.comment.csv",7
-"PIT196010050",58,"off Groat's glove","1960WS.EVE.post.comment.csv",8
-"PIT196010050",63,"in front of the first base stands","1960WS.EVE.post.comment.csv",9
-"PIT196010050",74,"over Mazeroski's head","1960WS.EVE.post.comment.csv",10
-"PIT196010060",16,"into the left field corner","1960WS.EVE.post.comment.csv",11
-"PIT196010060",21,"inside the third base line","1960WS.EVE.post.comment.csv",12
-"PIT196010060",25,"deflected off Turley","1960WS.EVE.post.comment.csv",13
-"PIT196010060",27,"McDougald hoped the ball would roll foul","1960WS.EVE.post.comment.csv",14
-"PIT196010060",37,"off the right field wall","1960WS.EVE.post.comment.csv",15
-"PIT196010060",51,"off the light tower in right center","1960WS.EVE.post.comment.csv",16
-"PIT196010060",64,"into the left field corner","1960WS.EVE.post.comment.csv",17
-"PIT196010060",97,"high off the right field screen;  Nelson held up thinking the ball would be caught, but Richardson's relay to trap Burgess around first went past Skowron","1960WS.EVE.post.comment.csv",18
-"NYA196010080",39,"off Hoak's chest","1960WS.EVE.post.comment.csv",19
-"NYA196010100",11,"into the right field corner","1960WS.EVE.post.comment.csv",20
-"NYA196010100",13,"down the left field line","1960WS.EVE.post.comment.csv",21
-"NYA196010100",16,"off the right field wall","1960WS.EVE.post.comment.csv",22
-"NYA196010100",20,"into the left field corner","1960WS.EVE.post.comment.csv",23
-"NYA196010100",30,"off Kubek's chest","1960WS.EVE.post.comment.csv",24
-"NYA196010100",51,"behind second","1960WS.EVE.post.comment.csv",25
-"NYA196010100",52,"off Skowron's glove down the right field line","1960WS.EVE.post.comment.csv",26
-"NYA196010100",68,"through the box","1960WS.EVE.post.comment.csv",27
-"NYA196010100",70,"bunted foul on the third strike","1960WS.EVE.post.comment.csv",28
-"PIT196010120",20,"off the right field screen","1960WS.EVE.post.comment.csv",29
-"PIT196010120",25,"off the left field scoreboard","1960WS.EVE.post.comment.csv",30
-"PIT196010120",38,"off the left-center field wall","1960WS.EVE.post.comment.csv",31
-"PIT196010120",46,"off the right-center field wall","1960WS.EVE.post.comment.csv",32
-"PIT196010120",56,"off the right field screen","1960WS.EVE.post.comment.csv",33
-"PIT196010120",57,"off the left-center field wall","1960WS.EVE.post.comment.csv",34
-"PIT196010120",70,"off the right field screen","1960WS.EVE.post.comment.csv",35
-"PIT196010120",74,"off DeMaestri's glove","1960WS.EVE.post.comment.csv",36
-"PIT196010130",12,"down the first base line","1960WS.EVE.post.comment.csv",37
-"PIT196010130",14,"bunter toward third","1960WS.EVE.post.comment.csv",38
-"PIT196010130",25,"behind third","1960WS.EVE.post.comment.csv",39
-"PIT196010130",50,"bounced over Hoak's head","1960WS.EVE.post.comment.csv",40
-"PIT196010130",59,"high bouncer to Hoak who threw to 2nd","1960WS.EVE.post.comment.csv",41
-"PIT196010130",60,"bobbled by Clemente","1960WS.EVE.post.comment.csv",42
-"PIT196010130",61,"into the left field corner","1960WS.EVE.post.comment.csv",43
-"PIT196010130",64,"bad hop hits Kubek in the neck","1960WS.EVE.post.comment.csv",44
-"PIT196010130",65,"past third","1960WS.EVE.post.comment.csv",45
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"PIT196010050",1,"$off the third base bag","1960WS.EVE.post.comment.csv",2
+"PIT196010050",6,"$No one covered second, and Berra's throw went into center","1960WS.EVE.post.comment.csv",3
+"PIT196010050",7,"into the right field corner","1960WS.EVE.post.comment.csv",4
+"PIT196010050",30,"great catch by Virdon at the right-center field wall","1960WS.EVE.post.comment.csv",5
+"PIT196010050",41,"past the mound","1960WS.EVE.post.comment.csv",6
+"PIT196010050",46,"JFB: incomplete description of fielders; simplest assumed","1960WS.EVE.post.comment.csv",7
+"PIT196010050",54,"off the right field screen","1960WS.EVE.post.comment.csv",8
+"PIT196010050",58,"off Groat's glove","1960WS.EVE.post.comment.csv",9
+"PIT196010050",63,"in front of the first base stands","1960WS.EVE.post.comment.csv",10
+"PIT196010050",74,"over Mazeroski's head","1960WS.EVE.post.comment.csv",11
+"PIT196010060",16,"into the left field corner","1960WS.EVE.post.comment.csv",12
+"PIT196010060",21,"inside the third base line","1960WS.EVE.post.comment.csv",13
+"PIT196010060",25,"deflected off Turley","1960WS.EVE.post.comment.csv",14
+"PIT196010060",27,"McDougald hoped the ball would roll foul","1960WS.EVE.post.comment.csv",15
+"PIT196010060",37,"off the right field wall","1960WS.EVE.post.comment.csv",16
+"PIT196010060",51,"off the light tower in right center","1960WS.EVE.post.comment.csv",17
+"PIT196010060",64,"into the left field corner","1960WS.EVE.post.comment.csv",18
+"PIT196010060",97,"high off the right field screen;  Nelson held up thinking the ball would be caught, but Richardson's relay to trap Burgess around first went past Skowron","1960WS.EVE.post.comment.csv",19
+"NYA196010080",39,"off Hoak's chest","1960WS.EVE.post.comment.csv",20
+"NYA196010100",11,"into the right field corner","1960WS.EVE.post.comment.csv",21
+"NYA196010100",13,"down the left field line","1960WS.EVE.post.comment.csv",22
+"NYA196010100",16,"off the right field wall","1960WS.EVE.post.comment.csv",23
+"NYA196010100",20,"into the left field corner","1960WS.EVE.post.comment.csv",24
+"NYA196010100",30,"off Kubek's chest","1960WS.EVE.post.comment.csv",25
+"NYA196010100",51,"behind second","1960WS.EVE.post.comment.csv",26
+"NYA196010100",52,"off Skowron's glove down the right field line","1960WS.EVE.post.comment.csv",27
+"NYA196010100",68,"through the box","1960WS.EVE.post.comment.csv",28
+"NYA196010100",70,"bunted foul on the third strike","1960WS.EVE.post.comment.csv",29
+"PIT196010120",20,"off the right field screen","1960WS.EVE.post.comment.csv",30
+"PIT196010120",25,"off the left field scoreboard","1960WS.EVE.post.comment.csv",31
+"PIT196010120",38,"off the left-center field wall","1960WS.EVE.post.comment.csv",32
+"PIT196010120",46,"off the right-center field wall","1960WS.EVE.post.comment.csv",33
+"PIT196010120",56,"off the right field screen","1960WS.EVE.post.comment.csv",34
+"PIT196010120",57,"off the left-center field wall","1960WS.EVE.post.comment.csv",35
+"PIT196010120",70,"off the right field screen","1960WS.EVE.post.comment.csv",36
+"PIT196010120",74,"off DeMaestri's glove","1960WS.EVE.post.comment.csv",37
+"PIT196010130",12,"down the first base line","1960WS.EVE.post.comment.csv",38
+"PIT196010130",14,"bunter toward third","1960WS.EVE.post.comment.csv",39
+"PIT196010130",25,"behind third","1960WS.EVE.post.comment.csv",40
+"PIT196010130",50,"bounced over Hoak's head","1960WS.EVE.post.comment.csv",41
+"PIT196010130",59,"high bouncer to Hoak who threw to 2nd","1960WS.EVE.post.comment.csv",42
+"PIT196010130",60,"bobbled by Clemente","1960WS.EVE.post.comment.csv",43
+"PIT196010130",61,"into the left field corner","1960WS.EVE.post.comment.csv",44
+"PIT196010130",64,"bad hop hits Kubek in the neck","1960WS.EVE.post.comment.csv",45
+"PIT196010130",65,"past third","1960WS.EVE.post.comment.csv",46

@@ -1,25 +1,26 @@
-"ATL196604120",0,"$First Major League game in Atlanta","FILENAME_TX","LINE_NUMBER_CT"
-"ATL196604220",25,"$Ken Boyer called for obstruction","1966ATL.EVN.regular.comment.csv",2
-"ATL196604230",26,"Debut game for Bill Hepler","1966ATL.EVN.regular.comment.csv",3
-"ATL196605030",16,"ej,maucg101,M,kiblj901,Balls and strikes $Phillies manager Mauch ejected by HP umpire Kibler at end of inning for arguing balls and strikes","1966ATL.EVN.regular.comment.csv",4
-"ATL196605040",48,"ej,dalrc101,P,jackb901,Balls and strikes Clay Dalrymple ejected by HP umpire Bill Jackowski","1966ATL.EVN.regular.comment.csv",5
-"ATL196605050",40,"$Dick Groat rounded 3B too far","1966ATL.EVN.regular.comment.csv",6
-"ATL196605050",57,"ej,mathe101,P,sudoe901,Called third strike Eddie Mathews ejected by HP umpire Ed Sudol","1966ATL.EVN.regular.comment.csv",7
-"ATL196605110",53,"missing play in ATL196605110","1966ATL.EVN.regular.comment.csv",8
-"ATL196606020",17,"Debut game for Felix Millan","1966ATL.EVN.regular.comment.csv",9
-"ATL196606190",32,"$Donn Clendenon out before Bill Mazeroski scored","1966ATL.EVN.regular.comment.csv",10
-"ATL196606190",85,"ej,aaroh101,P,venzt901,Balls and strikes $Hank Aaron objected to two inside pitches that were called strikes; he dropped his bat at HP Umpire Tony Venzon's feet; Venzon kicked it back at Aaron, who returned it to the umpire; Aaron threw his helmet towards HP as he walked to the dugout and was ejected by Venzon","1966ATL.EVN.regular.comment.csv",11
-"ATL196606280",0,"1:25 rain delay before start of game","1966ATL.EVN.regular.comment.csv",12
-"ATL196606280",63,"$Don Kessinger called for interference when the ball struck his bat a second time in fair territory","1966ATL.EVN.regular.comment.csv",13
-"ATL196607160",37,"game called for rain","1966ATL.EVN.regular.comment.csv",14
-"ATL196607310",38,"last two plays really one play","1966ATL.EVN.regular.comment.csv",15
-"ATL196608090",51,"ej,jonem102,P,varge901,Balls and strikes Mack Jones ejected by HP umpire Ed Vargo","1966ATL.EVN.regular.comment.csv",16
-"ATL196608090",55,"missed squeeze","1966ATL.EVN.regular.comment.csv",17
-"ATL196608131",71,"$Jim Bunning dropped the ball during his windup","1966ATL.EVN.regular.comment.csv",18
-"ATL196608270",50,"$Woody Woodward rounded 3B too far","1966ATL.EVN.regular.comment.csv",19
-"ATL196608290",56,"ej,hitcb101,M,lands901,Unknown reason $Braves manager Hitchcock ejected by HP umpire Landes sometime in 8th inning for unknown reason","1966ATL.EVN.regular.comment.csv",20
-"ATL196609031",1,"Debut game for Charlie Vaughan","1966ATL.EVN.regular.comment.csv",21
-"ATL196609180",39,"Debut game for George Kopacz","1966ATL.EVN.regular.comment.csv",22
-"ATL196609200",16,"1:16 rain delay","1966ATL.EVN.regular.comment.csv",23
-"ATL196609200",60,"Debut game for Bill Robinson Debut game for Ron Willis","1966ATL.EVN.regular.comment.csv",24
-"ATL196609260",1,"Debut game for Ron Reed","1966ATL.EVN.regular.comment.csv",25
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"ATL196604120",0,"$First Major League game in Atlanta","1966ATL.EVN.regular.comment.csv",2
+"ATL196604220",25,"$Ken Boyer called for obstruction","1966ATL.EVN.regular.comment.csv",3
+"ATL196604230",26,"Debut game for Bill Hepler","1966ATL.EVN.regular.comment.csv",4
+"ATL196605030",16,"ej,maucg101,M,kiblj901,Balls and strikes $Phillies manager Mauch ejected by HP umpire Kibler at end of inning for arguing balls and strikes","1966ATL.EVN.regular.comment.csv",5
+"ATL196605040",48,"ej,dalrc101,P,jackb901,Balls and strikes Clay Dalrymple ejected by HP umpire Bill Jackowski","1966ATL.EVN.regular.comment.csv",6
+"ATL196605050",40,"$Dick Groat rounded 3B too far","1966ATL.EVN.regular.comment.csv",7
+"ATL196605050",57,"ej,mathe101,P,sudoe901,Called third strike Eddie Mathews ejected by HP umpire Ed Sudol","1966ATL.EVN.regular.comment.csv",8
+"ATL196605110",53,"missing play in ATL196605110","1966ATL.EVN.regular.comment.csv",9
+"ATL196606020",17,"Debut game for Felix Millan","1966ATL.EVN.regular.comment.csv",10
+"ATL196606190",32,"$Donn Clendenon out before Bill Mazeroski scored","1966ATL.EVN.regular.comment.csv",11
+"ATL196606190",85,"ej,aaroh101,P,venzt901,Balls and strikes $Hank Aaron objected to two inside pitches that were called strikes; he dropped his bat at HP Umpire Tony Venzon's feet; Venzon kicked it back at Aaron, who returned it to the umpire; Aaron threw his helmet towards HP as he walked to the dugout and was ejected by Venzon","1966ATL.EVN.regular.comment.csv",12
+"ATL196606280",0,"1:25 rain delay before start of game","1966ATL.EVN.regular.comment.csv",13
+"ATL196606280",63,"$Don Kessinger called for interference when the ball struck his bat a second time in fair territory","1966ATL.EVN.regular.comment.csv",14
+"ATL196607160",37,"game called for rain","1966ATL.EVN.regular.comment.csv",15
+"ATL196607310",38,"last two plays really one play","1966ATL.EVN.regular.comment.csv",16
+"ATL196608090",51,"ej,jonem102,P,varge901,Balls and strikes Mack Jones ejected by HP umpire Ed Vargo","1966ATL.EVN.regular.comment.csv",17
+"ATL196608090",55,"missed squeeze","1966ATL.EVN.regular.comment.csv",18
+"ATL196608131",71,"$Jim Bunning dropped the ball during his windup","1966ATL.EVN.regular.comment.csv",19
+"ATL196608270",50,"$Woody Woodward rounded 3B too far","1966ATL.EVN.regular.comment.csv",20
+"ATL196608290",56,"ej,hitcb101,M,lands901,Unknown reason $Braves manager Hitchcock ejected by HP umpire Landes sometime in 8th inning for unknown reason","1966ATL.EVN.regular.comment.csv",21
+"ATL196609031",1,"Debut game for Charlie Vaughan","1966ATL.EVN.regular.comment.csv",22
+"ATL196609180",39,"Debut game for George Kopacz","1966ATL.EVN.regular.comment.csv",23
+"ATL196609200",16,"1:16 rain delay","1966ATL.EVN.regular.comment.csv",24
+"ATL196609200",60,"Debut game for Bill Robinson Debut game for Ron Willis","1966ATL.EVN.regular.comment.csv",25
+"ATL196609260",1,"Debut game for Ron Reed","1966ATL.EVN.regular.comment.csv",26

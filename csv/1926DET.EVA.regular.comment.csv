@@ -1,16 +1,17 @@
-"DET192604260",27,"$Earl Sheely called for interference for running into his own batted ball","FILENAME_TX","LINE_NUMBER_CT"
-"DET192604270",45,"$Ed Wells left with an injured arm","1926DET.EVA.regular.comment.csv",2
-"DET192604280",51,"$Willie Kamm went into the dugout for the foul","1926DET.EVA.regular.comment.csv",3
-"DET192605240",34,"$Willie Kamm was caught off 3B but got back; Johnny Grabowski also ended up at 3B","1926DET.EVA.regular.comment.csv",4
-"DET192605250",57,"$Al Wingo and Charlie Gehringer both at 3B","1926DET.EVA.regular.comment.csv",5
-"DET192606080",86,"DWV reconstructed the rest","1926DET.EVA.regular.comment.csv",6
-"DET192606170",9,"DWV: need an error","1926DET.EVA.regular.comment.csv",7
-"DET192606220",44,"pbp account ends here, rest deduced","1926DET.EVA.regular.comment.csv",8
-"DET192606270",68,"$Cliff Lee spiked above the knee","1926DET.EVA.regular.comment.csv",9
-"DET192607060",47,"pbp account ends here, rest deduced","1926DET.EVA.regular.comment.csv",10
-"DET192607060",59,"Hit off O'Rourke's shoulder.","1926DET.EVA.regular.comment.csv",11
-"DET192608080",8,"$into overflow crowd on field","1926DET.EVA.regular.comment.csv",12
-"DET192608080",37,"$double into overflow crowd on field","1926DET.EVA.regular.comment.csv",13
-"DET192608090",30,"$Sam Jones missed a bunt attempt","1926DET.EVA.regular.comment.csv",14
-"DET192608100",68,"$Game called so that the Yankees could catch their train","1926DET.EVA.regular.comment.csv",15
-"DET192608160",73,"Game was called so both teams could catch a train east","1926DET.EVA.regular.comment.csv",16
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"DET192604260",27,"$Earl Sheely called for interference for running into his own batted ball","1926DET.EVA.regular.comment.csv",2
+"DET192604270",45,"$Ed Wells left with an injured arm","1926DET.EVA.regular.comment.csv",3
+"DET192604280",51,"$Willie Kamm went into the dugout for the foul","1926DET.EVA.regular.comment.csv",4
+"DET192605240",34,"$Willie Kamm was caught off 3B but got back; Johnny Grabowski also ended up at 3B","1926DET.EVA.regular.comment.csv",5
+"DET192605250",57,"$Al Wingo and Charlie Gehringer both at 3B","1926DET.EVA.regular.comment.csv",6
+"DET192606080",86,"DWV reconstructed the rest","1926DET.EVA.regular.comment.csv",7
+"DET192606170",9,"DWV: need an error","1926DET.EVA.regular.comment.csv",8
+"DET192606220",44,"pbp account ends here, rest deduced","1926DET.EVA.regular.comment.csv",9
+"DET192606270",68,"$Cliff Lee spiked above the knee","1926DET.EVA.regular.comment.csv",10
+"DET192607060",47,"pbp account ends here, rest deduced","1926DET.EVA.regular.comment.csv",11
+"DET192607060",59,"Hit off O'Rourke's shoulder.","1926DET.EVA.regular.comment.csv",12
+"DET192608080",8,"$into overflow crowd on field","1926DET.EVA.regular.comment.csv",13
+"DET192608080",37,"$double into overflow crowd on field","1926DET.EVA.regular.comment.csv",14
+"DET192608090",30,"$Sam Jones missed a bunt attempt","1926DET.EVA.regular.comment.csv",15
+"DET192608100",68,"$Game called so that the Yankees could catch their train","1926DET.EVA.regular.comment.csv",16
+"DET192608160",73,"Game was called so both teams could catch a train east","1926DET.EVA.regular.comment.csv",17

@@ -1,22 +1,23 @@
-"MIL198804160",25,"$Rickey Henderson called for interference with throw to complete DP","FILENAME_TX","LINE_NUMBER_CT"
-"MIL198804170",46,"ej,candj001,P,cobld901,Intentional HBP John Candelaria ejected by HP umpire Drew Coble","1988MIL.EVA.regular.comment.csv",2
-"MIL198804170",66,"ej,clarj001,P,cobld901,Called third strike Jack Clark ejected by HP umpire Drew Coble","1988MIL.EVA.regular.comment.csv",3
-"MIL198805030",25,"$Paul Molitor injured on throw","1988MIL.EVA.regular.comment.csv",4
-"MIL198805040",49,"$no one covered 2B","1988MIL.EVA.regular.comment.csv",5
-"MIL198805130",67,"$Andy Allanson called for interference for running into his own batted ball","1988MIL.EVA.regular.comment.csv",6
-"MIL198805220",18,"$Rick Leach injured","1988MIL.EVA.regular.comment.csv",7
-"MIL198806020",52,"Debut game for Don August","1988MIL.EVA.regular.comment.csv",8
-"MIL198806030",60,"Debut game for Darryl Hamilton","1988MIL.EVA.regular.comment.csv",9
-"MIL198806040",15,"Debut game for Joe Redfield","1988MIL.EVA.regular.comment.csv",10
-"MIL198806200",41,"$Bob Welch injured hand","1988MIL.EVA.regular.comment.csv",11
-"MIL198806200",45,"ej,higut001,P,cousd901,Intentional HBP Teddy Higuera ejected by HP umpire Derryl Cousins","1988MIL.EVA.regular.comment.csv",12
-"MIL198807240",38,"ej,obrip001,P,welkt901,Call at 2B Pete O'Brien ejected by 2B umpire Tim Welke","1988MIL.EVA.regular.comment.csv",13
-"MIL198807240",77,"22 minute rain delay","1988MIL.EVA.regular.comment.csv",14
-"MIL198808030",1,"Debut game for Dave Eiland","1988MIL.EVA.regular.comment.csv",15
-"MIL198808030",8,"$Dave Eiland surrendered a home run to the first batter he faced in the majors","1988MIL.EVA.regular.comment.csv",16
-"MIL198808120",41,"Debut game for Gordon Dillard","1988MIL.EVA.regular.comment.csv",17
-"MIL198808260",50,"$Tom Brookens missed bunt","1988MIL.EVA.regular.comment.csv",18
-"MIL198808280",16,"ej,trebt801,M,reilm901,Batting out of order $Brewers manager Tom Trebelhorn ejected by HP umpire Mike Reilly; Robin Yount was listed in both 3rd and 5th spots on the lineup card, so after 20 minute conference umpires decided Young had pinch-hit for Yount and was therefore out of the game; when Yount was removed, Milwaukee manager Trebelhorn objected and was ejected","1988MIL.EVA.regular.comment.csv",19
-"MIL198808280",67,"$Eric King injured","1988MIL.EVA.regular.comment.csv",20
-"MIL198808280",77,"$Gary Pettis overslid 2B bag","1988MIL.EVA.regular.comment.csv",21
-"MIL198809230",40,"$Jose Canseco first player with 40 HR and 40 SB in one season","1988MIL.EVA.regular.comment.csv",22
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"MIL198804160",25,"$Rickey Henderson called for interference with throw to complete DP","1988MIL.EVA.regular.comment.csv",2
+"MIL198804170",46,"ej,candj001,P,cobld901,Intentional HBP John Candelaria ejected by HP umpire Drew Coble","1988MIL.EVA.regular.comment.csv",3
+"MIL198804170",66,"ej,clarj001,P,cobld901,Called third strike Jack Clark ejected by HP umpire Drew Coble","1988MIL.EVA.regular.comment.csv",4
+"MIL198805030",25,"$Paul Molitor injured on throw","1988MIL.EVA.regular.comment.csv",5
+"MIL198805040",49,"$no one covered 2B","1988MIL.EVA.regular.comment.csv",6
+"MIL198805130",67,"$Andy Allanson called for interference for running into his own batted ball","1988MIL.EVA.regular.comment.csv",7
+"MIL198805220",18,"$Rick Leach injured","1988MIL.EVA.regular.comment.csv",8
+"MIL198806020",52,"Debut game for Don August","1988MIL.EVA.regular.comment.csv",9
+"MIL198806030",60,"Debut game for Darryl Hamilton","1988MIL.EVA.regular.comment.csv",10
+"MIL198806040",15,"Debut game for Joe Redfield","1988MIL.EVA.regular.comment.csv",11
+"MIL198806200",41,"$Bob Welch injured hand","1988MIL.EVA.regular.comment.csv",12
+"MIL198806200",45,"ej,higut001,P,cousd901,Intentional HBP Teddy Higuera ejected by HP umpire Derryl Cousins","1988MIL.EVA.regular.comment.csv",13
+"MIL198807240",38,"ej,obrip001,P,welkt901,Call at 2B Pete O'Brien ejected by 2B umpire Tim Welke","1988MIL.EVA.regular.comment.csv",14
+"MIL198807240",77,"22 minute rain delay","1988MIL.EVA.regular.comment.csv",15
+"MIL198808030",1,"Debut game for Dave Eiland","1988MIL.EVA.regular.comment.csv",16
+"MIL198808030",8,"$Dave Eiland surrendered a home run to the first batter he faced in the majors","1988MIL.EVA.regular.comment.csv",17
+"MIL198808120",41,"Debut game for Gordon Dillard","1988MIL.EVA.regular.comment.csv",18
+"MIL198808260",50,"$Tom Brookens missed bunt","1988MIL.EVA.regular.comment.csv",19
+"MIL198808280",16,"ej,trebt801,M,reilm901,Batting out of order $Brewers manager Tom Trebelhorn ejected by HP umpire Mike Reilly; Robin Yount was listed in both 3rd and 5th spots on the lineup card, so after 20 minute conference umpires decided Young had pinch-hit for Yount and was therefore out of the game; when Yount was removed, Milwaukee manager Trebelhorn objected and was ejected","1988MIL.EVA.regular.comment.csv",20
+"MIL198808280",67,"$Eric King injured","1988MIL.EVA.regular.comment.csv",21
+"MIL198808280",77,"$Gary Pettis overslid 2B bag","1988MIL.EVA.regular.comment.csv",22
+"MIL198809230",40,"$Jose Canseco first player with 40 HR and 40 SB in one season","1988MIL.EVA.regular.comment.csv",23

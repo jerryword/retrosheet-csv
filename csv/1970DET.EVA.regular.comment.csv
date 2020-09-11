@@ -1,28 +1,29 @@
-"DET197005080",29,"Lou Piniella left with a sprained ankle and bruised instep","FILENAME_TX","LINE_NUMBER_CT"
-"DET197005212",69,"Debut game for Dennis Saunders","1970DET.EVA.regular.comment.csv",2
-"DET197005240",32,"upper deck","1970DET.EVA.regular.comment.csv",3
-"DET197006140",40,"$Al Kaline tried to advance on a short passed ball","1970DET.EVA.regular.comment.csv",4
-"DET197006160",28,"51 minute rain delay","1970DET.EVA.regular.comment.csv",5
-"DET197006170",0,"40 minute rain delay","1970DET.EVA.regular.comment.csv",6
-"DET197006170",73,"Debut game for Jim Driscoll","1970DET.EVA.regular.comment.csv",7
-"DET197007020",32,"$only fourth ball intentional","1970DET.EVA.regular.comment.csv",8
-"DET197007060",49,"Al Kaline left with pulled abdomenal muscle","1970DET.EVA.regular.comment.csv",9
-"DET197007071",2,"upper deck","1970DET.EVA.regular.comment.csv",10
-"DET197007071",26,"upper deck","1970DET.EVA.regular.comment.csv",11
-"DET197007071",45,"upper deck","1970DET.EVA.regular.comment.csv",12
-"DET197007080",52,"upper deck","1970DET.EVA.regular.comment.csv",13
-"DET197007080",59,"upper deck","1970DET.EVA.regular.comment.csv",14
-"DET197007080",69,"missing play in DET197007080","1970DET.EVA.regular.comment.csv",15
-"DET197007090",52,"ej,mosej101,P,ricej901,Balls and strikes ej,nagym101,P,ricej901,Balls and strikes ej,thomg102,P,sprim901,Balls and strikes (Made choke sign from bench) $catcher Jerry Moses jumped up to argue the ball four call with HP umpire John Rice; pitcher Mike Nagy also yelled at Rice; George Thomas stood on the top step of the dugout and made a choke sign with his hand around his neck; Moses and Nagy ejected by Rice; Thomas ejected by 1B umpire Marty Springstead for throwing equipment onto the field and then 3B umpire Larry Napp ejected Thomas for the choke sign; Thomas ran onto the field and shoved Napp, who sent the rest of the Red Sox players to the clubhouse to cool off; they were still eligible to play","1970DET.EVA.regular.comment.csv",16
-"DET197007090",61,"$Dalton Jones homered but was called out for passing Don Wert","1970DET.EVA.regular.comment.csv",17
-"DET197007241",50," upper deck","1970DET.EVA.regular.comment.csv",18
-"DET197007250",33,"upper deck","1970DET.EVA.regular.comment.csv",19
-"DET197007250",34,"upper deck","1970DET.EVA.regular.comment.csv",20
-"DET197007280",66,"Debut game for Lerrin LaGrow","1970DET.EVA.regular.comment.csv",21
-"DET197007280",73,"failed squeeze","1970DET.EVA.regular.comment.csv",22
-"DET197008040",7,"George Brunet injured his shoulder warming up","1970DET.EVA.regular.comment.csv",23
-"DET197008290",0,"23 minute rain delay before start of game","1970DET.EVA.regular.comment.csv",24
-"DET197009080",43,"Debut game for Tim Hosley","1970DET.EVA.regular.comment.csv",25
-"DET197009100",65,"upper deck","1970DET.EVA.regular.comment.csv",26
-"DET197009180",68,"Ken Szotkiewicz left with pulled muscle","1970DET.EVA.regular.comment.csv",27
-"DET197009200",74,"last two plays really one play","1970DET.EVA.regular.comment.csv",28
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"DET197005080",29,"Lou Piniella left with a sprained ankle and bruised instep","1970DET.EVA.regular.comment.csv",2
+"DET197005212",69,"Debut game for Dennis Saunders","1970DET.EVA.regular.comment.csv",3
+"DET197005240",32,"upper deck","1970DET.EVA.regular.comment.csv",4
+"DET197006140",40,"$Al Kaline tried to advance on a short passed ball","1970DET.EVA.regular.comment.csv",5
+"DET197006160",28,"51 minute rain delay","1970DET.EVA.regular.comment.csv",6
+"DET197006170",0,"40 minute rain delay","1970DET.EVA.regular.comment.csv",7
+"DET197006170",73,"Debut game for Jim Driscoll","1970DET.EVA.regular.comment.csv",8
+"DET197007020",32,"$only fourth ball intentional","1970DET.EVA.regular.comment.csv",9
+"DET197007060",49,"Al Kaline left with pulled abdomenal muscle","1970DET.EVA.regular.comment.csv",10
+"DET197007071",2,"upper deck","1970DET.EVA.regular.comment.csv",11
+"DET197007071",26,"upper deck","1970DET.EVA.regular.comment.csv",12
+"DET197007071",45,"upper deck","1970DET.EVA.regular.comment.csv",13
+"DET197007080",52,"upper deck","1970DET.EVA.regular.comment.csv",14
+"DET197007080",59,"upper deck","1970DET.EVA.regular.comment.csv",15
+"DET197007080",69,"missing play in DET197007080","1970DET.EVA.regular.comment.csv",16
+"DET197007090",52,"ej,mosej101,P,ricej901,Balls and strikes ej,nagym101,P,ricej901,Balls and strikes ej,thomg102,P,sprim901,Balls and strikes (Made choke sign from bench) $catcher Jerry Moses jumped up to argue the ball four call with HP umpire John Rice; pitcher Mike Nagy also yelled at Rice; George Thomas stood on the top step of the dugout and made a choke sign with his hand around his neck; Moses and Nagy ejected by Rice; Thomas ejected by 1B umpire Marty Springstead for throwing equipment onto the field and then 3B umpire Larry Napp ejected Thomas for the choke sign; Thomas ran onto the field and shoved Napp, who sent the rest of the Red Sox players to the clubhouse to cool off; they were still eligible to play","1970DET.EVA.regular.comment.csv",17
+"DET197007090",61,"$Dalton Jones homered but was called out for passing Don Wert","1970DET.EVA.regular.comment.csv",18
+"DET197007241",50," upper deck","1970DET.EVA.regular.comment.csv",19
+"DET197007250",33,"upper deck","1970DET.EVA.regular.comment.csv",20
+"DET197007250",34,"upper deck","1970DET.EVA.regular.comment.csv",21
+"DET197007280",66,"Debut game for Lerrin LaGrow","1970DET.EVA.regular.comment.csv",22
+"DET197007280",73,"failed squeeze","1970DET.EVA.regular.comment.csv",23
+"DET197008040",7,"George Brunet injured his shoulder warming up","1970DET.EVA.regular.comment.csv",24
+"DET197008290",0,"23 minute rain delay before start of game","1970DET.EVA.regular.comment.csv",25
+"DET197009080",43,"Debut game for Tim Hosley","1970DET.EVA.regular.comment.csv",26
+"DET197009100",65,"upper deck","1970DET.EVA.regular.comment.csv",27
+"DET197009180",68,"Ken Szotkiewicz left with pulled muscle","1970DET.EVA.regular.comment.csv",28
+"DET197009200",74,"last two plays really one play","1970DET.EVA.regular.comment.csv",29

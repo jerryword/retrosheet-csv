@@ -1,31 +1,32 @@
-"PIT199204080",37,"$Zane Smith called for interference when the ball struck his bat twice","FILENAME_TX","LINE_NUMBER_CT"
-"PIT199204080",61,"Debut game for Archi Cianfrocco","1992PIT.EVN.regular.comment.csv",2
-"PIT199205040",54,"Billy Hatcher hurt diving for ball; suffered left groin injury","1992PIT.EVN.regular.comment.csv",3
-"PIT199205050",42,"5-minute delay while Jeff King changed his contacts","1992PIT.EVN.regular.comment.csv",4
-"PIT199205060",19,"ej,millr801,C,darlg901,Balk call Pirates coach Ray Miller ejected by HP umpire Gary Darling","1992PIT.EVN.regular.comment.csv",5
-"PIT199205080",22,"2:05 rain delay","1992PIT.EVN.regular.comment.csv",6
-"PIT199205170",17,"umpchange,3,ump3b,willc901 umpchange,3,ump2b,(None) $3B umpire Mark Hirschbeck left with a pinched nerve in his neck","1992PIT.EVN.regular.comment.csv",7
-"PIT199205290",3,"Don Slaught hurt fielding throw from outfield","1992PIT.EVN.regular.comment.csv",8
-"PIT199205300",80,"44-minute rain delay","1992PIT.EVN.regular.comment.csv",9
-"PIT199205310",44,"5-minute delay while grounds crew repairs pitcher's mound","1992PIT.EVN.regular.comment.csv",10
-"PIT199206060",4,"$Eddie Murray tied Mickey Mantle with 1509 RBI, most by a switch hitter","1992PIT.EVN.regular.comment.csv",11
-"PIT199206060",40,"Debut game for Victor Cole","1992PIT.EVN.regular.comment.csv",12
-"PIT199206150",30,"$Terry Mulholland charged with obstruction during rundown on pickoff","1992PIT.EVN.regular.comment.csv",13
-"PIT199206210",28,"ej,leylj801,M,westj901,Arguing West checking baseball Pirates manager Jim Leyland ejected by 3B umpire Joe West","1992PIT.EVN.regular.comment.csv",14
-"PIT199207170",0,"37-minute rain delay before start of game","1992PIT.EVN.regular.comment.csv",15
-"PIT199207170",11,"9-minute rain delay","1992PIT.EVN.regular.comment.csv",16
-"PIT199207180",0,"21-minute rain delay before start of game","1992PIT.EVN.regular.comment.csv",17
-"PIT199207180",3,"umpchange,1,ump1b,hohnb901 umpchange,1,ump2b,pullf901 $umpire Bill Hohn arrived on the field at 1B; Frank Pulli moved to 2B","1992PIT.EVN.regular.comment.csv",18
-"PIT199207310",1,"Debut game for Tim Wakefield","1992PIT.EVN.regular.comment.csv",19
-"PIT199208140",32,"$Roger Mason warned by HP umpire Bruce Froemming for throwing at Brian Hunter","1992PIT.EVN.regular.comment.csv",20
-"PIT199208150",52,"ej,leylj801,M,kellj901,Fan interference call Pirates manager Jim Leyland ejected by HP umpire Jeff Kellogg while arguing a fan interference call made by 3B umpire Bruce Froemming","1992PIT.EVN.regular.comment.csv",21
-"PIT199208150",72,"ej,bondb001,P,kellj901,Called third strike Barry Bonds ejected by HP umpire Jeff Kellogg","1992PIT.EVN.regular.comment.csv",22
-"PIT199208190",51,"$SS Tony Fernandez and 2B Kurt Stillwell collide attempting to field popup; 3B Gary Sheffield covered 2B for the force","1992PIT.EVN.regular.comment.csv",23
-"PIT199209010",68,"ej,manwk001,P,bonig901,Called third strike Kirt Manwaring ejected by HP umpire Greg Bonin","1992PIT.EVN.regular.comment.csv",24
-"PIT199209030",0,"42-minute rain delay before start of game","1992PIT.EVN.regular.comment.csv",25
-"PIT199209070",67,"Debut game for Fernando Ramsey","1992PIT.EVN.regular.comment.csv",26
-"PIT199209160",66,"$Jeff Fassero fell running between 2B and 3B on his first major league hit","1992PIT.EVN.regular.comment.csv",27
-"PIT199209180",53,"$Game called for rain after 2:20 delayl Hartley credited with game played, but not game pitched","1992PIT.EVN.regular.comment.csv",28
-"PIT199209200",50,"$unassisted triple play; ninth in history","1992PIT.EVN.regular.comment.csv",29
-"PIT199209210",17,"Bob Walk left with strained right groin","1992PIT.EVN.regular.comment.csv",30
-"PIT199209220",52,"ej,jackd001,P,relic901,Balls and strikes (from bench) Danny Jackson ejected by HP umpire Charlie Reliford after being removed from game","1992PIT.EVN.regular.comment.csv",31
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"PIT199204080",37,"$Zane Smith called for interference when the ball struck his bat twice","1992PIT.EVN.regular.comment.csv",2
+"PIT199204080",61,"Debut game for Archi Cianfrocco","1992PIT.EVN.regular.comment.csv",3
+"PIT199205040",54,"Billy Hatcher hurt diving for ball; suffered left groin injury","1992PIT.EVN.regular.comment.csv",4
+"PIT199205050",42,"5-minute delay while Jeff King changed his contacts","1992PIT.EVN.regular.comment.csv",5
+"PIT199205060",19,"ej,millr801,C,darlg901,Balk call Pirates coach Ray Miller ejected by HP umpire Gary Darling","1992PIT.EVN.regular.comment.csv",6
+"PIT199205080",22,"2:05 rain delay","1992PIT.EVN.regular.comment.csv",7
+"PIT199205170",17,"umpchange,3,ump3b,willc901 umpchange,3,ump2b,(None) $3B umpire Mark Hirschbeck left with a pinched nerve in his neck","1992PIT.EVN.regular.comment.csv",8
+"PIT199205290",3,"Don Slaught hurt fielding throw from outfield","1992PIT.EVN.regular.comment.csv",9
+"PIT199205300",80,"44-minute rain delay","1992PIT.EVN.regular.comment.csv",10
+"PIT199205310",44,"5-minute delay while grounds crew repairs pitcher's mound","1992PIT.EVN.regular.comment.csv",11
+"PIT199206060",4,"$Eddie Murray tied Mickey Mantle with 1509 RBI, most by a switch hitter","1992PIT.EVN.regular.comment.csv",12
+"PIT199206060",40,"Debut game for Victor Cole","1992PIT.EVN.regular.comment.csv",13
+"PIT199206150",30,"$Terry Mulholland charged with obstruction during rundown on pickoff","1992PIT.EVN.regular.comment.csv",14
+"PIT199206210",28,"ej,leylj801,M,westj901,Arguing West checking baseball Pirates manager Jim Leyland ejected by 3B umpire Joe West","1992PIT.EVN.regular.comment.csv",15
+"PIT199207170",0,"37-minute rain delay before start of game","1992PIT.EVN.regular.comment.csv",16
+"PIT199207170",11,"9-minute rain delay","1992PIT.EVN.regular.comment.csv",17
+"PIT199207180",0,"21-minute rain delay before start of game","1992PIT.EVN.regular.comment.csv",18
+"PIT199207180",3,"umpchange,1,ump1b,hohnb901 umpchange,1,ump2b,pullf901 $umpire Bill Hohn arrived on the field at 1B; Frank Pulli moved to 2B","1992PIT.EVN.regular.comment.csv",19
+"PIT199207310",1,"Debut game for Tim Wakefield","1992PIT.EVN.regular.comment.csv",20
+"PIT199208140",32,"$Roger Mason warned by HP umpire Bruce Froemming for throwing at Brian Hunter","1992PIT.EVN.regular.comment.csv",21
+"PIT199208150",52,"ej,leylj801,M,kellj901,Fan interference call Pirates manager Jim Leyland ejected by HP umpire Jeff Kellogg while arguing a fan interference call made by 3B umpire Bruce Froemming","1992PIT.EVN.regular.comment.csv",22
+"PIT199208150",72,"ej,bondb001,P,kellj901,Called third strike Barry Bonds ejected by HP umpire Jeff Kellogg","1992PIT.EVN.regular.comment.csv",23
+"PIT199208190",51,"$SS Tony Fernandez and 2B Kurt Stillwell collide attempting to field popup; 3B Gary Sheffield covered 2B for the force","1992PIT.EVN.regular.comment.csv",24
+"PIT199209010",68,"ej,manwk001,P,bonig901,Called third strike Kirt Manwaring ejected by HP umpire Greg Bonin","1992PIT.EVN.regular.comment.csv",25
+"PIT199209030",0,"42-minute rain delay before start of game","1992PIT.EVN.regular.comment.csv",26
+"PIT199209070",67,"Debut game for Fernando Ramsey","1992PIT.EVN.regular.comment.csv",27
+"PIT199209160",66,"$Jeff Fassero fell running between 2B and 3B on his first major league hit","1992PIT.EVN.regular.comment.csv",28
+"PIT199209180",53,"$Game called for rain after 2:20 delayl Hartley credited with game played, but not game pitched","1992PIT.EVN.regular.comment.csv",29
+"PIT199209200",50,"$unassisted triple play; ninth in history","1992PIT.EVN.regular.comment.csv",30
+"PIT199209210",17,"Bob Walk left with strained right groin","1992PIT.EVN.regular.comment.csv",31
+"PIT199209220",52,"ej,jackd001,P,relic901,Balls and strikes (from bench) Danny Jackson ejected by HP umpire Charlie Reliford after being removed from game","1992PIT.EVN.regular.comment.csv",32

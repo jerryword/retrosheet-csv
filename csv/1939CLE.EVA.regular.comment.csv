@@ -1,33 +1,34 @@
-"CLE193904210",15,"$This was Jim Shilling's major-league debut","FILENAME_TX","LINE_NUMBER_CT"
-"CLE193904210",67,"$This was Floyd Giebell's major-league debut","1939CLE.EVA.regular.comment.csv",2
-"CLE193904210",68,"$Croucher's relay throw to 3B hit Shilling in the head and knocked him unconscious.","1939CLE.EVA.regular.comment.csv",3
-"CLE193904250",3,"$Feller needed 11 pitches for 3 Ks.","1939CLE.EVA.regular.comment.csv",4
-"CLE193904260",29,"$Averill ends 0-15 start to season here then doffs his cap.","1939CLE.EVA.regular.comment.csv",5
-"CLE193905040",54,"pbp says kelt walked","1939CLE.EVA.regular.comment.csv",6
-"CLE193905060",9,"$Selkirk hit on back.","1939CLE.EVA.regular.comment.csv",7
-"CLE193905060",65,"$Crosetti struck on R ankle.","1939CLE.EVA.regular.comment.csv",8
-"CLE193905080",58,"$Webb hurt his leg rounding 3b","1939CLE.EVA.regular.comment.csv",9
-"CLE193905080",70,"$1b threw past p, p fell down, threw out runner at home","1939CLE.EVA.regular.comment.csv",10
-"CLE193905110",34,"ej,heatj101,P,summb901,Balls and strikes (Threw equipment) $Heath ejected by HP sumpire Summers for throwing bats onto field","1939CLE.EVA.regular.comment.csv",11
-"CLE193905260",0,"$Ladies Day. Total attendance 7500. No paid att. Reported in papers.","1939CLE.EVA.regular.comment.csv",12
-"CLE193905260",63,"$Play on Pytlak went 341 but umpire called Pytlak safe; Dietrich and Pytlak collided and Dietrich went to the ground so Chapman tried to score but Dietrich got to his feet quickly; Chapman saw no chance to score so turned back towards 3B but Dietrich's throw beat him there;. Sox argued with ump that Pytlak had been out.","1939CLE.EVA.regular.comment.csv",13
-"CLE193905270",55,"$When Trosky was caught in rundown he bodyblocked Tresh but failed to get Tresh to drop ball. Trosky hurt L shoulder.","1939CLE.EVA.regular.comment.csv",14
-"CLE193905280",43,"$Walker took several steps toward Allen but was restrained first by C Pytlak and eventually by his manager, Dykes.","1939CLE.EVA.regular.comment.csv",15
-"CLE193905301",74,"$2bman tag runner","1939CLE.EVA.regular.comment.csv",16
-"CLE193906042",49,"$Doerr hurt his back on Chapman's bunt","1939CLE.EVA.regular.comment.csv",17
-"CLE193906270",0,"$First night game in Cleveland.  AL Pres. Harridge and Tiger Pres. Briggs attended.","1939CLE.EVA.regular.comment.csv",18
-"CLE193907180",0,"rossb102 has 3 AB","1939CLE.EVA.regular.comment.csv",19
-"CLE193907231",77,"$Kelley hurt his knee pitching, had to leave game","1939CLE.EVA.regular.comment.csv",20
-"CLE193907232",23,"$Giuliani tagged Allen as he left the batter's box.","1939CLE.EVA.regular.comment.csv",21
-"CLE193908090",9,"$Pytlak's hand injured by rebound of ball.","1939CLE.EVA.regular.comment.csv",22
-"CLE193908090",73,"pbp account ends here, rest deduced","1939CLE.EVA.regular.comment.csv",23
-"CLE193908120",23,"$Hit on left arm","1939CLE.EVA.regular.comment.csv",24
-"CLE193908131",41,"$Lyons injured covering plate and left game","1939CLE.EVA.regular.comment.csv",25
-"CLE193908132",4,"$Boudreau held ball while Indians argued with umpires, no RBI, but no error either","1939CLE.EVA.regular.comment.csv",26
-"CLE193908132",6,"ej,milna101,P,hubbc901,Balk call $Milnar argued balk, ejected by playe umpire Hubbard","1939CLE.EVA.regular.comment.csv",27
-"CLE193908220",16,"$Heath and Boudreau collided","1939CLE.EVA.regular.comment.csv",28
-"CLE193908271",13,"ej,heatj101,P,mcgob901,Called third strike (threw bat) $Heath threw his bat and was ejected by ump McGowan","1939CLE.EVA.regular.comment.csv",29
-"CLE193908280",46,"ej,peacj101,P,mcgob901,Call at HP $Peacock ejected by HP umpire McGowan for protesting call at home","1939CLE.EVA.regular.comment.csv",30
-"CLE193909040",75,"ej,vitto101,M,rue-j901,Arguing third strike ej,melis101,C,rue-j901,Arguing third strike $Manager Vitt and Coach Melillo ejected for arguing called third strike on Feller.","1939CLE.EVA.regular.comment.csv",31
-"CLE193909040",86,"$Game 2 of scheduled doubleheader called for rain in the top of the first with the White Sox leading 2-0","1939CLE.EVA.regular.comment.csv",32
-"CLE193909242",55,"Game called due to darkness, but Indians say was light enough to play another two innings","1939CLE.EVA.regular.comment.csv",33
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"CLE193904210",15,"$This was Jim Shilling's major-league debut","1939CLE.EVA.regular.comment.csv",2
+"CLE193904210",67,"$This was Floyd Giebell's major-league debut","1939CLE.EVA.regular.comment.csv",3
+"CLE193904210",68,"$Croucher's relay throw to 3B hit Shilling in the head and knocked him unconscious.","1939CLE.EVA.regular.comment.csv",4
+"CLE193904250",3,"$Feller needed 11 pitches for 3 Ks.","1939CLE.EVA.regular.comment.csv",5
+"CLE193904260",29,"$Averill ends 0-15 start to season here then doffs his cap.","1939CLE.EVA.regular.comment.csv",6
+"CLE193905040",54,"pbp says kelt walked","1939CLE.EVA.regular.comment.csv",7
+"CLE193905060",9,"$Selkirk hit on back.","1939CLE.EVA.regular.comment.csv",8
+"CLE193905060",65,"$Crosetti struck on R ankle.","1939CLE.EVA.regular.comment.csv",9
+"CLE193905080",58,"$Webb hurt his leg rounding 3b","1939CLE.EVA.regular.comment.csv",10
+"CLE193905080",70,"$1b threw past p, p fell down, threw out runner at home","1939CLE.EVA.regular.comment.csv",11
+"CLE193905110",34,"ej,heatj101,P,summb901,Balls and strikes (Threw equipment) $Heath ejected by HP sumpire Summers for throwing bats onto field","1939CLE.EVA.regular.comment.csv",12
+"CLE193905260",0,"$Ladies Day. Total attendance 7500. No paid att. Reported in papers.","1939CLE.EVA.regular.comment.csv",13
+"CLE193905260",63,"$Play on Pytlak went 341 but umpire called Pytlak safe; Dietrich and Pytlak collided and Dietrich went to the ground so Chapman tried to score but Dietrich got to his feet quickly; Chapman saw no chance to score so turned back towards 3B but Dietrich's throw beat him there;. Sox argued with ump that Pytlak had been out.","1939CLE.EVA.regular.comment.csv",14
+"CLE193905270",55,"$When Trosky was caught in rundown he bodyblocked Tresh but failed to get Tresh to drop ball. Trosky hurt L shoulder.","1939CLE.EVA.regular.comment.csv",15
+"CLE193905280",43,"$Walker took several steps toward Allen but was restrained first by C Pytlak and eventually by his manager, Dykes.","1939CLE.EVA.regular.comment.csv",16
+"CLE193905301",74,"$2bman tag runner","1939CLE.EVA.regular.comment.csv",17
+"CLE193906042",49,"$Doerr hurt his back on Chapman's bunt","1939CLE.EVA.regular.comment.csv",18
+"CLE193906270",0,"$First night game in Cleveland.  AL Pres. Harridge and Tiger Pres. Briggs attended.","1939CLE.EVA.regular.comment.csv",19
+"CLE193907180",0,"rossb102 has 3 AB","1939CLE.EVA.regular.comment.csv",20
+"CLE193907231",77,"$Kelley hurt his knee pitching, had to leave game","1939CLE.EVA.regular.comment.csv",21
+"CLE193907232",23,"$Giuliani tagged Allen as he left the batter's box.","1939CLE.EVA.regular.comment.csv",22
+"CLE193908090",9,"$Pytlak's hand injured by rebound of ball.","1939CLE.EVA.regular.comment.csv",23
+"CLE193908090",73,"pbp account ends here, rest deduced","1939CLE.EVA.regular.comment.csv",24
+"CLE193908120",23,"$Hit on left arm","1939CLE.EVA.regular.comment.csv",25
+"CLE193908131",41,"$Lyons injured covering plate and left game","1939CLE.EVA.regular.comment.csv",26
+"CLE193908132",4,"$Boudreau held ball while Indians argued with umpires, no RBI, but no error either","1939CLE.EVA.regular.comment.csv",27
+"CLE193908132",6,"ej,milna101,P,hubbc901,Balk call $Milnar argued balk, ejected by playe umpire Hubbard","1939CLE.EVA.regular.comment.csv",28
+"CLE193908220",16,"$Heath and Boudreau collided","1939CLE.EVA.regular.comment.csv",29
+"CLE193908271",13,"ej,heatj101,P,mcgob901,Called third strike (threw bat) $Heath threw his bat and was ejected by ump McGowan","1939CLE.EVA.regular.comment.csv",30
+"CLE193908280",46,"ej,peacj101,P,mcgob901,Call at HP $Peacock ejected by HP umpire McGowan for protesting call at home","1939CLE.EVA.regular.comment.csv",31
+"CLE193909040",75,"ej,vitto101,M,rue-j901,Arguing third strike ej,melis101,C,rue-j901,Arguing third strike $Manager Vitt and Coach Melillo ejected for arguing called third strike on Feller.","1939CLE.EVA.regular.comment.csv",32
+"CLE193909040",86,"$Game 2 of scheduled doubleheader called for rain in the top of the first with the White Sox leading 2-0","1939CLE.EVA.regular.comment.csv",33
+"CLE193909242",55,"Game called due to darkness, but Indians say was light enough to play another two innings","1939CLE.EVA.regular.comment.csv",34

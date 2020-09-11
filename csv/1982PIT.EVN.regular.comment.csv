@@ -1,30 +1,31 @@
-"PIT198204200",31,"9 minute rain delay","FILENAME_TX","LINE_NUMBER_CT"
-"PIT198205010",16,"$John Candelaria left after being hit by Terry Puhl's line drive","1982PIT.EVN.regular.comment.csv",2
-"PIT198205010",30,"Debut game for Cecilio Guante","1982PIT.EVN.regular.comment.csv",3
-"PIT198205010",50,"$Tony Scott left with pulled hamstring","1982PIT.EVN.regular.comment.csv",4
-"PIT198205140",76,"$Leon Lacy lost a grand slam by passing Omar Moreno between 1B and 2B","1982PIT.EVN.regular.comment.csv",5
-"PIT198205310",0,"Debut for umpire Bob Davidson","1982PIT.EVN.regular.comment.csv",6
-"PIT198206010",0,"1:05 rain delay before start of game","1982PIT.EVN.regular.comment.csv",7
-"PIT198206040",58,"ej,eichj001,P,froeb901,Arguing balls and strikes $Padres pitcher Eichelberger (not in game) ejected by HP umpire Froemming for arguing balls and strikes from bench","1982PIT.EVN.regular.comment.csv",8
-"PIT198206060",0,"21 minute rain delay before start of game","1982PIT.EVN.regular.comment.csv",9
-"PIT198206060",65,"missing play in PIT198206060 DWS: fielding credit invented","1982PIT.EVN.regular.comment.csv",10
-"PIT198206210",69,"ej,elial101,M,weyel901,Call at HP Cubs manager Lee Elia ejected by HP umpire Lee Weyer","1982PIT.EVN.regular.comment.csv",11
-"PIT198206220",0,"1:29 rain delay before start of game","1982PIT.EVN.regular.comment.csv",12
-"PIT198206220",49,"$Bill Madlock left with bruised side from HBP","1982PIT.EVN.regular.comment.csv",13
-"PIT198206220",61,"$John Candelaria left with stiff back","1982PIT.EVN.regular.comment.csv",14
-"PIT198206220",68,"$Dave Parker left with stiffness in right wrist","1982PIT.EVN.regular.comment.csv",15
-"PIT198207030",0,"1:37 rain delay before start of game","1982PIT.EVN.regular.comment.csv",16
-"PIT198207030",12,"Debut game for Roy Johnson","1982PIT.EVN.regular.comment.csv",17
-"PIT198207042",47,"$Bill Madlock left after being hit in the right eye with a quarter that was thrown out of the stands as he scored in the previous half inning","1982PIT.EVN.regular.comment.csv",18
-"PIT198207042",70,"ej,speic001,P,davis901,Call at 2B Chris Speier ejected by 2B umpire Satch Davidson arging the call at 2B on Dale Berra","1982PIT.EVN.regular.comment.csv",19
-"PIT198207070",56,"$John Candelaria left with strained elbow","1982PIT.EVN.regular.comment.csv",20
-"PIT198207280",54,"umpchange,7,umphome,davis901 umpchange,7,ump2b,(None) $HP umpire Gregg left when foul hit him on shoulder; 2B umpire Davidson went behind plate and game finished with 3 umpires","1982PIT.EVN.regular.comment.csv",21
-"PIT198208190",61,"$John Candelaria left with blister on foot","1982PIT.EVN.regular.comment.csv",22
-"PIT198208232",62,"ej,willd104,M,willc901,Call at 1B $Padres manager Williams ejected by 1B umpire Williams for arguing that Ray was out at 1st to complete DP","1982PIT.EVN.regular.comment.csv",23
-"PIT198208250",76,"$Bill Madlock left with bruised shoulder","1982PIT.EVN.regular.comment.csv",24
-"PIT198209060",59,"Debut game for Doug Sisk","1982PIT.EVN.regular.comment.csv",25
-"PIT198209060",62,"Debut game for Rafael Belliard","1982PIT.EVN.regular.comment.csv",26
-"PIT198209080",84,"Debut game for Eddie Vargas","1982PIT.EVN.regular.comment.csv",27
-"PIT198209290",21,"$Tony Pena left with injured wrist","1982PIT.EVN.regular.comment.csv",28
-"PIT198209290",32,"$Jason Thompson left with injured wrist","1982PIT.EVN.regular.comment.csv",29
-"PIT198210030",59,"Debut game for Mike Stenhouse","1982PIT.EVN.regular.comment.csv",30
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"PIT198204200",31,"9 minute rain delay","1982PIT.EVN.regular.comment.csv",2
+"PIT198205010",16,"$John Candelaria left after being hit by Terry Puhl's line drive","1982PIT.EVN.regular.comment.csv",3
+"PIT198205010",30,"Debut game for Cecilio Guante","1982PIT.EVN.regular.comment.csv",4
+"PIT198205010",50,"$Tony Scott left with pulled hamstring","1982PIT.EVN.regular.comment.csv",5
+"PIT198205140",76,"$Leon Lacy lost a grand slam by passing Omar Moreno between 1B and 2B","1982PIT.EVN.regular.comment.csv",6
+"PIT198205310",0,"Debut for umpire Bob Davidson","1982PIT.EVN.regular.comment.csv",7
+"PIT198206010",0,"1:05 rain delay before start of game","1982PIT.EVN.regular.comment.csv",8
+"PIT198206040",58,"ej,eichj001,P,froeb901,Arguing balls and strikes $Padres pitcher Eichelberger (not in game) ejected by HP umpire Froemming for arguing balls and strikes from bench","1982PIT.EVN.regular.comment.csv",9
+"PIT198206060",0,"21 minute rain delay before start of game","1982PIT.EVN.regular.comment.csv",10
+"PIT198206060",65,"missing play in PIT198206060 DWS: fielding credit invented","1982PIT.EVN.regular.comment.csv",11
+"PIT198206210",69,"ej,elial101,M,weyel901,Call at HP Cubs manager Lee Elia ejected by HP umpire Lee Weyer","1982PIT.EVN.regular.comment.csv",12
+"PIT198206220",0,"1:29 rain delay before start of game","1982PIT.EVN.regular.comment.csv",13
+"PIT198206220",49,"$Bill Madlock left with bruised side from HBP","1982PIT.EVN.regular.comment.csv",14
+"PIT198206220",61,"$John Candelaria left with stiff back","1982PIT.EVN.regular.comment.csv",15
+"PIT198206220",68,"$Dave Parker left with stiffness in right wrist","1982PIT.EVN.regular.comment.csv",16
+"PIT198207030",0,"1:37 rain delay before start of game","1982PIT.EVN.regular.comment.csv",17
+"PIT198207030",12,"Debut game for Roy Johnson","1982PIT.EVN.regular.comment.csv",18
+"PIT198207042",47,"$Bill Madlock left after being hit in the right eye with a quarter that was thrown out of the stands as he scored in the previous half inning","1982PIT.EVN.regular.comment.csv",19
+"PIT198207042",70,"ej,speic001,P,davis901,Call at 2B Chris Speier ejected by 2B umpire Satch Davidson arging the call at 2B on Dale Berra","1982PIT.EVN.regular.comment.csv",20
+"PIT198207070",56,"$John Candelaria left with strained elbow","1982PIT.EVN.regular.comment.csv",21
+"PIT198207280",54,"umpchange,7,umphome,davis901 umpchange,7,ump2b,(None) $HP umpire Gregg left when foul hit him on shoulder; 2B umpire Davidson went behind plate and game finished with 3 umpires","1982PIT.EVN.regular.comment.csv",22
+"PIT198208190",61,"$John Candelaria left with blister on foot","1982PIT.EVN.regular.comment.csv",23
+"PIT198208232",62,"ej,willd104,M,willc901,Call at 1B $Padres manager Williams ejected by 1B umpire Williams for arguing that Ray was out at 1st to complete DP","1982PIT.EVN.regular.comment.csv",24
+"PIT198208250",76,"$Bill Madlock left with bruised shoulder","1982PIT.EVN.regular.comment.csv",25
+"PIT198209060",59,"Debut game for Doug Sisk","1982PIT.EVN.regular.comment.csv",26
+"PIT198209060",62,"Debut game for Rafael Belliard","1982PIT.EVN.regular.comment.csv",27
+"PIT198209080",84,"Debut game for Eddie Vargas","1982PIT.EVN.regular.comment.csv",28
+"PIT198209290",21,"$Tony Pena left with injured wrist","1982PIT.EVN.regular.comment.csv",29
+"PIT198209290",32,"$Jason Thompson left with injured wrist","1982PIT.EVN.regular.comment.csv",30
+"PIT198210030",59,"Debut game for Mike Stenhouse","1982PIT.EVN.regular.comment.csv",31

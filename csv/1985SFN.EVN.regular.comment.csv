@@ -1,41 +1,42 @@
-"SFN198504280",35,"Cesar Cedeno's 2000th hit","FILENAME_TX","LINE_NUMBER_CT"
-"SFN198505080",61,"ej,trilm001,P,grege901,Balls and strikes Manny Trillo ejected by HP umpire Eric Gregg","1985SFN.EVN.regular.comment.csv",2
-"SFN198505090",89,"$Alex Trevino injured by pitch in dirt","1985SFN.EVN.regular.comment.csv",3
-"SFN198505110",0,"Cool Windy","1985SFN.EVN.regular.comment.csv",4
-"SFN198505150",16,"$David Green caught off 2B, eluded tag but passed by Jose Uribe","1985SFN.EVN.regular.comment.csv",5
-"SFN198505290",64,"ej,hernk001,P,quicj901,Called third strike Keith Hernandez ejected by HP umpire Jim Quick","1985SFN.EVN.regular.comment.csv",6
-"SFN198505300",41,"$Wally Backman called for interference","1985SFN.EVN.regular.comment.csv",7
-"SFN198505300",57,"ej,johnd105,M,engeb901,Fair/foul call Mets manager Davey Johnson ejected by HP umpire Bob Engel arguing Mookie Wilson's ball was foul","1985SFN.EVN.regular.comment.csv",8
-"SFN198506150",0,"Windy","1985SFN.EVN.regular.comment.csv",9
-"SFN198506161",0,"Warm","1985SFN.EVN.regular.comment.csv",10
-"SFN198506162",1,"Debut game for Ed Wojna","1985SFN.EVN.regular.comment.csv",11
-"SFN198506180",47,"$Manny Trillo called for interference","1985SFN.EVN.regular.comment.csv",12
-"SFN198506280",0,"Cool & windy","1985SFN.EVN.regular.comment.csv",13
-"SFN198506280",35,"Upper deck RF","1985SFN.EVN.regular.comment.csv",14
-"SFN198506290",0,"Breezy; picked up in the 4th","1985SFN.EVN.regular.comment.csv",15
-"SFN198507010",0,"Hot","1985SFN.EVN.regular.comment.csv",16
-"SFN198507020",0,"Hot","1985SFN.EVN.regular.comment.csv",17
-"SFN198507180",0,"Breezy","1985SFN.EVN.regular.comment.csv",18
-"SFN198507210",38,"$popup landed between Leon Durham and Ryne Sandberg","1985SFN.EVN.regular.comment.csv",19
-"SFN198507240",0,"Breezy","1985SFN.EVN.regular.comment.csv",20
-"SFN198507250",0,"Breezy","1985SFN.EVN.regular.comment.csv",21
-"SFN198507260",0,"Cool Windy","1985SFN.EVN.regular.comment.csv",22
-"SFN198507260",23,"fan interference","1985SFN.EVN.regular.comment.csv",23
-"SFN198507270",0,"Breezy","1985SFN.EVN.regular.comment.csv",24
-"SFN198508090",0,"Cool","1985SFN.EVN.regular.comment.csv",25
-"SFN198508110",0,"Warm","1985SFN.EVN.regular.comment.csv",26
-"SFN198508140",0,"Started cool, finished warm Breezy Started overcast, finished sunny","1985SFN.EVN.regular.comment.csv",27
-"SFN198508140",4,"Wind blown","1985SFN.EVN.regular.comment.csv",28
-"SFN198508150",0,"Cool","1985SFN.EVN.regular.comment.csv",29
-"SFN198508160",0,"Cool","1985SFN.EVN.regular.comment.csv",30
-"SFN198508170",0,"Turned sunny","1985SFN.EVN.regular.comment.csv",31
-"SFN198508170",17,"$Mariano Duncan called for interference for running into his own bunt","1985SFN.EVN.regular.comment.csv",32
-"SFN198508170",34,"$Bob Bailor called for interference for running into his own bunt","1985SFN.EVN.regular.comment.csv",33
-"SFN198508290",0,"60s","1985SFN.EVN.regular.comment.csv",34
-"SFN198508300",0,"Breezy","1985SFN.EVN.regular.comment.csv",35
-"SFN198508310",0,"70s","1985SFN.EVN.regular.comment.csv",36
-"SFN198508310",61,"$Roger McDowell called for obstruction on Manny Trillo running to 1B","1985SFN.EVN.regular.comment.csv",37
-"SFN198509010",0,"60s Windy","1985SFN.EVN.regular.comment.csv",38
-"SFN198509010",71,"$Larry Bowa overran 3B","1985SFN.EVN.regular.comment.csv",39
-"SFN198509030",17,"Debut game for Matt Nokes","1985SFN.EVN.regular.comment.csv",40
-"SFN198509210",54,"Debut game for Colin Ward","1985SFN.EVN.regular.comment.csv",41
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"SFN198504280",35,"Cesar Cedeno's 2000th hit","1985SFN.EVN.regular.comment.csv",2
+"SFN198505080",61,"ej,trilm001,P,grege901,Balls and strikes Manny Trillo ejected by HP umpire Eric Gregg","1985SFN.EVN.regular.comment.csv",3
+"SFN198505090",89,"$Alex Trevino injured by pitch in dirt","1985SFN.EVN.regular.comment.csv",4
+"SFN198505110",0,"Cool Windy","1985SFN.EVN.regular.comment.csv",5
+"SFN198505150",16,"$David Green caught off 2B, eluded tag but passed by Jose Uribe","1985SFN.EVN.regular.comment.csv",6
+"SFN198505290",64,"ej,hernk001,P,quicj901,Called third strike Keith Hernandez ejected by HP umpire Jim Quick","1985SFN.EVN.regular.comment.csv",7
+"SFN198505300",41,"$Wally Backman called for interference","1985SFN.EVN.regular.comment.csv",8
+"SFN198505300",57,"ej,johnd105,M,engeb901,Fair/foul call Mets manager Davey Johnson ejected by HP umpire Bob Engel arguing Mookie Wilson's ball was foul","1985SFN.EVN.regular.comment.csv",9
+"SFN198506150",0,"Windy","1985SFN.EVN.regular.comment.csv",10
+"SFN198506161",0,"Warm","1985SFN.EVN.regular.comment.csv",11
+"SFN198506162",1,"Debut game for Ed Wojna","1985SFN.EVN.regular.comment.csv",12
+"SFN198506180",47,"$Manny Trillo called for interference","1985SFN.EVN.regular.comment.csv",13
+"SFN198506280",0,"Cool & windy","1985SFN.EVN.regular.comment.csv",14
+"SFN198506280",35,"Upper deck RF","1985SFN.EVN.regular.comment.csv",15
+"SFN198506290",0,"Breezy; picked up in the 4th","1985SFN.EVN.regular.comment.csv",16
+"SFN198507010",0,"Hot","1985SFN.EVN.regular.comment.csv",17
+"SFN198507020",0,"Hot","1985SFN.EVN.regular.comment.csv",18
+"SFN198507180",0,"Breezy","1985SFN.EVN.regular.comment.csv",19
+"SFN198507210",38,"$popup landed between Leon Durham and Ryne Sandberg","1985SFN.EVN.regular.comment.csv",20
+"SFN198507240",0,"Breezy","1985SFN.EVN.regular.comment.csv",21
+"SFN198507250",0,"Breezy","1985SFN.EVN.regular.comment.csv",22
+"SFN198507260",0,"Cool Windy","1985SFN.EVN.regular.comment.csv",23
+"SFN198507260",23,"fan interference","1985SFN.EVN.regular.comment.csv",24
+"SFN198507270",0,"Breezy","1985SFN.EVN.regular.comment.csv",25
+"SFN198508090",0,"Cool","1985SFN.EVN.regular.comment.csv",26
+"SFN198508110",0,"Warm","1985SFN.EVN.regular.comment.csv",27
+"SFN198508140",0,"Started cool, finished warm Breezy Started overcast, finished sunny","1985SFN.EVN.regular.comment.csv",28
+"SFN198508140",4,"Wind blown","1985SFN.EVN.regular.comment.csv",29
+"SFN198508150",0,"Cool","1985SFN.EVN.regular.comment.csv",30
+"SFN198508160",0,"Cool","1985SFN.EVN.regular.comment.csv",31
+"SFN198508170",0,"Turned sunny","1985SFN.EVN.regular.comment.csv",32
+"SFN198508170",17,"$Mariano Duncan called for interference for running into his own bunt","1985SFN.EVN.regular.comment.csv",33
+"SFN198508170",34,"$Bob Bailor called for interference for running into his own bunt","1985SFN.EVN.regular.comment.csv",34
+"SFN198508290",0,"60s","1985SFN.EVN.regular.comment.csv",35
+"SFN198508300",0,"Breezy","1985SFN.EVN.regular.comment.csv",36
+"SFN198508310",0,"70s","1985SFN.EVN.regular.comment.csv",37
+"SFN198508310",61,"$Roger McDowell called for obstruction on Manny Trillo running to 1B","1985SFN.EVN.regular.comment.csv",38
+"SFN198509010",0,"60s Windy","1985SFN.EVN.regular.comment.csv",39
+"SFN198509010",71,"$Larry Bowa overran 3B","1985SFN.EVN.regular.comment.csv",40
+"SFN198509030",17,"Debut game for Matt Nokes","1985SFN.EVN.regular.comment.csv",41
+"SFN198509210",54,"Debut game for Colin Ward","1985SFN.EVN.regular.comment.csv",42

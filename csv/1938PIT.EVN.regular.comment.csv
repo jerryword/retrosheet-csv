@@ -1,42 +1,43 @@
-"PIT193804280",48,"$two runners on 3b led to out","FILENAME_TX","LINE_NUMBER_CT"
-"PIT193805060",29,"$Gus Suhr intentionally let the popup drop","1938PIT.EVN.regular.comment.csv",2
-"PIT193805070",50,"$Suhr's play was a line drive off pitcher Schumacher's chest which knocked him down; he made play from his knees; game was delayed over 5 minutes for medical attention to pitcher","1938PIT.EVN.regular.comment.csv",3
-"PIT193805080",88,"$An impressive GDP started with an intentional drop of a fly ball which was apparently deep enough not to become an infield fly","1938PIT.EVN.regular.comment.csv",4
-"PIT193805090",65,"$Gil English intentionally let popup drop","1938PIT.EVN.regular.comment.csv",5
-"PIT193805090",74,"Reconstructed ninth and tenth","1938PIT.EVN.regular.comment.csv",6
-"PIT193805090",83,"Could be Rizzo singled and Vaughan walked and reverse them tenth inning","1938PIT.EVN.regular.comment.csv",7
-"PIT193805090",87,"ej,stenc101,M,klemb901,Weather and field conditions Braves Manager Casey Stengel ejected by HP umpire Bill Klem for allowing the game to continue under horrible weather conditions","1938PIT.EVN.regular.comment.csv",8
-"PIT193806030",55,"$Mel Ott dropped Gus Suhr's pop near the mound but Suhr ruled out","1938PIT.EVN.regular.comment.csv",9
-"PIT193806040",29,"rain started","1938PIT.EVN.regular.comment.csv",10
-"PIT193806050",66,"rain started","1938PIT.EVN.regular.comment.csv",11
-"PIT193806100",32,"$After the ground out, Weintraub threw to second trying to get Vaughan; Waner broke for home and beat throw as Vaughan went to third; no RBI on the play","1938PIT.EVN.regular.comment.csv",12
-"PIT193806120",0,"$Start of game was delayed for two hours due to rain","1938PIT.EVN.regular.comment.csv",13
-"PIT193806120",47,"Smith entered the game with the count 1-0 on Vaughan","1938PIT.EVN.regular.comment.csv",14
-"PIT193806120",83,"$Game 2 of scheduled doubleheader was cancelled after one inning due to Sunday curfew.","1938PIT.EVN.regular.comment.csv",15
-"PIT193807020",0,"Protest=V","1938PIT.EVN.regular.comment.csv",16
-"PIT193807020",70,"$Cardinals manager Frankie Frisch protested the game because the Pirates had too many players in uniform (only 9 played)","1938PIT.EVN.regular.comment.csv",17
-"PIT193807032",59,"$Game held up as trainer's attended to Macon who left after ball hit by Paul Waner deflected off his hand","1938PIT.EVN.regular.comment.csv",18
-"PIT193807032",65,"$Game called due to Sunday curfew.","1938PIT.EVN.regular.comment.csv",19
-"PIT193807150",40,"ej,durol101,P,balll901,Call at 1B Leo Durocher ejected by HP umpire Lee Ballanfant","1938PIT.EVN.regular.comment.csv",20
-"PIT193807171",54,"hard to read, possible 14(1)/FO","1938PIT.EVN.regular.comment.csv",21
-"PIT193807220",61,"$Gil English turned left after reaching 1B; he was spiked on the play","1938PIT.EVN.regular.comment.csv",22
-"PIT193807241",126,"$Todd went to pitcher's mound to catch pop fly.","1938PIT.EVN.regular.comment.csv",23
-"PIT193807242",4,"$West injured chasing Jensen's triple","1938PIT.EVN.regular.comment.csv",24
-"PIT193807242",47,"$Game called due to PA curfew","1938PIT.EVN.regular.comment.csv",25
-"PIT193808090",40,"PBP says Stu flied out to Waner but which Waner?","1938PIT.EVN.regular.comment.csv",26
-"PIT193808100",59,"game called for rain and game 2 postponed","1938PIT.EVN.regular.comment.csv",27
-"PIT193808160",27,"$lost in the sun","1938PIT.EVN.regular.comment.csv",28
-"PIT193808270",9,"$Handly injured while running bases when he collided with 3b umpire Goetz in first inning","1938PIT.EVN.regular.comment.csv",29
-"PIT193808270",26,"$yes, two base advance on wild pitch","1938PIT.EVN.regular.comment.csv",30
-"PIT193808280",17,"$Vaughan dropped popup after infield fly called, runners advanced with no error charged","1938PIT.EVN.regular.comment.csv",31
-"PIT193808311",55,"$Suhr broke for home on the grounder and was chased back to third as Young arrived from second base; NY1 C Danning tagged both runners at third base; Suhr eventually left the bag and was tagged again; Twenty minute delay while 3B umpire Sears refused to acknowledge the double play; Young was out when he was tagged at an already occupied third base; Suhr was out when he was tagged after leaving the base which led to a protest as Suhr claimed he was told he was out then left that base; Sears denied saying that; Pie Traynor lodged a formal protest following the inning-ending DP fans threw bottles and food on the field.","1938PIT.EVN.regular.comment.csv",32
-"PIT193808311",63,"$Prior to striking out Rizzo hit a foul popup that Giant 3Bman Ott wasn't able to field becuase of the crowd on the field.  Umpire Sears  disallowed claim of interference.","1938PIT.EVN.regular.comment.csv",33
-"PIT193809040",11,"$Gutteridge knocked out after a collision with Todd; game delayed as Gutteridge received first aid treatment","1938PIT.EVN.regular.comment.csv",34
-"PIT193809040",12,"$Brown made too wide a turn at first base and was tagged out","1938PIT.EVN.regular.comment.csv",35
-"PIT193809052",0,"$Ground rules changed due to over flow crowd onto outfield.","1938PIT.EVN.regular.comment.csv",36
-"PIT193809052",9,"$Into the crowd.","1938PIT.EVN.regular.comment.csv",37
-"PIT193809052",40,"$Game delayed while Cubs protested the decision at home plate claiming O'Dea tagged L. Waner before he touched the plate.","1938PIT.EVN.regular.comment.csv",38
-"PIT193809052",42,"$Into the crowd.","1938PIT.EVN.regular.comment.csv",39
-"PIT193809052",60,"$Into the crowd.","1938PIT.EVN.regular.comment.csv",40
-"PIT193809052",64,"$Into the crowd.","1938PIT.EVN.regular.comment.csv",41
-"PIT193809052",68,"$Into the crowd.","1938PIT.EVN.regular.comment.csv",42
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"PIT193804280",48,"$two runners on 3b led to out","1938PIT.EVN.regular.comment.csv",2
+"PIT193805060",29,"$Gus Suhr intentionally let the popup drop","1938PIT.EVN.regular.comment.csv",3
+"PIT193805070",50,"$Suhr's play was a line drive off pitcher Schumacher's chest which knocked him down; he made play from his knees; game was delayed over 5 minutes for medical attention to pitcher","1938PIT.EVN.regular.comment.csv",4
+"PIT193805080",88,"$An impressive GDP started with an intentional drop of a fly ball which was apparently deep enough not to become an infield fly","1938PIT.EVN.regular.comment.csv",5
+"PIT193805090",65,"$Gil English intentionally let popup drop","1938PIT.EVN.regular.comment.csv",6
+"PIT193805090",74,"Reconstructed ninth and tenth","1938PIT.EVN.regular.comment.csv",7
+"PIT193805090",83,"Could be Rizzo singled and Vaughan walked and reverse them tenth inning","1938PIT.EVN.regular.comment.csv",8
+"PIT193805090",87,"ej,stenc101,M,klemb901,Weather and field conditions Braves Manager Casey Stengel ejected by HP umpire Bill Klem for allowing the game to continue under horrible weather conditions","1938PIT.EVN.regular.comment.csv",9
+"PIT193806030",55,"$Mel Ott dropped Gus Suhr's pop near the mound but Suhr ruled out","1938PIT.EVN.regular.comment.csv",10
+"PIT193806040",29,"rain started","1938PIT.EVN.regular.comment.csv",11
+"PIT193806050",66,"rain started","1938PIT.EVN.regular.comment.csv",12
+"PIT193806100",32,"$After the ground out, Weintraub threw to second trying to get Vaughan; Waner broke for home and beat throw as Vaughan went to third; no RBI on the play","1938PIT.EVN.regular.comment.csv",13
+"PIT193806120",0,"$Start of game was delayed for two hours due to rain","1938PIT.EVN.regular.comment.csv",14
+"PIT193806120",47,"Smith entered the game with the count 1-0 on Vaughan","1938PIT.EVN.regular.comment.csv",15
+"PIT193806120",83,"$Game 2 of scheduled doubleheader was cancelled after one inning due to Sunday curfew.","1938PIT.EVN.regular.comment.csv",16
+"PIT193807020",0,"Protest=V","1938PIT.EVN.regular.comment.csv",17
+"PIT193807020",70,"$Cardinals manager Frankie Frisch protested the game because the Pirates had too many players in uniform (only 9 played)","1938PIT.EVN.regular.comment.csv",18
+"PIT193807032",59,"$Game held up as trainer's attended to Macon who left after ball hit by Paul Waner deflected off his hand","1938PIT.EVN.regular.comment.csv",19
+"PIT193807032",65,"$Game called due to Sunday curfew.","1938PIT.EVN.regular.comment.csv",20
+"PIT193807150",40,"ej,durol101,P,balll901,Call at 1B Leo Durocher ejected by HP umpire Lee Ballanfant","1938PIT.EVN.regular.comment.csv",21
+"PIT193807171",54,"hard to read, possible 14(1)/FO","1938PIT.EVN.regular.comment.csv",22
+"PIT193807220",61,"$Gil English turned left after reaching 1B; he was spiked on the play","1938PIT.EVN.regular.comment.csv",23
+"PIT193807241",126,"$Todd went to pitcher's mound to catch pop fly.","1938PIT.EVN.regular.comment.csv",24
+"PIT193807242",4,"$West injured chasing Jensen's triple","1938PIT.EVN.regular.comment.csv",25
+"PIT193807242",47,"$Game called due to PA curfew","1938PIT.EVN.regular.comment.csv",26
+"PIT193808090",40,"PBP says Stu flied out to Waner but which Waner?","1938PIT.EVN.regular.comment.csv",27
+"PIT193808100",59,"game called for rain and game 2 postponed","1938PIT.EVN.regular.comment.csv",28
+"PIT193808160",27,"$lost in the sun","1938PIT.EVN.regular.comment.csv",29
+"PIT193808270",9,"$Handly injured while running bases when he collided with 3b umpire Goetz in first inning","1938PIT.EVN.regular.comment.csv",30
+"PIT193808270",26,"$yes, two base advance on wild pitch","1938PIT.EVN.regular.comment.csv",31
+"PIT193808280",17,"$Vaughan dropped popup after infield fly called, runners advanced with no error charged","1938PIT.EVN.regular.comment.csv",32
+"PIT193808311",55,"$Suhr broke for home on the grounder and was chased back to third as Young arrived from second base; NY1 C Danning tagged both runners at third base; Suhr eventually left the bag and was tagged again; Twenty minute delay while 3B umpire Sears refused to acknowledge the double play; Young was out when he was tagged at an already occupied third base; Suhr was out when he was tagged after leaving the base which led to a protest as Suhr claimed he was told he was out then left that base; Sears denied saying that; Pie Traynor lodged a formal protest following the inning-ending DP fans threw bottles and food on the field.","1938PIT.EVN.regular.comment.csv",33
+"PIT193808311",63,"$Prior to striking out Rizzo hit a foul popup that Giant 3Bman Ott wasn't able to field becuase of the crowd on the field.  Umpire Sears  disallowed claim of interference.","1938PIT.EVN.regular.comment.csv",34
+"PIT193809040",11,"$Gutteridge knocked out after a collision with Todd; game delayed as Gutteridge received first aid treatment","1938PIT.EVN.regular.comment.csv",35
+"PIT193809040",12,"$Brown made too wide a turn at first base and was tagged out","1938PIT.EVN.regular.comment.csv",36
+"PIT193809052",0,"$Ground rules changed due to over flow crowd onto outfield.","1938PIT.EVN.regular.comment.csv",37
+"PIT193809052",9,"$Into the crowd.","1938PIT.EVN.regular.comment.csv",38
+"PIT193809052",40,"$Game delayed while Cubs protested the decision at home plate claiming O'Dea tagged L. Waner before he touched the plate.","1938PIT.EVN.regular.comment.csv",39
+"PIT193809052",42,"$Into the crowd.","1938PIT.EVN.regular.comment.csv",40
+"PIT193809052",60,"$Into the crowd.","1938PIT.EVN.regular.comment.csv",41
+"PIT193809052",64,"$Into the crowd.","1938PIT.EVN.regular.comment.csv",42
+"PIT193809052",68,"$Into the crowd.","1938PIT.EVN.regular.comment.csv",43

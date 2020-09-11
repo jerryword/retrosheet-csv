@@ -1,29 +1,30 @@
-"KC1195904240",49,"missing play in KC1195904240","FILENAME_TX","LINE_NUMBER_CT"
-"KC1195904250",38,"$Dick Williams called for interference with catcher Lou Berberet on steal attempt","1959KC1.EVA.regular.comment.csv",2
-"KC1195904280",38,"DIFF: officials Bertoia 0 CS but Wash. s/s has","1959KC1.EVA.regular.comment.csv",3
-"KC1195904290",2,"DIFF: officials Bertoia 0 CS but Wash. s/s has","1959KC1.EVA.regular.comment.csv",4
-"KC1195905050",53,"$Frank House suffered injured left ankle in collision at HP; carried from field on a stretcher","1959KC1.EVA.regular.comment.csv",5
-"KC1195905230",21,"DIFF: officials 0 CS Cha s/s says CS","1959KC1.EVA.regular.comment.csv",6
-"KC1195906050",22,"400 ft","1959KC1.EVA.regular.comment.csv",7
-"KC1195906050",27,"ej,richp101,M,runge901,Balls and strikes Orioles Manager Paul Richards ejected by HP umpire Ed Runge after two pitches to Dick Williams were called balls","1959KC1.EVA.regular.comment.csv",8
-"KC1195906050",28,"ej,triag101,P,runge901,Balls and strikes ej,peara102,P,runge901,Bench jockeying ej,haleb101,P,hurle901,Protesting from bullpen ej,loesb101,P,hurle901,Protesting from bullpen ej,porta101,P,hurle901,Protesting from bullpen Gus Triandos ejected by HP umpire Ed Runge with a 3-1 count on Ray Boone; Albie Pearson ejected by Runge from the bench; Bob Hale, Billy Loes and Arnie Portocarrero ejected by 3B umpire Eddie Hurley from the bullpen","1959KC1.EVA.regular.comment.csv",9
-"KC1195906250",5,"DIFF: officials Mantle 0 CS today but NY s/s has CS","1959KC1.EVA.regular.comment.csv",10
-"KC1195906250",70,"DIFF: official 0 CS NY s/s CS","1959KC1.EVA.regular.comment.csv",11
-"KC1195906270",19,"missing play in KC1195906270","1959KC1.EVA.regular.comment.csv",12
-"KC1195906280",6,"DIFF: officials  Sievers 0 CS but Wash. s/s has","1959KC1.EVA.regular.comment.csv",13
-"KC1195907050",7,"DIFF: officials Williams 0 CS today","1959KC1.EVA.regular.comment.csv",14
-"KC1195907100",41,"$Howie Reed left with a blister on his pitching hand","1959KC1.EVA.regular.comment.csv",15
-"KC1195907260",11,"$Bob Cerv left with a pulled leg muscle","1959KC1.EVA.regular.comment.csv",16
-"KC1195907260",15,"DIFF: officials Hadley 0 CS today","1959KC1.EVA.regular.comment.csv",17
-"KC1195907260",48,"missing play in KC1195907260","1959KC1.EVA.regular.comment.csv",18
-"KC1195907290",48,"$Harmon Killebrew caught Harry Chiti with the hidden ball trick","1959KC1.EVA.regular.comment.csv",19
-"KC1195907310",19,"$Joe DeMaestri hurt side fielding Don Larsen hit","1959KC1.EVA.regular.comment.csv",20
-"KC1195908010",12,"DIFF: officials Richards 0 CS today but NY s/s has CS","1959KC1.EVA.regular.comment.csv",21
-"KC1195908010",32,"ej,kubet101,P,hurle901,Balk call Tony Kubek ejected by 1B umpire Eddie Hurley","1959KC1.EVA.regular.comment.csv",22
-"KC1195908020",21,"DIFF: officials Lumpe 0 CS today","1959KC1.EVA.regular.comment.csv",23
-"KC1195908100",18,"$Ray Herbert injured his right side","1959KC1.EVA.regular.comment.csv",24
-"KC1195908100",48,"$Frank House called for obstruction","1959KC1.EVA.regular.comment.csv",25
-"KC1195908180",24,"DIFF: officials no CS for Jensen today","1959KC1.EVA.regular.comment.csv",26
-"KC1195908210",46,"$Hector Lopez tried to advance on a short passed ball","1959KC1.EVA.regular.comment.csv",27
-"KC1195909190",41,"Debut game for Gordy Coleman","1959KC1.EVA.regular.comment.csv",28
-"KC1195909190",69,"Debut game for Marty Kutyna","1959KC1.EVA.regular.comment.csv",29
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"KC1195904240",49,"missing play in KC1195904240","1959KC1.EVA.regular.comment.csv",2
+"KC1195904250",38,"$Dick Williams called for interference with catcher Lou Berberet on steal attempt","1959KC1.EVA.regular.comment.csv",3
+"KC1195904280",38,"DIFF: officials Bertoia 0 CS but Wash. s/s has","1959KC1.EVA.regular.comment.csv",4
+"KC1195904290",2,"DIFF: officials Bertoia 0 CS but Wash. s/s has","1959KC1.EVA.regular.comment.csv",5
+"KC1195905050",53,"$Frank House suffered injured left ankle in collision at HP; carried from field on a stretcher","1959KC1.EVA.regular.comment.csv",6
+"KC1195905230",21,"DIFF: officials 0 CS Cha s/s says CS","1959KC1.EVA.regular.comment.csv",7
+"KC1195906050",22,"400 ft","1959KC1.EVA.regular.comment.csv",8
+"KC1195906050",27,"ej,richp101,M,runge901,Balls and strikes Orioles Manager Paul Richards ejected by HP umpire Ed Runge after two pitches to Dick Williams were called balls","1959KC1.EVA.regular.comment.csv",9
+"KC1195906050",28,"ej,triag101,P,runge901,Balls and strikes ej,peara102,P,runge901,Bench jockeying ej,haleb101,P,hurle901,Protesting from bullpen ej,loesb101,P,hurle901,Protesting from bullpen ej,porta101,P,hurle901,Protesting from bullpen Gus Triandos ejected by HP umpire Ed Runge with a 3-1 count on Ray Boone; Albie Pearson ejected by Runge from the bench; Bob Hale, Billy Loes and Arnie Portocarrero ejected by 3B umpire Eddie Hurley from the bullpen","1959KC1.EVA.regular.comment.csv",10
+"KC1195906250",5,"DIFF: officials Mantle 0 CS today but NY s/s has CS","1959KC1.EVA.regular.comment.csv",11
+"KC1195906250",70,"DIFF: official 0 CS NY s/s CS","1959KC1.EVA.regular.comment.csv",12
+"KC1195906270",19,"missing play in KC1195906270","1959KC1.EVA.regular.comment.csv",13
+"KC1195906280",6,"DIFF: officials  Sievers 0 CS but Wash. s/s has","1959KC1.EVA.regular.comment.csv",14
+"KC1195907050",7,"DIFF: officials Williams 0 CS today","1959KC1.EVA.regular.comment.csv",15
+"KC1195907100",41,"$Howie Reed left with a blister on his pitching hand","1959KC1.EVA.regular.comment.csv",16
+"KC1195907260",11,"$Bob Cerv left with a pulled leg muscle","1959KC1.EVA.regular.comment.csv",17
+"KC1195907260",15,"DIFF: officials Hadley 0 CS today","1959KC1.EVA.regular.comment.csv",18
+"KC1195907260",48,"missing play in KC1195907260","1959KC1.EVA.regular.comment.csv",19
+"KC1195907290",48,"$Harmon Killebrew caught Harry Chiti with the hidden ball trick","1959KC1.EVA.regular.comment.csv",20
+"KC1195907310",19,"$Joe DeMaestri hurt side fielding Don Larsen hit","1959KC1.EVA.regular.comment.csv",21
+"KC1195908010",12,"DIFF: officials Richards 0 CS today but NY s/s has CS","1959KC1.EVA.regular.comment.csv",22
+"KC1195908010",32,"ej,kubet101,P,hurle901,Balk call Tony Kubek ejected by 1B umpire Eddie Hurley","1959KC1.EVA.regular.comment.csv",23
+"KC1195908020",21,"DIFF: officials Lumpe 0 CS today","1959KC1.EVA.regular.comment.csv",24
+"KC1195908100",18,"$Ray Herbert injured his right side","1959KC1.EVA.regular.comment.csv",25
+"KC1195908100",48,"$Frank House called for obstruction","1959KC1.EVA.regular.comment.csv",26
+"KC1195908180",24,"DIFF: officials no CS for Jensen today","1959KC1.EVA.regular.comment.csv",27
+"KC1195908210",46,"$Hector Lopez tried to advance on a short passed ball","1959KC1.EVA.regular.comment.csv",28
+"KC1195909190",41,"Debut game for Gordy Coleman","1959KC1.EVA.regular.comment.csv",29
+"KC1195909190",69,"Debut game for Marty Kutyna","1959KC1.EVA.regular.comment.csv",30

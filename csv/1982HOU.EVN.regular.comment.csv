@@ -1,10 +1,11 @@
-"HOU198204230",63,"$Paul Householder left with injured wrist","FILENAME_TX","LINE_NUMBER_CT"
-"HOU198205110",17,"$Art Howe left with pulled hamstring","1982HOU.EVN.regular.comment.csv",2
-"HOU198205110",26,"$Dave Parker left with sprained wrist","1982HOU.EVN.regular.comment.csv",3
-"HOU198205210",20,"ej,staur001,P,grege901,Balk non-call $Astros Staub, not in game, ejected by 3B umpire Gregg for arguing that Sutton was balking","1982HOU.EVN.regular.comment.csv",4
-"HOU198206050",4,"ej,brisd801,C,davis901,Call at HP $Phillies coach Bristol ejected by HP umpire Davidson for arguing that Rose was safe at home","1982HOU.EVN.regular.comment.csv",5
-"HOU198208240",66,"ej,brooh001,P,monte901,Call at HP (Bumped umpire) Hubie Brooks ejected by HP umpire Ed Montague for bumping the umpire during an argument","1982HOU.EVN.regular.comment.csv",6
-"HOU198208250",0,"ej,bambg101,M,monte901,Resuming argument from previous game Mets manager George Bamberger ejected by 3B umpire Ed Montague during the pre-game meeting when Bamberger continued an argument from the previous game","1982HOU.EVN.regular.comment.csv",7
-"HOU198209060",16,"Debut game for Bill Doran","1982HOU.EVN.regular.comment.csv",8
-"HOU198209100",84,"Debut game for Larry Ray","1982HOU.EVN.regular.comment.csv",9
-"HOU198209120",69,"Debut game for Mark Ross","1982HOU.EVN.regular.comment.csv",10
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"HOU198204230",63,"$Paul Householder left with injured wrist","1982HOU.EVN.regular.comment.csv",2
+"HOU198205110",17,"$Art Howe left with pulled hamstring","1982HOU.EVN.regular.comment.csv",3
+"HOU198205110",26,"$Dave Parker left with sprained wrist","1982HOU.EVN.regular.comment.csv",4
+"HOU198205210",20,"ej,staur001,P,grege901,Balk non-call $Astros Staub, not in game, ejected by 3B umpire Gregg for arguing that Sutton was balking","1982HOU.EVN.regular.comment.csv",5
+"HOU198206050",4,"ej,brisd801,C,davis901,Call at HP $Phillies coach Bristol ejected by HP umpire Davidson for arguing that Rose was safe at home","1982HOU.EVN.regular.comment.csv",6
+"HOU198208240",66,"ej,brooh001,P,monte901,Call at HP (Bumped umpire) Hubie Brooks ejected by HP umpire Ed Montague for bumping the umpire during an argument","1982HOU.EVN.regular.comment.csv",7
+"HOU198208250",0,"ej,bambg101,M,monte901,Resuming argument from previous game Mets manager George Bamberger ejected by 3B umpire Ed Montague during the pre-game meeting when Bamberger continued an argument from the previous game","1982HOU.EVN.regular.comment.csv",8
+"HOU198209060",16,"Debut game for Bill Doran","1982HOU.EVN.regular.comment.csv",9
+"HOU198209100",84,"Debut game for Larry Ray","1982HOU.EVN.regular.comment.csv",10
+"HOU198209120",69,"Debut game for Mark Ross","1982HOU.EVN.regular.comment.csv",11

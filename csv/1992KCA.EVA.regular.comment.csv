@@ -1,30 +1,31 @@
-"KCA199204210",40,"Debut game for Hipolito Pichardo","FILENAME_TX","LINE_NUMBER_CT"
-"KCA199204220",41,"Randy Milligan severely injured in collision with Cal Ripken","1992KCA.EVA.regular.comment.csv",2
-"KCA199205150",3,"Alan Trammell left with sprained right ankle","1992KCA.EVA.regular.comment.csv",3
-"KCA199205160",22,"Tom Gordon left with strained ligaments in his thumb","1992KCA.EVA.regular.comment.csv",4
-"KCA199205160",52,"Debut game for Kurt Knudsen","1992KCA.EVA.regular.comment.csv",5
-"KCA199205160",61,"$Milt Cuyler and Rob Deer collide","1992KCA.EVA.regular.comment.csv",6
-"KCA199205160",75,"$the ball hit the LF pole","1992KCA.EVA.regular.comment.csv",7
-"KCA199206080",45,"gregg Jefferies left with injured left ring finger tip","1992KCA.EVA.regular.comment.csv",8
-"KCA199206100",4,"$Kirby Puckett called for interference","1992KCA.EVA.regular.comment.csv",9
-"KCA199206210",31,"$Candy Maldonado called for interference","1992KCA.EVA.regular.comment.csv",10
-"KCA199207030",67,"Debut game for Steve Shifflett","1992KCA.EVA.regular.comment.csv",11
-"KCA199207051",0,"58 minute rain delay prior to start of game","1992KCA.EVA.regular.comment.csv",12
-"KCA199207051",34,"28-minute rain delay","1992KCA.EVA.regular.comment.csv",13
-"KCA199207200",54,"Debut game for Paul Quantrill","1992KCA.EVA.regular.comment.csv",14
-"KCA199208010",7,"$apparent retaliation for Rickey Henderson being hit in the top of the inning; both teams warned","1992KCA.EVA.regular.comment.csv",15
-"KCA199208010",14,"ej,pichh001,P,joycj901,Throwing at batter Hipolito Pichardo ejected by HP umpire Jim Joyce for throwing too close to Randy Ready","1992KCA.EVA.regular.comment.csv",16
-"KCA199208010",18,"ej,shifs001,P,joycj901,Intentional HBP Steve Shifflett ejected by HP umpire Jim Joyce, the second Royals pitcher ejected in the inning","1992KCA.EVA.regular.comment.csv",17
-"KCA199208050",53,"ej,hayev001,P,clara901,Check swing $Hayes ejected by 3B umpire Clark for arguing check swing strike 3","1992KCA.EVA.regular.comment.csv",18
-"KCA199208140",59,"Brian Mcrae left with sprained right ankle","1992KCA.EVA.regular.comment.csv",19
-"KCA199208150",51,"Joe orsulak left with hurt thumb","1992KCA.EVA.regular.comment.csv",20
-"KCA199208160",52,"ej,clemp001,P,shulj901,Intentional HBP Pat Clements ejected by HP umpire John Shulock","1992KCA.EVA.regular.comment.csv",21
-"KCA199209030",49,"Mike Boddicker injured by line drive; carried off the field","1992KCA.EVA.regular.comment.csv",22
-"KCA199209050",19,"ej,sax-s001,P,morrd901,Call at 3B Steve Sax ejected by 3B umpire Dan Morrison","1992KCA.EVA.regular.comment.csv",23
-"KCA199209050",87,"Game called for rain after 32 minute delay","1992KCA.EVA.regular.comment.csv",24
-"KCA199209060",1,"Debut game for Ed Pierce","1992KCA.EVA.regular.comment.csv",25
-"KCA199209060",18,"ej,bevit801,P,welkt901,Call at 2B White Sox coach Terry Bevington ejected by 3B umpire Tim Welke","1992KCA.EVA.regular.comment.csv",26
-"KCA199209070",94,"ej,hackr101,C,koscg901,Balls and strikes Blue Jays coach Rich Hacker ejected by HP umpire Greg Kosc for arguing the first-pitch strike to Joe Carter","1992KCA.EVA.regular.comment.csv",27
-"KCA199209180",32,"$the ball struck the 3B bag","1992KCA.EVA.regular.comment.csv",28
-"KCA199209200",15,"Debut game for J.T. Snow","1992KCA.EVA.regular.comment.csv",29
-"KCA199209200",75,"$Brian McRae lost the ball in the sun","1992KCA.EVA.regular.comment.csv",30
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"KCA199204210",40,"Debut game for Hipolito Pichardo","1992KCA.EVA.regular.comment.csv",2
+"KCA199204220",41,"Randy Milligan severely injured in collision with Cal Ripken","1992KCA.EVA.regular.comment.csv",3
+"KCA199205150",3,"Alan Trammell left with sprained right ankle","1992KCA.EVA.regular.comment.csv",4
+"KCA199205160",22,"Tom Gordon left with strained ligaments in his thumb","1992KCA.EVA.regular.comment.csv",5
+"KCA199205160",52,"Debut game for Kurt Knudsen","1992KCA.EVA.regular.comment.csv",6
+"KCA199205160",61,"$Milt Cuyler and Rob Deer collide","1992KCA.EVA.regular.comment.csv",7
+"KCA199205160",75,"$the ball hit the LF pole","1992KCA.EVA.regular.comment.csv",8
+"KCA199206080",45,"gregg Jefferies left with injured left ring finger tip","1992KCA.EVA.regular.comment.csv",9
+"KCA199206100",4,"$Kirby Puckett called for interference","1992KCA.EVA.regular.comment.csv",10
+"KCA199206210",31,"$Candy Maldonado called for interference","1992KCA.EVA.regular.comment.csv",11
+"KCA199207030",67,"Debut game for Steve Shifflett","1992KCA.EVA.regular.comment.csv",12
+"KCA199207051",0,"58 minute rain delay prior to start of game","1992KCA.EVA.regular.comment.csv",13
+"KCA199207051",34,"28-minute rain delay","1992KCA.EVA.regular.comment.csv",14
+"KCA199207200",54,"Debut game for Paul Quantrill","1992KCA.EVA.regular.comment.csv",15
+"KCA199208010",7,"$apparent retaliation for Rickey Henderson being hit in the top of the inning; both teams warned","1992KCA.EVA.regular.comment.csv",16
+"KCA199208010",14,"ej,pichh001,P,joycj901,Throwing at batter Hipolito Pichardo ejected by HP umpire Jim Joyce for throwing too close to Randy Ready","1992KCA.EVA.regular.comment.csv",17
+"KCA199208010",18,"ej,shifs001,P,joycj901,Intentional HBP Steve Shifflett ejected by HP umpire Jim Joyce, the second Royals pitcher ejected in the inning","1992KCA.EVA.regular.comment.csv",18
+"KCA199208050",53,"ej,hayev001,P,clara901,Check swing $Hayes ejected by 3B umpire Clark for arguing check swing strike 3","1992KCA.EVA.regular.comment.csv",19
+"KCA199208140",59,"Brian Mcrae left with sprained right ankle","1992KCA.EVA.regular.comment.csv",20
+"KCA199208150",51,"Joe orsulak left with hurt thumb","1992KCA.EVA.regular.comment.csv",21
+"KCA199208160",52,"ej,clemp001,P,shulj901,Intentional HBP Pat Clements ejected by HP umpire John Shulock","1992KCA.EVA.regular.comment.csv",22
+"KCA199209030",49,"Mike Boddicker injured by line drive; carried off the field","1992KCA.EVA.regular.comment.csv",23
+"KCA199209050",19,"ej,sax-s001,P,morrd901,Call at 3B Steve Sax ejected by 3B umpire Dan Morrison","1992KCA.EVA.regular.comment.csv",24
+"KCA199209050",87,"Game called for rain after 32 minute delay","1992KCA.EVA.regular.comment.csv",25
+"KCA199209060",1,"Debut game for Ed Pierce","1992KCA.EVA.regular.comment.csv",26
+"KCA199209060",18,"ej,bevit801,P,welkt901,Call at 2B White Sox coach Terry Bevington ejected by 3B umpire Tim Welke","1992KCA.EVA.regular.comment.csv",27
+"KCA199209070",94,"ej,hackr101,C,koscg901,Balls and strikes Blue Jays coach Rich Hacker ejected by HP umpire Greg Kosc for arguing the first-pitch strike to Joe Carter","1992KCA.EVA.regular.comment.csv",28
+"KCA199209180",32,"$the ball struck the 3B bag","1992KCA.EVA.regular.comment.csv",29
+"KCA199209200",15,"Debut game for J.T. Snow","1992KCA.EVA.regular.comment.csv",30
+"KCA199209200",75,"$Brian McRae lost the ball in the sun","1992KCA.EVA.regular.comment.csv",31

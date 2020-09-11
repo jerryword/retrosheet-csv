@@ -1,35 +1,36 @@
-"PIT199005090",19,"ej,saboc001,P,willc901,Balls and strikes Chris Sabo ejected by HP umpire Charlie Williams","FILENAME_TX","LINE_NUMBER_CT"
-"PIT199005090",27,"ej,duncm001,P,hirsm901,Call at 3B Mariano Duncan ejected by 3B umpire Mark Hirschbeck","1990PIT.EVN.regular.comment.csv",2
-"PIT199005110",0,"Debut for umpire Ed Rapuano","1990PIT.EVN.regular.comment.csv",3
-"PIT199005120",35,"$Jose Lind missed sign on squeeze play","1990PIT.EVN.regular.comment.csv",4
-"PIT199005130",21,"$Bill Gullickson called for interference on the play at HP","1990PIT.EVN.regular.comment.csv",5
-"PIT199005250",53,"DWS invented play","1990PIT.EVN.regular.comment.csv",6
-"PIT199005260",73,"$Mike LaValliere left with unknown injury","1990PIT.EVN.regular.comment.csv",7
-"PIT199005280",31,"Rain begins to fall","1990PIT.EVN.regular.comment.csv",8
-"PIT199005280",42,"$benches cleared after first pitch flattens Don Slaught; warnings issued","1990PIT.EVN.regular.comment.csv",9
-"PIT199005280",46,"ej,kramr001,P,ripps901,Throwing at batter after warning ej,leylj801,M,ripps901,Throwing at batter after warning $Pitcher Kramer and Pirates manager Leyland ejected by HP umpire Rippley for throwing at batter after warning","1990PIT.EVN.regular.comment.csv",10
-"PIT199005280",60,"ej,samuj001,P,ripps901,Balls and strikes $Samuel ejected by HP umpire Rippley for arguing balls and strikes after striking out","1990PIT.EVN.regular.comment.csv",11
-"PIT199005290",50,"$grounder hit third base and went straight up in air","1990PIT.EVN.regular.comment.csv",12
-"PIT199005300",35,"$Kal Daniels lost ball in sun","1990PIT.EVN.regular.comment.csv",13
-"PIT199005300",44,"$Mike Maddux chased Sid Bream to 2B","1990PIT.EVN.regular.comment.csv",14
-"PIT199006040",0,"Debut for umpire Dan Wickham","1990PIT.EVN.regular.comment.csv",15
-"PIT199006040",63,"ej,bondb001,P,froeb901,Balls and strikes Barry Bonds ejected by HP umpire Bruce Froemming","1990PIT.EVN.regular.comment.csv",16
-"PIT199006040",75,"$Ted Power left with injured arm","1990PIT.EVN.regular.comment.csv",17
-"PIT199006060",57,"Game called after 1 hour 19 minute rain delay","1990PIT.EVN.regular.comment.csv",18
-"PIT199006150",12,"$the ball boy touched the ball; fan interference","1990PIT.EVN.regular.comment.csv",19
-"PIT199006160",79,"$Dave Magadan called for interference at 2B","1990PIT.EVN.regular.comment.csv",20
-"PIT199006260",63,"ej,thond001,P,tatat901,Called third strike (Bumped umpire) Dickie Thon ejected by HP umpire Terry Tata; Thon argued the called third strike and bumped Tata during the argument","1990PIT.EVN.regular.comment.csv",21
-"PIT199006270",60,"Debut game for Orlando Merced","1990PIT.EVN.regular.comment.csv",22
-"PIT199007120",10,"ej,reynr001,P,westj901,Fighting $Padres pitcher Andy Benes was upset when Barry Bonds stood at HP and watched his homer; Benes decide to hit the next batter with a pitch as retaliation; Sid Bream was hit on the back of the knee and started walking to the mound; Benes walked off the mound toward Bream and both benches cleared; R.J. Reynolds ejected by HP umpire Joe West","1990PIT.EVN.regular.comment.csv",23
-"PIT199007130",53,"DWS: invented play","1990PIT.EVN.regular.comment.csv",24
-"PIT199007130",54,"DWS: invented play","1990PIT.EVN.regular.comment.csv",25
-"PIT199007260",41,"Debut game for Moises Alou","1990PIT.EVN.regular.comment.csv",26
-"PIT199008100",22,"$John Tudor left the game with a stiff shoulder","1990PIT.EVN.regular.comment.csv",27
-"PIT199008142",45,"$Jeff Blauser called for interference","1990PIT.EVN.regular.comment.csv",28
-"PIT199008160",32,"$Sid Bream called for interference with Greg Olson's throw to 2B","1990PIT.EVN.regular.comment.csv",29
-"PIT199008210",45,"$Glenn Wilson out on appeal for leaving 1B early","1990PIT.EVN.regular.comment.csv",30
-"PIT199009090",5,"$Wally Backman hit Dennis Martinez in chest with line drive","1990PIT.EVN.regular.comment.csv",31
-"PIT199009090",19,"Rain delay","1990PIT.EVN.regular.comment.csv",32
-"PIT199009090",77,"$Delino DeShields missed 2B; out on appeal","1990PIT.EVN.regular.comment.csv",33
-"PIT199009270",36,"$Mike Bielicki called for interference for running into his own batted ball","1990PIT.EVN.regular.comment.csv",34
-"PIT199010010",49,"ej,breas001,P,froeb901,Balls and strikes Sid Bream ejected by HP umpire Bruce Froemming","1990PIT.EVN.regular.comment.csv",35
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"PIT199005090",19,"ej,saboc001,P,willc901,Balls and strikes Chris Sabo ejected by HP umpire Charlie Williams","1990PIT.EVN.regular.comment.csv",2
+"PIT199005090",27,"ej,duncm001,P,hirsm901,Call at 3B Mariano Duncan ejected by 3B umpire Mark Hirschbeck","1990PIT.EVN.regular.comment.csv",3
+"PIT199005110",0,"Debut for umpire Ed Rapuano","1990PIT.EVN.regular.comment.csv",4
+"PIT199005120",35,"$Jose Lind missed sign on squeeze play","1990PIT.EVN.regular.comment.csv",5
+"PIT199005130",21,"$Bill Gullickson called for interference on the play at HP","1990PIT.EVN.regular.comment.csv",6
+"PIT199005250",53,"DWS invented play","1990PIT.EVN.regular.comment.csv",7
+"PIT199005260",73,"$Mike LaValliere left with unknown injury","1990PIT.EVN.regular.comment.csv",8
+"PIT199005280",31,"Rain begins to fall","1990PIT.EVN.regular.comment.csv",9
+"PIT199005280",42,"$benches cleared after first pitch flattens Don Slaught; warnings issued","1990PIT.EVN.regular.comment.csv",10
+"PIT199005280",46,"ej,kramr001,P,ripps901,Throwing at batter after warning ej,leylj801,M,ripps901,Throwing at batter after warning $Pitcher Kramer and Pirates manager Leyland ejected by HP umpire Rippley for throwing at batter after warning","1990PIT.EVN.regular.comment.csv",11
+"PIT199005280",60,"ej,samuj001,P,ripps901,Balls and strikes $Samuel ejected by HP umpire Rippley for arguing balls and strikes after striking out","1990PIT.EVN.regular.comment.csv",12
+"PIT199005290",50,"$grounder hit third base and went straight up in air","1990PIT.EVN.regular.comment.csv",13
+"PIT199005300",35,"$Kal Daniels lost ball in sun","1990PIT.EVN.regular.comment.csv",14
+"PIT199005300",44,"$Mike Maddux chased Sid Bream to 2B","1990PIT.EVN.regular.comment.csv",15
+"PIT199006040",0,"Debut for umpire Dan Wickham","1990PIT.EVN.regular.comment.csv",16
+"PIT199006040",63,"ej,bondb001,P,froeb901,Balls and strikes Barry Bonds ejected by HP umpire Bruce Froemming","1990PIT.EVN.regular.comment.csv",17
+"PIT199006040",75,"$Ted Power left with injured arm","1990PIT.EVN.regular.comment.csv",18
+"PIT199006060",57,"Game called after 1 hour 19 minute rain delay","1990PIT.EVN.regular.comment.csv",19
+"PIT199006150",12,"$the ball boy touched the ball; fan interference","1990PIT.EVN.regular.comment.csv",20
+"PIT199006160",79,"$Dave Magadan called for interference at 2B","1990PIT.EVN.regular.comment.csv",21
+"PIT199006260",63,"ej,thond001,P,tatat901,Called third strike (Bumped umpire) Dickie Thon ejected by HP umpire Terry Tata; Thon argued the called third strike and bumped Tata during the argument","1990PIT.EVN.regular.comment.csv",22
+"PIT199006270",60,"Debut game for Orlando Merced","1990PIT.EVN.regular.comment.csv",23
+"PIT199007120",10,"ej,reynr001,P,westj901,Fighting $Padres pitcher Andy Benes was upset when Barry Bonds stood at HP and watched his homer; Benes decide to hit the next batter with a pitch as retaliation; Sid Bream was hit on the back of the knee and started walking to the mound; Benes walked off the mound toward Bream and both benches cleared; R.J. Reynolds ejected by HP umpire Joe West","1990PIT.EVN.regular.comment.csv",24
+"PIT199007130",53,"DWS: invented play","1990PIT.EVN.regular.comment.csv",25
+"PIT199007130",54,"DWS: invented play","1990PIT.EVN.regular.comment.csv",26
+"PIT199007260",41,"Debut game for Moises Alou","1990PIT.EVN.regular.comment.csv",27
+"PIT199008100",22,"$John Tudor left the game with a stiff shoulder","1990PIT.EVN.regular.comment.csv",28
+"PIT199008142",45,"$Jeff Blauser called for interference","1990PIT.EVN.regular.comment.csv",29
+"PIT199008160",32,"$Sid Bream called for interference with Greg Olson's throw to 2B","1990PIT.EVN.regular.comment.csv",30
+"PIT199008210",45,"$Glenn Wilson out on appeal for leaving 1B early","1990PIT.EVN.regular.comment.csv",31
+"PIT199009090",5,"$Wally Backman hit Dennis Martinez in chest with line drive","1990PIT.EVN.regular.comment.csv",32
+"PIT199009090",19,"Rain delay","1990PIT.EVN.regular.comment.csv",33
+"PIT199009090",77,"$Delino DeShields missed 2B; out on appeal","1990PIT.EVN.regular.comment.csv",34
+"PIT199009270",36,"$Mike Bielicki called for interference for running into his own batted ball","1990PIT.EVN.regular.comment.csv",35
+"PIT199010010",49,"ej,breas001,P,froeb901,Balls and strikes Sid Bream ejected by HP umpire Bruce Froemming","1990PIT.EVN.regular.comment.csv",36

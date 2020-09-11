@@ -1,19 +1,20 @@
-"CIN198404020",24,"$high popup that was not played and fell among four fielders","FILENAME_TX","LINE_NUMBER_CT"
-"CIN198404020",42,"Debut game for Ross Jones","1984CIN.EVN.regular.comment.csv",2
-"CIN198404020",52,"$Strawberry leaped to take home run away","1984CIN.EVN.regular.comment.csv",3
-"CIN198404060",20,"Debut game for Mike Smith","1984CIN.EVN.regular.comment.csv",4
-"CIN198404110",72,"IW by deduction (6/22/91 LK)","1984CIN.EVN.regular.comment.csv",5
-"CIN198404180",50,"umpchange,7,umphome,westj901 umpchange,7,ump2b,(None) $HP umpire Frank Pulli left the game with double vision; 2B umpire Joe West moved behind the plate","1984CIN.EVN.regular.comment.csv",6
-"CIN198404270",1,"Debut game for Mark Grant","1984CIN.EVN.regular.comment.csv",7
-"CIN198404292",9,"$Gary Redus injured","1984CIN.EVN.regular.comment.csv",8
-"CIN198404292",46,"ej,krukm001,P,davis901,Intentional HBP Mike Krukow ejected by HP umpire Satch Davidson","1984CIN.EVN.regular.comment.csv",9
-"CIN198406230",33,"$Dave Parker yelled at Mark Thurman while running to 1B","1984CIN.EVN.regular.comment.csv",10
-"CIN198406230",49,"$Mark Thurmond threw a pitch inside to Dave Parker and he yelled at Thurmond","1984CIN.EVN.regular.comment.csv",11
-"CIN198406230",50,"ej,parkd001,P,mcshj901,Throwing batting helmet at pitcher Dave Parker ejected by HP umpire John McSherry for throwing his helmet at pitcher Mark Thurmond","1984CIN.EVN.regular.comment.csv",12
-"CIN198406290",5,"IW by deduction (6/22/91 LK)","1984CIN.EVN.regular.comment.csv",13
-"CIN198407190",58,"$Brad Gulden held 2B while Mario Soto rounded 1B and went to 2B; Gulden knocked the ball out of Rafael Santana's hand","1984CIN.EVN.regular.comment.csv",14
-"CIN198407210",58,"$Mookie Wilson called for interference on stolen base attempt","1984CIN.EVN.regular.comment.csv",15
-"CIN198408101",85,"likely a bunt","1984CIN.EVN.regular.comment.csv",16
-"CIN198408101",102,"ej,parkd001,P,quicj901,Called third strike (threw bat and helmet) $Parker ejected by HP umpire Quick for arguing strike 3; he threw bat and helmet","1984CIN.EVN.regular.comment.csv",17
-"CIN198409150",57,"Debut game for Freddie Toliver","1984CIN.EVN.regular.comment.csv",18
-"CIN198409250",65,"game called by rain","1984CIN.EVN.regular.comment.csv",19
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"CIN198404020",24,"$high popup that was not played and fell among four fielders","1984CIN.EVN.regular.comment.csv",2
+"CIN198404020",42,"Debut game for Ross Jones","1984CIN.EVN.regular.comment.csv",3
+"CIN198404020",52,"$Strawberry leaped to take home run away","1984CIN.EVN.regular.comment.csv",4
+"CIN198404060",20,"Debut game for Mike Smith","1984CIN.EVN.regular.comment.csv",5
+"CIN198404110",72,"IW by deduction (6/22/91 LK)","1984CIN.EVN.regular.comment.csv",6
+"CIN198404180",50,"umpchange,7,umphome,westj901 umpchange,7,ump2b,(None) $HP umpire Frank Pulli left the game with double vision; 2B umpire Joe West moved behind the plate","1984CIN.EVN.regular.comment.csv",7
+"CIN198404270",1,"Debut game for Mark Grant","1984CIN.EVN.regular.comment.csv",8
+"CIN198404292",9,"$Gary Redus injured","1984CIN.EVN.regular.comment.csv",9
+"CIN198404292",46,"ej,krukm001,P,davis901,Intentional HBP Mike Krukow ejected by HP umpire Satch Davidson","1984CIN.EVN.regular.comment.csv",10
+"CIN198406230",33,"$Dave Parker yelled at Mark Thurman while running to 1B","1984CIN.EVN.regular.comment.csv",11
+"CIN198406230",49,"$Mark Thurmond threw a pitch inside to Dave Parker and he yelled at Thurmond","1984CIN.EVN.regular.comment.csv",12
+"CIN198406230",50,"ej,parkd001,P,mcshj901,Throwing batting helmet at pitcher Dave Parker ejected by HP umpire John McSherry for throwing his helmet at pitcher Mark Thurmond","1984CIN.EVN.regular.comment.csv",13
+"CIN198406290",5,"IW by deduction (6/22/91 LK)","1984CIN.EVN.regular.comment.csv",14
+"CIN198407190",58,"$Brad Gulden held 2B while Mario Soto rounded 1B and went to 2B; Gulden knocked the ball out of Rafael Santana's hand","1984CIN.EVN.regular.comment.csv",15
+"CIN198407210",58,"$Mookie Wilson called for interference on stolen base attempt","1984CIN.EVN.regular.comment.csv",16
+"CIN198408101",85,"likely a bunt","1984CIN.EVN.regular.comment.csv",17
+"CIN198408101",102,"ej,parkd001,P,quicj901,Called third strike (threw bat and helmet) $Parker ejected by HP umpire Quick for arguing strike 3; he threw bat and helmet","1984CIN.EVN.regular.comment.csv",18
+"CIN198409150",57,"Debut game for Freddie Toliver","1984CIN.EVN.regular.comment.csv",19
+"CIN198409250",65,"game called by rain","1984CIN.EVN.regular.comment.csv",20

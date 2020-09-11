@@ -1,9 +1,10 @@
-"CLE194704150",0,"Debut for umpire Eddie Hurley","FILENAME_TX","LINE_NUMBER_CT"
-"CLE194704260",47,"missing fielding credit","1947CLE.EVA.regular.comment.csv",2
-"CLE194706082",58,"ej,melis101,C,hubbc901,CAll at 2B $Cleveland coach Melillo ejected by 3B umpire Cal Hubbard for arguing that Peck was safe at 3rd","1947CLE.EVA.regular.comment.csv",3
-"CLE194706090",33,"ej,tebbb101,P,hurle901,Balls and strikes $catcher Tebbetts ejected by HP umpire Hurley for arguing ball 4 call to Boudreau","1947CLE.EVA.regular.comment.csv",4
-"CLE194707042",80,"$not rain - game called to permit stadium to be used for fireworks show","1947CLE.EVA.regular.comment.csv",5
-"CLE194707172",7,"missing play","1947CLE.EVA.regular.comment.csv",6
-"CLE194708192",14,"$missed squeeze","1947CLE.EVA.regular.comment.csv",7
-"CLE194708222",76,"missing play","1947CLE.EVA.regular.comment.csv",8
-"CLE194709020",24,"last two plays really one","1947CLE.EVA.regular.comment.csv",9
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"CLE194704150",0,"Debut for umpire Eddie Hurley","1947CLE.EVA.regular.comment.csv",2
+"CLE194704260",47,"missing fielding credit","1947CLE.EVA.regular.comment.csv",3
+"CLE194706082",58,"ej,melis101,C,hubbc901,CAll at 2B $Cleveland coach Melillo ejected by 3B umpire Cal Hubbard for arguing that Peck was safe at 3rd","1947CLE.EVA.regular.comment.csv",4
+"CLE194706090",33,"ej,tebbb101,P,hurle901,Balls and strikes $catcher Tebbetts ejected by HP umpire Hurley for arguing ball 4 call to Boudreau","1947CLE.EVA.regular.comment.csv",5
+"CLE194707042",80,"$not rain - game called to permit stadium to be used for fireworks show","1947CLE.EVA.regular.comment.csv",6
+"CLE194707172",7,"missing play","1947CLE.EVA.regular.comment.csv",7
+"CLE194708192",14,"$missed squeeze","1947CLE.EVA.regular.comment.csv",8
+"CLE194708222",76,"missing play","1947CLE.EVA.regular.comment.csv",9
+"CLE194709020",24,"last two plays really one","1947CLE.EVA.regular.comment.csv",10

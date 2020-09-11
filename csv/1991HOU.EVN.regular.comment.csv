@@ -1,24 +1,25 @@
-"HOU199104240",77,"$Eric Yelding called for interference","FILENAME_TX","LINE_NUMBER_CT"
-"HOU199104260",1,"$Jim Deshaies fielded bunt with his glove, tossed ball and ball hit runner","1991HOU.EVN.regular.comment.csv",2
-"HOU199104270",8,"$Ken Caminiti fouled a pitch off his foot","1991HOU.EVN.regular.comment.csv",3
-"HOU199104270",32,"Ken Caminiti left with bruised left foot","1991HOU.EVN.regular.comment.csv",4
-"HOU199104270",47,"$Jeff Treadway pulled hidden ball trick to pick off Eric Yelding","1991HOU.EVN.regular.comment.csv",5
-"HOU199105070",1,"Debut game for Bob Scanlan","1991HOU.EVN.regular.comment.csv",6
-"HOU199105080",53,"Mark McLemore left with strained right hamstring","1991HOU.EVN.regular.comment.csv",7
-"HOU199105230",0,"Debut for umpire Angel Hernandez","1991HOU.EVN.regular.comment.csv",8
-"HOU199105240",15,"Debut game for Jose Mota","1991HOU.EVN.regular.comment.csv",9
-"HOU199106250",58,"ej,pendt001,P,darlg901,Balls and strikes Terry Pendleton ejected by HP umpire Gary Darling","1991HOU.EVN.regular.comment.csv",10
-"HOU199107070",19,"ej,rothl101,C,bonig901,Balls and strikes Reds coach Larry Rothschild ejected by HP umpire Greg Bonin during Tom Browning's at bat","1991HOU.EVN.regular.comment.csv",11
-"HOU199107260",14,"Bob Walk left with strained right hamstring","1991HOU.EVN.regular.comment.csv",12
-"HOU199107260",24,"Andy Van Slyke left with muscle strain in left back","1991HOU.EVN.regular.comment.csv",13
-"HOU199107280",59,"Debut game for Jose Tolentino","1991HOU.EVN.regular.comment.csv",14
-"HOU199108050",34,"Bip Roberts left with sprained left wrist","1991HOU.EVN.regular.comment.csv",15
-"HOU199108080",22,"Debut game for Tony Eusebio","1991HOU.EVN.regular.comment.csv",16
-"HOU199108260",32,"Kevin McReynolds left with sprained left ankle","1991HOU.EVN.regular.comment.csv",17
-"HOU199109060",52,"$Pete Harnisch struck out the side on 9 pitches","1991HOU.EVN.regular.comment.csv",18
-"HOU199109080",11,"Debut game for Kim Batiste","1991HOU.EVN.regular.comment.csv",19
-"HOU199109080",56,"Ricky Jordan left game with pulled right hamstring","1991HOU.EVN.regular.comment.csv",20
-"HOU199109100",1,"Debut game for Chris Gardner","1991HOU.EVN.regular.comment.csv",21
-"HOU199109240",46,"ej,willb001,P,mcshj901,Intentional HBP ej,willm003,P,mcshj901,Charging mound $Brian Williams' pitch hit Matt Williams on the helmet; Matt charged the mound but was intercepted by catcher Craig Biggio; Matt and Brian Williams ejected by HP umpire John McSherry","1991HOU.EVN.regular.comment.csv",22
-"HOU199109250",74,"$Andujer Cedeno hit Terry Kennedy on elbow with bat","1991HOU.EVN.regular.comment.csv",23
-"HOU199109290",57,"ej,camik001,P,darlg901,Called third strike Ken Caminiti ejected by HP umpire Gary Darling","1991HOU.EVN.regular.comment.csv",24
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"HOU199104240",77,"$Eric Yelding called for interference","1991HOU.EVN.regular.comment.csv",2
+"HOU199104260",1,"$Jim Deshaies fielded bunt with his glove, tossed ball and ball hit runner","1991HOU.EVN.regular.comment.csv",3
+"HOU199104270",8,"$Ken Caminiti fouled a pitch off his foot","1991HOU.EVN.regular.comment.csv",4
+"HOU199104270",32,"Ken Caminiti left with bruised left foot","1991HOU.EVN.regular.comment.csv",5
+"HOU199104270",47,"$Jeff Treadway pulled hidden ball trick to pick off Eric Yelding","1991HOU.EVN.regular.comment.csv",6
+"HOU199105070",1,"Debut game for Bob Scanlan","1991HOU.EVN.regular.comment.csv",7
+"HOU199105080",53,"Mark McLemore left with strained right hamstring","1991HOU.EVN.regular.comment.csv",8
+"HOU199105230",0,"Debut for umpire Angel Hernandez","1991HOU.EVN.regular.comment.csv",9
+"HOU199105240",15,"Debut game for Jose Mota","1991HOU.EVN.regular.comment.csv",10
+"HOU199106250",58,"ej,pendt001,P,darlg901,Balls and strikes Terry Pendleton ejected by HP umpire Gary Darling","1991HOU.EVN.regular.comment.csv",11
+"HOU199107070",19,"ej,rothl101,C,bonig901,Balls and strikes Reds coach Larry Rothschild ejected by HP umpire Greg Bonin during Tom Browning's at bat","1991HOU.EVN.regular.comment.csv",12
+"HOU199107260",14,"Bob Walk left with strained right hamstring","1991HOU.EVN.regular.comment.csv",13
+"HOU199107260",24,"Andy Van Slyke left with muscle strain in left back","1991HOU.EVN.regular.comment.csv",14
+"HOU199107280",59,"Debut game for Jose Tolentino","1991HOU.EVN.regular.comment.csv",15
+"HOU199108050",34,"Bip Roberts left with sprained left wrist","1991HOU.EVN.regular.comment.csv",16
+"HOU199108080",22,"Debut game for Tony Eusebio","1991HOU.EVN.regular.comment.csv",17
+"HOU199108260",32,"Kevin McReynolds left with sprained left ankle","1991HOU.EVN.regular.comment.csv",18
+"HOU199109060",52,"$Pete Harnisch struck out the side on 9 pitches","1991HOU.EVN.regular.comment.csv",19
+"HOU199109080",11,"Debut game for Kim Batiste","1991HOU.EVN.regular.comment.csv",20
+"HOU199109080",56,"Ricky Jordan left game with pulled right hamstring","1991HOU.EVN.regular.comment.csv",21
+"HOU199109100",1,"Debut game for Chris Gardner","1991HOU.EVN.regular.comment.csv",22
+"HOU199109240",46,"ej,willb001,P,mcshj901,Intentional HBP ej,willm003,P,mcshj901,Charging mound $Brian Williams' pitch hit Matt Williams on the helmet; Matt charged the mound but was intercepted by catcher Craig Biggio; Matt and Brian Williams ejected by HP umpire John McSherry","1991HOU.EVN.regular.comment.csv",23
+"HOU199109250",74,"$Andujer Cedeno hit Terry Kennedy on elbow with bat","1991HOU.EVN.regular.comment.csv",24
+"HOU199109290",57,"ej,camik001,P,darlg901,Called third strike Ken Caminiti ejected by HP umpire Gary Darling","1991HOU.EVN.regular.comment.csv",25

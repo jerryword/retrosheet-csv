@@ -1,44 +1,45 @@
-"NYA195704280",23,"ej,mantm101,P,runge901,Balls and strikes Mickey Mantle ejected by HP umpire Ed Runge","FILENAME_TX","LINE_NUMBER_CT"
-"NYA195704280",27,"Jimmy Piersall called for interference","1957NYA.EVA.regular.comment.csv",2
-"NYA195704280",50,"ej,martb105,P,papaj901,Call at 2B Billy Martin ejected by 2B umpire Joe Paparella","1957NYA.EVA.regular.comment.csv",3
-"NYA195704280",53,"17 minute rain delay","1957NYA.EVA.regular.comment.csv",4
-"NYA195705170",8,"$400 feet","1957NYA.EVA.regular.comment.csv",5
-"NYA195705180",61,"$Frank House struck on the neck by a foul ball","1957NYA.EVA.regular.comment.csv",6
-"NYA195705240",0,"$Total attendance including Yankee Juniors was 10,458","1957NYA.EVA.regular.comment.csv",7
-"NYA195705240",19,"$430 feet","1957NYA.EVA.regular.comment.csv",8
-"NYA195705261",4,"$Roy Sievers out on appeal for missing 1B on apparent double","1957NYA.EVA.regular.comment.csv",9
-"NYA195705262",30,"$lights turned on","1957NYA.EVA.regular.comment.csv",10
-"NYA195705262",59,"$bad hop hit Billy Martin on the face","1957NYA.EVA.regular.comment.csv",11
-"NYA195706021",58,"49 minute rain delay","1957NYA.EVA.regular.comment.csv",12
-"NYA195706180",39,"$Andy Carey's drive took an eccentric carom off the LF wall and eluded Charlie Maxwell","1957NYA.EVA.regular.comment.csv",13
-"NYA195706200",63,"$hit on the kidney","1957NYA.EVA.regular.comment.csv",14
-"NYA195706200",69,"DIFF: per officials 0 CS; but NYA s/s CS","1957NYA.EVA.regular.comment.csv",15
-"NYA195706220",99,"$Tommy Byrne called for interference for running out of the baseline when the throw hit him","1957NYA.EVA.regular.comment.csv",16
-"NYA195706232",49,"$lights turned on","1957NYA.EVA.regular.comment.csv",17
-"NYA195706250",2,"umpchange,1,ump2b,(None) $2B umpire Jim Honochick left with severe pain due to a kidney infection","1957NYA.EVA.regular.comment.csv",18
-"NYA195706260",82,"ej,farrk101,M,stevj901,Catch/trap call $Indians manager Farrell ejected by 2B umpire Stevens for arguing that shortstop had dropped ball on force","1957NYA.EVA.regular.comment.csv",19
-"NYA195706290",3,"$foul ball popped out of Yogi Berra's mitt off Bill Skowron's chest $into Bobby Shantz's waiting glove","1957NYA.EVA.regular.comment.csv",20
-"NYA195706290",32,"$Athyletics manager Lou Boudreau argued Yogi Berra caught the foul tip off chest protector","1957NYA.EVA.regular.comment.csv",21
-"NYA195707030",23,"$Joe Collins pulled his left thigh muscle getting back to 1B","1957NYA.EVA.regular.comment.csv",22
-"NYA195707041",39,"$Gil McDougald broke for 2B while Dave Sisler was set; Sisler turned and threw him out at 2B with ease but he had not stepped off the rubber","1957NYA.EVA.regular.comment.csv",23
-"NYA195707042",44,"$Mickey Mantle twisted his knee sliding into HP","1957NYA.EVA.regular.comment.csv",24
-"NYA195707042",71,"$lights turned on","1957NYA.EVA.regular.comment.csv",25
-"NYA195707230",23,"$465 feet","1957NYA.EVA.regular.comment.csv",26
-"NYA195707260",48,"$Charlie Maxwell injured his ribs in the fifth","1957NYA.EVA.regular.comment.csv",27
-"NYA195707270",14,"$Yogi Berra wore his glasses to bat for the 1st time in a game","1957NYA.EVA.regular.comment.csv",28
-"NYA195707270",57,"$Duke Maas developed swelling in the right middle finger","1957NYA.EVA.regular.comment.csv",29
-"NYA195707282",37,"ej,kuenh101,P,tabaf901,Call at 1B ej,tighj801,M,tabaf901,Call at 1B Harvey Kuenn and Tigers Manager Jack Tighe ejected by 1B umpire Frank Tabacchi","1957NYA.EVA.regular.comment.csv",30
-"NYA195707300",72,"$lights turned on","1957NYA.EVA.regular.comment.csv",31
-"NYA195708041",0,"$1:35 rain delay before start of game","1957NYA.EVA.regular.comment.csv",32
-"NYA195708042",9,"$lights turned on","1957NYA.EVA.regular.comment.csv",33
-"NYA195708042",61,"ej,farrk101,M,hurle901,Balls and strikes $Indians manager Farrell ejected by HP umpire Hurley for arguing balls and strikes","1957NYA.EVA.regular.comment.csv",34
-"NYA195708050",40,"$lights turned on","1957NYA.EVA.regular.comment.csv",35
-"NYA195708070",23,"$Bobby Richardson injured a thigh muscle on Pete Runnels' grounder","1957NYA.EVA.regular.comment.csv",36
-"NYA195708070",32,"$Camilo Pascual left with tightness in shoulder","1957NYA.EVA.regular.comment.csv",37
-"NYA195708070",65,"$the homer came one pitch after fouling one off his foot that delayed the game several minutes","1957NYA.EVA.regular.comment.csv",38
-"NYA195708182",7,"$lights turned on","1957NYA.EVA.regular.comment.csv",39
-"NYA195708300",13,"$Hank Bauer fractured his thumb sliding into 3B but didn't know it until after the game","1957NYA.EVA.regular.comment.csv",40
-"NYA195708310",18,"fan interference","1957NYA.EVA.regular.comment.csv",41
-"NYA195709050",73,"$350 feet","1957NYA.EVA.regular.comment.csv",42
-"NYA195709111",31,"ej,wertv101,P,hurle901,Call at 1B Vic Wertz ejected by 1B umpire Eddie Hurley arguing Jerry Lumpe missed 1B","1957NYA.EVA.regular.comment.csv",43
-"NYA195709220",24,"$fourth HR in 4 official at bats","1957NYA.EVA.regular.comment.csv",44
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"NYA195704280",23,"ej,mantm101,P,runge901,Balls and strikes Mickey Mantle ejected by HP umpire Ed Runge","1957NYA.EVA.regular.comment.csv",2
+"NYA195704280",27,"Jimmy Piersall called for interference","1957NYA.EVA.regular.comment.csv",3
+"NYA195704280",50,"ej,martb105,P,papaj901,Call at 2B Billy Martin ejected by 2B umpire Joe Paparella","1957NYA.EVA.regular.comment.csv",4
+"NYA195704280",53,"17 minute rain delay","1957NYA.EVA.regular.comment.csv",5
+"NYA195705170",8,"$400 feet","1957NYA.EVA.regular.comment.csv",6
+"NYA195705180",61,"$Frank House struck on the neck by a foul ball","1957NYA.EVA.regular.comment.csv",7
+"NYA195705240",0,"$Total attendance including Yankee Juniors was 10,458","1957NYA.EVA.regular.comment.csv",8
+"NYA195705240",19,"$430 feet","1957NYA.EVA.regular.comment.csv",9
+"NYA195705261",4,"$Roy Sievers out on appeal for missing 1B on apparent double","1957NYA.EVA.regular.comment.csv",10
+"NYA195705262",30,"$lights turned on","1957NYA.EVA.regular.comment.csv",11
+"NYA195705262",59,"$bad hop hit Billy Martin on the face","1957NYA.EVA.regular.comment.csv",12
+"NYA195706021",58,"49 minute rain delay","1957NYA.EVA.regular.comment.csv",13
+"NYA195706180",39,"$Andy Carey's drive took an eccentric carom off the LF wall and eluded Charlie Maxwell","1957NYA.EVA.regular.comment.csv",14
+"NYA195706200",63,"$hit on the kidney","1957NYA.EVA.regular.comment.csv",15
+"NYA195706200",69,"DIFF: per officials 0 CS; but NYA s/s CS","1957NYA.EVA.regular.comment.csv",16
+"NYA195706220",99,"$Tommy Byrne called for interference for running out of the baseline when the throw hit him","1957NYA.EVA.regular.comment.csv",17
+"NYA195706232",49,"$lights turned on","1957NYA.EVA.regular.comment.csv",18
+"NYA195706250",2,"umpchange,1,ump2b,(None) $2B umpire Jim Honochick left with severe pain due to a kidney infection","1957NYA.EVA.regular.comment.csv",19
+"NYA195706260",82,"ej,farrk101,M,stevj901,Catch/trap call $Indians manager Farrell ejected by 2B umpire Stevens for arguing that shortstop had dropped ball on force","1957NYA.EVA.regular.comment.csv",20
+"NYA195706290",3,"$foul ball popped out of Yogi Berra's mitt off Bill Skowron's chest $into Bobby Shantz's waiting glove","1957NYA.EVA.regular.comment.csv",21
+"NYA195706290",32,"$Athyletics manager Lou Boudreau argued Yogi Berra caught the foul tip off chest protector","1957NYA.EVA.regular.comment.csv",22
+"NYA195707030",23,"$Joe Collins pulled his left thigh muscle getting back to 1B","1957NYA.EVA.regular.comment.csv",23
+"NYA195707041",39,"$Gil McDougald broke for 2B while Dave Sisler was set; Sisler turned and threw him out at 2B with ease but he had not stepped off the rubber","1957NYA.EVA.regular.comment.csv",24
+"NYA195707042",44,"$Mickey Mantle twisted his knee sliding into HP","1957NYA.EVA.regular.comment.csv",25
+"NYA195707042",71,"$lights turned on","1957NYA.EVA.regular.comment.csv",26
+"NYA195707230",23,"$465 feet","1957NYA.EVA.regular.comment.csv",27
+"NYA195707260",48,"$Charlie Maxwell injured his ribs in the fifth","1957NYA.EVA.regular.comment.csv",28
+"NYA195707270",14,"$Yogi Berra wore his glasses to bat for the 1st time in a game","1957NYA.EVA.regular.comment.csv",29
+"NYA195707270",57,"$Duke Maas developed swelling in the right middle finger","1957NYA.EVA.regular.comment.csv",30
+"NYA195707282",37,"ej,kuenh101,P,tabaf901,Call at 1B ej,tighj801,M,tabaf901,Call at 1B Harvey Kuenn and Tigers Manager Jack Tighe ejected by 1B umpire Frank Tabacchi","1957NYA.EVA.regular.comment.csv",31
+"NYA195707300",72,"$lights turned on","1957NYA.EVA.regular.comment.csv",32
+"NYA195708041",0,"$1:35 rain delay before start of game","1957NYA.EVA.regular.comment.csv",33
+"NYA195708042",9,"$lights turned on","1957NYA.EVA.regular.comment.csv",34
+"NYA195708042",61,"ej,farrk101,M,hurle901,Balls and strikes $Indians manager Farrell ejected by HP umpire Hurley for arguing balls and strikes","1957NYA.EVA.regular.comment.csv",35
+"NYA195708050",40,"$lights turned on","1957NYA.EVA.regular.comment.csv",36
+"NYA195708070",23,"$Bobby Richardson injured a thigh muscle on Pete Runnels' grounder","1957NYA.EVA.regular.comment.csv",37
+"NYA195708070",32,"$Camilo Pascual left with tightness in shoulder","1957NYA.EVA.regular.comment.csv",38
+"NYA195708070",65,"$the homer came one pitch after fouling one off his foot that delayed the game several minutes","1957NYA.EVA.regular.comment.csv",39
+"NYA195708182",7,"$lights turned on","1957NYA.EVA.regular.comment.csv",40
+"NYA195708300",13,"$Hank Bauer fractured his thumb sliding into 3B but didn't know it until after the game","1957NYA.EVA.regular.comment.csv",41
+"NYA195708310",18,"fan interference","1957NYA.EVA.regular.comment.csv",42
+"NYA195709050",73,"$350 feet","1957NYA.EVA.regular.comment.csv",43
+"NYA195709111",31,"ej,wertv101,P,hurle901,Call at 1B Vic Wertz ejected by 1B umpire Eddie Hurley arguing Jerry Lumpe missed 1B","1957NYA.EVA.regular.comment.csv",44
+"NYA195709220",24,"$fourth HR in 4 official at bats","1957NYA.EVA.regular.comment.csv",45

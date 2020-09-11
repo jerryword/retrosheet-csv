@@ -1,17 +1,18 @@
-"HOU196605030",47,"Debut game for Bill Connors","FILENAME_TX","LINE_NUMBER_CT"
-"HOU196605040",50,"missing play in HOU196605040","1966HOU.EVN.regular.comment.csv",2
-"HOU196605050",48,"ej,batej102,P,pelec901,Balls and strikes $Catcher Bateman ejected by HP umpire Pelekoudas for arguing balls and strikes","1966HOU.EVN.regular.comment.csv",3
-"HOU196605200",56,"ej,hattg101,M,pryop901,Unknown reason $Astros manager Hatton ejected by HP umpire Pryor sometime in 7th inning for unknown reason","1966HOU.EVN.regular.comment.csv",4
-"HOU196605210",34,"$Mike Cuellar left with injury","1966HOU.EVN.regular.comment.csv",5
-"HOU196605240",59,"ej,westw101,M,pryop901,Balls and strikes Mets Manager Wes Westrum ejected by HP umpire Paul Pryor","1966HOU.EVN.regular.comment.csv",6
-"HOU196606110",17,"$Adolfo Phillips ninth consecutive strikeout","1966HOU.EVN.regular.comment.csv",7
-"HOU196606120",60,"ej,gentj101,P,varge901,Called third strike Jim Gentile ejected by HP umpire Ed Vargo","1966HOU.EVN.regular.comment.csv",8
-"HOU196606220",17,"$Johyn Bateman out on appeal for leaving 3B too soon","1966HOU.EVN.regular.comment.csv",9
-"HOU196607021",67,"ej,asprb101,P,secof101,Called third strike Bob Aspromonte ejected by HP umpire Frank Secory","1966HOU.EVN.regular.comment.csv",10
-"HOU196607050",0,"ej,hattg101,M,burkk101,Unknown reason $Astros manager Hatton ejected by 1B umpire Burkhart for unknown reason sometime in game","1966HOU.EVN.regular.comment.csv",11
-"HOU196607190",54,"Debut game for John Morris","1966HOU.EVN.regular.comment.csv",12
-"HOU196607230",31,"ej,asprb101,P,kiblj901,Call at 1B Bob Aspromonte ejected by 1B umpire John Kibler","1966HOU.EVN.regular.comment.csv",13
-"HOU196608240",52,"ej,hattg101,M,burkk101,Length of visit to mound $Astros manager Hatton ejected by HP umpire Burkhart after being told to hurry up visit to mound","1966HOU.EVN.regular.comment.csv",14
-"HOU196608270",55,"Debut game for Len Church","1966HOU.EVN.regular.comment.csv",15
-"HOU196609170",16,"$off Larry Dierker's leg into foul territory","1966HOU.EVN.regular.comment.csv",16
-"HOU196609170",64,"Debut game for Gary Sutherland","1966HOU.EVN.regular.comment.csv",17
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"HOU196605030",47,"Debut game for Bill Connors","1966HOU.EVN.regular.comment.csv",2
+"HOU196605040",50,"missing play in HOU196605040","1966HOU.EVN.regular.comment.csv",3
+"HOU196605050",48,"ej,batej102,P,pelec901,Balls and strikes $Catcher Bateman ejected by HP umpire Pelekoudas for arguing balls and strikes","1966HOU.EVN.regular.comment.csv",4
+"HOU196605200",56,"ej,hattg101,M,pryop901,Unknown reason $Astros manager Hatton ejected by HP umpire Pryor sometime in 7th inning for unknown reason","1966HOU.EVN.regular.comment.csv",5
+"HOU196605210",34,"$Mike Cuellar left with injury","1966HOU.EVN.regular.comment.csv",6
+"HOU196605240",59,"ej,westw101,M,pryop901,Balls and strikes Mets Manager Wes Westrum ejected by HP umpire Paul Pryor","1966HOU.EVN.regular.comment.csv",7
+"HOU196606110",17,"$Adolfo Phillips ninth consecutive strikeout","1966HOU.EVN.regular.comment.csv",8
+"HOU196606120",60,"ej,gentj101,P,varge901,Called third strike Jim Gentile ejected by HP umpire Ed Vargo","1966HOU.EVN.regular.comment.csv",9
+"HOU196606220",17,"$Johyn Bateman out on appeal for leaving 3B too soon","1966HOU.EVN.regular.comment.csv",10
+"HOU196607021",67,"ej,asprb101,P,secof101,Called third strike Bob Aspromonte ejected by HP umpire Frank Secory","1966HOU.EVN.regular.comment.csv",11
+"HOU196607050",0,"ej,hattg101,M,burkk101,Unknown reason $Astros manager Hatton ejected by 1B umpire Burkhart for unknown reason sometime in game","1966HOU.EVN.regular.comment.csv",12
+"HOU196607190",54,"Debut game for John Morris","1966HOU.EVN.regular.comment.csv",13
+"HOU196607230",31,"ej,asprb101,P,kiblj901,Call at 1B Bob Aspromonte ejected by 1B umpire John Kibler","1966HOU.EVN.regular.comment.csv",14
+"HOU196608240",52,"ej,hattg101,M,burkk101,Length of visit to mound $Astros manager Hatton ejected by HP umpire Burkhart after being told to hurry up visit to mound","1966HOU.EVN.regular.comment.csv",15
+"HOU196608270",55,"Debut game for Len Church","1966HOU.EVN.regular.comment.csv",16
+"HOU196609170",16,"$off Larry Dierker's leg into foul territory","1966HOU.EVN.regular.comment.csv",17
+"HOU196609170",64,"Debut game for Gary Sutherland","1966HOU.EVN.regular.comment.csv",18

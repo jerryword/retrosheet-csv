@@ -1,28 +1,29 @@
-"KC1195504120",0,"$First major league game played in Municipal Stadium; former President Harry Truman threw out the ceremonial pitch to A's Joe Astroth","FILENAME_TX","LINE_NUMBER_CT"
-"KC1195504130",45,"$Frank House injured in collision at 2B","1955KC1.EVA.regular.comment.csv",2
-"KC1195504240",48,"$Nellie Fox struck on eye by ball","1955KC1.EVA.regular.comment.csv",3
-"KC1195504270",28,"390 feet","1955KC1.EVA.regular.comment.csv",4
-"KC1195505010",80,"ej,vernm101,P,romme101,Call at 1B Mickey Vernon ejected by 1B umpire Eddie Rommel","1955KC1.EVA.regular.comment.csv",5
-"KC1195505240",1,"$Harvey Kuenn injured","1955KC1.EVA.regular.comment.csv",6
-"KC1195505250",22,"$Ferris Fain rounded 2B too far","1955KC1.EVA.regular.comment.csv",7
-"KC1195506040",37,"$missed squeeze","1955KC1.EVA.regular.comment.csv",8
-"KC1195506040",63,"ej,boudl101,M,flahr901,Balls and strikes $Athletics manager Boudreau ejected by HP umpire Flaherty for arguing strike call to Lopez","1955KC1.EVA.regular.comment.csv",9
-"KC1195506051",0,"$1:17 rain delay before start of game","1955KC1.EVA.regular.comment.csv",10
-"KC1195506051",83,"30 minute rain delay with a 1-2 count on Jim Finigan","1955KC1.EVA.regular.comment.csv",11
-"KC1195506071",48,"$Camilo Pascual called for interference for running into his own batted ball","1955KC1.EVA.regular.comment.csv",12
-"KC1195506072",45,"$Carlos Paula hit an intentional ball","1955KC1.EVA.regular.comment.csv",13
-"KC1195506080",44,"$the Senators started throwing the ball around then Joe DeMaestri ran","1955KC1.EVA.regular.comment.csv",14
-"KC1195507160",17,"missing play in KC1195507160","1955KC1.EVA.regular.comment.csv",15
-"KC1195507160",38,"ej,edwab101,P,hurle901,Called strike 3 ej,dresc101,M,hurle901,Called strike 3 $Edwards and Washington manager Dressen ejected by HP umpire Hurley for arguing called strike 3","1955KC1.EVA.regular.comment.csv",16
-"KC1195507200",0,"$Before the game, Connie Mack surrounded by all-star team of former players was given a plaque by his son Roy and KC owner Arnold Johnson; players present: Mickey Cochrane, Jimmie Foxx, Asst Phillies GM Eddie Collins Jr representing his father, Home Run Baker, Jack Barry, Al Simmons, Mule Haas, Bing Miller and Lefty Grove","1955KC1.EVA.regular.comment.csv",17
-"KC1195507230",68,"425 feet","1955KC1.EVA.regular.comment.csv",18
-"KC1195507242",1,"$DWS: bogus FLE3 but Power needs error","1955KC1.EVA.regular.comment.csv",19
-"KC1195508230",36,"Towering drive over LF fence","1955KC1.EVA.regular.comment.csv",20
-"KC1195508230",47,"Over LCF fence","1955KC1.EVA.regular.comment.csv",21
-"KC1195508230",48,"Over LF fence","1955KC1.EVA.regular.comment.csv",22
-"KC1195508230",52,"Bounced over Yost with infield in","1955KC1.EVA.regular.comment.csv",23
-"KC1195508230",67,"Infield in","1955KC1.EVA.regular.comment.csv",24
-"KC1195508230",68,"Tagged out by Power","1955KC1.EVA.regular.comment.csv",25
-"KC1195508250",24,"375 feet","1955KC1.EVA.regular.comment.csv",26
-"KC1195509030",82,"$Bill Wilson's only pitching appearance","1955KC1.EVA.regular.comment.csv",27
-"KC1195509180",57,"$Astroth held third as throw came to plate, but Lollar tried to get Power advancing to second; Power was safe at 2nd and Astroth scored - no RBI","1955KC1.EVA.regular.comment.csv",28
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"KC1195504120",0,"$First major league game played in Municipal Stadium; former President Harry Truman threw out the ceremonial pitch to A's Joe Astroth","1955KC1.EVA.regular.comment.csv",2
+"KC1195504130",45,"$Frank House injured in collision at 2B","1955KC1.EVA.regular.comment.csv",3
+"KC1195504240",48,"$Nellie Fox struck on eye by ball","1955KC1.EVA.regular.comment.csv",4
+"KC1195504270",28,"390 feet","1955KC1.EVA.regular.comment.csv",5
+"KC1195505010",80,"ej,vernm101,P,romme101,Call at 1B Mickey Vernon ejected by 1B umpire Eddie Rommel","1955KC1.EVA.regular.comment.csv",6
+"KC1195505240",1,"$Harvey Kuenn injured","1955KC1.EVA.regular.comment.csv",7
+"KC1195505250",22,"$Ferris Fain rounded 2B too far","1955KC1.EVA.regular.comment.csv",8
+"KC1195506040",37,"$missed squeeze","1955KC1.EVA.regular.comment.csv",9
+"KC1195506040",63,"ej,boudl101,M,flahr901,Balls and strikes $Athletics manager Boudreau ejected by HP umpire Flaherty for arguing strike call to Lopez","1955KC1.EVA.regular.comment.csv",10
+"KC1195506051",0,"$1:17 rain delay before start of game","1955KC1.EVA.regular.comment.csv",11
+"KC1195506051",83,"30 minute rain delay with a 1-2 count on Jim Finigan","1955KC1.EVA.regular.comment.csv",12
+"KC1195506071",48,"$Camilo Pascual called for interference for running into his own batted ball","1955KC1.EVA.regular.comment.csv",13
+"KC1195506072",45,"$Carlos Paula hit an intentional ball","1955KC1.EVA.regular.comment.csv",14
+"KC1195506080",44,"$the Senators started throwing the ball around then Joe DeMaestri ran","1955KC1.EVA.regular.comment.csv",15
+"KC1195507160",17,"missing play in KC1195507160","1955KC1.EVA.regular.comment.csv",16
+"KC1195507160",38,"ej,edwab101,P,hurle901,Called strike 3 ej,dresc101,M,hurle901,Called strike 3 $Edwards and Washington manager Dressen ejected by HP umpire Hurley for arguing called strike 3","1955KC1.EVA.regular.comment.csv",17
+"KC1195507200",0,"$Before the game, Connie Mack surrounded by all-star team of former players was given a plaque by his son Roy and KC owner Arnold Johnson; players present: Mickey Cochrane, Jimmie Foxx, Asst Phillies GM Eddie Collins Jr representing his father, Home Run Baker, Jack Barry, Al Simmons, Mule Haas, Bing Miller and Lefty Grove","1955KC1.EVA.regular.comment.csv",18
+"KC1195507230",68,"425 feet","1955KC1.EVA.regular.comment.csv",19
+"KC1195507242",1,"$DWS: bogus FLE3 but Power needs error","1955KC1.EVA.regular.comment.csv",20
+"KC1195508230",36,"Towering drive over LF fence","1955KC1.EVA.regular.comment.csv",21
+"KC1195508230",47,"Over LCF fence","1955KC1.EVA.regular.comment.csv",22
+"KC1195508230",48,"Over LF fence","1955KC1.EVA.regular.comment.csv",23
+"KC1195508230",52,"Bounced over Yost with infield in","1955KC1.EVA.regular.comment.csv",24
+"KC1195508230",67,"Infield in","1955KC1.EVA.regular.comment.csv",25
+"KC1195508230",68,"Tagged out by Power","1955KC1.EVA.regular.comment.csv",26
+"KC1195508250",24,"375 feet","1955KC1.EVA.regular.comment.csv",27
+"KC1195509030",82,"$Bill Wilson's only pitching appearance","1955KC1.EVA.regular.comment.csv",28
+"KC1195509180",57,"$Astroth held third as throw came to plate, but Lollar tried to get Power advancing to second; Power was safe at 2nd and Astroth scored - no RBI","1955KC1.EVA.regular.comment.csv",29

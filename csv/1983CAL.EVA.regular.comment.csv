@@ -1,20 +1,21 @@
-"CAL198304300",24,"Tommy John left with unknown injury","FILENAME_TX","LINE_NUMBER_CT"
-"CAL198304300",77,"$Dwight Evans called for interference","1983CAL.EVA.regular.comment.csv",2
-"CAL198305010",41,"ej,houkr101,M,clara901,Balls and strikes $Red Sox manager Ralph Houk ejected by HP umpire Al Clark for arguing balls and strikes","1983CAL.EVA.regular.comment.csv",3
-"CAL198305010",91,"ej,boonb001,P,clara901,Arguing that DP grounder was foul off foot $Boone ejected by HP umpire Clark for arguing that grounder hit his foot and therefore there should have been no DP","1983CAL.EVA.regular.comment.csv",4
-"CAL198305150",76,"timing assumed","1983CAL.EVA.regular.comment.csv",5
-"CAL198306070",59,"game delayed at 9:42 due to a light failure in LF; 20 minute delay","1983CAL.EVA.regular.comment.csv",6
-"CAL198306100",49,"Debut game for Curt Brown","1983CAL.EVA.regular.comment.csv",7
-"CAL198306300",38,"Wayne Tolleson injured in collision with Ron Jackson at HP","1983CAL.EVA.regular.comment.csv",8
-"CAL198307020",29,"ej,folit001,P,johnm901,Charging mound $Tim Foli fouled off the second pitch that was up and in; he charged the mound and traded punches with pitcher Larry Gura; both benches cleared; Foli ejected by HP umpire Mark Johnson; Foli was then charged with the strikeout due to the 0-2 count when he was replaced","1983CAL.EVA.regular.comment.csv",9
-"CAL198307211",14,"Debut game for Mike Brown","1983CAL.EVA.regular.comment.csv",10
-"CAL198307212",30,"ej,mcnaj801,M,garcr901,Arguing batter was out of box $Angels manager McNamara ejected by HP umpire Garcia for arguing that Lemon should be called out for being out ofmbox","1983CAL.EVA.regular.comment.csv",11
-"CAL198307250",31,"ej,mcnaj801,M,garcr901,Balls and strikes Angels manager John McNamara ejected by HP umpire Richie Garcia","1983CAL.EVA.regular.comment.csv",12
-"CAL198308130",6,"ej,burlr001,P,kaisk901,Fighting $Angels Burleson, not in game, ejected by HP umpire Kaiser when he charged out of dugout and tackled pitcher Clark; benches cleared and Burleson suffered dislocated right shoulder when tackled by SS Owen","1983CAL.EVA.regular.comment.csv",13
-"CAL198308130",7,"ej,clarb001,P,kaisk901,Fighting ej,carer001,P,kaisk901,Fighting ej,cowea001,P,kaisk901,Fighting $Carew, and pitcher Clark ejected by HP umpire Kaiser for fighting; as he ran past the mound after grounding out, Carew exchanged words with the pitcher and they began to fight; both benches emptied again; Cowens of the Mariners, who was on the DL, ran out of clubhouse to join the brawl wearing his underwear and shower shoes","1983CAL.EVA.regular.comment.csv",14
-"CAL198308260",57,"SB may be with Griffey at bat","1983CAL.EVA.regular.comment.csv",15
-"CAL198308270",37,"$Willie Randolph called for interference for running into his own batted ball","1983CAL.EVA.regular.comment.csv",16
-"CAL198308270",61,"WP may be with Randolph at bat","1983CAL.EVA.regular.comment.csv",17
-"CAL198308300",0,"$Both teams warned about brushback pitches sometime in first inning","1983CAL.EVA.regular.comment.csv",18
-"CAL198308300",31,"ej,sutcr001,P,evanj901,Throwing at Daryl Sconiers ej,corrp102,M,evanj901,Automatic ejection after warning Pitcher Sutcliffe and manager Corrales ejected by umpire $Evans for throwing Sconiers; ejection was automatic due to earlier warning","1983CAL.EVA.regular.comment.csv",19
-"CAL198309040",66,"Debut game for Randy Ready","1983CAL.EVA.regular.comment.csv",20
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"CAL198304300",24,"Tommy John left with unknown injury","1983CAL.EVA.regular.comment.csv",2
+"CAL198304300",77,"$Dwight Evans called for interference","1983CAL.EVA.regular.comment.csv",3
+"CAL198305010",41,"ej,houkr101,M,clara901,Balls and strikes $Red Sox manager Ralph Houk ejected by HP umpire Al Clark for arguing balls and strikes","1983CAL.EVA.regular.comment.csv",4
+"CAL198305010",91,"ej,boonb001,P,clara901,Arguing that DP grounder was foul off foot $Boone ejected by HP umpire Clark for arguing that grounder hit his foot and therefore there should have been no DP","1983CAL.EVA.regular.comment.csv",5
+"CAL198305150",76,"timing assumed","1983CAL.EVA.regular.comment.csv",6
+"CAL198306070",59,"game delayed at 9:42 due to a light failure in LF; 20 minute delay","1983CAL.EVA.regular.comment.csv",7
+"CAL198306100",49,"Debut game for Curt Brown","1983CAL.EVA.regular.comment.csv",8
+"CAL198306300",38,"Wayne Tolleson injured in collision with Ron Jackson at HP","1983CAL.EVA.regular.comment.csv",9
+"CAL198307020",29,"ej,folit001,P,johnm901,Charging mound $Tim Foli fouled off the second pitch that was up and in; he charged the mound and traded punches with pitcher Larry Gura; both benches cleared; Foli ejected by HP umpire Mark Johnson; Foli was then charged with the strikeout due to the 0-2 count when he was replaced","1983CAL.EVA.regular.comment.csv",10
+"CAL198307211",14,"Debut game for Mike Brown","1983CAL.EVA.regular.comment.csv",11
+"CAL198307212",30,"ej,mcnaj801,M,garcr901,Arguing batter was out of box $Angels manager McNamara ejected by HP umpire Garcia for arguing that Lemon should be called out for being out ofmbox","1983CAL.EVA.regular.comment.csv",12
+"CAL198307250",31,"ej,mcnaj801,M,garcr901,Balls and strikes Angels manager John McNamara ejected by HP umpire Richie Garcia","1983CAL.EVA.regular.comment.csv",13
+"CAL198308130",6,"ej,burlr001,P,kaisk901,Fighting $Angels Burleson, not in game, ejected by HP umpire Kaiser when he charged out of dugout and tackled pitcher Clark; benches cleared and Burleson suffered dislocated right shoulder when tackled by SS Owen","1983CAL.EVA.regular.comment.csv",14
+"CAL198308130",7,"ej,clarb001,P,kaisk901,Fighting ej,carer001,P,kaisk901,Fighting ej,cowea001,P,kaisk901,Fighting $Carew, and pitcher Clark ejected by HP umpire Kaiser for fighting; as he ran past the mound after grounding out, Carew exchanged words with the pitcher and they began to fight; both benches emptied again; Cowens of the Mariners, who was on the DL, ran out of clubhouse to join the brawl wearing his underwear and shower shoes","1983CAL.EVA.regular.comment.csv",15
+"CAL198308260",57,"SB may be with Griffey at bat","1983CAL.EVA.regular.comment.csv",16
+"CAL198308270",37,"$Willie Randolph called for interference for running into his own batted ball","1983CAL.EVA.regular.comment.csv",17
+"CAL198308270",61,"WP may be with Randolph at bat","1983CAL.EVA.regular.comment.csv",18
+"CAL198308300",0,"$Both teams warned about brushback pitches sometime in first inning","1983CAL.EVA.regular.comment.csv",19
+"CAL198308300",31,"ej,sutcr001,P,evanj901,Throwing at Daryl Sconiers ej,corrp102,M,evanj901,Automatic ejection after warning Pitcher Sutcliffe and manager Corrales ejected by umpire $Evans for throwing Sconiers; ejection was automatic due to earlier warning","1983CAL.EVA.regular.comment.csv",20
+"CAL198309040",66,"Debut game for Randy Ready","1983CAL.EVA.regular.comment.csv",21

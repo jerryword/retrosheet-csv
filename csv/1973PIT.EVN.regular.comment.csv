@@ -1,40 +1,41 @@
-"PIT197304060",0,"Debut for umpire Terry Tata","FILENAME_TX","LINE_NUMBER_CT"
-"PIT197304082",46,"Debut game for John Andrews","1973PIT.EVN.regular.comment.csv",2
-"PIT197305110",45,"$Jerry Grote hit by Vic Davalillo foul ball; 5 minute delay; later diagnosed as broken arm, out six weeks","1973PIT.EVN.regular.comment.csv",3
-"PIT197305140",0,"31 minute rain delay sometime in game","1973PIT.EVN.regular.comment.csv",4
-"PIT197305150",61,"Milt May was hit by foul ball in sixth","1973PIT.EVN.regular.comment.csv",5
-"PIT197305150",101,"Ramon Hernandez left game with sore elbow","1973PIT.EVN.regular.comment.csv",6
-"PIT197305280",36,"$Doug Rader called for obstruction on Dock Ellis","1973PIT.EVN.regular.comment.csv",7
-"PIT197305290",32,"Dave Cash left after hitting foul off shin bone","1973PIT.EVN.regular.comment.csv",8
-"PIT197305310",61,"upper deck","1973PIT.EVN.regular.comment.csv",9
-"PIT197306010",77,"$Jackie Hernandez called for interference","1973PIT.EVN.regular.comment.csv",10
-"PIT197306020",12,"Jack Billingham left with bruised left knee","1973PIT.EVN.regular.comment.csv",11
-"PIT197306060",58,"ej,rookj101,P,varge901,Balls and strikes (after removal) Jim Rooker ejected by HP umpire Ed Vargo yelling about balls and strikes after being removed","1973PIT.EVN.regular.comment.csv",12
-"PIT197306210",49,"ej,berry101,M,gormt101,Call at HP Mets Manager Yogi Berra ejected by HP umpire Tom Gorman","1973PIT.EVN.regular.comment.csv",13
-"PIT197306210",66,"$Gene Clines slid into catcher Duffy Dyer, causing throw to 1B to sail RF; Rusty Staub retrieved the ball and threw to Jim Fregosi, who tagged Al Oliver, who had rounded 2B too far","1973PIT.EVN.regular.comment.csv",14
-"PIT197306240",21,"Richie Hebner left with vision problems","1973PIT.EVN.regular.comment.csv",15
-"PIT197306290",5,"$Gene Clines suffered lacerated right upper eyelid when hit by own foul ball","1973PIT.EVN.regular.comment.csv",16
-"PIT197306300",21,"Nelson Briles hit below right elbow","1973PIT.EVN.regular.comment.csv",17
-"PIT197307011",39,"ej,dobyl101,C,donaa901,Call at 1B Expos Coach Larry Doby ejected by 1B umpire Augie Donatelli","1973PIT.EVN.regular.comment.csv",18
-"PIT197307012",9,"ej,hebnr001,P,donaa901,Call at HP ej,virdb101,M,donaa901,Call at HP Richie Hebner and Pirates Manager Bill Virdon ejected by HP umpire Augie Donatelli; coach Don Leppert runs Pirates","1973PIT.EVN.regular.comment.csv",19
-"PIT197307201",1,"Debut game for John Morlan","1973PIT.EVN.regular.comment.csv",20
-"PIT197307202",0,"27 minute delay rain before start of game; 28 minute rain delay later","1973PIT.EVN.regular.comment.csv",21
-"PIT197307280",45,"$Jose Pagan rounded 2B too far","1973PIT.EVN.regular.comment.csv",22
-"PIT197308100",10,"last two plays one play","1973PIT.EVN.regular.comment.csv",23
-"PIT197308110",0,"16 minute rain delay sometime in game","1973PIT.EVN.regular.comment.csv",24
-"PIT197308130",40,"ej,andes101,M,engeb901,Refusing to leave mound $Reds Manager Sparky Anderson had a long mound conference and HP umpire Bob Engel told him to go back to the bench; this grew to an argument and Anderson was ejected by Engel","1973PIT.EVN.regular.comment.csv",25
-"PIT197308170",0,"68 minute rain delay before start of game","1973PIT.EVN.regular.comment.csv",26
-"PIT197308312",18,"Debut game for Tom Lundstedt","1973PIT.EVN.regular.comment.csv",27
-"PIT197309031",71,"Debut game for Dave Augustine","1973PIT.EVN.regular.comment.csv",28
-"PIT197309032",60,"$Terry Hughes doubled off LF wall but was called out on appeal for missing 1B","1973PIT.EVN.regular.comment.csv",29
-"PIT197309040",58,"Debut game for Tommy Cruz","1973PIT.EVN.regular.comment.csv",30
-"PIT197309040",62,"$Dave Giusti tagged Lou Brock at HP and dropped the ball; when Brock was ruled safe by HP umpire Ed Vargo, an argument ensued","1973PIT.EVN.regular.comment.csv",31
-"PIT197309050",0,"10 minute rain delay before start of game","1973PIT.EVN.regular.comment.csv",32
-"PIT197309050",16,"55 minute rain delay","1973PIT.EVN.regular.comment.csv",33
-"PIT197309170",41,"1:15 rain delay","1973PIT.EVN.regular.comment.csv",34
-"PIT197309170",55,"Jerry Grote left with injury; unclear if this is right play","1973PIT.EVN.regular.comment.csv",35
-"PIT197309180",80,"Debut game for Bob Apodaca","1973PIT.EVN.regular.comment.csv",36
-"PIT197309260",76,"ej,robib101,P,froeb901,Balls and strikes Bill Robinson ejected by HP umpire Bruce Froemming","1973PIT.EVN.regular.comment.csv",37
-"PIT197309270",97,"$Chris Zachary tried to walk Bob Boone intentionally, but the first pitch was too close and Boone singled","1973PIT.EVN.regular.comment.csv",38
-"PIT197309280",0,"36 minute rain delay before start of game","1973PIT.EVN.regular.comment.csv",39
-"PIT197309290",14,"$Milt May injured by John Boccabella","1973PIT.EVN.regular.comment.csv",40
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"PIT197304060",0,"Debut for umpire Terry Tata","1973PIT.EVN.regular.comment.csv",2
+"PIT197304082",46,"Debut game for John Andrews","1973PIT.EVN.regular.comment.csv",3
+"PIT197305110",45,"$Jerry Grote hit by Vic Davalillo foul ball; 5 minute delay; later diagnosed as broken arm, out six weeks","1973PIT.EVN.regular.comment.csv",4
+"PIT197305140",0,"31 minute rain delay sometime in game","1973PIT.EVN.regular.comment.csv",5
+"PIT197305150",61,"Milt May was hit by foul ball in sixth","1973PIT.EVN.regular.comment.csv",6
+"PIT197305150",101,"Ramon Hernandez left game with sore elbow","1973PIT.EVN.regular.comment.csv",7
+"PIT197305280",36,"$Doug Rader called for obstruction on Dock Ellis","1973PIT.EVN.regular.comment.csv",8
+"PIT197305290",32,"Dave Cash left after hitting foul off shin bone","1973PIT.EVN.regular.comment.csv",9
+"PIT197305310",61,"upper deck","1973PIT.EVN.regular.comment.csv",10
+"PIT197306010",77,"$Jackie Hernandez called for interference","1973PIT.EVN.regular.comment.csv",11
+"PIT197306020",12,"Jack Billingham left with bruised left knee","1973PIT.EVN.regular.comment.csv",12
+"PIT197306060",58,"ej,rookj101,P,varge901,Balls and strikes (after removal) Jim Rooker ejected by HP umpire Ed Vargo yelling about balls and strikes after being removed","1973PIT.EVN.regular.comment.csv",13
+"PIT197306210",49,"ej,berry101,M,gormt101,Call at HP Mets Manager Yogi Berra ejected by HP umpire Tom Gorman","1973PIT.EVN.regular.comment.csv",14
+"PIT197306210",66,"$Gene Clines slid into catcher Duffy Dyer, causing throw to 1B to sail RF; Rusty Staub retrieved the ball and threw to Jim Fregosi, who tagged Al Oliver, who had rounded 2B too far","1973PIT.EVN.regular.comment.csv",15
+"PIT197306240",21,"Richie Hebner left with vision problems","1973PIT.EVN.regular.comment.csv",16
+"PIT197306290",5,"$Gene Clines suffered lacerated right upper eyelid when hit by own foul ball","1973PIT.EVN.regular.comment.csv",17
+"PIT197306300",21,"Nelson Briles hit below right elbow","1973PIT.EVN.regular.comment.csv",18
+"PIT197307011",39,"ej,dobyl101,C,donaa901,Call at 1B Expos Coach Larry Doby ejected by 1B umpire Augie Donatelli","1973PIT.EVN.regular.comment.csv",19
+"PIT197307012",9,"ej,hebnr001,P,donaa901,Call at HP ej,virdb101,M,donaa901,Call at HP Richie Hebner and Pirates Manager Bill Virdon ejected by HP umpire Augie Donatelli; coach Don Leppert runs Pirates","1973PIT.EVN.regular.comment.csv",20
+"PIT197307201",1,"Debut game for John Morlan","1973PIT.EVN.regular.comment.csv",21
+"PIT197307202",0,"27 minute delay rain before start of game; 28 minute rain delay later","1973PIT.EVN.regular.comment.csv",22
+"PIT197307280",45,"$Jose Pagan rounded 2B too far","1973PIT.EVN.regular.comment.csv",23
+"PIT197308100",10,"last two plays one play","1973PIT.EVN.regular.comment.csv",24
+"PIT197308110",0,"16 minute rain delay sometime in game","1973PIT.EVN.regular.comment.csv",25
+"PIT197308130",40,"ej,andes101,M,engeb901,Refusing to leave mound $Reds Manager Sparky Anderson had a long mound conference and HP umpire Bob Engel told him to go back to the bench; this grew to an argument and Anderson was ejected by Engel","1973PIT.EVN.regular.comment.csv",26
+"PIT197308170",0,"68 minute rain delay before start of game","1973PIT.EVN.regular.comment.csv",27
+"PIT197308312",18,"Debut game for Tom Lundstedt","1973PIT.EVN.regular.comment.csv",28
+"PIT197309031",71,"Debut game for Dave Augustine","1973PIT.EVN.regular.comment.csv",29
+"PIT197309032",60,"$Terry Hughes doubled off LF wall but was called out on appeal for missing 1B","1973PIT.EVN.regular.comment.csv",30
+"PIT197309040",58,"Debut game for Tommy Cruz","1973PIT.EVN.regular.comment.csv",31
+"PIT197309040",62,"$Dave Giusti tagged Lou Brock at HP and dropped the ball; when Brock was ruled safe by HP umpire Ed Vargo, an argument ensued","1973PIT.EVN.regular.comment.csv",32
+"PIT197309050",0,"10 minute rain delay before start of game","1973PIT.EVN.regular.comment.csv",33
+"PIT197309050",16,"55 minute rain delay","1973PIT.EVN.regular.comment.csv",34
+"PIT197309170",41,"1:15 rain delay","1973PIT.EVN.regular.comment.csv",35
+"PIT197309170",55,"Jerry Grote left with injury; unclear if this is right play","1973PIT.EVN.regular.comment.csv",36
+"PIT197309180",80,"Debut game for Bob Apodaca","1973PIT.EVN.regular.comment.csv",37
+"PIT197309260",76,"ej,robib101,P,froeb901,Balls and strikes Bill Robinson ejected by HP umpire Bruce Froemming","1973PIT.EVN.regular.comment.csv",38
+"PIT197309270",97,"$Chris Zachary tried to walk Bob Boone intentionally, but the first pitch was too close and Boone singled","1973PIT.EVN.regular.comment.csv",39
+"PIT197309280",0,"36 minute rain delay before start of game","1973PIT.EVN.regular.comment.csv",40
+"PIT197309290",14,"$Milt May injured by John Boccabella","1973PIT.EVN.regular.comment.csv",41

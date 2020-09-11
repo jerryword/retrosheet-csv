@@ -1,40 +1,41 @@
-"KC1195704280",70,"ej,lopea102,M,honoj901,Call at 3B White Sox Manager Al Lopez ejected by 3B umpire Jim Honochick","FILENAME_TX","LINE_NUMBER_CT"
-"KC1195705010",27,"$Lou Skizas struck on elbow","1957KC1.EVA.regular.comment.csv",2
-"KC1195705010",52,"$missed squeeze","1957KC1.EVA.regular.comment.csv",3
-"KC1195705020",40,"$One pitch sailed over Yogi Berra's head","1957KC1.EVA.regular.comment.csv",4
-"KC1195705020",60,"$Bill Skowron claimed the first pitch struck him on toe","1957KC1.EVA.regular.comment.csv",5
-"KC1195705030",6,"Yanks scorecard indicates 3-0, charges the BB to Host","1957KC1.EVA.regular.comment.csv",6
-"KC1195705250",56,"$450 ft","1957KC1.EVA.regular.comment.csv",7
-"KC1195705260",15,"$Jay Porter out on appeal for missing 1B on apparent double","1957KC1.EVA.regular.comment.csv",8
-"KC1195706040",6,"$Vic Power pulled muscle in right leg","1957KC1.EVA.regular.comment.csv",9
-"KC1195706050",8,"$Well over 420 foot fence","1957KC1.EVA.regular.comment.csv",10
-"KC1195706060",67,"ej,trucv101,P,nappl901,Call at HP Virgil Trucks ejected by HP umpire Larry Napp","1957KC1.EVA.regular.comment.csv",11
-"KC1195706091",54,"$Lou Skizas out on appeal for missing 2B after scoring a run","1957KC1.EVA.regular.comment.csv",12
-"KC1195706091",60,"pbp ends here, rest deduced","1957KC1.EVA.regular.comment.csv",13
-"KC1195706092",77,"$Ike Delock was visibly upset at the ball/strike calls","1957KC1.EVA.regular.comment.csv",14
-"KC1195706100",31,"$lights turned on","1957KC1.EVA.regular.comment.csv",15
-"KC1195706140",68,"$Mickey McDermott left with bruised hand","1957KC1.EVA.regular.comment.csv",16
-"KC1195706150",2,"this might not be a PB","1957KC1.EVA.regular.comment.csv",17
-"KC1195706150",3,"$Gil McDougald started for 2B but turned back upon drawing a throw; Bobby Richardson tried to score after rounding 3B","1957KC1.EVA.regular.comment.csv",18
-"KC1195706150",24,"$415 ft","1957KC1.EVA.regular.comment.csv",19
-"KC1195706160",32,"$Andy Carey tried to advance on an overthrow","1957KC1.EVA.regular.comment.csv",20
-"KC1195707110",1,"$Tony Kubek struck below right knee","1957KC1.EVA.regular.comment.csv",21
-"KC1195707110",45,"$Woodie Held called for interference for running into his own batted ball","1957KC1.EVA.regular.comment.csv",22
-"KC1195707141",69,"DIFF: per WS s/s CS; 0 per officials","1957KC1.EVA.regular.comment.csv",23
-"KC1195707190",49,"missing play in KC1195707190 TSN says Cerv was rundown between 2b and 3b","1957KC1.EVA.regular.comment.csv",24
-"KC1195707190",63,"$the hidden ball trick backfired","1957KC1.EVA.regular.comment.csv",25
-"KC1195708131",9,"$Vic Power kept on running","1957KC1.EVA.regular.comment.csv",26
-"KC1195708131",66,"$Paul Foytack left with muscle spasm in shoulder","1957KC1.EVA.regular.comment.csv",27
-"KC1195708132",95,"$Jim Small forgot to tag up; he slid in high and Hal Smith swiped at Small with his foot, precipitating a brief bench-clearing incident","1957KC1.EVA.regular.comment.csv",28
-"KC1195708140",12,"$Lou Skizas removed for not running out popup","1957KC1.EVA.regular.comment.csv",29
-"KC1195708140",38,"ej,gleej101,C,nappl901,Bench jockeying $Athletics coach Gleeson ejected by HP umpire Napp for bench jockeying","1957KC1.EVA.regular.comment.csv",30
-"KC1195708180",12,"possible missing assists","1957KC1.EVA.regular.comment.csv",31
-"KC1195708200",39,"30 minute rain delay with 2-2 count on Yogi Berra","1957KC1.EVA.regular.comment.csv",32
-"KC1195708210",64,"Missing play in KC1195708210","1957KC1.EVA.regular.comment.csv",33
-"KC1195708230",57,"ej,richp101,M,umonf901,Balls and strikes $Orioles manager Richards ejected by HP umpire Umont for arguing balls and strikes while Power was at bat","1957KC1.EVA.regular.comment.csv",34
-"KC1195708280",59,"Martin: fine stop and leaping throw","1957KC1.EVA.regular.comment.csv",35
-"KC1195709210",21,"$400 feet","1957KC1.EVA.regular.comment.csv",36
-"KC1195709210",22,"$350 feet","1957KC1.EVA.regular.comment.csv",37
-"KC1195709221",49,"DIFF: Det s/s CS; officials 0 CS","1957KC1.EVA.regular.comment.csv",38
-"KC1195709221",70,"$Ray Boone hit Woodie Held on back with throw","1957KC1.EVA.regular.comment.csv",39
-"KC1195709240",83,"$Ron Jackson rounded 2B too far","1957KC1.EVA.regular.comment.csv",40
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"KC1195704280",70,"ej,lopea102,M,honoj901,Call at 3B White Sox Manager Al Lopez ejected by 3B umpire Jim Honochick","1957KC1.EVA.regular.comment.csv",2
+"KC1195705010",27,"$Lou Skizas struck on elbow","1957KC1.EVA.regular.comment.csv",3
+"KC1195705010",52,"$missed squeeze","1957KC1.EVA.regular.comment.csv",4
+"KC1195705020",40,"$One pitch sailed over Yogi Berra's head","1957KC1.EVA.regular.comment.csv",5
+"KC1195705020",60,"$Bill Skowron claimed the first pitch struck him on toe","1957KC1.EVA.regular.comment.csv",6
+"KC1195705030",6,"Yanks scorecard indicates 3-0, charges the BB to Host","1957KC1.EVA.regular.comment.csv",7
+"KC1195705250",56,"$450 ft","1957KC1.EVA.regular.comment.csv",8
+"KC1195705260",15,"$Jay Porter out on appeal for missing 1B on apparent double","1957KC1.EVA.regular.comment.csv",9
+"KC1195706040",6,"$Vic Power pulled muscle in right leg","1957KC1.EVA.regular.comment.csv",10
+"KC1195706050",8,"$Well over 420 foot fence","1957KC1.EVA.regular.comment.csv",11
+"KC1195706060",67,"ej,trucv101,P,nappl901,Call at HP Virgil Trucks ejected by HP umpire Larry Napp","1957KC1.EVA.regular.comment.csv",12
+"KC1195706091",54,"$Lou Skizas out on appeal for missing 2B after scoring a run","1957KC1.EVA.regular.comment.csv",13
+"KC1195706091",60,"pbp ends here, rest deduced","1957KC1.EVA.regular.comment.csv",14
+"KC1195706092",77,"$Ike Delock was visibly upset at the ball/strike calls","1957KC1.EVA.regular.comment.csv",15
+"KC1195706100",31,"$lights turned on","1957KC1.EVA.regular.comment.csv",16
+"KC1195706140",68,"$Mickey McDermott left with bruised hand","1957KC1.EVA.regular.comment.csv",17
+"KC1195706150",2,"this might not be a PB","1957KC1.EVA.regular.comment.csv",18
+"KC1195706150",3,"$Gil McDougald started for 2B but turned back upon drawing a throw; Bobby Richardson tried to score after rounding 3B","1957KC1.EVA.regular.comment.csv",19
+"KC1195706150",24,"$415 ft","1957KC1.EVA.regular.comment.csv",20
+"KC1195706160",32,"$Andy Carey tried to advance on an overthrow","1957KC1.EVA.regular.comment.csv",21
+"KC1195707110",1,"$Tony Kubek struck below right knee","1957KC1.EVA.regular.comment.csv",22
+"KC1195707110",45,"$Woodie Held called for interference for running into his own batted ball","1957KC1.EVA.regular.comment.csv",23
+"KC1195707141",69,"DIFF: per WS s/s CS; 0 per officials","1957KC1.EVA.regular.comment.csv",24
+"KC1195707190",49,"missing play in KC1195707190 TSN says Cerv was rundown between 2b and 3b","1957KC1.EVA.regular.comment.csv",25
+"KC1195707190",63,"$the hidden ball trick backfired","1957KC1.EVA.regular.comment.csv",26
+"KC1195708131",9,"$Vic Power kept on running","1957KC1.EVA.regular.comment.csv",27
+"KC1195708131",66,"$Paul Foytack left with muscle spasm in shoulder","1957KC1.EVA.regular.comment.csv",28
+"KC1195708132",95,"$Jim Small forgot to tag up; he slid in high and Hal Smith swiped at Small with his foot, precipitating a brief bench-clearing incident","1957KC1.EVA.regular.comment.csv",29
+"KC1195708140",12,"$Lou Skizas removed for not running out popup","1957KC1.EVA.regular.comment.csv",30
+"KC1195708140",38,"ej,gleej101,C,nappl901,Bench jockeying $Athletics coach Gleeson ejected by HP umpire Napp for bench jockeying","1957KC1.EVA.regular.comment.csv",31
+"KC1195708180",12,"possible missing assists","1957KC1.EVA.regular.comment.csv",32
+"KC1195708200",39,"30 minute rain delay with 2-2 count on Yogi Berra","1957KC1.EVA.regular.comment.csv",33
+"KC1195708210",64,"Missing play in KC1195708210","1957KC1.EVA.regular.comment.csv",34
+"KC1195708230",57,"ej,richp101,M,umonf901,Balls and strikes $Orioles manager Richards ejected by HP umpire Umont for arguing balls and strikes while Power was at bat","1957KC1.EVA.regular.comment.csv",35
+"KC1195708280",59,"Martin: fine stop and leaping throw","1957KC1.EVA.regular.comment.csv",36
+"KC1195709210",21,"$400 feet","1957KC1.EVA.regular.comment.csv",37
+"KC1195709210",22,"$350 feet","1957KC1.EVA.regular.comment.csv",38
+"KC1195709221",49,"DIFF: Det s/s CS; officials 0 CS","1957KC1.EVA.regular.comment.csv",39
+"KC1195709221",70,"$Ray Boone hit Woodie Held on back with throw","1957KC1.EVA.regular.comment.csv",40
+"KC1195709240",83,"$Ron Jackson rounded 2B too far","1957KC1.EVA.regular.comment.csv",41

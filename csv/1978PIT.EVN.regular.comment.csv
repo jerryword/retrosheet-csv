@@ -1,22 +1,23 @@
-"PIT197804232",0,"Suspend=19780626,,4,5,36","FILENAME_TX","LINE_NUMBER_CT"
-"PIT197804232",58,"suspended,19780626,PIT07,catch flight $game suspended due to curfew to allow the Cardinals to catch the last Montreal-bound flight; game resumed 6/26","1978PIT.EVN.regular.comment.csv",2
-"PIT197804300",69,"$Dave Parker called for interference","1978PIT.EVN.regular.comment.csv",3
-"PIT197805020",70,"ej,almob001,P,steld901,Balls and strikes Bill Almon ejected by HP umpire Dick Stello","1978PIT.EVN.regular.comment.csv",4
-"PIT197805050",75,"$Glenn Burke rounded 2B too far","1978PIT.EVN.regular.comment.csv",5
-"PIT197805060",18,"$Omar Moreno called for interference for running out of baseline","1978PIT.EVN.regular.comment.csv",6
-"PIT197805060",69,"$Frank Taveras overslid 2B","1978PIT.EVN.regular.comment.csv",7
-"PIT197806050",15,"$Frank Taveras left with virus infection","1978PIT.EVN.regular.comment.csv",8
-"PIT197806272",0,"two rain delays in game (23 minutes and 99 minutes)","1978PIT.EVN.regular.comment.csv",9
-"PIT197806290",46,"Debut game for Dwight Bernard","1978PIT.EVN.regular.comment.csv",10
-"PIT197806300",86,"$Dave Parker fractured left cheekbone in HP collision","1978PIT.EVN.regular.comment.csv",11
-"PIT197807161",54,"$Fernando Gonzalez hurt on Stargell double","1978PIT.EVN.regular.comment.csv",12
-"PIT197807161",74,"Rain delay","1978PIT.EVN.regular.comment.csv",13
-"PIT197807180",77,"$Joe Ferguson called out when he passed Dusty Baker on bases","1978PIT.EVN.regular.comment.csv",14
-"PIT197808150",4,"$fan interference","1978PIT.EVN.regular.comment.csv",15
-"PIT197808150",64,"ej,blylb001,P,westj901,Balk call ej,tannc101,M,westj901,Balk call Bert Blyleven and Pirates Manager Chuck Tanner ejected by 2B umpire Joe West","1978PIT.EVN.regular.comment.csv",16
-"PIT197809012",60,"$Gilbreath rounded second too far and Pirates threw behind him","1978PIT.EVN.regular.comment.csv",17
-"PIT197809030",28,"rain delay 1:54 sometime this inning","1978PIT.EVN.regular.comment.csv",18
-"PIT197809041",65,"Debut game for Doe Boyland","1978PIT.EVN.regular.comment.csv",19
-"PIT197809260",8,"$Dennis Lamp did not cover 1B","1978PIT.EVN.regular.comment.csv",20
-"PIT197810010",39,"Debut game for Keith Moreland Debut game for Kevin Saucier","1978PIT.EVN.regular.comment.csv",21
-"PIT197810010",64,"Debut game for Dan Boitano","1978PIT.EVN.regular.comment.csv",22
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"PIT197804232",0,"Suspend=19780626,,4,5,36","1978PIT.EVN.regular.comment.csv",2
+"PIT197804232",58,"suspended,19780626,PIT07,catch flight $game suspended due to curfew to allow the Cardinals to catch the last Montreal-bound flight; game resumed 6/26","1978PIT.EVN.regular.comment.csv",3
+"PIT197804300",69,"$Dave Parker called for interference","1978PIT.EVN.regular.comment.csv",4
+"PIT197805020",70,"ej,almob001,P,steld901,Balls and strikes Bill Almon ejected by HP umpire Dick Stello","1978PIT.EVN.regular.comment.csv",5
+"PIT197805050",75,"$Glenn Burke rounded 2B too far","1978PIT.EVN.regular.comment.csv",6
+"PIT197805060",18,"$Omar Moreno called for interference for running out of baseline","1978PIT.EVN.regular.comment.csv",7
+"PIT197805060",69,"$Frank Taveras overslid 2B","1978PIT.EVN.regular.comment.csv",8
+"PIT197806050",15,"$Frank Taveras left with virus infection","1978PIT.EVN.regular.comment.csv",9
+"PIT197806272",0,"two rain delays in game (23 minutes and 99 minutes)","1978PIT.EVN.regular.comment.csv",10
+"PIT197806290",46,"Debut game for Dwight Bernard","1978PIT.EVN.regular.comment.csv",11
+"PIT197806300",86,"$Dave Parker fractured left cheekbone in HP collision","1978PIT.EVN.regular.comment.csv",12
+"PIT197807161",54,"$Fernando Gonzalez hurt on Stargell double","1978PIT.EVN.regular.comment.csv",13
+"PIT197807161",74,"Rain delay","1978PIT.EVN.regular.comment.csv",14
+"PIT197807180",77,"$Joe Ferguson called out when he passed Dusty Baker on bases","1978PIT.EVN.regular.comment.csv",15
+"PIT197808150",4,"$fan interference","1978PIT.EVN.regular.comment.csv",16
+"PIT197808150",64,"ej,blylb001,P,westj901,Balk call ej,tannc101,M,westj901,Balk call Bert Blyleven and Pirates Manager Chuck Tanner ejected by 2B umpire Joe West","1978PIT.EVN.regular.comment.csv",17
+"PIT197809012",60,"$Gilbreath rounded second too far and Pirates threw behind him","1978PIT.EVN.regular.comment.csv",18
+"PIT197809030",28,"rain delay 1:54 sometime this inning","1978PIT.EVN.regular.comment.csv",19
+"PIT197809041",65,"Debut game for Doe Boyland","1978PIT.EVN.regular.comment.csv",20
+"PIT197809260",8,"$Dennis Lamp did not cover 1B","1978PIT.EVN.regular.comment.csv",21
+"PIT197810010",39,"Debut game for Keith Moreland Debut game for Kevin Saucier","1978PIT.EVN.regular.comment.csv",22
+"PIT197810010",64,"Debut game for Dan Boitano","1978PIT.EVN.regular.comment.csv",23

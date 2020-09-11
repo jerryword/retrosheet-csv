@@ -1,28 +1,29 @@
-"DET197804070",58,"$HR landed on RF roof, but did not go over","FILENAME_TX","LINE_NUMBER_CT"
-"DET197804090",8,"Debut game for Garth Iorg","1978DET.EVA.regular.comment.csv",2
-"DET197804090",32,"Debut game for Willie Upshaw","1978DET.EVA.regular.comment.csv",3
-"DET197805150",0,"35 minute rain delay before start of game","1978DET.EVA.regular.comment.csv",4
-"DET197805160",36,"need SB somewhere; place a guess","1978DET.EVA.regular.comment.csv",5
-"DET197805200",40,"1:38 rain delay with an 0-1 count on Fisk","1978DET.EVA.regular.comment.csv",6
-"DET197805211",67,"ej,lynnf001,P,bremn901,Called third strike ej,zimmd101,M,bremn901,Called third strike Fred Lynn and Red Sox Manager Don Zimmer ejected by HP umpire Nick Bremigan","1978DET.EVA.regular.comment.csv",7
-"DET197805212",68,"ej,houkr101,M,goetr901,Call at HP Tigers Manager Ralph Houk ejected by HP umpire Russ Goetz after arguing that catcher Bob Montgomery had dropped the ball before throwing to 1B in attempting to complete a double play; Houk argued that Tim Corcoran's run should count","1978DET.EVA.regular.comment.csv",8
-"DET197806090",34,"$John Wockenfuss stumbled over 2B bag and was tagged out","1978DET.EVA.regular.comment.csv",9
-"DET197806130",36,"ej,bambg101,M,kaisk901,Balk call Brewers Manager George Bamberger ejected by 1B umpire Ken Kaiser","1978DET.EVA.regular.comment.csv",10
-"DET197806220",41,"ej,munst101,P,mckej901,Balls and strikes (foul tip) Thurman Munson ejected by HP umpire Jim McKean arguing that he tipped strike three","1978DET.EVA.regular.comment.csv",11
-"DET197806240",62,"Debut game for Damaso Garcia","1978DET.EVA.regular.comment.csv",12
-"DET197807211",7,"$Ron LeFlore was out on appeal for leaving 3B too soon","1978DET.EVA.regular.comment.csv",13
-"DET197807211",78,"Debut game for Kip Young","1978DET.EVA.regular.comment.csv",14
-"DET197807260",0,"64 minute rain delay before start of game","1978DET.EVA.regular.comment.csv",15
-"DET197807260",73,"ej,freyj801,C,clara901,Balls and strikes Orioles Coach Jim Frey ejected by HP umpire Al Clark","1978DET.EVA.regular.comment.csv",16
-"DET197808030",67,"ej,may-m001,P,brinj901,Called third strike Milt May ejected by HP umpire Joe Brinkman","1978DET.EVA.regular.comment.csv",17
-"DET197808050",1,"Debut game for Britt Burns","1978DET.EVA.regular.comment.csv",18
-"DET197808090",58,"$Ron LeFlore tripled but was called out for missing 1B","1978DET.EVA.regular.comment.csv",19
-"DET197808250",0,"$substitute umpires worked due to a one-day strike by the staff umpires; Debut for umpires Rico Zuccaro, Leo Turner, Joe Kavulich and Doug Cossey","1978DET.EVA.regular.comment.csv",20
-"DET197808260",16,"Debut game for Dave Tobik","1978DET.EVA.regular.comment.csv",21
-"DET197808270",22,"ej,bambg101,M,kaisk901,Call at 2B ej,wohlj001,P,kaisk901,Bench jockeying Jim Wohlford and Brewers Manager George Bamberger ejected by 2B umpire Ken Kaiser","1978DET.EVA.regular.comment.csv",22
-"DET197808280",0,"$Umpire crew changed in mid-series","1978DET.EVA.regular.comment.csv",23
-"DET197809130",0,"38 minute rain delay before start of game","1978DET.EVA.regular.comment.csv",24
-"DET197809130",5,"$Thurmon Munson left game with headache and dizzyness; taken to hospital for observation","1978DET.EVA.regular.comment.csv",25
-"DET197809140",51,"43 minute rain delay","1978DET.EVA.regular.comment.csv",26
-"DET197809200",42,"Debut game for John LaRose","1978DET.EVA.regular.comment.csv",27
-"DET197809300",43,"1:13 rain delay","1978DET.EVA.regular.comment.csv",28
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"DET197804070",58,"$HR landed on RF roof, but did not go over","1978DET.EVA.regular.comment.csv",2
+"DET197804090",8,"Debut game for Garth Iorg","1978DET.EVA.regular.comment.csv",3
+"DET197804090",32,"Debut game for Willie Upshaw","1978DET.EVA.regular.comment.csv",4
+"DET197805150",0,"35 minute rain delay before start of game","1978DET.EVA.regular.comment.csv",5
+"DET197805160",36,"need SB somewhere; place a guess","1978DET.EVA.regular.comment.csv",6
+"DET197805200",40,"1:38 rain delay with an 0-1 count on Fisk","1978DET.EVA.regular.comment.csv",7
+"DET197805211",67,"ej,lynnf001,P,bremn901,Called third strike ej,zimmd101,M,bremn901,Called third strike Fred Lynn and Red Sox Manager Don Zimmer ejected by HP umpire Nick Bremigan","1978DET.EVA.regular.comment.csv",8
+"DET197805212",68,"ej,houkr101,M,goetr901,Call at HP Tigers Manager Ralph Houk ejected by HP umpire Russ Goetz after arguing that catcher Bob Montgomery had dropped the ball before throwing to 1B in attempting to complete a double play; Houk argued that Tim Corcoran's run should count","1978DET.EVA.regular.comment.csv",9
+"DET197806090",34,"$John Wockenfuss stumbled over 2B bag and was tagged out","1978DET.EVA.regular.comment.csv",10
+"DET197806130",36,"ej,bambg101,M,kaisk901,Balk call Brewers Manager George Bamberger ejected by 1B umpire Ken Kaiser","1978DET.EVA.regular.comment.csv",11
+"DET197806220",41,"ej,munst101,P,mckej901,Balls and strikes (foul tip) Thurman Munson ejected by HP umpire Jim McKean arguing that he tipped strike three","1978DET.EVA.regular.comment.csv",12
+"DET197806240",62,"Debut game for Damaso Garcia","1978DET.EVA.regular.comment.csv",13
+"DET197807211",7,"$Ron LeFlore was out on appeal for leaving 3B too soon","1978DET.EVA.regular.comment.csv",14
+"DET197807211",78,"Debut game for Kip Young","1978DET.EVA.regular.comment.csv",15
+"DET197807260",0,"64 minute rain delay before start of game","1978DET.EVA.regular.comment.csv",16
+"DET197807260",73,"ej,freyj801,C,clara901,Balls and strikes Orioles Coach Jim Frey ejected by HP umpire Al Clark","1978DET.EVA.regular.comment.csv",17
+"DET197808030",67,"ej,may-m001,P,brinj901,Called third strike Milt May ejected by HP umpire Joe Brinkman","1978DET.EVA.regular.comment.csv",18
+"DET197808050",1,"Debut game for Britt Burns","1978DET.EVA.regular.comment.csv",19
+"DET197808090",58,"$Ron LeFlore tripled but was called out for missing 1B","1978DET.EVA.regular.comment.csv",20
+"DET197808250",0,"$substitute umpires worked due to a one-day strike by the staff umpires; Debut for umpires Rico Zuccaro, Leo Turner, Joe Kavulich and Doug Cossey","1978DET.EVA.regular.comment.csv",21
+"DET197808260",16,"Debut game for Dave Tobik","1978DET.EVA.regular.comment.csv",22
+"DET197808270",22,"ej,bambg101,M,kaisk901,Call at 2B ej,wohlj001,P,kaisk901,Bench jockeying Jim Wohlford and Brewers Manager George Bamberger ejected by 2B umpire Ken Kaiser","1978DET.EVA.regular.comment.csv",23
+"DET197808280",0,"$Umpire crew changed in mid-series","1978DET.EVA.regular.comment.csv",24
+"DET197809130",0,"38 minute rain delay before start of game","1978DET.EVA.regular.comment.csv",25
+"DET197809130",5,"$Thurmon Munson left game with headache and dizzyness; taken to hospital for observation","1978DET.EVA.regular.comment.csv",26
+"DET197809140",51,"43 minute rain delay","1978DET.EVA.regular.comment.csv",27
+"DET197809200",42,"Debut game for John LaRose","1978DET.EVA.regular.comment.csv",28
+"DET197809300",43,"1:13 rain delay","1978DET.EVA.regular.comment.csv",29

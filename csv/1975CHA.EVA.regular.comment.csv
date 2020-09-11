@@ -1,40 +1,41 @@
-"CHA197504170",0,"28 minute rain delay before start of game","FILENAME_TX","LINE_NUMBER_CT"
-"CHA197505020",90,"$Ted Kubiak called for interference","1975CHA.EVA.regular.comment.csv",2
-"CHA197505170",60,"ej,robif103,M,neudj901,Fan interference non-call ej,lee-l101,P,neudj901,Obscene language $Jorge Orta's triple hit off the RF wall; Indians manager Frank Robinson claimed that a fan had touched the ball and Orta should be at 2B with a double; Robinson and 1B umpire Jerry Neudecker got in a shoving match; Robinson was restrained by coaches and then ejected by Neudecker; Robinson suspended for three days; Leron Lee ejected by Neudecker for yelling obscenities from the bench","1975CHA.EVA.regular.comment.csv",3
-"CHA197505230",69,"Terry Forster left with an arm injury","1975CHA.EVA.regular.comment.csv",4
-"CHA197505250",62,"57 minute rain delay and then the game was called","1975CHA.EVA.regular.comment.csv",5
-"CHA197506070",62,"Bobby Bonds injured his right knee on the play","1975CHA.EVA.regular.comment.csv",6
-"CHA197506100",28,"$Tony Muser threw to an uncovered 2B","1975CHA.EVA.regular.comment.csv",7
-"CHA197506100",81,"missing fielding for rundown in CHA197506100","1975CHA.EVA.regular.comment.csv",8
-"CHA197506110",90,"$Tony Muser ran into his own batted ball","1975CHA.EVA.regular.comment.csv",9
-"CHA197506250",66,"Debut game for Ron Pruitt","1975CHA.EVA.regular.comment.csv",10
-"CHA197506270",49,"ej,lonnj101,C,phild901,Bench jockeying White Sox Coach Joe Lonnett ejected by HP umpire Dave Phillips","1975CHA.EVA.regular.comment.csv",11
-"CHA197506300",70,"Bob Coluccio hurt on the play","1975CHA.EVA.regular.comment.csv",12
-"CHA197507020",0,"Protest=V","1975CHA.EVA.regular.comment.csv",13
-"CHA197507020",65,"$the Athletics protested the game because Jerry Hairston was allowed to warm up in LF while Rich Gossage was warming up","1975CHA.EVA.regular.comment.csv",14
-"CHA197507030",42,"$Jorge Orta strained his right hamstring","1975CHA.EVA.regular.comment.csv",15
-"CHA197507030",45,"$Ken Henderson ran Deron Johnson off 3B","1975CHA.EVA.regular.comment.csv",16
-"CHA197507171",44,"Ron LeFlore hurt his knee","1975CHA.EVA.regular.comment.csv",17
-"CHA197507210",78,"ej,tannc101,M,barnl901,Balls and strikes White Sox Manager Chuck Tanner ejected by HP umpire Larry Barnett","1975CHA.EVA.regular.comment.csv",18
-"CHA197507241",64,"Thurman Munson left with a bruised left elbow","1975CHA.EVA.regular.comment.csv",19
-"CHA197507241",76,"Bucky Dent hurt when he fouled a ball off his body","1975CHA.EVA.regular.comment.csv",20
-"CHA197508070",7,"$Bucky Dent called for interference when he got in Mike Miley's way","1975CHA.EVA.regular.comment.csv",21
-"CHA197508090",68,"$Lee May hurt trying to break up the double play and was carried off on a stretcher","1975CHA.EVA.regular.comment.csv",22
-"CHA197508100",55,"ej,palmj001,P,hallb901,Bench jockeying $Orioles Palmer ejected by 3B umpire Haller arguing that Nyman was out at 1st to complete double play","1975CHA.EVA.regular.comment.csv",23
-"CHA197508150",26,"$Jorge Orta tried to score when Rick Miller's throw got by Denny Doyle","1975CHA.EVA.regular.comment.csv",24
-"CHA197508171",10,"Terry Forster re-hurt his arm on his 1st pitch to Fred Lynn","1975CHA.EVA.regular.comment.csv",25
-"CHA197508171",35,"ej,johnd106,M,goetr901,Called third strike Red Sox Manager Darrell Johnson ejected by HP umpire Russ Goetz","1975CHA.EVA.regular.comment.csv",26
-"CHA197509012",17,"Debut game for Mike Squires","1975CHA.EVA.regular.comment.csv",27
-"CHA197509012",59,"$Hal McRae collapsed at HP","1975CHA.EVA.regular.comment.csv",28
-"CHA197509020",30,"Carlos May injured","1975CHA.EVA.regular.comment.csv",29
-"CHA197509030",56,"ej,tannc101,M,bremn901,Balls and strikes $White Sox manager Tanner ejected by HP umpire Bremigan for arguing ball 4 to White","1975CHA.EVA.regular.comment.csv",30
-"CHA197509040",1,"Debut game for Ken Kravec","1975CHA.EVA.regular.comment.csv",31
-"CHA197509040",79,"Debut game for Chris Knapp","1975CHA.EVA.regular.comment.csv",32
-"CHA197509040",81,"Debut game for Jamie Quirk","1975CHA.EVA.regular.comment.csv",33
-"CHA197509060",12,"Debut game for Mike Poepping","1975CHA.EVA.regular.comment.csv",34
-"CHA197509060",60,"ej,olivt102,P,neudj901,Called third strike Tony Oliva ejected by HP umpire Jerry Neudecker","1975CHA.EVA.regular.comment.csv",35
-"CHA197509070",68,"Debut game for Tim Stoddard","1975CHA.EVA.regular.comment.csv",36
-"CHA197509090",80,"Debut game for Chet Lemon","1975CHA.EVA.regular.comment.csv",37
-"CHA197509100",53,"Debut game for Dan Briggs","1975CHA.EVA.regular.comment.csv",38
-"CHA197509180",29,"44 minute rain delay","1975CHA.EVA.regular.comment.csv",39
-"CHA197509180",34,"$Bucky Dent missed the suicide squeeze","1975CHA.EVA.regular.comment.csv",40
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"CHA197504170",0,"28 minute rain delay before start of game","1975CHA.EVA.regular.comment.csv",2
+"CHA197505020",90,"$Ted Kubiak called for interference","1975CHA.EVA.regular.comment.csv",3
+"CHA197505170",60,"ej,robif103,M,neudj901,Fan interference non-call ej,lee-l101,P,neudj901,Obscene language $Jorge Orta's triple hit off the RF wall; Indians manager Frank Robinson claimed that a fan had touched the ball and Orta should be at 2B with a double; Robinson and 1B umpire Jerry Neudecker got in a shoving match; Robinson was restrained by coaches and then ejected by Neudecker; Robinson suspended for three days; Leron Lee ejected by Neudecker for yelling obscenities from the bench","1975CHA.EVA.regular.comment.csv",4
+"CHA197505230",69,"Terry Forster left with an arm injury","1975CHA.EVA.regular.comment.csv",5
+"CHA197505250",62,"57 minute rain delay and then the game was called","1975CHA.EVA.regular.comment.csv",6
+"CHA197506070",62,"Bobby Bonds injured his right knee on the play","1975CHA.EVA.regular.comment.csv",7
+"CHA197506100",28,"$Tony Muser threw to an uncovered 2B","1975CHA.EVA.regular.comment.csv",8
+"CHA197506100",81,"missing fielding for rundown in CHA197506100","1975CHA.EVA.regular.comment.csv",9
+"CHA197506110",90,"$Tony Muser ran into his own batted ball","1975CHA.EVA.regular.comment.csv",10
+"CHA197506250",66,"Debut game for Ron Pruitt","1975CHA.EVA.regular.comment.csv",11
+"CHA197506270",49,"ej,lonnj101,C,phild901,Bench jockeying White Sox Coach Joe Lonnett ejected by HP umpire Dave Phillips","1975CHA.EVA.regular.comment.csv",12
+"CHA197506300",70,"Bob Coluccio hurt on the play","1975CHA.EVA.regular.comment.csv",13
+"CHA197507020",0,"Protest=V","1975CHA.EVA.regular.comment.csv",14
+"CHA197507020",65,"$the Athletics protested the game because Jerry Hairston was allowed to warm up in LF while Rich Gossage was warming up","1975CHA.EVA.regular.comment.csv",15
+"CHA197507030",42,"$Jorge Orta strained his right hamstring","1975CHA.EVA.regular.comment.csv",16
+"CHA197507030",45,"$Ken Henderson ran Deron Johnson off 3B","1975CHA.EVA.regular.comment.csv",17
+"CHA197507171",44,"Ron LeFlore hurt his knee","1975CHA.EVA.regular.comment.csv",18
+"CHA197507210",78,"ej,tannc101,M,barnl901,Balls and strikes White Sox Manager Chuck Tanner ejected by HP umpire Larry Barnett","1975CHA.EVA.regular.comment.csv",19
+"CHA197507241",64,"Thurman Munson left with a bruised left elbow","1975CHA.EVA.regular.comment.csv",20
+"CHA197507241",76,"Bucky Dent hurt when he fouled a ball off his body","1975CHA.EVA.regular.comment.csv",21
+"CHA197508070",7,"$Bucky Dent called for interference when he got in Mike Miley's way","1975CHA.EVA.regular.comment.csv",22
+"CHA197508090",68,"$Lee May hurt trying to break up the double play and was carried off on a stretcher","1975CHA.EVA.regular.comment.csv",23
+"CHA197508100",55,"ej,palmj001,P,hallb901,Bench jockeying $Orioles Palmer ejected by 3B umpire Haller arguing that Nyman was out at 1st to complete double play","1975CHA.EVA.regular.comment.csv",24
+"CHA197508150",26,"$Jorge Orta tried to score when Rick Miller's throw got by Denny Doyle","1975CHA.EVA.regular.comment.csv",25
+"CHA197508171",10,"Terry Forster re-hurt his arm on his 1st pitch to Fred Lynn","1975CHA.EVA.regular.comment.csv",26
+"CHA197508171",35,"ej,johnd106,M,goetr901,Called third strike Red Sox Manager Darrell Johnson ejected by HP umpire Russ Goetz","1975CHA.EVA.regular.comment.csv",27
+"CHA197509012",17,"Debut game for Mike Squires","1975CHA.EVA.regular.comment.csv",28
+"CHA197509012",59,"$Hal McRae collapsed at HP","1975CHA.EVA.regular.comment.csv",29
+"CHA197509020",30,"Carlos May injured","1975CHA.EVA.regular.comment.csv",30
+"CHA197509030",56,"ej,tannc101,M,bremn901,Balls and strikes $White Sox manager Tanner ejected by HP umpire Bremigan for arguing ball 4 to White","1975CHA.EVA.regular.comment.csv",31
+"CHA197509040",1,"Debut game for Ken Kravec","1975CHA.EVA.regular.comment.csv",32
+"CHA197509040",79,"Debut game for Chris Knapp","1975CHA.EVA.regular.comment.csv",33
+"CHA197509040",81,"Debut game for Jamie Quirk","1975CHA.EVA.regular.comment.csv",34
+"CHA197509060",12,"Debut game for Mike Poepping","1975CHA.EVA.regular.comment.csv",35
+"CHA197509060",60,"ej,olivt102,P,neudj901,Called third strike Tony Oliva ejected by HP umpire Jerry Neudecker","1975CHA.EVA.regular.comment.csv",36
+"CHA197509070",68,"Debut game for Tim Stoddard","1975CHA.EVA.regular.comment.csv",37
+"CHA197509090",80,"Debut game for Chet Lemon","1975CHA.EVA.regular.comment.csv",38
+"CHA197509100",53,"Debut game for Dan Briggs","1975CHA.EVA.regular.comment.csv",39
+"CHA197509180",29,"44 minute rain delay","1975CHA.EVA.regular.comment.csv",40
+"CHA197509180",34,"$Bucky Dent missed the suicide squeeze","1975CHA.EVA.regular.comment.csv",41

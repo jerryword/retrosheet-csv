@@ -1,28 +1,29 @@
-"SEA197704060",0,"Debut for umpire Ken Kaiser","FILENAME_TX","LINE_NUMBER_CT"
-"SEA197704060",8,"Debut game for Jose Baez","1977SEA.EVA.regular.comment.csv",2
-"SEA197704070",1,"Debut game for Enrique Romo","1977SEA.EVA.regular.comment.csv",3
-"SEA197704190",19,"$Bump Wills called for interference for running into his own batted ball","1977SEA.EVA.regular.comment.csv",4
-"SEA197704190",41,"$Toby Harrah threw late to 2b; ball went into CF","1977SEA.EVA.regular.comment.csv",5
-"SEA197705130",41,"$Carlos Lopez fouled a pitch of his foot; left with 2-2 count","1977SEA.EVA.regular.comment.csv",6
-"SEA197705130",80,"ej,johnd106,M,brinj901,Warning to pitcher Mariners Manager Darrell Johnson ejected by HP umpire Joe Brinkman after Brinkman warned Enrique Romo","1977SEA.EVA.regular.comment.csv",7
-"SEA197705140",51,"ej,braus001,P,brinj901,Check swing (from bench) $Braun ejected by 3B umpire Brinkman for arguing check swing during his at bat","1977SEA.EVA.regular.comment.csv",8
-"SEA197705170",0,"Protest=V","1977SEA.EVA.regular.comment.csv",9
-"SEA197705170",8,"$Orioles manager Earl Weaver protested the game because Carlos Lopez wore a white shin guard over his blue uniform sock while batting","1977SEA.EVA.regular.comment.csv",10
-"SEA197706090",41,"line drive off Dave Roberts' right leg","1977SEA.EVA.regular.comment.csv",11
-"SEA197706150",11,"umpchange,2,umphome,voltv901 umpchange,2,ump2b,(None) $HP umpire Larry Barnett left with unknown injury; 2B umpire Vic Voltaggio meoved to HP","1977SEA.EVA.regular.comment.csv",12
-"SEA197707040",6,"Debut game for Julio Cruz","1977SEA.EVA.regular.comment.csv",13
-"SEA197707242",1,"Debut game for Bob Galasso","1977SEA.EVA.regular.comment.csv",14
-"SEA197707270",66,"ej,johnd106,M,kaisk901,Ground rule double non-call $Mariners manager Johnson ejected by 1B umpire Kaiser for arguing that double hit by Wynegar had stuck in padding on fence and should have been ground rule so that runner should not have been allowed to score from 1st","1977SEA.EVA.regular.comment.csv",15
-"SEA197708030",68,"$Craig Reynolds out on appeal for leaving 3B early","1977SEA.EVA.regular.comment.csv",16
-"SEA197708050",61,"ej,munst101,P,brinj901,Checked swing Thurman Munson ejected by 1B umpire Joe Brinkman","1977SEA.EVA.regular.comment.csv",17
-"SEA197708222",45,"ej,fitza101,P,hendt901,Checked swing (not in game) Al Fitzmorris ejected by 3B umpire Ted Hendry arguing checked swing from bench","1977SEA.EVA.regular.comment.csv",18
-"SEA197708241",63,"Debut game for Rick Honeycutt","1977SEA.EVA.regular.comment.csv",19
-"SEA197708242",59,"ej,johnd106,M,hendt901,Fair/foul call $Mariners manager Johnson ejected by 3B umpire Clark for arguing that Torres' double was foul","1977SEA.EVA.regular.comment.csv",20
-"SEA197709060",61,"Debut game for U L Washington","1977SEA.EVA.regular.comment.csv",21
-"SEA197709060",63,"Debut game for Randy McGilberry","1977SEA.EVA.regular.comment.csv",22
-"SEA197709060",67,"Debut game for Puchy Delgado","1977SEA.EVA.regular.comment.csv",23
-"SEA197709060",74,"Debut game for Greg Erardi","1977SEA.EVA.regular.comment.csv",24
-"SEA197709070",18,"$Hal McRae trapped off 1B when ball bounced away from catcher Larry Cox, who recovered and ran down McRae","1977SEA.EVA.regular.comment.csv",25
-"SEA197709090",70,"Debut game for Bobby Cuellar","1977SEA.EVA.regular.comment.csv",26
-"SEA197709102",75,"Debut game for Steve Burke","1977SEA.EVA.regular.comment.csv",27
-"SEA197709220",36,"ej,gambo001,P,goetr901,Called third strike ej,dobyl101,C,goetr901,Called third strike (from bench) Oscar Gamble and White Sox Coach Larry Doby ejected by HP umpire Russ Goetz","1977SEA.EVA.regular.comment.csv",28
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"SEA197704060",0,"Debut for umpire Ken Kaiser","1977SEA.EVA.regular.comment.csv",2
+"SEA197704060",8,"Debut game for Jose Baez","1977SEA.EVA.regular.comment.csv",3
+"SEA197704070",1,"Debut game for Enrique Romo","1977SEA.EVA.regular.comment.csv",4
+"SEA197704190",19,"$Bump Wills called for interference for running into his own batted ball","1977SEA.EVA.regular.comment.csv",5
+"SEA197704190",41,"$Toby Harrah threw late to 2b; ball went into CF","1977SEA.EVA.regular.comment.csv",6
+"SEA197705130",41,"$Carlos Lopez fouled a pitch of his foot; left with 2-2 count","1977SEA.EVA.regular.comment.csv",7
+"SEA197705130",80,"ej,johnd106,M,brinj901,Warning to pitcher Mariners Manager Darrell Johnson ejected by HP umpire Joe Brinkman after Brinkman warned Enrique Romo","1977SEA.EVA.regular.comment.csv",8
+"SEA197705140",51,"ej,braus001,P,brinj901,Check swing (from bench) $Braun ejected by 3B umpire Brinkman for arguing check swing during his at bat","1977SEA.EVA.regular.comment.csv",9
+"SEA197705170",0,"Protest=V","1977SEA.EVA.regular.comment.csv",10
+"SEA197705170",8,"$Orioles manager Earl Weaver protested the game because Carlos Lopez wore a white shin guard over his blue uniform sock while batting","1977SEA.EVA.regular.comment.csv",11
+"SEA197706090",41,"line drive off Dave Roberts' right leg","1977SEA.EVA.regular.comment.csv",12
+"SEA197706150",11,"umpchange,2,umphome,voltv901 umpchange,2,ump2b,(None) $HP umpire Larry Barnett left with unknown injury; 2B umpire Vic Voltaggio meoved to HP","1977SEA.EVA.regular.comment.csv",13
+"SEA197707040",6,"Debut game for Julio Cruz","1977SEA.EVA.regular.comment.csv",14
+"SEA197707242",1,"Debut game for Bob Galasso","1977SEA.EVA.regular.comment.csv",15
+"SEA197707270",66,"ej,johnd106,M,kaisk901,Ground rule double non-call $Mariners manager Johnson ejected by 1B umpire Kaiser for arguing that double hit by Wynegar had stuck in padding on fence and should have been ground rule so that runner should not have been allowed to score from 1st","1977SEA.EVA.regular.comment.csv",16
+"SEA197708030",68,"$Craig Reynolds out on appeal for leaving 3B early","1977SEA.EVA.regular.comment.csv",17
+"SEA197708050",61,"ej,munst101,P,brinj901,Checked swing Thurman Munson ejected by 1B umpire Joe Brinkman","1977SEA.EVA.regular.comment.csv",18
+"SEA197708222",45,"ej,fitza101,P,hendt901,Checked swing (not in game) Al Fitzmorris ejected by 3B umpire Ted Hendry arguing checked swing from bench","1977SEA.EVA.regular.comment.csv",19
+"SEA197708241",63,"Debut game for Rick Honeycutt","1977SEA.EVA.regular.comment.csv",20
+"SEA197708242",59,"ej,johnd106,M,hendt901,Fair/foul call $Mariners manager Johnson ejected by 3B umpire Clark for arguing that Torres' double was foul","1977SEA.EVA.regular.comment.csv",21
+"SEA197709060",61,"Debut game for U L Washington","1977SEA.EVA.regular.comment.csv",22
+"SEA197709060",63,"Debut game for Randy McGilberry","1977SEA.EVA.regular.comment.csv",23
+"SEA197709060",67,"Debut game for Puchy Delgado","1977SEA.EVA.regular.comment.csv",24
+"SEA197709060",74,"Debut game for Greg Erardi","1977SEA.EVA.regular.comment.csv",25
+"SEA197709070",18,"$Hal McRae trapped off 1B when ball bounced away from catcher Larry Cox, who recovered and ran down McRae","1977SEA.EVA.regular.comment.csv",26
+"SEA197709090",70,"Debut game for Bobby Cuellar","1977SEA.EVA.regular.comment.csv",27
+"SEA197709102",75,"Debut game for Steve Burke","1977SEA.EVA.regular.comment.csv",28
+"SEA197709220",36,"ej,gambo001,P,goetr901,Called third strike ej,dobyl101,C,goetr901,Called third strike (from bench) Oscar Gamble and White Sox Coach Larry Doby ejected by HP umpire Russ Goetz","1977SEA.EVA.regular.comment.csv",29

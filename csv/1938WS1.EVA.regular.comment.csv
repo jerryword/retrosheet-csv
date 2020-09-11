@@ -1,31 +1,32 @@
-"WS1193804180",16,"missing play","FILENAME_TX","LINE_NUMBER_CT"
-"WS1193804300",50,"$Gordon and DiMaggio collided while Hoag was catching Wright's fly ball. Both players were knocked unconscious in the collision and taken to the hospital for overnight observation.","1938WS1.EVA.regular.comment.csv",2
-"WS1193805010",32,"$Goslin injured himself striking out last inning","1938WS1.EVA.regular.comment.csv",3
-"WS1193805020",41,"pbp ends here, rest reconstructed","1938WS1.EVA.regular.comment.csv",4
-"WS1193805040",65,"ej,harrb106,M,romme101,Call at 1B $Senators manager Harris ejected by 1B umpire Rommel for arguing call at 1st","1938WS1.EVA.regular.comment.csv",5
-"WS1193805060",83,"Reconstructed from here","1938WS1.EVA.regular.comment.csv",6
-"WS1193805060",100,"$Zeke Bonura and Ossie Bluege collided","1938WS1.EVA.regular.comment.csv",7
-"WS1193805070",42,"ej,kreem101,P,quinj901,Called third strike (Pushed umpire) $Mike Kreevich ejected by HP umpire John Quinn after pushing Quinn","1938WS1.EVA.regular.comment.csv",8
-"WS1193805090",74,"Reconstructed top ninth.","1938WS1.EVA.regular.comment.csv",9
-"WS1193805100",56,"Reconstructed last 3 innings.","1938WS1.EVA.regular.comment.csv",10
-"WS1193806040",8,"$John Stone trapped off 1B and, in the rundown, Buddy Myer scored","1938WS1.EVA.regular.comment.csv",11
-"WS1193806040",46,"$Earl Averill intentionally dropped the ball","1938WS1.EVA.regular.comment.csv",12
-"WS1193806060",49,"ej,allej102,P,morig101,Call at 3B ej,weatr101,P,morig101,Call at 3B Johnny Allen and Roy Weatherly ejected by 3B umpire George Moriarty","1938WS1.EVA.regular.comment.csv",13
-"WS1193807041",46,"$Frankie Crosetti caught George Case with the hidden ball trick","1938WS1.EVA.regular.comment.csv",14
-"WS1193807042",24,"$the fans showered the field with bottles and vegetables after the call at 1B; 15 minute delay to clean the field","1938WS1.EVA.regular.comment.csv",15
-"WS1193807042",104,"$game called for darkness","1938WS1.EVA.regular.comment.csv",16
-"WS1193807090",61,"$Brucker has trouble throwing wet ball to pitcher and ball squirts away","1938WS1.EVA.regular.comment.csv",17
-"WS1193807120",13,"ej,bassj102,C,summb901,Bench jockeying Indians Coach Johnny Bassler ejected by 1B umpire Bill Summers sometime in second","1938WS1.EVA.regular.comment.csv",18
-"WS1193807130",35,"$Cecil Travis was spiked by Roy Weatherly in the fourth","1938WS1.EVA.regular.comment.csv",19
-"WS1193807190",78,"Hogsett entered the game with a 2-0 count on Rogell","1938WS1.EVA.regular.comment.csv",20
-"WS1193807200",0,"Start of game was delayed by 20 minutes due to rain","1938WS1.EVA.regular.comment.csv",21
-"WS1193808230",45,"$Bluege given error for late throw.","1938WS1.EVA.regular.comment.csv",22
-"WS1193808230",63,"pbp account ends here, rest deduced","1938WS1.EVA.regular.comment.csv",23
-"WS1193808240",77,"ej,simma101,P,romme101,Balls and strikes $Al Simmons ejected for arguing balls and strikes","1938WS1.EVA.regular.comment.csv",24
-"WS1193808280",54,"$Lyn Lary intentionally dropped the ball","1938WS1.EVA.regular.comment.csv",25
-"WS1193808280",74,"ej,harrb106,M,basis901,Called third strike (Kicked dirt) Senators Manager Bucky Harris ejected by HP umpire Steve Basil for kicking dirt on HP after Basil cleaned it","1938WS1.EVA.regular.comment.csv",26
-"WS1193809051",32,"$Off wall, Cramer slammed into wall and was slightly injured. Game delayed a short time while trainer attended to Cramer.","1938WS1.EVA.regular.comment.csv",27
-"WS1193809052",50,"$Leonard's throw hit Chapman","1938WS1.EVA.regular.comment.csv",28
-"WS1193809080",49,"$Myers slid, spikes high, knocking out young Wagner","1938WS1.EVA.regular.comment.csv",29
-"WS1193809080",70,"ej,werbb101,P,grieb901,Fighting ej,myerb103,P,grieb901,Fighting $in the sixth inning, Buddy Myer slid into HP and his spikes struck Hal Wagner in the chest; when Myer stole 3B in the eighth he and Billy Werber started fighting; both benches cleared; Werber and Myer ejected by HP umpire Bill Grieve","1938WS1.EVA.regular.comment.csv",30
-"WS1193809100",58,"ej,bonuz101,P,hubbc901,Call at 3B Zeke Bonura ejected by 3B umpire Cal Hubbard","1938WS1.EVA.regular.comment.csv",31
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"WS1193804180",16,"missing play","1938WS1.EVA.regular.comment.csv",2
+"WS1193804300",50,"$Gordon and DiMaggio collided while Hoag was catching Wright's fly ball. Both players were knocked unconscious in the collision and taken to the hospital for overnight observation.","1938WS1.EVA.regular.comment.csv",3
+"WS1193805010",32,"$Goslin injured himself striking out last inning","1938WS1.EVA.regular.comment.csv",4
+"WS1193805020",41,"pbp ends here, rest reconstructed","1938WS1.EVA.regular.comment.csv",5
+"WS1193805040",65,"ej,harrb106,M,romme101,Call at 1B $Senators manager Harris ejected by 1B umpire Rommel for arguing call at 1st","1938WS1.EVA.regular.comment.csv",6
+"WS1193805060",83,"Reconstructed from here","1938WS1.EVA.regular.comment.csv",7
+"WS1193805060",100,"$Zeke Bonura and Ossie Bluege collided","1938WS1.EVA.regular.comment.csv",8
+"WS1193805070",42,"ej,kreem101,P,quinj901,Called third strike (Pushed umpire) $Mike Kreevich ejected by HP umpire John Quinn after pushing Quinn","1938WS1.EVA.regular.comment.csv",9
+"WS1193805090",74,"Reconstructed top ninth.","1938WS1.EVA.regular.comment.csv",10
+"WS1193805100",56,"Reconstructed last 3 innings.","1938WS1.EVA.regular.comment.csv",11
+"WS1193806040",8,"$John Stone trapped off 1B and, in the rundown, Buddy Myer scored","1938WS1.EVA.regular.comment.csv",12
+"WS1193806040",46,"$Earl Averill intentionally dropped the ball","1938WS1.EVA.regular.comment.csv",13
+"WS1193806060",49,"ej,allej102,P,morig101,Call at 3B ej,weatr101,P,morig101,Call at 3B Johnny Allen and Roy Weatherly ejected by 3B umpire George Moriarty","1938WS1.EVA.regular.comment.csv",14
+"WS1193807041",46,"$Frankie Crosetti caught George Case with the hidden ball trick","1938WS1.EVA.regular.comment.csv",15
+"WS1193807042",24,"$the fans showered the field with bottles and vegetables after the call at 1B; 15 minute delay to clean the field","1938WS1.EVA.regular.comment.csv",16
+"WS1193807042",104,"$game called for darkness","1938WS1.EVA.regular.comment.csv",17
+"WS1193807090",61,"$Brucker has trouble throwing wet ball to pitcher and ball squirts away","1938WS1.EVA.regular.comment.csv",18
+"WS1193807120",13,"ej,bassj102,C,summb901,Bench jockeying Indians Coach Johnny Bassler ejected by 1B umpire Bill Summers sometime in second","1938WS1.EVA.regular.comment.csv",19
+"WS1193807130",35,"$Cecil Travis was spiked by Roy Weatherly in the fourth","1938WS1.EVA.regular.comment.csv",20
+"WS1193807190",78,"Hogsett entered the game with a 2-0 count on Rogell","1938WS1.EVA.regular.comment.csv",21
+"WS1193807200",0,"Start of game was delayed by 20 minutes due to rain","1938WS1.EVA.regular.comment.csv",22
+"WS1193808230",45,"$Bluege given error for late throw.","1938WS1.EVA.regular.comment.csv",23
+"WS1193808230",63,"pbp account ends here, rest deduced","1938WS1.EVA.regular.comment.csv",24
+"WS1193808240",77,"ej,simma101,P,romme101,Balls and strikes $Al Simmons ejected for arguing balls and strikes","1938WS1.EVA.regular.comment.csv",25
+"WS1193808280",54,"$Lyn Lary intentionally dropped the ball","1938WS1.EVA.regular.comment.csv",26
+"WS1193808280",74,"ej,harrb106,M,basis901,Called third strike (Kicked dirt) Senators Manager Bucky Harris ejected by HP umpire Steve Basil for kicking dirt on HP after Basil cleaned it","1938WS1.EVA.regular.comment.csv",27
+"WS1193809051",32,"$Off wall, Cramer slammed into wall and was slightly injured. Game delayed a short time while trainer attended to Cramer.","1938WS1.EVA.regular.comment.csv",28
+"WS1193809052",50,"$Leonard's throw hit Chapman","1938WS1.EVA.regular.comment.csv",29
+"WS1193809080",49,"$Myers slid, spikes high, knocking out young Wagner","1938WS1.EVA.regular.comment.csv",30
+"WS1193809080",70,"ej,werbb101,P,grieb901,Fighting ej,myerb103,P,grieb901,Fighting $in the sixth inning, Buddy Myer slid into HP and his spikes struck Hal Wagner in the chest; when Myer stole 3B in the eighth he and Billy Werber started fighting; both benches cleared; Werber and Myer ejected by HP umpire Bill Grieve","1938WS1.EVA.regular.comment.csv",31
+"WS1193809100",58,"ej,bonuz101,P,hubbc901,Call at 3B Zeke Bonura ejected by 3B umpire Cal Hubbard","1938WS1.EVA.regular.comment.csv",32

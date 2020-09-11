@@ -1,37 +1,38 @@
-"CHN194804250",16,"could be the hit in the sixth","FILENAME_TX","LINE_NUMBER_CT"
-"CHN194804250",64,"$22 consecutive batters retired by Russ Meyer","1948CHN.EVN.regular.comment.csv",2
-"CHN194805070",46,"ej,maucg101,P,stewb901,Bench jockeying $Dodger Mauch, not in game, ejected by HP umpire Stewart for bench jockeying","1948CHN.EVN.regular.comment.csv",3
-"CHN194805160",95,"$Bob Scheffing fumbled the throw in","1948CHN.EVN.regular.comment.csv",4
-"CHN194806020",84,"$Eddie Miller collided with Richie Ashburn as Ashburn caught the ball","1948CHN.EVN.regular.comment.csv",5
-"CHN194806020",90,"ej,Andrew Lotshaw,T,stewb901,Call at 2B [Trainer] $Dick Culler collided with Richie Ashburn at 2B but 3B umpire Bill Stewart ruled that Culler did not tag Ashburn; the Cubs argued and trainer Andrew Lotshaw was ejected from the bench by Stewart","1948CHN.EVN.regular.comment.csv",6
-"CHN194806051",44,"$Dick Culler left with an injured back","1948CHN.EVN.regular.comment.csv",7
-"CHN194806051",49,"$the throw went into the dugout","1948CHN.EVN.regular.comment.csv",8
-"CHN194806060",40,"$Bobby Sturgeon missed the 2B bag","1948CHN.EVN.regular.comment.csv",9
-"CHN194806060",42,"$Roy Smalley ran to the occupied 3B and Clarence Maddern run down","1948CHN.EVN.regular.comment.csv",10
-"CHN194806130",51,"$Hank Schenz called for interference","1948CHN.EVN.regular.comment.csv",11
-"CHN194807010",10,"$off LaPointe's shoulder","1948CHN.EVN.regular.comment.csv",12
-"CHN194807090",46,"not sure of this but need third out","1948CHN.EVN.regular.comment.csv",13
-"CHN194807100",13,"30 minute rain delay","1948CHN.EVN.regular.comment.csv",14
-"CHN194807100",24,"$Rip Sewell threw a blooper pitch that Eddie Waitkus hit to LF","1948CHN.EVN.regular.comment.csv",15
-"CHN194807152",100,"game called for rain","1948CHN.EVN.regular.comment.csv",16
-"CHN194807170",30,"Into LF bleachers","1948CHN.EVN.regular.comment.csv",17
-"CHN194807170",60,"Hamner deflected it with his bare hand to Smalley","1948CHN.EVN.regular.comment.csv",18
-"CHN194807212",52,"$Clyde McCullough argued the call at HP and Gil Hodges attempted to advance to 3B","1948CHN.EVN.regular.comment.csv",19
-"CHN194807242",58,"DWS: pbp ends here, rest deduced","1948CHN.EVN.regular.comment.csv",20
-"CHN194808160",21,"$the umpires said the ball cleared the wall and was thrown back by a fan but the Cubs claimed the ball landed in the ivy","1948CHN.EVN.regular.comment.csv",21
-"CHN194808200",9,"$the ball went into the window of a house across Waveland Avenue","1948CHN.EVN.regular.comment.csv",22
-"CHN194808220",0,"changed the data line to 5","1948CHN.EVN.regular.comment.csv",23
-"CHN194808220",3,"umpchange,1,ump3b,(None) $3B umpire Artie Gore struck on the back of the head by a throw by Andy Pafko toward 2B; Gore, who was knocked unconscious, was carried off the field, revived and taken to the hospital; he did not suffer a fracture","1948CHN.EVN.regular.comment.csv",24
-"CHN194808240",33,"$Hal Jeffcoat lost the ball in the sun","1948CHN.EVN.regular.comment.csv",25
-"CHN194808240",51,"$Deflection off Mize's knee","1948CHN.EVN.regular.comment.csv",26
-"CHN194808270",64,"ej,fitzf101,C,stewb901,Call at 1B $Sibby Sisti failed to touch the 1B bag; the Braves argued the call; Coach Freddie Fitzsimmons ejected by 1B umpire Bill Stewart","1948CHN.EVN.regular.comment.csv",27
-"CHN194808280",0,"Weather: hot","1948CHN.EVN.regular.comment.csv",28
-"CHN194808280",7,"$Red Barrett threw four pitches in the inning","1948CHN.EVN.regular.comment.csv",29
-"CHN194808280",22,"Off Meyer's glove","1948CHN.EVN.regular.comment.csv",30
-"CHN194808280",60,"Lowrey: good catch","1948CHN.EVN.regular.comment.csv",31
-"CHN194808280",79,"$Hal Jeffcoat crashed into the wall","1948CHN.EVN.regular.comment.csv",32
-"CHN194808312",58,"ej,cavap101,P,barla901,Call at 1B $Cavarretta ejected by 3B umpire Barlick for arguing he was safe","1948CHN.EVN.regular.comment.csv",33
-"CHN194809010",25,"missing fielding $Gil Hodges rounded 1B too far","1948CHN.EVN.regular.comment.csv",34
-"CHN194809110",97,"ej,meyeb101,M,conlj102,Balls and strikes Pirates manager Billy Meyer ejected by HP umpire Jocko Conlan","1948CHN.EVN.regular.comment.csv",35
-"CHN194809280",20,"Litwhiler incorrectly charged with GDP on this","1948CHN.EVN.regular.comment.csv",36
-"CHN194809280",31,"Schenz incorrectly charged with GDP on this","1948CHN.EVN.regular.comment.csv",37
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"CHN194804250",16,"could be the hit in the sixth","1948CHN.EVN.regular.comment.csv",2
+"CHN194804250",64,"$22 consecutive batters retired by Russ Meyer","1948CHN.EVN.regular.comment.csv",3
+"CHN194805070",46,"ej,maucg101,P,stewb901,Bench jockeying $Dodger Mauch, not in game, ejected by HP umpire Stewart for bench jockeying","1948CHN.EVN.regular.comment.csv",4
+"CHN194805160",95,"$Bob Scheffing fumbled the throw in","1948CHN.EVN.regular.comment.csv",5
+"CHN194806020",84,"$Eddie Miller collided with Richie Ashburn as Ashburn caught the ball","1948CHN.EVN.regular.comment.csv",6
+"CHN194806020",90,"ej,Andrew Lotshaw,T,stewb901,Call at 2B [Trainer] $Dick Culler collided with Richie Ashburn at 2B but 3B umpire Bill Stewart ruled that Culler did not tag Ashburn; the Cubs argued and trainer Andrew Lotshaw was ejected from the bench by Stewart","1948CHN.EVN.regular.comment.csv",7
+"CHN194806051",44,"$Dick Culler left with an injured back","1948CHN.EVN.regular.comment.csv",8
+"CHN194806051",49,"$the throw went into the dugout","1948CHN.EVN.regular.comment.csv",9
+"CHN194806060",40,"$Bobby Sturgeon missed the 2B bag","1948CHN.EVN.regular.comment.csv",10
+"CHN194806060",42,"$Roy Smalley ran to the occupied 3B and Clarence Maddern run down","1948CHN.EVN.regular.comment.csv",11
+"CHN194806130",51,"$Hank Schenz called for interference","1948CHN.EVN.regular.comment.csv",12
+"CHN194807010",10,"$off LaPointe's shoulder","1948CHN.EVN.regular.comment.csv",13
+"CHN194807090",46,"not sure of this but need third out","1948CHN.EVN.regular.comment.csv",14
+"CHN194807100",13,"30 minute rain delay","1948CHN.EVN.regular.comment.csv",15
+"CHN194807100",24,"$Rip Sewell threw a blooper pitch that Eddie Waitkus hit to LF","1948CHN.EVN.regular.comment.csv",16
+"CHN194807152",100,"game called for rain","1948CHN.EVN.regular.comment.csv",17
+"CHN194807170",30,"Into LF bleachers","1948CHN.EVN.regular.comment.csv",18
+"CHN194807170",60,"Hamner deflected it with his bare hand to Smalley","1948CHN.EVN.regular.comment.csv",19
+"CHN194807212",52,"$Clyde McCullough argued the call at HP and Gil Hodges attempted to advance to 3B","1948CHN.EVN.regular.comment.csv",20
+"CHN194807242",58,"DWS: pbp ends here, rest deduced","1948CHN.EVN.regular.comment.csv",21
+"CHN194808160",21,"$the umpires said the ball cleared the wall and was thrown back by a fan but the Cubs claimed the ball landed in the ivy","1948CHN.EVN.regular.comment.csv",22
+"CHN194808200",9,"$the ball went into the window of a house across Waveland Avenue","1948CHN.EVN.regular.comment.csv",23
+"CHN194808220",0,"changed the data line to 5","1948CHN.EVN.regular.comment.csv",24
+"CHN194808220",3,"umpchange,1,ump3b,(None) $3B umpire Artie Gore struck on the back of the head by a throw by Andy Pafko toward 2B; Gore, who was knocked unconscious, was carried off the field, revived and taken to the hospital; he did not suffer a fracture","1948CHN.EVN.regular.comment.csv",25
+"CHN194808240",33,"$Hal Jeffcoat lost the ball in the sun","1948CHN.EVN.regular.comment.csv",26
+"CHN194808240",51,"$Deflection off Mize's knee","1948CHN.EVN.regular.comment.csv",27
+"CHN194808270",64,"ej,fitzf101,C,stewb901,Call at 1B $Sibby Sisti failed to touch the 1B bag; the Braves argued the call; Coach Freddie Fitzsimmons ejected by 1B umpire Bill Stewart","1948CHN.EVN.regular.comment.csv",28
+"CHN194808280",0,"Weather: hot","1948CHN.EVN.regular.comment.csv",29
+"CHN194808280",7,"$Red Barrett threw four pitches in the inning","1948CHN.EVN.regular.comment.csv",30
+"CHN194808280",22,"Off Meyer's glove","1948CHN.EVN.regular.comment.csv",31
+"CHN194808280",60,"Lowrey: good catch","1948CHN.EVN.regular.comment.csv",32
+"CHN194808280",79,"$Hal Jeffcoat crashed into the wall","1948CHN.EVN.regular.comment.csv",33
+"CHN194808312",58,"ej,cavap101,P,barla901,Call at 1B $Cavarretta ejected by 3B umpire Barlick for arguing he was safe","1948CHN.EVN.regular.comment.csv",34
+"CHN194809010",25,"missing fielding $Gil Hodges rounded 1B too far","1948CHN.EVN.regular.comment.csv",35
+"CHN194809110",97,"ej,meyeb101,M,conlj102,Balls and strikes Pirates manager Billy Meyer ejected by HP umpire Jocko Conlan","1948CHN.EVN.regular.comment.csv",36
+"CHN194809280",20,"Litwhiler incorrectly charged with GDP on this","1948CHN.EVN.regular.comment.csv",37
+"CHN194809280",31,"Schenz incorrectly charged with GDP on this","1948CHN.EVN.regular.comment.csv",38

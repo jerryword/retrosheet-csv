@@ -1,28 +1,29 @@
-"CHA197804070",84,"$bloop fell between Jerry Remy, Dwight Evans and Fred Lynn; Chet Lemon running on pitch","FILENAME_TX","LINE_NUMBER_CT"
-"CHA197805100",48,"ej,kusic101,P,kaisk901,Call at 1B $Twins Kusick ejected by 1B umpire Kaiser for arguing Bonds was out at 1st","1978CHA.EVA.regular.comment.csv",2
-"CHA197805120",0,"46 minute rain delay before start of game","1978CHA.EVA.regular.comment.csv",3
-"CHA197805120",46,"Called for rain at 11:05 after 1:21 delay","1978CHA.EVA.regular.comment.csv",4
-"CHA197805180",17,"$Chet Lemon left game with pulled leg muscle","1978CHA.EVA.regular.comment.csv",5
-"CHA197805281",57,"$Thad Bosley rounded 3B too far","1978CHA.EVA.regular.comment.csv",6
-"CHA197805290",49,"$Don Baylor called interference for running out of baseline","1978CHA.EVA.regular.comment.csv",7
-"CHA197806140",6,"apparently official error on ER total due to call reversal from CS with E4","1978CHA.EVA.regular.comment.csv",8
-"CHA197806170",13,"missing play in CHA197806170","1978CHA.EVA.regular.comment.csv",9
-"CHA197806182",48,"$Ron Schueler struck on left little finger by liner","1978CHA.EVA.regular.comment.csv",10
-"CHA197806220",93,"$Bob Stinson rounded 3B too far","1978CHA.EVA.regular.comment.csv",11
-"CHA197807190",30,"ej,dobyl101,M,deegb901,Call at HP $White Sox manager Doby ejected by HP umpire Deegan for arguing DeCinces was out at home on fielder's choice","1978CHA.EVA.regular.comment.csv",12
-"CHA197807220",0,"Protest=H","1978CHA.EVA.regular.comment.csv",13
-"CHA197807220",2,"40 minute rain delay","1978CHA.EVA.regular.comment.csv",14
-"CHA197807220",5,"$Bob Molinaro tried to steal and throw hit Ralph Garr's bat; Garr called out for interference and White Sox protest game","1978CHA.EVA.regular.comment.csv",15
-"CHA197807230",65,"ej,spenj101,P,kunkb101,Bench jockeying Jim Spencer ejected by HP umpire Bill Kunkel","1978CHA.EVA.regular.comment.csv",16
-"CHA197807280",1,"Debut game for Paul Mirabella","1978CHA.EVA.regular.comment.csv",17
-"CHA197808220",0,"Protest=H","1978CHA.EVA.regular.comment.csv",18
-"CHA197808220",32,"$The White Sox claimed that Hal McRae used illegal bat and protested the game","1978CHA.EVA.regular.comment.csv",19
-"CHA197808250",0,"$substitute umpires worked due to a one-day strike by the staff umpires; Debut for umpires Woody Urchak, Bill Sprincz, Bill Laude and Dave Gustafson","1978CHA.EVA.regular.comment.csv",20
-"CHA197809070",6,"Debut game for Harry Chappas","1978CHA.EVA.regular.comment.csv",21
-"CHA197809080",0,"$Don Kessinger night","1978CHA.EVA.regular.comment.csv",22
-"CHA197809110",0,"Protest=H","1978CHA.EVA.regular.comment.csv",23
-"CHA197809110",9,"Debut game for Dave Edwards","1978CHA.EVA.regular.comment.csv",24
-"CHA197809110",42,"$Willie Norwood wore a different uniform that his teammates; the White Sox play the game under protest","1978CHA.EVA.regular.comment.csv",25
-"CHA197809110",71,"Debut game for Marv Foley","1978CHA.EVA.regular.comment.csv",26
-"CHA197809120",20,"Debut game for Joe Gates","1978CHA.EVA.regular.comment.csv",27
-"CHA197809240",23,"ej,fregj101,M,barnl901,Call at 2B $Angels manager Fregosi ejected by 2B umpire Barnett for arguing Lansford was safe on steal attempt","1978CHA.EVA.regular.comment.csv",28
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"CHA197804070",84,"$bloop fell between Jerry Remy, Dwight Evans and Fred Lynn; Chet Lemon running on pitch","1978CHA.EVA.regular.comment.csv",2
+"CHA197805100",48,"ej,kusic101,P,kaisk901,Call at 1B $Twins Kusick ejected by 1B umpire Kaiser for arguing Bonds was out at 1st","1978CHA.EVA.regular.comment.csv",3
+"CHA197805120",0,"46 minute rain delay before start of game","1978CHA.EVA.regular.comment.csv",4
+"CHA197805120",46,"Called for rain at 11:05 after 1:21 delay","1978CHA.EVA.regular.comment.csv",5
+"CHA197805180",17,"$Chet Lemon left game with pulled leg muscle","1978CHA.EVA.regular.comment.csv",6
+"CHA197805281",57,"$Thad Bosley rounded 3B too far","1978CHA.EVA.regular.comment.csv",7
+"CHA197805290",49,"$Don Baylor called interference for running out of baseline","1978CHA.EVA.regular.comment.csv",8
+"CHA197806140",6,"apparently official error on ER total due to call reversal from CS with E4","1978CHA.EVA.regular.comment.csv",9
+"CHA197806170",13,"missing play in CHA197806170","1978CHA.EVA.regular.comment.csv",10
+"CHA197806182",48,"$Ron Schueler struck on left little finger by liner","1978CHA.EVA.regular.comment.csv",11
+"CHA197806220",93,"$Bob Stinson rounded 3B too far","1978CHA.EVA.regular.comment.csv",12
+"CHA197807190",30,"ej,dobyl101,M,deegb901,Call at HP $White Sox manager Doby ejected by HP umpire Deegan for arguing DeCinces was out at home on fielder's choice","1978CHA.EVA.regular.comment.csv",13
+"CHA197807220",0,"Protest=H","1978CHA.EVA.regular.comment.csv",14
+"CHA197807220",2,"40 minute rain delay","1978CHA.EVA.regular.comment.csv",15
+"CHA197807220",5,"$Bob Molinaro tried to steal and throw hit Ralph Garr's bat; Garr called out for interference and White Sox protest game","1978CHA.EVA.regular.comment.csv",16
+"CHA197807230",65,"ej,spenj101,P,kunkb101,Bench jockeying Jim Spencer ejected by HP umpire Bill Kunkel","1978CHA.EVA.regular.comment.csv",17
+"CHA197807280",1,"Debut game for Paul Mirabella","1978CHA.EVA.regular.comment.csv",18
+"CHA197808220",0,"Protest=H","1978CHA.EVA.regular.comment.csv",19
+"CHA197808220",32,"$The White Sox claimed that Hal McRae used illegal bat and protested the game","1978CHA.EVA.regular.comment.csv",20
+"CHA197808250",0,"$substitute umpires worked due to a one-day strike by the staff umpires; Debut for umpires Woody Urchak, Bill Sprincz, Bill Laude and Dave Gustafson","1978CHA.EVA.regular.comment.csv",21
+"CHA197809070",6,"Debut game for Harry Chappas","1978CHA.EVA.regular.comment.csv",22
+"CHA197809080",0,"$Don Kessinger night","1978CHA.EVA.regular.comment.csv",23
+"CHA197809110",0,"Protest=H","1978CHA.EVA.regular.comment.csv",24
+"CHA197809110",9,"Debut game for Dave Edwards","1978CHA.EVA.regular.comment.csv",25
+"CHA197809110",42,"$Willie Norwood wore a different uniform that his teammates; the White Sox play the game under protest","1978CHA.EVA.regular.comment.csv",26
+"CHA197809110",71,"Debut game for Marv Foley","1978CHA.EVA.regular.comment.csv",27
+"CHA197809120",20,"Debut game for Joe Gates","1978CHA.EVA.regular.comment.csv",28
+"CHA197809240",23,"ej,fregj101,M,barnl901,Call at 2B $Angels manager Fregosi ejected by 2B umpire Barnett for arguing Lansford was safe on steal attempt","1978CHA.EVA.regular.comment.csv",29

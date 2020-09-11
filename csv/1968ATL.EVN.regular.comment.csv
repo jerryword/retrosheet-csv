@@ -1,23 +1,24 @@
-"ATL196804120",18,"Joe Torre struck by foul ball","FILENAME_TX","LINE_NUMBER_CT"
-"ATL196804170",0,"$Phil Niekro 108 pitches; Bill Hands 75 pitches","1968ATL.EVN.regular.comment.csv",2
-"ATL196804180",0,"$Ken Johnson 75 pitches; Joe Niekro 78 pitches","1968ATL.EVN.regular.comment.csv",3
-"ATL196805070",68,"Debut game for Skip Guinn","1968ATL.EVN.regular.comment.csv",4
-"ATL196805250",68,"Game called on account of rain","1968ATL.EVN.regular.comment.csv",5
-"ATL196805260",0,"70 minute rain delay before start of game","1968ATL.EVN.regular.comment.csv",6
-"ATL196805260",54,"Game called after 30 minute rain delay","1968ATL.EVN.regular.comment.csv",7
-"ATL196805300",28,"missing play in ATL196805300","1968ATL.EVN.regular.comment.csv",8
-"ATL196806100",23,"off screen on RF pole","1968ATL.EVN.regular.comment.csv",9
-"ATL196806140",0,"$Ron Reed 76 pitches; Rich Nye 114 pitches","1968ATL.EVN.regular.comment.csv",10
-"ATL196806150",13,"$Lou Johnson out on appeal for leaving 3B too soon","1968ATL.EVN.regular.comment.csv",11
-"ATL196806150",55,"Debut game for Darcy Fast","1968ATL.EVN.regular.comment.csv",12
-"ATL196806150",80,"$Milt Pappas 90 pitches; Joe Niekro 100 pitches","1968ATL.EVN.regular.comment.csv",13
-"ATL196806160",0,"$Phil Niekro 128 pitches; Fergie Jenkins 130 pitches","1968ATL.EVN.regular.comment.csv",14
-"ATL196807140",23,"Hank Aaron's 500th home run","1968ATL.EVN.regular.comment.csv",15
-"ATL196808050",0,"$Milt Pappas 101 pitches; Gary Ross 20 pitches","1968ATL.EVN.regular.comment.csv",16
-"ATL196808060",0,"$Pat Jarvis 77 pitches; Joe Niekro 81 pitches","1968ATL.EVN.regular.comment.csv",17
-"ATL196808070",0,"$George Stone 99 pitches; Ken Holtzman 65 pitches","1968ATL.EVN.regular.comment.csv",18
-"ATL196808080",0,"$Ron Reed 87 pitches; Bill Hands 105 pitches","1968ATL.EVN.regular.comment.csv",19
-"ATL196809100",1,"Debut game for Al Santorini","1968ATL.EVN.regular.comment.csv",20
-"ATL196809100",14,"Debut game for Walt Hriniak","1968ATL.EVN.regular.comment.csv",21
-"ATL196809240",18,"$Mets manager Gil Hodges suffered mild heart attack in dugout during second inning; coach Rube Walker managed team for remainder of year","1968ATL.EVN.regular.comment.csv",22
-"ATL196809250",56,"$Sonny Jackson threw the ball away, allowing Cleon Jones to take 2B; Walt Hriniak is slow retrieving the ball, allowing Jones to take 3B","1968ATL.EVN.regular.comment.csv",23
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"ATL196804120",18,"Joe Torre struck by foul ball","1968ATL.EVN.regular.comment.csv",2
+"ATL196804170",0,"$Phil Niekro 108 pitches; Bill Hands 75 pitches","1968ATL.EVN.regular.comment.csv",3
+"ATL196804180",0,"$Ken Johnson 75 pitches; Joe Niekro 78 pitches","1968ATL.EVN.regular.comment.csv",4
+"ATL196805070",68,"Debut game for Skip Guinn","1968ATL.EVN.regular.comment.csv",5
+"ATL196805250",68,"Game called on account of rain","1968ATL.EVN.regular.comment.csv",6
+"ATL196805260",0,"70 minute rain delay before start of game","1968ATL.EVN.regular.comment.csv",7
+"ATL196805260",54,"Game called after 30 minute rain delay","1968ATL.EVN.regular.comment.csv",8
+"ATL196805300",28,"missing play in ATL196805300","1968ATL.EVN.regular.comment.csv",9
+"ATL196806100",23,"off screen on RF pole","1968ATL.EVN.regular.comment.csv",10
+"ATL196806140",0,"$Ron Reed 76 pitches; Rich Nye 114 pitches","1968ATL.EVN.regular.comment.csv",11
+"ATL196806150",13,"$Lou Johnson out on appeal for leaving 3B too soon","1968ATL.EVN.regular.comment.csv",12
+"ATL196806150",55,"Debut game for Darcy Fast","1968ATL.EVN.regular.comment.csv",13
+"ATL196806150",80,"$Milt Pappas 90 pitches; Joe Niekro 100 pitches","1968ATL.EVN.regular.comment.csv",14
+"ATL196806160",0,"$Phil Niekro 128 pitches; Fergie Jenkins 130 pitches","1968ATL.EVN.regular.comment.csv",15
+"ATL196807140",23,"Hank Aaron's 500th home run","1968ATL.EVN.regular.comment.csv",16
+"ATL196808050",0,"$Milt Pappas 101 pitches; Gary Ross 20 pitches","1968ATL.EVN.regular.comment.csv",17
+"ATL196808060",0,"$Pat Jarvis 77 pitches; Joe Niekro 81 pitches","1968ATL.EVN.regular.comment.csv",18
+"ATL196808070",0,"$George Stone 99 pitches; Ken Holtzman 65 pitches","1968ATL.EVN.regular.comment.csv",19
+"ATL196808080",0,"$Ron Reed 87 pitches; Bill Hands 105 pitches","1968ATL.EVN.regular.comment.csv",20
+"ATL196809100",1,"Debut game for Al Santorini","1968ATL.EVN.regular.comment.csv",21
+"ATL196809100",14,"Debut game for Walt Hriniak","1968ATL.EVN.regular.comment.csv",22
+"ATL196809240",18,"$Mets manager Gil Hodges suffered mild heart attack in dugout during second inning; coach Rube Walker managed team for remainder of year","1968ATL.EVN.regular.comment.csv",23
+"ATL196809250",56,"$Sonny Jackson threw the ball away, allowing Cleon Jones to take 2B; Walt Hriniak is slow retrieving the ball, allowing Jones to take 3B","1968ATL.EVN.regular.comment.csv",24

@@ -1,34 +1,35 @@
-"MIN197804170",26,"354-foot homer","FILENAME_TX","LINE_NUMBER_CT"
-"MIN197804190",15,"407-foot homer","1978MIN.EVA.regular.comment.csv",2
-"MIN197804190",49,"372-foot homer","1978MIN.EVA.regular.comment.csv",3
-"MIN197804210",47,"375-foot homer","1978MIN.EVA.regular.comment.csv",4
-"MIN197804220",30,"ej,gricb001,P,mckej901,Charging mound $Roger Erickson threw the 2-1 pitch behind Bobby Grich, who charged the mound and hit Erickson with his forearm; both benches cleared and a brawl ensued; Rich Chiles body blocked Grich; Grich ejected by HP umpire Jim McKean","1978MIN.EVA.regular.comment.csv",5
-"MIN197804300",13,"Debut game for Brian Doyle","1978MIN.EVA.regular.comment.csv",6
-"MIN197805280",0,"Protest=V","1978MIN.EVA.regular.comment.csv",7
-"MIN197805280",80,"$Royals protested game when umpires threatened to force Hrabosky to pitch within 20 seconds, even with runners on base","1978MIN.EVA.regular.comment.csv",8
-"MIN197805280",91,"ej,hraba101,P,kunkb101,Bench jockeying $Royals Hrabosky ejected by 1B umpire Bill Kunkel for bench jockeying","1978MIN.EVA.regular.comment.csv",9
-"MIN197806080",63,"ej,maucg101,M,neudj901,Balls and strikes Twins Manager Gene Mauch ejected by HP umpire Jerry Neudecker","1978MIN.EVA.regular.comment.csv",10
-"MIN197806140",47,"ej,waitr001,P,kaisk901,Bench jockeying Rick Waits ejected by HP umpire Ken Kaiser","1978MIN.EVA.regular.comment.csv",11
-"MIN197806160",0,"25 minute rain delay before start of game","1978MIN.EVA.regular.comment.csv",12
-"MIN197806160",1,"Debut game for Darrell Jackson","1978MIN.EVA.regular.comment.csv",13
-"MIN197806160",26,"35 minute rain delay","1978MIN.EVA.regular.comment.csv",14
-"MIN197806180",40,"$Carew's long fly was apparently caught by LeFlore, but was dropped when he ran into the fence; 1B umpire Kaiser initially ruled it a catch, then changed his call when the ball was dropped; the runner at 2nd, Powell, returned to his base when he saw the out call, but Smalley had continued to run and was out for passing Powell","1978MIN.EVA.regular.comment.csv",15
-"MIN197806210",1,"Debut game for Dave Machemer","1978MIN.EVA.regular.comment.csv",16
-"MIN197807010",13,"15 minute rain delay","1978MIN.EVA.regular.comment.csv",17
-"MIN197807010",75,"Debut game for Steve Trout","1978MIN.EVA.regular.comment.csv",18
-"MIN197807040",60,"ej,bambg101,M,koscg901,Called strike 3 ej,bands101,P,koscg901,Called strike 3 $Brewers manager Bamberger and Bando ejected by HP umpire Kosc for arguing called strike 3","1978MIN.EVA.regular.comment.csv",19
-"MIN197807230",46,"$Rick Dempsey cut his nose on the screen chasing Hosken Powell's foul pop","1978MIN.EVA.regular.comment.csv",20
-"MIN197807242",9,"ej,torrm001,P,koscg901,Balk call Mike Torrez ejected by 3B umpire Greg Kosc","1978MIN.EVA.regular.comment.csv",21
-"MIN197809040",43,"ej,dobyl101,M,brinj901,Call at 1B ej,lemoc001,P,brinj901,Call at 1B ej,nordw101,P,brinj901,Call at 1B (from bench) ej,schur101,P,brinj901,Call at 1B (from bench) $White Sox Manager Larry Doby, Chet Lemon, Wayne Nordhagen and Ron Schueler ejected by 1B umpire Joe Brinkman; Nordhagen and Schueler ejected from the bench","1978MIN.EVA.regular.comment.csv",22
-"MIN197809050",54,"$Jose Morales passed Dan Ford running the bases","1978MIN.EVA.regular.comment.csv",23
-"MIN197809080",9,"$Ben Oglivie's ball caromed off pitcher Gary Serum","1978MIN.EVA.regular.comment.csv",24
-"MIN197809080",19,"ej,moned101,P,mccol901,Balls and strikes Don Money ejected by HP umpire Larry McCoy","1978MIN.EVA.regular.comment.csv",25
-"MIN197809080",25,"404' HR","1978MIN.EVA.regular.comment.csv",26
-"MIN197809100",25,"350' HR","1978MIN.EVA.regular.comment.csv",27
-"MIN197809190",67,"ej,jackr002,P,mccol901,Charging mound ej,fregj101,M,mccol901,Brushback pitch called foul $Angels Jackson ejected by HP umpire McCoy for charging mound after brushback pitch; Angels manager Fregosi ejected by McCoy when brushback pitch was called a strike since umpire ruled it hit Jackson's bat","1978MIN.EVA.regular.comment.csv",28
-"MIN197809221",53,"360' HR","1978MIN.EVA.regular.comment.csv",29
-"MIN197809230",12,"403' HR","1978MIN.EVA.regular.comment.csv",30
-"MIN197809230",40,"350' HR","1978MIN.EVA.regular.comment.csv",31
-"MIN197809240",14,"ej,hillc101,C,kaisk901,Bench jockeying Royals Coach Chuck Hiller ejected by HP umpire Ken Kaiser","1978MIN.EVA.regular.comment.csv",32
-"MIN197809240",52,"375' HR","1978MIN.EVA.regular.comment.csv",33
-"MIN197809240",79,"367' HR","1978MIN.EVA.regular.comment.csv",34
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"MIN197804170",26,"354-foot homer","1978MIN.EVA.regular.comment.csv",2
+"MIN197804190",15,"407-foot homer","1978MIN.EVA.regular.comment.csv",3
+"MIN197804190",49,"372-foot homer","1978MIN.EVA.regular.comment.csv",4
+"MIN197804210",47,"375-foot homer","1978MIN.EVA.regular.comment.csv",5
+"MIN197804220",30,"ej,gricb001,P,mckej901,Charging mound $Roger Erickson threw the 2-1 pitch behind Bobby Grich, who charged the mound and hit Erickson with his forearm; both benches cleared and a brawl ensued; Rich Chiles body blocked Grich; Grich ejected by HP umpire Jim McKean","1978MIN.EVA.regular.comment.csv",6
+"MIN197804300",13,"Debut game for Brian Doyle","1978MIN.EVA.regular.comment.csv",7
+"MIN197805280",0,"Protest=V","1978MIN.EVA.regular.comment.csv",8
+"MIN197805280",80,"$Royals protested game when umpires threatened to force Hrabosky to pitch within 20 seconds, even with runners on base","1978MIN.EVA.regular.comment.csv",9
+"MIN197805280",91,"ej,hraba101,P,kunkb101,Bench jockeying $Royals Hrabosky ejected by 1B umpire Bill Kunkel for bench jockeying","1978MIN.EVA.regular.comment.csv",10
+"MIN197806080",63,"ej,maucg101,M,neudj901,Balls and strikes Twins Manager Gene Mauch ejected by HP umpire Jerry Neudecker","1978MIN.EVA.regular.comment.csv",11
+"MIN197806140",47,"ej,waitr001,P,kaisk901,Bench jockeying Rick Waits ejected by HP umpire Ken Kaiser","1978MIN.EVA.regular.comment.csv",12
+"MIN197806160",0,"25 minute rain delay before start of game","1978MIN.EVA.regular.comment.csv",13
+"MIN197806160",1,"Debut game for Darrell Jackson","1978MIN.EVA.regular.comment.csv",14
+"MIN197806160",26,"35 minute rain delay","1978MIN.EVA.regular.comment.csv",15
+"MIN197806180",40,"$Carew's long fly was apparently caught by LeFlore, but was dropped when he ran into the fence; 1B umpire Kaiser initially ruled it a catch, then changed his call when the ball was dropped; the runner at 2nd, Powell, returned to his base when he saw the out call, but Smalley had continued to run and was out for passing Powell","1978MIN.EVA.regular.comment.csv",16
+"MIN197806210",1,"Debut game for Dave Machemer","1978MIN.EVA.regular.comment.csv",17
+"MIN197807010",13,"15 minute rain delay","1978MIN.EVA.regular.comment.csv",18
+"MIN197807010",75,"Debut game for Steve Trout","1978MIN.EVA.regular.comment.csv",19
+"MIN197807040",60,"ej,bambg101,M,koscg901,Called strike 3 ej,bands101,P,koscg901,Called strike 3 $Brewers manager Bamberger and Bando ejected by HP umpire Kosc for arguing called strike 3","1978MIN.EVA.regular.comment.csv",20
+"MIN197807230",46,"$Rick Dempsey cut his nose on the screen chasing Hosken Powell's foul pop","1978MIN.EVA.regular.comment.csv",21
+"MIN197807242",9,"ej,torrm001,P,koscg901,Balk call Mike Torrez ejected by 3B umpire Greg Kosc","1978MIN.EVA.regular.comment.csv",22
+"MIN197809040",43,"ej,dobyl101,M,brinj901,Call at 1B ej,lemoc001,P,brinj901,Call at 1B ej,nordw101,P,brinj901,Call at 1B (from bench) ej,schur101,P,brinj901,Call at 1B (from bench) $White Sox Manager Larry Doby, Chet Lemon, Wayne Nordhagen and Ron Schueler ejected by 1B umpire Joe Brinkman; Nordhagen and Schueler ejected from the bench","1978MIN.EVA.regular.comment.csv",23
+"MIN197809050",54,"$Jose Morales passed Dan Ford running the bases","1978MIN.EVA.regular.comment.csv",24
+"MIN197809080",9,"$Ben Oglivie's ball caromed off pitcher Gary Serum","1978MIN.EVA.regular.comment.csv",25
+"MIN197809080",19,"ej,moned101,P,mccol901,Balls and strikes Don Money ejected by HP umpire Larry McCoy","1978MIN.EVA.regular.comment.csv",26
+"MIN197809080",25,"404' HR","1978MIN.EVA.regular.comment.csv",27
+"MIN197809100",25,"350' HR","1978MIN.EVA.regular.comment.csv",28
+"MIN197809190",67,"ej,jackr002,P,mccol901,Charging mound ej,fregj101,M,mccol901,Brushback pitch called foul $Angels Jackson ejected by HP umpire McCoy for charging mound after brushback pitch; Angels manager Fregosi ejected by McCoy when brushback pitch was called a strike since umpire ruled it hit Jackson's bat","1978MIN.EVA.regular.comment.csv",29
+"MIN197809221",53,"360' HR","1978MIN.EVA.regular.comment.csv",30
+"MIN197809230",12,"403' HR","1978MIN.EVA.regular.comment.csv",31
+"MIN197809230",40,"350' HR","1978MIN.EVA.regular.comment.csv",32
+"MIN197809240",14,"ej,hillc101,C,kaisk901,Bench jockeying Royals Coach Chuck Hiller ejected by HP umpire Ken Kaiser","1978MIN.EVA.regular.comment.csv",33
+"MIN197809240",52,"375' HR","1978MIN.EVA.regular.comment.csv",34
+"MIN197809240",79,"367' HR","1978MIN.EVA.regular.comment.csv",35

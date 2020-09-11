@@ -1,26 +1,27 @@
-"BAL197604120",6,"$Lee May pulled right thigh muscle","FILENAME_TX","LINE_NUMBER_CT"
-"BAL197604130",13,"Debut game for Andres Mora","1976BAL.EVA.regular.comment.csv",2
-"BAL197604270",17,"$Doug DeCinces called for interference on the steal attempt","1976BAL.EVA.regular.comment.csv",3
-"BAL197604270",29,"ej,blaip101,P,brinj901,Balls and strikes ej,weave801,M,brinj901,Balls and strikes Paul Blair and Orioles Manager Earl Weaver ejected by HP umpire Joe Brinkman","1976BAL.EVA.regular.comment.csv",4
-"BAL197605190",69,"$Bill Castro injured leg at 1B","1976BAL.EVA.regular.comment.csv",5
-"BAL197605210",60,"ej,johna104,P,clara901,Call at 1B Alex Johnson ejected by 1B umpire Al Clark","1976BAL.EVA.regular.comment.csv",6
-"BAL197605220",0,"$umpire ROn Luciano missed game due to illness","1976BAL.EVA.regular.comment.csv",7
-"BAL197605250",18,"ej,weave801,M,lucir901,Balls and strikes Orioles Manager Earl Weaver ejected by HP umpire Ron Luciano","1976BAL.EVA.regular.comment.csv",8
-"BAL197606040",22,"ej,may-l101,P,lucir901,Charging mound after close pitches Lee May ejected by HP umpire Ron Luciano","1976BAL.EVA.regular.comment.csv",9
-"BAL197606062",71,"$rOY Smalley dislocated a finger on pick off try","1976BAL.EVA.regular.comment.csv",10
-"BAL197606070",66,"Reggie Jackson hit by pitch in the dirt","1976BAL.EVA.regular.comment.csv",11
-"BAL197607180",80,"missing fiedlers in BAL7607180","1976BAL.EVA.regular.comment.csv",12
-"BAL197607250",15,"ej,may-l101,P,fordd901,Called third strike ej,weave801,M,fordd901,Called third strike $May and Orioles Manager Weaver ejected by HP umpire Ford for arguing called third strike","1976BAL.EVA.regular.comment.csv",13
-"BAL197607260",56,"$the ball caromed off Doug DeCinces glove and struck 3B umpire Jerry Neudecker; catcher Dave Duncan then mishandled a bunt by Mickey Rivers for an apparent error but the play was ruled a foul ball by HP umpire Art Frantz","1976BAL.EVA.regular.comment.csv",14
-"BAL197607270",61,"$Reggie Jackson hit high on right cheek","1976BAL.EVA.regular.comment.csv",15
-"BAL197608141",12,"1:35 rain delay at 6:04","1976BAL.EVA.regular.comment.csv",16
-"BAL197608142",43,"$Reggie Jackson yelled at Ken Brett while rounding the bases because Brett had brushed him back earlier","1976BAL.EVA.regular.comment.csv",17
-"BAL197608142",59,"ej,jackr001,P,denkd901,Fighting ej,johnl101,P,denkd901,Fighting $Clay Carroll threw at Reggie Jackson; on the next pitch, Jackson threw his bat towards Carroll and a 10-minute brawl ensued; Jackson and Lamar Johnson ejected by HP umpire Don Denkinger","1976BAL.EVA.regular.comment.csv",18
-"BAL197608240",9,"ej,weave801,M,phild901,Arguing balls and stikes $Orioles manager Earl Weaver ejected by plate umpire Dave Phillips for arguing balls and strikes","1976BAL.EVA.regular.comment.csv",19
-"BAL197609010",31,"$Bobby Grich tried to advance to 3B on the grounder; SS Freddie Patek ran to back up 3B George Brett on the play and collided with 3B umpire Greg Kosc; Patek carried off the field on a stretcher","1976BAL.EVA.regular.comment.csv",20
-"BAL197609030",22,"$Willie Randolph injured","1976BAL.EVA.regular.comment.csv",21
-"BAL197609050",45,"$Jim Hunter, already in the game as the pitcher, was sent to the plate to pinch hit for 2B Sandy Alomar; this is not legal but HP umpire Marty Springstead allowed it and Orioles manager Earl Weaver did not complain; DH Cesar Tovar moved to 2B","1976BAL.EVA.regular.comment.csv",22
-"BAL197609090",51,"$Ken Singleton took a HR away from Lis","1976BAL.EVA.regular.comment.csv",23
-"BAL197609140",45,"Debut game for Dennis Martinez","1976BAL.EVA.regular.comment.csv",24
-"BAL197609150",45,"Game cancelled due to rain","1976BAL.EVA.regular.comment.csv",25
-"BAL197609290",71,"$The crowd gave Brooks Robinson a standing ovation as he left the field for the last time, chanting 'We want Brooks'","1976BAL.EVA.regular.comment.csv",26
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"BAL197604120",6,"$Lee May pulled right thigh muscle","1976BAL.EVA.regular.comment.csv",2
+"BAL197604130",13,"Debut game for Andres Mora","1976BAL.EVA.regular.comment.csv",3
+"BAL197604270",17,"$Doug DeCinces called for interference on the steal attempt","1976BAL.EVA.regular.comment.csv",4
+"BAL197604270",29,"ej,blaip101,P,brinj901,Balls and strikes ej,weave801,M,brinj901,Balls and strikes Paul Blair and Orioles Manager Earl Weaver ejected by HP umpire Joe Brinkman","1976BAL.EVA.regular.comment.csv",5
+"BAL197605190",69,"$Bill Castro injured leg at 1B","1976BAL.EVA.regular.comment.csv",6
+"BAL197605210",60,"ej,johna104,P,clara901,Call at 1B Alex Johnson ejected by 1B umpire Al Clark","1976BAL.EVA.regular.comment.csv",7
+"BAL197605220",0,"$umpire ROn Luciano missed game due to illness","1976BAL.EVA.regular.comment.csv",8
+"BAL197605250",18,"ej,weave801,M,lucir901,Balls and strikes Orioles Manager Earl Weaver ejected by HP umpire Ron Luciano","1976BAL.EVA.regular.comment.csv",9
+"BAL197606040",22,"ej,may-l101,P,lucir901,Charging mound after close pitches Lee May ejected by HP umpire Ron Luciano","1976BAL.EVA.regular.comment.csv",10
+"BAL197606062",71,"$rOY Smalley dislocated a finger on pick off try","1976BAL.EVA.regular.comment.csv",11
+"BAL197606070",66,"Reggie Jackson hit by pitch in the dirt","1976BAL.EVA.regular.comment.csv",12
+"BAL197607180",80,"missing fiedlers in BAL7607180","1976BAL.EVA.regular.comment.csv",13
+"BAL197607250",15,"ej,may-l101,P,fordd901,Called third strike ej,weave801,M,fordd901,Called third strike $May and Orioles Manager Weaver ejected by HP umpire Ford for arguing called third strike","1976BAL.EVA.regular.comment.csv",14
+"BAL197607260",56,"$the ball caromed off Doug DeCinces glove and struck 3B umpire Jerry Neudecker; catcher Dave Duncan then mishandled a bunt by Mickey Rivers for an apparent error but the play was ruled a foul ball by HP umpire Art Frantz","1976BAL.EVA.regular.comment.csv",15
+"BAL197607270",61,"$Reggie Jackson hit high on right cheek","1976BAL.EVA.regular.comment.csv",16
+"BAL197608141",12,"1:35 rain delay at 6:04","1976BAL.EVA.regular.comment.csv",17
+"BAL197608142",43,"$Reggie Jackson yelled at Ken Brett while rounding the bases because Brett had brushed him back earlier","1976BAL.EVA.regular.comment.csv",18
+"BAL197608142",59,"ej,jackr001,P,denkd901,Fighting ej,johnl101,P,denkd901,Fighting $Clay Carroll threw at Reggie Jackson; on the next pitch, Jackson threw his bat towards Carroll and a 10-minute brawl ensued; Jackson and Lamar Johnson ejected by HP umpire Don Denkinger","1976BAL.EVA.regular.comment.csv",19
+"BAL197608240",9,"ej,weave801,M,phild901,Arguing balls and stikes $Orioles manager Earl Weaver ejected by plate umpire Dave Phillips for arguing balls and strikes","1976BAL.EVA.regular.comment.csv",20
+"BAL197609010",31,"$Bobby Grich tried to advance to 3B on the grounder; SS Freddie Patek ran to back up 3B George Brett on the play and collided with 3B umpire Greg Kosc; Patek carried off the field on a stretcher","1976BAL.EVA.regular.comment.csv",21
+"BAL197609030",22,"$Willie Randolph injured","1976BAL.EVA.regular.comment.csv",22
+"BAL197609050",45,"$Jim Hunter, already in the game as the pitcher, was sent to the plate to pinch hit for 2B Sandy Alomar; this is not legal but HP umpire Marty Springstead allowed it and Orioles manager Earl Weaver did not complain; DH Cesar Tovar moved to 2B","1976BAL.EVA.regular.comment.csv",23
+"BAL197609090",51,"$Ken Singleton took a HR away from Lis","1976BAL.EVA.regular.comment.csv",24
+"BAL197609140",45,"Debut game for Dennis Martinez","1976BAL.EVA.regular.comment.csv",25
+"BAL197609150",45,"Game cancelled due to rain","1976BAL.EVA.regular.comment.csv",26
+"BAL197609290",71,"$The crowd gave Brooks Robinson a standing ovation as he left the field for the last time, chanting 'We want Brooks'","1976BAL.EVA.regular.comment.csv",27

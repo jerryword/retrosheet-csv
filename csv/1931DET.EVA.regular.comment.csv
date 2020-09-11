@@ -1,42 +1,43 @@
-"DET193105010",13,"$Marty McManus called for interference for hindering Luke Sewell's throw to 2B on a steal attempt","FILENAME_TX","LINE_NUMBER_CT"
-"DET193105080",25,"$Cronin overran the base","1931DET.EVA.regular.comment.csv",2
-"DET193105110",78,"reconstruction from top of 8th to end","1931DET.EVA.regular.comment.csv",3
-"DET193105120",43,"$Walker injured his shoulder diving for Russell's 5th-inning double.","1931DET.EVA.regular.comment.csv",4
-"DET193105130",10,"$Berry injured in 1st inning, left here","1931DET.EVA.regular.comment.csv",5
-"DET193105130",18,"$Gaston walked off base, thinking he was already out, but was then tagged","1931DET.EVA.regular.comment.csv",6
-"DET193105140",18,"$On 3rd strike, but bunt popup that was caught","1931DET.EVA.regular.comment.csv",7
-"DET193105160",60,"game called due to rain and hail","1931DET.EVA.regular.comment.csv",8
-"DET193105170",0,"$overflow crowd circled the outfield","1931DET.EVA.regular.comment.csv",9
-"DET193105170",2,"$into the overflow crowd","1931DET.EVA.regular.comment.csv",10
-"DET193105170",34,"$into the overflow crowd","1931DET.EVA.regular.comment.csv",11
-"DET193105170",36,"ej,harrb106,M,dinnb101,Call at 3B Tigers Manager Bucky Harris ejected by 1B umpire Bill Dinneen","1931DET.EVA.regular.comment.csv",12
-"DET193105170",45,"$into the overflow crowd","1931DET.EVA.regular.comment.csv",13
-"DET193105170",80,"$into the overflow crowd","1931DET.EVA.regular.comment.csv",14
-"DET193105170",81,"9th from NYT story or reconstructed","1931DET.EVA.regular.comment.csv",15
-"DET193105200",16,"$the ball caromed off Marty McManus' glove to Bill Akers","1931DET.EVA.regular.comment.csv",16
-"DET193105210",44,"$Jimmy Dykes spiked","1931DET.EVA.regular.comment.csv",17
-"DET193105290",9,"$John Stone left injured","1931DET.EVA.regular.comment.csv",18
-"DET193105310",2,"$Johnny Burnett strained his side rounding 1B","1931DET.EVA.regular.comment.csv",19
-"DET193105310",60,"ej,peckr101,M,mcgob901,Called ball on warm-up pitch $Wes Ferrell insisted on taking more warm-up pitches than the rules allowed; when Ferrell kept throwing, HP umpire Bill McGowan called a ball; Indians Manager Roger Peckinpaugh ejected by McGowan","1931DET.EVA.regular.comment.csv",20
-"DET193106070",7,"$Johnson tried to duck away from high inside pitch but ball hit his bat and floated over 3bman for double","1931DET.EVA.regular.comment.csv",21
-"DET193106070",56,"$Pitcher slipped on wet grass","1931DET.EVA.regular.comment.csv",22
-"DET193106190",36,"Ball hit high off the outfield wall.","1931DET.EVA.regular.comment.csv",23
-"DET193106190",79,"$Attempted triple steal.","1931DET.EVA.regular.comment.csv",24
-"DET193106232",73,"$Marberry hurt leg beating out hit","1931DET.EVA.regular.comment.csv",25
-"DET193106250",45,"$After groundout, 1bman threw to 2nd in DP try, but Cronin returned to 1st","1931DET.EVA.regular.comment.csv",26
-"DET193106290",0,"The UR's in this account eem highly suspect","1931DET.EVA.regular.comment.csv",27
-"DET193106300",90,"Reconstructed what wasn't in NYT story top of 10th to end","1931DET.EVA.regular.comment.csv",28
-"DET193106300",108,"$the Yankees thought John Stone struck out; HP umpire George Moriarty stepped in front of HP and talked to Red Ruffing and Bill Dickey then turned to the Yankees bench and threatened to clear it","1931DET.EVA.regular.comment.csv",29
-"DET193106300",115,"$Johnny Grabowski's bunt blooped over Tony Lazzeri's head","1931DET.EVA.regular.comment.csv",30
-"DET193107010",9,"$Art Jorgens struck on the head by Dale Alexander's backswing","1931DET.EVA.regular.comment.csv",31
-"DET193107050",64,"game called for rain","1931DET.EVA.regular.comment.csv",32
-"DET193107090",82,"previous two plays were one play","1931DET.EVA.regular.comment.csv",33
-"DET193107111",67,"$George Uhle allowed the ball to roll thinking it would go foul","1931DET.EVA.regular.comment.csv",34
-"DET193107112",67,"$Marty McManus escaped a rundown back to 3B where Frank Doljack was standing","1931DET.EVA.regular.comment.csv",35
-"DET193107112",69,"$missed squeeze play","1931DET.EVA.regular.comment.csv",36
-"DET193108050",34,"$failed squeeze play","1931DET.EVA.regular.comment.csv",37
-"DET193108180",55,"pbp account ends here, rest deduced","1931DET.EVA.regular.comment.csv",38
-"DET193108190",67,"$Rain delay of 7 minutes","1931DET.EVA.regular.comment.csv",39
-"DET193108250",12,"Off the wall.","1931DET.EVA.regular.comment.csv",40
-"DET193108250",44,"$West and Bluege both ended up on second base, Bluege was  tagged out on a good play by 3B Richardson.","1931DET.EVA.regular.comment.csv",41
-"DET193108260",10,"$Ball hit wall and hit right fielder in head, but stayed in","1931DET.EVA.regular.comment.csv",42
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"DET193105010",13,"$Marty McManus called for interference for hindering Luke Sewell's throw to 2B on a steal attempt","1931DET.EVA.regular.comment.csv",2
+"DET193105080",25,"$Cronin overran the base","1931DET.EVA.regular.comment.csv",3
+"DET193105110",78,"reconstruction from top of 8th to end","1931DET.EVA.regular.comment.csv",4
+"DET193105120",43,"$Walker injured his shoulder diving for Russell's 5th-inning double.","1931DET.EVA.regular.comment.csv",5
+"DET193105130",10,"$Berry injured in 1st inning, left here","1931DET.EVA.regular.comment.csv",6
+"DET193105130",18,"$Gaston walked off base, thinking he was already out, but was then tagged","1931DET.EVA.regular.comment.csv",7
+"DET193105140",18,"$On 3rd strike, but bunt popup that was caught","1931DET.EVA.regular.comment.csv",8
+"DET193105160",60,"game called due to rain and hail","1931DET.EVA.regular.comment.csv",9
+"DET193105170",0,"$overflow crowd circled the outfield","1931DET.EVA.regular.comment.csv",10
+"DET193105170",2,"$into the overflow crowd","1931DET.EVA.regular.comment.csv",11
+"DET193105170",34,"$into the overflow crowd","1931DET.EVA.regular.comment.csv",12
+"DET193105170",36,"ej,harrb106,M,dinnb101,Call at 3B Tigers Manager Bucky Harris ejected by 1B umpire Bill Dinneen","1931DET.EVA.regular.comment.csv",13
+"DET193105170",45,"$into the overflow crowd","1931DET.EVA.regular.comment.csv",14
+"DET193105170",80,"$into the overflow crowd","1931DET.EVA.regular.comment.csv",15
+"DET193105170",81,"9th from NYT story or reconstructed","1931DET.EVA.regular.comment.csv",16
+"DET193105200",16,"$the ball caromed off Marty McManus' glove to Bill Akers","1931DET.EVA.regular.comment.csv",17
+"DET193105210",44,"$Jimmy Dykes spiked","1931DET.EVA.regular.comment.csv",18
+"DET193105290",9,"$John Stone left injured","1931DET.EVA.regular.comment.csv",19
+"DET193105310",2,"$Johnny Burnett strained his side rounding 1B","1931DET.EVA.regular.comment.csv",20
+"DET193105310",60,"ej,peckr101,M,mcgob901,Called ball on warm-up pitch $Wes Ferrell insisted on taking more warm-up pitches than the rules allowed; when Ferrell kept throwing, HP umpire Bill McGowan called a ball; Indians Manager Roger Peckinpaugh ejected by McGowan","1931DET.EVA.regular.comment.csv",21
+"DET193106070",7,"$Johnson tried to duck away from high inside pitch but ball hit his bat and floated over 3bman for double","1931DET.EVA.regular.comment.csv",22
+"DET193106070",56,"$Pitcher slipped on wet grass","1931DET.EVA.regular.comment.csv",23
+"DET193106190",36,"Ball hit high off the outfield wall.","1931DET.EVA.regular.comment.csv",24
+"DET193106190",79,"$Attempted triple steal.","1931DET.EVA.regular.comment.csv",25
+"DET193106232",73,"$Marberry hurt leg beating out hit","1931DET.EVA.regular.comment.csv",26
+"DET193106250",45,"$After groundout, 1bman threw to 2nd in DP try, but Cronin returned to 1st","1931DET.EVA.regular.comment.csv",27
+"DET193106290",0,"The UR's in this account eem highly suspect","1931DET.EVA.regular.comment.csv",28
+"DET193106300",90,"Reconstructed what wasn't in NYT story top of 10th to end","1931DET.EVA.regular.comment.csv",29
+"DET193106300",108,"$the Yankees thought John Stone struck out; HP umpire George Moriarty stepped in front of HP and talked to Red Ruffing and Bill Dickey then turned to the Yankees bench and threatened to clear it","1931DET.EVA.regular.comment.csv",30
+"DET193106300",115,"$Johnny Grabowski's bunt blooped over Tony Lazzeri's head","1931DET.EVA.regular.comment.csv",31
+"DET193107010",9,"$Art Jorgens struck on the head by Dale Alexander's backswing","1931DET.EVA.regular.comment.csv",32
+"DET193107050",64,"game called for rain","1931DET.EVA.regular.comment.csv",33
+"DET193107090",82,"previous two plays were one play","1931DET.EVA.regular.comment.csv",34
+"DET193107111",67,"$George Uhle allowed the ball to roll thinking it would go foul","1931DET.EVA.regular.comment.csv",35
+"DET193107112",67,"$Marty McManus escaped a rundown back to 3B where Frank Doljack was standing","1931DET.EVA.regular.comment.csv",36
+"DET193107112",69,"$missed squeeze play","1931DET.EVA.regular.comment.csv",37
+"DET193108050",34,"$failed squeeze play","1931DET.EVA.regular.comment.csv",38
+"DET193108180",55,"pbp account ends here, rest deduced","1931DET.EVA.regular.comment.csv",39
+"DET193108190",67,"$Rain delay of 7 minutes","1931DET.EVA.regular.comment.csv",40
+"DET193108250",12,"Off the wall.","1931DET.EVA.regular.comment.csv",41
+"DET193108250",44,"$West and Bluege both ended up on second base, Bluege was  tagged out on a good play by 3B Richardson.","1931DET.EVA.regular.comment.csv",42
+"DET193108260",10,"$Ball hit wall and hit right fielder in head, but stayed in","1931DET.EVA.regular.comment.csv",43

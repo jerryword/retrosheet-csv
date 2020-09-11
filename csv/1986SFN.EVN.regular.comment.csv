@@ -1,17 +1,18 @@
-"SFN198604290",0,"50s","FILENAME_TX","LINE_NUMBER_CT"
-"SFN198605010",0,"60s","1986SFN.EVN.regular.comment.csv",2
-"SFN198605010",44,"$leaping catch against the fence by Dan Gladden","1986SFN.EVN.regular.comment.csv",3
-"SFN198606060",61,"DWS: really one play, separate for now","1986SFN.EVN.regular.comment.csv",4
-"SFN198606082",1,"Debut game for Terry Mulholland","1986SFN.EVN.regular.comment.csv",5
-"SFN198607050",72,"ej,pendt001,P,hallt901,Balls and strikes ej,herzw101,M,hallt901,Arguing ejection $Pendleton ejected by HP umpire Hallion after grounding out for arguing strike call; manager Herzog also ejected by Hallion","1986SFN.EVN.regular.comment.csv",6
-"SFN198607090",17,"$Jerry Mumphrey called for interference when the throw hit him","1986SFN.EVN.regular.comment.csv",7
-"SFN198608230",31,"$Mookie Wilson and Rafael Santana collide","1986SFN.EVN.regular.comment.csv",8
-"SFN198608250",9,"ej,lacom001,P,poncl901,Balls and strikes (from bench) Mike LaCoss ejected by HP umpire Larry Poncino after he had been removed from the game","1986SFN.EVN.regular.comment.csv",9
-"SFN198608260",13,"umpchange,3,ump1b,pullf901 umpchange,3,ump2b,(None) $1B umpire Bonin left with collarbone injury when hit by line drive; 2B umpire Pulli moved to 1st and game was finished with 3 umpires","1986SFN.EVN.regular.comment.csv",10
-"SFN198608260",66,"$aborted bunt and run","1986SFN.EVN.regular.comment.csv",11
-"SFN198609080",30,"$missed squeeze play","1986SFN.EVN.regular.comment.csv",12
-"SFN198609090",63,"$Bip Roberts missed the bag then threw wild to 1B","1986SFN.EVN.regular.comment.csv",13
-"SFN198609100",34,"$leaping catch at the wall by Eric Davis","1986SFN.EVN.regular.comment.csv",14
-"SFN198609100",46,"Debut game for Phil Ouellette","1986SFN.EVN.regular.comment.csv",15
-"SFN198609100",53,"Debut game for Randy Bockus","1986SFN.EVN.regular.comment.csv",16
-"SFN198610020",37,"ej,bluev001,P,bonig901,Balls and strikes ej,crair101,M,bonig901,Balls and strikes Vida Blue and Giants manager Roger Craig ejected by HP umpire Greg Bonin","1986SFN.EVN.regular.comment.csv",17
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"SFN198604290",0,"50s","1986SFN.EVN.regular.comment.csv",2
+"SFN198605010",0,"60s","1986SFN.EVN.regular.comment.csv",3
+"SFN198605010",44,"$leaping catch against the fence by Dan Gladden","1986SFN.EVN.regular.comment.csv",4
+"SFN198606060",61,"DWS: really one play, separate for now","1986SFN.EVN.regular.comment.csv",5
+"SFN198606082",1,"Debut game for Terry Mulholland","1986SFN.EVN.regular.comment.csv",6
+"SFN198607050",72,"ej,pendt001,P,hallt901,Balls and strikes ej,herzw101,M,hallt901,Arguing ejection $Pendleton ejected by HP umpire Hallion after grounding out for arguing strike call; manager Herzog also ejected by Hallion","1986SFN.EVN.regular.comment.csv",7
+"SFN198607090",17,"$Jerry Mumphrey called for interference when the throw hit him","1986SFN.EVN.regular.comment.csv",8
+"SFN198608230",31,"$Mookie Wilson and Rafael Santana collide","1986SFN.EVN.regular.comment.csv",9
+"SFN198608250",9,"ej,lacom001,P,poncl901,Balls and strikes (from bench) Mike LaCoss ejected by HP umpire Larry Poncino after he had been removed from the game","1986SFN.EVN.regular.comment.csv",10
+"SFN198608260",13,"umpchange,3,ump1b,pullf901 umpchange,3,ump2b,(None) $1B umpire Bonin left with collarbone injury when hit by line drive; 2B umpire Pulli moved to 1st and game was finished with 3 umpires","1986SFN.EVN.regular.comment.csv",11
+"SFN198608260",66,"$aborted bunt and run","1986SFN.EVN.regular.comment.csv",12
+"SFN198609080",30,"$missed squeeze play","1986SFN.EVN.regular.comment.csv",13
+"SFN198609090",63,"$Bip Roberts missed the bag then threw wild to 1B","1986SFN.EVN.regular.comment.csv",14
+"SFN198609100",34,"$leaping catch at the wall by Eric Davis","1986SFN.EVN.regular.comment.csv",15
+"SFN198609100",46,"Debut game for Phil Ouellette","1986SFN.EVN.regular.comment.csv",16
+"SFN198609100",53,"Debut game for Randy Bockus","1986SFN.EVN.regular.comment.csv",17
+"SFN198610020",37,"ej,bluev001,P,bonig901,Balls and strikes ej,crair101,M,bonig901,Balls and strikes Vida Blue and Giants manager Roger Craig ejected by HP umpire Greg Bonin","1986SFN.EVN.regular.comment.csv",18

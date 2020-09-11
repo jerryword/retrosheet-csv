@@ -1,27 +1,28 @@
-"LAN199004190",10,"$Eddie Murray thought two were out, ignored runner","FILENAME_TX","LINE_NUMBER_CT"
-"LAN199004200",15,"Debut game for Carlos Hernandez","1990LAN.EVN.regular.comment.csv",2
-"LAN199004200",49,"ej,hatcm001,P,davig901,Checked swing Mickey Hatcher ejected by HP umpire Gerry Davis","1990LAN.EVN.regular.comment.csv",3
-"LAN199004240",57,"ej,murre001,P,wendh901,Balls and strikes Eddie Murray ejected by HP umpire Harry Wendelstedt after the first pitch was called a strike","1990LAN.EVN.regular.comment.csv",4
-"LAN199004240",58,"Debut game for Brian Traxler","1990LAN.EVN.regular.comment.csv",5
-"LAN199005150",11,"Debut game for Jerry Goff","1990LAN.EVN.regular.comment.csv",6
-"LAN199006030",60,"$Joe Oliver called for interference","1990LAN.EVN.regular.comment.csv",7
-"LAN199006040",22,"$Mike Sharperson kicked at 2B Jeff Treadway and called for interference","1990LAN.EVN.regular.comment.csv",8
-"LAN199006050",63,"Debut game for Jimmy Kremers","1990LAN.EVN.regular.comment.csv",9
-"LAN199006150",40,"ej,robeb002,P,darlg901,Called third strike Bip Roberts ejected by HP umpire Gary Darling","1990LAN.EVN.regular.comment.csv",10
-"LAN199006150",80,"Debut game for Jim Poole","1990LAN.EVN.regular.comment.csv",11
-"LAN199006180",6,"$Kirk Gibson out with strained right groin muscle","1990LAN.EVN.regular.comment.csv",12
-"LAN199006200",16,"$Mike Sharperson called out for running out of baseline on pickoff","1990LAN.EVN.regular.comment.csv",13
-"LAN199006300",73,"ej,herzw101,M,wintm901,Call at 1B Cardinals manager Whitey Herzog ejected by 1B umpire Mike Winters","1990LAN.EVN.regular.comment.csv",14
-"LAN199007030",1,"Debut game for Terry Wells","1990LAN.EVN.regular.comment.csv",15
-"LAN199007040",50,"$Lenny Harris called for obstruction","1990LAN.EVN.regular.comment.csv",16
-"LAN199007270",90,"ej,gibsk001,P,darlg901,Called third strike (Threw bat) Kirk Gibson ejected by HP umpire Gary Darling for throwing bat","1990LAN.EVN.regular.comment.csv",17
-"LAN199008010",1,"Debut game for Jim Neidlinger","1990LAN.EVN.regular.comment.csv",18
-"LAN199008010",66,"ej,danik001,P,demud901,Called third strike Kal Daniels ejected by HP umpire Dana DeMuth","1990LAN.EVN.regular.comment.csv",19
-"LAN199008190",5,"Debut game for Jose Offerman","1990LAN.EVN.regular.comment.csv",20
-"LAN199008200",53,"ej,dempr001,P,barnr901,Fighting with Dykstra ej,dyksl001,P,barnr901,Fighting with Dempsey $as Lenny Dykstra came to the plate, he complained to HP umpire Ron Barnes about his previous at bat when he was called out on strikes; catcher Rick Dempsey and Dykstra started fighting and both were ejected by Barnes","1990LAN.EVN.regular.comment.csv",21
-"LAN199008220",40,"ej,hayev001,P,westj901,Disparaging remarks about other umpire $Hayes ejected by 1B umpire West for making critical statements about HP umpire Wendelstedt","1990LAN.EVN.regular.comment.csv",22
-"LAN199009040",25,"Debut game for Luis Gonzalez","1990LAN.EVN.regular.comment.csv",23
-"LAN199009040",45,"$Glenn Davis overran 3B","1990LAN.EVN.regular.comment.csv",24
-"LAN199009060",63,"Debut game for Victor Rosario","1990LAN.EVN.regular.comment.csv",25
-"LAN199009060",64,"ej,sharm001,P,crawj901,Bench jockeying Mike Sharperson ejected by HP umpire Jerry Crawford for bench jockeying","1990LAN.EVN.regular.comment.csv",26
-"LAN199009080",10,"ej,danik001,P,darlg901,Balls and strikes Kal Daniels ejected by HP umpire Gary Darling after the fourth pitch was called a strike","1990LAN.EVN.regular.comment.csv",27
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"LAN199004190",10,"$Eddie Murray thought two were out, ignored runner","1990LAN.EVN.regular.comment.csv",2
+"LAN199004200",15,"Debut game for Carlos Hernandez","1990LAN.EVN.regular.comment.csv",3
+"LAN199004200",49,"ej,hatcm001,P,davig901,Checked swing Mickey Hatcher ejected by HP umpire Gerry Davis","1990LAN.EVN.regular.comment.csv",4
+"LAN199004240",57,"ej,murre001,P,wendh901,Balls and strikes Eddie Murray ejected by HP umpire Harry Wendelstedt after the first pitch was called a strike","1990LAN.EVN.regular.comment.csv",5
+"LAN199004240",58,"Debut game for Brian Traxler","1990LAN.EVN.regular.comment.csv",6
+"LAN199005150",11,"Debut game for Jerry Goff","1990LAN.EVN.regular.comment.csv",7
+"LAN199006030",60,"$Joe Oliver called for interference","1990LAN.EVN.regular.comment.csv",8
+"LAN199006040",22,"$Mike Sharperson kicked at 2B Jeff Treadway and called for interference","1990LAN.EVN.regular.comment.csv",9
+"LAN199006050",63,"Debut game for Jimmy Kremers","1990LAN.EVN.regular.comment.csv",10
+"LAN199006150",40,"ej,robeb002,P,darlg901,Called third strike Bip Roberts ejected by HP umpire Gary Darling","1990LAN.EVN.regular.comment.csv",11
+"LAN199006150",80,"Debut game for Jim Poole","1990LAN.EVN.regular.comment.csv",12
+"LAN199006180",6,"$Kirk Gibson out with strained right groin muscle","1990LAN.EVN.regular.comment.csv",13
+"LAN199006200",16,"$Mike Sharperson called out for running out of baseline on pickoff","1990LAN.EVN.regular.comment.csv",14
+"LAN199006300",73,"ej,herzw101,M,wintm901,Call at 1B Cardinals manager Whitey Herzog ejected by 1B umpire Mike Winters","1990LAN.EVN.regular.comment.csv",15
+"LAN199007030",1,"Debut game for Terry Wells","1990LAN.EVN.regular.comment.csv",16
+"LAN199007040",50,"$Lenny Harris called for obstruction","1990LAN.EVN.regular.comment.csv",17
+"LAN199007270",90,"ej,gibsk001,P,darlg901,Called third strike (Threw bat) Kirk Gibson ejected by HP umpire Gary Darling for throwing bat","1990LAN.EVN.regular.comment.csv",18
+"LAN199008010",1,"Debut game for Jim Neidlinger","1990LAN.EVN.regular.comment.csv",19
+"LAN199008010",66,"ej,danik001,P,demud901,Called third strike Kal Daniels ejected by HP umpire Dana DeMuth","1990LAN.EVN.regular.comment.csv",20
+"LAN199008190",5,"Debut game for Jose Offerman","1990LAN.EVN.regular.comment.csv",21
+"LAN199008200",53,"ej,dempr001,P,barnr901,Fighting with Dykstra ej,dyksl001,P,barnr901,Fighting with Dempsey $as Lenny Dykstra came to the plate, he complained to HP umpire Ron Barnes about his previous at bat when he was called out on strikes; catcher Rick Dempsey and Dykstra started fighting and both were ejected by Barnes","1990LAN.EVN.regular.comment.csv",22
+"LAN199008220",40,"ej,hayev001,P,westj901,Disparaging remarks about other umpire $Hayes ejected by 1B umpire West for making critical statements about HP umpire Wendelstedt","1990LAN.EVN.regular.comment.csv",23
+"LAN199009040",25,"Debut game for Luis Gonzalez","1990LAN.EVN.regular.comment.csv",24
+"LAN199009040",45,"$Glenn Davis overran 3B","1990LAN.EVN.regular.comment.csv",25
+"LAN199009060",63,"Debut game for Victor Rosario","1990LAN.EVN.regular.comment.csv",26
+"LAN199009060",64,"ej,sharm001,P,crawj901,Bench jockeying Mike Sharperson ejected by HP umpire Jerry Crawford for bench jockeying","1990LAN.EVN.regular.comment.csv",27
+"LAN199009080",10,"ej,danik001,P,darlg901,Balls and strikes Kal Daniels ejected by HP umpire Gary Darling after the fourth pitch was called a strike","1990LAN.EVN.regular.comment.csv",28

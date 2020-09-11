@@ -1,28 +1,29 @@
-"BOS193004160",1,"bounced of wall into stands","FILENAME_TX","LINE_NUMBER_CT"
-"BOS193004191",59,"$Jack Rothrock was injured sliding into 2B","1930BOS.EVA.regular.comment.csv",2
-"BOS193004200",76,"This was Tom Winsett's major-league debut","1930BOS.EVA.regular.comment.csv",3
-"BOS193004280",64,"$the throw struck Russ Scarritt on the back at HP","1930BOS.EVA.regular.comment.csv",4
-"BOS193005060",25,"$no one covered 1B","1930BOS.EVA.regular.comment.csv",5
-"BOS193005070",29,"$Chick Autry was spiked on the foot","1930BOS.EVA.regular.comment.csv",6
-"BOS193005070",69,"$the throw went into the dugout","1930BOS.EVA.regular.comment.csv",7
-"BOS193005070",76,"ej,moorj106,P,connt901,Call at 1B ej,kellm801,C,connt901,Call at 1B Jimmy Moore and White Sox Coach Mike Kelly ejected by 1B umpire Tommy Connolly","1930BOS.EVA.regular.comment.csv",8
-"BOS193005080",22,"$Willie Kamm deflected the ball to Ernie Smith","1930BOS.EVA.regular.comment.csv",9
-"BOS193005080",35,"ej,bushd102,M,vangr901,Called third strike White Sox Manager Donie Bush ejected by HP umpire Roy Van Graflan","1930BOS.EVA.regular.comment.csv",10
-"BOS193005100",5,"Hale injured hand fielding","1930BOS.EVA.regular.comment.csv",11
-"BOS193005160",66,"Rain started","1930BOS.EVA.regular.comment.csv",12
-"BOS193005160",68,"rain delay","1930BOS.EVA.regular.comment.csv",13
-"BOS193005180",69,"$Babe Ruth's leg injured sliding into 2B","1930BOS.EVA.regular.comment.csv",14
-"BOS193006200",4,"$McNeely hit by throw to 3B","1930BOS.EVA.regular.comment.csv",15
-"BOS193006222",8,"Koenig hurst ankle on play, limps off the field","1930BOS.EVA.regular.comment.csv",16
-"BOS193006222",41,"Ball bounced on RF stands fell into gutter, rolled away f/RF","1930BOS.EVA.regular.comment.csv",17
-"BOS193006222",54,"$Game called for Sunday curfew; DH started at 2:00 and could not go past 6:00 by Boston, and Mass. laws; teams agreed no inning could start after 5:40, this game ended at 5:43; Tigers stalled to keep game from going on longer","1930BOS.EVA.regular.comment.csv",18
-"BOS193006242",53,"ej,berrc103,P,geish901,Balls and strikes Charlie Berry ejected by HP umpire Harry Geisel","1930BOS.EVA.regular.comment.csv",19
-"BOS193006280",37,"$Red Barnes threw wildly past 3B and Tom Oliver tried to score","1930BOS.EVA.regular.comment.csv",20
-"BOS193006292",66,"$White Sox stalled so that game would be called at the 5:40 PM Sunday curfew; HP umpire van Graflan ruled that the Red Sox came up at 5:39 so the 9th inning could be played","1930BOS.EVA.regular.comment.csv",21
-"BOS193007310",11,"$Babe Ruth threw to HP; Earl Webb broke for 2B drawing a throw from Bill Dickey; Otto Miller broke for HP; Ben Chapman threw wildly to HP","1930BOS.EVA.regular.comment.csv",22
-"BOS193008080",30,"$Johnson stumbled over the other right fielder's glove when chasing Russell's flyball which caused him to muff the ball and injure his hand","1930BOS.EVA.regular.comment.csv",23
-"BOS193008110",25,"Funk misjudged fly ball.","1930BOS.EVA.regular.comment.csv",24
-"BOS193008172",61,"$game was called due to Sunday curfew","1930BOS.EVA.regular.comment.csv",25
-"BOS193008242",0,"AL game played at Braves Field.","1930BOS.EVA.regular.comment.csv",26
-"BOS193008310",10,"$Homer Summa threw to 3B; Otto Miller in rundown between 1B and 2B; Russ Scarritt, who had advanced to 3B, tried to score","1930BOS.EVA.regular.comment.csv",27
-"BOS193009260",60,"pbp account ends here, rest deduced","1930BOS.EVA.regular.comment.csv",28
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"BOS193004160",1,"bounced of wall into stands","1930BOS.EVA.regular.comment.csv",2
+"BOS193004191",59,"$Jack Rothrock was injured sliding into 2B","1930BOS.EVA.regular.comment.csv",3
+"BOS193004200",76,"This was Tom Winsett's major-league debut","1930BOS.EVA.regular.comment.csv",4
+"BOS193004280",64,"$the throw struck Russ Scarritt on the back at HP","1930BOS.EVA.regular.comment.csv",5
+"BOS193005060",25,"$no one covered 1B","1930BOS.EVA.regular.comment.csv",6
+"BOS193005070",29,"$Chick Autry was spiked on the foot","1930BOS.EVA.regular.comment.csv",7
+"BOS193005070",69,"$the throw went into the dugout","1930BOS.EVA.regular.comment.csv",8
+"BOS193005070",76,"ej,moorj106,P,connt901,Call at 1B ej,kellm801,C,connt901,Call at 1B Jimmy Moore and White Sox Coach Mike Kelly ejected by 1B umpire Tommy Connolly","1930BOS.EVA.regular.comment.csv",9
+"BOS193005080",22,"$Willie Kamm deflected the ball to Ernie Smith","1930BOS.EVA.regular.comment.csv",10
+"BOS193005080",35,"ej,bushd102,M,vangr901,Called third strike White Sox Manager Donie Bush ejected by HP umpire Roy Van Graflan","1930BOS.EVA.regular.comment.csv",11
+"BOS193005100",5,"Hale injured hand fielding","1930BOS.EVA.regular.comment.csv",12
+"BOS193005160",66,"Rain started","1930BOS.EVA.regular.comment.csv",13
+"BOS193005160",68,"rain delay","1930BOS.EVA.regular.comment.csv",14
+"BOS193005180",69,"$Babe Ruth's leg injured sliding into 2B","1930BOS.EVA.regular.comment.csv",15
+"BOS193006200",4,"$McNeely hit by throw to 3B","1930BOS.EVA.regular.comment.csv",16
+"BOS193006222",8,"Koenig hurst ankle on play, limps off the field","1930BOS.EVA.regular.comment.csv",17
+"BOS193006222",41,"Ball bounced on RF stands fell into gutter, rolled away f/RF","1930BOS.EVA.regular.comment.csv",18
+"BOS193006222",54,"$Game called for Sunday curfew; DH started at 2:00 and could not go past 6:00 by Boston, and Mass. laws; teams agreed no inning could start after 5:40, this game ended at 5:43; Tigers stalled to keep game from going on longer","1930BOS.EVA.regular.comment.csv",19
+"BOS193006242",53,"ej,berrc103,P,geish901,Balls and strikes Charlie Berry ejected by HP umpire Harry Geisel","1930BOS.EVA.regular.comment.csv",20
+"BOS193006280",37,"$Red Barnes threw wildly past 3B and Tom Oliver tried to score","1930BOS.EVA.regular.comment.csv",21
+"BOS193006292",66,"$White Sox stalled so that game would be called at the 5:40 PM Sunday curfew; HP umpire van Graflan ruled that the Red Sox came up at 5:39 so the 9th inning could be played","1930BOS.EVA.regular.comment.csv",22
+"BOS193007310",11,"$Babe Ruth threw to HP; Earl Webb broke for 2B drawing a throw from Bill Dickey; Otto Miller broke for HP; Ben Chapman threw wildly to HP","1930BOS.EVA.regular.comment.csv",23
+"BOS193008080",30,"$Johnson stumbled over the other right fielder's glove when chasing Russell's flyball which caused him to muff the ball and injure his hand","1930BOS.EVA.regular.comment.csv",24
+"BOS193008110",25,"Funk misjudged fly ball.","1930BOS.EVA.regular.comment.csv",25
+"BOS193008172",61,"$game was called due to Sunday curfew","1930BOS.EVA.regular.comment.csv",26
+"BOS193008242",0,"AL game played at Braves Field.","1930BOS.EVA.regular.comment.csv",27
+"BOS193008310",10,"$Homer Summa threw to 3B; Otto Miller in rundown between 1B and 2B; Russ Scarritt, who had advanced to 3B, tried to score","1930BOS.EVA.regular.comment.csv",28
+"BOS193009260",60,"pbp account ends here, rest deduced","1930BOS.EVA.regular.comment.csv",29

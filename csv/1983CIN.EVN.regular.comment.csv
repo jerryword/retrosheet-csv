@@ -1,44 +1,45 @@
-"CIN198304040",17,"Debut game for Jeff Jones","FILENAME_TX","LINE_NUMBER_CT"
-"CIN198304090",55,"Debut game for Steve Lake","1983CIN.EVN.regular.comment.csv",2
-"CIN198304090",60,"Debut game for Tom Foley","1983CIN.EVN.regular.comment.csv",3
-"CIN198304110",15,"Debut game for Dann Bilardello","1983CIN.EVN.regular.comment.csv",4
-"CIN198304240",16,"missed squeeze","1983CIN.EVN.regular.comment.csv",5
-"CIN198304240",19,"PB likely occured before the walk but not necessarily so","1983CIN.EVN.regular.comment.csv",6
-"CIN198305100",35,"Not clear if SB and PB were on same pitch","1983CIN.EVN.regular.comment.csv",7
-"CIN198305240",23,"$George Hendrick's single off Bruce Berenyi's pitching hand","1983CIN.EVN.regular.comment.csv",8
-"CIN198305240",51,"missed attempted 2-strike squeeze","1983CIN.EVN.regular.comment.csv",9
-"CIN198305240",77,"$Willie McGee overslid 2B on apparent double","1983CIN.EVN.regular.comment.csv",10
-"CIN198305250",23,"$Ken Oberkfell's hit was off 3B Johnny Bench's glove into short center","1983CIN.EVN.regular.comment.csv",11
-"CIN198305280",0,"$Start of game delayed by 3:46 by rain","1983CIN.EVN.regular.comment.csv",12
-"CIN198305280",2,"ej,mazzl001,P,wendh901,Called third strike $Pirate Mazzilli ejected by HP Umpire Wendelstedt for arguing called third strike","1983CIN.EVN.regular.comment.csv",13
-"CIN198305290",17,"38 minute rain delay","1983CIN.EVN.regular.comment.csv",14
-"CIN198306030",40,"Both sheets clear on scoring from 2nd on S3","1983CIN.EVN.regular.comment.csv",15
-"CIN198306030",65,"$batter Eddie Milner turned wrong way on overthrow at 1B","1983CIN.EVN.regular.comment.csv",16
-"CIN198306040",39,"possibly SB2 and PB were on the same play","1983CIN.EVN.regular.comment.csv",17
-"CIN198306080",7,"unclear if SB and WP were on same pitch","1983CIN.EVN.regular.comment.csv",18
-"CIN198306110",9,"$Eddie Milner rounded 3B too far","1983CIN.EVN.regular.comment.csv",19
-"CIN198306110",13,"Debut game for Gil Reyes","1983CIN.EVN.regular.comment.csv",20
-"CIN198306130",66,"Debut game for Keefe Cato","1983CIN.EVN.regular.comment.csv",21
-"CIN198306260",29,"$Frank Pastore warned after throwing brush back pitch to Brett Butler","1983CIN.EVN.regular.comment.csv",22
-"CIN198306280",22,"DWS: bunt presumed","1983CIN.EVN.regular.comment.csv",23
-"CIN198306290",6,"Not clear if SB and POE were on the same play","1983CIN.EVN.regular.comment.csv",24
-"CIN198306290",66,"Missed squeeze","1983CIN.EVN.regular.comment.csv",25
-"CIN198308100",62,"Ken Landreaux left game after being spiked during the fly ball play on Esasky","1983CIN.EVN.regular.comment.csv",26
-"CIN198308110",82,"ej,lasot101,M,crawj901,Arguing batter should be ejected $Dodgers manager Lasorda ejected by HP umpire Crawford for arguing that Concepcion should be ejected for interacting with pitcher after fly out","1983CIN.EVN.regular.comment.csv",27
-"CIN198308120",38,"missed squeeze","1983CIN.EVN.regular.comment.csv",28
-"CIN198308130",1,"Debut game for Jeff Russell","1983CIN.EVN.regular.comment.csv",29
-"CIN198308150",4,"SB may be with Cruz at bat","1983CIN.EVN.regular.comment.csv",30
-"CIN198308260",8,"$Eddie Milner called out for interference for running in fair territory when throw by Danny Cox hit Milner","1983CIN.EVN.regular.comment.csv",31
-"CIN198308260",54,"squeeze play","1983CIN.EVN.regular.comment.csv",32
-"CIN198308270",40,"2:44 rain delay","1983CIN.EVN.regular.comment.csv",33
-"CIN198308280",30,"$popup fell between 1B George Hendrick, 2B Ken Oberkfell and RF Dane Iorg","1983CIN.EVN.regular.comment.csv",34
-"CIN198308280",33,"$Dan Driessen fouled ball off his right foot; left game later","1983CIN.EVN.regular.comment.csv",35
-"CIN198308280",96,"52 minute rain delay with 1-2 count on Redus","1983CIN.EVN.regular.comment.csv",36
-"CIN198308300",71,"$Gary Redus scored from 2B on the fly to CF","1983CIN.EVN.regular.comment.csv",37
-"CIN198309010",62,"Debut game for Steve Christmas","1983CIN.EVN.regular.comment.csv",38
-"CIN198309130",0,"Protest=V Proest=V","1983CIN.EVN.regular.comment.csv",39
-"CIN198309130",63,"$Braves manager Joe Torre protested the game when Dave Concepcion was not called for interference on catcher's throw to 2B on steal","1983CIN.EVN.regular.comment.csv",40
-"CIN198309170",0,"Johnny Bench night","1983CIN.EVN.regular.comment.csv",41
-"CIN198309170",11,"$deflected by pitcher through hole into left field","1983CIN.EVN.regular.comment.csv",42
-"CIN198309250",69,"$Ruppert Jones called for interference for running outside the lane","1983CIN.EVN.regular.comment.csv",43
-"CIN198309260",48,"both original sheets had play this way","1983CIN.EVN.regular.comment.csv",44
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"CIN198304040",17,"Debut game for Jeff Jones","1983CIN.EVN.regular.comment.csv",2
+"CIN198304090",55,"Debut game for Steve Lake","1983CIN.EVN.regular.comment.csv",3
+"CIN198304090",60,"Debut game for Tom Foley","1983CIN.EVN.regular.comment.csv",4
+"CIN198304110",15,"Debut game for Dann Bilardello","1983CIN.EVN.regular.comment.csv",5
+"CIN198304240",16,"missed squeeze","1983CIN.EVN.regular.comment.csv",6
+"CIN198304240",19,"PB likely occured before the walk but not necessarily so","1983CIN.EVN.regular.comment.csv",7
+"CIN198305100",35,"Not clear if SB and PB were on same pitch","1983CIN.EVN.regular.comment.csv",8
+"CIN198305240",23,"$George Hendrick's single off Bruce Berenyi's pitching hand","1983CIN.EVN.regular.comment.csv",9
+"CIN198305240",51,"missed attempted 2-strike squeeze","1983CIN.EVN.regular.comment.csv",10
+"CIN198305240",77,"$Willie McGee overslid 2B on apparent double","1983CIN.EVN.regular.comment.csv",11
+"CIN198305250",23,"$Ken Oberkfell's hit was off 3B Johnny Bench's glove into short center","1983CIN.EVN.regular.comment.csv",12
+"CIN198305280",0,"$Start of game delayed by 3:46 by rain","1983CIN.EVN.regular.comment.csv",13
+"CIN198305280",2,"ej,mazzl001,P,wendh901,Called third strike $Pirate Mazzilli ejected by HP Umpire Wendelstedt for arguing called third strike","1983CIN.EVN.regular.comment.csv",14
+"CIN198305290",17,"38 minute rain delay","1983CIN.EVN.regular.comment.csv",15
+"CIN198306030",40,"Both sheets clear on scoring from 2nd on S3","1983CIN.EVN.regular.comment.csv",16
+"CIN198306030",65,"$batter Eddie Milner turned wrong way on overthrow at 1B","1983CIN.EVN.regular.comment.csv",17
+"CIN198306040",39,"possibly SB2 and PB were on the same play","1983CIN.EVN.regular.comment.csv",18
+"CIN198306080",7,"unclear if SB and WP were on same pitch","1983CIN.EVN.regular.comment.csv",19
+"CIN198306110",9,"$Eddie Milner rounded 3B too far","1983CIN.EVN.regular.comment.csv",20
+"CIN198306110",13,"Debut game for Gil Reyes","1983CIN.EVN.regular.comment.csv",21
+"CIN198306130",66,"Debut game for Keefe Cato","1983CIN.EVN.regular.comment.csv",22
+"CIN198306260",29,"$Frank Pastore warned after throwing brush back pitch to Brett Butler","1983CIN.EVN.regular.comment.csv",23
+"CIN198306280",22,"DWS: bunt presumed","1983CIN.EVN.regular.comment.csv",24
+"CIN198306290",6,"Not clear if SB and POE were on the same play","1983CIN.EVN.regular.comment.csv",25
+"CIN198306290",66,"Missed squeeze","1983CIN.EVN.regular.comment.csv",26
+"CIN198308100",62,"Ken Landreaux left game after being spiked during the fly ball play on Esasky","1983CIN.EVN.regular.comment.csv",27
+"CIN198308110",82,"ej,lasot101,M,crawj901,Arguing batter should be ejected $Dodgers manager Lasorda ejected by HP umpire Crawford for arguing that Concepcion should be ejected for interacting with pitcher after fly out","1983CIN.EVN.regular.comment.csv",28
+"CIN198308120",38,"missed squeeze","1983CIN.EVN.regular.comment.csv",29
+"CIN198308130",1,"Debut game for Jeff Russell","1983CIN.EVN.regular.comment.csv",30
+"CIN198308150",4,"SB may be with Cruz at bat","1983CIN.EVN.regular.comment.csv",31
+"CIN198308260",8,"$Eddie Milner called out for interference for running in fair territory when throw by Danny Cox hit Milner","1983CIN.EVN.regular.comment.csv",32
+"CIN198308260",54,"squeeze play","1983CIN.EVN.regular.comment.csv",33
+"CIN198308270",40,"2:44 rain delay","1983CIN.EVN.regular.comment.csv",34
+"CIN198308280",30,"$popup fell between 1B George Hendrick, 2B Ken Oberkfell and RF Dane Iorg","1983CIN.EVN.regular.comment.csv",35
+"CIN198308280",33,"$Dan Driessen fouled ball off his right foot; left game later","1983CIN.EVN.regular.comment.csv",36
+"CIN198308280",96,"52 minute rain delay with 1-2 count on Redus","1983CIN.EVN.regular.comment.csv",37
+"CIN198308300",71,"$Gary Redus scored from 2B on the fly to CF","1983CIN.EVN.regular.comment.csv",38
+"CIN198309010",62,"Debut game for Steve Christmas","1983CIN.EVN.regular.comment.csv",39
+"CIN198309130",0,"Protest=V Proest=V","1983CIN.EVN.regular.comment.csv",40
+"CIN198309130",63,"$Braves manager Joe Torre protested the game when Dave Concepcion was not called for interference on catcher's throw to 2B on steal","1983CIN.EVN.regular.comment.csv",41
+"CIN198309170",0,"Johnny Bench night","1983CIN.EVN.regular.comment.csv",42
+"CIN198309170",11,"$deflected by pitcher through hole into left field","1983CIN.EVN.regular.comment.csv",43
+"CIN198309250",69,"$Ruppert Jones called for interference for running outside the lane","1983CIN.EVN.regular.comment.csv",44
+"CIN198309260",48,"both original sheets had play this way","1983CIN.EVN.regular.comment.csv",45

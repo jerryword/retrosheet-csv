@@ -1,29 +1,30 @@
-"BOS194804191",0,"$Opening Day morning game","FILENAME_TX","LINE_NUMBER_CT"
-"BOS194804192",1,"DWS: bogus FLE","1948BOS.EVA.regular.comment.csv",2
-"BOS194805010",16,"$Phil Rizzuto left with a lame leg","1948BOS.EVA.regular.comment.csv",3
-"BOS194805020",37,"$infield shifted for Ted Williams","1948BOS.EVA.regular.comment.csv",4
-"BOS194805020",41,"$Tommy Henrich pulled a muscle","1948BOS.EVA.regular.comment.csv",5
-"BOS194805050",55,"$3B umpire Bill Summers called a balk; Red Sox manager Joe McCarthy argued the call and HP umpire Johnny Stevens reversed it; Tigers manager Steve O'Neill argued the reversal and the balk was allowed","1948BOS.EVA.regular.comment.csv",6
-"BOS194805060",36,"ej,tebbb101,P,jomer901,Fighting ej,vicos101,P,jomer901,Fighting $Hal White missed the bunt on a squeeze play; Sam Vico collided with Birdie Tebbetts and a fight started; both benches cleared; Vico claimed Tebbetts had hit him on the head while Tebbetts claimed Vico's head had struck his shinguard; both players ejected by HP umpire Red Jones; both men had to use the same runway to get to their respective clubhouses and they resumed the fight, followed down the  runway by players of both teams; Umpire Jones called the police in to break up the fight; 15 minute delay; Vico suffered a black eye and Tebbetts a bloody nose","1948BOS.EVA.regular.comment.csv",7
-"BOS194806041",66,"$Joe Dobson hit on the stomach by an off speed pitch as he squared around to bunt; the Browns argued that he offered at the pitch","1948BOS.EVA.regular.comment.csv",8
-"BOS194806062",7,"Need an error","1948BOS.EVA.regular.comment.csv",9
-"BOS194806110",52,"need an error","1948BOS.EVA.regular.comment.csv",10
-"BOS194807030",77,"$Mickey McDermott threw 41 pitches in 2/3 of an inning","1948BOS.EVA.regular.comment.csv",11
-"BOS194807060",15,"$Frank Hiller fell down fielding the bunt and made a late throw to HP","1948BOS.EVA.regular.comment.csv",12
-"BOS194807200",62,"$Whitney Platt injured when he dove for the ball","1948BOS.EVA.regular.comment.csv",13
-"BOS194807211",18,"17 minute rain delay","1948BOS.EVA.regular.comment.csv",14
-"BOS194807212",49,"Invented play; Third out not shown in account","1948BOS.EVA.regular.comment.csv",15
-"BOS194807222",42,"ej,michc101,P,joner901,Call at 1B Cass Michaels ejected by 1B umpire Red Jones","1948BOS.EVA.regular.comment.csv",16
-"BOS194807222",47,"ej,lyont102,M,joner901,Call at 1B ej,millb110,C,joner901,Call at 1B $As the 6th inning started, Chicago coach Bing Miller was ejected by 1b umpire Red Jones; Chicago manager Ted Lyons came to discuss with Jones and was also ejected","1948BOS.EVA.regular.comment.csv",17
-"BOS194807222",51,"DWS: pbp ends here, rest deduced","1948BOS.EVA.regular.comment.csv",18
-"BOS194807241",24,"ej,peskj101,P,stevj901,Called third strike ej,mccaj802,M,stevj901,Called third strike Johnny Pesky and Red Sox Manager Joe McCarthy ejected by HP umpire Johnny Stevens","1948BOS.EVA.regular.comment.csv",19
-"BOS194808180",25,"$Eddie Joost aggravated a hand injury swinging the bat","1948BOS.EVA.regular.comment.csv",20
-"BOS194808180",52,"$Hank Majeski threw to 2B forgetting there was no runner on 1B","1948BOS.EVA.regular.comment.csv",21
-"BOS194808270",4,"$Tony Lupien called out on appeal for leaving 2B early","1948BOS.EVA.regular.comment.csv",22
-"BOS194808270",64,"$Luke Appling rounded 2B too far","1948BOS.EVA.regular.comment.csv",23
-"BOS194808270",71,"$Tony Lupien muffed Ralph Hodgin's throw","1948BOS.EVA.regular.comment.csv",24
-"BOS194808280",38,"$Johnny Pesky stopped at 3B but scored when Pat Seerey threw to 2B","1948BOS.EVA.regular.comment.csv",25
-"BOS194809090",59,"ej,niarg101,P,romme101,Interference non-call $Ball caromed off ss Rizzuto's glove to 2bman Stirnweiss; Pesky slid into home and landed on top of Gus Niarhos; Ted Williams ran to 2B while Niarhos tried to get up and argued that Pesky should be out for interference, he was ejected by HP umpire Rommel","1948BOS.EVA.regular.comment.csv",26
-"BOS194809100",25,"$Hank Bauer made a wild throw to 1B and went into a group of photograpers who were banished from the field; Red Sox GM Joe Cronin announced later in the game that photographers would be banned from the field for the remainder of the season","1948BOS.EVA.regular.comment.csv",27
-"BOS194809111",7,"$the throw went into the Red Sox dugout","1948BOS.EVA.regular.comment.csv",28
-"BOS194809111",38,"$the ball went up Eddie Joost's sleeve; Joost was able to keep Ted Williams from scoring when he faked several throws as he fished the ball out of his shirt","1948BOS.EVA.regular.comment.csv",29
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"BOS194804191",0,"$Opening Day morning game","1948BOS.EVA.regular.comment.csv",2
+"BOS194804192",1,"DWS: bogus FLE","1948BOS.EVA.regular.comment.csv",3
+"BOS194805010",16,"$Phil Rizzuto left with a lame leg","1948BOS.EVA.regular.comment.csv",4
+"BOS194805020",37,"$infield shifted for Ted Williams","1948BOS.EVA.regular.comment.csv",5
+"BOS194805020",41,"$Tommy Henrich pulled a muscle","1948BOS.EVA.regular.comment.csv",6
+"BOS194805050",55,"$3B umpire Bill Summers called a balk; Red Sox manager Joe McCarthy argued the call and HP umpire Johnny Stevens reversed it; Tigers manager Steve O'Neill argued the reversal and the balk was allowed","1948BOS.EVA.regular.comment.csv",7
+"BOS194805060",36,"ej,tebbb101,P,jomer901,Fighting ej,vicos101,P,jomer901,Fighting $Hal White missed the bunt on a squeeze play; Sam Vico collided with Birdie Tebbetts and a fight started; both benches cleared; Vico claimed Tebbetts had hit him on the head while Tebbetts claimed Vico's head had struck his shinguard; both players ejected by HP umpire Red Jones; both men had to use the same runway to get to their respective clubhouses and they resumed the fight, followed down the  runway by players of both teams; Umpire Jones called the police in to break up the fight; 15 minute delay; Vico suffered a black eye and Tebbetts a bloody nose","1948BOS.EVA.regular.comment.csv",8
+"BOS194806041",66,"$Joe Dobson hit on the stomach by an off speed pitch as he squared around to bunt; the Browns argued that he offered at the pitch","1948BOS.EVA.regular.comment.csv",9
+"BOS194806062",7,"Need an error","1948BOS.EVA.regular.comment.csv",10
+"BOS194806110",52,"need an error","1948BOS.EVA.regular.comment.csv",11
+"BOS194807030",77,"$Mickey McDermott threw 41 pitches in 2/3 of an inning","1948BOS.EVA.regular.comment.csv",12
+"BOS194807060",15,"$Frank Hiller fell down fielding the bunt and made a late throw to HP","1948BOS.EVA.regular.comment.csv",13
+"BOS194807200",62,"$Whitney Platt injured when he dove for the ball","1948BOS.EVA.regular.comment.csv",14
+"BOS194807211",18,"17 minute rain delay","1948BOS.EVA.regular.comment.csv",15
+"BOS194807212",49,"Invented play; Third out not shown in account","1948BOS.EVA.regular.comment.csv",16
+"BOS194807222",42,"ej,michc101,P,joner901,Call at 1B Cass Michaels ejected by 1B umpire Red Jones","1948BOS.EVA.regular.comment.csv",17
+"BOS194807222",47,"ej,lyont102,M,joner901,Call at 1B ej,millb110,C,joner901,Call at 1B $As the 6th inning started, Chicago coach Bing Miller was ejected by 1b umpire Red Jones; Chicago manager Ted Lyons came to discuss with Jones and was also ejected","1948BOS.EVA.regular.comment.csv",18
+"BOS194807222",51,"DWS: pbp ends here, rest deduced","1948BOS.EVA.regular.comment.csv",19
+"BOS194807241",24,"ej,peskj101,P,stevj901,Called third strike ej,mccaj802,M,stevj901,Called third strike Johnny Pesky and Red Sox Manager Joe McCarthy ejected by HP umpire Johnny Stevens","1948BOS.EVA.regular.comment.csv",20
+"BOS194808180",25,"$Eddie Joost aggravated a hand injury swinging the bat","1948BOS.EVA.regular.comment.csv",21
+"BOS194808180",52,"$Hank Majeski threw to 2B forgetting there was no runner on 1B","1948BOS.EVA.regular.comment.csv",22
+"BOS194808270",4,"$Tony Lupien called out on appeal for leaving 2B early","1948BOS.EVA.regular.comment.csv",23
+"BOS194808270",64,"$Luke Appling rounded 2B too far","1948BOS.EVA.regular.comment.csv",24
+"BOS194808270",71,"$Tony Lupien muffed Ralph Hodgin's throw","1948BOS.EVA.regular.comment.csv",25
+"BOS194808280",38,"$Johnny Pesky stopped at 3B but scored when Pat Seerey threw to 2B","1948BOS.EVA.regular.comment.csv",26
+"BOS194809090",59,"ej,niarg101,P,romme101,Interference non-call $Ball caromed off ss Rizzuto's glove to 2bman Stirnweiss; Pesky slid into home and landed on top of Gus Niarhos; Ted Williams ran to 2B while Niarhos tried to get up and argued that Pesky should be out for interference, he was ejected by HP umpire Rommel","1948BOS.EVA.regular.comment.csv",27
+"BOS194809100",25,"$Hank Bauer made a wild throw to 1B and went into a group of photograpers who were banished from the field; Red Sox GM Joe Cronin announced later in the game that photographers would be banned from the field for the remainder of the season","1948BOS.EVA.regular.comment.csv",28
+"BOS194809111",7,"$the throw went into the Red Sox dugout","1948BOS.EVA.regular.comment.csv",29
+"BOS194809111",38,"$the ball went up Eddie Joost's sleeve; Joost was able to keep Ted Williams from scoring when he faked several throws as he fished the ball out of his shirt","1948BOS.EVA.regular.comment.csv",30

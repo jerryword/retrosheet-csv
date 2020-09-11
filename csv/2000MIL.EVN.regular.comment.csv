@@ -1,25 +1,26 @@
-"MIL200004160",18,"DWS: unsure of assist fielder","FILENAME_TX","LINE_NUMBER_CT"
-"MIL200005040",52,"ej,connm801,C,joycj901,Checked swing ej,showb801,M,joycj901,Checked swing $D-Backs manager Showalter and coach Connor ejected by 3B umpire Joyce for arguing check swing","2000MIL.EVN.regular.comment.csv",2
-"MIL200005160",107,"ej,dierl101,M,wintm901,Balls and strikes Astros Manager Larry Dierker ejected by HP umpire Mike Winters in 13th","2000MIL.EVN.regular.comment.csv",3
-"MIL200006030",67,"Debut game for Santiago Perez","2000MIL.EVN.regular.comment.csv",4
-"MIL200006130",60,"Debut game for Allen Levrault","2000MIL.EVN.regular.comment.csv",5
-"MIL200006140",0,"13 minute rain delay in the third","2000MIL.EVN.regular.comment.csv",6
-"MIL200006300",71,"ej,loped001,M,klemj901,Balls and strikes $Brewers manager Lopes ejected by HP umpire Klemm when he stepped between catcher and umpire who were arguing","2000MIL.EVN.regular.comment.csv",7
-"MIL200006300",119,"ej,roysj001,C,klemj901,Balls and strikes Brewers coach (acting manager) Jerry Royster ejected by HP umpire Justin Klemm in 15th","2000MIL.EVN.regular.comment.csv",8
-"MIL200007090",31,"originally scored as E5","2000MIL.EVN.regular.comment.csv",9
-"MIL200007090",58,"ej,garnp001,M,davig901,Balls and strikes ej,higgb001,P,davig901,Balls and strikes Bobby Higginson and Tigers manager Phil Garner ejected by HP umpire Gerry Davis","2000MIL.EVN.regular.comment.csv",10
-"MIL200007190",27,"two errors on same play","2000MIL.EVN.regular.comment.csv",11
-"MIL200007190",60,"Debut game for Steve Sparks","2000MIL.EVN.regular.comment.csv",12
-"MIL200007200",27,"ej,houst001,P,nelsj901,Call at 1B Tyler Houston ejected by 1B umpire Jeff Nelson","2000MIL.EVN.regular.comment.csv",13
-"MIL200008020",0,"57 minute rain delay in the third","2000MIL.EVN.regular.comment.csv",14
-"MIL200008310",9,"FLE2 somewhere in this inning","2000MIL.EVN.regular.comment.csv",15
-"MIL200009080",2,"$McGwire's first game since before the All-Star break","2000MIL.EVN.regular.comment.csv",16
-"MIL200009090",80,"ej,houst001,P,guccc901,Balls and strikes Tyler Houston ejected by HP umpire Chris Guccione","2000MIL.EVN.regular.comment.csv",17
-"MIL200009100",2,"hit in shoulder","2000MIL.EVN.regular.comment.csv",18
-"MIL200009180",24,"Sosa leaves with tightness in back","2000MIL.EVN.regular.comment.csv",19
-"MIL200009180",25,"Debut game for Corey Patterson","2000MIL.EVN.regular.comment.csv",20
-"MIL200009180",50,"$Belliard, runner on 1st, waited to see if ball would be caught; it was misplayed for an error and then bounced into the stands for what should have been two bases, but batter passed Belliard and was out","2000MIL.EVN.regular.comment.csv",21
-"MIL200009190",57,"Debut game for William Ohman","2000MIL.EVN.regular.comment.csv",22
-"MIL200009200",0,"32 minute rain delay in the third","2000MIL.EVN.regular.comment.csv",23
-"MIL200009210",39,"ej,younk001,P,coope901,Call at 1B Kevin Young ejected by 1B umpire Eric Cooper","2000MIL.EVN.regular.comment.csv",24
-"MIL200009280",0,"$final game at County Stadium; largest regular season crowd ever","2000MIL.EVN.regular.comment.csv",25
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"MIL200004160",18,"DWS: unsure of assist fielder","2000MIL.EVN.regular.comment.csv",2
+"MIL200005040",52,"ej,connm801,C,joycj901,Checked swing ej,showb801,M,joycj901,Checked swing $D-Backs manager Showalter and coach Connor ejected by 3B umpire Joyce for arguing check swing","2000MIL.EVN.regular.comment.csv",3
+"MIL200005160",107,"ej,dierl101,M,wintm901,Balls and strikes Astros Manager Larry Dierker ejected by HP umpire Mike Winters in 13th","2000MIL.EVN.regular.comment.csv",4
+"MIL200006030",67,"Debut game for Santiago Perez","2000MIL.EVN.regular.comment.csv",5
+"MIL200006130",60,"Debut game for Allen Levrault","2000MIL.EVN.regular.comment.csv",6
+"MIL200006140",0,"13 minute rain delay in the third","2000MIL.EVN.regular.comment.csv",7
+"MIL200006300",71,"ej,loped001,M,klemj901,Balls and strikes $Brewers manager Lopes ejected by HP umpire Klemm when he stepped between catcher and umpire who were arguing","2000MIL.EVN.regular.comment.csv",8
+"MIL200006300",119,"ej,roysj001,C,klemj901,Balls and strikes Brewers coach (acting manager) Jerry Royster ejected by HP umpire Justin Klemm in 15th","2000MIL.EVN.regular.comment.csv",9
+"MIL200007090",31,"originally scored as E5","2000MIL.EVN.regular.comment.csv",10
+"MIL200007090",58,"ej,garnp001,M,davig901,Balls and strikes ej,higgb001,P,davig901,Balls and strikes Bobby Higginson and Tigers manager Phil Garner ejected by HP umpire Gerry Davis","2000MIL.EVN.regular.comment.csv",11
+"MIL200007190",27,"two errors on same play","2000MIL.EVN.regular.comment.csv",12
+"MIL200007190",60,"Debut game for Steve Sparks","2000MIL.EVN.regular.comment.csv",13
+"MIL200007200",27,"ej,houst001,P,nelsj901,Call at 1B Tyler Houston ejected by 1B umpire Jeff Nelson","2000MIL.EVN.regular.comment.csv",14
+"MIL200008020",0,"57 minute rain delay in the third","2000MIL.EVN.regular.comment.csv",15
+"MIL200008310",9,"FLE2 somewhere in this inning","2000MIL.EVN.regular.comment.csv",16
+"MIL200009080",2,"$McGwire's first game since before the All-Star break","2000MIL.EVN.regular.comment.csv",17
+"MIL200009090",80,"ej,houst001,P,guccc901,Balls and strikes Tyler Houston ejected by HP umpire Chris Guccione","2000MIL.EVN.regular.comment.csv",18
+"MIL200009100",2,"hit in shoulder","2000MIL.EVN.regular.comment.csv",19
+"MIL200009180",24,"Sosa leaves with tightness in back","2000MIL.EVN.regular.comment.csv",20
+"MIL200009180",25,"Debut game for Corey Patterson","2000MIL.EVN.regular.comment.csv",21
+"MIL200009180",50,"$Belliard, runner on 1st, waited to see if ball would be caught; it was misplayed for an error and then bounced into the stands for what should have been two bases, but batter passed Belliard and was out","2000MIL.EVN.regular.comment.csv",22
+"MIL200009190",57,"Debut game for William Ohman","2000MIL.EVN.regular.comment.csv",23
+"MIL200009200",0,"32 minute rain delay in the third","2000MIL.EVN.regular.comment.csv",24
+"MIL200009210",39,"ej,younk001,P,coope901,Call at 1B Kevin Young ejected by 1B umpire Eric Cooper","2000MIL.EVN.regular.comment.csv",25
+"MIL200009280",0,"$final game at County Stadium; largest regular season crowd ever","2000MIL.EVN.regular.comment.csv",26

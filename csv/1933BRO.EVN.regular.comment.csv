@@ -1,25 +1,26 @@
-"BRO193304160",79,"$Joe Shaute injured his right leg in collision with Carl Hubbell","FILENAME_TX","LINE_NUMBER_CT"
-"BRO193304160",104,"$Game called on account of darkness","1933BRO.EVN.regular.comment.csv",2
-"BRO193304200",10,"$Hal Lee left with a charley horse","1933BRO.EVN.regular.comment.csv",3
-"BRO193304200",32,"$Spud Davis threw to 2B but no one covered; Lefty O'Doul was out when he and Danny Taylor both ended up at 3B","1933BRO.EVN.regular.comment.csv",4
-"BRO193304230",3,"$Billy Urbanski tripped ober the 1B bag and he landed face first with cuts and bruises on the right side of his face","1933BRO.EVN.regular.comment.csv",5
-"BRO193305040",55,"$Pie Traynor stepped on Al Lopez' foot","1933BRO.EVN.regular.comment.csv",6
-"BRO193305050",24,"$Freddy Lindstrom spiked Chink Outen","1933BRO.EVN.regular.comment.csv",7
-"BRO193305130",74,"$game called at 4:50pm to allow the Reds to catch a train","1933BRO.EVN.regular.comment.csv",8
-"BRO193305140",69,"15 minute rain delay sometime in 8th","1933BRO.EVN.regular.comment.csv",9
-"BRO193305140",74,"ej,carem101,M,pfirc901,Balls and strikes Dodgers Manager Max Carey ejected by HP umpire Cy Pfirman","1933BRO.EVN.regular.comment.csv",10
-"BRO193305140",81,"$raining hard","1933BRO.EVN.regular.comment.csv",11
-"BRO193306210",10,"ej,strij101,P,barrg901,Balls and strikes Joe Stripp ejected by HP umpire George Barr","1933BRO.EVN.regular.comment.csv",12
-"BRO193306210",18,"ej,durol101,P,barrg901,Balls and strikes (Threw bat) Leo Durocher ejected by HP umpire George Barr","1933BRO.EVN.regular.comment.csv",13
-"BRO193306210",65,"ej,fredj101,P,barrg901,Call at 3B Johnny Frederick overslid 3B and was ejected by 3B umpire Ernie Quigley","1933BRO.EVN.regular.comment.csv",14
-"BRO193306210",76,"ej,stenc101,C,quige901,Balk non-call Dodgers Coach Casey Stengel ejected by 3B umpire Ernie Quigley","1933BRO.EVN.regular.comment.csv",15
-"BRO193307010",31,"ej,wilsh102,P,stard901,Balls and strikes Hack Wilson ejected by HP umpire Dolly Stark","1933BRO.EVN.regular.comment.csv",16
-"BRO193307010",74,"ej,schuj106,C,stard901,Called third strike Cubs Coach Johnny Schulte ejected by HP umpire Dolly Stark","1933BRO.EVN.regular.comment.csv",17
-"BRO193307022",39,"$Joe Stripp called for interference for running into his own batted ball","1933BRO.EVN.regular.comment.csv",18
-"BRO193307230",75,"$Jordan injured in collision with Richards.","1933BRO.EVN.regular.comment.csv",19
-"BRO193308162",26,"ej,lopea102,P,mcgrt901,Call at HP ej,carem101,M,mcgrt901,Call at HP Al Lopez and Dodgers Manager Max Carey ejected by HP umpire Ted McGrew","1933BRO.EVN.regular.comment.csv",20
-"BRO193308242",41,"$Tony Cuccinello left with a pulled leg muscle","1933BRO.EVN.regular.comment.csv",21
-"BRO193309242",49,"$Game called on account of darkness","1933BRO.EVN.regular.comment.csv",22
-"BRO193309282",81,"$game called due to darkness; tie game","1933BRO.EVN.regular.comment.csv",23
-"BRO193309300",3,"Ball took crazy bounce off stands allowing Critz third base.","1933BRO.EVN.regular.comment.csv",24
-"BRO193310010",18,"$Blondy Ryan never stopped running","1933BRO.EVN.regular.comment.csv",25
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"BRO193304160",79,"$Joe Shaute injured his right leg in collision with Carl Hubbell","1933BRO.EVN.regular.comment.csv",2
+"BRO193304160",104,"$Game called on account of darkness","1933BRO.EVN.regular.comment.csv",3
+"BRO193304200",10,"$Hal Lee left with a charley horse","1933BRO.EVN.regular.comment.csv",4
+"BRO193304200",32,"$Spud Davis threw to 2B but no one covered; Lefty O'Doul was out when he and Danny Taylor both ended up at 3B","1933BRO.EVN.regular.comment.csv",5
+"BRO193304230",3,"$Billy Urbanski tripped ober the 1B bag and he landed face first with cuts and bruises on the right side of his face","1933BRO.EVN.regular.comment.csv",6
+"BRO193305040",55,"$Pie Traynor stepped on Al Lopez' foot","1933BRO.EVN.regular.comment.csv",7
+"BRO193305050",24,"$Freddy Lindstrom spiked Chink Outen","1933BRO.EVN.regular.comment.csv",8
+"BRO193305130",74,"$game called at 4:50pm to allow the Reds to catch a train","1933BRO.EVN.regular.comment.csv",9
+"BRO193305140",69,"15 minute rain delay sometime in 8th","1933BRO.EVN.regular.comment.csv",10
+"BRO193305140",74,"ej,carem101,M,pfirc901,Balls and strikes Dodgers Manager Max Carey ejected by HP umpire Cy Pfirman","1933BRO.EVN.regular.comment.csv",11
+"BRO193305140",81,"$raining hard","1933BRO.EVN.regular.comment.csv",12
+"BRO193306210",10,"ej,strij101,P,barrg901,Balls and strikes Joe Stripp ejected by HP umpire George Barr","1933BRO.EVN.regular.comment.csv",13
+"BRO193306210",18,"ej,durol101,P,barrg901,Balls and strikes (Threw bat) Leo Durocher ejected by HP umpire George Barr","1933BRO.EVN.regular.comment.csv",14
+"BRO193306210",65,"ej,fredj101,P,barrg901,Call at 3B Johnny Frederick overslid 3B and was ejected by 3B umpire Ernie Quigley","1933BRO.EVN.regular.comment.csv",15
+"BRO193306210",76,"ej,stenc101,C,quige901,Balk non-call Dodgers Coach Casey Stengel ejected by 3B umpire Ernie Quigley","1933BRO.EVN.regular.comment.csv",16
+"BRO193307010",31,"ej,wilsh102,P,stard901,Balls and strikes Hack Wilson ejected by HP umpire Dolly Stark","1933BRO.EVN.regular.comment.csv",17
+"BRO193307010",74,"ej,schuj106,C,stard901,Called third strike Cubs Coach Johnny Schulte ejected by HP umpire Dolly Stark","1933BRO.EVN.regular.comment.csv",18
+"BRO193307022",39,"$Joe Stripp called for interference for running into his own batted ball","1933BRO.EVN.regular.comment.csv",19
+"BRO193307230",75,"$Jordan injured in collision with Richards.","1933BRO.EVN.regular.comment.csv",20
+"BRO193308162",26,"ej,lopea102,P,mcgrt901,Call at HP ej,carem101,M,mcgrt901,Call at HP Al Lopez and Dodgers Manager Max Carey ejected by HP umpire Ted McGrew","1933BRO.EVN.regular.comment.csv",21
+"BRO193308242",41,"$Tony Cuccinello left with a pulled leg muscle","1933BRO.EVN.regular.comment.csv",22
+"BRO193309242",49,"$Game called on account of darkness","1933BRO.EVN.regular.comment.csv",23
+"BRO193309282",81,"$game called due to darkness; tie game","1933BRO.EVN.regular.comment.csv",24
+"BRO193309300",3,"Ball took crazy bounce off stands allowing Critz third base.","1933BRO.EVN.regular.comment.csv",25
+"BRO193310010",18,"$Blondy Ryan never stopped running","1933BRO.EVN.regular.comment.csv",26

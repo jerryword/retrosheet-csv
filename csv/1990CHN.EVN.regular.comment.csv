@@ -1,37 +1,38 @@
-"CHN199004121",61,"Debut game for Dave Hollins","FILENAME_TX","LINE_NUMBER_CT"
-"CHN199004200",68,"Game stopped by rain","1990CHN.EVN.regular.comment.csv",2
-"CHN199004210",72,"ej,bondb001,P,davib902,Called third strike Barry Bonds ejected by HP umpire Bob Davidson","1990CHN.EVN.regular.comment.csv",3
-"CHN199005051",18,"Missed squeeze bunt","1990CHN.EVN.regular.comment.csv",4
-"CHN199005052",43,"$Jack Clark left 3B too early; out on appeal","1990CHN.EVN.regular.comment.csv",5
-"CHN199005060",56,"$Benito Santiago called for interference for running into his own bunt","1990CHN.EVN.regular.comment.csv",6
-"CHN199005090",39,"Game called for rain","1990CHN.EVN.regular.comment.csv",7
-"CHN199005280",7,"$Ryne Sandberg stole 2B on throw to 1B","1990CHN.EVN.regular.comment.csv",8
-"CHN199005280",27,"ej,altoj101,C,westj901,Fair/foul call ej,zimmd101,M,westj901,Fair/foul call $Ryne Sandberg hit a fly ball to LF that was just inside the pole for a homer; when Giants' manager Roger Craig argued 3B umpire Bill Hohn's call, HP umpire Randy Marsh and 1B umpire (and crew chief) Harry Wendelstedt and 2B umpire Joe West huddled and reversed Hohn's call; Cubs' manager Don Zimmer came onto the field and launched a 10-minute tirade; West ejected Zimmer, who threw his hat into the stands as he left the field; Cubs coach Joe Altobelli was also ejected by West","1990CHN.EVN.regular.comment.csv",9
-"CHN199005290",26,"$Kevin Blankenship missed the base","1990CHN.EVN.regular.comment.csv",10
-"CHN199006090",13,"ej,cookd001,P,davig901,Bench jockeying Dennis Cook ejected by HP umpire Gerry Davis from the bench","1990CHN.EVN.regular.comment.csv",11
-"CHN199006110",12,"umpchange,2,umphome,quicj901 umpchange,2,ump1b,rennd901 umpchange,2,ump2b,(None) $HP umpire Hohn left after being hit on arm by pitch; 1B umpire Quick went behind plate, 2B umpire Rennert moved to 1st; game finished with 3 umpires","1990CHN.EVN.regular.comment.csv",12
-"CHN199006120",1,"$Domingo Ramos and Curtis Wilkerson collided under wind-blown pop","1990CHN.EVN.regular.comment.csv",13
-"CHN199006120",21,"$Kevin McReynolds double lodged behind foul pole in LF corner","1990CHN.EVN.regular.comment.csv",14
-"CHN199006120",44,"$Hector Villaneuva left after being hit in hand by pitch","1990CHN.EVN.regular.comment.csv",15
-"CHN199006220",0,"25 minute rain delay at start","1990CHN.EVN.regular.comment.csv",16
-"CHN199006220",37,"43 minute rain delay","1990CHN.EVN.regular.comment.csv",17
-"CHN199006250",19,"$ball got stuck in the vines","1990CHN.EVN.regular.comment.csv",18
-"CHN199006260",80,"$fan interference; reached over 'basket'","1990CHN.EVN.regular.comment.csv",19
-"CHN199006270",3,"$Dave Martinez called for interference","1990CHN.EVN.regular.comment.csv",20
-"CHN199006280",55,"$Zane Smith removed after being hit in right knee by Ramos' liner","1990CHN.EVN.regular.comment.csv",21
-"CHN199007120",71,"$Shawon Dunston hit on wrist and left game with a bruise","1990CHN.EVN.regular.comment.csv",22
-"CHN199007160",50,"$Jack Clark left 3B early; out on appeal","1990CHN.EVN.regular.comment.csv",23
-"CHN199007170",57,"$Mike Dunne hurt on liner off ankle","1990CHN.EVN.regular.comment.csv",24
-"CHN199007210",75,"Debut game for Mark Leonard","1990CHN.EVN.regular.comment.csv",25
-"CHN199007310",14,"$Bob Walk hurt pitching hand knocking down Clark's grounder","1990CHN.EVN.regular.comment.csv",26
-"CHN199007310",30,"$Jose Lind dropped the infield fly","1990CHN.EVN.regular.comment.csv",27
-"CHN199008090",1,"Debut game for Lance Dickson","1990CHN.EVN.regular.comment.csv",28
-"CHN199008170",1,"41 minute rain delay","1990CHN.EVN.regular.comment.csv",29
-"CHN199009070",38,"$Greg Maddux called for interference for running into his own batted ball","1990CHN.EVN.regular.comment.csv",30
-"CHN199009180",1,"Light drizzle during middle of the game","1990CHN.EVN.regular.comment.csv",31
-"CHN199009180",46,"$Wally Backman left with bruised finger","1990CHN.EVN.regular.comment.csv",32
-"CHN199009190",26,"$Mike Bielecki left with a stiff arm","1990CHN.EVN.regular.comment.csv",33
-"CHN199009200",71,"Debut game for Carlos Garcia","1990CHN.EVN.regular.comment.csv",34
-"CHN199009220",9,"$Andre Dawson's 300th stolen base","1990CHN.EVN.regular.comment.csv",35
-"CHN199009220",28,"$Andre Dawson caught in rundown; Mark Grace thrown out trying to score","1990CHN.EVN.regular.comment.csv",36
-"CHN199009220",76,"$Kevin McReynolds gets beer dumped on him by fan","1990CHN.EVN.regular.comment.csv",37
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"CHN199004121",61,"Debut game for Dave Hollins","1990CHN.EVN.regular.comment.csv",2
+"CHN199004200",68,"Game stopped by rain","1990CHN.EVN.regular.comment.csv",3
+"CHN199004210",72,"ej,bondb001,P,davib902,Called third strike Barry Bonds ejected by HP umpire Bob Davidson","1990CHN.EVN.regular.comment.csv",4
+"CHN199005051",18,"Missed squeeze bunt","1990CHN.EVN.regular.comment.csv",5
+"CHN199005052",43,"$Jack Clark left 3B too early; out on appeal","1990CHN.EVN.regular.comment.csv",6
+"CHN199005060",56,"$Benito Santiago called for interference for running into his own bunt","1990CHN.EVN.regular.comment.csv",7
+"CHN199005090",39,"Game called for rain","1990CHN.EVN.regular.comment.csv",8
+"CHN199005280",7,"$Ryne Sandberg stole 2B on throw to 1B","1990CHN.EVN.regular.comment.csv",9
+"CHN199005280",27,"ej,altoj101,C,westj901,Fair/foul call ej,zimmd101,M,westj901,Fair/foul call $Ryne Sandberg hit a fly ball to LF that was just inside the pole for a homer; when Giants' manager Roger Craig argued 3B umpire Bill Hohn's call, HP umpire Randy Marsh and 1B umpire (and crew chief) Harry Wendelstedt and 2B umpire Joe West huddled and reversed Hohn's call; Cubs' manager Don Zimmer came onto the field and launched a 10-minute tirade; West ejected Zimmer, who threw his hat into the stands as he left the field; Cubs coach Joe Altobelli was also ejected by West","1990CHN.EVN.regular.comment.csv",10
+"CHN199005290",26,"$Kevin Blankenship missed the base","1990CHN.EVN.regular.comment.csv",11
+"CHN199006090",13,"ej,cookd001,P,davig901,Bench jockeying Dennis Cook ejected by HP umpire Gerry Davis from the bench","1990CHN.EVN.regular.comment.csv",12
+"CHN199006110",12,"umpchange,2,umphome,quicj901 umpchange,2,ump1b,rennd901 umpchange,2,ump2b,(None) $HP umpire Hohn left after being hit on arm by pitch; 1B umpire Quick went behind plate, 2B umpire Rennert moved to 1st; game finished with 3 umpires","1990CHN.EVN.regular.comment.csv",13
+"CHN199006120",1,"$Domingo Ramos and Curtis Wilkerson collided under wind-blown pop","1990CHN.EVN.regular.comment.csv",14
+"CHN199006120",21,"$Kevin McReynolds double lodged behind foul pole in LF corner","1990CHN.EVN.regular.comment.csv",15
+"CHN199006120",44,"$Hector Villaneuva left after being hit in hand by pitch","1990CHN.EVN.regular.comment.csv",16
+"CHN199006220",0,"25 minute rain delay at start","1990CHN.EVN.regular.comment.csv",17
+"CHN199006220",37,"43 minute rain delay","1990CHN.EVN.regular.comment.csv",18
+"CHN199006250",19,"$ball got stuck in the vines","1990CHN.EVN.regular.comment.csv",19
+"CHN199006260",80,"$fan interference; reached over 'basket'","1990CHN.EVN.regular.comment.csv",20
+"CHN199006270",3,"$Dave Martinez called for interference","1990CHN.EVN.regular.comment.csv",21
+"CHN199006280",55,"$Zane Smith removed after being hit in right knee by Ramos' liner","1990CHN.EVN.regular.comment.csv",22
+"CHN199007120",71,"$Shawon Dunston hit on wrist and left game with a bruise","1990CHN.EVN.regular.comment.csv",23
+"CHN199007160",50,"$Jack Clark left 3B early; out on appeal","1990CHN.EVN.regular.comment.csv",24
+"CHN199007170",57,"$Mike Dunne hurt on liner off ankle","1990CHN.EVN.regular.comment.csv",25
+"CHN199007210",75,"Debut game for Mark Leonard","1990CHN.EVN.regular.comment.csv",26
+"CHN199007310",14,"$Bob Walk hurt pitching hand knocking down Clark's grounder","1990CHN.EVN.regular.comment.csv",27
+"CHN199007310",30,"$Jose Lind dropped the infield fly","1990CHN.EVN.regular.comment.csv",28
+"CHN199008090",1,"Debut game for Lance Dickson","1990CHN.EVN.regular.comment.csv",29
+"CHN199008170",1,"41 minute rain delay","1990CHN.EVN.regular.comment.csv",30
+"CHN199009070",38,"$Greg Maddux called for interference for running into his own batted ball","1990CHN.EVN.regular.comment.csv",31
+"CHN199009180",1,"Light drizzle during middle of the game","1990CHN.EVN.regular.comment.csv",32
+"CHN199009180",46,"$Wally Backman left with bruised finger","1990CHN.EVN.regular.comment.csv",33
+"CHN199009190",26,"$Mike Bielecki left with a stiff arm","1990CHN.EVN.regular.comment.csv",34
+"CHN199009200",71,"Debut game for Carlos Garcia","1990CHN.EVN.regular.comment.csv",35
+"CHN199009220",9,"$Andre Dawson's 300th stolen base","1990CHN.EVN.regular.comment.csv",36
+"CHN199009220",28,"$Andre Dawson caught in rundown; Mark Grace thrown out trying to score","1990CHN.EVN.regular.comment.csv",37
+"CHN199009220",76,"$Kevin McReynolds gets beer dumped on him by fan","1990CHN.EVN.regular.comment.csv",38

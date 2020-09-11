@@ -1,22 +1,23 @@
-"MIL197804070",6,"Debut game for Paul Molitor","FILENAME_TX","LINE_NUMBER_CT"
-"MIL197804110",53,"Debut game for Andy Replogle","1978MIL.EVA.regular.comment.csv",2
-"MIL197804250",26,"ej,evand002,P,garcr901,Called third strike Dwight Evans ejected by HP umpire Rich Garcia","1978MIL.EVA.regular.comment.csv",3
-"MIL197805030",1,"Debut game for Rich Wortham","1978MIL.EVA.regular.comment.csv",4
-"MIL197805070",2,"$Freddie Patek rounded 2B too far","1978MIL.EVA.regular.comment.csv",5
-"MIL197805070",42,"$hit 3B bag","1978MIL.EVA.regular.comment.csv",6
-"MIL197805090",67,"ej,bands101,P,neudj901,Arguing ground out was foul ball ej,bambg101,M,neudj901,Arguing ground out was foul ball $Milwaukee manager Bamberger and Bando ejected by 1B umpire Neudecker for arguing that grounder hit off Bando's foot","1978MIL.EVA.regular.comment.csv",7
-"MIL197805200",61,"$Dave Chalk called for interference","1978MIL.EVA.regular.comment.csv",8
-"MIL197806070",0,"1:08 rain delay before start of game","1978MIL.EVA.regular.comment.csv",9
-"MIL197806111",26,"$Rick Bosetti hurt his ankle","1978MIL.EVA.regular.comment.csv",10
-"MIL197806200",9,"$Sal Bando fell while running to 2B on 'single' to RF","1978MIL.EVA.regular.comment.csv",11
-"MIL197806200",62,"17 minute rain delay","1978MIL.EVA.regular.comment.csv",12
-"MIL197807170",65,"Debut game for Tom Spencer","1978MIL.EVA.regular.comment.csv",13
-"MIL197807180",17,"Debut game for Mike Colbern","1978MIL.EVA.regular.comment.csv",14
-"MIL197807190",62,"ej,bambg101,M,voltv901,Ball call $Brewers manager Bamberger ejected by 1B umpire Voltaggio for arguing balk call","1978MIL.EVA.regular.comment.csv",15
-"MIL197807260",73,"ej,lezcs001,P,,Unknown reason Sixto Lezcano ejected by unknown umpire","1978MIL.EVA.regular.comment.csv",16
-"MIL197807260",78,"Frank Tanana warned by HP umpire Don Denkinger","1978MIL.EVA.regular.comment.csv",17
-"MIL197808190",57,"$Lou Whitaker hit on right elbow","1978MIL.EVA.regular.comment.csv",18
-"MIL197808240",100,"ej,alexg101,P,kaisk901,Called third strike Gary Alexander ejected by HP umpire Ken Kaiser","1978MIL.EVA.regular.comment.csv",19
-"MIL197809020",1,"Debut game for Bill Sample","1978MIL.EVA.regular.comment.csv",20
-"MIL197809042",11,"ej,bambg101,M,merrd901,Bench jockeying Brewers Manager George Bamberger ejected by 1B umpire Durwood Merrill","1978MIL.EVA.regular.comment.csv",21
-"MIL197809150",71,"Debut game for Jeff Yurak","1978MIL.EVA.regular.comment.csv",22
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"MIL197804070",6,"Debut game for Paul Molitor","1978MIL.EVA.regular.comment.csv",2
+"MIL197804110",53,"Debut game for Andy Replogle","1978MIL.EVA.regular.comment.csv",3
+"MIL197804250",26,"ej,evand002,P,garcr901,Called third strike Dwight Evans ejected by HP umpire Rich Garcia","1978MIL.EVA.regular.comment.csv",4
+"MIL197805030",1,"Debut game for Rich Wortham","1978MIL.EVA.regular.comment.csv",5
+"MIL197805070",2,"$Freddie Patek rounded 2B too far","1978MIL.EVA.regular.comment.csv",6
+"MIL197805070",42,"$hit 3B bag","1978MIL.EVA.regular.comment.csv",7
+"MIL197805090",67,"ej,bands101,P,neudj901,Arguing ground out was foul ball ej,bambg101,M,neudj901,Arguing ground out was foul ball $Milwaukee manager Bamberger and Bando ejected by 1B umpire Neudecker for arguing that grounder hit off Bando's foot","1978MIL.EVA.regular.comment.csv",8
+"MIL197805200",61,"$Dave Chalk called for interference","1978MIL.EVA.regular.comment.csv",9
+"MIL197806070",0,"1:08 rain delay before start of game","1978MIL.EVA.regular.comment.csv",10
+"MIL197806111",26,"$Rick Bosetti hurt his ankle","1978MIL.EVA.regular.comment.csv",11
+"MIL197806200",9,"$Sal Bando fell while running to 2B on 'single' to RF","1978MIL.EVA.regular.comment.csv",12
+"MIL197806200",62,"17 minute rain delay","1978MIL.EVA.regular.comment.csv",13
+"MIL197807170",65,"Debut game for Tom Spencer","1978MIL.EVA.regular.comment.csv",14
+"MIL197807180",17,"Debut game for Mike Colbern","1978MIL.EVA.regular.comment.csv",15
+"MIL197807190",62,"ej,bambg101,M,voltv901,Ball call $Brewers manager Bamberger ejected by 1B umpire Voltaggio for arguing balk call","1978MIL.EVA.regular.comment.csv",16
+"MIL197807260",73,"ej,lezcs001,P,,Unknown reason Sixto Lezcano ejected by unknown umpire","1978MIL.EVA.regular.comment.csv",17
+"MIL197807260",78,"Frank Tanana warned by HP umpire Don Denkinger","1978MIL.EVA.regular.comment.csv",18
+"MIL197808190",57,"$Lou Whitaker hit on right elbow","1978MIL.EVA.regular.comment.csv",19
+"MIL197808240",100,"ej,alexg101,P,kaisk901,Called third strike Gary Alexander ejected by HP umpire Ken Kaiser","1978MIL.EVA.regular.comment.csv",20
+"MIL197809020",1,"Debut game for Bill Sample","1978MIL.EVA.regular.comment.csv",21
+"MIL197809042",11,"ej,bambg101,M,merrd901,Bench jockeying Brewers Manager George Bamberger ejected by 1B umpire Durwood Merrill","1978MIL.EVA.regular.comment.csv",22
+"MIL197809150",71,"Debut game for Jeff Yurak","1978MIL.EVA.regular.comment.csv",23

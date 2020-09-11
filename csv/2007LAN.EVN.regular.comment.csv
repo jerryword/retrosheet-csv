@@ -1,39 +1,40 @@
-"LAN200704090",28,"Dodgers left fielder Matt Kemp left the game due to an injured neck/shoulder","FILENAME_TX","LINE_NUMBER_CT"
-"LAN200704090",38,"Dodgers pitcher Jason Schmidt left the game due to an injured leg, put on DL with hamstring problem after game","2007LAN.EVN.regular.comment.csv",2
-"LAN200704150",3,"originally K+CS2(E2), changed two days later to SB","2007LAN.EVN.regular.comment.csv",3
-"LAN200704210",24,"ej,littg801,M,westj901,Balls and strikes Dodgers Manager Grady Little ejected by HP umpire Joe West","2007LAN.EVN.regular.comment.csv",4
-"LAN200705010",25,"Diamondbacks third baseman Chad Tracy left the game due to an injured neck/shoulder","2007LAN.EVN.regular.comment.csv",5
-"LAN200705140",13,"$Brad Thompson called for interference","2007LAN.EVN.regular.comment.csv",6
-"LAN200705220",6,"$Juan Pierre called for interference","2007LAN.EVN.regular.comment.csv",7
-"LAN200705220",19,"Debut game for Tony Abreu","2007LAN.EVN.regular.comment.csv",8
-"LAN200706080",0,"$Debut for umpire Todd Tichnor","2007LAN.EVN.regular.comment.csv",9
-"LAN200706120",17,"$Dodger homers on 3 consecutive pitches","2007LAN.EVN.regular.comment.csv",10
-"LAN200706130",46,"$Russell Martin called for interference","2007LAN.EVN.regular.comment.csv",11
-"LAN200706160",8,"Angels left fielder Garret Anderson left the game due to a re-aggravated injury to his right hip injured making a backhanded catch in the first","2007LAN.EVN.regular.comment.csv",12
-"LAN200706160",61,"$Angels first baseman Casey Kotchman hit on the back of the head by Russell Martin's throw; Kotchman left the game with a concussion","2007LAN.EVN.regular.comment.csv",13
-"LAN200706170",75,"Dodgers James Loney left the game due to an injured knee","2007LAN.EVN.regular.comment.csv",14
-"LAN200706170",79,"Debut game for Terry Evans","2007LAN.EVN.regular.comment.csv",15
-"LAN200707050",32,"$Andruw Jones charged the ball and over-ran it","2007LAN.EVN.regular.comment.csv",16
-"LAN200707050",75,"Great play behind base by Renteria who made backhand flip to second base to start double play","2007LAN.EVN.regular.comment.csv",17
-"LAN200707050",77,"$Chipper Jones' 372 homer, setting a new mark for the Atlanta Braves; he broke the old record set by Dale Murphy","2007LAN.EVN.regular.comment.csv",18
-"LAN200707060",44,"originally scored as SH, changed at end of game","2007LAN.EVN.regular.comment.csv",19
-"LAN200707080",12,"$Kemp injured leg running out infield single","2007LAN.EVN.regular.comment.csv",20
-"LAN200707180",76,"$On SB, Martin called pitchout, but Saito threw slider for a strike that hit umpire on knee and went to backstop","2007LAN.EVN.regular.comment.csv",21
-"LAN200707200",31,"Mets second baseman Jose Valentin left the game due to a broken tibia from a foul ball after four pitches, probably out for season","2007LAN.EVN.regular.comment.csv",22
-"LAN200707210",36,"fan interference","2007LAN.EVN.regular.comment.csv",23
-"LAN200708050",29,"$Penny complained about ball call to Webb and Cederstrom charged the mound. Martin intervened to keep Cederstrom away","2007LAN.EVN.regular.comment.csv",24
-"LAN200708050",39,"$Penny fouled bunt and hurt finger that was wrapped around bat, stayed in to get hit on next pitch","2007LAN.EVN.regular.comment.csv",25
-"LAN200708050",58,"$Garciaparra almost got Young diving back to base, but still got Byrnes at first","2007LAN.EVN.regular.comment.csv",26
-"LAN200708130",7,"$ball hit right over bag; Berkman fielded and dragged foot over base, then threw just late to second; 1B umpire Jerry Crawford said Berkman missed base, but replay is clear that he had touched it; argument from Berkman and manager Garner, but no ejections","2007LAN.EVN.regular.comment.csv",27
-"LAN200708130",36,"ej,garcn001,P,hallt901,Called third strike $Garciaparra ejected by HP umpire Hallion for arguing called third strike","2007LAN.EVN.regular.comment.csv",28
-"LAN200708140",23,"umpchange,4,umphp,hoyej901 umpchange,4,ump1b,reint901 umpchange,4,ump2b,(None)","2007LAN.EVN.regular.comment.csv",29
-"LAN200708160",46,"Astros pitcher Stephen Randolph left the game due to an injured knee","2007LAN.EVN.regular.comment.csv",30
-"LAN200708180",1,"Debut game for Franklin Morales","2007LAN.EVN.regular.comment.csv",31
-"LAN200708180",3,"$Matt Holliday called for interfering with catcher Russell Martin","2007LAN.EVN.regular.comment.csv",32
-"LAN200708270",14,"$Pena fouled a ball off his left foot, suffering a contusion","2007LAN.EVN.regular.comment.csv",33
-"LAN200708270",19,"Nationals left fielder Wily Mo Pena left the game due to an injured foot","2007LAN.EVN.regular.comment.csv",34
-"LAN200709130",8,"$Very hard hit off wrist of Maddux's glove hand","2007LAN.EVN.regular.comment.csv",35
-"LAN200709130",9,"Great stop by Maddux of very hard hit to start DP","2007LAN.EVN.regular.comment.csv",36
-"LAN200709130",12,"$Kouzmanoff reaches base for 10th straight time","2007LAN.EVN.regular.comment.csv",37
-"LAN200709130",35,"$Play was originally scored as SH for Furcal, but rule is clear that SH should not be awarded when a runner was forced out; Scoring was changed later in the day as SH was removed","2007LAN.EVN.regular.comment.csv",38
-"LAN200709260",35,"$Andre Ethier called for interfering with SS Troy Tulowitzki","2007LAN.EVN.regular.comment.csv",39
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"LAN200704090",28,"Dodgers left fielder Matt Kemp left the game due to an injured neck/shoulder","2007LAN.EVN.regular.comment.csv",2
+"LAN200704090",38,"Dodgers pitcher Jason Schmidt left the game due to an injured leg, put on DL with hamstring problem after game","2007LAN.EVN.regular.comment.csv",3
+"LAN200704150",3,"originally K+CS2(E2), changed two days later to SB","2007LAN.EVN.regular.comment.csv",4
+"LAN200704210",24,"ej,littg801,M,westj901,Balls and strikes Dodgers Manager Grady Little ejected by HP umpire Joe West","2007LAN.EVN.regular.comment.csv",5
+"LAN200705010",25,"Diamondbacks third baseman Chad Tracy left the game due to an injured neck/shoulder","2007LAN.EVN.regular.comment.csv",6
+"LAN200705140",13,"$Brad Thompson called for interference","2007LAN.EVN.regular.comment.csv",7
+"LAN200705220",6,"$Juan Pierre called for interference","2007LAN.EVN.regular.comment.csv",8
+"LAN200705220",19,"Debut game for Tony Abreu","2007LAN.EVN.regular.comment.csv",9
+"LAN200706080",0,"$Debut for umpire Todd Tichnor","2007LAN.EVN.regular.comment.csv",10
+"LAN200706120",17,"$Dodger homers on 3 consecutive pitches","2007LAN.EVN.regular.comment.csv",11
+"LAN200706130",46,"$Russell Martin called for interference","2007LAN.EVN.regular.comment.csv",12
+"LAN200706160",8,"Angels left fielder Garret Anderson left the game due to a re-aggravated injury to his right hip injured making a backhanded catch in the first","2007LAN.EVN.regular.comment.csv",13
+"LAN200706160",61,"$Angels first baseman Casey Kotchman hit on the back of the head by Russell Martin's throw; Kotchman left the game with a concussion","2007LAN.EVN.regular.comment.csv",14
+"LAN200706170",75,"Dodgers James Loney left the game due to an injured knee","2007LAN.EVN.regular.comment.csv",15
+"LAN200706170",79,"Debut game for Terry Evans","2007LAN.EVN.regular.comment.csv",16
+"LAN200707050",32,"$Andruw Jones charged the ball and over-ran it","2007LAN.EVN.regular.comment.csv",17
+"LAN200707050",75,"Great play behind base by Renteria who made backhand flip to second base to start double play","2007LAN.EVN.regular.comment.csv",18
+"LAN200707050",77,"$Chipper Jones' 372 homer, setting a new mark for the Atlanta Braves; he broke the old record set by Dale Murphy","2007LAN.EVN.regular.comment.csv",19
+"LAN200707060",44,"originally scored as SH, changed at end of game","2007LAN.EVN.regular.comment.csv",20
+"LAN200707080",12,"$Kemp injured leg running out infield single","2007LAN.EVN.regular.comment.csv",21
+"LAN200707180",76,"$On SB, Martin called pitchout, but Saito threw slider for a strike that hit umpire on knee and went to backstop","2007LAN.EVN.regular.comment.csv",22
+"LAN200707200",31,"Mets second baseman Jose Valentin left the game due to a broken tibia from a foul ball after four pitches, probably out for season","2007LAN.EVN.regular.comment.csv",23
+"LAN200707210",36,"fan interference","2007LAN.EVN.regular.comment.csv",24
+"LAN200708050",29,"$Penny complained about ball call to Webb and Cederstrom charged the mound. Martin intervened to keep Cederstrom away","2007LAN.EVN.regular.comment.csv",25
+"LAN200708050",39,"$Penny fouled bunt and hurt finger that was wrapped around bat, stayed in to get hit on next pitch","2007LAN.EVN.regular.comment.csv",26
+"LAN200708050",58,"$Garciaparra almost got Young diving back to base, but still got Byrnes at first","2007LAN.EVN.regular.comment.csv",27
+"LAN200708130",7,"$ball hit right over bag; Berkman fielded and dragged foot over base, then threw just late to second; 1B umpire Jerry Crawford said Berkman missed base, but replay is clear that he had touched it; argument from Berkman and manager Garner, but no ejections","2007LAN.EVN.regular.comment.csv",28
+"LAN200708130",36,"ej,garcn001,P,hallt901,Called third strike $Garciaparra ejected by HP umpire Hallion for arguing called third strike","2007LAN.EVN.regular.comment.csv",29
+"LAN200708140",23,"umpchange,4,umphp,hoyej901 umpchange,4,ump1b,reint901 umpchange,4,ump2b,(None)","2007LAN.EVN.regular.comment.csv",30
+"LAN200708160",46,"Astros pitcher Stephen Randolph left the game due to an injured knee","2007LAN.EVN.regular.comment.csv",31
+"LAN200708180",1,"Debut game for Franklin Morales","2007LAN.EVN.regular.comment.csv",32
+"LAN200708180",3,"$Matt Holliday called for interfering with catcher Russell Martin","2007LAN.EVN.regular.comment.csv",33
+"LAN200708270",14,"$Pena fouled a ball off his left foot, suffering a contusion","2007LAN.EVN.regular.comment.csv",34
+"LAN200708270",19,"Nationals left fielder Wily Mo Pena left the game due to an injured foot","2007LAN.EVN.regular.comment.csv",35
+"LAN200709130",8,"$Very hard hit off wrist of Maddux's glove hand","2007LAN.EVN.regular.comment.csv",36
+"LAN200709130",9,"Great stop by Maddux of very hard hit to start DP","2007LAN.EVN.regular.comment.csv",37
+"LAN200709130",12,"$Kouzmanoff reaches base for 10th straight time","2007LAN.EVN.regular.comment.csv",38
+"LAN200709130",35,"$Play was originally scored as SH for Furcal, but rule is clear that SH should not be awarded when a runner was forced out; Scoring was changed later in the day as SH was removed","2007LAN.EVN.regular.comment.csv",39
+"LAN200709260",35,"$Andre Ethier called for interfering with SS Troy Tulowitzki","2007LAN.EVN.regular.comment.csv",40

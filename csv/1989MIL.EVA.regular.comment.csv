@@ -1,34 +1,35 @@
-"MIL198904130",20,"$throw to 2B late","FILENAME_TX","LINE_NUMBER_CT"
-"MIL198904140",38,"$Oddibe McDowell out on appeal for leaving 3B too soon","1989MIL.EVA.regular.comment.csv",2
-"MIL198904140",55,"Delayed double steal","1989MIL.EVA.regular.comment.csv",3
-"MIL198904140",74,"ej,skalj001,P,kaisk901,Intentional HBP Joe Skalski ejected by HP umpire Ken Kaiser","1989MIL.EVA.regular.comment.csv",4
-"MIL198904230",37,"$Pat Sheridan scored before third out","1989MIL.EVA.regular.comment.csv",5
-"MIL198904230",37,"$Jeff Robinson out with stiff elbow","1989MIL.EVA.regular.comment.csv",6
-"MIL198904230",66,"$Mike Henneman aggravated groin muscle after two pitches","1989MIL.EVA.regular.comment.csv",7
-"MIL198905050",79,"$missed squeeze bunt","1989MIL.EVA.regular.comment.csv",8
-"MIL198905270",29,"ej,lefej101,M,hendt901,Balls and strikes ej,valld001,P,hendt901,Balls and strikes Dave Valle and Mariners manager Jim Lefebvre ejected by HP umpire Ted Hendry after first pitch is called a strike","1989MIL.EVA.regular.comment.csv",9
-"MIL198905310",68,"$LF Dante Bichette attempted a sliding catch of Terry Francona's line drive; Bichette appeared to trap the ball and threw to HP; B.J. Surhoff slid in under the tag and Francona took 2B on the throw; 3B umpire Ken Kaiser ruled Bichette made the catch, negating the entire play; Francona and Brewers manager Tom Trebelhorn argued heatedly with Kaiser; this play caused repercussions on 7/9","1989MIL.EVA.regular.comment.csv",10
-"MIL198906130",67,"Debut game for Kevin Batiste","1989MIL.EVA.regular.comment.csv",11
-"MIL198906200",1,"Debut game for Jaime Navarro","1989MIL.EVA.regular.comment.csv",12
-"MIL198906200",53,"SS cut off throw and hit runner at 2nd, no advance, 1 rbi","1989MIL.EVA.regular.comment.csv",13
-"MIL198906220",66,"ej,shefg001,P,koscg901,Called third strike Gary Sheffield ejected by HP umpire Greg Kosc","1989MIL.EVA.regular.comment.csv",14
-"MIL198906220",82,"$CF Bill Pecota positioned behind 2B","1989MIL.EVA.regular.comment.csv",15
-"MIL198906231",13,"$Gus Polidor argued while runner on 2B scored","1989MIL.EVA.regular.comment.csv",16
-"MIL198906231",15,"$Harold Baines injured","1989MIL.EVA.regular.comment.csv",17
-"MIL198906231",45,"$2B umpire Don Denkinger made incorrect call, confused runner, who was then out when he stepped off the bag","1989MIL.EVA.regular.comment.csv",18
-"MIL198906232",67,"$Greg Brock faked return throw to pitcher, which lured runner off base","1989MIL.EVA.regular.comment.csv",19
-"MIL198906280",40,"ej,morgj101,M,roe-r901,Call at 2B Red Sox manager Joe Morgan ejected by 2B umpire Rocky Roe","1989MIL.EVA.regular.comment.csv",20
-"MIL198907090",37,"$Phil Bradley out for interference with Jim Gantner","1989MIL.EVA.regular.comment.csv",21
-"MIL198907090",66,"ej,frant001,P,kaisk901,Arguing while receiving intentional walk Terry Francona ejected by HP umpire Ken Kaiser; earlier in the game, Kaiser was hit on the throat by a foul ball; Francona yelled at Kaiser while he was sitting in the Brewers dugout being treated; when Francona came up in this inning, Kaiser started yelling at Francona and calling him names and then ejected him; this was a result of a play on 5/31","1989MIL.EVA.regular.comment.csv",22
-"MIL198907270",45,"1:15 rain delay","1989MIL.EVA.regular.comment.csv",23
-"MIL198908010",68,"Botched squeeze play","1989MIL.EVA.regular.comment.csv",24
-"MIL198908140",1,"Debut game for Jeff Peterek","1989MIL.EVA.regular.comment.csv",25
-"MIL198908150",50,"$Marcus Lawton called for interference","1989MIL.EVA.regular.comment.csv",26
-"MIL198908170",74,"Debut game for Billy Bates","1989MIL.EVA.regular.comment.csv",27
-"MIL198908300",35,"$Bill Spiers injured on play when grounder hit him in eye","1989MIL.EVA.regular.comment.csv",28
-"MIL198909030",58,"$Storm Davis injured","1989MIL.EVA.regular.comment.csv",29
-"MIL198909030",80,"Debut game for George Canale","1989MIL.EVA.regular.comment.csv",30
-"MIL198909220",44,"$Paul Molitor dropped pop-up","1989MIL.EVA.regular.comment.csv",31
-"MIL198909230",52,"$Kelly Gruber batted out of turn, skipping Tony Fernandez","1989MIL.EVA.regular.comment.csv",32
-"MIL198909270",30,"$Gary Sheffield lost high bouncer in lights","1989MIL.EVA.regular.comment.csv",33
-"MIL198909270",34,"$Stan Jefferson pulled hamstring running out error","1989MIL.EVA.regular.comment.csv",34
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"MIL198904130",20,"$throw to 2B late","1989MIL.EVA.regular.comment.csv",2
+"MIL198904140",38,"$Oddibe McDowell out on appeal for leaving 3B too soon","1989MIL.EVA.regular.comment.csv",3
+"MIL198904140",55,"Delayed double steal","1989MIL.EVA.regular.comment.csv",4
+"MIL198904140",74,"ej,skalj001,P,kaisk901,Intentional HBP Joe Skalski ejected by HP umpire Ken Kaiser","1989MIL.EVA.regular.comment.csv",5
+"MIL198904230",37,"$Pat Sheridan scored before third out","1989MIL.EVA.regular.comment.csv",6
+"MIL198904230",37,"$Jeff Robinson out with stiff elbow","1989MIL.EVA.regular.comment.csv",7
+"MIL198904230",66,"$Mike Henneman aggravated groin muscle after two pitches","1989MIL.EVA.regular.comment.csv",8
+"MIL198905050",79,"$missed squeeze bunt","1989MIL.EVA.regular.comment.csv",9
+"MIL198905270",29,"ej,lefej101,M,hendt901,Balls and strikes ej,valld001,P,hendt901,Balls and strikes Dave Valle and Mariners manager Jim Lefebvre ejected by HP umpire Ted Hendry after first pitch is called a strike","1989MIL.EVA.regular.comment.csv",10
+"MIL198905310",68,"$LF Dante Bichette attempted a sliding catch of Terry Francona's line drive; Bichette appeared to trap the ball and threw to HP; B.J. Surhoff slid in under the tag and Francona took 2B on the throw; 3B umpire Ken Kaiser ruled Bichette made the catch, negating the entire play; Francona and Brewers manager Tom Trebelhorn argued heatedly with Kaiser; this play caused repercussions on 7/9","1989MIL.EVA.regular.comment.csv",11
+"MIL198906130",67,"Debut game for Kevin Batiste","1989MIL.EVA.regular.comment.csv",12
+"MIL198906200",1,"Debut game for Jaime Navarro","1989MIL.EVA.regular.comment.csv",13
+"MIL198906200",53,"SS cut off throw and hit runner at 2nd, no advance, 1 rbi","1989MIL.EVA.regular.comment.csv",14
+"MIL198906220",66,"ej,shefg001,P,koscg901,Called third strike Gary Sheffield ejected by HP umpire Greg Kosc","1989MIL.EVA.regular.comment.csv",15
+"MIL198906220",82,"$CF Bill Pecota positioned behind 2B","1989MIL.EVA.regular.comment.csv",16
+"MIL198906231",13,"$Gus Polidor argued while runner on 2B scored","1989MIL.EVA.regular.comment.csv",17
+"MIL198906231",15,"$Harold Baines injured","1989MIL.EVA.regular.comment.csv",18
+"MIL198906231",45,"$2B umpire Don Denkinger made incorrect call, confused runner, who was then out when he stepped off the bag","1989MIL.EVA.regular.comment.csv",19
+"MIL198906232",67,"$Greg Brock faked return throw to pitcher, which lured runner off base","1989MIL.EVA.regular.comment.csv",20
+"MIL198906280",40,"ej,morgj101,M,roe-r901,Call at 2B Red Sox manager Joe Morgan ejected by 2B umpire Rocky Roe","1989MIL.EVA.regular.comment.csv",21
+"MIL198907090",37,"$Phil Bradley out for interference with Jim Gantner","1989MIL.EVA.regular.comment.csv",22
+"MIL198907090",66,"ej,frant001,P,kaisk901,Arguing while receiving intentional walk Terry Francona ejected by HP umpire Ken Kaiser; earlier in the game, Kaiser was hit on the throat by a foul ball; Francona yelled at Kaiser while he was sitting in the Brewers dugout being treated; when Francona came up in this inning, Kaiser started yelling at Francona and calling him names and then ejected him; this was a result of a play on 5/31","1989MIL.EVA.regular.comment.csv",23
+"MIL198907270",45,"1:15 rain delay","1989MIL.EVA.regular.comment.csv",24
+"MIL198908010",68,"Botched squeeze play","1989MIL.EVA.regular.comment.csv",25
+"MIL198908140",1,"Debut game for Jeff Peterek","1989MIL.EVA.regular.comment.csv",26
+"MIL198908150",50,"$Marcus Lawton called for interference","1989MIL.EVA.regular.comment.csv",27
+"MIL198908170",74,"Debut game for Billy Bates","1989MIL.EVA.regular.comment.csv",28
+"MIL198908300",35,"$Bill Spiers injured on play when grounder hit him in eye","1989MIL.EVA.regular.comment.csv",29
+"MIL198909030",58,"$Storm Davis injured","1989MIL.EVA.regular.comment.csv",30
+"MIL198909030",80,"Debut game for George Canale","1989MIL.EVA.regular.comment.csv",31
+"MIL198909220",44,"$Paul Molitor dropped pop-up","1989MIL.EVA.regular.comment.csv",32
+"MIL198909230",52,"$Kelly Gruber batted out of turn, skipping Tony Fernandez","1989MIL.EVA.regular.comment.csv",33
+"MIL198909270",30,"$Gary Sheffield lost high bouncer in lights","1989MIL.EVA.regular.comment.csv",34
+"MIL198909270",34,"$Stan Jefferson pulled hamstring running out error","1989MIL.EVA.regular.comment.csv",35

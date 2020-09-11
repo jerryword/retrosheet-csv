@@ -1,21 +1,22 @@
-"CIN195804300",0,"Protest=H","FILENAME_TX","LINE_NUMBER_CT"
-"CIN195804300",21,"$the ball went under the fence; Reds manager Birdie Tebbetts protested the game","1958CIN.EVN.regular.comment.csv",2
-"CIN195805230",66,"ej,newcd101,P,secof101,Bench jockeying Don Newcombe ejected by HP umpire Frank Secory","1958CIN.EVN.regular.comment.csv",3
-"CIN195805270",21,"missing play in CIN195805270","1958CIN.EVN.regular.comment.csv",4
-"CIN195805280",56,"ej,mcmir101,P,lands101,Balls and strikes Roy McMillan ejected by HP umpire Stan Landis","1958CIN.EVN.regular.comment.csv",5
-"CIN195806200",84,"game called for rain","1958CIN.EVN.regular.comment.csv",6
-"CIN195806210",50,"ej,nuxhj101,P,craws901,Bench jockeying ej,tebbb101,M,craws901,Bench jockeying Joe Nuxhall and Reds Manager Birdie Tebbetts ejected by HP umpire Shag Crawford","1958CIN.EVN.regular.comment.csv",7
-"CIN195806241",29,"$lights turned on","1958CIN.EVN.regular.comment.csv",8
-"CIN195807042",6,"$Danny Kravitz left unknown injury","1958CIN.EVN.regular.comment.csv",9
-"CIN195807050",100,"umpchange,12,umphome,conlj102 umpchange,12,ump1b,secof101 umpchange,12,ump2b,(None) $HP umpire Ed Sudol left due to heat exhaustion; 1B umpire Jocko Conlan moved to HP and 2B umpire Frank Secory moved to 1B","1958CIN.EVN.regular.comment.csv",10
-"CIN195807061",75,"ej,schmw101,P,conlj102,Catch/trap call Willard Schmidt ejected by HP umpire Jocko Conlan","1958CIN.EVN.regular.comment.csv",11
-"CIN195807290",34,"$missed squeeze","1958CIN.EVN.regular.comment.csv",12
-"CIN195808020",18,"$onto the roof","1958CIN.EVN.regular.comment.csv",13
-"CIN195808032",15,"$onto the roof","1958CIN.EVN.regular.comment.csv",14
-"CIN195808032",57,"$lights turned on","1958CIN.EVN.regular.comment.csv",15
-"CIN195808140",28,"ej,logaj101,P,jackb901,Balls and strikes Johnny Logan ejected by HP umpire Bill Jackowski","1958CIN.EVN.regular.comment.csv",16
-"CIN195808172",73,"ej,foilh101,P,conlj102,Balls and strikes ej,murtd101,M,conlj102,Balls and strikes Hank Foiles and Pirates Manager Danny Murtaugh ejected by HP umpire Jocko Conlan","1958CIN.EVN.regular.comment.csv",17
-"CIN195809161",13,"$lights turned on","1958CIN.EVN.regular.comment.csv",18
-"CIN195809162",47,"$Duke Snider struck by Frank Howard line drive in foul territory and injured","1958CIN.EVN.regular.comment.csv",19
-"CIN195809190",10,"$Vada Pinson injured his left ankle","1958CIN.EVN.regular.comment.csv",20
-"CIN195809200",54,"game called for rain","1958CIN.EVN.regular.comment.csv",21
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"CIN195804300",0,"Protest=H","1958CIN.EVN.regular.comment.csv",2
+"CIN195804300",21,"$the ball went under the fence; Reds manager Birdie Tebbetts protested the game","1958CIN.EVN.regular.comment.csv",3
+"CIN195805230",66,"ej,newcd101,P,secof101,Bench jockeying Don Newcombe ejected by HP umpire Frank Secory","1958CIN.EVN.regular.comment.csv",4
+"CIN195805270",21,"missing play in CIN195805270","1958CIN.EVN.regular.comment.csv",5
+"CIN195805280",56,"ej,mcmir101,P,lands101,Balls and strikes Roy McMillan ejected by HP umpire Stan Landis","1958CIN.EVN.regular.comment.csv",6
+"CIN195806200",84,"game called for rain","1958CIN.EVN.regular.comment.csv",7
+"CIN195806210",50,"ej,nuxhj101,P,craws901,Bench jockeying ej,tebbb101,M,craws901,Bench jockeying Joe Nuxhall and Reds Manager Birdie Tebbetts ejected by HP umpire Shag Crawford","1958CIN.EVN.regular.comment.csv",8
+"CIN195806241",29,"$lights turned on","1958CIN.EVN.regular.comment.csv",9
+"CIN195807042",6,"$Danny Kravitz left unknown injury","1958CIN.EVN.regular.comment.csv",10
+"CIN195807050",100,"umpchange,12,umphome,conlj102 umpchange,12,ump1b,secof101 umpchange,12,ump2b,(None) $HP umpire Ed Sudol left due to heat exhaustion; 1B umpire Jocko Conlan moved to HP and 2B umpire Frank Secory moved to 1B","1958CIN.EVN.regular.comment.csv",11
+"CIN195807061",75,"ej,schmw101,P,conlj102,Catch/trap call Willard Schmidt ejected by HP umpire Jocko Conlan","1958CIN.EVN.regular.comment.csv",12
+"CIN195807290",34,"$missed squeeze","1958CIN.EVN.regular.comment.csv",13
+"CIN195808020",18,"$onto the roof","1958CIN.EVN.regular.comment.csv",14
+"CIN195808032",15,"$onto the roof","1958CIN.EVN.regular.comment.csv",15
+"CIN195808032",57,"$lights turned on","1958CIN.EVN.regular.comment.csv",16
+"CIN195808140",28,"ej,logaj101,P,jackb901,Balls and strikes Johnny Logan ejected by HP umpire Bill Jackowski","1958CIN.EVN.regular.comment.csv",17
+"CIN195808172",73,"ej,foilh101,P,conlj102,Balls and strikes ej,murtd101,M,conlj102,Balls and strikes Hank Foiles and Pirates Manager Danny Murtaugh ejected by HP umpire Jocko Conlan","1958CIN.EVN.regular.comment.csv",18
+"CIN195809161",13,"$lights turned on","1958CIN.EVN.regular.comment.csv",19
+"CIN195809162",47,"$Duke Snider struck by Frank Howard line drive in foul territory and injured","1958CIN.EVN.regular.comment.csv",20
+"CIN195809190",10,"$Vada Pinson injured his left ankle","1958CIN.EVN.regular.comment.csv",21
+"CIN195809200",54,"game called for rain","1958CIN.EVN.regular.comment.csv",22

@@ -1,17 +1,18 @@
-"CLE195404180",58,"Game called after 81 minute rain delay","FILENAME_TX","LINE_NUMBER_CT"
-"CLE195405100",10,"ej,berry101,P,summb901,Balls and strikes ej,stenc101,M,summb901,Balls and strikes Yogi Berra and Yankees Manager Casey Stengel ejected by HP umpire Bill Summers","1954CLE.EVA.regular.comment.csv",2
-"CLE195405100",20,"ej,crosf103,C,summb901,HBP non-call Yankees Coach Frankie Crosetti ejected by HP umpire Bill Summers; Crosetti was acting manager after Casey Stengel was ejected","1954CLE.EVA.regular.comment.csv",3
-"CLE195405100",40,"17 minute rain delay","1954CLE.EVA.regular.comment.csv",4
-"CLE195405110",5,"ej,woodg101,P,runge901,Call at 1B Gene Woodling ejected by 1B umpire Ed Runge","1954CLE.EVA.regular.comment.csv",5
-"CLE195405130",53,"$the ball struck 1B umpire Bill Summers","1954CLE.EVA.regular.comment.csv",6
-"CLE195405162",60,"to match daily/NYT, arbitrary 63 to 6","1954CLE.EVA.regular.comment.csv",7
-"CLE195406160",56,"$Mickey McDermott struck on his right leg","1954CLE.EVA.regular.comment.csv",8
-"CLE195406190",6,"to match daily/NYT, arbitrary K to K23","1954CLE.EVA.regular.comment.csv",9
-"CLE195406230",59,"to match daily/NYT, arbitrary 31 to 3/G","1954CLE.EVA.regular.comment.csv",10
-"CLE195406270",17,"$Bob Lemon injured his back during his at bat in the second","1954CLE.EVA.regular.comment.csv",11
-"CLE195407040",8,"$Mike Garcia left with hemorrhage of right middle finger","1954CLE.EVA.regular.comment.csv",12
-"CLE195408030",10,"$DFon Mossi left with an upset stomach","1954CLE.EVA.regular.comment.csv",13
-"CLE195408192",55,"ej,lopea102,M,summb901,Call at 2B Indians Manager Al Lopez ejected by 2B umpire Bill Summers","1954CLE.EVA.regular.comment.csv",14
-"CLE195409090",97,"$Al Rosen pulled a leg muscle","1954CLE.EVA.regular.comment.csv",15
-"CLE195409250",0,"$the Indians established a league record with their 111th victory","1954CLE.EVA.regular.comment.csv",16
-"CLE195409260",13,"Recorded in NYT, but not in daily or TSN","1954CLE.EVA.regular.comment.csv",17
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"CLE195404180",58,"Game called after 81 minute rain delay","1954CLE.EVA.regular.comment.csv",2
+"CLE195405100",10,"ej,berry101,P,summb901,Balls and strikes ej,stenc101,M,summb901,Balls and strikes Yogi Berra and Yankees Manager Casey Stengel ejected by HP umpire Bill Summers","1954CLE.EVA.regular.comment.csv",3
+"CLE195405100",20,"ej,crosf103,C,summb901,HBP non-call Yankees Coach Frankie Crosetti ejected by HP umpire Bill Summers; Crosetti was acting manager after Casey Stengel was ejected","1954CLE.EVA.regular.comment.csv",4
+"CLE195405100",40,"17 minute rain delay","1954CLE.EVA.regular.comment.csv",5
+"CLE195405110",5,"ej,woodg101,P,runge901,Call at 1B Gene Woodling ejected by 1B umpire Ed Runge","1954CLE.EVA.regular.comment.csv",6
+"CLE195405130",53,"$the ball struck 1B umpire Bill Summers","1954CLE.EVA.regular.comment.csv",7
+"CLE195405162",60,"to match daily/NYT, arbitrary 63 to 6","1954CLE.EVA.regular.comment.csv",8
+"CLE195406160",56,"$Mickey McDermott struck on his right leg","1954CLE.EVA.regular.comment.csv",9
+"CLE195406190",6,"to match daily/NYT, arbitrary K to K23","1954CLE.EVA.regular.comment.csv",10
+"CLE195406230",59,"to match daily/NYT, arbitrary 31 to 3/G","1954CLE.EVA.regular.comment.csv",11
+"CLE195406270",17,"$Bob Lemon injured his back during his at bat in the second","1954CLE.EVA.regular.comment.csv",12
+"CLE195407040",8,"$Mike Garcia left with hemorrhage of right middle finger","1954CLE.EVA.regular.comment.csv",13
+"CLE195408030",10,"$DFon Mossi left with an upset stomach","1954CLE.EVA.regular.comment.csv",14
+"CLE195408192",55,"ej,lopea102,M,summb901,Call at 2B Indians Manager Al Lopez ejected by 2B umpire Bill Summers","1954CLE.EVA.regular.comment.csv",15
+"CLE195409090",97,"$Al Rosen pulled a leg muscle","1954CLE.EVA.regular.comment.csv",16
+"CLE195409250",0,"$the Indians established a league record with their 111th victory","1954CLE.EVA.regular.comment.csv",17
+"CLE195409260",13,"Recorded in NYT, but not in daily or TSN","1954CLE.EVA.regular.comment.csv",18

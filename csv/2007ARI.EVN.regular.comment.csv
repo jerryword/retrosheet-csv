@@ -1,26 +1,27 @@
-"ARI200704140",13,"$Brad Hawpe called for interference","FILENAME_TX","LINE_NUMBER_CT"
-"ARI200704140",46,"Rockies second baseman Kazuo Matsui left the game due to an injured back","2007ARI.EVN.regular.comment.csv",2
-"ARI200704250",38,"ej,melvb001,M,reilm901,Balls and strikes Diamondbacks Manager Bob Melvin ejected by HP umpire Mike Reilly","2007ARI.EVN.regular.comment.csv",3
-"ARI200704290",17,"Diamondbacks first baseman Conor Jackson left the game due to an injured hand/wrist","2007ARI.EVN.regular.comment.csv",4
-"ARI200705040",12,"$48-yr-old Franco homered off 43-yr-old Johnson for the oldest combined age ever for a home run; Franco extends his own record for oldest to homer","2007ARI.EVN.regular.comment.csv",5
-"ARI200705220",60,"Rockies pitcher Josh Fogg left the game due to an injured groin","2007ARI.EVN.regular.comment.csv",6
-"ARI200705240",69,"Debut game for Mark McLemore","2007ARI.EVN.regular.comment.csv",7
-"ARI200706060",13,"DWS: originally scored as S + E3, changed on 6-25 to E1","2007ARI.EVN.regular.comment.csv",8
-"ARI200706060",18,"fan interference","2007ARI.EVN.regular.comment.csv",9
-"ARI200706080",26,"$Julio Lugo caught Alberto Callaspo with the hidden ball trick; $Callaspo slid into 2B, pulled his hand off the bag to dust himself off and was tagged by Lugo","2007ARI.EVN.regular.comment.csv",10
-"ARI200706080",73,"Debut game for Jailen Peguero","2007ARI.EVN.regular.comment.csv",11
-"ARI200706100",3,"$Conor Jackson called for obstruction during rundown","2007ARI.EVN.regular.comment.csv",12
-"ARI200706180",47,"Devil Rays pitcher Edwin Jackson left the game due to an injured hand/wrist","2007ARI.EVN.regular.comment.csv",13
-"ARI200706250",44,"Dodgers second baseman Jeff Kent left the game due to an injured foot/ankle","2007ARI.EVN.regular.comment.csv",14
-"ARI200707130",0,"$Umpire Gary Darling replaced crew chief Jerry Crawford, whose father (former umpire Shag Crawford) died on 7/11","2007ARI.EVN.regular.comment.csv",15
-"ARI200707130",43,"$Tremendous catch by Salazar who reached well over fence","2007ARI.EVN.regular.comment.csv",16
-"ARI200707260",56,"$Stephen Drew beat the throw to 1B but was tagged by Mike Jacobs when returning to 1B and called out by Bill Miller for trying to advance","2007ARI.EVN.regular.comment.csv",17
-"ARI200708070",72,"error originally on throw, changed on 8-13 to drop","2007ARI.EVN.regular.comment.csv",18
-"ARI200708240",47,"ej,melvb001,M,coope901,Balls and strikes Diamondbacks Manager Bob Melvin ejected by HP umpire Eric Cooper","2007ARI.EVN.regular.comment.csv",19
-"ARI200708310",67,"ej,hurdc001,M,laynj901,Call at 1B ej,tulot001,P,monte901,Call at 1B (Threw helmet) Rockies Manager Clint Hurdle ejected by 1B umpire Jerry Layne; Rockies shortstop Troy Tulowitzki ejected by HP umpire Ed Montague","2007ARI.EVN.regular.comment.csv",20
-"ARI200709010",88,"Debut game for Joe Koshansky","2007ARI.EVN.regular.comment.csv",21
-"ARI200709020",69,"Debut game for Emilio Bonifacio","2007ARI.EVN.regular.comment.csv",22
-"ARI200709030",59,"Debut game for Bill Murphy","2007ARI.EVN.regular.comment.csv",23
-"ARI200709040",41,"ej,bradm001,P,cuzzp901,Called third strike $Bradley ejected by HP umpire Cuzzi for arguing called third strike","2007ARI.EVN.regular.comment.csv",24
-"ARI200709050",52,"Diamondbacks pitcher Juan Cruz left the game due to an injured neck/shoulder","2007ARI.EVN.regular.comment.csv",25
-"ARI200709230",14,"$Andy LaRoche called for interfering with the play","2007ARI.EVN.regular.comment.csv",26
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"ARI200704140",13,"$Brad Hawpe called for interference","2007ARI.EVN.regular.comment.csv",2
+"ARI200704140",46,"Rockies second baseman Kazuo Matsui left the game due to an injured back","2007ARI.EVN.regular.comment.csv",3
+"ARI200704250",38,"ej,melvb001,M,reilm901,Balls and strikes Diamondbacks Manager Bob Melvin ejected by HP umpire Mike Reilly","2007ARI.EVN.regular.comment.csv",4
+"ARI200704290",17,"Diamondbacks first baseman Conor Jackson left the game due to an injured hand/wrist","2007ARI.EVN.regular.comment.csv",5
+"ARI200705040",12,"$48-yr-old Franco homered off 43-yr-old Johnson for the oldest combined age ever for a home run; Franco extends his own record for oldest to homer","2007ARI.EVN.regular.comment.csv",6
+"ARI200705220",60,"Rockies pitcher Josh Fogg left the game due to an injured groin","2007ARI.EVN.regular.comment.csv",7
+"ARI200705240",69,"Debut game for Mark McLemore","2007ARI.EVN.regular.comment.csv",8
+"ARI200706060",13,"DWS: originally scored as S + E3, changed on 6-25 to E1","2007ARI.EVN.regular.comment.csv",9
+"ARI200706060",18,"fan interference","2007ARI.EVN.regular.comment.csv",10
+"ARI200706080",26,"$Julio Lugo caught Alberto Callaspo with the hidden ball trick; $Callaspo slid into 2B, pulled his hand off the bag to dust himself off and was tagged by Lugo","2007ARI.EVN.regular.comment.csv",11
+"ARI200706080",73,"Debut game for Jailen Peguero","2007ARI.EVN.regular.comment.csv",12
+"ARI200706100",3,"$Conor Jackson called for obstruction during rundown","2007ARI.EVN.regular.comment.csv",13
+"ARI200706180",47,"Devil Rays pitcher Edwin Jackson left the game due to an injured hand/wrist","2007ARI.EVN.regular.comment.csv",14
+"ARI200706250",44,"Dodgers second baseman Jeff Kent left the game due to an injured foot/ankle","2007ARI.EVN.regular.comment.csv",15
+"ARI200707130",0,"$Umpire Gary Darling replaced crew chief Jerry Crawford, whose father (former umpire Shag Crawford) died on 7/11","2007ARI.EVN.regular.comment.csv",16
+"ARI200707130",43,"$Tremendous catch by Salazar who reached well over fence","2007ARI.EVN.regular.comment.csv",17
+"ARI200707260",56,"$Stephen Drew beat the throw to 1B but was tagged by Mike Jacobs when returning to 1B and called out by Bill Miller for trying to advance","2007ARI.EVN.regular.comment.csv",18
+"ARI200708070",72,"error originally on throw, changed on 8-13 to drop","2007ARI.EVN.regular.comment.csv",19
+"ARI200708240",47,"ej,melvb001,M,coope901,Balls and strikes Diamondbacks Manager Bob Melvin ejected by HP umpire Eric Cooper","2007ARI.EVN.regular.comment.csv",20
+"ARI200708310",67,"ej,hurdc001,M,laynj901,Call at 1B ej,tulot001,P,monte901,Call at 1B (Threw helmet) Rockies Manager Clint Hurdle ejected by 1B umpire Jerry Layne; Rockies shortstop Troy Tulowitzki ejected by HP umpire Ed Montague","2007ARI.EVN.regular.comment.csv",21
+"ARI200709010",88,"Debut game for Joe Koshansky","2007ARI.EVN.regular.comment.csv",22
+"ARI200709020",69,"Debut game for Emilio Bonifacio","2007ARI.EVN.regular.comment.csv",23
+"ARI200709030",59,"Debut game for Bill Murphy","2007ARI.EVN.regular.comment.csv",24
+"ARI200709040",41,"ej,bradm001,P,cuzzp901,Called third strike $Bradley ejected by HP umpire Cuzzi for arguing called third strike","2007ARI.EVN.regular.comment.csv",25
+"ARI200709050",52,"Diamondbacks pitcher Juan Cruz left the game due to an injured neck/shoulder","2007ARI.EVN.regular.comment.csv",26
+"ARI200709230",14,"$Andy LaRoche called for interfering with the play","2007ARI.EVN.regular.comment.csv",27

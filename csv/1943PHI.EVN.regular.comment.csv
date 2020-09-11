@@ -1,25 +1,26 @@
-"PHI194304270",35,"$Danny Litwhiler left with Charley horse","FILENAME_TX","LINE_NUMBER_CT"
-"PHI194304280",8,"the previous 2 plays probably a continuation","1943PHI.EVN.regular.comment.csv",2
-"PHI194305080",53,"ej,ott-m101,M,stewb901,Call at 3B Giants Manager Mel Ott ejected by HP umpire Bill Stewart","1943PHI.EVN.regular.comment.csv",3
-"PHI194305180",61,"ej,wilsj105,M,dunnt901,Balls and strikes Cubs Manager Jimmie Wilson ejected by HP umpire Tom Dunn","1943PHI.EVN.regular.comment.csv",4
-"PHI194306260",79,"ej,durol101,M,goetl901,Balls and strikes Dodgers Manager Leo Durocher ejected by HP umpire Larry Goetz","1943PHI.EVN.regular.comment.csv",5
-"PHI194306300",41,"ej,frisf101,M,conlj102,Call at first $Pirates Manager Frankie Frisch ejected by 3B umpire Jocko Conlan","1943PHI.EVN.regular.comment.csv",6
-"PHI194306300",92,"$game called for curfew","1943PHI.EVN.regular.comment.csv",7
-"PHI194307100",32,"$Ray Mueller called for interference for running into his own batted ball","1943PHI.EVN.regular.comment.csv",8
-"PHI194307112",0,"$game stopped by rain three times","1943PHI.EVN.regular.comment.csv",9
-"PHI194307112",6,"1 hour rain delay","1943PHI.EVN.regular.comment.csv",10
-"PHI194307112",37,"$Coaker Triplett tried to steal the occupied 3B; Ron Northey tried to score but was out then Triplett stepped off 3B, thinking there were three out","1943PHI.EVN.regular.comment.csv",11
-"PHI194307112",44,"$missed squeeze play","1943PHI.EVN.regular.comment.csv",12
-"PHI194307112",80,"$game called due to Sunday curfew","1943PHI.EVN.regular.comment.csv",13
-"PHI194307181",34,"$Johnny Rucker called for interference for running into his own batted ball","1943PHI.EVN.regular.comment.csv",14
-"PHI194308120",32,"ej,frisf101,M,dunnt901,Balls and strikes $Pirate manager Frisch claimed 3-2 pitch was actually strike 3, rushed to the plate and was ejected by HP umpire Dunn","1943PHI.EVN.regular.comment.csv",15
-"PHI194308120",37,"ej,klinb101,P,dunnt901,Balls and strikes ej,rubea101,P,dunnt901,Balls and strikes $Players Klinger and Rubeling continued argument from bench and were ejected by HP umpire Dunn","1943PHI.EVN.regular.comment.csv",16
-"PHI194308120",56,"ej,gornh101,P,dunnt901,Balls and strikes $Gornicki continued earlier argument and was ejected by HP umpire Dunn","1943PHI.EVN.regular.comment.csv",17
-"PHI194308120",68,"$Barrett and Russell had been removed from the Pirate bench earlier by HP umpire Dunn, but were not ejected; they were allowed to pinch-hit in the 9th","1943PHI.EVN.regular.comment.csv",18
-"PHI194308151",41,"$After force, May was trapped between 2nd and 3rd, but returned safely to 2nd","1943PHI.EVN.regular.comment.csv",19
-"PHI194308160",27,"$Moore missed third base, went back to tag and was run down","1943PHI.EVN.regular.comment.csv",20
-"PHI194308181",23,"$Grounder to 3B who threw to 2B, but 2B failed to touch bag for one error and then threw wild to 1st for second error","1943PHI.EVN.regular.comment.csv",21
-"PHI194309052",70,"$Stewart rounded third too far","1943PHI.EVN.regular.comment.csv",22
-"PHI194309140",11,"1 hour rain delay in top of second","1943PHI.EVN.regular.comment.csv",23
-"PHI194309140",48,"45 minute rain delay in bottom of 6th","1943PHI.EVN.regular.comment.csv",24
-"PHI194309140",88,"$game called for curfew at 1:05 AM; tie to be replayed as part of doubleheader next day","1943PHI.EVN.regular.comment.csv",25
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"PHI194304270",35,"$Danny Litwhiler left with Charley horse","1943PHI.EVN.regular.comment.csv",2
+"PHI194304280",8,"the previous 2 plays probably a continuation","1943PHI.EVN.regular.comment.csv",3
+"PHI194305080",53,"ej,ott-m101,M,stewb901,Call at 3B Giants Manager Mel Ott ejected by HP umpire Bill Stewart","1943PHI.EVN.regular.comment.csv",4
+"PHI194305180",61,"ej,wilsj105,M,dunnt901,Balls and strikes Cubs Manager Jimmie Wilson ejected by HP umpire Tom Dunn","1943PHI.EVN.regular.comment.csv",5
+"PHI194306260",79,"ej,durol101,M,goetl901,Balls and strikes Dodgers Manager Leo Durocher ejected by HP umpire Larry Goetz","1943PHI.EVN.regular.comment.csv",6
+"PHI194306300",41,"ej,frisf101,M,conlj102,Call at first $Pirates Manager Frankie Frisch ejected by 3B umpire Jocko Conlan","1943PHI.EVN.regular.comment.csv",7
+"PHI194306300",92,"$game called for curfew","1943PHI.EVN.regular.comment.csv",8
+"PHI194307100",32,"$Ray Mueller called for interference for running into his own batted ball","1943PHI.EVN.regular.comment.csv",9
+"PHI194307112",0,"$game stopped by rain three times","1943PHI.EVN.regular.comment.csv",10
+"PHI194307112",6,"1 hour rain delay","1943PHI.EVN.regular.comment.csv",11
+"PHI194307112",37,"$Coaker Triplett tried to steal the occupied 3B; Ron Northey tried to score but was out then Triplett stepped off 3B, thinking there were three out","1943PHI.EVN.regular.comment.csv",12
+"PHI194307112",44,"$missed squeeze play","1943PHI.EVN.regular.comment.csv",13
+"PHI194307112",80,"$game called due to Sunday curfew","1943PHI.EVN.regular.comment.csv",14
+"PHI194307181",34,"$Johnny Rucker called for interference for running into his own batted ball","1943PHI.EVN.regular.comment.csv",15
+"PHI194308120",32,"ej,frisf101,M,dunnt901,Balls and strikes $Pirate manager Frisch claimed 3-2 pitch was actually strike 3, rushed to the plate and was ejected by HP umpire Dunn","1943PHI.EVN.regular.comment.csv",16
+"PHI194308120",37,"ej,klinb101,P,dunnt901,Balls and strikes ej,rubea101,P,dunnt901,Balls and strikes $Players Klinger and Rubeling continued argument from bench and were ejected by HP umpire Dunn","1943PHI.EVN.regular.comment.csv",17
+"PHI194308120",56,"ej,gornh101,P,dunnt901,Balls and strikes $Gornicki continued earlier argument and was ejected by HP umpire Dunn","1943PHI.EVN.regular.comment.csv",18
+"PHI194308120",68,"$Barrett and Russell had been removed from the Pirate bench earlier by HP umpire Dunn, but were not ejected; they were allowed to pinch-hit in the 9th","1943PHI.EVN.regular.comment.csv",19
+"PHI194308151",41,"$After force, May was trapped between 2nd and 3rd, but returned safely to 2nd","1943PHI.EVN.regular.comment.csv",20
+"PHI194308160",27,"$Moore missed third base, went back to tag and was run down","1943PHI.EVN.regular.comment.csv",21
+"PHI194308181",23,"$Grounder to 3B who threw to 2B, but 2B failed to touch bag for one error and then threw wild to 1st for second error","1943PHI.EVN.regular.comment.csv",22
+"PHI194309052",70,"$Stewart rounded third too far","1943PHI.EVN.regular.comment.csv",23
+"PHI194309140",11,"1 hour rain delay in top of second","1943PHI.EVN.regular.comment.csv",24
+"PHI194309140",48,"45 minute rain delay in bottom of 6th","1943PHI.EVN.regular.comment.csv",25
+"PHI194309140",88,"$game called for curfew at 1:05 AM; tie to be replayed as part of doubleheader next day","1943PHI.EVN.regular.comment.csv",26

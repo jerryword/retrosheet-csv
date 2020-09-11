@@ -1,18 +1,19 @@
-"NYN198204130",21,"ej,corrp102,M,marsr901,Balk call Phillies manager Pat Corrales ejected by 1B umpire Randy Marsh","FILENAME_TX","LINE_NUMBER_CT"
-"NYN198204210",66,"$Gary Woods called out on appeal for leaving 1B early","1982NYN.EVN.regular.comment.csv",2
-"NYN198205080",3,"Debut game for Tom O'Malley","1982NYN.EVN.regular.comment.csv",3
-"NYN198205150",38,"$Charlie Puleo left with shoulder tightness","1982NYN.EVN.regular.comment.csv",4
-"NYN198205150",49,"ej,lasot101,M,palld901,HBP call $Dodgers manager Lasorda ejected by HP umpire Pallone when changing pitchersvfor HBP call on Youngblood","1982NYN.EVN.regular.comment.csv",5
-"NYN198206010",20,"$Hubie Brooks left with pulled hamstring","1982NYN.EVN.regular.comment.csv",6
-"NYN198206010",46,"$Tom Veryzer was injured on the play","1982NYN.EVN.regular.comment.csv",7
-"NYN198206120",50,"$Hubie Brooks was injured sliding","1982NYN.EVN.regular.comment.csv",8
-"NYN198206240",16,"ej,speic001,P,,Balls and strikes Chris Speier ejected by HP umpire Dave Pallone","1982NYN.EVN.regular.comment.csv",9
-"NYN198207070",1,"Debut game for Brent Gaff","1982NYN.EVN.regular.comment.csv",10
-"NYN198207110",78,"Missing play in NYN198207110","1982NYN.EVN.regular.comment.csv",11
-"NYN198207300",51,"$John Candelaria left with back stiffness","1982NYN.EVN.regular.comment.csv",12
-"NYN198208090",46,"26 minute rain delay","1982NYN.EVN.regular.comment.csv",13
-"NYN198208280",79,"$Mookie Wilson called for interference running the 1B line","1982NYN.EVN.regular.comment.csv",14
-"NYN198209182",1,"Debut game for Walt Terrell","1982NYN.EVN.regular.comment.csv",15
-"NYN198209260",27,"ej,corrp102,M,rennd901,Catch/trap call Phillies manager Pat Corrales ejected by 1B umpire Dutch Rennert arguing a catch/trap call","1982NYN.EVN.regular.comment.csv",16
-"NYN198209280",27,"umpchange,4,umphome,marsr901 umpchange,4,ump2b,(None) $HP umpire Harry Wendelstedt hit by a foul ball and left the game; 2B umpire Randy Marsh moved to HP","1982NYN.EVN.regular.comment.csv",17
-"NYN198209290",19,"Debut game for Ronn Reynolds","1982NYN.EVN.regular.comment.csv",18
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"NYN198204130",21,"ej,corrp102,M,marsr901,Balk call Phillies manager Pat Corrales ejected by 1B umpire Randy Marsh","1982NYN.EVN.regular.comment.csv",2
+"NYN198204210",66,"$Gary Woods called out on appeal for leaving 1B early","1982NYN.EVN.regular.comment.csv",3
+"NYN198205080",3,"Debut game for Tom O'Malley","1982NYN.EVN.regular.comment.csv",4
+"NYN198205150",38,"$Charlie Puleo left with shoulder tightness","1982NYN.EVN.regular.comment.csv",5
+"NYN198205150",49,"ej,lasot101,M,palld901,HBP call $Dodgers manager Lasorda ejected by HP umpire Pallone when changing pitchersvfor HBP call on Youngblood","1982NYN.EVN.regular.comment.csv",6
+"NYN198206010",20,"$Hubie Brooks left with pulled hamstring","1982NYN.EVN.regular.comment.csv",7
+"NYN198206010",46,"$Tom Veryzer was injured on the play","1982NYN.EVN.regular.comment.csv",8
+"NYN198206120",50,"$Hubie Brooks was injured sliding","1982NYN.EVN.regular.comment.csv",9
+"NYN198206240",16,"ej,speic001,P,,Balls and strikes Chris Speier ejected by HP umpire Dave Pallone","1982NYN.EVN.regular.comment.csv",10
+"NYN198207070",1,"Debut game for Brent Gaff","1982NYN.EVN.regular.comment.csv",11
+"NYN198207110",78,"Missing play in NYN198207110","1982NYN.EVN.regular.comment.csv",12
+"NYN198207300",51,"$John Candelaria left with back stiffness","1982NYN.EVN.regular.comment.csv",13
+"NYN198208090",46,"26 minute rain delay","1982NYN.EVN.regular.comment.csv",14
+"NYN198208280",79,"$Mookie Wilson called for interference running the 1B line","1982NYN.EVN.regular.comment.csv",15
+"NYN198209182",1,"Debut game for Walt Terrell","1982NYN.EVN.regular.comment.csv",16
+"NYN198209260",27,"ej,corrp102,M,rennd901,Catch/trap call Phillies manager Pat Corrales ejected by 1B umpire Dutch Rennert arguing a catch/trap call","1982NYN.EVN.regular.comment.csv",17
+"NYN198209280",27,"umpchange,4,umphome,marsr901 umpchange,4,ump2b,(None) $HP umpire Harry Wendelstedt hit by a foul ball and left the game; 2B umpire Randy Marsh moved to HP","1982NYN.EVN.regular.comment.csv",18
+"NYN198209290",19,"Debut game for Ronn Reynolds","1982NYN.EVN.regular.comment.csv",19

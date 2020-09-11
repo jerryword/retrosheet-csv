@@ -1,33 +1,34 @@
-"KCA200704020",11,"Debut game for Alex Gordon","FILENAME_TX","LINE_NUMBER_CT"
-"KCA200704020",48,"Debut game for Hideki Okajima","2007KCA.EVA.regular.comment.csv",2
-"KCA200704040",46,"Debut game for Joakim Soria","2007KCA.EVA.regular.comment.csv",3
-"KCA200704050",1,"Debut game for Daisuke Matsuzaka","2007KCA.EVA.regular.comment.csv",4
-"KCA200704210",47,"Debut game for Neal Musser","2007KCA.EVA.regular.comment.csv",5
-"KCA200704300",19,"Royals first baseman Ryan Shealy left the game due to an injured leg","2007KCA.EVA.regular.comment.csv",6
-"KCA200705010",22,"Debut game for Billy Butler","2007KCA.EVA.regular.comment.csv",7
-"KCA200705020",51,"Royals designated hitter Reggie Sanders left the game due to an injured leg","2007KCA.EVA.regular.comment.csv",8
-"KCA200705080",55,"$Nick Swisher called for runner interference","2007KCA.EVA.regular.comment.csv",9
-"KCA200705100",14,"Athletics center fielder Chris Snelling left the game due to an injured knee","2007KCA.EVA.regular.comment.csv",10
-"KCA200705100",26,"Royals catcher Jason LaRue left the game due to an injured neck/shoulder","2007KCA.EVA.regular.comment.csv",11
-"KCA200705250",42,"Royals pitcher Gil Meche left the game due to an injured back","2007KCA.EVA.regular.comment.csv",12
-"KCA200705250",60,"Mariners pitcher Felix Hernandez left the game due to an injured back","2007KCA.EVA.regular.comment.csv",13
-"KCA200705300",49,"ej,browe001,P,fostm901,Called third strike ej,bellb001,M,fostm901,Called third strike on Emil Brown Royals left fielder Emil Brown & Mgr Buddy Bell ejected by HP umpire Marty Foster","2007KCA.EVA.regular.comment.csv",14
-"KCA200706120",45,"Royals second baseman Mark Grudzielanek left the game due to an injured knee","2007KCA.EVA.regular.comment.csv",15
-"KCA200706130",31,"$Duckworth injured muscle in side, threw 2 pitches, goes to DL","2007KCA.EVA.regular.comment.csv",16
-"KCA200706130",34,"Cardinals shortstop David Eckstein left the game due to lower back tightness","2007KCA.EVA.regular.comment.csv",17
-"KCA200706130",58,"Royals designated hitter Mike Sweeney left the game due to a back spasm","2007KCA.EVA.regular.comment.csv",18
-"KCA200706170",13,"Debut game for Brett Carroll","2007KCA.EVA.regular.comment.csv",19
-"KCA200707010",7,"White Sox left fielder Scott Podsednik left the game due to an injured chest","2007KCA.EVA.regular.comment.csv",20
-"KCA200707020",0,"$John McLaren's first game as manager of the Mariners","2007KCA.EVA.regular.comment.csv",21
-"KCA200707020",65,"Mariners first baseman Richie Sexson left the game due to an injured hand/wrist","2007KCA.EVA.regular.comment.csv",22
-"KCA200707030",20,"Mariners catcher Kenji Johjima left the game due to an injured wrist; he had been hit with a pitch while behind the plate","2007KCA.EVA.regular.comment.csv",23
-"KCA200707060",77,"ej,bellb001,M,hallt901,Balls and strikes Royals Manager Buddy Bell ejected by HP umpire Tom Hallion after the third pitch to Ty Wigginton","2007KCA.EVA.regular.comment.csv",24
-"KCA200708080",31,"City Royals pitcher Odalis Perez left the game due to an injured leg","2007KCA.EVA.regular.comment.csv",25
-"KCA200708100",52,"Blue Jays pitcher Shaun Marcum left the game due to an injured leg","2007KCA.EVA.regular.comment.csv",26
-"KCA200708250",24,"Debut game for Billy Buckner","2007KCA.EVA.regular.comment.csv",27
-"KCA200709080",38,"Yankees shortstop Derek Jeter left the game due to an injured knee","2007KCA.EVA.regular.comment.csv",28
-"KCA200709080",60,"Debut game for Luke Hochevar","2007KCA.EVA.regular.comment.csv",29
-"KCA200709110",60,"ej,bellb001,M,poncl901,Balls and strikes Royals Manager Buddy Bell ejected by HP umpire Larry Poncino","2007KCA.EVA.regular.comment.csv",30
-"KCA200709120",20,"Twins pitcher Carlos Silva left the game due to an injured groin","2007KCA.EVA.regular.comment.csv",31
-"KCA200709180",29,"$Ross Gload made a wild throw to 3B; Jim Thome ran to 2B to find his Josh Fields there","2007KCA.EVA.regular.comment.csv",32
-"KCA200709290",71,"ej,bellb001,M,welkb901,Interference call $the throw from catcher Victor Martinez hit the batter/runner, Esteban German, and he was called out for running inside the base line; Royals Mgr Buddy Bell ejected by HP umpire Bill Welke arguing the interference","2007KCA.EVA.regular.comment.csv",33
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"KCA200704020",11,"Debut game for Alex Gordon","2007KCA.EVA.regular.comment.csv",2
+"KCA200704020",48,"Debut game for Hideki Okajima","2007KCA.EVA.regular.comment.csv",3
+"KCA200704040",46,"Debut game for Joakim Soria","2007KCA.EVA.regular.comment.csv",4
+"KCA200704050",1,"Debut game for Daisuke Matsuzaka","2007KCA.EVA.regular.comment.csv",5
+"KCA200704210",47,"Debut game for Neal Musser","2007KCA.EVA.regular.comment.csv",6
+"KCA200704300",19,"Royals first baseman Ryan Shealy left the game due to an injured leg","2007KCA.EVA.regular.comment.csv",7
+"KCA200705010",22,"Debut game for Billy Butler","2007KCA.EVA.regular.comment.csv",8
+"KCA200705020",51,"Royals designated hitter Reggie Sanders left the game due to an injured leg","2007KCA.EVA.regular.comment.csv",9
+"KCA200705080",55,"$Nick Swisher called for runner interference","2007KCA.EVA.regular.comment.csv",10
+"KCA200705100",14,"Athletics center fielder Chris Snelling left the game due to an injured knee","2007KCA.EVA.regular.comment.csv",11
+"KCA200705100",26,"Royals catcher Jason LaRue left the game due to an injured neck/shoulder","2007KCA.EVA.regular.comment.csv",12
+"KCA200705250",42,"Royals pitcher Gil Meche left the game due to an injured back","2007KCA.EVA.regular.comment.csv",13
+"KCA200705250",60,"Mariners pitcher Felix Hernandez left the game due to an injured back","2007KCA.EVA.regular.comment.csv",14
+"KCA200705300",49,"ej,browe001,P,fostm901,Called third strike ej,bellb001,M,fostm901,Called third strike on Emil Brown Royals left fielder Emil Brown & Mgr Buddy Bell ejected by HP umpire Marty Foster","2007KCA.EVA.regular.comment.csv",15
+"KCA200706120",45,"Royals second baseman Mark Grudzielanek left the game due to an injured knee","2007KCA.EVA.regular.comment.csv",16
+"KCA200706130",31,"$Duckworth injured muscle in side, threw 2 pitches, goes to DL","2007KCA.EVA.regular.comment.csv",17
+"KCA200706130",34,"Cardinals shortstop David Eckstein left the game due to lower back tightness","2007KCA.EVA.regular.comment.csv",18
+"KCA200706130",58,"Royals designated hitter Mike Sweeney left the game due to a back spasm","2007KCA.EVA.regular.comment.csv",19
+"KCA200706170",13,"Debut game for Brett Carroll","2007KCA.EVA.regular.comment.csv",20
+"KCA200707010",7,"White Sox left fielder Scott Podsednik left the game due to an injured chest","2007KCA.EVA.regular.comment.csv",21
+"KCA200707020",0,"$John McLaren's first game as manager of the Mariners","2007KCA.EVA.regular.comment.csv",22
+"KCA200707020",65,"Mariners first baseman Richie Sexson left the game due to an injured hand/wrist","2007KCA.EVA.regular.comment.csv",23
+"KCA200707030",20,"Mariners catcher Kenji Johjima left the game due to an injured wrist; he had been hit with a pitch while behind the plate","2007KCA.EVA.regular.comment.csv",24
+"KCA200707060",77,"ej,bellb001,M,hallt901,Balls and strikes Royals Manager Buddy Bell ejected by HP umpire Tom Hallion after the third pitch to Ty Wigginton","2007KCA.EVA.regular.comment.csv",25
+"KCA200708080",31,"City Royals pitcher Odalis Perez left the game due to an injured leg","2007KCA.EVA.regular.comment.csv",26
+"KCA200708100",52,"Blue Jays pitcher Shaun Marcum left the game due to an injured leg","2007KCA.EVA.regular.comment.csv",27
+"KCA200708250",24,"Debut game for Billy Buckner","2007KCA.EVA.regular.comment.csv",28
+"KCA200709080",38,"Yankees shortstop Derek Jeter left the game due to an injured knee","2007KCA.EVA.regular.comment.csv",29
+"KCA200709080",60,"Debut game for Luke Hochevar","2007KCA.EVA.regular.comment.csv",30
+"KCA200709110",60,"ej,bellb001,M,poncl901,Balls and strikes Royals Manager Buddy Bell ejected by HP umpire Larry Poncino","2007KCA.EVA.regular.comment.csv",31
+"KCA200709120",20,"Twins pitcher Carlos Silva left the game due to an injured groin","2007KCA.EVA.regular.comment.csv",32
+"KCA200709180",29,"$Ross Gload made a wild throw to 3B; Jim Thome ran to 2B to find his Josh Fields there","2007KCA.EVA.regular.comment.csv",33
+"KCA200709290",71,"ej,bellb001,M,welkb901,Interference call $the throw from catcher Victor Martinez hit the batter/runner, Esteban German, and he was called out for running inside the base line; Royals Mgr Buddy Bell ejected by HP umpire Bill Welke arguing the interference","2007KCA.EVA.regular.comment.csv",34

@@ -1,34 +1,35 @@
-"PIT197904060",0,"Debut for umpires Ron Hutson, Joe Mrvos and Dave Pallone","FILENAME_TX","LINE_NUMBER_CT"
-"PIT197904070",46,"Phil Garner was removed sometime in the 6th after he bruised his left knee","1979PIT.EVN.regular.comment.csv",2
-"PIT197904120",0,"Debut for umpire Harry Smail","1979PIT.EVN.regular.comment.csv",3
-"PIT197904150",0,"21 min rain delay before start of game","1979PIT.EVN.regular.comment.csv",4
-"PIT197904150",26,"$Frank Taveras left with intestinal virus","1979PIT.EVN.regular.comment.csv",5
-"PIT197904150",45,"$John Candelaria left with stiff back","1979PIT.EVN.regular.comment.csv",6
-"PIT197904150",88,"$John Milner injured left knee","1979PIT.EVN.regular.comment.csv",7
-"PIT197904290",1,"Don $Robinson left with sprained right shoulder","1979PIT.EVN.regular.comment.csv",8
-"PIT197905010",43,"$Willie Stargell left with bruised right hip","1979PIT.EVN.regular.comment.csv",9
-"PIT197905020",41,"$Dave Parker left with upset stomach","1979PIT.EVN.regular.comment.csv",10
-"PIT197905110",0,"70 minute rain delay before start of game","1979PIT.EVN.regular.comment.csv",11
-"PIT197905130",63,"ej,concd001,P,tremd901,Called third strike $Concepcion ejected by HP umpire Tremblay arguing called third strike","1979PIT.EVN.regular.comment.csv",12
-"PIT197906030",0,"$Don Robinson didn't start when he couldn't loosen up","1979PIT.EVN.regular.comment.csv",13
-"PIT197906080",2,"$Tim Foli sprained right ankle","1979PIT.EVN.regular.comment.csv",14
-"PIT197906090",63,"$Willie McCovey sets record most HR in NL by LH (past Ott at 511)","1979PIT.EVN.regular.comment.csv",15
-"PIT197906230",8,"ej,robib101,P,quicj901,Arguing half swing strike 3 $Robinson ejected by 1B umpire Quick for arguing half swing strike 3","1979PIT.EVN.regular.comment.csv",16
-"PIT197906290",56,"ej,scotr101,P,dalej901,Balls and strikes Rodney Scott ejected by HP umpire Jerry Dale","1979PIT.EVN.regular.comment.csv",17
-"PIT197906290",61,"$the ball struck Enrique Romo","1979PIT.EVN.regular.comment.csv",18
-"PIT197907192",19,"ej,virdb101,M,willc901,Interference non-call $Astros manager Virdon ejected by HP umpire Williams for arguing that Kison was out of batter's box when he ran into his bunt","1979PIT.EVN.regular.comment.csv",19
-"PIT197907221",20,"$John Milner left with stomach virus","1979PIT.EVN.regular.comment.csv",20
-"PIT197907222",60,"$Gary Matthews called for interference at 2B; Mike Lum declared out at 1B","1979PIT.EVN.regular.comment.csv",21
-"PIT197907240",0,"Protest=H","1979PIT.EVN.regular.comment.csv",22
-"PIT197907240",41,"$Lee Lacy broke for 2B on ball four and thought he was out, so he left the base and was tagged out; the Pirates argued 34 minutes and then protested game","1979PIT.EVN.regular.comment.csv",23
-"PIT197907250",67,"31 minute rain delay","1979PIT.EVN.regular.comment.csv",24
-"PIT197907310",25,"$Tom Hausman left with lower back strain","1979PIT.EVN.regular.comment.csv",25
-"PIT197908032",45,"$Bill Robinson left with muscle spasms in both legs","1979PIT.EVN.regular.comment.csv",26
-"PIT197908200",56,"3:42 rain delay","1979PIT.EVN.regular.comment.csv",27
-"PIT197908200",78,"ej,lacyl001,P,dalej901,Called third strike Leon Lacy ejected by HP umpire Jerry Dale","1979PIT.EVN.regular.comment.csv",28
-"PIT197909242",39,"$Bill Robinson fouled ball off in-step","1979PIT.EVN.regular.comment.csv",29
-"PIT197909260",77,"Debut game for Bill Gullickson","1979PIT.EVN.regular.comment.csv",30
-"PIT197909280",18,"$Jim Bibby called for interference","1979PIT.EVN.regular.comment.csv",31
-"PIT197909280",31,"38 minute rain delay","1979PIT.EVN.regular.comment.csv",32
-"PIT197909280",36,"Tim Foli hurt leg","1979PIT.EVN.regular.comment.csv",33
-"PIT197909290",118,"Debut game (and only major league appearance) for Gary Hargis","1979PIT.EVN.regular.comment.csv",34
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"PIT197904060",0,"Debut for umpires Ron Hutson, Joe Mrvos and Dave Pallone","1979PIT.EVN.regular.comment.csv",2
+"PIT197904070",46,"Phil Garner was removed sometime in the 6th after he bruised his left knee","1979PIT.EVN.regular.comment.csv",3
+"PIT197904120",0,"Debut for umpire Harry Smail","1979PIT.EVN.regular.comment.csv",4
+"PIT197904150",0,"21 min rain delay before start of game","1979PIT.EVN.regular.comment.csv",5
+"PIT197904150",26,"$Frank Taveras left with intestinal virus","1979PIT.EVN.regular.comment.csv",6
+"PIT197904150",45,"$John Candelaria left with stiff back","1979PIT.EVN.regular.comment.csv",7
+"PIT197904150",88,"$John Milner injured left knee","1979PIT.EVN.regular.comment.csv",8
+"PIT197904290",1,"Don $Robinson left with sprained right shoulder","1979PIT.EVN.regular.comment.csv",9
+"PIT197905010",43,"$Willie Stargell left with bruised right hip","1979PIT.EVN.regular.comment.csv",10
+"PIT197905020",41,"$Dave Parker left with upset stomach","1979PIT.EVN.regular.comment.csv",11
+"PIT197905110",0,"70 minute rain delay before start of game","1979PIT.EVN.regular.comment.csv",12
+"PIT197905130",63,"ej,concd001,P,tremd901,Called third strike $Concepcion ejected by HP umpire Tremblay arguing called third strike","1979PIT.EVN.regular.comment.csv",13
+"PIT197906030",0,"$Don Robinson didn't start when he couldn't loosen up","1979PIT.EVN.regular.comment.csv",14
+"PIT197906080",2,"$Tim Foli sprained right ankle","1979PIT.EVN.regular.comment.csv",15
+"PIT197906090",63,"$Willie McCovey sets record most HR in NL by LH (past Ott at 511)","1979PIT.EVN.regular.comment.csv",16
+"PIT197906230",8,"ej,robib101,P,quicj901,Arguing half swing strike 3 $Robinson ejected by 1B umpire Quick for arguing half swing strike 3","1979PIT.EVN.regular.comment.csv",17
+"PIT197906290",56,"ej,scotr101,P,dalej901,Balls and strikes Rodney Scott ejected by HP umpire Jerry Dale","1979PIT.EVN.regular.comment.csv",18
+"PIT197906290",61,"$the ball struck Enrique Romo","1979PIT.EVN.regular.comment.csv",19
+"PIT197907192",19,"ej,virdb101,M,willc901,Interference non-call $Astros manager Virdon ejected by HP umpire Williams for arguing that Kison was out of batter's box when he ran into his bunt","1979PIT.EVN.regular.comment.csv",20
+"PIT197907221",20,"$John Milner left with stomach virus","1979PIT.EVN.regular.comment.csv",21
+"PIT197907222",60,"$Gary Matthews called for interference at 2B; Mike Lum declared out at 1B","1979PIT.EVN.regular.comment.csv",22
+"PIT197907240",0,"Protest=H","1979PIT.EVN.regular.comment.csv",23
+"PIT197907240",41,"$Lee Lacy broke for 2B on ball four and thought he was out, so he left the base and was tagged out; the Pirates argued 34 minutes and then protested game","1979PIT.EVN.regular.comment.csv",24
+"PIT197907250",67,"31 minute rain delay","1979PIT.EVN.regular.comment.csv",25
+"PIT197907310",25,"$Tom Hausman left with lower back strain","1979PIT.EVN.regular.comment.csv",26
+"PIT197908032",45,"$Bill Robinson left with muscle spasms in both legs","1979PIT.EVN.regular.comment.csv",27
+"PIT197908200",56,"3:42 rain delay","1979PIT.EVN.regular.comment.csv",28
+"PIT197908200",78,"ej,lacyl001,P,dalej901,Called third strike Leon Lacy ejected by HP umpire Jerry Dale","1979PIT.EVN.regular.comment.csv",29
+"PIT197909242",39,"$Bill Robinson fouled ball off in-step","1979PIT.EVN.regular.comment.csv",30
+"PIT197909260",77,"Debut game for Bill Gullickson","1979PIT.EVN.regular.comment.csv",31
+"PIT197909280",18,"$Jim Bibby called for interference","1979PIT.EVN.regular.comment.csv",32
+"PIT197909280",31,"38 minute rain delay","1979PIT.EVN.regular.comment.csv",33
+"PIT197909280",36,"Tim Foli hurt leg","1979PIT.EVN.regular.comment.csv",34
+"PIT197909290",118,"Debut game (and only major league appearance) for Gary Hargis","1979PIT.EVN.regular.comment.csv",35

@@ -1,15 +1,16 @@
-"MIN198505070",57,"Debut game for Brian Fisher","FILENAME_TX","LINE_NUMBER_CT"
-"MIN198505150",94,"ej,gardb101,M,sprim901,Balls and strikes $Twins manager Gardner ejected by HP umpire Springstead for arguing balls and strikes","1985MIN.EVA.regular.comment.csv",2
-"MIN198505210",57,"Debut game for Frank Eufemia","1985MIN.EVA.regular.comment.csv",3
-"MIN198506230",1,"Debut game for Glen Cook","1985MIN.EVA.regular.comment.csv",4
-"MIN198506240",51,"ej,olivt102,C,cobld901,Call at 1B $Twins coach Oliva ejected by 1B umpire Coble for arguing that Hatcher was safe at 1st","1985MIN.EVA.regular.comment.csv",5
-"MIN198507220",36,"ej,weave801,M,fordd901,Trap/catch $Orioles manager Weaver ejected by HP umpire Ford for arguing that ball hit by Lynn was not caught","1985MIN.EVA.regular.comment.csv",6
-"MIN198507230",60,"ej,dwyej001,P,kaisk901,Balls and strikes Jim Dwyer ejected by HP umpire Ken Kaiser","1985MIN.EVA.regular.comment.csv",7
-"MIN198507280",66,"ej,millr801,M,roe-r901,Call at 1B $Twins manager Miller ejected by 1B umpire Roe for arguing tat Brunansky was safe at 1st","1985MIN.EVA.regular.comment.csv",8
-"MIN198508142",1,"Debut game for Mark Portugal","1985MIN.EVA.regular.comment.csv",9
-"MIN198508170",42,"ej,brunt001,P,brinj901,Excessive use of profanity in leaving the field Tom Brunansky ejected by HP umpire Joe Brinkman for excessive use of profanity while leaving the field","1985MIN.EVA.regular.comment.csv",10
-"MIN198508280",53,"ej,millr801,M,voltv901,Interference non-call $Twins manager Miller ejected by HP umpire Voltaggio for claiming that Garcia ran inside the baseline","1985MIN.EVA.regular.comment.csv",11
-"MIN198508300",72,"Guessing Gutierrez had 2 errors on play.","1985MIN.EVA.regular.comment.csv",12
-"MIN198509040",47,"Debut game for Dennis Burtt","1985MIN.EVA.regular.comment.csv",13
-"MIN198509300",27,"$Kent Hrbek knocked the ball out of Carlton Fisk's glove","1985MIN.EVA.regular.comment.csv",14
-"MIN198510010",19,"Originally coded E3; one of Walker's errors charged to Fletcher Guessing it is this one","1985MIN.EVA.regular.comment.csv",15
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"MIN198505070",57,"Debut game for Brian Fisher","1985MIN.EVA.regular.comment.csv",2
+"MIN198505150",94,"ej,gardb101,M,sprim901,Balls and strikes $Twins manager Gardner ejected by HP umpire Springstead for arguing balls and strikes","1985MIN.EVA.regular.comment.csv",3
+"MIN198505210",57,"Debut game for Frank Eufemia","1985MIN.EVA.regular.comment.csv",4
+"MIN198506230",1,"Debut game for Glen Cook","1985MIN.EVA.regular.comment.csv",5
+"MIN198506240",51,"ej,olivt102,C,cobld901,Call at 1B $Twins coach Oliva ejected by 1B umpire Coble for arguing that Hatcher was safe at 1st","1985MIN.EVA.regular.comment.csv",6
+"MIN198507220",36,"ej,weave801,M,fordd901,Trap/catch $Orioles manager Weaver ejected by HP umpire Ford for arguing that ball hit by Lynn was not caught","1985MIN.EVA.regular.comment.csv",7
+"MIN198507230",60,"ej,dwyej001,P,kaisk901,Balls and strikes Jim Dwyer ejected by HP umpire Ken Kaiser","1985MIN.EVA.regular.comment.csv",8
+"MIN198507280",66,"ej,millr801,M,roe-r901,Call at 1B $Twins manager Miller ejected by 1B umpire Roe for arguing tat Brunansky was safe at 1st","1985MIN.EVA.regular.comment.csv",9
+"MIN198508142",1,"Debut game for Mark Portugal","1985MIN.EVA.regular.comment.csv",10
+"MIN198508170",42,"ej,brunt001,P,brinj901,Excessive use of profanity in leaving the field Tom Brunansky ejected by HP umpire Joe Brinkman for excessive use of profanity while leaving the field","1985MIN.EVA.regular.comment.csv",11
+"MIN198508280",53,"ej,millr801,M,voltv901,Interference non-call $Twins manager Miller ejected by HP umpire Voltaggio for claiming that Garcia ran inside the baseline","1985MIN.EVA.regular.comment.csv",12
+"MIN198508300",72,"Guessing Gutierrez had 2 errors on play.","1985MIN.EVA.regular.comment.csv",13
+"MIN198509040",47,"Debut game for Dennis Burtt","1985MIN.EVA.regular.comment.csv",14
+"MIN198509300",27,"$Kent Hrbek knocked the ball out of Carlton Fisk's glove","1985MIN.EVA.regular.comment.csv",15
+"MIN198510010",19,"Originally coded E3; one of Walker's errors charged to Fletcher Guessing it is this one","1985MIN.EVA.regular.comment.csv",16

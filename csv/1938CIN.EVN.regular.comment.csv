@@ -1,29 +1,30 @@
-"CIN193804300",42,"$Pirates missed triple play when Goodman was caught in in rundown and Brubaker dropped throw from Young; events entered here as two separate plays","FILENAME_TX","LINE_NUMBER_CT"
-"CIN193804300",52,"$Brubaker missed tag on McCormick for error","1938CIN.EVN.regular.comment.csv",2
-"CIN193805080",9,"$Ernie Lombardi left with an injured right index finger after being struck by a bouncing pitch","1938CIN.EVN.regular.comment.csv",3
-"CIN193805080",56,"48 minute rain delay","1938CIN.EVN.regular.comment.csv",4
-"CIN193805100",20,"$Hersh Martin struck on the head by the throw","1938CIN.EVN.regular.comment.csv",5
-"CIN193805120",15,"ej,muelr101,P,stewb901,HBP call Ray Mueller ejected by HP umpire Bill Stewart","1938CIN.EVN.regular.comment.csv",6
-"CIN193805270",74,"$Lonnie Frey left with an injured side from swing","1938CIN.EVN.regular.comment.csv",7
-"CIN193806030",73,"$a throw struck Kiki Cuyler near 2B","1938CIN.EVN.regular.comment.csv",8
-"CIN193806040",17,"ej,mancg101,P,klemb901,Balls and strikes Gus Mancuso ejected by HP umpire Bill Klem","1938CIN.EVN.regular.comment.csv",9
-"CIN193806080",0,"$catcher Willard Hershberger's only game at 2B","1938CIN.EVN.regular.comment.csv",10
-"CIN193806110",0,"$the first of consecutive no-hitters by Johnny Vander Meer","1938CIN.EVN.regular.comment.csv",11
-"CIN193806110",21,"$Gene Moore fell and injured his left knee","1938CIN.EVN.regular.comment.csv",12
-"CIN193806121",48,"$into the overflow crowd","1938CIN.EVN.regular.comment.csv",13
-"CIN193806121",50,"$into the overflow crowd","1938CIN.EVN.regular.comment.csv",14
-"CIN193807130",70,"game called due to rain","1938CIN.EVN.regular.comment.csv",15
-"CIN193807160",31,"$Gilly Campbell spiked on left foot","1938CIN.EVN.regular.comment.csv",16
-"CIN193808100",19,"11 minute rain delay","1938CIN.EVN.regular.comment.csv",17
-"CIN193808240",17,"$Lee Grissom left with an injured left hand from slide","1938CIN.EVN.regular.comment.csv",18
-"CIN193808260",19,"ej,strij101,P,balll901,Call at 2B Joe Stripp ejected by 3B umpire Lee Ballanfant","1938CIN.EVN.regular.comment.csv",19
-"CIN193808290",39,"ur","1938CIN.EVN.regular.comment.csv",20
-"CIN193808301",8,"$lost in the sun","1938CIN.EVN.regular.comment.csv",21
-"CIN193808301",61,"ej,phelb101,P,goetl901,Balls and strikes Babe Phelps ejected by HP umpire Larry Goetz","1938CIN.EVN.regular.comment.csv",22
-"CIN193808302",0,"$Babe Phelps not eligible to play because he was ejected from the first game","1938CIN.EVN.regular.comment.csv",23
-"CIN193808302",43,"$Ernie Koy left with a sprained left knee","1938CIN.EVN.regular.comment.csv",24
-"CIN193809031",42,"$Ernie Lombardi's hit struck the LF wall so hard it ricocheted to Billy Jurges","1938CIN.EVN.regular.comment.csv",25
-"CIN193809032",34,"$when Harry Craft rounded 2B too far, Ripper Collins threw behind Craft but the ball went into LF; Augie Galan's throw to 3B struck 3B umpire George Magerkurth","1938CIN.EVN.regular.comment.csv",26
-"CIN193809032",64,"$the ball fell between three fielders","1938CIN.EVN.regular.comment.csv",27
-"CIN193809051",37,"$Ernie Lombardi chased Joe Medwick back to 3B and Johnny Mize had advanced to the same bag","1938CIN.EVN.regular.comment.csv",28
-"CIN193809052",67,"$Nolen Richardson missed a squeeze","1938CIN.EVN.regular.comment.csv",29
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"CIN193804300",42,"$Pirates missed triple play when Goodman was caught in in rundown and Brubaker dropped throw from Young; events entered here as two separate plays","1938CIN.EVN.regular.comment.csv",2
+"CIN193804300",52,"$Brubaker missed tag on McCormick for error","1938CIN.EVN.regular.comment.csv",3
+"CIN193805080",9,"$Ernie Lombardi left with an injured right index finger after being struck by a bouncing pitch","1938CIN.EVN.regular.comment.csv",4
+"CIN193805080",56,"48 minute rain delay","1938CIN.EVN.regular.comment.csv",5
+"CIN193805100",20,"$Hersh Martin struck on the head by the throw","1938CIN.EVN.regular.comment.csv",6
+"CIN193805120",15,"ej,muelr101,P,stewb901,HBP call Ray Mueller ejected by HP umpire Bill Stewart","1938CIN.EVN.regular.comment.csv",7
+"CIN193805270",74,"$Lonnie Frey left with an injured side from swing","1938CIN.EVN.regular.comment.csv",8
+"CIN193806030",73,"$a throw struck Kiki Cuyler near 2B","1938CIN.EVN.regular.comment.csv",9
+"CIN193806040",17,"ej,mancg101,P,klemb901,Balls and strikes Gus Mancuso ejected by HP umpire Bill Klem","1938CIN.EVN.regular.comment.csv",10
+"CIN193806080",0,"$catcher Willard Hershberger's only game at 2B","1938CIN.EVN.regular.comment.csv",11
+"CIN193806110",0,"$the first of consecutive no-hitters by Johnny Vander Meer","1938CIN.EVN.regular.comment.csv",12
+"CIN193806110",21,"$Gene Moore fell and injured his left knee","1938CIN.EVN.regular.comment.csv",13
+"CIN193806121",48,"$into the overflow crowd","1938CIN.EVN.regular.comment.csv",14
+"CIN193806121",50,"$into the overflow crowd","1938CIN.EVN.regular.comment.csv",15
+"CIN193807130",70,"game called due to rain","1938CIN.EVN.regular.comment.csv",16
+"CIN193807160",31,"$Gilly Campbell spiked on left foot","1938CIN.EVN.regular.comment.csv",17
+"CIN193808100",19,"11 minute rain delay","1938CIN.EVN.regular.comment.csv",18
+"CIN193808240",17,"$Lee Grissom left with an injured left hand from slide","1938CIN.EVN.regular.comment.csv",19
+"CIN193808260",19,"ej,strij101,P,balll901,Call at 2B Joe Stripp ejected by 3B umpire Lee Ballanfant","1938CIN.EVN.regular.comment.csv",20
+"CIN193808290",39,"ur","1938CIN.EVN.regular.comment.csv",21
+"CIN193808301",8,"$lost in the sun","1938CIN.EVN.regular.comment.csv",22
+"CIN193808301",61,"ej,phelb101,P,goetl901,Balls and strikes Babe Phelps ejected by HP umpire Larry Goetz","1938CIN.EVN.regular.comment.csv",23
+"CIN193808302",0,"$Babe Phelps not eligible to play because he was ejected from the first game","1938CIN.EVN.regular.comment.csv",24
+"CIN193808302",43,"$Ernie Koy left with a sprained left knee","1938CIN.EVN.regular.comment.csv",25
+"CIN193809031",42,"$Ernie Lombardi's hit struck the LF wall so hard it ricocheted to Billy Jurges","1938CIN.EVN.regular.comment.csv",26
+"CIN193809032",34,"$when Harry Craft rounded 2B too far, Ripper Collins threw behind Craft but the ball went into LF; Augie Galan's throw to 3B struck 3B umpire George Magerkurth","1938CIN.EVN.regular.comment.csv",27
+"CIN193809032",64,"$the ball fell between three fielders","1938CIN.EVN.regular.comment.csv",28
+"CIN193809051",37,"$Ernie Lombardi chased Joe Medwick back to 3B and Johnny Mize had advanced to the same bag","1938CIN.EVN.regular.comment.csv",29
+"CIN193809052",67,"$Nolen Richardson missed a squeeze","1938CIN.EVN.regular.comment.csv",30

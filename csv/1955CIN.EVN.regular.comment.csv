@@ -1,22 +1,23 @@
-"CIN195505082",62,"$Chuck Harmon called for interference","FILENAME_TX","LINE_NUMBER_CT"
-"CIN195505140",38,"$Gus Bell stumbled over 2B","1955CIN.EVN.regular.comment.csv",2
-"CIN195505152",25,"$Jackie Robinson spiked","1955CIN.EVN.regular.comment.csv",3
-"CIN195505221",59,"ej,nuxhj101,P,lands901,Balls and strikes ej,tebbb101,M,lands901,Balls and strikes Joe Nuxhall and Reds Manager Birdie Tebbetts ejected by HP umpire Stan Landes","1955CIN.EVN.regular.comment.csv",4
-"CIN195506140",50,"umpchange,6,umphp,donaa901 umpchange,6,ump1b,dixoh901 umpchange,6,ump3b,(None) HP umpire Jocko Conlan left with bursitis; 1B umpire Augie Donatelli moved to HP; 3B Umpire Hal DIxon moved to 1B; the game was completed with two umpires","1955CIN.EVN.regular.comment.csv",5
-"CIN195506150",28,"WP on fourth ball scored as E1","1955CIN.EVN.regular.comment.csv",6
-"CIN195506210",68,"ej,tempj101,P,warnl101,Called third strike Johnny Temple ejected by HP umpire Lon Warneke","1955CIN.EVN.regular.comment.csv",7
-"CIN195507020",8,"missing play in CIN195507020","1955CIN.EVN.regular.comment.csv",8
-"CIN195507050",74,"ej,tebbb101,M,conlj102,Fighting ej,sarnb101,P,conlj102,Fighting ej,walkh102,M,conlj102,Fighting $catcher Bill Sarni stood on the mound talking to Paul LaPalme as the Cardinals tried to stall; HP umpire Jocko Conlan went to the mound to break up the discussion and talked to the two players; Cardinals manager Harry Walker went onto the field angry that Conlan had hurried his players; Reds manager Birdie Tebbetts went to HP upset that the Cardinals were stalling; he stepped around Conlan and swung at Walker, who wrestled Tebbetts to the ground; both benches cleared and multiple skirmishes broke out; Tebbetts suffered cuts and was bleeding around his mouth; Sarni, Tebbetts and Walker ejected by Conlan","1955CIN.EVN.regular.comment.csv",9
-"CIN195507280",70,"$infield shifted for Ted Kluszewski with 3B Don Hoak to the right of 2B","1955CIN.EVN.regular.comment.csv",10
-"CIN195507300",34,"previous two plays are really one","1955CIN.EVN.regular.comment.csv",11
-"CIN195507300",57,"ej,thomf103,P,secof101,Balls and strikes Frank Thomas ejected by HP umpire Frank Secory","1955CIN.EVN.regular.comment.csv",12
-"CIN195508040",67,"Exact timing of stolen base unclear","1955CIN.EVN.regular.comment.csv",13
-"CIN195508050",20,"$Wayne Terwiliger struck on the head","1955CIN.EVN.regular.comment.csv",14
-"CIN195508050",79,"ej,durol101,M,dixoh901,Failure to eject pitcher after HBP Giants Manager Leo Durocher ejected by HP umpire Hal Dixon arguing that Jackie Collum should be ejected for hitting Don Liddle","1955CIN.EVN.regular.comment.csv",15
-"CIN195508071",52,"missing OF assist","1955CIN.EVN.regular.comment.csv",16
-"CIN195508072",1,"$Al Dark tagged hard on the ribs","1955CIN.EVN.regular.comment.csv",17
-"CIN195508072",5,"$Al Dark left due to rib injury","1955CIN.EVN.regular.comment.csv",18
-"CIN195509090",56,"ej,tempj101,P,barla901,Call at 3B Johnny Temple ejected by 3B umpire Al Barlick","1955CIN.EVN.regular.comment.csv",19
-"CIN195509100",71,"ej,mueld101,P,balll901,Catch/trap call Don Mueller ejected by 1B umpire Lee Ballanfant","1955CIN.EVN.regular.comment.csv",20
-"CIN195509111",47,"$Don Zimmer called for obstruction","1955CIN.EVN.regular.comment.csv",21
-"CIN195509112",32,"$Don Hoak rounded 2B did not touch base on way back to 1B","1955CIN.EVN.regular.comment.csv",22
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"CIN195505082",62,"$Chuck Harmon called for interference","1955CIN.EVN.regular.comment.csv",2
+"CIN195505140",38,"$Gus Bell stumbled over 2B","1955CIN.EVN.regular.comment.csv",3
+"CIN195505152",25,"$Jackie Robinson spiked","1955CIN.EVN.regular.comment.csv",4
+"CIN195505221",59,"ej,nuxhj101,P,lands901,Balls and strikes ej,tebbb101,M,lands901,Balls and strikes Joe Nuxhall and Reds Manager Birdie Tebbetts ejected by HP umpire Stan Landes","1955CIN.EVN.regular.comment.csv",5
+"CIN195506140",50,"umpchange,6,umphp,donaa901 umpchange,6,ump1b,dixoh901 umpchange,6,ump3b,(None) HP umpire Jocko Conlan left with bursitis; 1B umpire Augie Donatelli moved to HP; 3B Umpire Hal DIxon moved to 1B; the game was completed with two umpires","1955CIN.EVN.regular.comment.csv",6
+"CIN195506150",28,"WP on fourth ball scored as E1","1955CIN.EVN.regular.comment.csv",7
+"CIN195506210",68,"ej,tempj101,P,warnl101,Called third strike Johnny Temple ejected by HP umpire Lon Warneke","1955CIN.EVN.regular.comment.csv",8
+"CIN195507020",8,"missing play in CIN195507020","1955CIN.EVN.regular.comment.csv",9
+"CIN195507050",74,"ej,tebbb101,M,conlj102,Fighting ej,sarnb101,P,conlj102,Fighting ej,walkh102,M,conlj102,Fighting $catcher Bill Sarni stood on the mound talking to Paul LaPalme as the Cardinals tried to stall; HP umpire Jocko Conlan went to the mound to break up the discussion and talked to the two players; Cardinals manager Harry Walker went onto the field angry that Conlan had hurried his players; Reds manager Birdie Tebbetts went to HP upset that the Cardinals were stalling; he stepped around Conlan and swung at Walker, who wrestled Tebbetts to the ground; both benches cleared and multiple skirmishes broke out; Tebbetts suffered cuts and was bleeding around his mouth; Sarni, Tebbetts and Walker ejected by Conlan","1955CIN.EVN.regular.comment.csv",10
+"CIN195507280",70,"$infield shifted for Ted Kluszewski with 3B Don Hoak to the right of 2B","1955CIN.EVN.regular.comment.csv",11
+"CIN195507300",34,"previous two plays are really one","1955CIN.EVN.regular.comment.csv",12
+"CIN195507300",57,"ej,thomf103,P,secof101,Balls and strikes Frank Thomas ejected by HP umpire Frank Secory","1955CIN.EVN.regular.comment.csv",13
+"CIN195508040",67,"Exact timing of stolen base unclear","1955CIN.EVN.regular.comment.csv",14
+"CIN195508050",20,"$Wayne Terwiliger struck on the head","1955CIN.EVN.regular.comment.csv",15
+"CIN195508050",79,"ej,durol101,M,dixoh901,Failure to eject pitcher after HBP Giants Manager Leo Durocher ejected by HP umpire Hal Dixon arguing that Jackie Collum should be ejected for hitting Don Liddle","1955CIN.EVN.regular.comment.csv",16
+"CIN195508071",52,"missing OF assist","1955CIN.EVN.regular.comment.csv",17
+"CIN195508072",1,"$Al Dark tagged hard on the ribs","1955CIN.EVN.regular.comment.csv",18
+"CIN195508072",5,"$Al Dark left due to rib injury","1955CIN.EVN.regular.comment.csv",19
+"CIN195509090",56,"ej,tempj101,P,barla901,Call at 3B Johnny Temple ejected by 3B umpire Al Barlick","1955CIN.EVN.regular.comment.csv",20
+"CIN195509100",71,"ej,mueld101,P,balll901,Catch/trap call Don Mueller ejected by 1B umpire Lee Ballanfant","1955CIN.EVN.regular.comment.csv",21
+"CIN195509111",47,"$Don Zimmer called for obstruction","1955CIN.EVN.regular.comment.csv",22
+"CIN195509112",32,"$Don Hoak rounded 2B did not touch base on way back to 1B","1955CIN.EVN.regular.comment.csv",23

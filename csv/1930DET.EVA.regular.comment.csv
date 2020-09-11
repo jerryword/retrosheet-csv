@@ -1,35 +1,36 @@
-"DET193004170",49,"Rain, called","FILENAME_TX","LINE_NUMBER_CT"
-"DET193004280",61,"bounce HR","1930DET.EVA.regular.comment.csv",2
-"DET193004290",60,"$across the street on top of a house","1930DET.EVA.regular.comment.csv",3
-"DET193004290",63,"$Bill Akers injured on the play at 2B","1930DET.EVA.regular.comment.csv",4
-"DET193005200",48,"ej,manuh101,P,vangr901,Bench jockeying ej,blacl101,C,vangr901,Bench jockeying $Browns Manush and coach Blackburne ejected by HP umpire Van Grafian for bench jockeying","1930DET.EVA.regular.comment.csv",5
-"DET193006050",9,"Hit and run.","1930DET.EVA.regular.comment.csv",6
-"DET193006050",19,"Throw to plate was wide, official scorer ruled no error.","1930DET.EVA.regular.comment.csv",7
-"DET193006080",48,"$After 2 pitches to Morris, game called for darkness","1930DET.EVA.regular.comment.csv",8
-"DET193006110",45,"$Gomez replaced Carroll with 3-0 count on Gehringer, walk charged to Carroll","1930DET.EVA.regular.comment.csv",9
-"DET193006110",65,"umpchange,7,ump1b,morig101 umpchange,7,ump3b,(None) $Rice hit line drive which struck umpire Owens in leg, forcing Owens from game, game finished with two umpires","1930DET.EVA.regular.comment.csv",10
-"DET193006120",85,"DWS: E5 could be with gehrc01 or alexd101 at bat instead","1930DET.EVA.regular.comment.csv",11
-"DET193006140",5,"$lost in the sun","1930DET.EVA.regular.comment.csv",12
-"DET193006290",20,"$McManus ran into the Tiger dugout wall and eventually had to leave the game with a broken rib.","1930DET.EVA.regular.comment.csv",13
-"DET193006290",86,"This was Jimmy Shevlin's major-league debut","1930DET.EVA.regular.comment.csv",14
-"DET193006290",88,"$Umpire Guthrie required a police escort to escape angry Tigers fans after the out call at home to end the game","1930DET.EVA.regular.comment.csv",15
-"DET193007122",7,"Throw to second base was late.","1930DET.EVA.regular.comment.csv",16
-"DET193007160",68,"Herring entered with 2-0 count on Miller.","1930DET.EVA.regular.comment.csv",17
-"DET193007160",70,"Uhle entered with 2-2 count on Berry.","1930DET.EVA.regular.comment.csv",18
-"DET193007190",40,"$Rhyne thought there were 2 out so missed making DP","1930DET.EVA.regular.comment.csv",19
-"DET193007240",31,"$Lyn Lary fell on and injured Marty McManus","1930DET.EVA.regular.comment.csv",20
-"DET193007260",61,"$Ruth hurt hand again","1930DET.EVA.regular.comment.csv",21
-"DET193008010",17,"$Greg Mulleavy had chance for unassisted triple play, but thought already one out and rolled ball to mound","1930DET.EVA.regular.comment.csv",22
-"DET193008020",7,"$Carl Reynolds hurt when he crashed into fence","1930DET.EVA.regular.comment.csv",23
-"DET193008040",38,"$Bill Cissell dropped the throw in","1930DET.EVA.regular.comment.csv",24
-"DET193008050",42,"$Clint Brown tripped over the 1B bag","1930DET.EVA.regular.comment.csv",25
-"DET193008240",63,"$Hit on arm","1930DET.EVA.regular.comment.csv",26
-"DET193009131",50,"$into the overflow crowd","1930DET.EVA.regular.comment.csv",27
-"DET193009132",49,"ej,chapb102,P,mcgob901,Call at 2B $2bman Chapman ejected by 1B umpire McGowan for arguing that he had not dropped ball, so Doljack should be out","1930DET.EVA.regular.comment.csv",28
-"DET193009132",63,"Game called for darkness","1930DET.EVA.regular.comment.csv",29
-"DET193009140",75,"pbp account ends here, rest deduced","1930DET.EVA.regular.comment.csv",30
-"DET193009150",17,"$Earle Combs stopped at 3B, hesitated, then continued to HP","1930DET.EVA.regular.comment.csv",31
-"DET193009180",31,"$Doljack replaced mid at-bat after fouling ball off his foot","1930DET.EVA.regular.comment.csv",32
-"DET193009271",65,"Relay got away from Mulleavy, Tate backed up play then threw wild to second base.","1930DET.EVA.regular.comment.csv",33
-"DET193009272",59,"$Bob Fothergill broke for HP and drew a throw","1930DET.EVA.regular.comment.csv",34
-"DET193009272",63,"CC4: reconstructed home 7 to end","1930DET.EVA.regular.comment.csv",35
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"DET193004170",49,"Rain, called","1930DET.EVA.regular.comment.csv",2
+"DET193004280",61,"bounce HR","1930DET.EVA.regular.comment.csv",3
+"DET193004290",60,"$across the street on top of a house","1930DET.EVA.regular.comment.csv",4
+"DET193004290",63,"$Bill Akers injured on the play at 2B","1930DET.EVA.regular.comment.csv",5
+"DET193005200",48,"ej,manuh101,P,vangr901,Bench jockeying ej,blacl101,C,vangr901,Bench jockeying $Browns Manush and coach Blackburne ejected by HP umpire Van Grafian for bench jockeying","1930DET.EVA.regular.comment.csv",6
+"DET193006050",9,"Hit and run.","1930DET.EVA.regular.comment.csv",7
+"DET193006050",19,"Throw to plate was wide, official scorer ruled no error.","1930DET.EVA.regular.comment.csv",8
+"DET193006080",48,"$After 2 pitches to Morris, game called for darkness","1930DET.EVA.regular.comment.csv",9
+"DET193006110",45,"$Gomez replaced Carroll with 3-0 count on Gehringer, walk charged to Carroll","1930DET.EVA.regular.comment.csv",10
+"DET193006110",65,"umpchange,7,ump1b,morig101 umpchange,7,ump3b,(None) $Rice hit line drive which struck umpire Owens in leg, forcing Owens from game, game finished with two umpires","1930DET.EVA.regular.comment.csv",11
+"DET193006120",85,"DWS: E5 could be with gehrc01 or alexd101 at bat instead","1930DET.EVA.regular.comment.csv",12
+"DET193006140",5,"$lost in the sun","1930DET.EVA.regular.comment.csv",13
+"DET193006290",20,"$McManus ran into the Tiger dugout wall and eventually had to leave the game with a broken rib.","1930DET.EVA.regular.comment.csv",14
+"DET193006290",86,"This was Jimmy Shevlin's major-league debut","1930DET.EVA.regular.comment.csv",15
+"DET193006290",88,"$Umpire Guthrie required a police escort to escape angry Tigers fans after the out call at home to end the game","1930DET.EVA.regular.comment.csv",16
+"DET193007122",7,"Throw to second base was late.","1930DET.EVA.regular.comment.csv",17
+"DET193007160",68,"Herring entered with 2-0 count on Miller.","1930DET.EVA.regular.comment.csv",18
+"DET193007160",70,"Uhle entered with 2-2 count on Berry.","1930DET.EVA.regular.comment.csv",19
+"DET193007190",40,"$Rhyne thought there were 2 out so missed making DP","1930DET.EVA.regular.comment.csv",20
+"DET193007240",31,"$Lyn Lary fell on and injured Marty McManus","1930DET.EVA.regular.comment.csv",21
+"DET193007260",61,"$Ruth hurt hand again","1930DET.EVA.regular.comment.csv",22
+"DET193008010",17,"$Greg Mulleavy had chance for unassisted triple play, but thought already one out and rolled ball to mound","1930DET.EVA.regular.comment.csv",23
+"DET193008020",7,"$Carl Reynolds hurt when he crashed into fence","1930DET.EVA.regular.comment.csv",24
+"DET193008040",38,"$Bill Cissell dropped the throw in","1930DET.EVA.regular.comment.csv",25
+"DET193008050",42,"$Clint Brown tripped over the 1B bag","1930DET.EVA.regular.comment.csv",26
+"DET193008240",63,"$Hit on arm","1930DET.EVA.regular.comment.csv",27
+"DET193009131",50,"$into the overflow crowd","1930DET.EVA.regular.comment.csv",28
+"DET193009132",49,"ej,chapb102,P,mcgob901,Call at 2B $2bman Chapman ejected by 1B umpire McGowan for arguing that he had not dropped ball, so Doljack should be out","1930DET.EVA.regular.comment.csv",29
+"DET193009132",63,"Game called for darkness","1930DET.EVA.regular.comment.csv",30
+"DET193009140",75,"pbp account ends here, rest deduced","1930DET.EVA.regular.comment.csv",31
+"DET193009150",17,"$Earle Combs stopped at 3B, hesitated, then continued to HP","1930DET.EVA.regular.comment.csv",32
+"DET193009180",31,"$Doljack replaced mid at-bat after fouling ball off his foot","1930DET.EVA.regular.comment.csv",33
+"DET193009271",65,"Relay got away from Mulleavy, Tate backed up play then threw wild to second base.","1930DET.EVA.regular.comment.csv",34
+"DET193009272",59,"$Bob Fothergill broke for HP and drew a throw","1930DET.EVA.regular.comment.csv",35
+"DET193009272",63,"CC4: reconstructed home 7 to end","1930DET.EVA.regular.comment.csv",36

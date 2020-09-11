@@ -1,28 +1,29 @@
-"SLA194904190",0,"Debut for umpire Jim Honochick","FILENAME_TX","LINE_NUMBER_CT"
-"SLA194905011",54,"DIFF: K charged to Goldsberry","1949SLA.EVA.regular.comment.csv",2
-"SLA194905030",1,"Line drive off of Garver's right wrist to Pellagrini knocks Garver out of game","1949SLA.EVA.regular.comment.csv",3
-"SLA194905030",30,"Pellagrini drops line drive for error","1949SLA.EVA.regular.comment.csv",4
-"SLA194905082",72,"$game called for darkness","1949SLA.EVA.regular.comment.csv",5
-"SLA194905100",26,"$Red Embree called out on appeal for missing 2B on apparent single by Bob Dillinger","1949SLA.EVA.regular.comment.csv",6
-"SLA194905100",68,"$onto the pavillion roof","1949SLA.EVA.regular.comment.csv",7
-"SLA194906040",24,"$Eddie Pellagrini dislocated his left shoulder diving for ball","1949SLA.EVA.regular.comment.csv",8
-"SLA194906040",41,"20 minute rain delay","1949SLA.EVA.regular.comment.csv",9
-"SLA194906090",8,"Graham homered onto the pavillion roof on the first pitch.","1949SLA.EVA.regular.comment.csv",10
-"SLA194906090",39,"Priddy doubled off the wall.","1949SLA.EVA.regular.comment.csv",11
-"SLA194906090",45,"DWS: pbp account ends here, rest deduced","1949SLA.EVA.regular.comment.csv",12
-"SLA194907060",61,"$Advance to second after fly clearly described in paper","1949SLA.EVA.regular.comment.csv",13
-"SLA194907100",60,"These plays were washed out play,7,0,hegaj101,??,,D7 play,7,0,fellb101,??,,FC1.2X3(15) play,7,0,mitcd101,??,,S4.1-2 play,7,0,boonr101,??,,8 play,7,0,vernm101,??,,W.2-3;1-2 play,7,0,dobyl101,??,,9 play,7,1,sullj104,??,,NP sub,lehnp101,'Paul Lehner',1,8,11 play,7,1,lehnp101,??,,8 Game called for rain in the bottom of the seventh and the statistics reverted to the end of the sixth","1949SLA.EVA.regular.comment.csv",14
-"SLA194907140",9,"Pellagrini goes deep in the hole to get smash and throw out Joe D.","1949SLA.EVA.regular.comment.csv",15
-"SLA194907140",20,"Started to drizzle slightly","1949SLA.EVA.regular.comment.csv",16
-"SLA194907140",36,"Kryhoski stopped at third after Kokos threw home, then Coleman ran to second, was safe on Lollar's low throw allowing Kryhoski to score, and Coleman was out trying to get back to second","1949SLA.EVA.regular.comment.csv",17
-"SLA194907150",44,"Short WP, Kryhoski called out, safe, Garver dropped ball","1949SLA.EVA.regular.comment.csv",18
-"SLA194907160",8,"$the throw struck Jerry Priddy","1949SLA.EVA.regular.comment.csv",19
-"SLA194907160",47,"$game called after a 40-minute rain delay; the ground crew had great difficulty covering the infield, leaving half uncovered","1949SLA.EVA.regular.comment.csv",20
-"SLA194908230",28,"$Dick Kokos tapped the ball down the 1B line and backpedalled to avoid Billy Hitchcock's tag; Hitchcock dropped the ball as he reached to tag Kokos, and the ball rolled 20 feet away","1949SLA.EVA.regular.comment.csv",21
-"SLA194908230",43,"$infield shifted for Ted Williams","1949SLA.EVA.regular.comment.csv",22
-"SLA194908230",71,"$onto the pavillion roof","1949SLA.EVA.regular.comment.csv",23
-"SLA194909010",6,"First MLB appearance for Fenton Mole","1949SLA.EVA.regular.comment.csv",24
-"SLA194909010",54,"End of NY Sun play-by-play, rest is deduced","1949SLA.EVA.regular.comment.csv",25
-"SLA194909010",63,"Coleman falls on low throw from Johnson and Dillinger tries to score","1949SLA.EVA.regular.comment.csv",26
-"SLA194909010",69,"Moss hits grounder down 3B line into LF called fair by 3B ump and foul by HP ump and has to bat again getting a single into left","1949SLA.EVA.regular.comment.csv",27
-"SLA194910022",49,"$Game called for darkness","1949SLA.EVA.regular.comment.csv",28
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"SLA194904190",0,"Debut for umpire Jim Honochick","1949SLA.EVA.regular.comment.csv",2
+"SLA194905011",54,"DIFF: K charged to Goldsberry","1949SLA.EVA.regular.comment.csv",3
+"SLA194905030",1,"Line drive off of Garver's right wrist to Pellagrini knocks Garver out of game","1949SLA.EVA.regular.comment.csv",4
+"SLA194905030",30,"Pellagrini drops line drive for error","1949SLA.EVA.regular.comment.csv",5
+"SLA194905082",72,"$game called for darkness","1949SLA.EVA.regular.comment.csv",6
+"SLA194905100",26,"$Red Embree called out on appeal for missing 2B on apparent single by Bob Dillinger","1949SLA.EVA.regular.comment.csv",7
+"SLA194905100",68,"$onto the pavillion roof","1949SLA.EVA.regular.comment.csv",8
+"SLA194906040",24,"$Eddie Pellagrini dislocated his left shoulder diving for ball","1949SLA.EVA.regular.comment.csv",9
+"SLA194906040",41,"20 minute rain delay","1949SLA.EVA.regular.comment.csv",10
+"SLA194906090",8,"Graham homered onto the pavillion roof on the first pitch.","1949SLA.EVA.regular.comment.csv",11
+"SLA194906090",39,"Priddy doubled off the wall.","1949SLA.EVA.regular.comment.csv",12
+"SLA194906090",45,"DWS: pbp account ends here, rest deduced","1949SLA.EVA.regular.comment.csv",13
+"SLA194907060",61,"$Advance to second after fly clearly described in paper","1949SLA.EVA.regular.comment.csv",14
+"SLA194907100",60,"These plays were washed out play,7,0,hegaj101,??,,D7 play,7,0,fellb101,??,,FC1.2X3(15) play,7,0,mitcd101,??,,S4.1-2 play,7,0,boonr101,??,,8 play,7,0,vernm101,??,,W.2-3;1-2 play,7,0,dobyl101,??,,9 play,7,1,sullj104,??,,NP sub,lehnp101,'Paul Lehner',1,8,11 play,7,1,lehnp101,??,,8 Game called for rain in the bottom of the seventh and the statistics reverted to the end of the sixth","1949SLA.EVA.regular.comment.csv",15
+"SLA194907140",9,"Pellagrini goes deep in the hole to get smash and throw out Joe D.","1949SLA.EVA.regular.comment.csv",16
+"SLA194907140",20,"Started to drizzle slightly","1949SLA.EVA.regular.comment.csv",17
+"SLA194907140",36,"Kryhoski stopped at third after Kokos threw home, then Coleman ran to second, was safe on Lollar's low throw allowing Kryhoski to score, and Coleman was out trying to get back to second","1949SLA.EVA.regular.comment.csv",18
+"SLA194907150",44,"Short WP, Kryhoski called out, safe, Garver dropped ball","1949SLA.EVA.regular.comment.csv",19
+"SLA194907160",8,"$the throw struck Jerry Priddy","1949SLA.EVA.regular.comment.csv",20
+"SLA194907160",47,"$game called after a 40-minute rain delay; the ground crew had great difficulty covering the infield, leaving half uncovered","1949SLA.EVA.regular.comment.csv",21
+"SLA194908230",28,"$Dick Kokos tapped the ball down the 1B line and backpedalled to avoid Billy Hitchcock's tag; Hitchcock dropped the ball as he reached to tag Kokos, and the ball rolled 20 feet away","1949SLA.EVA.regular.comment.csv",22
+"SLA194908230",43,"$infield shifted for Ted Williams","1949SLA.EVA.regular.comment.csv",23
+"SLA194908230",71,"$onto the pavillion roof","1949SLA.EVA.regular.comment.csv",24
+"SLA194909010",6,"First MLB appearance for Fenton Mole","1949SLA.EVA.regular.comment.csv",25
+"SLA194909010",54,"End of NY Sun play-by-play, rest is deduced","1949SLA.EVA.regular.comment.csv",26
+"SLA194909010",63,"Coleman falls on low throw from Johnson and Dillinger tries to score","1949SLA.EVA.regular.comment.csv",27
+"SLA194909010",69,"Moss hits grounder down 3B line into LF called fair by 3B ump and foul by HP ump and has to bat again getting a single into left","1949SLA.EVA.regular.comment.csv",28
+"SLA194910022",49,"$Game called for darkness","1949SLA.EVA.regular.comment.csv",29

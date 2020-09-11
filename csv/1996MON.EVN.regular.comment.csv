@@ -1,12 +1,13 @@
-"MON199604170",57,"Debut game for Alex Pacheco","FILENAME_TX","LINE_NUMBER_CT"
-"MON199604230",33,"ej,alouf101,M,hallt901,Throwing at batter after warning ej,ruetk001,P,hallt901,Throwing at batter after warning $Pitcher Rueter and Expos manager Alou ejected by HP umpire automatically for throwing at batter after warning","1996MON.EVN.regular.comment.csv",2
-"MON199605120",23,"ej,alouf101,M,wendh901,Arguing delay from fans throwing things Expos mamager Felipe Alou ejected by 3B umpire Harry Wendelstedt for arguing about a game delay due to fans throwing items on the field","1996MON.EVN.regular.comment.csv",3
-"MON199606020",46,"Debut game for Tony Barron","1996MON.EVN.regular.comment.csv",4
-"MON199606120",15,"umpchange,2,umphome,davig901 umpchange,2,ump2b,(None) $HP umpire Rapuano left with broken collarbone after foul; 2B umpire Davis went behind plate and game finished with 3 umpires","1996MON.EVN.regular.comment.csv",5
-"MON199606240",1,"Debut game for Elmer Dessens","1996MON.EVN.regular.comment.csv",6
-"MON199606240",29,"ej,leylj801,M,wendh901,Balls and strikes Pirates manager Jim Leyland ejected by HP umpire Harry Wendelstedt","1996MON.EVN.regular.comment.csv",7
-"MON199607050",91,"Debut game for Rob Lukachyk","1996MON.EVN.regular.comment.csv",8
-"MON199608120",13,"$Henry Rodriguez took his time leaving the plate as he admired his home run","1996MON.EVN.regular.comment.csv",9
-"MON199608120",25,"ej,cangj001,P,laynj901,Bench-clearing brawl ej,collt801,M,laynj901,Bench-clearing brawl ej,darwd001,P,laynj901,Bench-clearing brawl ej,may-d001,P,laynj901,Bench-clearing brawl ej,aloum001,P,laynj901,Bench-clearing brawl ej,judej001,P,laynj901,Bench-clearing brawl ej,rodrh001,P,laynj901,Bench-clearing brawl $Henry Rodriguez charged the mound and both benches emptied; in the 10-minute brawl, Astros manager Terry Collins was hit on the face with a batting helmet and needed four stitches to close the gash; Collins, Darwin, Rodriguez, John Cangelosi, Derrick May, Moises Alou and Jeff Juden ejected by HP umpire Jerry Layne","1996MON.EVN.regular.comment.csv",10
-"MON199608300",58,"Debut game for Raul Chavez","1996MON.EVN.regular.comment.csv",11
-"MON199609010",67,"Debut game for Sean Mulligan","1996MON.EVN.regular.comment.csv",12
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"MON199604170",57,"Debut game for Alex Pacheco","1996MON.EVN.regular.comment.csv",2
+"MON199604230",33,"ej,alouf101,M,hallt901,Throwing at batter after warning ej,ruetk001,P,hallt901,Throwing at batter after warning $Pitcher Rueter and Expos manager Alou ejected by HP umpire automatically for throwing at batter after warning","1996MON.EVN.regular.comment.csv",3
+"MON199605120",23,"ej,alouf101,M,wendh901,Arguing delay from fans throwing things Expos mamager Felipe Alou ejected by 3B umpire Harry Wendelstedt for arguing about a game delay due to fans throwing items on the field","1996MON.EVN.regular.comment.csv",4
+"MON199606020",46,"Debut game for Tony Barron","1996MON.EVN.regular.comment.csv",5
+"MON199606120",15,"umpchange,2,umphome,davig901 umpchange,2,ump2b,(None) $HP umpire Rapuano left with broken collarbone after foul; 2B umpire Davis went behind plate and game finished with 3 umpires","1996MON.EVN.regular.comment.csv",6
+"MON199606240",1,"Debut game for Elmer Dessens","1996MON.EVN.regular.comment.csv",7
+"MON199606240",29,"ej,leylj801,M,wendh901,Balls and strikes Pirates manager Jim Leyland ejected by HP umpire Harry Wendelstedt","1996MON.EVN.regular.comment.csv",8
+"MON199607050",91,"Debut game for Rob Lukachyk","1996MON.EVN.regular.comment.csv",9
+"MON199608120",13,"$Henry Rodriguez took his time leaving the plate as he admired his home run","1996MON.EVN.regular.comment.csv",10
+"MON199608120",25,"ej,cangj001,P,laynj901,Bench-clearing brawl ej,collt801,M,laynj901,Bench-clearing brawl ej,darwd001,P,laynj901,Bench-clearing brawl ej,may-d001,P,laynj901,Bench-clearing brawl ej,aloum001,P,laynj901,Bench-clearing brawl ej,judej001,P,laynj901,Bench-clearing brawl ej,rodrh001,P,laynj901,Bench-clearing brawl $Henry Rodriguez charged the mound and both benches emptied; in the 10-minute brawl, Astros manager Terry Collins was hit on the face with a batting helmet and needed four stitches to close the gash; Collins, Darwin, Rodriguez, John Cangelosi, Derrick May, Moises Alou and Jeff Juden ejected by HP umpire Jerry Layne","1996MON.EVN.regular.comment.csv",11
+"MON199608300",58,"Debut game for Raul Chavez","1996MON.EVN.regular.comment.csv",12
+"MON199609010",67,"Debut game for Sean Mulligan","1996MON.EVN.regular.comment.csv",13

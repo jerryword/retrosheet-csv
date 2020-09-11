@@ -1,33 +1,34 @@
-"BAL195904140",21,"Debut game for Jack Fisher","FILENAME_TX","LINE_NUMBER_CT"
-"BAL195904160",44,"DIFF: officials have McDougald 0 GDP today","1959BAL.EVA.regular.comment.csv",2
-"BAL195904170",71,"DIFF: officials not CS","1959BAL.EVA.regular.comment.csv",3
-"BAL195904192",43,"Debut game for Wes Stock","1959BAL.EVA.regular.comment.csv",4
-"BAL195905102",6,"$Sammy White's throw hit Chico Carrasquel on the head; he was carried from the field on a stretcher and suffered a mild concussion with eleven stitches","1959BAL.EVA.regular.comment.csv",5
-"BAL195905140",26,"$Joe DeMaestri called for interference on catcher Joe Ginsberg","1959BAL.EVA.regular.comment.csv",6
-"BAL195905140",32,"$Ned Garver struck on pitching hand","1959BAL.EVA.regular.comment.csv",7
-"BAL195905150",46,"400 ft","1959BAL.EVA.regular.comment.csv",8
-"BAL195905172",18,"ej,pierj102,P,nappl901,Called third strike Jim Piersall ejected by HP umpire Larry Napp","1959BAL.EVA.regular.comment.csv",9
-"BAL195905230",1,"ej,richp101,M,tabaf901,Balls and strikes Orioles Manager Paul Richards ejected by HP umpire Frank Tabacchi","1959BAL.EVA.regular.comment.csv",10
-"BAL195906090",64,"$Gene Woodling rounded 1B too far","1959BAL.EVA.regular.comment.csv",11
-"BAL195906100",79,"$Rocky Colavito the eighth player to hit 4 homeruns in one game","1959BAL.EVA.regular.comment.csv",12
-"BAL195906180",4,"$Al Kaline struck on the head by the throw; he missed 1B, was tagged out and removed on a stretcher","1959BAL.EVA.regular.comment.csv",13
-"BAL195906191",25,"420 feet","1959BAL.EVA.regular.comment.csv",14
-"BAL195906191",26,"$lights turned on","1959BAL.EVA.regular.comment.csv",15
-"BAL195906192",27,"400 feet","1959BAL.EVA.regular.comment.csv",16
-"BAL195906200",8,"400 feet","1959BAL.EVA.regular.comment.csv",17
-"BAL195906210",15,"400 feet","1959BAL.EVA.regular.comment.csv",18
-"BAL195907010",7,"440 ft","1959BAL.EVA.regular.comment.csv",19
-"BAL195907020",8,"ej,stenc101,M,honoj901,Balls and strikes $Yankees manager Stengel ejected by HP umpire Honochick at end of Baltimore 1st for arguing ball call to Nieman before he hit home run","1959BAL.EVA.regular.comment.csv",20
-"BAL195907030",0,"$Rudy York managed the Red Sox for this game; Billy Jurges will officially replace Higgins for the next game","1959BAL.EVA.regular.comment.csv",21
-"BAL195907030",1,"ej,richp101,M,flahr901,Balls and strikes Orioles Manager Paul Richards ejected by HP umpire Red Flaherty sometime in game","1959BAL.EVA.regular.comment.csv",22
-"BAL195907190",64,"rain delay","1959BAL.EVA.regular.comment.csv",23
-"BAL195908040",1,"Debut game for Ken McBride","1959BAL.EVA.regular.comment.csv",24
-"BAL195908060",139,"$game called on account of curfew","1959BAL.EVA.regular.comment.csv",25
-"BAL195908150",0,"ej,richp101,M,stewb902,Balls and strikes Orioles Manager Paul Richards ejected by HP umpire Bob Stewart sometime in game","1959BAL.EVA.regular.comment.csv",26
-"BAL195908160",4,"$Bob Allison suffered a wrenched shoulder when he fell trying to stop while rounding 3B","1959BAL.EVA.regular.comment.csv",27
-"BAL195909010",61,"10 minute rain delay","1959BAL.EVA.regular.comment.csv",28
-"BAL195909072",8,"Debut game for Fred Valentine","1959BAL.EVA.regular.comment.csv",29
-"BAL195909092",0,"ej,vinca801,C,ricej901,Balls and strikes Orioles Coach Al Vincent ejected by 3B umpire John Rice sometime in game","1959BAL.EVA.regular.comment.csv",30
-"BAL195909120",64,"$Rip Coleman pitched from wind up","1959BAL.EVA.regular.comment.csv",31
-"BAL195909120",68,"Debut game for Bob Saverine","1959BAL.EVA.regular.comment.csv",32
-"BAL195909120",70,"ej,richp101,M,romme101,Balls and strikes Orioles Manager Paul Richards ejected by HP umpire Eddie Rommel","1959BAL.EVA.regular.comment.csv",33
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"BAL195904140",21,"Debut game for Jack Fisher","1959BAL.EVA.regular.comment.csv",2
+"BAL195904160",44,"DIFF: officials have McDougald 0 GDP today","1959BAL.EVA.regular.comment.csv",3
+"BAL195904170",71,"DIFF: officials not CS","1959BAL.EVA.regular.comment.csv",4
+"BAL195904192",43,"Debut game for Wes Stock","1959BAL.EVA.regular.comment.csv",5
+"BAL195905102",6,"$Sammy White's throw hit Chico Carrasquel on the head; he was carried from the field on a stretcher and suffered a mild concussion with eleven stitches","1959BAL.EVA.regular.comment.csv",6
+"BAL195905140",26,"$Joe DeMaestri called for interference on catcher Joe Ginsberg","1959BAL.EVA.regular.comment.csv",7
+"BAL195905140",32,"$Ned Garver struck on pitching hand","1959BAL.EVA.regular.comment.csv",8
+"BAL195905150",46,"400 ft","1959BAL.EVA.regular.comment.csv",9
+"BAL195905172",18,"ej,pierj102,P,nappl901,Called third strike Jim Piersall ejected by HP umpire Larry Napp","1959BAL.EVA.regular.comment.csv",10
+"BAL195905230",1,"ej,richp101,M,tabaf901,Balls and strikes Orioles Manager Paul Richards ejected by HP umpire Frank Tabacchi","1959BAL.EVA.regular.comment.csv",11
+"BAL195906090",64,"$Gene Woodling rounded 1B too far","1959BAL.EVA.regular.comment.csv",12
+"BAL195906100",79,"$Rocky Colavito the eighth player to hit 4 homeruns in one game","1959BAL.EVA.regular.comment.csv",13
+"BAL195906180",4,"$Al Kaline struck on the head by the throw; he missed 1B, was tagged out and removed on a stretcher","1959BAL.EVA.regular.comment.csv",14
+"BAL195906191",25,"420 feet","1959BAL.EVA.regular.comment.csv",15
+"BAL195906191",26,"$lights turned on","1959BAL.EVA.regular.comment.csv",16
+"BAL195906192",27,"400 feet","1959BAL.EVA.regular.comment.csv",17
+"BAL195906200",8,"400 feet","1959BAL.EVA.regular.comment.csv",18
+"BAL195906210",15,"400 feet","1959BAL.EVA.regular.comment.csv",19
+"BAL195907010",7,"440 ft","1959BAL.EVA.regular.comment.csv",20
+"BAL195907020",8,"ej,stenc101,M,honoj901,Balls and strikes $Yankees manager Stengel ejected by HP umpire Honochick at end of Baltimore 1st for arguing ball call to Nieman before he hit home run","1959BAL.EVA.regular.comment.csv",21
+"BAL195907030",0,"$Rudy York managed the Red Sox for this game; Billy Jurges will officially replace Higgins for the next game","1959BAL.EVA.regular.comment.csv",22
+"BAL195907030",1,"ej,richp101,M,flahr901,Balls and strikes Orioles Manager Paul Richards ejected by HP umpire Red Flaherty sometime in game","1959BAL.EVA.regular.comment.csv",23
+"BAL195907190",64,"rain delay","1959BAL.EVA.regular.comment.csv",24
+"BAL195908040",1,"Debut game for Ken McBride","1959BAL.EVA.regular.comment.csv",25
+"BAL195908060",139,"$game called on account of curfew","1959BAL.EVA.regular.comment.csv",26
+"BAL195908150",0,"ej,richp101,M,stewb902,Balls and strikes Orioles Manager Paul Richards ejected by HP umpire Bob Stewart sometime in game","1959BAL.EVA.regular.comment.csv",27
+"BAL195908160",4,"$Bob Allison suffered a wrenched shoulder when he fell trying to stop while rounding 3B","1959BAL.EVA.regular.comment.csv",28
+"BAL195909010",61,"10 minute rain delay","1959BAL.EVA.regular.comment.csv",29
+"BAL195909072",8,"Debut game for Fred Valentine","1959BAL.EVA.regular.comment.csv",30
+"BAL195909092",0,"ej,vinca801,C,ricej901,Balls and strikes Orioles Coach Al Vincent ejected by 3B umpire John Rice sometime in game","1959BAL.EVA.regular.comment.csv",31
+"BAL195909120",64,"$Rip Coleman pitched from wind up","1959BAL.EVA.regular.comment.csv",32
+"BAL195909120",68,"Debut game for Bob Saverine","1959BAL.EVA.regular.comment.csv",33
+"BAL195909120",70,"ej,richp101,M,romme101,Balls and strikes Orioles Manager Paul Richards ejected by HP umpire Eddie Rommel","1959BAL.EVA.regular.comment.csv",34

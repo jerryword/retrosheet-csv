@@ -1,23 +1,24 @@
-"PIT200404070",23,"Debut game for Jose Castillo","FILENAME_TX","LINE_NUMBER_CT"
-"PIT200404070",56,"Debut game for Mike Johnston","2004PIT.EVN.regular.comment.csv",2
-"PIT200404240",13,"$Simon left with injured leg","2004PIT.EVN.regular.comment.csv",3
-"PIT200404260",14,"$Kearns left with injured arm","2004PIT.EVN.regular.comment.csv",4
-"PIT200405090",87,"ej,mccll001,M,younl901,Check swing Pirates Manager Lloyd McClendon ejected by HP umpire Larry Young","2004PIT.EVN.regular.comment.csv",5
-"PIT200405192",9,"ej,wills801,C,vanol901,Balls and strikes Pirates pitching coach Spin Williams ejected by HP umpire Larry Vanover","2004PIT.EVN.regular.comment.csv",6
-"PIT200405192",63,"ej,hillb001,P,vanol901,Balls and strikes Bobby Hill ejected by HP umpire Larry Vanover","2004PIT.EVN.regular.comment.csv",7
-"PIT200405230",51,"$Mateo left game with injured hand","2004PIT.EVN.regular.comment.csv",8
-"PIT200405300",1,"Debut game for Sean Burnett","2004PIT.EVN.regular.comment.csv",9
-"PIT200405300",85,"ej,johnm005,P,samuj901,Intentional HBP ej,mccll001,M,samuj901,Intentional HBP Mike Johnston and Pirates Manager Lloyd McClendon ejected by HP umpire Jack Samuels; Coach Mackanin manages the rest of the game","2004PIT.EVN.regular.comment.csv",10
-"PIT200406010",4,"$Rolen hit on forehead, suffered concussion","2004PIT.EVN.regular.comment.csv",11
-"PIT200406020",29,"$Matheny left game with injured chest","2004PIT.EVN.regular.comment.csv",12
-"PIT200406020",45,"$Wells left game with injured hand","2004PIT.EVN.regular.comment.csv",13
-"PIT200406030",11,"Debut game for Yadier Molina","2004PIT.EVN.regular.comment.csv",14
-"PIT200406030",72,"ej,mccll001,M,gormb901,Arguing with opposing manager ej,larut101,M,gormb901,Arguing with opposing manager $a Mike Gonzalez high, inside pitch caused Tony Womack to hirt the dirt; Cardinal Manager Tony LaRussa yelled at Gonzalez from the dugout; Pirates manager Lloyd McClendon ran out of his dugout towards the St Louis dugout; two umpires tried to restrain him; LaRussa came out and the two managers yelled at each other with umpires between them; both benches and bullpens emptied; Scott Rolen had suffered a concussion two days earlier after being hit on the head; both managers were ejected by HP umpire Brian Gorman","2004PIT.EVN.regular.comment.csv",15
-"PIT200406160",50,"$Rob Mackowiak out on appeal","2004PIT.EVN.regular.comment.csv",16
-"PIT200406190",40,"$Burnett left game with injured arm","2004PIT.EVN.regular.comment.csv",17
-"PIT200407250",9,"$Romano left game with injured leg","2004PIT.EVN.regular.comment.csv",18
-"PIT200408100",84,"originally scored as double, changed next day","2004PIT.EVN.regular.comment.csv",19
-"PIT200408150",35,"ej,kennj001,P,nauep901,Fighting with Jason Kendall ej,kendj001,P,nauep901,Fighting with Joe Kennedy $Jason Kendall took a few steps towards 1B and then charged the mound when Joe Kennedy yelled something; a brawl ensued and both players ejected by HP umpire Paul Nauert","2004PIT.EVN.regular.comment.csv",20
-"PIT200408270",71,"Debut game for Frank Brooks","2004PIT.EVN.regular.comment.csv",21
-"PIT200409092",51,"Debut game for Jason Alfaro","2004PIT.EVN.regular.comment.csv",22
-"PIT200409180",37,"$Floyd left game with injured back","2004PIT.EVN.regular.comment.csv",23
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"PIT200404070",23,"Debut game for Jose Castillo","2004PIT.EVN.regular.comment.csv",2
+"PIT200404070",56,"Debut game for Mike Johnston","2004PIT.EVN.regular.comment.csv",3
+"PIT200404240",13,"$Simon left with injured leg","2004PIT.EVN.regular.comment.csv",4
+"PIT200404260",14,"$Kearns left with injured arm","2004PIT.EVN.regular.comment.csv",5
+"PIT200405090",87,"ej,mccll001,M,younl901,Check swing Pirates Manager Lloyd McClendon ejected by HP umpire Larry Young","2004PIT.EVN.regular.comment.csv",6
+"PIT200405192",9,"ej,wills801,C,vanol901,Balls and strikes Pirates pitching coach Spin Williams ejected by HP umpire Larry Vanover","2004PIT.EVN.regular.comment.csv",7
+"PIT200405192",63,"ej,hillb001,P,vanol901,Balls and strikes Bobby Hill ejected by HP umpire Larry Vanover","2004PIT.EVN.regular.comment.csv",8
+"PIT200405230",51,"$Mateo left game with injured hand","2004PIT.EVN.regular.comment.csv",9
+"PIT200405300",1,"Debut game for Sean Burnett","2004PIT.EVN.regular.comment.csv",10
+"PIT200405300",85,"ej,johnm005,P,samuj901,Intentional HBP ej,mccll001,M,samuj901,Intentional HBP Mike Johnston and Pirates Manager Lloyd McClendon ejected by HP umpire Jack Samuels; Coach Mackanin manages the rest of the game","2004PIT.EVN.regular.comment.csv",11
+"PIT200406010",4,"$Rolen hit on forehead, suffered concussion","2004PIT.EVN.regular.comment.csv",12
+"PIT200406020",29,"$Matheny left game with injured chest","2004PIT.EVN.regular.comment.csv",13
+"PIT200406020",45,"$Wells left game with injured hand","2004PIT.EVN.regular.comment.csv",14
+"PIT200406030",11,"Debut game for Yadier Molina","2004PIT.EVN.regular.comment.csv",15
+"PIT200406030",72,"ej,mccll001,M,gormb901,Arguing with opposing manager ej,larut101,M,gormb901,Arguing with opposing manager $a Mike Gonzalez high, inside pitch caused Tony Womack to hirt the dirt; Cardinal Manager Tony LaRussa yelled at Gonzalez from the dugout; Pirates manager Lloyd McClendon ran out of his dugout towards the St Louis dugout; two umpires tried to restrain him; LaRussa came out and the two managers yelled at each other with umpires between them; both benches and bullpens emptied; Scott Rolen had suffered a concussion two days earlier after being hit on the head; both managers were ejected by HP umpire Brian Gorman","2004PIT.EVN.regular.comment.csv",16
+"PIT200406160",50,"$Rob Mackowiak out on appeal","2004PIT.EVN.regular.comment.csv",17
+"PIT200406190",40,"$Burnett left game with injured arm","2004PIT.EVN.regular.comment.csv",18
+"PIT200407250",9,"$Romano left game with injured leg","2004PIT.EVN.regular.comment.csv",19
+"PIT200408100",84,"originally scored as double, changed next day","2004PIT.EVN.regular.comment.csv",20
+"PIT200408150",35,"ej,kennj001,P,nauep901,Fighting with Jason Kendall ej,kendj001,P,nauep901,Fighting with Joe Kennedy $Jason Kendall took a few steps towards 1B and then charged the mound when Joe Kennedy yelled something; a brawl ensued and both players ejected by HP umpire Paul Nauert","2004PIT.EVN.regular.comment.csv",21
+"PIT200408270",71,"Debut game for Frank Brooks","2004PIT.EVN.regular.comment.csv",22
+"PIT200409092",51,"Debut game for Jason Alfaro","2004PIT.EVN.regular.comment.csv",23
+"PIT200409180",37,"$Floyd left game with injured back","2004PIT.EVN.regular.comment.csv",24

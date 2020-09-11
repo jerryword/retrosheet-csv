@@ -1,25 +1,26 @@
-"WS1196004180",0,"Debut for umpire Cal Drummond","FILENAME_TX","LINE_NUMBER_CT"
-"WS1196004180",12,"Debut game for Don Mincher","1960WS1.EVA.regular.comment.csv",2
-"WS1196004180",45,"$Jim Lemon called for interference with Pete Runnels","1960WS1.EVA.regular.comment.csv",3
-"WS1196004180",54,"$Ted Williams called for interference for running into his own batted ball","1960WS1.EVA.regular.comment.csv",4
-"WS1196004220",11,"Debut game for Lou Clinton","1960WS1.EVA.regular.comment.csv",5
-"WS1196004260",37,"$Harmon Killebrew pulled a leg muscle","1960WS1.EVA.regular.comment.csv",6
-"WS1196005020",19,"$Johnny Temple called for interference for running into his own batted ball","1960WS1.EVA.regular.comment.csv",7
-"WS1196005130",47,"9 minute rain delay","1960WS1.EVA.regular.comment.csv",8
-"WS1196005270",39,"ej,runnp101,P,honoj901,Charging the mound $Pete Runnels ducked a brushback from Camilo Pascual; after being called out on strikes, Runnels yelled at Pascual, who shouted back; Runnels started for the mound but was held back by teammates; both benches cleared; Runnels ejected by HP umpire Jim Honochick","1960WS1.EVA.regular.comment.csv",9
-"WS1196006050",29,"ej,ramop101,P,mckib901,Inspection of ball $Orioles manager Paul Richards stopped the game three times saying that Pedro Ramos was throwing a spit ball; one time Richards went to the mound and examined Ramos' cap; this time catcher Earl Battey argued with HP umpire Bill McKinley about the opposing manager and was joined by Senators manager Cookie Lavagetto and Ramos; Ramos was ejected by McKinley","1960WS1.EVA.regular.comment.csv",10
-"WS1196006121",22,"ej,kalia101,P,stewb902,Called third strike Al Kaline ejected by HP umpire Bob Stewart","1960WS1.EVA.regular.comment.csv",11
-"WS1196007031",43,"Debut game for Rudy Hernandez","1960WS1.EVA.regular.comment.csv",12
-"WS1196007050",22,"$HP umpire Red Flaherty warned Pedro Ramos","1960WS1.EVA.regular.comment.csv",13
-"WS1196007290",32,"$Harmon Killebrew twisted his ankle rounding 1B","1960WS1.EVA.regular.comment.csv",14
-"WS1196007312",62,"ej,minom101,P,berrc103,Call at 2B Minnie Minoso ejected by 2B umpire Charlie Berry","1960WS1.EVA.regular.comment.csv",15
-"WS1196008160",51,"$Ike Delock's pitch was well off HP and went to the backstop; the ball caromed back straight to Russ Nixon","1960WS1.EVA.regular.comment.csv",16
-"WS1196008160",66,"$Russ Nixon pulled up lame on his double","1960WS1.EVA.regular.comment.csv",17
-"WS1196008210",44,"$Whitey Ford left with heat exhaustion","1960WS1.EVA.regular.comment.csv",18
-"WS1196008240",21,"$Billy Gardner called for interference for running into his own batted ball","1960WS1.EVA.regular.comment.csv",19
-"WS1196008280",61,"$Jimmy Piersall called for interference with catcher Earl Battey","1960WS1.EVA.regular.comment.csv",20
-"WS1196008290",15,"ej,valdj102,P,soarh901,Fighting $Valdivielso ejected by 2B umpire Soar for instigating fight after he slid hard into 2nd trying to break up double play; benches cleared but no one else ejected","1960WS1.EVA.regular.comment.csv",21
-"WS1196009240",67,"Debut game for Hector Maestri","1960WS1.EVA.regular.comment.csv",22
-"WS1196009260",20,"$Billy Gardner pulled a leg muscle","1960WS1.EVA.regular.comment.csv",23
-"WS1196009270",22,"Johnny Schaive left with twisted right knee","1960WS1.EVA.regular.comment.csv",24
-"WS1196009280",5,"$Elston Howard suffered disclocated right ring finger by foul ball on second pitch to Zoilo Versalles","1960WS1.EVA.regular.comment.csv",25
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"WS1196004180",0,"Debut for umpire Cal Drummond","1960WS1.EVA.regular.comment.csv",2
+"WS1196004180",12,"Debut game for Don Mincher","1960WS1.EVA.regular.comment.csv",3
+"WS1196004180",45,"$Jim Lemon called for interference with Pete Runnels","1960WS1.EVA.regular.comment.csv",4
+"WS1196004180",54,"$Ted Williams called for interference for running into his own batted ball","1960WS1.EVA.regular.comment.csv",5
+"WS1196004220",11,"Debut game for Lou Clinton","1960WS1.EVA.regular.comment.csv",6
+"WS1196004260",37,"$Harmon Killebrew pulled a leg muscle","1960WS1.EVA.regular.comment.csv",7
+"WS1196005020",19,"$Johnny Temple called for interference for running into his own batted ball","1960WS1.EVA.regular.comment.csv",8
+"WS1196005130",47,"9 minute rain delay","1960WS1.EVA.regular.comment.csv",9
+"WS1196005270",39,"ej,runnp101,P,honoj901,Charging the mound $Pete Runnels ducked a brushback from Camilo Pascual; after being called out on strikes, Runnels yelled at Pascual, who shouted back; Runnels started for the mound but was held back by teammates; both benches cleared; Runnels ejected by HP umpire Jim Honochick","1960WS1.EVA.regular.comment.csv",10
+"WS1196006050",29,"ej,ramop101,P,mckib901,Inspection of ball $Orioles manager Paul Richards stopped the game three times saying that Pedro Ramos was throwing a spit ball; one time Richards went to the mound and examined Ramos' cap; this time catcher Earl Battey argued with HP umpire Bill McKinley about the opposing manager and was joined by Senators manager Cookie Lavagetto and Ramos; Ramos was ejected by McKinley","1960WS1.EVA.regular.comment.csv",11
+"WS1196006121",22,"ej,kalia101,P,stewb902,Called third strike Al Kaline ejected by HP umpire Bob Stewart","1960WS1.EVA.regular.comment.csv",12
+"WS1196007031",43,"Debut game for Rudy Hernandez","1960WS1.EVA.regular.comment.csv",13
+"WS1196007050",22,"$HP umpire Red Flaherty warned Pedro Ramos","1960WS1.EVA.regular.comment.csv",14
+"WS1196007290",32,"$Harmon Killebrew twisted his ankle rounding 1B","1960WS1.EVA.regular.comment.csv",15
+"WS1196007312",62,"ej,minom101,P,berrc103,Call at 2B Minnie Minoso ejected by 2B umpire Charlie Berry","1960WS1.EVA.regular.comment.csv",16
+"WS1196008160",51,"$Ike Delock's pitch was well off HP and went to the backstop; the ball caromed back straight to Russ Nixon","1960WS1.EVA.regular.comment.csv",17
+"WS1196008160",66,"$Russ Nixon pulled up lame on his double","1960WS1.EVA.regular.comment.csv",18
+"WS1196008210",44,"$Whitey Ford left with heat exhaustion","1960WS1.EVA.regular.comment.csv",19
+"WS1196008240",21,"$Billy Gardner called for interference for running into his own batted ball","1960WS1.EVA.regular.comment.csv",20
+"WS1196008280",61,"$Jimmy Piersall called for interference with catcher Earl Battey","1960WS1.EVA.regular.comment.csv",21
+"WS1196008290",15,"ej,valdj102,P,soarh901,Fighting $Valdivielso ejected by 2B umpire Soar for instigating fight after he slid hard into 2nd trying to break up double play; benches cleared but no one else ejected","1960WS1.EVA.regular.comment.csv",22
+"WS1196009240",67,"Debut game for Hector Maestri","1960WS1.EVA.regular.comment.csv",23
+"WS1196009260",20,"$Billy Gardner pulled a leg muscle","1960WS1.EVA.regular.comment.csv",24
+"WS1196009270",22,"Johnny Schaive left with twisted right knee","1960WS1.EVA.regular.comment.csv",25
+"WS1196009280",5,"$Elston Howard suffered disclocated right ring finger by foul ball on second pitch to Zoilo Versalles","1960WS1.EVA.regular.comment.csv",26

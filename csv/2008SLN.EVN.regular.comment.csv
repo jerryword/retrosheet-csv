@@ -1,27 +1,28 @@
-"SLN200804010",12,"Debut game for Jayson Nix","FILENAME_TX","LINE_NUMBER_CT"
-"SLN200804010",39,"Debut game for Rico Washington","2008SLN.EVN.regular.comment.csv",2
-"SLN200804010",41,"Debut game for Kyle McClellan","2008SLN.EVN.regular.comment.csv",3
-"SLN200804010",55,"Debut game for Brian Barton","2008SLN.EVN.regular.comment.csv",4
-"SLN200804030",1,"originally scored E6, changed to S6 next day after LaRussa called the O-scorer and claimed that the pitcher had tipped the ball, making it a difficult play for Izturis. Film review led to the change","2008SLN.EVN.regular.comment.csv",5
-"SLN200804200",74,"Debut game for Emmanuel Burriss","2008SLN.EVN.regular.comment.csv",6
-"SLN200805130",9,"Pirates catcher Ryan Doumit left the game due to an injured hand/wrist","2008SLN.EVN.regular.comment.csv",7
-"SLN200805130",72,"Debut game for Marino Salas","2008SLN.EVN.regular.comment.csv",8
-"SLN200805160",54,"Debut game for Chris Perez","2008SLN.EVN.regular.comment.csv",9
-"SLN200805300",6,"Debut game for Joe Mather","2008SLN.EVN.regular.comment.csv",10
-"SLN200805300",69,"$Aaron Miles called for interference","2008SLN.EVN.regular.comment.csv",11
-"SLN200805310",42,"fan interference","2008SLN.EVN.regular.comment.csv",12
-"SLN200806130",80,"ej,sprir001,P,vanol901,Intentional HBP ej,larut101,M,vanol901,Arguing pitcher's ejection $Pitcher Springer and Cardinals manager LaRussa ejected by HP umpire Vanover for intentionally hitting Howard","2008SLN.EVN.regular.comment.csv",13
-"SLN200806130",89,"ej,oquej001,C,vanol901,Arguing pitcher should be ejected $Cardinals 3B coach Oquendo ejected by HP umpire Vanover for arguing that pitcher Seanez should be ejected for throwing pitch behind Ryan","2008SLN.EVN.regular.comment.csv",14
-"SLN200806150",81,"$big collision at the plate, Molina held ball for out, left on backboard with neck brace; taken to hospital with mild concussion","2008SLN.EVN.regular.comment.csv",15
-"SLN200806180",16,"$Duncan was called out at 1B because of batter interference by Looper after his swing","2008SLN.EVN.regular.comment.csv",16
-"SLN200806180",41,"$routine fly ball that DeJesus lost in the sun","2008SLN.EVN.regular.comment.csv",17
-"SLN200806180",47,"$Kennedy tried to barehand the ball but mishandled it before throwing to 1B","2008SLN.EVN.regular.comment.csv",18
-"SLN200807030",64,"Debut game for Argenis Reyes","2008SLN.EVN.regular.comment.csv",19
-"SLN200807170",23,"$Pujols fielded ball near bag, stepped on base for first out. Kouzmanoff started for 2nd, stopped and was tagged out about 10 feet from base to complete DP","2008SLN.EVN.regular.comment.csv",20
-"SLN200807230",36,"ej,yoste001,M,rapue901,Checked swing $Prince Fielder called out on a check swing; Brewers Manager Ned Yost ejected by HP umpire Ed Rapuano","2008SLN.EVN.regular.comment.csv",21
-"SLN200808010",36,"$Carlos Ruiz called for interference","2008SLN.EVN.regular.comment.csv",22
-"SLN200808200",0,"$Cardinals catcher Yadier Molina was in the original lineup but was scratched before the national anthem due to a left foot contusion","2008SLN.EVN.regular.comment.csv",23
-"SLN200808240",51,"Cardinals left fielder Brian Barton left the game due to an injured chest","2008SLN.EVN.regular.comment.csv",24
-"SLN200808260",63,"Brewers second baseman Ray Durham left the game due to an injured neck/shoulder","2008SLN.EVN.regular.comment.csv",25
-"SLN200809090",25,"Cardinals third baseman Troy Glaus left the game due to an injured neck/shoulder","2008SLN.EVN.regular.comment.csv",26
-"SLN200809100",39,"Cardinals catcher Yadier Molina left the game due to an injured leg","2008SLN.EVN.regular.comment.csv",27
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"SLN200804010",12,"Debut game for Jayson Nix","2008SLN.EVN.regular.comment.csv",2
+"SLN200804010",39,"Debut game for Rico Washington","2008SLN.EVN.regular.comment.csv",3
+"SLN200804010",41,"Debut game for Kyle McClellan","2008SLN.EVN.regular.comment.csv",4
+"SLN200804010",55,"Debut game for Brian Barton","2008SLN.EVN.regular.comment.csv",5
+"SLN200804030",1,"originally scored E6, changed to S6 next day after LaRussa called the O-scorer and claimed that the pitcher had tipped the ball, making it a difficult play for Izturis. Film review led to the change","2008SLN.EVN.regular.comment.csv",6
+"SLN200804200",74,"Debut game for Emmanuel Burriss","2008SLN.EVN.regular.comment.csv",7
+"SLN200805130",9,"Pirates catcher Ryan Doumit left the game due to an injured hand/wrist","2008SLN.EVN.regular.comment.csv",8
+"SLN200805130",72,"Debut game for Marino Salas","2008SLN.EVN.regular.comment.csv",9
+"SLN200805160",54,"Debut game for Chris Perez","2008SLN.EVN.regular.comment.csv",10
+"SLN200805300",6,"Debut game for Joe Mather","2008SLN.EVN.regular.comment.csv",11
+"SLN200805300",69,"$Aaron Miles called for interference","2008SLN.EVN.regular.comment.csv",12
+"SLN200805310",42,"fan interference","2008SLN.EVN.regular.comment.csv",13
+"SLN200806130",80,"ej,sprir001,P,vanol901,Intentional HBP ej,larut101,M,vanol901,Arguing pitcher's ejection $Pitcher Springer and Cardinals manager LaRussa ejected by HP umpire Vanover for intentionally hitting Howard","2008SLN.EVN.regular.comment.csv",14
+"SLN200806130",89,"ej,oquej001,C,vanol901,Arguing pitcher should be ejected $Cardinals 3B coach Oquendo ejected by HP umpire Vanover for arguing that pitcher Seanez should be ejected for throwing pitch behind Ryan","2008SLN.EVN.regular.comment.csv",15
+"SLN200806150",81,"$big collision at the plate, Molina held ball for out, left on backboard with neck brace; taken to hospital with mild concussion","2008SLN.EVN.regular.comment.csv",16
+"SLN200806180",16,"$Duncan was called out at 1B because of batter interference by Looper after his swing","2008SLN.EVN.regular.comment.csv",17
+"SLN200806180",41,"$routine fly ball that DeJesus lost in the sun","2008SLN.EVN.regular.comment.csv",18
+"SLN200806180",47,"$Kennedy tried to barehand the ball but mishandled it before throwing to 1B","2008SLN.EVN.regular.comment.csv",19
+"SLN200807030",64,"Debut game for Argenis Reyes","2008SLN.EVN.regular.comment.csv",20
+"SLN200807170",23,"$Pujols fielded ball near bag, stepped on base for first out. Kouzmanoff started for 2nd, stopped and was tagged out about 10 feet from base to complete DP","2008SLN.EVN.regular.comment.csv",21
+"SLN200807230",36,"ej,yoste001,M,rapue901,Checked swing $Prince Fielder called out on a check swing; Brewers Manager Ned Yost ejected by HP umpire Ed Rapuano","2008SLN.EVN.regular.comment.csv",22
+"SLN200808010",36,"$Carlos Ruiz called for interference","2008SLN.EVN.regular.comment.csv",23
+"SLN200808200",0,"$Cardinals catcher Yadier Molina was in the original lineup but was scratched before the national anthem due to a left foot contusion","2008SLN.EVN.regular.comment.csv",24
+"SLN200808240",51,"Cardinals left fielder Brian Barton left the game due to an injured chest","2008SLN.EVN.regular.comment.csv",25
+"SLN200808260",63,"Brewers second baseman Ray Durham left the game due to an injured neck/shoulder","2008SLN.EVN.regular.comment.csv",26
+"SLN200809090",25,"Cardinals third baseman Troy Glaus left the game due to an injured neck/shoulder","2008SLN.EVN.regular.comment.csv",27
+"SLN200809100",39,"Cardinals catcher Yadier Molina left the game due to an injured leg","2008SLN.EVN.regular.comment.csv",28

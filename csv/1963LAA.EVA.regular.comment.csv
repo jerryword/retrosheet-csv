@@ -1,31 +1,32 @@
-"LAA196304130",89,"$Dan Osinski struck by line drive and the ball caromed in the air to Joe Koppe; Osinski suffered bruised right hand and fractured small finger","FILENAME_TX","LINE_NUMBER_CT"
-"LAA196305030",4,"$Sam McDowell struck by liner on inside right wrist","1963LAA.EVA.regular.comment.csv",2
-"LAA196305030",15,"$Sam McDowell struck on left shin by liner; X-rays taken","1963LAA.EVA.regular.comment.csv",3
-"LAA196305060",65,"Debut game for Jay Ward","1963LAA.EVA.regular.comment.csv",4
-"LAA196305240",12,"$Leon Wagner hurt right cheekbone running into bullpen pole; removed after inning when knee stiffened up","1963LAA.EVA.regular.comment.csv",5
-"LAA196305260",6,"Debut game for Charlie Dees","1963LAA.EVA.regular.comment.csv",6
-"LAA196306030",39,"$Joe Cunningham fell over Charlie Dees' foot and landed on his head; Cunningham suffered a broken right collarbone","1963LAA.EVA.regular.comment.csv",7
-"LAA196306040",9,"Debut game for Tommy McCraw","1963LAA.EVA.regular.comment.csv",8
-"LAA196306080",52,"ej,thoml103,P,salea901,Call at 1B ej,rignb101,M,salea901,Call at 1B Lee Thomas and Angels Manager Bill Rigney ejected by HP umpire Al Salerno","1963LAA.EVA.regular.comment.csv",9
-"LAA196306180",26,"$Charlie Dees out on appeal at 2B","1963LAA.EVA.regular.comment.csv",10
-"LAA196306192",67,"ej,thoml103,P,umonf901,Called third strike (Threw equipment) Lee Thomas ejected by HP umpire Frank Umont; Thomas threw a rosin bag and balls onto the field","1963LAA.EVA.regular.comment.csv",11
-"LAA196306220",23,"Charlie Dees left with pulled muscle","1963LAA.EVA.regular.comment.csv",12
-"LAA196307110",82,"$fan interference; knocked ball out of Hector Lopez' hands","1963LAA.EVA.regular.comment.csv",13
-"LAA196307120",6,"$Jim Fregosi escaped rundown","1963LAA.EVA.regular.comment.csv",14
-"LAA196307120",10,"$Lee Thomas caught the ball over the top of the fence and fell into the seats","1963LAA.EVA.regular.comment.csv",15
-"LAA196307142",44,"$lights on at 6:14","1963LAA.EVA.regular.comment.csv",16
-"LAA196307171",49,"Jim Fregosi left with pulled groin muscle","1963LAA.EVA.regular.comment.csv",17
-"LAA196307200",77,"Ken McBride: 116 pitches","1963LAA.EVA.regular.comment.csv",18
-"LAA196307210",42,"$Dean Chance called for interference for running into his own batted ball","1963LAA.EVA.regular.comment.csv",19
-"LAA196308030",70,"$the throw went into the dugout","1963LAA.EVA.regular.comment.csv",20
-"LAA196308090",69,"$Jim Bouton: 94 pitches","1963LAA.EVA.regular.comment.csv",21
-"LAA196308100",61,"ej,rignb101,M,runge901,Catch/no catch on foul tip Angels Manager Bill Rigney ejected by HP umpire Ed Runge arguing that Elston Howard did not catch the foul tip","1963LAA.EVA.regular.comment.csv",22
-"LAA196308100",64,"$Whitey Ford: 74 pitches; Dean Chance: 92 pitches","1963LAA.EVA.regular.comment.csv",23
-"LAA196308150",17,"Billy Moran spiked on left calf; 3 stitches","1963LAA.EVA.regular.comment.csv",24
-"LAA196308160",1,"ej,aguih101,P,runge901,Bench jockeying $Tigers Aguirre, not in game, ejected by HP umpire Runge for bench jockeying","1963LAA.EVA.regular.comment.csv",25
-"LAA196308160",37,"ej,kocha101,P,runge901,Unknown reason $Tigers Koch ejected by HP umpire Runge for unknown reason","1963LAA.EVA.regular.comment.csv",26
-"LAA196308160",61,"$ball allowed to roll along 3B line","1963LAA.EVA.regular.comment.csv",27
-"LAA196309110",1,"Debut game for Aubrey Gatewood","1963LAA.EVA.regular.comment.csv",28
-"LAA196309110",58,"Billy Gardner left with dislocated left elbow","1963LAA.EVA.regular.comment.csv",29
-"LAA196309130",61,"Debut game for Gordon Seyfried","1963LAA.EVA.regular.comment.csv",30
-"LAA196309150",6,"ej,fregj101,P,kinnb901,Called third strike Jim Fregosi ejected by HP umpire Bill Kinnamon","1963LAA.EVA.regular.comment.csv",31
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"LAA196304130",89,"$Dan Osinski struck by line drive and the ball caromed in the air to Joe Koppe; Osinski suffered bruised right hand and fractured small finger","1963LAA.EVA.regular.comment.csv",2
+"LAA196305030",4,"$Sam McDowell struck by liner on inside right wrist","1963LAA.EVA.regular.comment.csv",3
+"LAA196305030",15,"$Sam McDowell struck on left shin by liner; X-rays taken","1963LAA.EVA.regular.comment.csv",4
+"LAA196305060",65,"Debut game for Jay Ward","1963LAA.EVA.regular.comment.csv",5
+"LAA196305240",12,"$Leon Wagner hurt right cheekbone running into bullpen pole; removed after inning when knee stiffened up","1963LAA.EVA.regular.comment.csv",6
+"LAA196305260",6,"Debut game for Charlie Dees","1963LAA.EVA.regular.comment.csv",7
+"LAA196306030",39,"$Joe Cunningham fell over Charlie Dees' foot and landed on his head; Cunningham suffered a broken right collarbone","1963LAA.EVA.regular.comment.csv",8
+"LAA196306040",9,"Debut game for Tommy McCraw","1963LAA.EVA.regular.comment.csv",9
+"LAA196306080",52,"ej,thoml103,P,salea901,Call at 1B ej,rignb101,M,salea901,Call at 1B Lee Thomas and Angels Manager Bill Rigney ejected by HP umpire Al Salerno","1963LAA.EVA.regular.comment.csv",10
+"LAA196306180",26,"$Charlie Dees out on appeal at 2B","1963LAA.EVA.regular.comment.csv",11
+"LAA196306192",67,"ej,thoml103,P,umonf901,Called third strike (Threw equipment) Lee Thomas ejected by HP umpire Frank Umont; Thomas threw a rosin bag and balls onto the field","1963LAA.EVA.regular.comment.csv",12
+"LAA196306220",23,"Charlie Dees left with pulled muscle","1963LAA.EVA.regular.comment.csv",13
+"LAA196307110",82,"$fan interference; knocked ball out of Hector Lopez' hands","1963LAA.EVA.regular.comment.csv",14
+"LAA196307120",6,"$Jim Fregosi escaped rundown","1963LAA.EVA.regular.comment.csv",15
+"LAA196307120",10,"$Lee Thomas caught the ball over the top of the fence and fell into the seats","1963LAA.EVA.regular.comment.csv",16
+"LAA196307142",44,"$lights on at 6:14","1963LAA.EVA.regular.comment.csv",17
+"LAA196307171",49,"Jim Fregosi left with pulled groin muscle","1963LAA.EVA.regular.comment.csv",18
+"LAA196307200",77,"Ken McBride: 116 pitches","1963LAA.EVA.regular.comment.csv",19
+"LAA196307210",42,"$Dean Chance called for interference for running into his own batted ball","1963LAA.EVA.regular.comment.csv",20
+"LAA196308030",70,"$the throw went into the dugout","1963LAA.EVA.regular.comment.csv",21
+"LAA196308090",69,"$Jim Bouton: 94 pitches","1963LAA.EVA.regular.comment.csv",22
+"LAA196308100",61,"ej,rignb101,M,runge901,Catch/no catch on foul tip Angels Manager Bill Rigney ejected by HP umpire Ed Runge arguing that Elston Howard did not catch the foul tip","1963LAA.EVA.regular.comment.csv",23
+"LAA196308100",64,"$Whitey Ford: 74 pitches; Dean Chance: 92 pitches","1963LAA.EVA.regular.comment.csv",24
+"LAA196308150",17,"Billy Moran spiked on left calf; 3 stitches","1963LAA.EVA.regular.comment.csv",25
+"LAA196308160",1,"ej,aguih101,P,runge901,Bench jockeying $Tigers Aguirre, not in game, ejected by HP umpire Runge for bench jockeying","1963LAA.EVA.regular.comment.csv",26
+"LAA196308160",37,"ej,kocha101,P,runge901,Unknown reason $Tigers Koch ejected by HP umpire Runge for unknown reason","1963LAA.EVA.regular.comment.csv",27
+"LAA196308160",61,"$ball allowed to roll along 3B line","1963LAA.EVA.regular.comment.csv",28
+"LAA196309110",1,"Debut game for Aubrey Gatewood","1963LAA.EVA.regular.comment.csv",29
+"LAA196309110",58,"Billy Gardner left with dislocated left elbow","1963LAA.EVA.regular.comment.csv",30
+"LAA196309130",61,"Debut game for Gordon Seyfried","1963LAA.EVA.regular.comment.csv",31
+"LAA196309150",6,"ej,fregj101,P,kinnb901,Called third strike Jim Fregosi ejected by HP umpire Bill Kinnamon","1963LAA.EVA.regular.comment.csv",32

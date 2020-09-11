@@ -1,16 +1,17 @@
-"PHI198204230",15,"Debut game for Julio Franco","FILENAME_TX","LINE_NUMBER_CT"
-"PHI198205090",67,"Debut game for Porfi Altamirano","1982PHI.EVN.regular.comment.csv",2
-"PHI198205120",11,"45 minute rain delay","1982PHI.EVN.regular.comment.csv",3
-"PHI198205310",48,"ej,concd001,P,wendh901,Fighting ej,sotom001,P,wendh901,Fighting ej,reedr001,P,wendh901,Intentional HBP $Mario Soto charged the mound; both benches cleared and Dave Concepcion charged at pitcher Ron Reed; Soto, Reed and Concepcion ejected by HP umpire Harry Wendelstedt","1982PHI.EVN.regular.comment.csv",4
-"PHI198206010",60,"1:34 rain delay at 9:22, then game called","1982PHI.EVN.regular.comment.csv",5
-"PHI198206080",1,"Debut game for Tom Filer","1982PHI.EVN.regular.comment.csv",6
-"PHI198206120",51,"ej,corrp102,M,pullf901,Call at 2B $Phillies manager Corrales ejected by 2B umpire Pulli for arguing that Moreno was out stealing","1982PHI.EVN.regular.comment.csv",7
-"PHI198207070",12,"ej,lezcs001,P,marsr901,Call at HP ej,willd104,M,marsr901,Call at HP Sixto Lezcano and Padres manager Dick Williams ejected by HP umpire Randy Marsh","1982PHI.EVN.regular.comment.csv",8
-"PHI198207070",84,"ej,mcgrt001,P,marsr901,Called third strike to Rose ej,rosep001,P,marsr901,Called third strike Pete Rose and Tug McGraw ejected by HP umpire Randy Marsh","1982PHI.EVN.regular.comment.csv",9
-"PHI198208040",45,"$Joel Youngblood was traded by the Mets to the Expos earlier in the day; he played the begining of the Mets game in Chicago and then flew to Philadelphia; this is the day he got a hit in two cities for two teams off two future Hall of Famers: Fergie Jenkins earlier and Steve Carlton here","1982PHI.EVN.regular.comment.csv",10
-"PHI198208092",0,"Suspend=19820810,PHI12,9,6,47","1982PHI.EVN.regular.comment.csv",11
-"PHI198208092",75,"suspended,19820810,PHI12,curfew and rain $Game suspended here and resumed the next day","1982PHI.EVN.regular.comment.csv",12
-"PHI198209190",68,"Debut game for Jay Baller","1982PHI.EVN.regular.comment.csv",13
-"PHI198209270",70,"ej,corrp102,M,grege901,Fair/foul call $Phillies manager Corrales ejected by 3B umpire Gregg when Gregg ruled foul a ball hit by Matthews that foul that Corrales thought was a homer","1982PHI.EVN.regular.comment.csv",14
-"PHI198209300",34,"ej,ballj001,P,grege901,Intentional HBP ej,corrp102,M,grege901,Intentional HBP Jay Baller and Phillies manager Pat Corrales ejected by HP umpire Eric Gregg","1982PHI.EVN.regular.comment.csv",15
-"PHI198209300",61,"ej,farme101,P,palld901,Checked swing Ed Farmer ejected by 1B umpire Dave Pallone arguing a checked swing call","1982PHI.EVN.regular.comment.csv",16
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"PHI198204230",15,"Debut game for Julio Franco","1982PHI.EVN.regular.comment.csv",2
+"PHI198205090",67,"Debut game for Porfi Altamirano","1982PHI.EVN.regular.comment.csv",3
+"PHI198205120",11,"45 minute rain delay","1982PHI.EVN.regular.comment.csv",4
+"PHI198205310",48,"ej,concd001,P,wendh901,Fighting ej,sotom001,P,wendh901,Fighting ej,reedr001,P,wendh901,Intentional HBP $Mario Soto charged the mound; both benches cleared and Dave Concepcion charged at pitcher Ron Reed; Soto, Reed and Concepcion ejected by HP umpire Harry Wendelstedt","1982PHI.EVN.regular.comment.csv",5
+"PHI198206010",60,"1:34 rain delay at 9:22, then game called","1982PHI.EVN.regular.comment.csv",6
+"PHI198206080",1,"Debut game for Tom Filer","1982PHI.EVN.regular.comment.csv",7
+"PHI198206120",51,"ej,corrp102,M,pullf901,Call at 2B $Phillies manager Corrales ejected by 2B umpire Pulli for arguing that Moreno was out stealing","1982PHI.EVN.regular.comment.csv",8
+"PHI198207070",12,"ej,lezcs001,P,marsr901,Call at HP ej,willd104,M,marsr901,Call at HP Sixto Lezcano and Padres manager Dick Williams ejected by HP umpire Randy Marsh","1982PHI.EVN.regular.comment.csv",9
+"PHI198207070",84,"ej,mcgrt001,P,marsr901,Called third strike to Rose ej,rosep001,P,marsr901,Called third strike Pete Rose and Tug McGraw ejected by HP umpire Randy Marsh","1982PHI.EVN.regular.comment.csv",10
+"PHI198208040",45,"$Joel Youngblood was traded by the Mets to the Expos earlier in the day; he played the begining of the Mets game in Chicago and then flew to Philadelphia; this is the day he got a hit in two cities for two teams off two future Hall of Famers: Fergie Jenkins earlier and Steve Carlton here","1982PHI.EVN.regular.comment.csv",11
+"PHI198208092",0,"Suspend=19820810,PHI12,9,6,47","1982PHI.EVN.regular.comment.csv",12
+"PHI198208092",75,"suspended,19820810,PHI12,curfew and rain $Game suspended here and resumed the next day","1982PHI.EVN.regular.comment.csv",13
+"PHI198209190",68,"Debut game for Jay Baller","1982PHI.EVN.regular.comment.csv",14
+"PHI198209270",70,"ej,corrp102,M,grege901,Fair/foul call $Phillies manager Corrales ejected by 3B umpire Gregg when Gregg ruled foul a ball hit by Matthews that foul that Corrales thought was a homer","1982PHI.EVN.regular.comment.csv",15
+"PHI198209300",34,"ej,ballj001,P,grege901,Intentional HBP ej,corrp102,M,grege901,Intentional HBP Jay Baller and Phillies manager Pat Corrales ejected by HP umpire Eric Gregg","1982PHI.EVN.regular.comment.csv",16
+"PHI198209300",61,"ej,farme101,P,palld901,Checked swing Ed Farmer ejected by 1B umpire Dave Pallone arguing a checked swing call","1982PHI.EVN.regular.comment.csv",17

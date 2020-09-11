@@ -1,20 +1,21 @@
-"SLN197404050",33,"Manny Sanguillen left with pulled right rib cage","FILENAME_TX","LINE_NUMBER_CT"
-"SLN197404050",89,"$Lou Brock hit a soft liner on the first pitch that was ruled a trap by 1B umpire Lee Weyer; none of the runners had moved","1974SLN.EVN.regular.comment.csv",2
-"SLN197404060",57,"Joe Torre hit on shoulder","1974SLN.EVN.regular.comment.csv",3
-"SLN197404280",59,"$Dan Driessen argued the call at 3B without calling time","1974SLN.EVN.regular.comment.csv",4
-"SLN197405290",64,"1:10 rain delay","1974SLN.EVN.regular.comment.csv",5
-"SLN197406020",71,"Mike Thompson injured on play","1974SLN.EVN.regular.comment.csv",6
-"SLN197406190",24,"$Ed Goodson hit a home run, but passed Garry Maddox on the base path","1974SLN.EVN.regular.comment.csv",7
-"SLN197406242",12,"ej,hebnr001,P,wendh901,Catch/trap Call (Threw helmet twice) ej,bretk101,P,harvd901,Catch/trap Call (from bench) $Pirates Hebner and Brett, not in game, ejected by HP umpire Wendelstedt for arguing that Ryan's fly was trapped","1974SLN.EVN.regular.comment.csv",8
-"SLN197407200",21,"$Bake McBride robbed Cesar Cedeno of HR","1974SLN.EVN.regular.comment.csv",9
-"SLN197407251",46,"ej,brocl102,P,gormt101,Balk non-call (Threw towel) $Cardinals Brock ejected by HP umpire Gorman for arguing that balk should have been called","1974SLN.EVN.regular.comment.csv",10
-"SLN197408041",81,"ej,torrj101,P,froeb901,Arguing fair/foul at the plate $Torre ejected by HP umpire Froemming for arguing that his game-ending grounder was foul","1974SLN.EVN.regular.comment.csv",11
-"SLN197408090",3,"ej,buckb001,P,tatat901,Call at 2B $Buckner ejected by 2B umpire Tata for arguing he was safe at 2nd","1974SLN.EVN.regular.comment.csv",12
-"SLN197408090",69,"ej,yeags001,P,craws901,Called strike 3 $Yeager ejected by HP umpire Crawford for arguing called strike 3","1974SLN.EVN.regular.comment.csv",13
-"SLN197408100",61,"Debut game for Danny Godby","1974SLN.EVN.regular.comment.csv",14
-"SLN197408110",6,"ej,sizet101,P,tatat901,Balls and strikes Ted Sizemore ejected by HP umpire Terry Tata","1974SLN.EVN.regular.comment.csv",15
-"SLN197408130",8,"Vicente Romo left with injured arm","1974SLN.EVN.regular.comment.csv",16
-"SLN197409040",72,"Debut game for Larry Herndon","1974SLN.EVN.regular.comment.csv",17
-"SLN197409100",60,"Debut game for Jerry Mumphrey","1974SLN.EVN.regular.comment.csv",18
-"SLN197409220",75,"ej,mcbrb101,P,craws901,HBP non-call ej,torrj101,P,craws901,HBP non-call $McBride and Cardinals Torre ejected by HP umpire Crawford for arguing that pitch had hit McBride; Crawford ruled it hit bat and the Cubs turned it into double play; McBride had four stitches placed into his right index finger","1974SLN.EVN.regular.comment.csv",19
-"SLN197409220",77,"ej,marsj101,M,craws901,Demanding opponent's ejection $Cubs manager Marshall ejected by HP umpire Crawfor for arguing that catcher Simmons should be ejected for hitting Madlock who had brushed Simmons with his bat during argument about automatic strike called by Crawford when he stepped out of box to protest pitcher Hrabosky's routine of turning his back to the plate during his delivery","1974SLN.EVN.regular.comment.csv",20
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"SLN197404050",33,"Manny Sanguillen left with pulled right rib cage","1974SLN.EVN.regular.comment.csv",2
+"SLN197404050",89,"$Lou Brock hit a soft liner on the first pitch that was ruled a trap by 1B umpire Lee Weyer; none of the runners had moved","1974SLN.EVN.regular.comment.csv",3
+"SLN197404060",57,"Joe Torre hit on shoulder","1974SLN.EVN.regular.comment.csv",4
+"SLN197404280",59,"$Dan Driessen argued the call at 3B without calling time","1974SLN.EVN.regular.comment.csv",5
+"SLN197405290",64,"1:10 rain delay","1974SLN.EVN.regular.comment.csv",6
+"SLN197406020",71,"Mike Thompson injured on play","1974SLN.EVN.regular.comment.csv",7
+"SLN197406190",24,"$Ed Goodson hit a home run, but passed Garry Maddox on the base path","1974SLN.EVN.regular.comment.csv",8
+"SLN197406242",12,"ej,hebnr001,P,wendh901,Catch/trap Call (Threw helmet twice) ej,bretk101,P,harvd901,Catch/trap Call (from bench) $Pirates Hebner and Brett, not in game, ejected by HP umpire Wendelstedt for arguing that Ryan's fly was trapped","1974SLN.EVN.regular.comment.csv",9
+"SLN197407200",21,"$Bake McBride robbed Cesar Cedeno of HR","1974SLN.EVN.regular.comment.csv",10
+"SLN197407251",46,"ej,brocl102,P,gormt101,Balk non-call (Threw towel) $Cardinals Brock ejected by HP umpire Gorman for arguing that balk should have been called","1974SLN.EVN.regular.comment.csv",11
+"SLN197408041",81,"ej,torrj101,P,froeb901,Arguing fair/foul at the plate $Torre ejected by HP umpire Froemming for arguing that his game-ending grounder was foul","1974SLN.EVN.regular.comment.csv",12
+"SLN197408090",3,"ej,buckb001,P,tatat901,Call at 2B $Buckner ejected by 2B umpire Tata for arguing he was safe at 2nd","1974SLN.EVN.regular.comment.csv",13
+"SLN197408090",69,"ej,yeags001,P,craws901,Called strike 3 $Yeager ejected by HP umpire Crawford for arguing called strike 3","1974SLN.EVN.regular.comment.csv",14
+"SLN197408100",61,"Debut game for Danny Godby","1974SLN.EVN.regular.comment.csv",15
+"SLN197408110",6,"ej,sizet101,P,tatat901,Balls and strikes Ted Sizemore ejected by HP umpire Terry Tata","1974SLN.EVN.regular.comment.csv",16
+"SLN197408130",8,"Vicente Romo left with injured arm","1974SLN.EVN.regular.comment.csv",17
+"SLN197409040",72,"Debut game for Larry Herndon","1974SLN.EVN.regular.comment.csv",18
+"SLN197409100",60,"Debut game for Jerry Mumphrey","1974SLN.EVN.regular.comment.csv",19
+"SLN197409220",75,"ej,mcbrb101,P,craws901,HBP non-call ej,torrj101,P,craws901,HBP non-call $McBride and Cardinals Torre ejected by HP umpire Crawford for arguing that pitch had hit McBride; Crawford ruled it hit bat and the Cubs turned it into double play; McBride had four stitches placed into his right index finger","1974SLN.EVN.regular.comment.csv",20
+"SLN197409220",77,"ej,marsj101,M,craws901,Demanding opponent's ejection $Cubs manager Marshall ejected by HP umpire Crawfor for arguing that catcher Simmons should be ejected for hitting Madlock who had brushed Simmons with his bat during argument about automatic strike called by Crawford when he stepped out of box to protest pitcher Hrabosky's routine of turning his back to the plate during his delivery","1974SLN.EVN.regular.comment.csv",21

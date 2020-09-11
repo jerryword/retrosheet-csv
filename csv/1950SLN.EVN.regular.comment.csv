@@ -1,38 +1,39 @@
-"SLN195004180",0,"$First Opening Day night game in Major League history","FILENAME_TX","LINE_NUMBER_CT"
-"SLN195004180",35,"missing play in SLN195004180","1950SLN.EVN.regular.comment.csv",2
-"SLN195004200",34,"Debut game for Tom Poholsky","1950SLN.EVN.regular.comment.csv",3
-"SLN195004200",48,"ej,kauft101,C,dascf901,Bench jockeying Cardinals Coach Tony Kaufmann ejected by HP umpire Frank Dascoli sometime in sixth","1950SLN.EVN.regular.comment.csv",4
-"SLN195004300",69,"pbp account ends here, rest deduced","1950SLN.EVN.regular.comment.csv",5
-"SLN195005010",8,"$Jackie Robinson rounded 2B too far","1950SLN.EVN.regular.comment.csv",6
-"SLN195005020",18,"missing fielders in SLN195005020 $Del Rice rounded 2B too far","1950SLN.EVN.regular.comment.csv",7
-"SLN195005030",87,"missing scoring for rundown in SLN195005030","1950SLN.EVN.regular.comment.csv",8
-"SLN195005030",114,"$onto the roof","1950SLN.EVN.regular.comment.csv",9
-"SLN195005100",58,"ej,stane101,P,barla901,Balls and strikes $Eddie Stanky went onto the field and started talking to 2B umpire Al Barlick, who ejected Stanky for arguing about balls and strikes","1950SLN.EVN.regular.comment.csv",10
-"SLN195006010",38,"$Joe Garagiola injured at 1B","1950SLN.EVN.regular.comment.csv",11
-"SLN195006010",62,"$Tommy Glaviano left injured","1950SLN.EVN.regular.comment.csv",12
-"SLN195006020",40,"$the throw struck Bobby Morgan","1950SLN.EVN.regular.comment.csv",13
-"SLN195006070",26,"ej,kauft101,C,balll901,Balls and strikes Cardinals Coach Tony Kaufmann ejected by HP umpire Lee Ballanfant","1950SLN.EVN.regular.comment.csv",14
-"SLN195006070",45,"$Al Brazle fired the ball to 1B from just a few feet away; Stan Musial tried to catch the ball barehanded and suffered a cut between two of his fingers","1950SLN.EVN.regular.comment.csv",15
-"SLN195006080",71,"$Del Crandall left with pulled leg muscle","1950SLN.EVN.regular.comment.csv",16
-"SLN195006112",40,"Off RF screen","1950SLN.EVN.regular.comment.csv",17
-"SLN195007150",72,"$Konstanty's throw to second pulled Goliat off the bag and led to long argument with umpire Donatelli","1950SLN.EVN.regular.comment.csv",18
-"SLN195007160",1,"Debut game for Chris Van Cuyk","1950SLN.EVN.regular.comment.csv",19
-"SLN195007171",19,"1:16 rain delay","1950SLN.EVN.regular.comment.csv",20
-"SLN195007171",58,"$Gil Hodges was hurt on foul ball by Stan Musial in 6th","1950SLN.EVN.regular.comment.csv",21
-"SLN195007171",67,"$Cloyd Boyer struck by line drive","1950SLN.EVN.regular.comment.csv",22
-"SLN195007191",0,"$day/night double header with separate admissions","1950SLN.EVN.regular.comment.csv",23
-"SLN195007191",61,"$Max Lanier left with sore toe","1950SLN.EVN.regular.comment.csv",24
-"SLN195007191",76,"top 9th reconstructed","1950SLN.EVN.regular.comment.csv",25
-"SLN195007221",83,"Reconstructed home 9th","1950SLN.EVN.regular.comment.csv",26
-"SLN195008190",65,"$Joe Adcock let the ball drop, tagged the runner then tagged the batter","1950SLN.EVN.regular.comment.csv",27
-"SLN195008220",46,"$onto the pavillion roof","1950SLN.EVN.regular.comment.csv",28
-"SLN195008240",28,"$Bobby Thomson rounded 2B too far","1950SLN.EVN.regular.comment.csv",29
-"SLN195008240",52,"ej,dierc101,P,conlj102,Called third strike Chuck Diering ejected by HP umpire Jocko Conlan","1950SLN.EVN.regular.comment.csv",30
-"SLN195008250",41,"$Wes Westrum left with right hand pain","1950SLN.EVN.regular.comment.csv",31
-"SLN195008250",81,"$Del Rice struck above left wrist","1950SLN.EVN.regular.comment.csv",32
-"SLN195008260",56,"Line drive off of Maglie's right leg almost causes him to leave game","1950SLN.EVN.regular.comment.csv",33
-"SLN195009061",21,"$Mauro tried to steal home, Dusak stepped off and threw to Rice who dropped the ball, allowing Mauro to score","1950SLN.EVN.regular.comment.csv",34
-"SLN195009061",69,"pbp account end here, rest deduced","1950SLN.EVN.regular.comment.csv",35
-"SLN195009101",84,"ej,castp102,P,jordl901,Called third strike ej,riddj101,C,jordl901,Called third strike Pete Castiglione and Pirates Coach Johnny Riddle ejected by HP umpire Lou Jorda","1950SLN.EVN.regular.comment.csv",36
-"SLN195009260",66,"$game called due to rain","1950SLN.EVN.regular.comment.csv",37
-"SLN195009280",11,"rain started","1950SLN.EVN.regular.comment.csv",38
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"SLN195004180",0,"$First Opening Day night game in Major League history","1950SLN.EVN.regular.comment.csv",2
+"SLN195004180",35,"missing play in SLN195004180","1950SLN.EVN.regular.comment.csv",3
+"SLN195004200",34,"Debut game for Tom Poholsky","1950SLN.EVN.regular.comment.csv",4
+"SLN195004200",48,"ej,kauft101,C,dascf901,Bench jockeying Cardinals Coach Tony Kaufmann ejected by HP umpire Frank Dascoli sometime in sixth","1950SLN.EVN.regular.comment.csv",5
+"SLN195004300",69,"pbp account ends here, rest deduced","1950SLN.EVN.regular.comment.csv",6
+"SLN195005010",8,"$Jackie Robinson rounded 2B too far","1950SLN.EVN.regular.comment.csv",7
+"SLN195005020",18,"missing fielders in SLN195005020 $Del Rice rounded 2B too far","1950SLN.EVN.regular.comment.csv",8
+"SLN195005030",87,"missing scoring for rundown in SLN195005030","1950SLN.EVN.regular.comment.csv",9
+"SLN195005030",114,"$onto the roof","1950SLN.EVN.regular.comment.csv",10
+"SLN195005100",58,"ej,stane101,P,barla901,Balls and strikes $Eddie Stanky went onto the field and started talking to 2B umpire Al Barlick, who ejected Stanky for arguing about balls and strikes","1950SLN.EVN.regular.comment.csv",11
+"SLN195006010",38,"$Joe Garagiola injured at 1B","1950SLN.EVN.regular.comment.csv",12
+"SLN195006010",62,"$Tommy Glaviano left injured","1950SLN.EVN.regular.comment.csv",13
+"SLN195006020",40,"$the throw struck Bobby Morgan","1950SLN.EVN.regular.comment.csv",14
+"SLN195006070",26,"ej,kauft101,C,balll901,Balls and strikes Cardinals Coach Tony Kaufmann ejected by HP umpire Lee Ballanfant","1950SLN.EVN.regular.comment.csv",15
+"SLN195006070",45,"$Al Brazle fired the ball to 1B from just a few feet away; Stan Musial tried to catch the ball barehanded and suffered a cut between two of his fingers","1950SLN.EVN.regular.comment.csv",16
+"SLN195006080",71,"$Del Crandall left with pulled leg muscle","1950SLN.EVN.regular.comment.csv",17
+"SLN195006112",40,"Off RF screen","1950SLN.EVN.regular.comment.csv",18
+"SLN195007150",72,"$Konstanty's throw to second pulled Goliat off the bag and led to long argument with umpire Donatelli","1950SLN.EVN.regular.comment.csv",19
+"SLN195007160",1,"Debut game for Chris Van Cuyk","1950SLN.EVN.regular.comment.csv",20
+"SLN195007171",19,"1:16 rain delay","1950SLN.EVN.regular.comment.csv",21
+"SLN195007171",58,"$Gil Hodges was hurt on foul ball by Stan Musial in 6th","1950SLN.EVN.regular.comment.csv",22
+"SLN195007171",67,"$Cloyd Boyer struck by line drive","1950SLN.EVN.regular.comment.csv",23
+"SLN195007191",0,"$day/night double header with separate admissions","1950SLN.EVN.regular.comment.csv",24
+"SLN195007191",61,"$Max Lanier left with sore toe","1950SLN.EVN.regular.comment.csv",25
+"SLN195007191",76,"top 9th reconstructed","1950SLN.EVN.regular.comment.csv",26
+"SLN195007221",83,"Reconstructed home 9th","1950SLN.EVN.regular.comment.csv",27
+"SLN195008190",65,"$Joe Adcock let the ball drop, tagged the runner then tagged the batter","1950SLN.EVN.regular.comment.csv",28
+"SLN195008220",46,"$onto the pavillion roof","1950SLN.EVN.regular.comment.csv",29
+"SLN195008240",28,"$Bobby Thomson rounded 2B too far","1950SLN.EVN.regular.comment.csv",30
+"SLN195008240",52,"ej,dierc101,P,conlj102,Called third strike Chuck Diering ejected by HP umpire Jocko Conlan","1950SLN.EVN.regular.comment.csv",31
+"SLN195008250",41,"$Wes Westrum left with right hand pain","1950SLN.EVN.regular.comment.csv",32
+"SLN195008250",81,"$Del Rice struck above left wrist","1950SLN.EVN.regular.comment.csv",33
+"SLN195008260",56,"Line drive off of Maglie's right leg almost causes him to leave game","1950SLN.EVN.regular.comment.csv",34
+"SLN195009061",21,"$Mauro tried to steal home, Dusak stepped off and threw to Rice who dropped the ball, allowing Mauro to score","1950SLN.EVN.regular.comment.csv",35
+"SLN195009061",69,"pbp account end here, rest deduced","1950SLN.EVN.regular.comment.csv",36
+"SLN195009101",84,"ej,castp102,P,jordl901,Called third strike ej,riddj101,C,jordl901,Called third strike Pete Castiglione and Pirates Coach Johnny Riddle ejected by HP umpire Lou Jorda","1950SLN.EVN.regular.comment.csv",37
+"SLN195009260",66,"$game called due to rain","1950SLN.EVN.regular.comment.csv",38
+"SLN195009280",11,"rain started","1950SLN.EVN.regular.comment.csv",39

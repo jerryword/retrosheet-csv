@@ -1,20 +1,21 @@
-"PHI193405220",23,"$10 minute delay due to rain","FILENAME_TX","LINE_NUMBER_CT"
-"PHI193405220",70,"$Heavy rain in top of 8th ends the game after Pirates get three hits and a run that are washed out","1934.EDN.regular.comment.csv",2
-"PHI193404290",0,"$First Sunday National League ever in Philadelphia","1934.EDN.regular.comment.csv",3
-"SLN193404190",54,"pbp account ends here, rest deduced","1934.EDN.regular.comment.csv",4
-"PHI193405210",73,"$Vaughan's throw to 1B trying for the DP hit Bartell in the  head and knocked him unconscious, but he recovered and stayed in the game","1934.EDN.regular.comment.csv",5
-"BSN193405301",26,"$Brandt sprained shoulder muscle","1934.EDN.regular.comment.csv",6
-"SLN193406150",57,"$Moore injured by his own foul, left with 2 strikes","1934.EDN.regular.comment.csv",7
-"PHI193407050",74,"$Pickoff attempt at 1st, runner tried to score from 3rd","1934.EDN.regular.comment.csv",8
-"PHI193407220",91,"ej,corrr101,C,klemb901,Arguing balls and strikes $Chicago coach Corriden ejected by HP umpire Klem for arguing balls and strikes","1934.EDN.regular.comment.csv",9
-"SLN193408051",45,"$Martin strained back","1934.EDN.regular.comment.csv",10
-"SLN193408052",13,"sub with 2-0 count","1934.EDN.regular.comment.csv",11
-"CHN193408192",58,"$Klein hurt leg running basese in previous inning","1934.EDN.regular.comment.csv",12
-"PIT193408270",3,"ej,frenl101,P,quige901,Catch/trap call $Pirate pitcer French ejected by HP umpire Quigley arguing that he had caught Jordan's liner","1934.EDN.regular.comment.csv",13
-"PHI193409151",34,"Lindstrom crashed into wall","1934.EDN.regular.comment.csv",14
-"PIT193408152",3,"$Two hour rain delay","1934.EDN.regular.comment.csv",15
-"NY1193409162",72,"$Getting dark, but umps allow one more inning","1934.EDN.regular.comment.csv",16
-"NY1193409161",0,"$Crowd of 62,573 is largest ever in NL at the time","1934.EDN.regular.comment.csv",17
-"PIT193409230",12,"$Ball bounces off Weaver and hits Padden's throwing hand; Padden left game","1934.EDN.regular.comment.csv",18
-"PIT193409230",51,"Need an out on the bases, so guessing a CS here","1934.EDN.regular.comment.csv",19
-"PHI193409302",69,"Game called for darkness","1934.EDN.regular.comment.csv",20
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"PHI193405220",23,"$10 minute delay due to rain","1934.EDN.regular.comment.csv",2
+"PHI193405220",70,"$Heavy rain in top of 8th ends the game after Pirates get three hits and a run that are washed out","1934.EDN.regular.comment.csv",3
+"PHI193404290",0,"$First Sunday National League ever in Philadelphia","1934.EDN.regular.comment.csv",4
+"SLN193404190",54,"pbp account ends here, rest deduced","1934.EDN.regular.comment.csv",5
+"PHI193405210",73,"$Vaughan's throw to 1B trying for the DP hit Bartell in the  head and knocked him unconscious, but he recovered and stayed in the game","1934.EDN.regular.comment.csv",6
+"BSN193405301",26,"$Brandt sprained shoulder muscle","1934.EDN.regular.comment.csv",7
+"SLN193406150",57,"$Moore injured by his own foul, left with 2 strikes","1934.EDN.regular.comment.csv",8
+"PHI193407050",74,"$Pickoff attempt at 1st, runner tried to score from 3rd","1934.EDN.regular.comment.csv",9
+"PHI193407220",91,"ej,corrr101,C,klemb901,Arguing balls and strikes $Chicago coach Corriden ejected by HP umpire Klem for arguing balls and strikes","1934.EDN.regular.comment.csv",10
+"SLN193408051",45,"$Martin strained back","1934.EDN.regular.comment.csv",11
+"SLN193408052",13,"sub with 2-0 count","1934.EDN.regular.comment.csv",12
+"CHN193408192",58,"$Klein hurt leg running basese in previous inning","1934.EDN.regular.comment.csv",13
+"PIT193408270",3,"ej,frenl101,P,quige901,Catch/trap call $Pirate pitcer French ejected by HP umpire Quigley arguing that he had caught Jordan's liner","1934.EDN.regular.comment.csv",14
+"PHI193409151",34,"Lindstrom crashed into wall","1934.EDN.regular.comment.csv",15
+"PIT193408152",3,"$Two hour rain delay","1934.EDN.regular.comment.csv",16
+"NY1193409162",72,"$Getting dark, but umps allow one more inning","1934.EDN.regular.comment.csv",17
+"NY1193409161",0,"$Crowd of 62,573 is largest ever in NL at the time","1934.EDN.regular.comment.csv",18
+"PIT193409230",12,"$Ball bounces off Weaver and hits Padden's throwing hand; Padden left game","1934.EDN.regular.comment.csv",19
+"PIT193409230",51,"Need an out on the bases, so guessing a CS here","1934.EDN.regular.comment.csv",20
+"PHI193409302",69,"Game called for darkness","1934.EDN.regular.comment.csv",21

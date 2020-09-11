@@ -1,36 +1,37 @@
-"DET198004250",39,"ej,ecked001,P,mckej901,Balls and strikes $Pitcher Eckersley ejected by HP umpire McKean when he threw strike 1 to Whitaker and yelled that it was the same pitch called ball 4 to Trammell","FILENAME_TX","LINE_NUMBER_CT"
-"DET198004260",70,"$Designated hitter Richie Hebner moved to 3B","1980DET.EVA.regular.comment.csv",2
-"DET198004270",72,"$Rick Burleson never tagged 2B","1980DET.EVA.regular.comment.csv",3
-"DET198004290",8,"$Pepe Frias decoyed Kirk Gibson","1980DET.EVA.regular.comment.csv",4
-"DET198004290",13,"$Jack Morris injured","1980DET.EVA.regular.comment.csv",5
-"DET198004290",70,"Rain delay and eventual cancellation","1980DET.EVA.regular.comment.csv",6
-"DET198005160",58,"Mike Flanagan missed the bag","1980DET.EVA.regular.comment.csv",7
-"DET198005210",12,"ej,hebnr001,P,garcr901,Called third strike Richie Hebner ejected by HP umpire Rich Garcia","1980DET.EVA.regular.comment.csv",8
-"DET198005300",59,"$onto the RF roof","1980DET.EVA.regular.comment.csv",9
-"DET198006020",109,"$game called due to rain","1980DET.EVA.regular.comment.csv",10
-"DET198006040",1,"$Julio Cruz ran into his own batted ball","1980DET.EVA.regular.comment.csv",11
-"DET198006040",43,"ej,johnd106,M,bremn901,Arguing fair/foul call on HR $Mariners manager Johnson ejected by 3B umpire Bremigan for arguing the home run was foul","1980DET.EVA.regular.comment.csv",12
-"DET198006120",60,"Debut game for Mike Kinnunen","1980DET.EVA.regular.comment.csv",13
-"DET198007010",57,"ej,garcd801,M,shulj901,Call at 2B Indians Manager Dave Garcia ejected by 2B umpire John Shulock","1980DET.EVA.regular.comment.csv",14
-"DET198007010",58,"$Steve Kemp ran into his own batted ball","1980DET.EVA.regular.comment.csv",15
-"DET198007020",76,"ej,charj101,P,kunkb101,Throwing tobacco at umpire $Charboneau ejected by 1B umpire Kunkel for arguing called strike 3 by throwing wad of tobacco at HP umpire Shulock","1980DET.EVA.regular.comment.csv",16
-"DET198007030",46,"$Lou Whitaker called for interference","1980DET.EVA.regular.comment.csv",17
-"DET198007250",32,"ej,hebnr001,P,neudj901,Called third strike Richie Hebner ejected by HP umpire Jerry Neudecker","1980DET.EVA.regular.comment.csv",18
-"DET198008030",59,"ej,johnd106,M,fordd901,Call at HP Mariners Manager Darrell Johnson ejected by HP umpire Dale Ford","1980DET.EVA.regular.comment.csv",19
-"DET198008050",0,"24 minute rain delay before start of game","1980DET.EVA.regular.comment.csv",20
-"DET198008050",41,"ej,bretg001,P,garcr901,Charging mound after fly out $Brett ejected by HP umpire Garcia for charging mound for knockdown on earlier pitch after flying out","1980DET.EVA.regular.comment.csv",21
-"DET198008060",2,"Hal McRae left with muscle spasms","1980DET.EVA.regular.comment.csv",22
-"DET198008060",11,"ej,freyj801,M,koscg901,Balls and strikes (During mound visit) Royals Manager Jim Frey ejected by HP umpire Greg Kosc","1980DET.EVA.regular.comment.csv",23
-"DET198008110",15,"38 minute rain delay","1980DET.EVA.regular.comment.csv",24
-"DET198008110",85,"ej,zimmd101,M,mccol901,Checked swing Red Sox Manager Don Zimmer ejected by 1B umpire Larry McCoy","1980DET.EVA.regular.comment.csv",25
-"DET198008130",15,"ej,hebnr001,P,spenf901,Called third strike Richie Hebner ejected by HP umpire Fred Spenn","1980DET.EVA.regular.comment.csv",26
-"DET198008171",42,"Debut game for Jerry Ujdur","1980DET.EVA.regular.comment.csv",27
-"DET198008310",46,"$attempted force out at 2B","1980DET.EVA.regular.comment.csv",28
-"DET198009010",0,"$Prior to the game Al Cowens and Ed Farmer brought out the lineup cards and shook hands; Cowens had attacked Farmer earlier in the season, resulting in a 7-game suspension; this was a carryover from 1979 when a pitch from Farmer had broken Cowens' jaw","1980DET.EVA.regular.comment.csv",29
-"DET198009010",13,"Debut game for Fran Mullins","1980DET.EVA.regular.comment.csv",30
-"DET198009010",23,"$Fran Mullens left with back problem","1980DET.EVA.regular.comment.csv",31
-"DET198009060",12,"Debut game for Lenny Faedo","1980DET.EVA.regular.comment.csv",32
-"DET198009100",14,"ej,weave801,M,pales901,Balls and strikes Orioles Manager Earl Weaver ejected by HP umpire Steve Palermo","1980DET.EVA.regular.comment.csv",33
-"DET198009100",43,"TMartinez finished walk to Champ Summers; count unknown on change","1980DET.EVA.regular.comment.csv",34
-"DET198009240",42,"ej,browg101,C,kaisk901,Threw towel from bench $Tigers coach Brown ejected by 1B umpire Kaiser at end of 4th inning; Tigers were upset because had apparently hit a clearn single earlier in his at bat, but Kaiser said he had called time to tell 1B coach Tracewski to stay in coach's box; threw towel from bench","1980DET.EVA.regular.comment.csv",35
-"DET198009260",62,"ej,trama001,P,cousd901,Called third strike Alan Trammell ejected by HP umpire Derryl Cousins","1980DET.EVA.regular.comment.csv",36
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"DET198004250",39,"ej,ecked001,P,mckej901,Balls and strikes $Pitcher Eckersley ejected by HP umpire McKean when he threw strike 1 to Whitaker and yelled that it was the same pitch called ball 4 to Trammell","1980DET.EVA.regular.comment.csv",2
+"DET198004260",70,"$Designated hitter Richie Hebner moved to 3B","1980DET.EVA.regular.comment.csv",3
+"DET198004270",72,"$Rick Burleson never tagged 2B","1980DET.EVA.regular.comment.csv",4
+"DET198004290",8,"$Pepe Frias decoyed Kirk Gibson","1980DET.EVA.regular.comment.csv",5
+"DET198004290",13,"$Jack Morris injured","1980DET.EVA.regular.comment.csv",6
+"DET198004290",70,"Rain delay and eventual cancellation","1980DET.EVA.regular.comment.csv",7
+"DET198005160",58,"Mike Flanagan missed the bag","1980DET.EVA.regular.comment.csv",8
+"DET198005210",12,"ej,hebnr001,P,garcr901,Called third strike Richie Hebner ejected by HP umpire Rich Garcia","1980DET.EVA.regular.comment.csv",9
+"DET198005300",59,"$onto the RF roof","1980DET.EVA.regular.comment.csv",10
+"DET198006020",109,"$game called due to rain","1980DET.EVA.regular.comment.csv",11
+"DET198006040",1,"$Julio Cruz ran into his own batted ball","1980DET.EVA.regular.comment.csv",12
+"DET198006040",43,"ej,johnd106,M,bremn901,Arguing fair/foul call on HR $Mariners manager Johnson ejected by 3B umpire Bremigan for arguing the home run was foul","1980DET.EVA.regular.comment.csv",13
+"DET198006120",60,"Debut game for Mike Kinnunen","1980DET.EVA.regular.comment.csv",14
+"DET198007010",57,"ej,garcd801,M,shulj901,Call at 2B Indians Manager Dave Garcia ejected by 2B umpire John Shulock","1980DET.EVA.regular.comment.csv",15
+"DET198007010",58,"$Steve Kemp ran into his own batted ball","1980DET.EVA.regular.comment.csv",16
+"DET198007020",76,"ej,charj101,P,kunkb101,Throwing tobacco at umpire $Charboneau ejected by 1B umpire Kunkel for arguing called strike 3 by throwing wad of tobacco at HP umpire Shulock","1980DET.EVA.regular.comment.csv",17
+"DET198007030",46,"$Lou Whitaker called for interference","1980DET.EVA.regular.comment.csv",18
+"DET198007250",32,"ej,hebnr001,P,neudj901,Called third strike Richie Hebner ejected by HP umpire Jerry Neudecker","1980DET.EVA.regular.comment.csv",19
+"DET198008030",59,"ej,johnd106,M,fordd901,Call at HP Mariners Manager Darrell Johnson ejected by HP umpire Dale Ford","1980DET.EVA.regular.comment.csv",20
+"DET198008050",0,"24 minute rain delay before start of game","1980DET.EVA.regular.comment.csv",21
+"DET198008050",41,"ej,bretg001,P,garcr901,Charging mound after fly out $Brett ejected by HP umpire Garcia for charging mound for knockdown on earlier pitch after flying out","1980DET.EVA.regular.comment.csv",22
+"DET198008060",2,"Hal McRae left with muscle spasms","1980DET.EVA.regular.comment.csv",23
+"DET198008060",11,"ej,freyj801,M,koscg901,Balls and strikes (During mound visit) Royals Manager Jim Frey ejected by HP umpire Greg Kosc","1980DET.EVA.regular.comment.csv",24
+"DET198008110",15,"38 minute rain delay","1980DET.EVA.regular.comment.csv",25
+"DET198008110",85,"ej,zimmd101,M,mccol901,Checked swing Red Sox Manager Don Zimmer ejected by 1B umpire Larry McCoy","1980DET.EVA.regular.comment.csv",26
+"DET198008130",15,"ej,hebnr001,P,spenf901,Called third strike Richie Hebner ejected by HP umpire Fred Spenn","1980DET.EVA.regular.comment.csv",27
+"DET198008171",42,"Debut game for Jerry Ujdur","1980DET.EVA.regular.comment.csv",28
+"DET198008310",46,"$attempted force out at 2B","1980DET.EVA.regular.comment.csv",29
+"DET198009010",0,"$Prior to the game Al Cowens and Ed Farmer brought out the lineup cards and shook hands; Cowens had attacked Farmer earlier in the season, resulting in a 7-game suspension; this was a carryover from 1979 when a pitch from Farmer had broken Cowens' jaw","1980DET.EVA.regular.comment.csv",30
+"DET198009010",13,"Debut game for Fran Mullins","1980DET.EVA.regular.comment.csv",31
+"DET198009010",23,"$Fran Mullens left with back problem","1980DET.EVA.regular.comment.csv",32
+"DET198009060",12,"Debut game for Lenny Faedo","1980DET.EVA.regular.comment.csv",33
+"DET198009100",14,"ej,weave801,M,pales901,Balls and strikes Orioles Manager Earl Weaver ejected by HP umpire Steve Palermo","1980DET.EVA.regular.comment.csv",34
+"DET198009100",43,"TMartinez finished walk to Champ Summers; count unknown on change","1980DET.EVA.regular.comment.csv",35
+"DET198009240",42,"ej,browg101,C,kaisk901,Threw towel from bench $Tigers coach Brown ejected by 1B umpire Kaiser at end of 4th inning; Tigers were upset because had apparently hit a clearn single earlier in his at bat, but Kaiser said he had called time to tell 1B coach Tracewski to stay in coach's box; threw towel from bench","1980DET.EVA.regular.comment.csv",36
+"DET198009260",62,"ej,trama001,P,cousd901,Called third strike Alan Trammell ejected by HP umpire Derryl Cousins","1980DET.EVA.regular.comment.csv",37

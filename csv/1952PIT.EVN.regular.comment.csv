@@ -1,35 +1,36 @@
-"PIT195204290",49,"$Tony Bartirome left with a sore ankle","FILENAME_TX","LINE_NUMBER_CT"
-"PIT195205010",57,"$lined off Jim Hearn's leg","1952PIT.EVN.regular.comment.csv",2
-"PIT195205030",31,"$hit on head, carried off field on stretcher","1952PIT.EVN.regular.comment.csv",3
-"PIT195205030",60,"$off Sal Maglie's leg","1952PIT.EVN.regular.comment.csv",4
-"PIT195205030",61,"End of pbp account from World-Telegram and Sun, rest deduced","1952PIT.EVN.regular.comment.csv",5
-"PIT195205050",42,"$lights turned on but turned off after 13 minutes","1952PIT.EVN.regular.comment.csv",6
-"PIT195205050",52,"$Jackie Robinson left with pulled right leg muscle","1952PIT.EVN.regular.comment.csv",7
-"PIT195205050",66,"rain","1952PIT.EVN.regular.comment.csv",8
-"PIT195205240",57,"18 minute rain delay","1952PIT.EVN.regular.comment.csv",9
-"PIT195205240",76,"rain delay","1952PIT.EVN.regular.comment.csv",10
-"PIT195205260",12,"$Ron Kline threw a pitch at Andy Seminick","1952PIT.EVN.regular.comment.csv",11
-"PIT195205260",15,"$Pirates Coach Bill Posedel, at 3B, and Reds coach Ben Chapman, standing on the dugout steps, started yelling at each other","1952PIT.EVN.regular.comment.csv",12
-"PIT195205260",16,"ej,semia101,P,conlj102,Fighting ej,Wayne Anderson,T,conlj102,Fighting [trainer] ej,metkg101,P,conlj102,Fighting ej,poseb102,C,conlj102,Fighting Pirates Coach Bill Posedel and Andy Seminick started fighting as the teams swapped sides; both benches cleared; Posedel, Seminick, Reds Trainer Wayne Anderson and George Metkovich ejected by HP umpire Jocko Conlan","1952PIT.EVN.regular.comment.csv",13
-"PIT195205270",19,"ej,sewel101,M,stewb901,Balls and strikes $Reds manager Sewell ejected by HP umpire Stewart for arguing strike call to Castiglione before single","1952PIT.EVN.regular.comment.csv",14
-"PIT195205270",81,"$hit on left elbow","1952PIT.EVN.regular.comment.csv",15
-"PIT195205290",25,"ej,hattg101,P,goetl901,Interference call Grady Hatton called for interference and ejected by HP umpire Larry Goetz","1952PIT.EVN.regular.comment.csv",16
-"PIT195206090",0,"Protest=H","1952PIT.EVN.regular.comment.csv",17
-"PIT195206090",50,"ej,meyeb101,M,jordl901,Fair/foul call $Ralph Kiner hit a line drive down the LF line which was ruled foul by 3B umpire Bill Engeln; Pirates Manager Billy Meyer ejected by HP umpire Lou Jorda Meyer protested the game, but later admitted that he could not win such a protest.","1952PIT.EVN.regular.comment.csv",18
-"PIT195206110",45,"ej,garaj101,P,pineb101,Balls and strikes (Threw bat) Joe Garagiola ejected by HP umpire Babe Pinelli for throwing his bat high into the air","1952PIT.EVN.regular.comment.csv",19
-"PIT195206120",12,"$Sibby Sisti fumbled the relay throw","1952PIT.EVN.regular.comment.csv",20
-"PIT195206120",21,"$Tony Bartirome injured sliding","1952PIT.EVN.regular.comment.csv",21
-"PIT195207120",6,"$Johnny Logan's foot was off the 2B bag","1952PIT.EVN.regular.comment.csv",22
-"PIT195207132",7,"$George Metkovich was caught between 1B and 2B","1952PIT.EVN.regular.comment.csv",23
-"PIT195207180",48,"24 minute rain delay","1952PIT.EVN.regular.comment.csv",24
-"PIT195208090",18,"25 minute rain delay","1952PIT.EVN.regular.comment.csv",25
-"PIT195208090",77,"$infield in","1952PIT.EVN.regular.comment.csv",26
-"PIT195208110",11,"rain started","1952PIT.EVN.regular.comment.csv",27
-"PIT195208110",14,"ej,meyeb101,M,dascf901,Call at 1B Pirates Manager Billy Meyer ejected by 1B umpire Frank Dascoli","1952PIT.EVN.regular.comment.csv",28
-"PIT195208200",3,"ej,meyeb101,M,gorea901,Interference non-call $Joe Garagiola's throw hit Johnny Wyrostek's bat; Pirates Manager Billy Meyer ejected by HP umpire Artie Gore claiming that Wyrostek interfered with Garagiola","1952PIT.EVN.regular.comment.csv",29
-"PIT195208241",7,"$off the LF pole","1952PIT.EVN.regular.comment.csv",30
-"PIT195208241",16,"$hit on the head carried off the field","1952PIT.EVN.regular.comment.csv",31
-"PIT195208241",27,"$the third out made before Johnny Logan crossed HP","1952PIT.EVN.regular.comment.csv",32
-"PIT195208241",42,"$the throw to 2B was late","1952PIT.EVN.regular.comment.csv",33
-"PIT195208242",56,"$Sam Jethroe rounded 1B too far","1952PIT.EVN.regular.comment.csv",34
-"PIT195209012",69,"ej,hermg101,P,engeb902,Call at 2B Gene Hermanski ejected by 2B umpire Bill Engeln","1952PIT.EVN.regular.comment.csv",35
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"PIT195204290",49,"$Tony Bartirome left with a sore ankle","1952PIT.EVN.regular.comment.csv",2
+"PIT195205010",57,"$lined off Jim Hearn's leg","1952PIT.EVN.regular.comment.csv",3
+"PIT195205030",31,"$hit on head, carried off field on stretcher","1952PIT.EVN.regular.comment.csv",4
+"PIT195205030",60,"$off Sal Maglie's leg","1952PIT.EVN.regular.comment.csv",5
+"PIT195205030",61,"End of pbp account from World-Telegram and Sun, rest deduced","1952PIT.EVN.regular.comment.csv",6
+"PIT195205050",42,"$lights turned on but turned off after 13 minutes","1952PIT.EVN.regular.comment.csv",7
+"PIT195205050",52,"$Jackie Robinson left with pulled right leg muscle","1952PIT.EVN.regular.comment.csv",8
+"PIT195205050",66,"rain","1952PIT.EVN.regular.comment.csv",9
+"PIT195205240",57,"18 minute rain delay","1952PIT.EVN.regular.comment.csv",10
+"PIT195205240",76,"rain delay","1952PIT.EVN.regular.comment.csv",11
+"PIT195205260",12,"$Ron Kline threw a pitch at Andy Seminick","1952PIT.EVN.regular.comment.csv",12
+"PIT195205260",15,"$Pirates Coach Bill Posedel, at 3B, and Reds coach Ben Chapman, standing on the dugout steps, started yelling at each other","1952PIT.EVN.regular.comment.csv",13
+"PIT195205260",16,"ej,semia101,P,conlj102,Fighting ej,Wayne Anderson,T,conlj102,Fighting [trainer] ej,metkg101,P,conlj102,Fighting ej,poseb102,C,conlj102,Fighting Pirates Coach Bill Posedel and Andy Seminick started fighting as the teams swapped sides; both benches cleared; Posedel, Seminick, Reds Trainer Wayne Anderson and George Metkovich ejected by HP umpire Jocko Conlan","1952PIT.EVN.regular.comment.csv",14
+"PIT195205270",19,"ej,sewel101,M,stewb901,Balls and strikes $Reds manager Sewell ejected by HP umpire Stewart for arguing strike call to Castiglione before single","1952PIT.EVN.regular.comment.csv",15
+"PIT195205270",81,"$hit on left elbow","1952PIT.EVN.regular.comment.csv",16
+"PIT195205290",25,"ej,hattg101,P,goetl901,Interference call Grady Hatton called for interference and ejected by HP umpire Larry Goetz","1952PIT.EVN.regular.comment.csv",17
+"PIT195206090",0,"Protest=H","1952PIT.EVN.regular.comment.csv",18
+"PIT195206090",50,"ej,meyeb101,M,jordl901,Fair/foul call $Ralph Kiner hit a line drive down the LF line which was ruled foul by 3B umpire Bill Engeln; Pirates Manager Billy Meyer ejected by HP umpire Lou Jorda Meyer protested the game, but later admitted that he could not win such a protest.","1952PIT.EVN.regular.comment.csv",19
+"PIT195206110",45,"ej,garaj101,P,pineb101,Balls and strikes (Threw bat) Joe Garagiola ejected by HP umpire Babe Pinelli for throwing his bat high into the air","1952PIT.EVN.regular.comment.csv",20
+"PIT195206120",12,"$Sibby Sisti fumbled the relay throw","1952PIT.EVN.regular.comment.csv",21
+"PIT195206120",21,"$Tony Bartirome injured sliding","1952PIT.EVN.regular.comment.csv",22
+"PIT195207120",6,"$Johnny Logan's foot was off the 2B bag","1952PIT.EVN.regular.comment.csv",23
+"PIT195207132",7,"$George Metkovich was caught between 1B and 2B","1952PIT.EVN.regular.comment.csv",24
+"PIT195207180",48,"24 minute rain delay","1952PIT.EVN.regular.comment.csv",25
+"PIT195208090",18,"25 minute rain delay","1952PIT.EVN.regular.comment.csv",26
+"PIT195208090",77,"$infield in","1952PIT.EVN.regular.comment.csv",27
+"PIT195208110",11,"rain started","1952PIT.EVN.regular.comment.csv",28
+"PIT195208110",14,"ej,meyeb101,M,dascf901,Call at 1B Pirates Manager Billy Meyer ejected by 1B umpire Frank Dascoli","1952PIT.EVN.regular.comment.csv",29
+"PIT195208200",3,"ej,meyeb101,M,gorea901,Interference non-call $Joe Garagiola's throw hit Johnny Wyrostek's bat; Pirates Manager Billy Meyer ejected by HP umpire Artie Gore claiming that Wyrostek interfered with Garagiola","1952PIT.EVN.regular.comment.csv",30
+"PIT195208241",7,"$off the LF pole","1952PIT.EVN.regular.comment.csv",31
+"PIT195208241",16,"$hit on the head carried off the field","1952PIT.EVN.regular.comment.csv",32
+"PIT195208241",27,"$the third out made before Johnny Logan crossed HP","1952PIT.EVN.regular.comment.csv",33
+"PIT195208241",42,"$the throw to 2B was late","1952PIT.EVN.regular.comment.csv",34
+"PIT195208242",56,"$Sam Jethroe rounded 1B too far","1952PIT.EVN.regular.comment.csv",35
+"PIT195209012",69,"ej,hermg101,P,engeb902,Call at 2B Gene Hermanski ejected by 2B umpire Bill Engeln","1952PIT.EVN.regular.comment.csv",36

@@ -1,32 +1,33 @@
-"TOR197704070",57,"Debut game for Al Woods","FILENAME_TX","LINE_NUMBER_CT"
-"TOR197704090",50,"Chris Knapp left with a blood blister on his pitching hand","1977TOR.EVA.regular.comment.csv",2
-"TOR197704090",67,"Debut game for Silvio Martinez","1977TOR.EVA.regular.comment.csv",3
-"TOR197704100",1,"Debut game for Jerry Garvin","1977TOR.EVA.regular.comment.csv",4
-"TOR197704110",1,"Debut game for Dave Rozema","1977TOR.EVA.regular.comment.csv",5
-"TOR197704130",65,"Debut game for Mike Willis","1977TOR.EVA.regular.comment.csv",6
-"TOR197704240",3,"$catcher Alan Ashby missed Bob Bailor's throw home after Jim Rice had flied out; Rick Burleson was not running after the catch","1977TOR.EVA.regular.comment.csv",7
-"TOR197705030",6,"Bob Bailor left with bruised right hip suffered trying to break up DP","1977TOR.EVA.regular.comment.csv",8
-"TOR197705040",31,"$Don Money dropped the pop up; Sixto Lezcano threw to Moore covering 1B","1977TOR.EVA.regular.comment.csv",9
-"TOR197705050",36,"$lost in the fog","1977TOR.EVA.regular.comment.csv",10
-"TOR197705050",39,"$the outfielders lost the ball in the fog","1977TOR.EVA.regular.comment.csv",11
-"TOR197705050",42,"one hour fog delay in inning","1977TOR.EVA.regular.comment.csv",12
-"TOR197705090",63,"$Ron Fairly tried to score during the rundown on Alan Ashby","1977TOR.EVA.regular.comment.csv",13
-"TOR197705250",88,"$Ron Fairly called for obstruction in rundown","1977TOR.EVA.regular.comment.csv",14
-"TOR197706190",64,"ej,hartr101,M,frana901,Call at 1B $Blue Jays manager Hartsfield ejected by 1B umpire Frantz for arguing that Ault had missed 1st base on apparent double and was then called out on appeal","1977TOR.EVA.regular.comment.csv",15
-"TOR197706200",1,"Debut game for Jeff Byrd","1977TOR.EVA.regular.comment.csv",16
-"TOR197706220",61,"fan interference","1977TOR.EVA.regular.comment.csv",17
-"TOR197707010",8,"Debut game for Steve Staggs","1977TOR.EVA.regular.comment.csv",18
-"TOR197707032",8,"ej,veleo101,P,clara901,Called third strike Otto Velez ejected by HP umpire Al Clark","1977TOR.EVA.regular.comment.csv",19
-"TOR197707150",0,"40 minute rain delay before start of game","1977TOR.EVA.regular.comment.csv",20
-"TOR197707260",1,"Debut game for Jim Clancy","1977TOR.EVA.regular.comment.csv",21
-"TOR197707300",50,"ej,bands101,P,merrd901,Checked swing (Bumped umpire) Sal Bando ejected by 1B umpire Durwood Merrill","1977TOR.EVA.regular.comment.csv",22
-"TOR197708090",73,"ej,maucg101,M,deegb901,Balls and strikes $Twins manager Mauch ejected by HP umpire Deegan for arguing balls and strikes while Randall was at bat","1977TOR.EVA.regular.comment.csv",23
-"TOR197708160",36,"Andy Etchebarren left with a bruised right knee","1977TOR.EVA.regular.comment.csv",24
-"TOR197708160",42,"Ernie Whitt left with sprained left ankle","1977TOR.EVA.regular.comment.csv",25
-"TOR197709020",13,"Debut game for Jimmy Sexton","1977TOR.EVA.regular.comment.csv",26
-"TOR197709060",1,"Debut game for Mike Darr","1977TOR.EVA.regular.comment.csv",27
-"TOR197709060",77,"Debut game for Bo Diaz","1977TOR.EVA.regular.comment.csv",28
-"TOR197709150",0,"Forfeit=H","1977TOR.EVA.regular.comment.csv",29
-"TOR197709150",41,"$the Orioles forfeit when they refuse to take field because the umpires would not remove the tarp on the Blue Jays bullpen mound; Oriole manager Earl Weaver claimed it was a safety issue for his left fielder","1977TOR.EVA.regular.comment.csv",30
-"TOR197709252",37,"ej,martb105,M,hendt901,Catch/trap call Yankees Manager Billy Martin ejected by HP umpire Ted Hendry","1977TOR.EVA.regular.comment.csv",31
-"TOR197710022",29,"$3 minute delay here to display prizes for fan appreciation day","1977TOR.EVA.regular.comment.csv",32
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"TOR197704070",57,"Debut game for Al Woods","1977TOR.EVA.regular.comment.csv",2
+"TOR197704090",50,"Chris Knapp left with a blood blister on his pitching hand","1977TOR.EVA.regular.comment.csv",3
+"TOR197704090",67,"Debut game for Silvio Martinez","1977TOR.EVA.regular.comment.csv",4
+"TOR197704100",1,"Debut game for Jerry Garvin","1977TOR.EVA.regular.comment.csv",5
+"TOR197704110",1,"Debut game for Dave Rozema","1977TOR.EVA.regular.comment.csv",6
+"TOR197704130",65,"Debut game for Mike Willis","1977TOR.EVA.regular.comment.csv",7
+"TOR197704240",3,"$catcher Alan Ashby missed Bob Bailor's throw home after Jim Rice had flied out; Rick Burleson was not running after the catch","1977TOR.EVA.regular.comment.csv",8
+"TOR197705030",6,"Bob Bailor left with bruised right hip suffered trying to break up DP","1977TOR.EVA.regular.comment.csv",9
+"TOR197705040",31,"$Don Money dropped the pop up; Sixto Lezcano threw to Moore covering 1B","1977TOR.EVA.regular.comment.csv",10
+"TOR197705050",36,"$lost in the fog","1977TOR.EVA.regular.comment.csv",11
+"TOR197705050",39,"$the outfielders lost the ball in the fog","1977TOR.EVA.regular.comment.csv",12
+"TOR197705050",42,"one hour fog delay in inning","1977TOR.EVA.regular.comment.csv",13
+"TOR197705090",63,"$Ron Fairly tried to score during the rundown on Alan Ashby","1977TOR.EVA.regular.comment.csv",14
+"TOR197705250",88,"$Ron Fairly called for obstruction in rundown","1977TOR.EVA.regular.comment.csv",15
+"TOR197706190",64,"ej,hartr101,M,frana901,Call at 1B $Blue Jays manager Hartsfield ejected by 1B umpire Frantz for arguing that Ault had missed 1st base on apparent double and was then called out on appeal","1977TOR.EVA.regular.comment.csv",16
+"TOR197706200",1,"Debut game for Jeff Byrd","1977TOR.EVA.regular.comment.csv",17
+"TOR197706220",61,"fan interference","1977TOR.EVA.regular.comment.csv",18
+"TOR197707010",8,"Debut game for Steve Staggs","1977TOR.EVA.regular.comment.csv",19
+"TOR197707032",8,"ej,veleo101,P,clara901,Called third strike Otto Velez ejected by HP umpire Al Clark","1977TOR.EVA.regular.comment.csv",20
+"TOR197707150",0,"40 minute rain delay before start of game","1977TOR.EVA.regular.comment.csv",21
+"TOR197707260",1,"Debut game for Jim Clancy","1977TOR.EVA.regular.comment.csv",22
+"TOR197707300",50,"ej,bands101,P,merrd901,Checked swing (Bumped umpire) Sal Bando ejected by 1B umpire Durwood Merrill","1977TOR.EVA.regular.comment.csv",23
+"TOR197708090",73,"ej,maucg101,M,deegb901,Balls and strikes $Twins manager Mauch ejected by HP umpire Deegan for arguing balls and strikes while Randall was at bat","1977TOR.EVA.regular.comment.csv",24
+"TOR197708160",36,"Andy Etchebarren left with a bruised right knee","1977TOR.EVA.regular.comment.csv",25
+"TOR197708160",42,"Ernie Whitt left with sprained left ankle","1977TOR.EVA.regular.comment.csv",26
+"TOR197709020",13,"Debut game for Jimmy Sexton","1977TOR.EVA.regular.comment.csv",27
+"TOR197709060",1,"Debut game for Mike Darr","1977TOR.EVA.regular.comment.csv",28
+"TOR197709060",77,"Debut game for Bo Diaz","1977TOR.EVA.regular.comment.csv",29
+"TOR197709150",0,"Forfeit=H","1977TOR.EVA.regular.comment.csv",30
+"TOR197709150",41,"$the Orioles forfeit when they refuse to take field because the umpires would not remove the tarp on the Blue Jays bullpen mound; Oriole manager Earl Weaver claimed it was a safety issue for his left fielder","1977TOR.EVA.regular.comment.csv",31
+"TOR197709252",37,"ej,martb105,M,hendt901,Catch/trap call Yankees Manager Billy Martin ejected by HP umpire Ted Hendry","1977TOR.EVA.regular.comment.csv",32
+"TOR197710022",29,"$3 minute delay here to display prizes for fan appreciation day","1977TOR.EVA.regular.comment.csv",33

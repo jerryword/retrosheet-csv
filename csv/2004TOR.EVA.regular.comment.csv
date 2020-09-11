@@ -1,33 +1,34 @@
-"TOR200404070",9,"Debut game for Simon Pond","FILENAME_TX","LINE_NUMBER_CT"
-"TOR200404160",38,"Debut game for Jason Frasor","2004TOR.EVA.regular.comment.csv",2
-"TOR200405080",62,"$Phelps hit the first pitch out of the park down the right field line; it was called a homer by 1B umpire Vanover but White Sox Mgr Guillen argued the call and after the umpires discussed the play it was ruled a foul ball","2004TOR.EVA.regular.comment.csv",3
-"TOR200405080",64,"$Phelps hit a real home run three pitches after the foul ball","2004TOR.EVA.regular.comment.csv",4
-"TOR200405150",12,"Debut game for Kevin Youkilis","2004TOR.EVA.regular.comment.csv",5
-"TOR200405180",67,"Mientkiewicz left game with injured back","2004TOR.EVA.regular.comment.csv",6
-"TOR200405190",45,"last two plays really one play","2004TOR.EVA.regular.comment.csv",7
-"TOR200405240",34,"$Carlos Delgado left game with injured knee","2004TOR.EVA.regular.comment.csv",8
-"TOR200405240",61,"ej,lackj001,P,reynj901,Intentional HBP ej,sciom001,M,reynj901,Intentional HBP John Lackey and Angels Manager Mike Scioscia ejected by HP umpire Jim Reynolds","2004TOR.EVA.regular.comment.csv",9
-"TOR200405240",94,"$the ball bounced off Kotchman's glove to Kennedy, who threw home; Molina ran Gomez back towards 3B, threw to Amezaga and no one covered home so Gomez ran home","2004TOR.EVA.regular.comment.csv",10
-"TOR200405270",16,"Debut game for Alexis Rios","2004TOR.EVA.regular.comment.csv",11
-"TOR200405280",40,"$fan interference","2004TOR.EVA.regular.comment.csv",12
-"TOR200406090",63,"not a GDP $Roberts was running on pitch, ball hit behind him. Short hop by first baseman who went to bag for out. Roberts was at 2nd, thought ball had been caught and that he was doubled off first.  He stepped back toward first and looked confused. Throw came to 2nd and he was tagged for 2nd out","2004TOR.EVA.regular.comment.csv",13
-"TOR200406110",60,"ej,hills002,P,fostm901,Balls and strikes Shea Hillenbrand ejected by HP umpire Marty Foster","2004TOR.EVA.regular.comment.csv",14
-"TOR200406120",52,"Debut game for Andy Green","2004TOR.EVA.regular.comment.csv",15
-"TOR200406240",63,"Debut game for Adam Peterson","2004TOR.EVA.regular.comment.csv",16
-"TOR200406260",19,"originally scored as E6 - changed on 8-20!","2004TOR.EVA.regular.comment.csv",17
-"TOR200407240",46,"ej,toscc801,M,holbs901,Call at 1B Manager Carlos Tosca ejected by 1B umpire Sam Holbrook; Tosca thought Rocco Baldelli was out for a double play and then picked off","2004TOR.EVA.regular.comment.csv",18
-"TOR200407270",25,"$Hernandez left game with injured leg","2004TOR.EVA.regular.comment.csv",19
-"TOR200407270",51,"ej,cataf001,P,darlg901,Watching replays in dugout $Blue Jays Catalanotto ejected by 1B umpire Darling for watching replays on monitor near dugout; argumemt by Blue Jays was that Rios was safe at home","2004TOR.EVA.regular.comment.csv",20
-"TOR200407270",79,"$Sheffield's 400th homer; 38th player to reach 400","2004TOR.EVA.regular.comment.csv",21
-"TOR200407280",53,"$Wilson left game with injured head","2004TOR.EVA.regular.comment.csv",22
-"TOR200408020",45,"Wells left game with injured leg","2004TOR.EVA.regular.comment.csv",23
-"TOR200408030",73,"ej,martv001,P,hudsm901,Balls and strikes $$atcher Martinez ejected by HP umpire Hudson for arguing about ball four to Menechino","2004TOR.EVA.regular.comment.csv",24
-"TOR200408040",56,"$Martinez left game with injured leg","2004TOR.EVA.regular.comment.csv",25
-"TOR200408250",32,"$Mientkiewicz left game with injured neck","2004TOR.EVA.regular.comment.csv",26
-"TOR200408260",43,"$Alexis Rios called for interference","2004TOR.EVA.regular.comment.csv",27
-"TOR200409030",11,"Debut game for Nick Swisher","2004TOR.EVA.regular.comment.csv",28
-"TOR200409030",81,"Debut game for Russ Adams","2004TOR.EVA.regular.comment.csv",29
-"TOR200409040",17,"Debut game for Guillermo Quiroz","2004TOR.EVA.regular.comment.csv",30
-"TOR200409040",84,"Debut game for Eric Crozier","2004TOR.EVA.regular.comment.csv",31
-"TOR200409050",78,"Both MLB and ESPN show no advance on 63","2004TOR.EVA.regular.comment.csv",32
-"TOR200410020",32,"$Posada left game with injured back","2004TOR.EVA.regular.comment.csv",33
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"TOR200404070",9,"Debut game for Simon Pond","2004TOR.EVA.regular.comment.csv",2
+"TOR200404160",38,"Debut game for Jason Frasor","2004TOR.EVA.regular.comment.csv",3
+"TOR200405080",62,"$Phelps hit the first pitch out of the park down the right field line; it was called a homer by 1B umpire Vanover but White Sox Mgr Guillen argued the call and after the umpires discussed the play it was ruled a foul ball","2004TOR.EVA.regular.comment.csv",4
+"TOR200405080",64,"$Phelps hit a real home run three pitches after the foul ball","2004TOR.EVA.regular.comment.csv",5
+"TOR200405150",12,"Debut game for Kevin Youkilis","2004TOR.EVA.regular.comment.csv",6
+"TOR200405180",67,"Mientkiewicz left game with injured back","2004TOR.EVA.regular.comment.csv",7
+"TOR200405190",45,"last two plays really one play","2004TOR.EVA.regular.comment.csv",8
+"TOR200405240",34,"$Carlos Delgado left game with injured knee","2004TOR.EVA.regular.comment.csv",9
+"TOR200405240",61,"ej,lackj001,P,reynj901,Intentional HBP ej,sciom001,M,reynj901,Intentional HBP John Lackey and Angels Manager Mike Scioscia ejected by HP umpire Jim Reynolds","2004TOR.EVA.regular.comment.csv",10
+"TOR200405240",94,"$the ball bounced off Kotchman's glove to Kennedy, who threw home; Molina ran Gomez back towards 3B, threw to Amezaga and no one covered home so Gomez ran home","2004TOR.EVA.regular.comment.csv",11
+"TOR200405270",16,"Debut game for Alexis Rios","2004TOR.EVA.regular.comment.csv",12
+"TOR200405280",40,"$fan interference","2004TOR.EVA.regular.comment.csv",13
+"TOR200406090",63,"not a GDP $Roberts was running on pitch, ball hit behind him. Short hop by first baseman who went to bag for out. Roberts was at 2nd, thought ball had been caught and that he was doubled off first.  He stepped back toward first and looked confused. Throw came to 2nd and he was tagged for 2nd out","2004TOR.EVA.regular.comment.csv",14
+"TOR200406110",60,"ej,hills002,P,fostm901,Balls and strikes Shea Hillenbrand ejected by HP umpire Marty Foster","2004TOR.EVA.regular.comment.csv",15
+"TOR200406120",52,"Debut game for Andy Green","2004TOR.EVA.regular.comment.csv",16
+"TOR200406240",63,"Debut game for Adam Peterson","2004TOR.EVA.regular.comment.csv",17
+"TOR200406260",19,"originally scored as E6 - changed on 8-20!","2004TOR.EVA.regular.comment.csv",18
+"TOR200407240",46,"ej,toscc801,M,holbs901,Call at 1B Manager Carlos Tosca ejected by 1B umpire Sam Holbrook; Tosca thought Rocco Baldelli was out for a double play and then picked off","2004TOR.EVA.regular.comment.csv",19
+"TOR200407270",25,"$Hernandez left game with injured leg","2004TOR.EVA.regular.comment.csv",20
+"TOR200407270",51,"ej,cataf001,P,darlg901,Watching replays in dugout $Blue Jays Catalanotto ejected by 1B umpire Darling for watching replays on monitor near dugout; argumemt by Blue Jays was that Rios was safe at home","2004TOR.EVA.regular.comment.csv",21
+"TOR200407270",79,"$Sheffield's 400th homer; 38th player to reach 400","2004TOR.EVA.regular.comment.csv",22
+"TOR200407280",53,"$Wilson left game with injured head","2004TOR.EVA.regular.comment.csv",23
+"TOR200408020",45,"Wells left game with injured leg","2004TOR.EVA.regular.comment.csv",24
+"TOR200408030",73,"ej,martv001,P,hudsm901,Balls and strikes $$atcher Martinez ejected by HP umpire Hudson for arguing about ball four to Menechino","2004TOR.EVA.regular.comment.csv",25
+"TOR200408040",56,"$Martinez left game with injured leg","2004TOR.EVA.regular.comment.csv",26
+"TOR200408250",32,"$Mientkiewicz left game with injured neck","2004TOR.EVA.regular.comment.csv",27
+"TOR200408260",43,"$Alexis Rios called for interference","2004TOR.EVA.regular.comment.csv",28
+"TOR200409030",11,"Debut game for Nick Swisher","2004TOR.EVA.regular.comment.csv",29
+"TOR200409030",81,"Debut game for Russ Adams","2004TOR.EVA.regular.comment.csv",30
+"TOR200409040",17,"Debut game for Guillermo Quiroz","2004TOR.EVA.regular.comment.csv",31
+"TOR200409040",84,"Debut game for Eric Crozier","2004TOR.EVA.regular.comment.csv",32
+"TOR200409050",78,"Both MLB and ESPN show no advance on 63","2004TOR.EVA.regular.comment.csv",33
+"TOR200410020",32,"$Posada left game with injured back","2004TOR.EVA.regular.comment.csv",34

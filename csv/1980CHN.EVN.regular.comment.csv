@@ -1,30 +1,31 @@
-"CHN198004220",38,"Debut game for Jesus Figueroa","FILENAME_TX","LINE_NUMBER_CT"
-"CHN198005080",45,"$Dave Kingman injured shoulder tumbling across plate","1980CHN.EVN.regular.comment.csv",2
-"CHN198005080",55,"$throw went into the stands","1980CHN.EVN.regular.comment.csv",3
-"CHN198005080",57,"$Mike Tyson did not notice Aurelio Rodriguez trying to score","1980CHN.EVN.regular.comment.csv",4
-"CHN198005240",0,"ej,forst001,P,colon901,Bench jockeying $Dodgers Forster, not in game, ejected by HP umpire Colosi sometime in game for bench jockeying","1980CHN.EVN.regular.comment.csv",5
-"CHN198005280",0,"Suspend=19800808,,3,3,60","1980CHN.EVN.regular.comment.csv",6
-"CHN198005280",90,"suspended,19800808,CHI11,darkness $game suspended here and resumed 8/8, played 3:09 to here umpchange,11,umphome,kiblj901 umpchange,11,ump1b,steld901 umpchange,11,ump2b,tatat901 umpchange,11,ump3b,froeb901","1980CHN.EVN.regular.comment.csv",7
-"CHN198005280",92,"$Bill Almon no longer with Expos","1980CHN.EVN.regular.comment.csv",8
-"CHN198006190",52,"$Dave Collins bobbled ball twice and Dave Concepcion caught it","1980CHN.EVN.regular.comment.csv",9
-"CHN198006252",63,"$Elliott Maddox called for interference","1980CHN.EVN.regular.comment.csv",10
-"CHN198006270",82,"ej,gomep101,M,monte901,Balk call ej,suttb001,P,monte901,Balk call $Ken Reitz hit balk pitch; Cubs Manager Preston Gomez and Bruce Sutter ejected by HP umpire Ed Montague","1980CHN.EVN.regular.comment.csv",11
-"CHN198006282",3,"$Bill Buckner and Keith Hernandez collide; Hernandez received stitches in chin","1980CHN.EVN.regular.comment.csv",12
-"CHN198007190",70,"ej,buckb001,P,westj901,Call at 1B Bill Buckner ejected by 1B umpire Joe West","1980CHN.EVN.regular.comment.csv",13
-"CHN198007200",64,"Debut game for Jim Tracy","1980CHN.EVN.regular.comment.csv",14
-"CHN198007210",0,"Suspend=19800722,CHI11,0,0,72","1980CHN.EVN.regular.comment.csv",15
-"CHN198007210",46,"ej,may-m001,P,pullf901,Arguing ball call ej,sadem101,P,pullf901,Arguing ball call $Giants catcher May and Mike Sadek (not in game) ejected by HP umpire Pulli for arguing ball call to Martin","1980CHN.EVN.regular.comment.csv",16
-"CHN198007210",91,"suspended,19800722,CHI11,darkness $game suspended due to darkness and completed the next day, played 3:23 to here","1980CHN.EVN.regular.comment.csv",17
-"CHN198008100",54,"ej,scotr101,P,froeb901,Balls and strikes $Expos Scott ejected by HP umpire Froemming for arguing balls and strikes from the top of inning while Johnson was at bat","1980CHN.EVN.regular.comment.csv",18
-"CHN198008100",70,"ej,martj001,P,kiblj901,Bench jockeying (Yelled at Bill Gullickson) Jerry Martin ejected by 1B umpire John Kibler for yelling at Bill Gullickson; Martin was upset about being HBP in the seventh","1980CHN.EVN.regular.comment.csv",19
-"CHN198008100",73,"ej,vailm001,P,froeb901,Called third strike Mike Vail ejected by HP umpire Bruce Froemming","1980CHN.EVN.regular.comment.csv",20
-"CHN198008110",0,"Suspend=19800812,CHI11,5,5,78","1980CHN.EVN.regular.comment.csv",21
-"CHN198008110",121,"suspended,19800812,CHI11,darkness $game suspended and resumed the next day","1980CHN.EVN.regular.comment.csv",22
-"CHN198008310",30,"ej,ashba001,P,westj901,Call at 1B (Bumped umpire) Alan Ashby ejected by 1B umpire Joe West for bumping the umpire while arguing the call at 1B","1980CHN.EVN.regular.comment.csv",23
-"CHN198009010",42,"Debut game for Lee Smith","1980CHN.EVN.regular.comment.csv",24
-"CHN198009062",1,"Debut game for Randy Martz","1980CHN.EVN.regular.comment.csv",25
-"CHN198009150",1,"Debut game for Andy Rincon","1980CHN.EVN.regular.comment.csv",26
-"CHN198009160",0,"ej,roarm101,C,harrl901,Balls and strikes $Cubs coach Roarke ejected by HP umpire Harris for arguing balls and strikes sometime in game","1980CHN.EVN.regular.comment.csv",27
-"CHN198009260",44,"Phil Garner left with strained left knee","1980CHN.EVN.regular.comment.csv",28
-"CHN198009280",51,"$on the last pitch to O'Berry, Tracy ran and was thrown out at 2B; the Pirates thought they had a strikeout and a double play; however HP umpire Jerry Crawford called the pitch ball four","1980CHN.EVN.regular.comment.csv",29
-"CHN198009280",52,"ej,tannc101,M,crawj901,Balls and strikes ej,milnj101,P,harvd901,Bench jockeying ej,parkd001,P,harvd901,Bench jockeying $Pirates manager Tanner was ejected by HP umpire Crawford for arguing about last pitch to O'Berry; Pirates Milner and Parker were ejected by 1B umpire Harvey from the bench","1980CHN.EVN.regular.comment.csv",30
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"CHN198004220",38,"Debut game for Jesus Figueroa","1980CHN.EVN.regular.comment.csv",2
+"CHN198005080",45,"$Dave Kingman injured shoulder tumbling across plate","1980CHN.EVN.regular.comment.csv",3
+"CHN198005080",55,"$throw went into the stands","1980CHN.EVN.regular.comment.csv",4
+"CHN198005080",57,"$Mike Tyson did not notice Aurelio Rodriguez trying to score","1980CHN.EVN.regular.comment.csv",5
+"CHN198005240",0,"ej,forst001,P,colon901,Bench jockeying $Dodgers Forster, not in game, ejected by HP umpire Colosi sometime in game for bench jockeying","1980CHN.EVN.regular.comment.csv",6
+"CHN198005280",0,"Suspend=19800808,,3,3,60","1980CHN.EVN.regular.comment.csv",7
+"CHN198005280",90,"suspended,19800808,CHI11,darkness $game suspended here and resumed 8/8, played 3:09 to here umpchange,11,umphome,kiblj901 umpchange,11,ump1b,steld901 umpchange,11,ump2b,tatat901 umpchange,11,ump3b,froeb901","1980CHN.EVN.regular.comment.csv",8
+"CHN198005280",92,"$Bill Almon no longer with Expos","1980CHN.EVN.regular.comment.csv",9
+"CHN198006190",52,"$Dave Collins bobbled ball twice and Dave Concepcion caught it","1980CHN.EVN.regular.comment.csv",10
+"CHN198006252",63,"$Elliott Maddox called for interference","1980CHN.EVN.regular.comment.csv",11
+"CHN198006270",82,"ej,gomep101,M,monte901,Balk call ej,suttb001,P,monte901,Balk call $Ken Reitz hit balk pitch; Cubs Manager Preston Gomez and Bruce Sutter ejected by HP umpire Ed Montague","1980CHN.EVN.regular.comment.csv",12
+"CHN198006282",3,"$Bill Buckner and Keith Hernandez collide; Hernandez received stitches in chin","1980CHN.EVN.regular.comment.csv",13
+"CHN198007190",70,"ej,buckb001,P,westj901,Call at 1B Bill Buckner ejected by 1B umpire Joe West","1980CHN.EVN.regular.comment.csv",14
+"CHN198007200",64,"Debut game for Jim Tracy","1980CHN.EVN.regular.comment.csv",15
+"CHN198007210",0,"Suspend=19800722,CHI11,0,0,72","1980CHN.EVN.regular.comment.csv",16
+"CHN198007210",46,"ej,may-m001,P,pullf901,Arguing ball call ej,sadem101,P,pullf901,Arguing ball call $Giants catcher May and Mike Sadek (not in game) ejected by HP umpire Pulli for arguing ball call to Martin","1980CHN.EVN.regular.comment.csv",17
+"CHN198007210",91,"suspended,19800722,CHI11,darkness $game suspended due to darkness and completed the next day, played 3:23 to here","1980CHN.EVN.regular.comment.csv",18
+"CHN198008100",54,"ej,scotr101,P,froeb901,Balls and strikes $Expos Scott ejected by HP umpire Froemming for arguing balls and strikes from the top of inning while Johnson was at bat","1980CHN.EVN.regular.comment.csv",19
+"CHN198008100",70,"ej,martj001,P,kiblj901,Bench jockeying (Yelled at Bill Gullickson) Jerry Martin ejected by 1B umpire John Kibler for yelling at Bill Gullickson; Martin was upset about being HBP in the seventh","1980CHN.EVN.regular.comment.csv",20
+"CHN198008100",73,"ej,vailm001,P,froeb901,Called third strike Mike Vail ejected by HP umpire Bruce Froemming","1980CHN.EVN.regular.comment.csv",21
+"CHN198008110",0,"Suspend=19800812,CHI11,5,5,78","1980CHN.EVN.regular.comment.csv",22
+"CHN198008110",121,"suspended,19800812,CHI11,darkness $game suspended and resumed the next day","1980CHN.EVN.regular.comment.csv",23
+"CHN198008310",30,"ej,ashba001,P,westj901,Call at 1B (Bumped umpire) Alan Ashby ejected by 1B umpire Joe West for bumping the umpire while arguing the call at 1B","1980CHN.EVN.regular.comment.csv",24
+"CHN198009010",42,"Debut game for Lee Smith","1980CHN.EVN.regular.comment.csv",25
+"CHN198009062",1,"Debut game for Randy Martz","1980CHN.EVN.regular.comment.csv",26
+"CHN198009150",1,"Debut game for Andy Rincon","1980CHN.EVN.regular.comment.csv",27
+"CHN198009160",0,"ej,roarm101,C,harrl901,Balls and strikes $Cubs coach Roarke ejected by HP umpire Harris for arguing balls and strikes sometime in game","1980CHN.EVN.regular.comment.csv",28
+"CHN198009260",44,"Phil Garner left with strained left knee","1980CHN.EVN.regular.comment.csv",29
+"CHN198009280",51,"$on the last pitch to O'Berry, Tracy ran and was thrown out at 2B; the Pirates thought they had a strikeout and a double play; however HP umpire Jerry Crawford called the pitch ball four","1980CHN.EVN.regular.comment.csv",30
+"CHN198009280",52,"ej,tannc101,M,crawj901,Balls and strikes ej,milnj101,P,harvd901,Bench jockeying ej,parkd001,P,harvd901,Bench jockeying $Pirates manager Tanner was ejected by HP umpire Crawford for arguing about last pitch to O'Berry; Pirates Milner and Parker were ejected by 1B umpire Harvey from the bench","1980CHN.EVN.regular.comment.csv",31

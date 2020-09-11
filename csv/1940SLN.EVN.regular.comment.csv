@@ -1,27 +1,28 @@
-"SLN194004160",19,"This was Marty Marion's major-league debut","FILENAME_TX","LINE_NUMBER_CT"
-"SLN194004160",31,"$Mize collided with Fletcher who was fielding the ball.","1940SLN.EVN.regular.comment.csv",2
-"SLN194004160",61,"This was Red Jones's major-league debut","1940SLN.EVN.regular.comment.csv",3
-"SLN194004290",91,"Bottom of 10th from 4/30 St. Louis Post-Dispatch.","1940SLN.EVN.regular.comment.csv",4
-"SLN194005020",65,"$Witek fumbled the ball which rolled to Jurges standing on 2B","1940SLN.EVN.regular.comment.csv",5
-"SLN194005030",30,"missing DP put here","1940SLN.EVN.regular.comment.csv",6
-"SLN194005090",21,"$Major League debut for Ernie White","1940SLN.EVN.regular.comment.csv",7
-"SLN194005090",26,"$Schulte was spiked on his right hand by White","1940SLN.EVN.regular.comment.csv",8
-"SLN194005090",54,"$Owen collided with Brown, who dropped the ball. Owen fell and spiked himself on the right instep.","1940SLN.EVN.regular.comment.csv",9
-"SLN194006040",23,"ej,martp103,P,barrg901,Balls and strikes Pepper Martin ejected by HP umpire George Barr","1940SLN.EVN.regular.comment.csv",10
-"SLN194006091",83,"Schumacher entered with the count 2-0 on Orengo and completed the walk, which was charged to Brown.","1940SLN.EVN.regular.comment.csv",11
-"SLN194007020",7,"This play may have been scored D9.1XH(942)","1940SLN.EVN.regular.comment.csv",12
-"SLN194007041",61,"$The pitch sailed over Owen's head, hit the backstop and ricocheted directly back to Owen at home plate.","1940SLN.EVN.regular.comment.csv",13
-"SLN194007061",69,"pbp account ends here, rest deduced","1940SLN.EVN.regular.comment.csv",14
-"SLN194007110",100,"pbp account ends here, rest deduced","1940SLN.EVN.regular.comment.csv",15
-"SLN194007211",74,"arbitrary 13 to 3/G","1940SLN.EVN.regular.comment.csv",16
-"SLN194007212",24,"arbitrary 3/G to 63","1940SLN.EVN.regular.comment.csv",17
-"SLN194008140",72,"ej,frisf101,M,campb901,Balls and strikes $PIT Manager Frisch was ejected from the game for arguing called third strike","1940SLN.EVN.regular.comment.csv",18
-"SLN194008140",95,"$Lopez hurt on foul tip","1940SLN.EVN.regular.comment.csv",19
-"SLN194008161",29,"Great stop by 2B but throw was wild to 1st","1940SLN.EVN.regular.comment.csv",20
-"SLN194008161",33,"Koy is still bothered by a boil on his knee","1940SLN.EVN.regular.comment.csv",21
-"SLN194008251",62,"$Brown held the ball to try the hidden ball trick but Shoun stepped on the rubber without the ball for the balk","1940SLN.EVN.regular.comment.csv",22
-"SLN194008252",34,"$Orengo injured his ankle","1940SLN.EVN.regular.comment.csv",23
-"SLN194009081",31,"ej,frisf101,M,barrg901,Arguing HBP non-call $A pitch hit Gustine, but after conferring, the umpires ruled that Gustine had swung, so he wasn't entitled to first base.","1940SLN.EVN.regular.comment.csv",24
-"SLN194009082",49,"Game called on account of darkness","1940SLN.EVN.regular.comment.csv",25
-"SLN194009252",31,"$Terry Moore lost the ball in the sun","1940SLN.EVN.regular.comment.csv",26
-"SLN194009290",47,"umphcange,5,ump3b,(None) $Umpire Pinelli left the field at this point to catch a train","1940SLN.EVN.regular.comment.csv",27
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"SLN194004160",19,"This was Marty Marion's major-league debut","1940SLN.EVN.regular.comment.csv",2
+"SLN194004160",31,"$Mize collided with Fletcher who was fielding the ball.","1940SLN.EVN.regular.comment.csv",3
+"SLN194004160",61,"This was Red Jones's major-league debut","1940SLN.EVN.regular.comment.csv",4
+"SLN194004290",91,"Bottom of 10th from 4/30 St. Louis Post-Dispatch.","1940SLN.EVN.regular.comment.csv",5
+"SLN194005020",65,"$Witek fumbled the ball which rolled to Jurges standing on 2B","1940SLN.EVN.regular.comment.csv",6
+"SLN194005030",30,"missing DP put here","1940SLN.EVN.regular.comment.csv",7
+"SLN194005090",21,"$Major League debut for Ernie White","1940SLN.EVN.regular.comment.csv",8
+"SLN194005090",26,"$Schulte was spiked on his right hand by White","1940SLN.EVN.regular.comment.csv",9
+"SLN194005090",54,"$Owen collided with Brown, who dropped the ball. Owen fell and spiked himself on the right instep.","1940SLN.EVN.regular.comment.csv",10
+"SLN194006040",23,"ej,martp103,P,barrg901,Balls and strikes Pepper Martin ejected by HP umpire George Barr","1940SLN.EVN.regular.comment.csv",11
+"SLN194006091",83,"Schumacher entered with the count 2-0 on Orengo and completed the walk, which was charged to Brown.","1940SLN.EVN.regular.comment.csv",12
+"SLN194007020",7,"This play may have been scored D9.1XH(942)","1940SLN.EVN.regular.comment.csv",13
+"SLN194007041",61,"$The pitch sailed over Owen's head, hit the backstop and ricocheted directly back to Owen at home plate.","1940SLN.EVN.regular.comment.csv",14
+"SLN194007061",69,"pbp account ends here, rest deduced","1940SLN.EVN.regular.comment.csv",15
+"SLN194007110",100,"pbp account ends here, rest deduced","1940SLN.EVN.regular.comment.csv",16
+"SLN194007211",74,"arbitrary 13 to 3/G","1940SLN.EVN.regular.comment.csv",17
+"SLN194007212",24,"arbitrary 3/G to 63","1940SLN.EVN.regular.comment.csv",18
+"SLN194008140",72,"ej,frisf101,M,campb901,Balls and strikes $PIT Manager Frisch was ejected from the game for arguing called third strike","1940SLN.EVN.regular.comment.csv",19
+"SLN194008140",95,"$Lopez hurt on foul tip","1940SLN.EVN.regular.comment.csv",20
+"SLN194008161",29,"Great stop by 2B but throw was wild to 1st","1940SLN.EVN.regular.comment.csv",21
+"SLN194008161",33,"Koy is still bothered by a boil on his knee","1940SLN.EVN.regular.comment.csv",22
+"SLN194008251",62,"$Brown held the ball to try the hidden ball trick but Shoun stepped on the rubber without the ball for the balk","1940SLN.EVN.regular.comment.csv",23
+"SLN194008252",34,"$Orengo injured his ankle","1940SLN.EVN.regular.comment.csv",24
+"SLN194009081",31,"ej,frisf101,M,barrg901,Arguing HBP non-call $A pitch hit Gustine, but after conferring, the umpires ruled that Gustine had swung, so he wasn't entitled to first base.","1940SLN.EVN.regular.comment.csv",25
+"SLN194009082",49,"Game called on account of darkness","1940SLN.EVN.regular.comment.csv",26
+"SLN194009252",31,"$Terry Moore lost the ball in the sun","1940SLN.EVN.regular.comment.csv",27
+"SLN194009290",47,"umphcange,5,ump3b,(None) $Umpire Pinelli left the field at this point to catch a train","1940SLN.EVN.regular.comment.csv",28

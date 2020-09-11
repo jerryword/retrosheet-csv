@@ -1,35 +1,36 @@
-"PIT196104240",70,"$argument at HP when Gino Cimoli ruled safe","FILENAME_TX","LINE_NUMBER_CT"
-"PIT196105050",20,"$Willie Davis had to hold at 2B on bloop","1961PIT.EVN.regular.comment.csv",2
-"PIT196105060",40,"$John Roseboro let the ball roll","1961PIT.EVN.regular.comment.csv",3
-"PIT196105100",61,"ej,clemr101,P,secof101,Interference call (Threw helmet) $Roberto Clemente called for interference for running out of the baseline; Clemente ejected by 1B umpire Frank Secory for throwing his helmet","1961PIT.EVN.regular.comment.csv",4
-"PIT196105130",21,"$off light tower in CF","1961PIT.EVN.regular.comment.csv",5
-"PIT196105140",30,"ej,burgs101,P,burkk101,Called third strike Smoky Burgess ejected by HP umpire Ken Burkhart","1961PIT.EVN.regular.comment.csv",6
-"PIT196105160",37,"Vern Law left with tight shoulder","1961PIT.EVN.regular.comment.csv",7
-"PIT196105160",47,"450 feet","1961PIT.EVN.regular.comment.csv",8
-"PIT196106010",38,"ej,burdl101,P,jackb901,Throwing at batter Lew Burdette ejected by HP umpire Bill Jackowski for throwing at Roberto Clemente","1961PIT.EVN.regular.comment.csv",9
-"PIT196106010",51,"$Joe Torre rounded 1B too far","1961PIT.EVN.regular.comment.csv",10
-"PIT196106010",64,"Game called after 34 minute rain delay","1961PIT.EVN.regular.comment.csv",11
-"PIT196106030",27,"ej,herrp101,P,venzt901,Called third strike Pancho Herrera ejected by HP umpire Tony Venzon","1961PIT.EVN.regular.comment.csv",12
-"PIT196106030",58,"ej,clemr101,P,sudoe901,Call at 1B Roberto Clemente ejected by 1B umpire Ed Sudol","1961PIT.EVN.regular.comment.csv",13
-"PIT196106181",15,"Debut game for Don Leppert","1961PIT.EVN.regular.comment.csv",14
-"PIT196106251",70,"$Bill Mazeroski rounded 1B too far","1961PIT.EVN.regular.comment.csv",15
-"PIT196106280",23,"ej,willm102,P,lands901,Called third strike ej,snidd101,P,lands901,Bench jockeying Maury Wills and Duke Snider ejected by HP umpire Stan Landes","1961PIT.EVN.regular.comment.csv",16
-"PIT196107010",68,"$Sam Jones called for interference for running into his own bunt","1961PIT.EVN.regular.comment.csv",17
-"PIT196107021",51,"Debut game for Al McBean","1961PIT.EVN.regular.comment.csv",18
-"PIT196107022",65,"game called after 33 minute rain delay","1961PIT.EVN.regular.comment.csv",19
-"PIT196107200",8,"Dick Bertell left with sprained ankle","1961PIT.EVN.regular.comment.csv",20
-"PIT196107210",60,"$Eddie Mathews in rundown; Dick Stuart dropped the ball twice and threw wildly as Mathews dove safely back into 1B","1961PIT.EVN.regular.comment.csv",21
-"PIT196107210",75,"$great catch in the Pirates bullpen; the Pirates claimed the ball was dropped; throw to 2B appeared to double off Dick Groat, but ruling was he called time and stepped off base","1961PIT.EVN.regular.comment.csv",22
-"PIT196107231",0,"$umpire Tony Venzon hospitalized and missed game","1961PIT.EVN.regular.comment.csv",23
-"PIT196107232",0,"$umpire Mel Steiner arrived from Philadelphia to fill in for Tony Venzon, who was hospitalized","1961PIT.EVN.regular.comment.csv",24
-"PIT196107250",3,"$Felipe Alou injured on play at 2B","1961PIT.EVN.regular.comment.csv",25
-"PIT196108110",52,"game called due to rain after 48 minute delay","1961PIT.EVN.regular.comment.csv",26
-"PIT196108230",26,"$Bill Mazeroski missed 2B bag and made low throw to 1B","1961PIT.EVN.regular.comment.csv",27
-"PIT196108230",27,"$Joe Adcock grounded sharply to SS and Eddie Mathews returned to 2B as Dick Groat threw to Bill Mazeroski; Mazeroski tried to tag Mathews for the double play; Mathews was safe because Mazeroski removed the force by touching 2B before the tag; Mathews returned to 2B because he forgot Henry Aaron was on 1B","1961PIT.EVN.regular.comment.csv",28
-"PIT196108240",33,"$Warren Spahn rounded 1B too far","1961PIT.EVN.regular.comment.csv",29
-"PIT196108250",39,"$missed squeeze","1961PIT.EVN.regular.comment.csv",30
-"PIT196108290",13,"ej,hoakd101,P,forma901,Called third strike Don Hoak ejected by HP umpire Al Forman","1961PIT.EVN.regular.comment.csv",31
-"PIT196108300",1,"dropped throw; need assist","1961PIT.EVN.regular.comment.csv",32
-"PIT196109180",1,"Debut game for Larry Foss","1961PIT.EVN.regular.comment.csv",33
-"PIT196109290",15,"Darrell Johnson left with strained muscle in his right side","1961PIT.EVN.regular.comment.csv",34
-"PIT196109290",75,"ej,lyncj102,P,lands901,Called third strike Jerry Lynch ejected by HP umpire Stan Landes","1961PIT.EVN.regular.comment.csv",35
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"PIT196104240",70,"$argument at HP when Gino Cimoli ruled safe","1961PIT.EVN.regular.comment.csv",2
+"PIT196105050",20,"$Willie Davis had to hold at 2B on bloop","1961PIT.EVN.regular.comment.csv",3
+"PIT196105060",40,"$John Roseboro let the ball roll","1961PIT.EVN.regular.comment.csv",4
+"PIT196105100",61,"ej,clemr101,P,secof101,Interference call (Threw helmet) $Roberto Clemente called for interference for running out of the baseline; Clemente ejected by 1B umpire Frank Secory for throwing his helmet","1961PIT.EVN.regular.comment.csv",5
+"PIT196105130",21,"$off light tower in CF","1961PIT.EVN.regular.comment.csv",6
+"PIT196105140",30,"ej,burgs101,P,burkk101,Called third strike Smoky Burgess ejected by HP umpire Ken Burkhart","1961PIT.EVN.regular.comment.csv",7
+"PIT196105160",37,"Vern Law left with tight shoulder","1961PIT.EVN.regular.comment.csv",8
+"PIT196105160",47,"450 feet","1961PIT.EVN.regular.comment.csv",9
+"PIT196106010",38,"ej,burdl101,P,jackb901,Throwing at batter Lew Burdette ejected by HP umpire Bill Jackowski for throwing at Roberto Clemente","1961PIT.EVN.regular.comment.csv",10
+"PIT196106010",51,"$Joe Torre rounded 1B too far","1961PIT.EVN.regular.comment.csv",11
+"PIT196106010",64,"Game called after 34 minute rain delay","1961PIT.EVN.regular.comment.csv",12
+"PIT196106030",27,"ej,herrp101,P,venzt901,Called third strike Pancho Herrera ejected by HP umpire Tony Venzon","1961PIT.EVN.regular.comment.csv",13
+"PIT196106030",58,"ej,clemr101,P,sudoe901,Call at 1B Roberto Clemente ejected by 1B umpire Ed Sudol","1961PIT.EVN.regular.comment.csv",14
+"PIT196106181",15,"Debut game for Don Leppert","1961PIT.EVN.regular.comment.csv",15
+"PIT196106251",70,"$Bill Mazeroski rounded 1B too far","1961PIT.EVN.regular.comment.csv",16
+"PIT196106280",23,"ej,willm102,P,lands901,Called third strike ej,snidd101,P,lands901,Bench jockeying Maury Wills and Duke Snider ejected by HP umpire Stan Landes","1961PIT.EVN.regular.comment.csv",17
+"PIT196107010",68,"$Sam Jones called for interference for running into his own bunt","1961PIT.EVN.regular.comment.csv",18
+"PIT196107021",51,"Debut game for Al McBean","1961PIT.EVN.regular.comment.csv",19
+"PIT196107022",65,"game called after 33 minute rain delay","1961PIT.EVN.regular.comment.csv",20
+"PIT196107200",8,"Dick Bertell left with sprained ankle","1961PIT.EVN.regular.comment.csv",21
+"PIT196107210",60,"$Eddie Mathews in rundown; Dick Stuart dropped the ball twice and threw wildly as Mathews dove safely back into 1B","1961PIT.EVN.regular.comment.csv",22
+"PIT196107210",75,"$great catch in the Pirates bullpen; the Pirates claimed the ball was dropped; throw to 2B appeared to double off Dick Groat, but ruling was he called time and stepped off base","1961PIT.EVN.regular.comment.csv",23
+"PIT196107231",0,"$umpire Tony Venzon hospitalized and missed game","1961PIT.EVN.regular.comment.csv",24
+"PIT196107232",0,"$umpire Mel Steiner arrived from Philadelphia to fill in for Tony Venzon, who was hospitalized","1961PIT.EVN.regular.comment.csv",25
+"PIT196107250",3,"$Felipe Alou injured on play at 2B","1961PIT.EVN.regular.comment.csv",26
+"PIT196108110",52,"game called due to rain after 48 minute delay","1961PIT.EVN.regular.comment.csv",27
+"PIT196108230",26,"$Bill Mazeroski missed 2B bag and made low throw to 1B","1961PIT.EVN.regular.comment.csv",28
+"PIT196108230",27,"$Joe Adcock grounded sharply to SS and Eddie Mathews returned to 2B as Dick Groat threw to Bill Mazeroski; Mazeroski tried to tag Mathews for the double play; Mathews was safe because Mazeroski removed the force by touching 2B before the tag; Mathews returned to 2B because he forgot Henry Aaron was on 1B","1961PIT.EVN.regular.comment.csv",29
+"PIT196108240",33,"$Warren Spahn rounded 1B too far","1961PIT.EVN.regular.comment.csv",30
+"PIT196108250",39,"$missed squeeze","1961PIT.EVN.regular.comment.csv",31
+"PIT196108290",13,"ej,hoakd101,P,forma901,Called third strike Don Hoak ejected by HP umpire Al Forman","1961PIT.EVN.regular.comment.csv",32
+"PIT196108300",1,"dropped throw; need assist","1961PIT.EVN.regular.comment.csv",33
+"PIT196109180",1,"Debut game for Larry Foss","1961PIT.EVN.regular.comment.csv",34
+"PIT196109290",15,"Darrell Johnson left with strained muscle in his right side","1961PIT.EVN.regular.comment.csv",35
+"PIT196109290",75,"ej,lyncj102,P,lands901,Called third strike Jerry Lynch ejected by HP umpire Stan Landes","1961PIT.EVN.regular.comment.csv",36

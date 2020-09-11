@@ -1,32 +1,33 @@
-"CIN196804100",10,"Debut game for Jose Arcia","FILENAME_TX","LINE_NUMBER_CT"
-"CIN196804100",23,"43 minute rain delay","1968CIN.EVN.regular.comment.csv",2
-"CIN196804110",29,"$Pete Rose cut his hand attempting to catch Fergie Jenkins home run in the third","1968CIN.EVN.regular.comment.csv",3
-"CIN196804170",80,"ej,brisd801,M,lands901,Arguing automatic ball $Reds manager Bristol ejected by HP umpire Landes after automatic ball called when pitcher wet his fingers while on the mound sometime in 10th inning","1968CIN.EVN.regular.comment.csv",4
-"CIN196804260",9,"$Alex Johnson faked a steal attemp of 2B; Pete Rose scored on throw","1968CIN.EVN.regular.comment.csv",5
-"CIN196804270",43,"Ed Charles's throw home hit Mack Jones","1968CIN.EVN.regular.comment.csv",6
-"CIN196805060",16,"$John Briggs fell down while catching the ball, which struck his glove; Bench ruled out; after an argument and an umpire huddle, the callwas reversed","1968CIN.EVN.regular.comment.csv",7
-"CIN196805060",59,"Debut game for Larry Colton","1968CIN.EVN.regular.comment.csv",8
-"CIN196805250",95,"ej,may-j101,P,wendh901,Balls and strikes Jerry May ejected by HP umpire Harry Wendelstedt arguing balls and strikes in the bottom of the eleventh","1968CIN.EVN.regular.comment.csv",9
-"CIN196805260",29,"$Mel Queen left with arm injury","1968CIN.EVN.regular.comment.csv",10
-"CIN196805260",73,"$game called due to rain in the top of the eighth; the partial inning that was played was nullified; Willie Stargell doubled and scored on Roberto Clemente's single; Gary Nolan entered the game, pitching and batting sixth; Chico Ruiz batted ninth, playing 3B; Clemente stole 2B but with a 2-2 count on Donn Clendenon, there was a 54 minute rain delay","1968CIN.EVN.regular.comment.csv",11
-"CIN196806070",13,"Dick Hughes left with arm trouble","1968CIN.EVN.regular.comment.csv",12
-"CIN196806210",0,"$George Culver 85 pitches; Joe Niekro 108 pitches","1968CIN.EVN.regular.comment.csv",13
-"CIN196806220",0,"$Jim Maloney 113 pitches; Bill Hands 106 pitches","1968CIN.EVN.regular.comment.csv",14
-"CIN196806231",0,"$Tony Cloninger 77 pitches; Ken Holtzman 82 pitches","1968CIN.EVN.regular.comment.csv",15
-"CIN196806231",32,"ej,brisd801,M,weyel901,Appeal play (Threw cap) $Alex Johnson out on appeal for leaving 1B too soon; Reds Manager Dave Bristol ejected by 1B umpire Lee Weyer","1968CIN.EVN.regular.comment.csv",16
-"CIN196806231",68,"umpchange,8,umphome,willb901 umpchange,8,ump2b,(None) $HP umpire Ed Sudol left with unknown injury; 2B umpire Bill Williams moved to HP","1968CIN.EVN.regular.comment.csv",17
-"CIN196806232",0,"$Fergie Jenkins 135 pitches; Billy McCool 35 pitches","1968CIN.EVN.regular.comment.csv",18
-"CIN196807110",15,"Debut game for Hal McRae","1968CIN.EVN.regular.comment.csv",19
-"CIN196807141",90,"Debut game for Steve Shea","1968CIN.EVN.regular.comment.csv",20
-"CIN196807142",24,"$Don Wilson struck out eight consecutive batters","1968CIN.EVN.regular.comment.csv",21
-"CIN196807160",77,"ej,fairr101,P,engeb901,Balls and strikes Ron Fairly ejected by HP umpire Bob Engel","1968CIN.EVN.regular.comment.csv",22
-"CIN196807170",77,"$Jim Lefebvre called for obstruction","1968CIN.EVN.regular.comment.csv",23
-"CIN196807210",65,"ej,bencj101,P,kiblj901,Called third strike (flipped bat) ej,brisd801,M,kiblj901,Called third strike $Bench and Reds manager Bristol ejected by HP umpire Kibler for arguing strike 3; Bench flipped bat","1968CIN.EVN.regular.comment.csv",24
-"CIN196808100",0,"$Joe Niekro 80 pitches; Gerry Arrigo 76 pitches","1968CIN.EVN.regular.comment.csv",25
-"CIN196808110",0,"$Jim Maloney 79 pitches; Ken Holtzman 110 pitches","1968CIN.EVN.regular.comment.csv",26
-"CIN196808130",36,"ej,harrl101,M,wendh901,Call at 1B Braves Manager Lum Harris ejected by 1B umpire Harry Wendelstedt","1968CIN.EVN.regular.comment.csv",27
-"CIN196809030",71,"ej,johna104,P,wendh901,Called strike 3 $Johnson ejected by HP umpire Wendelstedt for arguing strike 3","1968CIN.EVN.regular.comment.csv",28
-"CIN196809030",84,"Debut game for Dan McGinn","1968CIN.EVN.regular.comment.csv",29
-"CIN196809062",47,"ej,brisd801,M,sudoe901,Call at 2B Reds Manager Dave Bristol ejected by 2B umpire Ed Sudol","1968CIN.EVN.regular.comment.csv",30
-"CIN196809102",9,"Debut game for John Mayberry","1968CIN.EVN.regular.comment.csv",31
-"CIN196809102",27,"47 minute rain delay","1968CIN.EVN.regular.comment.csv",32
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"CIN196804100",10,"Debut game for Jose Arcia","1968CIN.EVN.regular.comment.csv",2
+"CIN196804100",23,"43 minute rain delay","1968CIN.EVN.regular.comment.csv",3
+"CIN196804110",29,"$Pete Rose cut his hand attempting to catch Fergie Jenkins home run in the third","1968CIN.EVN.regular.comment.csv",4
+"CIN196804170",80,"ej,brisd801,M,lands901,Arguing automatic ball $Reds manager Bristol ejected by HP umpire Landes after automatic ball called when pitcher wet his fingers while on the mound sometime in 10th inning","1968CIN.EVN.regular.comment.csv",5
+"CIN196804260",9,"$Alex Johnson faked a steal attemp of 2B; Pete Rose scored on throw","1968CIN.EVN.regular.comment.csv",6
+"CIN196804270",43,"Ed Charles's throw home hit Mack Jones","1968CIN.EVN.regular.comment.csv",7
+"CIN196805060",16,"$John Briggs fell down while catching the ball, which struck his glove; Bench ruled out; after an argument and an umpire huddle, the callwas reversed","1968CIN.EVN.regular.comment.csv",8
+"CIN196805060",59,"Debut game for Larry Colton","1968CIN.EVN.regular.comment.csv",9
+"CIN196805250",95,"ej,may-j101,P,wendh901,Balls and strikes Jerry May ejected by HP umpire Harry Wendelstedt arguing balls and strikes in the bottom of the eleventh","1968CIN.EVN.regular.comment.csv",10
+"CIN196805260",29,"$Mel Queen left with arm injury","1968CIN.EVN.regular.comment.csv",11
+"CIN196805260",73,"$game called due to rain in the top of the eighth; the partial inning that was played was nullified; Willie Stargell doubled and scored on Roberto Clemente's single; Gary Nolan entered the game, pitching and batting sixth; Chico Ruiz batted ninth, playing 3B; Clemente stole 2B but with a 2-2 count on Donn Clendenon, there was a 54 minute rain delay","1968CIN.EVN.regular.comment.csv",12
+"CIN196806070",13,"Dick Hughes left with arm trouble","1968CIN.EVN.regular.comment.csv",13
+"CIN196806210",0,"$George Culver 85 pitches; Joe Niekro 108 pitches","1968CIN.EVN.regular.comment.csv",14
+"CIN196806220",0,"$Jim Maloney 113 pitches; Bill Hands 106 pitches","1968CIN.EVN.regular.comment.csv",15
+"CIN196806231",0,"$Tony Cloninger 77 pitches; Ken Holtzman 82 pitches","1968CIN.EVN.regular.comment.csv",16
+"CIN196806231",32,"ej,brisd801,M,weyel901,Appeal play (Threw cap) $Alex Johnson out on appeal for leaving 1B too soon; Reds Manager Dave Bristol ejected by 1B umpire Lee Weyer","1968CIN.EVN.regular.comment.csv",17
+"CIN196806231",68,"umpchange,8,umphome,willb901 umpchange,8,ump2b,(None) $HP umpire Ed Sudol left with unknown injury; 2B umpire Bill Williams moved to HP","1968CIN.EVN.regular.comment.csv",18
+"CIN196806232",0,"$Fergie Jenkins 135 pitches; Billy McCool 35 pitches","1968CIN.EVN.regular.comment.csv",19
+"CIN196807110",15,"Debut game for Hal McRae","1968CIN.EVN.regular.comment.csv",20
+"CIN196807141",90,"Debut game for Steve Shea","1968CIN.EVN.regular.comment.csv",21
+"CIN196807142",24,"$Don Wilson struck out eight consecutive batters","1968CIN.EVN.regular.comment.csv",22
+"CIN196807160",77,"ej,fairr101,P,engeb901,Balls and strikes Ron Fairly ejected by HP umpire Bob Engel","1968CIN.EVN.regular.comment.csv",23
+"CIN196807170",77,"$Jim Lefebvre called for obstruction","1968CIN.EVN.regular.comment.csv",24
+"CIN196807210",65,"ej,bencj101,P,kiblj901,Called third strike (flipped bat) ej,brisd801,M,kiblj901,Called third strike $Bench and Reds manager Bristol ejected by HP umpire Kibler for arguing strike 3; Bench flipped bat","1968CIN.EVN.regular.comment.csv",25
+"CIN196808100",0,"$Joe Niekro 80 pitches; Gerry Arrigo 76 pitches","1968CIN.EVN.regular.comment.csv",26
+"CIN196808110",0,"$Jim Maloney 79 pitches; Ken Holtzman 110 pitches","1968CIN.EVN.regular.comment.csv",27
+"CIN196808130",36,"ej,harrl101,M,wendh901,Call at 1B Braves Manager Lum Harris ejected by 1B umpire Harry Wendelstedt","1968CIN.EVN.regular.comment.csv",28
+"CIN196809030",71,"ej,johna104,P,wendh901,Called strike 3 $Johnson ejected by HP umpire Wendelstedt for arguing strike 3","1968CIN.EVN.regular.comment.csv",29
+"CIN196809030",84,"Debut game for Dan McGinn","1968CIN.EVN.regular.comment.csv",30
+"CIN196809062",47,"ej,brisd801,M,sudoe901,Call at 2B Reds Manager Dave Bristol ejected by 2B umpire Ed Sudol","1968CIN.EVN.regular.comment.csv",31
+"CIN196809102",9,"Debut game for John Mayberry","1968CIN.EVN.regular.comment.csv",32
+"CIN196809102",27,"47 minute rain delay","1968CIN.EVN.regular.comment.csv",33

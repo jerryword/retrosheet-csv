@@ -1,19 +1,20 @@
-"ATL199304100",70,"$Jody Reed grounded out to first but the play was waved off as 1B umpire Steve Rippley had called a balk on Jay Howell for not stopping in the stretch","FILENAME_TX","LINE_NUMBER_CT"
-"ATL199304100",71,"ej,cox-b103,M,ripps901,Balk call Braves manager Bobby Cox ejected by 1B umpire Steve Rippley for yelling about the balk call from the dugout","1993ATL.EVN.regular.comment.csv",2
-"ATL199304120",50,"Debut game for Greg McMichael","1993ATL.EVN.regular.comment.csv",3
-"ATL199304280",19,"ej,cox-b103,M,grege901,Call at 1B $Braves manager Cox ejected by 1B umpire Gregg for arguing Hammond was out at 1st","1993ATL.EVN.regular.comment.csv",4
-"ATL199304300",11,"Debut game for Tony Tarasco","1993ATL.EVN.regular.comment.csv",5
-"ATL199305020",73,"$Tracy Woodson called for interference","1993ATL.EVN.regular.comment.csv",6
-"ATL199305140",67,"ej,fregj101,M,rapue901,Catch/trap $Phillies manager Fregosi ejected by 2B umpire Rapuano for arguing Dykstra caught Lemke's liner","1993ATL.EVN.regular.comment.csv",7
-"ATL199305290",1,"Debut game for Greg Brummett","1993ATL.EVN.regular.comment.csv",8
-"ATL199305290",23,"$Willie McGee called for interference","1993ATL.EVN.regular.comment.csv",9
-"ATL199306030",77,"ej,shipc001,P,darlg901,Called third strike Craig Shipley ejected by HP umpire Gary Darling","1993ATL.EVN.regular.comment.csv",10
-"ATL199306130",40,"$Jeff Blauser called for interference","1993ATL.EVN.regular.comment.csv",11
-"ATL199307050",62,"ej,lachr101,M,wendh901,Call at 1B $Marlins manager Lachemann ejected by 1B umpire Wendelstedt for arguing Pendleton was out at 1st","1993ATL.EVN.regular.comment.csv",12
-"ATL199307160",66,"ej,leylj801,M,wintm901,Call at 1B ej,sandt101,C,wintm901,Call at 1B $Pirates manager Leyland and coach Sandt ejected by 1B umpire Winters for arguing Slaught was safe at 1st","1993ATL.EVN.regular.comment.csv",13
-"ATL199308030",17,"ej,cox-b103,M,vanol901,Balls and strikes $Braves manager Cox ejected by HP umpire Vanover for arguing balls and strikes after Dykstra walked","1993ATL.EVN.regular.comment.csv",14
-"ATL199308050",52,"ej,dauld001,P,marsr901,Balls and strikes $Catcher Daulton ejected by HP umpire Marsh for arguing balls and strikes while Justice at bat","1993ATL.EVN.regular.comment.csv",15
-"ATL199308070",64,"ej,walkl001,P,poncl901,Checked swing Larry Walker ejected by HP umpire Larry Poncino arguing a checked swing","1993ATL.EVN.regular.comment.csv",16
-"ATL199309150",11,"Debut game for Keith Kessinger","1993ATL.EVN.regular.comment.csv",17
-"ATL199309180",20,"ej,murre001,P,bonig901,Called third strike Eddie Murray ejected by HP umpire Greg Bonin","1993ATL.EVN.regular.comment.csv",18
-"ATL199309190",61,"ej,greed101,M,davig901,Balls and strikes ej,stotm101,C,davig901,Balls and strikes $Mets manager Green and coach Stottlemyre ejected by HP umpire Davis for arguing balls and strikes after Pendleton walked","1993ATL.EVN.regular.comment.csv",19
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"ATL199304100",70,"$Jody Reed grounded out to first but the play was waved off as 1B umpire Steve Rippley had called a balk on Jay Howell for not stopping in the stretch","1993ATL.EVN.regular.comment.csv",2
+"ATL199304100",71,"ej,cox-b103,M,ripps901,Balk call Braves manager Bobby Cox ejected by 1B umpire Steve Rippley for yelling about the balk call from the dugout","1993ATL.EVN.regular.comment.csv",3
+"ATL199304120",50,"Debut game for Greg McMichael","1993ATL.EVN.regular.comment.csv",4
+"ATL199304280",19,"ej,cox-b103,M,grege901,Call at 1B $Braves manager Cox ejected by 1B umpire Gregg for arguing Hammond was out at 1st","1993ATL.EVN.regular.comment.csv",5
+"ATL199304300",11,"Debut game for Tony Tarasco","1993ATL.EVN.regular.comment.csv",6
+"ATL199305020",73,"$Tracy Woodson called for interference","1993ATL.EVN.regular.comment.csv",7
+"ATL199305140",67,"ej,fregj101,M,rapue901,Catch/trap $Phillies manager Fregosi ejected by 2B umpire Rapuano for arguing Dykstra caught Lemke's liner","1993ATL.EVN.regular.comment.csv",8
+"ATL199305290",1,"Debut game for Greg Brummett","1993ATL.EVN.regular.comment.csv",9
+"ATL199305290",23,"$Willie McGee called for interference","1993ATL.EVN.regular.comment.csv",10
+"ATL199306030",77,"ej,shipc001,P,darlg901,Called third strike Craig Shipley ejected by HP umpire Gary Darling","1993ATL.EVN.regular.comment.csv",11
+"ATL199306130",40,"$Jeff Blauser called for interference","1993ATL.EVN.regular.comment.csv",12
+"ATL199307050",62,"ej,lachr101,M,wendh901,Call at 1B $Marlins manager Lachemann ejected by 1B umpire Wendelstedt for arguing Pendleton was out at 1st","1993ATL.EVN.regular.comment.csv",13
+"ATL199307160",66,"ej,leylj801,M,wintm901,Call at 1B ej,sandt101,C,wintm901,Call at 1B $Pirates manager Leyland and coach Sandt ejected by 1B umpire Winters for arguing Slaught was safe at 1st","1993ATL.EVN.regular.comment.csv",14
+"ATL199308030",17,"ej,cox-b103,M,vanol901,Balls and strikes $Braves manager Cox ejected by HP umpire Vanover for arguing balls and strikes after Dykstra walked","1993ATL.EVN.regular.comment.csv",15
+"ATL199308050",52,"ej,dauld001,P,marsr901,Balls and strikes $Catcher Daulton ejected by HP umpire Marsh for arguing balls and strikes while Justice at bat","1993ATL.EVN.regular.comment.csv",16
+"ATL199308070",64,"ej,walkl001,P,poncl901,Checked swing Larry Walker ejected by HP umpire Larry Poncino arguing a checked swing","1993ATL.EVN.regular.comment.csv",17
+"ATL199309150",11,"Debut game for Keith Kessinger","1993ATL.EVN.regular.comment.csv",18
+"ATL199309180",20,"ej,murre001,P,bonig901,Called third strike Eddie Murray ejected by HP umpire Greg Bonin","1993ATL.EVN.regular.comment.csv",19
+"ATL199309190",61,"ej,greed101,M,davig901,Balls and strikes ej,stotm101,C,davig901,Balls and strikes $Mets manager Green and coach Stottlemyre ejected by HP umpire Davis for arguing balls and strikes after Pendleton walked","1993ATL.EVN.regular.comment.csv",20

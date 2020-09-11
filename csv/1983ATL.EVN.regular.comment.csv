@@ -1,38 +1,39 @@
-"ATL198304100",1,"Debut game for Craig McMurtry","FILENAME_TX","LINE_NUMBER_CT"
-"ATL198304120",1,"Debut game for Rick Behenna","1983ATL.EVN.regular.comment.csv",2
-"ATL198304120",46,"DWS: this is my best guess at this DP","1983ATL.EVN.regular.comment.csv",3
-"ATL198305080",51,"Brett Butler rounded 2B too far","1983ATL.EVN.regular.comment.csv",4
-"ATL198305100",38,"ej,washc001,P,marsr901,Charging mound after knockdown $Scott Sanderson threw a knockdown pitch at Claudell Washington, who charged the mound and was ejected by HP umpire Randy Marsh; Washington had homered earlier","1983ATL.EVN.regular.comment.csv",5
-"ATL198305250",34,"$seven consecutive walks sets NL record, ties ML record","1983ATL.EVN.regular.comment.csv",6
-"ATL198306020",72,"$the ball hit the rosin bag and deflected to Glenn Hubbard","1983ATL.EVN.regular.comment.csv",7
-"ATL198306040",0,"Debut for umpire Scott Grinder","1983ATL.EVN.regular.comment.csv",8
-"ATL198306040",71,"Debut game for Kevin Hagen","1983ATL.EVN.regular.comment.csv",9
-"ATL198306050",0,"1:28 minute rain delay before game","1983ATL.EVN.regular.comment.csv",10
-"ATL198306050",20,"ej,herzw101,M,wendh901,Arguing for balk call Cardinals manager Whitey Herzog ejected by HP umpire Harry Wendelstedt arguing that Phil Niekro was balking on his pick off attempts to 1B; Lonnie Smith pick off after the ejection","1983ATL.EVN.regular.comment.csv",11
-"ATL198306070",6,"$Claudell Washington called for interference","1983ATL.EVN.regular.comment.csv",12
-"ATL198306090",36,"are these bunts?","1983ATL.EVN.regular.comment.csv",13
-"ATL198306300",32,"$home runs by Ray Knight and Bill Doran on consecutive pitches","1983ATL.EVN.regular.comment.csv",14
-"ATL198307010",11,"$ball hit wall and rebounded almost to infield","1983ATL.EVN.regular.comment.csv",15
-"ATL198307170",1,"Debut game for Greg Bargar","1983ATL.EVN.regular.comment.csv",16
-"ATL198307220",51,"DWS: bunt presumed","1983ATL.EVN.regular.comment.csv",17
-"ATL198307230",39,"DWS: bunt presumed","1983ATL.EVN.regular.comment.csv",18
-"ATL198308110",10,"Debut game for Gerald Perry","1983ATL.EVN.regular.comment.csv",19
-"ATL198308140",46,"Debut game for Brad Komminsk","1983ATL.EVN.regular.comment.csv",20
-"ATL198308300",67,"Jody Davis substitution may be in 9th","1983ATL.EVN.regular.comment.csv",21
-"ATL198308310",14,"WP may be with Ozzie at bat","1983ATL.EVN.regular.comment.csv",22
-"ATL198308310",39,"31 minute rain delay","1983ATL.EVN.regular.comment.csv",23
-"ATL198308310",42,"$bad hop over Glenn Hubbard's head","1983ATL.EVN.regular.comment.csv",24
-"ATL198308310",74,"$the ball fell between David Green and Willie McGee","1983ATL.EVN.regular.comment.csv",25
-"ATL198309010",8,"$Randy Johnson stole 2B when Darrell Porter flipped ball back to Neil Allen after catching the foul popup","1983ATL.EVN.regular.comment.csv",26
-"ATL198309010",17,"$the ball caromed off Pascual Perez' chest","1983ATL.EVN.regular.comment.csv",27
-"ATL198309010",47,"$Claudell Washington caught the ball over the top of the wall","1983ATL.EVN.regular.comment.csv",28
-"ATL198309010",78,"Gerald Perry called for interference for running into his own batted ball","1983ATL.EVN.regular.comment.csv",29
-"ATL198309020",62,"Debut game for Jeff Dedmon","1983ATL.EVN.regular.comment.csv",30
-"ATL198309030",67,"Debut game for Ron Wotus","1983ATL.EVN.regular.comment.csv",31
-"ATL198309050",9,"SB and PB possibly on same pitch??","1983ATL.EVN.regular.comment.csv",32
-"ATL198309160",51,"Debut game for Dennis Rasmussen","1983ATL.EVN.regular.comment.csv",33
-"ATL198309160",71,"missing fielding credit in ATL198309160","1983ATL.EVN.regular.comment.csv",34
-"ATL198309220",53,"DWS: unclear why there is no CS here, but officials say no","1983ATL.EVN.regular.comment.csv",35
-"ATL198309230",3,"SB and WP possibly on same play","1983ATL.EVN.regular.comment.csv",36
-"ATL198309250",68,"CS may be later","1983ATL.EVN.regular.comment.csv",37
-"ATL198309260",2,"DWS: Braves have 263, Giants 163","1983ATL.EVN.regular.comment.csv",38
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"ATL198304100",1,"Debut game for Craig McMurtry","1983ATL.EVN.regular.comment.csv",2
+"ATL198304120",1,"Debut game for Rick Behenna","1983ATL.EVN.regular.comment.csv",3
+"ATL198304120",46,"DWS: this is my best guess at this DP","1983ATL.EVN.regular.comment.csv",4
+"ATL198305080",51,"Brett Butler rounded 2B too far","1983ATL.EVN.regular.comment.csv",5
+"ATL198305100",38,"ej,washc001,P,marsr901,Charging mound after knockdown $Scott Sanderson threw a knockdown pitch at Claudell Washington, who charged the mound and was ejected by HP umpire Randy Marsh; Washington had homered earlier","1983ATL.EVN.regular.comment.csv",6
+"ATL198305250",34,"$seven consecutive walks sets NL record, ties ML record","1983ATL.EVN.regular.comment.csv",7
+"ATL198306020",72,"$the ball hit the rosin bag and deflected to Glenn Hubbard","1983ATL.EVN.regular.comment.csv",8
+"ATL198306040",0,"Debut for umpire Scott Grinder","1983ATL.EVN.regular.comment.csv",9
+"ATL198306040",71,"Debut game for Kevin Hagen","1983ATL.EVN.regular.comment.csv",10
+"ATL198306050",0,"1:28 minute rain delay before game","1983ATL.EVN.regular.comment.csv",11
+"ATL198306050",20,"ej,herzw101,M,wendh901,Arguing for balk call Cardinals manager Whitey Herzog ejected by HP umpire Harry Wendelstedt arguing that Phil Niekro was balking on his pick off attempts to 1B; Lonnie Smith pick off after the ejection","1983ATL.EVN.regular.comment.csv",12
+"ATL198306070",6,"$Claudell Washington called for interference","1983ATL.EVN.regular.comment.csv",13
+"ATL198306090",36,"are these bunts?","1983ATL.EVN.regular.comment.csv",14
+"ATL198306300",32,"$home runs by Ray Knight and Bill Doran on consecutive pitches","1983ATL.EVN.regular.comment.csv",15
+"ATL198307010",11,"$ball hit wall and rebounded almost to infield","1983ATL.EVN.regular.comment.csv",16
+"ATL198307170",1,"Debut game for Greg Bargar","1983ATL.EVN.regular.comment.csv",17
+"ATL198307220",51,"DWS: bunt presumed","1983ATL.EVN.regular.comment.csv",18
+"ATL198307230",39,"DWS: bunt presumed","1983ATL.EVN.regular.comment.csv",19
+"ATL198308110",10,"Debut game for Gerald Perry","1983ATL.EVN.regular.comment.csv",20
+"ATL198308140",46,"Debut game for Brad Komminsk","1983ATL.EVN.regular.comment.csv",21
+"ATL198308300",67,"Jody Davis substitution may be in 9th","1983ATL.EVN.regular.comment.csv",22
+"ATL198308310",14,"WP may be with Ozzie at bat","1983ATL.EVN.regular.comment.csv",23
+"ATL198308310",39,"31 minute rain delay","1983ATL.EVN.regular.comment.csv",24
+"ATL198308310",42,"$bad hop over Glenn Hubbard's head","1983ATL.EVN.regular.comment.csv",25
+"ATL198308310",74,"$the ball fell between David Green and Willie McGee","1983ATL.EVN.regular.comment.csv",26
+"ATL198309010",8,"$Randy Johnson stole 2B when Darrell Porter flipped ball back to Neil Allen after catching the foul popup","1983ATL.EVN.regular.comment.csv",27
+"ATL198309010",17,"$the ball caromed off Pascual Perez' chest","1983ATL.EVN.regular.comment.csv",28
+"ATL198309010",47,"$Claudell Washington caught the ball over the top of the wall","1983ATL.EVN.regular.comment.csv",29
+"ATL198309010",78,"Gerald Perry called for interference for running into his own batted ball","1983ATL.EVN.regular.comment.csv",30
+"ATL198309020",62,"Debut game for Jeff Dedmon","1983ATL.EVN.regular.comment.csv",31
+"ATL198309030",67,"Debut game for Ron Wotus","1983ATL.EVN.regular.comment.csv",32
+"ATL198309050",9,"SB and PB possibly on same pitch??","1983ATL.EVN.regular.comment.csv",33
+"ATL198309160",51,"Debut game for Dennis Rasmussen","1983ATL.EVN.regular.comment.csv",34
+"ATL198309160",71,"missing fielding credit in ATL198309160","1983ATL.EVN.regular.comment.csv",35
+"ATL198309220",53,"DWS: unclear why there is no CS here, but officials say no","1983ATL.EVN.regular.comment.csv",36
+"ATL198309230",3,"SB and WP possibly on same play","1983ATL.EVN.regular.comment.csv",37
+"ATL198309250",68,"CS may be later","1983ATL.EVN.regular.comment.csv",38
+"ATL198309260",2,"DWS: Braves have 263, Giants 163","1983ATL.EVN.regular.comment.csv",39

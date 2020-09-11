@@ -1,34 +1,35 @@
-"MON198504220",51,"Infield hit","FILENAME_TX","LINE_NUMBER_CT"
-"MON198504220",68,"$all runners get extra base on UL Washington's error","1985MON.EVN.regular.comment.csv",2
-"MON198504230",36,"Infield hit","1985MON.EVN.regular.comment.csv",3
-"MON198504230",42,"DV need assist at 2b-dropped throw","1985MON.EVN.regular.comment.csv",4
-"MON198504230",63,"Infield hit","1985MON.EVN.regular.comment.csv",5
-"MON198504230",91,"$Phillies used 5-man infield (Von Hayes at 2b)","1985MON.EVN.regular.comment.csv",6
-"MON198504240",3,"Infield hit","1985MON.EVN.regular.comment.csv",7
-"MON198504240",12,"infield hit","1985MON.EVN.regular.comment.csv",8
-"MON198504240",18,"Infield hit","1985MON.EVN.regular.comment.csv",9
-"MON198504240",21,"Infield hit","1985MON.EVN.regular.comment.csv",10
-"MON198504250",64,"Infield hit","1985MON.EVN.regular.comment.csv",11
-"MON198504260",31,"$Tim Raines caught in rundown but Ozzie Smith hit Raines with throw on his way back to 1B","1985MON.EVN.regular.comment.csv",12
-"MON198504270",37,"$Ozzie Smith fell down rounding 2B","1985MON.EVN.regular.comment.csv",13
-"MON198504280",79,"$Jeff Reardon missed squeeze bunt","1985MON.EVN.regular.comment.csv",14
-"MON198505070",53,"1:46 rain delay","1985MON.EVN.regular.comment.csv",15
-"MON198505160",33,"$Herm Winningham thought ball would go through","1985MON.EVN.regular.comment.csv",16
-"MON198505190",42,"$Graig Nettles' 2000th career hit","1985MON.EVN.regular.comment.csv",17
-"MON198505190",57,"$Kevin McReynolds thrown out before Graig Nettles scores","1985MON.EVN.regular.comment.csv",18
-"MON198505210",68,"missing play in MON198505210","1985MON.EVN.regular.comment.csv",19
-"MON198505250",11,"$Alex Trevino rounded 1B too far","1985MON.EVN.regular.comment.csv",20
-"MON198505250",18,"$Manny Trillo ran Sal Butera back towards 1B; his throw to 1B hit Butera and rolled into foul territory; Trillo recovered it and threw to 2B for the force","1985MON.EVN.regular.comment.csv",21
-"MON198505260",43,"$pitch-out on squeeze attempt; Alex Trevino charged up the line to tag Herm Winningham","1985MON.EVN.regular.comment.csv",22
-"MON198506140",86,"Debut game for Al Newman","1985MON.EVN.regular.comment.csv",23
-"MON198506200",16,"$Johnnie Lemaster hurt","1985MON.EVN.regular.comment.csv",24
-"MON198506280",43,"$Charles Hudson called for a ball without pitching for the third and fourth balls of the walk to Dan Dreissen","1985MON.EVN.regular.comment.csv",25
-"MON198507010",1,"Debut game for Floyd Youmans","1985MON.EVN.regular.comment.csv",26
-"MON198507260",19,"$Dan Schatzeder hit Gary Redus with throw in rundown","1985MON.EVN.regular.comment.csv",27
-"MON198507260",91,"ej,rosep001,P,wendh901,Interference call $Pete Rose called out by HP umpire Harry Wendelstedt for running outside the baseline; Rose ejected by Wendelstedt arguing the ruling","1985MON.EVN.regular.comment.csv",28
-"MON198507280",34,"$Herm Winningham knocked the ball out of Dan Bilardello's glove","1985MON.EVN.regular.comment.csv",29
-"MON198508100",12,"$both Jim Morrison and Tony Pena end up at 3B","1985MON.EVN.regular.comment.csv",30
-"MON198508220",23,"ej,fitzm001,P,tatat901,Balls and strikes $Expos Fitzgerald, not in game, ejected by HP umpire Tata for arguing balls and strikes while Nettles at bat","1985MON.EVN.regular.comment.csv",31
-"MON198508230",66,"Debut game for Andres Galarraga","1985MON.EVN.regular.comment.csv",32
-"MON198508250",45,"ej,lasot101,M,demud901,Call at 3B Dodgers manager Tommy Lasorda ejected by 3B umpire Dana DeMuth","1985MON.EVN.regular.comment.csv",33
-"MON198510022",48,"$Steve Jeltz wandered off the bag thinking he was out","1985MON.EVN.regular.comment.csv",34
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"MON198504220",51,"Infield hit","1985MON.EVN.regular.comment.csv",2
+"MON198504220",68,"$all runners get extra base on UL Washington's error","1985MON.EVN.regular.comment.csv",3
+"MON198504230",36,"Infield hit","1985MON.EVN.regular.comment.csv",4
+"MON198504230",42,"DV need assist at 2b-dropped throw","1985MON.EVN.regular.comment.csv",5
+"MON198504230",63,"Infield hit","1985MON.EVN.regular.comment.csv",6
+"MON198504230",91,"$Phillies used 5-man infield (Von Hayes at 2b)","1985MON.EVN.regular.comment.csv",7
+"MON198504240",3,"Infield hit","1985MON.EVN.regular.comment.csv",8
+"MON198504240",12,"infield hit","1985MON.EVN.regular.comment.csv",9
+"MON198504240",18,"Infield hit","1985MON.EVN.regular.comment.csv",10
+"MON198504240",21,"Infield hit","1985MON.EVN.regular.comment.csv",11
+"MON198504250",64,"Infield hit","1985MON.EVN.regular.comment.csv",12
+"MON198504260",31,"$Tim Raines caught in rundown but Ozzie Smith hit Raines with throw on his way back to 1B","1985MON.EVN.regular.comment.csv",13
+"MON198504270",37,"$Ozzie Smith fell down rounding 2B","1985MON.EVN.regular.comment.csv",14
+"MON198504280",79,"$Jeff Reardon missed squeeze bunt","1985MON.EVN.regular.comment.csv",15
+"MON198505070",53,"1:46 rain delay","1985MON.EVN.regular.comment.csv",16
+"MON198505160",33,"$Herm Winningham thought ball would go through","1985MON.EVN.regular.comment.csv",17
+"MON198505190",42,"$Graig Nettles' 2000th career hit","1985MON.EVN.regular.comment.csv",18
+"MON198505190",57,"$Kevin McReynolds thrown out before Graig Nettles scores","1985MON.EVN.regular.comment.csv",19
+"MON198505210",68,"missing play in MON198505210","1985MON.EVN.regular.comment.csv",20
+"MON198505250",11,"$Alex Trevino rounded 1B too far","1985MON.EVN.regular.comment.csv",21
+"MON198505250",18,"$Manny Trillo ran Sal Butera back towards 1B; his throw to 1B hit Butera and rolled into foul territory; Trillo recovered it and threw to 2B for the force","1985MON.EVN.regular.comment.csv",22
+"MON198505260",43,"$pitch-out on squeeze attempt; Alex Trevino charged up the line to tag Herm Winningham","1985MON.EVN.regular.comment.csv",23
+"MON198506140",86,"Debut game for Al Newman","1985MON.EVN.regular.comment.csv",24
+"MON198506200",16,"$Johnnie Lemaster hurt","1985MON.EVN.regular.comment.csv",25
+"MON198506280",43,"$Charles Hudson called for a ball without pitching for the third and fourth balls of the walk to Dan Dreissen","1985MON.EVN.regular.comment.csv",26
+"MON198507010",1,"Debut game for Floyd Youmans","1985MON.EVN.regular.comment.csv",27
+"MON198507260",19,"$Dan Schatzeder hit Gary Redus with throw in rundown","1985MON.EVN.regular.comment.csv",28
+"MON198507260",91,"ej,rosep001,P,wendh901,Interference call $Pete Rose called out by HP umpire Harry Wendelstedt for running outside the baseline; Rose ejected by Wendelstedt arguing the ruling","1985MON.EVN.regular.comment.csv",29
+"MON198507280",34,"$Herm Winningham knocked the ball out of Dan Bilardello's glove","1985MON.EVN.regular.comment.csv",30
+"MON198508100",12,"$both Jim Morrison and Tony Pena end up at 3B","1985MON.EVN.regular.comment.csv",31
+"MON198508220",23,"ej,fitzm001,P,tatat901,Balls and strikes $Expos Fitzgerald, not in game, ejected by HP umpire Tata for arguing balls and strikes while Nettles at bat","1985MON.EVN.regular.comment.csv",32
+"MON198508230",66,"Debut game for Andres Galarraga","1985MON.EVN.regular.comment.csv",33
+"MON198508250",45,"ej,lasot101,M,demud901,Call at 3B Dodgers manager Tommy Lasorda ejected by 3B umpire Dana DeMuth","1985MON.EVN.regular.comment.csv",34
+"MON198510022",48,"$Steve Jeltz wandered off the bag thinking he was out","1985MON.EVN.regular.comment.csv",35

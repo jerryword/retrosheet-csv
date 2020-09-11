@@ -1,24 +1,25 @@
-"HOU196404210",63,"Debut game for Bobby Klaus","FILENAME_TX","LINE_NUMBER_CT"
-"HOU196404210",82,"Debut game for Steve Hertz Debut game for Walt Williams","1964HOU.EVN.regular.comment.csv",2
-"HOU196404220",26,"ej,tempj101,C,donaa901,Bench jockeying on play at 1B $Reds coach Temple ejected by 1B umpire Donatelli for arguing that Robinson was safe at 1st","1964HOU.EVN.regular.comment.csv",3
-"HOU196404220",48,"ej,asprb101,P,donaa901,Call at 1B ej,crafh101,M,donaa901,Call at 1B $Aspromonte and Astros manager Craft ejected by 1B umpire Augie Donatelli for arguing that Aspromonte was safe","1964HOU.EVN.regular.comment.csv",4
-"HOU196404230",45,"$Reds appealed that Fox had missed second, but were denied","1964HOU.EVN.regular.comment.csv",5
-"HOU196404230",61,"ej,adaij102,C,lands901,Call at 1B $Colts coach Adair ejected by 1B umpire Landes for Arguing that Fox was safe at 1st","1964HOU.EVN.regular.comment.csv",6
-"HOU196404230",62,"$Runnels called out by 1b umpire Landes, but call was reversed by plate umpire Donatelli; Reds played remainder of game under protest which was dropped they won game","1964HOU.EVN.regular.comment.csv",7
-"HOU196404280",26,"$Ken Johnson called out on appeal for leaving 3B too soon","1964HOU.EVN.regular.comment.csv",8
-"HOU196405170",40,"ej,dalrc101,P,weyel901,Balls and strikes ej,maucg101,M,weyel901,Balls and strikes Clay Dalrymple and Phillies Manager Gene Mauch ejected by HP umpire Lee Weyer","1964HOU.EVN.regular.comment.csv",9
-"HOU196405232",0,"$game started at 11pm; first game of DH began at 1:04; there were at least two rain delays, one between games","1964HOU.EVN.regular.comment.csv",10
-"HOU196405232",38,"$Al Spangler tried to score on throw back to the mound","1964HOU.EVN.regular.comment.csv",11
-"HOU196405232",45,"$bad throw after Bob Aspromonte faked going to HP","1964HOU.EVN.regular.comment.csv",12
-"HOU196405232",65,"$the Colts argued that Jesse Gonder interfered with play running to 2B","1964HOU.EVN.regular.comment.csv",13
-"HOU196407110",90,"$lights on","1964HOU.EVN.regular.comment.csv",14
-"HOU196407120",61,"ej,odelb101,P,weyel901,Argument while warming up to enter game $Pitcher O'Dell ejected by HP umpire Weyer while warming up","1964HOU.EVN.regular.comment.csv",15
-"HOU196407120",61,"$Gaylord Perry changed his shoes while sitting on the mound before starting his warmup throws","1964HOU.EVN.regular.comment.csv",16
-"HOU196407120",78,"ej,spana101,P,weyel901,Called third strike ej,crafh101,M,weyel901,Called third strike $Spangler and Colts manager Craft ejected by HP umpire Weyer for arguing called third strike","1964HOU.EVN.regular.comment.csv",17
-"HOU196407130",70,"ej,crafh101,M,venzt901,Call at 2B $Colts manager Craft ejected by 2B umpire Venzon for arguing call that SS Kasko missed base on attempted force","1964HOU.EVN.regular.comment.csv",18
-"HOU196407240",50,"$Hal Brown called for interference","1964HOU.EVN.regular.comment.csv",19
-"HOU196408140",57,"ej,brucb101,P,barla901,Call at HP Bob Bruce ejected by HP umpire Al Barlick arguing the call after Jerry Grote missed a squeeze attempt and Bob Lillis was tagged out","1964HOU.EVN.regular.comment.csv",20
-"HOU196408250",1,"Debut game for John Flavin","1964HOU.EVN.regular.comment.csv",21
-"HOU196409190",64,"ej,stenc101,M,craws901,Call at HP $Mets manager Stengel ejected by HP umpire Crawford for arguing that Kranepool was safe at home","1964HOU.EVN.regular.comment.csv",22
-"HOU196409220",1,"Debut game for Larry Dierker","1964HOU.EVN.regular.comment.csv",23
-"HOU196409250",62,"Debut game for Don Bradey","1964HOU.EVN.regular.comment.csv",24
+"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"HOU196404210",63,"Debut game for Bobby Klaus","1964HOU.EVN.regular.comment.csv",2
+"HOU196404210",82,"Debut game for Steve Hertz Debut game for Walt Williams","1964HOU.EVN.regular.comment.csv",3
+"HOU196404220",26,"ej,tempj101,C,donaa901,Bench jockeying on play at 1B $Reds coach Temple ejected by 1B umpire Donatelli for arguing that Robinson was safe at 1st","1964HOU.EVN.regular.comment.csv",4
+"HOU196404220",48,"ej,asprb101,P,donaa901,Call at 1B ej,crafh101,M,donaa901,Call at 1B $Aspromonte and Astros manager Craft ejected by 1B umpire Augie Donatelli for arguing that Aspromonte was safe","1964HOU.EVN.regular.comment.csv",5
+"HOU196404230",45,"$Reds appealed that Fox had missed second, but were denied","1964HOU.EVN.regular.comment.csv",6
+"HOU196404230",61,"ej,adaij102,C,lands901,Call at 1B $Colts coach Adair ejected by 1B umpire Landes for Arguing that Fox was safe at 1st","1964HOU.EVN.regular.comment.csv",7
+"HOU196404230",62,"$Runnels called out by 1b umpire Landes, but call was reversed by plate umpire Donatelli; Reds played remainder of game under protest which was dropped they won game","1964HOU.EVN.regular.comment.csv",8
+"HOU196404280",26,"$Ken Johnson called out on appeal for leaving 3B too soon","1964HOU.EVN.regular.comment.csv",9
+"HOU196405170",40,"ej,dalrc101,P,weyel901,Balls and strikes ej,maucg101,M,weyel901,Balls and strikes Clay Dalrymple and Phillies Manager Gene Mauch ejected by HP umpire Lee Weyer","1964HOU.EVN.regular.comment.csv",10
+"HOU196405232",0,"$game started at 11pm; first game of DH began at 1:04; there were at least two rain delays, one between games","1964HOU.EVN.regular.comment.csv",11
+"HOU196405232",38,"$Al Spangler tried to score on throw back to the mound","1964HOU.EVN.regular.comment.csv",12
+"HOU196405232",45,"$bad throw after Bob Aspromonte faked going to HP","1964HOU.EVN.regular.comment.csv",13
+"HOU196405232",65,"$the Colts argued that Jesse Gonder interfered with play running to 2B","1964HOU.EVN.regular.comment.csv",14
+"HOU196407110",90,"$lights on","1964HOU.EVN.regular.comment.csv",15
+"HOU196407120",61,"ej,odelb101,P,weyel901,Argument while warming up to enter game $Pitcher O'Dell ejected by HP umpire Weyer while warming up","1964HOU.EVN.regular.comment.csv",16
+"HOU196407120",61,"$Gaylord Perry changed his shoes while sitting on the mound before starting his warmup throws","1964HOU.EVN.regular.comment.csv",17
+"HOU196407120",78,"ej,spana101,P,weyel901,Called third strike ej,crafh101,M,weyel901,Called third strike $Spangler and Colts manager Craft ejected by HP umpire Weyer for arguing called third strike","1964HOU.EVN.regular.comment.csv",18
+"HOU196407130",70,"ej,crafh101,M,venzt901,Call at 2B $Colts manager Craft ejected by 2B umpire Venzon for arguing call that SS Kasko missed base on attempted force","1964HOU.EVN.regular.comment.csv",19
+"HOU196407240",50,"$Hal Brown called for interference","1964HOU.EVN.regular.comment.csv",20
+"HOU196408140",57,"ej,brucb101,P,barla901,Call at HP Bob Bruce ejected by HP umpire Al Barlick arguing the call after Jerry Grote missed a squeeze attempt and Bob Lillis was tagged out","1964HOU.EVN.regular.comment.csv",21
+"HOU196408250",1,"Debut game for John Flavin","1964HOU.EVN.regular.comment.csv",22
+"HOU196409190",64,"ej,stenc101,M,craws901,Call at HP $Mets manager Stengel ejected by HP umpire Crawford for arguing that Kranepool was safe at home","1964HOU.EVN.regular.comment.csv",23
+"HOU196409220",1,"Debut game for Larry Dierker","1964HOU.EVN.regular.comment.csv",24
+"HOU196409250",62,"Debut game for Don Bradey","1964HOU.EVN.regular.comment.csv",25
