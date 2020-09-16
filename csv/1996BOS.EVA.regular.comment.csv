@@ -1,4 +1,4 @@
-"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"GAME_ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
 "BOS199604260",49,"$fan interference","1996BOS.EVA.regular.comment.csv",2
 "BOS199605030",0,"Suspend=19960504,,6,1,36","1996BOS.EVA.regular.comment.csv",3
 "BOS199605030",60,"suspended,19960504,BOS07,curfew Game suspended at 1 AM for curfew after rain delays totaling 3:43; game completed on the next day","1996BOS.EVA.regular.comment.csv",4

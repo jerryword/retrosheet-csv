@@ -1,4 +1,4 @@
-"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"GAME_ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
 "MIL201403310",46,"replay,6,braur002,MIL,barrt901,MIL06,,Y,M,ATL,C $Braves manager Fredi Gonzalez challenged the call at 1B when Ryan Braun was ruled safe; the review overturned the call, which was the first time a call was changed in the newly expanded replay system","2014MIL.EVN.regular.comment.csv",2
 "MIL201404120",68,"replay,9,martr004,PIT,millb901,MIL06,,N,M,PIT,C $Pirates manager Clint Hurdle challenged the call at 1B when the throw was wide; replay confirmed the call that Mark Reynolds kept his foot on the bag","2014MIL.EVN.regular.comment.csv",3
 "MIL201404140",32,"ej,carpm002,P,davib902,Called strike three Cardinals third baseman Matt Carpenter ejected by HP umpire Bob Davidson","2014MIL.EVN.regular.comment.csv",4

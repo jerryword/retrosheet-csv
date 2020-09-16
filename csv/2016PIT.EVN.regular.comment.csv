@@ -1,4 +1,4 @@
-"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"GAME_ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
 "PIT201604030",5,"replay,1,mccua001,PIT,cedeg901,PIT08,,N,M,SLN,I $when Andrew McCutchen was ruled to have been hit by a pitch, Cardinals manager Mike Matheny challenged the call; the ruling was upheld by replay","2016PIT.EVN.regular.comment.csv",2
 "PIT201604030",11,"Cardinals left fielder Tommy Pham left the game due to an injured side","2016PIT.EVN.regular.comment.csv",3
 "PIT201604030",15,"replay,2,lirif001,PIT,cedeg901,PIT08,,N,U,,Q $Francisco Liriano's grounder was close to striking Jordy Mercer, Cardinals manmager Mike Matheny asked about the call; after a crew chief review, the play was deemed not reviewable","2016PIT.EVN.regular.comment.csv",4

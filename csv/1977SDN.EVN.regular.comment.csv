@@ -1,4 +1,4 @@
-"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"GAME_ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
 "SDN197704290",0,"$the Mets spent most of the game batting out of order; the lineup shows six through eight as Roy Staiger, John Stearns and Bud Harrelson; this is a change from recent games, as Staiger and Stearns are reversed; they bat in the wrong order three times through the lineup without the Padres saying anything, including a home run by Stearns","1977SDN.EVN.regular.comment.csv",2
 "SDN197704290",7,"$John Stearns batted out of order","1977SDN.EVN.regular.comment.csv",3
 "SDN197704290",10,"$the proper batter is Harrelson but Staiger batted","1977SDN.EVN.regular.comment.csv",4

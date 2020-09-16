@@ -1,4 +1,4 @@
-"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"GAME_ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
 "CIN199604040",1,"Debut game for Jose Paniagua","1996CIN.EVN.regular.comment.csv",2
 "CIN199605100",0,"Suspend=19960511,,3,5,37","1996CIN.EVN.regular.comment.csv",3
 "CIN199605100",57,"suspended,19960511,CIN08,curfew $game suspended for curfew and resumed the next day","1996CIN.EVN.regular.comment.csv",4

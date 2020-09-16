@@ -1,4 +1,4 @@
-"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"GAME_ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
 "DET201104100",50,"replay,6,avila001,DET,welkt901,DET05,O,N,I,,H $Alex Avila's fly ball was caught by a fan who reached over the metal fence; the play was ruled a homer but Kansas City manager Ned Yost asked about the call; crew chief Tim Welke watched the replay and upheld the call since the ball cleared the wall before being touched","2011DET.EVA.regular.comment.csv",2
 "DET201104110",6,"umpchange,2,ump2b,welkt901 $the game started with three umpires; Tim Welke, who was off and at home, drove to the park to fill Jeff Kellogg's spot","2011DET.EVA.regular.comment.csv",3
 "DET201104110",49,"Tiger RF Magglio Ordonez left the game with tightness in his right achilles","2011DET.EVA.regular.comment.csv",4

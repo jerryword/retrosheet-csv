@@ -1,4 +1,4 @@
-"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"GAME_ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
 "PHI195404150",52,"Game called for rain","1954PHI.EVN.regular.comment.csv",2
 "PHI195404181",62,"To mtach daily/TSN, arbitrary 31 changed to 1","1954PHI.EVN.regular.comment.csv",3
 "PHI195404200",23,"To match daily/TSN, arbitrary 3 to 31","1954PHI.EVN.regular.comment.csv",4

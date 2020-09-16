@@ -1,4 +1,4 @@
-"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"GAME_ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
 "CHN201610080",49,"replay,6,baezj001,CHN,hirsj901,CHI11,,Y,M,SFN,A $when Javier Baez was called safe at 2B, Giants manager Bruce Bochy challenged the ruling; the call was overturned by replay","2016NLD1.EVE.post.comment.csv",2
 "SFN201610100",51,"replay,6,gillc001,SFN,hirsj901,SFO03,,N,M,SFN,C $when Conor Gillaspie was called out at 1B, Giants manager Bruce Bochy challenged the ruling; the call was upheld by replay","2016NLD1.EVE.post.comment.csv",3
 "SFN201610100",97,"replay,12,almoa002,CHN,hirsj901,SFO03,,Y,M,SFN,D $when Denard Span was ruled not to have caught the sinking liner, Giants manager Bruce Bochy challenged the ruling; the call was overturned by replay","2016NLD1.EVE.post.comment.csv",4

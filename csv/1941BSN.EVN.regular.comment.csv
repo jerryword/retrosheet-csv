@@ -1,4 +1,4 @@
-"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"GAME_ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
 "BSN194104180",0,"could not add missing A for dahlb101","1941BSN.EVN.regular.comment.csv",2
 "BSN194104191",0,"failed for a camid102 A","1941BSN.EVN.regular.comment.csv",3
 "BSN194104191",67,"arbitrary 4 to 3, matching ebn+nyt","1941BSN.EVN.regular.comment.csv",4

@@ -1,4 +1,4 @@
-"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"GAME_ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
 "LAN201704030",36,"replay,4,turnj001,LAN,vanol901,LOS03,,N,M,SDN,O $when Justin Turner's hit down the LF line was ruled fair, Padres manager Andy Green challenged the ruling; the call was upheld by replay","2017LAN.EVN.regular.comment.csv",2
 "LAN201704040",44,"replay,6,turnj001,LAN,vanol901,LOS03,,N,M,LAN,I $when Justin Turner was ruled not to have been hit by a pitch, Dodgers manager Dave Roberts challenged the ruling; the call was upheld by replay","2017LAN.EVN.regular.comment.csv",3
 "LAN201704060",53,"replay,6,forsl001,LAN,vanol901,LOS03,,N,M,SDN,A $when Enrique Hernandez was called safe at HP, Padres manager Andy Green challenged the ruling; the call was upheld by replay","2017LAN.EVN.regular.comment.csv",4

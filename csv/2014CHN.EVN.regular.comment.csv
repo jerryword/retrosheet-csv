@@ -1,4 +1,4 @@
-"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"GAME_ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
 "CHN201404060",41,"replay,5,utlec001,PHI,scotd901,CHI11,,N,M,PHI,C $Phillies manager Ryne Sandberg challenged the out call at 1B, which was confirmed by replay","2014CHN.EVN.regular.comment.csv",2
 "CHN201404080",81,"ej,rentr001,M,nelsj901,Balls and strikes Cubs manager Rick Renteria ejected by HP umpire Jeff Jelson arguing that the fourth pitch was a strike","2014CHN.EVN.regular.comment.csv",3
 "CHN201404090",52,"replay,6,lakej001,CHN,nelsj901,CHI11,,Y,M,CHN,C $Junior Lake was ruled out at 1B; Cubs manager Rich Renteria challenged the call, which was overturned by replay","2014CHN.EVN.regular.comment.csv",4

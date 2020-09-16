@@ -1,4 +1,4 @@
-"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"GAME_ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
 "ARI201403220",0,"$Game played at Sydney Cricket Ground, Sydney, Australia; the first MLB game played south of the equator; 14 minute rain delay before start of game","2014ARI.EVN.regular.comment.csv",2
 "ARI201403230",0,"$Game played at Sydney Cricket Ground, Sydney, Australia","2014ARI.EVN.regular.comment.csv",3
 "ARI201403310",0,"Debut for umpire Pat Hoberg","2014ARI.EVN.regular.comment.csv",4

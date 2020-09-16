@@ -1,4 +1,4 @@
-"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"GAME_ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
 "WS1195704180",0,"ej,harrl101,C,hurle901,Balls and strikes $Orioles coach Harris ejected by HP umpire Hurley sometime in game for arguing balls and strikes","1957WS1.EVA.regular.comment.csv",2
 "WS1195704212",0,"Suspend=19570527,,1,2,30","1957WS1.EVA.regular.comment.csv",3
 "WS1195704212",40,"umpchange,6,umphome,soarh901 umpchange,6,ump1b,tabaf901 umpchange,6,ump2b,berrc103 umpchange,6,ump3b,mckib901 suspended,19570527,WAS09,light failure $game suspended when the lights wouldn't come on; resumed 5/27 with new umpires","1957WS1.EVA.regular.comment.csv",4

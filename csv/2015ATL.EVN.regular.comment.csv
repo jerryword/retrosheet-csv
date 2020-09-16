@@ -1,4 +1,4 @@
-"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"GAME_ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
 "ATL201504130",15,"replay,2,maybc001,ATL,kellj901,ATL02,,N,M,ATL,D $when the play is ruled a catch, Braves manager Fredi Gonzalez challenged the ruling; the call was upheld by replay","2015ATL.EVN.regular.comment.csv",2
 "ATL201504270",43,"ej,freef001,P,hirsj901,Leaving dugout after HBP Braves first baseman Freddie Freeman ejected by 3B umpire John Hirschbeck","2015ATL.EVN.regular.comment.csv",3
 "ATL201504270",58,"replay,7,johnr008,WAS,hirsj901,ATL02,,Y,M,WAS,I $when a pitch to Reed Johnson was ruled a foul ball, Nationals manager Matt Williams challenged the ruling; the call was overturned by replay to hit by pitch","2015ATL.EVN.regular.comment.csv",4

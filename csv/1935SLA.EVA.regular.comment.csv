@@ -1,4 +1,4 @@
-"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"GAME_ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
 "SLA193504290",47,"End of newspaper PBP, rest is deduced from DFP & SLGD","1935SLA.EVA.regular.comment.csv",2
 "SLA193504290",86,"No info about Bell's error, but it fits here","1935SLA.EVA.regular.comment.csv",3
 "SLA193505080",39,"End of play-by-play, rest based on newspaper stories","1935SLA.EVA.regular.comment.csv",4

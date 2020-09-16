@@ -1,4 +1,4 @@
-"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"GAME_ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
 "ARI201704020",42,"replay,6,herng001,SFN,gibsg901,PHO01,,Y,M,ARI,A $when the pitch bounced away from catcher Jeff Mathis, Eduardo Nunez attempted to advance to 3B; when Nunez was called safe, D-Backs manager Torey Lovullo challenged the ruling; the call was overturned by replay","2017ARI.EVN.regular.comment.csv",2
 "ARI201704020",54,"replay,7,beltb001,SFN,gibsg901,PHO01,,N,M,SFN,A $when Denard Span was called out at 1B, Giants manager Bruce Bochy challenged the ruling; the call was upheld by replay","2017ARI.EVN.regular.comment.csv",3
 "ARI201704050",16,"replay,2,drurb001,ARI,gibsg901,PHO01,,Y,M,ARI,C $when Brandon Drury was called out at 1B, D-backs manager Torey Lovullo challenged the ruling; the call was overturned by replay","2017ARI.EVN.regular.comment.csv",4

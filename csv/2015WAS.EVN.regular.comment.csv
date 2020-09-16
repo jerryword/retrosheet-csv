@@ -1,4 +1,4 @@
-"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"GAME_ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
 "WAS201504180",17,"replay,3,haraa001,PHI,vanol901,WAS11,,Y,M,PHI,C $when Aaron Harang was called out at 1B, Phillies manager Ryne Sandberg challenged the ruling; the call was overturned by replay","2015WAS.EVN.regular.comment.csv",2
 "WAS201504180",77,"umpchange,9,umphome,vanol901 umpchange,9,ump2b,(None) $HP umpire Brian Knight struck on the mask by a pitch; the catcher did not touch the ball as it went by and Knight was knocked to the ground; 2B umpire Larry Vanover moved to HP after a 12 minute delay","2015WAS.EVN.regular.comment.csv",3
 "WAS201504210",27,"$Bryce Harper out on appeal for not touching 2B on his way back to 1B after the catch","2015WAS.EVN.regular.comment.csv",4

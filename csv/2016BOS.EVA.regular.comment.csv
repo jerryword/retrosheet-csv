@@ -1,4 +1,4 @@
-"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"GAME_ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
 "BOS201604110",86,"replay,9,ortid001,BOS,culbf901,BOS07,,N,M,BOS,C $when David Ortiz was called out at 1B, Red Sox manager John Farrell challenged the ruling; the call was upheld by replay","2016BOS.EVA.regular.comment.csv",2
 "BOS201604120",27,"replay,4,hardj003,BAL,culbf901,BOS07,I,N,U,,H $J.J. Hardy's fly to RF bounced on the top of the wall just beyond the RF pole and caromed into the seats; the ball was ruled a home run; crew chief Fieldin Culbreth requested a review, which upheld the call","2016BOS.EVA.regular.comment.csv",3
 "BOS201604120",67,"replay,8,flahr001,BAL,culbf901,BOS07,,N,M,BAL,A $when Ryan Flaherty was called out at 2B, Orioles manager Buck Showalter challenged the call; the ruling was upheld by replay","2016BOS.EVA.regular.comment.csv",4

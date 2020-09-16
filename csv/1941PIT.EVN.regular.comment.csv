@@ -1,4 +1,4 @@
-"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"GAME_ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
 "PIT194104200",47,"$rain started","1941PIT.EVN.regular.comment.csv",2
 "PIT194106140",0,"Play by Play from Boston Globe for first 3-1/2 innings","1941PIT.EVN.regular.comment.csv",3
 "PIT194106140",30,"End of play-by-play. Rest of game is deduced. $17 minute rain delay at start of fourth inning","1941PIT.EVN.regular.comment.csv",4

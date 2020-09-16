@@ -1,4 +1,4 @@
-"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"GAME_ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
 "BSN193405200",0,"Cloudy and warm","1934BSN.EVN.regular.comment.csv",2
 "BSN193405200",73,"Error on throw to 2B","1934BSN.EVN.regular.comment.csv",3
 "BSN193405220",0,"Clear and hot","1934BSN.EVN.regular.comment.csv",4

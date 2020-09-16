@@ -1,4 +1,4 @@
-"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"GAME_ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
 "LAN201604120",42,"replay,5,puigy001,LAN,gormb901,LOS03,,N,M,ARI,A $when Yasiel Puig was called safe at 2B, D-Backs manager Chip Hale challenged the ruling; the call was upheld by replay","2016LAN.EVN.regular.comment.csv",2
 "LAN201604130",3,"replay,1,goldp001,ARI,gormb901,LOS03,,Y,M,ARI,C $when Paul Goldschmidt was called out at 1B, D-Backs manager Chip Hale challenged the ruling; the call was overturned by replay","2016LAN.EVN.regular.comment.csv",3
 "LAN201604130",28,"replay,4,tomay001,ARI,gormb901,LOS03,,Y,M,LAN,C $when Yasmany Tomas was called safe at 1B, Dodgers manager Dave Roberts challenged the ruling; the was overturned by replay","2016LAN.EVN.regular.comment.csv",4

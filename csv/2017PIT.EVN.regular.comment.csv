@@ -1,4 +1,4 @@
-"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"GAME_ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
 "PIT201704070",50,"Braves right fielder Matt Kemp left the game due to an injured leg","2017PIT.EVN.regular.comment.csv",2
 "PIT201704080",43,"replay,4,marts002,PIT,hallt901,PIT08,,Y,M,ATL,C $when Starling Marte was called safe at 1B, Braves manager Brian Snitker challenged the ruling; the call was overturned by replay","2017PIT.EVN.regular.comment.csv",3
 "PIT201704080",65,"replay,6,polag001,PIT,hallt901,PIT08,,N,M,PIT,A $when Gregory Polanco was called out at 2B, Pirates manager Clint Hurdle challenged the ruling; the call was upheld by replay","2017PIT.EVN.regular.comment.csv",4

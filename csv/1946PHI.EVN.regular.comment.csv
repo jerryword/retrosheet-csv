@@ -1,4 +1,4 @@
-"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"GAME_ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
 "PHI194604212",55,"$game called for curfew","1946PHI.EVN.regular.comment.csv",2
 "PHI194604240",3,"$370 feet","1946PHI.EVN.regular.comment.csv",3
 "PHI194605170",57,"$game called for rain","1946PHI.EVN.regular.comment.csv",4

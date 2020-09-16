@@ -1,4 +1,4 @@
-"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"GAME_ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
 "SDN201104080",0,"Suspend=20110409,,2,2,48","2011SDN.EVN.regular.comment.csv",2
 "SDN201104080",1,"$the start was delayed 28 minutes waiting for rain that did not happen; the rain started after the game started","2011SDN.EVN.regular.comment.csv",3
 "SDN201104080",10,"94 minute rain delay","2011SDN.EVN.regular.comment.csv",4

@@ -1,4 +1,4 @@
-"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"GAME_ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
 "HOU201504090",53,"replay,6,cartc002,HOU,barrt901,HOU03,,N,M,HOU,C $when Chris Carter was called out at 1B, Astros manager A.J. Hinch challenged the ruling; the call was upheld by replay","2015HOU.EVA.regular.comment.csv",2
 "HOU201504130",63,"replay,8,altuj001,HOU,welkt901,HOU03,,N,M,OAK,C $when Jose Altuve was called safe at 1B, Athletics manager Bob Melvin challenged the ruling; the call was upheld by replay","2015HOU.EVA.regular.comment.csv",3
 "HOU201504140",46,"replay,6,lawrb002,OAK,welkt901,HOU03,,Y,M,HOU,A $when Stephen Vogt was called safe at 2B, Astros manager A.J. Hinch challenged the ruling; the call was overturned by replay","2015HOU.EVA.regular.comment.csv",4

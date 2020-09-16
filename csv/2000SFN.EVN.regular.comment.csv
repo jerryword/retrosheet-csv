@@ -1,4 +1,4 @@
-"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"GAME_ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
 "SFN200004110",0,"$First game at Pacific Bell Park","2000SFN.EVN.regular.comment.csv",2
 "SFN200004120",0,"Suspend=20000413,,3,4,36","2000SFN.EVN.regular.comment.csv",3
 "SFN200004120",49,"suspended,20000413,SFO03,rain $game suspended for rain until the next day","2000SFN.EVN.regular.comment.csv",4

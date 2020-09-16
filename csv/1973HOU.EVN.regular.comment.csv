@@ -1,4 +1,4 @@
-"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"GAME_ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
 "HOU197304230",39,"$Dave Roberts threw his bat at Bill Greif","1973HOU.EVN.regular.comment.csv",2
 "HOU197304270",88,"$Expos used a 5-man infield; Bob Stinson entered in Jorge Roque's lineup spot, but was positioned at 3B; official totals show him at 3B, but he is correctly playing CF; also Laboy was temporarily positioned at 2B, but the official totals have him with a game at this position, which is not correct","1973HOU.EVN.regular.comment.csv",3
 "HOU197304280",28,"missing fielding in HOU197304280","1973HOU.EVN.regular.comment.csv",4

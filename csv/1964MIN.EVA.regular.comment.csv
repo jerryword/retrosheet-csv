@@ -1,4 +1,4 @@
-"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"GAME_ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
 "MIN196405060",25,"discrepancy: Official doesn't give Moran a GDP","1964MIN.EVA.regular.comment.csv",2
 "MIN196406010",11,"437 ft off scoreboard","1964MIN.EVA.regular.comment.csv",3
 "MIN196406010",63,"460 ft","1964MIN.EVA.regular.comment.csv",4

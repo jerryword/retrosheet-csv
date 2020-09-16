@@ -1,4 +1,4 @@
-"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"GAME_ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
 "SLA194006302",71,"$game called for Tigers to catch train","1940.EDA.regular.comment.csv",2
 "DET194007240",14,"$next pair also OK in I5, I9","1940.EDA.regular.comment.csv",3
 "CHA194007230",16,"pbp account ends here, rest deduced","1940.EDA.regular.comment.csv",4

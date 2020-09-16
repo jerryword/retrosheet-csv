@@ -1,4 +1,4 @@
-"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"GAME_ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
 "CIN201504080",46,"$Runner attempted to steal on first pitch, but the batter hit the catcher with his backswing and the runner was returned to first base according to the comment on Rule 6.06(c) concerning 'unintentional interference'","2015CIN.EVN.regular.comment.csv",2
 "CIN201504110",57,"replay,8,gricr001,SLN,westj901,CIN09,,N,M,CIN,C $when Randal Grichuk was called safe at 1B, Reds Manager Bryan Price challenged the ruling; the call was upheld by replay","2015CIN.EVN.regular.comment.csv",3
 "CIN201504120",68,"ej,pricb801,M,westj901,HBP call Reds Manager Bryan Price ejected by 3B umpire Joe West","2015CIN.EVN.regular.comment.csv",4

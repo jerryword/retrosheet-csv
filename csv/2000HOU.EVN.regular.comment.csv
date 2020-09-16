@@ -1,4 +1,4 @@
-"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"GAME_ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
 "HOU200004070",0,"$First game at Enron Field","2000HOU.EVN.regular.comment.csv",2
 "HOU200005080",20,"$Biggio dropped the popup - still SF although force","2000HOU.EVN.regular.comment.csv",3
 "HOU200005140",43,"ej,cases001,P,vanvm901,Balls and strikes ej,oestr001,C,vanvm901,Balls and strikes Reds coach Ron Oester and Sean Casey ejected by HP umpire Mike Vanvleet","2000HOU.EVN.regular.comment.csv",4

@@ -1,4 +1,4 @@
-"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"GAME_ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
 "BOS192405080",27,"$rain delay","1924BOS.EVA.regular.comment.csv",2
 "BOS192405080",45,"30 minute rain delay","1924BOS.EVA.regular.comment.csv",3
 "BOS192405140",0,"Weather: high wind","1924BOS.EVA.regular.comment.csv",4

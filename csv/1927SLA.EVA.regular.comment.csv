@@ -1,4 +1,4 @@
-"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"GAME_ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
 "SLA192704150",41,"$Game called for rain","1927SLA.EVA.regular.comment.csv",2
 "SLA192704180",36,"$Roger Peckinpaugh called for interference","1927SLA.EVA.regular.comment.csv",3
 "SLA192704190",57,"$Wally Schang was trapped when Wally Gerber stopped at 3B","1927SLA.EVA.regular.comment.csv",4

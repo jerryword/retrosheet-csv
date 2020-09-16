@@ -1,4 +1,4 @@
-"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"GAME_ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
 "WAS201404040",39,"replay,5,desmi001,WAS,joycj901,WAS11,,Y,M,ATL,S $the ball hit the LF wall under the padding and stuck there; Justin Upton threw his hands up indeicating the ball was out of play; 3B umpire Marvin Hudson made no call and Ian Desmond ran the circuit; Braves manager Fredi Gonzalez challenged the ruling, which was overturned to out of play","2014WAS.EVN.regular.comment.csv",2
 "WAS201404060",8,"replay,1,desmi001,WAS,joycj901,WAS11,,N,M,WAS,C $Nationals manager Matt Williams challenged the out call at 1B, which was upheld by replay","2014WAS.EVN.regular.comment.csv",3
 "WAS201404080",34,"$Henderson Alvzrez called for interference","2014WAS.EVN.regular.comment.csv",4

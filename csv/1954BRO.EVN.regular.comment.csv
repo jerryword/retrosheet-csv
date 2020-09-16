@@ -1,4 +1,4 @@
-"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"GAME_ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
 "BRO195404150",39,"To match dailys and boxes, arbitrary 9 changed to 4","1954BRO.EVN.regular.comment.csv",2
 "BRO195405130",66,"changed arbitrary 3G to 31G, to match stats/boxes. Could be Furillo instead","1954BRO.EVN.regular.comment.csv",3
 "BRO195405140",72,"$Stan Musial called out at 3B but Don Hoak dropped the ball","1954BRO.EVN.regular.comment.csv",4

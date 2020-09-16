@@ -1,4 +1,4 @@
-"GAME ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
+"GAME_ID","EVENT_ID","COMMENT_TX","FILENAME_TX","LINE_NUMBER_CT"
 "CHN195604222",64,"$game called due to darkness","1956CHN.EVN.regular.comment.csv",2
 "CHN195605020",130,"Play by play data ends here, rest of game deduced from newspapers","1956CHN.EVN.regular.comment.csv",3
 "CHN195605061",17,"$HP umpire Vic Delmore called Dick Groat out but 1B umpire Jocko Conlan overruled","1956CHN.EVN.regular.comment.csv",4
